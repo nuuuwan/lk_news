@@ -1,5 +1,6 @@
 import random
 from dataclasses import dataclass
+from functools import cached_property
 from typing import Generator
 
 from utils import File, Hash, Log, Time, TimeFormat
@@ -14,6 +15,10 @@ log = Log("NewsArticle")
 class NewsArticle(AbstractDoc):
     newspaper_id: str
     time_ut: int
+
+    @cached_property
+    def cmp(self):
+        return (self.time_ut, self.doc_id)
 
     def write_text_from_article(self, article):
         if not self.has_text:
@@ -50,9 +55,3 @@ class NewsArticle(AbstractDoc):
             article_list = newspaper_cls.scrape()
             for article in article_list:
                 yield cls.from_news_lk3_article(article)
-
-    @classmethod
-    def list_all(cls):
-        doc_list = AbstractDoc.list_all()
-        doc_list.sorted(key=lambda d: (-d.time_ut, d.doc_id))
-        return doc_list
