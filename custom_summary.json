@@ -1,23 +1,24 @@
 {
   "MIN_T_DAYS": 7,
-  "no_data": [],
+  "no_data": [
+    "adaderanalk",
+    "adaderanasinhalalk",
+    "ceylontodaylk",
+    "dailymirrorlk",
+    "dailynewslk",
+    "divainalk",
+    "islandlk",
+    "newsfirstlk"
+  ],
   "newspaper_to_n": {
-    "dailyftlk": 77,
-    "lankadeepalk": 66,
-    "tamilmirrorlk": 43,
-    "adalk": 41,
-    "divainalk": 37,
-    "adaderanalk": 32,
-    "dailynewslk": 31,
-    "economynextcom": 31,
-    "virakesarilk": 26,
-    "adaderanasinhalalk": 25,
-    "bbccomsinhala": 21,
-    "islandlk": 18,
-    "newsfirstlk": 14,
-    "ceylontodaylk": 12,
+    "dailyftlk": 73,
+    "lankadeepalk": 42,
+    "adalk": 36,
+    "tamilmirrorlk": 30,
+    "economynextcom": 30,
+    "bbccomsinhala": 20,
+    "virakesarilk": 12,
     "colombotelegraphcom": 10,
-    "dailymirrorlk": 8,
     "dbsjeyarajcom": 2
   }
 }
