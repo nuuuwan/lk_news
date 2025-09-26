@@ -3,7 +3,7 @@ from dataclasses import dataclass
 from functools import cached_property
 from typing import Generator
 
-from utils import File, Hash, Log, Time, TimeFormat
+from utils import File, Hash, JSONFile, Log, Time, TimeFormat
 
 from lk_news.NewspaperFactory import NewspaperFactory
 from scraper import AbstractDoc
@@ -51,7 +51,12 @@ class NewsArticle(AbstractDoc):
     def gen_docs(cls) -> Generator["NewsArticle", None, None]:
         newspaper_cls_list = NewspaperFactory.list_all()
         random.shuffle(newspaper_cls_list)
+        newspaper_to_n = {}
         for newspaper_cls in newspaper_cls_list:
             article_list = newspaper_cls.scrape()
+            newspaper_to_n[newspaper_cls.get_newspaper_id()] = len(
+                article_list
+            )
+            JSONFile("newspaper_to_n.json").write(newspaper_to_n)
             for article in article_list:
                 yield cls.from_news_lk3_article(article)
