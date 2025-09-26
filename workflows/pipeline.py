@@ -41,5 +41,5 @@ def build_custom_summary():
 
 
 if __name__ == "__main__":
-    # NewsArticle.run_pipeline()
+    NewsArticle.run_pipeline()
     build_custom_summary()
