@@ -25,7 +25,7 @@ class NewsArticle(AbstractDoc):
         text_content = "\n\n".join(
             [article.original_title] + article.original_body_lines
         )
-        assert len(text_content) > 30, text_content
+        assert len(text_content) > 10, text_content
 
         if not self.has_text:
             File(self.text_path).write(text_content)
