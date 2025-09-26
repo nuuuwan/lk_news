@@ -1,7 +1,8 @@
 from abc import ABC
+from typing import Generator
 
 from bs4 import BeautifulSoup
-from utils import Log, Parallel, String, TimeFormat
+from utils import Log, String, TimeFormat
 
 from news_lk3.core.article.Article import Article
 from utils_future import WWW
@@ -97,16 +98,12 @@ class AbstractNewsPaper(ABC):
         raise NotImplementedError
 
     @classmethod
-    def get_article_urls(cls):
-        article_urls = []
+    def gen_article_urls(cls) -> Generator[str, None, None]:
         for index_url in cls.get_index_urls():
             soup = cls.get_soup(index_url)
             if soup:
-                article_urls += cls.parse_article_urls(soup)
-
-        newspaper_id = cls.get_newspaper_id()
-        log.info(f"Found {len(article_urls)} articles for {newspaper_id}")
-        return article_urls
+                for article_url in cls.parse_article_urls(soup):
+                    yield article_url
 
     @classmethod
     def parse_article(cls, article_url):
@@ -152,27 +149,8 @@ class AbstractNewsPaper(ABC):
             return None
 
     @classmethod
-    def scrape(cls):
-        article_urls = cls.get_article_urls()
-
-        workers = []
-        for article_url in article_urls:
-
-            def worker(article_url=article_url):
-                article = cls.parse_and_store_article(article_url)
-                return article
-
-            workers.append(worker)
-
-        article_list_raw = Parallel.run(
-            workers,
-            max_threads=6,
-        )
-
-        article_list = list(
-            filter(
-                lambda article: article,
-                article_list_raw,
-            )
-        )
-        return article_list
+    def gen_articles(cls) -> Generator[Article, None, None]:
+        for article_url in cls.gen_article_urls():
+            article = cls.parse_and_store_article(article_url)
+            if article:
+                yield article
