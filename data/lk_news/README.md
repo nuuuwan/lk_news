@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_10:40:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_11:08:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**458** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**6.4 MB**), from **2023-05-16** to **2025-09-26**, scraped from **[https://www.virakesari.lk](https://www.virakesari.lk)**
+- [**460** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**13.7 MB**), from **2023-05-16** to **2025-09-26**, scraped from **[https://www.virakesari.lk](https://www.virakesari.lk)**
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -52,13 +52,13 @@ A collection of lk_news documents.
 - 2025-09-26 | `virakesarilk-05688bb4` | மத்திய மாகாண அரச அதிகாரிகளுக்கு டிஜிட்டல் மயமாக்கல் மற்றும் AI தொழில்நுட்பத்தின் பயன்பாடு குறித்து விழிப்புணர்வு ஏற்படுத்தும் நிகழ்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-05688bb4)
 - 2025-09-26 | `tamilmirrorlk-cc58ea94` | புகையிரத சேவைகளில் தாமதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-cc58ea94)
 - 2025-09-26 | `tamilmirrorlk-cb801e6a` | ஒல்கொட் மாவத்தையில்‌ பேருந்து மீது முறிந்து விழுந்த மரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-cb801e6a)
+- 2025-09-26 | `tamilmirrorlk-ba004fd5` | கோழி லொறி மீது மோதிய காட்டு யானை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-ba004fd5)
 - 2025-09-26 | `tamilmirrorlk-aa010680` | சாவகச்சேரியில் கோர விபத்து: இளைஞர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-aa010680)
 - 2025-09-26 | `tamilmirrorlk-804f6e22` | பல பகுதிகளுக்கு மண்சரிவு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-804f6e22)
 - 2025-09-26 | `tamilmirrorlk-00c92491` | 24 மணித்தியாலங்களில் 100 மில்லி மீற்றர் மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-00c92491)
 - 2025-09-26 | `economynextcom-ea419831` | Sri Lanka’s Hayleys Fentons assigned national long-term rating of A+ by Fitch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-economynextcom-ea419831)
 - 2025-09-26 | `economynextcom-8e681491` | Sri Lanka sells extra Rs275mn Treasury bills after auction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-economynextcom-8e681491)
 - 2025-09-26 | `dailyftlk-fee4728b` | Asia-Pacific advances agenda for living wages | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-dailyftlk-fee4728b)
-- 2025-09-26 | `dailyftlk-ede15942` | CoPF considers regulations under Imports and Exports (Control) Act | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-dailyftlk-ede15942)
 
 ---
 
