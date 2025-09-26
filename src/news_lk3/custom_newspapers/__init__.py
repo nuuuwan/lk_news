@@ -1,5 +1,6 @@
-# Auto-Generated with build_custom_newspaper_init.py
-# 646b1344635b58574f77501f5aa6f6f2
+# news_lk3.custom_newspapers (auto generate by build_inits.py)
+# flake8: noqa: F408
+
 from news_lk3.custom_newspapers.AdaDeranaLk import AdaDeranaLk
 from news_lk3.custom_newspapers.AdaDeranaSinhalaLk import AdaDeranaSinhalaLk
 from news_lk3.custom_newspapers.AdaLk import AdaLk
@@ -17,23 +18,3 @@ from news_lk3.custom_newspapers.LankadeepaLk import LankadeepaLk
 from news_lk3.custom_newspapers.NewsFirstLk import NewsFirstLk
 from news_lk3.custom_newspapers.TamilMirrorLk import TamilMirrorLk
 from news_lk3.custom_newspapers.VirakesariLk import VirakesariLk
-
-newspaper_class_list = [
-    AdaDeranaLk,
-    AdaDeranaSinhalaLk,
-    AdaLk,
-    BBCComSinhala,
-    CeylonTodayLk,
-    ColomboTelegraphCom,
-    DailyFtLk,
-    DailyMirrorLk,
-    DailyNewsLk,
-    DBSJeyarajCom,
-    DivainaLk,
-    EconomyNextCom,
-    IslandLk,
-    LankadeepaLk,
-    NewsFirstLk,
-    TamilMirrorLk,
-    VirakesariLk,
-]
