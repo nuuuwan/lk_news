@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_12:27:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_12:39:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**515** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**14.6 MB**), from **2023-05-16** to **2025-09-26**, scraped from [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://economynext.com](https://economynext.com), [https://www.tamilmirror.lk](https://www.tamilmirror.lk) & 6 more
+- [**551** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**17.0 MB**), from **2023-05-16** to **2025-09-26**, scraped from [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://economynext.com](https://economynext.com), [https://www.tamilmirror.lk](https://www.tamilmirror.lk) & 7 more
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-26-tamilmirrorlk-191adf25",
-    "num": "tamilmirrorlk-191adf25",
+    "doc_id": "2025-09-26-divainalk-d1661f23",
+    "num": "divainalk-d1661f23",
     "date_str": "2025-09-26",
-    "description": "\u0bae\u0bc1\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bbe\u0b95\u0ba9\u0bae\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf \u0bae\u0bbe\u0baf\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bae\u0bc1\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb5\u0bbe\u0b95\u0ba9\u0bae\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0bbe\u0bb0\u0ba4\u0bbf-\u0bae\u0bbe\u0baf\u0bae\u0bcd/72-365315",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1758869191.0
+    "description": "\u0d9a\u0ddd\u0db4\u0dca \u0dc3\u0dc4 \u0d9a\u0ddd\u0db4\u0dcf \u0dc0\u0dd9\u0dad \u0db1\u0ddb\u0dad\u0dd2\u0d9a \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba",
+    "url_metadata": "https://www.divaina.lk/breaking-news/31507",
+    "lang": "si",
+    "newspaper_id": "divainalk",
+    "time_ut": 1758870267.0
 }
 ```
 
@@ -39,6 +39,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-26 | `divainalk-d1661f23` | කෝප් සහ කෝපා වෙත නෛතික ශක්තිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-divainalk-d1661f23)
 - 2025-09-26 | `tamilmirrorlk-191adf25` | முதிரைக்குற்றிகளுடன் வாகனம் விபத்து: சாரதி மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-191adf25)
 - 2025-09-26 | `tamilmirrorlk-344c36b3` | திலீபனுக்கு தலைநகர் கொழும்பில் அஞ்சலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-344c36b3)
 - 2025-09-26 | `tamilmirrorlk-3b035374` | மாணவர்களுக்கு பீர் விற்றவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-3b035374)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-09-26 | `adaderanasinhalalk-f4545b4d` | නවීන ආරක්ෂක ක්‍රමවේද සහිත වාහන අංක තහඩු නොවැ. 15 සිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanasinhalalk-f4545b4d)
 - 2025-09-26 | `adaderanalk-4e82cee5` | Pre-trial conference fixed for Namal Rajapaksa’s ‘Krrish’ case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanalk-4e82cee5)
 - 2025-09-26 | `adaderanalk-b130f1a0` | Advisory issued for strong winds and rough seas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanalk-b130f1a0)
-- 2025-09-26 | `adaderanalk-c2ac4e97` | Over 500 rounds of ammunition, firearm recovered after questioning ‘Kehelbaddara Padme’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanalk-c2ac4e97)
 
 ---
 

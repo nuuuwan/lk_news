@@ -2,19 +2,20 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-26 12:27:42",
-  "n_docs": 515,
+  "time_updated": "2025-09-26 12:39:15",
+  "n_docs": 551,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 515,
+  "n_docs_with_text": 551,
   "date_str_min": "2023-05-16",
   "date_str_max": "2025-09-26",
-  "dataset_size": 14613985,
+  "dataset_size": 16963041,
   "url_source_list": [
     "https://dbsjeyaraj.com",
     "https://www.ada.lk",
     "https://www.ft.lk",
     "https://economynext.com",
     "https://www.tamilmirror.lk",
+    "https://www.divaina.lk",
     "https://www.adaderana.lk",
     "http://island.lk",
     "http://sinhala.adaderana.lk",
@@ -25,19 +26,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-26-tamilmirrorlk-191adf25",
-    "num": "tamilmirrorlk-191adf25",
+    "doc_id": "2025-09-26-divainalk-d1661f23",
+    "num": "divainalk-d1661f23",
     "date_str": "2025-09-26",
-    "description": "\u0bae\u0bc1\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bbe\u0b95\u0ba9\u0bae\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf \u0bae\u0bbe\u0baf\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bae\u0bc1\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb5\u0bbe\u0b95\u0ba9\u0bae\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0bbe\u0bb0\u0ba4\u0bbf-\u0bae\u0bbe\u0baf\u0bae\u0bcd/72-365315",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1758869191.0
+    "description": "\u0d9a\u0ddd\u0db4\u0dca \u0dc3\u0dc4 \u0d9a\u0ddd\u0db4\u0dcf \u0dc0\u0dd9\u0dad \u0db1\u0ddb\u0dad\u0dd2\u0d9a \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba",
+    "url_metadata": "https://www.divaina.lk/breaking-news/31507",
+    "lang": "si",
+    "newspaper_id": "divainalk",
+    "time_ut": 1758870267.0
   }
 }
