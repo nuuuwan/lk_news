@@ -2,20 +2,21 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-26 14:49:36",
-  "n_docs": 499,
+  "time_updated": "2025-09-26 15:04:36",
+  "n_docs": 572,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 499,
+  "n_docs_with_text": 572,
   "date_str_min": "2023-05-16",
   "date_str_max": "2025-09-26",
-  "dataset_size": 4994994,
+  "dataset_size": 17421315,
   "url_source_list": [
-    "https://dbsjeyaraj.com",
     "https://www.lankadeepa.lk",
-    "https://www.ada.lk",
+    "https://dbsjeyaraj.com",
     "https://www.ft.lk",
+    "https://www.ada.lk",
     "https://economynext.com",
     "https://www.tamilmirror.lk",
+    "http://island.lk",
     "https://www.bbc.com",
     "https://www.colombotelegraph.com",
     "https://www.virakesari.lk"
@@ -29,13 +30,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-26-lankadeepalk-7362b09a",
-    "num": "lankadeepalk-7362b09a",
+    "doc_id": "2025-09-26-lankadeepalk-90a920ed",
+    "num": "lankadeepalk-90a920ed",
     "date_str": "2025-09-26",
-    "description": "\u0daf\u0dd0\u0db1\u0dca \u0dad\u0ddd\u0dbb\u0dd4-\u0db8\u0ddd\u0dbb\u0dd4 \u0d85\u0dc4\u0dd4\u0dc0\u0dd9\u0db1 \u0d9a\u0dcf\u0dbd\u0dda",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0daf\u0db1-\u0dad\u0dbb-\u0db8\u0dbb-\u0d85\u0dc4\u0dc0\u0db1-\u0d9a\u0dbd/101-680276",
+    "description": "\u0db4\u0daf\u0dca\u0db8\u0dda  \u0d9c\u0dda  \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2 \u0dc3\u0dc4 \u0da2\u0dd2\u0dc0 \u0d8b\u0dab\u0dca\u0da9 \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db4\u0daf\u0db8-\u0d9c-\u0d9c\u0db1-\u0d85\u0dc0-\u0dc3\u0dc4-\u0da2\u0dc0-\u0d8b\u0dab\u0da9-\u0dad\u0d9c\u0dba\u0d9a-\u0dc4\u0db8\u0dc0\u0dba/1-680277",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1758878155.0
+    "time_ut": 1758878685.0
   }
 }

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_14:49:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_15:04:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**499** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**5.1 MB**), from **2023-05-16** to **2025-09-26**, scraped from [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://economynext.com](https://economynext.com) & 4 more
+- [**572** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**17.4 MB**), from **2023-05-16** to **2025-09-26**, scraped from [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ft.lk](https://www.ft.lk), [https://www.ada.lk](https://www.ada.lk), [https://economynext.com](https://economynext.com) & 5 more
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-26-lankadeepalk-7362b09a",
-    "num": "lankadeepalk-7362b09a",
+    "doc_id": "2025-09-26-lankadeepalk-90a920ed",
+    "num": "lankadeepalk-90a920ed",
     "date_str": "2025-09-26",
-    "description": "\u0daf\u0dd0\u0db1\u0dca \u0dad\u0ddd\u0dbb\u0dd4-\u0db8\u0ddd\u0dbb\u0dd4 \u0d85\u0dc4\u0dd4\u0dc0\u0dd9\u0db1 \u0d9a\u0dcf\u0dbd\u0dda",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0daf\u0db1-\u0dad\u0dbb-\u0db8\u0dbb-\u0d85\u0dc4\u0dc0\u0db1-\u0d9a\u0dbd/101-680276",
+    "description": "\u0db4\u0daf\u0dca\u0db8\u0dda  \u0d9c\u0dda  \u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2 \u0dc3\u0dc4 \u0da2\u0dd2\u0dc0 \u0d8b\u0dab\u0dca\u0da9 \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db4\u0daf\u0db8-\u0d9c-\u0d9c\u0db1-\u0d85\u0dc0-\u0dc3\u0dc4-\u0da2\u0dc0-\u0d8b\u0dab\u0da9-\u0dad\u0d9c\u0dba\u0d9a-\u0dc4\u0db8\u0dc0\u0dba/1-680277",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1758878155.0
+    "time_ut": 1758878685.0
 }
 ```
 
@@ -39,6 +39,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-26 | `lankadeepalk-90a920ed` | පද්මේ  ගේ  ගිනි අවි සහ ජිව උණ්ඩ තොගයක් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-90a920ed)
+- 2025-09-26 | `tamilmirrorlk-173e96d8` | சீன குடியரசின் 76ஆவது ஆண்டு நிறைவு கொண்டாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-173e96d8)
 - 2025-09-26 | `lankadeepalk-7362b09a` | දැන් තෝරු-මෝරු අහුවෙන කාලේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-7362b09a)
 - 2025-09-26 | `lankadeepalk-ded38c75` | අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජෙනරාල්ට නොතීසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-ded38c75)
 - 2025-09-26 | `tamilmirrorlk-f32defb9` | அமெரிக்காவில் இருந்து ஜப்பானுக்கு புறப்பட்டார் ஜனாதிபதி அனுர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-f32defb9)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-09-26 | `tamilmirrorlk-0b9e0618` | அரை மணி நேரம் காத்திருப்பு; பூட்டிய அறையில் பேச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-0b9e0618)
 - 2025-09-26 | `tamilmirrorlk-dc061904` | ”பைத்தியங்களின் கேள்விக்கு பதிலளிக்க முடியாது” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-dc061904)
 - 2025-09-26 | `virakesarilk-6e8feb10` | இன்றைய நாணய மாற்று விகிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-6e8feb10)
-- 2025-09-26 | `virakesarilk-48725ab5` | நாமலுக்கு எதிரான “கிரிஷ்“ வழக்கு ; நீதிமன்றம் பிறப்பித்த உத்தரவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-48725ab5)
-- 2025-09-26 | `tamilmirrorlk-d5259a52` | ”யாழ்ப்பாணம் வெற்றிலை பெட்டியல்ல” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-d5259a52)
 
 ---
 
