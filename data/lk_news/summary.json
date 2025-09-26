@@ -1,0 +1,41 @@
+{
+  "doc_class_label": "lk_news",
+  "doc_class_emoji": "\ud83d\udcc4",
+  "doc_class_description": "A collection of lk_news documents.",
+  "time_updated": "2025-09-26 14:49:36",
+  "n_docs": 499,
+  "n_docs_with_pdfs": 0,
+  "n_docs_with_text": 499,
+  "date_str_min": "2023-05-16",
+  "date_str_max": "2025-09-26",
+  "dataset_size": 4994994,
+  "url_source_list": [
+    "https://dbsjeyaraj.com",
+    "https://www.lankadeepa.lk",
+    "https://www.ada.lk",
+    "https://www.ft.lk",
+    "https://economynext.com",
+    "https://www.tamilmirror.lk",
+    "https://www.bbc.com",
+    "https://www.colombotelegraph.com",
+    "https://www.virakesari.lk"
+  ],
+  "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
+  "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
+  "langs": [
+    "en",
+    "ta",
+    "si"
+  ],
+  "latest_doc_d": {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-lankadeepalk-7362b09a",
+    "num": "lankadeepalk-7362b09a",
+    "date_str": "2025-09-26",
+    "description": "\u0daf\u0dd0\u0db1\u0dca \u0dad\u0ddd\u0dbb\u0dd4-\u0db8\u0ddd\u0dbb\u0dd4 \u0d85\u0dc4\u0dd4\u0dc0\u0dd9\u0db1 \u0d9a\u0dcf\u0dbd\u0dda",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0daf\u0db1-\u0dad\u0dbb-\u0db8\u0dbb-\u0d85\u0dc4\u0dc0\u0db1-\u0d9a\u0dbd/101-680276",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1758878155.0
+  }
+}
