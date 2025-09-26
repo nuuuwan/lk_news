@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_22:22:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_22:40:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,537** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-26**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,538** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-26**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-26-lankadeepalk-e531ac1d",
-    "num": "lankadeepalk-e531ac1d",
+    "doc_id": "2025-09-26-lankadeepalk-22c65f2e",
+    "num": "lankadeepalk-22c65f2e",
     "date_str": "2025-09-26",
-    "description": "\u0dad\u0dda \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dc3\u0dc4\u0db1\u0dcf\u0db0\u0dcf\u0dbb\u0dba QR \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dad-\u0db4\u0dc4\u0dbb-\u0dc3\u0dc4\u0db1\u0db0\u0dbb\u0dba-QR-\u0d9a\u0dbb\u0db8\u0dba\u0da7/101-680296",
+    "description": "\u2018\u2018\u0dc0\u0dda\u0dbb\u0dc4\u0dd0\u0dbb R.M.V. \u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0dbd\u0da7 \u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca \u0d9c\u0db1\u0dca\u0db1\u0dc0\u0dcf\u2018\u2018",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dbb\u0dc4\u0dbb-R-M-V-\u0dc3\u0dc0\u0dc0\u0dbd\u0da7-\u0d85\u0dbd\u0dbd\u0dc3-\u0d9c\u0db1\u0db1\u0dc0/1-680297",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1758903844.0
+    "time_ut": 1758906054.0
 }
 ```
 
@@ -39,6 +39,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-26 | `lankadeepalk-22c65f2e` | ‘‘වේරහැර R.M.V. සේවාවලට අල්ලස් ගන්නවා‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-22c65f2e)
 - 2025-09-26 | `lankadeepalk-e531ac1d` | තේ පොහොර සහනාධාරය QR ක්‍රමයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-e531ac1d)
 - 2025-09-26 | `tamilmirrorlk-4a962fce` | திஸ்ஸமஹாராம பகுதியில் துப்பாக்கிச் சூடு : ஒருவர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-4a962fce)
 - 2025-09-26 | `lankadeepalk-f9cbb369` | මධ්‍යම පරිසර අධිකාරිය GOv pay හා එක් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-f9cbb369)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-09-26 | `virakesarilk-b729cc24` | வேன் - சிறிய லொறி - முச்சக்கர வண்டி  மோதி விபத்து ; 12 பேர் காயம்,  பண்டாரகமயில்  சம்பவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-b729cc24)
 - 2025-09-26 | `tamilmirrorlk-b49c06e3` | பகிடிவதை விவகாரம் : மாணவர்களுக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-b49c06e3)
 - 2025-09-26 | `tamilmirrorlk-8a788e25` | ஆடையை கழற்றி பகிடிவதை : மாணவர்களுக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-8a788e25)
-- 2025-09-26 | `lankadeepalk-7f3bfbc9` | නා උයන ආරණ්‍යයේ හිමිවරුන්ට වජිර අවසන් ගෞරව දක්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-7f3bfbc9)
 
 ---
 
