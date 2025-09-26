@@ -1,0 +1,13 @@
+Sri Lanka’s opposition parties make modest gains in voting intent poll
+
+ECONOMYNEXT — Sri Lanka’s leftist National People’s Power (NPP) and main opposition Samagi Jana Balawegaya (SJB) gained modest increases in support in February, a survey showed.
+
+The Institute for Health Policy (IHP) which carried out the survey said support for President Ranil Wickremesinghe’s United National Party (UNP) and other parties have weakened in February.
+
+“The latest estimates from IHP’s SLOTS MRP model (revised 01/2024) show modest increases in support for NPP/JVP and SJB, with weakening support for the UNP and ‘Other’ parties, continuing trends since July 2023. NPP/JVP lead with 44% (+2) support of Sri Lankan adult voters, followed by SJB with 30% (+1), the SLPP at 9% (+1), the UNP at 4% (-1), and ITAK at
+
+The February estimates are provisional and are associated with a margin of error of 1–3% for the four leading parties. Compared to IHP’s February release, IHP estimates of NPP/JVP and SJB support in January 2024 were revised +2 and -1 points.
+
+“These estimates are for all adults and not for likely voters, and are based on the 01/ 2024 revision of the IHP SLOTS Multilevel Regression and Poststratification (MRP) model. IHP is working on improving its likely voter model and will resume release of voting intent in likely voters in a future update. But it should be noted that differences in voting intent shares between all adults and likely voters have typically been 1–2% for most estimates in the past two years.
+
+“This February 2024 update is based on 16,248 interviews conducted with adults across Sri Lanka since October 2021, including 575 interviews carried out in February 2024. IHP’s SLOTS MRP methodology first estimates the relationship between a wide variety of characteristics about respondents and their opinions – in this case, ‘If there was a General Election today, which party would you vote for?’– in a multilevel statistical model. It then uses a large data file that is calibrated to the national population to predict voting intent in each month since October 2021, according to what the multilevel model says about their probability of voting for various parties (‘post-stratification’) at each point in time. The multilevel model was estimated 100 times to reflect underlying uncertainties in the model and to obtain margins of error.” (Colombo/Mar28/2024)

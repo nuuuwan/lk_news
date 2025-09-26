@@ -1,0 +1,13 @@
+Increase in online financial fraud: Over 340 online banking scams reported in 2024
+
+Sri Lanka Computer Emergency Response Team (SL CERT) has reported a significant rise in complaints related to online financial fraud in 2024.
+
+According to SL CERT’s Senior Information Engineer Charuka Damunupola, over 340 complaints involving financial scams have been received so far this year.
+
+“Up to September, we’ve received 7,210 complaints regarding online scams, with the majority of these linked to social media platforms. When we focus specifically on online-based fraud, around 20% of the complaints involve financial scams. This highlights a growing trend of internet fraud targeting online banking users,” Damunupola stated.
+
+He further explained that many victims fall prey to scams due to a lack of attention to security measures, particularly with One-Time Passwords (OTPs).
+
+“Many users do not take proper care in safeguarding their OTPs or fail to recognize fraudulent websites. This often results in them being caught in these online banking scams,” Damunupola added.
+
+He further emphasized the need for increased vigilance as more users turn to online banking, noting that the rise in online financial fraud highlights the importance of educating the public about cybersecurity practices.

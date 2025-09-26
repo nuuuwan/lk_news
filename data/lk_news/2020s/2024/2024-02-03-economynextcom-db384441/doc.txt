@@ -1,0 +1,19 @@
+Dubai based QX Lab launches AI tool with Sinhalese and Tamil interface
+
+ECONOMYNEXT – Dubai based QX Lab AI has lauched an artificial intelligence platform which can be used Sinhalese and Tamil, among 100+ languages, oficials said.
+
+“Ask QX boasts unparalleled language proficiency and accuracy across multiple languages. Our vision for Ask QX is to bridge the existing gap, ensuring that the transformative potential of AI is accessible to all, not limited to a privileged few,” Tilakraj Parmar, Co-Founder and CEO, QX Lab AI said at a lauch event in Dubai Friday (2).
+
+The Indian-origin developers said they wanted to focus on the rich linguistic tapestry in India and neighboring markets like the Middle East and Sri Lanka.
+
+Apart from English, Ask QX is available in Arabic (and recognizes regional dialects), French, Spanish, Japanese, German, Italian, Korean, Portuguese, Russian, Sinhala, Tamil and 11 other Indian languages, as well as other global languages.
+
+“We wanted to develop a product that would cater to users in every corner of the world, in a language of their choice,” Arjun Prasad, Co- Founder and Chief Strategy Officer, QX Lab AI said.
+
+Ask QX has already amassed a user base of more than 8 million users in the free beta phase, at the time of the launch.
+
+The beta version is being developed further in a range of subscription models tailored to different user segments. The Business to Consumer (B2C) paid version, features a neural network based version, and will be competitively priced, while the free version will provide access to the Ask QX gen AI neural engine.
+
+Developers said it is built on a hybrid model ie; 30 percent large language model (LLM) and 70 percent neural network architecture, enabling better language comprehension and user interaction. “The capabilities of the platform cater to diverse user needs including neural-based services and will gradually include all features like Text to Image, Text to Code, Text to Video, for, Business to Business (B2B), and Business to Institution (B2I) cohorts.”
+
+The company was set up in 2018 and moved to Dubai in 2020; and was founded by Tilakraj Parmar, Tathagat Prakash and Arjun Prasad. (Dubai/Feb3/2024)

@@ -1,0 +1,33 @@
+Public warned of rise in online phishing scams targeting mobile devices
+
+Sri Lanka Banks’ Association, LankaPay and FinCSIRT says they have been alerted regarding several incidents of financial fraud, both globally and in Sri Lanka, disguised as attractive online offers, leading to mobile device users inadvertently clicking on unknown links and downloading malicious apps and files.
+
+This action grants scammers complete access to the mobile device, enabling them to control it remotely.
+
+Once the fraudsters take control of the mobile device, they have easy access to bank/payment apps that are installed on that device, leading to theft from bank accounts and payment cards accessed via the mobile device.
+
+“We wish to advise the general public to be more vigilant in order to avoid falling prey to such scams,” they said issuing a joint statement.
+
+It pointed out that fraudsters use social media platforms, websites and online messaging platforms to carry out such fraudulent activities.
+
+“It is important to note that these reported fraud cases are due to fraudsters gaining control of your mobile device and not due to any security vulnerability of banking/payment apps, which are adhering to international security standards.”
+
+To prevent falling victim to such scams, the public is advised to exercise caution and follow these guidelines:
+
+• Avoid clicking on links and downloading apps or files from unknown sources.
+
+• Exit from unknown and unfamiliar groups on social media platforms or online messaging platforms to which your are added without consent.
+
+• Download apps only from official app stores like the Apple App Store, Google Play Store etc
+
+• Use biometric authentication (e.g., fingerprint, facial recognition) to access bank/payment apps where available.
+
+• Regularly review app permissions and remove any excessive permissions granted to installed apps.
+
+• Install a reputable antivirus app from official app stores and keep it updated to detect and remove viruses and malware.
+
+• Be cautious of messages prompting you to disclose personal or financial information by clicking on links.
+
+• Immediately disable your mobile data/WiFi or switch to airplane mode if you notice unusual behavior on your device.
+
+• Pay attention to security warnings issued by FinCSIRT, banks and financial institutions and follow their recommended precautions.

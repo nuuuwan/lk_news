@@ -1,0 +1,43 @@
+Sri Lanka airport will need tech to cope as volumes set to top pre-Covid levels: SITA
+
+ECONOMYNEXT – Passenger traffic at Sri Lanka’s main airport in Katunayake is set to exceed pre-pandemic volumes by year-end and technology can be used to address congestion, an international aviation technology company said.
+
+Self-service check-in, biometrics, reducing passenger touch points and off airport processing are some of the strategies now used to boost efficiency.
+
+Passenger traffic, which includes regional transit passengers, at the Bandaranaike International Airport has topped 4 million by April and is likely reach 9.5 to 10 million passengers by year, which is more than the pre-pandemic level in 2019.
+
+“The message is positive on Sri Lanka,” David Lavorel, Chief Executive, Société Internationale de Télécommunications Aéronautiques (SITA), a company that was founded by airlines and is currently serving carriers, airports and border agencies.
+
+“You have growth coming. Of course, you have challenges if you do nothing. But I think your authorities are working on taking action.”
+
+Sri Lanka airport agency, the immigration department and SriLankan Airlines have a unified approach to solving coming challenges, Lavorel said, after meeting Sri Lanka authorities.
+
+SITA provides communications backbone that allows airlines to check-in passengers and move and track baggage across global airports.
+
+ITA technology is also used by airline back-office and air traffic controllers to track and manage aircraft as they move around the world, using Inmarsat and Irridium satellite services as well ground stations that are contracted with the company.
+
+Sri Lanka is building a second terminal with Japanese funding which was delayed after Sri Lanka defaulted on its debt and is now three to four years away.
+
+Meanwhile an attempt to build a temporary terminal is also bogged down.
+
+The airport can use existing space more efficiently by using new technology and re-engineering passenger processing by reducing ‘touchpoints’ which is currently at seven, according to SITA officials.
+
+Already about 20 percent of SriLankan passengers are using the self service check-in kiosks, Sumesh Patel, President, Asia Pacific said.
+
+Biometrics is another technology that is used to process passengers fast, by border agencies as well as airlines.
+
+Using biometrics British Airways reduced boarding an Airbus A380 from 50 minutes to 20 minutes, Patel said.
+
+SIA has also discussed using optimal technology in the second terminal but detailed design of technological deployment is perhaps two years away.
+
+Deployment of passenger processing, including self service depends on the needs of airlines, where some budget airlines prefer more self service and the strategy of the airport.
+
+“Once the airport airport has decided, and we come with advice on the technological side,” Lavorel said.
+
+SITA was already serving airports across the world, passenger profiles and help airports come up with optimal tech use.
+
+Sri Lanka’s airport in addition will could also continue to grow 10 to 12 percent year on year, until the second terminal came in. All over the world airports faced infrastructure constraints as it was simply not possible to expand terminals to keep up with passenger traffic.
+
+“We look at what current constrain on the infrastructure is, what is the passenger growth expected, what are the technologies that can be deployed and also the passenger profile.
+
+“Not all airports we can do 100 percent self-service, because there are different passenger profiles.” (Colombo/July18/2024)

@@ -1,0 +1,7 @@
+Facebook, Instagram down during outage; thousands affected
+
+March 05 - Meta-owned platforms, including Facebook, Instagram, and Threads, are currently facing technical issues, rendering them inaccessible for many users on Tuesday. The outage has impacted functionalities across these social media platforms.
+
+Users are reporting various issues, such as being logged out of their Facebook accounts, making it impossible to log back in. Similarly, Instagram users are encountering difficulties refreshing their feeds, with stories and comments failing to load for some individuals. Threads, an app developed by Meta, is also experiencing a complete shutdown, displaying an error message upon launch.
+
+Reports on DownDetector, a website that tracks internet service outages, surged rapidly for all three platforms following the onset of the issue. Despite the widespread user complaints, Meta has yet to acknowledge the problem officially.

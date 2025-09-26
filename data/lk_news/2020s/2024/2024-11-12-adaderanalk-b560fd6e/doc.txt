@@ -1,0 +1,9 @@
+Met. Department’s website being restored after cyber attack
+
+The website of Sri Lanka’s Meteorological Department is currently being restored after a cyber attack disrupted its services early last week.
+
+Sri Lanka Computer Emergency Readiness Team (SL CERT), the country’s lead body for cyber security, said that they’re currently managing the response and recovery efforts.
+
+Senior Information Officer at SL CERT Charuka Damunopola said the attack was reported on November 01, noting that “Due to this cyber attack, changes were detected on the Meteorological Department’s official website. Following preliminary investigations, necessary measures are underway to restore the website, with further inquiries ongoing to assess the full impact.”
+
+Mr. Damunopola confirmed that initial findings indicate no data was accessed or stolen by external parties, however, SL CERT continues to monitor the situation closely to ensure the website’s functionality and security are fully restored.

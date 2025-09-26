@@ -1,0 +1,57 @@
+Critical Atlantic Ocean current system showing early signs of collapse - report
+
+A crucial system of ocean currents may already be on course to collapse, according to a new report, with alarming implications for sea level rise and global weather — leading temperatures to plunge dramatically in some regions and rise in others.
+
+Using exceptionally complex and expensive computing systems, scientists found a new way to detect an early warning signal for the collapse of these currents, according to the study published Friday in the journal Science Advances. And as the planet warms, there are already indications it is heading in this direction.
+
+The Atlantic Meridional Overturning Circulation (the AMOC) — of which the Gulf Stream is part — works like a giant global conveyor belt, taking warm water from the tropics toward the far North Atlantic, where the water cools, becomes saltier and sinks deep into the ocean, before spreading southward.
+
+The currents carry heat and nutrients to different areas of the globe and play a vital role in keeping the climate of large parts of the Northern Hemisphere relatively mild.
+
+For decades, scientists have been sounding the alarm on the circulation’s stability as climate change warms the ocean and melts ice, disrupting the balance of heat and salt that determines the currents’ strength.
+
+While many scientists believe the AMOC will slow under climate change, and could even grind to a halt, there remains huge uncertainty over when and how fast this could happen. The AMOC has only been monitored continuously since 2004.
+
+Scientists do know — from building a picture of the past using things like ice cores and ocean sediments — the AMOC shut down more than 12,000 years ago following rapid glacier melt.
+
+Now they are scrambling to work out if it could happen again.
+
+This new study provides an “important breakthrough,” said René van Westen, a marine and atmospheric researcher at the University of Utrecht in the Netherlands and study co-author.
+
+The scientists used a supercomputer to run complex climate models over a period of three months, simulating a gradual increase of freshwater to the AMOC — representing ice melt as well as rainfall and river runoff, which can dilute the ocean’s salinity and weaken the currents.
+
+As they slowly increased the freshwater in the model, they saw the AMOC gradually weaken until it abruptly collapsed. It’s the first time a collapse has been detectable using these complex models, representing “bad news for the climate system and humanity,” the report says.
+
+What the study doesn’t do, however, is give timeframes for a potential collapse. More research is needed, van Westen told CNN, including models which also mimic climate change impacts, such as increasing levels of planet-heating pollution, which this study did not.
+
+“But we can at least say that we are heading in the direction of the tipping point under climate change,” van Westen said.
+
+The impacts of the AMOC’s collapse could be catastrophic. Some parts of Europe might see temperatures plunge by up to 30 degrees Celsius over a century, the study finds, leading to a completely different climate over the course of just a decade or two.
+
+“No realistic adaptation measures can deal with such rapid temperature changes,” the study authors write.
+
+Countries in the Southern Hemisphere, on the other hand, could see increased warming, while the Amazon’s wet and dry seasons could flip, causing serious disruption to the ecosystem.
+
+The AMOC’s collapse could also cause sea levels to surge by around 1 meter (3.3 feet), van Westen said.
+
+Stefan Rahmstorf, a physical oceanographer at Potsdam University in Germany, who was not involved with the study, said it was “a major advance in AMOC stability science.”
+
+“It confirms that the AMOC has a tipping point beyond which it breaks down if the Northern Atlantic Ocean is diluted with freshwater,” he told CNN.
+
+Previous studies finding the AMOC’s tipping point used much simpler models, he said, giving hope to some scientists that it might not be found under more complex models.
+
+Joel Hirschi, associate head of marine systems modeling at the National Oceanography Centre in the UK, said the study was the first to use complex climate models to show the AMOC can flip from “on” to “off” in response to relatively small amounts of freshwater entering the ocean.
+
+But there are reasons to be cautious, he added. Even though the study used a complex model, it still has a low resolution, he said, meaning there could be limitations in representing some parts of the currents.
+
+This study adds to the growing body of evidence that the AMOC may be approaching a tipping point — and that it could even be close.
+
+A 2021 study found that the AMOC was weaker than any other time in the past 1,000 years. And a particularly alarming — and somewhat controversial — report published in July last year, concluded that the AMOC could be on course to collapse potentially as early as 2025.
+
+Yet huge uncertainties remain. Jeffrey Kargel, senior scientist at the Planetary Science Institute in Arizona, said he suspected the theory of a potentially imminent shutdown of the AMOC “will remain somewhat controversial until, one year, we know that it is happening.”
+
+He likened its potential collapse to the “wild gyrations of a stock market that precede a major crash” — it’s nearly impossible to unpick which changes are reversible, and which are a precursor to a disaster.
+
+Modern data shows the AMOC’s strength fluctuates, but there is no observed evidence yet of a decline, Hirschi said. “Whether abrupt changes in the AMOC similar to those seen in the past will occur as our climate continues to warm is an important open question.”
+
+This study is a piece of that puzzle, Rahmstorf said. “(It) adds significantly to the rising concern about an AMOC collapse in the not too distant future,” he said. “We will ignore this risk at our peril.”

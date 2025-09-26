@@ -1,0 +1,25 @@
+OREL IT becomes first Sri Lankan firm to secure Tier III Data Centre certification
+
+‘This isn’t just about technology. It’s about Sri Lanka’s digital sovereignty’
+
+In a landmark achievement for Sri Lanka’s tech industry, OREL IT has earned the TIA-942-C Design Certification for its upcoming Tier III data centre in Nawinna, Maharagama – making it the first Sri Lankan company to attain this globally recognized standard.
+
+The certification validates the facility’s ability to deliver 99.982% uptime, placing it among the world’s most resilient data infrastructures and signaling Sri Lanka’s growing capacity to develop homegrown, enterprise-grade digital solutions.
+
+Since 2014, OREL IT has disrupted Sri Lanka’s data centre market, becoming the first to deploy Modular Data Centres (MDCs) – a gamble that paid off, with five MDCs now operating flawlessly, some for over a decade. Last year, the company expanded into cloud services, launching Sri Lanka’s largest cloud infrastructure and its only NIST-compliant sovereign private cloud, ensuring data remains onshore for compliance-sensitive sectors like finance and government.
+
+The TIA-942-C certification is a rigorous benchmark, assessing everything from power redundancy to physical security. Tier III status means the facility can undergo maintenance without service disruption – a critical requirement for banks, hospitals, and state institutions. Notably, OREL IT secured the certification before construction, minimising costly redesigns and accelerating timelines. The facility, set for completion in 2025, will join OREL’s existing network, which includes:
+
+Orion Stellar: Sri Lanka’s only TIA-certified commercial data centre (primary hub)
+
+With eight data centre projects underway – four certified, two in construction, and one upgrading to Tier III – OREL IT now competes directly with regional telecom giants in cloud services. Crucially, its entire operation is designed and managed by Sri Lankan engineers, proving global-tier infrastructure can be built domestically.
+
+“This isn’t just about technology. It’s about Sri Lanka’s digital sovereignty,” said an OREL IT spokesperson. “We’re creating capacity, not just consuming it.”
+
+The new facility will offer businesses fully local, world-class data services, reducing reliance on foreign providers and strengthening national data security – a strategic leap as Sri Lanka eyes regional tech leadership.
+
+Stock Market wraps up a green week as ASPI rises on robust trading
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
