@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_11:42:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_11:50:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**460** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**13.8 MB**), from **2023-05-16** to **2025-09-26**, scraped from [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ft.lk](https://www.ft.lk), [https://www.ada.lk](https://www.ada.lk), [https://economynext.com](https://economynext.com), [https://www.tamilmirror.lk](https://www.tamilmirror.lk) & 5 more
+- [**461** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**13.8 MB**), from **2023-05-16** to **2025-09-26**, scraped from [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ft.lk](https://www.ft.lk), [https://www.ada.lk](https://www.ada.lk), [https://economynext.com](https://economynext.com), [https://www.tamilmirror.lk](https://www.tamilmirror.lk) & 5 more
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,7 @@ A collection of lk_news documents.
 - 2025-09-26 | `virakesarilk-5e3e5956` | சிங்கப்பூரில் மலேசிய போதைப்பொருள் கடத்தல்காரருக்கு மரண தண்டனை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-5e3e5956)
 - 2025-09-26 | `virakesarilk-acf91267` | ஐந்து மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-acf91267)
 - 2025-09-26 | `adaderanalk-b112c0b2` | Trump announces 100% tariff on branded or patented pharmaceutical imports from Oct 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanalk-b112c0b2)
+- 2025-09-26 | `adalk-3ed8edf3` | බාහිර උපාධිවල ගුණාත්මකභාවය අවාධානයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adalk-3ed8edf3)
 - 2025-09-26 | `adaderanalk-b95adbf6` | Tree falls on bus in Colombo, causing traffic congestion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanalk-b95adbf6)
 - 2025-09-26 | `adalk-eff89332` | හැටන් කුඩාගම නිවාස රැසක් නායයෑමේ අවධානමක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adalk-eff89332)
 - 2025-09-26 | `adaderanasinhalalk-d6ccff4b` | ඕල්කට් මාවතේ බස් රථයක් මතට ගසක් කඩා වැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanasinhalalk-d6ccff4b)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-09-26 | `economynextcom-ea419831` | Sri Lanka’s Hayleys Fentons assigned national long-term rating of A+ by Fitch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-economynextcom-ea419831)
 - 2025-09-26 | `adaderanalk-e142416c` | Sri Lanka to regain 2019 economic status by next year - President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanalk-e142416c)
 - 2025-09-26 | `tamilmirrorlk-00c92491` | 24 மணித்தியாலங்களில் 100 மில்லி மீற்றர் மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-00c92491)
-- 2025-09-26 | `adaderanalk-8f53d3cb` | Landslide warnings issued for several areas in five districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanalk-8f53d3cb)
 
 ---
 
