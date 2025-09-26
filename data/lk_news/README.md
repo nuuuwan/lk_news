@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_02:05:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_02:20:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,565** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,568** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-27-dailyftlk-3ca3a9b9",
-    "num": "dailyftlk-3ca3a9b9",
+    "doc_id": "2025-09-27-virakesarilk-dc6dd409",
+    "num": "virakesarilk-dc6dd409",
     "date_str": "2025-09-27",
-    "description": "Foreign Ministry coordinates repatriation of foreign monks killed in Na Uyana cable car tragedy",
-    "url_metadata": "https://www.ft.lk/news/Foreign-Ministry-coordinates-repatriation-of-foreign-monks-killed-in-Na-Uyana-cable-car-tragedy/56-782261",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1758914435.0
+    "description": "\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd 76\u0bb5\u0ba4\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0ba4 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/226208",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1758918540.0
 }
 ```
 
@@ -39,6 +39,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-27 | `virakesarilk-dc6dd409` | இராணுவத்தின் 76வது ஆண்டு நிறைவை முன்னிட்டு சிறப்பு மத நிகழ்ச்சித் தொடர் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-dc6dd409)
+- 2025-09-27 | `virakesarilk-6cf77698` | உள்நாட்டு விமான பயணங்களின் பாதுகாப்பை உறுதிப்படுத்த  பல நடவடிக்கைகள் தேவை - சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-6cf77698)
+- 2025-09-27 | `virakesarilk-57f884df` | அக்கரப்பத்தனை பிரதேச வைத்தியசாலையில் குழப்பகரமான சூழ்நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-57f884df)
 - 2025-09-27 | `dailyftlk-3ca3a9b9` | Foreign Ministry coordinates repatriation of foreign monks killed in Na Uyana cable car tragedy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-dailyftlk-3ca3a9b9)
 - 2025-09-27 | `dailyftlk-c3d2cc1d` | Senior Pakistan Navy delegation visits Sri Lanka for Galle Dialogue-2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-dailyftlk-c3d2cc1d)
 - 2025-09-27 | `virakesarilk-0b0ecebb` | ஆசிய கிண்ண கடைசி சுப்பர் 4இல் சுப்பர் ஓவரில் இந்தியா வெற்றி; மூவகை கிரிக்கெட்டிலும் சதம் குவித்த 4ஆவது இலங்கையரானார் நிஸ்ஸன்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-0b0ecebb)
@@ -56,9 +59,6 @@ A collection of lk_news documents.
 - 2025-09-26 | `dailyftlk-2828b364` | Sri Lanka’s tourism at crossroads: Wake-up call on World Tourism Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-dailyftlk-2828b364)
 - 2025-09-26 | `dailyftlk-304877ea` | City-centric approaches to climate-related human mobility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-dailyftlk-304877ea)
 - 2025-09-26 | `lankadeepalk-49083fe6` | ‘‘ආහාර ටොන් කෝටි 130ක් වසරක අපතේ යවනවා‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-49083fe6)
-- 2025-09-26 | `lankadeepalk-22c65f2e` | ‘‘වේරහැර R.M.V. සේවාවලට අල්ලස් ගන්නවා‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-22c65f2e)
-- 2025-09-26 | `virakesarilk-444af170` | திஸ்ஸமஹாராமவில் துப்பாக்கிச் சூடு – ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-444af170)
-- 2025-09-26 | `lankadeepalk-e531ac1d` | තේ පොහොර සහනාධාරය QR ක්‍රමයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-e531ac1d)
 
 ---
 
