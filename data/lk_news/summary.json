@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-27 00:06:28",
-  "n_docs": 77546,
+  "time_updated": "2025-09-27 00:22:31",
+  "n_docs": 77554,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 77546,
+  "n_docs_with_text": 77554,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2025-09-26",
-  "dataset_size": 1131677843,
+  "date_str_max": "2025-09-27",
+  "dataset_size": 1131753520,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -30,18 +30,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-26-lankadeepalk-49083fe6",
-    "num": "lankadeepalk-49083fe6",
-    "date_str": "2025-09-26",
-    "description": "\u2018\u2018\u0d86\u0dc4\u0dcf\u0dbb \u0da7\u0ddc\u0db1\u0dca \u0d9a\u0ddd\u0da7\u0dd2 130\u0d9a\u0dca \u0dc0\u0dc3\u0dbb\u0d9a \u0d85\u0db4\u0dad\u0dda \u0dba\u0dc0\u0db1\u0dc0\u0dcf\u2018\u2018",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dc4\u0dbb-\u0da7\u0db1-\u0d9a\u0da7-130\u0d9a-\u0dc0\u0dc3\u0dbb\u0d9a-\u0d85\u0db4\u0dad-\u0dba\u0dc0\u0db1\u0dc0/1-680298",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1758906594.0
+    "doc_id": "2025-09-27-dailyftlk-76c83c46",
+    "num": "dailyftlk-76c83c46",
+    "date_str": "2025-09-27",
+    "description": "Politics of Tamil-Muslim relations",
+    "url_metadata": "https://www.ft.lk/columns/Politics-of-Tamil-Muslim-relations/4-782245",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1758912151.0
   }
 }

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_00:07:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_00:23:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,546** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-26**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,554** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-26-lankadeepalk-49083fe6",
-    "num": "lankadeepalk-49083fe6",
-    "date_str": "2025-09-26",
-    "description": "\u2018\u2018\u0d86\u0dc4\u0dcf\u0dbb \u0da7\u0ddc\u0db1\u0dca \u0d9a\u0ddd\u0da7\u0dd2 130\u0d9a\u0dca \u0dc0\u0dc3\u0dbb\u0d9a \u0d85\u0db4\u0dad\u0dda \u0dba\u0dc0\u0db1\u0dc0\u0dcf\u2018\u2018",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d86\u0dc4\u0dbb-\u0da7\u0db1-\u0d9a\u0da7-130\u0d9a-\u0dc0\u0dc3\u0dbb\u0d9a-\u0d85\u0db4\u0dad-\u0dba\u0dc0\u0db1\u0dc0/1-680298",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1758906594.0
+    "doc_id": "2025-09-27-dailyftlk-76c83c46",
+    "num": "dailyftlk-76c83c46",
+    "date_str": "2025-09-27",
+    "description": "Politics of Tamil-Muslim relations",
+    "url_metadata": "https://www.ft.lk/columns/Politics-of-Tamil-Muslim-relations/4-782245",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1758912151.0
 }
 ```
 
@@ -39,6 +39,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-27 | `dailyftlk-76c83c46` | Politics of Tamil-Muslim relations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-dailyftlk-76c83c46)
+- 2025-09-26 | `dailyftlk-9d5a6eaa` | Selective republicanism of socialist regime rules | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-dailyftlk-9d5a6eaa)
+- 2025-09-26 | `dailyftlk-61c62c32` | Shutting down the internet shuts down your right to know | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-dailyftlk-61c62c32)
+- 2025-09-26 | `dailyftlk-2828b364` | Sri Lanka’s tourism at crossroads: Wake-up call on World Tourism Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-dailyftlk-2828b364)
+- 2025-09-26 | `dailyftlk-304877ea` | City-centric approaches to climate-related human mobility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-dailyftlk-304877ea)
 - 2025-09-26 | `lankadeepalk-49083fe6` | ‘‘ආහාර ටොන් කෝටි 130ක් වසරක අපතේ යවනවා‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-49083fe6)
 - 2025-09-26 | `lankadeepalk-22c65f2e` | ‘‘වේරහැර R.M.V. සේවාවලට අල්ලස් ගන්නවා‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-22c65f2e)
 - 2025-09-26 | `virakesarilk-444af170` | திஸ்ஸமஹாராமவில் துப்பாக்கிச் சூடு – ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-444af170)
@@ -54,11 +59,6 @@ A collection of lk_news documents.
 - 2025-09-26 | `virakesarilk-2d110c0a` | மன்னார் மக்களை எதிர்த்து அடாவடியாக காற்றாலை திட்டத்தை முன்னெடுக்கவேண்டாம்  - ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-2d110c0a)
 - 2025-09-26 | `virakesarilk-1b385ed4` | இலஞ்ச ஊழல் ஆணைக்குழு அரசாங்கத்தின் அடக்குமுறையை செயற்படுத்துகிறது - நளின் பண்டார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-1b385ed4)
 - 2025-09-26 | `virakesarilk-16301456` | அமைதி, மேம்பாட்டின் உன்னத நோக்கத்திற்கு சீனா மகத்தான பங்களிப்புகளைச் செய்யும் - சீனத் தூதுவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-16301456)
-- 2025-09-26 | `lankadeepalk-7f6a8748` | කෘතිම බුද්ධිය වෘත්තීය මාධ්‍යවේදියාට පහරක්ද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-7f6a8748)
-- 2025-09-26 | `virakesarilk-6bbd3eea` | மருத்துவம், ஆயுர்வேதம், உணவு மற்றும் அழகு சாதன பரிசோதனைகளுக்கு நவீன ஆய்வுகூடம் - அமைச்சர் நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-6bbd3eea)
-- 2025-09-26 | `virakesarilk-e7c7c225` | ஏறாவூர் சுற்றுலா நீதிமன்ற சிறைக்கூடத்தில் கைதி ஒருவர் உயிர்மாய்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-e7c7c225)
-- 2025-09-26 | `virakesarilk-d0206942` | ஆசிய அபிவிருத்தி வங்கியின் நிதியுதவியில் சுகாதார சேவைகளுக்கு பயன்படுத்த 7 வாகனங்கள் வழங்கி வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-d0206942)
-- 2025-09-26 | `virakesarilk-03871ed8` | இலஞ்சம் பெற்ற குற்றச்சாட்டில் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-03871ed8)
 
 ---
 
