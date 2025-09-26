@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_11:55:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_12:00:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**461** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**13.8 MB**), from **2023-05-16** to **2025-09-26**, scraped from [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ft.lk](https://www.ft.lk), [https://www.ada.lk](https://www.ada.lk), [https://economynext.com](https://economynext.com), [https://www.tamilmirror.lk](https://www.tamilmirror.lk) & 5 more
+- [**465** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**13.8 MB**), from **2023-05-16** to **2025-09-26**, scraped from [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ft.lk](https://www.ft.lk), [https://www.ada.lk](https://www.ada.lk), [https://economynext.com](https://economynext.com), [https://www.tamilmirror.lk](https://www.tamilmirror.lk) & 5 more
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-26-tamilmirrorlk-ba004fd5",
-    "num": "tamilmirrorlk-ba004fd5",
+    "doc_id": "2025-09-26-tamilmirrorlk-5277044e",
+    "num": "tamilmirrorlk-5277044e",
     "date_str": "2025-09-26",
-    "description": "\u0b95\u0bcb\u0bb4\u0bbf \u0bb2\u0bca\u0bb1\u0bbf \u0bae\u0bc0\u0ba4\u0bc1 \u0bae\u0bcb\u0ba4\u0bbf\u0baf \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baf\u0bbe\u0ba9\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0bb4\u0bbf-\u0bb2\u0bca\u0bb1\u0bbf-\u0bae\u0bc0\u0ba4\u0bc1-\u0bae\u0bcb\u0ba4\u0bbf\u0baf-\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1-\u0baf\u0bbe\u0ba9\u0bc8/175-365310",
+    "description": "\u0b95\u0b9f\u0bc8\u0b9a\u0bbf\u0bb5\u0bb0\u0bc8 \u0baa\u0bcb\u200b\u0bb0\u0bbe\u0b9f\u0bbf \u0ba8\u0bbf\u0bb0\u0bc2\u0baa\u0bbf\u0baa\u0bcd\u200b\u0baa\u0bc7\u0ba9\u0bcd:  \u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bc8\u0b9a\u0bbf\u0bb5\u0bb0\u0bc8-\u0baa\u0bcb-\u0bb0\u0bbe\u0b9f\u0bbf-\u0ba8\u0bbf\u0bb0\u0bc2\u0baa\u0bbf\u0baa\u0bcd-\u0baa\u0bc7\u0ba9\u0bcd-\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/50-365311",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1758863769.0
+    "time_ut": 1758867970.0
 }
 ```
 
@@ -39,6 +39,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-26 | `tamilmirrorlk-5277044e` | கடைசிவரை போ​ராடி நிரூபிப்​பேன்:  பிரான்ஸ் முன்னாள் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-5277044e)
+- 2025-09-26 | `virakesarilk-0d535e64` | பாராளுமன்ற சமையலறையில் சிறிய அளவில் திருத்தங்கள் மேற்கொள்ளப்படவேண்டும் : பிரசாத் சிறிவர்தன எம்.பி. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-0d535e64)
+- 2025-09-26 | `virakesarilk-f7572ea8` | ‘கெஹெல்பத்தர பத்மே’விடம் விசாரணை ; 500க்கும் மேற்பட்ட தோட்டாக்கள், துப்பாக்கிகள் கைப்பற்றல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-f7572ea8)
+- 2025-09-26 | `virakesarilk-4e7cf818` | சம்பா அரிசியை அதிக விலைக்கு விற்பனை செய்த  தனியார் நிறுவனத்திற்கு அபராதம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-4e7cf818)
 - 2025-09-26 | `tamilmirrorlk-ba004fd5` | கோழி லொறி மீது மோதிய காட்டு யானை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-ba004fd5)
 - 2025-09-26 | `tamilmirrorlk-cb801e6a` | ஒல்கொட் மாவத்தையில்‌ பேருந்து மீது முறிந்து விழுந்த மரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-cb801e6a)
 - 2025-09-26 | `virakesarilk-5e3e5956` | சிங்கப்பூரில் மலேசிய போதைப்பொருள் கடத்தல்காரருக்கு மரண தண்டனை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-5e3e5956)
@@ -55,10 +59,6 @@ A collection of lk_news documents.
 - 2025-09-26 | `tamilmirrorlk-cc58ea94` | புகையிரத சேவைகளில் தாமதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-cc58ea94)
 - 2025-09-26 | `virakesarilk-3df2e358` | அம்பாந்தோட்டை துறைமுக முதலீடு இராணுவமயமாக்கலை நோக்காக கொண்டதல்ல - சீன இராஜதந்திரி கலாநிதி. ஹுவாங் யுன்சோங் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-3df2e358)
 - 2025-09-26 | `virakesarilk-429ac5fb` | யாழ்.சாவகச்சேரி பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில் விபத்து ; இளைஞர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-429ac5fb)
-- 2025-09-26 | `virakesarilk-ed715c6b` | தெல்தெனியவில் விபத்து ; பெண்ணொருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-ed715c6b)
-- 2025-09-26 | `economynextcom-ea419831` | Sri Lanka’s Hayleys Fentons assigned national long-term rating of A+ by Fitch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-economynextcom-ea419831)
-- 2025-09-26 | `adaderanalk-e142416c` | Sri Lanka to regain 2019 economic status by next year - President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanalk-e142416c)
-- 2025-09-26 | `tamilmirrorlk-00c92491` | 24 மணித்தியாலங்களில் 100 மில்லி மீற்றர் மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-00c92491)
 
 ---
 
