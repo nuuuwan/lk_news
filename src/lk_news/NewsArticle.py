@@ -1,3 +1,4 @@
+import random
 from dataclasses import dataclass
 from typing import Generator
 
@@ -43,7 +44,9 @@ class NewsArticle(AbstractDoc):
 
     @classmethod
     def gen_docs(cls) -> Generator["NewsArticle", None, None]:
-        for newspaper_cls in NewspaperFactory.list_all():
+        newspaper_cls_list = NewspaperFactory.list_all()
+        random.shuffle(newspaper_cls_list)
+        for newspaper_cls in newspaper_cls_list:
             article_list = newspaper_cls.scrape()
             for article in article_list:
                 yield cls.from_news_lk3_article(article)
