@@ -1,0 +1,49 @@
+Polar ice is melting and changing Earth’s rotation
+
+CNN - One day in the next couple of years, everyone in the world will lose a second of their time. Exactly when that will happen is being influenced by humans, according to a new study, as melting polar ice alters the Earth’s rotation and changes time itself.
+
+The hours and minutes that dictate our days are determined by Earth’s rotation. But that rotation is not constant; it can change ever so slightly, depending on what’s happening on Earth’s surface and in its molten core.
+
+These nearly imperceptible changes occasionally mean the world’s clocks need to be adjusted by a “leap second,” which may sound tiny but can have a big impact on computing systems.
+
+Plenty of seconds have been added over the years. But after a long trend of slowing, the Earth’s rotation is now speeding up because of changes in its core. For the first time ever, a second will need to be taken off.
+
+“A negative leap second has never been added or tested, so the problems it could create are without precedent,” Patrizia Tavella, a member of the Time Department at the International Bureau of Weights and Measures in France, wrote in an article accompanying the study.
+
+But exactly when this will happen is being influenced by global warming, according to the study published Wednesday in the journal Nature. Melting polar ice is delaying the leap second by three years, pushing it from 2026 to 2029, the report found.
+
+“Part of figuring out what is going to happen in global timekeeping … is dependent on understanding what is happening with the global warming effect,” said Duncan Agnew, professor of geophysics at the University of California San Diego and the study’s author.
+
+Before 1955, a second was defined as a specific fraction of the time the Earth took to rotate once in relation to the stars. Then came the era of highly precise atomic clocks, which proved a much more stable way of defining a physical second.
+
+From the late 1960s, the world started using coordinated universal time (UTC) to set time zones. UTC relies on atomic clocks but still keeps pace with the planet’s rotation.
+
+But as the rotation speed is not constant, the two timescales slowly diverge. This means a “leap second” must be added every now and then to bring them back into alignment.
+
+Changes in Earth’s rotation over the long term have been dominated by the friction of the tides on the ocean floor — which has slowed down its rotation. Recently, the impacts of melting polar ice, driven by humans burning planet-heating fossil fuels, have become a significant factor, Agnew said. As the ice melts into the ocean, meltwater moves from the poles toward the equator, which further slows the speed of the Earth’s rotation.
+
+Ted Scambos, a glaciologist at the University of Colorado Boulder who was not involved in the study, describes the process like a figure skater spinning with their arms over their head. As they bring their arms down toward their shoulders, their spin slows.
+
+Polar ice melt “has been large enough to noticeably affect the rotation of the entire Earth in a way that is unprecedented,” Agnew said. “To me, the fact that human beings have caused the rotation of the Earth to change is kind of amazing.”
+
+But while melting ice may be slowing the Earth’s spin, there’s another factor at play when it comes to global timekeeping, according to the report: processes in the Earth’s core.
+
+The planet’s liquid core spins independently of its solid outer shell. If the core slows down, the solid shell speeds up to maintain momentum, Agnew said, and that is what’s currently happening.
+
+Very little is known about what’s going on roughly 1,800 miles below the Earth’s surface, and it’s not clear why the core’s speed is changing. “It’s fundamentally unpredictable,” said Agnew.
+
+But what is clear, according to the study, is that despite polar ice melt exerting a slowing influence, overall the Earth’s rotation is speeding up. That means the world will soon need to subtract a second for the first time.
+
+“A second doesn’t sound like much,” Agnew said, but computing systems set up for activities such as stock exchange transactions need to be accurate to a thousandth of a second.
+
+Many computer systems have software enabling them to add a second, but few have the capability to subtract one. Humans will need to reprogram computers, introducing the potential for error.
+
+“Nobody really anticipated that the Earth would speed up to the point where we might have to remove a leap second,” Agnew said.
+
+Scambos, the University of Colorado Boulder glaciologist, said the “big deal” of the study is that it shows “changes from the Earth’s core are now trending bigger than the trends in loss of ice from the poles — even though ice loss has picked up in the last decade.”
+
+“It’s a ‘yikes’ moment for some computer applications,” he told CNN, but for most people life will carry on as usual.
+
+For Agnew, the findings could be a powerful tool to connect people with the ways humans are changing the planet.
+
+“Being able to say so much ice has melted that it’s actually changed the rotation of the Earth by a measurable amount, I think gives you the sense, OK, this is a big deal.”

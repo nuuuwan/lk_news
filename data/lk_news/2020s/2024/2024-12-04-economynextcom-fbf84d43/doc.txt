@@ -1,0 +1,17 @@
+Jeff Paul, Isabelle Mauny join Sri Lanka’s WSO2
+
+ECONOMYNEXT – Jeff Paul has been appointed senior vice president and global head of sales, and Isabelle Mauny as vice president and chief developer advocate at Sri Lankan-based WSO2.
+
+They will play “strategic roles in expanding global adoption of WSO2’s offerings via initiatives aimed at customer advocacy, education, and counsel,” the technology company said.
+
+Jeff Paul brings more than two decades of technology sales experience, including vice president roles at Red Hat, Intel and IBM.
+
+Isabelle Mauny has 25-plus years of integration and API industry experience, including roles as a 42Crunch co-founder and WSO2 vice president of product management.
+
+“Their deep knowledge of the digital opportunities and challenges facing organizations today will be invaluable in helping customers navigate their transformation journeys,” WSO2 founder and CEO Dr Sanjiva Weerawarana said.
+
+Paul will spearhead WSO2’s global go-to-market and sales strategies, as well as customer impact across all industry verticals, the company said.
+
+Mauny will act as a key bridge between WSO2’s engineering teams and the global developer community. “Enterprise software development teams face unprecedented pressure to rapidly innovate new digital services and applications, and WSO2 is helping to radically simplify their efforts with its next generation of products,” she said.
+
+Founded in 2005, WSO2 is a software vendor providing open-source API management, integration, and identity and access management (IAM) products. (Colombo/Dec4/2024)

@@ -1,0 +1,17 @@
+The Microsoft Cyber Signals Report furnishes strategic guidance on comprehending cybersecurity
+
+As cyber threats escalate globally, the imperative to design, deploy, and utilize AI securely has never been more pressing. There’s an urgent call to adopt proactive measures, heighten threat awareness, and prioritize cybersecurity education to safeguard not only ourselves, but also our organizations and data. Recently, Microsoft unveiled its sixth edition of Cyber Signals, a quarterly cyberthreat intelligence brief, which draws from the latest Microsoft research, offering expert insights into the current threat landscape. This edition of the report underscores the importance of securing AI technologies to prevent misuse and highlights Microsoft’s efforts in protecting AI platforms from emerging threats posed by nation-state cyber actors.
+
+The report delves into the emergence of Large Language Models (LLMs) as tools of interest for threat actors and emphasizes the growing utilization of Artificial Intelligence (AI) in both offensive and defensive cyber operations. Microsoft introduces guiding principles aimed at mitigating these risks, particularly addressing threats such as Advanced Persistent Threats, Advanced Persistent Manipulators, and Cybercriminal Syndicates leveraging AI platforms and APIs. These principles include identification and action against malicious threat actors’ use of AI, notification to other AI service providers, collaboration with other stakeholders, and transparency.
+
+Microsoft detects a tremendous amount of malicious traffic—more than 65 trillion cybersecurity signals per day Various AI-driven methods, including threat detection, behavioral analytics, machine learning, and Zero Trust models, are employed to safeguard Microsoft and customers against cyber threats.
+
+Multifactor authentication (MFA) is rigorously applied across Microsoft, prompting attackers to resort to social engineering tactics, particularly in areas offering high value, such as free trials or promotional pricing. To counter such attacks, AI models are developed to detect them promptly. Additionally, Microsoft employs AI to identify fake students, accounts, and organizations attempting to evade detection by altering data or concealing identities.
+
+‘Sri Lankan authorities turning a blind eye on the health hazards of asbestos’
+
+BOC records over Rs. 503 billion worth transactions via its service touch points during this Avurudu Season
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
