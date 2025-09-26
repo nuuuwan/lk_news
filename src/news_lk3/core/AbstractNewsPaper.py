@@ -4,8 +4,8 @@ from abc import ABC
 from bs4 import BeautifulSoup
 from utils import Log, Parallel, String, TimeFormat
 
-from news_lk3.base import WWW
 from news_lk3.core.article.Article import Article
+from utils_future import WWW
 
 MIN_ARTICLE_HTML_SIZE = 1_000
 MIN_CHARS_IN_BODY_LINE = 60
