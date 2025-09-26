@@ -37,7 +37,9 @@ class NewsArticle(AbstractDoc):
         description = article.original_title
         assert len(description) >= 10, description
 
-        num = article.newspaper_id + "-" + Hash.md5(article.original_title)[:8]
+        num = (
+            article.newspaper_id + "-" + Hash.md5(article.original_title)[:8]
+        )
 
         time_ut = article.time_ut
         dt = Time.now().ut - time_ut
