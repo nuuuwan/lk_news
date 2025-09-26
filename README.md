@@ -1,16 +1,16 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**1** datasets, with **584** documents (**16.5 MB**).
+**1** datasets, with **679** documents (**31.8 MB**).
 
 ## 001 📄 News
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_13:03:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_13:43:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**584** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**16.5 MB**), from **2023-05-16** to **2025-09-26**, scraped from [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://economynext.com](https://economynext.com), [https://www.divaina.lk](https://www.divaina.lk) & 9 more
+- [**679** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**31.8 MB**), from **2022-07-12** to **2025-09-26**, scraped from [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://economynext.com](https://economynext.com), [https://www.divaina.lk](https://www.divaina.lk) & 13 more
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
