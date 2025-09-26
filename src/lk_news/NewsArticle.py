@@ -33,15 +33,18 @@ class NewsArticle(AbstractDoc):
 
     @classmethod
     def from_news_lk3_article(cls, article):
-        date_str = TimeFormat.DATE.format(Time(article.time_ut))
-        num = article.newspaper_id + "-" + Hash.md5(article.url)[:8]
 
         description = article.original_title
         assert len(description) >= 10, description
+
+        num = article.newspaper_id + "-" + Hash.md5(article.original_title)[:8]
+
         time_ut = article.time_ut
         dt = Time.now().ut - time_ut
         assert dt > 0, f"{time_ut=} is in the future"
         assert dt < 86400 * 365.35 * 10, f"{time_ut=} is older than 10 years"
+        date_str = TimeFormat.DATE.format(Time(article.time_ut))
+
         doc = cls(
             num=num,
             date_str=date_str,
