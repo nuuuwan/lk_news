@@ -1,4 +1,4 @@
-from news_lk3.custom_newspapers import DivainaLk
+from news_lk3.custom_newspapers import BBCComSinhala
 
 
 class NewspaperFactory:
@@ -26,8 +26,7 @@ class NewspaperFactory:
             # ----
             # ----
             # Failing! HACK!
-            DivainaLk,
-            # BBCComSinhala,
+            BBCComSinhala,
             # DailyMirrorLk,
             # LankadeepaLk,
             # DailyNewsLk,
