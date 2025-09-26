@@ -144,8 +144,6 @@ class AbstractNewsPaper(ABC):
 
     @classmethod
     def parse_and_store_article(cls, article_url):
-        log.debug(f"[parse_and_store_article] {article_url}...")
-
         try:
             article = cls.parse_article(article_url)
             return article
