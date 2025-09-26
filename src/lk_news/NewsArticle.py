@@ -32,13 +32,6 @@ class NewsArticle(AbstractDoc):
             File(self.text_path).write(text_content)
             log.debug(f"Wrote {self.text_path}")
 
-        if not os.path.exists(self.doc_readme_path):
-            lines = text_content.split("\n")
-            if len(lines) > 0:
-                lines = ["# " + lines[0]] + lines[1:]
-                File(self.doc_readme_path).write_lines(lines)
-                log.debug(f"Wrote {self.doc_readme_path}")
-
     @classmethod
     def from_news_lk3_article(cls, article):
         date_str = TimeFormat.DATE.format(Time(article.time_ut))
