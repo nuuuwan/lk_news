@@ -22,8 +22,8 @@ class NewsArticle(AbstractDoc):
 
     def write_text_from_article(self, article):
         if not self.has_text:
-            assert len(article.original_title) > 10
-            assert len(article.original_body_lines) > 1
+            assert len(article.original_title) >= 10
+            assert len(article.original_body_lines) >= 1
 
             text_content = "\n\n".join(
                 [article.original_title] + article.original_body_lines
