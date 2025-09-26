@@ -1,4 +1,4 @@
-from news_lk3.custom_newspapers import DailyNewsLk
+from news_lk3.custom_newspapers import NewsFirstLk
 
 
 class NewspaperFactory:
@@ -26,6 +26,5 @@ class NewspaperFactory:
             # ----
             # ----
             # Failing! HACK!
-            DailyNewsLk,
-            # NewsFirstLk,
+            NewsFirstLk,
         ]
