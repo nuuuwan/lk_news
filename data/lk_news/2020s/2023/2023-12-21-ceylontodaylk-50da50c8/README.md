@@ -1,0 +1,15 @@
+# Elephant House Dominates at SLIM Brand Excellence 2023!
+
+Elephant House dazzled once again as a brand powerhouse by securing 3 prestigious awards at the SLIM Brand Excellence Awards 2023.
+
+Hosted by the Sri Lanka Institute of Marketing, Brand Excellence is the most prestigious recognition for brands in Sri Lanka, honoring exceptional marketing efforts and outstanding brand stories.
+
+Elephant House Ice Cream won Gold in Product Brand of the Year, dominating in a competitive category contested by the strongest FMCG brands, local and multinational. Elephant House Ice Cream also won Silver in Local Brand of the Year, an extremely competitive category contested by the top brands in Sri Lanka.
+
+The brand’s strategies and actions to connect with consumers as “Sri Lanka’s Favorite Ice Cream” in a challenging year was duly recognized by the jury with these awards.
+
+Gunadamin Elephant House won Bronze in CSR Brand of the Year. Gunadamin Elephant House operates for the greater good of society through Community upliftment, Waste management and Sustainable sourcing. The brand activities in this end were recognized and rewarded by the jury through this prestigious award.
+
+“These awards solidify the power of Elephant House as a brand loved and trusted by generations of Sri Lankans. We are committed to connect with our consumers by creating joyful and exciting moments in their everyday lives.” Expressed DamindaGamlath, President of the Consumer Foods Sector – John Keells Holdings PLC, speaking of the victories achieved by the brand.
+
+These awards add to the many accolades received by the brand this year, validating the positioning of Elephant House in the hearts of Sri Lankans.
