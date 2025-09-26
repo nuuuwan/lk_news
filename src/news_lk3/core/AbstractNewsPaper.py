@@ -52,7 +52,7 @@ class AbstractNewsPaper(ABC):
             else:
                 html = www.read()
         except Exception as e:
-            log.error(str(e))
+            log.error(url + ": " + str(e))
             return None
 
         if is_html_valid(html):
@@ -148,7 +148,7 @@ class AbstractNewsPaper(ABC):
             return article
 
         except Exception as e:
-            log.error(str(e))
+            log.error(article_url + ": " + str(e))
             return None
 
     @classmethod
