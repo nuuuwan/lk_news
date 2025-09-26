@@ -1,7 +1,0 @@
-# Sri Lanka sells extra Rs275mn Treasury bills after auction
-
-ECONOMYNEXT – Sri Lanka has sold 275 million rupees of treasury bills offered on tap at average rates of 7.57 percent and 8.02 percent, the state debt office said, bringing the total of bills sold this week to 34.62 billion rupees.
-
-On Wednesday (24) the debt office raised 34.35 billion rupees of 3, 6 and 12 month bills, after offering 38 billion.
-
-Sri Lanka sells less than offered treasury bills, yields flat

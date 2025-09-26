@@ -1,9 +1,0 @@
-# Hemas Holdings to buy consumer products company in Kenya
-
-ECONOMYNEXT – Sri Lanka’s Hemas Holdings said that it has entered into a conditional share sale and purchase agreement to acquire a majority equity interest in a consumer products company based in Kenya.
-
-“Completion of the transaction is subject to the receipt of regulatory approvals, including from the Competition Authority of Kenya and the Central Bank of Sri Lanka, as well as satisfaction of other customary conditions precedent,” the company said in a stock exchange filing.
-
-The deal is expected to be finalized within the next 6 months.
-
-Hemas Holdings’ board approved on September 25 to proceed with the agreement, and further developments will be announced in due course, the company said. (Colombo/Sep25/2025)
