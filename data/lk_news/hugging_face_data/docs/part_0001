@@ -155,6 +155,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-dailymirrorlk-86c54a81",
+    "num": "dailymirrorlk-86c54a81",
+    "date_str": "2025-09-26",
+    "description": "Rainfall to gradually decrease after October 3: Met Dept.",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rainfall-to-gradually-decrease-after-October-3-Met-Dept/108-320599",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1758866051.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-adaderanalk-2b0ef246",
     "num": "adaderanalk-2b0ef246",
     "date_str": "2025-09-26",
@@ -166,6 +177,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-dailymirrorlk-5628ba8e",
+    "num": "dailymirrorlk-5628ba8e",
+    "date_str": "2025-09-26",
+    "description": "Tree falls on bus in Olcott Mawatha",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tree-falls-on-bus-in-Olcott-Mawatha/108-320597",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1758865589.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-adaderanasinhalalk-84725b4b",
     "num": "adaderanasinhalalk-84725b4b",
     "date_str": "2025-09-26",
@@ -174,6 +196,17 @@
     "lang": "si",
     "newspaper_id": "adaderanasinhalalk",
     "time_ut": 1758865500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-dailymirrorlk-7567f519",
+    "num": "dailymirrorlk-7567f519",
+    "date_str": "2025-09-26",
+    "description": "Three National Hospitals still run without directors",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-National-Hospitals-still-run-without-directors/108-320596",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1758865038.0
   },
   {
     "doc_type": "lk_news",
@@ -196,6 +229,17 @@
     "lang": "en",
     "newspaper_id": "adaderanalk",
     "time_ut": 1758864780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-dailymirrorlk-5e619a14",
+    "num": "dailymirrorlk-5e619a14",
+    "date_str": "2025-09-26",
+    "description": "Driving licence, number plates with new features soon: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Driving-licence-number-plates-with-new-features-soon-Minister/108-320595",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1758864728.0
   },
   {
     "doc_type": "lk_news",
@@ -298,6 +342,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-dailymirrorlk-fad7bfda",
+    "num": "dailymirrorlk-fad7bfda",
+    "date_str": "2025-09-26",
+    "description": "Trump signs order declaring TikTok sale ready and values it at $14 billion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-signs-order-declaring-TikTok-sale-ready-and-values-it-at-14-billion/108-320582",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1758861680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-dailymirrorlk-6bdbed54",
+    "num": "dailymirrorlk-6bdbed54",
+    "date_str": "2025-09-26",
+    "description": "Vehicle roadworthiness vital to reduce accidents: Sajeev Rajaputhra",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vehicle-roadworthiness-vital-to-reduce-accidents-Sajeev-Rajaputhra/108-320580",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1758861253.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-adalk-2b04881d",
     "num": "adalk-2b04881d",
     "date_str": "2025-09-26",
@@ -386,6 +452,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-dailymirrorlk-ed6fc537",
+    "num": "dailymirrorlk-ed6fc537",
+    "date_str": "2025-09-26",
+    "description": "Parliament kitchen needs minor repairs: MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-kitchen-needs-minor-repairs-MP/108-320574",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1758859139.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-tamilmirrorlk-804f6e22",
     "num": "tamilmirrorlk-804f6e22",
     "date_str": "2025-09-26",
@@ -394,6 +471,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1758858903.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-dailymirrorlk-2433f169",
+    "num": "dailymirrorlk-2433f169",
+    "date_str": "2025-09-26",
+    "description": "President meets UN Secretary-General",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/President-meets-UN-Secretary-General/110-320573",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1758858881.0
   },
   {
     "doc_type": "lk_news",

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_12:45:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_13:03:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**576** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**19.8 MB**), from **2023-05-16** to **2025-09-26**, scraped from [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://economynext.com](https://economynext.com), [https://www.divaina.lk](https://www.divaina.lk) & 8 more
+- [**584** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**16.5 MB**), from **2023-05-16** to **2025-09-26**, scraped from [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://economynext.com](https://economynext.com), [https://www.divaina.lk](https://www.divaina.lk) & 9 more
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -53,12 +53,12 @@ A collection of lk_news documents.
 - 2025-09-26 | `adaderanasinhalalk-b259ddcf` | නාමල්ගේ ක්‍රිෂ් නඩුවට අධිකරණයෙන් නියෝගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanasinhalalk-b259ddcf)
 - 2025-09-26 | `adaderanalk-2894aefe` | 2026 Appropriation Bill presented to Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanalk-2894aefe)
 - 2025-09-26 | `adaderanasinhalalk-c630fb4e` | 'පද්මේ' සඟවා තිබූ පිස්තෝලයක් පෑලියගොඩින් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanasinhalalk-c630fb4e)
+- 2025-09-26 | `dailymirrorlk-86c54a81` | Rainfall to gradually decrease after October 3: Met Dept. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-dailymirrorlk-86c54a81)
 - 2025-09-26 | `adaderanalk-2b0ef246` | New vehicle number plates with advanced features to be issued by Nov 15 – Transport Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanalk-2b0ef246)
+- 2025-09-26 | `dailymirrorlk-5628ba8e` | Tree falls on bus in Olcott Mawatha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-dailymirrorlk-5628ba8e)
 - 2025-09-26 | `adaderanasinhalalk-84725b4b` | 2026 විසර්ජන පනත් කෙටුම්පත පාර්ලිමේන්තුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanasinhalalk-84725b4b)
+- 2025-09-26 | `dailymirrorlk-7567f519` | Three National Hospitals still run without directors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-dailymirrorlk-7567f519)
 - 2025-09-26 | `virakesarilk-4e7cf818` | சம்பா அரிசியை அதிக விலைக்கு விற்பனை செய்த  தனியார் நிறுவனத்திற்கு அபராதம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-4e7cf818)
-- 2025-09-26 | `adaderanalk-0bf3600f` | Co-ops take spotlight in India-Sri Lanka Dialogue in New Delhi | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanalk-0bf3600f)
-- 2025-09-26 | `adaderanasinhalalk-f4545b4d` | නවීන ආරක්ෂක ක්‍රමවේද සහිත වාහන අංක තහඩු නොවැ. 15 සිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanasinhalalk-f4545b4d)
-- 2025-09-26 | `adaderanalk-4e82cee5` | Pre-trial conference fixed for Namal Rajapaksa’s ‘Krrish’ case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-adaderanalk-4e82cee5)
 
 ---
 
