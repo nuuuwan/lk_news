@@ -22,9 +22,13 @@ class NewsArticle(AbstractDoc):
 
     def write_text_from_article(self, article):
         if not self.has_text:
+            assert len(article.original_title) > 10
+            assert len(article.original_body_lines) > 1
+
             text_content = "\n\n".join(
                 [article.original_title] + article.original_body_lines
             )
+            assert len(text_content) > 30, text_content
             File(self.text_path).write(text_content)
             log.debug(f"Wrote {self.text_path}")
 
@@ -32,6 +36,11 @@ class NewsArticle(AbstractDoc):
     def from_news_lk3_article(cls, article):
         date_str = TimeFormat.DATE.format(Time(article.time_ut))
         num = article.newspaper_id + "-" + Hash.md5(article.url)[:8]
+
+        description = article.original_title
+        assert len(description) >= 10, description
+        time_ut = article.time_ut
+        assert time_ut > 1_500_000_000, time_ut
         doc = cls(
             num=num,
             date_str=date_str,
