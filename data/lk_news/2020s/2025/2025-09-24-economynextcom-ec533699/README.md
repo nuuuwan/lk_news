@@ -1,0 +1,15 @@
+# Sri Lanka rupee flat against dollar, bond yields steady
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.45/55 to the US dollar on Wednesday, relatively flat from 302.45/60 the previous day, while bond yields closed broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 closed at 8.25/32 percent, down from 8.28/33 percent.
+
+A bond maturing on 15.09.2027 closed flat at 8.65/75 percent.
+
+A bond maturing on 15.12.2028 closed at 9.08/15 percent, up from 9.05/15 percent.
+
+A bond maturing on 15.12.2029 closed at 9.50/56 percent, up from 9.48/54 percent.
+
+A bond maturing on 01.07.2030 closed at 9.68/73 percent, from down 9.68/75 percent.
+
+A bond maturing on 15.12.2032 closed at 10.43/48 percent, up from 10.42/48 percent.

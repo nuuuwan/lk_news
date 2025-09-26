@@ -1,12 +1,20 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
+<<<<<<< HEAD
 ![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_14:19:13-green)
+=======
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_14:18:49-green)
+>>>>>>> 9f89fd7 (local)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
+<<<<<<< HEAD
 - [**828** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**21.8 MB**), from **2022-07-12** to **2025-09-26**, scraped from [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk) & 13 more
+=======
+- [**807** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**43.3 MB**), from **2022-07-12** to **2025-09-26**, scraped from [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk) & 13 more
+>>>>>>> 9f89fd7 (local)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 

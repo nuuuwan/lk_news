@@ -2,13 +2,22 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
+<<<<<<< HEAD
   "time_updated": "2025-09-26 14:19:12",
   "n_docs": 828,
+=======
+  "time_updated": "2025-09-26 14:18:49",
+  "n_docs": 807,
+>>>>>>> 9f89fd7 (local)
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 828,
   "date_str_min": "2022-07-12",
   "date_str_max": "2025-09-26",
+<<<<<<< HEAD
   "dataset_size": 21834505,
+=======
+  "dataset_size": 43261009,
+>>>>>>> 9f89fd7 (local)
   "url_source_list": [
     "https://www.lankadeepa.lk",
     "https://dbsjeyaraj.com",
@@ -32,8 +41,13 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+<<<<<<< HEAD
     "en",
     "ta",
+=======
+    "ta",
+    "en",
+>>>>>>> 9f89fd7 (local)
     "si"
   ],
   "latest_doc_d": {

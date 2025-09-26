@@ -1,0 +1,13 @@
+# Sri Lanka services exports fall 6.8-pct in August
+
+ECONOMYNEXT – Sri Lanka’s services exports fell 6.82 percent from a year ago to 312.75 million US dollars in August 2025, led by decline in transport and logistics, the island’s Export Development Board said.
+
+However, over the first eight months of the year, services exports are estimated to have increased 5.57 percent, totaling 2,221.63 million dollars.
+
+ICT/BPM exports rose 6.43 percent to 147 million US dollars in August 2025 compared to the same month in 2024, and construction fell 28.24 percent to 9.71 million US dollars.
+
+Financial services edged up 51 percent to a small volume of 3.59 million US dollars.
+
+Transport and logistics declined 1606 percent to 152.46 million US dollars.
+
+Up to August total exports of goods and services were 11,554.32 million US dollars, 6.61 percent higher than 10,837.97 million in the same period in the previous year. (Colombo/September 23/2025)

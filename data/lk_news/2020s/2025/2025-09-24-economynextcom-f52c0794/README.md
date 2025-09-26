@@ -1,0 +1,25 @@
+# Asia-Pacific issuers to have bumpy ride as trade strains hit: S&P Global Ratings report
+
+SINGAPORE (S&P Global Ratings) Sept. 24, 2025 — Asia-Pacific’s credit conditions are keeping steady, after strong first-half growth and supportive financing conditions. However, the road ahead looks bumpy. That’s according to a report S&P Global Ratings published today, titled “Credit Conditions Asia-Pacific Q4 2025: On A Jagged Course.”
+
+The “frontloading” of exports and resilient domestic consumption have supported the region’s growth in 2025. However, slower trade will start materializing in fourth-quarter 2025 as effects of tariffs start to unfold. Consequently, we expect Asia-Pacific’s growth to slow to 4.4% in 2025 and 4.0% in 2026.
+
+This combined with other risks could lead to reversals in market sanguinity and easy financing conditions.
+
+“Abundant liquidity, narrowing spreads, and steady yields have desensitized markets to tail risks. Should shock events occur, a significant correction may occur in asset prices such as bonds, equity, and real estate,” said Eunice Tan, head of Asia-Pacific credit research at S&P Global Ratings.
+
+China’s growth is squeezed on both sides. Externally, high U.S. tariffs on Chinese goods will limit export competitiveness. At home, the sticky property crisis is weighing on households while “involution”–cut-throat price competition–is squeezing corporate margins in some consumer-facing niches. More policy stimulus may be needed to restore confidence and support economic growth.
+
+Meanwhile, the weak U.S. dollar is giving central banks in Asia-Pacific more wiggle room on monetary policy.
+
+“Financing conditions will likely benefit from the Federal Reserve’s more dovish stance around interest rates,” said Ms. Tan. “The reduction in interest burdens will alleviate cash flow strains, and cheaper mortgages should free up disposable income for consumption. This provides relief for heavily indebted borrowers.”
+
+Still, we view trade-related risks as very high, given the region’s large export-focused manufacturing bases. While a few deals with the U.S. have been struck, providing a bit more visibility, details remain vague. Furthermore, new tariffs could be imposed on the pharmaceutical and semiconductor sectors. Limited clarity around trade policy will prompt manufacturers to slow capital expenditure, constraining growth.
+
+“Markets and credit conditions could turn if trade or other macro risks worsen,” said Ms. Tan.
+
+Please join S&P Global Ratings’ analysts and economists to explore our latest research on global credit conditions at our live interactive webinar on Thursday, Oct. 9, where they will cover our updated macroeconomic forecasts, key risks to credit conditions, and credit trends at the industry level for Asia-Pacific.
+
+The event will start at 10:00 a.m. Hong Kong/Singapore time. Those interested can register to join here:
+
+Reports are available to RatingsDirect subscribers at www.capitaliq.com. If you are not a subscriber, you may purchase a copy of a report by emailing research_request@spglobal.com. Ratings information can also be found on S&P Global Ratings’ public website by using the Ratings search box at www.spglobal.com/ratings.
