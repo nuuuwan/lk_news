@@ -2,23 +2,24 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-26 12:39:15",
-  "n_docs": 551,
+  "time_updated": "2025-09-26 12:45:28",
+  "n_docs": 576,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 551,
+  "n_docs_with_text": 576,
   "date_str_min": "2023-05-16",
   "date_str_max": "2025-09-26",
-  "dataset_size": 16963041,
+  "dataset_size": 19820481,
   "url_source_list": [
     "https://dbsjeyaraj.com",
     "https://www.ada.lk",
     "https://www.ft.lk",
     "https://economynext.com",
-    "https://www.tamilmirror.lk",
     "https://www.divaina.lk",
+    "https://www.tamilmirror.lk",
     "https://www.adaderana.lk",
     "http://island.lk",
     "http://sinhala.adaderana.lk",
+    "https://www.bbc.com",
     "https://www.virakesari.lk",
     "https://ceylontoday.lk",
     "https://www.colombotelegraph.com"
@@ -32,13 +33,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-26-divainalk-d1661f23",
-    "num": "divainalk-d1661f23",
+    "doc_id": "2025-09-26-divainalk-97d9e078",
+    "num": "divainalk-97d9e078",
     "date_str": "2025-09-26",
-    "description": "\u0d9a\u0ddd\u0db4\u0dca \u0dc3\u0dc4 \u0d9a\u0ddd\u0db4\u0dcf \u0dc0\u0dd9\u0dad \u0db1\u0ddb\u0dad\u0dd2\u0d9a \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba",
-    "url_metadata": "https://www.divaina.lk/breaking-news/31507",
+    "description": "\u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1 \u0db4\u0db1\u0dad\u0dca \u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.divaina.lk/breaking-news/31509",
     "lang": "si",
     "newspaper_id": "divainalk",
-    "time_ut": 1758870267.0
+    "time_ut": 1758870748.0
   }
 }
