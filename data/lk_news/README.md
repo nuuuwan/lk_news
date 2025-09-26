@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_13:50:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_13:58:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**804** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**18.7 MB**), from **2022-07-12** to **2025-09-26**, scraped from [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk) & 13 more
+- [**807** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**40.5 MB**), from **2022-07-12** to **2025-09-26**, scraped from [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk) & 13 more
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-26-lankadeepalk-1ed9b86f",
-    "num": "lankadeepalk-1ed9b86f",
+    "doc_id": "2025-09-26-lankadeepalk-2d1fb22b",
+    "num": "lankadeepalk-2d1fb22b",
     "date_str": "2025-09-26",
-    "description": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0da2\u0db4\u0dcf\u0db1\u0dd9\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad-\u0da2\u0db4\u0db1\u0da7/101-680271",
+    "description": "\u0d9c\u0db8\u0dda \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc0\u0dd0\u0da9\u0da7 \u0da9\u0db6\u0dbd\u0dca \u0d9a\u0dd0\u0db6\u0dca \u0dc4\u0dad\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9c\u0db8-\u0dc3\u0d9b\u0dba-\u0dc0\u0da9\u0da7-\u0da9\u0db6\u0dbd-\u0d9a\u0db6-\u0dc4\u0dad\u0d9a/101-680273",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1758873461.0
+    "time_ut": 1758875247.0
 }
 ```
 
@@ -39,6 +39,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-26 | `lankadeepalk-2d1fb22b` | ගමේ සෞඛ්‍ය වැඩට ඩබල් කැබ් හතක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-2d1fb22b)
+- 2025-09-26 | `lankadeepalk-56696e89` | ගැබිනි මව් සායනයට යන මුවාවෙන් ‘අයිස් ‘විකුණලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-56696e89)
 - 2025-09-26 | `lankadeepalk-1ed9b86f` | ජනපති ජපානෙට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-1ed9b86f)
 - 2025-09-26 | `tamilmirrorlk-feaf9f3c` | வளைவு நெளிவு நடனமே என்னை பிரபலப்படுத்தியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-feaf9f3c)
 - 2025-09-26 | `lankadeepalk-08a2a31c` | වැඩ කරන රාජ්‍ය සේවයක් අනිවාර්යයෙන් හදනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-08a2a31c)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-09-26 | `virakesarilk-6f919d9f` | பணிப்பாளர்கள் இன்றி மூன்று தேசிய வைத்தியசாலைகள் இயங்குவதாக தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-6f919d9f)
 - 2025-09-26 | `virakesarilk-a2eec74a` | மட்டக்களப்பு மாவட்டத்தின் புதிய அரசாங்க அதிபராக ஜே.எஸ் அருள்ராஜ் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-a2eec74a)
 - 2025-09-26 | `dailynewslk-77f70d25` | Pre-Trial Hearing Scheduled for Namal Rajapaksa’s ‘Krrish’ Case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-dailynewslk-77f70d25)
-- 2025-09-26 | `newsfirstlk-b55505ce` | Sri Lanka Signals Strong Economic Comeback: Treasury Secretary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-newsfirstlk-b55505ce)
-- 2025-09-26 | `tamilmirrorlk-191adf25` | முதிரைக்குற்றிகளுடன் வாகனம் விபத்து: சாரதி மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-tamilmirrorlk-191adf25)
 
 ---
 

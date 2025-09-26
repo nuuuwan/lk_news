@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-26 13:50:24",
-  "n_docs": 804,
+  "time_updated": "2025-09-26 13:58:12",
+  "n_docs": 807,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 804,
+  "n_docs_with_text": 807,
   "date_str_min": "2022-07-12",
   "date_str_max": "2025-09-26",
-  "dataset_size": 18713213,
+  "dataset_size": 40546979,
   "url_source_list": [
     "https://www.lankadeepa.lk",
     "https://dbsjeyaraj.com",
@@ -38,13 +38,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-26-lankadeepalk-1ed9b86f",
-    "num": "lankadeepalk-1ed9b86f",
+    "doc_id": "2025-09-26-lankadeepalk-2d1fb22b",
+    "num": "lankadeepalk-2d1fb22b",
     "date_str": "2025-09-26",
-    "description": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0da2\u0db4\u0dcf\u0db1\u0dd9\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad-\u0da2\u0db4\u0db1\u0da7/101-680271",
+    "description": "\u0d9c\u0db8\u0dda \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc0\u0dd0\u0da9\u0da7 \u0da9\u0db6\u0dbd\u0dca \u0d9a\u0dd0\u0db6\u0dca \u0dc4\u0dad\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9c\u0db8-\u0dc3\u0d9b\u0dba-\u0dc0\u0da9\u0da7-\u0da9\u0db6\u0dbd-\u0d9a\u0db6-\u0dc4\u0dad\u0d9a/101-680273",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1758873461.0
+    "time_ut": 1758875247.0
   }
 }
