@@ -10,7 +10,7 @@ from news_lk3.custom_newspapers import (AdaDeranaLk, AdaDeranaSinhalaLk, AdaLk,
 
 class NewspaperFactory:
     @staticmethod
-    def list_all():
+    def list_all2():
         return [
             AdaDeranaLk,
             AdaDeranaSinhalaLk,
@@ -29,4 +29,10 @@ class NewspaperFactory:
             NewsFirstLk,
             TamilMirrorLk,
             VirakesariLk,
+        ]
+
+    @staticmethod
+    def list_all():
+        return [
+            CeylonTodayLk,
         ]

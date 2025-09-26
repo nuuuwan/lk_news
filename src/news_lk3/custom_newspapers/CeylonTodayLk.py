@@ -6,12 +6,20 @@ TIME_RAW_FORMAT = "%Y-%m-%dT%H:%M:%S+05:30"
 
 
 class CeylonTodayLk(AbstractNewsPaper):
+    BASE_URL = "https://ceylontoday.lk"
+
     @classmethod
     def get_index_urls(cls):
-        return [
-            "https://ceylontoday.lk/category/local/",
-            "https://ceylontoday.lk/category/business/",
-        ]
+        index_urls = []
+        for category in [
+            "local",
+            "sports",
+            "business",
+            "entertainment",
+            "tech",
+        ]:
+            index_urls.append(f"https://ceylontoday.lk/category/{category}")
+        return index_urls
 
     @classmethod
     def parse_article_urls(cls, soup):

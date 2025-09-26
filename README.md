@@ -1,22 +1,6 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**1** datasets, with **807** documents (**40.5 MB**).
-
-## 001 📄 News
-
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_13:58:12-green)
-
-[https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
-
-A collection of lk_news documents.
-
-- [**807** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**40.5 MB**), from **2022-07-12** to **2025-09-26**, scraped from [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk) & 13 more
-
-- In **JSON**, **TXT** & **🤗 Hugging Face**
-
-- In **සිංහල**, **தமிழ்** & **English**
-
-![Chart](https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png)
+**0** datasets, with **0** documents (**0 B**).
 
 ---
 
