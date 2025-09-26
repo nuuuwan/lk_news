@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-26 11:50:26",
+  "time_updated": "2025-09-26 11:55:58",
   "n_docs": 461,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 461,
   "date_str_min": "2023-05-16",
   "date_str_max": "2025-09-26",
-  "dataset_size": 13772681,
+  "dataset_size": 13786956,
   "url_source_list": [
     "https://dbsjeyaraj.com",
     "https://www.ft.lk",
@@ -24,9 +24,9 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
