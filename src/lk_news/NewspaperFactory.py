@@ -1,4 +1,4 @@
-from news_lk3.custom_newspapers import LankadeepaLk
+from news_lk3.custom_newspapers import DailyNewsLk
 
 
 class NewspaperFactory:
@@ -26,7 +26,6 @@ class NewspaperFactory:
             # ----
             # ----
             # Failing! HACK!
-            LankadeepaLk,
-            # DailyNewsLk,
+            DailyNewsLk,
             # NewsFirstLk,
         ]
