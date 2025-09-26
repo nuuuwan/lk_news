@@ -31,10 +31,10 @@ def main(max_docs: int):
         NewsArticle.from_news_lk3_article(article)
         n_docs += 1
         if n_docs >= max_docs:
-            log.info(f"🛑 Reached max_docs={max_docs}, stopping")
+            log.info(f"🛑 Reached max_docs={max_docs:,}, stopping")
             sys.exit(0)
 
-    log.info(f" 🛑 All {n_docs} articles processed.")
+    log.info(f" 🛑 All {n_docs:,} articles processed.")
 
 
 if __name__ == "__main__":

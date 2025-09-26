@@ -39,7 +39,9 @@ class NewsArticle(AbstractDoc):
             log.error(f'Description too short: "{description}"')
             return None
 
-        num = article.newspaper_id + "-" + Hash.md5(article.original_title)[:8]
+        num = (
+            article.newspaper_id + "-" + Hash.md5(article.original_title)[:8]
+        )
 
         time_ut = article.time_ut
         dt = Time.now().ut - time_ut
