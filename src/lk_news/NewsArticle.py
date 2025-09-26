@@ -21,7 +21,7 @@ class NewsArticle(AbstractDoc):
                 [article.original_title] + article.original_body_lines
             )
             File(self.text_path).write(text_content)
-            log.info(f"Wrote {self.text_path}")
+            log.debug(f"Wrote {self.text_path}")
 
     @classmethod
     def from_news_lk3_article(cls, article):
