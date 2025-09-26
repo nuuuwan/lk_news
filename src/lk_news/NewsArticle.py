@@ -48,6 +48,14 @@ class NewsArticle(AbstractDoc):
         return doc
 
     @classmethod
+    def __log_newspaper_to_n__(cls, newspaper_to_n):
+        newspaper_to_n = dict(
+            sorted(newspaper_to_n.items(), key=lambda x: x[1], reverse=True)
+        )
+        log.debug(f"{newspaper_to_n=}")
+        JSONFile("newspaper_to_n.json").write(newspaper_to_n)
+
+    @classmethod
     def gen_docs(cls) -> Generator["NewsArticle", None, None]:
         newspaper_cls_list = NewspaperFactory.list_all()
         random.shuffle(newspaper_cls_list)
@@ -57,7 +65,6 @@ class NewsArticle(AbstractDoc):
             newspaper_to_n[newspaper_cls.get_newspaper_id()] = len(
                 article_list
             )
-            log.debug(f"{newspaper_to_n=}")
-            JSONFile("newspaper_to_n.json").write(newspaper_to_n)
+            cls.__log_newspaper_to_n__(newspaper_to_n)
             for article in article_list:
                 yield cls.from_news_lk3_article(article)
