@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-26 16:24:57",
-  "n_docs": 77430,
+  "time_updated": "2025-09-26 16:47:09",
+  "n_docs": 77448,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 77430,
+  "n_docs_with_text": 77448,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-09-26",
-  "dataset_size": 1129360605,
+  "dataset_size": 1129502197,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -30,18 +30,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-26-lankadeepalk-49923b85",
-    "num": "lankadeepalk-49923b85",
+    "doc_id": "2025-09-26-tamilmirrorlk-ca1c3f33",
+    "num": "tamilmirrorlk-ca1c3f33",
     "date_str": "2025-09-26",
-    "description": "\u0dc0\u0dcf\u0dc4\u0db1 3\u0d9a\u0dca \u0d91\u0d9a\u0dd2\u0db1\u0dd9\u0d9a \u0d9c\u0dd0\u0da7\u0dd3 11\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dc4\u0db1-3\u0d9a-\u0d91\u0d9a\u0db1\u0d9a-\u0d9c\u0da7-11\u0d9a-\u0dbb\u0dc4\u0dbd\u0da7/1-680284",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1758884009.0
+    "description": "3 \u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bcb\u0ba4\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd 11 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/3-\u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bcb\u0ba4\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd-11-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-365336",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1758884887.0
   }
 }
