@@ -41,12 +41,6 @@ class CeylonTodayLk(AbstractNewsPaper):
         )
 
     @classmethod
-    def parse_author(cls, soup):
-        div = soup.find("div", {"class": "td-post-author-name"})
-        a = div.find("a")
-        return a.text
-
-    @classmethod
     def parse_title(cls, soup):
         h1 = soup.find("h1", {"class": "entry-title"})
         return h1.text

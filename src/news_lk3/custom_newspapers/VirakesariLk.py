@@ -30,6 +30,7 @@ class VirakesariLk(AbstractNewsPaper):
         div = soup.find("div", {"class", "auth-date"})
         assert div, "[parse_time_ut] div not found"
         h5 = div.find("h5", {"class", "news-date"})
+        assert h5, "[parse_time_ut] h5 not found"
         time_str = h5.text.replace("\n", " ").strip()
         return TimeFormat(TIME_RAW_FORMAT).parse(time_str).ut
 
@@ -38,20 +39,6 @@ class VirakesariLk(AbstractNewsPaper):
         title = soup.find("title")
         assert title, "[parse_title] title not found"
         return title.text.split("|")[0].strip()
-
-    @classmethod
-    def parse_author(cls, soup):
-        div = soup.find("div", {"class", "auth-date"})
-        assert div, "[parse_author] div not found"
-        p = div.find("p")
-        return (
-            p.text.lower()[:-19]
-            .replace("published", " ")
-            .replace("by", " ")
-            .replace("on", " ")
-            .strip()
-            .title()
-        )
 
     @classmethod
     def parse_body_lines(cls, soup):

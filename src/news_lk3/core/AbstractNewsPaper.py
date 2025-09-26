@@ -90,10 +90,6 @@ class AbstractNewsPaper(ABC):
         raise NotImplementedError
 
     @classmethod
-    def parse_author(cls, soup):
-        return "unknown"
-
-    @classmethod
     def parse_body_lines(cls, soup):
         raise NotImplementedError
 
@@ -124,7 +120,6 @@ class AbstractNewsPaper(ABC):
                 ),
             )
         )
-        cls.parse_author(soup).strip()
 
         time_ut = cls.parse_time_ut(soup)
 
