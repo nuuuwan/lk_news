@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-26 13:35:47",
-  "n_docs": 656,
+  "time_updated": "2025-09-26 13:43:37",
+  "n_docs": 679,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 656,
-  "date_str_min": "2023-05-16",
+  "n_docs_with_text": 679,
+  "date_str_min": "2022-07-12",
   "date_str_max": "2025-09-26",
-  "dataset_size": 29613824,
+  "dataset_size": 31833798,
   "url_source_list": [
     "https://dbsjeyaraj.com",
     "https://www.ada.lk",
@@ -22,6 +22,7 @@
     "http://island.lk",
     "http://sinhala.adaderana.lk",
     "https://www.bbc.com",
+    "https://english.newsfirst.lk",
     "https://www.virakesari.lk",
     "https://ceylontoday.lk",
     "https://www.colombotelegraph.com",
@@ -31,8 +32,8 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {

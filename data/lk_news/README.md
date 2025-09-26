@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_13:35:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_13:43:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**656** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**29.6 MB**), from **2023-05-16** to **2025-09-26**, scraped from [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://economynext.com](https://economynext.com), [https://www.divaina.lk](https://www.divaina.lk) & 12 more
+- [**679** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**31.8 MB**), from **2022-07-12** to **2025-09-26**, scraped from [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [https://economynext.com](https://economynext.com), [https://www.divaina.lk](https://www.divaina.lk) & 13 more
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
