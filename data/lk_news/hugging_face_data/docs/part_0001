@@ -1,6 +1,28 @@
 [
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-tamilmirrorlk-191adf25",
+    "num": "tamilmirrorlk-191adf25",
+    "date_str": "2025-09-26",
+    "description": "\u0bae\u0bc1\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0bbe\u0b95\u0ba9\u0bae\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf \u0bae\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0bae\u0bc1\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb5\u0bbe\u0b95\u0ba9\u0bae\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0bbe\u0bb0\u0ba4\u0bbf-\u0bae\u0bbe\u0baf\u0bae\u0bcd/72-365315",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1758869191.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-tamilmirrorlk-344c36b3",
+    "num": "tamilmirrorlk-344c36b3",
+    "date_str": "2025-09-26",
+    "description": "\u0ba4\u0bbf\u0bb2\u0bc0\u0baa\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bb2\u0bc8\u0ba8\u0b95\u0bb0\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b85\u0b9e\u0bcd\u0b9a\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbf\u0bb2\u0bc0\u0baa\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bb2\u0bc8\u0ba8\u0b95\u0bb0\u0bcd-\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b85\u0b9e\u0bcd\u0b9a\u0bb2\u0bbf/175-365314",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1758868933.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-tamilmirrorlk-3b035374",
     "num": "tamilmirrorlk-3b035374",
     "date_str": "2025-09-26",
@@ -20,6 +42,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1758868255.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-adaderanalk-7b04b9f5",
+    "num": "adaderanalk-7b04b9f5",
+    "date_str": "2025-09-26",
+    "description": "Over 700 suspects arrested in special island-wide police operations",
+    "url_metadata": "https://www.adaderana.lk/news/112936/over-700-suspects-arrested-in-special-island-wide-police-operations",
+    "lang": "en",
+    "newspaper_id": "adaderanalk",
+    "time_ut": 1758868140.0
   },
   {
     "doc_type": "lk_news",
@@ -45,6 +78,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-adaderanasinhalalk-8296899a",
+    "num": "adaderanasinhalalk-8296899a",
+    "date_str": "2025-09-26",
+    "description": "\u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0d9a\u0dd2\u0db1\u0dca 717\u0d9a\u0dca \u0dc3\u0dd0\u0d9a\u0db4\u0dd2\u0da7 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215029",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758867120.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-virakesarilk-f7572ea8",
     "num": "virakesarilk-f7572ea8",
     "date_str": "2025-09-26",
@@ -56,6 +100,61 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-adaderanasinhalalk-b259ddcf",
+    "num": "adaderanasinhalalk-b259ddcf",
+    "date_str": "2025-09-26",
+    "description": "\u0db1\u0dcf\u0db8\u0dbd\u0dca\u0d9c\u0dda \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dc2\u0dca \u0db1\u0da9\u0dd4\u0dc0\u0da7 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0d9c\u0dba\u0d9a\u0dca",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215028",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758866940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-adaderanalk-2894aefe",
+    "num": "adaderanalk-2894aefe",
+    "date_str": "2025-09-26",
+    "description": "2026 Appropriation Bill presented to Parliament",
+    "url_metadata": "https://www.adaderana.lk/news/112935/2026-appropriation-bill-presented-to-parliament",
+    "lang": "en",
+    "newspaper_id": "adaderanalk",
+    "time_ut": 1758866700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-adaderanasinhalalk-c630fb4e",
+    "num": "adaderanasinhalalk-c630fb4e",
+    "date_str": "2025-09-26",
+    "description": "'\u0db4\u0daf\u0dca\u0db8\u0dda' \u0dc3\u0d9f\u0dc0\u0dcf \u0dad\u0dd2\u0db6\u0dd6 \u0db4\u0dd2\u0dc3\u0dca\u0dad\u0ddd\u0dbd\u0dba\u0d9a\u0dca \u0db4\u0dd1\u0dbd\u0dd2\u0dba\u0d9c\u0ddc\u0da9\u0dd2\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215027",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758866460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-adaderanalk-2b0ef246",
+    "num": "adaderanalk-2b0ef246",
+    "date_str": "2025-09-26",
+    "description": "New vehicle number plates with advanced features to be issued by Nov 15 \u2013 Transport Minister",
+    "url_metadata": "https://www.adaderana.lk/news/112934/new-vehicle-number-plates-with-advanced-features-to-be-issued-by-nov-15-transport-minister-",
+    "lang": "en",
+    "newspaper_id": "adaderanalk",
+    "time_ut": 1758866040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-adaderanasinhalalk-84725b4b",
+    "num": "adaderanasinhalalk-84725b4b",
+    "date_str": "2025-09-26",
+    "description": "2026 \u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1 \u0db4\u0db1\u0dad\u0dca \u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0da7",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215025",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758865500.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-virakesarilk-4e7cf818",
     "num": "virakesarilk-4e7cf818",
     "date_str": "2025-09-26",
@@ -64,6 +163,61 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1758865020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-adaderanalk-0bf3600f",
+    "num": "adaderanalk-0bf3600f",
+    "date_str": "2025-09-26",
+    "description": "Co-ops take spotlight in India-Sri Lanka Dialogue in New Delhi",
+    "url_metadata": "https://www.adaderana.lk/news/112933/co-ops-take-spotlight-in-india-sri-lanka-dialogue-in-new-delhi",
+    "lang": "en",
+    "newspaper_id": "adaderanalk",
+    "time_ut": 1758864780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-adaderanasinhalalk-f4545b4d",
+    "num": "adaderanasinhalalk-f4545b4d",
+    "date_str": "2025-09-26",
+    "description": "\u0db1\u0dc0\u0dd3\u0db1 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc0\u0dda\u0daf \u0dc3\u0dc4\u0dd2\u0dad \u0dc0\u0dcf\u0dc4\u0db1 \u0d85\u0d82\u0d9a \u0dad\u0dc4\u0da9\u0dd4 \u0db1\u0ddc\u0dc0\u0dd0. 15 \u0dc3\u0dd2\u0da7",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215024",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758864660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-adaderanalk-4e82cee5",
+    "num": "adaderanalk-4e82cee5",
+    "date_str": "2025-09-26",
+    "description": "Pre-trial conference fixed for Namal Rajapaksa\u2019s \u2018Krrish\u2019 case",
+    "url_metadata": "https://www.adaderana.lk/news/112932/pre-trial-conference-fixed-for-namal-rajapaksas-krrish-case",
+    "lang": "en",
+    "newspaper_id": "adaderanalk",
+    "time_ut": 1758864420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-adaderanalk-b130f1a0",
+    "num": "adaderanalk-b130f1a0",
+    "date_str": "2025-09-26",
+    "description": "Advisory issued for strong winds and rough seas",
+    "url_metadata": "https://www.adaderana.lk/news/112931/advisory-issued-for-strong-winds-and-rough-seas",
+    "lang": "en",
+    "newspaper_id": "adaderanalk",
+    "time_ut": 1758864240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-adaderanalk-c2ac4e97",
+    "num": "adaderanalk-c2ac4e97",
+    "date_str": "2025-09-26",
+    "description": "Over 500 rounds of ammunition, firearm recovered after questioning \u2018Kehelbaddara Padme\u2019",
+    "url_metadata": "https://www.adaderana.lk/news/112930/over-500-rounds-of-ammunition-firearm-recovered-after-questioning-kehelbaddara-padme",
+    "lang": "en",
+    "newspaper_id": "adaderanalk",
+    "time_ut": 1758864000.0
   },
   {
     "doc_type": "lk_news",
@@ -108,6 +262,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1758861900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-adalk-2b04881d",
+    "num": "adalk-2b04881d",
+    "date_str": "2025-09-26",
+    "description": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb \u0d85\u0da7\u0d9a\u0dca \u0db1\u0da9\u0dad\u0dca\u0dad\u0dd4\u0dc0\u0da7 \u0d9a\u0ddd\u0da7\u0dd2 \u0d85\u0da7\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0db8\u0db1\u0dca\u0daf\u0dd2\u0dbb-\u0d85\u0da7\u0d9a\u0dca-\u0db1\u0da9\u0dad\u0dca\u0dad\u0dd4\u0dc0\u0da7-\u0d9a\u0ddd\u0da7\u0dd2-\u0d85\u0da7\u0d9a\u0dca/11-418733",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1758860869.0
   },
   {
     "doc_type": "lk_news",
@@ -595,6 +760,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-ceylontodaylk-0feb2698",
+    "num": "ceylontodaylk-0feb2698",
+    "date_str": "2025-09-26",
+    "description": "Unpaid compensation in X-Press Pearl case: SC Orders AG to Report on Possible Legal Action",
+    "url_metadata": "https://ceylontoday.lk/2025/09/26/unpaid-compensation-in-x-press-pearl-case-sc-orders-ag-to-report-on-possible-legal-action/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1758832680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-ceylontodaylk-9226c1b0",
+    "num": "ceylontodaylk-9226c1b0",
+    "date_str": "2025-09-26",
+    "description": "Rs 2,500M spent on expired reagents at NHSL: CIABOC informs MCPA of upcoming probe",
+    "url_metadata": "https://ceylontoday.lk/2025/09/26/rs-2500m-spent-on-expired-reagents-at-nhsl-ciaboc-informs-mcpa-of-upcoming-probe/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1758832380.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-adaderanasinhalalk-1e22b1f3",
     "num": "adaderanasinhalalk-1e22b1f3",
     "date_str": "2025-09-26",
@@ -625,6 +812,17 @@
     "lang": "en",
     "newspaper_id": "adaderanalk",
     "time_ut": 1758817860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-25-adaderanasinhalalk-7aa61d4e",
+    "num": "adaderanasinhalalk-7aa61d4e",
+    "date_str": "2025-09-25",
+    "description": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0db4\u0ddc\u0dad\u0dca \u0d85\u0dbd\u0dd4\u0dad\u0dca\u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0db6\u0dd2\u0d9c\u0dca \u0db6\u0dd1\u0dc2\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0dcf \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dba\u0db1 \u0d85\u0dc1\u0dca\u0dc0\u0dd2\u0db1\u0dca",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215014",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758817800.0
   },
   {
     "doc_type": "lk_news",
@@ -716,6 +914,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-25-adaderanasinhalalk-6f1fea4a",
+    "num": "adaderanasinhalalk-6f1fea4a",
+    "date_str": "2025-09-25",
+    "description": "\u0db4\u0dd2\u0daf\u0dd4\u0dbb\u0dd4\u0dad\u0dbd\u0dcf\u0d9c\u0dbd \u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dba\u0dda \u0d85\u0db1\u0dc0\u0dc3\u0dbb\u0dd9\u0db1\u0dca \u0d9a\u0db3\u0dc0\u0dd4\u0dbb\u0dd4 \u0db6\u0dd0\u0db3\u0dd2 26 \u0daf\u0dd9\u0db1\u0dcf \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba \u0dc4\u0db8\u0dd4\u0dc0\u0da7",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215013",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758816420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-25-adaderanasinhalalk-0cc3e945",
+    "num": "adaderanasinhalalk-0cc3e945",
+    "date_str": "2025-09-25",
+    "description": "AI \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0db4\u0dc5\u0dcf\u0dad\u0dca \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0daf\u0dd0\u0db1\u0dd4\u0dc0\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc4\u0dd9\u0da7",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215012",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758813960.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-25-adaderanalk-0934bae2",
     "num": "adaderanalk-0934bae2",
     "date_str": "2025-09-25",
@@ -735,6 +955,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1758811399.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-25-adaderanasinhalalk-589f8b6e",
+    "num": "adaderanasinhalalk-589f8b6e",
+    "date_str": "2025-09-25",
+    "description": "\u0db1\u0dcf \u0d8b\u0dba\u0db1 \u0d86\u0dbb\u0dab\u0dca\u200d\u0dba \u0dc3\u0dd9\u0db1\u0dc3\u0dd4\u0db1\u0dda \u0d85\u0db1\u0dad\u0dd4\u0dbb \u0d9c\u0dd0\u0db1 \u0dc0\u0dd2\u0db0\u0dd2\u0db8\u0dad\u0dca \u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0d9a\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1 - \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dba\u0ddd\u0d9c",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215011",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758811140.0
   },
   {
     "doc_type": "lk_news",
@@ -782,6 +1013,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-25-adaderanasinhalalk-3b8238ad",
+    "num": "adaderanasinhalalk-3b8238ad",
+    "date_str": "2025-09-25",
+    "description": "\u0d9a\u0dd8\u0dc2\u0dd2\u0d9a\u0dcf\u0dbb\u0dca\u0db8\u0dd2\u0d9a \u0dc4\u0dcf \u0d9c\u0ddc\u0dc0\u0dd2\u0da2\u0db1 \u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215010",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758808920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-25-adaderanasinhalalk-e9a41913",
+    "num": "adaderanasinhalalk-e9a41913",
+    "date_str": "2025-09-25",
+    "description": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0dbb\u0dd0\u0dc3\u0d9a\u0dca \u0da2\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0dba\u0da7\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215009",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758807000.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-25-virakesarilk-2a792a3a",
     "num": "virakesarilk-2a792a3a",
     "date_str": "2025-09-25",
@@ -815,6 +1068,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-25-adaderanasinhalalk-a61e3f6e",
+    "num": "adaderanasinhalalk-a61e3f6e",
+    "date_str": "2025-09-25",
+    "description": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d85\u0daf \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0dcf\u0dad\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dc4 \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215007",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758804420.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-25-economynextcom-d4992639",
     "num": "economynextcom-d4992639",
     "date_str": "2025-09-25",
@@ -834,6 +1098,17 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1758804048.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-25-adaderanasinhalalk-a4dbf6b7",
+    "num": "adaderanasinhalalk-a4dbf6b7",
+    "date_str": "2025-09-25",
+    "description": "2026 \u0daf\u0dd3 \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1 \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dba\u0dda \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0db4\u0dbb\u0dd2\u0dc0\u0dbb\u0dca\u0dad\u0db1\u0dba\u0d9a\u0da7 \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215006",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758803880.0
   },
   {
     "doc_type": "lk_news",
@@ -881,6 +1156,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-25-adaderanasinhalalk-711c80a8",
+    "num": "adaderanasinhalalk-711c80a8",
+    "date_str": "2025-09-25",
+    "description": "\u0db4\u0dca\u200d\u0dbb\u0d82\u0dc1\u0dba\u0dda \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0da7 \u0dc0\u0dc3\u0dbb \u0db4\u0dc4\u0d9a \u0dc3\u0dd2\u0dbb \u0daf\u0dac\u0dd4\u0dc0\u0db8\u0d9a\u0dca",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215005",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758802080.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-25-adalk-cf7da4f6",
     "num": "adalk-cf7da4f6",
     "date_str": "2025-09-25",
@@ -925,6 +1211,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-25-adaderanasinhalalk-a629b6f9",
+    "num": "adaderanasinhalalk-a629b6f9",
+    "date_str": "2025-09-25",
+    "description": "\u0dc3\u0dd9\u0dbd\u0dca\u0dc6\u0dd2\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0dc3\u0dcf \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0dc4\u0ddc\u0d82\u0d9a\u0ddc\u0d82\u0dc4\u0dd2\u0daf\u0dd3 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215004",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758800820.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-25-adalk-1b18c115",
     "num": "adalk-1b18c115",
     "date_str": "2025-09-25",
@@ -933,6 +1230,17 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1758800752.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-25-adaderanasinhalalk-f9e67a2e",
+    "num": "adaderanasinhalalk-f9e67a2e",
+    "date_str": "2025-09-25",
+    "description": "\u0dc0\u0dd0\u0da9\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0daf\u0dd3\u0db8\u0db1\u0dcf\u0dc0 \u0dc4\u0dd9\u0da7 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dbd\u0da7",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215003",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758800520.0
   },
   {
     "doc_type": "lk_news",
@@ -991,6 +1299,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-25-adaderanasinhalalk-420d360a",
+    "num": "adaderanasinhalalk-420d360a",
+    "date_str": "2025-09-25",
+    "description": "\u0d9a\u0dae\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0db7\u0d82\u0d9c\u0dba\u0d9a\u0dca \u0d9c\u0dd9\u0db1 \u0d91\u0db1\u0dca\u0db1 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215001",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758797700.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-25-adaderanalk-3252127f",
     "num": "adaderanalk-3252127f",
     "date_str": "2025-09-25",
@@ -999,6 +1318,17 @@
     "lang": "en",
     "newspaper_id": "adaderanalk",
     "time_ut": 1758796860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-25-adaderanasinhalalk-f2dc3e2d",
+    "num": "adaderanasinhalalk-f2dc3e2d",
+    "date_str": "2025-09-25",
+    "description": "\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0dad\u0dbb\u0d9c \u0db4\u0dcf\u0dc0\u0dcf\u0daf\u0dd3\u0db8 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0da0\u0dd2\u0dad\u0dca\u200d\u0dbb \u0dc3\u0dda\u0db1\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0da7 \u0d85\u0db0\u0dd2\u0da0\u0ddd\u0daf\u0db1\u0dcf \u0db7\u0dcf\u0dbb\u0daf\u0dd9\u0dba\u0dd2",
+    "url_metadata": "http://sinhala.adaderana.lk/news/215000",
+    "lang": "si",
+    "newspaper_id": "adaderanasinhalalk",
+    "time_ut": 1758796620.0
   },
   {
     "doc_type": "lk_news",
@@ -3290,6 +3620,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-12-ceylontodaylk-d1b93203",
+    "num": "ceylontodaylk-d1b93203",
+    "date_str": "2025-09-12",
+    "description": "Supplying T-56 ammo to \u2018Commando Salintha\u2019: Palinagar Army Camp CO Arrested",
+    "url_metadata": "https://ceylontoday.lk/2025/09/12/supplying-t-56-ammo-to-commando-salintha-palinagar-army-camp-co-arrested/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1757623080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-12-ceylontodaylk-456aa8cc",
+    "num": "ceylontodaylk-456aa8cc",
+    "date_str": "2025-09-12",
+    "description": "Deleting MV X-Press Pearl data: Two IT officials granted bail",
+    "url_metadata": "https://ceylontoday.lk/2025/09/12/deleting-mv-x-press-pearl-data-two-it-officials-granted-bail/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1757622780.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-11-adalk-f5b4f689",
     "num": "adalk-f5b4f689",
     "date_str": "2025-09-11",
@@ -3298,6 +3650,39 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1757577989.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-11-ceylontodaylk-119d3d31",
+    "num": "ceylontodaylk-119d3d31",
+    "date_str": "2025-09-11",
+    "description": "Court Orders Forensic Test on Child Porn Evidence",
+    "url_metadata": "https://ceylontoday.lk/2025/09/11/court-orders-forensic-test-on-child-porn-evidence/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1757536680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-11-ceylontodaylk-b2407ac4",
+    "num": "ceylontodaylk-b2407ac4",
+    "date_str": "2025-09-11",
+    "description": "Ex-Moratuwa Mayor remanded till 23 Sept",
+    "url_metadata": "https://ceylontoday.lk/2025/09/11/ex-moratuwa-mayor-remanded-till-23-sept/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1757536380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-11-ceylontodaylk-73f3f7c1",
+    "num": "ceylontodaylk-73f3f7c1",
+    "date_str": "2025-09-11",
+    "description": "Bus owner arrested for negligent maintenance",
+    "url_metadata": "https://ceylontoday.lk/2025/09/11/bus-owner-arrested-for-negligent-maintenance/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1757536380.0
   },
   {
     "doc_type": "lk_news",
@@ -3353,6 +3738,39 @@
     "lang": "en",
     "newspaper_id": "colombotelegraphcom",
     "time_ut": 1757332466.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-08-ceylontodaylk-4d678e66",
+    "num": "ceylontodaylk-4d678e66",
+    "date_str": "2025-09-08",
+    "description": "New \u2018ice\u2019 Chemical Stock Found in Tangalle",
+    "url_metadata": "https://ceylontoday.lk/2025/09/08/new-ice-chemical-stock-found-in-tangalle/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1757277480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-08-ceylontodaylk-2cd027a2",
+    "num": "ceylontodaylk-2cd027a2",
+    "date_str": "2025-09-08",
+    "description": "GSMB suspends mineral transport during school hours",
+    "url_metadata": "https://ceylontoday.lk/2025/09/08/gsmb-suspends-mineral-transport-during-school-hours/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1757277180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-08-ceylontodaylk-1fa7b6ef",
+    "num": "ceylontodaylk-1fa7b6ef",
+    "date_str": "2025-09-08",
+    "description": "Bus driver\u2019s blood sample sent to Government Analyst",
+    "url_metadata": "https://ceylontoday.lk/2025/09/08/bus-drivers-blood-sample-sent-to-government-analyst/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1757277180.0
   },
   {
     "doc_type": "lk_news",
@@ -4918,6 +5336,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2024-11-22-ceylontodaylk-abdf8f18",
+    "num": "ceylontodaylk-abdf8f18",
+    "date_str": "2024-11-22",
+    "description": "Bitcoin nears $100,000 as investors bet on crypto-friendly Trump policies",
+    "url_metadata": "https://ceylontoday.lk/2024/11/22/bitcoin-nears-100000-as-investors-bet-on-crypto-friendly-trump-policies/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1732254592.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2024-11-01-adalk-02549bca",
     "num": "adalk-02549bca",
     "date_str": "2024-11-01",
@@ -4984,6 +5413,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2024-06-25-ceylontodaylk-a5679885",
+    "num": "ceylontodaylk-a5679885",
+    "date_str": "2024-06-25",
+    "description": "Universal Merit Awards 2024 will be held at BMICH, Colombo: Mahinda Rajapaksa will be the chief guest, Bollywood director Dushyant will direct",
+    "url_metadata": "https://ceylontoday.lk/2024/06/25/universal-merit-awards-2024-will-be-held-at-bmich-colombo-mahinda-rajapaksa-will-be-the-chief-guest-bollywood-director-dushyant-will-direct/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1719294237.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2024-06-13-adalk-2d71022f",
     "num": "adalk-2d71022f",
     "date_str": "2024-06-13",
@@ -5006,6 +5446,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2024-05-29-ceylontodaylk-0dc498f6",
+    "num": "ceylontodaylk-0dc498f6",
+    "date_str": "2024-05-29",
+    "description": "Onmax DT directors ordered to submit depositor details to FCID",
+    "url_metadata": "https://ceylontoday.lk/2024/05/29/onmax-dt-directors-ordered-to-submit-depositor-details-to-fcid/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1716928380.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2024-05-27-adalk-b69646ed",
     "num": "adalk-b69646ed",
     "date_str": "2024-05-27",
@@ -5017,6 +5468,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2024-05-21-ceylontodaylk-85913e4d",
+    "num": "ceylontodaylk-85913e4d",
+    "date_str": "2024-05-21",
+    "description": "Celebration and Collaboration \u2013 Abans Partners Night 2024",
+    "url_metadata": "https://ceylontoday.lk/2024/05/21/celebration-and-collaboration-abans-partners-night-2024/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1716276247.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2024-05-19-adalk-8751b7b2",
     "num": "adalk-8751b7b2",
     "date_str": "2024-05-19",
@@ -5025,6 +5487,39 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1716137446.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2024-05-18-ceylontodaylk-748f1772",
+    "num": "ceylontodaylk-748f1772",
+    "date_str": "2024-05-18",
+    "description": "Strengthening bilateral ties",
+    "url_metadata": "https://ceylontoday.lk/2024/05/18/strengthening-bilateral-ties/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1716048572.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2024-05-17-ceylontodaylk-ec012524",
+    "num": "ceylontodaylk-ec012524",
+    "date_str": "2024-05-17",
+    "description": "Rathupaswala shooting: all accused army personnel acquitted",
+    "url_metadata": "https://ceylontoday.lk/2024/05/17/rathupaswala-shooting-all-accused-army-personnel-acquitted/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1715946161.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2024-05-15-ceylontodaylk-af5f5f89",
+    "num": "ceylontodaylk-af5f5f89",
+    "date_str": "2024-05-15",
+    "description": "Public Notice: NSB addresses misinterpretation amidst SLSB acquisition",
+    "url_metadata": "https://ceylontoday.lk/2024/05/15/national-savings-bank-addresses-misinterpretation-amidst-slsb-merger-rumours/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1715768818.0
   },
   {
     "doc_type": "lk_news",
@@ -5047,6 +5542,39 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1710315570.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2024-02-28-ceylontodaylk-59f1c62c",
+    "num": "ceylontodaylk-59f1c62c",
+    "date_str": "2024-02-28",
+    "description": "BIMA Services and Asiri Laboratories Join Hands to Enhance Healthcare Access for BIMA\u2019s Customers",
+    "url_metadata": "https://ceylontoday.lk/2024/02/28/bima-services-and-asiri-laboratories-join-hands-to-enhance-healthcare-access-for-bimas-customers/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1709076600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2024-01-18-ceylontodaylk-50489654",
+    "num": "ceylontodaylk-50489654",
+    "date_str": "2024-01-18",
+    "description": "Ceyline Holdings appoints new Dy. Chairman and Group Director",
+    "url_metadata": "https://ceylontoday.lk/2024/01/18/ceyline-holdings-appoints-new-dy-chairman-and-group-director/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1705557347.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2023-12-21-ceylontodaylk-50da50c8",
+    "num": "ceylontodaylk-50da50c8",
+    "date_str": "2023-12-21",
+    "description": "Elephant House Dominates at SLIM Brand Excellence 2023!",
+    "url_metadata": "https://ceylontoday.lk/2023/12/21/elephant-house-dominates-at-slim-brand-excellence-2023/",
+    "lang": "en",
+    "newspaper_id": "ceylontodaylk",
+    "time_ut": 1703150367.0
   },
   {
     "doc_type": "lk_news",
