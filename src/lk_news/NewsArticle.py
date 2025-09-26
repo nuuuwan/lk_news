@@ -57,6 +57,7 @@ class NewsArticle(AbstractDoc):
             newspaper_to_n[newspaper_cls.get_newspaper_id()] = len(
                 article_list
             )
+            log.debug(f"{newspaper_to_n=}")
             JSONFile("newspaper_to_n.json").write(newspaper_to_n)
             for article in article_list:
                 yield cls.from_news_lk3_article(article)
