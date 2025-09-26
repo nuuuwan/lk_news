@@ -50,3 +50,9 @@ class NewsArticle(AbstractDoc):
             article_list = newspaper_cls.scrape()
             for article in article_list:
                 yield cls.from_news_lk3_article(article)
+
+    @classmethod
+    def list_all(cls):
+        doc_list = AbstractDoc.list_all()
+        doc_list.sorted(key=lambda d: (-d.time_ut, d.doc_id))
+        return doc_list
