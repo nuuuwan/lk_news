@@ -14,7 +14,7 @@ class NewsFirstLk(AbstractNewsPaper):
     def get_index_urls(cls):
         index_urls = []
         for category in [
-            "latest-news",
+            "latest",
             "featured",
             "sports",
             "business",
