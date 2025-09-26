@@ -144,8 +144,10 @@ class AbstractNewsPaper(ABC):
             return None
 
     @classmethod
-    def gen_articles(cls) -> Generator[Article, None, None]:
+    def gen_articles(cls, url_metadata_set) -> Generator[Article, None, None]:
         for article_url in cls.gen_article_urls():
+            if article_url in url_metadata_set:
+                continue
             article = cls.parse_and_store_article(article_url)
             if article:
                 yield article

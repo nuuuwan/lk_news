@@ -39,9 +39,7 @@ class NewsArticle(AbstractDoc):
             log.error(f'Description too short: "{description}"')
             return None
 
-        num = (
-            article.newspaper_id + "-" + Hash.md5(article.original_title)[:8]
-        )
+        num = article.newspaper_id + "-" + Hash.md5(article.original_title)[:8]
 
         time_ut = article.time_ut
         dt = Time.now().ut - time_ut
@@ -66,10 +64,11 @@ class NewsArticle(AbstractDoc):
 
     @classmethod
     def gen_docs(cls) -> Generator["NewsArticle", None, None]:
+        url_metadata_set = cls.get_url_metadata_set()
         newspaper_cls_list = NewspaperFactory.list_all()
         random.shuffle(newspaper_cls_list)
         for newspaper_cls in newspaper_cls_list:
-            for article in newspaper_cls.gen_articles():
+            for article in newspaper_cls.gen_articles(url_metadata_set):
                 doc = cls.from_news_lk3_article(article)
                 if doc is not None:
                     yield doc
