@@ -3,7 +3,7 @@ from dataclasses import dataclass
 from functools import cached_property
 from typing import Generator
 
-from utils import File, Hash, JSONFile, Log, Time, TimeFormat
+from utils import File, Hash, Log, Time, TimeFormat
 
 from lk_news.NewspaperFactory import NewspaperFactory
 from scraper import AbstractDoc
