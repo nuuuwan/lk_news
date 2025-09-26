@@ -1,3 +1,4 @@
+import os
 import random
 from dataclasses import dataclass
 from functools import cached_property
@@ -21,15 +22,22 @@ class NewsArticle(AbstractDoc):
         return (self.time_ut, self.doc_id)
 
     def write_text_from_article(self, article):
-        if not self.has_text:
-            assert len(article.original_title) >= 10
+        assert len(article.original_title) >= 10
+        text_content = "\n\n".join(
+            [article.original_title] + article.original_body_lines
+        )
+        assert len(text_content) > 30, text_content
 
-            text_content = "\n\n".join(
-                [article.original_title] + article.original_body_lines
-            )
-            assert len(text_content) > 30, text_content
+        if not self.has_text:
             File(self.text_path).write(text_content)
             log.debug(f"Wrote {self.text_path}")
+
+        if not os.path.exists(self.doc_readme_path):
+            lines = text_content.split("\n")
+            if len(lines) > 0:
+                lines = ["# " + lines[0]] + lines[1:]
+                File(self.doc_readme_path).write_lines(lines)
+                log.debug(f"Wrote {self.doc_readme_path}")
 
     @classmethod
     def from_news_lk3_article(cls, article):
