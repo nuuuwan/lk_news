@@ -145,15 +145,9 @@ class AbstractNewsPaper(ABC):
     @classmethod
     def parse_and_store_article(cls, article_url):
         log.debug(f"[parse_and_store_article] {article_url}...")
-        article_file = Article.get_article_file_name(article_url)
-        if os.path.exists(article_file):
-            log.info(f"{article_file} already exists. Not parsing.")
-            return None
 
         try:
             article = cls.parse_article(article_url)
-            article.store()
-
             return article
 
         except Exception as e:
