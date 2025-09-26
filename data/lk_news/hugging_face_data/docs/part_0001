@@ -56,6 +56,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-newsfirstlk-b55505ce",
+    "num": "newsfirstlk-b55505ce",
+    "date_str": "2025-09-26",
+    "description": "Sri Lanka Signals Strong Economic Comeback: Treasury Secretary",
+    "url_metadata": "https://www.newsfirst.lk/2025/09/26/sri-lanka-signals-strong-economic-comeback-treasury-secretary",
+    "lang": "en",
+    "newspaper_id": "newsfirstlk",
+    "time_ut": 1758869400.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-tamilmirrorlk-191adf25",
     "num": "tamilmirrorlk-191adf25",
     "date_str": "2025-09-26",
@@ -78,6 +89,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-newsfirstlk-9488123a",
+    "num": "newsfirstlk-9488123a",
+    "date_str": "2025-09-26",
+    "description": "Electric Wiring Stolen from Colombo DIG Office Auditorium",
+    "url_metadata": "https://www.newsfirst.lk/2025/09/26/electric-wiring-stolen-from-colombo-dig-office-auditorium",
+    "lang": "en",
+    "newspaper_id": "newsfirstlk",
+    "time_ut": 1758868680.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-tamilmirrorlk-3b035374",
     "num": "tamilmirrorlk-3b035374",
     "date_str": "2025-09-26",
@@ -86,6 +108,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1758868590.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-newsfirstlk-27393756",
+    "num": "newsfirstlk-27393756",
+    "date_str": "2025-09-26",
+    "description": "High Court Calls For Original Case Files Against Namal",
+    "url_metadata": "https://www.newsfirst.lk/2025/09/26/high-court-calls-for-original-case-files-against-namal",
+    "lang": "en",
+    "newspaper_id": "newsfirstlk",
+    "time_ut": 1758868500.0
   },
   {
     "doc_type": "lk_news",
@@ -254,8 +287,6 @@
   },
   {
     "doc_type": "lk_news",
-<<<<<<< HEAD
-=======
     "doc_id": "2025-09-26-dailynewslk-7f4ddf78",
     "num": "dailynewslk-7f4ddf78",
     "date_str": "2025-09-26",
@@ -267,7 +298,6 @@
   },
   {
     "doc_type": "lk_news",
->>>>>>> 1c80f0a (local)
     "doc_id": "2025-09-26-dailymirrorlk-7567f519",
     "num": "dailymirrorlk-7567f519",
     "date_str": "2025-09-26",
@@ -433,8 +463,6 @@
   },
   {
     "doc_type": "lk_news",
-<<<<<<< HEAD
-=======
     "doc_id": "2025-09-26-dailynewslk-a907685e",
     "num": "dailynewslk-a907685e",
     "date_str": "2025-09-26",
@@ -446,7 +474,6 @@
   },
   {
     "doc_type": "lk_news",
->>>>>>> 1c80f0a (local)
     "doc_id": "2025-09-26-dailymirrorlk-6bdbed54",
     "num": "dailymirrorlk-6bdbed54",
     "date_str": "2025-09-26",
@@ -524,6 +551,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-newsfirstlk-07776f9a",
+    "num": "newsfirstlk-07776f9a",
+    "date_str": "2025-09-26",
+    "description": "ASEAN-Led RCEP May Welcome Sri Lanka, Hong Kong, Chile, and Bangladesh",
+    "url_metadata": "https://www.newsfirst.lk/2025/09/26/asean-led-rcep-may-welcome-sri-lanka-hong-kong-chile-and-bangladesh",
+    "lang": "en",
+    "newspaper_id": "newsfirstlk",
+    "time_ut": 1758860220.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-adaderanasinhalalk-d6ccff4b",
     "num": "adaderanasinhalalk-d6ccff4b",
     "date_str": "2025-09-26",
@@ -590,6 +628,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-newsfirstlk-358b05d6",
+    "num": "newsfirstlk-358b05d6",
+    "date_str": "2025-09-26",
+    "description": "Sri Lanka Pledges Stronger Ties with Cuba",
+    "url_metadata": "https://www.newsfirst.lk/2025/09/26/sri-lanka-pledges-stronger-ties-with-cuba",
+    "lang": "en",
+    "newspaper_id": "newsfirstlk",
+    "time_ut": 1758858840.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-virakesarilk-5b894edb",
     "num": "virakesarilk-5b894edb",
     "date_str": "2025-09-26",
@@ -631,6 +680,17 @@
     "lang": "en",
     "newspaper_id": "dailynewslk",
     "time_ut": 1758858420
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-newsfirstlk-a558d688",
+    "num": "newsfirstlk-a558d688",
+    "date_str": "2025-09-26",
+    "description": "Vijitha Herath and WTO Chief Discuss Trade Reform",
+    "url_metadata": "https://www.newsfirst.lk/2025/09/26/vijitha-herath-and-wto-chief-discuss-trade-reform",
+    "lang": "en",
+    "newspaper_id": "newsfirstlk",
+    "time_ut": 1758858360.0
   },
   {
     "doc_type": "lk_news",
@@ -678,6 +738,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-newsfirstlk-f4e89558",
+    "num": "newsfirstlk-f4e89558",
+    "date_str": "2025-09-26",
+    "description": "Police Seize Over Half a Kilo of Heroin, 1kg of Ice From Ragama",
+    "url_metadata": "https://www.newsfirst.lk/2025/09/26/police-seize-over-half-a-kilo-of-heroin-1kg-of-ice-from-ragama",
+    "lang": "en",
+    "newspaper_id": "newsfirstlk",
+    "time_ut": 1758857280.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-adaderanalk-e142416c",
     "num": "adaderanalk-e142416c",
     "date_str": "2025-09-26",
@@ -711,6 +782,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-09-26-newsfirstlk-d874bf35",
+    "num": "newsfirstlk-d874bf35",
+    "date_str": "2025-09-26",
+    "description": "100% Tariff On Imported Pharma On October 1: Trump",
+    "url_metadata": "https://www.newsfirst.lk/2025/09/26/100-tariff-on-imported-pharma-on-october-1-trump",
+    "lang": "en",
+    "newspaper_id": "newsfirstlk",
+    "time_ut": 1758856380.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-09-26-adaderanasinhalalk-01d09b1e",
     "num": "adaderanasinhalalk-01d09b1e",
     "date_str": "2025-09-26",
@@ -741,6 +823,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1758855413.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-09-26-newsfirstlk-127e2e0e",
+    "num": "newsfirstlk-127e2e0e",
+    "date_str": "2025-09-26",
+    "description": "COPE Alleges Energy Crisis Was Engineered to Justify Price Hikes",
+    "url_metadata": "https://www.newsfirst.lk/2025/09/26/cope-alleges-energy-crisis-was-engineered-to-justify-price-hikes",
+    "lang": "en",
+    "newspaper_id": "newsfirstlk",
+    "time_ut": 1758855300.0
   },
   {
     "doc_type": "lk_news",

@@ -2,23 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-<<<<<<< HEAD
-  "time_updated": "2025-09-26 13:03:31",
-  "n_docs": 584,
+  "time_updated": "2025-09-26 13:35:47",
+  "n_docs": 656,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 584,
+  "n_docs_with_text": 656,
   "date_str_min": "2023-05-16",
   "date_str_max": "2025-09-26",
-  "dataset_size": 16487314,
-=======
-  "time_updated": "2025-09-26 13:23:58",
-  "n_docs": 647,
-  "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 647,
-  "date_str_min": "2023-05-16",
-  "date_str_max": "2025-09-26",
-  "dataset_size": 23141855,
->>>>>>> 1c80f0a (local)
+  "dataset_size": 29613824,
   "url_source_list": [
     "https://dbsjeyaraj.com",
     "https://www.ada.lk",
@@ -35,20 +25,15 @@
     "https://www.virakesari.lk",
     "https://ceylontoday.lk",
     "https://www.colombotelegraph.com",
+    "https://www.newsfirst.lk",
     "https://www.dailymirror.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-<<<<<<< HEAD
-    "en",
-    "ta",
-    "si"
-=======
-    "ta",
     "si",
+    "ta",
     "en"
->>>>>>> 1c80f0a (local)
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
