@@ -21,11 +21,11 @@ class NewsArticle(AbstractDoc):
         return (self.time_ut, self.doc_id)
 
     def write_text_from_article(self, article):
-        assert len(article.original_title) >= 10
+        assert len(article.original_title) >= 5, article.original_title
         text_content = "\n\n".join(
             [article.original_title] + article.original_body_lines
         )
-        assert len(text_content) > 10, text_content
+        assert len(text_content) >= 5, text_content
 
         if not self.has_text:
             File(self.text_path).write(text_content)
@@ -35,11 +35,11 @@ class NewsArticle(AbstractDoc):
     def from_news_lk3_article(cls, article):
 
         description = article.original_title
-        assert len(description) >= 10, description
+        if len(description) < 5:
+            log.error(f'Description too short: "{description}"')
+            return None
 
-        num = (
-            article.newspaper_id + "-" + Hash.md5(article.original_title)[:8]
-        )
+        num = article.newspaper_id + "-" + Hash.md5(article.original_title)[:8]
 
         time_ut = article.time_ut
         dt = Time.now().ut - time_ut
@@ -68,4 +68,6 @@ class NewsArticle(AbstractDoc):
         random.shuffle(newspaper_cls_list)
         for newspaper_cls in newspaper_cls_list:
             for article in newspaper_cls.gen_articles():
-                yield cls.from_news_lk3_article(article)
+                doc = cls.from_news_lk3_article(article)
+                if doc is not None:
+                    yield doc
