@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_20:21:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_20:40:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,523** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-26**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,525** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-26**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -55,10 +55,10 @@ A collection of lk_news documents.
 - 2025-09-26 | `lankadeepalk-7f3bfbc9` | නා උයන ආරණ්‍යයේ හිමිවරුන්ට වජිර අවසන් ගෞරව දක්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-7f3bfbc9)
 - 2025-09-26 | `lankadeepalk-122f2950` | නා උයනනේ අනතුර ගැන කතෝලික සම්මේලනයෙන් ශෝක පණිවුඩයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-122f2950)
 - 2025-09-26 | `lankadeepalk-b343d8c2` | ’’ආණ්ඩුවේ ප්‍රතිපත්ති’’ ක්‍රියාත්මක කිරීම ගැන සතුටුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-b343d8c2)
+- 2025-09-26 | `virakesarilk-8f09c243` | அறுகம்பேயில் உள்ள இஸ்ரேலின் சபாத் இல்லத்தினால் மக்கள் பீதியடைந்தால் சட்ட நடவடிக்கை எடுக்குமாறு நீதிமன்றம் பொலிஸாருக்கு ஆலோசனை - அமைச்சர் சுனில் செனவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-8f09c243)
 - 2025-09-26 | `virakesarilk-bbd747ae` | வவுனியா வடக்கில் தமிழர்களின் பூர்வீக காணிகள், குளங்களை விழுங்கப்போகும் கிவுல் ஓயா திட்டத்தை உடன் நிறுத்துங்கள் -  ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-bbd747ae)
 - 2025-09-26 | `virakesarilk-02882d52` | சாதனை படைக்கும் ரஜினி கிஷன் நடிக்கும் 'ரஜினி கேங்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-02882d52)
 - 2025-09-26 | `virakesarilk-5ece12c7` | நடிகை யாஷிகா ஆனந்த் நடிக்கும் 'டாஸ்' படத்தின் படப்பிடிப்பு தொடக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-virakesarilk-5ece12c7)
-- 2025-09-26 | `lankadeepalk-63b3da7c` | ලංගම ඩිපෝවල ලොක්කෝ පොඩ්ඩෝ  උදේ ඉදන් සූර් වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-lankadeepalk-63b3da7c)
 
 ---
 
