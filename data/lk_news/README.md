@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_19:04:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_19:19:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,669** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,670** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -49,6 +49,7 @@ A collection of lk_news documents.
 - 2025-09-27 | `virakesarilk-7be86ba6` | 'இசைப்புயல் 'ஏ .ஆர். ரஹ்மான் வெளியிட்ட 'வட்டக்கானல்' படத்தின் முதல் பாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-7be86ba6)
 - 2025-09-27 | `lankadeepalk-1dec40a4` | නාරාහේන්පිට දුම්රිය පොළ අලුත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-lankadeepalk-1dec40a4)
 - 2025-09-27 | `virakesarilk-fe4ed9e1` | மூன்றாவது நாளாகவும் தொடரும் சுழற்சி முறையிலான உண்ணாவிரத போராட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-fe4ed9e1)
+- 2025-09-27 | `virakesarilk-c7d26738` | பருத்தித்துறை நகர சபையின் அலட்சிய போக்கால் தடம் புரண்ட தண்ணீர் வண்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-c7d26738)
 - 2025-09-27 | `virakesarilk-3b799823` | மன்னார் காற்றாலை திட்டத்திற்கு எதிர்ப்பு தெரிவித்து வவுனியாவில் ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-3b799823)
 - 2025-09-27 | `lankadeepalk-460c6b48` | ’’සුදු අලි’’ හොයන්න ආයතන 450කින් වාර්තා කැඳවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-lankadeepalk-460c6b48)
 - 2025-09-27 | `virakesarilk-bfe53f99` | மன்னாரில் மக்களை கொடூரமாக தாக்கிய பொலிஸார் ; வைத்தியசாலையில் உள்ளவர்களை கைது செய்ய நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-bfe53f99)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-09-27 | `virakesarilk-df9e7a24` | பாடசாலை மாணவர்களுக்கு மதுபான போத்தல்களை விற்பனை செய்தவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-df9e7a24)
 - 2025-09-27 | `tamilmirrorlk-585bf913` | பட்ஜெட்டை இந்த பேனாவுலதான் எழுதுவேன்... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-585bf913)
 - 2025-09-27 | `virakesarilk-04ca678b` | நாரஹேன்பிட்டி புகையிரத நிலையத்தை நவீனமயப்படுத்தும் திட்டம் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-04ca678b)
-- 2025-09-27 | `tamilmirrorlk-8fde24be` | பலரது மோட்டார் சைக்கிள்கள் பறிமுதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-8fde24be)
 
 ---
 
