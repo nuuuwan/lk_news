@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-27 11:40:44",
-  "n_docs": 77611,
+  "time_updated": "2025-09-27 12:05:58",
+  "n_docs": 77615,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 77611,
+  "n_docs_with_text": 77615,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-09-27",
-  "dataset_size": 1133069989,
+  "dataset_size": 1133109615,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -29,19 +29,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-27-lankadeepalk-bf7e374b",
-    "num": "lankadeepalk-bf7e374b",
+    "doc_id": "2025-09-27-economynextcom-aa1e2b32",
+    "num": "economynextcom-aa1e2b32",
     "date_str": "2025-09-27",
-    "description": "\u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dbd\u0dd0\u0db6\u0dd6 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db8\u0da7\u0dbb-\u0dbb\u0dae-\u0d85\u0db1\u0dad\u0dbb\u0db1-\u0dad\u0dc0\u0dbd-\u0dbd\u0db6-\u0dc0\u0daf\u0dba\u0dc0\u0dbb\u0dba\u0d9a-\u0dbb\u0dc4\u0dbd\u0da7/1-680305",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1758953149.0
+    "description": "Sri Lanka business delegation to visit Japan",
+    "url_metadata": "https://economynext.com/sri-lanka-business-delegation-to-visit-japan-242005/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1758954600.0
   }
 }
