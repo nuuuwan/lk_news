@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-27 06:39:00",
-  "n_docs": 77580,
+  "time_updated": "2025-09-27 07:31:02",
+  "n_docs": 77587,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 77580,
+  "n_docs_with_text": 77587,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-09-27",
-  "dataset_size": 1132291911,
+  "dataset_size": 1132353060,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -30,18 +30,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-27-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2025-09-27-economynextcom-9f35440b",
+    "num": "economynextcom-9f35440b",
     "date_str": "2025-09-27",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/226210",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1758934500.0
+    "description": "EU gives Sri Lanka 8mn for biodiversity conservation and solid waste management",
+    "url_metadata": "https://economynext.com/eu-gives-sri-lanka-8mn-for-biodiversity-conservation-and-solid-waste-management-242013/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1758936600.0
   }
 }

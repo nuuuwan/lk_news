@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_06:39:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_07:31:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,580** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,587** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-27-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2025-09-27-economynextcom-9f35440b",
+    "num": "economynextcom-9f35440b",
     "date_str": "2025-09-27",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/226210",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1758934500.0
+    "description": "EU gives Sri Lanka 8mn for biodiversity conservation and solid waste management",
+    "url_metadata": "https://economynext.com/eu-gives-sri-lanka-8mn-for-biodiversity-conservation-and-solid-waste-management-242013/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1758936600.0
 }
 ```
 
@@ -39,13 +39,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-27 | `economynextcom-9f35440b` | EU gives Sri Lanka 8mn for biodiversity conservation and solid waste management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-economynextcom-9f35440b)
+- 2025-09-27 | `tamilmirrorlk-efb27554` | மன்னார் போராட்டத்தில் நள்ளிரவில் பதற்றம்: பலர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-efb27554)
 - 2025-09-27 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-3a015e4a)
 - 2025-09-27 | `virakesarilk-90aa5e81` | பொலிஸ் பாதுகாப்புடன் காற்றாலை மின் கோபுரம் அமைப்பதற்கான பொருட்கள் மன்னாரை நோக்கி : மக்கள்,  அருட்தந்தையர்கள் மீது பொலிஸார் தாக்குதல் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-90aa5e81)
+- 2025-09-27 | `tamilmirrorlk-51948165` | ஐ.நாவில் நெதன்யாகுவுக்கு எதிர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-51948165)
 - 2025-09-27 | `tamilmirrorlk-1dd06ab6` | ’பாலஸ்தீனத்துக்கு தனி நாடு அங்கீகாரம் கூடாது’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-1dd06ab6)
 - 2025-09-27 | `tamilmirrorlk-700d79fa` | பிரசவத்தின் போது இரட்டை சிசுக்களும் தாயும் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-700d79fa)
 - 2025-09-27 | `virakesarilk-dc6dd409` | இராணுவத்தின் 76வது ஆண்டு நிறைவை முன்னிட்டு சிறப்பு மத நிகழ்ச்சித் தொடர் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-dc6dd409)
 - 2025-09-27 | `virakesarilk-6cf77698` | உள்நாட்டு விமான பயணங்களின் பாதுகாப்பை உறுதிப்படுத்த  பல நடவடிக்கைகள் தேவை - சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-6cf77698)
 - 2025-09-27 | `virakesarilk-57f884df` | அக்கரப்பத்தனை பிரதேச வைத்தியசாலையில் குழப்பகரமான சூழ்நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-57f884df)
+- 2025-09-27 | `economynextcom-92c4c2a1` | Cultivating circular futures: Youth as agents of change | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-economynextcom-92c4c2a1)
 - 2025-09-27 | `dailyftlk-3ca3a9b9` | Foreign Ministry coordinates repatriation of foreign monks killed in Na Uyana cable car tragedy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-dailyftlk-3ca3a9b9)
 - 2025-09-27 | `dailyftlk-c3d2cc1d` | Senior Pakistan Navy delegation visits Sri Lanka for Galle Dialogue-2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-dailyftlk-c3d2cc1d)
 - 2025-09-27 | `virakesarilk-0b0ecebb` | ஆசிய கிண்ண கடைசி சுப்பர் 4இல் சுப்பர் ஓவரில் இந்தியா வெற்றி; மூவகை கிரிக்கெட்டிலும் சதம் குவித்த 4ஆவது இலங்கையரானார் நிஸ்ஸன்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-0b0ecebb)
@@ -55,10 +59,6 @@ A collection of lk_news documents.
 - 2025-09-27 | `dailyftlk-5762d806` | Serendib Flour Mills showcases innovation and engagement at Profood Propack & AgBiz 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-dailyftlk-5762d806)
 - 2025-09-27 | `dailyftlk-2c254c01` | Yaden Laboratories shines at Tecnosalud 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-dailyftlk-2c254c01)
 - 2025-09-27 | `virakesarilk-a62809b0` | பொது எதிர்பார்ப்புக்களை கொண்ட பிரஜைகளை பிரிக்கவே முடியாது - சீனத்தூதுவர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-a62809b0)
-- 2025-09-27 | `virakesarilk-13f8837a` | கிரிக்கெட்டில் மாத்திரம் கவனம் செலுத்தி வில்லங்கம் இல்லாமல் விளையாடுவோம்  - ஹாமன்ப்ரீத், சானா தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-13f8837a)
-- 2025-09-27 | `virakesarilk-45f8110a` | அரை இறுதிக்கு இலங்கை செல்ல வேண்டும் என்பதே எனது குறிக்கோள் - சமரி அத்தபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-45f8110a)
-- 2025-09-27 | `dailyftlk-76c83c46` | Politics of Tamil-Muslim relations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-dailyftlk-76c83c46)
-- 2025-09-26 | `dailyftlk-9d5a6eaa` | Selective republicanism of socialist regime rules | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-26-dailyftlk-9d5a6eaa)
 
 ---
 
