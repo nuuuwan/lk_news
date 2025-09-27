@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_09:21:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_09:39:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,593** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,594** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A collection of lk_news documents.
 - 2025-09-27 | `tamilmirrorlk-efb27554` | மன்னார் போராட்டத்தில் நள்ளிரவில் பதற்றம்: பலர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-efb27554)
 - 2025-09-27 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-3a015e4a)
 - 2025-09-27 | `virakesarilk-90aa5e81` | பொலிஸ் பாதுகாப்புடன் காற்றாலை மின் கோபுரம் அமைப்பதற்கான பொருட்கள் மன்னாரை நோக்கி : மக்கள்,  அருட்தந்தையர்கள் மீது பொலிஸார் தாக்குதல் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-90aa5e81)
+- 2025-09-27 | `bbccomsinhala-35005338` | ආසිරි රෝහලේ අධ්‍යක්ෂවරු අධිකරණයට ඉදිරිපත් වීමෙන් පසුව ඇප මත මුදා හැරීමට නියෝග | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-bbccomsinhala-35005338)
 - 2025-09-27 | `tamilmirrorlk-51948165` | ஐ.நாவில் நெதன்யாகுவுக்கு எதிர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-51948165)
 - 2025-09-27 | `tamilmirrorlk-1dd06ab6` | ’பாலஸ்தீனத்துக்கு தனி நாடு அங்கீகாரம் கூடாது’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-1dd06ab6)
 - 2025-09-27 | `tamilmirrorlk-700d79fa` | பிரசவத்தின் போது இரட்டை சிசுக்களும் தாயும் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-700d79fa)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-09-27 | `dailyftlk-87213999` | Global Dialogue Forum conclave showcases AI’s role in powering green energy, food security and cybersecurity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-dailyftlk-87213999)
 - 2025-09-27 | `dailyftlk-4524ddeb` | Sustainable champions in industry receive Ecolabel Sri Lanka recognition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-dailyftlk-4524ddeb)
 - 2025-09-27 | `dailyftlk-5f50f728` | Sanasa Life Insurance supports Colombo International Book Fair as official insurance partner | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-dailyftlk-5f50f728)
-- 2025-09-27 | `dailyftlk-5762d806` | Serendib Flour Mills showcases innovation and engagement at Profood Propack & AgBiz 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-dailyftlk-5762d806)
 
 ---
 
