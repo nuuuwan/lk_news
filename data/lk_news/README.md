@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_14:39:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_15:01:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,633** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,634** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -49,6 +49,7 @@ A collection of lk_news documents.
 - 2025-09-27 | `lankadeepalk-63669553` | ප්‍රභූ - නිර්ප්‍රභූ මාලිමාවේ වත්කම් - බැරකම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-lankadeepalk-63669553)
 - 2025-09-27 | `tamilmirrorlk-a74ee77b` | பெண் கொடூர கொலை : ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-a74ee77b)
 - 2025-09-27 | `virakesarilk-0964837c` | அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் - ஜனாதிபதி அநுரகுமார இடையில் சந்திப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-0964837c)
+- 2025-09-27 | `virakesarilk-b1e3e0cd` | வத்தளையில் ஐஸ் போதைப்பொருளுடன் கைதுசெய்யப்பட்டவர் பல்வேறு குற்றச்செயல்களுடன் தொடர்புடையவர் என அடையாளம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-b1e3e0cd)
 - 2025-09-27 | `tamilmirrorlk-5235f3dd` | பிரான்ஸ் ஜனாதிபதியை சந்தித்தார் அநுர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-5235f3dd)
 - 2025-09-27 | `economynextcom-aa1e2b32` | Sri Lanka business delegation to visit Japan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-economynextcom-aa1e2b32)
 - 2025-09-27 | `lankadeepalk-b10721a5` | විපක්ෂය හොඳ කෑම  ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-lankadeepalk-b10721a5)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-09-27 | `lankadeepalk-bf7e374b` | මෝටර් රථ අනතුරින් තුවාල ලැබූ වෛද්‍යවරයෙක් රෝහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-lankadeepalk-bf7e374b)
 - 2025-09-27 | `lankadeepalk-14ee5a98` | ප්‍රංශය ඇමරිකාවේ පැවැත් වූ උත්සවයකට ජනපතිත් යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-lankadeepalk-14ee5a98)
 - 2025-09-27 | `virakesarilk-49677281` | 9 மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-49677281)
-- 2025-09-27 | `virakesarilk-a444f972` | சம்மாந்துறை பொலிஸாரின் அதிரடி நடவடிக்கை ; பலர் கைது, 20 மோட்டார் சைக்கிள்கள் கைப்பற்றல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-a444f972)
 
 ---
 
