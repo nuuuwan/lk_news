@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_18:29:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--27_18:43:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,666** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,668** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -53,12 +53,12 @@ A collection of lk_news documents.
 - 2025-09-27 | `virakesarilk-bfe53f99` | மன்னாரில் மக்களை கொடூரமாக தாக்கிய பொலிஸார் ; வைத்தியசாலையில் உள்ளவர்களை கைது செய்ய நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-bfe53f99)
 - 2025-09-27 | `lankadeepalk-9ac98706` | හොඳ ව්‍යවසායකයන් බිහිකරන ’’පිරිපුන්’’ වැඩක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-lankadeepalk-9ac98706)
 - 2025-09-27 | `tamilmirrorlk-58fd2122` | கேபிள் கார் விபத்தில் உயிரிழந்த பிக்குகளுக்கு சஜித் இறுதி அஞ்சலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-58fd2122)
+- 2025-09-27 | `virakesarilk-e2b3fe49` | இவ்வாண்டின் இதுவரையான காலப்பகுதிக்குள் 1,916 வீதி விபத்துக்கள் பதிவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-e2b3fe49)
 - 2025-09-27 | `virakesarilk-df9e7a24` | பாடசாலை மாணவர்களுக்கு மதுபான போத்தல்களை விற்பனை செய்தவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-df9e7a24)
 - 2025-09-27 | `tamilmirrorlk-585bf913` | பட்ஜெட்டை இந்த பேனாவுலதான் எழுதுவேன்... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-585bf913)
 - 2025-09-27 | `virakesarilk-04ca678b` | நாரஹேன்பிட்டி புகையிரத நிலையத்தை நவீனமயப்படுத்தும் திட்டம் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-04ca678b)
 - 2025-09-27 | `tamilmirrorlk-8fde24be` | பலரது மோட்டார் சைக்கிள்கள் பறிமுதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-8fde24be)
 - 2025-09-27 | `lankadeepalk-92fae32e` | සෞඛ්‍ය අභියෝග කොහොම හරි දිනනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-lankadeepalk-92fae32e)
-- 2025-09-27 | `lankadeepalk-fefead82` | මබ්බෲක්ට  පාර්ලිමේන්තුවේ ලොකු පුටුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-lankadeepalk-fefead82)
 
 ---
 
