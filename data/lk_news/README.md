@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_03:19:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_03:39:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,694** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,695** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-27**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -40,6 +40,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2025-09-27 | `tamilmirrorlk-9c5cc5d6` | கரூர் விவகாரம்: 40 பேர் மரணம்: 50 பேருக்கு காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-9c5cc5d6)
+- 2025-09-27 | `colombotelegraphcom-9f2d2d05` | The Importance Of Education In Emergencies For Eliminating The Dependency Mindset | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-colombotelegraphcom-9f2d2d05)
 - 2025-09-27 | `virakesarilk-8db6c89a` | கரூரில் பெருந்துயரம்: விஜய் பிரசார கூட்ட நெரிசலில் சிக்கி 31 பேர் பரிதாப பலி ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-8db6c89a)
 - 2025-09-27 | `tamilmirrorlk-3edc98eb` | கரூர் செய்தி கவலையளிக்கிறது: தமிழக முதல்வர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-3edc98eb)
 - 2025-09-27 | `virakesarilk-28ba7736` | தொடர்ச்சியான சவால்களை எதிர்கொண்ட இலங்கை தற்போது நிலைபேறான மற்றும் பங்கேற்பு பொருளாதாரத்தை மீளக் கட்டியெழுப்புகின்றது - ஜப்பானில் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-28ba7736)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-09-27 | `lankadeepalk-66a0976f` | ජනපති නවත් රාජ්‍ය නායකයින් තිදෙනෙක් හමුවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-lankadeepalk-66a0976f)
 - 2025-09-27 | `virakesarilk-39cdb131` | ஜனாதிபதி அநுரகுமார  - அமெரிக்க வர்த்தக சபையின் சிரேஷ்ட உப தலைவர் அதுல் கேஷப் இடையில் சந்திப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-39cdb131)
 - 2025-09-27 | `colombotelegraphcom-efa65e6a` | The Hypocrisy Of The Scalpel: Is Sri Lanka’s Medical Watchdog Controlled By A Union? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-colombotelegraphcom-efa65e6a)
-- 2025-09-27 | `virakesarilk-654e5e15` | பல்டி - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-654e5e15)
 
 ---
 
