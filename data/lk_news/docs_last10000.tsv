@@ -1,4 +1,5 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-09-27-tamilmirrorlk-e3978b65	tamilmirrorlk-e3978b65	2025-09-27	மரத்தில் மோதி விபத்துக்குள்ளான வேன்	https://www.tamilmirror.lk/செய்திகள்/மரத்தில்-மோதி-விபத்துக்குள்ளான-வேன்/175-365363	ta	tamilmirrorlk	1758948705.0
 lk_news	2025-09-27-lankadeepalk-88e77ef1	lankadeepalk-88e77ef1	2025-09-27	රජයේ ලොක්කෙක් ජපාන ආයෝජකයන් හරවා යවලා	https://www.lankadeepa.lk/latest_news/රජය-ලකකක-ජපන-ආයජකයන-හරව-යවල/1-680303	si	lankadeepalk	1758947714.0
 lk_news	2025-09-27-lankadeepalk-e363a08a	lankadeepalk-e363a08a	2025-09-27	නඩුවලට බියවෙලා: විපක්ෂයේ මන්ත්‍රීලා විස්සක් ගොළු වෙලා	https://www.lankadeepa.lk/news/නඩවලට-බයවල-වපකෂය-මනතරල-වසසක-ගළ-වල/101-680302	si	lankadeepalk	1758947211.0
 lk_news	2025-09-27-lankadeepalk-92012ee5	lankadeepalk-92012ee5	2025-09-27	තැපෑලේ කෝටි සීයක ඕටී හොරෙන් අරන්	https://www.lankadeepa.lk/news/තපල-කට-සයක-ඕට-හරන-අරන/101-680301	si	lankadeepalk	1758946636.0
@@ -127,6 +128,7 @@ lk_news	2025-09-26-lankadeepalk-81f1bda6	lankadeepalk-81f1bda6	2025-09-26	රං
 lk_news	2025-09-26-adalk-9811c5af	adalk-9811c5af	2025-09-26	සම්පත් මනම්පේරි දින 90ක් රඳවාගෙන් ප්‍රශ්න කරයි	https://www.ada.lk/breaking_news/සම්පත්-මනම්පේරි-දින-90ක්-රඳවාගෙන්-ප්‍රශ්න-කරයි/11-418746	si	adalk	1758880089.0
 lk_news	2025-09-26-adaderanasinhalalk-ecef761d	adaderanasinhalalk-ecef761d	2025-09-26	සෞඛ්‍ය සේවාවේ ප්‍රයෝජනයට ඩබල් කැබ් රථ 07ක්	http://sinhala.adaderana.lk/news/215036	si	adaderanasinhalalk	1758879900.0
 lk_news	2025-09-26-lankadeepalk-460c800e	lankadeepalk-460c800e	2025-09-26	’’අපි තවත් ඉවසන්නේ නෑ’’	https://www.lankadeepa.lk/latest_news/අප-තවත-ඉවසනන-න/1-680278	si	lankadeepalk	1758879864.0
+lk_news	2025-09-26-adalk-7d3d2345	adalk-7d3d2345	2025-09-26	බස්රථ වලින් සියයට 95ක් ධාවනය කරවන්නේ භූමිතෙල් දාලා	https://www.ada.lk/breaking_news/බස්රථ-වලින්-සියයට-95ක්-ධාවනය-කරවන්නේ-භූමිතෙල්-දාලා/11-418745	si	adalk	1758879739.0
 lk_news	2025-09-26-adalk-5b34232a	adalk-5b34232a	2025-09-26	2040දී ලංකාවේ වැඩිහිටි ජනගහනය සියයට 25ක් දක්වා ඉහළට	https://www.ada.lk/breaking_news/2040දී-ලංකාවේ-වැඩිහිටි-ජනගහනය-සියයට-25ක්-දක්වා-ඉහළට/11-418744	si	adalk	1758879485.0
 lk_news	2025-09-26-virakesarilk-ce2bca46	virakesarilk-ce2bca46	2025-09-26	அமெரிக்க விஜயத்தை  நிறைவு செய்த ஜனாதிபதி ஜப்பானுக்கான விஜயத்தை ஆரம்பித்தார்	https://www.virakesari.lk/article/226146	ta	virakesarilk	1758879480.0
 lk_news	2025-09-26-adalk-cc04bd16	adalk-cc04bd16	2025-09-26	කෙහෙල්බද්දර පද්මේට අයත් ගිනි අවියක් හා උණ්ඩ තොගයක් සොයා ගනියි	https://www.ada.lk/breaking_news/කෙහෙල්බද්දර-පද්මේට-අයත්-ගිනි-අවියක්-හා-උණ්ඩ-තොගයක්-සොයා-ගනියි/11-418743	si	adalk	1758879204.0
@@ -997,5 +999,3 @@ lk_news	2025-09-22-virakesarilk-c3849da1	virakesarilk-c3849da1	2025-09-22	நா
 lk_news	2025-09-22-virakesarilk-b3b55a5e	virakesarilk-b3b55a5e	2025-09-22	பொலிஸ் மா அதிபரின் பெயரில் பரவும் கடிதம் போலியானது - பொலிஸார்	https://www.virakesari.lk/article/225798	ta	virakesarilk	1758556020.0
 lk_news	2025-09-22-adaderanasinhalalk-1717b32a	adaderanasinhalalk-1717b32a	2025-09-22	සෞඛ්‍ය ඇමතිගෙන් පොරොන්දුවක්	http://sinhala.adaderana.lk/news/214883	si	adaderanasinhalalk	1758554760.0
 lk_news	2025-09-22-adaderanalk-d862087f	adaderanalk-d862087f	2025-09-22	Chief of Staff of Indian Navy meets Navy Commander	https://www.adaderana.lk/news/112790/chief-of-staff-of-indian-navy-meets-navy-commander	en	adaderanalk	1758553920.0
-lk_news	2025-09-22-virakesarilk-2877293e	virakesarilk-2877293e	2025-09-22	இலங்கையில்  ஐசிசி மகளிர் உலகக் கிண்ணம்	https://www.virakesari.lk/article/225797	ta	virakesarilk	1758553680.0
-lk_news	2025-09-22-adalk-e925d05d	adalk-e925d05d	2025-09-22	සුදු ඉරේදී ටිපර් රථයට යටවී අවුරුදු 4ක දරුවෙක් මරුට	https://www.ada.lk/breaking_news/සුදු-ඉරේදී-ටිපර්-රථයට-යටවී-අවුරුදු-4ක-දරුවෙක්-මරුට/11-418655	si	adalk	1758553532.0
