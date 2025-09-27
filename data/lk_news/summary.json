@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-27 12:05:58",
-  "n_docs": 77615,
+  "time_updated": "2025-09-27 12:20:59",
+  "n_docs": 77617,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 77615,
+  "n_docs_with_text": 77617,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-09-27",
-  "dataset_size": 1133109615,
+  "dataset_size": 1133175242,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -29,19 +29,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-27-economynextcom-aa1e2b32",
-    "num": "economynextcom-aa1e2b32",
+    "doc_id": "2025-09-27-tamilmirrorlk-5235f3dd",
+    "num": "tamilmirrorlk-5235f3dd",
     "date_str": "2025-09-27",
-    "description": "Sri Lanka business delegation to visit Japan",
-    "url_metadata": "https://economynext.com/sri-lanka-business-delegation-to-visit-japan-242005/",
-    "lang": "en",
-    "newspaper_id": "economynextcom",
-    "time_ut": 1758954600.0
+    "description": "\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b85\u0ba8\u0bc1\u0bb0",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0b85\u0ba8\u0bc1\u0bb0/175-365364",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1758955402.0
   }
 }
