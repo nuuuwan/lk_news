@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-28 17:40:40",
-  "n_docs": 77819,
+  "time_updated": "2025-09-28 18:06:54",
+  "n_docs": 77823,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 77819,
+  "n_docs_with_text": 77823,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-09-28",
-  "dataset_size": 1135621658,
+  "dataset_size": 1135636961,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -29,19 +29,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-28-lankadeepalk-20c43918",
-    "num": "lankadeepalk-20c43918",
+    "doc_id": "2025-09-28-tamilmirrorlk-bfc0d727",
+    "num": "tamilmirrorlk-bfc0d727",
     "date_str": "2025-09-28",
-    "description": "\u0db8\u0dd0\u0daf\u0dc0\u0da0\u0dca\u0da0\u0dd2\u0dba \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0dda \u0d9a\u0dcf.\u0d9a\u0dcf.\u0dc3\u0dc4\u0dd2\u0d9a\u0dcf\u0dc0\u0d9a \u0db8\u0dad\u0dca \u0db4\u0dd9\u0dad\u0dd2 \u0dc3\u0db8\u0d9c \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0daf\u0dc0\u0da0\u0da0\u0dba-\u0d85\u0db0\u0d9a\u0dbb\u0dab\u0dba-\u0d9a-\u0d9a-\u0dc3\u0dc4\u0d9a\u0dc0\u0d9a-\u0db8\u0dad-\u0db4\u0dad-\u0dc3\u0db8\u0d9c-\u0db8\u0da7\u0da7/101-680364",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1759058717.0
+    "description": "Viksit Bharat Run, 2025\u2026",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/Viksit-Bharat-Run-2025/150-365424",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759062489.0
   }
 }
