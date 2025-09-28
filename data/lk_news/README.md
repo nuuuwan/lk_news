@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--29_01:18:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--29_01:39:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,867** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-29**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,868** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-29**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-29-virakesarilk-750460ec",
-    "num": "virakesarilk-750460ec",
+    "doc_id": "2025-09-29-tamilmirrorlk-77287787",
+    "num": "tamilmirrorlk-77287787",
     "date_str": "2025-09-29",
-    "description": "\u0b86\u0b9a\u0bbf\u0baf \u0b95\u0bbf\u0ba3\u0bcd\u0ba3 \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd : 9\u0bb5\u0ba4\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/226351",
+    "description": "\u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2 \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0bb2-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bc1/50-365443",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1759086600.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759089716.0
 }
 ```
 
@@ -39,6 +39,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-29 | `tamilmirrorlk-77287787` | சீனாவில் நில அதிர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-tamilmirrorlk-77287787)
 - 2025-09-29 | `virakesarilk-750460ec` | ஆசிய கிண்ண கிரிக்கெட் : 9வது முறையாக இந்தியா சாம்பியன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-750460ec)
 - 2025-09-29 | `tamilmirrorlk-9637649a` | பாகிஸ்தானை வீழ்த்தி சம்பியனான இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-tamilmirrorlk-9637649a)
 - 2025-09-28 | `tamilmirrorlk-f8a75e12` | ஆசியக் கிண்ணம்: இந்தியாவுக்கு வெற்றியிலக்கு 147 ஓட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-tamilmirrorlk-f8a75e12)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-09-28 | `tamilmirrorlk-bfc0d727` | Viksit Bharat Run, 2025… | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-tamilmirrorlk-bfc0d727)
 - 2025-09-28 | `adalk-62d64867` | දුම්රියට යටවූ කාන්තාවක් හා ඉහළ කොත්මලේට පැන්න කාන්තාවක් බේරා ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-adalk-62d64867)
 - 2025-09-28 | `tamilmirrorlk-8ed497a0` | சிறுவர் துஷ்பிரயோக தண்டிப்பு சட்டமூலம்;பிரதமர் விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-tamilmirrorlk-8ed497a0)
-- 2025-09-28 | `virakesarilk-f66525ed` | காணா­மல்­போன இனப்­பி­ரச்­சினை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-f66525ed)
 
 ---
 
