@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_10:19:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_10:39:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,724** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-28**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,728** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-28**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-28-tamilmirrorlk-e8566613",
-    "num": "tamilmirrorlk-e8566613",
+    "doc_id": "2025-09-28-lankadeepalk-6fed04ca",
+    "num": "lankadeepalk-6fed04ca",
     "date_str": "2025-09-28",
-    "description": "\u0ba4.\u0bb5\u0bc6.\u0b95 \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bcd \u0b95\u0bc8\u0ba4\u0bc1? \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4-\u0bb5\u0bc6-\u0b95-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9c\u0baf\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1-\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1/175-365392",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1759033128.0
+    "description": "\u0db8\u0dad\u0dca \u0dbb\u0d9a\u0dd4\u0dc3\u0dcf \u0db4\u0dbb\u0daf\u0dc0\u0db1\u0dca\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0dc0\u0dd0\u0da9\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dad-\u0dbb\u0d9a\u0dc3-\u0db4\u0dbb\u0daf\u0dc0\u0db1\u0db1-\u0da2\u0db1\u0db4\u0dad\u0d9c\u0db1-\u0d85\u0dbd\u0dad-\u0dc0\u0da9\u0d9a/1-680338",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1759035532.0
 }
 ```
 
@@ -39,6 +39,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-28 | `lankadeepalk-6fed04ca` | මත් රකුසා පරදවන්න ජනපතිගෙන් අලුත් වැඩක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-lankadeepalk-6fed04ca)
+- 2025-09-28 | `tamilmirrorlk-8287575a` | “விஜய் கைது செய்யப்படுவாரா?”: கரூரில் முதல்வர் ஸ்டாலின் விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-tamilmirrorlk-8287575a)
+- 2025-09-28 | `tamilmirrorlk-a134b129` | ’’மரணத்தின் படையெடுப்பால் கரூர் கருப்பூர் ஆகிவிட்டது’’ - வைரமுத்து இரங்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-tamilmirrorlk-a134b129)
+- 2025-09-28 | `lankadeepalk-002d8b9b` | අපරාධවලට වැඩ්ඩෝ වැඩි හරියක් ’’කුඩ්ඩෝ’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-lankadeepalk-002d8b9b)
 - 2025-09-28 | `tamilmirrorlk-e8566613` | த.வெ.க தலைவர் விஜய் கைது? வீட்டுக்கு பலத்த பாதுகாப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-tamilmirrorlk-e8566613)
 - 2025-09-28 | `lankadeepalk-b5edc9d4` | අදත් වැසි වාර කිහිපයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-lankadeepalk-b5edc9d4)
 - 2025-09-28 | `tamilmirrorlk-974617de` | ’நிலையான பொருளாதாரத்தை மீளக் கட்டியெழுப்புகின்றோம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-tamilmirrorlk-974617de)
@@ -55,10 +59,6 @@ A collection of lk_news documents.
 - 2025-09-27 | `colombotelegraphcom-9f2d2d05` | The Importance Of Education In Emergencies For Eliminating The Dependency Mindset | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-colombotelegraphcom-9f2d2d05)
 - 2025-09-27 | `virakesarilk-8db6c89a` | கரூரில் பெருந்துயரம்: விஜய் பிரசார கூட்ட நெரிசலில் சிக்கி 31 பேர் பரிதாப பலி ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-8db6c89a)
 - 2025-09-27 | `tamilmirrorlk-3edc98eb` | கரூர் செய்தி கவலையளிக்கிறது: தமிழக முதல்வர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-3edc98eb)
-- 2025-09-27 | `virakesarilk-28ba7736` | தொடர்ச்சியான சவால்களை எதிர்கொண்ட இலங்கை தற்போது நிலைபேறான மற்றும் பங்கேற்பு பொருளாதாரத்தை மீளக் கட்டியெழுப்புகின்றது - ஜப்பானில் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-28ba7736)
-- 2025-09-27 | `tamilmirrorlk-f81ca148` | விஜய் கூட்டத்தில் 2பேர்9  உயிரிழப்பு. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-f81ca148)
-- 2025-09-27 | `tamilmirrorlk-05ee2430` | விஜய் கூட்டத்தில் 29  பேர் உயிரிழப்பு. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-05ee2430)
-- 2025-09-27 | `tamilmirrorlk-c5153134` | இலங்கையில் சடுதியாக அதிகரிக்கும் விவாகரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-c5153134)
 
 ---
 
