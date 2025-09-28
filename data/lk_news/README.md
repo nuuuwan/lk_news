@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_18:43:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_19:04:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,842** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-28**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,848** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-28**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-28-virakesarilk-32103e74",
-    "num": "virakesarilk-32103e74",
+    "doc_id": "2025-09-28-virakesarilk-ffd96b63",
+    "num": "virakesarilk-ffd96b63",
     "date_str": "2025-09-28",
-    "description": "\u0b95\u0bc8\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0b95\u0bcd\u0bb0\u0bcb\u0baa\u0bb0\u0bcd 1 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0bb5\u0bb0\u0bc8 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd!",
-    "url_metadata": "https://www.virakesari.lk/article/226345",
+    "description": "\u0baa\u0bca\u0b9f\u0bbf \u0bae\u0bc6\u0ba9\u0bbf\u0b95\u0bc7 \u0bb0\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd \u0bae\u0bcb\u0ba4\u0bbf\u0baf \u0baa\u0bc6\u0ba3\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/226347",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1759064340.0
+    "time_ut": 1759066200.0
 }
 ```
 
@@ -39,9 +39,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-28 | `virakesarilk-ffd96b63` | பொடி மெனிகே ரயிலில் மோதிய பெண் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-ffd96b63)
+- 2025-09-28 | `lankadeepalk-3673a841` | පොහොට්ටුවේ හිටපු නාගරික මන්ත්‍රී අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-lankadeepalk-3673a841)
+- 2025-09-28 | `lankadeepalk-70f6a98a` | ගල් අඟුරු ටෙන්ඩරයෙන්  දූෂණයකට  පාර කැපිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-lankadeepalk-70f6a98a)
+- 2025-09-28 | `virakesarilk-529a9e4b` | ஆற்றோரம் அநாதரவாக குழந்தை ஒன்று கண்டெடுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-529a9e4b)
 - 2025-09-28 | `virakesarilk-32103e74` | கைதுசெய்யப்பட்ட இந்திய மீனவர்களுக்கு ஒக்ரோபர் 1 ஆம் திகதிவரை விளக்கமறியல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-32103e74)
 - 2025-09-28 | `virakesarilk-7df771a6` | போலி ஆவணங்களுடன் ஆடம்பர வாகனங்கள் : முன்னாள் மாகாண சபை உறுப்பினர் அமல் சில்வா கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-7df771a6)
 - 2025-09-28 | `tamilmirrorlk-bfc0d727` | Viksit Bharat Run, 2025… | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-tamilmirrorlk-bfc0d727)
+- 2025-09-28 | `adalk-62d64867` | දුම්රියට යටවූ කාන්තාවක් හා ඉහළ කොත්මලේට පැන්න කාන්තාවක් බේරා ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-adalk-62d64867)
 - 2025-09-28 | `tamilmirrorlk-8ed497a0` | சிறுவர் துஷ்பிரயோக தண்டிப்பு சட்டமூலம்;பிரதமர் விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-tamilmirrorlk-8ed497a0)
 - 2025-09-28 | `virakesarilk-f66525ed` | காணா­மல்­போன இனப்­பி­ரச்­சினை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-f66525ed)
 - 2025-09-28 | `virakesarilk-b4f3ecd5` | நாடு திரும்பியதும் தமிழரசுக் கட்சியை  ஜனாதிபதி அநுரகுமார சந்திப்பார்  அமைச்சர் இராமலிங்கம் சந்திரசேகரர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-b4f3ecd5)
@@ -54,11 +59,6 @@ A collection of lk_news documents.
 - 2025-09-28 | `virakesarilk-add790da` | யாழ்ப்பாணம் விக்சித் பாரத் ஓட்டம் 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-add790da)
 - 2025-09-28 | `virakesarilk-48b54410` | கால்டன் இல்லத்தில் மஹிந்தவை சந்தித்த ரணில்  கைது செய்யப்பட்டபோது வழங்கிய ஒத்துழைப்பிற்கு நன்றியும் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-48b54410)
 - 2025-09-28 | `virakesarilk-879643d0` | காற்றாலைக்கு எதிராக கட்டைக்காட்டில் வெடித்தது போராட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-879643d0)
-- 2025-09-28 | `virakesarilk-fe677d9a` | 12 ஆவது நாளாக தொடரும் முத்து நகர் விவசாயிகளின் சத்தியக் கிரகப் போராட்டம் ; பிரதமரின் வாக்குறுதிக்கு ஆறு நாட்களே மீதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-fe677d9a)
-- 2025-09-28 | `virakesarilk-e5886117` | எல்லாவற்றையும் எதிர்ப்பது என்ற மக்களின் மனநிலையில் மாற்றம் வேண்டும் - ஆளுநர் நா.வேதநாயகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-e5886117)
-- 2025-09-28 | `virakesarilk-dffd8f59` | கோஹகொட குப்பை மேடு: சூழல் பாதிப்புகள் குறித்து நடவடிக்கை எடுக்கப்படவில்லை – அமைப்புகள் குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-dffd8f59)
-- 2025-09-28 | `lankadeepalk-20c43918` | මැදවච්චිය අධිකරණයේ කා.කා.සහිකාවක මත් පෙති සමග මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-lankadeepalk-20c43918)
-- 2025-09-28 | `virakesarilk-6c0aa38f` | சிறுபான்மையா? சகோதர இனமா? ; கண்டியில் ஆர்ப்பாட்டப் பேரணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-6c0aa38f)
 
 ---
 
