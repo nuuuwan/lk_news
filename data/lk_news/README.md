@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_09:12:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_09:25:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,722** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-28**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,723** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-28**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 - 2025-09-28 | `lankadeepalk-b5edc9d4` | අදත් වැසි වාර කිහිපයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-lankadeepalk-b5edc9d4)
 - 2025-09-28 | `tamilmirrorlk-974617de` | ’நிலையான பொருளாதாரத்தை மீளக் கட்டியெழுப்புகின்றோம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-tamilmirrorlk-974617de)
+- 2025-09-28 | `adalk-052521f2` | දුම්රියෙ ගැටී දරුවෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-adalk-052521f2)
 - 2025-09-28 | `economynextcom-748ebf75` | Rubber industry calls for SVAT removal delay, warns of liquidity crunch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-economynextcom-748ebf75)
 - 2025-09-28 | `adalk-9010e4a5` | අද වහින හැටි මෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-adalk-9010e4a5)
 - 2025-09-28 | `tamilmirrorlk-4b855299` | அமெரிக்க வர்த்தக சபை உப தலைவருடன் ஜனாதிபதி சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-tamilmirrorlk-4b855299)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-09-27 | `tamilmirrorlk-05ee2430` | விஜய் கூட்டத்தில் 29  பேர் உயிரிழப்பு. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-05ee2430)
 - 2025-09-27 | `tamilmirrorlk-c5153134` | இலங்கையில் சடுதியாக அதிகரிக்கும் விவாகரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-tamilmirrorlk-c5153134)
 - 2025-09-27 | `virakesarilk-56f1e5c8` | ஜனாதிபதி ஜப்பானை சென்றடைந்தார் : "எக்ஸ்போ 2025" இலங்கை தின நிகழ்வு ஜனாதிபதி தலைமையில்... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-56f1e5c8)
-- 2025-09-27 | `virakesarilk-d5c4f279` | இலங்கையின் சுற்றுலா வெற்றி: வளர்ச்சிக்கும் பிராந்திய மறுமலர்ச்சிக்குமான ஒரு வரைபடம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-27-virakesarilk-d5c4f279)
 
 ---
 
