@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-28 07:53:55",
-  "n_docs": 77715,
+  "time_updated": "2025-09-28 08:26:51",
+  "n_docs": 77718,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 77715,
+  "n_docs_with_text": 77718,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-09-28",
-  "dataset_size": 1134128317,
+  "dataset_size": 1134169406,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -29,19 +29,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-28-tamilmirrorlk-4b855299",
-    "num": "tamilmirrorlk-4b855299",
+    "doc_id": "2025-09-28-economynextcom-748ebf75",
+    "num": "economynextcom-748ebf75",
     "date_str": "2025-09-28",
-    "description": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0b9a\u0baa\u0bc8 \u0b89\u0baa \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95-\u0b9a\u0baa\u0bc8-\u0b89\u0baa-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-365390",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1759025130.0
+    "description": "Rubber industry calls for SVAT removal delay, warns of liquidity crunch",
+    "url_metadata": "https://economynext.com/rubber-industry-calls-for-svat-removal-delay-warns-of-liquidity-crunch-242051/",
+    "lang": "en",
+    "newspaper_id": "economynextcom",
+    "time_ut": 1759026600.0
   }
 }
