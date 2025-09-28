@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_12:39:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--28_13:00:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,778** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-28**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,780** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-28**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-28-lankadeepalk-facd294f",
-    "num": "lankadeepalk-facd294f",
+    "doc_id": "2025-09-28-lankadeepalk-52d307bf",
+    "num": "lankadeepalk-52d307bf",
     "date_str": "2025-09-28",
-    "description": "\u0db6\u0da7\u0dbd\u0db1\u0dca\u0daf \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0\u0da7\u0dc0\u0dd9\u0da0\u0dca\u0da0 \u0daf\u0dda",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db6\u0da7\u0dbd\u0db1\u0daf-\u0dc0\u0dbb\u0dad\u0dc0\u0da7\u0dc0\u0da0\u0da0-\u0daf/1-680347",
+    "description": "\u0d85\u0db1\u0dd4\u0dbb \u0da2\u0db4\u0dcf\u0db1\u0dda \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0d9a\u0ddd\u0da0\u0dca\u0da0\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dbb-\u0da2\u0db4\u0db1-\u0dbd\u0d9a\u0d9a\u0dba\u0db1-\u0dc4\u0db8\u0dc0\u0db1\u0db1-\u0d9a\u0da0\u0da0\u0dba\u0db1-\u0dba\u0dba/101-680348",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1759043087.0
+    "time_ut": 1759043301.0
 }
 ```
 
@@ -39,9 +39,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-28 | `lankadeepalk-52d307bf` | අනුර ජපානේ ලාංකිකයන් හමුවෙන්න කෝච්චියෙන් යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-lankadeepalk-52d307bf)
 - 2025-09-28 | `lankadeepalk-facd294f` | බටලන්ද වාර්තාවටවෙච්ච දේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-lankadeepalk-facd294f)
 - 2025-09-28 | `lankadeepalk-038e1f8f` | මහින්ද බලන්න රනිල් යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-lankadeepalk-038e1f8f)
 - 2025-09-28 | `lankadeepalk-0e39bf4f` | අර්ජුන මහේන්ද්‍රන් ඕනෑ: සිංගප්පූරුවට දන්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-lankadeepalk-0e39bf4f)
+- 2025-09-28 | `adalk-9531a847` | ලොව උසම පාලම චීනයේදී විවෘත කරයි, පැය දෙකක ගමන් කාලය විනාඩි දෙකකට අඩුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-adalk-9531a847)
 - 2025-09-28 | `virakesarilk-56b61a97` | இலங்கை தொடர்பான பொறுப்புக்கூறல்  செயற்திட்டம் மேம்படுத்தப்படவேண்டும் ;  ஐ.நா மனித உரிமைகள் பேரவையில் அனந்தி சசிதரன் வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-56b61a97)
 - 2025-09-28 | `virakesarilk-f9185744` | நல்லாட்சியில் அரசியலமைப்பு  வரைவு மீளக்கொண்டுவரப்படும்  தமிழ்மக்களின் ஆணை தம்வசமே இருப்பதாக தேசிய மக்கள் சக்தியின் பொதுச்செயலாளர்  சுவிஸில் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-f9185744)
 - 2025-09-28 | `virakesarilk-52ada4f4` | எதிர்க்­கட்­சி­களின் ஒன்­றி­ணைவு சாத்­தி­யமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-52ada4f4)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-09-28 | `virakesarilk-2ba5c4a9` | ஐ.தே.க.வுடன் அனைத்து கட்சிகளும் இணைந்தால் எந்தவொரு அரசியல் சக்தியாலும் அதற்கு ஈடு கொடுக்க முடியாது - நவீன் திஸாநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-virakesarilk-2ba5c4a9)
 - 2025-09-28 | `lankadeepalk-6c5f708b` | නා උයනේ අනතුරින් තවත් හිමි නමක් අපවත් වෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-lankadeepalk-6c5f708b)
 - 2025-09-28 | `tamilmirrorlk-cf969d81` | சவுதி அரேபிய இராணுவ ஆலோசகர் பாதுகாப்பு செயலாளரை சந்தித்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-tamilmirrorlk-cf969d81)
-- 2025-09-28 | `lankadeepalk-9d0f5628` | කන්ටේනර් හොරු අල්ලන්න නාමල්ගෙන්  අභියෝගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-lankadeepalk-9d0f5628)
-- 2025-09-28 | `adalk-8a747b24` | හොරකම් කළ වෑන් රථය උගස් කර යතුරු පැදියක් මිලට අරන් පෙම්වතිය සමග රවුම් ගහලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-28-adalk-8a747b24)
 
 ---
 
