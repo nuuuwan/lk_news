@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--29_06:43:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--29_07:35:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**77,912** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-29**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**77,915** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-29**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-29-dailyftlk-e80e5f54",
-    "num": "dailyftlk-e80e5f54",
+    "doc_id": "2025-09-29-virakesarilk-05e9a1df",
+    "num": "virakesarilk-05e9a1df",
     "date_str": "2025-09-29",
-    "description": "85th birthday commemoration of former Speaker Sri Lankabhimanya Karu Jayasuriya",
-    "url_metadata": "https://www.ft.lk/opinion/85th-birthday-commemoration-of-former-Speaker-Sri-Lankabhimanya-Karu-Jayasuriya/14-782312",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1759107061.0
+    "description": "\u0baa\u0bcb\u0bb2\u0bbf \u0bb5\u0bbe\u0b95\u0ba9 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0b95\u0b9f\u0bc1\u0b95\u0bb3\u0bcd, \u0bb5\u0bc6\u0b9f\u0bbf\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bc8 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 !",
+    "url_metadata": "https://www.virakesari.lk/article/226363",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1759111080.0
 }
 ```
 
@@ -39,6 +39,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-29 | `virakesarilk-05e9a1df` | போலி வாகன இலக்கத் தகடுகள், வெடிமருந்துகளுடன் கொட்டாவை பகுதியில் ஒருவர் கைது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-05e9a1df)
+- 2025-09-29 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-3a015e4a)
 - 2025-09-29 | `dailyftlk-e80e5f54` | 85th birthday commemoration of former Speaker Sri Lankabhimanya Karu Jayasuriya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-dailyftlk-e80e5f54)
 - 2025-09-29 | `dailyftlk-d20b5e2c` | Your right to know: Why journalism and access to information matter more than ever | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-dailyftlk-d20b5e2c)
 - 2025-09-29 | `dailyftlk-6e89ff7c` | New era for island of gems as countdown begins to ‘FACETS Sri Lanka 2026’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-dailyftlk-6e89ff7c)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-09-29 | `dailyftlk-79477f0e` | QR code tea fertiliser subsidy with Rs. 4,000 discount from 1 Oct. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-dailyftlk-79477f0e)
 - 2025-09-29 | `dailyftlk-01118225` | Digital education policy to go before Cabinet by March 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-dailyftlk-01118225)
 - 2025-09-29 | `dailyftlk-6bcd16cf` | Colombo International Book Fair tickets now on PickMe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-dailyftlk-6bcd16cf)
-- 2025-09-29 | `dailyftlk-15a9bcc5` | Former Western PC member Amal Silva arrested by Walana Anti-Vice Squad | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-dailyftlk-15a9bcc5)
-- 2025-09-29 | `dailyftlk-25bd9106` | CPSTL to enforce merit-based hiring and promotions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-dailyftlk-25bd9106)
 
 ---
 

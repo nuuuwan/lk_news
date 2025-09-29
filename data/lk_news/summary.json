@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-29 06:42:58",
-  "n_docs": 77912,
+  "time_updated": "2025-09-29 07:35:30",
+  "n_docs": 77915,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 77912,
+  "n_docs_with_text": 77915,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-09-29",
-  "dataset_size": 1137273592,
+  "dataset_size": 1137246937,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -30,18 +30,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-29-dailyftlk-e80e5f54",
-    "num": "dailyftlk-e80e5f54",
+    "doc_id": "2025-09-29-virakesarilk-05e9a1df",
+    "num": "virakesarilk-05e9a1df",
     "date_str": "2025-09-29",
-    "description": "85th birthday commemoration of former Speaker Sri Lankabhimanya Karu Jayasuriya",
-    "url_metadata": "https://www.ft.lk/opinion/85th-birthday-commemoration-of-former-Speaker-Sri-Lankabhimanya-Karu-Jayasuriya/14-782312",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1759107061.0
+    "description": "\u0baa\u0bcb\u0bb2\u0bbf \u0bb5\u0bbe\u0b95\u0ba9 \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0b95\u0b9f\u0bc1\u0b95\u0bb3\u0bcd, \u0bb5\u0bc6\u0b9f\u0bbf\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bc8 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 !",
+    "url_metadata": "https://www.virakesari.lk/article/226363",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1759111080.0
   }
 }
