@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--30_02:19:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--30_02:39:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,113** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-30**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,117** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-30**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-30-dailyftlk-e6693d72",
-    "num": "dailyftlk-e6693d72",
+    "doc_id": "2025-09-30-dailyftlk-d05a2f13",
+    "num": "dailyftlk-d05a2f13",
     "date_str": "2025-09-30",
-    "description": "US investment outlook flags Sri Lanka\u2019s stalled SOE privatisation, labour laws",
-    "url_metadata": "https://www.ft.lk/business/US-investment-outlook-flags-Sri-Lanka-s-stalled-SOE-privatisation-labour-laws/34-782386",
+    "description": "PM calls on new SLAS officers to stand against corruption, irregularities",
+    "url_metadata": "https://www.ft.lk/news/PM-calls-on-new-SLAS-officers-to-stand-against-corruption-irregularities/56-782390",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759177478.0
+    "time_ut": 1759179407.0
 }
 ```
 
@@ -39,6 +39,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-30 | `dailyftlk-d05a2f13` | PM calls on new SLAS officers to stand against corruption, irregularities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-d05a2f13)
+- 2025-09-30 | `dailyftlk-a849978b` | BASL defends lawyers’ car passes, says Gazette does not apply | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-a849978b)
+- 2025-09-30 | `dailyftlk-f048d4e3` | CA Sri Lanka present Budget 2026 proposals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-f048d4e3)
+- 2025-09-30 | `dailyftlk-7caf5d4f` | ICC Sri Lanka hosts Arbitration and Mediation Conference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-7caf5d4f)
 - 2025-09-30 | `dailyftlk-e6693d72` | US investment outlook flags Sri Lanka’s stalled SOE privatisation, labour laws | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-e6693d72)
 - 2025-09-30 | `dailyftlk-8195af27` | Jan.-Aug. 2025 Budget deficit Rs. 411 b; falls 55% YoY | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-8195af27)
 - 2025-09-30 | `dailyftlk-fd179e12` | Ceylon Chamber voices concerns over draft PPP Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-fd179e12)
@@ -55,10 +59,6 @@ A collection of lk_news documents.
 - 2025-09-29 | `dailyftlk-7daf668f` | Budget 2025: Smiles in every rupee | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-dailyftlk-7daf668f)
 - 2025-09-29 | `virakesarilk-abba7f28` | தங்காலையில் போதைப்பொருளுடன் 3 லொறிகள் கைப்பற்றப்பட்ட விடயம்; சந்தேகநபர்களுக்கு தொடர்ந்தும் விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-abba7f28)
 - 2025-09-29 | `economynextcom-89585465` | Sri Lanka economic summit to focus on export diversification, and growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-economynextcom-89585465)
-- 2025-09-29 | `dailyftlk-e3eebbbb` | Justice delayed and institutional credibility: Lessons from Easter Sunday case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-dailyftlk-e3eebbbb)
-- 2025-09-29 | `dailyftlk-8dd76153` | Ranil’s resolve to end rule of law | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-dailyftlk-8dd76153)
-- 2025-09-29 | `lankadeepalk-4ee40fdd` | අල්ලසේ රංගගෙන් නන්දනට පිළිතුරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-4ee40fdd)
-- 2025-09-29 | `tamilmirrorlk-f7b48c25` | உலகத் தமிழ்ப் பண்பாட்டு இயக்கத்தின் காப்பாளராக செந்தில் தொண்டமான்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-tamilmirrorlk-f7b48c25)
 
 ---
 
