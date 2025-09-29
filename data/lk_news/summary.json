@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-30 01:00:26",
-  "n_docs": 78106,
+  "time_updated": "2025-09-30 01:17:29",
+  "n_docs": 78107,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 78106,
+  "n_docs_with_text": 78107,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-09-30",
-  "dataset_size": 1140783101,
+  "dataset_size": 1140792725,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -29,19 +29,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-30-dailyftlk-7b5f5dfe",
-    "num": "dailyftlk-7b5f5dfe",
+    "doc_id": "2025-09-30-dailyftlk-cfd7cd4f",
+    "num": "dailyftlk-cfd7cd4f",
     "date_str": "2025-09-30",
-    "description": "Building global brands at home: AOD enriches Sri Lanka\u2019s creative economy with another entrepreneurial success",
-    "url_metadata": "https://www.ft.lk/business/Building-global-brands-at-home-AOD-enriches-Sri-Lanka-s-creative-economy-with-another-entrepreneurial-success/34-782363",
+    "description": "US tariffs: Implications and opportunities for Sri Lanka",
+    "url_metadata": "https://www.ft.lk/opinion/US-tariffs-Implications-and-opportunities-for-Sri-Lanka/14-782370",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759172638.0
+    "time_ut": 1759175036.0
   }
 }
