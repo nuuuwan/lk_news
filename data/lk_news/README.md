@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--29_17:01:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--29_17:19:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,045** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-29**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,047** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-29**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-29-lankadeepalk-3d03db83",
-    "num": "lankadeepalk-3d03db83",
+    "doc_id": "2025-09-29-tamilmirrorlk-46edadd5",
+    "num": "tamilmirrorlk-46edadd5",
     "date_str": "2025-09-29",
-    "description": "\u0db8\u0ddb\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0d9a\u0dc0\u0dd2 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dad\u0dbb-\u0d9a\u0dc0-\u0d9a\u0dba\u0dba/101-680426",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1759145036.0
+    "description": "\u0bae\u0baf\u0bc2\u0bb0\u0baa\u0ba4\u0bbf \u0bb8\u0bcd\u0bb0\u0bc0 \u0baa\u0ba4\u0bcd\u0bb0\u0b95\u0bbe\u0bb3\u0bbf \u0b95\u0bcb\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd  \u0ba8\u0bb5\u0bb0\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf \u0b95\u0bb2\u0bbe\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0baf\u0bc2\u0bb0\u0baa\u0ba4\u0bbf-\u0bb8\u0bcd\u0bb0\u0bc0-\u0baa\u0ba4\u0bcd\u0bb0\u0b95\u0bbe\u0bb3\u0bbf-\u0b95\u0bcb\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd-\u0ba8\u0bb5\u0bb0\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf-\u0b95\u0bb2\u0bbe\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0-\u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf/46-365491",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759145975.0
 }
 ```
 
@@ -39,6 +39,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-29 | `tamilmirrorlk-46edadd5` | மயூரபதி ஸ்ரீ பத்ரகாளி கோயிலில்  நவராத்திரி கலாச்சார நிகழ்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-tamilmirrorlk-46edadd5)
+- 2025-09-29 | `tamilmirrorlk-e6387a73` | மருத்துவ மாணவன் விபத்தில் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-tamilmirrorlk-e6387a73)
 - 2025-09-29 | `lankadeepalk-3d03db83` | මෛත්‍රී කවි කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-3d03db83)
 - 2025-09-29 | `tamilmirrorlk-7a027c79` | காற்றாலை, பொலிஸாரின் அடாவடிக்கும் எதிராக மன்னார் ஸ்தம்பித்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-tamilmirrorlk-7a027c79)
 - 2025-09-29 | `lankadeepalk-8d2a4cd5` | ’’එක පෑන් පහරින්  ඔක්කොම කරන්න බෑ’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-8d2a4cd5)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-09-29 | `virakesarilk-eafe376a` | இயக்குநர்கள் ஆர். வி. உதயகுமார் - பேரரசு இணைந்து வெளியிட்ட 'இறுதி முயற்சி' படத்தின் இசை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-eafe376a)
 - 2025-09-29 | `virakesarilk-99fb293c` | கிளிநொச்சியில் பாழடைந்த வீடொன்றுக்குள் வெடிப்பு சம்பவம்: இருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-99fb293c)
 - 2025-09-29 | `tamilmirrorlk-6fc0796a` | குரங்குகளுக்கு பாலியல் நோய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-tamilmirrorlk-6fc0796a)
-- 2025-09-29 | `virakesarilk-114870e9` | இராணுவக் கொடிகளுக்கு ஸ்ரீ தலதா மாளிகையில் ஆசீர்வாதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-114870e9)
-- 2025-09-29 | `lankadeepalk-2813efc3` | දේශපාලන ගැති රාජ්‍ය සේවය අවසන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-2813efc3)
 
 ---
 
