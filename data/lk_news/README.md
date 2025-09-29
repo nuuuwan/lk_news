@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--29_17:42:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--29_18:08:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,057** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-29**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,060** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-29**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-29-virakesarilk-26346e30",
-    "num": "virakesarilk-26346e30",
+    "doc_id": "2025-09-29-tamilmirrorlk-aa087837",
+    "num": "tamilmirrorlk-aa087837",
     "date_str": "2025-09-29",
-    "description": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8 \u0b85\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0ba9\u0ba4\u0bc1 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a \u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 - \u0bb8\u0bcd\u0bb0\u0bc0\u0b95\u0bbe\u0ba8\u0bcd\u0ba4\u0bbe",
-    "url_metadata": "https://www.virakesari.lk/article/226435",
+    "description": "SLESA\u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd 81\u0bb5\u0ba4\u0bc1 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/SLESA\u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-81\u0bb5\u0ba4\u0bc1-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1-\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1/175-365493",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1759147500.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759148797.0
 }
 ```
 
@@ -39,7 +39,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-29 | `tamilmirrorlk-aa087837` | SLESAசங்கத்தின் 81வது ஆண்டு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-tamilmirrorlk-aa087837)
+- 2025-09-29 | `virakesarilk-ebb51b78` | ஐ.நா.வின் 80ஆவது பொதுச்சபை அமர்வும் ஐரோப்பாவின் மூன்றாவது அலை நகர்வும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-ebb51b78)
 - 2025-09-29 | `virakesarilk-26346e30` | மன்னார் மக்கள் மீதான வன்முறை அடக்குமுறையானது தமிழ் மக்கள் மீது மீண்டும் முன்னெடுக்கப்படும் அரச பயங்கரவாதத்தின் வெளிப்பாடு - ஸ்ரீகாந்தா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-26346e30)
+- 2025-09-29 | `lankadeepalk-f36c2ced` | ජනපති-ජපන් අගමැති හමු වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-f36c2ced)
 - 2025-09-29 | `virakesarilk-ada1ab58` | இலங்கை - இந்தியா வலுசக்தி ஒத்துழைப்பு குறித்து பேச்சுவார்த்தை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-ada1ab58)
 - 2025-09-29 | `virakesarilk-9af74c28` | 2014 முதல் 2022 வரை இலங்கை மின்சார சபைக்கு ரூ.594,368 மில்லியன் நஷ்டம் – கோப் குழுவில் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-9af74c28)
 - 2025-09-29 | `virakesarilk-371265ec` | கிளங்கன் வைத்தியசாலை வெளிநோயளர் பிரிவுக்கு வாங்குகதிரைகள் வழங்கி வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-371265ec)
@@ -56,9 +59,6 @@ A collection of lk_news documents.
 - 2025-09-29 | `virakesarilk-da3aa281` | 'யதார்த்த நாயகன்' விதார்த் நடிக்கும் 'மருதம்' படத்தின் இசை மற்றும் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-da3aa281)
 - 2025-09-29 | `lankadeepalk-b6a0ddc6` | අපරාධකරුවන් හැත්තෑ දෙදෙනකුට රතු නිවේදන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-b6a0ddc6)
 - 2025-09-29 | `tamilmirrorlk-df0885b7` | புலிகளின் தங்கத்தை  தேடி அகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-tamilmirrorlk-df0885b7)
-- 2025-09-29 | `lankadeepalk-a791626a` | බැකෝ සමන්ගේ බිරිඳගේ දුරකථන තවත් පරීක්ෂා කරන්න නියෝග | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-a791626a)
-- 2025-09-29 | `lankadeepalk-bb39b331` | පේරාදෙණි වෛද්‍ය සිසුවා අනතුරින් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-bb39b331)
-- 2025-09-29 | `virakesarilk-e871c876` | சசிகுமாரை இயக்கும் 'யாத்திசை' பட இயக்குநர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-e871c876)
 
 ---
 
