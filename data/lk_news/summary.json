@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-30 03:38:30",
-  "n_docs": 78117,
+  "time_updated": "2025-09-30 04:01:34",
+  "n_docs": 78118,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 78117,
+  "n_docs_with_text": 78118,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-09-30",
-  "dataset_size": 1140924629,
+  "dataset_size": 1140927506,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -29,19 +29,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "si",
     "ta",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-30-dailyftlk-d05a2f13",
-    "num": "dailyftlk-d05a2f13",
+    "doc_id": "2025-09-30-tamilmirrorlk-6bbc030c",
+    "num": "tamilmirrorlk-6bbc030c",
     "date_str": "2025-09-30",
-    "description": "PM calls on new SLAS officers to stand against corruption, irregularities",
-    "url_metadata": "https://www.ft.lk/news/PM-calls-on-new-SLAS-officers-to-stand-against-corruption-irregularities/56-782390",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1759179407.0
+    "description": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf- \u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd-\u0ba8\u0bbf\u0ba4\u0bbf-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-365501",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759184578.0
   }
 }
