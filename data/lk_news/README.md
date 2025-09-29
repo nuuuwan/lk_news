@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--30_01:39:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--30_02:03:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,107** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-30**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,113** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-30**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-30-dailyftlk-cfd7cd4f",
-    "num": "dailyftlk-cfd7cd4f",
+    "doc_id": "2025-09-30-dailyftlk-e6693d72",
+    "num": "dailyftlk-e6693d72",
     "date_str": "2025-09-30",
-    "description": "US tariffs: Implications and opportunities for Sri Lanka",
-    "url_metadata": "https://www.ft.lk/opinion/US-tariffs-Implications-and-opportunities-for-Sri-Lanka/14-782370",
+    "description": "US investment outlook flags Sri Lanka\u2019s stalled SOE privatisation, labour laws",
+    "url_metadata": "https://www.ft.lk/business/US-investment-outlook-flags-Sri-Lanka-s-stalled-SOE-privatisation-labour-laws/34-782386",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759175036.0
+    "time_ut": 1759177478.0
 }
 ```
 
@@ -39,6 +39,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-30 | `dailyftlk-e6693d72` | US investment outlook flags Sri Lanka’s stalled SOE privatisation, labour laws | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-e6693d72)
+- 2025-09-30 | `dailyftlk-8195af27` | Jan.-Aug. 2025 Budget deficit Rs. 411 b; falls 55% YoY | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-8195af27)
+- 2025-09-30 | `dailyftlk-fd179e12` | Ceylon Chamber voices concerns over draft PPP Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-fd179e12)
+- 2025-09-30 | `dailyftlk-88f3e004` | SLFFA calls for urgent policy rethink on SVAT | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-88f3e004)
+- 2025-09-30 | `dailyftlk-df6db38e` | ICCSL urges stronger taxpayer education, safeguards in new policy paper | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-df6db38e)
+- 2025-09-30 | `dailyftlk-0e997b76` | CSE begins new week on the up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-0e997b76)
 - 2025-09-30 | `dailyftlk-cfd7cd4f` | US tariffs: Implications and opportunities for Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-cfd7cd4f)
 - 2025-09-30 | `dailyftlk-7b5f5dfe` | Building global brands at home: AOD enriches Sri Lanka’s creative economy with another entrepreneurial success | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-7b5f5dfe)
 - 2025-09-30 | `dailyftlk-65a2487b` | CSLEIS 2025 explores export diversification | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-65a2487b)
@@ -53,12 +59,6 @@ A collection of lk_news documents.
 - 2025-09-29 | `dailyftlk-8dd76153` | Ranil’s resolve to end rule of law | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-dailyftlk-8dd76153)
 - 2025-09-29 | `lankadeepalk-4ee40fdd` | අල්ලසේ රංගගෙන් නන්දනට පිළිතුරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-4ee40fdd)
 - 2025-09-29 | `tamilmirrorlk-f7b48c25` | உலகத் தமிழ்ப் பண்பாட்டு இயக்கத்தின் காப்பாளராக செந்தில் தொண்டமான்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-tamilmirrorlk-f7b48c25)
-- 2025-09-29 | `lankadeepalk-dddf4d8d` | ජනපතිගෙන් ජපන් ආයෝජකයන්ට ඇරැයුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-dddf4d8d)
-- 2025-09-29 | `lankadeepalk-a254d53c` | අයි.එම්.එෆ්- රජයේ ප්‍රතිසංස්කරණ ප්‍රගතිය අගයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-a254d53c)
-- 2025-09-29 | `tamilmirrorlk-a7e16be4` | ஜப்பான் தலைவர்களை சந்தித்தார் அநுர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-tamilmirrorlk-a7e16be4)
-- 2025-09-29 | `virakesarilk-60a6567c` | அநுரவின் 12 மாதகால ஆட்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-60a6567c)
-- 2025-09-29 | `lankadeepalk-7bada99c` | මහනුවර මාර්ගයේ බස් රථ අනතුරින් 12ක්‌ රෝහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-7bada99c)
-- 2025-09-29 | `tamilmirrorlk-81ff8c1c` | பேருந்து விபத்தில் 12 பேர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-tamilmirrorlk-81ff8c1c)
 
 ---
 

@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-30 01:38:49",
-  "n_docs": 78107,
+  "time_updated": "2025-09-30 02:02:48",
+  "n_docs": 78113,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 78107,
+  "n_docs_with_text": 78113,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-09-30",
-  "dataset_size": 1140812338,
+  "dataset_size": 1140833614,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -29,19 +29,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-30-dailyftlk-cfd7cd4f",
-    "num": "dailyftlk-cfd7cd4f",
+    "doc_id": "2025-09-30-dailyftlk-e6693d72",
+    "num": "dailyftlk-e6693d72",
     "date_str": "2025-09-30",
-    "description": "US tariffs: Implications and opportunities for Sri Lanka",
-    "url_metadata": "https://www.ft.lk/opinion/US-tariffs-Implications-and-opportunities-for-Sri-Lanka/14-782370",
+    "description": "US investment outlook flags Sri Lanka\u2019s stalled SOE privatisation, labour laws",
+    "url_metadata": "https://www.ft.lk/business/US-investment-outlook-flags-Sri-Lanka-s-stalled-SOE-privatisation-labour-laws/34-782386",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759175036.0
+    "time_ut": 1759177478.0
   }
 }
