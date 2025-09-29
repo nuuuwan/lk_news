@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-29 06:14:54",
-  "n_docs": 77906,
+  "time_updated": "2025-09-29 06:42:58",
+  "n_docs": 77912,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 77906,
+  "n_docs_with_text": 77912,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-09-29",
-  "dataset_size": 1137145231,
+  "dataset_size": 1137273592,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -30,18 +30,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-29-dailyftlk-b9434859",
-    "num": "dailyftlk-b9434859",
+    "doc_id": "2025-09-29-dailyftlk-e80e5f54",
+    "num": "dailyftlk-e80e5f54",
     "date_str": "2025-09-29",
-    "description": "Ruwanthi de Silva joins Eastern Merchants Board",
-    "url_metadata": "https://www.ft.lk/business/Ruwanthi-de-Silva-joins-Eastern-Merchants-Board/34-782307",
+    "description": "85th birthday commemoration of former Speaker Sri Lankabhimanya Karu Jayasuriya",
+    "url_metadata": "https://www.ft.lk/opinion/85th-birthday-commemoration-of-former-Speaker-Sri-Lankabhimanya-Karu-Jayasuriya/14-782312",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759106535.0
+    "time_ut": 1759107061.0
   }
 }
