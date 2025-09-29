@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-09-30 00:23:45",
-  "n_docs": 78102,
+  "time_updated": "2025-09-30 00:39:59",
+  "n_docs": 78106,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 78102,
+  "n_docs_with_text": 78106,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-09-30",
-  "dataset_size": 1140634070,
+  "dataset_size": 1140753595,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -30,18 +30,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-30-dailyftlk-89b46f5c",
-    "num": "dailyftlk-89b46f5c",
+    "doc_id": "2025-09-30-dailyftlk-7b5f5dfe",
+    "num": "dailyftlk-7b5f5dfe",
     "date_str": "2025-09-30",
-    "description": "FCEJ stands in support of the birds, the land and the people of Mannar",
-    "url_metadata": "https://www.ft.lk/opinion/FCEJ-stands-in-support-of-the-birds-the-land-and-the-people-of-Mannar/14-782358",
+    "description": "Building global brands at home: AOD enriches Sri Lanka\u2019s creative economy with another entrepreneurial success",
+    "url_metadata": "https://www.ft.lk/business/Building-global-brands-at-home-AOD-enriches-Sri-Lanka-s-creative-economy-with-another-entrepreneurial-success/34-782363",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759171335.0
+    "time_ut": 1759172638.0
   }
 }

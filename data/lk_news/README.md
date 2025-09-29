@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--30_00:24:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--30_00:40:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,102** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-30**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,106** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-30**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-30-dailyftlk-89b46f5c",
-    "num": "dailyftlk-89b46f5c",
+    "doc_id": "2025-09-30-dailyftlk-7b5f5dfe",
+    "num": "dailyftlk-7b5f5dfe",
     "date_str": "2025-09-30",
-    "description": "FCEJ stands in support of the birds, the land and the people of Mannar",
-    "url_metadata": "https://www.ft.lk/opinion/FCEJ-stands-in-support-of-the-birds-the-land-and-the-people-of-Mannar/14-782358",
+    "description": "Building global brands at home: AOD enriches Sri Lanka\u2019s creative economy with another entrepreneurial success",
+    "url_metadata": "https://www.ft.lk/business/Building-global-brands-at-home-AOD-enriches-Sri-Lanka-s-creative-economy-with-another-entrepreneurial-success/34-782363",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759171335.0
+    "time_ut": 1759172638.0
 }
 ```
 
@@ -39,6 +39,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-30 | `dailyftlk-7b5f5dfe` | Building global brands at home: AOD enriches Sri Lanka’s creative economy with another entrepreneurial success | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-7b5f5dfe)
+- 2025-09-30 | `dailyftlk-65a2487b` | CSLEIS 2025 explores export diversification | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-65a2487b)
+- 2025-09-30 | `dailyftlk-ab3c320b` | HNB partners Sri Lanka Invention Commission to strengthen Sri Lanka’s innovation ecosystem | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-ab3c320b)
+- 2025-09-30 | `tamilmirrorlk-f15c1c65` | ’’அர்ச்சுனாவை எதிர்க்கட்சித் தலைவராக்குங்கள்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-tamilmirrorlk-f15c1c65)
 - 2025-09-30 | `dailyftlk-89b46f5c` | FCEJ stands in support of the birds, the land and the people of Mannar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-89b46f5c)
 - 2025-09-30 | `dailyftlk-ea7b2db6` | Can Gaza be saved by the UN General Assembly through a 1950 Resolution? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-ea7b2db6)
 - 2025-09-29 | `dailyftlk-7daf668f` | Budget 2025: Smiles in every rupee | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-dailyftlk-7daf668f)
@@ -55,10 +59,6 @@ A collection of lk_news documents.
 - 2025-09-29 | `lankadeepalk-7bada99c` | මහනුවර මාර්ගයේ බස් රථ අනතුරින් 12ක්‌ රෝහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-7bada99c)
 - 2025-09-29 | `tamilmirrorlk-81ff8c1c` | பேருந்து விபத்தில் 12 பேர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-tamilmirrorlk-81ff8c1c)
 - 2025-09-29 | `lankadeepalk-172afc87` | හරිනි - රොබෝ එක්ක කතා කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-172afc87)
-- 2025-09-29 | `lankadeepalk-2d307971` | ’’මානිගේ තීරුව. NOT OUT 36!’’ කෘතිය එළිදකියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-lankadeepalk-2d307971)
-- 2025-09-29 | `virakesarilk-fc304037` | ஜனாதிபதிக்கும் ஜப்பான் பாதுகாப்பு அமைச்சருக்கும் இடையில் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-fc304037)
-- 2025-09-29 | `virakesarilk-d797c17c` | ஜனாதிபதிக்கும் ஜப்பான் நிதி அமைச்சருக்கும் இடையே இருதரப்பு பேச்சுவார்த்தை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-d797c17c)
-- 2025-09-29 | `virakesarilk-de6d5c21` | அபிவிருத்தி மற்றும் ஸ்தீரத்தன்மையை ஏற்படுத்த  ஜப்பானுடன் இணைந்து அர்ப்பணிப்பேன் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-29-virakesarilk-de6d5c21)
 
 ---
 
