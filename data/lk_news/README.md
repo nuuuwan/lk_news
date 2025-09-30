@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--30_18:08:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--30_18:34:46-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,294** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-30**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,297** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-30**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-30-virakesarilk-fb484d76",
-    "num": "virakesarilk-fb484d76",
+    "doc_id": "2025-09-30-lankadeepalk-b6ef109b",
+    "num": "lankadeepalk-b6ef109b",
     "date_str": "2025-09-30",
-    "description": "\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0b95\u0bb0\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bcd 14\u0b86\u0bb5\u0ba4\u0bc1 \u0ba8\u0bbe\u0bb3\u0bbe\u0b95 \u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/226517",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1759235580.0
+    "description": "\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7 \u0dc4\u0dd9\u0da7 \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca \u0dc0\u0dbd\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0dc3\u0dc0\u0dc3\u0db8-\u0db4\u0dbb\u0dad\u0dbd\u0db7-\u0dc4\u0da7-\u0d9c\u0dab\u0db8-\u0dc0\u0dbd\u0da7/101-680510",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1759237038.0
 }
 ```
 
@@ -39,7 +39,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-30 | `lankadeepalk-b6ef109b` | අස්වැසුම ප්‍රතිලාභ හෙට ගිණුම් වලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-lankadeepalk-b6ef109b)
+- 2025-09-30 | `lankadeepalk-759eeb98` | මෝදරින් විදෙස් ජීව අත්බෝම්බ හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-lankadeepalk-759eeb98)
 - 2025-09-30 | `virakesarilk-fb484d76` | முத்து நகர் விவசாயிகள் 14ஆவது நாளாக தொடரும் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-fb484d76)
+- 2025-09-30 | `adalk-8cfdf4ec` | මල්ලක තිබී අත්බෝම්බ 10ක් සොයා ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-adalk-8cfdf4ec)
 - 2025-09-30 | `tamilmirrorlk-32e41ec8` | வடக்கு, கிழக்கில் பாடசாலைகளை புனரமைக்க ஜப்பான் உதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-tamilmirrorlk-32e41ec8)
 - 2025-09-30 | `economynextcom-aecc776f` | Sri Lanka reaffirms commitment to UN Committee on Enforced Disappearances | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-economynextcom-aecc776f)
 - 2025-09-30 | `economynextcom-eec2256c` | Sri Lanka 2025 growth kept at 3.9-pct, inflation slashed by ADB to 0.5-pct | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-economynextcom-eec2256c)
@@ -56,9 +59,6 @@ A collection of lk_news documents.
 - 2025-09-30 | `virakesarilk-5ff57549` | பொலிஸ் நிலையத்திற்கு அருகில் கண்டுபிடிக்கப்பட்ட மர்ம பொதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-5ff57549)
 - 2025-09-30 | `virakesarilk-1bd1ff0d` | 76வது இராணுவ ஆண்டு விழாவை முன்னிட்டு கதிர்காமத்தில் இராணுவ கொடிகளுக்கு ஆசிர்வாதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-1bd1ff0d)
 - 2025-09-30 | `adalk-ab13d0b2` | ඉහළ දේශපාලනයේ අල්ලස් ඉල්ලීම අඩුවුණත් ආයතනික දූෂණය අඛණ්ඩව | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-adalk-ab13d0b2)
-- 2025-09-30 | `tamilmirrorlk-81dcac38` | ”7 நிமிடங்களில் ஓட்டுநர் உரிமத்தைப் புதுப்பிக்கலாம்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-tamilmirrorlk-81dcac38)
-- 2025-09-30 | `economynextcom-f6a154b8` | SriLankan Airlines introduces UnionPay for online payments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-economynextcom-f6a154b8)
-- 2025-09-30 | `tamilmirrorlk-682970fd` | “என்னை  பழிவாங்கலாம்”   மவுனம் கலைத்த விஜய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-tamilmirrorlk-682970fd)
 
 ---
 
