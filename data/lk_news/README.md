@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--30_05:47:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--30_06:14:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,133** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-30**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,135** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-30**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-30-virakesarilk-dc21d0f1",
-    "num": "virakesarilk-dc21d0f1",
+    "doc_id": "2025-09-30-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
     "date_str": "2025-09-30",
-    "description": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7 \u0ba4\u0baf\u0bbe\u0bb0\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 100% \u0bb5\u0bb0\u0bbf \u2013 \u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/226447",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/226448",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1759191000.0
+    "time_ut": 1759191720.0
 }
 ```
 
@@ -39,10 +39,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-09-30 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-3a015e4a)
 - 2025-09-30 | `virakesarilk-dc21d0f1` | அமெரிக்காவுக்கு வெளியே தயாராகும் திரைப்படங்களுக்கு 100% வரி – டிரம்ப் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-dc21d0f1)
 - 2025-09-30 | `virakesarilk-20b91dde` | இலங்கையின் முதலீட்டுக் கொள்கைகள் – அமெரிக்க வெளியுறவுத்துறை கவலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-20b91dde)
 - 2025-09-30 | `virakesarilk-f0104e6b` | போதைப்பொருள் வைத்திருந்த குற்றச்சாட்டில் நீதிமன்ற அலுவலக உதவியாளர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-f0104e6b)
 - 2025-09-30 | `virakesarilk-66f20dce` | ரந்தெனிகலையில் பேருந்து விபத்து – 12 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-66f20dce)
+- 2025-09-30 | `tamilmirrorlk-74bcde5e` | ஜனாதிபதி - ஜப்பான் பாதுகாப்பு அமைச்சர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-tamilmirrorlk-74bcde5e)
 - 2025-09-30 | `tamilmirrorlk-6bbc030c` | ஜனாதிபதி- ஜப்பான் நிதி அமைச்சர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-tamilmirrorlk-6bbc030c)
 - 2025-09-30 | `dailyftlk-d05a2f13` | PM calls on new SLAS officers to stand against corruption, irregularities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-d05a2f13)
 - 2025-09-30 | `dailyftlk-a849978b` | BASL defends lawyers’ car passes, says Gazette does not apply | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-a849978b)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-09-30 | `dailyftlk-cfd7cd4f` | US tariffs: Implications and opportunities for Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-cfd7cd4f)
 - 2025-09-30 | `dailyftlk-7b5f5dfe` | Building global brands at home: AOD enriches Sri Lanka’s creative economy with another entrepreneurial success | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-7b5f5dfe)
 - 2025-09-30 | `dailyftlk-65a2487b` | CSLEIS 2025 explores export diversification | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-65a2487b)
-- 2025-09-30 | `dailyftlk-ab3c320b` | HNB partners Sri Lanka Invention Commission to strengthen Sri Lanka’s innovation ecosystem | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-dailyftlk-ab3c320b)
-- 2025-09-30 | `tamilmirrorlk-f15c1c65` | ’’அர்ச்சுனாவை எதிர்க்கட்சித் தலைவராக்குங்கள்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-tamilmirrorlk-f15c1c65)
 
 ---
 
