@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_01:39:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_02:05:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,335** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-09-30**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,337** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-09-30-tamilmirrorlk-26ce0ba1",
-    "num": "tamilmirrorlk-26ce0ba1",
-    "date_str": "2025-09-30",
-    "description": "\u0bae\u0b95\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba4\u0bc7\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb5\u0b9a\u0bb0 \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95-\u0ba4\u0bc7\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb5\u0b9a\u0bb0-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd/175-365560",
+    "doc_id": "2025-10-01-virakesarilk-271a01b5",
+    "num": "virakesarilk-271a01b5",
+    "date_str": "2025-10-01",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd\u2013\u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0ba4\u0bbf\u0ba9\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bae\u0bc8\u0baf\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u2013 \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0ba4\u0bbe\u0b9a",
+    "url_metadata": "https://www.virakesari.lk/article/226532",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1759253826.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1759264380.0
 }
 ```
 
@@ -39,6 +39,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-01 | `virakesarilk-271a01b5` | சிறுவர்–முதியோர் தினம் ஆண்டு முழுவதும் கடமையாக இருக்க வேண்டும் – சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-271a01b5)
+- 2025-10-01 | `virakesarilk-f303d184` | வாசிம் தாஜுதீன் இறப்பதற்கு முன்பு அவரைப் பின்தொடர்ந்த வாகனத்தில் இருந்துள்ளார் - பதில் பொலிஸ் ஊடகப் பேச்சாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-f303d184)
 - 2025-09-30 | `tamilmirrorlk-26ce0ba1` | மகாநாயக்க தேரர்கள் ஜனாதிபதிக்கு அவசர கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-tamilmirrorlk-26ce0ba1)
 - 2025-09-30 | `lankadeepalk-ccb65094` | ජපාන- ශ්‍රී ලංකා පාර්ලිමේන්තු ලීගය ජනපති හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-lankadeepalk-ccb65094)
 - 2025-09-30 | `lankadeepalk-808b73c3` | අපට දැන් හිරේ යනවද?උගන්වනවද? හිතන්න වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-lankadeepalk-808b73c3)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-09-30 | `virakesarilk-98cf1835` | சிரேஷ்ட பொலிஸ் அதிகாரி சதீஷ் கமகேவுக்கு பிணை வெளிநாடு செல்லவும் தடை விதித்தது நீதிமன்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-98cf1835)
 - 2025-09-30 | `virakesarilk-52c713a6` | சாவகச்சேரியில் காருடன் மோட்டார் சைக்கிள் மோதி விபத்து இருவர் படு காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-52c713a6)
 - 2025-09-30 | `lankadeepalk-7aaa1e79` | කිරි නිෂ්පාදනය වැඩි කරන්න  ජපන්- ලංකා ගිවිසුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-lankadeepalk-7aaa1e79)
-- 2025-09-30 | `virakesarilk-8bf5eb1b` | பல மாவட்டங்களில் கடும் வெப்பம் – வானிலை ஆய்வுத் துறை எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-8bf5eb1b)
-- 2025-09-30 | `tamilmirrorlk-175d43f2` | ஸ்ரீமத் ராமாயணத்தில் நடித்த குழந்தை மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-tamilmirrorlk-175d43f2)
 
 ---
 
