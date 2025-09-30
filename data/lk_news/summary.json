@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-01 04:38:44",
-  "n_docs": 78349,
+  "time_updated": "2025-10-01 05:01:10",
+  "n_docs": 78353,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 78349,
+  "n_docs_with_text": 78353,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-01",
-  "dataset_size": 1146113519,
+  "dataset_size": 1146155271,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -35,13 +35,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-01-dailyftlk-a9aba8c7",
-    "num": "dailyftlk-a9aba8c7",
+    "doc_id": "2025-10-01-dailyftlk-6b3e5c68",
+    "num": "dailyftlk-6b3e5c68",
     "date_str": "2025-10-01",
-    "description": "Shashindra Rajapaksa further remanded",
-    "url_metadata": "https://www.ft.lk/news/Shashindra-Rajapaksa-further-remanded/56-782414",
+    "description": "Ambewela unveils exclusive premier consumer promotion",
+    "url_metadata": "https://www.ft.lk/business/Ambewela-unveils-exclusive-premier-consumer-promotion/34-782420",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759273505.0
+    "time_ut": 1759274308.0
   }
 }

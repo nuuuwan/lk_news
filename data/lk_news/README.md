@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_04:39:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_05:01:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,349** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,353** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-01-dailyftlk-a9aba8c7",
-    "num": "dailyftlk-a9aba8c7",
+    "doc_id": "2025-10-01-dailyftlk-6b3e5c68",
+    "num": "dailyftlk-6b3e5c68",
     "date_str": "2025-10-01",
-    "description": "Shashindra Rajapaksa further remanded",
-    "url_metadata": "https://www.ft.lk/news/Shashindra-Rajapaksa-further-remanded/56-782414",
+    "description": "Ambewela unveils exclusive premier consumer promotion",
+    "url_metadata": "https://www.ft.lk/business/Ambewela-unveils-exclusive-premier-consumer-promotion/34-782420",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759273505.0
+    "time_ut": 1759274308.0
 }
 ```
 
@@ -39,6 +39,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-01 | `dailyftlk-6b3e5c68` | Ambewela unveils exclusive premier consumer promotion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-6b3e5c68)
+- 2025-10-01 | `dailyftlk-4e396623` | SL announces desire to build nuclear power plants at IAEA General Conference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-4e396623)
+- 2025-10-01 | `dailyftlk-907cc63b` | Murdered crime figure linked to 2012 Thajudeen case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-907cc63b)
+- 2025-10-01 | `dailyftlk-a05dd483` | AKD meets Nippon Foundation Founder Sasakawa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-a05dd483)
 - 2025-10-01 | `dailyftlk-a9aba8c7` | Shashindra Rajapaksa further remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-a9aba8c7)
 - 2025-10-01 | `dailyftlk-69b2b443` | Indo-Lanka Chamber of Commerce  and Industry hosts Annual General Meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-69b2b443)
 - 2025-10-01 | `dailyftlk-2074a537` | American Chamber  of Commerce  in Sri Lanka appoints Sandun Hapugoda as President at 33rd AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-2074a537)
@@ -55,10 +59,6 @@ A collection of lk_news documents.
 - 2025-10-01 | `virakesarilk-f303d184` | வாசிம் தாஜுதீன் இறப்பதற்கு முன்பு அவரைப் பின்தொடர்ந்த வாகனத்தில் இருந்துள்ளார் - பதில் பொலிஸ் ஊடகப் பேச்சாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-f303d184)
 - 2025-09-30 | `tamilmirrorlk-26ce0ba1` | மகாநாயக்க தேரர்கள் ஜனாதிபதிக்கு அவசர கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-tamilmirrorlk-26ce0ba1)
 - 2025-09-30 | `lankadeepalk-ccb65094` | ජපාන- ශ්‍රී ලංකා පාර්ලිමේන්තු ලීගය ජනපති හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-lankadeepalk-ccb65094)
-- 2025-09-30 | `lankadeepalk-808b73c3` | අපට දැන් හිරේ යනවද?උගන්වනවද? හිතන්න වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-lankadeepalk-808b73c3)
-- 2025-09-30 | `virakesarilk-63a19d64` | SAARC மரபுரிமை மன்றம் 2025 இல் பிரதமர் பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-63a19d64)
-- 2025-09-30 | `lankadeepalk-7cb6e6f2` | ඉන්ධන වර්ග තුනක මිල පහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-lankadeepalk-7cb6e6f2)
-- 2025-09-30 | `lankadeepalk-cd47db4f` | බිරිය සැමියාට සිර මැදිරියේදී කුඩ දීලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-lankadeepalk-cd47db4f)
 
 ---
 
