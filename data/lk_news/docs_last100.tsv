@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-09-30-lankadeepalk-514e4ff4	lankadeepalk-514e4ff4	2025-09-30	උතුර නැගෙනහිර පාසල් සීයක් අලුත් කරන්න ජපානෙන් උදව්වක්	https://www.lankadeepa.lk/latest_news/උතර-නගනහර-පසල-සයක-අලත-කරනන-ජපනන-උදවවක/1-680506	si	lankadeepalk	1759228658.0
+lk_news	2025-09-30-tamilmirrorlk-4011379c	tamilmirrorlk-4011379c	2025-09-30	பொலிஸ் அனுமதிப் பத்திரம் பெறுவது எப்படி?	https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அனுமதிப்-பத்திரம்-பெறுவது-எப்படி/175-365533	ta	tamilmirrorlk	1759228237.0
 lk_news	2025-09-30-lankadeepalk-238f73a2	lankadeepalk-238f73a2	2025-09-30	‘‘ලංකාව පැහැදිලි ප්‍රකාශයක් කළොත් අපි සූදානම්‘‘	https://www.lankadeepa.lk/latest_news/ලකව-පහදල-පරකශයක-කළත-අප-සදනම/1-680504	si	lankadeepalk	1759227919.0
 lk_news	2025-09-30-tamilmirrorlk-dd5d857e	tamilmirrorlk-dd5d857e	2025-09-30	சதீஸ், பிரசன்னவுக்கு பிணை	https://www.tamilmirror.lk/செய்திகள்/சதீஸ்-பிரசன்னவுக்கு-பிணை/175-365532	ta	tamilmirrorlk	1759227371.0
 lk_news	2025-09-30-virakesarilk-2fa4da60	virakesarilk-2fa4da60	2025-09-30	முஸ்லிம் மாணவிகளின் ஆடை தொடர்பில் பிரதமரின் தீர்மானம் வரவேற்கத்தக்கது - வுமென்ஸ் கோப்ஸ் அமைப்பின் தலைவி நிகாஸா ஷர்பீன்	https://www.virakesari.lk/article/226500	ta	virakesarilk	1759227240.0
@@ -35,6 +37,7 @@ lk_news	2025-09-30-virakesarilk-a18e699d	virakesarilk-a18e699d	2025-09-30	கம
 lk_news	2025-09-30-lankadeepalk-997d3363	lankadeepalk-997d3363	2025-09-30	පොලිසියෙන් ඉල්ලූ තහනමට අධිකරණයෙන් දුන් නියෝගය	https://www.lankadeepa.lk/news/පලසයන-ඉලල-තහනමට-අධකරණයන-දන-නයගය/101-680494	si	lankadeepalk	1759219692.0
 lk_news	2025-09-30-adalk-65052ef3	adalk-65052ef3	2025-09-30	ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි සතීෂ් ගමගේට ඇප	https://www.ada.lk/breaking_news/ජ්‍යෙෂ්ඨ-පොලිස්-අධිකාරි-සතීෂ්-ගමගේට-ඇප/11-418811	si	adalk	1759219588.0
 lk_news	2025-09-30-adalk-219be3ff	adalk-219be3ff	2025-09-30	ඉන්දුනීසියාවේ පාසල් ගොඩනැගිල්ලක් කඩා වැටී තිදෙනෙක් මරුට, තවත් පිරිසක් සුන්බුන් අතර	https://www.ada.lk/international/ඉන්දුනීසියාවේ-පාසල්-ගොඩනැගිල්ලක්-කඩා-වැටී-තිදෙනෙක්-මරුට--තවත්-පිරිසක්-සුන්බුන්-අතර/3-418810	si	adalk	1759219479.0
+lk_news	2025-09-30-lankadeepalk-54560247	lankadeepalk-54560247	2025-09-30	’’මට වැරදුණා’’	https://www.lankadeepa.lk/latest_news/මට-වරදණ/1-680493	si	lankadeepalk	1759218865.0
 lk_news	2025-09-30-lankadeepalk-170b055a	lankadeepalk-170b055a	2025-09-30	’’ මට වැරදුණා’’	https://www.lankadeepa.lk/news/මට-වරදණ/101-680493	si	lankadeepalk	1759218865.0
 lk_news	2025-09-30-virakesarilk-2fc01414	virakesarilk-2fc01414	2025-09-30	“ஜென் Z” போராட்டங்கள் ;  அரசாங்கத்தை கலைத்தார் மடகஸ்கார் ஜனாதிபதி	https://www.virakesari.lk/article/226477	ta	virakesarilk	1759218780.0
 lk_news	2025-09-30-virakesarilk-6e8feb10	virakesarilk-6e8feb10	2025-09-30	இன்றைய நாணய மாற்று விகிதம்	https://www.virakesari.lk/article/226485	ta	virakesarilk	1759218720.0
@@ -96,6 +99,3 @@ lk_news	2025-09-30-virakesarilk-f1292592	virakesarilk-f1292592	2025-09-30	கள
 lk_news	2025-09-30-adalk-e27a90d1	adalk-e27a90d1	2025-09-30	ග්‍රාමීය මාර්ග ඉදිකිරීමේදී කුරුණෑගල ප්‍රා. ලේ. 10කට කුඩම්මාගේ සැලකිළි	https://www.ada.lk/breaking_news/ග්‍රාමීය-මාර්ග-ඉදිකිරීමේදී-කුරුණෑගල-ප්‍රා--ලේ--10කට-කුඩම්මාගේ-සැලකිළි/11-418802	si	adalk	1759204852.0
 lk_news	2025-09-30-lankadeepalk-dbd46779	lankadeepalk-dbd46779	2025-09-30	පද්මේගේ අවි ළඟ තබාකත් දෙන්නෙක් අල්ලයි	https://www.lankadeepa.lk/latest_news/පදමග-අව-ළඟ-තබකත-දනනක-අලලය/1-680456	si	lankadeepalk	1759204684.0
 lk_news	2025-09-30-lankadeepalk-7b5b6d5b	lankadeepalk-7b5b6d5b	2025-09-30	පද්මේගේ අවි ළඟ තබාගත් දෙන්නෙක් අල්ලයි	https://www.lankadeepa.lk/latest_news/පදමග-අව-ළඟ-තබගත-දනනක-අලලය/1-680456	si	lankadeepalk	1759204684.0
-lk_news	2025-09-30-adalk-f42b982f	adalk-f42b982f	2025-09-30	කටුනායකින් රු. මිලියනයක මත්පැන් පිටකිරීමට තැත්කළ ව්‍යාපාරියෙක් අල්ලයි	https://www.ada.lk/breaking_news/කටුනායකින්-රු--මිලියනයක-මත්පැන්-පිටකිරීමට-තැත්කළ-ව්‍යාපාරියෙක්-අල්ලයි/11-418801	si	adalk	1759204558.0
-lk_news	2025-09-30-virakesarilk-c0c26384	virakesarilk-c0c26384	2025-09-30	பல்கலைக்கழக விரிவுரையாளர்கள் ஒருநாள் அடையாள பணிப்புறக்கணிப்பு!	https://www.virakesari.lk/article/226458	ta	virakesarilk	1759204260.0
-lk_news	2025-09-30-virakesarilk-cea5a02a	virakesarilk-cea5a02a	2025-09-30	கிராண்ட்பாஸில் சடலமொன்று கண்டுப்பிடிப்பு!	https://www.virakesari.lk/article/226455	ta	virakesarilk	1759203480.0
