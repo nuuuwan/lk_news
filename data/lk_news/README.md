@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_03:01:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_03:18:46-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,339** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,344** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-01-virakesarilk-e40d2f4a",
-    "num": "virakesarilk-e40d2f4a",
+    "doc_id": "2025-10-01-virakesarilk-81636c96",
+    "num": "virakesarilk-81636c96",
     "date_str": "2025-10-01",
-    "description": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc8 \u0baa\u0ba3\u0bb5\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1; \u0ba4\u0bca\u0b95\u0bc8\u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u00a0 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0bb5\u0bbf\u0baa\u0bb0\u0ba4\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/226534",
+    "description": "\u0ba8\u0b9f\u0bbf\u0b95\u0bb0\u0bcd \u0b95\u0ba3\u0bcd\u0ba3\u0bbe \u0bb0\u0bb5\u0bbf \u0ba8\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd '\u0bb5\u0bc7\u0b9f\u0bc1\u0bb5\u0ba9\u0bcd' \u0b87\u0ba3\u0bc8\u0baf \u0ba4\u0bca\u0b9f\u0bb0\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/226539",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1759266240.0
+    "time_ut": 1759268640.0
 }
 ```
 
@@ -39,6 +39,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-01 | `virakesarilk-81636c96` | நடிகர் கண்ணா ரவி நடிக்கும் 'வேடுவன்' இணைய தொடரின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-81636c96)
+- 2025-10-01 | `virakesarilk-3da910b2` | புதுமுக நடிகை சுஷ்மிதா சுரேஷ் நடிக்கும் 'வீர தமிழச்சி' படத்தின் இசை மற்றும் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-3da910b2)
+- 2025-10-01 | `virakesarilk-077399af` | தண்டுவட சீரமைப்பு சிகிச்சையாக பிரபலமடைந்து வரும் டார்ன் தெரபி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-077399af)
+- 2025-10-01 | `virakesarilk-16b12fab` | முச்சக்கரவண்டிகளை பதிவு செய்ய இணையத்தளம் ஒன்று அறிமுகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-16b12fab)
+- 2025-10-01 | `virakesarilk-7db4c35d` | முன்னாள் இராஜாங்க அமைச்சர் பிரசன்ன ரணவீரவுக்கு பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-7db4c35d)
 - 2025-10-01 | `virakesarilk-e40d2f4a` | கொழும்பு முதன்மை பணவீக்கம் அதிகரிப்பு; தொகைமதிப்பு  மற்றும் புள்ளிவிபரத் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-e40d2f4a)
 - 2025-10-01 | `virakesarilk-ad2b89e6` | ஜெனிவா செல்கிறார் சிறிதரன்; பக்க நிகழ்வுகளின் பங்கேற்பார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-ad2b89e6)
 - 2025-10-01 | `virakesarilk-271a01b5` | சிறுவர்–முதியோர் தினம் ஆண்டு முழுவதும் கடமையாக இருக்க வேண்டும் – சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-271a01b5)
@@ -54,11 +59,6 @@ A collection of lk_news documents.
 - 2025-09-30 | `lankadeepalk-e5b852f9` | බඩෝවිට රජිතගේ කොකේන් සමග ගොලයෝ තුනක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-lankadeepalk-e5b852f9)
 - 2025-09-30 | `tamilmirrorlk-b9697ffe` | எரிபொருள் விலைகளில் அதிரடி மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-tamilmirrorlk-b9697ffe)
 - 2025-09-30 | `virakesarilk-d66a3238` | கொழும்பில் மர்மமான முறையில் இருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-d66a3238)
-- 2025-09-30 | `virakesarilk-4c81238e` | இன்று நள்ளிரவு முதல் எரிபொருள் விலை குறைப்பு! -  எரிசக்தி அமைச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-4c81238e)
-- 2025-09-30 | `virakesarilk-5cb52a9b` | மட்டக்குளியில் போதைப்பொருள், போதை மாத்திரையுடன் சந்தேகநபர் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-5cb52a9b)
-- 2025-09-30 | `virakesarilk-3e195cb4` | செய்வினை தோஷத்தில் இருந்து தற்காத்துக் கொள்ளும் பிரத்யேக குறிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-3e195cb4)
-- 2025-09-30 | `economynextcom-afbe787a` | Sri Lanka’s BYD offers hybrids, calls for independent testing of detained EVs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-economynextcom-afbe787a)
-- 2025-09-30 | `virakesarilk-98cf1835` | சிரேஷ்ட பொலிஸ் அதிகாரி சதீஷ் கமகேவுக்கு பிணை வெளிநாடு செல்லவும் தடை விதித்தது நீதிமன்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-09-30-virakesarilk-98cf1835)
 
 ---
 
