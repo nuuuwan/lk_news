@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_20:21:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_20:40:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,544** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,549** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-01-lankadeepalk-cb4e6507",
-    "num": "lankadeepalk-cb4e6507",
+    "doc_id": "2025-10-01-tamilmirrorlk-86cf5e92",
+    "num": "tamilmirrorlk-86cf5e92",
     "date_str": "2025-10-01",
-    "description": "\u0dad\u0dcf\u0da2\u0dd4\u0daf\u0dd3\u0db1\u0dca  \u0d9a\u0dad\u0dcf\u0dc0\u0da7 \u0db1\u0dcf\u0db8\u0dbd\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dad\u0da2\u0daf\u0db1-\u0d9a\u0dad\u0dc0\u0da7-\u0db1\u0db8\u0dbd\u0d9c\u0db1-\u0db4\u0dc5\u0dad\u0dbb\u0d9a/1-680596",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1759327566.0
+    "description": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd 45 \u0baa\u0bc7\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-45-\u0baa\u0bc7\u0bb0\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf/175-365600",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759330498.0
 }
 ```
 
@@ -39,6 +39,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-01 | `tamilmirrorlk-86cf5e92` | பாடசாலை மாணவர்கள் 45 பேர் வைத்தியசாலையில் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-86cf5e92)
+- 2025-10-01 | `virakesarilk-23bdb4f8` | 'அன்புடன் காப்போம் - உலகை வெல்வோம்' : உலக சிறுவர்கள் தின தேசிய விழா - 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-23bdb4f8)
+- 2025-10-01 | `virakesarilk-529b1420` | செம்மணி மனிதப் புதைகுழி வழக்கு: பாதீடு கிடைக்கப்பெறாமையால் நாள் தள்ளப்பட்டது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-529b1420)
 - 2025-10-01 | `lankadeepalk-cb4e6507` | තාජුදීන්  කතාවට නාමල්ගෙන් පිළිතුරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-cb4e6507)
 - 2025-10-01 | `tamilmirrorlk-8d33a747` | முல்லைத்தீவில் 230 முன்பள்ளி மாணவர்களுக்கு அவுஸ்திரேலிய ’தாயகம்’ வானொலியின் அன்பளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-8d33a747)
 - 2025-10-01 | `lankadeepalk-75c569d0` | ලෝක ළමා දිනයේ ගත් ආහාර විස වූ දරුවෝ 58ක් රෝහල් ගත කරති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-75c569d0)
@@ -56,9 +59,6 @@ A collection of lk_news documents.
 - 2025-10-01 | `virakesarilk-a8734ccb` | நாவலப்பிட்டி நகரசபை நூலகத்தில் விஜயதசமி பூஜை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-a8734ccb)
 - 2025-10-01 | `tamilmirrorlk-4d51132b` | மோதரையில் 10 கைக்குண்டுகள் மீட்பு: நீதவான் அதிரடி உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-4d51132b)
 - 2025-10-01 | `economynextcom-353588b6` | Sri Lanka Customs revenue exceeds 37 percent in September | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-economynextcom-353588b6)
-- 2025-10-01 | `virakesarilk-a6904b2e` | கொழும்பில் நீச்சல் தடாகத்தில் மயங்கிய பாடசாலை மாணவனுக்கு மூளை பாதிப்பு ; தந்தை பொலிஸில் முறைப்பாடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-a6904b2e)
-- 2025-10-01 | `virakesarilk-2f225dbe` | மன்னார் காற்றாலை மின் கோபுரங்களுக்கு எதிராக நீதிமன்றில் முன்னெடுக்கப்பட்ட வழக்கு விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-2f225dbe)
-- 2025-10-01 | `economynextcom-a9800467` | Sri Lanka rupee stronger against dollar, bond yields up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-economynextcom-a9800467)
 
 ---
 
