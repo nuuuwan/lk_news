@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_08:29:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_08:58:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,378** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,382** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-01-tamilmirrorlk-1b1cbe77",
-    "num": "tamilmirrorlk-1b1cbe77",
+    "doc_id": "2025-10-01-lankadeepalk-65c3b652",
+    "num": "lankadeepalk-65c3b652",
     "date_str": "2025-10-01",
-    "description": "\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bc8\u0ba9\u0bcd\u0bb8\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0baf \u0ba8\u0bbf\u0bb2\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd: 26 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bc8\u0ba9\u0bcd\u0bb8\u0bbf\u0bb2\u0bcd-\u0baa\u0bbe\u0bb0\u0bbf\u0baf-\u0ba8\u0bbf\u0bb2\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd-26-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/50-365564",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1759285779.0
+    "description": "\u0d9a\u0ddd\u0da7\u0dd2 10\u0d9a\u0dca \u0dc0\u0d82\u0da0\u0dcf \u0d9a\u0dc5 \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0da7-10\u0d9a-\u0dc0\u0da0-\u0d9a\u0dc5-\u0daf\u0db1\u0db1\u0d9a-\u0d85\u0dbd\u0dbd\u0dba/101-680532",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1759288591.0
 }
 ```
 
@@ -39,7 +39,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-01 | `lankadeepalk-65c3b652` | කෝටි 10ක් වංචා කළ දෙන්නෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-65c3b652)
+- 2025-10-01 | `lankadeepalk-6cb594cb` | අද කාලගණය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-6cb594cb)
+- 2025-10-01 | `tamilmirrorlk-ba90337a` | இலங்கை அழைத்து வரப்பட்டார் ’டிங்கர்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-ba90337a)
 - 2025-10-01 | `tamilmirrorlk-1b1cbe77` | பிலிப்பைன்ஸில் பாரிய நிலநடுக்கம்: 26 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-1b1cbe77)
+- 2025-10-01 | `adalk-be54584a` | රජයට දැඩි අප්‍රසාදය පළ කරමින් මහා නායක හිමිවරුන්ගෙන් ජනපතිට ලිපියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-adalk-be54584a)
 - 2025-10-01 | `lankadeepalk-c6b33569` | තාජුඩීන්ගේ මරණය ගැන තොරතුරක් කජ්ජාගේ බිරිය කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-c6b33569)
 - 2025-10-01 | `adalk-acd26726` | තාජුඩීන් ඝාතනය වූ දින පසුපසින් ගමන් කළ වාහනයේ කජ්ජා ඉදලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-adalk-acd26726)
 - 2025-10-01 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-3a015e4a)
@@ -55,10 +59,6 @@ A collection of lk_news documents.
 - 2025-10-01 | `dailyftlk-a9aba8c7` | Shashindra Rajapaksa further remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-a9aba8c7)
 - 2025-10-01 | `dailyftlk-69b2b443` | Indo-Lanka Chamber of Commerce  and Industry hosts Annual General Meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-69b2b443)
 - 2025-10-01 | `dailyftlk-2074a537` | American Chamber  of Commerce  in Sri Lanka appoints Sandun Hapugoda as President at 33rd AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-2074a537)
-- 2025-10-01 | `tamilmirrorlk-2af909f7` | பால் உற்பத்தியை மேம்படுத்தல் தொடர்பில் ஒப்பந்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-2af909f7)
-- 2025-10-01 | `virakesarilk-0cdc9044` | ரெபல் ஸ்டார்' பிரபாஸின் 'தி ராஜா சாப்' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-0cdc9044)
-- 2025-10-01 | `virakesarilk-81636c96` | நடிகர் கண்ணா ரவி நடிக்கும் 'வேடுவன்' இணைய தொடரின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-81636c96)
-- 2025-10-01 | `virakesarilk-3da910b2` | புதுமுக நடிகை சுஷ்மிதா சுரேஷ் நடிக்கும் 'வீர தமிழச்சி' படத்தின் இசை மற்றும் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-3da910b2)
 
 ---
 
