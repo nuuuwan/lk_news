@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-01 21:04:51",
-  "n_docs": 78551,
+  "time_updated": "2025-10-01 21:19:45",
+  "n_docs": 78552,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 78551,
+  "n_docs_with_text": 78552,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-01",
-  "dataset_size": 1149484437,
+  "dataset_size": 1149549760,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -29,8 +29,8 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
