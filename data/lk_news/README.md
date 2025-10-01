@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_06:18:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_07:07:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,372** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,375** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-01-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2025-10-01-lankadeepalk-c6b33569",
+    "num": "lankadeepalk-c6b33569",
     "date_str": "2025-10-01",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/226541",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1759278480.0
+    "description": "\u0dad\u0dcf\u0da2\u0dd4\u0da9\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dbb\u0dab\u0dba \u0d9c\u0dd0\u0db1 \u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0d9a\u0dca \u0d9a\u0da2\u0dca\u0da2\u0dcf\u0d9c\u0dda \u0db6\u0dd2\u0dbb\u0dd2\u0dba \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dad\u0da2\u0da9\u0db1\u0d9c-\u0db8\u0dbb\u0dab\u0dba-\u0d9c\u0db1-\u0dad\u0dbb\u0dad\u0dbb\u0d9a-\u0d9a\u0da2\u0da2\u0d9c-\u0db6\u0dbb\u0dba-\u0d9a\u0dba\u0dba/101-680530",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1759281864.0
 }
 ```
 
@@ -39,6 +39,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-01 | `lankadeepalk-c6b33569` | තාජුඩීන්ගේ මරණය ගැන තොරතුරක් කජ්ජාගේ බිරිය කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-c6b33569)
 - 2025-10-01 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-3a015e4a)
 - 2025-10-01 | `dailyftlk-b76010dc` | Gotabaya: Untold achievements | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-b76010dc)
 - 2025-10-01 | `dailyftlk-0be25218` | Lacklustre Government, blessed by the Opposition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-0be25218)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-10-01 | `virakesarilk-3da910b2` | புதுமுக நடிகை சுஷ்மிதா சுரேஷ் நடிக்கும் 'வீர தமிழச்சி' படத்தின் இசை மற்றும் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-3da910b2)
 - 2025-10-01 | `virakesarilk-077399af` | தண்டுவட சீரமைப்பு சிகிச்சையாக பிரபலமடைந்து வரும் டார்ன் தெரபி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-077399af)
 - 2025-10-01 | `virakesarilk-16b12fab` | முச்சக்கரவண்டிகளை பதிவு செய்ய இணையத்தளம் ஒன்று அறிமுகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-16b12fab)
-- 2025-10-01 | `virakesarilk-7db4c35d` | முன்னாள் இராஜாங்க அமைச்சர் பிரசன்ன ரணவீரவுக்கு பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-7db4c35d)
 
 ---
 
