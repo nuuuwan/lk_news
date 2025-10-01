@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_17:02:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_17:19:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,497** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,506** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-01-lankadeepalk-6b980deb",
-    "num": "lankadeepalk-6b980deb",
+    "doc_id": "2025-10-01-lankadeepalk-3b963392",
+    "num": "lankadeepalk-3b963392",
     "date_str": "2025-10-01",
-    "description": "\u0dc4\u0dd0\u0da7 \u0daf\u0dcf\u0dc4\u0d9a\u0da7 \u0d85\u0dbd\u0dd4\u0dad\u0dd2\u0db1\u0dca \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc4\u0da7-\u0daf\u0dc4\u0d9a\u0da7-\u0d85\u0dbd\u0dad\u0db1-\u0dbb\u0d9a\u0dba/101-680582",
+    "description": "\u0db8\u0ddd\u0daf\u0dbb\u0dd2\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd6 \u0db6\u0ddd\u0db8\u0dca\u0db6 10\u0dba\u0dda \u0dbb\u0dc3 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0d9a \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0d9a\u0dd0\u0db3\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0daf\u0dbb\u0db1-\u0dc4\u0db8\u0dc0-\u0db6\u0db8\u0db6-10\u0dba-\u0dbb\u0dc3-\u0db4\u0dbb\u0d9a\u0dc2\u0d9a-\u0dc0\u0dbb\u0dad-\u0d9a\u0db3\u0dc0\u0dba/101-680586",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1759317953.0
+    "time_ut": 1759318972.0
 }
 ```
 
@@ -39,8 +39,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-01 | `lankadeepalk-3b963392` | මෝදරින් හමුවූ බෝම්බ 10යේ රස පරීක්ෂක වාර්තා කැඳවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-3b963392)
+- 2025-10-01 | `virakesarilk-70fb5d81` | தெஹியத்தகண்டிய ஆதார வைத்தியசாலையின் தற்போதைய  நிலைமையை ஆராய குழு நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-70fb5d81)
+- 2025-10-01 | `virakesarilk-940fa249` | கிளங்கன் வைத்தியசாலை வெளிநோயளர் பிரிவுக்கு வாங்கு கதிரைகள் வழங்கி வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-940fa249)
+- 2025-10-01 | `lankadeepalk-54dae789` | ’’ලංකාවට ලෝකයෙන් ඉහළ පිළිගැනීමක්’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-54dae789)
+- 2025-10-01 | `lankadeepalk-6e1e1a9c` | තාබුගලට අධිකරණයේ පෙනී සිටින්නැයි නියෝග | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-6e1e1a9c)
+- 2025-10-01 | `lankadeepalk-c74a61e1` | කුලී රථ රියදුරෝත් මැතිසබයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-c74a61e1)
+- 2025-10-01 | `virakesarilk-5e56000a` | பதுளையில் கடும் வெயில் ; வறட்சியினால் குடிநீர் பற்றாக்குறை ; விவசாய நடவடிக்கைகளும் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-5e56000a)
 - 2025-10-01 | `lankadeepalk-6b980deb` | හැට දාහකට අලුතින් රැකියා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-6b980deb)
 - 2025-10-01 | `lankadeepalk-0b837de1` | ඇමෙරිකානු ආණ්ඩුව වසා දමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-0b837de1)
+- 2025-10-01 | `virakesarilk-2a99b5ff` | பிணை நிபந்தனைகளை மீறிய பாகிஸ்தான் பிரஜையை கைதுசெய்ய பொதுமக்களிடம் உதவி கோரல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-2a99b5ff)
 - 2025-10-01 | `virakesarilk-7d85c1f3` | கண்டி, மாத்தளையில் பொது மக்களின் பாவனைக்கு  வழங்கப்படவுள்ள இரண்டு சுகாதார நல்வாழ்வு மையங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-7d85c1f3)
 - 2025-10-01 | `tamilmirrorlk-3d7a2db6` | உயிரை மாய்த்த   இராணுவ வீரர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-3d7a2db6)
 - 2025-10-01 | `tamilmirrorlk-082d807f` | சிறுவர்  தினத்தன்று  ஆசிரியரை தாக்கிய மாணவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-082d807f)
@@ -51,14 +59,6 @@ A collection of lk_news documents.
 - 2025-10-01 | `virakesarilk-84595e26` | திருட்டு சம்பவத்துடன் தொடர்புடைய பெண்ணை கைதுசெய்ய பொதுமக்களிடம் உதவி கோரல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-84595e26)
 - 2025-10-01 | `tamilmirrorlk-9fd7dbbe` | வருகிறது சிலிசிலி வரி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-9fd7dbbe)
 - 2025-10-01 | `tamilmirrorlk-415a4980` | சிலிசிலி பேக்குக்கு வரி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-415a4980)
-- 2025-10-01 | `virakesarilk-a7ce924e` | ஐ. நா. மக்கள் தொகை நிதியத்தின் பொறுப்பதிகாரிக்கும் சுகாதாரம் மற்றும் ஊடகத்துறை அமைச்சருக்கிடையில் சந்திப்பு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-a7ce924e)
-- 2025-10-01 | `virakesarilk-a029bde7` | இலஞ்ச ஊழல் ஆணைக்குழுவின் பணிப்பாளர் நாயகம் பதவி விலக வேண்டும் - பொதுஜன பெரமுன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-a029bde7)
-- 2025-10-01 | `virakesarilk-2b413ec2` | சீன அனுசரணையில் தர்கா நகர வைத்தியசாலையில் 3 மாடிகளைக் கொண்ட நோயாளர் பராமரிப்பு வளாகம் திறப்பு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-2b413ec2)
-- 2025-10-01 | `lankadeepalk-5d619773` | පාසල් සිසු වලියෙන් ළමා දිනයත් හබක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-5d619773)
-- 2025-10-01 | `virakesarilk-c672a72c` | தொழில் சந்தையை இலக்கு வைத்தே அரசாங்கம் தொழிற்கல்வியை ஊக்குவிக்கின்றது - பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-c672a72c)
-- 2025-10-01 | `adalk-2f76d055` | අපේ ආර්ථිකය විශාල අවදානමක තියෙන්නේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-adalk-2f76d055)
-- 2025-10-01 | `virakesarilk-dd03d415` | சிறுவர்களின் பாதுகாப்பை உறுதிப்படுத்த அரசாங்கம் முழு அர்ப்பணிப்புடன் செயல்படும் - பிரதமர் ஹரிணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-dd03d415)
-- 2025-10-01 | `virakesarilk-1fe6a34b` | கடலுக்கு சென்று காணாமல்போன நபரை மூன்றாவது நாளாக தேடும் நடவடிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-1fe6a34b)
 
 ---
 
