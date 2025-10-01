@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_09:26:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_09:41:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,385** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,390** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.1 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-01-lankadeepalk-11cadc93",
-    "num": "lankadeepalk-11cadc93",
+    "doc_id": "2025-10-01-tamilmirrorlk-e0562937",
+    "num": "tamilmirrorlk-e0562937",
     "date_str": "2025-10-01",
-    "description": "\u2018\u0da7\u0dd2\u0db1\u0dca\u0d9a\u0dbb\u0dca\u2018 \u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dad\u0ddc\u0da7\u0dda\u0daf\u0dd3 \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0da7\u0db1\u0d9a\u0dbb-\u0d9c\u0dc0\u0db1\u0dad\u0da7\u0daf-\u0d85\u0dbd\u0dbd\u0dba/101-680534",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1759290253.0
+    "description": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0baf \u0baa\u0bc7\u0bb0\u0bb0\u0b9a\u0bb0\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0baf-\u0baa\u0bc7\u0bb0\u0bb0\u0b9a\u0bb0\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/175-365567",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759291428.0
 }
 ```
 
@@ -39,6 +39,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-01 | `tamilmirrorlk-e0562937` | ஜப்பானிய பேரரசரை சந்தித்தார் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-e0562937)
+- 2025-10-01 | `virakesarilk-221e749e` | அரசு சுற்றுலாத் துறையை மேம்படுத்த பெரும் பங்களிப்பைச் செய்து வருகிறது -  மத்திய மாகாண ஆளுநர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-221e749e)
+- 2025-10-01 | `virakesarilk-099f9045` | ஆடைத்தொழிற்சாலை ஊழியர்களை ஏற்றிச்சென்ற பஸ் ஒட்டுசுட்டானில் விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-099f9045)
 - 2025-10-01 | `lankadeepalk-11cadc93` | ‘ටින්කර්‘ ගුවන්තොටේදී අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-11cadc93)
 - 2025-10-01 | `lankadeepalk-ea2d528b` | මධ්‍යම පරිසර අධිකාරියත් “ගව්පේ”ට වහ වැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-ea2d528b)
 - 2025-10-01 | `tamilmirrorlk-6b0590ce` | வெப்பநிலை குறித்து விடுக்கப்பட்ட எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-6b0590ce)
@@ -56,9 +59,6 @@ A collection of lk_news documents.
 - 2025-10-01 | `dailyftlk-303280af` | Confirmation bias: Silently destroying meritocracy, objectivity and fairness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-303280af)
 - 2025-10-01 | `tamilmirrorlk-0e2e5375` | ஜோதிட நிலையம் சுற்றிவளைப்பு: இந்தியர்கள் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-0e2e5375)
 - 2025-10-01 | `dailyftlk-6b3e5c68` | Ambewela unveils exclusive premier consumer promotion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-6b3e5c68)
-- 2025-10-01 | `dailyftlk-4e396623` | SL announces desire to build nuclear power plants at IAEA General Conference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-4e396623)
-- 2025-10-01 | `dailyftlk-907cc63b` | Murdered crime figure linked to 2012 Thajudeen case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-907cc63b)
-- 2025-10-01 | `dailyftlk-a05dd483` | AKD meets Nippon Foundation Founder Sasakawa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-dailyftlk-a05dd483)
 
 ---
 
