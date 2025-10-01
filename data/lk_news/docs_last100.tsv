@@ -1,5 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
 lk_news	2025-10-01-lankadeepalk-c6b33569	lankadeepalk-c6b33569	2025-10-01	තාජුඩීන්ගේ මරණය ගැන තොරතුරක් කජ්ජාගේ බිරිය කියයි	https://www.lankadeepa.lk/news/තජඩනග-මරණය-ගන-තරතරක-කජජග-බරය-කයය/101-680530	si	lankadeepalk	1759281864.0
+lk_news	2025-10-01-adalk-acd26726	adalk-acd26726	2025-10-01	තාජුඩීන් ඝාතනය වූ දින පසුපසින් ගමන් කළ වාහනයේ කජ්ජා ඉදලා	https://www.ada.lk/breaking_news/තාජුඩීන්-ඝාතනය-වූ-දින-පසුපසින්-ගමන්-කළ-වාහනයේ-කජ්ජා-ඉදලා/11-418828	si	adalk	1759278621.0
 lk_news	2025-10-01-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-10-01	இன்றைய வானிலை	https://www.virakesari.lk/article/226541	ta	virakesarilk	1759278480.0
 lk_news	2025-10-01-dailyftlk-b76010dc	dailyftlk-b76010dc	2025-10-01	Gotabaya: Untold achievements	https://www.ft.lk/columns/Gotabaya-Untold-achievements/4-782440	en	dailyftlk	1759277767.0
 lk_news	2025-10-01-dailyftlk-0be25218	dailyftlk-0be25218	2025-10-01	Lacklustre Government, blessed by the Opposition	https://www.ft.lk/opinion/Lacklustre-Government-blessed-by-the-Opposition/14-782439	en	dailyftlk	1759277427.0
@@ -66,6 +67,7 @@ lk_news	2025-09-30-virakesarilk-8ad0ce6f	virakesarilk-8ad0ce6f	2025-09-30	மன
 lk_news	2025-09-30-virakesarilk-3107c6f6	virakesarilk-3107c6f6	2025-09-30	இந்தியர்கள் இலங்கை கடலில்  சட்டவிரோதமாக மீன்பிடிப்பதை நிறுத்த தேசிய மக்கள் சக்தி அரசாங்கம் அர்த்தமுடைய நடவடிக்கை எடுக்க வேண்டும்	https://www.virakesari.lk/article/226515	ta	virakesarilk	1759235940.0
 lk_news	2025-09-30-virakesarilk-70c0a29b	virakesarilk-70c0a29b	2025-09-30	ஆசிரியர், அதிபர் இடமாற்றங்களை சமநிலைப்படுத்தும் நடவடிக்கையை துரிதப்படுத்தவும் - பிரதமர் ஹரிணி	https://www.virakesari.lk/article/226518	ta	virakesarilk	1759235820.0
 lk_news	2025-09-30-virakesarilk-fb484d76	virakesarilk-fb484d76	2025-09-30	முத்து நகர் விவசாயிகள் 14ஆவது நாளாக தொடரும் போராட்டம்	https://www.virakesari.lk/article/226517	ta	virakesarilk	1759235580.0
+lk_news	2025-09-30-virakesarilk-6905bcb3	virakesarilk-6905bcb3	2025-09-30	சிறுவர்கள், முதியவர்கள் என்ற இரண்டு தலைமுறையினரின் உரிமைகள், நலனை பாதுகாக்க அரசாங்கம் முழுமையாக உறுதிபூண்டுள்ளது - ஜனாதிபதி	https://www.virakesari.lk/article/226516	ta	virakesarilk	1759234980.0
 lk_news	2025-09-30-adalk-8cfdf4ec	adalk-8cfdf4ec	2025-09-30	මල්ලක තිබී අත්බෝම්බ 10ක් සොයා ගනියි	https://www.ada.lk/breaking_news/මල්ලක-තිබී-අත්බෝම්බ-10ක්-සොයා-ගනියි/11-418826	si	adalk	1759234716.0
 lk_news	2025-09-30-tamilmirrorlk-32e41ec8	tamilmirrorlk-32e41ec8	2025-09-30	வடக்கு, கிழக்கில் பாடசாலைகளை புனரமைக்க ஜப்பான் உதவி	https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கில்-பாடசாலைகளை-புனரமைக்க-ஜப்பான்-உதவி/175-365541	ta	tamilmirrorlk	1759234221.0
 lk_news	2025-09-30-economynextcom-aecc776f	economynextcom-aecc776f	2025-09-30	Sri Lanka reaffirms commitment to UN Committee on Enforced Disappearances	https://economynext.com/sri-lanka-reaffirms-commitment-to-un-committee-on-enforced-disappearances-242298/	en	economynextcom	1759234200.0
@@ -97,5 +99,3 @@ lk_news	2025-09-30-economynextcom-1f165f1c	economynextcom-1f165f1c	2025-09-30	Sr
 lk_news	2025-09-30-tamilmirrorlk-4011379c	tamilmirrorlk-4011379c	2025-09-30	பொலிஸ் அனுமதிப் பத்திரம் பெறுவது எப்படி?	https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அனுமதிப்-பத்திரம்-பெறுவது-எப்படி/175-365533	ta	tamilmirrorlk	1759228237.0
 lk_news	2025-09-30-adalk-bcf1481b	adalk-bcf1481b	2025-09-30	නඩුව සමතයට යූ ටියුබ් ජනපති ට්‍රම්ප්ට ඩො.මි. 24.5ක් ගෙවයි	https://www.ada.lk/technology/නඩුව-සමතයට-යූ-ටියුබ්-ජනපති-ට්‍රම්ප්ට-ඩො-මි--24-5ක්-ගෙවයි/5-418822	si	adalk	1759228188.0
 lk_news	2025-09-30-lankadeepalk-238f73a2	lankadeepalk-238f73a2	2025-09-30	‘‘ලංකාව පැහැදිලි ප්‍රකාශයක් කළොත් අපි සූදානම්‘‘	https://www.lankadeepa.lk/latest_news/ලකව-පහදල-පරකශයක-කළත-අප-සදනම/1-680504	si	lankadeepalk	1759227919.0
-lk_news	2025-09-30-bbccomsinhala-b5b9166e	bbccomsinhala-b5b9166e	2025-09-30	වසර 13කට පසු තාජුඩීන්ගේ මෝටර් රිය පසුපස ලුහුබැඳ ගිය සැකකරු ගැන හෙළිවූ අයුරු	https://www.bbc.com/sinhala/articles/cpd95wvdlexo	si	bbccomsinhala	1759227894.0
-lk_news	2025-09-30-tamilmirrorlk-dd5d857e	tamilmirrorlk-dd5d857e	2025-09-30	சதீஸ், பிரசன்னவுக்கு பிணை	https://www.tamilmirror.lk/செய்திகள்/சதீஸ்-பிரசன்னவுக்கு-பிணை/175-365532	ta	tamilmirrorlk	1759227371.0
