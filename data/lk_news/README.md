@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_07:33:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_08:08:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,599** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,601** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-02-dailyftlk-2dc7fd80",
-    "num": "dailyftlk-2dc7fd80",
+    "doc_id": "2025-10-02-lankadeepalk-1de9c5ea",
+    "num": "lankadeepalk-1de9c5ea",
     "date_str": "2025-10-02",
-    "description": "DSI Samson Group strengthens leadership with 14-member team",
-    "url_metadata": "https://www.ft.lk/business/DSI-Samson-Group-strengthens-leadership-with-14-member-team/34-782487",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1759370072.0
+    "description": "\u0d85\u0daf \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0daf-\u0d9a\u0dbd\u0d9c\u0dab\u0dba/101-680601",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1759372044.0
 }
 ```
 
@@ -39,6 +39,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-02 | `lankadeepalk-1de9c5ea` | අද කාලගුණය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-1de9c5ea)
 - 2025-10-02 | `dailyftlk-2dc7fd80` | DSI Samson Group strengthens leadership with 14-member team | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-2dc7fd80)
 - 2025-10-02 | `dailyftlk-dfce545f` | Trailblazing CA Sri Lankans shine at SAFA Women Leadership Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-dfce545f)
 - 2025-10-02 | `dailyftlk-0fc80eba` | OSC wins Gold at International ARC Awards in New York | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-0fc80eba)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-10-02 | `dailyftlk-a36aef55` | Weapons cache uncovered near Weheragala reservoir | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-a36aef55)
 - 2025-10-02 | `dailyftlk-35bc9e29` | Keheliya asset case set for pre-trial conference in October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-35bc9e29)
 - 2025-10-02 | `tamilmirrorlk-37e51f05` | டிசம்பரில் இந்தியா செல்கின்றார் புடின் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-37e51f05)
-- 2025-10-02 | `tamilmirrorlk-8500816a` | விஜய்யின் பிரச்சாரம் 2 வாரங்களுக்கு ரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-8500816a)
 
 ---
 

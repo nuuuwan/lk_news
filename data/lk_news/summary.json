@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-02 07:33:20",
-  "n_docs": 78599,
+  "time_updated": "2025-10-02 08:07:38",
+  "n_docs": 78601,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 78599,
+  "n_docs_with_text": 78601,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-02",
-  "dataset_size": 1150260771,
+  "dataset_size": 1150464299,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -35,13 +35,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-02-dailyftlk-2dc7fd80",
-    "num": "dailyftlk-2dc7fd80",
+    "doc_id": "2025-10-02-lankadeepalk-1de9c5ea",
+    "num": "lankadeepalk-1de9c5ea",
     "date_str": "2025-10-02",
-    "description": "DSI Samson Group strengthens leadership with 14-member team",
-    "url_metadata": "https://www.ft.lk/business/DSI-Samson-Group-strengthens-leadership-with-14-member-team/34-782487",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1759370072.0
+    "description": "\u0d85\u0daf \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0daf-\u0d9a\u0dbd\u0d9c\u0dab\u0dba/101-680601",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1759372044.0
   }
 }
