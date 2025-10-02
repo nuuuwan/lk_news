@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_16:41:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_17:00:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,740** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,744** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-02-virakesarilk-541e998e",
-    "num": "virakesarilk-541e998e",
+    "doc_id": "2025-10-02-lankadeepalk-fad5a5bb",
+    "num": "lankadeepalk-fad5a5bb",
     "date_str": "2025-10-02",
-    "description": "\u0b95\u0bbe\u0bb2\u0bbf \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc0 \u0baa\u0bb0\u0bb5\u0bb2\u0bcd!",
-    "url_metadata": "https://www.virakesari.lk/article/226704",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1759402980.0
+    "description": "\u0db1\u0da9\u0dd4 \u0dc3\u0dcf\u0d9a\u0dca\u0dc2\u0dd2 \u0dc0\u0dc3\u0dbb \u0d9c\u0dab\u0db1\u0d9a\u0da7 \u0db4\u0dc3\u0dd4 \u0d86\u0db4\u0dc3\u0dd4 \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8 \u0d91\u0dad\u0dbb\u0db8\u0dca \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a \u0db1\u0dd1",
+    "url_metadata": "https://www.lankadeepa.lk/visheshanga/\u0db1\u0da9-\u0dc3\u0d9a\u0dc2-\u0dc0\u0dc3\u0dbb-\u0d9c\u0dab\u0db1\u0d9a\u0da7-\u0db4\u0dc3-\u0d86\u0db4\u0dc3-\u0dbd\u0db6-\u0daf\u0db8-\u0d91\u0dad\u0dbb\u0db8-\u0dc3\u0dbb\u0dae\u0d9a-\u0db1/26-680654",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1759404425.0
 }
 ```
 
@@ -39,6 +39,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-02 | `lankadeepalk-fad5a5bb` | නඩු සාක්ෂි වසර ගණනකට පසු ආපසු ලබා දීම එතරම් සාර්ථක නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-fad5a5bb)
+- 2025-10-02 | `lankadeepalk-29a326ca` | වඳුරු ලෙඩේ මිනිසාටත් බෝ විය හැකියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-29a326ca)
+- 2025-10-02 | `lankadeepalk-b07b2e05` | ෂාරුක් ඉන්දියානූ බිලියනපතියන්ගේ ලැයිස්තුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-b07b2e05)
+- 2025-10-02 | `lankadeepalk-7304965f` | SVAT අහිමි කරන්න එපා - සජිත් ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-7304965f)
 - 2025-10-02 | `virakesarilk-541e998e` | காலி சிறைச்சாலையில் தீ பரவல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-541e998e)
 - 2025-10-02 | `lankadeepalk-cf0c4681` | අල - ලූණු ගොවියාට සාධාරණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-cf0c4681)
 - 2025-10-02 | `lankadeepalk-9ae500e4` | මුදල් කමිටුව නැතිව ටෙන්ඩර් විවෘත කිරීම කල් යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-9ae500e4)
@@ -55,10 +59,6 @@ A collection of lk_news documents.
 - 2025-10-02 | `lankadeepalk-9baf497e` | මත්ද්‍රව්‍ය ජාවාරම කවදා නිමවේද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-9baf497e)
 - 2025-10-02 | `tamilmirrorlk-d1809741` | ரிஷாத்தின் மனுவுக்கு திகதி குறிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-d1809741)
 - 2025-10-02 | `economynextcom-9a2ca4fa` | Sri Lanka stocks close up after Fitch confirms rating | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-economynextcom-9a2ca4fa)
-- 2025-10-02 | `virakesarilk-f3befa92` | முன்னாள் அமைச்சர் ரிஷாத் பதியுதீனின் மனு மீதான விசாரணை மார்ச் மாதம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-f3befa92)
-- 2025-10-02 | `tamilmirrorlk-c94a3d40` | பாடசாலையின் படலையை பூட்டி  மாணவர்கள் ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-c94a3d40)
-- 2025-10-02 | `lankadeepalk-749fd675` | ඉගෙනුමට ගිය සරසවි ඇදුරිය රට පැනලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-749fd675)
-- 2025-10-02 | `adalk-ff403f1b` | සීනිමෝදරින් ඇල්ලූ අයිස් ලංකාවට ගෙනා බෝට්ටුව හා එහි හිමිකරු අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-adalk-ff403f1b)
 
 ---
 
