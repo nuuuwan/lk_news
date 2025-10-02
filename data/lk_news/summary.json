@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-02 05:17:47",
-  "n_docs": 78563,
+  "time_updated": "2025-10-02 05:46:40",
+  "n_docs": 78577,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 78563,
+  "n_docs_with_text": 78577,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-01",
-  "dataset_size": 1149909119,
+  "dataset_size": 1149978415,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -35,13 +35,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-01-colombotelegraphcom-d8036124",
-    "num": "colombotelegraphcom-d8036124",
+    "doc_id": "2025-10-01-islandlk-edf87ab0",
+    "num": "islandlk-edf87ab0",
     "date_str": "2025-10-01",
-    "description": "A Chief Negotiator Would Be Instrumental For NPP In Finalizing ETCA",
-    "url_metadata": "https://www.colombotelegraph.com/index.php/a-chief-negotiator-would-be-instrumental-for-npp-in-finalizing-etca/",
+    "description": "Carrot face mask \u2026",
+    "url_metadata": "http://island.lk/carrot-face-mask-2/",
     "lang": "en",
-    "newspaper_id": "colombotelegraphcom",
-    "time_ut": 1759337184.0
+    "newspaper_id": "islandlk",
+    "time_ut": 1759342020.0
   }
 }
