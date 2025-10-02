@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_08:08:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_08:36:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,601** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,605** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-02-lankadeepalk-1de9c5ea",
-    "num": "lankadeepalk-1de9c5ea",
+    "doc_id": "2025-10-02-tamilmirrorlk-0a595355",
+    "num": "tamilmirrorlk-0a595355",
     "date_str": "2025-10-02",
-    "description": "\u0d85\u0daf \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0daf-\u0d9a\u0dbd\u0d9c\u0dab\u0dba/101-680601",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1759372044.0
+    "description": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0ba4\u0bbf\u0bb5\u0bbf\u0b9f \u0bb5\u0bbf\u0b9a\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95-\u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0bb5\u0ba4\u0bbf\u0bb5\u0bbf\u0b9f-\u0bb5\u0bbf\u0b9a\u0bbe/175-365617",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759372852.0
 }
 ```
 
@@ -39,7 +39,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-02 | `tamilmirrorlk-0a595355` | வர்த்தக நோக்கில் வெளிநாட்டவருக்கு இலங்கை வதிவிட விசா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-0a595355)
 - 2025-10-02 | `lankadeepalk-1de9c5ea` | අද කාලගුණය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-1de9c5ea)
+- 2025-10-02 | `virakesarilk-f25af9fd` | சட்டவிரோதமாக கொண்டு வரப்பட்ட சிகரெட்டுகளுடன் விமான நிலையத்தில் இந்திய பிரஜை கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-f25af9fd)
 - 2025-10-02 | `dailyftlk-2dc7fd80` | DSI Samson Group strengthens leadership with 14-member team | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-2dc7fd80)
 - 2025-10-02 | `dailyftlk-dfce545f` | Trailblazing CA Sri Lankans shine at SAFA Women Leadership Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-dfce545f)
 - 2025-10-02 | `dailyftlk-0fc80eba` | OSC wins Gold at International ARC Awards in New York | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-0fc80eba)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-10-02 | `dailyftlk-59244d07` | Govt. to fast-track SL’s consular and immigration services | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-59244d07)
 - 2025-10-02 | `dailyftlk-ffb974eb` | Rs. 1 b China-funded ward complex opens at Dharga Town Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-ffb974eb)
 - 2025-10-02 | `dailyftlk-a36aef55` | Weapons cache uncovered near Weheragala reservoir | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-a36aef55)
-- 2025-10-02 | `dailyftlk-35bc9e29` | Keheliya asset case set for pre-trial conference in October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-35bc9e29)
-- 2025-10-02 | `tamilmirrorlk-37e51f05` | டிசம்பரில் இந்தியா செல்கின்றார் புடின் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-37e51f05)
 
 ---
 
