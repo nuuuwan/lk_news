@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_09:40:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_10:06:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,615** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,618** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A collection of lk_news documents.
 - 2025-10-02 | `tamilmirrorlk-ee9614ca` | டிங்கரை 24 மணி நேரம் தடுத்து வைத்து விசாரிக்க அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-ee9614ca)
 - 2025-10-02 | `virakesarilk-a8ecc7b4` | ரயிலிலிருந்து வீழ்ந்து ஒருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-a8ecc7b4)
 - 2025-10-02 | `lankadeepalk-6fc8393e` | කලිසම් වාටියේ සඟවා හෙරොයින් ගෙනල්ලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-6fc8393e)
+- 2025-10-02 | `lankadeepalk-6c4c8ed9` | ඇමැති බංගලාවල තවමත් වවුල්ලු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-6c4c8ed9)
 - 2025-10-02 | `tamilmirrorlk-aa3c4519` | செம்மணிப் புதைகுழி வழக்கு ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-aa3c4519)
 - 2025-10-02 | `tamilmirrorlk-0a595355` | வர்த்தக நோக்கில் வெளிநாட்டவருக்கு இலங்கை வதிவிட விசா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-0a595355)
 - 2025-10-02 | `lankadeepalk-1de9c5ea` | අද කාලගුණය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-1de9c5ea)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-10-02 | `dailyftlk-3173f3a9` | Top Sri Lanka food and beverages companies participate at Saudi Foodex – 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-3173f3a9)
 - 2025-10-02 | `dailyftlk-1d6d0759` | Japanese tech corporates seek to recruit Sri Lankan IT students | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-1d6d0759)
 - 2025-10-02 | `dailyftlk-d75fa4f2` | RMIT Sri Lanka Innovation Hub to boost R&D commercialisation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-d75fa4f2)
-- 2025-10-02 | `dailyftlk-2f3b953a` | New Vithanakande reinforces supremacy with Guinness World Record for Most Expensive Tea | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-2f3b953a)
 
 ---
 
