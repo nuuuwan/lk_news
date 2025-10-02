@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_06:12:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_06:38:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,578** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-01**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,580** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-01-islandlk-edf87ab0",
-    "num": "islandlk-edf87ab0",
-    "date_str": "2025-10-01",
-    "description": "Carrot face mask \u2026",
-    "url_metadata": "http://island.lk/carrot-face-mask-2/",
-    "lang": "en",
-    "newspaper_id": "islandlk",
-    "time_ut": 1759342020.0
+    "doc_id": "2025-10-02-tamilmirrorlk-37e51f05",
+    "num": "tamilmirrorlk-37e51f05",
+    "date_str": "2025-10-02",
+    "description": "\u0b9f\u0bbf\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd \u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0b9a\u0bc6\u0bb2\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd-\u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd/50-365603",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759366692.0
 }
 ```
 
@@ -39,6 +39,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-02 | `tamilmirrorlk-37e51f05` | டிசம்பரில் இந்தியா செல்கின்றார் புடின் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-37e51f05)
+- 2025-10-02 | `tamilmirrorlk-8500816a` | விஜய்யின் பிரச்சாரம் 2 வாரங்களுக்கு ரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-8500816a)
 - 2025-10-01 | `islandlk-edf87ab0` | Carrot face mask … | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-islandlk-edf87ab0)
 - 2025-10-01 | `islandlk-0cac14da` | Eswaran Brothers launches empowerment programme to elevate women in tea industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-islandlk-0cac14da)
 - 2025-10-01 | `islandlk-bf9b59ea` | CEAT Kelani scores double win at World HRD Congress Sri Lanka Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-islandlk-bf9b59ea)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-10-01 | `lankadeepalk-a2dda4e4` | විදුහල්පතිට ස්ථාන මරු ලිපිය රැගෙන ගිය කාලාප අධ්‍යක්ෂිකා සිරකරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-a2dda4e4)
 - 2025-10-01 | `virakesarilk-578f1fa8` | பல்லின மக்கள் வாழும் எமது நாட்டுக்கு மொழிபெயர்ப்பு சேவை ஊடாக பாரியதொரு பணி இடம்பெறுகிறது - முனீர் முளப்பர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-578f1fa8)
 - 2025-10-01 | `virakesarilk-ccdf3494` | எரிசக்தி அமைச்சர் இந்தியாவிற்கு விஜயம் : இருதரப்பு எரிசக்தி ஒத்துழைப்பு குறித்து ஆலோசனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-ccdf3494)
-- 2025-10-01 | `virakesarilk-74d557d6` | உலக நாடுகளுக்கு மத்தியில் தாய்நாட்டைக் காட்டிக்கொடுத்துள்ள ஜனாதிபதி -  ஸ்ரீலங்கா சுதந்திர கட்சி விசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-74d557d6)
-- 2025-10-01 | `tamilmirrorlk-16fb8dc6` | ”சிறிபாலவும் ஞானரத்னமும் தாஜுதீனை கொல்லவில்லை” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-16fb8dc6)
 
 ---
 
