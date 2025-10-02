@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_10:41:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_11:04:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,633** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,638** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-02-virakesarilk-b6c08b2a",
-    "num": "virakesarilk-b6c08b2a",
+    "doc_id": "2025-10-02-tamilmirrorlk-9d36dfb8",
+    "num": "tamilmirrorlk-9d36dfb8",
     "date_str": "2025-10-02",
-    "description": "\u0b95\u0bb1\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd 4.45 \u0b95\u0bbf\u0bb2\u0bcb \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd 2 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/226645",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd  \u0bae\u0ba4\u0bc1\u0bb5\u0bbe\u0bb2\u0bcd \u0ba4\u0bbf\u0ba9\u0bae\u0bc1\u0bae\u0bcd  50  \u0baa\u0bc7\u0bb0\u0bcd \u0b85\u0b95\u0bbe\u0bb2 \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0bae\u0ba4\u0bc1\u0bb5\u0bbe\u0bb2\u0bcd-\u0ba4\u0bbf\u0ba9\u0bae\u0bc1\u0bae\u0bcd-50-\u0baa\u0bc7\u0bb0\u0bcd-\u0b85\u0b95\u0bbe\u0bb2-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/175-365626",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1759381440.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759382420.0
 }
 ```
 
@@ -39,6 +39,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-02 | `tamilmirrorlk-9d36dfb8` | இலங்கையர்களில்  மதுவால் தினமும்  50  பேர் அகால மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-9d36dfb8)
+- 2025-10-02 | `lankadeepalk-20aeb8e0` | ’’තාජුදීන් ඝාතනයේ තොරතුරු රැසක් අපේ අතේ’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-20aeb8e0)
+- 2025-10-02 | `tamilmirrorlk-fa16bd66` | தொட்டலங்க பொட்டி அக்காவின் 3 கட்டடங்கள் முடக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-fa16bd66)
+- 2025-10-02 | `virakesarilk-f73386ab` | ஜீவா நடிக்கும் 'தலைவர் தம்பி தலைமையில் ' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-f73386ab)
+- 2025-10-02 | `virakesarilk-e982b0b9` | "பியூமா"வுக்கு விளக்கமறியல் நீடிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-e982b0b9)
 - 2025-10-02 | `virakesarilk-b6c08b2a` | கற்பிட்டி கடலில் 4.45 கிலோ கிராம் தங்கத்துடன் 2 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-b6c08b2a)
 - 2025-10-02 | `virakesarilk-cf848380` | உலக சிறுவர் தினத்தை முன்னிட்டு பாடசாலையில் வழங்கப்பட்ட விசேட உணவு ; 58 மாணவர்கள் வைத்தியசாலையில் அனுமதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-cf848380)
 - 2025-10-02 | `virakesarilk-a32c2cd8` | வரலாற்று சாதனை படைத்தார் எலான் மஸ்க்..! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-a32c2cd8)
@@ -54,11 +59,6 @@ A collection of lk_news documents.
 - 2025-10-02 | `virakesarilk-0251aac8` | முகமாலையில் வெடிக்காத நிலையில் வெடிகுண்டுகள் கண்டுபிடிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-0251aac8)
 - 2025-10-02 | `virakesarilk-2defa6a7` | அனுர பிரியதர்ஷன யாப்பா உள்ளிட்ட அறுவருக்கு எதிராக, உயர் நீதிமன்றத்தில் திருத்தப்பட்ட குற்றப்பத்திரிக்கை தாக்கல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-2defa6a7)
 - 2025-10-02 | `virakesarilk-ef384c37` | முல்லைத்தீவு - வெள்ளப்பள்ளம் குளத்தினுள் சட்டவிரோதமாக வெட்டி அழிக்கப்பட்ட மரங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-ef384c37)
-- 2025-10-02 | `tamilmirrorlk-769bd474` | நீச்சல் குளத்தில் விழுந்த சிறுவனுக்கு மூளையில் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-769bd474)
-- 2025-10-02 | `virakesarilk-e0d8ea28` | பொரலஸ்கமுவயில் இடம்பெற்ற விபத்தில் ஒருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-e0d8ea28)
-- 2025-10-02 | `virakesarilk-53ed6bfd` | கைவிடப்பட்ட கிணற்றில் அடையாளம் தெரியாத சடலம் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-53ed6bfd)
-- 2025-10-02 | `virakesarilk-26ca59d4` | மீன்பிடிக்கச் சென்றவர் நீரில் மூழ்கி உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-26ca59d4)
-- 2025-10-02 | `tamilmirrorlk-ee9614ca` | டிங்கரை 24 மணி நேரம் தடுத்து வைத்து விசாரிக்க அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-ee9614ca)
 
 ---
 
