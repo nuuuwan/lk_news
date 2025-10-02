@@ -1,4 +1,7 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-02-lankadeepalk-3dff3e98	lankadeepalk-3dff3e98	2025-10-02	විදෙස් රටක  ගිනි අවියක් සමඟ අයෙක් අල්ලයි	https://www.lankadeepa.lk/news/වදස-රටක-ගන-අවයක-සමඟ-අයක-අලලය/101-680638	si	lankadeepalk	1759392474.0
+lk_news	2025-10-02-tamilmirrorlk-053b3b03	tamilmirrorlk-053b3b03	2025-10-02	மதுபானசாலைகளுக்கு நாளை பூட்டு	https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலைகளுக்கு-நாளை-பூட்டு/175-365640	ta	tamilmirrorlk	1759392384.0
+lk_news	2025-10-02-lankadeepalk-81f9a9ca	lankadeepalk-81f9a9ca	2025-10-02	සුව ඇමති මල්වතු - අස්ගිරි මහ නාහිමිවරුන් බැහැ දකී	https://www.lankadeepa.lk/news/සව-ඇමත-මලවත-අසගර-මහ-නහමවරන-බහ-දක/101-680637	si	lankadeepalk	1759391678.0
 lk_news	2025-10-02-tamilmirrorlk-f51df602	tamilmirrorlk-f51df602	2025-10-02	நட்சத்திர ஹோட்டலில் தொங்கிய சடலம்	https://www.tamilmirror.lk/செய்திகள்/நட்சத்திர-ஹோட்டலில்-தொங்கிய-சடலம்/175-365639	ta	tamilmirrorlk	1759389888.0
 lk_news	2025-10-02-virakesarilk-918ae8fb	virakesarilk-918ae8fb	2025-10-02	சர்வதேச சிறுவர் தினத்தை கறுப்புப் பட்டி அணிந்து எதிர்த்த  சிறுவர்கள் - காரணம் இதுதான் !	https://www.virakesari.lk/article/226668	ta	virakesarilk	1759389780.0
 lk_news	2025-10-02-lankadeepalk-6c2de05a	lankadeepalk-6c2de05a	2025-10-02	මෙරට අපරාධ සැකකරුවන් දඬුවම් ලබන්නේ  10% අඩු ප්‍රමාණයක්	https://www.lankadeepa.lk/visheshanga/මරට-අපරධ-සකකරවන-දඬවම-ලබනන-10-අඩ-පරමණයක/26-680635	si	lankadeepalk	1759389708.0
@@ -46,6 +49,7 @@ lk_news	2025-10-02-virakesarilk-a32c2cd8	virakesarilk-a32c2cd8	2025-10-02	வர
 lk_news	2025-10-02-virakesarilk-8121bb7f	virakesarilk-8121bb7f	2025-10-02	தனுஷ் நடிக்கும் 'தேரே இஷ்க் மே' எனும் படத்தின் டீஸர் வெளியீடு	https://www.virakesari.lk/article/226644	ta	virakesarilk	1759380660.0
 lk_news	2025-10-02-virakesarilk-7e53e930	virakesarilk-7e53e930	2025-10-02	சாதனை படைத்து வரும் விஷ்ணு விஷாலின் 'ஆர்யன்' பட டீசர்	https://www.virakesari.lk/article/226643	ta	virakesarilk	1759380420.0
 lk_news	2025-10-02-tamilmirrorlk-d6312a6c	tamilmirrorlk-d6312a6c	2025-10-02	பாலியல் கல்வி	https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/பாலியல்-கல்வி/62-365623	ta	tamilmirrorlk	1759380377.0
+lk_news	2025-10-02-adalk-fde8a900	adalk-fde8a900	2025-10-02	දෙහි කිලෝව රු. 2000යි, ගෙඩියක් රු 120යි	https://www.ada.lk/breaking_news/දෙහි-කිලෝව-රු--2000යි--ගෙඩියක්-රු-120යි/11-418862	si	adalk	1759380223.0
 lk_news	2025-10-02-lankadeepalk-8da3bd64	lankadeepalk-8da3bd64	2025-10-02	හොර ජීප් රියක් සමඟ අයෙක් අල්ලයි	https://www.lankadeepa.lk/news/හර-ජප-රයක-සමඟ-අයක-අලලය/101-680610	si	lankadeepalk	1759379928.0
 lk_news	2025-10-02-virakesarilk-72b7b128	virakesarilk-72b7b128	2025-10-02	யாழ். பொலிகண்டி பகுதியில் தீக்கிரையானது படகு!	https://www.virakesari.lk/article/226639	ta	virakesarilk	1759379880.0
 lk_news	2025-10-02-adalk-293c98af	adalk-293c98af	2025-10-02	මත්ද්‍රව්‍ය ජාවාරම්කාරියකගේ ලක්ෂ 573ක දේපළ තහනම් කරයි	https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ජාවාරම්කාරියකගේ-ලක්ෂ-573ක-දේපළ-තහනම්-කරයි/11-418861	si	adalk	1759379857.0
@@ -995,7 +999,3 @@ lk_news	2025-09-27-islandlk-ff5b5d4d	islandlk-ff5b5d4d	2025-09-27	Ceylinco Life 
 lk_news	2025-09-27-islandlk-6f035e02	islandlk-6f035e02	2025-09-27	Standard Chartered appoints Praveen Karunaratne to Country Management Team	http://island.lk/standard-chartered-appoints-praveen-karunaratne-to-country-management-team-2/	en	islandlk	1758973140.0
 lk_news	2025-09-27-virakesarilk-fe4ed9e1	virakesarilk-fe4ed9e1	2025-09-27	மூன்றாவது நாளாகவும் தொடரும் சுழற்சி முறையிலான உண்ணாவிரத போராட்டம்!	https://www.virakesari.lk/article/226255	ta	virakesarilk	1758972840.0
 lk_news	2025-09-27-virakesarilk-fcba1a4c	virakesarilk-fcba1a4c	2025-09-27	இலஞ்சம், ஊழலுடன் தொடர்புடைய பொது சேவைகளில் முதலிடத்தில் பொலிஸ் - இலஞ்சம், ஊழல் விசாரணை ஆணைக்குழுவின் தலைவர்	https://www.virakesari.lk/article/226254	ta	virakesarilk	1758972720.0
-lk_news	2025-09-27-colombotelegraphcom-8de3a40c	colombotelegraphcom-8de3a40c	2025-09-27	In Defence Of The Diaspora: Why Sri Lanka Should Embrace Expat Voting	https://www.colombotelegraph.com/index.php/in-defence-of-the-diaspora-why-sri-lanka-should-embrace-expat-voting/	en	colombotelegraphcom	1758972483.0
-lk_news	2025-09-27-virakesarilk-c7d26738	virakesarilk-c7d26738	2025-09-27	பருத்தித்துறை நகர சபையின் அலட்சிய போக்கால் தடம் புரண்ட தண்ணீர் வண்டி	https://www.virakesari.lk/article/226251	ta	virakesarilk	1758972360.0
-lk_news	2025-09-27-virakesarilk-c3702858	virakesarilk-c3702858	2025-09-27	இஸ்ரேலிலிலிருந்து நாடு கடத்தப்பட்ட 12 இலங்கையர்கள்	https://www.virakesari.lk/article/226253	ta	virakesarilk	1758972360.0
-lk_news	2025-09-27-virakesarilk-3b799823	virakesarilk-3b799823	2025-09-27	மன்னார் காற்றாலை திட்டத்திற்கு எதிர்ப்பு தெரிவித்து வவுனியாவில் ஆர்ப்பாட்டம்	https://www.virakesari.lk/article/226252	ta	virakesarilk	1758972240.0
