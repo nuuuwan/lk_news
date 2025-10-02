@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_12:06:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_12:24:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,657** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,661** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-02-tamilmirrorlk-73dd9c8f",
-    "num": "tamilmirrorlk-73dd9c8f",
+    "doc_id": "2025-10-02-tamilmirrorlk-3acfc6f4",
+    "num": "tamilmirrorlk-3acfc6f4",
     "date_str": "2025-10-02",
-    "description": "\u0b8e\u0bb2\u0bc1\u0bae\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8 \u0b8e\u0b95\u0bbf\u0bb1\u0bbf\u0baf\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb2\u0bc1\u0bae\u0bbf\u0b9a\u0bcd\u0b9a\u0bc8-\u0b8e\u0b95\u0bbf\u0bb1\u0bbf\u0baf\u0ba4\u0bc1/175-365635",
+    "description": "\u0bb2\u0bca\u0bb1\u0bbf \u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1  \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb2\u0bca\u0bb1\u0bbf-\u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1-\u0b9a\u0bbe\u0bb0\u0ba4\u0bbf-\u0baa\u0bb2\u0bbf/175-365636",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1759386445.0
+    "time_ut": 1759387806.0
 }
 ```
 
@@ -39,6 +39,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-02 | `tamilmirrorlk-3acfc6f4` | லொறி கவிழ்ந்து  சாரதி பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-3acfc6f4)
+- 2025-10-02 | `lankadeepalk-b6c86d86` | පුදුකුඩිරිප්පු ඉඩමකින් පුපුරණ ද්‍රව්‍ය හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-b6c86d86)
 - 2025-10-02 | `tamilmirrorlk-73dd9c8f` | எலுமிச்சை எகிறியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-73dd9c8f)
 - 2025-10-02 | `tamilmirrorlk-1ba74c5b` | மனிதப் புதைகுழி விவகாரத்திற்கு சர்வதேச விசாரணை வேண்டும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-1ba74c5b)
 - 2025-10-02 | `tamilmirrorlk-9e31d867` | ”விஜேராம இல்லம் இன்னும் ஒப்படைக்கப்படவில்லை” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-9e31d867)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-10-02 | `virakesarilk-ec9234aa` | இலங்கையில் அறிமுகமாகிறது ASUS Gaming V16 கேமர்களுக்கும்  க்ரியேட்டர்களுக்குமான சிறந்த மடிக்கணினி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-ec9234aa)
 - 2025-10-02 | `virakesarilk-8e10bca1` | பாடசாலை மாணவர்களுக்கு மதன மோதக போதை மாத்திரைகளை விற்பனை செய்த பெண் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-8e10bca1)
 - 2025-10-02 | `tamilmirrorlk-9d36dfb8` | இலங்கையர்களில்  மதுவால் தினமும்  50  பேர் அகால மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-9d36dfb8)
-- 2025-10-02 | `lankadeepalk-20aeb8e0` | ’’තාජුදීන් ඝාතනයේ තොරතුරු රැසක් අපේ අතේ’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-20aeb8e0)
-- 2025-10-02 | `tamilmirrorlk-fa16bd66` | தொட்டலங்க பொட்டி அக்காவின் 3 கட்டடங்கள் முடக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-fa16bd66)
 
 ---
 
