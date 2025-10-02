@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from utils import Log, String, TimeFormat
 
 from news_lk3.core.article.Article import Article
-from utils_future import WWW
+from utils import WWW
 
 MIN_ARTICLE_HTML_SIZE = 1_000
 MIN_CHARS_IN_BODY_LINE = 60
