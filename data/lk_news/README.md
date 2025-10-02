@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_06:38:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_07:33:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,580** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,599** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-02-tamilmirrorlk-37e51f05",
-    "num": "tamilmirrorlk-37e51f05",
+    "doc_id": "2025-10-02-dailyftlk-2dc7fd80",
+    "num": "dailyftlk-2dc7fd80",
     "date_str": "2025-10-02",
-    "description": "\u0b9f\u0bbf\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd \u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf\u0b9a\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0bb2\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0b9a\u0bc6\u0bb2\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd-\u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd/50-365603",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1759366692.0
+    "description": "DSI Samson Group strengthens leadership with 14-member team",
+    "url_metadata": "https://www.ft.lk/business/DSI-Samson-Group-strengthens-leadership-with-14-member-team/34-782487",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1759370072.0
 }
 ```
 
@@ -39,26 +39,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-02 | `dailyftlk-2dc7fd80` | DSI Samson Group strengthens leadership with 14-member team | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-2dc7fd80)
+- 2025-10-02 | `dailyftlk-dfce545f` | Trailblazing CA Sri Lankans shine at SAFA Women Leadership Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-dfce545f)
+- 2025-10-02 | `dailyftlk-0fc80eba` | OSC wins Gold at International ARC Awards in New York | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-0fc80eba)
+- 2025-10-02 | `dailyftlk-7652b56e` | PRISL Awards 2025 applications open till 10 Oct. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-7652b56e)
+- 2025-10-02 | `dailyftlk-3173f3a9` | Top Sri Lanka food and beverages companies participate at Saudi Foodex – 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-3173f3a9)
+- 2025-10-02 | `dailyftlk-1d6d0759` | Japanese tech corporates seek to recruit Sri Lankan IT students | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-1d6d0759)
+- 2025-10-02 | `dailyftlk-d75fa4f2` | RMIT Sri Lanka Innovation Hub to boost R&D commercialisation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-d75fa4f2)
+- 2025-10-02 | `dailyftlk-2f3b953a` | New Vithanakande reinforces supremacy with Guinness World Record for Most Expensive Tea | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-2f3b953a)
+- 2025-10-02 | `dailyftlk-08b28a0d` | Sri Lanka issues first investor residence visa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-08b28a0d)
+- 2025-10-02 | `dailyftlk-9ffab0d8` | Janek Jayasekara takes helm at International Distillers as new CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-9ffab0d8)
+- 2025-10-02 | `dailyftlk-14837c55` | Sri Lanka Food Processors Association elects Executive Committee for 2026/2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-14837c55)
+- 2025-10-02 | `dailyftlk-2756e2f0` | Anura, Mahinda, Premadasa: Who is progressive, who isn’t and why? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-2756e2f0)
+- 2025-10-02 | `dailyftlk-2e261660` | CMA Sri Lanka Budget proposals for promotion and development of MSME sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-2e261660)
+- 2025-10-02 | `dailyftlk-173e1952` | Lotus Tower sees revenue increase under new management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-173e1952)
+- 2025-10-02 | `dailyftlk-59244d07` | Govt. to fast-track SL’s consular and immigration services | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-59244d07)
+- 2025-10-02 | `dailyftlk-ffb974eb` | Rs. 1 b China-funded ward complex opens at Dharga Town Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-ffb974eb)
+- 2025-10-02 | `dailyftlk-a36aef55` | Weapons cache uncovered near Weheragala reservoir | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-a36aef55)
+- 2025-10-02 | `dailyftlk-35bc9e29` | Keheliya asset case set for pre-trial conference in October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-dailyftlk-35bc9e29)
 - 2025-10-02 | `tamilmirrorlk-37e51f05` | டிசம்பரில் இந்தியா செல்கின்றார் புடின் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-37e51f05)
 - 2025-10-02 | `tamilmirrorlk-8500816a` | விஜய்யின் பிரச்சாரம் 2 வாரங்களுக்கு ரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-8500816a)
-- 2025-10-01 | `islandlk-edf87ab0` | Carrot face mask … | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-islandlk-edf87ab0)
-- 2025-10-01 | `islandlk-0cac14da` | Eswaran Brothers launches empowerment programme to elevate women in tea industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-islandlk-0cac14da)
-- 2025-10-01 | `islandlk-bf9b59ea` | CEAT Kelani scores double win at World HRD Congress Sri Lanka Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-islandlk-bf9b59ea)
-- 2025-10-01 | `islandlk-ea309d7c` | Bourse springs into another bull-run; indices up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-islandlk-ea309d7c)
-- 2025-10-01 | `islandlk-6e4a7334` | Dr. Nalinda Jayatissa visits LAUGFS Life Sciences’ State-of-the-Art (LVP) pharmaceutical facility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-islandlk-6e4a7334)
-- 2025-10-01 | `colombotelegraphcom-d8036124` | A Chief Negotiator Would Be Instrumental For NPP In Finalizing ETCA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-colombotelegraphcom-d8036124)
-- 2025-10-01 | `economynextcom-ba75ce19` | Fitch confirms Sri Lanka CCC+ sovereign rating | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-economynextcom-ba75ce19)
-- 2025-10-01 | `lankadeepalk-a32de13c` | මහාචාර්ය මොහාන් මුණසිංහ මහතා මුම්බායි හි පැවති එක්සත් ජනපද-ඉන්දියානු ව්‍යාපාරික සමුළුවේදී ඇමරිකා එක්සත් ජනපදයේ නිව් ජර්සිහි ආණ්ඩුකාර ෆිල් මර්ෆි මහතා හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-a32de13c)
-- 2025-10-01 | `tamilmirrorlk-86cf5e92` | பாடசாலை மாணவர்கள் 45 பேர் வைத்தியசாலையில் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-86cf5e92)
-- 2025-10-01 | `virakesarilk-23bdb4f8` | 'அன்புடன் காப்போம் - உலகை வெல்வோம்' : உலக சிறுவர்கள் தின தேசிய விழா - 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-23bdb4f8)
-- 2025-10-01 | `virakesarilk-529b1420` | செம்மணி மனிதப் புதைகுழி வழக்கு: பாதீடு கிடைக்கப்பெறாமையால் நாள் தள்ளப்பட்டது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-529b1420)
-- 2025-10-01 | `lankadeepalk-cb4e6507` | තාජුදීන්  කතාවට නාමල්ගෙන් පිළිතුරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-cb4e6507)
-- 2025-10-01 | `economynextcom-723530b6` | Sri Lanka biz chambers go to court against SVAT removal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-economynextcom-723530b6)
-- 2025-10-01 | `tamilmirrorlk-8d33a747` | முல்லைத்தீவில் 230 முன்பள்ளி மாணவர்களுக்கு அவுஸ்திரேலிய ’தாயகம்’ வானொலியின் அன்பளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-tamilmirrorlk-8d33a747)
-- 2025-10-01 | `lankadeepalk-75c569d0` | ලෝක ළමා දිනයේ ගත් ආහාර විස වූ දරුවෝ 58ක් රෝහල් ගත කරති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-75c569d0)
-- 2025-10-01 | `lankadeepalk-a2dda4e4` | විදුහල්පතිට ස්ථාන මරු ලිපිය රැගෙන ගිය කාලාප අධ්‍යක්ෂිකා සිරකරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-lankadeepalk-a2dda4e4)
-- 2025-10-01 | `virakesarilk-578f1fa8` | பல்லின மக்கள் வாழும் எமது நாட்டுக்கு மொழிபெயர்ப்பு சேவை ஊடாக பாரியதொரு பணி இடம்பெறுகிறது - முனீர் முளப்பர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-578f1fa8)
-- 2025-10-01 | `virakesarilk-ccdf3494` | எரிசக்தி அமைச்சர் இந்தியாவிற்கு விஜயம் : இருதரப்பு எரிசக்தி ஒத்துழைப்பு குறித்து ஆலோசனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-01-virakesarilk-ccdf3494)
 
 ---
 
