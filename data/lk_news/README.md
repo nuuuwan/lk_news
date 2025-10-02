@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_17:00:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_17:19:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,744** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,749** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-02**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-02-lankadeepalk-fad5a5bb",
-    "num": "lankadeepalk-fad5a5bb",
+    "doc_id": "2025-10-02-lankadeepalk-c69809c3",
+    "num": "lankadeepalk-c69809c3",
     "date_str": "2025-10-02",
-    "description": "\u0db1\u0da9\u0dd4 \u0dc3\u0dcf\u0d9a\u0dca\u0dc2\u0dd2 \u0dc0\u0dc3\u0dbb \u0d9c\u0dab\u0db1\u0d9a\u0da7 \u0db4\u0dc3\u0dd4 \u0d86\u0db4\u0dc3\u0dd4 \u0dbd\u0db6\u0dcf \u0daf\u0dd3\u0db8 \u0d91\u0dad\u0dbb\u0db8\u0dca \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a \u0db1\u0dd1",
-    "url_metadata": "https://www.lankadeepa.lk/visheshanga/\u0db1\u0da9-\u0dc3\u0d9a\u0dc2-\u0dc0\u0dc3\u0dbb-\u0d9c\u0dab\u0db1\u0d9a\u0da7-\u0db4\u0dc3-\u0d86\u0db4\u0dc3-\u0dbd\u0db6-\u0daf\u0db8-\u0d91\u0dad\u0dbb\u0db8-\u0dc3\u0dbb\u0dae\u0d9a-\u0db1/26-680654",
+    "description": "\u0db8\u0dc4\u0dd2\u0db1\u0dca\u0daf\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0dba\u0dcf \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dc4\u0db1\u0daf\u0d9c-\u0db4\u0dbb\u0db0\u0db1-\u0d86\u0dbb\u0d9a\u0dc2\u0d9a-\u0db1\u0dbd\u0db0\u0dbb\u0dba-\u0dbb\u0db8\u0db1\u0da9/1-680656",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1759404425.0
+    "time_ut": 1759404932.0
 }
 ```
 
@@ -39,6 +39,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-02 | `lankadeepalk-c69809c3` | මහින්දගේ ප්‍රධාන ආරක්ෂක නිලධාරියා රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-c69809c3)
+- 2025-10-02 | `tamilmirrorlk-9976d82f` | “SVAT-ஐ இரத்து  செய்ய வேண்டாம்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-9976d82f)
+- 2025-10-02 | `lankadeepalk-5949e801` | ’’SVAT අහිමි කරන්න එපා’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-5949e801)
 - 2025-10-02 | `lankadeepalk-fad5a5bb` | නඩු සාක්ෂි වසර ගණනකට පසු ආපසු ලබා දීම එතරම් සාර්ථක නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-fad5a5bb)
 - 2025-10-02 | `lankadeepalk-29a326ca` | වඳුරු ලෙඩේ මිනිසාටත් බෝ විය හැකියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-29a326ca)
 - 2025-10-02 | `lankadeepalk-b07b2e05` | ෂාරුක් ඉන්දියානූ බිලියනපතියන්ගේ ලැයිස්තුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-b07b2e05)
@@ -56,9 +59,6 @@ A collection of lk_news documents.
 - 2025-10-02 | `virakesarilk-d0b5f3ba` | புற்றுநோயைத் தடுக்க வாழ்க்கை முறையில் மாற்றம் அவசியம் – வைத்திய நிபுணர் இரேசா பெர்னான்டோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-virakesarilk-d0b5f3ba)
 - 2025-10-02 | `adalk-c1d3a25c` | නොවැම්බර් 01දා සිට ශොපින් බෑග් වලට ගෙවන්න වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-adalk-c1d3a25c)
 - 2025-10-02 | `lankadeepalk-db2df507` | රිෂාඩ්ගේ පෙත්සම මාර්තුවේ විභාගයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-db2df507)
-- 2025-10-02 | `lankadeepalk-9baf497e` | මත්ද්‍රව්‍ය ජාවාරම කවදා නිමවේද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-lankadeepalk-9baf497e)
-- 2025-10-02 | `tamilmirrorlk-d1809741` | ரிஷாத்தின் மனுவுக்கு திகதி குறிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-tamilmirrorlk-d1809741)
-- 2025-10-02 | `economynextcom-9a2ca4fa` | Sri Lanka stocks close up after Fitch confirms rating | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-02-economynextcom-9a2ca4fa)
 
 ---
 
