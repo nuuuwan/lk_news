@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--03_13:41:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--03_14:05:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,871** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-03**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,876** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-03**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-03-dailyftlk-112b2f22",
-    "num": "dailyftlk-112b2f22",
+    "doc_id": "2025-10-03-lankadeepalk-f7cd47bd",
+    "num": "lankadeepalk-f7cd47bd",
     "date_str": "2025-10-03",
-    "description": "Samara Perera joins The Kingsbury, Horana Plantations Boards",
-    "url_metadata": "https://www.ft.lk/business/Samara-Perera-joins-The-Kingsbury-Horana-Plantations-Boards/34-782577",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1759478810.0
+    "description": "\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0 \u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0dc3\u0da2\u0dd2\u0dad\u0dca \u0db4\u0db9 \u0d9c\u0dcf\u0dbd\u0d9a",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0dc4\u0da7\u0da7\u0dc0-\u0dbb\u0d9a\u0db1\u0db1-\u0d9c\u0dc4\u0db1-\u0dc3\u0da2\u0dad-\u0db4\u0db9-\u0d9c\u0dbd\u0d9a/101-680691",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1759479284.0
 }
 ```
 
@@ -39,6 +39,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-03 | `lankadeepalk-f7cd47bd` | පොහොට්ටුව රකින්න ගිහින් සජිත් පඹ ගාලක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-f7cd47bd)
+- 2025-10-03 | `dailyftlk-09d8bed5` | Sri Lanka strengthens trade, investment, and tourism ties at World Expo 2025 in Osaka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-09d8bed5)
+- 2025-10-03 | `dailyftlk-a5fcb69e` | Hayleys Leisure appoints Rajitha Amarasinghe as Director of Operations – Amaya Resorts & Spas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-a5fcb69e)
+- 2025-10-03 | `dailyftlk-fe9f0eb9` | Hayleys Fibre appoints Ajith Karunarathna to Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-fe9f0eb9)
+- 2025-10-03 | `dailyftlk-fa698319` | ComBank’s sustainability leadership inspires UN Global Compact annual sessions in New York | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-fa698319)
 - 2025-10-03 | `dailyftlk-112b2f22` | Samara Perera joins The Kingsbury, Horana Plantations Boards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-112b2f22)
 - 2025-10-03 | `tamilmirrorlk-f2a25581` | பூஜை பொருட்கள் வாங்கிய பணத்தில் குடித்த தொழிலாளி மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-tamilmirrorlk-f2a25581)
 - 2025-10-03 | `lankadeepalk-bb8ac5b6` | මනුෂගේ ඇප ඉල්ලිමට අල්ලස විරුද්ධ වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-bb8ac5b6)
@@ -54,11 +59,6 @@ A collection of lk_news documents.
 - 2025-10-03 | `virakesarilk-c194d1fb` | மாளிகாவத்தையில் ஒரு கோடி ரூபாவுக்கும் அதிக பெறுமதியான பொருட்களுடன் நால்வர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-c194d1fb)
 - 2025-10-03 | `virakesarilk-4478c501` | LOLCஇன் கால்நடை காப்பீடு மனித - சிறுத்தை சகவாழ்வை ஊக்குவிக்கிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-4478c501)
 - 2025-10-03 | `virakesarilk-93c65777` | வீதியை கடக்க முயன்றவர் பஸ்ஸில் மோதி உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-93c65777)
-- 2025-10-03 | `tamilmirrorlk-b990c22f` | 15 வயது சிறுவன் விவகாரம்: பிரதேச சபை உறுப்பினர் விடுதலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-tamilmirrorlk-b990c22f)
-- 2025-10-03 | `virakesarilk-4d003d92` | வடமராட்சி கிழக்கில் சட்டவிரோத செயல்களில் ஈடுபடுவோருக்கு உதவும் பொலிஸாரின் தகவல்களை பாதுகாப்பு அமைச்சுக்கு அனுப்பியுள்ளோம் - இளங்குமரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-4d003d92)
-- 2025-10-03 | `tamilmirrorlk-5c800a20` | கட்டுநாயக்க-கொழும்புக்கு இடையில் சீ-பிளேன் சேவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-tamilmirrorlk-5c800a20)
-- 2025-10-03 | `lankadeepalk-8cc21d9c` | ‘දඹුල්ල තන්ඩර්ස්‘ හිමිකරුට අධිචෝදනා ගොනුකරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-8cc21d9c)
-- 2025-10-03 | `lankadeepalk-a7775606` | ලෝක බැංකුවත්  මැතිසබයේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-a7775606)
 
 ---
 
