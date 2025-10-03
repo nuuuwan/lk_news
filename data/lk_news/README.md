@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--04_00:22:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--04_00:39:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,960** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-03**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,961** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-03**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 - 2025-10-03 | `dailyftlk-8c7075fc` | Hayleys Travels wins Gold at South Asian Travel Awards 2025 as Leading Outbound Travel Agency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-8c7075fc)
 - 2025-10-03 | `dailyftlk-34fe7824` | Rotary SME conclave positions boutique hotel SMEs as tourism revival catalysts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-34fe7824)
+- 2025-10-03 | `dailyftlk-94843363` | Constitutional dictatorships – OR: is the era and ethos of ‘strongman’  governments gone for good? (1/4) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-94843363)
 - 2025-10-03 | `dailyftlk-5cb01a6d` | Fools, knaves and narratives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-5cb01a6d)
 - 2025-10-03 | `dailyftlk-325c707b` | Russian envoy speaks out at Pathfinder Foundation’s ‘Ambassador’s Roundtable’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-325c707b)
 - 2025-10-03 | `dailyftlk-99768c74` | Alcohol and tobacco usage in SL decline, reveal latest surveys | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-99768c74)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-10-03 | `lankadeepalk-adf2888b` | විදුලි ගාස්තු ඉහළ දැමීමේ තීරණය 15වැනිදා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-adf2888b)
 - 2025-10-03 | `virakesarilk-feff7735` | பாதாள ஆட்சியை முறியடித்து சமூக சீர்திருத்தத்திற்கு அரசாங்கம் உறுதி – ஜனாதிபதி அநுரகுமார திசாநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-feff7735)
 - 2025-10-03 | `virakesarilk-5ebd9954` | இயக்கச்சியில் வெடிக்காத நிலையில் குண்டுகள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-5ebd9954)
-- 2025-10-03 | `virakesarilk-66564b46` | அமெரிக்க கடற்படை கப்பல் ‘USS FITZGERALD’ கொழும்பு துறைமுகத்தை வந்தடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-66564b46)
 
 ---
 
