@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--03_14:22:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--03_14:39:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,879** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-03**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,881** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-03**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A collection of lk_news documents.
 - 2025-10-03 | `dailyftlk-fe9f0eb9` | Hayleys Fibre appoints Ajith Karunarathna to Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-fe9f0eb9)
 - 2025-10-03 | `dailyftlk-fa698319` | ComBank’s sustainability leadership inspires UN Global Compact annual sessions in New York | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-fa698319)
 - 2025-10-03 | `dailyftlk-112b2f22` | Samara Perera joins The Kingsbury, Horana Plantations Boards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-112b2f22)
+- 2025-10-03 | `adalk-41d88e5b` | දිනකට අලුත් පිළිකා රෝගීන් සියයක්, වසරකට 35000ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-adalk-41d88e5b)
 - 2025-10-03 | `tamilmirrorlk-f2a25581` | பூஜை பொருட்கள் வாங்கிய பணத்தில் குடித்த தொழிலாளி மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-tamilmirrorlk-f2a25581)
 - 2025-10-03 | `tamilmirrorlk-6699bddb` | ஆயுத பூஜை:   குடித்த கணவனை குடத்தால் அடித்துக் கொன்ற மனைவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-tamilmirrorlk-6699bddb)
 - 2025-10-03 | `lankadeepalk-bb8ac5b6` | මනුෂගේ ඇප ඉල්ලිමට අල්ලස විරුද්ධ වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-bb8ac5b6)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-10-03 | `adalk-474f853a` | ව්‍යාපාර සවිබල ගැන්වීමට DFCC බැංකුව iConnect 2.0 බලගන්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-adalk-474f853a)
 - 2025-10-03 | `virakesarilk-543ae213` | திருகோணமலையில் 16 வயதுக்குட்பட்ட சிறுமியை பாலியல் பலாத்காரம் செய்த குற்றவாளிக்கு 32 வருட கடூழிய சிறைத்தண்டனை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-543ae213)
 - 2025-10-03 | `virakesarilk-bd8d5021` | 11 ஆயிரம் அடி உயரத்திலிருந்து விழுந்த இளைஞன் : உயிர் தப்பிய அதிசயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-bd8d5021)
-- 2025-10-03 | `lankadeepalk-3ebe56d5` | ඇමතිලා දෙන්නෙක් අහසින් බේරෙට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-3ebe56d5)
 
 ---
 
