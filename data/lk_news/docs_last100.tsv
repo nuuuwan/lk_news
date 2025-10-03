@@ -1,4 +1,5 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-03-lankadeepalk-08802dd0	lankadeepalk-08802dd0	2025-10-03	මහින්ද - උපතිස්ස - ගුණසේන වාද්‍යාභිමානී සම්මාන ලබති	https://www.lankadeepa.lk/latest_news/මහනද-උපතසස-ගණසන-වදයභමන-සමමන-ලබත/1-680709	si	lankadeepalk	1759490222.0
 lk_news	2025-10-03-lankadeepalk-56a1785e	lankadeepalk-56a1785e	2025-10-03	ජනපති මල්වතු - අස්ගිරි මහා නා හිමිවරුන් බැහැ දකී	https://www.lankadeepa.lk/latest_news/ජනපත-මලවත-අසගර-මහ-න-හමවරන-බහ-දක/1-680708	si	lankadeepalk	1759487747.0
 lk_news	2025-10-03-virakesarilk-ad3f3f86	virakesarilk-ad3f3f86	2025-10-03	மதுபாவனையால் தினமும்  சுமார் 50  பேர் அகால மரணம் -  மதுசாரம் மற்றும் போதைப்பொருள் தகவல் நிலையம்	https://www.virakesari.lk/article/226804	ta	virakesarilk	1759487400.0
 lk_news	2025-10-03-virakesarilk-b3372f5c	virakesarilk-b3372f5c	2025-10-03	கொழும்பு பங்குச் சந்தை வரலாற்று சாதனை: ASPI முதன்முறையாக 22,000 புள்ளிகளைக் கடந்தது!	https://www.virakesari.lk/article/226794	ta	virakesarilk	1759487280.0
@@ -17,6 +18,7 @@ lk_news	2025-10-03-virakesarilk-e7e4182c	virakesarilk-e7e4182c	2025-10-03	பி
 lk_news	2025-10-03-virakesarilk-ef33a14e	virakesarilk-ef33a14e	2025-10-03	மதுபோதையில் வாகனங்களை செலுத்திய 35 சாரதிகள் கைது!	https://www.virakesari.lk/article/226787	ta	virakesarilk	1759482480.0
 lk_news	2025-10-03-virakesarilk-0a1b999c	virakesarilk-0a1b999c	2025-10-03	மட்டக்களப்பு கல்லடியில் கசிப்புடன் வியாபாரி கைது!	https://www.virakesari.lk/article/226785	ta	virakesarilk	1759482240.0
 lk_news	2025-10-03-virakesarilk-dab682d8	virakesarilk-dab682d8	2025-10-03	“கெஹெல்பத்தர பத்மே”வுக்கு சொந்தமான பொருட்கள் கைப்பற்றல்!	https://www.virakesari.lk/article/226783	ta	virakesarilk	1759481340.0
+lk_news	2025-10-03-adalk-61403f7e	adalk-61403f7e	2025-10-03	කිතුල්කොටේ අනතුරින් තුවාල ලබා සිටි 18 හැවැරිදි රියදුරුත් මිය යයි	https://www.ada.lk/breaking_news/කිතුල්කොටේ-අනතුරින්-තුවාල-ලබා-සිටි-18-හැවැරිදි-රියදුරුත්-මිය-යයි/11-418898	si	adalk	1759481106.0
 lk_news	2025-10-03-tamilmirrorlk-764fec71	tamilmirrorlk-764fec71	2025-10-03	மருத்துவர்கள் கையெழுத்தை சரிசெய்ய வேண்டும்: நீதிமன்றம்	https://www.tamilmirror.lk/செய்திகள்/மருத்துவர்கள்-கையெழுத்தை-சரிசெய்ய-வேண்டும்-நீதிமன்றம்/175-365695	ta	tamilmirrorlk	1759480485.0
 lk_news	2025-10-03-adalk-09063203	adalk-09063203	2025-10-03	ඊශ්‍රායල් ලොතරැයියෙන් ඉවත්වූ 562 දෙනෙකුට යළි රැකියා අවස්ථා	https://www.ada.lk/breaking_news/ඊශ්‍රායල්-ලොතරැයියෙන්-ඉවත්වූ-562-දෙනෙකුට-යළි-රැකියා-අවස්ථා/11-418897	si	adalk	1759480265.0
 lk_news	2025-10-03-virakesarilk-d864b556	virakesarilk-d864b556	2025-10-03	மட்டக்களப்பில் 14 வயது பேத்தியை பாலியல் துஷ்பிரயோகம் செய்த அப்பப்பாவுக்கு 30 வருட கடூழிய சிறை!	https://www.virakesari.lk/article/226781	ta	virakesarilk	1759480020.0
@@ -97,5 +99,3 @@ lk_news	2025-10-03-adalk-e227904d	adalk-e227904d	2025-10-03	හාල්, ළු
 lk_news	2025-10-03-adalk-504db62a	adalk-504db62a	2025-10-03	නීති විරෝධීව ගෙන්වූ ජීප් රථයක් සමග සැකකරුවෙක් අල්ලයි	https://www.ada.lk/breaking_news/නීති-විරෝධීව-ගෙන්වූ-ජීප්-රථයක්-සමග-සැකකරුවෙක්-අල්ලයි/11-418884	si	adalk	1759457618.0
 lk_news	2025-10-03-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-10-03	இன்றைய வானிலை	https://www.virakesari.lk/article/226748	ta	virakesarilk	1759452180.0
 lk_news	2025-10-03-adalk-3f092989	adalk-3f092989	2025-10-03	ජගත් වෙළෙඳපොළට නිර්මාණශීලී රෙදිපිළි ගෙනයෑමේ වැඩපිළිවෙළ!	https://www.ada.lk/business/ජගත්-වෙළෙඳපොළට-නිර්මාණශීලී-රෙදිපිළි-ගෙනයෑමේ-වැඩපිළිවෙළ-/7-418882	si	adalk	1759452163.0
-lk_news	2025-10-03-adalk-0770f65a	adalk-0770f65a	2025-10-03	මානව සම්පත් සංවර්ධනය තුළින් සියැට් කැලණි ද්විත්ව ජයක් ලබයි!	https://www.ada.lk/business/මානව-සම්පත්-සංවර්ධනය-තුළින්-සියැට්-කැලණි-ද්විත්ව-ජයක්-ලබයි-/7-418881	si	adalk	1759452034.0
-lk_news	2025-10-03-bbccomsinhala-b6a6da34	bbccomsinhala-b6a6da34	2025-10-03	ෂොපින් බෑග් සඳහා මුදල් අය කිරීම: 'මේක හොඳ පියවරක්, රෙදි මල්ලක් පාවිච්චි කරන්න රජය මිනිස්සු දිරි ගන්වන්න ඕන'	https://www.bbc.com/sinhala/articles/c0m42m1mrkgo	si	bbccomsinhala	1759445409.0
