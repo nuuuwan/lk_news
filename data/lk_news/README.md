@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--03_23:39:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--04_00:05:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,952** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-03**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,953** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-03**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -54,11 +54,11 @@ A collection of lk_news documents.
 - 2025-10-03 | `virakesarilk-5ebd9954` | இயக்கச்சியில் வெடிக்காத நிலையில் குண்டுகள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-5ebd9954)
 - 2025-10-03 | `virakesarilk-66564b46` | அமெரிக்க கடற்படை கப்பல் ‘USS FITZGERALD’ கொழும்பு துறைமுகத்தை வந்தடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-66564b46)
 - 2025-10-03 | `lankadeepalk-a86a5200` | මාර්ග හදන්න ගත් කෝටි 31000ක් හිරවෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-a86a5200)
+- 2025-10-03 | `colombotelegraphcom-118ef7fe` | Hospitality, Holiness & Human Flourishing: A Christian Response To LGBTIQ Tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-colombotelegraphcom-118ef7fe)
 - 2025-10-03 | `lankadeepalk-e4643c98` | ’’කළු පාලනය අවසන් කරන පියවර ආපසු හරවන්නේ නෑ’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-e4643c98)
 - 2025-10-03 | `virakesarilk-e2e4cb05` | நவம்பரில் வெளியாகும் ஆதித்ய மாதவனின் 'அதர்ஸ்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-e2e4cb05)
 - 2025-10-03 | `virakesarilk-99bdf8c2` | மத்திய அதிவேக நெடுஞ்சாலையின் கடவத்தை - மீரிகம பகுதியின் கட்டுமானத்திற்கான கடன் தொகை குறித்து அரசாங்க நிதி பற்றிய குழுவில் ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-99bdf8c2)
 - 2025-10-03 | `virakesarilk-30dd376a` | கிகி & கொகொ' ரசிகர்களை வியப்பில் ஆழ்த்துமா..!? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-30dd376a)
-- 2025-10-03 | `virakesarilk-72458c8f` | அரசாங்கம் தற்போது பொருளாதார மத்திய நிலையங்களைக் கூட விற்க திட்டமிட்டுள்ளது - சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-72458c8f)
 
 ---
 
