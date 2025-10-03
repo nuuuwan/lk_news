@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-04 00:58:02",
-  "n_docs": 78961,
+  "time_updated": "2025-10-04 01:17:52",
+  "n_docs": 78965,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 78961,
+  "n_docs_with_text": 78965,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2025-10-03",
-  "dataset_size": 1156666376,
+  "date_str_max": "2025-10-04",
+  "dataset_size": 1156676760,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -29,19 +29,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-03-dailyftlk-8c7075fc",
-    "num": "dailyftlk-8c7075fc",
-    "date_str": "2025-10-03",
-    "description": "Hayleys Travels wins Gold at South Asian Travel Awards 2025 as Leading Outbound Travel Agency",
-    "url_metadata": "https://www.ft.lk/business/Hayleys-Travels-wins-Gold-at-South-Asian-Travel-Awards-2025-as-Leading-Outbound-Travel-Agency/34-782597",
+    "doc_id": "2025-10-04-dailyftlk-d17e7047",
+    "num": "dailyftlk-d17e7047",
+    "date_str": "2025-10-04",
+    "description": "President urges Maha Sangha\u2019s guidance to restore moral fabric",
+    "url_metadata": "https://www.ft.lk/news/President-urges-Maha-Sangha-s-guidance-to-restore-moral-fabric/56-782601",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759516143.0
+    "time_ut": 1759519856.0
   }
 }
