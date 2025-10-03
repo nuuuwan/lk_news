@@ -2,6 +2,7 @@
   "MIN_T_DAYS": 7,
   "no_data": [
     "adaderanalk",
+    "adaderanasinhalalk",
     "ceylontodaylk",
     "dailymirrorlk",
     "dailynewslk",
@@ -9,16 +10,15 @@
     "newsfirstlk"
   ],
   "newspaper_to_n": {
-    "virakesarilk": 546,
+    "virakesarilk": 545,
     "lankadeepalk": 235,
     "tamilmirrorlk": 225,
-    "adalk": 146,
+    "adalk": 144,
     "dailyftlk": 99,
     "islandlk": 75,
     "economynextcom": 58,
     "bbccomsinhala": 18,
     "colombotelegraphcom": 13,
-    "dbsjeyarajcom": 2,
-    "adaderanasinhalalk": 1
+    "dbsjeyarajcom": 2
   }
 }
