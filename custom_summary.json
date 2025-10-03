@@ -4,21 +4,21 @@
     "ceylontodaylk",
     "dailymirrorlk",
     "dailynewslk",
-    "divainalk"
+    "divainalk",
+    "newsfirstlk"
   ],
   "newspaper_to_n": {
-    "virakesarilk": 538,
-    "lankadeepalk": 240,
-    "tamilmirrorlk": 231,
+    "virakesarilk": 539,
+    "lankadeepalk": 241,
+    "tamilmirrorlk": 230,
     "adalk": 149,
     "dailyftlk": 94,
     "islandlk": 75,
     "economynextcom": 59,
     "bbccomsinhala": 18,
     "colombotelegraphcom": 12,
-    "adaderanasinhalalk": 6,
+    "adaderanasinhalalk": 5,
     "adaderanalk": 5,
-    "dbsjeyarajcom": 2,
-    "newsfirstlk": 1
+    "dbsjeyarajcom": 2
   }
 }
