@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--03_19:39:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--03_20:03:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,928** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-03**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,938** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-03**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-03-lankadeepalk-a86a5200",
-    "num": "lankadeepalk-a86a5200",
+    "doc_id": "2025-10-03-lankadeepalk-adf2888b",
+    "num": "lankadeepalk-adf2888b",
     "date_str": "2025-10-03",
-    "description": "\u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0dc4\u0daf\u0db1\u0dca\u0db1 \u0d9c\u0dad\u0dca \u0d9a\u0ddd\u0da7\u0dd2 31000\u0d9a\u0dca \u0dc4\u0dd2\u0dbb\u0dc0\u0dd9\u0dbd\u0dcf",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dbb\u0d9c-\u0dc4\u0daf\u0db1\u0db1-\u0d9c\u0dad-\u0d9a\u0da7-31000\u0d9a-\u0dc4\u0dbb\u0dc0\u0dbd/1-680713",
+    "description": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0d89\u0dc4\u0dc5 \u0daf\u0dd0\u0db8\u0dd3\u0db8\u0dda \u0dad\u0dd3\u0dbb\u0dab\u0dba 15\u0dc0\u0dd0\u0db1\u0dd2\u0daf\u0dcf",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0daf\u0dbd-\u0d9c\u0dc3\u0dad-\u0d89\u0dc4\u0dc5-\u0daf\u0db8\u0db8-\u0dad\u0dbb\u0dab\u0dba-15\u0dc0\u0db1\u0daf/1-680714",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1759497822.0
+    "time_ut": 1759501707.0
 }
 ```
 
@@ -39,8 +39,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-03 | `lankadeepalk-adf2888b` | විදුලි ගාස්තු ඉහළ දැමීමේ තීරණය 15වැනිදා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-adf2888b)
+- 2025-10-03 | `virakesarilk-feff7735` | பாதாள ஆட்சியை முறியடித்து சமூக சீர்திருத்தத்திற்கு அரசாங்கம் உறுதி – ஜனாதிபதி அநுரகுமார திசாநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-feff7735)
+- 2025-10-03 | `virakesarilk-5ebd9954` | இயக்கச்சியில் வெடிக்காத நிலையில் குண்டுகள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-5ebd9954)
+- 2025-10-03 | `virakesarilk-66564b46` | அமெரிக்க கடற்படை கப்பல் ‘USS FITZGERALD’ கொழும்பு துறைமுகத்தை வந்தடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-66564b46)
 - 2025-10-03 | `lankadeepalk-a86a5200` | මාර්ග හදන්න ගත් කෝටි 31000ක් හිරවෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-a86a5200)
 - 2025-10-03 | `lankadeepalk-e4643c98` | ’’කළු පාලනය අවසන් කරන පියවර ආපසු හරවන්නේ නෑ’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-e4643c98)
+- 2025-10-03 | `virakesarilk-e2e4cb05` | நவம்பரில் வெளியாகும் ஆதித்ய மாதவனின் 'அதர்ஸ்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-e2e4cb05)
+- 2025-10-03 | `virakesarilk-99bdf8c2` | மத்திய அதிவேக நெடுஞ்சாலையின் கடவத்தை - மீரிகம பகுதியின் கட்டுமானத்திற்கான கடன் தொகை குறித்து அரசாங்க நிதி பற்றிய குழுவில் ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-99bdf8c2)
+- 2025-10-03 | `virakesarilk-30dd376a` | கிகி & கொகொ' ரசிகர்களை வியப்பில் ஆழ்த்துமா..!? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-30dd376a)
+- 2025-10-03 | `virakesarilk-72458c8f` | அரசாங்கம் தற்போது பொருளாதார மத்திய நிலையங்களைக் கூட விற்க திட்டமிட்டுள்ளது - சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-72458c8f)
 - 2025-10-03 | `virakesarilk-504c39f6` | உலக குடியிருப்பு தினத்தை முன்னிட்டு யாழில் விசேட நிகழ்வு - கடற்றொழில் அமைச்சரால் வீடுகளுக்கான சான்றிதழ்கள் பயனாளர்களுக்கு வழங்கிவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-504c39f6)
 - 2025-10-03 | `virakesarilk-919152ab` | மீண்டும் இணைந்த தம்பி ராமையா-  உமாபதி ராமையா கூட்டணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-919152ab)
 - 2025-10-03 | `virakesarilk-b3ef2a08` | மரியா - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-b3ef2a08)
@@ -51,14 +59,6 @@ A collection of lk_news documents.
 - 2025-10-03 | `lankadeepalk-3914f088` | දෙහිවල වෙඩි තැබීමේ පැදිකරු අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-3914f088)
 - 2025-10-03 | `virakesarilk-f17a84da` | கொழும்பு பேர வாவியிலிருந்து கட்டுநாயக்க விமான நிலையத்திற்கு விமான சேவை ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-f17a84da)
 - 2025-10-03 | `virakesarilk-82c0f709` | கடற்படை முகாமில் பாலியல் துஷ்பிரயோகம் ; கடற்படை வீரருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-82c0f709)
-- 2025-10-03 | `virakesarilk-3589b244` | பொலன்னறுவை - ஹபரணை வீதியில் விபத்து ; இருவர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-3589b244)
-- 2025-10-03 | `lankadeepalk-08802dd0` | මහින්ද - උපතිස්ස - ගුණසේන වාද්‍යාභිමානී සම්මාන ලබති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-lankadeepalk-08802dd0)
-- 2025-10-03 | `virakesarilk-b20ea8a4` | அனுமதிப்பத்திரம் இன்றி மட்பாண்டங்களை ஏற்றிச் சென்ற டிப்பர் வாகனங்களின் சாரதிகள் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-b20ea8a4)
-- 2025-10-03 | `virakesarilk-0a88100d` | மன்னார் காற்றாலை திட்டத்திற்கு எதிரான போராட்டத்தின் பின்னணியில் முன்னாள் அரசியல்வாதிகள்! – அமைச்சர் சந்திரசேகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-0a88100d)
-- 2025-10-03 | `virakesarilk-1a7807d6` | துருவ் விக்ரம் நடிக்கும் 'பைசன்- காளமாடன் ' படத்தின் அப்டேட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-1a7807d6)
-- 2025-10-03 | `virakesarilk-562302d6` | மல்வத்து, அஸ்கிரிய மகா நாயக்க தேரர்களை ஜனாதிபதி சந்தித்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-562302d6)
-- 2025-10-03 | `virakesarilk-14eb6747` | உழவு இயந்திரத்தை முந்திச் செல்ல முற்பட்ட மோட்டார் சைக்கிள் விபத்து – ஒருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-14eb6747)
-- 2025-10-03 | `virakesarilk-be4b43cd` | நடிகர் சசிகுமார் வெளியிட்ட 'அமரம்' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-virakesarilk-be4b43cd)
 
 ---
 
