@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--04_20:01:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--04_20:18:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,061** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-04**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,064** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-04**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,8 @@ A collection of lk_news documents.
 - 2025-10-04 | `tamilmirrorlk-caa0b20b` | சம்பத் மனம்பேரியின் மைத்துனர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-tamilmirrorlk-caa0b20b)
 - 2025-10-04 | `tamilmirrorlk-e2c67cf6` | விஜய்யின் பிரச்சார பேருந்தை பறிமுதல் செய்ய உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-tamilmirrorlk-e2c67cf6)
 - 2025-10-04 | `tamilmirrorlk-9bb3f72a` | விபத்தில் இளம் தம்பதி பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-tamilmirrorlk-9bb3f72a)
+- 2025-10-04 | `virakesarilk-f1fdca6a` | 68 ஆவது பொதுநலவாய பாராளுமன்ற மாநாட்டில் பங்கேற்க அமைச்சர் சரோஜா போல்ராஜ் பார்படோஸ் பயணம் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-f1fdca6a)
+- 2025-10-04 | `virakesarilk-d52923e7` | பாதாள உலகக்குழு உறுப்பினர் பெக்ஹோ சமனின் மைத்துனர் கைத்துப்பாக்கியுடன் பியகமவில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-d52923e7)
 - 2025-10-04 | `adalk-71c17f88` | පුනර්ජනනීය බලශක්ති කුමන බාධක ආවත් අඛණ්ඩව ක්‍රියාත්මක කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-adalk-71c17f88)
 - 2025-10-04 | `lankadeepalk-ac553e3f` | දිස්ත්‍රික්ක පහකට නාය අනතුරු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-ac553e3f)
 - 2025-10-04 | `adalk-a6a258d6` | නාය යෑමේ අනතුරු ඇඟවීම් නිකුත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-adalk-a6a258d6)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-10-04 | `virakesarilk-aa8bce04` | பாடசாலை மாணவர்களை இலக்கு வைத்து இலத்திரனியல் சிகரட்டுகள் விற்பனை : சந்தேக நபர்  கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-aa8bce04)
 - 2025-10-04 | `virakesarilk-8908c5d0` | இயற்கை -யானை- மனிதன்- இடையேயான உறவை பேசும் ' கும்கி 2' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-8908c5d0)
 - 2025-10-04 | `virakesarilk-f0e35207` | ஹரிஷ் கல்யாண் நடிக்கும் 'டீசல்' படத்தின் அப்டேட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-f0e35207)
-- 2025-10-04 | `virakesarilk-cd08be42` | மின்சாரக் கட்டண திருத்தம் தொடர்பான முடிவு இரு வாரங்களில் அறிவிக்கப்படும் - இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-cd08be42)
-- 2025-10-04 | `virakesarilk-a9cf82ae` | யாழில்  நகைகளையும் வெளிநாட்டு பணத்தினையும் திருடியவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-a9cf82ae)
 
 ---
 
