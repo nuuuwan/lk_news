@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--04_09:39:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--04_10:04:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,989** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-04**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,992** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-04**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-04-tamilmirrorlk-a2fef316",
-    "num": "tamilmirrorlk-a2fef316",
+    "doc_id": "2025-10-04-virakesarilk-8301870e",
+    "num": "virakesarilk-8301870e",
     "date_str": "2025-10-04",
-    "description": "\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0bbe\u0bb5\u0bb2\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95-\u0ba8\u0baa\u0bb0\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/175-365701",
+    "description": "\u0b85\u0bb0\u0b9a \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bb5\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0ba9\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc0\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/226851",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1759548314.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1759552140.0
 }
 ```
 
@@ -39,6 +39,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-04 | `virakesarilk-8301870e` | அரச வங்கிகளில் நிலவும் பிரச்சனைகளுக்கு எதிராக யாழ்ப்பாணத்தில் தீப்பந்த போராட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-8301870e)
+- 2025-10-04 | `tamilmirrorlk-c04b3dd8` | புதிதாக பிறந்த குழந்தை வடிகாணில் வீசப்பட்ட கொடூரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-tamilmirrorlk-c04b3dd8)
+- 2025-10-04 | `lankadeepalk-a54da8b2` | පළාත්  ඡන්දය අප්‍රේල්  මැද: පක්ෂ රැසක් බරටම වැඩ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-a54da8b2)
 - 2025-10-04 | `tamilmirrorlk-a2fef316` | தடுப்பு காவலில் இருந்த சந்தேக நபர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-tamilmirrorlk-a2fef316)
 - 2025-10-04 | `lankadeepalk-8f5e042d` | මහින්දගේ බංගලාවට කඹ ඇදිල්ලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-8f5e042d)
 - 2025-10-04 | `lankadeepalk-b69a35cc` | රොබෝවෙන් මිනිසා රකින්න ගේන අලුත්ම නීති හත | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-b69a35cc)
@@ -56,9 +59,6 @@ A collection of lk_news documents.
 - 2025-10-04 | `virakesarilk-576f1ec3` | விரிவாக்கப்பட்ட நிதிவசதிச்செயற்திட்டம் குறித்த 5 ஆம் கட்ட மீளாய்வு முன்னெடுக்கப்பட்டுவருகிறது - சர்வதேச நாணய நிதியம் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-576f1ec3)
 - 2025-10-04 | `dailyftlk-d17e7047` | President urges Maha Sangha’s guidance to restore moral fabric | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-dailyftlk-d17e7047)
 - 2025-10-04 | `dailyftlk-dfaefcb1` | Former North-Central Province Governor’s hotel removed from tank reservation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-dailyftlk-dfaefcb1)
-- 2025-10-04 | `dailyftlk-109a9fcd` | Depositors of the On Max DT pyramid investment scheme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-dailyftlk-109a9fcd)
-- 2025-10-04 | `dailyftlk-85e66665` | HWPL World Peace Summit highlights global cooperation for sustainable peace | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-dailyftlk-85e66665)
-- 2025-10-03 | `dailyftlk-8c7075fc` | Hayleys Travels wins Gold at South Asian Travel Awards 2025 as Leading Outbound Travel Agency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-8c7075fc)
 
 ---
 
