@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--05_03:38:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--05_04:02:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,079** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-04**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,081** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-05**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-04-tamilmirrorlk-f091accb",
-    "num": "tamilmirrorlk-f091accb",
-    "date_str": "2025-10-04",
-    "description": "\u0b85\u0bb8\u0bcd\u0bb5\u0bc6\u0b9a\u0bc1\u0bae \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bbe?",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb8\u0bcd\u0bb5\u0bc6\u0b9a\u0bc1\u0bae-\u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bbe/175-365724",
+    "doc_id": "2025-10-05-tamilmirrorlk-073e1151",
+    "num": "tamilmirrorlk-073e1151",
+    "date_str": "2025-10-05",
+    "description": "\u0b9a\u0bbe\u0bb0\u0ba4\u0bbf \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bae\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbe\u0bb0\u0ba4\u0bbf-\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd-\u0b95\u0bbe\u0bb2\u0bae\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-365726",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1759598276.0
+    "time_ut": 1759616357.0
 }
 ```
 
@@ -39,6 +39,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-05 | `tamilmirrorlk-073e1151` | சாரதி அனுமதிபத்திரங்கள் செல்லுபடியாகும் காலம் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-tamilmirrorlk-073e1151)
+- 2025-10-05 | `tamilmirrorlk-fb4aafa8` | கத்திக்குத்துக்கு இலக்காகி கடை உரிமையாளர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-tamilmirrorlk-fb4aafa8)
 - 2025-10-04 | `tamilmirrorlk-f091accb` | அஸ்வெசும இரத்து செய்யப்படுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-tamilmirrorlk-f091accb)
 - 2025-10-04 | `tamilmirrorlk-a68232b8` | கச்சத்தீவை அரசியலுக்காக பயன்படுத்தினால் பாரிய போராட்டம் வெடிக்கும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-tamilmirrorlk-a68232b8)
 - 2025-10-04 | `adalk-30686a1d` | උඩුනුවර සමූපාකාර ඡන්දය 9-0ක් ලෙස පොදු විපක්ෂය ජය ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-adalk-30686a1d)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-10-04 | `lankadeepalk-ac553e3f` | දිස්ත්‍රික්ක පහකට නාය අනතුරු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-ac553e3f)
 - 2025-10-04 | `adalk-a6a258d6` | නාය යෑමේ අනතුරු ඇඟවීම් නිකුත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-adalk-a6a258d6)
 - 2025-10-04 | `adalk-55766343` | තද වැසි පිළිබඳ කාලගුණයෙන් අවවාදාත්මක නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-adalk-55766343)
-- 2025-10-04 | `lankadeepalk-9a481e9b` | පෙරහරේ කාවඩි නටමින් සිටි තරුණයා ඇද වැටී මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-9a481e9b)
-- 2025-10-04 | `virakesarilk-1415c093` | சமூக ஊடகங்களின் ஜனாதிபதியை விமர்சித்த நபருக்கு மரண தண்டனை தீர்ப்பு ; டியூனீஷியாவில்  சம்பவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-1415c093)
 
 ---
 
