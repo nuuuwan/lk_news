@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--04_08:47:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--04_09:05:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**78,986** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-04**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**78,989** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-04**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-04-lankadeepalk-b69a35cc",
-    "num": "lankadeepalk-b69a35cc",
+    "doc_id": "2025-10-04-tamilmirrorlk-a2fef316",
+    "num": "tamilmirrorlk-a2fef316",
     "date_str": "2025-10-04",
-    "description": "\u0dbb\u0ddc\u0db6\u0ddd\u0dc0\u0dd9\u0db1\u0dca \u0db8\u0dd2\u0db1\u0dd2\u0dc3\u0dcf \u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1 \u0d9c\u0dda\u0db1 \u0d85\u0dbd\u0dd4\u0dad\u0dca\u0db8 \u0db1\u0dd3\u0dad\u0dd2 \u0dc4\u0dad",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dbb\u0db6\u0dc0\u0db1-\u0db8\u0db1\u0dc3-\u0dbb\u0d9a\u0db1\u0db1-\u0d9c\u0db1-\u0d85\u0dbd\u0dad\u0db8-\u0db1\u0dad-\u0dc4\u0dad/101-680718",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1759547529.0
+    "description": "\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0bbe\u0bb5\u0bb2\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95-\u0ba8\u0baa\u0bb0\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/175-365701",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759548314.0
 }
 ```
 
@@ -39,8 +39,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-04 | `tamilmirrorlk-a2fef316` | தடுப்பு காவலில் இருந்த சந்தேக நபர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-tamilmirrorlk-a2fef316)
+- 2025-10-04 | `lankadeepalk-8f5e042d` | මහින්දගේ බංගලාවට කඹ ඇදිල්ලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-8f5e042d)
 - 2025-10-04 | `lankadeepalk-b69a35cc` | රොබෝවෙන් මිනිසා රකින්න ගේන අලුත්ම නීති හත | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-b69a35cc)
 - 2025-10-04 | `tamilmirrorlk-feec643b` | தீப்பந்த போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-tamilmirrorlk-feec643b)
+- 2025-10-04 | `virakesarilk-e93ef8ff` | சட்டவிரோதமாக கொண்டுவரப்பட்ட பீடி இலைகளுடன் நால்வர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-e93ef8ff)
 - 2025-10-04 | `virakesarilk-45bf7edc` | குண்டுவீச்சை உடனடியாக நிறுத்துமாறு இஸ்ரேலுக்கு டிரம்ப் உத்தரவு -  "இன்று ஒரு பெரிய நாள்" என்றும் தெரிவிப்பு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-45bf7edc)
 - 2025-10-04 | `virakesarilk-fad1020c` | காசா போர் நிறுத்த முயற்சி : டிரம்ப் திட்டத்திற்கு ஹமாஸ் நிபந்தனையுடன் ஒப்புதல் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-fad1020c)
 - 2025-10-04 | `virakesarilk-c3851209` | தெஹிவளையில் கொலை முயற்சி, தாக்குதல் நடவடிக்கைகளில் ஈடுபட்ட ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-c3851209)
@@ -56,9 +59,6 @@ A collection of lk_news documents.
 - 2025-10-04 | `dailyftlk-109a9fcd` | Depositors of the On Max DT pyramid investment scheme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-dailyftlk-109a9fcd)
 - 2025-10-04 | `dailyftlk-85e66665` | HWPL World Peace Summit highlights global cooperation for sustainable peace | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-dailyftlk-85e66665)
 - 2025-10-03 | `dailyftlk-8c7075fc` | Hayleys Travels wins Gold at South Asian Travel Awards 2025 as Leading Outbound Travel Agency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-8c7075fc)
-- 2025-10-03 | `dailyftlk-34fe7824` | Rotary SME conclave positions boutique hotel SMEs as tourism revival catalysts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-34fe7824)
-- 2025-10-03 | `dailyftlk-94843363` | Constitutional dictatorships – OR: is the era and ethos of ‘strongman’  governments gone for good? (1/4) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-94843363)
-- 2025-10-03 | `dailyftlk-5cb01a6d` | Fools, knaves and narratives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-03-dailyftlk-5cb01a6d)
 
 ---
 
