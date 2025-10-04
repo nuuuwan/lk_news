@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--04_15:18:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--04_15:38:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,026** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-04**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,027** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-04**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,7 @@ A collection of lk_news documents.
 - 2025-10-04 | `virakesarilk-b13c9a2c` | அதிக வேகத்தில் பயணித்த லொறி ; பரிதாபமாக உயிரிழந்த பாடசாலை மாணவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-b13c9a2c)
 - 2025-10-04 | `tamilmirrorlk-7590c169` | மஹிந்தவின் குண்டு துளைக்காத வாகனமும் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-tamilmirrorlk-7590c169)
 - 2025-10-04 | `lankadeepalk-d9ab811d` | චන්ද්‍රිකාත් බංගලාවෙන් ඉවත්වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-d9ab811d)
+- 2025-10-04 | `virakesarilk-28d23d64` | கீரிசம்பா அரிசியை அதிக விலைக்கு விற்பனை செய்த  வர்த்தகர்களுக்கு  அபராதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-28d23d64)
 - 2025-10-04 | `virakesarilk-562427cc` | சட்டவிரோத காணிகள்,  கட்டிடங்களை அகற்றும் பணி கிண்ணியாவில் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-562427cc)
 - 2025-10-04 | `adalk-bdbc55b1` | කාන්තා ලෝක කුසලානයේ ශ්‍රී ලංකාව සහභාගී වන තවත් තරගයක් අද | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-adalk-bdbc55b1)
 - 2025-10-04 | `virakesarilk-d5cc10c7` | உலக விலங்குகள் தினம் இன்று | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-d5cc10c7)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-10-04 | `lankadeepalk-465a0119` | මැතිසබා  කැන්ටිමේ ’’සලාද’’  නවතී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-465a0119)
 - 2025-10-04 | `virakesarilk-5d4621a1` | வைக்கோலுக்கு தீ வைக்கச் சென்ற இரண்டு பிள்ளைகனின் தந்தை தீயில் கருகி உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-virakesarilk-5d4621a1)
 - 2025-10-04 | `lankadeepalk-aaf79592` | මෛත්‍රී කල් ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-aaf79592)
-- 2025-10-04 | `adalk-6193fe38` | දෙහිවල වෙඩි තැබීමේ සිද්ධියට පුද්ගලයෙකු අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-adalk-6193fe38)
 
 ---
 
