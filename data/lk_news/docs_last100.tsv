@@ -1,10 +1,12 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-05-adalk-cbc15593	adalk-cbc15593	2025-10-05	කාසියේ වාසිය පාකිස්තානයට	https://www.ada.lk/sports/කාසියේ-වාසිය-පාකිස්තානයට/9-418924	si	adalk	1759656394.0
 lk_news	2025-10-05-virakesarilk-26fd31de	virakesarilk-26fd31de	2025-10-05	அநுரவிடம் ஹிட்லரின் சாயல் - ரணிலின் எச்சரிப்பு	https://www.virakesari.lk/article/226954	ta	virakesarilk	1759656300.0
 lk_news	2025-10-05-virakesarilk-aa5b71a4	virakesarilk-aa5b71a4	2025-10-05	மின்கட்டண திருத்தம் தொடர்பான இறுதி தீர்மானம் அடுத்த வாரம் ; பொதுப்பயன்பாடுகள் ஆணைக்குழு அறிவிப்பு	https://www.virakesari.lk/article/226938	ta	virakesarilk	1759656000.0
 lk_news	2025-10-05-virakesarilk-366a7778	virakesarilk-366a7778	2025-10-05	குறுக்குவழி சம்பாத்தியம் அழிவையே கொண்டுவரும்	https://www.virakesari.lk/article/226950	ta	virakesarilk	1759655460.0
 lk_news	2025-10-05-virakesarilk-89278146	virakesarilk-89278146	2025-10-05	மோல்டோவா : குழப்பம் மிகுந்த எதிர்காலம்?	https://www.virakesari.lk/article/226939	ta	virakesarilk	1759655100.0
 lk_news	2025-10-05-virakesarilk-412094f8	virakesarilk-412094f8	2025-10-05	இலங்கை தேயிலை ; கின்னஸ் சாதனையும் நோபல் பரிசும்	https://www.virakesari.lk/article/226940	ta	virakesarilk	1759655100.0
 lk_news	2025-10-05-virakesarilk-d8387849	virakesarilk-d8387849	2025-10-05	அமெரிக்காவின் ஏமாற்றம்	https://www.virakesari.lk/article/226936	ta	virakesarilk	1759655040.0
+lk_news	2025-10-05-lankadeepalk-29fe0034	lankadeepalk-29fe0034	2025-10-05	මී කඩන්න ගිය අයකු වෙඩි වැදී වැටිලා	https://www.lankadeepa.lk/test/ම-කඩනන-ගය-අයක-වඩ-වද-වටල/222-680760	si	lankadeepalk	1759654834.0
 lk_news	2025-10-05-virakesarilk-8c0cc546	virakesarilk-8c0cc546	2025-10-05	"பிரிட்டனின் புதிய பிரேரணையில் ""இனமோதல்"" எனும் பதம் சேர்ப்பு: ஐ.நா. மனித உரிமைகள் பேரவையில் நாளைய தினம் நிறைவேறும்; வாக்கெடுப்பைக் கோராதிருக்க இலங்கை உத்தேசம்!"	https://www.virakesari.lk/article/226949	ta	virakesarilk	1759654620.0
 lk_news	2025-10-05-virakesarilk-42bf84a0	virakesarilk-42bf84a0	2025-10-05	மீனவர்களின் வாழ்வாதாரத்தை அழிப்பதற்கு யாழ். பல்கலைக்கழகமும் அரசுக்கு துணை போகிறது - அன்னராசா குற்றச்சாட்டு!	https://www.virakesari.lk/article/226947	ta	virakesarilk	1759654320.0
 lk_news	2025-10-05-lankadeepalk-05eecb65	lankadeepalk-05eecb65	2025-10-05	බඹරු ඇන 9ක් රෝහලේ	https://www.lankadeepa.lk/latest_news/බඹර-ඇන-9ක-රහල/1-680759	si	lankadeepalk	1759654316.0
@@ -97,5 +99,3 @@ lk_news	2025-10-04-islandlk-59e7a88f	islandlk-59e7a88f	2025-10-04	Dilmah Awards 
 lk_news	2025-10-04-islandlk-a768af5d	islandlk-a768af5d	2025-10-04	Gehenu Lamayi in Sri Lanka	http://island.lk/gehenu-lamayi-in-sri-lanka/	en	islandlk	1759593780.0
 lk_news	2025-10-04-islandlk-9522c88a	islandlk-9522c88a	2025-10-04	Sanjaya Gunawardana begins tenure as MD/CEO of Sampath Bank PLC	http://island.lk/sanjaya-gunawardana-begins-tenure-as-md-ceo-of-sampath-bank-plc/	en	islandlk	1759593780.0
 lk_news	2025-10-04-islandlk-07385216	islandlk-07385216	2025-10-04	SLIC offers Rs.1 Mn free life cover to parents of children born on World Children’s Day 2025	http://island.lk/slic-offers-rs-1-mn-free-life-cover-to-parents-of-children-born-on-world-childrens-day-2025/	en	islandlk	1759593780.0
-lk_news	2025-10-04-adalk-30686a1d	adalk-30686a1d	2025-10-04	උඩුනුවර සමූපාකාර ඡන්දය 9-0ක් ලෙස පොදු විපක්ෂය ජය ගනියි	https://www.ada.lk/breaking_news/උඩුනුවර-සමූපාකාර-ඡන්දය-9-0ක්-ලෙස-පොදු-විපක්ෂය-ජය-ගනියි/11-418914	si	adalk	1759593701.0
-lk_news	2025-10-04-adalk-51237365	adalk-51237365	2025-10-04	නාරංගල තරණයට ගිය කණ්ඩායම් තුනක් වැස්ස නිසා අතරමං වෙයි	https://www.ada.lk/breaking_news/නාරංගල-තරණයට-ගිය-කණ්ඩායම්-තුනක්-වැස්ස-නිසා-අතරමං-වෙයි/11-418913	si	adalk	1759593412.0
