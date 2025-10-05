@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-05 13:17:14",
-  "n_docs": 79156,
+  "time_updated": "2025-10-05 13:39:44",
+  "n_docs": 79164,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 79156,
+  "n_docs_with_text": 79164,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-05",
-  "dataset_size": 1159648231,
+  "dataset_size": 1159699104,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -29,19 +29,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-05-lankadeepalk-bb6f0856",
-    "num": "lankadeepalk-bb6f0856",
+    "doc_id": "2025-10-05-tamilmirrorlk-a778a2cd",
+    "num": "tamilmirrorlk-a778a2cd",
     "date_str": "2025-10-05",
-    "description": "\u0dbb\u0dd2\u0dba \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0dad\u0dd2\u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0db8\u0dbb\u0dd4\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dbb\u0dba-\u0d85\u0db1\u0dad\u0dbb\u0db1-\u0dad\u0daf\u0db1\u0d9a-\u0db8\u0dbb\u0da7/101-680758",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1759649007.0
+    "description": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4 \u0b9c\u0bcb\u0b9f\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4-\u0b9c\u0bcb\u0b9f\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/76-365758",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759651534.0
   }
 }
