@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--05_07:53:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--05_08:26:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,101** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-05**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,106** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-05**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-05-lankadeepalk-9daa6b7e",
-    "num": "lankadeepalk-9daa6b7e",
+    "doc_id": "2025-10-05-lankadeepalk-19c1435d",
+    "num": "lankadeepalk-19c1435d",
     "date_str": "2025-10-05",
-    "description": "\u0d85\u0daf\u0dad\u0dca \u0dad\u0daf\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dca\u0dc3",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0daf\u0dad-\u0dad\u0daf\u0db1-\u0dc0\u0dc3\u0dc3/101-680745",
+    "description": "\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0db4\u0dca\u0da7\u0ddd \u0db8\u0dd4\u0daf\u0dbd\u0dca: \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dbb\u0db4\u0da7-\u0db8\u0daf\u0dbd-\u0db8\u0dc4-\u0db6\u0d9a\u0dc0\u0db1-\u0dad\u0dbb\u0dab\u0dba\u0d9a/101-680746",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1759627947.0
+    "time_ut": 1759632218.0
 }
 ```
 
@@ -39,6 +39,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-05 | `lankadeepalk-19c1435d` | ක්‍රිප්ටෝ මුදල්: මහ බැංකුවෙන් තීරණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-lankadeepalk-19c1435d)
+- 2025-10-05 | `tamilmirrorlk-ff1ffaa8` | சீரற்ற வானிலை சில நாட்களுக்கு தொடரும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-tamilmirrorlk-ff1ffaa8)
+- 2025-10-05 | `virakesarilk-55374cc2` | உலகின் சிறந்த தேர்தல்கள் ஆணைக்குழுவிற்கான விருதை இலங்கை தேர்தல் ஆணைக்குழு சுவீகரித்தது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-55374cc2)
+- 2025-10-05 | `virakesarilk-78d36f28` | சட்டவிரோதமாக கொண்டுவரப்பட்ட பெருந்தொகையான பீடி இலைகளுடன் இருவர் கைது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-78d36f28)
+- 2025-10-05 | `virakesarilk-931a4bac` | ஸ்டாலின், விஜய்க்கு எதிராக போராட்டம் - வடமாகாண கடற்றொழிலாளர் இணையம் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-931a4bac)
 - 2025-10-05 | `lankadeepalk-9daa6b7e` | අදත් තදින් වැස්ස | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-lankadeepalk-9daa6b7e)
 - 2025-10-05 | `lankadeepalk-4a2644db` | බැකෝ සමන්ගේ මස්සිනා කුඩු සමග මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-lankadeepalk-4a2644db)
 - 2025-10-05 | `lankadeepalk-d3e56055` | ඇල්පිටියේ වෙඩි තැබිමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-lankadeepalk-d3e56055)
@@ -54,11 +59,6 @@ A collection of lk_news documents.
 - 2025-10-04 | `islandlk-07385216` | SLIC offers Rs.1 Mn free life cover to parents of children born on World Children’s Day 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-islandlk-07385216)
 - 2025-10-04 | `adalk-30686a1d` | උඩුනුවර සමූපාකාර ඡන්දය 9-0ක් ලෙස පොදු විපක්ෂය ජය ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-adalk-30686a1d)
 - 2025-10-04 | `lankadeepalk-e372b47d` | පොළොන්නරු බීජ ගොවිපලේ දී විදුලි සැර වැදී අලියකු මියයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-e372b47d)
-- 2025-10-04 | `lankadeepalk-72d3ca61` | නාරංගල කන්දේ අතරමං වූ පිරිසක් බේරා ගැනීමේ මෙහෙයුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-72d3ca61)
-- 2025-10-04 | `islandlk-39402aa7` | Combination of circumstances gives CBK the opportunity to dissolve Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-islandlk-39402aa7)
-- 2025-10-04 | `islandlk-0f71cff8` | More fruit for their labour | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-islandlk-0f71cff8)
-- 2025-10-04 | `islandlk-31195441` | Why APEC Cannot Save Asia? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-islandlk-31195441)
-- 2025-10-04 | `colombotelegraphcom-f95bd969` | Reclaiming The Nation We Deserve, From The Shackles Of A Hollow Democracy: A Response | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-colombotelegraphcom-f95bd969)
 
 ---
 
