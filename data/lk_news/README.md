@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--05_13:40:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--05_14:05:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,164** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-05**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,167** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-05**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-05-tamilmirrorlk-a778a2cd",
-    "num": "tamilmirrorlk-a778a2cd",
+    "doc_id": "2025-10-05-virakesarilk-19a58f09",
+    "num": "virakesarilk-19a58f09",
     "date_str": "2025-10-05",
-    "description": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4 \u0b9c\u0bcb\u0b9f\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4-\u0b9c\u0bcb\u0b9f\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/76-365758",
+    "description": "\u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0b9a\u0baa\u0bc8\u0ba4\u0bcd\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0b87\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0b95\u0bcd\u0b95\u0bc1  \u0b89\u0bb3\u0bcd\u0bb3\u0bc2\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0b9f\u0bc8\u0bb5\u0bc7 \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd ; \u0baa\u0bb4\u0bc8\u0baf \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bc8 \u0b89\u0b9f\u0ba9\u0bcd \u0ba8\u0b9f\u0bbe\u0ba4\u0bcd\u0ba4\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u0b9a\u0bc1\u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/226935",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1759651534.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1759652280.0
 }
 ```
 
@@ -39,6 +39,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-05 | `virakesarilk-19a58f09` | மாகாணசபைத்தேர்தல் இழுத்தடிப்பக்கு  உள்ளூராட்சி பின்னடைவே காரணம் ; பழைய முறையில் தேர்தலை உடன் நடாத்தவேண்டும் என்கிறார் சுமந்திரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-19a58f09)
+- 2025-10-05 | `virakesarilk-768142ba` | 35 வருடங்களாக மகனுக்காக காத்திருக்கும் தாய்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-768142ba)
 - 2025-10-05 | `tamilmirrorlk-a778a2cd` | கண்டியில் கை வைத்த ஜோடி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-tamilmirrorlk-a778a2cd)
 - 2025-10-05 | `adalk-13748686` | තැපැල් දෙපාර්තුමේන්තුවට ස්ථිර තැපැල් සහයක 731 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-adalk-13748686)
 - 2025-10-05 | `tamilmirrorlk-ca48b7a2` | சூரியின் ‘மண்டாடி’ படப்பிடிப்பில் விபத்து: ரூ.1 கோடி  சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-tamilmirrorlk-ca48b7a2)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-10-05 | `lankadeepalk-6358afed` | විසුම්පායටත් ආයෝජකයකු සොයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-lankadeepalk-6358afed)
 - 2025-10-05 | `virakesarilk-5b06b643` | தலைமன்னாரில் இருந்து தனுஷ்கோடி வரையிலான பாக்கு நீரிணையை மாற்றுத்திறனாளி சிறுவன் நீந்தி சாதனை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-5b06b643)
 - 2025-10-05 | `lankadeepalk-3c180342` | ඇල්පිටිය රෝහලට ’’මල් පිපෙන’’ ආරංචියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-lankadeepalk-3c180342)
-- 2025-10-05 | `tamilmirrorlk-b00afcb6` | 400 மொழிகளில் திறமை: 46 மொழிகளில் சரளமான பேச்சு: உலகை வியக்க வைத்த மஹ்மூத் அக்ரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-tamilmirrorlk-b00afcb6)
-- 2025-10-05 | `virakesarilk-435ad980` | ஹிட்லரின் பாதையில் தேசிய மக்கள் சக்தி அரசு ; நீதித்துறையைக் கட்டுப்படுத்த முயல்வதாக ரணில் சாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-435ad980)
 
 ---
 
