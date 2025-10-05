@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--06_00:17:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--06_01:30:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,233** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-05**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,236** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-06**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-05-virakesarilk-eba6b1a2",
-    "num": "virakesarilk-eba6b1a2",
-    "date_str": "2025-10-05",
-    "description": "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd \u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0b95\u0bb0\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd 51 \u0bb5\u0baf\u0ba4\u0bbe\u0ba9 \u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/226983",
+    "doc_id": "2025-10-06-virakesarilk-f511f088",
+    "num": "virakesarilk-f511f088",
+    "date_str": "2025-10-06",
+    "description": "\u0b9a\u0bbe\u0bb5\u0b95\u0b9a\u0bcd\u0b9a\u0bc7\u0bb0\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b95\u0bc1\u0bae\u0bb0\u0baa\u0bcd\u0baa\u0bbe \u0baa\u0bc1\u0bb2\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1\u0ba4\u0bcd\u0ba4\u0bc2\u0baa\u0bbf \u0b87\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/226985",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1759683060.0
+    "time_ut": 1759690680.0
 }
 ```
 
@@ -39,6 +39,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-06 | `virakesarilk-f511f088` | சாவகச்சேரியில் அமைந்திருந்த குமரப்பா புலேந்திரன் உள்ளிட்டவர்களின் நினைவுத்தூபி இடித்தழிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-virakesarilk-f511f088)
+- 2025-10-06 | `virakesarilk-1ba47e43` | அரசியல் தலையீட்டினால் சுயாதீனத்தன்மையை இழந்துள்ள பொலிஸ் ஆணைக்குழு - தயாசிறி ஜயசேகர எம்.பி. விசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-virakesarilk-1ba47e43)
 - 2025-10-05 | `virakesarilk-eba6b1a2` | யாழ்ப்பாணம் குருநகரில் போதைப்பொருளுடன் 51 வயதான நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-eba6b1a2)
 - 2025-10-05 | `virakesarilk-9c66d3bd` | 2025 ஜனவரி முதல் செப்டம்பர் வரை இலங்கைக்கு 17 இலட்சத்திற்கும் மேற்பட்ட வெளிநாட்டு சுற்றுலாப் பயணிகள் வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-9c66d3bd)
 - 2025-10-05 | `tamilmirrorlk-c7a7ccc3` | ”ஒரு தலைவராகப் பெறக்கூடிய பெரும் மகிழ்ச்சியை அனுபவித்தேன்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-tamilmirrorlk-c7a7ccc3)
@@ -57,8 +59,6 @@ A collection of lk_news documents.
 - 2025-10-05 | `virakesarilk-11d91e3a` | பதுளை மாவட்டத்திற்கு மண்சரிவு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-11d91e3a)
 - 2025-10-05 | `tamilmirrorlk-ee1f7d1f` | அந்தரங்க உறுப்புக்குள் மனைவி வைத்திருந்த பொருள்:   கணவருக்கு தீவிர சிகிச்சை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-tamilmirrorlk-ee1f7d1f)
 - 2025-10-05 | `tamilmirrorlk-696f24ea` | இறுதி ஊர்வலத்தில் ரோபோ சங்கர் மனைவி நடனம்: மகள் இந்திரஜா விவரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-tamilmirrorlk-696f24ea)
-- 2025-10-05 | `virakesarilk-c1f0307f` | நாணய நிதியத்தை மகிழ்விக்க அரசாங்கம் மின்கட்டணத்தை அதிகரிக்கும் பொதுப்பயன்பாடுகள் ஆணைக்குழுவின் சுயாதீனம் கேலிக்குள்ளாகியுள்ளது - மின்பாவனையாளர் சங்கம் குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-c1f0307f)
-- 2025-10-05 | `virakesarilk-2ffd4dda` | சிறுவர்களை தவறாக வழிநடத்தும் அரசாங்கம் ; ஐக்கிய மக்கள் சக்தி கடும் விசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-2ffd4dda)
 
 ---
 
