@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--05_10:04:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--05_10:18:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,121** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-05**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,123** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-05**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-05-virakesarilk-796ebd02",
-    "num": "virakesarilk-796ebd02",
+    "doc_id": "2025-10-05-lankadeepalk-0ff495c5",
+    "num": "lankadeepalk-0ff495c5",
     "date_str": "2025-10-05",
-    "description": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf \u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bc1\u0baf\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd, \u0b90\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/226911",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1759638600.0
+    "description": "\u0d89\u0da9\u0db8\u0dca \u0d9a\u0ddc\u0db8\u0dd2\u0dc3\u0db8\u0dda \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d89\u0da9\u0db8-\u0d9a\u0db8\u0dc3\u0db8-\u0dbd\u0d9a\u0d9a-\u0d89\u0dc0\u0dad-\u0d9a\u0dbb\u0dba/101-680747",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1759638835.0
 }
 ```
 
@@ -39,6 +39,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-05 | `lankadeepalk-0ff495c5` | ඉඩම් කොමිසමේ ලොක්කා ඉවත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-lankadeepalk-0ff495c5)
 - 2025-10-05 | `virakesarilk-796ebd02` | துப்பாக்கிச் சூடு நடத்தி கொலை முயற்சியில் ஈடுபட்ட சந்தேக நபர், ஐஸ் போதைப்பொருளுடன் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-796ebd02)
 - 2025-10-05 | `virakesarilk-b3f9cc77` | மன்னார் - அடம்பன் புளியங்குளம் பகுதியைச் சேர்ந்த இளைஞரை காணவில்லை ; கண்டுபிடிக்க பொதுமக்களின் உதவியை கோரும் குடும்பத்தினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-b3f9cc77)
 - 2025-10-05 | `virakesarilk-cc0d7061` | எல்பிட்டியவில் துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-cc0d7061)
@@ -58,7 +59,6 @@ A collection of lk_news documents.
 - 2025-10-05 | `virakesarilk-78d36f28` | சட்டவிரோதமாக கொண்டுவரப்பட்ட பெருந்தொகையான பீடி இலைகளுடன் இருவர் கைது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-78d36f28)
 - 2025-10-05 | `virakesarilk-931a4bac` | ஸ்டாலின், விஜய்க்கு எதிராக போராட்டம் - வடமாகாண கடற்றொழிலாளர் இணையம் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-931a4bac)
 - 2025-10-05 | `lankadeepalk-9daa6b7e` | අදත් තදින් වැස්ස | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-lankadeepalk-9daa6b7e)
-- 2025-10-05 | `lankadeepalk-4a2644db` | බැකෝ සමන්ගේ මස්සිනා කුඩු සමග මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-lankadeepalk-4a2644db)
 
 ---
 
