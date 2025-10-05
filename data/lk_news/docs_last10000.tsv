@@ -1,4 +1,8 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-05-lankadeepalk-9daa6b7e	lankadeepalk-9daa6b7e	2025-10-05	අදත් තදින් වැස්ස	https://www.lankadeepa.lk/news/අදත-තදන-වසස/101-680745	si	lankadeepalk	1759627947.0
+lk_news	2025-10-05-lankadeepalk-4a2644db	lankadeepalk-4a2644db	2025-10-05	බැකෝ සමන්ගේ මස්සිනා කුඩු සමග මාට්ටු	https://www.lankadeepa.lk/news/බක-සමනග-මසසන-කඩ-සමග-මටට/101-680744	si	lankadeepalk	1759627551.0
+lk_news	2025-10-05-lankadeepalk-d3e56055	lankadeepalk-d3e56055	2025-10-05	ඇල්පිටියේ වෙඩි තැබිමක්	https://www.lankadeepa.lk/news/ඇලපටය-වඩ-තබමක/101-680743	si	lankadeepalk	1759627334.0
+lk_news	2025-10-05-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-10-05	இன்றைய வானிலை	https://www.virakesari.lk/article/226907	ta	virakesarilk	1759626120.0
 lk_news	2025-10-05-tamilmirrorlk-c0e10a9e	tamilmirrorlk-c0e10a9e	2025-10-05	உக்ரைன் ரயில் நிலையத்தில் ரஷ்யா தாக்குதல்	https://www.tamilmirror.lk/உலக-செய்திகள்/உக்ரைன்-ரயில்-நிலையத்தில்-ரஷ்யா-தாக்குதல்/50-365727	ta	tamilmirrorlk	1759616672.0
 lk_news	2025-10-05-tamilmirrorlk-073e1151	tamilmirrorlk-073e1151	2025-10-05	சாரதி அனுமதிபத்திரங்கள் செல்லுபடியாகும் காலம் நீடிப்பு	https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதிபத்திரங்கள்-செல்லுபடியாகும்-காலம்-நீடிப்பு/175-365726	ta	tamilmirrorlk	1759616357.0
 lk_news	2025-10-05-tamilmirrorlk-fb4aafa8	tamilmirrorlk-fb4aafa8	2025-10-05	கத்திக்குத்துக்கு இலக்காகி கடை உரிமையாளர் மரணம்	https://www.tamilmirror.lk/செய்திகள்/கத்திக்குத்துக்கு-இலக்காகி-கடை-உரிமையாளர்-மரணம்/175-365725	ta	tamilmirrorlk	1759615606.0
@@ -995,7 +999,3 @@ lk_news	2025-09-29-lankadeepalk-dddf4d8d	lankadeepalk-dddf4d8d	2025-09-29	ජන
 lk_news	2025-09-29-lankadeepalk-a254d53c	lankadeepalk-a254d53c	2025-09-29	අයි.එම්.එෆ්- රජයේ ප්‍රතිසංස්කරණ ප්‍රගතිය අගයයි	https://www.lankadeepa.lk/news/අය-එම-එෆ-රජය-පරතසසකරණ-පරගතය-අගයය/101-680439	si	lankadeepalk	1759162473.0
 lk_news	2025-09-29-tamilmirrorlk-a7e16be4	tamilmirrorlk-a7e16be4	2025-09-29	ஜப்பான் தலைவர்களை சந்தித்தார் அநுர	https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-தலைவர்களை-சந்தித்தார்-அநுர/175-365498	ta	tamilmirrorlk	1759162409.0
 lk_news	2025-09-29-virakesarilk-60a6567c	virakesarilk-60a6567c	2025-09-29	அநுரவின் 12 மாதகால ஆட்சி	https://www.virakesari.lk/article/226442	ta	virakesarilk	1759162380.0
-lk_news	2025-09-29-lankadeepalk-7bada99c	lankadeepalk-7bada99c	2025-09-29	මහනුවර මාර්ගයේ බස් රථ අනතුරින් 12ක්‌ රෝහලට	https://www.lankadeepa.lk/news/මහනවර-මරගය-බස-රථ-අනතරන-12ක-රහලට/101-680438	si	lankadeepalk	1759161813.0
-lk_news	2025-09-29-tamilmirrorlk-81ff8c1c	tamilmirrorlk-81ff8c1c	2025-09-29	பேருந்து விபத்தில் 12 பேர் படுகாயம்	https://www.tamilmirror.lk/செய்திகள்/பேருந்து-விபத்தில்-12-பேர்-படுகாயம்/175-365497	ta	tamilmirrorlk	1759161109.0
-lk_news	2025-09-29-lankadeepalk-172afc87	lankadeepalk-172afc87	2025-09-29	හරිනි - රොබෝ එක්ක කතා කරයි	https://www.lankadeepa.lk/latest_news/හරන-රබ-එකක-කත-කරය/1-680437	si	lankadeepalk	1759160579.0
-lk_news	2025-09-29-lankadeepalk-2d307971	lankadeepalk-2d307971	2025-09-29	’’මානිගේ තීරුව. NOT OUT 36!’’ කෘතිය එළිදකියි	https://www.lankadeepa.lk/latest_news/මනග-තරව-NOT-OUT-36-කතය-එළදකය/1-680436	si	lankadeepalk	1759160235.0

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--05_06:16:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--05_07:06:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,096** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-05**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,100** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-05**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-05-tamilmirrorlk-c0e10a9e",
-    "num": "tamilmirrorlk-c0e10a9e",
+    "doc_id": "2025-10-05-lankadeepalk-9daa6b7e",
+    "num": "lankadeepalk-9daa6b7e",
     "date_str": "2025-10-05",
-    "description": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bb0\u0bb7\u0bcd\u0baf\u0bbe-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/50-365727",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1759616672.0
+    "description": "\u0d85\u0daf\u0dad\u0dca \u0dad\u0daf\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dca\u0dc3",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0daf\u0dad-\u0dad\u0daf\u0db1-\u0dc0\u0dc3\u0dc3/101-680745",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1759627947.0
 }
 ```
 
@@ -39,6 +39,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-05 | `lankadeepalk-9daa6b7e` | අදත් තදින් වැස්ස | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-lankadeepalk-9daa6b7e)
+- 2025-10-05 | `lankadeepalk-4a2644db` | බැකෝ සමන්ගේ මස්සිනා කුඩු සමග මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-lankadeepalk-4a2644db)
+- 2025-10-05 | `lankadeepalk-d3e56055` | ඇල්පිටියේ වෙඩි තැබිමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-lankadeepalk-d3e56055)
+- 2025-10-05 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-virakesarilk-3a015e4a)
 - 2025-10-05 | `tamilmirrorlk-c0e10a9e` | உக்ரைன் ரயில் நிலையத்தில் ரஷ்யா தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-tamilmirrorlk-c0e10a9e)
 - 2025-10-05 | `tamilmirrorlk-073e1151` | சாரதி அனுமதிபத்திரங்கள் செல்லுபடியாகும் காலம் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-tamilmirrorlk-073e1151)
 - 2025-10-05 | `tamilmirrorlk-fb4aafa8` | கத்திக்குத்துக்கு இலக்காகி கடை உரிமையாளர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-05-tamilmirrorlk-fb4aafa8)
@@ -55,10 +59,6 @@ A collection of lk_news documents.
 - 2025-10-04 | `islandlk-0f71cff8` | More fruit for their labour | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-islandlk-0f71cff8)
 - 2025-10-04 | `islandlk-31195441` | Why APEC Cannot Save Asia? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-islandlk-31195441)
 - 2025-10-04 | `colombotelegraphcom-f95bd969` | Reclaiming The Nation We Deserve, From The Shackles Of A Hollow Democracy: A Response | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-colombotelegraphcom-f95bd969)
-- 2025-10-04 | `lankadeepalk-e83e7a5a` | විෂ සතෙකු සපා කෑමෙන් සිව් හැවිරිදි දරුවා මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-e83e7a5a)
-- 2025-10-04 | `lankadeepalk-83f29bf7` | බදුල්ලේ පැත්තකට අයිස් වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-lankadeepalk-83f29bf7)
-- 2025-10-04 | `islandlk-08e5f237` | Some faces and lives from the mid 20th century | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-islandlk-08e5f237)
-- 2025-10-04 | `islandlk-97141b1b` | Lumumba alumni gather for nostalgic 50th anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-04-islandlk-97141b1b)
 
 ---
 
