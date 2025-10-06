@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_01:33:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_02:27:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,399** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-07**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,405** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-07**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-07-dailyftlk-33dbf890",
-    "num": "dailyftlk-33dbf890",
+    "doc_id": "2025-10-07-dailyftlk-0aafefe1",
+    "num": "dailyftlk-0aafefe1",
     "date_str": "2025-10-07",
-    "description": "Aruni Shapiro introduces Adam Smith to Sri Lanka\u2019s readers",
-    "url_metadata": "https://www.ft.lk/columns/Aruni-Shapiro-introduces-Adam-Smith-to-Sri-Lanka-s-readers/4-782633",
+    "description": "SLID and ACCA launch National Director Awards",
+    "url_metadata": "https://www.ft.lk/business/SLID-and-ACCA-launch-National-Director-Awards/34-782647",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759777657.0
+    "time_ut": 1759780655.0
 }
 ```
 
@@ -39,6 +39,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-07 | `dailyftlk-0aafefe1` | SLID and ACCA launch National Director Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-dailyftlk-0aafefe1)
+- 2025-10-07 | `dailyftlk-f1732ba3` | CM Holdings to dispose Rs. 382.2 m property | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-dailyftlk-f1732ba3)
+- 2025-10-07 | `dailyftlk-b326139c` | Condemning surveillance, harassment, and intimidation of journalist Kumanan Kanapathipillai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-dailyftlk-b326139c)
 - 2025-10-07 | `dailyftlk-33dbf890` | Aruni Shapiro introduces Adam Smith to Sri Lanka’s readers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-dailyftlk-33dbf890)
 - 2025-10-07 | `dailyftlk-456215c8` | Being Buddhist during genocide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-dailyftlk-456215c8)
 - 2025-10-06 | `dailyftlk-ce82e85f` | Elevating Sri Lankan brands on the global stage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-dailyftlk-ce82e85f)
@@ -56,9 +59,6 @@ A collection of lk_news documents.
 - 2025-10-06 | `lankadeepalk-b42058ae` | වකුගඩු එන්නත් කටුවෙන් ලොකු ගැහිල්ලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-lankadeepalk-b42058ae)
 - 2025-10-06 | `lankadeepalk-8443d000` | මුරුතවෙල ජලාශයේ ගිලී ගුරුවරයෙකු මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-lankadeepalk-8443d000)
 - 2025-10-06 | `virakesarilk-47a92675` | மேற்கிந்தியத் தீவுகளின் முன்னாள் சகலதுறை வீரர் பெர்னார்ட் ஜூலியன் மறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-virakesarilk-47a92675)
-- 2025-10-06 | `virakesarilk-5dc53c38` | பெல்லன்வில ரஜமஹா விகாரையின் “மெனிக்க” யானை உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-virakesarilk-5dc53c38)
-- 2025-10-06 | `lankadeepalk-936c2ab2` | හිටපු මැති ඇමැති 40ගේ බැංකු ගිණුම් අවුස්සයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-lankadeepalk-936c2ab2)
-- 2025-10-06 | `lankadeepalk-279b70b4` | මන්ත්‍රී  “පැන්ෂන්” කපන පනත අවසන් සෝදිසියේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-lankadeepalk-279b70b4)
 
 ---
 

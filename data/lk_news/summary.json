@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-07 01:32:57",
-  "n_docs": 79399,
+  "time_updated": "2025-10-07 02:26:47",
+  "n_docs": 79405,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 79399,
+  "n_docs_with_text": 79405,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-07",
-  "dataset_size": 1163689740,
+  "dataset_size": 1163957652,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -29,19 +29,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-07-dailyftlk-33dbf890",
-    "num": "dailyftlk-33dbf890",
+    "doc_id": "2025-10-07-dailyftlk-0aafefe1",
+    "num": "dailyftlk-0aafefe1",
     "date_str": "2025-10-07",
-    "description": "Aruni Shapiro introduces Adam Smith to Sri Lanka\u2019s readers",
-    "url_metadata": "https://www.ft.lk/columns/Aruni-Shapiro-introduces-Adam-Smith-to-Sri-Lanka-s-readers/4-782633",
+    "description": "SLID and ACCA launch National Director Awards",
+    "url_metadata": "https://www.ft.lk/business/SLID-and-ACCA-launch-National-Director-Awards/34-782647",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759777657.0
+    "time_ut": 1759780655.0
   }
 }
