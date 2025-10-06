@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_00:07:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_00:44:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,377** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-06**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,381** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-07**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -17,14 +17,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-06-tamilmirrorlk-edfaa363",
-    "num": "tamilmirrorlk-edfaa363",
-    "date_str": "2025-10-06",
-    "description": "\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bcd \u0ba4\u0bc7\u0bb5\u0bb0\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe",
-    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9c\u0baf\u0bcd-\u0ba4\u0bc7\u0bb5\u0bb0\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe/54-365856",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1759770374.0
+    "doc_id": "2025-10-07-dailyftlk-33dbf890",
+    "num": "dailyftlk-33dbf890",
+    "date_str": "2025-10-07",
+    "description": "Aruni Shapiro introduces Adam Smith to Sri Lanka\u2019s readers",
+    "url_metadata": "https://www.ft.lk/columns/Aruni-Shapiro-introduces-Adam-Smith-to-Sri-Lanka-s-readers/4-782633",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1759777657.0
 }
 ```
 
@@ -39,6 +39,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-07 | `dailyftlk-33dbf890` | Aruni Shapiro introduces Adam Smith to Sri Lanka’s readers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-dailyftlk-33dbf890)
+- 2025-10-07 | `dailyftlk-456215c8` | Being Buddhist during genocide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-dailyftlk-456215c8)
+- 2025-10-06 | `dailyftlk-ce82e85f` | Elevating Sri Lankan brands on the global stage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-dailyftlk-ce82e85f)
+- 2025-10-06 | `dailyftlk-40820ca3` | Signature partners CH17 Loyalty to elevate style with rewards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-dailyftlk-40820ca3)
 - 2025-10-06 | `tamilmirrorlk-edfaa363` | விபத்தில் சிக்கினார் விஜய் தேவரகொண்டா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-tamilmirrorlk-edfaa363)
 - 2025-10-06 | `lankadeepalk-8124ddd9` | උඩු මහලින් වැටුණු හිමි නම අපවත් වෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-lankadeepalk-8124ddd9)
 - 2025-10-06 | `lankadeepalk-b5e5d722` | බෝලය ගන්න තටාකයට පැන්න සිසුවා ගිලි මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-lankadeepalk-b5e5d722)
@@ -55,10 +59,6 @@ A collection of lk_news documents.
 - 2025-10-06 | `tamilmirrorlk-0975b4e8` | ”கம்மன்பிலவும் விமலும் நீண்ட காலமாக லூசு போல் பேசி வருகின்றனர்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-tamilmirrorlk-0975b4e8)
 - 2025-10-06 | `adalk-cf922d9f` | එන්නත් කටු හිඟය නිසා රු. 100 රුධිර කාන්දුකරන එන්නත් කටුවක් රු 760ට විකුණයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-adalk-cf922d9f)
 - 2025-10-06 | `adalk-6b0e90fe` | ගම්පොල අනතුරකින් තිදෙනෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-adalk-6b0e90fe)
-- 2025-10-06 | `virakesarilk-5d5f85cf` | மானிப்பாய் பிரதேச சபையின் நூலகங்களில் தேசிய வாசிப்பு மாத நிகழ்வுகள் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-virakesarilk-5d5f85cf)
-- 2025-10-06 | `virakesarilk-c8adc0df` | மருந்துகளின் பற்றாக்குறைக்கு தீர்வு காண்பதற்கான வழிமுறைகள் தற்போதுள்ள சட்ட நடைமுறைகளால் தடைப்பட்டுள்ளது  -  நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-virakesarilk-c8adc0df)
-- 2025-10-06 | `virakesarilk-0032da53` | மோட்டார் சைக்கிள் விபத்தில் ஒருவர் பலி ; இருவர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-virakesarilk-0032da53)
-- 2025-10-06 | `virakesarilk-1c8a57c4` | புவக்தண்டாவே சானா தொடர்பில் வாக்குமூலம் அளிப்பதற்கு பிறிதொரு தினத்தை வழங்குமாறு விமல் வீரவன்ச கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-06-virakesarilk-1c8a57c4)
 
 ---
 
