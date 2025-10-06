@@ -2,10 +2,9 @@ from abc import ABC
 from typing import Generator
 
 from bs4 import BeautifulSoup
-from utils import Log, String, TimeFormat
+from utils import WWW, Log, String, TimeFormat
 
 from news_lk3.core.article.Article import Article
-from utils import WWW
 
 MIN_ARTICLE_HTML_SIZE = 1_000
 MIN_CHARS_IN_BODY_LINE = 60
@@ -49,7 +48,7 @@ class AbstractNewsPaper(ABC):
         try:
             www = WWW(url)
             if cls.use_selenium():
-                html = www.readSelenium()
+                html = www.read_selenium()
             else:
                 html = www.read()
         except Exception as e:
