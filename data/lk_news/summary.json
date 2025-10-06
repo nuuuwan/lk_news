@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-06 15:29:05",
-  "n_docs": 79323,
+  "time_updated": "2025-10-06 16:26:22",
+  "n_docs": 79328,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 79323,
+  "n_docs_with_text": 79328,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-06",
-  "dataset_size": 1162456104,
+  "dataset_size": 1162499287,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -35,13 +35,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-06-adalk-687eb16e",
-    "num": "adalk-687eb16e",
+    "doc_id": "2025-10-06-lankadeepalk-0e3c9d34",
+    "num": "lankadeepalk-0e3c9d34",
     "date_str": "2025-10-06",
-    "description": "\u0db6\u0dd2\u0dbb\u0dd2\u0db3\u0d9c\u0dda \u0dc4\u0dad\u0dca \u0daf\u0dc0\u0dc3\u0dda \u0db6\u0dab \u0daf\u0dd2\u0db1\u0dba\u0dda \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf\u0dad\u0dca \u0db8\u0dd2\u0dba \u0dba\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dd2\u0dbb\u0dd2\u0db3\u0d9c\u0dda-\u0dc4\u0dad\u0dca-\u0daf\u0dc0\u0dc3\u0dda-\u0db6\u0dab-\u0daf\u0dd2\u0db1\u0dba\u0dda-\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf\u0dad\u0dca-\u0db8\u0dd2\u0dba-\u0dba\u0dba\u0dd2/11-418937",
+    "description": "\u0dad\u0dd0\u0db4\u0dd1\u0dbd \u0dad\u0dc0\u0dad\u0dca \u0dbb\u0da7\u0da7 \u0db6\u0dbb\u0d9a\u0dca \u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 \u0db1\u0dd1",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dad\u0db4\u0dbd-\u0dad\u0dc0\u0dad-\u0dbb\u0da7\u0da7-\u0db6\u0dbb\u0d9a-\u0dc0\u0dba-\u0dba\u0dad-\u0db1/1-680799",
     "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1759741697.0
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1759745922.0
   }
 }
