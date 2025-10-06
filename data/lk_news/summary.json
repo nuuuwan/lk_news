@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-07 03:22:16",
-  "n_docs": 79406,
+  "time_updated": "2025-10-07 04:27:21",
+  "n_docs": 79414,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 79406,
+  "n_docs_with_text": 79414,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-07",
-  "dataset_size": 1164082829,
+  "dataset_size": 1164125944,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -35,13 +35,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-07-dailyftlk-0aafefe1",
-    "num": "dailyftlk-0aafefe1",
+    "doc_id": "2025-10-07-dailyftlk-1d2d152b",
+    "num": "dailyftlk-1d2d152b",
     "date_str": "2025-10-07",
-    "description": "SLID and ACCA launch National Director Awards",
-    "url_metadata": "https://www.ft.lk/business/SLID-and-ACCA-launch-National-Director-Awards/34-782647",
+    "description": "International Day for Universal Access to Information",
+    "url_metadata": "https://www.ft.lk/news/International-Day-for-Universal-Access-to-Information/56-782667",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759780655.0
+    "time_ut": 1759786594.0
   }
 }
