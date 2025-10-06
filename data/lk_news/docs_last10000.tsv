@@ -1,4 +1,10 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-06-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-10-06	இன்றைய வானிலை	https://www.virakesari.lk/article/226991	ta	virakesarilk	1759711200.0
+lk_news	2025-10-06-virakesarilk-4e755d0c	virakesarilk-4e755d0c	2025-10-06	முத்து நகர் விவசாயிகளின் சத்தியாக் கிரகப் போராட்டம் 19ஆவது நாளாக தொடர்கிறது	https://www.virakesari.lk/article/226990	ta	virakesarilk	1759697340.0
+lk_news	2025-10-06-virakesarilk-46d75264	virakesarilk-46d75264	2025-10-06	மலையக அதிகாரசபை ; ஜனாதிபதியின் கைகளில் முடிவு…!	https://www.virakesari.lk/article/226989	ta	virakesarilk	1759697040.0
+lk_news	2025-10-06-virakesarilk-8c387513	virakesarilk-8c387513	2025-10-06	ரணிலை விட 72 சதவீதம் அதிகமாக நிதி ஒதுக்கியுள்ள அநுர நாட்டுக்கு காரணத்தை வெளிப்படுத்துமாறு தயாசிறி வலியுறுத்தல்	https://www.virakesari.lk/article/226988	ta	virakesarilk	1759696860.0
+lk_news	2025-10-06-virakesarilk-08745109	virakesarilk-08745109	2025-10-06	இந்திய அரசாங்கத்தின் உதவியுடனான அம்பத்தலே நீர் வழங்கல் திட்டம் : அடையாள ரீதியாக ஜனாதிபதியிடம் கையளிப்பு	https://www.virakesari.lk/article/226987	ta	virakesarilk	1759696620.0
+lk_news	2025-10-06-virakesarilk-6d4299bc	virakesarilk-6d4299bc	2025-10-06	யாழ். புன்னாலைக்கட்டுவனில் இடம்பெற்ற விபத்தில் இரண்டு முதியவர்கள் படுகாயம்!	https://www.virakesari.lk/article/226986	ta	virakesarilk	1759696440.0
 lk_news	2025-10-06-virakesarilk-f511f088	virakesarilk-f511f088	2025-10-06	சாவகச்சேரியில் அமைந்திருந்த குமரப்பா புலேந்திரன் உள்ளிட்டவர்களின் நினைவுத்தூபி இடித்தழிப்பு!	https://www.virakesari.lk/article/226985	ta	virakesarilk	1759690680.0
 lk_news	2025-10-06-virakesarilk-1ba47e43	virakesarilk-1ba47e43	2025-10-06	அரசியல் தலையீட்டினால் சுயாதீனத்தன்மையை இழந்துள்ள பொலிஸ் ஆணைக்குழு - தயாசிறி ஜயசேகர எம்.பி. விசனம்	https://www.virakesari.lk/article/226984	ta	virakesarilk	1759690440.0
 lk_news	2025-10-05-virakesarilk-eba6b1a2	virakesarilk-eba6b1a2	2025-10-05	யாழ்ப்பாணம் குருநகரில் போதைப்பொருளுடன் 51 வயதான நபர் கைது	https://www.virakesari.lk/article/226983	ta	virakesarilk	1759683060.0
@@ -993,9 +999,3 @@ lk_news	2025-09-30-lankadeepalk-5c955c40	lankadeepalk-5c955c40	2025-09-30	රෝ
 lk_news	2025-09-30-virakesarilk-a18e699d	virakesarilk-a18e699d	2025-09-30	கம்பளையில் போதைப்பொருளுடன் இளம் தம்பதி கைது ; மேலதிக விசாரணைகளில் பல பொருட்கள் கைப்பற்றல்!	https://www.virakesari.lk/article/226486	ta	virakesarilk	1759220460.0
 lk_news	2025-09-30-lankadeepalk-997d3363	lankadeepalk-997d3363	2025-09-30	පොලිසියෙන් ඉල්ලූ තහනමට අධිකරණයෙන් දුන් නියෝගය	https://www.lankadeepa.lk/news/පලසයන-ඉලල-තහනමට-අධකරණයන-දන-නයගය/101-680494	si	lankadeepalk	1759219692.0
 lk_news	2025-09-30-adalk-65052ef3	adalk-65052ef3	2025-09-30	ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි සතීෂ් ගමගේට ඇප	https://www.ada.lk/breaking_news/ජ්‍යෙෂ්ඨ-පොලිස්-අධිකාරි-සතීෂ්-ගමගේට-ඇප/11-418811	si	adalk	1759219588.0
-lk_news	2025-09-30-adalk-219be3ff	adalk-219be3ff	2025-09-30	ඉන්දුනීසියාවේ පාසල් ගොඩනැගිල්ලක් කඩා වැටී තිදෙනෙක් මරුට, තවත් පිරිසක් සුන්බුන් අතර	https://www.ada.lk/international/ඉන්දුනීසියාවේ-පාසල්-ගොඩනැගිල්ලක්-කඩා-වැටී-තිදෙනෙක්-මරුට--තවත්-පිරිසක්-සුන්බුන්-අතර/3-418810	si	adalk	1759219479.0
-lk_news	2025-09-30-lankadeepalk-54560247	lankadeepalk-54560247	2025-09-30	’’මට වැරදුණා’’	https://www.lankadeepa.lk/latest_news/මට-වරදණ/1-680493	si	lankadeepalk	1759218865.0
-lk_news	2025-09-30-lankadeepalk-170b055a	lankadeepalk-170b055a	2025-09-30	’’ මට වැරදුණා’’	https://www.lankadeepa.lk/news/මට-වරදණ/101-680493	si	lankadeepalk	1759218865.0
-lk_news	2025-09-30-virakesarilk-2fc01414	virakesarilk-2fc01414	2025-09-30	“ஜென் Z” போராட்டங்கள் ;  அரசாங்கத்தை கலைத்தார் மடகஸ்கார் ஜனாதிபதி	https://www.virakesari.lk/article/226477	ta	virakesarilk	1759218780.0
-lk_news	2025-09-30-virakesarilk-6e8feb10	virakesarilk-6e8feb10	2025-09-30	இன்றைய நாணய மாற்று விகிதம்	https://www.virakesari.lk/article/226485	ta	virakesarilk	1759218720.0
-lk_news	2025-09-30-tamilmirrorlk-81cbcec0	tamilmirrorlk-81cbcec0	2025-09-30	இலங்கைத் தேயிலைக்கு நோபல் பரிசு? அமைச்சு விளக்கம்	https://www.tamilmirror.lk/செய்திகள்/இலங்கைத்-தேயிலைக்கு-நோபல்-பரிசு-அமைச்சு-விளக்கம்/175-365523	ta	tamilmirrorlk	1759218364.0
