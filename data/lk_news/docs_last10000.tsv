@@ -1,9 +1,14 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-07-lankadeepalk-976ee56d	lankadeepalk-976ee56d	2025-10-07	මහින්ද රැකීමෙන් මිදෙන්න ආණ්ඩුවට බෑ	https://www.lankadeepa.lk/news/මහනද-රකමන-මදනන-ආණඩවට-බ/101-680870	si	lankadeepalk	1759832410.0
+lk_news	2025-10-07-tamilmirrorlk-a74211cf	tamilmirrorlk-a74211cf	2025-10-07	ஏர் இந்தியா விமானம் அவசரமாக தரையிறக்கம்	https://www.tamilmirror.lk/செய்திகள்/ஏர்-இந்தியா-விமானம்-அவசரமாக-தரையிறக்கம்/175-365901	ta	tamilmirrorlk	1759832167.0
+lk_news	2025-10-07-lankadeepalk-0c2534dc	lankadeepalk-0c2534dc	2025-10-07	’’දවසේ වෙඩිල්ල දවසේ ඇඬිල්ල වෙලා’’	https://www.lankadeepa.lk/news/දවස-වඩලල-දවස-ඇඬලල-වල/101-680868	si	lankadeepalk	1759831958.0
+lk_news	2025-10-07-tamilmirrorlk-1f35130f	tamilmirrorlk-1f35130f	2025-10-07	அல்பேனிய நீதிபதி நீதிமன்றுக்குள் சுட்டுக்கொலை	https://www.tamilmirror.lk/உலக-செய்திகள்/அல்பேனிய-நீதிபதி-நீதிமன்றுக்குள்-சுட்டுக்கொலை/50-365900	ta	tamilmirrorlk	1759831953.0
 lk_news	2025-10-07-lankadeepalk-1a50f10c	lankadeepalk-1a50f10c	2025-10-07	වගා ළිඳට වැටුනු අලියා දිනකට පසු ගොඩ ගනියි	https://www.lankadeepa.lk/test/වගා-ළිඳට-වැටුනු-අලියා-දිනකට-පසු-ගොඩ-ගනියි/222-680866	si	lankadeepalk	1759831484.0
 lk_news	2025-10-07-tamilmirrorlk-251de660	tamilmirrorlk-251de660	2025-10-07	வாழை மரம் என நினைத்தாயோ	https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/வாழை-மரம்-என-நினைத்தாயோ/62-365899	ta	tamilmirrorlk	1759831287.0
 lk_news	2025-10-07-lankadeepalk-6ca01792	lankadeepalk-6ca01792	2025-10-07	රාජ්‍ය භාෂා ප්‍රතිපත්තිය ගැන ’’ලොක්කන්ට’’ කියා දෙයි	https://www.lankadeepa.lk/news/රජය-භෂ-පරතපතතය-ගන-ලකකනට-කය-දය/101-680863	si	lankadeepalk	1759830636.0
 lk_news	2025-10-07-lankadeepalk-e615321a	lankadeepalk-e615321a	2025-10-07	දඬුවම් පනත බිල්ලෙක්ද?	https://www.lankadeepa.lk/features/දඬවම-පනත-බලලකද/2-680858	si	lankadeepalk	1759829430.0
 lk_news	2025-10-07-lankadeepalk-dabf1b9e	lankadeepalk-dabf1b9e	2025-10-07	ගුරු දිනය - කළ යුත්තේ කුමක්ද?	https://www.lankadeepa.lk/features/ගර-දනය-කළ-යතත-කමකද/2-680857	si	lankadeepalk	1759829004.0
+lk_news	2025-10-07-adalk-ceb731f8	adalk-ceb731f8	2025-10-07	කූ‍ඨ වෙළදුන්ගෙන් වාර්තාගත ගත දඩ මුදලක් අය කර ගනියි	https://www.ada.lk/breaking_news/කූ‍ඨ-වෙළදුන්ගෙන්-වාර්තාගත-ගත-දඩ-මුදලක්-අය-කර-ගනියි/11-418957	si	adalk	1759828948.0
 lk_news	2025-10-07-adalk-05e2590d	adalk-05e2590d	2025-10-07	රත්න ද්වි පුද්ගල ඝාතනයේ සුල මුල හෙළිවෙයි	https://www.ada.lk/breaking_news/රත්න-ද්වි-පුද්ගල-ඝාතනයේ-සුල-මුල-හෙළිවෙයි/11-418956	si	adalk	1759828612.0
 lk_news	2025-10-07-adalk-61da1e0e	adalk-61da1e0e	2025-10-07	කාසියේ වාසිය එංගලන්තයට	https://www.ada.lk/sports/කාසියේ-වාසිය-එංගලන්තයට/9-418955	si	adalk	1759828406.0
 lk_news	2025-10-07-tamilmirrorlk-b8309fbc	tamilmirrorlk-b8309fbc	2025-10-07	பெண் வைத்தியர் துஷ்பிரயோகம்: அதிரடி உத்தரவு பிறப்பிப்பு	https://www.tamilmirror.lk/செய்திகள்/பெண்-வைத்தியர்-துஷ்பிரயோகம்-அதிரடி-உத்தரவு-பிறப்பிப்பு/175-365894	ta	tamilmirrorlk	1759827640.0
@@ -34,6 +39,7 @@ lk_news	2025-10-07-lankadeepalk-4d91f1dc	lankadeepalk-4d91f1dc	2025-10-07	මහ
 lk_news	2025-10-07-tamilmirrorlk-a95eb81b	tamilmirrorlk-a95eb81b	2025-10-07	பொலிஸாருக்கு எதிராக யாழ். வழக்கறிஞர்கள் வேலைநிறுத்தம்	https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-எதிராக-யாழ்-வழக்கறிஞர்கள்-வேலைநிறுத்தம்/175-365882	ta	tamilmirrorlk	1759820561.0
 lk_news	2025-10-07-virakesarilk-6e8feb10	virakesarilk-6e8feb10	2025-10-07	இன்றைய நாணய மாற்று விகிதம்	https://www.virakesari.lk/article/227103	ta	virakesarilk	1759820400.0
 lk_news	2025-10-07-adalk-5f2d447a	adalk-5f2d447a	2025-10-07	ආදර්ශමත් ගුරු දින සැමරුමක්	https://www.ada.lk/breaking_news/ආදර්ශමත්-ගුරු-දින-සැමරුමක්/11-418954	si	adalk	1759820399.0
+lk_news	2025-10-07-adalk-10a554ed	adalk-10a554ed	2025-10-07	ප්‍රධාන අභියෝග තවමත්, ආර්ථික ප්‍රකෘතිය අසම්පූර්ණයි - WB	https://www.ada.lk/business/ප්‍රධාන-අභියෝග-තවමත්--ආර්ථික-ප්‍රකෘතිය-අසම්පූර්ණයි---WB/7-418953	si	adalk	1759820372.0
 lk_news	2025-10-07-virakesarilk-787661ea	virakesarilk-787661ea	2025-10-07	2025ம் ஆண்டிற்கான பெறுமதி வாய்ந்த வணிக விருந்தினை வென்றுள்ளது தாய் சுமேத	https://www.virakesari.lk/article/227102	ta	virakesarilk	1759820280.0
 lk_news	2025-10-07-lankadeepalk-09d5624e	lankadeepalk-09d5624e	2025-10-07	සංස්කෘතියේ ’’මගඩි’’ හොයන කමිටුවට තව කල්දෙයි	https://www.lankadeepa.lk/news/සසකතය-මගඩ-හයන-කමටවට-තව-කලදය/101-680841	si	lankadeepalk	1759820167.0
 lk_news	2025-10-07-virakesarilk-35aa6db9	virakesarilk-35aa6db9	2025-10-07	ஏக்ய ராஜ்ய என்ற ஒற்றையாட்சி வரைபை உருவாக்க இலங்கை தமிழ் அரசுக் கட்சி பெரும் பங்கு வகித்தது - கஜேந்திரகுமார் பொன்னம்பலம்	https://www.virakesari.lk/article/227101	ta	virakesarilk	1759820100.0
@@ -993,9 +999,3 @@ lk_news	2025-10-01-virakesarilk-940fa249	virakesarilk-940fa249	2025-10-01	கி
 lk_news	2025-10-01-lankadeepalk-54dae789	lankadeepalk-54dae789	2025-10-01	’’ලංකාවට ලෝකයෙන් ඉහළ පිළිගැනීමක්’’	https://www.lankadeepa.lk/news/ලකවට-ලකයන-ඉහළ-පළගනමක/101-680585	si	lankadeepalk	1759318766.0
 lk_news	2025-10-01-adalk-70cb3b52	adalk-70cb3b52	2025-10-01	විස්සයි 20 ශ්‍රේණිගතකිරීම් හී මුල් 10 දෙනා අතරට ශ්‍රී ලාංකිකයන් දෙදෙනෙක්	https://www.ada.lk/sports/විස්සයි-20-ශ්‍රේණිගතකිරීම්-හී-මුල්-10-දෙනා-අතරට-ශ්‍රී-ලාංකිකයන්-දෙදෙනෙක්/9-418854	si	adalk	1759318620.0
 lk_news	2025-10-01-lankadeepalk-6e1e1a9c	lankadeepalk-6e1e1a9c	2025-10-01	තාබුගලට අධිකරණයේ පෙනී සිටින්නැයි නියෝග	https://www.lankadeepa.lk/news/තබගලට-අධකරණය-පන-සටනනය-නයග/101-680584	si	lankadeepalk	1759318592.0
-lk_news	2025-10-01-lankadeepalk-c74a61e1	lankadeepalk-c74a61e1	2025-10-01	කුලී රථ රියදුරෝත් මැතිසබයට	https://www.lankadeepa.lk/news/කල-රථ-රයදරත-මතසබයට/101-680583	si	lankadeepalk	1759318191.0
-lk_news	2025-10-01-virakesarilk-9e474d8f	virakesarilk-9e474d8f	2025-10-01	பாடசாலைக்குள் மாணவனின் தாக்குதலுக்கு இலக்காகி ஆசிரியர் காயம்!	https://www.virakesari.lk/article/226611	ta	virakesarilk	1759318140.0
-lk_news	2025-10-01-virakesarilk-5e56000a	virakesarilk-5e56000a	2025-10-01	பதுளையில் கடும் வெயில் ; வறட்சியினால் குடிநீர் பற்றாக்குறை ; விவசாய நடவடிக்கைகளும் பாதிப்பு	https://www.virakesari.lk/article/226612	ta	virakesarilk	1759318140.0
-lk_news	2025-10-01-lankadeepalk-6b980deb	lankadeepalk-6b980deb	2025-10-01	හැට දාහකට අලුතින් රැකියා	https://www.lankadeepa.lk/news/හට-දහකට-අලතන-රකය/101-680582	si	lankadeepalk	1759317953.0
-lk_news	2025-10-01-adalk-b83e5f1a	adalk-b83e5f1a	2025-10-01	නව දෙළුම් විශේෂ දෙකක් හම්බන්තොටින් හඳුන්වා දේ	https://www.ada.lk/picture_story/නව-දෙළුම්-විශේෂ-දෙකක්-හම්බන්තොටින්-හඳුන්වා-දේ/10-418853	si	adalk	1759317911.0
-lk_news	2025-10-01-economynextcom-5f99b1a5	economynextcom-5f99b1a5	2025-10-01	Sri Lanka stocks close up 0.33-pct	https://economynext.com/sri-lanka-stocks-close-up-0-33-pct-242482/	en	economynextcom	1759317480.0
