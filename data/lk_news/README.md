@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_20:18:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_20:46:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,597** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-07**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,599** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-07**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,8 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2025-10-07 | `lankadeepalk-2c68317f` | හරිත බලශක්තිය නංවන්න උදව් කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-lankadeepalk-2c68317f)
+- 2025-10-07 | `virakesarilk-b5f55b06` | கிரிக்கெட் சபை  தொடர்பில் ஜனாதிபதி அன்று முன்வைத்த குற்றச்சாட்டுகளுக்கு இன்று எடுத்த நடவடிக்கை என்ன - அஜித் பி.பெரேரா கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-virakesarilk-b5f55b06)
+- 2025-10-07 | `virakesarilk-1f75ac63` | தீர்வுக்கான நடவடிக்கைகளை முன்னெடுத்தால் சர்வதேச அழுத்தங்கள் படிப்படியாகக் குறையும் - இலங்கை மனித உரிமைகள் ஆணைக்குழு சுட்டிக்காட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-virakesarilk-1f75ac63)
 - 2025-10-07 | `adalk-4e8f368f` | ජුලම්පිටිය අමරේගේ මරණ දඩුවම ශ්‍රේෂ්ඨාධිකරණය තහවුරු කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-adalk-4e8f368f)
 - 2025-10-07 | `lankadeepalk-aac9ea4a` | කර්මාන්ත අමාත්‍යාංශයේ ලාභාංශ මිලියන 757.4 ක් භාණ්ඩාගාරයට දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-lankadeepalk-aac9ea4a)
 - 2025-10-07 | `virakesarilk-814e0ba8` | பப்புவா நியூ கினியாவில் சக்திவாய்ந்த நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-virakesarilk-814e0ba8)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-07 | `virakesarilk-3cb4b2c2` | போதைப்பொருள், ஊழலுக்கு எதிராக நடவடிக்கைகள் எடுத்தபோதிலும் தமிழர்களுக்கு தீர்வு வழங்க அரசு நடவடிக்கை எடுக்கவில்லை - இ.சிறிநாத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-virakesarilk-3cb4b2c2)
 - 2025-10-07 | `lankadeepalk-348cd7ae` | බහාලුම් අවුල හොයන්න විශේෂ කාරක සභාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-lankadeepalk-348cd7ae)
 - 2025-10-07 | `lankadeepalk-c9b9d455` | ඩෙංගු වැඩිවීමේ අවධානමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-lankadeepalk-c9b9d455)
-- 2025-10-07 | `virakesarilk-2ef63d32` | சிகை அலங்கரிப்பாளர்களும் தொழில்வாண்மை மிகுந்தவர்களாக மாறவேண்டும் -   வடக்கு மாகாண ஆளுநர் வேதநாயகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-virakesarilk-2ef63d32)
-- 2025-10-07 | `virakesarilk-d730198e` | இன அழிப்புக்கு நியாயம் கோரி பாலஸ்தீன கொடிகளுடன் மட்டக்களப்பில் கவனயீர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-virakesarilk-d730198e)
 
 ---
 
