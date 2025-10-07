@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_01:46:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_02:16:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,608** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-07**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,610** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-07-tamilmirrorlk-cd2936ae",
-    "num": "tamilmirrorlk-cd2936ae",
-    "date_str": "2025-10-07",
-    "description": "\u201d\u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd \u0b86\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8\u201d",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd-\u0b86\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd-\u0b87\u0bb2\u0bcd\u0bb2\u0bc8/175-365927",
+    "doc_id": "2025-10-08-virakesarilk-7f1d3a0e",
+    "num": "virakesarilk-7f1d3a0e",
+    "date_str": "2025-10-08",
+    "description": "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd \u0baa\u0bbe\u0bb7\u0bc8\u0baf\u0bc2\u0bb0\u0bbf\u0bb2\u0bcd \u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u2013 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbe\u0bb3\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bb1\u0bbf\u0bae\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/227166",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1759855375.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1759868340.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-08 | `virakesarilk-7f1d3a0e` | யாழ்ப்பாணம் பாஷையூரில் ஹெரோயினுடன் இளைஞர் கைது – மூன்று வாள்கள் பறிமுதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-7f1d3a0e)
+- 2025-10-08 | `virakesarilk-25b0c781` | இமாச்சல் மண்சரிவில் உயிரிழப்புகள் 18 ஆக உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-25b0c781)
 - 2025-10-07 | `tamilmirrorlk-cd2936ae` | ”காணாமல் ஆக்கப்பட்டோர் வழக்கு விசாரணைகளில் முன்னேற்றம் இல்லை” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-tamilmirrorlk-cd2936ae)
 - 2025-10-07 | `virakesarilk-b412b639` | ஒக்டோபர் 7 தாக்குதலின் இரண்டாம் ஆண்டு நிறைவு : டிரம்ப்பின் 20 அம்ச திட்டம் மூலம் அமைதியை நிலைநாட்ட உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-virakesarilk-b412b639)
 - 2025-10-07 | `tamilmirrorlk-7f11ce3b` | பொலிஸ் அதிகாரியை கைது செய்த விசேட அதிரடிப்படையினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-tamilmirrorlk-7f11ce3b)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-07 | `adalk-cf563630` | තහනම් උත්තේජකවලට එරෙහි පනතට කථානායක සහතිකය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-adalk-cf563630)
 - 2025-10-07 | `virakesarilk-5a724ad1` | வாழைச்சேனையில் அதிகளவு ஐஸ் போதைப்பொருளுடன் இளம் தம்பதி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-virakesarilk-5a724ad1)
 - 2025-10-07 | `lankadeepalk-16b36bd2` | ක්‍රීඩා උත්තේජක තහනම් පනතට කතානායක සහතිකය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-lankadeepalk-16b36bd2)
-- 2025-10-07 | `virakesarilk-1390de3b` | இலங்கை குறித்த புதிய தீர்மானம் : எப்போதேனும் நீதி கிட்டும் எனும் நம்பிக்கையை பாதிக்கப்பட்ட தரப்பினர் மத்தியில் விதைத்துள்ளது - மனித உரிமைகள் கண்காணிப்பகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-virakesarilk-1390de3b)
-- 2025-10-07 | `tamilmirrorlk-1ea8af6a` | ஜனாதிபதியை சந்தித்த IMF பிரதிநிதிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-07-tamilmirrorlk-1ea8af6a)
 
 ---
 
