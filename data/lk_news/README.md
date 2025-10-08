@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_13:14:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_13:47:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,716** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,720** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-08-lankadeepalk-9bc0a3f7",
-    "num": "lankadeepalk-9bc0a3f7",
+    "doc_id": "2025-10-08-tamilmirrorlk-4c10c9ad",
+    "num": "tamilmirrorlk-4c10c9ad",
     "date_str": "2025-10-08",
-    "description": "\u0d9a\u0ddc\u0dad\u0dca\u0db8\u0dbd\u0dcf \u0d94\u0dba\u0dda \u0db1\u0dcf\u0db3\u0dd4\u0db1\u0db1 \u0db8\u0dc5 \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dad\u0db8\u0dbd-\u0d94\u0dba-\u0db1\u0db3\u0db1\u0db1-\u0db8\u0dc5-\u0dc3\u0dbb\u0dbb\u0d9a/101-680929",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1759908939.0
+    "description": "\u201c\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0bae\u0b95\u0ba9\u0bcd \u0b9a\u0bbf\u0b95\u0bb0\u0b9f\u0bcd \u0baa\u0bc1\u0b95\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd\u201d",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd-\u0bae\u0b95\u0ba9\u0bcd-\u0b9a\u0bbf\u0b95\u0bb0\u0b9f\u0bcd-\u0baa\u0bc1\u0b95\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd/175-365958",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759910866.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-08 | `tamilmirrorlk-4c10c9ad` | “அமைச்சரின் மகன் சிகரட் புகைத்து சிக்கினார்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-4c10c9ad)
+- 2025-10-08 | `tamilmirrorlk-9ae4ee86` | ஓட்டுநர் உரிமம் அச்சிடுவதில் மிகப்பெரிய ஊழல்: அமைச்சர் விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-9ae4ee86)
+- 2025-10-08 | `lankadeepalk-16594ba2` | කර්මාන්ත අමාත්‍යාංශයෙන් භාණ්ඩාගාරයට කෝටි 75ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-16594ba2)
 - 2025-10-08 | `lankadeepalk-9bc0a3f7` | කොත්මලා ඔයේ නාඳුනන මළ සිරුරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-9bc0a3f7)
 - 2025-10-08 | `lankadeepalk-0f9b3e32` | කතුන්ට නොවැම්බරයේ බස් රියැදුරු වරම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-0f9b3e32)
 - 2025-10-08 | `tamilmirrorlk-25238a82` | பிரபல பாடகியும் வானொலி நடிகையுமான சந்திராணி குணவர்தன காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-25238a82)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-08 | `virakesarilk-6bed7c9d` | மன்னார் கடற்கரையில் சட்டவிரோத கடத்தல் முயற்சி முறியடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-6bed7c9d)
 - 2025-10-08 | `virakesarilk-b2b9bfd6` | பொலிஸ் கான்ஸ்டபிளின் கையடக்கத் தொலைபேசியை சோதனையிட்ட பொலிஸாருக்கு காத்திருந்த அதிர்ச்சி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-b2b9bfd6)
 - 2025-10-08 | `virakesarilk-8dc5eba4` | அரியாலையில் குப்பை மேடு அமைக்கும் திட்டத்தை எதிர்த்து மக்கள் ஆர்ப்பாட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-8dc5eba4)
-- 2025-10-08 | `lankadeepalk-7cddec71` | ජපානය අත්හැරීමේ විපාකය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-7cddec71)
-- 2025-10-08 | `virakesarilk-079ccba9` | விளையாட்டில் ஊக்குப் பதார்த்தப் பயன்பாட்டிற்கெதிரான சாமவாயம் சட்டமூலத்தை சான்றுரைப்படுத்தினார் சபாநாயகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-079ccba9)
-- 2025-10-08 | `virakesarilk-e2f32bb9` | வடக்கில் ஜனவரி முதல் லஞ்ச் சீற் பாவனைக்கு தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-e2f32bb9)
 
 ---
 
