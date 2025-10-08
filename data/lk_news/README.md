@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_09:20:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_09:45:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,659** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,661** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,10 +43,12 @@ A collection of lk_news documents.
 
 - 2025-10-08 | `virakesarilk-d03eedcd` | மன்னார் நறுவிலி குள நீச்சல் தடாகப் பயிற்சி குறித்து நானாட்டான் பிரதேச சபைத் தவிசாளர் விடுத்துள்ள அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-d03eedcd)
 - 2025-10-08 | `tamilmirrorlk-82637bd9` | உத்தரவை மீறிச் சென்ற கார் மீது துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-82637bd9)
+- 2025-10-08 | `tamilmirrorlk-4a37aa48` | சமிக்ஞையை மீறிச் சென்ற கார் மீது துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-4a37aa48)
 - 2025-10-08 | `virakesarilk-b3271a12` | ஆபிரிக்க பன்றிக் காய்ச்சல் பரவுவதைத் தடுப்பதற்கான நடவடிக்கைகள் அடங்கிய வர்த்தமானி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-b3271a12)
 - 2025-10-08 | `virakesarilk-0ca85f0f` | மாத்தறையில்  கார் மீது பொலிஸார் துப்பாக்கிச் சூடு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-0ca85f0f)
 - 2025-10-08 | `tamilmirrorlk-d3dde478` | 2026இல் வட மாகாணத்தில் ஏற்படவுள்ள பாரிய மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-d3dde478)
 - 2025-10-08 | `tamilmirrorlk-095013ce` | இஸ்ரேல் - ஹமாஸ் பேச்சுவார்த்தையில் முன்னேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-095013ce)
+- 2025-10-08 | `adalk-290c55ba` | භෞතික විද්‍යාව සඳහා නොබෙල් ත්‍යාගය තිදෙනෙකුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-adalk-290c55ba)
 - 2025-10-08 | `tamilmirrorlk-1105e057` | வடக்கு பிரதிப் பிரதம செயலாளராக ராஜினி ஜெயராஜ் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-1105e057)
 - 2025-10-08 | `dailyftlk-570744ed` | Sustaining transformative growth in Sri Lanka 2025-2030 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-570744ed)
 - 2025-10-08 | `tamilmirrorlk-83f2d42f` | ஹெரோயின் போதைப் பொருளுடன் இளைஞர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-83f2d42f)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-08 | `dailyftlk-b7297409` | Compliance to EUDR not option but must for struggling local exporters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-b7297409)
 - 2025-10-08 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-3a015e4a)
 - 2025-10-08 | `dailyftlk-0ff1cb69` | IDL appoints Indhu Selvaratnam as Deputy Chairperson | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-0ff1cb69)
-- 2025-10-08 | `dailyftlk-7781155b` | Inaugural South Asia Bitumen Market Conference in Colombo next month | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-7781155b)
-- 2025-10-08 | `adalk-82ab2c30` | BYD බ්‍රිතාන්‍ය මෝටර් රථ වෙළඳපොළත් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-adalk-82ab2c30)
 
 ---
 
