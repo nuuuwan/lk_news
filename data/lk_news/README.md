@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_09:45:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_10:16:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,661** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,671** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-08-virakesarilk-d03eedcd",
-    "num": "virakesarilk-d03eedcd",
+    "doc_id": "2025-10-08-lankadeepalk-804aaa30",
+    "num": "lankadeepalk-804aaa30",
     "date_str": "2025-10-08",
-    "description": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0ba8\u0bb1\u0bc1\u0bb5\u0bbf\u0bb2\u0bbf \u0b95\u0bc1\u0bb3 \u0ba8\u0bc0\u0b9a\u0bcd\u0b9a\u0bb2\u0bcd \u0ba4\u0b9f\u0bbe\u0b95\u0baa\u0bcd \u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbe\u0ba9\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8\u0ba4\u0bcd \u0ba4\u0bb5\u0bbf\u0b9a\u0bbe\u0bb3\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/227176",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1759895100.0
+    "description": "\u0dc0\u0dbb\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dcf\u0daf \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca: \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0db1\u0dcf\u0dba\u0d9a\u0d9c\u0dd9\u0db1\u0dca \u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc0\u0dbb\u0db4\u0dbb\u0dc3\u0daf-\u0db4\u0dbb\u0dc1\u0db1-\u0d85\u0dad\u0dbb\u0daf\u0db1-\u0dc0\u0db4\u0d9a\u0dc2\u0db1\u0dba\u0d9a\u0d9c\u0db1-\u0da0\u0daf\u0db1\u0dc0\u0d9a/101-680899",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1759898385.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-08 | `lankadeepalk-804aaa30` | වරප්‍රසාද ප්‍රශ්න අතුරුදන්: විපක්ෂනායකගෙන් චෝදනාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-804aaa30)
+- 2025-10-08 | `tamilmirrorlk-03b7767c` | பொலிஸார் அவசர எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-03b7767c)
+- 2025-10-08 | `virakesarilk-bad563e8` | இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா - சுமந்திரனுடன் சந்திப்பு: வடக்கு, கிழக்கு அபிவிருத்தி மற்றும் அரசியல் நிலவரம் குறித்து பேச்சு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-bad563e8)
+- 2025-10-08 | `lankadeepalk-fdb93deb` | ඕ අයි සීලා තිහක් හිතුමතේ මාරු කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-fdb93deb)
+- 2025-10-08 | `virakesarilk-d043971a` | இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா - தமிழ் முற்போக்குக் கூட்டணித் தலைவர்களுடன் சந்திப்பு : மலையக மக்களின் நிலவரம் குறித்து கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-d043971a)
+- 2025-10-08 | `tamilmirrorlk-61b3efe1` | மஹிந்தவை தூக்கில் போடவேண்டும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-61b3efe1)
+- 2025-10-08 | `lankadeepalk-e4de69d6` | අණ නොතැකු රියට පොලිස් වෙඩි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-e4de69d6)
+- 2025-10-08 | `virakesarilk-126413b4` | நீர்கொழும்பு விஜயரத்தினம் இந்து மத்திய கல்லூரியின் 70வது ஆண்டு விழா நடைபவனி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-126413b4)
+- 2025-10-08 | `virakesarilk-e2b353a8` | வடக்கில் இராணுவ சிகையலங்கார நிலையத்தை மூடுமாறு பிரதேச சபை அறிவித்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-e2b353a8)
+- 2025-10-08 | `virakesarilk-98f3d6f9` | இரட்டை கொலை ; சந்தேகநபர்கள் நால்வர் கைது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-98f3d6f9)
 - 2025-10-08 | `virakesarilk-d03eedcd` | மன்னார் நறுவிலி குள நீச்சல் தடாகப் பயிற்சி குறித்து நானாட்டான் பிரதேச சபைத் தவிசாளர் விடுத்துள்ள அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-d03eedcd)
 - 2025-10-08 | `tamilmirrorlk-82637bd9` | உத்தரவை மீறிச் சென்ற கார் மீது துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-82637bd9)
 - 2025-10-08 | `tamilmirrorlk-4a37aa48` | சமிக்ஞையை மீறிச் சென்ற கார் மீது துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-4a37aa48)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2025-10-08 | `adalk-290c55ba` | භෞතික විද්‍යාව සඳහා නොබෙල් ත්‍යාගය තිදෙනෙකුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-adalk-290c55ba)
 - 2025-10-08 | `tamilmirrorlk-1105e057` | வடக்கு பிரதிப் பிரதம செயலாளராக ராஜினி ஜெயராஜ் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-1105e057)
 - 2025-10-08 | `dailyftlk-570744ed` | Sustaining transformative growth in Sri Lanka 2025-2030 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-570744ed)
-- 2025-10-08 | `tamilmirrorlk-83f2d42f` | ஹெரோயின் போதைப் பொருளுடன் இளைஞர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-83f2d42f)
-- 2025-10-08 | `dailyftlk-322b1f73` | Licence for indiscipline? Perils of Sri Lanka’s new child rights agenda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-322b1f73)
-- 2025-10-08 | `dailyftlk-50dca186` | Digital decency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-50dca186)
-- 2025-10-08 | `dailyftlk-c1113764` | Leading with authenticity and accountability: Insights and impacts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-c1113764)
-- 2025-10-08 | `dailyftlk-6a86a2a1` | Paradigm shift needed in economic thinking, policies and strategy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-6a86a2a1)
-- 2025-10-08 | `lankadeepalk-75a4e576` | තැනින් තැනට අදත් තරමක තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-75a4e576)
-- 2025-10-08 | `dailyftlk-c17a8112` | Don’t just tick the box: Strategic imperative for Sri Lankan corporates to integrate sustainability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-c17a8112)
-- 2025-10-08 | `dailyftlk-b7297409` | Compliance to EUDR not option but must for struggling local exporters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-b7297409)
-- 2025-10-08 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-3a015e4a)
-- 2025-10-08 | `dailyftlk-0ff1cb69` | IDL appoints Indhu Selvaratnam as Deputy Chairperson | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-0ff1cb69)
 
 ---
 
