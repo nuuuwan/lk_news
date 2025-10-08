@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_20:18:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_20:46:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,828** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,830** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -59,8 +59,8 @@ A collection of lk_news documents.
 - 2025-10-08 | `virakesarilk-7a1f77eb` | மின் கட்டண திருத்தம் குறித்து இறுதி தீர்மானம் எடுக்கப்படவில்லை - அமைச்சர் நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-7a1f77eb)
 - 2025-10-08 | `virakesarilk-497859b1` | மனநல சிகிச்சைகளுக்கும் முன்னுரிமை அளிக்கப்பட வேண்டும் - சுகாதார மற்றும் ஊடக பிரதி அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-497859b1)
 - 2025-10-08 | `adalk-170bb0e0` | මාරක රිය අනතුරු 06 ක් පිළිබඳ වාර්තා පාර්ලිමේන්තුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-adalk-170bb0e0)
+- 2025-10-08 | `virakesarilk-eee18386` | சர்வதேச நீதிப் பொறிமுறையை நிறுவுமாறு முன்வைக்கப்பட்ட கோரிக்கை புறக்கணிப்பு - இலங்கையில் சமத்துவம் மற்றும் விடுதலைக்கான மக்கள் அமைப்பு கடும் விசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-eee18386)
 - 2025-10-08 | `lankadeepalk-03cea27c` | මත්තල ගුවන් තොටට වනජීවී කාර්යාලයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-03cea27c)
-- 2025-10-08 | `virakesarilk-65f1a479` | அரியாலையில் திண்மக் கழிவுகளை தரம் பிரிக்கும் நிலையம் தொடர்பில் பொய்யான தகவல்கள்! -  நல்லூர் பிரதேச சபை தவிசாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-65f1a479)
 
 ---
 
