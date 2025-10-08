@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_17:50:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_18:26:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,806** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,811** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-08-lankadeepalk-03cea27c",
-    "num": "lankadeepalk-03cea27c",
+    "doc_id": "2025-10-08-lankadeepalk-d85120ae",
+    "num": "lankadeepalk-d85120ae",
     "date_str": "2025-10-08",
-    "description": "\u0db8\u0dad\u0dca\u0dad\u0dbd \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0da7 \u0dc0\u0db1\u0da2\u0dd3\u0dc0\u0dd3 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dad\u0dad\u0dbd-\u0d9c\u0dc0\u0db1-\u0dad\u0da7\u0da7-\u0dc0\u0db1\u0da2\u0dc0-\u0d9a\u0dbb\u0dba\u0dbd\u0dba\u0d9a/101-680956",
+    "description": "\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a \u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0d9c\u0dd2\u0dba \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dca\u0daf\u0da7 \u0dc0\u0da9\u0dcf \u2019\u2019\u0db6\u0dd2\u0dc3\u0dd3\u2019\u2019 \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0da7\u0db1\u0dba\u0d9a-\u0d9c\u0dc0\u0db1\u0dad\u0da7-\u0d9c\u0dba-\u0d85\u0dc0\u0dbb\u0daf\u0daf\u0da7-\u0dc0\u0da9-\u0db6\u0dc3-\u0dc0\u0dba/101-680959",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1759923721.0
+    "time_ut": 1759927972.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-08 | `lankadeepalk-d85120ae` | කටුනායක ගුවන්තොට ගිය අවුරුද්දට වඩා ’’බිසී’’ වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-d85120ae)
+- 2025-10-08 | `tamilmirrorlk-5a9ade0f` | இலங்கை ரக்பிக்கு புதிய தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-5a9ade0f)
+- 2025-10-08 | `lankadeepalk-95166e75` | ප්‍රවාහනයට කෝටි 3660ක් දෙන  පරිපූරකය සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-95166e75)
+- 2025-10-08 | `lankadeepalk-5d94cefe` | නාමල්ගෙන් පොලිස්පතිට අවවාදයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-5d94cefe)
+- 2025-10-08 | `adalk-170bb0e0` | මාරක රිය අනතුරු 06 ක් පිළිබඳ වාර්තා පාර්ලිමේන්තුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-adalk-170bb0e0)
 - 2025-10-08 | `lankadeepalk-03cea27c` | මත්තල ගුවන් තොටට වනජීවී කාර්යාලයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-03cea27c)
 - 2025-10-08 | `virakesarilk-65f1a479` | அரியாலையில் திண்மக் கழிவுகளை தரம் பிரிக்கும் நிலையம் தொடர்பில் பொய்யான தகவல்கள்! -  நல்லூர் பிரதேச சபை தவிசாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-65f1a479)
 - 2025-10-08 | `lankadeepalk-065f0715` | රත්මලාන ගුවන් තොටේ පහසුකම් වැඩි කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-065f0715)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-10-08 | `virakesarilk-8b6c274f` | கட்டுநாயக்க விமான நிலையத்தில் விமானப் போக்குவரத்து 14.4 வீதமாக அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-8b6c274f)
 - 2025-10-08 | `lankadeepalk-3b9303b8` | ගොඩනැගිලි පර්යේෂණ පනතට කතානායකගේ අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-3b9303b8)
 - 2025-10-08 | `virakesarilk-be5f0a0a` | ‘இளஞ்சிவப்பு’ நிறத்தில் மாறிய கிளிநொச்சி நகர் ;  மார்பகப் புற்றுநோய்க்கு எதிரான விழிப்புணர்வு நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-be5f0a0a)
-- 2025-10-08 | `virakesarilk-87bc807c` | அஞ்சல் பெட்டிக்குள் தோட்டாக்கள் ; பொலிஸார் விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-87bc807c)
-- 2025-10-08 | `virakesarilk-937b25d1` | இரத்மலானை விமான நிலையத்தில் 3 பில்லியன் ரூபா செலவில் விமான தள வசதி வளாகம் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-937b25d1)
-- 2025-10-08 | `virakesarilk-3118e2f0` | ஐக்கிய நாடுகள் சபையின் தேர்தல் தொழில்நுட்பத் தேவைகள் மதிப்பீட்டுக் குழுவின் பிரதிநிதிகளுக்கும் பிரதமருக்கும் இடையிலான கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-3118e2f0)
-- 2025-10-08 | `virakesarilk-89d6337e` | நடிகை ஷில்பா ஷெட்டி இலங்கைக்கு வரத் தடை - இது தான் காரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-89d6337e)
-- 2025-10-08 | `virakesarilk-e1981a76` | மத்தள விமான நிலையத்தில் வனவிலங்கு திணைக்கள அலுவலகம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-e1981a76)
 
 ---
 
