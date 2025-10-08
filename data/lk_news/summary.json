@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-08 06:28:55",
-  "n_docs": 79640,
+  "time_updated": "2025-10-08 07:12:59",
+  "n_docs": 79650,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 79640,
+  "n_docs_with_text": 79650,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-08",
-  "dataset_size": 1168209498,
+  "dataset_size": 1168298379,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -29,19 +29,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "si",
     "ta",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-08-dailyftlk-b7297409",
-    "num": "dailyftlk-b7297409",
+    "doc_id": "2025-10-08-tamilmirrorlk-1105e057",
+    "num": "tamilmirrorlk-1105e057",
     "date_str": "2025-10-08",
-    "description": "Compliance to EUDR not option but must for struggling local exporters",
-    "url_metadata": "https://www.ft.lk/business/Compliance-to-EUDR-not-option-but-must-for-struggling-local-exporters/34-782696",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1759884605.0
+    "description": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bbe\u0b95 \u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbf \u0b9c\u0bc6\u0baf\u0bb0\u0bbe\u0b9c\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0baa\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bae-\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bbe\u0b95-\u0bb0\u0bbe\u0b9c\u0bbf\u0ba9\u0bbf-\u0b9c\u0bc6\u0baf\u0bb0\u0bbe\u0b9c\u0bcd-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-365929",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759886762.0
   }
 }
