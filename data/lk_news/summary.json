@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-08 05:59:07",
-  "n_docs": 79639,
+  "time_updated": "2025-10-08 06:28:55",
+  "n_docs": 79640,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 79639,
+  "n_docs_with_text": 79640,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-08",
-  "dataset_size": 1168031027,
+  "dataset_size": 1168209498,
   "url_source_list": [
     "http://sinhala.adaderana.lk",
     "https://www.virakesari.lk",
@@ -29,19 +29,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-08-dailyftlk-0ff1cb69",
-    "num": "dailyftlk-0ff1cb69",
+    "doc_id": "2025-10-08-dailyftlk-b7297409",
+    "num": "dailyftlk-b7297409",
     "date_str": "2025-10-08",
-    "description": "IDL appoints Indhu Selvaratnam as Deputy Chairperson",
-    "url_metadata": "https://www.ft.lk/business/IDL-appoints-Indhu-Selvaratnam-as-Deputy-Chairperson/34-782695",
+    "description": "Compliance to EUDR not option but must for struggling local exporters",
+    "url_metadata": "https://www.ft.lk/business/Compliance-to-EUDR-not-option-but-must-for-struggling-local-exporters/34-782696",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759882428.0
+    "time_ut": 1759884605.0
   }
 }

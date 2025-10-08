@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_05:59:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_06:29:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,639** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,640** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-08-dailyftlk-0ff1cb69",
-    "num": "dailyftlk-0ff1cb69",
+    "doc_id": "2025-10-08-dailyftlk-b7297409",
+    "num": "dailyftlk-b7297409",
     "date_str": "2025-10-08",
-    "description": "IDL appoints Indhu Selvaratnam as Deputy Chairperson",
-    "url_metadata": "https://www.ft.lk/business/IDL-appoints-Indhu-Selvaratnam-as-Deputy-Chairperson/34-782695",
+    "description": "Compliance to EUDR not option but must for struggling local exporters",
+    "url_metadata": "https://www.ft.lk/business/Compliance-to-EUDR-not-option-but-must-for-struggling-local-exporters/34-782696",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759882428.0
+    "time_ut": 1759884605.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-08 | `dailyftlk-b7297409` | Compliance to EUDR not option but must for struggling local exporters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-b7297409)
 - 2025-10-08 | `dailyftlk-0ff1cb69` | IDL appoints Indhu Selvaratnam as Deputy Chairperson | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-0ff1cb69)
 - 2025-10-08 | `dailyftlk-7781155b` | Inaugural South Asia Bitumen Market Conference in Colombo next month | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-7781155b)
 - 2025-10-08 | `dailyftlk-f01525f3` | Sri Lanka, South Africa reaffirm commitment to strengthen bilateral ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-f01525f3)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-08 | `virakesarilk-59b5104f` | சரத் பொன்சேக்காவுக்கு ஏன் சர்வதேசம் தடை விதிக்கவில்லை? மஹிந்த மீதான குற்றச்சாட்டு தொடர்பில் பொதுஜன பெரமுன கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-59b5104f)
 - 2025-10-08 | `virakesarilk-457a928e` | வசீம் தாஜூதீன் படுகொலை: உண்மை வெளியாகும் போது ராஜபக்ஷர்கள் கலக்கமடைவது ஆச்சரியமல்ல - மஹிந்த ஜயசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-457a928e)
 - 2025-10-08 | `virakesarilk-914cc65b` | 2009 ஆம் ஆண்டுக்கு பின்னர் வடக்கில் செய்தவற்றின் பிரதிபலன் இன்று  தெற்கில் கிடைக்கிறது - சத்தியலிங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-914cc65b)
-- 2025-10-08 | `virakesarilk-7f1d3a0e` | யாழ்ப்பாணம் பாஷையூரில் ஹெரோயினுடன் இளைஞர் கைது – மூன்று வாள்கள் பறிமுதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-7f1d3a0e)
 
 ---
 
