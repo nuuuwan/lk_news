@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_10:16:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_10:45:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,671** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,679** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-08-lankadeepalk-804aaa30",
-    "num": "lankadeepalk-804aaa30",
+    "doc_id": "2025-10-08-virakesarilk-2cab4ab8",
+    "num": "virakesarilk-2cab4ab8",
     "date_str": "2025-10-08",
-    "description": "\u0dc0\u0dbb\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dcf\u0daf \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca: \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0db1\u0dcf\u0dba\u0d9a\u0d9c\u0dd9\u0db1\u0dca \u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc0\u0dbb\u0db4\u0dbb\u0dc3\u0daf-\u0db4\u0dbb\u0dc1\u0db1-\u0d85\u0dad\u0dbb\u0daf\u0db1-\u0dc0\u0db4\u0d9a\u0dc2\u0db1\u0dba\u0d9a\u0d9c\u0db1-\u0da0\u0daf\u0db1\u0dc0\u0d9a/101-680899",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1759898385.0
+    "description": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0b95\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0bae\u0bbe\u0ba9 \u2018 People\u2019s Tower \u2019 \u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/227188",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1759900200.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-08 | `virakesarilk-2cab4ab8` | மக்கள் வங்கியின் புதிய தலைமையகக் கட்டிடமான ‘ People’s Tower ’ திறந்து வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-2cab4ab8)
+- 2025-10-08 | `virakesarilk-cb63bd73` | வரலாற்றில் முதல் முறையாக ஒரு அவுன்ஸ்  தங்கத்தின் விலை 4,000 டொலர்களை கடந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-cb63bd73)
+- 2025-10-08 | `virakesarilk-7e6b7d49` | மாவட்ட ரீதியாக சிறுவர் பாதுகாப்பிற்கான தேசிய கொள்கையை நடைமுறைப்படுத்துவது குறித்து கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-7e6b7d49)
+- 2025-10-08 | `virakesarilk-738335f8` | வடமாகாணத்தில் உள்ள தனியார் கல்வி நிறுவனங்களை கண்காணிக்க நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-738335f8)
+- 2025-10-08 | `virakesarilk-1ebf6272` | வடமாகாண சந்தைகளில் கழிவு முறைகளை நீக்க பொலிஸாரின் ஒத்துழைப்பை பெற தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-1ebf6272)
+- 2025-10-08 | `virakesarilk-4486d719` | சரத் பொன்சேக்காவுக்கு ஏன் சர்வதேசம் தடை விதிக்கவில்லை? ; மஹிந்த மீதான குற்றச்சாட்டு தொடர்பில் பொதுஜன பெரமுன கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-4486d719)
+- 2025-10-08 | `virakesarilk-0bdf7b30` | ஓட்டமாவடி - நாவலடியில் கார் விபத்து; ஒருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-0bdf7b30)
 - 2025-10-08 | `lankadeepalk-804aaa30` | වරප්‍රසාද ප්‍රශ්න අතුරුදන්: විපක්ෂනායකගෙන් චෝදනාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-804aaa30)
 - 2025-10-08 | `tamilmirrorlk-03b7767c` | பொலிஸார் அவசர எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-03b7767c)
 - 2025-10-08 | `virakesarilk-bad563e8` | இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா - சுமந்திரனுடன் சந்திப்பு: வடக்கு, கிழக்கு அபிவிருத்தி மற்றும் அரசியல் நிலவரம் குறித்து பேச்சு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-bad563e8)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-10-08 | `virakesarilk-d03eedcd` | மன்னார் நறுவிலி குள நீச்சல் தடாகப் பயிற்சி குறித்து நானாட்டான் பிரதேச சபைத் தவிசாளர் விடுத்துள்ள அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-d03eedcd)
 - 2025-10-08 | `tamilmirrorlk-82637bd9` | உத்தரவை மீறிச் சென்ற கார் மீது துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-82637bd9)
 - 2025-10-08 | `tamilmirrorlk-4a37aa48` | சமிக்ஞையை மீறிச் சென்ற கார் மீது துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-4a37aa48)
-- 2025-10-08 | `virakesarilk-b3271a12` | ஆபிரிக்க பன்றிக் காய்ச்சல் பரவுவதைத் தடுப்பதற்கான நடவடிக்கைகள் அடங்கிய வர்த்தமானி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-b3271a12)
-- 2025-10-08 | `virakesarilk-0ca85f0f` | மாத்தறையில்  கார் மீது பொலிஸார் துப்பாக்கிச் சூடு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-0ca85f0f)
-- 2025-10-08 | `tamilmirrorlk-d3dde478` | 2026இல் வட மாகாணத்தில் ஏற்படவுள்ள பாரிய மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-d3dde478)
-- 2025-10-08 | `tamilmirrorlk-095013ce` | இஸ்ரேல் - ஹமாஸ் பேச்சுவார்த்தையில் முன்னேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-095013ce)
-- 2025-10-08 | `adalk-290c55ba` | භෞතික විද්‍යාව සඳහා නොබෙල් ත්‍යාගය තිදෙනෙකුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-adalk-290c55ba)
-- 2025-10-08 | `tamilmirrorlk-1105e057` | வடக்கு பிரதிப் பிரதம செயலாளராக ராஜினி ஜெயராஜ் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-1105e057)
-- 2025-10-08 | `dailyftlk-570744ed` | Sustaining transformative growth in Sri Lanka 2025-2030 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-dailyftlk-570744ed)
 
 ---
 
