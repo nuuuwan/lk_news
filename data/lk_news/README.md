@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_16:17:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_16:45:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,778** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,780** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -55,12 +55,12 @@ A collection of lk_news documents.
 - 2025-10-08 | `virakesarilk-1a9d1875` | வெளிநாடுகளில் இருந்து நாடு திரும்பும் இலங்கைப் பிரஜைகளுக்கு எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-1a9d1875)
 - 2025-10-08 | `virakesarilk-bb50f92c` | பாதசாரி மீது மோதிய கனரக வாகனம் ; கடற்படை வீரர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-bb50f92c)
 - 2025-10-08 | `lankadeepalk-116a095b` | තුං තුඹ මලින් ආ මල් කෙල්ල නොකියම යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-116a095b)
+- 2025-10-08 | `adalk-f12d1635` | විදුලි ගාස්තුව සියයට 6.8ක් ඉහල යයිද? ස්වාධීන කොමිසමක් උනත් මොනවද කරල තියෙන්නෙ? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-adalk-f12d1635)
 - 2025-10-08 | `virakesarilk-4502aa0a` | மின் வெட்டு அச்சுறுத்தல்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-4502aa0a)
 - 2025-10-08 | `virakesarilk-148a8362` | நட்டி நட்ராஜ் நடிக்கும் 'கம்பி கட்ன கதை' படத்தின் இசை மற்றும் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-148a8362)
 - 2025-10-08 | `virakesarilk-a84b8b5a` | நீதி அமைச்சின் மேலதிக செயலாளர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-a84b8b5a)
 - 2025-10-08 | `virakesarilk-54b58dd9` | உலக அஞ்சல் தினம் ; பதுளையில் அமைச்சர் நளிந்த ஜயதிஸ்ஸ தலைமையில் சிறப்பு விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-54b58dd9)
 - 2025-10-08 | `virakesarilk-ec474b16` | மன்னார் காற்றாலைத் திட்ட ஆய்வுக்காக சென்ற குழுவினரை விரட்டியடித்த பொதுமக்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-ec474b16)
-- 2025-10-08 | `virakesarilk-e094c9ca` | கொழும்பு நீச்சல் கழகத்தின் தடாகத்தில் மூழ்கிய சிறுவன் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-e094c9ca)
 
 ---
 
