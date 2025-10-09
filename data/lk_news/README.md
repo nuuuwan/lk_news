@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--09_05:13:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--09_06:00:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,842** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,856** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-09-dailyftlk-5ec2b645",
-    "num": "dailyftlk-5ec2b645",
+    "doc_id": "2025-10-09-dailyftlk-4fe58b6d",
+    "num": "dailyftlk-4fe58b6d",
     "date_str": "2025-10-09",
-    "description": "SWRD to AKD: From mastery to marginality in foreign policy",
-    "url_metadata": "https://www.ft.lk/columns/SWRD-to-AKD-From-mastery-to-marginality-in-foreign-policy/4-782737",
+    "description": "Adopted without a vote in Geneva: Inept at the international",
+    "url_metadata": "https://www.ft.lk/columns/Adopted-without-a-vote-in-Geneva-Inept-at-the-international/4-782739",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759965314.0
+    "time_ut": 1759966837.0
 }
 ```
 
@@ -41,8 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-09 | `dailyftlk-4fe58b6d` | Adopted without a vote in Geneva: Inept at the international | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-dailyftlk-4fe58b6d)
 - 2025-10-09 | `dailyftlk-5ec2b645` | SWRD to AKD: From mastery to marginality in foreign policy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-dailyftlk-5ec2b645)
 - 2025-10-09 | `tamilmirrorlk-3a437cf9` | ஜேர்மனியில் புதிதாக தேர்ந்தெடுக்கப்பட்ட மேயருக்கு கத்திக்குத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-tamilmirrorlk-3a437cf9)
+- 2025-10-08 | `islandlk-0c2ac79a` | Solutions for fine lines and wrinkles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-islandlk-0c2ac79a)
+- 2025-10-08 | `islandlk-7922a18f` | New Year’s Eve …mega happenings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-islandlk-7922a18f)
+- 2025-10-08 | `islandlk-d4a9fe57` | Carmart unveils Leapmotor C10 to combat EV range anxiety | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-islandlk-d4a9fe57)
+- 2025-10-08 | `islandlk-78f87d31` | Slack expands platform to power secure, context-aware AI apps and agents built on conversational data | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-islandlk-78f87d31)
+- 2025-10-08 | `islandlk-e256419c` | The Colombo Academy of Hospitality Management celebrates World Tourism Day 2025, empowering youth for sustainable tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-islandlk-e256419c)
+- 2025-10-08 | `islandlk-687531c6` | Share market dips slightly due to profit-takings but records over Rs 7 billion turnover | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-islandlk-687531c6)
+- 2025-10-08 | `islandlk-ba53e278` | Omega Line triumphs at CPM Sri Lanka Management Leadership Excellence Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-islandlk-ba53e278)
 - 2025-10-08 | `virakesarilk-48b603ed` | பாகிஸ்தானை பந்தாடியது நடப்பு சம்பியன் அவுஸ்திரேலியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-48b603ed)
 - 2025-10-08 | `virakesarilk-a73ac986` | பாகிஸ்தானிடம் தடுமாறிய நடப்பு சம்பியன் அவுஸ்திரேலியாவை பெத் மூனியின் அபார சதம் மீட்டெடுத்தது; அலானாவும் சிறந்த பங்களிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-a73ac986)
 - 2025-10-08 | `virakesarilk-ef81f990` | LSR கலம்போ மரதனில் ஒரு நிமிடத்தில் தங்கத்தை தவறவிட்டார் சண்முகேஸ்வரன்; இருபாலாரிலும் கென்யர்கள் தங்கப் பதக்கங்களை சுவீகரித்தனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-ef81f990)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2025-10-08 | `tamilmirrorlk-022e2ced` | ராஜபக்ச விமான நிலையத்தில்  வனவிலங்குத் திணைக்கள அலுவலகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-022e2ced)
 - 2025-10-08 | `lankadeepalk-ca7fa599` | ශෂීන්ද්‍රගේ අතිරේක ලේකම්වරියට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-ca7fa599)
 - 2025-10-08 | `virakesarilk-b17ca881` | அரசு எனது கேள்விகளுக்கு பதிலளிக்காமல் நழுவிச் செல்கிறது - சாணக்கியன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-b17ca881)
-- 2025-10-08 | `lankadeepalk-ed0b9cca` | ලංකා ප්‍රමිති ආයතනය රුසියාව එක්ක හාද වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-ed0b9cca)
-- 2025-10-08 | `lankadeepalk-d85120ae` | කටුනායක ගුවන්තොට ගිය අවුරුද්දට වඩා ’’බිසී’’ වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-d85120ae)
-- 2025-10-08 | `tamilmirrorlk-5a9ade0f` | இலங்கை ரக்பிக்கு புதிய தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-tamilmirrorlk-5a9ade0f)
-- 2025-10-08 | `virakesarilk-1545b0c4` | தம்பதியர் படுகொலை செய்யப்பட்ட சம்பவத்தில் கைதான சந்தேக நபர்களுக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-1545b0c4)
-- 2025-10-08 | `lankadeepalk-95166e75` | ප්‍රවාහනයට කෝටි 3660ක් දෙන  පරිපූරකය සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-95166e75)
-- 2025-10-08 | `virakesarilk-e1f3bb02` | விசாரணைகளை குழப்புவதே எதிர்க்கட்சிகளின் நோக்கம் - அமைச்சரவை பேச்சாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-e1f3bb02)
-- 2025-10-08 | `virakesarilk-1f29d5a6` | ‘வீதிப் பாதுகாப்பு செயற்றிட்டம் 2025 - 2026’ - புத்தகம் மற்றும் 6 பாரிய வீதி விபத்துக்கள் குறித்த அறிக்கை பாராளுமன்ற நூலகத்திடம் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-virakesarilk-1f29d5a6)
-- 2025-10-08 | `lankadeepalk-5d94cefe` | නාමල්ගෙන් පොලිස්පතිට අවවාදයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-lankadeepalk-5d94cefe)
 
 ---
 

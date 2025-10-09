@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-09 05:12:27",
-  "n_docs": 79842,
+  "time_updated": "2025-10-09 05:59:33",
+  "n_docs": 79856,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 79842,
+  "n_docs_with_text": 79856,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-09",
-  "dataset_size": 1172064856,
+  "dataset_size": 1172168652,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -35,13 +35,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-09-dailyftlk-5ec2b645",
-    "num": "dailyftlk-5ec2b645",
+    "doc_id": "2025-10-09-dailyftlk-4fe58b6d",
+    "num": "dailyftlk-4fe58b6d",
     "date_str": "2025-10-09",
-    "description": "SWRD to AKD: From mastery to marginality in foreign policy",
-    "url_metadata": "https://www.ft.lk/columns/SWRD-to-AKD-From-mastery-to-marginality-in-foreign-policy/4-782737",
+    "description": "Adopted without a vote in Geneva: Inept at the international",
+    "url_metadata": "https://www.ft.lk/columns/Adopted-without-a-vote-in-Geneva-Inept-at-the-international/4-782739",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1759965314.0
+    "time_ut": 1759966837.0
   }
 }
