@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_02:45:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_03:13:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,036** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,039** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-09-tamilmirrorlk-a0c3757d",
-    "num": "tamilmirrorlk-a0c3757d",
-    "date_str": "2025-10-09",
-    "description": "\u0b87\u0bb0\u0bbe\u0bae\u0bb0\u0bcd \u0baa\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8 \u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8\u0baf\u0bbf\u0b9f \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0baa\u0b9f\u0b95\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0ba9\u0bcd\u0ba9\u0bbf/\u0b87\u0bb0\u0bbe\u0bae\u0bb0\u0bcd-\u0baa\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8-\u0baa\u0bbe\u0bb0\u0bcd\u0bb5\u0bc8\u0baf\u0bbf\u0b9f-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0baa\u0b9f\u0b95\u0bc1-\u0b9a\u0bc7\u0bb5\u0bc8/72-366058",
+    "doc_id": "2025-10-10-virakesarilk-1cb87d6b",
+    "num": "virakesarilk-1cb87d6b",
+    "date_str": "2025-10-10",
+    "description": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0b9f\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0baa\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0b95 \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baf\u0bbe\u0ba9\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/227363",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1760031057.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1760044800.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-10 | `virakesarilk-1cb87d6b` | மட்டக்களப்பு படுவான் நிலப்பரப்பை தொடர்ச்சியாக அச்சுறுத்தும் காட்டு யானைகள் கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-1cb87d6b)
+- 2025-10-10 | `virakesarilk-2b8cf101` | ஜே.ஆர்.ஜெயவர்த்தனவின் அதிகார வெறியினால் ஒட்டுமொத்த நாடும் பாரிய விலையைச் செலுத்தியது ; கறுப்பு ஜுலை கலவரம் தொடர்பில் ஜே.வி.பியின் பொதுச்செயலாளர் டில்வின் கருத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-2b8cf101)
+- 2025-10-10 | `virakesarilk-260c4e9f` | சுவசெரிய இலவச சேவையின் கட்டமைப்பை மாற்றியமைக்கும் பைத்தியகாரத்தனமான செயற்பாட்டை  அரசாங்கம் கைவிட  வேண்டும் - ஹர்ஷ டி சில்வா வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-260c4e9f)
 - 2025-10-09 | `tamilmirrorlk-a0c3757d` | இராமர் பாலத்தை பார்வையிட விசேட படகு சேவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-tamilmirrorlk-a0c3757d)
 - 2025-10-09 | `virakesarilk-4dfec0b1` | குடு சலிந்துவுக்கு பிடியாணை பிறப்பித்தது நீதிமன்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-4dfec0b1)
 - 2025-10-09 | `virakesarilk-f6497dc4` | ஐஎம்எப் நிபந்தனைகளுக்கு இலங்கை அடிபணியக் கூடாது – கர்தினால் ரஞ்சித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-f6497dc4)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-09 | `tamilmirrorlk-97466f7d` | சந்தேக நபர் தப்பியோட்டம்;2 பொலிஸார் பணிநீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-tamilmirrorlk-97466f7d)
 - 2025-10-09 | `virakesarilk-bba69f94` | அனைத்து மதத்தலைவர்களும் ஒன்றிணைந்து ஜனாதிபதியை சந்தித்து அழுத்தம் கொடுப்பதன்  மூலமே இனப்பிரச்சினையை தீர்க்கமுடியும் - கலாநிதி ஆறுதிருமுருகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-bba69f94)
 - 2025-10-09 | `lankadeepalk-e79ae7aa` | නිවිතිගල සමූපේ බලය විපක්ෂයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-lankadeepalk-e79ae7aa)
-- 2025-10-09 | `virakesarilk-3bfe0e05` | வீட்டிலிருந்து வெளியே சென்ற சிறுவர்கள் மாயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-3bfe0e05)
-- 2025-10-09 | `virakesarilk-c971c605` | ஆசிரியர்களாக பணியாற்றிய அபிவிருத்தி உத்தியோகத்தர்கள் ஓரங்கட்டப்படுவதை ஏற்க முடியாது - சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-c971c605)
-- 2025-10-09 | `virakesarilk-6801e234` | தனியார் விடுதிக்கு சிவப்பு அறிவித்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-6801e234)
 
 ---
 
