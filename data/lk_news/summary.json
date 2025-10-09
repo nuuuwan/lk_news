@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-09 07:12:14",
-  "n_docs": 79871,
+  "time_updated": "2025-10-09 08:11:56",
+  "n_docs": 79880,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 79871,
+  "n_docs_with_text": 79880,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-09",
-  "dataset_size": 1172392873,
+  "dataset_size": 1172572363,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -30,18 +30,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-09-dailyftlk-ef502272",
-    "num": "dailyftlk-ef502272",
+    "doc_id": "2025-10-09-tamilmirrorlk-4c6acc14",
+    "num": "tamilmirrorlk-4c6acc14",
     "date_str": "2025-10-09",
-    "description": "Monk on hunger strike for Mahinda",
-    "url_metadata": "https://www.ft.lk/news/Monk-on-hunger-strike-for-Mahinda/56-782769",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1759973561.0
+    "description": "O/L \u0bae\u0bc0\u0bb3\u0bcd \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bcc\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/O-L-\u0bae\u0bc0\u0bb3\u0bcd-\u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd-\u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd-\u0bb5\u0bcc\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-366000",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759977550.0
   }
 }

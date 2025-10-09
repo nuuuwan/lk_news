@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--09_07:12:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--09_08:12:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**79,871** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**79,880** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-09-dailyftlk-ef502272",
-    "num": "dailyftlk-ef502272",
+    "doc_id": "2025-10-09-tamilmirrorlk-4c6acc14",
+    "num": "tamilmirrorlk-4c6acc14",
     "date_str": "2025-10-09",
-    "description": "Monk on hunger strike for Mahinda",
-    "url_metadata": "https://www.ft.lk/news/Monk-on-hunger-strike-for-Mahinda/56-782769",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1759973561.0
+    "description": "O/L \u0bae\u0bc0\u0bb3\u0bcd \u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bcc\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/O-L-\u0bae\u0bc0\u0bb3\u0bcd-\u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd-\u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd-\u0bb5\u0bcc\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-366000",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1759977550.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-09 | `tamilmirrorlk-4c6acc14` | O/L மீள் மதிப்பீட்டுப் பெறுபேறுகள் வௌியானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-tamilmirrorlk-4c6acc14)
+- 2025-10-09 | `tamilmirrorlk-8c365a82` | 12 கிலோகிராம் போதைப்பொருளுடன் பெண் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-tamilmirrorlk-8c365a82)
+- 2025-10-09 | `dailyftlk-a0a3985c` | Futurity partners  IESL as AI Enablement  Partner for Techno 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-dailyftlk-a0a3985c)
+- 2025-10-09 | `dailyftlk-6fbf4adc` | CEB Engineers’ Union urges Parliamentary review of power sector reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-dailyftlk-6fbf4adc)
+- 2025-10-09 | `dailyftlk-28d03ac1` | CEB–Govt. talks collapse; staff to escalate trade union action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-dailyftlk-28d03ac1)
+- 2025-10-09 | `dailyftlk-573ccce9` | Govt. says those who attempt to discredit CIABOC have vested interests | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-dailyftlk-573ccce9)
+- 2025-10-09 | `dailyftlk-ba98b6bf` | Supreme Court to hear Shani Abeysekara’s petitions over 2021 arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-dailyftlk-ba98b6bf)
+- 2025-10-09 | `dailyftlk-d053d455` | All teachers to become degree holders under new education reforms – PM Harini | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-dailyftlk-d053d455)
 - 2025-10-09 | `dailyftlk-ef502272` | Monk on hunger strike for Mahinda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-dailyftlk-ef502272)
 - 2025-10-09 | `dailyftlk-8ba4527f` | Sanken awarded Rs. 3 b contract for Ratmalana Airport complex | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-dailyftlk-8ba4527f)
 - 2025-10-09 | `dailyftlk-2284d847` | Cabinet approves four-month Murban crude supply deal with BB Energy Asia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-dailyftlk-2284d847)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2025-10-09 | `lankadeepalk-cea4ee28` | තැපැල් සේවකයෝ කව පටි බඳියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-lankadeepalk-cea4ee28)
 - 2025-10-09 | `lankadeepalk-40ac4c78` | මිරිහානේ පාසලක දරුවෙක් පිහිණුම් පුහුණු වෙද්දි ගිලි මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-lankadeepalk-40ac4c78)
 - 2025-10-09 | `lankadeepalk-602b41ef` | ලක්ෂපාන වත්තේ තේ කම්හලක් ගින්නෙන් දැවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-lankadeepalk-602b41ef)
-- 2025-10-09 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-3a015e4a)
-- 2025-10-09 | `dailyftlk-4fe58b6d` | Adopted without a vote in Geneva: Inept at the international | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-dailyftlk-4fe58b6d)
-- 2025-10-09 | `dailyftlk-5ec2b645` | SWRD to AKD: From mastery to marginality in foreign policy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-dailyftlk-5ec2b645)
-- 2025-10-09 | `tamilmirrorlk-f8fc7867` | ஐரோப்பிய ஒன்றிய பிரதிநிதிகளுடன் சஜித் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-tamilmirrorlk-f8fc7867)
-- 2025-10-09 | `tamilmirrorlk-3a437cf9` | ஜேர்மனியில் புதிதாக தேர்ந்தெடுக்கப்பட்ட மேயருக்கு கத்திக்குத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-tamilmirrorlk-3a437cf9)
-- 2025-10-09 | `bbccomsinhala-c745c59f` | ඇමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව හෙළි කර ඇති විදෙස් ආයෝජකයින්ට ශ්‍රී ලංකාවට එන්න නොහිතෙන ගැටලු 7ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-bbccomsinhala-c745c59f)
-- 2025-10-08 | `islandlk-0c2ac79a` | Solutions for fine lines and wrinkles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-islandlk-0c2ac79a)
-- 2025-10-08 | `islandlk-7922a18f` | New Year’s Eve …mega happenings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-08-islandlk-7922a18f)
 
 ---
 
