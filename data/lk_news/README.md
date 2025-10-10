@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_19:19:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_19:46:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,187** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,190** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -50,6 +50,7 @@ A collection of lk_news documents.
 - 2025-10-10 | `tamilmirrorlk-167231c9` | 20 ரூபாய்க்கு ஆசைப்பட்டு 6 இலட்சம் கட்டிய நபர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-tamilmirrorlk-167231c9)
 - 2025-10-10 | `virakesarilk-62b0efef` | போதைப்பொருள் கடத்தலில் ஈடுபட்ட இளைஞனுக்கு நீதிமன்றம் பிறப்பித்த உத்தரவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-62b0efef)
 - 2025-10-10 | `tamilmirrorlk-6a50e50d` | இலங்கை மக்களுக்கு விடுக்கப்பட்ட எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-tamilmirrorlk-6a50e50d)
+- 2025-10-10 | `lankadeepalk-bdf72e58` | නොබෙල් සාම ත්‍යාගය වෙනිසියුලා විපක්ෂ නායිකාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-bdf72e58)
 - 2025-10-10 | `lankadeepalk-488cc0c5` | නොබෙල් සාම ත්‍යාගය වෙනිසියුලා විපක්ෂ නායකට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-488cc0c5)
 - 2025-10-10 | `virakesarilk-ea63ba6a` | போக்குவரத்து, நெடுஞ்சாலைகள் மற்றும் நகர அபிவிருத்தி அமைச்சின் செயலாளராக சிரேஸ்ட  பேராசிரியர் கபில சி.கே. பெரேரா நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-ea63ba6a)
 - 2025-10-10 | `lankadeepalk-bd513197` | තේ කම්හල් 106ක් වැහිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-bd513197)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-10 | `virakesarilk-067cbf03` | வாரியபொலவில் கழிவுகளை மீள்சுழற்சிக்கு உட்படுத்தும் நிலையத்தின் நிர்மாணப் பணிகள் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-067cbf03)
 - 2025-10-10 | `virakesarilk-c3093d4d` | வட மாகாண ஆளுநர் கழிவு மின் உற்பத்தி திட்டம் குறித்து அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-c3093d4d)
 - 2025-10-10 | `virakesarilk-7454959d` | இந்திய வெளிவிவகார அமைச்சரை சந்தித்தார் ஆப்கானிஸ்தான் வெளிவிவகார அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-7454959d)
-- 2025-10-10 | `lankadeepalk-fc269838` | වාහන ආනයනකරුවන්ගේ පෙත්සමට දින දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-fc269838)
 
 ---
 
