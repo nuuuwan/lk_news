@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_00:20:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_00:44:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,204** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,205** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -49,6 +49,7 @@ A collection of lk_news documents.
 - 2025-10-10 | `dailyftlk-95c1f2d6` | New Case-File Tracking System revolutionises anti-corruption investigations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-95c1f2d6)
 - 2025-10-10 | `dailyftlk-0e26d87f` | Science College Rugby Support Group decries poaching via deceptive scholarships | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-0e26d87f)
 - 2025-10-10 | `dailyftlk-9f7c6f8e` | Apparel industry redefines sustainability: From climate action to community impact | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-9f7c6f8e)
+- 2025-10-10 | `dailyftlk-f352721a` | More than merely messiahs – viz: is the era and ethos of ‘strongman’  governments gone for good? (2/4) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-f352721a)
 - 2025-10-10 | `tamilmirrorlk-82004706` | பெற்றோருக்கு எதிராக பிள்ளைகள் முறைப்பாடளிக்கலாம்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-tamilmirrorlk-82004706)
 - 2025-10-10 | `lankadeepalk-cfd96880` | “ඇප ලැබෙන විදිහට බඩු නොදැම්මොත් මරනවා” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-cfd96880)
 - 2025-10-10 | `tamilmirrorlk-b92db378` | டிரம்ப்புக்கு கிடைக்காத நோபல் பரிசு : வெள்ளை மாளிகை கடும் எதிர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-tamilmirrorlk-b92db378)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-10 | `tamilmirrorlk-2c64bd77` | 10 பேரின் உயிரைப் பறித்த எலிக்காய்ச்சல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-tamilmirrorlk-2c64bd77)
 - 2025-10-10 | `virakesarilk-9a5e314d` | அநுராதபுரம் மாவட்டத்தில் எலிக்காய்ச்சல் நோயினால் 10 பேர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-9a5e314d)
 - 2025-10-10 | `lankadeepalk-e45991a0` | ආනන්ද සාගරට විදෙස් ගමන් තහනමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-e45991a0)
-- 2025-10-10 | `tamilmirrorlk-167231c9` | 20 ரூபாய்க்கு ஆசைப்பட்டு 6 இலட்சம் கட்டிய நபர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-tamilmirrorlk-167231c9)
 
 ---
 
