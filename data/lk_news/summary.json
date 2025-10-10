@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-11 00:44:00",
-  "n_docs": 80205,
+  "time_updated": "2025-10-11 01:13:28",
+  "n_docs": 80220,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 80205,
+  "n_docs_with_text": 80220,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2025-10-10",
-  "dataset_size": 1177441623,
+  "date_str_max": "2025-10-11",
+  "dataset_size": 1177576830,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -30,18 +30,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-10-dailyftlk-564737f7",
-    "num": "dailyftlk-564737f7",
-    "date_str": "2025-10-10",
-    "description": "From homegrown talent to international diplomacy: CA Sri Lanka\u2019s 46th National Conference concludes on inspiring note",
-    "url_metadata": "https://www.ft.lk/business/From-homegrown-talent-to-international-diplomacy-CA-Sri-Lanka-s-46th-National-Conference-concludes-on-inspiring-note/34-782858",
+    "doc_id": "2025-10-11-dailyftlk-6a45af45",
+    "num": "dailyftlk-6a45af45",
+    "date_str": "2025-10-11",
+    "description": "UN team, Sri Lanka leaders discuss electoral reform support",
+    "url_metadata": "https://www.ft.lk/news/UN-team-Sri-Lanka-leaders-discuss-electoral-reform-support/56-782862",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1760120541.0
+    "time_ut": 1760123978.0
   }
 }
