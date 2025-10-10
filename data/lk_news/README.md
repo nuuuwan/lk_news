@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_09:46:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_10:18:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,082** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,091** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-10-virakesarilk-f618d1fd",
-    "num": "virakesarilk-f618d1fd",
+    "doc_id": "2025-10-10-tamilmirrorlk-007cbe70",
+    "num": "tamilmirrorlk-007cbe70",
     "date_str": "2025-10-10",
-    "description": "\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba8\u0bcb\u0baa\u0bb2\u0bcd \u0baa\u0bb0\u0bbf\u0b9a\u0bc8 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd \u0baf\u0bbe\u0bb0\u0bcd?",
-    "url_metadata": "https://www.virakesari.lk/article/227375",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0baa\u0bb0\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0bbf\u0baa\u0bb0\u0bae\u0bcd/175-366065",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1760068920.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1760071332.0
 }
 ```
 
@@ -41,7 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-10 | `tamilmirrorlk-007cbe70` | இன்று பதவியேற்ற புதிய அமைச்சர்கள் விபரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-tamilmirrorlk-007cbe70)
+- 2025-10-10 | `tamilmirrorlk-fc50729e` | இலங்கையில் தங்க விற்பனை 60% சரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-tamilmirrorlk-fc50729e)
+- 2025-10-10 | `virakesarilk-e97aef75` | அமைச்சரவையில் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-e97aef75)
+- 2025-10-10 | `virakesarilk-ef3e20f7` | மன்னாரில் 14 காற்றாலைகளை அமைப்பதே அரசாங்கத்தின் முடிவாக உள்ளது : மன்னார் மறைமாவட்ட ஆயர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-ef3e20f7)
+- 2025-10-10 | `virakesarilk-0789b96a` | நீச்சல் தடாகத்தில் மூழ்கி சிறுவன் உயிரிழப்பு ; உப அதிபர் உட்பட 7 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-0789b96a)
+- 2025-10-10 | `virakesarilk-c58da0f1` | 10 ஆயிரம் போதைமாத்திரைகளுடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-c58da0f1)
+- 2025-10-10 | `virakesarilk-e04e140e` | வெளிநாட்டு சுற்றுலா பயணிகளிடம் அதிக பணம் பெற்ற முச்சக்கரவண்டி சாரதிகள் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-e04e140e)
 - 2025-10-10 | `virakesarilk-f618d1fd` | இலக்கியத்திற்கான நோபல் பரிசை வென்றவர் யார்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-f618d1fd)
+- 2025-10-10 | `adalk-263477f0` | ආණ්ඩුව පළමු කැබිනට් සංශෝධනය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-adalk-263477f0)
 - 2025-10-10 | `adalk-d14592c8` | අඩු පොලී අනුපාත නිසා තැන්පතු හරහා අරමුදල් ආකර්ෂණය අභියෝගාත්මකයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-adalk-d14592c8)
 - 2025-10-10 | `lankadeepalk-ee7689ff` | හදිසි කැබිනට් සංශෝධනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-ee7689ff)
 - 2025-10-10 | `virakesarilk-de36d425` | பிலிப்பைன்ஸில் 7.6 ரிச்டர் அளவில் நிலநடுக்கம் : சுனாமி எச்சரிக்கை ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-de36d425)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2025-10-10 | `tamilmirrorlk-3f90e87c` | இராமேஸ்வரம் மீனவர்கள் 30  பேருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-tamilmirrorlk-3f90e87c)
 - 2025-10-10 | `lankadeepalk-507d2a91` | සවස් කාලයේ ගිගුරුම් සහිත වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-507d2a91)
 - 2025-10-10 | `lankadeepalk-c6e5c2bd` | මිරිහාන පිහිණුම් තටාක සිද්දියට හතක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-c6e5c2bd)
-- 2025-10-10 | `lankadeepalk-dce521ca` | එජාපෙ එක්ක පොදු ගමනකට සජබ අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-dce521ca)
-- 2025-10-10 | `dailyftlk-5c40aee1` | CDRI awards Rs. 142 m grant for UN-Habitat-Water Board project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-5c40aee1)
-- 2025-10-10 | `dailyftlk-f11e8a6f` | Sri Lanka indirectly linked to Iran’s ‘shadow fleet’ oil and LPG network hit by new US sanctions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-f11e8a6f)
-- 2025-10-10 | `dailyftlk-7d6da9b6` | Truth and Reconciliation Bill soon, PC elections next year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-7d6da9b6)
-- 2025-10-10 | `dailyftlk-0e8a15af` | Justice Minister says Easter Sunday probe details cannot be disclosed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-0e8a15af)
-- 2025-10-10 | `dailyftlk-1802d92a` | Police seize over 18 kg of narcotics in Kadawatha raid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-1802d92a)
-- 2025-10-10 | `tamilmirrorlk-f53f7022` | அணையா விளக்கு தூபி மீளக் கட்டப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-tamilmirrorlk-f53f7022)
-- 2025-10-10 | `tamilmirrorlk-6cbe6f2e` | ’14 காற்றாலைகளையும் அமைப்பதில் அரசு உறுதி’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-tamilmirrorlk-6cbe6f2e)
 
 ---
 
