@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_05:13:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_06:00:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,043** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,053** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-10-virakesarilk-057ea367",
-    "num": "virakesarilk-057ea367",
+    "doc_id": "2025-10-10-dailyftlk-becf4065",
+    "num": "dailyftlk-becf4065",
     "date_str": "2025-10-10",
-    "description": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0bb5\u0bbe\u0ba9 \u0bb5\u0bc7\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f \u0ba4\u0baf\u0bbe\u0bb0\u0bcd - \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0ba4\u0bbe\u0b9a",
-    "url_metadata": "https://www.virakesari.lk/article/227367",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1760049840.0
+    "description": "Tamil actor Vijay and the cinematic politics of \u201cDravidian\u201d Tamil Nadu",
+    "url_metadata": "https://www.ft.lk/columns/Tamil-actor-Vijay-and-the-cinematic-politics-of-Dravidian-Tamil-Nadu/4-782805",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1760055422.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-10 | `dailyftlk-becf4065` | Tamil actor Vijay and the cinematic politics of “Dravidian” Tamil Nadu | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-becf4065)
+- 2025-10-10 | `dailyftlk-7524eda3` | CEB at crossroads: Reform reversed, financing jeopardised | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-7524eda3)
+- 2025-10-10 | `dailyftlk-6d98c228` | Turning disaster into opportunity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-6d98c228)
+- 2025-10-10 | `dailyftlk-a9914351` | What to do about Online Safety Act? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-a9914351)
 - 2025-10-10 | `virakesarilk-057ea367` | ஐக்கிய தேசியக் கட்சியுடன் பொதுவான வேலைத்திட்டத்தில் ஈடுபட தயார் - சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-057ea367)
 - 2025-10-10 | `virakesarilk-27c2e8e0` | மன்னாரில் முன்னெடுக்கப் படும் மக்களின் உரிமை சார் போராட்டத்தை எவரும் மலினப்படுத்த முடியாது - செல்வம் அடைக்கலநாதன் எம்.பி. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-27c2e8e0)
 - 2025-10-10 | `virakesarilk-24c5c60d` | முல்லைத்தீவிற்கான சொகுசுப்பேருந்துசேவை தொடர்பில் கேள்வி எழுப்பிய ரவிகரன் எம்.பி; இம்மாதத்திற்குள் ஆரம்பிக்கப்படும் - அமைச்சின் அதிகாரிகள் பதில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-24c5c60d)
@@ -54,13 +58,9 @@ A collection of lk_news documents.
 - 2025-10-09 | `lankadeepalk-2bfb3dcd` | දෙවන කාර්තුවේ රාජ්‍ය සේවකයන් ලක්ෂ 2කින් පහත වැටිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-lankadeepalk-2bfb3dcd)
 - 2025-10-09 | `lankadeepalk-813faf95` | ’’ලංකාව අයි.එම්.එෆ් වහලෙක් විය යුතු නෑ’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-lankadeepalk-813faf95)
 - 2025-10-09 | `virakesarilk-02ee2275` | கால்பந்தாட்டத்தில் துர்க்மேனிஸ்தானை முதல் தடவையாக வீழ்த்தி சரித்திரம் படைத்தது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-02ee2275)
+- 2025-10-09 | `islandlk-f8cdac71` | Govt-IMF staff level agreement boosts share market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-islandlk-f8cdac71)
 - 2025-10-09 | `adalk-e959f2f5` | ලංකාවේ මාළු අස්වැන්න බලෙන් නෙලාගත් ඉන්දියාවේ 47ක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-adalk-e959f2f5)
 - 2025-10-09 | `virakesarilk-ce4b510a` | தங்காலையில் போதைப்பொருளுடன் 3 லொறிகள் கைப்பற்றப்பட்ட விடயம் ; சந்தேகநபர்களுக்கு தொடர்ந்தும் விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-ce4b510a)
-- 2025-10-09 | `lankadeepalk-7b136484` | උසස් පෙළ සිසුන්ට චක්‍රලේඛයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-lankadeepalk-7b136484)
-- 2025-10-09 | `lankadeepalk-5680597c` | මහනුවර දරුවන් දෙදෙනෙක් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-lankadeepalk-5680597c)
-- 2025-10-09 | `virakesarilk-b01f6949` | அரசாங்கத்தால் புறக்கணிக்கப்பட்ட அபிவிருத்தி உத்தியோகத்தர்களின் பிரச்சினைக்குத் தீர்வு வழங்க வேண்டும் - எதிர்க்கட்சித் தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-b01f6949)
-- 2025-10-09 | `virakesarilk-4183c053` | ஜெனீவா எமக்கு  கடவுளோ அல்லது பேயோ அல்ல மனித உரிமைகள் பேரவையில் வாக்கெடுப்பு கோருவது ஒரு பயனற்ற செயல் - விஜித்த ஹேரத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-4183c053)
-- 2025-10-09 | `tamilmirrorlk-0aa1eaf7` | தேசிய மகளிர் ஆணைக்குழு ஸ்தாபனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-tamilmirrorlk-0aa1eaf7)
 
 ---
 
