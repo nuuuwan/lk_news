@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_11:48:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_12:23:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,099** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,103** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-10-lankadeepalk-74562f90",
-    "num": "lankadeepalk-74562f90",
+    "doc_id": "2025-10-10-lankadeepalk-48e409e4",
+    "num": "lankadeepalk-48e409e4",
     "date_str": "2025-10-10",
-    "description": "\u0d9c\u0dcf\u0dc3\u0dcf \u0dad\u0dd3\u0dbb\u0dba\u0dda \u0dc0\u0dcf\u0dbb\u0dca\u0d9c\u0dd2\u0d9a \u0dc3\u0d82\u0dc4\u0dcf\u0dbb\u0dba",
-    "url_metadata": "https://www.lankadeepa.lk/features/\u0d9c\u0dc3-\u0dad\u0dbb\u0dba-\u0dc0\u0dbb\u0d9c\u0d9a-\u0dc3\u0dc4\u0dbb\u0dba/2-681064",
+    "description": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d87\u0db8\u0dad\u0dd2 \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0d9a\u0dca\u0d9c\u0dda \u0dc0\u0dd2\u0dc2\u0dba \u0db4\u0dae \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0\u0dda",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0da7\u0db4-\u0d87\u0db8\u0dad-\u0daf\u0db1\u0db1\u0d9a\u0d9c-\u0dc0\u0dc2\u0dba-\u0db4\u0dae-\u0dc0\u0db1\u0dc3-\u0dc0/1-681067",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1760076375.0
+    "time_ut": 1760078490.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-10 | `lankadeepalk-48e409e4` | හිටපු ඇමති දෙන්නෙක්ගේ විෂය පථ වෙනස් වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-48e409e4)
+- 2025-10-10 | `tamilmirrorlk-c04b80a3` | தேசபந்து தென்னகோனுக்கு எதிரான வழக்கு ஒத்திவைக்கப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-tamilmirrorlk-c04b80a3)
+- 2025-10-10 | `lankadeepalk-8ecdff55` | උදෑසන කෑම කෑ දරුවන් හැටක් ලෙඩ වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-8ecdff55)
+- 2025-10-10 | `lankadeepalk-9f147724` | මැතිවරණ තුනේ අපේක්ෂකයින් 2403 ක්  ආදායම් වියදම් වාර්තා ලබා දී නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-9f147724)
 - 2025-10-10 | `lankadeepalk-74562f90` | ගාසා තීරයේ වාර්ගික සංහාරය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-74562f90)
 - 2025-10-10 | `lankadeepalk-3ab888d7` | ලෝකයා මැද ලංකාව හුදෙකලා වීම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-3ab888d7)
 - 2025-10-10 | `lankadeepalk-5189e030` | අලුත් හතරකට නියෝජ්‍ය ඇමති ධුර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-5189e030)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-10-10 | `adalk-263477f0` | ආණ්ඩුව පළමු කැබිනට් සංශෝධනය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-adalk-263477f0)
 - 2025-10-10 | `adalk-d14592c8` | අඩු පොලී අනුපාත නිසා තැන්පතු හරහා අරමුදල් ආකර්ෂණය අභියෝගාත්මකයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-adalk-d14592c8)
 - 2025-10-10 | `lankadeepalk-ee7689ff` | හදිසි කැබිනට් සංශෝධනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-ee7689ff)
-- 2025-10-10 | `lankadeepalk-ac5420e3` | මෙන්න වෙන් වූ අමාත්‍යවරු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-ac5420e3)
-- 2025-10-10 | `lankadeepalk-24b94f02` | මෙන්න වෙනස් වූ අමාත්‍යවරු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-lankadeepalk-24b94f02)
-- 2025-10-10 | `virakesarilk-de36d425` | பிலிப்பைன்ஸில் 7.6 ரிச்டர் அளவில் நிலநடுக்கம் : சுனாமி எச்சரிக்கை ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-de36d425)
-- 2025-10-10 | `virakesarilk-c692ecb2` | திரிவைத்தகுளம் காணி ஆக்கிரமிப்பு தொடர்பில் வெளிப்படுத்தியமைக்காக மொட்டுக் கட்சியின் அமைப்பாளரால் கொலை மிரட்டல் : த.தே.ம.முன்னனி அமைப்பாளர் சிரேஸ்ட பொலிஸ் அத்தியட்சகர் அலுவலகத்தில் முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-virakesarilk-c692ecb2)
 
 ---
 
