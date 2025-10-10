@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-10 07:12:35",
-  "n_docs": 80066,
+  "time_updated": "2025-10-10 08:10:52",
+  "n_docs": 80072,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 80066,
+  "n_docs_with_text": 80072,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-10",
-  "dataset_size": 1174803066,
+  "dataset_size": 1174906551,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -35,13 +35,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-10-dailyftlk-5c40aee1",
-    "num": "dailyftlk-5c40aee1",
+    "doc_id": "2025-10-10-tamilmirrorlk-3f90e87c",
+    "num": "tamilmirrorlk-3f90e87c",
     "date_str": "2025-10-10",
-    "description": "CDRI awards Rs. 142 m grant for UN-Habitat-Water Board project",
-    "url_metadata": "https://www.ft.lk/news/CDRI-awards-Rs-142-m-grant-for-UN-Habitat-Water-Board-project/56-782824",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1760059032.0
+    "description": "\u0b87\u0bb0\u0bbe\u0bae\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0bae\u0bcd \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd 30  \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0bbe\u0bae\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0bae\u0bcd-\u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-30-\u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-366061",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1760062582.0
   }
 }
