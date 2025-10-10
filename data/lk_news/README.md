@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_06:00:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_06:29:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,053** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,058** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-10-dailyftlk-becf4065",
-    "num": "dailyftlk-becf4065",
+    "doc_id": "2025-10-10-dailyftlk-23470e27",
+    "num": "dailyftlk-23470e27",
     "date_str": "2025-10-10",
-    "description": "Tamil actor Vijay and the cinematic politics of \u201cDravidian\u201d Tamil Nadu",
-    "url_metadata": "https://www.ft.lk/columns/Tamil-actor-Vijay-and-the-cinematic-politics-of-Dravidian-Tamil-Nadu/4-782805",
+    "description": "Global architects gather in Colombo for AIA International Conference 2025",
+    "url_metadata": "https://www.ft.lk/business/Global-architects-gather-in-Colombo-for-AIA-International-Conference-2025/34-782810",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1760055422.0
+    "time_ut": 1760056591.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-10 | `dailyftlk-23470e27` | Global architects gather in Colombo for AIA International Conference 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-23470e27)
+- 2025-10-10 | `dailyftlk-c5602eaf` | New Deputy Secretary at General Treasury | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-c5602eaf)
+- 2025-10-10 | `dailyftlk-8328f66e` | Colombo Land appoints Ruchira Withana to Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-8328f66e)
+- 2025-10-10 | `dailyftlk-1a8d785b` | LAUGFS Power appoints Russell De Zilva as CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-1a8d785b)
+- 2025-10-10 | `dailyftlk-0b833068` | DiabSense wins Venture Engine 2025, AGC Innovate and Spectrify AI named runners-up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-0b833068)
 - 2025-10-10 | `dailyftlk-becf4065` | Tamil actor Vijay and the cinematic politics of “Dravidian” Tamil Nadu | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-becf4065)
 - 2025-10-10 | `dailyftlk-7524eda3` | CEB at crossroads: Reform reversed, financing jeopardised | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-7524eda3)
 - 2025-10-10 | `dailyftlk-6d98c228` | Turning disaster into opportunity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-6d98c228)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-10-09 | `virakesarilk-4dfec0b1` | குடு சலிந்துவுக்கு பிடியாணை பிறப்பித்தது நீதிமன்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-4dfec0b1)
 - 2025-10-09 | `virakesarilk-f6497dc4` | ஐஎம்எப் நிபந்தனைகளுக்கு இலங்கை அடிபணியக் கூடாது – கர்தினால் ரஞ்சித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-f6497dc4)
 - 2025-10-09 | `lankadeepalk-2bfb3dcd` | දෙවන කාර්තුවේ රාජ්‍ය සේවකයන් ලක්ෂ 2කින් පහත වැටිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-lankadeepalk-2bfb3dcd)
-- 2025-10-09 | `lankadeepalk-813faf95` | ’’ලංකාව අයි.එම්.එෆ් වහලෙක් විය යුතු නෑ’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-lankadeepalk-813faf95)
-- 2025-10-09 | `virakesarilk-02ee2275` | கால்பந்தாட்டத்தில் துர்க்மேனிஸ்தானை முதல் தடவையாக வீழ்த்தி சரித்திரம் படைத்தது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-02ee2275)
-- 2025-10-09 | `islandlk-f8cdac71` | Govt-IMF staff level agreement boosts share market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-islandlk-f8cdac71)
-- 2025-10-09 | `adalk-e959f2f5` | ලංකාවේ මාළු අස්වැන්න බලෙන් නෙලාගත් ඉන්දියාවේ 47ක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-adalk-e959f2f5)
-- 2025-10-09 | `virakesarilk-ce4b510a` | தங்காலையில் போதைப்பொருளுடன் 3 லொறிகள் கைப்பற்றப்பட்ட விடயம் ; சந்தேகநபர்களுக்கு தொடர்ந்தும் விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-09-virakesarilk-ce4b510a)
 
 ---
 
