@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--12_03:13:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--12_03:43:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,316** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,319** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-12-virakesarilk-bc193bd6",
-    "num": "virakesarilk-bc193bd6",
+    "doc_id": "2025-10-12-virakesarilk-b940bd93",
+    "num": "virakesarilk-b940bd93",
     "date_str": "2025-10-12",
-    "description": "\u0b93\u0bae\u0ba8\u0bcd\u0ba4\u0bc8 \u0b85\u0bb0\u0b9a \u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb5\u0ba9\u0baf\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/227501",
+    "description": "\u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd : \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 89 \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/227504",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1760209320.0
+    "time_ut": 1760217180.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-12 | `virakesarilk-b940bd93` | மகளிர் உலகக் கிண்ணம் : இலங்கையை 89 ஓட்டங்கள் வித்தியாசத்தில் வெற்றிகொண்ட இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-b940bd93)
+- 2025-10-12 | `virakesarilk-930d5bab` | சீனாவில் நடைபெறும் பெண்கள் உலகத் தலைவர்கள் கூட்டத்தில் பங்கேற்கும் பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-930d5bab)
+- 2025-10-12 | `virakesarilk-eda0f304` | தங்கல்லையில் 2 துப்பாக்கிகளுடன் சந்தேக நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-eda0f304)
 - 2025-10-12 | `virakesarilk-bc193bd6` | ஓமந்தை அரச ஊழியர் வீட்டுத்திட்டத்தில் மக்கள் கவனயீர்ப்பு போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-bc193bd6)
 - 2025-10-12 | `virakesarilk-45eb4fe1` | முட்டை விலை குறைக்கும் தீர்மானம் - அகில இலங்கை சிறு மற்றும் நடுத்தர உற்பத்தியாளர்கள் சங்கம் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-45eb4fe1)
 - 2025-10-11 | `virakesarilk-c912de84` | களுத்துறை, பாலத்தோட்டாவில் துப்பாக்கிச் சூடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-c912de84)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-11 | `virakesarilk-6763b918` | எரிபொருள் மாஃபியாக்களை வெளிச்சம் போட்டுக் காட்டும் ஹரீஷ் கல்யாணின் 'டீசல் ' பட முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-6763b918)
 - 2025-10-11 | `virakesarilk-5b426550` | நடிகர் ஸ்ரீராம் கார்த்திக் நடிக்கும் 'மைலாஞ்சி' படத்தின் இசை மற்றும் கிளர்வோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-5b426550)
 - 2025-10-11 | `adalk-9249a251` | ආයෝජකයන්ගේ සුරක්ෂිතතාව තහවුරු කර තිබෙනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-adalk-9249a251)
-- 2025-10-11 | `adalk-50e29b7a` | විදුලි බිල ගැන අවසන් තීරණය ලබන 14දා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-adalk-50e29b7a)
-- 2025-10-11 | `virakesarilk-87d579fd` | முத்துநகர் விவசாயிகள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-87d579fd)
-- 2025-10-11 | `virakesarilk-bbd41bb4` | நீர்வீழ்ச்சியின் கற்பாறைகளுக்கு இடையில் தோட்டாக்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-bbd41bb4)
 
 ---
 
