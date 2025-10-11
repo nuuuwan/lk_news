@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_10:15:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_10:45:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,241** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,249** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-11-lankadeepalk-a761c247",
-    "num": "lankadeepalk-a761c247",
+    "doc_id": "2025-10-11-tamilmirrorlk-01ba926c",
+    "num": "tamilmirrorlk-01ba926c",
     "date_str": "2025-10-11",
-    "description": "\u0dc0\u0dd2\u0db8\u0dbd\u0dca\u0da7 \u0db1\u0dd0\u0dc0\u0dad \u0d9a\u0dd0\u0db3\u0dc0\u0dd3\u0db8\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc0\u0db8\u0dbd\u0da7-\u0db1\u0dc0\u0dad-\u0d9a\u0db3\u0dc0\u0db8\u0d9a/101-681103",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1760157364.0
+    "description": "14 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/14-\u0b86\u0bae\u0bcd-\u0ba4\u0bbf\u0b95\u0ba4\u0bbf-\u0b87\u0bb1\u0bc1\u0ba4\u0bbf-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1/175-366086",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1760159211.0
 }
 ```
 
@@ -41,8 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-11 | `tamilmirrorlk-01ba926c` | 14 ஆம் திகதி இறுதி முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-tamilmirrorlk-01ba926c)
+- 2025-10-11 | `lankadeepalk-838c5003` | ‘උඩපන්දු‘ අත්හරින විපක්ෂය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-838c5003)
+- 2025-10-11 | `virakesarilk-a70c73f7` | சீனப் பொருட்களுக்கு நவம்பர் 1 முதல் 100% கூடுதல் வரி: டிரம்ப் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-a70c73f7)
 - 2025-10-11 | `lankadeepalk-a761c247` | විමල්ට නැවත කැඳවීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-a761c247)
 - 2025-10-11 | `lankadeepalk-92a18bcf` | තදබදයෙන් බන්ධනාගාර පුපුරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-92a18bcf)
+- 2025-10-11 | `virakesarilk-dc494b69` | மின்சாரக் கட்டண உயர்வு குறித்து வெளியான தகவல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-dc494b69)
+- 2025-10-11 | `virakesarilk-41e794ff` | மீனவ சமூகத்தின் பாதுகாப்புக்காக முதலுதவிப் பயிற்சி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-41e794ff)
+- 2025-10-11 | `virakesarilk-7fce1553` | அதிகளவான மாத்திரைகளை உட்கொண்ட வயோதிபர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-7fce1553)
+- 2025-10-11 | `virakesarilk-c81ba14b` | பிரான்ஸ் பிரதமராக செபாஸ்டியன் லெகோர்னு மீண்டும் நியமனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-c81ba14b)
+- 2025-10-11 | `virakesarilk-20c01de8` | பொலிஸாரிடமிருந்து முக்கிய அறிவித்தல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-20c01de8)
 - 2025-10-11 | `adalk-17fb9465` | ගාසාහි සාමය සඳහා වන ගිවිසුමේ ආරම්භක අදියර ලංකාව පිළිගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-adalk-17fb9465)
 - 2025-10-11 | `lankadeepalk-d5240c5a` | අද වහින පළාත් මෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-d5240c5a)
 - 2025-10-11 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-3a015e4a)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2025-10-11 | `virakesarilk-316282e2` | ‘பெலியத்தே சனா’ விவகாரம்: உறுதிப்படுத்தப்படாத தகவல் வெளியிட்டதாக விமல் வீரவன்ச மீது குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-316282e2)
 - 2025-10-11 | `dailyftlk-6a45af45` | UN team, Sri Lanka leaders discuss electoral reform support | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-dailyftlk-6a45af45)
 - 2025-10-11 | `dailyftlk-751adc64` | CID handles over 20,000 investigations – Dr. Jayatissa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-dailyftlk-751adc64)
-- 2025-10-11 | `dailyftlk-7c470263` | SJB, UNP to form joint platform – Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-dailyftlk-7c470263)
-- 2025-10-11 | `dailyftlk-6a3df294` | SL Army promotes 7,979 NCOs marking 76th anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-dailyftlk-6a3df294)
-- 2025-10-10 | `dailyftlk-564737f7` | From homegrown talent to international diplomacy: CA Sri Lanka’s 46th National Conference concludes on inspiring note | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-564737f7)
-- 2025-10-10 | `dailyftlk-8ccdbc1e` | Health Minister visits LAUGFS Life Sciences’ state-of-the-art LVP pharmaceutical facility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-8ccdbc1e)
-- 2025-10-10 | `dailyftlk-540604e8` | EngEx 2025 powered by SLT-MOBITEL celebrates nurturing next generation of engineers and innovators | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-540604e8)
-- 2025-10-10 | `dailyftlk-2cab204f` | Java Lounge bags four awards at Sri Lankan Entrepreneur of the Year 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-2cab204f)
-- 2025-10-10 | `dailyftlk-47d97977` | How ‘noble’ is Trump for a Nobel? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-47d97977)
-- 2025-10-10 | `dailyftlk-95c1f2d6` | New Case-File Tracking System revolutionises anti-corruption investigations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-10-dailyftlk-95c1f2d6)
 
 ---
 
