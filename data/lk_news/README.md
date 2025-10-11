@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_17:13:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_17:47:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,275** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,277** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-11-lankadeepalk-b186cb58",
-    "num": "lankadeepalk-b186cb58",
+    "doc_id": "2025-10-11-adalk-50e29b7a",
+    "num": "adalk-50e29b7a",
     "date_str": "2025-10-11",
-    "description": "\u0d89\u0d9f\u0dd2\u0db1\u0dd2\u0db8\u0dd2\u0da7\u0dd2\u0dba \u0db8\u0dcf\u0dba\u0dd2\u0db8\u0dca \u0d9c\u0dbd\u0dca \u0daf\u0db8\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d89\u0d9f\u0db1\u0db8\u0da7\u0dba-\u0db8\u0dba\u0db8-\u0d9c\u0dbd-\u0daf\u0db8\u0dba/101-681115",
+    "description": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db6\u0dd2\u0dbd \u0d9c\u0dd0\u0db1 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0dbd\u0db6\u0db1 14\u0daf\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0db6\u0dd2\u0dbd-\u0d9c\u0dd0\u0db1-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0dbd\u0db6\u0db1-14\u0daf\u0dcf/11-419032",
     "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1760182421.0
+    "newspaper_id": "adalk",
+    "time_ut": 1760183338.0
 }
 ```
 
@@ -41,11 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-11 | `adalk-50e29b7a` | විදුලි බිල ගැන අවසන් තීරණය ලබන 14දා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-adalk-50e29b7a)
 - 2025-10-11 | `lankadeepalk-b186cb58` | ඉඟිනිමිටිය මායිම් ගල් දමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-b186cb58)
 - 2025-10-11 | `tamilmirrorlk-5dd79a8b` | நாளுக்கு நாள் அதிகரிக்கும் தங்கத்தின் விலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-tamilmirrorlk-5dd79a8b)
 - 2025-10-11 | `lankadeepalk-dc5be041` | රිවස්ටන් කුළුණ ලඟ පරිසරට හිත රථ ගාලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-dc5be041)
 - 2025-10-11 | `lankadeepalk-18f4a5e0` | හෝමගම නිවසක ලොරියකට ගිනි තියලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-18f4a5e0)
 - 2025-10-11 | `lankadeepalk-5c6a5e99` | සජබ මන්ත්‍රී පිරිසක් පාර්ලිමේන්තුවෙන්  ඉල්ලා අස්වෙන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-5c6a5e99)
+- 2025-10-11 | `adalk-24c245fe` | නීති විරෝධී ලෙස මෙරටට රැගෙන ආ පක්‍ෂීන් 150ක් නාවික හමුදා භාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-adalk-24c245fe)
 - 2025-10-11 | `lankadeepalk-29f0d734` | ජනාධිපති අරමුදලේ ඩිජිටල් වැඩසටහනට සම්මාන දෙකක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-29f0d734)
 - 2025-10-11 | `lankadeepalk-4dd47919` | කඳුකරයේ දෙදාහකට නිවාස හිමිකම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-4dd47919)
 - 2025-10-11 | `adalk-43b9d5f9` | ජාත්‍යන්තර ගණිත හා විද්‍යා ඔලිම්පියාඩ් තරගාවලියේදී ලංකාවට පදක්කම් 19ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-adalk-43b9d5f9)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-11 | `lankadeepalk-23e8156a` | විදුලි රැහැනක පැටලි වන අලියකු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-23e8156a)
 - 2025-10-11 | `virakesarilk-7379634b` | யாழில் இடம்பெற்ற குறளிசை காவியத்தின் பாகம் 02 வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-7379634b)
 - 2025-10-11 | `adalk-26028de9` | ප්‍රජාතන්ත්‍රවාදී නිදහස රැකගන්න නීතිඥයන් දාහක් කොළඹට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-adalk-26028de9)
-- 2025-10-11 | `tamilmirrorlk-4f75e4c1` | இலங்கை கல்வித் திட்டத்தில் மாற்றம் : பிரதமர் அதிரடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-tamilmirrorlk-4f75e4c1)
-- 2025-10-11 | `adalk-ace4a15e` | මගේ ප්‍රකාශය විකෘති කර මාධ්‍යයට දීලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-adalk-ace4a15e)
 
 ---
 
