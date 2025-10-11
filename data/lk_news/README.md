@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_18:47:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_19:14:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,298** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,299** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -51,6 +51,7 @@ A collection of lk_news documents.
 - 2025-10-11 | `virakesarilk-bbd41bb4` | நீர்வீழ்ச்சியின் கற்பாறைகளுக்கு இடையில் தோட்டாக்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-bbd41bb4)
 - 2025-10-11 | `lankadeepalk-b186cb58` | ඉඟිනිමිටිය මායිම් ගල් දමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-b186cb58)
 - 2025-10-11 | `tamilmirrorlk-5dd79a8b` | நாளுக்கு நாள் அதிகரிக்கும் தங்கத்தின் விலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-tamilmirrorlk-5dd79a8b)
+- 2025-10-11 | `virakesarilk-cef27618` | வீட்டுக்கு முன்பாக நிறுத்தி வைக்கப்பட்டிருந்த லொறி மீது தீ வைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-cef27618)
 - 2025-10-11 | `lankadeepalk-dc5be041` | රිවස්ටන් කුළුණ ලඟ පරිසරට හිත රථ ගාලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-dc5be041)
 - 2025-10-11 | `lankadeepalk-18f4a5e0` | හෝමගම නිවසක ලොරියකට ගිනි තියලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-18f4a5e0)
 - 2025-10-11 | `lankadeepalk-5c6a5e99` | සජබ මන්ත්‍රී පිරිසක් පාර්ලිමේන්තුවෙන්  ඉල්ලා අස්වෙන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-5c6a5e99)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-11 | `virakesarilk-3cf6a0d9` | மின்சார வேலியில் சிக்கி காட்டு யானை உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-3cf6a0d9)
 - 2025-10-11 | `virakesarilk-f2e3202a` | கடுமையான மின்னல் தாக்கம் குறித்து எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-f2e3202a)
 - 2025-10-11 | `adalk-24c245fe` | නීති විරෝධී ලෙස මෙරටට රැගෙන ආ පක්‍ෂීන් 150ක් නාවික හමුදා භාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-adalk-24c245fe)
-- 2025-10-11 | `lankadeepalk-29f0d734` | ජනාධිපති අරමුදලේ ඩිජිටල් වැඩසටහනට සම්මාන දෙකක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-29f0d734)
 
 ---
 
