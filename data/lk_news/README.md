@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_14:16:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_14:45:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,269** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,270** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,6 +43,7 @@ A collection of lk_news documents.
 
 - 2025-10-11 | `lankadeepalk-29f0d734` | ජනාධිපති අරමුදලේ ඩිජිටල් වැඩසටහනට සම්මාන දෙකක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-29f0d734)
 - 2025-10-11 | `lankadeepalk-4dd47919` | කඳුකරයේ දෙදාහකට නිවාස හිමිකම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-4dd47919)
+- 2025-10-11 | `adalk-43b9d5f9` | ජාත්‍යන්තර ගණිත හා විද්‍යා ඔලිම්පියාඩ් තරගාවලියේදී ලංකාවට පදක්කම් 19ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-adalk-43b9d5f9)
 - 2025-10-11 | `lankadeepalk-0c602ce2` | කලවානේ ළිඳකින් සිරුරක් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-0c602ce2)
 - 2025-10-11 | `tamilmirrorlk-0d36f401` | தொட்டலங்க கண்ணாவுக்கு ஆயுள் தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-tamilmirrorlk-0d36f401)
 - 2025-10-11 | `adalk-040945eb` | බාල බෙහෙත් නිසා අයවිය යුතු රු. කෝටි 18ක් තවමත් අයකරගෙන නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-adalk-040945eb)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-11 | `virakesarilk-a70c73f7` | சீனப் பொருட்களுக்கு நவம்பர் 1 முதல் 100% கூடுதல் வரி: டிரம்ப் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-a70c73f7)
 - 2025-10-11 | `virakesarilk-45a7ac81` | புதையல் தோண்டிய நால்வர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-45a7ac81)
 - 2025-10-11 | `virakesarilk-358c8e09` | இராணுவத்தின் 76 ஆவது ஆண்டு நிறைவை முன்னிட்டு சிரேஷ்ட இராணுவ அதிகாரிகளுக்கு பதவி உயர்வு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-358c8e09)
-- 2025-10-11 | `virakesarilk-51b12e0a` | தவறான முடிவெடுத்து குடும்பஸ்தர்உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-51b12e0a)
 
 ---
 
