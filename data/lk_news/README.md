@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_20:13:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--11_20:45:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,302** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,306** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-11-tamilmirrorlk-056247c7",
-    "num": "tamilmirrorlk-056247c7",
+    "doc_id": "2025-10-11-lankadeepalk-0216245e",
+    "num": "lankadeepalk-0216245e",
     "date_str": "2025-10-11",
-    "description": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bcb\u0bb0\u0bc1\u0bae\u0bcd \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 - \u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8-\u0b95\u0bcb\u0bb0\u0bc1\u0bae\u0bcd-\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4-\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf/175-366095",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1760192699.0
+    "description": "\u0dad\u0dd2\u0dc3\u0dca\u0dc3\u0dd9\u0db1\u0dca \u0d85\u0dc0\u0dd2 \u0d86\u0dba\u0dd4\u0db0 \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca \u0dc3\u0ddc\u0dba\u0dcf \u0d9c\u0db1\u0dd3",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dad\u0dc3\u0dc3\u0db1-\u0d85\u0dc0-\u0d86\u0dba\u0db0-\u0dad\u0d9c\u0dba\u0d9a-\u0dc3\u0dba-\u0d9c\u0db1/101-681118",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1760194552.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-11 | `lankadeepalk-0216245e` | තිස්සෙන් අවි ආයුධ තොගයක් සොයා ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-0216245e)
+- 2025-10-11 | `lankadeepalk-562b31fc` | අකුණු සැර වැදී පුද්ගලයකු මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-562b31fc)
+- 2025-10-11 | `lankadeepalk-ca6e413b` | කලුතර වෙඩි තැබීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-ca6e413b)
 - 2025-10-11 | `tamilmirrorlk-056247c7` | மீண்டும் வாகனங்களை கோரும் மஹிந்த - மைத்திரி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-tamilmirrorlk-056247c7)
 - 2025-10-11 | `tamilmirrorlk-31cde72c` | ஒரு தொகை துப்பாக்கி ரவைகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-tamilmirrorlk-31cde72c)
 - 2025-10-11 | `virakesarilk-75a651be` | இசை சாம்ராட்' டி. இமான் வெளியிட்ட 'தடை அதை உடை' பட பாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-75a651be)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-11 | `virakesarilk-f388568b` | ஜனாதிபதி செயலகத்திற்கு நான்கு பாடசாலைகளைச் சேர்ந்த மாணவர்கள் வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-f388568b)
 - 2025-10-11 | `lankadeepalk-18f4a5e0` | හෝමගම නිවසක ලොරියකට ගිනි තියලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-18f4a5e0)
 - 2025-10-11 | `lankadeepalk-5c6a5e99` | සජබ මන්ත්‍රී පිරිසක් පාර්ලිමේන්තුවෙන්  ඉල්ලා අස්වෙන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-5c6a5e99)
-- 2025-10-11 | `virakesarilk-4eda7828` | கிணற்றிலிருந்து முதியவரின் சடலம் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-4eda7828)
-- 2025-10-11 | `virakesarilk-4941623c` | மலையக சமூகத்தினருக்கான வீட்டு உரிமை பத்திரங்கள் வழங்கும் நிகழ்வு  பண்டாரவளையில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-4941623c)
-- 2025-10-11 | `virakesarilk-051ec309` | துப்பாக்கிச் சூட்டுக்கு இலக்காகி காட்டு யானை காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-051ec309)
 
 ---
 
