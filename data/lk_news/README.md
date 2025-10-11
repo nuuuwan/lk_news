@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--12_04:13:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--12_04:45:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,319** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,320** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2025-10-12 | `virakesarilk-eda0f304` | தங்கல்லையில் 2 துப்பாக்கிகளுடன் சந்தேக நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-eda0f304)
 - 2025-10-12 | `virakesarilk-bc193bd6` | ஓமந்தை அரச ஊழியர் வீட்டுத்திட்டத்தில் மக்கள் கவனயீர்ப்பு போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-bc193bd6)
 - 2025-10-12 | `virakesarilk-45eb4fe1` | முட்டை விலை குறைக்கும் தீர்மானம் - அகில இலங்கை சிறு மற்றும் நடுத்தர உற்பத்தியாளர்கள் சங்கம் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-45eb4fe1)
+- 2025-10-11 | `colombotelegraphcom-6cb33ca9` | Reform First — Growth Will Follow…. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-colombotelegraphcom-6cb33ca9)
 - 2025-10-11 | `virakesarilk-c912de84` | களுத்துறை, பாலத்தோட்டாவில் துப்பாக்கிச் சூடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-c912de84)
 - 2025-10-11 | `lankadeepalk-f673324c` | ලංකාවේ ආයෝජනයට බියක් එපා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-f673324c)
 - 2025-10-11 | `lankadeepalk-4edfc976` | හරිනි අද චීනෙට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-lankadeepalk-4edfc976)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-11 | `virakesarilk-8c18a5df` | வசூலில் சாதனை படைக்கும் ரிஷப் ஷெட்டியின் 'காந்தாரா சாப்டர் 1 ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-8c18a5df)
 - 2025-10-11 | `virakesarilk-6763b918` | எரிபொருள் மாஃபியாக்களை வெளிச்சம் போட்டுக் காட்டும் ஹரீஷ் கல்யாணின் 'டீசல் ' பட முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-6763b918)
 - 2025-10-11 | `virakesarilk-5b426550` | நடிகர் ஸ்ரீராம் கார்த்திக் நடிக்கும் 'மைலாஞ்சி' படத்தின் இசை மற்றும் கிளர்வோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-5b426550)
-- 2025-10-11 | `adalk-9249a251` | ආයෝජකයන්ගේ සුරක්ෂිතතාව තහවුරු කර තිබෙනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-adalk-9249a251)
 
 ---
 
