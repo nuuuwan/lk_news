@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-12 15:13:22",
-  "n_docs": 80412,
+  "time_updated": "2025-10-12 15:44:22",
+  "n_docs": 80414,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 80412,
+  "n_docs_with_text": 80414,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-12",
-  "dataset_size": 1183813831,
+  "dataset_size": 1183838087,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -35,13 +35,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-12-adalk-3e78d2cd",
-    "num": "adalk-3e78d2cd",
+    "doc_id": "2025-10-12-lankadeepalk-bca8ea84",
+    "num": "lankadeepalk-bca8ea84",
     "date_str": "2025-10-12",
-    "description": "\u0d9a\u0dcf\u0dc3\u0dd2\u0dba\u0dda \u0dc0\u0dcf\u0dc3\u0dd2\u0dba \u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0\u0da7",
-    "url_metadata": "https://www.ada.lk/sports/\u0d9a\u0dcf\u0dc3\u0dd2\u0dba\u0dda-\u0dc0\u0dcf\u0dc3\u0dd2\u0dba-\u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0dc0\u0da7/9-419041",
+    "description": "\u0dbd\u0ddd\u0d9a \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dd0\u0dc3\u0dd2\u0dba\u0d9a \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dbd\u0d9a-\u0dc3\u0d9b\u0dba-\u0dc3\u0dc3\u0dba\u0d9a-\u0dc3\u0dad\u0d9a\u0dbb\u0d9a\u0dad\u0dc0\u0dba-\u0dbd\u0d9a\u0dc0\u0da7/101-681152",
     "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1760260164.0
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1760262889.0
   }
 }
