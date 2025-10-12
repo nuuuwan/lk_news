@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--12_08:12:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--12_08:59:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,336** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,339** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-12-virakesarilk-b940bd93",
-    "num": "virakesarilk-b940bd93",
+    "doc_id": "2025-10-12-lankadeepalk-1de9c5ea",
+    "num": "lankadeepalk-1de9c5ea",
     "date_str": "2025-10-12",
-    "description": "\u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd : \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 89 \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/227504",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1760217180.0
+    "description": "\u0d85\u0daf \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0daf-\u0d9a\u0dbd\u0d9c\u0dab\u0dba/101-681123",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1760237051.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-12 | `lankadeepalk-1de9c5ea` | අද කාලගුණය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-lankadeepalk-1de9c5ea)
+- 2025-10-12 | `virakesarilk-f7da72e8` | அசல் காணி உரித்துடனேயே மலையக மக்களுக்கு வீடு : மலையக அதிகாரசபை தடையில்லாது பயணிக்கும் - நேர்காணலில் பிரதி அமைச்சர் சுந்தரலிங்கம் பிரதீப் உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-f7da72e8)
+- 2025-10-12 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-3a015e4a)
 - 2025-10-12 | `virakesarilk-b940bd93` | மகளிர் உலகக் கிண்ணம் : இலங்கையை 89 ஓட்டங்கள் வித்தியாசத்தில் வெற்றிகொண்ட இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-b940bd93)
 - 2025-10-12 | `virakesarilk-930d5bab` | சீனாவில் நடைபெறும் பெண்கள் உலகத் தலைவர்கள் கூட்டத்தில் பங்கேற்கும் பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-930d5bab)
 - 2025-10-12 | `virakesarilk-eda0f304` | தங்கல்லையில் 2 துப்பாக்கிகளுடன் சந்தேக நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-eda0f304)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-11 | `tamilmirrorlk-056247c7` | மீண்டும் வாகனங்களை கோரும் மஹிந்த - மைத்திரி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-tamilmirrorlk-056247c7)
 - 2025-10-11 | `adalk-867419e0` | මහින්ද හා මෛත්‍රී වෙඩි නොවදින රථ යළි ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-adalk-867419e0)
 - 2025-10-11 | `tamilmirrorlk-31cde72c` | ஒரு தொகை துப்பாக்கி ரவைகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-tamilmirrorlk-31cde72c)
-- 2025-10-11 | `islandlk-48f84eac` | The Study of Sri Lanka’s Endemic Biota | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-islandlk-48f84eac)
-- 2025-10-11 | `virakesarilk-75a651be` | இசை சாம்ராட்' டி. இமான் வெளியிட்ட 'தடை அதை உடை' பட பாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-75a651be)
-- 2025-10-11 | `virakesarilk-8c18a5df` | வசூலில் சாதனை படைக்கும் ரிஷப் ஷெட்டியின் 'காந்தாரா சாப்டர் 1 ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-11-virakesarilk-8c18a5df)
 
 ---
 
