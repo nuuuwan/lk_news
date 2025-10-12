@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--13_04:14:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--13_04:45:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,455** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,460** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-12-colombotelegraphcom-c328e38b",
-    "num": "colombotelegraphcom-c328e38b",
-    "date_str": "2025-10-12",
-    "description": "Woke Culture: A Global Wave That Sri Lankan Parents Must Understand",
-    "url_metadata": "https://www.colombotelegraph.com/index.php/woke-culture-a-global-wave-that-sri-lankan-parents-must-understand/",
+    "doc_id": "2025-10-13-dailyftlk-6aa8fbf7",
+    "num": "dailyftlk-6aa8fbf7",
+    "date_str": "2025-10-13",
+    "description": "New Companies Act requires full disclosure of beneficial owners amidst enforcement challenges",
+    "url_metadata": "https://www.ft.lk/business/New-Companies-Act-requires-full-disclosure-of-beneficial-owners-amidst-enforcement-challenges/34-782899",
     "lang": "en",
-    "newspaper_id": "colombotelegraphcom",
-    "time_ut": 1760288538.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1760309841.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-13 | `dailyftlk-6aa8fbf7` | New Companies Act requires full disclosure of beneficial owners amidst enforcement challenges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-6aa8fbf7)
+- 2025-10-13 | `dailyftlk-74b076a1` | BOI woos US business think tanks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-74b076a1)
+- 2025-10-13 | `dailyftlk-b2f828bb` | BASL outraged over Police assault on lawyer inside Court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-b2f828bb)
+- 2025-10-13 | `dailyftlk-e5e5c056` | Doctors’ union warns of drug oversupply and critical shortages in hospitals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-e5e5c056)
+- 2025-10-13 | `dailyftlk-25b0086f` | Lankan cardiologist dies choking on meal aboard Qatar Airways | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-25b0086f)
 - 2025-10-12 | `colombotelegraphcom-c328e38b` | Woke Culture: A Global Wave That Sri Lankan Parents Must Understand | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-colombotelegraphcom-c328e38b)
 - 2025-10-12 | `virakesarilk-d5bf795d` | மெக்சிக்கோவில் கனமழை, மண்சரிவு; 41 பேர் பலி; ஆயிரக்கணக்கான வீடுகள் சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-d5bf795d)
 - 2025-10-12 | `colombotelegraphcom-97c1d64b` | Police Vs Lawyer? (Not Lawyers) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-colombotelegraphcom-97c1d64b)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-10-12 | `lankadeepalk-c763f541` | මත්ද්‍රව්‍ය-දේශපාලකයා ළඟ නෑයෝ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-lankadeepalk-c763f541)
 - 2025-10-12 | `lankadeepalk-4339ec16` | නානුඔයට මහ වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-lankadeepalk-4339ec16)
 - 2025-10-12 | `adalk-4e3023c8` | විදුලිබිල වැඩි කළොත් ඊට එරෙහිව ජනතාව සමග පාරට බහිනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-adalk-4e3023c8)
-- 2025-10-12 | `lankadeepalk-dbfd2eff` | ණය ගැන මහ බැංකුවෙන් හෙළිදරව්වක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-lankadeepalk-dbfd2eff)
-- 2025-10-12 | `virakesarilk-aa070101` | முள்ளிப்பொத்தானை - ஈச்சநகரில் காட்டு யானைகள் அட்டகாசம் ; மக்கள் கவலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-aa070101)
-- 2025-10-12 | `virakesarilk-fca1057c` | உலகளவில் அதிகரித்து வரும் தங்கத்தின் விலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-fca1057c)
-- 2025-10-12 | `virakesarilk-b4a4d609` | தமிழ் அரசுக் கட்சியின் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-b4a4d609)
-- 2025-10-12 | `virakesarilk-2ceed75c` | ரணில் - சஜித் இணைவு வரவேற்கத்தக்கது - இராதாகிருஷ்ணன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-2ceed75c)
 
 ---
 
