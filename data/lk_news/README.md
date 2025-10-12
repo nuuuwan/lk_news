@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--13_04:45:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--13_05:13:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,460** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,463** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-13-dailyftlk-6aa8fbf7",
-    "num": "dailyftlk-6aa8fbf7",
+    "doc_id": "2025-10-13-dailyftlk-02d486a6",
+    "num": "dailyftlk-02d486a6",
     "date_str": "2025-10-13",
-    "description": "New Companies Act requires full disclosure of beneficial owners amidst enforcement challenges",
-    "url_metadata": "https://www.ft.lk/business/New-Companies-Act-requires-full-disclosure-of-beneficial-owners-amidst-enforcement-challenges/34-782899",
+    "description": "Forging future-ready directors in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/opinion/Forging-future-ready-directors-in-Sri-Lanka/14-782917",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1760309841.0
+    "time_ut": 1760312384.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-13 | `dailyftlk-02d486a6` | Forging future-ready directors in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-02d486a6)
+- 2025-10-13 | `dailyftlk-53725286` | ICCSL webinar empowers taxpayers as tax filing deadline draws closer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-53725286)
+- 2025-10-13 | `dailyftlk-0a9fff99` | Deloitte webinar unpacks Companies (Amendment) Act No. 12 of 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-0a9fff99)
 - 2025-10-13 | `dailyftlk-6aa8fbf7` | New Companies Act requires full disclosure of beneficial owners amidst enforcement challenges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-6aa8fbf7)
 - 2025-10-13 | `dailyftlk-74b076a1` | BOI woos US business think tanks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-74b076a1)
 - 2025-10-13 | `dailyftlk-b2f828bb` | BASL outraged over Police assault on lawyer inside Court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-b2f828bb)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-12 | `virakesarilk-8b8a37b3` | விபத்தில் இருவர் உயிரிழப்பு ; நாரம்மல பகுதியில் சம்பவம் சோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-8b8a37b3)
 - 2025-10-12 | `virakesarilk-031261e8` | 2028 லொஸ் ஏஞ்சலிஸ் ஒலிம்பிக் வரை 8 வீரர்களுக்கு ஒலிம்பிக் புலமைப்பரிசில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-031261e8)
 - 2025-10-12 | `lankadeepalk-5c63e5b1` | මොරගහකන්ද ජලාශයෙන් උණ්ඩ මතුවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-lankadeepalk-5c63e5b1)
-- 2025-10-12 | `lankadeepalk-c763f541` | මත්ද්‍රව්‍ය-දේශපාලකයා ළඟ නෑයෝ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-lankadeepalk-c763f541)
-- 2025-10-12 | `lankadeepalk-4339ec16` | නානුඔයට මහ වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-lankadeepalk-4339ec16)
-- 2025-10-12 | `adalk-4e3023c8` | විදුලිබිල වැඩි කළොත් ඊට එරෙහිව ජනතාව සමග පාරට බහිනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-adalk-4e3023c8)
 
 ---
 
