@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--12_22:17:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--12_22:43:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,448** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,451** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-12-tamilmirrorlk-8b275f92",
-    "num": "tamilmirrorlk-8b275f92",
+    "doc_id": "2025-10-12-virakesarilk-d5bf795d",
+    "num": "virakesarilk-d5bf795d",
     "date_str": "2025-10-12",
-    "description": "1 \u0bb5\u0baf\u0ba4\u0bc1 \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bc8 \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bb5\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/1-\u0bb5\u0baf\u0ba4\u0bc1-\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bc8-\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4-\u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bb5\u0bb0\u0bcd/175-366149",
+    "description": "\u0bae\u0bc6\u0b95\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0ba9\u0bae\u0bb4\u0bc8, \u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1; 41 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf; \u0b86\u0baf\u0bbf\u0bb0\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bc7\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/227564",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1760276864.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1760287080.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-12 | `virakesarilk-d5bf795d` | மெக்சிக்கோவில் கனமழை, மண்சரிவு; 41 பேர் பலி; ஆயிரக்கணக்கான வீடுகள் சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-d5bf795d)
+- 2025-10-12 | `virakesarilk-78fa1610` | எலிக்காய்ச்சல் மரணங்கள் அதிகரிப்பு ; அனுராதபுரத்தில் ‘க்ளீன் ஸ்ரீலங்கா’ விழிப்புணர்வு திட்டம் தொடக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-78fa1610)
+- 2025-10-12 | `virakesarilk-638daf89` | தோட்டத் தொழிலாளர்களின் ரூ.1,750 நாள் கூலி கோரிக்கை  நிறைவேற்ற முயற்சிகள் மேற்கொள்ளப்படும் – ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-638daf89)
 - 2025-10-12 | `tamilmirrorlk-8b275f92` | 1 வயது குழந்தையை பாலியல் துஷ்பிரயோகம் செய்த முதியவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-tamilmirrorlk-8b275f92)
 - 2025-10-12 | `virakesarilk-76c327c5` | "2000 வீடுகள் அல்ல!, 2000 காகிதத் தாள்களை கையளிக்கும் விளம்பர நிகழ்வு! மக்களைத் திசை திருப்பும் தந்திரோபாயம்! - ஜீவன் தொண்டமான்" | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-76c327c5)
 - 2025-10-12 | `lankadeepalk-c1b52fe8` | එතෙර ශ්‍රමිකයන්ගෙන් ඩොලර් මිලියන 695ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-lankadeepalk-c1b52fe8)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-12 | `virakesarilk-e9e9d6fe` | ஜெனி­வாவை சமா­ளித்த அர­சுக்கு மற்­றொரு சர்­வ­தேச சவால் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-e9e9d6fe)
 - 2025-10-12 | `virakesarilk-893581cd` | காஸாவுக்கான ட்ரம்ப்பின் போர்நிறுத்தத் திட்டம் உலகை ஏமாற்றும் வித்தை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-893581cd)
 - 2025-10-12 | `lankadeepalk-a46b52fa` | නාරම්මල අනතුරකින් දෙදෙනෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-lankadeepalk-a46b52fa)
-- 2025-10-12 | `lankadeepalk-5679df80` | උදැල්ලකින් පහරදී කතක මරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-lankadeepalk-5679df80)
-- 2025-10-12 | `virakesarilk-7a2886a1` | திருகோணமலை - முத்து நகர் விவசாயிகள் 26 ஆவது நாளாக தொடர் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-virakesarilk-7a2886a1)
-- 2025-10-12 | `adalk-15eadf5f` | පොහොට්ටු මන්ත්‍රි ගංජා එක්ක අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-12-adalk-15eadf5f)
 
 ---
 
