@@ -1,4 +1,5 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-12-adalk-fa337703	adalk-fa337703	2025-10-12	පොලිස් නිලධාරියෙක් නීතිඥවරයෙකුට පහරදුන් සිද්ධියේ සී.සී.ටී.වී දර්ශන පරීක්ෂා කරන්න	https://www.ada.lk/breaking_news/පොලිස්-නිලධාරියෙක්-නීතිඥවරයෙකුට-පහරදුන්-සිද්ධියේ-සී-සී-ටී-වී-දර්ශන-පරීක්ෂා-කරන්න/11-419042	si	adalk	1760265979.0
 lk_news	2025-10-12-lankadeepalk-94ac6e13	lankadeepalk-94ac6e13	2025-10-12	පුංචි ආණ්ඩුවේ මන්ත්‍රී ගංජා එක්ක මාට්ටු	https://www.lankadeepa.lk/news/පච-ආණඩව-මනතර-ගජ-එකක-මටට/101-681154	si	lankadeepalk	1760264764.0
 lk_news	2025-10-12-lankadeepalk-bca8ea84	lankadeepalk-bca8ea84	2025-10-12	ලෝක සෞඛ්‍ය සැසියක සත්කාරකත්වය ලංකාවට	https://www.lankadeepa.lk/news/ලක-සඛය-සසයක-සතකරකතවය-ලකවට/101-681152	si	lankadeepalk	1760262889.0
 lk_news	2025-10-12-lankadeepalk-03094285	lankadeepalk-03094285	2025-10-12	වසරේ මේ දක්වා වෙඩිතැබීම් 101ක් මරණ 51ක්	https://www.lankadeepa.lk/news/වසර-ම-දකව-වඩතබම-101ක-මරණ-51ක/101-681151	si	lankadeepalk	1760262127.0
@@ -9,6 +10,7 @@ lk_news	2025-10-12-lankadeepalk-519a03e1	lankadeepalk-519a03e1	2025-10-12	වි
 lk_news	2025-10-12-virakesarilk-f1a68db3	virakesarilk-f1a68db3	2025-10-12	பெருந்தோட்ட தொழிலாளர்களுக்கு 1,700 ரூபாய் நாட் சம்பளத்தை பெற்றுக் கொடுப்பதற்கு எவ்வாறேனும் நடவடிக்கை எடுக்கப்படும் ; ஜனாதிபதி உறுதி	https://www.virakesari.lk/article/227542	ta	virakesarilk	1760258280.0
 lk_news	2025-10-12-virakesarilk-6cf29e33	virakesarilk-6cf29e33	2025-10-12	செக் தேர்தல் முடிவுகள் சொல்லும் சேதி	https://www.virakesari.lk/article/227524	ta	virakesarilk	1760257680.0
 lk_news	2025-10-12-tamilmirrorlk-9ca5bdab	tamilmirrorlk-9ca5bdab	2025-10-12	WHO பணிப்பாளர்  வந்தடைந்தார்	https://www.tamilmirror.lk/செய்திகள்/WHO-பணிப்பாளர்-வந்தடைந்தார்/175-366135	ta	tamilmirrorlk	1760257670.0
+lk_news	2025-10-12-adalk-4c4a6562	adalk-4c4a6562	2025-10-12	මොරගහකන්ද ජලාශයෙන් ජීව උණ්ඩ තවත් සොයා ගනියි	https://www.ada.lk/breaking_news/මොරගහකන්ද-ජලාශයෙන්-ජීව-උණ්ඩ-තවත්-සොයා-ගනියි/11-419040	si	adalk	1760257629.0
 lk_news	2025-10-12-adalk-b97f986b	adalk-b97f986b	2025-10-12	ලෝක සෞඛ්‍ය සංවිධානයේ අධ්‍යක්ෂ ජනරාල් කටුනායකට	https://www.ada.lk/breaking_news/ලෝක-සෞඛ්‍ය-සංවිධානයේ-අධ්‍යක්ෂ-ජනරාල්-කටුනායකට/11-419039	si	adalk	1760257336.0
 lk_news	2025-10-12-lankadeepalk-eb73bdb2	lankadeepalk-eb73bdb2	2025-10-12	වතු ජනතාවට 1750ක වැටුප මේ අවුරුද්දේ කොහොම හරි දෙනවා	https://www.lankadeepa.lk/news/වත-ජනතවට-1750ක-වටප-ම-අවරදද-කහම-හර-දනව/101-681148	si	lankadeepalk	1760255221.0
 lk_news	2025-10-12-tamilmirrorlk-9d0fd891	tamilmirrorlk-9d0fd891	2025-10-12	சீனா சென்றடைந்தார் பி​ரதமர் ஹரிணி	https://www.tamilmirror.lk/செய்திகள்/சீனா-சென்றடைந்தார்-பி-ரதமர்-ஹரிணி/175-366133	ta	tamilmirrorlk	1760255173.0
@@ -997,5 +999,3 @@ lk_news	2025-10-06-islandlk-948acbd8	islandlk-948acbd8	2025-10-06	New role for s
 lk_news	2025-10-06-islandlk-eeff3880	islandlk-eeff3880	2025-10-06	Bouquets for Michael de Silva	http://island.lk/bouquets-for-michael-de-silva/	en	islandlk	1759770780.0
 lk_news	2025-10-06-islandlk-a0f0322a	islandlk-a0f0322a	2025-10-06	THE ROAD TO GAZA – I	http://island.lk/the-road-to-gaza-i/	en	islandlk	1759770540.0
 lk_news	2025-10-06-tamilmirrorlk-edfaa363	tamilmirrorlk-edfaa363	2025-10-06	விபத்தில் சிக்கினார் விஜய் தேவரகொண்டா	https://www.tamilmirror.lk/cinema/விபத்தில்-சிக்கினார்-விஜய்-தேவரகொண்டா/54-365856	ta	tamilmirrorlk	1759770374.0
-lk_news	2025-10-06-islandlk-8ded3f64	islandlk-8ded3f64	2025-10-06	From micro to macro development	http://island.lk/from-micro-to-macro-development/	en	islandlk	1759770360.0
-lk_news	2025-10-06-islandlk-72f3c179	islandlk-72f3c179	2025-10-06	Sobering economic reality	http://island.lk/sobering-economic-reality/	en	islandlk	1759769820.0
