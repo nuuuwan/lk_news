@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--13_20:46:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--13_21:16:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,644** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,645** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-13-lankadeepalk-4983cc6d",
-    "num": "lankadeepalk-4983cc6d",
+    "doc_id": "2025-10-13-lankadeepalk-94d053d0",
+    "num": "lankadeepalk-94d053d0",
     "date_str": "2025-10-13",
-    "description": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db8\u0dc4 \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0 \u0d9a\u0ddd\u0da7\u0dd2 400\u0d9a \u0dc0\u0dbb\u0dd2\u0db4\u0db1\u0db8\u0dca \u0db4\u0dd2\u0db1\u0da7 \u0d87\u0dbb\u0dbd\u0dcf",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dc5\u0db9-\u0db8\u0dc4-\u0db1\u0d9c\u0dbb-\u0dc3\u0db7\u0dc0-\u0d9a\u0da7-400\u0d9a-\u0dc0\u0dbb\u0db4\u0db1\u0db8-\u0db4\u0db1\u0da7-\u0d87\u0dbb\u0dbd/1-681262",
+    "description": "\u0db4\u0ddc\u0dc4\u0ddc\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0da7 \u0d9a\u0dd0\u0db3\u0dc0\u0dd4\u0db8\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd 17\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dc4\u0da7\u0da7\u0dc0\u0da7-\u0d9a\u0db3\u0dc0\u0db8\u0d9a\u0dbb\u0dc0-17\u0d9a/1-681263",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1760366499.0
+    "time_ut": 1760369458.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-13 | `lankadeepalk-94d053d0` | පොහොට්ටුවට කැඳවුම්කරුවෝ 17ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-94d053d0)
 - 2025-10-13 | `lankadeepalk-4983cc6d` | කොළඹ මහ නගර සභාව කෝටි 400ක වරිපනම් පිනට ඇරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-4983cc6d)
 - 2025-10-13 | `lankadeepalk-8933dfb8` | ලංකා වෙළඳ ප්‍රතිපත්තිය ගැන කියන්න වසන්ත ස්විට්සර්ලන්තයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-8933dfb8)
 - 2025-10-13 | `lankadeepalk-62e4238f` | වන්නිනායකට එරෙහිව පොලිසිය කරුණු දක්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-62e4238f)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-13 | `tamilmirrorlk-106942cc` | மன்னார் விவகாரம்: உயர்நீதிமன்றில் மனு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-106942cc)
 - 2025-10-13 | `virakesarilk-1edee62b` | வீடமைப்பு, நிர்மாணத்துறை மற்றும் நீர் வழங்கல் அமைச்சுக்கு புதிய செயலாளர் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-1edee62b)
 - 2025-10-13 | `tamilmirrorlk-62a5e762` | கொழும்பில்  ITI கட்டிடத்தில்   தீ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-62a5e762)
-- 2025-10-13 | `lankadeepalk-166fa032` | විදුලි බිල වැඩි වෙනවාද - නැද්ද තීරණය හෙට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-166fa032)
 
 ---
 
