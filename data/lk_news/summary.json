@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-13 10:17:47",
-  "n_docs": 80499,
+  "time_updated": "2025-10-13 10:45:35",
+  "n_docs": 80514,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 80499,
+  "n_docs_with_text": 80514,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-13",
-  "dataset_size": 1185310396,
+  "dataset_size": 1185364545,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -30,18 +30,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-13-lankadeepalk-7063babe",
-    "num": "lankadeepalk-7063babe",
+    "doc_id": "2025-10-13-tamilmirrorlk-8700956f",
+    "num": "tamilmirrorlk-8700956f",
     "date_str": "2025-10-13",
-    "description": "\u0dc0\u0dd0\u0dc3\u0dd2\u0d9a\u0dd2\u0dc5\u0dd2 \u0dc0\u0dbd\u0d9a\u0dca \u0db4\u0dd4\u0db4\u0dd4\u0dbb\u0dcf \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc0\u0dc3\u0d9a\u0dc5-\u0dc0\u0dbd\u0d9a-\u0db4\u0db4\u0dbb-\u0d85\u0dba\u0d9a-\u0db8\u0dbb\u0da7/101-681191",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1760330130.0
+    "description": "\u0b86\u0bb8\u0bcd\u0b95\u0bb0\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0bb9\u0bbe\u0bb2\u0bbf\u0bb5\u0bc1\u0b9f\u0bcd \u0ba8\u0b9f\u0bbf\u0b95\u0bc8 \u0b9f\u0baf\u0bbe\u0ba9\u0bcd \u0bb9\u0bc0\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd \u0bae\u0bb1\u0bc8\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b86\u0bb8\u0bcd\u0b95\u0bb0\u0bcd-\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1-\u0baa\u0bc6\u0bb1\u0bcd\u0bb1-\u0bb9\u0bbe\u0bb2\u0bbf\u0bb5\u0bc1\u0b9f\u0bcd-\u0ba8\u0b9f\u0bbf\u0b95\u0bc8-\u0b9f\u0baf\u0bbe\u0ba9\u0bcd-\u0bb9\u0bc0\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd-\u0bae\u0bb1\u0bc8\u0bb5\u0bc1/54-366171",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1760332134.0
   }
 }
