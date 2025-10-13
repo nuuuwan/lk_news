@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--13_09:03:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--13_09:26:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,493** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,496** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-13-tamilmirrorlk-4cde9f0d",
-    "num": "tamilmirrorlk-4cde9f0d",
+    "doc_id": "2025-10-13-tamilmirrorlk-3a21a4a2",
+    "num": "tamilmirrorlk-3a21a4a2",
     "date_str": "2025-10-13",
-    "description": "\u0b95\u0bb0\u0bc8\u0baf\u0bcb\u0bb0 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb0\u0bc8\u0baf\u0bcb\u0bb0-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd-\u0ba4\u0bbe\u0bae\u0ba4\u0bae\u0bcd/175-366163",
+    "description": "\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbe\u0ba4\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf \u0b95\u0bca\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9a\u0bcb\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bbe\u0ba4\u0bae\u0bcd-\u0bae\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf-\u0b95\u0bca\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4-\u0b9a\u0bcb\u0b95\u0bae\u0bcd/175-366164",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1760325189.0
+    "time_ut": 1760327327.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-13 | `tamilmirrorlk-3a21a4a2` | வாக்குவாதம் முற்றி கொலையில் முடிந்த சோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-3a21a4a2)
+- 2025-10-13 | `lankadeepalk-362e8bd6` | ඇල්ලෙන් පහළට වැටුණු සිසුවා මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-362e8bd6)
 - 2025-10-13 | `tamilmirrorlk-4cde9f0d` | கரையோர ரயில் சேவைகள் தாமதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-4cde9f0d)
+- 2025-10-13 | `adalk-27b8b944` | කොස්තාපල් අත්අඩංගුවට ගන්න නියෝග කළේ අධිකරණයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-adalk-27b8b944)
 - 2025-10-13 | `adalk-667b022c` | බිත්තරයක් රු. 18ට දෙන්න බෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-adalk-667b022c)
 - 2025-10-13 | `lankadeepalk-213c4e59` | බස්නාහිර, සබරගමුව, මධ්‍යම දකුණ සහ ඌවට තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-213c4e59)
 - 2025-10-13 | `lankadeepalk-364ddb89` | මුහුදුබඩ දුම්රිය මාර්ගට පස් කන්දක් කඩාවැටේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-364ddb89)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-13 | `virakesarilk-95040945` | “இரத்தபோக்கை முடிவுக்கு கொண்டுவருவோம்” கொழும்பில் பேரணி; விபத்துகளால் ஒவ்வொரு நாளும் 6 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-95040945)
 - 2025-10-13 | `dailyftlk-02d486a6` | Forging future-ready directors in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-02d486a6)
 - 2025-10-13 | `dailyftlk-53725286` | ICCSL webinar empowers taxpayers as tax filing deadline draws closer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-53725286)
-- 2025-10-13 | `dailyftlk-0a9fff99` | Deloitte webinar unpacks Companies (Amendment) Act No. 12 of 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-dailyftlk-0a9fff99)
-- 2025-10-13 | `virakesarilk-3374402d` | பதுளை தாதியர் பயிற்சி பாடசாலையின் புனரமைப்பு பணிக்கு 15 மில்லியன் ரூபா நிதி ஒதுக்கீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-3374402d)
-- 2025-10-13 | `virakesarilk-c4a13da4` | நானுஓயாவில் வெள்ளம் காரணமாக போக்குவரத்து  பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-c4a13da4)
 
 ---
 
