@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_00:21:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_00:44:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,656** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,657** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-14-dailyftlk-e6654cbb",
-    "num": "dailyftlk-e6654cbb",
+    "doc_id": "2025-10-14-dailyftlk-fbf772a1",
+    "num": "dailyftlk-fbf772a1",
     "date_str": "2025-10-14",
-    "description": "Reform first \u2014 growth will follow",
-    "url_metadata": "https://www.ft.lk/columns/Reform-first-growth-will-follow/4-782932",
+    "description": "Traffic Police: It\u2019s time you moved away from \u2018white line\u2019 fixation",
+    "url_metadata": "https://www.ft.lk/columns/Traffic-Police-It-s-time-you-moved-away-from-white-line-fixation/4-782934",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1760380376.0
+    "time_ut": 1760381540.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-14 | `dailyftlk-fbf772a1` | Traffic Police: It’s time you moved away from ‘white line’ fixation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-fbf772a1)
 - 2025-10-14 | `dailyftlk-e6654cbb` | Reform first — growth will follow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-e6654cbb)
 - 2025-10-13 | `tamilmirrorlk-6307130c` | சங்குப்பிட்டி சம்பவம் : பிரேத பரிசோதனையில் காத்திருந்த அதிர்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-6307130c)
 - 2025-10-13 | `lankadeepalk-600b8e32` | මහින්ද කතුන්ගේ ගුණ කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-600b8e32)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-13 | `virakesarilk-fb825f40` | எங்களை நாங்கள் வளர்த்துக்கொள்வதற்கு பிறமொழியை அறிந்திருப்பது நன்மையே ; வேதநாயகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-fb825f40)
 - 2025-10-13 | `tamilmirrorlk-d91ea021` | நிதி மற்றும் திட்டமிடல், பொருளாதார அபிவிருத்தி பிரதி அமைச்சர்கள் கடமைகளை பொறுப்பேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-d91ea021)
 - 2025-10-13 | `tamilmirrorlk-1edee62b` | வீடமைப்பு, நிர்மாணத்துறை மற்றும் நீர் வழங்கல் அமைச்சுக்கு புதிய செயலாளர் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-1edee62b)
-- 2025-10-13 | `virakesarilk-13cb5757` | சர்வதேச மொழிபெயர்ப்பு தினத்தை முன்னிட்டு பாராளுமன்றத்தில் விசேட நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-13cb5757)
 
 ---
 
