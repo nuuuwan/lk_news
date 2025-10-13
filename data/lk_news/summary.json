@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-14 02:14:48",
-  "n_docs": 80666,
+  "time_updated": "2025-10-14 02:44:59",
+  "n_docs": 80669,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 80666,
+  "n_docs_with_text": 80669,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-14",
-  "dataset_size": 1189117774,
+  "dataset_size": 1189140030,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -29,19 +29,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-14-virakesarilk-0ec6e4ed",
-    "num": "virakesarilk-0ec6e4ed",
+    "doc_id": "2025-10-14-dailyftlk-e1e2b9c2",
+    "num": "dailyftlk-e1e2b9c2",
     "date_str": "2025-10-14",
-    "description": "\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0ba4\u0bc7\u0bb7\u0bbf\u0b9f\u0bae\u0bcd \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0b9a\u0bb5\u0bbe\u0bb2\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0ba4\u0bc6\u0ba9\u0bcd \u0b86\u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe 3 \u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bae\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc8 \u0b88\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/227649",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1760386560.0
+    "description": "SL chairs WHO South-East Asia Regional Committee session",
+    "url_metadata": "https://www.ft.lk/news/SL-chairs-WHO-South-East-Asia-Regional-Committee-session/56-782964",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1760389168.0
   }
 }
