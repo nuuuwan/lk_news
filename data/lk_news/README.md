@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--13_10:46:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--13_11:16:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,514** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,522** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-13-tamilmirrorlk-8700956f",
-    "num": "tamilmirrorlk-8700956f",
+    "doc_id": "2025-10-13-lankadeepalk-1fe64bee",
+    "num": "lankadeepalk-1fe64bee",
     "date_str": "2025-10-13",
-    "description": "\u0b86\u0bb8\u0bcd\u0b95\u0bb0\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0bb9\u0bbe\u0bb2\u0bbf\u0bb5\u0bc1\u0b9f\u0bcd \u0ba8\u0b9f\u0bbf\u0b95\u0bc8 \u0b9f\u0baf\u0bbe\u0ba9\u0bcd \u0bb9\u0bc0\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd \u0bae\u0bb1\u0bc8\u0bb5\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b86\u0bb8\u0bcd\u0b95\u0bb0\u0bcd-\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1-\u0baa\u0bc6\u0bb1\u0bcd\u0bb1-\u0bb9\u0bbe\u0bb2\u0bbf\u0bb5\u0bc1\u0b9f\u0bcd-\u0ba8\u0b9f\u0bbf\u0b95\u0bc8-\u0b9f\u0baf\u0bbe\u0ba9\u0bcd-\u0bb9\u0bc0\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd-\u0bae\u0bb1\u0bc8\u0bb5\u0bc1/54-366171",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1760332134.0
+    "description": "\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb \u0dc0\u0dcf\u0da7\u0dca\u0da7\u0dd4\u0dc0\u0dda \u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1 4\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db6\u0db1\u0db0\u0db1\u0d9c\u0dbb-\u0dc0\u0da7\u0da7\u0dc0-\u0daf\u0dbb\u0d9a\u0dad\u0db1-4\u0d9a/101-681196",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1760333866.0
 }
 ```
 
@@ -41,8 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-13 | `lankadeepalk-1fe64bee` | බන්ධනාගාර වාට්ටුවේ දුරකතන 4ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-1fe64bee)
+- 2025-10-13 | `tamilmirrorlk-2db2a03e` | காதை பாருங்கள்... என் காதுகளை பாருங்கள்... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-2db2a03e)
+- 2025-10-13 | `virakesarilk-7af208a6` | ஐ.தே.க –ஐ.ம.ச இணைந்து செயற்பட முடிவு…! ; சஜித்தை ஓரங்கட்ட  ரணிலின் திட்டமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-7af208a6)
+- 2025-10-13 | `tamilmirrorlk-b3b55910` | ஹமாஸ் தாக்குதலில் காதலி பலி: தன்னுயிரை மாய்த்த காதலன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-b3b55910)
+- 2025-10-13 | `tamilmirrorlk-ef6cac91` | கழிப்பறை வெடித்ததில் ஒருவர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-ef6cac91)
+- 2025-10-13 | `virakesarilk-666249d8` | விமல் வீரவன்சவுக்கு தங்காலை பொலிஸ் அழைப்பாணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-666249d8)
+- 2025-10-13 | `tamilmirrorlk-7938a605` | “நான் ஒரு தமிழச்சி’’:  பேட் கேர்ள் பட நடிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-7938a605)
 - 2025-10-13 | `tamilmirrorlk-8700956f` | ஆஸ்கர் விருது பெற்ற ஹாலிவுட் நடிகை டயான் ஹீட்டன் மறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-8700956f)
 - 2025-10-13 | `lankadeepalk-c69433cf` | ගල්කිස්ස මුලස්ථාන පොලිස් පරීක්ෂක ස්ථාන මාරුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-c69433cf)
+- 2025-10-13 | `lankadeepalk-242e38f4` | ගල්කිස්ස මුලස්ථාන පොලිස් පරීක්ෂකට ස්ථාන මාරුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-242e38f4)
 - 2025-10-13 | `tamilmirrorlk-95a318f2` | 20 ஆண்டாக வளர்த்த மரத்தை வெட்டியதால் மூதாட்டி கதறல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-95a318f2)
 - 2025-10-13 | `tamilmirrorlk-3c4241a0` | நீர்வீழ்ச்சியில் இருந்து தவறி விழுந்து மாணவர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-3c4241a0)
 - 2025-10-13 | `virakesarilk-e62d4093` | நிச்சயமற்ற எதிர்காலமும் தவிர்க்க முடியாத நிபந்தனைகளும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-e62d4093)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2025-10-13 | `virakesarilk-8fdfc3f7` | கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர் கொலை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-8fdfc3f7)
 - 2025-10-13 | `lankadeepalk-7063babe` | වැසිකිළි වලක් පුපුරා අයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-7063babe)
 - 2025-10-13 | `virakesarilk-37da5bbd` | நாட்டின் வெவ்வேறு பகுதிகளில் இடம்பெற்ற விபத்துக்களில் இருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-37da5bbd)
-- 2025-10-13 | `tamilmirrorlk-6f7a1e7b` | விமலுக்கு மீண்டும் அழைப்பாணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-6f7a1e7b)
-- 2025-10-13 | `virakesarilk-21c7065a` | நீர்வீழ்ச்சியில் தவறி வீழ்ந்து ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-21c7065a)
-- 2025-10-13 | `tamilmirrorlk-3a21a4a2` | வாக்குவாதம் முற்றி கொலையில் முடிந்த சோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-3a21a4a2)
-- 2025-10-13 | `lankadeepalk-acdc23ee` | ඇල්ලෙන් පහළට වැටී සිසුවා මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-acdc23ee)
-- 2025-10-13 | `lankadeepalk-362e8bd6` | ඇල්ලෙන් පහළට වැටුණු සිසුවා මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-362e8bd6)
-- 2025-10-13 | `virakesarilk-df16bdc0` | கரையோர மார்க்கத்தில் ரயில் சேவைகள் தாமதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-df16bdc0)
-- 2025-10-13 | `tamilmirrorlk-4cde9f0d` | கரையோர ரயில் சேவைகள் தாமதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-4cde9f0d)
-- 2025-10-13 | `adalk-682dd4e9` | තරුණයින් තිදෙනෙක් දිය ඇල්ලකින් පහළට වැටෙයි, අයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-adalk-682dd4e9)
 
 ---
 
