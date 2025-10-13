@@ -2,13 +2,13 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-14 01:14:23",
-  "n_docs": 80657,
+  "time_updated": "2025-10-14 01:46:02",
+  "n_docs": 80665,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 80657,
+  "n_docs_with_text": 80665,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-14",
-  "dataset_size": 1189039019,
+  "dataset_size": 1189060004,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -30,18 +30,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-14-dailyftlk-fbf772a1",
-    "num": "dailyftlk-fbf772a1",
+    "doc_id": "2025-10-14-dailyftlk-1d168ee8",
+    "num": "dailyftlk-1d168ee8",
     "date_str": "2025-10-14",
-    "description": "Traffic Police: It\u2019s time you moved away from \u2018white line\u2019 fixation",
-    "url_metadata": "https://www.ft.lk/columns/Traffic-Police-It-s-time-you-moved-away-from-white-line-fixation/4-782934",
+    "description": "Bairaha marks 50 years of leadership in Sri Lanka\u2019s poultry industry",
+    "url_metadata": "https://www.ft.lk/business/Bairaha-marks-50-years-of-leadership-in-Sri-Lanka-s-poultry-industry/34-782951",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1760381540.0
+    "time_ut": 1760385914.0
   }
 }

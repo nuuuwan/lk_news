@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_01:15:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_01:46:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,657** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,665** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-14-dailyftlk-fbf772a1",
-    "num": "dailyftlk-fbf772a1",
+    "doc_id": "2025-10-14-dailyftlk-1d168ee8",
+    "num": "dailyftlk-1d168ee8",
     "date_str": "2025-10-14",
-    "description": "Traffic Police: It\u2019s time you moved away from \u2018white line\u2019 fixation",
-    "url_metadata": "https://www.ft.lk/columns/Traffic-Police-It-s-time-you-moved-away-from-white-line-fixation/4-782934",
+    "description": "Bairaha marks 50 years of leadership in Sri Lanka\u2019s poultry industry",
+    "url_metadata": "https://www.ft.lk/business/Bairaha-marks-50-years-of-leadership-in-Sri-Lanka-s-poultry-industry/34-782951",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1760381540.0
+    "time_ut": 1760385914.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-14 | `dailyftlk-1d168ee8` | Bairaha marks 50 years of leadership in Sri Lanka’s poultry industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-1d168ee8)
+- 2025-10-14 | `dailyftlk-37805baf` | PE veteran Nissanka Weerasekera joins Lanka Ventures, LVL Energy Fund Boards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-37805baf)
+- 2025-10-14 | `dailyftlk-e7a53fc7` | Coca-Cola appoints Mario Perera as Country Head for Sri Lanka and Maldives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-e7a53fc7)
+- 2025-10-14 | `dailyftlk-19faac38` | Masterclass on cargo insurance by Shippers’ Academy Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-19faac38)
+- 2025-10-14 | `dailyftlk-e36fd8f7` | WindForce announces another 10 MW wind project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-e36fd8f7)
+- 2025-10-14 | `dailyftlk-8bacf723` | Vidullanka clinches Gold, Silver and Bronze at Taiki Akimoto 5S Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-8bacf723)
+- 2025-10-14 | `dailyftlk-b61ddf7b` | JF Packaging IPO Investor Forum on 21 October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-b61ddf7b)
+- 2025-10-14 | `dailyftlk-f3daf21f` | Abans Group Director Dr. Dubash honoured with Visionary Leadership Award | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-f3daf21f)
 - 2025-10-14 | `dailyftlk-fbf772a1` | Traffic Police: It’s time you moved away from ‘white line’ fixation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-fbf772a1)
 - 2025-10-14 | `dailyftlk-e6654cbb` | Reform first — growth will follow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-e6654cbb)
 - 2025-10-13 | `tamilmirrorlk-6307130c` | சங்குப்பிட்டி சம்பவம் : பிரேத பரிசோதனையில் காத்திருந்த அதிர்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-6307130c)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2025-10-13 | `lankadeepalk-4983cc6d` | කොළඹ මහ නගර සභාව කෝටි 400ක වරිපනම් පිනට ඇරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-4983cc6d)
 - 2025-10-13 | `lankadeepalk-8933dfb8` | ලංකා වෙළඳ ප්‍රතිපත්තිය ගැන කියන්න වසන්ත ස්විට්සර්ලන්තයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-8933dfb8)
 - 2025-10-13 | `virakesarilk-279ef1e5` | 20  வயதுக்குட்பட்ட  பெண்களுக்கான கோலூன்றிப் பாய்தலில் வட மாகாணத்திற்கு தங்கம், வெள்ளி, வெண்கலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-279ef1e5)
-- 2025-10-13 | `virakesarilk-a5b8806b` | சபாநாயகர் பொய் கூறி பாராளுமன்றத்தையே ஏமாற்றியிருக்கின்றார்; கடுமையாக குற்றஞ்சாட்டுகிறார் உதய கம்மன்பில | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-a5b8806b)
-- 2025-10-13 | `lankadeepalk-62e4238f` | වන්නිනායකට එරෙහිව පොලිසිය කරුණු දක්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-62e4238f)
-- 2025-10-13 | `tamilmirrorlk-25f2170e` | சட்டவிரோத மீன்பிடி 45 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-25f2170e)
-- 2025-10-13 | `virakesarilk-f8a1aaf1` | குருக்கள்மடம் தென்னந்தோப்பில் ஆணின் சடலம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-f8a1aaf1)
-- 2025-10-13 | `virakesarilk-5315bb9b` | இலஞ்சம் பெற உதவிய அபிவிருத்தி அதிகாரி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-5315bb9b)
-- 2025-10-13 | `virakesarilk-fb825f40` | எங்களை நாங்கள் வளர்த்துக்கொள்வதற்கு பிறமொழியை அறிந்திருப்பது நன்மையே ; வேதநாயகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-fb825f40)
-- 2025-10-13 | `tamilmirrorlk-d91ea021` | நிதி மற்றும் திட்டமிடல், பொருளாதார அபிவிருத்தி பிரதி அமைச்சர்கள் கடமைகளை பொறுப்பேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-d91ea021)
-- 2025-10-13 | `tamilmirrorlk-1edee62b` | வீடமைப்பு, நிர்மாணத்துறை மற்றும் நீர் வழங்கல் அமைச்சுக்கு புதிய செயலாளர் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-tamilmirrorlk-1edee62b)
 
 ---
 
