@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_01:46:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_02:15:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,665** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,666** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-14-dailyftlk-1d168ee8",
-    "num": "dailyftlk-1d168ee8",
+    "doc_id": "2025-10-14-virakesarilk-0ec6e4ed",
+    "num": "virakesarilk-0ec6e4ed",
     "date_str": "2025-10-14",
-    "description": "Bairaha marks 50 years of leadership in Sri Lanka\u2019s poultry industry",
-    "url_metadata": "https://www.ft.lk/business/Bairaha-marks-50-years-of-leadership-in-Sri-Lanka-s-poultry-industry/34-782951",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1760385914.0
+    "description": "\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0ba4\u0bc7\u0bb7\u0bbf\u0b9f\u0bae\u0bcd \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0b9a\u0bb5\u0bbe\u0bb2\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0ba4\u0bc6\u0ba9\u0bcd \u0b86\u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe 3 \u0baa\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bae\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc8 \u0b88\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/227649",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1760386560.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-14 | `virakesarilk-0ec6e4ed` | பங்களாதேஷிடம் பலத்த சவாலை எதிர்கொண்ட தென் ஆபிரிக்கா 3 பந்துகள் மீதமிருக்க பரபரப்பான வெற்றியை ஈட்டியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-0ec6e4ed)
 - 2025-10-14 | `dailyftlk-1d168ee8` | Bairaha marks 50 years of leadership in Sri Lanka’s poultry industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-1d168ee8)
 - 2025-10-14 | `dailyftlk-37805baf` | PE veteran Nissanka Weerasekera joins Lanka Ventures, LVL Energy Fund Boards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-37805baf)
 - 2025-10-14 | `dailyftlk-e7a53fc7` | Coca-Cola appoints Mario Perera as Country Head for Sri Lanka and Maldives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-dailyftlk-e7a53fc7)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-13 | `virakesarilk-430b4f2d` | ஸ்லோவாக்கியாவில் ரயில் மோதல் – பலர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-430b4f2d)
 - 2025-10-13 | `lankadeepalk-4983cc6d` | කොළඹ මහ නගර සභාව කෝටි 400ක වරිපනම් පිනට ඇරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-4983cc6d)
 - 2025-10-13 | `lankadeepalk-8933dfb8` | ලංකා වෙළඳ ප්‍රතිපත්තිය ගැන කියන්න වසන්ත ස්විට්සර්ලන්තයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-lankadeepalk-8933dfb8)
-- 2025-10-13 | `virakesarilk-279ef1e5` | 20  வயதுக்குட்பட்ட  பெண்களுக்கான கோலூன்றிப் பாய்தலில் வட மாகாணத்திற்கு தங்கம், வெள்ளி, வெண்கலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-13-virakesarilk-279ef1e5)
 
 ---
 
