@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_10:18:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_10:45:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,715** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,722** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-14-virakesarilk-e20acb07",
-    "num": "virakesarilk-e20acb07",
+    "doc_id": "2025-10-14-tamilmirrorlk-a49a2456",
+    "num": "tamilmirrorlk-a49a2456",
     "date_str": "2025-10-14",
-    "description": "\u0bae\u0ba3\u0bcd\u0bae\u0bc7\u0b9f\u0bc1 \u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/227659",
+    "description": "\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb3 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1: \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b9a\u0bae\u0bcd\u0baa\u0bb3-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf/76-366243",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1760416620.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1760418728.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-14 | `tamilmirrorlk-a49a2456` | தொழிலாளர்களின் சம்பள அதிகரிப்பு: ஜனாதிபதி அதிரடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-a49a2456)
+- 2025-10-14 | `virakesarilk-bea8ebd4` | தங்காலை சம்பவம் ; “புவக்தண்டாவே சனா”வுக்கும் லொறியின் சாரதிக்கும் நீதிமன்றம் பிறப்பித்த உத்தரவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-bea8ebd4)
+- 2025-10-14 | `lankadeepalk-6853ea32` | විද්‍යුත්  අවසර පත්‍රය හෙට සිට අනිවාර්යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-6853ea32)
+- 2025-10-14 | `virakesarilk-02316384` | தம்புலு ஓயாவில் ஆணின் சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-02316384)
+- 2025-10-14 | `lankadeepalk-9a4ad36b` | කැබිනට්ටුව ඇනූ හේතුව මහින්ද කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-9a4ad36b)
+- 2025-10-14 | `tamilmirrorlk-5dc1c69c` | இலங்கையில் உச்சம் தொடும் தேசிக்காய் விலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-5dc1c69c)
+- 2025-10-14 | `virakesarilk-2e3a76ea` | பொறுப்புக்கூறல் மூலம் ஸ்திரத்தன்மையை நோக்கி இலங்கையை நகர்த்துதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-2e3a76ea)
 - 2025-10-14 | `virakesarilk-e20acb07` | மண்மேடு சரிந்து விழுந்ததில் ஒருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-e20acb07)
 - 2025-10-14 | `virakesarilk-609106b0` | நீரில் மூழ்கி ஒருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-609106b0)
 - 2025-10-14 | `lankadeepalk-1cb4faf9` | රජයේ කන්තෝරු අටක ඔන්ලයින් නවතී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-1cb4faf9)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-10-14 | `tamilmirrorlk-538d2ee2` | இலங்கைக்கு வரும் சுற்றுலாப் பயணிகளுக்கு ETA கட்டாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-538d2ee2)
 - 2025-10-14 | `tamilmirrorlk-eeb002a9` | இலங்கைக்கான பயண ஆலோசனையை புதுப்பித்த அமெரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-eeb002a9)
 - 2025-10-14 | `tamilmirrorlk-34e5e05c` | தடைபட்ட இணைய சேவைகள் தொடர்பில் சிறப்புக் கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-34e5e05c)
-- 2025-10-14 | `virakesarilk-4f191fc9` | கணேமுல்ல சஞ்சீவ கொலை : முக்கிய நபரான இஷாரா செவ்வந்தி உட்பட 5 பேர் நேபாளத்தில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-4f191fc9)
-- 2025-10-14 | `adalk-98753f75` | ඉෂාරා සෙව්වන්දි නේපාලයේදී අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-adalk-98753f75)
-- 2025-10-14 | `virakesarilk-4d07cb50` | தெஹிவளையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-4d07cb50)
-- 2025-10-14 | `lankadeepalk-891272f1` | පහරදීමක් සම්බන්ධයෙන් පොලීසියේ දෙන්නෙක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-891272f1)
-- 2025-10-14 | `lankadeepalk-9122cb8f` | ඉෂාරා අල්ලයි? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-9122cb8f)
-- 2025-10-14 | `tamilmirrorlk-162626ca` | இஷாரா செவ்வந்தி நேபாளத்தில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-162626ca)
-- 2025-10-14 | `tamilmirrorlk-b5b393da` | காசா அமைதி ஒப்பந்தம் கையெழுத்தானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-b5b393da)
 
 ---
 

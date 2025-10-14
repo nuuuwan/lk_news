@@ -1,4 +1,11 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-14-tamilmirrorlk-a49a2456	tamilmirrorlk-a49a2456	2025-10-14	தொழிலாளர்களின் சம்பள அதிகரிப்பு: ஜனாதிபதி அதிரடி	https://www.tamilmirror.lk/மலையகம்/தொழிலாளர்களின்-சம்பள-அதிகரிப்பு-ஜனாதிபதி-அதிரடி/76-366243	ta	tamilmirrorlk	1760418728.0
+lk_news	2025-10-14-virakesarilk-bea8ebd4	virakesarilk-bea8ebd4	2025-10-14	தங்காலை சம்பவம் ; “புவக்தண்டாவே சனா”வுக்கும் லொறியின் சாரதிக்கும் நீதிமன்றம் பிறப்பித்த உத்தரவு!	https://www.virakesari.lk/article/227671	ta	virakesarilk	1760418420.0
+lk_news	2025-10-14-lankadeepalk-6853ea32	lankadeepalk-6853ea32	2025-10-14	විද්‍යුත්  අවසර පත්‍රය හෙට සිට අනිවාර්යයි	https://www.lankadeepa.lk/latest_news/වදයත-අවසර-පතරය-හට-සට-අනවරයය/1-681285	si	lankadeepalk	1760417820.0
+lk_news	2025-10-14-virakesarilk-02316384	virakesarilk-02316384	2025-10-14	தம்புலு ஓயாவில் ஆணின் சடலம் மீட்பு	https://www.virakesari.lk/article/227668	ta	virakesarilk	1760417580.0
+lk_news	2025-10-14-lankadeepalk-9a4ad36b	lankadeepalk-9a4ad36b	2025-10-14	කැබිනට්ටුව ඇනූ හේතුව මහින්ද කියයි	https://www.lankadeepa.lk/news/කබනටටව-ඇන-හතව-මහනද-කයය/101-681283	si	lankadeepalk	1760417537.0
+lk_news	2025-10-14-tamilmirrorlk-5dc1c69c	tamilmirrorlk-5dc1c69c	2025-10-14	இலங்கையில் உச்சம் தொடும் தேசிக்காய் விலை	https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-உச்சம்-தொடும்-தேசிக்காய்-விலை/175-366242	ta	tamilmirrorlk	1760417409.0
+lk_news	2025-10-14-virakesarilk-2e3a76ea	virakesarilk-2e3a76ea	2025-10-14	பொறுப்புக்கூறல் மூலம் ஸ்திரத்தன்மையை நோக்கி இலங்கையை நகர்த்துதல்	https://www.virakesari.lk/article/227667	ta	virakesarilk	1760417340.0
 lk_news	2025-10-14-virakesarilk-e20acb07	virakesarilk-e20acb07	2025-10-14	மண்மேடு சரிந்து விழுந்ததில் ஒருவர் உயிரிழப்பு!	https://www.virakesari.lk/article/227659	ta	virakesarilk	1760416620.0
 lk_news	2025-10-14-virakesarilk-609106b0	virakesarilk-609106b0	2025-10-14	நீரில் மூழ்கி ஒருவர் பலி!	https://www.virakesari.lk/article/227665	ta	virakesarilk	1760416440.0
 lk_news	2025-10-14-lankadeepalk-1cb4faf9	lankadeepalk-1cb4faf9	2025-10-14	රජයේ කන්තෝරු අටක ඔන්ලයින් නවතී	https://www.lankadeepa.lk/latest_news/රජය-කනතර-අටක-ඔනලයන-නවත/1-681282	si	lankadeepalk	1760416073.0
@@ -92,10 +99,3 @@ lk_news	2025-10-13-virakesarilk-212134e7	virakesarilk-212134e7	2025-10-13	உட
 lk_news	2025-10-13-virakesarilk-0bccc284	virakesarilk-0bccc284	2025-10-13	இலங்கை, பூட்டான், நேபாளத்துக்கு இந்திய ரூபாயில் கடன் வழங்க அனுமதி ! - இந்திய ரிசர்வ் வங்கி	https://www.virakesari.lk/article/227631	ta	virakesarilk	1760355300.0
 lk_news	2025-10-13-tamilmirrorlk-2e6f84a4	tamilmirrorlk-2e6f84a4	2025-10-13	டில்வினை சந்தித்தார் பிரான்ஸ் தூதுவர்	https://www.tamilmirror.lk/செய்திகள்/டில்வினை-சந்தித்தார்-பிரான்ஸ்-தூதுவர்/175-366204	ta	tamilmirrorlk	1760354644.0
 lk_news	2025-10-13-virakesarilk-02c0dbe9	virakesarilk-02c0dbe9	2025-10-13	பிரான்ஸ் தூதுவருக்கும் ம.வி.மு. பொதுச் செயலாளருக்கும் இடையில் சந்திப்பு	https://www.virakesari.lk/article/227629	ta	virakesarilk	1760354580.0
-lk_news	2025-10-13-adalk-029b6282	adalk-029b6282	2025-10-13	මරදානේ සිට හැටන් හරහා වැලිමඩ දක්වා මත්ද්‍රව්‍ය බෙදා හරින ජාවාරමක්	https://www.ada.lk/breaking_news/මරදානේ-සිට-හැටන්-හරහා-වැලිමඩ-දක්වා-මත්ද්‍රව්‍ය-බෙදා-හරින-ජාවාරමක්/11-419066	si	adalk	1760354292.0
-lk_news	2025-10-13-virakesarilk-18252132	virakesarilk-18252132	2025-10-13	ஹெரோயின் விற்பனையில் ஈடுபட்ட பெண் கைது!	https://www.virakesari.lk/article/227628	ta	virakesarilk	1760353980.0
-lk_news	2025-10-13-virakesarilk-71fb4967	virakesarilk-71fb4967	2025-10-13	அனைத்து பிணைக் கைதிகளையும் விடுவித்தது ஹமாஸ்! - இஸ்ரேல் இராணுவம் தகவல்	https://www.virakesari.lk/article/227627	ta	virakesarilk	1760353500.0
-lk_news	2025-10-13-lankadeepalk-705e47d5	lankadeepalk-705e47d5	2025-10-13	නිවාස, ඉදිකිරීම් ජල සම්පාදන අමාත්‍යාංශයට නව ලේකම්වරයෙක්	https://www.lankadeepa.lk/news/නවස-ඉදකරම-ජල-සමපදන-අමතයශයට-නව-ලකමවරයක/101-681250	si	lankadeepalk	1760353464.0
-lk_news	2025-10-13-lankadeepalk-c48e6b36	lankadeepalk-c48e6b36	2025-10-13	මහනුවර පැත්තකට හෙට වතුර කපයි	https://www.lankadeepa.lk/latest_news/මහනවර-පතතකට-හට-වතර-කපය/1-681249	si	lankadeepalk	1760352968.0
-lk_news	2025-10-13-virakesarilk-434f276c	virakesarilk-434f276c	2025-10-13	2028இலிருந்து வருடாந்தம் 5 பில்லியன் டொலர் கடனை மீள செலுத்த வேண்டும் ; ஆனால் அரசாங்கத்திடம் அதற்கான திட்டமிடல் இல்லை - எதிர்க்கட்சித் தலைவர்	https://www.virakesari.lk/article/227625	ta	virakesarilk	1760352900.0
-lk_news	2025-10-13-lankadeepalk-4bc481cb	lankadeepalk-4bc481cb	2025-10-13	සෑම අතකින්ම රට ව්‍යාකූල වෙලා	https://www.lankadeepa.lk/news/සම-අතකනම-රට-වයකල-වල/101-681248	si	lankadeepalk	1760352776.0
