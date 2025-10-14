@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_18:54:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_19:21:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,856** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,860** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-14-tamilmirrorlk-07dfda67",
-    "num": "tamilmirrorlk-07dfda67",
+    "doc_id": "2025-10-14-lankadeepalk-be6fb654",
+    "num": "lankadeepalk-be6fb654",
     "date_str": "2025-10-14",
-    "description": "\u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0ba4\u0bb5\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0baa\u0ba4\u0bb5\u0bbf-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-366283",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1760447180.0
+    "description": "\u0dc0\u0dbb\u0dcf\u0dba \u0db1\u0d9c\u0dbb \u0db4\u0db1\u0dad \u0dc3\u0d82\u0dc1\u0ddd\u0db0\u0db1\u0dba \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dbb\u0dba-\u0db1\u0d9c\u0dbb-\u0db4\u0db1\u0dad-\u0dc3\u0dc1\u0db0\u0db1\u0dba-\u0dc0\u0dba/1-681343",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1760448888.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-14 | `lankadeepalk-be6fb654` | වරාය නගර පනත සංශෝධනය වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-be6fb654)
+- 2025-10-14 | `tamilmirrorlk-af1b9800` | அஸ்வெசும பயனாளிகளுக்கு மகிழ்ச்சியான அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-af1b9800)
+- 2025-10-14 | `lankadeepalk-50969000` | උළුගේතැන්නට ඇප දුන් අධිකරණයෙන් සී.අයි.ඩීයට දොස් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-50969000)
 - 2025-10-14 | `tamilmirrorlk-07dfda67` | சமீபத்திய பதவி மாற்றங்கள் குறித்து அமைச்சர் விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-07dfda67)
 - 2025-10-14 | `lankadeepalk-8324d8fd` | කනත්තේ මල් ශාලාවට කෝපාවෙන්  දොස් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-8324d8fd)
 - 2025-10-14 | `tamilmirrorlk-60641343` | ”எனக்கும் அதற்கும் எந்த சம்பந்தமும் இல்லை” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-60641343)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-14 | `lankadeepalk-cecfe966` | වකුගඩු රෝගීන්ට හොඳ ආරංචියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-cecfe966)
 - 2025-10-14 | `tamilmirrorlk-8b5e3b63` | 6 ஆம் வகுப்புக்கு மாணவர்களை சேர்க்கும் சுற்றறிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-8b5e3b63)
 - 2025-10-14 | `lankadeepalk-6410175d` | යූරියා ගේන කොන්ත්‍රාත්තුව සිංගප්පූරුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-6410175d)
-- 2025-10-14 | `lankadeepalk-f6267afb` | දුප්පත්ම පවුලවලට ආණ්ඩුවෙන් මූල්‍ය ප්‍රදානයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-f6267afb)
-- 2025-10-14 | `lankadeepalk-a395cf76` | වැඩට දුන්න මුදල් ආපහු  එවන්න එපා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-a395cf76)
-- 2025-10-14 | `virakesarilk-400253ae` | வைத்தியசாலைக்கு முன்பாக மரக்கிளை முறிந்து விழுந்தது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-400253ae)
 
 ---
 
