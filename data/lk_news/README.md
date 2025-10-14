@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_23:48:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--15_00:21:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,878** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,879** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -59,8 +59,8 @@ A collection of lk_news documents.
 - 2025-10-14 | `tamilmirrorlk-07dfda67` | சமீபத்திய பதவி மாற்றங்கள் குறித்து அமைச்சர் விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-07dfda67)
 - 2025-10-14 | `lankadeepalk-8324d8fd` | කනත්තේ මල් ශාලාවට කෝපාවෙන්  දොස් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-8324d8fd)
 - 2025-10-14 | `tamilmirrorlk-60641343` | ”எனக்கும் அதற்கும் எந்த சம்பந்தமும் இல்லை” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-60641343)
+- 2025-10-14 | `colombotelegraphcom-53a9bfb5` | The Stakes For Hamas Disarmament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-colombotelegraphcom-53a9bfb5)
 - 2025-10-14 | `lankadeepalk-dca3e40b` | වයඹ සරසවි වෙද සිසුන්ට ඉන්න තැනක් හදයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-dca3e40b)
-- 2025-10-14 | `lankadeepalk-cb1c4d4e` | මේ අවුරුද්දේ 3000 ක් කොරියා රස්සා වලට ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-cb1c4d4e)
 
 ---
 
