@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-14-virakesarilk-1a20f4dd	virakesarilk-1a20f4dd	2025-10-14	தெஹிவளையில் ஒருவர் கைது!	https://www.virakesari.lk/article/227734	ta	virakesarilk	1760443680.0
+lk_news	2025-10-14-virakesarilk-67665647	virakesarilk-67665647	2025-10-14	இஷாரா செவ்வந்தியின் கைதானது பல மாத காலமாக திட்டமிடப்பட்ட இரகசிய நடவடிக்கையாகும் - பொலிஸ் ஊடகப் பேச்சாளர்	https://www.virakesari.lk/article/227732	ta	virakesarilk	1760443080.0
 lk_news	2025-10-14-lankadeepalk-ad52eeee	lankadeepalk-ad52eeee	2025-10-14	සුරා බදු ආදායම් පරිපාලනය ඩිජිටල් වෙයි	https://www.lankadeepa.lk/latest_news/සර-බද-ආදයම-පරපලනය-ඩජටල-වය/1-681337	si	lankadeepalk	1760441790.0
 lk_news	2025-10-14-virakesarilk-1701a8b2	virakesarilk-1701a8b2	2025-10-14	பாதாள உலக கும்பலின் சொத்துக்கள் பறிமுதல் செய்யப்பட்டுள்ளது - பொலிஸ் ஊடகப் பேச்சாளர்	https://www.virakesari.lk/article/227728	ta	virakesarilk	1760441580.0
 lk_news	2025-10-14-virakesarilk-d03bdad9	virakesarilk-d03bdad9	2025-10-14	யாழில் இரண்டாவது நாளாக தொடரும் ஆசிரியர்களின் போராட்டம்	https://www.virakesari.lk/article/227722	ta	virakesarilk	1760441340.0
@@ -20,6 +22,7 @@ lk_news	2025-10-14-virakesarilk-e74b7581	virakesarilk-e74b7581	2025-10-14	எத
 lk_news	2025-10-14-virakesarilk-1839cc31	virakesarilk-1839cc31	2025-10-14	பாடசாலை மாணவர்களுக்கு கஞ்சா விற்பனை செய்த இளைஞன் கைது!	https://www.virakesari.lk/article/227721	ta	virakesarilk	1760438220.0
 lk_news	2025-10-14-tamilmirrorlk-c8f5e932	tamilmirrorlk-c8f5e932	2025-10-14	பொன்னி சம்பாவை இறக்குமதி செய்ய அனுமதி	https://www.tamilmirror.lk/செய்திகள்/பொன்னி-சம்பாவை-இறக்குமதி-செய்ய-அனுமதி/175-366273	ta	tamilmirrorlk	1760437848.0
 lk_news	2025-10-14-lankadeepalk-0d3d5433	lankadeepalk-0d3d5433	2025-10-14	ලංකාව ඩොලර් බැඳුම්කර නිකුත් කරන්න යයි	https://www.lankadeepa.lk/news/ලකව-ඩලර-බඳමකර-නකත-කරනන-යය/101-681329	si	lankadeepalk	1760437797.0
+lk_news	2025-10-14-adalk-f620c88f	adalk-f620c88f	2025-10-14	රජය දේශීය ඩොලර් බැඳුම්කර නිකුත් කිරිමට යයි‍	https://www.ada.lk/breaking_news/රජය-දේශීය-ඩොලර්-බැඳුම්කර-නිකුත්-කිරිමට-යයි‍/11-419092	si	adalk	1760437764.0
 lk_news	2025-10-14-lankadeepalk-f3d09cf7	lankadeepalk-f3d09cf7	2025-10-14	තිස් දාහේ පඩි දෙනවාදැයි ආණ්ඩුව හෙවිල්ලෙන්	https://www.lankadeepa.lk/news/තස-දහ-පඩ-දනවදය-ආණඩව-හවලලන/101-681328	si	lankadeepalk	1760437702.0
 lk_news	2025-10-14-lankadeepalk-fbca5eb1	lankadeepalk-fbca5eb1	2025-10-14	සුරා බදු රීති පාර්ලිමේන්තුවට	https://www.lankadeepa.lk/news/සර-බද-රත-පරලමනතවට/101-681327	si	lankadeepalk	1760437227.0
 lk_news	2025-10-14-adalk-0ab7e968	adalk-0ab7e968	2025-10-14	පොන්නි සම්බා සහල් ආනයනයට අවසර	https://www.ada.lk/breaking_news/පොන්නි-සම්බා-සහල්-ආනයනයට-අවසර/11-419091	si	adalk	1760437015.0
@@ -96,6 +99,3 @@ lk_news	2025-10-14-lankadeepalk-c889db2c	lankadeepalk-c889db2c	2025-10-14	ති
 lk_news	2025-10-14-lankadeepalk-a28f16d9	lankadeepalk-a28f16d9	2025-10-14	පළාත් ඡන්දය: ෆැෆරල් රජයෙන් පිළිතුරක් ඉල්ලයි	https://www.lankadeepa.lk/latest_news/පළත-ඡනදය-ෆෆරල-රජයන-පළතරක-ඉලලය/1-681291	si	lankadeepalk	1760421979.0
 lk_news	2025-10-14-virakesarilk-23b9c03a	virakesarilk-23b9c03a	2025-10-14	பாடசாலைக்கு அருகில் விழுந்து கிடந்த தோட்டாக்கள்!	https://www.virakesari.lk/article/227682	ta	virakesarilk	1760421900.0
 lk_news	2025-10-14-virakesarilk-dd2f8e63	virakesarilk-dd2f8e63	2025-10-14	தங்கத்தின் விலை சடுதியாக அதிகரிப்பு	https://www.virakesari.lk/article/227681	ta	virakesarilk	1760421840.0
-lk_news	2025-10-14-tamilmirrorlk-fdce4066	tamilmirrorlk-fdce4066	2025-10-14	மின்சார கட்டணம்: அதிரடி அறிவிப்பு இதோ...	https://www.tamilmirror.lk/செய்திகள்/மின்சார-கட்டணம்-அதிரடி-அறிவிப்பு-இதோ/175-366253	ta	tamilmirrorlk	1760421640.0
-lk_news	2025-10-14-tamilmirrorlk-bb4f381f	tamilmirrorlk-bb4f381f	2025-10-14	கோட்டாவின் வீடு நீர்ப்பாசனத் துறைக்கு	https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-வீடு-நீர்ப்பாசனத்-துறைக்கு/175-366252	ta	tamilmirrorlk	1760421581.0
-lk_news	2025-10-14-tamilmirrorlk-78142c4e	tamilmirrorlk-78142c4e	2025-10-14	கோட்டாவின் வீடு பறிபோனது	https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-வீடு-பறிபோனது/175-366252	ta	tamilmirrorlk	1760421581.0
