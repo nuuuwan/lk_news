@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_13:47:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_14:20:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,770** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,794** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-14-tamilmirrorlk-414a7023",
-    "num": "tamilmirrorlk-414a7023",
+    "doc_id": "2025-10-14-lankadeepalk-07fe423e",
+    "num": "lankadeepalk-07fe423e",
     "date_str": "2025-10-14",
-    "description": "\u0baa\u0bb8\u0bcd \u0bb2\u0bb2\u0bbf\u0ba4\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb8\u0bcd-\u0bb2\u0bb2\u0bbf\u0ba4\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-366263",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1760428824.0
+    "description": "\u0daf\u0dda\u0dc1\u0db4\u0dcf\u0dbd\u0d9a\u0dba\u0db1\u0dca\u0d9c\u0dda - \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca\u0d9c\u0dda \u0d85\u0dbb\u0db8\u0dd4\u0dab \u0d91\u0d9a\u0d9a\u0dca \u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0daf\u0dc1\u0db4\u0dbd\u0d9a\u0dba\u0db1\u0d9c-\u0dbb\u0da2\u0dba-\u0db1\u0dbd\u0db0\u0dbb\u0db1\u0d9c-\u0d85\u0dbb\u0db8\u0dab-\u0d91\u0d9a\u0d9a-\u0dc0\u0dba-\u0dba\u0dad\u0dba/101-681309",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1760431226.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-14 | `lankadeepalk-07fe423e` | දේශපාලකයන්ගේ - රාජ්‍ය නිලධාරීන්ගේ අරමුණ එකක් විය යුතුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-07fe423e)
+- 2025-10-14 | `virakesarilk-e61e2398` | இந்தியாவில் பெருமளவு நிதி முதலீட்டில் மெகா தரவு மையம் அமைப்பதாக கூகுள் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-e61e2398)
+- 2025-10-14 | `lankadeepalk-858616b3` | ගව - එළු - බැටළු රක්ෂණය වැඩි කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-858616b3)
+- 2025-10-14 | `virakesarilk-7bd2858b` | இந்தியாவும் பாகிஸ்தானும் அமைதியாக வாழுவார்கள் : சர்வதேச அமைதி மாநாட்டில் டிரம்ப் நம்பிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-7bd2858b)
+- 2025-10-14 | `virakesarilk-a5a75958` | முச்சக்கரவண்டி ஓட்ட பந்தயத்தில் ஈடுபட்ட 11 பேர்  கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-a5a75958)
+- 2025-10-14 | `lankadeepalk-c9a0fb76` | අගමැතිනී - චීන ජනපති හමු වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-c9a0fb76)
+- 2025-10-14 | `virakesarilk-a3b5019d` | சீன ஜனாதிபதி ஷி ஜின்பிங்கை சந்தித்தார் பிரதமர் ஹரிணி அமரசூரிய | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-a3b5019d)
+- 2025-10-14 | `virakesarilk-f153139b` | பணயமாக இருந்தவர்கள் அனுபவித்த வேதனையை யாரும் புரிந்துகொள்ள முடியாது: இங்கிலாந்து பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-f153139b)
 - 2025-10-14 | `tamilmirrorlk-414a7023` | பஸ் லலித் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-414a7023)
 - 2025-10-14 | `adalk-15cf00e3` | බස් ලලිත් ඩුබායිහිදී අත්අඩංගුවට? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-adalk-15cf00e3)
 - 2025-10-14 | `tamilmirrorlk-944e6fca` | முன்னாள் கடற்படைத் தளபதிக்கு பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-944e6fca)
+- 2025-10-14 | `virakesarilk-caf02d71` | மின்சார வாகன உரிமையாளர்கள் சங்கம் விடுத்துள்ள எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-caf02d71)
+- 2025-10-14 | `virakesarilk-7d1e7da3` | பீஜிங்கில் உள்ள நினைவுச் சின்னங்களை பார்வையிட்டார் பிரதமர் ஹரிணி ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-7d1e7da3)
 - 2025-10-14 | `tamilmirrorlk-095d0bb1` | சஷீந்திர ராஜபக்ஷவுக்கு பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-095d0bb1)
 - 2025-10-14 | `lankadeepalk-492469e5` | පාතාලයේ වත්කම් කෝටි 3902ක් රජය භාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-492469e5)
 - 2025-10-14 | `adalk-1924017a` | කතරගම ගොඩනැගිල්ල මගේ නෙමෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-adalk-1924017a)
-- 2025-10-14 | `lankadeepalk-d65fb708` | මුහුදේ පාවෙමින් තිබූ මත්ද්‍රව්‍ය තොගයක් නාවික හමුදා බාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-d65fb708)
-- 2025-10-14 | `adalk-0d026a16` | ඉෂාරා ඇතුළු අත්අඩංගුවට ගත් හය දෙනා කඩිනමින් ලංකාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-adalk-0d026a16)
-- 2025-10-14 | `adalk-7a0c708a` | ප්‍රා ලේ කොට්ඨාස 19කට නායා යෑමේ  අනතුරු ඇඟවීම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-adalk-7a0c708a)
-- 2025-10-14 | `lankadeepalk-9660380d` | ශෂීන්ද්‍රට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-9660380d)
-- 2025-10-14 | `adalk-7e98ddd1` | නුවරඑළිය එළවළු පහතරට වැවීමෙන් නුවරඑළිය ගොවීන් ගැටලුවක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-adalk-7e98ddd1)
-- 2025-10-14 | `adalk-495b9e26` | වගුරු බිමකින් උණ්ඩ හා උණ්ඩ ‍ කොපු හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-adalk-495b9e26)
-- 2025-10-14 | `tamilmirrorlk-6e125a6d` | மூன்று பிள்ளைகளின் தந்தை கடலில் மூழ்கி பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-6e125a6d)
-- 2025-10-14 | `lankadeepalk-0902b66f` | අගමැතිනිය චීන මහජන වීරයන් බලන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-0902b66f)
-- 2025-10-14 | `tamilmirrorlk-978616a2` | தொழிற்சங்க நடவடிக்கையை இடைநிறுத்த  CEB முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-978616a2)
-- 2025-10-14 | `adalk-bf736261` | හිටපු නාවික හමුදාපතිට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-adalk-bf736261)
-- 2025-10-14 | `tamilmirrorlk-9cd8d3b5` | மாணவனுக்கு ’’அதை’’ கொடுத்த ஆசிரியை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-9cd8d3b5)
-- 2025-10-14 | `lankadeepalk-09fb409f` | විදුලි රැහැන් කපන්න ගිහින් අවසන් ගමන් යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-lankadeepalk-09fb409f)
-- 2025-10-14 | `tamilmirrorlk-a54bda01` | இறந்தவர்களின் உடலை பதப்படுத்தி பல ஆண்டுகள் கழித்து இறுதிச்சடங்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-a54bda01)
-- 2025-10-14 | `tamilmirrorlk-6d673dd5` | சடலத்தை பதப்படுத்தி பல ஆண்டுகள் கழித்து இறுதிச்சடங்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-tamilmirrorlk-6d673dd5)
+- 2025-10-14 | `virakesarilk-43ae4557` | கடும் மின்னல் தாக்கம் தொடர்பில் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-43ae4557)
+- 2025-10-14 | `virakesarilk-ce7a4bfd` | கதிர்காமத்தில் கட்டப்பட்டுள்ள கட்டிடம் எனக்கு சொந்தமானது அல்ல - கோட்டாபய | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-ce7a4bfd)
+- 2025-10-14 | `virakesarilk-6b81f2ff` | மடகஸ்காரில் அரசியல் குழப்பம் : ஜனாதிபதி அண்ட்ரே ரஜோலினா நாட்டை விட்டு தப்பியோட்டம் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-6b81f2ff)
+- 2025-10-14 | `virakesarilk-135eb711` | சீன மக்கள் அரசியல் ஆலோசனைக் குழுவின் (CPPCC) தேசியக் குழுத் தலைவரைப் சந்தித்தார் பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-14-virakesarilk-135eb711)
 
 ---
 
