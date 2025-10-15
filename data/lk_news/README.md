@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_04:15:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_04:46:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,122** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,126** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-16-virakesarilk-75454229",
-    "num": "virakesarilk-75454229",
+    "doc_id": "2025-10-16-dailyftlk-7d12544c",
+    "num": "dailyftlk-7d12544c",
     "date_str": "2025-10-16",
-    "description": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0ba8\u0b95\u0bb0 \u0b9a\u0baa\u0bc8 \u0b95\u0bb4\u0bbf\u0bb5\u0bc1 \u0b95\u0bc1\u0bb5\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0ba8\u0bbe\u0bb3\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bc0 \u0baa\u0bb0\u0bb5\u0bb2\u0bcd ; \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0b9a\u0bcc\u0b95\u0bb0\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/227844",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1760568120.0
+    "description": "Enhancing tax morale in Sri Lanka: Path to sustainable compliance",
+    "url_metadata": "https://www.ft.lk/columns/Enhancing-tax-morale-in-Sri-Lanka-Path-to-sustainable-compliance/4-783046",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1760569746.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-16 | `dailyftlk-7d12544c` | Enhancing tax morale in Sri Lanka: Path to sustainable compliance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-7d12544c)
+- 2025-10-16 | `dailyftlk-d65f6178` | Beyond prediction: Rise of explainable AI in financial decision making | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-d65f6178)
+- 2025-10-16 | `dailyftlk-9a039d39` | Promise and peril of relativism: Respecting perspectives without excusing injustice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-9a039d39)
+- 2025-10-16 | `tamilmirrorlk-167b70e9` | கொழும்பு குற்ற விசாரணைப்பிரிவில் இஷாரா செவ்வந்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-167b70e9)
 - 2025-10-16 | `virakesarilk-75454229` | மன்னார் நகர சபை கழிவு குவியலில் மூன்றாவது நாளாகவும் தீ பரவல் ; மக்கள் அசௌகரியத்தில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-75454229)
 - 2025-10-16 | `virakesarilk-65a42126` | யாழில் தாலிக்கொடி மற்றும் பணம் என்பவற்றை திருடிய சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-65a42126)
 - 2025-10-16 | `dailyftlk-a8082ff1` | Hand in hand for better foods and a better future: Partnerships for Sri Lanka’s SDG journey | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-a8082ff1)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-10-15 | `tamilmirrorlk-8761bde9` | நாட்டிற்கு அழைத்து வரப்பட்டார் செவ்வந்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-tamilmirrorlk-8761bde9)
 - 2025-10-15 | `virakesarilk-aef884c9` | இரு அமைச்சுக்களுக்கு புதிய செயலாளர்கள் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-aef884c9)
 - 2025-10-15 | `virakesarilk-be0d381a` | சுன்னாகம் பொலிஸ் நிலைய உத்தியோகத்தர் இருவர் இடமாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-be0d381a)
-- 2025-10-15 | `colombotelegraphcom-03d852df` | Who Introduced Commercial Whale Watching In Sri Lanka? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-colombotelegraphcom-03d852df)
-- 2025-10-15 | `virakesarilk-b7ae0119` | முன்னாள் அமைச்சர் மனுஷ நாணயக்கார பிணையில் விடுவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-b7ae0119)
-- 2025-10-15 | `lankadeepalk-058d231a` | මම මළා කියපු කතාවට මටම හිනා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-058d231a)
-- 2025-10-15 | `lankadeepalk-49c9e978` | ඉෂාර සෙව්වන්දි දිවයිනට රැගෙන එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-49c9e978)
 
 ---
 

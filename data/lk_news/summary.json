@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-16 04:14:37",
-  "n_docs": 81122,
+  "time_updated": "2025-10-16 04:45:23",
+  "n_docs": 81126,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 81122,
+  "n_docs_with_text": 81126,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-16",
-  "dataset_size": 1196314772,
+  "dataset_size": 1196436845,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "ta",
     "en",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-16-virakesarilk-75454229",
-    "num": "virakesarilk-75454229",
+    "doc_id": "2025-10-16-dailyftlk-7d12544c",
+    "num": "dailyftlk-7d12544c",
     "date_str": "2025-10-16",
-    "description": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0ba8\u0b95\u0bb0 \u0b9a\u0baa\u0bc8 \u0b95\u0bb4\u0bbf\u0bb5\u0bc1 \u0b95\u0bc1\u0bb5\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0ba8\u0bbe\u0bb3\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0ba4\u0bc0 \u0baa\u0bb0\u0bb5\u0bb2\u0bcd ; \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0b9a\u0bcc\u0b95\u0bb0\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/227844",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1760568120.0
+    "description": "Enhancing tax morale in Sri Lanka: Path to sustainable compliance",
+    "url_metadata": "https://www.ft.lk/columns/Enhancing-tax-morale-in-Sri-Lanka-Path-to-sustainable-compliance/4-783046",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1760569746.0
   }
 }
