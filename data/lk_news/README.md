@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--15_19:46:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--15_20:19:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,087** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,088** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -56,11 +56,11 @@ A collection of lk_news documents.
 - 2025-10-15 | `lankadeepalk-ae3c919f` | ලබන පාර්ලිමේන්තු සතියේ වැඩ වෙන හැටි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-ae3c919f)
 - 2025-10-15 | `lankadeepalk-2942a04b` | බහු පක්ෂ ක්‍රමය රකින්න ඔක්කොම එක තැනකට එන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-2942a04b)
 - 2025-10-15 | `lankadeepalk-be2a306c` | ඉදිරි දිනවල තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-be2a306c)
+- 2025-10-15 | `adalk-2b108517` | නොරොච්චෝ‌ලේ අළු වලින් හැදූ පුත්තම අධිකරණය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-adalk-2b108517)
 - 2025-10-15 | `lankadeepalk-9c3a6529` | මනුෂ අධිකරණයට රැගෙන එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-9c3a6529)
 - 2025-10-15 | `lankadeepalk-c3966917` | නාකොටික් නව අධ්‍යක්ෂ SSP හේරත් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-c3966917)
 - 2025-10-15 | `lankadeepalk-e9eb1c15` | නොරොච්චෝල බලාගාරයේ අළු වලින් අධිකරණයක් හදයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-e9eb1c15)
 - 2025-10-15 | `lankadeepalk-38b86d6a` | සුදු සැරයටි පළමු කොඩිය ජනපති ලේකම්ට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-38b86d6a)
-- 2025-10-15 | `virakesarilk-44819a96` | உத்தேச தொழிலாளர் சட்ட மறுசீரமைப்பின் கீழ் பிரதானமாக நான்கு சட்டமூலங்களை அறிமுகப்படுத்துவது தொடர்பில் அவதானம் - தொழில் அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-44819a96)
 
 ---
 
