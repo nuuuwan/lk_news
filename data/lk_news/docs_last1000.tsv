@@ -1,4 +1,7 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-15-tamilmirrorlk-555cabea	tamilmirrorlk-555cabea	2025-10-15	மடகஸ்காரில் போராட்டம்: தப்பியோடினார் ஜனாதிபதி	https://www.tamilmirror.lk/உலக-செய்திகள்/மடகஸ்காரில்-போராட்டம்-தப்பியோடினார்-ஜனாதிபதி/50-366300	ta	tamilmirrorlk	1760494785.0
+lk_news	2025-10-15-lankadeepalk-f77af856	lankadeepalk-f77af856	2025-10-15	අද සිට කාලගුනයේ වෙනසක්	https://www.lankadeepa.lk/news/අද-සට-කලගනය-වනසක/101-681355	si	lankadeepalk	1760493699.0
+lk_news	2025-10-15-dailyftlk-5ba1e14f	dailyftlk-5ba1e14f	2025-10-15	Cabinet reshuffle no link to ongoing container probe – Cabinet Spokesman	https://www.ft.lk/news/Cabinet-reshuffle-no-link-to-ongoing-container-probe-Cabinet-Spokesman/56-783014	en	dailyftlk	1760492478.0
 lk_news	2025-10-15-dailyftlk-b5b443ca	dailyftlk-b5b443ca	2025-10-15	Sri Lanka reaffirms commitment to gender equality at Beijing summit	https://www.ft.lk/news/Sri-Lanka-reaffirms-commitment-to-gender-equality-at-Beijing-summit/56-783013	en	dailyftlk	1760492383.0
 lk_news	2025-10-15-dailyftlk-2df6f935	dailyftlk-2df6f935	2025-10-15	Migrant remittances rise to $ 695.7 m in Sept.	https://www.ft.lk/news/Migrant-remittances-rise-to-695-7-m-in-Sept/56-783012	en	dailyftlk	1760490294.0
 lk_news	2025-10-15-dailyftlk-101f4d28	dailyftlk-101f4d28	2025-10-15	Over 3,000 Lankans leave for S. Korea jobs by Oct.	https://www.ft.lk/news/Over-3-000-Lankans-leave-for-S-Korea-jobs-by-Oct/56-783011	en	dailyftlk	1760490255.0
@@ -76,6 +79,7 @@ lk_news	2025-10-14-virakesarilk-b748b78b	virakesarilk-b748b78b	2025-10-14	கழ
 lk_news	2025-10-14-virakesarilk-67665647	virakesarilk-67665647	2025-10-14	இஷாரா செவ்வந்தியின் கைதானது பல மாத காலமாக திட்டமிடப்பட்ட இரகசிய நடவடிக்கையாகும் - பொலிஸ் ஊடகப் பேச்சாளர்	https://www.virakesari.lk/article/227732	ta	virakesarilk	1760443080.0
 lk_news	2025-10-14-virakesarilk-df44d3d9	virakesarilk-df44d3d9	2025-10-14	விசேட சோதனை நடவடிக்கையில் 6,082 பேர் கைது - பொலிஸ் ஊடகப் பேச்சாளர்	https://www.virakesari.lk/article/227729	ta	virakesarilk	1760442060.0
 lk_news	2025-10-14-lankadeepalk-ad52eeee	lankadeepalk-ad52eeee	2025-10-14	සුරා බදු ආදායම් පරිපාලනය ඩිජිටල් වෙයි	https://www.lankadeepa.lk/latest_news/සර-බද-ආදයම-පරපලනය-ඩජටල-වය/1-681337	si	lankadeepalk	1760441790.0
+lk_news	2025-10-14-adalk-cdbb9599	adalk-cdbb9599	2025-10-14	කොළඹ කොටුවේ  හිඟ බදු ආදායම රු. කෝටි 60යි	https://www.ada.lk/breaking_news/කොළඹ-කොටුවේ--හිඟ-බදු-ආදායම-රු--කෝටි-60යි/11-419098	si	adalk	1760441736.0
 lk_news	2025-10-14-virakesarilk-1701a8b2	virakesarilk-1701a8b2	2025-10-14	பாதாள உலக கும்பலின் சொத்துக்கள் பறிமுதல் செய்யப்பட்டுள்ளது - பொலிஸ் ஊடகப் பேச்சாளர்	https://www.virakesari.lk/article/227728	ta	virakesarilk	1760441580.0
 lk_news	2025-10-14-virakesarilk-d03bdad9	virakesarilk-d03bdad9	2025-10-14	யாழில் இரண்டாவது நாளாக தொடரும் ஆசிரியர்களின் போராட்டம்	https://www.virakesari.lk/article/227722	ta	virakesarilk	1760441340.0
 lk_news	2025-10-14-virakesarilk-c6b58386	virakesarilk-c6b58386	2025-10-14	வவுணதீவில் மீட்கப்பட்ட வெடி பொருட்கள் வெடிக்கவைத்து அழிப்பு	https://www.virakesari.lk/article/227725	ta	virakesarilk	1760441340.0
@@ -995,7 +999,3 @@ lk_news	2025-10-09-virakesarilk-df0ab606	virakesarilk-df0ab606	2025-10-09	பெ
 lk_news	2025-10-09-tamilmirrorlk-e164fda5	tamilmirrorlk-e164fda5	2025-10-09	8 தவளைகளை உயிருடன் விழுங்கிய மூதாட்டி	https://www.tamilmirror.lk/விநோத-உலகம்/8-தவளைகளை-உயிருடன்-விழுங்கிய-மூதாட்டி/53-366018	ta	tamilmirrorlk	1759991007.0
 lk_news	2025-10-09-virakesarilk-1fc3e1b8	virakesarilk-1fc3e1b8	2025-10-09	யாழில் “அணையா விளக்கு” நினைவுத் தூபி உடைக்கப்பட்டது!	https://www.virakesari.lk/article/227301	ta	virakesarilk	1759990920.0
 lk_news	2025-10-09-lankadeepalk-e3f8699b	lankadeepalk-e3f8699b	2025-10-09	සමස්ත ලංකා පාසල් ක්‍රීඩා උළෙල හෙට ඇරැඹෙයි	https://www.lankadeepa.lk/latest_news/සමසත-ලක-පසල-කරඩ-උළල-හට-ඇරඹය/1-680985	si	lankadeepalk	1759990854.0
-lk_news	2025-10-09-virakesarilk-0cbe1552	virakesarilk-0cbe1552	2025-10-09	புதிய பிரதமர் விரைவில் – பிரான்ஸ் ஜனாதிபதி மக்ரோன்	https://www.virakesari.lk/article/227296	ta	virakesarilk	1759990800.0
-lk_news	2025-10-09-virakesarilk-b88e95c8	virakesarilk-b88e95c8	2025-10-09	பொதுமக்களிடம் உதவி கோரும் புறக்கோட்டை பொலிஸார்!	https://www.virakesari.lk/article/227300	ta	virakesarilk	1759990560.0
-lk_news	2025-10-09-virakesarilk-e09c1f01	virakesarilk-e09c1f01	2025-10-09	மரக்கறி தோட்டத்தில் பெண் உயிரிழப்பு!	https://www.virakesari.lk/article/227297	ta	virakesarilk	1759990020.0
-lk_news	2025-10-09-tamilmirrorlk-b88733a6	tamilmirrorlk-b88733a6	2025-10-09	ஐஸூடன் டெட்டோ மல்லி கைது	https://www.tamilmirror.lk/செய்திகள்/ஐஸூடன்-டெட்டோ-மல்லி-கைது/175-366014	ta	tamilmirrorlk	1759989763.0
