@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--15_06:29:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--15_07:13:46-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**80,929** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**80,934** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-15-dailyftlk-78c76355",
-    "num": "dailyftlk-78c76355",
+    "doc_id": "2025-10-15-dailyftlk-b5b443ca",
+    "num": "dailyftlk-b5b443ca",
     "date_str": "2025-10-15",
-    "description": "Ants\u2019 march, promises, and one-year rule of AKD",
-    "url_metadata": "https://www.ft.lk/columns/Ants-march-promises-and-one-year-rule-of-AKD/4-783008",
+    "description": "Sri Lanka reaffirms commitment to gender equality at Beijing summit",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-reaffirms-commitment-to-gender-equality-at-Beijing-summit/56-783013",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1760489395.0
+    "time_ut": 1760492383.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-15 | `dailyftlk-b5b443ca` | Sri Lanka reaffirms commitment to gender equality at Beijing summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-dailyftlk-b5b443ca)
+- 2025-10-15 | `dailyftlk-2df6f935` | Migrant remittances rise to $ 695.7 m in Sept. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-dailyftlk-2df6f935)
+- 2025-10-15 | `dailyftlk-101f4d28` | Over 3,000 Lankans leave for S. Korea jobs by Oct. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-dailyftlk-101f4d28)
+- 2025-10-15 | `dailyftlk-01b15851` | LGC outage disrupts Govt. online services | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-dailyftlk-01b15851)
+- 2025-10-15 | `dailyftlk-c2d69e06` | Save Mandaitivu: Call to protect SL’s blue carbon treasure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-dailyftlk-c2d69e06)
 - 2025-10-15 | `dailyftlk-78c76355` | Ants’ march, promises, and one-year rule of AKD | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-dailyftlk-78c76355)
 - 2025-10-15 | `dailyftlk-dc69ae85` | Sri Lanka’s Robotic Governance Council: Politician of the future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-dailyftlk-dc69ae85)
 - 2025-10-15 | `tamilmirrorlk-bdbcf086` | எறிகணைகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-tamilmirrorlk-bdbcf086)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-10-15 | `dailyftlk-c7e85440` | Govt. to launch ‘Ratama Ekata’ national anti-drug operation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-dailyftlk-c7e85440)
 - 2025-10-15 | `dailyftlk-2b04a826` | Cabinet nod for Rs. 1.3 b Excise Department revenue system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-dailyftlk-2b04a826)
 - 2025-10-15 | `dailyftlk-a85ef5f3` | Sri Lanka to sign anti–money laundering MoUs with Vatican, Mauritius | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-dailyftlk-a85ef5f3)
-- 2025-10-15 | `dailyftlk-40e1d278` | CEB unions suspend strike | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-dailyftlk-40e1d278)
-- 2025-10-15 | `dailyftlk-877da5c9` | Govt. allows rice imports amid local Keeri Samba shortage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-dailyftlk-877da5c9)
-- 2025-10-15 | `dailyftlk-e949f872` | Gold prices hit record high | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-dailyftlk-e949f872)
-- 2025-10-15 | `virakesarilk-2f38a858` | செம்மணி மனித புதைகுழியின் அடுத்த அகழ்வு: 2 கோடி ரூபாய் நிதிக்கு அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-2f38a858)
-- 2025-10-15 | `virakesarilk-0c6d3f40` | காணி உரிமை தொடர்பில் பாராளுமன்றத்தில் கூட்டு ஆவணமொன்றை முன்வைப்போம் - சலக மலையகப் பிரதிநிதிகளுக்கும் ஜீவன் அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-0c6d3f40)
 
 ---
 

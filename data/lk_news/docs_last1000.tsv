@@ -1,4 +1,9 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-15-dailyftlk-b5b443ca	dailyftlk-b5b443ca	2025-10-15	Sri Lanka reaffirms commitment to gender equality at Beijing summit	https://www.ft.lk/news/Sri-Lanka-reaffirms-commitment-to-gender-equality-at-Beijing-summit/56-783013	en	dailyftlk	1760492383.0
+lk_news	2025-10-15-dailyftlk-2df6f935	dailyftlk-2df6f935	2025-10-15	Migrant remittances rise to $ 695.7 m in Sept.	https://www.ft.lk/news/Migrant-remittances-rise-to-695-7-m-in-Sept/56-783012	en	dailyftlk	1760490294.0
+lk_news	2025-10-15-dailyftlk-101f4d28	dailyftlk-101f4d28	2025-10-15	Over 3,000 Lankans leave for S. Korea jobs by Oct.	https://www.ft.lk/news/Over-3-000-Lankans-leave-for-S-Korea-jobs-by-Oct/56-783011	en	dailyftlk	1760490255.0
+lk_news	2025-10-15-dailyftlk-01b15851	dailyftlk-01b15851	2025-10-15	LGC outage disrupts Govt. online services	https://www.ft.lk/news/LGC-outage-disrupts-Govt-online-services/56-783010	en	dailyftlk	1760490232.0
+lk_news	2025-10-15-dailyftlk-c2d69e06	dailyftlk-c2d69e06	2025-10-15	Save Mandaitivu: Call to protect SL’s blue carbon treasure	https://www.ft.lk/opinion/Save-Mandaitivu-Call-to-protect-SL-s-blue-carbon-treasure/14-783009	en	dailyftlk	1760490159.0
 lk_news	2025-10-15-dailyftlk-78c76355	dailyftlk-78c76355	2025-10-15	Ants’ march, promises, and one-year rule of AKD	https://www.ft.lk/columns/Ants-march-promises-and-one-year-rule-of-AKD/4-783008	en	dailyftlk	1760489395.0
 lk_news	2025-10-15-dailyftlk-dc69ae85	dailyftlk-dc69ae85	2025-10-15	Sri Lanka’s Robotic Governance Council: Politician of the future	https://www.ft.lk/columns/Sri-Lanka-s-Robotic-Governance-Council-Politician-of-the-future/4-783007	en	dailyftlk	1760489006.0
 lk_news	2025-10-15-tamilmirrorlk-bdbcf086	tamilmirrorlk-bdbcf086	2025-10-15	எறிகணைகள் மீட்பு	https://www.tamilmirror.lk/செய்திகள்/எறிகணைகள்-மீட்பு/175-366299	ta	tamilmirrorlk	1760488883.0
@@ -994,8 +999,3 @@ lk_news	2025-10-09-virakesarilk-0cbe1552	virakesarilk-0cbe1552	2025-10-09	பு
 lk_news	2025-10-09-virakesarilk-b88e95c8	virakesarilk-b88e95c8	2025-10-09	பொதுமக்களிடம் உதவி கோரும் புறக்கோட்டை பொலிஸார்!	https://www.virakesari.lk/article/227300	ta	virakesarilk	1759990560.0
 lk_news	2025-10-09-virakesarilk-e09c1f01	virakesarilk-e09c1f01	2025-10-09	மரக்கறி தோட்டத்தில் பெண் உயிரிழப்பு!	https://www.virakesari.lk/article/227297	ta	virakesarilk	1759990020.0
 lk_news	2025-10-09-tamilmirrorlk-b88733a6	tamilmirrorlk-b88733a6	2025-10-09	ஐஸூடன் டெட்டோ மல்லி கைது	https://www.tamilmirror.lk/செய்திகள்/ஐஸூடன்-டெட்டோ-மல்லி-கைது/175-366014	ta	tamilmirrorlk	1759989763.0
-lk_news	2025-10-09-tamilmirrorlk-3a2ba027	tamilmirrorlk-3a2ba027	2025-10-09	டெட்டோ ஐஸூடன் மல்லி கைது	https://www.tamilmirror.lk/செய்திகள்/டெட்டோ-ஐஸூடன்-மல்லி-கைது/175-366014	ta	tamilmirrorlk	1759989763.0
-lk_news	2025-10-09-lankadeepalk-afbd57b1	lankadeepalk-afbd57b1	2025-10-09	සිසු හෙද පුහුණුවට බඳවා ගැනීම් දිස්ත්‍රික්ක තුනකදී	https://www.lankadeepa.lk/latest_news/සස-හද-පහණවට-බඳව-ගනම-දසතරකක-තනකද/1-680982	si	lankadeepalk	1759989701.0
-lk_news	2025-10-09-lankadeepalk-b04d601d	lankadeepalk-b04d601d	2025-10-09	සා.පෙ නැවත සමීක්ෂණ ප්‍රතිඵල නිකුත් වේ	https://www.lankadeepa.lk/latest_news/ස-ප-නවත-සමකෂණ-පරතඵල-නකත-ව/1-680981	si	lankadeepalk	1759989609.0
-lk_news	2025-10-09-lankadeepalk-34ec67f7	lankadeepalk-34ec67f7	2025-10-09	මහරගම නගරසභා පක්ෂ විපක්ෂ මන්ත්‍රීවරු විරෝධයක	https://www.lankadeepa.lk/latest_news/මහරගම-නගරසභ-පකෂ-වපකෂ-මනතරවර-වරධයක/1-680980	si	lankadeepalk	1759989252.0
-lk_news	2025-10-09-tamilmirrorlk-9bab1e93	tamilmirrorlk-9bab1e93	2025-10-09	குருக்கள்மடம் புதைகுழி வழக்கு ஒத்திவைப்பு	https://www.tamilmirror.lk/செய்திகள்/குருக்கள்மடம்-புதைகுழி-வழக்கு-ஒத்திவைப்பு/175-366012	ta	tamilmirrorlk	1759988685.0

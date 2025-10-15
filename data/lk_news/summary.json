@@ -2,14 +2,14 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-15 06:29:06",
-  "n_docs": 80929,
+  "time_updated": "2025-10-15 07:13:07",
+  "n_docs": 80934,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 80929,
+  "n_docs_with_text": 80934,
   "n_docs_with_excel": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-15",
-  "dataset_size": 1192849209,
+  "dataset_size": 1192929793,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -30,19 +30,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-15-dailyftlk-78c76355",
-    "num": "dailyftlk-78c76355",
+    "doc_id": "2025-10-15-dailyftlk-b5b443ca",
+    "num": "dailyftlk-b5b443ca",
     "date_str": "2025-10-15",
-    "description": "Ants\u2019 march, promises, and one-year rule of AKD",
-    "url_metadata": "https://www.ft.lk/columns/Ants-march-promises-and-one-year-rule-of-AKD/4-783008",
+    "description": "Sri Lanka reaffirms commitment to gender equality at Beijing summit",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-reaffirms-commitment-to-gender-equality-at-Beijing-summit/56-783013",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1760489395.0
+    "time_ut": 1760492383.0
   }
 }
