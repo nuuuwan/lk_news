@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_00:45:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_01:14:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,116** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,117** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -52,6 +52,7 @@ A collection of lk_news documents.
 - 2025-10-15 | `tamilmirrorlk-8761bde9` | நாட்டிற்கு அழைத்து வரப்பட்டார் செவ்வந்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-tamilmirrorlk-8761bde9)
 - 2025-10-15 | `virakesarilk-aef884c9` | இரு அமைச்சுக்களுக்கு புதிய செயலாளர்கள் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-aef884c9)
 - 2025-10-15 | `virakesarilk-be0d381a` | சுன்னாகம் பொலிஸ் நிலைய உத்தியோகத்தர் இருவர் இடமாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-be0d381a)
+- 2025-10-15 | `colombotelegraphcom-03d852df` | Who Introduced Commercial Whale Watching In Sri Lanka? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-colombotelegraphcom-03d852df)
 - 2025-10-15 | `virakesarilk-b7ae0119` | முன்னாள் அமைச்சர் மனுஷ நாணயக்கார பிணையில் விடுவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-b7ae0119)
 - 2025-10-15 | `lankadeepalk-058d231a` | මම මළා කියපු කතාවට මටම හිනා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-058d231a)
 - 2025-10-15 | `lankadeepalk-49c9e978` | ඉෂාර සෙව්වන්දි දිවයිනට රැගෙන එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-49c9e978)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-15 | `virakesarilk-258fb4a5` | உண்மை மற்றும் நல்லிணக்க ஆணைக்குழுவை நிறுவ அரசாங்கம் நடவடிக்கை எடுக்கவில்லை -சிவில் சமூக அமைப்புக்கள் அதிருப்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-258fb4a5)
 - 2025-10-15 | `lankadeepalk-7cd3493b` | දූෂණයෙන් ලංකාව 120 තැනට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-7cd3493b)
 - 2025-10-15 | `virakesarilk-3ba57aff` | ரொக் பொஸ்பேற் பெறுமதி சேர்க்கும் திட்டத்தை அமுல்படுத்துதல் தொடர்பான கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-3ba57aff)
-- 2025-10-15 | `lankadeepalk-67d6d284` | ගුණරත්න වන්නිනායක ඇප මත මුදා හරියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-67d6d284)
 
 ---
 
