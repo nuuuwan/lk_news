@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--15_14:21:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--15_14:46:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,037** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,039** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-15-virakesarilk-15219b71",
-    "num": "virakesarilk-15219b71",
+    "doc_id": "2025-10-15-lankadeepalk-e398626d",
+    "num": "lankadeepalk-e398626d",
     "date_str": "2025-10-15",
-    "description": "\u0b95\u0bbe\u0ba3\u0bbf \u0b89\u0bb0\u0bbf\u0bae\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd ; \u0b85\u0b9f\u0bcd\u0b9f\u0ba9\u0bcd \u0baa\u0bb8\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0baf\u0bc6\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/227793",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1760517540.0
+    "description": "\u0db8\u0db1\u0dd4\u0dc2 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0db1\u0dc2-\u0d85\u0dad\u0d85\u0da9\u0d9c\u0dc0\u0da7/101-681405",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1760518053.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-15 | `lankadeepalk-e398626d` | මනුෂ අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-e398626d)
+- 2025-10-15 | `tamilmirrorlk-c75a0736` | மனுஷ நாணயக்கார கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-tamilmirrorlk-c75a0736)
 - 2025-10-15 | `virakesarilk-15219b71` | காணி உரிமை வழங்கப்பட வேண்டும் ; அட்டன் பஸ் நிலையத்தில் கையெழுத்து வேட்டை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-15219b71)
 - 2025-10-15 | `virakesarilk-e3c9bef5` | மனுஷ நாணயக்கார கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-e3c9bef5)
 - 2025-10-15 | `tamilmirrorlk-56c2b739` | கோப்பாய் பொலிஸ் நிலையம் அகற்றப்பட்டுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-tamilmirrorlk-56c2b739)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-15 | `virakesarilk-b92d938c` | எதிர்வரும்  சுற்றுலாப் பருவத்தை இலக்காகக் கொண்டு சுற்றுலாப் பயணிகளுக்கான வசதிகளை மேம்படுத்த பல திட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-virakesarilk-b92d938c)
 - 2025-10-15 | `tamilmirrorlk-bc9e114a` | மனைவியுடன் தனிமையில் இருந்த கணவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-tamilmirrorlk-bc9e114a)
 - 2025-10-15 | `tamilmirrorlk-56ab7fb4` | மனைவியுடன் கட்டிலில் தனிமையில் இருந்த கணவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-tamilmirrorlk-56ab7fb4)
-- 2025-10-15 | `lankadeepalk-3b4216c9` | සූදු අධිකාරිය පටන් ගන්න මුදල් සභාවෙන් නියෝගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-lankadeepalk-3b4216c9)
-- 2025-10-15 | `tamilmirrorlk-dea202fd` | அரசாங்கத்தை எச்சரித்தார் நாமல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-tamilmirrorlk-dea202fd)
 
 ---
 
