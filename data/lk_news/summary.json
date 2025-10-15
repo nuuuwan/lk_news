@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-16 04:45:23",
-  "n_docs": 81126,
+  "time_updated": "2025-10-16 05:13:56",
+  "n_docs": 81130,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 81126,
+  "n_docs_with_text": 81130,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-16",
-  "dataset_size": 1196436845,
+  "dataset_size": 1196563114,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-16-dailyftlk-7d12544c",
-    "num": "dailyftlk-7d12544c",
+    "doc_id": "2025-10-16-dailyftlk-9fe2cc33",
+    "num": "dailyftlk-9fe2cc33",
     "date_str": "2025-10-16",
-    "description": "Enhancing tax morale in Sri Lanka: Path to sustainable compliance",
-    "url_metadata": "https://www.ft.lk/columns/Enhancing-tax-morale-in-Sri-Lanka-Path-to-sustainable-compliance/4-783046",
+    "description": "Gaza reprieved, Geneva match-fixed, devolution auctioned, Venezuela targeted",
+    "url_metadata": "https://www.ft.lk/columns/Gaza-reprieved-Geneva-match-fixed-devolution-auctioned-Venezuela-targeted/4-783047",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1760569746.0
+    "time_ut": 1760570294.0
   }
 }
