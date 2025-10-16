@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_12:22:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_12:47:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,202** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,205** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-16-lankadeepalk-f7d8dead",
-    "num": "lankadeepalk-f7d8dead",
+    "doc_id": "2025-10-16-lankadeepalk-fc63e67e",
+    "num": "lankadeepalk-fc63e67e",
     "date_str": "2025-10-16",
-    "description": "\u0dbb\u0da2\u0dba\u0da7 \u0db4\u0dcf\u0da9\u0dd4 \u0d9a\u0dc5\u0dd0\u0dba\u0dd2 \u0d89\u0d82\u0da2\u0dd2\u0db1\u0dda\u0dbb\u0dd4 \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0dba\u0d9a\u0dd4 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dbb\u0da2\u0dba\u0da7-\u0db4\u0da9-\u0d9a\u0dc5\u0dba-\u0d89\u0da2\u0db1\u0dbb-\u0dc3\u0dc3\u0dae\u0dc0-\u0db1\u0dbd\u0db0\u0dbb\u0dba\u0d9a-\u0d85\u0dad\u0d85\u0da9\u0d9c\u0dc0\u0da7/101-681474",
+    "description": "\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba\u0dda \u0d9c\u0db8\u0db1\u0dca\u0db8\u0d9c \u0db1\u0dd2\u0dc0\u0dd0\u0dbb\u0dd0\u0daf\u0dd2\u0daf?",
+    "url_metadata": "https://www.lankadeepa.lk/features/\u0d86\u0dbb\u0dae\u0d9a\u0dba-\u0d9c\u0db8\u0db1\u0db8\u0d9c-\u0db1\u0dc0\u0dbb\u0daf\u0daf/2-681481",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1760596725.0
+    "time_ut": 1760598637.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-16 | `lankadeepalk-fc63e67e` | ආර්ථිකයේ ගමන්මග නිවැරැදිද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-fc63e67e)
+- 2025-10-16 | `tamilmirrorlk-578ad580` | அழகான பெண் உரசினாள்: அவள் காதில் அவர் வாயை வைத்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-578ad580)
+- 2025-10-16 | `lankadeepalk-2a30e793` | ලංකාවේ රබර් ඉඩම් සිතියම් ගත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-2a30e793)
 - 2025-10-16 | `lankadeepalk-f7d8dead` | රජයට පාඩු කළැයි ඉංජිනේරු සංස්ථාවේ නිලධාරියකු අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-f7d8dead)
 - 2025-10-16 | `lankadeepalk-cb6869a6` | ප්‍රාදේශීය ලේකම් කොට්ඨාස 10කට  නාය අනතුරු නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-cb6869a6)
 - 2025-10-16 | `tamilmirrorlk-1d28d62a` | ஐ.ம.சவுடன் பேச்சு நடத்த ஐ.தே.க குழு நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-1d28d62a)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-16 | `tamilmirrorlk-c2385d7c` | வீட்டின் மீது மண்மேடு சரிந்து விழுந்தது: நால்வர் தப்பினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-c2385d7c)
 - 2025-10-16 | `tamilmirrorlk-b68f0e89` | இந்த விரைவான நாடு கடத்தலுக்கு காரணம் என்ன? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-b68f0e89)
 - 2025-10-16 | `tamilmirrorlk-7731c9b8` | ஒரு வழக்கில் வாதாட  ஒரு பெண் என்னை அழைத்தாள்: செவ்வந்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-7731c9b8)
-- 2025-10-16 | `adalk-ec3dfdaf` | අනාගත ව්‍යාපාරික ප්‍රජාව බලගැන්වීමට නවතම ශිෂ්‍ය සහායක මධ්‍යස්ථානයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-adalk-ec3dfdaf)
-- 2025-10-16 | `lankadeepalk-2e64d0a8` | හරිනි දිල්ලියේ දී බාලේ උගත් ඉස්කෝලේ  බලන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-2e64d0a8)
-- 2025-10-16 | `tamilmirrorlk-5dd391fc` | முகநூல் ஊடாக கப்பம் கோரிய  இருவர் கைது: ஒருவர் தலைமறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-5dd391fc)
 
 ---
 
