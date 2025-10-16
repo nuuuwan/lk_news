@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_15:18:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_15:47:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,244** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,245** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -55,12 +55,12 @@ A collection of lk_news documents.
 - 2025-10-16 | `lankadeepalk-bfaa1322` | අලුත් වරාය ඇමති නැගෙනහිර පර්යන්තය බලන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-bfaa1322)
 - 2025-10-16 | `lankadeepalk-0e85aac7` | ’’රෝස මාසය’’ ගැන පාර්ලිමේන්තු විවාදයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-0e85aac7)
 - 2025-10-16 | `tamilmirrorlk-3e34e5e9` | சட்டத்தரணிக்கு ஒரு அமர்வுக்கு ரூ. 6 இலட்சம் செலுத்தியமை அம்பலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-3e34e5e9)
+- 2025-10-16 | `adalk-d385f2cc` | ඩුබායි රැකියා පෙන්වා මුදල් ගැරූ හිටපු නගරාධිපතිවරයෙකුගේ පුතෙක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-adalk-d385f2cc)
 - 2025-10-16 | `adalk-e40577e5` | කුරුණෑගල රෝහලේ ස්කෑන් පරීක්ෂණ සඳහා 2138ක් පෝලිමේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-adalk-e40577e5)
 - 2025-10-16 | `tamilmirrorlk-062c3486` | காய்கறிகளின் மொத்த விலை குறைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-062c3486)
 - 2025-10-16 | `adalk-6a673aa9` | ගාල්ල ජර්මන් මිත්‍රත්ව කාන්තා රෝහලේ හිග විදුලි ගාස්තුව මිලියන 27 පනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-adalk-6a673aa9)
 - 2025-10-16 | `adalk-b8d13e65` | ඉෂාරා දේවින්දි රිය අනතුරකින් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-adalk-b8d13e65)
 - 2025-10-16 | `lankadeepalk-05fee7c0` | දඹුල්ලේ එළවලු තොග මිල පහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-05fee7c0)
-- 2025-10-16 | `virakesarilk-27d92a5e` | மோட்டார் சைக்கிள்கள் நேருக்கு நேர் மோதி விபத்து ; ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-27d92a5e)
 
 ---
 
