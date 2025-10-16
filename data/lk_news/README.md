@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_03:14:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_03:45:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,322** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,325** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-16-virakesarilk-6d4008b7",
-    "num": "virakesarilk-6d4008b7",
-    "date_str": "2025-10-16",
-    "description": "\u0b9a\u0bbe\u0bb5\u0b95\u0b9a\u0bcd\u0b9a\u0bc7\u0bb0\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0ba3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/227931",
+    "doc_id": "2025-10-17-virakesarilk-91f142e8",
+    "num": "virakesarilk-91f142e8",
+    "date_str": "2025-10-17",
+    "description": "\u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 '\u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0baa\u0baf\u0ba9\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe\u0b95' \u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/227933",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1760634420.0
+    "time_ut": 1760651880.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-17 | `virakesarilk-91f142e8` | அதிபர் டிரம்ப் மற்றும் புடின் சந்திப்பு 'மிகவும் பயனுள்ளதாக' முடிந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-virakesarilk-91f142e8)
+- 2025-10-17 | `tamilmirrorlk-6899a185` | இரும்பகத்தில் தகரம் வெட்டியதில் ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-tamilmirrorlk-6899a185)
+- 2025-10-17 | `virakesarilk-5f7e06f5` | ஹீலி சதத்தின் உதவியுடன் பங்களாதேஷை வீழ்த்தி முதல் அணியாக அரை இறுதிக்குள் நுழைந்தது அவுஸ்திரேலியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-virakesarilk-5f7e06f5)
 - 2025-10-16 | `virakesarilk-6d4008b7` | சாவகச்சேரியில் புகையிரத விபத்தில் பெண் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-6d4008b7)
 - 2025-10-16 | `virakesarilk-394e3bc1` | யாழ்ப்பாணம், வேலணித்துறை பகுதியில் சட்டவிரோதமாக கடலட்டைகளை கொண்டு சென்ற இரண்டு நபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-394e3bc1)
 - 2025-10-16 | `lankadeepalk-569fdfe5` | පැරා ඔලිම්පික් පදක්කම් ලාබී සෙබළා දුම්රියේ ගැටිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-569fdfe5)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-16 | `tamilmirrorlk-2f72da02` | மக்களே உஷார்;பொலிஸ் முக்கிய அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-2f72da02)
 - 2025-10-16 | `virakesarilk-1bee4100` | நிர்மாணக் கைத்தொழில் அபிவிருத்தி அதிகாரசபைக்கு எதிரான வழக்குகள் தொடர்பான நடவடிக்கைகளுக்கு  அதிகாரசபையினால் 15.01 மில்லியன் ரூபாய் செலவு - கோப் குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-1bee4100)
 - 2025-10-16 | `lankadeepalk-05ebac1a` | අපේක්ෂා රෝහලේ රෝගී දරුවන් විකිණූ තිදෙනෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-05ebac1a)
-- 2025-10-16 | `lankadeepalk-a3ae7579` | උසාවිය මගහැරි  සිරකරුවෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-a3ae7579)
-- 2025-10-16 | `virakesarilk-ad22fec2` | பண்டாரவளை நிகழ்வு முற்றுமுழுதாக ஒரு ஏமாற்று வேலையாகும் - மனோ கணேசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-ad22fec2)
-- 2025-10-16 | `lankadeepalk-7bc31504` | හරිනි-ජය ශංකර් හමුවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-7bc31504)
 
 ---
 
