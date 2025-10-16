@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_06:00:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_06:29:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,147** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,150** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-16-dailyftlk-67456e48",
-    "num": "dailyftlk-67456e48",
+    "doc_id": "2025-10-16-dailyftlk-754da2d7",
+    "num": "dailyftlk-754da2d7",
     "date_str": "2025-10-16",
-    "description": "Salesforce and OpenAI partner across enterprise work and commerce",
-    "url_metadata": "https://www.ft.lk/business/Salesforce-and-OpenAI-partner-across-enterprise-work-and-commerce/34-783070",
+    "description": "Home Lands EXPO 2025 spotlights property investment opportunities",
+    "url_metadata": "https://www.ft.lk/business/Home-Lands-EXPO-2025-spotlights-property-investment-opportunities/34-783072",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1760574192.0
+    "time_ut": 1760574306.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-16 | `dailyftlk-754da2d7` | Home Lands EXPO 2025 spotlights property investment opportunities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-754da2d7)
+- 2025-10-16 | `dailyftlk-813e4000` | Virtusa expands technology centre in Sri Lanka with over 200 open roles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-813e4000)
 - 2025-10-16 | `dailyftlk-67456e48` | Salesforce and OpenAI partner across enterprise work and commerce | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-67456e48)
 - 2025-10-16 | `dailyftlk-3578663e` | CA Sri Lanka honours Niluka Jayasinghe as Best Entrepreneur 2025 for driving knowledge-based exports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-3578663e)
 - 2025-10-16 | `dailyftlk-a1ba7d68` | India’s Guru Kashi University and Oxford Chester Uni  of Higher Education Sri Lanka strengthen academic ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-a1ba7d68)
@@ -51,6 +53,7 @@ A collection of lk_news documents.
 - 2025-10-16 | `virakesarilk-09b0d577` | மன்னார் - நகரசபை, மாவட்ட செயலகத்தின் தீர்மானத்திற்கு எதிராக போராட தயாராகும் சாந்திபுரம் கிராம மக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-09b0d577)
 - 2025-10-16 | `dailyftlk-7d12544c` | Enhancing tax morale in Sri Lanka: Path to sustainable compliance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-7d12544c)
 - 2025-10-16 | `dailyftlk-d65f6178` | Beyond prediction: Rise of explainable AI in financial decision making | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-d65f6178)
+- 2025-10-16 | `tamilmirrorlk-b29182f0` | 29 இந்திய மீனவர்களுக்கு விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-b29182f0)
 - 2025-10-16 | `virakesarilk-8a5408ea` | ஓராண்டின் பின் மீண்டும் கூடுகிறது சம்பள நிர்ணயசபை; தொழில் ஆணையாளரால் தொழிற்சங்கங்களுக்கு அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-8a5408ea)
 - 2025-10-16 | `dailyftlk-9a039d39` | Promise and peril of relativism: Respecting perspectives without excusing injustice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-9a039d39)
 - 2025-10-16 | `tamilmirrorlk-167b70e9` | கொழும்பு குற்ற விசாரணைப்பிரிவில் இஷாரா செவ்வந்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-167b70e9)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-16 | `virakesarilk-75454229` | மன்னார் நகர சபை கழிவு குவியலில் மூன்றாவது நாளாகவும் தீ பரவல் ; மக்கள் அசௌகரியத்தில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-75454229)
 - 2025-10-16 | `virakesarilk-65a42126` | யாழில் தாலிக்கொடி மற்றும் பணம் என்பவற்றை திருடிய சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-65a42126)
 - 2025-10-16 | `dailyftlk-a8082ff1` | Hand in hand for better foods and a better future: Partnerships for Sri Lanka’s SDG journey | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-a8082ff1)
-- 2025-10-16 | `virakesarilk-79f450a1` | இங்கிலாந்து - பாகிஸ்தான் மகளிர் உலகக் கிண்ண கிரிக்கெட் போட்டி மழை காரணமாக இடையில் கைவிடப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-79f450a1)
-- 2025-10-16 | `virakesarilk-b82b1205` | கடந்த ஆண்டு போல் இந்த ஆண்டு கப்பல் சேவை இடைநிறுத்தப்படாது - ஜெயசீலன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-b82b1205)
-- 2025-10-15 | `islandlk-d5b567ee` | Direct Kitchens Sri Lanka to design bespoke kitchens for Oceana Villas by Home Lands Skyline | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-15-islandlk-d5b567ee)
 
 ---
 
