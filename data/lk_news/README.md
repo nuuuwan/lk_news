@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_08:13:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_09:01:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,155** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,163** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-16-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2025-10-16-lankadeepalk-f8b7bdd8",
+    "num": "lankadeepalk-f8b7bdd8",
     "date_str": "2025-10-16",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/227848",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1760575740.0
+    "description": "\u0db4\u0ddc\u0da9\u0dca\u0da9\u0dcf \u0d9a\u0dc5 \u0dc0\u0dd0\u0da9\u0dda \u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dc5 \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf\u0d9c\u0dda \u0dc0\u0dd0\u0da9 \u0dad\u0dc4\u0db1\u0db8\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0da9\u0da9-\u0d9a\u0dc5-\u0dc0\u0da9-\u0dc0\u0dc3\u0db1-\u0d9a\u0dc5-\u0dbd\u0d9a\u0d9a\u0d9c-\u0dc0\u0da9-\u0dad\u0dc4\u0db1\u0db8/101-681433",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1760584721.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-16 | `lankadeepalk-f8b7bdd8` | පොඩ්ඩා කළ වැඩේ වසන් කළ ලොක්කාගේ වැඩ තහනම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-f8b7bdd8)
+- 2025-10-16 | `lankadeepalk-0497c20e` | ලක්ෂ 20ක මත්ද්‍රව්‍ය සමඟ තිදෙනකු අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-0497c20e)
+- 2025-10-16 | `tamilmirrorlk-cb2892b8` | இன்று காலநிலையில் ஏற்படவுள்ள மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-cb2892b8)
+- 2025-10-16 | `tamilmirrorlk-3609b7dd` | இந்தியா சென்றார் பிரதமர் ஹரிணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-3609b7dd)
+- 2025-10-16 | `lankadeepalk-1de9c5ea` | අද කාලගුණය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-1de9c5ea)
+- 2025-10-16 | `adalk-34246ac5` | හාලි ඇළ නිවසකට පස් කන්දක් කඩා වැටෙයි, හතරක්ගේ දිවි බේරෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-adalk-34246ac5)
 - 2025-10-16 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-3a015e4a)
 - 2025-10-16 | `dailyftlk-754da2d7` | Home Lands EXPO 2025 spotlights property investment opportunities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-754da2d7)
 - 2025-10-16 | `dailyftlk-813e4000` | Virtusa expands technology centre in Sri Lanka with over 200 open roles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-813e4000)
@@ -51,16 +57,10 @@ A collection of lk_news documents.
 - 2025-10-16 | `dailyftlk-775ebb0d` | PC polls to be held next year under old or new system: Lalkantha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-775ebb0d)
 - 2025-10-16 | `dailyftlk-7d9d6cba` | Navy seizes 839 kg haul of drugs drifting in southern seas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-7d9d6cba)
 - 2025-10-16 | `tamilmirrorlk-53520f68` | ஆப்கானிஸ்தான் - பாகிஸ்தான் இடையில் போர் நிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-53520f68)
+- 2025-10-16 | `tamilmirrorlk-580396ab` | 8 பேரை சுட்டுக்கொன்றது ஹமாஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-580396ab)
 - 2025-10-16 | `dailyftlk-9fe2cc33` | Gaza reprieved, Geneva match-fixed, devolution auctioned, Venezuela targeted | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-9fe2cc33)
 - 2025-10-16 | `virakesarilk-09b0d577` | மன்னார் - நகரசபை, மாவட்ட செயலகத்தின் தீர்மானத்திற்கு எதிராக போராட தயாராகும் சாந்திபுரம் கிராம மக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-09b0d577)
 - 2025-10-16 | `dailyftlk-7d12544c` | Enhancing tax morale in Sri Lanka: Path to sustainable compliance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-7d12544c)
-- 2025-10-16 | `dailyftlk-d65f6178` | Beyond prediction: Rise of explainable AI in financial decision making | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-d65f6178)
-- 2025-10-16 | `tamilmirrorlk-b29182f0` | 29 இந்திய மீனவர்களுக்கு விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-b29182f0)
-- 2025-10-16 | `virakesarilk-8a5408ea` | ஓராண்டின் பின் மீண்டும் கூடுகிறது சம்பள நிர்ணயசபை; தொழில் ஆணையாளரால் தொழிற்சங்கங்களுக்கு அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-8a5408ea)
-- 2025-10-16 | `dailyftlk-9a039d39` | Promise and peril of relativism: Respecting perspectives without excusing injustice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-9a039d39)
-- 2025-10-16 | `tamilmirrorlk-167b70e9` | கொழும்பு குற்ற விசாரணைப்பிரிவில் இஷாரா செவ்வந்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-167b70e9)
-- 2025-10-16 | `virakesarilk-da9cda42` | பழைய முறையிலோ, புதிய முறையிலோ அடுத்த வருடம் மாகாணசபைத்தேர்தல்கள் - அமைச்சர் லால் காந்த உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-da9cda42)
-- 2025-10-16 | `virakesarilk-75454229` | மன்னார் நகர சபை கழிவு குவியலில் மூன்றாவது நாளாகவும் தீ பரவல் ; மக்கள் அசௌகரியத்தில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-75454229)
 
 ---
 
