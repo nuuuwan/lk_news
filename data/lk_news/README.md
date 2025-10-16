@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_18:54:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_19:22:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,303** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,305** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-16-virakesarilk-2ccfc24f",
-    "num": "virakesarilk-2ccfc24f",
+    "doc_id": "2025-10-16-virakesarilk-96d9d29f",
+    "num": "virakesarilk-96d9d29f",
     "date_str": "2025-10-16",
-    "description": "\u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8 3 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/227924",
+    "description": "\u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf  \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1  \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd, \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/227917",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1760620440.0
+    "time_ut": 1760621520.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-16 | `virakesarilk-96d9d29f` | புகையிரத நிலைய  அதிபர் சங்கத்துக்கு  புதிய தலைவர், செயலாளர் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-96d9d29f)
+- 2025-10-16 | `virakesarilk-cac4b139` | எதிர்பார்க்கப்பட்ட வரி வருவாயில் 102 வீதத்தை அடைய முடிந்தது - உள்நாட்டு இறைவரித் திணைக்களத்தின் அதிகாரிகள் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-cac4b139)
 - 2025-10-16 | `virakesarilk-2ccfc24f` | நிலுவையில் உள்ள சாரதி அனுமதிப்பத்திரங்களை 3 மாதங்களுக்குள் அச்சிட்டு வழங்க திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-2ccfc24f)
 - 2025-10-16 | `tamilmirrorlk-2f72da02` | மக்களே உஷார்;பொலிஸ் முக்கிய அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-2f72da02)
 - 2025-10-16 | `virakesarilk-1bee4100` | நிர்மாணக் கைத்தொழில் அபிவிருத்தி அதிகாரசபைக்கு எதிரான வழக்குகள் தொடர்பான நடவடிக்கைகளுக்கு  அதிகாரசபையினால் 15.01 மில்லியன் ரூபாய் செலவு - கோப் குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-1bee4100)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-16 | `virakesarilk-6b1fad93` | நடிகர் கௌஷிக் ராம் நடிக்கும் 'கிறிஸ்டினா கதிர்வேலன்' படத்தின் முதல் பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-6b1fad93)
 - 2025-10-16 | `virakesarilk-569cff9c` | 15 வயது சிறுமியை பாலியல் துஷ்பிரயோகம் செய்த 17 வயது சிறுவன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-569cff9c)
 - 2025-10-16 | `tamilmirrorlk-a1ea8fc5` | இஷாரா உள்ளிட்ட நால்வருக்கும்  72 மணிநேர தடுப்புக்காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-a1ea8fc5)
-- 2025-10-16 | `virakesarilk-22742a89` | யாழ். பருத்தித்துறை வாள் வெட்டுத் தாக்குதல் ; பொலிஸார் எடுத்த நடவடிக்கை தொடர்பாக அறிக்கை கோரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-22742a89)
-- 2025-10-16 | `lankadeepalk-928afe34` | හෙට රට බාර ගන්න තරුණයා අද හදමු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-928afe34)
 
 ---
 
