@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_18:28:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_18:54:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,298** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,303** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-16-lankadeepalk-a3ae7579",
-    "num": "lankadeepalk-a3ae7579",
+    "doc_id": "2025-10-16-virakesarilk-2ccfc24f",
+    "num": "virakesarilk-2ccfc24f",
     "date_str": "2025-10-16",
-    "description": "\u0d8b\u0dc3\u0dcf\u0dc0\u0dd2\u0dba \u0db8\u0d9c\u0dc4\u0dd0\u0dbb\u0dd2  \u0dc3\u0dd2\u0dbb\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d8b\u0dc3\u0dc0\u0dba-\u0db8\u0d9c\u0dc4\u0dbb-\u0dc3\u0dbb\u0d9a\u0dbb\u0dc0\u0d9a-\u0db8\u0da7\u0da7/1-681496",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1760618530.0
+    "description": "\u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8 3 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/227924",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1760620440.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-16 | `virakesarilk-2ccfc24f` | நிலுவையில் உள்ள சாரதி அனுமதிப்பத்திரங்களை 3 மாதங்களுக்குள் அச்சிட்டு வழங்க திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-2ccfc24f)
+- 2025-10-16 | `tamilmirrorlk-2f72da02` | மக்களே உஷார்;பொலிஸ் முக்கிய அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-2f72da02)
+- 2025-10-16 | `virakesarilk-1bee4100` | நிர்மாணக் கைத்தொழில் அபிவிருத்தி அதிகாரசபைக்கு எதிரான வழக்குகள் தொடர்பான நடவடிக்கைகளுக்கு  அதிகாரசபையினால் 15.01 மில்லியன் ரூபாய் செலவு - கோப் குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-1bee4100)
+- 2025-10-16 | `lankadeepalk-05ebac1a` | අපේක්ෂා රෝහලේ රෝගී දරුවන් විකිණූ තිදෙනෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-05ebac1a)
 - 2025-10-16 | `lankadeepalk-a3ae7579` | උසාවිය මගහැරි  සිරකරුවෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-a3ae7579)
 - 2025-10-16 | `lankadeepalk-7bc31504` | හරිනි-ජය ශංකර් හමුවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-7bc31504)
 - 2025-10-16 | `lankadeepalk-0d125b8f` | කොළඹ නගරාධිපතිනියට විපක්‍ෂය ප්‍රශ්න වැලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-0d125b8f)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-10-16 | `tamilmirrorlk-a1ea8fc5` | இஷாரா உள்ளிட்ட நால்வருக்கும்  72 மணிநேர தடுப்புக்காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-a1ea8fc5)
 - 2025-10-16 | `virakesarilk-22742a89` | யாழ். பருத்தித்துறை வாள் வெட்டுத் தாக்குதல் ; பொலிஸார் எடுத்த நடவடிக்கை தொடர்பாக அறிக்கை கோரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-22742a89)
 - 2025-10-16 | `lankadeepalk-928afe34` | හෙට රට බාර ගන්න තරුණයා අද හදමු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-928afe34)
-- 2025-10-16 | `lankadeepalk-0eea12b3` | දුම්රිය ස්ථානාධිපති සංගමයට නව සභාපති සහ ලේකම්වරයෙක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-0eea12b3)
-- 2025-10-16 | `virakesarilk-28e6c9ba` | வீட்டிற்குள் கஞ்சா பயிர்ச்செய்கை - ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-28e6c9ba)
-- 2025-10-16 | `tamilmirrorlk-9e1c5308` | 15 வயது சிறுமி துஷ்பிரயோகம்: 17 வயது சிறுவன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-9e1c5308)
-- 2025-10-16 | `virakesarilk-8df87b9c` | சரத்பொன்சேகா இறுதியுத்த சாட்சியம் வழங்குவார் என்றால் சர்வதேச குற்றவியல் விசாரணை நடாத்தப்படவேண்டும் என்பதை வலியுறுத்த வேண்டும் - கஜேந்திரகுமார் பொன்னம்பலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-8df87b9c)
 
 ---
 
