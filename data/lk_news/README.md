@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_07:13:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_08:13:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,151** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,155** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -50,6 +50,7 @@ A collection of lk_news documents.
 - 2025-10-16 | `dailyftlk-eb8a4558` | Colombo Declaration unites South-East Asia for healthy ageing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-eb8a4558)
 - 2025-10-16 | `dailyftlk-775ebb0d` | PC polls to be held next year under old or new system: Lalkantha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-775ebb0d)
 - 2025-10-16 | `dailyftlk-7d9d6cba` | Navy seizes 839 kg haul of drugs drifting in southern seas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-7d9d6cba)
+- 2025-10-16 | `tamilmirrorlk-53520f68` | ஆப்கானிஸ்தான் - பாகிஸ்தான் இடையில் போர் நிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-53520f68)
 - 2025-10-16 | `dailyftlk-9fe2cc33` | Gaza reprieved, Geneva match-fixed, devolution auctioned, Venezuela targeted | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-9fe2cc33)
 - 2025-10-16 | `virakesarilk-09b0d577` | மன்னார் - நகரசபை, மாவட்ட செயலகத்தின் தீர்மானத்திற்கு எதிராக போராட தயாராகும் சாந்திபுரம் கிராம மக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-09b0d577)
 - 2025-10-16 | `dailyftlk-7d12544c` | Enhancing tax morale in Sri Lanka: Path to sustainable compliance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-dailyftlk-7d12544c)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-16 | `tamilmirrorlk-167b70e9` | கொழும்பு குற்ற விசாரணைப்பிரிவில் இஷாரா செவ்வந்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-tamilmirrorlk-167b70e9)
 - 2025-10-16 | `virakesarilk-da9cda42` | பழைய முறையிலோ, புதிய முறையிலோ அடுத்த வருடம் மாகாணசபைத்தேர்தல்கள் - அமைச்சர் லால் காந்த உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-da9cda42)
 - 2025-10-16 | `virakesarilk-75454229` | மன்னார் நகர சபை கழிவு குவியலில் மூன்றாவது நாளாகவும் தீ பரவல் ; மக்கள் அசௌகரியத்தில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-75454229)
-- 2025-10-16 | `virakesarilk-65a42126` | யாழில் தாலிக்கொடி மற்றும் பணம் என்பவற்றை திருடிய சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-65a42126)
 
 ---
 
