@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_04:15:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_04:44:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,328** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,333** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-17-virakesarilk-bdc8fedc",
-    "num": "virakesarilk-bdc8fedc",
+    "doc_id": "2025-10-17-virakesarilk-fc722e56",
+    "num": "virakesarilk-fc722e56",
     "date_str": "2025-10-17",
-    "description": "\u0b9a\u0bae\u0bcd\u0bae\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u00a0; \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf\u0baf 17 \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/227936",
+    "description": "'\u0bb2\u0bca\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b86\u0ba4\u0bb0\u0bb5\u0bbe\u0bb3\u0bb0\u0bbe\u0ba9 \u0baa\u0bc2\u0b9a\u0b95\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/227941",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1760653620.0
+    "time_ut": 1760655840.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-17 | `virakesarilk-fc722e56` | 'லொக்கு பெட்டியின் நெருங்கிய ஆதரவாளரான பூசகர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-virakesarilk-fc722e56)
+- 2025-10-17 | `virakesarilk-0a830648` | த சொய்சா மகப்பேற்று மருத்துவமனையில் தாபிக்கப்பட்டுள்ள அதிதீவிர சிகிச்சை பிரிவு சுகாதார அமைச்சரால் திறந்து வைக்கப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-virakesarilk-0a830648)
+- 2025-10-17 | `virakesarilk-e5224cb9` | சிறுவர்களுக்கு எதிரான உடலியல் ரீதியான தண்டனைகளை முடிவுக்குக்கொண்டுவரல்: மறுசீரமைப்பின் நோக்கத்தையும் முக்கியத்துவத்தையும் மக்கள் புரிந்துகொள்ளவேண்டும் - இலங்கை மனித உரிமைகள் ஆணைக்குழு வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-virakesarilk-e5224cb9)
+- 2025-10-17 | `virakesarilk-96b5886a` | நாணய நிதியத்தின் நிர்ப்பந்தத்துக்கு மக்கள் ஆணை வழங்கவில்லை - சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-virakesarilk-96b5886a)
+- 2025-10-17 | `virakesarilk-741358d5` | யாழில் சட்டவிரோதமான முறையில் ஆமை இறைச்சியை வைத்திருந்தவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-virakesarilk-741358d5)
 - 2025-10-17 | `virakesarilk-bdc8fedc` | சம்மாந்துறை பொலிஸ் நிலைய பொறுப்பதிகாரியின் அதிரடி நடவடிக்கை ; போக்குவரத்து சட்டங்களை மீறிய 17 மோட்டார் சைக்கிள்கள் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-virakesarilk-bdc8fedc)
 - 2025-10-17 | `virakesarilk-39492699` | கொழும்பு துறைமுக மனித புதைகுழியின் அகழ்வு நிறைவு, நூற்றுக்கும் மேற்பட்ட மனித எலும்புகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-virakesarilk-39492699)
 - 2025-10-17 | `virakesarilk-2a5000c5` | பெருந்தோட்டத் தொழிலாளர்களின் சம்பள விவகாரம் ; 25ஆம் திகதிக்குள் இறுதி தீர்வு  - கிட்ணன் செல்வராஜா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-virakesarilk-2a5000c5)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-10-16 | `lankadeepalk-572ea03a` | සල්ලි අරන් නඩුවට නොආ ලෝයර්ගේ කබාය ගලවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-572ea03a)
 - 2025-10-16 | `lankadeepalk-429e2b09` | කළු සල්ලි සුදු කළැයි කපුවා කෝටි 33ක් සමග මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-lankadeepalk-429e2b09)
 - 2025-10-16 | `virakesarilk-f6b6ede4` | கடன்மறுசீரமைப்பை அடுத்து இலங்கையின்  பொருளாதார செயலாக்கத்தில் முன்னேற்றம் - சர்வதேச நாணய நிதியம் பாராட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-f6b6ede4)
-- 2025-10-16 | `virakesarilk-96d9d29f` | புகையிரத நிலைய  அதிபர் சங்கத்துக்கு  புதிய தலைவர், செயலாளர் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-96d9d29f)
-- 2025-10-16 | `virakesarilk-006d2458` | பாராளுமன்ற உறுப்பினர்களின் சம்பளம் உள்ளிட்ட கொடுப்பனவுகளை கட்சி நிதியில் வரவு வைப்பதைத் தடை செய்யக் கோரும் தயாசிறி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-006d2458)
-- 2025-10-16 | `virakesarilk-cac4b139` | எதிர்பார்க்கப்பட்ட வரி வருவாயில் 102 வீதத்தை அடைய முடிந்தது - உள்நாட்டு இறைவரித் திணைக்களத்தின் அதிகாரிகள் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-cac4b139)
-- 2025-10-16 | `virakesarilk-a7f16769` | குற்றவாளிகளைக் கொண்டாடுதலும் தண்டனைகளிலிருந்து விடுபடும் போக்கும் முடிவுக்குக் கொண்டுவரப்படவேண்டும் - மனித உரிமைகள் கண்காணிப்பகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-a7f16769)
-- 2025-10-16 | `virakesarilk-2ccfc24f` | நிலுவையில் உள்ள சாரதி அனுமதிப்பத்திரங்களை 3 மாதங்களுக்குள் அச்சிட்டு வழங்க திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-16-virakesarilk-2ccfc24f)
 
 ---
 
