@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_07:13:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_08:13:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,369** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,375** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-17-dailyftlk-8aa902bf",
-    "num": "dailyftlk-8aa902bf",
+    "doc_id": "2025-10-17-tamilmirrorlk-031befd2",
+    "num": "tamilmirrorlk-031befd2",
     "date_str": "2025-10-17",
-    "description": "C.C.A. Brito-Mutunayagam: First principal of Ceylon Law College, scholar and gentleman par excellence",
-    "url_metadata": "https://www.ft.lk/opinion/C-C-A-Brito-Mutunayagam-First-principal-of-Ceylon-Law-College-scholar-and-gentleman-par-excellence/14-783113",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1760662552.0
+    "description": "\u0bb0\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0bb5\u0bb1\u0bbf \u0bb5\u0bc0\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bc6\u0ba3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0ba4\u0bb5\u0bb1\u0bbf-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1-\u0baa\u0bc6\u0ba3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-366429",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1760668753.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-17 | `tamilmirrorlk-031befd2` | ரயிலில் இருந்து தவறி வீழ்ந்து பெண் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-tamilmirrorlk-031befd2)
+- 2025-10-17 | `tamilmirrorlk-d60070f2` | இன்று இடியுடன் கூடிய மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-tamilmirrorlk-d60070f2)
+- 2025-10-17 | `lankadeepalk-1fa57dbf` | සොයිසා රෝහලට මාතෘ අධි සත්කාර ඒකකයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-lankadeepalk-1fa57dbf)
+- 2025-10-17 | `lankadeepalk-5b66e35d` | දිවයිනේ ප්‍රදේශ රැසකට සවස වැස්ස | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-lankadeepalk-5b66e35d)
+- 2025-10-17 | `adalk-7e1926a0` | ද සොයිසා කාන්තා රෝහලේ  මාතෘ අධි  සත්කාර ඒකකය විවෘතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-adalk-7e1926a0)
 - 2025-10-17 | `dailyftlk-8aa902bf` | C.C.A. Brito-Mutunayagam: First principal of Ceylon Law College, scholar and gentleman par excellence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-8aa902bf)
 - 2025-10-17 | `dailyftlk-5405454c` | A breath of Kandy on the road | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-5405454c)
 - 2025-10-17 | `dailyftlk-bfe2e8d7` | Sirimavo Bandaranaike, the grand old lady of Sri Lankan politics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-bfe2e8d7)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-10-17 | `dailyftlk-aed5f41b` | Havelock City Mall celebrates two years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-aed5f41b)
 - 2025-10-17 | `dailyftlk-b6664993` | Govt. to boost sports tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-b6664993)
 - 2025-10-17 | `dailyftlk-573cc636` | Colombo Port seen handling record 8.2 m containers in 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-573cc636)
-- 2025-10-17 | `dailyftlk-78c10f51` | Job scam in England and Malta: Lawyer arrested for defrauding Rs. 9.41 m | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-78c10f51)
-- 2025-10-17 | `dailyftlk-5e153068` | COPE rebukes CIDA for Rs. 15 m legal costs, staff harassment claims | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-5e153068)
-- 2025-10-17 | `dailyftlk-9cd67482` | Police caution public over predatory online and mobile loan schemes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-9cd67482)
-- 2025-10-17 | `dailyftlk-6613a469` | Customs says can release vehicles held over LC issues under conditions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-6613a469)
-- 2025-10-17 | `dailyftlk-d0ed6d51` | Harini, Jaishankar discuss education, capacity building cooperation between SL, India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-d0ed6d51)
 
 ---
 
