@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_09:00:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_09:21:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,379** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,380** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-17-lankadeepalk-a2a9e6c6",
-    "num": "lankadeepalk-a2a9e6c6",
+    "doc_id": "2025-10-17-lankadeepalk-61cdfad5",
+    "num": "lankadeepalk-61cdfad5",
     "date_str": "2025-10-17",
-    "description": "\u0daf\u0dca\u0dc0\u0dd2\u0dad\u0dca\u0dc0 \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0d9a\u0da7 \u0dc3\u0dd0\u0d9a \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0daf\u0dc0\u0dad\u0dc0-\u0d9d\u0dad\u0db1\u0dba\u0d9a\u0da7-\u0dc3\u0d9a-\u0d85\u0dba\u0d9a-\u0d85\u0dbd\u0dbd\u0dba/101-681512",
+    "description": "\u0d9a\u0dd8\u0dc2\u0dd2 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd2\u0dba\u0dcf \u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca \u0daf\u0dd0\u0dbd\u0dda",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dc2-\u0db1\u0dbd\u0db0\u0dbb\u0dba-\u0d85\u0dbd\u0dbd\u0dc3-\u0daf\u0dbd/101-681513",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1760670502.0
+    "time_ut": 1760671757.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-17 | `lankadeepalk-61cdfad5` | කෘෂි නිලධාරියා අල්ලස් දැලේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-lankadeepalk-61cdfad5)
 - 2025-10-17 | `lankadeepalk-a2a9e6c6` | ද්විත්ව ඝාතනයකට සැක අයෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-lankadeepalk-a2a9e6c6)
 - 2025-10-17 | `lankadeepalk-92521c13` | වෙඩි තැබීමකට අනුබල දුන් අයෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-lankadeepalk-92521c13)
 - 2025-10-17 | `tamilmirrorlk-031befd2` | ரயிலில் இருந்து தவறி வீழ்ந்து பெண் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-tamilmirrorlk-031befd2)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-17 | `dailyftlk-313a1fda` | Lanka Ashok Leyland reports strong first half results with Rs. 7.75 b revenue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-313a1fda)
 - 2025-10-17 | `dailyftlk-fe6c8504` | Dumindra Ratnayaka appointed Chairman of Avinya Foundation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-fe6c8504)
 - 2025-10-17 | `dailyftlk-4f4e3cca` | Mithila Wegapitiya joins LAUGFS Gas, LAUGFS Power Boards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-4f4e3cca)
-- 2025-10-17 | `dailyftlk-a94a1b57` | Great Place To Work holds CXO Forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-a94a1b57)
 
 ---
 
