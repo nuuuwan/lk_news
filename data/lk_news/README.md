@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_08:13:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_09:00:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,375** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,379** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-17-tamilmirrorlk-031befd2",
-    "num": "tamilmirrorlk-031befd2",
+    "doc_id": "2025-10-17-lankadeepalk-a2a9e6c6",
+    "num": "lankadeepalk-a2a9e6c6",
     "date_str": "2025-10-17",
-    "description": "\u0bb0\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0bb5\u0bb1\u0bbf \u0bb5\u0bc0\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bc6\u0ba3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0ba4\u0bb5\u0bb1\u0bbf-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1-\u0baa\u0bc6\u0ba3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-366429",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1760668753.0
+    "description": "\u0daf\u0dca\u0dc0\u0dd2\u0dad\u0dca\u0dc0 \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0d9a\u0da7 \u0dc3\u0dd0\u0d9a \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0daf\u0dc0\u0dad\u0dc0-\u0d9d\u0dad\u0db1\u0dba\u0d9a\u0da7-\u0dc3\u0d9a-\u0d85\u0dba\u0d9a-\u0d85\u0dbd\u0dbd\u0dba/101-681512",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1760670502.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-17 | `lankadeepalk-a2a9e6c6` | ද්විත්ව ඝාතනයකට සැක අයෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-lankadeepalk-a2a9e6c6)
+- 2025-10-17 | `lankadeepalk-92521c13` | වෙඩි තැබීමකට අනුබල දුන් අයෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-lankadeepalk-92521c13)
 - 2025-10-17 | `tamilmirrorlk-031befd2` | ரயிலில் இருந்து தவறி வீழ்ந்து பெண் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-tamilmirrorlk-031befd2)
+- 2025-10-17 | `adalk-512f0bfb` | රිය අනතුරු 7කින් 8ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-adalk-512f0bfb)
 - 2025-10-17 | `tamilmirrorlk-d60070f2` | இன்று இடியுடன் கூடிய மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-tamilmirrorlk-d60070f2)
 - 2025-10-17 | `lankadeepalk-1fa57dbf` | සොයිසා රෝහලට මාතෘ අධි සත්කාර ඒකකයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-lankadeepalk-1fa57dbf)
 - 2025-10-17 | `lankadeepalk-5b66e35d` | දිවයිනේ ප්‍රදේශ රැසකට සවස වැස්ස | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-lankadeepalk-5b66e35d)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-17 | `dailyftlk-fe6c8504` | Dumindra Ratnayaka appointed Chairman of Avinya Foundation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-fe6c8504)
 - 2025-10-17 | `dailyftlk-4f4e3cca` | Mithila Wegapitiya joins LAUGFS Gas, LAUGFS Power Boards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-4f4e3cca)
 - 2025-10-17 | `dailyftlk-a94a1b57` | Great Place To Work holds CXO Forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-a94a1b57)
-- 2025-10-17 | `dailyftlk-aed5f41b` | Havelock City Mall celebrates two years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-aed5f41b)
-- 2025-10-17 | `dailyftlk-b6664993` | Govt. to boost sports tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-b6664993)
-- 2025-10-17 | `dailyftlk-573cc636` | Colombo Port seen handling record 8.2 m containers in 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-573cc636)
 
 ---
 
