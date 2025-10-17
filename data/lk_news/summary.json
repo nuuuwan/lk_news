@@ -2,7 +2,7 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-17 21:16:11",
+  "time_updated": "2025-10-17 21:46:48",
   "n_docs": 81533,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 81533,
@@ -10,7 +10,7 @@
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-17",
-  "dataset_size": 1203617672,
+  "dataset_size": 1203629877,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
