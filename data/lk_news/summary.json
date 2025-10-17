@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-17 06:29:47",
-  "n_docs": 81363,
+  "time_updated": "2025-10-17 07:13:09",
+  "n_docs": 81369,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 81363,
+  "n_docs_with_text": 81369,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-17",
-  "dataset_size": 1200477204,
+  "dataset_size": 1200634641,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-17-dailyftlk-5405454c",
-    "num": "dailyftlk-5405454c",
+    "doc_id": "2025-10-17-dailyftlk-8aa902bf",
+    "num": "dailyftlk-8aa902bf",
     "date_str": "2025-10-17",
-    "description": "A breath of Kandy on the road",
-    "url_metadata": "https://www.ft.lk/columns/A-breath-of-Kandy-on-the-road/4-783112",
+    "description": "C.C.A. Brito-Mutunayagam: First principal of Ceylon Law College, scholar and gentleman par excellence",
+    "url_metadata": "https://www.ft.lk/opinion/C-C-A-Brito-Mutunayagam-First-principal-of-Ceylon-Law-College-scholar-and-gentleman-par-excellence/14-783113",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1760662414.0
+    "time_ut": 1760662552.0
   }
 }

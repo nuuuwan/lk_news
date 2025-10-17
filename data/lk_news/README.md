@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_06:30:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_07:13:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,363** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,369** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-17-dailyftlk-5405454c",
-    "num": "dailyftlk-5405454c",
+    "doc_id": "2025-10-17-dailyftlk-8aa902bf",
+    "num": "dailyftlk-8aa902bf",
     "date_str": "2025-10-17",
-    "description": "A breath of Kandy on the road",
-    "url_metadata": "https://www.ft.lk/columns/A-breath-of-Kandy-on-the-road/4-783112",
+    "description": "C.C.A. Brito-Mutunayagam: First principal of Ceylon Law College, scholar and gentleman par excellence",
+    "url_metadata": "https://www.ft.lk/opinion/C-C-A-Brito-Mutunayagam-First-principal-of-Ceylon-Law-College-scholar-and-gentleman-par-excellence/14-783113",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1760662414.0
+    "time_ut": 1760662552.0
 }
 ```
 
@@ -41,9 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-17 | `dailyftlk-8aa902bf` | C.C.A. Brito-Mutunayagam: First principal of Ceylon Law College, scholar and gentleman par excellence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-8aa902bf)
 - 2025-10-17 | `dailyftlk-5405454c` | A breath of Kandy on the road | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-5405454c)
 - 2025-10-17 | `dailyftlk-bfe2e8d7` | Sirimavo Bandaranaike, the grand old lady of Sri Lankan politics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-bfe2e8d7)
 - 2025-10-17 | `dailyftlk-debbdb5e` | To improve education, fix the tax system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-debbdb5e)
+- 2025-10-17 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-virakesarilk-3a015e4a)
 - 2025-10-17 | `dailyftlk-51fa4a69` | Another health ‘bill’ for the consumer to foot? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-51fa4a69)
 - 2025-10-17 | `dailyftlk-9cb81f49` | Central Expressway resumption a milestone of Sri Lanka-China friendship under BRI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-9cb81f49)
 - 2025-10-17 | `dailyftlk-18e617ae` | Cities ready for the future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-18e617ae)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-17 | `dailyftlk-9cd67482` | Police caution public over predatory online and mobile loan schemes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-9cd67482)
 - 2025-10-17 | `dailyftlk-6613a469` | Customs says can release vehicles held over LC issues under conditions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-6613a469)
 - 2025-10-17 | `dailyftlk-d0ed6d51` | Harini, Jaishankar discuss education, capacity building cooperation between SL, India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-d0ed6d51)
-- 2025-10-17 | `dailyftlk-4ca977b5` | Over 300,000 driver’s licences  to be issued within three months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-4ca977b5)
-- 2025-10-17 | `dailyftlk-169f6651` | Parliament to take up Personal Data Protection (Amendment) Bill next week | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-dailyftlk-169f6651)
 
 ---
 
