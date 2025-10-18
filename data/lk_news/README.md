@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--18_10:45:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--18_11:15:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,584** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,585** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2025-10-18 | `virakesarilk-3102099b` | சம்பள நிர்ணய சபையை புறக்கணித்தது முதலாளிமார் சம்மேளனம் ; அரசாங்கத்தை பிரதிநிதித்துவப்படுத்தும் தொழிற்சங்கமே பங்கேற்காத நிலை ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-3102099b)
 - 2025-10-18 | `virakesarilk-95580b2f` | அரச உத்தியோகத்தர்கள் மீதுள்ள அக்கறை பெருந்தோட்ட தொழிலாளர்கள் மீதில்லையா ? - பெருந்தோட்ட தொழிற்சங்கங்கள் கடும் அதிருப்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-95580b2f)
 - 2025-10-18 | `tamilmirrorlk-9fbab9c5` | அர்ஜுன் மகேந்திரனின் புதிய புகைப்படம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-tamilmirrorlk-9fbab9c5)
+- 2025-10-18 | `adalk-81470171` | අදත් බොහෝ ප්‍රදේශවලට වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-adalk-81470171)
 - 2025-10-18 | `adalk-113c0ccf` | ඉෂාරාට සැඟවීමට ආධාර දුන් බෑනා හා නැන්දම්මා අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-adalk-113c0ccf)
 - 2025-10-18 | `tamilmirrorlk-3386250d` | இன்று 100 மில்லிமீற்றருக்கும் அதிகமான கனமழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-tamilmirrorlk-3386250d)
 - 2025-10-18 | `tamilmirrorlk-f495bc87` | இன்று 100 மில்லி மீற்றர் மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-tamilmirrorlk-f495bc87)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-18 | `virakesarilk-9c5d8f68` | அடைவுகளைத் தக்கவைப்பதற்கு மறுசீரமைப்புக்களைத் தொடருங்கள் - சர்வதேச நாணய நிதியம் வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-9c5d8f68)
 - 2025-10-18 | `dailyftlk-f09e2aa3` | Batting maestro Aravinda celebrates 60 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-dailyftlk-f09e2aa3)
 - 2025-10-18 | `virakesarilk-9ed8f660` | முன்னாள் சிறைச்சாலை அதிகாரி படுகொலை செய்யப்பட்ட சம்பவத்தில் மேலும் ஒரு சந்தேகநபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-9ed8f660)
-- 2025-10-17 | `lankadeepalk-eccc0316` | බෙලෙක්කඩේ හන්දියේ ලොකු ගින්නක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-17-lankadeepalk-eccc0316)
 
 ---
 
