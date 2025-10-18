@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--18_16:45:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--18_17:14:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,622** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,623** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A collection of lk_news documents.
 - 2025-10-18 | `tamilmirrorlk-abc0da38` | 30 கோடி ரூபாய் பெறுமதியான கஜமுத்துக்களுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-tamilmirrorlk-abc0da38)
 - 2025-10-18 | `lankadeepalk-d375aaee` | විනයක් වගකීමක් ඇති රාජ්‍ය සේවයක් රටට ඕනෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-d375aaee)
 - 2025-10-18 | `virakesarilk-ef57a98a` | திருமலைக்கு ஜனாதிபதி விஜயம்  ; முத்து நகர் ,கிண்ணியா வான் எல விவசாயிகள் போராட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-ef57a98a)
+- 2025-10-18 | `adalk-42f5c582` | කාසල්රී ජලතර ගුවන්තොටුපලක් බවට සහතික කිරීමට පරීක්ෂණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-adalk-42f5c582)
 - 2025-10-18 | `lankadeepalk-c967208f` | මෝදිගෙන් හරිනිට පොරොන්දුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-c967208f)
 - 2025-10-18 | `lankadeepalk-896b4deb` | නාය අනතුරු: දිස්ත්‍රික්ක 11කට රතු එළි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-896b4deb)
 - 2025-10-18 | `virakesarilk-60b9e96f` | அநுராதபுரத்தில் விபத்து ; ஒருவர் பலி ; மூவர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-60b9e96f)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-18 | `virakesarilk-4cab62bb` | வவுணதீவில் போலி அனுமதி பத்திரத்துடன் மணல் ஏற்றி சென்ற  இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-4cab62bb)
 - 2025-10-18 | `tamilmirrorlk-10d3ca40` | முன்னாள் காதலர் பற்றி இஷாரா வெளியிட்ட தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-tamilmirrorlk-10d3ca40)
 - 2025-10-18 | `virakesarilk-783e2489` | இராஜாங்கனை, அங்கமுவ நீர்த்தேக்கங்களின் வான் கதவுகள் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-783e2489)
-- 2025-10-18 | `virakesarilk-917af295` | பல கோடி ரூபா பெறுமதியான கஜமுத்துக்களுடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-917af295)
 
 ---
 
