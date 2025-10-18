@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--18_17:48:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--18_18:26:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,624** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,641** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-18-lankadeepalk-ba2ac015",
-    "num": "lankadeepalk-ba2ac015",
+    "doc_id": "2025-10-18-tamilmirrorlk-96694a4f",
+    "num": "tamilmirrorlk-96694a4f",
     "date_str": "2025-10-18",
-    "description": "\u0dbd\u0ddc\u0d9a\u0dd4 \u0db8\u0ddd\u0dbb\u0dd4 18\u0d9a\u0dca \u0dc3\u0dad\u0ddc\u0dc3\u0da7 \u0db4\u0ddc\u0dbd\u0dd4 \u0dad\u0dd2\u0dba\u0dbd\u0dcf",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d9a-\u0db8\u0dbb-18\u0d9a-\u0dc3\u0dad\u0dc3\u0da7-\u0db4\u0dbd-\u0dad\u0dba\u0dbd/1-681592",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1760788057.0
+    "description": "\u0b87\u0bb0\u0bbe\u0b9c\u0bbe\u0b99\u0bcd\u0b95\u0ba9\u0bc8 \u0ba8\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc7\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bbe\u0ba9\u0bcd\u0b95\u0ba4\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0bbe\u0b9c\u0bbe\u0b99\u0bcd\u0b95\u0ba9\u0bc8-\u0ba8\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc7\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbe\u0ba9\u0bcd\u0b95\u0ba4\u0bb5\u0bc1\u0b95\u0bb3\u0bcd-\u0ba4\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1/175-366477",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1760791816.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-18 | `tamilmirrorlk-96694a4f` | இராஜாங்கனை நீர்த்தேக்கத்தின் வான்கதவுகள் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-tamilmirrorlk-96694a4f)
+- 2025-10-18 | `lankadeepalk-f0157aa7` | කතානායකට ගේන විශ්වාසභංගයේ වැඩ අවසන්: 21 පක්ෂ නායකයන්ට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-f0157aa7)
+- 2025-10-18 | `lankadeepalk-59c1ad6a` | ඇමෙරිකාවේ සිට බෞද්ධ දූතපිරිසක් දිවයිනට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-59c1ad6a)
 - 2025-10-18 | `lankadeepalk-ba2ac015` | ලොකු මෝරු 18ක් සතොසට පොලු තියලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-ba2ac015)
+- 2025-10-18 | `virakesarilk-84e279b9` | பஸ்ஸில் போதைப்பொருள் கடத்திய சாரதி உட்பட இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-84e279b9)
+- 2025-10-18 | `virakesarilk-d0f7f3fc` | இயக்குநர் சேரன் நடிக்கும் 'லேடிஸ் ஹாஸ்டல் 'படத்தின் தொடக்க விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-d0f7f3fc)
+- 2025-10-18 | `virakesarilk-f440b8e2` | பான் இந்திய நடிகர் ராஜ் பி. ஷெட்டி நடிக்கும் 'ஜுகாரி கிராஸ் ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-f440b8e2)
+- 2025-10-18 | `virakesarilk-53f68075` | தொழில்முறை பொறுப்பை முறையாக நிறைவேற்றும் ஒரு அரச சேவை  நாட்டுக்கு அவசியம் ; இந்த விடயத்தில் இலங்கை விமானப்படையின் பங்களிப்பு முன்மாதிரியானது - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-53f68075)
+- 2025-10-18 | `virakesarilk-297c3923` | 'நடன புயல்' பிரபுதேவா வெளியிட்ட மாஸ்டர் மகேந்திரனின் 'பல்ஸ்' பட ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-297c3923)
+- 2025-10-18 | `virakesarilk-d800eb81` | நடிகர் ஜீவா நடிக்கும் 'தலைவர் தம்பி தலைமையில்' படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-d800eb81)
+- 2025-10-18 | `virakesarilk-83e22dfe` | முச்சக்கரவண்டி விபத்தில் சிறுவன் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-83e22dfe)
+- 2025-10-18 | `virakesarilk-c2156c8b` | மஹியங்கனையில் விபத்தில் சிக்கி முதியவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-c2156c8b)
+- 2025-10-18 | `virakesarilk-270d1457` | மருதானையில் 2,562 பொதிகளுடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-270d1457)
 - 2025-10-18 | `tamilmirrorlk-ddca4b94` | பேருந்தில் ஹரோயின் மற்றும் ஐஸ் கடத்திய சாரதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-tamilmirrorlk-ddca4b94)
 - 2025-10-18 | `tamilmirrorlk-abc0da38` | 30 கோடி ரூபாய் பெறுமதியான கஜமுத்துக்களுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-tamilmirrorlk-abc0da38)
+- 2025-10-18 | `virakesarilk-90881f73` | காசல்ரீ நீர்த்தேக்கத்தை நீர் விமான நிலையமாக சான்றளிக்க ஆய்வுப் பறப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-90881f73)
 - 2025-10-18 | `lankadeepalk-d375aaee` | විනයක් වගකීමක් ඇති රාජ්‍ය සේවයක් රටට ඕනෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-d375aaee)
+- 2025-10-18 | `virakesarilk-c2e717b8` | யாழில் கைக்குண்டு, வாளுடன் இளைஞன் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-c2e717b8)
+- 2025-10-18 | `virakesarilk-95e9fdca` | சொகுசு பஸ் - கார் மோதி விபத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-95e9fdca)
 - 2025-10-18 | `virakesarilk-ef57a98a` | திருமலைக்கு ஜனாதிபதி விஜயம்  ; முத்து நகர் ,கிண்ணியா வான் எல விவசாயிகள் போராட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-ef57a98a)
-- 2025-10-18 | `adalk-42f5c582` | කාසල්රී ජලතර ගුවන්තොටුපලක් බවට සහතික කිරීමට පරීක්ෂණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-adalk-42f5c582)
-- 2025-10-18 | `lankadeepalk-c967208f` | මෝදිගෙන් හරිනිට පොරොන්දුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-c967208f)
-- 2025-10-18 | `lankadeepalk-896b4deb` | නාය අනතුරු: දිස්ත්‍රික්ක 11කට රතු එළි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-896b4deb)
-- 2025-10-18 | `virakesarilk-60b9e96f` | அநுராதபுரத்தில் விபத்து ; ஒருவர் பலி ; மூவர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-60b9e96f)
-- 2025-10-18 | `virakesarilk-47a6290a` | ஐந்தாவது நாளாக தொடரும் புல்மோட்டை கணிய மணல் கூட்டுத் தாபன ஊழியர்களின் ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-47a6290a)
-- 2025-10-18 | `lankadeepalk-667f430b` | වන්නිනාක‌ සහ පුතාගෙන් පොලිසිය ප්‍රකාශයක් ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-667f430b)
-- 2025-10-18 | `tamilmirrorlk-56d07915` | இஷாரா உள்ளிட்டவர்கள் குறித்து எடுக்கப்பட்டுள்ள தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-tamilmirrorlk-56d07915)
-- 2025-10-18 | `virakesarilk-8bd43c59` | ஹமாஸ் தாக்குதலை வழிநடத்தியதாகக் கூறப்படும் நபர் அமெரிக்காவில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-8bd43c59)
-- 2025-10-18 | `lankadeepalk-4e0e1103` | පෝසත් ලංකාවක් හදන්න කාගේත් සහය ගන්නවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-4e0e1103)
-- 2025-10-18 | `adalk-f6b20b62` | ප්‍රභල අකුණු පිළිබඳ අනතුරු ඇඟවීමේ නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-adalk-f6b20b62)
-- 2025-10-18 | `virakesarilk-ab4fa77d` | கடும் மின்னல் தாக்கம் குறித்து பொதுமக்களுக்கு எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-ab4fa77d)
-- 2025-10-18 | `virakesarilk-1df6856f` | சுபீட்சமான இலங்கைக்காக இந்தியா உள்ளிட்ட சர்வதேச சமூகத்துடன் இணைந்து பணியாற்ற அரசாங்கம் தயார் - இந்தியாவில் பிரதமர் ஹரிணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-1df6856f)
-- 2025-10-18 | `lankadeepalk-fe67017c` | ලංකා බදු ප්‍රතිපත්තිය ගැන වසන්ත ස්විස්ටර්ලන්තයට කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-fe67017c)
-- 2025-10-18 | `virakesarilk-4cab62bb` | வவுணதீவில் போலி அனுமதி பத்திரத்துடன் மணல் ஏற்றி சென்ற  இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-4cab62bb)
-- 2025-10-18 | `tamilmirrorlk-10d3ca40` | முன்னாள் காதலர் பற்றி இஷாரா வெளியிட்ட தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-tamilmirrorlk-10d3ca40)
 
 ---
 
