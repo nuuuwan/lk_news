@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--18_15:14:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--18_15:44:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,618** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,619** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-18-lankadeepalk-c967208f",
-    "num": "lankadeepalk-c967208f",
+    "doc_id": "2025-10-18-virakesarilk-ef57a98a",
+    "num": "virakesarilk-ef57a98a",
     "date_str": "2025-10-18",
-    "description": "\u0db8\u0ddd\u0daf\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0dc4\u0dbb\u0dd2\u0db1\u0dd2\u0da7 \u0db4\u0ddc\u0dbb\u0ddc\u0db1\u0dca\u0daf\u0dd4\u0dc0\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0daf\u0d9c\u0db1-\u0dc4\u0dbb\u0db1\u0da7-\u0db4\u0dbb\u0db1\u0daf\u0dc0\u0d9a/101-681581",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1760779464.0
+    "description": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd  ; \u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0b95\u0bb0\u0bcd ,\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bbf\u0baf\u0bbe \u0bb5\u0bbe\u0ba9\u0bcd \u0b8e\u0bb2 \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/228069",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1760780880.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-18 | `virakesarilk-ef57a98a` | திருமலைக்கு ஜனாதிபதி விஜயம்  ; முத்து நகர் ,கிண்ணியா வான் எல விவசாயிகள் போராட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-ef57a98a)
 - 2025-10-18 | `lankadeepalk-c967208f` | මෝදිගෙන් හරිනිට පොරොන්දුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-c967208f)
 - 2025-10-18 | `lankadeepalk-896b4deb` | නාය අනතුරු: දිස්ත්‍රික්ක 11කට රතු එළි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-896b4deb)
 - 2025-10-18 | `virakesarilk-60b9e96f` | அநுராதபுரத்தில் விபத்து ; ஒருவர் பலி ; மூவர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-60b9e96f)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-18 | `virakesarilk-5eaa4d32` | ஹெச்-1பி விசா கட்டண உயர்வு : டிரம்ப் நிர்வாகத்துக்கு எதிராக அமெரிக்க வர்த்தக சபை வழக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-5eaa4d32)
 - 2025-10-18 | `lankadeepalk-08559ea2` | හිටපු කතානායකවරයෙක් මාසෙකට ලක්ෂ තුනහමාරක කාලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-08559ea2)
 - 2025-10-18 | `virakesarilk-2f1015f7` | எல்ல 9 வளைவு பாலத்தை பார்வையிடச் சென்ற சுற்றுலாப் பயணிக்கு நேர்ந்த விபரீதம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-2f1015f7)
-- 2025-10-18 | `virakesarilk-05b51598` | கனடாவில் இந்திய நடிகர் கபில் சர்மாவின் ஹோட்டலில் துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-05b51598)
 
 ---
 
