@@ -1,4 +1,5 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-18-tamilmirrorlk-9fbab9c5	tamilmirrorlk-9fbab9c5	2025-10-18	அர்ஜுன் மகேந்திரனின் புதிய புகைப்படம் வெளியீடு	https://www.tamilmirror.lk/செய்திகள்/அர்ஜுன்-மகேந்திரனின்-புதிய-புகைப்படம்-வெளியீடு/175-366472	ta	tamilmirrorlk	1760757729.0
 lk_news	2025-10-18-tamilmirrorlk-3386250d	tamilmirrorlk-3386250d	2025-10-18	இன்று 100 மில்லிமீற்றருக்கும் அதிகமான கனமழை பெய்யும்	https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லிமீற்றருக்கும்-அதிகமான-கனமழை-பெய்யும்/175-366471	ta	tamilmirrorlk	1760756181.0
 lk_news	2025-10-18-tamilmirrorlk-f495bc87	tamilmirrorlk-f495bc87	2025-10-18	இன்று 100 மில்லி மீற்றர் மழை	https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லி-மீற்றர்-மழை/175-366470	ta	tamilmirrorlk	1760752995.0
 lk_news	2025-10-18-tamilmirrorlk-8f9bdfde	tamilmirrorlk-8f9bdfde	2025-10-18	பங்களாதேஷில் மீண்டும் போராட்டம்	https://www.tamilmirror.lk/உலக-செய்திகள்/பங்களாதேஷில்-மீண்டும்-போராட்டம்/50-366469	ta	tamilmirrorlk	1760752256.0
@@ -120,6 +121,7 @@ lk_news	2025-10-17-virakesarilk-cd14dff0	virakesarilk-cd14dff0	2025-10-17	இய
 lk_news	2025-10-17-virakesarilk-ef293ba0	virakesarilk-ef293ba0	2025-10-17	நோய்வாய்ப்பட்ட குழந்தைகளின் புகைப்படங்களை சமூக ஊடகங்களில் பதிவிட்டு பணம் பறித்த கும்பல் கைது!	https://www.virakesari.lk/article/227982	ta	virakesarilk	1760688300.0
 lk_news	2025-10-17-adalk-4dd4faff	adalk-4dd4faff	2025-10-17	ලක්ෂ 12ක අල්ලස් ගත් කෘපනි අත්අඩංගුවට	https://www.ada.lk/breaking_news/ලක්ෂ-12ක-අල්ලස්-ගත්-කෘපනි-අත්අඩංගුවට/11-419167	si	adalk	1760688210.0
 lk_news	2025-10-17-adalk-177f8385	adalk-177f8385	2025-10-17	ශ්‍රී ලන්කන් අලාභය සියයට 15.1කින් අඩුවෙයි	https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-අලාභය-සියයට-15-1කින්-අඩුවෙයි/11-419166	si	adalk	1760687946.0
+lk_news	2025-10-17-adalk-364e392b	adalk-364e392b	2025-10-17	2024දී සතොස අලාභය රු. බිලියනය ඉක්මවයි	https://www.ada.lk/breaking_news/2024දී-සතොස-අලාභය-රු--බිලියනය-ඉක්මවයි/11-419165	si	adalk	1760687656.0
 lk_news	2025-10-17-adalk-0eb237f9	adalk-0eb237f9	2025-10-17	අරක්කු නිෂ්පාදන ආයතන පහකින් රජයට රු. කෝටි 633ක බදු පොල්ලක්	https://www.ada.lk/breaking_news/අරක්කු-නිෂ්පාදන-ආයතන-පහකින්-රජයට-රු--කෝටි-633ක-බදු-පොල්ලක්/11-419164	si	adalk	1760687388.0
 lk_news	2025-10-17-lankadeepalk-ecb33665	lankadeepalk-ecb33665	2025-10-17	බෙහෙත් කළු කඩ මට්ටුවට රජයෙන් වෙට්ටුවක්	https://www.lankadeepa.lk/news/බහත-කළ-කඩ-මටටවට-රජයන-වටටවක/101-681549	si	lankadeepalk	1760687340.0
 lk_news	2025-10-17-tamilmirrorlk-0fcc6bbe	tamilmirrorlk-0fcc6bbe	2025-10-17	குழந்தைக்கு வழங்கப்பட்ட மருந்தில் புழுக்கள்  நெளிந்தன	https://www.tamilmirror.lk/செய்திகள்/குழந்தைக்கு-வழங்கப்பட்ட-மருந்தில்-புழுக்கள்-நெளிந்தன/175-366440	ta	tamilmirrorlk	1760686762.0
@@ -997,5 +999,3 @@ lk_news	2025-10-13-lankadeepalk-cb6d0cbd	lankadeepalk-cb6d0cbd	2025-10-13	ජා
 lk_news	2025-10-13-adalk-e0bfac0e	adalk-e0bfac0e	2025-10-13	දේශීය පරිසර පද්ධතියේ කාබන් අවම කිරීමේ ක්‍රියාවලියට සහායක්	https://www.ada.lk/business/දේශීය-පරිසර-පද්ධතියේ-කාබන්-අවම-කිරීමේ-ක්‍රියාවලියට-සහායක්/7-419059	si	adalk	1760343727.0
 lk_news	2025-10-13-virakesarilk-b15a2556	virakesarilk-b15a2556	2025-10-13	நடிகர் விமல் நடிக்கும் 'மகா சேனா' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு	https://www.virakesari.lk/article/227607	ta	virakesarilk	1760343720.0
 lk_news	2025-10-13-tamilmirrorlk-6d626a5a	tamilmirrorlk-6d626a5a	2025-10-13	இலங்கை தலைமை தாங்குகிறது	https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தலைமை-தாங்குகிறது/175-366189	ta	tamilmirrorlk	1760343394.0
-lk_news	2025-10-13-tamilmirrorlk-43c019bf	tamilmirrorlk-43c019bf	2025-10-13	கூகுளில் அதிகம் தேடப்பட்ட நடிகை	https://www.tamilmirror.lk/cinema/கூகுளில்-அதிகம்-தேடப்பட்ட-நடிகை/54-366188	ta	tamilmirrorlk	1760343246.0
-lk_news	2025-10-13-virakesarilk-9b3a77a8	virakesarilk-9b3a77a8	2025-10-13	சரத்குமார் - சண்முக பாண்டியன் இணைந்து மிரட்டும் 'கொம்பு சீவி' படத்தின் டீசர்	https://www.virakesari.lk/article/227604	ta	virakesarilk	1760343060.0
