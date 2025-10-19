@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--19_12:21:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--19_12:45:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,742** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,745** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-19-tamilmirrorlk-429b3f8d",
-    "num": "tamilmirrorlk-429b3f8d",
+    "doc_id": "2025-10-19-lankadeepalk-0a9ec97e",
+    "num": "lankadeepalk-0a9ec97e",
     "date_str": "2025-10-19",
-    "description": "\u0b95\u0ba3\u0bb5\u0ba9\u0bcd \u0b87\u0bb1\u0ba8\u0bcd\u0ba4 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0ba8\u0bbe\u0bb3\u0bc7 \u0b86\u0ba3\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0ba9\u0bc8\u0bb5\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0ba3\u0bb5\u0ba9\u0bcd-\u0b87\u0bb1\u0ba8\u0bcd\u0ba4-\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd-\u0ba8\u0bbe\u0bb3\u0bc7-\u0b86\u0ba3\u0bc1\u0bb1\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0bae\u0ba9\u0bc8\u0bb5\u0bbf/175-366494",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1760856339.0
+    "description": "\u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf\u0dc0\u0dad\u0dca \u0d9c\u0ddc\u0dc0\u0dd2\u0dba\u0dcf \u0db8\u0d82\u0db8\u0dd4\u0dbd\u0dcf \u0d9a\u0dc5\u0dcf",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dbd\u0db8\u0dc0\u0dad-\u0d9c\u0dc0\u0dba-\u0db8\u0db8\u0dbd-\u0d9a\u0dc5/101-681623",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1760857927.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-19 | `lankadeepalk-0a9ec97e` | මාලිමාවත් ගොවියා මංමුලා කළා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-0a9ec97e)
+- 2025-10-19 | `lankadeepalk-6ab6dc2c` | කලා වැව වාන් දමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-6ab6dc2c)
+- 2025-10-19 | `tamilmirrorlk-9f5eb66b` | நீர்த்தேக்கங்களில் வான்கதவுகள் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-tamilmirrorlk-9f5eb66b)
 - 2025-10-19 | `tamilmirrorlk-429b3f8d` | கணவன் இறந்த இரண்டாம் நாளே ஆணுறையுடன் சிக்கிய மனைவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-tamilmirrorlk-429b3f8d)
 - 2025-10-19 | `lankadeepalk-ea7c8a37` | බාලේ සිට සතුටින් ඉන්න හැටි කියන්න වැඩක් අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-ea7c8a37)
 - 2025-10-19 | `tamilmirrorlk-3acd0c1c` | ”வேட்பு மனுவுக்கு பொலிஸ் அறிக்கை கட்டாயம்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-tamilmirrorlk-3acd0c1c)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-19 | `virakesarilk-9f22fe8d` | இராணுவத்தால் பல்துறை மருத்துவ முகாம் ஏற்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-virakesarilk-9f22fe8d)
 - 2025-10-19 | `lankadeepalk-f3ddaa29` | පොහොට්ටුවෙන් ඡන්දය ඉල්ලන්න පොලිස් වාර්තාව අනිවාර්යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-f3ddaa29)
 - 2025-10-19 | `tamilmirrorlk-1c9cafd5` | மறுபரிசீலனை முடிவுகள் வெளியாகின | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-tamilmirrorlk-1c9cafd5)
-- 2025-10-19 | `tamilmirrorlk-8d340d65` | ”மாகாண சபைத் தேர்தலுக்கு சட்டமே சிக்கல்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-tamilmirrorlk-8d340d65)
-- 2025-10-19 | `virakesarilk-f36cc6c0` | தரம் 5 புலமைப்பரிசில் பரீட்சை மீள் திருத்த பெறுபேறுகள் வௌியானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-virakesarilk-f36cc6c0)
-- 2025-10-19 | `virakesarilk-129563dd` | பாகிஸ்தானும் ஆப்கானிஸ்தானும் உடனடி போர் நிறுத்தத்துக்கு இணக்கம் - கட்டார் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-virakesarilk-129563dd)
 
 ---
 
