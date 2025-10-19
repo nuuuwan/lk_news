@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--20_01:46:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--20_02:15:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,806** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,807** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-19-lankadeepalk-56c9add7",
-    "num": "lankadeepalk-56c9add7",
-    "date_str": "2025-10-19",
-    "description": "\u0d9a\u0ddc\u0dc5\u0db9 - \u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd \u0db4\u0dcf\u0dbb\u0da7 \u0d9c\u0dbd\u0dca \u0dc0\u0dd0\u0da7\u0dd3\u0db8\u0dda \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dc5\u0db9-\u0db6\u0daf\u0dbd\u0dbd-\u0db4\u0dbb\u0da7-\u0d9c\u0dbd-\u0dc0\u0da7\u0db8-\u0d85\u0dc0\u0daf\u0db1\u0db8\u0d9a/101-681655",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1760895734.0
+    "doc_id": "2025-10-20-virakesarilk-a5782034",
+    "num": "virakesarilk-a5782034",
+    "date_str": "2025-10-20",
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc8 4 \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3 \u0b85\u0bb0\u0bc8 \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1 \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/228164",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1760903400.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-20 | `virakesarilk-a5782034` | இந்தியாவை 4 ஓட்டங்களால் வென்று உலகக் கிண்ண அரை இறுதி வாய்ப்பை உறுதிசெய்தது இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-virakesarilk-a5782034)
 - 2025-10-19 | `lankadeepalk-56c9add7` | කොළඹ - බදුල්ල පාරට ගල් වැටීමේ අවදානමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-56c9add7)
 - 2025-10-19 | `lankadeepalk-c361c799` | තැපැල් දුම්රිය දෙකක් අවලංගුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-c361c799)
 - 2025-10-19 | `lankadeepalk-4adfe84f` | අවිස්සාවේල්ලේ දුම්රියක් පීලිපනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-4adfe84f)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-19 | `virakesarilk-ab781580` | அட்டனில் கோலாகலமாக நடைபெற்ற தேசிய தீபாவளி உற்சவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-virakesarilk-ab781580)
 - 2025-10-19 | `lankadeepalk-aa37e756` | විල්පත්තු ගිය පිරිසක් ජලයට කොටුවෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-aa37e756)
 - 2025-10-19 | `adalk-a901ed2a` | උඩරට දුම්රිය ධාවනයට බාධා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-adalk-a901ed2a)
-- 2025-10-19 | `virakesarilk-edbc33ef` | மதுவரி உத்தியோகத்தர்களில் 20 - 30 சதவீதமானோர் மோசடியாளர்கள் ; பழைய பழக்கத்தை திருத்திக்கொள்ளுங்கள் : மதுவரித் திணைக்கள ஆணையாளர் நாயகம் அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-virakesarilk-edbc33ef)
 
 ---
 
