@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--19_10:47:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--19_11:17:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,715** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,720** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-19-tamilmirrorlk-720c929e",
-    "num": "tamilmirrorlk-720c929e",
+    "doc_id": "2025-10-19-lankadeepalk-c3568ae8",
+    "num": "lankadeepalk-c3568ae8",
     "date_str": "2025-10-19",
-    "description": "\u0bae\u0b95\u0ba9\u0bc8 \u0b8f\u0bb0\u0bcd \u0bb0\u0bc8\u0baa\u0bbf\u0bb3\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f \u0ba4\u0ba8\u0bcd\u0ba4\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0ba9\u0bc8-\u0b8f\u0bb0\u0bcd-\u0bb0\u0bc8\u0baa\u0bbf\u0bb3\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f-\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8-\u0b95\u0bc8\u0ba4\u0bc1/175-366486",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1760850374.0
+    "description": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0da7 \u0db6\u0dd0\u0da7\u0db1\u0dca \u0db4\u0ddc\u0dbd\u0dd4 3000\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0dbd\u0dc3\u0dba\u0da7-\u0db6\u0da7\u0db1-\u0db4\u0dbd-3000\u0d9a/101-681615",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1760852457.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-19 | `lankadeepalk-c3568ae8` | පොලිසියට බැටන් පොලු 3000ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-c3568ae8)
+- 2025-10-19 | `lankadeepalk-f3ddaa29` | පොහොට්ටුවෙන් ඡන්දය ඉල්ලන්න පොලිස් වාර්තාව අනිවාර්යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-f3ddaa29)
+- 2025-10-19 | `tamilmirrorlk-1c9cafd5` | மறுபரிசீலனை முடிவுகள் வெளியாகின | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-tamilmirrorlk-1c9cafd5)
+- 2025-10-19 | `tamilmirrorlk-8d340d65` | ”மாகாண சபைத் தேர்தலுக்கு சட்டமே சிக்கல்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-tamilmirrorlk-8d340d65)
+- 2025-10-19 | `lankadeepalk-9ae31709` | ශිෂ්‍යත්ව නැවත සමීක්ෂණ ප්‍රතිඵල  පිටවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-9ae31709)
 - 2025-10-19 | `tamilmirrorlk-720c929e` | மகனை ஏர் ரைபிளில் சுட்ட தந்தை கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-tamilmirrorlk-720c929e)
 - 2025-10-19 | `lankadeepalk-a0c5e3b8` | පොන්නි  සම්බා ආනයන ගැසට්ටුව නිකුත්වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-a0c5e3b8)
 - 2025-10-19 | `adalk-582946f8` | රු. කෝටි 5ක් වටිනා නිවස සහිත ඉඩම වැඩිහිටි නිවාසයට පරිත්‍යාග කළ දානපතියා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-adalk-582946f8)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-10-19 | `virakesarilk-b72fc518` | சுய மதிப்பீட்டு வருமான வரி செலுத்துதலைப் புரிந்துகொள்வோம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-virakesarilk-b72fc518)
 - 2025-10-19 | `adalk-2b9fb10b` | කාලගුණයෙන් අනතුරු ඇඟවීමේ නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-adalk-2b9fb10b)
 - 2025-10-19 | `virakesarilk-46d61b6b` | பிமல் மாற்றப்பட்டது ஏன் ? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-virakesarilk-46d61b6b)
-- 2025-10-19 | `virakesarilk-9848b34a` | பந்தை தமிழ்த் தரப்பிடம் தட்டி விடும் இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-virakesarilk-9848b34a)
-- 2025-10-19 | `virakesarilk-af232cca` | சோதனை மேல் சோதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-virakesarilk-af232cca)
-- 2025-10-19 | `lankadeepalk-abfa540a` | විදෙස් ගිනි අවි -අත් විලංගු සමඟ අයෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-abfa540a)
-- 2025-10-19 | `virakesarilk-7a573283` | பலஸ்தீனத்தில் நிரந்தர சமாதானம் ஏற்படுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-virakesarilk-7a573283)
-- 2025-10-19 | `virakesarilk-cb786e26` | முஸ்லிம் அமைச்சர் விவகாரம்: அரையும் அரையும் ஒன்று? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-virakesarilk-cb786e26)
 
 ---
 
