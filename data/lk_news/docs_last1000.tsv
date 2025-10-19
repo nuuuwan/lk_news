@@ -1,4 +1,10 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-19-tamilmirrorlk-7fcc9f95	tamilmirrorlk-7fcc9f95	2025-10-19	ஜம்போரிக்கு வந்த 20 மாணவர்கள் விபத்தில் சிக்கினர்	https://www.tamilmirror.lk/செய்திகள்/ஜம்போரிக்கு-வந்த-20-மாணவர்கள்-விபத்தில்-சிக்கினர்/175-366505	ta	tamilmirrorlk	1760870453.0
+lk_news	2025-10-19-virakesarilk-ecf75df8	virakesarilk-ecf75df8	2025-10-19	சோமரத்ன ராஜபக்ஷவின் சத்தியக்கடதாசி ஆதாரங்களைத் திரட்டும் அதிகாரிகளிடம் கையளிப்பு	https://www.virakesari.lk/article/228151	ta	virakesarilk	1760869860.0
+lk_news	2025-10-19-virakesarilk-fc980798	virakesarilk-fc980798	2025-10-19	ஆசிய அபிவிருத்தி வங்கியிடமிருந்து 100 மில்லியன் டொலர் கடன் நிதி	https://www.virakesari.lk/article/228148	ta	virakesarilk	1760869740.0
+lk_news	2025-10-19-virakesarilk-de14fe79	virakesarilk-de14fe79	2025-10-19	13வது திருத்தம் குறித்து பேசுவதை ஒப்பந்தத்தில் இருந்து விலகுவதாகவே பார்க்கிறோம் : கஜேந்திரகுமார் பொன்னம்பலம் தெரிவிப்பு	https://www.virakesari.lk/article/228149	ta	virakesarilk	1760869740.0
+lk_news	2025-10-19-virakesarilk-c68424c2	virakesarilk-c68424c2	2025-10-19	ராகமவில் பஸ் விபத்து ;  09 சிறுவர்கள் உட்பட 12 பேர் காயம்	https://www.virakesari.lk/article/228153	ta	virakesarilk	1760869680.0
+lk_news	2025-10-19-tamilmirrorlk-39567932	tamilmirrorlk-39567932	2025-10-19	செவ்வந்தியின் தம்பிக்கு பிணை	https://www.tamilmirror.lk/செய்திகள்/செவ்வந்தியின்-தம்பிக்கு-பிணை/175-366504	ta	tamilmirrorlk	1760869562.0
 lk_news	2025-10-19-lankadeepalk-991a5434	lankadeepalk-991a5434	2025-10-19	උසාවිවල නඩු බඩු ‘සුද්දයක්’	https://www.lankadeepa.lk/latest_news/උසවවල-නඩ-බඩ-සදදයක/1-681631	si	lankadeepalk	1760867905.0
 lk_news	2025-10-19-virakesarilk-822fb126	virakesarilk-822fb126	2025-10-19	வெளிவிவகார அமைச்சர் விஜித சவூதிக்கு விஜயம்	https://www.virakesari.lk/article/228144	ta	virakesarilk	1760866080.0
 lk_news	2025-10-19-virakesarilk-9835a6a8	virakesarilk-9835a6a8	2025-10-19	இலங்கையில் கட்சி அரசியல் மறைகிறது - ரணில் விக்கிரமசிங்க	https://www.virakesari.lk/article/228143	ta	virakesarilk	1760865960.0
@@ -993,9 +999,3 @@ lk_news	2025-10-14-lankadeepalk-9660380d	lankadeepalk-9660380d	2025-10-14	ශෂ
 lk_news	2025-10-14-virakesarilk-49e9f69f	virakesarilk-49e9f69f	2025-10-14	இலங்கைக்குத் தொடர்ந்து ஆதரவளிப்பதாகச் சீனப் பிரதமர் உறுதி!	https://www.virakesari.lk/article/227690	ta	virakesarilk	1760425560.0
 lk_news	2025-10-14-adalk-7e98ddd1	adalk-7e98ddd1	2025-10-14	නුවරඑළිය එළවළු පහතරට වැවීමෙන් නුවරඑළිය ගොවීන් ගැටලුවක	https://www.ada.lk/breaking_news/නුවරඑළිය-එළවළු-පහතරට-වැවීමෙන්-නුවරඑළිය-ගොවීන්-ගැටලුවක/11-419081	si	adalk	1760425256.0
 lk_news	2025-10-14-virakesarilk-a5791432	virakesarilk-a5791432	2025-10-14	சஷீந்திர ராஜபக்ஷவுக்கு பிணை!	https://www.virakesari.lk/article/227689	ta	virakesarilk	1760424720.0
-lk_news	2025-10-14-adalk-495b9e26	adalk-495b9e26	2025-10-14	වගුරු බිමකින් උණ්ඩ හා උණ්ඩ ‍ කොපු හමුවෙයි	https://www.ada.lk/breaking_news/වගුරු-බිමකින්-උණ්ඩ-හා-උණ්ඩ-‍-කොපු-හමුවෙයි/11-419080	si	adalk	1760424573.0
-lk_news	2025-10-14-tamilmirrorlk-6e125a6d	tamilmirrorlk-6e125a6d	2025-10-14	மூன்று பிள்ளைகளின் தந்தை கடலில் மூழ்கி பலி	https://www.tamilmirror.lk/செய்திகள்/மூன்று-பிள்ளைகளின்-தந்தை-கடலில்-மூழ்கி-பலி/175-366259	ta	tamilmirrorlk	1760424564.0
-lk_news	2025-10-14-lankadeepalk-0902b66f	lankadeepalk-0902b66f	2025-10-14	අගමැතිනිය චීන මහජන වීරයන් බලන්න යයි	https://www.lankadeepa.lk/news/අගමතනය-චන-මහජන-වරයන-බලනන-යය/101-681300	si	lankadeepalk	1760424493.0
-lk_news	2025-10-14-virakesarilk-3a14951e	virakesarilk-3a14951e	2025-10-14	விபத்தில் சிக்கி இளைஞன் பலி!	https://www.virakesari.lk/article/227673	ta	virakesarilk	1760424120.0
-lk_news	2025-10-14-virakesarilk-433d0c73	virakesarilk-433d0c73	2025-10-14	பல நாடுகளை சேர்ந்த இராணுவ அதிகாரிகள் யாழ்ப்பாணத்திற்கு விஜயம்	https://www.virakesari.lk/article/227684	ta	virakesarilk	1760424060.0
-lk_news	2025-10-14-tamilmirrorlk-978616a2	tamilmirrorlk-978616a2	2025-10-14	தொழிற்சங்க நடவடிக்கையை இடைநிறுத்த  CEB முடிவு	https://www.tamilmirror.lk/செய்திகள்/தொழிற்சங்க-நடவடிக்கையை-இடைநிறுத்த-CEB-முடிவு/175-366257	ta	tamilmirrorlk	1760423791.0

@@ -1,4 +1,10 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-19-tamilmirrorlk-7fcc9f95	tamilmirrorlk-7fcc9f95	2025-10-19	ஜம்போரிக்கு வந்த 20 மாணவர்கள் விபத்தில் சிக்கினர்	https://www.tamilmirror.lk/செய்திகள்/ஜம்போரிக்கு-வந்த-20-மாணவர்கள்-விபத்தில்-சிக்கினர்/175-366505	ta	tamilmirrorlk	1760870453.0
+lk_news	2025-10-19-virakesarilk-ecf75df8	virakesarilk-ecf75df8	2025-10-19	சோமரத்ன ராஜபக்ஷவின் சத்தியக்கடதாசி ஆதாரங்களைத் திரட்டும் அதிகாரிகளிடம் கையளிப்பு	https://www.virakesari.lk/article/228151	ta	virakesarilk	1760869860.0
+lk_news	2025-10-19-virakesarilk-fc980798	virakesarilk-fc980798	2025-10-19	ஆசிய அபிவிருத்தி வங்கியிடமிருந்து 100 மில்லியன் டொலர் கடன் நிதி	https://www.virakesari.lk/article/228148	ta	virakesarilk	1760869740.0
+lk_news	2025-10-19-virakesarilk-de14fe79	virakesarilk-de14fe79	2025-10-19	13வது திருத்தம் குறித்து பேசுவதை ஒப்பந்தத்தில் இருந்து விலகுவதாகவே பார்க்கிறோம் : கஜேந்திரகுமார் பொன்னம்பலம் தெரிவிப்பு	https://www.virakesari.lk/article/228149	ta	virakesarilk	1760869740.0
+lk_news	2025-10-19-virakesarilk-c68424c2	virakesarilk-c68424c2	2025-10-19	ராகமவில் பஸ் விபத்து ;  09 சிறுவர்கள் உட்பட 12 பேர் காயம்	https://www.virakesari.lk/article/228153	ta	virakesarilk	1760869680.0
+lk_news	2025-10-19-tamilmirrorlk-39567932	tamilmirrorlk-39567932	2025-10-19	செவ்வந்தியின் தம்பிக்கு பிணை	https://www.tamilmirror.lk/செய்திகள்/செவ்வந்தியின்-தம்பிக்கு-பிணை/175-366504	ta	tamilmirrorlk	1760869562.0
 lk_news	2025-10-19-lankadeepalk-991a5434	lankadeepalk-991a5434	2025-10-19	උසාවිවල නඩු බඩු ‘සුද්දයක්’	https://www.lankadeepa.lk/latest_news/උසවවල-නඩ-බඩ-සදදයක/1-681631	si	lankadeepalk	1760867905.0
 lk_news	2025-10-19-virakesarilk-822fb126	virakesarilk-822fb126	2025-10-19	வெளிவிவகார அமைச்சர் விஜித சவூதிக்கு விஜயம்	https://www.virakesari.lk/article/228144	ta	virakesarilk	1760866080.0
 lk_news	2025-10-19-virakesarilk-9835a6a8	virakesarilk-9835a6a8	2025-10-19	இலங்கையில் கட்சி அரசியல் மறைகிறது - ரணில் விக்கிரமசிங்க	https://www.virakesari.lk/article/228143	ta	virakesarilk	1760865960.0
@@ -93,9 +99,3 @@ lk_news	2025-10-19-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-10-19	இன
 lk_news	2025-10-19-tamilmirrorlk-a724107c	tamilmirrorlk-a724107c	2025-10-19	எம்.பி.க்கள் குடியிருப்பில் தீ விபத்து	https://www.tamilmirror.lk/செய்திகள்/எம்-பி-க்கள்-குடியிருப்பில்-தீ-விபத்து/175-366479	ta	tamilmirrorlk	1760826315.0
 lk_news	2025-10-18-virakesarilk-b57df051	virakesarilk-b57df051	2025-10-18	நியூஸிலாந்து - பாகிஸ்தான் போட்டியும் கைவிடப்பட்டது	https://www.virakesari.lk/article/228098	ta	virakesarilk	1760804880.0
 lk_news	2025-10-18-lankadeepalk-cb7254b1	lankadeepalk-cb7254b1	2025-10-18	පලා යන්න ගිය සැකකරුට වැඩ වරදි	https://www.lankadeepa.lk/news/පල-යනන-ගය-සකකරට-වඩ-වරද/101-681600	si	lankadeepalk	1760802749.0
-lk_news	2025-10-18-lankadeepalk-24c76e92	lankadeepalk-24c76e92	2025-10-18	ඉෂාරා දින 90 ක් රඳවන්න අවසර	https://www.lankadeepa.lk/news/ඉෂර-දන-90-ක-රඳවනන-අවසර/101-681599	si	lankadeepalk	1760800957.0
-lk_news	2025-10-18-adalk-6b5cb7e1	adalk-6b5cb7e1	2025-10-18	ඉෂාරා සෙව්වන්දිට සැගවෙන්න උදව් කළ තවත් දෙදෙනෙක් අල්ලයි	https://www.ada.lk/breaking_news/ඉෂාරා-සෙව්වන්දිට-සැගවෙන්න-උදව්-කළ-තවත්-දෙදෙනෙක්-අල්ලයි/11-419184	si	adalk	1760800681.0
-lk_news	2025-10-18-lankadeepalk-a8457ff2	lankadeepalk-a8457ff2	2025-10-18	මහින්ද ගත සිත සුව කරන බෙහෙත හෙළි කරයි	https://www.lankadeepa.lk/latest_news/මහනද-ගත-සත-සව-කරන-බහත-හළ-කරය/1-681598	si	lankadeepalk	1760799478.0
-lk_news	2025-10-18-lankadeepalk-53ad16b1	lankadeepalk-53ad16b1	2025-10-18	හොර ඉන්ධන ගබඩාවක් වරකාපොළින් අල්ලයි	https://www.lankadeepa.lk/news/හර-ඉනධන-ගබඩවක-වරකපළන-අලලය/101-681597	si	lankadeepalk	1760797151.0
-lk_news	2025-10-18-lankadeepalk-f3ffd394	lankadeepalk-f3ffd394	2025-10-18	හරිනි -ඉන්දීය දෘශ්‍යාබාධිත ක්‍රිකට් ශූරියන් හමුවෙයි	https://www.lankadeepa.lk/latest_news/හරන-ඉනදය-දශයබධත-කරකට-ශරයන-හමවය/1-681595	si	lankadeepalk	1760795328.0
-lk_news	2025-10-18-tamilmirrorlk-9969ba2b	tamilmirrorlk-9969ba2b	2025-10-18	ரஷ்ய தடுப்பூசி குறித்து இலங்கை கடுமையான எச்சரிக்கை	https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-தடுப்பூசி-குறித்து-இலங்கை-கடுமையான-எச்சரிக்கை/175-366478	ta	tamilmirrorlk	1760792492.0
