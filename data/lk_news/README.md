@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--19_05:14:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--19_06:03:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,669** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,682** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -51,6 +51,8 @@ A collection of lk_news documents.
 - 2025-10-18 | `tamilmirrorlk-9969ba2b` | ரஷ்ய தடுப்பூசி குறித்து இலங்கை கடுமையான எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-tamilmirrorlk-9969ba2b)
 - 2025-10-18 | `tamilmirrorlk-96694a4f` | இராஜாங்கனை நீர்த்தேக்கத்தின் வான்கதவுகள் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-tamilmirrorlk-96694a4f)
 - 2025-10-18 | `lankadeepalk-f0157aa7` | කතානායකට ගේන විශ්වාසභංගයේ වැඩ අවසන්: 21 පක්ෂ නායකයන්ට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-f0157aa7)
+- 2025-10-18 | `islandlk-1f40f1c3` | When Reptiles Ruled the Rupee | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-islandlk-1f40f1c3)
+- 2025-10-18 | `islandlk-25417e80` | Hanthana in flames: Fighting to preserve Sri Lanka’s ecological treasure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-islandlk-25417e80)
 - 2025-10-18 | `lankadeepalk-59c1ad6a` | ඇමෙරිකාවේ සිට බෞද්ධ දූතපිරිසක් දිවයිනට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-59c1ad6a)
 - 2025-10-18 | `virakesarilk-d2a990be` | 18 இலட்சத்துக்கும் மேற்பட்ட சுற்றுலாப் பயணிகள் நாட்டுக்கு வருகை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-d2a990be)
 - 2025-10-18 | `lankadeepalk-ba2ac015` | ලොකු මෝරු 18ක් සතොසට පොලු තියලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-lankadeepalk-ba2ac015)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-18 | `adalk-2cb3ddbf` | දීර්ඝ නිවාඩුවට නුවරඑලිය පැමිණි 18 ක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-adalk-2cb3ddbf)
 - 2025-10-18 | `virakesarilk-d0f7f3fc` | இயக்குநர் சேரன் நடிக்கும் 'லேடிஸ் ஹாஸ்டல் 'படத்தின் தொடக்க விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-d0f7f3fc)
 - 2025-10-18 | `virakesarilk-f440b8e2` | பான் இந்திய நடிகர் ராஜ் பி. ஷெட்டி நடிக்கும் 'ஜுகாரி கிராஸ் ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-f440b8e2)
-- 2025-10-18 | `virakesarilk-53f68075` | தொழில்முறை பொறுப்பை முறையாக நிறைவேற்றும் ஒரு அரச சேவை  நாட்டுக்கு அவசியம் ; இந்த விடயத்தில் இலங்கை விமானப்படையின் பங்களிப்பு முன்மாதிரியானது - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-53f68075)
-- 2025-10-18 | `virakesarilk-297c3923` | 'நடன புயல்' பிரபுதேவா வெளியிட்ட மாஸ்டர் மகேந்திரனின் 'பல்ஸ்' பட ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-18-virakesarilk-297c3923)
 
 ---
 
