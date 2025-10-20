@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--20_20:18:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--20_20:46:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,955** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,957** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-20-lankadeepalk-b52a5bda",
-    "num": "lankadeepalk-b52a5bda",
+    "doc_id": "2025-10-20-adalk-f577930d",
+    "num": "adalk-f577930d",
     "date_str": "2025-10-20",
-    "description": "\u0d86\u0db6\u0dcf\u0db0\u0dd2\u0dad\u0dba\u0db1\u0dca\u0d9c\u0dd9\u0dca \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0d9a\u0ddd\u0da7\u0dcf\u0dc0 \u0d89\u0dc4\u0dc5\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d86\u0db6\u0db0\u0dad\u0dba\u0db1\u0d9c-\u0dbb\u0d9a\u0dba-\u0d9a\u0da7\u0dc0-\u0d89\u0dc4\u0dc5\u0da7/101-681694",
+    "description": "\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0db1\u0dca \u0dba\u0da7\u0d9a\u0dbb \u0db4\u0dc5\u0dcf \u0d9c\u0dd2\u0dba \u0dbd\u0ddc\u0dbb\u0dd2\u0dba \u0dc4\u0dcf \u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4 \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0db1\u0dca-\u0dba\u0da7\u0d9a\u0dbb-\u0db4\u0dc5\u0dcf-\u0d9c\u0dd2\u0dba-\u0dbd\u0ddc\u0dbb\u0dd2\u0dba-\u0dc4\u0dcf-\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-419213",
     "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1760968323.0
+    "newspaper_id": "adalk",
+    "time_ut": 1760968584.0
 }
 ```
 
@@ -41,9 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-20 | `adalk-f577930d` | තරුණයන් යටකර පළා ගිය ලොරිය හා රියදුරු අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-adalk-f577930d)
 - 2025-10-20 | `lankadeepalk-b52a5bda` | ආබාධිතයන්ගේ රැකියා කෝටාව ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-lankadeepalk-b52a5bda)
 - 2025-10-20 | `adalk-dcc806ec` | රථවාහන ස්ථානීය දඩ gov pay හරහා ගෙවන්න් පුළුවන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-adalk-dcc806ec)
 - 2025-10-20 | `virakesarilk-3119d1c9` | மண்சரிவால் நாளையும் நான்கு ரயில் சேவைகள் ரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-virakesarilk-3119d1c9)
+- 2025-10-20 | `lankadeepalk-332c5370` | පොලිස් දඩ ඇප්වලින් ගෙවීම දකුණත් අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-lankadeepalk-332c5370)
 - 2025-10-20 | `virakesarilk-59ad3961` | பங்ளாதேஷுக்கு 203 ஓட்டங்களை வெற்றி இலக்காக நிர்ணயித்தது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-virakesarilk-59ad3961)
 - 2025-10-20 | `adalk-89b2699a` | අපරාධයකින් උත්පාදිත දේ විමර්ශන කොට්ඨාසය විවෘත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-adalk-89b2699a)
 - 2025-10-20 | `virakesarilk-8a015d01` | மரநடுகை திட்டங்களும் அதனை பராமரிப்பதும் விசமிகளின் செயற்பாடுகளால் சவாலுக்குள்ளாகிறது - வடக்கு ஆளுநர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-virakesarilk-8a015d01)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-20 | `tamilmirrorlk-7b949bfa` | நவம்பர் 1 முதல் பணம் செலுத்த வேண்டும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-tamilmirrorlk-7b949bfa)
 - 2025-10-20 | `lankadeepalk-7a509889` | ජනපති ඉද්දිත් මිනිස්සු දුක කියන්නේ මට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-lankadeepalk-7a509889)
 - 2025-10-20 | `virakesarilk-b77c1031` | கருவாடு கடை என்ற போர்வையில் போதைப்பொருள் விற்பனை செய்தவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-virakesarilk-b77c1031)
-- 2025-10-20 | `lankadeepalk-e86dd3e7` | ඉෂාරාට නවාතැන් දුන් PC සහ තවත් දෙකක් රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-lankadeepalk-e86dd3e7)
-- 2025-10-20 | `virakesarilk-a2868c16` | ஐஸ் போதைப்பொருள் கலந்த நீரை குடித்த இரு நாய்கள் பரிதாபமாக உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-virakesarilk-a2868c16)
 
 ---
 
