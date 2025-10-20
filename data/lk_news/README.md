@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--20_05:15:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--20_06:01:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,818** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,824** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -50,6 +50,7 @@ A collection of lk_news documents.
 - 2025-10-19 | `lankadeepalk-c361c799` | තැපැල් දුම්රිය දෙකක් අවලංගුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-c361c799)
 - 2025-10-19 | `lankadeepalk-4adfe84f` | අවිස්සාවේල්ලේ දුම්රියක් පීලිපනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-4adfe84f)
 - 2025-10-19 | `tamilmirrorlk-03f0edfe` | கான்ஸ்டபளின் மாமியாருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-tamilmirrorlk-03f0edfe)
+- 2025-10-19 | `dbsjeyarajcom-0528188f` | Elder Statewoman  Sirimavo  Bandaranaike the Grand Old Lady of Sri Lankan Politics. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-dbsjeyarajcom-0528188f)
 - 2025-10-19 | `tamilmirrorlk-bbb61599` | பதுளை-கொழும்பு இரவு அஞ்சல் ரயில்கள் ரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-tamilmirrorlk-bbb61599)
 - 2025-10-19 | `lankadeepalk-69e55b90` | ගම්පොළ සමූපකාර බලය පොදු විපක්ෂයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-69e55b90)
 - 2025-10-19 | `lankadeepalk-0f418592` | පොලිස් පොඩ්ඩාට පෙනී සිටි ‍තාරක නීතිඥ සංගම්  කමිටුවෙන් යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-0f418592)
@@ -57,10 +58,9 @@ A collection of lk_news documents.
 - 2025-10-19 | `lankadeepalk-5c7a3708` | බටුවත්තේ දී බසයක් පෙරළේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-5c7a3708)
 - 2025-10-19 | `lankadeepalk-c77a3996` | බඹරු නිසා තරුණයෝ පහක් හන්තානේ අතරමං වෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-c77a3996)
 - 2025-10-19 | `lankadeepalk-57987a41` | වායු රයිපලයෙන් පියා පුතාට වෙඩි තියලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-57987a41)
+- 2025-10-19 | `islandlk-040c318b` | Vogue Jewellers opens its Melbourne Branch with a grand celebration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-islandlk-040c318b)
+- 2025-10-19 | `islandlk-18239b3e` | Fcode Labs appoints Pamaljith Harshapriya as chief operating officer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-islandlk-18239b3e)
 - 2025-10-19 | `lankadeepalk-710ef717` | දුම්රිය මඟ නාය යයි:සැප දුම්රියක් පීලි පනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-710ef717)
-- 2025-10-19 | `lankadeepalk-65968b36` | ජී.රාජපක්ෂගේ ගේ බලන්න නි.ඇමති යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-lankadeepalk-65968b36)
-- 2025-10-19 | `islandlk-ed83d996` | Chinese academic delegation visits Minasro College to strengthen their academic partnership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-islandlk-ed83d996)
-- 2025-10-19 | `islandlk-90991480` | Mintpay partners with FitsAir to make outbound travel more accessible | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-19-islandlk-90991480)
 
 ---
 
