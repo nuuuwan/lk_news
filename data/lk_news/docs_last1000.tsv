@@ -1,4 +1,11 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-20-lankadeepalk-513e1875	lankadeepalk-513e1875	2025-10-20	නපුර පලවා හැර යහපත ජයග්‍රහණය කරවමු	https://www.lankadeepa.lk/news/නපර-පලව-හර-යහපත-ජයගරහණය-කරවම/101-681659	si	lankadeepalk	1760930822.0
+lk_news	2025-10-20-lankadeepalk-cb6176d4	lankadeepalk-cb6176d4	2025-10-20	මේ ජනතාව අන්ධකාරයෙන් ගැලවෙන යුගයයි	https://www.lankadeepa.lk/news/ම-ජනතව-අනධකරයන-ගලවන-යගයය/101-681658	si	lankadeepalk	1760930461.0
+lk_news	2025-10-20-lankadeepalk-31f67bef	lankadeepalk-31f67bef	2025-10-20	කාගෙත් ගෞරවය රකින රටක් හදනවා	https://www.lankadeepa.lk/news/කගත-ගරවය-රකන-රටක-හදනව/101-681657	si	lankadeepalk	1760930326.0
+lk_news	2025-10-20-lankadeepalk-d1bb1b1d	lankadeepalk-d1bb1b1d	2025-10-20	පළාත් කිහිපයකට ගිගුරුම් සහිත වැසි	https://www.lankadeepa.lk/news/පළත-කහපයකට-ගගරම-සහත-වස/101-681656	si	lankadeepalk	1760929172.0
+lk_news	2025-10-20-adalk-0f5a463f	adalk-0f5a463f	2025-10-20	වයඹ සරසවියේ අධ්‍යයන මණ්ඩලය 2024දී හොර පාරෙන් රු. කෝටි 138ක අතිකාල අරන්	https://www.ada.lk/breaking_news/වයඹ-සරසවියේ-අධ්‍යයන-මණ්ඩලය-2024දී-හොර-පාරෙන්-රු--කෝටි-138ක-අතිකාල-අරන්/11-419200	si	adalk	1760928585.0
+lk_news	2025-10-20-tamilmirrorlk-a5a345cf	tamilmirrorlk-a5a345cf	2025-10-20	போதைப் பொருள் நீர்மூழ்கியை அழித்தது அமெரிக்கா	https://www.tamilmirror.lk/உலக-செய்திகள்/போதைப்-பொருள்-நீர்மூழ்கியை-அழித்தது-அமெரிக்கா/50-366531	ta	tamilmirrorlk	1760928018.0
+lk_news	2025-10-20-adalk-87268605	adalk-87268605	2025-10-20	ඉස්සෝ ටැංකියට වැටී තරුණයෙක් මිය යයි	https://www.ada.lk/breaking_news/ඉස්සෝ-ටැංකියට-වැටී-තරුණයෙක්-මිය-යයි/11-419198	si	adalk	1760927335.0
 lk_news	2025-10-20-tamilmirrorlk-e93ac08c	tamilmirrorlk-e93ac08c	2025-10-20	ஜனாதிபதியின் தீபாவளி வாழ்த்துச் செய்தி	https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-தீபாவளி-வாழ்த்துச்-செய்தி/175-366529	ta	tamilmirrorlk	1760922092.0
 lk_news	2025-10-20-tamilmirrorlk-398059fd	tamilmirrorlk-398059fd	2025-10-20	’போர் நிறுத்தத்தை இஸ்ரேல் மீறியுள்ளது’	https://www.tamilmirror.lk/உலக-செய்திகள்/போர்-நிறுத்தத்தை-இஸ்ரேல்-மீறியுள்ளது/50-366528	ta	tamilmirrorlk	1760915758.0
 lk_news	2025-10-20-tamilmirrorlk-0674293c	tamilmirrorlk-0674293c	2025-10-20	இஸ்ரேலின் வான் தாக்குதலில் காசாவில் 18 பேர் பலி	https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-வான்-தாக்குதலில்-காசாவில்-18-பேர்-பலி/50-366527	ta	tamilmirrorlk	1760915065.0
@@ -992,10 +999,3 @@ lk_news	2025-10-14-lankadeepalk-f3d09cf7	lankadeepalk-f3d09cf7	2025-10-14	ති
 lk_news	2025-10-14-lankadeepalk-fbca5eb1	lankadeepalk-fbca5eb1	2025-10-14	සුරා බදු රීති පාර්ලිමේන්තුවට	https://www.lankadeepa.lk/news/සර-බද-රත-පරලමනතවට/101-681327	si	lankadeepalk	1760437227.0
 lk_news	2025-10-14-adalk-0ab7e968	adalk-0ab7e968	2025-10-14	පොන්නි සම්බා සහල් ආනයනයට අවසර	https://www.ada.lk/breaking_news/පොන්නි-සම්බා-සහල්-ආනයනයට-අවසර/11-419091	si	adalk	1760437015.0
 lk_news	2025-10-14-tamilmirrorlk-4e17496f	tamilmirrorlk-4e17496f	2025-10-14	கொழும்பு மாநகர சபை மீது  கோபா பாய்ந்தது	https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாநகர-சபை-மீது-கோபா-பாய்ந்தது/175-366270	ta	tamilmirrorlk	1760436669.0
-lk_news	2025-10-14-tamilmirrorlk-440e73c9	tamilmirrorlk-440e73c9	2025-10-14	கொழும்பு மாநகர சபை மீது  போபா பாய்ந்தது	https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாநகர-சபை-மீது-போபா-பாய்ந்தது/175-366270	ta	tamilmirrorlk	1760436669.0
-lk_news	2025-10-14-lankadeepalk-a36c864c	lankadeepalk-a36c864c	2025-10-14	රාජ්‍ය ආයතනවලට දුඹුරු සීනි අනිවාර්ය කරයි	https://www.lankadeepa.lk/news/රජය-ආයතනවලට-දඹර-සන-අනවරය-කරය/101-681326	si	lankadeepalk	1760436638.0
-lk_news	2025-10-14-lankadeepalk-a8aee615	lankadeepalk-a8aee615	2025-10-14	විෂ මත් ද්‍රව්‍ය නැත්තටම නැති කරන්න ජාතික සභාවක්	https://www.lankadeepa.lk/news/වෂ-මත-දරවය-නතතටම-නත-කරනන-ජතක-සභවක/101-681325	si	lankadeepalk	1760436329.0
-lk_news	2025-10-14-virakesarilk-4c5ffced	virakesarilk-4c5ffced	2025-10-14	வவுனியாவில் சுகாதார பரிசோதகர்கள் திடீர் நடவடிக்கை -  உணவகங்களுக்கு வழக்குத்தாக்கல்!	https://www.virakesari.lk/article/227711	ta	virakesarilk	1760436300.0
-lk_news	2025-10-14-virakesarilk-933b8118	virakesarilk-933b8118	2025-10-14	பிரதீப் ரங்கநாதன் நடிக்கும்' டியூட் ' படத்தின் இசை வெளியீடு	https://www.virakesari.lk/article/227717	ta	virakesarilk	1760435880.0
-lk_news	2025-10-14-virakesarilk-6e8feb10	virakesarilk-6e8feb10	2025-10-14	இன்றைய நாணய மாற்று விகிதம்	https://www.virakesari.lk/article/227715	ta	virakesarilk	1760435880.0
-lk_news	2025-10-14-virakesarilk-dfbe003f	virakesarilk-dfbe003f	2025-10-14	கல்கிஸ்ஸை நீதிமன்ற சம்பவம் ; சட்டத்தரணியை கைதுசெய்ய 3 பொலிஸ் குழுக்கள் நியமனம்!	https://www.virakesari.lk/article/227716	ta	virakesarilk	1760435700.0

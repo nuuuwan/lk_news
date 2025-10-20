@@ -1,4 +1,11 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-20-lankadeepalk-513e1875	lankadeepalk-513e1875	2025-10-20	නපුර පලවා හැර යහපත ජයග්‍රහණය කරවමු	https://www.lankadeepa.lk/news/නපර-පලව-හර-යහපත-ජයගරහණය-කරවම/101-681659	si	lankadeepalk	1760930822.0
+lk_news	2025-10-20-lankadeepalk-cb6176d4	lankadeepalk-cb6176d4	2025-10-20	මේ ජනතාව අන්ධකාරයෙන් ගැලවෙන යුගයයි	https://www.lankadeepa.lk/news/ම-ජනතව-අනධකරයන-ගලවන-යගයය/101-681658	si	lankadeepalk	1760930461.0
+lk_news	2025-10-20-lankadeepalk-31f67bef	lankadeepalk-31f67bef	2025-10-20	කාගෙත් ගෞරවය රකින රටක් හදනවා	https://www.lankadeepa.lk/news/කගත-ගරවය-රකන-රටක-හදනව/101-681657	si	lankadeepalk	1760930326.0
+lk_news	2025-10-20-lankadeepalk-d1bb1b1d	lankadeepalk-d1bb1b1d	2025-10-20	පළාත් කිහිපයකට ගිගුරුම් සහිත වැසි	https://www.lankadeepa.lk/news/පළත-කහපයකට-ගගරම-සහත-වස/101-681656	si	lankadeepalk	1760929172.0
+lk_news	2025-10-20-adalk-0f5a463f	adalk-0f5a463f	2025-10-20	වයඹ සරසවියේ අධ්‍යයන මණ්ඩලය 2024දී හොර පාරෙන් රු. කෝටි 138ක අතිකාල අරන්	https://www.ada.lk/breaking_news/වයඹ-සරසවියේ-අධ්‍යයන-මණ්ඩලය-2024දී-හොර-පාරෙන්-රු--කෝටි-138ක-අතිකාල-අරන්/11-419200	si	adalk	1760928585.0
+lk_news	2025-10-20-tamilmirrorlk-a5a345cf	tamilmirrorlk-a5a345cf	2025-10-20	போதைப் பொருள் நீர்மூழ்கியை அழித்தது அமெரிக்கா	https://www.tamilmirror.lk/உலக-செய்திகள்/போதைப்-பொருள்-நீர்மூழ்கியை-அழித்தது-அமெரிக்கா/50-366531	ta	tamilmirrorlk	1760928018.0
+lk_news	2025-10-20-adalk-87268605	adalk-87268605	2025-10-20	ඉස්සෝ ටැංකියට වැටී තරුණයෙක් මිය යයි	https://www.ada.lk/breaking_news/ඉස්සෝ-ටැංකියට-වැටී-තරුණයෙක්-මිය-යයි/11-419198	si	adalk	1760927335.0
 lk_news	2025-10-20-tamilmirrorlk-e93ac08c	tamilmirrorlk-e93ac08c	2025-10-20	ஜனாதிபதியின் தீபாவளி வாழ்த்துச் செய்தி	https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-தீபாவளி-வாழ்த்துச்-செய்தி/175-366529	ta	tamilmirrorlk	1760922092.0
 lk_news	2025-10-20-tamilmirrorlk-398059fd	tamilmirrorlk-398059fd	2025-10-20	’போர் நிறுத்தத்தை இஸ்ரேல் மீறியுள்ளது’	https://www.tamilmirror.lk/உலக-செய்திகள்/போர்-நிறுத்தத்தை-இஸ்ரேல்-மீறியுள்ளது/50-366528	ta	tamilmirrorlk	1760915758.0
 lk_news	2025-10-20-tamilmirrorlk-0674293c	tamilmirrorlk-0674293c	2025-10-20	இஸ்ரேலின் வான் தாக்குதலில் காசாவில் 18 பேர் பலி	https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-வான்-தாக்குதலில்-காசாவில்-18-பேர்-பலி/50-366527	ta	tamilmirrorlk	1760915065.0
@@ -92,10 +99,3 @@ lk_news	2025-10-19-virakesarilk-613abc7b	virakesarilk-613abc7b	2025-10-19	பொ
 lk_news	2025-10-19-tamilmirrorlk-8ef8d283	tamilmirrorlk-8ef8d283	2025-10-19	ஹட்டனில்  தேசிய தீபாவளி விழா	https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-தேசிய-தீபாவளி-விழா/76-366491	ta	tamilmirrorlk	1760853481.0
 lk_news	2025-10-19-lankadeepalk-b9c12532	lankadeepalk-b9c12532	2025-10-19	සුව ඇමති බදුලු රෝහලේ හදිසි නිරීක්ෂණයක	https://www.lankadeepa.lk/news/සව-ඇමත-බදල-රහල-හදස-නරකෂණයක/101-681616	si	lankadeepalk	1760853440.0
 lk_news	2025-10-19-virakesarilk-7d6ac6f5	virakesarilk-7d6ac6f5	2025-10-19	பொறுப்புக்கூறல் விவகாரமும் தமிழர்களின் இக்கட்டான நிலையும்	https://www.virakesari.lk/article/228125	ta	virakesarilk	1760853360.0
-lk_news	2025-10-19-virakesarilk-3c41f627	virakesarilk-3c41f627	2025-10-19	இவ் ஆண்டு இதுவரையான காலப்பகுதியில் 35 மலேரியா நோயாளர்கள் பதிவு	https://www.virakesari.lk/article/228124	ta	virakesarilk	1760853240.0
-lk_news	2025-10-19-tamilmirrorlk-e0326eaf	tamilmirrorlk-e0326eaf	2025-10-19	தீபாவளி கொண்டாட்டம்…	https://www.tamilmirror.lk/பிரதான-செய்திகள்/தீபாவளி-கொண்டாட்டம்/46-366489	ta	tamilmirrorlk	1760852848.0
-lk_news	2025-10-19-lankadeepalk-c3568ae8	lankadeepalk-c3568ae8	2025-10-19	පොලිසියට බැටන් පොලු 3000ක්	https://www.lankadeepa.lk/news/පලසයට-බටන-පල-3000ක/101-681615	si	lankadeepalk	1760852457.0
-lk_news	2025-10-19-virakesarilk-ed478b7d	virakesarilk-ed478b7d	2025-10-19	இலங்கை பொலிஸாரால் ஏற்பாடு செய்யப்பட்ட தீபாவளி	https://www.virakesari.lk/article/228122	ta	virakesarilk	1760852340.0
-lk_news	2025-10-19-virakesarilk-9f22fe8d	virakesarilk-9f22fe8d	2025-10-19	இராணுவத்தால் பல்துறை மருத்துவ முகாம் ஏற்பாடு	https://www.virakesari.lk/article/228121	ta	virakesarilk	1760852280.0
-lk_news	2025-10-19-lankadeepalk-f3ddaa29	lankadeepalk-f3ddaa29	2025-10-19	පොහොට්ටුවෙන් ඡන්දය ඉල්ලන්න පොලිස් වාර්තාව අනිවාර්යයි	https://www.lankadeepa.lk/news/පහටටවන-ඡනදය-ඉලලනන-පලස-වරතව-අනවරයය/101-681614	si	lankadeepalk	1760851747.0
-lk_news	2025-10-19-tamilmirrorlk-1c9cafd5	tamilmirrorlk-1c9cafd5	2025-10-19	மறுபரிசீலனை முடிவுகள் வெளியாகின	https://www.tamilmirror.lk/செய்திகள்/மறுபரிசீலனை-முடிவுகள்-வெளியாகின/175-366488	ta	tamilmirrorlk	1760851730.0
