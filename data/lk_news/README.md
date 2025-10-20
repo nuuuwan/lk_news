@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--20_23:48:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_00:23:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,968** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**81,969** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2025-10-20 | `lankadeepalk-b1f880ad` | ගුවන් යානයක් ලිස්සා ගොස් මුහුදට වැටේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-lankadeepalk-b1f880ad)
+- 2025-10-20 | `virakesarilk-be6a9bfd` | பங்களாதேஷை பரபரப்பான முறையில் வீழ்த்தி மகளிர் உலகக் கிண்ணத்தில் முதல் வெற்றியை சுவைத்தது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-virakesarilk-be6a9bfd)
 - 2025-10-20 | `lankadeepalk-8cfeb88e` | ක්‍රිකට් තරගය අස්සේ දුරකතන උස්සලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-lankadeepalk-8cfeb88e)
 - 2025-10-20 | `lankadeepalk-6cd1d3b7` | රුහුණු සරසවියේ සිසුන් දෙපිරිසක් අතර ගැටුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-lankadeepalk-6cd1d3b7)
 - 2025-10-20 | `tamilmirrorlk-2d830933` | செவ்வந்திக்கு உதவிய அனைவருக்கும் ஏற்பட்ட நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-tamilmirrorlk-2d830933)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-20 | `virakesarilk-59ad3961` | பங்ளாதேஷுக்கு 203 ஓட்டங்களை வெற்றி இலக்காக நிர்ணயித்தது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-virakesarilk-59ad3961)
 - 2025-10-20 | `adalk-89b2699a` | අපරාධයකින් උත්පාදිත දේ විමර්ශන කොට්ඨාසය විවෘත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-adalk-89b2699a)
 - 2025-10-20 | `virakesarilk-8a015d01` | மரநடுகை திட்டங்களும் அதனை பராமரிப்பதும் விசமிகளின் செயற்பாடுகளால் சவாலுக்குள்ளாகிறது - வடக்கு ஆளுநர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-virakesarilk-8a015d01)
-- 2025-10-20 | `virakesarilk-636fef1e` | City of Dreams Sri Lanka வழங்கும் “சிக்னேச்சர் தீபாவளி கிளிட்ஸ்” நிகழ்ச்சியில் பங்கேற்கும் சுனில் ஷெட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-virakesarilk-636fef1e)
 
 ---
 
