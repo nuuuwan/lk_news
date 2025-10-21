@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_16:18:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_16:48:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,121** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,122** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,7 @@ A collection of lk_news documents.
 - 2025-10-21 | `tamilmirrorlk-ebd7ce92` | மலையக ரயில் சேவைகளில் சிக்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-ebd7ce92)
 - 2025-10-21 | `lankadeepalk-53ac964b` | කරාපිටිය රෝහලේ ගිලන් රථ හයක් ලෙඩ වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-53ac964b)
 - 2025-10-21 | `virakesarilk-ab964f65` | பாடசாலைப் புத்தகங்களை அச்சிடும் பணிகள் நிற்கவில்லை! ; புதிய கல்வி சீர்திருத்தங்களால் சில தரங்களில் மாற்றம் - கல்வி அமைச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-ab964f65)
+- 2025-10-21 | `adalk-8bed9766` | උඩරට දුම්රිය මාර්ගයේ ගමන් වාර 22ක් අවලංගු වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-adalk-8bed9766)
 - 2025-10-21 | `tamilmirrorlk-b3a8b96c` | பல அமைச்சுகளின் விடயதானங்களில் திருத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-b3a8b96c)
 - 2025-10-21 | `virakesarilk-00f977bd` | ருஹுணு பல்கலைக்கழக மாணவர்கள் குழுவுக்கு விளக்கமறியல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-00f977bd)
 - 2025-10-21 | `virakesarilk-20609953` | நாடு முழுவதும் 36,178 ஆசிரியர் வெற்றிடங்கள் -  பிரதமர் ஹரிணி அமரசூரிய | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-20609953)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-21 | `adalk-3f271a25` | උඩරට දුම්රිය මාර්ගය යථා තත්ත්වයට පත් කිරිමට තවදුරටත් බාධා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-adalk-3f271a25)
 - 2025-10-21 | `lankadeepalk-fd3170df` | රට පුරා ගුරු පුටු 36,178ක් හිස් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-fd3170df)
 - 2025-10-21 | `virakesarilk-d0a5d556` | செயற்கை நுண்ணறிவு பயன்பாடு குறித்து அரச நிறைவேற்று அதிகாரிகளுக்கு விழிப்புணர்வு ஏற்படுத்தும் செயலமர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-d0a5d556)
-- 2025-10-21 | `tamilmirrorlk-06c241ff` | நடுகடலில் கதறினேன்: செவ்வந்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-06c241ff)
 
 ---
 
