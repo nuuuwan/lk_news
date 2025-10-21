@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_19:47:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_20:18:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,164** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,168** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-21-lankadeepalk-77ae7100",
-    "num": "lankadeepalk-77ae7100",
+    "doc_id": "2025-10-21-virakesarilk-8dc6d332",
+    "num": "virakesarilk-8dc6d332",
     "date_str": "2025-10-21",
-    "description": "\u0dc3\u0dca\u0db4\u0dcf \u0db1\u0dd3\u0dad\u0dd2 \u0d9c\u0dad \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0db4-\u0db1\u0dad-\u0d9c\u0dad-\u0d9a\u0dbb\u0db1\u0db1\u0dba-\u0d89\u0dbd\u0dbd\u0dba/1-681784",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1761055608.0
+    "description": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0ba8\u0b95\u0bb0 \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0baa\u0bc8 \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2 \u0ba4\u0b9f\u0bc8 - \u0bae\u0bc7\u0bb2\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/228329",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761057540.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-21 | `virakesarilk-8dc6d332` | வவுனியா மாநகர சபையின் சபை செயற்பாடுகளுக்கு இடைக்கால தடை - மேல்முறையீட்டு நீதிமன்றம் உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-8dc6d332)
+- 2025-10-21 | `virakesarilk-cf3d1653` | யாழில் மழையுடன் சேர்ந்து விழுந்த மீன்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-cf3d1653)
 - 2025-10-21 | `lankadeepalk-77ae7100` | ස්පා නීති ගත කරන්නැයි ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-77ae7100)
+- 2025-10-21 | `virakesarilk-f15e4ba1` | படுகொலை செய்யப்பட்ட ஊடகவியலாளர் நிமலராஜனின் நினைவேந்தல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-f15e4ba1)
 - 2025-10-21 | `lankadeepalk-67c60a0f` | සෞඛ්‍ය ආපදාවක් නම් මෙන්න  ‘හොට් ලයින්’ එක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-67c60a0f)
 - 2025-10-21 | `lankadeepalk-3b7a18ce` | ජාතික තරුණ ප්‍රතිපත්තියට අදහස්  කැඳවීම ඇරැඹේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-3b7a18ce)
 - 2025-10-21 | `lankadeepalk-fe611fef` | යුද හමුදා වෛද්‍ය කඳවුරින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-fe611fef)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-21 | `virakesarilk-e6ccfec5` | விஜய் அண்டனி வெளியிட்ட ஆர்.கே. சுரேஷின் 'ப்ளைண்ட்' பட ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-e6ccfec5)
 - 2025-10-21 | `virakesarilk-ae10282a` | விளம்பர பட இயக்குநராகவும் அறிமுகமான அட்லீ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-ae10282a)
 - 2025-10-21 | `lankadeepalk-9722b228` | කෙනෙරක් දුම්රියට බිලි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-9722b228)
-- 2025-10-21 | `virakesarilk-193a9868` | “ஹரக் கட்டா”வின் பாதுகாப்புக்காக சுமார் 87 அதிகாரிகள் கடமையில்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-193a9868)
-- 2025-10-21 | `lankadeepalk-fbde7880` | ’’වත්කම් වාර්තා දෙද්දි මගේ අතින් වරදක් සිද්ධ වුණා’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-fbde7880)
-- 2025-10-21 | `virakesarilk-402223d0` | ஐரோப்பிய ஒன்றியத்தில் மக்கள் அனுபவிக்கும் அரச ஆவணங்களை பெறுவதற்கான உரிமை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-402223d0)
 
 ---
 
