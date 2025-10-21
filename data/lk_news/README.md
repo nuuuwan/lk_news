@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_09:23:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_09:46:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,014** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,015** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,7 @@ A collection of lk_news documents.
 - 2025-10-21 | `tamilmirrorlk-1829eec4` | சீரற்ற காலநிலையால் இருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-1829eec4)
 - 2025-10-21 | `tamilmirrorlk-3216bac8` | கொழும்பில் கடுமையான வாகன நெரிசல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-3216bac8)
 - 2025-10-21 | `lankadeepalk-1bb3bcb5` | කපා කොටා එක්දරු පියා මරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-1bb3bcb5)
+- 2025-10-21 | `adalk-0f0036a3` | රුහුණු සරසවියේ සිසුන් අතර ගැටුමක්, 6ට තුවාල, 21ක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-adalk-0f0036a3)
 - 2025-10-21 | `lankadeepalk-53e1a9c6` | ඝාතනයකට සම්බන්ධ 4ක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-53e1a9c6)
 - 2025-10-21 | `adalk-1ff59805` | තබ්බෝවේ වාන් දොරටු හතරක් විවෘතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-adalk-1ff59805)
 - 2025-10-21 | `tamilmirrorlk-aba0a003` | ஐயா பாய்ந்து போகணுமா....பாயுங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-aba0a003)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-21 | `dailyftlk-a575a9d2` | Siemens, DIMO complete Sri Lanka’s largest grid substation at Habarana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-a575a9d2)
 - 2025-10-21 | `dailyftlk-f7f858e1` | President asks FUTA for plan to fix degree delays, improve university system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-f7f858e1)
 - 2025-10-21 | `dailyftlk-35bec9c8` | HRCSL calls for report on alleged illegal Customs detention of consignment of Holy Quran in Tamil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-35bec9c8)
-- 2025-10-21 | `dailyftlk-220a83a2` | Kadurugamuwa presents credentials as Ambassador of Sri Lanka to Türkiye | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-220a83a2)
 
 ---
 
