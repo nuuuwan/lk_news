@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_06:29:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_07:14:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**81,998** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,003** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-21-dailyftlk-025f1af5",
-    "num": "dailyftlk-025f1af5",
+    "doc_id": "2025-10-21-tamilmirrorlk-aba0a003",
+    "num": "tamilmirrorlk-aba0a003",
     "date_str": "2025-10-21",
-    "description": "Top startups secure $ 160,000 funding at  First Capital Startup Nation by Hatch Demo Day",
-    "url_metadata": "https://www.ft.lk/business/Top-startups-secure-160-000-funding-at-First-Capital-Startup-Nation-by-Hatch-Demo-Day/34-783240",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1761007381.0
+    "description": "\u0b90\u0baf\u0bbe \u0baa\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bcb\u0b95\u0ba3\u0bc1\u0bae\u0bbe....\u0baa\u0bbe\u0baf\u0bc1\u0b99\u0bcd\u0b95",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0b90\u0baf\u0bbe-\u0baa\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1-\u0baa\u0bcb\u0b95\u0ba3\u0bc1\u0bae\u0bbe-\u0baa\u0bbe\u0baf\u0bc1\u0b99\u0bcd\u0b95/62-366582",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1761010622.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-21 | `tamilmirrorlk-aba0a003` | ஐயா பாய்ந்து போகணுமா....பாயுங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-aba0a003)
+- 2025-10-21 | `tamilmirrorlk-d4090ac1` | சகல பாடசாலைகளுக்கும் விடுமுறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-d4090ac1)
+- 2025-10-21 | `lankadeepalk-a57f4df5` | වායුගෝලයේ වෙනසින් මිලි මිටර් 100ක තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-a57f4df5)
 - 2025-10-21 | `dailyftlk-025f1af5` | Top startups secure $ 160,000 funding at  First Capital Startup Nation by Hatch Demo Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-025f1af5)
 - 2025-10-21 | `dailyftlk-2d6aa8de` | Maharaja Foods’  Rs. 112.5 m Rights Issue for expansion, debt repayment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-2d6aa8de)
 - 2025-10-21 | `dailyftlk-aa94ac94` | CA Sri Lanka honours five Chartered Accountants for lifelong service  to nation and profession | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-aa94ac94)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-21 | `colombotelegraphcom-2de05611` | US Dollar’s Collapse, Rise Of Bitcoin & The Run Of Gold | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-colombotelegraphcom-2de05611)
 - 2025-10-21 | `colombotelegraphcom-68a795d3` | President Seeks Swift Completion Of University Degrees: FUTA, Now It’s Your Call | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-colombotelegraphcom-68a795d3)
 - 2025-10-20 | `lankadeepalk-b1f880ad` | ගුවන් යානයක් ලිස්සා ගොස් මුහුදට වැටේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-lankadeepalk-b1f880ad)
-- 2025-10-20 | `virakesarilk-be6a9bfd` | பங்களாதேஷை பரபரப்பான முறையில் வீழ்த்தி மகளிர் உலகக் கிண்ணத்தில் முதல் வெற்றியை சுவைத்தது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-virakesarilk-be6a9bfd)
-- 2025-10-20 | `lankadeepalk-8cfeb88e` | ක්‍රිකට් තරගය අස්සේ දුරකතන උස්සලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-lankadeepalk-8cfeb88e)
-- 2025-10-20 | `islandlk-737e7f69` | ‘From nose to Tale’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-20-islandlk-737e7f69)
 
 ---
 
