@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-21 06:00:49",
-  "n_docs": 81988,
+  "time_updated": "2025-10-21 06:29:28",
+  "n_docs": 81998,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 81988,
+  "n_docs_with_text": 81998,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-21",
-  "dataset_size": 1210311918,
+  "dataset_size": 1210507819,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-21-dailyftlk-96d53744",
-    "num": "dailyftlk-96d53744",
+    "doc_id": "2025-10-21-dailyftlk-025f1af5",
+    "num": "dailyftlk-025f1af5",
     "date_str": "2025-10-21",
-    "description": "US Dollar\u2019s collapse, rise of Bitcoin and the run of gold",
-    "url_metadata": "https://www.ft.lk/columns/US-Dollar-s-collapse-rise-of-Bitcoin-and-the-run-of-gold/4-783201",
+    "description": "Top startups secure $ 160,000 funding at  First Capital Startup Nation by Hatch Demo Day",
+    "url_metadata": "https://www.ft.lk/business/Top-startups-secure-160-000-funding-at-First-Capital-Startup-Nation-by-Hatch-Demo-Day/34-783240",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761002921.0
+    "time_ut": 1761007381.0
   }
 }
