@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_08:14:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_09:03:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,006** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,013** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-21-tamilmirrorlk-3216bac8",
-    "num": "tamilmirrorlk-3216bac8",
+    "doc_id": "2025-10-21-virakesarilk-1d1e56cd",
+    "num": "virakesarilk-1d1e56cd",
     "date_str": "2025-10-21",
-    "description": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0bb5\u0bbe\u0b95\u0ba9 \u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b95\u0b9f\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9-\u0bb5\u0bbe\u0b95\u0ba9-\u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bcd/175-366583",
+    "description": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1, \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/228243",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761014369.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761016920.0
 }
 ```
 
@@ -41,9 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-21 | `virakesarilk-1d1e56cd` | துப்பாக்கிச் சூடு, மிரட்டல் குற்றங்களில் ஈடுபட்ட இருவர் போதைப் பொருட்களுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-1d1e56cd)
+- 2025-10-21 | `tamilmirrorlk-f400970a` | இலங்கை அரசின் கிளவுட் சேவை வழமைக்குத் திரும்பியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-f400970a)
+- 2025-10-21 | `tamilmirrorlk-6ace1595` | 10 மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-6ace1595)
+- 2025-10-21 | `tamilmirrorlk-1829eec4` | சீரற்ற காலநிலையால் இருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-1829eec4)
 - 2025-10-21 | `tamilmirrorlk-3216bac8` | கொழும்பில் கடுமையான வாகன நெரிசல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-3216bac8)
+- 2025-10-21 | `lankadeepalk-1bb3bcb5` | කපා කොටා එක්දරු පියා මරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-1bb3bcb5)
 - 2025-10-21 | `lankadeepalk-53e1a9c6` | ඝාතනයකට සම්බන්ධ 4ක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-53e1a9c6)
+- 2025-10-21 | `adalk-1ff59805` | තබ්බෝවේ වාන් දොරටු හතරක් විවෘතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-adalk-1ff59805)
 - 2025-10-21 | `tamilmirrorlk-aba0a003` | ஐயா பாய்ந்து போகணுமா....பாயுங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-aba0a003)
+- 2025-10-21 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-3a015e4a)
 - 2025-10-21 | `tamilmirrorlk-d4090ac1` | சகல பாடசாலைகளுக்கும் விடுமுறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-d4090ac1)
 - 2025-10-21 | `lankadeepalk-a57f4df5` | වායුගෝලයේ වෙනසින් මිලි මිටර් 100ක තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-a57f4df5)
 - 2025-10-21 | `dailyftlk-025f1af5` | Top startups secure $ 160,000 funding at  First Capital Startup Nation by Hatch Demo Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-025f1af5)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-10-21 | `dailyftlk-35bec9c8` | HRCSL calls for report on alleged illegal Customs detention of consignment of Holy Quran in Tamil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-35bec9c8)
 - 2025-10-21 | `dailyftlk-220a83a2` | Kadurugamuwa presents credentials as Ambassador of Sri Lanka to Türkiye | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-220a83a2)
 - 2025-10-21 | `dailyftlk-96d53744` | US Dollar’s collapse, rise of Bitcoin and the run of gold | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-96d53744)
-- 2025-10-21 | `dailyftlk-d143d8cb` | In turbulent trade times, South Asia needs reform, cooperation and resilience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-d143d8cb)
-- 2025-10-21 | `tamilmirrorlk-b59460a3` | சிம்பொனி எழுத இருக்கிறேன்: இளையராஜா அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-b59460a3)
-- 2025-10-21 | `dailyftlk-34b76465` | A storm in a teacup | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-34b76465)
-- 2025-10-21 | `dailyftlk-643956ad` | Microfinance debt: FCEJ calls on Govt. to take urgent measures to protect women from predatory lending | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-643956ad)
-- 2025-10-21 | `tamilmirrorlk-54bdfbb0` | தீபாவளியன்று போதைப் பொருளுடன் இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-tamilmirrorlk-54bdfbb0)
-- 2025-10-21 | `dailyftlk-c4205489` | Mass registration of individuals  for income tax: Misguided approach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-dailyftlk-c4205489)
-- 2025-10-21 | `colombotelegraphcom-2de05611` | US Dollar’s Collapse, Rise Of Bitcoin & The Run Of Gold | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-colombotelegraphcom-2de05611)
 
 ---
 
