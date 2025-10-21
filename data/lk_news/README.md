@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_21:23:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_21:47:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,172** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,174** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2025-10-21 | `virakesarilk-8dc6d332` | வவுனியா மாநகர சபையின் சபை செயற்பாடுகளுக்கு இடைக்கால தடை - மேல்முறையீட்டு நீதிமன்றம் உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-8dc6d332)
 - 2025-10-21 | `virakesarilk-cf3d1653` | யாழில் மழையுடன் சேர்ந்து விழுந்த மீன்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-cf3d1653)
 - 2025-10-21 | `lankadeepalk-77ae7100` | ස්පා නීති ගත කරන්නැයි ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-77ae7100)
+- 2025-10-21 | `lankadeepalk-99756f43` | දෙහිබාලා අල්ලන්නැයි නියෝගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-99756f43)
 - 2025-10-21 | `virakesarilk-f15e4ba1` | படுகொலை செய்யப்பட்ட ஊடகவியலாளர் நிமலராஜனின் நினைவேந்தல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-f15e4ba1)
 - 2025-10-21 | `lankadeepalk-67c60a0f` | සෞඛ්‍ය ආපදාවක් නම් මෙන්න  ‘හොට් ලයින්’ එක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-67c60a0f)
 - 2025-10-21 | `lankadeepalk-3b7a18ce` | ජාතික තරුණ ප්‍රතිපත්තියට අදහස්  කැඳවීම ඇරැඹේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-3b7a18ce)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-21 | `virakesarilk-237378fd` | ரசிகர்களின் கவனத்தை ஈர்க்கும் விஷ்ணு விஷாலின் 'ஆர்யன்' பட முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-237378fd)
 - 2025-10-21 | `virakesarilk-212a10b6` | ஐபிஎல் (இந்தியன் பீனல் லா) படத்தின் முதல் பார்வை வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-212a10b6)
 - 2025-10-21 | `lankadeepalk-6cddbecd` | උද්ධමනය ඉහළ යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-lankadeepalk-6cddbecd)
-- 2025-10-21 | `virakesarilk-e6ccfec5` | விஜய் அண்டனி வெளியிட்ட ஆர்.கே. சுரேஷின் 'ப்ளைண்ட்' பட ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-21-virakesarilk-e6ccfec5)
 
 ---
 
