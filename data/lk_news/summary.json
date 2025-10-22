@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-22 05:14:10",
-  "n_docs": 82198,
+  "time_updated": "2025-10-22 06:00:34",
+  "n_docs": 82221,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 82198,
+  "n_docs_with_text": 82221,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-22",
-  "dataset_size": 1213067650,
+  "dataset_size": 1213161819,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-22-tamilmirrorlk-41bb8c8b",
-    "num": "tamilmirrorlk-41bb8c8b",
+    "doc_id": "2025-10-22-dailyftlk-c6c02b30",
+    "num": "dailyftlk-c6c02b30",
     "date_str": "2025-10-22",
-    "description": "\u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1 25 \u0ba8\u0bbe\u0bb3\u0bc7\u0baf\u0bbe\u0ba9 \u0b9a\u0bbf\u0b9a\u0bc1 \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1-25-\u0ba8\u0bbe\u0bb3\u0bc7\u0baf\u0bbe\u0ba9-\u0b9a\u0bbf\u0b9a\u0bc1-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-366633",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761083906.0
+    "description": "Fixing the tax code: Fairness in, distortions out",
+    "url_metadata": "https://www.ft.lk/columns/Fixing-the-tax-code-Fairness-in-distortions-out/4-783264",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1761092785.0
   }
 }
