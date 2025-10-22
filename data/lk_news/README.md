@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--22_15:19:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--22_15:48:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,334** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,338** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-22-lankadeepalk-2523361d",
-    "num": "lankadeepalk-2523361d",
+    "doc_id": "2025-10-22-lankadeepalk-56f55e82",
+    "num": "lankadeepalk-56f55e82",
     "date_str": "2025-10-22",
-    "description": "\u0d9a\u0dd9\u0dc4\u0dd9\u0dbd\u0dca\u0db6\u0daf\u0dca\u0daf\u0dbb \u0db4\u0dad\u0dca\u0db8\u0dda\u0d9c\u0dd9\u0dca \u0daf\u0dd9\u0dca\u0db4\u0dc5 \u0dad\u0dc4\u0db1\u0db8\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dc4\u0dbd\u0db6\u0daf\u0daf\u0dbb-\u0db4\u0dad\u0db8\u0d9c-\u0daf\u0db4\u0dc5-\u0dad\u0dc4\u0db1\u0db8/101-681853",
+    "description": "\u0db1\u0dcf\u0d9c\u0daf\u0dd3\u0db4 - \u0da9\u0dd9\u0dbd\u0dca\u0dc6\u0dca \u0dba\u0db1 \u0da2\u0dd0\u0da7\u0dd2\u0dba \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db1\u0d9c\u0daf\u0db4-\u0da9\u0dbd\u0dc6-\u0dba\u0db1-\u0da2\u0da7\u0dba-\u0d85\u0dbd\u0dad-\u0d9a\u0dbb\u0dba/1-681855",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1761126198.0
+    "time_ut": 1761127811.0
 }
 ```
 
@@ -41,8 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-22 | `lankadeepalk-56f55e82` | නාගදීප - ඩෙල්ෆ් යන ජැටිය අලුත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-56f55e82)
+- 2025-10-22 | `lankadeepalk-c219754a` | ’ශ්‍රී ලාංකික දිනය’ තියන තැන්-දින තීරණය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-c219754a)
+- 2025-10-22 | `adalk-fb6f74b5` | රටේ ජාතික ආරක්ෂාව සම්බන්ධ විශාල ප්‍රශ්නයක් -  වගකීම රජය භාරගත යුතුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-adalk-fb6f74b5)
 - 2025-10-22 | `lankadeepalk-2523361d` | කෙහෙල්බද්දර පත්මේගේ දේපළ තහනම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-2523361d)
 - 2025-10-22 | `lankadeepalk-5ef940d0` | මනූෂගෙන් ඔහුගේ බිරිදගෙන් සී.අයි.ඩියට ප්‍රකාශයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-5ef940d0)
+- 2025-10-22 | `adalk-55d8a428` | වාහන බදු සංශෝධනයක් ගැන මේ වෙලාවේ කියන්න බෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-adalk-55d8a428)
 - 2025-10-22 | `virakesarilk-e2bec159` | தோல்வி அடையாமல் இருக்கும் பலசாலிகளான அவுஸ்திரேலியா - இங்கிலாந்து மோதும் போட்டி இன்று | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-e2bec159)
 - 2025-10-22 | `lankadeepalk-9a577376` | පොඩි දරුවන් රකින්න උපාය මාර්ගික සැලැස්මක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-9a577376)
 - 2025-10-22 | `virakesarilk-18a8dac5` | வெள்ளை மாளிகையில் டிரம்ப் தீபாவளி கொண்டாட்டம் : மோடியுடன் வர்த்தகம், பாகிஸ்தான் குறித்துப் பேச்சு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-18a8dac5)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-10-22 | `lankadeepalk-2095ba3b` | රජයේ මුද්‍රණ දෙපාර්තමේන්තුවට අලුත් යන්ත්‍ර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-2095ba3b)
 - 2025-10-22 | `adalk-16446e12` | 2026 වෙනුවෙන් පාසල් සිසුන් 729393කට පාහවන් තිළිණ පත් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-adalk-16446e12)
 - 2025-10-22 | `virakesarilk-b9e56d30` | கடற்படையால் நிறுவப்பட்ட நீர் சுத்திகரிப்பு நிலையங்கள் பொதுமக்களுக்கு கையளிக்கப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-b9e56d30)
-- 2025-10-22 | `lankadeepalk-f807bb31` | ශ්‍රේෂ්ඨාධිකරණ ගොඩනැගිල්ලේ විදුලි රැහැන් කොටස් සොරාගෙන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-f807bb31)
-- 2025-10-22 | `virakesarilk-3b13c911` | மழையுடனான காலநிலை : பாரதூரமான அனர்த்தங்கள் ஏதும் பதிவாகவில்லை ; இடர் முகாமைத்துவத்துக்கு முப்படையினரும் தயார் நிலையில் - பாதுகாப்பு பிரதி அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-3b13c911)
-- 2025-10-22 | `lankadeepalk-734533d4` | තැපැල් පනත මොඩ් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-734533d4)
-- 2025-10-22 | `lankadeepalk-4cee4bc4` | මුළු මැතිසබයම අද රෝස යායක් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-4cee4bc4)
 
 ---
 
