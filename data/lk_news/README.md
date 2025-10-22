@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--22_15:48:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--22_16:20:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,338** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,341** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-22-lankadeepalk-56f55e82",
-    "num": "lankadeepalk-56f55e82",
+    "doc_id": "2025-10-22-lankadeepalk-2331c2d8",
+    "num": "lankadeepalk-2331c2d8",
     "date_str": "2025-10-22",
-    "description": "\u0db1\u0dcf\u0d9c\u0daf\u0dd3\u0db4 - \u0da9\u0dd9\u0dbd\u0dca\u0dc6\u0dca \u0dba\u0db1 \u0da2\u0dd0\u0da7\u0dd2\u0dba \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db1\u0d9c\u0daf\u0db4-\u0da9\u0dbd\u0dc6-\u0dba\u0db1-\u0da2\u0da7\u0dba-\u0d85\u0dbd\u0dad-\u0d9a\u0dbb\u0dba/1-681855",
+    "description": "\u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc3\u0db8\u0d9c \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba 5 \u0d9a\u0dca \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dad\u0db4\u0dbd-\u0daf\u0db8\u0dbb\u0dba-\u0daf\u0d9a\u0d9a-\u0dc3\u0db8\u0d9c-\u0daf\u0db8\u0dbb\u0dba-5-\u0d9a-\u0d85\u0dc0\u0dbd\u0d9c\u0dba/1-681857",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1761127811.0
+    "time_ut": 1761129801.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-22 | `lankadeepalk-2331c2d8` | තැපැල් දුම්රිය දෙකක් සමග දුම්රිය 5 ක් අවලංගුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-2331c2d8)
+- 2025-10-22 | `lankadeepalk-9c6c2784` | කොළඹ මහ නගර සභාව කෝටි 367ක් වැටුප් ගෙවලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-9c6c2784)
 - 2025-10-22 | `lankadeepalk-56f55e82` | නාගදීප - ඩෙල්ෆ් යන ජැටිය අලුත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-56f55e82)
+- 2025-10-22 | `adalk-eb4cde23` | පද්මේ මට ඩුබායිවලදී හමුවුණා, මුදල් ගණුදෙනු කර නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-adalk-eb4cde23)
 - 2025-10-22 | `lankadeepalk-c219754a` | ’ශ්‍රී ලාංකික දිනය’ තියන තැන්-දින තීරණය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-c219754a)
 - 2025-10-22 | `adalk-fb6f74b5` | රටේ ජාතික ආරක්ෂාව සම්බන්ධ විශාල ප්‍රශ්නයක් -  වගකීම රජය භාරගත යුතුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-adalk-fb6f74b5)
 - 2025-10-22 | `lankadeepalk-2523361d` | කෙහෙල්බද්දර පත්මේගේ දේපළ තහනම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-2523361d)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-22 | `virakesarilk-c409b86f` | அமைச்சுகளின் செயல்பாடுகள், அவற்றின் கீழுள்ள நிறுவனங்களை மறுவரையறை செய்து அதிவிசேட வர்த்தமானி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-c409b86f)
 - 2025-10-22 | `lankadeepalk-d4b5e015` | නාය යා හැකි තැන් සිතියම් ගත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-d4b5e015)
 - 2025-10-22 | `lankadeepalk-d0f46279` | ආබාධ අයට ඕන උපකරණ ලංකාවේ හදන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-d0f46279)
-- 2025-10-22 | `lankadeepalk-2095ba3b` | රජයේ මුද්‍රණ දෙපාර්තමේන්තුවට අලුත් යන්ත්‍ර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-2095ba3b)
-- 2025-10-22 | `adalk-16446e12` | 2026 වෙනුවෙන් පාසල් සිසුන් 729393කට පාහවන් තිළිණ පත් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-adalk-16446e12)
-- 2025-10-22 | `virakesarilk-b9e56d30` | கடற்படையால் நிறுவப்பட்ட நீர் சுத்திகரிப்பு நிலையங்கள் பொதுமக்களுக்கு கையளிக்கப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-b9e56d30)
 
 ---
 
