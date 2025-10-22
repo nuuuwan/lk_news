@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-22 18:56:17",
-  "n_docs": 82375,
+  "time_updated": "2025-10-22 19:22:58",
+  "n_docs": 82385,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 82375,
+  "n_docs_with_text": 82385,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-22",
-  "dataset_size": 1216691514,
+  "dataset_size": 1216742607,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-22-lankadeepalk-e2f0bf9a",
-    "num": "lankadeepalk-e2f0bf9a",
+    "doc_id": "2025-10-22-virakesarilk-1c5ff748",
+    "num": "virakesarilk-1c5ff748",
     "date_str": "2025-10-22",
-    "description": "\u0db4\u0ddc\u0db1\u0dca\u0db1\u0dd2  \u0dc3\u0dc4\u0dbd\u0dca \u0dba\u0da7 \u0d9c\u0dda\u0db8\u0dca \u0d91\u0d9a\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0db1\u0db1-\u0dc3\u0dc4\u0dbd-\u0dba\u0da7-\u0d9c\u0db8-\u0d91\u0d9a\u0d9a/101-681864",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1761137218.0
+    "description": "\u0bae\u0bbe\u0bb0\u0bcd\u0baa\u0b95\u0baa\u0bcd \u0baa\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0bb5\u0bbf\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc2\u0b9f\u0bcd\u0b9f\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf \u0b87\u0bb3\u0b9e\u0bcd\u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bae\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bbf\u0baf \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/228407",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761138840.0
   }
 }
