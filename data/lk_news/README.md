@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_00:46:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_01:15:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,409** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,411** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-23-dailyftlk-d578df8f",
-    "num": "dailyftlk-d578df8f",
+    "doc_id": "2025-10-23-dailyftlk-2db21a88",
+    "num": "dailyftlk-2db21a88",
     "date_str": "2025-10-23",
-    "description": "Resistance matrix: How a narrative was forged to remake the Middle East",
-    "url_metadata": "https://www.ft.lk/columns/Resistance-matrix-How-a-narrative-was-forged-to-remake-the-Middle-East/4-783311",
+    "description": "\u201cGovt. should impose death penalty\u201d \u2013 Prof. Mahanamahewa",
+    "url_metadata": "https://www.ft.lk/opinion/Govt-should-impose-death-penalty-Prof-Mahanamahewa/14-783313",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761158949.0
+    "time_ut": 1761160660.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-23 | `dailyftlk-2db21a88` | “Govt. should impose death penalty” – Prof. Mahanamahewa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-2db21a88)
+- 2025-10-23 | `dailyftlk-09ac6400` | Electoral reactivation of provincial councils is an urgent systemic imperative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-09ac6400)
 - 2025-10-23 | `dailyftlk-d578df8f` | Resistance matrix: How a narrative was forged to remake the Middle East | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-d578df8f)
 - 2025-10-23 | `dailyftlk-f9e5cd6b` | Unspoken rift: When founders and siblings collide in family businesses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-f9e5cd6b)
 - 2025-10-22 | `dailyftlk-427cedab` | Benchmarking National Budget 2026 and making theatrics of cheerleaders superfluous | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-dailyftlk-427cedab)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-22 | `virakesarilk-c62453a4` | மனவளர்ச்சி குறைபாடு, நரம்பு விருத்திக் குறைபாடுகளைக் கொண்ட சிறுவர்களுக்கு ஐந்தாண்டு தேசிய வேலைத்திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-c62453a4)
 - 2025-10-22 | `virakesarilk-1c5ff748` | மார்பகப் புற்றுநோய்க்கு எதிரான விழிப்புணர்வூட்டலுக்கு ஒத்துழைப்பு வழங்கி இளஞ்சிவப்பு நிறமாக மாறிய பாராளுமன்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-1c5ff748)
 - 2025-10-22 | `virakesarilk-e54e39a7` | விஜய் - சூர்யா இணைந்து நடித்த 'பிரண்ட்ஸ்' ரீ ரிலீஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-e54e39a7)
-- 2025-10-22 | `virakesarilk-1aa4c429` | வெற்றி மாறன் வெளியிட்ட 'மெல்லிசை' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-1aa4c429)
-- 2025-10-22 | `virakesarilk-b3b1319b` | நடிகர் ரிச்சர்ட் ரிஷி நடிக்கும் 'திரௌபதி 2 'படத்தின் அப்டேட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-b3b1319b)
 
 ---
 
