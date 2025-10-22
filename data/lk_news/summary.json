@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-22 23:49:07",
-  "n_docs": 82406,
+  "time_updated": "2025-10-23 00:23:24",
+  "n_docs": 82409,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 82406,
+  "n_docs_with_text": 82409,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2025-10-22",
-  "dataset_size": 1217306129,
+  "date_str_max": "2025-10-23",
+  "dataset_size": 1217349713,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-22-tamilmirrorlk-fa534225",
-    "num": "tamilmirrorlk-fa534225",
-    "date_str": "2025-10-22",
-    "description": "\u0b95\u0bc6\u0bb9\u0bb2\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bb0 \u0baa\u0ba4\u0bcd\u0bae\u0bc7\u0bb5\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f \u0baa\u0bbf\u0baf\u0bc2\u0bae\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc6\u0bb9\u0bb2\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bb0-\u0baa\u0ba4\u0bcd\u0bae\u0bc7\u0bb5\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bc8-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f-\u0baa\u0bbf\u0baf\u0bc2\u0bae\u0bbf/175-366693",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761154869.0
+    "doc_id": "2025-10-23-dailyftlk-d578df8f",
+    "num": "dailyftlk-d578df8f",
+    "date_str": "2025-10-23",
+    "description": "Resistance matrix: How a narrative was forged to remake the Middle East",
+    "url_metadata": "https://www.ft.lk/columns/Resistance-matrix-How-a-narrative-was-forged-to-remake-the-Middle-East/4-783311",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1761158949.0
   }
 }

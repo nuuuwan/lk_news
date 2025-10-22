@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--22_23:49:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_00:24:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,406** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,409** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-22-tamilmirrorlk-fa534225",
-    "num": "tamilmirrorlk-fa534225",
-    "date_str": "2025-10-22",
-    "description": "\u0b95\u0bc6\u0bb9\u0bb2\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bb0 \u0baa\u0ba4\u0bcd\u0bae\u0bc7\u0bb5\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f \u0baa\u0bbf\u0baf\u0bc2\u0bae\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc6\u0bb9\u0bb2\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bb0-\u0baa\u0ba4\u0bcd\u0bae\u0bc7\u0bb5\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bc1-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bc8-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f-\u0baa\u0bbf\u0baf\u0bc2\u0bae\u0bbf/175-366693",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761154869.0
+    "doc_id": "2025-10-23-dailyftlk-d578df8f",
+    "num": "dailyftlk-d578df8f",
+    "date_str": "2025-10-23",
+    "description": "Resistance matrix: How a narrative was forged to remake the Middle East",
+    "url_metadata": "https://www.ft.lk/columns/Resistance-matrix-How-a-narrative-was-forged-to-remake-the-Middle-East/4-783311",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1761158949.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-23 | `dailyftlk-d578df8f` | Resistance matrix: How a narrative was forged to remake the Middle East | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-d578df8f)
+- 2025-10-23 | `dailyftlk-f9e5cd6b` | Unspoken rift: When founders and siblings collide in family businesses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-f9e5cd6b)
+- 2025-10-22 | `dailyftlk-427cedab` | Benchmarking National Budget 2026 and making theatrics of cheerleaders superfluous | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-dailyftlk-427cedab)
 - 2025-10-22 | `tamilmirrorlk-fa534225` | கெஹல்பத்தர பத்மேவுடனான தொடர்பு குறித்து உண்மையை வெளியிட்ட பியூமி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-tamilmirrorlk-fa534225)
 - 2025-10-22 | `lankadeepalk-bef7ffd3` | ‘‘වැලිගම සභාපති පාතාලයෙක්‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-bef7ffd3)
 - 2025-10-22 | `lankadeepalk-70701cf9` | ‘‘විදුලි මිල වැඩි විය යුතුමයි‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-lankadeepalk-70701cf9)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-22 | `virakesarilk-e54e39a7` | விஜய் - சூர்யா இணைந்து நடித்த 'பிரண்ட்ஸ்' ரீ ரிலீஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-e54e39a7)
 - 2025-10-22 | `virakesarilk-1aa4c429` | வெற்றி மாறன் வெளியிட்ட 'மெல்லிசை' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-1aa4c429)
 - 2025-10-22 | `virakesarilk-b3b1319b` | நடிகர் ரிச்சர்ட் ரிஷி நடிக்கும் 'திரௌபதி 2 'படத்தின் அப்டேட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-b3b1319b)
-- 2025-10-22 | `virakesarilk-161eacc5` | ஆசிய இளையோர் விளையாட்டு விழா: ஆண்களுக்கான கபடி போட்டியில் ஈரானிடம் இலங்கை படுதோல்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-161eacc5)
-- 2025-10-22 | `virakesarilk-e841e57a` | 'இலங்கையர் தினம்' தேசிய நிகழ்ச்சித்திட்டத்துக்கு அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-e841e57a)
-- 2025-10-22 | `virakesarilk-0eadf7e5` | ஆஸ்திரேலிய தேசிய பாதுகாப்பு கல்லூரி தூதுக்குழுவின் கடற்படை தலைமையக உத்தியோகபூர்வ விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-0eadf7e5)
 
 ---
 
