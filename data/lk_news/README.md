@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--22_06:01:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--22_06:30:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,221** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,222** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -53,6 +53,7 @@ A collection of lk_news documents.
 - 2025-10-22 | `dailyftlk-48466fa0` | E.B. Creasy announces key dates for Rs. 1. 5 b Rights Issue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-dailyftlk-48466fa0)
 - 2025-10-22 | `dailyftlk-1ab2c7d5` | Sri Lanka – Greater Mekong Business Council holds 14th AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-dailyftlk-1ab2c7d5)
 - 2025-10-22 | `dailyftlk-db38df49` | Havelock City Mall celebrates two years with ‘Tenant Partner Excellence Awards’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-dailyftlk-db38df49)
+- 2025-10-22 | `tamilmirrorlk-5593e365` | போதைக்கு அடிமையான இளம் யுவதி தவறான முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-tamilmirrorlk-5593e365)
 - 2025-10-22 | `tamilmirrorlk-41bb8c8b` | பிறந்து 25 நாளேயான சிசு உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-tamilmirrorlk-41bb8c8b)
 - 2025-10-22 | `virakesarilk-98ccd335` | மட்டக்களப்பில் இருந்து மாகோ நோக்கி சென்ற புகையிரதத்துடன் வெலிகந்த பகுதியில் யானை மோதி உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-98ccd335)
 - 2025-10-22 | `virakesarilk-24d49c13` | உரிமைகளைப்பெற எமது இளையோர் "நச்சுக் குப்பி" அணிந்துகொண்டு போராடினர்; உயிர் அச்சுறுத்தல்களுக்கும் மிரட்டல்களும் அஞ்சேன் என்கிறார் - ரவிகரன் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-24d49c13)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-22 | `virakesarilk-cce18ef4` | பலஸ்தீனத்தில் நிகழ்த்தப்பட்ட போர்க்குற்றங்கள்: குற்றவாளிகள் பொறுப்புக்கூறலுக்கு உட்படுத்தப்படவேண்டும் - கவனயீர்ப்புப்பேரணியுடன் ஐ.நாவுக்கு மகஜர் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-cce18ef4)
 - 2025-10-22 | `virakesarilk-3f385b9e` | ஆசிய இளையோர் விளையாட்டு விழா: கடற்கரை கரப்பந்தாட்டத்தில் இலங்கைக்கு 2 வெற்றிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-3f385b9e)
 - 2025-10-22 | `virakesarilk-1e18de95` | ஹொங்கொங் சிக்சஸ்: இலங்கை அணி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-1e18de95)
-- 2025-10-22 | `islandlk-b76272f5` | Boldly flavored burgers arrive in Sri Lanka with Domino’s The Dominator | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-islandlk-b76272f5)
 
 ---
 
