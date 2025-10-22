@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_03:45:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_04:14:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,428** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,435** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-23-dailyftlk-d96f3bc2",
-    "num": "dailyftlk-d96f3bc2",
+    "doc_id": "2025-10-23-tamilmirrorlk-5f86e181",
+    "num": "tamilmirrorlk-5f86e181",
     "date_str": "2025-10-23",
-    "description": "Govt. will not tolerate creating divisions among ethnic communities: Cabinet Spokesman",
-    "url_metadata": "https://www.ft.lk/news/Govt-will-not-tolerate-creating-divisions-among-ethnic-communities-Cabinet-Spokesman/56-783341",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1761166272.0
+    "description": "\u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0ba9\u0bbe\u0bb3\u0bbf \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba9\u0bcd\u0b9a\u0bbe\u0bb0\u0bae\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0ba9\u0bbe\u0bb3\u0bbf-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-366694",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1761172262.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-23 | `tamilmirrorlk-5f86e181` | மின்சாரம் தாக்கி மாற்றுத்திறனாளி உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-5f86e181)
+- 2025-10-23 | `virakesarilk-76553674` | கல்பிட்டி கடற்கரையில் கடலுக்குள் சட்டவிரோதமாக கடத்தப்பட்ட 1416 கிலோ பீடி இலைகளை கடற்படையினர் கைப்பற்றினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-76553674)
+- 2025-10-23 | `virakesarilk-10160e4b` | யாழில். போதை மாத்திரை வியாபாரியான 20 வயதுடைய இளைஞன் உள்ளிட்ட இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-10160e4b)
+- 2025-10-23 | `virakesarilk-55e1fcff` | பிரான்சிலிருந்து துவிச்சக்கர வண்டியில் 10 ஆயிரம் கிலோமீற்றர் பயணம் செய்து யாழ்ப்பாணம் வந்தடைந்த சூரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-55e1fcff)
+- 2025-10-23 | `virakesarilk-68f18456` | பத்மாவின் குற்றச்செயல்களுக்கு துப்பாக்கி  விநியோகஸ்தராக செயற்பட்ட “கம்பஹா பபா“ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-68f18456)
+- 2025-10-23 | `virakesarilk-df7070de` | திருநெல்வேலி அரசடி சிவகாம சுந்தரி அம்பாள் ஆலய இராஜ கோபுரத்திற்கான அடிக்கல் நாட்டல் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-df7070de)
+- 2025-10-23 | `virakesarilk-fc837123` | குறிகட்டுவான் இறங்குதுறையை நிர்மாணிப்பதற்கு அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-fc837123)
 - 2025-10-23 | `dailyftlk-d96f3bc2` | Govt. will not tolerate creating divisions among ethnic communities: Cabinet Spokesman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-d96f3bc2)
 - 2025-10-23 | `dailyftlk-06da9310` | Weligama PS Chairman’s murder: Four Police teams deployed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-06da9310)
 - 2025-10-23 | `dailyftlk-f5695574` | Rs. 630 m allocated to locally manufacture assistive devices for differently-abled | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-f5695574)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-10-23 | `dailyftlk-5cc8a2b1` | Govt. to allocate more for mitigating floods from 2026 Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-5cc8a2b1)
 - 2025-10-23 | `dailyftlk-a3837832` | Survivors seek $ 15 m in reparations for 1989 Valvettithurai massacre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-a3837832)
 - 2025-10-23 | `dailyftlk-2db21a88` | “Govt. should impose death penalty” – Prof. Mahanamahewa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-2db21a88)
-- 2025-10-23 | `dailyftlk-09ac6400` | Electoral reactivation of provincial councils is an urgent systemic imperative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-09ac6400)
-- 2025-10-23 | `dailyftlk-d578df8f` | Resistance matrix: How a narrative was forged to remake the Middle East | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-d578df8f)
-- 2025-10-23 | `dailyftlk-f9e5cd6b` | Unspoken rift: When founders and siblings collide in family businesses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-f9e5cd6b)
-- 2025-10-22 | `virakesarilk-5ee860c7` | இந்தோனேஷியாவில் இருந்து அழைத்து வரப்பட்ட கெஹல்பத்தர பத்மேயுடன் தொடர்பு ; பியூமியிடம் சி.ஐ.டி.சிறப்பு விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-5ee860c7)
-- 2025-10-22 | `dailyftlk-427cedab` | Benchmarking National Budget 2026 and making theatrics of cheerleaders superfluous | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-dailyftlk-427cedab)
-- 2025-10-22 | `virakesarilk-04bed64e` | புதுப்பிக்கத்தக்க ஆற்றலை குறைக்க வேண்டாம்; முன்னர் செலுத்திய தொகையையே செலுத்தங்கள் - சஜித் பிரேமதாச அரசாங்கத்திடம் வேண்டுகோள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-virakesarilk-04bed64e)
-- 2025-10-22 | `tamilmirrorlk-fa534225` | கெஹல்பத்தர பத்மேவுடனான தொடர்பு குறித்து உண்மையை வெளியிட்ட பியூமி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-22-tamilmirrorlk-fa534225)
 
 ---
 
