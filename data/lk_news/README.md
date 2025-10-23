@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_03:14:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_03:46:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,623** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,628** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-24-dailyftlk-5e9b5d24",
-    "num": "dailyftlk-5e9b5d24",
+    "doc_id": "2025-10-24-dailyftlk-caaed0bf",
+    "num": "dailyftlk-caaed0bf",
     "date_str": "2025-10-24",
-    "description": "Budget 2026:\u00a0Interest or investment?",
-    "url_metadata": "https://www.ft.lk/columns/Budget-2026-Interest-or-investment/4-783377",
+    "description": "Researchers urged to drive agri-modernisation to cut import dependency",
+    "url_metadata": "https://www.ft.lk/news/Researchers-urged-to-drive-agri-modernisation-to-cut-import-dependency/56-783412",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761254021.0
+    "time_ut": 1761257302.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-24 | `dailyftlk-caaed0bf` | Researchers urged to drive agri-modernisation to cut import dependency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-caaed0bf)
+- 2025-10-24 | `dailyftlk-8b43747d` | Over 700 acres of land in North and East released to public | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-8b43747d)
+- 2025-10-24 | `dailyftlk-8e7498fd` | Four dead, over 3,000 families affected by heavy rains across 14 districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-8e7498fd)
+- 2025-10-24 | `dailyftlk-2e7b28d0` | Sectoral Oversight Committee reviews 2025 Budget progress of key ministries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-2e7b28d0)
+- 2025-10-24 | `dailyftlk-cd937cb4` | Newly-appointed Consul General of Sri Lanka assumes duties in Shanghai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-cd937cb4)
 - 2025-10-24 | `dailyftlk-5e9b5d24` | Budget 2026: Interest or investment? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-5e9b5d24)
 - 2025-10-24 | `dailyftlk-ef47ab81` | Betrayal of trust | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-ef47ab81)
 - 2025-10-24 | `dailyftlk-52eb7802` | Budget 26: Reset the policy paradigm | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-52eb7802)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-10-23 | `virakesarilk-27761783` | பெக்கோ சமானுக்கு சொந்தமான 2 சொகுசு பேருந்துகள் பொலிஸாரால் கையகப்படுத்தப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-27761783)
 - 2025-10-23 | `lankadeepalk-5c142b0b` | රාත්‍රි තැපැල් දුම්රිය කිතල්ඇල්ලෙන් පීලි පනි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-5c142b0b)
 - 2025-10-23 | `lankadeepalk-90369470` | කිරි - වී ගොවි හබේකට ගවයන් 22 ක් කපලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-90369470)
-- 2025-10-23 | `virakesarilk-d70b78ac` | மீனவர் பிரச்சினைக்கு தீர்வு எங்கே என்ற தொனிப்பொருளில் வடக்கில் மாநாடு; வட மாகாண மீனவர் சங்கங்களின் இணையத்தின்  தலைவர் முகமட் ஆழம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-d70b78ac)
-- 2025-10-23 | `lankadeepalk-805a4c27` | සල්පිලේ පලතුරු වට්ටියට ලක්ෂ 16ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-805a4c27)
-- 2025-10-23 | `lankadeepalk-62c5306b` | ජාතික රෝහල් උපස්ථායකගේ යතුරු පැදියේ උණ්ඩ 8 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-62c5306b)
-- 2025-10-23 | `lankadeepalk-72586fca` | ගොඩනැගිලි හදන විට හිතුමතේ වැඩ දැමිලි බෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-72586fca)
-- 2025-10-23 | `virakesarilk-2967a190` | இந்தியாவுடனான சர்வதேச ஒருநாள் கிரிக்கெட்டில் அவுஸ்திரேலியாவுக்கு தொடர்ச்சியான வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-2967a190)
 
 ---
 
