@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_11:17:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_11:49:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,484** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,490** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-23-tamilmirrorlk-8af937a9",
-    "num": "tamilmirrorlk-8af937a9",
+    "doc_id": "2025-10-23-tamilmirrorlk-baf33ef1",
+    "num": "tamilmirrorlk-baf33ef1",
     "date_str": "2025-10-23",
-    "description": "\u0baa\u0bbe\u0ba4\u0bbe\u0bb3 \u0b89\u0bb2\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0baa\u0bbe\u0ba4\u0bbe\u0bb3-\u0b89\u0bb2\u0b95\u0bae\u0bcd/62-366709",
+    "description": "\u0b95\u0bbf\u0bb3\u0bb5\u0bc1\u0b9f\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 AI \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbf\u0bb3\u0bb5\u0bc1\u0b9f\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0baa\u0bcd-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-AI-\u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc8\u0baa\u0bcd-\u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1/175-366714",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761197841.0
+    "time_ut": 1761200153.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-23 | `tamilmirrorlk-baf33ef1` | கிளவுட் சேவைப் பாதுகாப்பிற்கு AI அமைப்பைப் பயன்படுத்த முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-baf33ef1)
+- 2025-10-23 | `tamilmirrorlk-9debcff8` | அழுதார் பெண் வேட்பாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-9debcff8)
+- 2025-10-23 | `lankadeepalk-780728dc` | කොරියා රැකියා විභාග වලට ඉලෙක්ට්‍රොනික විභාග මධ්‍යස්ථානයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-780728dc)
+- 2025-10-23 | `tamilmirrorlk-e4e82862` | நைஜீரியாவில் பெட்ரோல் லாரி வெடித்து 39 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-e4e82862)
 - 2025-10-23 | `tamilmirrorlk-8af937a9` | பாதாள உலகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-8af937a9)
 - 2025-10-23 | `lankadeepalk-2d9ca772` | කැලණිවැලි කෝච්චි පාර රත්නපුරේට දිගු කරන්න අධ්‍යයනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-2d9ca772)
 - 2025-10-23 | `lankadeepalk-784fdb7d` | සයිබර් අපරාධ මඩින සම්මුතියට ලංකාවත් එකඟ වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-784fdb7d)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-10-23 | `tamilmirrorlk-fa4d7448` | மருத்துவமனை உதவியாளரிடம் ஆயுதங்கள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-fa4d7448)
 - 2025-10-23 | `virakesarilk-7f4228a3` | 25 வயதிற்கு மேற்பட்ட நான்கு பேரில் ஒருவருக்கு பக்கவாதம் ஏற்படும் அபாயம் - சுகாதார நிபுணர்கள் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-7f4228a3)
 - 2025-10-23 | `tamilmirrorlk-78f15a23` | தண்டவாளத்தில் முறிந்து விழுந்த மரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-78f15a23)
-- 2025-10-23 | `tamilmirrorlk-cf951386` | அவசர அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-cf951386)
-- 2025-10-23 | `virakesarilk-2a526c01` | யாழில் போதைப்பொருள், வாளுடன் இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-2a526c01)
-- 2025-10-23 | `virakesarilk-c6c1ab6b` | மரம் முறிந்து விழுந்து கரையோர மார்க்கத்திலான ரயில் சேவைகள் பாதிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-c6c1ab6b)
-- 2025-10-23 | `virakesarilk-5c4df2f0` | இரு வெவ்வேறு வீதி விபத்துக்களில் இருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-5c4df2f0)
 
 ---
 
