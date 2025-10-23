@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_09:22:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_09:46:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,461** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,462** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2025-10-23 | `tamilmirrorlk-76fce414` | ஐஸ் போதைப் பொருளுடன் இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-76fce414)
 - 2025-10-23 | `lankadeepalk-fa5df4ae` | රෝහල් සේවකයාගේ යතුරුපැදියේ T56උණ්ඩ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-fa5df4ae)
 - 2025-10-23 | `tamilmirrorlk-378f5156` | தாழமுக்கம் ஏற்படும் சாத்தியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-378f5156)
+- 2025-10-23 | `adalk-f5974b43` | අද වහින්නේ මෙහෙමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-adalk-f5974b43)
 - 2025-10-23 | `lankadeepalk-bf084305` | ව්‍යවස්ථා සංශෝධනයට කල්මැරීම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-bf084305)
 - 2025-10-23 | `adalk-1cb506c5` | මේ වසරේ LPL තරගාවලිය නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-adalk-1cb506c5)
 - 2025-10-23 | `tamilmirrorlk-c47bcf64` | போதை மாத்திரைகளுடன் 2 சந்தேகநபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-c47bcf64)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-23 | `virakesarilk-df7070de` | திருநெல்வேலி அரசடி சிவகாம சுந்தரி அம்பாள் ஆலய இராஜ கோபுரத்திற்கான அடிக்கல் நாட்டல் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-df7070de)
 - 2025-10-23 | `virakesarilk-fc837123` | குறிகட்டுவான் இறங்குதுறையை நிர்மாணிப்பதற்கு அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-fc837123)
 - 2025-10-23 | `dailyftlk-d96f3bc2` | Govt. will not tolerate creating divisions among ethnic communities: Cabinet Spokesman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-d96f3bc2)
-- 2025-10-23 | `dailyftlk-06da9310` | Weligama PS Chairman’s murder: Four Police teams deployed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-dailyftlk-06da9310)
 
 ---
 
