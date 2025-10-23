@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_03:46:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_04:16:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,628** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,629** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-24-dailyftlk-caaed0bf",
-    "num": "dailyftlk-caaed0bf",
+    "doc_id": "2025-10-24-tamilmirrorlk-90c42d88",
+    "num": "tamilmirrorlk-90c42d88",
     "date_str": "2025-10-24",
-    "description": "Researchers urged to drive agri-modernisation to cut import dependency",
-    "url_metadata": "https://www.ft.lk/news/Researchers-urged-to-drive-agri-modernisation-to-cut-import-dependency/56-783412",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1761257302.0
+    "description": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb9\u0bb0\u0bbf\u0ba3\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd \u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b85\u0ba3\u0bbf \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd-\u0bb9\u0bb0\u0bbf\u0ba3\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd-\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd-\u0b85\u0ba3\u0bbf-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-366764",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1761258033.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-24 | `tamilmirrorlk-90c42d88` | பிரதமர் ஹரிணியுடன் மகளிர் கிரிக்கெட் அணி சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-90c42d88)
 - 2025-10-24 | `dailyftlk-caaed0bf` | Researchers urged to drive agri-modernisation to cut import dependency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-caaed0bf)
 - 2025-10-24 | `dailyftlk-8b43747d` | Over 700 acres of land in North and East released to public | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-8b43747d)
 - 2025-10-24 | `dailyftlk-8e7498fd` | Four dead, over 3,000 families affected by heavy rains across 14 districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-8e7498fd)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-23 | `virakesarilk-44d1e68f` | 3ஆவது ஆசிய இளையோர் விளையாட்டு விழா: முப்பாய்ச்சல் பதக்கத்தை தவறவிட்டார் இலங்கை வீரர் சுதாரக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-44d1e68f)
 - 2025-10-23 | `virakesarilk-27761783` | பெக்கோ சமானுக்கு சொந்தமான 2 சொகுசு பேருந்துகள் பொலிஸாரால் கையகப்படுத்தப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-27761783)
 - 2025-10-23 | `lankadeepalk-5c142b0b` | රාත්‍රි තැපැල් දුම්රිය කිතල්ඇල්ලෙන් පීලි පනි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-5c142b0b)
-- 2025-10-23 | `lankadeepalk-90369470` | කිරි - වී ගොවි හබේකට ගවයන් 22 ක් කපලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-90369470)
 
 ---
 
