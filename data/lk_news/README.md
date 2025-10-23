@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_02:45:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_03:14:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,621** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,623** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-24-dailyftlk-52eb7802",
-    "num": "dailyftlk-52eb7802",
+    "doc_id": "2025-10-24-dailyftlk-5e9b5d24",
+    "num": "dailyftlk-5e9b5d24",
     "date_str": "2025-10-24",
-    "description": "Budget 26: Reset the policy paradigm",
-    "url_metadata": "https://www.ft.lk/opinion/Budget-26-Reset-the-policy-paradigm/14-783375",
+    "description": "Budget 2026:\u00a0Interest or investment?",
+    "url_metadata": "https://www.ft.lk/columns/Budget-2026-Interest-or-investment/4-783377",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761253534.0
+    "time_ut": 1761254021.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-24 | `dailyftlk-5e9b5d24` | Budget 2026: Interest or investment? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-5e9b5d24)
+- 2025-10-24 | `dailyftlk-ef47ab81` | Betrayal of trust | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-ef47ab81)
 - 2025-10-24 | `dailyftlk-52eb7802` | Budget 26: Reset the policy paradigm | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-52eb7802)
 - 2025-10-24 | `dailyftlk-f7296145` | Can AI help Sri Lanka leapfrog in digitisation drive? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-f7296145)
 - 2025-10-24 | `dailyftlk-2771aa9b` | Virtusa hosts leadership from British insurer CFC to unveil 200-seat digital service hub in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-2771aa9b)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-23 | `lankadeepalk-62c5306b` | ජාතික රෝහල් උපස්ථායකගේ යතුරු පැදියේ උණ්ඩ 8 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-62c5306b)
 - 2025-10-23 | `lankadeepalk-72586fca` | ගොඩනැගිලි හදන විට හිතුමතේ වැඩ දැමිලි බෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-72586fca)
 - 2025-10-23 | `virakesarilk-2967a190` | இந்தியாவுடனான சர்வதேச ஒருநாள் கிரிக்கெட்டில் அவுஸ்திரேலியாவுக்கு தொடர்ச்சியான வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-2967a190)
-- 2025-10-23 | `lankadeepalk-b76ed574` | වැලිගම සභාපති ඝාතකයන් යතුරු පැදි දෙකකින් පළා ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-b76ed574)
-- 2025-10-23 | `lankadeepalk-7e01b4b9` | ස්වීඩන් කතර රැඳවුම් බාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-7e01b4b9)
 
 ---
 
