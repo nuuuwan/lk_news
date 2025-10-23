@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_02:17:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_02:45:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,619** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,621** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-24-dailyftlk-f7296145",
-    "num": "dailyftlk-f7296145",
+    "doc_id": "2025-10-24-dailyftlk-52eb7802",
+    "num": "dailyftlk-52eb7802",
     "date_str": "2025-10-24",
-    "description": "Can AI help Sri Lanka leapfrog in digitisation drive?",
-    "url_metadata": "https://www.ft.lk/columns/Can-AI-help-Sri-Lanka-leapfrog-in-digitisation-drive/4-783370",
+    "description": "Budget 26: Reset the policy paradigm",
+    "url_metadata": "https://www.ft.lk/opinion/Budget-26-Reset-the-policy-paradigm/14-783375",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761251658.0
+    "time_ut": 1761253534.0
 }
 ```
 
@@ -41,11 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-24 | `dailyftlk-52eb7802` | Budget 26: Reset the policy paradigm | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-52eb7802)
 - 2025-10-24 | `dailyftlk-f7296145` | Can AI help Sri Lanka leapfrog in digitisation drive? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-f7296145)
 - 2025-10-24 | `dailyftlk-2771aa9b` | Virtusa hosts leadership from British insurer CFC to unveil 200-seat digital service hub in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-2771aa9b)
 - 2025-10-24 | `dailyftlk-3d3e0c87` | Dutch Trails honoured at Presidential Environment Awards 2025 for exceptional commitment to sustainability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-3d3e0c87)
 - 2025-10-24 | `dailyftlk-58552960` | Ashika Gunasena honoured for outstanding contribution to Women MSME Empowerment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-58552960)
 - 2025-10-24 | `dailyftlk-cd32ffd3` | Dr. Dulan Hettiarachchi honoured with prestigious “Pride of Nation” international award | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-cd32ffd3)
+- 2025-10-24 | `virakesarilk-0e24f11e` | நியூஸிலாந்தை வெற்றிகொண்டு மகளிர் உலகக் கிண்ண அரை இறுதிக்குள் நுழைந்தது இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-0e24f11e)
 - 2025-10-23 | `virakesarilk-83e5a62d` | தேசிய விவசாய ஆராய்ச்சி சிறப்பு விருது வழங்கும் விழா ஜனாதிபதி தலைமையில் நடைபெற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-83e5a62d)
 - 2025-10-23 | `virakesarilk-2d923c88` | ஆசிய இளையோர் விளையாட்டு விழா: இலங்கைக்கான முதலாவது தங்கப் பதக்கத்தை வென்று கொடுத்து வரலாறு படைத்தார் லஹிரு; கிம்ஹானி புள்ளேக்கு வெண்கலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-2d923c88)
 - 2025-10-23 | `virakesarilk-44d1e68f` | 3ஆவது ஆசிய இளையோர் விளையாட்டு விழா: முப்பாய்ச்சல் பதக்கத்தை தவறவிட்டார் இலங்கை வீரர் சுதாரக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-44d1e68f)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-23 | `virakesarilk-2967a190` | இந்தியாவுடனான சர்வதேச ஒருநாள் கிரிக்கெட்டில் அவுஸ்திரேலியாவுக்கு தொடர்ச்சியான வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-2967a190)
 - 2025-10-23 | `lankadeepalk-b76ed574` | වැලිගම සභාපති ඝාතකයන් යතුරු පැදි දෙකකින් පළා ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-b76ed574)
 - 2025-10-23 | `lankadeepalk-7e01b4b9` | ස්වීඩන් කතර රැඳවුම් බාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-7e01b4b9)
-- 2025-10-23 | `lankadeepalk-fe552096` | විජය පුවත්පත් සමාගමට පරිසර සම්මාන පහක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-fe552096)
-- 2025-10-23 | `virakesarilk-1b44dfe4` | வாழைச்சேனை வாகனேரி சந்தியில் விபத்து : வேன் மீது டிப்பர் மோதல் ; பலர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-1b44dfe4)
 
 ---
 

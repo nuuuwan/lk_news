@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-24 02:17:16",
-  "n_docs": 82619,
+  "time_updated": "2025-10-24 02:45:13",
+  "n_docs": 82621,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 82619,
+  "n_docs_with_text": 82621,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-24",
-  "dataset_size": 1221102633,
+  "dataset_size": 1221149282,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-24-dailyftlk-f7296145",
-    "num": "dailyftlk-f7296145",
+    "doc_id": "2025-10-24-dailyftlk-52eb7802",
+    "num": "dailyftlk-52eb7802",
     "date_str": "2025-10-24",
-    "description": "Can AI help Sri Lanka leapfrog in digitisation drive?",
-    "url_metadata": "https://www.ft.lk/columns/Can-AI-help-Sri-Lanka-leapfrog-in-digitisation-drive/4-783370",
+    "description": "Budget 26: Reset the policy paradigm",
+    "url_metadata": "https://www.ft.lk/opinion/Budget-26-Reset-the-policy-paradigm/14-783375",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761251658.0
+    "time_ut": 1761253534.0
   }
 }
