@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-24 00:22:24",
-  "n_docs": 82614,
+  "time_updated": "2025-10-24 00:45:15",
+  "n_docs": 82617,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 82614,
+  "n_docs_with_text": 82617,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2025-10-23",
-  "dataset_size": 1220897803,
+  "date_str_max": "2025-10-24",
+  "dataset_size": 1221052007,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-23-virakesarilk-83e5a62d",
-    "num": "virakesarilk-83e5a62d",
-    "date_str": "2025-10-23",
-    "description": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b86\u0bb0\u0bbe\u0baf\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb4\u0bbe \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/228504",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1761240780.0
+    "doc_id": "2025-10-24-dailyftlk-3d3e0c87",
+    "num": "dailyftlk-3d3e0c87",
+    "date_str": "2025-10-24",
+    "description": "Dutch Trails honoured at Presidential Environment Awards 2025 for exceptional commitment to sustainability",
+    "url_metadata": "https://www.ft.lk/business/Dutch-Trails-honoured-at-Presidential-Environment-Awards-2025-for-exceptional-commitment-to-sustainability/34-783356",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1761246265.0
   }
 }
