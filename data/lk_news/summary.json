@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-23 06:29:49",
-  "n_docs": 82449,
+  "time_updated": "2025-10-23 07:13:33",
+  "n_docs": 82452,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 82449,
+  "n_docs_with_text": 82452,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-23",
-  "dataset_size": 1218181614,
+  "dataset_size": 1218207400,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-23-tamilmirrorlk-49b3c63e",
-    "num": "tamilmirrorlk-49b3c63e",
+    "doc_id": "2025-10-23-tamilmirrorlk-c47bcf64",
+    "num": "tamilmirrorlk-c47bcf64",
     "date_str": "2025-10-23",
-    "description": "\u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1 13 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbe\u0ba9 \u0b9a\u0bbf\u0b9a\u0bc1 \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1-13-\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbe\u0ba9-\u0b9a\u0bbf\u0b9a\u0bc1-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-366695",
+    "description": "\u0baa\u0bcb\u0ba4\u0bc8 \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd 2 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0ba4\u0bc8-\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-2-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-366696",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761172403.0
+    "time_ut": 1761182995.0
   }
 }
