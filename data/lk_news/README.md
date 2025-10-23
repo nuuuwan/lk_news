@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_17:50:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_18:28:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,562** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,566** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-23-virakesarilk-b7864d03",
-    "num": "virakesarilk-b7864d03",
+    "doc_id": "2025-10-23-tamilmirrorlk-a17bd365",
+    "num": "tamilmirrorlk-a17bd365",
     "date_str": "2025-10-23",
-    "description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0bae\u0bc0\u0ba9\u0bcd\u0baa\u0bbf\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f 28 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/228475",
+    "description": "\u201d\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1,\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd 700 \u0b8f\u0b95\u0bcd\u0b95\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9\u201d",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd-700-\u0b8f\u0b95\u0bcd\u0b95\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9-\u0ba8\u0bbf\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9/175-366746",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1761217620.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1761223413.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-23 | `tamilmirrorlk-a17bd365` | ”வடக்கு,கிழக்கில் 700 ஏக்கருக்கும் அதிகமான நிலங்கள் விடுவிக்கப்பட்டுள்ளன” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-a17bd365)
+- 2025-10-23 | `tamilmirrorlk-b0039827` | போலி வரைவு சட்டமூலத்தை பரப்பியவர்களுக்கு வலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-b0039827)
+- 2025-10-23 | `tamilmirrorlk-ce917cd8` | ”என்னைக் கொன்றால் ஆவியாக வந்து பழி வாங்குவேன்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-ce917cd8)
 - 2025-10-23 | `virakesarilk-b7864d03` | சட்டவிரோத மீன்பிடியில் ஈடுபட்ட 28 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-b7864d03)
 - 2025-10-23 | `virakesarilk-ed49ed2e` | யாழில் கடற்தொழிலில் ஈடுபட்டிருந்தவர் கடலில் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-ed49ed2e)
 - 2025-10-23 | `lankadeepalk-d4103483` | හීනවලට යන්න නම් copy කරන්න එපා .තමන්ගේම දෙයක් ආරම්භ කරන හරිම විදිහ දැනගන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-d4103483)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-23 | `virakesarilk-aa153b88` | இராணுவ பலத்தை அதிகரிக்கும் துருக்கி : அமெரிக்க போர் விமானங்களை வாங்க ஒப்பந்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-aa153b88)
 - 2025-10-23 | `virakesarilk-b0678e3e` | பாதாள உலக செயற்பாடுகள் மற்றும் போதைப்பொருள் தடுப்பு நடவடிக்கைகளில் 1947 ஆயுதங்கள் கைப்பற்றல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-b0678e3e)
 - 2025-10-23 | `tamilmirrorlk-314241c3` | மாணவனுக்கு விஷம் கொடுத்த மாணவியின் தாய்க்கு ஆயுள்  சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-314241c3)
-- 2025-10-23 | `tamilmirrorlk-b7413665` | பிரபல இசையமைப்பாளர் சபேஷ் காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-tamilmirrorlk-b7413665)
-- 2025-10-23 | `lankadeepalk-34f29512` | ක්‍රමෝපාය සංවර්ධන ව්‍යාපෘති පනත සංශෝධනයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-34f29512)
-- 2025-10-23 | `lankadeepalk-2429ad34` | හොරෙන් ලංකාවට ආ විදේශිකයා පිටුවහල් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-2429ad34)
 
 ---
 
