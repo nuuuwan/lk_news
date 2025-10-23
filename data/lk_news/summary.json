@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-24 01:47:32",
-  "n_docs": 82618,
+  "time_updated": "2025-10-24 02:17:16",
+  "n_docs": 82619,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 82618,
+  "n_docs_with_text": 82619,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-24",
-  "dataset_size": 1221086787,
+  "dataset_size": 1221102633,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-24-dailyftlk-2771aa9b",
-    "num": "dailyftlk-2771aa9b",
+    "doc_id": "2025-10-24-dailyftlk-f7296145",
+    "num": "dailyftlk-f7296145",
     "date_str": "2025-10-24",
-    "description": "Virtusa hosts leadership from British insurer CFC to unveil 200-seat digital service hub in Sri Lanka",
-    "url_metadata": "https://www.ft.lk/business/Virtusa-hosts-leadership-from-British-insurer-CFC-to-unveil-200-seat-digital-service-hub-in-Sri-Lanka/34-783361",
+    "description": "Can AI help Sri Lanka leapfrog in digitisation drive?",
+    "url_metadata": "https://www.ft.lk/columns/Can-AI-help-Sri-Lanka-leapfrog-in-digitisation-drive/4-783370",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761248101.0
+    "time_ut": 1761251658.0
   }
 }
