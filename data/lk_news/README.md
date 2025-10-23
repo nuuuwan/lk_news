@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_23:48:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_00:23:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,608** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,614** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-23-lankadeepalk-5c142b0b",
-    "num": "lankadeepalk-5c142b0b",
+    "doc_id": "2025-10-23-virakesarilk-83e5a62d",
+    "num": "virakesarilk-83e5a62d",
     "date_str": "2025-10-23",
-    "description": "\u0dbb\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dd2 \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d9a\u0dd2\u0dad\u0dbd\u0dca\u0d87\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca \u0db4\u0dd3\u0dbd\u0dd2 \u0db4\u0db1\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dbb\u0dad\u0dbb-\u0dad\u0db4\u0dbd-\u0daf\u0db8\u0dbb\u0dba-\u0d9a\u0dad\u0dbd\u0d87\u0dbd\u0dbd\u0db1-\u0db4\u0dbd-\u0db4\u0db1/101-681944",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1761233959.0
+    "description": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf \u0b86\u0bb0\u0bbe\u0baf\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb4\u0bbe \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/228504",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761240780.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-23 | `virakesarilk-83e5a62d` | தேசிய விவசாய ஆராய்ச்சி சிறப்பு விருது வழங்கும் விழா ஜனாதிபதி தலைமையில் நடைபெற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-83e5a62d)
+- 2025-10-23 | `virakesarilk-2d923c88` | ஆசிய இளையோர் விளையாட்டு விழா: இலங்கைக்கான முதலாவது தங்கப் பதக்கத்தை வென்று கொடுத்து வரலாறு படைத்தார் லஹிரு; கிம்ஹானி புள்ளேக்கு வெண்கலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-2d923c88)
+- 2025-10-23 | `virakesarilk-44d1e68f` | 3ஆவது ஆசிய இளையோர் விளையாட்டு விழா: முப்பாய்ச்சல் பதக்கத்தை தவறவிட்டார் இலங்கை வீரர் சுதாரக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-44d1e68f)
+- 2025-10-23 | `virakesarilk-27761783` | பெக்கோ சமானுக்கு சொந்தமான 2 சொகுசு பேருந்துகள் பொலிஸாரால் கையகப்படுத்தப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-27761783)
 - 2025-10-23 | `lankadeepalk-5c142b0b` | රාත්‍රි තැපැල් දුම්රිය කිතල්ඇල්ලෙන් පීලි පනි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-5c142b0b)
 - 2025-10-23 | `lankadeepalk-90369470` | කිරි - වී ගොවි හබේකට ගවයන් 22 ක් කපලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-90369470)
 - 2025-10-23 | `virakesarilk-d70b78ac` | மீனவர் பிரச்சினைக்கு தீர்வு எங்கே என்ற தொனிப்பொருளில் வடக்கில் மாநாடு; வட மாகாண மீனவர் சங்கங்களின் இணையத்தின்  தலைவர் முகமட் ஆழம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-d70b78ac)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-10-23 | `virakesarilk-0f5d3afe` | கிழக்கு பல்கலைக்கழக திருகோணமலை வளாகத்தின் 7ஆவது சர்வதேச ஆய்வு மாநாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-0f5d3afe)
 - 2025-10-23 | `lankadeepalk-fe3a6a86` | කොබවක හිමිගේ ආරක්ෂාව ඉවත් කරලා? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-fe3a6a86)
 - 2025-10-23 | `virakesarilk-a18d23ae` | அனைத்து வன்மங்களுக்கும் எதிரான படம்தான் 'டியூட்' - கீர்த்திஸ்வரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-a18d23ae)
-- 2025-10-23 | `virakesarilk-da47d42e` | “இசை அசுரன்” ஜீ.வி.பிரகாஷ் குமார் வெளியிட்ட 'தமிழ் பையன் இந்தி பொண்ணு' படத்தின் செகண்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-da47d42e)
-- 2025-10-23 | `virakesarilk-93432352` | பான் இந்திய நட்சத்திர நடிகரான பிரபாஸ் நடிக்கும் 'ஃபௌசி' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-93432352)
-- 2025-10-23 | `lankadeepalk-706654b6` | දිනකට දුම්රිය වාර 15ක් අවලංගුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-lankadeepalk-706654b6)
-- 2025-10-23 | `virakesarilk-765577b2` | பணவீக்க மற்றும் நிதியியல் ஸ்திரத்தன்மைசார் இலக்குகள் அடுத்த வருடத்துக்குள் அடையப்படும் - மத்திய வங்கி ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-23-virakesarilk-765577b2)
 
 ---
 
