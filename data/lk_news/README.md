@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_20:47:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_21:17:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,791** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,795** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-24-lankadeepalk-7ca39642",
-    "num": "lankadeepalk-7ca39642",
+    "doc_id": "2025-10-24-virakesarilk-a4735d1a",
+    "num": "virakesarilk-a4735d1a",
     "date_str": "2025-10-24",
-    "description": "\u0d91\u0dbb\u0dd2\u0da7\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dbb\u0db3\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0dc3\u0dd2\u0da7\u0dd2 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca \u0d85\u0daf \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d91\u0dbb\u0da7\u0dbb\u0dba\u0dc0-\u0dbb\u0db3\u0dc0\u0d9c\u0db1-\u0dc3\u0da7-\u0dbd\u0d9a\u0d9a\u0dba\u0db1-\u0d85\u0daf-\u0daf\u0dc0\u0dba\u0db1\u0da7/101-682006",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1761316194.0
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 - \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0b95\u0bc8\u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1; \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 5\u0b86\u0bb5\u0ba4\u0bc1 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/228600",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761319380.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-24 | `virakesarilk-a4735d1a` | இலங்கை - பாகிஸ்தான் மகளிர் உலகக் கிண்ணப் போட்டி கைவிடப்பட்டது; கொழும்பில் கைவிடப்பட்ட 5ஆவது போட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-a4735d1a)
+- 2025-10-24 | `virakesarilk-a87ae262` | மழையினால் இலங்கை - பாகிஸ்தான் மகளிர் உலகக் கிண்ணப் போட்டி நிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-a87ae262)
+- 2025-10-24 | `virakesarilk-0048ef10` | 2025 - 2030 க்கான தேசிய காலநிலை நிதியியல் செயற்திட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-0048ef10)
 - 2025-10-24 | `lankadeepalk-7ca39642` | එරිට්‍රියාවේ රඳවාගෙන සිටි ලාංකිකයන් අද දිවයිනට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-7ca39642)
 - 2025-10-24 | `lankadeepalk-f2edf047` | උසස් පෙළ නොවැම්බර් 10 වැනිදා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-f2edf047)
 - 2025-10-24 | `lankadeepalk-63ab4cee` | ගලෙන්බිදුණුවැව ප්‍රා.සභාවේ හිටපු සභාපති අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-63ab4cee)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-24 | `virakesarilk-67bba419` | கலென்பிந்துனுவெவ முன்னாள் சபைத்தலைவர் இலஞ்ச வழக்கில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-67bba419)
 - 2025-10-24 | `virakesarilk-7804defc` | ஜெனீவாவில் 151வது IPU மாநாடு - இலங்கைப் பாராளுமன்றக் குழு பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-7804defc)
 - 2025-10-24 | `lankadeepalk-65082b03` | දිලිත්ගෙ පක්ෂෙට මෙහෙයුම් ප්‍රධානියෙක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-65082b03)
-- 2025-10-24 | `lankadeepalk-d7d3d11f` | කතකගේ මුහුණට නිරුවත් ඡායාරුප බද්ධ කළ කතක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-d7d3d11f)
-- 2025-10-24 | `virakesarilk-413856d2` | தேசிய பெண்கள் ஆணைக்குழுவின் செயற்பாடுகள் விரைவில் ஆரம்பம் - அமைச்சர் சாவித்திரி போல்ராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-413856d2)
-- 2025-10-24 | `virakesarilk-fe8c16e0` | ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனத்திற்கு 2,735 மில்லியன் ரூபா நஷ்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-fe8c16e0)
 
 ---
 
