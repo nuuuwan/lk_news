@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_00:46:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_01:15:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,800** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,803** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-24-dailyftlk-872ba257",
-    "num": "dailyftlk-872ba257",
-    "date_str": "2025-10-24",
-    "description": "The close of that strangest of ages:  is the era and ethos of strongman  governments gone for good? (4/4)",
-    "url_metadata": "https://www.ft.lk/columns/The-close-of-that-strangest-of-ages-is-the-era-and-ethos-of-strongman-governments-gone-for-good-4-4/4-783414",
+    "doc_id": "2025-10-25-dailyftlk-3ccfbb07",
+    "num": "dailyftlk-3ccfbb07",
+    "date_str": "2025-10-25",
+    "description": "BOC Chairman Kavinda de Zoysa appointed to Lanka Hospitals Board",
+    "url_metadata": "https://www.ft.lk/business/BOC-Chairman-Kavinda-de-Zoysa-appointed-to-Lanka-Hospitals-Board/34-783435",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761330560.0
+    "time_ut": 1761334965.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-25 | `dailyftlk-3ccfbb07` | BOC Chairman Kavinda de Zoysa appointed to Lanka Hospitals Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-3ccfbb07)
+- 2025-10-25 | `dailyftlk-46936e8b` | Firstdoctor pioneers  digital healthcare innovation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-46936e8b)
+- 2025-10-25 | `dailyftlk-23165b85` | When guardians of the law collide: Call for restraint and respect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-23165b85)
 - 2025-10-24 | `dailyftlk-872ba257` | The close of that strangest of ages:  is the era and ethos of strongman  governments gone for good? (4/4) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-872ba257)
 - 2025-10-24 | `tamilmirrorlk-93e78a07` | பாடசாலை நேரத்தை அதிகரித்தால் போராட்டம் வெடிக்கும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-93e78a07)
 - 2025-10-24 | `tamilmirrorlk-b8e22da4` | செவ்வந்தியின் தொலைபேசியில் இருப்பது நானா? நாமல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-b8e22da4)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-24 | `virakesarilk-ec9b6b85` | சுகாதார சேவைகள் தற்போதைய அரசாங்கத்தின் முதன்மையான முன்னுரிமையாகும் - நளிந்த ஜெயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-ec9b6b85)
 - 2025-10-24 | `virakesarilk-59a202f5` | உள்நாட்டு கைத்தொழிலாளர்களை பலப்படுத்த அரசாங்கம் நடவடிக்கை எடுக்கும் - பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-59a202f5)
 - 2025-10-24 | `lankadeepalk-7719adc8` | කොබවක හිමිගේ ආරක්ෂාව ගැන පොලිසියෙන් පැහැදිලි කිරීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-7719adc8)
-- 2025-10-24 | `lankadeepalk-aa34f9d1` | වාහන ආනයනයෙන් බස් 3,000ක් අනතුරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-aa34f9d1)
-- 2025-10-24 | `virakesarilk-ef293f34` | மாந்தை கிழக்கு பிரதேச சபை அமர்வில் அமளி துமளி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-ef293f34)
-- 2025-10-24 | `lankadeepalk-13a21901` | හිටපු මැති ඇමතිලා හතරක් නුවරඑළියේ ඉඩම් බෙදාගෙන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-13a21901)
 
 ---
 
