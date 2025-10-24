@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_13:48:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_14:31:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,717** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,718** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-24-lankadeepalk-3456a3d7",
-    "num": "lankadeepalk-3456a3d7",
+    "doc_id": "2025-10-24-lankadeepalk-d393f141",
+    "num": "lankadeepalk-d393f141",
     "date_str": "2025-10-24",
-    "description": "\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0da2\u0d9c\u0dad\u0dca \u0dc0\u0dd2\u0dad\u0dcf\u0db1\u0da7 \u0db8\u0dbb\u0dab\u0dd3\u0dba \u0dad\u0dbb\u0dca\u0da2\u0db1\u0dba\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db8\u0db1\u0dad\u0dbb-\u0da2\u0d9c\u0dad-\u0dc0\u0dad\u0db1\u0da7-\u0db8\u0dbb\u0dab\u0dba-\u0dad\u0dbb\u0da2\u0db1\u0dba\u0d9a/1-681969",
+    "description": "\u0da2\u0db1\u0d9c\u0dc4\u0db1\u0dba \u0dc0\u0d9c\u0dda \u0dc4\u0dba \u0d9c\u0dd4\u0dab\u0dba\u0d9a\u0dca \u0d95.\u0db4\u0dd3.\u0da9\u0dd3 \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u2063 \u0db6\u0dda\u0dad\u0dca \u0d9c\u0db1\u0dd3",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0d9c\u0dc4\u0db1\u0dba-\u0dc0\u0d9c-\u0dc4\u0dba-\u0d9c\u0dab\u0dba\u0d9a-\u0d95-\u0db4-\u0da9-\u0dc0\u0dbd\u0db1-\u0db6\u0dad-\u0d9c\u0db1/101-681971",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1761293497.0
+    "time_ut": 1761293860.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-24 | `lankadeepalk-d393f141` | ජනගහනය වගේ හය ගුණයක් ඕ.පී.ඩී වලින් ⁣ බේත් ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-d393f141)
 - 2025-10-24 | `lankadeepalk-3456a3d7` | මන්ත්‍රී ජගත් විතානට මරණීය තර්ජනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-3456a3d7)
 - 2025-10-24 | `tamilmirrorlk-e2a1853b` | ஆணுறையில் ஓட்டை போட்டு இளம் பெண் செய்த கொடூரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-e2a1853b)
 - 2025-10-24 | `lankadeepalk-0c04e23e` | වැස්සෙන් වැලිමඩ ගොවි බිම් වැනසේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-0c04e23e)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-24 | `lankadeepalk-3e79f476` | ලොකු පාතාලයෝ 30 කගේ වත්කම් අවුස්සයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-3e79f476)
 - 2025-10-24 | `virakesarilk-9975bb50` | பிரதமருக்கும் பெண்கள் தேசிய கிரிக்கெட் அணிக்கும் இடையிலான சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-9975bb50)
 - 2025-10-24 | `virakesarilk-f01dae53` | யூரோஃபோர்மியூலா ஓபன் சாம்பியன்ஷிப்பில் இரண்டாம் இடத்தை வென்ற இலங்கை வீரர் யெவன் டேவிட் நாடு திரும்பினார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-f01dae53)
-- 2025-10-24 | `virakesarilk-517a1ece` | யாழில் திடீர் பணக்காரர்கள் தொடர்பில் பொலிஸார் விசாரணை ; 08 பேர் மீது வழக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-517a1ece)
 
 ---
 
