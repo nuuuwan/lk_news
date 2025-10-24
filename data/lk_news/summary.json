@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-25 01:14:38",
-  "n_docs": 82803,
+  "time_updated": "2025-10-25 01:46:44",
+  "n_docs": 82818,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 82803,
+  "n_docs_with_text": 82818,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-25",
-  "dataset_size": 1224490226,
+  "dataset_size": 1223490935,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-25-dailyftlk-3ccfbb07",
-    "num": "dailyftlk-3ccfbb07",
+    "doc_id": "2025-10-25-dailyftlk-def64dfd",
+    "num": "dailyftlk-def64dfd",
     "date_str": "2025-10-25",
-    "description": "BOC Chairman Kavinda de Zoysa appointed to Lanka Hospitals Board",
-    "url_metadata": "https://www.ft.lk/business/BOC-Chairman-Kavinda-de-Zoysa-appointed-to-Lanka-Hospitals-Board/34-783435",
+    "description": "Complaint against MP Shritharan handed over to Speaker",
+    "url_metadata": "https://www.ft.lk/news/Complaint-against-MP-Shritharan-handed-over-to-Speaker/56-783444",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761334965.0
+    "time_ut": 1761335878.0
   }
 }
