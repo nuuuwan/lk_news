@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_22:20:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_22:46:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,798** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,799** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2025-10-24 | `virakesarilk-a4735d1a` | இலங்கை - பாகிஸ்தான் மகளிர் உலகக் கிண்ணப் போட்டி கைவிடப்பட்டது; கொழும்பில் கைவிடப்பட்ட 5ஆவது போட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-a4735d1a)
 - 2025-10-24 | `virakesarilk-a87ae262` | மழையினால் இலங்கை - பாகிஸ்தான் மகளிர் உலகக் கிண்ணப் போட்டி நிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-a87ae262)
 - 2025-10-24 | `virakesarilk-0048ef10` | 2025 - 2030 க்கான தேசிய காலநிலை நிதியியல் செயற்திட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-0048ef10)
+- 2025-10-24 | `adalk-4538f2f6` | 2026 විසර්ජන පනත් කෙටුම්පතට මුදල් කාරක සභාවේ අනුමතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-adalk-4538f2f6)
 - 2025-10-24 | `adalk-ccc296e8` | එරිත්‍රියාවේ අත්අඩංගුවේ සිටි 8ක් නිදහස්ව ලංකාවට එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-adalk-ccc296e8)
 - 2025-10-24 | `lankadeepalk-7ca39642` | එරිට්‍රියාවේ රඳවාගෙන සිටි ලාංකිකයන් අද දිවයිනට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-7ca39642)
 - 2025-10-24 | `lankadeepalk-f2edf047` | උසස් පෙළ නොවැම්බර් 10 වැනිදා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-f2edf047)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-24 | `virakesarilk-ef293f34` | மாந்தை கிழக்கு பிரதேச சபை அமர்வில் அமளி துமளி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-ef293f34)
 - 2025-10-24 | `lankadeepalk-13a21901` | හිටපු මැති ඇමතිලා හතරක් නුවරඑළියේ ඉඩම් බෙදාගෙන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-13a21901)
 - 2025-10-24 | `tamilmirrorlk-1194798c` | பாராளுமன்ற உறுப்பினர்களுக்கு பாதுகாப்பு இல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-1194798c)
-- 2025-10-24 | `lankadeepalk-2ba70c03` | බිමල් - චීන කොමියුනිට්ස් ජාත්‍යන්තර ප්‍රධානී හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-2ba70c03)
 
 ---
 
