@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_00:21:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_00:46:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,799** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,800** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-24-tamilmirrorlk-93e78a07",
-    "num": "tamilmirrorlk-93e78a07",
+    "doc_id": "2025-10-24-dailyftlk-872ba257",
+    "num": "dailyftlk-872ba257",
     "date_str": "2025-10-24",
-    "description": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0bb5\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd/175-366793",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761321599.0
+    "description": "The close of that strangest of ages:  is the era and ethos of strongman  governments gone for good? (4/4)",
+    "url_metadata": "https://www.ft.lk/columns/The-close-of-that-strangest-of-ages-is-the-era-and-ethos-of-strongman-governments-gone-for-good-4-4/4-783414",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1761330560.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-24 | `dailyftlk-872ba257` | The close of that strangest of ages:  is the era and ethos of strongman  governments gone for good? (4/4) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-872ba257)
 - 2025-10-24 | `tamilmirrorlk-93e78a07` | பாடசாலை நேரத்தை அதிகரித்தால் போராட்டம் வெடிக்கும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-93e78a07)
 - 2025-10-24 | `tamilmirrorlk-b8e22da4` | செவ்வந்தியின் தொலைபேசியில் இருப்பது நானா? நாமல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-b8e22da4)
 - 2025-10-24 | `virakesarilk-a4735d1a` | இலங்கை - பாகிஸ்தான் மகளிர் உலகக் கிண்ணப் போட்டி கைவிடப்பட்டது; கொழும்பில் கைவிடப்பட்ட 5ஆவது போட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-a4735d1a)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-24 | `lankadeepalk-aa34f9d1` | වාහන ආනයනයෙන් බස් 3,000ක් අනතුරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-aa34f9d1)
 - 2025-10-24 | `virakesarilk-ef293f34` | மாந்தை கிழக்கு பிரதேச சபை அமர்வில் அமளி துமளி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-ef293f34)
 - 2025-10-24 | `lankadeepalk-13a21901` | හිටපු මැති ඇමතිලා හතරක් නුවරඑළියේ ඉඩම් බෙදාගෙන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-13a21901)
-- 2025-10-24 | `tamilmirrorlk-1194798c` | பாராளுமன்ற உறுப்பினர்களுக்கு பாதுகாப்பு இல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-1194798c)
 
 ---
 
