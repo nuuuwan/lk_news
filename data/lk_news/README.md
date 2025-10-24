@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_16:46:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_17:14:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,733** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,758** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-24-lankadeepalk-c8ee6e6b",
-    "num": "lankadeepalk-c8ee6e6b",
+    "doc_id": "2025-10-24-lankadeepalk-08551e50",
+    "num": "lankadeepalk-08551e50",
     "date_str": "2025-10-24",
-    "description": "\u0dc0\u0dd2\u0dc3\u0dbb\u0dca\u0da2\u0db1 \u0db4\u0db1\u0dad\u0dca \u0d9a\u0dd9\u0da7\u0dd4\u0db8\u0dca\u0db4\u0dad\u0da7 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dc3\u0dbb\u0da2\u0db1-\u0db4\u0db1\u0dad-\u0d9a\u0da7\u0db8\u0db4\u0dad\u0da7-\u0db8\u0daf\u0dbd-\u0dc3\u0db7\u0dc0-\u0d85\u0db1\u0db8\u0dad\u0dba/1-681984",
+    "description": "\u0d89\u0dc2\u0dcf\u0dbb\u0dcf\u0da7 \u0db8\u0dad\u0dd4\u0d9c\u0db8\u0dd2\u0db1\u0dca \u0db4\u0db1\u0dd2\u0db1\u0dca\u0db1 \u0dc1\u0dcf\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca \u0dc0\u0dd2\u0dba\u0daf\u0db8\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d89\u0dc2\u0dbb\u0da7-\u0db8\u0dad\u0d9c\u0db8\u0db1-\u0db4\u0db1\u0db1\u0db1-\u0dc1\u0db1\u0d9c\u0db1-\u0d9c\u0db8\u0db1-\u0dc0\u0dba\u0daf\u0db8/1-681992",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1761303522.0
+    "time_ut": 1761305644.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-24 | `lankadeepalk-08551e50` | ඉෂාරාට මතුගමින් පනින්න ශාන්ගෙන් ගමන් වියදම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-08551e50)
+- 2025-10-24 | `virakesarilk-3a5ca764` | மற்றுமொரு ஜீப் வாகனம் கல்கிஸ்ஸையில் கைப்பற்றல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-3a5ca764)
+- 2025-10-24 | `virakesarilk-882b64a6` | ஐ.நா. படை பங்களிப்பு நாடுகளின் தலைவர்கள் மாநாட்டில் இலங்கை இராணுவத் தளபதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-882b64a6)
+- 2025-10-24 | `virakesarilk-bb58a1f7` | 2026ஆம் ஆண்டுக்கான ஒதுக்கிட்டுச் சட்டமூலத்திற்கு அரசாங்க நிதி பற்றிய குழுவில் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-bb58a1f7)
+- 2025-10-24 | `lankadeepalk-5c59d70e` | රට හදනවා නම් යකෙකුට වුණත් උදව් කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-5c59d70e)
 - 2025-10-24 | `lankadeepalk-c8ee6e6b` | විසර්ජන පනත් කෙටුම්පතට මුදල් සභාවේ අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-c8ee6e6b)
 - 2025-10-24 | `lankadeepalk-6fc7db4e` | කුඩ්‍ඩෝ පනස් නව දාහක් මේ අවුරුද්දේ කොටු වෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-6fc7db4e)
 - 2025-10-24 | `lankadeepalk-7c45c716` | නවීකරණය කළ හමුදා වාහන 76ක් යළි සේවයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-7c45c716)
 - 2025-10-24 | `lankadeepalk-63495d24` | කටුනායක ගුවන් තොටේ ආරක්ෂක ’’හිල්’’ සොයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-63495d24)
 - 2025-10-24 | `tamilmirrorlk-12614605` | பருத்தித்துறையில் வர்த்தகர்கள் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-12614605)
+- 2025-10-24 | `virakesarilk-dd058d50` | கொழும்பில் தனியார் நிறுவனமொன்றுக்கு சொந்தமான பணத்தை திருடிச் சென்ற சந்தேக நபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-dd058d50)
+- 2025-10-24 | `virakesarilk-95aac956` | இந்தியாவில் ஹோட்டலில் சடலமாக இலங்கை பெண் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-95aac956)
+- 2025-10-24 | `virakesarilk-6bccb09b` | யாழில் சட்டவிரோதச் செயற்பாடுகள் தீவிரத்தைக் குறைக்குமாறு ரஜீவன் எம்பி கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-6bccb09b)
+- 2025-10-24 | `virakesarilk-a03566d8` | மேஜர் ஜெனரல் ராஷிக், அரசாங்க அதிபர் மருதலிங்கம் ஆகியோருக்கிடையில்  சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-a03566d8)
+- 2025-10-24 | `virakesarilk-09efd7ed` | இஷாரா செவ்வந்திக்கு பண உதவிகளை வழங்கியது “மத்துகம ஷான்” என்பவரா ? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-09efd7ed)
+- 2025-10-24 | `virakesarilk-bfc15f73` | லங்கா ரியல்டி இன்வெஸ்ட்மென்ட்ஸ் பிஎல்சிக்கு புதிய தலைவர் நியமனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-bfc15f73)
 - 2025-10-24 | `lankadeepalk-a5c46b68` | වාරයේ රැකියාවක් දෙන්න අල්ලස් ගත් දෙදෙනාට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-a5c46b68)
+- 2025-10-24 | `virakesarilk-a1f89924` | எந்த ஒரு நாடும் தனியாகத் தீர்க்க முடியாத பிரச்சினைகளைத் தீர்க்க உலகம் மீண்டும் உறுதிபூண வேண்டும் - ஐ.நா. பொதுச்செயலாளர் அன்டோனியோ குட்டெரெஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-a1f89924)
+- 2025-10-24 | `virakesarilk-0186187f` | பாவனையிலிருந்து அகற்றப்பட்ட 76 வாகனங்களை நவீனமயமாக்க இலங்கை இராணுவம் நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-0186187f)
 - 2025-10-24 | `lankadeepalk-10211923` | පොහොට්ටු සංවිධානවලට කැඳවුම්කරුවෝ පහක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-10211923)
-- 2025-10-24 | `lankadeepalk-3a7a5764` | වද හිංසා වැඩී : තෑගි දුන් තායි අලි යළි රැගෙන යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-3a7a5764)
-- 2025-10-24 | `lankadeepalk-1f652a76` | වද හිංසා වැඩී : තෑගි දුන් තායි අලි යළි මව්රටට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-1f652a76)
-- 2025-10-24 | `lankadeepalk-bf305e46` | මහියංගන රාජමහා විහාරයට හොරු පනිති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-bf305e46)
-- 2025-10-24 | `lankadeepalk-d393f141` | ජනගහනය වගේ හය ගුණයක් ඕ.පී.ඩී වලින් ⁣ බේත් ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-d393f141)
-- 2025-10-24 | `lankadeepalk-3456a3d7` | මන්ත්‍රී ජගත් විතානට මරණීය තර්ජනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-3456a3d7)
-- 2025-10-24 | `tamilmirrorlk-e2a1853b` | ஆணுறையில் ஓட்டை போட்டு இளம் பெண் செய்த கொடூரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-e2a1853b)
-- 2025-10-24 | `lankadeepalk-0c04e23e` | වැස්සෙන් වැලිමඩ ගොවි බිම් වැනසේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-0c04e23e)
-- 2025-10-24 | `tamilmirrorlk-5b0527bf` | உத்தரபிரதேசத்தில் இலங்கை பெண்  சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-5b0527bf)
-- 2025-10-24 | `adalk-b049d50a` | ඩයගම රෝහලේ කටයුතු සාමාන්‍ය පරිදි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-adalk-b049d50a)
-- 2025-10-24 | `adalk-d90f0ed7` | 2024දී විවාහවීම් අඩුවෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-adalk-d90f0ed7)
-- 2025-10-24 | `lankadeepalk-748be7e2` | වැස්ස නිසා ලෙඩ වැඩීලූ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-748be7e2)
-- 2025-10-24 | `adalk-8fcab4a1` | රටගිය වෛද්‍ය නිලධාරින් 705ගෙන් රජයට රු. කෝටි 125ක පොල්ලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-adalk-8fcab4a1)
-- 2025-10-24 | `lankadeepalk-6f09ad3a` | නීතීඥවරුන්ට නීතියෙන් ගැලවිය හැකිද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-6f09ad3a)
 
 ---
 
