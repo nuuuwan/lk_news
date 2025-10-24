@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_18:27:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_18:54:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,767** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,769** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-24-lankadeepalk-aa34f9d1",
-    "num": "lankadeepalk-aa34f9d1",
+    "doc_id": "2025-10-24-lankadeepalk-7719adc8",
+    "num": "lankadeepalk-7719adc8",
     "date_str": "2025-10-24",
-    "description": "\u0dc0\u0dcf\u0dc4\u0db1 \u0d86\u0db1\u0dba\u0db1\u0dba\u0dd9\u0db1\u0dca \u0db6\u0dc3\u0dca 3,000\u0d9a\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dda",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dc4\u0db1-\u0d86\u0db1\u0dba\u0db1\u0dba\u0db1-\u0db6\u0dc3-3-000\u0d9a-\u0d85\u0db1\u0dad\u0dbb/1-681999",
+    "description": "\u0d9a\u0ddc\u0db6\u0dc0\u0d9a \u0dc4\u0dd2\u0db8\u0dd2\u0d9c\u0dda \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0 \u0d9c\u0dd0\u0db1 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0db6\u0dc0\u0d9a-\u0dc4\u0db8\u0d9c-\u0d86\u0dbb\u0d9a\u0dc2\u0dc0-\u0d9c\u0db1-\u0db4\u0dbd\u0dc3\u0dba\u0db1-\u0db4\u0dc4\u0daf\u0dbd-\u0d9a\u0dbb\u0db8\u0d9a/101-682000",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1761310392.0
+    "time_ut": 1761310487.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-24 | `lankadeepalk-7719adc8` | කොබවක හිමිගේ ආරක්ෂාව ගැන පොලිසියෙන් පැහැදිලි කිරීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-7719adc8)
 - 2025-10-24 | `lankadeepalk-aa34f9d1` | වාහන ආනයනයෙන් බස් 3,000ක් අනතුරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-aa34f9d1)
 - 2025-10-24 | `lankadeepalk-13a21901` | හිටපු මැති ඇමතිලා හතරක් නුවරඑළියේ ඉඩම් බෙදාගෙන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-lankadeepalk-13a21901)
 - 2025-10-24 | `tamilmirrorlk-1194798c` | பாராளுமன்ற உறுப்பினர்களுக்கு பாதுகாப்பு இல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-1194798c)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-24 | `tamilmirrorlk-12614605` | பருத்தித்துறையில் வர்த்தகர்கள் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-12614605)
 - 2025-10-24 | `virakesarilk-dd058d50` | கொழும்பில் தனியார் நிறுவனமொன்றுக்கு சொந்தமான பணத்தை திருடிச் சென்ற சந்தேக நபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-dd058d50)
 - 2025-10-24 | `virakesarilk-95aac956` | இந்தியாவில் ஹோட்டலில் சடலமாக இலங்கை பெண் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-95aac956)
-- 2025-10-24 | `virakesarilk-6bccb09b` | யாழில் சட்டவிரோதச் செயற்பாடுகள் தீவிரத்தைக் குறைக்குமாறு ரஜீவன் எம்பி கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-6bccb09b)
 
 ---
 
