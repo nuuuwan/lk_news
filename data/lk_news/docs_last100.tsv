@@ -1,4 +1,9 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-24-lankadeepalk-e3ab2184	lankadeepalk-e3ab2184	2025-10-24	විෂ මත් මඩිද්දී කඹ ඇදිලි එපා	https://www.lankadeepa.lk/news/වෂ-මත-මඩදද-කඹ-ඇදල-එප/101-681949	si	lankadeepalk	1761275406.0
+lk_news	2025-10-24-lankadeepalk-1de9c5ea	lankadeepalk-1de9c5ea	2025-10-24	අද කාලගුණය	https://www.lankadeepa.lk/news/අද-කලගණය/101-681947	si	lankadeepalk	1761275285.0
+lk_news	2025-10-24-tamilmirrorlk-d60070f2	tamilmirrorlk-d60070f2	2025-10-24	இன்று இடியுடன் கூடிய மழை	https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-366766	ta	tamilmirrorlk	1761274209.0
+lk_news	2025-10-24-tamilmirrorlk-9118cf0a	tamilmirrorlk-9118cf0a	2025-10-24	இரத்த வாந்தி எடுத்து குடும்பஸ்தர் மரணம்	https://www.tamilmirror.lk/செய்திகள்/இரத்த-வாந்தி-எடுத்து-குடும்பஸ்தர்-மரணம்/175-366765	ta	tamilmirrorlk	1761273653.0
+lk_news	2025-10-24-adalk-f5974b43	adalk-f5974b43	2025-10-24	අද වහින්නේ මෙහෙමයි	https://www.ada.lk/breaking_news/අද-වහින්නේ-මෙහෙමයි/11-419290	si	adalk	1761266997.0
 lk_news	2025-10-24-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-10-24	இன்றைய வானிலை	https://www.virakesari.lk/article/228515	ta	virakesarilk	1761266760.0
 lk_news	2025-10-24-adalk-80dd5695	adalk-80dd5695	2025-10-24	උඩරට දුම්රිය මගේ යළිත් දුම්රිය පීලි පැනීමක්	https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-මගේ-යළිත්-දුම්රිය-පීලි-පැනීමක්/11-419288	si	adalk	1761265952.0
 lk_news	2025-10-24-virakesarilk-596bd97e	virakesarilk-596bd97e	2025-10-24	போதைப்பொருள் பேரழிவை ஒழிப்பதற்கான துரித வேலைத்திட்டத்திற்காக முழு நாடும் ஒன்றுபட வேண்டும் - ஜனாதிபதி	https://www.virakesari.lk/article/228514	ta	virakesarilk	1761265140.0
@@ -94,8 +99,3 @@ lk_news	2025-10-23-virakesarilk-86c75eba	virakesarilk-86c75eba	2025-10-23	ஜப
 lk_news	2025-10-23-lankadeepalk-a3396386	lankadeepalk-a3396386	2025-10-23	සෝමාවතියේ වෙඩි වැදුණු අලියාට ප්‍රතිකාර	https://www.lankadeepa.lk/latest_news/සමවතය-වඩ-වදණ-අලයට-පරතකර/1-681924	si	lankadeepalk	1761213571.0
 lk_news	2025-10-23-adalk-4c97f2c6	adalk-4c97f2c6	2025-10-23	මටත් ළමයි ඉන්නවා, මත්ද්‍රව්‍ය නතර වෙන්න ඕන	https://www.ada.lk/breaking_news/මටත්-ළමයි-ඉන්නවා--මත්ද්‍රව්‍ය-නතර-වෙන්න-ඕන/11-419287	si	adalk	1761213539.0
 lk_news	2025-10-23-adalk-15ab3f96	adalk-15ab3f96	2025-10-23	මැර තර්ජන නිසා ඩයගම ප්‍රා දේශීය රෝහල තාවකාලිකව වසා තැබෙයි	https://www.ada.lk/breaking_news/මැර-තර්ජන-නිසා-ඩයගම-ප්‍රා-දේශීය-රෝහල-තාවකාලිකව-වසා-තැබෙයි/11-419286	si	adalk	1761213370.0
-lk_news	2025-10-23-virakesarilk-aa153b88	virakesarilk-aa153b88	2025-10-23	இராணுவ பலத்தை அதிகரிக்கும் துருக்கி : அமெரிக்க போர் விமானங்களை வாங்க ஒப்பந்தம்	https://www.virakesari.lk/article/228464	ta	virakesarilk	1761213300.0
-lk_news	2025-10-23-virakesarilk-b0678e3e	virakesarilk-b0678e3e	2025-10-23	பாதாள உலக செயற்பாடுகள் மற்றும் போதைப்பொருள் தடுப்பு நடவடிக்கைகளில் 1947 ஆயுதங்கள் கைப்பற்றல்!	https://www.virakesari.lk/article/228461	ta	virakesarilk	1761213240.0
-lk_news	2025-10-23-tamilmirrorlk-314241c3	tamilmirrorlk-314241c3	2025-10-23	மாணவனுக்கு விஷம் கொடுத்த மாணவியின் தாய்க்கு ஆயுள்  சிறை	https://www.tamilmirror.lk/செய்திகள்/மாணவனுக்கு-விஷம்-கொடுத்த-மாணவியின்-தாய்க்கு-ஆயுள்-சிறை/175-366731	ta	tamilmirrorlk	1761213103.0
-lk_news	2025-10-23-tamilmirrorlk-b7413665	tamilmirrorlk-b7413665	2025-10-23	பிரபல இசையமைப்பாளர் சபேஷ் காலமானார்	https://www.tamilmirror.lk/cinema/பிரபல-இசையமைப்பாளர்-சபேஷ்-காலமானார்/54-366730	ta	tamilmirrorlk	1761212954.0
-lk_news	2025-10-23-adalk-a6f7827b	adalk-a6f7827b	2025-10-23	කූඨ ගමන් බලපත්‍රයකින් ලංකාවට ඇතුළුවීමට තැත්කළ සෙනගාල් ජාතිකයා පිටුවහල් කරයි	https://www.ada.lk/breaking_news/කූඨ-ගමන්-බලපත්‍රයකින්-ලංකාවට-ඇතුළුවීමට-තැත්කළ-සෙනගාල්-ජාතිකයා-පිටුවහල්-කරයි/11-419285	si	adalk	1761212568.0
