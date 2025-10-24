@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_11:17:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_11:48:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,686** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,690** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-24-virakesarilk-c99fdcf3",
-    "num": "virakesarilk-c99fdcf3",
+    "doc_id": "2025-10-24-virakesarilk-af375ab2",
+    "num": "virakesarilk-af375ab2",
     "date_str": "2025-10-24",
-    "description": "\u201c\u0bae\u0bbf\u0ba4\u0bbf\u0b95\u0bae \u0bb2\u0b9a\u0bbe\u201d \u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8 ; \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba4\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb5\u0bb3\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8!",
-    "url_metadata": "https://www.virakesari.lk/article/228535",
+    "description": "80 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bbe\u0bb2 \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0ba8\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc8 : \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u00a0\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0ba9\u0bae\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/228538",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1761284160.0
+    "time_ut": 1761285600.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-24 | `virakesarilk-af375ab2` | 80 ஆண்டுகால உலகளாவிய நம்பிக்கை : இன்று ஐக்கிய நாடுகள் தினம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-af375ab2)
+- 2025-10-24 | `tamilmirrorlk-234fca61` | ஊடக நிறுவனங்களின் தலைவர்களுடன் ஜனாதிபதி சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-234fca61)
+- 2025-10-24 | `virakesarilk-30fa2df3` | ஐக்கிய நாடுகள் தினம்; உலக ஒற்றுமையின் சின்னம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-30fa2df3)
 - 2025-10-24 | `virakesarilk-c99fdcf3` | “மிதிகம லசா” படுகொலை ; துப்பாக்கிதாரிகளை கைதுசெய்ய விசேட சுற்றிவளைப்பு நடவடிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-c99fdcf3)
 - 2025-10-24 | `tamilmirrorlk-2b49ce14` | எங்கே நோக்கி போகிறது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-2b49ce14)
 - 2025-10-24 | `tamilmirrorlk-dafc273d` | இரண்டு தேங்காய்களுக்காக கொன்றவருக்கு மரண தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-dafc273d)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-24 | `virakesarilk-71729f8f` | விடியல் இணையத்தள பிரதம ஆசிரியர் றிப்தி அலிக்கு ஜனாதிபதி சுற்றாடல் வெள்ளி விருது வழங்கி வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-71729f8f)
 - 2025-10-24 | `tamilmirrorlk-1f061c91` | ஆந்திராவில் பேரூந்தில் தீ: 25 பயணிகள் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-1f061c91)
 - 2025-10-24 | `virakesarilk-446bc03e` | கடல் அலையில் அள்ளுண்டு செல்லப்பட்ட வெளிநாட்டவர்கள் நால்வர் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-446bc03e)
-- 2025-10-24 | `virakesarilk-0f448ad4` | இந்தியாவில் பஸ்ஸில் தீ விபத்து ; 20 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-0f448ad4)
-- 2025-10-24 | `tamilmirrorlk-b811aae2` | இஷாரா தப்பிச் சென்ற படகு கண்டுபிடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-tamilmirrorlk-b811aae2)
-- 2025-10-24 | `virakesarilk-8d518b59` | கொழும்பு துறைமுகத்தில் சடலம் கண்டுபிடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-virakesarilk-8d518b59)
 
 ---
 
