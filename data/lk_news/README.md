@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_09:21:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_09:46:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,843** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,845** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-25-lankadeepalk-b36518be",
-    "num": "lankadeepalk-b36518be",
+    "doc_id": "2025-10-25-virakesarilk-183f7c28",
+    "num": "virakesarilk-183f7c28",
     "date_str": "2025-10-25",
-    "description": "\u0dad\u0dcf\u0dba\u0dd2\u0dbd\u0db1\u0dca\u0dad \u0db8\u0dc0\u0dd4 \u0dbb\u0dd0\u0da2\u0dd2\u0db1 \u0d9a\u0dbd\u0dd4\u0dbb\u0dd2\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dad\u0dba\u0dbd\u0db1\u0dad-\u0db8\u0dc0-\u0dbb\u0da2\u0db1-\u0d9a\u0dbd\u0dbb\u0dba-\u0d9a\u0dbb\u0dba/101-682009",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1761363652.0
+    "description": "\u0ba8\u0bbe\u0ba9\u0bc1\u0b93\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc8 \u0b89\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0b99\u0bcd\u0b95 \u0ba8\u0b95\u0bc8, \u0baa\u0ba3\u0bae\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8: \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/228608",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761364140.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-25 | `virakesarilk-183f7c28` | நானுஓயாவில் வீட்டை உடைத்து தங்க நகை, பணம் கொள்ளை: சந்தேகநபருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-183f7c28)
 - 2025-10-25 | `lankadeepalk-b36518be` | තායිලන්ත මවු රැජින කලුරිය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-lankadeepalk-b36518be)
 - 2025-10-25 | `tamilmirrorlk-c29203ca` | பதக்கங்களை குவித்த இலங்கை வீர, வீராங்கனைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-tamilmirrorlk-c29203ca)
 - 2025-10-25 | `tamilmirrorlk-5979224b` | இன்றும் பல இடங்களில் மழை பெய்யும் என அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-tamilmirrorlk-5979224b)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-25 | `dailyftlk-40811ecb` | Muslim MPs urge immediate release of detained Tamil translation of Holy Qur’an consignment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-40811ecb)
 - 2025-10-25 | `dailyftlk-7227e454` | Trinco Dialogue 2025 wraps, fostering dialogue on maritime security and geopolitical shifts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-7227e454)
 - 2025-10-25 | `dailyftlk-2ec5b7d6` | Minister urges National Commission on Women to begin operations soon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-2ec5b7d6)
-- 2025-10-25 | `dailyftlk-819d3ce7` | Repatriation of six Sri Lankan seafarers detained in Eritrea | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-819d3ce7)
 
 ---
 
