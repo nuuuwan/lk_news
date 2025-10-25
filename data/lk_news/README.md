@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_06:29:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_07:13:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,831** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,832** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,7 @@ A collection of lk_news documents.
 - 2025-10-25 | `virakesarilk-a345b6c3` | விசாரணைக்கு ஒத்துழைக்காத கலேன்பிந்துனுவெவ பிரதேசசபையின் முன்னாள் தவிசாளர் சமந்த நாமல் விஜேவர்தனவுக்கு 31 ஆம் திகதி வரை விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-a345b6c3)
 - 2025-10-25 | `virakesarilk-767f7f12` | தெற்காசிய மெய்வல்லுநர் சம்பியன்ஷிப்பில் இலங்கைக்கு மேலும் 6 பதக்கங்கள், வக்சனக்கு வெள்ளி பதக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-767f7f12)
 - 2025-10-25 | `islandlk-b7f8265b` | In the current global context, it is essential that the Government and private sector organizations such as the CNCI work together to strengthen local industries – PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-islandlk-b7f8265b)
+- 2025-10-25 | `tamilmirrorlk-bc91aa0f` | கரூரில் உயிரிழந்தோர் குடும்பத்தினரை சந்திக்கிறார் விஜய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-tamilmirrorlk-bc91aa0f)
 - 2025-10-25 | `tamilmirrorlk-aa4cbcd7` | சிறுநீரகம் செயலிழந்ததால் இளம் குடும்பஸ்தர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-tamilmirrorlk-aa4cbcd7)
 - 2025-10-25 | `tamilmirrorlk-d2a27b69` | யாழ். தென்மராட்சியில் துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-tamilmirrorlk-d2a27b69)
 - 2025-10-25 | `dailyftlk-def64dfd` | Complaint against MP Shritharan handed over to Speaker | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-def64dfd)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-25 | `dailyftlk-23165b85` | When guardians of the law collide: Call for restraint and respect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-23165b85)
 - 2025-10-25 | `virakesarilk-05307d2a` | தெற்காசிய மெய்வல்லுநர் சம்பியன்ஷிப்பில் இலங்கைக்கு 2 தங்கங்கள் உட்பட 4 பதக்கங்கள்; மிதுன்ராஜுக்கு வெண்கலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-05307d2a)
 - 2025-10-25 | `virakesarilk-460d2bc0` | ஆசிய இளையோர் விளையாட்டு விழாவில் இலங்கையின் ஷானுக்க, துலஞ்சனவுக்கு வெண்கலப் பதக்கங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-460d2bc0)
-- 2025-10-24 | `dailyftlk-872ba257` | The close of that strangest of ages:  is the era and ethos of strongman  governments gone for good? (4/4) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-24-dailyftlk-872ba257)
 
 ---
 
