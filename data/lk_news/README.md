@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_09:46:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_10:17:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,845** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,852** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-25-virakesarilk-183f7c28",
-    "num": "virakesarilk-183f7c28",
+    "doc_id": "2025-10-25-lankadeepalk-98479b58",
+    "num": "lankadeepalk-98479b58",
     "date_str": "2025-10-25",
-    "description": "\u0ba8\u0bbe\u0ba9\u0bc1\u0b93\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc8 \u0b89\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0b99\u0bcd\u0b95 \u0ba8\u0b95\u0bc8, \u0baa\u0ba3\u0bae\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8: \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/228608",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1761364140.0
+    "description": "\u0d9c\u0dd2\u0db1\u0dd2 \u0d9c\u0dad\u0dca \u0dbb\u0dd0\u0da2\u0dd2\u0db1 \u0dba\u0dc5\u0dd2 \u0d9c\u0db8\u0db1\u0dca \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9c\u0db1-\u0d9c\u0dad-\u0dbb\u0da2\u0db1-\u0dba\u0dc5-\u0d9c\u0db8\u0db1-\u0d85\u0dbb\u0db9\u0dba/101-682010",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1761367447.0
 }
 ```
 
@@ -41,8 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-25 | `lankadeepalk-98479b58` | ගිනි ගත් රැජින යළි ගමන් අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-lankadeepalk-98479b58)
+- 2025-10-25 | `virakesarilk-32b53660` | உடலில் மிளகாய்ப் பொடி தடவப்பட்ட நிலையில் சடலம் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-32b53660)
+- 2025-10-25 | `virakesarilk-a04b43e4` | ‘ரஜரட்ட ரெஜினி’ யில் தீ விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-a04b43e4)
+- 2025-10-25 | `virakesarilk-f5534d40` | மிரிஸ்ஸ கடல் நீரோட்டத்தில் சிக்கிய ருமேனியப் பெண் பாதுகாப்பாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-f5534d40)
+- 2025-10-25 | `virakesarilk-76115372` | மினுவாங்கொடயில் வெடிமருந்துகளுடன் சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-76115372)
+- 2025-10-25 | `virakesarilk-803f6d85` | சுட்டுப் படுகொலை செய்யப்பட்ட வெலிகம பிரதேச சபை தலைவரின் பாதுகாப்பு கோரிய கடிதம்: பொலிஸ் ஊடகப் பிரிவு அறிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-803f6d85)
 - 2025-10-25 | `virakesarilk-183f7c28` | நானுஓயாவில் வீட்டை உடைத்து தங்க நகை, பணம் கொள்ளை: சந்தேகநபருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-183f7c28)
 - 2025-10-25 | `lankadeepalk-b36518be` | තායිලන්ත මවු රැජින කලුරිය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-lankadeepalk-b36518be)
+- 2025-10-25 | `adalk-641eacfa` | අදත් මිලි මීටර් 75ක් දක්වා තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-adalk-641eacfa)
 - 2025-10-25 | `tamilmirrorlk-c29203ca` | பதக்கங்களை குவித்த இலங்கை வீர, வீராங்கனைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-tamilmirrorlk-c29203ca)
 - 2025-10-25 | `tamilmirrorlk-5979224b` | இன்றும் பல இடங்களில் மழை பெய்யும் என அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-tamilmirrorlk-5979224b)
 - 2025-10-25 | `lankadeepalk-6f686680` | කාන්තා ක්‍රිකට් වලට අගමැතිනියගේ හිත යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-lankadeepalk-6f686680)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-10-25 | `virakesarilk-767f7f12` | தெற்காசிய மெய்வல்லுநர் சம்பியன்ஷிப்பில் இலங்கைக்கு மேலும் 6 பதக்கங்கள், வக்சனக்கு வெள்ளி பதக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-767f7f12)
 - 2025-10-25 | `islandlk-b7f8265b` | In the current global context, it is essential that the Government and private sector organizations such as the CNCI work together to strengthen local industries – PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-islandlk-b7f8265b)
 - 2025-10-25 | `tamilmirrorlk-bc91aa0f` | கரூரில் உயிரிழந்தோர் குடும்பத்தினரை சந்திக்கிறார் விஜய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-tamilmirrorlk-bc91aa0f)
-- 2025-10-25 | `tamilmirrorlk-aa4cbcd7` | சிறுநீரகம் செயலிழந்ததால் இளம் குடும்பஸ்தர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-tamilmirrorlk-aa4cbcd7)
-- 2025-10-25 | `tamilmirrorlk-d2a27b69` | யாழ். தென்மராட்சியில் துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-tamilmirrorlk-d2a27b69)
-- 2025-10-25 | `dailyftlk-def64dfd` | Complaint against MP Shritharan handed over to Speaker | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-def64dfd)
-- 2025-10-25 | `dailyftlk-ac72da5b` | Harini says SL opposes international human rights probe, backs domestic mechanism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-ac72da5b)
-- 2025-10-25 | `dailyftlk-40811ecb` | Muslim MPs urge immediate release of detained Tamil translation of Holy Qur’an consignment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-40811ecb)
-- 2025-10-25 | `dailyftlk-7227e454` | Trinco Dialogue 2025 wraps, fostering dialogue on maritime security and geopolitical shifts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-7227e454)
-- 2025-10-25 | `dailyftlk-2ec5b7d6` | Minister urges National Commission on Women to begin operations soon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-dailyftlk-2ec5b7d6)
 
 ---
 
