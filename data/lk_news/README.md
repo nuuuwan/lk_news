@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_16:16:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_16:45:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,895** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,901** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-25-lankadeepalk-2df46158",
-    "num": "lankadeepalk-2df46158",
+    "doc_id": "2025-10-25-virakesarilk-a5fd078b",
+    "num": "virakesarilk-a5fd078b",
     "date_str": "2025-10-25",
-    "description": "\u0db6\u0dbd\u0d82\u0d9c\u0ddc\u0da9 - \u0daf\u0dd4\u0dbb\u0d9a\u0db1\u0dca\u0daf \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0da7 \u0db4\u0dc3\u0dca  \u0d9a\u0db1\u0dca\u0daf\u0d9a\u0dca \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db6\u0dbd\u0d9c\u0da9-\u0daf\u0dbb\u0d9a\u0db1\u0daf-\u0db8\u0dbb\u0d9c\u0dba\u0da7-\u0db4\u0dc3-\u0d9a\u0db1\u0daf\u0d9a-\u0d9a\u0da9-\u0dc0\u0da7\u0dba/101-682032",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1761385498.0
+    "description": "\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0b95\u0bb0\u0bcd \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bcd 39 \u0b86\u0bb5\u0ba4\u0bc1 \u0ba8\u0bbe\u0bb3\u0bbe\u0b95 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd  \u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0b95\u0baa\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/228646",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761389580.0
 }
 ```
 
@@ -41,7 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-25 | `virakesarilk-a5fd078b` | முத்து நகர் விவசாயிகள் 39 ஆவது நாளாக தொடர்  சத்தியாக்கிரகப் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-a5fd078b)
+- 2025-10-25 | `virakesarilk-0806d767` | பாடசாலை மாணவர்களை இலக்கு வைத்து மசாஜ் நிலையம் என்ற போர்வையில் விபச்சார விடுதி  ; மூவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-0806d767)
+- 2025-10-25 | `virakesarilk-45dbccf4` | நுவரெலியா பேருந்து தரிப்பிடத்தில் புதிய விதிமுறை - பொலிஸாருடன் முறுகல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-45dbccf4)
+- 2025-10-25 | `virakesarilk-7a1105db` | இலங்கை உட்பட தெற்காசிய நாடுகள் முழுவதும் செயற்கை நுண்ணறிவு (AI) திறன்களுக்கான தேவை வேகமாக அதிகரிப்பு – உலக வங்கி மதிப்பீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-7a1105db)
 - 2025-10-25 | `lankadeepalk-2df46158` | බලංගොඩ - දුරකන්ද මාර්ගයට පස්  කන්දක් කඩා වැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-lankadeepalk-2df46158)
+- 2025-10-25 | `virakesarilk-f223a969` | ‘உங்களை ஆட்சியில் அமர்த்தியது நாம் ; எங்களுக்கு தேசிய  தீபாவளி உற்சவ அழைப்பிதழ் இல்லை’ - அட்டன் டிக்கோயா நகரசபைத் தலைவரிடம்  இ.தொ.கா உறுப்பினர் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-f223a969)
+- 2025-10-25 | `virakesarilk-04bcaa74` | காற்றழுத்தத் தாழ்வு மண்டலம் மேலும் வலுவடையும் சாத்தியம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-04bcaa74)
 - 2025-10-25 | `lankadeepalk-77faa5e5` | කෝටි 18 ක් වංචා කල දෙදෙනෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-lankadeepalk-77faa5e5)
 - 2025-10-25 | `virakesarilk-a47580c7` | வீதி அபிவிருத்தி அதிகார சபை  எவ்வாறு அட்டனில் தீபாவளி வியாபார  கடைகளை நடத்தலாம்  - நகர சபைத் தலைவருடன்  எதிர்க்கட்சி உறுப்பினர்கள்  தர்க்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-a47580c7)
 - 2025-10-25 | `virakesarilk-2b7bb4ad` | விளம்பர ஜாம்பவன் பியூஷ் பாண்டே காலமானார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-2b7bb4ad)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2025-10-25 | `lankadeepalk-52fe4f1d` | ‘‘මුහුදු යන්න එපා‘‘-ධීවරයන්ට කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-lankadeepalk-52fe4f1d)
 - 2025-10-25 | `lankadeepalk-f8dcde9b` | මන්ත්‍රී ජගත්ට  ආරක්ෂාව දෙන්න: ඇමති පොලිස්පතිට කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-lankadeepalk-f8dcde9b)
 - 2025-10-25 | `tamilmirrorlk-79c75d7b` | இலங்கையில் பேருந்துகள் சேவையில் இருந்து விலகும் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-tamilmirrorlk-79c75d7b)
-- 2025-10-25 | `virakesarilk-a68b3c9e` | மினுவாங்கொடை சம்பவம் ; கொலை செய்யப்பட்ட வயோதிபப் பெண் பாலியல் துஷ்பிரயோகம் செய்யப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-a68b3c9e)
-- 2025-10-25 | `virakesarilk-4372de6a` | தந்தை செல்வாவின் மூத்த மகள் கனடாவில் காலமானார் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-4372de6a)
-- 2025-10-25 | `virakesarilk-c2f10c31` | தங்க முலாம் பூசப்பட்ட புத்தர் சிலைகள்,போதைப்பொருளுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-c2f10c31)
-- 2025-10-25 | `lankadeepalk-c280e3da` | මානව හිමිකම් - නිමක් නැති ප්‍රශ්නයක්ද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-lankadeepalk-c280e3da)
-- 2025-10-25 | `virakesarilk-e015eebe` | போலந்தில் கோழிப் பண்ணையில் தீ விபத்து : பலியான ஒரு இலட்சத்துக்கும் மேற்பட்ட கோழிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-e015eebe)
-- 2025-10-25 | `virakesarilk-48b5300c` | நீர்த்தேக்கங்களின் நீர்மட்டம் உயரக்கூடும் – நீர்ப்பாசனத் திணைக்களம் எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-48b5300c)
 
 ---
 
