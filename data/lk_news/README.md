@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_12:46:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--25_13:14:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,877** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,879** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-25-tamilmirrorlk-79c75d7b",
-    "num": "tamilmirrorlk-79c75d7b",
+    "doc_id": "2025-10-25-lankadeepalk-f506d413",
+    "num": "lankadeepalk-f506d413",
     "date_str": "2025-10-25",
-    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0bb2\u0b95\u0bc1\u0bae\u0bcd-\u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd/175-366812",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761376127.0
+    "description": "\u0d9c\u0dd0\u0db9\u0dd4\u0dbb\u0dd4 \u0db4\u0dd3\u0da9\u0db1 \u0d85\u0dc0\u0db4\u0dcf\u0dad\u0dba \u0dc3\u0dd4\u0dc5\u0dd2 \u0d9a\u0dd4\u0dab\u0dcf\u0da7\u0dd4\u0dc0\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0db1 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0db9\u0dbb-\u0db4\u0da9\u0db1-\u0d85\u0dc0\u0db4\u0dad\u0dba-\u0dc3\u0dc5-\u0d9a\u0dab\u0da7\u0dc0\u0d9a-\u0daf\u0d9a\u0dc0-\u0dc0\u0dbb\u0db0\u0db1\u0dba-\u0dc0\u0db1-\u0dbd\u0d9a\u0dab/1-682017",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1761376664.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-25 | `lankadeepalk-f506d413` | ගැඹුරු පීඩන අවපාතය සුළි කුණාටුවක් දක්වා වර්ධනය වන ලකුණු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-lankadeepalk-f506d413)
+- 2025-10-25 | `lankadeepalk-f8dcde9b` | මන්ත්‍රී ජගත්ට  ආරක්ෂාව දෙන්න: ඇමති පොලිස්පතිට කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-lankadeepalk-f8dcde9b)
 - 2025-10-25 | `tamilmirrorlk-79c75d7b` | இலங்கையில் பேருந்துகள் சேவையில் இருந்து விலகும் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-tamilmirrorlk-79c75d7b)
 - 2025-10-25 | `lankadeepalk-c280e3da` | මානව හිමිකම් - නිමක් නැති ප්‍රශ්නයක්ද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-lankadeepalk-c280e3da)
 - 2025-10-25 | `virakesarilk-e015eebe` | போலந்தில் கோழிப் பண்ணையில் தீ விபத்து : பலியான ஒரு இலட்சத்துக்கும் மேற்பட்ட கோழிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-e015eebe)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-25 | `virakesarilk-44fc3c41` | தாய்லாந்து ராணி சிரிகிட் காலமானார் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-44fc3c41)
 - 2025-10-25 | `virakesarilk-575c583f` | “ஆனந்தன்” வழங்கிய தகவலுக்கமைய கஞ்சா கடத்தல்காரர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-575c583f)
 - 2025-10-25 | `lankadeepalk-cb05a2cb` | ජලාශ උතුරයි : වාරිමාර්ගයෙන් රතු එළියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-lankadeepalk-cb05a2cb)
-- 2025-10-25 | `virakesarilk-d449cb98` | அமெரிக்காவில் ஹோவர்ட் பல்கலைக்கழகத்திற்கு அருகில் துப்பாக்கிச் சூடு – 4 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-d449cb98)
-- 2025-10-25 | `virakesarilk-85c40999` | களு கங்கையில் நீர்மட்டம் உயர்வு : இரத்தினபுரி, மில்லகந்த பகுதிகளுக்கு வெள்ள அபாய எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-25-virakesarilk-85c40999)
 
 ---
 
