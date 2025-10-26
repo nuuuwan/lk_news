@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--26_12:21:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--26_12:46:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**82,992** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**82,995** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-26-lankadeepalk-5ca91a5c",
-    "num": "lankadeepalk-5ca91a5c",
+    "doc_id": "2025-10-26-lankadeepalk-988c2701",
+    "num": "lankadeepalk-988c2701",
     "date_str": "2025-10-26",
-    "description": "\u0db1\u0dcf\u0dba \u0dba\u0db1 \u0dad\u0dd0\u0db1\u0dca \u2019\u2019 \u0dc4\u0dba\u0dd2\u0dba\u2019\u2019 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dc0\u0dd0\u0da9\u0d9a\u0dca \u0d85\u0dbb\u0db9\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db1\u0dba-\u0dba\u0db1-\u0dad\u0db1-\u0dc4\u0dba\u0dba-\u0d9a\u0dbb\u0db1\u0db1-\u0dc0\u0da9\u0d9a-\u0d85\u0dbb\u0db9\u0dba/1-682068",
+    "description": "\u0dc0\u0dd2\u0dc2 \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0db8\u0dd0\u0da9\u0dbd\u0db1 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8  30 \u0d87\u0dbb\u0db9\u0dda",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc0\u0dc2-\u0db8\u0dad\u0daf\u0dbb\u0dc0\u0dba-\u0db8\u0da9\u0dbd\u0db1-\u0da2\u0dad\u0d9a-\u0db8\u0dc4\u0dba\u0db8-30-\u0d87\u0dbb\u0db9/101-682071",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1761461050.0
+    "time_ut": 1761462584.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-26 | `lankadeepalk-988c2701` | විෂ මත්ද්‍රව්‍ය මැඩලන ජාතික මෙහෙයුම  30 ඇරඹේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-lankadeepalk-988c2701)
+- 2025-10-26 | `lankadeepalk-77c54ab1` | මන්ත්‍රී ජගත්ගේ ආරක්ෂාවට පොලිසියේ දෙදෙනෙක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-lankadeepalk-77c54ab1)
+- 2025-10-26 | `lankadeepalk-0d6564aa` | ඔටිසම් දරුවන් වෙනුවෙන් රට පුරා ව්‍යාපෘති තුනක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-lankadeepalk-0d6564aa)
 - 2025-10-26 | `lankadeepalk-5ca91a5c` | නාය යන තැන් ’’ හයිය’’ කරන්න වැඩක් අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-lankadeepalk-5ca91a5c)
 - 2025-10-26 | `lankadeepalk-0918891c` | සෞඛ්‍ය සේවක ගැටලු වලට ඉක්මනට විසැඳුම් දෙනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-lankadeepalk-0918891c)
 - 2025-10-26 | `lankadeepalk-391824ed` | උග්‍ර බැක්ටීරියා ලෙඩට ඉන්දියාවෙන් බේතක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-lankadeepalk-391824ed)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-26 | `tamilmirrorlk-981b4cbe` | மரண தண்டனை கைதிகளில் ஐந்து மாணவர்களும் உள்ளனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-tamilmirrorlk-981b4cbe)
 - 2025-10-26 | `adalk-19dbabbe` | වැලිගම ප්‍රා.ස. සභාපති ඝාතනයට කාන්තාවක ඇතුළු 03ක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-adalk-19dbabbe)
 - 2025-10-26 | `tamilmirrorlk-79d8e81b` | பிக் டிக்கெட் வென்ற இலங்கையர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-tamilmirrorlk-79d8e81b)
-- 2025-10-26 | `lankadeepalk-eefaf348` | මහජන ආරක්ෂක ඇමතිට විශ්වාස භංගයක් ? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-lankadeepalk-eefaf348)
-- 2025-10-26 | `lankadeepalk-2e71c065` | ‘තර්ජනය මන්ත්‍රී ජගත්ට  නොකී  පොලිසියේ  අයට පියවර ගන්න‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-lankadeepalk-2e71c065)
-- 2025-10-26 | `lankadeepalk-18ae084b` | තර්ජනය මන්ත්‍රී ජගත්ට  නොකී  පොලිසියේ  අයට පියවර ගන්න: සජබ පොලිස් කොමිසමෙන් ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-lankadeepalk-18ae084b)
 
 ---
 
