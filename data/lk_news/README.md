@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--26_18:27:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--26_18:50:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,073** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,074** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -56,11 +56,11 @@ A collection of lk_news documents.
 - 2025-10-26 | `virakesarilk-2d685133` | எல்லை நிர்ணயத்தை காரணம் காட்டி  மாகாண சபைத்தேர்தலை இழுத்தடிக்கக் கூடாது  - சுரேஸ் பிரேமசந்திரன் வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-2d685133)
 - 2025-10-26 | `virakesarilk-c927e98c` | போதைப்பொருள் ஒழிப்பு  தேசிய வேலைத்திட்டம்  எதிர்வரும் வியாழன்று ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-c927e98c)
 - 2025-10-26 | `virakesarilk-3e07b5d5` | வெறும் கதையாடல் அல்ல, செயல்களே தேவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-3e07b5d5)
+- 2025-10-26 | `adalk-eb503778` | ලසන්නත වික්‍රමසේකර ඝාතනයට තවත් පුද්ගලයෙක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-adalk-eb503778)
 - 2025-10-26 | `virakesarilk-7bc0f82f` | வெலிகம பிரதேச சபைத் தலைவரின் கொலையுடன் தொடர்புடைய மற்றுமொரு சந்தேகநபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-7bc0f82f)
 - 2025-10-26 | `tamilmirrorlk-b153bbdf` | இவரைக் கண்டால் தகவல் தாருங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-tamilmirrorlk-b153bbdf)
 - 2025-10-26 | `adalk-83c79261` | ශ්‍රී ලන්කන් ගුවන් සේවිකාවන් දෙදෙනෙකුට යානය තුළ දී පහරදීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-adalk-83c79261)
 - 2025-10-26 | `virakesarilk-1fa86194` | இந்தியாவுக்கும் இலங்கைக்கும் இடையேயான படகு சேவை தற்காலிகமாக இடைநிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-1fa86194)
-- 2025-10-26 | `lankadeepalk-5b5f23d1` | “තායි ඇතුන් දෙදෙනා ගැන අපිට කවුරුත් කිව්වෙ නෑ” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-lankadeepalk-5b5f23d1)
 
 ---
 
