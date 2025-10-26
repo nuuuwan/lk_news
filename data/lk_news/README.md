@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--26_22:17:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--26_22:45:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,087** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,088** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-26-lankadeepalk-b80cf4c1",
-    "num": "lankadeepalk-b80cf4c1",
+    "doc_id": "2025-10-26-virakesarilk-a5e70009",
+    "num": "virakesarilk-a5e70009",
     "date_str": "2025-10-26",
-    "description": "\u0d89\u0dc3\u0dd4\u0dbb\u0dd4 \u0dc3\u0ddc\u0dba\u0dcf \u0dba\u0db1 \u0d85\u0dba \u0da7\u0dd2\u0d9a\u0d9a\u0dca \u0d85\u0da9\u0dd4 \u0dc0\u0dd9\u0dbd\u0dcf",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d89\u0dc3\u0dbb-\u0dc3\u0dba-\u0dba\u0db1-\u0d85\u0dba-\u0da7\u0d9a\u0d9a-\u0d85\u0da9-\u0dc0\u0dbd/1-682097",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1761496637.0
+    "description": "\u0b86\u0b9a\u0bbf\u0baf \u0b87\u0bb3\u0bc8\u0baf\u0bcb\u0bb0\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bb2\u0bb5\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd \u0b93\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf\u0baa\u0bcd \u0baa\u0ba4\u0b95\u0bcd\u0b95\u0bae\u0bcd; 0.02 \u0b9a\u0bc6\u0b95\u0bcd\u0b95\u0ba9\u0bbf\u0bb2\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0ba4\u0bb5\u0bb1\u0bbf\u0baf\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/228738",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761497820.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-26 | `virakesarilk-a5e70009` | ஆசிய இளையோர் விளையாட்டு விழாவில் கலவை தொடர் ஓட்டத்தில் இலங்கைக்கு வெள்ளிப் பதக்கம்; 0.02 செக்கனில் தங்கம் தவறியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-a5e70009)
 - 2025-10-26 | `lankadeepalk-b80cf4c1` | ඉසුරු සොයා යන අය ටිකක් අඩු වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-lankadeepalk-b80cf4c1)
 - 2025-10-26 | `virakesarilk-d8a00aed` | ரசிகர்களை கவர்ந்த தீபாவளி  கவியமர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-d8a00aed)
 - 2025-10-26 | `lankadeepalk-c2dd1e88` | ලූවර් කෞතුකාගාර කොල්ල කරුවන් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-lankadeepalk-c2dd1e88)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-26 | `tamilmirrorlk-850790aa` | 12 வயதுக்குட்பட்டவர்கள் போன் பயன்படுத்த விரைவில் தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-tamilmirrorlk-850790aa)
 - 2025-10-26 | `virakesarilk-6d0fbe7f` | அரசு சட்டச் சிக்கிலை தீர்த்தால்   அடுத்த முதற்காலாண்டில் தேர்தல்  தேர்தல்கள் ஆணைக்குழுவின் தலைவர் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-6d0fbe7f)
 - 2025-10-26 | `virakesarilk-608bad39` | கொலை கலாசாரத்தை கட்டுப்படுத்த முடியாத நிலைமையில் அரசாங்கம்  - எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-608bad39)
-- 2025-10-26 | `virakesarilk-da3c956b` | நவம்பரில் டில்லி   செல்கின்றார் சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-da3c956b)
 
 ---
 
