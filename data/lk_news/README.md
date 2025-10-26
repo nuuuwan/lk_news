@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--26_19:45:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--26_20:15:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,077** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,078** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-26-tamilmirrorlk-16cfae33",
-    "num": "tamilmirrorlk-16cfae33",
+    "doc_id": "2025-10-26-virakesarilk-7bc2552b",
+    "num": "virakesarilk-7bc2552b",
     "date_str": "2025-10-26",
-    "description": "\u0bb5\u0bc6\u0bb2\u0bbf\u0b95\u0bae \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba4\u0bbe\u0bb0\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0bb2\u0bbf\u0b95\u0bae-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0ba4\u0bbe\u0bb0\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-366874",
+    "description": "\u0bb5\u0bc6\u0bb2\u0bbf\u0b95\u0bae \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/228734",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761487836.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761488280.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-26 | `virakesarilk-7bc2552b` | வெலிகம பிரதேச சபைத் தலைவரின் படுகொலையில் துப்பாக்கிச் சூடு நடத்தியவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-7bc2552b)
 - 2025-10-26 | `tamilmirrorlk-16cfae33` | வெலிகம துப்பாக்கிதாரி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-tamilmirrorlk-16cfae33)
 - 2025-10-26 | `virakesarilk-150a4662` | 12 வயதிற்குட்பட்ட சிறார்கள் நவீன கையடக்க தொலைபேசிகளை  பயன்படுத்துவதற்குத் தடை விதிக்கப்படும் - அரசாங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-150a4662)
 - 2025-10-26 | `adalk-99859bc0` | විදේශ සේවා කාර්යාංශයේ සේවයකල රියදුරකු මහාපරිමාණ ඊශ්‍රායල් රැකියා වංචාවක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-adalk-99859bc0)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-26 | `virakesarilk-c927e98c` | போதைப்பொருள் ஒழிப்பு  தேசிய வேலைத்திட்டம்  எதிர்வரும் வியாழன்று ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-c927e98c)
 - 2025-10-26 | `virakesarilk-3e07b5d5` | வெறும் கதையாடல் அல்ல, செயல்களே தேவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-3e07b5d5)
 - 2025-10-26 | `adalk-eb503778` | ලසන්නත වික්‍රමසේකර ඝාතනයට තවත් පුද්ගලයෙක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-adalk-eb503778)
-- 2025-10-26 | `virakesarilk-7bc0f82f` | வெலிகம பிரதேச சபைத் தலைவரின் கொலையுடன் தொடர்புடைய மற்றுமொரு சந்தேகநபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-26-virakesarilk-7bc0f82f)
 
 ---
 
