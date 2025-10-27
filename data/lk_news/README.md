@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_04:45:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_05:15:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,314** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,317** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-28-dailyftlk-fb3102f2",
-    "num": "dailyftlk-fb3102f2",
+    "doc_id": "2025-10-28-virakesarilk-97a6a77c",
+    "num": "virakesarilk-97a6a77c",
     "date_str": "2025-10-28",
-    "description": "Urgent repairs planned for historic Nuwara Eliya Post Office amid heritage conservation push",
-    "url_metadata": "https://www.ft.lk/news/Urgent-repairs-planned-for-historic-Nuwara-Eliya-Post-Office-amid-heritage-conservation-push/56-783518",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1761604670.0
+    "description": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd\u00a0\u0b8e\u0bb2\u0bcd\u0bb2\u0bc8\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u2018\u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bcd \u0ba8\u0bc7\u0bb0\u0bcd\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0bb2\u0bcd\u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.virakesari.lk/article/228845",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761608460.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-28 | `virakesarilk-97a6a77c` | மக்களாட்சியின் டிஜிட்டல் எல்லையைப் பாதுகாத்தல் ‘தேர்தல் நேர்மைக்கான பல்தரப்புக்களப் போராட்டம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-97a6a77c)
+- 2025-10-28 | `virakesarilk-1643d4a2` | பம்பலப்பிட்டி கதிரேசன் ஆலயத்தில் சூரசம்ஹார நிகழ்வு சிறப்புற நடைபெற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-1643d4a2)
+- 2025-10-28 | `virakesarilk-067adb90` | திருகோணமலை முத்துக்குமாரசுவாமி ஆலயத்தில் சூரசம்ஹார விழா சிறப்பாக நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-067adb90)
 - 2025-10-28 | `dailyftlk-fb3102f2` | Urgent repairs planned for historic Nuwara Eliya Post Office amid heritage conservation push | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-fb3102f2)
 - 2025-10-27 | `virakesarilk-1b579f1a` | மட்டு. களுவதாவளை சிவ சக்தி ஸ்ரீ முருகன் ஆலயத்தில் வெகு சிறப்பாக நடந்தேறிய சூரன்போர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-1b579f1a)
 - 2025-10-27 | `tamilmirrorlk-a09eade1` | வடக்கு புகையிரத சேவைகள் முற்றாக பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-tamilmirrorlk-a09eade1)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-27 | `virakesarilk-9eb45541` | வடக்கு மாகாண உள்ளூராட்சி அமைச்சின் செயலாளரைச் சந்தித்தார் துரைராசா ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-9eb45541)
 - 2025-10-27 | `virakesarilk-3cc2d1da` | அருவக்காடு திண்மக் கழிவு முகாமைத்துவத் திட்டத்தை கண்காணித்தார் பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-3cc2d1da)
 - 2025-10-27 | `virakesarilk-fd7670ad` | அரசாங்கத்தின் சர்வாதிகார செயற்பாடுகளுக்கு எதிராக எதிர்க்கட்சிகள் ஒன்றிணைய வேண்டும் – மக்கள் குரல் அமைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-fd7670ad)
-- 2025-10-27 | `lankadeepalk-8aaf262b` | ලොකු ලූනු මිලට ගන්න වට මනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-lankadeepalk-8aaf262b)
-- 2025-10-27 | `virakesarilk-cd7d6c66` | பாதுகாப்பு கட்டமைப்பு முழுமையாக அரசியல்மயமாகியுள்ளது – சாகர காரியவசம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-cd7d6c66)
-- 2025-10-27 | `virakesarilk-b1c7a6c9` | 13ஐ முழுமையாக நடைமுறைப்படுத்தி தமிழீழத்தை உருவாக்குவதே ஐ.நா.வின் நோக்கம் ; அதற்கு அரசாங்கமும் துணை நிற்கிறது - முன்னாள் கடற்படை அதிகாரி டி.கே.பி.தசநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-b1c7a6c9)
 
 ---
 
