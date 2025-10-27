@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--27_07:14:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--27_08:18:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,130** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,135** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-27-lankadeepalk-93dc74b1",
-    "num": "lankadeepalk-93dc74b1",
+    "doc_id": "2025-10-27-tamilmirrorlk-2105b449",
+    "num": "tamilmirrorlk-2105b449",
     "date_str": "2025-10-27",
-    "description": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7 \u0d85\u0daf\u0dad\u0dca \u0dc0\u0dd0\u0dc3\u0dca\u0dc3",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dad-\u0d9a\u0db4\u0dba\u0d9a\u0da7-\u0d85\u0daf\u0dad-\u0dc0\u0dc3\u0dc3/101-682100",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1761528400.0
+    "description": "\u2019\u0b95\u0bbe\u0bb8\u0bbe \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4 \u0b8e\u0bb5\u0bb0\u0bcd \u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bc1\u0bae\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0bb8\u0bbe-\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4-\u0b8e\u0bb5\u0bb0\u0bcd-\u0b92\u0baa\u0bcd\u0baa\u0bc1\u0ba4\u0bb2\u0bc1\u0bae\u0bcd-\u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/50-366891",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1761532934.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-27 | `tamilmirrorlk-2105b449` | ’காஸா மீது தாக்குதல் நடத்த எவர் ஒப்புதலும் தேவையில்லை’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-tamilmirrorlk-2105b449)
+- 2025-10-27 | `tamilmirrorlk-b3747ed7` | இன்று பல தடவைகள் மழை பெய்யக்கூடும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-tamilmirrorlk-b3747ed7)
+- 2025-10-27 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-3a015e4a)
 - 2025-10-27 | `lankadeepalk-93dc74b1` | පළාත් කීපයකට අදත් වැස්ස | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-lankadeepalk-93dc74b1)
 - 2025-10-27 | `lankadeepalk-2298d56d` | අපනයනයෙන් කප් එක ඇමෙරිකාව් කප් එක ඇමෙරිකාව | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-lankadeepalk-2298d56d)
 - 2025-10-27 | `tamilmirrorlk-e86e2c14` | உக்ரைன் தலைநகரில் ரஷ்யா தாக்குதல்: 3 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-tamilmirrorlk-e86e2c14)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-27 | `dailyftlk-37061d6c` | National initiative to empower entrepreneurs and SMEs   “4i Project” debuts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-dailyftlk-37061d6c)
 - 2025-10-27 | `dailyftlk-45dc542b` | RIUNIT to promote Sri Lanka’s  real estate at London  Investment Forum 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-dailyftlk-45dc542b)
 - 2025-10-27 | `dailyftlk-0a75e9ea` | Dankotuwa Porcelain nearly triples public holding to 35% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-dailyftlk-0a75e9ea)
-- 2025-10-27 | `dailyftlk-555b25f4` | PM calls for greater collaboration between Govt. and private sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-dailyftlk-555b25f4)
-- 2025-10-27 | `dailyftlk-1fad5538` | Overseas Realty records Rs. 6.8 b PBT for 9 months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-dailyftlk-1fad5538)
-- 2025-10-27 | `dailyftlk-18867bc4` | LKI Admiral’s Morning takes up ‘Maritime Domain Awareness’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-dailyftlk-18867bc4)
 
 ---
 
