@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--27_06:30:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--27_07:14:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,127** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,130** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-27-virakesarilk-2d7bc0f0",
-    "num": "virakesarilk-2d7bc0f0",
+    "doc_id": "2025-10-27-lankadeepalk-93dc74b1",
+    "num": "lankadeepalk-93dc74b1",
     "date_str": "2025-10-27",
-    "description": "\u0bae\u0b9f\u0bcd\u0b9f\u0bc1 - \u0b8f\u0bb1\u0bbe\u0bb5\u0bc2\u0bb0\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0ba3\u0bcd \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b9c\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 3 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bc1 61 \u0b86\u0baf\u0bbf\u0bb0\u0bae\u0bcd \u0bb0\u0bc2\u0baa\u0bbe \u0baa\u0ba3\u0bae\u0bcd\u00a0 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/228748",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1761519360.0
+    "description": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7 \u0d85\u0daf\u0dad\u0dca \u0dc0\u0dd0\u0dc3\u0dca\u0dc3",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dad-\u0d9a\u0db4\u0dba\u0d9a\u0da7-\u0d85\u0daf\u0dad-\u0dc0\u0dc3\u0dc3/101-682100",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1761528400.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-27 | `lankadeepalk-93dc74b1` | පළාත් කීපයකට අදත් වැස්ස | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-lankadeepalk-93dc74b1)
+- 2025-10-27 | `lankadeepalk-2298d56d` | අපනයනයෙන් කප් එක ඇමෙරිකාව් කප් එක ඇමෙරිකාව | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-lankadeepalk-2298d56d)
+- 2025-10-27 | `tamilmirrorlk-e86e2c14` | உக்ரைன் தலைநகரில் ரஷ்யா தாக்குதல்: 3 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-tamilmirrorlk-e86e2c14)
 - 2025-10-27 | `virakesarilk-2d7bc0f0` | மட்டு - ஏறாவூரில் பெண் வியாபாரி ஒருவர் ஜஸ் போதைப்பொருள் மற்றும் 3 இலட்சத்து 61 ஆயிரம் ரூபா பணம்  மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-2d7bc0f0)
 - 2025-10-27 | `virakesarilk-99003723` | மட்டு வாகனேரி பகுதியில் கைவிடப்பட்டிருந்த இரு கைக்குண்டுகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-99003723)
 - 2025-10-27 | `virakesarilk-f72327ba` | ஐரோப்பிய வரலாற்றின் இல்லம்: ஒரு கண்டத்தின் கதையினை புரிந்துகொள்ளுதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-f72327ba)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-27 | `dailyftlk-555b25f4` | PM calls for greater collaboration between Govt. and private sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-dailyftlk-555b25f4)
 - 2025-10-27 | `dailyftlk-1fad5538` | Overseas Realty records Rs. 6.8 b PBT for 9 months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-dailyftlk-1fad5538)
 - 2025-10-27 | `dailyftlk-18867bc4` | LKI Admiral’s Morning takes up ‘Maritime Domain Awareness’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-dailyftlk-18867bc4)
-- 2025-10-27 | `dailyftlk-5d937463` | LIIN catalyses next wave of impact investment in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-dailyftlk-5d937463)
-- 2025-10-27 | `dailyftlk-47d72919` | Cybersecurity is not an IT problem – it’s a boardroom responsibility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-dailyftlk-47d72919)
-- 2025-10-27 | `dailyftlk-698cce97` | Inside Lithuania’s digital frontline: How Delfi’s fact-checkers combat disinformation across languages and platforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-dailyftlk-698cce97)
 
 ---
 
