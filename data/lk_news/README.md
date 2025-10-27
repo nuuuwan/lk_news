@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--27_17:15:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--27_17:49:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,257** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,263** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-27-tamilmirrorlk-47e9a061",
-    "num": "tamilmirrorlk-47e9a061",
+    "doc_id": "2025-10-27-lankadeepalk-e2a001fc",
+    "num": "lankadeepalk-e2a001fc",
     "date_str": "2025-10-27",
-    "description": "\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9f\u0bc6\u0bb2\u0bbf\u0baa\u0bcb\u0ba9\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b9f\u0bc6\u0bb2\u0bbf\u0baa\u0bcb\u0ba9\u0bc8\u0b95\u0bcd-\u0b95\u0bbe\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/175-366931",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761564813.0
+    "description": "\u0dc4\u0dbb\u0dd2\u0db1\u0dd2 - \u0d85\u0dbb\u0dd4\u0dc0\u0d9a\u0dca\u0d9a\u0dcf\u0dbd\u0dd4 \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc4\u0dbb\u0db1-\u0d85\u0dbb\u0dc0\u0d9a\u0d9a\u0dbd-\u0db6\u0dbd\u0db1\u0db1-\u0dba\u0dba/101-682169",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1761567140.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-27 | `lankadeepalk-e2a001fc` | හරිනි - අරුවක්කාලු බලන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-lankadeepalk-e2a001fc)
+- 2025-10-27 | `lankadeepalk-4006e35f` | රටවල් දෙකක ගුවන් සේවා හෙට සිට මත්තලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-lankadeepalk-4006e35f)
+- 2025-10-27 | `lankadeepalk-1f237123` | ’’සිපෙට්කෝ ලිහිසි තෙල්” ධීවරයන්ට ළගටම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-lankadeepalk-1f237123)
+- 2025-10-27 | `tamilmirrorlk-ecb91542` | வெளிநாடுகளில் வசிக்கும் இலங்கையர்களுக்கு விசேட செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-tamilmirrorlk-ecb91542)
 - 2025-10-27 | `tamilmirrorlk-47e9a061` | எதிர்க்கட்சிக் கூட்டணியில் டெலிபோனைக் காணவில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-tamilmirrorlk-47e9a061)
 - 2025-10-27 | `lankadeepalk-4651ae38` | සංජය මහවත්තට වාරණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-lankadeepalk-4651ae38)
 - 2025-10-27 | `tamilmirrorlk-b8b7fa64` | குறிஞ்சாக்கேணிக்கான பாதுகாப்பான படகு பாதை பயணம்  ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-tamilmirrorlk-b8b7fa64)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-10-27 | `virakesarilk-e8ba7f62` | ரசிகர்களுக்கும், ஊடகங்களுக்கும் நன்றி தெரிவித்த 'பைசன் காளமாடன்' படக் குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-e8ba7f62)
 - 2025-10-27 | `lankadeepalk-6e79ab21` | වසර දෙකකට පසු කුවේට් එයාර්වේස් ලංකා ගුවනට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-lankadeepalk-6e79ab21)
 - 2025-10-27 | `virakesarilk-fd400cb8` | விறுவிறுப்பான படப்பிடிப்பில் விஜய் அண்டனியின் 'நூறு சாமி' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-fd400cb8)
-- 2025-10-27 | `virakesarilk-f94e84e1` | எல்ல - பசறை வீதியில் மரமொன்று முறிந்து விழுந்தது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-f94e84e1)
-- 2025-10-27 | `virakesarilk-0623cc69` | ஹாரிஸ் ஜெயராஜ் இசையில் உருவாகும் 'காதல் ரீசெட் ரிப்பீட்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-0623cc69)
-- 2025-10-27 | `virakesarilk-f143b83d` | புல்மோட்டை ஊழியர்கள் 83 பேருக்கு 15 மாதங்களாக ஊதியம் இல்லை ; 14 ஆவது நாளாக தொடர் சத்தியாக் கிரக போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-f143b83d)
-- 2025-10-27 | `tamilmirrorlk-e56c8daa` | உள்ளாடையை இழுத்து பலாத்கார முயற்சி; இளம்பெண் அதிர்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-tamilmirrorlk-e56c8daa)
 
 ---
 
