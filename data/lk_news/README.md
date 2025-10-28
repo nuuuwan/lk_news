@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_04:18:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_04:46:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,537** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,555** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-29-dailyftlk-9f66a567",
-    "num": "dailyftlk-9f66a567",
+    "doc_id": "2025-10-29-dailyftlk-3156e57b",
+    "num": "dailyftlk-3156e57b",
     "date_str": "2025-10-29",
-    "description": "Michael Kors commits $ 2.7 m to feed Sri Lankan children, support local farmers through WFP",
-    "url_metadata": "https://www.ft.lk/news/Michael-Kors-commits-2-7-m-to-feed-Sri-Lankan-children-support-local-farmers-through-WFP/56-783602",
+    "description": "WCIC\u2019s 40th anniversary celebrations continue with \u201cEmpowering Future Female Entrepreneurs\u201d workshop",
+    "url_metadata": "https://www.ft.lk/news/WCIC-s-40th-anniversary-celebrations-continue-with-Empowering-Future-Female-Entrepreneurs-workshop/56-783620",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761690676.0
+    "time_ut": 1761693091.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-29 | `dailyftlk-3156e57b` | WCIC’s 40th anniversary celebrations continue with “Empowering Future Female Entrepreneurs” workshop | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-3156e57b)
+- 2025-10-29 | `dailyftlk-b58e380e` | GREE AirTech Sri Lanka wins prestigious ‘Most Promising Award’ at GREE Global Conference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-b58e380e)
+- 2025-10-29 | `dailyftlk-dd65ea2a` | Singapore’s Trafigura gets 7-month diesel contract | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-dd65ea2a)
+- 2025-10-29 | `dailyftlk-f887da19` | Brandix highlights ESG Stewardship in latest ESG Report | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-f887da19)
+- 2025-10-29 | `dailyftlk-ece583ab` | Govt. begins mapping smallholder rubber lands to meet EUDR rules | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-ece583ab)
+- 2025-10-29 | `dailyftlk-5c1e814d` | Sri Lanka highlights trade, investment and tourism opportunities in Brussels | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-5c1e814d)
+- 2025-10-29 | `dailyftlk-c82ccde8` | Govt. ended culture of political interference in foreign employment: Minister Herath | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-c82ccde8)
+- 2025-10-29 | `dailyftlk-c521efd0` | Ragama Rehabilitation Hospital, Science and Technology  Ministry to collaborate on advanced medical innovation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-c521efd0)
+- 2025-10-29 | `dailyftlk-a0cf3224` | Canadian arrested at BIA with Rs. 182 m worth of hashish | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-a0cf3224)
+- 2025-10-29 | `dailyftlk-fcc903d3` | Police launch probe into officers over video of Weligama PS Chairman murder suspect’s arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-fcc903d3)
+- 2025-10-29 | `dailyftlk-6f7c144f` | Cabinet clears Bill to regulate container depot operators and amend licensing laws | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-6f7c144f)
+- 2025-10-29 | `dailyftlk-c980e705` | Four new High Courts in Colombo under Anti-Corruption National Action Plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-c980e705)
+- 2025-10-29 | `virakesarilk-8827de10` | ஜகத் விதானவுக்குள்ள உயிர் அச்சுறுத்தல் தொடர்பில் தொடர்ந்தும் மதிப்பாய்வுகள் முன்னெடுக்கப்படுகின்றன - பொலிஸ் பேச்சாளர் விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-8827de10)
+- 2025-10-29 | `virakesarilk-1ba6d711` | இன்று மீண்டும் விசாரணைக்கு வரும் ரணிலின் வழக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-1ba6d711)
 - 2025-10-29 | `dailyftlk-9f66a567` | Michael Kors commits $ 2.7 m to feed Sri Lankan children, support local farmers through WFP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-9f66a567)
+- 2025-10-29 | `virakesarilk-05b42329` | கொழும்பு மாவட்டத்தில் 2,30982 மாணவர்கள் போதைப்பொருளுக்கு அடிமையாகியுள்ளார்கள் - சிறைச்சாலை ஆணையாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-05b42329)
 - 2025-10-29 | `dailyftlk-06e15a2a` | Boosting Austria-Sri Lanka relations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-06e15a2a)
 - 2025-10-29 | `dailyftlk-14398fac` | Sri Lankan Parliamentary delegation visits UK to strengthen governance and bilateral ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-14398fac)
 - 2025-10-29 | `dailyftlk-81107eef` | Cabinet approves recruitment of 8,547 personnel across ministries and provincial councils | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-81107eef)
 - 2025-10-29 | `dailyftlk-5e500887` | SAPRI shaping South Asia’s future through dialogue and action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-5e500887)
-- 2025-10-29 | `virakesarilk-c93308ca` | தேசிய இனப்பிரச்சினைக்குதீர்வு காண்பதைத் தாமதிக்கிறது அரசு -பிரிட்டன் அழுத்தம் வழங்கவேண்டும் என உயர்ஸ்தானிகரிடம் சிவில் சமூகப்பிரதிநிதிகள் வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-c93308ca)
-- 2025-10-29 | `tamilmirrorlk-72816cc1` | காசா மீது உடனடி தாக்குதல்: இஸ்ரேல் பிரதமர் உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-tamilmirrorlk-72816cc1)
-- 2025-10-29 | `virakesarilk-7dc2b4c6` | கொழும்பு 7இல் நான்கு புதிய மேல் நீதிமன்றங்கள் : அரசாங்கம் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-7dc2b4c6)
-- 2025-10-29 | `virakesarilk-5411ebec` | இஷாரா செவ்வந்திக்கு உதவிய பெண் சட்டத்தரணி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-5411ebec)
-- 2025-10-29 | `dailyftlk-ddbdef69` | Sri Lanka–Maldives Business Council leads delegation to Hotel Asia Exhibition 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-ddbdef69)
-- 2025-10-29 | `dailyftlk-549e2f66` | LankaPak 2025: Celebration of creativity and testament to resilience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-549e2f66)
-- 2025-10-29 | `dailyftlk-f85f364e` | CNCI Achiever Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-f85f364e)
-- 2025-10-29 | `dailyftlk-87725678` | Daraz Sri Lanka and Industry Ministry join to empower SMEs growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-87725678)
-- 2025-10-29 | `dailyftlk-af2dff21` | Law, morality, and re-founding of the republic – Part 2 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-af2dff21)
-- 2025-10-29 | `dailyftlk-fa6e4a1b` | Remembering eviction of northern Muslims and making commitment to coexistence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-fa6e4a1b)
-- 2025-10-29 | `virakesarilk-a030d7ab` | அரச சேவையில் மேலும் 8000 ஆட்சேர்ப்புக்களுக்கு அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-a030d7ab)
-- 2025-10-29 | `virakesarilk-52ce15c0` | போதைப்பொருள் மற்றும் பாதாளக் குழுக்களுக்கு எதிரான நடவடிக்கையில் அரசியல் நோக்கம் கொண்ட எதிர்க்கட்சி – ஹர்ஷன நாணயக்கார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-52ce15c0)
-- 2025-10-28 | `virakesarilk-2c330da6` | எதிர்க்கட்சி எம்.பி.க்களுக்கு பாதுகாப்பு வழங்குவது அரசியல்மயமாக்கப்பட்டுவிட்டதா? பொலிஸ்மா அதிபரின் கருத்து சிறப்புரிமை மீறலாகும் - எதிர்க்கட்சித் தலைவர் விசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-2c330da6)
-- 2025-10-28 | `virakesarilk-4257c5b7` | ஊழல் குற்றச்சாட்டில் உள்ளவர்களே அரசுக்கு எதிராக ஒன்றிணைந்துள்ளனர் – சுனில் வட்டகல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-4257c5b7)
-- 2025-10-28 | `virakesarilk-0909042c` | இந்தோனேசியாவைத் தாக்கிய வலுவான நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-0909042c)
 
 ---
 
