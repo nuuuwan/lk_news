@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_01:16:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_01:47:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,514** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,524** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-28-virakesarilk-861f1dde",
-    "num": "virakesarilk-861f1dde",
-    "date_str": "2025-10-28",
-    "description": "\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u2013 \u0baa\u0bbf\u0bb0\u0ba4\u0bae \u0ba8\u0bc0\u0ba4\u0bbf\u0baf\u0bb0\u0b9a\u0bb0\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/228927",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1761664800.0
+    "doc_id": "2025-10-29-dailyftlk-af2dff21",
+    "num": "dailyftlk-af2dff21",
+    "date_str": "2025-10-29",
+    "description": "Law, morality, and re-founding of the republic \u2013 Part 2",
+    "url_metadata": "https://www.ft.lk/columns/Law-morality-and-re-founding-of-the-republic-Part-2/4-783572",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1761682223.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-29 | `dailyftlk-af2dff21` | Law, morality, and re-founding of the republic – Part 2 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-af2dff21)
+- 2025-10-29 | `dailyftlk-fa6e4a1b` | Remembering eviction of northern Muslims and making commitment to coexistence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-fa6e4a1b)
+- 2025-10-29 | `virakesarilk-a030d7ab` | அரச சேவையில் மேலும் 8000 ஆட்சேர்ப்புக்களுக்கு அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-a030d7ab)
+- 2025-10-29 | `virakesarilk-52ce15c0` | போதைப்பொருள் மற்றும் பாதாளக் குழுக்களுக்கு எதிரான நடவடிக்கையில் அரசியல் நோக்கம் கொண்ட எதிர்க்கட்சி – ஹர்ஷன நாணயக்கார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-52ce15c0)
+- 2025-10-28 | `virakesarilk-2c330da6` | எதிர்க்கட்சி எம்.பி.க்களுக்கு பாதுகாப்பு வழங்குவது அரசியல்மயமாக்கப்பட்டுவிட்டதா? பொலிஸ்மா அதிபரின் கருத்து சிறப்புரிமை மீறலாகும் - எதிர்க்கட்சித் தலைவர் விசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-2c330da6)
+- 2025-10-28 | `virakesarilk-4257c5b7` | ஊழல் குற்றச்சாட்டில் உள்ளவர்களே அரசுக்கு எதிராக ஒன்றிணைந்துள்ளனர் – சுனில் வட்டகல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-4257c5b7)
+- 2025-10-28 | `virakesarilk-0909042c` | இந்தோனேசியாவைத் தாக்கிய வலுவான நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-0909042c)
 - 2025-10-28 | `virakesarilk-861f1dde` | நீதிமன்றங்களை டிஜிட்டல் மயப்படுத்தும் திட்டம் விரைவில் – பிரதம நீதியரசர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-861f1dde)
 - 2025-10-28 | `lankadeepalk-60e65225` | ’ යුරෝපීය සංචාරකයින් වැඩි කරගන්න රජය මැදිහත් වෙනවා’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-60e65225)
 - 2025-10-28 | `virakesarilk-1d76f50c` | இலங்கையில் இடம்பெற்ற இனவழிப்பு தொடர்பில் சர்வதேச விசாரணையை முன்னெடுக்க ஒத்துழையுங்கள் - சுவிற்ஸர்லாந்து சமூக ஜனநாயகக் கட்சி ஏகமனதாகத் தீர்மானம் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-1d76f50c)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-10-28 | `virakesarilk-55130988` | கிழக்கில் அபிவிருத்தி கருத்திட்டங்களுக்காக இந்தியாவிடமிருந்து 2,371 மில்லியன் நிதியுதவி; 33 புரிந்துணர்வு ஒப்பந்தங்களில் கையெழுத்திட அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-55130988)
 - 2025-10-28 | `lankadeepalk-6a362e82` | තරුණ ඇමති තරුණ සේවා ප්‍රගතිය බලන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-6a362e82)
 - 2025-10-28 | `virakesarilk-b69e4d09` | வி ஜே சித்து கதையின் நாயகனாக நடிக்கும் 'டயங்கரம்' படத்தின் தொடக்க விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-b69e4d09)
-- 2025-10-28 | `lankadeepalk-f1b982d9` | ඇමැති බංගලා 4ක් මහාධිකරණවලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-f1b982d9)
-- 2025-10-28 | `virakesarilk-c1a6ddc0` | இயக்குநராக அறிமுகமாகும் நடிகை ஷாலின் ஜோயா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-c1a6ddc0)
-- 2025-10-28 | `lankadeepalk-5989c668` | ‘‘ලසාගේ‘‘ වෙඩික්කරු අත්අඩංගුවට ගත් නිලධාරීන් ගැන විමර්ශනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-5989c668)
-- 2025-10-28 | `virakesarilk-6aea4663` | மதுபான உற்பத்தியாளர் அனுமதிப்பத்திரங்களை இரத்து செய்ய தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-6aea4663)
-- 2025-10-28 | `virakesarilk-9148fde7` | மாவையின் சகிப்புத்தன்மையை தமக்கு பாதகம் என கருதியவர்களால் இலங்கை தமிழ் அரசு கட்சி இன்று சின்னாபின்னமாகிவிட்டது - இராசேந்திரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-9148fde7)
-- 2025-10-28 | `virakesarilk-39770136` | சஸ்பென்ஸ் திரில்லர் திரைப்படத்தில் நடிக்கும் கிஷோர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-39770136)
-- 2025-10-28 | `virakesarilk-431ce2ad` | ஆசிய இளையோர் விளையாட்டு விழா மல்யுத்த வெண்கலப் பதக்க போட்டியில் இலங்கையின் வினோத் டில்ஷான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-431ce2ad)
 
 ---
 
