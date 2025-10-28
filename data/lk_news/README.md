@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_09:46:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_10:20:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,366** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,377** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-28-adalk-69af58a0",
-    "num": "adalk-69af58a0",
+    "doc_id": "2025-10-28-virakesarilk-baeaadd2",
+    "num": "virakesarilk-baeaadd2",
     "date_str": "2025-10-28",
-    "description": "\u0db8\u0dc4\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0da7 \u0db1\u0dc0 \u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dca\u200d\u0dba \u0d85\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4 \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db4\u0dad\u0dca \u0d9a\u0dd9\u0dbb\u0dda",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dc4\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0da7-\u0db1\u0dc0-\u0db1\u0dd2\u0dba\u0ddd\u0da2\u0dca\u200d\u0dba-\u0d85\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db4\u0dad\u0dca-\u0d9a\u0dd9\u0dbb\u0dda/11-419357",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1761624767.0
+    "description": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc8 \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/228861",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761625860.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-28 | `virakesarilk-baeaadd2` | யாழில் ஹெரோயின் போதைப்பொருளை கடத்திச் சென்ற சந்தேக நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-baeaadd2)
+- 2025-10-28 | `virakesarilk-131af97c` | 4ஆவது தெற்காசிய மெய்வல்லுநர் சம்பியன்ஷிப் போட்டியில் பங்கேற்ற இலங்கை அணியினர் நாடு திரும்பினர் ; உற்சாக வரவேற்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-131af97c)
+- 2025-10-28 | `virakesarilk-99337145` | தண்டவாளத்தில் நின்று வீடியோ எடுத்த சிறுவர்கள் இருவர் ரயில் மோதி உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-99337145)
+- 2025-10-28 | `virakesarilk-e3fa3a1e` | விமான நிலையத்தில் ஹஷிஷ் போதைப்பொருளுடன் வெளிநாட்டு பிரஜை கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-e3fa3a1e)
+- 2025-10-28 | `virakesarilk-ef0e9036` | நுவரெலியாவில் மரம் முறிந்து விழுந்ததால் போக்குவரத்து பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-ef0e9036)
 - 2025-10-28 | `adalk-69af58a0` | මහබැංකුවට නව නියෝජ්‍ය අධිපතිවරු දෙදෙනෙක් පත් කෙරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-adalk-69af58a0)
 - 2025-10-28 | `tamilmirrorlk-90245c9e` | இலங்கை மத்திய வங்கிக்கு புதிய பிரதி ஆளுநர்கள் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-90245c9e)
+- 2025-10-28 | `virakesarilk-f5b2117a` | மத்திய வங்கிக்கு புதிய பிரதி ஆளுநர்கள் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-f5b2117a)
 - 2025-10-28 | `tamilmirrorlk-f1204cda` | தனிமையில் வசித்துவந்த வயோதிப பெண் சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-f1204cda)
+- 2025-10-28 | `virakesarilk-8eab783a` | சுசீலாவதி வில்சனின் மறைவு ; இலங்கையின் தமிழர் அரசியல், அரசியலமைப்பு வளர்ச்சி வரலாற்றின் பிரத்தியேகமான அத்தியாயம் ஒன்றின்  முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-8eab783a)
 - 2025-10-28 | `lankadeepalk-9c4eb1e5` | තියුණු ආයුධ සමඟ හතරක් නාගොඩදී අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-9c4eb1e5)
+- 2025-10-28 | `virakesarilk-ecdb8c53` | மட்டக்களப்பு - சந்திவெளியில் விபத்து ; ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-ecdb8c53)
+- 2025-10-28 | `virakesarilk-4c375a39` | மாத்தறையில் வாகன விபத்து ; ஒருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-4c375a39)
+- 2025-10-28 | `virakesarilk-adb8cc7c` | சட்டவிரோதமாக மாணிக்கக்கல் அகழ்வு : ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-adb8cc7c)
+- 2025-10-28 | `virakesarilk-63fcd863` | மதவாச்சியில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு பெண் ஒருவர் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-63fcd863)
 - 2025-10-28 | `tamilmirrorlk-532da5de` | யாழில் திடீர் கோடீஸ்வரர்களுக்கு ஆபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-532da5de)
 - 2025-10-28 | `tamilmirrorlk-95b09105` | மதுபான வரி தொடர்பில்  வர்த்தமானி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-95b09105)
 - 2025-10-28 | `lankadeepalk-d4dd6434` | කෝටි 18ක හසීෂ් සමඟ විදෙස් ජාතිකයා අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-d4dd6434)
 - 2025-10-28 | `lankadeepalk-1de9c5ea` | අද කාලගුණය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-1de9c5ea)
 - 2025-10-28 | `adalk-819f1127` | ජාතික බුද්ධි ප්‍රධානී රුවන් වනිගසූරිය විශ්‍රාම ගන්නා ලදි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-adalk-819f1127)
-- 2025-10-28 | `adalk-beeea51d` | පුතාගේ පොරෝ පහරින් මව මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-adalk-beeea51d)
-- 2025-10-28 | `dailyftlk-6a9b4259` | Agstar appoints Sajeewa Ranasinghe as CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-6a9b4259)
-- 2025-10-28 | `dailyftlk-5f839415` | NSA 2025: SLIM recognises “Ambassadors of Sales” in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-5f839415)
-- 2025-10-28 | `dailyftlk-3d82d619` | Jaffna named among Best Cities to Visit in 2026 by Lonely Planet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-3d82d619)
-- 2025-10-28 | `dailyftlk-3090f43e` | CBSL appoints new Deputy Governors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-3090f43e)
-- 2025-10-28 | `dailyftlk-b93481ec` | Hayleys Plantations partners Solidaridad to strengthen global leadership in regenagri | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-b93481ec)
-- 2025-10-28 | `dailyftlk-f8191bcd` | Energy Minister attends Russian Energy Week 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-f8191bcd)
-- 2025-10-28 | `virakesarilk-94890356` | இன்றைய வானிலை : "மொன்தா" சூறாவளி முல்லைத்தீவிலிருந்து 600 கிலோமீற்றர் தொலைவில் நிலைகொண்டுள்ளது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-94890356)
-- 2025-10-28 | `dailyftlk-a81416e0` | Mercedes-Benz Fashion Week Sri Lanka 2025: Defining the South Asian voice in global fashion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-a81416e0)
-- 2025-10-28 | `dailyftlk-0b61ac15` | Christell Luxury Wellness crowned Asia-Pacific’s Wellness Clinic of the Year at global summit in Singapore | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-0b61ac15)
-- 2025-10-28 | `dailyftlk-af732fcd` | Tokyo Cement posts steady results in Q2 as construction sector rebounds | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-af732fcd)
 
 ---
 
