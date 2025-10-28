@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_06:02:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_06:30:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,338** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,342** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-28-dailyftlk-7d42a597",
-    "num": "dailyftlk-7d42a597",
+    "doc_id": "2025-10-28-dailyftlk-a81416e0",
+    "num": "dailyftlk-a81416e0",
     "date_str": "2025-10-28",
-    "description": "Auditor General gets letter on audited financials of Royal College SDS for 2024",
-    "url_metadata": "https://www.ft.lk/opinion/Auditor-General-gets-letter-on-audited-financials-of-Royal-College-SDS-for-2024/14-783529",
+    "description": "Mercedes-Benz Fashion Week Sri Lanka 2025: Defining the South Asian voice in global fashion",
+    "url_metadata": "https://www.ft.lk/business/Mercedes-Benz-Fashion-Week-Sri-Lanka-2025-Defining-the-South-Asian-voice-in-global-fashion/34-783538",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761610819.0
+    "time_ut": 1761612743.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-28 | `dailyftlk-a81416e0` | Mercedes-Benz Fashion Week Sri Lanka 2025: Defining the South Asian voice in global fashion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-a81416e0)
+- 2025-10-28 | `dailyftlk-0b61ac15` | Christell Luxury Wellness crowned Asia-Pacific’s Wellness Clinic of the Year at global summit in Singapore | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-0b61ac15)
+- 2025-10-28 | `dailyftlk-af732fcd` | Tokyo Cement posts steady results in Q2 as construction sector rebounds | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-af732fcd)
+- 2025-10-28 | `tamilmirrorlk-509af03e` | கண்ணீர்மல்க மன்னிப்பு கோரினார் விஜய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-509af03e)
 - 2025-10-28 | `dailyftlk-7d42a597` | Auditor General gets letter on audited financials of Royal College SDS for 2024 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-7d42a597)
 - 2025-10-28 | `dailyftlk-0c743640` | Unequal exchange: Systematic drain of value from Global South | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-0c743640)
 - 2025-10-28 | `dailyftlk-8b90b49d` | From “No Kings” to “No Clients”: Political and economic gravity – Part 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-dailyftlk-8b90b49d)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-10-27 | `virakesarilk-1b579f1a` | மட்டு. களுவதாவளை சிவ சக்தி ஸ்ரீ முருகன் ஆலயத்தில் வெகு சிறப்பாக நடந்தேறிய சூரன்போர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-virakesarilk-1b579f1a)
 - 2025-10-27 | `islandlk-bac70334` | Night of Music and Fellowship | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-islandlk-bac70334)
 - 2025-10-27 | `islandlk-ff87d693` | Kaspersky Industrial Cybersecurity enhances performance: new capabilities improve network security and operational effectiveness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-islandlk-ff87d693)
-- 2025-10-27 | `islandlk-43b90bd2` | Month-end profit-takings slow down share market, 13 crossings notwithstanding | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-islandlk-43b90bd2)
-- 2025-10-27 | `islandlk-9bff3064` | Standard Chartered appoints Kumudu Munasinghe as Head of Corporate Affairs, Brand and Marketing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-islandlk-9bff3064)
-- 2025-10-27 | `islandlk-122bf6bf` | Softlogic GLOMARK expands footprint with all-new outlet at Horton Place | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-islandlk-122bf6bf)
-- 2025-10-27 | `islandlk-62642d38` | Unit Trust Association of Sri Lanka launches “Investor Awareness Initiative” to empower public to build wealth through Unit Trusts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-27-islandlk-62642d38)
 
 ---
 

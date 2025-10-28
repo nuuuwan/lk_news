@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-28 06:01:25",
-  "n_docs": 83338,
+  "time_updated": "2025-10-28 06:30:04",
+  "n_docs": 83342,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 83338,
+  "n_docs_with_text": 83342,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-10-28",
-  "dataset_size": 1232641669,
+  "dataset_size": 1232891816,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-28-dailyftlk-7d42a597",
-    "num": "dailyftlk-7d42a597",
+    "doc_id": "2025-10-28-dailyftlk-a81416e0",
+    "num": "dailyftlk-a81416e0",
     "date_str": "2025-10-28",
-    "description": "Auditor General gets letter on audited financials of Royal College SDS for 2024",
-    "url_metadata": "https://www.ft.lk/opinion/Auditor-General-gets-letter-on-audited-financials-of-Royal-College-SDS-for-2024/14-783529",
+    "description": "Mercedes-Benz Fashion Week Sri Lanka 2025: Defining the South Asian voice in global fashion",
+    "url_metadata": "https://www.ft.lk/business/Mercedes-Benz-Fashion-Week-Sri-Lanka-2025-Defining-the-South-Asian-voice-in-global-fashion/34-783538",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761610819.0
+    "time_ut": 1761612743.0
   }
 }
