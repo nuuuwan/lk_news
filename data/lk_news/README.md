@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_01:47:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_02:18:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,524** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,527** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-29-dailyftlk-af2dff21",
-    "num": "dailyftlk-af2dff21",
+    "doc_id": "2025-10-29-dailyftlk-549e2f66",
+    "num": "dailyftlk-549e2f66",
     "date_str": "2025-10-29",
-    "description": "Law, morality, and re-founding of the republic \u2013 Part 2",
-    "url_metadata": "https://www.ft.lk/columns/Law-morality-and-re-founding-of-the-republic-Part-2/4-783572",
+    "description": "LankaPak 2025: Celebration of creativity and testament to resilience",
+    "url_metadata": "https://www.ft.lk/business/LankaPak-2025-Celebration-of-creativity-and-testament-to-resilience/34-783580",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761682223.0
+    "time_ut": 1761684274.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-29 | `dailyftlk-549e2f66` | LankaPak 2025: Celebration of creativity and testament to resilience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-549e2f66)
+- 2025-10-29 | `dailyftlk-f85f364e` | CNCI Achiever Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-f85f364e)
+- 2025-10-29 | `dailyftlk-87725678` | Daraz Sri Lanka and Industry Ministry join to empower SMEs growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-87725678)
 - 2025-10-29 | `dailyftlk-af2dff21` | Law, morality, and re-founding of the republic – Part 2 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-af2dff21)
 - 2025-10-29 | `dailyftlk-fa6e4a1b` | Remembering eviction of northern Muslims and making commitment to coexistence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-fa6e4a1b)
 - 2025-10-29 | `virakesarilk-a030d7ab` | அரச சேவையில் மேலும் 8000 ஆட்சேர்ப்புக்களுக்கு அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-a030d7ab)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-28 | `lankadeepalk-f7aee8c1` | ‘සුදු අලි’’ ගොඩනැගිලි වලින් වැඩක් ගන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-f7aee8c1)
 - 2025-10-28 | `lankadeepalk-6be9cff6` | තිස්ස අත්තනායකගේ නඩුවට දින දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-6be9cff6)
 - 2025-10-28 | `tamilmirrorlk-8e7ba6d3` | அதிவேக நெடுஞ்சாலைகளில் செல்வோருக்கு முக்கிய அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-8e7ba6d3)
-- 2025-10-28 | `virakesarilk-55130988` | கிழக்கில் அபிவிருத்தி கருத்திட்டங்களுக்காக இந்தியாவிடமிருந்து 2,371 மில்லியன் நிதியுதவி; 33 புரிந்துணர்வு ஒப்பந்தங்களில் கையெழுத்திட அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-55130988)
-- 2025-10-28 | `lankadeepalk-6a362e82` | තරුණ ඇමති තරුණ සේවා ප්‍රගතිය බලන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-6a362e82)
-- 2025-10-28 | `virakesarilk-b69e4d09` | வி ஜே சித்து கதையின் நாயகனாக நடிக்கும் 'டயங்கரம்' படத்தின் தொடக்க விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-b69e4d09)
 
 ---
 
