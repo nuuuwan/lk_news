@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_15:18:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_15:47:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,447** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,454** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-28-lankadeepalk-1218ec18",
-    "num": "lankadeepalk-1218ec18",
+    "doc_id": "2025-10-28-lankadeepalk-b36cd3d1",
+    "num": "lankadeepalk-b36cd3d1",
     "date_str": "2025-10-28",
-    "description": "\u0dc3\u0dad\u0dca\u0dad\u0dca\u0dc0 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1 - \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc3\u0dad\u0dad\u0dc0-\u0db1\u0dc2\u0db4\u0daf\u0db1-\u0dc3\u0d9b\u0dba-\u0daf\u0db4\u0dbb\u0dad\u0db8\u0db1\u0dad-\u0d85\u0db0\u0dba\u0d9a\u0dc2-\u0db4\u0dad-\u0d9a\u0dbb\u0dba/101-682226",
+    "description": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0d9a\u0dbb\u0db1 \u0dc3\u0dd2\u0dad\u0dd2\u0dba\u0db8 \u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dbb\u0dbd\u0db8\u0db1\u0dad\u0dc0-\u0dc0\u0db1\u0dc3-\u0d9a\u0dbb\u0db1-\u0dc3\u0dad\u0dba\u0db8-\u0d9a\u0dad\u0db1\u0dba\u0d9a\u0da7/1-682231",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1761644084.0
+    "time_ut": 1761646339.0
 }
 ```
 
@@ -41,9 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-28 | `lankadeepalk-b36cd3d1` | පාර්ලිමේන්තුව වෙනස් කරන සිතියම කතානායකට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-b36cd3d1)
+- 2025-10-28 | `lankadeepalk-238bd287` | ඩීසල් නැව් තොග පහක් ගන්න සම්පාදනය සිංගප්පූරුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-238bd287)
+- 2025-10-28 | `lankadeepalk-bd2a711e` | නැගෙනහිර හදන්න ඉන්දියාවෙන් මිලියන 2,371ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-bd2a711e)
+- 2025-10-28 | `tamilmirrorlk-16745275` | காதலனின் விந்தணுவை சிரஞ்சில் எடுத்து சென்ற காதலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-16745275)
+- 2025-10-28 | `lankadeepalk-a5b63fba` | රාජ්‍ය අංශයේ පුරප්පාඩු ගණන් හිලව් කැබිනට් මණ්ඩලයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-a5b63fba)
+- 2025-10-28 | `tamilmirrorlk-02d63dfa` | இருக்கை பெல்ட்களை கட்டாயம்: அமைச்சரவை அங்கிகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-02d63dfa)
 - 2025-10-28 | `lankadeepalk-1218ec18` | සත්ත්ව නිෂ්පාදන - සෞඛ්‍ය දෙපාර්තමේන්තු අධ්‍යක්ෂ පත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-1218ec18)
 - 2025-10-28 | `tamilmirrorlk-4ede668e` | கொழும்பு 7 இல்  புதிய  நீதிமன்றங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-4ede668e)
 - 2025-10-28 | `lankadeepalk-cf520b8c` | හයිවේ නීතියක් දැඩි කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-cf520b8c)
+- 2025-10-28 | `adalk-a609c00f` | හිටපු ජනපතිවරු හා ඇමතිවරු භාවිත කළ බංගලා 4ක්  මහාධිකරණ හතරක් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-adalk-a609c00f)
 - 2025-10-28 | `tamilmirrorlk-2dd0cfae` | மகனின் கோடாரி தாக்குதலில் தாய் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-2dd0cfae)
 - 2025-10-28 | `lankadeepalk-78e5bca5` | ඇමැති චන්දනට සම්මානිත මහාචාර්ය පදවියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-78e5bca5)
 - 2025-10-28 | `virakesarilk-762a8426` | பொத்துவில் - கோமாரி களுகொல்லையில் குடிநீர் சுத்திகரிப்பு நிலையம் திறப்பு - சந்தோஷ் ஜா பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-762a8426)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-10-28 | `tamilmirrorlk-12a7739f` | பெகோ இயந்திரம் புரண்டு கடலில்  சாய்ந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-12a7739f)
 - 2025-10-28 | `lankadeepalk-d0263a6f` | පුතාගේ පොරෝ පහරින් මව අවසන් ගමන් යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-d0263a6f)
 - 2025-10-28 | `adalk-5400d38e` | කථානායක, නලින්ද, හර්ෂණ සහ  පෝල්ර්ජ බ්‍රිතාන්‍යයේ සංචාරයක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-adalk-5400d38e)
-- 2025-10-28 | `virakesarilk-a5b15a56` | முல்லைத்தீவு ஆழிவனம் இயற்கை சுற்றுலாத்தலத்தை மேம்படுத்த ரவிகரன் கள விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-a5b15a56)
-- 2025-10-28 | `virakesarilk-1f0725a6` | பல மாகாணங்களில் பலத்த காற்று வீசும் - வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-1f0725a6)
-- 2025-10-28 | `virakesarilk-2efa1b44` | யாழ். செம்மணிப் புதைகுழிக்கு நீதிகோரி போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-2efa1b44)
-- 2025-10-28 | `lankadeepalk-c927f9e4` | ශීත ඍතුවට නව ගුවන් සේවයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-c927f9e4)
-- 2025-10-28 | `adalk-83ed93a5` | සීත සෘතුවට ඊඩ්ල්වයිස් ලංකාවට ගමන් අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-adalk-83ed93a5)
-- 2025-10-28 | `adalk-7bbf2ff8` | සිංගර් Foldable Smartphone මාදිලි අතරේ HONOR Magic V5 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-adalk-7bbf2ff8)
-- 2025-10-28 | `virakesarilk-e72c4353` | அளவத்துகொடை சோதனைச் சாவடியில் 'மதனமோதகம்' போதைப்பொருளுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-e72c4353)
 
 ---
 
