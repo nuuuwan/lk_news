@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_04:46:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_05:14:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,555** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,556** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-29-dailyftlk-3156e57b",
-    "num": "dailyftlk-3156e57b",
+    "doc_id": "2025-10-29-virakesarilk-1f47a6e0",
+    "num": "virakesarilk-1f47a6e0",
     "date_str": "2025-10-29",
-    "description": "WCIC\u2019s 40th anniversary celebrations continue with \u201cEmpowering Future Female Entrepreneurs\u201d workshop",
-    "url_metadata": "https://www.ft.lk/news/WCIC-s-40th-anniversary-celebrations-continue-with-Empowering-Future-Female-Entrepreneurs-workshop/56-783620",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1761693091.0
+    "description": "\u0b95\u0bc6\u0ba9\u0bcd\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe\u0baa\u0bcd \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bc8\u00a0\u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0b9a\u0bbf\u0bb1\u0bbf\u0baf \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 ;\u00a011 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/228941",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761693720.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-29 | `virakesarilk-1f47a6e0` | கென்யாவில் வெளிநாட்டு சுற்றுலாப் பயணிகளை ஏற்றிச் சென்ற சிறிய விமானம் விபத்து ; 11 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-1f47a6e0)
 - 2025-10-29 | `dailyftlk-3156e57b` | WCIC’s 40th anniversary celebrations continue with “Empowering Future Female Entrepreneurs” workshop | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-3156e57b)
 - 2025-10-29 | `dailyftlk-b58e380e` | GREE AirTech Sri Lanka wins prestigious ‘Most Promising Award’ at GREE Global Conference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-b58e380e)
 - 2025-10-29 | `dailyftlk-dd65ea2a` | Singapore’s Trafigura gets 7-month diesel contract | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-dd65ea2a)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-29 | `dailyftlk-06e15a2a` | Boosting Austria-Sri Lanka relations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-06e15a2a)
 - 2025-10-29 | `dailyftlk-14398fac` | Sri Lankan Parliamentary delegation visits UK to strengthen governance and bilateral ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-14398fac)
 - 2025-10-29 | `dailyftlk-81107eef` | Cabinet approves recruitment of 8,547 personnel across ministries and provincial councils | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-81107eef)
-- 2025-10-29 | `dailyftlk-5e500887` | SAPRI shaping South Asia’s future through dialogue and action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-5e500887)
 
 ---
 
