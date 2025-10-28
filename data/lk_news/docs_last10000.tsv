@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-28-tamilmirrorlk-7105577f	tamilmirrorlk-7105577f	2025-10-28	நான்கு மாவட்டங்களுக்கு எச்சரிக்கை	https://www.tamilmirror.lk/செய்திகள்/நான்கு-மாவட்டங்களுக்கு-எச்சரிக்கை/175-367000	ta	tamilmirrorlk	1761661289.0
+lk_news	2025-10-28-virakesarilk-055b1a77	virakesarilk-055b1a77	2025-10-28	இலங்கை மெய்வல்லுநர் அணியினர் நாடு திரும்பினர்	https://www.virakesari.lk/article/228925	ta	virakesarilk	1761659640.0
 lk_news	2025-10-28-lankadeepalk-1885615e	lankadeepalk-1885615e	2025-10-28	බහු මාධ්‍ය සැපයුම් මධ්‍යස්තානය ඇමතිගේ නිරීක්ෂණයට	https://www.lankadeepa.lk/news/බහ-මධය-සපයම-මධයසතනය-ඇමතග-නරකෂණයට/101-682253	si	lankadeepalk	1761658590.0
 lk_news	2025-10-28-lankadeepalk-f7aee8c1	lankadeepalk-f7aee8c1	2025-10-28	‘සුදු අලි’’ ගොඩනැගිලි වලින් වැඩක් ගන්න යයි	https://www.lankadeepa.lk/news/සද-අල-ගඩනගල-වලන-වඩක-ගනන-යය/101-682252	si	lankadeepalk	1761658364.0
 lk_news	2025-10-28-lankadeepalk-6be9cff6	lankadeepalk-6be9cff6	2025-10-28	තිස්ස අත්තනායකගේ නඩුවට දින දෙයි	https://www.lankadeepa.lk/news/තසස-අතතනයකග-නඩවට-දන-දය/101-682251	si	lankadeepalk	1761658063.0
@@ -44,6 +46,7 @@ lk_news	2025-10-28-lankadeepalk-a07b66cb	lankadeepalk-a07b66cb	2025-10-28	මහ
 lk_news	2025-10-28-lankadeepalk-b36cd3d1	lankadeepalk-b36cd3d1	2025-10-28	පාර්ලිමේන්තුව වෙනස් කරන සිතියම කතානායකට	https://www.lankadeepa.lk/latest_news/පරලමනතව-වනස-කරන-සතයම-කතනයකට/1-682231	si	lankadeepalk	1761646339.0
 lk_news	2025-10-28-virakesarilk-d3ecfe46	virakesarilk-d3ecfe46	2025-10-28	எல்லவில் சுற்றுலாப் பயணி திடீர் மாரடைப்பால் உயிரிழப்பு	https://www.virakesari.lk/article/228898	ta	virakesarilk	1761646320.0
 lk_news	2025-10-28-lankadeepalk-238bd287	lankadeepalk-238bd287	2025-10-28	ඩීසල් නැව් තොග පහක් ගන්න සම්පාදනය සිංගප්පූරුවට	https://www.lankadeepa.lk/latest_news/ඩසල-නව-තග-පහක-ගනන-සමපදනය-සගපපරවට/1-682229	si	lankadeepalk	1761646197.0
+lk_news	2025-10-28-adalk-4a2505ee	adalk-4a2505ee	2025-10-28	හිගුරාන සිනි ආයතනයේ උක් ඉඩම්වල වී වගාකිරිමට සැරසෙයි	https://www.ada.lk/breaking_news/හිගුරාන-සිනි-ආයතනයේ-උක්-ඉඩම්වල-වී-වගාකිරිමට-සැරසෙයි/11-419371	si	adalk	1761646168.0
 lk_news	2025-10-28-lankadeepalk-bd2a711e	lankadeepalk-bd2a711e	2025-10-28	නැගෙනහිර හදන්න ඉන්දියාවෙන් මිලියන 2,371ක්	https://www.lankadeepa.lk/latest_news/නගනහර-හදනන-ඉනදයවන-මලයන-2-371ක/1-682228	si	lankadeepalk	1761645865.0
 lk_news	2025-10-28-tamilmirrorlk-16745275	tamilmirrorlk-16745275	2025-10-28	காதலனின் விந்தணுவை சிரஞ்சில் எடுத்து சென்ற காதலி	https://www.tamilmirror.lk/உலக-செய்திகள்/காதலனின்-விந்தணுவை-சிரஞ்சில்-எடுத்து-சென்ற-காதலி/50-366988	ta	tamilmirrorlk	1761645445.0
 lk_news	2025-10-28-virakesarilk-8beaf7cb	virakesarilk-8beaf7cb	2025-10-28	கடற்பகுதியில் சட்டவிரோதமாக கொண்டு வரப்பட்ட பீடி இலைகள் கைப்பற்றல்!	https://www.virakesari.lk/article/228897	ta	virakesarilk	1761644820.0
@@ -9996,6 +9999,3 @@ lk_news	2025-09-06-virakesarilk-d6df69a2	virakesarilk-d6df69a2	2025-09-06	சு
 lk_news	2025-09-06-adaderanasinhalalk-a8ed3590	adaderanasinhalalk-a8ed3590	2025-09-06	සියඹලාණ්ඩුව රිවිදනවි සූර්ය බලශක්ති උද්‍යානයේ ඉදිකිරීම් ඇරඹේ	http://sinhala.adaderana.lk/news/214245	si	adaderanasinhalalk	1757157780.0
 lk_news	2025-09-06-adalk-b8767527	adalk-b8767527	2025-09-06	ඇල්ල අනතුරින් මිය ගිය අයගේ දේහ බදුල්ල මුස්ලිම්වරුන්ගේ දායකත්වයෙන් ප්‍රවාහනය කරයි	https://www.ada.lk/breaking_news/ඇල්ල-අනතුරින්-මිය-ගිය-අයගේ-දේහ-බදුල්ල-මුස්ලිම්වරුන්ගේ-දායකත්වයෙන්-ප්‍රවාහනය-කරයි/11-418313	si	adalk	1757156941.0
 lk_news	2025-09-06-adaderanasinhalalk-e7393da5	adaderanasinhalalk-e7393da5	2025-09-06	කාසියේ වාසිය සිම්බාබ්වේට	http://sinhala.adaderana.lk/news/214244	si	adaderanasinhalalk	1757156880.0
-lk_news	2025-09-06-adaderanasinhalalk-e8a2f113	adaderanasinhalalk-e8a2f113	2025-09-06	පද්මේ ගෙන්වූ අයිස් මත්ද්‍රව්‍ය නිෂ්පාදන රසායනික ද්‍රව්‍ය ගැන පොලිසියෙන් හෙළිදරව්වක්	http://sinhala.adaderana.lk/news/214243	si	adaderanasinhalalk	1757156400.0
-lk_news	2025-09-06-adaderanasinhalalk-87d882c9	adaderanasinhalalk-87d882c9	2025-09-06	රේගුවෙන් නිදහස් වූ ආනයනික බහාලුම් 323 සහ මිද්දෙණියෙන් හමුවූ බහාලුම් අතර සම්බන්ධයක් නෑ - පොලීසිය	http://sinhala.adaderana.lk/news/214242	si	adaderanasinhalalk	1757156400.0
-lk_news	2025-09-06-adaderanasinhalalk-d8ed0678	adaderanasinhalalk-d8ed0678	2025-09-06	රට සංවර්ධනය කිරීමට චීන රජයේ  සම්පූර්ණ සහයෝගය ලබා දෙන බව  තානාපති කියයි	http://sinhala.adaderana.lk/news/214241	si	adaderanasinhalalk	1757154300.0
