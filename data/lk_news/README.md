@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_13:16:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_13:49:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,415** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,418** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-28-lankadeepalk-c927f9e4",
-    "num": "lankadeepalk-c927f9e4",
+    "doc_id": "2025-10-28-tamilmirrorlk-12a7739f",
+    "num": "tamilmirrorlk-12a7739f",
     "date_str": "2025-10-28",
-    "description": "\u0dc1\u0dd3\u0dad \u0d8d\u0dad\u0dd4\u0dc0\u0da7 \u0db1\u0dc0 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc3\u0dda\u0dc0\u0dba\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc1\u0dad-\u0d8d\u0dad\u0dc0\u0da7-\u0db1\u0dc0-\u0d9c\u0dc0\u0db1-\u0dc3\u0dc0\u0dba\u0d9a/101-682221",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1761636294.0
+    "description": "\u0baa\u0bc6\u0b95\u0bcb \u0b87\u0baf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd \u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd  \u0b9a\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0b95\u0bcb-\u0b87\u0baf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd-\u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1-\u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1/175-366981",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1761639051.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-28 | `tamilmirrorlk-12a7739f` | பெகோ இயந்திரம் புரண்டு கடலில்  சாய்ந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-12a7739f)
+- 2025-10-28 | `lankadeepalk-d0263a6f` | පුතාගේ පොරෝ පහරින් මව අවසන් ගමන් යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-d0263a6f)
 - 2025-10-28 | `lankadeepalk-c927f9e4` | ශීත ඍතුවට නව ගුවන් සේවයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-c927f9e4)
+- 2025-10-28 | `adalk-7bbf2ff8` | සිංගර් Foldable Smartphone මාදිලි අතරේ HONOR Magic V5 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-adalk-7bbf2ff8)
 - 2025-10-28 | `tamilmirrorlk-9c1dcdcf` | 1150 அடி உயர்த்தில் முதல் ஸ்கை ஸ்டேடியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-9c1dcdcf)
 - 2025-10-28 | `lankadeepalk-7fcc2bad` | ඝාතන තුනකට සම්බන්ධ තිදෙනකු අ‘පුරදී අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-7fcc2bad)
 - 2025-10-28 | `tamilmirrorlk-90640002` | நடிகர்கள் ரஜினிகாந்த், தனுஷ் வீடுகளுக்கு வெடிகுண்டு மிரட்டல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-90640002)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-28 | `lankadeepalk-2a4b9a15` | රජයේ පෝෂණ වැඩසටහනට ලෝක ආහාර සංවිධානයේ හයිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-2a4b9a15)
 - 2025-10-28 | `virakesarilk-75c81916` | திருகோணமலை மாவட்டத்தின் கரையோர மீனவர்களின் வாழ்வாதாரத்தில் அரசு கவனம் எடுக்க வேண்டும் ; தமிழர் சமூக ஜனநாயகக்கட்சியின் மாவட்ட செயலாளர் சின்னமோகன் தெரிவிப்பு..! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-75c81916)
 - 2025-10-28 | `lankadeepalk-0bbafcfd` | දකුණු ආසියා අනුශූරයෝ ලංකාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-lankadeepalk-0bbafcfd)
-- 2025-10-28 | `tamilmirrorlk-c0ece44f` | விளையாட்டு துப்பாக்கியுடன் நீதிமன்றம் வந்த பெண் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-tamilmirrorlk-c0ece44f)
-- 2025-10-28 | `adalk-246dd99e` | මහින්දානන්දගේ සහ නලීන්ගේ අභියාචනා කැඳවන දිනය තීරණය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-adalk-246dd99e)
-- 2025-10-28 | `virakesarilk-7e27f402` | மத்தல விமான நிலையத்துக்கு வருகை தரும் பெலாரஷ்ய சுற்றுலாப் பயணிகளுடன் பெலாவியா விமானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-28-virakesarilk-7e27f402)
 
 ---
 
