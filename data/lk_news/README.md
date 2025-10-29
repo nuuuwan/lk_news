@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_06:30:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_07:14:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,566** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,571** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-29-virakesarilk-1f47a6e0",
-    "num": "virakesarilk-1f47a6e0",
+    "doc_id": "2025-10-29-lankadeepalk-7084e55a",
+    "num": "lankadeepalk-7084e55a",
     "date_str": "2025-10-29",
-    "description": "\u0b95\u0bc6\u0ba9\u0bcd\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe\u0baa\u0bcd \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bc8\u00a0\u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0b9a\u0bbf\u0bb1\u0bbf\u0baf \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 ;\u00a011 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
-    "url_metadata": "https://www.virakesari.lk/article/228941",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1761693720.0
+    "description": "\u0dc3\u0dd9\u0dc0\u0dca\u0dc0\u0db1\u0dca\u0daf\u0dd2\u0da7 \u0db1\u0dd3\u0dad\u0dd2 \u0db4\u0ddc\u0dad \u0daf\u0dd4\u0db1\u0dca \u0db1\u0dd3\u0dad\u0dd2\u0da5\u0dc0\u0dbb\u0dd2\u0dba\u0dad\u0dca \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dc0\u0dc0\u0db1\u0daf\u0da7-\u0db1\u0dad-\u0db4\u0dad-\u0daf\u0db1-\u0db1\u0dad\u0da5\u0dc0\u0dbb\u0dba\u0dad-\u0d9a\u0da7\u0dc0\u0dba/1-682259",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1761701208.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-29 | `lankadeepalk-7084e55a` | සෙව්වන්දිට නීති පොත දුන් නීතිඥවරියත් කොටුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-7084e55a)
+- 2025-10-29 | `lankadeepalk-01ebd381` | පළාත් කීපයකට පොඩි වැස්සක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-01ebd381)
+- 2025-10-29 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-3a015e4a)
 - 2025-10-29 | `virakesarilk-1f47a6e0` | கென்யாவில் வெளிநாட்டு சுற்றுலாப் பயணிகளை ஏற்றிச் சென்ற சிறிய விமானம் விபத்து ; 11 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-1f47a6e0)
 - 2025-10-29 | `dailyftlk-3156e57b` | WCIC’s 40th anniversary celebrations continue with “Empowering Future Female Entrepreneurs” workshop | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-3156e57b)
 - 2025-10-29 | `dailyftlk-b58e380e` | GREE AirTech Sri Lanka wins prestigious ‘Most Promising Award’ at GREE Global Conference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-b58e380e)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-29 | `virakesarilk-1ba6d711` | இன்று மீண்டும் விசாரணைக்கு வரும் ரணிலின் வழக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-1ba6d711)
 - 2025-10-29 | `dailyftlk-9f66a567` | Michael Kors commits $ 2.7 m to feed Sri Lankan children, support local farmers through WFP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-9f66a567)
 - 2025-10-29 | `virakesarilk-05b42329` | கொழும்பு மாவட்டத்தில் 2,30982 மாணவர்கள் போதைப்பொருளுக்கு அடிமையாகியுள்ளார்கள் - சிறைச்சாலை ஆணையாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-05b42329)
-- 2025-10-29 | `dailyftlk-06e15a2a` | Boosting Austria-Sri Lanka relations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-06e15a2a)
-- 2025-10-29 | `dailyftlk-14398fac` | Sri Lankan Parliamentary delegation visits UK to strengthen governance and bilateral ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-14398fac)
-- 2025-10-29 | `dailyftlk-81107eef` | Cabinet approves recruitment of 8,547 personnel across ministries and provincial councils | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-dailyftlk-81107eef)
 
 ---
 
