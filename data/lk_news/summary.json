@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-10-30 03:47:54",
-  "n_docs": 83732,
+  "time_updated": "2025-10-30 04:17:04",
+  "n_docs": 83733,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 83732,
+  "n_docs_with_text": 83733,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2025-10-29",
-  "dataset_size": 1239628322,
+  "date_str_max": "2025-10-30",
+  "dataset_size": 1239645596,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-29-tamilmirrorlk-feb15353",
-    "num": "tamilmirrorlk-feb15353",
-    "date_str": "2025-10-29",
-    "description": "\u0baa\u0bbf\u0baf\u0bb2\u0bcd \u0bae\u0ba9\u0bae\u0bcd\u0baa\u0bc7\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0baf\u0bb2\u0bcd-\u0bae\u0ba9\u0bae\u0bcd\u0baa\u0bc7\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-367077",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761759203.0
+    "doc_id": "2025-10-30-dailyftlk-1e928f31",
+    "num": "dailyftlk-1e928f31",
+    "date_str": "2025-10-30",
+    "description": "Weligama watershed, leftist legacy and tomorrow\u2019s post-JVP Lankan left",
+    "url_metadata": "https://www.ft.lk/columns/Weligama-watershed-leftist-legacy-and-tomorrow-s-post-JVP-Lankan-left/4-783636",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1761777237.0
   }
 }
