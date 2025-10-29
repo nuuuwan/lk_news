@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_14:47:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_15:18:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,654** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,656** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-29-tamilmirrorlk-a9f5a2dc",
-    "num": "tamilmirrorlk-a9f5a2dc",
+    "doc_id": "2025-10-29-tamilmirrorlk-ef01c29d",
+    "num": "tamilmirrorlk-ef01c29d",
     "date_str": "2025-10-29",
-    "description": "\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3 \u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bc8  \u0b95\u0bca\u0ba9\u0bcd\u0bb1 \u0b95\u0bbe\u0ba4\u0bb2\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3-\u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd-\u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bc8-\u0b95\u0bca\u0ba9\u0bcd\u0bb1-\u0b95\u0bbe\u0ba4\u0bb2\u0bbf/175-367048",
+    "description": "\u0bb0\u0bc2.150 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bae\u0bcb\u0b9a\u0b9f\u0bbf: \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bc2-150-\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd-\u0bae\u0bcb\u0b9a\u0b9f\u0bbf-\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb2\u0bc8/175-367050",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761729125.0
+    "time_ut": 1761730261.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-29 | `tamilmirrorlk-ef01c29d` | ரூ.150 மில்லியன் மோசடி: பெண்ணுக்கு வலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-tamilmirrorlk-ef01c29d)
+- 2025-10-29 | `tamilmirrorlk-7eb73917` | மன்னாரில் மூன்று  சீல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-tamilmirrorlk-7eb73917)
 - 2025-10-29 | `tamilmirrorlk-a9f5a2dc` | பெண்களின் நிர்வாண படங்கள் வைத்திருந்ததால் காதலனை  கொன்ற காதலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-tamilmirrorlk-a9f5a2dc)
 - 2025-10-29 | `lankadeepalk-72e2f69a` | වයඹ පළාත් සභාව කෝපා කමිටුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-72e2f69a)
 - 2025-10-29 | `tamilmirrorlk-f76f4e57` | ‘அஸ்வெசும’ தொடர்பில் அதிரடியான அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-tamilmirrorlk-f76f4e57)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-29 | `virakesarilk-48d9a9df` | நாடளாவிய ரீதியில் விசேட சுற்றிவளைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-48d9a9df)
 - 2025-10-29 | `virakesarilk-b4a3c2d8` | பத்தாயிரம் கிலோவுக்கு அதிகமான பூசணியை சந்தைப்படுத்த முடியாது அவதிப்படும் விவசாயி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-b4a3c2d8)
 - 2025-10-29 | `virakesarilk-c50622eb` | 2025 ஆம் ஆண்டின் மூன்றாவது காலாண்டில் ஆண்டுக்கு ஆண்டு 32% அதிகரிப்புடன் வளர்ச்சிப் பதிவுசெய்துள்ளது ஸ்ரீலங்கா இன்சூரன்ஸ் லைஃப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-c50622eb)
-- 2025-10-29 | `virakesarilk-b0c9e84c` | நுவரெலியாவில் ஆணின் சடலம் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-b0c9e84c)
-- 2025-10-29 | `virakesarilk-67f72d97` | மக்கள் வங்கியும் Japan Remit Finance நிறுவனமும் 5 ஆண்டு கால கூட்டாண்மையை வலுப்படுத்தியுள்ளன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-67f72d97)
 
 ---
 
