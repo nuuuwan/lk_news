@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_01:16:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_01:48:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,731** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,732** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -51,6 +51,7 @@ A collection of lk_news documents.
 - 2025-10-29 | `lankadeepalk-547d6e00` | රොන්මඩ පෙන්නා වැලි ගොඩ දමනවාලු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-547d6e00)
 - 2025-10-29 | `lankadeepalk-730f9788` | රනින් බැබලු සසිඳුට - මනුජට ගමෙන් උපහාර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-730f9788)
 - 2025-10-29 | `virakesarilk-712b8e65` | லோராவின் அபார சதம் தென் ஆபிரிக்காவை பலமான நிலையில் இட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-712b8e65)
+- 2025-10-29 | `colombotelegraphcom-046e834a` | Incomplete Justice Beyond 200 Years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-colombotelegraphcom-046e834a)
 - 2025-10-29 | `lankadeepalk-1739a3fd` | පතලක් කඩා  වැටි  තරුණයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-1739a3fd)
 - 2025-10-29 | `virakesarilk-c3e12586` | சீனாவின் அடுத்த 5 வருடகால வளர்ச்சி இலங்கையின் சுபீட்சத்துக்கான கதவுகளைத் திறக்கும் - இலங்கைக்கான சீனத் தூதுவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-c3e12586)
 - 2025-10-29 | `lankadeepalk-7661d519` | මේ මාස දහයේ කොරියාවට 3253ක් ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-7661d519)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-29 | `virakesarilk-55afffd7` | தனுஷ் நடிக்கும் 'தேரே இஷ்க் மே' படத்தின் அப்டேட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-55afffd7)
 - 2025-10-29 | `virakesarilk-5be77879` | பெலவத்த சீனிக் கைத்தொழிற்சாலையை இந்தியாவுக்கு விற்க அரசாங்கம் தீர்மானம் ; நாட்டு மக்கள் ஒன்றிணைந்து எதிர்க்க வேண்டும் - விமல் வீரவன்ச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-5be77879)
 - 2025-10-29 | `virakesarilk-bbd14d80` | பொலிஸ் மாஅதிபர் பிரியந்த வீரசூரியவை பாராளுமன்றத்துக்கு அழைக்குமாறு சபாநாயகரிடம் எதிர்க்கட்சிகள் வேண்டுகோள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-bbd14d80)
-- 2025-10-29 | `virakesarilk-a158f388` | அஸ்வெசும இரண்டாம் கட்டத்திற்கு தகுதியான பயனாளிகள் வங்கி கணக்கு திறக்க அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-a158f388)
 
 ---
 
