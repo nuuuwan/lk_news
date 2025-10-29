@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_04:17:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_04:47:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,733** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,737** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-30-dailyftlk-1e928f31",
-    "num": "dailyftlk-1e928f31",
+    "doc_id": "2025-10-30-dailyftlk-999b975a",
+    "num": "dailyftlk-999b975a",
     "date_str": "2025-10-30",
-    "description": "Weligama watershed, leftist legacy and tomorrow\u2019s post-JVP Lankan left",
-    "url_metadata": "https://www.ft.lk/columns/Weligama-watershed-leftist-legacy-and-tomorrow-s-post-JVP-Lankan-left/4-783636",
+    "description": "Changing patterns of cinnamon marketing in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Changing-patterns-of-cinnamon-marketing-in-Sri-Lanka/4-783641",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761777237.0
+    "time_ut": 1761779189.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-30 | `dailyftlk-999b975a` | Changing patterns of cinnamon marketing in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-999b975a)
+- 2025-10-30 | `dailyftlk-c86ac2da` | Global reset: Why the world could benefit from Trump-style leadership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-c86ac2da)
+- 2025-10-30 | `dailyftlk-fd221196` | Sinhalese nationalism, monastic power, and myth of sacred land | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-fd221196)
+- 2025-10-30 | `dailyftlk-c215a212` | Evolution of UNHRC resolutions on Sri Lanka: From sovereignty to accountability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-c215a212)
 - 2025-10-30 | `dailyftlk-1e928f31` | Weligama watershed, leftist legacy and tomorrow’s post-JVP Lankan left | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-1e928f31)
 - 2025-10-29 | `tamilmirrorlk-feb15353` | பியல் மனம்பேரிக்கு விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-tamilmirrorlk-feb15353)
 - 2025-10-29 | `tamilmirrorlk-dace2311` | மத்தள விமான நிலையம் தொடர்பான அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-tamilmirrorlk-dace2311)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-10-29 | `virakesarilk-c3e12586` | சீனாவின் அடுத்த 5 வருடகால வளர்ச்சி இலங்கையின் சுபீட்சத்துக்கான கதவுகளைத் திறக்கும் - இலங்கைக்கான சீனத் தூதுவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-c3e12586)
 - 2025-10-29 | `lankadeepalk-7661d519` | මේ මාස දහයේ කොරියාවට 3253ක් ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-7661d519)
 - 2025-10-29 | `lankadeepalk-65d845a5` | කාන්තාවන්ගේ  දුක බලන්න වෙනම කොමිසමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-65d845a5)
-- 2025-10-29 | `lankadeepalk-7f76fa75` | මන්ත්‍රීලාගේ  ආරක්‍ෂාව: පොලිස්පති පාර්ලිමේන්තුවට  කැදවයි? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-7f76fa75)
-- 2025-10-29 | `virakesarilk-9506aad6` | நவம்பர் 5 கூடுகிறது தமிழ் அரசுக் கட்சியின் மத்திய செயற்குழு ; வரவு - செலவுத் திட்டத்தை ஆதரிப்பதா, எதிர்ப்பதாக? - குழுவில் ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-9506aad6)
-- 2025-10-29 | `virakesarilk-55afffd7` | தனுஷ் நடிக்கும் 'தேரே இஷ்க் மே' படத்தின் அப்டேட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-55afffd7)
-- 2025-10-29 | `virakesarilk-5be77879` | பெலவத்த சீனிக் கைத்தொழிற்சாலையை இந்தியாவுக்கு விற்க அரசாங்கம் தீர்மானம் ; நாட்டு மக்கள் ஒன்றிணைந்து எதிர்க்க வேண்டும் - விமல் வீரவன்ச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-5be77879)
 
 ---
 
