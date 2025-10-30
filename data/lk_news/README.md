@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_06:31:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_07:15:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,761** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,765** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-30-dailyftlk-3fe73373",
-    "num": "dailyftlk-3fe73373",
+    "doc_id": "2025-10-30-lankadeepalk-b4a34c9d",
+    "num": "lankadeepalk-b4a34c9d",
     "date_str": "2025-10-30",
-    "description": "Case against Ranil postponed to Jan. 2026",
-    "url_metadata": "https://www.ft.lk/news/Case-against-Ranil-postponed-to-Jan-2026/56-783671",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1761783799.0
+    "description": "\u0d85\u0daf \u0dc0\u0dc4\u0dd2\u0db1 \u0dad\u0dd0\u0db1\u0dca \u0db8\u0dd9\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0daf-\u0dc0\u0dc4\u0db1-\u0dad\u0db1-\u0db8\u0db1\u0db1/101-682339",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1761787693.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-30 | `lankadeepalk-b4a34c9d` | අද වහින තැන් මෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-b4a34c9d)
+- 2025-10-30 | `tamilmirrorlk-71fbf9c2` | போதைப் பொருளுடன் நால்வர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-71fbf9c2)
+- 2025-10-30 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-3a015e4a)
 - 2025-10-30 | `dailyftlk-3fe73373` | Case against Ranil postponed to Jan. 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-3fe73373)
 - 2025-10-30 | `dailyftlk-07bfe4e5` | CoPA flags North Western PC project irregularities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-07bfe4e5)
 - 2025-10-30 | `dailyftlk-d2bad7d6` | Govt. sets up National Commission on Women to address issues on women | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-d2bad7d6)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-30 | `dailyftlk-fd221196` | Sinhalese nationalism, monastic power, and myth of sacred land | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-fd221196)
 - 2025-10-30 | `dailyftlk-c215a212` | Evolution of UNHRC resolutions on Sri Lanka: From sovereignty to accountability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-c215a212)
 - 2025-10-30 | `dailyftlk-1e928f31` | Weligama watershed, leftist legacy and tomorrow’s post-JVP Lankan left | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-1e928f31)
-- 2025-10-30 | `islandlk-207a4379` | JXG – DHACK empowers young innovators for second consecutive year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-islandlk-207a4379)
-- 2025-10-30 | `islandlk-22363ebd` | DFCC Bank’s Lanka Money Transfer platform wins Silver at NBQSA 2025 for advancing financial inclusion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-islandlk-22363ebd)
-- 2025-10-30 | `islandlk-e03fa85e` | Sri Lankan Realtor in the U.S. named among top 1.5% real estate professionals nationwide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-islandlk-e03fa85e)
 
 ---
 
