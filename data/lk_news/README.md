@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_15:18:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_15:48:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,841** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,843** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-30-tamilmirrorlk-71d599ab",
-    "num": "tamilmirrorlk-71d599ab",
+    "doc_id": "2025-10-30-tamilmirrorlk-20c8703a",
+    "num": "tamilmirrorlk-20c8703a",
     "date_str": "2025-10-30",
-    "description": "\u201c\u0b95\u0bbe\u0ba3\u0bbf\u0baf\u0bc8 \u0b85\u0baa\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0bb2\u0bc1\u0bae\u0bcd, \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf\u0baf\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u201d",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0bbe\u0ba3\u0bbf\u0baf\u0bc8-\u0b85\u0baa\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0bae\u0bc1\u0baf\u0bb2\u0bc1\u0bae\u0bcd-\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd\u0bb5\u0bbe\u0ba4\u0bbf\u0baf\u0bc8-\u0b95\u0bc8\u0ba4\u0bc1-\u0b9a\u0bc6\u0baf\u0bcd/76-367106",
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bbe\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bbe\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/175-367108",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761817265.0
+    "time_ut": 1761818637.0
 }
 ```
 
@@ -41,8 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-30 | `tamilmirrorlk-20c8703a` | இந்திய உயர்ஸ்தானிகராலயத்தின் விசேட அறிவித்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-20c8703a)
 - 2025-10-30 | `tamilmirrorlk-71d599ab` | “காணியை அபகரிக்க முயலும், அரசியல்வாதியை கைது செய்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-71d599ab)
 - 2025-10-30 | `tamilmirrorlk-5c6af518` | கரை ஒதுங்கும் சிவப்புநிற நண்டுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-5c6af518)
+- 2025-10-30 | `adalk-513bfcca` | පොල් මිල නැවතත් ඉහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-513bfcca)
 - 2025-10-30 | `lankadeepalk-cff74d34` | රේගු මුලස්ථානයේ උණ්ඩ දෙකක් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-cff74d34)
 - 2025-10-30 | `lankadeepalk-cbf3853b` | මැතිසබේ හිංසන සිද්ධිය: සේවක සේවිකා තවත් පිරිසකගෙන් කටඋත්තර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-cbf3853b)
 - 2025-10-30 | `adalk-e4bb533e` | බගවන්තලාවට මල් තුහින පතිත වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-e4bb533e)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-30 | `virakesarilk-2fb7b90b` | சீனப் பொருட்கள் மீதான வரியை குறைத்தார் அமெரிக்க ஜனாதிபதி டிரம்ப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-2fb7b90b)
 - 2025-10-30 | `virakesarilk-11521028` | நாட்டில் எதிர்கால சுகாதார கொள்கைகள், திட்டங்கள் குறித்து தேசிய சுகாதார மேம்பாட்டுக் குழு கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-11521028)
 - 2025-10-30 | `virakesarilk-17668e78` | நானும் எனது அரசாங்கமும் போதைப்பொருளுக்கு எதிராக மோதுவதற்கு தயார் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-17668e78)
-- 2025-10-30 | `virakesarilk-55c8751d` | வேலை வாய்ப்புக்காக மூவாயிரத்துக்கும் அதிகமானோர் தென் கொரியாவுக்கு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-55c8751d)
-- 2025-10-30 | `virakesarilk-4c6f4cd0` | சர்வதேச பொழுதுபோக்கை வழங்க Sony LIV உடன் கைகோர்க்கிறது Dialog Television | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-4c6f4cd0)
 
 ---
 
