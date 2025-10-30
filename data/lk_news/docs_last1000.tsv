@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-30-lankadeepalk-4b68037e	lankadeepalk-4b68037e	2025-10-30	අනියම් ඇසුරක් විස බලෙන් වස පොවලා	https://www.lankadeepa.lk/news/අනයම-ඇසරක-වස-බලන-වස-පවල/101-682340	si	lankadeepalk	1761790659.0
+lk_news	2025-10-30-tamilmirrorlk-98e23a41	tamilmirrorlk-98e23a41	2025-10-30	கசிப்புடன் பெண்ணொருவர் கைது	https://www.tamilmirror.lk/செய்திகள்/கசிப்புடன்-பெண்ணொருவர்-கைது/175-367079	ta	tamilmirrorlk	1761790086.0
 lk_news	2025-10-30-lankadeepalk-b4a34c9d	lankadeepalk-b4a34c9d	2025-10-30	අද වහින තැන් මෙන්න	https://www.lankadeepa.lk/news/අද-වහන-තන-මනන/101-682339	si	lankadeepalk	1761787693.0
 lk_news	2025-10-30-tamilmirrorlk-71fbf9c2	tamilmirrorlk-71fbf9c2	2025-10-30	போதைப் பொருளுடன் நால்வர் கைது	https://www.tamilmirror.lk/செய்திகள்/போதைப்-பொருளுடன்-நால்வர்-கைது/175-367078	ta	tamilmirrorlk	1761787124.0
 lk_news	2025-10-30-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-10-30	இன்றைய வானிலை	https://www.virakesari.lk/article/229011	ta	virakesarilk	1761784500.0
@@ -74,6 +76,7 @@ lk_news	2025-10-29-lankadeepalk-f5647f53	lankadeepalk-f5647f53	2025-10-29	මැ
 lk_news	2025-10-29-virakesarilk-56198adc	virakesarilk-56198adc	2025-10-29	விற்பனை நிலையத்துக்குள் அத்துமீறி நுழைந்து பணம் கொள்ளை!	https://www.virakesari.lk/article/228984	ta	virakesarilk	1761734700.0
 lk_news	2025-10-29-virakesarilk-60589d54	virakesarilk-60589d54	2025-10-29	நீதிமன்ற வளாகத்தில் துப்பாக்கி ; பொலிஸார் விசாரணை!	https://www.virakesari.lk/article/228990	ta	virakesarilk	1761734640.0
 lk_news	2025-10-29-virakesarilk-4f7ddcd4	virakesarilk-4f7ddcd4	2025-10-29	ரணிலுக்கு எதிரான வழக்கு மீதான விசாரணை ஒத்திவைப்பு!	https://www.virakesari.lk/article/228989	ta	virakesarilk	1761734280.0
+lk_news	2025-10-29-adalk-613ba5c0	adalk-613ba5c0	2025-10-29	යුධ සමයේදී ත්‍රිවිධ හමුදාව භාවිත කරන ඉඩම් නිදහස් කිරීම පිළිබඳ විශේෂ සාකච්ඡාවක්	https://www.ada.lk/breaking_news/යුධ-සමයේදී-ත්‍රිවිධ-හමුදාව-භාවිත-කරන-ඉඩම්-නිදහස්-කිරීම-පිළිබඳ-විශේෂ-සාකච්ඡාවක්/11-419395	si	adalk	1761734123.0
 lk_news	2025-10-29-lankadeepalk-dff3e0a7	lankadeepalk-dff3e0a7	2025-10-29	ගොවියා රකින්න ආ ආණ්ඩුව දැන් ලොකු ලූනු මනිනවා	https://www.lankadeepa.lk/latest_news/ගවය-රකනන-ආ-ආණඩව-දන-ලක-ලන-මනනව/1-682318	si	lankadeepalk	1761733981.0
 lk_news	2025-10-29-tamilmirrorlk-8452e1cb	tamilmirrorlk-8452e1cb	2025-10-29	தேசிய மக்கள் சக்தி எம்.பிக்கு  பிடியாணை	https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தி-எம்-பிக்கு-பிடியாணை/175-367058	ta	tamilmirrorlk	1761733908.0
 lk_news	2025-10-29-adalk-fe18c81b	adalk-fe18c81b	2025-10-29	ජනමාධයේ කියුම් කෙරුම් ජනපති මැන බලයි	https://www.ada.lk/breaking_news/ජනමාධයේ-කියුම්-කෙරුම්-ජනපති-මැන-බලයි/11-419394	si	adalk	1761733150.0
@@ -996,6 +999,3 @@ lk_news	2025-10-24-lankadeepalk-6fc7db4e	lankadeepalk-6fc7db4e	2025-10-24	කු
 lk_news	2025-10-24-lankadeepalk-7c45c716	lankadeepalk-7c45c716	2025-10-24	නවීකරණය කළ හමුදා වාහන 76ක් යළි සේවයට	https://www.lankadeepa.lk/latest_news/නවකරණය-කළ-හමද-වහන-76ක-යළ-සවයට/1-681980	si	lankadeepalk	1761303117.0
 lk_news	2025-10-24-lankadeepalk-63495d24	lankadeepalk-63495d24	2025-10-24	කටුනායක ගුවන් තොටේ ආරක්ෂක ’’හිල්’’ සොයයි	https://www.lankadeepa.lk/latest_news/කටනයක-ගවන-තට-ආරකෂක-හල-සයය/1-681979	si	lankadeepalk	1761302778.0
 lk_news	2025-10-24-tamilmirrorlk-12614605	tamilmirrorlk-12614605	2025-10-24	பருத்தித்துறையில் வர்த்தகர்கள் போராட்டம்	https://www.tamilmirror.lk/செய்திகள்/பருத்தித்துறையில்-வர்த்தகர்கள்-போராட்டம்/175-366784	ta	tamilmirrorlk	1761302768.0
-lk_news	2025-10-24-virakesarilk-dd058d50	virakesarilk-dd058d50	2025-10-24	கொழும்பில் தனியார் நிறுவனமொன்றுக்கு சொந்தமான பணத்தை திருடிச் சென்ற சந்தேக நபர்கள் கைது	https://www.virakesari.lk/article/228579	ta	virakesarilk	1761302520.0
-lk_news	2025-10-24-virakesarilk-95aac956	virakesarilk-95aac956	2025-10-24	இந்தியாவில் ஹோட்டலில் சடலமாக இலங்கை பெண் மீட்பு	https://www.virakesari.lk/article/228578	ta	virakesarilk	1761302340.0
-lk_news	2025-10-24-virakesarilk-6bccb09b	virakesarilk-6bccb09b	2025-10-24	யாழில் சட்டவிரோதச் செயற்பாடுகள் தீவிரத்தைக் குறைக்குமாறு ரஜீவன் எம்பி கோரிக்கை	https://www.virakesari.lk/article/228573	ta	virakesarilk	1761302280.0

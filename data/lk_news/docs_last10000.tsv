@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-30-lankadeepalk-4b68037e	lankadeepalk-4b68037e	2025-10-30	අනියම් ඇසුරක් විස බලෙන් වස පොවලා	https://www.lankadeepa.lk/news/අනයම-ඇසරක-වස-බලන-වස-පවල/101-682340	si	lankadeepalk	1761790659.0
+lk_news	2025-10-30-tamilmirrorlk-98e23a41	tamilmirrorlk-98e23a41	2025-10-30	கசிப்புடன் பெண்ணொருவர் கைது	https://www.tamilmirror.lk/செய்திகள்/கசிப்புடன்-பெண்ணொருவர்-கைது/175-367079	ta	tamilmirrorlk	1761790086.0
 lk_news	2025-10-30-lankadeepalk-b4a34c9d	lankadeepalk-b4a34c9d	2025-10-30	අද වහින තැන් මෙන්න	https://www.lankadeepa.lk/news/අද-වහන-තන-මනන/101-682339	si	lankadeepalk	1761787693.0
 lk_news	2025-10-30-tamilmirrorlk-71fbf9c2	tamilmirrorlk-71fbf9c2	2025-10-30	போதைப் பொருளுடன் நால்வர் கைது	https://www.tamilmirror.lk/செய்திகள்/போதைப்-பொருளுடன்-நால்வர்-கைது/175-367078	ta	tamilmirrorlk	1761787124.0
 lk_news	2025-10-30-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-10-30	இன்றைய வானிலை	https://www.virakesari.lk/article/229011	ta	virakesarilk	1761784500.0
@@ -74,6 +76,7 @@ lk_news	2025-10-29-lankadeepalk-f5647f53	lankadeepalk-f5647f53	2025-10-29	මැ
 lk_news	2025-10-29-virakesarilk-56198adc	virakesarilk-56198adc	2025-10-29	விற்பனை நிலையத்துக்குள் அத்துமீறி நுழைந்து பணம் கொள்ளை!	https://www.virakesari.lk/article/228984	ta	virakesarilk	1761734700.0
 lk_news	2025-10-29-virakesarilk-60589d54	virakesarilk-60589d54	2025-10-29	நீதிமன்ற வளாகத்தில் துப்பாக்கி ; பொலிஸார் விசாரணை!	https://www.virakesari.lk/article/228990	ta	virakesarilk	1761734640.0
 lk_news	2025-10-29-virakesarilk-4f7ddcd4	virakesarilk-4f7ddcd4	2025-10-29	ரணிலுக்கு எதிரான வழக்கு மீதான விசாரணை ஒத்திவைப்பு!	https://www.virakesari.lk/article/228989	ta	virakesarilk	1761734280.0
+lk_news	2025-10-29-adalk-613ba5c0	adalk-613ba5c0	2025-10-29	යුධ සමයේදී ත්‍රිවිධ හමුදාව භාවිත කරන ඉඩම් නිදහස් කිරීම පිළිබඳ විශේෂ සාකච්ඡාවක්	https://www.ada.lk/breaking_news/යුධ-සමයේදී-ත්‍රිවිධ-හමුදාව-භාවිත-කරන-ඉඩම්-නිදහස්-කිරීම-පිළිබඳ-විශේෂ-සාකච්ඡාවක්/11-419395	si	adalk	1761734123.0
 lk_news	2025-10-29-lankadeepalk-dff3e0a7	lankadeepalk-dff3e0a7	2025-10-29	ගොවියා රකින්න ආ ආණ්ඩුව දැන් ලොකු ලූනු මනිනවා	https://www.lankadeepa.lk/latest_news/ගවය-රකනන-ආ-ආණඩව-දන-ලක-ලන-මනනව/1-682318	si	lankadeepalk	1761733981.0
 lk_news	2025-10-29-tamilmirrorlk-8452e1cb	tamilmirrorlk-8452e1cb	2025-10-29	தேசிய மக்கள் சக்தி எம்.பிக்கு  பிடியாணை	https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தி-எம்-பிக்கு-பிடியாணை/175-367058	ta	tamilmirrorlk	1761733908.0
 lk_news	2025-10-29-adalk-fe18c81b	adalk-fe18c81b	2025-10-29	ජනමාධයේ කියුම් කෙරුම් ජනපති මැන බලයි	https://www.ada.lk/breaking_news/ජනමාධයේ-කියුම්-කෙරුම්-ජනපති-මැන-බලයි/11-419394	si	adalk	1761733150.0
@@ -9996,6 +9999,3 @@ lk_news	2025-09-08-colombotelegraphcom-110b0681	colombotelegraphcom-110b0681	202
 lk_news	2025-09-08-adaderanasinhalalk-5e88dba6	adaderanasinhalalk-5e88dba6	2025-09-08	දේශබන්දු තෙන්නකෝන් පොලිස්පතිවරයා ලෙස පත් කිරීමට එරෙහි පෙත්සම් විභාගයට දින නියම වෙයි	http://sinhala.adaderana.lk/news/214307	si	adaderanasinhalalk	1757308620.0
 lk_news	2025-09-08-colombotelegraphcom-b3b51a4c	colombotelegraphcom-b3b51a4c	2025-09-08	Has Hypocrisy Hijacked Muslim Politics In Sri Lanka?	https://www.colombotelegraph.com/index.php/has-hypocrisy-hijacked-muslim-politics-in-sri-lanka/	en	colombotelegraphcom	1757308155.0
 lk_news	2025-09-08-tamilmirrorlk-9020e65f	tamilmirrorlk-9020e65f	2025-09-08	பொரித்த கோழியில் ‘லெக்பீஸ்’ இல்லை: பிரபல ஹோட்டலுக்கு 10 ஆயிரம் அபராதம்	https://www.tamilmirror.lk/செய்திகள்/பொரித்த-கோழியில்-லெக்பீஸ்-இல்லை-பிரபல-ஹோட்டலுக்கு-10-ஆயிரம்-அபராதம்/175-364189	ta	tamilmirrorlk	1757308122.0
-lk_news	2025-09-08-adalk-06fbebf9	adalk-06fbebf9	2025-09-08	සංචාරකයින් ප්‍රවාහනයට ලී වලින් හැදූ කරත්ත	https://www.ada.lk/picture_story/සංචාරකයින්-ප්‍රවාහනයට-ලී-වලින්-හැදූ-කරත්ත/10-418343	si	adalk	1757308052.0
-lk_news	2025-09-08-adaderanasinhalalk-84bd82a4	adaderanasinhalalk-84bd82a4	2025-09-08	ජිනීවා මානව හිමිකම් සමුළුවේ දී ශ්‍රී ලංකාව කළ යුතු දේ	http://sinhala.adaderana.lk/news/214306	si	adaderanasinhalalk	1757307180.0
-lk_news	2025-09-08-tamilmirrorlk-a51f9118	tamilmirrorlk-a51f9118	2025-09-08	இந்தியாவில் இலங்கை தமிழர்கள் நீண்ட கால விசா கோரி விண்ணப்பிக்க முடியாதாம்	https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-இலங்கை-தமிழர்கள்-நீண்ட-கால-விசா-கோரி-விண்ணப்பிக்க-முடியாதாம்/175-364188	ta	tamilmirrorlk	1757307003.0
