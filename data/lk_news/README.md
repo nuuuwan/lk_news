@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_11:18:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_11:49:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,788** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,791** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-30-lankadeepalk-f50bc40a",
-    "num": "lankadeepalk-f50bc40a",
+    "doc_id": "2025-10-30-adalk-d45d9af9",
+    "num": "adalk-d45d9af9",
     "date_str": "2025-10-30",
-    "description": "\u0d9c\u0dd1\u0dc3\u0dca \u0d8b\u0dab\u0dca\u0da9 10\u0d9a\u0dca  \u0dc0\u0dc4\u0dbd\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dc3-\u0d8b\u0dab\u0da9-10\u0d9a-\u0dc0\u0dc4\u0dbd\u0dba\u0d9a\u0db1-\u0dc4\u0db8\u0dc0\u0dba/1-682362",
+    "description": "\u0db8\u0dc4\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 04\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0db8\u0dc4\u0da2\u0db1-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda-\u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca-\u0db6\u0dd0\u0d82\u0d9a\u0dd4-\u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-04\u0d9a\u0dca/7-419405",
     "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1761802772.0
+    "newspaper_id": "adalk",
+    "time_ut": 1761804167.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-30 | `adalk-d45d9af9` | මහජන බැංකුවේ ඩිජිටල් බැංකු ගනුදෙනුකරුවන් මිලියන 04ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-d45d9af9)
+- 2025-10-30 | `tamilmirrorlk-da6c23ff` | ஏப்ரல் முதல் SLS சான்றிதழ் கட்டாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-da6c23ff)
 - 2025-10-30 | `lankadeepalk-f50bc40a` | ගෑස් උණ්ඩ 10ක්  වහලයකින් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-f50bc40a)
+- 2025-10-30 | `adalk-2057b892` | මත්ද්‍රව්‍යට එරෙහිව හැප්පෙන්න තීරණාත්මක තීන්දුවක් ගත්තා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-2057b892)
 - 2025-10-30 | `lankadeepalk-2a3869f5` | විස මතට එරෙහිව හැප්පෙන්න රජය තීරණය කළා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-2a3869f5)
 - 2025-10-30 | `adalk-e1bf7f07` | ඇමරිකා - චීන ජනාධිපතිවරුන් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-e1bf7f07)
 - 2025-10-30 | `tamilmirrorlk-b5c3bec1` | காதல் தோல்விக்கு விடுமுறை வழங்கிய CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-b5c3bec1)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-10-30 | `virakesarilk-4377415e` | தனமல்வில பகுதியில் கஞ்சா செய்கை சுற்றிவளைப்பு: மூவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-4377415e)
 - 2025-10-30 | `lankadeepalk-4b68037e` | අනියම් ඇසුරක් විස බලෙන් වස පොවලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-4b68037e)
 - 2025-10-30 | `tamilmirrorlk-98e23a41` | கசிப்புடன் பெண்ணொருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-98e23a41)
-- 2025-10-30 | `adalk-f66c7cef` | නාඳුනන මෘත ශරිර තුනක් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-f66c7cef)
-- 2025-10-30 | `adalk-3cd31181` | පතලක පස් කන්දක් කඩා වැටී පුද්ගලයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-3cd31181)
-- 2025-10-30 | `lankadeepalk-b4a34c9d` | අද වහින තැන් මෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-b4a34c9d)
 
 ---
 
