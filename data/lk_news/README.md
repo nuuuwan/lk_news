@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_05:15:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_06:02:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,737** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,760** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-30-dailyftlk-999b975a",
-    "num": "dailyftlk-999b975a",
+    "doc_id": "2025-10-30-dailyftlk-3fe73373",
+    "num": "dailyftlk-3fe73373",
     "date_str": "2025-10-30",
-    "description": "Changing patterns of cinnamon marketing in Sri Lanka",
-    "url_metadata": "https://www.ft.lk/columns/Changing-patterns-of-cinnamon-marketing-in-Sri-Lanka/4-783641",
+    "description": "Case against Ranil postponed to Jan. 2026",
+    "url_metadata": "https://www.ft.lk/news/Case-against-Ranil-postponed-to-Jan-2026/56-783671",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761779189.0
+    "time_ut": 1761783799.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-30 | `dailyftlk-3fe73373` | Case against Ranil postponed to Jan. 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-3fe73373)
+- 2025-10-30 | `dailyftlk-07bfe4e5` | CoPA flags North Western PC project irregularities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-07bfe4e5)
+- 2025-10-30 | `dailyftlk-d2bad7d6` | Govt. sets up National Commission on Women to address issues on women | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-d2bad7d6)
+- 2025-10-30 | `dailyftlk-1478cfa5` | Govt. to address challenges in releasing military-held lands in Jaffna-Palaly area | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-1478cfa5)
+- 2025-10-30 | `dailyftlk-1149e307` | Lawyer arrested for aiding ‘Ganemulla Sanjeewa’ murder suspect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-1149e307)
+- 2025-10-30 | `dailyftlk-888b0458` | New road safety, driver drug-testing laws to be tabled in Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-888b0458)
+- 2025-10-30 | `dailyftlk-92bf062b` | LAUGFS Power partners Futurity to introduce first AI-enabled Annual Report | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-92bf062b)
+- 2025-10-30 | `dailyftlk-1c492b76` | Menaka Athukorala joins Alpha Fire as new Chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-1c492b76)
+- 2025-10-30 | `dailyftlk-c122e682` | SLAP holds forum on future of printing industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-c122e682)
+- 2025-10-30 | `dailyftlk-505450ba` | Global thought leaders to headline Sri Lanka Economic and Investment Summit 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-505450ba)
+- 2025-10-30 | `dailyftlk-6435fccc` | C.W. Mackie partners world’s largest bearing manufacturer, SKF | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-6435fccc)
+- 2025-10-30 | `dailyftlk-8d2c63e9` | Colombo University Alumni Association AGM postponed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-8d2c63e9)
 - 2025-10-30 | `dailyftlk-999b975a` | Changing patterns of cinnamon marketing in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-999b975a)
 - 2025-10-30 | `dailyftlk-c86ac2da` | Global reset: Why the world could benefit from Trump-style leadership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-c86ac2da)
 - 2025-10-30 | `dailyftlk-fd221196` | Sinhalese nationalism, monastic power, and myth of sacred land | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-fd221196)
 - 2025-10-30 | `dailyftlk-c215a212` | Evolution of UNHRC resolutions on Sri Lanka: From sovereignty to accountability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-c215a212)
 - 2025-10-30 | `dailyftlk-1e928f31` | Weligama watershed, leftist legacy and tomorrow’s post-JVP Lankan left | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-1e928f31)
-- 2025-10-29 | `tamilmirrorlk-feb15353` | பியல் மனம்பேரிக்கு விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-tamilmirrorlk-feb15353)
-- 2025-10-29 | `tamilmirrorlk-dace2311` | மத்தள விமான நிலையம் தொடர்பான அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-tamilmirrorlk-dace2311)
-- 2025-10-29 | `tamilmirrorlk-e6b7186a` | யாழில் 3 மாத குழந்தைக்கு நேர்ந்த துயரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-tamilmirrorlk-e6b7186a)
-- 2025-10-29 | `virakesarilk-a15aa4af` | இங்கிலாந்தை நொக் - அவுட் செய்து முதல் அணியாக மகளிர் உலகக் கிண்ண இறுதிக்குள் நுழைந்தது தென் ஆபிரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-a15aa4af)
-- 2025-10-29 | `lankadeepalk-0702d67d` | හිටපු උදවිය හිටපු ගෙවල් ගැන  වතගොත මෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-0702d67d)
-- 2025-10-29 | `lankadeepalk-c0f3bd98` | ජගත් මනුවර්ණට නොතීසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-c0f3bd98)
-- 2025-10-29 | `lankadeepalk-3f6ed9bb` | ලොකු ලූනු ගොවියා වළපල්ලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-3f6ed9bb)
-- 2025-10-29 | `lankadeepalk-547d6e00` | රොන්මඩ පෙන්නා වැලි ගොඩ දමනවාලු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-547d6e00)
-- 2025-10-29 | `lankadeepalk-730f9788` | රනින් බැබලු සසිඳුට - මනුජට ගමෙන් උපහාර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-730f9788)
-- 2025-10-29 | `virakesarilk-712b8e65` | லோராவின் அபார சதம் தென் ஆபிரிக்காவை பலமான நிலையில் இட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-712b8e65)
-- 2025-10-29 | `colombotelegraphcom-046e834a` | Incomplete Justice Beyond 200 Years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-colombotelegraphcom-046e834a)
-- 2025-10-29 | `lankadeepalk-1739a3fd` | පතලක් කඩා  වැටි  තරුණයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-1739a3fd)
-- 2025-10-29 | `virakesarilk-c3e12586` | சீனாவின் அடுத்த 5 வருடகால வளர்ச்சி இலங்கையின் சுபீட்சத்துக்கான கதவுகளைத் திறக்கும் - இலங்கைக்கான சீனத் தூதுவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-virakesarilk-c3e12586)
-- 2025-10-29 | `lankadeepalk-7661d519` | මේ මාස දහයේ කොරියාවට 3253ක් ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-7661d519)
-- 2025-10-29 | `lankadeepalk-65d845a5` | කාන්තාවන්ගේ  දුක බලන්න වෙනම කොමිසමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-29-lankadeepalk-65d845a5)
+- 2025-10-30 | `islandlk-207a4379` | JXG – DHACK empowers young innovators for second consecutive year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-islandlk-207a4379)
+- 2025-10-30 | `islandlk-22363ebd` | DFCC Bank’s Lanka Money Transfer platform wins Silver at NBQSA 2025 for advancing financial inclusion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-islandlk-22363ebd)
+- 2025-10-30 | `islandlk-e03fa85e` | Sri Lankan Realtor in the U.S. named among top 1.5% real estate professionals nationwide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-islandlk-e03fa85e)
 
 ---
 
