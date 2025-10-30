@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_08:17:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_09:06:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,768** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,776** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-30-lankadeepalk-4b68037e",
-    "num": "lankadeepalk-4b68037e",
+    "doc_id": "2025-10-30-lankadeepalk-3c5d50dc",
+    "num": "lankadeepalk-3c5d50dc",
     "date_str": "2025-10-30",
-    "description": "\u0d85\u0db1\u0dd2\u0dba\u0db8\u0dca \u0d87\u0dc3\u0dd4\u0dbb\u0d9a\u0dca \u0dc0\u0dd2\u0dc3 \u0db6\u0dbd\u0dd9\u0db1\u0dca \u0dc0\u0dc3 \u0db4\u0ddc\u0dc0\u0dbd\u0dcf",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0db1\u0dba\u0db8-\u0d87\u0dc3\u0dbb\u0d9a-\u0dc0\u0dc3-\u0db6\u0dbd\u0db1-\u0dc0\u0dc3-\u0db4\u0dc0\u0dbd/101-682340",
+    "description": "\u0dc0\u0dd2\u0dc3 \u0db8\u0dad\u0dca \u0dbb\u0d9a\u0dd4\u0dc3\u0dcf\u0da7 \u0d85\u0daf \u0dbb\u0da7\u0db8 \u0d91\u0d9a\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0dc3-\u0db8\u0dad-\u0dbb\u0d9a\u0dc3\u0da7-\u0d85\u0daf-\u0dbb\u0da7\u0db8-\u0d91\u0d9a\u0da7-\u0d91\u0dbb\u0dc4-\u0dc0\u0dba/1-682347",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1761790659.0
+    "time_ut": 1761794635.0
 }
 ```
 
@@ -41,8 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-30 | `lankadeepalk-3c5d50dc` | විස මත් රකුසාට අද රටම එකට එරෙහි වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-3c5d50dc)
+- 2025-10-30 | `tamilmirrorlk-5322767d` | காசாவில் இஸ்ரேல் தாக்குதல்; 104 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-5322767d)
+- 2025-10-30 | `virakesarilk-91c05571` | பமுனுகம பகுதியில் அடையாளம் தெரியாத சடலம் கண்டெடுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-91c05571)
+- 2025-10-30 | `virakesarilk-e017d2a3` | பின்னவல பகுதியில் மண்மேடு சரிந்து விழுந்ததில் ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-e017d2a3)
+- 2025-10-30 | `virakesarilk-4377415e` | தனமல்வில பகுதியில் கஞ்சா செய்கை சுற்றிவளைப்பு: மூவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-4377415e)
 - 2025-10-30 | `lankadeepalk-4b68037e` | අනියම් ඇසුරක් විස බලෙන් වස පොවලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-4b68037e)
 - 2025-10-30 | `tamilmirrorlk-98e23a41` | கசிப்புடன் பெண்ணொருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-98e23a41)
+- 2025-10-30 | `adalk-3cd31181` | පතලක පස් කන්දක් කඩා වැටී පුද්ගලයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-3cd31181)
 - 2025-10-30 | `lankadeepalk-b4a34c9d` | අද වහින තැන් මෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-b4a34c9d)
 - 2025-10-30 | `tamilmirrorlk-71fbf9c2` | போதைப் பொருளுடன் நால்வர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-71fbf9c2)
 - 2025-10-30 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-3a015e4a)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2025-10-30 | `dailyftlk-92bf062b` | LAUGFS Power partners Futurity to introduce first AI-enabled Annual Report | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-92bf062b)
 - 2025-10-30 | `dailyftlk-1c492b76` | Menaka Athukorala joins Alpha Fire as new Chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-1c492b76)
 - 2025-10-30 | `dailyftlk-c122e682` | SLAP holds forum on future of printing industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-c122e682)
-- 2025-10-30 | `dailyftlk-505450ba` | Global thought leaders to headline Sri Lanka Economic and Investment Summit 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-505450ba)
-- 2025-10-30 | `dailyftlk-6435fccc` | C.W. Mackie partners world’s largest bearing manufacturer, SKF | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-6435fccc)
-- 2025-10-30 | `dailyftlk-8d2c63e9` | Colombo University Alumni Association AGM postponed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-8d2c63e9)
-- 2025-10-30 | `dailyftlk-999b975a` | Changing patterns of cinnamon marketing in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-999b975a)
-- 2025-10-30 | `dailyftlk-c86ac2da` | Global reset: Why the world could benefit from Trump-style leadership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-c86ac2da)
-- 2025-10-30 | `dailyftlk-fd221196` | Sinhalese nationalism, monastic power, and myth of sacred land | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-fd221196)
 
 ---
 
