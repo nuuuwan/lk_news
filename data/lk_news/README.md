@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_09:47:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_10:19:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,781** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,783** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-30-tamilmirrorlk-ad2308d3",
-    "num": "tamilmirrorlk-ad2308d3",
+    "doc_id": "2025-10-30-tamilmirrorlk-b5c3bec1",
+    "num": "tamilmirrorlk-b5c3bec1",
     "date_str": "2025-10-30",
-    "description": "\u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bc8 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb5\u0bb3\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9e\u0bcd\u0b9a\u0bbe-\u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bc8-\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb5\u0bb3\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-367082",
+    "description": "\u0b95\u0bbe\u0ba4\u0bb2\u0bcd \u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf CEO",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/\u0b95\u0bbe\u0ba4\u0bb2\u0bcd-\u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf-CEO/53-367084",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1761795749.0
+    "time_ut": 1761799489.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-30 | `tamilmirrorlk-b5c3bec1` | காதல் தோல்விக்கு விடுமுறை வழங்கிய CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-b5c3bec1)
+- 2025-10-30 | `lankadeepalk-df8ba2dc` | මහනුවර රෝහලේ සි ටි ස්කැන් පරික්ණෂණ පෝලිමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-df8ba2dc)
 - 2025-10-30 | `tamilmirrorlk-ad2308d3` | கஞ்சா செய்கை சுற்றிவளைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-ad2308d3)
 - 2025-10-30 | `lankadeepalk-0ffca3ae` | ’’ රනිල් ඉතිරි කර ගිය සල්ලි පොට්ටනිය පැටව් ගහන්නේ නෑ’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-0ffca3ae)
 - 2025-10-30 | `tamilmirrorlk-328970ca` | ஆசியாவிலேயே இலங்கைக்கு முதலிடம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-328970ca)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-30 | `dailyftlk-3fe73373` | Case against Ranil postponed to Jan. 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-3fe73373)
 - 2025-10-30 | `dailyftlk-07bfe4e5` | CoPA flags North Western PC project irregularities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-07bfe4e5)
 - 2025-10-30 | `dailyftlk-d2bad7d6` | Govt. sets up National Commission on Women to address issues on women | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-d2bad7d6)
-- 2025-10-30 | `dailyftlk-1478cfa5` | Govt. to address challenges in releasing military-held lands in Jaffna-Palaly area | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-1478cfa5)
-- 2025-10-30 | `dailyftlk-1149e307` | Lawyer arrested for aiding ‘Ganemulla Sanjeewa’ murder suspect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-dailyftlk-1149e307)
 
 ---
 
