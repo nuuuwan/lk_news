@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_16:49:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_17:16:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,852** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,853** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -54,13 +54,13 @@ A collection of lk_news documents.
 - 2025-10-30 | `adalk-513bfcca` | පොල් මිල නැවතත් ඉහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-513bfcca)
 - 2025-10-30 | `lankadeepalk-cff74d34` | රේගු මුලස්ථානයේ උණ්ඩ දෙකක් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-cff74d34)
 - 2025-10-30 | `lankadeepalk-cbf3853b` | මැතිසබේ හිංසන සිද්ධිය: සේවක සේවිකා තවත් පිරිසකගෙන් කටඋත්තර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-cbf3853b)
+- 2025-10-30 | `adalk-5a44cc1f` | පෙරට්ටුවට බයේ රැඳවියෙක් ගෙල වැළලාගෙන මිය යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-5a44cc1f)
 - 2025-10-30 | `adalk-aea8913d` | මත්ද්‍රව්‍ය ජවාරමට පහසුකම් සපයන පොලිස් හා රාජ්‍ය නිලධාරීන්ට ජනපතිගෙන් අනතුරු ඇඟවීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-aea8913d)
 - 2025-10-30 | `adalk-e4bb533e` | බගවන්තලාවට මල් තුහින පතිත වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-e4bb533e)
 - 2025-10-30 | `tamilmirrorlk-df23dc57` | கள்ளக்கணவனுக்கு நஞ்சூட்டிய கள்ள மனைவி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-df23dc57)
 - 2025-10-30 | `adalk-8e5ed12e` | හම්බන්තොට ගම් වැදී සිටින වන අලි පන්නන්න මෙහෙයුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-8e5ed12e)
 - 2025-10-30 | `adalk-c4201682` | මත්ද්‍රව්‍ය ජාවාරමත් සමග හැප්පෙන්න තීරණය කළා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-c4201682)
 - 2025-10-30 | `tamilmirrorlk-dae016fc` | போதைப்பொருள் வியாபாரிகளே சரணடையுங்கள்: ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-dae016fc)
-- 2025-10-30 | `lankadeepalk-79a50d0c` | විවාහකයාගේ නරක්වූ සිරුර පොල්වත්තකින් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-79a50d0c)
 
 ---
 
