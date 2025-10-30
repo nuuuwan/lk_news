@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_19:23:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_19:47:46-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,888** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,892** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-30-lankadeepalk-ceda14b8",
-    "num": "lankadeepalk-ceda14b8",
+    "doc_id": "2025-10-30-lankadeepalk-49ab659c",
+    "num": "lankadeepalk-49ab659c",
     "date_str": "2025-10-30",
-    "description": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca \u0db1\u0dca\u200d\u0dba\u0dc2\u0dca\u0da7\u0dd2\u0d9a \u0db6\u0dbd\u0dba \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dba\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d87\u0db8\u0dbb\u0d9a\u0dc0\u0dad-\u0db1\u0dba\u0dc2\u0da7\u0d9a-\u0db6\u0dbd\u0dba-\u0dc0\u0da9-\u0d9a\u0dbb\u0db1\u0db1-\u0dba\u0dba/1-682389",
+    "description": "\u0d9c\u0dd2\u0db1\u0dd2 \u0d85\u0dc0\u0dd2 \u0dad\u0dd4\u0db1\u0d9a\u0dca \u0dc3\u0db8\u0d9c \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0db1-\u0d85\u0dc0-\u0dad\u0db1\u0d9a-\u0dc3\u0db8\u0d9c-\u0d85\u0dba\u0d9a-\u0db8\u0da7\u0da7/1-682391",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1761831938.0
+    "time_ut": 1761832657.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-30 | `lankadeepalk-49ab659c` | ගිනි අවි තුනක් සමග අයෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-49ab659c)
+- 2025-10-30 | `lankadeepalk-3563dd10` | තවත් මූල්‍ය සමාගමක් ගැන විමර්ශන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-3563dd10)
 - 2025-10-30 | `lankadeepalk-ceda14b8` | ඇමෙරිකාවත් න්‍යෂ්ටික බලය වැඩි කරන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-ceda14b8)
 - 2025-10-30 | `lankadeepalk-294963b5` | ඇමෙරිකාව චීනයට එරෙහි බද්ධ ටිකක් අඩු කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-294963b5)
 - 2025-10-30 | `virakesarilk-76e9ed6c` | துன்புறுத்தல்கள் தொடர்பில் பாராளுமன்ற ஊழியர்கள் வாக்குமூலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-76e9ed6c)
@@ -57,10 +59,8 @@ A collection of lk_news documents.
 - 2025-10-30 | `virakesarilk-f6aaf66f` | இந்தியாவின் மேம்படுத்தப்பட்ட நிதியுதவி திட்டம் : கிழக்குப் பல்கலைக்கழக மாணவர்களுக்கு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-f6aaf66f)
 - 2025-10-30 | `virakesarilk-b2d9c487` | அமைச்சர் அனுர கருணாதிலகவின் இந்திய விஜயம் : கடல்சார் ஒத்துழைப்பில் கவனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-b2d9c487)
 - 2025-10-30 | `virakesarilk-3de541cf` | ‘AKEBONO’ கப்பல் குழுவினர் இலங்கை கடற்படையுடன் இணைந்து கடற்கரை துப்புரவுப் பணிகளை முன்னெடுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-3de541cf)
+- 2025-10-30 | `virakesarilk-dd635da0` | பாடசாலை நேரத்தை நீடிக்கும் தீர்மானத்தை அரசாங்கம் நீக்கிக்கொள்ளாவிட்டால் பணிப்பகிஷ்கரிப்பு - இலங்கை ஆசிரியர் சங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-dd635da0)
 - 2025-10-30 | `virakesarilk-9b6925d9` | மீண்டும் ‘உடை’ விவகாரம் குறித்து வாய் திறந்துள்ள ஞானசார தேரர்….! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-9b6925d9)
-- 2025-10-30 | `tamilmirrorlk-885bc8e5` | டயானா கமகேவுக்கு எதிரான வழக்கு விசாரணை ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-885bc8e5)
-- 2025-10-30 | `virakesarilk-650337bf` | "செம்மணி உடனிருப்பு வேண்டுதல்" : அணையா தீபம் சுற்றுவட்டப் பகுதியில் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-650337bf)
-- 2025-10-30 | `tamilmirrorlk-4c709968` | ஹந்துனெத்தியின் மனு விசாரணைக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-4c709968)
 
 ---
 
