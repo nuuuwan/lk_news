@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--31_09:06:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--31_09:28:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,944** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,946** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-31-virakesarilk-df2c47b1",
-    "num": "virakesarilk-df2c47b1",
+    "doc_id": "2025-10-31-lankadeepalk-b39b59f5",
+    "num": "lankadeepalk-b39b59f5",
     "date_str": "2025-10-31",
-    "description": "\u0baa\u0bbe\u0ba3\u0ba8\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 - \u0bb9\u0bbf\u0bb0\u0ba3 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bc2\u0b9f\u0bc1 : \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/229091",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1761880800.0
+    "description": "\u0db8\u0dd2\u0dba\u0d9c\u0dd2\u0dba \u0d9a\u0d9a\u0dd4\u0dc5\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0dca\u200d\u0dbb\u0dd2\u2018\u0db8\u0dbd\u0dda \u0dc0\u0dbb\u0dcf\u0dba\u0dda",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dba\u0d9c\u0dba-\u0d9a\u0d9a\u0dc5\u0dc0\u0db1-\u0dad\u0dbb\u0db8\u0dbd-\u0dc0\u0dbb\u0dba/101-682404",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1761882219.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-31 | `lankadeepalk-b39b59f5` | මියගිය කකුළුවන් ත්‍රි‘මලේ වරායේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-lankadeepalk-b39b59f5)
+- 2025-10-31 | `tamilmirrorlk-93ffea06` | வேலை நிறுத்த போராட்டம் இடைநிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-tamilmirrorlk-93ffea06)
 - 2025-10-31 | `virakesarilk-df2c47b1` | பாணந்துறை - ஹிரண துப்பாக்கிசூடு : சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-df2c47b1)
 - 2025-10-31 | `tamilmirrorlk-b69f4a04` | கெரோயின் போதைப்பொருளுடன் 4 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-tamilmirrorlk-b69f4a04)
 - 2025-10-31 | `adalk-6596fc0a` | ට්‍රම්ප් හා ෂී අතර සාකච්ඡා සාර්ථකයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-adalk-6596fc0a)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-31 | `dailyftlk-70bd3254` | Why governments bet on long-term sports tourism partnerships | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-70bd3254)
 - 2025-10-31 | `dailyftlk-6f27635b` | From Kerala to Colombo: Lessons in building gender-responsive tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-6f27635b)
 - 2025-10-31 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-3a015e4a)
-- 2025-10-31 | `dailyftlk-606430d9` | Indian-funded Mahatma Gandhi Model Village opens in Ampara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-606430d9)
-- 2025-10-31 | `dailyftlk-302fdd56` | Ravinatha appointed Executive Director of Regional Centre for Strategic Studies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-302fdd56)
 
 ---
 
