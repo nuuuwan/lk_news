@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--31_20:20:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--31_20:46:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,091** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,093** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -58,9 +58,9 @@ A collection of lk_news documents.
 - 2025-10-31 | `virakesarilk-5d90059d` | மீனவப் பிரச்சினைகளுக்கான தீர்வினை முன்னோக்கிய மீனவ மாநாடு - ரவிகரன் பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-5d90059d)
 - 2025-10-31 | `lankadeepalk-3861aa7c` | මන්ත්‍රී අර්චුනාගේ සූම් කතාවට සභාවේ සිනා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-lankadeepalk-3861aa7c)
 - 2025-10-31 | `virakesarilk-d2a295c0` | வெளிநாட்டு முதலீடுகளுக்கான ஜனாதிபதியின் விசேட பிரதிநிதியாக மேல் மாகாண ஆளுநர் ஹனீப் யூசுப் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-d2a295c0)
+- 2025-10-31 | `virakesarilk-ba738871` | சமூகங்களுக்கு இடையிலான நல்லிணக்கப் பாலத்தைக் கட்டியெழுப்ப சமூக ஒருமைப்பாட்டை வலுப்படுத்தல் செயற்றிட்டம் பெரும் உதவி - ஐரோப்பிய ஒன்றியத் தூதுவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-ba738871)
 - 2025-10-31 | `lankadeepalk-635e6c73` | හෙද පුරප්පාඩු ඉක්මනින් පුරවනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-lankadeepalk-635e6c73)
 - 2025-10-31 | `virakesarilk-787bb0dc` | பாராளுமன்ற ஒத்துழைப்பை வலுப்படுத்தும் வகையில் பாராளுமன்றத் தூதுக் குழு ஐக்கிய இராச்சியத்திற்கு உத்தியோகபூர்வ விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-787bb0dc)
-- 2025-10-31 | `virakesarilk-d614f9aa` | அரசு ஒசுசலவின் 67 வது கிளை மட்டக்களப்பில் திறந்து வைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-d614f9aa)
 
 ---
 
