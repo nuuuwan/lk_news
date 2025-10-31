@@ -1,4 +1,5 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-10-31-tamilmirrorlk-564b0ba1	tamilmirrorlk-564b0ba1	2025-10-31	பஸ் விபத்தில் நால்வர் மரணம்	https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-நால்வர்-மரணம்/175-367140	ta	tamilmirrorlk	1761918645.0
 lk_news	2025-10-31-lankadeepalk-c12e9519	lankadeepalk-c12e9519	2025-10-31	නියෝජ්‍ය කතානායකත් මැතිසබේ තෙල් එපා කියයි	https://www.lankadeepa.lk/news/නයජය-කතනයකත-මතසබ-තල-එප-කයය/101-682466	si	lankadeepalk	1761917347.0
 lk_news	2025-10-31-lankadeepalk-176d8e69	lankadeepalk-176d8e69	2025-10-31	සල්ලි අරන් වගා නොකරන ගොවීන්ගේ සහනාධාර කපයි	https://www.lankadeepa.lk/news/සලල-අරන-වග-නකරන-ගවනග-සහනධර-කපය/101-682465	si	lankadeepalk	1761917130.0
 lk_news	2025-10-31-virakesarilk-228bb59f	virakesarilk-228bb59f	2025-10-31	மெஸன்ஜர் - திரைப்பட விமர்சனம்	https://www.virakesari.lk/article/229192	ta	virakesarilk	1761916260.0
@@ -40,6 +41,7 @@ lk_news	2025-10-31-lankadeepalk-66f5db00	lankadeepalk-66f5db00	2025-10-31	බැ
 lk_news	2025-10-31-lankadeepalk-844920aa	lankadeepalk-844920aa	2025-10-31	දත්ත ආරක්ෂණ පනත් කෙටුම්පතට කථානායක සහතිකය	https://www.lankadeepa.lk/latest_news/දතත-ආරකෂණ-පනත-කටමපතට-කථනයක-සහතකය/1-682454	si	lankadeepalk	1761907776.0
 lk_news	2025-10-31-virakesarilk-5690caa9	virakesarilk-5690caa9	2025-10-31	நடிகர் ராஜேஷ் துருவா நடிக்கும் 'பீற்றர்' படத்தின் டீசர் வெளியீடு	https://www.virakesari.lk/article/229159	ta	virakesarilk	1761907620.0
 lk_news	2025-10-31-lankadeepalk-f1dd7bc3	lankadeepalk-f1dd7bc3	2025-10-31	උතුරේ නිලධරයන්ටත් AI උගන්වයි	https://www.lankadeepa.lk/latest_news/උතර-නලධරයනටත-AI-උගනවය/1-682453	si	lankadeepalk	1761907612.0
+lk_news	2025-10-31-adalk-b56b470b	adalk-b56b470b	2025-10-31	ඇල්ලේ අනතුරට පත්වූ බස් රථයේ චැසි අංකය වෙනස් කරලා	https://www.ada.lk/breaking_news/ඇල්ලේ-අනතුරට-පත්වූ-බස්-රථයේ-චැසි-අංකය-වෙනස්-කරලා/11-419438	si	adalk	1761907597.0
 lk_news	2025-10-31-virakesarilk-d38aa4c6	virakesarilk-d38aa4c6	2025-10-31	கடற்படையின் 75வது ஆண்டு நிறைவை முன்னிட்டு நடமாடும் பல் மருத்துவமனை சிகிச்சை!	https://www.virakesari.lk/article/229158	ta	virakesarilk	1761907560.0
 lk_news	2025-10-31-virakesarilk-7c3fbd8e	virakesarilk-7c3fbd8e	2025-10-31	“கணேமுல்ல சஞ்சீவ” படுகொலை ; இஷாரா செவ்வந்திக்கு உதவிய சட்டத்தரணி தொடர்ந்து பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை!	https://www.virakesari.lk/article/229156	ta	virakesarilk	1761907080.0
 lk_news	2025-10-31-virakesarilk-29313dbb	virakesarilk-29313dbb	2025-10-31	முதலாம் திகதி முதல் பொலித்தீன் பைகளுக்கு கட்டணம்	https://www.virakesari.lk/article/229133	ta	virakesarilk	1761907020.0
@@ -997,5 +999,3 @@ lk_news	2025-10-26-islandlk-643b02bb	islandlk-643b02bb	2025-10-26	Kia redefines 
 lk_news	2025-10-26-islandlk-5868d665	islandlk-5868d665	2025-10-26	Medihelp strengthens its commitment to Moratuwa community	http://island.lk/medihelp-strengthens-its-commitment-to-moratuwa-community/	en	islandlk	1761483000.0
 lk_news	2025-10-26-islandlk-3e2de271	islandlk-3e2de271	2025-10-26	LCB Finance PLC opens doors at Kiribathgoda	http://island.lk/lcb-finance-plc-opens-doors-at-kiribathgoda/	en	islandlk	1761483000.0
 lk_news	2025-10-26-islandlk-33e48c0b	islandlk-33e48c0b	2025-10-26	Kelly Felder expands its fashion footprint, reaches out to Wattala	http://island.lk/kelly-felder-expands-its-fashion-footprint-reaches-out-to-wattala/	en	islandlk	1761483000.0
-lk_news	2025-10-26-islandlk-52c3fc98	islandlk-52c3fc98	2025-10-26	Will govt. reveal its plan for developing Ratmalana Airport?	http://island.lk/will-govt-reveal-its-plan-for-developing-ratmalana-airport/	en	islandlk	1761482340.0
-lk_news	2025-10-26-virakesarilk-ced94efd	virakesarilk-ced94efd	2025-10-26	வெலிகம பிரதேசசபைத் தலைவரின் கொலை நாட்டில் வேறூன்றியுள்ள கொலை கலாசாரத்தை தெளிவாகக் காண்பிக்கிறது  - எதிர்க்கட்சி தலைவர் விசனம்	https://www.virakesari.lk/article/228731	ta	virakesarilk	1761479820.0
