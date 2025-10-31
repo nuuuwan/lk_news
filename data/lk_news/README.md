@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--31_05:15:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--31_06:02:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,911** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,925** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-30-virakesarilk-41a22a76",
-    "num": "virakesarilk-41a22a76",
-    "date_str": "2025-10-30",
-    "description": "City of Dreams : \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe\u0baa\u0bcd \u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc8 \u0bae\u0bb1\u0bc1\u0bb5\u0b9f\u0bbf\u0bb5\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b92\u0bb0\u0bc1 \u0baa\u0bbf\u0bb0\u0bae\u0bbe\u0ba3\u0bcd\u0b9f\u0bae\u0bbe\u0ba9 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/229087",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1761846300.0
+    "doc_id": "2025-10-31-dailyftlk-6f27635b",
+    "num": "dailyftlk-6f27635b",
+    "date_str": "2025-10-31",
+    "description": "From Kerala to Colombo: Lessons in building gender-responsive tourism",
+    "url_metadata": "https://www.ft.lk/columns/From-Kerala-to-Colombo-Lessons-in-building-gender-responsive-tourism/4-783698",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1761870148.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-31 | `dailyftlk-6f27635b` | From Kerala to Colombo: Lessons in building gender-responsive tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-6f27635b)
+- 2025-10-31 | `dailyftlk-606430d9` | Indian-funded Mahatma Gandhi Model Village opens in Ampara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-606430d9)
+- 2025-10-31 | `dailyftlk-302fdd56` | Ravinatha appointed Executive Director of Regional Centre for Strategic Studies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-302fdd56)
+- 2025-10-31 | `dailyftlk-db052733` | AAIB assesses crop damage amid heavy rains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-db052733)
 - 2025-10-30 | `virakesarilk-41a22a76` | City of Dreams : இலங்கையின் சுற்றுலாப் பரப்பை மறுவடிவமைக்கும் ஒரு பிரமாண்டமான திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-41a22a76)
 - 2025-10-30 | `virakesarilk-3e009a59` | நடப்பு சம்பியன் அவுஸ்திரேலியாவை வீழ்த்திய இந்தியா, புதிய அணி உலக சம்பியனாவதை உறுதிசெய்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-3e009a59)
 - 2025-10-30 | `lankadeepalk-93479906` | සුරාබදු පස් දෙනා හත දක්වා රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-93479906)
@@ -56,11 +60,7 @@ A collection of lk_news documents.
 - 2025-10-30 | `lankadeepalk-3563dd10` | තවත් මූල්‍ය සමාගමක් ගැන විමර්ශන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-3563dd10)
 - 2025-10-30 | `lankadeepalk-ceda14b8` | ඇමෙරිකාවත් න්‍යෂ්ටික බලය වැඩි කරන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-ceda14b8)
 - 2025-10-30 | `lankadeepalk-294963b5` | ඇමෙරිකාව චීනයට එරෙහි බද්ධ ටිකක් අඩු කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-294963b5)
-- 2025-10-30 | `virakesarilk-a010bbc6` | 2026க்கான பொருளாதார வளர்ச்சி வீத எதிர்வுகூறல் 3.5 சதவீதத்திலிருந்து 3.1 சதவீதமாகக் குறைத்த ஐ.எம்.எப். | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-a010bbc6)
-- 2025-10-30 | `virakesarilk-ee14a6f6` | நாடு பாதாள உலகக் குழுக்களிடம் ஒப்படைக்கப்பட்டுள்ளது ; மக்கள் பிரதிநிதிகளுக்கு வெளியே சென்று சேவையாற்ற முடியாத நிலை - சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-ee14a6f6)
-- 2025-10-30 | `virakesarilk-76e9ed6c` | துன்புறுத்தல்கள் தொடர்பில் பாராளுமன்ற ஊழியர்கள் வாக்குமூலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-76e9ed6c)
-- 2025-10-30 | `virakesarilk-c536df8d` | தனிநபர்களின் வாழ்வை சிதைக்கும் கொடிய சமூகப் பிரச்சினையாகியுள்ள 'பட அடிப்படையிலான வன்முறை' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-c536df8d)
-- 2025-10-30 | `tamilmirrorlk-bdb4a497` | நாளை வேலைநிறுத்தப் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-bdb4a497)
+- 2025-10-30 | `islandlk-217b7666` | Union Bank delivers LKR 1.2 Bn PBT for 9M 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-islandlk-217b7666)
 
 ---
 
