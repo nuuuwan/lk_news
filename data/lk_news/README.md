@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--31_18:29:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--31_18:55:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,068** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,081** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-31-lankadeepalk-35900755",
-    "num": "lankadeepalk-35900755",
+    "doc_id": "2025-10-31-virakesarilk-228bb59f",
+    "num": "virakesarilk-228bb59f",
     "date_str": "2025-10-31",
-    "description": "\u0dba\u0dcf\u0db4\u0db1 \u0db4\u0dd4\u0dc3\u0dca\u0dad\u0d9a\u0dcf\u0dbd \u0dc0\u0dc4\u0dbd\u0dba\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0d85\u0dc0\u0dd2 \u0d86\u0dba\u0dd4\u0db0",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dba\u0db4\u0db1-\u0db4\u0dc3\u0dad\u0d9a\u0dbd-\u0dc0\u0dc4\u0dbd\u0dba\u0db1-\u0dad\u0dc0\u0dad-\u0d85\u0dc0-\u0d86\u0dba\u0db0/1-682464",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1761913750.0
+    "description": "\u0bae\u0bc6\u0bb8\u0ba9\u0bcd\u0b9c\u0bb0\u0bcd - \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/229192",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761916260.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-31 | `virakesarilk-228bb59f` | மெஸன்ஜர் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-228bb59f)
+- 2025-10-31 | `virakesarilk-f0591463` | தடை அதை உடை - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-f0591463)
+- 2025-10-31 | `virakesarilk-d752868a` | கார்த்திகையில் மரநடுகை தேசத்தை மாத்திரமல்ல, தமிழ்த் தேசியத்தின் ஆன்மாவையும் குளிரச்செய்யும் - ஐங்கரநேசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-d752868a)
+- 2025-10-31 | `virakesarilk-6237cb2d` | ஆர்யன் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-6237cb2d)
+- 2025-10-31 | `virakesarilk-feb7a1ed` | டிசம்பர் 6இல் குளோபல் வர்த்தக மாநாடு ஆரம்பம் - அவுஸ்திரேலியாவில் இந்திய நிறுவனங்களுக்கு மானியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-feb7a1ed)
+- 2025-10-31 | `virakesarilk-85b7f632` | ஆண்பாவம் பொல்லாதது - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-85b7f632)
+- 2025-10-31 | `virakesarilk-ac6e5dd6` | அரசாங்கத்தின் பலவீனமான கொள்கைகளே திட்டமிட்ட குற்றச் செயல்களில் ஈடுபடுவோர் சமூகத்தை ஆக்கிரமிக்க காரணம் - எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-ac6e5dd6)
 - 2025-10-31 | `lankadeepalk-35900755` | යාපන පුස්තකාල වහලයෙන් තවත් අවි ආයුධ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-lankadeepalk-35900755)
+- 2025-10-31 | `virakesarilk-5c4791ef` | ராணி சிரிகிட் கிடியாகராவுக்கு அஞ்சலி  செலுத்தினார் ரணில் விக்கிரமசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-5c4791ef)
+- 2025-10-31 | `virakesarilk-5d90059d` | மீனவப் பிரச்சினைகளுக்கான தீர்வினை முன்னோக்கிய மீனவ மாநாடு - ரவிகரன் பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-5d90059d)
 - 2025-10-31 | `lankadeepalk-3861aa7c` | මන්ත්‍රී අර්චුනාගේ සූම් කතාවට සභාවේ සිනා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-lankadeepalk-3861aa7c)
+- 2025-10-31 | `virakesarilk-d2a295c0` | வெளிநாட்டு முதலீடுகளுக்கான ஜனாதிபதியின் விசேட பிரதிநிதியாக மேல் மாகாண ஆளுநர் ஹனீப் யூசுப் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-d2a295c0)
 - 2025-10-31 | `lankadeepalk-635e6c73` | හෙද පුරප්පාඩු ඉක්මනින් පුරවනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-lankadeepalk-635e6c73)
+- 2025-10-31 | `virakesarilk-787bb0dc` | பாராளுமன்ற ஒத்துழைப்பை வலுப்படுத்தும் வகையில் பாராளுமன்றத் தூதுக் குழு ஐக்கிய இராச்சியத்திற்கு உத்தியோகபூர்வ விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-787bb0dc)
+- 2025-10-31 | `virakesarilk-d614f9aa` | அரசு ஒசுசலவின் 67 வது கிளை மட்டக்களப்பில் திறந்து வைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-d614f9aa)
 - 2025-10-31 | `virakesarilk-da86c927` | எதிர்க்கட்சி எம்.பிக்களின் பாதுகாப்பு தொடர்பில் சபாநாயகரின் தலைமையில் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-da86c927)
 - 2025-10-31 | `lankadeepalk-25e59340` | විදෙස් ආයෝජනවලට ජනපති විශේෂ නියෝජිතයෙක් පත් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-lankadeepalk-25e59340)
 - 2025-10-31 | `virakesarilk-9194c6ab` | துல்கர் சல்மான் நடிக்கும் 'காந்தா' படத்தின் அப்டேட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-9194c6ab)
 - 2025-10-31 | `virakesarilk-433c5b30` | இந்திய நிதியுதவியில் பொலன்னறுவை நிர்மாணிக்கப்பட்ட பல்லின மும்மொழிக் கல்விப் பாடசாலை திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-433c5b30)
 - 2025-10-31 | `lankadeepalk-0cf28d84` | තායිලන්ත රැජනගේ අභාවයට සොව පළ කරන්න රනිල් යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-lankadeepalk-0cf28d84)
-- 2025-10-31 | `virakesarilk-0114ba0a` | வெளிநாட்டில் வேலை வாய்ப்பு பெற்றுத் தருவதாக கூறி பண மோசடி செய்தவருக்கு விளக்கமறியல் நீடிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-0114ba0a)
-- 2025-10-31 | `lankadeepalk-38dfe02e` | එස්.එස්.පීලා පහකට ඩී.අයි.ජී පුටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-lankadeepalk-38dfe02e)
-- 2025-10-31 | `virakesarilk-7077e631` | யாழ். மாவட்ட காணிப் பயன்பாட்டுக் குழுக் கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-7077e631)
-- 2025-10-31 | `virakesarilk-3564a7c8` | இலங்கையில் வரலாற்றிலேயே அதிக தாதியர்கள் ஆட்சேர்ப்பு – 4,141 பேர் பணியில் இணைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-3564a7c8)
-- 2025-10-31 | `virakesarilk-f2e3cfea` | இந்தியாவின் முதல் தர Cavin’s Milkshake இலங்கையில் அறிமுகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-f2e3cfea)
-- 2025-10-31 | `virakesarilk-60acc3ef` | 41 மில்லியன் ரூபாய்க்கும் அதிக  மதிப்புள்ள கேரள கஞ்சாவுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-60acc3ef)
-- 2025-10-31 | `virakesarilk-02969d94` | டிஜிட்டல் மயமாக்கல் மற்றும் AI தொழில்நுட்பம் குறித்து வட மாகாணத்தில் உள்ள அரச அதிகாரிகளுக்கு விழிப்புணர்வு ஏற்படுத்தும் செயலமர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-02969d94)
-- 2025-10-31 | `virakesarilk-e63ceff9` | வடக்கு மாகாணத்தில் மீன்பிடி அபிவிருத்தி தொடர்பாக விசேட கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-e63ceff9)
-- 2025-10-31 | `virakesarilk-f689eeda` | அடுத்த ஆண்டு மார்ச் மாதத்தில் வெளியாகும் 'ராக்கிங் ஸ்டார்' யாஷின் 'டாக்ஸிக் : எ ஃபேரி டேல் ஃபார் குரோன்- அப்ஸ்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-f689eeda)
-- 2025-10-31 | `virakesarilk-0d5b82cd` | இலஞ்சம் வாங்கிய திருகோணமலை குச்சவெளி பிரதேச தவிசாளர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-0d5b82cd)
-- 2025-10-31 | `lankadeepalk-cb1bc89e` | මන්ත්‍රීලා 56ක් ජනපති අරමුදලෙනුත් කෝටි 13ක් ඇඳලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-lankadeepalk-cb1bc89e)
-- 2025-10-31 | `virakesarilk-3d9d04f0` | சுற்றுலாப் பயணிகளின் எண்ணிக்கை அதிகரிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-3d9d04f0)
 
 ---
 
