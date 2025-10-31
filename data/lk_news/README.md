@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--31_06:31:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--31_07:15:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,936** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,937** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-31-dailyftlk-72b58ea5",
-    "num": "dailyftlk-72b58ea5",
+    "doc_id": "2025-10-31-lankadeepalk-10ff3284",
+    "num": "lankadeepalk-10ff3284",
     "date_str": "2025-10-31",
-    "description": "Sri Lanka\u2019s first plastic testing lab debuts",
-    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-s-first-plastic-testing-lab-debuts/34-783709",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1761871849.0
+    "description": "\u0d85\u0daf \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0db1\u0dd1",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0daf-\u0dc0\u0dc3\u0dc3-\u0db1/101-682403",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1761874144.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-31 | `lankadeepalk-10ff3284` | අද වැස්ස නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-lankadeepalk-10ff3284)
 - 2025-10-31 | `dailyftlk-72b58ea5` | Sri Lanka’s first plastic testing lab debuts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-72b58ea5)
 - 2025-10-31 | `dailyftlk-345046f2` | UDA Chief new On’ally Holdings Chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-345046f2)
 - 2025-10-31 | `dailyftlk-4ac5eae7` | Sri Lanka, Japan and IOM unveil roadmap to strengthen traveller clearance, health security at seaports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-4ac5eae7)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-10-30 | `virakesarilk-3e009a59` | நடப்பு சம்பியன் அவுஸ்திரேலியாவை வீழ்த்திய இந்தியா, புதிய அணி உலக சம்பியனாவதை உறுதிசெய்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-3e009a59)
 - 2025-10-30 | `lankadeepalk-93479906` | සුරාබදු පස් දෙනා හත දක්වා රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-93479906)
 - 2025-10-30 | `lankadeepalk-232075c6` | නීතිඥවරිය ගැන තොරතුරු තවත් එළියට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-232075c6)
-- 2025-10-30 | `lankadeepalk-dc15672d` | සුරාබදු නිලධාරින් මෙහෙයුමක් මුවාවෙන් මුදල් කොල්ල කාලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-dc15672d)
 
 ---
 
