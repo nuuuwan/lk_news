@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_02:18:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_02:46:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,129** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,133** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-01-dailyftlk-fdb01aae",
-    "num": "dailyftlk-fdb01aae",
+    "doc_id": "2025-11-01-virakesarilk-5678f1ef",
+    "num": "virakesarilk-5678f1ef",
     "date_str": "2025-11-01",
-    "description": "Young innovators\u2019 AI robot wins recognition from Science Ministry",
-    "url_metadata": "https://www.ft.lk/news/Young-innovators-AI-robot-wins-recognition-from-Science-Ministry/56-783779",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1761940367.0
+    "description": "\u0b86\u0b9a\u0bbf\u0baf \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 90 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bca\u0bb2\u0bb0\u0bcd \u0b95\u0b9f\u0ba9\u0bc1\u0ba4\u0bb5\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/229201",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1761944220.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-01 | `virakesarilk-5678f1ef` | ஆசிய அபிவிருத்தி வங்கியிடமிருந்து 90 மில்லியன் டொலர் கடனுதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-5678f1ef)
+- 2025-11-01 | `virakesarilk-aad279c2` | கனடா உயர் ஸ்தானிகர் - அரசாங்க அதிபர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-aad279c2)
+- 2025-11-01 | `tamilmirrorlk-19ddc70a` | அமெரிக்காவில் 33 ஆண்டுக்கு பிறகு அணு ஆயுத சோதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-19ddc70a)
+- 2025-11-01 | `virakesarilk-93c7b076` | புத்தளம் செம்புக்குளிய குள மதகை புனரமைப்புக்கு உதவிய கடற்படையினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-93c7b076)
 - 2025-11-01 | `dailyftlk-fdb01aae` | Young innovators’ AI robot wins recognition from Science Ministry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-dailyftlk-fdb01aae)
 - 2025-11-01 | `dailyftlk-cb6debe5` | Health Minister urges SL specialist docs abroad to return home | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-dailyftlk-cb6debe5)
 - 2025-11-01 | `dailyftlk-47b1449f` | India to support training of teachers under new education reforms: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-dailyftlk-47b1449f)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-10-31 | `dailyftlk-b12dcef7` | S. Thomas’ College joins GEW 2025 to debut SL’s All-island Schools National Startup  Innovation Event to celebrate 175th anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-b12dcef7)
 - 2025-10-31 | `dailyftlk-d8a2d69c` | Rakuten Symphony and SLT-Mobitel sign MoU to deploy Open RAN Trial in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-d8a2d69c)
 - 2025-10-31 | `dailyftlk-8ec103bb` | Only Anura can build a drug-free nation: Most Ven. Assaji Thero | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-8ec103bb)
-- 2025-10-31 | `dailyftlk-866efb00` | Legal aid reform necessary to safeguard democracy and human dignity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-866efb00)
-- 2025-10-31 | `dailyftlk-cf1e3565` | Japan extends support for humanitarian demining activities in Northern Province | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-cf1e3565)
-- 2025-10-31 | `dailyftlk-a1bcdef4` | Morari Bapu’s Ram Yatra moves from India to Sri Lanka: Retracing Ram’s sacred footsteps across sea | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-a1bcdef4)
-- 2025-10-31 | `dailyftlk-727d5fa9` | New German foreign policy pillars outlined at Pathfinder Foundation’s “Ambassador’s Roundtable” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-727d5fa9)
 
 ---
 
