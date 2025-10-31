@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--31_06:02:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--31_06:31:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**83,925** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**83,936** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-10-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-10-31-dailyftlk-6f27635b",
-    "num": "dailyftlk-6f27635b",
+    "doc_id": "2025-10-31-dailyftlk-72b58ea5",
+    "num": "dailyftlk-72b58ea5",
     "date_str": "2025-10-31",
-    "description": "From Kerala to Colombo: Lessons in building gender-responsive tourism",
-    "url_metadata": "https://www.ft.lk/columns/From-Kerala-to-Colombo-Lessons-in-building-gender-responsive-tourism/4-783698",
+    "description": "Sri Lanka\u2019s first plastic testing lab debuts",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-s-first-plastic-testing-lab-debuts/34-783709",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1761870148.0
+    "time_ut": 1761871849.0
 }
 ```
 
@@ -41,7 +41,18 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-31 | `dailyftlk-72b58ea5` | Sri Lanka’s first plastic testing lab debuts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-72b58ea5)
+- 2025-10-31 | `dailyftlk-345046f2` | UDA Chief new On’ally Holdings Chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-345046f2)
+- 2025-10-31 | `dailyftlk-4ac5eae7` | Sri Lanka, Japan and IOM unveil roadmap to strengthen traveller clearance, health security at seaports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-4ac5eae7)
+- 2025-10-31 | `dailyftlk-0b93ef38` | Fed cuts US interest rates again despite ‘flying blind’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-0b93ef38)
+- 2025-10-31 | `dailyftlk-2df44e9f` | External headwinds weaken fiscal consolidation in Asia-Pacific – Fitch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-2df44e9f)
+- 2025-10-31 | `dailyftlk-bb0359c5` | Sri Lanka, Netherlands conclude second round of political consultations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-bb0359c5)
+- 2025-10-31 | `dailyftlk-b63c3777` | Why some countries prosper, whilst others continue to remain poor and in chaos | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-b63c3777)
+- 2025-10-31 | `dailyftlk-f3d42bd6` | Proposal for establishment of Advisory Board for revival of welding technology | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-f3d42bd6)
+- 2025-10-31 | `dailyftlk-06c55600` | Peace – without justice in letting go of backlog? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-06c55600)
+- 2025-10-31 | `dailyftlk-70bd3254` | Why governments bet on long-term sports tourism partnerships | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-70bd3254)
 - 2025-10-31 | `dailyftlk-6f27635b` | From Kerala to Colombo: Lessons in building gender-responsive tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-6f27635b)
+- 2025-10-31 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-virakesarilk-3a015e4a)
 - 2025-10-31 | `dailyftlk-606430d9` | Indian-funded Mahatma Gandhi Model Village opens in Ampara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-606430d9)
 - 2025-10-31 | `dailyftlk-302fdd56` | Ravinatha appointed Executive Director of Regional Centre for Strategic Studies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-302fdd56)
 - 2025-10-31 | `dailyftlk-db052733` | AAIB assesses crop damage amid heavy rains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-db052733)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2025-10-30 | `lankadeepalk-93479906` | සුරාබදු පස් දෙනා හත දක්වා රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-93479906)
 - 2025-10-30 | `lankadeepalk-232075c6` | නීතිඥවරිය ගැන තොරතුරු තවත් එළියට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-232075c6)
 - 2025-10-30 | `lankadeepalk-dc15672d` | සුරාබදු නිලධාරින් මෙහෙයුමක් මුවාවෙන් මුදල් කොල්ල කාලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-dc15672d)
-- 2025-10-30 | `lankadeepalk-2ee478ae` | චීන ආයෝජකයෝ පිරිසක් මෙරටට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-2ee478ae)
-- 2025-10-30 | `lankadeepalk-6db33579` | සිරගෙට ගෙනියන්න සපත්තුවලට දුරකතන දමා මසද්දී මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-6db33579)
-- 2025-10-30 | `tamilmirrorlk-2181ab9e` | போதைப்பொருள் ஒழிப்புப் பணியகத்தின் அதிகாரிகள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-2181ab9e)
-- 2025-10-30 | `tamilmirrorlk-cf35de85` | 2024 ஆம் ஆண்டுக்கான சனத்தொகை தரவுகள் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-tamilmirrorlk-cf35de85)
-- 2025-10-30 | `adalk-617cabfd` | වැලිගම සභාපති ඝාතනයේ සැකකරුවන් 7ක් රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-adalk-617cabfd)
-- 2025-10-30 | `virakesarilk-612caa3e` | அவுஸ்திரேலியாவினால் இந்தியாவுக்கு 339 ஓட்டங்கள் வெற்றி இலக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-virakesarilk-612caa3e)
-- 2025-10-30 | `lankadeepalk-49ab659c` | ගිනි අවි තුනක් සමග අයෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-49ab659c)
-- 2025-10-30 | `lankadeepalk-3563dd10` | තවත් මූල්‍ය සමාගමක් ගැන විමර්ශන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-3563dd10)
-- 2025-10-30 | `lankadeepalk-ceda14b8` | ඇමෙරිකාවත් න්‍යෂ්ටික බලය වැඩි කරන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-ceda14b8)
-- 2025-10-30 | `lankadeepalk-294963b5` | ඇමෙරිකාව චීනයට එරෙහි බද්ධ ටිකක් අඩු කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-lankadeepalk-294963b5)
-- 2025-10-30 | `islandlk-217b7666` | Union Bank delivers LKR 1.2 Bn PBT for 9M 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-30-islandlk-217b7666)
 
 ---
 
