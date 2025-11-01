@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_09:28:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_09:47:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,158** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,159** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -51,6 +51,7 @@ A collection of lk_news documents.
 - 2025-11-01 | `tamilmirrorlk-1f757667` | போதைப்பொருளுடன் ஐவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-1f757667)
 - 2025-11-01 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-3a015e4a)
 - 2025-11-01 | `virakesarilk-9b49e560` | யாழ்ப்பாணத்தில் பாண் விற்பனையாளர் ஹெரோயினுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-9b49e560)
+- 2025-11-01 | `bbccomsinhala-7cbd60d2` | ශ්‍රී ලංකා ස්ත්‍රී ජනගහනය 757,112කින් ඉහළට: නව සංගණන දත්ත අනුව ජනගහන අනුපාත වෙනස් වී ඇත්තේ මෙහෙමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-bbccomsinhala-7cbd60d2)
 - 2025-11-01 | `virakesarilk-c977cad7` | இந்தியா - இலங்கை விவசாயம் குறித்த முதலாவது கூட்டு செயற்குழுக் கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-c977cad7)
 - 2025-11-01 | `virakesarilk-8afdec50` | 9வது கடற்படை திறந்த துப்பாக்கி சுடும் போட்டியில், கடற்படை ஏராளமான வெற்றிகளைப் பெற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-8afdec50)
 - 2025-11-01 | `virakesarilk-2af58d85` | போதைப்பொருள் ஒழிப்பு வேலைத்திட்டத்துக்கு சகல தரப்பினரும் ஒத்துழைப்பு வழங்கவேண்டும் - சமூக நீதிக்கான தேசிய இயக்கம் வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-2af58d85)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-01 | `tamilmirrorlk-19ddc70a` | அமெரிக்காவில் 33 ஆண்டுக்கு பிறகு அணு ஆயுத சோதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-19ddc70a)
 - 2025-11-01 | `virakesarilk-93c7b076` | புத்தளம் செம்புக்குளிய குள மதகை புனரமைப்புக்கு உதவிய கடற்படையினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-93c7b076)
 - 2025-11-01 | `dailyftlk-fdb01aae` | Young innovators’ AI robot wins recognition from Science Ministry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-dailyftlk-fdb01aae)
-- 2025-11-01 | `dailyftlk-cb6debe5` | Health Minister urges SL specialist docs abroad to return home | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-dailyftlk-cb6debe5)
 
 ---
 
