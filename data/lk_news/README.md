@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_06:04:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_06:30:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,145** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,147** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-01-virakesarilk-9b49e560",
-    "num": "virakesarilk-9b49e560",
+    "doc_id": "2025-11-01-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
     "date_str": "2025-11-01",
-    "description": "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0ba3\u0bcd \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/229205",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/229206",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1761949620.0
+    "time_ut": 1761957120.0
 }
 ```
 
@@ -41,11 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-01 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-3a015e4a)
 - 2025-11-01 | `virakesarilk-9b49e560` | யாழ்ப்பாணத்தில் பாண் விற்பனையாளர் ஹெரோயினுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-9b49e560)
 - 2025-11-01 | `virakesarilk-c977cad7` | இந்தியா - இலங்கை விவசாயம் குறித்த முதலாவது கூட்டு செயற்குழுக் கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-c977cad7)
 - 2025-11-01 | `virakesarilk-8afdec50` | 9வது கடற்படை திறந்த துப்பாக்கி சுடும் போட்டியில், கடற்படை ஏராளமான வெற்றிகளைப் பெற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-8afdec50)
 - 2025-11-01 | `virakesarilk-2af58d85` | போதைப்பொருள் ஒழிப்பு வேலைத்திட்டத்துக்கு சகல தரப்பினரும் ஒத்துழைப்பு வழங்கவேண்டும் - சமூக நீதிக்கான தேசிய இயக்கம் வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-2af58d85)
 - 2025-11-01 | `virakesarilk-5678f1ef` | ஆசிய அபிவிருத்தி வங்கியிடமிருந்து 90 மில்லியன் டொலர் கடனுதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-5678f1ef)
+- 2025-11-01 | `tamilmirrorlk-423eee85` | ’கரூர் நெரிசலுக்கு தனிநபர் காரணம் அல்ல’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-423eee85)
 - 2025-11-01 | `virakesarilk-aad279c2` | கனடா உயர் ஸ்தானிகர் - அரசாங்க அதிபர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-aad279c2)
 - 2025-11-01 | `tamilmirrorlk-19ddc70a` | அமெரிக்காவில் 33 ஆண்டுக்கு பிறகு அணு ஆயுத சோதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-19ddc70a)
 - 2025-11-01 | `virakesarilk-93c7b076` | புத்தளம் செம்புக்குளிய குள மதகை புனரமைப்புக்கு உதவிய கடற்படையினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-93c7b076)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-10-31 | `dailyftlk-978a3d92` | Govt. to raise teachers’ allowance in 2026 Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-978a3d92)
 - 2025-10-31 | `dailyftlk-039f377e` | Parliament forms committee to promote youth entrepreneurship | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-039f377e)
 - 2025-10-31 | `dailyftlk-b36b371e` | India casts doubt on Trump’s claim Modi will stop buying Russian oil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-b36b371e)
-- 2025-10-31 | `dailyftlk-3845304e` | All set for 27th Presidential Export Awards on 11 Dec. at BMICH | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-3845304e)
-- 2025-10-31 | `dailyftlk-a5b3e08d` | Verité Research presents key  findings at multiple international fora | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-a5b3e08d)
 
 ---
 
