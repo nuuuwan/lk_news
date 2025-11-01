@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_22:46:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_23:15:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,230** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,231** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -57,10 +57,10 @@ A collection of lk_news documents.
 - 2025-11-01 | `tamilmirrorlk-68a0f6be` | உத்தியோகபூர்வ இல்லத்தில் இருந்து வெளியேறும் சந்திரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-68a0f6be)
 - 2025-11-01 | `virakesarilk-fbceb187` | புதுக்குடியிருப்பில்  ஆடை உற்பத்தி நிலையத்துக்கு  அபராதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-fbceb187)
 - 2025-11-01 | `virakesarilk-af9e7f00` | குச்சவெளி சபைத் தலைவர், அவரது பிரத்தியேக சாரதி ஆகியோருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-af9e7f00)
+- 2025-11-01 | `virakesarilk-9f2d6b05` | நாட்டில் அபிவிருத்தி கலாச்சாரத்திற்குப் பதிலாகப் பாதாள உலக கலாச்சாரமே நடைமுறையில் உள்ளது - எதிர்க்கட்சித் தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-9f2d6b05)
 - 2025-11-01 | `virakesarilk-7db9a0af` | முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க உத்தியோகபூர்வ இல்லத்திலிருந்து வெளியேற தயார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-7db9a0af)
 - 2025-11-01 | `lankadeepalk-6662bf79` | ලංකාවට මත්කුඩු ගේන කෙරුමෝ විසිපහක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-6662bf79)
 - 2025-11-01 | `lankadeepalk-349ab8e8` | උසස් පෙළ පන්ති සම්මන්ත්‍රණ 4 වැනිදායින්  පසු  තහනම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-349ab8e8)
-- 2025-11-01 | `virakesarilk-7f7d8b07` | நாட்டின் மிகப்பெரிய புகைப்பட உபகரண வர்த்தக கண்காட்சி  ( Sony Alpha Festival 2025 ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-7f7d8b07)
 
 ---
 
