@@ -1,4 +1,7 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-11-01-lankadeepalk-3a3be1a3	lankadeepalk-3a3be1a3	2025-11-01	උඩුගම ඉඩමකින් උණ්ඩ මතුවෙයි	https://www.lankadeepa.lk/news/උඩගම-ඉඩමකන-උණඩ-මතවය/101-682488	si	lankadeepalk	1761993232.0
+lk_news	2025-11-01-adalk-17fcf3eb	adalk-17fcf3eb	2025-11-01	පෞද්ගලික දත්ත ආරක්ෂණ පනත බලාත්මකයි	https://www.ada.lk/breaking_news/පෞද්ගලික-දත්ත-ආරක්ෂණ-පනත-බලාත්මකයි/11-419445	si	adalk	1761993231.0
+lk_news	2025-11-01-lankadeepalk-c5e7e3c2	lankadeepalk-c5e7e3c2	2025-11-01	ලොකුම ඡායාරූපකරණ ප්‍රදර්ශනයට මාධ්‍ය ඇමැති යයි	https://www.lankadeepa.lk/news/ලකම-ඡයරපකරණ-පරදරශනයට-මධය-ඇමත-යය/101-682487	si	lankadeepalk	1761992610.0
 lk_news	2025-11-01-lankadeepalk-aa41fbc1	lankadeepalk-aa41fbc1	2025-11-01	අලුත් ලංකාව නිර්මාණය වුණාද?	https://www.lankadeepa.lk/news/අලත-ලකව-නරමණය-වණද/101-682486	si	lankadeepalk	1761990666.0
 lk_news	2025-11-01-lankadeepalk-6c5242eb	lankadeepalk-6c5242eb	2025-11-01	ධීවරයන්ට සුභ ආරංචියක්	https://www.lankadeepa.lk/news/ධවරයනට-සභ-ආරචයක/101-682485	si	lankadeepalk	1761989966.0
 lk_news	2025-11-01-lankadeepalk-90f66e45	lankadeepalk-90f66e45	2025-11-01	විපක්ෂයෙන් මතුවන ජනහඩ	https://www.lankadeepa.lk/features/වපකෂයන-මතවන-ජනහඩ/2-682479	si	lankadeepalk	1761987461.0
@@ -14,6 +17,7 @@ lk_news	2025-11-01-virakesarilk-9afbedd5	virakesarilk-9afbedd5	2025-11-01	கூ
 lk_news	2025-11-01-lankadeepalk-5a2af8cd	lankadeepalk-5a2af8cd	2025-11-01	අලුත් නි. ඇමතිලා හය දෙනාත්  මැතිසබේ තෙල් එපා කියති	https://www.lankadeepa.lk/latest_news/අලත-න-ඇමතල-හය-දනත-මතසබ-තල-එප-කයත/1-682475	si	lankadeepalk	1761979413.0
 lk_news	2025-11-01-virakesarilk-eebff342	virakesarilk-eebff342	2025-11-01	இன்றைய தங்க விலை நிலைவரம்!	https://www.virakesari.lk/article/229219	ta	virakesarilk	1761978960.0
 lk_news	2025-11-01-virakesarilk-e6502455	virakesarilk-e6502455	2025-11-01	ஒலிப்பேழையை அதிக சத்தத்துடன் இயக்கியதால் இளைஞன் கொலை!	https://www.virakesari.lk/article/229218	ta	virakesarilk	1761978480.0
+lk_news	2025-11-01-adalk-082089cc	adalk-082089cc	2025-11-01	උද්ධමනය ඉහළට	https://www.ada.lk/breaking_news/උද්ධමනය-ඉහළට/11-419443	si	adalk	1761976655.0
 lk_news	2025-11-01-lankadeepalk-00bf0b5f	lankadeepalk-00bf0b5f	2025-11-01	විපක්ෂයේ මන්ත්‍රීලා  විස්සක් පිස්තෝල ඉල්ලති	https://www.lankadeepa.lk/latest_news/වපකෂය-මනතරල-වසසක-පසතල-ඉලලත/1-682474	si	lankadeepalk	1761975844.0
 lk_news	2025-11-01-virakesarilk-2cb1e942	virakesarilk-2cb1e942	2025-11-01	இரு வெவ்வேறு பகுதிகளில் இடம்பெற்ற வாகன விபத்துக்களில் மூவர் பலி!	https://www.virakesari.lk/article/229216	ta	virakesarilk	1761975840.0
 lk_news	2025-11-01-virakesarilk-d3fe833f	virakesarilk-d3fe833f	2025-11-01	“மிதிகம லசா” படுகொலை ; துப்பாக்கிதாரிகள் பயணித்த மோட்டார் சைக்கிள் கண்டுபிடிப்பு!	https://www.virakesari.lk/article/229214	ta	virakesarilk	1761975660.0
@@ -995,7 +999,3 @@ lk_news	2025-10-27-lankadeepalk-4c636125	lankadeepalk-4c636125	2025-10-27	ලං
 lk_news	2025-10-27-tamilmirrorlk-d53e5b8c	tamilmirrorlk-d53e5b8c	2025-10-27	வெலிகம துப்பாக்கிதாரி கைது;பொலிஸார் மீது கடும் விமர்சனம்	https://www.tamilmirror.lk/செய்திகள்/வெலிகம-துப்பாக்கிதாரி-கைது-பொலிஸார்-மீது-கடும்-விமர்சனம்/175-366905	ta	tamilmirrorlk	1761547175.0
 lk_news	2025-10-27-virakesarilk-571fad48	virakesarilk-571fad48	2025-10-27	இவ்வாண்டின் இதுவரையான காலப்பகுதிக்குள் 6,127,138 பேர் சோதனைக்குட்படுத்தப்பட்டுள்ளனர் - பொலிஸ்	https://www.virakesari.lk/article/228769	ta	virakesarilk	1761547020.0
 lk_news	2025-10-27-virakesarilk-4ed713e7	virakesarilk-4ed713e7	2025-10-27	விமான நிலையத்தில் இளைஞர்கள்  இருவர் கைது!	https://www.virakesari.lk/article/228771	ta	virakesarilk	1761546360.0
-lk_news	2025-10-27-tamilmirrorlk-e06937ab	tamilmirrorlk-e06937ab	2025-10-27	எதிர்க்கட்சிகள் இணைந்து அதிரடி அறிவிப்பு	https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகள்-இணைந்து-அதிரடி-அறிவிப்பு/175-366903	ta	tamilmirrorlk	1761545881.0
-lk_news	2025-10-27-lankadeepalk-f88d807c	lankadeepalk-f88d807c	2025-10-27	රේස් පැද්ද යතුරුපැදි 8ක් අල්ලයි	https://www.lankadeepa.lk/news/රස-පදද-යතරපද-8ක-අලලය/101-682135	si	lankadeepalk	1761545784.0
-lk_news	2025-10-27-virakesarilk-b15e8a3c	virakesarilk-b15e8a3c	2025-10-27	மகாஓயா பகுதியில் இறந்த யானை குறித்து விசாரணை	https://www.virakesari.lk/article/228770	ta	virakesarilk	1761545760.0
-lk_news	2025-10-27-virakesarilk-8a5a78e7	virakesarilk-8a5a78e7	2025-10-27	கட்டுநாயக்க விமான நிலையத்தில் இந்திய பிரஜை கைது!	https://www.virakesari.lk/article/228767	ta	virakesarilk	1761545520.0
