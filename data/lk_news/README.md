@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_20:17:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_20:46:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,217** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,220** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-01-lankadeepalk-fe8c677b",
-    "num": "lankadeepalk-fe8c677b",
+    "doc_id": "2025-11-01-lankadeepalk-2b6ad30c",
+    "num": "lankadeepalk-2b6ad30c",
     "date_str": "2025-11-01",
-    "description": "\u0dbb\u0da7 \u0dbb\u0dc3\u0dca\u0dc3\u0dcf \u0daf\u0dd9\u0db1\u0dc0\u0dcf \u0d9a\u0dd2\u0dba\u0dcf \u0d9a\u0ddd\u0da7\u0dd2 74 \u0d9a\u0da7 \u0db4\u0ddc\u0dbd\u0dd4",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7-\u0dbb\u0dc3\u0dc3-\u0daf\u0db1\u0dc0-\u0d9a\u0dba-\u0d9a\u0da7-74-\u0d9a\u0da7-\u0db4\u0dbd/1-682491",
+    "description": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0dda \u0dad\u0dd1\u0d9c\u0dd2 \u0dc3\u0dd2\u0dc4\u0dd2\u0db1\u0dba \u0db6\u0ddc\u0daf \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db4\u0dbd\u0dc3\u0dba-\u0dad\u0d9c-\u0dc3\u0dc4\u0db1\u0dba-\u0db6\u0daf-\u0dc0\u0dba/1-682492",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1762007941.0
+    "time_ut": 1762009279.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-01 | `lankadeepalk-2b6ad30c` | පොලිසියේ තෑගි සිහිනය බොද වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-2b6ad30c)
 - 2025-11-01 | `lankadeepalk-fe8c677b` | රට රස්සා දෙනවා කියා කෝටි 74 කට පොලු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-fe8c677b)
 - 2025-11-01 | `adalk-b6e599f5` | මේ දක්වා සංචාරකයන් 1 878 557ක් ඇවිත් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-adalk-b6e599f5)
 - 2025-11-01 | `tamilmirrorlk-e399704d` | பெண் சட்டத்தரணியை தடுத்து வைத்து விசாரிக்க அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-e399704d)
@@ -50,6 +51,7 @@ A collection of lk_news documents.
 - 2025-11-01 | `virakesarilk-7db9a0af` | முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க உத்தியோகபூர்வ இல்லத்திலிருந்து வெளியேற தயார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-7db9a0af)
 - 2025-11-01 | `lankadeepalk-6662bf79` | ලංකාවට මත්කුඩු ගේන කෙරුමෝ විසිපහක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-6662bf79)
 - 2025-11-01 | `lankadeepalk-349ab8e8` | උසස් පෙළ පන්ති සම්මන්ත්‍රණ 4 වැනිදායින්  පසු  තහනම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-349ab8e8)
+- 2025-11-01 | `virakesarilk-7f7d8b07` | நாட்டின் மிகப்பெரிய புகைப்பட உபகரண வர்த்தக கண்காட்சி  ( Sony Alpha Festival 2025 ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-7f7d8b07)
 - 2025-11-01 | `tamilmirrorlk-99e323c3` | பத்மேவிடமிருந்து துப்பாக்கி வாங்கிய தொழிலதிபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-99e323c3)
 - 2025-11-01 | `virakesarilk-99d8d088` | யாழில் செம்மணி புதைகுழி உட்பட பல விடயங்களுக்கு நீதி வேண்டி கவனஈர்ப்பு போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-99d8d088)
 - 2025-11-01 | `tamilmirrorlk-dece5217` | கோயில் நெரிசலில் சிக்கி 9 பக்தர்கள் பலி : அதிர்ச்சி செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-dece5217)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-01 | `adalk-e148216c` | මේ වසරේ හෙද සේවාවට 4,141ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-adalk-e148216c)
 - 2025-11-01 | `lankadeepalk-c5e7e3c2` | ලොකුම ඡායාරූපකරණ ප්‍රදර්ශනයට මාධ්‍ය ඇමැති යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-c5e7e3c2)
 - 2025-11-01 | `virakesarilk-e2e3b76f` | திரைப்படத் தயாரிப்பு நிறுவனத்தை தொடங்கிய நடிகர் ஆரவ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-e2e3b76f)
-- 2025-11-01 | `virakesarilk-0e905ea3` | நடிகர் மைம் கோபி நடிக்கும் ' ஃப்ரைடே' படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-0e905ea3)
-- 2025-11-01 | `virakesarilk-1bec9c50` | யோகிபாபுவுடன் கூட்டணி அமைத்த சுரேஷ் ரவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-1bec9c50)
 
 ---
 
