@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_07:14:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_08:17:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,147** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,153** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-01-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2025-11-01-tamilmirrorlk-164568e0",
+    "num": "tamilmirrorlk-164568e0",
     "date_str": "2025-11-01",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/229206",
+    "description": "\u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-367160",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1761957120.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1761964542.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-01 | `tamilmirrorlk-164568e0` | ஹெரோயினுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-164568e0)
+- 2025-11-01 | `lankadeepalk-a059c34e` | වැලිගම ඝාතකයන් ආ යතුරු පැදිය හමුවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-a059c34e)
+- 2025-11-01 | `lankadeepalk-0c4c56f5` | කැසට් යන්ත්‍රය ශබ්දයෙන් දැම්මැයි පිහියෙන් ඇණ මරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-0c4c56f5)
+- 2025-11-01 | `lankadeepalk-237b4534` | අදත් පායන දවසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-237b4534)
+- 2025-11-01 | `tamilmirrorlk-1f757667` | போதைப்பொருளுடன் ஐவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-1f757667)
 - 2025-11-01 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-3a015e4a)
 - 2025-11-01 | `virakesarilk-9b49e560` | யாழ்ப்பாணத்தில் பாண் விற்பனையாளர் ஹெரோயினுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-9b49e560)
 - 2025-11-01 | `virakesarilk-c977cad7` | இந்தியா - இலங்கை விவசாயம் குறித்த முதலாவது கூட்டு செயற்குழுக் கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-c977cad7)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-11-01 | `dailyftlk-47b1449f` | India to support training of teachers under new education reforms: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-dailyftlk-47b1449f)
 - 2025-11-01 | `dailyftlk-e0a84554` | 700 nursing graduates begin training as Health Ministry resumes recruitment after 4-year hiatus | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-dailyftlk-e0a84554)
 - 2025-11-01 | `dailyftlk-97218d73` | Nearly 1,000 arrested countrywide as Govt. launches war on drugs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-dailyftlk-97218d73)
-- 2025-10-31 | `dailyftlk-da8c6592` | NPP Government’s troubling ambivalence on Malaiyaha Tamils | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-da8c6592)
-- 2025-10-31 | `dailyftlk-d035e351` | Delhi research lab named after Harini | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-d035e351)
-- 2025-10-31 | `dailyftlk-978a3d92` | Govt. to raise teachers’ allowance in 2026 Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-978a3d92)
-- 2025-10-31 | `dailyftlk-039f377e` | Parliament forms committee to promote youth entrepreneurship | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-039f377e)
-- 2025-10-31 | `dailyftlk-b36b371e` | India casts doubt on Trump’s claim Modi will stop buying Russian oil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-10-31-dailyftlk-b36b371e)
 
 ---
 
