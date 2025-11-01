@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_19:46:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--01_20:17:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,216** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,217** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-01-adalk-b6e599f5",
-    "num": "adalk-b6e599f5",
+    "doc_id": "2025-11-01-lankadeepalk-fe8c677b",
+    "num": "lankadeepalk-fe8c677b",
     "date_str": "2025-11-01",
-    "description": "\u0db8\u0dda \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0db1\u0dca 1 878 557\u0d9a\u0dca \u0d87\u0dc0\u0dd2\u0dad\u0dca",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dda-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0db1\u0dca-1-878-557\u0d9a\u0dca-\u0d87\u0dc0\u0dd2\u0dad\u0dca/11-419447",
+    "description": "\u0dbb\u0da7 \u0dbb\u0dc3\u0dca\u0dc3\u0dcf \u0daf\u0dd9\u0db1\u0dc0\u0dcf \u0d9a\u0dd2\u0dba\u0dcf \u0d9a\u0ddd\u0da7\u0dd2 74 \u0d9a\u0da7 \u0db4\u0ddc\u0dbd\u0dd4",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7-\u0dbb\u0dc3\u0dc3-\u0daf\u0db1\u0dc0-\u0d9a\u0dba-\u0d9a\u0da7-74-\u0d9a\u0da7-\u0db4\u0dbd/1-682491",
     "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1762005183.0
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1762007941.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-01 | `lankadeepalk-fe8c677b` | රට රස්සා දෙනවා කියා කෝටි 74 කට පොලු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-fe8c677b)
 - 2025-11-01 | `adalk-b6e599f5` | මේ දක්වා සංචාරකයන් 1 878 557ක් ඇවිත් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-adalk-b6e599f5)
 - 2025-11-01 | `tamilmirrorlk-e399704d` | பெண் சட்டத்தரணியை தடுத்து வைத்து விசாரிக்க அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-e399704d)
 - 2025-11-01 | `tamilmirrorlk-68a0f6be` | உத்தியோகபூர்வ இல்லத்தில் இருந்து வெளியேறும் சந்திரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-68a0f6be)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-01 | `virakesarilk-e2e3b76f` | திரைப்படத் தயாரிப்பு நிறுவனத்தை தொடங்கிய நடிகர் ஆரவ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-e2e3b76f)
 - 2025-11-01 | `virakesarilk-0e905ea3` | நடிகர் மைம் கோபி நடிக்கும் ' ஃப்ரைடே' படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-0e905ea3)
 - 2025-11-01 | `virakesarilk-1bec9c50` | யோகிபாபுவுடன் கூட்டணி அமைத்த சுரேஷ் ரவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-1bec9c50)
-- 2025-11-01 | `virakesarilk-37a270e0` | காதலியை கரம் பிடித்த இயக்குநரும், நடிகருமான அபிஷன் ஜீவந்த் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-37a270e0)
 
 ---
 
