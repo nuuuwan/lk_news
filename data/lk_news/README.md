@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--02_02:46:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--02_03:15:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,232** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,235** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -49,6 +49,9 @@ A collection of lk_news documents.
 - 2025-11-01 | `lankadeepalk-c5252ced` | වැලිකන්දේ අපවහන ඇළක කසිප්පු තොගයක් වටලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-c5252ced)
 - 2025-11-01 | `tamilmirrorlk-89e555b4` | நள்ளிரவுடன் தனியார் வகுப்புகளுக்கு தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-89e555b4)
 - 2025-11-01 | `tamilmirrorlk-0e387ee4` | 4ஆம் திகதி நள்ளிரவுடன் தனியார் வகுப்புகளுக்கு தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-0e387ee4)
+- 2025-11-01 | `colombotelegraphcom-9b6bea6b` | Mamdani’s Success Story Resonates Beyond New York & The US! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-colombotelegraphcom-9b6bea6b)
+- 2025-11-01 | `colombotelegraphcom-13e47e13` | Probing Protectionism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-colombotelegraphcom-13e47e13)
+- 2025-11-01 | `colombotelegraphcom-259b49b6` | Whither Battery Energy Storage System? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-colombotelegraphcom-259b49b6)
 - 2025-11-01 | `lankadeepalk-2b6ad30c` | පොලිසියේ තෑගි සිහිනය බොද වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-2b6ad30c)
 - 2025-11-01 | `lankadeepalk-fe8c677b` | රට රස්සා දෙනවා කියා කෝටි 74 කට පොලු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-fe8c677b)
 - 2025-11-01 | `adalk-b6e599f5` | මේ දක්වා සංචාරකයන් 1 878 557ක් ඇවිත් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-adalk-b6e599f5)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-01 | `virakesarilk-fbceb187` | புதுக்குடியிருப்பில்  ஆடை உற்பத்தி நிலையத்துக்கு  அபராதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-fbceb187)
 - 2025-11-01 | `virakesarilk-af9e7f00` | குச்சவெளி சபைத் தலைவர், அவரது பிரத்தியேக சாரதி ஆகியோருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-af9e7f00)
 - 2025-11-01 | `virakesarilk-9f2d6b05` | நாட்டில் அபிவிருத்தி கலாச்சாரத்திற்குப் பதிலாகப் பாதாள உலக கலாச்சாரமே நடைமுறையில் உள்ளது - எதிர்க்கட்சித் தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-9f2d6b05)
-- 2025-11-01 | `virakesarilk-7db9a0af` | முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க உத்தியோகபூர்வ இல்லத்திலிருந்து வெளியேற தயார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-7db9a0af)
-- 2025-11-01 | `lankadeepalk-6662bf79` | ලංකාවට මත්කුඩු ගේන කෙරුමෝ විසිපහක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-6662bf79)
-- 2025-11-01 | `lankadeepalk-349ab8e8` | උසස් පෙළ පන්ති සම්මන්ත්‍රණ 4 වැනිදායින්  පසු  තහනම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-349ab8e8)
 
 ---
 
