@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-02 12:46:17",
-  "n_docs": 84298,
+  "time_updated": "2025-11-02 13:14:54",
+  "n_docs": 84300,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 84298,
+  "n_docs_with_text": 84300,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-02",
-  "dataset_size": 1249208007,
+  "dataset_size": 1249409183,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-02-tamilmirrorlk-bfa57088",
-    "num": "tamilmirrorlk-bfa57088",
+    "doc_id": "2025-11-02-tamilmirrorlk-651d9a73",
+    "num": "tamilmirrorlk-651d9a73",
     "date_str": "2025-11-02",
-    "description": "\u201d\u0b9a\u0bb5\u0bbe\u0bb2\u0bbe\u0ba9 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b86\u0ba4\u0bb0\u0bb5\u0bc1\u201d",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb5\u0bbe\u0bb2\u0bbe\u0ba9-\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b89\u0bb3\u0bcd\u0bb3-\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b86\u0ba4\u0bb0\u0bb5\u0bc1/175-367212",
+    "description": "300 \u0ba4\u0bbe\u0ba4\u0bcd\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbe\u0b9f\u0bbf \u0baa\u0bc6\u0ba3\u0bcd: 300+ Bedroom Videos",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/300-\u0ba4\u0bbe\u0ba4\u0bcd\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bc8-\u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbe\u0b9f\u0bbf-\u0baa\u0bc6\u0ba3\u0bcd-300-Bedroom-Videos/175-367214",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1762067117.0
+    "time_ut": 1762069149.0
   }
 }
