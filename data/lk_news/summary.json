@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-03 01:45:53",
-  "n_docs": 84374,
+  "time_updated": "2025-11-03 02:15:31",
+  "n_docs": 84378,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 84374,
+  "n_docs_with_text": 84378,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-03",
-  "dataset_size": 1250529929,
+  "dataset_size": 1250695045,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-03-dailyftlk-8f551655",
-    "num": "dailyftlk-8f551655",
+    "doc_id": "2025-11-03-dailyftlk-f856b31e",
+    "num": "dailyftlk-f856b31e",
     "date_str": "2025-11-03",
-    "description": "IPS 2025 shows AKD how technology should be used for change and driving digital economy",
-    "url_metadata": "https://www.ft.lk/columns/IPS-2025-shows-AKD-how-technology-should-be-used-for-change-and-driving-digital-economy/4-783805",
+    "description": "Hanif Yusoof as President\u2019s Special Envoy for FDIs: The man for the job",
+    "url_metadata": "https://www.ft.lk/columns/Hanif-Yusoof-as-President-s-Special-Envoy-for-FDIs-The-man-for-the-job/4-783808",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762113939.0
+    "time_ut": 1762115159.0
   }
 }

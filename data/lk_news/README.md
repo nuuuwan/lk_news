@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_01:46:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_02:16:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,374** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,378** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-03-dailyftlk-8f551655",
-    "num": "dailyftlk-8f551655",
+    "doc_id": "2025-11-03-dailyftlk-f856b31e",
+    "num": "dailyftlk-f856b31e",
     "date_str": "2025-11-03",
-    "description": "IPS 2025 shows AKD how technology should be used for change and driving digital economy",
-    "url_metadata": "https://www.ft.lk/columns/IPS-2025-shows-AKD-how-technology-should-be-used-for-change-and-driving-digital-economy/4-783805",
+    "description": "Hanif Yusoof as President\u2019s Special Envoy for FDIs: The man for the job",
+    "url_metadata": "https://www.ft.lk/columns/Hanif-Yusoof-as-President-s-Special-Envoy-for-FDIs-The-man-for-the-job/4-783808",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762113939.0
+    "time_ut": 1762115159.0
 }
 ```
 
@@ -41,10 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `dailyftlk-f856b31e` | Hanif Yusoof as President’s Special Envoy for FDIs: The man for the job | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-f856b31e)
+- 2025-11-03 | `dailyftlk-79787f9e` | Does the Government know what it’s doing with Sinopec? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-79787f9e)
 - 2025-11-03 | `dailyftlk-8f551655` | IPS 2025 shows AKD how technology should be used for change and driving digital economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-8f551655)
 - 2025-11-03 | `dailyftlk-631c0e6e` | Cold chains, hot problems: Fixing Sri Lanka’s fisheries — from catch to export | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-631c0e6e)
 - 2025-11-03 | `dailyftlk-56d56be9` | From arrests to allies: How President Disanayake’s anti-drug drive seeks to rewrite Sri Lanka’s strategy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-56d56be9)
 - 2025-11-03 | `dailyftlk-b46d3a6d` | Willing to pay, unable to afford: Rethinking fair taxation in Sri Lanka’s 2026 Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-b46d3a6d)
+- 2025-11-03 | `virakesarilk-90ef7877` | தென் ஆபிரிக்காவை சிதறடித்தனர் வர்மா, ஷர்மா; இந்தியா முதல் தடவையாக மகளிர் உலக சம்பியனாகி வரலாறு படைத்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-90ef7877)
+- 2025-11-03 | `virakesarilk-e23b89ff` | ரி20  கிரிக்கெட்டில் ரோஹித் ஷர்மாவின் சாதனையை முறியடித்தார் பாபர் அசாம்;  தென் ஆபிரிக்காவை வீழ்த்தியது பாகிஸ்தான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-e23b89ff)
 - 2025-11-03 | `virakesarilk-dd11eca5` | அவுஸ்திரேலியாவுடனான ரி20 கிரிக்கெட் தொடரை இந்தியா சமப்படுத்தியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-dd11eca5)
 - 2025-11-02 | `adalk-4ed26a57` | මත්ද්‍රව්‍යයට එරෙහිව ගෙන යන සටන අවසන් කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-adalk-4ed26a57)
 - 2025-11-02 | `virakesarilk-fa2af019` | மன்னாருக்கு காற்றாலையை ஏற்றிச் சென்ற வாகனமொன்று திருகோணமலை துறைமுகத்தில் விபத்தில் சிக்கியது!! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-virakesarilk-fa2af019)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-02 | `lankadeepalk-7ba4d9dc` | සුළං පෙත්තත් සමග ලොරිය පෙරළිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-lankadeepalk-7ba4d9dc)
 - 2025-11-02 | `tamilmirrorlk-90b7be7b` | இசை நிகழ்ச்சியில் 31 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-tamilmirrorlk-90b7be7b)
 - 2025-11-02 | `virakesarilk-7d205ab7` | பாதுகாப்பு தேவைப்பட்டால் எம்.பி.க்கள் எழுத்து மூலம் கோரிக்கை வைக்கலாம் - பொலிஸ் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-virakesarilk-7d205ab7)
-- 2025-11-02 | `colombotelegraphcom-fa4a7f66` | Sri Lanka’s Northern Gateway: Economic Promise & Geopolitical Power In The Indian Ocean | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-colombotelegraphcom-fa4a7f66)
-- 2025-11-02 | `adalk-3bade29b` | වසර හතකට පසු ආයුර්වේදයට වැඩිම වෛද්‍යවරු පිරිසක් බඳවා ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-adalk-3bade29b)
-- 2025-11-02 | `adalk-d4f968e9` | මල්වතු මහ නාහිමියන්ගේ නම විකුණූ පුද්ගලයෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-adalk-d4f968e9)
-- 2025-11-02 | `adalk-137e0e3c` | ගාලු කොටුවේ රජයේ ඉඩම් පුදගලයන් 17ක් බලෙන් අල්ලාගෙන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-adalk-137e0e3c)
 
 ---
 
