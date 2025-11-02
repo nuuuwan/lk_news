@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-02 19:16:42",
-  "n_docs": 84351,
+  "time_updated": "2025-11-02 19:45:57",
+  "n_docs": 84354,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 84351,
+  "n_docs_with_text": 84354,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-02",
-  "dataset_size": 1250173296,
+  "dataset_size": 1250197095,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-02-adalk-528d4e78",
-    "num": "adalk-528d4e78",
+    "doc_id": "2025-11-02-adalk-d4f968e9",
+    "num": "adalk-d4f968e9",
     "date_str": "2025-11-02",
-    "description": "\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba\u0dda \u0dc0\u0dc4\u0dbd\u0dba\u0da7 \u0db4\u0ddc\u0dbd\u0dca \u0d85\u0dad\u0dd4 \u0dc3\u0dd9\u0dc0\u0dd2\u0dbd\u0dd2 \u0d9a\u0dc5 \u0d9c\u0dd9\u0dc0\u0dbd\u0dca 4051",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba\u0dda-\u0dc0\u0dc4\u0dbd\u0dba\u0da7-\u0db4\u0ddc\u0dbd\u0dca-\u0d85\u0dad\u0dd4-\u0dc3\u0dd9\u0dc0\u0dd2\u0dbd\u0dd2-\u0d9a\u0dc5-\u0d9c\u0dd9\u0dc0\u0dbd\u0dca-4051/11-419456",
+    "description": "\u0db8\u0dbd\u0dca\u0dc0\u0dad\u0dd4 \u0db8\u0dc4 \u0db1\u0dcf\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda \u0db1\u0db8 \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd6 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dbd\u0dca\u0dc0\u0dad\u0dd4-\u0db8\u0dc4-\u0db1\u0dcf\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0db1\u0dca\u0d9c\u0dda-\u0db1\u0db8-\u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd6-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-419458",
     "lang": "si",
     "newspaper_id": "adalk",
-    "time_ut": 1762089983.0
+    "time_ut": 1762091590.0
   }
 }
