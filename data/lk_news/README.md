@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_03:15:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_03:46:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,378** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,381** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-03-dailyftlk-f856b31e",
-    "num": "dailyftlk-f856b31e",
+    "doc_id": "2025-11-03-virakesarilk-074d5533",
+    "num": "virakesarilk-074d5533",
     "date_str": "2025-11-03",
-    "description": "Hanif Yusoof as President\u2019s Special Envoy for FDIs: The man for the job",
-    "url_metadata": "https://www.ft.lk/columns/Hanif-Yusoof-as-President-s-Special-Envoy-for-FDIs-The-man-for-the-job/4-783808",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1762115159.0
+    "description": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b90\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/229321",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1762121220.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `virakesarilk-074d5533` | யாழில் ஐஸ் போதைப்பொருளுடன் இளைஞர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-074d5533)
+- 2025-11-03 | `virakesarilk-c56b6a07` | மண்டபம் அருகே அரசால் தடை செய்யப்பட்ட 1360 கிலோ கடல் அட்டைகள் பறிமுதல்; கடலில் குதித்து தப்பித்த மர்ம நபர்களுக்கு வலைவீச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-c56b6a07)
+- 2025-11-03 | `tamilmirrorlk-ae17c373` | மல்வத்து மகாநாயக்க தேரரின் போலி மருமகன்‌ கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-ae17c373)
 - 2025-11-03 | `dailyftlk-f856b31e` | Hanif Yusoof as President’s Special Envoy for FDIs: The man for the job | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-f856b31e)
 - 2025-11-03 | `dailyftlk-79787f9e` | Does the Government know what it’s doing with Sinopec? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-79787f9e)
 - 2025-11-03 | `dailyftlk-8f551655` | IPS 2025 shows AKD how technology should be used for change and driving digital economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-8f551655)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-02 | `lankadeepalk-6a95f702` | “රටම එකට” මෙහෙයුම දින තුනට 3000ක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-lankadeepalk-6a95f702)
 - 2025-11-02 | `virakesarilk-10329866` | ஜனாதிபதி நிதியத்தால் க.பொ.த உயர்தர பரீட்சையில் சிறந்த பெறுபேறுகளை பெற்ற ஊவா மாகாண மாணவர்கள் கெளரவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-virakesarilk-10329866)
 - 2025-11-02 | `virakesarilk-512dd1c7` | மகளிர் ஐசிசி உலகக் கிண்ண இறுதிப் போட்டியில் தென் ஆபிரிக்காவுக்கு இந்தியா  நிர்ணயித்த வெற்றி இலக்கு 299 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-virakesarilk-512dd1c7)
-- 2025-11-02 | `lankadeepalk-7ba4d9dc` | සුළං පෙත්තත් සමග ලොරිය පෙරළිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-lankadeepalk-7ba4d9dc)
-- 2025-11-02 | `tamilmirrorlk-90b7be7b` | இசை நிகழ்ச்சியில் 31 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-tamilmirrorlk-90b7be7b)
-- 2025-11-02 | `virakesarilk-7d205ab7` | பாதுகாப்பு தேவைப்பட்டால் எம்.பி.க்கள் எழுத்து மூலம் கோரிக்கை வைக்கலாம் - பொலிஸ் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-virakesarilk-7d205ab7)
 
 ---
 
