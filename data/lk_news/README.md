@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--02_05:16:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--02_06:04:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,235** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,249** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-01-lankadeepalk-a4016c15",
-    "num": "lankadeepalk-a4016c15",
-    "date_str": "2025-11-01",
-    "description": "\u0d9a\u0ddd\u0da7\u0dd2\u0dba\u0d9a \u0db8\u0dcf\u0dc5\u0dd4 \u0db8\u0dcf \u0daf\u0dd0\u0dbd\u0d9a \u0db4\u0dd0\u0da7\u0dbd\u0dda",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0da7\u0dba\u0d9a-\u0db8\u0dc5-\u0db8-\u0daf\u0dbd\u0d9a-\u0db4\u0da7\u0dbd/1-682498",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1762017025.0
+    "doc_id": "2025-11-02-colombotelegraphcom-dbae6290",
+    "num": "colombotelegraphcom-dbae6290",
+    "date_str": "2025-11-02",
+    "description": "The Seelawathi Syndrome By Chandrarathna Bandara",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/the-seelawathi-syndrome-by-chandrarathna-bandara/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1762023285.0
 }
 ```
 
@@ -41,8 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-02 | `colombotelegraphcom-dbae6290` | The Seelawathi Syndrome By Chandrarathna Bandara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-colombotelegraphcom-dbae6290)
 - 2025-11-01 | `lankadeepalk-a4016c15` | කෝටියක මාළු මා දැලක පැටලේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-a4016c15)
 - 2025-11-01 | `lankadeepalk-7546f056` | පොලිස් රාජකාරියට බාධා කළ දෙමටගොඩ කතක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-7546f056)
+- 2025-11-01 | `islandlk-a316db25` | Shells that tell a story: Dr. Dinazard Raheem on Sri Lanka’s Ancient and Endangered Snails | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-islandlk-a316db25)
+- 2025-11-01 | `islandlk-f88640df` | Donald Stadtner’s Sacred Sites of Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-islandlk-f88640df)
+- 2025-11-01 | `islandlk-4525054d` | Reforming our constitution: Getting the basics right first | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-islandlk-4525054d)
+- 2025-11-01 | `islandlk-c864282e` | Nawaloka Hospitals sets new standard in liver diagnostics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-islandlk-c864282e)
+- 2025-11-01 | `islandlk-3c70518a` | C.W. Mackie PLC Partners with the World’s Largest Bearing Manufacturer, SKF | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-islandlk-3c70518a)
+- 2025-11-01 | `islandlk-175dba8c` | Thailand’s Queen Mother Sirikit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-islandlk-175dba8c)
 - 2025-11-01 | `lankadeepalk-a8d322c2` | පත්මේගේ ගිනිඅවිය ළඟ තබාගත් කෝටිපතියා අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-a8d322c2)
 - 2025-11-01 | `lankadeepalk-7c455478` | යතුරුපැදි-බස් අනතුරින් සරසවි සිසුවා මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-7c455478)
 - 2025-11-01 | `lankadeepalk-e6697e88` | කන්දකැටියේ ඉස්කෝලයකට වනඅලි පහරදීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-e6697e88)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-11-01 | `colombotelegraphcom-259b49b6` | Whither Battery Energy Storage System? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-colombotelegraphcom-259b49b6)
 - 2025-11-01 | `lankadeepalk-2b6ad30c` | පොලිසියේ තෑගි සිහිනය බොද වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-2b6ad30c)
 - 2025-11-01 | `lankadeepalk-fe8c677b` | රට රස්සා දෙනවා කියා කෝටි 74 කට පොලු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-fe8c677b)
-- 2025-11-01 | `adalk-b6e599f5` | මේ දක්වා සංචාරකයන් 1 878 557ක් ඇවිත් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-adalk-b6e599f5)
-- 2025-11-01 | `adalk-0dddb416` | උපෙළ උපකාරක පන්ති නොවැ. 04 දායින් අවසන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-adalk-0dddb416)
-- 2025-11-01 | `tamilmirrorlk-e399704d` | பெண் சட்டத்தரணியை தடுத்து வைத்து விசாரிக்க அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-e399704d)
-- 2025-11-01 | `tamilmirrorlk-68a0f6be` | உத்தியோகபூர்வ இல்லத்தில் இருந்து வெளியேறும் சந்திரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-tamilmirrorlk-68a0f6be)
-- 2025-11-01 | `virakesarilk-fbceb187` | புதுக்குடியிருப்பில்  ஆடை உற்பத்தி நிலையத்துக்கு  அபராதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-fbceb187)
-- 2025-11-01 | `virakesarilk-af9e7f00` | குச்சவெளி சபைத் தலைவர், அவரது பிரத்தியேக சாரதி ஆகியோருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-af9e7f00)
-- 2025-11-01 | `virakesarilk-9f2d6b05` | நாட்டில் அபிவிருத்தி கலாச்சாரத்திற்குப் பதிலாகப் பாதாள உலக கலாச்சாரமே நடைமுறையில் உள்ளது - எதிர்க்கட்சித் தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-virakesarilk-9f2d6b05)
 
 ---
 
