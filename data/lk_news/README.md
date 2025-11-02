@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--02_09:28:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--02_09:50:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,267** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,270** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.2 GB**), from **2021-09-12** to **2025-11-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-02-tamilmirrorlk-14710af5",
-    "num": "tamilmirrorlk-14710af5",
+    "doc_id": "2025-11-02-tamilmirrorlk-571c76b5",
+    "num": "tamilmirrorlk-571c76b5",
     "date_str": "2025-11-02",
-    "description": "\u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0bb5\u0bb3\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0b9e\u0bcd\u0b9a\u0bbe-\u0bb5\u0bb3\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/76-367189",
+    "description": "\u0b95\u0ba8\u0bcd\u0ba4\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bc8 \u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baf\u0bbe\u0ba9\u0bc8\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0ba8\u0bcd\u0ba4\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf-\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bc8-\u0b9a\u0bc7\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1-\u0baf\u0bbe\u0ba9\u0bc8\u0b95\u0bb3\u0bcd/76-367194",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1762055316.0
+    "time_ut": 1762056998.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-02 | `tamilmirrorlk-571c76b5` | கந்தகெட்டிய பாடசாலையை சேதப்படுத்திய காட்டு யானைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-tamilmirrorlk-571c76b5)
+- 2025-11-02 | `tamilmirrorlk-c2599832` | நிந்தவூர், ஓட்டமாவடி தவிசாளர்கள் உறுப்புரிமையை இழந்தனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-tamilmirrorlk-c2599832)
+- 2025-11-02 | `tamilmirrorlk-ee328bdd` | கோடி ரூபாய் மதிப்பிலான மீன்கள் சிக்கின | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-tamilmirrorlk-ee328bdd)
 - 2025-11-02 | `tamilmirrorlk-14710af5` | கஞ்சா வளர்த்த தொழிலாளி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-tamilmirrorlk-14710af5)
 - 2025-11-02 | `virakesarilk-ffcf74a5` | எமது ஆட்சி காலங்களில் எதிர்க்கட்சிகள் திரைமறைவில் ஒத்துழைப்பு வழங்கின : நாமல் ராஜபக்ஷ தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-virakesarilk-ffcf74a5)
 - 2025-11-02 | `virakesarilk-80b3804c` | ஐ.நா வெளியகப் பொறிமுறை தொடர்பில் முறைப்பாடு உத்தியோகபூர்வமாக ஆராய்வதாக ஐ.நா. உள்ளகக் கண்காணிப்பு அலுவலகம் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-virakesarilk-80b3804c)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-02 | `tamilmirrorlk-19cd4c83` | 100 கிலோ கஞ்சாவுடன் நால்வர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-tamilmirrorlk-19cd4c83)
 - 2025-11-02 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-virakesarilk-3a015e4a)
 - 2025-11-02 | `bbccomsinhala-45efddbf` | මාධ්‍යවේදීන්ට එරෙහි නොවිසඳුණු අපරාධ පිළිබඳ නඩු හා විමර්ශන නතර වී ඇත්තේ කොතැන ද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-bbccomsinhala-45efddbf)
-- 2025-11-02 | `colombotelegraphcom-dbae6290` | The Seelawathi Syndrome By Chandrarathna Bandara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-colombotelegraphcom-dbae6290)
-- 2025-11-01 | `lankadeepalk-a4016c15` | කෝටියක මාළු මා දැලක පැටලේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-a4016c15)
-- 2025-11-01 | `lankadeepalk-7546f056` | පොලිස් රාජකාරියට බාධා කළ දෙමටගොඩ කතක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-01-lankadeepalk-7546f056)
 
 ---
 
