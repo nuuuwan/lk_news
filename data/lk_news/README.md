@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_05:15:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_06:02:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,381** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,409** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-03-virakesarilk-074d5533",
-    "num": "virakesarilk-074d5533",
+    "doc_id": "2025-11-03-virakesarilk-6cc3da45",
+    "num": "virakesarilk-6cc3da45",
     "date_str": "2025-11-03",
-    "description": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b90\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/229321",
+    "description": "\u0bb9\u0bca\u0bb0\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1 - \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/229331",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1762121220.0
+    "time_ut": 1762128720.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `virakesarilk-6cc3da45` | ஹொரணையில் துப்பாக்கிச் சூடு - ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-6cc3da45)
+- 2025-11-03 | `dailyftlk-31cd582b` | President calls on Maha Sangha to back national anti-drug drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-31cd582b)
+- 2025-11-03 | `dailyftlk-419c724f` | Golden Jubilee celebration of diplomatic relations between Holy See and Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-419c724f)
+- 2025-11-03 | `dailyftlk-d0c43115` | Navy seize Rs. 5 b worth of drugs in deep sea operation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-d0c43115)
+- 2025-11-03 | `dailyftlk-f7b197d3` | Sathosa says onion purchases not rejected based on size | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-f7b197d3)
+- 2025-11-03 | `dailyftlk-bc61c5ff` | Sri Lanka participates in Beautyworld Middle East 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-bc61c5ff)
+- 2025-11-03 | `dailyftlk-813e05d3` | Empowering women-led exporters with trade data insights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-813e05d3)
+- 2025-11-03 | `dailyftlk-dae37f91` | IDL and East India Holdings commit to Northern economic revival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-dae37f91)
+- 2025-11-03 | `dailyftlk-1f98a8b8` | Bureau Veritas Lanka achieves Gold at Presidential Environment Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-1f98a8b8)
+- 2025-11-03 | `dailyftlk-a6cddc04` | Senthilverl Holdings increases stake in C M Holdings above 10% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-a6cddc04)
+- 2025-11-03 | `virakesarilk-8cf986b4` | ஊடகத்தினருக்காக “மூன்றாவது கண்ணுக்கு சிகிச்சை” எனும் சிறப்பு கண் சிகிச்சை முகாம் கொழும்பில் நடத்தப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-8cf986b4)
+- 2025-11-03 | `dailyftlk-fcc8a8d7` | Oration tomorrow to mark 100th birth anniversary of Dr. Gamani Corea | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-fcc8a8d7)
+- 2025-11-03 | `virakesarilk-17683554` | உல­க­ளா­விய இந்­திய வம்­சா­வளி (கோபியோ) அமைப்பின் 25ஆவது வருட பூர்த்தி விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-17683554)
+- 2025-11-03 | `virakesarilk-86599d53` | யட்டியந்தோட்டையில் கொதிகலன் வெடித்ததில் ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-86599d53)
+- 2025-11-03 | `virakesarilk-3b9e09e8` | அனைத்துப் பழச்சாறு பானங்களுக்கும் இலங்கைத் தரச் சான்றிதழ் கட்டாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-3b9e09e8)
+- 2025-11-03 | `virakesarilk-940f15e6` | வருட நிறைவுக்குள் இறுதி தீர்மானம் எடுக்க முடியாது மாகாண சபைத் தேர்தல் தொடர்பில் அமைச்சர் சந்தன அபயரத்ன தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-940f15e6)
+- 2025-11-03 | `virakesarilk-67c87cf9` | பாடசாலை நேரத்தினை நீடிப்பதை எழுத்துமூலமாக எதிர்த்துள்ளோம் - ஜோசப் ஸ்டாலின் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-67c87cf9)
+- 2025-11-03 | `virakesarilk-f462a52c` | உயர்தர பரீட்சையை முன்னிட்டு டிசம்பர் 7ஆம் திகதி வரை அனைத்து பாடசாலைகளுக்கும் விடுமுறை – கல்வி அமைச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-f462a52c)
+- 2025-11-03 | `virakesarilk-70c8308d` | எம்.பிக்கள் துப்பாக்கி கேட்பது குறித்து அரசாங்கம் பரிசீலிக்க வேண்டும் - சிறிதரன் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-70c8308d)
 - 2025-11-03 | `virakesarilk-074d5533` | யாழில் ஐஸ் போதைப்பொருளுடன் இளைஞர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-074d5533)
-- 2025-11-03 | `virakesarilk-c56b6a07` | மண்டபம் அருகே அரசால் தடை செய்யப்பட்ட 1360 கிலோ கடல் அட்டைகள் பறிமுதல்; கடலில் குதித்து தப்பித்த மர்ம நபர்களுக்கு வலைவீச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-c56b6a07)
-- 2025-11-03 | `tamilmirrorlk-ae17c373` | மல்வத்து மகாநாயக்க தேரரின் போலி மருமகன்‌ கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-ae17c373)
-- 2025-11-03 | `dailyftlk-f856b31e` | Hanif Yusoof as President’s Special Envoy for FDIs: The man for the job | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-f856b31e)
-- 2025-11-03 | `dailyftlk-79787f9e` | Does the Government know what it’s doing with Sinopec? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-79787f9e)
-- 2025-11-03 | `dailyftlk-8f551655` | IPS 2025 shows AKD how technology should be used for change and driving digital economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-8f551655)
-- 2025-11-03 | `dailyftlk-631c0e6e` | Cold chains, hot problems: Fixing Sri Lanka’s fisheries — from catch to export | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-631c0e6e)
-- 2025-11-03 | `dailyftlk-56d56be9` | From arrests to allies: How President Disanayake’s anti-drug drive seeks to rewrite Sri Lanka’s strategy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-56d56be9)
-- 2025-11-03 | `dailyftlk-b46d3a6d` | Willing to pay, unable to afford: Rethinking fair taxation in Sri Lanka’s 2026 Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-b46d3a6d)
-- 2025-11-03 | `virakesarilk-90ef7877` | தென் ஆபிரிக்காவை சிதறடித்தனர் வர்மா, ஷர்மா; இந்தியா முதல் தடவையாக மகளிர் உலக சம்பியனாகி வரலாறு படைத்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-90ef7877)
-- 2025-11-03 | `virakesarilk-e23b89ff` | ரி20  கிரிக்கெட்டில் ரோஹித் ஷர்மாவின் சாதனையை முறியடித்தார் பாபர் அசாம்;  தென் ஆபிரிக்காவை வீழ்த்தியது பாகிஸ்தான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-e23b89ff)
-- 2025-11-03 | `virakesarilk-dd11eca5` | அவுஸ்திரேலியாவுடனான ரி20 கிரிக்கெட் தொடரை இந்தியா சமப்படுத்தியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-dd11eca5)
-- 2025-11-02 | `adalk-4ed26a57` | මත්ද්‍රව්‍යයට එරෙහිව ගෙන යන සටන අවසන් කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-adalk-4ed26a57)
-- 2025-11-02 | `virakesarilk-fa2af019` | மன்னாருக்கு காற்றாலையை ஏற்றிச் சென்ற வாகனமொன்று திருகோணமலை துறைமுகத்தில் விபத்தில் சிக்கியது!! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-virakesarilk-fa2af019)
-- 2025-11-02 | `virakesarilk-6bff8e2c` | 14 வயதுக்குட்பட்ட சிறுமிகள் தட்டெறிதல் போட்டி சுண்டிக்குளி மகளிர் கல்லூரியின் ஆயிலை முதலிடம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-virakesarilk-6bff8e2c)
-- 2025-11-02 | `lankadeepalk-3e7727ff` | මාස 10ට වාහන 250000 ගෙන්නලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-lankadeepalk-3e7727ff)
-- 2025-11-02 | `lankadeepalk-22b4697a` | විෂ මත මඩින්න මහ සඟරුවනේ උදව් ඕනෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-lankadeepalk-22b4697a)
-- 2025-11-02 | `lankadeepalk-6a95f702` | “රටම එකට” මෙහෙයුම දින තුනට 3000ක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-lankadeepalk-6a95f702)
-- 2025-11-02 | `virakesarilk-10329866` | ஜனாதிபதி நிதியத்தால் க.பொ.த உயர்தர பரீட்சையில் சிறந்த பெறுபேறுகளை பெற்ற ஊவா மாகாண மாணவர்கள் கெளரவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-virakesarilk-10329866)
-- 2025-11-02 | `virakesarilk-512dd1c7` | மகளிர் ஐசிசி உலகக் கிண்ண இறுதிப் போட்டியில் தென் ஆபிரிக்காவுக்கு இந்தியா  நிர்ணயித்த வெற்றி இலக்கு 299 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-02-virakesarilk-512dd1c7)
 
 ---
 
