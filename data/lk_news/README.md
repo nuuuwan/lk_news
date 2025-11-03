@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_09:10:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_09:32:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,423** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,426** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-03-tamilmirrorlk-ed304fe4",
-    "num": "tamilmirrorlk-ed304fe4",
+    "doc_id": "2025-11-03-virakesarilk-16118ce0",
+    "num": "virakesarilk-16118ce0",
     "date_str": "2025-11-03",
-    "description": "\u0bb5\u0b9f \u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd 35 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0b9f-\u0baa\u0b95\u0bc1\u0ba4\u0bbf-\u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd-35-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-367242",
+    "description": "\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0b9f\u0bc8\u0baf\u0bc2\u0bb1\u0bc1 \u0bb5\u0bbf\u0bb3\u0bc8\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4 05 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 !",
+    "url_metadata": "https://www.virakesari.lk/article/229333",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1762140054.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1762141200.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `virakesarilk-16118ce0` | பொலிஸாரின் கடமைக்கு இடையூறு விளைவித்த 05 சந்தேகநபர்கள் கைது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-16118ce0)
+- 2025-11-03 | `virakesarilk-7f72b2ae` | தபால் ஊழியர் இன்மையால் தாமதமடையும் கடிதங்கள் -  மக்கள் ஆர்ப்பாட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-7f72b2ae)
+- 2025-11-03 | `virakesarilk-87abf580` | அட்டன் - கித்துல்கல வீதியில் விபத்து; ஒருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-87abf580)
 - 2025-11-03 | `tamilmirrorlk-ed304fe4` | வட பகுதி கடலில் 35 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-ed304fe4)
 - 2025-11-03 | `tamilmirrorlk-bc5d574f` | வெப்பநிலை குறித்து மக்களுக்கு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-bc5d574f)
 - 2025-11-03 | `tamilmirrorlk-2bcbc6bf` | கிளிநொச்சியில் விசேட அதிரடிப்படையினர் மீது தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-2bcbc6bf)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-03 | `dailyftlk-419c724f` | Golden Jubilee celebration of diplomatic relations between Holy See and Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-419c724f)
 - 2025-11-03 | `dailyftlk-d0c43115` | Navy seize Rs. 5 b worth of drugs in deep sea operation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-d0c43115)
 - 2025-11-03 | `dailyftlk-f7b197d3` | Sathosa says onion purchases not rejected based on size | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-f7b197d3)
-- 2025-11-03 | `dailyftlk-bc61c5ff` | Sri Lanka participates in Beautyworld Middle East 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-bc61c5ff)
-- 2025-11-03 | `dailyftlk-813e05d3` | Empowering women-led exporters with trade data insights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-813e05d3)
-- 2025-11-03 | `dailyftlk-dae37f91` | IDL and East India Holdings commit to Northern economic revival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-dae37f91)
 
 ---
 
