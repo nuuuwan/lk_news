@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_12:48:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_13:17:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,473** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,474** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-03-virakesarilk-51020035",
-    "num": "virakesarilk-51020035",
+    "doc_id": "2025-11-03-lankadeepalk-b92146ff",
+    "num": "lankadeepalk-b92146ff",
     "date_str": "2025-11-03",
-    "description": "\u0b95\u0bc6\u0ba9\u0bcd\u0baf \u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1: 26 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf ; \u0baa\u0bb2\u0bb0\u0bcd \u0bae\u0bbe\u0baf\u0bae\u0bcd - \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bc0\u0bb5\u0bbf\u0bb0\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/229362",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1762153800.0
+    "description": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0dd9\u0db1\u0dca \u0d8c\u0dc0\u0dda \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da7\u0dad\u0dca \u0dc3\u0dc4\u0db1",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0da2\u0db1\u0db4\u0dad-\u0d85\u0dbb\u0db8\u0daf\u0dbd\u0db1-\u0d8c\u0dc0-\u0daf\u0dbb\u0dc0\u0db1\u0da7\u0dad-\u0dc3\u0dc4\u0db1/1-682583",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1762155635.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `lankadeepalk-b92146ff` | ජනපති අරමුදලෙන් ඌවේ දරුවන්ටත් සහන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-b92146ff)
 - 2025-11-03 | `virakesarilk-51020035` | கென்ய மண்சரிவு: 26 பேர் பலி ; பலர் மாயம் - மீட்புப் பணிகள் தீவிரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-51020035)
 - 2025-11-03 | `virakesarilk-64394753` | சரிகமப இறுதிச்சுற்றில் அம்பாறை பாடகர் சுகிர்தராஜா சபேசன் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-64394753)
 - 2025-11-03 | `virakesarilk-1eda9ee8` | வத்திக்கான் வெளிவிவகார அமைச்சர் - பேராயர் மெல்கம் கர்தினால் ரஞ்சித் ஆண்டகையை சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-1eda9ee8)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-03 | `virakesarilk-82607c12` | “முழு நாடுமே ஒன்றாக” போதைப்பொருள் சுற்றிவளைப்பில் 1282 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-82607c12)
 - 2025-11-03 | `tamilmirrorlk-4f642949` | போலி கத்தோலிக்க குருவுக்கு நடந்த கதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-4f642949)
 - 2025-11-03 | `virakesarilk-3a4819df` | வடமாகாணத்தில் இருந்து முஸ்லிம்கள் வெளியேற்றத்துக்கு பிறகு கடந்துவிட்ட 35 வருடங்கள் - 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-3a4819df)
-- 2025-11-03 | `tamilmirrorlk-8aa9ae3c` | 2025 A/L பரீட்சார்த்திகளுக்கான அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-8aa9ae3c)
 
 ---
 
