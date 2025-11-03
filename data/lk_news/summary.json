@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-04 00:46:10",
-  "n_docs": 84585,
+  "time_updated": "2025-11-04 01:15:15",
+  "n_docs": 84589,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 84585,
+  "n_docs_with_text": 84589,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-04",
-  "dataset_size": 1254039962,
+  "dataset_size": 1254071737,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-04-dailyftlk-504d309a",
-    "num": "dailyftlk-504d309a",
+    "doc_id": "2025-11-04-dailyftlk-4a90343b",
+    "num": "dailyftlk-4a90343b",
     "date_str": "2025-11-04",
-    "description": "So now we have to pay Rs. 5 for the bag too?",
-    "url_metadata": "https://www.ft.lk/columns/So-now-we-have-to-pay-Rs-5-for-the-bag-too/4-783862",
+    "description": "SolarIT Solutions acquires Sri Lanka\u2019s Tetris.lk",
+    "url_metadata": "https://www.ft.lk/business/SolarIT-Solutions-acquires-Sri-Lanka-s-Tetris-lk/34-783867",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762196009.0
+    "time_ut": 1762198751.0
   }
 }
