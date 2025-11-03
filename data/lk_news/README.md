@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_17:51:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_18:28:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,537** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,553** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-03-lankadeepalk-476f9a5f",
-    "num": "lankadeepalk-476f9a5f",
+    "doc_id": "2025-11-03-lankadeepalk-bd6a7b08",
+    "num": "lankadeepalk-bd6a7b08",
     "date_str": "2025-11-03",
-    "description": "\u0d89\u0d82\u0da2\u0dd2\u0db1\u0dda\u0dbb\u0dd4 \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0da7 \u0d87\u0db4",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d89\u0da2\u0db1\u0dbb-\u0dc3\u0dc3\u0dae\u0dc0-\u0dc4\u0da7\u0db4-\u0d85\u0db0\u0dba\u0d9a\u0dc2\u0da7-\u0d87\u0db4/101-682609",
+    "description": "\u0dbb\u0da7 \u0db4\u0dd4\u0dbb\u0dcf \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0db1\u0dca\u0da7 \u0db1\u0ddc\u0db8\u0dd2\u0dbd\u0dda \u0dbb\u0ddd\u0d9c \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dbb\u0da7-\u0db4\u0dbb-\u0d9a\u0db1\u0dad\u0dc0\u0db1\u0da7-\u0db1\u0db8\u0dbd-\u0dbb\u0d9c-\u0db4\u0dbb\u0d9a\u0dc2\u0dc0\u0d9a/101-682612",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1762170988.0
+    "time_ut": 1762174087.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `lankadeepalk-bd6a7b08` | රට පුරා කාන්තාවන්ට නොමිලේ රෝග පරීක්ෂාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-bd6a7b08)
+- 2025-11-03 | `lankadeepalk-c89aba5f` | හැඳුනුම්පත් එක් දින සේවය වයඹට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-c89aba5f)
+- 2025-11-03 | `virakesarilk-f33668af` | மட்டக்களப்பில் இரு வேறு பிரதேசங்களில் போதைப்பொருள், கசிப்பு விற்பனையில் ஈடுபட்ட இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-f33668af)
+- 2025-11-03 | `lankadeepalk-e6341f8b` | රාජ්‍ය සේවා පත්වීම් වල වැඩි පංගුවක් සෞඛ්‍යට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-e6341f8b)
+- 2025-11-03 | `virakesarilk-d7e7eb63` | ஆட்பதிவு திணைக்களத்தின் வடமேல் மாகாண அலுவலகத்தின் ஒருநாள் சேவை கடமைகள் இன்று ஆரம்பம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-d7e7eb63)
+- 2025-11-03 | `virakesarilk-39144ced` | நடிகர் ஆனந்தராஜ் நடித்திருக்கும் 'மெட்ராஸ் மாஃபியா கம்பனி' படத்தின் இசை மற்றும் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-39144ced)
+- 2025-11-03 | `virakesarilk-3be8818f` | சித்தார்த் நடிக்கும் 'ஆபரேஷன் சஃபேத் சாகர் ' இணையத் தொடரின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-3be8818f)
+- 2025-11-03 | `virakesarilk-75308430` | மீண்டும் வெளியாகும் சேரனின் 'ஆட்டோகிராப் ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-75308430)
+- 2025-11-03 | `virakesarilk-4fd4c48d` | யூடியூபர் சாலிய டி ரணவக்க தாய்லாந்தில் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-4fd4c48d)
 - 2025-11-03 | `lankadeepalk-476f9a5f` | ඉංජිනේරු සංස්ථාවේ හිටපු අධ්‍යක්ෂට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-476f9a5f)
+- 2025-11-03 | `virakesarilk-3ff16a16` | தலவாக்கலை தமிழ் மகா வித்தியாலயத்திற்கான கேட்போர் கூடம் நிர்மாணிப்பதற்கு அடிக்கல் நாட்டு விழா! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-3ff16a16)
 - 2025-11-03 | `lankadeepalk-3eaafd4b` | භික්ෂුණියකට තර්ජනය කළ දෙදෙනෙකු අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-3eaafd4b)
 - 2025-11-03 | `lankadeepalk-34cad496` | හොර සහතික දුන් විදෙස් රැකියා පුහුණු ආයතනයක් තහනම් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-34cad496)
+- 2025-11-03 | `virakesarilk-7da47a2a` | பனங்கட்டிகொட்டு மீனவர்சங்கத்தை சந்தித்தார் துரைராசா ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-7da47a2a)
 - 2025-11-03 | `lankadeepalk-c7d2c605` | සමිද්ධි සමරකෝන්ට තනතුරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-c7d2c605)
 - 2025-11-03 | `tamilmirrorlk-ddb66c94` | செம்மணி  3ஆம் கட்ட  அகழாய்வு  2026 இல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-ddb66c94)
-- 2025-11-03 | `tamilmirrorlk-20f667a3` | விரிவுரையாளரின் பாலியல் வன்கொடுமை: சுயாதீன விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-20f667a3)
-- 2025-11-03 | `virakesarilk-814c9f13` | உள்நாட்டு ஆயுர்வேத சேவைக்கு 303 புதிய மருத்துவர்கள் நியமனம் - நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-814c9f13)
-- 2025-11-03 | `virakesarilk-52ae688a` | “கணேமுல்ல சஞ்சீவ”வின் கொலைக்கு பின்னால் ஐவர் உள்ளனர் - இஷாரா செவ்வந்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-52ae688a)
-- 2025-11-03 | `adalk-abfc425a` | ’සමපෝෂ’  අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-adalk-abfc425a)
-- 2025-11-03 | `tamilmirrorlk-bcea086f` | கடல்சார் ஒத்துழைப்புக்கு சவூதியுடன் பேச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-bcea086f)
-- 2025-11-03 | `virakesarilk-a25198e8` | இலங்கை சுங்கத்தின் வருமானம் மற்றும் செயலாற்றுகை குறித்து ஆராய்ந்த வழிவகைகள் பற்றிய குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-a25198e8)
-- 2025-11-03 | `tamilmirrorlk-a7f3782e` | யாழ் இளைஞர்களை இலக்கு வைத்த இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-a7f3782e)
-- 2025-11-03 | `virakesarilk-f0e7eab1` | கஞ்சா பயிரிட ஆறு நிறுவனங்களுக்கு பச்சைக்கொடி காட்டப்பட்டுள்ளதாக ஓமல்பே சோபித்த தேரர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-f0e7eab1)
-- 2025-11-03 | `virakesarilk-0e53e46b` | தமிழ் மக்கள் கூட்டணியின் அலுவலகம் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-0e53e46b)
-- 2025-11-03 | `tamilmirrorlk-f7986f4c` | இரண்டு முன்னாள் உயர் அதிகாரிகள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-f7986f4c)
-- 2025-11-03 | `tamilmirrorlk-70dce16a` | ஏலத்திற்கு புதிய டிஜிட்டல் முறைமை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-70dce16a)
-- 2025-11-03 | `virakesarilk-c69b7091` | களனிப் பல்கலைக்கழகத்தில் 'பங்கேற்பு ஜனநாயகம்' கற்கைநெறி ஆரம்பம் - அரச கிராமிய கள அதிகாரிகளுக்கு 40,000 ரூபா பெறுமதியான 100 புலமைப்பரிசில்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-c69b7091)
-- 2025-11-03 | `virakesarilk-80e89619` | நவ சம சமாஜ கட்சியின் அரசியல் குழு உறுப்பினர் வல்லிபுரம் திருநாவுக்கரசு காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-80e89619)
-- 2025-11-03 | `virakesarilk-7d5c4bef` | 19 வயதுக்குட்பட்ட பெண்களுக்கான CAVA கரப்பந்தாட்டம் ; இலங்கை, கிர்கிஸ்தான், மாலைதீவுகள், நேபாளம் பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-7d5c4bef)
-- 2025-11-03 | `tamilmirrorlk-755d139a` | தமிழக மீனவர்கள் 35 பேர் கைது:   விஜய் அதிரடி கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-755d139a)
+- 2025-11-03 | `virakesarilk-e34bd94a` | Singer - MCA சுப்பர் பிறீமியர் லீக் கிரிக்கெட் : மெலிபன் பிஸ்கட்ஸ் நொக் அவுட் சம்பியனானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-e34bd94a)
+- 2025-11-03 | `virakesarilk-492898fe` | பாதாள உலக கும்பலைச் சேர்ந்த “சமபோஷ” கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-492898fe)
+- 2025-11-03 | `virakesarilk-49e2da5b` | தமிழ் அரசியல் கட்சிகள் தமிழ் மக்களை ஒரு தேசமாக காட்டி எழுப்புகின்ற வரலாற்று பயணத்தை சரியாக மேற்கொள்ளவில்லை ; சட்டத்தரணி மணிவண்ணன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-49e2da5b)
+- 2025-11-03 | `virakesarilk-7a0c4974` | வவுனியா மாநகரசபையால் அங்காடி வியாபாரிகளுக்கு 135 கடை ஒதுக்கீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-7a0c4974)
 
 ---
 
