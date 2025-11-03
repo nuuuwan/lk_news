@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_17:15:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_17:51:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,532** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,537** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-03-lankadeepalk-c7d2c605",
-    "num": "lankadeepalk-c7d2c605",
+    "doc_id": "2025-11-03-lankadeepalk-476f9a5f",
+    "num": "lankadeepalk-476f9a5f",
     "date_str": "2025-11-03",
-    "description": "\u0dc3\u0db8\u0dd2\u0daf\u0dca\u0db0\u0dd2 \u0dc3\u0db8\u0dbb\u0d9a\u0ddd\u0db1\u0dca\u0da7 \u0dad\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc3\u0db8\u0daf\u0db0-\u0dc3\u0db8\u0dbb\u0d9a\u0db1\u0da7-\u0dad\u0db1\u0dad\u0dbb\u0d9a/101-682606",
+    "description": "\u0d89\u0d82\u0da2\u0dd2\u0db1\u0dda\u0dbb\u0dd4 \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dda \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2\u0da7 \u0d87\u0db4",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d89\u0da2\u0db1\u0dbb-\u0dc3\u0dc3\u0dae\u0dc0-\u0dc4\u0da7\u0db4-\u0d85\u0db0\u0dba\u0d9a\u0dc2\u0da7-\u0d87\u0db4/101-682609",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1762169965.0
+    "time_ut": 1762170988.0
 }
 ```
 
@@ -41,11 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `lankadeepalk-476f9a5f` | ඉංජිනේරු සංස්ථාවේ හිටපු අධ්‍යක්ෂට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-476f9a5f)
+- 2025-11-03 | `lankadeepalk-3eaafd4b` | භික්ෂුණියකට තර්ජනය කළ දෙදෙනෙකු අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-3eaafd4b)
+- 2025-11-03 | `lankadeepalk-34cad496` | හොර සහතික දුන් විදෙස් රැකියා පුහුණු ආයතනයක් තහනම් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-34cad496)
 - 2025-11-03 | `lankadeepalk-c7d2c605` | සමිද්ධි සමරකෝන්ට තනතුරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-c7d2c605)
 - 2025-11-03 | `tamilmirrorlk-ddb66c94` | செம்மணி  3ஆம் கட்ட  அகழாய்வு  2026 இல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-ddb66c94)
 - 2025-11-03 | `tamilmirrorlk-20f667a3` | விரிவுரையாளரின் பாலியல் வன்கொடுமை: சுயாதீன விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-20f667a3)
 - 2025-11-03 | `virakesarilk-814c9f13` | உள்நாட்டு ஆயுர்வேத சேவைக்கு 303 புதிய மருத்துவர்கள் நியமனம் - நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-814c9f13)
 - 2025-11-03 | `virakesarilk-52ae688a` | “கணேமுல்ல சஞ்சீவ”வின் கொலைக்கு பின்னால் ஐவர் உள்ளனர் - இஷாரா செவ்வந்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-52ae688a)
+- 2025-11-03 | `adalk-abfc425a` | ’සමපෝෂ’  අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-adalk-abfc425a)
 - 2025-11-03 | `tamilmirrorlk-bcea086f` | கடல்சார் ஒத்துழைப்புக்கு சவூதியுடன் பேச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-bcea086f)
 - 2025-11-03 | `virakesarilk-a25198e8` | இலங்கை சுங்கத்தின் வருமானம் மற்றும் செயலாற்றுகை குறித்து ஆராய்ந்த வழிவகைகள் பற்றிய குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-a25198e8)
 - 2025-11-03 | `tamilmirrorlk-a7f3782e` | யாழ் இளைஞர்களை இலக்கு வைத்த இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-a7f3782e)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-03 | `virakesarilk-80e89619` | நவ சம சமாஜ கட்சியின் அரசியல் குழு உறுப்பினர் வல்லிபுரம் திருநாவுக்கரசு காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-80e89619)
 - 2025-11-03 | `virakesarilk-7d5c4bef` | 19 வயதுக்குட்பட்ட பெண்களுக்கான CAVA கரப்பந்தாட்டம் ; இலங்கை, கிர்கிஸ்தான், மாலைதீவுகள், நேபாளம் பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-7d5c4bef)
 - 2025-11-03 | `tamilmirrorlk-755d139a` | தமிழக மீனவர்கள் 35 பேர் கைது:   விஜய் அதிரடி கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-755d139a)
-- 2025-11-03 | `tamilmirrorlk-3ae537c9` | சமூக ஊடக ஆர்வலர் சாலிய கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-3ae537c9)
-- 2025-11-03 | `lankadeepalk-c0fac921` | මන්ත්‍රීලාට පිස්තෝල දෙන්නේ මෙහෙමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-c0fac921)
-- 2025-11-03 | `virakesarilk-0bb70d0f` | அலி ரொஷானின் பிணை மனு மீதான விசாரணை டிசம்பர் மாதம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-0bb70d0f)
-- 2025-11-03 | `tamilmirrorlk-2e2525f6` | வடக்கு, கிழக்கில்  அலங்கார  மீன் உற்பத்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-2e2525f6)
 
 ---
 
