@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_23:18:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_23:48:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,577** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,581** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-03-tamilmirrorlk-47e1cc60",
-    "num": "tamilmirrorlk-47e1cc60",
+    "doc_id": "2025-11-03-tamilmirrorlk-9146b1b6",
+    "num": "tamilmirrorlk-9146b1b6",
     "date_str": "2025-11-03",
-    "description": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1? \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1-\u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf-\u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd/175-367306",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 250,000 \u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd-250-000-\u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf/175-367307",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1762190517.0
+    "time_ut": 1762192001.0
 }
 ```
 
@@ -41,7 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `tamilmirrorlk-9146b1b6` | இலங்கையில் சுமார் 250,000 வாகனங்கள் இறக்குமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-9146b1b6)
 - 2025-11-03 | `tamilmirrorlk-47e1cc60` | பாடசாலை நேரத்தை அதிகரிக்கும் முடிவு எப்படி எடுக்கப்பட்டது? பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-47e1cc60)
+- 2025-11-03 | `virakesarilk-081e167e` | யாழில். பேருந்துக்காக காத்திருந்த இராணுவ பெண் சிப்பாயின் கைப்பையை திருடியவர் ஐஸ் போதைப்பொருளுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-081e167e)
 - 2025-11-03 | `lankadeepalk-3c63ea35` | ඉර පැන්න ඉන්දීය ධීවරයන් 35ක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-3c63ea35)
 - 2025-11-03 | `lankadeepalk-3c76d632` | කින්නියා තවත් ගවයන් හතර දෙනකු කපා දමලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-3c76d632)
 - 2025-11-03 | `lankadeepalk-7926f573` | විශ්වවිද්‍යාල කොමිස මටත් ඇමති බංගලාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-7926f573)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-03 | `adalk-129c9129` | මධ්‍යම අධිවේගයේ ඉදිකිරිම් හේතුවෙන් කොළඹ නුවර පාරේ මංතීරුවක් වසා තැබෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-adalk-129c9129)
 - 2025-11-03 | `lankadeepalk-ba14d8bc` | ජාතික ලොතරැයි මණ්ඩලය ආදායම් ඉලක්කය ඉක්මවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-ba14d8bc)
 - 2025-11-03 | `virakesarilk-ad8f922e` | புட்டபர்த்தி சாய்பாபாவின் புகழைப் போற்றும் 'அனந்தா ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-ad8f922e)
-- 2025-11-03 | `virakesarilk-8e2b0cf0` | அறிமுக நடிகர் மதி நடிக்கும் 'கும்கி 2' படத்தின் முதல் பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-8e2b0cf0)
-- 2025-11-03 | `virakesarilk-40725d26` | இயக்குநர் லோகேஷ் கனகராஜ் நடிக்கும் 'டி சி ' ( D C) படத்தின் பிரத்யேக காணொளி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-40725d26)
 
 ---
 
