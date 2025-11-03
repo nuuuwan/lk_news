@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_09:32:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_09:52:46-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,426** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,427** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,7 @@ A collection of lk_news documents.
 - 2025-11-03 | `tamilmirrorlk-bc5d574f` | வெப்பநிலை குறித்து மக்களுக்கு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-bc5d574f)
 - 2025-11-03 | `tamilmirrorlk-2bcbc6bf` | கிளிநொச்சியில் விசேட அதிரடிப்படையினர் மீது தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-2bcbc6bf)
 - 2025-11-03 | `tamilmirrorlk-8b5ea065` | போதைப்பொருளுடன் ஐந்து இளைஞர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-8b5ea065)
+- 2025-11-03 | `adalk-629c78c1` | STF නිලධාරීන්ට පහරදී සැකකරුවෙක් බලෙන් මුදවාගෙන යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-adalk-629c78c1)
 - 2025-11-03 | `adalk-d74da0f2` | කාන්තා එක්දින ක්‍රිකට් ලෝක කුසලානය ඉන්දියාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-adalk-d74da0f2)
 - 2025-11-03 | `adalk-640de022` | වෙඩි තැබීමකින් පුද්ගලයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-adalk-640de022)
 - 2025-11-03 | `lankadeepalk-e77dbd83` | ඇෆ්ගනිස්ථානයට ප්‍රබල භූ කම්පනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-e77dbd83)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-03 | `dailyftlk-31cd582b` | President calls on Maha Sangha to back national anti-drug drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-31cd582b)
 - 2025-11-03 | `dailyftlk-419c724f` | Golden Jubilee celebration of diplomatic relations between Holy See and Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-419c724f)
 - 2025-11-03 | `dailyftlk-d0c43115` | Navy seize Rs. 5 b worth of drugs in deep sea operation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-d0c43115)
-- 2025-11-03 | `dailyftlk-f7b197d3` | Sathosa says onion purchases not rejected based on size | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-f7b197d3)
 
 ---
 
