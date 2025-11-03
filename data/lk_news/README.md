@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_23:48:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_00:21:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,581** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,584** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-03-tamilmirrorlk-9146b1b6",
-    "num": "tamilmirrorlk-9146b1b6",
-    "date_str": "2025-11-03",
-    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd 250,000 \u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd-250-000-\u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf/175-367307",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1762192001.0
+    "doc_id": "2025-11-04-dailyftlk-6481bdfa",
+    "num": "dailyftlk-6481bdfa",
+    "date_str": "2025-11-04",
+    "description": "Disrupted digital agora",
+    "url_metadata": "https://www.ft.lk/columns/Disrupted-digital-agora/4-783861",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1762195470.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-04 | `dailyftlk-6481bdfa` | Disrupted digital agora | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-dailyftlk-6481bdfa)
+- 2025-11-04 | `dailyftlk-abf911d5` | Drawing the line:  Faith, modernity, and challenge of Muslim unity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-dailyftlk-abf911d5)
+- 2025-11-03 | `dailyftlk-d62698d3` | A glass half empty:  Why our dairy story needs a different ending | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-d62698d3)
 - 2025-11-03 | `tamilmirrorlk-9146b1b6` | இலங்கையில் சுமார் 250,000 வாகனங்கள் இறக்குமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-9146b1b6)
 - 2025-11-03 | `tamilmirrorlk-47e1cc60` | பாடசாலை நேரத்தை அதிகரிக்கும் முடிவு எப்படி எடுக்கப்பட்டது? பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-47e1cc60)
 - 2025-11-03 | `virakesarilk-081e167e` | யாழில். பேருந்துக்காக காத்திருந்த இராணுவ பெண் சிப்பாயின் கைப்பையை திருடியவர் ஐஸ் போதைப்பொருளுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-081e167e)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-03 | `tamilmirrorlk-5a421a65` | அரச பொறியியல் கூட்டுத்தாபனத்தின் முன்னாள் நிர்வாக பணிப்பாளர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-5a421a65)
 - 2025-11-03 | `virakesarilk-8ce60ca0` | வவுனியாவில் மரணித்த பல்கலைக்கழக மாணவனின் உடற்கூற்று மாதிரிகள் கொழும்புக்கு அனுப்பி வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-8ce60ca0)
 - 2025-11-03 | `virakesarilk-0296fff1` | கொழும்பு - கண்டி பிரதான வீதியில் போக்குவரத்து கட்டுப்பாடுகள் - பொலிஸ் ஊடகப் பிரிவு அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-0296fff1)
-- 2025-11-03 | `adalk-129c9129` | මධ්‍යම අධිවේගයේ ඉදිකිරිම් හේතුවෙන් කොළඹ නුවර පාරේ මංතීරුවක් වසා තැබෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-adalk-129c9129)
-- 2025-11-03 | `lankadeepalk-ba14d8bc` | ජාතික ලොතරැයි මණ්ඩලය ආදායම් ඉලක්කය ඉක්මවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-ba14d8bc)
-- 2025-11-03 | `virakesarilk-ad8f922e` | புட்டபர்த்தி சாய்பாபாவின் புகழைப் போற்றும் 'அனந்தா ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-ad8f922e)
 
 ---
 
