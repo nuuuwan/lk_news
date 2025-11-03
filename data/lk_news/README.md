@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_18:28:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_18:55:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,553** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,554** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-03-lankadeepalk-bd6a7b08",
-    "num": "lankadeepalk-bd6a7b08",
+    "doc_id": "2025-11-03-lankadeepalk-ba14d8bc",
+    "num": "lankadeepalk-ba14d8bc",
     "date_str": "2025-11-03",
-    "description": "\u0dbb\u0da7 \u0db4\u0dd4\u0dbb\u0dcf \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0db1\u0dca\u0da7 \u0db1\u0ddc\u0db8\u0dd2\u0dbd\u0dda \u0dbb\u0ddd\u0d9c \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dbb\u0da7-\u0db4\u0dbb-\u0d9a\u0db1\u0dad\u0dc0\u0db1\u0da7-\u0db1\u0db8\u0dbd-\u0dbb\u0d9c-\u0db4\u0dbb\u0d9a\u0dc2\u0dc0\u0d9a/101-682612",
+    "description": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbd\u0ddc\u0dad\u0dbb\u0dd0\u0dba\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca \u0d89\u0dbd\u0d9a\u0dca\u0d9a\u0dba \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dad\u0d9a-\u0dbd\u0dad\u0dbb\u0dba-\u0db8\u0dab\u0da9\u0dbd\u0dba-\u0d86\u0daf\u0dba\u0db8-\u0d89\u0dbd\u0d9a\u0d9a\u0dba-\u0d89\u0d9a\u0db8\u0dc0\u0dba/1-682613",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1762174087.0
+    "time_ut": 1762174891.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `lankadeepalk-ba14d8bc` | ජාතික ලොතරැයි මණ්ඩලය ආදායම් ඉලක්කය ඉක්මවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-ba14d8bc)
 - 2025-11-03 | `lankadeepalk-bd6a7b08` | රට පුරා කාන්තාවන්ට නොමිලේ රෝග පරීක්ෂාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-bd6a7b08)
 - 2025-11-03 | `lankadeepalk-c89aba5f` | හැඳුනුම්පත් එක් දින සේවය වයඹට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-lankadeepalk-c89aba5f)
 - 2025-11-03 | `virakesarilk-f33668af` | மட்டக்களப்பில் இரு வேறு பிரதேசங்களில் போதைப்பொருள், கசிப்பு விற்பனையில் ஈடுபட்ட இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-f33668af)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-03 | `virakesarilk-e34bd94a` | Singer - MCA சுப்பர் பிறீமியர் லீக் கிரிக்கெட் : மெலிபன் பிஸ்கட்ஸ் நொக் அவுட் சம்பியனானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-e34bd94a)
 - 2025-11-03 | `virakesarilk-492898fe` | பாதாள உலக கும்பலைச் சேர்ந்த “சமபோஷ” கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-492898fe)
 - 2025-11-03 | `virakesarilk-49e2da5b` | தமிழ் அரசியல் கட்சிகள் தமிழ் மக்களை ஒரு தேசமாக காட்டி எழுப்புகின்ற வரலாற்று பயணத்தை சரியாக மேற்கொள்ளவில்லை ; சட்டத்தரணி மணிவண்ணன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-49e2da5b)
-- 2025-11-03 | `virakesarilk-7a0c4974` | வவுனியா மாநகரசபையால் அங்காடி வியாபாரிகளுக்கு 135 கடை ஒதுக்கீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-virakesarilk-7a0c4974)
 
 ---
 
