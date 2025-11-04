@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_02:18:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_02:47:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,810** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,811** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A collection of lk_news documents.
 - 2025-11-04 | `tamilmirrorlk-cb5fe4b3` | யாழில் குடும்பஸ்தரின் விபரீத முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-cb5fe4b3)
 - 2025-11-04 | `lankadeepalk-46e7ef67` | මෙවර අයවැයෙන් ප්‍රතිලාභ රැසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-46e7ef67)
 - 2025-11-04 | `lankadeepalk-befb113f` | සුළං විදුලි ව්‍යාපෘතිය ගැන ලොකු අධ්‍යයනයක්? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-befb113f)
+- 2025-11-04 | `colombotelegraphcom-1ae1df49` | Broken Promises & Centralised Power: NPP’s Evasion Of The Provincial Council Question | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-colombotelegraphcom-1ae1df49)
 - 2025-11-04 | `virakesarilk-fe546558` | ஐசிசி மகளிர் உலகக் கிண்ண தெரிவு அணியில் பாகிஸ்தான் விக்கெட் காப்பாளர் சிட்ரா நவாஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-fe546558)
 - 2025-11-04 | `lankadeepalk-47597016` | සජිත් ඉන්දීය මුදල් ඇමැතිනිය හමුවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-47597016)
 - 2025-11-04 | `lankadeepalk-4570fd12` | හෑෂ් කිලෝ 12ක් සමග අයෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-4570fd12)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-04 | `virakesarilk-88489f79` | தேசிய இறக்குமதி வரிக் கொள்கைக்கு அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-88489f79)
 - 2025-11-04 | `virakesarilk-91695426` | சண்டியர்களை நொண்டியர்களாக்குவோம் ; வடக்கு மண்ணிலிருந்து போதைப்பொருள் மாபியாக்கள் உட்பட குற்றச்செயல்களில் ஈடுபடும் தரப்புகளை துடைத்தெறிவோம் - அமைச்சர் சந்திரசேகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-91695426)
 - 2025-11-04 | `lankadeepalk-ea2ca81c` | සීවලී මැදි විදුහලේ ශිෂ්‍ය පාර්ලිමේන්තුව ජනපති කාර්යාලයේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-ea2ca81c)
-- 2025-11-04 | `lankadeepalk-9c46797d` | රාජ්‍ය නිලධාරීන්ගේ හොඳ තීන්දු ගැන ස්තුතියක් වත් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-9c46797d)
 
 ---
 
