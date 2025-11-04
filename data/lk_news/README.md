@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_20:48:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_21:20:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,792** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,797** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-04-lankadeepalk-fb2d2189",
-    "num": "lankadeepalk-fb2d2189",
+    "doc_id": "2025-11-04-lankadeepalk-46e7ef67",
+    "num": "lankadeepalk-46e7ef67",
     "date_str": "2025-11-04",
-    "description": "\u0db1\u0dd4\u0d9c\u0dda\u0d9c\u0ddc\u0da9 \u0dbb\u0dd0\u0dbd\u0dd2\u0dba\u0da7 \u0dba\u0db1\u0dc0\u0dcf\u0daf \u0db1\u0dd0\u0daf\u0dca\u0daf:\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba \u0d9a\u0db9 \u0d87\u0daf\u0dd3\u0db8\u0d9a",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db1\u0d9c\u0d9c\u0da9-\u0dbb\u0dbd\u0dba\u0da7-\u0dba\u0db1\u0dc0\u0daf-\u0db1\u0daf\u0daf\u0dc0\u0db4\u0d9a\u0dc2\u0dba-\u0d9a\u0db9-\u0d87\u0daf\u0db8\u0d9a/101-682675",
+    "description": "\u0db8\u0dd9\u0dc0\u0dbb \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7 \u0dbb\u0dd0\u0dc3\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dc0\u0dbb-\u0d85\u0dba\u0dc0\u0dba\u0db1-\u0db4\u0dbb\u0dad\u0dbd\u0db7-\u0dbb\u0dc3\u0d9a/1-682679",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1762268950.0
+    "time_ut": 1762270913.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-04 | `lankadeepalk-46e7ef67` | මෙවර අයවැයෙන් ප්‍රතිලාභ රැසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-46e7ef67)
+- 2025-11-04 | `lankadeepalk-befb113f` | සුළං විදුලි ව්‍යාපෘතිය ගැන ලොකු අධ්‍යයනයක්? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-befb113f)
+- 2025-11-04 | `lankadeepalk-47597016` | සජිත් ඉන්දීය මුදල් ඇමැතිනිය හමුවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-47597016)
+- 2025-11-04 | `lankadeepalk-4570fd12` | හෑෂ් කිලෝ 12ක් සමග අයෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-4570fd12)
 - 2025-11-04 | `lankadeepalk-fb2d2189` | නුගේගොඩ රැලියට යනවාද නැද්ද:විපක්ෂය කඹ ඇදීමක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-fb2d2189)
 - 2025-11-04 | `lankadeepalk-8a9c0ff6` | ආදායම් බදු වාර්තා 30 පෙර ඕනෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-8a9c0ff6)
 - 2025-11-04 | `virakesarilk-77cd4334` | அரசாங்கத்தின் அனுசரணையுடன் பாதாள குழுக்கள் செயற்படுகின்றன - நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-77cd4334)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-04 | `tamilmirrorlk-d683d0db` | சரித்த ரத்வத்தே பிணையில் விடுதலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-d683d0db)
 - 2025-11-04 | `tamilmirrorlk-d0991784` | கடற்றொழில் கூட்டுத்தாபனத்தின் அதிகாரிகள் நால்வர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-d0991784)
 - 2025-11-04 | `virakesarilk-8c7ba0e6` | யாழில் குடும்பஸ்தர் தவறான முடிவெடுத்து உயிர்மாய்ப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-8c7ba0e6)
-- 2025-11-04 | `virakesarilk-63397e66` | இயக்குநர்கள் சேரன் - விக்னேஷ் சிவன் இணைந்து வெளியிட்ட 'ரோஜா மல்லி கனகாம்பரம் 'படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-63397e66)
-- 2025-11-04 | `virakesarilk-197facc7` | நடிகர் ரவி மோகன் வெளியிட்ட ' மிடில் கிளாஸ்' படத்தின் டீசர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-197facc7)
-- 2025-11-04 | `lankadeepalk-2043e6b4` | චරිත රත්වත්තේට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-2043e6b4)
-- 2025-11-04 | `adalk-726aebd1` | ධීවර සංස්ථාවේ හිටපු සභාපතිවරයෙක් ඇතුළු 4ක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-adalk-726aebd1)
 
 ---
 
