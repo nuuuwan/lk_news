@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_06:01:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_06:30:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,615** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,617** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-04-dailyftlk-ce0b3941",
-    "num": "dailyftlk-ce0b3941",
+    "doc_id": "2025-11-04-tamilmirrorlk-bf18ccab",
+    "num": "tamilmirrorlk-bf18ccab",
     "date_str": "2025-11-04",
-    "description": "Customs nabs Sri Lankan national with 2.07kg of kush cannabis valued at over Rs. 21 m",
-    "url_metadata": "https://www.ft.lk/news/Customs-nabs-Sri-Lankan-national-with-2-07kg-of-kush-cannabis-valued-at-over-Rs-21-m/56-783891",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1762214408.0
+    "description": "\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd \u0b8e\u0bae\u0bcd.\u0baa\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbe\u0b95\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd \u0ba4\u0bc0\u0baa\u0bcd \u0baa\u0bb0\u0bb5\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bae\u0bcd-\u0b8e\u0bae\u0bcd-\u0baa\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbe\u0b95\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd-\u0ba4\u0bc0\u0baa\u0bcd-\u0baa\u0bb0\u0bb5\u0bb2\u0bcd/175-367309",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1762217072.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-04 | `tamilmirrorlk-bf18ccab` | செல்வம் எம்.பியின் வாகனத்தில் திடீர் தீப் பரவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-bf18ccab)
+- 2025-11-04 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-3a015e4a)
 - 2025-11-04 | `dailyftlk-ce0b3941` | Customs nabs Sri Lankan national with 2.07kg of kush cannabis valued at over Rs. 21 m | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-dailyftlk-ce0b3941)
 - 2025-11-04 | `dailyftlk-9e993cfd` | SJB backs anti-drug drive but slams Govt. over Customs scandal and politicised appointments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-dailyftlk-9e993cfd)
 - 2025-11-04 | `tamilmirrorlk-91c9ecaa` | பெண் சிப்பாயின் கைப்பையைத் திருடியவர் ஐஸ் போதையுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-91c9ecaa)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-04 | `dailyftlk-504d309a` | So now we have to pay Rs. 5 for the bag too? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-dailyftlk-504d309a)
 - 2025-11-04 | `dailyftlk-6481bdfa` | Disrupted digital agora | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-dailyftlk-6481bdfa)
 - 2025-11-04 | `dailyftlk-abf911d5` | Drawing the line:  Faith, modernity, and challenge of Muslim unity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-dailyftlk-abf911d5)
-- 2025-11-03 | `dailyftlk-d62698d3` | A glass half empty:  Why our dairy story needs a different ending | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-dailyftlk-d62698d3)
-- 2025-11-03 | `tamilmirrorlk-9146b1b6` | இலங்கையில் சுமார் 250,000 வாகனங்கள் இறக்குமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-03-tamilmirrorlk-9146b1b6)
 
 ---
 
