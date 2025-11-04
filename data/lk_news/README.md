@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_10:20:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_10:47:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,642** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,646** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-04-lankadeepalk-b2bc5b47",
-    "num": "lankadeepalk-b2bc5b47",
+    "doc_id": "2025-11-04-tamilmirrorlk-0487981e",
+    "num": "tamilmirrorlk-0487981e",
     "date_str": "2025-11-04",
-    "description": "\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd3 \u0dc3\u0dd9\u0db6\u0dc5\u0dd9\u0d9a\u0dd4 \u0db8\u0dd2\u0dba \u0d9c\u0ddc\u0dc3\u0dca \u0dad\u0dc0\u0dad\u0dca 3\u0d9a\u0da7 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db6\u0dad\u0dad\u0dba\u0d9a-\u0d9a\u0da9-\u0dc0\u0da7-\u0dc3\u0db6\u0dc5\u0d9a-\u0db8\u0dba-\u0d9c\u0dc3-\u0dad\u0dc0\u0dad-3\u0d9a\u0da7-\u0dad\u0dc0\u0dbd/101-682635",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1762231311.0
+    "description": "\u0b9a\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4 \u0bb0\u0ba4\u0bcd\u0bb5\u0ba4\u0bcd\u0ba4\u0bc7 \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4-\u0bb0\u0ba4\u0bcd\u0bb5\u0ba4\u0bcd\u0ba4\u0bc7-\u0b95\u0bc8\u0ba4\u0bc1/175-367320",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1762232786.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-04 | `tamilmirrorlk-0487981e` | சரித்த ரத்வத்தே கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-0487981e)
+- 2025-11-04 | `tamilmirrorlk-8c16d697` | வசியத்துக்கு பணம் கறந்த பிக்கு கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-8c16d697)
 - 2025-11-04 | `lankadeepalk-b2bc5b47` | බිත්තියක් කඩා වැටී සෙබළෙකු මිය ගොස් තවත් 3කට තුවාල | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-b2bc5b47)
 - 2025-11-04 | `tamilmirrorlk-08e36b8d` | புதுடெல்லியின் சஜித் முக்கிய சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-08e36b8d)
 - 2025-11-04 | `tamilmirrorlk-29e4bc8f` | அம்மா,... அம்மா... அந்த அக்கா, என்னமா வரையுறாங்க. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-29e4bc8f)
@@ -56,11 +58,9 @@ A collection of lk_news documents.
 - 2025-11-04 | `lankadeepalk-6ba7339c` | කෝටියක මත්ද්‍රව්‍ය සමඟ දෙන්නෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-6ba7339c)
 - 2025-11-04 | `tamilmirrorlk-c987377b` | வட்ஸ்அப் பயன்படுத்துவோருக்கு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-c987377b)
 - 2025-11-04 | `tamilmirrorlk-51a14d88` | மீனவர்களை வீடுவிக்கக்கோரி ஜெய்சங்கருக்கு ஸ்டாலின் கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-51a14d88)
+- 2025-11-04 | `adalk-8c71a18f` | විදේශ රැකියා පුහුණු සහතික හොරට සැකසූ ආයතනය අත්හිටුවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-adalk-8c71a18f)
 - 2025-11-04 | `adalk-490eef28` | පුද්ගලයන් රවටා මුදල් ගැරූ හිමිනමක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-adalk-490eef28)
 - 2025-11-04 | `adalk-d35b1939` | රිය අනතුරු අටකින් 8ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-adalk-d35b1939)
-- 2025-11-04 | `tamilmirrorlk-da5bb3aa` | ஐஸ் போதைப்பொருளுடன் 6 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-da5bb3aa)
-- 2025-11-04 | `lankadeepalk-dd38b82f` | ඩෙංගු - චිකුන්ගුන්යා රෝගීන් වැඩි වීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-dd38b82f)
-- 2025-11-04 | `lankadeepalk-84563a35` | ගුරුකම් කරන්න අන්තර්ජාලයෙන් සල්ලි ගරලා හිමි නමක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-84563a35)
 
 ---
 
