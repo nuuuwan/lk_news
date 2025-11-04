@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_14:47:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_15:19:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,720** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,725** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-04-virakesarilk-d5b8ee5a",
-    "num": "virakesarilk-d5b8ee5a",
+    "doc_id": "2025-11-04-lankadeepalk-06641eaf",
+    "num": "lankadeepalk-06641eaf",
     "date_str": "2025-11-04",
-    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1 \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8!",
-    "url_metadata": "https://www.virakesari.lk/article/229463",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1762247340.0
+    "description": "\u0d85\u0dba\u0dc0\u0dd0\u0dba \u0d9a\u0ddc\u0dc4\u0ddc\u0db8 \u0dc0\u0dd9\u0dba\u0dd2\u0daf?",
+    "url_metadata": "https://www.lankadeepa.lk/features/\u0d85\u0dba\u0dc0\u0dba-\u0d9a\u0dc4\u0db8-\u0dc0\u0dba\u0daf/2-682661",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1762248993.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-04 | `lankadeepalk-06641eaf` | අයවැය කොහොම වෙයිද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-06641eaf)
+- 2025-11-04 | `lankadeepalk-0f4318a4` | ප්‍රා.ලේ නැවතුනු ගොඩනැගිලිවල වැඩ අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-0f4318a4)
+- 2025-11-04 | `lankadeepalk-fc8a875d` | ලංකා - උස්බෙකිස්තාන් සහයෝගිතා ගිවිසුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-fc8a875d)
 - 2025-11-04 | `virakesarilk-d5b8ee5a` | இந்தியாவிலிருந்து நாடு கடத்தப்பட்ட மூவரும் பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-d5b8ee5a)
 - 2025-11-04 | `lankadeepalk-81001778` | අපේ සරසවි විදෙස් සරසවි එක්ක ගිවිසුම් හතරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-81001778)
 - 2025-11-04 | `tamilmirrorlk-e3fadbd8` | தலவாக்கலை விபத்து ; சாரதிக்கு தடுப்பு காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-e3fadbd8)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-04 | `virakesarilk-3b33648c` | தலவாக்கலையில் முச்சக்கர வண்டி விபத்து – இருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-3b33648c)
 - 2025-11-04 | `tamilmirrorlk-b04a4a9c` | மன்னாரில் காற்றாலை திட்டத்தை இடைநிறுத்த அங்கிகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-b04a4a9c)
 - 2025-11-04 | `virakesarilk-0cb76d97` | “இலங்கை ஆசீர்வதிக்கப்பட்ட நாடு” சஜித்திடம் இந்திய நிதி அமைச்சர் நிர்மலா சீத்தாராமன் தெரிவிப்பு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-0cb76d97)
-- 2025-11-04 | `lankadeepalk-9e6c36d0` | විශේෂ කාර්ය බලකායට ත්‍රිරෝද රථ පනහක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-9e6c36d0)
-- 2025-11-04 | `tamilmirrorlk-d13ae6fa` | யாழில் கைப்பையைத் திருடிய நபர் ஐஸூடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-d13ae6fa)
-- 2025-11-04 | `tamilmirrorlk-7c40010a` | யாழில் கைப்பையைத் திருடிய நபர் ஐஸ் போதையுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-7c40010a)
 
 ---
 
