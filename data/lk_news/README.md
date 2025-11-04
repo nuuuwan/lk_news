@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_07:14:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_08:16:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,621** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,623** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -55,12 +55,12 @@ A collection of lk_news documents.
 - 2025-11-04 | `dailyftlk-0f72496a` | HAC wins Gold and Top Achiever awards at CNCI Achiever Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-dailyftlk-0f72496a)
 - 2025-11-04 | `virakesarilk-3ec550ed` | சுங்க ஊழல் குற்றச்சாட்டு தொடர்புடைய அதிகாரிக்கு பதவி உயர்வும் சேவை நீட்டிப்பும் - முஜிபுர் ரஹ்மான் விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-3ec550ed)
 - 2025-11-04 | `virakesarilk-7323a77b` | உள்ளூர் கடற்பரப்பில் சட்டவிரோத மீன்பிடி நடவடிக்கையில் ஈடுபட்ட 04 இந்திய மீன்பிடி படகுகள் வடகடலில் கடற்படையினரால் கைப்பற்றப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-7323a77b)
+- 2025-11-04 | `bbccomsinhala-8d4c994f` | 'Golden Crescent' සිට ශ්‍රී ලංකාවට මත්ද්‍රව්‍ය රැගෙන එන අයුරු සහ ශ්‍රී ලංකාව තුළ මත්ද්‍රව්‍ය ජාවාරම ක්‍රියාත්මක වන හැටි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-bbccomsinhala-8d4c994f)
 - 2025-11-04 | `virakesarilk-f40b2e56` | வன்னிப் பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதனின் வாகனத்தில் திடீர் தீப் பரம்பல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-f40b2e56)
 - 2025-11-04 | `dailyftlk-3bfbd654` | Sri Lanka–Thailand Business Council holds 24th AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-dailyftlk-3bfbd654)
 - 2025-11-04 | `dailyftlk-ddcac6de` | Nirmalan Nagendra appointed CEO of Serendib Land | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-dailyftlk-ddcac6de)
 - 2025-11-04 | `dailyftlk-4a90343b` | SolarIT Solutions acquires Sri Lanka’s Tetris.lk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-dailyftlk-4a90343b)
 - 2025-11-04 | `dailyftlk-fab9ce07` | Harsha Amarasekera joins Lanka Tiles, Lanka Walltiles Boards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-dailyftlk-fab9ce07)
-- 2025-11-04 | `dailyftlk-d6f26053` | ICCSL-RKMT proposes smarter tax policies, modern administration for Budget 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-dailyftlk-d6f26053)
 
 ---
 
