@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_14:22:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_14:47:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,711** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,720** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-04-lankadeepalk-d6060c40",
-    "num": "lankadeepalk-d6060c40",
+    "doc_id": "2025-11-04-virakesarilk-d5b8ee5a",
+    "num": "virakesarilk-d5b8ee5a",
     "date_str": "2025-11-04",
-    "description": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8\u0dca \u0daf\u0dd6\u0db4\u0dad\u0dda \u0d85\u0dbd\u0dd4\u0dad\u0dd2\u0db1\u0dca \u0dc3\u0dd4\u0dc5\u0d82 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 \u0db6\u0dd1",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0db1\u0db1\u0dbb\u0db8-\u0daf\u0db4\u0dad-\u0d85\u0dbd\u0dad\u0db1-\u0dc3\u0dc5-\u0dc0\u0daf\u0dbd-\u0dc0\u0dba\u0db4\u0dad-\u0db6/101-682655",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1762245336.0
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1 \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bbe\u0bb5\u0bb2\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8!",
+    "url_metadata": "https://www.virakesari.lk/article/229463",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1762247340.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-04 | `virakesarilk-d5b8ee5a` | இந்தியாவிலிருந்து நாடு கடத்தப்பட்ட மூவரும் பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-d5b8ee5a)
+- 2025-11-04 | `lankadeepalk-81001778` | අපේ සරසවි විදෙස් සරසවි එක්ක ගිවිසුම් හතරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-81001778)
+- 2025-11-04 | `tamilmirrorlk-e3fadbd8` | தலவாக்கலை விபத்து ; சாரதிக்கு தடுப்பு காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-e3fadbd8)
+- 2025-11-04 | `virakesarilk-053775d7` | கனடாவின் மொன்றியல் நகராட்சி மன்ற உறுப்பினராக இலங்கையை பூர்வீகமாகக் கொண்ட பெண் தெரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-053775d7)
+- 2025-11-04 | `virakesarilk-e4ee6b7a` | காயாக்குழி  உள்ளகவீதிச் சீரமைப்புப்பணிகளை விரைந்து ஆரம்பிக்குமாறு துரைராசா ரவிகரன் வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-e4ee6b7a)
+- 2025-11-04 | `lankadeepalk-3f320bac` | නාවික හමුදාවට ජපානෙන් තෑග්ගක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-3f320bac)
+- 2025-11-04 | `lankadeepalk-5137065b` | සංචාරක සංවර්ධන වැඩට ආසියා සංවර්ධන බැංකුවෙන් ණය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-5137065b)
+- 2025-11-04 | `virakesarilk-7cd65ea5` | வட மாகாணத்தில் இருந்து முஸ்லிம்கள் வெளியேற்றத்துக்கு பிறகு கடந்துவிட்ட 35 வருடங்கள் - 2 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-7cd65ea5)
 - 2025-11-04 | `lankadeepalk-d6060c40` | මන්නාරම් දූපතේ අලුතින් සුළං විදුලි ව්‍යාපෘති බෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-d6060c40)
 - 2025-11-04 | `lankadeepalk-574fe4b6` | පොන්නි සම්බා රටින් ගේන රෙගුලාසිය පාර්ලිමේන්තුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-574fe4b6)
 - 2025-11-04 | `tamilmirrorlk-2c179cd5` | அமைச்சர் விஜிதவை சந்தித்தார் போராயர் பால் ரிச்சர்ட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-2c179cd5)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2025-11-04 | `lankadeepalk-9e6c36d0` | විශේෂ කාර්ය බලකායට ත්‍රිරෝද රථ පනහක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-9e6c36d0)
 - 2025-11-04 | `tamilmirrorlk-d13ae6fa` | யாழில் கைப்பையைத் திருடிய நபர் ஐஸூடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-d13ae6fa)
 - 2025-11-04 | `tamilmirrorlk-7c40010a` | யாழில் கைப்பையைத் திருடிய நபர் ஐஸ் போதையுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-7c40010a)
-- 2025-11-04 | `tamilmirrorlk-6a0a3972` | காட்டு யானை தாக்கியதில் தந்தை பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-6a0a3972)
-- 2025-11-04 | `lankadeepalk-e21ff919` | ’’යකඩ යකා’’ මෙල්ල කරන්න සියුමැලි දෑත් එක් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-e21ff919)
-- 2025-11-04 | `tamilmirrorlk-d6268131` | இந்திய அமைச்சருடன், எதிர்க்கட்சி தலைவர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-d6268131)
-- 2025-11-04 | `lankadeepalk-c463f146` | ජාතික තීරු බදු ප්‍රතිපත්තිය සංශෝධනයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-c463f146)
-- 2025-11-04 | `adalk-032bee54` | දුම්රිය රියදුරු ඇතුළු තනතුරු කිහිපයකට කාන්තා නිලධාරීන් බඳවා ගැනීමට කැබිනට් අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-adalk-032bee54)
-- 2025-11-04 | `lankadeepalk-2f6fa38f` | වන අලියාගේ පහරින් තිදරු පියා මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-2f6fa38f)
-- 2025-11-04 | `virakesarilk-cde715bf` | அண்டைய நாட்டு நிர்வாகத் தோல்வி : இந்திய தேசியப் பாதுகாப்பிற்கு பெரும் புவிசார் அரசியல் அச்சுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-cde715bf)
-- 2025-11-04 | `adalk-82509c7e` | අම්බන්ගොඩ වෙඩි වැදිමෙන් මිය ගිය පුද්ගලයා ජයලත් සුද්දාගේ මස්සිනායි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-adalk-82509c7e)
 
 ---
 
