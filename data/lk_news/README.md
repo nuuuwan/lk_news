@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_11:19:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_11:48:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,660** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,663** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-04-tamilmirrorlk-4c750357",
-    "num": "tamilmirrorlk-4c750357",
+    "doc_id": "2025-11-04-lankadeepalk-a1601835",
+    "num": "lankadeepalk-a1601835",
     "date_str": "2025-11-04",
-    "description": "\u0b85\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bcd\u0baa\u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bca\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1/175-367324",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1762234553.0
+    "description": "\u0dbb\u0dcf\u0dc0\u0dab\u0dcf \u0dad\u0dcf\u0dbb\u0d9a\u0dcf \u0daf\u0ddc\u0dbb\u0da7\u0dd4 \u0dad\u0dc0\u0dca\u0dad\u0dd2\u0dc3\u0dcf \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1\u0dda \u0db4\u0ddc\u0dc5\u0dc0\u0dda  \u0db1\u0d9c\u0dbb\u0dba\u0d9a\u0dca \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dba\u0da7 \u0d85\u0db4\u0dda \u0db7\u0dcf\u0dc2\u0dcf\u0dc0\u0dad\u0dca  \u0dba\u0dc0\u0dbd\u0dcf \u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.lankadeepa.lk/videos/\u0dbb\u0dcf\u0dc0\u0dab\u0dcf-\u0dad\u0dcf\u0dbb\u0d9a\u0dcf-\u0daf\u0ddc\u0dbb\u0da7\u0dd4-\u0dad\u0dc0\u0dca\u0dad\u0dd2\u0dc3\u0dcf-\u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1\u0dda-\u0db4\u0ddc\u0dc5\u0dc0\u0dda--\u0db1\u0d9c\u0dbb\u0dba\u0d9a\u0dca-\u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dba\u0da7-\u0d85\u0db4\u0dda-\u0db7\u0dcf\u0dc2\u0dcf\u0dc0\u0dad\u0dca--\u0dba\u0dc0\u0dbd\u0dcf-\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dc0\u0dcf/12-682643",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1762236139.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-04 | `lankadeepalk-a1601835` | රාවණා තාරකා දොරටු තව්තිසා කියන්නේ පොළවේ  නගරයක් විශ්වයට අපේ භාෂාවත්  යවලා තියෙනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-a1601835)
+- 2025-11-04 | `tamilmirrorlk-b2a5c369` | முல்லைத்தீவில் அனர்த்தம்: இராணுவ சிப்பாய் பலி: மூவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-b2a5c369)
 - 2025-11-04 | `tamilmirrorlk-4c750357` | அம்பலாங்கொடையில் துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-4c750357)
 - 2025-11-04 | `lankadeepalk-2b2a0d17` | මාළු ව්‍යාපාරිකයාට අම්බලන්ගොඩදී වෙඩි තබයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-2b2a0d17)
 - 2025-11-04 | `tamilmirrorlk-980587c7` | இமயமலையில் பனிச்சரிவு: மலையேற்ற வீரர்கள் 7 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-980587c7)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-04 | `tamilmirrorlk-3209934b` | 2 சிறுமிகள் வன்புணர்வு: நன்னடத்தை அதிகாரி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-3209934b)
 - 2025-11-04 | `virakesarilk-06f84512` | ஹொரணை - பதுக்கை வீதியில் விபத்து ; ஒருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-06f84512)
 - 2025-11-04 | `virakesarilk-4d44e1fc` | நாடளாவிய ரீதியில் விசேட சுற்றிவளைப்பில் 638 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-4d44e1fc)
-- 2025-11-04 | `virakesarilk-fce41363` | புதுடில்லியில் இந்திய தொழில்துறை கூட்டமைப்புடன் சஜித் முக்கிய கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-fce41363)
-- 2025-11-04 | `virakesarilk-2f427ef2` | அரசாங்கம் தன்னிச்சையாக எடுக்கும் அனைத்து தீர்மானங்களையும் ஏற்றுக்கொள்ள முடியாது – முஜிபுர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-2f427ef2)
 
 ---
 
