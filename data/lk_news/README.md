@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_20:48:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_21:17:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,968** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,969** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2025-11-05 | `virakesarilk-a2ec9380` | சிலாபம் - தெதுறு ஓயாவில் காணாமல் போன நான்கு இளைஞர்களின் உடல்கள் மீட்கப்பட்டன! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-a2ec9380)
+- 2025-11-05 | `adalk-8b141ae3` | මාලිමා නාගරික මන්ත්‍රීවරියගේ විදුහල්පති සැමියා හා පුතා හෙරොයින් සමඟ අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-adalk-8b141ae3)
 - 2025-11-05 | `lankadeepalk-e8ccaea1` | කැලණියේදී මෝටර් රථයක් දුම්රියක ගැටේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-e8ccaea1)
 - 2025-11-05 | `lankadeepalk-d5a10f20` | මත්සාදයක් වටලා දස දෙනකු අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-d5a10f20)
 - 2025-11-05 | `tamilmirrorlk-b8129995` | தெதுரு ஓயாவில் காணாமல் போன நால்வரும் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-b8129995)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-05 | `lankadeepalk-edbd1849` | විදුහල්පති - පුතා කෝටි දෙකක මත් කුඩු සමග මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-edbd1849)
 - 2025-11-05 | `virakesarilk-082dc1f8` | தையிட்டி சட்டவிரோத திஸ்ஸ விகாரைக்கு எதிராக இன்றும் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-082dc1f8)
 - 2025-11-05 | `lankadeepalk-85370510` | පොලිසියේ යකා නැටූ ජාජබ ප්‍රා.මන්ත්‍රිට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-85370510)
-- 2025-11-05 | `virakesarilk-03013031` | மன்னாரில் காற்றாலை தொடர்பாக நாங்கள் முன்வைத்த மூன்று கோரிக்கைகளையும் ஜனாதிபதி ஏற்றுக் கொள்வார் என்ற நம்பிக்கையில் நாங்கள் காத்திருக்கின்றோம் - போராட்டக்களத்தில் இருந்து அருட்தந்தை எஸ்.மாக்கஸ் அடிகளார் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-03013031)
 
 ---
 
