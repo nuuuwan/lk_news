@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_05:15:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_06:02:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,811** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,821** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-04-virakesarilk-d06da8b2",
-    "num": "virakesarilk-d06da8b2",
-    "date_str": "2025-11-04",
-    "description": "\u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0ba4 \u0bb5\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0b9a\u0bcd\u0b9a\u0bbf \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf - \u0bb8\u0bbe\u0bb9\u0bbf\u0bb0\u0bbe \u0bae\u0bcb\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0ba8\u0bbe\u0bb3\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/229516",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1762279140.0
+    "doc_id": "2025-11-05-islandlk-2b91e1e7",
+    "num": "islandlk-2b91e1e7",
+    "date_str": "2025-11-05",
+    "description": "VogueFest\u201925: SLIIT Illuminates the Runway with a Spectacular Celebration of Fashion and Innovation",
+    "url_metadata": "http://island.lk/voguefest25-sliit-illuminates-the-runway-with-a-spectacular-celebration-of-fashion-and-innovation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1762281660.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-05 | `islandlk-2b91e1e7` | VogueFest’25: SLIIT Illuminates the Runway with a Spectacular Celebration of Fashion and Innovation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-islandlk-2b91e1e7)
+- 2025-11-05 | `islandlk-4bc2f0c8` | Ebullience in CSE trading enables bourse to hit 23,000 index points | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-islandlk-4bc2f0c8)
+- 2025-11-05 | `islandlk-767855f8` | HNB General Insurance continues its winning streak | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-islandlk-767855f8)
+- 2025-11-05 | `islandlk-4a90343b` | SolarIT Solutions acquires Sri Lanka’s Tetris.lk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-islandlk-4a90343b)
+- 2025-11-05 | `islandlk-0b2161c6` | Uber One and Scope Cinemas team up to elevate movie-going | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-islandlk-0b2161c6)
 - 2025-11-04 | `virakesarilk-d06da8b2` | தோல்வி அடையாத வட்டக்கச்சி மத்திய கல்லூரி - ஸாஹிரா மோதும் கால் இறுதிப் போட்டி நாளை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-d06da8b2)
 - 2025-11-04 | `tamilmirrorlk-c62b819e` | திரிஷா, விஷால், மணிரத்னம்  வீடுகளுக்கு வெடிகுண்டு மிரட்டல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-c62b819e)
 - 2025-11-04 | `tamilmirrorlk-2ab5e8a7` | நீதிபதி இளஞ்செழியன் குறித்து அரசாங்கத்தின் பதில் என்ன? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-2ab5e8a7)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-11-04 | `virakesarilk-77cd4334` | அரசாங்கத்தின் அனுசரணையுடன் பாதாள குழுக்கள் செயற்படுகின்றன - நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-77cd4334)
 - 2025-11-04 | `virakesarilk-98cb831b` | கொழும்பில் பனை உற்பத்தியாளர்களுக்கான 'கற்பகம்' விற்பனை நிலையம் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-98cb831b)
 - 2025-11-04 | `virakesarilk-538d6f5a` | பேண்தகு வலுசக்தி நிதியிடலுக்காக உலக வங்கியின் நாணய இணை நிறுவனத்துடனான ஒப்பந்தத்திற்கு அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-538d6f5a)
-- 2025-11-04 | `virakesarilk-989322dc` | மாவீரர் தினத்தை முன்னிட்டு மன்னார் பண்டிவிரிச்சான் மாவீரர் துயிலும் இல்லத்தில் சிரமதான பணிகள் முன்னெடுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-989322dc)
-- 2025-11-04 | `virakesarilk-dd72ffe0` | சட்டவிரோத விகாரைக்கு எதிராக போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-dd72ffe0)
-- 2025-11-04 | `virakesarilk-88489f79` | தேசிய இறக்குமதி வரிக் கொள்கைக்கு அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-88489f79)
-- 2025-11-04 | `virakesarilk-91695426` | சண்டியர்களை நொண்டியர்களாக்குவோம் ; வடக்கு மண்ணிலிருந்து போதைப்பொருள் மாபியாக்கள் உட்பட குற்றச்செயல்களில் ஈடுபடும் தரப்புகளை துடைத்தெறிவோம் - அமைச்சர் சந்திரசேகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-91695426)
-- 2025-11-04 | `lankadeepalk-ea2ca81c` | සීවලී මැදි විදුහලේ ශිෂ්‍ය පාර්ලිමේන්තුව ජනපති කාර්යාලයේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-ea2ca81c)
 
 ---
 
