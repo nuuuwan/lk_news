@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_18:28:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_18:55:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,951** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,957** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-05-adalk-39f3e749",
-    "num": "adalk-39f3e749",
+    "doc_id": "2025-11-05-virakesarilk-c82caa7f",
+    "num": "virakesarilk-c82caa7f",
     "date_str": "2025-11-05",
-    "description": "\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba \u0dc0\u0db0\u0d9a\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0d9a\u0dca \u0db1\u0ddc\u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba-\u0dc0\u0db0\u0d9a\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0d9a\u0dca-\u0db1\u0ddc\u0dc0\u0dd2\u0dba-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/11-419521",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1762344634.0
+    "description": "\u0bae\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0bb0\u0b9f\u0bbf\u0baf\u0ba9\u0bbe\u0bb1\u0bc1 \u0b89\u0bb1\u0bc1\u0b95\u0bbe\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb0\u0bbf\u0baf\u0bb3\u0bb5\u0bbf\u0bb2\u0bbe\u0ba9 95 \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b9c\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8 \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd 3 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/229585",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1762348740.0
 }
 ```
 
@@ -41,11 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-05 | `virakesarilk-c82caa7f` | மட்டு கரடியனாறு உறுகாமத்தில் பாரியளவிலான 95 கிராம் ஜஸ் போதை பொருளுடன் 3 வியாபாரிகள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-c82caa7f)
+- 2025-11-05 | `tamilmirrorlk-1e1c485e` | அதிபரும் மகனும் ஹெரோயினுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-1e1c485e)
+- 2025-11-05 | `virakesarilk-836bbe0e` | அம்பாறை - மஹா ஓயாவில் வீடொன்றில் இராணுவ வீரரின் சடலம்! - இராணுவ சிப்பாய் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-836bbe0e)
+- 2025-11-05 | `virakesarilk-86113046` | உடன்பிறந்த தம்பியை அச்சுறுத்தி முறைகேடான உறவு கொண்ட சகோதரி கர்ப்பம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-86113046)
 - 2025-11-05 | `adalk-39f3e749` | බන්ධනාගාරය වධකාගාරයක් නොවිය යුතුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-adalk-39f3e749)
+- 2025-11-05 | `adalk-48e00de0` | අනුරාධපුර වැව්රක්ෂිත සීමා ලකුණු කළ අනුරාධපුර දිස්ත්‍රික් වාරිමාර්ග අධ්‍යක්ෂකට හදිසි ස්ථාන මාරුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-adalk-48e00de0)
 - 2025-11-05 | `virakesarilk-18b0cf67` | கிழக்கில் விகாரைக்கு அடிக்கல் நாட்டிவிட்டு குருந்தூர் விகாரை பற்றி சாணக்கியன் பேசுவது வெக்கக்கேடானது - அந்தனிசில் ராஜ்குமார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-18b0cf67)
 - 2025-11-05 | `lankadeepalk-edbd1849` | විදුහල්පති - පුතා කෝටි දෙකක මත් කුඩු සමග මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-edbd1849)
 - 2025-11-05 | `virakesarilk-082dc1f8` | தையிட்டி சட்டவிரோத திஸ்ஸ விகாரைக்கு எதிராக இன்றும் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-082dc1f8)
 - 2025-11-05 | `lankadeepalk-85370510` | පොලිසියේ යකා නැටූ ජාජබ ප්‍රා.මන්ත්‍රිට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-85370510)
+- 2025-11-05 | `virakesarilk-03013031` | மன்னாரில் காற்றாலை தொடர்பாக நாங்கள் முன்வைத்த மூன்று கோரிக்கைகளையும் ஜனாதிபதி ஏற்றுக் கொள்வார் என்ற நம்பிக்கையில் நாங்கள் காத்திருக்கின்றோம் - போராட்டக்களத்தில் இருந்து அருட்தந்தை எஸ்.மாக்கஸ் அடிகளார் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-03013031)
 - 2025-11-05 | `virakesarilk-e4609e1d` | முல்லைத்தீவில் மாணவிகளுடன் தவறாக நடக்க முற்பட்ட ஆசிரியர் பணி நீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-e4609e1d)
 - 2025-11-05 | `virakesarilk-f044f0c4` | புதுக்குடியிருப்பில் கசிப்பு உற்பத்தி நிலையம் முற்றுகை - சந்தேக நபர்கள் தப்பியோட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-f044f0c4)
 - 2025-11-05 | `virakesarilk-c710a6f5` | அக்கராயன் உணவகத்தில் சுகாதார சீர்கேடு ; உரிமையாளருக்கு 20,000 அபராதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-c710a6f5)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2025-11-05 | `lankadeepalk-988906e1` | සජිත් - ජයශංකර් හමුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-988906e1)
 - 2025-11-05 | `lankadeepalk-a79bdc50` | මන්ත්‍රීලාගේ ප්‍රශ්නවලට පිළිතුරු දෙන්න මහ බැංකුව මැතිසබයේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-a79bdc50)
 - 2025-11-05 | `tamilmirrorlk-a63bd0a8` | பொது சேவையில் 72,000 பேரை ஆட்சேர்ப்பு செய்ய ஒப்புதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-a63bd0a8)
-- 2025-11-05 | `virakesarilk-1c8bd2a3` | பொலிஸாரிடமிருந்து தப்பிச் செல்ல முயன்றவர் கிணற்றில் விழுந்து பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-1c8bd2a3)
-- 2025-11-05 | `tamilmirrorlk-03dba69d` | ஜெய்சங்கரைச் சந்தித்தார் சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-03dba69d)
-- 2025-11-05 | `virakesarilk-4f2f343b` | தமிழர் தேசத்தின் தொன்மையை பாதுகாப்பதில் அக்கறையின்றி செயற்படும் அரச அதிகாரிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-4f2f343b)
-- 2025-11-05 | `virakesarilk-e6a1e2e0` | முன்னாள் மேல் நீதிமன்ற நீதிபதி மாணிக்கவாசகர் இளஞ்செழியனுக்கான சேவை நீடிப்பு மறுக்கப்படவில்லை - அரசாங்கம் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-e6a1e2e0)
-- 2025-11-05 | `virakesarilk-8d680731` | நல்லூர் பிரதேச சபையின் ஆளுகைக்கு உட்பட்ட சந்தைகளில் தொடரும் அட்டகாசம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-8d680731)
-- 2025-11-05 | `virakesarilk-69dfa314` | தூய்மை இலங்கை செயற்றிட்டத்தின் ஊடாக யாழ். மத்திய பேருந்து நிலையத்தை சூழவுள்ள கடைகள் அகற்றப்படும்  ; ஆளுநர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-69dfa314)
 
 ---
 
