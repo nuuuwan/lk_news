@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_06:02:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_06:30:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,821** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,832** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-05-islandlk-2b91e1e7",
-    "num": "islandlk-2b91e1e7",
+    "doc_id": "2025-11-05-dailyftlk-f422c6a9",
+    "num": "dailyftlk-f422c6a9",
     "date_str": "2025-11-05",
-    "description": "VogueFest\u201925: SLIIT Illuminates the Runway with a Spectacular Celebration of Fashion and Innovation",
-    "url_metadata": "http://island.lk/voguefest25-sliit-illuminates-the-runway-with-a-spectacular-celebration-of-fashion-and-innovation/",
+    "description": "High Commissioner of Sri Lanka to the United Kingdom Nimal Senadheera presents credentials to His Majesty King Charles III",
+    "url_metadata": "https://www.ft.lk/news/High-Commissioner-of-Sri-Lanka-to-the-United-Kingdom-Nimal-Senadheera-presents-credentials-to-His-Majesty-King-Charles-III/56-783920",
     "lang": "en",
-    "newspaper_id": "islandlk",
-    "time_ut": 1762281660.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1762303983.0
 }
 ```
 
@@ -41,6 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-05 | `dailyftlk-f422c6a9` | High Commissioner of Sri Lanka to the United Kingdom Nimal Senadheera presents credentials to His Majesty King Charles III | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-dailyftlk-f422c6a9)
+- 2025-11-05 | `dailyftlk-2d012712` | Ambassador Prof. Pivithuru Janak Kumarasinghe presents credentials to Emperor of Japan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-dailyftlk-2d012712)
+- 2025-11-05 | `dailyftlk-fde566bb` | NWP outstanding A/L students recognised under President’s Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-dailyftlk-fde566bb)
+- 2025-11-05 | `dailyftlk-5e14cdc1` | Ambassador designate of Sri Lanka to the Republic of Korea assumes duties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-dailyftlk-5e14cdc1)
+- 2025-11-05 | `dailyftlk-f26a56ca` | Seylan Bank expands accessibility with new ATM at Dalada Maligawa premises | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-dailyftlk-f26a56ca)
+- 2025-11-05 | `dailyftlk-958fa957` | Voyage Sri Lanka 2025: Initiative to harness power of Sri Lanka’s blue economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-dailyftlk-958fa957)
+- 2025-11-05 | `dailyftlk-3149d996` | Sri Lanka says shares enduring values with Vatican | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-dailyftlk-3149d996)
+- 2025-11-05 | `dailyftlk-c87bed39` | China’s stability, a blessing for the world | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-dailyftlk-c87bed39)
+- 2025-11-05 | `dailyftlk-6f62f1c8` | Trump’s deceptive peace plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-dailyftlk-6f62f1c8)
+- 2025-11-05 | `dailyftlk-300533d3` | Prisoners of imagined histories | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-dailyftlk-300533d3)
+- 2025-11-05 | `dailyftlk-1944bff8` | Sri Lanka overperforms IMF targets: Does this mean Sri Lanka will avoid another economic crisis? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-dailyftlk-1944bff8)
 - 2025-11-05 | `islandlk-2b91e1e7` | VogueFest’25: SLIIT Illuminates the Runway with a Spectacular Celebration of Fashion and Innovation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-islandlk-2b91e1e7)
 - 2025-11-05 | `islandlk-4bc2f0c8` | Ebullience in CSE trading enables bourse to hit 23,000 index points | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-islandlk-4bc2f0c8)
 - 2025-11-05 | `islandlk-767855f8` | HNB General Insurance continues its winning streak | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-islandlk-767855f8)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2025-11-04 | `tamilmirrorlk-c62b819e` | திரிஷா, விஷால், மணிரத்னம்  வீடுகளுக்கு வெடிகுண்டு மிரட்டல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-c62b819e)
 - 2025-11-04 | `tamilmirrorlk-2ab5e8a7` | நீதிபதி இளஞ்செழியன் குறித்து அரசாங்கத்தின் பதில் என்ன? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-2ab5e8a7)
 - 2025-11-04 | `tamilmirrorlk-cb5fe4b3` | யாழில் குடும்பஸ்தரின் விபரீத முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-tamilmirrorlk-cb5fe4b3)
-- 2025-11-04 | `lankadeepalk-46e7ef67` | මෙවර අයවැයෙන් ප්‍රතිලාභ රැසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-46e7ef67)
-- 2025-11-04 | `lankadeepalk-befb113f` | සුළං විදුලි ව්‍යාපෘතිය ගැන ලොකු අධ්‍යයනයක්? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-befb113f)
-- 2025-11-04 | `colombotelegraphcom-1ae1df49` | Broken Promises & Centralised Power: NPP’s Evasion Of The Provincial Council Question | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-colombotelegraphcom-1ae1df49)
-- 2025-11-04 | `virakesarilk-fe546558` | ஐசிசி மகளிர் உலகக் கிண்ண தெரிவு அணியில் பாகிஸ்தான் விக்கெட் காப்பாளர் சிட்ரா நவாஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-fe546558)
-- 2025-11-04 | `lankadeepalk-47597016` | සජිත් ඉන්දීය මුදල් ඇමැතිනිය හමුවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-47597016)
-- 2025-11-04 | `lankadeepalk-4570fd12` | හෑෂ් කිලෝ 12ක් සමග අයෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-4570fd12)
-- 2025-11-04 | `lankadeepalk-fb2d2189` | නුගේගොඩ රැලියට යනවාද නැද්ද:විපක්ෂය කඹ ඇදීමක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-fb2d2189)
-- 2025-11-04 | `lankadeepalk-8a9c0ff6` | ආදායම් බදු වාර්තා 30 පෙර ඕනෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-lankadeepalk-8a9c0ff6)
-- 2025-11-04 | `virakesarilk-77cd4334` | அரசாங்கத்தின் அனுசரணையுடன் பாதாள குழுக்கள் செயற்படுகின்றன - நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-77cd4334)
-- 2025-11-04 | `virakesarilk-98cb831b` | கொழும்பில் பனை உற்பத்தியாளர்களுக்கான 'கற்பகம்' விற்பனை நிலையம் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-98cb831b)
-- 2025-11-04 | `virakesarilk-538d6f5a` | பேண்தகு வலுசக்தி நிதியிடலுக்காக உலக வங்கியின் நாணய இணை நிறுவனத்துடனான ஒப்பந்தத்திற்கு அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-04-virakesarilk-538d6f5a)
 
 ---
 
