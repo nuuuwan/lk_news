@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_12:24:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_12:47:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,894** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,895** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A collection of lk_news documents.
 - 2025-11-05 | `virakesarilk-e442374b` | கடலில் மிதந்த பொதிகளிலிருந்து போதைப்பொருள் கண்டுபிடிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-e442374b)
 - 2025-11-05 | `lankadeepalk-4e607fbe` | බිරිය මැරුවැයි සැමියා සැකපිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-4e607fbe)
 - 2025-11-05 | `tamilmirrorlk-11e79eb8` | கோட்டா கோ கம தாக்குதலில் முன்னாள் எம்.பிக்களுக்கு தொடர்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-11e79eb8)
+- 2025-11-05 | `adalk-2be6cbd3` | පිලිපීනයට බලපෑ සුළි කුණාටුවකින් 66ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-adalk-2be6cbd3)
 - 2025-11-05 | `tamilmirrorlk-337a2eef` | பெண்கள் மத்தியில் போதைப்பொருள் பாவனை அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-337a2eef)
 - 2025-11-05 | `virakesarilk-30ecdb15` | இரத்தினபுரி சீவலி மத்திய கல்லூரி மாணவர் பாராளுமன்றத்தின் ஆரம்ப அமர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-30ecdb15)
 - 2025-11-05 | `virakesarilk-306e7e3b` | உலக உணவுத் திட்ட பிரதிநிதி -  நளிந்த ஜெயதிஸ்ஸ ஆகியோருக்கிடையில் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-306e7e3b)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-05 | `tamilmirrorlk-db75ee6c` | அமெரிக்காவில் சரக்கு விமானம் தரையில் விழுந்து விபத்து - 7 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-db75ee6c)
 - 2025-11-05 | `virakesarilk-6195cad4` | மொரவெவ பகுதியில் மோட்டார் சைக்கிள் விபத்து – இளைஞர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-6195cad4)
 - 2025-11-05 | `virakesarilk-29621cf7` | டேவிட் பெக்கமிற்கு நைட்ஹுட் பட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-29621cf7)
-- 2025-11-05 | `virakesarilk-a5cf4905` | இம்முறை வடக்கு மாகாணத்தில் தேசிய இயலாமைக்குட்பட்டோர் தின நிகழ்வு - ப.சத்தியலிங்கம் எம்.பி தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-a5cf4905)
 
 ---
 
