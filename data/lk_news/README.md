@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--06_03:46:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--06_04:18:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,972** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**84,990** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-06-dailyftlk-264748c9",
-    "num": "dailyftlk-264748c9",
+    "doc_id": "2025-11-06-dailyftlk-0bf4c384",
+    "num": "dailyftlk-0bf4c384",
     "date_str": "2025-11-06",
-    "description": "When shadow of economic crime falls on the State",
-    "url_metadata": "https://www.ft.lk/columns/When-shadow-of-economic-crime-falls-on-the-State/4-783941",
+    "description": "Taxation and silent killing of local industries",
+    "url_metadata": "https://www.ft.lk/columns/Taxation-and-silent-killing-of-local-industries/4-783944",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762380601.0
+    "time_ut": 1762382288.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-06 | `dailyftlk-0bf4c384` | Taxation and silent killing of local industries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-0bf4c384)
+- 2025-11-06 | `dailyftlk-69ffb957` | Sri Lanka’s 2026 Budget: Defining moment for stability, growth, and confidence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-69ffb957)
+- 2025-11-06 | `dailyftlk-20bb2ed5` | The education Budget: a pre-Budget exploration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-20bb2ed5)
 - 2025-11-06 | `dailyftlk-264748c9` | When shadow of economic crime falls on the State | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-264748c9)
+- 2025-11-06 | `virakesarilk-d9bef9e5` | கண்டி பல்லேகலே தீப்பெட்டி தொழிற்சாலையில் பெரும் தீ விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-d9bef9e5)
+- 2025-11-06 | `virakesarilk-79dc2011` | பசில் ராஜபக்ஷ மீது ரூ.1.03 பில்லியன் பொது நிதி முறைகேடு குற்றச்சாட்டு; ஊழல் விசாரணை ஆணைக்குழு நடவடிக்கை தொடக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-79dc2011)
+- 2025-11-06 | `virakesarilk-e6491077` | முஸ்லிம் தாதியர்களின் ஹிஜாப் விவகாரத்தில் பிரிவினை முயற்சிகள்; அரசாங்கம் தெளிவுபடுத்த வேண்டும் - முஜிபுர் ரஹ்மான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-e6491077)
+- 2025-11-06 | `virakesarilk-93c760fe` | 5000 வைத்தியர்கள் நாட்டை விட்டு வெளியேற திட்டம் பிரச்சினைகளுக்கான தீர்வுகளை பட்ஜட்டில் எதிர்பார்க்கின்றோம் - அரச மருத்துவ அதிகாரிகள் சங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-93c760fe)
+- 2025-11-06 | `virakesarilk-8757764e` | போதைப்பொருள் மற்றும் ஊழலை ஒழிக்க அரசாங்கம் அர்ப்பணிப்புடன் செயற்படுகிறது – நீதி அமைச்சர் ஹர்ஷன நாணயக்கார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-8757764e)
+- 2025-11-06 | `virakesarilk-921ba9a9` | யாழில் பல்வேறு குற்றச்செயல்களுடன் தொடர்புடைய சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-921ba9a9)
+- 2025-11-06 | `virakesarilk-c4f7f9c5` | மட்டு ஏறாவூரில் இராணுவத்தில் இருந்து தப்பி ஓடி போதைப்பொருள் வியாபாரத்தில் ஈடுபட்ட  சிப்பாய் ஒருவர்; ஜஸ் போதை பொருளுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-c4f7f9c5)
 - 2025-11-05 | `tamilmirrorlk-f1b7f7e7` | தீப்பெட்டி தொழிற்சாலையில் திடீர் தீப்பரவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-f1b7f7e7)
 - 2025-11-05 | `tamilmirrorlk-30c2bca9` | 200 மீட்டர் தூரத்திற்கு காரை இழுத்துச் சென்ற ரயில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-30c2bca9)
+- 2025-11-05 | `virakesarilk-05c46f7a` | பொருளாதார மீட்சி மற்றும் இருதரப்பு ஒத்துழைப்பை மையமாகக் கொண்டு சஜித் – ஜெய்ஷங்கர் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-05c46f7a)
+- 2025-11-05 | `virakesarilk-850bb11f` | வனவாசலை–களனி ரயில் கடவையில் கார் மற்றும் ரயில் மோதிய விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-850bb11f)
 - 2025-11-05 | `virakesarilk-a2ec9380` | சிலாபம் - தெதுறு ஓயாவில் காணாமல் போன நான்கு இளைஞர்களின் உடல்கள் மீட்கப்பட்டன! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-a2ec9380)
 - 2025-11-05 | `adalk-8b141ae3` | මාලිමා නාගරික මන්ත්‍රීවරියගේ විදුහල්පති සැමියා හා පුතා හෙරොයින් සමඟ අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-adalk-8b141ae3)
 - 2025-11-05 | `lankadeepalk-e8ccaea1` | කැලණියේදී මෝටර් රථයක් දුම්රියක ගැටේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-e8ccaea1)
 - 2025-11-05 | `lankadeepalk-d5a10f20` | මත්සාදයක් වටලා දස දෙනකු අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-d5a10f20)
 - 2025-11-05 | `tamilmirrorlk-b8129995` | தெதுரு ஓயாவில் காணாமல் போன நால்வரும் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-b8129995)
-- 2025-11-05 | `tamilmirrorlk-7f63f75b` | இலங்கை வந்தார் நடிகர் சரத்குமார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-7f63f75b)
-- 2025-11-05 | `lankadeepalk-39b7bf89` | දැදුරුඔයට හතරක් බිලි - අයෙක් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-39b7bf89)
-- 2025-11-05 | `lankadeepalk-2742e635` | දැදුරඔයට හතරක් බිලි - අයෙක් අතුරදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-2742e635)
-- 2025-11-05 | `virakesarilk-c82caa7f` | மட்டு கரடியனாறு உறுகாமத்தில் பாரியளவிலான 95 கிராம் ஜஸ் போதை பொருளுடன் 3 வியாபாரிகள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-c82caa7f)
-- 2025-11-05 | `adalk-e3a8f061` | දැදුරු ඔයේ ගිලී හතරක් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-adalk-e3a8f061)
-- 2025-11-05 | `adalk-9908c294` | දැදුරු ඔයේ ගිලී අතුරුදන්වූ සිව් දෙනාගේ සිරුරු හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-adalk-9908c294)
-- 2025-11-05 | `tamilmirrorlk-1e1c485e` | அதிபரும் மகனும் ஹெரோயினுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-1e1c485e)
-- 2025-11-05 | `virakesarilk-836bbe0e` | அம்பாறை - மஹா ஓயாவில் வீடொன்றில் இராணுவ வீரரின் சடலம்! - இராணுவ சிப்பாய் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-836bbe0e)
-- 2025-11-05 | `virakesarilk-86113046` | உடன்பிறந்த தம்பியை அச்சுறுத்தி முறைகேடான உறவு கொண்ட சகோதரி கர்ப்பம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-86113046)
-- 2025-11-05 | `adalk-39f3e749` | බන්ධනාගාරය වධකාගාරයක් නොවිය යුතුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-adalk-39f3e749)
-- 2025-11-05 | `adalk-48e00de0` | අනුරාධපුර වැව්රක්ෂිත සීමා ලකුණු කළ අනුරාධපුර දිස්ත්‍රික් වාරිමාර්ග අධ්‍යක්ෂකට හදිසි ස්ථාන මාරුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-adalk-48e00de0)
-- 2025-11-05 | `virakesarilk-18b0cf67` | கிழக்கில் விகாரைக்கு அடிக்கல் நாட்டிவிட்டு குருந்தூர் விகாரை பற்றி சாணக்கியன் பேசுவது வெக்கக்கேடானது - அந்தனிசில் ராஜ்குமார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-18b0cf67)
 
 ---
 

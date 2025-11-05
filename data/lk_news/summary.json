@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-06 03:46:14",
-  "n_docs": 84972,
+  "time_updated": "2025-11-06 04:17:40",
+  "n_docs": 84990,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 84972,
+  "n_docs_with_text": 84990,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-06",
-  "dataset_size": 1260181588,
+  "dataset_size": 1260347781,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-06-dailyftlk-264748c9",
-    "num": "dailyftlk-264748c9",
+    "doc_id": "2025-11-06-dailyftlk-0bf4c384",
+    "num": "dailyftlk-0bf4c384",
     "date_str": "2025-11-06",
-    "description": "When shadow of economic crime falls on the State",
-    "url_metadata": "https://www.ft.lk/columns/When-shadow-of-economic-crime-falls-on-the-State/4-783941",
+    "description": "Taxation and silent killing of local industries",
+    "url_metadata": "https://www.ft.lk/columns/Taxation-and-silent-killing-of-local-industries/4-783944",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762380601.0
+    "time_ut": 1762382288.0
   }
 }
