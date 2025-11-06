@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--06_06:02:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--06_06:30:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,009** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,018** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-06-dailyftlk-9707c3b8",
-    "num": "dailyftlk-9707c3b8",
+    "doc_id": "2025-11-06-dailyftlk-d741f882",
+    "num": "dailyftlk-d741f882",
     "date_str": "2025-11-06",
-    "description": "Markspen introduces grain cooling system to Sri Lanka",
-    "url_metadata": "https://www.ft.lk/business/Markspen-introduces-grain-cooling-system-to-Sri-Lanka/34-783955",
+    "description": "Colombo Dockyard signs major shipbuilding contract",
+    "url_metadata": "https://www.ft.lk/business/Colombo-Dockyard-signs-major-shipbuilding-contract/34-783972",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762387700.0
+    "time_ut": 1762389591.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-06 | `dailyftlk-d741f882` | Colombo Dockyard signs major shipbuilding contract | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-d741f882)
+- 2025-11-06 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-3a015e4a)
+- 2025-11-06 | `dailyftlk-189fdb9f` | Sri Lankan delegation strengthens trade and sector partnerships on Canada mission | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-189fdb9f)
+- 2025-11-06 | `dailyftlk-8471e210` | 2nd Session of Sri Lanka–UAE Joint Commission concludes in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-8471e210)
+- 2025-11-06 | `dailyftlk-dd262887` | President halts new Mannar wind projects pending public consent | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-dd262887)
+- 2025-11-06 | `dailyftlk-b9a541ac` | Zohran Mamdani wins New York City mayoral election | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-b9a541ac)
+- 2025-11-06 | `dailyftlk-e40a4b31` | Dr. Saman Weerasinghe receives Russia’s prestigious “Order of Friendship” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-e40a4b31)
+- 2025-11-06 | `dailyftlk-9640af45` | Inventive Polymers Lanka  celebrates seven years of  innovation, safety, and sustainability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-9640af45)
+- 2025-11-06 | `dailyftlk-8f877fff` | Rashmini Mather joins Cable Solutions’ Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-8f877fff)
 - 2025-11-06 | `dailyftlk-9707c3b8` | Markspen introduces grain cooling system to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-9707c3b8)
 - 2025-11-06 | `dailyftlk-82ee1c09` | Sarrah Sammoon honoured among ‘Influential Women of the World’ in Paris | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-82ee1c09)
 - 2025-11-06 | `dailyftlk-11a34a57` | AOD and Cinnamon Life unite for “What’s Your Colombo?” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-11a34a57)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2025-11-06 | `dailyftlk-264748c9` | When shadow of economic crime falls on the State | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-264748c9)
 - 2025-11-06 | `virakesarilk-d9bef9e5` | கண்டி பல்லேகலே தீப்பெட்டி தொழிற்சாலையில் பெரும் தீ விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-d9bef9e5)
 - 2025-11-06 | `virakesarilk-79dc2011` | பசில் ராஜபக்ஷ மீது ரூ.1.03 பில்லியன் பொது நிதி முறைகேடு குற்றச்சாட்டு; ஊழல் விசாரணை ஆணைக்குழு நடவடிக்கை தொடக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-79dc2011)
-- 2025-11-06 | `virakesarilk-e6491077` | முஸ்லிம் தாதியர்களின் ஹிஜாப் விவகாரத்தில் பிரிவினை முயற்சிகள்; அரசாங்கம் தெளிவுபடுத்த வேண்டும் - முஜிபுர் ரஹ்மான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-e6491077)
-- 2025-11-06 | `virakesarilk-93c760fe` | 5000 வைத்தியர்கள் நாட்டை விட்டு வெளியேற திட்டம் பிரச்சினைகளுக்கான தீர்வுகளை பட்ஜட்டில் எதிர்பார்க்கின்றோம் - அரச மருத்துவ அதிகாரிகள் சங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-93c760fe)
-- 2025-11-06 | `virakesarilk-8757764e` | போதைப்பொருள் மற்றும் ஊழலை ஒழிக்க அரசாங்கம் அர்ப்பணிப்புடன் செயற்படுகிறது – நீதி அமைச்சர் ஹர்ஷன நாணயக்கார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-8757764e)
-- 2025-11-06 | `virakesarilk-921ba9a9` | யாழில் பல்வேறு குற்றச்செயல்களுடன் தொடர்புடைய சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-921ba9a9)
-- 2025-11-06 | `virakesarilk-c4f7f9c5` | மட்டு ஏறாவூரில் இராணுவத்தில் இருந்து தப்பி ஓடி போதைப்பொருள் வியாபாரத்தில் ஈடுபட்ட  சிப்பாய் ஒருவர்; ஜஸ் போதை பொருளுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-c4f7f9c5)
-- 2025-11-05 | `tamilmirrorlk-f1b7f7e7` | தீப்பெட்டி தொழிற்சாலையில் திடீர் தீப்பரவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-f1b7f7e7)
-- 2025-11-05 | `tamilmirrorlk-30c2bca9` | 200 மீட்டர் தூரத்திற்கு காரை இழுத்துச் சென்ற ரயில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-30c2bca9)
-- 2025-11-05 | `virakesarilk-05c46f7a` | பொருளாதார மீட்சி மற்றும் இருதரப்பு ஒத்துழைப்பை மையமாகக் கொண்டு சஜித் – ஜெய்ஷங்கர் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-05c46f7a)
-- 2025-11-05 | `virakesarilk-850bb11f` | வனவாசலை–களனி ரயில் கடவையில் கார் மற்றும் ரயில் மோதிய விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-850bb11f)
 
 ---
 

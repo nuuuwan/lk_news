@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-06 06:02:11",
-  "n_docs": 85009,
+  "time_updated": "2025-11-06 06:29:52",
+  "n_docs": 85018,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 85009,
+  "n_docs_with_text": 85018,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-06",
-  "dataset_size": 1260847004,
+  "dataset_size": 1261050918,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-06-dailyftlk-9707c3b8",
-    "num": "dailyftlk-9707c3b8",
+    "doc_id": "2025-11-06-dailyftlk-d741f882",
+    "num": "dailyftlk-d741f882",
     "date_str": "2025-11-06",
-    "description": "Markspen introduces grain cooling system to Sri Lanka",
-    "url_metadata": "https://www.ft.lk/business/Markspen-introduces-grain-cooling-system-to-Sri-Lanka/34-783955",
+    "description": "Colombo Dockyard signs major shipbuilding contract",
+    "url_metadata": "https://www.ft.lk/business/Colombo-Dockyard-signs-major-shipbuilding-contract/34-783972",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762387700.0
+    "time_ut": 1762389591.0
   }
 }
