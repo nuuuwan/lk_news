@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--06_08:17:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--06_09:08:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,027** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,032** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-06-lankadeepalk-8cda11f9",
-    "num": "lankadeepalk-8cda11f9",
+    "doc_id": "2025-11-06-lankadeepalk-00820be6",
+    "num": "lankadeepalk-00820be6",
     "date_str": "2025-11-06",
-    "description": "\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dda \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1 \u0dbb\u0dd0\u0dc3\u0d9a\u0da7 \u0d85\u0daf \u0dc0\u0dd0\u0dc3\u0dca\u0dc3",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dc0\u0dba\u0db1-\u0db4\u0dbb\u0daf\u0dc1-\u0dbb\u0dc3\u0d9a\u0da7-\u0d85\u0daf-\u0dc0\u0dc3\u0dc3/1-682716",
+    "description": "\u0d85\u0d82\u0d9a \u0dad\u0dc4\u0da9\u0dd4 \u0db8\u0dcf\u0dbb\u0dd4 \u0d9a\u0dc5 \u0dba\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dd0\u0daf\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0db4\u0dd3\u0dc3\u0dd3 \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0d9a-\u0dad\u0dc4\u0da9-\u0db8\u0dbb-\u0d9a\u0dc5-\u0dba\u0dad\u0dbb-\u0db4\u0daf\u0dba\u0d9a-\u0dc3\u0db8\u0d9f-\u0dc4\u0da7\u0db4-\u0db4\u0dc3-\u0db8\u0da7\u0da7/101-682720",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1762395404.0
+    "time_ut": 1762398071.0
 }
 ```
 
@@ -41,9 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-06 | `lankadeepalk-00820be6` | අංක තහඩු මාරු කළ යතුරු පැදියක් සමඟ හිටපු පීසී මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-lankadeepalk-00820be6)
+- 2025-11-06 | `tamilmirrorlk-c2b3df71` | இன்று இடியுடன் கூடிய மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-tamilmirrorlk-c2b3df71)
+- 2025-11-06 | `lankadeepalk-488f3399` | පොලිස් නිල ඇඳුම්  ළඟ තබාගත් දෙන්නෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-lankadeepalk-488f3399)
+- 2025-11-06 | `tamilmirrorlk-97b88687` | விடுதலைப்புலிகளின் ஆயுதங்களை தேடுதல் நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-tamilmirrorlk-97b88687)
 - 2025-11-06 | `lankadeepalk-8cda11f9` | දිවයිනේ ප්‍රදේශ රැසකට අද වැස්ස | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-lankadeepalk-8cda11f9)
 - 2025-11-06 | `lankadeepalk-f03a28a8` | සැක මෝටර් රථයක් පසුපස පැන්නූ පොලිස් යතුරු පැදිය අනතුරක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-lankadeepalk-f03a28a8)
 - 2025-11-06 | `lankadeepalk-76eebe4a` | ආදායම් ඉලක්කයට නොගියොත් කෝටි 2133 අහිමි වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-lankadeepalk-76eebe4a)
+- 2025-11-06 | `adalk-5c7c23f8` | අද සවස බොහෝ ප්‍ර දේශවලට වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-adalk-5c7c23f8)
 - 2025-11-06 | `tamilmirrorlk-164568e0` | ஹெரோயினுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-tamilmirrorlk-164568e0)
 - 2025-11-06 | `dailyftlk-d741f882` | Colombo Dockyard signs major shipbuilding contract | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-d741f882)
 - 2025-11-06 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-3a015e4a)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-11-06 | `dailyftlk-8f877fff` | Rashmini Mather joins Cable Solutions’ Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-8f877fff)
 - 2025-11-06 | `dailyftlk-9707c3b8` | Markspen introduces grain cooling system to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-9707c3b8)
 - 2025-11-06 | `dailyftlk-82ee1c09` | Sarrah Sammoon honoured among ‘Influential Women of the World’ in Paris | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-82ee1c09)
-- 2025-11-06 | `dailyftlk-11a34a57` | AOD and Cinnamon Life unite for “What’s Your Colombo?” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-11a34a57)
-- 2025-11-06 | `dailyftlk-b8879722` | South Centre: Add value at home, close the tech gap—Gamani Corea’s agenda is more urgent than ever | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-b8879722)
-- 2025-11-06 | `dailyftlk-0349f1f0` | Black state, Anura’s drug war, Cuba’s UN victory over US | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-0349f1f0)
-- 2025-11-06 | `dailyftlk-0bf4c384` | Taxation and silent killing of local industries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-0bf4c384)
-- 2025-11-06 | `dailyftlk-69ffb957` | Sri Lanka’s 2026 Budget: Defining moment for stability, growth, and confidence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-69ffb957)
 
 ---
 
