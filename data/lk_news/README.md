@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--06_05:16:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--06_06:02:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**84,992** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,009** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-06-dailyftlk-b8879722",
-    "num": "dailyftlk-b8879722",
+    "doc_id": "2025-11-06-dailyftlk-9707c3b8",
+    "num": "dailyftlk-9707c3b8",
     "date_str": "2025-11-06",
-    "description": "South Centre: Add value at home, close the tech gap\u2014Gamani Corea\u2019s agenda is more urgent than ever",
-    "url_metadata": "https://www.ft.lk/opinion/South-Centre-Add-value-at-home-close-the-tech-gapGamani-Corea-s-agenda-is-more-urgent-than-ever/14-783947",
+    "description": "Markspen introduces grain cooling system to Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/Markspen-introduces-grain-cooling-system-to-Sri-Lanka/34-783955",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762386147.0
+    "time_ut": 1762387700.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-06 | `dailyftlk-9707c3b8` | Markspen introduces grain cooling system to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-9707c3b8)
+- 2025-11-06 | `dailyftlk-82ee1c09` | Sarrah Sammoon honoured among ‘Influential Women of the World’ in Paris | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-82ee1c09)
+- 2025-11-06 | `dailyftlk-11a34a57` | AOD and Cinnamon Life unite for “What’s Your Colombo?” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-11a34a57)
 - 2025-11-06 | `dailyftlk-b8879722` | South Centre: Add value at home, close the tech gap—Gamani Corea’s agenda is more urgent than ever | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-b8879722)
 - 2025-11-06 | `dailyftlk-0349f1f0` | Black state, Anura’s drug war, Cuba’s UN victory over US | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-0349f1f0)
 - 2025-11-06 | `dailyftlk-0bf4c384` | Taxation and silent killing of local industries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-dailyftlk-0bf4c384)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-05 | `tamilmirrorlk-30c2bca9` | 200 மீட்டர் தூரத்திற்கு காரை இழுத்துச் சென்ற ரயில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-tamilmirrorlk-30c2bca9)
 - 2025-11-05 | `virakesarilk-05c46f7a` | பொருளாதார மீட்சி மற்றும் இருதரப்பு ஒத்துழைப்பை மையமாகக் கொண்டு சஜித் – ஜெய்ஷங்கர் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-05c46f7a)
 - 2025-11-05 | `virakesarilk-850bb11f` | வனவாசலை–களனி ரயில் கடவையில் கார் மற்றும் ரயில் மோதிய விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-850bb11f)
-- 2025-11-05 | `virakesarilk-a2ec9380` | சிலாபம் - தெதுறு ஓயாவில் காணாமல் போன நான்கு இளைஞர்களின் உடல்கள் மீட்கப்பட்டன! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-virakesarilk-a2ec9380)
-- 2025-11-05 | `adalk-8b141ae3` | මාලිමා නාගරික මන්ත්‍රීවරියගේ විදුහල්පති සැමියා හා පුතා හෙරොයින් සමඟ අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-adalk-8b141ae3)
-- 2025-11-05 | `lankadeepalk-e8ccaea1` | කැලණියේදී මෝටර් රථයක් දුම්රියක ගැටේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-05-lankadeepalk-e8ccaea1)
 
 ---
 
