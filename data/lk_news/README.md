@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_04:16:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_04:46:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,460** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,467** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-08-dailyftlk-8e42c4bd",
-    "num": "dailyftlk-8e42c4bd",
+    "doc_id": "2025-11-08-virakesarilk-374c04a3",
+    "num": "virakesarilk-374c04a3",
     "date_str": "2025-11-08",
-    "description": "Correction",
-    "url_metadata": "https://www.ft.lk/news/Correction/56-784059",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1762547785.0
+    "description": "\u0bae\u0bbe\u0b95\u0bbe\u0ba3 \u0b9a\u0baa\u0bc8\u0ba4\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bc8 \u0ba4\u0bbe\u0bae\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba8\u0bb4\u0bc1\u0bb5\u0bb2\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc8 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u2013 \u0bb0\u0bb5\u0bc2\u0baa\u0bcd \u0bb9\u0b95\u0bcd\u0b95\u0bc0\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/229811",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1762556820.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-08 | `virakesarilk-374c04a3` | மாகாண சபைத் தேர்தலை தாமதப்படுத்தும் நழுவல் போக்கை ஜனாதிபதி முன்னெடுக்கிறார் – ரவூப் ஹக்கீம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-374c04a3)
+- 2025-11-08 | `virakesarilk-334d3ac2` | தலதா மாளிகையின் தியவடன நிலமேயாக பிரதீப் நிலங்க தேல மீண்டும் தெரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-334d3ac2)
+- 2025-11-08 | `virakesarilk-b7642e4d` | மட்டக்களப்பு குருக்கள் மடத்தில் பாரிய விபத்து; மூன்று இளைஞர்கள் படுகாயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-b7642e4d)
+- 2025-11-08 | `virakesarilk-689581f1` | லைவ்போய் கிண்ணத்துக்கான 20 வயதின்கீழ் கால்பந்தாட்ட இறுதியில் ஸாஹிரா - ஹமீத் அல் ஹுசெய்னி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-689581f1)
+- 2025-11-08 | `virakesarilk-1122f710` | ஹொங்கொங் சிக்சஸ் நடப்பு சம்பியன் இலங்கை குழுநிலைப் போட்டிகளில் தோல்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-1122f710)
+- 2025-11-08 | `virakesarilk-771a9857` | இலங்கையின் ரி20 அணிக்கு உப தலைவராக தசுன் ஷானக்க நியமிப்பு, சர்வதேச ஒருநாள் குழாத்தில் பவன் ரத்நாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-771a9857)
 - 2025-11-08 | `dailyftlk-8e42c4bd` | Correction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-8e42c4bd)
 - 2025-11-08 | `dailyftlk-f114a85b` | President via Budget 2026 lures foreign investors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-f114a85b)
 - 2025-11-08 | `dailyftlk-d1b1d89d` | AKD issues open, honest invitation to all Sri Lankans abroad to help rebuild motherland | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-d1b1d89d)
@@ -53,14 +59,8 @@ A collection of lk_news documents.
 - 2025-11-07 | `dailyftlk-42cd523a` | Kunming Biodiversity Fund approves $5.8 m in funding for FAO-led projects in SL among others | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-42cd523a)
 - 2025-11-07 | `virakesarilk-4427b988` | யாழில். ஹெரோயின் நுகர்ந்துகொண்டிருந்தவர்கள் ஊசிகளுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-4427b988)
 - 2025-11-07 | `virakesarilk-66edc262` | முல்லைத்தீவு விசுவமடுவில் சுகாதார சீர்கேட்டுடன் இயங்கிய உணவகத்திற்கு சீல் : உரிமையாளருக்கு 50,000 ரூபா தண்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-66edc262)
+- 2025-11-07 | `colombotelegraphcom-2102b192` | AKD Is Ready | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-colombotelegraphcom-2102b192)
 - 2025-11-07 | `virakesarilk-4baf57a3` | கொட்டாஞ்சேனையில் துப்பாக்கிச் சூடு – காயமடைந்தவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-4baf57a3)
-- 2025-11-07 | `tamilmirrorlk-384e6cff` | மக்களுக்கு சலுகைகள் இல்லாத வரவு செலவுத் திட்டம் : சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-384e6cff)
-- 2025-11-07 | `colombotelegraphcom-522428a7` | The Anointed Trump’s New Leadership Of Free-Sex Christianity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-colombotelegraphcom-522428a7)
-- 2025-11-07 | `tamilmirrorlk-724ee344` | மாகாண சபைத் தேர்தலுக்கு 10 பில்லியன் ரூபாய் ஒதுக்கீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-724ee344)
-- 2025-11-07 | `lankadeepalk-22a4d1d7` | කොටහේනේ වෙඩි තැබීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-lankadeepalk-22a4d1d7)
-- 2025-11-07 | `tamilmirrorlk-64c1ce9f` | கொட்டாஞ்சேனையில் சற்றுமுன் துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-64c1ce9f)
-- 2025-11-07 | `virakesarilk-35292a8f` | இனப்பிரச்சினைக்கு தீர்வு இன்றி பொருளாதார முன்னேற்றம் சாத்தியமில்லை – எஸ். சிறிதரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-35292a8f)
-- 2025-11-07 | `tamilmirrorlk-4ad89af3` | தியவதன நிலமே தெரிவுசெய்யப்பட்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-4ad89af3)
 
 ---
 
