@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_00:21:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_00:45:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,451** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,452** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2025-11-07 | `dailyftlk-c422de59` | Can SMEs boost exports as well as foreign reserves into the stratosphere through sharper policy? (2/2) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-c422de59)
+- 2025-11-07 | `dailyftlk-1772fb70` | Israel and UAE: Partners in genocide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-1772fb70)
 - 2025-11-07 | `dailyftlk-42cd523a` | Kunming Biodiversity Fund approves $5.8 m in funding for FAO-led projects in SL among others | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-42cd523a)
 - 2025-11-07 | `virakesarilk-4427b988` | யாழில். ஹெரோயின் நுகர்ந்துகொண்டிருந்தவர்கள் ஊசிகளுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-4427b988)
 - 2025-11-07 | `virakesarilk-66edc262` | முல்லைத்தீவு விசுவமடுவில் சுகாதார சீர்கேட்டுடன் இயங்கிய உணவகத்திற்கு சீல் : உரிமையாளருக்கு 50,000 ரூபா தண்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-66edc262)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-07 | `tamilmirrorlk-5f606eea` | அயர்ந்து தூங்கினார் அர்ச்சுனா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-5f606eea)
 - 2025-11-07 | `virakesarilk-3c50156d` | பழைய வீடியோக்களையும் உயர் HD தரத்தில் பார்க்க யூடியூப்பில் புதிய வசதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-3c50156d)
 - 2025-11-07 | `tamilmirrorlk-78912514` | 1,757  பில்லியன் ரூபாய் பற்றாக்குறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-78912514)
-- 2025-11-07 | `lankadeepalk-cadc7376` | කෝටි 10ක් සොරාගත් සුරාබදු නිලධාරීන් පස්දෙනා රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-lankadeepalk-cadc7376)
 
 ---
 
