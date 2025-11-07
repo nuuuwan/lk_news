@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_23:48:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_00:21:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,449** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,451** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-07-virakesarilk-4427b988",
-    "num": "virakesarilk-4427b988",
+    "doc_id": "2025-11-07-dailyftlk-c422de59",
+    "num": "dailyftlk-c422de59",
     "date_str": "2025-11-07",
-    "description": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd. \u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8a\u0b9a\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/229806",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1762538160.0
+    "description": "Can SMEs boost exports as well as foreign reserves into the stratosphere through sharper policy? (2/2)",
+    "url_metadata": "https://www.ft.lk/columns/Can-SMEs-boost-exports-as-well-as-foreign-reserves-into-the-stratosphere-through-sharper-policy-2-2/4-784046",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1762538885.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-07 | `dailyftlk-c422de59` | Can SMEs boost exports as well as foreign reserves into the stratosphere through sharper policy? (2/2) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-c422de59)
+- 2025-11-07 | `dailyftlk-42cd523a` | Kunming Biodiversity Fund approves $5.8 m in funding for FAO-led projects in SL among others | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-42cd523a)
 - 2025-11-07 | `virakesarilk-4427b988` | யாழில். ஹெரோயின் நுகர்ந்துகொண்டிருந்தவர்கள் ஊசிகளுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-4427b988)
 - 2025-11-07 | `virakesarilk-66edc262` | முல்லைத்தீவு விசுவமடுவில் சுகாதார சீர்கேட்டுடன் இயங்கிய உணவகத்திற்கு சீல் : உரிமையாளருக்கு 50,000 ரூபா தண்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-66edc262)
 - 2025-11-07 | `virakesarilk-4baf57a3` | கொட்டாஞ்சேனையில் துப்பாக்கிச் சூடு – காயமடைந்தவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-4baf57a3)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-07 | `virakesarilk-3c50156d` | பழைய வீடியோக்களையும் உயர் HD தரத்தில் பார்க்க யூடியூப்பில் புதிய வசதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-3c50156d)
 - 2025-11-07 | `tamilmirrorlk-78912514` | 1,757  பில்லியன் ரூபாய் பற்றாக்குறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-78912514)
 - 2025-11-07 | `lankadeepalk-cadc7376` | කෝටි 10ක් සොරාගත් සුරාබදු නිලධාරීන් පස්දෙනා රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-lankadeepalk-cadc7376)
-- 2025-11-07 | `virakesarilk-d0af8a37` | விபத்தில் சிக்கி இஸ்ரேலிய பிரஜை படுகாயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-d0af8a37)
-- 2025-11-07 | `virakesarilk-3b58c0fd` | நான்கரை மணிநேரம் வரவு - செலவுத் திட்ட உரையாற்றிய ஜனாதிபதி எதிர்க்கட்சிகளிடம் விடுத்த வேண்டுகோள் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-3b58c0fd)
 
 ---
 
