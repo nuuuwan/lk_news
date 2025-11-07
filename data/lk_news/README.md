@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_01:47:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_02:16:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,457** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,459** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-08-dailyftlk-f114a85b",
-    "num": "dailyftlk-f114a85b",
+    "doc_id": "2025-11-08-dailyftlk-8e42c4bd",
+    "num": "dailyftlk-8e42c4bd",
     "date_str": "2025-11-08",
-    "description": "President via Budget 2026 lures foreign investors",
-    "url_metadata": "https://www.ft.lk/business/President-via-Budget-2026-lures-foreign-investors/34-784058",
+    "description": "Correction",
+    "url_metadata": "https://www.ft.lk/news/Correction/56-784059",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762545448.0
+    "time_ut": 1762547785.0
 }
 ```
 
@@ -41,7 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-08 | `dailyftlk-8e42c4bd` | Correction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-8e42c4bd)
 - 2025-11-08 | `dailyftlk-f114a85b` | President via Budget 2026 lures foreign investors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-f114a85b)
+- 2025-11-08 | `dailyftlk-d1b1d89d` | AKD issues open, honest invitation to all Sri Lankans abroad to help rebuild motherland | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-d1b1d89d)
 - 2025-11-08 | `dailyftlk-47781da7` | INFOTEL 2025 opens at BMICH | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-47781da7)
 - 2025-11-08 | `dailyftlk-e57a40b3` | SLASSCOM AI Asia Summit 2025: Turning vision into measurable impact | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-e57a40b3)
 - 2025-11-08 | `dailyftlk-b6aad53b` | AKD questions morality of ex-Presidents’ privileges after bankrupting SL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-b6aad53b)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-07 | `virakesarilk-35292a8f` | இனப்பிரச்சினைக்கு தீர்வு இன்றி பொருளாதார முன்னேற்றம் சாத்தியமில்லை – எஸ். சிறிதரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-35292a8f)
 - 2025-11-07 | `tamilmirrorlk-4ad89af3` | தியவதன நிலமே தெரிவுசெய்யப்பட்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-4ad89af3)
 - 2025-11-07 | `virakesarilk-9320e7c8` | 2026 வரவு–செலவுத் திட்டம் சமர்ப்பிப்பு ; ரூ. 1,757 பில்லியன் பற்றாக்குறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-9320e7c8)
-- 2025-11-07 | `virakesarilk-b33b86f5` | ஜனாதிபதியின் வரவு செலவுத் திட்டத்தில் மலையகத்திற்கான திட்டங்கள் வரவேற்கத்தக்கது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-b33b86f5)
-- 2025-11-07 | `virakesarilk-52f49718` | வடக்கு மாகாணத்துக்கு ஒரே தடவையில் அதிகூடிய ஆயுள்வேத மருத்துவ உத்தியோகத்தர்கள் - ஜனாதிபதி மற்றும் சுகாதார அமைச்சருக்கு ஆளுநர் நன்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-52f49718)
 
 ---
 
