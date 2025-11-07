@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_01:14:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_01:47:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,452** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,457** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-07-dailyftlk-c422de59",
-    "num": "dailyftlk-c422de59",
-    "date_str": "2025-11-07",
-    "description": "Can SMEs boost exports as well as foreign reserves into the stratosphere through sharper policy? (2/2)",
-    "url_metadata": "https://www.ft.lk/columns/Can-SMEs-boost-exports-as-well-as-foreign-reserves-into-the-stratosphere-through-sharper-policy-2-2/4-784046",
+    "doc_id": "2025-11-08-dailyftlk-f114a85b",
+    "num": "dailyftlk-f114a85b",
+    "date_str": "2025-11-08",
+    "description": "President via Budget 2026 lures foreign investors",
+    "url_metadata": "https://www.ft.lk/business/President-via-Budget-2026-lures-foreign-investors/34-784058",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762538885.0
+    "time_ut": 1762545448.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-08 | `dailyftlk-f114a85b` | President via Budget 2026 lures foreign investors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-f114a85b)
+- 2025-11-08 | `dailyftlk-47781da7` | INFOTEL 2025 opens at BMICH | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-47781da7)
+- 2025-11-08 | `dailyftlk-e57a40b3` | SLASSCOM AI Asia Summit 2025: Turning vision into measurable impact | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-e57a40b3)
+- 2025-11-08 | `dailyftlk-b6aad53b` | AKD questions morality of ex-Presidents’ privileges after bankrupting SL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-b6aad53b)
+- 2025-11-08 | `dailyftlk-e0785c2b` | ITAK urges President not to appoint members from security backgrounds to Office of Repatriation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-e0785c2b)
 - 2025-11-07 | `dailyftlk-c422de59` | Can SMEs boost exports as well as foreign reserves into the stratosphere through sharper policy? (2/2) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-c422de59)
 - 2025-11-07 | `dailyftlk-1772fb70` | Israel and UAE: Partners in genocide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-1772fb70)
 - 2025-11-07 | `dailyftlk-42cd523a` | Kunming Biodiversity Fund approves $5.8 m in funding for FAO-led projects in SL among others | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-42cd523a)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-11-07 | `virakesarilk-9320e7c8` | 2026 வரவு–செலவுத் திட்டம் சமர்ப்பிப்பு ; ரூ. 1,757 பில்லியன் பற்றாக்குறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-9320e7c8)
 - 2025-11-07 | `virakesarilk-b33b86f5` | ஜனாதிபதியின் வரவு செலவுத் திட்டத்தில் மலையகத்திற்கான திட்டங்கள் வரவேற்கத்தக்கது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-b33b86f5)
 - 2025-11-07 | `virakesarilk-52f49718` | வடக்கு மாகாணத்துக்கு ஒரே தடவையில் அதிகூடிய ஆயுள்வேத மருத்துவ உத்தியோகத்தர்கள் - ஜனாதிபதி மற்றும் சுகாதார அமைச்சருக்கு ஆளுநர் நன்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-52f49718)
-- 2025-11-07 | `virakesarilk-db752617` | ஈஸி கேஷ் (Ez Cash) முறையைப் பயன்படுத்தி போதைப்பொருள் விற்பனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-db752617)
-- 2025-11-07 | `lankadeepalk-22810b77` | අඳුරු වළාවකින් පසු හිරු පායනවාමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-lankadeepalk-22810b77)
-- 2025-11-07 | `tamilmirrorlk-5f606eea` | அயர்ந்து தூங்கினார் அர்ச்சுனா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-5f606eea)
-- 2025-11-07 | `virakesarilk-3c50156d` | பழைய வீடியோக்களையும் உயர் HD தரத்தில் பார்க்க யூடியூப்பில் புதிய வசதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-3c50156d)
-- 2025-11-07 | `tamilmirrorlk-78912514` | 1,757  பில்லியன் ரூபாய் பற்றாக்குறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-78912514)
 
 ---
 

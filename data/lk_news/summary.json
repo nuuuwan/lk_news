@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-08 01:14:08",
-  "n_docs": 85452,
+  "time_updated": "2025-11-08 01:46:41",
+  "n_docs": 85457,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 85452,
+  "n_docs_with_text": 85457,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2025-11-07",
-  "dataset_size": 1269458222,
+  "date_str_max": "2025-11-08",
+  "dataset_size": 1269473912,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "si",
     "ta",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-07-dailyftlk-c422de59",
-    "num": "dailyftlk-c422de59",
-    "date_str": "2025-11-07",
-    "description": "Can SMEs boost exports as well as foreign reserves into the stratosphere through sharper policy? (2/2)",
-    "url_metadata": "https://www.ft.lk/columns/Can-SMEs-boost-exports-as-well-as-foreign-reserves-into-the-stratosphere-through-sharper-policy-2-2/4-784046",
+    "doc_id": "2025-11-08-dailyftlk-f114a85b",
+    "num": "dailyftlk-f114a85b",
+    "date_str": "2025-11-08",
+    "description": "President via Budget 2026 lures foreign investors",
+    "url_metadata": "https://www.ft.lk/business/President-via-Budget-2026-lures-foreign-investors/34-784058",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762538885.0
+    "time_ut": 1762545448.0
   }
 }
