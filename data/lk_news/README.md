@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_06:03:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_06:30:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,202** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,206** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-07-dailyftlk-08ff3504",
-    "num": "dailyftlk-08ff3504",
+    "doc_id": "2025-11-07-dailyftlk-4055c4cb",
+    "num": "dailyftlk-4055c4cb",
     "date_str": "2025-11-07",
-    "description": "Fourth round of Sri Lanka-Bangladesh Foreign Office Consultations concludes",
-    "url_metadata": "https://www.ft.lk/news/Fourth-round-of-Sri-Lanka-Bangladesh-Foreign-Office-Consultations-concludes/56-783997",
+    "description": "\u201cMahinda Sulanga\u201d, \u201cMaha Jana Handa\u201d and Nugegoda mass rallies",
+    "url_metadata": "https://www.ft.lk/columns/Mahinda-Sulanga-Maha-Jana-Handa-and-Nugegoda-mass-rallies/4-784004",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762475335.0
+    "time_ut": 1762476793.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-07 | `dailyftlk-4055c4cb` | “Mahinda Sulanga”, “Maha Jana Handa” and Nugegoda mass rallies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-4055c4cb)
+- 2025-11-07 | `dailyftlk-56886734` | Beyond congestion: Urgent need to reform Colombo’s port operations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-56886734)
+- 2025-11-07 | `dailyftlk-1e9ac5bf` | Can SMEs boost exports and foreign reserves  into the stratosphere through sharper policy? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-1e9ac5bf)
 - 2025-11-07 | `dailyftlk-08ff3504` | Fourth round of Sri Lanka-Bangladesh Foreign Office Consultations concludes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-08ff3504)
 - 2025-11-07 | `dailyftlk-966ec949` | JVP Minister slams welfare dependency as ‘legal begging’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-966ec949)
 - 2025-11-07 | `dailyftlk-b19cb968` | Verité Media and Politics presents proposal for ethical reporting on women | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-b19cb968)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-06 | `islandlk-1f98a8b8` | Bureau Veritas Lanka achieves Gold at Presidential Environment Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-islandlk-1f98a8b8)
 - 2025-11-06 | `virakesarilk-34252ab6` | எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, இந்தியாவின் தேசிய பாதுகாப்பு ஆலோசகர் அஜித் தோவலை சந்தித்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-34252ab6)
 - 2025-11-06 | `virakesarilk-bb4e32fc` | கண்டி அருப்போலாவில் அமெரிக்கப் பெண் மரணம் ; வீட்டுக்குள் மர்மமாக கண்டெடுக்கப்பட்ட சடலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-bb4e32fc)
-- 2025-11-06 | `virakesarilk-312092b1` | மத்திய ஆசிய 18 வயதுக்குட்பட்ட பெண்கள் கரப்பதாட்டம்: கிர்கிஸ்தானை அதிரவைத்த இலங்கை 3 நேர் செட்களில் வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-312092b1)
-- 2025-11-06 | `virakesarilk-f14fd5d0` | 2035க்குள் தொழுநோயை முழுமையாக ஒழிக்க அரசாங்கம் தீவிர நடவடிக்கை – அமைச்சர் நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-f14fd5d0)
-- 2025-11-06 | `adalk-c794d858` | 5 සිට 13 තෙක් ශ්‍රේණිවල පාසල් කාලය පස්වරු 2 තෙක් දිගු වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-adalk-c794d858)
 
 ---
 

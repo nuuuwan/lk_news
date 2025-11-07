@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-07 06:02:36",
-  "n_docs": 85202,
+  "time_updated": "2025-11-07 06:30:02",
+  "n_docs": 85206,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 85202,
+  "n_docs_with_text": 85206,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-07",
-  "dataset_size": 1264209146,
+  "dataset_size": 1264396866,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-07-dailyftlk-08ff3504",
-    "num": "dailyftlk-08ff3504",
+    "doc_id": "2025-11-07-dailyftlk-4055c4cb",
+    "num": "dailyftlk-4055c4cb",
     "date_str": "2025-11-07",
-    "description": "Fourth round of Sri Lanka-Bangladesh Foreign Office Consultations concludes",
-    "url_metadata": "https://www.ft.lk/news/Fourth-round-of-Sri-Lanka-Bangladesh-Foreign-Office-Consultations-concludes/56-783997",
+    "description": "\u201cMahinda Sulanga\u201d, \u201cMaha Jana Handa\u201d and Nugegoda mass rallies",
+    "url_metadata": "https://www.ft.lk/columns/Mahinda-Sulanga-Maha-Jana-Handa-and-Nugegoda-mass-rallies/4-784004",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762475335.0
+    "time_ut": 1762476793.0
   }
 }
