@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_06:30:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_07:15:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,206** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,213** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-07-dailyftlk-4055c4cb",
-    "num": "dailyftlk-4055c4cb",
+    "doc_id": "2025-11-07-tamilmirrorlk-d44f4099",
+    "num": "tamilmirrorlk-d44f4099",
     "date_str": "2025-11-07",
-    "description": "\u201cMahinda Sulanga\u201d, \u201cMaha Jana Handa\u201d and Nugegoda mass rallies",
-    "url_metadata": "https://www.ft.lk/columns/Mahinda-Sulanga-Maha-Jana-Handa-and-Nugegoda-mass-rallies/4-784004",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1762476793.0
+    "description": "\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 9 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-9-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-367478",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1762478894.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-07 | `tamilmirrorlk-d44f4099` | போதைப்பொருள் வைத்திருந்த 9 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-d44f4099)
+- 2025-11-07 | `dailyftlk-57e9dd94` | Sunshine Holdings delivers robust performance in 1H FY26 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-57e9dd94)
+- 2025-11-07 | `dailyftlk-c614e494` | Lalith Withana joins Hunters & Co. Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-c614e494)
+- 2025-11-07 | `dailyftlk-86d8ee93` | Nelaka Haturusinha joins Colombo City Holdings’ Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-86d8ee93)
+- 2025-11-07 | `dailyftlk-8e5bd0b0` | Policy challengers: Where to start? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-8e5bd0b0)
+- 2025-11-07 | `tamilmirrorlk-915b72b3` | 2026 ஆம் ஆண்டுக்கான பட்ஜெட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-915b72b3)
+- 2025-11-07 | `dailyftlk-792db7f5` | Sri Lanka’s Northern Gateway: Economic promise and geopolitical power in Indian Ocean | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-792db7f5)
 - 2025-11-07 | `dailyftlk-4055c4cb` | “Mahinda Sulanga”, “Maha Jana Handa” and Nugegoda mass rallies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-4055c4cb)
 - 2025-11-07 | `dailyftlk-56886734` | Beyond congestion: Urgent need to reform Colombo’s port operations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-56886734)
 - 2025-11-07 | `dailyftlk-1e9ac5bf` | Can SMEs boost exports and foreign reserves  into the stratosphere through sharper policy? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-1e9ac5bf)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-11-07 | `virakesarilk-e3a4fef8` | இந்த ஆண்டு இதுவரை 2210 வீதி விபத்துகளில் 2,343 பேர் பலி – பொலிஸ் ஊடகப் பேச்சாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-e3a4fef8)
 - 2025-11-07 | `virakesarilk-6e2373a1` | யாழில் ஹெரோயினுடன் சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-6e2373a1)
 - 2025-11-07 | `virakesarilk-c62827f0` | யாழில் கூரிய ஆயுதங்கள் மற்றும் போதைப்பொருளுடன் ஒன்பது பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-c62827f0)
-- 2025-11-06 | `tamilmirrorlk-03fb8e86` | ‘கேஜிஎஃப்’ பட நடிகர் திடீர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-tamilmirrorlk-03fb8e86)
-- 2025-11-06 | `islandlk-e75d22f7` | LOLC Al-Falaah Honoured ‘NBFI of the Decade’ at IFFSA 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-islandlk-e75d22f7)
-- 2025-11-06 | `islandlk-fd3e0ec2` | HNB Assurance leads the industry with Q3 GWP Growth of 38% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-islandlk-fd3e0ec2)
-- 2025-11-06 | `islandlk-27ac6d02` | Miss Universe Sri Lanka 2025 Lihasha Lindsay White departs for Bangkok | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-islandlk-27ac6d02)
-- 2025-11-06 | `islandlk-1f98a8b8` | Bureau Veritas Lanka achieves Gold at Presidential Environment Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-islandlk-1f98a8b8)
-- 2025-11-06 | `virakesarilk-34252ab6` | எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, இந்தியாவின் தேசிய பாதுகாப்பு ஆலோசகர் அஜித் தோவலை சந்தித்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-34252ab6)
-- 2025-11-06 | `virakesarilk-bb4e32fc` | கண்டி அருப்போலாவில் அமெரிக்கப் பெண் மரணம் ; வீட்டுக்குள் மர்மமாக கண்டெடுக்கப்பட்ட சடலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-06-virakesarilk-bb4e32fc)
 
 ---
 
