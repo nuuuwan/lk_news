@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_09:06:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_09:27:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,223** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,225** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-07-tamilmirrorlk-23d75028",
-    "num": "tamilmirrorlk-23d75028",
+    "doc_id": "2025-11-07-lankadeepalk-745c2785",
+    "num": "lankadeepalk-745c2785",
     "date_str": "2025-11-07",
-    "description": "50 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0bae\u0bcb\u0b9a\u0b9f\u0bbf: \u0baa\u0bc6\u0ba3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/50-\u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0bae\u0bcb\u0b9a\u0b9f\u0bbf-\u0baa\u0bc6\u0ba3\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-367481",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1762485420.0
+    "description": "\u0daf\u0d9a\u0dd4\u0dab\u0dd2\u0db1\u0dca \u0d8b\u0dad\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dad\u0dbb\u0dd4\u0dab \u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4 \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0daf\u0d9a\u0dab\u0db1-\u0d8b\u0dad\u0dbb\u0da7\u0dad-\u0dad\u0dbb\u0dab-\u0dc4\u0dc0\u0db8\u0dbb-\u0dc0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0d9a/101-682762",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1762486960.0
 }
 ```
 
@@ -41,9 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-07 | `lankadeepalk-745c2785` | දකුණින් උතුරටත් තරුණ හුවමාරු වැඩසටහනක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-lankadeepalk-745c2785)
 - 2025-11-07 | `tamilmirrorlk-23d75028` | 50 இலட்சம் ரூபாய் மோசடி: பெண் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-23d75028)
 - 2025-11-07 | `tamilmirrorlk-d60070f2` | இன்று இடியுடன் கூடிய மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-d60070f2)
 - 2025-11-07 | `tamilmirrorlk-50d3134c` | இந்திய தேசிய பாதுகாப்பு ஆலோசகருடன் சஜித் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-tamilmirrorlk-50d3134c)
+- 2025-11-07 | `adalk-fdbaff63` | අයවැය නිසා පාර්ලිමේන්තුවේ වැඩ වෙන්නේ මෙහෙමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-adalk-fdbaff63)
 - 2025-11-07 | `lankadeepalk-9755dc34` | පළාත් කීපයකට අද තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-lankadeepalk-9755dc34)
 - 2025-11-07 | `lankadeepalk-70c678e4` | ගම්මන්පිලගේ හඬපටය ගැන වාර්තාවක් කැඳවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-lankadeepalk-70c678e4)
 - 2025-11-07 | `dailyftlk-b562b296` | Govt. moves to enact PPP framework in Q1 next year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-b562b296)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-07 | `dailyftlk-792db7f5` | Sri Lanka’s Northern Gateway: Economic promise and geopolitical power in Indian Ocean | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-792db7f5)
 - 2025-11-07 | `dailyftlk-4055c4cb` | “Mahinda Sulanga”, “Maha Jana Handa” and Nugegoda mass rallies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-4055c4cb)
 - 2025-11-07 | `dailyftlk-56886734` | Beyond congestion: Urgent need to reform Colombo’s port operations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-56886734)
-- 2025-11-07 | `dailyftlk-1e9ac5bf` | Can SMEs boost exports and foreign reserves  into the stratosphere through sharper policy? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-1e9ac5bf)
-- 2025-11-07 | `dailyftlk-08ff3504` | Fourth round of Sri Lanka-Bangladesh Foreign Office Consultations concludes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-08ff3504)
 
 ---
 
