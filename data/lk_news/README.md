@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_08:12:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_09:00:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,479** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,481** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-08-tamilmirrorlk-66fce506",
-    "num": "tamilmirrorlk-66fce506",
+    "doc_id": "2025-11-08-tamilmirrorlk-a16975cb",
+    "num": "tamilmirrorlk-a16975cb",
     "date_str": "2025-11-08",
-    "description": "\u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bcd \u0b8e\u0bae\u0bcd.\u0baa\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbe\u0bb0\u0bcd \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bcd-\u0b8e\u0bae\u0bcd-\u0baa\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbe\u0bb0\u0bcd-\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/175-367603",
+    "description": "\u0b95\u0ba9\u0b95\u0bb0\u0bbe\u0baf\u0ba9\u0bcd\u0b95\u0bc1\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0ba9\u0b95\u0bb0\u0bbe\u0baf\u0ba9\u0bcd\u0b95\u0bc1\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-367605",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1762566437.0
+    "time_ut": 1762571306.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-08 | `tamilmirrorlk-a16975cb` | கனகராயன்குளத்தில் விபத்து: இளைஞர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-a16975cb)
+- 2025-11-08 | `tamilmirrorlk-253dcd49` | ஹெரோயின் நுகர்ந்த மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-253dcd49)
 - 2025-11-08 | `tamilmirrorlk-66fce506` | சாணக்கியன் எம்.பியின் தந்தையார் காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-66fce506)
 - 2025-11-08 | `adalk-281d04aa` | කොටහේන වෙඩි තැබීමකින් පුද්ගලයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-adalk-281d04aa)
 - 2025-11-08 | `virakesarilk-374c04a3` | மாகாண சபைத் தேர்தலை தாமதப்படுத்தும் நழுவல் போக்கை ஜனாதிபதி முன்னெடுக்கிறார் – ரவூப் ஹக்கீம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-374c04a3)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-07 | `islandlk-13524eed` | Bourse upbeat over positive effects of Budget 2026; investor sentiment up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-islandlk-13524eed)
 - 2025-11-07 | `islandlk-1d870389` | Dialog Enterprise powers Industry Expo 2025 with record attendance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-islandlk-1d870389)
 - 2025-11-07 | `dailyftlk-c422de59` | Can SMEs boost exports as well as foreign reserves into the stratosphere through sharper policy? (2/2) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-c422de59)
-- 2025-11-07 | `islandlk-15405ee0` | Colombo Academy of Hospitality Management celebrates Australian qualification achievements at 13th graduation ceremony | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-islandlk-15405ee0)
-- 2025-11-07 | `islandlk-0ad02db9` | AMW strengthens Southern presence with the opening of a new showroom in Matara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-islandlk-0ad02db9)
 
 ---
 
