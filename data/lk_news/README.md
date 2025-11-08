@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_07:13:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_08:12:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,477** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,479** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-08-virakesarilk-374c04a3",
-    "num": "virakesarilk-374c04a3",
+    "doc_id": "2025-11-08-tamilmirrorlk-66fce506",
+    "num": "tamilmirrorlk-66fce506",
     "date_str": "2025-11-08",
-    "description": "\u0bae\u0bbe\u0b95\u0bbe\u0ba3 \u0b9a\u0baa\u0bc8\u0ba4\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bc8 \u0ba4\u0bbe\u0bae\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba8\u0bb4\u0bc1\u0bb5\u0bb2\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc8 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd \u2013 \u0bb0\u0bb5\u0bc2\u0baa\u0bcd \u0bb9\u0b95\u0bcd\u0b95\u0bc0\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/229811",
+    "description": "\u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bcd \u0b8e\u0bae\u0bcd.\u0baa\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbe\u0bb0\u0bcd \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bcd-\u0b8e\u0bae\u0bcd-\u0baa\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbe\u0bb0\u0bcd-\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/175-367603",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1762556820.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1762566437.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-08 | `tamilmirrorlk-66fce506` | சாணக்கியன் எம்.பியின் தந்தையார் காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-66fce506)
+- 2025-11-08 | `adalk-281d04aa` | කොටහේන වෙඩි තැබීමකින් පුද්ගලයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-adalk-281d04aa)
 - 2025-11-08 | `virakesarilk-374c04a3` | மாகாண சபைத் தேர்தலை தாமதப்படுத்தும் நழுவல் போக்கை ஜனாதிபதி முன்னெடுக்கிறார் – ரவூப் ஹக்கீம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-374c04a3)
 - 2025-11-08 | `virakesarilk-334d3ac2` | தலதா மாளிகையின் தியவடன நிலமேயாக பிரதீப் நிலங்க தேல மீண்டும் தெரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-334d3ac2)
 - 2025-11-08 | `virakesarilk-b7642e4d` | மட்டக்களப்பு குருக்கள் மடத்தில் பாரிய விபத்து; மூன்று இளைஞர்கள் படுகாயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-b7642e4d)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-07 | `dailyftlk-c422de59` | Can SMEs boost exports as well as foreign reserves into the stratosphere through sharper policy? (2/2) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-c422de59)
 - 2025-11-07 | `islandlk-15405ee0` | Colombo Academy of Hospitality Management celebrates Australian qualification achievements at 13th graduation ceremony | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-islandlk-15405ee0)
 - 2025-11-07 | `islandlk-0ad02db9` | AMW strengthens Southern presence with the opening of a new showroom in Matara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-islandlk-0ad02db9)
-- 2025-11-07 | `dailyftlk-1772fb70` | Israel and UAE: Partners in genocide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-1772fb70)
-- 2025-11-07 | `dailyftlk-42cd523a` | Kunming Biodiversity Fund approves $5.8 m in funding for FAO-led projects in SL among others | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-42cd523a)
 
 ---
 
