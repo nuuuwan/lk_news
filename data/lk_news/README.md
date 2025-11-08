@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_16:45:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_17:15:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,535** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,536** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-08-virakesarilk-7502f4bf",
-    "num": "virakesarilk-7502f4bf",
+    "doc_id": "2025-11-08-lankadeepalk-c13750b8",
+    "num": "lankadeepalk-c13750b8",
     "date_str": "2025-11-08",
-    "description": "\u0b9a\u0bae\u0bcd\u0baa\u0ba4\u0bcd \u0bae\u0ba9\u0bae\u0bcd\u0baa\u0bc7\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bca\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0ba9 \u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd!",
-    "url_metadata": "https://www.virakesari.lk/article/229850",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1762597620.0
+    "description": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0dc3\u0db7\u0dcf \u0d85\u0dc0\u0dd4\u0dbd:  \u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0dad\u0dd3\u0dbb\u0dab\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dad-\u0dc3\u0db7-\u0d85\u0dc0\u0dbd-\u0d86\u0dab\u0da9\u0dc0\u0db1-\u0d85\u0dbd\u0dad-\u0dad\u0dbb\u0dab\u0dba\u0d9a/101-682820",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1762601106.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-08 | `lankadeepalk-c13750b8` | පළාත් සභා අවුල:  ආණ්ඩුවෙන් අලුත් තීරණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-c13750b8)
 - 2025-11-08 | `virakesarilk-7502f4bf` | சம்பத் மனம்பேரிக்கு சொந்தமான வாகனங்கள் கைப்பற்றல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-7502f4bf)
 - 2025-11-08 | `adalk-a8660a53` | ආයුර්වේද වෛද්‍ය පීඨයන්ගේ පවතින ගැටළු විසදීමට සාකච්ඡාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-adalk-a8660a53)
 - 2025-11-08 | `virakesarilk-da008319` | அமெரிக்க விஞ்ஞானி ஜேம்ஸ் வாட்சன் காலமானார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-da008319)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-08 | `virakesarilk-b9eb174d` | நவம்பர் மாதத்தின் முதல் ஐந்து நாட்களில் 32 ஆயிரத்துக்கும் மேற்பட்ட சுற்றுலாப் பயணிகள் நாட்டுக்கு வருகை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-b9eb174d)
 - 2025-11-08 | `virakesarilk-8cf432b5` | ருஹுணு பல்கலைக்கழக இணை சுகாதாரப் பீடத்தின் 17வது குழுவின் கல்வி நடவடிக்கைகளை தொடங்க தற்காலிக மனிதவளத்தை வழங்குமாறு மேற்பார்வைக் குழு கோரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-8cf432b5)
 - 2025-11-08 | `tamilmirrorlk-a27b46e8` | வரவுசெலவுத் திட்டத்தின் மீதான விவாதம் இன்று | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-a27b46e8)
-- 2025-11-08 | `tamilmirrorlk-4f8d1787` | 3 கிலோவுக்கும் அதிகமான ஹெரோயினுடன் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-4f8d1787)
 
 ---
 
