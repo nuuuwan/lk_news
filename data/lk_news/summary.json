@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-09 03:14:11",
-  "n_docs": 85569,
+  "time_updated": "2025-11-09 03:45:05",
+  "n_docs": 85570,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 85569,
+  "n_docs_with_text": 85570,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-08",
-  "dataset_size": 1273346733,
+  "dataset_size": 1273355075,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-08-lankadeepalk-d2fc3913",
-    "num": "lankadeepalk-d2fc3913",
+    "doc_id": "2025-11-08-colombotelegraphcom-93b8dac1",
+    "num": "colombotelegraphcom-93b8dac1",
     "date_str": "2025-11-08",
-    "description": "\u0d9a\u0db1\u0dca\u0daf\u0dda\u0d9c\u0db8 \u0db0\u0dbb\u0dca\u0db8 \u0dc1\u0dcf\u0dbd\u0dcf\u0dc0\u0da7 \u0dc0\u0db1 \u0d85\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0db1\u0daf\u0d9c\u0db8-\u0db0\u0dbb\u0db8-\u0dc1\u0dbd\u0dc0\u0da7-\u0dc0\u0db1-\u0d85\u0dbd-\u0db4\u0dbb\u0dc4\u0dbb\u0dba\u0d9a/101-682830",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1762617678.0
+    "description": "Thirty-One Years After: A Son\u2019s Reflection On Loss & Moral Courage",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/thirty-one-years-after-a-sons-reflection-on-loss-moral-courage/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1762619131.0
   }
 }
