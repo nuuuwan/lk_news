@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_13:14:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_13:47:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,513** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,514** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A collection of lk_news documents.
 - 2025-11-08 | `tamilmirrorlk-a27b46e8` | வரவுசெலவுத் திட்டத்தின் மீதான விவாதம் இன்று | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-a27b46e8)
 - 2025-11-08 | `tamilmirrorlk-4f8d1787` | 3 கிலோவுக்கும் அதிகமான ஹெரோயினுடன் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-4f8d1787)
 - 2025-11-08 | `virakesarilk-c332b729` | செலான் வங்கியின் 286ஆவது 'செலான் பெஹெசர' நூலகம் திறந்து வைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-c332b729)
+- 2025-11-08 | `adalk-76569347` | රුහුණේ සම සෞඛ්‍ය විද්‍යාපීඨයේ ගැටලුව පාර්ලිමේන්තුවට යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-adalk-76569347)
 - 2025-11-08 | `lankadeepalk-a0be140a` | අවුරුද්දකට පෙර කළ ඝාතනයකට තිදෙනෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-a0be140a)
 - 2025-11-08 | `virakesarilk-7349b608` | இன்றைய தங்க விலை நிலைவரம் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-7349b608)
 - 2025-11-08 | `lankadeepalk-b0223db3` | ආණ්ඩුවේ වසරක ශේෂ පත්‍රය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-b0223db3)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-08 | `lankadeepalk-d7a9eb4e` | ඉන්දියාවේ එක්ක නොගියාට සජබ මන්ත්‍රීලා ලොකු අවුලක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-d7a9eb4e)
 - 2025-11-08 | `lankadeepalk-a098fd3b` | කොටහේනේදී වෙඩි කැ පුද්ගලයා මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-a098fd3b)
 - 2025-11-08 | `lankadeepalk-12971d68` | දරුවා ලොරියට බිලි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-12971d68)
-- 2025-11-08 | `lankadeepalk-4caa2997` | දිවයිනේ බොහෝ ප්‍රදේශවලට අද තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-4caa2997)
 
 ---
 
