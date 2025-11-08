@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_11:48:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_12:21:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,504** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,507** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-08-virakesarilk-7349b608",
-    "num": "virakesarilk-7349b608",
+    "doc_id": "2025-11-08-tamilmirrorlk-4f8d1787",
+    "num": "tamilmirrorlk-4f8d1787",
     "date_str": "2025-11-08",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0ba4\u0b99\u0bcd\u0b95 \u0bb5\u0bbf\u0bb2\u0bc8 \u0ba8\u0bbf\u0bb2\u0bc8\u0bb5\u0bb0\u0bae\u0bcd !",
-    "url_metadata": "https://www.virakesari.lk/article/229830",
+    "description": "3 \u0b95\u0bbf\u0bb2\u0bcb\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/3-\u0b95\u0bbf\u0bb2\u0bcb\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9-\u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd-\u0bae\u0bc2\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-367606",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1762581540.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1762584309.0
 }
 ```
 
@@ -41,8 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-08 | `tamilmirrorlk-4f8d1787` | 3 கிலோவுக்கும் அதிகமான ஹெரோயினுடன் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-4f8d1787)
+- 2025-11-08 | `lankadeepalk-a0be140a` | අවුරුද්දකට පෙර කළ ඝාතනයකට තිදෙනෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-a0be140a)
 - 2025-11-08 | `virakesarilk-7349b608` | இன்றைய தங்க விலை நிலைவரம் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-7349b608)
 - 2025-11-08 | `lankadeepalk-b0223db3` | ආණ්ඩුවේ වසරක ශේෂ පත්‍රය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-b0223db3)
+- 2025-11-08 | `adalk-79c36e98` | වතුකරයට හෙරොයින් විකිණූ “මහරගම අක්කා” අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-adalk-79c36e98)
 - 2025-11-08 | `virakesarilk-97072bb6` | யாழில் பெண் தலைவர்களை வலுப்படுத்துவது தொடர்பில் விசேட வேலைத்திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-97072bb6)
 - 2025-11-08 | `virakesarilk-847387ed` | நாடளாவிய ரீதியில் விசேட சுற்றிவளைப்பு ;  பலர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-847387ed)
 - 2025-11-08 | `adalk-c752a26b` | වැටුප් වැඩි කිරීම ගැන වතුකරය සතුටින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-adalk-c752a26b)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-08 | `virakesarilk-81c6b364` | நீர்கொழும்பு ஏத்துகல கடல் நீரோட்டத்தில் சிக்கியவர் பொலிஸாரால் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-81c6b364)
 - 2025-11-08 | `virakesarilk-8b3edb18` | கெப்பட்டிபொல பகுதியில் வீடொன்றில் மின்சாரம் தாக்கி ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-8b3edb18)
 - 2025-11-08 | `tamilmirrorlk-a16975cb` | கனகராயன்குளத்தில் விபத்து: இளைஞர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-a16975cb)
-- 2025-11-08 | `tamilmirrorlk-253dcd49` | ஹெரோயின் நுகர்ந்த மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-253dcd49)
-- 2025-11-08 | `adalk-808695a1` | මාලිමාවට බලය හිමි සොරණාතොට ප්‍රා ස අයවැය පරදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-adalk-808695a1)
-- 2025-11-08 | `tamilmirrorlk-66fce506` | சாணக்கியன் எம்.பியின் தந்தையார் காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-66fce506)
 
 ---
 
