@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_05:15:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_06:00:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,467** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,475** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -54,13 +54,13 @@ A collection of lk_news documents.
 - 2025-11-08 | `dailyftlk-e57a40b3` | SLASSCOM AI Asia Summit 2025: Turning vision into measurable impact | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-e57a40b3)
 - 2025-11-08 | `dailyftlk-b6aad53b` | AKD questions morality of ex-Presidents’ privileges after bankrupting SL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-b6aad53b)
 - 2025-11-08 | `dailyftlk-e0785c2b` | ITAK urges President not to appoint members from security backgrounds to Office of Repatriation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-dailyftlk-e0785c2b)
+- 2025-11-07 | `islandlk-13524eed` | Bourse upbeat over positive effects of Budget 2026; investor sentiment up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-islandlk-13524eed)
+- 2025-11-07 | `islandlk-1d870389` | Dialog Enterprise powers Industry Expo 2025 with record attendance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-islandlk-1d870389)
 - 2025-11-07 | `dailyftlk-c422de59` | Can SMEs boost exports as well as foreign reserves into the stratosphere through sharper policy? (2/2) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-c422de59)
+- 2025-11-07 | `islandlk-15405ee0` | Colombo Academy of Hospitality Management celebrates Australian qualification achievements at 13th graduation ceremony | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-islandlk-15405ee0)
+- 2025-11-07 | `islandlk-0ad02db9` | AMW strengthens Southern presence with the opening of a new showroom in Matara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-islandlk-0ad02db9)
 - 2025-11-07 | `dailyftlk-1772fb70` | Israel and UAE: Partners in genocide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-1772fb70)
 - 2025-11-07 | `dailyftlk-42cd523a` | Kunming Biodiversity Fund approves $5.8 m in funding for FAO-led projects in SL among others | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-dailyftlk-42cd523a)
-- 2025-11-07 | `virakesarilk-4427b988` | யாழில். ஹெரோயின் நுகர்ந்துகொண்டிருந்தவர்கள் ஊசிகளுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-4427b988)
-- 2025-11-07 | `virakesarilk-66edc262` | முல்லைத்தீவு விசுவமடுவில் சுகாதார சீர்கேட்டுடன் இயங்கிய உணவகத்திற்கு சீல் : உரிமையாளருக்கு 50,000 ரூபா தண்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-66edc262)
-- 2025-11-07 | `colombotelegraphcom-2102b192` | AKD Is Ready | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-colombotelegraphcom-2102b192)
-- 2025-11-07 | `virakesarilk-4baf57a3` | கொட்டாஞ்சேனையில் துப்பாக்கிச் சூடு – காயமடைந்தவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-07-virakesarilk-4baf57a3)
 
 ---
 
