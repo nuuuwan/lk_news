@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_17:48:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_18:27:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,546** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,550** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-08-virakesarilk-75308430",
-    "num": "virakesarilk-75308430",
+    "doc_id": "2025-11-08-tamilmirrorlk-67213961",
+    "num": "tamilmirrorlk-67213961",
     "date_str": "2025-11-08",
-    "description": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bc7\u0bb0\u0ba9\u0bbf\u0ba9\u0bcd '\u0b86\u0b9f\u0bcd\u0b9f\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0baa\u0bcd '",
-    "url_metadata": "https://www.virakesari.lk/article/229858",
+    "description": "\u0bb0\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd \u0bae\u0bcb\u0ba4\u0bbf \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0baf\u0bbf\u0bb2\u0bbf\u0bb2\u0bcd-\u0bae\u0bcb\u0ba4\u0bbf-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/175-367609",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1762603440.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1762606246.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-08 | `tamilmirrorlk-67213961` | ரயிலில் மோதி ஒருவர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-67213961)
+- 2025-11-08 | `lankadeepalk-f6bacec8` | මනම්පේරි කුඩුවලින් සොයා ගත් බසයක් - මෝටර් රථයක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-f6bacec8)
+- 2025-11-08 | `lankadeepalk-3af3f17b` | සරසවි නේවාසිකාගාරයෙන් කලලයක කොටස් හමු වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-3af3f17b)
+- 2025-11-08 | `lankadeepalk-4474d28c` | ජනපති අයවැයේදී නොකිව් දෙයක් හර්ෂ මතක් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-4474d28c)
 - 2025-11-08 | `virakesarilk-75308430` | மீண்டும் வெளியாகும் சேரனின் 'ஆட்டோகிராப் ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-75308430)
 - 2025-11-08 | `adalk-993dfc15` | ආණ්ඩුව සාර්ව ආර්ථිකය ස්ථාවර කළා, භාණ්ඩාගාරය පළමු වතාවට උතුරලා ගිහිල්ලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-adalk-993dfc15)
 - 2025-11-08 | `virakesarilk-aef1b43d` | அருண் விஜய் நடிக்கும் ' ரெட்ட தல' படத்தின் வெளியீட்டு திகதி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-aef1b43d)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-08 | `virakesarilk-da008319` | அமெரிக்க விஞ்ஞானி ஜேம்ஸ் வாட்சன் காலமானார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-da008319)
 - 2025-11-08 | `lankadeepalk-d893c4cf` | මැතිසබා  කමිටුවෙන් රුහුණු විශ්ව විද්‍යාලයට නියෝගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-d893c4cf)
 - 2025-11-08 | `lankadeepalk-134e1032` | විපක්ෂයේ බලාපොරොත්තු බිඳ වැටුණු අයවැයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-134e1032)
-- 2025-11-08 | `virakesarilk-81f22309` | போதைப்பொருள் விற்பனையில் ஈடுபட்ட தம்பதி கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-81f22309)
-- 2025-11-08 | `virakesarilk-6ae85ab0` | 10 நோயாளிகளை ஊசி போட்டு கொலை செய்த தாதி - ஜேர்மனியில் சம்பவம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-6ae85ab0)
-- 2025-11-08 | `virakesarilk-1c56f2d5` | சட்டவிரோதமாக இராமேஸ்வரத்திற்கு சென்ற இலங்கை பிரஜைக்கு விளக்கமறியல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-1c56f2d5)
-- 2025-11-08 | `virakesarilk-324085d5` | இலங்கையின் மிகப்பெரிய மின்சார வாகன விநியோகத்தை நிறைவேற்றுகிறது பிரவுன்ஸ் EV | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-324085d5)
 
 ---
 
