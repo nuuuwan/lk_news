@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_11:16:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--08_11:48:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,500** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,504** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-08-adalk-c752a26b",
-    "num": "adalk-c752a26b",
+    "doc_id": "2025-11-08-virakesarilk-7349b608",
+    "num": "virakesarilk-7349b608",
     "date_str": "2025-11-08",
-    "description": "\u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d9c\u0dd0\u0db1 \u0dc0\u0dad\u0dd4\u0d9a\u0dbb\u0dba \u0dc3\u0dad\u0dd4\u0da7\u0dd2\u0db1\u0dca",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca-\u0dc0\u0dd0\u0da9\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d9c\u0dd0\u0db1-\u0dc0\u0dad\u0dd4\u0d9a\u0dbb\u0dba-\u0dc3\u0dad\u0dd4\u0da7\u0dd2\u0db1\u0dca/11-419574",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1762576266.0
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0ba4\u0b99\u0bcd\u0b95 \u0bb5\u0bbf\u0bb2\u0bc8 \u0ba8\u0bbf\u0bb2\u0bc8\u0bb5\u0bb0\u0bae\u0bcd !",
+    "url_metadata": "https://www.virakesari.lk/article/229830",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1762581540.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-08 | `virakesarilk-7349b608` | இன்றைய தங்க விலை நிலைவரம் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-7349b608)
+- 2025-11-08 | `lankadeepalk-b0223db3` | ආණ්ඩුවේ වසරක ශේෂ පත්‍රය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-b0223db3)
+- 2025-11-08 | `virakesarilk-97072bb6` | யாழில் பெண் தலைவர்களை வலுப்படுத்துவது தொடர்பில் விசேட வேலைத்திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-97072bb6)
+- 2025-11-08 | `virakesarilk-847387ed` | நாடளாவிய ரீதியில் விசேட சுற்றிவளைப்பு ;  பலர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-847387ed)
 - 2025-11-08 | `adalk-c752a26b` | වැටුප් වැඩි කිරීම ගැන වතුකරය සතුටින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-adalk-c752a26b)
 - 2025-11-08 | `virakesarilk-f0c875fb` | விபத்தில் சிக்கி  சிறுவன் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-f0c875fb)
 - 2025-11-08 | `virakesarilk-50ce74b6` | பெருமளவிலான ஹெரோயின் போதைப்பொருளுடன் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-50ce74b6)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-08 | `tamilmirrorlk-253dcd49` | ஹெரோயின் நுகர்ந்த மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-253dcd49)
 - 2025-11-08 | `adalk-808695a1` | මාලිමාවට බලය හිමි සොරණාතොට ප්‍රා ස අයවැය පරදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-adalk-808695a1)
 - 2025-11-08 | `tamilmirrorlk-66fce506` | சாணக்கியன் எம்.பியின் தந்தையார் காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-66fce506)
-- 2025-11-08 | `adalk-79ec492f` | රිය අනතුරු හයකින් දරුවෙක් ඇතුළු 6ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-adalk-79ec492f)
-- 2025-11-08 | `adalk-281d04aa` | කොටහේන වෙඩි තැබීමකින් පුද්ගලයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-adalk-281d04aa)
-- 2025-11-08 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-3a015e4a)
-- 2025-11-08 | `virakesarilk-ae45d754` | நாட்டு மக்களின் நலன் கருதி அரசாங்கம் எடுக்கும் சிறந்த தீர்மானங்களுக்கு ஒத்துழைப்பு வழங்குவோம் -  ஹர்ஷ டி சில்வா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-ae45d754)
 
 ---
 
