@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-10 02:45:02",
-  "n_docs": 85726,
+  "time_updated": "2025-11-10 03:14:08",
+  "n_docs": 85727,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 85726,
+  "n_docs_with_text": 85727,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-10",
-  "dataset_size": 1275956693,
+  "dataset_size": 1275963016,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-10-dailyftlk-589d7543",
-    "num": "dailyftlk-589d7543",
+    "doc_id": "2025-11-10-dailyftlk-4e165942",
+    "num": "dailyftlk-4e165942",
     "date_str": "2025-11-10",
-    "description": "AKD\u2019s neo-liberal Budget 2026: Will it resolve slow growth issues quickly?",
-    "url_metadata": "https://www.ft.lk/columns/AKD-s-neo-liberal-Budget-2026-Will-it-resolve-slow-growth-issues-quickly/4-784092",
+    "description": "2026 Budget: An opportunity lost?",
+    "url_metadata": "https://www.ft.lk/columns/2026-Budget-An-opportunity-lost/4-784094",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762720460.0
+    "time_ut": 1762722832.0
   }
 }
