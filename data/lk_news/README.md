@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--09_16:45:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--09_17:15:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,697** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,700** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-09-virakesarilk-8e746275",
-    "num": "virakesarilk-8e746275",
+    "doc_id": "2025-11-09-virakesarilk-558879ff",
+    "num": "virakesarilk-558879ff",
     "date_str": "2025-11-09",
-    "description": "\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u00a0\u0b9a\u0bae\u0bcd\u0baa\u0bb3 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u2026! ; \u0b95\u0bc1\u0bb1\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bc1\u0baa\u0bbf\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0b99\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/229932",
+    "description": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b87\u0bb2\u0bb5\u0b9a \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bc8 \u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/229935",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1762686300.0
+    "time_ut": 1762688160.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-09 | `virakesarilk-558879ff` | நாட்டின் இலவச சுகாதார சேவைகளை டிஜிட்டல் மயப்படுத்தும் விசேட கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-558879ff)
+- 2025-11-09 | `lankadeepalk-bf14667a` | මැද පෙරදිග සැඟව සිටින මෙරට මත් කෙරුමෝ හතක් බාර වෙන්න සූදානමක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-bf14667a)
+- 2025-11-09 | `virakesarilk-efd6a785` | வலுவற்ற அரச எதிர்ப்புக் கூட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-efd6a785)
 - 2025-11-09 | `virakesarilk-8e746275` | தொழிலாளர்களுக்கு சம்பள உயர்வு அறிவிப்பு…! ; குறை கண்டுபிடிக்கும் தொழிற்சங்கங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-8e746275)
 - 2025-11-09 | `virakesarilk-ed287470` | போதைப்பொருள் பணம் வட்டிக்கு வழங்கப்பட்டு பல்வேறு குற்றச்செயல்கள் ; யாழில் நிலைமைகளை கட்டுப்படுத்துமாறு ரஜீவன் எம்.பி கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-ed287470)
 - 2025-11-09 | `virakesarilk-0463c67c` | பெருந்தோட்ட மக்களின் அடிப்படை  சம்பளம் அதிகரிக்கப்படுமா? ; ஜீவன் தொண்டமான் எம்.பி கேள்வி ; வருகை கொடுப்பனவு நிரந்தரமானதல்ல எனவும் சுட்டிக்காட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-0463c67c)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-09 | `virakesarilk-73e8d090` | ஊழல்,மோசடிகளுக்கு எதிராக  எடுத்த நடவடிக்கைகள் என்ன? - அரசாங்கத்திடம் அர்ச்சுனா எம்.பி.கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-73e8d090)
 - 2025-11-09 | `virakesarilk-feedb44e` | கடற்படையை பலப்படுத்துகிறதா ஐ.நா.? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-feedb44e)
 - 2025-11-09 | `virakesarilk-9741b703` | வால் அறுந்த பட்டமாய் முஸ்லிம் கட்சிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-9741b703)
-- 2025-11-09 | `tamilmirrorlk-6c398a9e` | காதல் கோபத்தால் பறந்த நாய்க்குட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-tamilmirrorlk-6c398a9e)
-- 2025-11-09 | `tamilmirrorlk-a394d39b` | மீன் வியாபாரி கொலை ; மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-tamilmirrorlk-a394d39b)
-- 2025-11-09 | `virakesarilk-dbe9d53f` | இணையதளத்தில் பதிவேற்ற ஆபாச காணொளிகளை எடுத்த தம்பதி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-dbe9d53f)
 
 ---
 
