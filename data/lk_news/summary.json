@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-10 01:45:30",
-  "n_docs": 85725,
+  "time_updated": "2025-11-10 02:14:47",
+  "n_docs": 85726,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 85725,
+  "n_docs_with_text": 85726,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-10",
-  "dataset_size": 1275880759,
+  "dataset_size": 1275928847,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-10-dailyftlk-ffeab037",
-    "num": "dailyftlk-ffeab037",
+    "doc_id": "2025-11-10-dailyftlk-589d7543",
+    "num": "dailyftlk-589d7543",
     "date_str": "2025-11-10",
-    "description": "International Accounting Day Walk 2025 by CA Sri Lanka",
-    "url_metadata": "https://www.ft.lk/columns/International-Accounting-Day-Walk-2025-by-CA-Sri-Lanka/4-784084",
+    "description": "AKD\u2019s neo-liberal Budget 2026: Will it resolve slow growth issues quickly?",
+    "url_metadata": "https://www.ft.lk/columns/AKD-s-neo-liberal-Budget-2026-Will-it-resolve-slow-growth-issues-quickly/4-784092",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762718037.0
+    "time_ut": 1762720460.0
   }
 }
