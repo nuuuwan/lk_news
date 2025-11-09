@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--09_10:18:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--09_10:47:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,615** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,621** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-09-virakesarilk-dea3dd47",
-    "num": "virakesarilk-dea3dd47",
+    "doc_id": "2025-11-09-virakesarilk-7052ed4f",
+    "num": "virakesarilk-7052ed4f",
     "date_str": "2025-11-09",
-    "description": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf\u0baf\u0bbe? \u0b95\u0bc1\u0bb4\u0baa\u0bcd\u0baa\u0bae\u0bbe?",
-    "url_metadata": "https://www.virakesari.lk/article/229880",
+    "description": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bbf\u0bb2\u0bcd  \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0b95\u0bbf\u0b9f\u0bcd\u00ad\u0b9f\u0bc1\u0bae\u0bbe?",
+    "url_metadata": "https://www.virakesari.lk/article/229883",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1762663260.0
+    "time_ut": 1762664700.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-09 | `virakesarilk-7052ed4f` | வடக்கின் போரில்  வெற்றி கிட்­டுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-7052ed4f)
+- 2025-11-09 | `virakesarilk-5fa62103` | மல்­வத்த பீடா­தி­ப­தியின் அச்சம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-5fa62103)
+- 2025-11-09 | `tamilmirrorlk-f83c9bec` | சவுதியில் சித்திரவதைபடும் மனைவியை மீட்டுத்தாருங்கள்: கணவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-tamilmirrorlk-f83c9bec)
+- 2025-11-09 | `lankadeepalk-3dda52a3` | ජල මාර්ග ප්ලාස්ටික් වලින්  බේරා ගන්න වැඩක් අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-3dda52a3)
+- 2025-11-09 | `virakesarilk-a149c73c` | “எமது தூதுவர்கள் வெறும் விழாத் தூதுவர்களாக இருக்கக் கூடாது ; நாட்டின் முதன்மை சந்தைப்படுத்தல் முகாமையாளர்களாக செயற்பட வேண்டும்.” -  முன்னாள் தூதுவர் கனா  கணநாதன் கூறுகிறார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-a149c73c)
+- 2025-11-09 | `virakesarilk-416f6fe2` | உழவு இயந்திரம் மோதி  சிறுவன் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-416f6fe2)
 - 2025-11-09 | `virakesarilk-dea3dd47` | மீண்டும் கூட்டணியா? குழப்பமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-dea3dd47)
 - 2025-11-09 | `virakesarilk-6b9d3260` | ஆட்­சிக்­க­விழ்ப்­பு­களும் இந்­தி­யாவும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-6b9d3260)
 - 2025-11-09 | `tamilmirrorlk-012835ab` | சைப்ரஸ் மரம் விழுந்ததால் போக்குவரத்து பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-tamilmirrorlk-012835ab)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2025-11-09 | `virakesarilk-568594a9` | ஹெரோயினுடன் 5 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-568594a9)
 - 2025-11-09 | `tamilmirrorlk-58b6e7e3` | பாலியல் கல்வித் திட்டம் குறித்து கர்தினால் ரஞ்சித் கவலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-tamilmirrorlk-58b6e7e3)
 - 2025-11-09 | `tamilmirrorlk-f8337776` | 334 ஆபாச  வீடியோக்களை பதிவேற்றிய தம்பதியினர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-tamilmirrorlk-f8337776)
-- 2025-11-09 | `virakesarilk-be7ecba1` | துப்பாக்கியுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-be7ecba1)
-- 2025-11-09 | `virakesarilk-a59db3f7` | தேவாலய அருட்தந்தை விகாரையில் போதனை  செய்வதை போன்றிருக்கிறது ஜனாதிபதியின் உரை -  ஹர்ஷ டி சில்வா எம்.பி விசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-a59db3f7)
-- 2025-11-09 | `lankadeepalk-4f7e935c` | ආයුර්වේද වෛද්‍ය පීඨ වල ගැටලු ලිහන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-4f7e935c)
-- 2025-11-09 | `virakesarilk-e3b6db45` | கிண்ணியா ஈச்சந்தீவில் நீரில் மிதந்த நிலையில் ஆண் சடலம் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-e3b6db45)
-- 2025-11-09 | `lankadeepalk-1de9c5ea` | අද කාලගුණය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-1de9c5ea)
-- 2025-11-09 | `tamilmirrorlk-d942fdb4` | உக்ரைனின் எரிசக்தி மையங்கள் மீது ரஷ்யா தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-tamilmirrorlk-d942fdb4)
 
 ---
 
