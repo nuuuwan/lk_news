@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--09_05:15:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--09_06:03:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,572** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,587** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -55,12 +55,12 @@ A collection of lk_news documents.
 - 2025-11-08 | `tamilmirrorlk-ac745bfd` | ஜனநாயகன் படத்தின் முதல் பாடல் வெளியானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-ac745bfd)
 - 2025-11-08 | `lankadeepalk-3b152db7` | වතුකරයේ ජනතාව සතුට පළ කරති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-3b152db7)
 - 2025-11-08 | `lankadeepalk-2e15d0fe` | ත්‍රිරෝද රියක් පෙරළී පහක් රෝහලේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-2e15d0fe)
+- 2025-11-08 | `islandlk-c3d96329` | A wake-up call for Charith Asalanka? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-islandlk-c3d96329)
 - 2025-11-08 | `tamilmirrorlk-67213961` | ரயிலில் மோதி ஒருவர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-tamilmirrorlk-67213961)
 - 2025-11-08 | `virakesarilk-c5b3b6c7` | இயக்குநர் ராஜமவுலி இயக்கும் புதிய திரைப்படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-c5b3b6c7)
 - 2025-11-08 | `virakesarilk-821c04e6` | குளோபல் ஸ்டார்' ராம் சரண் நடிக்கும் 'பெத்தி' படத்தின் முதல் பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-821c04e6)
-- 2025-11-08 | `lankadeepalk-f6bacec8` | මනම්පේරි කුඩුවලින් සොයා ගත් බසයක් - මෝටර් රථයක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-f6bacec8)
-- 2025-11-08 | `virakesarilk-72d50b54` | நடிகர் உதய் தீப் நடிக்கும் 'சாவு வீடு ' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-virakesarilk-72d50b54)
-- 2025-11-08 | `lankadeepalk-3af3f17b` | සරසවි නේවාසිකාගාරයෙන් කලලයක කොටස් හමු වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-lankadeepalk-3af3f17b)
+- 2025-11-08 | `islandlk-dd9e1cf7` | SLT-MOBITEL Powers “Techno 2025 – Engineering for a Smart Nation” as Principal Sponsor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-islandlk-dd9e1cf7)
+- 2025-11-08 | `islandlk-aed0a053` | HNB Assurance Celebrates Exceptional Performers at the National Sales Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-08-islandlk-aed0a053)
 
 ---
 
