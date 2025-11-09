@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_01:14:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_01:45:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,724** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,725** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-10-dailyftlk-bf8c386e",
-    "num": "dailyftlk-bf8c386e",
+    "doc_id": "2025-11-10-dailyftlk-ffeab037",
+    "num": "dailyftlk-ffeab037",
     "date_str": "2025-11-10",
-    "description": "Boards that deliver: Embedding accountability and competence into sustainability governance",
-    "url_metadata": "https://www.ft.lk/columns/Boards-that-deliver-Embedding-accountability-and-competence-into-sustainability-governance/4-784083",
+    "description": "International Accounting Day Walk 2025 by CA Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/International-Accounting-Day-Walk-2025-by-CA-Sri-Lanka/4-784084",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762716369.0
+    "time_ut": 1762718037.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-10 | `dailyftlk-ffeab037` | International Accounting Day Walk 2025 by CA Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-ffeab037)
 - 2025-11-10 | `dailyftlk-bf8c386e` | Boards that deliver: Embedding accountability and competence into sustainability governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-bf8c386e)
 - 2025-11-09 | `lankadeepalk-be701cbc` | කෝටි 10ක කුඩු සමග කතක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-be701cbc)
 - 2025-11-09 | `lankadeepalk-3febedf8` | ජනතාවට බෙදන්න ගෙනා සහල්වලටත් බදු ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-3febedf8)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-09 | `tamilmirrorlk-3832d855` | விடுதியில் நஞ்சுக்கொடி: விசாரணைகள் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-tamilmirrorlk-3832d855)
 - 2025-11-09 | `virakesarilk-73effcc1` | மீண்டும் தமிழ்த் தேசியக்  கூட்டமைப்பு? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-73effcc1)
 - 2025-11-09 | `lankadeepalk-3864112d` | ‘‘ජනපති බොරු මල්ලක් ඉදිරිපත් කළා‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-3864112d)
-- 2025-11-09 | `virakesarilk-650b521b` | கம்பனிகளின் விளையாட்டுக்கள் எம்மிடம் செல்லுபடியாகாது  ஜனவரியிலிருந்து நிச்சயம் சம்பள அதிகரிப்பு நடைமுறைப்படுத்தப்படும்  - பிரதி அமைச்சர் சுந்தரலிங்கம் பிரதீப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-650b521b)
 
 ---
 
