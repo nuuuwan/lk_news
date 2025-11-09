@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--09_22:45:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--09_23:15:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,716** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,720** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-09-virakesarilk-2e35e11e",
-    "num": "virakesarilk-2e35e11e",
+    "doc_id": "2025-11-09-lankadeepalk-70f72f06",
+    "num": "lankadeepalk-70f72f06",
     "date_str": "2025-11-09",
-    "description": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0b9a\u0bcd\u0b9a\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95 \u0b9a\u0bbf\u0bb0\u0bae\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baf\u0bc1\u0bb5\u0ba4\u0bbf \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/229941",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1762702560.0
+    "description": "\u0dad\u0dcf\u0dbb\u0dd4\u0dab\u0dca\u200d\u0dba \u0d9c\u0ddc\u0da9 \u0d9c\u0db1\u0dca\u0db1 \u0dc4\u0dd0\u0db8 \u0d9a\u0dd0\u0db4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca\u0db8 \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dad\u0dbb\u0dab\u0dba-\u0d9c\u0da9-\u0d9c\u0db1\u0db1-\u0dc4\u0db8-\u0d9a\u0db4-\u0d9a\u0dbb\u0db8\u0d9a\u0db8-\u0d9a\u0dbb\u0db1\u0dc0/101-682855",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1762709947.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-09 | `lankadeepalk-70f72f06` | තාරුණ්‍ය ගොඩ ගන්න හැම කැප කිරීමක්ම කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-70f72f06)
+- 2025-11-09 | `virakesarilk-7f62cbe7` | அந்நியச் செலாவணியை ஆடம்பர வாகன இறக்குமதிக்கு அரசாங்கம் வீணடிக்கிறது - முன்னிலை சோசலிசக் கட்சி குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-7f62cbe7)
+- 2025-11-09 | `virakesarilk-145f116a` | மத்திய கிழக்கில் தலைவறைவாகிய 7 இலங்கைப் போதைப்பொருள் கடத்தல்காரர்கள் சரணடைய இணக்கம் - ஆனந்த  விஜேபால | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-145f116a)
 - 2025-11-09 | `virakesarilk-2e35e11e` | யாழில் மூச்செடுக்க சிரமப்பட்ட யுவதி உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-2e35e11e)
 - 2025-11-09 | `virakesarilk-f41dbc71` | சாணக்கியனின் தந்தையின் பூதவுடலுக்கு ஜனாதிபதி இறுதி அஞ்சலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-f41dbc71)
 - 2025-11-09 | `tamilmirrorlk-c7437904` | அது பட்ஜெட் இல்லை - பொய் பை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-tamilmirrorlk-c7437904)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-09 | `lankadeepalk-bf14667a` | මැද පෙරදිග සැඟව සිටින මෙරට මත් කෙරුමෝ හතක් බාර වෙන්න සූදානමක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-bf14667a)
 - 2025-11-09 | `virakesarilk-e990392a` | இலஞ்ச ஊழல் ஆணைக்குழு அரசியல் நிகழ்ச்சி நிரலுக்கமைய செயற்படுகிறது - பாட்டலி சம்பிக்க குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-e990392a)
 - 2025-11-09 | `virakesarilk-efd6a785` | வலுவற்ற அரச எதிர்ப்புக் கூட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-efd6a785)
-- 2025-11-09 | `virakesarilk-9a1a2d88` | அரசாங்கத்துக்கு எதிராக பேரணியில் கலந்துக்கொள்ள போவதில்லை - பாட்டலி சம்பிக்க ரணவக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-9a1a2d88)
-- 2025-11-09 | `virakesarilk-8e746275` | தொழிலாளர்களுக்கு சம்பள உயர்வு அறிவிப்பு…! ; குறை கண்டுபிடிக்கும் தொழிற்சங்கங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-8e746275)
-- 2025-11-09 | `virakesarilk-ed287470` | போதைப்பொருள் பணம் வட்டிக்கு வழங்கப்பட்டு பல்வேறு குற்றச்செயல்கள் ; யாழில் நிலைமைகளை கட்டுப்படுத்துமாறு ரஜீவன் எம்.பி கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-ed287470)
 
 ---
 
