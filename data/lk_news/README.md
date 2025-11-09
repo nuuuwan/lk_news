@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--09_23:15:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--09_23:48:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,720** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,723** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-09-lankadeepalk-70f72f06",
-    "num": "lankadeepalk-70f72f06",
+    "doc_id": "2025-11-09-lankadeepalk-be701cbc",
+    "num": "lankadeepalk-be701cbc",
     "date_str": "2025-11-09",
-    "description": "\u0dad\u0dcf\u0dbb\u0dd4\u0dab\u0dca\u200d\u0dba \u0d9c\u0ddc\u0da9 \u0d9c\u0db1\u0dca\u0db1 \u0dc4\u0dd0\u0db8 \u0d9a\u0dd0\u0db4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca\u0db8 \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dad\u0dbb\u0dab\u0dba-\u0d9c\u0da9-\u0d9c\u0db1\u0db1-\u0dc4\u0db8-\u0d9a\u0db4-\u0d9a\u0dbb\u0db8\u0d9a\u0db8-\u0d9a\u0dbb\u0db1\u0dc0/101-682855",
+    "description": "\u0d9a\u0ddd\u0da7\u0dd2 10\u0d9a \u0d9a\u0dd4\u0da9\u0dd4 \u0dc3\u0db8\u0d9c \u0d9a\u0dad\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0da7-10\u0d9a-\u0d9a\u0da9-\u0dc3\u0db8\u0d9c-\u0d9a\u0dad\u0d9a-\u0db8\u0da7\u0da7/101-682858",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1762709947.0
+    "time_ut": 1762710679.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-09 | `lankadeepalk-be701cbc` | කෝටි 10ක කුඩු සමග කතක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-be701cbc)
+- 2025-11-09 | `lankadeepalk-3febedf8` | ජනතාවට බෙදන්න ගෙනා සහල්වලටත් බදු ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-3febedf8)
+- 2025-11-09 | `lankadeepalk-78a3ad70` | නාන කාමරයේ වැටුණු සරසවි සිසුවිය මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-78a3ad70)
 - 2025-11-09 | `lankadeepalk-70f72f06` | තාරුණ්‍ය ගොඩ ගන්න හැම කැප කිරීමක්ම කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-70f72f06)
 - 2025-11-09 | `virakesarilk-7f62cbe7` | அந்நியச் செலாவணியை ஆடம்பர வாகன இறக்குமதிக்கு அரசாங்கம் வீணடிக்கிறது - முன்னிலை சோசலிசக் கட்சி குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-7f62cbe7)
 - 2025-11-09 | `virakesarilk-145f116a` | மத்திய கிழக்கில் தலைவறைவாகிய 7 இலங்கைப் போதைப்பொருள் கடத்தல்காரர்கள் சரணடைய இணக்கம் - ஆனந்த  விஜேபால | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-145f116a)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-09 | `lankadeepalk-3864112d` | ‘‘ජනපති බොරු මල්ලක් ඉදිරිපත් කළා‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-3864112d)
 - 2025-11-09 | `virakesarilk-650b521b` | கம்பனிகளின் விளையாட்டுக்கள் எம்மிடம் செல்லுபடியாகாது  ஜனவரியிலிருந்து நிச்சயம் சம்பள அதிகரிப்பு நடைமுறைப்படுத்தப்படும்  - பிரதி அமைச்சர் சுந்தரலிங்கம் பிரதீப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-650b521b)
 - 2025-11-09 | `virakesarilk-558879ff` | நாட்டின் இலவச சுகாதார சேவைகளை டிஜிட்டல் மயப்படுத்தும் விசேட கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-558879ff)
-- 2025-11-09 | `lankadeepalk-bf14667a` | මැද පෙරදිග සැඟව සිටින මෙරට මත් කෙරුමෝ හතක් බාර වෙන්න සූදානමක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-bf14667a)
-- 2025-11-09 | `virakesarilk-e990392a` | இலஞ்ச ஊழல் ஆணைக்குழு அரசியல் நிகழ்ச்சி நிரலுக்கமைய செயற்படுகிறது - பாட்டலி சம்பிக்க குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-e990392a)
-- 2025-11-09 | `virakesarilk-efd6a785` | வலுவற்ற அரச எதிர்ப்புக் கூட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-efd6a785)
 
 ---
 
