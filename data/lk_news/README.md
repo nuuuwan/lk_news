@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_04:18:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_04:47:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,737** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,748** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-10-dailyftlk-7773d627",
-    "num": "dailyftlk-7773d627",
+    "doc_id": "2025-11-10-dailyftlk-d1515a3c",
+    "num": "dailyftlk-d1515a3c",
     "date_str": "2025-11-10",
-    "description": "Sarvajana Trust launches as pathway to grassroots empowerment",
-    "url_metadata": "https://www.ft.lk/news/Sarvajana-Trust-launches-as-pathway-to-grassroots-empowerment/56-784118",
+    "description": "Harsha slams 2026 Budget, decries Rs. 1 t deception",
+    "url_metadata": "https://www.ft.lk/business/Harsha-slams-2026-Budget-decries-Rs-1-t-deception/34-784123",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762727179.0
+    "time_ut": 1762728979.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-10 | `dailyftlk-d1515a3c` | Harsha slams 2026 Budget, decries Rs. 1 t deception | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-d1515a3c)
+- 2025-11-10 | `dailyftlk-f458309c` | Ceylon Chamber says Budget 2026 reinforces policy stability, calls for faster reforms to achieve growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-f458309c)
+- 2025-11-10 | `dailyftlk-df6a41f5` | MSME Federation criticises Budget 2026 over VAT threshold reduction, lack of support | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-df6a41f5)
+- 2025-11-10 | `dailyftlk-b0f75487` | Colombo Port City can be Sri Lanka’s ‘single catalyst of growth,’ says Harsha Amarasekera | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-b0f75487)
+- 2025-11-10 | `dailyftlk-bafa031f` | Hong Kong’s SiS Group takes up  controlling stake in Gestetner of Ceylon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-bafa031f)
+- 2025-11-10 | `virakesarilk-712b7899` | உயர்தர பரீட்சைகள் இன்று ஆரம்பம் பரீட்சாத்திகளுக்கு விசேட வழிகாட்டல் ஆலோசனைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-712b7899)
+- 2025-11-10 | `virakesarilk-b8ce4646` | ஏறாவூரில் போதை பொருளுடன் கைது செய்த வியாபாரி வாயில் விழுங்கிய 28 பக்கட் ஹீரோயின் சிறைச்சாலையில் மலம் கழிக்க வைத்து மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-b8ce4646)
 - 2025-11-10 | `dailyftlk-7773d627` | Sarvajana Trust launches as pathway to grassroots empowerment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-7773d627)
+- 2025-11-10 | `virakesarilk-887c2e78` | மட்டக்களப்பில் கைது செய்த ஜஸ் போதைப்பொருள் வியாபாரியான மாநகர சபை முன்னாள் முதல்வரின் கணவர் பொலிஸ் தடுப்புக் காவலில் வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-887c2e78)
+- 2025-11-10 | `virakesarilk-0aa1fd71` | மட்டக்களப்பில் செவ்வந்தி பாணியில் செயற்பட்டுவந்த  போலி ஆண் சட்டத்தரணி ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-0aa1fd71)
 - 2025-11-10 | `dailyftlk-a97825c6` | Sri Lanka, Saudi Arabia pledge to deepen political and economic ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-a97825c6)
 - 2025-11-10 | `dailyftlk-1aaf58bc` | Seven Sri Lankan drug traffickers abroad express willingness to surrender: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-1aaf58bc)
+- 2025-11-10 | `virakesarilk-65a69d81` | வடக்கு கிழக்கில் பனை அபிவிருத்திக்காக ரூ.300 மில்லியன் ஒதுக்கீடு – பிரதீப் சுந்தரலிங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-65a69d81)
 - 2025-11-10 | `dailyftlk-bece05f6` | Cardinal condemns planned sexual education curriculum, warns of foreign influence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-bece05f6)
+- 2025-11-10 | `virakesarilk-7236d0ca` | சுகாதாரத் துறையை டிஜிட்டல் முறையில் மாற்றுவதற்கான சாத்தியக்கூறுகள்  தொடர்பில் ஆய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-7236d0ca)
 - 2025-11-10 | `dailyftlk-ec1e8743` | SEC engages corporate leaders; stresses good governance matters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-ec1e8743)
 - 2025-11-10 | `dailyftlk-fd6a6313` | US firm AMG takes over Bogala Graphite’s owning company of German origin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-fd6a6313)
 - 2025-11-10 | `virakesarilk-a672ac85` | “நாங்கள் நெத்தலிகள் அல்ல, சுறாக்களைப் பிடித்துள்ளோம்” – அமைச்சர் சுனில் வட்டகல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-a672ac85)
 - 2025-11-10 | `virakesarilk-99d8a32f` | அஸ்வெசும  வருடாந்த தகவல் புதுப்பிப்பு நடவடிக்கை முன்னெடுப்பு - நலன்புரி நன்மைகள் சபை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-99d8a32f)
 - 2025-11-10 | `virakesarilk-de515c2a` | நீதவான் பதவிக்கான ஆட்சேர்ப்பு தகுதிகளைத் திருத்த தீர்மானம் - நீதிச்சேவை ஆணைக்குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-de515c2a)
-- 2025-11-10 | `virakesarilk-ac640d42` | வெளிநாட்டுத் தொழிலாளர்களின் பண அனுப்பல்  20.1 சதவீதமாக அதிகரிப்பு - இலங்கை மத்திய வங்கி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-ac640d42)
-- 2025-11-10 | `dailyftlk-4e165942` | 2026 Budget: An opportunity lost? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-4e165942)
-- 2025-11-10 | `dailyftlk-589d7543` | AKD’s neo-liberal Budget 2026: Will it resolve slow growth issues quickly? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-589d7543)
-- 2025-11-10 | `dailyftlk-ffeab037` | International Accounting Day Walk 2025 by CA Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-ffeab037)
-- 2025-11-10 | `dailyftlk-bf8c386e` | Boards that deliver: Embedding accountability and competence into sustainability governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-bf8c386e)
-- 2025-11-09 | `lankadeepalk-be701cbc` | කෝටි 10ක කුඩු සමග කතක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-be701cbc)
-- 2025-11-09 | `lankadeepalk-3febedf8` | ජනතාවට බෙදන්න ගෙනා සහල්වලටත් බදු ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-3febedf8)
-- 2025-11-09 | `lankadeepalk-78a3ad70` | නාන කාමරයේ වැටුණු සරසවි සිසුවිය මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-78a3ad70)
-- 2025-11-09 | `lankadeepalk-70f72f06` | තාරුණ්‍ය ගොඩ ගන්න හැම කැප කිරීමක්ම කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-lankadeepalk-70f72f06)
-- 2025-11-09 | `virakesarilk-7f62cbe7` | அந்நியச் செலாவணியை ஆடம்பர வாகன இறக்குமதிக்கு அரசாங்கம் வீணடிக்கிறது - முன்னிலை சோசலிசக் கட்சி குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-7f62cbe7)
-- 2025-11-09 | `virakesarilk-145f116a` | மத்திய கிழக்கில் தலைவறைவாகிய 7 இலங்கைப் போதைப்பொருள் கடத்தல்காரர்கள் சரணடைய இணக்கம் - ஆனந்த  விஜேபால | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-09-virakesarilk-145f116a)
 
 ---
 
