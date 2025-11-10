@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_03:16:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_03:48:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,940** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,948** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-11-dailyftlk-35786e88",
-    "num": "dailyftlk-35786e88",
+    "doc_id": "2025-11-11-dailyftlk-4ad53940",
+    "num": "dailyftlk-4ad53940",
     "date_str": "2025-11-11",
-    "description": "Leading without trust is akin to building on quicksand",
-    "url_metadata": "https://www.ft.lk/columns/Leading-without-trust-is-akin-to-building-on-quicksand/4-784164",
+    "description": "WmB Coalition strengthens momentum for systemic change in Sri Lanka\u2019s MSME sector",
+    "url_metadata": "https://www.ft.lk/business/WmB-Coalition-strengthens-momentum-for-systemic-change-in-Sri-Lanka-s-MSME-sector/34-784183",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762808370.0
+    "time_ut": 1762812645.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-11 | `dailyftlk-4ad53940` | WmB Coalition strengthens momentum for systemic change in Sri Lanka’s MSME sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-4ad53940)
+- 2025-11-11 | `dailyftlk-5bc4829b` | Sri Lanka-Philippines Business Council holds AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-5bc4829b)
+- 2025-11-11 | `dailyftlk-ae96398a` | PM says age-appropriate sex education is to protect children from sexual abuse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-ae96398a)
+- 2025-11-11 | `dailyftlk-61e958b8` | 2024 Auditor General’s Annual Report handed over to Speaker | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-61e958b8)
+- 2025-11-11 | `dailyftlk-4570d43f` | Eight killed after explosion near Red Fort; shocks Delhi | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-4570d43f)
+- 2025-11-11 | `dailyftlk-e68486f0` | Sri Lanka signs agreement for Hajj – 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-e68486f0)
+- 2025-11-11 | `dailyftlk-eae87384` | Socialist Alliance demands Provincial Council Elections | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-eae87384)
 - 2025-11-11 | `dailyftlk-35786e88` | Leading without trust is akin to building on quicksand | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-35786e88)
 - 2025-11-11 | `dailyftlk-d65ef597` | Asia-Pacific business leaders gather in Colombo for CACCI 39th Conference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-d65ef597)
 - 2025-11-11 | `dailyftlk-e1ad64ba` | GEW 2025 mobilises Sri Lankan innovators under banner ‘Together We Build’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-e1ad64ba)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-11-10 | `dailyftlk-708ab34d` | EXCON positions construction technology as catalyst for sustainability and inclusive growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-708ab34d)
 - 2025-11-10 | `virakesarilk-0e2525ca` | டெல்லி செங்கோட்டை அருகே கார் வெடிப்பு: 10 பேர் பலி - பயங்கரவாதிகளின் சதிச்செயலா ? சிக்கிய 2 பேர் மீது தீவிர விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-0e2525ca)
 - 2025-11-10 | `tamilmirrorlk-f9067fbc` | 10 ஆண்டுகளுக்குப் பிறகு வந்த நாமல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-f9067fbc)
-- 2025-11-10 | `tamilmirrorlk-7f833da9` | இரண்டாவது தடையை தாண்டினால்தான 1750 ரூபாய் கிடைக்கும்: தோழர் சொல்கிறார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-7f833da9)
-- 2025-11-10 | `lankadeepalk-d7d930c7` | අල ලූනු ප්‍රශ්නයට රජයේ විසඳුම වෙළඳ ඇමති කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-d7d930c7)
-- 2025-11-10 | `tamilmirrorlk-15c10ad5` | புதுடெல்லியில் குண்டுவெடிப்பு: பாரிய சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-15c10ad5)
-- 2025-11-10 | `tamilmirrorlk-86f64284` | உயிரிழந்த மாணவன் தொடர்பில் வௌியான தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-86f64284)
-- 2025-11-10 | `lankadeepalk-a2a7611a` | පිපිරුම ගැන මෝදි දැනුවත් කෙරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-a2a7611a)
-- 2025-11-10 | `lankadeepalk-9d871b30` | දිල්ලි පිපිරීමෙන් මියගිය ගණන ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-9d871b30)
-- 2025-11-10 | `virakesarilk-f481f19c` | டெல்லியில் பதற்றம்: செங்கோட்டை அருகே கார் வெடிப்பு - ஒருவர் பலி, பலர் காயம் ? உயிரிழப்பு அதிகரிக்கலாமென அச்சம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-f481f19c)
 
 ---
 
