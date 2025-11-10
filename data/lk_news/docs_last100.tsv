@@ -1,4 +1,7 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-11-10-lankadeepalk-ac2715d3	lankadeepalk-ac2715d3	2025-11-10	මහවැලි අධිකාරයේ හිටපුු අධ්‍යක්ෂ අපේක්ෂිත ඇපයක් ඉල්ලයි	https://www.lankadeepa.lk/latest_news/මහවල-අධකරය-හටප-අධයකෂ-අපකෂත-ඇපයක-ඉලලය/1-682928	si	lankadeepalk	1762774451.0
+lk_news	2025-11-10-adalk-118ee177	adalk-118ee177	2025-11-10	බුත්තල බස් හා ලොරි අනතුරකින් හතරක් රෝහලට	https://www.ada.lk/breaking_news/බුත්තල-බස්-හා-ලොරි-අනතුරකින්-හතරක්-රෝහලට/11-419611	si	adalk	1762773331.0
+lk_news	2025-11-10-lankadeepalk-b9736164	lankadeepalk-b9736164	2025-11-10	‘බැඳුම්කරේ සුද්ද කර පොත් ලිව්වා’	https://www.lankadeepa.lk/latest_news/බඳමකර-සදද-කර-පත-ලවව/1-682927	si	lankadeepalk	1762773280.0
 lk_news	2025-11-10-lankadeepalk-177c4524	lankadeepalk-177c4524	2025-11-10	ගිය වසරේ විගණන වාර්තාව කතානායකට බාරදෙයි	https://www.lankadeepa.lk/latest_news/ගය-වසර-වගණන-වරතව-කතනයකට-බරදය/1-682926	si	lankadeepalk	1762771051.0
 lk_news	2025-11-10-tamilmirrorlk-114b6d94	tamilmirrorlk-114b6d94	2025-11-10	ஆறு பேருக்கு மரண தண்டனை	https://www.tamilmirror.lk/செய்திகள்/ஆறு-பேருக்கு-மரண-தண்டனை/175-367724	ta	tamilmirrorlk	1762771033.0
 lk_news	2025-11-10-tamilmirrorlk-f9881c58	tamilmirrorlk-f9881c58	2025-11-10	தலாவ விபத்தில் உ/த மாணவன் பலி	https://www.tamilmirror.lk/cinema/தலாவ-விபத்தில்-உ-த-மாணவன்-பலி/54-367723	ta	tamilmirrorlk	1762770503.0
@@ -38,6 +41,7 @@ lk_news	2025-11-10-virakesarilk-891ca7fa	virakesarilk-891ca7fa	2025-11-10	நட
 lk_news	2025-11-10-tamilmirrorlk-fd418695	tamilmirrorlk-fd418695	2025-11-10	எட்டுமா எட்டாதா	https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/எட்டுமா-எட்டாதா/62-367709	ta	tamilmirrorlk	1762757306.0
 lk_news	2025-11-10-virakesarilk-99d84824	virakesarilk-99d84824	2025-11-10	யாழில் குழு மோதல் ; ஐவர் படுகாயம்!	https://www.virakesari.lk/article/229975	ta	virakesarilk	1762757220.0
 lk_news	2025-11-10-virakesarilk-6e8feb10	virakesarilk-6e8feb10	2025-11-10	இன்றைய நாணய மாற்று விகிதம்	https://www.virakesari.lk/article/229974	ta	virakesarilk	1762757160.0
+lk_news	2025-11-10-adalk-ef2a38e4	adalk-ef2a38e4	2025-11-10	ඉන්දීය ආධාර මත ඉදිවන නිවාස 10000 ප්‍රගතිය	https://www.ada.lk/breaking_news/ඉන්දීය-ආධාර-මත-ඉදිවන-නිවාස-10000-ප්‍රගතිය/11-419607	si	adalk	1762757101.0
 lk_news	2025-11-10-tamilmirrorlk-68130fcc	tamilmirrorlk-68130fcc	2025-11-10	கெஹெலிய குடும்பம் ஆஜர்	https://www.tamilmirror.lk/செய்திகள்/கெஹெலிய-குடும்பம்-ஆஜர்/175-367707	ta	tamilmirrorlk	1762756818.0
 lk_news	2025-11-10-tamilmirrorlk-8d70f41f	tamilmirrorlk-8d70f41f	2025-11-10	சிறுநீரகத்தை விற்று போதைப்பொருள் நுகர்ந்தவர் கைது	https://www.tamilmirror.lk/செய்திகள்/சிறுநீரகத்தை-விற்று-போதைப்பொருள்-நுகர்ந்தவர்-கைது/175-367705	ta	tamilmirrorlk	1762756251.0
 lk_news	2025-11-10-tamilmirrorlk-891ca7fa	tamilmirrorlk-891ca7fa	2025-11-10	நடிகர் அபிநய் காலமானார்	https://www.tamilmirror.lk/cinema/நடிகர்-அபிநய்-காலமானார்/54-367704	ta	tamilmirrorlk	1762756044.0
@@ -95,7 +99,3 @@ lk_news	2025-11-10-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-11-10	இன
 lk_news	2025-11-10-adalk-ab83df6f	adalk-ab83df6f	2025-11-10	බොහෝ පළාත්වලට අද වැසි	https://www.ada.lk/breaking_news/බොහෝ-පළාත්වලට-අද-වැසි/11-419597	si	adalk	1762735254.0
 lk_news	2025-11-10-adalk-ec65ad89	adalk-ec65ad89	2025-11-10	උසස් පෙළ විභාගය අද අරඹේ	https://www.ada.lk/breaking_news/උසස්-පෙළ-විභාගය-අද-අරඹේ/11-419596	si	adalk	1762734337.0
 lk_news	2025-11-10-dailyftlk-d1515a3c	dailyftlk-d1515a3c	2025-11-10	Harsha slams 2026 Budget, decries Rs. 1 t deception	https://www.ft.lk/business/Harsha-slams-2026-Budget-decries-Rs-1-t-deception/34-784123	en	dailyftlk	1762728979.0
-lk_news	2025-11-10-dailyftlk-f458309c	dailyftlk-f458309c	2025-11-10	Ceylon Chamber says Budget 2026 reinforces policy stability, calls for faster reforms to achieve growth	https://www.ft.lk/business/Ceylon-Chamber-says-Budget-2026-reinforces-policy-stability-calls-for-faster-reforms-to-achieve-growth/34-784122	en	dailyftlk	1762728837.0
-lk_news	2025-11-10-dailyftlk-df6a41f5	dailyftlk-df6a41f5	2025-11-10	MSME Federation criticises Budget 2026 over VAT threshold reduction, lack of support	https://www.ft.lk/business/MSME-Federation-criticises-Budget-2026-over-VAT-threshold-reduction-lack-of-support/34-784121	en	dailyftlk	1762728759.0
-lk_news	2025-11-10-dailyftlk-b0f75487	dailyftlk-b0f75487	2025-11-10	Colombo Port City can be Sri Lanka’s ‘single catalyst of growth,’ says Harsha Amarasekera	https://www.ft.lk/business/Colombo-Port-City-can-be-Sri-Lanka-s-single-catalyst-of-growth-says-Harsha-Amarasekera/34-784120	en	dailyftlk	1762728623.0
-lk_news	2025-11-10-dailyftlk-bafa031f	dailyftlk-bafa031f	2025-11-10	Hong Kong’s SiS Group takes up  controlling stake in Gestetner of Ceylon	https://www.ft.lk/business/Hong-Kong-s-SiS-Group-takes-up-controlling-stake-in-Gestetner-of-Ceylon/34-784119	en	dailyftlk	1762728480.0

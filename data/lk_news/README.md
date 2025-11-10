@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_16:47:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_17:15:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,860** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,864** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-10-lankadeepalk-177c4524",
-    "num": "lankadeepalk-177c4524",
+    "doc_id": "2025-11-10-lankadeepalk-ac2715d3",
+    "num": "lankadeepalk-ac2715d3",
     "date_str": "2025-11-10",
-    "description": "\u0d9c\u0dd2\u0dba \u0dc0\u0dc3\u0dbb\u0dda \u0dc0\u0dd2\u0d9c\u0dab\u0db1 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0 \u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a\u0da7 \u0db6\u0dcf\u0dbb\u0daf\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dba-\u0dc0\u0dc3\u0dbb-\u0dc0\u0d9c\u0dab\u0db1-\u0dc0\u0dbb\u0dad\u0dc0-\u0d9a\u0dad\u0db1\u0dba\u0d9a\u0da7-\u0db6\u0dbb\u0daf\u0dba/1-682926",
+    "description": "\u0db8\u0dc4\u0dc0\u0dd0\u0dbd\u0dd2 \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dba\u0dda \u0dc4\u0dd2\u0da7\u0db4\u0dd4\u0dd4 \u0d85\u0db0\u0dca\u200d\u0dba\u0d9a\u0dca\u0dc2 \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0d87\u0db4\u0dba\u0d9a\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dc4\u0dc0\u0dbd-\u0d85\u0db0\u0d9a\u0dbb\u0dba-\u0dc4\u0da7\u0db4-\u0d85\u0db0\u0dba\u0d9a\u0dc2-\u0d85\u0db4\u0d9a\u0dc2\u0dad-\u0d87\u0db4\u0dba\u0d9a-\u0d89\u0dbd\u0dbd\u0dba/1-682928",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1762771051.0
+    "time_ut": 1762774451.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-10 | `lankadeepalk-ac2715d3` | මහවැලි අධිකාරයේ හිටපුු අධ්‍යක්ෂ අපේක්ෂිත ඇපයක් ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-ac2715d3)
+- 2025-11-10 | `adalk-118ee177` | බුත්තල බස් හා ලොරි අනතුරකින් හතරක් රෝහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-adalk-118ee177)
+- 2025-11-10 | `lankadeepalk-b9736164` | ‘බැඳුම්කරේ සුද්ද කර පොත් ලිව්වා’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-b9736164)
 - 2025-11-10 | `lankadeepalk-177c4524` | ගිය වසරේ විගණන වාර්තාව කතානායකට බාරදෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-177c4524)
 - 2025-11-10 | `tamilmirrorlk-114b6d94` | ஆறு பேருக்கு மரண தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-114b6d94)
 - 2025-11-10 | `tamilmirrorlk-f9881c58` | தலாவ விபத்தில் உ/த மாணவன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-f9881c58)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-10 | `adalk-9b962565` | සෞඛ්‍ය සේවාව ඩිජිටල් පරිවතනයකට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-adalk-9b962565)
 - 2025-11-10 | `lankadeepalk-ed1dd023` | නිවසක් පිටුපස වගා බිමක අත්අබෝම්බයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-ed1dd023)
 - 2025-11-10 | `lankadeepalk-db00ce64` | නිවසක් පිටුපස වගා බිමක බෝම්බයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-db00ce64)
-- 2025-11-10 | `lankadeepalk-b2f2f0eb` | රාශි චක්‍රය වෙනස්  වෙලා අවුරුද්දට හොඳ අලුත් දවසකුත් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-b2f2f0eb)
-- 2025-11-10 | `lankadeepalk-9c07ec1f` | තලාවේ අනතුරින් මිය ගිය ගණන ඉහළට? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-9c07ec1f)
-- 2025-11-10 | `lankadeepalk-275cde21` | තලාවේ අනතුරින් 46කට තුවාල- සිසුවෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-275cde21)
 
 ---
 
