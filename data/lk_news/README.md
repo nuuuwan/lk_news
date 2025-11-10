@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_23:48:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_00:23:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,928** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,933** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-10-virakesarilk-0e2525ca",
-    "num": "virakesarilk-0e2525ca",
+    "doc_id": "2025-11-10-dailyftlk-ee0c4b4b",
+    "num": "dailyftlk-ee0c4b4b",
     "date_str": "2025-11-10",
-    "description": "\u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf \u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0b85\u0bb0\u0bc1\u0b95\u0bc7 \u0b95\u0bbe\u0bb0\u0bcd \u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1: 10 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf - \u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0ba4\u0bbf\u0b9a\u0bcd\u0b9a\u0bc6\u0baf\u0bb2\u0bbe ? \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf 2 \u0baa\u0bc7\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bc0\u0bb5\u0bbf\u0bb0 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8!",
-    "url_metadata": "https://www.virakesari.lk/article/230038",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1762792740.0
+    "description": "Silence, support, and the cost of speaking up",
+    "url_metadata": "https://www.ft.lk/columns/Silence-support-and-the-cost-of-speaking-up/4-784140",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1762796192.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-10 | `dailyftlk-ee0c4b4b` | Silence, support, and the cost of speaking up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-ee0c4b4b)
+- 2025-11-10 | `dailyftlk-087bf810` | hSenidBiz reports robust growth with significant margin expansion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-087bf810)
+- 2025-11-10 | `dailyftlk-740fba4e` | New Anthoney’s Farms invests Rs. 500 m more in value-added product range | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-740fba4e)
+- 2025-11-10 | `dailyftlk-2e026178` | Hemas Consumer Brands sets national benchmark as “Overall Winner” at JASTECA Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-2e026178)
+- 2025-11-10 | `dailyftlk-708ab34d` | EXCON positions construction technology as catalyst for sustainability and inclusive growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-708ab34d)
 - 2025-11-10 | `virakesarilk-0e2525ca` | டெல்லி செங்கோட்டை அருகே கார் வெடிப்பு: 10 பேர் பலி - பயங்கரவாதிகளின் சதிச்செயலா ? சிக்கிய 2 பேர் மீது தீவிர விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-0e2525ca)
 - 2025-11-10 | `tamilmirrorlk-f9067fbc` | 10 ஆண்டுகளுக்குப் பிறகு வந்த நாமல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-f9067fbc)
 - 2025-11-10 | `tamilmirrorlk-7f833da9` | இரண்டாவது தடையை தாண்டினால்தான 1750 ரூபாய் கிடைக்கும்: தோழர் சொல்கிறார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-7f833da9)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-11-10 | `lankadeepalk-d9ee5874` | දික්වැල්ල මුහුදේ ගිලී විදේශීය සංචාරකයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-d9ee5874)
 - 2025-11-10 | `virakesarilk-7846b00b` | கணக்காய்வாளர் நாயகத்தின் 2024ஆம் ஆண்டுக்கான வருடாந்த அறிக்கை சபாநாயகரிடம் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-7846b00b)
 - 2025-11-10 | `virakesarilk-889547ee` | பொருளாதாரத்தை கட்டியெழுப்பும் மிகக் கடினமான வேலைகள் முந்தைய அரசாங்கத்தால் முடிக்கப்பட்டுவிட்டன -  ரவூப் ஹக்கீம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-889547ee)
-- 2025-11-10 | `virakesarilk-46068fde` | முல்லைத்தீவில் கரையோர மாவீரர்களை நினைவுகூர்ந்து அஞ்சலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-46068fde)
-- 2025-11-10 | `virakesarilk-77272ec5` | ஒரு மில்லியன் 'லைக்ஸ்'களை பெற்று கவனத்தைக் கவர்ந்த விஜயின் 'ஜன நாயகன்' பட பாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-77272ec5)
-- 2025-11-10 | `virakesarilk-0b7802db` | கீர்த்தி சுரேஷ் நடிக்கும் 'ரிவால்வர்ரீட்டா' படத்தின் வெளியீட்டு திகதி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-0b7802db)
-- 2025-11-10 | `virakesarilk-5d32f310` | புதுமுக நடிகர் எல். என். டி. யதீஷ் நடிக்கும் ' கைமேரா' திரைப்படத்தின் அப்டேட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-5d32f310)
-- 2025-11-10 | `lankadeepalk-d17ca03a` | බෙන්තොට සමූපකාරය ජාජබ දිනා ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-d17ca03a)
 
 ---
 
