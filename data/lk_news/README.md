@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_06:30:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_07:15:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,762** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,766** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-10-dailyftlk-d1515a3c",
-    "num": "dailyftlk-d1515a3c",
+    "doc_id": "2025-11-10-tamilmirrorlk-ef04febb",
+    "num": "tamilmirrorlk-ef04febb",
     "date_str": "2025-11-10",
-    "description": "Harsha slams 2026 Budget, decries Rs. 1 t deception",
-    "url_metadata": "https://www.ft.lk/business/Harsha-slams-2026-Budget-decries-Rs-1-t-deception/34-784123",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1762728979.0
+    "description": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba4\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1: \u0bb0\u0bc6\u0bb2\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba4\u0bcd-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf\u0b95\u0bcd-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1-\u0bb0\u0bc6\u0bb2\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-367687",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1762738056.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-10 | `tamilmirrorlk-ef04febb` | மீண்டும் தமிழ்த் தேசியக் கூட்டமைப்பு: ரெலோவின் முடிவு அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-ef04febb)
+- 2025-11-10 | `lankadeepalk-8da32118` | සවස් කාලයේ තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-8da32118)
+- 2025-11-10 | `tamilmirrorlk-0494682e` | தாவூத் இப்ராஹிம் சிண்டிகேட் கும்பல்- LTTE உடன் கூட்டணி? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-0494682e)
+- 2025-11-10 | `tamilmirrorlk-3b1cd895` | ”பட்ஜெட்டில் வைத்தியர்களை விட விலங்குகளுக்கே சலுகைகள் அதிகம்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-3b1cd895)
 - 2025-11-10 | `dailyftlk-d1515a3c` | Harsha slams 2026 Budget, decries Rs. 1 t deception | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-d1515a3c)
 - 2025-11-10 | `dailyftlk-f458309c` | Ceylon Chamber says Budget 2026 reinforces policy stability, calls for faster reforms to achieve growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-f458309c)
 - 2025-11-10 | `dailyftlk-df6a41f5` | MSME Federation criticises Budget 2026 over VAT threshold reduction, lack of support | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-df6a41f5)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-10 | `dailyftlk-bece05f6` | Cardinal condemns planned sexual education curriculum, warns of foreign influence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-bece05f6)
 - 2025-11-10 | `virakesarilk-7236d0ca` | சுகாதாரத் துறையை டிஜிட்டல் முறையில் மாற்றுவதற்கான சாத்தியக்கூறுகள்  தொடர்பில் ஆய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-7236d0ca)
 - 2025-11-10 | `dailyftlk-ec1e8743` | SEC engages corporate leaders; stresses good governance matters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-ec1e8743)
-- 2025-11-10 | `dailyftlk-fd6a6313` | US firm AMG takes over Bogala Graphite’s owning company of German origin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-fd6a6313)
-- 2025-11-10 | `virakesarilk-a672ac85` | “நாங்கள் நெத்தலிகள் அல்ல, சுறாக்களைப் பிடித்துள்ளோம்” – அமைச்சர் சுனில் வட்டகல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-a672ac85)
-- 2025-11-10 | `virakesarilk-99d8a32f` | அஸ்வெசும  வருடாந்த தகவல் புதுப்பிப்பு நடவடிக்கை முன்னெடுப்பு - நலன்புரி நன்மைகள் சபை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-99d8a32f)
-- 2025-11-10 | `virakesarilk-de515c2a` | நீதவான் பதவிக்கான ஆட்சேர்ப்பு தகுதிகளைத் திருத்த தீர்மானம் - நீதிச்சேவை ஆணைக்குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-de515c2a)
 
 ---
 
