@@ -1,4 +1,7 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-11-10-tamilmirrorlk-21b9a47c	tamilmirrorlk-21b9a47c	2025-11-10	ஏலத்திற்கு வந்த தங்க கழிப்பறை	https://www.tamilmirror.lk/விநோத-உலகம்/ஏலத்திற்கு-வந்த-தங்க-கழிப்பறை/53-367729	ta	tamilmirrorlk	1762777971.0
+lk_news	2025-11-10-lankadeepalk-21ec8c88	lankadeepalk-21ec8c88	2025-11-10	’මත්රකුසා රටම වෙලාගෙන’	https://www.lankadeepa.lk/news/මතරකස-රටම-වලගන/101-682932	si	lankadeepalk	1762777613.0
+lk_news	2025-11-10-lankadeepalk-603bfc3a	lankadeepalk-603bfc3a	2025-11-10	පියා නිවෙසට ගිනි තබා උසස් පෙළ සිසුවියටත් වින කරලා	https://www.lankadeepa.lk/news/පය-නවසට-ගන-තබ-උසස-පළ-සසවයටත-වන-කරල/101-682931	si	lankadeepalk	1762777556.0
 lk_news	2025-11-10-tamilmirrorlk-f123078b	tamilmirrorlk-f123078b	2025-11-10	மருத்துவர் இல்லாத AI	https://www.tamilmirror.lk/science-tech/மருத்துவர்-இல்லாத-AI/57-367727	ta	tamilmirrorlk	1762776884.0
 lk_news	2025-11-10-virakesarilk-344943ae	virakesarilk-344943ae	2025-11-10	இலங்கை - சவூதி அரேபியாவுக்கு இடையேயான ஹஜ் ஒப்பந்தம் கைசாத்து	https://www.virakesari.lk/article/230008	ta	virakesarilk	1762776180.0
 lk_news	2025-11-10-virakesarilk-b1a25944	virakesarilk-b1a25944	2025-11-10	இலங்கை - இந்திய 'சமஸ்கிருத மஹோத்ஸவம்' கொழும்பில்!	https://www.virakesari.lk/article/230016	ta	virakesarilk	1762775820.0
@@ -6,6 +9,7 @@ lk_news	2025-11-10-virakesarilk-3a6dd2d5	virakesarilk-3a6dd2d5	2025-11-10	ஒல
 lk_news	2025-11-10-lankadeepalk-1ec59fcb	lankadeepalk-1ec59fcb	2025-11-10	මුහුදු සීමාව පැන්න ඉන්දීය ධීවරයන් 14ක් මාට්ටු	https://www.lankadeepa.lk/news/මහද-සමව-පනන-ඉනදය-ධවරයන-14ක-මටට/101-682930	si	lankadeepalk	1762775648.0
 lk_news	2025-11-10-lankadeepalk-41d6cc7f	lankadeepalk-41d6cc7f	2025-11-10	දෙදෙනකු මැරුවාට හය දෙනකුට මරණ දඬුවම්	https://www.lankadeepa.lk/news/දදනක-මරවට-හය-දනකට-මරණ-දඬවම/101-682929	si	lankadeepalk	1762775531.0
 lk_news	2025-11-10-virakesarilk-f72595db	virakesarilk-f72595db	2025-11-10	ஈக்வடோர் சிறைக் கலவரத்தில் 31 கைதிகள் பலி	https://www.virakesari.lk/article/230017	ta	virakesarilk	1762775400.0
+lk_news	2025-11-10-adalk-beb7d434	adalk-beb7d434	2025-11-10	2026 හජ් වන්දනාවට ලංකාවෙන් 3500ක්	https://www.ada.lk/religion/2026-හජ්-වන්දනාවට-ලංකාවෙන්-3500ක්/4-419612	si	adalk	1762774885.0
 lk_news	2025-11-10-virakesarilk-3af87861	virakesarilk-3af87861	2025-11-10	ஏறாவூரில் வாள்களுடன் பெண் கைது	https://www.virakesari.lk/article/230012	ta	virakesarilk	1762774620.0
 lk_news	2025-11-10-lankadeepalk-ac2715d3	lankadeepalk-ac2715d3	2025-11-10	මහවැලි අධිකාරයේ හිටපුු අධ්‍යක්ෂ අපේක්ෂිත ඇපයක් ඉල්ලයි	https://www.lankadeepa.lk/latest_news/මහවල-අධකරය-හටප-අධයකෂ-අපකෂත-ඇපයක-ඉලලය/1-682928	si	lankadeepalk	1762774451.0
 lk_news	2025-11-10-virakesarilk-729e09a5	virakesarilk-729e09a5	2025-11-10	புத்தல - மொனராகலை பிரதான வீதியில் விபத்து ; நால்வர் காயம்!	https://www.virakesari.lk/article/230010	ta	virakesarilk	1762774260.0
@@ -995,7 +999,3 @@ lk_news	2025-11-05-lankadeepalk-c6aa5294	lankadeepalk-c6aa5294	2025-11-05	වෛ
 lk_news	2025-11-05-tamilmirrorlk-b9271ddb	tamilmirrorlk-b9271ddb	2025-11-05	தகவல் வழங்கிய பொலிஸ் சார்ஜன்ட் பணி இடைநீக்கம்	https://www.tamilmirror.lk/செய்திகள்/தகவல்-வழங்கிய-பொலிஸ்-சார்ஜன்ட்-பணி-இடைநீக்கம்/175-367381	ta	tamilmirrorlk	1762322800.0
 lk_news	2025-11-05-adalk-4709c7dc	adalk-4709c7dc	2025-11-05	ඩේවිඩ් බෙකම්ට නයිට් පදවියක්	https://www.ada.lk/breaking_news/ඩේවිඩ්-බෙකම්ට-නයිට්-පදවියක්/11-419513	si	adalk	1762322680.0
 lk_news	2025-11-05-virakesarilk-508db16c	virakesarilk-508db16c	2025-11-05	தகாத உறவால் இராணுவ சிப்பாய் கொடூரமாக கொலை!	https://www.virakesari.lk/article/229535	ta	virakesarilk	1762322520.0
-lk_news	2025-11-05-lankadeepalk-320f7e32	lankadeepalk-320f7e32	2025-11-05	පොලිසියේ යකා නැටු ජාජබ පුංචි මන්ත්‍රී අල්ලයි	https://www.lankadeepa.lk/news/පලසය-යක-නට-ජජබ-පච-මනතර-අලලය/101-682688	si	lankadeepalk	1762322016.0
-lk_news	2025-11-05-tamilmirrorlk-db75ee6c	tamilmirrorlk-db75ee6c	2025-11-05	அமெரிக்காவில் சரக்கு விமானம் தரையில் விழுந்து விபத்து - 7 பேர் பலி	https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்காவில்-சரக்கு-விமானம்-தரையில்-விழுந்து-விபத்து-7-பேர்-பலி/50-367380	ta	tamilmirrorlk	1762321762.0
-lk_news	2025-11-05-virakesarilk-6195cad4	virakesarilk-6195cad4	2025-11-05	மொரவெவ பகுதியில் மோட்டார் சைக்கிள் விபத்து – இளைஞர் படுகாயம்	https://www.virakesari.lk/article/229533	ta	virakesarilk	1762321680.0
-lk_news	2025-11-05-virakesarilk-29621cf7	virakesarilk-29621cf7	2025-11-05	டேவிட் பெக்கமிற்கு நைட்ஹுட் பட்டம்	https://www.virakesari.lk/article/229531	ta	virakesarilk	1762321680.0
