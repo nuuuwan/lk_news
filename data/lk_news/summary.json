@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-11 02:18:30",
-  "n_docs": 85939,
+  "time_updated": "2025-11-11 02:47:01",
+  "n_docs": 85940,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 85939,
+  "n_docs_with_text": 85940,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-11",
-  "dataset_size": 1279449470,
+  "dataset_size": 1279495008,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-11-dailyftlk-d65ef597",
-    "num": "dailyftlk-d65ef597",
+    "doc_id": "2025-11-11-dailyftlk-35786e88",
+    "num": "dailyftlk-35786e88",
     "date_str": "2025-11-11",
-    "description": "Asia-Pacific business leaders gather in Colombo for CACCI 39th Conference",
-    "url_metadata": "https://www.ft.lk/business/Asia-Pacific-business-leaders-gather-in-Colombo-for-CACCI-39th-Conference/34-784157",
+    "description": "Leading without trust is akin to building on quicksand",
+    "url_metadata": "https://www.ft.lk/columns/Leading-without-trust-is-akin-to-building-on-quicksand/4-784164",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762805847.0
+    "time_ut": 1762808370.0
   }
 }
