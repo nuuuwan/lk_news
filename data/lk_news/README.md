@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_09:51:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_10:21:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,777** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,780** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-10-tamilmirrorlk-f675ae79",
-    "num": "tamilmirrorlk-f675ae79",
+    "doc_id": "2025-11-10-tamilmirrorlk-28093f8c",
+    "num": "tamilmirrorlk-28093f8c",
     "date_str": "2025-11-10",
-    "description": "\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 14 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd-14-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-367691",
+    "description": "\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd \u0bae\u0bc8\u0ba4\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd-\u0bb5\u0bc0\u0bb0\u0bb0\u0bcd-\u0bae\u0bc8\u0ba4\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/175-367695",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1762747953.0
+    "time_ut": 1762749959.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-10 | `tamilmirrorlk-28093f8c` | கிரிக்கெட் வீரர் மைதானத்தில் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-28093f8c)
+- 2025-11-10 | `lankadeepalk-764a078d` | නුවරඑළිය ආර්ථික මධ්‍යස්ථානය වසා විරෝධයක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-764a078d)
+- 2025-11-10 | `tamilmirrorlk-26388a24` | பிள்ளையாயின் மொழிப்பெயர்ப்பாளர் ஐஸூடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-26388a24)
 - 2025-11-10 | `tamilmirrorlk-f675ae79` | மேலும் 14 இந்திய மீனவர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-f675ae79)
 - 2025-11-10 | `tamilmirrorlk-c79338e8` | இன்று க.பொ.த உயர்தரப் பரீட்சைகள் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-c79338e8)
 - 2025-11-10 | `tamilmirrorlk-546e9ae6` | அமெரிக்காவிற்கான ஏற்றுமதி தடையை நீக்கியது சீனா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-tamilmirrorlk-546e9ae6)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-10 | `dailyftlk-d1515a3c` | Harsha slams 2026 Budget, decries Rs. 1 t deception | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-d1515a3c)
 - 2025-11-10 | `dailyftlk-f458309c` | Ceylon Chamber says Budget 2026 reinforces policy stability, calls for faster reforms to achieve growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-f458309c)
 - 2025-11-10 | `dailyftlk-df6a41f5` | MSME Federation criticises Budget 2026 over VAT threshold reduction, lack of support | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-df6a41f5)
-- 2025-11-10 | `dailyftlk-b0f75487` | Colombo Port City can be Sri Lanka’s ‘single catalyst of growth,’ says Harsha Amarasekera | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-b0f75487)
-- 2025-11-10 | `dailyftlk-bafa031f` | Hong Kong’s SiS Group takes up  controlling stake in Gestetner of Ceylon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-bafa031f)
-- 2025-11-10 | `virakesarilk-712b7899` | உயர்தர பரீட்சைகள் இன்று ஆரம்பம் பரீட்சாத்திகளுக்கு விசேட வழிகாட்டல் ஆலோசனைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-712b7899)
 
 ---
 
