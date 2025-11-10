@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-11 01:14:47",
-  "n_docs": 85936,
+  "time_updated": "2025-11-11 01:47:29",
+  "n_docs": 85938,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 85936,
+  "n_docs_with_text": 85938,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-11",
-  "dataset_size": 1279311080,
+  "dataset_size": 1279392461,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-11-dailyftlk-019c42e4",
-    "num": "dailyftlk-019c42e4",
+    "doc_id": "2025-11-11-dailyftlk-e1ad64ba",
+    "num": "dailyftlk-e1ad64ba",
     "date_str": "2025-11-11",
-    "description": "Myland makes three new Board appointments",
-    "url_metadata": "https://www.ft.lk/business/Myland-makes-three-new-Board-appointments/34-784150",
+    "description": "GEW 2025 mobilises Sri Lankan innovators under banner \u2018Together We Build\u2019",
+    "url_metadata": "https://www.ft.lk/business/GEW-2025-mobilises-Sri-Lankan-innovators-under-banner-Together-We-Build/34-784156",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762802868.0
+    "time_ut": 1762805435.0
   }
 }

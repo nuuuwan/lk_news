@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_01:15:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_01:48:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,936** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,938** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-11-dailyftlk-019c42e4",
-    "num": "dailyftlk-019c42e4",
+    "doc_id": "2025-11-11-dailyftlk-e1ad64ba",
+    "num": "dailyftlk-e1ad64ba",
     "date_str": "2025-11-11",
-    "description": "Myland makes three new Board appointments",
-    "url_metadata": "https://www.ft.lk/business/Myland-makes-three-new-Board-appointments/34-784150",
+    "description": "GEW 2025 mobilises Sri Lankan innovators under banner \u2018Together We Build\u2019",
+    "url_metadata": "https://www.ft.lk/business/GEW-2025-mobilises-Sri-Lankan-innovators-under-banner-Together-We-Build/34-784156",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762802868.0
+    "time_ut": 1762805435.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-11 | `dailyftlk-e1ad64ba` | GEW 2025 mobilises Sri Lankan innovators under banner ‘Together We Build’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-e1ad64ba)
+- 2025-11-11 | `dailyftlk-290fc25b` | Rebuilding from collapse: From stabilisation to transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-290fc25b)
 - 2025-11-11 | `dailyftlk-019c42e4` | Myland makes three new Board appointments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-019c42e4)
 - 2025-11-11 | `dailyftlk-f6f0a257` | Beyond the facade: A strategic critique of 2026 Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-f6f0a257)
 - 2025-11-10 | `dailyftlk-ee0c4b4b` | Silence, support, and the cost of speaking up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-ee0c4b4b)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-10 | `virakesarilk-f481f19c` | டெல்லியில் பதற்றம்: செங்கோட்டை அருகே கார் வெடிப்பு - ஒருவர் பலி, பலர் காயம் ? உயிரிழப்பு அதிகரிக்கலாமென அச்சம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-f481f19c)
 - 2025-11-10 | `lankadeepalk-7725c031` | ප්‍රබල පිපිරීමකින් දිල්ලිය කැලඹෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-7725c031)
 - 2025-11-10 | `colombotelegraphcom-03092204` | When Reform Meets Impunity: The Troubling Conduct Of The Chairman Of Waters Edge Hotel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-colombotelegraphcom-03092204)
-- 2025-11-10 | `lankadeepalk-d946ed8a` | තලාව අනතුරේ බස් රියදුරු අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-lankadeepalk-d946ed8a)
-- 2025-11-10 | `adalk-e9f38590` | ටිපර් රථයකට යටකර දෙදෙනෙක් මැරුවාට හයක් පෝරකයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-adalk-e9f38590)
 
 ---
 
