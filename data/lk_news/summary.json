@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-12 02:17:23",
-  "n_docs": 86163,
+  "time_updated": "2025-11-12 02:46:21",
+  "n_docs": 86169,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 86163,
+  "n_docs_with_text": 86169,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-12",
-  "dataset_size": 1283227801,
+  "dataset_size": 1283353952,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-12-tamilmirrorlk-eaf31cd7",
-    "num": "tamilmirrorlk-eaf31cd7",
+    "doc_id": "2025-11-12-dailyftlk-9eb7622d",
+    "num": "dailyftlk-9eb7622d",
     "date_str": "2025-11-12",
-    "description": "\u201c\u0ba8\u0bc1\u0ba3\u0bcd \u0b95\u0b9f\u0ba9\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0b95\u0bca\u0bb2\u0bcd\u0bb2\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\u201d",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc1\u0ba3\u0bcd-\u0b95\u0b9f\u0ba9\u0bcd-\u0ba8\u0bbf\u0ba4\u0bbf-\u0b95\u0bca\u0bb2\u0bcd\u0bb2\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/175-367809",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1762892630.0
+    "description": "NPP\u2019s Budget is a beautiful mix of words like a children\u2019s playbook \u2013 Marikkar",
+    "url_metadata": "https://www.ft.lk/news/NPP-s-Budget-is-a-beautiful-mix-of-words-like-a-children-s-playbook-Marikkar/56-784225",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1762895416.0
   }
 }
