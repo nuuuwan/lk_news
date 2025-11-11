@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_04:47:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_05:15:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,173** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,174** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2025-11-12 | `dailyftlk-884233a5` | Five Indian firms shortlisted for digital ID project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-884233a5)
 - 2025-11-12 | `dailyftlk-e5902f0a` | UNESCO adopts Sri Lanka-led resolution to observe International Day of Vesak annually | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-e5902f0a)
 - 2025-11-12 | `dailyftlk-9167f384` | Sri Lanka backs Riyadh Declaration on Future of Tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-9167f384)
+- 2025-11-12 | `tamilmirrorlk-dcc33e23` | இலங்கையில் 42 சதவீத பெண்கள் பருமனாக உள்ளனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-dcc33e23)
 - 2025-11-12 | `tamilmirrorlk-4f672c12` | ’கிவுல் ஓயா’வுக்கான நிதி: இனவழிப்பின் வடிவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-4f672c12)
 - 2025-11-12 | `tamilmirrorlk-215b594e` | அதிகார ஆயுதம் ‘பொய்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-215b594e)
 - 2025-11-12 | `tamilmirrorlk-07a388da` | ’வடக்கில் உள்ளோரும் உலகை காண வேண்டும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-07a388da)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-12 | `dailyftlk-f5c8d789` | Ambeon Group reports robust 2Q performance  with sustained profit growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-f5c8d789)
 - 2025-11-12 | `tamilmirrorlk-71e9bbfd` | ’சிவப்பு ஸ்டிக்கர் குழு எங்கே’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-71e9bbfd)
 - 2025-11-12 | `dailyftlk-95cab54a` | 2026 a growth Budget for Sri Lanka? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-95cab54a)
-- 2025-11-12 | `virakesarilk-a7ac2313` | பரபரப்பை ஏற்படுத்திய முதலாவது ஒருநாள் கிரிக்கெட் போட்டியில் இலங்கையை 6 ஓட்டங்களால் பாகிஸ்தான் வென்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-a7ac2313)
 
 ---
 
