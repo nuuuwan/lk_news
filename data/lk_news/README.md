@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_18:28:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_18:55:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,111** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,120** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-11-lankadeepalk-44160ab0",
-    "num": "lankadeepalk-44160ab0",
+    "doc_id": "2025-11-11-tamilmirrorlk-67a55dbc",
+    "num": "tamilmirrorlk-67a55dbc",
     "date_str": "2025-11-11",
-    "description": "\u0d9a\u0dbb\u0dd4\u0dc0\u0dbd\u0d9c\u0dc3\u0dca\u0dc0\u0dd0\u0dc0 \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0da7 \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba\u0dda \u0dc4\u0dad\u0dbb\u0d9a\u0d9c\u0dda \u0dc3\u0dc4\u0dcf\u0dba",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dbb\u0dc0\u0dbd\u0d9c\u0dc3\u0dc0\u0dc0-\u0d85\u0dba\u0dc0\u0dba\u0da7-\u0dc0\u0db4\u0d9a\u0dc2\u0dba-\u0dc4\u0dad\u0dbb\u0d9a\u0d9c-\u0dc3\u0dc4\u0dba/1-683001",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1762863509.0
+    "description": "\u0b85\u0ba3\u0bbf\u0bb5\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf \u2018\u0b86\u0ba3\u0bcd \u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4\u0bbf\u2019\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba3\u0bbf\u0bb5\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b86\u0ba3\u0bcd-\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4\u0bbf-\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1/175-367790",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1762866693.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-11 | `tamilmirrorlk-67a55dbc` | அணிவகுப்பில் சிக்கிய ‘ஆண் செவ்வந்தி’க்கு அதிரடி உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-67a55dbc)
+- 2025-11-11 | `tamilmirrorlk-6aa7a72f` | மாடியில் இருந்து விழுந்த பம்பலப்பிட்டி மாணவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-6aa7a72f)
+- 2025-11-11 | `virakesarilk-da0dfaa4` | இயக்குநர் கார்த்திக் சுப்புராஜ் இயக்கும் புதிய படத்தின் படப்பிடிப்பு தொடக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-da0dfaa4)
+- 2025-11-11 | `virakesarilk-4b929a84` | இயக்குநர் கே. பாக்யராஜ் வெளியிட்ட 'ஐபிஎல் ' ( இந்தியன் பீனல் லா) படத்தின் இசை மற்றும் முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-4b929a84)
+- 2025-11-11 | `virakesarilk-6566d552` | கவின் - ஆண்ட்ரியா இணைந்து கலக்கும் 'மாஸ்க்' திரைப்படத்தின் இசை மற்றும் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-6566d552)
+- 2025-11-11 | `virakesarilk-94ac9670` | கிளிநொச்சி ஆனையிறவு பகுதியில் விபத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-94ac9670)
 - 2025-11-11 | `lankadeepalk-44160ab0` | කරුවලගස්වැව අයවැයට විපක්ෂයේ හතරකගේ සහාය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-44160ab0)
 - 2025-11-11 | `lankadeepalk-b386cc10` | ජාජබ - එජාබ සහායෙන් ආරච්චිකට්ටුව අයවැය සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-b386cc10)
 - 2025-11-11 | `tamilmirrorlk-a8778751` | தமிழ்மிரருக்கு ஜனாதிபதி விருது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-a8778751)
@@ -54,13 +60,7 @@ A collection of lk_news documents.
 - 2025-11-11 | `virakesarilk-beba5b73` | பல்கலைக்கழக சட்டத்தைத் திருத்தம் செய்ய அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-beba5b73)
 - 2025-11-11 | `virakesarilk-49ad37d2` | தேசிய திரைப்படக் கூட்டுத்தாபன சட்டத்தை நீக்கி புதிய சட்டத்தை அறிமுகப்படுத்த அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-49ad37d2)
 - 2025-11-11 | `lankadeepalk-83c307d5` | වෘත්තිය සමිති සීයක් අවලංගු කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-83c307d5)
-- 2025-11-11 | `lankadeepalk-bb636a8e` | තාරුණ්‍යයට හොඳටම සැලකූ අයවැය මෙයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-bb636a8e)
-- 2025-11-11 | `virakesarilk-03b0dc01` | சிறைச்சாலைகள் திணைக்களத்திற்கு உபகரணங்களை கொள்வனவு செய்ய அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-03b0dc01)
-- 2025-11-11 | `virakesarilk-13f0073f` | மானிப்பாயில் போதை மாத்திரைகள்,  கஞ்சா கலந்த மாவாவுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-13f0073f)
-- 2025-11-11 | `tamilmirrorlk-b8d4396c` | 42 நாள் சிசுவின் ஜனாஸாவை புதைக்க முயற்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-b8d4396c)
-- 2025-11-11 | `tamilmirrorlk-b22b2cda` | 42 நாள் சிசுவின்ஜனாஸாவை புதைக்க முயற்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-b22b2cda)
-- 2025-11-11 | `lankadeepalk-6fda0097` | ආයතන තුනක ලොක්කෝ කෝප් කමිටුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-6fda0097)
-- 2025-11-11 | `virakesarilk-587dd60c` | இலங்கை ஒருநாள் கிரிக்கெட் அணியில் அறிமுகமானார் காமில் மிஷார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-587dd60c)
+- 2025-11-11 | `virakesarilk-b4110610` | மாவீரர் நாள் சைக்கிள் கட்சிக்கான ஒன்றல்ல - யாழ் மாநகர சபையில் கடும் வாக்குவாதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-b4110610)
 
 ---
 
