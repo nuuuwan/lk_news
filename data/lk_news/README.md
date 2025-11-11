@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_19:23:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_19:48:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,121** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,123** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -56,11 +56,11 @@ A collection of lk_news documents.
 - 2025-11-11 | `lankadeepalk-6ad43d02` | විභාග මධ්‍යස්ථන තෙමහල් ගොඩනැගිල්ලෙන් සිසුවියක් වැටිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-6ad43d02)
 - 2025-11-11 | `lankadeepalk-332e258a` | මත් රකුසා වැනසීමේ ගම්පහ මෙහෙයුම අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-332e258a)
 - 2025-11-11 | `virakesarilk-95f9c198` | 11இன் கீழ் சிறுவர்களுக்கான உலக மேசைப்பந்தாட்ட தரிவரிசையில் 3அம்  இடத்தைப் பெற்று வரலாறு படைத்தார் இலங்கையின் டாவி சமரவீர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-95f9c198)
+- 2025-11-11 | `adalk-e73430ea` | රාජ්‍ය බැංකු දෙකක් ප්‍රතිව්‍යුහගත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-adalk-e73430ea)
 - 2025-11-11 | `lankadeepalk-7724369a` | පාකිස්තානයේ බෝම්බයක් පිපිරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-7724369a)
 - 2025-11-11 | `virakesarilk-ea40c31c` | பாசன நீர் குழாய்கள் மூலம் விநியோக மாதிரி வடிவமைப்பை நடைமுறைப்படுத்த அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-ea40c31c)
 - 2025-11-11 | `virakesarilk-beba5b73` | பல்கலைக்கழக சட்டத்தைத் திருத்தம் செய்ய அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-beba5b73)
 - 2025-11-11 | `virakesarilk-49ad37d2` | தேசிய திரைப்படக் கூட்டுத்தாபன சட்டத்தை நீக்கி புதிய சட்டத்தை அறிமுகப்படுத்த அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-49ad37d2)
-- 2025-11-11 | `lankadeepalk-83c307d5` | වෘත්තිය සමිති සීයක් අවලංගු කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-83c307d5)
 
 ---
 
