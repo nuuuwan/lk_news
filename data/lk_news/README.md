@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_03:16:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_03:47:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,170** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,171** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2025-11-12 | `dailyftlk-884233a5` | Five Indian firms shortlisted for digital ID project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-884233a5)
 - 2025-11-12 | `dailyftlk-e5902f0a` | UNESCO adopts Sri Lanka-led resolution to observe International Day of Vesak annually | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-e5902f0a)
 - 2025-11-12 | `dailyftlk-9167f384` | Sri Lanka backs Riyadh Declaration on Future of Tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-9167f384)
+- 2025-11-12 | `tamilmirrorlk-215b594e` | அதிகார ஆயுதம் ‘பொய்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-215b594e)
 - 2025-11-12 | `tamilmirrorlk-6a7e7e57` | ’வெங்காயங்களுக்கு காது கொடுங்கள்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-6a7e7e57)
 - 2025-11-12 | `tamilmirrorlk-126c12f5` | ’பிடுங்கி கொடுத்த அநுர பட்ஜெட்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-126c12f5)
 - 2025-11-12 | `tamilmirrorlk-eaf31cd7` | “நுண் கடன் நிதி கொல்லவில்லை” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-eaf31cd7)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-12 | `virakesarilk-a7ac2313` | பரபரப்பை ஏற்படுத்திய முதலாவது ஒருநாள் கிரிக்கெட் போட்டியில் இலங்கையை 6 ஓட்டங்களால் பாகிஸ்தான் வென்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-a7ac2313)
 - 2025-11-12 | `dailyftlk-5afb18fa` | 2026 Budget: Well balanced between economic  growth and development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-5afb18fa)
 - 2025-11-11 | `virakesarilk-bc889b71` | ஜனாதிபதி ஊடக விருது - 2025 : ஆண்டின் சிறந்த செய்தி இணையத் தளத்திகான விருது உள்ளிட்ட  4  விருதுகளையும் 3 திறைமைச் சான்றிதழ்களையும் சுவீகரித்தது வீரகேசரி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-bc889b71)
-- 2025-11-11 | `lankadeepalk-f52908f4` | ප්‍රගීත් සම්පත්ට සම්මාන දෙකක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-f52908f4)
 
 ---
 
