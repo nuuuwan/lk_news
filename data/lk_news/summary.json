@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-12 01:14:35",
-  "n_docs": 86151,
+  "time_updated": "2025-11-12 01:47:33",
+  "n_docs": 86154,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 86151,
+  "n_docs_with_text": 86154,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-12",
-  "dataset_size": 1283117397,
+  "dataset_size": 1283137697,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-12-dailyftlk-5afb18fa",
-    "num": "dailyftlk-5afb18fa",
+    "doc_id": "2025-11-12-dailyftlk-f5c8d789",
+    "num": "dailyftlk-f5c8d789",
     "date_str": "2025-11-12",
-    "description": "2026 Budget: Well balanced between economic  growth and development",
-    "url_metadata": "https://www.ft.lk/columns/2026-Budget-Well-balanced-between-economic-growth-and-development/4-784191",
+    "description": "Ambeon Group reports robust 2Q performance  with sustained profit growth",
+    "url_metadata": "https://www.ft.lk/business/Ambeon-Group-reports-robust-2Q-performance-with-sustained-profit-growth/34-784194",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762887452.0
+    "time_ut": 1762891858.0
   }
 }
