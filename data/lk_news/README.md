@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_13:17:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_13:49:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,011** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,039** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-11-tamilmirrorlk-91245245",
-    "num": "tamilmirrorlk-91245245",
+    "doc_id": "2025-11-11-lankadeepalk-f3bdaebc",
+    "num": "lankadeepalk-f3bdaebc",
     "date_str": "2025-11-11",
-    "description": "\u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bcb\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4 \u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf:  \u0bb0\u0bc2. 18 \u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bcb\u0b95-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bb2\u0bcd-\u0ba4\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4-\u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf-\u0bb0\u0bc2-18-\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd-\u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0ba4\u0bc1/175-367770",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1762846917.0
+    "description": "\u0db8\u0dad\u0dca\u0dad\u0dbd \u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dad\u0ddc\u0da7\u0dd9\u0db1\u0dca \u0d9a\u0ddd\u0da7\u0dd2 3936\u0d9a \u0db4\u0dcf\u0da9\u0dd4\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dad\u0dad\u0dbd-\u0d9c\u0dc0\u0db1\u0dad\u0da7\u0db1-\u0d9a\u0da7-3936\u0d9a-\u0db4\u0da9\u0dc0\u0d9a/1-682971",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1762848962.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-11 | `lankadeepalk-f3bdaebc` | මත්තල ගුවන්තොටෙන් කෝටි 3936ක පාඩුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-f3bdaebc)
+- 2025-11-11 | `lankadeepalk-a5998b0d` | සමුපකාර සංවර්ධන කොමසාරිස් වෙනස් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-a5998b0d)
+- 2025-11-11 | `lankadeepalk-7e1f3a8c` | පවුල් සෞඛ්‍ය සේවා ගැටලු ලිහන්න තාක්ෂණ කමිටුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-7e1f3a8c)
+- 2025-11-11 | `tamilmirrorlk-e8355b4e` | ஒரு கிலோ கிராம் அரிசி விலை ரூ.12,500 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-e8355b4e)
+- 2025-11-11 | `virakesarilk-e847bcdc` | 2025 ஒன்பது மாதத்தில் வலுவான AATTRALAI வெளிப்படுத்திய   ஸ்ரீலங்கா இன்ஷ_ரன்ஸ் ஜெனரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-e847bcdc)
+- 2025-11-11 | `tamilmirrorlk-0680a6e3` | 16,000 ‛அடி’ நடந்ததால் பணி நீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-0680a6e3)
+- 2025-11-11 | `virakesarilk-7362c111` | LOLC ஃபைனான்ஸ் இலங்கையின் நம்பர் 1 NBFI வர்த்தகநாமமாக மகுடம் சூட்டியுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-7362c111)
+- 2025-11-11 | `virakesarilk-6e8feb10` | இன்றைய நாணய மாற்று விகிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-6e8feb10)
+- 2025-11-11 | `lankadeepalk-46d0d7cb` | කන්දකැටිය අයවැය පරාදයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-46d0d7cb)
+- 2025-11-11 | `tamilmirrorlk-f8585ab0` | பெக்கோ சமனின்  மனைவி வவுனியாவில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-f8585ab0)
+- 2025-11-11 | `adalk-5022e436` | පවුල් සෞඛ්‍ය සේවාවේ ගැටළු විසදීමට කමිටුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-adalk-5022e436)
 - 2025-11-11 | `tamilmirrorlk-91245245` | கழிவறைக்கு போக முடியாமல் தவித்த தம்பதி:  ரூ. 18 லட்சம் தப்பியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-91245245)
 - 2025-11-11 | `lankadeepalk-81f08bda` | අයවැය ගැන විපක්ෂයට උගන්වන්න වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-81f08bda)
+- 2025-11-11 | `adalk-5f64b8b4` | රමිත් රඹුක්වැල්ලට අධි චෝදනා භාරදෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-adalk-5f64b8b4)
 - 2025-11-11 | `lankadeepalk-877a84f9` | පොහොට්ටුවට දෙන කැබ් රථ තුන සෞඛ්‍ය අමාත්‍යංශයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-877a84f9)
 - 2025-11-11 | `tamilmirrorlk-57251863` | சபைக்குப் புறம்பான மொழிப் பயன்பாடு குறித்து விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-57251863)
 - 2025-11-11 | `lankadeepalk-4215cfce` | සුදු සැරයටි දිනයට පුරපතිනියත් දෑස් වසාගෙන සහභාගීවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-4215cfce)
 - 2025-11-11 | `lankadeepalk-3c7f220b` | සුදු සැරයටි දිනයට පුරපතිනියත් දෑස් බැද සහභාගීවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-3c7f220b)
+- 2025-11-11 | `virakesarilk-74aef098` | கெஹலியவின் மகன் ரமித் ரம்புக்வெல்லவுக்கு எதிராக குற்றப்பத்திரிகை தாக்கல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-virakesarilk-74aef098)
 - 2025-11-11 | `lankadeepalk-a9a63541` | ලස්සන ජීවිතයක් දෙන්න ඇවිත්  මිනිස්සු අසරණ කළා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-a9a63541)
-- 2025-11-11 | `tamilmirrorlk-e6033c86` | மோட்டார் சைக்கிள்,முச்சக்கர வண்டித் திருட்டு அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-e6033c86)
-- 2025-11-11 | `lankadeepalk-61de9754` | කන්ටේනර් කමිටුවට බාලගිරි දෝෂය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-61de9754)
-- 2025-11-11 | `lankadeepalk-b571e38d` | හදවත් රෝගී දරුවන් පනහකට ඉන්දියාවේදී සැත්කම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-b571e38d)
-- 2025-11-11 | `lankadeepalk-445d8c85` | මැතිසබයේ මුල් පුටුවලට අලුත් මන්ත්‍රීලා අටක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-445d8c85)
-- 2025-11-11 | `tamilmirrorlk-b113aded` | சிறுமியை கர்ப்பமாகியவர் சிக்கினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-b113aded)
-- 2025-11-11 | `tamilmirrorlk-2f5045be` | ஜனாதிபதிக்கு புதிய பதவிக​ள் கொடுத்த சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-2f5045be)
-- 2025-11-11 | `lankadeepalk-a3ca7936` | දිල්ලි ප්‍රහාරයෙන් මියගිය ගණන 9 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-a3ca7936)
-- 2025-11-11 | `adalk-3affb750` | ශ්‍රී ලංකා - පාකිස්තාන පළමු එක්දින තරගය අද | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-adalk-3affb750)
-- 2025-11-11 | `tamilmirrorlk-97cb72fb` | எரிப்போம்... இது சத்தியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-97cb72fb)
-- 2025-11-11 | `lankadeepalk-9a185fc0` | දඹුල්ලේ විකුණන්න බැරි වට්ටක්කා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-lankadeepalk-9a185fc0)
-- 2025-11-11 | `adalk-c6ce30ab` | දිල්ලියේ සිදු වූ පිපිරීම සම්බන්ධයෙන් වෛද්‍යවරු 03ක් ගැන පරීක්ෂණ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-adalk-c6ce30ab)
-- 2025-11-11 | `adalk-7fa29bac` | සෙලාන් බැංකුව 14 වන වරටත් ’’කැදැල්ල Art of Living’’ සමග | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-adalk-7fa29bac)
-- 2025-11-11 | `tamilmirrorlk-6769435a` | உருவளி ஆலயத்துக்கு சாமி கும்பிட வந்த  சிறுத்தை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-tamilmirrorlk-6769435a)
 
 ---
 
