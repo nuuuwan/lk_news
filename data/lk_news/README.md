@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_05:17:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--11_06:03:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**85,949** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**85,962** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,7 @@ A collection of lk_news documents.
 - 2025-11-11 | `dailyftlk-b6447e03` | Government Budget signals decisive juncture for construction industry, says CIOB | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-b6447e03)
 - 2025-11-11 | `dailyftlk-4ad53940` | WmB Coalition strengthens momentum for systemic change in Sri Lanka’s MSME sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-4ad53940)
 - 2025-11-11 | `dailyftlk-5bc4829b` | Sri Lanka-Philippines Business Council holds AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-5bc4829b)
+- 2025-11-11 | `islandlk-4eb97848` | It has been proposed to increase the daily wage for plantation workers from Rs. 1,350 to a potential Rs. 1,750. – PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-islandlk-4eb97848)
 - 2025-11-11 | `dailyftlk-ae96398a` | PM says age-appropriate sex education is to protect children from sexual abuse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-ae96398a)
 - 2025-11-11 | `dailyftlk-61e958b8` | 2024 Auditor General’s Annual Report handed over to Speaker | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-61e958b8)
 - 2025-11-11 | `dailyftlk-4570d43f` | Eight killed after explosion near Red Fort; shocks Delhi | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-4570d43f)
@@ -55,12 +56,11 @@ A collection of lk_news documents.
 - 2025-11-11 | `dailyftlk-290fc25b` | Rebuilding from collapse: From stabilisation to transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-290fc25b)
 - 2025-11-11 | `dailyftlk-019c42e4` | Myland makes three new Board appointments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-019c42e4)
 - 2025-11-11 | `dailyftlk-f6f0a257` | Beyond the facade: A strategic critique of 2026 Budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-dailyftlk-f6f0a257)
-- 2025-11-10 | `dailyftlk-ee0c4b4b` | Silence, support, and the cost of speaking up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-ee0c4b4b)
-- 2025-11-10 | `dailyftlk-087bf810` | hSenidBiz reports robust growth with significant margin expansion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-087bf810)
-- 2025-11-10 | `dailyftlk-740fba4e` | New Anthoney’s Farms invests Rs. 500 m more in value-added product range | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-740fba4e)
-- 2025-11-10 | `dailyftlk-2e026178` | Hemas Consumer Brands sets national benchmark as “Overall Winner” at JASTECA Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-2e026178)
-- 2025-11-10 | `dailyftlk-708ab34d` | EXCON positions construction technology as catalyst for sustainability and inclusive growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-dailyftlk-708ab34d)
-- 2025-11-10 | `virakesarilk-0e2525ca` | டெல்லி செங்கோட்டை அருகே கார் வெடிப்பு: 10 பேர் பலி - பயங்கரவாதிகளின் சதிச்செயலா ? சிக்கிய 2 பேர் மீது தீவிர விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-10-virakesarilk-0e2525ca)
+- 2025-11-11 | `islandlk-a7839b10` | Rocking scene … with Chitral | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-islandlk-a7839b10)
+- 2025-11-11 | `islandlk-8be19d42` | Psychometrics and the Curriculum for General Education | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-islandlk-8be19d42)
+- 2025-11-11 | `islandlk-1a354cf7` | Bourse up on budget cheer; turnover tops Rs. 7.5bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-islandlk-1a354cf7)
+- 2025-11-11 | `islandlk-6fa1b07a` | Hayleys Mobility drives the future of mobility in Sri Lanka with OMODA & JAECOO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-islandlk-6fa1b07a)
+- 2025-11-11 | `islandlk-ef4852e4` | New Anthoney’s Farms invests further LKR 500M in its value-added product range | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-11-islandlk-ef4852e4)
 
 ---
 
