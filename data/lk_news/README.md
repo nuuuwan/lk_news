@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_06:31:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_07:14:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,183** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,186** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-12-dailyftlk-9eb7622d",
-    "num": "dailyftlk-9eb7622d",
+    "doc_id": "2025-11-12-lankadeepalk-99cd10a1",
+    "num": "lankadeepalk-99cd10a1",
     "date_str": "2025-11-12",
-    "description": "NPP\u2019s Budget is a beautiful mix of words like a children\u2019s playbook \u2013 Marikkar",
-    "url_metadata": "https://www.ft.lk/news/NPP-s-Budget-is-a-beautiful-mix-of-words-like-a-children-s-playbook-Marikkar/56-784225",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1762895416.0
+    "description": "\u0dad\u0dd2\u0dc3\u0dca\u0dc3\u0db8\u0dc4\u0dcf\u0dbb\u0dcf\u0db8 \u0d9a\u0dd2\u0dbb\u0dd2\u0db1\u0dca\u0daf\u0dd9\u0db1\u0dca \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dc3\u0dc3\u0db8\u0dc4\u0dbb\u0db8-\u0d9a\u0dbb\u0db1\u0daf\u0db1-\u0db8\u0dad\u0daf\u0dbb\u0dc0\u0dba-\u0dad\u0d9c\u0dba\u0d9a-\u0d85\u0dad\u0d85\u0da9\u0d9c\u0dc0\u0da7/1-683006",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1762910433.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-12 | `lankadeepalk-99cd10a1` | තිස්සමහාරාම කිරින්දෙන් මත්ද්‍රව්‍ය තොගයක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-lankadeepalk-99cd10a1)
+- 2025-11-12 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-3a015e4a)
 - 2025-11-12 | `dailyftlk-9eb7622d` | NPP’s Budget is a beautiful mix of words like a children’s playbook – Marikkar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-9eb7622d)
 - 2025-11-12 | `dailyftlk-61df54cf` | Pakistan accuses India of orchestrating suicide bombing in Islamabad, 12 killed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-61df54cf)
 - 2025-11-12 | `dailyftlk-884233a5` | Five Indian firms shortlisted for digital ID project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-884233a5)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-12 | `dailyftlk-d02a6053` | 30th Annual General Meeting of Sri Lanka–Korea Business Council of The Ceylon Chamber of Commerce | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-d02a6053)
 - 2025-11-12 | `dailyftlk-0bb01781` | Saman Doranegama appointed CEO of Namunukula Plantations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-0bb01781)
 - 2025-11-12 | `dailyftlk-f5c8d789` | Ambeon Group reports robust 2Q performance  with sustained profit growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-f5c8d789)
-- 2025-11-12 | `tamilmirrorlk-71e9bbfd` | ’சிவப்பு ஸ்டிக்கர் குழு எங்கே’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-71e9bbfd)
-- 2025-11-12 | `dailyftlk-95cab54a` | 2026 a growth Budget for Sri Lanka? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-95cab54a)
 
 ---
 
