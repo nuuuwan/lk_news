@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_16:47:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_17:16:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,295** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,300** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-12-lankadeepalk-1a2511a8",
-    "num": "lankadeepalk-1a2511a8",
+    "doc_id": "2025-11-12-virakesarilk-1eb51582",
+    "num": "virakesarilk-1eb51582",
     "date_str": "2025-11-12",
-    "description": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0d85\u0dbd\u0dd2  \u0d9a\u0dd0\u0dbd\u0dda\u0da7 \u0db4\u0dd0\u0db1\u0dca\u0db1\u0dd3\u0db8 \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0db8\u0db6\u0db1\u0dad\u0da7-\u0d85\u0dbd-\u0d9a\u0dbd\u0da7-\u0db4\u0db1\u0db1\u0db8-\u0dc3\u0dbb\u0dae\u0d9a\u0dba/1-683059",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1762945720.0
+    "description": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd 2025 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0bae\u0bc0\u0bb3\u0bbe\u0baf\u0bcd\u0bb5\u0bc1\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/230193",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1762946940.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-12 | `virakesarilk-1eb51582` | ஜனாதிபதி தலைமையில் டிஜிட்டல் பொருளாதார அமைச்சின் 2025 ஆம் ஆண்டுக்கான முன்னேற்ற மீளாய்வுக் கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-1eb51582)
+- 2025-11-12 | `virakesarilk-30dc5d74` | போதை மாத்திரைகளுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-30dc5d74)
+- 2025-11-12 | `lankadeepalk-9a05c8b4` | සුහදව ඉන්න හැටි ජනපතිගෙන් ඉගෙන ගන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-lankadeepalk-9a05c8b4)
+- 2025-11-12 | `lankadeepalk-9d184527` | උතුරට ගිය දකුණේ නෑයෝ සිත් තබා යළි එති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-lankadeepalk-9d184527)
 - 2025-11-12 | `lankadeepalk-1a2511a8` | හම්බන්තොට අලි  කැලේට පැන්නීම සාර්ථකයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-lankadeepalk-1a2511a8)
 - 2025-11-12 | `virakesarilk-878fa313` | இலங்கை சூழலியலளர்களின் அவதானத்திற்கு உட்பட்ட சீனாவின் சினோபெக் எண்ணெய் சுத்திகரிப்பு நிலையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-878fa313)
 - 2025-11-12 | `virakesarilk-032e8100` | இரண்டு அடுக்கு உலக டெஸ்ட் சம்பியன்ஷிப் முறைமை நிராகரிப்பு; சர்வதேச ஒருநாள் சுப்பர் லீக் புதுப்பிக்கப்படலாம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-032e8100)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-12 | `virakesarilk-0d89e228` | அருள்நிதி நடிக்கும் 'மை டியர் சிஸ்டர் ' எனும் படத்தின் அறிமுக காணொளி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-0d89e228)
 - 2025-11-12 | `virakesarilk-e511a8af` | அமெரிக்காவில் சிறிய ரக விமானம் விபத்துக்குள்ளானதில் தந்தை, மகள் இருவரும் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-e511a8af)
 - 2025-11-12 | `lankadeepalk-23730901` | වෛද්‍ය සංගමය සුව ඇමති හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-lankadeepalk-23730901)
-- 2025-11-12 | `virakesarilk-f332f8e1` | அவுஸ்திரேலியாவில் 16 வயதுக்குட்பட்டோர் சமூக ஊடகங்களை பயன்படுத்தத் தடை - டிசம்பர் 10 முதல் சட்டம் அமுல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-f332f8e1)
-- 2025-11-12 | `tamilmirrorlk-f4824673` | 1 நிமிஷத்துக்கு 5 கோடி: ரூட்டை மாற்றிய நடிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-f4824673)
-- 2025-11-12 | `tamilmirrorlk-dfafdb34` | இடிந்து விழுந்த பாலம்: அதிர்ச்சி வீடியோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-dfafdb34)
-- 2025-11-12 | `virakesarilk-a724d233` | பிரசன்ன ரணதுங்கவுக்கு பிணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-a724d233)
 
 ---
 
