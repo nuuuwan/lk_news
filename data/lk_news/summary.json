@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-12 18:28:34",
-  "n_docs": 86307,
+  "time_updated": "2025-11-12 18:56:00",
+  "n_docs": 86310,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 86307,
+  "n_docs_with_text": 86310,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-12",
-  "dataset_size": 1285478175,
+  "dataset_size": 1285549218,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-12-lankadeepalk-b036e8ad",
-    "num": "lankadeepalk-b036e8ad",
+    "doc_id": "2025-11-12-lankadeepalk-0500cf31",
+    "num": "lankadeepalk-0500cf31",
     "date_str": "2025-11-12",
-    "description": "\u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0da7\u0dca \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0dda \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0 \u0d9c\u0dd0\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0da5\u0dcf\u0dc0\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d9a-\u0d9a\u0dbb\u0d9a\u0da7-\u0d9a\u0dab\u0da9\u0dba\u0db8-\u0d86\u0dbb\u0d9a\u0dc2\u0dc0-\u0d9c\u0db1-\u0da2\u0db1\u0db4\u0dad\u0d9c\u0db1-\u0db4\u0dbb\u0dad\u0da5\u0dc0\u0d9a/1-683064",
+    "description": "\u0d9c\u0dd9\u0dbd\u0dd2\u0d94\u0dba \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0dd2\u0db1\u0dca \u0d9a\u0dad\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7:\u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dbd\u0d94\u0dba-\u0d85\u0db1\u0dad\u0dbb\u0d9a\u0db1-\u0d9a\u0dad\u0d9a-\u0db8\u0dbb\u0da7\u0daf\u0d9a\u0d9a-\u0dbb\u0dc4\u0dbd\u0da7/1-683066",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1762951822.0
+    "time_ut": 1762953186.0
   }
 }
