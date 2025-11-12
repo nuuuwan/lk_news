@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-12 16:21:19",
-  "n_docs": 86274,
+  "time_updated": "2025-11-12 16:46:34",
+  "n_docs": 86295,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 86274,
+  "n_docs_with_text": 86295,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-12",
-  "dataset_size": 1284898094,
+  "dataset_size": 1285074768,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-12-lankadeepalk-c3b893a2",
-    "num": "lankadeepalk-c3b893a2",
+    "doc_id": "2025-11-12-lankadeepalk-1a2511a8",
+    "num": "lankadeepalk-1a2511a8",
     "date_str": "2025-11-12",
-    "description": "\u0db6\u0dd3\u0da7\u0dca\u0da7\u0dd4 \u0dc0\u0db1 \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3 \u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca \u0daf\u0dd0\u0dbd\u0dda",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db6\u0da7\u0da7-\u0dc0\u0db1-\u0db1\u0dbd\u0db0\u0dbb-\u0d85\u0dbd\u0dbd\u0dc3-\u0daf\u0dbd/101-683057",
+    "description": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0d85\u0dbd\u0dd2  \u0d9a\u0dd0\u0dbd\u0dda\u0da7 \u0db4\u0dd0\u0db1\u0dca\u0db1\u0dd3\u0db8 \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0db8\u0db6\u0db1\u0dad\u0da7-\u0d85\u0dbd-\u0d9a\u0dbd\u0da7-\u0db4\u0db1\u0db1\u0db8-\u0dc3\u0dbb\u0dae\u0d9a\u0dba/1-683059",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1762944524.0
+    "time_ut": 1762945720.0
   }
 }
