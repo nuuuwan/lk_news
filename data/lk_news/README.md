@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_10:20:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_10:48:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,204** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,208** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-12-virakesarilk-b02fe307",
-    "num": "virakesarilk-b02fe307",
+    "doc_id": "2025-11-12-tamilmirrorlk-5ea7d1f3",
+    "num": "tamilmirrorlk-5ea7d1f3",
     "date_str": "2025-11-12",
-    "description": "'\u0bae\u0b95\u0bbf\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd ' \u0ba8\u0bb5\u0bae\u0bcd\u0baa\u0bb0\u0bcd 21 '\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb0\u0bb2\u0bcd' \u0ba8\u0bc1\u0b95\u0bc7\u0b95\u0bca\u0b9f\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bc7\u0bb0\u0ba3\u0bbf\u0baf\u0bc1\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/230140",
+    "description": "\u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bb1\u0bcd\u0bb1 \u0b95\u0bc1\u0b9f\u0bbf\u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bca\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bb1\u0bcd\u0bb1-\u0b95\u0bc1\u0b9f\u0bbf\u0ba8\u0bc0\u0bb0\u0bcd-\u0bb5\u0bbf\u0ba8\u0bbf\u0baf\u0bcb\u0b95\u0bae\u0bcd/175-367823",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1762922220.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1762923874.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-12 | `tamilmirrorlk-5ea7d1f3` | கிளிநொச்சியில் பொருத்தமற்ற குடிநீர் விநியோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-5ea7d1f3)
+- 2025-11-12 | `tamilmirrorlk-bd5f05ca` | யாழ். பிரச்சினை குறித்து நீதிமன்றம் பிறப்பித்த அதிரடி உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-bd5f05ca)
+- 2025-11-12 | `tamilmirrorlk-38c373b8` | முன்னாள் அமைச்சர்   பிரசன்ன ரணதுங்க கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-38c373b8)
+- 2025-11-12 | `tamilmirrorlk-ad1e64dd` | புதுடெல்லிகார் வெடி விபத்து: பாம்பன் ரயில்பாலத்தில் கடும்பாதுகாப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-tamilmirrorlk-ad1e64dd)
 - 2025-11-12 | `virakesarilk-b02fe307` | 'மகிந்த காற்றும் ' நவம்பர் 21 'மக்கள் குரல்' நுகேகொடை மக்கள் பேரணியும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-b02fe307)
 - 2025-11-12 | `lankadeepalk-a8fad7c6` | ප්‍රසන්න රණතුංග අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-lankadeepalk-a8fad7c6)
 - 2025-11-12 | `virakesarilk-90bb7a9d` | பெருந்தோட்ட மக்களுக்கான தீர்வுகளை மலினப்படுத்தும் எதிர்க்கட்சியின் கருத்துக்கள் - பிரதி அமைச்சர் அருண் ஹேமசந்திர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-90bb7a9d)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-12 | `lankadeepalk-09876076` | කිරින්දේ කුඩු සමග වාහන හයක්, සැකකරුවන් හතක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-lankadeepalk-09876076)
 - 2025-11-12 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-3a015e4a)
 - 2025-11-12 | `bbccomsinhala-fa653235` | අෆ්රිඩිගේ අධිවේගී ශතකය සහ තිසරගේ කඩුලු ත්‍රිත්වය: ශ්‍රී ලංකාව සහ පකිස්ථානය අතර වසර 50ක අමතක නොවන ක්‍රිකට් සබඳතාව | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-bbccomsinhala-fa653235)
-- 2025-11-12 | `dailyftlk-9eb7622d` | NPP’s Budget is a beautiful mix of words like a children’s playbook – Marikkar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-9eb7622d)
-- 2025-11-12 | `dailyftlk-61df54cf` | Pakistan accuses India of orchestrating suicide bombing in Islamabad, 12 killed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-61df54cf)
-- 2025-11-12 | `dailyftlk-884233a5` | Five Indian firms shortlisted for digital ID project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-884233a5)
-- 2025-11-12 | `dailyftlk-e5902f0a` | UNESCO adopts Sri Lanka-led resolution to observe International Day of Vesak annually | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-dailyftlk-e5902f0a)
 
 ---
 
