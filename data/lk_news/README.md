@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_09:29:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_09:49:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,381** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,383** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A collection of lk_news documents.
 - 2025-11-13 | `tamilmirrorlk-d5ff777e` | ஆப்கனிஸ்தானில் பசியால் வாடும் குடும்பங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-d5ff777e)
 - 2025-11-13 | `tamilmirrorlk-4e685fb4` | ஆப்கானிஸ்தானில் பசியால் வாடும் குடும்பங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-4e685fb4)
 - 2025-11-13 | `virakesarilk-68bdc1ec` | கப்பலில் ஐஸ் போதைப்பொருளுடன் 07 சந்தேகநபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-68bdc1ec)
+- 2025-11-13 | `adalk-2f9e3637` | යුරෝපයේ රැකියා හා අධ්‍යාපන අවස්ථා කියමින් මුදල් ගැරිමේ ජාවාරමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-adalk-2f9e3637)
 - 2025-11-13 | `dailyftlk-00dda00a` | Sri Lanka participates in 8th China International Import Expo in Shanghai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-00dda00a)
 - 2025-11-13 | `virakesarilk-e585eccf` | இலங்கை - இந்திய கடற்படைகள், கடலோர காவற்படைகள்: 35வது சர்வதேச கடல்சார் எல்லைக் கோடு சந்திப்பு (IMBL) நிறைவடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-e585eccf)
 - 2025-11-13 | `dailyftlk-3123590d` | NCCSL hosts post-Budget seminar, highlights development focus and fiscal discipline | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-3123590d)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-13 | `adalk-2044656d` | එක්දින තරගාවලියේ තරග කාලසටහනේ වෙනසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-adalk-2044656d)
 - 2025-11-13 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-3a015e4a)
 - 2025-11-13 | `adalk-120c7bc5` | ක්‍රීඩකයන්ගේ ආරක්ෂාව තහවුරු බවට ක්‍රිකට් ආයතනය සහතික වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-adalk-120c7bc5)
-- 2025-11-13 | `dailyftlk-f29bba87` | Business leaders share  lessons in resilience at I AM COYLE Leadership Forum 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-f29bba87)
 
 ---
 
