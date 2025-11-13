@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_11:19:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_11:48:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,391** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,395** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-13-lankadeepalk-94711dea",
-    "num": "lankadeepalk-94711dea",
+    "doc_id": "2025-11-13-tamilmirrorlk-6d8e5630",
+    "num": "tamilmirrorlk-6d8e5630",
     "date_str": "2025-11-13",
-    "description": "\u0db8\u0dad\u0dca \u0dc0\u0dd0\u0dbb\u0daf\u0dd2 \u0d9a\u0dbb\u0dd4\u0dc0\u0ddd 1099 \u0d9a\u0dca \u0d9a\u0ddc\u0da7\u0dd4",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dad-\u0dc0\u0dbb\u0daf-\u0d9a\u0dbb\u0dc0-1099-\u0d9a-\u0d9a\u0da7/101-683080",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1763012406.0
+    "description": "\u0baa\u0bc1\u0ba4\u0bc1\u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bcb\u0bb0\u0bae\u0bcd: 500 \u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0ba4\u0bca\u0bb2\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bc2\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bc1\u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bcb\u0bb0\u0bae\u0bcd-500-\u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd-\u0ba4\u0bca\u0bb2\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd-\u0b95\u0bc2\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8/175-367879",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1763014034.0
 }
 ```
 
@@ -41,7 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-13 | `tamilmirrorlk-6d8e5630` | புதுடெல்லியில் கோரம்: 500 மீட்டர் தொலைவில் கூரையில் கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-6d8e5630)
+- 2025-11-13 | `virakesarilk-eebff342` | இன்றைய தங்க விலை நிலைவரம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-eebff342)
+- 2025-11-13 | `tamilmirrorlk-4e85e85e` | காளையை  வம்புக்கு இழுத்த இளைஞர்: இதெல்லாம் தேவையா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-4e85e85e)
 - 2025-11-13 | `lankadeepalk-94711dea` | මත් වැරදි කරුවෝ 1099 ක් කොටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-lankadeepalk-94711dea)
+- 2025-11-13 | `adalk-fd0f0909` | PTA අහෝසි කිරීම සඳහා වන කමිටු වාර්තාව භාරදෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-adalk-fd0f0909)
 - 2025-11-13 | `islandlk-fdaa7e83` | OnsysConnect, the Innovative Digital Data Sharing Platform, Wins NBQSA 2025 Award in Digital Government Category | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-islandlk-fdaa7e83)
 - 2025-11-13 | `tamilmirrorlk-0ea0de73` | 8 வயது சிறுமி துஷ்பிரயோகம்: குற்றவாளிக்கு கடூழிய சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-0ea0de73)
 - 2025-11-13 | `tamilmirrorlk-ba7238c6` | மன்னாரில் போதைப்பொருள் குற்றவாளிக்கு ஆயுள் தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-ba7238c6)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-13 | `virakesarilk-68bdc1ec` | கப்பலில் ஐஸ் போதைப்பொருளுடன் 07 சந்தேகநபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-68bdc1ec)
 - 2025-11-13 | `adalk-2f9e3637` | යුරෝපයේ රැකියා හා අධ්‍යාපන අවස්ථා කියමින් මුදල් ගැරිමේ ජාවාරමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-adalk-2f9e3637)
 - 2025-11-13 | `dailyftlk-00dda00a` | Sri Lanka participates in 8th China International Import Expo in Shanghai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-00dda00a)
-- 2025-11-13 | `virakesarilk-e585eccf` | இலங்கை - இந்திய கடற்படைகள், கடலோர காவற்படைகள்: 35வது சர்வதேச கடல்சார் எல்லைக் கோடு சந்திப்பு (IMBL) நிறைவடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-e585eccf)
-- 2025-11-13 | `dailyftlk-3123590d` | NCCSL hosts post-Budget seminar, highlights development focus and fiscal discipline | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-3123590d)
-- 2025-11-13 | `dailyftlk-9dd01374` | National Supply Chain Day 2025 celebrations highlight excellence and innovation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-9dd01374)
-- 2025-11-13 | `dailyftlk-0d721ae8` | National Supply Chain Excellence Award Winners 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-0d721ae8)
 
 ---
 
