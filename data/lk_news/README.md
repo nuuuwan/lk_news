@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_07:14:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_08:18:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,363** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,365** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-13-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2025-11-13-tamilmirrorlk-6ac279c9",
+    "num": "tamilmirrorlk-6ac279c9",
     "date_str": "2025-11-13",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/230203",
+    "description": "\u0bae\u0bb4\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb4\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9-\u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd/175-367870",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1762996980.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1762999956.0
 }
 ```
 
@@ -41,7 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-13 | `tamilmirrorlk-6ac279c9` | மழையுடனான வானிலை அதிகரிக்கும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-6ac279c9)
 - 2025-11-13 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-3a015e4a)
+- 2025-11-13 | `adalk-120c7bc5` | ක්‍රීඩකයන්ගේ ආරක්ෂාව තහවුරු බවට ක්‍රිකට් ආයතනය සහතික වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-adalk-120c7bc5)
 - 2025-11-13 | `dailyftlk-f29bba87` | Business leaders share  lessons in resilience at I AM COYLE Leadership Forum 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-f29bba87)
 - 2025-11-13 | `dailyftlk-02466864` | CCI’s 21st AGM today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-02466864)
 - 2025-11-13 | `dailyftlk-2b7344f5` | PickMe ‘Nena Pahana’ brings human connection  to digital platform economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-2b7344f5)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-13 | `dailyftlk-aff0c391` | SLPP MPs decline official vehicles, donate them to Health Ministry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-aff0c391)
 - 2025-11-13 | `bbccomsinhala-dd90ec4a` | ජනතාවට බරක් වී ඇති රාජ්‍ය ආයතන මෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-bbccomsinhala-dd90ec4a)
 - 2025-11-13 | `islandlk-5b2891c8` | The ‘Art’ of Diplomacy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-islandlk-5b2891c8)
-- 2025-11-13 | `islandlk-1bcbb85e` | Beauty … with Ice Cubes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-islandlk-1bcbb85e)
-- 2025-11-12 | `islandlk-06581182` | Tokyo Cement Group and Foundation of Goodness: A decade of nurturing cricketing dreams | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-islandlk-06581182)
 
 ---
 
