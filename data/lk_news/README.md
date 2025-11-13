@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_09:49:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_10:21:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,383** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,388** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-13-virakesarilk-1b3d07e9",
-    "num": "virakesarilk-1b3d07e9",
+    "doc_id": "2025-11-13-islandlk-fdaa7e83",
+    "num": "islandlk-fdaa7e83",
     "date_str": "2025-11-13",
-    "description": "8 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbe\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bc2\u0bb4\u0bbf\u0baf \u0b9a\u0bbf\u0bb1\u0bc8\u0ba4\u0bcd\u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/230207",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1763005080.0
+    "description": "OnsysConnect, the Innovative Digital Data Sharing Platform, Wins NBQSA 2025 Award in Digital Government Category",
+    "url_metadata": "http://island.lk/onsysconnect-the-innovative-digital-data-sharing-platform-wins-nbqsa-2025-award-in-digital-government-category-in-a-landmark-achievement-for-local-digital-innovation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1763009280.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-13 | `islandlk-fdaa7e83` | OnsysConnect, the Innovative Digital Data Sharing Platform, Wins NBQSA 2025 Award in Digital Government Category | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-islandlk-fdaa7e83)
+- 2025-11-13 | `tamilmirrorlk-0ea0de73` | 8 வயது சிறுமி துஷ்பிரயோகம்: குற்றவாளிக்கு கடூழிய சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-0ea0de73)
+- 2025-11-13 | `tamilmirrorlk-ba7238c6` | மன்னாரில் போதைப்பொருள் குற்றவாளிக்கு ஆயுள் தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-ba7238c6)
+- 2025-11-13 | `lankadeepalk-863c6d69` | ආණ්ඩු විරෝධී රැලියේ අරමුණ කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-lankadeepalk-863c6d69)
+- 2025-11-13 | `lankadeepalk-b247228c` | රජමහ වෙහෙරක  තිබූ මැණික්  සොරු අරන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-lankadeepalk-b247228c)
 - 2025-11-13 | `virakesarilk-1b3d07e9` | 8 வயது சிறுமி துஷ்பிரயோக குற்றவாளிக்கு கடூழிய சிறைத்தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-1b3d07e9)
 - 2025-11-13 | `virakesarilk-7c135647` | போதைப்பொருள் குற்றவாளிக்கு ஆயுள் தண்டனை விதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-7c135647)
 - 2025-11-13 | `tamilmirrorlk-c4175906` | ’திறமையாளர்களை அமெரிக்கா ஈர்ப்பது முக்கியம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-c4175906)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-11-13 | `lankadeepalk-e4bb3c3c` | උණ්ඩ-ගිනි අවි සමඟ විශ්‍රාමික ඉඩම් රෙජිස්ට්‍රාර් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-lankadeepalk-e4bb3c3c)
 - 2025-11-13 | `lankadeepalk-eb2958b1` | පළාත් කිහිපයකට වැස්ස වැඩිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-lankadeepalk-eb2958b1)
 - 2025-11-13 | `tamilmirrorlk-c295e931` | ரணிலை சந்தித்த பின் நாமல் வெளியிட்ட அதிரடி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-c295e931)
-- 2025-11-13 | `tamilmirrorlk-625eae59` | வேறு இடத்திற்கு மாற்றப்படும் காலி சிறைச்சாலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-625eae59)
-- 2025-11-13 | `tamilmirrorlk-6ac279c9` | மழையுடனான வானிலை அதிகரிக்கும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-6ac279c9)
-- 2025-11-13 | `adalk-2044656d` | එක්දින තරගාවලියේ තරග කාලසටහනේ වෙනසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-adalk-2044656d)
-- 2025-11-13 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-3a015e4a)
-- 2025-11-13 | `adalk-120c7bc5` | ක්‍රීඩකයන්ගේ ආරක්ෂාව තහවුරු බවට ක්‍රිකට් ආයතනය සහතික වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-adalk-120c7bc5)
 
 ---
 
