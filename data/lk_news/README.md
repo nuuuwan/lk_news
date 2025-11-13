@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_10:21:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_10:47:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,388** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,389** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2025-11-13 | `tamilmirrorlk-ba7238c6` | மன்னாரில் போதைப்பொருள் குற்றவாளிக்கு ஆயுள் தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-ba7238c6)
 - 2025-11-13 | `lankadeepalk-863c6d69` | ආණ්ඩු විරෝධී රැලියේ අරමුණ කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-lankadeepalk-863c6d69)
 - 2025-11-13 | `lankadeepalk-b247228c` | රජමහ වෙහෙරක  තිබූ මැණික්  සොරු අරන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-lankadeepalk-b247228c)
+- 2025-11-13 | `adalk-d1a816f5` | වතු වල ගොවීන් බීජ අර්තාපල් නිෂ්පාදනයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-adalk-d1a816f5)
 - 2025-11-13 | `virakesarilk-1b3d07e9` | 8 வயது சிறுமி துஷ்பிரயோக குற்றவாளிக்கு கடூழிய சிறைத்தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-1b3d07e9)
 - 2025-11-13 | `virakesarilk-7c135647` | போதைப்பொருள் குற்றவாளிக்கு ஆயுள் தண்டனை விதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-7c135647)
 - 2025-11-13 | `tamilmirrorlk-c4175906` | ’திறமையாளர்களை அமெரிக்கா ஈர்ப்பது முக்கியம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-c4175906)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-13 | `dailyftlk-0d721ae8` | National Supply Chain Excellence Award Winners 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-0d721ae8)
 - 2025-11-13 | `lankadeepalk-e4bb3c3c` | උණ්ඩ-ගිනි අවි සමඟ විශ්‍රාමික ඉඩම් රෙජිස්ට්‍රාර් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-lankadeepalk-e4bb3c3c)
 - 2025-11-13 | `lankadeepalk-eb2958b1` | පළාත් කිහිපයකට වැස්ස වැඩිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-lankadeepalk-eb2958b1)
-- 2025-11-13 | `tamilmirrorlk-c295e931` | ரணிலை சந்தித்த பின் நாமல் வெளியிட்ட அதிரடி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-c295e931)
 
 ---
 
