@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-13 10:46:38",
-  "n_docs": 86389,
+  "time_updated": "2025-11-13 11:18:30",
+  "n_docs": 86391,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 86389,
+  "n_docs_with_text": 86391,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-13",
-  "dataset_size": 1287453374,
+  "dataset_size": 1287464156,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-13-islandlk-fdaa7e83",
-    "num": "islandlk-fdaa7e83",
+    "doc_id": "2025-11-13-lankadeepalk-94711dea",
+    "num": "lankadeepalk-94711dea",
     "date_str": "2025-11-13",
-    "description": "OnsysConnect, the Innovative Digital Data Sharing Platform, Wins NBQSA 2025 Award in Digital Government Category",
-    "url_metadata": "http://island.lk/onsysconnect-the-innovative-digital-data-sharing-platform-wins-nbqsa-2025-award-in-digital-government-category-in-a-landmark-achievement-for-local-digital-innovation/",
-    "lang": "en",
-    "newspaper_id": "islandlk",
-    "time_ut": 1763009280.0
+    "description": "\u0db8\u0dad\u0dca \u0dc0\u0dd0\u0dbb\u0daf\u0dd2 \u0d9a\u0dbb\u0dd4\u0dc0\u0ddd 1099 \u0d9a\u0dca \u0d9a\u0ddc\u0da7\u0dd4",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dad-\u0dc0\u0dbb\u0daf-\u0d9a\u0dbb\u0dc0-1099-\u0d9a-\u0d9a\u0da7/101-683080",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1763012406.0
   }
 }
