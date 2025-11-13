@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_21:48:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_22:21:46-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,506** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,508** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-13-virakesarilk-d43975ed",
-    "num": "virakesarilk-d43975ed",
+    "doc_id": "2025-11-13-tamilmirrorlk-9556a0b9",
+    "num": "tamilmirrorlk-9556a0b9",
     "date_str": "2025-11-13",
-    "description": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd. \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f \u0b95\u0bbf\u0ba3\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bc1\u0bb3\u0bcd \u0b95\u0baf\u0bbf\u0bb1\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf \u0b87\u0bb1\u0b99\u0bcd\u0b95\u0bbf \u0ba8\u0bc0\u0bb0\u0bbe\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bcd \u0b95\u0baf\u0bbf\u0bb1\u0bc1 \u0b85\u0bb1\u0bc1\u0ba8\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0bb0\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/230285",
+    "description": "\u0b95\u0bbf\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4-\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b90\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0b9f \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbf\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4-\u0bb5\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b90\u0bb8\u0bcd-\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba4\u0bbf\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0b9f-\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf/175-367913",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1763045940.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1763052424.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-13 | `tamilmirrorlk-9556a0b9` | கிரிந்த-வில் சிக்கிய ஐஸ் போதைப்பொருளின் திடுக்கிட வைக்கும் பின்னணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-9556a0b9)
+- 2025-11-13 | `tamilmirrorlk-72f3941a` | கடும் இடி மின்னல் தொடர்பில் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-72f3941a)
 - 2025-11-13 | `virakesarilk-d43975ed` | யாழில். தோட்ட கிணற்றினுள் கயிறு கட்டி இறங்கி நீராடியவர் கயிறு அறுந்த நிலையில் நீரில் மூழ்கி உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-d43975ed)
 - 2025-11-13 | `virakesarilk-8875bb1c` | மக்களுடன் ஒன்றிணைந்த தரப்படுத்தப்பட்ட அரசாங்கத்தை கட்டியெழுப்பியுள்ளோம் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-8875bb1c)
 - 2025-11-13 | `virakesarilk-562e7872` | தொழிலதிபரும் சமூக சேவையாளருமான ரெங்கராஜன் ரெட்டியார் காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-562e7872)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-13 | `virakesarilk-e80fd19a` | அமெரிக்காவில் 43 நாள் நீடித்த அரசு முடக்கம் முடிவு - சட்டமூலத்தில் கையெழுத்திட்டார் ட்ரம்ப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-e80fd19a)
 - 2025-11-13 | `lankadeepalk-0d93b52e` | ඊසිකෑෂ් කුඩු ගත් දෙකක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-lankadeepalk-0d93b52e)
 - 2025-11-13 | `lankadeepalk-03d6ca35` | ඇමේරිකාවට ශතය එපා වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-lankadeepalk-03d6ca35)
-- 2025-11-13 | `lankadeepalk-c1cf4c4d` | දොඩංගොඩ අයවැය පරාදයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-lankadeepalk-c1cf4c4d)
-- 2025-11-13 | `virakesarilk-3b157727` | இலங்கையில் சுயாதீன வழக்குத் தொடுநர் அலுவலகமானது சர்வதேசத்துக்கு காட்டும் கண் துடைப்பு அலுவலகம் - மூத்த சட்டத்தரணி கேஎஸ் இரத்தினவேல் தெரிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-3b157727)
 
 ---
 
