@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_06:02:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_06:31:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,349** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,354** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-13-dailyftlk-ceb3c42d",
-    "num": "dailyftlk-ceb3c42d",
+    "doc_id": "2025-11-13-dailyftlk-227f8041",
+    "num": "dailyftlk-227f8041",
     "date_str": "2025-11-13",
-    "description": "SLPP and UNP hold talks ahead of anti-Govt. rally",
-    "url_metadata": "https://www.ft.lk/news/SLPP-and-UNP-hold-talks-ahead-of-anti-Govt-rally/56-784252",
+    "description": "Reforming our Constitution: Getting basics right first",
+    "url_metadata": "https://www.ft.lk/columns/Reforming-our-Constitution-Getting-basics-right-first/4-784258",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1762992697.0
+    "time_ut": 1762995503.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-13 | `dailyftlk-227f8041` | Reforming our Constitution: Getting basics right first | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-227f8041)
+- 2025-11-13 | `dailyftlk-2809b50d` | Who really wins from Sri Lanka’s vehicle loan boom? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-2809b50d)
+- 2025-11-13 | `dailyftlk-67222610` | Retaining talent: Missing link in tourism’s recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-67222610)
+- 2025-11-13 | `dailyftlk-cc2ff68a` | Ephemeral wealth: Serving gig economy worker whose income disappears overnight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-cc2ff68a)
 - 2025-11-13 | `dailyftlk-ceb3c42d` | SLPP and UNP hold talks ahead of anti-Govt. rally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-ceb3c42d)
 - 2025-11-13 | `dailyftlk-9cafe96e` | High Court told Daisy Forrest unable to face money laundering trial due to dementia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-9cafe96e)
 - 2025-11-13 | `dailyftlk-c710cbb6` | Govt. to pilot pipeline irrigation projects to combat drought and crop losses in dry zones | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-dailyftlk-c710cbb6)
@@ -53,14 +57,10 @@ A collection of lk_news documents.
 - 2025-11-12 | `islandlk-dc83fbc4` | Browns’ General Trading honoured at Construct Exhibition 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-islandlk-dc83fbc4)
 - 2025-11-12 | `islandlk-14df45f8` | CSE surges past 23,500 mark as Fitch praises budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-islandlk-14df45f8)
 - 2025-11-12 | `islandlk-81683cc8` | Mark and Comm presents strategic communications framework to Deputy Minister for Sri Lanka’s USD15b digital economy transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-islandlk-81683cc8)
+- 2025-11-12 | `islandlk-afca166b` | JF Packaging IPO oversubscribed six times | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-islandlk-afca166b)
 - 2025-11-12 | `lankadeepalk-0500cf31` | ගෙලිඔය අනතුරකින් කතක් මරුට:දෙකක් රෝහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-lankadeepalk-0500cf31)
 - 2025-11-12 | `lankadeepalk-3cefec3c` | ආණ්ඩුව ගොවියා අනාථ කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-lankadeepalk-3cefec3c)
 - 2025-11-12 | `lankadeepalk-b036e8ad` | ලංකා ක්‍රිකට් කණ්ඩායමේ ආරක්ෂාව ගැන ජනපතිගෙන් ප්‍රතිඥාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-lankadeepalk-b036e8ad)
-- 2025-11-12 | `lankadeepalk-66043dfe` | හුංගම දී ටිපර් - බස් ගැටේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-lankadeepalk-66043dfe)
-- 2025-11-12 | `lankadeepalk-22f623d4` | හුංගම අනතුරින් ටිපර් රියැදුරු මරුට:35කට තුවාල | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-lankadeepalk-22f623d4)
-- 2025-11-12 | `virakesarilk-ea8a2740` | பயங்கரவாத தடைச் சட்டத்தை அமுல்படுத்திக்கொண்டு பொருளாதார ரீதியில் ஒருபோதும் முன்னேற்றமடைய முடியாது - செல்வம் அடைக்கலநாதன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-virakesarilk-ea8a2740)
-- 2025-11-12 | `adalk-68aab0d7` | කොටගල සභාවේ අයවැය ඒකමතිකව සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-adalk-68aab0d7)
-- 2025-11-12 | `adalk-16703850` | පසුගිය කාලයේ මත්ද්‍රව්‍ය තුරන් කිරිමට නොහැකිවුණේ දේශපාලන බලපෑම් නිසයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-12-adalk-16703850)
 
 ---
 
