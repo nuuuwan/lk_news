@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_05:16:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_06:03:46-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,538** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,553** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-14-virakesarilk-5164c126",
-    "num": "virakesarilk-5164c126",
+    "doc_id": "2025-11-14-dailyftlk-a2176a09",
+    "num": "dailyftlk-a2176a09",
     "date_str": "2025-11-14",
-    "description": "\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bc8 \u0bb5\u0bbe\u0bb3\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd \u0bae\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb5\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 25 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0bb2\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd - \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/230304",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1763070540.0
+    "description": "SLIC Life partners BASL to offer exclusive retirement plans for legal fraternity",
+    "url_metadata": "https://www.ft.lk/news/SLIC-Life-partners-BASL-to-offer-exclusive-retirement-plans-for-legal-fraternity/56-784311",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1763080033.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-14 | `dailyftlk-a2176a09` | SLIC Life partners BASL to offer exclusive retirement plans for legal fraternity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-a2176a09)
+- 2025-11-14 | `dailyftlk-ab965822` | President alleges State funds fuelled both Muslim, Sinhala extremism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-ab965822)
+- 2025-11-14 | `dailyftlk-f4ed59ea` | Govt. invites Pope Leo XIV to visit Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-f4ed59ea)
 - 2025-11-14 | `virakesarilk-5164c126` | போதைப்பொருள் மீட்புப் பொலிஸாரை வாளினால் மிரட்டியவர் மீது 25 வழக்குகள் நிலுவையில் - பொலிஸார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-5164c126)
 - 2025-11-14 | `virakesarilk-2833ff7e` | சாதாரண குடும்ப உணவுக் கட்டணம் ஒரு இலட்சம் ரூபாவை தாண்டியிருக்கலாம் – டீ.வி. சானக | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-2833ff7e)
 - 2025-11-14 | `tamilmirrorlk-488c41ca` | போதை மாத்திரைகளுடன் இளைஞர்கள் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-tamilmirrorlk-488c41ca)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-14 | `virakesarilk-3f3f014d` | வட்டுக்கோட்டையில் முதிரை மரக்குற்றிகள் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-3f3f014d)
 - 2025-11-14 | `virakesarilk-0bfb5863` | யாழ். கொம்மாந்துறை தோட்டக் கிணற்றில் மூழ்கி சிறுவன் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-0bfb5863)
 - 2025-11-13 | `virakesarilk-69a76fdc` | ஆனந்தபுரம் பச்சைபுல்மோட்டை மாவீரர் துயிலும் இல்லத்தில் இவ்வருடம் முதன்முறையாக இடம்பெறவுள்ள அஞ்சலி : ஆரம்பிக்கப்பட்ட  பணிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-69a76fdc)
-- 2025-11-13 | `virakesarilk-ae8c42d2` | யாழில் போதை மாத்திரைகளுடன் மூன்று இளைஞர்கள் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-ae8c42d2)
-- 2025-11-13 | `tamilmirrorlk-9556a0b9` | கிரிந்த-வில் சிக்கிய ஐஸ் போதைப்பொருளின் திடுக்கிட வைக்கும் பின்னணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-9556a0b9)
-- 2025-11-13 | `tamilmirrorlk-72f3941a` | கடும் இடி மின்னல் தொடர்பில் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-tamilmirrorlk-72f3941a)
 
 ---
 
