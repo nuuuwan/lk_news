@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--15_00:23:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--15_00:46:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,708** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,709** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -50,6 +50,7 @@ A collection of lk_news documents.
 - 2025-11-14 | `dailyftlk-ad8f2290` | New York goes Left | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-ad8f2290)
 - 2025-11-14 | `dailyftlk-5625103c` | China’s poverty reduction story: A magnificent chapter in global development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-5625103c)
 - 2025-11-14 | `dailyftlk-5b50aec6` | US policies driving India-China closer, create new avenues for developing nations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-5b50aec6)
+- 2025-11-14 | `dailyftlk-941ed988` | Govt: from an arrogant incompetence  to a quite charming amateurishness? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-941ed988)
 - 2025-11-14 | `dailyftlk-f9f4702e` | The shifting landscape of global extremism: From retreat to reinvention | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-f9f4702e)
 - 2025-11-14 | `virakesarilk-a600ce76` | மட்டக்களப்பு வைத்தியசாலையில் கைபேசிகள் திருடிய இளைஞன் உட்பட இருவர் கைது ; 18 கைபேசிகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-a600ce76)
 - 2025-11-14 | `lankadeepalk-ba3ab96b` | අකර්මණ්‍ය වූ ඇමෙරිකානු රජයට නැවත පණ දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-ba3ab96b)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-14 | `virakesarilk-7930165a` | 2026 வரவு–செலவுத் திட்ட இரண்டாம் வாசிப்பு - 118 மேலதிக வாக்குகளால் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-7930165a)
 - 2025-11-14 | `tamilmirrorlk-70d3ccfa` | ஐ.தே.க முடிவு வெளியானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-tamilmirrorlk-70d3ccfa)
 - 2025-11-14 | `tamilmirrorlk-cf4b00bb` | வரவு செலவுத் திட்டம் மேலதிக வாக்குகளால் வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-tamilmirrorlk-cf4b00bb)
-- 2025-11-14 | `lankadeepalk-e68ec2a8` | අයවැය දෙවැනි වර කියවීම වැඩි ඡන්දයෙන් සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-e68ec2a8)
 
 ---
 
