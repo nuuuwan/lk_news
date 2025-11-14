@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_07:15:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_08:17:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,560** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,567** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-14-dailyftlk-3a4ad8c0",
-    "num": "dailyftlk-3a4ad8c0",
+    "doc_id": "2025-11-14-tamilmirrorlk-a15a11a3",
+    "num": "tamilmirrorlk-a15a11a3",
     "date_str": "2025-11-14",
-    "description": "Sajith showcases \u2018Brand Sri Lanka\u2019",
-    "url_metadata": "https://www.ft.lk/business/Sajith-showcases-Brand-Sri-Lanka/34-784321",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1763083108.0
+    "description": "\u0baa\u0bb8\u0bcd \u0ba4\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb8\u0bcd-\u0ba4\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bbf\u0ba9\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd/175-367916",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1763086698.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-14 | `tamilmirrorlk-a15a11a3` | பஸ் தரிப்பிடத்தில் பெண்ணின் சடலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-tamilmirrorlk-a15a11a3)
+- 2025-11-14 | `dailyftlk-1ada43d9` | United Motors Group posts Rs. 1.4 b PAT in 1H | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-1ada43d9)
+- 2025-11-14 | `dailyftlk-004acfb3` | Enfection showcases AI Knowledge Agents at National AI Conference 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-004acfb3)
+- 2025-11-14 | `dailyftlk-da5a4c33` | Indo–Lanka Handicraft and Cultural Festival 2025 kicks off | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-da5a4c33)
+- 2025-11-14 | `dailyftlk-5a0bfbe7` | ICC Sri Lanka signs National Committee Partnership Agreement with ICC Academy in Singapore | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-5a0bfbe7)
 - 2025-11-14 | `dailyftlk-3a4ad8c0` | Sajith showcases ‘Brand Sri Lanka’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-3a4ad8c0)
 - 2025-11-14 | `dailyftlk-706b541d` | Why insurance industry must step out of the box | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-706b541d)
 - 2025-11-14 | `dailyftlk-e675e58f` | Budget 2026: Reform with fairness — A vision for stability, trust, and growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-e675e58f)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-11-14 | `tamilmirrorlk-488c41ca` | போதை மாத்திரைகளுடன் இளைஞர்கள் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-tamilmirrorlk-488c41ca)
 - 2025-11-14 | `virakesarilk-c9c54051` | சபரிமலை யாத்திரையை புனித யாத்திரையாக அறிவித்து தேசிய நல்லிணக்கத்தை உறுதிப்படுத்துவோம் – சுனில் செனவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-c9c54051)
 - 2025-11-14 | `virakesarilk-eee555f0` | நுண்ணுயிர் கொல்லி எதிர்ப்பு மீள் சுழற்சியால் உயிரிழப்பவர்களின் வீதம் அதிகரிப்பு - வைத்திய நிபுணர் ஜயந்தி எல்விட்டிகல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-eee555f0)
-- 2025-11-14 | `virakesarilk-62381f8b` | சம்பள உயர்வுக்கு ஜனாதிபதிக்கு நன்றி; 25 நாட்கள் பணி நிபந்தனைக்கு எதிர்ப்பு – இராதாகிருஷ்ணன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-62381f8b)
-- 2025-11-14 | `virakesarilk-9e902f47` | தோட்டத் தொழிலாளிக்கு ஒருநாள் வேலைக்கான வருகைக் கொடுப்பனவு ரூ.200 வழங்க வேண்டும் – அரசு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-9e902f47)
-- 2025-11-14 | `virakesarilk-5d24b9ab` | அனைத்து மக்களும் சுயகௌரவத்துடன் வாழக்கூடிய நாடு உருவாக்குவதே இலக்கு – சரோஜா சாவித்திரி போல் ராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-5d24b9ab)
-- 2025-11-14 | `virakesarilk-77dc14b7` | வட–கிழக்கில் போதைப்பொருள் ஒழிக்க இராணுவத்தை அகற்ற வேண்டும் – கஜேந்திரகுமார் பொன்னம்பலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-77dc14b7)
-- 2025-11-14 | `virakesarilk-89f93fe9` | 2026 வரவு–செலவுத் திட்டத்தின் இரண்டாம் வாசிப்பு வாக்கெடுப்பு இன்று மாலை 6 மணிக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-89f93fe9)
 
 ---
 

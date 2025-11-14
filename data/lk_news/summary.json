@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-14 07:14:33",
-  "n_docs": 86560,
+  "time_updated": "2025-11-14 08:17:02",
+  "n_docs": 86567,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 86560,
+  "n_docs_with_text": 86567,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-14",
-  "dataset_size": 1290507608,
+  "dataset_size": 1290651378,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-14-dailyftlk-3a4ad8c0",
-    "num": "dailyftlk-3a4ad8c0",
+    "doc_id": "2025-11-14-tamilmirrorlk-a15a11a3",
+    "num": "tamilmirrorlk-a15a11a3",
     "date_str": "2025-11-14",
-    "description": "Sajith showcases \u2018Brand Sri Lanka\u2019",
-    "url_metadata": "https://www.ft.lk/business/Sajith-showcases-Brand-Sri-Lanka/34-784321",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1763083108.0
+    "description": "\u0baa\u0bb8\u0bcd \u0ba4\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb8\u0bcd-\u0ba4\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bbf\u0ba9\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd/175-367916",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1763086698.0
   }
 }
