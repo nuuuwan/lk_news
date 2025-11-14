@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_06:03:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_06:29:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,553** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,557** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-14-dailyftlk-a2176a09",
-    "num": "dailyftlk-a2176a09",
+    "doc_id": "2025-11-14-dailyftlk-71d178d5",
+    "num": "dailyftlk-71d178d5",
     "date_str": "2025-11-14",
-    "description": "SLIC Life partners BASL to offer exclusive retirement plans for legal fraternity",
-    "url_metadata": "https://www.ft.lk/news/SLIC-Life-partners-BASL-to-offer-exclusive-retirement-plans-for-legal-fraternity/56-784311",
+    "description": "2026 Budget: A balancing act between IMF program and relief",
+    "url_metadata": "https://www.ft.lk/columns/2026-Budget-A-balancing-act-between-IMF-program-and-relief/4-784317",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763080033.0
+    "time_ut": 1763081304.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-14 | `dailyftlk-71d178d5` | 2026 Budget: A balancing act between IMF program and relief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-71d178d5)
+- 2025-11-14 | `dailyftlk-d5abb56a` | NPP’s Budget 2026: Cautious where it should be, but not bold where it could be | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-d5abb56a)
+- 2025-11-14 | `dailyftlk-d400a9b7` | Sri Lanka’s digital crossroads: Why coherent crypto framework is now policy imperative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-d400a9b7)
+- 2025-11-14 | `dailyftlk-af689dc5` | Deepfakes, disinformation, and defiance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-af689dc5)
 - 2025-11-14 | `dailyftlk-a2176a09` | SLIC Life partners BASL to offer exclusive retirement plans for legal fraternity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-a2176a09)
 - 2025-11-14 | `dailyftlk-ab965822` | President alleges State funds fuelled both Muslim, Sinhala extremism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-ab965822)
 - 2025-11-14 | `dailyftlk-f4ed59ea` | Govt. invites Pope Leo XIV to visit Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-f4ed59ea)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-14 | `virakesarilk-c82a3e39` | அரச வைத்திய அதிகாரிகள் சங்கம் எதிர்க்கட்சித் தலைவருடன் கலந்துரையாடல் ; தொழிற்சங்க நடவடிக்கைத் தொடர்பில் தீர்க்கமான தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-c82a3e39)
 - 2025-11-14 | `virakesarilk-e86709b9` | சட்டவிரோத மீன்பிடியை தடுப்பதற்காக கடற்படையினர் மேற்கொண்ட நடவடிக்கைகளில் 50 பேர் கைப்பற்றப்பட்டனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-e86709b9)
 - 2025-11-14 | `virakesarilk-edbc7ec8` | சட்டவிரோதமாக நாட்டிற்கு கொண்டு வரப்பட்ட 840 கிலோகிராம் பீடி இலைகளுடன் கெப் வண்டியொன்று கல்பிட்டியில் கடற்படையினரால் கைப்பற்றப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-edbc7ec8)
-- 2025-11-14 | `virakesarilk-24b2c7df` | குச்சவெளி பிரதேச சபை தவிசாளருக்கு விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-24b2c7df)
-- 2025-11-14 | `virakesarilk-3f3f014d` | வட்டுக்கோட்டையில் முதிரை மரக்குற்றிகள் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-3f3f014d)
-- 2025-11-14 | `virakesarilk-0bfb5863` | யாழ். கொம்மாந்துறை தோட்டக் கிணற்றில் மூழ்கி சிறுவன் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-0bfb5863)
-- 2025-11-13 | `virakesarilk-69a76fdc` | ஆனந்தபுரம் பச்சைபுல்மோட்டை மாவீரர் துயிலும் இல்லத்தில் இவ்வருடம் முதன்முறையாக இடம்பெறவுள்ள அஞ்சலி : ஆரம்பிக்கப்பட்ட  பணிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-13-virakesarilk-69a76fdc)
 
 ---
 

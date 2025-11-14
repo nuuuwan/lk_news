@@ -1,0 +1,137 @@
+Deepfakes, disinformation, and defiance
+
+How women in politics are pushing back against AI and honour-based attacks
+
+Online harassment of women is rising, amplified by AI-driven tools like deepfakes, doctored images, and synthetic audios
+
+Sri Lanka Police/CCID says online sexual harassment cases rose from 182 in 2021 to 625 in 2024, and 365 in just the first five months of 2025
+
+Support systems for women politicians exist, but gaps remain in tech knowledge, victim support, and case follow-through
+
+CCID has received and investigated only two cases of digital harassment of women politicians to date
+
+CCID says Meta responded swiftly to child exploitation cases, but cooperation in women’s online harassment cases was often slow or absent
+
+Experts claim platforms amplified misogynistic content, while algorithms worsened spread
+
+When Dumali Shashikala Dayaratne (32) first entered local politics at 24, her old social media photos, some dating back to school, were enough to unleash waves of trolling. A dress worn in her private life was twisted into evidence of being ‘indecent’ and ‘unfit for leadership’.
+
+Today, as deepfakes – synthetic media created using artificial intelligence – and doctored images flood Sri Lanka’s online spaces, these shame-based attacks have grown sharper, targeting not only women’s credibility, but their very right to participate in politics.
+
+For women leaders, every choice of clothing, lifestyle, or expression risks being weaponised, and the rise of AI has only magnified these dangers, threatening to silence voices before they can be heard.
+
+“People expect women in politics to always dress in sarees, kurtas, or in a certain way. If you wear something different, even in your private life, or live in a way that doesn’t match that expected image, they will use it against you,” said Dayaratne.
+
+“You have to be careful because… even wearing a dress or something shorter can lead to being labelled as loose, indecent, and uneducated.”
+
+This preoccupation with “virtue” is also a reflection of Sri Lanka’s wider honour culture, where a woman’s respectability is seen as tied to her family’s reputation and her suitability for leadership.
+
+In politics, this becomes a constant surveillance of women’s attire, lifestyle, sexuality, and private choices. Where respectability is treated as political capital in Sri Lanka, women’s credibility is judged hardly by their policies or performance, but by their conformity to gendered codes of behaviour. Honour becomes political currency, and any deviation is weaponised to discredit their work, achievements, and positions.
+
+It becomes more dangerous when the pressures and consequences of this surveillance leaks into their private lives. “I’m unmarried, and sometimes I fear how these constant attacks and false narratives will affect my life if I ever decide to get married,” said Dayaratne, explaining that sometimes even friends and family who came across the attacks would advise her to step back from public life.
+
+Yet her close circle remains a strong support system, she said. Beyond that, she has also grown more resilient and thick-skinned with every comment and attack. Though she is still careful to keep her private and public lives separate, she admits she is stronger now than when she first entered politics.
+
+“I’m going to keep contributing to my community, and now, I also try my best to support other women politicians, no matter the party or philosophy,” she said. Early September, she was appointed as the Sri Lanka Podujana Peramuna (SLPP) Seat Organiser for the Mirigama Electorate.
+
+Dayaratne’s situation is the reality for most Sri Lankan women in politics. Digital Safeguarding Centre Founder and Director Shiromi Samarakoon said that during a consultation with 30 women active in politics, 29 women had reported facing online harassment, ranging from hacked WhatsApp accounts and trolling to doctored images and the non-consensual circulation of personal photos.
+
+She explained that even within their own parties, women politicians faced competition-driven misogyny and targeted hate campaigns, making women’s political participation and advancement significantly harder.
+
+These gendered attacks are often intensified when they intersect with other identity categories like ethnicity and religion.
+
+Swasthika Arulingam (38), a lawyer, trade unionist, activist, and Central Committee Member of the Socialist People’s Forum, explained how her public work attracts discrimination of different forms. She has faced attacks from every side, with Sinhala nationalists calling her a “kotiya” (tiger) for commemorating Mullivaikkal – the 2009 massacre in which thousands of Tamil civilians were killed during the final stages of Sri Lanka’s civil war – while Tamil nationalists have branded her a “traitor” for critiquing the Liberation Tigers of Tamil Eelam (LTTE), and some Muslim men have subjected her to sexist commentary for supporting the rights of Muslim women.
+
+“The underlying theme in all this is that men, particularly, resorted to sexual harassment. That’s the immediate response of men across communities,” Arulingam said, noting that while women rarely engaged in such attacks, they also sometimes remained passive observers.
+
+In a society where women can be discredited for simply wearing a dress, a convincing AI-generated deepfake showing them drinking, dancing, or being intimate could erase their achievements and destroy their reputations overnight. This growing threat will only amplify the damage already caused by the country’s honour culture, where many women are driven out of politics and others are discouraged from entering. This reality is reflected in the numbers as well.
+
+Women’s representation in Sri Lanka’s parliament has seen slow progress over the past decade. In 2010, women held just 5.8% of seats (13 out of 225), and by 2020, this figure remained almost unchanged at 5.3% (12 out of 225).
+
+The Sri Lankan parliament today records its highest-ever women representation at 10% (22 out of 225), but this is still significantly low, even compared to regional and local government standards. This persistent gap underscores the systemic barriers women face, that are now added to by the growing threat of AI attacks and digital harassment.
+
+Where once the reputational smear campaigns relied on whispers and print, attacks now increasingly use AI tools and digital platforms, lingering online and reaching a wider audience.
+
+Sri Lanka Computer Emergency Readiness Team (SLCERT) has recorded a sharp rise in harassment, impersonations, and account hacks since 2022. By August 2025, there were 771 harassment cases, nearly 1,000 impersonations, and over 800 hacked accounts of women. However, a CERT representative said the data covered women in general, not specifically those in public life, and that CERT did not track AI-driven attacks, highlighting a critical data gap.
+
+A 2025 study by the Geneva-based Inter-Parliamentary Union (IPU) covering parliaments of the Asia-Pacific region, including Sri Lanka, reports that 60% of surveyed women parliamentarians had faced hate speech, disinformation, image-based abuse, or unwanted disclosure of personal data (doxing) online. This is the highest rate for this type of abuse compared to other IPU regional studies.
+
+According to the Computer Crime Investigation Division (CCID) of the Sri Lanka Police, reports of digital sexual harassment of women (politician-specific data unavailable) rose sharply from 182 in 2021 to 625 in 2024, and 365 in just the first five months of 2025. These included unsolicited sexual messages, non-consensual sharing of intimate images, blackmail, stalking, sexualised trolling, and deepfakes.
+
+Despite these numbers, the CCID has only formally investigated two digital harassment cases involving women politicians to date: MP Nilanthi Kottahachchi and Deputy Media Minister Kaushalya Ariyarathne, both targeted by defamatory, false news.
+
+In Kottahachchi’s case, police worked with Meta to identify and prosecute the perpetrator, but Ariyarathne’s case remains unresolved. The CCID representative said that Meta’s cooperation in women’s harassment was often far slower or absent compared to child exploitation cases.
+
+Defamatory posts targeting Prime Minister Harini Amarasuriya’s sexuality and personal life were simply removed, without investigation or official record, since defamation alone is not a criminal offence under Sri Lankan law.
+
+Samarakoon explained that perpetrators could also act anonymously, in groups, and from anywhere in the world, making them extremely difficult to trace.
+
+Younger women politicians often faced more shame-based campaigns designed to damage their reputations and sexualise them, Samarakoon added. “The cases that are not reported are larger than what is reported at the moment. Some people don’t reveal them at all, thinking about the damage to their character and image,” she said, highlighting how the problem remains bigger than what the numbers show.
+
+While these numbers underline a growing crisis within Sri Lanka, these attacks are not unique to the country. Globally, women leaders are undermined by gendered attacks, and they have begun to fight back.
+
+American politician and activist Alexandria Ocasio-Cortez has been repeatedly targeted with AI-generated sexually-explicit images.
+
+As a survivor of physical sexual assault, she has said in interviews that seeing such non-consensual deepfake images of herself performing sexual acts revived trauma. However, Ocasio-Cortez turned around these misogynistic attacks, helping write the DEFIANCE Act, a proposed law that would allow victims to sue creators or distributors of synthetic pornography.
+
+Information Minister of the Pakistani Province of Punjab Azma Bukhari has also spoken up about her experience finding a video that superimposed her face on another body in a sexualised context. Despite the public backlash, she too, chose to publicly address and challenge it, calling attention to laws and norms around digital abuse.
+
+While AI-driven attacks targeting women leaders have been reported and battled against worldwide, Sri Lankan women politicians who face similar threats are also fighting back on their own terms.
+
+Kanishta Michael (29), a politician and advocate for women’s leadership and gender equality, recounted her experience with one of her team members. “She was only 23… had just entered politics. She had a personal conflict with her boyfriend, and he uploaded an AI-generated sexually explicit photo of her.”
+
+The attack was “devastating”, striking at her reputation and budding political career, said Michael, who stepped in and stood by her side. Out of fear of public misperception, the young politician’s family and friends discouraged her from continuing in politics. But with Michael’s support, she was able to convince her parents to continue her political work.
+
+Michael admitted that she was not fully familiar with formal complaint mechanisms, but she did her best to navigate the system and filed a report on Facebook. However, neither Michael’s colleague nor her family pursued formal legal complaints, highlighting the hesitation among victims of such attacks to engage with the legal system.
+
+“This experience showed her that she was not alone, and it gave her the strength to continue her journey in politics despite such a serious attack,” Michael explained, adding that for herself, it was a lesson on the importance of preparedness, procedural literacy, and also building stronger protections and support for women in politics.
+
+The story of the young politician is not an isolated incident. Michael’s support of her colleague exemplifies how solidarity can help more women remain in politics despite honour-based attacks. However, civil society groups also note that while support exists, it is often more symbolic than substantial.
+
+DeleteNothing Co-Lead Mishaari Weerabangsa said, “From what we have observed, there is usually strong support from other women politicians across party lines, and some support from male politicians from the same party, but in general, it is limited to statements and denouncements.”
+
+However, there is growing evidence that real solidarity and women’s resistance is beginning to change political culture.
+
+Arulingam shared her own experience to illustrate this change. Earlier this year, Dr. Ramanathan Aruchchuna took offence to a Facebook post where she criticised the silence in parliament when he used parliamentary privilege to call a woman a “prostitute”. In retaliation, he launched a campaign of online sexual abuse against her.
+
+“The first reaction of everyone was to support me,” she said, adding, “But the moment he reminded people that I have criticised the LTTE, they were okay with sexual harassment and calling me various names online.”
+
+A group of women activists came together, publicly defended her, mobilised online, and even pressured the government to address the issue in parliament. “They thought they couldn’t remain silent on it because it’s not only about me, it’s also about how women are approached,” she said.
+
+The support from women and allies resulted in parliament also taking up this issue, showing a rare institutional response in Sri Lanka’s political space and culture.
+
+Arulingam acknowledged that her own position as a lawyer and activist from a middle-class background had benefited her to an extent, but she sees such resistance beginning to slowly reshape political spaces: under the current government, when a female MP is harassed in parliament, others now speak up in her defence.
+
+Women have begun to challenge the long-entrenched idea that sexist and sexual insults can pass without consequences. “It’s a narrow space, but it’s still creating a different kind of culture,” she said, adding that women’s voices and solidarity movements that hold institutions accountable, not only protects individuals, but also shifts public spaces for women and encourages more women to step into politics.
+
+Yet, solidarity and personal resilience alone, while crucial, cannot make politics safer for women. Weerabangsa added that by speaking openly about their experiences and pushing for more effective remedies, women politicians could strengthen protections for themselves and ordinary citizens facing similar harassment as well.
+
+The 2025 study by the Inter-Parliamentary Union study underscored the urgent need for institutional reform, recommending that parliaments, too, adopt clear laws against cyber harassment, establish accessible reporting and investigation mechanisms, hold platforms accountable, and provide tools to protect women in politics.
+
+These recommendations make one thing clear: Sri Lanka’s political space requires significant systemic change, raising questions on how prepared Sri Lanka is for the future of politics in the digital age.
+
+Senior researcher and Groundviews Founding Editor Dr. Sanjana Hattotuwa observed that AI has intensified the hostility women face on social media.
+
+“In my research, which spans well over a decade, women have been confronted with exponentially more misogynist and dehumanising content than men, content that is essentially a rape culture,” he explained, adding that, “AI has made it easier to produce this violative content at scale, and with increased sophistication.”
+
+Hattotuwa added that tools to create manipulated photos, deepfakes, and synthetic voice or videos targeting women are now easily accessible, noting that what once demanded advanced skills or expensive software can now be done quickly and looks highly realistic as well.
+
+He pointed out that platforms have weakened their enforcement in recent years, with algorithms even amplifying such violative content. “Particularly in US President (Donald) Trump’s second term, what we have seen is a worsening of both the pace of production and the speed of the spread. Platforms are no longer interested in managing violative content to the extent they once did, and meaningfully enforcing community guidelines.”
+
+Hattotuwa warned that these developments threaten electoral integrity, noting that Sri Lanka’s Elections Commission has shown no preparedness for the challenges that AI-driven disinformation would bring. His research during the 2024 presidential and general elections revealed that the Commission not only failed to detect the scale of threats to electoral integrity, but sometimes even worsened it through its own policies and ignorance.
+
+Despite these challenges, existing laws and enforcement mechanisms remain inadequate. Deputy Commissioner, Gender Focal Point, Election Commission Samantha Jayasinghe acknowledged that while synthetic and AI-generated content poses a threat during elections, the Commission can currently only refer cases to the police.
+
+Jayasinghe noted that media guidelines remain the only framework available, and no existing laws addressed AI or deepfakes. He said that an app to report harmful content existed, active only during elections. But, “they’re not laws, and we have to have laws,” he said, adding that the Commission is in discussions to introduce stronger laws in the future.
+
+In a 2025 statement, the Human Rights Commission of Sri Lanka (HRCSL) also condemned the alarming number of incidents targeting women on social media, emphasising how “this trend of targeting women, including those in the public sphere, threatens their safety, dignity, and rights to privacy and equality”.
+
+Sri Lanka is a party to the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW), which obliges the state to protect women from all forms of violence, including online harassment, and laws such as the Section 345 of the Penal Code and Women Empowerment (Act 37, 2024) aim to strengthen protection and support for women, including against digital abuse. However, gendered online attacks are evidently on the rise, while very few cases have been formally investigated.
+
+Senior feminist activist and Women and Media Collective Joint Coordinator Kumudini Samuel said that the online harassment of women politicians reflects a “deep seated fear of competent, strong and efficient women assuming power and displacing men from entrenched privilege.”
+
+She noted that while the state bears the ultimate responsibility of preventing and prosecuting such gendered violence, a broader shift towards a democratic political culture that accepts women’s equal right to participate is also vital.  Globally, only a few countries, like Denmark, have attempted to combat AI deepfakes by giving citizens copyright over their face, voice, and physical likeness.
+
+For Sri Lanka, with its distinct culture, this global moment is both a warning and an opportunity. Michael’s and Arulingam’s stories highlight how even in the absence of strong systems, women politicians are finding resilience and solidarity to fight these attacks. Yet, without stronger laws, digital literacy, and institutional backing, the emerging threat of AI-driven disinformation and shaming will continue to silence women before they even step into politics.
+
+However, unless underlying “honour”-based norms and political power structures are challenged, legal reforms alone will fall short. Protecting women in public roles, therefore, demands not just stronger legal frameworks, but also cultural awareness, social change, and community support.
