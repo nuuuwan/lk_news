@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-14 23:48:40",
-  "n_docs": 86699,
+  "time_updated": "2025-11-15 00:22:39",
+  "n_docs": 86708,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 86699,
+  "n_docs_with_text": 86708,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2025-11-14",
-  "dataset_size": 1293090444,
+  "date_str_max": "2025-11-15",
+  "dataset_size": 1293147363,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-14-lankadeepalk-e3ef5c1b",
-    "num": "lankadeepalk-e3ef5c1b",
-    "date_str": "2025-11-14",
-    "description": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba \u0d9a\u0da9\u0dd4\u0dbd\u0dd4 8 \u0d9a\u0dd2\u0db1\u0dca \u0da2\u0dba \u0dbd\u0db6\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0d9a\u0dc3\u0dad\u0db1\u0dba-\u0d9a\u0da9\u0dbd-8-\u0d9a\u0db1-\u0da2\u0dba-\u0dbd\u0db6\u0dba/101-683176",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1763143927.0
+    "doc_id": "2025-11-15-dailyftlk-2b81dc91",
+    "num": "dailyftlk-2b81dc91",
+    "date_str": "2025-11-15",
+    "description": "Opposition petitions Govt. to withdraw Praja Shakthi circular, cites political motives",
+    "url_metadata": "https://www.ft.lk/news/Opposition-petitions-Govt-to-withdraw-Praja-Shakthi-circular-cites-political-motives/56-784366",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1763145933.0
   }
 }

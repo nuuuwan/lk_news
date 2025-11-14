@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_23:49:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--15_00:23:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,699** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,708** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-14-lankadeepalk-e3ef5c1b",
-    "num": "lankadeepalk-e3ef5c1b",
-    "date_str": "2025-11-14",
-    "description": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba \u0d9a\u0da9\u0dd4\u0dbd\u0dd4 8 \u0d9a\u0dd2\u0db1\u0dca \u0da2\u0dba \u0dbd\u0db6\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0d9a\u0dc3\u0dad\u0db1\u0dba-\u0d9a\u0da9\u0dbd-8-\u0d9a\u0db1-\u0da2\u0dba-\u0dbd\u0db6\u0dba/101-683176",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1763143927.0
+    "doc_id": "2025-11-15-dailyftlk-2b81dc91",
+    "num": "dailyftlk-2b81dc91",
+    "date_str": "2025-11-15",
+    "description": "Opposition petitions Govt. to withdraw Praja Shakthi circular, cites political motives",
+    "url_metadata": "https://www.ft.lk/news/Opposition-petitions-Govt-to-withdraw-Praja-Shakthi-circular-cites-political-motives/56-784366",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1763145933.0
 }
 ```
 
@@ -41,7 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-15 | `dailyftlk-2b81dc91` | Opposition petitions Govt. to withdraw Praja Shakthi circular, cites political motives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-dailyftlk-2b81dc91)
+- 2025-11-15 | `dailyftlk-abd0f0a5` | Interim report on public service salary structure to enhance professionalism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-dailyftlk-abd0f0a5)
+- 2025-11-15 | `dailyftlk-c804d1a7` | Commercial Bank launches ‘ComBank Shakthi’ to extend reach to customers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-dailyftlk-c804d1a7)
+- 2025-11-15 | `dailyftlk-67e10070` | Cabinet approves five-year strategic plan to strengthen Vidatha program countrywide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-dailyftlk-67e10070)
+- 2025-11-15 | `dailyftlk-59029c23` | Ananda Walpita joins Lee Hedges Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-dailyftlk-59029c23)
 - 2025-11-14 | `lankadeepalk-e3ef5c1b` | පාකිස්තානය කඩුලු 8 කින් ජය ලබයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-e3ef5c1b)
+- 2025-11-14 | `dailyftlk-ad8f2290` | New York goes Left | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-ad8f2290)
+- 2025-11-14 | `dailyftlk-5625103c` | China’s poverty reduction story: A magnificent chapter in global development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-5625103c)
+- 2025-11-14 | `dailyftlk-5b50aec6` | US policies driving India-China closer, create new avenues for developing nations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-5b50aec6)
+- 2025-11-14 | `dailyftlk-f9f4702e` | The shifting landscape of global extremism: From retreat to reinvention | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-dailyftlk-f9f4702e)
 - 2025-11-14 | `virakesarilk-a600ce76` | மட்டக்களப்பு வைத்தியசாலையில் கைபேசிகள் திருடிய இளைஞன் உட்பட இருவர் கைது ; 18 கைபேசிகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-a600ce76)
 - 2025-11-14 | `lankadeepalk-ba3ab96b` | අකර්මණ්‍ය වූ ඇමෙරිකානු රජයට නැවත පණ දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-ba3ab96b)
 - 2025-11-14 | `lankadeepalk-5ea66ae6` | පලනි ජීවන් මනෝ රාදක්‍රිෂ්ණන් අයවැයට පක්ෂව ඡන්දය දෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-5ea66ae6)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2025-11-14 | `tamilmirrorlk-70d3ccfa` | ஐ.தே.க முடிவு வெளியானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-tamilmirrorlk-70d3ccfa)
 - 2025-11-14 | `tamilmirrorlk-cf4b00bb` | வரவு செலவுத் திட்டம் மேலதிக வாக்குகளால் வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-tamilmirrorlk-cf4b00bb)
 - 2025-11-14 | `lankadeepalk-e68ec2a8` | අයවැය දෙවැනි වර කියවීම වැඩි ඡන්දයෙන් සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-e68ec2a8)
-- 2025-11-14 | `virakesarilk-2bf323a4` | இலங்கை - ஓமான் பாராளுமன்ற நட்புறவுச் சங்கத்தின் தலைவராக அமைச்சர் வசந்த சமரசிங்க தெரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-2bf323a4)
-- 2025-11-14 | `virakesarilk-0e4afbcd` | பும்ராவின் 5 விக்கெட் குவியலின் பலனாக தென் ஆபிரிக்காவை 159 ஓட்டங்களுக்கு சுருட்டியது இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-0e4afbcd)
-- 2025-11-14 | `virakesarilk-dcfac942` | இறால் தொழிற்துறை தகவல் அமைப்பு - SIIS : இலங்கையின் முதல் ஸ்மார்ட், நிலையான நீரியல் வளர்ப்பு டிஜிட்டல் தளம் அறிமுகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-dcfac942)
-- 2025-11-14 | `virakesarilk-f86cb970` | மேலதிகமாக வேலை செய்வதற்கு ரூ. 200 போதுமானது அல்ல, இது நியாயமுமல்ல! - செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-f86cb970)
-- 2025-11-14 | `virakesarilk-1e293e76` | மக்கள் செல்வன்' விஜய் சேதுபதி வெளியிட்ட கீர்த்தி சுரேசின் ' ரிவால்வர் ரீட்டா' பட முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-1e293e76)
-- 2025-11-14 | `virakesarilk-066662b6` | சீனாவில் 1,500 ஆண்டுகள் பழமையான யோங்கிங் கோயிலில் தீ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-066662b6)
-- 2025-11-14 | `virakesarilk-af46d5cc` | ஆக்ஷன் கிங்' அர்ஜுன் - ஐஸ்வர்யா ராஜேஷ் இணைந்திருக்கும் 'தீயவர் குலை நடுங்க' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-af46d5cc)
-- 2025-11-14 | `virakesarilk-e3a4e23a` | காந்தா- திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-e3a4e23a)
-- 2025-11-14 | `virakesarilk-b5980035` | மெட்ராஸ் மாஃபியா கம்பனி - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-b5980035)
 
 ---
 
