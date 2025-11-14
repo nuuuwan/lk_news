@@ -1,4 +1,5 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-11-14-lankadeepalk-a61e7cd1	lankadeepalk-a61e7cd1	2025-11-14	සංජීව ධර්මරත්න වැඩබලන පොලිස්පති ධුරයට	https://www.lankadeepa.lk/news/සජව-ධරමරතන-වඩබලන-පලසපත-ධරයට/101-683114	si	lankadeepalk	1763093457.0
 lk_news	2025-11-14-virakesarilk-aafa1377	virakesarilk-aafa1377	2025-11-14	கொழும்பு - கண்டி வீதியில் மோட்டார் சைக்கிள் ஓட்டுநரை மோதி தப்பிச்சென்ற வாகனம் - பொலிஸார்  விசாரணை!	https://www.virakesari.lk/article/230309	ta	virakesarilk	1763090400.0
 lk_news	2025-11-14-virakesarilk-9cc0ccca	virakesarilk-9cc0ccca	2025-11-14	குளியாப்பிட்டிய - வீரகம பகுதியில் போதைப்பொருட்களுடன் ஒருவர் கைது	https://www.virakesari.lk/article/230307	ta	virakesarilk	1763090340.0
 lk_news	2025-11-14-virakesarilk-29e1005c	virakesarilk-29e1005c	2025-11-14	கொட்டாஞ்சேனை துப்பாக்கிச் சூடு : சந்தேகநபர்கள் இருவர் கைது	https://www.virakesari.lk/article/230306	ta	virakesarilk	1763090280.0
@@ -13,6 +14,7 @@ lk_news	2025-11-14-dailyftlk-da5a4c33	dailyftlk-da5a4c33	2025-11-14	Indo–Lanka
 lk_news	2025-11-14-dailyftlk-5a0bfbe7	dailyftlk-5a0bfbe7	2025-11-14	ICC Sri Lanka signs National Committee Partnership Agreement with ICC Academy in Singapore	https://www.ft.lk/business/ICC-Sri-Lanka-signs-National-Committee-Partnership-Agreement-with-ICC-Academy-in-Singapore/34-784324	en	dailyftlk	1763085380.0
 lk_news	2025-11-14-dailyftlk-3a4ad8c0	dailyftlk-3a4ad8c0	2025-11-14	Sajith showcases ‘Brand Sri Lanka’	https://www.ft.lk/business/Sajith-showcases-Brand-Sri-Lanka/34-784321	en	dailyftlk	1763083108.0
 lk_news	2025-11-14-dailyftlk-706b541d	dailyftlk-706b541d	2025-11-14	Why insurance industry must step out of the box	https://www.ft.lk/columns/Why-insurance-industry-must-step-out-of-the-box/4-784320	en	dailyftlk	1763082947.0
+lk_news	2025-11-14-adalk-9246e425	adalk-9246e425	2025-11-14	වාහන බදු වලින් අපේක්ෂා කළාට වඩා රු.බි. 100ක වැඩි බදු ආදායමක්	https://www.ada.lk/breaking_news/වාහන-බදු-වලින්-අපේක්ෂා-කළාට-වඩා-රු-බි--100ක-වැඩි-බදු-ආදායමක්/11-419683	si	adalk	1763082494.0
 lk_news	2025-11-14-adalk-d0741e5d	adalk-d0741e5d	2025-11-14	මත්ද්‍රව්‍ය ජාවාරම්කරුගේ බිරිඳගේ  දේපළ ක්‍රියාවිරහිත කරයි	https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ජාවාරම්කරුගේ-බිරිඳගේ--දේපළ-ක්‍රියාවිරහිත-කරයි/11-419681	si	adalk	1763081842.0
 lk_news	2025-11-14-dailyftlk-e675e58f	dailyftlk-e675e58f	2025-11-14	Budget 2026: Reform with fairness — A vision for stability, trust, and growth	https://www.ft.lk/columns/Budget-2026-Reform-with-fairness-A-vision-for-stability-trust-and-growth/4-784318	en	dailyftlk	1763081710.0
 lk_news	2025-11-14-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-11-14	இன்றைய வானிலை	https://www.virakesari.lk/article/230305	ta	virakesarilk	1763081520.0
@@ -97,5 +99,3 @@ lk_news	2025-11-13-lankadeepalk-7d8f755c	lankadeepalk-7d8f755c	2025-11-13	නව
 lk_news	2025-11-13-adalk-ed716e6a	adalk-ed716e6a	2025-11-13	ලංකාවෙන් දෙබිඩි දරු උපතක් වාර්තා වෙයි	https://www.ada.lk/breaking_news/ලංකාවෙන්-දෙබිඩි-දරු-උපතක්-වාර්තා-වෙයි/11-419678	si	adalk	1763029618.0
 lk_news	2025-11-13-virakesarilk-efc0035b	virakesarilk-efc0035b	2025-11-13	வடக்கு மற்றும் கிழக்கில் உள்ள மாவீரர் துயிலும் இல்லங்களை மக்களிடம் கையளிக்க வேண்டுகோள்	https://www.virakesari.lk/article/230255	ta	virakesarilk	1763029200.0
 lk_news	2025-11-13-lankadeepalk-6bfa39fa	lankadeepalk-6bfa39fa	2025-11-13	අස්සජී හිමියෝ දරුවන්ට තෑගිත් අරන් මීගහජදුරට වඩිති	https://www.lankadeepa.lk/news/අසසජ-හමය-දරවනට-තගත-අරන-මගහජදරට-වඩත/101-683100	si	lankadeepalk	1763029003.0
-lk_news	2025-11-13-lankadeepalk-1b616f2c	lankadeepalk-1b616f2c	2025-11-13	ආණ්ඩුව දෙන සහන වලට බාල්දි දාන්න එපා	https://www.lankadeepa.lk/news/ආණඩව-දන-සහන-වලට-බලද-දනන-එප/101-683099	si	lankadeepalk	1763028750.0
-lk_news	2025-11-13-virakesarilk-680bf676	virakesarilk-680bf676	2025-11-13	நாட்டில் ஐந்து பேரில் ஒருவருக்கு நீரிழிவு நோய் - சுகாதார அதிகாரிகள் எச்சரிக்கை	https://www.virakesari.lk/article/230254	ta	virakesarilk	1763028660.0
