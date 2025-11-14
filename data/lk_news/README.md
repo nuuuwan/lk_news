@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_19:22:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_19:47:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,662** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,686** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-14-tamilmirrorlk-70d3ccfa",
-    "num": "tamilmirrorlk-70d3ccfa",
+    "doc_id": "2025-11-14-virakesarilk-b4306909",
+    "num": "virakesarilk-b4306909",
     "date_str": "2025-11-14",
-    "description": "\u0b90.\u0ba4\u0bc7.\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0ba4\u0bc7-\u0b95-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9\u0ba4\u0bc1/175-367923",
+    "description": "\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 2\u0b86\u0bb5\u0ba4\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b92\u0bb0\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 288 - 8 \u0bb5\u0bbf\u0b95\u0bcd.",
+    "url_metadata": "https://www.virakesari.lk/article/230387",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1763127479.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1763128620.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-14 | `virakesarilk-b4306909` | பாகிஸ்தானுடனான 2ஆவது சர்வதேச ஒருநாள் போட்டியில் இலங்கை 288 - 8 விக். | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-b4306909)
+- 2025-11-14 | `virakesarilk-7930165a` | 2026 வரவு–செலவுத் திட்ட இரண்டாம் வாசிப்பு - 118 மேலதிக வாக்குகளால் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-7930165a)
 - 2025-11-14 | `tamilmirrorlk-70d3ccfa` | ஐ.தே.க முடிவு வெளியானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-tamilmirrorlk-70d3ccfa)
 - 2025-11-14 | `tamilmirrorlk-cf4b00bb` | வரவு செலவுத் திட்டம் மேலதிக வாக்குகளால் வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-tamilmirrorlk-cf4b00bb)
 - 2025-11-14 | `lankadeepalk-e68ec2a8` | අයවැය දෙවැනි වර කියවීම වැඩි ඡන්දයෙන් සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-e68ec2a8)
-- 2025-11-14 | `tamilmirrorlk-fa063ea3` | இஸ்ரேலில் இலங்கையர் ஒருவர் கொடூரமாக கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-tamilmirrorlk-fa063ea3)
-- 2025-11-14 | `lankadeepalk-a4d9b37f` | පාකිස්තානය පන්දු යැවීම තෝරාගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-a4d9b37f)
-- 2025-11-14 | `virakesarilk-6d3075df` | இரண்டாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் இலங்கை முதலில் துடுப்பெடுத்தாடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-6d3075df)
-- 2025-11-14 | `lankadeepalk-841f5979` | ටිල්වින්- බ්‍රිතාන්‍ය මහ කොමසාරිස් හමුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-841f5979)
-- 2025-11-14 | `lankadeepalk-39c65a40` | හඳුන්නෙත්තිට දුඹුරු සීනි පියා නාමය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-39c65a40)
-- 2025-11-14 | `lankadeepalk-6d325930` | ජනපති -දෙමළ මන්ත්‍රී හමුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-6d325930)
-- 2025-11-14 | `lankadeepalk-1830cb77` | බීමත්ව රාජකාරි කළ දුම්රිය  වෘත්තීය සමිති නායකයා මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-1830cb77)
-- 2025-11-14 | `adalk-f62ff3f0` | අංක තහඩු නොමැති අධි බලැති යතුරුපැදි හතරක් සොයා ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-adalk-f62ff3f0)
-- 2025-11-14 | `virakesarilk-79f6afdf` | புதிய தேர்தல்கள் ஆணையாளர் நாயகம் கடமைகளைப் பொறுப்பேற்றார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-79f6afdf)
-- 2025-11-14 | `virakesarilk-8e0c5f22` | மதுபோதையில் கடமையில் ஈடுபட்டிருந்த ரயில் கடவை பாதுகாப்பு ஊழியர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-8e0c5f22)
-- 2025-11-14 | `adalk-b5e8964e` | ප්‍රසම්පාදනයකින් තොරව රියදුරු බලපත්‍ර මුද්‍රණය තනි සමාගමකට දීමෙන් රු. කෝටි 13ක පාඩුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-adalk-b5e8964e)
-- 2025-11-14 | `lankadeepalk-fc121876` | වරායෙන් පිට කරපු කන්ටේනර්වල  තිබ්බේ ආයුධ: අර්චුනා නැවත කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-fc121876)
-- 2025-11-14 | `adalk-6637529a` | සුවසැරිය ගිලන් රථ බල ඇණිය 500ක් දක්වා වැඩි කිරීමට යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-adalk-6637529a)
-- 2025-11-14 | `virakesarilk-0f4064c3` | பெருந்தோட்டத் தொழிலாளர்களை சிறு தேயிலைத் தோட்ட உரிமையாளர்களாக மாற்ற அரசு திட்டமொன்றை முன்னெடுக்கவேண்டும் - சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-0f4064c3)
-- 2025-11-14 | `lankadeepalk-319e453c` | උඩුදුම්බර පිහි ඇනුමකින් 7 ක් තුවාල | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-319e453c)
-- 2025-11-14 | `virakesarilk-725ae7b9` | சடலத்தை அடையாளம் காண பொதுமக்களின் உதவி கோரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-725ae7b9)
-- 2025-11-14 | `virakesarilk-3a280a64` | இந்தியா - கர்நாடகாவில் பெண் பணியாளர்களுக்கு மாதவிடாய் காலத்தில் விடுமுறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-3a280a64)
+- 2025-11-14 | `virakesarilk-2bf323a4` | இலங்கை - ஓமான் பாராளுமன்ற நட்புறவுச் சங்கத்தின் தலைவராக அமைச்சர் வசந்த சமரசிங்க தெரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-2bf323a4)
+- 2025-11-14 | `virakesarilk-0e4afbcd` | பும்ராவின் 5 விக்கெட் குவியலின் பலனாக தென் ஆபிரிக்காவை 159 ஓட்டங்களுக்கு சுருட்டியது இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-0e4afbcd)
+- 2025-11-14 | `virakesarilk-dcfac942` | இறால் தொழிற்துறை தகவல் அமைப்பு - SIIS : இலங்கையின் முதல் ஸ்மார்ட், நிலையான நீரியல் வளர்ப்பு டிஜிட்டல் தளம் அறிமுகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-dcfac942)
+- 2025-11-14 | `virakesarilk-f86cb970` | மேலதிகமாக வேலை செய்வதற்கு ரூ. 200 போதுமானது அல்ல, இது நியாயமுமல்ல! - செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-f86cb970)
+- 2025-11-14 | `virakesarilk-1e293e76` | மக்கள் செல்வன்' விஜய் சேதுபதி வெளியிட்ட கீர்த்தி சுரேசின் ' ரிவால்வர் ரீட்டா' பட முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-1e293e76)
+- 2025-11-14 | `virakesarilk-066662b6` | சீனாவில் 1,500 ஆண்டுகள் பழமையான யோங்கிங் கோயிலில் தீ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-066662b6)
+- 2025-11-14 | `virakesarilk-af46d5cc` | ஆக்ஷன் கிங்' அர்ஜுன் - ஐஸ்வர்யா ராஜேஷ் இணைந்திருக்கும் 'தீயவர் குலை நடுங்க' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-af46d5cc)
+- 2025-11-14 | `virakesarilk-e3a4e23a` | காந்தா- திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-e3a4e23a)
+- 2025-11-14 | `virakesarilk-b5980035` | மெட்ராஸ் மாஃபியா கம்பனி - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-b5980035)
+- 2025-11-14 | `virakesarilk-fb2d6955` | பிரித்தானியாவுக்கு விஜயம் செய்கிறார் ரில்வின் சில்வா ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-fb2d6955)
+- 2025-11-14 | `virakesarilk-b146fcca` | பாதுகாப்பு ஒத்துழைப்பினை முறைப்படுத்தும் அமெரிக்காவும் இலங்கையும்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-b146fcca)
+- 2025-11-14 | `virakesarilk-b442c7cd` | போதைப்பொருளுடன் கைது செய்யப்பட்ட அதிபர் தொடர்பில் இலங்கை தொழிற்சார் அதிபர்கள் சங்கம் அறிக்கை வெளியீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-b442c7cd)
+- 2025-11-14 | `virakesarilk-cee1276b` | வடக்கு மாகாணத்தில் நூலக சேவைகள் பணியகம் உருவாக்க நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-cee1276b)
+- 2025-11-14 | `virakesarilk-7846e22f` | பெருந்தோட்ட தொழிலாளர் சம்பள உயர்வைத் தடுக்க எதிர்க்கட்சியின் முயற்சியை கடுமையாக கண்டிப்பதாக பாரத் அருள்சாமி தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-7846e22f)
+- 2025-11-14 | `virakesarilk-30f475ad` | இயலாமையுள்ள நபர்களுக்கான சேவைகளை  மேம்படுத்துவதும் நிகழ்ச்சித் திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-30f475ad)
 
 ---
 
