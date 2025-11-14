@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_16:20:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_16:47:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,654** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,655** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -51,6 +51,7 @@ A collection of lk_news documents.
 - 2025-11-14 | `virakesarilk-79f6afdf` | புதிய தேர்தல்கள் ஆணையாளர் நாயகம் கடமைகளைப் பொறுப்பேற்றார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-79f6afdf)
 - 2025-11-14 | `virakesarilk-8e0c5f22` | மதுபோதையில் கடமையில் ஈடுபட்டிருந்த ரயில் கடவை பாதுகாப்பு ஊழியர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-8e0c5f22)
 - 2025-11-14 | `lankadeepalk-fc121876` | වරායෙන් පිට කරපු කන්ටේනර්වල  තිබ්බේ ආයුධ: අර්චුනා නැවත කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-fc121876)
+- 2025-11-14 | `adalk-6637529a` | සුවසැරිය ගිලන් රථ බල ඇණිය 500ක් දක්වා වැඩි කිරීමට යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-adalk-6637529a)
 - 2025-11-14 | `virakesarilk-0f4064c3` | பெருந்தோட்டத் தொழிலாளர்களை சிறு தேயிலைத் தோட்ட உரிமையாளர்களாக மாற்ற அரசு திட்டமொன்றை முன்னெடுக்கவேண்டும் - சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-0f4064c3)
 - 2025-11-14 | `lankadeepalk-319e453c` | උඩුදුම්බර පිහි ඇනුමකින් 7 ක් තුවාල | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-319e453c)
 - 2025-11-14 | `virakesarilk-725ae7b9` | சடலத்தை அடையாளம் காண பொதுமக்களின் உதவி கோரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-725ae7b9)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-14 | `lankadeepalk-1acbdd7b` | හල්ඔළුවට එරෙහි වරෙන්තුව ආපසු කැඳවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-1acbdd7b)
 - 2025-11-14 | `adalk-b4a60dbc` | 2025 මුල් මාස අටේ රාජ්‍ය ආයෝජන වියදම රු.බි. 338 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-adalk-b4a60dbc)
 - 2025-11-14 | `lankadeepalk-fb361700` | පොලිස් චක්‍රලේඛය ගැන ඇමති කතා කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-fb361700)
-- 2025-11-14 | `virakesarilk-b68ea761` | 15வது நாளாக தொடரும் ரஜரட்ட பல்கலைக்கழக விரிவுரையாளர்களின் வேலைநிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-b68ea761)
 
 ---
 
