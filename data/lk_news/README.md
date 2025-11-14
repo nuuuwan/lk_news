@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_18:28:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_18:55:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,657** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,659** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,7 @@ A collection of lk_news documents.
 - 2025-11-14 | `lankadeepalk-39c65a40` | හඳුන්නෙත්තිට දුඹුරු සීනි පියා නාමය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-39c65a40)
 - 2025-11-14 | `lankadeepalk-6d325930` | ජනපති -දෙමළ මන්ත්‍රී හමුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-6d325930)
 - 2025-11-14 | `lankadeepalk-1830cb77` | බීමත්ව රාජකාරි කළ දුම්රිය  වෘත්තීය සමිති නායකයා මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-1830cb77)
+- 2025-11-14 | `adalk-f62ff3f0` | අංක තහඩු නොමැති අධි බලැති යතුරුපැදි හතරක් සොයා ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-adalk-f62ff3f0)
 - 2025-11-14 | `virakesarilk-79f6afdf` | புதிய தேர்தல்கள் ஆணையாளர் நாயகம் கடமைகளைப் பொறுப்பேற்றார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-79f6afdf)
 - 2025-11-14 | `virakesarilk-8e0c5f22` | மதுபோதையில் கடமையில் ஈடுபட்டிருந்த ரயில் கடவை பாதுகாப்பு ஊழியர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-8e0c5f22)
 - 2025-11-14 | `adalk-b5e8964e` | ප්‍රසම්පාදනයකින් තොරව රියදුරු බලපත්‍ර මුද්‍රණය තනි සමාගමකට දීමෙන් රු. කෝටි 13ක පාඩුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-adalk-b5e8964e)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-14 | `virakesarilk-5faa6756` | குழப்பகரமான சூழ்நிலைக்கு பின்னர் இலங்கை - பாகிஸ்தான் அணிகள் இன்று மீண்டும் களத்தில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-5faa6756)
 - 2025-11-14 | `adalk-fbbbcca6` | බී.බී.සී. ට්‍රම්ප්ගෙන් සමාව ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-adalk-fbbbcca6)
 - 2025-11-14 | `lankadeepalk-1acbdd7b` | හල්ඔළුවට එරෙහි වරෙන්තුව ආපසු කැඳවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-1acbdd7b)
-- 2025-11-14 | `adalk-b4a60dbc` | 2025 මුල් මාස අටේ රාජ්‍ය ආයෝජන වියදම රු.බි. 338 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-adalk-b4a60dbc)
 
 ---
 
