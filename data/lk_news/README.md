@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_21:47:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--14_22:23:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,686** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,693** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-14-virakesarilk-b4306909",
-    "num": "virakesarilk-b4306909",
+    "doc_id": "2025-11-14-virakesarilk-98f64eed",
+    "num": "virakesarilk-98f64eed",
     "date_str": "2025-11-14",
-    "description": "\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 2\u0b86\u0bb5\u0ba4\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b92\u0bb0\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 288 - 8 \u0bb5\u0bbf\u0b95\u0bcd.",
-    "url_metadata": "https://www.virakesari.lk/article/230387",
+    "description": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0ba9\u0bc8\u0baf\u0bbe\u0ba9\u0ba4\u0bc1; \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/230388",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1763128620.0
+    "time_ut": 1763130600.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-14 | `virakesarilk-98f64eed` | யாழில் விளையாட்டு வினையானது; குடும்பஸ்தர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-98f64eed)
 - 2025-11-14 | `virakesarilk-b4306909` | பாகிஸ்தானுடனான 2ஆவது சர்வதேச ஒருநாள் போட்டியில் இலங்கை 288 - 8 விக். | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-b4306909)
 - 2025-11-14 | `virakesarilk-7930165a` | 2026 வரவு–செலவுத் திட்ட இரண்டாம் வாசிப்பு - 118 மேலதிக வாக்குகளால் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-7930165a)
 - 2025-11-14 | `tamilmirrorlk-70d3ccfa` | ஐ.தே.க முடிவு வெளியானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-tamilmirrorlk-70d3ccfa)
@@ -57,10 +58,9 @@ A collection of lk_news documents.
 - 2025-11-14 | `virakesarilk-b5980035` | மெட்ராஸ் மாஃபியா கம்பனி - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-b5980035)
 - 2025-11-14 | `virakesarilk-fb2d6955` | பிரித்தானியாவுக்கு விஜயம் செய்கிறார் ரில்வின் சில்வா ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-fb2d6955)
 - 2025-11-14 | `virakesarilk-b146fcca` | பாதுகாப்பு ஒத்துழைப்பினை முறைப்படுத்தும் அமெரிக்காவும் இலங்கையும்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-b146fcca)
+- 2025-11-14 | `virakesarilk-a1cb1b4f` | ஜனாதிபதியின் போதைப்பொருள்  ஒழிப்பு செயற்றிட்டத்தக்கு ஆதரவு  ஹிஸ்புல்லாஹ் எம்.பி சபையில் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-a1cb1b4f)
 - 2025-11-14 | `virakesarilk-b442c7cd` | போதைப்பொருளுடன் கைது செய்யப்பட்ட அதிபர் தொடர்பில் இலங்கை தொழிற்சார் அதிபர்கள் சங்கம் அறிக்கை வெளியீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-b442c7cd)
-- 2025-11-14 | `virakesarilk-cee1276b` | வடக்கு மாகாணத்தில் நூலக சேவைகள் பணியகம் உருவாக்க நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-cee1276b)
-- 2025-11-14 | `virakesarilk-7846e22f` | பெருந்தோட்ட தொழிலாளர் சம்பள உயர்வைத் தடுக்க எதிர்க்கட்சியின் முயற்சியை கடுமையாக கண்டிப்பதாக பாரத் அருள்சாமி தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-7846e22f)
-- 2025-11-14 | `virakesarilk-30f475ad` | இயலாமையுள்ள நபர்களுக்கான சேவைகளை  மேம்படுத்துவதும் நிகழ்ச்சித் திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-30f475ad)
+- 2025-11-14 | `virakesarilk-381ddedf` | பெருந்தோட்ட மக்களுக்கு 200 ரூபா சம்பளத்தை வழங்குவதை எதிர்க்கும் அரசியல் குழுக்கள் – ஆனந்த விஜேபால | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-virakesarilk-381ddedf)
 
 ---
 
