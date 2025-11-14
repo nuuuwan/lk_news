@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-15 02:45:50",
-  "n_docs": 86709,
+  "time_updated": "2025-11-15 03:15:33",
+  "n_docs": 86711,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 86709,
+  "n_docs_with_text": 86711,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-15",
-  "dataset_size": 1293288742,
+  "dataset_size": 1293300255,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-15-dailyftlk-2b81dc91",
-    "num": "dailyftlk-2b81dc91",
+    "doc_id": "2025-11-15-virakesarilk-8bb6e3ff",
+    "num": "virakesarilk-8bb6e3ff",
     "date_str": "2025-11-15",
-    "description": "Opposition petitions Govt. to withdraw Praja Shakthi circular, cites political motives",
-    "url_metadata": "https://www.ft.lk/news/Opposition-petitions-Govt-to-withdraw-Praja-Shakthi-circular-cites-political-motives/56-784366",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1763145933.0
+    "description": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b95\u0b9e\u0bcd\u0b9a\u0bbe \u0b95\u0bb2\u0ba8\u0bcd\u0ba4 \u0bae\u0bbe\u0bb5\u0bbe \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc8 \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/230391",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1763154300.0
   }
 }
