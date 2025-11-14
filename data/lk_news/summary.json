@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-14 06:29:29",
-  "n_docs": 86557,
+  "time_updated": "2025-11-14 07:14:33",
+  "n_docs": 86560,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 86557,
+  "n_docs_with_text": 86560,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-14",
-  "dataset_size": 1290376917,
+  "dataset_size": 1290507608,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-14-dailyftlk-71d178d5",
-    "num": "dailyftlk-71d178d5",
+    "doc_id": "2025-11-14-dailyftlk-3a4ad8c0",
+    "num": "dailyftlk-3a4ad8c0",
     "date_str": "2025-11-14",
-    "description": "2026 Budget: A balancing act between IMF program and relief",
-    "url_metadata": "https://www.ft.lk/columns/2026-Budget-A-balancing-act-between-IMF-program-and-relief/4-784317",
+    "description": "Sajith showcases \u2018Brand Sri Lanka\u2019",
+    "url_metadata": "https://www.ft.lk/business/Sajith-showcases-Brand-Sri-Lanka/34-784321",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763081304.0
+    "time_ut": 1763083108.0
   }
 }
