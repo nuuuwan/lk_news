@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--15_19:47:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--15_20:16:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,799** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,800** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-15-virakesarilk-a31e97a8",
-    "num": "virakesarilk-a31e97a8",
+    "doc_id": "2025-11-15-lankadeepalk-f4e43c1e",
+    "num": "lankadeepalk-f4e43c1e",
     "date_str": "2025-11-15",
-    "description": "\u0ba4\u0bc7\u0ba9\u0bbf\u0b9a\u0bc8\u0ba4\u0bcd\u0ba4\u0bc6\u0ba9\u0bcd\u0bb1\u0bb2\u0bcd' \u0ba4\u0bc7\u0bb5\u0bbe \u0b87\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b89\u0bb0\u0bc1\u0bb5\u0bbe\u0ba9 '\u0b85\u0ba9\u0ba8\u0bcd\u0ba4\u0bbe' \u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b87\u0b9a\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/230445",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1763211060.0
+    "description": "\u0db6\u0dd2\u0db8\u0dbd\u0dca  \u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dda \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0db1\u0dca\u0da7  \u0daf\u0dd9\u0dc4\u0dd2 \u0d9a\u0db4\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db6\u0db8\u0dbd-\u0db8\u0dad\u0dc3\u0db6-\u0dbd\u0d9a\u0d9a\u0db1\u0da7-\u0daf\u0dc4-\u0d9a\u0db4\u0dba/1-683213",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1763217289.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-15 | `lankadeepalk-f4e43c1e` | බිමල්  මැතිසබේ ලොක්කන්ට  දෙහි කපයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-lankadeepalk-f4e43c1e)
 - 2025-11-15 | `virakesarilk-a31e97a8` | தேனிசைத்தென்றல்' தேவா இசையில் உருவான 'அனந்தா' படத்தின் இசை வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-a31e97a8)
 - 2025-11-15 | `virakesarilk-e4eb4173` | நகைச்சுவை படைப்பாக தயாராகும் சித்தார்த்தின் 'ரௌடி & கோ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-e4eb4173)
 - 2025-11-15 | `virakesarilk-7f23b05f` | தனுஷ் நடிக்கும் 'தேரே இஷ்க் மே' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-7f23b05f)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-15 | `virakesarilk-0b9d32ee` | “கெஹெல்பத்தர பத்மே”வுக்கு சொந்தமான வங்கி கணக்குகள் தொடர்பில் விசாரணை செய்ய சி.ஐ.டிக்கு அனுமதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-0b9d32ee)
 - 2025-11-15 | `virakesarilk-5084e000` | காதலால் நேர்ந்த கொடூரம்: சிறுமி கொலை ; இளைஞன் உயிர்மாய்ப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-5084e000)
 - 2025-11-15 | `lankadeepalk-0f05f796` | එජාප වනිතාවෝ රනිල් හමුවෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-lankadeepalk-0f05f796)
-- 2025-11-15 | `virakesarilk-cec0c34d` | செல்வ சந்நதியில் ஆலய சூழலில் சுகாதார சீர்கேட்டுடன் பானிப்பூரி விற்றவருக்கு தண்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-cec0c34d)
 
 ---
 
