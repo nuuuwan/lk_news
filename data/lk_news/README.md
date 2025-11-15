@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--15_16:45:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--15_17:15:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,779** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,780** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -50,6 +50,7 @@ A collection of lk_news documents.
 - 2025-11-15 | `virakesarilk-5f026c93` | மட்டக்களப்பில் கனமழை காரணமாக தாழ்நிலப் பகுதிகளுக்கு  வெள்ள அபாய எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-5f026c93)
 - 2025-11-15 | `lankadeepalk-1b8bbcf4` | ටින් මාළු මිල බස්සන ගැසට්ටුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-lankadeepalk-1b8bbcf4)
 - 2025-11-15 | `virakesarilk-467610d8` | மத்ரஸாவில் 12 வயது சிறுவன் உயிரிழப்பு ; பிரதேச மக்கள் ஆர்ப்பாட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-467610d8)
+- 2025-11-15 | `adalk-dd4f4ab6` | චීන ජාතිකයන්ට ජපානයේ සංචාරය කිරිමෙන් වළකින්නැයි චීනය කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-adalk-dd4f4ab6)
 - 2025-11-15 | `lankadeepalk-275e89b8` | නඩුකාරවරුන් විස්සක් ඉවත් කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-lankadeepalk-275e89b8)
 - 2025-11-15 | `tamilmirrorlk-a3819c03` | டின் மீன்களுக்கு அதிகபட்ச சில்லறை விலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-tamilmirrorlk-a3819c03)
 - 2025-11-15 | `lankadeepalk-7c7ad3ce` | නාමල් - සුමන්තිරන් හමුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-lankadeepalk-7c7ad3ce)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-15 | `virakesarilk-8bd714e4` | யாழில் போதைப்பொருள் விற்பனையில் ஈடுபட்ட கும்பல் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-8bd714e4)
 - 2025-11-15 | `virakesarilk-3e6c4c9f` | மகளை பார்க்கச் சென்றுக்கொண்டிருந்த தாய், தந்தை மீது காட்டு யானை தாக்குதல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-3e6c4c9f)
 - 2025-11-15 | `virakesarilk-16fa93b6` | நாமல் ராஜபக்ஷ - எம்.ஏ.சுமந்திரன் இடையில் சந்திப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-16fa93b6)
-- 2025-11-15 | `lankadeepalk-7d0f69d3` | ජනපති රටට ඉතිරි කරපු මුදල මෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-lankadeepalk-7d0f69d3)
 
 ---
 
