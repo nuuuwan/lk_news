@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--15_18:28:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--15_18:50:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,797** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,798** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -52,6 +52,7 @@ A collection of lk_news documents.
 - 2025-11-15 | `virakesarilk-053e8948` | நடிகர் சதீஷின் 'முஸ்தபா முஸ்தபா ' பட ஃபர்ஸ்ட் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-053e8948)
 - 2025-11-15 | `virakesarilk-4e59ea5c` | நடிகர் நந்தமூரி பாலகிருஷ்ணா நடிக்கும் ' அகண்டா 2 :தாண்டவம்' படத்தின் முதல் பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-4e59ea5c)
 - 2025-11-15 | `adalk-1f9ac79f` | නැගෙනහිර පර්යන්තයේ ඉදිකිරීම් ප්‍රමාද නිසා කොන්ත්‍රාත්කරු රු. මි. 4227 ක් වන්දි ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-adalk-1f9ac79f)
+- 2025-11-15 | `adalk-40af25ab` | 2023 ITN පාඩුව රු. ලක්ෂ 1640 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-adalk-40af25ab)
 - 2025-11-15 | `virakesarilk-c5636c5c` | பாடசாலைக்கு அருகில் போதை மாத்திரைகளை விற்பனை செய்தவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-c5636c5c)
 - 2025-11-15 | `virakesarilk-6974ab06` | வவுனியா தேசிய கல்வியற்கல்லூரியில் ஆசிரிய மாணவர்களுக்கு திடீர் சுகவீனம் ; சுகாதார பரிசோதகர்கள் தீவிர விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-6974ab06)
 - 2025-11-15 | `lankadeepalk-5c2ed574` | පතිනායක ඉවත් කරන්න පොලිස් කොමිසමේ අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-lankadeepalk-5c2ed574)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-15 | `virakesarilk-5084e000` | காதலால் நேர்ந்த கொடூரம்: சிறுமி கொலை ; இளைஞன் உயிர்மாய்ப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-5084e000)
 - 2025-11-15 | `lankadeepalk-0f05f796` | එජාප වනිතාවෝ රනිල් හමුවෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-lankadeepalk-0f05f796)
 - 2025-11-15 | `virakesarilk-cec0c34d` | செல்வ சந்நதியில் ஆலய சூழலில் சுகாதார சீர்கேட்டுடன் பானிப்பூரி விற்றவருக்கு தண்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-cec0c34d)
-- 2025-11-15 | `virakesarilk-ab4fa77d` | கடும் மின்னல் தாக்கம் குறித்து பொதுமக்களுக்கு எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-ab4fa77d)
 
 ---
 
