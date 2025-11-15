@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--15_09:03:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--15_09:24:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,731** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,733** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -53,6 +53,7 @@ A collection of lk_news documents.
 - 2025-11-15 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-3a015e4a)
 - 2025-11-15 | `virakesarilk-8877605e` | கடலோர காவல்படையினரால் கைப்பற்றப்பட்ட 1500 கிலோவிற்கும் அதிகமான பீடி இலைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-8877605e)
 - 2025-11-15 | `virakesarilk-6d4e80f7` | இலங்கை இலஞ்சம் மற்றும் ஊழல் ஒழிப்பு ஆணைக்குழுவின் நிதிசார் சுதந்திரம் தொடர்பில் TISL கரிசனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-6d4e80f7)
+- 2025-11-15 | `bbccomsinhala-f31ad16b` | 2026 වසරේ අධ්‍යාපනය සඳහා අයවැයෙන් යෝජිත මුදල් බෙදී යන්නේ මෙහෙමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-bbccomsinhala-f31ad16b)
 - 2025-11-15 | `virakesarilk-8bb6e3ff` | யாழில் கஞ்சா கலந்த மாவா மற்றும் போதை மாத்திரைகள் சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-8bb6e3ff)
 - 2025-11-15 | `virakesarilk-fd2b9f9a` | பாபர் அஸாம் சதம், ஸமான், ரிஸ்வான் அரைச் சதங்கள் குவிப்பு, இலங்கையுடனான தொடரைக் கைப்பற்றியது பாகிஸ்தான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-fd2b9f9a)
 - 2025-11-15 | `dailyftlk-2b81dc91` | Opposition petitions Govt. to withdraw Praja Shakthi circular, cites political motives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-dailyftlk-2b81dc91)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-15 | `dailyftlk-c804d1a7` | Commercial Bank launches ‘ComBank Shakthi’ to extend reach to customers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-dailyftlk-c804d1a7)
 - 2025-11-15 | `dailyftlk-67e10070` | Cabinet approves five-year strategic plan to strengthen Vidatha program countrywide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-dailyftlk-67e10070)
 - 2025-11-15 | `dailyftlk-59029c23` | Ananda Walpita joins Lee Hedges Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-dailyftlk-59029c23)
-- 2025-11-14 | `lankadeepalk-e3ef5c1b` | පාකිස්තානය කඩුලු 8 කින් ජය ලබයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-14-lankadeepalk-e3ef5c1b)
 
 ---
 
