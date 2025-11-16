@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_01:47:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_02:15:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,967** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,974** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-16-virakesarilk-2510c428",
-    "num": "virakesarilk-2510c428",
-    "date_str": "2025-11-16",
-    "description": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd  22 \u0bae\u0bbe\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 24\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0baf\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd : 1007,346 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe \u0b9a\u0bc6\u0bb2\u0bb5\u0bbe\u0b95\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 - \u0ba8\u0bb3\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9c\u0baf\u0ba4\u0bbf\u0bb8\u0bcd\u0bb8",
-    "url_metadata": "https://www.virakesari.lk/article/230522",
+    "doc_id": "2025-11-17-virakesarilk-5e7c6645",
+    "num": "virakesarilk-5e7c6645",
+    "date_str": "2025-11-17",
+    "description": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0ba4\u0bb1\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0bb5\u0bb1\u0bc1\u0bae\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b9a\u0bb0\u0bbf\u0baf\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bca\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 -  \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0ba4\u0bbe\u0b9a",
+    "url_metadata": "https://www.virakesari.lk/article/230530",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1763312520.0
+    "time_ut": 1763325600.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-17 | `virakesarilk-5e7c6645` | அரசாங்கத்திடம் தற்போது வறுமை குறித்த சரியான நிலைப்பாடொன்று இல்லை -  சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-5e7c6645)
+- 2025-11-17 | `virakesarilk-068eab1b` | “திசைக்காட்டியுடன் எங்களை ஒப்பிட வேண்டாம்; தேர்தல் வரை காத்திருப்போம் – உதய கம்மன்பில” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-068eab1b)
+- 2025-11-17 | `virakesarilk-beefece2` | வாக்குறுதிகள் நிறைவேற்றப்படவில்லை; 21ஆம் தேதி நுகேகொடையில் ஒன்றுகூட அழைப்பு – நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-beefece2)
+- 2025-11-17 | `virakesarilk-72354b44` | “பெருந்தோட்ட கம்பெனிகளுடன் அரசின் டீல் உள்ளது: தொழிலாளர்களுக்கு உரிய பலன் வழங்க வேண்டும் – அஜித் பி. பெரேரா” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-72354b44)
+- 2025-11-17 | `virakesarilk-0fcf01b6` | அமெரிக்கா–இலங்கை பாதுகாப்பு ஒப்பந்தம்: நாட்டின் பாதுகாப்புக்கு அச்சுறுத்தல் என உதய கம்மன்பில | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-0fcf01b6)
+- 2025-11-17 | `virakesarilk-cae517dd` | வரவு-செலவு திட்டத்தில் தீர்வுகள் வழங்கப்படாமையால், தொழிற்சங்க நடவடிக்கையில் ஈடுபட தீர்மானித்தோம் - வைத்தியர் பிரபாத் சுகததாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-cae517dd)
+- 2025-11-17 | `virakesarilk-32e007dd` | கடைசி ஒருநாள் போட்டியிலும் இலங்கையை வெற்றிகொண்ட பாகிஸ்தான் தொடரை முழுமையாக (3 - 0) கைப்பற்றியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-32e007dd)
 - 2025-11-16 | `virakesarilk-2510c428` | ரணில்  22 மாதங்களில் 24வெளிநாட்டு பயணங்கள் : 1007,346 மில்லியன் ரூபா செலவாகியுள்ளது - நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-2510c428)
 - 2025-11-16 | `virakesarilk-a148ee83` | இந்தியா செல்கிறார்  சிறிதரன் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-a148ee83)
 - 2025-11-16 | `virakesarilk-596f2cb3` | காலி முகத்திடலில் கடலில் குளித்துக் கொண்டிருந்த இளைஞர் ஒருவர் நீரில் மூழ்கி உயிரிழந்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-596f2cb3)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-11-16 | `lankadeepalk-44162dcd` | සංචාරක කර්මාන්තයෙන් ඩොලර් බිලියන 2.659 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-44162dcd)
 - 2025-11-16 | `lankadeepalk-b1ddb456` | රියදුරු බලපත්‍ර මුද්‍රණය අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-b1ddb456)
 - 2025-11-16 | `lankadeepalk-e680f7b3` | අයවැයට පක්ෂව ඡන්දය දුන් මනෝට විනය ක්‍රියාමාර්ග? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-e680f7b3)
-- 2025-11-16 | `lankadeepalk-638423e6` | ශ්‍රී ලංකාව ලකුණු 211 කට සීමාවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-638423e6)
-- 2025-11-16 | `tamilmirrorlk-14d51077` | ஓட்டுநர் உரிமங்களை அச்சிடும் பணி மீள ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-tamilmirrorlk-14d51077)
-- 2025-11-16 | `adalk-1f31f7d1` | වන අලින්ගෙන් වගා ආරක්ෂාවට මී මැසි වැටක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-adalk-1f31f7d1)
-- 2025-11-16 | `virakesarilk-8f17d803` | தொல்பொருள் ஆணைக்குழுவில் இணைய சிறுபான்மையினர் விரும்பவில்லை ; முன்மொழிவுகளை வழங்குமாறும் ஸ்ரீநேசன் எம்.பியிடம் அமைச்சர் பிமல் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-8f17d803)
-- 2025-11-16 | `virakesarilk-46b24f00` | தாஜுதீன் கொலை சாட்சியங்களை மறைத்தவர் ஜனாதிபதியின் ஆலோசகர் முஜிபுர் எம்.பி.சுட்டிக்காட்டு; குற்றவாளிகளை கண்டுபிடிக்குமாறும் சவால் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-46b24f00)
-- 2025-11-16 | `virakesarilk-6bf62177` | பாகிஸ்தானுடனான கடைசி ஒருநாள் கிரிக்கெட் போட்டியில் இலங்கை 211 ஓட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-6bf62177)
-- 2025-11-16 | `virakesarilk-a009f984` | முழு நாடுமே ஒன்றாக தேசிய நடவடிக்கைகமைய 1115 சந்தேகநபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-a009f984)
 
 ---
 
