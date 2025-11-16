@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_04:17:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_04:46:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,975** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,981** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-17-virakesarilk-22df9953",
-    "num": "virakesarilk-22df9953",
+    "doc_id": "2025-11-17-dailyftlk-dd7ae077",
+    "num": "dailyftlk-dd7ae077",
     "date_str": "2025-11-17",
-    "description": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe\u0baa\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bca\u0bb2\u0bcd\u0bb2\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/230531",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1763327220.0
+    "description": "Telesonic puts Sri Lanka on global map",
+    "url_metadata": "https://www.ft.lk/business/Telesonic-puts-Sri-Lanka-on-global-map/34-784398",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1763334376.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-17 | `dailyftlk-dd7ae077` | Telesonic puts Sri Lanka on global map | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-dd7ae077)
+- 2025-11-17 | `dailyftlk-dc4b87fe` | Lanka Coffee Association hosts 4th Annual General Meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-dc4b87fe)
+- 2025-11-17 | `dailyftlk-7f2e9ffa` | First digital platform for smart and sustainable shrimp aquaculture debuts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-7f2e9ffa)
+- 2025-11-17 | `dailyftlk-508b1fe6` | Sri Lanka named GCM Champion Country for leadership in migration governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-508b1fe6)
+- 2025-11-17 | `dailyftlk-463ead50` | US–Sri Lanka defence ties strengthen via Montana State Partnership Program MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-463ead50)
+- 2025-11-17 | `dailyftlk-4510976c` | Five new envoys present credentials to President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-4510976c)
 - 2025-11-17 | `virakesarilk-22df9953` | வெளிநாட்டு சுற்றுலாப் பெண்ணுக்கு பாலியல் தொல்லை சந்தேக நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-22df9953)
 - 2025-11-17 | `virakesarilk-5e7c6645` | அரசாங்கத்திடம் தற்போது வறுமை குறித்த சரியான நிலைப்பாடொன்று இல்லை -  சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-5e7c6645)
 - 2025-11-17 | `virakesarilk-068eab1b` | “திசைக்காட்டியுடன் எங்களை ஒப்பிட வேண்டாம்; தேர்தல் வரை காத்திருப்போம் – உதய கம்மன்பில” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-068eab1b)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2025-11-16 | `tamilmirrorlk-b47a54b6` | காணொளி வைரல்: ஆணுறுப்பைக் காண்பித்தவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-tamilmirrorlk-b47a54b6)
 - 2025-11-16 | `virakesarilk-9cbd8f4d` | அகில இலங்கை ஐய்யப்ப சேவா சங்கத்தின்  ஐய்யப்ப பூஜை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-9cbd8f4d)
 - 2025-11-16 | `lankadeepalk-5356e7bf` | අයවැයට විරුද්ධ වු දේශපාලකයන්ට වතුකම්කරුවෝ එරෙහි වෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-5356e7bf)
-- 2025-11-16 | `virakesarilk-5bb191c8` | டிஎஸ்ஐ சுப்பர் ஸ்போர்ட் பாடசாலைகள் கரப்பந்தாட்டத்தில் ருவன்வெல்லை ராஜசிங்க வித்தியாலயம் ஆதிக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-5bb191c8)
-- 2025-11-16 | `lankadeepalk-de88275d` | දිගම්බරම් පස්ස ගහයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-de88275d)
-- 2025-11-16 | `virakesarilk-184e9238` | "சவப்பெட்டி" ஏந்தி உருவ பொம்மையை எரித்து தோட்டத் தொழிலாளர்கள் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-184e9238)
-- 2025-11-16 | `lankadeepalk-b8e576b3` | මතට තිත තියන්න අලුත් චක්‍රලේඛ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-b8e576b3)
-- 2025-11-16 | `lankadeepalk-44162dcd` | සංචාරක කර්මාන්තයෙන් ඩොලර් බිලියන 2.659 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-44162dcd)
-- 2025-11-16 | `lankadeepalk-b1ddb456` | රියදුරු බලපත්‍ර මුද්‍රණය අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-b1ddb456)
 
 ---
 
