@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--16_07:14:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--16_08:18:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,837** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,839** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-16-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2025-11-16-virakesarilk-5270de76",
+    "num": "virakesarilk-5270de76",
     "date_str": "2025-11-16",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/230453",
+    "description": "\u0baf\u0bbe\u0bb4\u0bcd. \u0ba8\u0bc6\u0b9f\u0bc1\u0ba8\u0bcd\u0ba4\u0bc0\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb5\u0ba9\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0b95\u0bbe\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/230456",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1763254080.0
+    "time_ut": 1763259540.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-16 | `virakesarilk-5270de76` | யாழ். நெடுந்தீவில் பாவனையற்ற காணியிலிருந்து துப்பாக்கி மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-5270de76)
+- 2025-11-16 | `virakesarilk-28623fc4` | டிசம்பர் முதல் வாரத்தில் டெல்லி செல்கிறார் டில்வின் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-28623fc4)
 - 2025-11-16 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-3a015e4a)
 - 2025-11-16 | `virakesarilk-e64caba8` | தமிழ் பிரச்சினைக்கு நிரந்தரத் தீர்வு: தொல். திருமாவளவனிடம் தமிழ் தேசிய மக்கள் முன்னணியின் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-e64caba8)
 - 2025-11-16 | `virakesarilk-daeb669e` | மன்னார் தாழ்வுபாடு கடலில் இரு படகுகள் மோதி விபத்து; ஒருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-daeb669e)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-15 | `islandlk-4a722657` | HNB Assurance partners Dialog Finance to drive digital payment transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-islandlk-4a722657)
 - 2025-11-15 | `islandlk-0ec4eaa2` | Nawaloka Hospitals Named Sri Lanka’s ‘Leading Hospital in AI and Innovation’ at the Asia Pacific Global Health Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-islandlk-0ec4eaa2)
 - 2025-11-15 | `islandlk-e8c4c3ec` | LTL Transformers (Pvt) Ltd Honored at the Sri Lanka National Quality Awards 2023 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-islandlk-e8c4c3ec)
-- 2025-11-15 | `islandlk-e299e65f` | HNB Finance celebrates fivefold success at SLIM NASCO Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-islandlk-e299e65f)
-- 2025-11-15 | `virakesarilk-41854445` | கூடைப்பந்தாட்ட விளையாட்டின் பின்னணியில் தயாராகும் 'நடு சென்டர்' எனும் இணைய தொடரின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-15-virakesarilk-41854445)
 
 ---
 
