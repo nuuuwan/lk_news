@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_04:46:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_05:15:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,981** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,982** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A collection of lk_news documents.
 - 2025-11-17 | `dailyftlk-508b1fe6` | Sri Lanka named GCM Champion Country for leadership in migration governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-508b1fe6)
 - 2025-11-17 | `dailyftlk-463ead50` | US–Sri Lanka defence ties strengthen via Montana State Partnership Program MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-463ead50)
 - 2025-11-17 | `dailyftlk-4510976c` | Five new envoys present credentials to President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-4510976c)
+- 2025-11-17 | `virakesarilk-2444965a` | மட்டு நகரில் ஹோட்டலில் தங்கியிருந்த பிரதான போதை வியாபாரி உட்பட 3 பேர் கைது; 7 ஆயிரம் மில்லி கிராம் ஜஸ் போதைப் பொருள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-2444965a)
 - 2025-11-17 | `virakesarilk-22df9953` | வெளிநாட்டு சுற்றுலாப் பெண்ணுக்கு பாலியல் தொல்லை சந்தேக நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-22df9953)
 - 2025-11-17 | `virakesarilk-5e7c6645` | அரசாங்கத்திடம் தற்போது வறுமை குறித்த சரியான நிலைப்பாடொன்று இல்லை -  சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-5e7c6645)
 - 2025-11-17 | `virakesarilk-068eab1b` | “திசைக்காட்டியுடன் எங்களை ஒப்பிட வேண்டாம்; தேர்தல் வரை காத்திருப்போம் – உதய கம்மன்பில” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-068eab1b)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-16 | `virakesarilk-596f2cb3` | காலி முகத்திடலில் கடலில் குளித்துக் கொண்டிருந்த இளைஞர் ஒருவர் நீரில் மூழ்கி உயிரிழந்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-596f2cb3)
 - 2025-11-16 | `tamilmirrorlk-b47a54b6` | காணொளி வைரல்: ஆணுறுப்பைக் காண்பித்தவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-tamilmirrorlk-b47a54b6)
 - 2025-11-16 | `virakesarilk-9cbd8f4d` | அகில இலங்கை ஐய்யப்ப சேவா சங்கத்தின்  ஐய்யப்ப பூஜை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-9cbd8f4d)
-- 2025-11-16 | `lankadeepalk-5356e7bf` | අයවැයට විරුද්ධ වු දේශපාලකයන්ට වතුකම්කරුවෝ එරෙහි වෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-5356e7bf)
 
 ---
 
