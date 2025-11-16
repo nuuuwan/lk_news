@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--16_18:26:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--16_18:50:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,937** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,938** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2025-11-16 | `virakesarilk-c7a126d4` | வடக்கு – கிழக்கில் கனமழை மேலும் 3 நாட்கள் நீடிக்கும் – பேரா. பிரதீபராஜா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-c7a126d4)
 - 2025-11-16 | `virakesarilk-72373439` | பொலித்தீன் பைகளுக்கு பதிலாக சுற்றுச்சூழலுக்கு உகந்த காகித பைகளை உற்பத்தி செய்யுங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-72373439)
 - 2025-11-16 | `virakesarilk-b395fb7b` | நானுஓயாவில் வீதிகள் புனர்நிர்மாண வேலைகளுக்காக அங்குரார்ப்பணம் செய்து வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-b395fb7b)
+- 2025-11-16 | `adalk-ef70c418` | සියලු රාජ්‍ය ආයතන වල මත්ද්‍රව්‍ය නිවාරණ කමිටු පිහිටුවන්න ගැසට්ටුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-adalk-ef70c418)
 - 2025-11-16 | `virakesarilk-a69b114d` | வட்டியில்லா மாணவர் கடன் திட்டத்துக்கு விண்ணப்பம் கோரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-a69b114d)
 - 2025-11-16 | `virakesarilk-953b5166` | வாகரை காயங்கேனி கடற்கரையில் அடையாளம் தெரியாத சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-953b5166)
 - 2025-11-16 | `virakesarilk-52acb704` | மரக்கிளை முறிந்து வீழ்ந்ததில் ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-52acb704)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-16 | `virakesarilk-4dfa571d` | இந்தியாவுடனான முதலாவது டெஸ்ட் போட்டியில் தென் ஆபிரிக்கா 30 ஓட்டங்களால் அபார வெற்றி ; இந்தியாவுக்கு எதிராக கடந்த 15 வருடங்களில் தென் ஆபிரிக்கா ஈட்டிய முதல் வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-4dfa571d)
 - 2025-11-16 | `lankadeepalk-9fe026db` | පොපි මල් දිනය සමරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-9fe026db)
 - 2025-11-16 | `lankadeepalk-f2ff362e` | මත්ද්‍රව්‍ය ජාතික සභාවට කොළඹ නව  කාර්යාලයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-f2ff362e)
-- 2025-11-16 | `tamilmirrorlk-cce536f6` | மாணவர்களுக்கு ஹெரோயின் வழங்கிய இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-tamilmirrorlk-cce536f6)
 
 ---
 
