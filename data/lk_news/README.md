@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--16_16:45:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--16_17:14:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,919** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,920** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,7 @@ A collection of lk_news documents.
 - 2025-11-16 | `tamilmirrorlk-43157b47` | உள்ளங்கையில் மறைக்கக்கூடிய  துப்பாக்கியுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-tamilmirrorlk-43157b47)
 - 2025-11-16 | `tamilmirrorlk-7c362be9` | பிரதமர் தலைமையில் பொப்பி மலர் தினம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-tamilmirrorlk-7c362be9)
 - 2025-11-16 | `tamilmirrorlk-1d4424db` | உருக்குலைந்த நிலையில் ஆணின் சடலம்  மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-tamilmirrorlk-1d4424db)
+- 2025-11-16 | `adalk-d85838df` | කාසියේ වාසිය පාකිස්තානය - ශ්‍රී ලංකා නායකත්වයේ වෙනසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-adalk-d85838df)
 - 2025-11-16 | `virakesarilk-53ba5dfe` | குண்டுகளும் குற்றச்சாட்டுக்களும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-53ba5dfe)
 - 2025-11-16 | `lankadeepalk-5d9f9a23` | අල්ලේ සඟවාගෙන යා හැකි ගිනි අවියක් සමඟ අයෙක් දැලේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-5d9f9a23)
 - 2025-11-16 | `virakesarilk-780aeed0` | நாட்டின் வெவ்வேறு பகுதிகளில் இடம்பெற்ற விபத்துகளில் இருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-780aeed0)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-16 | `virakesarilk-465f6a40` | இந்திய ஆதரவை பயன்படுத்தி ஈழத் தமிழர் பிரச்சினைக்கு நிரந்தர தீர்வு தேவை – தமிழ் தேசிய மக்கள் முன்னணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-465f6a40)
 - 2025-11-16 | `virakesarilk-4aea52bd` | மத்திய ஆசிய சகோதரத்துவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-4aea52bd)
 - 2025-11-16 | `adalk-848f7a6d` | මධ්‍යධරණී මුහුදේදී සංක්‍රමණිකයන් රැගත් බෝට්ටු 2ක් පෙරළෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-adalk-848f7a6d)
-- 2025-11-16 | `virakesarilk-a32b0362` | புதையல் தோண்டிய இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-a32b0362)
 
 ---
 
