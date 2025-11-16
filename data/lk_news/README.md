@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--16_11:48:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--16_12:23:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,890** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,893** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-16-lankadeepalk-a7bf0bd4",
-    "num": "lankadeepalk-a7bf0bd4",
+    "doc_id": "2025-11-16-tamilmirrorlk-15493c3b",
+    "num": "tamilmirrorlk-15493c3b",
     "date_str": "2025-11-16",
-    "description": "\u0db8\u0dad\u0dca \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0ddd 1115 \u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dad-\u0dc3\u0d9a\u0d9a\u0dbb\u0dc0-1115-\u0d9a/101-683232",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1763273404.0
+    "description": "\u0bae\u0bc6\u0b95\u0bcd\u0b9a\u0bbf\u0b95\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0ba4\u0bc0\u0bb5\u0bbf\u0bb0\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 GenZ  \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc6\u0b95\u0bcd\u0b9a\u0bbf\u0b95\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd-\u0b85\u0bb0\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0ba4\u0bc0\u0bb5\u0bbf\u0bb0\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4-GenZ-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/50-367989",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1763274702.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-16 | `tamilmirrorlk-15493c3b` | மெக்சிகோவில் அரசுக்கு எதிராக தீவிரமடைந்த GenZ  போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-tamilmirrorlk-15493c3b)
+- 2025-11-16 | `tamilmirrorlk-503cf310` | முஸ்லிம் பாடசாலைகளுக்கான புதிய நேர அட்டவணை வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-tamilmirrorlk-503cf310)
+- 2025-11-16 | `tamilmirrorlk-f1dac5e2` | திருடப்பட்ட லொரி மோதியதில் ஒருவர் பலி: நான்கு பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-tamilmirrorlk-f1dac5e2)
 - 2025-11-16 | `lankadeepalk-a7bf0bd4` | මත් සැකකරුවෝ 1115 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-a7bf0bd4)
 - 2025-11-16 | `virakesarilk-1b85f3e5` | திட்டமிட்டு புறக்கணிக்கப்படும் தமிழர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-1b85f3e5)
 - 2025-11-16 | `virakesarilk-2cfde678` | துப்பாக்கி, சட்டவிரோத மதுபானம்,  சிகரெட்டுகளுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-2cfde678)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-16 | `virakesarilk-34f061e7` | பாராளுமன்ற தெரிவுக் குழுவை அமைப்பதில் சபாநாயகர் பின்னடிப்பு ; நால்வரின் பெயரை பரிந்துரைத்து எதிரணி கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-34f061e7)
 - 2025-11-16 | `virakesarilk-5af98e7a` | மதில் மேல் பூனையாக தமிழ் அரசுக் கட்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-5af98e7a)
 - 2025-11-16 | `tamilmirrorlk-73d0d4fb` | 18 வயது நிரம்பியவர்களுக்கு கட்டாய ராணுவ சேவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-tamilmirrorlk-73d0d4fb)
-- 2025-11-16 | `virakesarilk-1191c540` | தள்ளாத வயதிலும் பதவியில் தொடரும் கெமரூன் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-1191c540)
-- 2025-11-16 | `tamilmirrorlk-cc4ed093` | அமீபா மூளை காய்ச்சல்: சபரிமலை பக்தர்களுக்கு  அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-tamilmirrorlk-cc4ed093)
-- 2025-11-16 | `lankadeepalk-da765d84` | ජනපති රටට දුන් ආදර්ශ මිල කරන්න බෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-lankadeepalk-da765d84)
 
 ---
 
