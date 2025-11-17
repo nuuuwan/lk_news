@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_19:23:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_19:47:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,160** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,162** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,7 @@ A collection of lk_news documents.
 - 2025-11-17 | `adalk-ae28cb1c` | තැපෑලට රියදුරුන් 36 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-adalk-ae28cb1c)
 - 2025-11-17 | `virakesarilk-a0b99e56` | மன்னார் நகர சபையின் 2026 - வரவு செலவுத் திட்டம் மேலதிக 4 வாக்குகளால் நிறைவேற்றம் ; 5 உறுப்பினர்கள் எதிர்ப்பு ; 2 உறுப்பினர்கள் வெளிநடப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-a0b99e56)
 - 2025-11-17 | `virakesarilk-514f588d` | “இந்த தீர்ப்பு பாரபட்சமானது ; அரசியல் உள்நோக்கம் கொண்டது” - ஷேக் ஹசீனா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-514f588d)
+- 2025-11-17 | `adalk-2966ae1f` | ඖෂධ වර්ග තුන්සිය පනහක මිල පහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-adalk-2966ae1f)
 - 2025-11-17 | `lankadeepalk-6d245f5f` | වතු කම්කරු පඩි වැඩිකිරීමට රජයේ මුදල් වෙන්කිරීමට විරෝධය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-6d245f5f)
 - 2025-11-17 | `virakesarilk-55dcfc92` | 'குடும்பஸ்தனுக்கு ஃபர்பெக்ட்டான பார்ட்னர் தேவை என்பதை 'ஆண் பாவம் பொல்லாதது' படம் ரசிகர்களுக்கு புரிய வைத்தது' - நடிகர் ரியோ ராஜ்  பேச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-55dcfc92)
 - 2025-11-17 | `virakesarilk-472a94f4` | ரஜினி கிஷன் நடிக்கும் 'ரஜினி கேங்' படத்தின் வெளியீட்டு திகதி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-472a94f4)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-17 | `tamilmirrorlk-e9173370` | மரண தண்டனை குறித்து ஷேக் ஹசீனாவின் கருத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-tamilmirrorlk-e9173370)
 - 2025-11-17 | `lankadeepalk-83585146` | දෙකයි පනහේ ලෝයර්ස්ලා කතාවක්: සුනිල් - චාමර හැප්පෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-83585146)
 - 2025-11-17 | `virakesarilk-ec3bdd5d` | திருகோணமலை சம்புத்தஜயந்தி: மகாநாயக்க தேரர்களுடன் ஆலோசனை அவசியம் – சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-ec3bdd5d)
-- 2025-11-17 | `lankadeepalk-76545595` | මෙම වසරේ සංචාරකයන් ලක්‍ෂ 20 කඩයිම පසුකරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-76545595)
 
 ---
 
