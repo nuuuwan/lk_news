@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_20:20:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_20:48:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,162** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,164** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-17-virakesarilk-8a580f73",
-    "num": "virakesarilk-8a580f73",
+    "doc_id": "2025-11-17-lankadeepalk-4f2c17d6",
+    "num": "lankadeepalk-4f2c17d6",
     "date_str": "2025-11-17",
-    "description": "\"\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0ba8\u0bae\u0bcd\u0baa\u0bbf, \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bca\u0ba9\u0bcd\u0ba9\u0ba4\u0bc8\u0baf\u0bc6\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bcd \u0ba8\u0bae\u0bcd\u0baa\u0bbf, \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0ba4\u0bc1\u0bb0\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b87\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd\" - \u0b95\u0b9c\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd \u0baa\u0bca\u0ba9\u0bcd\u0ba9\u0bae\u0bcd\u0baa\u0bb2\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/230616",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1763386980.0
+    "description": "\u0d9a\u0db6\u0dca\u0dbb\u0dcf\u0dbd\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u200d \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0db6\u0dbb\u0dbd\u0da7-\u0d91\u0dbb\u0dc4-\u0db4\u0dad\u0dc3\u0db8\u0d9a-\u0dc0\u0dc3-\u0dc0\u0dba/1-683323",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1763392508.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-17 | `lankadeepalk-4f2c17d6` | කබ්රාල්ට එරෙහි පෙත්සමක් විසි‍ වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-4f2c17d6)
+- 2025-11-17 | `lankadeepalk-15a57898` | ත්‍රිකුණාමලය බුදුපිළිමය ඉවත්කිරීම තරගයේ හෙළා දකිනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-15a57898)
 - 2025-11-17 | `virakesarilk-8a580f73` | "உங்களை நம்பி, நீங்கள் சொன்னதையெல்லாம் நம்பி, உங்களுக்கு வாக்களித்த தமிழ் மக்களுக்கு நீங்கள் முழுமையான துரோகத்தை இழைத்த்திருக்கிறீர்கள்" - கஜேந்திரகுமார் பொன்னம்பலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-8a580f73)
 - 2025-11-17 | `lankadeepalk-af6eb528` | විදේශ කටයුතු අධිකරණ වැය ශීර්ෂ සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-af6eb528)
 - 2025-11-17 | `virakesarilk-77f82741` | முல்லைத்தீவு கோடாலிக்கல்லு மாவீரர் துயிலும் இல்லத்தில் சிரமதான பணிகள் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-77f82741)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-17 | `tamilmirrorlk-8863217e` | மனைவியை பணயம் வைத்து சூதாடி தோல்வி: அடுத்தது பயங்கரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-tamilmirrorlk-8863217e)
 - 2025-11-17 | `adalk-7f8251a0` | සංචාරක පැමිණීම මිලියන 2 ඉක්මවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-adalk-7f8251a0)
 - 2025-11-17 | `tamilmirrorlk-e9173370` | மரண தண்டனை குறித்து ஷேக் ஹசீனாவின் கருத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-tamilmirrorlk-e9173370)
-- 2025-11-17 | `lankadeepalk-83585146` | දෙකයි පනහේ ලෝයර්ස්ලා කතාවක්: සුනිල් - චාමර හැප්පෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-83585146)
-- 2025-11-17 | `virakesarilk-ec3bdd5d` | திருகோணமலை சம்புத்தஜயந்தி: மகாநாயக்க தேரர்களுடன் ஆலோசனை அவசியம் – சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-ec3bdd5d)
 
 ---
 
