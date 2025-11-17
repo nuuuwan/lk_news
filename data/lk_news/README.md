@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_17:16:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_17:51:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,120** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,125** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-17-lankadeepalk-76545595",
-    "num": "lankadeepalk-76545595",
+    "doc_id": "2025-11-17-lankadeepalk-9ac16d16",
+    "num": "lankadeepalk-9ac16d16",
     "date_str": "2025-11-17",
-    "description": "\u0db8\u0dd9\u0db8 \u0dc0\u0dc3\u0dbb\u0dda \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0db1\u0dca \u0dbd\u0d9a\u0dca\u200d\u0dc2 20 \u0d9a\u0da9\u0dba\u0dd2\u0db8 \u0db4\u0dc3\u0dd4\u0d9a\u0dbb\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0db8-\u0dc0\u0dc3\u0dbb-\u0dc3\u0da0\u0dbb\u0d9a\u0dba\u0db1-\u0dbd\u0d9a\u0dc2-20-\u0d9a\u0da9\u0dba\u0db8-\u0db4\u0dc3\u0d9a\u0dbb\u0dba/101-683313",
+    "description": "\u0daf\u0ddc\u0dc3\u0dca\u0dad\u0dbb \u0dc0\u0dbb\u0dca\u0da2\u0db1\u0dba \u0daf\u0dd2\u0d9c\u0dca\u0d9c\u0dd0\u0dc3\u0dca\u0dc3\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dc3\u0dad\u0dbb-\u0dc0\u0dbb\u0da2\u0db1\u0dba-\u0daf\u0d9c\u0d9c\u0dc3\u0dc3\u0dba/1-683315",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1763379196.0
+    "time_ut": 1763381676.0
 }
 ```
 
@@ -41,7 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-17 | `lankadeepalk-9ac16d16` | දොස්තර වර්ජනය දිග්ගැස්සෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-9ac16d16)
+- 2025-11-17 | `tamilmirrorlk-8863217e` | மனைவியை பணயம் வைத்து சூதாடி தோல்வி: அடுத்தது பயங்கரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-tamilmirrorlk-8863217e)
+- 2025-11-17 | `tamilmirrorlk-e9173370` | மரண தண்டனை குறித்து ஷேக் ஹசீனாவின் கருத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-tamilmirrorlk-e9173370)
+- 2025-11-17 | `lankadeepalk-83585146` | දෙකයි පනහේ ලෝයර්ස්ලා කතාවක්: සුනිල් - චාමර හැප්පෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-83585146)
 - 2025-11-17 | `lankadeepalk-76545595` | මෙම වසරේ සංචාරකයන් ලක්‍ෂ 20 කඩයිම පසුකරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-76545595)
+- 2025-11-17 | `adalk-52049a15` | බංග්ලාදේශයේ හිටපු අගමැති ෂෙයික් හසීනාට මරණ දඬුවම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-adalk-52049a15)
 - 2025-11-17 | `lankadeepalk-83658c22` | ‘‘බුදු කුටිය අනවසර ඉදිකිරීමක්‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-83658c22)
 - 2025-11-17 | `lankadeepalk-d42bbf08` | ’’රෝහණ විජේවීර වෙනුවෙන් කෞතුකාගාරයක් හදන්න’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-d42bbf08)
 - 2025-11-17 | `lankadeepalk-167c7c3d` | ලොකු ලූනු වලට ස්ථාවර මිලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-167c7c3d)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-11-17 | `lankadeepalk-40102a4c` | මත් රකුසා පරදන වැඩසටහන දකුණට යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-40102a4c)
 - 2025-11-17 | `tamilmirrorlk-a72aef8d` | நடன ஆய்வுச் செயலமர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-tamilmirrorlk-a72aef8d)
 - 2025-11-17 | `lankadeepalk-489bf544` | සුරාබදු හිටපු නිලධාරියා බීඩි කොළ සමග අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-489bf544)
-- 2025-11-17 | `lankadeepalk-dca32cb2` | තැපෑලට රියැදුරෝ  36ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-dca32cb2)
-- 2025-11-17 | `lankadeepalk-a8c17286` | සෞදියේ බස් අනතුරකින්  40ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-a8c17286)
-- 2025-11-17 | `virakesarilk-1a33b6c6` | வானில் லியோனிட்ஸ் விண்கல் மழை இன்று பொழியும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-1a33b6c6)
-- 2025-11-17 | `tamilmirrorlk-3eef8f54` | ஷேக் ஹசீனாவிற்கு மரண தண்டனை விதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-tamilmirrorlk-3eef8f54)
-- 2025-11-17 | `tamilmirrorlk-62705b20` | ரூபாய் 200 சம்பள  உயர்வும் சஜித்தும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-tamilmirrorlk-62705b20)
 
 ---
 
