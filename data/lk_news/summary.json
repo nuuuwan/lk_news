@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-18 01:47:36",
-  "n_docs": 87192,
+  "time_updated": "2025-11-18 02:17:52",
+  "n_docs": 87199,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 87192,
+  "n_docs_with_text": 87199,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-18",
-  "dataset_size": 1301053213,
+  "dataset_size": 1301120340,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-18-dailyftlk-dab489ef",
-    "num": "dailyftlk-dab489ef",
+    "doc_id": "2025-11-18-dailyftlk-1edb0b5e",
+    "num": "dailyftlk-1edb0b5e",
     "date_str": "2025-11-18",
-    "description": "Lanka Spa Association sets new standards for wellness and spa industry",
-    "url_metadata": "https://www.ft.lk/business/Lanka-Spa-Association-sets-new-standards-for-wellness-and-spa-industry/34-784444",
+    "description": "Sri Lanka\u2013Saudi Arabia Business Council debuts",
+    "url_metadata": "https://www.ft.lk/business/Sri-LankaSaudi-Arabia-Business-Council-debuts/34-784459",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763409575.0
+    "time_ut": 1763411346.0
   }
 }

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_01:48:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_02:18:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,192** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,199** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-18-dailyftlk-dab489ef",
-    "num": "dailyftlk-dab489ef",
+    "doc_id": "2025-11-18-dailyftlk-1edb0b5e",
+    "num": "dailyftlk-1edb0b5e",
     "date_str": "2025-11-18",
-    "description": "Lanka Spa Association sets new standards for wellness and spa industry",
-    "url_metadata": "https://www.ft.lk/business/Lanka-Spa-Association-sets-new-standards-for-wellness-and-spa-industry/34-784444",
+    "description": "Sri Lanka\u2013Saudi Arabia Business Council debuts",
+    "url_metadata": "https://www.ft.lk/business/Sri-LankaSaudi-Arabia-Business-Council-debuts/34-784459",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763409575.0
+    "time_ut": 1763411346.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-18 | `dailyftlk-1edb0b5e` | Sri Lanka–Saudi Arabia Business Council debuts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-1edb0b5e)
+- 2025-11-18 | `dailyftlk-c2510675` | Embassy in Belgium hosts “Country seminar on Sri Lanka” in Luxembourg | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-c2510675)
+- 2025-11-18 | `dailyftlk-c5115f0e` | Ceylon Chamber of Commerce and Gujarat Chamber of Commerce & Industry sign MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-c5115f0e)
+- 2025-11-18 | `dailyftlk-0c3ff849` | Investment Facilitation Forum bridges Korean innovation with Sri Lankan growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-0c3ff849)
+- 2025-11-18 | `dailyftlk-2d5fc663` | Panasian Power connects sixth 5MW solar plant  to national grid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-2d5fc663)
+- 2025-11-18 | `dailyftlk-381dfb3d` | Senthilverl ups stake in Serendib Land to 38.3% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-381dfb3d)
+- 2025-11-18 | `dailyftlk-8d7fa598` | UNDP and Hirdaramani Apparel sign MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-8d7fa598)
 - 2025-11-18 | `dailyftlk-dab489ef` | Lanka Spa Association sets new standards for wellness and spa industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-dab489ef)
 - 2025-11-18 | `dailyftlk-cc0f561a` | Dismantling the case against decent wages in tea plantations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-cc0f561a)
 - 2025-11-18 | `dailyftlk-36c3a7cc` | Rebuilding nation on rails:  Eng. Rampala Memorial Oration calls for bold railway reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-36c3a7cc)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-11-17 | `virakesarilk-d2f96314` | திருகோணமலையில் இடம்பெறும் அசம்பாவிதங்கள் திட்டமிட்டவை – இராவண சேனா தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-d2f96314)
 - 2025-11-17 | `lankadeepalk-64ba2d8b` | වෙළඳ ලකුණක් අනුකරණය කළැයි රත්නපුරයේ ආයතනයකට නඩු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-64ba2d8b)
 - 2025-11-17 | `lankadeepalk-7b69e8ad` | මීටියාගොඩ වෙඩි තැබීමකින් කතක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-7b69e8ad)
-- 2025-11-17 | `lankadeepalk-4f2c17d6` | කබ්රාල්ට එරෙහි පෙත්සමක් විසි‍ වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-4f2c17d6)
-- 2025-11-17 | `virakesarilk-da967aa2` | இரத்தினபுரியில் தொடர்ச்சியான மழையால் பல பகுதிகளில் மண்சரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-da967aa2)
-- 2025-11-17 | `lankadeepalk-15a57898` | ත්‍රිකුණාමලය බුදුපිළිමය ඉවත්කිරීම තරගයේ හෙළා දකිනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-15a57898)
-- 2025-11-17 | `virakesarilk-8c0ec87a` | திருகோணமலை சம்பவத்தை யாரும் இனவாத, மதவாதமாக மாற்றவேண்டாம் - சுனில் வடகல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-8c0ec87a)
-- 2025-11-17 | `adalk-59c65688` | විස්සයි20 නායකත්වය දසුන්ට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-adalk-59c65688)
-- 2025-11-17 | `virakesarilk-07e274fb` | பிரதி அமைச்சர் அருண் ஹேமச்சந்திரா பதவியை துறந்து எமது கட்சியில் இணையவேண்டும் - சாணக்கியன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-07e274fb)
-- 2025-11-17 | `virakesarilk-8a580f73` | "உங்களை நம்பி, நீங்கள் சொன்னதையெல்லாம் நம்பி, உங்களுக்கு வாக்களித்த தமிழ் மக்களுக்கு நீங்கள் முழுமையான துரோகத்தை இழைத்த்திருக்கிறீர்கள்" - கஜேந்திரகுமார் பொன்னம்பலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-8a580f73)
 
 ---
 
