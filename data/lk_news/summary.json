@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-18 00:45:00",
-  "n_docs": 87187,
+  "time_updated": "2025-11-18 01:15:33",
+  "n_docs": 87188,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 87187,
+  "n_docs_with_text": 87188,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2025-11-17",
-  "dataset_size": 1300971139,
+  "date_str_max": "2025-11-18",
+  "dataset_size": 1300989475,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-17-lankadeepalk-399d9ba5",
-    "num": "lankadeepalk-399d9ba5",
-    "date_str": "2025-11-17",
-    "description": "\u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dad\u0ddc\u0da7\u0dd4\u0db4\u0ddc\u0dc5\u0dda \u0d85\u0dad\u0dc4\u0dd0\u0dbb \u0d9c\u0dd2\u0dba \u0db6\u0dd1\u0d9c\u0dba\u0dda \u0d9a\u0ddd\u0da7\u0dd2 11 \u0d9a \u0d9c\u0d82\u0da2\u0dcf",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9c\u0dc0\u0db1\u0dad\u0da7\u0db4\u0dc5-\u0d85\u0dad\u0dc4\u0dbb-\u0d9c\u0dba-\u0db6\u0d9c\u0dba-\u0d9a\u0da7-11-\u0d9a-\u0d9c\u0da2/101-683327",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1763401978.0
+    "doc_id": "2025-11-18-dailyftlk-71b50f29",
+    "num": "dailyftlk-71b50f29",
+    "date_str": "2025-11-18",
+    "description": "Smallholders locked out, imports locked in: The case to end Palm Oil ban",
+    "url_metadata": "https://www.ft.lk/columns/Smallholders-locked-out-imports-locked-in-The-case-to-end-Palm-Oil-ban/4-784438",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1763407292.0
   }
 }
