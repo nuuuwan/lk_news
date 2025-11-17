@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_02:18:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_02:48:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,199** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,203** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-18-dailyftlk-1edb0b5e",
-    "num": "dailyftlk-1edb0b5e",
+    "doc_id": "2025-11-18-dailyftlk-26085aee",
+    "num": "dailyftlk-26085aee",
     "date_str": "2025-11-18",
-    "description": "Sri Lanka\u2013Saudi Arabia Business Council debuts",
-    "url_metadata": "https://www.ft.lk/business/Sri-LankaSaudi-Arabia-Business-Council-debuts/34-784459",
+    "description": "David Pieris Logistics acquires Logicare in Rs. 1.3 b deal from Ceylon Tea Brokers",
+    "url_metadata": "https://www.ft.lk/business/David-Pieris-Logistics-acquires-Logicare-in-Rs-1-3-b-deal-from-Ceylon-Tea-Brokers/34-784466",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763411346.0
+    "time_ut": 1763413465.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-18 | `dailyftlk-26085aee` | David Pieris Logistics acquires Logicare in Rs. 1.3 b deal from Ceylon Tea Brokers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-26085aee)
+- 2025-11-18 | `dailyftlk-6441b5b1` | Teejay Group maintains stability amid global headwinds in 1H 2025/26 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-6441b5b1)
+- 2025-11-18 | `dailyftlk-de9e1655` | ICC Asia Pacific leaders converge in Singapore for 2nd RCG Meeting 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-de9e1655)
+- 2025-11-18 | `dailyftlk-b6fe7f3f` | Sri Lanka launches GEW 2025 with national unity and entrepreneurial spirit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-b6fe7f3f)
 - 2025-11-18 | `dailyftlk-1edb0b5e` | Sri Lanka–Saudi Arabia Business Council debuts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-1edb0b5e)
 - 2025-11-18 | `dailyftlk-c2510675` | Embassy in Belgium hosts “Country seminar on Sri Lanka” in Luxembourg | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-c2510675)
 - 2025-11-18 | `dailyftlk-c5115f0e` | Ceylon Chamber of Commerce and Gujarat Chamber of Commerce & Industry sign MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-c5115f0e)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-17 | `virakesarilk-0585035c` | மீட்டியாகொட துப்பாக்கிச் சூட்டில் காயமடைந்த பெண் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-0585035c)
 - 2025-11-17 | `virakesarilk-919abedf` | நீங்கள் கேட்பவராகவும் நான் கொடுப்பவராகவும் இல்லாமல், நாம் அனைவரும் ஒன்றிணைந்து இந்த நாட்டைக் கட்டியெழுப்புவோம் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-919abedf)
 - 2025-11-17 | `virakesarilk-7e376469` | உள்ளூர் பெரிய வெங்காய விவசாயிகளின் பிரச்சினைகளைத் தீர்ப்பதற்கான நிரந்தர வேலைத்திட்டமொன்றை தயாரிப்பது குறித்து ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-7e376469)
-- 2025-11-17 | `virakesarilk-f623fcc8` | திருகோணமலை புத்தர்சிலை விவகாரம்; இனவாதம் பழுத்துப்போன பெரும்பான்மை அரசுகளின்  அடாவடி தொடர்கிறது - ரவிகரன் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-f623fcc8)
-- 2025-11-17 | `virakesarilk-d2f96314` | திருகோணமலையில் இடம்பெறும் அசம்பாவிதங்கள் திட்டமிட்டவை – இராவண சேனா தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-d2f96314)
-- 2025-11-17 | `lankadeepalk-64ba2d8b` | වෙළඳ ලකුණක් අනුකරණය කළැයි රත්නපුරයේ ආයතනයකට නඩු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-64ba2d8b)
-- 2025-11-17 | `lankadeepalk-7b69e8ad` | මීටියාගොඩ වෙඩි තැබීමකින් කතක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-7b69e8ad)
 
 ---
 
