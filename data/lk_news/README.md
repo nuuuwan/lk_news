@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_05:15:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_06:02:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,982** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**86,997** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-17-dailyftlk-dd7ae077",
-    "num": "dailyftlk-dd7ae077",
+    "doc_id": "2025-11-17-dailyftlk-8cf82c35",
+    "num": "dailyftlk-8cf82c35",
     "date_str": "2025-11-17",
-    "description": "Telesonic puts Sri Lanka on global map",
-    "url_metadata": "https://www.ft.lk/business/Telesonic-puts-Sri-Lanka-on-global-map/34-784398",
+    "description": "Healing founder\u2019s rift: Turning family conflict into lasting continuity",
+    "url_metadata": "https://www.ft.lk/columns/Healing-founder-s-rift-Turning-family-conflict-into-lasting-continuity/4-784418",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763334376.0
+    "time_ut": 1763339178.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-17 | `dailyftlk-8cf82c35` | Healing founder’s rift: Turning family conflict into lasting continuity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-8cf82c35)
+- 2025-11-17 | `dailyftlk-6ead63b4` | Design beyond glamour: Mercedes -Benz Fashion Week Sri Lanka 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-6ead63b4)
 - 2025-11-17 | `dailyftlk-dd7ae077` | Telesonic puts Sri Lanka on global map | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-dd7ae077)
 - 2025-11-17 | `dailyftlk-dc4b87fe` | Lanka Coffee Association hosts 4th Annual General Meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-dc4b87fe)
 - 2025-11-17 | `dailyftlk-7f2e9ffa` | First digital platform for smart and sustainable shrimp aquaculture debuts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-7f2e9ffa)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-16 | `virakesarilk-2510c428` | ரணில்  22 மாதங்களில் 24வெளிநாட்டு பயணங்கள் : 1007,346 மில்லியன் ரூபா செலவாகியுள்ளது - நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-2510c428)
 - 2025-11-16 | `virakesarilk-a148ee83` | இந்தியா செல்கிறார்  சிறிதரன் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-a148ee83)
 - 2025-11-16 | `virakesarilk-596f2cb3` | காலி முகத்திடலில் கடலில் குளித்துக் கொண்டிருந்த இளைஞர் ஒருவர் நீரில் மூழ்கி உயிரிழந்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-596f2cb3)
-- 2025-11-16 | `tamilmirrorlk-b47a54b6` | காணொளி வைரல்: ஆணுறுப்பைக் காண்பித்தவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-tamilmirrorlk-b47a54b6)
-- 2025-11-16 | `virakesarilk-9cbd8f4d` | அகில இலங்கை ஐய்யப்ப சேவா சங்கத்தின்  ஐய்யப்ப பூஜை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-9cbd8f4d)
 
 ---
 

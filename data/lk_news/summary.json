@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-17 05:14:20",
-  "n_docs": 86982,
+  "time_updated": "2025-11-17 06:02:02",
+  "n_docs": 86997,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 86982,
+  "n_docs_with_text": 86997,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-17",
-  "dataset_size": 1297577217,
+  "dataset_size": 1297689980,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-17-dailyftlk-dd7ae077",
-    "num": "dailyftlk-dd7ae077",
+    "doc_id": "2025-11-17-dailyftlk-8cf82c35",
+    "num": "dailyftlk-8cf82c35",
     "date_str": "2025-11-17",
-    "description": "Telesonic puts Sri Lanka on global map",
-    "url_metadata": "https://www.ft.lk/business/Telesonic-puts-Sri-Lanka-on-global-map/34-784398",
+    "description": "Healing founder\u2019s rift: Turning family conflict into lasting continuity",
+    "url_metadata": "https://www.ft.lk/columns/Healing-founder-s-rift-Turning-family-conflict-into-lasting-continuity/4-784418",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763334376.0
+    "time_ut": 1763339178.0
   }
 }
