@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-18 01:15:33",
-  "n_docs": 87188,
+  "time_updated": "2025-11-18 01:47:36",
+  "n_docs": 87192,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 87188,
+  "n_docs_with_text": 87192,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-18",
-  "dataset_size": 1300989475,
+  "dataset_size": 1301053213,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-18-dailyftlk-71b50f29",
-    "num": "dailyftlk-71b50f29",
+    "doc_id": "2025-11-18-dailyftlk-dab489ef",
+    "num": "dailyftlk-dab489ef",
     "date_str": "2025-11-18",
-    "description": "Smallholders locked out, imports locked in: The case to end Palm Oil ban",
-    "url_metadata": "https://www.ft.lk/columns/Smallholders-locked-out-imports-locked-in-The-case-to-end-Palm-Oil-ban/4-784438",
+    "description": "Lanka Spa Association sets new standards for wellness and spa industry",
+    "url_metadata": "https://www.ft.lk/business/Lanka-Spa-Association-sets-new-standards-for-wellness-and-spa-industry/34-784444",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763407292.0
+    "time_ut": 1763409575.0
   }
 }
