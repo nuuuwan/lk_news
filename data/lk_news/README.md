@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_06:30:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_07:14:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,001** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,002** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-17-dailyftlk-e655b8e0",
-    "num": "dailyftlk-e655b8e0",
+    "doc_id": "2025-11-17-dailyftlk-5e61d0ff",
+    "num": "dailyftlk-5e61d0ff",
     "date_str": "2025-11-17",
-    "description": "JVP/NPP Govt. abusing public funds for political advantage",
-    "url_metadata": "https://www.ft.lk/columns/JVP-NPP-Govt-abusing-public-funds-for-political-advantage/4-784422",
+    "description": "War against polythene: Recycling is the  best long run solution",
+    "url_metadata": "https://www.ft.lk/columns/War-against-polythene-Recycling-is-the-best-long-run-solution/4-784423",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763340337.0
+    "time_ut": 1763340769.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-17 | `dailyftlk-5e61d0ff` | War against polythene: Recycling is the  best long run solution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-5e61d0ff)
 - 2025-11-17 | `dailyftlk-e655b8e0` | JVP/NPP Govt. abusing public funds for political advantage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-e655b8e0)
 - 2025-11-17 | `dailyftlk-a80e9c31` | Throwing good taxpayer money after bad | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-a80e9c31)
 - 2025-11-17 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-3a015e4a)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-17 | `virakesarilk-beefece2` | வாக்குறுதிகள் நிறைவேற்றப்படவில்லை; 21ஆம் தேதி நுகேகொடையில் ஒன்றுகூட அழைப்பு – நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-beefece2)
 - 2025-11-17 | `virakesarilk-72354b44` | “பெருந்தோட்ட கம்பெனிகளுடன் அரசின் டீல் உள்ளது: தொழிலாளர்களுக்கு உரிய பலன் வழங்க வேண்டும் – அஜித் பி. பெரேரா” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-72354b44)
 - 2025-11-17 | `virakesarilk-0fcf01b6` | அமெரிக்கா–இலங்கை பாதுகாப்பு ஒப்பந்தம்: நாட்டின் பாதுகாப்புக்கு அச்சுறுத்தல் என உதய கம்மன்பில | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-0fcf01b6)
-- 2025-11-17 | `virakesarilk-cae517dd` | வரவு-செலவு திட்டத்தில் தீர்வுகள் வழங்கப்படாமையால், தொழிற்சங்க நடவடிக்கையில் ஈடுபட தீர்மானித்தோம் - வைத்தியர் பிரபாத் சுகததாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-cae517dd)
 
 ---
 
