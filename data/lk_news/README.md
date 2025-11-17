@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_02:48:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_03:16:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,203** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,209** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-18-dailyftlk-26085aee",
-    "num": "dailyftlk-26085aee",
+    "doc_id": "2025-11-18-virakesarilk-49f4ddfa",
+    "num": "virakesarilk-49f4ddfa",
     "date_str": "2025-11-18",
-    "description": "David Pieris Logistics acquires Logicare in Rs. 1.3 b deal from Ceylon Tea Brokers",
-    "url_metadata": "https://www.ft.lk/business/David-Pieris-Logistics-acquires-Logicare-in-Rs-1-3-b-deal-from-Ceylon-Tea-Brokers/34-784466",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1763413465.0
+    "description": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba8\u0bbe\u0bb3\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b8e\u0bae\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0bb5\u0bcd\u0bb5\u0bbf\u0ba4 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 - \u0b9a\u0bbf\u0bb1\u0bc1 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0ba8\u0bbf\u0bae\u0bb2\u0bcd \u0b89\u0b9f\u0bc1\u0b95\u0bae\u0bcd\u0baa\u0bca\u0bb2",
+    "url_metadata": "https://www.virakesari.lk/article/230631",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1763414400.0
 }
 ```
 
@@ -41,9 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-18 | `virakesarilk-49f4ddfa` | புதிய நாள் சம்பளம் குறித்து எமக்கு எவ்வித அறிவிப்பும் இல்லை - சிறு தேயிலை தோட்ட அபிவிருத்தி அதிகாரசபையின் தலைவர் நிமல் உடுகம்பொல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-49f4ddfa)
+- 2025-11-18 | `tamilmirrorlk-742c7a89` | வெளிநாட்டு பெண்ணுக்கு ஆணுறுப்பை காட்டிய மற்றுமொரு  இளைஞன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-742c7a89)
+- 2025-11-18 | `virakesarilk-47a4da1f` | தேயிலை ஏற்றுமதி வருமானத்தை 2030இல் 2.5 பில்லியன் டொலர் வரை அதிகரிப்பதற்கு எதிர்பார்க்கப்படுகிறது - சிறு தேயிலை தோட்ட அபிவிருத்தி அதிகாரசபை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-47a4da1f)
+- 2025-11-18 | `virakesarilk-99252227` | மூன்று அமைச்சுகளுக்கான நிதி ஒதுக்கீடுகள் 80 வாக்குகள் பெரும்பான்மையுடன் அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-99252227)
 - 2025-11-18 | `dailyftlk-26085aee` | David Pieris Logistics acquires Logicare in Rs. 1.3 b deal from Ceylon Tea Brokers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-26085aee)
 - 2025-11-18 | `dailyftlk-6441b5b1` | Teejay Group maintains stability amid global headwinds in 1H 2025/26 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-6441b5b1)
 - 2025-11-18 | `dailyftlk-de9e1655` | ICC Asia Pacific leaders converge in Singapore for 2nd RCG Meeting 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-de9e1655)
+- 2025-11-18 | `virakesarilk-6b245b65` | 350 வகையான மருந்துகளின் விலையை குறைக்க நடவடிக்கை - வைத்தியர் ஆனந்த விஜேவிக்ரம | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-6b245b65)
+- 2025-11-18 | `virakesarilk-414e4a08` | வடக்கு–கிழக்கு அபிவிருத்திக்கு விசேட கவனம்: பலாலி விமான நிலையம் மற்றும் காங்கேசன்துறை துறைமுகம் இந்திய ஒத்துழைப்புடன் மேம்படுத்தப்படவுள்ளது - விஜித்த ஹேரத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-414e4a08)
 - 2025-11-18 | `dailyftlk-b6fe7f3f` | Sri Lanka launches GEW 2025 with national unity and entrepreneurial spirit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-b6fe7f3f)
 - 2025-11-18 | `dailyftlk-1edb0b5e` | Sri Lanka–Saudi Arabia Business Council debuts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-1edb0b5e)
 - 2025-11-18 | `dailyftlk-c2510675` | Embassy in Belgium hosts “Country seminar on Sri Lanka” in Luxembourg | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-c2510675)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2025-11-18 | `dailyftlk-dab489ef` | Lanka Spa Association sets new standards for wellness and spa industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-dab489ef)
 - 2025-11-18 | `dailyftlk-cc0f561a` | Dismantling the case against decent wages in tea plantations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-cc0f561a)
 - 2025-11-18 | `dailyftlk-36c3a7cc` | Rebuilding nation on rails:  Eng. Rampala Memorial Oration calls for bold railway reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-36c3a7cc)
-- 2025-11-18 | `dailyftlk-48d4549f` | Unlocking economic constraints through Oil Palm cultivation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-48d4549f)
-- 2025-11-18 | `dailyftlk-71b50f29` | Smallholders locked out, imports locked in: The case to end Palm Oil ban | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-71b50f29)
-- 2025-11-17 | `lankadeepalk-399d9ba5` | ගුවන්තොටුපොළේ අතහැර ගිය බෑගයේ කෝටි 11 ක ගංජා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-lankadeepalk-399d9ba5)
-- 2025-11-17 | `virakesarilk-0585035c` | மீட்டியாகொட துப்பாக்கிச் சூட்டில் காயமடைந்த பெண் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-0585035c)
-- 2025-11-17 | `virakesarilk-919abedf` | நீங்கள் கேட்பவராகவும் நான் கொடுப்பவராகவும் இல்லாமல், நாம் அனைவரும் ஒன்றிணைந்து இந்த நாட்டைக் கட்டியெழுப்புவோம் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-919abedf)
-- 2025-11-17 | `virakesarilk-7e376469` | உள்ளூர் பெரிய வெங்காய விவசாயிகளின் பிரச்சினைகளைத் தீர்ப்பதற்கான நிரந்தர வேலைத்திட்டமொன்றை தயாரிப்பது குறித்து ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-7e376469)
 
 ---
 
