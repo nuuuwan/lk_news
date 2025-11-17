@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-17 09:09:31",
-  "n_docs": 87010,
+  "time_updated": "2025-11-17 09:31:12",
+  "n_docs": 87017,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 87010,
+  "n_docs_with_text": 87017,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-17",
-  "dataset_size": 1298181280,
+  "dataset_size": 1298246378,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-17-lankadeepalk-05a0aa99",
-    "num": "lankadeepalk-05a0aa99",
+    "doc_id": "2025-11-17-virakesarilk-efaa8c7c",
+    "num": "virakesarilk-efaa8c7c",
     "date_str": "2025-11-17",
-    "description": "\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba\u0d9c\u0dda \u0d9c\u0dd2\u0db1\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0d85\u0dc3\u0dcf\u0db0\u0dca\u200d\u0dba \u0dc0\u0dd6 \u0db8\u0dc0 \u0dbb\u0ddd\u0dc4\u0dbd\u0dda\u0daf\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0daf\u0dba\u0dab\u0dba\u0d9c-\u0d9c\u0db1-\u0dad\u0db6\u0db8\u0db1-\u0d85\u0dc3\u0db0\u0dba-\u0dc0-\u0db8\u0dc0-\u0dbb\u0dc4\u0dbd\u0daf-\u0db8\u0dbb\u0da7/101-683253",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1763350540.0
+    "description": "\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bbe\u0b9e\u0bcd\u0b9a\u0bc7\u0ba9\u0bc8 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1 : \u0b95\u0bca\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5\u0bbf\u0baf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/230535",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1763351580.0
   }
 }
