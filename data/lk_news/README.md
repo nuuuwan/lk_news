@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_03:16:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_03:47:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,209** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,212** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-18-virakesarilk-49f4ddfa",
-    "num": "virakesarilk-49f4ddfa",
+    "doc_id": "2025-11-18-dailyftlk-27b7711f",
+    "num": "dailyftlk-27b7711f",
     "date_str": "2025-11-18",
-    "description": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba8\u0bbe\u0bb3\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b8e\u0bae\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0bb5\u0bcd\u0bb5\u0bbf\u0ba4 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 - \u0b9a\u0bbf\u0bb1\u0bc1 \u0ba4\u0bc7\u0baf\u0bbf\u0bb2\u0bc8 \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0ba8\u0bbf\u0bae\u0bb2\u0bcd \u0b89\u0b9f\u0bc1\u0b95\u0bae\u0bcd\u0baa\u0bca\u0bb2",
-    "url_metadata": "https://www.virakesari.lk/article/230631",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1763414400.0
+    "description": "Saudi Post issues stamp to mark 50th anniversary of diplomatic relations with SL",
+    "url_metadata": "https://www.ft.lk/news/Saudi-Post-issues-stamp-to-mark-50th-anniversary-of-diplomatic-relations-with-SL/56-784482",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1763416487.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-18 | `dailyftlk-27b7711f` | Saudi Post issues stamp to mark 50th anniversary of diplomatic relations with SL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-27b7711f)
+- 2025-11-18 | `dailyftlk-df410aca` | Colombo High Court indicts Keheliya Rambukwella and family | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-df410aca)
+- 2025-11-18 | `dailyftlk-73be4f38` | Rasika Peiris assumes duties as new Commissioner General of Elections | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-73be4f38)
 - 2025-11-18 | `virakesarilk-49f4ddfa` | புதிய நாள் சம்பளம் குறித்து எமக்கு எவ்வித அறிவிப்பும் இல்லை - சிறு தேயிலை தோட்ட அபிவிருத்தி அதிகாரசபையின் தலைவர் நிமல் உடுகம்பொல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-49f4ddfa)
 - 2025-11-18 | `tamilmirrorlk-742c7a89` | வெளிநாட்டு பெண்ணுக்கு ஆணுறுப்பை காட்டிய மற்றுமொரு  இளைஞன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-742c7a89)
 - 2025-11-18 | `virakesarilk-47a4da1f` | தேயிலை ஏற்றுமதி வருமானத்தை 2030இல் 2.5 பில்லியன் டொலர் வரை அதிகரிப்பதற்கு எதிர்பார்க்கப்படுகிறது - சிறு தேயிலை தோட்ட அபிவிருத்தி அதிகாரசபை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-47a4da1f)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-18 | `dailyftlk-2d5fc663` | Panasian Power connects sixth 5MW solar plant  to national grid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-2d5fc663)
 - 2025-11-18 | `dailyftlk-381dfb3d` | Senthilverl ups stake in Serendib Land to 38.3% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-381dfb3d)
 - 2025-11-18 | `dailyftlk-8d7fa598` | UNDP and Hirdaramani Apparel sign MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-8d7fa598)
-- 2025-11-18 | `dailyftlk-dab489ef` | Lanka Spa Association sets new standards for wellness and spa industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-dab489ef)
-- 2025-11-18 | `dailyftlk-cc0f561a` | Dismantling the case against decent wages in tea plantations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-cc0f561a)
-- 2025-11-18 | `dailyftlk-36c3a7cc` | Rebuilding nation on rails:  Eng. Rampala Memorial Oration calls for bold railway reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-36c3a7cc)
 
 ---
 
