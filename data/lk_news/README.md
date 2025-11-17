@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_06:02:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_06:30:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**86,997** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,001** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-17-dailyftlk-8cf82c35",
-    "num": "dailyftlk-8cf82c35",
+    "doc_id": "2025-11-17-dailyftlk-e655b8e0",
+    "num": "dailyftlk-e655b8e0",
     "date_str": "2025-11-17",
-    "description": "Healing founder\u2019s rift: Turning family conflict into lasting continuity",
-    "url_metadata": "https://www.ft.lk/columns/Healing-founder-s-rift-Turning-family-conflict-into-lasting-continuity/4-784418",
+    "description": "JVP/NPP Govt. abusing public funds for political advantage",
+    "url_metadata": "https://www.ft.lk/columns/JVP-NPP-Govt-abusing-public-funds-for-political-advantage/4-784422",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763339178.0
+    "time_ut": 1763340337.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-17 | `dailyftlk-e655b8e0` | JVP/NPP Govt. abusing public funds for political advantage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-e655b8e0)
+- 2025-11-17 | `dailyftlk-a80e9c31` | Throwing good taxpayer money after bad | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-a80e9c31)
+- 2025-11-17 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-3a015e4a)
+- 2025-11-17 | `dailyftlk-98d476d9` | Removing trading activities from VAT and limiting SSCL only to non-VAT registrants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-98d476d9)
 - 2025-11-17 | `dailyftlk-8cf82c35` | Healing founder’s rift: Turning family conflict into lasting continuity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-8cf82c35)
 - 2025-11-17 | `dailyftlk-6ead63b4` | Design beyond glamour: Mercedes -Benz Fashion Week Sri Lanka 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-6ead63b4)
 - 2025-11-17 | `dailyftlk-dd7ae077` | Telesonic puts Sri Lanka on global map | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-dailyftlk-dd7ae077)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-17 | `virakesarilk-72354b44` | “பெருந்தோட்ட கம்பெனிகளுடன் அரசின் டீல் உள்ளது: தொழிலாளர்களுக்கு உரிய பலன் வழங்க வேண்டும் – அஜித் பி. பெரேரா” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-72354b44)
 - 2025-11-17 | `virakesarilk-0fcf01b6` | அமெரிக்கா–இலங்கை பாதுகாப்பு ஒப்பந்தம்: நாட்டின் பாதுகாப்புக்கு அச்சுறுத்தல் என உதய கம்மன்பில | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-0fcf01b6)
 - 2025-11-17 | `virakesarilk-cae517dd` | வரவு-செலவு திட்டத்தில் தீர்வுகள் வழங்கப்படாமையால், தொழிற்சங்க நடவடிக்கையில் ஈடுபட தீர்மானித்தோம் - வைத்தியர் பிரபாத் சுகததாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-cae517dd)
-- 2025-11-17 | `virakesarilk-32e007dd` | கடைசி ஒருநாள் போட்டியிலும் இலங்கையை வெற்றிகொண்ட பாகிஸ்தான் தொடரை முழுமையாக (3 - 0) கைப்பற்றியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-17-virakesarilk-32e007dd)
-- 2025-11-16 | `virakesarilk-2510c428` | ரணில்  22 மாதங்களில் 24வெளிநாட்டு பயணங்கள் : 1007,346 மில்லியன் ரூபா செலவாகியுள்ளது - நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-2510c428)
-- 2025-11-16 | `virakesarilk-a148ee83` | இந்தியா செல்கிறார்  சிறிதரன் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-a148ee83)
-- 2025-11-16 | `virakesarilk-596f2cb3` | காலி முகத்திடலில் கடலில் குளித்துக் கொண்டிருந்த இளைஞர் ஒருவர் நீரில் மூழ்கி உயிரிழந்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-16-virakesarilk-596f2cb3)
 
 ---
 
