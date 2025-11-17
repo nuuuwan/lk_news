@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-17 07:14:06",
-  "n_docs": 87002,
+  "time_updated": "2025-11-17 08:17:12",
+  "n_docs": 87005,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 87002,
+  "n_docs_with_text": 87005,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-17",
-  "dataset_size": 1298048200,
+  "dataset_size": 1298102674,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-17-dailyftlk-5e61d0ff",
-    "num": "dailyftlk-5e61d0ff",
+    "doc_id": "2025-11-17-lankadeepalk-85f6a134",
+    "num": "lankadeepalk-85f6a134",
     "date_str": "2025-11-17",
-    "description": "War against polythene: Recycling is the  best long run solution",
-    "url_metadata": "https://www.ft.lk/columns/War-against-polythene-Recycling-is-the-best-long-run-solution/4-784423",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1763340769.0
+    "description": "\u0dad\u0dd0\u0db1\u0dd2\u0db1\u0dca \u0dad\u0dd0\u0db1\u0da7 \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dad\u0db1\u0db1-\u0dad\u0db1\u0da7-\u0dad\u0daf-\u0dc0\u0dc3/101-683251",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1763344368.0
   }
 }
