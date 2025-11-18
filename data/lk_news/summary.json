@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-19 01:48:24",
-  "n_docs": 87463,
+  "time_updated": "2025-11-19 03:47:26",
+  "n_docs": 87472,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 87463,
+  "n_docs_with_text": 87472,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-19",
-  "dataset_size": 1305573418,
+  "dataset_size": 1305664545,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-19-dailyftlk-92f08db2",
-    "num": "dailyftlk-92f08db2",
+    "doc_id": "2025-11-19-dailyftlk-8af4d52a",
+    "num": "dailyftlk-8af4d52a",
     "date_str": "2025-11-19",
-    "description": "Communist Party on Budget 2026 says \u2018technocratic continuity in populist garb\u2019",
-    "url_metadata": "https://www.ft.lk/opinion/Communist-Party-on-Budget-2026-says-technocratic-continuity-in-populist-garb/14-784510",
+    "description": "President rules out racist politics, defends justice probes and security crackdown",
+    "url_metadata": "https://www.ft.lk/news/President-rules-out-racist-politics-defends-justice-probes-and-security-crackdown/56-784533",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763495676.0
+    "time_ut": 1763498703.0
   }
 }
