@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_11:19:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_11:49:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,274** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,292** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-18-lankadeepalk-2158aea3",
-    "num": "lankadeepalk-2158aea3",
+    "doc_id": "2025-11-18-virakesarilk-36a9048d",
+    "num": "virakesarilk-36a9048d",
     "date_str": "2025-11-18",
-    "description": "\u0dc3\u0dca\u0dc0\u0dcf\u0db8\u0dd3\u0db1\u0dca \u0dc0\u0dc4\u0db1\u0dca\u0dc3\u0dda\u0dbd\u0dcf\u0da7 \u0d9c\u0dd4\u0da7\u0dd2 \u0db6\u0dd0\u0da7 \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba\u0da7 \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0db1\u0dd1",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc3\u0dc0\u0db8\u0db1-\u0dc0\u0dc4\u0db1\u0dc3\u0dbd\u0da7-\u0d9c\u0da7-\u0db6\u0da7-\u0daf\u0db1\u0db1-\u0db4\u0dbd\u0dc3\u0dba\u0da7-\u0d85\u0dba\u0dad\u0dba\u0d9a-\u0db1/101-683348",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1763443844.0
+    "description": "\u0b90\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/230662",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1763445960.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-18 | `virakesarilk-36a9048d` | ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-36a9048d)
+- 2025-11-18 | `adalk-7d07ec1c` | ලංකා මිල්ක් ෆුඩ්ස් නවතම නිෂ්පාදනය ’’සුද්දි’’ එළිදකී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-adalk-7d07ec1c)
+- 2025-11-18 | `virakesarilk-570365d8` | இலங்கைக்கு கடத்த முயன்ற ஐஸ் போதைப்பொருள் கைப்பற்றல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-570365d8)
+- 2025-11-18 | `virakesarilk-56cb8115` | சாமர சம்பத் தசநாயக்கவுக்கு எதிரான வழக்கு மீதான விசாரணை ஜனவரி மாதம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-56cb8115)
+- 2025-11-18 | `virakesarilk-d43aa10c` | மசாஜ் நிலையத்தில் ஐஸ் போதைப்பொருள் விற்பனை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-d43aa10c)
+- 2025-11-18 | `virakesarilk-eaf5c593` | விமான நிலைய சுங்க கிடங்கில் ரூ.110 மில்லியன் மதிப்புள்ள போதைப்பொருளுடன் சூட்கேஸ் கைப்பற்றல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-eaf5c593)
+- 2025-11-18 | `virakesarilk-69bd0c58` | நாடளாவிய ரீதியில் சுற்றிவளைப்பு ; பலர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-69bd0c58)
+- 2025-11-18 | `virakesarilk-31eddb40` | எவல்யூஷன் ஆட்டோ, பல்வகை வர்த்தக நாம மின்சார வாகன காட்சியறையை அதிகாரப்பூர்வமாக திறந்து வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-31eddb40)
 - 2025-11-18 | `lankadeepalk-2158aea3` | ස්වාමීන් වහන්සේලාට ගුටි බැට දෙන්න පොලිසියට අයිතියක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-2158aea3)
 - 2025-11-18 | `tamilmirrorlk-4e960fc7` | முச்சக்கரவண்டி ​வேன் விபத்தில்;ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-4e960fc7)
 - 2025-11-18 | `tamilmirrorlk-9ef6e43a` | கைவிடப்பட்ட பையில் 110 மில்லியன் மதிப்புள்ள கஞ்சா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-9ef6e43a)
+- 2025-11-18 | `virakesarilk-1f36d20c` | நாம் இனவாதத்தை வெறுக்கின்றோம் - இராமலிங்கம் சந்திரசேகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-1f36d20c)
+- 2025-11-18 | `virakesarilk-73c1ac50` | கரையொதுங்கிய போதைப்பொருள் பொதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-73c1ac50)
+- 2025-11-18 | `virakesarilk-1f48ee21` | போதைப்பொருள் கடத்தலுடன் தொடர்புடைய தம்பதியினர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-1f48ee21)
+- 2025-11-18 | `virakesarilk-6bff6234` | 8 மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-6bff6234)
+- 2025-11-18 | `virakesarilk-b623ecdd` | இந்துமா சமுத்திரத்தில் புதிய இராணுவ நகர்வு ; இலங்கை - அமெரிக்க பாதுகாப்பு ஒப்பந்தமும் புவிசார் அரசியல் சவால்களும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-b623ecdd)
 - 2025-11-18 | `lankadeepalk-6d35b3ad` | ලංකාවේ ආයෝජනයට විදේශ සමාගම් 150 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-6d35b3ad)
 - 2025-11-18 | `lankadeepalk-31ac7629` | පොලිසියට කැබ්  200ක්  යතුරුපැදි 750ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-31ac7629)
 - 2025-11-18 | `tamilmirrorlk-dcb26dc0` | ஜனாதிபதிக்கு சஜித் அதிரடி ஆலோசனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-dcb26dc0)
 - 2025-11-18 | `lankadeepalk-b3975d61` | බෙන්තොට වෙරළෙන් මත්ද්‍රව්‍ය මතුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-b3975d61)
-- 2025-11-18 | `tamilmirrorlk-22c58145` | மின்சார சபை ஊழியர்களாக நடித்து வீட்டில் கொள்ளை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-22c58145)
-- 2025-11-18 | `tamilmirrorlk-4326ca02` | சபரிமலையில் பக்தர்களுக்கு புதிய தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-4326ca02)
-- 2025-11-18 | `tamilmirrorlk-53cc65b1` | கடற்கரையில் கரை ஒதுங்கிய போதைப்பொருள் பொதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-53cc65b1)
-- 2025-11-18 | `tamilmirrorlk-08e4964d` | கரை ஒதுங்கிய போதைப்பொருள் பொதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-08e4964d)
-- 2025-11-18 | `tamilmirrorlk-9b31fa0c` | மார்பக அறுவை சிகிச்சை செய்து கொண்டது ஏன்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-9b31fa0c)
-- 2025-11-18 | `tamilmirrorlk-f2b1d7ed` | “அரச எதிர்ப்பு பேரணியில், தமிழ் முற்போக்கு கூட்டணி கலந்து கொள்ளாது” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-f2b1d7ed)
-- 2025-11-18 | `tamilmirrorlk-e7e66400` | திருகோணமலை புத்தர் சிலை: ஜனாதிபதிக்கு அதிரடி கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-e7e66400)
-- 2025-11-18 | `tamilmirrorlk-c3e2c7d2` | குடும்பத் தகராறு மனைவி படுகொலை: கணவன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-c3e2c7d2)
-- 2025-11-18 | `virakesarilk-33fd7719` | சீதுவையில் மசாஜ் நிலையம் என்ற போர்வையில் விபச்சார விடுதி - ஐவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-33fd7719)
-- 2025-11-18 | `tamilmirrorlk-6912b37c` | மீட்டியாகொட துப்பாக்கிச் சூடு ; மோட்டார் சைக்கிள் சிக்கியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-6912b37c)
-- 2025-11-18 | `virakesarilk-4873191b` | பிரதான மார்க்கத்தில் ரயில் சேவைகள் தாமதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-4873191b)
-- 2025-11-18 | `tamilmirrorlk-311f5a16` | மனைவி மரணம்  : கணவரை தேடும் பணிகள் தீவிரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-311f5a16)
-- 2025-11-18 | `lankadeepalk-05921269` | ප්‍රා.ලේ.කො. 30කට නාය අනතුරු ඇඟවීම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-05921269)
 
 ---
 
