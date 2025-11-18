@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_07:15:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_08:17:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,236** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,241** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-18-lankadeepalk-a3dea504",
-    "num": "lankadeepalk-a3dea504",
+    "doc_id": "2025-11-18-tamilmirrorlk-f495bc87",
+    "num": "tamilmirrorlk-f495bc87",
     "date_str": "2025-11-18",
-    "description": "\u0d9a\u0db1\u0dca\u0daf\u0dd9\u0db4\u0dd4\u0dc4\u0dd4\u0dbd\u0dca\u0db4\u0ddc\u0dc5 \u0d94\u0dba\u0dda \u0d85\u0db9\u0dd4 \u0dc3\u0dd0\u0db8\u0dd2 \u0dba\u0dd4\u0dc0\u0dc5 \u0d9c\u0dc3\u0dcf\u0d9c\u0dd9\u0db1 \u0dba\u0dad\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0db1\u0daf\u0db4\u0dc4\u0dbd\u0db4\u0dc5-\u0d94\u0dba-\u0d85\u0db9-\u0dc3\u0db8-\u0dba\u0dc0\u0dc5-\u0d9c\u0dc3\u0d9c\u0db1-\u0dba\u0dad/101-683334",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1763429498.0
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 100 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf \u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0bae\u0bb4\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-100-\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf-\u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd-\u0bae\u0bb4\u0bc8/175-368089",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1763433343.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-18 | `tamilmirrorlk-f495bc87` | இன்று 100 மில்லி மீற்றர் மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-f495bc87)
+- 2025-11-18 | `tamilmirrorlk-f7ece4a7` | 500  சதவீத கூடுதல் வரி விதிப்பு: ட்ரம்ப் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-f7ece4a7)
+- 2025-11-18 | `lankadeepalk-7652caf3` | දනහිස්  වේදනාවට නිවසේදී කළ  හැකි පිළියම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-7652caf3)
 - 2025-11-18 | `lankadeepalk-a3dea504` | කන්දෙපුහුල්පොළ ඔයේ අඹු සැමි යුවළ ගසාගෙන යති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-a3dea504)
 - 2025-11-18 | `lankadeepalk-2d87685a` | ප්‍රදේශ රැසකට අද තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-2d87685a)
 - 2025-11-18 | `virakesarilk-bde8452d` | நாளை ஜனாதிபதியை சந்திக்கிறது தமிழரசுக்கட்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-bde8452d)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-18 | `virakesarilk-47a4da1f` | தேயிலை ஏற்றுமதி வருமானத்தை 2030இல் 2.5 பில்லியன் டொலர் வரை அதிகரிப்பதற்கு எதிர்பார்க்கப்படுகிறது - சிறு தேயிலை தோட்ட அபிவிருத்தி அதிகாரசபை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-47a4da1f)
 - 2025-11-18 | `virakesarilk-99252227` | மூன்று அமைச்சுகளுக்கான நிதி ஒதுக்கீடுகள் 80 வாக்குகள் பெரும்பான்மையுடன் அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-99252227)
 - 2025-11-18 | `dailyftlk-26085aee` | David Pieris Logistics acquires Logicare in Rs. 1.3 b deal from Ceylon Tea Brokers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-26085aee)
-- 2025-11-18 | `dailyftlk-6441b5b1` | Teejay Group maintains stability amid global headwinds in 1H 2025/26 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-6441b5b1)
-- 2025-11-18 | `dailyftlk-de9e1655` | ICC Asia Pacific leaders converge in Singapore for 2nd RCG Meeting 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-de9e1655)
-- 2025-11-18 | `virakesarilk-6b245b65` | 350 வகையான மருந்துகளின் விலையை குறைக்க நடவடிக்கை - வைத்தியர் ஆனந்த விஜேவிக்ரம | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-6b245b65)
 
 ---
 
