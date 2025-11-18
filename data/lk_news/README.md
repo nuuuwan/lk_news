@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_21:20:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_21:52:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,426** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,439** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-18-lankadeepalk-6ad1ae54",
-    "num": "lankadeepalk-6ad1ae54",
+    "doc_id": "2025-11-18-lankadeepalk-6d89a00a",
+    "num": "lankadeepalk-6d89a00a",
     "date_str": "2025-11-18",
-    "description": "\u0dad\u0dca\u200d\u0dbb\u0dd2\u2019\u0db8\u0dbd\u0dda \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba \u0d9c\u0dd0\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0d9a\u0dd0\u0db3\u0dc0\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dad\u0dbb\u0db8\u0dbd-\u0dc3\u0daf\u0db0\u0dba-\u0d9c\u0db1-\u0da2\u0db1\u0db4\u0dad-\u0dc0\u0dbb\u0dad\u0dc0\u0d9a-\u0d9a\u0db3\u0dc0\u0dba/1-683398",
+    "description": "\u0dad\u0d82\u0d9c\u0dbd\u0dca\u0dbd\u0dda \u0dc0\u0dd9\u0da9\u0dd2\u0d9a\u0dca\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0d86 \u0dba\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dd0\u0daf\u0dd2\u0dba \u0dc3\u0ddc\u0dba\u0dcf \u0d9c\u0db1\u0dd3",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dad\u0d9c\u0dbd\u0dbd-\u0dc0\u0da9\u0d9a\u0d9a\u0dbb\u0dc0\u0db1-\u0d86-\u0dba\u0dad\u0dbb-\u0db4\u0daf\u0dba-\u0dc3\u0dba-\u0d9c\u0db1/101-683401",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1763480294.0
+    "time_ut": 1763481376.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-18 | `lankadeepalk-6d89a00a` | තංගල්ලේ වෙඩික්කරුවන් ආ යතුරු පැදිය සොයා ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-6d89a00a)
+- 2025-11-18 | `lankadeepalk-f9fcf11d` | උඩරට මාර්ගයේ දුම්රිය ධාවනය යථාතත්වයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-f9fcf11d)
+- 2025-11-18 | `lankadeepalk-35d4708b` | ජනපති පාර්ලිමේන්තු ඇවිත් ’’පොඩි හනුමා’’ සොයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-35d4708b)
 - 2025-11-18 | `lankadeepalk-6ad1ae54` | ත්‍රි’මලේ සිද්ධිය ගැන ජනපති වාර්තාවක් කැඳවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-6ad1ae54)
 - 2025-11-18 | `lankadeepalk-2a6f83aa` | අමාත්‍යංශ දෙකක වැය ශීර්ෂ වැඩි ඡන්දයෙන් සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-2a6f83aa)
+- 2025-11-18 | `virakesarilk-850853c9` | தாய்லாந்திடம்  இலங்கை  அடைந்த தோல்விக்கான பொறுப்பை ஏற்பதாக பயிற்றுநர் அப்துல்லா கூறுகிறார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-850853c9)
 - 2025-11-18 | `tamilmirrorlk-381a5024` | தங்காலையில் இருவர் சுட்டுக் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-381a5024)
 - 2025-11-18 | `lankadeepalk-60228ed1` | වෙඩි පහරින් අඹු සැමි යුවළ මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-60228ed1)
 - 2025-11-18 | `lankadeepalk-3708a048` | වෙඩි පහරින් අඹුසැමි යුවල මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-3708a048)
 - 2025-11-18 | `virakesarilk-e74c4dee` | தங்காலை, உனகுருவாவில் துப்பாக்கிச் சூட்டில் தம்பதியினர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-e74c4dee)
 - 2025-11-18 | `lankadeepalk-4c7e16b3` | වැවට ගිය සෙබළාගේ මළ  සිරුර හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-4c7e16b3)
+- 2025-11-18 | `virakesarilk-cfae9aee` | இந்தியா - ரஷ்யா உறவுகள் உலக நலனுக்கு முக்கியமானது - இந்திய வெளியுறவுத்துறை அமைச்சர் ஜெய்சங்கர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-cfae9aee)
+- 2025-11-18 | `virakesarilk-78e7c498` | ஏன் சாரா ஜெஸ்மினை பிடிப்பதற்கு சிவப்பு பிடிவிராந்து விடுக்காமல் இருக்கிறது? – முஜிபுர் ரஹ்மான் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-78e7c498)
+- 2025-11-18 | `virakesarilk-163885c2` | உள்நாட்டு உருளைக்கிழங்கு விவசாயிகளின் பிரச்சினைகளைத் தீர்க்க குறுகிய, மத்திய, நீண்டகாலத் திட்டங்கள் உருவாக்கப்படும் - கே.டீ. லால்காந்த | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-163885c2)
 - 2025-11-18 | `tamilmirrorlk-5b80ba51` | திருகோணமலை  புத்தர் சிலை பிரச்சினை  முடிந்துள்ளது: ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-5b80ba51)
+- 2025-11-18 | `virakesarilk-7adb700f` | டக்ளஸ் தேவானந்தா உருவாக்கிய குடியேற்றங்களே திருமலையை பாதுகாக்கிறது - ஈ.பி.டி.பி. சுட்டிக்காட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-7adb700f)
+- 2025-11-18 | `virakesarilk-099932c6` | அஸ்வெசும நலன்புரி சலுகைகள் திட்டம், அதன் நடைமுறைகள், பிரச்சினைகள் குறித்து அரசாங்கம் கவனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-099932c6)
+- 2025-11-18 | `virakesarilk-822a9b7c` | பிரான்ஸிடமிருந்து 100 ரபேல் போர் விமானங்களை வாங்கும் உக்ரைன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-822a9b7c)
 - 2025-11-18 | `tamilmirrorlk-5f79bd58` | புலிகளின் தலைவர்களும் போதைப்பொருள் விற்றனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-5f79bd58)
 - 2025-11-18 | `virakesarilk-96c718c4` | சண்முக பாண்டியன் விஜயகாந்த்தின் 'கொம்பு சீவி' படத்திற்காக கரம் கோர்த்த இசைஞானி - யுவன் சங்கர் ராஜா கூட்டணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-96c718c4)
-- 2025-11-18 | `virakesarilk-48553097` | பொங்கல் வெளியீட்டை உறுதி செய்த சிவ கார்த்திகேயனின் பராசக்தி படக் குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-48553097)
-- 2025-11-18 | `lankadeepalk-f295d342` | වෘත්තීය ආරක්ෂණ පනත සංශෝධනයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-f295d342)
-- 2025-11-18 | `virakesarilk-37158182` | நடிகர் சர்வானந்த் நடிக்கும் ' பைக்கர்' படத்தின் அறிமுக காணொளி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-37158182)
-- 2025-11-18 | `lankadeepalk-dc37f2b6` | චාමර මාසයක් ගොළු වෙන්න ඔට්ටුවක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-dc37f2b6)
-- 2025-11-18 | `lankadeepalk-7351bf2e` | සත්ව මස් සමඟ කපුවා අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-7351bf2e)
-- 2025-11-18 | `virakesarilk-cf4ab50e` | மாணவியை பாலியல் துஷ்பிரயோகம் செய்த ஆசிரியருக்கு விளக்கமறியல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-cf4ab50e)
-- 2025-11-18 | `virakesarilk-dbe935ec` | இந்திய துணைத் தூதுவர் - மஹிந்த ராஜபக்ஷ இடையில் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-dbe935ec)
-- 2025-11-18 | `virakesarilk-6de79f4d` | நாம் பெருமையடைகின்றோம் - அமெரிக்கத்தூதர் ஜூலி சங் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-6de79f4d)
-- 2025-11-18 | `virakesarilk-0a0fda3d` | லெபனான் எல்லையில் இஸ்ரேலின் பாதுகாப்புச் சுவர் - அகற்றுமாறு ஐ.நா. வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-0a0fda3d)
-- 2025-11-18 | `virakesarilk-4d25d0ee` | இளங்குமரன் எம்.பி உள்ளிடவர்களுக்கு எதிராக நீதிமன்ற அவமதிப்பு வழக்கு விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-4d25d0ee)
 
 ---
 
