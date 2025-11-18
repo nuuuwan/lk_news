@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_01:15:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_01:49:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,460** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,463** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-19-dailyftlk-66f9798c",
-    "num": "dailyftlk-66f9798c",
+    "doc_id": "2025-11-19-dailyftlk-92f08db2",
+    "num": "dailyftlk-92f08db2",
     "date_str": "2025-11-19",
-    "description": "The National Budget is IMF influenced, so what? Do we have a choice?",
-    "url_metadata": "https://www.ft.lk/columns/The-National-Budget-is-IMF-influenced-so-what-Do-we-have-a-choice/4-784505",
+    "description": "Communist Party on Budget 2026 says \u2018technocratic continuity in populist garb\u2019",
+    "url_metadata": "https://www.ft.lk/opinion/Communist-Party-on-Budget-2026-says-technocratic-continuity-in-populist-garb/14-784510",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763494518.0
+    "time_ut": 1763495676.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-19 | `dailyftlk-92f08db2` | Communist Party on Budget 2026 says ‘technocratic continuity in populist garb’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-dailyftlk-92f08db2)
+- 2025-11-19 | `dailyftlk-bcb94b40` | Open letter to AKD on Budget 2026, investments and growth optimisation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-dailyftlk-bcb94b40)
+- 2025-11-19 | `dailyftlk-5ed071b4` | Kachchativu: Time for fresh perspective | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-dailyftlk-5ed071b4)
 - 2025-11-19 | `dailyftlk-66f9798c` | The National Budget is IMF influenced, so what? Do we have a choice? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-dailyftlk-66f9798c)
 - 2025-11-19 | `dailyftlk-b4c9e50b` | 50 years of nourishing a nation: How Bairaha defined Sri Lanka’s poultry industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-dailyftlk-b4c9e50b)
 - 2025-11-19 | `dailyftlk-0c65fc7c` | Unseen and undervalued: Sri Lanka’s SMEs fight to stay in the game | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-dailyftlk-0c65fc7c)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-18 | `lankadeepalk-35d4708b` | ජනපති පාර්ලිමේන්තු ඇවිත් ’’පොඩි හනුමා’’ සොයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-35d4708b)
 - 2025-11-18 | `lankadeepalk-6ad1ae54` | ත්‍රි’මලේ සිද්ධිය ගැන ජනපති වාර්තාවක් කැඳවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-6ad1ae54)
 - 2025-11-18 | `lankadeepalk-2a6f83aa` | අමාත්‍යංශ දෙකක වැය ශීර්ෂ වැඩි ඡන්දයෙන් සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-2a6f83aa)
-- 2025-11-18 | `virakesarilk-850853c9` | தாய்லாந்திடம்  இலங்கை  அடைந்த தோல்விக்கான பொறுப்பை ஏற்பதாக பயிற்றுநர் அப்துல்லா கூறுகிறார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-850853c9)
-- 2025-11-18 | `tamilmirrorlk-381a5024` | தங்காலையில் இருவர் சுட்டுக் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-381a5024)
-- 2025-11-18 | `lankadeepalk-60228ed1` | වෙඩි පහරින් අඹු සැමි යුවළ මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-60228ed1)
 
 ---
 
