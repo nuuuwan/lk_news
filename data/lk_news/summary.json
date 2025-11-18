@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-18 15:47:53",
-  "n_docs": 87374,
+  "time_updated": "2025-11-18 16:20:04",
+  "n_docs": 87381,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 87374,
+  "n_docs_with_text": 87381,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-18",
-  "dataset_size": 1303746628,
+  "dataset_size": 1303865543,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-18-lankadeepalk-2b543ab8",
-    "num": "lankadeepalk-2b543ab8",
+    "doc_id": "2025-11-18-lankadeepalk-f3931c4e",
+    "num": "lankadeepalk-f3931c4e",
     "date_str": "2025-11-18",
-    "description": "\u0db6\u0d82\u0d9a\u0ddc\u0dbd\u0ddc\u0dad\u0dca \u0dbb\u0da7 \u0dc4\u0dd0\u0daf\u0dd4\u0dc0 \u0dc0\u0d9c\u0dda \u0dbb\u0da7\u0dda \u0db1\u0dd3\u0dad\u0dd2\u0dba\u0dad\u0dca \u0dc4\u0daf\u0db1\u0dc0\u0dcf",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db6\u0d9a\u0dbd\u0dad-\u0dbb\u0da7-\u0dc4\u0daf\u0dc0-\u0dc0\u0d9c-\u0dbb\u0da7-\u0db1\u0dad\u0dba\u0dad-\u0dc4\u0daf\u0db1\u0dc0/1-683381",
+    "description": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0dda \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0db1\u0dca\u0da7\u0dad\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0 \u0d95\u0db1\u0dd1",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d86\u0dab\u0da9\u0dc0-\u0db8\u0db1\u0dad\u0dbb\u0db1\u0da7\u0dad-\u0d86\u0dbb\u0d9a\u0dc2\u0dc0-\u0d95\u0db1/101-683386",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1763460118.0
+    "time_ut": 1763462781.0
   }
 }
