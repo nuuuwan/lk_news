@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_09:06:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_09:27:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,248** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,250** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-18-tamilmirrorlk-2b9f4810",
-    "num": "tamilmirrorlk-2b9f4810",
+    "doc_id": "2025-11-18-tamilmirrorlk-311f5a16",
+    "num": "tamilmirrorlk-311f5a16",
     "date_str": "2025-11-18",
-    "description": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95-\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd-\u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd/175-368090",
+    "description": "\u0bae\u0ba9\u0bc8\u0bb5\u0bbf \u0bae\u0bb0\u0ba3\u0bae\u0bcd  : \u0b95\u0ba3\u0bb5\u0bb0\u0bc8 \u0ba4\u0bc7\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bc0\u0bb5\u0bbf\u0bb0\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba9\u0bc8\u0bb5\u0bbf-\u0bae\u0bb0\u0ba3\u0bae\u0bcd-\u0b95\u0ba3\u0bb5\u0bb0\u0bc8-\u0ba4\u0bc7\u0b9f\u0bc1\u0bae\u0bcd-\u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0ba4\u0bc0\u0bb5\u0bbf\u0bb0\u0bae\u0bcd/175-368091",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1763435076.0
+    "time_ut": 1763437483.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-18 | `tamilmirrorlk-311f5a16` | மனைவி மரணம்  : கணவரை தேடும் பணிகள் தீவிரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-311f5a16)
+- 2025-11-18 | `lankadeepalk-05921269` | ප්‍රා.ලේ.කො. 30කට නාය අනතුරු ඇඟවීම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-05921269)
 - 2025-11-18 | `tamilmirrorlk-2b9f4810` | அரசாங்க மருத்துவ அதிகாரிகள் சங்கத்துடன் ஜனாதிபதி கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-2b9f4810)
 - 2025-11-18 | `virakesarilk-8181dc30` | மன்னாரில் கேரள கஞ்சாவுடன் இரு சந்தேகநபர்கள் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-8181dc30)
 - 2025-11-18 | `virakesarilk-77faa8ee` | மனைவியை கொலை செய்துவிட்டு கணவன் உயிர் மாய்க்க முயற்சி : வாகரையில் சம்பவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-77faa8ee)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-18 | `virakesarilk-25fa245c` | திருகோணமலை புத்தர் சிலை விவகாரம்: அரசியல் தலையீட்டில் கவலை – பிரதி அமைச்சர் அருண் ஹேமச்சந்திரா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-25fa245c)
 - 2025-11-18 | `virakesarilk-ead7d2b7` | வெளிநாட்டில் பணிபுரிபவர்களின் கடவுச்சீட்டு புதுப்பிப்பில் தாமதம்: நடவடிக்கை எடுக்க வேண்டும் – காதர் மஸ்தான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-ead7d2b7)
 - 2025-11-18 | `dailyftlk-27b7711f` | Saudi Post issues stamp to mark 50th anniversary of diplomatic relations with SL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-27b7711f)
-- 2025-11-18 | `dailyftlk-df410aca` | Colombo High Court indicts Keheliya Rambukwella and family | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-df410aca)
-- 2025-11-18 | `dailyftlk-73be4f38` | Rasika Peiris assumes duties as new Commissioner General of Elections | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-dailyftlk-73be4f38)
 
 ---
 
