@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_18:29:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_18:56:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,415** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,417** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-18-virakesarilk-96c718c4",
-    "num": "virakesarilk-96c718c4",
+    "doc_id": "2025-11-18-tamilmirrorlk-5b80ba51",
+    "num": "tamilmirrorlk-5b80ba51",
     "date_str": "2025-11-18",
-    "description": "\u0b9a\u0ba3\u0bcd\u0bae\u0bc1\u0b95 \u0baa\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0ba9\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0b95\u0bbe\u0ba8\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd '\u0b95\u0bca\u0bae\u0bcd\u0baa\u0bc1 \u0b9a\u0bc0\u0bb5\u0bbf' \u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bb0\u0bae\u0bcd \u0b95\u0bcb\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0b87\u0b9a\u0bc8\u0b9e\u0bbe\u0ba9\u0bbf - \u0baf\u0bc1\u0bb5\u0ba9\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bb0\u0bcd \u0bb0\u0bbe\u0b9c\u0bbe \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf",
-    "url_metadata": "https://www.virakesari.lk/article/230741",
+    "description": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8  \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd \u0b9a\u0bbf\u0bb2\u0bc8 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8  \u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1: \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8-\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd-\u0b9a\u0bbf\u0bb2\u0bc8-\u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8-\u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/150-368133",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1763470380.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1763471641.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-18 | `tamilmirrorlk-5b80ba51` | திருகோணமலை  புத்தர் சிலை பிரச்சினை  முடிந்துள்ளது: ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-5b80ba51)
+- 2025-11-18 | `tamilmirrorlk-5f79bd58` | புலிகளின் தலைவர்களும் போதைப்பொருள் விற்றனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-tamilmirrorlk-5f79bd58)
 - 2025-11-18 | `virakesarilk-96c718c4` | சண்முக பாண்டியன் விஜயகாந்த்தின் 'கொம்பு சீவி' படத்திற்காக கரம் கோர்த்த இசைஞானி - யுவன் சங்கர் ராஜா கூட்டணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-96c718c4)
 - 2025-11-18 | `virakesarilk-48553097` | பொங்கல் வெளியீட்டை உறுதி செய்த சிவ கார்த்திகேயனின் பராசக்தி படக் குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-48553097)
 - 2025-11-18 | `lankadeepalk-f295d342` | වෘත්තීය ආරක්ෂණ පනත සංශෝධනයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-f295d342)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-18 | `virakesarilk-736e383b` | ரஷ்யாவுடன் வர்த்தகத்தில் ஈடுபடும் எந்த நாட்டின் மீதும் அமெரிக்கா பொருளாதார தடை விதிக்கும் - ட்ரம்ப் மிரட்டல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-736e383b)
 - 2025-11-18 | `virakesarilk-a6d71678` | ஊசி மூலம் உடலில் போதைப்பொருளை ஏற்றும் வியாபாரத்தில் ஈடுபட்ட கும்பல் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-a6d71678)
 - 2025-11-18 | `lankadeepalk-5988d260` | අල්ලස් ගත් මිනුම්දෝරුවකුගේ ඇප විසි වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-5988d260)
-- 2025-11-18 | `lankadeepalk-957df5c8` | මිනිසුන් එකතු කරන්න හැකියාව තියෙන්නේ අධ්‍යාපනයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-lankadeepalk-957df5c8)
-- 2025-11-18 | `virakesarilk-b28c0be0` | மக்களை அரசியல், சமூக மற்றும் பொருளாதார ரீதியாக ஒன்றிணைக்கும் ஆற்றல் கல்விக்கே இருக்கின்றது - பிரதமர் ஹரிணி அமரசூரிய | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-18-virakesarilk-b28c0be0)
 
 ---
 
