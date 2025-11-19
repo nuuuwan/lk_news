@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-19 23:48:30",
-  "n_docs": 87676,
+  "time_updated": "2025-11-20 00:23:43",
+  "n_docs": 87682,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 87676,
+  "n_docs_with_text": 87682,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-19",
-  "dataset_size": 1309706833,
+  "dataset_size": 1309739778,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-19-adalk-ff9619ff",
-    "num": "adalk-ff9619ff",
+    "doc_id": "2025-11-19-dailyftlk-49d82cd5",
+    "num": "dailyftlk-49d82cd5",
     "date_str": "2025-11-19",
-    "description": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d9c\u0dd0\u0dbb\u0dd6 \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4 \u0dc0\u0dbb\u0d9a\u0dcf\u0db4\u0ddc\u0dbd\u0daf\u0dd3 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd0\u0db1\u0da9\u0dcf-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d9c\u0dd0\u0dbb\u0dd6-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4-\u0dc0\u0dbb\u0d9a\u0dcf\u0db4\u0ddc\u0dbd\u0daf\u0dd3-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-419767",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1763571264.0
+    "description": "MAS wins multiple honours at National Cleaner Production Awards 2025",
+    "url_metadata": "https://www.ft.lk/business/MAS-wins-multiple-honours-at-National-Cleaner-Production-Awards-2025/34-784550",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1763575852.0
   }
 }
