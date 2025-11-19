@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_04:17:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_04:47:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,687** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,696** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-20-tamilmirrorlk-ab721a30",
-    "num": "tamilmirrorlk-ab721a30",
+    "doc_id": "2025-11-20-dailyftlk-ff0e8b40",
+    "num": "dailyftlk-ff0e8b40",
     "date_str": "2025-11-20",
-    "description": "\u0b95\u0bc2\u0bb0\u0bbf\u0baf \u0b86\u0baf\u0bc1\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0b95\u0bca\u0bb2\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc2\u0bb0\u0bbf\u0baf-\u0b86\u0baf\u0bc1\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0b95\u0bca\u0bb2\u0bc8/175-368208",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1763590199.0
+    "description": "SC grants leave to proceed in BASL fundamental rights case on ragging death",
+    "url_metadata": "https://www.ft.lk/news/SC-grants-leave-to-proceed-in-BASL-fundamental-rights-case-on-ragging-death/56-784588",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1763593442.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-20 | `dailyftlk-ff0e8b40` | SC grants leave to proceed in BASL fundamental rights case on ragging death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-ff0e8b40)
+- 2025-11-20 | `dailyftlk-c0f3c1b3` | Nations Trust WNPS monthly lecture today explores  climate change and AI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-c0f3c1b3)
+- 2025-11-20 | `dailyftlk-bd92e0ae` | Green gram purchasing initiative gets Rs. 764 m boost | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-bd92e0ae)
+- 2025-11-20 | `dailyftlk-dce798ec` | Govt. updates driving licence levy for foreigners and foreign licence-holders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-dce798ec)
+- 2025-11-20 | `dailyftlk-6d89e5e1` | Rocell takes home Gold Award at Sri Lanka National Quality Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-6d89e5e1)
+- 2025-11-20 | `dailyftlk-c818bc15` | Emigrate workers’ trade fair today with varieties of products at Diyatha Uyana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-c818bc15)
+- 2025-11-20 | `dailyftlk-1affc0a1` | Leading brands bag top awards at 11th CMA Sri Lanka Excellence in Integrated Reporting Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-1affc0a1)
+- 2025-11-20 | `dailyftlk-d54901cd` | Viet Nam explores cooperation opportunities with Northern Province | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-d54901cd)
+- 2025-11-20 | `dailyftlk-503eb2ae` | EDB hosts inward EU delegation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-503eb2ae)
 - 2025-11-20 | `tamilmirrorlk-ab721a30` | கூரிய ஆயுதத்தால் தாக்கி இளைஞன் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-ab721a30)
 - 2025-11-20 | `dailyftlk-09e09d5c` | Level playing field for Maize: Securing future of poultry industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-09e09d5c)
 - 2025-11-20 | `dailyftlk-4c29591e` | Oman exploring avenues to deepen economic ties with Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-4c29591e)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2025-11-19 | `adalk-ff9619ff` | කැනඩා රැකියා පෙන්වා මුදල් ගැරූ සැකකරු වරකාපොලදී කොටුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-adalk-ff9619ff)
 - 2025-11-19 | `adalk-704e2cf7` | 21දා ආණ්ඩුවේ ආවසානය  ආරම්භ කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-adalk-704e2cf7)
 - 2025-11-19 | `adalk-be7f0acd` | සමාජ ආරක්ෂණ දායකත්ව හා ඔට්ටු ඇල්ලීම සහ සූදු බදු පනත් සඳහා මුදල් පිළිබඳ කාරක සභාවේ අනුමතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-adalk-be7f0acd)
-- 2025-11-19 | `lankadeepalk-1b7ee1ae` | කොටහේන ඝාතනයේ වෙඩික්කරු අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-1b7ee1ae)
-- 2025-11-19 | `lankadeepalk-a088e404` | මෙම වසරේ මේ දක්වා වෙඩිතැබීම් 107ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-a088e404)
-- 2025-11-19 | `lankadeepalk-ed8b733a` | සමාජ ආරක්ෂණ සූදු බදු පනත්වලට මුදල් සභාවේ අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-ed8b733a)
-- 2025-11-19 | `virakesarilk-2f9ee093` | நமிபியாவிலும் ஸிம்பாப்வேயிலும் 19 வயதின்கீழ் ஆண்களுக்கான உலகக் கிண்ணம் : சி  குழுவில் இலங்கை, அட்டவணை வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-2f9ee093)
-- 2025-11-19 | `tamilmirrorlk-8f7e7e83` | ”வடக்கு ,கிழக்கு மக்களின் பிரச்சினைகளுக்கு புதிய அரசியல் தீர்வொன்று அவசியம்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-tamilmirrorlk-8f7e7e83)
-- 2025-11-19 | `virakesarilk-777192fc` | வடக்கு, கிழக்கு மக்களின் பிரச்சினைகளுக்கு புதிய அரசியல் தீர்வொன்று அவசியம் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-777192fc)
-- 2025-11-19 | `lankadeepalk-16d15991` | ලෝක පිරිමින්ගේ දිනය (International Men’s Day - IMD) අදයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-16d15991)
-- 2025-11-19 | `lankadeepalk-4bc16fe2` | උතුරු නැගෙනහිර ගැටලු වලට නව දේශපාලන විසඳුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-4bc16fe2)
-- 2025-11-19 | `lankadeepalk-9c62cc44` | රාජ්‍ය පරිපාලන වැය ශීර්ෂය සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-9c62cc44)
 
 ---
 
