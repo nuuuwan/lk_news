@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_22:23:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_22:47:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,674** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,676** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-19-adalk-be7f0acd",
-    "num": "adalk-be7f0acd",
+    "doc_id": "2025-11-19-adalk-ff9619ff",
+    "num": "adalk-ff9619ff",
     "date_str": "2025-11-19",
-    "description": "\u0dc3\u0db8\u0dcf\u0da2 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0daf\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0 \u0dc4\u0dcf \u0d94\u0da7\u0dca\u0da7\u0dd4 \u0d87\u0dbd\u0dca\u0dbd\u0dd3\u0db8 \u0dc3\u0dc4 \u0dc3\u0dd6\u0daf\u0dd4 \u0db6\u0daf\u0dd4 \u0db4\u0db1\u0dad\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0d9a\u0dcf\u0dbb\u0d9a \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0d85\u0db1\u0dd4\u0db8\u0dad\u0dd2\u0dba",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0db8\u0dcf\u0da2-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dab-\u0daf\u0dcf\u0dba\u0d9a\u0dad\u0dca\u0dc0-\u0dc4\u0dcf-\u0d94\u0da7\u0dca\u0da7\u0dd4-\u0d87\u0dbd\u0dca\u0dbd\u0dd3\u0db8-\u0dc3\u0dc4-\u0dc3\u0dd6\u0daf\u0dd4-\u0db6\u0daf\u0dd4-\u0db4\u0db1\u0dad\u0dca-\u0dc3\u0db3\u0dc4\u0dcf-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3-\u0d9a\u0dcf\u0dbb\u0d9a-\u0dc3\u0db7\u0dcf\u0dc0\u0dda-\u0d85\u0db1\u0dd4\u0db8\u0dad\u0dd2\u0dba/11-419765",
+    "description": "\u0d9a\u0dd0\u0db1\u0da9\u0dcf \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0d9c\u0dd0\u0dbb\u0dd6 \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4 \u0dc0\u0dbb\u0d9a\u0dcf\u0db4\u0ddc\u0dbd\u0daf\u0dd3 \u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd0\u0db1\u0da9\u0dcf-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0d9c\u0dd0\u0dbb\u0dd6-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4-\u0dc0\u0dbb\u0d9a\u0dcf\u0db4\u0ddc\u0dbd\u0daf\u0dd3-\u0d9a\u0ddc\u0da7\u0dd4\u0dc0\u0dd9\u0dba\u0dd2/11-419767",
     "lang": "si",
     "newspaper_id": "adalk",
-    "time_ut": 1763570332.0
+    "time_ut": 1763571264.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-19 | `adalk-ff9619ff` | කැනඩා රැකියා පෙන්වා මුදල් ගැරූ සැකකරු වරකාපොලදී කොටුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-adalk-ff9619ff)
+- 2025-11-19 | `adalk-704e2cf7` | 21දා ආණ්ඩුවේ ආවසානය  ආරම්භ කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-adalk-704e2cf7)
 - 2025-11-19 | `adalk-be7f0acd` | සමාජ ආරක්ෂණ දායකත්ව හා ඔට්ටු ඇල්ලීම සහ සූදු බදු පනත් සඳහා මුදල් පිළිබඳ කාරක සභාවේ අනුමතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-adalk-be7f0acd)
 - 2025-11-19 | `lankadeepalk-1b7ee1ae` | කොටහේන ඝාතනයේ වෙඩික්කරු අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-1b7ee1ae)
 - 2025-11-19 | `lankadeepalk-a088e404` | මෙම වසරේ මේ දක්වා වෙඩිතැබීම් 107ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-a088e404)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-19 | `virakesarilk-c40ced93` | எல்லைகளைக் கையகப்படுத்த மத அடையாளங்களைப் பயன்படுத்துவது கண்டனத்துக்குரியது - கனடியத் தமிழர் பேரவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-c40ced93)
 - 2025-11-19 | `virakesarilk-c1e425f4` | போதைப்பொருள், பாதாள கும்பல்களுக்கு எதிராக நடவடிக்கை எடுக்கும்போது எதிர்க்கட்சியினர் மண்ணெண்ணெய் பட்ட சாரைப்பாம்பு போல் கலக்கமடைகிறார்கள் -  மஹிந்த ஜயசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-c1e425f4)
 - 2025-11-19 | `virakesarilk-b43b9acc` | தகவலறியும் உரிமைச் சட்டத்தில் திருத்தங்கள் தேவையில்லை ; ஆணைக்குழு முகங்கொடுக்கும் சிக்கல்களை அகற்றுவது மிக முக்கியமானது - சமூக நீதிக்கான தேசிய இயக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-b43b9acc)
-- 2025-11-19 | `virakesarilk-83c4376c` | ஜனாதிபதியை சந்தித்து இலங்கை தமிழ் அரசுக் கட்சி பேசிய விடயங்கள் என்ன? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-83c4376c)
-- 2025-11-19 | `adalk-3b58d929` | රුසියාවෙන් යුක්රේනයට ප්‍රහාරයක් - 20ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-adalk-3b58d929)
 
 ---
 
