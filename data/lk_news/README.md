@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_06:02:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_06:31:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,494** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,495** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A collection of lk_news documents.
 - 2025-11-19 | `virakesarilk-0d26b601` | காணி விடுவிப்பில் ஆளும் தரப்பு தமிழ் பிரதிநிதிகள் மௌனம் - சாணக்கியன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-0d26b601)
 - 2025-11-19 | `virakesarilk-e136de83` | மருந்துகள் உள்ளிட்ட அனைத்து வசதிகளையும் வழங்க அரசாங்கம் துரிதமாக நடவடிக்கை எடுக்கவேண்டும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-e136de83)
 - 2025-11-19 | `virakesarilk-a220e66b` | 120 கிலோ கிராமுக்கும் அதிகளவான போதைப்பொருள் அடங்கிய 3 பொதிகள் கடற்படையினரால் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-a220e66b)
+- 2025-11-19 | `tamilmirrorlk-7052d607` | ’திருகோணமலை விவகாரம் இனவாதமாக மாற்றப்பட்டுள்ளது’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-tamilmirrorlk-7052d607)
 - 2025-11-19 | `tamilmirrorlk-c31e9a29` | ’உயிர்த்த ஞாயிறு தாக்குதலுக்கு கடவுளின் சாபம் கிடைக்கும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-tamilmirrorlk-c31e9a29)
 - 2025-11-19 | `tamilmirrorlk-3478a83e` | ’’கடற்படை முகாமைஅகற்றவேண்டாமென மக்கள் கோருகின்றனர்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-tamilmirrorlk-3478a83e)
 - 2025-11-19 | `dailyftlk-8af4d52a` | President rules out racist politics, defends justice probes and security crackdown | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-dailyftlk-8af4d52a)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-19 | `virakesarilk-326d997f` | பாதுகாப்பு மற்றும் பொது மக்கள் பாதுகாப்பு அமைச்சுகளுக்கான நிதி ஒதுக்கீடுகள் 92 வாக்கு பெரும்பான்மையுடன் அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-326d997f)
 - 2025-11-19 | `virakesarilk-9ff7e43b` | ரணிலின் சட்டத்தரணிகள், சட்டமா அதிபருடன் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-9ff7e43b)
 - 2025-11-19 | `dailyftlk-92f08db2` | Communist Party on Budget 2026 says ‘technocratic continuity in populist garb’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-dailyftlk-92f08db2)
-- 2025-11-19 | `dailyftlk-bcb94b40` | Open letter to AKD on Budget 2026, investments and growth optimisation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-dailyftlk-bcb94b40)
 
 ---
 
