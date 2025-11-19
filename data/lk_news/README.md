@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_09:07:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_09:27:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,508** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,513** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-19-tamilmirrorlk-364b2d3a",
-    "num": "tamilmirrorlk-364b2d3a",
+    "doc_id": "2025-11-19-lankadeepalk-2c32563f",
+    "num": "lankadeepalk-2c32563f",
     "date_str": "2025-11-19",
-    "description": "\u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb1\u0bcd\u0baa\u0b95\u0bb2\u0bbf\u0bb2\u0bcd-\u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bc2\u0b9f\u0bbf\u0baf-\u0bae\u0bb4\u0bc8-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd/175-368156",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1763522853.0
+    "description": "\u0d9a\u0dd9\u0dc3\u0dd9\u0dbd\u0dca\u0d9c\u0db8\u0dd4 \u0d94\u0dba \u0db4\u0dd2\u0da7\u0dcf\u0dbb \u0d9c\u0dbd\u0dcf \u0db4\u0dc4\u0dad\u0dca\u0db6\u0dd2\u0db8\u0dca \u0dba\u0da7\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dc3\u0dbd\u0d9c\u0db8-\u0d94\u0dba-\u0db4\u0da7\u0dbb-\u0d9c\u0dbd-\u0db4\u0dc4\u0dad\u0db6\u0db8-\u0dba\u0da7\u0dc0\u0dba/1-683410",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1763524149.0
 }
 ```
 
@@ -41,7 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-19 | `lankadeepalk-2c32563f` | කෙසෙල්ගමු ඔය පිටාර ගලා පහත්බිම් යටවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-2c32563f)
 - 2025-11-19 | `tamilmirrorlk-364b2d3a` | பிற்பகலில் இடியுடன் கூடிய மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-tamilmirrorlk-364b2d3a)
+- 2025-11-19 | `virakesarilk-fb4e915d` | மலையக ரயில் சேவை பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-fb4e915d)
 - 2025-11-19 | `tamilmirrorlk-9d6d9149` | பேரணி குறித்து மஹிந்த வெளியிட்ட திடீர் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-tamilmirrorlk-9d6d9149)
 - 2025-11-19 | `tamilmirrorlk-bedceb97` | மலையகத்திற்கான ரயில் சேவைகள் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-tamilmirrorlk-bedceb97)
 - 2025-11-19 | `lankadeepalk-d3250e2c` | රනාලේ කඩදාසි කම්හලක ගින්නක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-d3250e2c)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-19 | `tamilmirrorlk-3478a83e` | ’’கடற்படை முகாமைஅகற்றவேண்டாமென மக்கள் கோருகின்றனர்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-tamilmirrorlk-3478a83e)
 - 2025-11-19 | `dailyftlk-8af4d52a` | President rules out racist politics, defends justice probes and security crackdown | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-dailyftlk-8af4d52a)
 - 2025-11-19 | `dailyftlk-debeca6d` | Govt. moves to abolish MP pensions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-dailyftlk-debeca6d)
-- 2025-11-19 | `dailyftlk-3e6d9cac` | Govt. earmarks over Rs. 21 b for nine new health projects as part of 2026 public investment push | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-dailyftlk-3e6d9cac)
-- 2025-11-19 | `tamilmirrorlk-21b90094` | ’தேசியப் பாதுகாப்புடன் தொடர்புடைய காணிகளை ஒருபோதும் விடுவிக்காதீர்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-tamilmirrorlk-21b90094)
 
 ---
 
