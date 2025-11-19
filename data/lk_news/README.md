@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_03:15:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_03:47:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,686** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,687** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-20-dailyftlk-09e09d5c",
-    "num": "dailyftlk-09e09d5c",
+    "doc_id": "2025-11-20-tamilmirrorlk-ab721a30",
+    "num": "tamilmirrorlk-ab721a30",
     "date_str": "2025-11-20",
-    "description": "Level playing field for Maize: Securing future of poultry industry",
-    "url_metadata": "https://www.ft.lk/columns/Level-playing-field-for-Maize-Securing-future-of-poultry-industry/4-784561",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1763586571.0
+    "description": "\u0b95\u0bc2\u0bb0\u0bbf\u0baf \u0b86\u0baf\u0bc1\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0b95\u0bca\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc2\u0bb0\u0bbf\u0baf-\u0b86\u0baf\u0bc1\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0b95\u0bca\u0bb2\u0bc8/175-368208",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1763590199.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-20 | `tamilmirrorlk-ab721a30` | கூரிய ஆயுதத்தால் தாக்கி இளைஞன் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-ab721a30)
 - 2025-11-20 | `dailyftlk-09e09d5c` | Level playing field for Maize: Securing future of poultry industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-09e09d5c)
 - 2025-11-20 | `dailyftlk-4c29591e` | Oman exploring avenues to deepen economic ties with Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-4c29591e)
 - 2025-11-20 | `dailyftlk-47749195` | Budget and inclusive development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-47749195)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-19 | `lankadeepalk-16d15991` | ලෝක පිරිමින්ගේ දිනය (International Men’s Day - IMD) අදයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-16d15991)
 - 2025-11-19 | `lankadeepalk-4bc16fe2` | උතුරු නැගෙනහිර ගැටලු වලට නව දේශපාලන විසඳුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-4bc16fe2)
 - 2025-11-19 | `lankadeepalk-9c62cc44` | රාජ්‍ය පරිපාලන වැය ශීර්ෂය සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-9c62cc44)
-- 2025-11-19 | `virakesarilk-de620226` | மாகாண சபை தேர்தலை நடத்த அரசு விசேட சட்டமூலத்தை பாராளுமன்றத்துக்கு சமர்ப்பித்தால், அதற்கு எதிர்க்கட்சிகள் ஆதரவளிக்கும் - சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-de620226)
 
 ---
 
