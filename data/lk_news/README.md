@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_17:50:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_18:28:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,631** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,632** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,7 @@ A collection of lk_news documents.
 - 2025-11-19 | `lankadeepalk-8b375ee4` | පැන්ෂන් කැපුවොත් නඩු දානවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-8b375ee4)
 - 2025-11-19 | `lankadeepalk-69e0e423` | විශ්‍රාමිකයන්ගේ විරෝධතාවයට දයාසිරිත් එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-69e0e423)
 - 2025-11-19 | `tamilmirrorlk-4e46022e` | திருமலை புத்தர்:  “இரு தரப்புக்கும்   தொடர்பே இல்லை” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-tamilmirrorlk-4e46022e)
+- 2025-11-19 | `adalk-7bfa1525` | බදුල්ල රාත්‍රී තැපැල් දුම්රිය අවලංගු කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-adalk-7bfa1525)
 - 2025-11-19 | `lankadeepalk-8186da2c` | උඩරට මාර්ගයේ තැපැල් දුම්රිය දෙකක් අවලංගු කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-8186da2c)
 - 2025-11-19 | `tamilmirrorlk-2d9a17f7` | ‘21’க்கு  ‘20’ போட்டி: சானக்க குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-tamilmirrorlk-2d9a17f7)
 - 2025-11-19 | `lankadeepalk-db1b878c` | ලංකා- ඇමරිකා ආරක්ෂක ගිවිසුම පාර්ලිමේන්තුවට දෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-db1b878c)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-19 | `tamilmirrorlk-8f9b91dc` | ‘கை’யில் கைகளை உயர்த்திய எண்மருக்கு சிக்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-tamilmirrorlk-8f9b91dc)
 - 2025-11-19 | `virakesarilk-9074031b` | திருட்டு சம்பவத்துடன் தொடர்புடைய தேவாலய பூசாரி கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-9074031b)
 - 2025-11-19 | `lankadeepalk-6a1100f7` | ටිරාන්ට  එරෙහිව අල්ලස් කොමිසමට පැමිණිල්ලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-6a1100f7)
-- 2025-11-19 | `lankadeepalk-96679d5d` | විශ්‍රාමිකයෝ පොල්දූවේ විරෝධතාවයේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-96679d5d)
 
 ---
 
