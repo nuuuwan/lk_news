@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_15:48:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_16:20:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,613** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,617** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-19-virakesarilk-134b85c1",
-    "num": "virakesarilk-134b85c1",
+    "doc_id": "2025-11-19-lankadeepalk-89ad9ab1",
+    "num": "lankadeepalk-89ad9ab1",
     "date_str": "2025-11-19",
-    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/230813",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1763547000.0
+    "description": "\u0d9a\u0db8\u0dca\u0d9a\u0dbb\u0dd4 \u0d8b\u0db4\u0daf\u0dda\u0dc1\u0db1 \u0dc3\u0db7\u0dcf\u0dc0 \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0dba \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0db8\u0d9a\u0dbb-\u0d8b\u0db4\u0daf\u0dc1\u0db1-\u0dc3\u0db7\u0dc0-\u0dc3\u0d9a\u0dbb\u0dba-\u0dc0\u0dba/101-683478",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1763548647.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-19 | `lankadeepalk-89ad9ab1` | කම්කරු උපදේශන සභාව සක්‍රීය වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-89ad9ab1)
+- 2025-11-19 | `lankadeepalk-2ed6de9b` | රාජ්‍ය සේවා කොමිසමේ  වැඩක් නිසා අවුලක් වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-2ed6de9b)
+- 2025-11-19 | `lankadeepalk-31661c14` | ජපන් රැකියා සංචිතයක් හදයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-31661c14)
 - 2025-11-19 | `virakesarilk-134b85c1` | இந்திய கடற்படையின் போர் கப்பல் இலங்கையை வந்தடைந்தது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-134b85c1)
 - 2025-11-19 | `lankadeepalk-8c8d53c5` | අගතියට පත් විශ්‍රාමිකයන් වෙනුවෙන් උපරිම හඬ නගනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-8c8d53c5)
 - 2025-11-19 | `tamilmirrorlk-8f9b91dc` | ‘கை’யில் கைகளை உயர்த்திய எண்மருக்கு சிக்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-tamilmirrorlk-8f9b91dc)
@@ -55,12 +58,9 @@ A collection of lk_news documents.
 - 2025-11-19 | `lankadeepalk-bc6eb5b6` | සජබ මන්ත්‍රීලා තුනකට මැතිසබේ අලුත් පුටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-bc6eb5b6)
 - 2025-11-19 | `virakesarilk-8cf8d22d` | சங்ககிரி ராஜ்குமார் நடித்து இயக்கும்  'ஒன் மேன்' படத்தின் அறிமுக காணொளி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-8cf8d22d)
 - 2025-11-19 | `virakesarilk-86310d7a` | அறிமுக நடிகர் தக்ஷ் நடிக்கும் ' ஏ பியூட்டிஃபுல் பிரேக் அப் ' எனும் படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-86310d7a)
+- 2025-11-19 | `adalk-a03b3ea2` | විශේෂඥ වෛද්‍යවරුන්ගේ සේවා ව්‍යවස්ථාව කෙටුම්පත් කිරීමට කමිටුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-adalk-a03b3ea2)
 - 2025-11-19 | `virakesarilk-16c2eddb` | பொருளாதார நெருக்கடிக்குப்  பின்னர் வலுவான மீட்சி 20 இலட்சமாவது சுற்றுலாப் பயணி இலங்கை வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-16c2eddb)
 - 2025-11-19 | `virakesarilk-bedc4ade` | நாமல் ராஜபக்ஷ பட்டச் சான்றிதழ் தொடர்பில் சந்தேகங்கள் ; உண்மையை வெளிப்படுத்த வேண்டும் -  நளிந்த ஜயதிஸ்ஸ வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-bedc4ade)
-- 2025-11-19 | `lankadeepalk-6a30292d` | නාමල්ගේ නීති උපාධි සහතිකයට මැතිසබය ඇවිළෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-6a30292d)
-- 2025-11-19 | `lankadeepalk-bd3af7a4` | අස්වැසුමේ හිල් වහන්න මැතිසබා කමිටුවෙන්  නියෝගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-bd3af7a4)
-- 2025-11-19 | `lankadeepalk-918eb3d1` | ප්‍රජා ශක්ති කිලිනොච්චි යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-lankadeepalk-918eb3d1)
-- 2025-11-19 | `virakesarilk-048ceb2b` | 'சமூக சக்தி'  தேசிய திட்டத்தை செயல்படுத்துவதற்காக மாவட்ட மற்றும் பிரதேச செயலக அதிகாரிகளுக்கு பயிற்சி அளிக்கும் கிளிநொச்சி நிகழ்ச்சித் திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-19-virakesarilk-048ceb2b)
 
 ---
 
