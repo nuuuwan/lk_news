@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_10:20:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_10:47:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,727** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,729** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,6 +43,7 @@ A collection of lk_news documents.
 
 - 2025-11-20 | `tamilmirrorlk-d859e80b` | கொட்டாஞ்சேனை கூலி கொலையாளி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-d859e80b)
 - 2025-11-20 | `tamilmirrorlk-a3e559d0` | குஷ் போதைப்பொருளுடன் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-a3e559d0)
+- 2025-11-20 | `tamilmirrorlk-4023017d` | குஷூடன் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-4023017d)
 - 2025-11-20 | `tamilmirrorlk-149229bd` | 22 நிறுவனங்கள் தொடர்பான மத்திய வங்கியின் அறிவித்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-149229bd)
 - 2025-11-20 | `virakesarilk-7e7efafb` | மலையக ரயில் சேவைகள் தொடர்ந்து பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-7e7efafb)
 - 2025-11-20 | `virakesarilk-6a5f77c6` | பாடசாலை மாணவர்கள் மத்தியில் புகைபிடித்தல் அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-6a5f77c6)
@@ -52,6 +53,7 @@ A collection of lk_news documents.
 - 2025-11-20 | `virakesarilk-1d38513f` | கொட்டாஞ்சேனை துப்பாக்கிச் சூடு : சந்தேகநபர் ஐஸ் போதைப்பொருளுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-1d38513f)
 - 2025-11-20 | `tamilmirrorlk-bd0fb1bd` | 22ஆம் திகதி வங்காள விரிகுடாவில் ஏற்படப்போகும் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-bd0fb1bd)
 - 2025-11-20 | `lankadeepalk-051ec652` | වියානා ඇලෙන් හමු වූ මළ සිරුර ඝාතනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-051ec652)
+- 2025-11-20 | `adalk-444388ff` | අනියම් සැමියා සමග එකට වි සැමියා ඝාතනය කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-adalk-444388ff)
 - 2025-11-20 | `adalk-1241aeff` | එම්.අයි.17 හෙලිකොප්ටර් යානාවල ලංකාවේ පළමු පියාසර ඉංජිනේරුවරිය පූර්ණිමා අනුරංගි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-adalk-1241aeff)
 - 2025-11-20 | `virakesarilk-b35cf754` | திருகோணமலை புத்தர் சிலை விவகாரம் : நீதிமன்றம் வழங்கிய அதிரடி உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-b35cf754)
 - 2025-11-20 | `virakesarilk-a9875e7c` | இன்றைய வானிலை : வங்காள விரிகுடாவில் உருவாகின்றது தாழமுக்கம்  ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-a9875e7c)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-20 | `adalk-c2ce94b4` | කොටහේන ඝාතනයේ  වෙඩික්කරු අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-adalk-c2ce94b4)
 - 2025-11-20 | `lankadeepalk-07526fec` | ඉදිරි දිනවල කාලගුණයේ ලොකු වෙනසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-07526fec)
 - 2025-11-20 | `dailyftlk-ff0e8b40` | SC grants leave to proceed in BASL fundamental rights case on ragging death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-ff0e8b40)
-- 2025-11-20 | `dailyftlk-c0f3c1b3` | Nations Trust WNPS monthly lecture today explores  climate change and AI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-c0f3c1b3)
-- 2025-11-20 | `dailyftlk-bd92e0ae` | Green gram purchasing initiative gets Rs. 764 m boost | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-bd92e0ae)
 
 ---
 
