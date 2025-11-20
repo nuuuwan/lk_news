@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_00:25:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_00:47:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,881** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,885** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-20-lankadeepalk-21c4f687",
-    "num": "lankadeepalk-21c4f687",
+    "doc_id": "2025-11-20-virakesarilk-1e6bc87d",
+    "num": "virakesarilk-1e6bc87d",
     "date_str": "2025-11-20",
-    "description": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0db8\u0d9c\u0dd3\u0dc4\u0dd4 \u0db1\u0db1\u0dca\u0db1\u0dad\u0dca\u0dad\u0dcf\u0dbb \u0dc0\u0dd9\u0dad\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0daf\u0db8\u0dbb\u0dba-\u0db1\u0dad\u0dc0-\u0db8\u0d9c\u0dc4-\u0db1\u0db1\u0db1\u0dad\u0dad\u0dbb-\u0dc0\u0dad/101-683557",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1763657521.0
+    "description": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb0\u0bbf20\u0b87\u0bb2\u0bcd \u0bb8\u0bbf\u0bae\u0bcd\u0baa\u0bbe\u0baa\u0bcd\u0bb5\u0bc7\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bbf\u0b95 \u0bae\u0bcb\u0b9a\u0bae\u0bbe\u0ba9 \u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/230961",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1763661420.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-20 | `virakesarilk-1e6bc87d` | சர்வதேச ரி20இல் ஸிம்பாப்வேயிடம் இலங்கை மிக மோசமான தோல்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-1e6bc87d)
+- 2025-11-20 | `virakesarilk-9c02d257` | புல்மோட்டை கனிய மணல் கூட்டுத்தாபன ஊழியர்கள் கொட்டும் மழையில் சத்தியாக்கிரக போராட்டத்தில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-9c02d257)
 - 2025-11-20 | `lankadeepalk-21c4f687` | දුම්රිය නැතිව මගීහු නන්නත්තාර වෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-21c4f687)
 - 2025-11-20 | `virakesarilk-ae44dda9` | நோர்வோயில் இருந்து யாழ். வந்தவருக்கு எமனான கிணறு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-ae44dda9)
 - 2025-11-20 | `virakesarilk-98c2313d` | எரிபொருள்–மின்சார மாபியாவின் அடிமையாக அரசு மாறியுள்ளது – சஜித் பிரேமதாச குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-98c2313d)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-20 | `virakesarilk-9f55b90e` | யார் ஆட்சிக்கு வந்தாலும் பௌத்த சிங்களமயமாக்கல் தொடரும்! - யாழ். பல்கலைக்கழக மாணவர் ஒன்றியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-9f55b90e)
 - 2025-11-20 | `lankadeepalk-f88f4428` | ‘‘විස මතට හිත ගිය දේශපාලන පෙරමුණ පරාජය කරනවා‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-f88f4428)
 - 2025-11-20 | `virakesarilk-a77de578` | செவிப்புலனற்றோருக்கான விசேட சாரதி அனுமதிப் பத்திரம் வழங்கிவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-a77de578)
-- 2025-11-20 | `virakesarilk-98d14cf2` | பிரிமா 15 வயதின் கீழ் கிரிக்கெட்: கொழும்பு வடக்கு அணியை அதிரவைத்தது காலி அணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-98d14cf2)
-- 2025-11-20 | `virakesarilk-a1b5497e` | இதுவரை பதிவு செய்யப்படாத முதியோர் இல்லங்கள் 3 மாதகாலத்துக்குள் பதிவு செய்யப்பட வேண்டும் - யாழ். மாவட்ட அரசாங்க அதிபர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-a1b5497e)
 
 ---
 
