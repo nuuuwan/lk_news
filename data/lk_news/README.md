@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_18:08:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_18:28:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,848** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,849** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2025-11-20 | `lankadeepalk-dda018bc` | ගල්වලට සිවූ දුම්රිය එන්ජම උස්සයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-dda018bc)
+- 2025-11-20 | `lankadeepalk-2ba1e6f4` | ගල්වලට සිරවූ දුම්රිය එන්ජම උස්සයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-2ba1e6f4)
 - 2025-11-20 | `virakesarilk-e021f837` | சுற்றுச்சூழலை பேண பிரித்தானிய உயர்ஸ்தானிகராலயத்தினால் புதிய செயற்திட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-e021f837)
 - 2025-11-20 | `virakesarilk-40d6607f` | அம்மாவின் நகையை திருடிய குற்றச்சாட்டில் கைதான இளைஞன் தப்பியோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-40d6607f)
 - 2025-11-20 | `tamilmirrorlk-db040714` | மனைவியின் நிர்வாண வீ​டியோவை மைத்துனிக்கு அனுப்பிய கணவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-db040714)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-20 | `lankadeepalk-31c90b87` | ‘‘නුවරවැවෙන් යන්නම ඕන‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-31c90b87)
 - 2025-11-20 | `tamilmirrorlk-8a867375` | திரிபோஷாவுக்கு  தட்டுப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-8a867375)
 - 2025-11-20 | `lankadeepalk-a09d2f1a` | උඩරට තැපැල් දුම්රිය අදත් අවලංගු කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-a09d2f1a)
-- 2025-11-20 | `lankadeepalk-fe4a8201` | දරුවන්ගේ වෙනස් වීම් ගැන අවධානයෙන් ඉන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-fe4a8201)
 
 ---
 
