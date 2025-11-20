@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-20 05:15:23",
-  "n_docs": 87696,
+  "time_updated": "2025-11-20 06:02:10",
+  "n_docs": 87707,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 87696,
+  "n_docs_with_text": 87707,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-20",
-  "dataset_size": 1310052729,
+  "dataset_size": 1310117164,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-20-dailyftlk-ff0e8b40",
-    "num": "dailyftlk-ff0e8b40",
+    "doc_id": "2025-11-20-lankadeepalk-07526fec",
+    "num": "lankadeepalk-07526fec",
     "date_str": "2025-11-20",
-    "description": "SC grants leave to proceed in BASL fundamental rights case on ragging death",
-    "url_metadata": "https://www.ft.lk/news/SC-grants-leave-to-proceed-in-BASL-fundamental-rights-case-on-ragging-death/56-784588",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1763593442.0
+    "description": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0daf\u0dd2\u0db1\u0dc0\u0dbd \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0dda \u0dbd\u0ddc\u0d9a\u0dd4 \u0dc0\u0dd9\u0db1\u0dc3\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d89\u0daf\u0dbb-\u0daf\u0db1\u0dc0\u0dbd-\u0d9a\u0dbd\u0d9c\u0dab\u0dba-\u0dbd\u0d9a-\u0dc0\u0db1\u0dc3\u0d9a/1-683495",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1763598501.0
   }
 }
