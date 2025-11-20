@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_11:18:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_11:49:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,736** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,739** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-20-tamilmirrorlk-2e4b062a",
-    "num": "tamilmirrorlk-2e4b062a",
+    "doc_id": "2025-11-20-lankadeepalk-b72f5873",
+    "num": "lankadeepalk-b72f5873",
     "date_str": "2025-11-20",
-    "description": "\u0ba4\u0b9f\u0bc8\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bbf\u0bb0\u0bae\u0bbf\u0b9f\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd/\u0ba4\u0b9f\u0bc8\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0baa\u0bbf\u0bb0\u0bae\u0bbf\u0b9f\u0bcd-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd/47-368217",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1763617423.0
+    "description": "\u2018\u0dbb\u0da7\u0db8 \u0d91\u0d9a\u0da7\u2019 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8 \u0d85\u0daf \u0dad\u0d82\u0d9c\u0dbd\u0dca\u0dbd\u0dda\u0daf\u0dd3",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7\u0db8-\u0d91\u0d9a\u0da7-\u0da2\u0dad\u0d9a-\u0db8\u0dc4\u0dba\u0db8-\u0d85\u0daf-\u0dad\u0d9c\u0dbd\u0dbd\u0daf/1-683514",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1763619093.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-20 | `lankadeepalk-b72f5873` | ‘රටම එකට’ ජාතික මෙහෙයුම අද තංගල්ලේදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-b72f5873)
+- 2025-11-20 | `lankadeepalk-3cfd2f0a` | මත් සැකකරුවෝ 1065 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-3cfd2f0a)
 - 2025-11-20 | `tamilmirrorlk-2e4b062a` | தடைசெய்யப்பட்ட பிரமிட் திட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-2e4b062a)
 - 2025-11-20 | `lankadeepalk-fddff984` | කොල්ලකෑමක් සම්බන්ධයෙන් සුරාබදු කෝප්‍රල්වරු දෙන්නෙක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-fddff984)
 - 2025-11-20 | `adalk-b0e8ff42` | සාංගමික මූල්‍ය උපදේශක බලපත්‍රය ලත් ප්‍රථම රාජ්‍ය බැංකුව - මහජන බැංකුව | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-adalk-b0e8ff42)
@@ -58,9 +60,7 @@ A collection of lk_news documents.
 - 2025-11-20 | `virakesarilk-1d38513f` | கொட்டாஞ்சேனை துப்பாக்கிச் சூடு : சந்தேகநபர் ஐஸ் போதைப்பொருளுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-1d38513f)
 - 2025-11-20 | `tamilmirrorlk-bd0fb1bd` | 22ஆம் திகதி வங்காள விரிகுடாவில் ஏற்படப்போகும் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-bd0fb1bd)
 - 2025-11-20 | `lankadeepalk-051ec652` | වියානා ඇලෙන් හමු වූ මළ සිරුර ඝාතනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-051ec652)
-- 2025-11-20 | `adalk-444388ff` | අනියම් සැමියා සමග එකට වි සැමියා ඝාතනය කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-adalk-444388ff)
-- 2025-11-20 | `adalk-1241aeff` | එම්.අයි.17 හෙලිකොප්ටර් යානාවල ලංකාවේ පළමු පියාසර ඉංජිනේරුවරිය පූර්ණිමා අනුරංගි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-adalk-1241aeff)
-- 2025-11-20 | `virakesarilk-b35cf754` | திருகோணமலை புத்தர் சிலை விவகாரம் : நீதிமன்றம் வழங்கிய அதிரடி உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-b35cf754)
+- 2025-11-20 | `adalk-9ee0f6fd` | 2026ට 5000ක ජපන් රැකියා පුහුණු සංචිතයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-adalk-9ee0f6fd)
 
 ---
 
