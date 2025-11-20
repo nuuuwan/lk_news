@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_12:47:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_13:16:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,775** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,777** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-20-lankadeepalk-20386897",
-    "num": "lankadeepalk-20386897",
+    "doc_id": "2025-11-20-lankadeepalk-0f8ad826",
+    "num": "lankadeepalk-0f8ad826",
     "date_str": "2025-11-20",
-    "description": "\u0d9a\u0dc3\u0dbd \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba \u0d9c\u0dd0\u0db1 \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc0\u0dbd\u0dad\u0dca \u0d8b\u0d9c\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dc3\u0dbd-\u0d9a\u0dc5\u0db8\u0db1\u0d9a\u0dbb\u0dab\u0dba-\u0d9c\u0db1-\u0db4\u0dc3\u0dbd-\u0dc0\u0dbd\u0dad-\u0d8b\u0d9c\u0db1\u0dc0\u0db1\u0db1/101-683524",
+    "description": "\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca - \u0dc3\u0ddc\u0dc4\u0dca\u0dbb\u0dcf\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0da7\u0dbb\u0db8\u0db4-\u0dc3\u0dc4\u0dbb\u0db1-\u0dc4\u0db8\u0dc0\u0d9a/101-683526",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1763622696.0
+    "time_ut": 1763623758.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-20 | `lankadeepalk-0f8ad826` | ට්‍රම්ප් - සොහ්රාන් හමුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-0f8ad826)
 - 2025-11-20 | `lankadeepalk-20386897` | කසල කළමනාකරණය ගැන පාසල් වලත් උගන්වන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-20386897)
 - 2025-11-20 | `lankadeepalk-bdbe9ac2` | එංගලන්තයේදී සුනන්ද මහේන්ද්‍රට හමුවූ කුරක්කන්හේනේ බවලතා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-bdbe9ac2)
 - 2025-11-20 | `tamilmirrorlk-eec9dd7c` | ரணிலுக்கு எதிராக அதிக்குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-eec9dd7c)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-20 | `tamilmirrorlk-fbee52dd` | ”தாதியர்  சீருடையில் மாற்றம் இல்லை” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-fbee52dd)
 - 2025-11-20 | `tamilmirrorlk-46887909` | திறந்து பார்க்காதீர்கள் கழுகுகள் பறந்துவிடும்... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-46887909)
 - 2025-11-20 | `lankadeepalk-b72f5873` | ‘රටම එකට’ ජාතික මෙහෙයුම අද තංගල්ලේදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-b72f5873)
-- 2025-11-20 | `virakesarilk-06042bcb` | இந்தோனேசியாவில் செமேரு எரிமலை வெடித்துச் சிதறியது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-06042bcb)
 
 ---
 
