@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_09:26:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_09:47:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,723** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,727** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-20-virakesarilk-6a5f77c6",
-    "num": "virakesarilk-6a5f77c6",
+    "doc_id": "2025-11-20-tamilmirrorlk-d859e80b",
+    "num": "tamilmirrorlk-d859e80b",
     "date_str": "2025-11-20",
-    "description": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/230849",
+    "description": "\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bbe\u0b9e\u0bcd\u0b9a\u0bc7\u0ba9\u0bc8 \u0b95\u0bc2\u0bb2\u0bbf \u0b95\u0bca\u0bb2\u0bc8\u0baf\u0bbe\u0bb3\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bbe\u0b9e\u0bcd\u0b9a\u0bc7\u0ba9\u0bc8-\u0b95\u0bc2\u0bb2\u0bbf-\u0b95\u0bca\u0bb2\u0bc8\u0baf\u0bbe\u0bb3\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-368215",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1763610180.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1763611790.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-20 | `tamilmirrorlk-d859e80b` | கொட்டாஞ்சேனை கூலி கொலையாளி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-d859e80b)
+- 2025-11-20 | `tamilmirrorlk-a3e559d0` | குஷ் போதைப்பொருளுடன் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-a3e559d0)
+- 2025-11-20 | `tamilmirrorlk-149229bd` | 22 நிறுவனங்கள் தொடர்பான மத்திய வங்கியின் அறிவித்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-tamilmirrorlk-149229bd)
+- 2025-11-20 | `virakesarilk-7e7efafb` | மலையக ரயில் சேவைகள் தொடர்ந்து பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-7e7efafb)
 - 2025-11-20 | `virakesarilk-6a5f77c6` | பாடசாலை மாணவர்கள் மத்தியில் புகைபிடித்தல் அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-6a5f77c6)
 - 2025-11-20 | `virakesarilk-422d2810` | மாவனெல்ல - ஹெம்மாத்தகம வீதியில் விபத்து: ஒருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-422d2810)
 - 2025-11-20 | `virakesarilk-437c54ff` | வத்தளையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-437c54ff)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-20 | `dailyftlk-ff0e8b40` | SC grants leave to proceed in BASL fundamental rights case on ragging death | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-ff0e8b40)
 - 2025-11-20 | `dailyftlk-c0f3c1b3` | Nations Trust WNPS monthly lecture today explores  climate change and AI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-c0f3c1b3)
 - 2025-11-20 | `dailyftlk-bd92e0ae` | Green gram purchasing initiative gets Rs. 764 m boost | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-bd92e0ae)
-- 2025-11-20 | `dailyftlk-dce798ec` | Govt. updates driving licence levy for foreigners and foreign licence-holders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-dce798ec)
-- 2025-11-20 | `dailyftlk-6d89e5e1` | Rocell takes home Gold Award at Sri Lanka National Quality Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-6d89e5e1)
-- 2025-11-20 | `dailyftlk-c818bc15` | Emigrate workers’ trade fair today with varieties of products at Diyatha Uyana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-c818bc15)
-- 2025-11-20 | `dailyftlk-1affc0a1` | Leading brands bag top awards at 11th CMA Sri Lanka Excellence in Integrated Reporting Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-dailyftlk-1affc0a1)
 
 ---
 
