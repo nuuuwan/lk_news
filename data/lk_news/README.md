@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_04:17:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_04:47:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,887** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,890** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-21-dailyftlk-208e5753",
-    "num": "dailyftlk-208e5753",
+    "doc_id": "2025-11-21-dailyftlk-4e9475f4",
+    "num": "dailyftlk-4e9475f4",
     "date_str": "2025-11-21",
-    "description": "Not everyone who dies by suicide is depressed",
-    "url_metadata": "https://www.ft.lk/columns/Not-everyone-who-dies-by-suicide-is-depressed/4-784625",
+    "description": "Choosing our dance partners: An impact-investment playbook for Sri Lanka\u2019s next tourism chapter",
+    "url_metadata": "https://www.ft.lk/columns/Choosing-our-dance-partners-An-impact-investment-playbook-for-Sri-Lanka-s-next-tourism-chapter/4-784628",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763678225.0
+    "time_ut": 1763679192.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-21 | `dailyftlk-4e9475f4` | Choosing our dance partners: An impact-investment playbook for Sri Lanka’s next tourism chapter | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-4e9475f4)
+- 2025-11-21 | `dailyftlk-6acbb198` | Jeevan Thondaman loses his ‘Eligible Bachelor’ status on 23 November | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-6acbb198)
+- 2025-11-21 | `dailyftlk-3e05c4e2` | The crime after the crime | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-3e05c4e2)
 - 2025-11-21 | `dailyftlk-208e5753` | Not everyone who dies by suicide is depressed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-208e5753)
 - 2025-11-21 | `dailyftlk-301ad034` | “Some Scars Are Invisible – Speak Up, Seek Support” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-301ad034)
 - 2025-11-20 | `virakesarilk-1e6bc87d` | சர்வதேச ரி20இல் ஸிம்பாப்வேயிடம் இலங்கை மிக மோசமான தோல்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-1e6bc87d)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-20 | `virakesarilk-fe851743` | தமிழரின் “ஒருத்தனுக்கு ஒருத்தி” கலாசாரத்தை கடைப்பிடிக்காமல், யாரை திருமணம் முடித்துள்ளேன் என்றும் கூற முடியாதவர்கள் தமிழரின் கலாசாரத்தை உயர்த்தப்போவதாக கூறுகிறார்கள் - இளங்குமரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-fe851743)
 - 2025-11-20 | `virakesarilk-2f8e75e2` | இலங்கையில் மத சுதந்திரத்தை உறுதிப்படுத்துவதற்கு ஒத்துழைப்பு - பிரிட்டன் பாராளுமன்ற செயலாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-2f8e75e2)
 - 2025-11-20 | `virakesarilk-cfca3978` | மின்சார சபைக்கு 13 பில்லியன் ரூபா நஷ்டம் என்பதில் எந்த உண்மையும் இல்லை ; மாறாக 21000 மில். ரூபா இலாபமே! - எஸ்.எம்.மரிக்கார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-cfca3978)
-- 2025-11-20 | `virakesarilk-01129cbc` | தமிழர்களுக்கான நீதியையும் பொறுப்புக்கூறலையும் வென்றெடுக்க உழைப்போம் - தமிழர்களுக்கான பிரிட்டன் அனைத்துக் கட்சி பாராளுமன்றக் குழு உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-01129cbc)
-- 2025-11-20 | `lankadeepalk-d91fad8a` | බලශක්ති වැය ශීර්ෂය සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-d91fad8a)
-- 2025-11-20 | `virakesarilk-9f55b90e` | யார் ஆட்சிக்கு வந்தாலும் பௌத்த சிங்களமயமாக்கல் தொடரும்! - யாழ். பல்கலைக்கழக மாணவர் ஒன்றியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-9f55b90e)
 
 ---
 
