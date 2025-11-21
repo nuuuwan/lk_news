@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_09:05:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_09:27:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,933** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,939** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-21-virakesarilk-1f975c78",
-    "num": "virakesarilk-1f975c78",
+    "doc_id": "2025-11-21-tamilmirrorlk-b31be8a9",
+    "num": "tamilmirrorlk-b31be8a9",
     "date_str": "2025-11-21",
-    "description": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba4\u0bc8\u0baf\u0bb2\u0bcd \u0ba4\u0bcb\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/230973",
+    "description": "\u0b95\u0bb3\u0bcd\u0bb3\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bb1\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb3\u0bcd\u0bb3\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bb1\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b95\u0bca\u0bb2\u0bc8/175-368271",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1763695320.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1763696343.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-21 | `tamilmirrorlk-b31be8a9` | கள்ளுத்தவறணையில் ஒருவர் அடித்து கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-tamilmirrorlk-b31be8a9)
+- 2025-11-21 | `lankadeepalk-c8b62e70` | පත්මේගේ මවට අයත් ලොරියක් පොලිස් බාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-lankadeepalk-c8b62e70)
+- 2025-11-21 | `virakesarilk-3c5f0fa6` | கட்டுநாயக்கவில் அவசரமாக தரையிறங்கியது உலகின் மிகப்பெரிய பயணிகள் விமானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-3c5f0fa6)
+- 2025-11-21 | `lankadeepalk-95cad99e` | රනිල් ඉන්දියාවට යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-lankadeepalk-95cad99e)
+- 2025-11-21 | `virakesarilk-8ad180b2` | மிரிஹானை ஆனந்த சமரக்கோன் அரங்கில் இன்று பொதுக்கூட்டம்; பேரணியில் ஒலிபெருக்கி பயன்பாடு குறித்து விசேட பொலிஸ் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-8ad180b2)
 - 2025-11-21 | `virakesarilk-1f975c78` | மன்னாரில் புதையல் தோண்டிய சந்தேகநபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-1f975c78)
 - 2025-11-21 | `virakesarilk-9b45e735` | உலக தொலைக்காட்சி தினம் ; சமூகம், சிந்தனை, பண்பாடு மற்றும் மனித அனுபவத்தின் கண்ணாடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-9b45e735)
 - 2025-11-21 | `virakesarilk-41a75c14` | கொழும்பிலிருந்து  கினிகத்தேனை வரை   திகாவும் ஜீவனும் ஒன்றாகவே பயணிக்கின்றனர் - ஆர். சிவநேசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-41a75c14)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-11-21 | `dailyftlk-62f975cb` | President vows relentless, years-long crackdown to eradicate drug networks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-62f975cb)
 - 2025-11-21 | `dailyftlk-c98735bc` | UNICEF’s ‘Little Amaya – See Me, Hear Me’ exhibit opens at Lotus Tower | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-c98735bc)
 - 2025-11-21 | `dailyftlk-39ba1172` | Solo traveller Molly praises Sri Lanka’s response after harassment incident goes viral | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-39ba1172)
-- 2025-11-21 | `dailyftlk-c2257ef1` | NMSJ calls on Govt. to strengthen Information Commission than amending RTI Act | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-c2257ef1)
-- 2025-11-21 | `dailyftlk-d7dc6a65` | Dialog and JICA renew strategic partnership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-d7dc6a65)
-- 2025-11-21 | `dailyftlk-fd478af1` | Natasha Boralessa joins DIMO Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-fd478af1)
-- 2025-11-21 | `dailyftlk-cf5efd37` | SLBC to celebrate 35th anniversary with launch of inaugural SLBC EXPO Pavilion 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-cf5efd37)
-- 2025-11-21 | `dailyftlk-76d58968` | Rallying between a new will to power  and the apathy of the powers that be | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-76d58968)
 
 ---
 
