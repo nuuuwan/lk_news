@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_06:30:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_07:14:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**87,908** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**87,909** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -54,13 +54,13 @@ A collection of lk_news documents.
 - 2025-11-21 | `dailyftlk-3e05c4e2` | The crime after the crime | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-3e05c4e2)
 - 2025-11-21 | `dailyftlk-208e5753` | Not everyone who dies by suicide is depressed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-208e5753)
 - 2025-11-21 | `dailyftlk-301ad034` | “Some Scars Are Invisible – Speak Up, Seek Support” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-301ad034)
+- 2025-11-21 | `bbccomsinhala-25cefa5e` | විපක්ෂයේ පක්ෂ රැසක් අද නුගේගොඩට රැස්වෙන්නේ ඇයි? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-bbccomsinhala-25cefa5e)
 - 2025-11-20 | `virakesarilk-1e6bc87d` | சர்வதேச ரி20இல் ஸிம்பாப்வேயிடம் இலங்கை மிக மோசமான தோல்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-1e6bc87d)
 - 2025-11-20 | `virakesarilk-9c02d257` | புல்மோட்டை கனிய மணல் கூட்டுத்தாபன ஊழியர்கள் கொட்டும் மழையில் சத்தியாக்கிரக போராட்டத்தில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-9c02d257)
 - 2025-11-20 | `lankadeepalk-21c4f687` | දුම්රිය නැතිව මගීහු නන්නත්තාර වෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-lankadeepalk-21c4f687)
 - 2025-11-20 | `virakesarilk-ae44dda9` | நோர்வோயில் இருந்து யாழ். வந்தவருக்கு எமனான கிணறு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-ae44dda9)
 - 2025-11-20 | `virakesarilk-98c2313d` | எரிபொருள்–மின்சார மாபியாவின் அடிமையாக அரசு மாறியுள்ளது – சஜித் பிரேமதாச குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-98c2313d)
 - 2025-11-20 | `adalk-cbb2698a` | සතියක් තුළ ඊශ්‍රායේලයේදි දෙවැනි ශ්‍රී ලාංකික මරණයත් වාර්තා වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-adalk-cbb2698a)
-- 2025-11-20 | `virakesarilk-568a53db` | மூன்று வருடங்களுக்கு பின்னர் புதுப்பொழிவுடன் புத்துயிர் பெறுகிறது பிரதான கழகங்கள் கால்பந்தாட்டம்; சம்பியன்ஸ் லீக் நாளை ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-20-virakesarilk-568a53db)
 
 ---
 
