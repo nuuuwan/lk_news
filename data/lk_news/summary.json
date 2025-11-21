@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-21 05:15:08",
-  "n_docs": 87891,
+  "time_updated": "2025-11-21 06:01:37",
+  "n_docs": 87908,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 87891,
+  "n_docs_with_text": 87908,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-21",
-  "dataset_size": 1313578749,
+  "dataset_size": 1313660013,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-21-dailyftlk-76d58968",
-    "num": "dailyftlk-76d58968",
+    "doc_id": "2025-11-21-dailyftlk-62f975cb",
+    "num": "dailyftlk-62f975cb",
     "date_str": "2025-11-21",
-    "description": "Rallying between a new will to power\u00a0 and the apathy of the powers that be",
-    "url_metadata": "https://www.ft.lk/columns/Rallying-between-a-new-will-to-power-and-the-apathy-of-the-powers-that-be/4-784630",
+    "description": "President vows relentless, years-long crackdown to eradicate drug networks",
+    "url_metadata": "https://www.ft.lk/news/President-vows-relentless-years-long-crackdown-to-eradicate-drug-networks/56-784651",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763679836.0
+    "time_ut": 1763683874.0
   }
 }
