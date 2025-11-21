@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_00:20:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_00:46:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,103** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,104** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A collection of lk_news documents.
 - 2025-11-21 | `dailyftlk-46f0335b` | Aberdeen Holdings earns GHG Verification deepening commitment to a greener Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-46f0335b)
 - 2025-11-21 | `dailyftlk-3e299e48` | Sri Lanka showcases tourism, investment opportunities at Sydney Lions District 201N5 Conference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-3e299e48)
 - 2025-11-21 | `dailyftlk-d91f2b37` | CFA Society Sri Lanka announces  opening of applications for CFA Institute Program Access Scholarships 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-d91f2b37)
+- 2025-11-21 | `dailyftlk-8e9884b4` | Is the Online Safety Act an unnecessary piece of law? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-8e9884b4)
 - 2025-11-21 | `dailyftlk-74f9bead` | Mrs J – the students are in the library | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-74f9bead)
 - 2025-11-21 | `dailyftlk-e26c1134` | The Bhagawan Sri Sathya Sai Baba’s mission – ‘Serve the Mankind’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-e26c1134)
 - 2025-11-21 | `dailyftlk-79f862ee` | How survivor-centred tech solutions can reduce digital violence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-dailyftlk-79f862ee)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-21 | `virakesarilk-62da2122` | வடக்கு நிர்வாகத்திலுள்ள சில செயலாளர்கள், உயர் அதிகாரிகள் சலுகைகளை மட்டும் அனுபவிக்கிறார்கள்- ஆளுநர் வேதநாயகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-62da2122)
 - 2025-11-21 | `virakesarilk-c2213b88` | அரசாங்கத்தை கவிழ்ப்பதற்காக அல்ல ; மக்களுக்கு அரசு வழங்கிய வாக்குறுதிகளை நினைவூட்டவே கொழும்பில் பேரணி நடத்தினோம் - சானக  மாதுகொட | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-c2213b88)
 - 2025-11-21 | `virakesarilk-4cf5a9e1` | 2026இல் தரமான நெல்லை 120 ரூபாவுக்கும் பெரிய வெங்காயத்தை 150 ரூபாவுக்கும்  கொள்வனவு செய்ய அரசு தீர்மானம் - பிரதி வர்த்தக அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-4cf5a9e1)
-- 2025-11-21 | `virakesarilk-0bcba32b` | சிறு, மத்திய, நடுத்தர தொழில் முயற்சியாளர்களின் தொழிற்றுறையை மேம்படுத்த சாதகமான சூழலை அரசு ஏற்படுத்தவேண்டும் - ஜே.சி. அலவத்துவல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-0bcba32b)
 
 ---
 
