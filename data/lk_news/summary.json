@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-21 23:48:57",
-  "n_docs": 88092,
+  "time_updated": "2025-11-22 00:20:13",
+  "n_docs": 88103,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 88092,
+  "n_docs_with_text": 88103,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-21",
-  "dataset_size": 1317069829,
+  "dataset_size": 1317128355,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-21-lankadeepalk-2b337f28",
-    "num": "lankadeepalk-2b337f28",
+    "doc_id": "2025-11-21-dailyftlk-6a4e613d",
+    "num": "dailyftlk-6a4e613d",
     "date_str": "2025-11-21",
-    "description": "\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0ddd 25\u0d9a\u0da7 \u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0db8\u0dcf\u0dbb\u0dd4",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0dbd\u0dc3-\u0dbd\u0d9a\u0d9a-25\u0d9a\u0da7-\u0dc3\u0dae\u0db1-\u0db8\u0dbb/101-683628",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1763742101.0
+    "description": "Opposition stages joint rally in Nugegoda as leaders vow to topple Govt.",
+    "url_metadata": "https://www.ft.lk/news/Opposition-stages-joint-rally-in-Nugegoda-as-leaders-vow-to-topple-Govt/56-784682",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1763748053.0
   }
 }
