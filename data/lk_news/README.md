@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_20:19:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_20:47:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,076** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,080** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-21-lankadeepalk-c97f3139",
-    "num": "lankadeepalk-c97f3139",
+    "doc_id": "2025-11-21-lankadeepalk-8fc18a46",
+    "num": "lankadeepalk-8fc18a46",
     "date_str": "2025-11-21",
-    "description": "\u0d87\u0db8\u0dad\u0dd2 \u0dc0\u0dc3\u0db1\u0dca\u0dad  \u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad \u0db8\u0dd2\u0dad\u0dca\u200d\u0dbb\u0dad\u0dca\u0dc0 \u0dc3\u0d82\u0d9c\u0db8\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0db4\u0dd4\u0da7\u0dd4\u0dc0\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d87\u0db8\u0dad-\u0dc0\u0dc3\u0db1\u0dad-\u0db1\u0dc0\u0dc3\u0dbd\u0db1\u0dad-\u0db8\u0dad\u0dbb\u0dad\u0dc0-\u0dc3\u0d9c\u0db8\u0dba-\u0dc3\u0db7\u0db4\u0dad-\u0db4\u0da7\u0dc0\u0da7/101-683625",
+    "description": "\u0daf\u0dd9\u0dab\u0dd2\u0dba\u0dcf\u0dba\u0dda \u0dc0\u0dd6\u00a0\u0db8\u0dcf\u0dbb\u0d9a \u0d85\u0db1\u0dad\u0dd4\u0dbb",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dab\u0dba\u0dba-\u0dc0\u0db8\u0dbb\u0d9a-\u0d85\u0db1\u0dad\u0dbb/1-683627",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1763734398.0
+    "time_ut": 1763737684.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-21 | `lankadeepalk-8fc18a46` | දෙණියායේ වූ මාරක අනතුර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-lankadeepalk-8fc18a46)
+- 2025-11-21 | `virakesarilk-865320a7` | வடக்கு கிழக்கு மக்களுக்கு வழங்கிய வாக்குறுதிகளை ஜனாதிபதி இனிமேலும் புறக்கணிக்க முடியாது - நுகேகொட கூட்டத்தில் கீதநாத் காசிலிங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-865320a7)
+- 2025-11-21 | `lankadeepalk-bf8108e4` | 2020 එල්.පී.එල් ක්‍රිකට් පාවාදීමට අධිකරණය දුන් නියෝගය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-lankadeepalk-bf8108e4)
 - 2025-11-21 | `lankadeepalk-c97f3139` | ඇමති වසන්ත  නවසීලන්ත මිත්‍රත්ව සංගමයේ සභාපති පුටුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-lankadeepalk-c97f3139)
 - 2025-11-21 | `virakesarilk-4cf5a9e1` | 2026இல் தரமான நெல்லை 120 ரூபாவுக்கும் பெரிய வெங்காயத்தை 150 ரூபாவுக்கும்  கொள்வனவு செய்ய அரசு தீர்மானம் - பிரதி வர்த்தக அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-4cf5a9e1)
 - 2025-11-21 | `virakesarilk-0f2eac3d` | நாட்டில் கடல்வளம், நீரியல் வளங்களை பாதுகாப்பதற்குரிய அத்தனை நடவடிக்கையும் எடுக்கப்படும் ; இதற்காகவே நவீன தொழில்நுட்பங்களும் பயன்படுத்தப்படும் – சந்திரசேகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-0f2eac3d)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-21 | `lankadeepalk-87421cec` | අර්චුනාට ’’උගන්ඩා කුමාරිය’’ මතක් වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-lankadeepalk-87421cec)
 - 2025-11-21 | `virakesarilk-8683c688` | டுபாய் விமான கண்காட்சியில் இந்திய போர் விமானம் விழுந்து நொறுங்கியது - விமானி பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-8683c688)
 - 2025-11-21 | `lankadeepalk-dfd495a3` | එල්.පී.එල් තරග පාවාදුන්නැයි කළමනාකරුවෙකුට වරෙන්තු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-lankadeepalk-dfd495a3)
-- 2025-11-21 | `virakesarilk-a4ae0ea5` | யாழ். உடுத்துறை மாவீரர் நினைவாலயத்தில் மாவீரர் வார நினைவேந்தல் ஆரம்பம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-a4ae0ea5)
-- 2025-11-21 | `tamilmirrorlk-87fc6266` | வெட்டுப்புள்ளி பட்டியல்... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-tamilmirrorlk-87fc6266)
-- 2025-11-21 | `virakesarilk-07525e12` | வலிகாமம் தென்மேற்கு பிரதேச சபையில் மாவீரர் வாரம் அனுஷ்டிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-21-virakesarilk-07525e12)
 
 ---
 
