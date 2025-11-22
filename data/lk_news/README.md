@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_09:02:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_09:23:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,144** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,145** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-22-tamilmirrorlk-c0ac7452",
-    "num": "tamilmirrorlk-c0ac7452",
+    "doc_id": "2025-11-22-tamilmirrorlk-4fd7f156",
+    "num": "tamilmirrorlk-4fd7f156",
     "date_str": "2025-11-22",
-    "description": "\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd \u0bae\u0baf\u0b99\u0bcd\u0b95\u0bbf \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1-\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd-\u0bae\u0baf\u0b99\u0bcd\u0b95\u0bbf-\u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-368313",
+    "description": "\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0b9f\u0bbf\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: 16 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc6\u0b9f\u0bbf\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-16-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/50-368314",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1763781133.0
+    "time_ut": 1763782901.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-22 | `tamilmirrorlk-4fd7f156` | பாகிஸ்தான் தொழிற்சாலையில் வெடிவிபத்து: 16 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-4fd7f156)
 - 2025-11-22 | `tamilmirrorlk-c0ac7452` | சைக்கிளில் சென்ற குடும்பஸ்தர் மயங்கி விழுந்து உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-c0ac7452)
 - 2025-11-22 | `lankadeepalk-ff28640d` | පදියතලාව ප්‍රා. සභා අයවැය දෙවන වරටත් පරාදයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-ff28640d)
 - 2025-11-22 | `lankadeepalk-ff2ce9ad` | ත්‍රිරෝද රියක් තුළ මළසිරුරක්රියක් තුළ මළසිරුරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-ff2ce9ad)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-22 | `virakesarilk-a1c36340` | ஆயிரம் சிறைகளில் அடைத்தாலும் அரசாங்கத்துக்கு எதிரான பயணத்தை கைவிடோம் - ஹரின் பெர்னாண்டோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-a1c36340)
 - 2025-11-22 | `virakesarilk-8f69836b` | இலங்கை வரலாற்றில் மிக மோசமான ஊழல்வாதியான ஒரு ஜனாதிபதியாக அநுர இடம்பிடித்துள்ளார் - உதய கம்மன்பில | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-8f69836b)
 - 2025-11-22 | `virakesarilk-ddf45304` | வரவு - செலவுத் திட்டத்தின் மூன்றாம் வாசிப்பில் தீர்வு இல்லையெனில்  வைத்தியர்களின் - தொழிற்சங்க நடவடிக்கையை தீவிரப்படுத்தப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-ddf45304)
-- 2025-11-22 | `virakesarilk-36f195e0` | மக்கள் கூறியுள்ள செய்தியை நன்றாக புரிந்து கொள்ளுங்கள் இல்லையெனில் கிடைக்கும் முதல் சந்தர்ப்பத்தில் ஆட்சியைக் கவிழ்ப்போம் - நாமல் ராஜபக்ஷ சூளுரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-36f195e0)
 
 ---
 
