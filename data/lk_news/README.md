@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_18:27:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_18:50:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,219** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,220** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2025-11-22 | `tamilmirrorlk-31add8e9` | கடுகன்னாவ மண்சரிவு : பலி எண்ணிக்கை அதிகரித்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-31add8e9)
+- 2025-11-22 | `adalk-eec2a56c` | කඩුගන්නාව නාය යෑමෙන් මිය ගිය ගණන පහක් දක්වා ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-adalk-eec2a56c)
 - 2025-11-22 | `tamilmirrorlk-2e868058` | பதில் பிரதம நீதியரசர் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-2e868058)
 - 2025-11-22 | `virakesarilk-1c487b71` | Update ; கடுகண்ணாவை மண்சரிவு ; உயிரிழந்தோரின் எண்ணிக்கை 4 ஆக அதிகரிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-1c487b71)
 - 2025-11-22 | `virakesarilk-c76af238` | 17 வயதின் கீழ் ஆசிய கிண்ண தகுதிகாண் சுற்று: புருணை உடனான போட்டியில் இலங்கை அபார வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-c76af238)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-22 | `virakesarilk-d74d261c` | முல்லைத்தீவு மாவட்ட வீரர்களுக்கான தேசிய கராத்தே பயிற்றுனர்களின் இரண்டு நாள் கராத்தே பயிற்சி முகாம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-d74d261c)
 - 2025-11-22 | `virakesarilk-f1688820` | நீண்ட காலமாக முட்டைத் திருட்டில் ஈடுபட்ட நபர் பொலிஸாரால் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-f1688820)
 - 2025-11-22 | `virakesarilk-d787068f` | மாத்தறை காணி வழக்கு ; பசில் ராஜபக்ஷ நீதிமன்றில் சமர்ப்பித்த வைத்திய அறிக்கைகளில் சந்தேகம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-d787068f)
-- 2025-11-22 | `tamilmirrorlk-6c475d45` | கமல் படத்தில் நடிக்க வாய்ப்பு? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-6c475d45)
 
 ---
 
