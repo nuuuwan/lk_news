@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_15:15:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_15:47:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,194** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,195** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-22-tamilmirrorlk-6c475d45",
-    "num": "tamilmirrorlk-6c475d45",
+    "doc_id": "2025-11-22-lankadeepalk-0ebff56d",
+    "num": "lankadeepalk-0ebff56d",
     "date_str": "2025-11-22",
-    "description": "\u0b95\u0bae\u0bb2\u0bcd \u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1?",
-    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b95\u0bae\u0bb2\u0bcd-\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba8\u0b9f\u0bbf\u0b95\u0bcd\u0b95-\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1/54-368317",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1763801672.0
+    "description": "\u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a   \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u2019\u2019\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0dad\u0dd9\u0dbd\u0dca\u2019\u2019  \u0d91\u0db4\u0dcf \u0d9a\u0dd2\u0dba\u0dbd\u0dcf",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dad\u0db1\u0dba\u0d9a-\u0dc3\u0db7\u0db4\u0dad-\u0db8\u0db1\u0dad\u0dbb-\u0dad\u0dbd-\u0d91\u0db4-\u0d9a\u0dba\u0dbd/101-683641",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1763804395.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-22 | `lankadeepalk-0ebff56d` | කතානායක   සභාපති ’’මන්ත්‍රී තෙල්’’  එපා කියලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-0ebff56d)
 - 2025-11-22 | `tamilmirrorlk-6c475d45` | கமல் படத்தில் நடிக்க வாய்ப்பு? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-6c475d45)
 - 2025-11-22 | `virakesarilk-f4b1aaa6` | இன்றைய சம்பியன்ஸ் லீக் போட்டிகளில் ஒரு கழகத்தில் மாத்திரமே வெளிநாட்டு வீரர்கள் செரெண்டிப் எதிர் இ.போ.ச., சோண்டர்ஸ் எதிர் கிறிஸ்டல் பெலஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-f4b1aaa6)
 - 2025-11-22 | `lankadeepalk-c3d02602` | වැඩබලන අගවිනිසුරු ලෙස ශිරාන් ගුණරත්න පත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-c3d02602)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-22 | `virakesarilk-3e7ab16a` | பண மோசடியில் ஈடுபட்ட வெளிநாட்டு வேலை வாய்ப்பு நிறுவனம் சுற்றிவளைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-3e7ab16a)
 - 2025-11-22 | `virakesarilk-bb1b07af` | பாகிஸ்தானில் பசை தயாரிப்பு தொழிற்சாலையில் வெடி விபத்து : 18 பேர் பலி, 21 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-bb1b07af)
 - 2025-11-22 | `lankadeepalk-a3abcd8b` | පැන්ෂන් මන්ත්‍රීලාට ’’කරුණා දීමනාවක්’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-a3abcd8b)
-- 2025-11-22 | `virakesarilk-8cf66c2d` | நாடளாவிய ரீதியில் விசேட சுற்றிவளைப்பு: பலர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-8cf66c2d)
 
 ---
 
