@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_11:48:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_12:22:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,166** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,167** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -49,6 +49,7 @@ A collection of lk_news documents.
 - 2025-11-22 | `lankadeepalk-a532917e` | මැතිසබයේ ’’වෙනසට’’ කෝටි භාගයක බර පැනක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-a532917e)
 - 2025-11-22 | `lankadeepalk-20fff6bb` | කොළඹ - මහනුවර මාර්ගය කඩුගන්නැවෙන් වහයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-20fff6bb)
 - 2025-11-22 | `virakesarilk-9bbd706d` | Update ; கடுகண்ணாவை மண்சரிவில் சிக்கி ஒருவர் பலி ; நால்வர் காயங்களுடன் மீட்பு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-9bbd706d)
+- 2025-11-22 | `adalk-25959779` | පහළ කඩු ගන්නාවේ වෙළඳසැල් කිහිපයක් මතට පස් කන්දක් නාය යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-adalk-25959779)
 - 2025-11-22 | `lankadeepalk-e79a083a` | කළුගල් කඩා වැටී කඩුගන්නාවෙන් පාර වැහේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-e79a083a)
 - 2025-11-22 | `tamilmirrorlk-7991eda1` | பஹல கடுகன்னாவ பகுதியில் வீதி மூடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-7991eda1)
 - 2025-11-22 | `tamilmirrorlk-180bd7e5` | பஹல கடுகண்ணாவ பகுதியில் வீதி மூடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-180bd7e5)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-22 | `virakesarilk-51326a82` | நாட்டின் இருவேறு பகுதிகளில் விபத்து : இருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-51326a82)
 - 2025-11-22 | `virakesarilk-9cff2a5b` | காலி, மாத்தறை மாவட்டங்களில் வெள்ளம் : 2025 க.பொ.த உயர்தர பரீட்சை மாணவர்களுக்கு விசேட போக்குவரத்து ஏற்பாடுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-9cff2a5b)
 - 2025-11-22 | `tamilmirrorlk-4fd7f156` | பாகிஸ்தான் தொழிற்சாலையில் வெடிவிபத்து: 16 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-4fd7f156)
-- 2025-11-22 | `tamilmirrorlk-c0ac7452` | சைக்கிளில் சென்ற குடும்பஸ்தர் மயங்கி விழுந்து உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-c0ac7452)
 
 ---
 
