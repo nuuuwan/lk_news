@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-11-22-lankadeepalk-e79a083a	lankadeepalk-e79a083a	2025-11-22	කළුගල් කඩා වැටී කඩුගන්නාවෙන් පාර වැහේ	https://www.lankadeepa.lk/news/කළගල-කඩ-වට-කඩගනනවන-පර-වහ/101-683633	si	lankadeepalk	1763787328.0
+lk_news	2025-11-22-tamilmirrorlk-7991eda1	tamilmirrorlk-7991eda1	2025-11-22	பஹல கடுகன்னாவ பகுதியில் வீதி மூடல்	https://www.tamilmirror.lk/செய்திகள்/பஹல-கடுகன்னாவ-பகுதியில்-வீதி-மூடல்/175-368315	ta	tamilmirrorlk	1763786680.0
 lk_news	2025-11-22-tamilmirrorlk-4fd7f156	tamilmirrorlk-4fd7f156	2025-11-22	பாகிஸ்தான் தொழிற்சாலையில் வெடிவிபத்து: 16 பேர் பலி	https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தான்-தொழிற்சாலையில்-வெடிவிபத்து-16-பேர்-பலி/50-368314	ta	tamilmirrorlk	1763782901.0
 lk_news	2025-11-22-tamilmirrorlk-c0ac7452	tamilmirrorlk-c0ac7452	2025-11-22	சைக்கிளில் சென்ற குடும்பஸ்தர் மயங்கி விழுந்து உயிரிழப்பு	https://www.tamilmirror.lk/செய்திகள்/சைக்கிளில்-சென்ற-குடும்பஸ்தர்-மயங்கி-விழுந்து-உயிரிழப்பு/175-368313	ta	tamilmirrorlk	1763781133.0
 lk_news	2025-11-22-lankadeepalk-ff28640d	lankadeepalk-ff28640d	2025-11-22	පදියතලාව ප්‍රා. සභා අයවැය දෙවන වරටත් පරාදයි	https://www.lankadeepa.lk/news/පදයතලව-පර-සභ-අයවය-දවන-වරටත-පරදය/101-683632	si	lankadeepalk	1763781091.0
@@ -7,6 +9,7 @@ lk_news	2025-11-22-lankadeepalk-24b44a3c	lankadeepalk-24b44a3c	2025-11-22	ගි
 lk_news	2025-11-22-lankadeepalk-dae5a221	lankadeepalk-dae5a221	2025-11-22	වැස්ස අද වැඩි වේ	https://www.lankadeepa.lk/news/වසස-අද-වඩ-ව/101-683629	si	lankadeepalk	1763779244.0
 lk_news	2025-11-22-tamilmirrorlk-c5c69687	tamilmirrorlk-c5c69687	2025-11-22	பாம்பு தீண்டிய நிலையில் பரீட்சை எழுதிய மாணவன்	https://www.tamilmirror.lk/செய்திகள்/பாம்பு-தீண்டிய-நிலையில்-பரீட்சை-எழுதிய-மாணவன்/175-368312	ta	tamilmirrorlk	1763778950.0
 lk_news	2025-11-22-tamilmirrorlk-07707e69	tamilmirrorlk-07707e69	2025-11-22	இன்று 100 மில்லி மீற்றர் மழை பெய்யும்	https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லி-மீற்றர்-மழை-பெய்யும்/175-368311	ta	tamilmirrorlk	1763778390.0
+lk_news	2025-11-22-adalk-d8443de1	adalk-d8443de1	2025-11-22	ඉදිරි දිනවලදි වැස්ස වැඩිවෙයි	https://www.ada.lk/breaking_news/ඉදිරි-දිනවලදි-වැස්ස-වැඩිවෙයි/11-419813	si	adalk	1763775348.0
 lk_news	2025-11-22-adalk-e7a25490	adalk-e7a25490	2025-11-22	රුපියල් 42,000 ක පිළිකා එන්නතක් රුපියල් 26,332 ක් දක්වා අඩුවෙයි	https://www.ada.lk/breaking_news/රුපියල්-42-000-ක-පිළිකා-එන්නතක්-රුපියල්-26-332-ක්-දක්වා-අඩුවෙයි/11-419812	si	adalk	1763775000.0
 lk_news	2025-11-22-adalk-5924b024	adalk-5924b024	2025-11-22	කොටහේන වෙඩි තැබීමට තවත් අයෙක් අල්ලයි	https://www.ada.lk/breaking_news/කොටහේන-වෙඩි-තැබීමට-තවත්-අයෙක්-අල්ලයි/11-419811	si	adalk	1763773360.0
 lk_news	2025-11-22-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-11-22	இன்றைய வானிலை	https://www.virakesari.lk/article/231079	ta	virakesarilk	1763772960.0
@@ -96,6 +99,3 @@ lk_news	2025-11-21-virakesarilk-828ea2e1	virakesarilk-828ea2e1	2025-11-21	போ
 lk_news	2025-11-21-virakesarilk-5474bcc8	virakesarilk-5474bcc8	2025-11-21	இலங்கை - இந்திய பாதுகாப்பு செயலாளர்கள் டில்லியில் சந்திப்பு	https://www.virakesari.lk/article/231022	ta	virakesarilk	1763722680.0
 lk_news	2025-11-21-virakesarilk-2d5d4587	virakesarilk-2d5d4587	2025-11-21	புனரமைக்கப்படாத மீசாலை தட்டாங்குளம் வீதி : வழக்கில் ஆஜராகுமாறு சாவகச்சேரி பிரதேச சபை செயலாளர், உள்ளூராட்சி ஆணையாளர் இருவருக்கும் நீதிமன்றம் உத்தரவு	https://www.virakesari.lk/article/231021	ta	virakesarilk	1763722680.0
 lk_news	2025-11-21-lankadeepalk-f0fff730	lankadeepalk-f0fff730	2025-11-21	ශිෂ්‍යත්වයේ කඩයිම් ලකුණු හෙට ලංකාදීපය සමග	https://www.lankadeepa.lk/news/ශෂයතවය-කඩයම-ලකණ-හට-ලකදපය-සමග/101-683615	si	lankadeepalk	1763722532.0
-lk_news	2025-11-21-virakesarilk-7bc279d9	virakesarilk-7bc279d9	2025-11-21	சக மனிதர்களுக்குச் சேவை செய்யக்கூடிய சமூகத்தை உருவாக்குவதே எமது அரசியலின் நோக்கம் – சரோஜா சாவித்திரி போல்ராஜ்	https://www.virakesari.lk/article/231026	ta	virakesarilk	1763722500.0
-lk_news	2025-11-21-virakesarilk-01f29c29	virakesarilk-01f29c29	2025-11-21	நுகேகொடையில் கூட்டு எதிர்க்கட்சிகளின் எதிர்ப்பு பேரணி	https://www.virakesari.lk/article/231024	ta	virakesarilk	1763722440.0
-lk_news	2025-11-21-tamilmirrorlk-16dd40f7	tamilmirrorlk-16dd40f7	2025-11-21	உ/த பரீட்சார்த்தியை பாம்பு தீண்டியது	https://www.tamilmirror.lk/செய்திகள்/உ-த-பரீட்சார்த்தியை-பாம்பு-தீண்டியது/175-368299	ta	tamilmirrorlk	1763722194.0
