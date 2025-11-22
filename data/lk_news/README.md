@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_09:47:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_10:19:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,145** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,146** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -49,6 +49,7 @@ A collection of lk_news documents.
 - 2025-11-22 | `lankadeepalk-dae5a221` | වැස්ස අද වැඩි වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-dae5a221)
 - 2025-11-22 | `tamilmirrorlk-c5c69687` | பாம்பு தீண்டிய நிலையில் பரீட்சை எழுதிய மாணவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-c5c69687)
 - 2025-11-22 | `tamilmirrorlk-07707e69` | இன்று 100 மில்லி மீற்றர் மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-07707e69)
+- 2025-11-22 | `adalk-e7a25490` | රුපියල් 42,000 ක පිළිකා එන්නතක් රුපියල් 26,332 ක් දක්වා අඩුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-adalk-e7a25490)
 - 2025-11-22 | `adalk-5924b024` | කොටහේන වෙඩි තැබීමට තවත් අයෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-adalk-5924b024)
 - 2025-11-22 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-3a015e4a)
 - 2025-11-22 | `virakesarilk-55c531fa` | ஒற்றையாட்சிக்குள் தீர்வுக்கு தமிழரசு கட்சி சம்மதித்து மாவீரர்களுக்கு துரோகம் செய்துள்ளனர் - செல்வராசா கஜேந்திரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-55c531fa)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-22 | `virakesarilk-afb85e19` | நாமலின் சட்டப்பட்டப்படிப்பு தொடர்பில் விசாரிப்பதற்கு மேலும் 10 பொலிஸாரை லண்டனுக்கு அனுப்புங்கள் - சாமர சம்பத் தசநாயக்க சாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-afb85e19)
 - 2025-11-22 | `virakesarilk-a1c36340` | ஆயிரம் சிறைகளில் அடைத்தாலும் அரசாங்கத்துக்கு எதிரான பயணத்தை கைவிடோம் - ஹரின் பெர்னாண்டோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-a1c36340)
 - 2025-11-22 | `virakesarilk-8f69836b` | இலங்கை வரலாற்றில் மிக மோசமான ஊழல்வாதியான ஒரு ஜனாதிபதியாக அநுர இடம்பிடித்துள்ளார் - உதய கம்மன்பில | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-8f69836b)
-- 2025-11-22 | `virakesarilk-ddf45304` | வரவு - செலவுத் திட்டத்தின் மூன்றாம் வாசிப்பில் தீர்வு இல்லையெனில்  வைத்தியர்களின் - தொழிற்சங்க நடவடிக்கையை தீவிரப்படுத்தப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-ddf45304)
 
 ---
 
