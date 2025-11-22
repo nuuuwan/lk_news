@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_21:46:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_22:19:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,237** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,240** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-22-lankadeepalk-eaca8fc0",
-    "num": "lankadeepalk-eaca8fc0",
+    "doc_id": "2025-11-22-tamilmirrorlk-6b1c0574",
+    "num": "tamilmirrorlk-6b1c0574",
     "date_str": "2025-11-22",
-    "description": "\u0d9a\u0ddc\u0dc5\u0db9-\u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd \u0db8\u0d9f\u0da7\u0dad\u0dca \u0dc4\u0dbd\u0dca\u0daf\u0dd4\u0db8\u0dca\u0db8\u0dd4\u0dbd\u0dca\u0dbd\u0dd9\u0db1\u0dca \u0d9c\u0dbd\u0dca \u0d9a\u0dd4\u0dc5\u0dd4 \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dc5\u0db9-\u0db6\u0daf\u0dbd\u0dbd-\u0db8\u0d9f\u0da7\u0dad-\u0dc4\u0dbd\u0daf\u0db8\u0db8\u0dbd\u0dbd\u0db1-\u0d9c\u0dbd-\u0d9a\u0dc5-\u0dc0\u0da7\u0dba/101-683652",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1763824684.0
+    "description": "\u0b95\u0b9f\u0bc1\u0b95\u0ba3\u0bcd\u0ba3\u0bbe\u0bb5 \u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd 6 \u0baa\u0bc7\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bc1\u0b95\u0ba3\u0bcd\u0ba3\u0bbe\u0bb5-\u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd-6-\u0baa\u0bc7\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-368320",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1763828337.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-22 | `tamilmirrorlk-6b1c0574` | கடுகண்ணாவ மண்சரிவில் 6 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-6b1c0574)
+- 2025-11-22 | `lankadeepalk-1f4ea2e1` | ශ්‍රී ලංකාව දෙවැනි පරාජයත් ලබයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-1f4ea2e1)
+- 2025-11-22 | `lankadeepalk-561b7c59` | කඩුගන්නාවෙන් තවත් සිරුරක් හමුවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-561b7c59)
 - 2025-11-22 | `lankadeepalk-eaca8fc0` | කොළඹ-බදුල්ල මඟටත් හල්දුම්මුල්ලෙන් ගල් කුළු වැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-eaca8fc0)
 - 2025-11-22 | `lankadeepalk-8927eb29` | අර්චුනා හඬා වැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-8927eb29)
 - 2025-11-22 | `virakesarilk-b55b0d9e` | நல்லிணக்கத்துடன் கூடிய இலங்கையை உருவாக்க தமிழ், முஸ்லிம் கட்சித் தலைவர்களுக்கு ஜனாதிபதி அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-b55b0d9e)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-22 | `tamilmirrorlk-31add8e9` | கடுகன்னாவ மண்சரிவு : பலி எண்ணிக்கை அதிகரித்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-31add8e9)
 - 2025-11-22 | `adalk-eec2a56c` | කඩුගන්නාව නාය යෑමෙන් මිය ගිය ගණන පහක් දක්වා ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-adalk-eec2a56c)
 - 2025-11-22 | `tamilmirrorlk-2e868058` | பதில் பிரதம நீதியரசர் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-2e868058)
-- 2025-11-22 | `virakesarilk-1c487b71` | Update ; கடுகண்ணாவை மண்சரிவு ; உயிரிழந்தோரின் எண்ணிக்கை 4 ஆக அதிகரிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-1c487b71)
-- 2025-11-22 | `virakesarilk-c76af238` | 17 வயதின் கீழ் ஆசிய கிண்ண தகுதிகாண் சுற்று: புருணை உடனான போட்டியில் இலங்கை அபார வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-c76af238)
-- 2025-11-22 | `virakesarilk-3f8cb4b1` | இலங்கையில் யானைகளின் எண்ணிக்கை அதிகரிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-3f8cb4b1)
 
 ---
 
