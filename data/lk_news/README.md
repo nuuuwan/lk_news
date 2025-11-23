@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--23_06:30:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--23_07:15:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,260** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,263** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-23-tamilmirrorlk-046da14b",
-    "num": "tamilmirrorlk-046da14b",
+    "doc_id": "2025-11-23-lankadeepalk-f95fa9f4",
+    "num": "lankadeepalk-f95fa9f4",
     "date_str": "2025-11-23",
-    "description": "\u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bbf\u0ba9\u0bcd \u0bb5\u0bbe\u0ba9\u0bcd \u0bb5\u0bb4\u0bbf\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd 9 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbe\u0ba9\u0bcd-\u0bb5\u0bb4\u0bbf\u0ba4\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd-9-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/50-368321",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1763843637.0
+    "description": "\u0d9a\u0da9\u0dd4\u0d9c\u0db1\u0dca\u0db1\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dcf\u0dbb \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1 \u0daf\u0dd2\u0db1 \u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0dca \u0dba\u0dcf\u0dc0\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0da9\u0d9c\u0db1\u0db1\u0dc0\u0db1-\u0db4\u0dbb-\u0d85\u0dbb\u0db1\u0db1-\u0daf\u0db1-\u0d9a\u0db4\u0dba\u0d9a-\u0dba\u0dc0/101-683656",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1763860944.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-23 | `lankadeepalk-f95fa9f4` | කඩුගන්නාවෙන් පාර අරින්න දින කීපයක් යාවි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-f95fa9f4)
+- 2025-11-23 | `lankadeepalk-44f6cbfc` | මිලි මිටර් 100 ඉක්ම වූ තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-44f6cbfc)
+- 2025-11-23 | `tamilmirrorlk-dd7fba6d` | சிறுவன் சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-dd7fba6d)
 - 2025-11-23 | `tamilmirrorlk-046da14b` | இஸ்ரேலின் வான் வழித் தாக்குதலில் 9 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-046da14b)
 - 2025-11-22 | `tamilmirrorlk-6b1c0574` | கடுகண்ணாவ மண்சரிவில் 6 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-6b1c0574)
 - 2025-11-22 | `lankadeepalk-1f4ea2e1` | ශ්‍රී ලංකාව දෙවැනි පරාජයත් ලබයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-lankadeepalk-1f4ea2e1)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-22 | `virakesarilk-32eda4a5` | டிசம்பரில் வெளியாகும் விமலின் 'மகா சேனா' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-32eda4a5)
 - 2025-11-22 | `virakesarilk-893dfaca` | விஜயின் 'ஜனநாயகன்' படத்தின் இசை வெளியீட்டு விழா திகதி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-893dfaca)
 - 2025-11-22 | `virakesarilk-c4e479e9` | கதையின் நாயகனாக அறிமுகமாகும் நடிகர் 'ஃபைனலி' பாரத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-virakesarilk-c4e479e9)
-- 2025-11-22 | `adalk-fbd4a8f1` | 2025 මුල් මාස 9ට ඇ.ඩො.මි. 827ක සෘජු විදේශ ආයෝජන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-adalk-fbd4a8f1)
-- 2025-11-22 | `tamilmirrorlk-31add8e9` | கடுகன்னாவ மண்சரிவு : பலி எண்ணிக்கை அதிகரித்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-tamilmirrorlk-31add8e9)
-- 2025-11-22 | `adalk-eec2a56c` | කඩුගන්නාව නාය යෑමෙන් මිය ගිය ගණන පහක් දක්වා ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-22-adalk-eec2a56c)
 
 ---
 
