@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--23_14:19:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--23_14:46:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,341** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,346** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-23-lankadeepalk-866839e7",
-    "num": "lankadeepalk-866839e7",
+    "doc_id": "2025-11-23-lankadeepalk-6499d9fd",
+    "num": "lankadeepalk-6499d9fd",
     "date_str": "2025-11-23",
-    "description": "\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba\u0dba\u0da7 \u0dc3\u0dca\u0dc0\u0dba\u0d82 \u0db1\u0dd2\u0dba\u0dcf\u0db8\u0db1\u0dba\u0d9a\u0dca \u0d95\u0db1\u0dd1",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0db0\u0dba\u0dba\u0da7-\u0dc3\u0dc0\u0dba-\u0db1\u0dba\u0db8\u0db1\u0dba\u0d9a-\u0d95\u0db1/101-683679",
+    "description": "76 \u0dc3\u0dcf\u0db4\u0dd9 \u0db1\u0db8\u0dca \u0dc4\u0ddc\u0db3\u0db8 \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dba\u0d9a\u0dca \u0dc4\u0dd0\u0daf\u0dd4\u0db1\u0dda \u0d9a\u0ddc\u0dc4\u0ddc\u0db8\u0daf?",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/76-\u0dc3\u0db4-\u0db1\u0db8-\u0dc4\u0db3\u0db8-\u0dc3\u0d9b\u0dba-\u0dc3\u0dc0\u0dba\u0d9a-\u0dc4\u0daf\u0db1-\u0d9a\u0dc4\u0db8\u0daf/1-683682",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1763887171.0
+    "time_ut": 1763888985.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-23 | `lankadeepalk-6499d9fd` | 76 සාපෙ නම් හොඳම සෞඛ්‍ය සේවයක් හැදුනේ කොහොමද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-6499d9fd)
+- 2025-11-23 | `lankadeepalk-e9c0a317` | ලංකාවේ තුනෙන් දෙකක් බොරු තොරතුරු වලට රැවටිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-e9c0a317)
+- 2025-11-23 | `lankadeepalk-15c71713` | ව්‍යාජ ලේඛන හදා වාහනයක් විකුණූ අයෙක් අත් අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-15c71713)
 - 2025-11-23 | `lankadeepalk-866839e7` | මාධ්‍යයට ස්වයං නියාමනයක් ඕනෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-866839e7)
 - 2025-11-23 | `tamilmirrorlk-d2629c29` | “அதிக விலைக்கு மருந்து விற்றால் சொல்லுங்கள்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-d2629c29)
 - 2025-11-23 | `lankadeepalk-c63bd2ec` | අත්‍යවශ්‍ය ඖෂධ තුන්සීයකට වඩා හිඟයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-c63bd2ec)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-23 | `tamilmirrorlk-3c6a3e5d` | இத்தாலியின்  விருது வென்ற அஜித் குமார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-3c6a3e5d)
 - 2025-11-23 | `virakesarilk-1ef8b423` | திருமண பந்தத்தில் இணைந்தார் ஜீவன் தொண்டமான் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-1ef8b423)
 - 2025-11-23 | `tamilmirrorlk-b134ef23` | ”இலங்கையின் நீதித்துறை சுதந்திரம் அச்சுறுத்தலுக்கு உள்ளாகியுள்ளது” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-b134ef23)
-- 2025-11-23 | `tamilmirrorlk-21834f92` | ” நீதித்துறை சுதந்திரத்துக்கு  அச்சுறுத்தல்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-21834f92)
-- 2025-11-23 | `tamilmirrorlk-351bb9b5` | டிராவிஸ் ஹெட்டை புகழ்ந்த ரவி சாஸ்திரி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-351bb9b5)
-- 2025-11-23 | `lankadeepalk-61c352df` | ප්‍රාදේශීය ලේකම්වරු කොළඹට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-61c352df)
 
 ---
 
