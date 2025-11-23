@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--23_17:48:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--23_18:27:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,396** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,397** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,6 +43,7 @@ A collection of lk_news documents.
 
 - 2025-11-23 | `virakesarilk-e9a4767c` | வரவு - செலவுத் திட்டத்தில் ப்ளு எக்கோனமிக் எனப்படுகின்ற நீலப்பொருளாதாரத்துக்குரிய ஆரம்பக்கட்ட நடவடிக்கைக்காக 100 மில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது ; கடற்றொழில் அமைச்சின் செயலாளர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-e9a4767c)
 - 2025-11-23 | `virakesarilk-bb0b9191` | நுண்நிதி, கடன் ஒழுங்குபடுத்தும் அதிகாரசபை பற்றிய வரைபு ஆவணம் : அமைச்சுசார் ஆலோசனைக் குழுவின் உப குழு, பாராளுமன்ற பெண் உறுப்பினர்களின் ஒன்றியம் இணைந்து கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-bb0b9191)
+- 2025-11-23 | `adalk-3a5324e2` | නිවසකට පස් කන්දක් කඩා වැටී තිදෙනෙකුට තුවාල | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-adalk-3a5324e2)
 - 2025-11-23 | `lankadeepalk-9e99c604` | හිටපු ජනපති රනිල්ගේ රට සවාරිය ගැන 50කගෙන් ප්‍රකාශ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-9e99c604)
 - 2025-11-23 | `lankadeepalk-1ff826cf` | වියට්නාම් ගංවතුරින් 90ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-1ff826cf)
 - 2025-11-23 | `lankadeepalk-77b7cd62` | දොස්තරලා 6000ක් රට යන සූදානමක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-77b7cd62)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-23 | `virakesarilk-9da6c625` | புத்தரை பாதுகாத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-9da6c625)
 - 2025-11-23 | `virakesarilk-1b0b9424` | ரோஹண விஜேவீர பயங்கரவாதி இல்லையா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-1b0b9424)
 - 2025-11-23 | `adalk-447e0c2b` | පිගන් සංස්ථාවේ අලාභය රු.කෝටි 64 ඉක්මවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-adalk-447e0c2b)
-- 2025-11-23 | `virakesarilk-713928a3` | மின் விளக்குகளால் 9 வளைவு பால பாலத்தை ஒளிரச் செய்யும் திட்டம் ஒத்திவைப்பு: | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-713928a3)
 
 ---
 
