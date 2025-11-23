@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_03:47:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_04:17:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,431** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,433** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-24-virakesarilk-0b20e4db",
-    "num": "virakesarilk-0b20e4db",
+    "doc_id": "2025-11-24-dailyftlk-a8f5f304",
+    "num": "dailyftlk-a8f5f304",
     "date_str": "2025-11-24",
-    "description": "\u0baf\u0bbe\u0bb4\u0bcd \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0ba8\u0bc0\u0b9a\u0bcd\u0b9a\u0bb2\u0bcd \u0ba4\u0b9f\u0bbe\u0b95 \u0baa\u0bc1\u0ba9\u0bb0\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bc1\u0bb4\u0baa\u0bcd\u0baa\u0bae\u0bcd; \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0ba4\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc8 \u0ba4\u0bb5\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/231245",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1763935800.0
+    "description": "Beware of the newest cyber scam: Pig Butchering",
+    "url_metadata": "https://www.ft.lk/columns/Beware-of-the-newest-cyber-scam-Pig-Butchering/4-784717",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1763937315.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-24 | `dailyftlk-a8f5f304` | Beware of the newest cyber scam: Pig Butchering | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-a8f5f304)
+- 2025-11-24 | `dailyftlk-9bc64722` | Time to bury the “6% of GDP for Education” slogan and manage with 2% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-9bc64722)
 - 2025-11-24 | `virakesarilk-0b20e4db` | யாழ் மத்திய கல்லூரி நீச்சல் தடாக புனரமைப்பு குழப்பம்; நினைவுக்கல் திறப்பு நிகழ்வை தவிர்த்து அமைச்சர் வெளியேறு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-0b20e4db)
 - 2025-11-24 | `virakesarilk-8f772fa1` | ரோட்டரி திருகோணமலைக்கு ரோட்டரி 3220 ஆளுநர் வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-8f772fa1)
 - 2025-11-24 | `virakesarilk-47a5bd38` | ஊழல்வாதிகளை ஒன்றிணைத்த எதிர்க்கட்சிகளும் மக்கள் ஆதரவு பெறமாட்டார்கள் – சுனில் அந்துநெத்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-47a5bd38)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-23 | `virakesarilk-1a818aed` | இலங்கையர் தினத்தில் தமிழ் அரசியல் கைதிகளை விடுவித்து நல்லிணக்கத்தை வெளிப்படுத்துக ; ஜனாதிபதியை வலியுறுத்தானார் - துரைராசா ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-1a818aed)
 - 2025-11-23 | `lankadeepalk-4f2953ed` | කඩුගන්නාවේ කොන්ක්‍රිට් සුන්බුන් අතර සිරවී දිවි බේරාගත් නිශාන්ති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-4f2953ed)
 - 2025-11-23 | `lankadeepalk-527d394a` | ගාලුමුවදොර ඩ්‍රෝන යැවු තරුණයෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-527d394a)
-- 2025-11-23 | `lankadeepalk-ac80772a` | මඩකළපුවේ පුරා විද්‍යා බෝඩ් ගලවන් යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-ac80772a)
-- 2025-11-23 | `lankadeepalk-2943290c` | කායවර්ධන උපදේශක කුඩු සමග මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-2943290c)
 
 ---
 
