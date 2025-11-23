@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--23_19:46:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--23_20:16:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,398** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,401** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-23-adalk-bafb1939",
-    "num": "adalk-bafb1939",
+    "doc_id": "2025-11-23-virakesarilk-2da7639e",
+    "num": "virakesarilk-2da7639e",
     "date_str": "2025-11-23",
-    "description": "\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba \u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf \u0db1\u0d9c\u0dbb\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 25\u0d9a \u0db1\u0dd2\u0dbd  \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0dc4\u0dcf \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 110 \u0db1\u0dd2\u0dbd \u0db1\u0dd2\u0dc0\u0dc3\u0d9a\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba-\u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf-\u0db1\u0d9c\u0dbb\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-25\u0d9a-\u0db1\u0dd2\u0dbd--\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0dc4\u0dcf-\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-110-\u0db1\u0dd2\u0dbd-\u0db1\u0dd2\u0dc0\u0dc3\u0d9a\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-419835",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1763898612.0
+    "description": "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0b95 \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0b99\u0bcd\u0b95 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/231234",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1763908860.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-23 | `virakesarilk-2da7639e` | யாழ்ப்பாணத்தில் முதல் உள்ளக விளையாட்டரங்க கட்டுமானம் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-2da7639e)
+- 2025-11-23 | `virakesarilk-b3674851` | வடக்கில் மாவீரர் துயிலும்  இல்லங்கள் இம்மாத இறுதிக்குள் விடுவிக்கப்படலாம் - அமைச்சர் சந்திரசேகரன் நம்பிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-b3674851)
+- 2025-11-23 | `virakesarilk-0ca68715` | அடுத்த நாட்களிலும் மழையுடனான வானிலை தொடரும் ; வானிலை ஆராய்ச்சி மத்திய நிலையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-0ca68715)
 - 2025-11-23 | `adalk-bafb1939` | නුවරඑළිය මාලිමා නගරාධිපති මිලියන 25ක නිල  රථයක් හා මිලියන 110 නිල නිවසක් ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-adalk-bafb1939)
 - 2025-11-23 | `virakesarilk-e9a4767c` | வரவு - செலவுத் திட்டத்தில் ப்ளு எக்கோனமிக் எனப்படுகின்ற நீலப்பொருளாதாரத்துக்குரிய ஆரம்பக்கட்ட நடவடிக்கைக்காக 100 மில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது ; கடற்றொழில் அமைச்சின் செயலாளர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-e9a4767c)
 - 2025-11-23 | `virakesarilk-bb0b9191` | நுண்நிதி, கடன் ஒழுங்குபடுத்தும் அதிகாரசபை பற்றிய வரைபு ஆவணம் : அமைச்சுசார் ஆலோசனைக் குழுவின் உப குழு, பாராளுமன்ற பெண் உறுப்பினர்களின் ஒன்றியம் இணைந்து கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-bb0b9191)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-23 | `virakesarilk-afe41e17` | 2026 வரவு–செலவுத் திட்டத்தில் மறைமுக வரி மாற்றங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-afe41e17)
 - 2025-11-23 | `virakesarilk-fef28129` | அவுஸ்திரேலியாவின் வடக்குப் பகுதியைத் தாக்கியது ஃபினா சூறாவளி ; ஆயிரக்கணக்கானோருக்கு மின்சாரத் தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-fef28129)
 - 2025-11-23 | `virakesarilk-299836dd` | அதி­கார மைய­மாக மாறிய பெல­வத்தை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-299836dd)
-- 2025-11-23 | `lankadeepalk-398fc21a` | බැංකු නොවන ණය දෙන ආයතන නියාමනයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-398fc21a)
-- 2025-11-23 | `virakesarilk-9da6c625` | புத்தரை பாதுகாத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-9da6c625)
-- 2025-11-23 | `virakesarilk-1b0b9424` | ரோஹண விஜேவீர பயங்கரவாதி இல்லையா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-1b0b9424)
 
 ---
 
