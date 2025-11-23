@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--23_14:46:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--23_15:16:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,346** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,369** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-23-lankadeepalk-6499d9fd",
-    "num": "lankadeepalk-6499d9fd",
+    "doc_id": "2025-11-23-virakesarilk-7c3eb2b6",
+    "num": "virakesarilk-7c3eb2b6",
     "date_str": "2025-11-23",
-    "description": "76 \u0dc3\u0dcf\u0db4\u0dd9 \u0db1\u0db8\u0dca \u0dc4\u0ddc\u0db3\u0db8 \u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dba\u0d9a\u0dca \u0dc4\u0dd0\u0daf\u0dd4\u0db1\u0dda \u0d9a\u0ddc\u0dc4\u0ddc\u0db8\u0daf?",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/76-\u0dc3\u0db4-\u0db1\u0db8-\u0dc4\u0db3\u0db8-\u0dc3\u0d9b\u0dba-\u0dc3\u0dc0\u0dba\u0d9a-\u0dc4\u0daf\u0db1-\u0d9a\u0dc4\u0db8\u0daf/1-683682",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1763888985.0
+    "description": "01 \u0b95\u0bbf\u0bb2\u0bcb \u0b90\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/231197",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1763890800.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-23 | `virakesarilk-7c3eb2b6` | 01 கிலோ ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-7c3eb2b6)
+- 2025-11-23 | `tamilmirrorlk-a85f0ffd` | தெதுரு ஓயாவின் 06 வான் கதவுகள் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-a85f0ffd)
+- 2025-11-23 | `virakesarilk-c61893e5` | சீரற்ற வானிலையால் உயிரிழந்தவர்களின் எண்ணிக்கை 09 ஆக அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-c61893e5)
+- 2025-11-23 | `lankadeepalk-0e8eba1a` | සෞඛ්‍ය මානව සම්පතේ දීමනා අයවැයෙන් කපලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-0e8eba1a)
+- 2025-11-23 | `lankadeepalk-d5afdb40` | වෛද්‍ය ඉල්ලීමක් දෙන දවස කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-d5afdb40)
+- 2025-11-23 | `lankadeepalk-c19f51e8` | නුගේගොඩ රැලියට  මන්ත්‍රී අජිත්ගෙන්  සහතිකයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-c19f51e8)
 - 2025-11-23 | `lankadeepalk-6499d9fd` | 76 සාපෙ නම් හොඳම සෞඛ්‍ය සේවයක් හැදුනේ කොහොමද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-6499d9fd)
+- 2025-11-23 | `virakesarilk-58ac066f` | இலங்கையில் போதைப்பொருள் வலைப்பின்னல் குறித்த அச்சம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-58ac066f)
 - 2025-11-23 | `lankadeepalk-e9c0a317` | ලංකාවේ තුනෙන් දෙකක් බොරු තොරතුරු වලට රැවටිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-e9c0a317)
+- 2025-11-23 | `virakesarilk-f272d7a1` | சிலை அரசியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-f272d7a1)
+- 2025-11-23 | `virakesarilk-f5f034a2` | ஆக்கிரமிப்புகள் தொடர்பாக  வலுவான ஆய்வுகள் தேவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-f5f034a2)
+- 2025-11-23 | `virakesarilk-007d6d44` | பிராந்திய அரசியலை  குழப்பும் பங்களாதேஷ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-007d6d44)
+- 2025-11-23 | `virakesarilk-a6c2ed05` | நாட்டின் வெவ்வேறு பகுதிகளில் இடம்பெற்ற வாகன விபத்துக்களில் இருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-a6c2ed05)
+- 2025-11-23 | `virakesarilk-d2d354b8` | தூர விலகும் இனப்­பி­ரச்­சினை தீர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-d2d354b8)
+- 2025-11-23 | `virakesarilk-7eba43b9` | சிக்கலைச் சுற்றி உருவாக்கப்படும்  சிக்கல்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-7eba43b9)
 - 2025-11-23 | `lankadeepalk-15c71713` | ව්‍යාජ ලේඛන හදා වාහනයක් විකුණූ අයෙක් අත් අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-15c71713)
+- 2025-11-23 | `virakesarilk-6cd0feb2` | புத்தர் சிலை விவகாரத்தில் அடி பணிந்ததா அரசாங்கம்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-6cd0feb2)
 - 2025-11-23 | `lankadeepalk-866839e7` | මාධ්‍යයට ස්වයං නියාමනයක් ඕනෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-866839e7)
 - 2025-11-23 | `tamilmirrorlk-d2629c29` | “அதிக விலைக்கு மருந்து விற்றால் சொல்லுங்கள்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-d2629c29)
 - 2025-11-23 | `lankadeepalk-c63bd2ec` | අත්‍යවශ්‍ය ඖෂධ තුන්සීයකට වඩා හිඟයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-c63bd2ec)
-- 2025-11-23 | `tamilmirrorlk-9f79bfc2` | ஹிங்குல  கடுகண்ணாவ அனர்த்தத்தில் இறந்தவர்களின் விபரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-9f79bfc2)
-- 2025-11-23 | `lankadeepalk-f22fc43b` | කොළඹට තට්ටු 16ක හෘද රෝහලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-f22fc43b)
-- 2025-11-23 | `lankadeepalk-344e3eb2` | රෝහල්වල බොහෝ යන්ත්‍ර කල් පැනලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-344e3eb2)
-- 2025-11-23 | `lankadeepalk-48ca0aaa` | වැඩි මිලට බෙහෙත් වික්කොත් කියන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-48ca0aaa)
-- 2025-11-23 | `lankadeepalk-c297f1a2` | දැදුරුඔයේ වාන් දොරටු 8ම විවෘත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-c297f1a2)
-- 2025-11-23 | `tamilmirrorlk-719d3754` | விபசாரியை வீட்டுக்கு அழைத்து உல்லாசம்: சுவரில் சாய்ந்து தூங்கிய முதியவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-719d3754)
-- 2025-11-23 | `adalk-b2b126f8` | ආපදා හේතුවෙන්  සිදු වූ පුද්ගල මරණ 09ක් දක්වා ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-adalk-b2b126f8)
-- 2025-11-23 | `lankadeepalk-c0a13c39` | දූෂිත නිලධාරීහු 400ක් පොලීසියෙන් දොට්ට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-c0a13c39)
-- 2025-11-23 | `virakesarilk-5b41e8aa` | மாகாண சபை முறைமையை அர்த்தமுள்ள அரசியல் தீர்வாக நாங்கள் அங்கீகரிக்கவில்லை - கஜேந்திரகுமார் பொன்னம்பலம் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-5b41e8aa)
-- 2025-11-23 | `tamilmirrorlk-38fda26f` | பிரேஸிலின் முன்னாள் ஜனாதிபதி  கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-38fda26f)
-- 2025-11-23 | `lankadeepalk-cc8fea94` | ජීවන් - සීතෙයි අතිනත ගනිති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-lankadeepalk-cc8fea94)
-- 2025-11-23 | `tamilmirrorlk-3c6a3e5d` | இத்தாலியின்  விருது வென்ற அஜித் குமார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-3c6a3e5d)
-- 2025-11-23 | `virakesarilk-1ef8b423` | திருமண பந்தத்தில் இணைந்தார் ஜீவன் தொண்டமான் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-1ef8b423)
-- 2025-11-23 | `tamilmirrorlk-b134ef23` | ”இலங்கையின் நீதித்துறை சுதந்திரம் அச்சுறுத்தலுக்கு உள்ளாகியுள்ளது” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-tamilmirrorlk-b134ef23)
 
 ---
 
