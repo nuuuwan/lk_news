@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-24 04:46:44",
-  "n_docs": 88435,
+  "time_updated": "2025-11-24 05:15:46",
+  "n_docs": 88442,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 88435,
+  "n_docs_with_text": 88442,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-24",
-  "dataset_size": 1323086728,
+  "dataset_size": 1323142663,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-24-dailyftlk-e4088ffe",
-    "num": "dailyftlk-e4088ffe",
+    "doc_id": "2025-11-24-dailyftlk-698564d4",
+    "num": "dailyftlk-698564d4",
     "date_str": "2025-11-24",
-    "description": "The great tea illusion",
-    "url_metadata": "https://www.ft.lk/columns/The-great-tea-illusion/4-784719",
+    "description": "CoPF reviews revenue performance of key Finance Ministry institutions",
+    "url_metadata": "https://www.ft.lk/business/CoPF-reviews-revenue-performance-of-key-Finance-Ministry-institutions/34-784732",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763938391.0
+    "time_ut": 1763940658.0
   }
 }

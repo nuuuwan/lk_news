@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_04:47:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_05:16:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,435** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,442** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-24-dailyftlk-e4088ffe",
-    "num": "dailyftlk-e4088ffe",
+    "doc_id": "2025-11-24-dailyftlk-698564d4",
+    "num": "dailyftlk-698564d4",
     "date_str": "2025-11-24",
-    "description": "The great tea illusion",
-    "url_metadata": "https://www.ft.lk/columns/The-great-tea-illusion/4-784719",
+    "description": "CoPF reviews revenue performance of key Finance Ministry institutions",
+    "url_metadata": "https://www.ft.lk/business/CoPF-reviews-revenue-performance-of-key-Finance-Ministry-institutions/34-784732",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763938391.0
+    "time_ut": 1763940658.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-24 | `dailyftlk-698564d4` | CoPF reviews revenue performance of key Finance Ministry institutions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-698564d4)
+- 2025-11-24 | `dailyftlk-bea516af` | Seminar on ‘Impact of Budget on the National Economy’ at OPA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-bea516af)
+- 2025-11-24 | `dailyftlk-5020d9f0` | Sri Lankan delegation wraps up high-impact trade and investment mission in Canada | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-5020d9f0)
+- 2025-11-24 | `dailyftlk-3ee4bb02` | Halal Council gets recognition from Sri Lanka Standard Institution for national quality | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-3ee4bb02)
+- 2025-11-24 | `dailyftlk-33f596c1` | More productivity, more support assures Govt. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-33f596c1)
+- 2025-11-24 | `dailyftlk-8f8daf11` | United Motors announces 10 for 1 share split | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-8f8daf11)
+- 2025-11-24 | `dailyftlk-cb59bbe2` | Top Obstetrician, Gynaecologist joins Lanka Hospitals Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-cb59bbe2)
 - 2025-11-24 | `dailyftlk-e4088ffe` | The great tea illusion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-e4088ffe)
 - 2025-11-24 | `dailyftlk-228b4876` | Rewarding the harvest: Why Sri Lanka must shift from input subsidies to output incentives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-228b4876)
 - 2025-11-24 | `dailyftlk-a8f5f304` | Beware of the newest cyber scam: Pig Butchering | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-a8f5f304)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-11-24 | `tamilmirrorlk-56894e24` | ’ட்ரம்பின் 28 அம்ச திட்டம் அமைதியை ஏற்படுத்தும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-tamilmirrorlk-56894e24)
 - 2025-11-24 | `virakesarilk-7b9c4975` | விசுவமடுவில் மாவீரர் பெற்றோர்கள் உரித்துடையோர்களை மதிப்பளிக்கும் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-7b9c4975)
 - 2025-11-24 | `virakesarilk-dd80fab0` | கல்முனையில் அனுமதிப்பத்திரமின்றி அரச மதுபானம் விற்ற நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-dd80fab0)
-- 2025-11-24 | `virakesarilk-63cab6c7` | முன்னாள் றினோன் மற்றும் தேசிய வீரர் பஸாலின் அற்புதமான ஆற்றல்களால் நிகம்போ யூத்தை வீழ்த்தியது நியூ ஸ்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-63cab6c7)
-- 2025-11-24 | `virakesarilk-ea2b9ffa` | கொக்கைனுடன் மலேசிய நாட்டவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-ea2b9ffa)
-- 2025-11-24 | `virakesarilk-30e8d9f5` | மாவனெல்ல - ரம்புக்கனை வீதிக்குப் பதிலாக மாற்று வழிகளைப் பயன்படுத்துங்கள் - பேரிடர் மேலாண்மை மையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-30e8d9f5)
-- 2025-11-24 | `virakesarilk-46378af3` | மாவனெல்ல - ரம்புக்கனை வீதியில் பயணித்த முச்சக்கர வண்டி மீது பெரிய மரம் விழுந்து விபத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-46378af3)
-- 2025-11-24 | `virakesarilk-e79871a0` | மாவீரர் துயிலும் இல்லங்களில் சுடர் ஏற்றுவதற்காக ஆயத்தப்படும் வேளையில் ; அரசியல் கைதிகளின் விடுதலையையும் வலியுறுத்துவோம் - அருட்தந்தை சத்திவேல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-e79871a0)
-- 2025-11-24 | `virakesarilk-b71fe805` | துடுப்பாட்டத்தில் பாபர் அஸாம், சாஹிப்ஸதா பர்ஹான், பந்துவீச்சில் தாரிக் அபாரம், மும்முனை ரி20 தொடர் இறுதிப் போட்டியில் பாகிஸ்தான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-b71fe805)
-- 2025-11-23 | `virakesarilk-1a818aed` | இலங்கையர் தினத்தில் தமிழ் அரசியல் கைதிகளை விடுவித்து நல்லிணக்கத்தை வெளிப்படுத்துக ; ஜனாதிபதியை வலியுறுத்தானார் - துரைராசா ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-23-virakesarilk-1a818aed)
 
 ---
 
