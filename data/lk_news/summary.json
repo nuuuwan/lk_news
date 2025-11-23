@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-24 04:17:23",
-  "n_docs": 88433,
+  "time_updated": "2025-11-24 04:46:44",
+  "n_docs": 88435,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 88433,
+  "n_docs_with_text": 88435,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-24",
-  "dataset_size": 1323020596,
+  "dataset_size": 1323086728,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-24-dailyftlk-a8f5f304",
-    "num": "dailyftlk-a8f5f304",
+    "doc_id": "2025-11-24-dailyftlk-e4088ffe",
+    "num": "dailyftlk-e4088ffe",
     "date_str": "2025-11-24",
-    "description": "Beware of the newest cyber scam: Pig Butchering",
-    "url_metadata": "https://www.ft.lk/columns/Beware-of-the-newest-cyber-scam-Pig-Butchering/4-784717",
+    "description": "The great tea illusion",
+    "url_metadata": "https://www.ft.lk/columns/The-great-tea-illusion/4-784719",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1763937315.0
+    "time_ut": 1763938391.0
   }
 }
