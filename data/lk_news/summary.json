@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-24 15:47:19",
-  "n_docs": 88572,
+  "time_updated": "2025-11-24 16:21:04",
+  "n_docs": 88579,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 88572,
+  "n_docs_with_text": 88579,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-24",
-  "dataset_size": 1325084214,
+  "dataset_size": 1325292012,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-24-tamilmirrorlk-9e6a0c4b",
-    "num": "tamilmirrorlk-9e6a0c4b",
+    "doc_id": "2025-11-24-virakesarilk-bceeadbc",
+    "num": "virakesarilk-bceeadbc",
     "date_str": "2025-11-24",
-    "description": "\u0bae\u0bb1\u0bcd\u0bb1\u0bca\u0bb0\u0bc1 \u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd \u0ba4\u0bcb\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb1\u0bcd\u0bb1\u0bca\u0bb0\u0bc1-\u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd-\u0ba4\u0bcb\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1/175-368413",
+    "description": "\u0b95\u0bca\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bcd 10 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0ba3 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/231280",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1763979098.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1763980140.0
   }
 }
