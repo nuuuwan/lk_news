@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_14:24:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_14:49:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,545** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,550** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-24-tamilmirrorlk-2821528c",
-    "num": "tamilmirrorlk-2821528c",
+    "doc_id": "2025-11-24-lankadeepalk-962a7df3",
+    "num": "lankadeepalk-962a7df3",
     "date_str": "2025-11-24",
-    "description": "10 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0ba3 \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/10-\u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bb0\u0ba3-\u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8/175-368405",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1763973955.0
+    "description": "\u2019\u2019\u0d9a\u0dd0\u0db6\u0dca \u0d91\u0d9a\u2019\u2019 \u0d91\u0db4\u0dcf \u0dba\u0dd0\u0dba\u0dd2 \u0da2\u0d9c\u0dad\u0dca \u0dc0\u0dd2\u0dad\u0dcf\u0db1 \u0dbd\u0dd2\u0dba\u0dd4\u0db8\u0d9a\u0dca \u0daf\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0db6-\u0d91\u0d9a-\u0d91\u0db4-\u0dba\u0dba-\u0da2\u0d9c\u0dad-\u0dc0\u0dad\u0db1-\u0dbd\u0dba\u0db8\u0d9a-\u0daf\u0dba/101-683774",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1763974861.0
 }
 ```
 
@@ -41,10 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-24 | `lankadeepalk-962a7df3` | ’’කැබ් එක’’ එපා යැයි ජගත් විතාන ලියුමක් දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-962a7df3)
+- 2025-11-24 | `tamilmirrorlk-3ae52913` | மத்திய நிலையத்தில் போதையில் இருந்தவருக்கு தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-tamilmirrorlk-3ae52913)
+- 2025-11-24 | `tamilmirrorlk-8785fdbe` | நடிகர் தர்மேந்திரா காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-tamilmirrorlk-8785fdbe)
 - 2025-11-24 | `tamilmirrorlk-2821528c` | 10 பேருக்கு மரண தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-tamilmirrorlk-2821528c)
 - 2025-11-24 | `lankadeepalk-84588df1` | හිරණ ගින්නක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-84588df1)
 - 2025-11-24 | `tamilmirrorlk-a9a02133` | திருகோணமலையில் கண்களை கட்டி ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-tamilmirrorlk-a9a02133)
 - 2025-11-24 | `tamilmirrorlk-5c31fc8b` | ஏ.டி.எம் அட்டையில்  இருந்து 4 லட்சம் பெற்றவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-tamilmirrorlk-5c31fc8b)
+- 2025-11-24 | `tamilmirrorlk-3e3ac126` | ஏ.டி.எம்யில்  4 லட்சம் பெற்றவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-tamilmirrorlk-3e3ac126)
 - 2025-11-24 | `tamilmirrorlk-0ba28ccf` | பிரதமர் ஹரிணியை சந்தித்தார் ஜூலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-tamilmirrorlk-0ba28ccf)
 - 2025-11-24 | `lankadeepalk-5ee600aa` | මත් සැකකරුවෝ 1038 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-5ee600aa)
 - 2025-11-24 | `tamilmirrorlk-ec4c7e2a` | கந்தகெட்டிய பட்ஜெட் இரண்டாவது தடவையாக தோற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-tamilmirrorlk-ec4c7e2a)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-24 | `lankadeepalk-683dd3f1` | ජනවාරි සිට පාසල් වාහන වලට සී.සී.ටී.වී අනිවාර්යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-683dd3f1)
 - 2025-11-24 | `virakesarilk-97d81159` | விளையாட்டில் சிங்களம், தமிழ், முஸ்லிம்,யாழ்ப்பாணம்,காலி என நாம் பார்ப்பதில்லை ; திறமையான பிள்ளைகளை பார்க்கிறோம்  - அமைச்சர் சுனில் குமார கமகே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-97d81159)
 - 2025-11-24 | `lankadeepalk-31804929` | හපුතලේ යහලබැද්ද මාර්ගය අවහිර වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-31804929)
-- 2025-11-24 | `lankadeepalk-2db793ef` | හපුතලේ පස් කන්දක් කඩා වැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-2db793ef)
-- 2025-11-24 | `virakesarilk-ead8aa09` | கர்ப்பிணிப் பெண்களின் போதைப்பொருள் பாவனையால் நமது குழந்தைகள் அபாயத்துக்குள்ளாகின்றனர்! - அமைச்சர் சரோஜா சாவித்ரி போல்ராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-ead8aa09)
-- 2025-11-24 | `virakesarilk-2b067af9` | 16 வயதுக்குட்பட்டவர்கள் சமூக ஊடகங்களை பயன்படுத்துவதை தடை செய்ய மலேசியா தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-2b067af9)
-- 2025-11-24 | `virakesarilk-6e8feb10` | இன்றைய நாணய மாற்று விகிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-6e8feb10)
 
 ---
 
