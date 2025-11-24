@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_20:48:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_21:20:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,606** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,625** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-24-lankadeepalk-c910249d",
-    "num": "lankadeepalk-c910249d",
+    "doc_id": "2025-11-24-lankadeepalk-d72b9021",
+    "num": "lankadeepalk-d72b9021",
     "date_str": "2025-11-24",
-    "description": "\u0db8\u0dad\u0dca\u0dad\u0dbd \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0dc5 \u0db4\u0dcf\u0da9\u0dd4\u0dc0 \u0d9a\u0ddd\u0da7\u0dd2 6600 \u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dad\u0dad\u0dbd-\u0d9c\u0dc0\u0db1-\u0dad\u0da7\u0db4\u0dc5-\u0db4\u0da9\u0dc0-\u0d9a\u0da7-6600-\u0d9a/1-683796",
+    "description": "\u0db1\u0dcf\u0dba \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0db1\u0dd2\u0dc3\u0dcf \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db1\u0dba-\u0d85\u0dc0\u0daf\u0db1\u0db8\u0d9a-\u0db1\u0dc3-\u0db4\u0dbb\u0dc3\u0d9a-\u0d89\u0dc0\u0dad-\u0d9a\u0dbb\u0dba/101-683804",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1763994359.0
+    "time_ut": 1763998005.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-24 | `lankadeepalk-d72b9021` | නාය අවදානමක් නිසා පිරිසක් ඉවත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-d72b9021)
+- 2025-11-24 | `lankadeepalk-6a88e2a0` | ලංකාවේ ’’රිවස්ටන්’’ කල්කටා රන් සම්මාන දිනයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-6a88e2a0)
+- 2025-11-24 | `lankadeepalk-8cb31cdf` | බදුල්ල - කොළඹ මාර්ගය හල්දුම්මුල්ලෙන් අවහිර වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-8cb31cdf)
 - 2025-11-24 | `lankadeepalk-c910249d` | මත්තල ගුවන් තොටුපළ පාඩුව කෝටි 6600 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-c910249d)
+- 2025-11-24 | `virakesarilk-7ade9b6c` | ஜனாதிபதி அனுரகுமார திசாநாயக்க பிறந்தநாளை முன்னிட்டு ஜிந்துப்பிட்டி முருகன் கோவிலில் விசேட பூஜை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-7ade9b6c)
+- 2025-11-24 | `virakesarilk-b9567cbf` | யாழில் இடம்பெற்ற கொலையுடன் தொடர்புடைய சந்தேகநபர் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-b9567cbf)
 - 2025-11-24 | `lankadeepalk-11e72442` | අය්.එම්.එෆ්. මීළඟ වාරිකය ගැන 15 තීරණය ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-11e72442)
+- 2025-11-24 | `virakesarilk-b1e9b738` | ரில்வினுக்கு எதிரான வன்முறை ஆர்ப்பாட்டத்திற்கு ஈ.பி.டி.பி கண்டனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-b1e9b738)
 - 2025-11-24 | `lankadeepalk-387e914b` | ප්‍රතිකාර ගන්න ආ කතකට දොස්තරගෙන් කරදරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-387e914b)
 - 2025-11-24 | `lankadeepalk-1de48bf6` | පහේ දරුවා වෑන් රථයට බිලි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-1de48bf6)
+- 2025-11-24 | `virakesarilk-5e7c3ff4` | ஊடக சுதந்திரம் பொய்யுக்கு இடமளிக்காது - சபை முதல்வர் பிமல் ரத்நாயக்க வலியுறுத்தினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-5e7c3ff4)
+- 2025-11-24 | `adalk-af2b288b` | බිමල්ගේ අමාත්‍යාංශ වැය ශිර්ෂය සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-adalk-af2b288b)
+- 2025-11-24 | `virakesarilk-3e12563b` | பிரதமருடன் அமெரிக்க தூதுவர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-3e12563b)
+- 2025-11-24 | `virakesarilk-8222550b` | SINGER நிறுவனம் “நோக்கத்துடனோர் முன்னேற்றம்" என்ற கருப்பொருளில் ESG திட்டப்பாதை 200ஐ அறிமுகப்படுத்துகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-8222550b)
+- 2025-11-24 | `virakesarilk-da671198` | ஹிர்துஹாரூன் நடிக்கும் 'டெக்ஸாஸ் டைகர்' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-da671198)
+- 2025-11-24 | `virakesarilk-2796d51c` | ஹரிஷ் கல்யாண் றாப்பிசை கலைஞராக நடிக்கும் 'தாஷமக்கான்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-2796d51c)
 - 2025-11-24 | `virakesarilk-f091f827` | பங்களாதேஷை சுப்பர் ஓவரில் வீழ்த்தி ஆசிய கிண்ண உதயத் தாரகைகள் சம்பியன் பட்டத்தை பாகிஸ்தான் சூடியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-f091f827)
 - 2025-11-24 | `virakesarilk-6ff718fc` | சாதனை படைக்கும் அருண் விஜய்யின் 'ரெட்ட தல' பட பாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-6ff718fc)
 - 2025-11-24 | `virakesarilk-27708aa7` | இந்து மத சனாதன தர்மத்தை உரத்து பேசும் நந்தமூரி பாலகிருஷ்ணாவின் 'அகண்டா 2 : தாண்டவம்' படத்தின் முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-27708aa7)
 - 2025-11-24 | `virakesarilk-0c1e5527` | தயாரிப்பாளர் கலைப்புலி எஸ். தாணு வெளியிட்ட 'செர்பன்ட்' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-0c1e5527)
-- 2025-11-24 | `virakesarilk-85757c31` | அர்ஜுன் தாஸ் - சாண்டி மாஸ்டர் இணைந்து மிரட்டும் 'சுப்பர் ஹீரோ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-85757c31)
-- 2025-11-24 | `adalk-8b92efe4` | පුද්ගලයින් දස දෙනෙකුට මරණ දඬුවම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-adalk-8b92efe4)
-- 2025-11-24 | `lankadeepalk-6702c763` | විද්‍යුත් කාඩ් ගෙවීම් ක්‍රමය දිනෙන් දින දියුණු කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-6702c763)
-- 2025-11-24 | `adalk-b6d5f413` | ආණ්ඩුවේ බලාපොරොත්තු සුන් කරමින් නුගේගොඩ මහා හිස් ගොඩක් බවට පත් වුණා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-adalk-b6d5f413)
-- 2025-11-24 | `lankadeepalk-9ce78beb` | පොල් ගෙඩි කෝටි 420 ක ඉලක්කයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-9ce78beb)
-- 2025-11-24 | `virakesarilk-ba0082e7` | தம்புள்ளையில் புதிய இடத்தில் ஆதார வைத்தியசாலையை ரூ.12 பில். செலவில் அதிநவீன வசதிகளுடன் நிர்மாணிக்கத் திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-ba0082e7)
-- 2025-11-24 | `lankadeepalk-5c44ec67` | තරුණයකු ඝාතනයට දස දෙනෙක් පෝරකයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-5c44ec67)
-- 2025-11-24 | `virakesarilk-b08adfee` | பாடசாலை வேன்களுக்கு சி.சி.டி.வி கெமரா அமைப்புகளை கட்டாயமாக்க நடவடிக்கை எடுக்கப்படும் - பிமல் ரத்நாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-b08adfee)
-- 2025-11-24 | `lankadeepalk-3487fbf2` | රියැදුරන් වෙරිවීලාදැයි බලන්න ඡංගම වෛද්‍ය රථයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-3487fbf2)
-- 2025-11-24 | `lankadeepalk-1e5ba860` | මැකො නිලධාරී හතළිහක් පුහුණුවකට ඉන්දියාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-1e5ba860)
-- 2025-11-24 | `lankadeepalk-e43afc9d` | ගම්පහට සුළු ගංවතුර තත්වයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-e43afc9d)
-- 2025-11-24 | `virakesarilk-f77ebae3` | சிஐடியில் முன்னிலையானார் நடிகை காயத்ரி டயஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-f77ebae3)
 
 ---
 
