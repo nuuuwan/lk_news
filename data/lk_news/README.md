@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_03:18:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_03:47:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,644** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,647** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-25-dailyftlk-b2ba1589",
-    "num": "dailyftlk-b2ba1589",
+    "doc_id": "2025-11-25-dailyftlk-f0be889f",
+    "num": "dailyftlk-f0be889f",
     "date_str": "2025-11-25",
-    "description": "Lotus Renewable offloads 4.6% of Hatton Plantations for Rs. 297.7 m",
-    "url_metadata": "https://www.ft.lk/business/Lotus-Renewable-offloads-4-6-of-Hatton-Plantations-for-Rs-297-7-m/34-784808",
+    "description": "Tilvin says NPP-led Govt. will transform society during its five-year mandate",
+    "url_metadata": "https://www.ft.lk/news/Tilvin-says-NPP-led-Govt-will-transform-society-during-its-five-year-mandate/56-784811",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764020564.0
+    "time_ut": 1764020983.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-25 | `dailyftlk-f0be889f` | Tilvin says NPP-led Govt. will transform society during its five-year mandate | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-f0be889f)
+- 2025-11-25 | `dailyftlk-c8a56e55` | US envoy discusses collaboration on education with Prime Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-c8a56e55)
+- 2025-11-25 | `dailyftlk-6b6bfb29` | Lankem Ceylon buys majority stake in York Arcade for Rs. 340.58 m | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-6b6bfb29)
 - 2025-11-25 | `dailyftlk-b2ba1589` | Lotus Renewable offloads 4.6% of Hatton Plantations for Rs. 297.7 m | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-b2ba1589)
 - 2025-11-25 | `dailyftlk-b2745b75` | Cenmetrix marks 20 years of innovation and leadership in digital identity and access management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-b2745b75)
 - 2025-11-25 | `dailyftlk-c9cc9b37` | Macksons Solar sets new benchmark with largest rooftop installation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-c9cc9b37)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-24 | `lankadeepalk-8c113ba4` | පුරා විද්‍යා නාම පුවරු ගැලෙව්වාට අයෙක් සැකපිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-8c113ba4)
 - 2025-11-24 | `lankadeepalk-d72b9021` | නාය අවදානමක් නිසා පිරිසක් ඉවත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-d72b9021)
 - 2025-11-24 | `lankadeepalk-6a88e2a0` | ලංකාවේ ’’රිවස්ටන්’’ කල්කටා රන් සම්මාන දිනයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-6a88e2a0)
-- 2025-11-24 | `lankadeepalk-8cb31cdf` | බදුල්ල - කොළඹ මාර්ගය හල්දුම්මුල්ලෙන් අවහිර වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-8cb31cdf)
-- 2025-11-24 | `lankadeepalk-c910249d` | මත්තල ගුවන් තොටුපළ පාඩුව කෝටි 6600 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-c910249d)
-- 2025-11-24 | `virakesarilk-7ade9b6c` | ஜனாதிபதி அனுரகுமார திசாநாயக்க பிறந்தநாளை முன்னிட்டு ஜிந்துப்பிட்டி முருகன் கோவிலில் விசேட பூஜை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-7ade9b6c)
 
 ---
 

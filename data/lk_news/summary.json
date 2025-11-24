@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-25 03:17:31",
-  "n_docs": 88644,
+  "time_updated": "2025-11-25 03:46:39",
+  "n_docs": 88647,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 88644,
+  "n_docs_with_text": 88647,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-25",
-  "dataset_size": 1326709161,
+  "dataset_size": 1326721005,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-25-dailyftlk-b2ba1589",
-    "num": "dailyftlk-b2ba1589",
+    "doc_id": "2025-11-25-dailyftlk-f0be889f",
+    "num": "dailyftlk-f0be889f",
     "date_str": "2025-11-25",
-    "description": "Lotus Renewable offloads 4.6% of Hatton Plantations for Rs. 297.7 m",
-    "url_metadata": "https://www.ft.lk/business/Lotus-Renewable-offloads-4-6-of-Hatton-Plantations-for-Rs-297-7-m/34-784808",
+    "description": "Tilvin says NPP-led Govt. will transform society during its five-year mandate",
+    "url_metadata": "https://www.ft.lk/news/Tilvin-says-NPP-led-Govt-will-transform-society-during-its-five-year-mandate/56-784811",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764020564.0
+    "time_ut": 1764020983.0
   }
 }
