@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_06:31:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_07:15:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,457** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,458** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-24-dailyftlk-35d52d5a",
-    "num": "dailyftlk-35d52d5a",
+    "doc_id": "2025-11-24-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
     "date_str": "2025-11-24",
-    "description": "President vows to prevent racist divisions",
-    "url_metadata": "https://www.ft.lk/news/President-vows-to-prevent-racist-divisions/56-784749",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1763943716.0
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/231251",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1763946420.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-24 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-3a015e4a)
 - 2025-11-24 | `dailyftlk-35d52d5a` | President vows to prevent racist divisions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-35d52d5a)
 - 2025-11-24 | `dailyftlk-698564d4` | CoPF reviews revenue performance of key Finance Ministry institutions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-698564d4)
 - 2025-11-24 | `dailyftlk-bea516af` | Seminar on ‘Impact of Budget on the National Economy’ at OPA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-bea516af)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-24 | `virakesarilk-8f5102e6` | 1 கிலோ ஐஸ் போதைப்பொருளுடன் சந்தேகநபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-8f5102e6)
 - 2025-11-24 | `virakesarilk-ef8e2510` | ஆட்சியை கைப்பற்ற வேண்டுமாயின் எதிர்க்கட்சியினர் எம்முடன் இணைய வேண்டும் - ஜெகத் விதாரண | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-ef8e2510)
 - 2025-11-24 | `tamilmirrorlk-56894e24` | ’ட்ரம்பின் 28 அம்ச திட்டம் அமைதியை ஏற்படுத்தும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-tamilmirrorlk-56894e24)
-- 2025-11-24 | `virakesarilk-7b9c4975` | விசுவமடுவில் மாவீரர் பெற்றோர்கள் உரித்துடையோர்களை மதிப்பளிக்கும் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-7b9c4975)
 
 ---
 
