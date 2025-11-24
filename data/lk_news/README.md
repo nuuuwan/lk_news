@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_08:20:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_09:15:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,462** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,471** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-24-lankadeepalk-ace53441",
-    "num": "lankadeepalk-ace53441",
+    "doc_id": "2025-11-24-lankadeepalk-96e8bed9",
+    "num": "lankadeepalk-96e8bed9",
     "date_str": "2025-11-24",
-    "description": "\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0d9c\u0dd0\u0db1 \u0daf\u0dd4\u0db1\u0dca \u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dbd\u0d9c\u0dab\u0dba-\u0dc0\u0dc3\u0dc3-\u0d9c\u0db1-\u0daf\u0db1-\u0d85\u0db1\u0dc0\u0d9a\u0dba/1-683709",
+    "description": "\u0d9c\u0dc3\u0d9a\u0dca \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd3 \u0dad\u0dca\u200d\u0dbb\u0dd2\u0dbb\u0ddd\u0daf \u0dbb\u0dae \u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4 \u0db8\u0dbb\u0dd4\u0da7:3\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9c\u0dc3\u0d9a-\u0d9a\u0da9-\u0dc0\u0da7-\u0dad\u0dbb\u0dbb\u0daf-\u0dbb\u0dae-\u0dbb\u0dba\u0daf\u0dbb-\u0db8\u0dbb\u0da73\u0d9a-\u0dbb\u0dc4\u0dbd\u0da7/1-683713",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1763950524.0
+    "time_ut": 1763955114.0
 }
 ```
 
@@ -41,7 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-24 | `lankadeepalk-96e8bed9` | ගසක් කඩා වැටී ත්‍රිරෝද රථ රියදුරු මරුට:3ක් රෝහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-96e8bed9)
+- 2025-11-24 | `tamilmirrorlk-b9ca3e3c` | பரீட்சை எழுதும் மாணவர்களுக்கு விசேட போக்குவரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-tamilmirrorlk-b9ca3e3c)
+- 2025-11-24 | `tamilmirrorlk-4f2b82e3` | வெள்ள அபாய எச்சரிக்கை நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-tamilmirrorlk-4f2b82e3)
+- 2025-11-24 | `lankadeepalk-a9355a3a` | ගිනිඅවි-පතුරොම් සමඟ 5ක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-a9355a3a)
+- 2025-11-24 | `lankadeepalk-93968dc1` | පුරාවිද්‍යා බෝඩ් ගැලවීම ගැන විමර්ශනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-93968dc1)
+- 2025-11-24 | `tamilmirrorlk-dfe6c489` | மழை சில நாட்களுக்கு தொடரும் : நாளை தாழமுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-tamilmirrorlk-dfe6c489)
+- 2025-11-24 | `lankadeepalk-04a8fcf8` | මිදිගම සිද්ධියේ තවත් සැකකරුවෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-04a8fcf8)
 - 2025-11-24 | `lankadeepalk-ace53441` | කාලගුණය වැස්ස ගැන දුන් අනාවැකිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-ace53441)
+- 2025-11-24 | `adalk-6a124b8b` | ත්‍රීරෝද රථයකට ගසක් කඩා වැටී පුද්ගලයෙකු මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-adalk-6a124b8b)
 - 2025-11-24 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-3a015e4a)
 - 2025-11-24 | `adalk-54120a07` | වායුගෝලයේ කැළඹිම අඩුපිඩනයක් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-adalk-54120a07)
 - 2025-11-24 | `dailyftlk-35d52d5a` | President vows to prevent racist divisions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-35d52d5a)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2025-11-24 | `dailyftlk-8f8daf11` | United Motors announces 10 for 1 share split | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-8f8daf11)
 - 2025-11-24 | `dailyftlk-cb59bbe2` | Top Obstetrician, Gynaecologist joins Lanka Hospitals Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-cb59bbe2)
 - 2025-11-24 | `dailyftlk-e4088ffe` | The great tea illusion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-e4088ffe)
-- 2025-11-24 | `dailyftlk-228b4876` | Rewarding the harvest: Why Sri Lanka must shift from input subsidies to output incentives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-228b4876)
-- 2025-11-24 | `dailyftlk-a8f5f304` | Beware of the newest cyber scam: Pig Butchering | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-a8f5f304)
-- 2025-11-24 | `dailyftlk-9bc64722` | Time to bury the “6% of GDP for Education” slogan and manage with 2% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-9bc64722)
-- 2025-11-24 | `virakesarilk-0b20e4db` | யாழ் மத்திய கல்லூரி நீச்சல் தடாக புனரமைப்பு குழப்பம்; நினைவுக்கல் திறப்பு நிகழ்வை தவிர்த்து அமைச்சர் வெளியேறு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-0b20e4db)
-- 2025-11-24 | `virakesarilk-8f772fa1` | ரோட்டரி திருகோணமலைக்கு ரோட்டரி 3220 ஆளுநர் வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-8f772fa1)
-- 2025-11-24 | `virakesarilk-47a5bd38` | ஊழல்வாதிகளை ஒன்றிணைத்த எதிர்க்கட்சிகளும் மக்கள் ஆதரவு பெறமாட்டார்கள் – சுனில் அந்துநெத்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-47a5bd38)
-- 2025-11-24 | `virakesarilk-ce8e88ae` | தபால் சேவைக்கு புதிதாக 2 ஆயிரம் பேர் ஆட்சேர்ப்பு - அமைச்சர் நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-ce8e88ae)
-- 2025-11-24 | `virakesarilk-8f5102e6` | 1 கிலோ ஐஸ் போதைப்பொருளுடன் சந்தேகநபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-8f5102e6)
 
 ---
 
