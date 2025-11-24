@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-25 02:18:26",
-  "n_docs": 88639,
+  "time_updated": "2025-11-25 02:47:48",
+  "n_docs": 88643,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 88639,
+  "n_docs_with_text": 88643,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-25",
-  "dataset_size": 1326621977,
+  "dataset_size": 1326664260,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-25-dailyftlk-2b62d05a",
-    "num": "dailyftlk-2b62d05a",
+    "doc_id": "2025-11-25-dailyftlk-b2745b75",
+    "num": "dailyftlk-b2745b75",
     "date_str": "2025-11-25",
-    "description": "Sri Lanka asks Canada to curb separatist-linked activity",
-    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-asks-Canada-to-curb-separatist-linked-activity/56-784785",
+    "description": "Cenmetrix marks 20 years of innovation and leadership in digital identity and access management",
+    "url_metadata": "https://www.ft.lk/business/Cenmetrix-marks-20-years-of-innovation-and-leadership-in-digital-identity-and-access-management/34-784798",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764015647.0
+    "time_ut": 1764018736.0
   }
 }

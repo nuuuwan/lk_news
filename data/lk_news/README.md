@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_02:19:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_02:48:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,639** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,643** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-25-dailyftlk-2b62d05a",
-    "num": "dailyftlk-2b62d05a",
+    "doc_id": "2025-11-25-dailyftlk-b2745b75",
+    "num": "dailyftlk-b2745b75",
     "date_str": "2025-11-25",
-    "description": "Sri Lanka asks Canada to curb separatist-linked activity",
-    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-asks-Canada-to-curb-separatist-linked-activity/56-784785",
+    "description": "Cenmetrix marks 20 years of innovation and leadership in digital identity and access management",
+    "url_metadata": "https://www.ft.lk/business/Cenmetrix-marks-20-years-of-innovation-and-leadership-in-digital-identity-and-access-management/34-784798",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764015647.0
+    "time_ut": 1764018736.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-25 | `dailyftlk-b2745b75` | Cenmetrix marks 20 years of innovation and leadership in digital identity and access management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-b2745b75)
+- 2025-11-25 | `dailyftlk-c9cc9b37` | Macksons Solar sets new benchmark with largest rooftop installation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-c9cc9b37)
+- 2025-11-25 | `dailyftlk-82973277` | Browns Agriculture strikes Gold | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-82973277)
+- 2025-11-25 | `dailyftlk-041fe2a5` | Cleantech champions  circular solutions at Biodiversity Sri Lanka’s 10th anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-041fe2a5)
 - 2025-11-25 | `dailyftlk-2b62d05a` | Sri Lanka asks Canada to curb separatist-linked activity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-2b62d05a)
 - 2025-11-25 | `dailyftlk-c696a0ca` | SriLankan Airlines: Time to get Govt. out of cockpit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-c696a0ca)
 - 2025-11-25 | `dailyftlk-41d9cbb7` | Scaling up energy transition in Asia and Pacific | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-41d9cbb7)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-24 | `lankadeepalk-c910249d` | මත්තල ගුවන් තොටුපළ පාඩුව කෝටි 6600 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-c910249d)
 - 2025-11-24 | `virakesarilk-7ade9b6c` | ஜனாதிபதி அனுரகுமார திசாநாயக்க பிறந்தநாளை முன்னிட்டு ஜிந்துப்பிட்டி முருகன் கோவிலில் விசேட பூஜை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-7ade9b6c)
 - 2025-11-24 | `virakesarilk-b9567cbf` | யாழில் இடம்பெற்ற கொலையுடன் தொடர்புடைய சந்தேகநபர் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-b9567cbf)
-- 2025-11-24 | `lankadeepalk-11e72442` | අය්.එම්.එෆ්. මීළඟ වාරිකය ගැන 15 තීරණය ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-11e72442)
-- 2025-11-24 | `virakesarilk-b1e9b738` | ரில்வினுக்கு எதிரான வன்முறை ஆர்ப்பாட்டத்திற்கு ஈ.பி.டி.பி கண்டனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-b1e9b738)
-- 2025-11-24 | `lankadeepalk-387e914b` | ප්‍රතිකාර ගන්න ආ කතකට දොස්තරගෙන් කරදරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-387e914b)
-- 2025-11-24 | `lankadeepalk-1de48bf6` | පහේ දරුවා වෑන් රථයට බිලි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-1de48bf6)
 
 ---
 
