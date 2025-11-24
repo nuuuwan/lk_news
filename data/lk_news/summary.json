@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-25 03:46:39",
-  "n_docs": 88647,
+  "time_updated": "2025-11-25 04:18:20",
+  "n_docs": 88656,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 88647,
+  "n_docs_with_text": 88656,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-25",
-  "dataset_size": 1326721005,
+  "dataset_size": 1326829512,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-25-dailyftlk-f0be889f",
-    "num": "dailyftlk-f0be889f",
+    "doc_id": "2025-11-25-virakesarilk-88fefde7",
+    "num": "virakesarilk-88fefde7",
     "date_str": "2025-11-25",
-    "description": "Tilvin says NPP-led Govt. will transform society during its five-year mandate",
-    "url_metadata": "https://www.ft.lk/news/Tilvin-says-NPP-led-Govt-will-transform-society-during-its-five-year-mandate/56-784811",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1764020983.0
+    "description": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bb2\u0bc8 \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd \u0b9a\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc0\u0bb1\u0bbf \u0bb5\u0bb2\u0bbf \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/231343",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1764022800.0
   }
 }
