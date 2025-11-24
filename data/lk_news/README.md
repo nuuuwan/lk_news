@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_01:48:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_02:19:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,637** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,639** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-25-dailyftlk-41d9cbb7",
-    "num": "dailyftlk-41d9cbb7",
+    "doc_id": "2025-11-25-dailyftlk-2b62d05a",
+    "num": "dailyftlk-2b62d05a",
     "date_str": "2025-11-25",
-    "description": "Scaling up energy transition in Asia and Pacific",
-    "url_metadata": "https://www.ft.lk/opinion/Scaling-up-energy-transition-in-Asia-and-Pacific/14-784765",
+    "description": "Sri Lanka asks Canada to curb separatist-linked activity",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-asks-Canada-to-curb-separatist-linked-activity/56-784785",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764009838.0
+    "time_ut": 1764015647.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-25 | `dailyftlk-2b62d05a` | Sri Lanka asks Canada to curb separatist-linked activity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-2b62d05a)
+- 2025-11-25 | `dailyftlk-c696a0ca` | SriLankan Airlines: Time to get Govt. out of cockpit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-c696a0ca)
 - 2025-11-25 | `dailyftlk-41d9cbb7` | Scaling up energy transition in Asia and Pacific | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-41d9cbb7)
 - 2025-11-25 | `dailyftlk-d631c800` | Power sector reform: Turning setbacks into sustainable opportunity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-d631c800)
 - 2025-11-24 | `dailyftlk-1211efcd` | Are we safe from another economic crash? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-dailyftlk-1211efcd)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-24 | `virakesarilk-b1e9b738` | ரில்வினுக்கு எதிரான வன்முறை ஆர்ப்பாட்டத்திற்கு ஈ.பி.டி.பி கண்டனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-b1e9b738)
 - 2025-11-24 | `lankadeepalk-387e914b` | ප්‍රතිකාර ගන්න ආ කතකට දොස්තරගෙන් කරදරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-387e914b)
 - 2025-11-24 | `lankadeepalk-1de48bf6` | පහේ දරුවා වෑන් රථයට බිලි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-lankadeepalk-1de48bf6)
-- 2025-11-24 | `virakesarilk-5e7c3ff4` | ஊடக சுதந்திரம் பொய்யுக்கு இடமளிக்காது - சபை முதல்வர் பிமல் ரத்நாயக்க வலியுறுத்தினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-virakesarilk-5e7c3ff4)
-- 2025-11-24 | `adalk-af2b288b` | බිමල්ගේ අමාත්‍යාංශ වැය ශිර්ෂය සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-24-adalk-af2b288b)
 
 ---
 
