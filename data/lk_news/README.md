@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_15:48:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_16:22:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,790** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,794** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-25-tamilmirrorlk-3ff95966",
-    "num": "tamilmirrorlk-3ff95966",
+    "doc_id": "2025-11-25-lankadeepalk-2bafa1d8",
+    "num": "lankadeepalk-2bafa1d8",
     "date_str": "2025-11-25",
-    "description": "\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b95\u0bbf\u0b9f\u0bc1\u0b95\u0bbf\u0b9f\u0bc1\u0bb5\u0bc6\u0ba9 \u0b8e\u0b95\u0bbf\u0bb1\u0bbf\u0baf\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b95\u0bbf\u0b9f\u0bc1\u0b95\u0bbf\u0b9f\u0bc1\u0bb5\u0bc6\u0ba9-\u0b8e\u0b95\u0bbf\u0bb1\u0bbf\u0baf\u0ba4\u0bc1/175-368479",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1764064305.0
+    "description": "\u0d9a\u0dcf\u0db6\u0dd4\u0dbd\u0dca \u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0dc0\u0db1\u0dca\u0daf\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0db6\u0dbd-\u0dbd\u0d9a-\u0dc3\u0dc0\u0d9a\u0dba\u0db1\u0da7-\u0dc0\u0db1\u0daf/1-683860",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1764067500.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-25 | `lankadeepalk-2bafa1d8` | කාබුල් ලංකා සේවකයන්ට වන්දි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-2bafa1d8)
+- 2025-11-25 | `lankadeepalk-b740ca5f` | වීවලට ස්ථාවර මිලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-b740ca5f)
+- 2025-11-25 | `lankadeepalk-4f0867f4` | ඊ.පී.එෆ් “ඩිජිටල්” කරන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-4f0867f4)
 - 2025-11-25 | `tamilmirrorlk-3ff95966` | தங்கம் விலை கிடுகிடுவென எகிறியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-tamilmirrorlk-3ff95966)
 - 2025-11-25 | `tamilmirrorlk-29355b1e` | ஸ்மிருதிக்கு துரோகம் செய்தாரா வருங்கால கணவர்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-tamilmirrorlk-29355b1e)
 - 2025-11-25 | `lankadeepalk-4b33bf68` | මාධ්‍යවේදීන්ට අනතුරු ඇඟවීම් එපා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-4b33bf68)
@@ -57,10 +60,7 @@ A collection of lk_news documents.
 - 2025-11-25 | `tamilmirrorlk-ae2e1661` | கிராம சேவகர் ஐஸூடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-tamilmirrorlk-ae2e1661)
 - 2025-11-25 | `lankadeepalk-5aec4db5` | රන් මිල යළි ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-5aec4db5)
 - 2025-11-25 | `lankadeepalk-02482bf5` | හිංසන සිද්ධියේ වාර්තාව මැතිසබයට දෙන්න: මන්ත්‍රීවරු ඉල්ලති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-02482bf5)
-- 2025-11-25 | `lankadeepalk-e808d837` | ඉතාලිය ලංකාවේ රියැදුරු බලපත පිළිගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-e808d837)
-- 2025-11-25 | `lankadeepalk-c1bb44e0` | දිඹුලාගල අයවැය සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-c1bb44e0)
-- 2025-11-25 | `lankadeepalk-c1918f19` | කොළඹ වරාය නගර පනත සංශෝධනය වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-c1918f19)
-- 2025-11-25 | `tamilmirrorlk-1678b1a3` | லாட்டரியில் விழுந்த ரூ.4 கோடி: மனைவிக்கு தெரியாமல் மறைத்த நபர்: கடைசியில் ஹைலைட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-tamilmirrorlk-1678b1a3)
+- 2025-11-25 | `adalk-28108c28` | මෙවර සිරිපා වන්දනාවට ලීටරයට අඩු ජල බෝතල් එපා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-adalk-28108c28)
 
 ---
 
