@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_21:20:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_21:48:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,856** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,857** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-25-virakesarilk-ec67396c",
-    "num": "virakesarilk-ec67396c",
+    "doc_id": "2025-11-25-lankadeepalk-307dc9b0",
+    "num": "lankadeepalk-307dc9b0",
     "date_str": "2025-11-25",
-    "description": "\u0ba4\u0bc6\u0ba9\u0bcd \u0b86\u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bbe\u0bb5\u0ba4\u0bc1 \u0b9f\u0bc6\u0bb8\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0ba4\u0bb3\u0bcd\u0bb3\u0bbe\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/231440",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1764081660.0
+    "description": "\u0d9a\u0dbd\u0dcf \u0dc0\u0dd0\u0dc0\u0dda \u0dc0\u0dcf\u0db1\u0dca \u0daf\u0ddc\u0dbb\u0da7\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dbd-\u0dc0\u0dc0-\u0dc0\u0db1-\u0daf\u0dbb\u0da7-\u0daf\u0d9a\u0d9a-\u0dc0\u0dc0\u0dad-\u0d9a\u0dbb\u0dba/101-683881",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1764086776.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-25 | `lankadeepalk-307dc9b0` | කලා වැවේ වාන් දොරටු දෙකක් විවෘත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-307dc9b0)
 - 2025-11-25 | `virakesarilk-ec67396c` | தென் ஆபிரிக்காவுடனான இரண்டாவது டெஸ்டில் இந்தியா தள்ளாடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-ec67396c)
 - 2025-11-25 | `virakesarilk-87538119` | இலங்கைக்கு தீர்மானம் மிக்க இன்றைய மும்முனை சர்வதேச ரி20 போட்டியில் ஸிம்பாப்வே முதலில் துடுப்பெடுத்தாடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-87538119)
 - 2025-11-25 | `virakesarilk-748a2a06` | ஆரோக்கியமான வாழ்க்கைக்கு உடற்பயிற்சி அவசியம் - கலாநிதி ஜயன்த தசநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-748a2a06)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-25 | `lankadeepalk-775be90f` | දිසා 12කට නාය අවදානම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-775be90f)
 - 2025-11-25 | `lankadeepalk-e91620d0` | ඉදිරි දිනවල වැස් වැඩි වන හැඩ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-e91620d0)
 - 2025-11-25 | `virakesarilk-488c9f11` | பெண்களை அவதூறாக வர்ணித்த அமைச்சர்களை கட்சியில் இருந்து நீக்க ஜனாதிபதி அநுரகுமாரவிடம் நடவடிக்கை கோரிக்கை – சாமர சம்பத் தசநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-488c9f11)
-- 2025-11-25 | `lankadeepalk-6bc7813e` | කොත්මලේ දොරක් ඇරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-6bc7813e)
 
 ---
 
