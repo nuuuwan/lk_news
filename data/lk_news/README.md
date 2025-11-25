@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_17:51:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_18:28:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,826** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,835** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-25-virakesarilk-0ae5ce83",
-    "num": "virakesarilk-0ae5ce83",
+    "doc_id": "2025-11-25-virakesarilk-c75bfa67",
+    "num": "virakesarilk-c75bfa67",
     "date_str": "2025-11-25",
-    "description": "\u0baf\u0bbe\u0bb4\u0bcd. \u0bb5\u0b9f\u0bae\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0b95\u0bca\u0bb2\u0bc8 ; \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/231428",
+    "description": "\u0b95\u0b9f\u0bbf\u0ba9\u0ba4\u0bb0\u0bc8 \u0b9f\u0bc6\u0ba9\u0bcd\u0ba9\u0bbf\u0bb8\u0bcd\u00a0 \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd\u0bb7\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd\u00a0 \u00a04 \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bc2\u0b9f\u0bbf \u0b85\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf 14 \u0bb5\u0baf\u0ba4\u0bc1 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bbe\u0ba3\u0bb5\u0bbf \u0b85\u0ba9\u0ba9\u0bcd\u0baf\u0bbe",
+    "url_metadata": "https://www.virakesari.lk/article/231434",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1764072180.0
+    "time_ut": 1764074460.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-25 | `virakesarilk-c75bfa67` | கடினதரை டென்னிஸ்  சம்பியன்ஷிப்பில்   4 சம்பியன் பட்டங்களை சூடி அசத்திய 14 வயது பாடசாலை மாணவி அனன்யா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-c75bfa67)
+- 2025-11-25 | `lankadeepalk-775be90f` | දිසා 12කට නාය අවදානම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-775be90f)
+- 2025-11-25 | `lankadeepalk-e91620d0` | ඉදිරි දිනවල වැස් වැඩි වන හැඩ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-e91620d0)
+- 2025-11-25 | `virakesarilk-488c9f11` | பெண்களை அவதூறாக வர்ணித்த அமைச்சர்களை கட்சியில் இருந்து நீக்க ஜனாதிபதி அநுரகுமாரவிடம் நடவடிக்கை கோரிக்கை – சாமர சம்பத் தசநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-488c9f11)
+- 2025-11-25 | `lankadeepalk-6bc7813e` | කොත්මලේ දොරක් ඇරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-6bc7813e)
+- 2025-11-25 | `lankadeepalk-efc1e62a` | ගැලවූ පුරා විද්‍යා පුවරු සකච්ඡාකර සවිකරන්නැයි නියෝගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-efc1e62a)
+- 2025-11-25 | `virakesarilk-c920bd87` | தொல்பொருள் அடையாளங்களை பாதுகாப்பதற்காக திணைக்களத்துக்கு ஆலோசனைக் குழுவை நியமிப்பது தொடர்பில் சம உரிமை இயக்கம் கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-c920bd87)
+- 2025-11-25 | `virakesarilk-cf4febdf` | சுமார் 100 அடி பள்ளத்தில் கவிழ்ந்து லொறி விபத்து ; சாரதி படுகாயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-cf4febdf)
 - 2025-11-25 | `virakesarilk-0ae5ce83` | யாழ். வடமராட்சியில் இளைஞன் கொலை ; இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-0ae5ce83)
 - 2025-11-25 | `lankadeepalk-c53daec1` | හම්බන්තොට අයවැය සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-c53daec1)
 - 2025-11-25 | `virakesarilk-26a209ed` | பகிரங்கப்படுத்தப்பட்டது இலங்கை - அமெரிக்காவுக்கு இடையிலான பாதுகாப்பு புரிந்துணர்வு ஒப்பந்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-26a209ed)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2025-11-25 | `lankadeepalk-4f7e4cf1` | හත්වන බිම්ස්ටෙක් සමුළුව හෙට ඇරැඹේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-4f7e4cf1)
 - 2025-11-25 | `virakesarilk-48d2f084` | நெல் விவசாயிகளின் பிரச்சினைகளைத் தீர்க்க நிரந்தர வேலைத்திட்டம் ஒன்றை வகுப்பது குறித்து கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-48d2f084)
 - 2025-11-25 | `virakesarilk-577f0d16` | கிராம உத்தியோகத்தர் போதைப்பொருளுடன் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-577f0d16)
-- 2025-11-25 | `virakesarilk-2e9e1ca6` | ரிச்சர்ட் ரிஷி நடிக்கும் 'திரௌபதி 2' பட அப்டேட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-2e9e1ca6)
-- 2025-11-25 | `lankadeepalk-4a0296ec` | ටිපර් රථයේ ගැටී දියණියක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-4a0296ec)
-- 2025-11-25 | `virakesarilk-7f2d4033` | விஜய் சேதுபதி - பூரி ஜெகன்நாத் கூட்டணியின் படப்பிடிப்பு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-7f2d4033)
-- 2025-11-25 | `virakesarilk-d321d6e6` | நடிகர் நிகில் சித்தார்த்தா நடிக்கும் 'சுயம்பு' படத்தின் வெளியீட்டு திகதி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-d321d6e6)
-- 2025-11-25 | `virakesarilk-480dedc0` | வாழைச்சேனை பிரதேசசபையின் தவிசாளர் உட்பட மூன்று பேர் நீதிமன்றில் சரண் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-480dedc0)
-- 2025-11-25 | `virakesarilk-01f3901b` | சிலம்பரசன் உடன் இணையும் விஜய் சேதுபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-01f3901b)
-- 2025-11-25 | `tamilmirrorlk-c7b0e3c7` | ஹில்மிக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-tamilmirrorlk-c7b0e3c7)
-- 2025-11-25 | `virakesarilk-f9ed2b1a` | அக்வா பிளான்ட் - 2025 சர்வதேச மீன்வள கண்காட்சியை வெற்றிகரமாக நடத்திய அனைவருக்கும் நன்றி தெரிவித்த இராமலிங்கம் சந்திரசேகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-f9ed2b1a)
 
 ---
 
