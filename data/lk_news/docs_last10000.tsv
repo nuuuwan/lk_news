@@ -1,6 +1,10 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-11-25-lankadeepalk-70a4396b	lankadeepalk-70a4396b	2025-11-25	උ.පෙළ ප්‍රශ්න පත්‍රයක් පිටවීම ගැන CIDයට දැනුම් දෙයි	https://www.lankadeepa.lk/news/උ-පළ-පරශන-පතරයක-පටවම-ගන-CIDයට-දනම-දය/101-683864	si	lankadeepalk	1764070275.0
+lk_news	2025-11-25-lankadeepalk-4f7e4cf1	lankadeepalk-4f7e4cf1	2025-11-25	හත්වන බිම්ස්ටෙක් සමුළුව හෙට ඇරැඹේ	https://www.lankadeepa.lk/news/හතවන-බමසටක-සමළව-හට-ඇරඹ/101-683863	si	lankadeepalk	1764070119.0
+lk_news	2025-11-25-lankadeepalk-4a0296ec	lankadeepalk-4a0296ec	2025-11-25	ටිපර් රථයේ ගැටී දියණියක් මරුට	https://www.lankadeepa.lk/news/ටපර-රථය-ගට-දයණයක-මරට/101-683862	si	lankadeepalk	1764069357.0
 lk_news	2025-11-25-tamilmirrorlk-c7b0e3c7	tamilmirrorlk-c7b0e3c7	2025-11-25	ஹில்மிக்கு விளக்கமறியல்	https://www.tamilmirror.lk/செய்திகள்/ஹில்மிக்கு-விளக்கமறியல்/175-368483	ta	tamilmirrorlk	1764068690.0
 lk_news	2025-11-25-lankadeepalk-2bafa1d8	lankadeepalk-2bafa1d8	2025-11-25	කාබුල් ලංකා සේවකයන්ට වන්දි	https://www.lankadeepa.lk/latest_news/කබල-ලක-සවකයනට-වනද/1-683860	si	lankadeepalk	1764067500.0
+lk_news	2025-11-25-adalk-960766d9	adalk-960766d9	2025-11-25	කාලගුණයෙන් රතු නිවේදනයක්	https://www.ada.lk/breaking_news/කාලගුණයෙන්-රතු-නිවේදනයක්/11-419881	si	adalk	1764067024.0
 lk_news	2025-11-25-lankadeepalk-b740ca5f	lankadeepalk-b740ca5f	2025-11-25	වීවලට ස්ථාවර මිලක්	https://www.lankadeepa.lk/latest_news/වවලට-සථවර-මලක/1-683859	si	lankadeepalk	1764066219.0
 lk_news	2025-11-25-lankadeepalk-4f0867f4	lankadeepalk-4f0867f4	2025-11-25	ඊ.පී.එෆ් “ඩිජිටල්” කරන්න යයි	https://www.lankadeepa.lk/latest_news/ඊ-ප-එෆ-ඩජටල-කරනන-යය/1-683858	si	lankadeepalk	1764065967.0
 lk_news	2025-11-25-tamilmirrorlk-3ff95966	tamilmirrorlk-3ff95966	2025-11-25	தங்கம் விலை கிடுகிடுவென எகிறியது	https://www.tamilmirror.lk/செய்திகள்/தங்கம்-விலை-கிடுகிடுவென-எகிறியது/175-368479	ta	tamilmirrorlk	1764064305.0
@@ -9995,7 +9999,3 @@ lk_news	2025-10-03-dailyftlk-7c01f2ce	dailyftlk-7c01f2ce	2025-10-03	SLIC offers 
 lk_news	2025-10-03-dailyftlk-cf3c0c45	dailyftlk-cf3c0c45	2025-10-03	Colombo Chetty Association elects new Ex-Co	https://www.ft.lk/news/Colombo-Chetty-Association-elects-new-Ex-Co/56-782562	en	dailyftlk	1759436856.0
 lk_news	2025-10-03-dailyftlk-a1b7038e	dailyftlk-a1b7038e	2025-10-03	Gabriel’s Charity Auction in aid of Rescue Animals Sri Lanka	https://www.ft.lk/news/Gabriel-s-Charity-Auction-in-aid-of-Rescue-Animals-Sri-Lanka/56-782561	en	dailyftlk	1759436816.0
 lk_news	2025-10-03-dailyftlk-cb6397d7	dailyftlk-cb6397d7	2025-10-03	Telbedde Estate crowned Overall Gold Winner at Ceylon Specialty Estate Tea Awards 2025	https://www.ft.lk/business/Telbedde-Estate-crowned-Overall-Gold-Winner-at-Ceylon-Specialty-Estate-Tea-Awards-2025/34-782560	en	dailyftlk	1759436754.0
-lk_news	2025-10-03-dailyftlk-8a28153d	dailyftlk-8a28153d	2025-10-03	SEVA project signals new trade and investment potential for Sri Lankan craft	https://www.ft.lk/business/SEVA-project-signals-new-trade-and-investment-potential-for-Sri-Lankan-craft/34-782559	en	dailyftlk	1759436708.0
-lk_news	2025-10-03-dailyftlk-10997254	dailyftlk-10997254	2025-10-03	Construction PMI increases in August	https://www.ft.lk/business/Construction-PMI-increases-in-August/34-782557	en	dailyftlk	1759436547.0
-lk_news	2025-10-03-bbccomsinhala-4d519574	bbccomsinhala-4d519574	2025-10-03	ජනාධිපති වැය ශීර්ෂයේ තුන් ගුණයක ඉහළ යාමක්: මෙවර විසර්ජන පනත් කෙටුම්පතේ මුදල් බෙදී ගොස් ඇත්තේ කෙසේ ද?	https://www.bbc.com/sinhala/articles/cgq4pqkz52qo	si	bbccomsinhala	1759435711.0
-lk_news	2025-10-03-dailyftlk-3694abb0	dailyftlk-3694abb0	2025-10-03	Beyond degrees: Creating future-ready workforce for Sri Lanka	https://www.ft.lk/columns/Beyond-degrees-Creating-future-ready-workforce-for-Sri-Lanka/4-782547	en	dailyftlk	1759435694.0
