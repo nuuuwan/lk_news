@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_08:18:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_09:08:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,678** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,683** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-25-tamilmirrorlk-42bac72b",
-    "num": "tamilmirrorlk-42bac72b",
+    "doc_id": "2025-11-25-lankadeepalk-bd4d4bcf",
+    "num": "lankadeepalk-bd4d4bcf",
     "date_str": "2025-11-25",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bb4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0bae\u0bb4\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd/175-368435",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1764038411.0
+    "description": "\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd \u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0d9a\u0da7 \u0dc3\u0dd9\u0db6\u0dc5\u0dd2\u0dba\u0db1\u0dca \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0d9a\u0dd4 \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0daf\u0d9c\u0dbd-\u0d85\u0dad\u0dbb\u0daf\u0db1\u0dc0\u0db8\u0d9a\u0da7-\u0dc3\u0db6\u0dc5\u0dba\u0db1-\u0daf\u0daf\u0db1\u0d9a-\u0d85\u0dbd\u0dbd\u0dba/101-683824",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1764040102.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-25 | `lankadeepalk-bd4d4bcf` | පුද්ගල අතුරුදන්වීමකට සෙබළියන් දෙදෙනකු අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-bd4d4bcf)
+- 2025-11-25 | `tamilmirrorlk-9aababa5` | இத்தாலியில் வசிக்கும் இலங்கையர்களுக்கு சாரதி அனுமதிப் பத்திரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-tamilmirrorlk-9aababa5)
+- 2025-11-25 | `tamilmirrorlk-8b8d0431` | நிதி மோசடி வழக்கில் இரண்டு சந்தேக நபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-tamilmirrorlk-8b8d0431)
+- 2025-11-25 | `lankadeepalk-072ede0a` | හමුදා සෙබළා වෙඩි වැදී රෝහලේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-072ede0a)
+- 2025-11-25 | `tamilmirrorlk-5633733e` | சிறுமி தவறான முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-tamilmirrorlk-5633733e)
 - 2025-11-25 | `tamilmirrorlk-42bac72b` | இன்று முதல் மழை அதிகரிக்கும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-tamilmirrorlk-42bac72b)
 - 2025-11-25 | `lankadeepalk-f9d39f9b` | වස්ස තවත් වැඩි වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-f9d39f9b)
 - 2025-11-25 | `adalk-029b4bba` | බදුල්ල කොළඹ මාර්ගයේ එක් මංතීරුවක් විවෘත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-adalk-029b4bba)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-11-25 | `dailyftlk-c8a56e55` | US envoy discusses collaboration on education with Prime Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-c8a56e55)
 - 2025-11-25 | `dailyftlk-6b6bfb29` | Lankem Ceylon buys majority stake in York Arcade for Rs. 340.58 m | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-6b6bfb29)
 - 2025-11-25 | `dailyftlk-b2ba1589` | Lotus Renewable offloads 4.6% of Hatton Plantations for Rs. 297.7 m | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-b2ba1589)
-- 2025-11-25 | `virakesarilk-e8484765` | சித்திரவதைகளைத் தடுத்தல் தொடர்பான ஐ.நா உபகுழு 2026 இல் இலங்கைக்கு வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-e8484765)
-- 2025-11-25 | `virakesarilk-e8dade3a` | கொழும்பில் சர்வதேச போர்க் கப்பல்களின் பங்கேற்புடன் 'சர்வதேச கடற்படை போர்க்கப்பல் அணிவகுப்பு' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-e8dade3a)
-- 2025-11-25 | `dailyftlk-b2745b75` | Cenmetrix marks 20 years of innovation and leadership in digital identity and access management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-b2745b75)
-- 2025-11-25 | `dailyftlk-c9cc9b37` | Macksons Solar sets new benchmark with largest rooftop installation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-c9cc9b37)
-- 2025-11-25 | `dailyftlk-82973277` | Browns Agriculture strikes Gold | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-dailyftlk-82973277)
 
 ---
 
