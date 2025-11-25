@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_18:57:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_19:24:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,843** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,846** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-25-tamilmirrorlk-fec02d9f",
-    "num": "tamilmirrorlk-fec02d9f",
+    "doc_id": "2025-11-25-lankadeepalk-eb248795",
+    "num": "lankadeepalk-eb248795",
     "date_str": "2025-11-25",
-    "description": "\u0ba4\u0bca\u0bb2\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0baa\u0bb2\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd : \u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bca\u0bb2\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0baa\u0bc6\u0baf\u0bb0\u0bcd-\u0baa\u0bb2\u0b95\u0bc8\u0b95\u0bb3\u0bcd-\u0b85\u0b95\u0bb1\u0bcd\u0bb1\u0bb2\u0bcd-\u0bae\u0bc2\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0ba3\u0bc8/175-368486",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1764077010.0
+    "description": "\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0db1\u0dca\u0db1\u0dcf \u0dc0\u0dd2\u0dc3 \u0db8\u0dad\u0dca \u0d91\u0dc0\u0dda\u0dbd\u0dda\u0db8 \u0dc0\u0db1\u0dc3\u0db1 \u0db1\u0dd3\u0dad\u0dd2 \u0d9c\u0dd9\u0db1\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0dad\u0d85\u0da9\u0d9c\u0dc0\u0da7-\u0d9c\u0db1\u0db1-\u0dc0\u0dc3-\u0db8\u0dad-\u0d91\u0dc0\u0dbd\u0db8-\u0dc0\u0db1\u0dc3\u0db1-\u0db1\u0dad-\u0d9c\u0db1\u0dba/101-683876",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1764078147.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-25 | `lankadeepalk-eb248795` | අත්අඩංගුවට ගන්නා විස මත් එවේලේම වනසන නීති ගෙනෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-eb248795)
+- 2025-11-25 | `lankadeepalk-587e98e1` | තාඹුගල වරද පිළිගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-587e98e1)
+- 2025-11-25 | `lankadeepalk-94b014a7` | ආපදාවලින් මරණ 10 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-94b014a7)
 - 2025-11-25 | `tamilmirrorlk-fec02d9f` | தொல்பொருள் பெயர் பலகைகள் அகற்றல் : மூவருக்கு பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-tamilmirrorlk-fec02d9f)
 - 2025-11-25 | `lankadeepalk-6967f05c` | පෙර පාසල් අධ්‍යාපනයට රජයේ ඇල්ම බැල්ම වැඩිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-6967f05c)
 - 2025-11-25 | `lankadeepalk-1fda1d19` | රෝගී කතට අතවර කළැයි කියන වෛද්‍යවරයාට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-1fda1d19)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-25 | `lankadeepalk-c53daec1` | හම්බන්තොට අයවැය සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-c53daec1)
 - 2025-11-25 | `adalk-22e10fdc` | අත්අඩංගුවට ගන්නා මත්ද්‍රව්‍ය ඒ ඒ අවස්ථාවලදීම විනාශ කරන්න නීති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-adalk-22e10fdc)
 - 2025-11-25 | `virakesarilk-26a209ed` | பகிரங்கப்படுத்தப்பட்டது இலங்கை - அமெரிக்காவுக்கு இடையிலான பாதுகாப்பு புரிந்துணர்வு ஒப்பந்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-26a209ed)
-- 2025-11-25 | `lankadeepalk-728d2889` | පාසල් මුරකරුගේ ස්ථානෝචිත ප්‍රඥාවෙන් වැලකුණු දුම්රිය අනතුර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-lankadeepalk-728d2889)
-- 2025-11-25 | `virakesarilk-62b4583b` | இயலாமை உடைய நபர்கள் தொடர்பில் அனுதாபப்படத் தேவையில்லை, அவர்கள் சுயமாகச் செயற்படுவதற்குத் தேவையான சூழலை ஏற்படுத்திக் கொடுப்பதே அவசியமானது – தொழில் அமைச்சர் அனில் ஜயந்த பெர்னாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-virakesarilk-62b4583b)
-- 2025-11-25 | `tamilmirrorlk-c2161034` | வினாத்தாள் கசிந்ததா? CIDயில் புகார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-25-tamilmirrorlk-c2161034)
 
 ---
 
