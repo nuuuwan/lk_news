@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--26_23:48:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_00:22:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,112** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,113** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -55,12 +55,12 @@ A collection of lk_news documents.
 - 2025-11-26 | `lankadeepalk-55477fe8` | හල්දුම්මුල්ලේ පවුල් 111 ක් නිවෙස්වලින් ඉවතට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-lankadeepalk-55477fe8)
 - 2025-11-26 | `virakesarilk-f56336f4` | வேலையின்மை 3.8% ஆகக் குறைவு; 2026ல் 31,000 புதிய பட்டதாரி நியமனங்கள் – பிரதமர் ஹரிணி அமரசூரிய | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-f56336f4)
 - 2025-11-26 | `islandlk-e5bf0ec6` | An author’s appreciative gesture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-islandlk-e5bf0ec6)
+- 2025-11-26 | `colombotelegraphcom-e299f9e5` | Reimagining Value Education In The Context Of Education Reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-colombotelegraphcom-e299f9e5)
 - 2025-11-26 | `virakesarilk-e020216c` | நெடுந்தீவிலிருந்து வடக்கு கல்வி அமைச்சுக்கு ஹெலிகொப்டரில் கொண்டுசெல்லப்பட்ட உயர்தரப் பரீட்சை விடைத்தாள்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-e020216c)
 - 2025-11-26 | `lankadeepalk-7e2404c3` | සිනමාවේ නොවිසඳුන ගැටලු වලට ජනපතිගෙන් විසැඳුම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-lankadeepalk-7e2404c3)
 - 2025-11-26 | `lankadeepalk-e6f0477c` | රාත්‍රී තැපැල් දුම්රිය ධාවනය සීමාකරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-lankadeepalk-e6f0477c)
 - 2025-11-26 | `lankadeepalk-e6f3be40` | බදුල්ල - කොළඹ පාර හපුතලෙන් අවහිර වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-lankadeepalk-e6f3be40)
 - 2025-11-26 | `virakesarilk-311c38d6` | உள்ளக விளையாட்டரங்கம் அமைப்பதற்கு யாழ். பழைய பூங்காவை அழிக்கவேண்டிய அவசியம் என்ன? - சுமந்திரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-311c38d6)
-- 2025-11-26 | `virakesarilk-fac14d9a` | தமிழ் தேச விரோத கொள்கையுடையவர்கள் இப்போது தேசியத் தலைவரை பற்றி பேசி  வடக்கு, கிழக்கில் காலூன்ற முயற்சி - கஜேந்திரகுமார் பொன்னம்பலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-fac14d9a)
 
 ---
 
