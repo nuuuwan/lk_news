@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-27 04:17:59",
-  "n_docs": 89131,
+  "time_updated": "2025-11-27 04:46:37",
+  "n_docs": 89132,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 89131,
+  "n_docs_with_text": 89132,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-27",
-  "dataset_size": 1335870403,
+  "dataset_size": 1335888186,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-27-virakesarilk-4cacf9fa",
-    "num": "virakesarilk-4cacf9fa",
+    "doc_id": "2025-11-27-dailyftlk-531338c7",
+    "num": "dailyftlk-531338c7",
     "date_str": "2025-11-27",
-    "description": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd 30 \u0bb5\u0bb0\u0bc8 \u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1;\u00a0\u0baa\u0ba3\u0bbf\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b9c\u0bc6\u0baf\u0bb5\u0ba4\u0ba9\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/231554",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1764194820.0
+    "description": "Rainy day in Nugegoda: Namal as contender, Sajith\u2019s strategic shortsightedness",
+    "url_metadata": "https://www.ft.lk/columns/Rainy-day-in-Nugegoda-Namal-as-contender-Sajith-s-strategic-shortsightedness/4-784880",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1764197937.0
   }
 }

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_04:18:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_04:47:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,131** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,132** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-27-virakesarilk-4cacf9fa",
-    "num": "virakesarilk-4cacf9fa",
+    "doc_id": "2025-11-27-dailyftlk-531338c7",
+    "num": "dailyftlk-531338c7",
     "date_str": "2025-11-27",
-    "description": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bb0\u0bc1\u0bae\u0bcd 30 \u0bb5\u0bb0\u0bc8 \u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1;\u00a0\u0baa\u0ba3\u0bbf\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b9c\u0bc6\u0baf\u0bb5\u0ba4\u0ba9\u0ba9\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/231554",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1764194820.0
+    "description": "Rainy day in Nugegoda: Namal as contender, Sajith\u2019s strategic shortsightedness",
+    "url_metadata": "https://www.ft.lk/columns/Rainy-day-in-Nugegoda-Namal-as-contender-Sajith-s-strategic-shortsightedness/4-784880",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1764197937.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-27 | `dailyftlk-531338c7` | Rainy day in Nugegoda: Namal as contender, Sajith’s strategic shortsightedness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-531338c7)
 - 2025-11-27 | `virakesarilk-4cacf9fa` | கிழக்கில் முன்பள்ளி பாடசாலைகள் எதிர்வரும் 30 வரை பூட்டு; பணியகத்தின் முகாமையாளர் ஜெயவதனன் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-4cacf9fa)
 - 2025-11-27 | `tamilmirrorlk-cd98c980` | அமெரிக்காவில் எரிமலை வெடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-cd98c980)
 - 2025-11-27 | `dailyftlk-dd0f61a4` | Colombo – the Venice in the Indian Ocean? Our tryst with a glacier | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-dd0f61a4)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-26 | `virakesarilk-c3f10481` | சொந்த மண்ணில் சோடைபோனது இந்தியா உலக டெஸ்ட் சம்பியன்ஷிப் தரவரிசையில் 5ஆம் இடத்திற்கு பின்தள்ளப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-c3f10481)
 - 2025-11-26 | `tamilmirrorlk-722fa3a9` | கண்டி- நுவரெலியா வீதி தற்காலிகமாக மூடப்பட்டுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-tamilmirrorlk-722fa3a9)
 - 2025-11-26 | `virakesarilk-841551cc` | அமெரிக்கா – இலங்கை கூட்டாண்மை குறித்து அமெரிக்க தூதர் – ஜனாதிபதி அநுர சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-841551cc)
-- 2025-11-26 | `colombotelegraphcom-88d39275` | Empowering Women For Economic Transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-colombotelegraphcom-88d39275)
 
 ---
 
