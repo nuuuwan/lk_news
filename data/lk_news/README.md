@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--26_14:48:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--26_15:19:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,018** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,019** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -53,6 +53,7 @@ A collection of lk_news documents.
 - 2025-11-26 | `virakesarilk-eb770667` | யாழில் ஐஸ் போதைப்பொருளுடன் ஐவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-eb770667)
 - 2025-11-26 | `tamilmirrorlk-2c211e28` | சீதையுடன் நாடு திரும்பினார் ஜீவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-tamilmirrorlk-2c211e28)
 - 2025-11-26 | `virakesarilk-485f1533` | தமிழ் இனத்தின் இறைவன் மேதகு! ; சபையில்  பிரபாகரனுக்கு பிறந்தநாள் வாழ்த்து தெரிவித்தார்  ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-485f1533)
+- 2025-11-26 | `adalk-6175da51` | රත්තොට අයවැයත් මාලිමාව පරාදයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-adalk-6175da51)
 - 2025-11-26 | `tamilmirrorlk-8fd22c91` | IFR 2025 நிகழ்வுக்கு 08 போர்க்கப்பல்கள் இலங்கைக்கு வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-tamilmirrorlk-8fd22c91)
 - 2025-11-26 | `adalk-8292b4b1` | අයහපත් කාලගුණයෙන් මරණ 10 ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-adalk-8292b4b1)
 - 2025-11-26 | `lankadeepalk-2df6676a` | ආණ්ඩුවේ ඩිජිටල් වැඩකාරයෝ එක්කෙනා දෙන්න යනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-lankadeepalk-2df6676a)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-26 | `lankadeepalk-45de526e` | ’’ක්ලීන් ශ්‍රී ලංකා’’ සිරිපා අඩවියට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-lankadeepalk-45de526e)
 - 2025-11-26 | `virakesarilk-4c6f9a00` | அநுராதபுரத்தில் ஹெரோயினுடன் கைதான நபருக்கு விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-4c6f9a00)
 - 2025-11-26 | `lankadeepalk-f1c78415` | ජීවන් තොණ්ඩමන්-බිරිය  කටුනායකට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-lankadeepalk-f1c78415)
-- 2025-11-26 | `tamilmirrorlk-e2cb0bf1` | கார் கவிழ்ந்ததில் இருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-tamilmirrorlk-e2cb0bf1)
 
 ---
 
