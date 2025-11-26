@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-27 04:46:37",
-  "n_docs": 89132,
+  "time_updated": "2025-11-27 05:15:32",
+  "n_docs": 89135,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 89132,
+  "n_docs_with_text": 89135,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-27",
-  "dataset_size": 1335888186,
+  "dataset_size": 1335949761,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-27-dailyftlk-531338c7",
-    "num": "dailyftlk-531338c7",
+    "doc_id": "2025-11-27-dailyftlk-03b3533b",
+    "num": "dailyftlk-03b3533b",
     "date_str": "2025-11-27",
-    "description": "Rainy day in Nugegoda: Namal as contender, Sajith\u2019s strategic shortsightedness",
-    "url_metadata": "https://www.ft.lk/columns/Rainy-day-in-Nugegoda-Namal-as-contender-Sajith-s-strategic-shortsightedness/4-784880",
+    "description": "What AKD missed: Sri Lanka must earn $50 b foreign exchange annually",
+    "url_metadata": "https://www.ft.lk/columns/What-AKD-missed-Sri-Lanka-must-earn-50-b-foreign-exchange-annually/4-784884",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764197937.0
+    "time_ut": 1764200190.0
   }
 }

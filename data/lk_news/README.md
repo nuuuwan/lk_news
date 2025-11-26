@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_04:47:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_05:16:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,132** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,135** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-27-dailyftlk-531338c7",
-    "num": "dailyftlk-531338c7",
+    "doc_id": "2025-11-27-dailyftlk-03b3533b",
+    "num": "dailyftlk-03b3533b",
     "date_str": "2025-11-27",
-    "description": "Rainy day in Nugegoda: Namal as contender, Sajith\u2019s strategic shortsightedness",
-    "url_metadata": "https://www.ft.lk/columns/Rainy-day-in-Nugegoda-Namal-as-contender-Sajith-s-strategic-shortsightedness/4-784880",
+    "description": "What AKD missed: Sri Lanka must earn $50 b foreign exchange annually",
+    "url_metadata": "https://www.ft.lk/columns/What-AKD-missed-Sri-Lanka-must-earn-50-b-foreign-exchange-annually/4-784884",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764197937.0
+    "time_ut": 1764200190.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-27 | `dailyftlk-03b3533b` | What AKD missed: Sri Lanka must earn $50 b foreign exchange annually | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-03b3533b)
+- 2025-11-27 | `dailyftlk-4deec1da` | 2026 Budget commits over Rs. 688 b to construction: Sector poised for acceleration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-4deec1da)
+- 2025-11-27 | `dailyftlk-4ea58f12` | Budget 2026 and SMEs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-4ea58f12)
 - 2025-11-27 | `dailyftlk-531338c7` | Rainy day in Nugegoda: Namal as contender, Sajith’s strategic shortsightedness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-531338c7)
 - 2025-11-27 | `virakesarilk-4cacf9fa` | கிழக்கில் முன்பள்ளி பாடசாலைகள் எதிர்வரும் 30 வரை பூட்டு; பணியகத்தின் முகாமையாளர் ஜெயவதனன் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-4cacf9fa)
 - 2025-11-27 | `tamilmirrorlk-cd98c980` | அமெரிக்காவில் எரிமலை வெடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-cd98c980)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-26 | `lankadeepalk-621ba2b3` | ගම්පොළ නුවරඑළිය ප්‍රධාන මාර්ගය තාවකාලිකව වහයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-lankadeepalk-621ba2b3)
 - 2025-11-26 | `virakesarilk-11e8e5f1` | தேசிய மக்கள் சக்தி அரசாங்கம் உருவாக்கியுள்ள ஊடகத் தேசிய கொள்கையை ஏற்க முடியாது - யாழ் ஊடக அமையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-11e8e5f1)
 - 2025-11-26 | `tamilmirrorlk-3ab424fb` | ஹல்துமுல்லையில் 111 குடும்பங்கள் வெளியேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-tamilmirrorlk-3ab424fb)
-- 2025-11-26 | `virakesarilk-c3f10481` | சொந்த மண்ணில் சோடைபோனது இந்தியா உலக டெஸ்ட் சம்பியன்ஷிப் தரவரிசையில் 5ஆம் இடத்திற்கு பின்தள்ளப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-c3f10481)
-- 2025-11-26 | `tamilmirrorlk-722fa3a9` | கண்டி- நுவரெலியா வீதி தற்காலிகமாக மூடப்பட்டுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-tamilmirrorlk-722fa3a9)
-- 2025-11-26 | `virakesarilk-841551cc` | அமெரிக்கா – இலங்கை கூட்டாண்மை குறித்து அமெரிக்க தூதர் – ஜனாதிபதி அநுர சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-841551cc)
 
 ---
 
