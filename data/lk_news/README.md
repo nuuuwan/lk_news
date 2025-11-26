@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--26_06:03:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--26_06:31:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,902** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,906** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-26-dailyftlk-60b8fd73",
-    "num": "dailyftlk-60b8fd73",
+    "doc_id": "2025-11-26-dailyftlk-f059fed0",
+    "num": "dailyftlk-f059fed0",
     "date_str": "2025-11-26",
-    "description": "FCCISL presents five strategic Budget proposals",
-    "url_metadata": "https://www.ft.lk/opinion/FCCISL-presents-five-strategic-Budget-proposals/14-784828",
+    "description": "Sri Lanka Economic Summit 2025 next week with over 850 participants",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Economic-Summit-2025-next-week-with-over-850-participants/34-784833",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764116667.0
+    "time_ut": 1764118005.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-26 | `dailyftlk-f059fed0` | Sri Lanka Economic Summit 2025 next week with over 850 participants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-f059fed0)
+- 2025-11-26 | `dailyftlk-9dcef14c` | Sri Lanka Customs hitting record single-day revenue: A turning point or one-off? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-9dcef14c)
+- 2025-11-26 | `dailyftlk-1132ea4e` | The Baby Prince’s daydream: Opposition’s empty trump cards against AKD Govt. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-1132ea4e)
+- 2025-11-26 | `dailyftlk-05318c20` | Demographic red flags for the economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-05318c20)
 - 2025-11-26 | `dailyftlk-60b8fd73` | FCCISL presents five strategic Budget proposals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-60b8fd73)
 - 2025-11-26 | `dailyftlk-5f3bd146` | Tax professionals: The backbone of ethical tax practices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-5f3bd146)
 - 2025-11-26 | `tamilmirrorlk-007f0694` | பிரான்ஸ் ஜனாதிபதியின் கருத்தால் சர்ச்சை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-tamilmirrorlk-007f0694)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-26 | `virakesarilk-dc18b92c` | காதலனின் வீட்டில் உள்ள நகைகளை திருடிய காதலி - சாவகச்சேரியில் சம்பவம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-dc18b92c)
 - 2025-11-26 | `virakesarilk-6c1c0092` | வெளிநாட்டு வேலைவாய்ப்புப் பணியகத்தின் முன்னாள் தலைவருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-6c1c0092)
 - 2025-11-26 | `virakesarilk-edb9b7ab` | வட்டுக்கோட்டையில் இரு வெவ்வேறு இடங்களில் ஐஸ் போதைப் பொருளுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-edb9b7ab)
-- 2025-11-26 | `virakesarilk-27bd0451` | கொழும்பில் இருந்து போதை மாத்திரைகள் கடத்திய 3 பேர் யாழ்ப்பாணத்தில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-27bd0451)
-- 2025-11-26 | `virakesarilk-9998ff07` | போதைப் பொருளுக்கு அடிமையானவர்களின் புனர்வாழ்வுக்கான முறையான அறிவியல் ரீதியான திட்டமொன்றைத் தயாரிக்குக -  ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-9998ff07)
-- 2025-11-26 | `islandlk-b890106a` | Global Vinyl reinforces market leadership with launch of locally manufactured luxury SPC flooring | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-islandlk-b890106a)
-- 2025-11-26 | `islandlk-7f1829a2` | Ganesh, head of Traders’ Association | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-islandlk-7f1829a2)
 
 ---
 
