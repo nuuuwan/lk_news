@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--26_06:31:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--26_07:14:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**88,906** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**88,924** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-26-dailyftlk-f059fed0",
-    "num": "dailyftlk-f059fed0",
+    "doc_id": "2025-11-26-dailyftlk-fadc5281",
+    "num": "dailyftlk-fadc5281",
     "date_str": "2025-11-26",
-    "description": "Sri Lanka Economic Summit 2025 next week with over 850 participants",
-    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Economic-Summit-2025-next-week-with-over-850-participants/34-784833",
+    "description": "Man previously questioned over Easter attacks seeks asylum in UK",
+    "url_metadata": "https://www.ft.lk/news/Man-previously-questioned-over-Easter-attacks-seeks-asylum-in-UK/56-784840",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764118005.0
+    "time_ut": 1764120644.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-26 | `dailyftlk-fadc5281` | Man previously questioned over Easter attacks seeks asylum in UK | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-fadc5281)
+- 2025-11-26 | `dailyftlk-82125f45` | Govt. weighs curbs on rice imports to lift paddy production | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-82125f45)
+- 2025-11-26 | `dailyftlk-290f6b05` | Parliament turns orange to end gender-based violence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-290f6b05)
+- 2025-11-26 | `dailyftlk-9a023df1` | Cabinet approves signing of amended Sri Lanka–Luxembourg Double Taxation Agreement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-9a023df1)
+- 2025-11-26 | `dailyftlk-1682bab3` | Sri Lanka’s mineral sector investment opportunities promoted in UK | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-1682bab3)
+- 2025-11-26 | `dailyftlk-c1292f5e` | Sri Lankan delegation participates in CII Partnership Summit 2025 in Andhra Pradesh | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-c1292f5e)
+- 2025-11-26 | `dailyftlk-e5dbdd03` | HNB becomes Platinum sponsor of TiECON 2026 to power Sri Lanka’s runway to the world | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-e5dbdd03)
 - 2025-11-26 | `dailyftlk-f059fed0` | Sri Lanka Economic Summit 2025 next week with over 850 participants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-f059fed0)
 - 2025-11-26 | `dailyftlk-9dcef14c` | Sri Lanka Customs hitting record single-day revenue: A turning point or one-off? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-9dcef14c)
 - 2025-11-26 | `dailyftlk-1132ea4e` | The Baby Prince’s daydream: Opposition’s empty trump cards against AKD Govt. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-1132ea4e)
@@ -52,15 +59,8 @@ A collection of lk_news documents.
 - 2025-11-26 | `dailyftlk-3672d183` | President moves to introduce law for on-site destruction of seized narcotics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-3672d183)
 - 2025-11-26 | `dailyftlk-43f299b1` | Supreme Court of Sri Lanka steps into new era | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-43f299b1)
 - 2025-11-26 | `dailyftlk-1cb668f4` | Govt. expects metro bus service will set new standard for public transport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-dailyftlk-1cb668f4)
-- 2025-11-26 | `virakesarilk-c5c61c7d` | 75வது கடற்படை தினத்தை முன்னிட்டு கடற்படைக்கு ஆசிர்வதிக்கும் வகையில் ஒரு கூட்டு கிறிஸ்தவ உற்சவம் மற்றும் நன்றி செலுத்தும் ஆராதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-c5c61c7d)
-- 2025-11-26 | `virakesarilk-4bf36543` | இன அடிப்படையிலான பாடசாலைகள் ரத்து செய்யப்பட்டு  அனைத்து இன மாணவர்களும் ஒன்றாக கல்வி கற்க முடியுமான சூழலை ஏற்படுத்த வேண்டும் - மனோகணேசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-4bf36543)
-- 2025-11-26 | `virakesarilk-d48ed1c1` | பௌத்த சிங்கள சமூகத்தை தூண்டி கோபத்துக்குள்ளாக முயற்சி தனி ஈழத்துக்புகு பாதை அமைப்பதற்கு இடமளித்து விடக் கூடாது - ஞானசார தேரர் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-d48ed1c1)
-- 2025-11-26 | `virakesarilk-6b13a537` | பிணை வழங்கப்படமுடியாத மிகக்கொடூரமான தொல்லியல் சட்டம் மாற்றியமைக்கப்படவேண்டும் - எம்.ஏ.சுமந்திரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-6b13a537)
-- 2025-11-26 | `virakesarilk-e6c96d5a` | ஸ்ரீலங்கன் எயா லைன்ஸ் தலைவராக தம்மிக பெரேரா நியமிக்கப்பட்டுள்ளாரா? - அரசாங்கம் மறுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-e6c96d5a)
-- 2025-11-26 | `virakesarilk-026b2bee` | கல்வி நிதி குறைப்பை விமர்சிப்போரே அப்போது ஆதரித்தவர்கள்; தற்போது உயர்ந்த நிதி ஒதுக்கப்பட்டுள்ளது - நளின் ஹேவகே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-026b2bee)
-- 2025-11-26 | `virakesarilk-dc18b92c` | காதலனின் வீட்டில் உள்ள நகைகளை திருடிய காதலி - சாவகச்சேரியில் சம்பவம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-dc18b92c)
-- 2025-11-26 | `virakesarilk-6c1c0092` | வெளிநாட்டு வேலைவாய்ப்புப் பணியகத்தின் முன்னாள் தலைவருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-6c1c0092)
-- 2025-11-26 | `virakesarilk-edb9b7ab` | வட்டுக்கோட்டையில் இரு வெவ்வேறு இடங்களில் ஐஸ் போதைப் பொருளுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-edb9b7ab)
+- 2025-11-26 | `virakesarilk-d0629be1` | தொல்பொருள் இடங்களுக்கான பெயர்ப்பலகை அகற்றிய விவகாரம்: வாழைச்சேனை பிரதேசசபை தவிசாளர் உள்ளிட்ட ஐவருக்குப் பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-d0629be1)
+- 2025-11-26 | `virakesarilk-5f2d30d1` | தெஹிவளையில் மீளாத் பாடசாலை: இடப்பற்றாக்குறைக்கு அரசாங்க நடவடிக்கை கோரி ரிஷாத் பதியுதீன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-5f2d30d1)
 
 ---
 
