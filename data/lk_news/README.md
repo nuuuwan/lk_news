@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_00:46:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_01:15:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,114** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,115** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -52,6 +52,7 @@ A collection of lk_news documents.
 - 2025-11-26 | `virakesarilk-c3f10481` | சொந்த மண்ணில் சோடைபோனது இந்தியா உலக டெஸ்ட் சம்பியன்ஷிப் தரவரிசையில் 5ஆம் இடத்திற்கு பின்தள்ளப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-c3f10481)
 - 2025-11-26 | `tamilmirrorlk-722fa3a9` | கண்டி- நுவரெலியா வீதி தற்காலிகமாக மூடப்பட்டுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-tamilmirrorlk-722fa3a9)
 - 2025-11-26 | `virakesarilk-841551cc` | அமெரிக்கா – இலங்கை கூட்டாண்மை குறித்து அமெரிக்க தூதர் – ஜனாதிபதி அநுர சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-841551cc)
+- 2025-11-26 | `colombotelegraphcom-88d39275` | Empowering Women For Economic Transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-colombotelegraphcom-88d39275)
 - 2025-11-26 | `colombotelegraphcom-79c2bfaf` | Life: A Movie Directed By DNA, Produced By Entropy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-colombotelegraphcom-79c2bfaf)
 - 2025-11-26 | `lankadeepalk-55477fe8` | හල්දුම්මුල්ලේ පවුල් 111 ක් නිවෙස්වලින් ඉවතට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-lankadeepalk-55477fe8)
 - 2025-11-26 | `virakesarilk-f56336f4` | வேலையின்மை 3.8% ஆகக் குறைவு; 2026ல் 31,000 புதிய பட்டதாரி நியமனங்கள் – பிரதமர் ஹரிணி அமரசூரிய | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-f56336f4)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-26 | `virakesarilk-e020216c` | நெடுந்தீவிலிருந்து வடக்கு கல்வி அமைச்சுக்கு ஹெலிகொப்டரில் கொண்டுசெல்லப்பட்ட உயர்தரப் பரீட்சை விடைத்தாள்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-e020216c)
 - 2025-11-26 | `lankadeepalk-7e2404c3` | සිනමාවේ නොවිසඳුන ගැටලු වලට ජනපතිගෙන් විසැඳුම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-lankadeepalk-7e2404c3)
 - 2025-11-26 | `lankadeepalk-e6f0477c` | රාත්‍රී තැපැල් දුම්රිය ධාවනය සීමාකරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-lankadeepalk-e6f0477c)
-- 2025-11-26 | `lankadeepalk-e6f3be40` | බදුල්ල - කොළඹ පාර හපුතලෙන් අවහිර වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-lankadeepalk-e6f3be40)
 
 ---
 
