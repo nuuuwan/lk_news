@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--28_03:46:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--28_04:18:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,451** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,454** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-28-dailyftlk-16eba11a",
-    "num": "dailyftlk-16eba11a",
+    "doc_id": "2025-11-28-dailyftlk-6cfdb7d3",
+    "num": "dailyftlk-6cfdb7d3",
     "date_str": "2025-11-28",
-    "description": "Royal College alumnus\u2019 Open Letter to Prime Minister raises questions over collection of money for \u201cSAGA 2025\u201d",
-    "url_metadata": "https://www.ft.lk/opinion/Royal-College-alumnus-Open-Letter-to-Prime-Minister-raises-questions-over-collection-of-money-for-SAGA-2025/14-784925",
+    "description": "The SriLankan Airlines Paradox: When talent cannot overcome structural failure",
+    "url_metadata": "https://www.ft.lk/columns/The-SriLankan-Airlines-Paradox-When-talent-cannot-overcome-structural-failure/4-784929",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764281622.0
+    "time_ut": 1764283020.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-28 | `dailyftlk-6cfdb7d3` | The SriLankan Airlines Paradox: When talent cannot overcome structural failure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-6cfdb7d3)
+- 2025-11-28 | `dailyftlk-10c3806a` | Anura Kumara Dissanayake a Sri Lankan President like no other | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-10c3806a)
+- 2025-11-28 | `dailyftlk-9124b635` | Hubbub SL: babel at the junc and torn between two+ voices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-9124b635)
 - 2025-11-28 | `dailyftlk-16eba11a` | Royal College alumnus’ Open Letter to Prime Minister raises questions over collection of money for “SAGA 2025” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-16eba11a)
 - 2025-11-28 | `dailyftlk-493a9a29` | How to beat the NPP In 2029: BluePrints and Bloc parties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-493a9a29)
 - 2025-11-28 | `virakesarilk-0042b4e0` | வட மாகாணத்தில் கனமழை: 21 பெரிய குளங்கள் வான்பாயும் நிலையில் – நீர்ப்பாசனத் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-0042b4e0)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-27 | `virakesarilk-3196e594` | மன்னார் ஆட்காட்டிவெளி மாவீரர் துயிலும் இல்லத்தில் உணர்வு பூர்வமாக இடம்பெற்ற மாவீரர் தின நினைவேந்தல் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-3196e594)
 - 2025-11-27 | `tamilmirrorlk-cdaeb08b` | மகாவலி கங்கை தாழ்நிலப் பகுதிகளில் பெரும் வெள்ளப் பெருக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-cdaeb08b)
 - 2025-11-27 | `virakesarilk-33877272` | கடும் மழைக்கு மத்தியில் பெருமளவானோர் பங்கெடுப்பில் ஈச்சங்குளத்தில் உணர்வெழுச்சியுடன் மாவீரர் தினம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-33877272)
-- 2025-11-27 | `adalk-a1bd46f1` | මහවැලි ගඟ අධි අවදානම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-adalk-a1bd46f1)
-- 2025-11-27 | `virakesarilk-a0a2ca13` | கொட்டும் மழைக்கு மத்தியில் இரணைப்பாலை  துயிலுமில்லத்தில் இடம்பெற்ற அஞ்சலி நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-a0a2ca13)
-- 2025-11-27 | `virakesarilk-55ba9fbf` | முதன்முறையாக கொட்டும் மழைக்கு மத்தியில் ஆனந்தபுரம் பச்சைபுல்மோட்டை துயிலுமில்லத்தில் இடம்பெற்ற அஞ்சலி நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-55ba9fbf)
 
 ---
 
