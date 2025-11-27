@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_11:49:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_12:26:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,220** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,235** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-27-tamilmirrorlk-70c8080b",
-    "num": "tamilmirrorlk-70c8080b",
+    "doc_id": "2025-11-27-lankadeepalk-a4df05b0",
+    "num": "lankadeepalk-a4df05b0",
     "date_str": "2025-11-27",
-    "description": "\u0baa\u0bc1\u0ba4\u0bbf\u0ba9\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95 \u0baa\u0bcb\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd: \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0ba9\u0bae\u0bcd-\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95-\u0baa\u0bcb\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-368602",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1764224158.0
+    "description": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc3\u0dd4\u0db1\u0dcf\u0db8\u0dd2 \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0db1\u0dd0\u0dc4\u0dd0",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d9a\u0dc0\u0da7-\u0dc3\u0db1\u0db8-\u0d85\u0dc0\u0daf\u0db1\u0db8\u0d9a-\u0db1\u0dc4/1-684003",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1764226190.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-27 | `lankadeepalk-a4df05b0` | ලංකාවට සුනාමි අවදානමක් නැහැ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-a4df05b0)
+- 2025-11-27 | `tamilmirrorlk-8dc281aa` | கந்தபொல நீரில் மூழ்கியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-8dc281aa)
+- 2025-11-27 | `tamilmirrorlk-3e009374` | மட்டக்களப்பில் 300 மில்லிமீற்றர் மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-3e009374)
+- 2025-11-27 | `tamilmirrorlk-39f3a902` | படகு கவிழ்ந்ததில் இளைஞர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-39f3a902)
+- 2025-11-27 | `tamilmirrorlk-833facec` | நிலநடுக்கம்: இலங்கை மக்களுக்கு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-833facec)
+- 2025-11-27 | `tamilmirrorlk-62cd2f51` | பட்ஜெட் விவாதத்தை ஒத்திவைக்க அவசர கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-62cd2f51)
+- 2025-11-27 | `lankadeepalk-701c30fd` | තබ්බෝවේ වාන් දොරටු 18ක් ඇරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-701c30fd)
+- 2025-11-27 | `lankadeepalk-2d3bbb7a` | නාය යාමෙන් තෙල්දෙණියට උඩුදුම්බරට බර හානි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-2d3bbb7a)
+- 2025-11-27 | `tamilmirrorlk-afaf5bb4` | மின் தடைகளைப் புகாரளிக்க CEBCare செயலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-afaf5bb4)
+- 2025-11-27 | `lankadeepalk-dffb87a3` | කඳපොළ ජනපද දෙකක් යටවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-dffb87a3)
+- 2025-11-27 | `tamilmirrorlk-718b556c` | மேல் கொத்மலை நீர்த்தேக்கத்தின் வான் கதவுகள் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-718b556c)
 - 2025-11-27 | `tamilmirrorlk-70c8080b` | புதினம் பார்க்க போகாதீர்கள்: நிபுணர்கள் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-70c8080b)
 - 2025-11-27 | `tamilmirrorlk-d21e8e72` | வீதியில் பாரிய வெடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-d21e8e72)
 - 2025-11-27 | `tamilmirrorlk-d11a7c98` | இந்தோனேசியாவில் நிலநடுக்கம்: சுனாமி எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-d11a7c98)
 - 2025-11-27 | `tamilmirrorlk-31feba39` | ருவன்வெல்லைக்கு சிவப்பு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-31feba39)
 - 2025-11-27 | `tamilmirrorlk-c53fb60a` | 10 நாட்களில் 31 பேர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-c53fb60a)
 - 2025-11-27 | `lankadeepalk-f004bc84` | ඉන්දුනීසියාවේ භූමිකම්පාවක්: සුනාමි අනතුරු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-f004bc84)
+- 2025-11-27 | `lankadeepalk-d99bd40c` | වැස්සෙන් සුළඟින් උතුරේ ජන ජීවිතයටත් බාධා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-d99bd40c)
+- 2025-11-27 | `lankadeepalk-84e49891` | වෙළදසැලක සිරවී සිටි පිරිසක් බේරා ගැනෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-84e49891)
 - 2025-11-27 | `tamilmirrorlk-031343dc` | DMC அவசர அறிவிப்பு: 117க்கு அழைக்கவும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-031343dc)
-- 2025-11-27 | `tamilmirrorlk-ebe820e3` | தலத்துஓயாவில் அனர்த்தம்: இருவர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-ebe820e3)
-- 2025-11-27 | `lankadeepalk-f2703987` | රුවන්වැල්ලට අනතුරු ඇඟවීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-f2703987)
-- 2025-11-27 | `lankadeepalk-67bc7205` | පොළොන්නරුව-මඩකළපුව පාර මනම්පිටියෙන් වහයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-67bc7205)
-- 2025-11-27 | `tamilmirrorlk-d1ab0234` | வெள்ளத்தில் சிக்கிய பஸ்: 23 பயணிகளை மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-d1ab0234)
-- 2025-11-27 | `tamilmirrorlk-1a28b59b` | பதுளையில் 16 பேர் மரணம்: 10 பேர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-1a28b59b)
-- 2025-11-27 | `tamilmirrorlk-934309df` | ஹொங்கொங் தீ விபத்தில் பலியானோர் எண்ணிக்கை உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-934309df)
-- 2025-11-27 | `tamilmirrorlk-ca2c6c59` | NBRO தொழில்நுட்ப ஆலோசனை கட்டாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-ca2c6c59)
-- 2025-11-27 | `lankadeepalk-ab20032d` | බෙන්තොට පැරැණි පාලම ගිලාබසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-ab20032d)
-- 2025-11-27 | `lankadeepalk-b1b162e3` | ආපදාවලින් බදුල්ලේ 18ක් මරුට:තවත් පිරිසක් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-b1b162e3)
-- 2025-11-27 | `lankadeepalk-25da904e` | වැසි අපදාවලින් බදුල්ලේ 16ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-25da904e)
-- 2025-11-27 | `tamilmirrorlk-29f89364` | உதித்தவின் துப்பாக்கி பறிமுதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-29f89364)
-- 2025-11-27 | `tamilmirrorlk-270ce055` | ஜனாதிபதி தலைமையில் அவசர கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-270ce055)
-- 2025-11-27 | `tamilmirrorlk-b082583b` | அனர்த்தங்களில் 26 பேர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-b082583b)
 
 ---
 
