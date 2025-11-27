@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_21:18:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_21:47:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,411** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,421** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-27-tamilmirrorlk-58345d7c",
-    "num": "tamilmirrorlk-58345d7c",
+    "doc_id": "2025-11-27-virakesarilk-13b3075f",
+    "num": "virakesarilk-13b3075f",
     "date_str": "2025-11-27",
-    "description": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1-\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8/175-368645",
+    "description": "\u0b95\u0bca\u0b9f\u0bbf\u0b95\u0bbe\u0bae\u0bae\u0bcd \u0ba4\u0bc1\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0b95 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0b9e\u0bcd\u0b9a\u0bb2\u0bbf !",
+    "url_metadata": "https://www.virakesari.lk/article/231713",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1764258118.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1764258720.0
 }
 ```
 
@@ -41,8 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-27 | `virakesarilk-13b3075f` | கொடிகாமம் துயிலுமில்லத்தில் உணர்வுபூர்வமாக மக்கள் அஞ்சலி ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-13b3075f)
+- 2025-11-27 | `virakesarilk-6c229c89` | சர்வதேச பாடசாலைகளுக்கும் நாளை விடுமுறை ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-6c229c89)
+- 2025-11-27 | `tamilmirrorlk-b4022313` | அனைத்து அரச நிறுவனங்களுக்கும் நாளை விடுமுறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-b4022313)
 - 2025-11-27 | `tamilmirrorlk-58345d7c` | அனைத்து பாடசாலைகளுக்கும் விடுமுறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-58345d7c)
+- 2025-11-27 | `lankadeepalk-7a2c775a` | හෙට රජයේ කාර්යාලවලට නිවාඩු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-7a2c775a)
 - 2025-11-27 | `lankadeepalk-3f7960b5` | අත්‍යාවශ්‍ය සේවා හැර රජයේ සියලු දෙනාට හෙට නිවාඩු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-3f7960b5)
+- 2025-11-27 | `virakesarilk-6465d406` | அனைத்து அதிவேக நெடுஞ்சாலைகளிலும் கட்டணமில்லா பயணத்திற்கு அனுமதி – வீதி அபிவிருத்தி அதிகாரசபை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-6465d406)
+- 2025-11-27 | `adalk-b5e3e451` | අත්‍යාවශ්‍ය සේවා හැර සියලු රජයේ ආයතන හෙට නිවාඩු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-adalk-b5e3e451)
+- 2025-11-27 | `virakesarilk-64ee12e1` | அரச ஊழியர்களுக்கு நாளை விசேட விடுமுறை ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-64ee12e1)
+- 2025-11-27 | `virakesarilk-7cd19af1` | பாகிஸ்தானுடனான ரி20 போட்டியில் கணிசமான ஓட்டங்களைக் குவித்தது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-7cd19af1)
+- 2025-11-27 | `virakesarilk-e1e4a2a4` | பாராளுமன்ற வளாகத்தில் மாவீரர் நாள் குகதாசன், சணக்கியன் இணைந்து நினைவுகூரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-e1e4a2a4)
 - 2025-11-27 | `virakesarilk-c4818203` | யாழ்.பல்கலைக்கழகத்தில் மாவீரர் நாள் நினைவேந்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-c4818203)
 - 2025-11-27 | `adalk-d6676eaa` | කඩුගන්නාව ගල වැටුණු තැන තවත් ගලක් අවධානම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-adalk-d6676eaa)
 - 2025-11-27 | `virakesarilk-62f56529` | சாட்டி மாவீரர் துயிலும் இல்லத்தில் உணர்வெழுச்சியுடன் அஞ்சலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-62f56529)
@@ -50,17 +59,8 @@ A collection of lk_news documents.
 - 2025-11-27 | `virakesarilk-467c8a5a` | கனமழையிலும் தம்பலகாமத்தில் மாவீரர் தின நினைவேந்தல் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-467c8a5a)
 - 2025-11-27 | `virakesarilk-c8b94a7d` | அளம்பில் மாவீரர் துயிலுமில்லத்தில் உணர்வெழுச்சியுடன் இடம்பெற்ற மாவீரர்நாள் நினைவேந்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-c8b94a7d)
 - 2025-11-27 | `lankadeepalk-8b74e5d4` | ආපදාවෙන් මරණ 30යි:21ක් අතුරුදහන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-8b74e5d4)
+- 2025-11-27 | `lankadeepalk-5b16ce3a` | ආපදාවෙන් මරණ 30යි : 21ක් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-5b16ce3a)
 - 2025-11-27 | `lankadeepalk-bd350522` | ජනපති ආපදා කළමනාකරණ සභාව රැස් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-bd350522)
-- 2025-11-27 | `lankadeepalk-9982f061` | ’’තාත්තගෙ තත්ත්වය යහපත්’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-9982f061)
-- 2025-11-27 | `virakesarilk-00b11e37` | சமத்துவக் கட்சி அலுவலகத்தில் மாவீரர் நாள் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-00b11e37)
-- 2025-11-27 | `tamilmirrorlk-16329e4c` | பல பிரதேசங்களில் மின் தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-16329e4c)
-- 2025-11-27 | `lankadeepalk-e36c61bf` | හොංකොන් මරණ තවත් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-e36c61bf)
-- 2025-11-27 | `virakesarilk-cc0f460a` | வவுனியாவில் உணர்வெழுச்சியுடன் இடம்பெற்ற மாவீரர் தின நிகழ்வு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-cc0f460a)
-- 2025-11-27 | `lankadeepalk-d3c7157a` | ‘‘දට්වා‘‘ නිසා තද සුළං සමග තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-d3c7157a)
-- 2025-11-27 | `virakesarilk-27d21cd8` | வெள்ளத்தில் சிக்கிய மக்களை மீட்கும் இலங்கை விமானப்படை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-27d21cd8)
-- 2025-11-27 | `virakesarilk-02260b17` | சஜித்துக்கு சவாலாக மாறி வருகின்றாரா நாமல்? - நுகேகொடை  பேரணி உணர்த்தும் சம்பவங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-02260b17)
-- 2025-11-27 | `virakesarilk-5d4bc7c6` | உயிர்நீத்த மாவீரர்களுக்கு நல்லூரில் நினைவேந்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-5d4bc7c6)
-- 2025-11-27 | `tamilmirrorlk-6574a9b2` | ’’டிட்வா’’ புயலாக உருவெடுத்துள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-6574a9b2)
 
 ---
 
