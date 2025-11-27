@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-27 06:02:27",
-  "n_docs": 89152,
+  "time_updated": "2025-11-27 06:30:12",
+  "n_docs": 89158,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 89152,
+  "n_docs_with_text": 89158,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-27",
-  "dataset_size": 1336119548,
+  "dataset_size": 1336330531,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "en",
-    "ta",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-27-dailyftlk-77073dbd",
-    "num": "dailyftlk-77073dbd",
+    "doc_id": "2025-11-27-dailyftlk-002c10cf",
+    "num": "dailyftlk-002c10cf",
     "date_str": "2025-11-27",
-    "description": "Sri Lanka Ports Authority to remit Rs. 5 b to Consolidated Fund amid record profits",
-    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Ports-Authority-to-remit-Rs-5-b-to-Consolidated-Fund-amid-record-profits/34-784893",
+    "description": "WNPS restores \u2018Great Elephant Gathering of Minneriya\u2019",
+    "url_metadata": "https://www.ft.lk/news/WNPS-restores-Great-Elephant-Gathering-of-Minneriya/56-784906",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764202391.0
+    "time_ut": 1764203864.0
   }
 }
