@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_22:46:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_23:17:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,428** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,432** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-27-virakesarilk-55ba9fbf",
-    "num": "virakesarilk-55ba9fbf",
+    "doc_id": "2025-11-27-tamilmirrorlk-cdaeb08b",
+    "num": "tamilmirrorlk-cdaeb08b",
     "date_str": "2025-11-27",
-    "description": "\u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0ba9\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0baa\u0b9a\u0bcd\u0b9a\u0bc8\u0baa\u0bc1\u0bb2\u0bcd\u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba4\u0bc1\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0b85\u0b9e\u0bcd\u0b9a\u0bb2\u0bbf \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/231718",
+    "description": "\u0bae\u0b95\u0bbe\u0bb5\u0bb2\u0bbf \u0b95\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bbe\u0bb4\u0bcd\u0ba8\u0bbf\u0bb2\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0baa\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bbe\u0bb5\u0bb2\u0bbf-\u0b95\u0b99\u0bcd\u0b95\u0bc8-\u0ba4\u0bbe\u0bb4\u0bcd\u0ba8\u0bbf\u0bb2\u0baa\u0bcd-\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd-\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0baa\u0bcd-\u0baa\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1/175-368647",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1764263280.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1764263890.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-27 | `tamilmirrorlk-cdaeb08b` | மகாவலி கங்கை தாழ்நிலப் பகுதிகளில் பெரும் வெள்ளப் பெருக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-cdaeb08b)
+- 2025-11-27 | `adalk-a1bd46f1` | මහවැලි ගඟ අධි අවදානම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-adalk-a1bd46f1)
 - 2025-11-27 | `virakesarilk-55ba9fbf` | முதன்முறையாக கொட்டும் மழைக்கு மத்தியில் ஆனந்தபுரம் பச்சைபுல்மோட்டை துயிலுமில்லத்தில் இடம்பெற்ற அஞ்சலி நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-55ba9fbf)
 - 2025-11-27 | `virakesarilk-777533e9` | சீரற்ற வானிலை காரணமாக ஏற்பட்ட மின்தடை விரைவாக சரிசெய்யப்படும் – மின்சக்தி அமைச்சர் குமார ஜயகொடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-777533e9)
 - 2025-11-27 | `virakesarilk-3a50b28e` | களனி, மகாவலி ஆறுகளில் நீர்மட்டம் அதிகரிப்பு : தாழ்வான பகுதிகளுக்கு வெள்ள அபாய எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-3a50b28e)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-27 | `virakesarilk-7cd19af1` | பாகிஸ்தானுடனான ரி20 போட்டியில் கணிசமான ஓட்டங்களைக் குவித்தது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-7cd19af1)
 - 2025-11-27 | `virakesarilk-e1e4a2a4` | பாராளுமன்ற வளாகத்தில் மாவீரர் நாள் குகதாசன், சணக்கியன் இணைந்து நினைவுகூரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-e1e4a2a4)
 - 2025-11-27 | `virakesarilk-c4818203` | யாழ்.பல்கலைக்கழகத்தில் மாவீரர் நாள் நினைவேந்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-c4818203)
-- 2025-11-27 | `adalk-d6676eaa` | කඩුගන්නාව ගල වැටුණු තැන තවත් ගලක් අවධානම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-adalk-d6676eaa)
-- 2025-11-27 | `virakesarilk-62f56529` | சாட்டி மாவீரர் துயிலும் இல்லத்தில் உணர்வெழுச்சியுடன் அஞ்சலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-62f56529)
 
 ---
 
