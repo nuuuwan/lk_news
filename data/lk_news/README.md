@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_21:47:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_22:22:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,421** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,425** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-27-virakesarilk-13b3075f",
-    "num": "virakesarilk-13b3075f",
+    "doc_id": "2025-11-27-virakesarilk-8428c74d",
+    "num": "virakesarilk-8428c74d",
     "date_str": "2025-11-27",
-    "description": "\u0b95\u0bca\u0b9f\u0bbf\u0b95\u0bbe\u0bae\u0bae\u0bcd \u0ba4\u0bc1\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0b95 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0b9e\u0bcd\u0b9a\u0bb2\u0bbf !",
-    "url_metadata": "https://www.virakesari.lk/article/231713",
+    "description": "\u0b85\u0bae\u0bcd\u0baa\u0bbe\u0bb1\u0bc8, \u0b95\u0b9e\u0bcd\u0b9a\u0bbf\u0b95\u0bc1\u0b9f\u0bbf\u0b9a\u0bcd\u0b9a\u0bbe\u0bb1\u0bc1 \u0bae\u0bbe\u0bb5\u0bc0\u0bb0\u0bb0\u0bcd \u0ba4\u0bc1\u0baf\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bb4\u0bc8\u0baf\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0bae\u0bc0\u0bb1\u0bbf \u0b89\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0ba9 \u0bae\u0bbe\u0bb5\u0bc0\u0bb0\u0bb0\u0bcd \u0ba8\u0bbe\u0bb3\u0bcd \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc7\u0ba8\u0bcd\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/231715",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1764258720.0
+    "time_ut": 1764261660.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-27 | `virakesarilk-8428c74d` | அம்பாறை, கஞ்சிகுடிச்சாறு மாவீரர் துயிலும் இல்லத்தில் மழையையும் மீறி உணர்வுபூர்வமான மாவீரர் நாள் நினைவேந்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-8428c74d)
+- 2025-11-27 | `virakesarilk-64a0e1e1` | சீரற்ற வானிலையால் பாதிக்கப்பட்ட மக்களுக்கு 24 மணி நேர சுகாதார வசதிக்கு அவசர தொலைபேசி இலக்கம் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-64a0e1e1)
+- 2025-11-27 | `lankadeepalk-4254796c` | හදිසි තත්වයක් ඇති වුවහොත් ගුවන් හමුදා සහය ගැනීමට සුදානම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-4254796c)
 - 2025-11-27 | `virakesarilk-13b3075f` | கொடிகாமம் துயிலுமில்லத்தில் உணர்வுபூர்வமாக மக்கள் அஞ்சலி ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-13b3075f)
 - 2025-11-27 | `virakesarilk-6c229c89` | சர்வதேச பாடசாலைகளுக்கும் நாளை விடுமுறை ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-6c229c89)
 - 2025-11-27 | `tamilmirrorlk-b4022313` | அனைத்து அரச நிறுவனங்களுக்கும் நாளை விடுமுறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-b4022313)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-27 | `lankadeepalk-c92c15b7` | අධිවේගී මාර්ගයේ ගමනා ගමනය නොමිලේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-c92c15b7)
 - 2025-11-27 | `virakesarilk-467c8a5a` | கனமழையிலும் தம்பலகாமத்தில் மாவீரர் தின நினைவேந்தல் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-467c8a5a)
 - 2025-11-27 | `virakesarilk-c8b94a7d` | அளம்பில் மாவீரர் துயிலுமில்லத்தில் உணர்வெழுச்சியுடன் இடம்பெற்ற மாவீரர்நாள் நினைவேந்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-c8b94a7d)
-- 2025-11-27 | `lankadeepalk-8b74e5d4` | ආපදාවෙන් මරණ 30යි:21ක් අතුරුදහන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-8b74e5d4)
-- 2025-11-27 | `lankadeepalk-5b16ce3a` | ආපදාවෙන් මරණ 30යි : 21ක් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-5b16ce3a)
-- 2025-11-27 | `lankadeepalk-bd350522` | ජනපති ආපදා කළමනාකරණ සභාව රැස් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-bd350522)
 
 ---
 
