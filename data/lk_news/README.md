@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_07:14:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_08:17:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,159** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,168** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-27-dailyftlk-002c10cf",
-    "num": "dailyftlk-002c10cf",
+    "doc_id": "2025-11-27-tamilmirrorlk-413619e2",
+    "num": "tamilmirrorlk-413619e2",
     "date_str": "2025-11-27",
-    "description": "WNPS restores \u2018Great Elephant Gathering of Minneriya\u2019",
-    "url_metadata": "https://www.ft.lk/news/WNPS-restores-Great-Elephant-Gathering-of-Minneriya/56-784906",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1764203864.0
+    "description": "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-368580",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1764211271.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-27 | `tamilmirrorlk-413619e2` | அனைத்து ரயில் சேவைகளும் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-413619e2)
+- 2025-11-27 | `lankadeepalk-9b313a14` | හොංකොං තායිපෝ හි මහල් නිවාසයක මහ ගින්නක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-9b313a14)
+- 2025-11-27 | `tamilmirrorlk-32af7154` | சீரற்ற வானிலையால் உயர்தர பரீட்சைகள் ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-32af7154)
+- 2025-11-27 | `lankadeepalk-bc166eb7` | දිවයිනේ බොහෝ ප්‍රදේශවලට තද වැසි සමග සුළං | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-bc166eb7)
+- 2025-11-27 | `tamilmirrorlk-85231708` | காற்றழுத்தத் தாழ்வு வலுப்பெற்றது: இன்றும் கடும் மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-85231708)
+- 2025-11-27 | `tamilmirrorlk-9af155a0` | மண்சரிவுகளில் சிக்கி நால்வர் மரணம் : 9 பேர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-9af155a0)
+- 2025-11-27 | `lankadeepalk-a901ed2a` | උඩරට දුම්රිය ධාවනයට බාධා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-a901ed2a)
+- 2025-11-27 | `lankadeepalk-4ebed36f` | අද හෙට උසස් පෙළ නොපැවැත්වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-4ebed36f)
+- 2025-11-27 | `adalk-4a7e46af` | අදත් මිලි මීටර් 200ක් දක්වා වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-adalk-4a7e46af)
 - 2025-11-27 | `dailyftlk-002c10cf` | WNPS restores ‘Great Elephant Gathering of Minneriya’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-002c10cf)
 - 2025-11-27 | `dailyftlk-3049dd48` | UNP commends Sajith’s decision to mediate UNP-SJB merger | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-3049dd48)
 - 2025-11-27 | `dailyftlk-ffbbafcb` | Cyclone Senyar brings unstable weather; Colombo-Kandy road closed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-ffbbafcb)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2025-11-27 | `dailyftlk-181a171a` | Govt. to compensate weaving mill employees affected by closures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-181a171a)
 - 2025-11-27 | `dailyftlk-1c8941c7` | Evaluating 2026 Budget through green energy, agriculture, and strategic investment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-1c8941c7)
 - 2025-11-27 | `dailyftlk-03b3533b` | What AKD missed: Sri Lanka must earn $50 b foreign exchange annually | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-03b3533b)
-- 2025-11-27 | `dailyftlk-4deec1da` | 2026 Budget commits over Rs. 688 b to construction: Sector poised for acceleration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-4deec1da)
-- 2025-11-27 | `dailyftlk-4ea58f12` | Budget 2026 and SMEs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-4ea58f12)
-- 2025-11-27 | `dailyftlk-531338c7` | Rainy day in Nugegoda: Namal as contender, Sajith’s strategic shortsightedness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-531338c7)
-- 2025-11-27 | `tamilmirrorlk-0a23e8bd` | போதைப் பொருட்களுடன் ஐந்து பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-0a23e8bd)
-- 2025-11-27 | `virakesarilk-4cacf9fa` | கிழக்கில் முன்பள்ளி பாடசாலைகள் எதிர்வரும் 30 வரை பூட்டு; பணியகத்தின் முகாமையாளர் ஜெயவதனன் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-4cacf9fa)
-- 2025-11-27 | `tamilmirrorlk-cd98c980` | அமெரிக்காவில் எரிமலை வெடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-cd98c980)
-- 2025-11-27 | `dailyftlk-dd0f61a4` | Colombo – the Venice in the Indian Ocean? Our tryst with a glacier | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-dailyftlk-dd0f61a4)
-- 2025-11-26 | `virakesarilk-32c718be` | இலங்கையுடனான நீண்டகால உறவுக்கு இந்தியா அளிக்கும் முக்கியத்துவத்துக்கு மதிப்பளிக்கின்றோம் - அமைச்சர் நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-32c718be)
-- 2025-11-26 | `virakesarilk-95702f08` | வங்காள விரிகுடாவில் உருவாகியுள்ள காற்றழுத்த தாழ்வு தீவீரமடையும் 150 மி.மீ. மழை வீழ்ச்சி பதிவாகக் கூடும் - வளிமண்டலவியல் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-26-virakesarilk-95702f08)
 
 ---
 
