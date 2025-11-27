@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_12:26:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_12:47:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,235** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,244** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-27-lankadeepalk-a4df05b0",
-    "num": "lankadeepalk-a4df05b0",
+    "doc_id": "2025-11-27-lankadeepalk-482bab6e",
+    "num": "lankadeepalk-482bab6e",
     "date_str": "2025-11-27",
-    "description": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dc3\u0dd4\u0db1\u0dcf\u0db8\u0dd2 \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0db1\u0dd0\u0dc4\u0dd0",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dbd\u0d9a\u0dc0\u0da7-\u0dc3\u0db1\u0db8-\u0d85\u0dc0\u0daf\u0db1\u0db8\u0d9a-\u0db1\u0dc4/1-684003",
+    "description": "\u0d85\u0db8\u0dca\u0db4\u0dcf\u0dbb\u0da7\u0dad\u0dca  \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0dc3\u0dd0\u0dbb\u0da7\u0db8",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0db8\u0db4\u0dbb\u0da7\u0dad-\u0dc0\u0dc3\u0dc3-\u0dc3\u0dbb\u0da7\u0db8/101-684008",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1764226190.0
+    "time_ut": 1764227416.0
 }
 ```
 
@@ -41,7 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-27 | `lankadeepalk-482bab6e` | අම්පාරටත්  වැස්ස සැරටම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-482bab6e)
+- 2025-11-27 | `tamilmirrorlk-4a21f18d` | ’பேராறு’ குளத்தின் வான் கதவு திறப்பு:பறங்கி ஆறு பெருக்கெடுக்கும் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-4a21f18d)
+- 2025-11-27 | `tamilmirrorlk-38e95fca` | இலங்கைக்கு சுனாமி அச்சுறுத்தல் இல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-38e95fca)
+- 2025-11-27 | `tamilmirrorlk-0b0a4035` | மட்டுப்படுத்தப்பட்ட ரயில் சேவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-0b0a4035)
+- 2025-11-27 | `lankadeepalk-e3f1acef` | ගංවතුර නැගෙනහිර පාරවල් දොළහක් වසයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-e3f1acef)
+- 2025-11-27 | `tamilmirrorlk-db7bc46f` | கால்வாயில் கார் கவிழ்ந்தது: மூவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-db7bc46f)
+- 2025-11-27 | `lankadeepalk-0547cc16` | රියැදුරු බලපත් ඔන්ලයින් නිකුත් කිරීම තාවකාලිකව නවතී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-0547cc16)
+- 2025-11-27 | `lankadeepalk-f049be98` | බදුල්ලේ මාර්ග රැසක ගමනා ගමනයට බාධා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-f049be98)
 - 2025-11-27 | `lankadeepalk-a4df05b0` | ලංකාවට සුනාමි අවදානමක් නැහැ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-a4df05b0)
+- 2025-11-27 | `tamilmirrorlk-da3ebc2e` | ரயில் கடவையில் விபத்து ; ஒருவர் பலி, ஒருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-da3ebc2e)
 - 2025-11-27 | `tamilmirrorlk-8dc281aa` | கந்தபொல நீரில் மூழ்கியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-8dc281aa)
 - 2025-11-27 | `tamilmirrorlk-3e009374` | மட்டக்களப்பில் 300 மில்லிமீற்றர் மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-3e009374)
 - 2025-11-27 | `tamilmirrorlk-39f3a902` | படகு கவிழ்ந்ததில் இளைஞர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-39f3a902)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2025-11-27 | `tamilmirrorlk-afaf5bb4` | மின் தடைகளைப் புகாரளிக்க CEBCare செயலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-afaf5bb4)
 - 2025-11-27 | `lankadeepalk-dffb87a3` | කඳපොළ ජනපද දෙකක් යටවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-dffb87a3)
 - 2025-11-27 | `tamilmirrorlk-718b556c` | மேல் கொத்மலை நீர்த்தேக்கத்தின் வான் கதவுகள் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-718b556c)
-- 2025-11-27 | `tamilmirrorlk-70c8080b` | புதினம் பார்க்க போகாதீர்கள்: நிபுணர்கள் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-70c8080b)
-- 2025-11-27 | `tamilmirrorlk-d21e8e72` | வீதியில் பாரிய வெடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-d21e8e72)
-- 2025-11-27 | `tamilmirrorlk-d11a7c98` | இந்தோனேசியாவில் நிலநடுக்கம்: சுனாமி எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-d11a7c98)
-- 2025-11-27 | `tamilmirrorlk-31feba39` | ருவன்வெல்லைக்கு சிவப்பு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-31feba39)
-- 2025-11-27 | `tamilmirrorlk-c53fb60a` | 10 நாட்களில் 31 பேர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-c53fb60a)
-- 2025-11-27 | `lankadeepalk-f004bc84` | ඉන්දුනීසියාවේ භූමිකම්පාවක්: සුනාමි අනතුරු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-f004bc84)
-- 2025-11-27 | `lankadeepalk-d99bd40c` | වැස්සෙන් සුළඟින් උතුරේ ජන ජීවිතයටත් බාධා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-d99bd40c)
-- 2025-11-27 | `lankadeepalk-84e49891` | වෙළදසැලක සිරවී සිටි පිරිසක් බේරා ගැනෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-lankadeepalk-84e49891)
-- 2025-11-27 | `tamilmirrorlk-031343dc` | DMC அவசர அறிவிப்பு: 117க்கு அழைக்கவும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-tamilmirrorlk-031343dc)
 
 ---
 
