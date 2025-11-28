@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--28_09:05:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--28_09:27:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,507** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,510** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-28-virakesarilk-192eb593",
-    "num": "virakesarilk-192eb593",
+    "doc_id": "2025-11-28-tamilmirrorlk-9696dc63",
+    "num": "tamilmirrorlk-9696dc63",
     "date_str": "2025-11-28",
-    "description": "\u0bae\u0bb9\u0bb0\u0b95\u0bae\u0bb5\u0bbf\u0bb2\u0bcd\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1 :  \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1\u0bb3\u0bcd\u0bb3\u0bbe\u0ba9\u0bae\u0bc8 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0b95\u0bb5\u0bb2\u0bcd !",
-    "url_metadata": "https://www.virakesari.lk/article/231744",
+    "description": "\u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bc1\u0bae\u0bbe\u0bb1\u0bc1-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-368658",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1764300540.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1764301338.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-28 | `tamilmirrorlk-9696dc63` | உடனடியாக வெளியேறுமாறு மக்களுக்கு அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-tamilmirrorlk-9696dc63)
+- 2025-11-28 | `tamilmirrorlk-b67775ba` | சர்வதேசத்தின் உதவியை நாடும் இலங்கை ? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-tamilmirrorlk-b67775ba)
+- 2025-11-28 | `virakesarilk-e9b2f4d5` | மன்னார் பேசாலை பகுதியில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-e9b2f4d5)
 - 2025-11-28 | `virakesarilk-192eb593` | மஹரகமவில்பெண்ணின் சடலம் மீட்பு :  பாலியல் துஷ்பிரயோகத்திற்குள்ளானமை விசாரணையில் தகவல் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-192eb593)
 - 2025-11-28 | `tamilmirrorlk-e40e963d` | பயண ஆலோசனையை வெளியிட்டது ஸ்ரீலங்கன் ஏர்லைன்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-tamilmirrorlk-e40e963d)
 - 2025-11-28 | `tamilmirrorlk-0eac7e61` | களனி கங்கை தாழ்நிலப் பகுதிகளில் பாரிய வெள்ளம் ஏற்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-tamilmirrorlk-0eac7e61)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-28 | `lankadeepalk-614bc4a2` | කොළඹටත් මහා ගංවතුර අනතුරු ඇඟවීම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-lankadeepalk-614bc4a2)
 - 2025-11-28 | `lankadeepalk-688f0e76` | විමලසුරේද්‍ර වාන් දමයි:කැළණි ගඟ ජලමට්ටම ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-lankadeepalk-688f0e76)
 - 2025-11-28 | `lankadeepalk-4cda931d` | පළාත් රැසකට අදත් මිලි මිටර් 200ක තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-lankadeepalk-4cda931d)
-- 2025-11-28 | `lankadeepalk-59835288` | රත්නපුරයටත් ගංවතුර තත්වයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-lankadeepalk-59835288)
-- 2025-11-28 | `virakesarilk-cd975405` | இலங்கைக்கு மீண்டும் சிவப்பு எச்சரிக்கை ! - அவசர அறிவிப்பு – காலை 5.00 மணிக்கு வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-cd975405)
-- 2025-11-28 | `virakesarilk-20d04758` | இலங்கையில் இயற்கையின் சீற்றத்தால் இதுவரை 56 பேர் உயிரிழப்பு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-20d04758)
 
 ---
 
