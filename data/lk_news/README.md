@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--28_16:20:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--28_16:45:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,634** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,636** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-28-virakesarilk-7ca19528",
-    "num": "virakesarilk-7ca19528",
+    "doc_id": "2025-11-28-lankadeepalk-1b7161fd",
+    "num": "lankadeepalk-1b7161fd",
     "date_str": "2025-11-28",
-    "description": "\u0b9a\u0bc0\u0bb0\u0bb1\u0bcd\u0bb1 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5\u0bbf\u0b95\u0bb3\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0ba4\u0baf\u0bbe\u0bb0\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bcd - \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0ba8\u0bb0\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0bae\u0bcb\u0b9f\u0bbf",
-    "url_metadata": "https://www.virakesari.lk/article/231831",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1764326520.0
+    "description": "\u0db8\u0dd4\u0daf\u0dc0\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca\u0dc0\u0dbd\u0da7 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0dc3\u0dc4\u0dcf\u0dba",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db8\u0daf\u0dc0-\u0d9c\u0db1\u0db8-\u0db8\u0dc4\u0dba\u0db8\u0dc0\u0dbd\u0da7-\u0da2\u0dad\u0dba\u0db1\u0dad\u0dbb-\u0dc3\u0dc4\u0dba/1-684138",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1764328162.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-28 | `lankadeepalk-1b7161fd` | මුදවා ගැනීමේ මෙහෙයුම්වලට ජාත්‍යන්තර සහාය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-lankadeepalk-1b7161fd)
+- 2025-11-28 | `lankadeepalk-b06980c5` | කැලණි ගං නිම්නයේ අයට ජීවිත බේරා ගෙන වහා පිට වන්නැයි දන්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-lankadeepalk-b06980c5)
 - 2025-11-28 | `virakesarilk-7ca19528` | சீரற்ற வானிலையால் பாதிக்கப்பட்ட இலங்கை மக்களுக்கு உதவிகளை வழங்க தயாராக இருக்கிறோம் - இந்திய பிரதமர் நரேந்திர மோடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-7ca19528)
 - 2025-11-28 | `virakesarilk-d8df3fe5` | சீரற்ற வானிலையால் 15 விமானங்கள்  வேறு விமானநிலையங்களுக்குத் திருப்பி அனுப்பப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-d8df3fe5)
 - 2025-11-28 | `lankadeepalk-eabb3dc7` | ආපදා තොරතුරු කියන්න මෙහෙයුම් මැදිරියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-lankadeepalk-eabb3dc7)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-11-28 | `virakesarilk-82e1ea00` | மண்சரிவில் சிக்கிய எரிபொருள் பவுசர்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-82e1ea00)
 - 2025-11-28 | `lankadeepalk-13ea8e0f` | අසීරු වෙලාවේ කවුරුත් එකට වැඩ කරමු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-lankadeepalk-13ea8e0f)
 - 2025-11-28 | `virakesarilk-8f0d78b5` | தற்காலிக முகாம்களுக்கு செல்லும் மக்கள் பல சிக்கல்களுக்கு முகங்கொடுக்கிறார்கள் ; அது குறித்தும் கவனம் செலுத்த வேண்டும் - சாணக்கியன் இராசமாணிக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-8f0d78b5)
-- 2025-11-28 | `virakesarilk-6f05230c` | வவுனியா இரட்டைப்பெரியகுளத்தில் சிக்கிய நபர் கடற்படையினரால் பாதுகாப்பாக மீட்பு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-6f05230c)
-- 2025-11-28 | `virakesarilk-150b02b4` | வெள்ளத்துக்குள் அகப்பட்டவர்களை மீட்பதற்கு முப்படையினரின் உதவி கோரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-150b02b4)
 
 ---
 
