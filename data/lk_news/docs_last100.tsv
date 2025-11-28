@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-11-28-lankadeepalk-34508816	lankadeepalk-34508816	2025-11-28	’’දිට්වා’’ දැනට 69ක් බිලි ගනී	https://www.lankadeepa.lk/news/දටව-දනට-69ක-බල-ගන/101-684154	si	lankadeepalk	1764338312.0
+lk_news	2025-11-28-lankadeepalk-0345e883	lankadeepalk-0345e883	2025-11-28	කැලණි ගඟ දෙපස අය ඉවත් කරන්න යයි	https://www.lankadeepa.lk/news/කලණ-ගඟ-දපස-අය-ඉවත-කරනන-යය/101-684153	si	lankadeepalk	1764337973.0
 lk_news	2025-11-28-lankadeepalk-d90cc756	lankadeepalk-d90cc756	2025-11-28	අඹතලේ ජලය මුදා හරී: කොළොන්නාවෙන් ඉවත් වන්න	https://www.lankadeepa.lk/news/අඹතල-ජලය-මද-හර-කළනනවන-ඉවත-වනන/101-684152	si	lankadeepalk	1764336760.0
 lk_news	2025-11-28-lankadeepalk-b66980b9	lankadeepalk-b66980b9	2025-11-28	උසස් පෙළ තව කල් යයි	https://www.lankadeepa.lk/news/උසස-පළ-තව-කල-යය/101-684151	si	lankadeepalk	1764336676.0
 lk_news	2025-11-28-lankadeepalk-13eaf700	lankadeepalk-13eaf700	2025-11-28	‘‘රන්දෙනිගල සහ රන්ටැබේ කිසිදු අනතුරක් නෑ‘‘	https://www.lankadeepa.lk/news/රනදනගල-සහ-රනටබ-කසද-අනතරක-න/101-684150	si	lankadeepalk	1764336536.0
@@ -11,6 +13,7 @@ lk_news	2025-11-28-lankadeepalk-2bd56f50	lankadeepalk-2bd56f50	2025-11-28	ලං
 lk_news	2025-11-28-lankadeepalk-5916f2a5	lankadeepalk-5916f2a5	2025-11-28	ව්‍යසනයෙන් ගොඩ එන්න ජාත්‍යන්තර ආධාරක සමුළුවක් පවත්වන්න	https://www.lankadeepa.lk/news/වයසනයන-ගඩ-එනන-ජතයනතර-ආධරක-සමළවක-පවතවනන/101-684143	si	lankadeepalk	1764333750.0
 lk_news	2025-11-28-lankadeepalk-5500bde7	lankadeepalk-5500bde7	2025-11-28	ජල රකුසාට යට වූ පුත්තලම	https://www.lankadeepa.lk/latest_news/ජල-රකසට-යට-වපතතලම/1-684142	si	lankadeepalk	1764333392.0
 lk_news	2025-11-28-virakesarilk-aa705c06	virakesarilk-aa705c06	2025-11-28	நாட்டில் நிலவும் சீரற்ற காலநிலையால் போக்குவரத்து சேவைகள் முழுமையாக ஸ்தம்பிதம்	https://www.virakesari.lk/article/231857	ta	virakesarilk	1764331920.0
+lk_news	2025-11-28-virakesarilk-623eef53	virakesarilk-623eef53	2025-11-28	பாதுகாப்பு நடவடிக்கைகளுக்கு முழுமையான ஒத்துழைப்பு வழங்குங்கள் - பிரதமர் ஹரிணி அமரசூரிய	https://www.virakesari.lk/article/231856	ta	virakesarilk	1764331320.0
 lk_news	2025-11-28-virakesarilk-e88a1ee4	virakesarilk-e88a1ee4	2025-11-28	சீரற்ற காலநிலை நிவாரணம் - பிரதேச செயலாளர்களுக்கு 50 மில்லியன் ரூபா வரை செலவிட அனுமதி	https://www.virakesari.lk/article/231855	ta	virakesarilk	1764331140.0
 lk_news	2025-11-28-lankadeepalk-b095e93b	lankadeepalk-b095e93b	2025-11-28	කටුනායක ගුවන් තොටුපොළ ප්‍රමාදවීම් සහ අවලංගු කිරීම් රැසක්	https://www.lankadeepa.lk/news/කටනයක-ගවන-තටපළ-පරමදවම-සහ-අවලග-කරම-රසක/101-684141	si	lankadeepalk	1764331036.0
 lk_news	2025-11-28-lankadeepalk-3e26889a	lankadeepalk-3e26889a	2025-11-28	දේදුගල නාය යාමක් :12 ක් අතුරුදන්	https://www.lankadeepa.lk/news/දදගල-නය-යමක-12-ක-අතරදන/101-684140	si	lankadeepalk	1764330673.0
@@ -96,6 +99,3 @@ lk_news	2025-11-28-virakesarilk-0864c970	virakesarilk-0864c970	2025-11-28	அந
 lk_news	2025-11-28-adalk-7be3755f	adalk-7be3755f	2025-11-28	මුදල් වැය කිරීමේ චක්‍රලේඛා බාධා ඉවත් කිරීමට නව චක්‍රලේඛයක්	https://www.ada.lk/breaking_news/මුදල්-වැය-කිරීමේ-චක්‍රලේඛා-බාධා-ඉවත්-කිරීමට-නව-චක්‍රලේඛයක්/11-419965	si	adalk	1764315012.0
 lk_news	2025-11-28-tamilmirrorlk-7a827d74	tamilmirrorlk-7a827d74	2025-11-28	பேராதனை பல்கலைக்கழகம் மூடப்பட்டுள்ளது	https://www.tamilmirror.lk/செய்திகள்/பேராதனை-பல்கலைக்கழகம்-மூடப்பட்டுள்ளது/175-368675	ta	tamilmirrorlk	1764314794.0
 lk_news	2025-11-28-lankadeepalk-412a9c64	lankadeepalk-412a9c64	2025-11-28	තියුණු අයුධවලින් කපා අයෙක් මරලා	https://www.lankadeepa.lk/news/තයණ-අයධවලන-කප-අයක-මරල/101-684105	si	lankadeepalk	1764314592.0
-lk_news	2025-11-28-lankadeepalk-1167348f	lankadeepalk-1167348f	2025-11-28	විදුලි බිඳ වැටීම් 65,000 ක්	https://www.lankadeepa.lk/news/වදල-බඳ-වටම-65-000-ක/101-684104	si	lankadeepalk	1764314461.0
-lk_news	2025-11-28-lankadeepalk-8e8d64b2	lankadeepalk-8e8d64b2	2025-11-28	සහන දෙන විට මුදල් බාධාවක් කරගන්න එපා	https://www.lankadeepa.lk/news/සහන-දන-වට-මදල-බධවක-කරගනන-එප/101-684103	si	lankadeepalk	1764314424.0
-lk_news	2025-11-28-tamilmirrorlk-069fed92	tamilmirrorlk-069fed92	2025-11-28	65,000 க்கும் மேற்பட்ட மின்வெட்டுக்கள் பதிவு	https://www.tamilmirror.lk/செய்திகள்/65-000-க்கும்-மேற்பட்ட-மின்வெட்டுக்கள்-பதிவு/175-368674	ta	tamilmirrorlk	1764314364.0
