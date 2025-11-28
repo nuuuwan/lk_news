@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-28 14:22:49",
-  "n_docs": 89593,
+  "time_updated": "2025-11-28 14:46:51",
+  "n_docs": 89613,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 89593,
+  "n_docs_with_text": 89613,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-28",
-  "dataset_size": 1342139902,
+  "dataset_size": 1342242200,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-28-lankadeepalk-5c8d885f",
-    "num": "lankadeepalk-5c8d885f",
+    "doc_id": "2025-11-28-lankadeepalk-13ea8e0f",
+    "num": "lankadeepalk-13ea8e0f",
     "date_str": "2025-11-28",
-    "description": "\u0da2\u0dd3\u0dc0\u0dd2\u0dad  \u0db6\u0dda\u0dbb\u0d9c\u0db1\u0dca\u0db1 \u0d95\u0db1 \u0db1\u0db8\u0dca \u0db8\u0dd9\u0db1\u0dca\u0db1 \u0d85\u0d82\u0d9a\u0dba",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0da2\u0dc0\u0dad-\u0db6\u0dbb\u0d9c\u0db1\u0db1-\u0d95\u0db1-\u0db1\u0db8-\u0db8\u0db1\u0db1-\u0d85\u0d9a\u0dba/1-684131",
+    "description": "\u0d85\u0dc3\u0dd3\u0dbb\u0dd4 \u0dc0\u0dd9\u0dbd\u0dcf\u0dc0\u0dda \u0d9a\u0dc0\u0dd4\u0dbb\u0dd4\u0dad\u0dca \u0d91\u0d9a\u0da7 \u0dc0\u0dd0\u0da9 \u0d9a\u0dbb\u0db8\u0dd4",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0dc3\u0dbb-\u0dc0\u0dbd\u0dc0-\u0d9a\u0dc0\u0dbb\u0dad-\u0d91\u0d9a\u0da7-\u0dc0\u0da9-\u0d9a\u0dbb\u0db8/101-684133",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1764319229.0
+    "time_ut": 1764320612.0
   }
 }
