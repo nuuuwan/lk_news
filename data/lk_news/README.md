@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--28_05:16:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--28_06:02:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,456** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,482** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-28-dailyftlk-8649fad3",
-    "num": "dailyftlk-8649fad3",
+    "doc_id": "2025-11-28-tamilmirrorlk-4551413e",
+    "num": "tamilmirrorlk-4551413e",
     "date_str": "2025-11-28",
-    "description": "John Keells Properties aligns with FACETS 2026 as official real estate partner",
-    "url_metadata": "https://www.ft.lk/business/John-Keells-Properties-aligns-with-FACETS-2026-as-official-real-estate-partner/34-784942",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1764284925.0
+    "description": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b9a\u0baa\u0bc8 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4-\u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5-\u0b9a\u0baa\u0bc8-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1/175-368648",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1764289009.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-28 | `tamilmirrorlk-4551413e` | தேசிய அனர்த்த முகாமைத்துவ சபை ஜனாதிபதி தலைமையில் கூடியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-tamilmirrorlk-4551413e)
+- 2025-11-28 | `dailyftlk-95e28170` | Revello chocolates enter Bahrain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-95e28170)
+- 2025-11-28 | `dailyftlk-e4ce61e8` | Banking veteran joins Seylan Developments Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-e4ce61e8)
+- 2025-11-28 | `dailyftlk-f2f1176f` | A new business platform: BELGOLUX–Sri Lanka Business Council launches in Brussels | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-f2f1176f)
+- 2025-11-28 | `dailyftlk-c6e7234e` | Sri Lankan pride, global glory: Solar Booze sweeps service and performance excellence awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-c6e7234e)
+- 2025-11-28 | `dailyftlk-e558f7ec` | NPP Govt. shows its inability to handle disaster situation properly – S.M. Marikkar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-e558f7ec)
+- 2025-11-28 | `dailyftlk-59c8e019` | President says Sri Lankans must have access to foreign films | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-59c8e019)
+- 2025-11-28 | `dailyftlk-8fd890cb` | US Envoy calls on President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-8fd890cb)
+- 2025-11-28 | `dailyftlk-36f5f2a6` | Sri Lanka Institute of Architects presents “A Christmas Wish” by The Old Joes’ Choir | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-36f5f2a6)
+- 2025-11-28 | `dailyftlk-c7a994c7` | HNB crowned Sri Lanka’s Top Corporate Citizen | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-c7a994c7)
 - 2025-11-28 | `dailyftlk-8649fad3` | John Keells Properties aligns with FACETS 2026 as official real estate partner | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-8649fad3)
 - 2025-11-28 | `dailyftlk-ff45f745` | Germany-based Sri Lankan urges diaspora to invest in SL’s economic revival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-ff45f745)
 - 2025-11-28 | `dailyftlk-6cfdb7d3` | The SriLankan Airlines Paradox: When talent cannot overcome structural failure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-6cfdb7d3)
@@ -48,19 +58,9 @@ A collection of lk_news documents.
 - 2025-11-28 | `dailyftlk-9124b635` | Hubbub SL: babel at the junc and torn between two+ voices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-9124b635)
 - 2025-11-28 | `dailyftlk-16eba11a` | Royal College alumnus’ Open Letter to Prime Minister raises questions over collection of money for “SAGA 2025” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-16eba11a)
 - 2025-11-28 | `dailyftlk-493a9a29` | How to beat the NPP In 2029: BluePrints and Bloc parties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-dailyftlk-493a9a29)
-- 2025-11-28 | `virakesarilk-0042b4e0` | வட மாகாணத்தில் கனமழை: 21 பெரிய குளங்கள் வான்பாயும் நிலையில் – நீர்ப்பாசனத் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-0042b4e0)
-- 2025-11-28 | `virakesarilk-a3ab3001` | யாழில் ஆலய மடப்பள்ளியில் இருந்து சடலம் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-a3ab3001)
-- 2025-11-28 | `virakesarilk-5117ea6c` | யாழ்ப்பாண மாவட்டத்தினுடைய அனர்த்த நிலவரம் தொடர்பாக அரசாங்க அதிபரின் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-5117ea6c)
-- 2025-11-28 | `virakesarilk-5b57239a` | யாழ். கோப்பாயில் கொட்டும் மழையிலும் பல்லாயிரக்கணக்கானோர் கூடி நினைவேந்தல் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-5b57239a)
-- 2025-11-28 | `virakesarilk-c59c6967` | இலங்கை வானிலை தொடர்பில் நாசா வெளியிட்டுள்ள செயற்கைக்கோள் படங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-c59c6967)
-- 2025-11-27 | `virakesarilk-59e778ba` | வாழைச்சேனை கடலில் காணமல் போன மீனவர் சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-59e778ba)
-- 2025-11-27 | `virakesarilk-624da581` | வெளியானது புதிய வானிலை எச்சரிக்கை !! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-624da581)
-- 2025-11-27 | `virakesarilk-e4fdc2d1` | யாழில் எலிக்காய்ச்சல் காரணமாக சிறுவன் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-e4fdc2d1)
-- 2025-11-27 | `adalk-a661be3e` | වාරිමාර්ග පද්ධතියේ ආරක්ෂාව පිළිබදව අවධානය යොමු කරන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-adalk-a661be3e)
-- 2025-11-27 | `virakesarilk-d5c78e34` | வரலாற்றில் இதுவே முதல் முறையானது !.“டிட்வா”புயல் - இரவு 10 மணி வரையான வானிலை குறித்து வெளியான முக்கிய தகவல் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-d5c78e34)
-- 2025-11-27 | `virakesarilk-62b538f8` | பரபரப்பை ஏற்படுத்திய போட்டியில் பாகிஸ்தானை 6 ஓட்டங்களால் வெற்றிகொண்டு இறுதிக்குள் நுழைந்தது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-62b538f8)
-- 2025-11-27 | `virakesarilk-4382938b` | தேசிய அனர்த்த முகாமைத்துவ சபை ஜனாதிபதி தலைமையில் அவசரமாக கூடியது - எடுக்கப்பட்ட முடிவுகள் இதோ ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-4382938b)
-- 2025-11-27 | `virakesarilk-3196e594` | மன்னார் ஆட்காட்டிவெளி மாவீரர் துயிலும் இல்லத்தில் உணர்வு பூர்வமாக இடம்பெற்ற மாவீரர் தின நினைவேந்தல் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-27-virakesarilk-3196e594)
+- 2025-11-28 | `virakesarilk-c9f14ced` | மாவீரர் நாள் தமிழர் நாற்காட்டியில் மிகமுக்கிய தினமாகும்; அவுஸ்திரேலிய செனெட் உறுப்பினர் டேவிட் ஷுபிரிட்ஜ் உரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-c9f14ced)
+- 2025-11-28 | `virakesarilk-5688c84f` | அனர்த்த நிவாரண திட்டம் இல்லாததை எதிர்த்து சர்வதேச காப்புறுதி திட்டத்தை மீண்டும் தொடங்க கோரிக்கை – மத்தும பண்டார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-5688c84f)
+- 2025-11-28 | `virakesarilk-e272fc3c` | இளம்பருவத்தினரின் எச்.ஐ.வி தொற்று எண்ணிக்கை வெகுவாக அதிகரிப்பு; 2024 ஆண்டு 724 ஆண்கள் எச்.ஐ.வி தொற்றுக்கு ஆளாகியுள்ளனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-e272fc3c)
 
 ---
 
