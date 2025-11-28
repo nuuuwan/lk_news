@@ -1,6 +1,14 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-11-28-lankadeepalk-dc488bb8	lankadeepalk-dc488bb8	2025-11-28	කන්තලේ වාන් දොරටු අරියි	https://www.lankadeepa.lk/news/කනතල-වන-දරට-අරය/101-684100	si	lankadeepalk	1764313701.0
+lk_news	2025-11-28-lankadeepalk-22907e1e	lankadeepalk-22907e1e	2025-11-28	වාරිමාර්ගයෙන් කළු ගඟ අවට ජනතාවට අවවාදයක්	https://www.lankadeepa.lk/news/වරමරගයන-කළ-ගඟ-අවට-ජනතවට-අවවදයක/101-684099	si	lankadeepalk	1764313387.0
+lk_news	2025-11-28-lankadeepalk-7e2d38dc	lankadeepalk-7e2d38dc	2025-11-28	සහන වැඩට සම්පූර්ණ සහය දෙනවා	https://www.lankadeepa.lk/news/සහන-වඩට-සමපරණ-සහය-දනව/101-684098	si	lankadeepalk	1764313093.0
+lk_news	2025-11-28-lankadeepalk-2d6c29e8	lankadeepalk-2d6c29e8	2025-11-28	ගම්පහ මහ ගංවතුර තත්වයක්: පැති කීපයක් යටවේ	https://www.lankadeepa.lk/news/ගමපහ-මහ-ගවතර-තතවයක-පත-කපයක-යටව/101-684096	si	lankadeepalk	1764313054.0
+lk_news	2025-11-28-lankadeepalk-58c85d19	lankadeepalk-58c85d19	2025-11-28	පස් කන්දක් කඩා වැටී එකම පවුලේ තුනක් මරුට	https://www.lankadeepa.lk/news/පස-කනදක-කඩ-වට-එකම-පවල-තනක-මරට/101-684095	si	lankadeepalk	1764312800.0
+lk_news	2025-11-28-tamilmirrorlk-d8f231bc	tamilmirrorlk-d8f231bc	2025-11-28	முக்கிய தொலைபேசி எண்கள்	https://www.tamilmirror.lk/செய்திகள்/முக்கிய-தொலைபேசி-எண்கள்/175-368672	ta	tamilmirrorlk	1764312794.0
+lk_news	2025-11-28-adalk-b928a245	adalk-b928a245	2025-11-28	2016ට වැඩි ගංවතුරක් කොළඹට හෙට රෑ එනවා	https://www.ada.lk/breaking_news/2016ට-වැඩි-ගංවතුරක්-කොළඹට-හෙට-රෑ-එනවා/11-419963	si	adalk	1764312760.0
 lk_news	2025-11-28-tamilmirrorlk-8ec5be5a	tamilmirrorlk-8ec5be5a	2025-11-28	முக்கிய நெடுஞ்சாலைகளில் கடும் சேதம்	https://www.tamilmirror.lk/செய்திகள்/முக்கிய-நெடுஞ்சாலைகளில்-கடும்-சேதம்/175-368671	ta	tamilmirrorlk	1764312361.0
 lk_news	2025-11-28-lankadeepalk-0a8dedad	lankadeepalk-0a8dedad	2025-11-28	‘‘දිට්වා‘‘ තමිල්නාඩුව දෙසට	https://www.lankadeepa.lk/news/දටව-තමලනඩව-දසට/101-684094	si	lankadeepalk	1764312229.0
+lk_news	2025-11-28-adalk-72ba80d4	adalk-72ba80d4	2025-11-28	දැදුරු ඔය අවධානමෙන් බැහැර වෙයි	https://www.ada.lk/breaking_news/දැදුරු-ඔය-අවධානමෙන්-බැහැර-වෙයි/11-419962	si	adalk	1764312138.0
 lk_news	2025-11-28-virakesarilk-9b6dac37	virakesarilk-9b6dac37	2025-11-28	அமெரிக்க பிரஜைகளுக்கு விடுக்கப்பட்டுள்ள எச்சரிக்கை !	https://www.virakesari.lk/article/231774	ta	virakesarilk	1764311880.0
 lk_news	2025-11-28-lankadeepalk-aa076faf	lankadeepalk-aa076faf	2025-11-28	මැතිසබේ සේවකයන් කලින්ම ගෙදර යවයි	https://www.lankadeepa.lk/news/මතසබ-සවකයන-කලනම-ගදර-යවය/101-684093	si	lankadeepalk	1764311822.0
 lk_news	2025-11-28-tamilmirrorlk-45938a9d	tamilmirrorlk-45938a9d	2025-11-28	கம்மடுவையில் 540.6 மி.மீ மழை வீழ்ச்சி	https://www.tamilmirror.lk/மலையகம்/கம்மடுவையில்-540-6-மி-மீ-மழை-வீழ்ச்சி/76-368670	ta	tamilmirrorlk	1764311697.0
@@ -991,11 +999,3 @@ lk_news	2025-11-24-virakesarilk-7745c98a	virakesarilk-7745c98a	2025-11-24	இஸ
 lk_news	2025-11-24-adalk-bbff7906	adalk-bbff7906	2025-11-24	කාඩ්පත් මගින් බස් ගාස්තු ගෙවිම අරඹයි - මගියාට අමතර මුදල් අයවිමක් නෑ	https://www.ada.lk/breaking_news/කාඩ්පත්-මගින්-බස්-ගාස්තු-ගෙවිම-අරඹයි---මගියාට-අමතර-මුදල්-අයවිමක්-නෑ/11-419850	si	adalk	1763974999.0
 lk_news	2025-11-24-lankadeepalk-962a7df3	lankadeepalk-962a7df3	2025-11-24	’’කැබ් එක’’ එපා යැයි ජගත් විතාන ලියුමක් දෙයි	https://www.lankadeepa.lk/news/කබ-එක-එප-යය-ජගත-වතන-ලයමක-දය/101-683774	si	lankadeepalk	1763974861.0
 lk_news	2025-11-24-tamilmirrorlk-3ae52913	tamilmirrorlk-3ae52913	2025-11-24	மத்திய நிலையத்தில் போதையில் இருந்தவருக்கு தடை	https://www.tamilmirror.lk/செய்திகள்/மத்திய-நிலையத்தில்-போதையில்-இருந்தவருக்கு-தடை/175-368407	ta	tamilmirrorlk	1763974643.0
-lk_news	2025-11-24-virakesarilk-9751e480	virakesarilk-9751e480	2025-11-24	தமிழ்நாட்டின் தென்காசியில் பஸ் விபத்து : 6 பேர் பலி, 28 பேர் காயம்!	https://www.virakesari.lk/article/231279	ta	virakesarilk	1763974500.0
-lk_news	2025-11-24-tamilmirrorlk-8785fdbe	tamilmirrorlk-8785fdbe	2025-11-24	நடிகர் தர்மேந்திரா காலமானார்	https://www.tamilmirror.lk/cinema/நடிகர்-தர்மேந்திரா-காலமானார்/54-368406	ta	tamilmirrorlk	1763973980.0
-lk_news	2025-11-24-tamilmirrorlk-c960aeb3	tamilmirrorlk-c960aeb3	2025-11-24	3 பெண்கள் உட்பட 10 பேருக்கு மரண தண்டனை	https://www.tamilmirror.lk/செய்திகள்/3-பெண்கள்-உட்பட-10-பேருக்கு-மரண-தண்டனை/175-368405	ta	tamilmirrorlk	1763973955.0
-lk_news	2025-11-24-tamilmirrorlk-2821528c	tamilmirrorlk-2821528c	2025-11-24	10 பேருக்கு மரண தண்டனை	https://www.tamilmirror.lk/செய்திகள்/10-பேருக்கு-மரண-தண்டனை/175-368405	ta	tamilmirrorlk	1763973955.0
-lk_news	2025-11-24-lankadeepalk-84588df1	lankadeepalk-84588df1	2025-11-24	හිරණ ගින්නක්	https://www.lankadeepa.lk/news/හරණ-ගනනක/101-683771	si	lankadeepalk	1763973883.0
-lk_news	2025-11-24-adalk-35c89813	adalk-35c89813	2025-11-24	කන්දකැටිය අයවැය දෙවැනි වරටත් පරදී	https://www.ada.lk/breaking_news/කන්දකැටිය-අයවැය-දෙවැනි-වරටත්-පරදී/11-419849	si	adalk	1763973863.0
-lk_news	2025-11-24-tamilmirrorlk-a9a02133	tamilmirrorlk-a9a02133	2025-11-24	திருகோணமலையில் கண்களை கட்டி ஆர்ப்பாட்டம்	https://www.tamilmirror.lk/செய்திகள்/திருகோணமலையில்-கண்களை-கட்டி-ஆர்ப்பாட்டம்/175-368404	ta	tamilmirrorlk	1763973607.0
-lk_news	2025-11-24-tamilmirrorlk-5c31fc8b	tamilmirrorlk-5c31fc8b	2025-11-24	ஏ.டி.எம் அட்டையில்  இருந்து 4 லட்சம் பெற்றவர் கைது	https://www.tamilmirror.lk/மலையகம்/ஏ-டி-எம்-அட்டையில்-இருந்து-4-லட்சம்-பெற்றவர்-கைது/76-368403	ta	tamilmirrorlk	1763973424.0
