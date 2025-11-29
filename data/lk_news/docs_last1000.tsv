@@ -1,6 +1,14 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-11-29-virakesarilk-e4cf3ce2	virakesarilk-e4cf3ce2	2025-11-29	சீரற்ற வானிலை குறித்த போலியான சமூக ஊடக தகவல்கள் நீக்கம்!	https://www.virakesari.lk/article/231899	ta	virakesarilk	1764396780.0
+lk_news	2025-11-29-virakesarilk-c0fe8fd9	virakesarilk-c0fe8fd9	2025-11-29	சீரற்ற வானிலையால் நாட்டில் பேரழிவு : மனிதாபிமான நடவடிக்கையில் இலங்கை கடற்படை	https://www.virakesari.lk/article/231900	ta	virakesarilk	1764396720.0
+lk_news	2025-11-29-lankadeepalk-3810cabe	lankadeepalk-3810cabe	2025-11-29	ආපදාවෙන් මරණ 123 දක්වා ඉහළට	https://www.lankadeepa.lk/latest_news/ආපදවන-මරණ-123-දකව-ඉහළට/1-684192	si	lankadeepalk	1764396529.0
+lk_news	2025-11-29-lankadeepalk-9a5137cb	lankadeepalk-9a5137cb	2025-11-29	මාතලේ මරණ 10යි: දෙකක් අතුරුදන්	https://www.lankadeepa.lk/news/මතල-මරණ-10ය-දකක-අතරදන/101-684191	si	lankadeepalk	1764396138.0
+lk_news	2025-11-29-virakesarilk-15b9db4c	virakesarilk-15b9db4c	2025-11-29	கண்டி - அங்கும்புற கல்கொட்டுவப் பகுதியில் பாரிய மண்சரிவு : பொலிஸ் தகவல்	https://www.virakesari.lk/article/231898	ta	virakesarilk	1764395580.0
+lk_news	2025-11-29-lankadeepalk-70e9edbf	lankadeepalk-70e9edbf	2025-11-29	ත්‍රිකුණාමල - මඩකළපු පාරත් වැහේ	https://www.lankadeepa.lk/latest_news/තරකණමල-මඩකළප-පරත-වහ/1-684190	si	lankadeepalk	1764395523.0
+lk_news	2025-11-29-virakesarilk-42e61aa7	virakesarilk-42e61aa7	2025-11-29	சீரற்ற வானிலையால் பாதிக்கப்பட்ட இலங்கை மக்களுக்கு உதவ தயாராகும் சீனா!	https://www.virakesari.lk/article/231897	ta	virakesarilk	1764395340.0
 lk_news	2025-11-29-lankadeepalk-f48a2b38	lankadeepalk-f48a2b38	2025-11-29	ඉන්දියාවෙන් ගලවා ගැනීමේ කණ්ඩායමක් පැමිණේ	https://www.lankadeepa.lk/latest_news/ඉනදයවන-ගලව-ගනම-කණඩයමක-පමණ/1-684189	si	lankadeepalk	1764394946.0
 lk_news	2025-11-29-tamilmirrorlk-e9b8180a	tamilmirrorlk-e9b8180a	2025-11-29	அங்கும்புரவில் பாரிய மண்சரிவு	https://www.tamilmirror.lk/மலையகம்/அங்கும்புரவில்-பாரிய-மண்சரிவு/76-368696	ta	tamilmirrorlk	1764394872.0
+lk_news	2025-11-29-virakesarilk-378fcf44	virakesarilk-378fcf44	2025-11-29	தெற்கு தாய்லாந்தில் வெள்ளப்பெருக்கு  - உயிரிழப்புகள் 145 ஆக உயர்வு	https://www.virakesari.lk/article/231894	ta	virakesarilk	1764394800.0
 lk_news	2025-11-29-virakesarilk-d1f40c5b	virakesarilk-d1f40c5b	2025-11-29	அவசர அனர்த்த நிலைமை: தகவல்களை வழங்க பொலிஸ் தலைமையக விசேட செயல்பாட்டுப் பிரிவு நிறுவப்பட்டது!	https://www.virakesari.lk/article/231895	ta	virakesarilk	1764394680.0
 lk_news	2025-11-29-virakesarilk-4bf6622e	virakesarilk-4bf6622e	2025-11-29	இராணுவப்படையினர் அனர்த்த நிவாரண சேவைகளில் தொடர்ந்து செயற்பட்டு வருகின்றனர் - இலங்கை இராணுவத் தளபதி	https://www.virakesari.lk/article/231896	ta	virakesarilk	1764394680.0
 lk_news	2025-11-29-lankadeepalk-0d63c0e8	lankadeepalk-0d63c0e8	2025-11-29	ඉන්දියාවෙන් තවත් ආධාර යානයක්	https://www.lankadeepa.lk/latest_news/ඉනදයවන-තවත-ආධර-යනයක/1-684188	si	lankadeepalk	1764394547.0
@@ -991,11 +999,3 @@ lk_news	2025-11-25-lankadeepalk-4b33bf68	lankadeepalk-4b33bf68	2025-11-25	මා
 lk_news	2025-11-25-adalk-c4582607	adalk-c4582607	2025-11-25	කැබ් රථයක් මතට ගසක කඩා වැටෙයි	https://www.ada.lk/breaking_news/කැබ්-රථයක්-මතට-ගසක-කඩා-වැටෙයි/11-419877	si	adalk	1764063627.0
 lk_news	2025-11-25-virakesarilk-c1d48732	virakesarilk-c1d48732	2025-11-25	சீரற்ற வானிலை ; ஊவா மாகாணத்தில் முன்பள்ளிகளுக்கு விடுமுறை	https://www.virakesari.lk/article/231396	ta	virakesarilk	1764063480.0
 lk_news	2025-11-25-tamilmirrorlk-a0b1b8c4	tamilmirrorlk-a0b1b8c4	2025-11-25	நியூசிலாந்து சிகரத்தில் இருந்து விழுந்த இருவர் பலி	https://www.tamilmirror.lk/உலக-செய்திகள்/நியூசிலாந்து-சிகரத்தில்-இருந்து-விழுந்த-இருவர்-பலி/50-368477	ta	tamilmirrorlk	1764063452.0
-lk_news	2025-11-25-virakesarilk-8700d2bf	virakesarilk-8700d2bf	2025-11-25	மாதமொன்றுக்கு சுமார் 1400 மில்லியன் டொலர் ஏற்றுமதி வருமானம் ; 18 பில்லியன் டொலர் இலக்கில் 80 சதவீதத்தை அண்மித்துள்ளோம் - ஏற்றுமதி அபிவிருத்தி அதிகாரசபை தலைவர்	https://www.virakesari.lk/article/231398	ta	virakesarilk	1764063180.0
-lk_news	2025-11-25-tamilmirrorlk-5aa0f795	tamilmirrorlk-5aa0f795	2025-11-25	பயமுறுத்திய நாகப்பாம்பு பிடிப்பட்டது	https://www.tamilmirror.lk/செய்திகள்/பயமுறுத்திய-நாகப்பாம்பு-பிடிப்பட்டது/175-368476	ta	tamilmirrorlk	1764062912.0
-lk_news	2025-11-25-virakesarilk-dd62b680	virakesarilk-dd62b680	2025-11-25	அம்பலாங்கொடை துப்பாக்கிச் சூடு ; “மஹதுரு இசுரு” கைது!	https://www.virakesari.lk/article/231397	ta	virakesarilk	1764062820.0
-lk_news	2025-11-25-adalk-602b18e8	adalk-602b18e8	2025-11-25	වාලච්චේන සිදුවීමට ලිහිල් බවක් දෙන්නේ නෑ	https://www.ada.lk/breaking_news/වාලච්චේන-සිදුවීමට-ලිහිල්-බවක්-දෙන්නේ-නෑ/11-419876	si	adalk	1764062709.0
-lk_news	2025-11-25-tamilmirrorlk-5a24cca3	tamilmirrorlk-5a24cca3	2025-11-25	ஹில்மி கைது	https://www.tamilmirror.lk/செய்திகள்/ஹில்மி-கைது/175-368474	ta	tamilmirrorlk	1764062636.0
-lk_news	2025-11-25-lankadeepalk-b35f82ea	lankadeepalk-b35f82ea	2025-11-25	වයඹ පුනර්ජනනීය විදුලිය ජාතික පද්ධතියට	https://www.lankadeepa.lk/news/වයඹ-පනරජනනය-වදලය-ජතක-පදධතයට/101-683856	si	lankadeepalk	1764062347.0
-lk_news	2025-11-25-tamilmirrorlk-f9658fe2	tamilmirrorlk-f9658fe2	2025-11-25	அஸ்வெசும பயனாளர்களிடம் கறக்கும் தொடர்பு மையங்கள்	https://www.tamilmirror.lk/மலையகம்/அஸ்வெசும-பயனாளர்களிடம்-கறக்கும்-தொடர்பு-மையங்கள்/76-368473	ta	tamilmirrorlk	1764062255.0
-lk_news	2025-11-25-lankadeepalk-d21e7e8b	lankadeepalk-d21e7e8b	2025-11-25	ජල භීතිකා බේත ගෙන්වයි	https://www.lankadeepa.lk/news/ජල-භතක-බත-ගනවය/101-683855	si	lankadeepalk	1764062177.0
