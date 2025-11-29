@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--29_22:47:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--29_23:15:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,962** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,968** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-29-tamilmirrorlk-abd29510",
-    "num": "tamilmirrorlk-abd29510",
+    "doc_id": "2025-11-29-lankadeepalk-2dd7fb2b",
+    "num": "lankadeepalk-2dd7fb2b",
     "date_str": "2025-11-29",
-    "description": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0baa\u0bcd\u0baa\u0bcb\u0b95\u0bc1\u0bae\u0bcd \u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0ba9\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0baa\u0bcd\u0baa\u0bcb\u0b95\u0bc1\u0bae\u0bcd-\u0b86\u0baa\u0ba4\u0bcd\u0ba4\u0bc1/175-368741",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1764436036.0
+    "description": "\u0db4\u0dd4\u0dad\u0dca\u0dad\u0dbd\u0db8\u0dda \u0db4\u0dcf\u0dbd\u0db8\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0d9a\u0dd0\u0da9\u0dda",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0dad\u0dad\u0dbd\u0db8-\u0db4\u0dbd\u0db8-\u0daf\u0d9a\u0d9a-\u0d9a\u0da9/101-684263",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1764436985.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-29 | `lankadeepalk-2dd7fb2b` | පුත්තලමේ පාලම් දෙකක් කැඩේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-2dd7fb2b)
+- 2025-11-29 | `lankadeepalk-45a9b931` | මහනුවරට දුරකතන විදුලිය සක්‍රියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-45a9b931)
 - 2025-11-29 | `tamilmirrorlk-abd29510` | வெள்ளத்தின் பின் மக்களுக்கு ஏற்படப்போகும் ஆபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-abd29510)
 - 2025-11-29 | `lankadeepalk-f8db7cca` | අවතැන් අයගේ වියළි ආහාර දීමනාව වැඩි කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-f8db7cca)
 - 2025-11-29 | `lankadeepalk-ba0de7db` | පැට්‍රල් ෂෙඩ් ගොඩකුත් වතුරේ:ගමනාගමනයට බාධා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-ba0de7db)
 - 2025-11-29 | `tamilmirrorlk-06cd685a` | இலங்கைக்கு ஆபத்து குறையவில்லை : அதிர்ச்சி தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-06cd685a)
+- 2025-11-29 | `virakesarilk-985ba57a` | இலங்கையை 6 விக்கெட்களால் வெற்றிகொண்டு மும்முனை ரி - 20 தொடரில் பாகிஸ்தான் சம்பியனானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-985ba57a)
 - 2025-11-29 | `lankadeepalk-1ca32d71` | රටින් එවන සහන බඩු ඉක්මනින් නිදහස් කරන්න ක්‍රමයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-1ca32d71)
+- 2025-11-29 | `virakesarilk-3527d530` | வெள்ள அனர்த்தத்தின் பின்னர் நோய்கள் அதிகரிக்கலாம் - வைத்திய சத்தியமூர்த்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-3527d530)
 - 2025-11-29 | `lankadeepalk-cc673081` | පේරේ සිරවූ සිසුන්ට දළදා මාලිගාවෙන් ආහාර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-cc673081)
 - 2025-11-29 | `lankadeepalk-aa4f43c2` | ‘‘දිට්වා‘‘ 191 අතුරුදහන් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-aa4f43c2)
 - 2025-11-29 | `lankadeepalk-851596a3` | ‘‘දිට්වා‘‘ දිවයිනෙන් බැහැරට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-851596a3)
+- 2025-11-29 | `virakesarilk-190e935c` | அனர்த்தங்கள் குறித்து அறிவிக்க 3 வட்ஸ்அப் இலக்கங்கள் அறிமுகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-190e935c)
 - 2025-11-29 | `lankadeepalk-e47ddd7a` | සාගර් බන්ධු මෙහෙයුම යටතේ ඉන්දියාවෙන් තවත් ආධාර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-e47ddd7a)
+- 2025-11-29 | `virakesarilk-6692fb1c` | ஜப்பான் அரசு அனர்த்தத்தில் பாதிக்கப்பட்டுள்ள இலங்கைக்குத் திடீர் உதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-6692fb1c)
 - 2025-11-29 | `tamilmirrorlk-94478dac` | 50 குடும்பங்களை சேர்ந்த ஒரு கிராமமே மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-94478dac)
 - 2025-11-29 | `tamilmirrorlk-3c6ae21b` | 159 பேர் உயிரிழப்பு :  203 பேர் காணாமல் போயுள்ளதாக அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-3c6ae21b)
 - 2025-11-29 | `lankadeepalk-899ad791` | පොලිස් කොස්තාපල් බඳවා ගැනීමේ පරීක්ෂණ කල් දමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-899ad791)
 - 2025-11-29 | `lankadeepalk-46f11ec4` | හෙට දහම් පාසල් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-46f11ec4)
 - 2025-11-29 | `lankadeepalk-a2d9301a` | බිළීන්දන් දෙදෙනකු හෙලිකොප්ටරයෙන් කොළඹට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-a2d9301a)
-- 2025-11-29 | `tamilmirrorlk-6401275e` | கடலுக்குள் சென்றது “டிட்வா” : வடக்கு மக்களுக்கு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-6401275e)
-- 2025-11-29 | `virakesarilk-3630e06a` | மன்னாரில் சீரற்ற வானிலையால் 310  நபர்களின் தொடர்புகள் துண்டிப்பு : பலர் மரங்களிலும், வீட்டு கூரைகளிலும் உள்ளதாக தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-3630e06a)
-- 2025-11-29 | `virakesarilk-8c3776f1` | பாகிஸ்தானுடனான இறுதிப் போட்டியில் 114 ஓட்டங்களுக்கு சுருண்டது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-8c3776f1)
-- 2025-11-29 | `virakesarilk-640b85c7` | அனர்த்தத்தால் பாதிக்கப்பட்ட பெண்கள் மற்றும் சிறுவர்கள் தொடர்பான தகவல்களை அறிவிக்க இரு அவசர தொலைபேசி எண்கள் செயல்பாட்டில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-640b85c7)
-- 2025-11-29 | `virakesarilk-f709bec7` | சீரற்ற வானிலை காரணமாக யாழ்ப்பாணத்தின் முழுமையான பாதிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-f709bec7)
-- 2025-11-29 | `virakesarilk-1edb4e85` | பிரதி அமைச்சர் ரத்ன கமகேவின் வழிநடத்தலில், வெள்ள நிவாரணப் பணிகளுக்காக மீன்பிடிப் படகுகள் உடனடியாக அனுப்பி வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-1edb4e85)
 
 ---
 
