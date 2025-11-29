@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--29_09:06:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--29_09:28:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,757** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,758** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-29-lankadeepalk-07b6c8ac",
-    "num": "lankadeepalk-07b6c8ac",
+    "doc_id": "2025-11-29-lankadeepalk-1916423d",
+    "num": "lankadeepalk-1916423d",
     "date_str": "2025-11-29",
-    "description": "\u0db4\u0dd6\u0db1\u0dcf\u0d9c\u0dbd \u0db4\u0dc0\u0dd4\u0dbd\u0dca 58 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db4\u0db1\u0d9c\u0dbd-\u0db4\u0dc0\u0dbd-58-\u0d89\u0dc0\u0dad-\u0d9a\u0dbb\u0dba/1-684178",
+    "description": "\u0d9a\u0ddc\u0dc5\u0db9 - \u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dad\u0dca \u0dba\u0d9a\u0dca\u0d9a\u0dbd\u0dd2\u0db1\u0dca \u0dba\u0da7\u0dc0\u0dda",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dc5\u0db9-\u0db8\u0dc4\u0db1\u0dc0\u0dbb-\u0db8\u0dbb\u0d9c\u0dba\u0dad-\u0dba\u0d9a\u0d9a\u0dbd\u0db1-\u0dba\u0da7\u0dc0/101-684179",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1764386846.0
+    "time_ut": 1764388353.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-29 | `lankadeepalk-1916423d` | කොළඹ - මහනුවර මාර්ගයත් යක්කලින් යටවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-1916423d)
 - 2025-11-29 | `lankadeepalk-07b6c8ac` | පූනාගල පවුල් 58 ඉවත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-07b6c8ac)
 - 2025-11-29 | `lankadeepalk-0a2dd1e7` | මාතලේ මරණ 10 යි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-0a2dd1e7)
 - 2025-11-29 | `lankadeepalk-689a98ee` | ඉන්දියාවෙන් ටොන් අසූවක ආධාරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-689a98ee)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-29 | `dailyftlk-a99a1b34` | India deploys INS Vikrant helicopters for Sri Lanka’s cyclone relief efforts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-dailyftlk-a99a1b34)
 - 2025-11-29 | `dailyftlk-546b7e79` | Condolence message from  High Commissioner of  Pakistan on behalf of Government and people of Pakistan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-dailyftlk-546b7e79)
 - 2025-11-29 | `dailyftlk-25ea9b72` | Shanakiyan: disaster relief will stall without clear instructions, decisive action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-dailyftlk-25ea9b72)
-- 2025-11-28 | `virakesarilk-46a92001` | அவசர கால சட்டத்தை, ஜனாதிபதி அநுர இனியும் தாமதிக்காமல் அறிவிக்க வேண்டும் - மனோ கணேசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-28-virakesarilk-46a92001)
 
 ---
 
