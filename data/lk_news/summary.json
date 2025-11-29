@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-29 18:52:19",
-  "n_docs": 89917,
+  "time_updated": "2025-11-29 19:18:46",
+  "n_docs": 89922,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 89917,
+  "n_docs_with_text": 89922,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-29",
-  "dataset_size": 1346092091,
+  "dataset_size": 1346288286,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-29-lankadeepalk-0a811436",
-    "num": "lankadeepalk-0a811436",
+    "doc_id": "2025-11-29-tamilmirrorlk-c749601f",
+    "num": "tamilmirrorlk-c749601f",
     "date_str": "2025-11-29",
-    "description": "\u0d86\u0db4\u0daf\u0dcf\u0dc0 \u0d9c\u0dd0\u0db1 \u0daf\u0dd2\u0db1 \u0daf\u0dd9\u0d9a\u0d9a \u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dcf \u0dc0\u0dd2\u0dc0\u0dcf\u0daf\u0dba\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d86\u0db4\u0daf\u0dc0-\u0d9c\u0db1-\u0daf\u0db1-\u0daf\u0d9a\u0d9a-\u0db8\u0dad\u0dc3\u0db6-\u0dc0\u0dc0\u0daf\u0dba\u0d9a/1-684242",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1764421618.0
+    "description": "206 \u0bb5\u0bc0\u0ba4\u0bbf\u0b95\u0bb3\u0bcd\u0ba4\u0b9f\u0bc8: 10\u0baa\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc7\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/206-\u0bb5\u0bc0\u0ba4\u0bbf\u0b95\u0bb3\u0bcd\u0ba4\u0b9f\u0bc8-10\u0baa\u0bbe\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0bc7\u0ba4\u0bae\u0bcd/175-368718",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1764423709.0
   }
 }
