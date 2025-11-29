@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--29_09:47:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--29_10:20:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,761** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,764** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-29-lankadeepalk-ed196f40",
-    "num": "lankadeepalk-ed196f40",
+    "doc_id": "2025-11-29-tamilmirrorlk-2661ba99",
+    "num": "tamilmirrorlk-2661ba99",
     "date_str": "2025-11-29",
-    "description": "\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1 \u0db4\u0dd4\u0dbb\u0dcf \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0db1\u0dca 156,806 \u0d9a\u0dca \u0d85\u0dc0\u0dad\u0dd0\u0db1\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dc0\u0dba\u0db1-\u0db4\u0dbb-\u0db4\u0daf\u0d9c\u0dbd\u0dba\u0db1-156-806-\u0d9a-\u0d85\u0dc0\u0dad\u0db1/1-684182",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1764389434.0
+    "description": "\u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8 \u0b85\u0baa\u0bcd\u0bb2\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0baa\u0bb2\u0bb0\u0bcd \u0bae\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8-\u0b85\u0baa\u0bcd\u0bb2\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0baa\u0bb2\u0bb0\u0bcd-\u0bae\u0bbe\u0baf\u0bae\u0bcd/76-368689",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1764391519.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-29 | `tamilmirrorlk-2661ba99` | பேராதனை அப்லண்டில் பலர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-2661ba99)
+- 2025-11-29 | `lankadeepalk-87f90a90` | කන්ටේනර් පරීක්ෂණ; රේගු ලොක්කන් ඉවත් කරන්න කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-87f90a90)
+- 2025-11-29 | `lankadeepalk-0d6ae466` | එගොඩ කැලණිය පන්සලත් යටවෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-0d6ae466)
 - 2025-11-29 | `lankadeepalk-ed196f40` | දිවයින පුරා පුද්ගලයන් 156,806 ක් අවතැන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-ed196f40)
 - 2025-11-29 | `lankadeepalk-450c86ca` | ගුවන් හමුදාව ජීවිත බේරා ගැනීමේ රටපුරා මෙහෙයුම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-450c86ca)
 - 2025-11-29 | `lankadeepalk-af98fe66` | කලාඔයේ සිර වී සිටි පිරිස බේරා ගැනෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-af98fe66)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-11-29 | `virakesarilk-bb794d08` | மின்சார சபை பொதுமக்களிடம் விடுத்துள்ள வேண்டுகோள் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-bb794d08)
 - 2025-11-29 | `virakesarilk-716c2ed9` | இரத்த தானம் வழங்க முன்வருமாறு தேசிய இரத்த மத்தியஸ்தானம் வேண்டுகோள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-716c2ed9)
 - 2025-11-29 | `tamilmirrorlk-19558cdb` | சுகாதார துறைக்கு அவசர நிலை பிரகடனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-19558cdb)
-- 2025-11-29 | `virakesarilk-6a290c9f` | இரவிரவாக ஜனாதிபதி அநுர மேற்பார்வை ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-6a290c9f)
-- 2025-11-29 | `virakesarilk-5354497a` | கொழும்புத் துறைமுக செயற்பாடுகள் தற்காலிகமாக இடைநிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-5354497a)
-- 2025-11-29 | `dailyftlk-0e98f43a` | India extends immediate humanitarian relief to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-dailyftlk-0e98f43a)
 
 ---
 
