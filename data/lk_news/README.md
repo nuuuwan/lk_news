@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--30_03:46:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--30_04:17:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,979** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,980** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -55,12 +55,12 @@ A collection of lk_news documents.
 - 2025-11-29 | `lankadeepalk-2dd7fb2b` | පුත්තලමේ පාලම් දෙකක් කැඩේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-2dd7fb2b)
 - 2025-11-29 | `lankadeepalk-45a9b931` | මහනුවරට දුරකතන විදුලිය සක්‍රියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-45a9b931)
 - 2025-11-29 | `tamilmirrorlk-abd29510` | வெள்ளத்தின் பின் மக்களுக்கு ஏற்படப்போகும் ஆபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-abd29510)
+- 2025-11-29 | `colombotelegraphcom-c2e67334` | Strengthening Sri Lanka’s Disaster Management Systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-colombotelegraphcom-c2e67334)
 - 2025-11-29 | `lankadeepalk-f8db7cca` | අවතැන් අයගේ වියළි ආහාර දීමනාව වැඩි කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-f8db7cca)
 - 2025-11-29 | `lankadeepalk-ba0de7db` | පැට්‍රල් ෂෙඩ් ගොඩකුත් වතුරේ:ගමනාගමනයට බාධා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-ba0de7db)
 - 2025-11-29 | `tamilmirrorlk-06cd685a` | இலங்கைக்கு ஆபத்து குறையவில்லை : அதிர்ச்சி தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-06cd685a)
 - 2025-11-29 | `virakesarilk-985ba57a` | இலங்கையை 6 விக்கெட்களால் வெற்றிகொண்டு மும்முனை ரி - 20 தொடரில் பாகிஸ்தான் சம்பியனானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-985ba57a)
 - 2025-11-29 | `lankadeepalk-1ca32d71` | රටින් එවන සහන බඩු ඉක්මනින් නිදහස් කරන්න ක්‍රමයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-1ca32d71)
-- 2025-11-29 | `virakesarilk-3527d530` | வெள்ள அனர்த்தத்தின் பின்னர் நோய்கள் அதிகரிக்கலாம் - வைத்திய சத்தியமூர்த்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-3527d530)
 
 ---
 
