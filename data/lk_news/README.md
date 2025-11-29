@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--29_14:21:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--29_14:47:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**89,834** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**89,841** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.3 GB**), from **2021-09-12** to **2025-11-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-29-tamilmirrorlk-49fd8d81",
-    "num": "tamilmirrorlk-49fd8d81",
+    "doc_id": "2025-11-29-lankadeepalk-4600385d",
+    "num": "lankadeepalk-4600385d",
     "date_str": "2025-11-29",
-    "description": "\u0bae\u0bca\u0ba9\u0bcd\u0bb0\u0bcb\u0bb5\u0bbf\u0baf\u0bbe \u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 21 \u0baa\u0bc7\u0bb0\u0bcd \u0bae\u0bbe\u0baf\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bca\u0ba9\u0bcd\u0bb0\u0bcb\u0bb5\u0bbf\u0baf\u0bbe-\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-21-\u0baa\u0bc7\u0bb0\u0bcd-\u0bae\u0bbe\u0baf\u0bae\u0bcd/175-368703",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1764406035.0
+    "description": "\u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0d85\u0da9\u0dd4 \u0dc0\u0dd4\u0dab\u0dad\u0dca \u0d86\u0db4\u0daf\u0dcf \u0dad\u0dad\u0dca\u0dc0\u0dba \u0d85\u0da9\u0dd4\u0dc0\u0dd3 \u0db1\u0dd1",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc0\u0dc3\u0dc3-\u0d85\u0da9-\u0dc0\u0dab\u0dad-\u0d86\u0db4\u0daf-\u0dad\u0dad\u0dc0\u0dba-\u0d85\u0da9\u0dc0-\u0db1/101-684206",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1764406803.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-29 | `lankadeepalk-4600385d` | වැස්ස අඩු වුණත් ආපදා තත්වය අඩුවී නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-4600385d)
+- 2025-11-29 | `tamilmirrorlk-9258b5c1` | அரநாயக்க மண்சரிவில் 20 குழந்தைகளுடன் 120 பேர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-9258b5c1)
+- 2025-11-29 | `lankadeepalk-9e516c16` | ගිරිබාවේ 33ක් ගුවන් හමුදාව බේරා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-9e516c16)
+- 2025-11-29 | `lankadeepalk-3bb400bc` | බදුල්ලට හිරු පායයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-3bb400bc)
+- 2025-11-29 | `tamilmirrorlk-69ca7643` | எட்டியாந்தோட்டையில் தற்போதைய நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-69ca7643)
+- 2025-11-29 | `lankadeepalk-23d73c4b` | රම්බොඩ නායයාමකින් 14 දෙනෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-23d73c4b)
 - 2025-11-29 | `tamilmirrorlk-49fd8d81` | மொன்ரோவியா தோட்டத்தில் 21 பேர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-49fd8d81)
 - 2025-11-29 | `tamilmirrorlk-bb3ab1b2` | கொத்மலை மண்சரிவில் 15 பேர் உயிரிழப்பு, 50 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-bb3ab1b2)
 - 2025-11-29 | `lankadeepalk-c8fb30b6` | කොටුව සිටි භික්ෂූන් වහන්සේ 450ක් බේරා ගැනෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-c8fb30b6)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2025-11-29 | `lankadeepalk-848cd727` | රට පුරා හදිසි නීතිය පනවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-848cd727)
 - 2025-11-29 | `lankadeepalk-25bdb218` | උඩුදුම්බර පිරස් ආධාර ඉල්ලයි: ආධාර දෙන්න පොලිසිය පාර කපයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-25bdb218)
 - 2025-11-29 | `virakesarilk-b13a61d3` | சீரற்ற வானிலையால் பாதிக்கப்பட்டுள்ள இலங்கைக்கு மாலைதீவு நிதியுதவி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-b13a61d3)
-- 2025-11-29 | `virakesarilk-ec7e494e` | இந்திய உயர் ஸ்தானிகராலயத்தின் அவசர உதவி மையம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-ec7e494e)
-- 2025-11-29 | `virakesarilk-0083ecf5` | சீரற்ற வானிலையால் பாதிக்கப்பட்ட இலங்கை மக்களுக்கு உதவ அமெரிக்கா தயார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-0083ecf5)
-- 2025-11-29 | `lankadeepalk-5f8ffc02` | මාලදිවයිනෙන් ඩොලර් 50,000 මුදල් ආධාර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-5f8ffc02)
-- 2025-11-29 | `tamilmirrorlk-d077b2ca` | BIA மொபைல் செயலி... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-tamilmirrorlk-d077b2ca)
-- 2025-11-29 | `virakesarilk-54b6365b` | ஜப்பான் எப்போதும் இலங்கை மக்களுடன் இருக்கும் - இலங்கைக்கான ஜப்பான் தூதுவர்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-virakesarilk-54b6365b)
-- 2025-11-29 | `lankadeepalk-4ab28131` | කුරුණෑගල තැන් දෙකක නාය යාමක්:20ක් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-29-lankadeepalk-4ab28131)
 
 ---
 
