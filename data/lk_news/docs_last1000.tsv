@@ -1,5 +1,11 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-11-30-lankadeepalk-33baa7b2	lankadeepalk-33baa7b2	2025-11-30	මගින් 70ක් සමග කලාඔයේ පාලම මත නැවතුණු බසය	https://www.lankadeepa.lk/news/මගන-70ක-සමග-කලඔය-පලම-මත-නවතණ-බසය/101-684270	si	lankadeepalk	1764470697.0
+lk_news	2025-11-30-lankadeepalk-a334fc0d	lankadeepalk-a334fc0d	2025-11-30	රේන්දපොළ දරුණු නාය යාමක්	https://www.lankadeepa.lk/news/රනදපළ-දරණ-නය-යමක/101-684269	si	lankadeepalk	1764470316.0
+lk_news	2025-11-30-tamilmirrorlk-f8e62d83	tamilmirrorlk-f8e62d83	2025-11-30	விமான பயணிகளின் கவனத்துக்கு	https://www.tamilmirror.lk/செய்திகள்/விமான-பயணிகளின்-கவனத்துக்கு/175-368749	ta	tamilmirrorlk	1764468507.0
+lk_news	2025-11-30-adalk-95a6f499	adalk-95a6f499	2025-11-30	වැලිමඩ රේන්දපොල දරුණු නාය යාමක්	https://www.ada.lk/breaking_news/වැලිමඩ-රේන්දපොල-දරුණු-නාය-යාමක්/11-419975	si	adalk	1764468134.0
+lk_news	2025-11-30-tamilmirrorlk-b2d80c0d	tamilmirrorlk-b2d80c0d	2025-11-30	எரிபொருள் நிரப்பு நிலையங்கள் வெள்ளத்தில் மூழ்கின	https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-நிரப்பு-நிலையங்கள்-வெள்ளத்தில்-மூழ்கின/175-368748	ta	tamilmirrorlk	1764467413.0
 lk_news	2025-11-30-tamilmirrorlk-e4e8af75	tamilmirrorlk-e4e8af75	2025-11-30	களனி ஆற்றின் நீர்மட்டம் தொடர்ந்து உயர்கிறது	https://www.tamilmirror.lk/செய்திகள்/களனி-ஆற்றின்-நீர்மட்டம்-தொடர்ந்து-உயர்கிறது/175-368747	ta	tamilmirrorlk	1764466840.0
+lk_news	2025-11-30-tamilmirrorlk-d37cdf35	tamilmirrorlk-d37cdf35	2025-11-30	அனர்த்த பிரச்சினைகளை தெரிவிக்க 3 ’வட்ஸ் அப்’ இலக்கங்கள்	https://www.tamilmirror.lk/செய்திகள்/அனர்த்த-பிரச்சினைகளை-தெரிவிக்க-3-வட்ஸ்-அப்-இலக்கங்கள்/175-368746	ta	tamilmirrorlk	1764448646.0
 lk_news	2025-11-30-tamilmirrorlk-4bb3142a	tamilmirrorlk-4bb3142a	2025-11-30	இரத்த தானம் செய்யுமாறு கோரிக்கை	https://www.tamilmirror.lk/செய்திகள்/இரத்த-தானம்-செய்யுமாறு-கோரிக்கை/175-368745	ta	tamilmirrorlk	1764448107.0
 lk_news	2025-11-30-tamilmirrorlk-995c4584	tamilmirrorlk-995c4584	2025-11-30	பெண்கள், சிறுவர்களுக்காக இலவச உதவி இலக்கங்கள்	https://www.tamilmirror.lk/செய்திகள்/பெண்கள்-சிறுவர்களுக்காக-இலவச-உதவி-இலக்கங்கள்/175-368744	ta	tamilmirrorlk	1764447422.0
 lk_news	2025-11-30-tamilmirrorlk-92cc6766	tamilmirrorlk-92cc6766	2025-11-30	12 மணித்தியாலத்துக்குள் பலத்த மழை	https://www.tamilmirror.lk/செய்திகள்/12-மணித்தியாலத்துக்குள்-பலத்த-மழை/175-368743	ta	tamilmirrorlk	1764444338.0
@@ -69,6 +75,7 @@ lk_news	2025-11-29-lankadeepalk-0a811436	lankadeepalk-0a811436	2025-11-29	ආප
 lk_news	2025-11-29-lankadeepalk-09e8c317	lankadeepalk-09e8c317	2025-11-29	කැබ් ගන්න  වෙන් කළ සල්ලි ආපදාවට දෙන්න	https://www.lankadeepa.lk/latest_news/කබ-ගනන-වන-කළ-සලල-ආපදවට-දනන/1-684241	si	lankadeepalk	1764421455.0
 lk_news	2025-11-29-lankadeepalk-e20fef06	lankadeepalk-e20fef06	2025-11-29	රට පුරා මාර්ග 206ක් ’’බ්ලොක්’’	https://www.lankadeepa.lk/latest_news/රට-පර-මරග-206ක-බලක/1-684240	si	lankadeepalk	1764420895.0
 lk_news	2025-11-29-lankadeepalk-41970c88	lankadeepalk-41970c88	2025-11-29	සජිත්  අවතැන් වූවන් බලන්න යයි	https://www.lankadeepa.lk/latest_news/සජත-අවතන-වවන-බලනන-යය/1-684239	si	lankadeepalk	1764420884.0
+lk_news	2025-11-29-adalk-1128533e	adalk-1128533e	2025-11-29	දිට්වා 136ක් බිලි ගනියි, 176ක් අතුරුදන්	https://www.ada.lk/breaking_news/දිට්වා-136ක්-බිලි-ගනියි--176ක්-අතුරුදන්/11-419974	si	adalk	1764420575.0
 lk_news	2025-11-29-lankadeepalk-57d2e926	lankadeepalk-57d2e926	2025-11-29	දිස්ත්‍රික්ක 11ක නාය රතු නිවේදනය දික් කරයි	https://www.lankadeepa.lk/latest_news/දසතරකක-11ක-නය-රත-නවදනය-දක-කරය/1-684238	si	lankadeepalk	1764420471.0
 lk_news	2025-11-29-lankadeepalk-0587cb0b	lankadeepalk-0587cb0b	2025-11-29	ජාඇල  පාලමේ පිපුරුමක්: මං තීරුවක් වසයි	https://www.lankadeepa.lk/latest_news/ජඇල-පලම-පපරමක-ම-තරවක-වසය/1-684236	si	lankadeepalk	1764419985.0
 lk_news	2025-11-29-virakesarilk-feeeb2e2	virakesarilk-feeeb2e2	2025-11-29	இலங்கை மக்களுக்கு உதவும் முயற்சிகளுக்கு அமெரிக்கா ஆதரவளித்து துணை நிற்கிறது - ஜூலி சங்	https://www.virakesari.lk/article/231966	ta	virakesarilk	1764419520.0
@@ -992,10 +999,3 @@ lk_news	2025-11-26-virakesarilk-931b2bb4	virakesarilk-931b2bb4	2025-11-26	தி
 lk_news	2025-11-26-lankadeepalk-4b5d54d9	lankadeepalk-4b5d54d9	2025-11-26	මෝටර් රථය ඔයට වැටී කතක් ඇතුළු දෙකක් මරුට	https://www.lankadeepa.lk/news/මටර-රථය-ඔයට-වට-කතක-ඇතළ-දකක-මරට/101-683937	si	lankadeepalk	1764142434.0
 lk_news	2025-11-26-virakesarilk-3fcdc7e6	virakesarilk-3fcdc7e6	2025-11-26	அரசாங்கத்துக்கும் சிவில் சமூகத்துக்கும் இடையில் கூட்டுப் பங்காண்மைக்கான புதிய வாய்ப்பு	https://www.virakesari.lk/article/231485	ta	virakesarilk	1764142080.0
 lk_news	2025-11-26-lankadeepalk-bb18506f	lankadeepalk-bb18506f	2025-11-26	රට පුරා මී උණ වැඩිවෙලා	https://www.lankadeepa.lk/news/රට-පර-ම-උණ-වඩවල/101-683936	si	lankadeepalk	1764141989.0
-lk_news	2025-11-26-adalk-b75f47fa	adalk-b75f47fa	2025-11-26	පහළ කඩුගන්නාව මාර්ගයේ එක් මංතීරුවක් ගමනාගමනය සඳහා විවෘත කෙරේ	https://www.ada.lk/breaking_news/පහළ-කඩුගන්නාව-මාර්ගයේ-එක්-මංතීරුවක්-ගමනාගමනය-සඳහා-විවෘත-කෙරේ/11-419893	si	adalk	1764141950.0
-lk_news	2025-11-26-virakesarilk-04e42533	virakesarilk-04e42533	2025-11-26	முச்சக்கரவண்டியிலிருந்து தலையை வெளியே நீட்டிய சிறுமி - உயிரை பறித்த டிப்பர் வாகனம்!	https://www.virakesari.lk/article/231481	ta	virakesarilk	1764141900.0
-lk_news	2025-11-26-virakesarilk-673d0f60	virakesarilk-673d0f60	2025-11-26	கரவெட்டியில் மாவீரர் நினைவாலயத்தில் மாவீரர்களுக்கு அஞ்சலி	https://www.virakesari.lk/article/231478	ta	virakesarilk	1764141300.0
-lk_news	2025-11-26-lankadeepalk-1fde9caa	lankadeepalk-1fde9caa	2025-11-26	රට ඩිජිටල් කරන්න බිලියන 25ක්	https://www.lankadeepa.lk/news/රට-ඩජටල-කරනන-බලයන-25ක/101-683930	si	lankadeepalk	1764141160.0
-lk_news	2025-11-26-lankadeepalk-214d1b6c	lankadeepalk-214d1b6c	2025-11-26	සංචාරක ඉලක්කය හීනයක්ද?	https://www.lankadeepa.lk/features/සචරක-ඉලකකය-හනයකද/2-683929	si	lankadeepalk	1764141148.0
-lk_news	2025-11-26-virakesarilk-48b13282	virakesarilk-48b13282	2025-11-26	தெல்தோட்டை பகுதியில் வேன் குடைசாய்ந்து விபத்து - பயணிகள் காயம்	https://www.virakesari.lk/article/231476	ta	virakesarilk	1764141120.0
-lk_news	2025-11-26-tamilmirrorlk-c7d4d765	tamilmirrorlk-c7d4d765	2025-11-26	’’சூட்கேஸ் கொலைகள்’’  தாய்க்கு ஆயுள் தண்டனை	https://www.tamilmirror.lk/உலக-செய்திகள்/சூட்கேஸ்-கொலைகள்-தாய்க்கு-ஆயுள்-தண்டனை/50-368533	ta	tamilmirrorlk	1764140721.0
