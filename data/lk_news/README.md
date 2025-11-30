@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--30_21:46:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--30_22:21:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**90,248** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-11-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**90,252** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-11-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-30-lankadeepalk-0ba3beff",
-    "num": "lankadeepalk-0ba3beff",
+    "doc_id": "2025-11-30-lankadeepalk-c6323d35",
+    "num": "lankadeepalk-c6323d35",
     "date_str": "2025-11-30",
-    "description": "\u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2 \u0db0\u0ddb\u0dbb\u0dca\u0dba\u0dad\u0dca \u0dbb\u0dd0\u0d9c\u0dd9\u0db1 \u0dbb\u0da7 \u0db1\u0dd0\u0dc0\u0dad \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dcf\u0dab\u0dba \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0dbb\u0dc0\u0dc3-\u0db0\u0dbb\u0dba\u0dad-\u0dbb\u0d9c\u0db1-\u0dbb\u0da7-\u0db1\u0dc0\u0dad-\u0db4\u0dbb\u0dad\u0db1\u0dbb\u0db8\u0dab\u0dba-\u0d9a\u0dbb\u0db1\u0dc0/101-684350",
+    "description": "\u0daf\u0dd4\u0d9a\u0da7 \u0db4\u0dd2\u0dc4\u0dd2\u0da7 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0dbb\u0da7\u0db8 \u0db4\u0dd9\u0dc5\u0d9c\u0dd0\u0dc3\u0dd9\u0dba\u0dd2.",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0daf\u0d9a\u0da7-\u0db4\u0dc4\u0da7-\u0dc0\u0db1\u0db1-\u0dbb\u0da7\u0db8-\u0db4\u0dc5\u0d9c\u0dc3\u0dba/101-684353",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1764519048.0
+    "time_ut": 1764521093.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-30 | `lankadeepalk-c6323d35` | දුකට පිහිට වෙන්න රටම පෙළගැසෙයි. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-lankadeepalk-c6323d35)
+- 2025-11-30 | `lankadeepalk-6f2834ab` | බත්තුළුඔය පාලමේ පැත්තක් කැඩිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-lankadeepalk-6f2834ab)
+- 2025-11-30 | `tamilmirrorlk-725ecb97` | ஹெலி விபத்தில் விமானி மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-tamilmirrorlk-725ecb97)
+- 2025-11-30 | `lankadeepalk-5360d375` | අනතුරට පත් යානයේ නියමුවා අවාසනාවන්ත ලෙස ජීවිතය හැරයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-lankadeepalk-5360d375)
 - 2025-11-30 | `lankadeepalk-0ba3beff` | පුරවැසි ධෛර්යත් රැගෙන රට නැවත ප්‍රතිනිර්මාණය කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-lankadeepalk-0ba3beff)
 - 2025-11-30 | `lankadeepalk-cb963565` | දිස්ත්‍රික්ක හතකට නායයෑම් රතු නිවේදන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-lankadeepalk-cb963565)
 - 2025-11-30 | `tamilmirrorlk-4ef41145` | 334 பேர் இறந்தனர்: 370 பேர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-tamilmirrorlk-4ef41145)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-11-30 | `virakesarilk-c2a82380` | ஜனாதிபதி இன்று இரவு நாட்டு மக்களுக்கு உரையாற்றவுள்ளார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-virakesarilk-c2a82380)
 - 2025-11-30 | `lankadeepalk-91b84f92` | හලාවත රෝහලේ සිටි රෝගින් ගුවනින් පුත්තලමට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-lankadeepalk-91b84f92)
 - 2025-11-30 | `virakesarilk-6181f7a0` | மட்டக்களப்பில் வெள்ளம்: கிரான் பிரதேசத்தில் போக்குவரத்து முழுமையாக துண்டிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-virakesarilk-6181f7a0)
-- 2025-11-30 | `virakesarilk-5a89879e` | உன்னிச்சை குளத்தில் 03 வான்கதவுகளும்  04 அடி வரை திறக்கப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-virakesarilk-5a89879e)
-- 2025-11-30 | `lankadeepalk-9de66038` | ඉදිරි දවස් පහක් දුම්රිය යන එන හැටි ගැන නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-lankadeepalk-9de66038)
-- 2025-11-30 | `tamilmirrorlk-35915269` | கம்பளையில் பெரும் துயர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-tamilmirrorlk-35915269)
-- 2025-11-30 | `lankadeepalk-d1aebd87` | සහන මෙහෙයුම් යානයක් කඩා වැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-lankadeepalk-d1aebd87)
 
 ---
 

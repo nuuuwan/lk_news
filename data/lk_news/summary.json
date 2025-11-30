@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-11-30 21:46:14",
-  "n_docs": 90248,
+  "time_updated": "2025-11-30 22:20:20",
+  "n_docs": 90252,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 90248,
+  "n_docs_with_text": 90252,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-11-30",
-  "dataset_size": 1350466970,
+  "dataset_size": 1350505280,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-11-30-lankadeepalk-0ba3beff",
-    "num": "lankadeepalk-0ba3beff",
+    "doc_id": "2025-11-30-lankadeepalk-c6323d35",
+    "num": "lankadeepalk-c6323d35",
     "date_str": "2025-11-30",
-    "description": "\u0db4\u0dd4\u0dbb\u0dc0\u0dd0\u0dc3\u0dd2 \u0db0\u0ddb\u0dbb\u0dca\u0dba\u0dad\u0dca \u0dbb\u0dd0\u0d9c\u0dd9\u0db1 \u0dbb\u0da7 \u0db1\u0dd0\u0dc0\u0dad \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dcf\u0dab\u0dba \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0dbb\u0dc0\u0dc3-\u0db0\u0dbb\u0dba\u0dad-\u0dbb\u0d9c\u0db1-\u0dbb\u0da7-\u0db1\u0dc0\u0dad-\u0db4\u0dbb\u0dad\u0db1\u0dbb\u0db8\u0dab\u0dba-\u0d9a\u0dbb\u0db1\u0dc0/101-684350",
+    "description": "\u0daf\u0dd4\u0d9a\u0da7 \u0db4\u0dd2\u0dc4\u0dd2\u0da7 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0dbb\u0da7\u0db8 \u0db4\u0dd9\u0dc5\u0d9c\u0dd0\u0dc3\u0dd9\u0dba\u0dd2.",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0daf\u0d9a\u0da7-\u0db4\u0dc4\u0da7-\u0dc0\u0db1\u0db1-\u0dbb\u0da7\u0db8-\u0db4\u0dc5\u0d9c\u0dc3\u0dba/101-684353",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1764519048.0
+    "time_ut": 1764521093.0
   }
 }
