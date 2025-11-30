@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--01_02:18:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--01_02:47:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**90,277** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**90,278** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-01-dailyftlk-29e2f169",
-    "num": "dailyftlk-29e2f169",
+    "doc_id": "2025-12-01-dailyftlk-f2672a83",
+    "num": "dailyftlk-f2672a83",
     "date_str": "2025-12-01",
-    "description": "Double down to tackle Sri Lanka\u2019s freshwater tsunami",
-    "url_metadata": "https://www.ft.lk/columns/Double-down-to-tackle-Sri-Lanka-s-freshwater-tsunami/4-785026",
+    "description": "Rising together: The private sector\u2019s moment",
+    "url_metadata": "https://www.ft.lk/columns/Rising-together-The-private-sector-s-moment/4-785027",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764534952.0
+    "time_ut": 1764535605.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-01 | `dailyftlk-f2672a83` | Rising together: The private sector’s moment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-dailyftlk-f2672a83)
 - 2025-12-01 | `dailyftlk-29e2f169` | Double down to tackle Sri Lanka’s freshwater tsunami | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-dailyftlk-29e2f169)
 - 2025-12-01 | `dailyftlk-4d75224c` | Cyclone Ditwa: A storm Sri Lanka saw coming but tourism still paid the price | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-dailyftlk-4d75224c)
 - 2025-12-01 | `dailyftlk-db8fff9a` | Big businesses must reform now | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-dailyftlk-db8fff9a)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-11-30 | `tamilmirrorlk-8ddaa606` | ஜனாதிபதி மக்களுக்கு ஆற்றிய விசேட உரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-tamilmirrorlk-8ddaa606)
 - 2025-11-30 | `lankadeepalk-6f49fbd0` | බදුල්ල දිස්ත්‍රික්කයේ මාර්ග කිහිපයක් යලි විවෘත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-lankadeepalk-6f49fbd0)
 - 2025-11-30 | `lankadeepalk-916939ef` | හදිසි නීතිය පැනෙව්වේ කාර්යක්ෂමව රට ගොඩනගන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-lankadeepalk-916939ef)
-- 2025-11-30 | `lankadeepalk-c6323d35` | දුකට පිහිට වෙන්න රටම පෙළගැසෙයි. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-11-30-lankadeepalk-c6323d35)
 
 ---
 

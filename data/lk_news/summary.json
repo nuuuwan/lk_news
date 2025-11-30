@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-01 02:17:45",
-  "n_docs": 90277,
+  "time_updated": "2025-12-01 02:46:30",
+  "n_docs": 90278,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 90277,
+  "n_docs_with_text": 90278,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-01",
-  "dataset_size": 1351061944,
+  "dataset_size": 1351151624,
   "url_source_list": [
     "https://www.virakesari.lk",
     "http://sinhala.adaderana.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "ta",
-    "si",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-01-dailyftlk-29e2f169",
-    "num": "dailyftlk-29e2f169",
+    "doc_id": "2025-12-01-dailyftlk-f2672a83",
+    "num": "dailyftlk-f2672a83",
     "date_str": "2025-12-01",
-    "description": "Double down to tackle Sri Lanka\u2019s freshwater tsunami",
-    "url_metadata": "https://www.ft.lk/columns/Double-down-to-tackle-Sri-Lanka-s-freshwater-tsunami/4-785026",
+    "description": "Rising together: The private sector\u2019s moment",
+    "url_metadata": "https://www.ft.lk/columns/Rising-together-The-private-sector-s-moment/4-785027",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764534952.0
+    "time_ut": 1764535605.0
   }
 }
