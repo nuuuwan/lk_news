@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_04:46:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_05:16:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**90,558** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**90,561** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-02-virakesarilk-cb0b0584",
-    "num": "virakesarilk-cb0b0584",
+    "doc_id": "2025-12-02-virakesarilk-8d0c62f8",
+    "num": "virakesarilk-8d0c62f8",
     "date_str": "2025-12-02",
-    "description": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0bcb\u0bae\u0bcd - \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf",
-    "url_metadata": "https://www.virakesari.lk/article/232193",
+    "description": "\u0b9a\u0bc0\u0ba9 \u0bb5\u0bbf\u0bb0\u0bbf\u0b95\u0bc1\u0b9f\u0bbe \u0b95\u0bbe\u0bb5\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/232196",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1764629100.0
+    "time_ut": 1764629940.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-02 | `virakesarilk-8d0c62f8` | சீன விரிகுடா காவல் பிரிவில் துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-8d0c62f8)
+- 2025-12-02 | `virakesarilk-6cc8390f` | வெள்ளத்தால் பாதிக்கப்பட்ட அவிசாவளை பிரதேச மக்களுக்கு மனிதாபிமான நிவாரணங்களை வழங்கிய கடற்படை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-6cc8390f)
+- 2025-12-02 | `virakesarilk-8f2c8823` | பாதிக்கப்பட்டோருடனும் மீட்புப்பணியாளர்களுடனும் உடன்நிற்கிறோம் - தென்னாபிரிக்க ஜனாதிபதி சிறில் ரமபோசா தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-8f2c8823)
 - 2025-12-02 | `virakesarilk-cb0b0584` | அரசாங்கத்திற்கு எதிராக குற்றவியல் வழக்குத் தாக்கல் செய்வோம் - ஐக்கிய மக்கள் சக்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-cb0b0584)
 - 2025-12-02 | `virakesarilk-6edcbfc7` | வெகுவாகப் பாதிக்கப்பட்டிருக்கும் இலங்கைக்கு உடன் உதவுங்கள் - கனேடியத் தமிழர் பேரவை அந்நாட்டு அரசாங்கத்திடம் வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-6edcbfc7)
 - 2025-12-02 | `virakesarilk-a4b4cb96` | வெள்ளத்தால் பாதிக்கப்பட்ட சமூகத்தினருக்கு உதவ ஸ்ரீலங்கா டெலிகொம்மிடமிருந்து இலவச உதவிச் சேவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-a4b4cb96)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-02 | `dailyftlk-848d8340` | Responding competently to natural disasters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-848d8340)
 - 2025-12-02 | `dailyftlk-934820ad` | Colombo Dockyard delivers “Misje Sakura”  – 9th eco-friendly hybrid bulk carrier to Norway | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-934820ad)
 - 2025-12-02 | `dailyftlk-0bef1fc2` | WindForce signs SPPA for  Rs. 1.18 b floating solar project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-0bef1fc2)
-- 2025-12-02 | `dailyftlk-57e1f4ac` | Ambeon Capital to issue up to 10 m shares for ESOP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-57e1f4ac)
-- 2025-12-02 | `dailyftlk-49769829` | Sierra Cables delivers strong 1H performance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-49769829)
-- 2025-12-02 | `dailyftlk-5fcba2b4` | President urged to submit report on recovery and rehabilitation during  “Cyclone Ditwah” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-5fcba2b4)
 
 ---
 
