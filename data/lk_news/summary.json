@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-02 03:14:46",
-  "n_docs": 90545,
+  "time_updated": "2025-12-02 03:45:52",
+  "n_docs": 90548,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 90545,
+  "n_docs_with_text": 90548,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-02",
-  "dataset_size": 1355155516,
+  "dataset_size": 1355167468,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-02-dailyftlk-19b50f51",
-    "num": "dailyftlk-19b50f51",
+    "doc_id": "2025-12-02-dailyftlk-4002a51a",
+    "num": "dailyftlk-4002a51a",
     "date_str": "2025-12-02",
-    "description": "Transparency and accountability in disaster relief: A new era after decades of misuse",
-    "url_metadata": "https://www.ft.lk/columns/Transparency-and-accountability-in-disaster-relief-A-new-era-after-decades-of-misuse/4-785092",
+    "description": "NCE affirms continuity of export sector following recent floods",
+    "url_metadata": "https://www.ft.lk/business/NCE-affirms-continuity-of-export-sector-following-recent-floods/34-785112",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764623347.0
+    "time_ut": 1764627191.0
   }
 }

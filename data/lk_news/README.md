@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_03:15:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_03:46:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**90,545** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**90,548** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-02-dailyftlk-19b50f51",
-    "num": "dailyftlk-19b50f51",
+    "doc_id": "2025-12-02-dailyftlk-4002a51a",
+    "num": "dailyftlk-4002a51a",
     "date_str": "2025-12-02",
-    "description": "Transparency and accountability in disaster relief: A new era after decades of misuse",
-    "url_metadata": "https://www.ft.lk/columns/Transparency-and-accountability-in-disaster-relief-A-new-era-after-decades-of-misuse/4-785092",
+    "description": "NCE affirms continuity of export sector following recent floods",
+    "url_metadata": "https://www.ft.lk/business/NCE-affirms-continuity-of-export-sector-following-recent-floods/34-785112",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764623347.0
+    "time_ut": 1764627191.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-02 | `dailyftlk-4002a51a` | NCE affirms continuity of export sector following recent floods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-4002a51a)
+- 2025-12-02 | `dailyftlk-2d185703` | Ceylon Chamber affirms support for recovery efforts following Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-2d185703)
+- 2025-12-02 | `dailyftlk-b4a3d51c` | Telecom operators, partners accelerate restoration of connectivity after Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-b4a3d51c)
 - 2025-12-02 | `dailyftlk-19b50f51` | Transparency and accountability in disaster relief: A new era after decades of misuse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-19b50f51)
 - 2025-12-02 | `dailyftlk-848d8340` | Responding competently to natural disasters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-848d8340)
 - 2025-12-02 | `dailyftlk-934820ad` | Colombo Dockyard delivers “Misje Sakura”  – 9th eco-friendly hybrid bulk carrier to Norway | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-934820ad)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-01 | `virakesarilk-404b3559` | எலிக்காய்ச்சல் தொற்றிலிருந்து பாதுகாப்பு பெற உடன் சிகிச்சை பெறுங்கள் ; சுகாதார அமைச்சு அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-virakesarilk-404b3559)
 - 2025-12-01 | `virakesarilk-ac908ee4` | “சாகர் பந்து” நடவடிக்கையின் கீழ் தொடர்ந்த ஆதரவு : தொலைபேசியில் ஜனாதிபதி அநுரவிடம் இந்தியப் பிரதமர் மோடி உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-virakesarilk-ac908ee4)
 - 2025-12-01 | `virakesarilk-74880f4b` | சடுதியாக அதிகரிக்கும் மரக்கறி விலைகள் ; முட்டை, கோழி இறைச்சிக்கு தட்டுப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-virakesarilk-74880f4b)
-- 2025-12-01 | `virakesarilk-1362880a` | தற்போதைய இக்கட்டான நிலையை  அரசியல் இலாபத்திற்காக பயன்படுத்தக்கூடாது ; பிமல் ரத்நாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-virakesarilk-1362880a)
-- 2025-12-01 | `virakesarilk-6f2af323` | அரசாங்கம் மக்களை படுகொலை செய்துள்ளது - சாணக்கியன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-virakesarilk-6f2af323)
-- 2025-12-01 | `lankadeepalk-494f97ef` | මහනුවර යට වෙන්න හේතුව කිරිඇල්ල කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-494f97ef)
 
 ---
 
