@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_01:47:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_02:16:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**90,537** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**90,539** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-02-dailyftlk-65a68842",
-    "num": "dailyftlk-65a68842",
+    "doc_id": "2025-12-02-dailyftlk-5fcba2b4",
+    "num": "dailyftlk-5fcba2b4",
     "date_str": "2025-12-02",
-    "description": "Let us tax for democracy",
-    "url_metadata": "https://www.ft.lk/columns/Let-us-tax-for-democracy/4-785068",
+    "description": "President urged to submit report on recovery and rehabilitation during  \u201cCyclone Ditwah\u201d",
+    "url_metadata": "https://www.ft.lk/opinion/President-urged-to-submit-report-on-recovery-and-rehabilitation-during-Cyclone-Ditwah/14-785086",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764616100.0
+    "time_ut": 1764621569.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-02 | `dailyftlk-5fcba2b4` | President urged to submit report on recovery and rehabilitation during  “Cyclone Ditwah” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-5fcba2b4)
+- 2025-12-02 | `dailyftlk-bc2bb6f8` | Cyclone Ditwah: Testing NPP Govt.’s competence and public confidence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-bc2bb6f8)
 - 2025-12-02 | `dailyftlk-65a68842` | Let us tax for democracy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-dailyftlk-65a68842)
 - 2025-12-01 | `dailyftlk-bb8920ea` | After the storm: A policy blueprint to protect MSMEs from climate shocks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-dailyftlk-bb8920ea)
 - 2025-12-01 | `virakesarilk-c00b6113` | பேரிடரால் பாதிக்கப்பட்டுள்ள இலங்கைக்கு பிரித்தானியாவும் உதவிக்கரம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-virakesarilk-c00b6113)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-01 | `lankadeepalk-ea09b924` | ආපදාවට හසුවූ නිවාසවලට දැනුම් දෙන තුරු යන්න එපා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-ea09b924)
 - 2025-12-01 | `lankadeepalk-91741657` | කැලණි ගඟ රුදුරු වී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-91741657)
 - 2025-12-01 | `lankadeepalk-2e89c871` | ප්‍රමාණවත් දුම්රිය නොමැති නිසා මගීහු මහ මග | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-2e89c871)
-- 2025-12-01 | `lankadeepalk-826c96ab` | චීනයේ විශ්වාසය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-826c96ab)
-- 2025-12-01 | `lankadeepalk-89cdb258` | නවසීලන්තයෙන් ඩොලර් මිලියනයක් ආධාර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-89cdb258)
 
 ---
 
