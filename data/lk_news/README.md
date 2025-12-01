@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--01_06:33:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--01_07:17:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**90,306** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**90,312** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-01-dailyftlk-0114eff2",
-    "num": "dailyftlk-0114eff2",
+    "doc_id": "2025-12-01-tamilmirrorlk-889c4910",
+    "num": "tamilmirrorlk-889c4910",
     "date_str": "2025-12-01",
-    "description": "India intensifies support to Sri Lanka under Operation Sagar Bandhu",
-    "url_metadata": "https://www.ft.lk/news/India-intensifies-support-to-Sri-Lanka-under-Operation-Sagar-Bandhu/56-785044",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1764541358.0
+    "description": "5 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/5-\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8-\u0bb5\u0bc0\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-368840",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1764553350.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-01 | `tamilmirrorlk-889c4910` | 5 கடற்படை வீரர்களும் சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-tamilmirrorlk-889c4910)
+- 2025-12-01 | `tamilmirrorlk-b09e3127` | நாகலகமவில் கடும் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-tamilmirrorlk-b09e3127)
+- 2025-12-01 | `tamilmirrorlk-446e0eda` | தத்தளிக்கும் வெல்லம்பிட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-tamilmirrorlk-446e0eda)
+- 2025-12-01 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-virakesarilk-3a015e4a)
 - 2025-12-01 | `dailyftlk-0114eff2` | India intensifies support to Sri Lanka under Operation Sagar Bandhu | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-dailyftlk-0114eff2)
 - 2025-12-01 | `dailyftlk-83df9436` | UN extends solidarity to Sri Lanka amid Ditwah weather crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-dailyftlk-83df9436)
 - 2025-12-01 | `dailyftlk-2fc68a9d` | President appoints Commissioner General of Essential Services | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-dailyftlk-2fc68a9d)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-01 | `virakesarilk-0f51cf43` | சாரதி அனுமதிப்பத்திரம் புதுப்பிக்க விசேட நிவாரண காலம் அறிவிப்பு - மோட்டார் வாகன போக்குவரத்து திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-virakesarilk-0f51cf43)
 - 2025-12-01 | `virakesarilk-1e072781` | நீர் மட்டம் அதிகரித்தாலும் பாரிய பாதிப்பில்லை ; எந்த நீர்த்தேக்கமும் அபாய நிலைமையில் இல்லை - நீர்ப்பாசன திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-virakesarilk-1e072781)
 - 2025-12-01 | `dailyftlk-f2672a83` | Rising together: The private sector’s moment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-dailyftlk-f2672a83)
-- 2025-12-01 | `dailyftlk-29e2f169` | Double down to tackle Sri Lanka’s freshwater tsunami | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-dailyftlk-29e2f169)
-- 2025-12-01 | `dailyftlk-4d75224c` | Cyclone Ditwa: A storm Sri Lanka saw coming but tourism still paid the price | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-dailyftlk-4d75224c)
-- 2025-12-01 | `dailyftlk-db8fff9a` | Big businesses must reform now | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-dailyftlk-db8fff9a)
-- 2025-12-01 | `virakesarilk-18c1c9d4` | பொதுமக்கள் எதிர்கொள்ளும் பாரதூரமான பிரச்சினைகளுக்கு அரசாங்கம் உடன் தீர்வு காண வேண்டும் - வஜிர அபேவர்தன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-virakesarilk-18c1c9d4)
 
 ---
 
