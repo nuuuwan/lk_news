@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--01_16:23:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--01_16:48:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**90,464** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**90,469** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-01-lankadeepalk-0c8d248c",
-    "num": "lankadeepalk-0c8d248c",
+    "doc_id": "2025-12-01-lankadeepalk-2cb5234d",
+    "num": "lankadeepalk-2cb5234d",
     "date_str": "2025-12-01",
-    "description": "\u0db8\u0dc4\u0dd2\u0dba\u0d82\u0d9c\u0db1 \u0dbb\u0ddd\u0dc4\u0dbd\u0dda \u0d95.\u0db4\u0dd3.\u0da9\u0dd3 \u0d85\u0dbb\u0dd3",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dc4\u0dba\u0d9c\u0db1-\u0dbb\u0dc4\u0dbd-\u0d95-\u0db4-\u0da9-\u0d85\u0dbb/101-684410",
+    "description": "\u0dc0\u0dd0\u0dbd\u0dd2\u0db8\u0da9- \u0d9a\u0dd0\u0db4\u0dca\u0db4\u0dd9\u0da7\u0dd2\u0db4\u0ddc\u0dbd \u0d91\u0dc5\u0dc0\u0dc5\u0dd4 \u0dad\u0ddc\u0d9c \u0d9c\u0ddc\u0da9 \u0d9c\u0dd0\u0dc4\u0dd2\u0dbd\u0dcf",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc0\u0dbd\u0db8\u0da9-\u0d9a\u0db4\u0db4\u0da7\u0db4\u0dbd-\u0d91\u0dc5\u0dc0\u0dc5-\u0dad\u0d9c-\u0d9c\u0da9-\u0d9c\u0dc4\u0dbd/101-684415",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1764585974.0
+    "time_ut": 1764587187.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-01 | `lankadeepalk-2cb5234d` | වැලිමඩ- කැප්පෙටිපොල එළවළු තොග ගොඩ ගැහිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-2cb5234d)
+- 2025-12-01 | `lankadeepalk-5b1c058a` | ආපදා කඳවුරු වල පිහිටට ’’ආරෝග්‍ය’’ එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-5b1c058a)
+- 2025-12-01 | `lankadeepalk-8c9b45a4` | අධාර රැගත් ඉන්දියානු නෞකාවක් ත්‍රි‘මලේ වරායට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-8c9b45a4)
+- 2025-12-01 | `lankadeepalk-37ce5800` | බදුල්ලේ 82ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-37ce5800)
+- 2025-12-01 | `lankadeepalk-2ff274dc` | ගම්පහ පිරිසිදු කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-2ff274dc)
 - 2025-12-01 | `lankadeepalk-0c8d248c` | මහියංගන රෝහලේ ඕ.පී.ඩී අරී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-0c8d248c)
 - 2025-12-01 | `lankadeepalk-ee1dab78` | මධ්‍යම පළාතේ පුද්ගල මරණ 202ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-ee1dab78)
 - 2025-12-01 | `lankadeepalk-10d9ba95` | හලාවත රෝහල වැසෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-10d9ba95)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-12-01 | `tamilmirrorlk-75516f3f` | சாரதி அனுமதிப் பத்திரங்கள் தொடர்பில் தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-tamilmirrorlk-75516f3f)
 - 2025-12-01 | `lankadeepalk-8698a959` | මුලතිව් ගොවිබිමක සිරවී සිටි පිරිසක් බේරා ගැනේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-8698a959)
 - 2025-12-01 | `lankadeepalk-6e7f4666` | හැටන් -කොළඹ පාර පැත්තක් අරී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-6e7f4666)
-- 2025-12-01 | `tamilmirrorlk-35ae0256` | “சிறையில் இம்ரான் உயிரோடு இருக்கிறார்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-tamilmirrorlk-35ae0256)
-- 2025-12-01 | `lankadeepalk-1c9b318c` | සිරිපා වන්දනා වාරය ඇරඹේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-lankadeepalk-1c9b318c)
-- 2025-12-01 | `virakesarilk-d2803e39` | 12 தொன் நிவாரண உதவிப் பொருட்களுடன் திருகோணமலையை வந்தடைந்தது இந்திய கடற்படை கப்பல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-virakesarilk-d2803e39)
-- 2025-12-01 | `tamilmirrorlk-953fbf61` | ﻿ காசா போரில் 70,100 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-tamilmirrorlk-953fbf61)
-- 2025-12-01 | `tamilmirrorlk-5fb9b891` | ஜேர்மனி  போராட்டத்தில் வன்முறை (படம்) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-01-tamilmirrorlk-5fb9b891)
 
 ---
 
