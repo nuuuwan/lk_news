@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_00:28:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_00:47:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**90,801** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**90,805** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-02-tamilmirrorlk-25599c11",
-    "num": "tamilmirrorlk-25599c11",
+    "doc_id": "2025-12-02-virakesarilk-7b16eea7",
+    "num": "virakesarilk-7b16eea7",
     "date_str": "2025-12-02",
-    "description": "\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 465 \u0b86\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8-465-\u0b86\u0b95-\u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1/150-368972",
+    "description": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb0\u0baa\u0bc1 \u0b87\u0bb0\u0bbe\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0b9f\u0bb0\u0bcd\u0ba8\u0bc6\u0bb7\u0ba9\u0bb2\u0bcd \u0bb2\u0bc0\u0b95\u0bcd \u0bb0\u0bbf20 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bbe\u0ba9\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/232287",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1764694977.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1764700020.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-02 | `virakesarilk-7b16eea7` | ஐக்கிய அரபு இராச்சியத்தில் இன்டர்நெஷனல் லீக் ரி20 ஆரம்பமானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-7b16eea7)
+- 2025-12-02 | `virakesarilk-3b73b5d9` | மேற்கிந்தியத் தீவுகளுடனான முதலாவது டெஸ்டில் சொந்த மண்ணில் தடுமாறுகிறது நியூஸிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-3b73b5d9)
+- 2025-12-02 | `virakesarilk-64bc29c4` | ஐக்கிய அரபு  இராஜ்ஜியத்தின் இரண்டாவது மனிதாபிமான உதவித் தொகை இலங்கையை வந்தடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-64bc29c4)
+- 2025-12-02 | `virakesarilk-0f29bf44` | இந்திய விமானப்படை சுயநிரப்பு கள வைத்தியமனை கொழும்புக்கு அனுப்பி 70க்கும் மேற்பட்ட மருத்துவர்கள் மற்றும் பணியாளர்கள் வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-0f29bf44)
 - 2025-12-02 | `tamilmirrorlk-25599c11` | உயிரிழந்தவர்களின் எண்ணிக்கை 465 ஆக உயர்ந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-tamilmirrorlk-25599c11)
 - 2025-12-02 | `lankadeepalk-63c20214` | යළි වැස්සොත් කදුකරයට නැවතත් දැඩි අවදානමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-lankadeepalk-63c20214)
 - 2025-12-02 | `lankadeepalk-99767514` | කුට ලෙස විවිධ මුහුණු ගනිමින් සොරා කෑ පුද්ගලයෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-lankadeepalk-99767514)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-02 | `lankadeepalk-5c28c4b4` | ශ්‍රී ලංකා - පාකිස්තාන් විස්සයි20 තරගාවලියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-lankadeepalk-5c28c4b4)
 - 2025-12-02 | `virakesarilk-b85577b0` | வெள்ளத்தில் சிக்கிய வீடுகளை சுத்தம் செய்வதற்காக வழங்கும் உதவி 10,000 ரூபாவிலிருந்து  25,000 ரூபாவாக அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-b85577b0)
 - 2025-12-02 | `lankadeepalk-3874e59d` | විදුලි පාරිභෝගිකයන් සියයට 30 කට හානිවෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-lankadeepalk-3874e59d)
-- 2025-12-02 | `lankadeepalk-7e3fb143` | අරාබි ආදරය රැගෙන දෙවන යානයත් එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-lankadeepalk-7e3fb143)
-- 2025-12-02 | `virakesarilk-26d6574b` | இலங்கை மக்களுக்கு ஏற்பட்ட பேரழிவுக்கு ரஷ்ய ஜனாதிபதி விளாடிமிர் புடின் அனுதாபம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-26d6574b)
-- 2025-12-02 | `virakesarilk-ba28530b` | ‘டித்வா’ சூறாவளி பேரழிவிலிருந்து இலங்கை மீட்பிற்கு சர்வதேச அளவில் தொடர்ந்த ஆதரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-ba28530b)
-- 2025-12-02 | `lankadeepalk-2e33a928` | ඩෙංගු-චිකුන්ගුන්යා මරුවා ගැන අනතුරු අඟවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-lankadeepalk-2e33a928)
 
 ---
 
