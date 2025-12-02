@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-03 01:17:21",
-  "n_docs": 90805,
+  "time_updated": "2025-12-03 01:47:45",
+  "n_docs": 90806,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 90805,
+  "n_docs_with_text": 90806,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2025-12-02",
-  "dataset_size": 1359209661,
+  "date_str_max": "2025-12-03",
+  "dataset_size": 1359223502,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-02-virakesarilk-7b16eea7",
-    "num": "virakesarilk-7b16eea7",
-    "date_str": "2025-12-02",
-    "description": "\u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb0\u0baa\u0bc1 \u0b87\u0bb0\u0bbe\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba9\u0bcd\u0b9f\u0bb0\u0bcd\u0ba8\u0bc6\u0bb7\u0ba9\u0bb2\u0bcd \u0bb2\u0bc0\u0b95\u0bcd \u0bb0\u0bbf20 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bbe\u0ba9\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/232287",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1764700020.0
+    "doc_id": "2025-12-03-dailyftlk-38a8f403",
+    "num": "dailyftlk-38a8f403",
+    "date_str": "2025-12-03",
+    "description": "From proactive risk reduction to reactive crisis:",
+    "url_metadata": "https://www.ft.lk/columns/From-proactive-risk-reduction-to-reactive-crisis/4-785126",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1764706407.0
   }
 }
