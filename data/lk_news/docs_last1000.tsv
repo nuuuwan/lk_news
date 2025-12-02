@@ -1,4 +1,9 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-02-lankadeepalk-9fb22871	lankadeepalk-9fb22871	2025-12-02	ආපදා ත්තවය ගැන පුටින් කණගාටුව පළ කරයි	https://www.lankadeepa.lk/latest_news/ආපද-තතවය-ගන-පටන-කණගටව-පළ-කරය/1-684484	si	lankadeepalk	1764662948.0
+lk_news	2025-12-02-lankadeepalk-6afef6f0	lankadeepalk-6afef6f0	2025-12-02	අයවැය විවාද හෙට නැවත ඇරඹේ	https://www.lankadeepa.lk/latest_news/අයවය-වවද-හට-නවත-ඇරඹ/1-684483	si	lankadeepalk	1764662582.0
+lk_news	2025-12-02-lankadeepalk-d4293c7f	lankadeepalk-d4293c7f	2025-12-02	වැස්සෙන් උ‘මැද කුඹුරු අක්කර 15,500 ක් විනාශයි	https://www.lankadeepa.lk/latest_news/වසසන-උමද-කඹර-අකකර-15-500-ක-වනශය/1-684482	si	lankadeepalk	1764662382.0
+lk_news	2025-12-02-tamilmirrorlk-06d6c525	tamilmirrorlk-06d6c525	2025-12-02	போலியானவர்கள் குறித்து கவனமாக இருங்கள்	https://www.tamilmirror.lk/மலையகம்/போலியானவர்கள்-குறித்து-கவனமாக-இருங்கள்/76-368940	ta	tamilmirrorlk	1764662330.0
+lk_news	2025-12-02-lankadeepalk-7d38a405	lankadeepalk-7d38a405	2025-12-02	ලංකාව ගැන මෝදිගෙන් එක්ස් පණිවිඩයක්	https://www.lankadeepa.lk/latest_news/ලකව-ගන-මදගන-එකස-පණවඩයක/1-684481	si	lankadeepalk	1764661796.0
 lk_news	2025-12-02-lankadeepalk-578a07b7	lankadeepalk-578a07b7	2025-12-02	මැතිසබා  සේවකයෝ විස්සකුත් ගංවතුරට කොටුවෙලා	https://www.lankadeepa.lk/news/මතසබ-සවකය-වසසකත-ගවතරට-කටවල/101-684480	si	lankadeepalk	1764660546.0
 lk_news	2025-12-02-tamilmirrorlk-b21c9490	tamilmirrorlk-b21c9490	2025-12-02	மஹாவுவா டேம் தோட்டத்தில் பாரிய சேதம்	https://www.tamilmirror.lk/மலையகம்/மஹாவுவா-டேம்-தோட்டத்தில்-பாரிய-சேதம்/76-368939	ta	tamilmirrorlk	1764660318.0
 lk_news	2025-12-02-lankadeepalk-6471eb06	lankadeepalk-6471eb06	2025-12-02	සී බී රත්නායක අල්ලස් කොමිසමට	https://www.lankadeepa.lk/news/ස-බ-රතනයක-අලලස-කමසමට/101-684479	si	lankadeepalk	1764660308.0
@@ -994,8 +999,3 @@ lk_news	2025-11-28-lankadeepalk-56fe0052	lankadeepalk-56fe0052	2025-11-28	මහ
 lk_news	2025-11-28-lankadeepalk-76ddf0cf	lankadeepalk-76ddf0cf	2025-11-28	ආපදා ගැන කියන්න දුරකථන අංක රැසක්	https://www.lankadeepa.lk/news/ආපද-ගන-කයනන-දරකථන-අක-රසක/101-684145	si	lankadeepalk	1764334496.0
 lk_news	2025-11-28-lankadeepalk-2bd56f50	lankadeepalk-2bd56f50	2025-11-28	ලංකාවට ආධාර දෙන බව මෝදි කියයි	https://www.lankadeepa.lk/news/ලකවට-ආධර-දන-බව-මද-කයය/101-684144	si	lankadeepalk	1764334214.0
 lk_news	2025-11-28-lankadeepalk-5916f2a5	lankadeepalk-5916f2a5	2025-11-28	ව්‍යසනයෙන් ගොඩ එන්න ජාත්‍යන්තර ආධාරක සමුළුවක් පවත්වන්න	https://www.lankadeepa.lk/news/වයසනයන-ගඩ-එනන-ජතයනතර-ආධරක-සමළවක-පවතවනන/101-684143	si	lankadeepalk	1764333750.0
-lk_news	2025-11-28-lankadeepalk-5500bde7	lankadeepalk-5500bde7	2025-11-28	ජල රකුසාට යට වූ පුත්තලම	https://www.lankadeepa.lk/latest_news/ජල-රකසට-යට-වපතතලම/1-684142	si	lankadeepalk	1764333392.0
-lk_news	2025-11-28-virakesarilk-aa705c06	virakesarilk-aa705c06	2025-11-28	நாட்டில் நிலவும் சீரற்ற காலநிலையால் போக்குவரத்து சேவைகள் முழுமையாக ஸ்தம்பிதம்	https://www.virakesari.lk/article/231857	ta	virakesarilk	1764331920.0
-lk_news	2025-11-28-virakesarilk-623eef53	virakesarilk-623eef53	2025-11-28	பாதுகாப்பு நடவடிக்கைகளுக்கு முழுமையான ஒத்துழைப்பு வழங்குங்கள் - பிரதமர் ஹரிணி அமரசூரிய	https://www.virakesari.lk/article/231856	ta	virakesarilk	1764331320.0
-lk_news	2025-11-28-virakesarilk-e88a1ee4	virakesarilk-e88a1ee4	2025-11-28	சீரற்ற காலநிலை நிவாரணம் - பிரதேச செயலாளர்களுக்கு 50 மில்லியன் ரூபா வரை செலவிட அனுமதி	https://www.virakesari.lk/article/231855	ta	virakesarilk	1764331140.0
-lk_news	2025-11-28-lankadeepalk-b095e93b	lankadeepalk-b095e93b	2025-11-28	කටුනායක ගුවන් තොටුපොළ ප්‍රමාදවීම් සහ අවලංගු කිරීම් රැසක්	https://www.lankadeepa.lk/news/කටනයක-ගවන-තටපළ-පරමදවම-සහ-අවලග-කරම-රසක/101-684141	si	lankadeepalk	1764331036.0
