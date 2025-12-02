@@ -1,4 +1,11 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-02-virakesarilk-3b44782a	virakesarilk-3b44782a	2025-12-02	உணவு பொருட்களை அதிக விலைக்கு விற்பனை செய்பவர்களுக்கு எதிராக சட்ட நடவடிக்கை!	https://www.virakesari.lk/article/232260	ta	virakesarilk	1764672360.0
+lk_news	2025-12-02-virakesarilk-d3a24ecf	virakesarilk-d3a24ecf	2025-12-02	தன்னார்வ தொண்டர்களின் வருகையால் வீதி புனரமைப்பு, சுத்தப்படுத்தும் பணிக்கு இடையூறு - பொலிஸ் ஊடகப் பேச்சாளர்	https://www.virakesari.lk/article/232259	ta	virakesarilk	1764672060.0
+lk_news	2025-12-02-lankadeepalk-d5072dd6	lankadeepalk-d5072dd6	2025-12-02	කල් ගිය උ.පෙළ විභාගය ජනවාරි මුල	https://www.lankadeepa.lk/latest_news/කල-ගය-උ-පළ-වභගය-ජනවර-මල/1-684492	si	lankadeepalk	1764671217.0
+lk_news	2025-12-02-tamilmirrorlk-5b08b766	tamilmirrorlk-5b08b766	2025-12-02	குழந்தைகளுடன் மல்வத்து ஓயாவில் குதித்த தாய்	https://www.tamilmirror.lk/செய்திகள்/குழந்தைகளுடன்-மல்வத்து-ஓயாவில்-குதித்த-தாய்/175-368955	ta	tamilmirrorlk	1764671187.0
+lk_news	2025-12-02-virakesarilk-1e4b1e32	virakesarilk-1e4b1e32	2025-12-02	மன்னாரில் வெள்ளத்தால் பாதிக்கப்பட்ட மக்களை மீட்க கூட்டு நடவடிக்கை!	https://www.virakesari.lk/article/232257	ta	virakesarilk	1764670860.0
+lk_news	2025-12-02-tamilmirrorlk-c41bbf69	tamilmirrorlk-c41bbf69	2025-12-02	2025இல் 17 பேருக்கு மரண தண்டனை	https://www.tamilmirror.lk/உலக-செய்திகள்/2025இல்-17-பேருக்கு-மரண-தண்டனை/50-368954	ta	tamilmirrorlk	1764670441.0
+lk_news	2025-12-02-virakesarilk-36605b38	virakesarilk-36605b38	2025-12-02	நடிகர் ரியோ நடிக்கும் 'ராம் இன் லீலா'	https://www.virakesari.lk/article/232255	ta	virakesarilk	1764670140.0
 lk_news	2025-12-02-virakesarilk-7be92dfc	virakesarilk-7be92dfc	2025-12-02	க.பொ. உயர்தர பரீட்சைகளை ஜனவரியில் நடத்த தீர்மானம்	https://www.virakesari.lk/article/232253	ta	virakesarilk	1764670080.0
 lk_news	2025-12-02-tamilmirrorlk-1e3aa14c	tamilmirrorlk-1e3aa14c	2025-12-02	உ/த பரீட்சை ஜனவரி ஆரம்பம்	https://www.tamilmirror.lk/செய்திகள்/உ-த-பரீட்சை-ஜனவரி-ஆரம்பம்/175-368953	ta	tamilmirrorlk	1764669763.0
 lk_news	2025-12-02-virakesarilk-d0bddd3c	virakesarilk-d0bddd3c	2025-12-02	இலங்கைக்கு நிவாரண உதவி : இந்தியா – பாகிஸ்தான் வான்வெளி சர்ச்சை !	https://www.virakesari.lk/article/232241	ta	virakesarilk	1764669720.0
@@ -33,6 +40,7 @@ lk_news	2025-12-02-lankadeepalk-b2df61ce	lankadeepalk-b2df61ce	2025-12-02	ජප
 lk_news	2025-12-02-lankadeepalk-30276a02	lankadeepalk-30276a02	2025-12-02	සහන වැඩට බෝරා ප්‍රජාව කෝටියක් දෙයි	https://www.lankadeepa.lk/news/සහන-වඩට-බර-පරජව-කටයක-දය/101-684486	si	lankadeepalk	1764663832.0
 lk_news	2025-12-02-lankadeepalk-ba464c95	lankadeepalk-ba464c95	2025-12-02	හලාවත  මහ රෝහල  පිරිසිදු කරයි	https://www.lankadeepa.lk/news/හලවත-මහ-රහල-පරසද-කරය/101-684485	si	lankadeepalk	1764663464.0
 lk_news	2025-12-02-virakesarilk-fcd4d67f	virakesarilk-fcd4d67f	2025-12-02	பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்க இலங்கை தாவூதி போரா சமூகத்தினர் நன்கொடை!	https://www.virakesari.lk/article/232239	ta	virakesarilk	1764663180.0
+lk_news	2025-12-02-adalk-c8cec505	adalk-c8cec505	2025-12-02	අරාබි එමීරයෙන් ආධාර රැගත් පළමු ගුවන් යානය එයි	https://www.ada.lk/breaking_news/අරාබි-එමීරයෙන්-ආධාර-රැගත්-පළමු-ගුවන්-යානය-එයි/11-420020	si	adalk	1764663166.0
 lk_news	2025-12-02-lankadeepalk-9fb22871	lankadeepalk-9fb22871	2025-12-02	ආපදා ත්තවය ගැන පුටින් කණගාටුව පළ කරයි	https://www.lankadeepa.lk/latest_news/ආපද-තතවය-ගන-පටන-කණගටව-පළ-කරය/1-684484	si	lankadeepalk	1764662948.0
 lk_news	2025-12-02-lankadeepalk-6afef6f0	lankadeepalk-6afef6f0	2025-12-02	අයවැය විවාද හෙට නැවත ඇරඹේ	https://www.lankadeepa.lk/latest_news/අයවය-වවද-හට-නවත-ඇරඹ/1-684483	si	lankadeepalk	1764662582.0
 lk_news	2025-12-02-virakesarilk-cd67e0c3	virakesarilk-cd67e0c3	2025-12-02	கண்டியில் 50,719 பேர் பாதிப்பு ; 532 வீடுகள் முழுமையாக சேதம்	https://www.virakesari.lk/article/232236	ta	virakesarilk	1764662580.0
@@ -112,6 +120,7 @@ lk_news	2025-12-02-virakesarilk-302c35e1	virakesarilk-302c35e1	2025-12-02	அர
 lk_news	2025-12-02-virakesarilk-beaae422	virakesarilk-beaae422	2025-12-02	வெள்ளத்தால் பாதிக்கப்பட்ட மஹியங்கனை வைத்தியசாலை இயல்பு நிலைக்கு திரும்பியது!	https://www.virakesari.lk/article/232212	ta	virakesarilk	1764651300.0
 lk_news	2025-12-02-tamilmirrorlk-47fb8cb6	tamilmirrorlk-47fb8cb6	2025-12-02	மாணவி கர்ப்பம் ; விவாகரத்தான நிலையில், தாயார் கைது	https://www.tamilmirror.lk/அம்பாறை/மாணவி-கர்ப்பம்-விவாகரத்தான-நிலையில்-தாயார்-கைது/74-368919	ta	tamilmirrorlk	1764651104.0
 lk_news	2025-12-02-tamilmirrorlk-7849cb98	tamilmirrorlk-7849cb98	2025-12-02	ஐக்கிய அரபு எமிர் இராச்சியத்திலிருந்து  உதவி	https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-அரபு-எமிர்-இராச்சியத்திலிருந்து-உதவி/175-368918	ta	tamilmirrorlk	1764649977.0
+lk_news	2025-12-02-bbccomsinhala-4209a56f	bbccomsinhala-4209a56f	2025-12-02	ස්වභාවික ආපදා තත්ත්වය හමුවේ රජය ක්‍රියා කළ ආකාරය ගැන UN වාර්තාවක් නිකුත් කරයි	https://www.bbc.com/sinhala/articles/cdrngz5zgzdo	si	bbccomsinhala	1764649876.0
 lk_news	2025-12-02-virakesarilk-f0b0b0ab	virakesarilk-f0b0b0ab	2025-12-02	தெற்கு அதிவேக வீதியின் அத்துருகிரிய நுழைவாயில் மீண்டும் திறக்கப்பட்டது!	https://www.virakesari.lk/article/232209	ta	virakesarilk	1764649860.0
 lk_news	2025-12-02-lankadeepalk-e9024a78	lankadeepalk-e9024a78	2025-12-02	විපතට පත් අයට එල්.බී ෆිනෑන්ස් පිහිටක් වෙයි	https://www.lankadeepa.lk/latest_news/වපතට-පත-අයට-එල-බ-ෆනනස-පහටක-වය/1-684460	si	lankadeepalk	1764649809.0
 lk_news	2025-12-02-virakesarilk-05e075e1	virakesarilk-05e075e1	2025-12-02	நிவாரணங்களுடன் வந்தது ஐக்கிய அரபு இராஜ்ஜியத்தின் விமானம்	https://www.virakesari.lk/article/232204	ta	virakesarilk	1764649680.0
@@ -9990,12 +9999,3 @@ lk_news	2025-10-14-lankadeepalk-d8be6c7d	lankadeepalk-d8be6c7d	2025-10-14	වෘ
 lk_news	2025-10-14-virakesarilk-02316384	virakesarilk-02316384	2025-10-14	தம்புலு ஓயாவில் ஆணின் சடலம் மீட்பு	https://www.virakesari.lk/article/227668	ta	virakesarilk	1760417580.0
 lk_news	2025-10-14-lankadeepalk-9a4ad36b	lankadeepalk-9a4ad36b	2025-10-14	කැබිනට්ටුව ඇනූ හේතුව මහින්ද කියයි	https://www.lankadeepa.lk/news/කබනටටව-ඇන-හතව-මහනද-කයය/101-681283	si	lankadeepalk	1760417537.0
 lk_news	2025-10-14-tamilmirrorlk-5dc1c69c	tamilmirrorlk-5dc1c69c	2025-10-14	இலங்கையில் உச்சம் தொடும் தேசிக்காய் விலை	https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-உச்சம்-தொடும்-தேசிக்காய்-விலை/175-366242	ta	tamilmirrorlk	1760417409.0
-lk_news	2025-10-14-virakesarilk-2e3a76ea	virakesarilk-2e3a76ea	2025-10-14	பொறுப்புக்கூறல் மூலம் ஸ்திரத்தன்மையை நோக்கி இலங்கையை நகர்த்துதல்	https://www.virakesari.lk/article/227667	ta	virakesarilk	1760417340.0
-lk_news	2025-10-14-virakesarilk-e20acb07	virakesarilk-e20acb07	2025-10-14	மண்மேடு சரிந்து விழுந்ததில் ஒருவர் உயிரிழப்பு!	https://www.virakesari.lk/article/227659	ta	virakesarilk	1760416620.0
-lk_news	2025-10-14-virakesarilk-609106b0	virakesarilk-609106b0	2025-10-14	நீரில் மூழ்கி ஒருவர் பலி!	https://www.virakesari.lk/article/227665	ta	virakesarilk	1760416440.0
-lk_news	2025-10-14-lankadeepalk-1cb4faf9	lankadeepalk-1cb4faf9	2025-10-14	රජයේ කන්තෝරු අටක ඔන්ලයින් නවතී	https://www.lankadeepa.lk/latest_news/රජය-කනතර-අටක-ඔනලයන-නවත/1-681282	si	lankadeepalk	1760416073.0
-lk_news	2025-10-14-virakesarilk-79266a31	virakesarilk-79266a31	2025-10-14	அமெரிக்காவில் வீதியில் விழுந்தது விமானம் ; 2 பேர் உயிரிழப்பு	https://www.virakesari.lk/article/227666	ta	virakesarilk	1760415480.0
-lk_news	2025-10-14-virakesarilk-2a342b68	virakesarilk-2a342b68	2025-10-14	யாழில் “கடந்த காலத்தின் நிழல்கள்” புகைப்படக் கண்காட்சி	https://www.virakesari.lk/article/227664	ta	virakesarilk	1760414700.0
-lk_news	2025-10-14-virakesarilk-1f343188	virakesarilk-1f343188	2025-10-14	ரயில் மோதி ஒருவர் பலி!	https://www.virakesari.lk/article/227662	ta	virakesarilk	1760414640.0
-lk_news	2025-10-14-tamilmirrorlk-a10b18f5	tamilmirrorlk-a10b18f5	2025-10-14	மனித புதைகுழி அகழ்வில் தாமதம்	https://www.tamilmirror.lk/யாழ்ப்பாணம்/மனித-புதைகுழி-அகழ்வில்-தாமதம்/71-366237	ta	tamilmirrorlk	1760414357.0
-lk_news	2025-10-14-virakesarilk-ec9da25a	virakesarilk-ec9da25a	2025-10-14	சட்டவிரோதமாகக் கொண்டுவரப்பட்ட பீடி இலைகளுடன் இருவர் கைது	https://www.virakesari.lk/article/227658	ta	virakesarilk	1760413260.0

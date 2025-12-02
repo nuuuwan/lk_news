@@ -1,4 +1,11 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-02-virakesarilk-3b44782a	virakesarilk-3b44782a	2025-12-02	உணவு பொருட்களை அதிக விலைக்கு விற்பனை செய்பவர்களுக்கு எதிராக சட்ட நடவடிக்கை!	https://www.virakesari.lk/article/232260	ta	virakesarilk	1764672360.0
+lk_news	2025-12-02-virakesarilk-d3a24ecf	virakesarilk-d3a24ecf	2025-12-02	தன்னார்வ தொண்டர்களின் வருகையால் வீதி புனரமைப்பு, சுத்தப்படுத்தும் பணிக்கு இடையூறு - பொலிஸ் ஊடகப் பேச்சாளர்	https://www.virakesari.lk/article/232259	ta	virakesarilk	1764672060.0
+lk_news	2025-12-02-lankadeepalk-d5072dd6	lankadeepalk-d5072dd6	2025-12-02	කල් ගිය උ.පෙළ විභාගය ජනවාරි මුල	https://www.lankadeepa.lk/latest_news/කල-ගය-උ-පළ-වභගය-ජනවර-මල/1-684492	si	lankadeepalk	1764671217.0
+lk_news	2025-12-02-tamilmirrorlk-5b08b766	tamilmirrorlk-5b08b766	2025-12-02	குழந்தைகளுடன் மல்வத்து ஓயாவில் குதித்த தாய்	https://www.tamilmirror.lk/செய்திகள்/குழந்தைகளுடன்-மல்வத்து-ஓயாவில்-குதித்த-தாய்/175-368955	ta	tamilmirrorlk	1764671187.0
+lk_news	2025-12-02-virakesarilk-1e4b1e32	virakesarilk-1e4b1e32	2025-12-02	மன்னாரில் வெள்ளத்தால் பாதிக்கப்பட்ட மக்களை மீட்க கூட்டு நடவடிக்கை!	https://www.virakesari.lk/article/232257	ta	virakesarilk	1764670860.0
+lk_news	2025-12-02-tamilmirrorlk-c41bbf69	tamilmirrorlk-c41bbf69	2025-12-02	2025இல் 17 பேருக்கு மரண தண்டனை	https://www.tamilmirror.lk/உலக-செய்திகள்/2025இல்-17-பேருக்கு-மரண-தண்டனை/50-368954	ta	tamilmirrorlk	1764670441.0
+lk_news	2025-12-02-virakesarilk-36605b38	virakesarilk-36605b38	2025-12-02	நடிகர் ரியோ நடிக்கும் 'ராம் இன் லீலா'	https://www.virakesari.lk/article/232255	ta	virakesarilk	1764670140.0
 lk_news	2025-12-02-virakesarilk-7be92dfc	virakesarilk-7be92dfc	2025-12-02	க.பொ. உயர்தர பரீட்சைகளை ஜனவரியில் நடத்த தீர்மானம்	https://www.virakesari.lk/article/232253	ta	virakesarilk	1764670080.0
 lk_news	2025-12-02-tamilmirrorlk-1e3aa14c	tamilmirrorlk-1e3aa14c	2025-12-02	உ/த பரீட்சை ஜனவரி ஆரம்பம்	https://www.tamilmirror.lk/செய்திகள்/உ-த-பரீட்சை-ஜனவரி-ஆரம்பம்/175-368953	ta	tamilmirrorlk	1764669763.0
 lk_news	2025-12-02-virakesarilk-d0bddd3c	virakesarilk-d0bddd3c	2025-12-02	இலங்கைக்கு நிவாரண உதவி : இந்தியா – பாகிஸ்தான் வான்வெளி சர்ச்சை !	https://www.virakesari.lk/article/232241	ta	virakesarilk	1764669720.0
@@ -33,6 +40,7 @@ lk_news	2025-12-02-lankadeepalk-b2df61ce	lankadeepalk-b2df61ce	2025-12-02	ජප
 lk_news	2025-12-02-lankadeepalk-30276a02	lankadeepalk-30276a02	2025-12-02	සහන වැඩට බෝරා ප්‍රජාව කෝටියක් දෙයි	https://www.lankadeepa.lk/news/සහන-වඩට-බර-පරජව-කටයක-දය/101-684486	si	lankadeepalk	1764663832.0
 lk_news	2025-12-02-lankadeepalk-ba464c95	lankadeepalk-ba464c95	2025-12-02	හලාවත  මහ රෝහල  පිරිසිදු කරයි	https://www.lankadeepa.lk/news/හලවත-මහ-රහල-පරසද-කරය/101-684485	si	lankadeepalk	1764663464.0
 lk_news	2025-12-02-virakesarilk-fcd4d67f	virakesarilk-fcd4d67f	2025-12-02	பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்க இலங்கை தாவூதி போரா சமூகத்தினர் நன்கொடை!	https://www.virakesari.lk/article/232239	ta	virakesarilk	1764663180.0
+lk_news	2025-12-02-adalk-c8cec505	adalk-c8cec505	2025-12-02	අරාබි එමීරයෙන් ආධාර රැගත් පළමු ගුවන් යානය එයි	https://www.ada.lk/breaking_news/අරාබි-එමීරයෙන්-ආධාර-රැගත්-පළමු-ගුවන්-යානය-එයි/11-420020	si	adalk	1764663166.0
 lk_news	2025-12-02-lankadeepalk-9fb22871	lankadeepalk-9fb22871	2025-12-02	ආපදා ත්තවය ගැන පුටින් කණගාටුව පළ කරයි	https://www.lankadeepa.lk/latest_news/ආපද-තතවය-ගන-පටන-කණගටව-පළ-කරය/1-684484	si	lankadeepalk	1764662948.0
 lk_news	2025-12-02-lankadeepalk-6afef6f0	lankadeepalk-6afef6f0	2025-12-02	අයවැය විවාද හෙට නැවත ඇරඹේ	https://www.lankadeepa.lk/latest_news/අයවය-වවද-හට-නවත-ඇරඹ/1-684483	si	lankadeepalk	1764662582.0
 lk_news	2025-12-02-virakesarilk-cd67e0c3	virakesarilk-cd67e0c3	2025-12-02	கண்டியில் 50,719 பேர் பாதிப்பு ; 532 வீடுகள் முழுமையாக சேதம்	https://www.virakesari.lk/article/232236	ta	virakesarilk	1764662580.0
@@ -112,6 +120,7 @@ lk_news	2025-12-02-virakesarilk-302c35e1	virakesarilk-302c35e1	2025-12-02	அர
 lk_news	2025-12-02-virakesarilk-beaae422	virakesarilk-beaae422	2025-12-02	வெள்ளத்தால் பாதிக்கப்பட்ட மஹியங்கனை வைத்தியசாலை இயல்பு நிலைக்கு திரும்பியது!	https://www.virakesari.lk/article/232212	ta	virakesarilk	1764651300.0
 lk_news	2025-12-02-tamilmirrorlk-47fb8cb6	tamilmirrorlk-47fb8cb6	2025-12-02	மாணவி கர்ப்பம் ; விவாகரத்தான நிலையில், தாயார் கைது	https://www.tamilmirror.lk/அம்பாறை/மாணவி-கர்ப்பம்-விவாகரத்தான-நிலையில்-தாயார்-கைது/74-368919	ta	tamilmirrorlk	1764651104.0
 lk_news	2025-12-02-tamilmirrorlk-7849cb98	tamilmirrorlk-7849cb98	2025-12-02	ஐக்கிய அரபு எமிர் இராச்சியத்திலிருந்து  உதவி	https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-அரபு-எமிர்-இராச்சியத்திலிருந்து-உதவி/175-368918	ta	tamilmirrorlk	1764649977.0
+lk_news	2025-12-02-bbccomsinhala-4209a56f	bbccomsinhala-4209a56f	2025-12-02	ස්වභාවික ආපදා තත්ත්වය හමුවේ රජය ක්‍රියා කළ ආකාරය ගැන UN වාර්තාවක් නිකුත් කරයි	https://www.bbc.com/sinhala/articles/cdrngz5zgzdo	si	bbccomsinhala	1764649876.0
 lk_news	2025-12-02-virakesarilk-f0b0b0ab	virakesarilk-f0b0b0ab	2025-12-02	தெற்கு அதிவேக வீதியின் அத்துருகிரிய நுழைவாயில் மீண்டும் திறக்கப்பட்டது!	https://www.virakesari.lk/article/232209	ta	virakesarilk	1764649860.0
 lk_news	2025-12-02-lankadeepalk-e9024a78	lankadeepalk-e9024a78	2025-12-02	විපතට පත් අයට එල්.බී ෆිනෑන්ස් පිහිටක් වෙයි	https://www.lankadeepa.lk/latest_news/වපතට-පත-අයට-එල-බ-ෆනනස-පහටක-වය/1-684460	si	lankadeepalk	1764649809.0
 lk_news	2025-12-02-virakesarilk-05e075e1	virakesarilk-05e075e1	2025-12-02	நிவாரணங்களுடன் வந்தது ஐக்கிய அரபு இராஜ்ஜியத்தின் விமானம்	https://www.virakesari.lk/article/232204	ta	virakesarilk	1764649680.0
@@ -990,12 +999,3 @@ lk_news	2025-11-28-dailyftlk-294e1ac6	dailyftlk-294e1ac6	2025-11-28	Pathfinder F
 lk_news	2025-11-28-dailyftlk-1b401cdb	dailyftlk-1b401cdb	2025-11-28	Sri Lanka needs you now, more than ever	https://www.ft.lk/columns/Sri-Lanka-needs-you-now-more-than-ever/4-784977	en	dailyftlk	1764353466.0
 lk_news	2025-11-28-dailyftlk-e757ab5c	dailyftlk-e757ab5c	2025-11-28	Self-censorship in media has no place in democratic jurisdictions	https://www.ft.lk/columns/Self-censorship-in-media-has-no-place-in-democratic-jurisdictions/4-784976	en	dailyftlk	1764353375.0
 lk_news	2025-11-28-dailyftlk-3b15c01f	dailyftlk-3b15c01f	2025-11-28	Enhancing strategic and sustainable Corporate Social Responsibility endeavours in SL	https://www.ft.lk/columns/Enhancing-strategic-and-sustainable-Corporate-Social-Responsibility-endeavours-in-SL/4-784974	en	dailyftlk	1764353222.0
-lk_news	2025-11-28-virakesarilk-9da60a7b	virakesarilk-9da60a7b	2025-11-28	வவுனியாவில் நீரில் அடித்துச் செல்லப்பட்ட கார் - இருவர் பலி	https://www.virakesari.lk/article/231869	ta	virakesarilk	1764353220.0
-lk_news	2025-11-28-lankadeepalk-df3342d3	lankadeepalk-df3342d3	2025-11-28	වවුනියාවේ 4157ක් අවතැන්	https://www.lankadeepa.lk/latest_news/වවනයව-4157ක-අවතන/1-684175	si	lankadeepalk	1764352518.0
-lk_news	2025-11-28-virakesarilk-81d194f1	virakesarilk-81d194f1	2025-11-28	மல்வத்து ஓயாவை  அண்மித்த தாழ்நில பகுதிகளுக்கு அபாய சிவப்பு எச்சரிக்கை !	https://www.virakesari.lk/article/231868	ta	virakesarilk	1764352500.0
-lk_news	2025-11-28-virakesarilk-4d8c08aa	virakesarilk-4d8c08aa	2025-11-28	கலா ஓயா பாலத்தில் வெள்ளத்தில் சிக்கிய பஸ்ஸிலுள்ள பயணிகளை மீட்கும் நடவடிக்கைகள் முன்னெடுப்பு	https://www.virakesari.lk/article/231867	ta	virakesarilk	1764352260.0
-lk_news	2025-11-28-lankadeepalk-5f3ac4ff	lankadeepalk-5f3ac4ff	2025-11-28	කොච්චියෙන් කොළඹ ආ 700ක් අ‘පුරේ කොටුවෙති	https://www.lankadeepa.lk/news/කචචයන-කළඹ-ආ-700ක-අපර-කටවත/101-684174	si	lankadeepalk	1764352063.0
-lk_news	2025-11-28-lankadeepalk-55476326	lankadeepalk-55476326	2025-11-28	බදුල්ලේ මරණ 35යි	https://www.lankadeepa.lk/news/බදලල-මරණ-35ය/101-684173	si	lankadeepalk	1764351681.0
-lk_news	2025-11-28-lankadeepalk-b81150e5	lankadeepalk-b81150e5	2025-11-28	පොලිසියේ නිවාඩු අවලංගු කරයි	https://www.lankadeepa.lk/news/පලසය-නවඩ-අවලග-කරය/101-684172	si	lankadeepalk	1764351508.0
-lk_news	2025-11-28-lankadeepalk-11e1195e	lankadeepalk-11e1195e	2025-11-28	කලාඔයේ පිරිස බේරා ගන්න කණ්ඩායම් කීපයක්	https://www.lankadeepa.lk/news/කලඔය-පරස-බර-ගනන-කණඩයම-කපයක/101-684171	si	lankadeepalk	1764351255.0
-lk_news	2025-11-28-lankadeepalk-09653f7a	lankadeepalk-09653f7a	2025-11-28	අ‘පුර පූජා නගරය	https://www.lankadeepa.lk/news/අපර-පජ-නගරය/101-684170	si	lankadeepalk	1764351028.0
