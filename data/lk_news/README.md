@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_01:48:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_02:21:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**90,806** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**90,810** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-03-dailyftlk-38a8f403",
-    "num": "dailyftlk-38a8f403",
+    "doc_id": "2025-12-03-dailyftlk-d9b43792",
+    "num": "dailyftlk-d9b43792",
     "date_str": "2025-12-03",
-    "description": "From proactive risk reduction to reactive crisis:",
-    "url_metadata": "https://www.ft.lk/columns/From-proactive-risk-reduction-to-reactive-crisis/4-785126",
+    "description": "Leaving people behind in rebuilding Sri Lanka post-most challenging natural disaster",
+    "url_metadata": "https://www.ft.lk/columns/Leaving-people-behind-in-rebuilding-Sri-Lanka-post-most-challenging-natural-disaster/4-785131",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764706407.0
+    "time_ut": 1764707840.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-03 | `dailyftlk-d9b43792` | Leaving people behind in rebuilding Sri Lanka post-most challenging natural disaster | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-d9b43792)
+- 2025-12-03 | `dailyftlk-e8618242` | When all that is solid melts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-e8618242)
+- 2025-12-03 | `dailyftlk-d509ea83` | Cyclone Ditwah: A national tragedy and test of Sri Lanka’s resolve | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-d509ea83)
+- 2025-12-03 | `dailyftlk-0f57006d` | Short notes on a tropical cyclone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-0f57006d)
 - 2025-12-03 | `dailyftlk-38a8f403` | From proactive risk reduction to reactive crisis: | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-38a8f403)
 - 2025-12-02 | `virakesarilk-7b16eea7` | ஐக்கிய அரபு இராச்சியத்தில் இன்டர்நெஷனல் லீக் ரி20 ஆரம்பமானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-7b16eea7)
 - 2025-12-02 | `virakesarilk-3b73b5d9` | மேற்கிந்தியத் தீவுகளுடனான முதலாவது டெஸ்டில் சொந்த மண்ணில் தடுமாறுகிறது நியூஸிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-3b73b5d9)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-02 | `tamilmirrorlk-21454775` | சில கடைகளில் தற்போதை விலைகளில் மரக்கறி விலை உச்சம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-tamilmirrorlk-21454775)
 - 2025-12-02 | `lankadeepalk-bf819cd8` | පෝදා අ‘පුර  වන්දනාවේ එන්න එපා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-lankadeepalk-bf819cd8)
 - 2025-12-02 | `virakesarilk-cbe08d3f` | நுவரெலியாவை மீண்டும் கட்டியெழுப்ப களுத்துறை மாவட்ட சகோதர குழு வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-cbe08d3f)
-- 2025-12-02 | `virakesarilk-7a2605fc` | காலி மாவட்ட நட்பு நிவாரணப் பயணக் குழு கண்டிக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-7a2605fc)
-- 2025-12-02 | `lankadeepalk-0e6b7372` | නැගෙනහිර වගා හෙක්ටයාර ලක්ෂයක් ඉවරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-lankadeepalk-0e6b7372)
-- 2025-12-02 | `lankadeepalk-5c28c4b4` | ශ්‍රී ලංකා - පාකිස්තාන් විස්සයි20 තරගාවලියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-lankadeepalk-5c28c4b4)
-- 2025-12-02 | `virakesarilk-b85577b0` | வெள்ளத்தில் சிக்கிய வீடுகளை சுத்தம் செய்வதற்காக வழங்கும் உதவி 10,000 ரூபாவிலிருந்து  25,000 ரூபாவாக அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-02-virakesarilk-b85577b0)
 
 ---
 
