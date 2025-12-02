@@ -1,5 +1,12 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-02-tamilmirrorlk-e828ad90	tamilmirrorlk-e828ad90	2025-12-02	இலங்கையின் மூன்றில் ஒரு பகுதியை நாசமாக்கிய ’டித்வா’	https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-மூன்றில்-ஒரு-பகுதியை-நாசமாக்கிய-டித்வா/175-368916	ta	tamilmirrorlk	1764648162.0
+lk_news	2025-12-02-virakesarilk-d988873d	virakesarilk-d988873d	2025-12-02	நுவரெலியாவில் வெள்ளத்தால்  நாசமான உணவு பொருட்கள் !	https://www.virakesari.lk/article/232202	ta	virakesarilk	1764648060.0
+lk_news	2025-12-02-virakesarilk-1f3631da	virakesarilk-1f3631da	2025-12-02	களனி ஆற்றின் நீர்மட்டம் குறைந்து வருகிறது - நீர்ப்பாசனத்திணைக்களம்	https://www.virakesari.lk/article/232201	ta	virakesarilk	1764647940.0
+lk_news	2025-12-02-virakesarilk-421797a8	virakesarilk-421797a8	2025-12-02	கோப்பாய் பொலிஸ் பிரிவில் நபரொருவர் கொலை — சந்தேக நபர்கள் கைது!	https://www.virakesari.lk/article/232200	ta	virakesarilk	1764647340.0
+lk_news	2025-12-02-lankadeepalk-31794b28	lankadeepalk-31794b28	2025-12-02	මෝදි-අනුර දුරකථන සාකච්ඡාවක්	https://www.lankadeepa.lk/latest_news/මද-අනර-දරකථන-සකචඡවක/1-684454	si	lankadeepalk	1764647148.0
+lk_news	2025-12-02-virakesarilk-66926fac	virakesarilk-66926fac	2025-12-02	இன்று மட்டுப்படுத்தப்பட்டு ரயில் சேவைகள் இயங்கும் - ரயில் திணைக்களம்	https://www.virakesari.lk/article/232199	ta	virakesarilk	1764646980.0
 lk_news	2025-12-02-tamilmirrorlk-46a31258	tamilmirrorlk-46a31258	2025-12-02	இலங்கைக்கு ரஷ்ய ஜனாதிபதி இரங்கல்	https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-ரஷ்ய-ஜனாதிபதி-இரங்கல்/175-368915	ta	tamilmirrorlk	1764646409.0
+lk_news	2025-12-02-virakesarilk-1c8bcce6	virakesarilk-1c8bcce6	2025-12-02	அனர்த்த முகாமையும்  அநுரவின் உறுதிப்பாடும்	https://www.virakesari.lk/article/232198	ta	virakesarilk	1764645240.0
 lk_news	2025-12-02-lankadeepalk-4f00e78f	lankadeepalk-4f00e78f	2025-12-02	නාගරික මන්ත්‍රීට පහරදුන් 6ක් අල්ලයි	https://www.lankadeepa.lk/latest_news/නගරක-මනතරට-පහරදන-6ක-අලලය/1-684453	si	lankadeepalk	1764645230.0
 lk_news	2025-12-02-lankadeepalk-8182d51d	lankadeepalk-8182d51d	2025-12-02	විදෙස් පරිත්‍යාග තීරු බදු නැතිව ගෙන්වන ක්‍රමයක්	https://www.lankadeepa.lk/latest_news/වදස-පරතයග-තර-බද-නතව-ගනවන-කරමයක/1-684452	si	lankadeepalk	1764644882.0
 lk_news	2025-12-02-lankadeepalk-35ae4ebb	lankadeepalk-35ae4ebb	2025-12-02	එළවළු රටින් ගෙනෙයි	https://www.lankadeepa.lk/latest_news/එළවළ-රටන-ගනය/1-684450	si	lankadeepalk	1764644659.0
@@ -10,7 +17,9 @@ lk_news	2025-12-02-lankadeepalk-f84c2d9a	lankadeepalk-f84c2d9a	2025-12-02	එක
 lk_news	2025-12-02-lankadeepalk-3a4ce94a	lankadeepalk-3a4ce94a	2025-12-02	වැඩි මිලට බඩු වික්කොත් දැඩි දඬුවම්	https://www.lankadeepa.lk/news/වඩ-මලට-බඩ-වකකත-දඩ-දඬවම/101-684445	si	lankadeepalk	1764638943.0
 lk_news	2025-12-02-lankadeepalk-7b45159a	lankadeepalk-7b45159a	2025-12-02	තැනින් තැනට සුළු වැස්සක්	https://www.lankadeepa.lk/news/තනන-තනට-සළ-වසසක/101-684444	si	lankadeepalk	1764638675.0
 lk_news	2025-12-02-adalk-90a03545	adalk-90a03545	2025-12-02	කැළණි ගඟ හා මල්වතු ඔය එක් ස්ථානයක බැගින් අධි ගංවතුර තත්ත්වයක	https://www.ada.lk/breaking_news/කැළණි-ගඟ-හා-මල්වතු-ඔය-එක්-ස්ථානයක-බැගින්-අධි-ගංවතුර-තත්ත්වයක/11-420009	si	adalk	1764638437.0
+lk_news	2025-12-02-adalk-030bdf39	adalk-030bdf39	2025-12-02	අධික වේගයෙන් ජලය යන ඇළේ දිය නෑ පුද්ගලයෙක් අතුරුදන්	https://www.ada.lk/breaking_news/අධික-වේගයෙන්-ජලය-යන-ඇළේ-දිය-නෑ-පුද්ගලයෙක්-අතුරුදන්/11-420008	si	adalk	1764638118.0
 lk_news	2025-12-02-adalk-d7918651	adalk-d7918651	2025-12-02	චින වරායේ වෙඩි තැබිමක් පුද්ගලයෙක් මරුට	https://www.ada.lk/breaking_news/චින-වරායේ-වෙඩි-තැබිමක්-පුද්ගලයෙක්-මරුට/11-420007	si	adalk	1764636525.0
+lk_news	2025-12-02-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-12-02	இன்றைய வானிலை	https://www.virakesari.lk/article/232197	ta	virakesarilk	1764636420.0
 lk_news	2025-12-02-virakesarilk-8d0c62f8	virakesarilk-8d0c62f8	2025-12-02	சீன விரிகுடா காவல் பிரிவில் துப்பாக்கிச் சூடு	https://www.virakesari.lk/article/232196	ta	virakesarilk	1764629940.0
 lk_news	2025-12-02-virakesarilk-6cc8390f	virakesarilk-6cc8390f	2025-12-02	வெள்ளத்தால் பாதிக்கப்பட்ட அவிசாவளை பிரதேச மக்களுக்கு மனிதாபிமான நிவாரணங்களை வழங்கிய கடற்படை	https://www.virakesari.lk/article/232195	ta	virakesarilk	1764629760.0
 lk_news	2025-12-02-virakesarilk-8f2c8823	virakesarilk-8f2c8823	2025-12-02	பாதிக்கப்பட்டோருடனும் மீட்புப்பணியாளர்களுடனும் உடன்நிற்கிறோம் - தென்னாபிரிக்க ஜனாதிபதி சிறில் ரமபோசா தெரிவிப்பு	https://www.virakesari.lk/article/232194	ta	virakesarilk	1764629280.0
@@ -990,12 +999,3 @@ lk_news	2025-11-28-lankadeepalk-c1bdecfb	lankadeepalk-c1bdecfb	2025-11-28	බද
 lk_news	2025-11-28-virakesarilk-c20c3a21	virakesarilk-c20c3a21	2025-11-28	நாட்டில் இதுவரை 122 வீதிகள்  மூடப்பட்டுள்ளன - அமைச்சர் பிமல் ரத்நாயக்க	https://www.virakesari.lk/article/231800	ta	virakesarilk	1764316800.0
 lk_news	2025-11-28-virakesarilk-6a3d6290	virakesarilk-6a3d6290	2025-11-28	க.பொ.த. உயர்தர பரீட்சைகளை மீள ஆரம்பிப்பது குறித்து பிரதமர் தலைமையில் விசேட கலந்துரையாடல்	https://www.virakesari.lk/article/231802	ta	virakesarilk	1764316800.0
 lk_news	2025-11-28-lankadeepalk-3c808b16	lankadeepalk-3c808b16	2025-11-28	පාර්ලිමේන්තුවත් යටවෙන අවදානමක්	https://www.lankadeepa.lk/news/පරලමනතවත-යටවන-අවදනමක/101-684112	si	lankadeepalk	1764316756.0
-lk_news	2025-11-28-virakesarilk-00f0b99a	virakesarilk-00f0b99a	2025-11-28	தெற்கு அதிவேக வீதியில் பயணிக்கும் மக்களுக்கு எச்சரிக்கை!	https://www.virakesari.lk/article/231801	ta	virakesarilk	1764316620.0
-lk_news	2025-11-28-virakesarilk-17a847b1	virakesarilk-17a847b1	2025-11-28	தனியார் துறைகளை சந்திக்க தயாராகிறார் ஜனாதிபதி : 29, 30ஆம் திகதிகளில் விடுமுறை அறிவிப்பு ?	https://www.virakesari.lk/article/231797	ta	virakesarilk	1764316500.0
-lk_news	2025-11-28-virakesarilk-ffccee0f	virakesarilk-ffccee0f	2025-11-28	2016ஆம் ஆண்டுக்கு பின் மிக மோசமான வானிலை : வளிமண்டலவியல் திணைக்களம் அறிவிப்பு!	https://www.virakesari.lk/article/231796	ta	virakesarilk	1764316440.0
-lk_news	2025-11-28-virakesarilk-4e9a7248	virakesarilk-4e9a7248	2025-11-28	நாவலப்பிட்டியில் வீட்டின் மீது மண்மேடு சரிந்து விழுந்ததில் மூவர் உயிரிழப்பு!	https://www.virakesari.lk/article/231798	ta	virakesarilk	1764315960.0
-lk_news	2025-11-28-lankadeepalk-d58969d5	lankadeepalk-d58969d5	2025-11-28	විපතට පත් ප්‍රදේශ හොයන්න ගුවන් මෙහෙයුමක්	https://www.lankadeepa.lk/news/වපතට-පත-පරදශ-හයනන-ගවන-මහයමක/101-684107	si	lankadeepalk	1764315590.0
-lk_news	2025-11-28-tamilmirrorlk-9d12527d	tamilmirrorlk-9d12527d	2025-11-28	அவசர அனர்த்த நிவாரண உதவிகளுக்கான இலக்கங்கள்	https://www.tamilmirror.lk/செய்திகள்/அவசர-அனர்த்த-நிவாரண-உதவிகளுக்கான-இலக்கங்கள்/175-368676	ta	tamilmirrorlk	1764315495.0
-lk_news	2025-11-28-virakesarilk-0864c970	virakesarilk-0864c970	2025-11-28	அநுராதபுரம் புகையிர நிலையத்தில் சிக்கியுள்ள சுமார் 400 பேர்!	https://www.virakesari.lk/article/231795	ta	virakesarilk	1764315300.0
-lk_news	2025-11-28-adalk-7be3755f	adalk-7be3755f	2025-11-28	මුදල් වැය කිරීමේ චක්‍රලේඛා බාධා ඉවත් කිරීමට නව චක්‍රලේඛයක්	https://www.ada.lk/breaking_news/මුදල්-වැය-කිරීමේ-චක්‍රලේඛා-බාධා-ඉවත්-කිරීමට-නව-චක්‍රලේඛයක්/11-419965	si	adalk	1764315012.0
-lk_news	2025-11-28-tamilmirrorlk-7a827d74	tamilmirrorlk-7a827d74	2025-11-28	பேராதனை பல்கலைக்கழகம் மூடப்பட்டுள்ளது	https://www.tamilmirror.lk/செய்திகள்/பேராதனை-பல்கலைக்கழகம்-மூடப்பட்டுள்ளது/175-368675	ta	tamilmirrorlk	1764314794.0
