@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-03 05:16:36",
-  "n_docs": 90827,
+  "time_updated": "2025-12-03 06:02:27",
+  "n_docs": 90833,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 90827,
+  "n_docs_with_text": 90833,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-03",
-  "dataset_size": 1359477354,
+  "dataset_size": 1359580293,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-03-dailyftlk-f08b80d4",
-    "num": "dailyftlk-f08b80d4",
+    "doc_id": "2025-12-03-dailyftlk-239c4f68",
+    "num": "dailyftlk-239c4f68",
     "date_str": "2025-12-03",
-    "description": "Initial Ditwah economic cost likely to reach 1-3% of GDP: First Capital CEO",
-    "url_metadata": "https://www.ft.lk/business/Initial-Ditwah-economic-cost-likely-to-reach-1-3-of-GDP-First-Capital-CEO/34-785159",
+    "description": "Rescue operation",
+    "url_metadata": "https://www.ft.lk/news/Rescue-operation/56-785171",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764718921.0
+    "time_ut": 1764721324.0
   }
 }

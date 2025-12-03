@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_05:17:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_06:03:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**90,827** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**90,833** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-03-dailyftlk-f08b80d4",
-    "num": "dailyftlk-f08b80d4",
+    "doc_id": "2025-12-03-dailyftlk-239c4f68",
+    "num": "dailyftlk-239c4f68",
     "date_str": "2025-12-03",
-    "description": "Initial Ditwah economic cost likely to reach 1-3% of GDP: First Capital CEO",
-    "url_metadata": "https://www.ft.lk/business/Initial-Ditwah-economic-cost-likely-to-reach-1-3-of-GDP-First-Capital-CEO/34-785159",
+    "description": "Rescue operation",
+    "url_metadata": "https://www.ft.lk/news/Rescue-operation/56-785171",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764718921.0
+    "time_ut": 1764721324.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-03 | `dailyftlk-239c4f68` | Rescue operation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-239c4f68)
 - 2025-12-03 | `dailyftlk-f08b80d4` | Initial Ditwah economic cost likely to reach 1-3% of GDP: First Capital CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-f08b80d4)
 - 2025-12-03 | `dailyftlk-3733c8c3` | SLTDA Chief calls on world to visit Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-3733c8c3)
 - 2025-12-03 | `dailyftlk-13a03505` | TMC sets stage for transformative growth with Northern Investment Summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-13a03505)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-03 | `dailyftlk-7b9f0496` | Customs extends UNCTAD technical assistance for ASYCUDA system till 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-7b9f0496)
 - 2025-12-03 | `dailyftlk-d9b43792` | Leaving people behind in rebuilding Sri Lanka post-most challenging natural disaster | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-d9b43792)
 - 2025-12-03 | `dailyftlk-e8618242` | When all that is solid melts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-e8618242)
-- 2025-12-03 | `dailyftlk-d509ea83` | Cyclone Ditwah: A national tragedy and test of Sri Lanka’s resolve | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-d509ea83)
 
 ---
 
