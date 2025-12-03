@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_01:47:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_02:21:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,056** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,058** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-04-dailyftlk-35ac3c74",
-    "num": "dailyftlk-35ac3c74",
+    "doc_id": "2025-12-04-dailyftlk-7a5ec13e",
+    "num": "dailyftlk-7a5ec13e",
     "date_str": "2025-12-04",
-    "description": "Not fighting corruption: From rhetoric to silence in Sri Lanka",
-    "url_metadata": "https://www.ft.lk/columns/Not-fighting-corruption-From-rhetoric-to-silence-in-Sri-Lanka/4-785175",
+    "description": "Cyclone 2025, Anura\u2019s crisis of competence and accountability, Sajith-SJB\u2019s straitjacket",
+    "url_metadata": "https://www.ft.lk/columns/Cyclone-2025-Anura-s-crisis-of-competence-and-accountability-Sajith-SJB-s-straitjacket/4-785176",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764791169.0
+    "time_ut": 1764792692.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-04 | `dailyftlk-7a5ec13e` | Cyclone 2025, Anura’s crisis of competence and accountability, Sajith-SJB’s straitjacket | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-7a5ec13e)
 - 2025-12-04 | `dailyftlk-35ac3c74` | Not fighting corruption: From rhetoric to silence in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-35ac3c74)
 - 2025-12-04 | `dailyftlk-e91e778a` | Prioritise marginalised communities in disaster preparedness, equitable relief and economic justice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-e91e778a)
 - 2025-12-04 | `dailyftlk-84edac2e` | We were too late: Lives lost to another system failure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-84edac2e)
@@ -59,8 +60,7 @@ A collection of lk_news documents.
 - 2025-12-03 | `virakesarilk-f251d4dc` | டித்வா’ சூறாவளி பாதிப்பு – இலங்கைக்கு 2 மில்லியன் அமெரிக்க டொலர் அவசர உதவி: அமெரிக்கா அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-f251d4dc)
 - 2025-12-03 | `virakesarilk-a36a2c96` | பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்க 20 இலட்சம் ரூபா நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-a36a2c96)
 - 2025-12-03 | `virakesarilk-4ea9a4d5` | அமெரிக்காவிடமிருந்து இலங்கை கடற்படைக்கு மேலும் ஒரு  கப்பல்; புதிய மைல்கல் - தூதுவர் ஜுலி சங் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-4ea9a4d5)
-- 2025-12-03 | `lankadeepalk-7309b01e` | කොස්ගම වෙඩිතැබීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-lankadeepalk-7309b01e)
-- 2025-12-03 | `virakesarilk-29b97689` | பேரிடர்களால் உயிரிழந்தவர்களின் எண்ணிக்கை 479 ஆக அதிகரிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-29b97689)
+- 2025-12-03 | `bbccomsinhala-32e4a0ea` | ගම්පොළ: 'තව ටික වෙලාවයි තියෙන්නේ වතුරේ අපි ගහගෙන යන්න, අපි විසිනව දෙනා ම එකට මැරෙමු කියලා අපි කතා වුණා' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-bbccomsinhala-32e4a0ea)
 
 ---
 

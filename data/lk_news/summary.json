@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-04 01:46:56",
-  "n_docs": 91056,
+  "time_updated": "2025-12-04 02:20:25",
+  "n_docs": 91058,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 91056,
+  "n_docs_with_text": 91058,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-04",
-  "dataset_size": 1363559906,
+  "dataset_size": 1363624285,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-04-dailyftlk-35ac3c74",
-    "num": "dailyftlk-35ac3c74",
+    "doc_id": "2025-12-04-dailyftlk-7a5ec13e",
+    "num": "dailyftlk-7a5ec13e",
     "date_str": "2025-12-04",
-    "description": "Not fighting corruption: From rhetoric to silence in Sri Lanka",
-    "url_metadata": "https://www.ft.lk/columns/Not-fighting-corruption-From-rhetoric-to-silence-in-Sri-Lanka/4-785175",
+    "description": "Cyclone 2025, Anura\u2019s crisis of competence and accountability, Sajith-SJB\u2019s straitjacket",
+    "url_metadata": "https://www.ft.lk/columns/Cyclone-2025-Anura-s-crisis-of-competence-and-accountability-Sajith-SJB-s-straitjacket/4-785176",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764791169.0
+    "time_ut": 1764792692.0
   }
 }
