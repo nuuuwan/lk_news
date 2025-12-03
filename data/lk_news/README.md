@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_14:24:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_14:49:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**90,956** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**90,958** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,8 @@ A collection of lk_news documents.
 - 2025-12-03 | `tamilmirrorlk-f9085787` | தப்போவ பாலம் தற்காலிகமாக அமைக்கப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-tamilmirrorlk-f9085787)
 - 2025-12-03 | `lankadeepalk-e7365c23` | ’’වතුර නෑ පිරිසිදු කරන්න දෙනවා කිවුව සල්ලි ඉක්මනට දෙන්න’’ ගම්පොළ ප්‍රදේශවාසියෙක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-lankadeepalk-e7365c23)
 - 2025-12-03 | `lankadeepalk-91ab2093` | රහංගල කන්ද ඉරිතලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-lankadeepalk-91ab2093)
+- 2025-12-03 | `adalk-eaac0d51` | කොත්මලේ අවතැන්වූවන්ට ගුවනින් ආධාර දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-adalk-eaac0d51)
+- 2025-12-03 | `adalk-2e050a16` | 2014 දී අතුරුදන් වූ MH370 ගුවන් යානය සෙවීම නැවත ආරම්භ කිරීමට සැලසුම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-adalk-2e050a16)
 - 2025-12-03 | `lankadeepalk-8c4471f7` | ජල පවිත්‍රාගාර පිරිසිදු කරන්න නාවික කිමිදුම් සහය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-lankadeepalk-8c4471f7)
 - 2025-12-03 | `lankadeepalk-b7243f80` | තබ්බෝව මහ පාළම තාවකාලිකව ඉදිකරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-lankadeepalk-b7243f80)
 - 2025-12-03 | `adalk-9a4811af` | බදුල්ලේ මාර්ග 165න් 111ක් ගමනාගමනයට විවෘතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-adalk-9a4811af)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-03 | `virakesarilk-8093a22c` | முழு புசணிக்காயை சோற்றுக்குள் மறைக்கும் செயற்பாட்டினை அரசாங்கம் முன்னெடுக்ககூடாது -  எம்.ஏ.சுமந்திரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-8093a22c)
 - 2025-12-03 | `tamilmirrorlk-186382db` | “2030ஆம் ஆண்டுக்குள் உலகப் போர் நடக்கும்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-tamilmirrorlk-186382db)
 - 2025-12-03 | `lankadeepalk-feb47d10` | රහංගල කන්ද නාය අවදානමක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-lankadeepalk-feb47d10)
-- 2025-12-03 | `virakesarilk-b80b4a57` | பேரிடர் காலத்தில் அவசியமானது அரசியல் ஞானமே தவிர, வழமையான கட்சி அரசியல் அல்ல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-b80b4a57)
-- 2025-12-03 | `lankadeepalk-4ff26080` | ලංකා විදේශ චීන සංගමයෙන් රුපියල් මිලියනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-lankadeepalk-4ff26080)
 
 ---
 
