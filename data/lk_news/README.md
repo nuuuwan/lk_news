@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_00:48:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_01:16:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,053** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,055** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-03-lankadeepalk-a6c3ec8c",
-    "num": "lankadeepalk-a6c3ec8c",
-    "date_str": "2025-12-03",
-    "description": "IMF \u0dc4\u0dba\u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dad\u0dca \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/IMF-\u0dc4\u0dba\u0dc0\u0db1-\u0dc0\u0dbb\u0d9a\u0dba\u0dad-\u0db1\u0daf\u0dc4\u0dc3-\u0d9a\u0dbb\u0dba/101-684625",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1764785206.0
+    "doc_id": "2025-12-04-dailyftlk-e91e778a",
+    "num": "dailyftlk-e91e778a",
+    "date_str": "2025-12-04",
+    "description": "Prioritise marginalised communities in disaster preparedness, equitable relief and economic justice",
+    "url_metadata": "https://www.ft.lk/opinion/Prioritise-marginalised-communities-in-disaster-preparedness-equitable-relief-and-economic-justice/14-785173",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1764790670.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-04 | `dailyftlk-e91e778a` | Prioritise marginalised communities in disaster preparedness, equitable relief and economic justice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-e91e778a)
+- 2025-12-04 | `dailyftlk-84edac2e` | We were too late: Lives lost to another system failure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-84edac2e)
 - 2025-12-03 | `lankadeepalk-a6c3ec8c` | IMF හයවැනි වාරිකයත් නිදහස් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-lankadeepalk-a6c3ec8c)
 - 2025-12-03 | `lankadeepalk-d8c5d3a2` | පාකිස්තාන් ආධාර රැගත් ගුවන් යානයක් පැමිණේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-lankadeepalk-d8c5d3a2)
 - 2025-12-03 | `virakesarilk-adb64655` | முழுமையான சேத மதிப்பீட்டின் பின்னர் புதிய வரவு - செலவு திட்டம் ஜனவரியில் சமர்ப்பிக்க வேண்டும் -  கூட்டு எதிர்க்கட்சிகள் அரசாங்கத்திடம் வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-adb64655)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-03 | `lankadeepalk-7309b01e` | කොස්ගම වෙඩිතැබීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-lankadeepalk-7309b01e)
 - 2025-12-03 | `virakesarilk-29b97689` | பேரிடர்களால் உயிரிழந்தவர்களின் எண்ணிக்கை 479 ஆக அதிகரிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-29b97689)
 - 2025-12-03 | `lankadeepalk-3cf7e8a6` | ගුවන් රණවිරුවාගේ උපාධිය දේහයට පිළිගන්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-lankadeepalk-3cf7e8a6)
-- 2025-12-03 | `virakesarilk-9793b06b` | இந்தியாவை பலமான நிலையில் இட்ட கோஹ்லி, ருத்துராஜ் சதங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-9793b06b)
-- 2025-12-03 | `lankadeepalk-87592aca` | සරසවි සිසුන්ට මහපොළ තවත් වාරිකයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-lankadeepalk-87592aca)
 
 ---
 
