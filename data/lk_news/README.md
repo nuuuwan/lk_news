@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_02:21:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_02:47:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,058** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,059** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -55,12 +55,12 @@ A collection of lk_news documents.
 - 2025-12-03 | `tamilmirrorlk-71ff0faf` | செவ்வந்திக்கு உதவிய யாழ் நபர்களுக்கு ஏற்பட்ட நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-tamilmirrorlk-71ff0faf)
 - 2025-12-03 | `adalk-b2dde4e6` | සෝපානයකින් වැටී පුද්ගලයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-adalk-b2dde4e6)
 - 2025-12-03 | `adalk-2861d710` | අපේ ගොවීන් වගා කරන කිසිදු එළවළුවක් රටින් ගෙන්නේ නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-adalk-2861d710)
+- 2025-12-03 | `colombotelegraphcom-a0888f3a` | Economic Impacts Of The Ditwah Cyclone Disaster In Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-colombotelegraphcom-a0888f3a)
 - 2025-12-03 | `tamilmirrorlk-c55ca831` | இலங்கையில் உயிரிழந்தவர்களின் எண்ணிக்கை 479ஆக உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-tamilmirrorlk-c55ca831)
 - 2025-12-03 | `tamilmirrorlk-4dfde1e6` | அவிசாவளையில் துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-tamilmirrorlk-4dfde1e6)
 - 2025-12-03 | `virakesarilk-f251d4dc` | டித்வா’ சூறாவளி பாதிப்பு – இலங்கைக்கு 2 மில்லியன் அமெரிக்க டொலர் அவசர உதவி: அமெரிக்கா அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-f251d4dc)
 - 2025-12-03 | `virakesarilk-a36a2c96` | பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்க 20 இலட்சம் ரூபா நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-a36a2c96)
 - 2025-12-03 | `virakesarilk-4ea9a4d5` | அமெரிக்காவிடமிருந்து இலங்கை கடற்படைக்கு மேலும் ஒரு  கப்பல்; புதிய மைல்கல் - தூதுவர் ஜுலி சங் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-4ea9a4d5)
-- 2025-12-03 | `bbccomsinhala-32e4a0ea` | ගම්පොළ: 'තව ටික වෙලාවයි තියෙන්නේ වතුරේ අපි ගහගෙන යන්න, අපි විසිනව දෙනා ම එකට මැරෙමු කියලා අපි කතා වුණා' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-bbccomsinhala-32e4a0ea)
 
 ---
 
