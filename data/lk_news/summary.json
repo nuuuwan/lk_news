@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-03 06:02:27",
-  "n_docs": 90833,
+  "time_updated": "2025-12-03 06:30:20",
+  "n_docs": 90843,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 90833,
+  "n_docs_with_text": 90843,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-03",
-  "dataset_size": 1359580293,
+  "dataset_size": 1359707989,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "en",
-    "ta",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-03-dailyftlk-239c4f68",
-    "num": "dailyftlk-239c4f68",
+    "doc_id": "2025-12-03-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
     "date_str": "2025-12-03",
-    "description": "Rescue operation",
-    "url_metadata": "https://www.ft.lk/news/Rescue-operation/56-785171",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1764721324.0
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/232297",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1764721980.0
   }
 }

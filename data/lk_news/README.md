@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_06:03:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_06:31:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**90,833** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**90,843** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-03-dailyftlk-239c4f68",
-    "num": "dailyftlk-239c4f68",
+    "doc_id": "2025-12-03-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
     "date_str": "2025-12-03",
-    "description": "Rescue operation",
-    "url_metadata": "https://www.ft.lk/news/Rescue-operation/56-785171",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1764721324.0
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/232297",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1764721980.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-03 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-3a015e4a)
 - 2025-12-03 | `dailyftlk-239c4f68` | Rescue operation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-239c4f68)
 - 2025-12-03 | `dailyftlk-f08b80d4` | Initial Ditwah economic cost likely to reach 1-3% of GDP: First Capital CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-f08b80d4)
 - 2025-12-03 | `dailyftlk-3733c8c3` | SLTDA Chief calls on world to visit Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-3733c8c3)
@@ -59,8 +60,7 @@ A collection of lk_news documents.
 - 2025-12-03 | `dailyftlk-8475201c` | Dawoodi Bohra community donates Rs. 10 m to support disaster-affected people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-8475201c)
 - 2025-12-03 | `dailyftlk-28dd7a9b` | Sri Lanka moves toward electronic invoicing with RAMIS upgrade | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-28dd7a9b)
 - 2025-12-03 | `dailyftlk-7b9f0496` | Customs extends UNCTAD technical assistance for ASYCUDA system till 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-7b9f0496)
-- 2025-12-03 | `dailyftlk-d9b43792` | Leaving people behind in rebuilding Sri Lanka post-most challenging natural disaster | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-d9b43792)
-- 2025-12-03 | `dailyftlk-e8618242` | When all that is solid melts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-dailyftlk-e8618242)
+- 2025-12-03 | `virakesarilk-acd98223` | தித்வா புயலின் தாக்கம் : பலியானோர் எண்ணிக்கை 400ஐ கடந்தது 336 பேர் தொடர்ந்தும் மாயம்; 20 271 வீடுகள் சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-03-virakesarilk-acd98223)
 
 ---
 
