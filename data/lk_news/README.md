@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_06:31:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_07:14:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,104** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,105** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-04-dailyftlk-77c69f10",
-    "num": "dailyftlk-77c69f10",
+    "doc_id": "2025-12-04-dailyftlk-da9c94f8",
+    "num": "dailyftlk-da9c94f8",
     "date_str": "2025-12-04",
-    "description": "Harsha says Rebuilding Sri Lanka needs Parliament sanction, oversight",
-    "url_metadata": "https://www.ft.lk/news/Harsha-says-Rebuilding-Sri-Lanka-needs-Parliament-sanction-oversight/56-785207",
+    "description": "Probe Ditwah early warning failure, Rebuilding SL illegal: Opposition MPs",
+    "url_metadata": "https://www.ft.lk/news/Probe-Ditwah-early-warning-failure-Rebuilding-SL-illegal-Opposition-MPs/56-785208",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764809791.0
+    "time_ut": 1764809981.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-04 | `dailyftlk-da9c94f8` | Probe Ditwah early warning failure, Rebuilding SL illegal: Opposition MPs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-da9c94f8)
 - 2025-12-04 | `dailyftlk-77c69f10` | Harsha says Rebuilding Sri Lanka needs Parliament sanction, oversight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-77c69f10)
 - 2025-12-04 | `dailyftlk-5b14c7c5` | Management Committee of ‘Rebuilding Sri Lanka’ Fund convenes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-5b14c7c5)
 - 2025-12-04 | `dailyftlk-aa3fd114` | US ICE arrests Lankan with alleged history of sex crimes working as college professor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-aa3fd114)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-04 | `dailyftlk-4294dfaf` | US provides $ 2 m assistance to  Sri Lanka’s disaster response effort | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-4294dfaf)
 - 2025-12-04 | `dailyftlk-7f18506e` | US Special Envoy  expresses solidarity with SL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-7f18506e)
 - 2025-12-04 | `virakesarilk-616110cb` | இந்திய நிவாரணப் பொருட்களுடனான மற்றொரு விமானம் இலங்கையை வந்தடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-616110cb)
-- 2025-12-04 | `dailyftlk-23720193` | A neighbour in need, a friend indeed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-23720193)
 
 ---
 
