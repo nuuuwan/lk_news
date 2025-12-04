@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-05 03:17:04",
-  "n_docs": 91299,
+  "time_updated": "2025-12-05 03:45:49",
+  "n_docs": 91301,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 91299,
+  "n_docs_with_text": 91301,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-05",
-  "dataset_size": 1367640360,
+  "dataset_size": 1367693247,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-05-dailyftlk-480bf823",
-    "num": "dailyftlk-480bf823",
+    "doc_id": "2025-12-05-dailyftlk-49dfbfaa",
+    "num": "dailyftlk-49dfbfaa",
     "date_str": "2025-12-05",
-    "description": "Rebuilding Sri Lanka beyond the catastrophe",
-    "url_metadata": "https://www.ft.lk/columns/Rebuilding-Sri-Lanka-beyond-the-catastrophe/4-785243",
+    "description": "Humanities, Arts and Social Sciences under pressure",
+    "url_metadata": "https://www.ft.lk/news/Humanities-Arts-and-Social-Sciences-under-pressure/56-785245",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764884306.0
+    "time_ut": 1764885917.0
   }
 }
