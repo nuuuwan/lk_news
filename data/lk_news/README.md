@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_20:02:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_20:22:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,260** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,261** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -49,6 +49,7 @@ A collection of lk_news documents.
 - 2025-12-04 | `lankadeepalk-b7cd9fa7` | ආසියානු සංවර්ධන බැංකුවෙන් ඩොලර් මිලියන තුනක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-b7cd9fa7)
 - 2025-12-04 | `lankadeepalk-b802f994` | රුසියන් ජනපති පුටින් ඉන්දියාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-b802f994)
 - 2025-12-04 | `virakesarilk-cb0cdb94` | சுனாமியின் முழு வடிவத்தை முதல் முதலாக படமெடுத்த செயற்கைக்கோள்! - நாசா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-cb0cdb94)
+- 2025-12-04 | `adalk-2489e95f` | මහනුවර පුද්ගලයික් 185 ක් මිය ගොස් 229 ක් අතුරුදහන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-adalk-2489e95f)
 - 2025-12-04 | `adalk-606ac678` | බිත්තර හිගයක් අත ළඟයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-adalk-606ac678)
 - 2025-12-04 | `adalk-2b60b65a` | ඉන්දීය ආධාර රැගත් 8වැනි යානයත් එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-adalk-2b60b65a)
 - 2025-12-04 | `virakesarilk-abd95056` | அத்தியாவசிய நிவாரணப் பொருட்களை வழங்கியது ஜப்பான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-abd95056)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-04 | `virakesarilk-396ef7c6` | சுயாதீன இசை அல்பத்தை இயக்கி இயக்குநராக தடம் பதிக்கும் நடிகர் ஷாம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-396ef7c6)
 - 2025-12-04 | `lankadeepalk-6d0d1c23` | ආධාර රැගත් 8 වැනි ඉන්දියානු යානයත් එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-6d0d1c23)
 - 2025-12-04 | `lankadeepalk-26d8f1c6` | මධ්‍යම පළාතේ පාසල් 159කට හානි වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-26d8f1c6)
-- 2025-12-04 | `virakesarilk-3d094c37` | பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்க HUTCH நிறுவனம்  600 இலட்சம் ரூபா நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-3d094c37)
 
 ---
 
