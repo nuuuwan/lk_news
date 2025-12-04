@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_07:14:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_08:19:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,105** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,113** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-04-dailyftlk-da9c94f8",
-    "num": "dailyftlk-da9c94f8",
+    "doc_id": "2025-12-04-lankadeepalk-7781d368",
+    "num": "lankadeepalk-7781d368",
     "date_str": "2025-12-04",
-    "description": "Probe Ditwah early warning failure, Rebuilding SL illegal: Opposition MPs",
-    "url_metadata": "https://www.ft.lk/news/Probe-Ditwah-early-warning-failure-Rebuilding-SL-illegal-Opposition-MPs/56-785208",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1764809981.0
+    "description": "\u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9c\u0dde\u0dc0\u0dbb \u0db1\u0dd1:\u0db4\u0dd9\u0da7\u0dca\u0da7\u0dd2\u0dba\u0d9a\u0dca\u0dc0\u0dad\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0dc0\u0dd0\u0dc5\u0dbd\u0dd4\u0dab\u0dd4 \u0db8\u0dd2\u0db1\u0dd2\u0dc3\u0dca\u0dc3\u0dd4",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0dc0\u0dc3\u0db1-\u0d9c\u0dc0\u0dbb-\u0db1\u0db4\u0da7\u0da7\u0dba\u0d9a\u0dc0\u0dad-\u0db1\u0dad\u0dc0-\u0dc0\u0dc5\u0dbd\u0dab-\u0db8\u0db1\u0dc3\u0dc3/101-684630",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1764815991.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-04 | `lankadeepalk-7781d368` | අවසන් ගෞවර නෑ:පෙට්ටියක්වත් නැතිව වැළලුණු මිනිස්සු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-7781d368)
+- 2025-12-04 | `lankadeepalk-5ae50ca3` | ආපදාවෙන් වැඩිම මරණ මහනුවරින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-5ae50ca3)
+- 2025-12-04 | `lankadeepalk-4aa89895` | අධිවේගයේ නොමිලේ පහසුකම් අවසන් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-4aa89895)
+- 2025-12-04 | `lankadeepalk-4d3a8e91` | ජපන් තවත් වෛද්‍ය කණ්ඩායමක් දිවයිනට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-4d3a8e91)
+- 2025-12-04 | `lankadeepalk-978f480b` | රට ගොඩ නගන අරමුදලේ කළමනාකරණ කමිටුව රැස්වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-978f480b)
 - 2025-12-04 | `dailyftlk-da9c94f8` | Probe Ditwah early warning failure, Rebuilding SL illegal: Opposition MPs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-da9c94f8)
 - 2025-12-04 | `dailyftlk-77c69f10` | Harsha says Rebuilding Sri Lanka needs Parliament sanction, oversight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-77c69f10)
 - 2025-12-04 | `dailyftlk-5b14c7c5` | Management Committee of ‘Rebuilding Sri Lanka’ Fund convenes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-5b14c7c5)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-12-04 | `dailyftlk-521ac001` | SLT-Mobitel launches free ‘247 Helpline’ to support flood-affected communities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-521ac001)
 - 2025-12-04 | `dailyftlk-11e4f53e` | Avon Pharmo Chem donates Rs. 2 m for flood relief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-11e4f53e)
 - 2025-12-04 | `dailyftlk-8d30d957` | Uber partners Sri Lanka Red Cross Society | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-8d30d957)
-- 2025-12-04 | `dailyftlk-c210ee7e` | Starlink offers free connectivity in Sri Lanka after Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-c210ee7e)
-- 2025-12-04 | `dailyftlk-0b5375f5` | Binance contributes Rs. 61.6 m for flood relief in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-0b5375f5)
-- 2025-12-04 | `dailyftlk-4294dfaf` | US provides $ 2 m assistance to  Sri Lanka’s disaster response effort | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-4294dfaf)
-- 2025-12-04 | `dailyftlk-7f18506e` | US Special Envoy  expresses solidarity with SL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-7f18506e)
-- 2025-12-04 | `virakesarilk-616110cb` | இந்திய நிவாரணப் பொருட்களுடனான மற்றொரு விமானம் இலங்கையை வந்தடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-616110cb)
 
 ---
 

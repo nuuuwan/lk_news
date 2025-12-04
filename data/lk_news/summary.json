@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-04 07:14:13",
-  "n_docs": 91105,
+  "time_updated": "2025-12-04 08:18:23",
+  "n_docs": 91113,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 91105,
+  "n_docs_with_text": 91113,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-04",
-  "dataset_size": 1364436589,
+  "dataset_size": 1364499870,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-04-dailyftlk-da9c94f8",
-    "num": "dailyftlk-da9c94f8",
+    "doc_id": "2025-12-04-lankadeepalk-7781d368",
+    "num": "lankadeepalk-7781d368",
     "date_str": "2025-12-04",
-    "description": "Probe Ditwah early warning failure, Rebuilding SL illegal: Opposition MPs",
-    "url_metadata": "https://www.ft.lk/news/Probe-Ditwah-early-warning-failure-Rebuilding-SL-illegal-Opposition-MPs/56-785208",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1764809981.0
+    "description": "\u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9c\u0dde\u0dc0\u0dbb \u0db1\u0dd1:\u0db4\u0dd9\u0da7\u0dca\u0da7\u0dd2\u0dba\u0d9a\u0dca\u0dc0\u0dad\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0dc0\u0dd0\u0dc5\u0dbd\u0dd4\u0dab\u0dd4 \u0db8\u0dd2\u0db1\u0dd2\u0dc3\u0dca\u0dc3\u0dd4",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0dc0\u0dc3\u0db1-\u0d9c\u0dc0\u0dbb-\u0db1\u0db4\u0da7\u0da7\u0dba\u0d9a\u0dc0\u0dad-\u0db1\u0dad\u0dc0-\u0dc0\u0dc5\u0dbd\u0dab-\u0db8\u0db1\u0dc3\u0dc3/101-684630",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1764815991.0
   }
 }
