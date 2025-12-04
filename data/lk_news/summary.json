@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-04 05:15:18",
-  "n_docs": 91059,
+  "time_updated": "2025-12-04 06:02:36",
+  "n_docs": 91090,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 91059,
+  "n_docs_with_text": 91090,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-04",
-  "dataset_size": 1363768303,
+  "dataset_size": 1363930041,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-04-dailyftlk-7a5ec13e",
-    "num": "dailyftlk-7a5ec13e",
+    "doc_id": "2025-12-04-dailyftlk-c210ee7e",
+    "num": "dailyftlk-c210ee7e",
     "date_str": "2025-12-04",
-    "description": "Cyclone 2025, Anura\u2019s crisis of competence and accountability, Sajith-SJB\u2019s straitjacket",
-    "url_metadata": "https://www.ft.lk/columns/Cyclone-2025-Anura-s-crisis-of-competence-and-accountability-Sajith-SJB-s-straitjacket/4-785176",
+    "description": "Starlink offers free connectivity in Sri Lanka after Cyclone Ditwah",
+    "url_metadata": "https://www.ft.lk/business/Starlink-offers-free-connectivity-in-Sri-Lanka-after-Cyclone-Ditwah/34-785193",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764792692.0
+    "time_ut": 1764808039.0
   }
 }
