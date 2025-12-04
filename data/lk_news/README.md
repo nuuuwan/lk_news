@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_23:21:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_23:50:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,292** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,293** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-04-virakesarilk-43798269",
-    "num": "virakesarilk-43798269",
+    "doc_id": "2025-12-04-virakesarilk-85f7355a",
+    "num": "virakesarilk-85f7355a",
     "date_str": "2025-12-04",
-    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc8 C-17 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba4\u0bb0\u0bc8\u0baf\u0bbf\u0bb1\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/232481",
+    "description": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9c\u0bc6\u0bae\u0bcd\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbe \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd 5 \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b87\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc0\u0bb4\u0ba8\u0bcd\u0ba4\u0ba9 : \u0b89\u0baf\u0bbf\u0bb0\u0bcd \u0b9a\u0bc7\u0ba4\u0bae\u0bcd \u0ba4\u0bb5\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/232483",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1764869280.0
+    "time_ut": 1764871860.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-04 | `virakesarilk-85f7355a` | கொழும்பு ஜெம்பெட்டா வீதியில் 5 வீடுகள் இடிந்து வீழந்தன : உயிர் சேதம் தவிர்க்கப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-85f7355a)
 - 2025-12-04 | `virakesarilk-43798269` | இந்திய விமானப்படை C-17 விமானம் கொழும்பில் தரையிறங்கியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-43798269)
 - 2025-12-04 | `virakesarilk-197ab220` | டித்வா புயல் அனர்த்தங்களில் பாதிக்கப்பட்டோர் எண்ணிக்கை 18 இலட்சத்தை கடந்தது - அனர்த்த முகாமைத்துவ மத்திய நிலையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-197ab220)
 - 2025-12-04 | `virakesarilk-5f088338` | இயற்கை அனர்த்தங்களை மாற்றமுடியாது; எதிர்க்கட்சிகளின் குறுகிய அரசியல் குற்றச்சாட்டுகள் - சரத் பொன்சேகா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-5f088338)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-04 | `adalk-42236f4e` | කොළඹ  නුවර පාර කඩුගන්නාවෙන් යළි වසයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-adalk-42236f4e)
 - 2025-12-04 | `virakesarilk-13fdd1f4` | மண்சரிவு அபாய எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-13fdd1f4)
 - 2025-12-04 | `virakesarilk-293da79b` | அனர்த்தத்தால் சேதமடைந்த வீதிக் கட்டமைப்புகளின் புனர்நிர்மாணப் பணிகளுக்கு முன்னுரிமை அளிக்கவும் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-293da79b)
-- 2025-12-04 | `adalk-3c77a1e2` | බදුල්ලට නැවතත් වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-adalk-3c77a1e2)
 
 ---
 
