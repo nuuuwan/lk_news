@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_23:50:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_00:27:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,293** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,296** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-04-virakesarilk-85f7355a",
-    "num": "virakesarilk-85f7355a",
+    "doc_id": "2025-12-04-dailyftlk-88a1985d",
+    "num": "dailyftlk-88a1985d",
     "date_str": "2025-12-04",
-    "description": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9c\u0bc6\u0bae\u0bcd\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbe \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd 5 \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b87\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc0\u0bb4\u0ba8\u0bcd\u0ba4\u0ba9 : \u0b89\u0baf\u0bbf\u0bb0\u0bcd \u0b9a\u0bc7\u0ba4\u0bae\u0bcd \u0ba4\u0bb5\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/232483",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1764871860.0
+    "description": "Who decides what \u2018Rebuilding\u2019 looks like after Ditwah?",
+    "url_metadata": "https://www.ft.lk/columns/Who-decides-what-Rebuilding-looks-like-after-Ditwah/4-785223",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1764872696.0
 }
 ```
 
@@ -41,7 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-04 | `dailyftlk-88a1985d` | Who decides what ‘Rebuilding’ looks like after Ditwah? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-88a1985d)
 - 2025-12-04 | `virakesarilk-85f7355a` | கொழும்பு ஜெம்பெட்டா வீதியில் 5 வீடுகள் இடிந்து வீழந்தன : உயிர் சேதம் தவிர்க்கப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-85f7355a)
+- 2025-12-04 | `dailyftlk-fe47b20e` | Cyclone Ditwah’s trail: lives lost, lessons unlearned | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-fe47b20e)
 - 2025-12-04 | `virakesarilk-43798269` | இந்திய விமானப்படை C-17 விமானம் கொழும்பில் தரையிறங்கியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-43798269)
 - 2025-12-04 | `virakesarilk-197ab220` | டித்வா புயல் அனர்த்தங்களில் பாதிக்கப்பட்டோர் எண்ணிக்கை 18 இலட்சத்தை கடந்தது - அனர்த்த முகாமைத்துவ மத்திய நிலையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-197ab220)
 - 2025-12-04 | `virakesarilk-5f088338` | இயற்கை அனர்த்தங்களை மாற்றமுடியாது; எதிர்க்கட்சிகளின் குறுகிய அரசியல் குற்றச்சாட்டுகள் - சரத் பொன்சேகா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-5f088338)
@@ -58,9 +60,7 @@ A collection of lk_news documents.
 - 2025-12-04 | `virakesarilk-10ed0214` | இலங்கையை மீண்டும் கட்டியெழுப்ப இயன்றளவு ஆதரவு வழங்கப்படும் - மாலைதீவு ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-10ed0214)
 - 2025-12-04 | `virakesarilk-8a0fb8bf` | பேரிடரிலிருந்து மீள்வதற்கு 50 பில்லியன் ரூபா குறைநிரப்பு மதிப்பீட்டு பிரேரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-8a0fb8bf)
 - 2025-12-04 | `virakesarilk-acd1c53e` | இந்திய மீனவர் அத்துமீறலால் நெடுந்தீவு மீனவர்களின் இலட்சக்கணக்கான வலைகள் நாசம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-acd1c53e)
-- 2025-12-04 | `adalk-42236f4e` | කොළඹ  නුවර පාර කඩුගන්නාවෙන් යළි වසයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-adalk-42236f4e)
-- 2025-12-04 | `virakesarilk-13fdd1f4` | மண்சரிவு அபாய எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-13fdd1f4)
-- 2025-12-04 | `virakesarilk-293da79b` | அனர்த்தத்தால் சேதமடைந்த வீதிக் கட்டமைப்புகளின் புனர்நிர்மாணப் பணிகளுக்கு முன்னுரிமை அளிக்கவும் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-293da79b)
+- 2025-12-04 | `lankadeepalk-a85cf03b` | ආපදා හානිය ගණන් බලන්න ලෝක බැංකුවේ සහායත් ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-a85cf03b)
 
 ---
 
