@@ -1,5 +1,11 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-04-lankadeepalk-b7cd9fa7	lankadeepalk-b7cd9fa7	2025-12-04	ආසියානු සංවර්ධන බැංකුවෙන් ඩොලර් මිලියන තුනක්	https://www.lankadeepa.lk/latest_news/ආසයන-සවරධන-බකවන-ඩලර-මලයන-තනක/1-684659	si	lankadeepalk	1764850209.0
+lk_news	2025-12-04-lankadeepalk-b802f994	lankadeepalk-b802f994	2025-12-04	රුසියන් ජනපති පුටින් ඉන්දියාවට	https://www.lankadeepa.lk/latest_news/රසයන-ජනපත-පටන-ඉනදයවට/1-684658	si	lankadeepalk	1764849816.0
+lk_news	2025-12-04-virakesarilk-cb0cdb94	virakesarilk-cb0cdb94	2025-12-04	சுனாமியின் முழு வடிவத்தை முதல் முதலாக படமெடுத்த செயற்கைக்கோள்! - நாசா	https://www.virakesari.lk/article/232456	ta	virakesarilk	1764848820.0
 lk_news	2025-12-04-adalk-2b60b65a	adalk-2b60b65a	2025-12-04	ඉන්දීය ආධාර රැගත් 8වැනි යානයත් එයි	https://www.ada.lk/breaking_news/ඉන්දීය-ආධාර-රැගත්-8වැනි-යානයත්-එයි/11-420059	si	adalk	1764847794.0
+lk_news	2025-12-04-virakesarilk-abd95056	virakesarilk-abd95056	2025-12-04	அத்தியாவசிய நிவாரணப் பொருட்களை வழங்கியது ஜப்பான்	https://www.virakesari.lk/article/232455	ta	virakesarilk	1764846960.0
+lk_news	2025-12-04-virakesarilk-e07e08df	virakesarilk-e07e08df	2025-12-04	காலி மற்றும் குருநாகல் பகுதியில் பாலங்களில் சிக்கியுள்ள பொருட்களை அகற்றும் நடவடிக்கை கடற்படையினரால் முன்னெடுப்பு	https://www.virakesari.lk/article/232452	ta	virakesarilk	1764846480.0
+lk_news	2025-12-04-virakesarilk-20a8ff76	virakesarilk-20a8ff76	2025-12-04	கொட்டாவை பஸ் நிலையத்தில் தனியே தவித்த சிறுவன்!	https://www.virakesari.lk/article/232454	ta	virakesarilk	1764846360.0
 lk_news	2025-12-04-lankadeepalk-3a8a96bd	lankadeepalk-3a8a96bd	2025-12-04	බදුල්ලට මහනුවරට ජයිකා ආධාර	https://www.lankadeepa.lk/latest_news/බදලලට-මහනවරට-ජයක-ආධර/1-684657	si	lankadeepalk	1764845501.0
 lk_news	2025-12-04-lankadeepalk-84c4251c	lankadeepalk-84c4251c	2025-12-04	නෙදන්යාහුට ඇමෙරිකාවෙන් අනතුරු ඇඟවිමක්	https://www.lankadeepa.lk/news/නදනයහට-ඇමරකවන-අනතර-ඇඟවමක/101-684656	si	lankadeepalk	1764844875.0
 lk_news	2025-12-04-virakesarilk-e4e329bf	virakesarilk-e4e329bf	2025-12-04	'இந்தியாவின் ஆன்மாவை- ஆன்மீகத்தை கொண்டாடும் படம்தான் அகண்டா 2 தாண்டவம்'- இயக்குநர் பொயபட்டி  ஸ்ரீனு	https://www.virakesari.lk/article/232450	ta	virakesarilk	1764844620.0
@@ -93,9 +99,3 @@ lk_news	2025-12-04-virakesarilk-5e73f02b	virakesarilk-5e73f02b	2025-12-04	வட
 lk_news	2025-12-04-virakesarilk-418dbdb6	virakesarilk-418dbdb6	2025-12-04	கலா ஓயாவின் நீர்மட்டம் அதிகரிப்பு : வான் கதவுகள் திறப்பு !	https://www.virakesari.lk/article/232405	ta	virakesarilk	1764828180.0
 lk_news	2025-12-04-tamilmirrorlk-5f7bbd32	tamilmirrorlk-5f7bbd32	2025-12-04	கத்தோலிக்கர்களிடம் பேராயர் கோரிக்கை	https://www.tamilmirror.lk/செய்திகள்/கத்தோலிக்கர்களிடம்-பேராயர்-கோரிக்கை/175-369050	ta	tamilmirrorlk	1764827731.0
 lk_news	2025-12-04-virakesarilk-557e6c0e	virakesarilk-557e6c0e	2025-12-04	மறைந்த ஏ.வி.எம். சரவணனின் பூதவுடலுக்கு தமிழக முதல்வர் மு.க.ஸ்டாலின் அஞ்சலி	https://www.virakesari.lk/article/232403	ta	virakesarilk	1764827520.0
-lk_news	2025-12-04-virakesarilk-7e7d567a	virakesarilk-7e7d567a	2025-12-04	பாகிஸ்தான் குண்டுவெடிப்பில் 3 பொலிஸ் அதிகாரிகள் பலி ; இருவர் படுகாயம்	https://www.virakesari.lk/article/232407	ta	virakesarilk	1764827280.0
-lk_news	2025-12-04-virakesarilk-170fe9b5	virakesarilk-170fe9b5	2025-12-04	மதுபோதையில் வாக்குவாதம் ; ஒருவர் கொலை!	https://www.virakesari.lk/article/232400	ta	virakesarilk	1764827280.0
-lk_news	2025-12-04-virakesarilk-5ab117b4	virakesarilk-5ab117b4	2025-12-04	லண்டனில் புலம்பெயர் தமிழ்ச் சமூகத்தின் மத்தியில் இரு பிரிவுகளுடன் ரில்வின் சில்வாவுக்கு முரண்பாடான அனுபவங்கள்	https://www.virakesari.lk/article/232402	ta	virakesarilk	1764827160.0
-lk_news	2025-12-04-tamilmirrorlk-60cb3862	tamilmirrorlk-60cb3862	2025-12-04	தேர்ஸ்டன் கல்லூரியின்  நன்கொடை	https://www.tamilmirror.lk/செய்திகள்/தேர்ஸ்டன்-கல்லூரியின்-நன்கொடை/175-369049	ta	tamilmirrorlk	1764827046.0
-lk_news	2025-12-04-tamilmirrorlk-d67c8ae4	tamilmirrorlk-d67c8ae4	2025-12-04	நீர் சுத்திகரிப்பு நிலைய பராமரிப்புக்கு உதவிய கடற்படை சுழியோடிகள்	https://www.tamilmirror.lk/செய்திகள்/நீர்-சுத்திகரிப்பு-நிலைய-பராமரிப்புக்கு-உதவிய-கடற்படை-சுழியோடிகள்/175-369048	ta	tamilmirrorlk	1764826845.0
-lk_news	2025-12-04-tamilmirrorlk-a0cddf46	tamilmirrorlk-a0cddf46	2025-12-04	பயிர்களுக்கு இழப்பீடு வழங்க தொலைபேசி எண்	https://www.tamilmirror.lk/செய்திகள்/பயிர்களுக்கு-இழப்பீடு-வழங்க-தொலைபேசி-எண்/175-369047	ta	tamilmirrorlk	1764826637.0
