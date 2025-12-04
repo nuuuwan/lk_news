@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_08:19:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--04_09:12:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,113** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,117** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-04-lankadeepalk-7781d368",
-    "num": "lankadeepalk-7781d368",
+    "doc_id": "2025-12-04-lankadeepalk-a63f37a9",
+    "num": "lankadeepalk-a63f37a9",
     "date_str": "2025-12-04",
-    "description": "\u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9c\u0dde\u0dc0\u0dbb \u0db1\u0dd1:\u0db4\u0dd9\u0da7\u0dca\u0da7\u0dd2\u0dba\u0d9a\u0dca\u0dc0\u0dad\u0dca \u0db1\u0dd0\u0dad\u0dd2\u0dc0 \u0dc0\u0dd0\u0dc5\u0dbd\u0dd4\u0dab\u0dd4 \u0db8\u0dd2\u0db1\u0dd2\u0dc3\u0dca\u0dc3\u0dd4",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0dc0\u0dc3\u0db1-\u0d9c\u0dc0\u0dbb-\u0db1\u0db4\u0da7\u0da7\u0dba\u0d9a\u0dc0\u0dad-\u0db1\u0dad\u0dc0-\u0dc0\u0dc5\u0dbd\u0dab-\u0db8\u0db1\u0dc3\u0dc3/101-684630",
+    "description": "\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0d9c\u0dad \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca 19000\u0d9a\u0dca  \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0da7 \u0dc3\u0dbd\u0dca\u0dbd\u0dd2 \u0daf\u0dcf\u0dbd\u0dcf",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc0\u0daf\u0dc3-\u0d9c\u0dad-\u0dbd\u0d9a\u0d9a\u0dba\u0db1-19000\u0d9a-\u0d85\u0dbb\u0db8\u0daf\u0dbd\u0da7-\u0dc3\u0dbd\u0dbd-\u0daf\u0dbd/101-684633",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1764815991.0
+    "time_ut": 1764818068.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-04 | `lankadeepalk-a63f37a9` | විදෙස් ගත ලාංකිකයන් 19000ක්  අරමුදලට සල්ලි දාලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-a63f37a9)
+- 2025-12-04 | `lankadeepalk-2da118cd` | පිහි ඇනුමකින් අයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-2da118cd)
+- 2025-12-04 | `lankadeepalk-ca79b4b9` | අද සවස මිලි මීටර්  75 වැඩි තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-ca79b4b9)
 - 2025-12-04 | `lankadeepalk-7781d368` | අවසන් ගෞවර නෑ:පෙට්ටියක්වත් නැතිව වැළලුණු මිනිස්සු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-7781d368)
 - 2025-12-04 | `lankadeepalk-5ae50ca3` | ආපදාවෙන් වැඩිම මරණ මහනුවරින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-5ae50ca3)
 - 2025-12-04 | `lankadeepalk-4aa89895` | අධිවේගයේ නොමිලේ පහසුකම් අවසන් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-lankadeepalk-4aa89895)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-04 | `dailyftlk-458f81b0` | Women’s Chamber calls for urgent support as Cyclone Ditwah floods trigger nationwide crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-458f81b0)
 - 2025-12-04 | `dailyftlk-792ff110` | Cargills ‘Heart for the Nation’ program supports flood-affected communities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-792ff110)
 - 2025-12-04 | `dailyftlk-06c0d11e` | CHEC Port City Colombo extends Rs. 10 m and on-ground support to recovery efforts following Cyclone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-06c0d11e)
-- 2025-12-04 | `dailyftlk-521ac001` | SLT-Mobitel launches free ‘247 Helpline’ to support flood-affected communities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-521ac001)
-- 2025-12-04 | `dailyftlk-11e4f53e` | Avon Pharmo Chem donates Rs. 2 m for flood relief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-11e4f53e)
-- 2025-12-04 | `dailyftlk-8d30d957` | Uber partners Sri Lanka Red Cross Society | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-8d30d957)
 
 ---
 

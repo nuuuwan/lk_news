@@ -1,4 +1,7 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-04-lankadeepalk-a63f37a9	lankadeepalk-a63f37a9	2025-12-04	විදෙස් ගත ලාංකිකයන් 19000ක්  අරමුදලට සල්ලි දාලා	https://www.lankadeepa.lk/news/වදස-ගත-ලකකයන-19000ක-අරමදලට-සලල-දල/101-684633	si	lankadeepalk	1764818068.0
+lk_news	2025-12-04-lankadeepalk-2da118cd	lankadeepalk-2da118cd	2025-12-04	පිහි ඇනුමකින් අයෙක් මරුට	https://www.lankadeepa.lk/news/පහ-ඇනමකන-අයක-මරට/101-684632	si	lankadeepalk	1764817437.0
+lk_news	2025-12-04-lankadeepalk-ca79b4b9	lankadeepalk-ca79b4b9	2025-12-04	අද සවස මිලි මීටර්  75 වැඩි තද වැසි	https://www.lankadeepa.lk/news/අද-සවස-මල-මටර-75-වඩ-තද-වස/101-684631	si	lankadeepalk	1764816306.0
 lk_news	2025-12-04-lankadeepalk-7781d368	lankadeepalk-7781d368	2025-12-04	අවසන් ගෞවර නෑ:පෙට්ටියක්වත් නැතිව වැළලුණු මිනිස්සු	https://www.lankadeepa.lk/news/අවසන-ගවර-නපටටයකවත-නතව-වළලණ-මනසස/101-684630	si	lankadeepalk	1764815991.0
 lk_news	2025-12-04-lankadeepalk-5ae50ca3	lankadeepalk-5ae50ca3	2025-12-04	ආපදාවෙන් වැඩිම මරණ මහනුවරින්	https://www.lankadeepa.lk/news/ආපදවන-වඩම-මරණ-මහනවරන/101-684629	si	lankadeepalk	1764814529.0
 lk_news	2025-12-04-lankadeepalk-4aa89895	lankadeepalk-4aa89895	2025-12-04	අධිවේගයේ නොමිලේ පහසුකම් අවසන් කරයි	https://www.lankadeepa.lk/news/අධවගය-නමල-පහසකම-අවසන-කරය/101-684628	si	lankadeepalk	1764814157.0
@@ -26,6 +29,7 @@ lk_news	2025-12-04-dailyftlk-7f18506e	dailyftlk-7f18506e	2025-12-04	US Special E
 lk_news	2025-12-04-virakesarilk-616110cb	virakesarilk-616110cb	2025-12-04	இந்திய நிவாரணப் பொருட்களுடனான மற்றொரு விமானம் இலங்கையை வந்தடைந்தது	https://www.virakesari.lk/article/232387	ta	virakesarilk	1764807780.0
 lk_news	2025-12-04-dailyftlk-23720193	dailyftlk-23720193	2025-12-04	A neighbour in need, a friend indeed	https://www.ft.lk/news/A-neighbour-in-need-a-friend-indeed/56-785189	en	dailyftlk	1764807520.0
 lk_news	2025-12-04-dailyftlk-57b33b03	dailyftlk-57b33b03	2025-12-04	Bangladesh delivers essential aid to Sri Lanka	https://www.ft.lk/news/Bangladesh-delivers-essential-aid-to-Sri-Lanka/56-785188	en	dailyftlk	1764807476.0
+lk_news	2025-12-04-adalk-63761af1	adalk-63761af1	2025-12-04	අද මිලි මිටර් 75ක් දක්වා තද වැසි	https://www.ada.lk/breaking_news/අද-මිලි-මිටර්-75ක්-දක්වා-තද-වැසි/11-420049	si	adalk	1764807291.0
 lk_news	2025-12-04-dailyftlk-84d0ff3d	dailyftlk-84d0ff3d	2025-12-04	IOM mobilises emergency response as Cyclone Ditwah displaces 209,000 people across Sri Lanka	https://www.ft.lk/news/IOM-mobilises-emergency-response-as-Cyclone-Ditwah-displaces-209-000-people-across-Sri-Lanka/56-785187	en	dailyftlk	1764807216.0
 lk_news	2025-12-04-virakesarilk-dfff6fb1	virakesarilk-dfff6fb1	2025-12-04	159 பேரும் தோற்றாலும், ஜனாதிபதி அநுர தோற்றுவிடக் கூடாது - ஹரின் பெர்னாண்டோ	https://www.virakesari.lk/article/232386	ta	virakesarilk	1764807000.0
 lk_news	2025-12-04-dailyftlk-a725b93d	dailyftlk-a725b93d	2025-12-04	Cyclone Ditwah and India-Sri Lanka relations: playbook for diplomacy in the neighbourhood	https://www.ft.lk/opinion/Cyclone-Ditwah-and-India-Sri-Lanka-relations-playbook-for-diplomacy-in-the-neighbourhood/14-785186	en	dailyftlk	1764806849.0
@@ -9995,7 +9999,3 @@ lk_news	2025-10-15-virakesarilk-aef884c9	virakesarilk-aef884c9	2025-10-15	இர
 lk_news	2025-10-15-virakesarilk-be0d381a	virakesarilk-be0d381a	2025-10-15	சுன்னாகம் பொலிஸ் நிலைய உத்தியோகத்தர் இருவர் இடமாற்றம்	https://www.virakesari.lk/article/227834	ta	virakesarilk	1760536920.0
 lk_news	2025-10-15-colombotelegraphcom-03d852df	colombotelegraphcom-03d852df	2025-10-15	Who Introduced Commercial Whale Watching In Sri Lanka?	https://www.colombotelegraph.com/index.php/who-introduced-commercial-whale-watching-in-sri-lanka/	en	colombotelegraphcom	1760536248.0
 lk_news	2025-10-15-virakesarilk-b7ae0119	virakesarilk-b7ae0119	2025-10-15	முன்னாள் அமைச்சர் மனுஷ நாணயக்கார பிணையில் விடுவிப்பு	https://www.virakesari.lk/article/227833	ta	virakesarilk	1760536020.0
-lk_news	2025-10-15-lankadeepalk-058d231a	lankadeepalk-058d231a	2025-10-15	මම මළා කියපු කතාවට මටම හිනා	https://www.lankadeepa.lk/news/මම-මළ-කයප-කතවට-මටම-හන/101-681429	si	lankadeepalk	1760535870.0
-lk_news	2025-10-15-lankadeepalk-49c9e978	lankadeepalk-49c9e978	2025-10-15	ඉෂාර සෙව්වන්දි දිවයිනට රැගෙන එයි	https://www.lankadeepa.lk/latest_news/ඉෂර-සවවනද-දවයනට-රගන-එය/1-681428	si	lankadeepalk	1760535372.0
-lk_news	2025-10-15-lankadeepalk-b8f52457	lankadeepalk-b8f52457	2025-10-15	මනූෂට ඇප	https://www.lankadeepa.lk/news/මනෂට-ඇප/101-681427	si	lankadeepalk	1760534101.0
-lk_news	2025-10-15-lankadeepalk-edc6a39d	lankadeepalk-edc6a39d	2025-10-15	සයිනොපෙක් සමාගමේ පිරිසක් ඇමැති විජිත හමුවේ	https://www.lankadeepa.lk/news/සයනපක-සමගම-පරසක-ඇමත-වජත-හමව/101-681426	si	lankadeepalk	1760533913.0
