@@ -1,0 +1,17 @@
+CH17 to allocate 10,000 privilege cards to volunteers to mark Ditwah relief and aid
+
+CH17 has announced plans to issue 10,000 special digital privilege cards to individuals, groups, organisations supporting the ongoing rescue and disaster relief work. Additionally, CH17 has developed a program that could assist agencies who are in control over any type of aid relief work, to monitor on real time basis, the process and to take immediate action should there be shortcomings.
+
+CH17 has launched a special nationwide initiative to honour and support everyone working tirelessly on disaster relief efforts. The program will recognise first responders, donors, volunteers, welfare teams and media personnel who have stepped forward selflessly to help rebuild the country after the cyclone devastation.
+
+CH17 CEO Jumar Preena said, “We believe our country will rise again, but only if we take the time to recognise those who served first and served hardest. We will open this Privilege Program to all those risking their safety, time, and comfort to support the destitute. Their service is the foundation on which Sri Lanka will rebuild.”
+
+As part of this initiative, CH17 will issue a simple digital privilege card to registered responders. This electronic card will carry the volunteer’s name and a unique registration number. It will also include a scannable QR code and a 16-digit card number — just like a payment card number but used only for identity and fairness. When shown at participating stores, it will unlock special discounts funded entirely by merchants who wish to support caregivers.
+
+CH17 partner retailers from closed-group Privilege Networks, have been requested to accept the digital card and extend special discounts to responders during purchases. CH17 will also invite thousands more private merchants, shops and service providers to join this goodwill effort, so more volunteers can be supported in more places across the island.
+
+The entire initiative will be offered as CH17’s contribution toward the national rebuilding mission led by the Rebuilding Sri Lanka Task Force. CH17 is prepared to launch the program immediately and begin issuing the first 10,000 cards under the theme Rebuild Sri Lanka. This is the first large-scale volunteer recognition and privilege support card introduced by an independent Sri Lankan organisation for disaster recovery efforts.
+
+CH17 has previously deployed a similar humanitarian recognition system during the COVID-19 pandemic between 2020 and 2021. Under the endorsement of the Sri Lankan Ministry of Health, production deployments were carried out jointly with local member-merchant nodes operated through the province-isolated Volunteer Classification Tier under the governance oversight of the Sri Lanka Health Ministry. “The CARE Program validated our ability to build immediately deployable systems for responders with joint infrastructure integration, which we are now ready to scale once again, sustainably, for the nation,” Jumar added.
+
+As part of this new exercise, CH17 will invite many additional merchants and organisations across Sri Lanka to join the initiative, strengthening recognition and essential aid delivery layers while ensuring non-intrusive POS interoperability, seamless API command integration, and fraud-safe closed-group benefit reconciliation. CH17 will continue to expand and enhance these privileges progressively.

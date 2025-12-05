@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_06:03:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_06:30:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,319** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,333** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-05-dailyftlk-dd101a30",
-    "num": "dailyftlk-dd101a30",
+    "doc_id": "2025-12-05-dailyftlk-98f5af1b",
+    "num": "dailyftlk-98f5af1b",
     "date_str": "2025-12-05",
-    "description": "OPA members, associations unite to support those affected by Cyclone Ditwah",
-    "url_metadata": "https://www.ft.lk/business/OPA-members-associations-unite-to-support-those-affected-by-Cyclone-Ditwah/34-785258",
+    "description": "UAE sends sixth aircraft with more aid to Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/UAE-sends-sixth-aircraft-with-more-aid-to-Sri-Lanka/56-785270",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764894597.0
+    "time_ut": 1764895608.0
 }
 ```
 
@@ -41,6 +41,18 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-05 | `dailyftlk-98f5af1b` | UAE sends sixth aircraft with more aid to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-98f5af1b)
+- 2025-12-05 | `dailyftlk-c54390ae` | China stands with Sri Lanka in the wake of Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-c54390ae)
+- 2025-12-05 | `dailyftlk-c2f968ff` | India delivers more disaster relief, medical team arrives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-c2f968ff)
+- 2025-12-05 | `dailyftlk-6c56ba15` | India sends Bailey bridge units and team to aid recovery efforts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-6c56ba15)
+- 2025-12-05 | `dailyftlk-bd47b6e3` | UNFPA in life-saving response to humanitarian crisis triggered by Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-bd47b6e3)
+- 2025-12-05 | `dailyftlk-04808e3b` | Japanese JDR medical team arrives in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-04808e3b)
+- 2025-12-05 | `dailyftlk-a7b21edc` | Pakistan sends fresh relief cargo and elite rescue team | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-a7b21edc)
+- 2025-12-05 | `dailyftlk-cb4fbe90` | JICA donates essential relief supplies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-cb4fbe90)
+- 2025-12-05 | `dailyftlk-962363c8` | Over 19,000 overseas workers contribute to relief fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-962363c8)
+- 2025-12-05 | `dailyftlk-8a5bbfd9` | VFS Global donates Rs. 7.5 m for Sri Lanka’s relief work | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-8a5bbfd9)
+- 2025-12-05 | `dailyftlk-feb20b55` | CH17 to allocate 10,000 privilege cards to volunteers to mark Ditwah relief and aid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-feb20b55)
+- 2025-12-05 | `dailyftlk-241fb565` | Hutch contributes Rs. 60 m to  support cyclone-affected communities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-241fb565)
 - 2025-12-05 | `dailyftlk-dd101a30` | OPA members, associations unite to support those affected by Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-dd101a30)
 - 2025-12-05 | `dailyftlk-6b121c92` | CHEC Port City Colombo deploys disaster-response fleet to restore A5 corridor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-6b121c92)
 - 2025-12-05 | `dailyftlk-a4f509b0` | Sri Lanka Overseas Chinese Association donates to cyclone relief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-a4f509b0)
@@ -49,18 +61,6 @@ A collection of lk_news documents.
 - 2025-12-05 | `dailyftlk-d95576ce` | Digital Wings takes off in Sri Lanka: Empowering students through technology | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-d95576ce)
 - 2025-12-05 | `dailyftlk-b2655f2c` | Secured Transactions Registry: Role of financial institutions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-b2655f2c)
 - 2025-12-05 | `dailyftlk-49dfbfaa` | Humanities, Arts and Social Sciences under pressure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-49dfbfaa)
-- 2025-12-05 | `dailyftlk-cfe00b2b` | National campaign begins to combat gender-based violence in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-cfe00b2b)
-- 2025-12-05 | `dailyftlk-480bf823` | Rebuilding Sri Lanka beyond the catastrophe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-480bf823)
-- 2025-12-05 | `dailyftlk-0ed10ca6` | The usual suspects  crop up in post-disaster Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-dailyftlk-0ed10ca6)
-- 2025-12-04 | `dailyftlk-88a1985d` | Who decides what ‘Rebuilding’ looks like after Ditwah? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-88a1985d)
-- 2025-12-04 | `virakesarilk-85f7355a` | கொழும்பு ஜெம்பெட்டா வீதியில் 5 வீடுகள் இடிந்து வீழந்தன : உயிர் சேதம் தவிர்க்கப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-85f7355a)
-- 2025-12-04 | `dailyftlk-fe47b20e` | Cyclone Ditwah’s trail: lives lost, lessons unlearned | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-dailyftlk-fe47b20e)
-- 2025-12-04 | `virakesarilk-43798269` | இந்திய விமானப்படை C-17 விமானம் கொழும்பில் தரையிறங்கியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-43798269)
-- 2025-12-04 | `virakesarilk-197ab220` | டித்வா புயல் அனர்த்தங்களில் பாதிக்கப்பட்டோர் எண்ணிக்கை 18 இலட்சத்தை கடந்தது - அனர்த்த முகாமைத்துவ மத்திய நிலையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-197ab220)
-- 2025-12-04 | `virakesarilk-5f088338` | இயற்கை அனர்த்தங்களை மாற்றமுடியாது; எதிர்க்கட்சிகளின் குறுகிய அரசியல் குற்றச்சாட்டுகள் - சரத் பொன்சேகா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-5f088338)
-- 2025-12-04 | `virakesarilk-3a6b85af` | கோப்பாயில் வெள்ள வாய்க்காலுக்குள் மண் போடப்பட்டது தெரியாது - தவிசாளர் தெரிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-3a6b85af)
-- 2025-12-04 | `virakesarilk-f1ee651d` | சீன கம்யூனிஸ்ட் கட்சியின் சர்வதேச பிரதிநிதிகள் குழு பெலவத்தவுக்கு விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-f1ee651d)
-- 2025-12-04 | `virakesarilk-064092e2` | கமத்தொழில், கால்நடை வளங்கள் மற்றும் நீர்ப்பாசனத் துறையை மீளக் கட்டியெழுப்ப எடுக்க வேண்டிய துரித நடவடிக்கைகள் குறித்த கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-04-virakesarilk-064092e2)
 
 ---
 
