@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_01:47:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_02:19:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,510** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,515** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-06-dailyftlk-30770d12",
-    "num": "dailyftlk-30770d12",
+    "doc_id": "2025-12-06-dailyftlk-b70390ca",
+    "num": "dailyftlk-b70390ca",
     "date_str": "2025-12-06",
-    "description": "High powered delegation of Indian IT CEOs in town",
-    "url_metadata": "https://www.ft.lk/business/High-powered-delegation-of-Indian-IT-CEOs-in-town/34-785313",
+    "description": "President calls for permanent housing solutions in high-risk disaster-prone areas",
+    "url_metadata": "https://www.ft.lk/news/President-calls-for-permanent-housing-solutions-in-high-risk-disaster-prone-areas/56-785319",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764964172.0
+    "time_ut": 1764966444.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-06 | `dailyftlk-b70390ca` | President calls for permanent housing solutions in high-risk disaster-prone areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-b70390ca)
+- 2025-12-06 | `dailyftlk-600f6bd9` | Putin expresses condolences to SL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-600f6bd9)
+- 2025-12-06 | `dailyftlk-b1b00413` | Naina Thambi sworn in as Member of Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-b1b00413)
+- 2025-12-06 | `dailyftlk-9d31cf63` | PM thanks diplomatic community for swift response, flags ongoing post-flood challenges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-9d31cf63)
+- 2025-12-06 | `dailyftlk-81f640ce` | Cross-party Opposition MPs visit cyclone-hit Kandy district | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-81f640ce)
 - 2025-12-06 | `dailyftlk-30770d12` | High powered delegation of Indian IT CEOs in town | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-30770d12)
 - 2025-12-06 | `dailyftlk-7c56191a` | People’s Bank partners Western Provincial Council to offer concessional MSME loans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-7c56191a)
 - 2025-12-06 | `dailyftlk-d1e3bc71` | Maldivian business magnate donates $200,000 to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-d1e3bc71)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-12-06 | `dailyftlk-ca8cebbe` | Gangaramaya Temple donates Rs. 30 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-ca8cebbe)
 - 2025-12-06 | `dailyftlk-2cc1b70f` | Beyond the rain: Systemic lessons  from the Ditwah catastrophe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-2cc1b70f)
 - 2025-12-06 | `dailyftlk-44841711` | Experience on rebuilding funds: Selective amnesia? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-44841711)
-- 2025-12-05 | `virakesarilk-a023e157` | பேரனர்த்தத்தின் அழிவிலிருந்து நாட்டைக் கட்டியெழுப்ப ஒற்றுமையுடன் கைகோருங்கள் - உலகளாவிய புலம்பெயர் தமிழர் அமைப்புக்களுக்கு அனைத்துலகத் தமிழர் பேரவை அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-virakesarilk-a023e157)
-- 2025-12-05 | `virakesarilk-bf9d2b2d` | அனர்த்தத்தை எதிர்கொண்டு புதிய பாதையில் ஒன்றாகப் பயணித்து நாட்டைக் கட்டியெழுப்புவோம் : ஜனாதிபதியின் முழுமையான உரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-virakesarilk-bf9d2b2d)
-- 2025-12-05 | `lankadeepalk-9dde8334` | විසර්ජන පනතට කතානායක සහතිකය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-9dde8334)
-- 2025-12-05 | `virakesarilk-88c2bd53` | விவசாயம், பெருந்தோட்டத்துறையை மேம்படுத்த சர்வதேச நாடுகளின் ஒத்துழைப்பைப் பெறுவது தொடர்பில் கவனம் செலுத்தவும் - ஹெக்டர் அப்புஹாமி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-virakesarilk-88c2bd53)
-- 2025-12-05 | `lankadeepalk-efc2b7f0` | මල්වතු ඔයට වැටුණු අයියගේ සිරු හමුවේ:නංගී තවමත් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-efc2b7f0)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-06 01:46:49",
-  "n_docs": 91510,
+  "time_updated": "2025-12-06 02:19:02",
+  "n_docs": 91515,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 91510,
+  "n_docs_with_text": 91515,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-06",
-  "dataset_size": 1371784928,
+  "dataset_size": 1371802154,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-06-dailyftlk-30770d12",
-    "num": "dailyftlk-30770d12",
+    "doc_id": "2025-12-06-dailyftlk-b70390ca",
+    "num": "dailyftlk-b70390ca",
     "date_str": "2025-12-06",
-    "description": "High powered delegation of Indian IT CEOs in town",
-    "url_metadata": "https://www.ft.lk/business/High-powered-delegation-of-Indian-IT-CEOs-in-town/34-785313",
+    "description": "President calls for permanent housing solutions in high-risk disaster-prone areas",
+    "url_metadata": "https://www.ft.lk/news/President-calls-for-permanent-housing-solutions-in-high-risk-disaster-prone-areas/56-785319",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764964172.0
+    "time_ut": 1764966444.0
   }
 }
