@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_00:23:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_00:46:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,495** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,497** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-05-virakesarilk-a023e157",
-    "num": "virakesarilk-a023e157",
-    "date_str": "2025-12-05",
-    "description": "\u0baa\u0bc7\u0bb0\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0bb4\u0bbf\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc6\u0bb4\u0bc1\u0baa\u0bcd\u0baa \u0b92\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc8\u0b95\u0bcb\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd\u00a0- \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u00a0\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb2\u0b95\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/232571",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1764957600.0
+    "doc_id": "2025-12-06-dailyftlk-2cc1b70f",
+    "num": "dailyftlk-2cc1b70f",
+    "date_str": "2025-12-06",
+    "description": "Beyond the rain: Systemic lessons  from the Ditwah catastrophe",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-the-rain-Systemic-lessons-from-the-Ditwah-catastrophe/4-785295",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1764961524.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-06 | `dailyftlk-2cc1b70f` | Beyond the rain: Systemic lessons  from the Ditwah catastrophe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-2cc1b70f)
+- 2025-12-06 | `dailyftlk-44841711` | Experience on rebuilding funds: Selective amnesia? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-44841711)
 - 2025-12-05 | `virakesarilk-a023e157` | பேரனர்த்தத்தின் அழிவிலிருந்து நாட்டைக் கட்டியெழுப்ப ஒற்றுமையுடன் கைகோருங்கள் - உலகளாவிய புலம்பெயர் தமிழர் அமைப்புக்களுக்கு அனைத்துலகத் தமிழர் பேரவை அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-virakesarilk-a023e157)
 - 2025-12-05 | `virakesarilk-bf9d2b2d` | அனர்த்தத்தை எதிர்கொண்டு புதிய பாதையில் ஒன்றாகப் பயணித்து நாட்டைக் கட்டியெழுப்புவோம் : ஜனாதிபதியின் முழுமையான உரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-virakesarilk-bf9d2b2d)
 - 2025-12-05 | `lankadeepalk-9dde8334` | විසර්ජන පනතට කතානායක සහතිකය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-9dde8334)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-05 | `tamilmirrorlk-14820c41` | “வீட்டுக்குள் ஜெனரேட்டர்களை வைக்க வேண்டாம்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-tamilmirrorlk-14820c41)
 - 2025-12-05 | `virakesarilk-17d57e69` | இலங்கையில் நிலநடுக்கம் ஏற்படுமா ? எச்சரிக்கை தொடர்பான விபரம் இதோ ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-virakesarilk-17d57e69)
 - 2025-12-05 | `lankadeepalk-87dd76b1` | අයවැය තුනෙන් දෙකෙන් සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-87dd76b1)
-- 2025-12-05 | `lankadeepalk-3d631031` | 2026 අයවැය තුනෙන් දෙකෙන් සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-3d631031)
-- 2025-12-05 | `lankadeepalk-3dd02dbd` | සේසතම නැති වූ අයට ජීවනෝපායක් ලැබෙන තෙක් පනස්දාහක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-3dd02dbd)
 
 ---
 

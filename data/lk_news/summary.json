@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-06 00:22:40",
-  "n_docs": 91495,
+  "time_updated": "2025-12-06 00:45:43",
+  "n_docs": 91497,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 91495,
+  "n_docs_with_text": 91497,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2025-12-05",
-  "dataset_size": 1371262084,
+  "date_str_max": "2025-12-06",
+  "dataset_size": 1371642637,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "si",
     "ta",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-05-virakesarilk-a023e157",
-    "num": "virakesarilk-a023e157",
-    "date_str": "2025-12-05",
-    "description": "\u0baa\u0bc7\u0bb0\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0bb4\u0bbf\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc6\u0bb4\u0bc1\u0baa\u0bcd\u0baa \u0b92\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc8\u0b95\u0bcb\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd\u00a0- \u0b89\u0bb2\u0b95\u0bb3\u0bbe\u0bb5\u0bbf\u0baf \u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b85\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u00a0\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb2\u0b95\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bb5\u0bc8 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/232571",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1764957600.0
+    "doc_id": "2025-12-06-dailyftlk-2cc1b70f",
+    "num": "dailyftlk-2cc1b70f",
+    "date_str": "2025-12-06",
+    "description": "Beyond the rain: Systemic lessons  from the Ditwah catastrophe",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-the-rain-Systemic-lessons-from-the-Ditwah-catastrophe/4-785295",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1764961524.0
   }
 }
