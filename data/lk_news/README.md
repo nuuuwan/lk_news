@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_01:15:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_01:47:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,508** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,510** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-06-dailyftlk-d1e3bc71",
-    "num": "dailyftlk-d1e3bc71",
+    "doc_id": "2025-12-06-dailyftlk-30770d12",
+    "num": "dailyftlk-30770d12",
     "date_str": "2025-12-06",
-    "description": "Maldivian business magnate donates $200,000 to Sri Lanka",
-    "url_metadata": "https://www.ft.lk/business/Maldivian-business-magnate-donates-200-000-to-Sri-Lanka/34-785310",
+    "description": "High powered delegation of Indian IT CEOs in town",
+    "url_metadata": "https://www.ft.lk/business/High-powered-delegation-of-Indian-IT-CEOs-in-town/34-785313",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1764963631.0
+    "time_ut": 1764964172.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-06 | `dailyftlk-30770d12` | High powered delegation of Indian IT CEOs in town | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-30770d12)
+- 2025-12-06 | `dailyftlk-7c56191a` | People’s Bank partners Western Provincial Council to offer concessional MSME loans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-7c56191a)
 - 2025-12-06 | `dailyftlk-d1e3bc71` | Maldivian business magnate donates $200,000 to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-d1e3bc71)
 - 2025-12-06 | `dailyftlk-a81299e2` | Apparel sector activates industry-wide relief, recovery effort | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-a81299e2)
 - 2025-12-06 | `dailyftlk-891e8a0b` | SLT‑Mobitel calls for public support to keep Sri Lanka connected | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-891e8a0b)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-05 | `lankadeepalk-9dde8334` | විසර්ජන පනතට කතානායක සහතිකය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-9dde8334)
 - 2025-12-05 | `virakesarilk-88c2bd53` | விவசாயம், பெருந்தோட்டத்துறையை மேம்படுத்த சர்வதேச நாடுகளின் ஒத்துழைப்பைப் பெறுவது தொடர்பில் கவனம் செலுத்தவும் - ஹெக்டர் அப்புஹாமி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-virakesarilk-88c2bd53)
 - 2025-12-05 | `lankadeepalk-efc2b7f0` | මල්වතු ඔයට වැටුණු අයියගේ සිරු හමුවේ:නංගී තවමත් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-efc2b7f0)
-- 2025-12-05 | `lankadeepalk-fc11191e` | හෙරණ නගර සභා අයවැයි ජාජබ පරාදයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-fc11191e)
-- 2025-12-05 | `tamilmirrorlk-ce9a5174` | நெடுஞ்சாலையில் அனர்த்தம்: பெண் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-tamilmirrorlk-ce9a5174)
 
 ---
 
