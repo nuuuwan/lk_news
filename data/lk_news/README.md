@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_19:48:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_20:21:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,456** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,460** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-05-lankadeepalk-87dd76b1",
-    "num": "lankadeepalk-87dd76b1",
+    "doc_id": "2025-12-05-lankadeepalk-34b82058",
+    "num": "lankadeepalk-34b82058",
     "date_str": "2025-12-05",
-    "description": "\u0d85\u0dba\u0dc0\u0dd0\u0dba \u0dad\u0dd4\u0db1\u0dd9\u0db1\u0dca \u0daf\u0dd9\u0d9a\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0dba\u0dc0\u0dba-\u0dad\u0db1\u0db1-\u0daf\u0d9a\u0db1-\u0dc3\u0db8\u0db8\u0dad\u0dba/101-684749",
+    "description": "\u0dc0\u0dd0\u0dbd\u0dd2\u0db8\u0da9 - \u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba \u0db4\u0dcf\u0dbb \u0dba\u0dc5\u0dd2 \u0d85\u0dbb\u0dd3",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc0\u0dbd\u0db8\u0da9-\u0db1\u0dc0\u0dbb\u0d91\u0dc5\u0dba-\u0db4\u0dbb-\u0dba\u0dc5-\u0d85\u0dbb/101-684751",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1764944083.0
+    "time_ut": 1764945431.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-05 | `lankadeepalk-34b82058` | වැලිමඩ - නුවරඑළිය පාර යළි අරී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-34b82058)
+- 2025-12-05 | `tamilmirrorlk-93703c35` | தகவல் தெரிந்தவர்ஙள் அறிவிக்கவும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-tamilmirrorlk-93703c35)
+- 2025-12-05 | `lankadeepalk-8bc2a5ff` | අධිවේගීයේ අනතුරකින් කතක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-8bc2a5ff)
+- 2025-12-05 | `tamilmirrorlk-14820c41` | “வீட்டுக்குள் ஜெனரேட்டர்களை வைக்க வேண்டாம்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-tamilmirrorlk-14820c41)
 - 2025-12-05 | `lankadeepalk-87dd76b1` | අයවැය තුනෙන් දෙකෙන් සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-87dd76b1)
 - 2025-12-05 | `lankadeepalk-3dd02dbd` | සේසතම නැති වූ අයට ජීවනෝපායක් ලැබෙන තෙක් පනස්දාහක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-3dd02dbd)
 - 2025-12-05 | `tamilmirrorlk-a98def17` | வரவு செலவுத் திட்டம் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-tamilmirrorlk-a98def17)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-05 | `lankadeepalk-3ba213b3` | නුවරඑළිය මන්ත්‍රිනිය පාර්ලිමේන්තුවේ  හඬා වැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-3ba213b3)
 - 2025-12-05 | `lankadeepalk-58fd21f6` | ජනපති මැතිසබයට එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-58fd21f6)
 - 2025-12-05 | `lankadeepalk-1de78b2c` | “රට නැවත ගොඩනැගීමට ජාතික සැලැස්මක් ඕනෑ“ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-1de78b2c)
-- 2025-12-05 | `lankadeepalk-bd8bf0df` | මාලදිවයිනෙන් ටූනා මාළු පෙට්ටි 25,000ක පරිත්‍යාගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-bd8bf0df)
-- 2025-12-05 | `lankadeepalk-61b103af` | ජීවිත 14ක් බිලිගත් නාවලපිටියේ නාය යාම | ගුවන් දර්ශන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-lankadeepalk-61b103af)
-- 2025-12-05 | `virakesarilk-c2337de8` | 4 மாவட்டங்களுக்கு விடுக்கப்பட்டுள்ள மண் சரிவு அபாய எச்சரிக்கை நீடிப்பு - தேசிய கட்டட ஆராய்ச்சி நிறுவனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-virakesarilk-c2337de8)
-- 2025-12-05 | `virakesarilk-23fffc63` | ஜனாதிபதியின் செயலாளரை சந்தித்தனர் சிங்கப்பூர், மலேசியாவை சேர்ந்த தேரர்கள் அடங்கிய குழுவினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-05-virakesarilk-23fffc63)
 
 ---
 
