@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_21:16:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_21:47:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,614** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,617** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-06-tamilmirrorlk-606c1cfd",
-    "num": "tamilmirrorlk-606c1cfd",
+    "doc_id": "2025-12-06-tamilmirrorlk-408ff7c3",
+    "num": "tamilmirrorlk-408ff7c3",
     "date_str": "2025-12-06",
-    "description": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd\u2019\u2019\u0b9f\u0bbf\u0ba4\u0bcd\u0bb5\u0bbe\u2019\u2019 \u0baa\u0bc1\u0baf\u0bb2\u0bbe\u0bb2\u0bcd  221 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd-\u0b9f\u0bbf\u0ba4\u0bcd\u0bb5\u0bbe-\u0baa\u0bc1\u0baf\u0bb2\u0bbe\u0bb2\u0bcd-221-\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-369142",
+    "description": "\u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bb2\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd: \u0bae\u0bc1\u0ba9\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bb2\u0bcd-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0bae\u0bc1\u0ba9\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/76-369144",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1765033485.0
+    "time_ut": 1765036849.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-06 | `tamilmirrorlk-408ff7c3` | பலத்த மின்னல் வெட்டும்: முன் எச்சரிக்கை அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-408ff7c3)
+- 2025-12-06 | `lankadeepalk-891b0e4d` | දෙහිවල වෙඩි තැබීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-891b0e4d)
+- 2025-12-06 | `tamilmirrorlk-c0c94d11` | தெஹிவளை துப்பாக்கி சூட்டில் ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-c0c94d11)
 - 2025-12-06 | `tamilmirrorlk-606c1cfd` | கிழக்கில்’’டித்வா’’ புயலால்  221 பாடசாலைகள் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-606c1cfd)
 - 2025-12-06 | `lankadeepalk-bbc152b6` | ඉන්දීය ආධාර රැගත් 9 වැනි යානයත් එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-bbc152b6)
 - 2025-12-06 | `lankadeepalk-f4545f49` | ආපදා වගා වන්දි  දෙසැම්බර් 30ට කලින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-f4545f49)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-06 | `lankadeepalk-efd5f530` | නුවරඑලිය ගොඩනගන්න ලොකු පිරිසක් එක් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-efd5f530)
 - 2025-12-06 | `virakesarilk-e0fb4560` | தமிழக முதல்வர் மு க ஸ்டாலினை சந்தித்த ஜியோ ஹாட் ஸ்டார் டிஜிட்டல் தள குழுவினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-e0fb4560)
 - 2025-12-06 | `virakesarilk-0c25327e` | மல்வத்து மகாநாயக்க தேரரை சந்தித்தார் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-0c25327e)
-- 2025-12-06 | `virakesarilk-34c51adf` | மூதூரில் பிரதான குடிநீர் குழாயை இணைக்கும் பாரிய நடவடிக்கை முன்னெடுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-34c51adf)
-- 2025-12-06 | `virakesarilk-fd3b06f9` | யாழ். நிலத்தடி நீரின் பாதுகாப்புக்கு இன்றியமையாத வழுக்கையாற்றைப் பாதுகாக்க வேண்டும் - வடக்கு ஆளுநர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-fd3b06f9)
-- 2025-12-06 | `virakesarilk-336e7256` | ஜெனரேட்டரில் கசிந்த விசவாயு : மரணமடைந்த குடும்ப பெண்ணின் சடலம் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-336e7256)
 
 ---
 
