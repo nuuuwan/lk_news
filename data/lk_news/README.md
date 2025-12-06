@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_09:48:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_10:19:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,541** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,543** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-06-virakesarilk-a6faf10c",
-    "num": "virakesarilk-a6faf10c",
+    "doc_id": "2025-12-06-tamilmirrorlk-3e29547e",
+    "num": "tamilmirrorlk-3e29547e",
     "date_str": "2025-12-06",
-    "description": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd\u0b95\u0bb3\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bbf\u0baf 4 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/232578",
+    "description": "\u0b95\u0bb1\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb1\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf-\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd-\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-369128",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1764994020.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1764996363.0
 }
 ```
 
@@ -41,9 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-06 | `tamilmirrorlk-3e29547e` | கற்பிட்டி கடற்பரப்பில் போதைப் பொருள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-3e29547e)
 - 2025-12-06 | `virakesarilk-a6faf10c` | யாழில் சைக்கிள்களை திருடிய 4 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-a6faf10c)
 - 2025-12-06 | `lankadeepalk-b96bff73` | ආගමික මධ්‍යස්ථනයකින් කොටි එක හමාරක කල් ඉකුත් වූ ආහාර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-b96bff73)
 - 2025-12-06 | `lankadeepalk-cccc85f1` | පළාත් කීපයක අදත් මිලි මීටර් 100 ඉක්ම වූ තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-cccc85f1)
+- 2025-12-06 | `adalk-d2d68afd` | පස්වරු 1න් පසුව වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-adalk-d2d68afd)
 - 2025-12-06 | `lankadeepalk-bf6b51ff` | ජනපති පාර්ලිමේන්තුව අමතා කළ සම්පූර්ණ කතාව | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-bf6b51ff)
 - 2025-12-06 | `adalk-5fec6f76` | අයහපත් කාලගුණයෙන් පීඩාවට පත්වු ව්‍යාපාර හා පුද්ගලයන්ට සහන ලබාදිමට මහ බැංකුවෙන් චක්‍ර ලේඛයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-adalk-5fec6f76)
 - 2025-12-06 | `tamilmirrorlk-1263f390` | பம்பலப்பிட்டியில் விபத்து : 5 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-1263f390)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-06 | `dailyftlk-b1b00413` | Naina Thambi sworn in as Member of Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-b1b00413)
 - 2025-12-06 | `dailyftlk-9d31cf63` | PM thanks diplomatic community for swift response, flags ongoing post-flood challenges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-9d31cf63)
 - 2025-12-06 | `dailyftlk-81f640ce` | Cross-party Opposition MPs visit cyclone-hit Kandy district | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-81f640ce)
-- 2025-12-06 | `dailyftlk-30770d12` | High powered delegation of Indian IT CEOs in town | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-30770d12)
-- 2025-12-06 | `dailyftlk-7c56191a` | People’s Bank partners Western Provincial Council to offer concessional MSME loans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-dailyftlk-7c56191a)
 
 ---
 
