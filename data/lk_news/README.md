@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_16:47:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_17:15:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,601** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,603** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2025-12-06 | `virakesarilk-02784530` | கார்த்தி நடிக்கும் 'வா வாத்தியார்' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-02784530)
+- 2025-12-06 | `lankadeepalk-d2527f35` | අනවසර ඉදිකිරීම් වලට යළි ඉඩක් නැහැ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-d2527f35)
 - 2025-12-06 | `virakesarilk-dee32195` | ஜீ. வி. பிரகாஷ் குமார் நடிக்கும் 'ஹேப்பி ராஜ் ' படத்தின் டைட்டில் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-dee32195)
 - 2025-12-06 | `virakesarilk-c3fd214d` | நூறு கோடி ரூபாய் வசூல் கிளப்பில் இணைந்த தனுஷின் 'தேரே இஷ்க் மே' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-c3fd214d)
 - 2025-12-06 | `lankadeepalk-efd5f530` | නුවරඑලිය ගොඩනගන්න ලොකු පිරිසක් එක් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-efd5f530)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-06 | `virakesarilk-5cc702ca` | டித்வா புயல், வெள்ளத்தால் பாதிக்கப்பட்ட மன்னார் பனங்கட்டுகொட்டு மீனவர்கள் கைவிடப்பட்ட நிலையில்.... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-5cc702ca)
 - 2025-12-06 | `tamilmirrorlk-15ecb78b` | கண் தொற்றுகள் பரவும் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-15ecb78b)
 - 2025-12-06 | `virakesarilk-e0feb0bc` | வீடுகளை சுத்தம் செய்ய இழப்பீடு : விண்ணப்பப்படிவம் இதோ ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-e0feb0bc)
-- 2025-12-06 | `virakesarilk-b51f3361` | நாட்டில் வடகிழக்கு பருவமழை வலுப்பெறுகின்றது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-b51f3361)
 
 ---
 
