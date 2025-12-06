@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_12:49:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_13:17:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,559** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,563** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-06-tamilmirrorlk-d361812a",
-    "num": "tamilmirrorlk-d361812a",
+    "doc_id": "2025-12-06-lankadeepalk-0b7ac478",
+    "num": "lankadeepalk-0b7ac478",
     "date_str": "2025-12-06",
-    "description": "\u0bae\u0b9f\u0bcd\u0b9f\u0bc1.\u0b9a\u0bbf\u0bb1\u0bc8 \u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bae\u0ba9\u0bbf\u0ba4\u0bbe\u0baa\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0b9f\u0bcd\u0b9f\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc8-\u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0bae\u0ba9\u0bbf\u0ba4\u0bbe\u0baa\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd/76-369134",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1765004274.0
+    "description": "\u0dbb\u0da2\u0dba\u0dda \u0dc3\u0dda\u0dc0\u0d9a \u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca \u0dbb\u0dc4\u0dd2\u0dad \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4 \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da2\u0dba-\u0dc3\u0dc0\u0d9a-\u0dc0\u0da7\u0db4-\u0dbb\u0dc4\u0dad-\u0db1\u0dc0\u0da9-\u0d85\u0dc0\u0dbd\u0d9c\u0dba/1-684764",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1765006283.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-06 | `lankadeepalk-0b7ac478` | රජයේ සේවක වැටුප් රහිත නිවාඩු අවලංගුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-0b7ac478)
+- 2025-12-06 | `tamilmirrorlk-2c5f6b64` | 3 மாவட்டங்களில் நிலச்சரிவு அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-2c5f6b64)
+- 2025-12-06 | `tamilmirrorlk-a6faf10c` | யாழில் சைக்கிள்களை திருடிய 4 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-a6faf10c)
+- 2025-12-06 | `tamilmirrorlk-7b9475d7` | சஜித் அணியின் உறுப்பினர் இராஜினாமா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-7b9475d7)
 - 2025-12-06 | `tamilmirrorlk-d361812a` | மட்டு.சிறை கைதிகளின் மனிதாபிமானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-d361812a)
 - 2025-12-06 | `tamilmirrorlk-6baf2e6f` | வருமான வரியை செலுத்த காலக்கெடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-6baf2e6f)
 - 2025-12-06 | `tamilmirrorlk-179a30db` | பிற்பகல் 1.00 மணிக்குப் பிறகு மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-179a30db)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-06 | `adalk-57f4d814` | සෞඛ්‍යයේ නිවාඩු ගැන නුදුරේදීම දැනුම් දීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-adalk-57f4d814)
 - 2025-12-06 | `lankadeepalk-b96bff73` | ආගමික මධ්‍යස්ථනයකින් කොටි එක හමාරක කල් ඉකුත් වූ ආහාර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-b96bff73)
 - 2025-12-06 | `adalk-903e7b4a` | බලපෑමට ලක්වූ මාර් 256න් 252ක් විවෘතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-adalk-903e7b4a)
-- 2025-12-06 | `lankadeepalk-cccc85f1` | පළාත් කීපයක අදත් මිලි මීටර් 100 ඉක්ම වූ තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-cccc85f1)
-- 2025-12-06 | `adalk-d2d68afd` | පස්වරු 1න් පසුව වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-adalk-d2d68afd)
-- 2025-12-06 | `lankadeepalk-bf6b51ff` | ජනපති පාර්ලිමේන්තුව අමතා කළ සම්පූර්ණ කතාව | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-bf6b51ff)
-- 2025-12-06 | `adalk-5fec6f76` | අයහපත් කාලගුණයෙන් පීඩාවට පත්වු ව්‍යාපාර හා පුද්ගලයන්ට සහන ලබාදිමට මහ බැංකුවෙන් චක්‍ර ලේඛයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-adalk-5fec6f76)
 
 ---
 
