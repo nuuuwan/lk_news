@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_23:16:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_23:51:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,620** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,622** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -55,12 +55,12 @@ A collection of lk_news documents.
 - 2025-12-06 | `lankadeepalk-9b5a4325` | ජනපති අස්ගිරි මහා නා හිමි බැහැ දකී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-9b5a4325)
 - 2025-12-06 | `tamilmirrorlk-81b5e50e` | ஒருங்கிணைந்த  பொறிமுறை தேவை:ஜனாதிபதி வலியுறுத்தினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-81b5e50e)
 - 2025-12-06 | `tamilmirrorlk-a41821d3` | அனர்த்த மரணங்கள் அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-a41821d3)
+- 2025-12-06 | `colombotelegraphcom-207d1471` | The Way Forward For Electricity Reforms In Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-colombotelegraphcom-207d1471)
+- 2025-12-06 | `colombotelegraphcom-11d5ab48` | Leadership In The Storm: How The AKD Govt. Is Turning The Ditwah Disaster Into A National Recovery Mission | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-colombotelegraphcom-11d5ab48)
 - 2025-12-06 | `virakesarilk-e7092049` | இயல்பு வாழ்வை மீட்டெடுக்க, சாதாரண அரச பொறிமுறைகளுக்கு அப்பாற்பட்ட செயல்பாட்டு பொறிமுறை அவசியம் ; ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-e7092049)
 - 2025-12-06 | `virakesarilk-1a78560e` | மண்சரிவு அபாயம்:  5 மாவட்டங்களுக்கு விடுக்கப்பட்டுள்ள எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-1a78560e)
 - 2025-12-06 | `virakesarilk-02784530` | கார்த்தி நடிக்கும் 'வா வாத்தியார்' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-02784530)
 - 2025-12-06 | `lankadeepalk-d2527f35` | අනවසර ඉදිකිරීම් වලට යළි ඉඩක් නැහැ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-d2527f35)
-- 2025-12-06 | `virakesarilk-dee32195` | ஜீ. வி. பிரகாஷ் குமார் நடிக்கும் 'ஹேப்பி ராஜ் ' படத்தின் டைட்டில் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-dee32195)
-- 2025-12-06 | `virakesarilk-c3fd214d` | நூறு கோடி ரூபாய் வசூல் கிளப்பில் இணைந்த தனுஷின் 'தேரே இஷ்க் மே' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-c3fd214d)
 
 ---
 
