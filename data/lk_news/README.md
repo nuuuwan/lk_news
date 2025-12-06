@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_22:22:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--06_22:45:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,617** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,619** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-06-tamilmirrorlk-408ff7c3",
-    "num": "tamilmirrorlk-408ff7c3",
+    "doc_id": "2025-12-06-lankadeepalk-f29f79ed",
+    "num": "lankadeepalk-f29f79ed",
     "date_str": "2025-12-06",
-    "description": "\u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bb2\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd: \u0bae\u0bc1\u0ba9\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bb2\u0bcd-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0bae\u0bc1\u0ba9\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/76-369144",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1765036849.0
+    "description": "\u0dc3\u0dca\u0dc0\u0dd2\u0da7\u0dca\u0dc3\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba\u0dd9\u0db1\u0dca \u0d86\u0db0\u0dcf\u0dbb \u0dbb\u0dd0\u0d9c\u0dad\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0d9a\u0dca \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc3\u0dc0\u0da7\u0dc3\u0dbb\u0dbd\u0db1\u0dad\u0dba\u0db1-\u0d86\u0db0\u0dbb-\u0dbb\u0d9c\u0dad-\u0d9c\u0dc0\u0db1-\u0dba\u0db1\u0dba\u0d9a-\u0daf\u0dc0\u0dba\u0db1\u0da7/101-684775",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1765040943.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-06 | `lankadeepalk-f29f79ed` | ස්විට්සර්ලන්තයෙන් ආධාර රැගත් ගුවන් යානයක් දිවයිනට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-f29f79ed)
+- 2025-12-06 | `tamilmirrorlk-cf6d9a85` | நுகர்வோருக்கு விசேட அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-cf6d9a85)
 - 2025-12-06 | `tamilmirrorlk-408ff7c3` | பலத்த மின்னல் வெட்டும்: முன் எச்சரிக்கை அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-408ff7c3)
 - 2025-12-06 | `lankadeepalk-891b0e4d` | දෙහිවල වෙඩි තැබීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-891b0e4d)
 - 2025-12-06 | `tamilmirrorlk-c0c94d11` | தெஹிவளை துப்பாக்கி சூட்டில் ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-c0c94d11)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-06 | `virakesarilk-dee32195` | ஜீ. வி. பிரகாஷ் குமார் நடிக்கும் 'ஹேப்பி ராஜ் ' படத்தின் டைட்டில் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-dee32195)
 - 2025-12-06 | `virakesarilk-c3fd214d` | நூறு கோடி ரூபாய் வசூல் கிளப்பில் இணைந்த தனுஷின் 'தேரே இஷ்க் மே' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-c3fd214d)
 - 2025-12-06 | `lankadeepalk-efd5f530` | නුවරඑලිය ගොඩනගන්න ලොකු පිරිසක් එක් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-efd5f530)
-- 2025-12-06 | `virakesarilk-e0fb4560` | தமிழக முதல்வர் மு க ஸ்டாலினை சந்தித்த ஜியோ ஹாட் ஸ்டார் டிஜிட்டல் தள குழுவினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-e0fb4560)
-- 2025-12-06 | `virakesarilk-0c25327e` | மல்வத்து மகாநாயக்க தேரரை சந்தித்தார் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-0c25327e)
 
 ---
 
