@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--07_06:05:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--07_06:31:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,647** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,649** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-07-tamilmirrorlk-e6df4888",
-    "num": "tamilmirrorlk-e6df4888",
+    "doc_id": "2025-12-07-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
     "date_str": "2025-12-07",
-    "description": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd 9 \u0b86\u0bb5\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0baa\u0bcd \u0baa\u0bca\u0ba4\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-9-\u0b86\u0bb5\u0ba4\u0bc1-\u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0baa\u0bcd-\u0baa\u0bca\u0ba4\u0bbf/175-369147",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/232634",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1765055221.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765068720.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-07 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-3a015e4a)
+- 2025-12-07 | `tamilmirrorlk-08700dee` | ’புடின் வருகை இந்திய - அமெரிக்க வர்த்தக ஒப்பந்தத்தை பாதிக்காது’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-tamilmirrorlk-08700dee)
 - 2025-12-07 | `tamilmirrorlk-e6df4888` | நாட்டை வந்தடைந்த இந்தியாவின் 9 ஆவது நிவாரணப் பொதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-tamilmirrorlk-e6df4888)
 - 2025-12-06 | `virakesarilk-9db9f2a0` | இங்கிலாந்தில் மருத்துவர் மீது பாலியல் துஷ்பிரயோகக் குற்றச்சாட்டு: 38 நோயாளர்கள் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-9db9f2a0)
 - 2025-12-06 | `virakesarilk-870803dc` | வடக்கில் பாதிக்கப்பட்ட கால்நடைகள் தொடர்பான விவரங்களைப் பதிவு செய்யுமாறு அறிவித்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-870803dc)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-06 | `tamilmirrorlk-606c1cfd` | கிழக்கில்’’டித்வா’’ புயலால்  221 பாடசாலைகள் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-tamilmirrorlk-606c1cfd)
 - 2025-12-06 | `lankadeepalk-bbc152b6` | ඉන්දීය ආධාර රැගත් 9 වැනි යානයත් එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-bbc152b6)
 - 2025-12-06 | `lankadeepalk-f4545f49` | ආපදා වගා වන්දි  දෙසැම්බර් 30ට කලින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-f4545f49)
-- 2025-12-06 | `virakesarilk-ee694c0f` | மனிதாபிமான நிவாரணப்பொருட்கள் அடங்கிய குழுவினருடன் இலங்கை வந்தது சுவிஸ் நாட்டு விமானம் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-virakesarilk-ee694c0f)
-- 2025-12-06 | `lankadeepalk-b4bdf94b` | අම්පාරට මහියංගණයට එළිය වැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-06-lankadeepalk-b4bdf94b)
 
 ---
 

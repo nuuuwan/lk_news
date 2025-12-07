@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-07 06:04:18",
-  "n_docs": 91647,
+  "time_updated": "2025-12-07 06:30:26",
+  "n_docs": 91649,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 91647,
+  "n_docs_with_text": 91649,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-07",
-  "dataset_size": 1374070660,
+  "dataset_size": 1374330206,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-07-tamilmirrorlk-e6df4888",
-    "num": "tamilmirrorlk-e6df4888",
+    "doc_id": "2025-12-07-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
     "date_str": "2025-12-07",
-    "description": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd 9 \u0b86\u0bb5\u0ba4\u0bc1 \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0baa\u0bcd \u0baa\u0bca\u0ba4\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8-\u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-9-\u0b86\u0bb5\u0ba4\u0bc1-\u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0baa\u0bcd-\u0baa\u0bca\u0ba4\u0bbf/175-369147",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/232634",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1765055221.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765068720.0
   }
 }
