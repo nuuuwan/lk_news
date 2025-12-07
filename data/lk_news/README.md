@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_02:46:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_03:15:46-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,824** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,828** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-08-virakesarilk-754e1efc",
-    "num": "virakesarilk-754e1efc",
+    "doc_id": "2025-12-08-dailyftlk-91fd7c88",
+    "num": "dailyftlk-91fd7c88",
     "date_str": "2025-12-08",
-    "description": "\u0bae\u0ba9\u0bbf\u0ba4 \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bb1\u0bcd\u0bb1 12,000 \u0b95\u0bbf\u0bb2\u0bcb \u0b87\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf \u0b9a\u0bc0\u0bb2\u0bcd \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/232724",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765141080.0
+    "description": "India delivers Bailey bridge to support Sri Lanka\u2019s post-Cyclone recovery",
+    "url_metadata": "https://www.ft.lk/news/India-delivers-Bailey-bridge-to-support-Sri-Lanka-s-post-Cyclone-recovery/56-785357",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765143476.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-08 | `dailyftlk-91fd7c88` | India delivers Bailey bridge to support Sri Lanka’s post-Cyclone recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-91fd7c88)
+- 2025-12-08 | `dailyftlk-e70c011d` | Japan provides emergency relief goods to disaster-affected people in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-e70c011d)
+- 2025-12-08 | `dailyftlk-c10a0de3` | Switzerland sends WASH relief support to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-c10a0de3)
+- 2025-12-08 | `dailyftlk-1c2be267` | Unity Plaza lights up Colombo’s digital future with largest triple-faced LED display | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-1c2be267)
 - 2025-12-08 | `virakesarilk-754e1efc` | மனித நுகர்வுக்கு பொருத்தமற்ற 12,000 கிலோ இறைச்சி சீல் வைக்கப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-754e1efc)
 - 2025-12-08 | `dailyftlk-55e7403e` | Mammoth task to rebuild a nation: How Sri Lanka can rise from the debris | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-55e7403e)
 - 2025-12-08 | `dailyftlk-bdcb45c6` | Will the response to Ditwah be worse than disaster itself? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-bdcb45c6)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-07 | `lankadeepalk-619c7c73` | අයි.එම්.එෆ් ණය පමාවක් ගත යුතුමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-lankadeepalk-619c7c73)
 - 2025-12-07 | `lankadeepalk-82e80006` | මහියංගන රෝහලේ පරිගණක ඒකකය යථා තත්වයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-lankadeepalk-82e80006)
 - 2025-12-07 | `virakesarilk-41e69fc7` | தமிழகத்திலிருந்து கப்பலில் நாட்டை வந்தடைந்த நிவாரண பொருட்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-41e69fc7)
-- 2025-12-07 | `lankadeepalk-af9a56c1` | කඩුගන්නාව පාර 24 පැයේම අරී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-lankadeepalk-af9a56c1)
-- 2025-12-07 | `virakesarilk-2f25675d` | சட்டவிரோத கட்டிடங்கள் நிர்மாணிக்கப்படுவதைத் தடுக்கத் தேவையான சட்டங்கள் வலுப்படுத்தப்படும் - குருநாகலில் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-2f25675d)
-- 2025-12-07 | `virakesarilk-f71d5019` | கண்டி மாவட்டத்தில் நிலச்சரிவு - மக்களை நேரில் சந்தித்து நலம் விசாரித்த மக்கள் பிரதிநிதிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-f71d5019)
-- 2025-12-07 | `virakesarilk-8c2552d4` | புதிய காற்றுச் சுழற்சி ஒன்று உருவாகியுள்ளது : வானிலை தொடர்பான முக்கிய விடயங்களை எதிர்வுகூறுகிறார் நாகமுத்து பிரதீபராஜா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-8c2552d4)
 
 ---
 
