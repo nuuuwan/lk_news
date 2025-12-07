@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-08 03:15:03",
-  "n_docs": 91828,
+  "time_updated": "2025-12-08 03:46:08",
+  "n_docs": 91834,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 91828,
+  "n_docs_with_text": 91834,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-08",
-  "dataset_size": 1376864429,
+  "dataset_size": 1376911560,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-08-dailyftlk-91fd7c88",
-    "num": "dailyftlk-91fd7c88",
+    "doc_id": "2025-12-08-dailyftlk-751accf6",
+    "num": "dailyftlk-751accf6",
     "date_str": "2025-12-08",
-    "description": "India delivers Bailey bridge to support Sri Lanka\u2019s post-Cyclone recovery",
-    "url_metadata": "https://www.ft.lk/news/India-delivers-Bailey-bridge-to-support-Sri-Lanka-s-post-Cyclone-recovery/56-785357",
+    "description": "BOI Chief signals imminent breakthrough on long-delayed Sinopec investment deal",
+    "url_metadata": "https://www.ft.lk/business/BOI-Chief-signals-imminent-breakthrough-on-long-delayed-Sinopec-investment-deal/34-785371",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765143476.0
+    "time_ut": 1765145141.0
   }
 }
