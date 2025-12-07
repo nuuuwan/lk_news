@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_04:17:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_04:46:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,834** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,835** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-08-dailyftlk-751accf6",
-    "num": "dailyftlk-751accf6",
+    "doc_id": "2025-12-08-dailyftlk-1706b08f",
+    "num": "dailyftlk-1706b08f",
     "date_str": "2025-12-08",
-    "description": "BOI Chief signals imminent breakthrough on long-delayed Sinopec investment deal",
-    "url_metadata": "https://www.ft.lk/business/BOI-Chief-signals-imminent-breakthrough-on-long-delayed-Sinopec-investment-deal/34-785371",
+    "description": "President tours affected districts, reviews relief efforts and assures communities",
+    "url_metadata": "https://www.ft.lk/news/President-tours-affected-districts-reviews-relief-efforts-and-assures-communities/56-785372",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765145141.0
+    "time_ut": 1765149010.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-08 | `dailyftlk-1706b08f` | President tours affected districts, reviews relief efforts and assures communities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-1706b08f)
 - 2025-12-08 | `dailyftlk-751accf6` | BOI Chief signals imminent breakthrough on long-delayed Sinopec investment deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-751accf6)
 - 2025-12-08 | `dailyftlk-b8121c39` | Serendib Flour Mills recognised for excellence at National Quality Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-b8121c39)
 - 2025-12-08 | `dailyftlk-07a94831` | AmCham Sri Lanka and Wijeya Newspapers to host Farzana Baduel for strategic communications forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-07a94831)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-08 | `virakesarilk-4ca587c5` | அட்டமஸ்தானாதிபதி தேரரை ஜனாதிபதியை சந்தித்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-4ca587c5)
 - 2025-12-07 | `lankadeepalk-604126fd` | මාත මාධ්‍යවේදියෝ ආපදා වූ මධ්‍යවේදීන් සොයා යති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-lankadeepalk-604126fd)
 - 2025-12-07 | `lankadeepalk-4d790b23` | මාතර මාධ්‍යවේදියෝ ආපදා වූ මධ්‍යවේදීන් සොයා යති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-lankadeepalk-4d790b23)
-- 2025-12-07 | `virakesarilk-0dc1dff3` | இந்திய உயர்ஸ்தானிகரை சந்தித்து நன்றி தெரிவித்த நாமல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-0dc1dff3)
 
 ---
 
