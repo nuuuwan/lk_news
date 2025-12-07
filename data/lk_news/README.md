@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_01:47:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_02:19:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,818** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,822** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-08-dailyftlk-7226491b",
-    "num": "dailyftlk-7226491b",
+    "doc_id": "2025-12-08-dailyftlk-55e7403e",
+    "num": "dailyftlk-55e7403e",
     "date_str": "2025-12-08",
-    "description": "Unsung heroes of the Central Bank 1: Dr. A.G. Karunasena",
-    "url_metadata": "https://www.ft.lk/columns/Unsung-heroes-of-the-Central-Bank-1-Dr-A-G-Karunasena/4-785342",
+    "description": "Mammoth task to rebuild a nation: How Sri Lanka can rise from the debris",
+    "url_metadata": "https://www.ft.lk/columns/Mammoth-task-to-rebuild-a-nation-How-Sri-Lanka-can-rise-from-the-debris/4-785347",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765137073.0
+    "time_ut": 1765139770.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-08 | `dailyftlk-55e7403e` | Mammoth task to rebuild a nation: How Sri Lanka can rise from the debris | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-55e7403e)
+- 2025-12-08 | `dailyftlk-bdcb45c6` | Will the response to Ditwah be worse than disaster itself? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-bdcb45c6)
+- 2025-12-08 | `dailyftlk-b0e395ff` | Unlocking wealth in tea sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-b0e395ff)
+- 2025-12-08 | `dailyftlk-683e4095` | Natural disasters and  one-dimensional economies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-683e4095)
 - 2025-12-08 | `dailyftlk-7226491b` | Unsung heroes of the Central Bank 1: Dr. A.G. Karunasena | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-7226491b)
 - 2025-12-07 | `lankadeepalk-604126fd` | මාත මාධ්‍යවේදියෝ ආපදා වූ මධ්‍යවේදීන් සොයා යති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-lankadeepalk-604126fd)
 - 2025-12-07 | `lankadeepalk-4d790b23` | මාතර මාධ්‍යවේදියෝ ආපදා වූ මධ්‍යවේදීන් සොයා යති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-lankadeepalk-4d790b23)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-07 | `virakesarilk-8c2552d4` | புதிய காற்றுச் சுழற்சி ஒன்று உருவாகியுள்ளது : வானிலை தொடர்பான முக்கிய விடயங்களை எதிர்வுகூறுகிறார் நாகமுத்து பிரதீபராஜா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-8c2552d4)
 - 2025-12-07 | `tamilmirrorlk-b7eb8b9c` | கொழும்பில் பல வீதிகளில் வெள்ளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-tamilmirrorlk-b7eb8b9c)
 - 2025-12-07 | `virakesarilk-7d27269c` | யாழ். பண்ணை கடலில் நீச்சலடிச்ச நால்வரில் இருவர் உயிரிழப்பு - இருவர் ஆபத்தான நிலையில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-7d27269c)
-- 2025-12-07 | `virakesarilk-68d1b951` | சூறாவளி டிட்வா நிவாரணத்திற்காக அமெரிக்க விமானப்படையின் C-130J விமானங்கள் இலங்கைக்கு வந்தடைந்தன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-68d1b951)
-- 2025-12-07 | `adalk-1b8855e7` | හෝර්ටන්තැන්න ජාතික වනෝද්‍යාන මාර්ග දෙස් විදෙස් සංචාරකයින්ට පමණයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-adalk-1b8855e7)
-- 2025-12-07 | `virakesarilk-78db638e` | 5 மாவட்டங்களில் 50 பிரதேச செயலகப்பிரிவுகளுக்கு மண்சரிவு அபாய சிவப்பு எச்சரிக்கை நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-78db638e)
-- 2025-12-07 | `virakesarilk-6c270712` | இலங்கை தமிழ் அரசுக் கட்சி, ஜனநாயக தமிழ் தேசிய கூட்டணித் தலைவர்களுக்கு இடையே யாழில் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-6c270712)
 
 ---
 
