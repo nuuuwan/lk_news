@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--07_18:52:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--07_19:19:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,793** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,795** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-07-virakesarilk-4270f9e4",
-    "num": "virakesarilk-4270f9e4",
+    "doc_id": "2025-12-07-adalk-1b8855e7",
+    "num": "adalk-1b8855e7",
     "date_str": "2025-12-07",
-    "description": "\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8 \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 70 \u0bb0\u0bc2\u0baa\u0bbe\u0bb5\u0bbe\u0b95 \u0b89\u0baf\u0bb0\u0bc1\u0bae\u0bcd - \u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/232712",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765112580.0
+    "description": "\u0dc4\u0ddd\u0dbb\u0dca\u0da7\u0db1\u0dca\u0dad\u0dd0\u0db1\u0dca\u0db1 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc0\u0db1\u0ddd\u0daf\u0dca\u200d\u0dba\u0dcf\u0db1 \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0daf\u0dd9\u0dc3\u0dca \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7 \u0db4\u0db8\u0dab\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0ddd\u0dbb\u0dca\u0da7\u0db1\u0dca\u0dad\u0dd0\u0db1\u0dca\u0db1-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dc0\u0db1\u0ddd\u0daf\u0dca\u200d\u0dba\u0dcf\u0db1-\u0db8\u0dcf\u0dbb\u0dca\u0d9c-\u0daf\u0dd9\u0dc3\u0dca-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0dd2\u0db1\u0dca\u0da7-\u0db4\u0db8\u0dab\u0dba\u0dd2/11-420105",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1765113926.0
 }
 ```
 
@@ -41,8 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-07 | `adalk-1b8855e7` | හෝර්ටන්තැන්න ජාතික වනෝද්‍යාන මාර්ග දෙස් විදෙස් සංචාරකයින්ට පමණයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-adalk-1b8855e7)
 - 2025-12-07 | `virakesarilk-4270f9e4` | முட்டை ஒன்றின் விலை 70 ரூபாவாக உயரும் - அகில இலங்கை முட்டை வர்த்தகர்கள் சங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-4270f9e4)
 - 2025-12-07 | `virakesarilk-f3d15084` | அரசாங்க நடவடிக்கைகளில் குறைபாடுகள் - மன்னார் மறைமாவட்ட ஆயர் விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-f3d15084)
+- 2025-12-07 | `adalk-09e3cf45` | අරාබි එමිරයේ සිට 9වැනි ආධාරක ගුවන් යානයත් එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-adalk-09e3cf45)
 - 2025-12-07 | `adalk-71a5a0e8` | දිට්වාගෙන් පසු නැගිටින නුවරඑළිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-adalk-71a5a0e8)
 - 2025-12-07 | `virakesarilk-d96c213e` | 'பூமாலை' தொடக்கம்  'சாகர் பந்து' வரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-d96c213e)
 - 2025-12-07 | `virakesarilk-e86cf6ff` | மாகாண சபைத் தேர்தலுக்கான மக்கள் இயக்கம் அவசியமானதா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-e86cf6ff)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-07 | `lankadeepalk-dacaf271` | මහියංගන - මහනුවර මාර්ගය විවෘත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-lankadeepalk-dacaf271)
 - 2025-12-07 | `adalk-aa105ef4` | රු.කෝටි 25ක කුෂ් කටුනායකදි අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-adalk-aa105ef4)
 - 2025-12-07 | `virakesarilk-c8f29caa` | இயற்கை அனர்த்தங்கள் விடயத்தில் சம்பவங்களுக்கு பின்னர் சகலரும் புத்திசாலிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-c8f29caa)
-- 2025-12-07 | `virakesarilk-599e6288` | முடிவுக்கு வராத மோதலால் தொடரும் 'தேசிய துயரம்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-599e6288)
-- 2025-12-07 | `virakesarilk-854f45f2` | மட்டக்களப்பிலிருந்து மலையக மக்களுக்கு உலர் உணவுப் பொதிகளை அனுப்பிவைக்க ஏற்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-854f45f2)
 
 ---
 
