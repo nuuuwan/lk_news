@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--07_23:16:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--07_23:49:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,815** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,817** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,8 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2025-12-07 | `lankadeepalk-604126fd` | මාත මාධ්‍යවේදියෝ ආපදා වූ මධ්‍යවේදීන් සොයා යති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-lankadeepalk-604126fd)
+- 2025-12-07 | `lankadeepalk-4d790b23` | මාතර මාධ්‍යවේදියෝ ආපදා වූ මධ්‍යවේදීන් සොයා යති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-lankadeepalk-4d790b23)
+- 2025-12-07 | `virakesarilk-0dc1dff3` | இந்திய உயர்ஸ்தானிகரை சந்தித்து நன்றி தெரிவித்த நாமல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-0dc1dff3)
 - 2025-12-07 | `lankadeepalk-2e22b5cc` | බූස්ස බන්ධනාගාරයේ කලබලයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-lankadeepalk-2e22b5cc)
 - 2025-12-07 | `lankadeepalk-13d69079` | ජනපති- අටමස්ථානාධිපති නාහිමි බැහැ දකී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-lankadeepalk-13d69079)
 - 2025-12-07 | `lankadeepalk-c0bbd763` | පේරාදෙණිය කළු පාලම ගැන හෙට තීරණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-lankadeepalk-c0bbd763)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-07 | `virakesarilk-78db638e` | 5 மாவட்டங்களில் 50 பிரதேச செயலகப்பிரிவுகளுக்கு மண்சரிவு அபாய சிவப்பு எச்சரிக்கை நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-78db638e)
 - 2025-12-07 | `virakesarilk-6c270712` | இலங்கை தமிழ் அரசுக் கட்சி, ஜனநாயக தமிழ் தேசிய கூட்டணித் தலைவர்களுக்கு இடையே யாழில் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-6c270712)
 - 2025-12-07 | `virakesarilk-f1365d6e` | அனர்த்தங்களில் சிக்கி புதையுண்ட 8 சடலங்கள் துபாய் சிவில் பாதுகாப்பு அதிகாரிகளால் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-f1365d6e)
-- 2025-12-07 | `virakesarilk-5d3c6bd7` | உணவுப் பொருட்களை வாங்கும்போது அவதானமாக இருக்குமாறு பொது சுகாதார பரிசோதகர்கள் அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-5d3c6bd7)
-- 2025-12-07 | `virakesarilk-f3679595` | அலுவலக புகையிரதங்களைப் பயன்படுத்தியோருக்கான விசேட பஸ் சேவை நேரங்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-07-virakesarilk-f3679595)
 
 ---
 
