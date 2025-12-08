@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_10:49:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_11:20:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,875** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,877** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-08-lankadeepalk-50552d2b",
-    "num": "lankadeepalk-50552d2b",
+    "doc_id": "2025-12-08-lankadeepalk-d625f6f8",
+    "num": "lankadeepalk-d625f6f8",
     "date_str": "2025-12-08",
-    "description": "\u0db8\u0dbd\u0dca\u0dc0\u0dad\u0dd4\u0d94\u0dba\u0dda \u0dc3\u0dd0\u0d9f\u0dc0\u0dd4\u0dab \u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9c\u0dda \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0dad\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dbd\u0dc0\u0dad\u0d94\u0dba-\u0dc3\u0d9f\u0dc0\u0dab-\u0daf\u0dbb\u0dba\u0d9c-\u0dc3\u0dbb\u0dbb\u0dad-\u0dc4\u0db8\u0dc0\u0dba/101-684835",
+    "description": "\u0d86\u0db4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d9c\u0ddc\u0da9\u0d92\u0db8\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8",
+    "url_metadata": "https://www.lankadeepa.lk/monday_meeting/\u0d86\u0db4\u0daf\u0dc0\u0db1-\u0d9c\u0da9\u0d92\u0db8-\u0db8\u0dc4\u0dba\u0db8/118-684836",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1765170157.0
+    "time_ut": 1765171615.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-08 | `lankadeepalk-d625f6f8` | ආපදාවෙන් ගොඩඒමේ මෙහෙයුම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-d625f6f8)
+- 2025-12-08 | `tamilmirrorlk-b8839e8d` | கை, கால் இன்றி சிறுமியின் சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-b8839e8d)
 - 2025-12-08 | `lankadeepalk-50552d2b` | මල්වතුඔයේ සැඟවුණ දැරියගේ සිරුරත් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-50552d2b)
 - 2025-12-08 | `tamilmirrorlk-792901bd` | ஹட்டன் ரோதஸ் பகுதியில் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-792901bd)
 - 2025-12-08 | `tamilmirrorlk-b2560d0b` | அனர்த்தத்தில் கொள்ளையடித்தால் சிக்கல்: பொலிஸார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-b2560d0b)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-08 | `lankadeepalk-8d613a7e` | ඩුබායි පනින්න ගිය හීනටියෙ මහේෂ්ගේ ගෝලයෙක්  මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-8d613a7e)
 - 2025-12-08 | `virakesarilk-971737ad` | பீடி இலைகளுடன் 05 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-971737ad)
 - 2025-12-08 | `virakesarilk-12f15c3f` | அம்பலாங்கொடை துப்பாக்கிச் சூட்டுக்கு உதவிய நபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-12f15c3f)
-- 2025-12-08 | `virakesarilk-fcf6deca` | மிஹிந்தலையில் கொலை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-fcf6deca)
-- 2025-12-08 | `lankadeepalk-36b53baa` | අකුණකින් නිවසක් ගිනිබත් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-36b53baa)
 
 ---
 
