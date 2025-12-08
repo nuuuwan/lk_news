@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_03:48:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_04:19:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,036** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,042** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-08-virakesarilk-04c94998",
-    "num": "virakesarilk-04c94998",
-    "date_str": "2025-12-08",
-    "description": "\u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0b9e\u0bbe\u0baa\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0baa\u0bbe\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 250 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc1\u0ba4\u0bb5\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/232824",
+    "doc_id": "2025-12-09-virakesarilk-354c8a0c",
+    "num": "virakesarilk-354c8a0c",
+    "date_str": "2025-12-09",
+    "description": "\u0b9f\u0bbf\u0ba4\u0bcd\u0bb5\u0bbe \u0baa\u0bc1\u0baf\u0bb2\u0bbe\u0bb2\u0bcd 81 000 \u0b86\u0baf\u0bbf\u0bb0\u0bae\u0bcd \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bc7\u0ba4\u0bae\u0bcd 635 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf, 192 \u0baa\u0bc7\u0bb0\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/232830",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1765215180.0
+    "time_ut": 1765233840.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-09 | `virakesarilk-354c8a0c` | டித்வா புயலால் 81 000 ஆயிரம் வீடுகள் சேதம் 635 பேர் பலி, 192 பேரைக் காணவில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-354c8a0c)
+- 2025-12-09 | `virakesarilk-21bc9b75` | ஐ.நாவின் உடனடி உதவி நிதியத்திடமிருந்து இலங்கைக்கு 4.5 மில்லியன் டொலர் நிதியுதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-21bc9b75)
+- 2025-12-09 | `virakesarilk-dc3b9dd0` | பாதிக்கப்பட்ட மலையக மக்களுக்கு தற்காலிக வீடுகளை அமைக்கத் திட்டம் - செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-dc3b9dd0)
+- 2025-12-09 | `virakesarilk-442ef5ff` | இயற்கை அனர்த்த பாதித்தோருக்கான சர்வமத பிரார்த்தனை கொழும்பில் நடைபெற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-442ef5ff)
+- 2025-12-09 | `virakesarilk-0276b2a4` | அமெரிக்க அரசின் நிவாரண பொதிகள் மாவட்ட செயலாளரிடம்  விமானப் படை அதிகாரிகளால் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-0276b2a4)
+- 2025-12-09 | `virakesarilk-c27536cb` | இலங்கை மீளக்கட்டியெழுப்ப ஒன்றிணைந்து செயல்படுதல் குறித்து இந்திய உயர்ஸ்தானிகருடன் வெளிவிவகார அமைச்சர் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-c27536cb)
 - 2025-12-08 | `virakesarilk-04c94998` | பண்டாரநாயக்க ஞாபகார்த்த தேசிய நிதியத்திலிருந்து அனர்த்த பாதித்தோருக்கு 250 மில்லியன் ரூபா நிதியுதவி வழங்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-04c94998)
 - 2025-12-08 | `lankadeepalk-f6c7c28e` | ජපානයට සුනාමි තත්වයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-f6c7c28e)
 - 2025-12-08 | `adalk-2d73d7f5` | මහනුවර 231 මරුට, 82  ක් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-adalk-2d73d7f5)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2025-12-08 | `lankadeepalk-ccb8dc9d` | ජනපති අවතැන් ජනතාවගේ දුක සැප බලන්න යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-ccb8dc9d)
 - 2025-12-08 | `virakesarilk-2497551c` | இரணைத்தீவு கடலட்டை பண்ணையாளர்களுக்கு பெரும் அழிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-2497551c)
 - 2025-12-08 | `virakesarilk-67de3adb` | பெறுமதியான பொருட்களை கழிவுகளாக மாற்றிய 'தித்வா' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-67de3adb)
-- 2025-12-08 | `virakesarilk-09674de7` | கிளிநொச்சியில் பாலம் புனரமைப்பு பணியில் இந்திய இராணுவ பொறியியல் பிரிவினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-09674de7)
-- 2025-12-08 | `virakesarilk-6204431f` | யாழ் உள்ளிட்ட 3 மாவட்டங்களில் அமெரிக்க – இலங்கை விமானப்படை கூட்டு மனிதாபிமான நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-6204431f)
-- 2025-12-08 | `virakesarilk-7fc24188` | தொலைத்தொடர்பு சேவையை மீட்க ஒத்துழைக்குமாறு பொலிஸார் பொதுமக்களிடம் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-7fc24188)
-- 2025-12-08 | `virakesarilk-e5ee45eb` | பாதிக்கப்பட்ட மதஸ்தானங்கள் புனரமைப்பு நடவடிக்கைக்கு ஹஜ் குழு நிதி அன்பளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-e5ee45eb)
-- 2025-12-08 | `virakesarilk-d0683380` | நுவரெலியா மாவட்டத்தில் காய்கறி விநியோகத்தில் பற்றாக்குறை இல்லை ; ஜனாதிபதி தலைமையிலான ஒருங்கிணைப்பு குழு கூட்டத்தில் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-d0683380)
-- 2025-12-08 | `lankadeepalk-d28e62bb` | ආපදා මරණ 635ට වැඩිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-d28e62bb)
 
 ---
 
