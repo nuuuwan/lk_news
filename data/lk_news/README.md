@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_08:19:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_09:12:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,851** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,854** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-08-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2025-12-08-lankadeepalk-36b53baa",
+    "num": "lankadeepalk-36b53baa",
     "date_str": "2025-12-08",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/232725",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765154580.0
+    "description": "\u0d85\u0d9a\u0dd4\u0dab\u0d9a\u0dd2\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dc3\u0d9a\u0dca \u0d9c\u0dd2\u0db1\u0dd2\u0db6\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d85\u0d9a\u0dab\u0d9a\u0db1-\u0db1\u0dc0\u0dc3\u0d9a-\u0d9c\u0db1\u0db6\u0dad-\u0dc0\u0dba/1-684832",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1765163298.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-08 | `lankadeepalk-36b53baa` | අකුණකින් නිවසක් ගිනිබත් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-36b53baa)
+- 2025-12-08 | `lankadeepalk-ebb6d38f` | පළාත් කිහිපයකට අදත් වැස්ස | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-ebb6d38f)
 - 2025-12-08 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-3a015e4a)
 - 2025-12-08 | `dailyftlk-1bb9180b` | Human Rights Commission writes to AKD over imposition of Emergency Regulations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-1bb9180b)
 - 2025-12-08 | `dailyftlk-1706b08f` | President tours affected districts, reviews relief efforts and assures communities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-1706b08f)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-08 | `dailyftlk-1c2be267` | Unity Plaza lights up Colombo’s digital future with largest triple-faced LED display | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-1c2be267)
 - 2025-12-08 | `virakesarilk-754e1efc` | மனித நுகர்வுக்கு பொருத்தமற்ற 12,000 கிலோ இறைச்சி சீல் வைக்கப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-754e1efc)
 - 2025-12-08 | `dailyftlk-55e7403e` | Mammoth task to rebuild a nation: How Sri Lanka can rise from the debris | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-55e7403e)
-- 2025-12-08 | `dailyftlk-bdcb45c6` | Will the response to Ditwah be worse than disaster itself? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-bdcb45c6)
-- 2025-12-08 | `dailyftlk-b0e395ff` | Unlocking wealth in tea sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-dailyftlk-b0e395ff)
 
 ---
 
