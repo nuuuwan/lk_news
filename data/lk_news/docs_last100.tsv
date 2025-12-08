@@ -1,4 +1,8 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-08-lankadeepalk-bcb2f804	lankadeepalk-bcb2f804	2025-12-08	බිත්තරයක් 50 ට නගී	https://www.lankadeepa.lk/news/බතතරයක-45-ට-නග/101-684884	si	lankadeepalk	1765185308.0
+lk_news	2025-12-08-tamilmirrorlk-a0f334ca	tamilmirrorlk-a0f334ca	2025-12-08	ஃபிட்டின் ரூமில் கேமரா ; உரிமையாளர் கைது	https://www.tamilmirror.lk/செய்திகள்/ஃபிட்டின்-ரூமில்-கேமரா-உரிமையாளர்-கைது/175-369257	ta	tamilmirrorlk	1765185101.0
+lk_news	2025-12-08-tamilmirrorlk-143c1a74	tamilmirrorlk-143c1a74	2025-12-08	“நீர்த்தேக்கங்களால் இனி ஆபத்து இல்லை”	https://www.tamilmirror.lk/செய்திகள்/நீர்த்தேக்கங்களால்-இனி-ஆபத்து-இல்லை/175-369256	ta	tamilmirrorlk	1765185050.0
+lk_news	2025-12-08-lankadeepalk-4fa7100f	lankadeepalk-4fa7100f	2025-12-08	සියලු  ජලාශවල අවදානම ඉවරයි	https://www.lankadeepa.lk/news/සයල-ජලශවල-අවදනම-ඉවරය/101-684881	si	lankadeepalk	1765184128.0
 lk_news	2025-12-08-lankadeepalk-fc855c1e	lankadeepalk-fc855c1e	2025-12-08	ග්‍රෙගරි වැවේ අධීක්ෂණ වැඩ වාරි මාර්ගයට පවරයි	https://www.lankadeepa.lk/news/ගරගර-වව-අධකෂණ-වඩ-වර-මරගයට-පවරය/101-684879	si	lankadeepalk	1765183673.0
 lk_news	2025-12-08-lankadeepalk-ac26fb11	lankadeepalk-ac26fb11	2025-12-08	ආපදා අයට බේත් දෙන්න ජංගම සුව සායන අරඹයි	https://www.lankadeepa.lk/news/ආපද-අයට-බත-දනන-ජගම-සව-සයන-අරඹය/101-684878	si	lankadeepalk	1765183285.0
 lk_news	2025-12-08-lankadeepalk-39dcfc1a	lankadeepalk-39dcfc1a	2025-12-08	ෆිටෝන් රූම් එකේ කැමරා සවිකළ වෙළඳසැල් හිම්කරු මාට්ටු	https://www.lankadeepa.lk/news/ෆටන-රම-එක-කමර-සවකළ-වළඳසල-හමකර-මටට/101-684877	si	lankadeepalk	1765183087.0
@@ -60,6 +64,7 @@ lk_news	2025-12-08-lankadeepalk-8d613a7e	lankadeepalk-8d613a7e	2025-12-08	ඩු
 lk_news	2025-12-08-virakesarilk-971737ad	virakesarilk-971737ad	2025-12-08	பீடி இலைகளுடன் 05 பேர் கைது!	https://www.virakesari.lk/article/232728	ta	virakesarilk	1765165140.0
 lk_news	2025-12-08-virakesarilk-12f15c3f	virakesarilk-12f15c3f	2025-12-08	அம்பலாங்கொடை துப்பாக்கிச் சூட்டுக்கு உதவிய நபர் கைது!	https://www.virakesari.lk/article/232727	ta	virakesarilk	1765164960.0
 lk_news	2025-12-08-virakesarilk-fcf6deca	virakesarilk-fcf6deca	2025-12-08	மிஹிந்தலையில் கொலை!	https://www.virakesari.lk/article/232726	ta	virakesarilk	1765164780.0
+lk_news	2025-12-08-bbccomsinhala-80a163d4	bbccomsinhala-80a163d4	2025-12-08	'දරුවා මගේ නෙවෙයි... පීතෘභාවය පිළිගන්න බැහැ': චාමික කරුණාරත්න අධිකරණයට කියයි	https://www.bbc.com/sinhala/articles/c74x9j73p1lo	si	bbccomsinhala	1765164604.0
 lk_news	2025-12-08-lankadeepalk-36b53baa	lankadeepalk-36b53baa	2025-12-08	අකුණකින් නිවසක් ගිනිබත් වෙයි	https://www.lankadeepa.lk/latest_news/අකණකන-නවසක-ගනබත-වය/1-684832	si	lankadeepalk	1765163298.0
 lk_news	2025-12-08-lankadeepalk-ebb6d38f	lankadeepalk-ebb6d38f	2025-12-08	පළාත් කිහිපයකට අදත් වැස්ස	https://www.lankadeepa.lk/latest_news/පළත-කහපයකට-අදත-වසස/1-684831	si	lankadeepalk	1765162754.0
 lk_news	2025-12-08-bbccomsinhala-8681764e	bbccomsinhala-8681764e	2025-12-08	ජලගැලීම් සහ නායයාම්වලින් විපතට පත්වූ ඔබ රජය දෙන සහන ලබා ගන්නේ කෙසේ ද?	https://www.bbc.com/sinhala/articles/cn4dl779w2eo	si	bbccomsinhala	1765160630.0
@@ -94,8 +99,3 @@ lk_news	2025-12-07-lankadeepalk-03eb8a44	lankadeepalk-03eb8a44	2025-12-07	මා
 lk_news	2025-12-07-virakesarilk-0dc1dff3	virakesarilk-0dc1dff3	2025-12-07	இந்திய உயர்ஸ்தானிகரை சந்தித்து நன்றி தெரிவித்த நாமல்	https://www.virakesari.lk/article/232722	ta	virakesarilk	1765127820.0
 lk_news	2025-12-07-lankadeepalk-2e22b5cc	lankadeepalk-2e22b5cc	2025-12-07	බූස්ස බන්ධනාගාරයේ කලබලයක්	https://www.lankadeepa.lk/latest_news/බසස-බනධනගරය-කලබලයක/1-684816	si	lankadeepalk	1765127613.0
 lk_news	2025-12-07-lankadeepalk-13d69079	lankadeepalk-13d69079	2025-12-07	ජනපති- අටමස්ථානාධිපති නාහිමි බැහැ දකී	https://www.lankadeepa.lk/latest_news/ජනපත-අටමසථනධපත-නහම-බහ-දක/1-684815	si	lankadeepalk	1765127332.0
-lk_news	2025-12-07-lankadeepalk-c0bbd763	lankadeepalk-c0bbd763	2025-12-07	පේරාදෙණිය කළු පාලම ගැන හෙට තීරණයක්	https://www.lankadeepa.lk/latest_news/පරදණය-කළ-පලම-ගන-හට-තරණයක/1-684814	si	lankadeepalk	1765127153.0
-lk_news	2025-12-07-lankadeepalk-619c7c73	lankadeepalk-619c7c73	2025-12-07	අයි.එම්.එෆ් ණය පමාවක් ගත යුතුමයි	https://www.lankadeepa.lk/latest_news/අය-එම-එෆ-ණය-පමවක-ගත-යතමය/1-684813	si	lankadeepalk	1765126949.0
-lk_news	2025-12-07-lankadeepalk-82e80006	lankadeepalk-82e80006	2025-12-07	මහියංගන රෝහලේ පරිගණක ඒකකය යථා තත්වයට	https://www.lankadeepa.lk/latest_news/මහයගන-රහල-පරගණක-ඒකකය-යථ-තතවයට/1-684812	si	lankadeepalk	1765126810.0
-lk_news	2025-12-07-virakesarilk-41e69fc7	virakesarilk-41e69fc7	2025-12-07	தமிழகத்திலிருந்து கப்பலில் நாட்டை வந்தடைந்த நிவாரண பொருட்கள்	https://www.virakesari.lk/article/232721	ta	virakesarilk	1765125960.0
-lk_news	2025-12-07-lankadeepalk-af9a56c1	lankadeepalk-af9a56c1	2025-12-07	කඩුගන්නාව පාර 24 පැයේම අරී	https://www.lankadeepa.lk/news/කඩගනනව-පර-24-පයම-අර/101-684811	si	lankadeepalk	1765125643.0

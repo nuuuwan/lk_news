@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_14:25:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_14:51:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,921** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**91,926** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-08-lankadeepalk-fc855c1e",
-    "num": "lankadeepalk-fc855c1e",
+    "doc_id": "2025-12-08-lankadeepalk-bcb2f804",
+    "num": "lankadeepalk-bcb2f804",
     "date_str": "2025-12-08",
-    "description": "\u0d9c\u0dca\u200d\u0dbb\u0dd9\u0d9c\u0dbb\u0dd2 \u0dc0\u0dd0\u0dc0\u0dda \u0d85\u0db0\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0dc0\u0dd0\u0da9 \u0dc0\u0dcf\u0dbb\u0dd2 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0da7 \u0db4\u0dc0\u0dbb\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9c\u0dbb\u0d9c\u0dbb-\u0dc0\u0dc0-\u0d85\u0db0\u0d9a\u0dc2\u0dab-\u0dc0\u0da9-\u0dc0\u0dbb-\u0db8\u0dbb\u0d9c\u0dba\u0da7-\u0db4\u0dc0\u0dbb\u0dba/101-684879",
+    "description": "\u0db6\u0dd2\u0dad\u0dca\u0dad\u0dbb\u0dba\u0d9a\u0dca 50 \u0da7 \u0db1\u0d9c\u0dd3",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db6\u0dad\u0dad\u0dbb\u0dba\u0d9a-45-\u0da7-\u0db1\u0d9c/101-684884",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1765183673.0
+    "time_ut": 1765185308.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-08 | `lankadeepalk-bcb2f804` | බිත්තරයක් 50 ට නගී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-bcb2f804)
+- 2025-12-08 | `tamilmirrorlk-a0f334ca` | ஃபிட்டின் ரூமில் கேமரா ; உரிமையாளர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-a0f334ca)
+- 2025-12-08 | `tamilmirrorlk-143c1a74` | “நீர்த்தேக்கங்களால் இனி ஆபத்து இல்லை” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-143c1a74)
+- 2025-12-08 | `lankadeepalk-4fa7100f` | සියලු  ජලාශවල අවදානම ඉවරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-4fa7100f)
 - 2025-12-08 | `lankadeepalk-fc855c1e` | ග්‍රෙගරි වැවේ අධීක්ෂණ වැඩ වාරි මාර්ගයට පවරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-fc855c1e)
 - 2025-12-08 | `lankadeepalk-ac26fb11` | ආපදා අයට බේත් දෙන්න ජංගම සුව සායන අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-ac26fb11)
 - 2025-12-08 | `lankadeepalk-39dcfc1a` | ෆිටෝන් රූම් එකේ කැමරා සවිකළ වෙළඳසැල් හිම්කරු මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-39dcfc1a)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-08 | `lankadeepalk-1836a149` | මේ අවුරුද්ද ඉවර වෙන්න කලින් නුවරඑළියේ පාරවල් හදන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-1836a149)
 - 2025-12-08 | `tamilmirrorlk-af1ce47a` | நுவரெலியா தொடர்பில் ஜனாதிபதி அதிரடி கவனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-af1ce47a)
 - 2025-12-08 | `tamilmirrorlk-c0218e03` | வழமைக்குத் திரும்பும் பன்விலை: பாடசாலைகளுக்கு சிக்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-c0218e03)
-- 2025-12-08 | `tamilmirrorlk-065d90c9` | பன்விலவில் பாடசாலைகளுக்கு சிக்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-065d90c9)
-- 2025-12-08 | `adalk-c8e885dd` | CSE Empower පුවරුවෙහි InsureMe ලැයිස්තුගත කෙරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-adalk-c8e885dd)
-- 2025-12-08 | `adalk-a53f942f` | වහාම පාර්ලිමේන්තුව කැඳවන්නැයි නාමල්ගෙන් ඉල්ලීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-adalk-a53f942f)
-- 2025-12-08 | `tamilmirrorlk-c6019c94` | 600க்கும் மேற்பட்ட இறால் பண்ணைகள் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-c6019c94)
 
 ---
 
