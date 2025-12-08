@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_18:57:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_19:25:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,009** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,012** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-08-lankadeepalk-c3907990",
-    "num": "lankadeepalk-c3907990",
+    "doc_id": "2025-12-08-lankadeepalk-d28e62bb",
+    "num": "lankadeepalk-d28e62bb",
     "date_str": "2025-12-08",
-    "description": "\u2019\u2019\u0db6\u0dd4\u0daf\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dbb\u0dc3\u0dca\u0dad\u0dd2\u0dba\u0dcf\u0daf\u0dd4\u0dc0\u2019\u2019 \u0d9a\u0dd8\u0dad\u0dd2\u0dba \u0db6\u0dd4\u0daf\u0dd4 \u0daf\u0dc4\u0db8\u0da7 \u0db1\u0dd2\u0d9c\u0dcf\u0dc0\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db6\u0daf\u0db1\u0d9c-\u0dbb\u0dc3\u0dad\u0dba\u0daf\u0dc0-\u0d9a\u0dad\u0dba-\u0db6\u0daf-\u0daf\u0dc4\u0db8\u0da7-\u0db1\u0d9c\u0dc0\u0d9a/101-684901",
+    "description": "\u0d86\u0db4\u0daf\u0dcf \u0db8\u0dbb\u0dab 635\u0da7 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d86\u0db4\u0daf-\u0db8\u0dbb\u0dab-635\u0da7-\u0dc0\u0da9\u0dc0\u0dba/101-684903",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1765199801.0
+    "time_ut": 1765201365.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-08 | `lankadeepalk-d28e62bb` | ආපදා මරණ 635ට වැඩිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-d28e62bb)
+- 2025-12-08 | `virakesarilk-8d80c39c` | 400 மில்லியன் ரூபா பெறுமதியான மனிதாபிமான உதவிப்பொருட்களுடன் சீன விமானம் நாட்டை வந்தடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-8d80c39c)
 - 2025-12-08 | `lankadeepalk-c3907990` | ’’බුදුන්ගේ රස්තියාදුව’’ කෘතිය බුදු දහමට නිගාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-c3907990)
 - 2025-12-08 | `virakesarilk-46ddfa01` | அவசரகால பிரகடன வழிகாட்டல்கள் குறித்த அரசாங்க அறிவிப்பில் மனித உரிமைகள் ஆணைக்குழு தீவிர கரிசனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-46ddfa01)
 - 2025-12-08 | `virakesarilk-5a106fc1` | தமிழ்தேசியத்தோடு  செயற்படும் அனைத்து தமிழ்  கட்சிகளையும் இணைத்து ஒரே குடையின் கிழ் செயற்பட வேண்டும் - தர்மலிங்கம் சித்தார்த்தன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-5a106fc1)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-08 | `virakesarilk-161872c0` | நடிகை மதுபாலா - இந்திரன்ஸ் இணைந்து நடிக்கும் 'சின்ன சின்ன ஆசை' படத்தின் அப்டேட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-161872c0)
 - 2025-12-08 | `tamilmirrorlk-8d1ccc93` | போலி சட்டத்தரணிக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-8d1ccc93)
 - 2025-12-08 | `virakesarilk-4733e598` | பெண் விமானியின் குற்றச்சாட்டு ; DNA பரிசோதனைக்கு கிரிக்கெட் வீரர் சாமிக்க கருணாரத்ன மறுப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-4733e598)
-- 2025-12-08 | `virakesarilk-2416d743` | யாழ். மாவட்ட செயலகத்தை முற்றுகையிடவுள்ள கடற்தொழிலாளர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-2416d743)
-- 2025-12-08 | `virakesarilk-1d447fe1` | அறிமுக நடிகர் லெனின் நடிக்கும் 'ரெட் லேபில் 'படத்தின் இசை மற்றும் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-1d447fe1)
 
 ---
 
