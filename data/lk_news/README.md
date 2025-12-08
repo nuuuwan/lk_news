@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_17:17:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_17:50:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**91,982** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,002** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-08-lankadeepalk-df2c1b7f",
-    "num": "lankadeepalk-df2c1b7f",
+    "doc_id": "2025-12-08-virakesarilk-c40094a2",
+    "num": "virakesarilk-c40094a2",
     "date_str": "2025-12-08",
-    "description": "\u0dc0\u0dd0\u0da9\u0db6\u0dbd\u0db1 \u0d85\u0d9c\u0dc0\u0dd2\u0db1\u0dd2\u0dc3\u0dd4\u0dbb\u0dd4 \u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc0\u0da9\u0db6\u0dbd\u0db1-\u0d85\u0d9c\u0dc0\u0db1\u0dc3\u0dbb-\u0db4\u0dad-\u0d9a\u0dbb\u0dba/1-684897",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1765193919.0
+    "description": "\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0ba8\u0bcd\u0ba4\u0bbf \u0baa\u0bbe\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bcb\u0bb2\u0bbf \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/232807",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765195560.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-08 | `virakesarilk-c40094a2` | நீதிமன்றத்துக்குள் செவ்வந்தி பாணியில் செயற்பட்ட போலி சட்டத்தரணிக்கு விளக்கமறியல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-c40094a2)
+- 2025-12-08 | `virakesarilk-fc7ce4e1` | ஊர்காவற்துறை பிரதேச சபையின் பாதீடு மீண்டும் தோல்வி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-fc7ce4e1)
+- 2025-12-08 | `virakesarilk-eab59324` | வட்டுக்கோட்டையில் வாளுடன் கைது செய்யப்பட்டவருக்கு நீதிமன்றம் பிறப்பித்த உத்தரவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-eab59324)
+- 2025-12-08 | `virakesarilk-29e6988f` | பேராதனை பல்கலைக்கழகத்தை மேலும் பாதுகாப்பாக மீளக் கட்டியெழுப்ப அரசாங்கம் ஆதரவளிக்கும் - பிரதமர் கலாநிதி ஹரிணி அமரசூரிய | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-29e6988f)
+- 2025-12-08 | `lankadeepalk-89ebe9e5` | චාමික කරුණාරත්නට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-89ebe9e5)
+- 2025-12-08 | `virakesarilk-db9778de` | நான்கு மாவட்டங்களுக்கான மண்சரிவு அபாய சிவப்பு எச்சரிக்கை நீடிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-db9778de)
+- 2025-12-08 | `virakesarilk-21b3611f` | யாழ்ப்பாணம் பழைய பூங்காவில் உள்ளக விளையாட்டு அரங்குக்கான போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-21b3611f)
+- 2025-12-08 | `virakesarilk-08a83f8a` | பதில் பிரதம நீதியரசராக  உச்ச நீதிமன்ற நீதியரசர் யசந்த கோதாகொட நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-08a83f8a)
+- 2025-12-08 | `virakesarilk-c167113e` | சுப்பர் ஸ்டார் ரஜினிகாந்தின் 'படையப்பா' ரிட்டர்ன்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-c167113e)
 - 2025-12-08 | `lankadeepalk-df2c1b7f` | වැඩබලන අගවිනිසුරු පත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-df2c1b7f)
+- 2025-12-08 | `virakesarilk-161872c0` | நடிகை மதுபாலா - இந்திரன்ஸ் இணைந்து நடிக்கும் 'சின்ன சின்ன ஆசை' படத்தின் அப்டேட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-161872c0)
 - 2025-12-08 | `tamilmirrorlk-8d1ccc93` | போலி சட்டத்தரணிக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-8d1ccc93)
+- 2025-12-08 | `virakesarilk-2416d743` | யாழ். மாவட்ட செயலகத்தை முற்றுகையிடவுள்ள கடற்தொழிலாளர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-2416d743)
+- 2025-12-08 | `virakesarilk-1d447fe1` | அறிமுக நடிகர் லெனின் நடிக்கும் 'ரெட் லேபில் 'படத்தின் இசை மற்றும் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-1d447fe1)
+- 2025-12-08 | `virakesarilk-115d1511` | கலா ஓயா வெள்ளத்தில் பேருந்தில் சிக்கிய பல்கலைக்கழக மாணவர்கள் செய்த காரியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-115d1511)
 - 2025-12-08 | `lankadeepalk-3d0458db` | අවතැන් වූවන්ට සහන අරන් නාමල් නුවරඑළියට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-3d0458db)
+- 2025-12-08 | `virakesarilk-78224ba0` | கண்ணகி நகர்- திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-78224ba0)
+- 2025-12-08 | `virakesarilk-ab90d76b` | தொல்பொருள் திணைக்கள பணிக்கு இடையூறு ; 56 பேருக்கு எதிராக நீதிமன்றத்தில் வழக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-ab90d76b)
 - 2025-12-08 | `lankadeepalk-f0b34be9` | ආපදාවට ලක්වූ ගුරුවරුන්ට රජයෙන් සහන ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-f0b34be9)
-- 2025-12-08 | `lankadeepalk-027830fa` | ජීවිත ගොඩනගන්න නිලධාරීන්ගේ කාර්යක්ෂම සහය අවශ්‍යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-027830fa)
-- 2025-12-08 | `adalk-07b72b0b` | කාළගුණයෙන් යලි අනතුරු ඇඟවීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-adalk-07b72b0b)
-- 2025-12-08 | `lankadeepalk-4fec06f0` | සජිත් මෙරට ඕස්ට්‍රේලියානු මහකොමසාරිස් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-4fec06f0)
-- 2025-12-08 | `tamilmirrorlk-63158e68` | அணையா விளக்கு நினைவுத்தூபி சேதம்: தே.ம.ச உறுப்பினர் முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-63158e68)
-- 2025-12-08 | `virakesarilk-c723c824` | பாதிக்கப்பட்ட மக்களுக்கு நிவாரண உதவிகளை வழங்குமாறு     அவுஸ்திரேலிய உயர்ஸ்தானிகரிடம் எதிர்க்கட்சி தலைவர் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-c723c824)
-- 2025-12-08 | `virakesarilk-64a326a8` | அணையா விளக்கு நினைவுத் தூபி சேதப்படுத்தப்பட்ட சம்பவம் குறித்து அமைச்சர் இராமலிங்கம் சந்திரசேகர் கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-64a326a8)
-- 2025-12-08 | `tamilmirrorlk-70e98df6` | தந்தை வழித்தன்மையை உறுதிப்படுத்த கிரிக்கெட் வீரர்  மறுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-70e98df6)
-- 2025-12-08 | `tamilmirrorlk-61a772dd` | அணையா விளக்கு நினைவுத் தூபி சேதம் ; அமைச்சர் கடும் கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-61a772dd)
-- 2025-12-08 | `virakesarilk-bb4c5040` | நாட்டின் அனர்த்த உயிரிழப்பு 635 ஆக உயர்வு: அனர்த்த முகாமைத்துவ மத்திய நிலையம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-bb4c5040)
-- 2025-12-08 | `virakesarilk-911486ff` | நுவரெலியா மாவட்டத்தில் விவசாயத் துறைக்கு ஏற்பட்ட சேதம் தொடர்பில் ஜனாதிபதி தலைமையில் ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-911486ff)
-- 2025-12-08 | `lankadeepalk-89032ac3` | ගිනි අවි දෙකක් සොයාගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-89032ac3)
-- 2025-12-08 | `virakesarilk-157c114a` | கெரம் உலகக் கிண்ணம் 2025: இலங்கை ஆண்கள் அணிக்கு வெள்ளி, பெண்கள் அணிக்கு வெண்கலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-157c114a)
-- 2025-12-08 | `lankadeepalk-145a14a7` | මඟ තොටේ ඇති සන්නිවේදන කම්බි ගත්තොත් වැඩ වරදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-lankadeepalk-145a14a7)
-- 2025-12-08 | `tamilmirrorlk-73319950` | பேரிடர் மரணங்கள் உயர்ந்தன (முழு விபரமும் இணைப்பு) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-tamilmirrorlk-73319950)
-- 2025-12-08 | `adalk-43d1acba` | ආපදාව නිධානයක් කර ගන්නා පිරිසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-adalk-43d1acba)
-- 2025-12-08 | `virakesarilk-9abe7330` | இலங்கையில் அடுத்த சில நாட்களுக்குக் கனமழை பெய்ய வாய்ப்புள்ளது - பிபிசி வானிலை சேவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-9abe7330)
+- 2025-12-08 | `virakesarilk-42a9cb83` | பொலன்னறுவை - மட்டக்களப்பு வீதியில் துப்பாக்கிகள், தோட்டாக்கள் கண்டுபிடிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-08-virakesarilk-42a9cb83)
 
 ---
 
