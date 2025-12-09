@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_02:18:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_02:47:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,271** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,272** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-10-dailyftlk-53b90ef8",
-    "num": "dailyftlk-53b90ef8",
+    "doc_id": "2025-12-10-dailyftlk-6d752808",
+    "num": "dailyftlk-6d752808",
     "date_str": "2025-12-10",
-    "description": "Why Sri Lanka must step up for children orphaned by Ditwah cyclone",
-    "url_metadata": "https://www.ft.lk/columns/Why-Sri-Lanka-must-step-up-for-children-orphaned-by-Ditwah-cyclone/4-785443",
+    "description": "Rebuild Sri Lanka Better: A plea of Wildlife and Nature Protection Society",
+    "url_metadata": "https://www.ft.lk/opinion/Rebuild-Sri-Lanka-Better-A-plea-of-Wildlife-and-Nature-Protection-Society/14-785444",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765313088.0
+    "time_ut": 1765313417.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-10 | `dailyftlk-6d752808` | Rebuild Sri Lanka Better: A plea of Wildlife and Nature Protection Society | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-6d752808)
 - 2025-12-10 | `dailyftlk-53b90ef8` | Why Sri Lanka must step up for children orphaned by Ditwah cyclone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-53b90ef8)
 - 2025-12-10 | `dailyftlk-ce4e038e` | Sinopec Supports Flood-Hit Communities with Emergency Water Relief Under Clear Spring Initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-ce4e038e)
 - 2025-12-10 | `dailyftlk-27fef9f5` | Govt. appoints committee to coordinate foreign aid for disaster-affected | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-27fef9f5)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-09 | `lankadeepalk-a3a40ab9` | සංවර්ධන නිලධාරිනියට බාධා කළ කතක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-lankadeepalk-a3a40ab9)
 - 2025-12-09 | `virakesarilk-0a824d72` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு பல தனியார் நிறுவனங்களிடமிருந்து நிதி நன்கொடைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-0a824d72)
 - 2025-12-09 | `lankadeepalk-f52aac8c` | දේශක දමින්ද දිසානායකත් රට නගන අරමුදලට දායක වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-lankadeepalk-f52aac8c)
-- 2025-12-09 | `lankadeepalk-e8955242` | දිට්වා අසරණ පවුල්ම ඩැහැගෙන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-lankadeepalk-e8955242)
 
 ---
 
