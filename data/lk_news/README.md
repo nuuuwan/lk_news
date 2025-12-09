@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_03:53:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_04:18:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,284** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,286** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-10-dailyftlk-b91bae52",
-    "num": "dailyftlk-b91bae52",
+    "doc_id": "2025-12-10-dailyftlk-9a2bc671",
+    "num": "dailyftlk-9a2bc671",
     "date_str": "2025-12-10",
-    "description": "Sri Lankan firms seek partnerships at India\u2019s EXCON 2025",
-    "url_metadata": "https://www.ft.lk/business/Sri-Lankan-firms-seek-partnerships-at-India-s-EXCON-2025/34-785464",
+    "description": "Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority",
+    "url_metadata": "https://www.ft.lk/opinion/Then-as-farce-now-as-tragedy-The-second-coming-of-Microfinance-and-Credit-Regulatory-Authority/14-785465",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765318322.0
+    "time_ut": 1765318866.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-10 | `dailyftlk-9a2bc671` | Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-9a2bc671)
+- 2025-12-10 | `tamilmirrorlk-cbec65df` | ஜனாதிபதியின் செயலாளருடன் பிரான்ஸ் தூதுவர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-tamilmirrorlk-cbec65df)
 - 2025-12-10 | `dailyftlk-b91bae52` | Sri Lankan firms seek partnerships at India’s EXCON 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-b91bae52)
 - 2025-12-10 | `virakesarilk-cebaba2d` | வவுனியா வடக்கு திரிவைச்சகுளம் மற்றும் 'கிவுல் ஓயா' அபகரிப்புக்களை கடுமையாக எதிர்த்த ரவிகரன் எம்.பி; ஒருமாத காலத்திற்குள் தீர்வுகாண முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-virakesarilk-cebaba2d)
 - 2025-12-10 | `dailyftlk-4e249d57` | Several groups to sue Govt. for failing to issue advance warnings on Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-4e249d57)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-10 | `dailyftlk-3fa61e81` | Yasantha Kodagoda named Acting Chief Justice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-3fa61e81)
 - 2025-12-10 | `dailyftlk-898fb463` | Adapting to global trade shifts: Strategic opportunities for  Sri Lanka amid US tariff measures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-898fb463)
 - 2025-12-10 | `dailyftlk-065afd47` | From “Helping Hambantota” to “Rebuilding Sri Lanka”: A tale of two disasters and two leaderships | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-065afd47)
-- 2025-12-10 | `dailyftlk-e71768a2` | Cyclone Ditwah: A harsh reflection of Sri Lanka’s early-warning gap | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-e71768a2)
-- 2025-12-09 | `virakesarilk-dec7e266` | தென் ஆபிரிக்காவுடனான முதலாவது ரி20 இல் பாண்டியாவின் அதிரடி இந்தியாவை வெற்றியீட்டச் செய்தது; மூவகை கிரிக்கெட்களில்  பும்ரா 100  விக்கெட்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-dec7e266)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-10 03:52:45",
-  "n_docs": 92284,
+  "time_updated": "2025-12-10 04:18:09",
+  "n_docs": 92286,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 92284,
+  "n_docs_with_text": 92286,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-10",
-  "dataset_size": 1384547218,
+  "dataset_size": 1384733345,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-10-dailyftlk-b91bae52",
-    "num": "dailyftlk-b91bae52",
+    "doc_id": "2025-12-10-dailyftlk-9a2bc671",
+    "num": "dailyftlk-9a2bc671",
     "date_str": "2025-12-10",
-    "description": "Sri Lankan firms seek partnerships at India\u2019s EXCON 2025",
-    "url_metadata": "https://www.ft.lk/business/Sri-Lankan-firms-seek-partnerships-at-India-s-EXCON-2025/34-785464",
+    "description": "Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority",
+    "url_metadata": "https://www.ft.lk/opinion/Then-as-farce-now-as-tragedy-The-second-coming-of-Microfinance-and-Credit-Regulatory-Authority/14-785465",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765318322.0
+    "time_ut": 1765318866.0
   }
 }
