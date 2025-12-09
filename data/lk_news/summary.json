@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-09 05:16:30",
-  "n_docs": 92042,
+  "time_updated": "2025-12-09 06:03:01",
+  "n_docs": 92055,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 92042,
+  "n_docs_with_text": 92055,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-09",
-  "dataset_size": 1380566244,
+  "dataset_size": 1380625308,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-09-virakesarilk-354c8a0c",
-    "num": "virakesarilk-354c8a0c",
+    "doc_id": "2025-12-09-dailyftlk-0f4f919a",
+    "num": "dailyftlk-0f4f919a",
     "date_str": "2025-12-09",
-    "description": "\u0b9f\u0bbf\u0ba4\u0bcd\u0bb5\u0bbe \u0baa\u0bc1\u0baf\u0bb2\u0bbe\u0bb2\u0bcd 81 000 \u0b86\u0baf\u0bbf\u0bb0\u0bae\u0bcd \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bc7\u0ba4\u0bae\u0bcd 635 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf, 192 \u0baa\u0bc7\u0bb0\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/232830",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765233840.0
+    "description": "Coping with and managing the agony and ecstasy of annual promotions",
+    "url_metadata": "https://www.ft.lk/columns/Coping-with-and-managing-the-agony-and-ecstasy-of-annual-promotions/4-785392",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765239685.0
   }
 }
