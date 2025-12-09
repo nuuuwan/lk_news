@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_18:29:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_18:57:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,217** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,220** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-09-lankadeepalk-f8814123",
-    "num": "lankadeepalk-f8814123",
+    "doc_id": "2025-12-09-lankadeepalk-59d667d5",
+    "num": "lankadeepalk-59d667d5",
     "date_str": "2025-12-09",
-    "description": "\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0d9a\u0ddc\u0dc5\u0db9 \u0d91\u0dc5\u0dc0\u0dbd\u0dd4 \u0d9a\u0dd2\u0dbd\u0ddd 73,000\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db1\u0dc0\u0dbb\u0d91\u0dc5\u0dba\u0db1-\u0d9a\u0dc5\u0db9-\u0d91\u0dc5\u0dc0\u0dbd-\u0d9a\u0dbd-73-000\u0d9a/101-684965",
+    "description": "\u0db4\u0dc3\u0dca\u0dc3\u0dbb \u0dbd\u0dd4\u0dab\u0dd4\u0d9c\u0dbd \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0dc3\u0dc3\u0dbb-\u0dbd\u0dab\u0d9c\u0dbd-\u0db4\u0dbb\u0db0\u0db1-\u0db8\u0dbb\u0d9c\u0dba-\u0dc0\u0dc0\u0dad-\u0d9a\u0dbb\u0dba/101-684966",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1765284017.0
+    "time_ut": 1765285713.0
 }
 ```
 
@@ -41,8 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-09 | `lankadeepalk-59d667d5` | පස්සර ලුණුගල ප්‍රධාන මාර්ගය විවෘත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-lankadeepalk-59d667d5)
 - 2025-12-09 | `lankadeepalk-f8814123` | නුවරඑළියෙන් කොළඹ එළවලු කිලෝ 73,000ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-lankadeepalk-f8814123)
+- 2025-12-09 | `lankadeepalk-c12fee78` | නුවරඑළියෙන් කොළඹට එළවලු කිලෝ 73,000ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-lankadeepalk-c12fee78)
 - 2025-12-09 | `lankadeepalk-f7cea3f1` | විවෘත කරන්න බැරි පාසල් 147 මෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-lankadeepalk-f7cea3f1)
+- 2025-12-09 | `adalk-772aa97f` | ආපදා සිසුන්ට ළඟම පාසලට යා හැකියි, පාසල් එන්න නිල ඇ﻿ඳුම අවශ්‍යම නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-adalk-772aa97f)
 - 2025-12-09 | `adalk-7783cb8b` | 2026දි 6 වසරේ සිට 11 වැනි වසර දක්වා පාසල් වාර විභාග නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-adalk-7783cb8b)
 - 2025-12-09 | `virakesarilk-01855d90` | பாடசாலை ஆரம்பம், உயர் தரப் பரீட்சையை நடத்துவது குறித்து உயர் கல்வி அமைச்சின் செயலாளர் விடுத்துள்ள முக்கிய அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-01855d90)
 - 2025-12-09 | `virakesarilk-ba716b10` | பறங்கி, பாலி ஆறுகளின் தாழ்நில பிரதேசங்களுக்கு வெள்ளம் தொடர்பான முன்னெச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-ba716b10)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-09 | `virakesarilk-b2d065ce` | அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்புக்கு நன்றி தெரித்தார் ஜனாதிபதி அநுர குமார திசாநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-b2d065ce)
 - 2025-12-09 | `virakesarilk-3b8d1aa8` | துறைசார் மேற்பார்வைக் குழுவால் கல்வி மற்றும் நிதி அறிக்கைகள் ஆய்வு செய்யப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-3b8d1aa8)
 - 2025-12-09 | `virakesarilk-727d8a00` | தமிழகத்திற்கு மட்டுமல்ல புதுச்சேரி மக்களுக்கும் குரல் கொடுப்பேன்-  விஜய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-727d8a00)
-- 2025-12-09 | `virakesarilk-02877a15` | எதிர்க்கட்சி தலைவர் - ரஷ்ய தூதுவருக்கிடையில் விசேட சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-02877a15)
-- 2025-12-09 | `tamilmirrorlk-90face02` | பாடசாலைகள்,பரீட்சைகள் தொடர்பிலான வி​சேட அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-tamilmirrorlk-90face02)
-- 2025-12-09 | `virakesarilk-2d6c8e26` | இவ்வருடத்தின் இதுவரையான காலப்பகுதிக்குள் வீதி விபத்துக்களால் 2570 பேர் உயிரிழப்பு - பொலிஸ் ஊடகப் பேச்சாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-2d6c8e26)
 
 ---
 
