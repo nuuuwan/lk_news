@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_09:35:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_09:53:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,081** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,085** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-09-tamilmirrorlk-a3aed20e",
-    "num": "tamilmirrorlk-a3aed20e",
+    "doc_id": "2025-12-09-lankadeepalk-6b9b98a4",
+    "num": "lankadeepalk-6b9b98a4",
     "date_str": "2025-12-09",
-    "description": "\u2019\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bc7 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bcd\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0ba9-\u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8\u0baf\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd-\u0b95\u0bca\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bc7-\u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-369273",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1765252158.0
+    "description": "\u0db4\u0dda\u0dbb\u0dcf \u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba \u0db4\u0dd9\u0dbb\u0da7\u0dad\u0dca \u0dc0\u0da9\u0dcf \u0dc4\u0dd9\u0dcf\u0db3\u0da7 \u0dc4\u0daf\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0dbb-\u0dc3\u0dbb\u0dc3\u0dc0\u0dba-\u0db4\u0dbb\u0da7\u0dad-\u0dc0\u0da9-\u0dc4\u0db3\u0da7-\u0dc4\u0daf\u0db1\u0dc0/101-684931",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1765253925.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-09 | `lankadeepalk-6b9b98a4` | පේරා සරසවිය පෙරටත් වඩා හොඳට හදනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-lankadeepalk-6b9b98a4)
+- 2025-12-09 | `lankadeepalk-7530aeec` | රජ දවස ඇළහැර අමුණ යළි හදති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-lankadeepalk-7530aeec)
 - 2025-12-09 | `tamilmirrorlk-a3aed20e` | ’பாதுகாப்பான வாழ்க்கையைபெற்றுக் கொடுப்பதே நோக்கம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-tamilmirrorlk-a3aed20e)
 - 2025-12-09 | `tamilmirrorlk-e0bea71c` | இன்று முதல் மழையுடனான வானிலை அதிகரிக்கும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-tamilmirrorlk-e0bea71c)
 - 2025-12-09 | `virakesarilk-230fb3df` | பணக் கொடுக்கல் வாங்கல் : பாணந்துறையில் இடம்பெற்ற தாக்குதலில் ஒருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-230fb3df)
@@ -51,6 +53,7 @@ A collection of lk_news documents.
 - 2025-12-09 | `dailyftlk-0433b72a` | Axiata sees Sri Lanka emerging as digital investment hub: Group CEO Vivek Sood | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-dailyftlk-0433b72a)
 - 2025-12-09 | `dailyftlk-5aba6948` | China trade surplus tops $ 1 t for first time amid pivot to counter US lull | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-dailyftlk-5aba6948)
 - 2025-12-09 | `adalk-eb4c3fd1` | අද මිලි මිටර් 75-100 අතර තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-adalk-eb4c3fd1)
+- 2025-12-09 | `adalk-b68c1b98` | මඩකලපුව බන්ධනාගාර සිරකරුවෝ දින දෙකක දිවා ආහාරය ආපදා ජනතාවට කැප කරති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-adalk-b68c1b98)
 - 2025-12-09 | `dailyftlk-368d7c99` | HNB tops TAB Global ranking as Sri Lanka’s Strongest Bank | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-dailyftlk-368d7c99)
 - 2025-12-09 | `dailyftlk-dbf9ba85` | CSE closes on the up, recovers 5% of last week’s value loss | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-dailyftlk-dbf9ba85)
 - 2025-12-09 | `dailyftlk-ed6fbc50` | President reviews recovery efforts in Nuwara Eliya and Badulla | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-dailyftlk-ed6fbc50)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-09 | `adalk-c3a174bd` | ආපදා ජනතාවට සහන දෙන්න සෞඛ්‍ය සේවකයෝ දිනක වැටුප දන් දෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-adalk-c3a174bd)
 - 2025-12-09 | `dailyftlk-bfe0d99a` | EDB launches fast-track relief to support exporters affected by adverse weather | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-dailyftlk-bfe0d99a)
 - 2025-12-09 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-3a015e4a)
-- 2025-12-09 | `dailyftlk-37ebdf1c` | Pathfinder Foundation conducts high-level event on management of public finance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-dailyftlk-37ebdf1c)
-- 2025-12-09 | `virakesarilk-d9e35001` | Uber இலங்கையில் 10 ஆண்டுகள் சேவையை எட்டியுள்ளது: மக்கள் சென்றுவர உதவி, வாழ்வாதாரங்களுக்கு வலுவூட்டி, சமூகங்களுக்கு நற்பேறை விளைவித்து வருகின்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-virakesarilk-d9e35001)
-- 2025-12-09 | `dailyftlk-ee7c3cda` | VAT reform in a time of crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-09-dailyftlk-ee7c3cda)
 
 ---
 
