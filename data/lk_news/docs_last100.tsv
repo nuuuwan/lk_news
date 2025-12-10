@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-10-lankadeepalk-1de9c5ea	lankadeepalk-1de9c5ea	2025-12-10	අද කාලගුණය	https://www.lankadeepa.lk/news/අද-කලගණය/101-684983	si	lankadeepalk	1765335800.0
+lk_news	2025-12-10-lankadeepalk-310f6798	lankadeepalk-310f6798	2025-12-10	දෙමෝදර කන්ද නාය අවදානමක	https://www.lankadeepa.lk/news/දමදර-කනද-නය-අවදනමක/101-684982	si	lankadeepalk	1765335576.0
 lk_news	2025-12-10-lankadeepalk-0670211f	lankadeepalk-0670211f	2025-12-10	බදුල්ලේ තැන් හතක් ගැන විමසිල්ලෙන්	https://www.lankadeepa.lk/news/බදලල-තන-හතක-ගන-වමසලලන/101-684981	si	lankadeepalk	1765334304.0
 lk_news	2025-12-10-lankadeepalk-8907b16e	lankadeepalk-8907b16e	2025-12-10	විපතට පත් ජනතාවට සෙත් පතා ගංගාරාමයේ පිංකම්	https://www.lankadeepa.lk/news/වපතට-පත-ජනතවට-සත-පත-ගගරමය-පකම/101-684980	si	lankadeepalk	1765333789.0
 lk_news	2025-12-10-tamilmirrorlk-f0d79feb	tamilmirrorlk-f0d79feb	2025-12-10	குறைபாடுகளை ஒப்புக்கொண்டார் ஜனாதிபதி	https://www.tamilmirror.lk/செய்திகள்/குறைபாடுகளை-ஒப்புக்கொண்டார்-ஜனாதிபதி/175-369344	ta	tamilmirrorlk	1765320433.0
@@ -72,6 +74,7 @@ lk_news	2025-12-09-lankadeepalk-59d667d5	lankadeepalk-59d667d5	2025-12-09	පස
 lk_news	2025-12-09-virakesarilk-85f28506	virakesarilk-85f28506	2025-12-09	அனர்த்தத்தால் சேதமடைந்த வாகனங்களுக்கு டிசம்பர் 15க்கு பின் விசேட நடமாடும் சேவை -  கமல் அமரசிங்க	https://www.virakesari.lk/article/232911	ta	virakesarilk	1765284900.0
 lk_news	2025-12-09-lankadeepalk-f8814123	lankadeepalk-f8814123	2025-12-09	නුවරඑළියෙන් කොළඹ එළවලු කිලෝ 73,000ක්	https://www.lankadeepa.lk/news/නවරඑළයන-කළඹ-එළවල-කල-73-000ක/101-684965	si	lankadeepalk	1765284017.0
 lk_news	2025-12-09-lankadeepalk-c12fee78	lankadeepalk-c12fee78	2025-12-09	නුවරඑළියෙන් කොළඹට එළවලු කිලෝ 73,000ක්	https://www.lankadeepa.lk/news/නවරඑළයන-කළඹට-එළවල-කල-73-000ක/101-684965	si	lankadeepalk	1765284017.0
+lk_news	2025-12-09-adalk-d246db73	adalk-d246db73	2025-12-09	නාවික හමුදාවේ 2086කට උසස්වීම්	https://www.ada.lk/breaking_news/නාවික-හමුදාවේ-2086කට-උසස්වීම්/11-420150	si	adalk	1765283153.0
 lk_news	2025-12-09-lankadeepalk-f7cea3f1	lankadeepalk-f7cea3f1	2025-12-09	විවෘත කරන්න බැරි පාසල් 147 මෙන්න	https://www.lankadeepa.lk/news/වවත-කරනන-බර-පසල-147-මනන/101-684964	si	lankadeepalk	1765283134.0
 lk_news	2025-12-09-adalk-772aa97f	adalk-772aa97f	2025-12-09	ආපදා සිසුන්ට ළඟම පාසලට යා හැකියි, පාසල් එන්න නිල ඇ﻿ඳුම අවශ්‍යම නෑ	https://www.ada.lk/breaking_news/ආපදා-සිසුන්ට-ළඟම-පාසලට-යා-හැකියි--පාසල්-එන්න-නිල-ඇ﻿ඳුම-අවශ්‍යම-නෑ/11-420149	si	adalk	1765282964.0
 lk_news	2025-12-09-adalk-7783cb8b	adalk-7783cb8b	2025-12-09	2026දි 6 වසරේ සිට 11 වැනි වසර දක්වා පාසල් වාර විභාග නෑ	https://www.ada.lk/breaking_news/2026දි-6-වසරේ-සිට-11-වැනි-වසර-දක්වා-පාසල්-වාර-විභාග-නෑ/11-420148	si	adalk	1765282285.0
@@ -96,6 +99,3 @@ lk_news	2025-12-09-virakesarilk-63a78e68	virakesarilk-63a78e68	2025-12-09	நா
 lk_news	2025-12-09-tamilmirrorlk-90face02	tamilmirrorlk-90face02	2025-12-09	பாடசாலைகள்,பரீட்சைகள் தொடர்பிலான வி​சேட அறிவிப்பு	https://www.tamilmirror.lk/பிரசித்த-செய்தி/பாடசாலைகள்-பரீட்சைகள்-தொடர்பிலான-வி-சேட-அறிவிப்பு/150-369321	ta	tamilmirrorlk	1765279548.0
 lk_news	2025-12-09-virakesarilk-2d6c8e26	virakesarilk-2d6c8e26	2025-12-09	இவ்வருடத்தின் இதுவரையான காலப்பகுதிக்குள் வீதி விபத்துக்களால் 2570 பேர் உயிரிழப்பு - பொலிஸ் ஊடகப் பேச்சாளர்	https://www.virakesari.lk/article/232893	ta	virakesarilk	1765279500.0
 lk_news	2025-12-09-lankadeepalk-dab98551	lankadeepalk-dab98551	2025-12-09	මේ සැරේ වාර විභාග නෑ	https://www.lankadeepa.lk/news/ම-සර-වර-වභග-න/101-684962	si	lankadeepalk	1765279113.0
-lk_news	2025-12-09-lankadeepalk-37470ed0	lankadeepalk-37470ed0	2025-12-09	අරාබියේ විශාලතම ගුවන් යානා දෙක ආධාර රැගෙන මෙරටට	https://www.lankadeepa.lk/latest_news/අරබය-වශලතම-ගවන-යන-දක-ආධර-රගන-මරටට/1-684961	si	lankadeepalk	1765278982.0
-lk_news	2025-12-09-tamilmirrorlk-50a9ff71	tamilmirrorlk-50a9ff71	2025-12-09	மன்னாருக்கு  முன்னெச்சரிக்கை	https://www.tamilmirror.lk/செய்திகள்/மன்னாருக்கு-முன்னெச்சரிக்கை/175-369320	ta	tamilmirrorlk	1765278652.0
-lk_news	2025-12-09-virakesarilk-a1b97ce1	virakesarilk-a1b97ce1	2025-12-09	ஐக்கிய அரபு அமீரகத்தின் அனர்த்த நிவாரண சேவை விமானம் கட்டுநாயக்கவை வந்தடைந்தது!	https://www.virakesari.lk/article/232885	ta	virakesarilk	1765277580.0
