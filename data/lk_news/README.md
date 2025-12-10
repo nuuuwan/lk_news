@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--11_04:20:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--11_04:47:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,497** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,498** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-11-virakesarilk-f2bf9681",
-    "num": "virakesarilk-f2bf9681",
+    "doc_id": "2025-12-11-dailyftlk-53341387",
+    "num": "dailyftlk-53341387",
     "date_str": "2025-12-11",
-    "description": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1, \u0bb5\u0b9f\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf, \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 100 \u0bae\u0bbf.\u0bae\u0bc0. \u0bae\u0bb4\u0bc8\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1 \u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0baa\u0bbe\u0baf \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/233027",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765396800.0
+    "description": "Sri Lanka\u2019s tourism narrative is being written online; We must shape it now",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-tourism-narrative-is-being-written-online-We-must-shape-it-now/4-785483",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765408270.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-11 | `dailyftlk-53341387` | Sri Lanka’s tourism narrative is being written online; We must shape it now | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-dailyftlk-53341387)
 - 2025-12-11 | `virakesarilk-f2bf9681` | வடக்கு, வடமத்திய, கிழக்கு மாகாணங்களில் 100 மி.மீ. மழைவீழ்ச்சி மண்சரிவு சிவப்பு அபாய எச்சரிக்கை தொடர்ந்தும் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-f2bf9681)
 - 2025-12-11 | `virakesarilk-a9cdc397` | எமக்கு இழைக்கப்பட்ட அநீதிகளுக்கான பொறுப்புக்கூறல் சர்வதேசத்தின் ஊடாகவே உறுதிப்படுத்தப்படவேண்டும்; வட, கிழக்கு வலிந்து காணாமலாக்கப்பட்டோரின் உறவுகள் ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகருக்குக் கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-a9cdc397)
 - 2025-12-11 | `virakesarilk-18876407` | கைது செய்யப்பட்டவரை நீண்டகாலம் தடுத்து வைப்பது அடிப்படை உரிமை மீறல் அல்ல; மாற்றம் அவசியம் – வஜிர அபேவர்தன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-18876407)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-10 | `virakesarilk-28ef2209` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு Ceylinco Holdings PLC நிதி உதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-virakesarilk-28ef2209)
 - 2025-12-10 | `virakesarilk-3d64be83` | உயர் நீதிமன்ற நீதியரசராக கிஹான் ஹிமான்ஷு  குலதுங்க நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-virakesarilk-3d64be83)
 - 2025-12-10 | `virakesarilk-1b769fe5` | சூறாவளி சேதத் தரவு சேகரிப்பில் MIT, Microsoft ஆதரவு; ‘Rebuilding Sri Lanka’க்காக உலக நாடுகளின் நிதி, பொருள் உதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-virakesarilk-1b769fe5)
-- 2025-12-10 | `lankadeepalk-eb4695d7` | “රට යළි හදන මග” ජනපතිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-lankadeepalk-eb4695d7)
 
 ---
 
