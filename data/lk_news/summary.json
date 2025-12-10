@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-10 06:03:19",
-  "n_docs": 92298,
+  "time_updated": "2025-12-10 06:29:55",
+  "n_docs": 92299,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 92298,
+  "n_docs_with_text": 92299,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-10",
-  "dataset_size": 1384837157,
+  "dataset_size": 1384984820,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-10-dailyftlk-9a2bc671",
-    "num": "dailyftlk-9a2bc671",
+    "doc_id": "2025-12-10-tamilmirrorlk-fd5e2f1a",
+    "num": "tamilmirrorlk-fd5e2f1a",
     "date_str": "2025-12-10",
-    "description": "Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority",
-    "url_metadata": "https://www.ft.lk/opinion/Then-as-farce-now-as-tragedy-The-second-coming-of-Microfinance-and-Credit-Regulatory-Authority/14-785465",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1765318866.0
+    "description": "\u0b95\u0bc1\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-369342",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1765319201.0
   }
 }

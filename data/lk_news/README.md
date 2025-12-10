@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_06:04:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_06:30:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,298** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,299** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-10-dailyftlk-9a2bc671",
-    "num": "dailyftlk-9a2bc671",
+    "doc_id": "2025-12-10-tamilmirrorlk-fd5e2f1a",
+    "num": "tamilmirrorlk-fd5e2f1a",
     "date_str": "2025-12-10",
-    "description": "Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority",
-    "url_metadata": "https://www.ft.lk/opinion/Then-as-farce-now-as-tragedy-The-second-coming-of-Microfinance-and-Credit-Regulatory-Authority/14-785465",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1765318866.0
+    "description": "\u0b95\u0bc1\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-369342",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1765319201.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-10 | `tamilmirrorlk-fd5e2f1a` | குளத்தில் மூழ்கி இளைஞர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-tamilmirrorlk-fd5e2f1a)
 - 2025-12-10 | `dailyftlk-9a2bc671` | Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-9a2bc671)
 - 2025-12-10 | `tamilmirrorlk-cbec65df` | ஜனாதிபதியின் செயலாளருடன் பிரான்ஸ் தூதுவர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-tamilmirrorlk-cbec65df)
 - 2025-12-10 | `dailyftlk-b91bae52` | Sri Lankan firms seek partnerships at India’s EXCON 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-b91bae52)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-10 | `dailyftlk-27fef9f5` | Govt. appoints committee to coordinate foreign aid for disaster-affected | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-27fef9f5)
 - 2025-12-10 | `dailyftlk-3fa61e81` | Yasantha Kodagoda named Acting Chief Justice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-3fa61e81)
 - 2025-12-10 | `dailyftlk-898fb463` | Adapting to global trade shifts: Strategic opportunities for  Sri Lanka amid US tariff measures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-898fb463)
-- 2025-12-10 | `dailyftlk-065afd47` | From “Helping Hambantota” to “Rebuilding Sri Lanka”: A tale of two disasters and two leaderships | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-065afd47)
 
 ---
 
