@@ -1,9 +1,13 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-10-lankadeepalk-80b40d1a	lankadeepalk-80b40d1a	2025-12-10	හලාවත ආපදා බලන්න යුද හමුදාපති යයි	https://www.lankadeepa.lk/news/හලවත-ආපද-බලනන-යද-හමදපත-යය/101-685047	si	lankadeepalk	1765371164.0
+lk_news	2025-12-10-lankadeepalk-14e42b5a	lankadeepalk-14e42b5a	2025-12-10	හලාවත රෝහල බලන්න වෛද්‍යවරු යයි	https://www.lankadeepa.lk/news/හලවත-රහල-බලනන-වදයවර-යය/101-685046	si	lankadeepalk	1765370276.0
+lk_news	2025-12-10-lankadeepalk-bdc96424	lankadeepalk-bdc96424	2025-12-10	ජාතික පසු අස්වනු කළමනාකරණ ආයතනයටත් වැස්සෙන් හානි	https://www.lankadeepa.lk/news/ජතක-පස-අසවන-කළමනකරණ-ආයතනයටත-වසසන-හන/101-685045	si	lankadeepalk	1765369122.0
 lk_news	2025-12-10-tamilmirrorlk-e41027e0	tamilmirrorlk-e41027e0	2025-12-10	10 நக​ரங்களுக்கு வானிலை முன்னறிவித்தல்	https://www.tamilmirror.lk/செய்திகள்/10-நக-ரங்களுக்கு-வானிலை-முன்னறிவித்தல்/175-369384	ta	tamilmirrorlk	1765368279.0
 lk_news	2025-12-10-lankadeepalk-a9ebc564	lankadeepalk-a9ebc564	2025-12-10	හාලිඇළ නාරංගල කන්දත් පුපුරයි	https://www.lankadeepa.lk/news/හලඇළ-නරගල-කනදත-පපරය/101-685044	si	lankadeepalk	1765368147.0
 lk_news	2025-12-10-tamilmirrorlk-21f1a83a	tamilmirrorlk-21f1a83a	2025-12-10	கோட்டாவுக்கு யாழ். நீதிமன்றம் அதிரடி உத்தவு	https://www.tamilmirror.lk/செய்திகள்/கோட்டாவுக்கு-யாழ்-நீதிமன்றம்-அதிரடி-உத்தவு/175-369383	ta	tamilmirrorlk	1765367675.0
 lk_news	2025-12-10-tamilmirrorlk-d4d3ccc3	tamilmirrorlk-d4d3ccc3	2025-12-10	பிரதி தவிசாளர் மீது தாக்குதல்: இருவருக்கு விளக்கமறியல்: எம்.பி உள்பட 10 பேர் தலைமறைவு	https://www.tamilmirror.lk/செய்திகள்/பிரதி-தவிசாளர்-மீது-தாக்குதல்-இருவருக்கு-விளக்கமறியல்-எம்-பி-உள்பட-10-பேர்-தலைமறைவு/175-369382	ta	tamilmirrorlk	1765367365.0
 lk_news	2025-12-10-lankadeepalk-ef1c8b73	lankadeepalk-ef1c8b73	2025-12-10	කොළොන්න ප්‍රා.සභා අය වැය දෙවනවරටත් පරදි	https://www.lankadeepa.lk/news/කළනන-පර-සභ-අය-වය-දවනවරටත-පරද/101-685043	si	lankadeepalk	1765367333.0
+lk_news	2025-12-10-adalk-42cb13b2	adalk-42cb13b2	2025-12-10	අද සවස හා හෙට උදේ ප්‍රධාන මාර්ගයේ දුම්රිය ධාවනය වෙන්නේ මෙහෙමයි	https://www.ada.lk/breaking_news/අද-සවස-හා-හෙට-උදේ-ප්‍රධාන-මාර්ගයේ-දුම්රිය-ධාවනය-වෙන්නේ-මෙහෙමයි/11-420168	si	adalk	1765366746.0
 lk_news	2025-12-10-lankadeepalk-b55bdac1	lankadeepalk-b55bdac1	2025-12-10	කලාවැවේ වාන් යළි අරී	https://www.lankadeepa.lk/latest_news/කලවව-වන-යළ-අර/1-685042	si	lankadeepalk	1765366248.0
 lk_news	2025-12-10-lankadeepalk-60400773	lankadeepalk-60400773	2025-12-10	ග්‍රීසි නඩුවෙන් කබ්රාල් නිදහස්	https://www.lankadeepa.lk/latest_news/ගරස-නඩවන-කබරල-නදහස/1-685041	si	lankadeepalk	1765366177.0
 lk_news	2025-12-10-lankadeepalk-0933b47b	lankadeepalk-0933b47b	2025-12-10	යෝෂිතට එරෙහි නඩුව කල්යයි	https://www.lankadeepa.lk/latest_news/යෂතට-එරහ-නඩව-කලයය/1-685040	si	lankadeepalk	1765365969.0
@@ -95,7 +99,3 @@ lk_news	2025-12-10-virakesarilk-a59076f3	virakesarilk-a59076f3	2025-12-10	டி
 lk_news	2025-12-10-adalk-18f2bb09	adalk-18f2bb09	2025-12-10	බෝගහපතන කන්දේ නාය යෑමක්	https://www.ada.lk/breaking_news/බෝගහපතන-කන්දේ-නාය-යෑමක්/11-420157	si	adalk	1765345702.0
 lk_news	2025-12-10-tamilmirrorlk-a6d0e9f9	tamilmirrorlk-a6d0e9f9	2025-12-10	Re building Sri lanka  திட்டத்திற்கு  ரூ.1893 மில்லியன்  நிதி உதவி	https://www.tamilmirror.lk/செய்திகள்/Re-building-Sri-lanka-திட்டத்திற்கு-ரூ-1893-மில்லியன்-நிதி-உதவி/175-369358	ta	tamilmirrorlk	1765345633.0
 lk_news	2025-12-10-lankadeepalk-3bc889be	lankadeepalk-3bc889be	2025-12-10	කොල්මලේ ජලාශ වේල්ල මතින් බර වාහන ධාවනය තහනම් කරයි	https://www.lankadeepa.lk/news/කලමල-ජලශ-වලල-මතන-බර-වහන-ධවනය-තහනම-කරය/101-684988	si	lankadeepalk	1765345342.0
-lk_news	2025-12-10-lankadeepalk-3c852b5b	lankadeepalk-3c852b5b	2025-12-10	ඉන්දුනීසියාවේ තට්ටු හතක ගොඩනැගිල්ල ගින්නක්	https://www.lankadeepa.lk/news/ඉනදනසයව-තටට-හතක-ගඩනගලල-ගනනක/101-684987	si	lankadeepalk	1765345305.0
-lk_news	2025-12-10-adalk-d678d991	adalk-d678d991	2025-12-10	හේමාස් හෝල්ඩින්ග්ස් සභාපති නියෝජ්‍ය සභාපති පුටුවට යයි	https://www.ada.lk/business/හේමාස්-හෝල්ඩින්ග්ස්-සභාපති-නියෝජ්‍ය-සභාපති-පුටුවට-යයි/7-420156	si	adalk	1765344911.0
-lk_news	2025-12-10-lankadeepalk-168f7519	lankadeepalk-168f7519	2025-12-10	රට නගන අරමුදලට රට වටින් ආධාර	https://www.lankadeepa.lk/news/රට-නගන-අරමදලට-රට-වටන-ආධර/101-684986	si	lankadeepalk	1765344868.0
-lk_news	2025-12-10-virakesarilk-694e2702	virakesarilk-694e2702	2025-12-10	பதுளை - போகஹபத்தன பகுதியில் மண்சரிவு!	https://www.virakesari.lk/article/232950	ta	virakesarilk	1765344480.0
