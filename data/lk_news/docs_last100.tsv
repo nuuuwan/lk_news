@@ -1,4 +1,7 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-10-lankadeepalk-0670211f	lankadeepalk-0670211f	2025-12-10	බදුල්ලේ තැන් හතක් ගැන විමසිල්ලෙන්	https://www.lankadeepa.lk/news/බදලල-තන-හතක-ගන-වමසලලන/101-684981	si	lankadeepalk	1765334304.0
+lk_news	2025-12-10-lankadeepalk-8907b16e	lankadeepalk-8907b16e	2025-12-10	විපතට පත් ජනතාවට සෙත් පතා ගංගාරාමයේ පිංකම්	https://www.lankadeepa.lk/news/වපතට-පත-ජනතවට-සත-පත-ගගරමය-පකම/101-684980	si	lankadeepalk	1765333789.0
+lk_news	2025-12-10-tamilmirrorlk-f0d79feb	tamilmirrorlk-f0d79feb	2025-12-10	குறைபாடுகளை ஒப்புக்கொண்டார் ஜனாதிபதி	https://www.tamilmirror.lk/செய்திகள்/குறைபாடுகளை-ஒப்புக்கொண்டார்-ஜனாதிபதி/175-369344	ta	tamilmirrorlk	1765320433.0
 lk_news	2025-12-10-tamilmirrorlk-6dee14bb	tamilmirrorlk-6dee14bb	2025-12-10	தென் கொரியாவிலுள்ள இலங்கையர்கள் வழங்கிய நன்கொடை	https://www.tamilmirror.lk/செய்திகள்/தென்-கொரியாவிலுள்ள-இலங்கையர்கள்-வழங்கிய-நன்கொடை/175-369343	ta	tamilmirrorlk	1765319944.0
 lk_news	2025-12-10-tamilmirrorlk-fd5e2f1a	tamilmirrorlk-fd5e2f1a	2025-12-10	குளத்தில் மூழ்கி இளைஞர் உயிரிழப்பு	https://www.tamilmirror.lk/செய்திகள்/குளத்தில்-மூழ்கி-இளைஞர்-உயிரிழப்பு/175-369342	ta	tamilmirrorlk	1765319201.0
 lk_news	2025-12-10-dailyftlk-9a2bc671	dailyftlk-9a2bc671	2025-12-10	Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority	https://www.ft.lk/opinion/Then-as-farce-now-as-tragedy-The-second-coming-of-Microfinance-and-Credit-Regulatory-Authority/14-785465	en	dailyftlk	1765318866.0
@@ -28,6 +31,7 @@ lk_news	2025-12-09-islandlk-e3484eb7	islandlk-e3484eb7	2025-12-09	Sri Lanka–Ru
 lk_news	2025-12-09-islandlk-76933a67	islandlk-76933a67	2025-12-09	Sri Lanka’s Food Security after Cyclone Ditwah: Risk, Recovery, and Resilience	http://island.lk/sri-lankas-food-security-after-cyclone-ditwah-risk-recovery-and-resilience/	en	islandlk	1765302660.0
 lk_news	2025-12-09-virakesarilk-dec7e266	virakesarilk-dec7e266	2025-12-09	தென் ஆபிரிக்காவுடனான முதலாவது ரி20 இல் பாண்டியாவின் அதிரடி இந்தியாவை வெற்றியீட்டச் செய்தது; மூவகை கிரிக்கெட்களில்  பும்ரா 100  விக்கெட்கள்	https://www.virakesari.lk/article/232931	ta	virakesarilk	1765302120.0
 lk_news	2025-12-09-virakesarilk-245a1e16	virakesarilk-245a1e16	2025-12-09	பண்டத்தரிப்பில் தூண்டிலில் மீன் பிடித்த இளைஞர் குளத்தில் மூழ்கி பலி!	https://www.virakesari.lk/article/232930	ta	virakesarilk	1765301640.0
+lk_news	2025-12-09-adalk-4ab1e351	adalk-4ab1e351	2025-12-09	එකම දුම්රියේ මෝටර් රථ දෙකක් ගැටේ	https://www.ada.lk/breaking_news/එකම-දුම්රියේ-මෝටර්-රථ-දෙකක්-ගැටේ/11-420154	si	adalk	1765301597.0
 lk_news	2025-12-09-virakesarilk-7bf0be7e	virakesarilk-7bf0be7e	2025-12-09	பண்டாரவன்னி கிராம மக்களுக்கான அவசர அறிவிப்பு!	https://www.virakesari.lk/article/232929	ta	virakesarilk	1765301040.0
 lk_news	2025-12-09-islandlk-fd666602	islandlk-fd666602	2025-12-09	Radiance among the Debris	http://island.lk/radiance-among-the-debris/	en	islandlk	1765300860.0
 lk_news	2025-12-09-virakesarilk-962c9775	virakesarilk-962c9775	2025-12-09	தண்ணிமுறிப்பு குளத்தின் கீழ்பகுதியில் உள்ள விவசாயிகளுக்கு அவசர அறிவிப்பு!	https://www.virakesari.lk/article/232928	ta	virakesarilk	1765298880.0
@@ -95,7 +99,3 @@ lk_news	2025-12-09-lankadeepalk-dab98551	lankadeepalk-dab98551	2025-12-09	මේ
 lk_news	2025-12-09-lankadeepalk-37470ed0	lankadeepalk-37470ed0	2025-12-09	අරාබියේ විශාලතම ගුවන් යානා දෙක ආධාර රැගෙන මෙරටට	https://www.lankadeepa.lk/latest_news/අරබය-වශලතම-ගවන-යන-දක-ආධර-රගන-මරටට/1-684961	si	lankadeepalk	1765278982.0
 lk_news	2025-12-09-tamilmirrorlk-50a9ff71	tamilmirrorlk-50a9ff71	2025-12-09	மன்னாருக்கு  முன்னெச்சரிக்கை	https://www.tamilmirror.lk/செய்திகள்/மன்னாருக்கு-முன்னெச்சரிக்கை/175-369320	ta	tamilmirrorlk	1765278652.0
 lk_news	2025-12-09-virakesarilk-a1b97ce1	virakesarilk-a1b97ce1	2025-12-09	ஐக்கிய அரபு அமீரகத்தின் அனர்த்த நிவாரண சேவை விமானம் கட்டுநாயக்கவை வந்தடைந்தது!	https://www.virakesari.lk/article/232885	ta	virakesarilk	1765277580.0
-lk_news	2025-12-09-lankadeepalk-a5e7fdb4	lankadeepalk-a5e7fdb4	2025-12-09	ඉන්දීය ආධාර නැවක් ත්‍රිමලේට සේන්දු වෙයි	https://www.lankadeepa.lk/news/ඉනදය-ආධර-නවක-තරමලට-සනද-වය/101-684960	si	lankadeepalk	1765277573.0
-lk_news	2025-12-09-adalk-4f0e6c0c	adalk-4f0e6c0c	2025-12-09	බෙන්තොට අයවැය ඒකාබද්ධ කණ්ඩායම දිනයි	https://www.ada.lk/breaking_news/බෙන්තොට-අයවැය-ඒකාබද්ධ කණ්ඩායම-දිනයි/11-420144	si	adalk	1765277206.0
-lk_news	2025-12-09-tamilmirrorlk-c21814c1	tamilmirrorlk-c21814c1	2025-12-09	ஜகார்த்தா தீ விபத்தில் 17 பேர் உயிரிழந்தனர்	https://www.tamilmirror.lk/உலக-செய்திகள்/ஜகார்த்தா-தீ-விபத்தில்-17-பேர்-உயிரிழந்தனர்/50-369315	ta	tamilmirrorlk	1765276960.0
-lk_news	2025-12-09-adalk-8870f61b	adalk-8870f61b	2025-12-09	කටුනායකට එන ලොකු කුරුල්ලෝ	https://www.ada.lk/breaking_news/කටුනායකට-එන-ලොකු-කුරුල්ලෝ/11-420143	si	adalk	1765276629.0

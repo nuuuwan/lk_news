@@ -1,4 +1,7 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-10-lankadeepalk-0670211f	lankadeepalk-0670211f	2025-12-10	බදුල්ලේ තැන් හතක් ගැන විමසිල්ලෙන්	https://www.lankadeepa.lk/news/බදලල-තන-හතක-ගන-වමසලලන/101-684981	si	lankadeepalk	1765334304.0
+lk_news	2025-12-10-lankadeepalk-8907b16e	lankadeepalk-8907b16e	2025-12-10	විපතට පත් ජනතාවට සෙත් පතා ගංගාරාමයේ පිංකම්	https://www.lankadeepa.lk/news/වපතට-පත-ජනතවට-සත-පත-ගගරමය-පකම/101-684980	si	lankadeepalk	1765333789.0
+lk_news	2025-12-10-tamilmirrorlk-f0d79feb	tamilmirrorlk-f0d79feb	2025-12-10	குறைபாடுகளை ஒப்புக்கொண்டார் ஜனாதிபதி	https://www.tamilmirror.lk/செய்திகள்/குறைபாடுகளை-ஒப்புக்கொண்டார்-ஜனாதிபதி/175-369344	ta	tamilmirrorlk	1765320433.0
 lk_news	2025-12-10-tamilmirrorlk-6dee14bb	tamilmirrorlk-6dee14bb	2025-12-10	தென் கொரியாவிலுள்ள இலங்கையர்கள் வழங்கிய நன்கொடை	https://www.tamilmirror.lk/செய்திகள்/தென்-கொரியாவிலுள்ள-இலங்கையர்கள்-வழங்கிய-நன்கொடை/175-369343	ta	tamilmirrorlk	1765319944.0
 lk_news	2025-12-10-tamilmirrorlk-fd5e2f1a	tamilmirrorlk-fd5e2f1a	2025-12-10	குளத்தில் மூழ்கி இளைஞர் உயிரிழப்பு	https://www.tamilmirror.lk/செய்திகள்/குளத்தில்-மூழ்கி-இளைஞர்-உயிரிழப்பு/175-369342	ta	tamilmirrorlk	1765319201.0
 lk_news	2025-12-10-dailyftlk-9a2bc671	dailyftlk-9a2bc671	2025-12-10	Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority	https://www.ft.lk/opinion/Then-as-farce-now-as-tragedy-The-second-coming-of-Microfinance-and-Credit-Regulatory-Authority/14-785465	en	dailyftlk	1765318866.0
@@ -28,6 +31,7 @@ lk_news	2025-12-09-islandlk-e3484eb7	islandlk-e3484eb7	2025-12-09	Sri Lanka–Ru
 lk_news	2025-12-09-islandlk-76933a67	islandlk-76933a67	2025-12-09	Sri Lanka’s Food Security after Cyclone Ditwah: Risk, Recovery, and Resilience	http://island.lk/sri-lankas-food-security-after-cyclone-ditwah-risk-recovery-and-resilience/	en	islandlk	1765302660.0
 lk_news	2025-12-09-virakesarilk-dec7e266	virakesarilk-dec7e266	2025-12-09	தென் ஆபிரிக்காவுடனான முதலாவது ரி20 இல் பாண்டியாவின் அதிரடி இந்தியாவை வெற்றியீட்டச் செய்தது; மூவகை கிரிக்கெட்களில்  பும்ரா 100  விக்கெட்கள்	https://www.virakesari.lk/article/232931	ta	virakesarilk	1765302120.0
 lk_news	2025-12-09-virakesarilk-245a1e16	virakesarilk-245a1e16	2025-12-09	பண்டத்தரிப்பில் தூண்டிலில் மீன் பிடித்த இளைஞர் குளத்தில் மூழ்கி பலி!	https://www.virakesari.lk/article/232930	ta	virakesarilk	1765301640.0
+lk_news	2025-12-09-adalk-4ab1e351	adalk-4ab1e351	2025-12-09	එකම දුම්රියේ මෝටර් රථ දෙකක් ගැටේ	https://www.ada.lk/breaking_news/එකම-දුම්රියේ-මෝටර්-රථ-දෙකක්-ගැටේ/11-420154	si	adalk	1765301597.0
 lk_news	2025-12-09-virakesarilk-7bf0be7e	virakesarilk-7bf0be7e	2025-12-09	பண்டாரவன்னி கிராம மக்களுக்கான அவசர அறிவிப்பு!	https://www.virakesari.lk/article/232929	ta	virakesarilk	1765301040.0
 lk_news	2025-12-09-islandlk-fd666602	islandlk-fd666602	2025-12-09	Radiance among the Debris	http://island.lk/radiance-among-the-debris/	en	islandlk	1765300860.0
 lk_news	2025-12-09-virakesarilk-962c9775	virakesarilk-962c9775	2025-12-09	தண்ணிமுறிப்பு குளத்தின் கீழ்பகுதியில் உள்ள விவசாயிகளுக்கு அவசர அறிவிப்பு!	https://www.virakesari.lk/article/232928	ta	virakesarilk	1765298880.0
@@ -9995,7 +9999,3 @@ lk_news	2025-10-22-lankadeepalk-e654cdd0	lankadeepalk-e654cdd0	2025-10-22	වැ
 lk_news	2025-10-22-virakesarilk-8eabd736	virakesarilk-8eabd736	2025-10-22	நெதன்யாகு கனடா நுழைந்தால் நிச்சயம் கைது செய்யப்படுவார்! - கனடா பிரதமர் எச்சரிக்கை	https://www.virakesari.lk/article/228368	ta	virakesarilk	1761118200.0
 lk_news	2025-10-22-lankadeepalk-d8b3ddad	lankadeepalk-d8b3ddad	2025-10-22	රුපියල්  බිලියන 10.5ක් සුරා බදු පොලු තියලා	https://www.lankadeepa.lk/news/රපයල-බලයන-10-5ක-සර-බද-පල-තයල/101-681834	si	lankadeepalk	1761118114.0
 lk_news	2025-10-22-virakesarilk-bfe736ea	virakesarilk-bfe736ea	2025-10-22	பாடசாலை மாணவர்களை துஷ்பிரயோகம் செய்த குற்றவாளிக்கு எதிராக சட்ட நடவடிக்கை எடுங்கள் - சஜித்	https://www.virakesari.lk/article/228361	ta	virakesarilk	1761116460.0
-lk_news	2025-10-22-virakesarilk-2466a952	virakesarilk-2466a952	2025-10-22	சிறையில் அடைக்கப்பட்டார் முன்னாள் பிரான்ஸ் ஜனாதிபதி நிகோலஸ் சர்கோஸி	https://www.virakesari.lk/article/228365	ta	virakesarilk	1761116460.0
-lk_news	2025-10-22-virakesarilk-fc1d84bf	virakesarilk-fc1d84bf	2025-10-22	ஒரு நாளில் ஆறு சிறுவர் பாலியல் துஷ்பிரயோக சம்பவங்கள் பதிவு - பொலிஸ்	https://www.virakesari.lk/article/228364	ta	virakesarilk	1761116220.0
-lk_news	2025-10-22-tamilmirrorlk-542903af	tamilmirrorlk-542903af	2025-10-22	வெள்ளை மாளிகையில்  மோதிய வாகனம்	https://www.tamilmirror.lk/உலக-செய்திகள்/வெள்ளை-மாளிகையில்-மோதிய-வாகனம்/50-366661	ta	tamilmirrorlk	1761115727.0
-lk_news	2025-10-22-lankadeepalk-505075fc	lankadeepalk-505075fc	2025-10-22	මහවැස්සෙන් ලුණු ලේවායන් යටවෙයි	https://www.lankadeepa.lk/latest_news/මහවසසන-ලණ-ලවයන-යටවය/1-681832	si	lankadeepalk	1761115722.0
