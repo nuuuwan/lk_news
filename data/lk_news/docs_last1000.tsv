@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-10-tamilmirrorlk-f495bc87	tamilmirrorlk-f495bc87	2025-12-10	இன்று 100 மில்லி மீற்றர் மழை	https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லி-மீற்றர்-மழை/175-369345	ta	tamilmirrorlk	1765339682.0
+lk_news	2025-12-10-lankadeepalk-5ae39e02	lankadeepalk-5ae39e02	2025-12-10	බෝගහපතන කන්ද නාය සක්‍රීය වෙයි	https://www.lankadeepa.lk/news/බගහපතන-කනද-නය-සකරය-වය/101-684984	si	lankadeepalk	1765339039.0
 lk_news	2025-12-10-lankadeepalk-1de9c5ea	lankadeepalk-1de9c5ea	2025-12-10	අද කාලගුණය	https://www.lankadeepa.lk/news/අද-කලගණය/101-684983	si	lankadeepalk	1765335800.0
 lk_news	2025-12-10-lankadeepalk-310f6798	lankadeepalk-310f6798	2025-12-10	දෙමෝදර කන්ද නාය අවදානමක	https://www.lankadeepa.lk/news/දමදර-කනද-නය-අවදනමක/101-684982	si	lankadeepalk	1765335576.0
 lk_news	2025-12-10-lankadeepalk-0670211f	lankadeepalk-0670211f	2025-12-10	බදුල්ලේ තැන් හතක් ගැන විමසිල්ලෙන්	https://www.lankadeepa.lk/news/බදලල-තන-හතක-ගන-වමසලලන/101-684981	si	lankadeepalk	1765334304.0
@@ -35,6 +37,7 @@ lk_news	2025-12-09-virakesarilk-dec7e266	virakesarilk-dec7e266	2025-12-09	தெ
 lk_news	2025-12-09-virakesarilk-245a1e16	virakesarilk-245a1e16	2025-12-09	பண்டத்தரிப்பில் தூண்டிலில் மீன் பிடித்த இளைஞர் குளத்தில் மூழ்கி பலி!	https://www.virakesari.lk/article/232930	ta	virakesarilk	1765301640.0
 lk_news	2025-12-09-adalk-4ab1e351	adalk-4ab1e351	2025-12-09	එකම දුම්රියේ මෝටර් රථ දෙකක් ගැටේ	https://www.ada.lk/breaking_news/එකම-දුම්රියේ-මෝටර්-රථ-දෙකක්-ගැටේ/11-420154	si	adalk	1765301597.0
 lk_news	2025-12-09-virakesarilk-7bf0be7e	virakesarilk-7bf0be7e	2025-12-09	பண்டாரவன்னி கிராம மக்களுக்கான அவசர அறிவிப்பு!	https://www.virakesari.lk/article/232929	ta	virakesarilk	1765301040.0
+lk_news	2025-12-09-adalk-8e177355	adalk-8e177355	2025-12-09	නුවරඑළියෙන් කොළඹට එලවලු කිලෝ 73000ක්.	https://www.ada.lk/breaking_news/නුවරඑළියෙන්-කොළඹට-එලවලු-කිලෝ-73000ක්-/11-420152	si	adalk	1765300993.0
 lk_news	2025-12-09-islandlk-fd666602	islandlk-fd666602	2025-12-09	Radiance among the Debris	http://island.lk/radiance-among-the-debris/	en	islandlk	1765300860.0
 lk_news	2025-12-09-virakesarilk-962c9775	virakesarilk-962c9775	2025-12-09	தண்ணிமுறிப்பு குளத்தின் கீழ்பகுதியில் உள்ள விவசாயிகளுக்கு அவசர அறிவிப்பு!	https://www.virakesari.lk/article/232928	ta	virakesarilk	1765298880.0
 lk_news	2025-12-09-virakesarilk-ad0c08aa	virakesarilk-ad0c08aa	2025-12-09	முள்ளியவளை – நெடுங்கேணி வீதியால்  பயணிக்கும் பொதுமக்கள் கவனத்திற்கு!	https://www.virakesari.lk/article/232927	ta	virakesarilk	1765298820.0
@@ -996,6 +999,3 @@ lk_news	2025-12-04-virakesarilk-85f7355a	virakesarilk-85f7355a	2025-12-04	கொ
 lk_news	2025-12-04-dailyftlk-fe47b20e	dailyftlk-fe47b20e	2025-12-04	Cyclone Ditwah’s trail: lives lost, lessons unlearned	https://www.ft.lk/columns/Cyclone-Ditwah-s-trail-lives-lost-lessons-unlearned/4-785221	en	dailyftlk	1764871752.0
 lk_news	2025-12-04-virakesarilk-43798269	virakesarilk-43798269	2025-12-04	இந்திய விமானப்படை C-17 விமானம் கொழும்பில் தரையிறங்கியது	https://www.virakesari.lk/article/232481	ta	virakesarilk	1764869280.0
 lk_news	2025-12-04-virakesarilk-197ab220	virakesarilk-197ab220	2025-12-04	டித்வா புயல் அனர்த்தங்களில் பாதிக்கப்பட்டோர் எண்ணிக்கை 18 இலட்சத்தை கடந்தது - அனர்த்த முகாமைத்துவ மத்திய நிலையம்	https://www.virakesari.lk/article/232480	ta	virakesarilk	1764868680.0
-lk_news	2025-12-04-virakesarilk-5f088338	virakesarilk-5f088338	2025-12-04	இயற்கை அனர்த்தங்களை மாற்றமுடியாது; எதிர்க்கட்சிகளின் குறுகிய அரசியல் குற்றச்சாட்டுகள் - சரத் பொன்சேகா	https://www.virakesari.lk/article/232479	ta	virakesarilk	1764868380.0
-lk_news	2025-12-04-virakesarilk-3a6b85af	virakesarilk-3a6b85af	2025-12-04	கோப்பாயில் வெள்ள வாய்க்காலுக்குள் மண் போடப்பட்டது தெரியாது - தவிசாளர் தெரிவிப்பு!	https://www.virakesari.lk/article/232478	ta	virakesarilk	1764868140.0
-lk_news	2025-12-04-virakesarilk-f1ee651d	virakesarilk-f1ee651d	2025-12-04	சீன கம்யூனிஸ்ட் கட்சியின் சர்வதேச பிரதிநிதிகள் குழு பெலவத்தவுக்கு விஜயம்	https://www.virakesari.lk/article/232476	ta	virakesarilk	1764867900.0

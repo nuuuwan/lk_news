@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_09:13:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_09:55:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,307** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,310** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-10-lankadeepalk-1de9c5ea",
-    "num": "lankadeepalk-1de9c5ea",
+    "doc_id": "2025-12-10-tamilmirrorlk-f495bc87",
+    "num": "tamilmirrorlk-f495bc87",
     "date_str": "2025-12-10",
-    "description": "\u0d85\u0daf \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0daf-\u0d9a\u0dbd\u0d9c\u0dab\u0dba/101-684983",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1765335800.0
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 100 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf \u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0bae\u0bb4\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-100-\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf-\u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd-\u0bae\u0bb4\u0bc8/175-369345",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1765339682.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-10 | `tamilmirrorlk-f495bc87` | இன்று 100 மில்லி மீற்றர் மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-tamilmirrorlk-f495bc87)
+- 2025-12-10 | `lankadeepalk-5ae39e02` | බෝගහපතන කන්ද නාය සක්‍රීය වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-lankadeepalk-5ae39e02)
 - 2025-12-10 | `lankadeepalk-1de9c5ea` | අද කාලගුණය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-lankadeepalk-1de9c5ea)
 - 2025-12-10 | `lankadeepalk-310f6798` | දෙමෝදර කන්ද නාය අවදානමක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-lankadeepalk-310f6798)
 - 2025-12-10 | `lankadeepalk-0670211f` | බදුල්ලේ තැන් හතක් ගැන විමසිල්ලෙන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-lankadeepalk-0670211f)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-10 | `virakesarilk-c22a2c1b` | நிவாரணம் வழங்குவதாகக் கூறும் மோசடிக்காரர்களிடம் அவதானமாக இருக்கவும் - மகளிர் மற்றும் சிறுவர் விவகார அமைச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-virakesarilk-c22a2c1b)
 - 2025-12-10 | `dailyftlk-7d26a5e3` | China donates 85 MT of flood relief supplies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-7d26a5e3)
 - 2025-12-10 | `dailyftlk-be9194c3` | Australia’s contribution boosts WFP emergency response to Cyclone Ditwah in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-be9194c3)
-- 2025-12-10 | `dailyftlk-3de01ceb` | Swiss Govt. provides humanitarian assistance to Sri Lanka following Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-3de01ceb)
-- 2025-12-10 | `dailyftlk-c5331ae3` | UK announces £ 1 m in humanitarian support for cyclone-affected communities in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-10-dailyftlk-c5331ae3)
 
 ---
 

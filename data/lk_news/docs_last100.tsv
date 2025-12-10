@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-10-tamilmirrorlk-f495bc87	tamilmirrorlk-f495bc87	2025-12-10	இன்று 100 மில்லி மீற்றர் மழை	https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லி-மீற்றர்-மழை/175-369345	ta	tamilmirrorlk	1765339682.0
+lk_news	2025-12-10-lankadeepalk-5ae39e02	lankadeepalk-5ae39e02	2025-12-10	බෝගහපතන කන්ද නාය සක්‍රීය වෙයි	https://www.lankadeepa.lk/news/බගහපතන-කනද-නය-සකරය-වය/101-684984	si	lankadeepalk	1765339039.0
 lk_news	2025-12-10-lankadeepalk-1de9c5ea	lankadeepalk-1de9c5ea	2025-12-10	අද කාලගුණය	https://www.lankadeepa.lk/news/අද-කලගණය/101-684983	si	lankadeepalk	1765335800.0
 lk_news	2025-12-10-lankadeepalk-310f6798	lankadeepalk-310f6798	2025-12-10	දෙමෝදර කන්ද නාය අවදානමක	https://www.lankadeepa.lk/news/දමදර-කනද-නය-අවදනමක/101-684982	si	lankadeepalk	1765335576.0
 lk_news	2025-12-10-lankadeepalk-0670211f	lankadeepalk-0670211f	2025-12-10	බදුල්ලේ තැන් හතක් ගැන විමසිල්ලෙන්	https://www.lankadeepa.lk/news/බදලල-තන-හතක-ගන-වමසලලන/101-684981	si	lankadeepalk	1765334304.0
@@ -35,6 +37,7 @@ lk_news	2025-12-09-virakesarilk-dec7e266	virakesarilk-dec7e266	2025-12-09	தெ
 lk_news	2025-12-09-virakesarilk-245a1e16	virakesarilk-245a1e16	2025-12-09	பண்டத்தரிப்பில் தூண்டிலில் மீன் பிடித்த இளைஞர் குளத்தில் மூழ்கி பலி!	https://www.virakesari.lk/article/232930	ta	virakesarilk	1765301640.0
 lk_news	2025-12-09-adalk-4ab1e351	adalk-4ab1e351	2025-12-09	එකම දුම්රියේ මෝටර් රථ දෙකක් ගැටේ	https://www.ada.lk/breaking_news/එකම-දුම්රියේ-මෝටර්-රථ-දෙකක්-ගැටේ/11-420154	si	adalk	1765301597.0
 lk_news	2025-12-09-virakesarilk-7bf0be7e	virakesarilk-7bf0be7e	2025-12-09	பண்டாரவன்னி கிராம மக்களுக்கான அவசர அறிவிப்பு!	https://www.virakesari.lk/article/232929	ta	virakesarilk	1765301040.0
+lk_news	2025-12-09-adalk-8e177355	adalk-8e177355	2025-12-09	නුවරඑළියෙන් කොළඹට එලවලු කිලෝ 73000ක්.	https://www.ada.lk/breaking_news/නුවරඑළියෙන්-කොළඹට-එලවලු-කිලෝ-73000ක්-/11-420152	si	adalk	1765300993.0
 lk_news	2025-12-09-islandlk-fd666602	islandlk-fd666602	2025-12-09	Radiance among the Debris	http://island.lk/radiance-among-the-debris/	en	islandlk	1765300860.0
 lk_news	2025-12-09-virakesarilk-962c9775	virakesarilk-962c9775	2025-12-09	தண்ணிமுறிப்பு குளத்தின் கீழ்பகுதியில் உள்ள விவசாயிகளுக்கு அவசர அறிவிப்பு!	https://www.virakesari.lk/article/232928	ta	virakesarilk	1765298880.0
 lk_news	2025-12-09-virakesarilk-ad0c08aa	virakesarilk-ad0c08aa	2025-12-09	முள்ளியவளை – நெடுங்கேணி வீதியால்  பயணிக்கும் பொதுமக்கள் கவனத்திற்கு!	https://www.virakesari.lk/article/232927	ta	virakesarilk	1765298820.0
@@ -96,6 +99,3 @@ lk_news	2025-12-09-virakesarilk-727d8a00	virakesarilk-727d8a00	2025-12-09	தம
 lk_news	2025-12-09-virakesarilk-2f503b37	virakesarilk-2f503b37	2025-12-09	நிவாரணம் வழங்குவதில் அரசியல் அழுத்தம் - கிராம உத்தியோகத்தர்கள் விசனம்	https://www.virakesari.lk/article/232887	ta	virakesarilk	1765280220.0
 lk_news	2025-12-09-virakesarilk-02877a15	virakesarilk-02877a15	2025-12-09	எதிர்க்கட்சி தலைவர் - ரஷ்ய தூதுவருக்கிடையில் விசேட சந்திப்பு	https://www.virakesari.lk/article/232884	ta	virakesarilk	1765279920.0
 lk_news	2025-12-09-virakesarilk-63a78e68	virakesarilk-63a78e68	2025-12-09	நாடளாவிய ரீதியில் சுமார் 15,000 மண்சரிவு அபாயமுள்ள இடங்கள் அடையாளம் ; 04 மாவட்டங்களில் அபாயம் மிக்க பிரதேசங்களிலுள்ள மக்களை உடனடியாக வெளியேற்றுமாறு அனர்த்த முகாமைத்துவ நிலையம் பணிப்பு	https://www.virakesari.lk/article/232886	ta	virakesarilk	1765279740.0
-lk_news	2025-12-09-tamilmirrorlk-90face02	tamilmirrorlk-90face02	2025-12-09	பாடசாலைகள்,பரீட்சைகள் தொடர்பிலான வி​சேட அறிவிப்பு	https://www.tamilmirror.lk/பிரசித்த-செய்தி/பாடசாலைகள்-பரீட்சைகள்-தொடர்பிலான-வி-சேட-அறிவிப்பு/150-369321	ta	tamilmirrorlk	1765279548.0
-lk_news	2025-12-09-virakesarilk-2d6c8e26	virakesarilk-2d6c8e26	2025-12-09	இவ்வருடத்தின் இதுவரையான காலப்பகுதிக்குள் வீதி விபத்துக்களால் 2570 பேர் உயிரிழப்பு - பொலிஸ் ஊடகப் பேச்சாளர்	https://www.virakesari.lk/article/232893	ta	virakesarilk	1765279500.0
-lk_news	2025-12-09-lankadeepalk-dab98551	lankadeepalk-dab98551	2025-12-09	මේ සැරේ වාර විභාග නෑ	https://www.lankadeepa.lk/news/ම-සර-වර-වභග-න/101-684962	si	lankadeepalk	1765279113.0
