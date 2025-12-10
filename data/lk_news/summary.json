@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-10 15:21:44",
-  "n_docs": 92403,
+  "time_updated": "2025-12-10 15:47:41",
+  "n_docs": 92407,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 92403,
+  "n_docs_with_text": 92407,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-10",
-  "dataset_size": 1386700231,
+  "dataset_size": 1386742856,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-10-lankadeepalk-67a9f5f6",
-    "num": "lankadeepalk-67a9f5f6",
+    "doc_id": "2025-12-10-lankadeepalk-4f6ba934",
+    "num": "lankadeepalk-4f6ba934",
     "date_str": "2025-12-10",
-    "description": "\u0d9a\u0ddc\u0dad\u0dca\u0db8\u0dbd\u0dda \u0dc4\u0dbb\u0dc4\u0dcf \u0d9c\u0db8\u0db1\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0dc4\u0dd0\u0dbd\u0dca\u0dbd\u0dd4 \u0dc0\u0dcf\u0dc4\u0db1 \u0db4\u0db8\u0dab\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dad\u0db8\u0dbd-\u0dc4\u0dbb\u0dc4-\u0d9c\u0db8\u0db1-\u0d9a\u0dbb\u0db8-\u0dc3\u0dc4\u0dbd\u0dbd-\u0dc0\u0dc4\u0db1-\u0db4\u0db8\u0dab\u0dba/101-685030",
+    "description": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d86\u0db0\u0dcf\u0dbb \u0dad\u0ddc\u0d9c\u0dba\u0d9a\u0dca \u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0dc3\u0dba\u0db1-\u0d86\u0db0\u0dbb-\u0dad\u0d9c\u0dba\u0d9a-\u0d9a\u0da7\u0db1\u0dba\u0d9a\u0da7/1-685031",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1765359688.0
+    "time_ut": 1765361020.0
   }
 }
