@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--11_08:20:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--11_09:15:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,536** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,542** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-11-virakesarilk-09c01b43",
-    "num": "virakesarilk-09c01b43",
+    "doc_id": "2025-12-11-tamilmirrorlk-066c451a",
+    "num": "tamilmirrorlk-066c451a",
     "date_str": "2025-12-11",
-    "description": "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bbe ?",
-    "url_metadata": "https://www.virakesari.lk/article/233029",
+    "description": "\u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0bb1\u0b95\u0bcd\u0b95\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1: \u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4-\u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3-\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bc1\u0bb1\u0b95\u0bcd\u0b95\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1/175-369392",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765420080.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1765424472.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-11 | `tamilmirrorlk-066c451a` | அனர்த்த நிவாரண நிதியில் புறக்கணிப்பு: யாழில் முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-tamilmirrorlk-066c451a)
+- 2025-12-11 | `lankadeepalk-76d3aaa3` | මාතලේ පොදු පහසුකම් පද්ධති නැංවීමට යුද හමුදා සහාය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-76d3aaa3)
+- 2025-12-11 | `tamilmirrorlk-2c7e1f18` | இரண்டு கட்டிடங்கள் இடிந்து விழுந்ததில் 22 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-tamilmirrorlk-2c7e1f18)
+- 2025-12-11 | `tamilmirrorlk-228648be` | உயர் நீதிமன்ற நீதியரசராக கிஹான் ஹிமான்ஷு  குலதுங்க நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-tamilmirrorlk-228648be)
+- 2025-12-11 | `tamilmirrorlk-d60070f2` | இன்று இடியுடன் கூடிய மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-tamilmirrorlk-d60070f2)
 - 2025-12-11 | `virakesarilk-09c01b43` | நுவரெலியாவில் நிலநடுக்கமா ? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-09c01b43)
 - 2025-12-11 | `lankadeepalk-d4bb30f2` | මොරොක්කෝවේ ගොඩනැගිලි දෙකක් කඩා වැටී 22 මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-d4bb30f2)
 - 2025-12-11 | `lankadeepalk-cdda46ba` | හොර ලයිසන් තිප්පොළක් වටලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-cdda46ba)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-12-11 | `dailyftlk-66667eae` | Ceylon Chamber partners members, relief agencies to deliver Cyclone Ditwah support | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-dailyftlk-66667eae)
 - 2025-12-11 | `dailyftlk-a226951f` | Plantations veteran Sunil Poholiyadda joins Colombo Fort Land Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-dailyftlk-a226951f)
 - 2025-12-11 | `dailyftlk-87c2ae6b` | Minister sees red over landslide warnings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-dailyftlk-87c2ae6b)
-- 2025-12-11 | `dailyftlk-85f6194f` | Dialog Completes Rapid Network Restoration and Commits to Expanding National Connectivity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-dailyftlk-85f6194f)
-- 2025-12-11 | `dailyftlk-4807f69f` | 35 tons of Russian humanitarian aid arrives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-dailyftlk-4807f69f)
-- 2025-12-11 | `dailyftlk-bf04e345` | Australia and UNFPA partner to protect cyclone-affected women and girls | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-dailyftlk-bf04e345)
-- 2025-12-11 | `dailyftlk-e778b6b3` | Myanmar aid flight arrives in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-dailyftlk-e778b6b3)
-- 2025-12-11 | `dailyftlk-dca95866` | India delivers major relief shipment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-dailyftlk-dca95866)
 
 ---
 
