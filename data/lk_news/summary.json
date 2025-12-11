@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-11 11:50:41",
-  "n_docs": 92581,
+  "time_updated": "2025-12-11 12:26:32",
+  "n_docs": 92595,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 92581,
+  "n_docs_with_text": 92595,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-11",
-  "dataset_size": 1389496506,
+  "dataset_size": 1389771708,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-11-virakesarilk-693167c9",
-    "num": "virakesarilk-693167c9",
+    "doc_id": "2025-12-11-virakesarilk-fe7d1d68",
+    "num": "virakesarilk-fe7d1d68",
     "date_str": "2025-12-11",
-    "description": "\u0bae\u0bca\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bcb  - \u0b83\u0baa\u0bc6\u0bb8\u0bcd \u0ba8\u0b95\u0bb0\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 22 \u0baa\u0bc7\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/233048",
+    "description": "\u0b95\u0bbe\u0bb2\u0bbf - \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 ; \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/233058",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1765433520.0
+    "time_ut": 1765435440.0
   }
 }
