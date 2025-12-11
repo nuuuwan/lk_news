@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-11 06:04:30",
-  "n_docs": 92518,
+  "time_updated": "2025-12-11 06:31:23",
+  "n_docs": 92530,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 92518,
+  "n_docs_with_text": 92530,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-11",
-  "dataset_size": 1388563942,
+  "dataset_size": 1388814111,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-11-dailyftlk-bf04e345",
-    "num": "dailyftlk-bf04e345",
+    "doc_id": "2025-12-11-dailyftlk-72556515",
+    "num": "dailyftlk-72556515",
     "date_str": "2025-12-11",
-    "description": "Australia and UNFPA partner to protect cyclone-affected women and girls",
-    "url_metadata": "https://www.ft.lk/news/Australia-and-UNFPA-partner-to-protect-cyclone-affected-women-and-girls/56-785510",
+    "description": "Nation branding \u2018earned,  not advertised\u2019: Mudadeniya",
+    "url_metadata": "https://www.ft.lk/business/Nation-branding-earned-not-advertised-Mudadeniya/34-785522",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765413061.0
+    "time_ut": 1765414099.0
   }
 }
