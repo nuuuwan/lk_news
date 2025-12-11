@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-11 22:51:05",
-  "n_docs": 92714,
+  "time_updated": "2025-12-11 23:24:08",
+  "n_docs": 92724,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 92714,
+  "n_docs_with_text": 92724,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-11",
-  "dataset_size": 1391763529,
+  "dataset_size": 1391868848,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-11-lankadeepalk-4e58ea45",
-    "num": "lankadeepalk-4e58ea45",
+    "doc_id": "2025-12-11-virakesarilk-b8c4e7ad",
+    "num": "virakesarilk-b8c4e7ad",
     "date_str": "2025-12-11",
-    "description": "\u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dba \u0d9a\u0dbd\u0dd2\u0db1\u0dca \u0d9a\u0dd0\u0db3\u0dc0\u0db1\u0dca\u0db1: \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2\u0dba \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dad\u0dc3\u0db6\u0dba-\u0d9a\u0dbd\u0db1-\u0d9a\u0db3\u0dc0\u0db1\u0db1-\u0dc0\u0db4\u0d9a\u0dc2\u0dba-\u0d89\u0dbd\u0dbd\u0dba/101-685117",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1765472295.0
+    "description": "\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/233130",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765473780.0
   }
 }
