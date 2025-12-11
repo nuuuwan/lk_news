@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--11_20:49:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--11_21:22:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,683** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,701** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-11-virakesarilk-8746970a",
-    "num": "virakesarilk-8746970a",
+    "doc_id": "2025-12-11-lankadeepalk-8e560883",
+    "num": "lankadeepalk-8e560883",
     "date_str": "2025-12-11",
-    "description": "\u0b85\u0b95\u0bbf\u0bb2 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0bb4\u0bc1\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0b9f\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0b95\u0bae\u0bcd \u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/233119",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765458780.0
+    "description": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad\u0dc1\u0dcf\u0dbd\u0dcf \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca \u0dc4\u0ddc\u0dbb \u0d85\u0dad\u0dd2\u0d9a\u0dcf\u0dbd \u0d85\u0dbb\u0d9c\u0dd9\u0db1",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d9a\u0dc5\u0db9-\u0db1\u0d9c\u0dbb-\u0dc3\u0db7-\u0d9a\u0dbb\u0db8\u0db1\u0dad\u0dc1\u0dbd-\u0dc3\u0dc0\u0d9a\u0dba\u0db1-\u0dc4\u0dbb-\u0d85\u0dad\u0d9a\u0dbd-\u0d85\u0dbb\u0d9c\u0db1/1-685106",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1765467996.0
 }
 ```
 
@@ -41,6 +41,18 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-11 | `lankadeepalk-8e560883` | කොළඹ නගර සභා කර්මාන්තශාලා සේවකයන් හොර අතිකාල අරගෙන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-8e560883)
+- 2025-12-11 | `lankadeepalk-dd421f83` | මානව හිමිකම් කොමිසමේ නිලධාරිනියත් හිමි කම් ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-dd421f83)
+- 2025-12-11 | `lankadeepalk-cc4ab4c8` | මඩොල්සිම මැටිගහතැන්න මාර්ගය යළි වසයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-cc4ab4c8)
+- 2025-12-11 | `lankadeepalk-c02a20f7` | මහවැලියට ආසියානු සංවර්ධන බැංකුවෙන් ණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-c02a20f7)
+- 2025-12-11 | `virakesarilk-99300d93` | ‘Rebuilding Sri Lanka’ நிதியத்திற்குThilakawardena Textile (Pvt) Ltd நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-99300d93)
+- 2025-12-11 | `virakesarilk-2042d6a1` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு10 மில்லியன் ரூபா நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-2042d6a1)
+- 2025-12-11 | `virakesarilk-f6771681` | கொழும்பில் உள்ள இராஜதந்திரிகளின் தனிப்பட்ட நிதியிலிருந்து‘Rebuilding Sri Lanka’ நிதியத்திற்கு  3.6 மில்லியன் ரூபா நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-f6771681)
+- 2025-12-11 | `virakesarilk-db1d948a` | ஜேர்மன் விமான நிலையத்தில் ஸ்ரீலங்கன் ஏர்லைன்ஸ் விமானத்திற்கு தரையிறக்க நடவடிக்கை சேவை ஒப்பந்தம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-db1d948a)
+- 2025-12-11 | `virakesarilk-c7a11c80` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு Maga Engineering (Pvt) Ltd நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-c7a11c80)
+- 2025-12-11 | `virakesarilk-d70e1dff` | அரசின் அனர்த்த மீட்பு நிதியத்துக்கு இரண்டு மில்லியன் வழங்கி வைத்தார் கலாநிதி ஜனகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-d70e1dff)
+- 2025-12-11 | `virakesarilk-1fe26688` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு Memon Association of Sri Lanka   நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-1fe26688)
+- 2025-12-11 | `virakesarilk-f8dde547` | டித்வா புயலால் பாதிக்கப்பட்ட இலங்கைக்கு அவசர உதவிகளை வழங்க 35 மில்லியன் அமெரிக்க டொலர் நிதி கோரி மனிதநேய முன்னுரிமைத் திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-f8dde547)
 - 2025-12-11 | `virakesarilk-8746970a` | அகில இலங்கை மக்கள் எழுச்சிக் கட்சியின் மக்கள் தொடர்பாடல் தலைமையகம் திறந்து வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-8746970a)
 - 2025-12-11 | `virakesarilk-af554aac` | அமெரிக்க இராஜாங்க துணைச் செயலாளர் - ஜனாதிபதி அநுரகுமார இடையில்  சந்திப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-af554aac)
 - 2025-12-11 | `virakesarilk-f1a0dd49` | பேரிடர் பாதிப்படைந்த வழிபாட்டு தலங்களை சுத்தம் செய்து மீள ஆரம்பிக்க உதவ அமைச்சரவை அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-f1a0dd49)
@@ -49,18 +61,6 @@ A collection of lk_news documents.
 - 2025-12-11 | `adalk-33faab2c` | ප්‍රාථමික සෞඛ්‍ය නැංවීමට ඩබල් කැබ් හා යතුරු පැදි මිලට ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-adalk-33faab2c)
 - 2025-12-11 | `virakesarilk-b00787df` | கொழும்பு சீமாட்டி றிட்ஜ்வே சிறுவர் வைத்தியசாலையை அபிவிருத்தி செய்ய அமைச்சரவை அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-b00787df)
 - 2025-12-11 | `virakesarilk-b05fa2d8` | இலங்கையின் கிழக்கு ஆழ்கடலில் நோய்வாய்ப்பட்ட மற்றும் ஆபத்தான மீனவரை சிகிச்சைக்காக கரைக்கு கொண்டு வருவதற்கு கடற்படையின் உதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-b05fa2d8)
-- 2025-12-11 | `virakesarilk-d3cbb383` | இலங்கை புகையிரதத் திணைக்களத்தில் உருக்குலைந்த இரும்பு உலோகங்களை அகற்ற அமைச்சரவை அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-d3cbb383)
-- 2025-12-11 | `virakesarilk-d4dfa00f` | நாடளாவிய ஆரம்ப சுகாதாரப் பராமரிப்பு மேம்பாட்டுக்காக வாகனங்கள் கொள்வனவுக்கு அமைச்சரவை அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-d4dfa00f)
-- 2025-12-11 | `virakesarilk-e28db9b4` | நிர்மலா சீதாரமனுடன் செந்தில் தொண்டமான் சந்திப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-e28db9b4)
-- 2025-12-11 | `tamilmirrorlk-0c5dc305` | மனிதாபிமானத் திட்டத்தை அறிமுகப்படுத்திய ஐ.நா. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-tamilmirrorlk-0c5dc305)
-- 2025-12-11 | `lankadeepalk-055be5fa` | පළාත්  ඡන්ද ක්‍රමය තීරණයට විශේෂ කාරක සභාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-055be5fa)
-- 2025-12-11 | `lankadeepalk-a6a9f6e8` | ගම්පොළ 2500ක් තවමත් කොටුවෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-a6a9f6e8)
-- 2025-12-11 | `adalk-f9a831a7` | දිත්වාගේ හානිය ගැන නිල තක්සේරුවක් ලබන 20දාට පෙර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-adalk-f9a831a7)
-- 2025-12-11 | `virakesarilk-66f6afbf` | கொழும்பு பல்கலைக்கழகம் மற்றும் மாலைதீவு சுகாதார அமைச்சுக்கிடையில் கல்வி ஒத்துழைப்புக்கு அமைச்சரவை அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-66f6afbf)
-- 2025-12-11 | `virakesarilk-64d11822` | இலங்கை கடல்சார் சூழல் பாதுகாப்பு மற்றும் தேசிய மறுசீரமைப்புக்கு SVA மற்றும் MEPA ஒத்துழைப்பு ஒப்பந்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-64d11822)
-- 2025-12-11 | `lankadeepalk-bf2433e5` | ජනාධිපති අරමුදලෙන් විජේවර්ධන බාලිකා නිවාසයට එළියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-bf2433e5)
-- 2025-12-11 | `adalk-9c1e82ce` | නුවරඑලිය ආර්ථිකයෙන් කොළඹට එළවලු කිලෝ ලක්ෂයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-adalk-9c1e82ce)
-- 2025-12-11 | `virakesarilk-61144bbe` | யாழில்  வீடொன்றில் தீ விபத்து - ஆசிரியை உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-61144bbe)
 
 ---
 
