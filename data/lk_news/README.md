@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--11_09:57:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--11_10:25:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,549** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,552** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-11-tamilmirrorlk-afabec25",
-    "num": "tamilmirrorlk-afabec25",
+    "doc_id": "2025-12-11-tamilmirrorlk-673bfc9b",
+    "num": "tamilmirrorlk-673bfc9b",
     "date_str": "2025-12-11",
-    "description": "\u0baa\u0bcb\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bc8 \u0b85\u0ba4\u0bbf\u0b95 \u0bb5\u0bbf\u0bb2\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0bb1  \u0b9a\u0bc2\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb0\u0bc2.500,000 \u0b85\u0baa\u0bb0\u0bbe\u0ba4\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0bcb\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd-\u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bc8-\u0b85\u0ba4\u0bbf\u0b95-\u0bb5\u0bbf\u0bb2\u0bc8-\u0bb5\u0bbf\u0bb1\u0bcd\u0bb1-\u0b9a\u0bc2\u0baa\u0bcd\u0baa\u0bb0\u0bcd-\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb0\u0bc2-500-000-\u0b85\u0baa\u0bb0\u0bbe\u0ba4\u0bae\u0bcd/76-369394",
+    "description": "\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bbf\u0baf \u0b93\u0b9f\u0bcd\u0b9f\u0bcb",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bbe\u0b95-\u0bae\u0bbe\u0bb1\u0bbf\u0baf-\u0b93\u0b9f\u0bcd\u0b9f\u0bcb/175-369399",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1765426763.0
+    "time_ut": 1765428224.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-11 | `tamilmirrorlk-673bfc9b` | விமானமாக மாறிய ஓட்டோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-tamilmirrorlk-673bfc9b)
+- 2025-12-11 | `lankadeepalk-ec3e23aa` | බඩෝවිට අසංකගේ මත්ජාවාරම මෙහෙයවු  කතුන් දෙකක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-ec3e23aa)
+- 2025-12-11 | `tamilmirrorlk-5fb7f251` | கழுத்தில் தாலி ஏறியதும் தப்பி ஓடிய மணப்பெண் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-tamilmirrorlk-5fb7f251)
 - 2025-12-11 | `tamilmirrorlk-afabec25` | போத்தல் தண்ணீரை அதிக விலை விற்ற  சூப்பர் மார்க்கெட்டுக்கு ரூ.500,000 அபராதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-tamilmirrorlk-afabec25)
 - 2025-12-11 | `lankadeepalk-751180bf` | දඹුල්ල මහ නගරසභා අය වැය සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-751180bf)
 - 2025-12-11 | `lankadeepalk-1d829b34` | නුවරඑළියට පිවිසීමට ඇති මාර්ග සියල්ලම යථා තත්ත්වයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-1d829b34)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-11 | `lankadeepalk-520f834b` | පස්වරුවේ තැනින් තැනට තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-520f834b)
 - 2025-12-11 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-3a015e4a)
 - 2025-12-11 | `dailyftlk-72556515` | Nation branding ‘earned,  not advertised’: Mudadeniya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-dailyftlk-72556515)
-- 2025-12-11 | `dailyftlk-6ac5d356` | Hemas listed in Forbes’ Top 200 Under A Billion in Asia for 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-dailyftlk-6ac5d356)
-- 2025-12-11 | `dailyftlk-3487d78a` | Sri Lanka to showcase largest-ever B2B country pavilion at Gulfood 2026 in Dubai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-dailyftlk-3487d78a)
-- 2025-12-11 | `dailyftlk-a961d14c` | Hela Apparel outlines Rs. 15.1 b debt restructuring terms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-dailyftlk-a961d14c)
 
 ---
 
