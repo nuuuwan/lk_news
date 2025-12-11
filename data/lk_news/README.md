@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--11_12:50:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--11_13:20:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,601** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,604** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-11-tamilmirrorlk-96c600b6",
-    "num": "tamilmirrorlk-96c600b6",
+    "doc_id": "2025-12-11-lankadeepalk-32be7c80",
+    "num": "lankadeepalk-32be7c80",
     "date_str": "2025-12-11",
-    "description": "\u0b87\u0ba4\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd... \u0b85\u0ba9\u0bc1\u0bb0\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1  \u0bb9\u0b95\u0bcd\u0b95\u0bc0\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba4\u0bc8-\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0ba9\u0bc1\u0bb0\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb9\u0b95\u0bcd\u0b95\u0bc0\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd/175-369408",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1765437002.0
+    "description": "\u0db8\u0dcf\u0dad\u0dbd\u0dda \u0db8\u0dc4\u0db1\u0d9c\u0dbb\u0dc3\u0db7\u0dcf \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0dad\u0dca \u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dad\u0dbd-\u0db8\u0dc4\u0db1\u0d9c\u0dbb\u0dc3\u0db7-\u0d85\u0dba\u0dc0\u0dba\u0dad-\u0dc3\u0db8\u0db8\u0dad\u0dba/1-685083",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1765438667.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-11 | `lankadeepalk-32be7c80` | මාතලේ මහනගරසභා අයවැයත් සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-32be7c80)
+- 2025-12-11 | `lankadeepalk-5376ea2c` | නිලධාරීන් දුන් උපදෙස් නොපිලිපැදීමෙන් ජීවිත රැසක් නැති වුණා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-5376ea2c)
 - 2025-12-11 | `tamilmirrorlk-96c600b6` | இதை செய்யுங்கள்... அனுரவுக்கு  ஹக்கீம் அதிரடி கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-tamilmirrorlk-96c600b6)
 - 2025-12-11 | `tamilmirrorlk-e43c0356` | பொகவந்தலாவை சென்மேரிஸ் கல்லூரி மூழ்கும் அபாயத்தில் உள்ளதா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-tamilmirrorlk-e43c0356)
 - 2025-12-11 | `virakesarilk-fe7d1d68` | காலி - கொழும்பு பிரதான வீதியில் விபத்து ; மூவர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-fe7d1d68)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-11 | `virakesarilk-a930b8f5` | 'கெஹெல்பத்தர பத்மே'  தலைமையிலான குற்றச் செயல்களை மேற்கொள்ள பண ஒப்பந்தங்களில் ஈடுபட்ட இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-a930b8f5)
 - 2025-12-11 | `virakesarilk-693167c9` | மொரோக்கோ  - ஃபெஸ் நகரில் இரண்டு கட்டிடங்கள் இடிந்து விழுந்து 22 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-693167c9)
 - 2025-12-11 | `virakesarilk-819d81e7` | தெமோதரையில் மண்சரிவு அபாயம் ; 34 குடும்பங்கள் இடம்யெர்வு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-virakesarilk-819d81e7)
-- 2025-12-11 | `tamilmirrorlk-9527b72a` | “ஜப்​பானில் ஒரு வாரத்​துக்​குள் பாரிய நிலநடுக்​கம், சுனாமி” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-tamilmirrorlk-9527b72a)
-- 2025-12-11 | `lankadeepalk-8b5f3623` | බගවන්තලාව ශාන්ත මේරිස් විදුහල ගිලා බැසීමේ අවදානමක? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-11-lankadeepalk-8b5f3623)
 
 ---
 
