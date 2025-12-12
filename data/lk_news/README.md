@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_07:15:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_08:20:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,771** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,776** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-12-tamilmirrorlk-56cc7924",
-    "num": "tamilmirrorlk-56cc7924",
+    "doc_id": "2025-12-12-dailyftlk-382eebe5",
+    "num": "dailyftlk-382eebe5",
     "date_str": "2025-12-12",
-    "description": "\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b95\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1-\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd-\u0b95\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1/50-369447",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1765503207.0
+    "description": "Banking assets up 16% YoY to Rs. 24.5 t in 9M",
+    "url_metadata": "https://www.ft.lk/business/Banking-assets-up-16-YoY-to-Rs-24-5-t-in-9M/34-785573",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765506549.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-12 | `dailyftlk-382eebe5` | Banking assets up 16% YoY to Rs. 24.5 t in 9M | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-382eebe5)
+- 2025-12-12 | `dailyftlk-b39a6f8a` | US Fed delivers third rate cut of the year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-b39a6f8a)
+- 2025-12-12 | `dailyftlk-a15e2c7d` | Cabinet green lights procuring range of vehicles and equipment to boost primary health care system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-a15e2c7d)
 - 2025-12-12 | `tamilmirrorlk-56cc7924` | தாய்லாந்து பாராளுமன்றம் கலைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-tamilmirrorlk-56cc7924)
 - 2025-12-12 | `tamilmirrorlk-9c0946ef` | அயலகத் தமிழர் தினவிழா 2026 சென்னையில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-tamilmirrorlk-9c0946ef)
 - 2025-12-12 | `lankadeepalk-b3eac373` | ලංකාවට තවත් ණය එපා:එය දරා ගන්න බෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-b3eac373)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-12 | `dailyftlk-23c04d5b` | A new era for microfinance and money lending in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-23c04d5b)
 - 2025-12-12 | `dailyftlk-88f7b630` | Viet Nam trade delegation signals timely investment momentum  for SL’s post-cyclone recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-88f7b630)
 - 2025-12-12 | `dailyftlk-51a52768` | Sri Lanka pavilion gains prominent attention at Productronica 2025 in Germany | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-51a52768)
-- 2025-12-12 | `dailyftlk-d516a676` | AKD says Sri Lanka remains grateful for support extended by US and other friendly nations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-d516a676)
-- 2025-12-12 | `dailyftlk-87a4a074` | EU commits  € 1.8 m in response to floods in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-87a4a074)
-- 2025-12-12 | `dailyftlk-fee5b983` | Germany pledges € 500,000 in emergency assistance to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-fee5b983)
 
 ---
 
