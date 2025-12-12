@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_17:50:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_18:29:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,885** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,888** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-12-virakesarilk-704716ff",
-    "num": "virakesarilk-704716ff",
+    "doc_id": "2025-12-12-lankadeepalk-da2fb368",
+    "num": "lankadeepalk-da2fb368",
     "date_str": "2025-12-12",
-    "description": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bbe\u0bb2\u0bcd\u0ba8\u0b9f\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0ba8\u0b9f\u0bae\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bcd\u0ba8\u0b9f\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/233200",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765540980.0
+    "description": "\u0db8\u0dad\u0dca\u0db4\u0dd0\u0db1\u0dca \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dad\u0db4\u0db1-\u0db6\u0dbd\u0db4\u0dad\u0dbb-\u0d9c\u0dc3\u0dad-\u0d89\u0dc4\u0dc5\u0da7/101-685184",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1765542315.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-12 | `lankadeepalk-da2fb368` | මත්පැන් බලපත්‍ර ගාස්තු ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-da2fb368)
+- 2025-12-12 | `lankadeepalk-e70baf8f` | බෙලිඅත්ත ප්‍රාදේශීය සභාවේ හිටපු සභාපති රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-e70baf8f)
 - 2025-12-12 | `virakesarilk-704716ff` | மன்னார் மாவட்டத்தில் பாதிக்கப்பட்ட கால்நடைகளுக்கான விசேட நடமாடும் கால்நடை வைத்திய நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-704716ff)
+- 2025-12-12 | `adalk-6a3da828` | දිත්වා නිසා විදුලි පාරිභෝගිකයන් මිලියන 7න් 4කට බලපෑම් වුණා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-adalk-6a3da828)
 - 2025-12-12 | `virakesarilk-fb8e03d7` | மியன்மாரில் வைத்தியசாலை மீது தாக்குதல் ; 34 பேர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-fb8e03d7)
 - 2025-12-12 | `virakesarilk-4e1abb6f` | மலையகத்துக்குள்ளேயே அவர்களின் வாழ்வியலை உறுதிபடுத்த வடக்கு கிழக்கு மலையகமாக ஒன்றுபடுவோம் - அருட்தந்தை சத்திவேல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-4e1abb6f)
 - 2025-12-12 | `adalk-fe3c1508` | කළාවැවේ ධාරිතාව අක්කර අඩි 85364ක් දක්වා ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-adalk-fe3c1508)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-12 | `tamilmirrorlk-a1ea6e19` | 25,000 ரூபாய் நிவாரணம் கிடைக்கவில்லை : மாணவன் முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-tamilmirrorlk-a1ea6e19)
 - 2025-12-12 | `virakesarilk-798e06a9` | யாழ். மாவட்டசெயலாளரை சந்தித்தார்  துரைராசா ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-798e06a9)
 - 2025-12-12 | `virakesarilk-f4028256` | சாரதியிடம் இலஞ்சம் பெற்ற இரு பொலிஸ் உத்தியோகத்தர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-f4028256)
-- 2025-12-12 | `virakesarilk-c3674fb8` | இந்திய மீனவர்களின் அத்துமீறிய மீன்பிடிக்கு எதிராக யாழ். மாவட்ட செயலகத்தை முற்றுகையிட்டு போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-c3674fb8)
-- 2025-12-12 | `virakesarilk-7badc166` | நீர் நிலைகளின் நீரை  முறையாக முகாமைத்துவம் செய்திருந்தால் அனர்த்தத்தின் பாதிப்பை குறைத்துக்கொள்ள முடியுமாகி இருந்திருக்கும் - வஜிர அபேவர்த்தன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-7badc166)
-- 2025-12-12 | `virakesarilk-18837716` | வடகீழ் பருவப் பெயர்ச்சி காலநிலை : துறை சார்ந்தோருடன் கலந்துரையாடி முன்னாயத்த நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன - அனர்த்த முகாமைத்துவ மத்திய நிலைய பணிப்பாளர் நாயகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-18837716)
 
 ---
 
