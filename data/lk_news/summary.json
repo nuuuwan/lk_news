@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-13 00:25:54",
-  "n_docs": 92924,
+  "time_updated": "2025-12-13 00:46:28",
+  "n_docs": 92927,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 92924,
+  "n_docs_with_text": 92927,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-13",
-  "dataset_size": 1395862961,
+  "dataset_size": 1395934425,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-13-dailyftlk-3a510f6f",
-    "num": "dailyftlk-3a510f6f",
+    "doc_id": "2025-12-13-dailyftlk-b41694b7",
+    "num": "dailyftlk-b41694b7",
     "date_str": "2025-12-13",
-    "description": "Brands driving urban revitalisation through creativity, arts and culture",
-    "url_metadata": "https://www.ft.lk/columns/Brands-driving-urban-revitalisation-through-creativity-arts-and-culture/4-785591",
+    "description": "Lanka IOC donates Rs. 50 m to \u201cRebuilding Sri Lanka\u201d Fund",
+    "url_metadata": "https://www.ft.lk/business/Lanka-IOC-donates-Rs-50-m-to-Rebuilding-Sri-Lanka-Fund/34-785610",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765565067.0
+    "time_ut": 1765566479.0
   }
 }

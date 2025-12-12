@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--13_00:26:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--13_00:47:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,924** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,927** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-13-dailyftlk-3a510f6f",
-    "num": "dailyftlk-3a510f6f",
+    "doc_id": "2025-12-13-dailyftlk-b41694b7",
+    "num": "dailyftlk-b41694b7",
     "date_str": "2025-12-13",
-    "description": "Brands driving urban revitalisation through creativity, arts and culture",
-    "url_metadata": "https://www.ft.lk/columns/Brands-driving-urban-revitalisation-through-creativity-arts-and-culture/4-785591",
+    "description": "Lanka IOC donates Rs. 50 m to \u201cRebuilding Sri Lanka\u201d Fund",
+    "url_metadata": "https://www.ft.lk/business/Lanka-IOC-donates-Rs-50-m-to-Rebuilding-Sri-Lanka-Fund/34-785610",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765565067.0
+    "time_ut": 1765566479.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-13 | `dailyftlk-b41694b7` | Lanka IOC donates Rs. 50 m to “Rebuilding Sri Lanka” Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-dailyftlk-b41694b7)
+- 2025-12-13 | `dailyftlk-734d9a91` | Macksons Holdings donates  Rs. 15 m to ‘Rebuilding Sri Lanka’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-dailyftlk-734d9a91)
+- 2025-12-13 | `dailyftlk-90d8c832` | Musings from Houston: Embrace challenges and be ready to take off | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-dailyftlk-90d8c832)
 - 2025-12-13 | `dailyftlk-3a510f6f` | Brands driving urban revitalisation through creativity, arts and culture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-dailyftlk-3a510f6f)
 - 2025-12-13 | `dailyftlk-30adaea0` | US tariffs vs. Chinese supremacy: Can US soybean “Make America Great Again?” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-dailyftlk-30adaea0)
 - 2025-12-13 | `dailyftlk-fe6ec394` | News and irony intersect  in a cyclone’s aftermath | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-dailyftlk-fe6ec394)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-12 | `lankadeepalk-1c706896` | සරසවි ඉඩමක් සංචාරක වැඩකට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-1c706896)
 - 2025-12-12 | `virakesarilk-cf5fdac8` | நிவாரணப் பொருட்களுடன் திருகோணமலையில் தரையிறங்கிய அமெரிக்க விமானம் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-cf5fdac8)
 - 2025-12-12 | `adalk-21cf0a8f` | ඉදිරියට එන ජලය රඳවා ගන්න ඉඩක් තියෙනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-adalk-21cf0a8f)
-- 2025-12-12 | `virakesarilk-a54f1621` | வெளிநாடுகளுடனான சீன மக்கள் நட்புறவுச்சங்கம் இலங்கைக்கு 580,000 ஆர்.எம்.பி நிதியுதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-a54f1621)
-- 2025-12-12 | `virakesarilk-8c5c8691` | நோர்வே 2 மில்லியன் டொலர்கள் நிதியுதவி சர்வதேச அபிவிருத்தி அமைச்சர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-8c5c8691)
-- 2025-12-12 | `tamilmirrorlk-5cb8cbc6` | அசோக ரன்வல பிணையில் விடுவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-tamilmirrorlk-5cb8cbc6)
 
 ---
 
