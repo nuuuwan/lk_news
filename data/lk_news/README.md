@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_06:31:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_07:15:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,765** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,771** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-12-dailyftlk-a4f2054c",
-    "num": "dailyftlk-a4f2054c",
+    "doc_id": "2025-12-12-tamilmirrorlk-56cc7924",
+    "num": "tamilmirrorlk-56cc7924",
     "date_str": "2025-12-12",
-    "description": "From disaster to recovery:  Making the case for climate finance in post-flood rebuilding in Sri Lanka",
-    "url_metadata": "https://www.ft.lk/columns/From-disaster-to-recovery-Making-the-case-for-climate-finance-in-post-flood-rebuilding-in-Sri-Lanka/4-785560",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1765492735.0
+    "description": "\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b95\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1-\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd-\u0b95\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1/50-369447",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1765503207.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-12 | `tamilmirrorlk-56cc7924` | தாய்லாந்து பாராளுமன்றம் கலைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-tamilmirrorlk-56cc7924)
+- 2025-12-12 | `tamilmirrorlk-9c0946ef` | அயலகத் தமிழர் தினவிழா 2026 சென்னையில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-tamilmirrorlk-9c0946ef)
+- 2025-12-12 | `lankadeepalk-b3eac373` | ලංකාවට තවත් ණය එපා:එය දරා ගන්න බෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-b3eac373)
+- 2025-12-12 | `lankadeepalk-33b44188` | පළාත් රැසකට තරමක තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-33b44188)
 - 2025-12-12 | `dailyftlk-a4f2054c` | From disaster to recovery:  Making the case for climate finance in post-flood rebuilding in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-a4f2054c)
 - 2025-12-12 | `dailyftlk-1cbc6c13` | Why Sri Lanka needs a National Budget Performance and Evaluation Office now more than ever | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-1cbc6c13)
 - 2025-12-12 | `virakesarilk-b3d8c60c` | அர்ஜுன் மகேந்திரனைக் கைது செய்ய நீதிமன்றம் மீண்டும் திறந்த பிடியாணை உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-b3d8c60c)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-12 | `dailyftlk-d516a676` | AKD says Sri Lanka remains grateful for support extended by US and other friendly nations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-d516a676)
 - 2025-12-12 | `dailyftlk-87a4a074` | EU commits  € 1.8 m in response to floods in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-87a4a074)
 - 2025-12-12 | `dailyftlk-fee5b983` | Germany pledges € 500,000 in emergency assistance to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-fee5b983)
-- 2025-12-12 | `dailyftlk-83cbe350` | Sri Dalada Maligawa contributes to ’Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-83cbe350)
-- 2025-12-12 | `dailyftlk-aa040370` | Colombo-based diplomats make Rs. 3.6 m personal contribution to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-aa040370)
-- 2025-12-12 | `dailyftlk-f6dd5907` | Unilever says Sri Lanka still well-poised for growth despite small market size | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-f6dd5907)
-- 2025-12-12 | `dailyftlk-7030b6d6` | NCPA calls on public to report suspicious childcare offers to 1929 helpline | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-dailyftlk-7030b6d6)
 
 ---
 
