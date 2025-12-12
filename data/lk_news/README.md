@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_21:20:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_21:48:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,912** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,915** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-12-lankadeepalk-bf9339fe",
-    "num": "lankadeepalk-bf9339fe",
+    "doc_id": "2025-12-12-virakesarilk-e984c490",
+    "num": "virakesarilk-e984c490",
     "date_str": "2025-12-12",
-    "description": "\u0d9a\u0ddc\u0db1\u0dca\u0daf \u0dc4\u0dba\u0dd2\u0dba \u0d9a\u0dbb\u0db1 \u0db6\u0dda\u0dad\u0d9a\u0dca \u0d9c\u0dda\u0db1 \u0dbd\u0d82\u0dc3\u0dd4\u0dc0 \u0daf\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0db1\u0daf-\u0dc4\u0dba\u0dba-\u0d9a\u0dbb\u0db1-\u0db6\u0dad\u0d9a-\u0d9c\u0db1-\u0dbd\u0dc3\u0dc0-\u0daf\u0dba/101-685190",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1765553565.0
+    "description": "\u0b9f\u0bbf\u0ba4\u0bcd\u0bb5\u0bbe \u0baa\u0bc1\u0baf\u0bb2\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd, \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc1\u0ba4\u0bb5\u0bbf \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b90. \u0ba8\u0bbe. \u0b9a\u0ba9\u0ba4\u0bcd\u0ba4\u0bca\u0b95\u0bc8 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0b85\u0bb5\u0b9a\u0bb0 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd !",
+    "url_metadata": "https://www.virakesari.lk/article/233223",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765554840.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-12 | `virakesarilk-e984c490` | டித்வா புயலால் பாதிக்கப்பட்ட பெண்கள், சிறுமியர்களின் பாதுகாப்புக்கு நிதியுதவி வழங்குமாறு ஐ. நா. சனத்தொகை நிதியம் அவசர வேண்டுகோள் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-e984c490)
+- 2025-12-12 | `virakesarilk-fe6b2825` | இலங்கையுடன் நண்பனாக இருப்பதில் பெருமை — அமெரிக்க தூதர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-fe6b2825)
 - 2025-12-12 | `lankadeepalk-bf9339fe` | කොන්ද හයිය කරන බේතක් ගේන ලංසුව දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-bf9339fe)
 - 2025-12-12 | `adalk-763a27ae` | වරෙන්තු 88 කට අවශ්‍යකර සිටි සැකකරුවෙකු අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-adalk-763a27ae)
 - 2025-12-12 | `lankadeepalk-d213f709` | ආපදාවට මුහුණ දෙන්න සියලු පාර්ශව සූදානම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-d213f709)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-12 | `virakesarilk-f5d2935a` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு Colombo West International Terminal (Private) Limited நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-f5d2935a)
 - 2025-12-12 | `virakesarilk-f3b6ccaf` | மண்முனைப் பற்று பிரதேச சபையின் 2026 ஆண்டுக்கான வரவு - செலவுத் திட்டம் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-f3b6ccaf)
 - 2025-12-12 | `virakesarilk-650b215f` | நடிகர் தனுஷ் வெளியிட்ட விக்ரம் பிரபு நடிக்கும் 'சிறை' படத்தின் முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-650b215f)
-- 2025-12-12 | `virakesarilk-afbb6a43` | நடிகர் ஆர்யா நடிக்கும்'ஆர்யா 40' படத் தொடக்க விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-afbb6a43)
-- 2025-12-12 | `virakesarilk-d8727414` | பின்னணி குரல் பதிவு பணியில் பரபரப்பாக இயங்கி வரும் ரவி மோகனின் 'கராத்தே பாபு' படக் குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-d8727414)
 
 ---
 
