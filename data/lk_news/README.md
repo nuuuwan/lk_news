@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_23:49:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--13_00:26:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,921** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,924** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-12-lankadeepalk-a928ee0a",
-    "num": "lankadeepalk-a928ee0a",
-    "date_str": "2025-12-12",
-    "description": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d9a\u0dad\u0dcf\u0db1\u0dcf\u0dba\u0d9a \u0dbb\u0db1\u0dca\u0dc0\u0dbd\u0da7 \u0d87\u0db4",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0da7\u0db4-\u0d9a\u0dad\u0db1\u0dba\u0d9a-\u0dbb\u0db1\u0dc0\u0dbd\u0da7-\u0d87\u0db4/1-685191",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1765560387.0
+    "doc_id": "2025-12-13-dailyftlk-3a510f6f",
+    "num": "dailyftlk-3a510f6f",
+    "date_str": "2025-12-13",
+    "description": "Brands driving urban revitalisation through creativity, arts and culture",
+    "url_metadata": "https://www.ft.lk/columns/Brands-driving-urban-revitalisation-through-creativity-arts-and-culture/4-785591",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765565067.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-13 | `dailyftlk-3a510f6f` | Brands driving urban revitalisation through creativity, arts and culture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-dailyftlk-3a510f6f)
+- 2025-12-13 | `dailyftlk-30adaea0` | US tariffs vs. Chinese supremacy: Can US soybean “Make America Great Again?” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-dailyftlk-30adaea0)
+- 2025-12-13 | `dailyftlk-fe6ec394` | News and irony intersect  in a cyclone’s aftermath | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-dailyftlk-fe6ec394)
 - 2025-12-12 | `lankadeepalk-a928ee0a` | හිටපු කතානායක රන්වලට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-a928ee0a)
 - 2025-12-12 | `virakesarilk-9c89bdce` | டிசம்பர், ஜனவரி மாதங்களில் மீண்டும் புயல் உருவாகும் வாய்ப்பு அதிகம் - காலநிலை நிபுணர்கள் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-9c89bdce)
 - 2025-12-12 | `virakesarilk-e984c490` | டித்வா புயலால் பாதிக்கப்பட்ட பெண்கள், சிறுமியர்களின் பாதுகாப்புக்கு நிதியுதவி வழங்குமாறு ஐ. நா. சனத்தொகை நிதியம் அவசர வேண்டுகோள் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-e984c490)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-12 | `virakesarilk-a54f1621` | வெளிநாடுகளுடனான சீன மக்கள் நட்புறவுச்சங்கம் இலங்கைக்கு 580,000 ஆர்.எம்.பி நிதியுதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-a54f1621)
 - 2025-12-12 | `virakesarilk-8c5c8691` | நோர்வே 2 மில்லியன் டொலர்கள் நிதியுதவி சர்வதேச அபிவிருத்தி அமைச்சர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-8c5c8691)
 - 2025-12-12 | `tamilmirrorlk-5cb8cbc6` | அசோக ரன்வல பிணையில் விடுவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-tamilmirrorlk-5cb8cbc6)
-- 2025-12-12 | `lankadeepalk-1e3f4a70` | එක්ලක්ෂ හැත්තපන්දාහකට බොන්න වතුර දෙන වැඩක් අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-1e3f4a70)
-- 2025-12-12 | `lankadeepalk-890cd4bb` | මාලදිවයින එක්ක ක්‍රීඩා සහයෝගීතා ගිවිසුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-890cd4bb)
-- 2025-12-12 | `virakesarilk-f5d2935a` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு Colombo West International Terminal (Private) Limited நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-f5d2935a)
 
 ---
 
