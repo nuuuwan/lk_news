@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-13 00:46:28",
-  "n_docs": 92927,
+  "time_updated": "2025-12-13 01:16:01",
+  "n_docs": 92931,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 92927,
+  "n_docs_with_text": 92931,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-13",
-  "dataset_size": 1395934425,
+  "dataset_size": 1395972461,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-13-dailyftlk-b41694b7",
-    "num": "dailyftlk-b41694b7",
+    "doc_id": "2025-12-13-dailyftlk-90cf927d",
+    "num": "dailyftlk-90cf927d",
     "date_str": "2025-12-13",
-    "description": "Lanka IOC donates Rs. 50 m to \u201cRebuilding Sri Lanka\u201d Fund",
-    "url_metadata": "https://www.ft.lk/business/Lanka-IOC-donates-Rs-50-m-to-Rebuilding-Sri-Lanka-Fund/34-785610",
+    "description": "Norway supports flood-affected communities in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/Norway-supports-flood-affected-communities-in-Sri-Lanka/56-785614",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765566479.0
+    "time_ut": 1765566683.0
   }
 }
