@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_11:19:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_11:50:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,820** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,824** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-12-virakesarilk-c832ecdf",
-    "num": "virakesarilk-c832ecdf",
+    "doc_id": "2025-12-12-lankadeepalk-69e59580",
+    "num": "lankadeepalk-69e59580",
     "date_str": "2025-12-12",
-    "description": "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc6\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b95\u0bca\u0bb2\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbe\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb0\u0ba3\u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/233158",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765517700.0
+    "description": "\u2018\u0daf\u0dd2\u0da7\u0dca\u0dc0\u0dcf\u2018 \u0d9c\u0dd9\u0db1\u0dca \u0dc5\u0db8\u0dba\u0db1\u0dca \u0d85\u0db1\u0dcf\u0dae\u0dc0\u0dd3\u0db8",
+    "url_metadata": "https://www.lankadeepa.lk/features/\u0daf\u0da7\u0dc0-\u0d9c\u0db1-\u0dc5\u0db8\u0dba\u0db1-\u0d85\u0db1\u0dae\u0dc0\u0db8/2-685143",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1765519947.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-12 | `lankadeepalk-69e59580` | ‘දිට්වා‘ ගෙන් ළමයන් අනාථවීම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-69e59580)
+- 2025-12-12 | `tamilmirrorlk-828ea360` | நுவரெலியாவுக்கு இரவில் செல்ல வேண்டாம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-tamilmirrorlk-828ea360)
+- 2025-12-12 | `tamilmirrorlk-e13a49c1` | 3 காதலிகளுக்காக திருடிய 18 வயது இளைஞன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-tamilmirrorlk-e13a49c1)
 - 2025-12-12 | `virakesarilk-c832ecdf` | நுவரெலியாவில் கொலைக் குற்றவாளிக்கு மரணதண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-c832ecdf)
 - 2025-12-12 | `virakesarilk-1c910d9f` | முன்னாள் சபாநாயகர் அசோக ரன்வல விபத்துக்குள்ளாகி வைத்தியசாலையில் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-1c910d9f)
 - 2025-12-12 | `virakesarilk-2727ee49` | “டித்வா” புயலில் பாதிக்கப்பட்ட சிறு விவசாயிகள், மீனவர்களுக்கு அவசர உதவி அவசியம் – ஐ.நா. உணவு மற்றும் விவசாய நிறுவனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-2727ee49)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-12 | `virakesarilk-322b4085` | சீரற்ற வானிலை: 4.95 இலட்சம் குடும்பங்களைச் சேர்ந்த 17 இலட்சம் பேர் பாதிப்பு - அனர்த்த முகாமைத்துவ மத்திய நிலையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-322b4085)
 - 2025-12-12 | `virakesarilk-45f7cf06` | அனர்த்தத்தில் சேதமடைந்த பாடசாலைகளை மீண்டும் மீட்டெடுக்க  ‘பிரதிஷ்டா’ திட்டம் அறிமுகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-45f7cf06)
 - 2025-12-12 | `virakesarilk-4f1ea47d` | இணையவழி பணமோசடி: சந்தேகநபர் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-4f1ea47d)
-- 2025-12-12 | `virakesarilk-e5eeab3f` | பங்களாதேஷில் பெப்ரவரி மாதம் பொதுத் தேர்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-e5eeab3f)
-- 2025-12-12 | `tamilmirrorlk-f2b58531` | ஜப்பானில் பாரி நிலநடுக்கம் : சுனாமி எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-tamilmirrorlk-f2b58531)
-- 2025-12-12 | `lankadeepalk-cb25c4e0` | මාලදිවයින් දොස්තරලාට ලංකාවේ පුහුණුව | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-cb25c4e0)
 
 ---
 
