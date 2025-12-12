@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_18:29:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_18:57:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**92,888** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**92,894** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-12-lankadeepalk-da2fb368",
-    "num": "lankadeepalk-da2fb368",
+    "doc_id": "2025-12-12-virakesarilk-f5d2935a",
+    "num": "virakesarilk-f5d2935a",
     "date_str": "2025-12-12",
-    "description": "\u0db8\u0dad\u0dca\u0db4\u0dd0\u0db1\u0dca \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0d89\u0dc4\u0dc5\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dad\u0db4\u0db1-\u0db6\u0dbd\u0db4\u0dad\u0dbb-\u0d9c\u0dc3\u0dad-\u0d89\u0dc4\u0dc5\u0da7/101-685184",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1765542315.0
+    "description": "\u2018Rebuilding Sri Lanka\u2019 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 Colombo West International Terminal (Private) Limited \u0ba8\u0bbf\u0ba4\u0bbf \u0ba8\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/233202",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765543620.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-12 | `virakesarilk-f5d2935a` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு Colombo West International Terminal (Private) Limited நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-f5d2935a)
+- 2025-12-12 | `virakesarilk-f3b6ccaf` | மண்முனைப் பற்று பிரதேச சபையின் 2026 ஆண்டுக்கான வரவு - செலவுத் திட்டம் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-f3b6ccaf)
+- 2025-12-12 | `virakesarilk-650b215f` | நடிகர் தனுஷ் வெளியிட்ட விக்ரம் பிரபு நடிக்கும் 'சிறை' படத்தின் முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-650b215f)
+- 2025-12-12 | `virakesarilk-afbb6a43` | நடிகர் ஆர்யா நடிக்கும்'ஆர்யா 40' படத் தொடக்க விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-afbb6a43)
+- 2025-12-12 | `virakesarilk-d8727414` | பின்னணி குரல் பதிவு பணியில் பரபரப்பாக இயங்கி வரும் ரவி மோகனின் 'கராத்தே பாபு' படக் குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-d8727414)
+- 2025-12-12 | `virakesarilk-83c3def4` | சமூக அவலங்களை தோலுரித்துக் காட்டும் 'ராசாதி ராசா..' எனும் 'மை லார்ட்' பட பாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-83c3def4)
 - 2025-12-12 | `lankadeepalk-da2fb368` | මත්පැන් බලපත්‍ර ගාස්තු ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-da2fb368)
 - 2025-12-12 | `lankadeepalk-e70baf8f` | බෙලිඅත්ත ප්‍රාදේශීය සභාවේ හිටපු සභාපති රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-e70baf8f)
 - 2025-12-12 | `virakesarilk-704716ff` | மன்னார் மாவட்டத்தில் பாதிக்கப்பட்ட கால்நடைகளுக்கான விசேட நடமாடும் கால்நடை வைத்திய நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-704716ff)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2025-12-12 | `adalk-03129a1b` | කෑගල්ල ම. න. ස. අයවැය සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-adalk-03129a1b)
 - 2025-12-12 | `virakesarilk-0dd46220` | ஜப்பான் பேரிடர் நிவாரண மருத்துவக் குழுவின் சிலாபம் கள வைத்தியசாலையை பார்வையிட்டார் அமைச்சர் நளிந்த ஜயதிஸ்ஸ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-0dd46220)
 - 2025-12-12 | `adalk-bd52992b` | අශෝක රන්වල අත්අඩංගුවට - රන්වල සාමාන්‍ය පුරවැසියෙකු සේ සලකා නීතිය ක්‍රියාත්මක කරන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-adalk-bd52992b)
-- 2025-12-12 | `lankadeepalk-cd71ee44` | ’’අභියෝග වලට ඔරොත්තු දෙන ලාංකික ජාතියක් ගොඩ නගනවා’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-cd71ee44)
-- 2025-12-12 | `tamilmirrorlk-6213764d` | காணாமல் போன 193 பேருக்கு இறப்புப் பதிவுச் சான்றிதழ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-tamilmirrorlk-6213764d)
-- 2025-12-12 | `lankadeepalk-acc390b6` | පුත්තලමේ ඉඩමකින් ගිනිඅවියක් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-lankadeepalk-acc390b6)
-- 2025-12-12 | `tamilmirrorlk-a1ea6e19` | 25,000 ரூபாய் நிவாரணம் கிடைக்கவில்லை : மாணவன் முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-tamilmirrorlk-a1ea6e19)
-- 2025-12-12 | `virakesarilk-798e06a9` | யாழ். மாவட்டசெயலாளரை சந்தித்தார்  துரைராசா ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-798e06a9)
-- 2025-12-12 | `virakesarilk-f4028256` | சாரதியிடம் இலஞ்சம் பெற்ற இரு பொலிஸ் உத்தியோகத்தர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-12-virakesarilk-f4028256)
 
 ---
 

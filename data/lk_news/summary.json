@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-12 18:28:21",
-  "n_docs": 92888,
+  "time_updated": "2025-12-12 18:56:57",
+  "n_docs": 92894,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 92888,
+  "n_docs_with_text": 92894,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-12",
-  "dataset_size": 1395184444,
+  "dataset_size": 1395232690,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-12-lankadeepalk-da2fb368",
-    "num": "lankadeepalk-da2fb368",
+    "doc_id": "2025-12-12-virakesarilk-f5d2935a",
+    "num": "virakesarilk-f5d2935a",
     "date_str": "2025-12-12",
-    "description": "\u0db8\u0dad\u0dca\u0db4\u0dd0\u0db1\u0dca \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0d89\u0dc4\u0dc5\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dad\u0db4\u0db1-\u0db6\u0dbd\u0db4\u0dad\u0dbb-\u0d9c\u0dc3\u0dad-\u0d89\u0dc4\u0dc5\u0da7/101-685184",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1765542315.0
+    "description": "\u2018Rebuilding Sri Lanka\u2019 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 Colombo West International Terminal (Private) Limited \u0ba8\u0bbf\u0ba4\u0bbf \u0ba8\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/233202",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765543620.0
   }
 }
