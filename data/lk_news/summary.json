@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-12 13:18:33",
-  "n_docs": 92843,
+  "time_updated": "2025-12-12 13:48:56",
+  "n_docs": 92845,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 92843,
+  "n_docs_with_text": 92845,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-12",
-  "dataset_size": 1394039727,
+  "dataset_size": 1394098114,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-12-virakesarilk-b9f69e63",
-    "num": "virakesarilk-b9f69e63",
+    "doc_id": "2025-12-12-lankadeepalk-48fd30c8",
+    "num": "lankadeepalk-48fd30c8",
     "date_str": "2025-12-12",
-    "description": "\u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0b95\u0bbe\u0bb2 \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bb0\u0bc1\u0bb5 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bc1\u0ba9\u0bb0\u0bae\u0bc8\u0b95\u0bcd\u0b95 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/233175",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765525260.0
+    "description": "\u0db4\u0dd9\u0dbb \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d9c\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dd2\u0dba \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0dbb-\u0db4\u0dc3\u0dbd-\u0d9c\u0dbb\u0dc0\u0dbb\u0dba-\u0d85\u0db1\u0dad\u0dbb\u0db1-\u0db8\u0dbb\u0da7/101-685173",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1765526785.0
   }
 }
