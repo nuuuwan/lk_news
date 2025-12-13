@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--13_15:16:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--13_15:47:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,001** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,003** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-13-adalk-d16833f8",
-    "num": "adalk-d16833f8",
+    "doc_id": "2025-12-13-lankadeepalk-c97480fe",
+    "num": "lankadeepalk-c97480fe",
     "date_str": "2025-12-13",
-    "description": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc3\u0dc4 \u0d89\u0dad\u0dcf\u0dbd\u0dd2 \u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb \u0d85\u0db1\u0dca\u200d\u0dba\u0ddd\u0db1\u0dca\u200d\u0dba \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8 \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf-\u0dc3\u0dc4-\u0d89\u0dad\u0dcf\u0dbd\u0dd2-\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb-\u0d85\u0db1\u0dca\u200d\u0dba\u0ddd\u0db1\u0dca\u200d\u0dba-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-420217",
+    "description": "\u0d86\u0db4\u0daf\u0dcf \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0da7 \u0da9\u0da9\u0dca\u0dbd\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d9a\u0ddd\u0da7\u0dd2 \u0daf\u0dc4\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d86\u0db4\u0daf-\u0d85\u0dbb\u0db8\u0daf\u0dbd\u0da7-\u0da9\u0da9\u0dbd\u0d9c\u0db1-\u0d9a\u0da7-\u0daf\u0dc4\u0dba\u0d9a/1-685207",
     "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1765618608.0
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1765620363.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-13 | `lankadeepalk-c97480fe` | ආපදා අරමුදලට ඩඩ්ලිගෙන් කෝටි දහයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-lankadeepalk-c97480fe)
+- 2025-12-13 | `adalk-af4db93a` | දිත්වා නිසා හලාවත රෝහලට රු. මි. 1200 කට වැඩි හානියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-adalk-af4db93a)
 - 2025-12-13 | `adalk-d16833f8` | ශ්‍රී ලංකා සහ ඉතාලි රියදුරු බලපත්‍ර අන්‍යෝන්‍ය වශයෙන් පිළිගැනීමට ගිවිසුම අලුත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-adalk-d16833f8)
 - 2025-12-13 | `lankadeepalk-7711e2be` | මැතිසබයට ඇවිත් ආ පයින් ගෙදර ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-lankadeepalk-7711e2be)
 - 2025-12-13 | `adalk-63690dda` | නාවලපිටිය මහනුවර මාර්ගය හෙට විවෘත කිරීමට අවධානය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-adalk-63690dda)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-13 | `tamilmirrorlk-b6375e1d` | பாராளுமன்றம் 18ஆம் திகதி கூடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-tamilmirrorlk-b6375e1d)
 - 2025-12-13 | `virakesarilk-577efb79` | முல்லைத்தீவு வீதி விபத்தில் காயமடைந்தவர் சிகிச்சை பலனின்றி உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-virakesarilk-577efb79)
 - 2025-12-13 | `virakesarilk-53e1003a` | மொரட்டுமுல்லையில் மர ஆலை ஒன்றில் தீ பரவல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-virakesarilk-53e1003a)
-- 2025-12-13 | `tamilmirrorlk-ac1ea1f7` | போதைப்பொருள் விருந்து: 26 பேர் தெல்தெனியவில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-tamilmirrorlk-ac1ea1f7)
-- 2025-12-13 | `virakesarilk-ffd1dacc` | நேபாளத்தில் போர்க் காலச்சூழலில் பாலியல் வன்முறையால் பாதிக்கப்பட்ட குரலற்ற பெண்களுக்கு குரல் கொடுத்த போராளி தேவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-13-virakesarilk-ffd1dacc)
 
 ---
 
