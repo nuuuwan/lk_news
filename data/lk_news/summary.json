@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-13 15:46:18",
-  "n_docs": 93003,
+  "time_updated": "2025-12-13 16:18:01",
+  "n_docs": 93016,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 93003,
+  "n_docs_with_text": 93016,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-13",
-  "dataset_size": 1397359791,
+  "dataset_size": 1397445610,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-13-lankadeepalk-c97480fe",
-    "num": "lankadeepalk-c97480fe",
+    "doc_id": "2025-12-13-virakesarilk-036b4294",
+    "num": "virakesarilk-036b4294",
     "date_str": "2025-12-13",
-    "description": "\u0d86\u0db4\u0daf\u0dcf \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0da7 \u0da9\u0da9\u0dca\u0dbd\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0d9a\u0ddd\u0da7\u0dd2 \u0daf\u0dc4\u0dba\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d86\u0db4\u0daf-\u0d85\u0dbb\u0db8\u0daf\u0dbd\u0da7-\u0da9\u0da9\u0dbd\u0d9c\u0db1-\u0d9a\u0da7-\u0daf\u0dc4\u0dba\u0d9a/1-685207",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1765620363.0
+    "description": "\u0bae\u0b95\u0bbe \u0b9a\u0bc7\u0ba9\u0bbe - \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/233282",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765621020.0
   }
 }
