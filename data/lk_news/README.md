@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--14_17:15:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--14_17:50:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,166** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,169** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-14-virakesarilk-874d052d",
-    "num": "virakesarilk-874d052d",
+    "doc_id": "2025-12-14-lankadeepalk-c4155b2b",
+    "num": "lankadeepalk-c4155b2b",
     "date_str": "2025-12-14",
-    "description": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bc1\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b95\u0bc1\u0bb4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/233348",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765712280.0
+    "description": "\u0db8\u0dc0 \u0db8\u0dbd\u0dca\u0dc0\u0dad\u0dd4\u0d94\u0dba\u0da7 \u0dad\u0dbd\u0dca\u0dbd\u0dd4 \u0d9a\u0dc5 \u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda  \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb\u0dd4 \u0dc3\u0dd3\u0dba\u0dcf\u0da7 - \u0d86\u0da0\u0dca\u0da0\u0dd2\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dc0-\u0db8\u0dbd\u0dc0\u0dad\u0d94\u0dba\u0da7-\u0dad\u0dbd\u0dbd-\u0d9a\u0dc5-\u0daf\u0dbb\u0dc0\u0db1\u0d9c-\u0dc3\u0dbb\u0dbb-\u0dc3\u0dba\u0da7-\u0d86\u0da0\u0da0\u0da7/1-685254",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1765713270.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-14 | `lankadeepalk-c4155b2b` | මව මල්වතුඔයට තල්ලු කළ දරුවන්ගේ  සිරුරු සීයාට - ආච්චිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-c4155b2b)
+- 2025-12-14 | `virakesarilk-42bd8955` | யாழில். தேசத்தின் குரல் அன்ரன் பாலசிங்கத்தின் 19 ஆவது ஆண்டு நினைவேந்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-virakesarilk-42bd8955)
+- 2025-12-14 | `virakesarilk-b2ed83ba` | இந்த நேரத்தில் கல்வி மாணவர்களுக்குச் சுமையாக இருக்கக் கூடாது ; அவர்களின் மனநல மற்றும் சமூக நல்வாழ்விற்கு முன்னுரிமை அளியுங்கள் - பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-virakesarilk-b2ed83ba)
 - 2025-12-14 | `virakesarilk-874d052d` | நாட்டிலிருந்து புறப்பட்டது அமெரிக்க குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-virakesarilk-874d052d)
 - 2025-12-14 | `lankadeepalk-39347210` | කඳුකර ප්‍රදේශවල  පහළොස් දහසක් මරු කටේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-39347210)
 - 2025-12-14 | `lankadeepalk-b97e6a5c` | ගිනි අවියක් ජාඇළින් සොයා ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-b97e6a5c)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-14 | `virakesarilk-15e822bb` | தித்வா சூறாவளியும் பேரிடர் முகாமையும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-virakesarilk-15e822bb)
 - 2025-12-14 | `virakesarilk-9d1f478e` | அவுஸ்திரேலியாவில் துப்பாக்கிச் சூடு ; 10 பேர் பலி ; 12 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-virakesarilk-9d1f478e)
 - 2025-12-14 | `virakesarilk-243e9b2e` | பேராதனை புகையிரதப் பாலத்தின் சேதங்களை மதிப்பீடு செய்யும் பணிகள் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-virakesarilk-243e9b2e)
-- 2025-12-14 | `virakesarilk-c861c5ac` | ஹொன்டுராஸ் : களவாடப்பட்ட தேர்தல் வெற்றி? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-virakesarilk-c861c5ac)
-- 2025-12-14 | `lankadeepalk-f51f58e3` | සත්තු වත්තේ  පරවියෙක් හොරෙන් අරන් යන්න ගිය අයෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-f51f58e3)
-- 2025-12-14 | `virakesarilk-d91ac727` | தெற்கு அதிவேக நெடுஞ்சாலையில் வாகனம் தீப்பிடித்து எரிந்தது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-virakesarilk-d91ac727)
 
 ---
 
