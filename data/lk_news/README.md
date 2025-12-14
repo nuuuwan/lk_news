@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--14_19:47:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--14_20:19:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,177** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,178** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A collection of lk_news documents.
 - 2025-12-14 | `virakesarilk-2abdabde` | கந்தளாய் குளத்தின் வான் கதவுகள் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-virakesarilk-2abdabde)
 - 2025-12-14 | `lankadeepalk-249ed664` | නායයෑමෙන් අතුරුදන් වූ නෙතුකිගේ සිරුර හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-249ed664)
 - 2025-12-14 | `lankadeepalk-cca9bf94` | රටේ සහල් හිගයක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-cca9bf94)
+- 2025-12-14 | `adalk-8848fa96` | සෑම වගකීමක්ම රට ගොඩනැගීම සඳහා දක්වන දායකත්වයේ කොටසක් ලෙස සලකන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-adalk-8848fa96)
 - 2025-12-14 | `adalk-9bdbd6f9` | ඔස්ට්‍රේලියාවේ වෙඩි තැබිමකින් 12ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-adalk-9bdbd6f9)
 - 2025-12-14 | `adalk-4b418a38` | ඕස්ට්‍රේලියාවේ  වෙරළ තීරයක වෙඩි තැබීමක් - 11ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-adalk-4b418a38)
 - 2025-12-14 | `lankadeepalk-d5662808` | ඉන්දීය ආපදා ආධාර තොගයක් කටුනායකට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-d5662808)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-14 | `lankadeepalk-48644d8b` | ආපදා සහන දෙන හැටි ගැන අලුත් චක්‍රලේඛයක් එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-48644d8b)
 - 2025-12-14 | `tamilmirrorlk-f3d75cae` | மெஸ்ஸிக்காக தனது திருமணத்தை விட்டு வந்த ரசிகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-tamilmirrorlk-f3d75cae)
 - 2025-12-14 | `tamilmirrorlk-e96a1f27` | ஒரே பார்வையில்  அனர்த்த பேரழிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-tamilmirrorlk-e96a1f27)
-- 2025-12-14 | `lankadeepalk-b436191e` | ඕස්ට්‍රේලියාවේ වෙඩි තැබීමක් 10ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-b436191e)
 
 ---
 
