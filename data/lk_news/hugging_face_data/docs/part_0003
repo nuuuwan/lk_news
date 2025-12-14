@@ -293508,5 +293508,27 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1765753910.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-136f011c",
+    "num": "dailyftlk-136f011c",
+    "date_str": "2025-12-15",
+    "description": "Almas Holdings commits Rs. 250 m to \u2018Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/business/Almas-Holdings-commits-Rs-250-m-to-Rebuilding-Sri-Lanka-Fund/34-785645",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765753985.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-4c5f71e6",
+    "num": "dailyftlk-4c5f71e6",
+    "date_str": "2025-12-15",
+    "description": "EDB Chief says export future is not just bright, it is boundless",
+    "url_metadata": "https://www.ft.lk/business/EDB-Chief-says-export-future-is-not-just-bright-it-is-boundless/34-785646",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765754090.0
   }
 ]
