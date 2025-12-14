@@ -293398,5 +293398,115 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1765751040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-0721d66f",
+    "num": "dailyftlk-0721d66f",
+    "date_str": "2025-12-15",
+    "description": "Cabinet clears two major health sector procurements to strengthen critical care and essential drug supplies",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-clears-two-major-health-sector-procurements-to-strengthen-critical-care-and-essential-drug-supplies/56-785635",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765753055.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-72a8f420",
+    "num": "dailyftlk-72a8f420",
+    "date_str": "2025-12-15",
+    "description": "President attends Sri Lanka Navy passing-out parade",
+    "url_metadata": "https://www.ft.lk/news/President-attends-Sri-Lanka-Navy-passing-out-parade/56-785636",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765753143.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-f5a6cbcf",
+    "num": "dailyftlk-f5a6cbcf",
+    "date_str": "2025-12-15",
+    "description": "AKD visits Mannar and Puttalam to discuss post-Ditwah recovery",
+    "url_metadata": "https://www.ft.lk/news/AKD-visits-Mannar-and-Puttalam-to-discuss-post-Ditwah-recovery/56-785637",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765753262.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-24cba84c",
+    "num": "dailyftlk-24cba84c",
+    "date_str": "2025-12-15",
+    "description": "11 killed in Sydney attack at Jewish event",
+    "url_metadata": "https://www.ft.lk/news/11-killed-in-Sydney-attack-at-Jewish-event/56-785638",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765753294.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-021d7894",
+    "num": "dailyftlk-021d7894",
+    "date_str": "2025-12-15",
+    "description": "AKD admits Ditwah dealt severe blow to economy, but fiscal space a relief",
+    "url_metadata": "https://www.ft.lk/news/AKD-admits-Ditwah-dealt-severe-blow-to-economy-but-fiscal-space-a-relief/56-785639",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765753375.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-7a3c36e6",
+    "num": "dailyftlk-7a3c36e6",
+    "date_str": "2025-12-15",
+    "description": "US Envoy discusses SL\u2019s National Research and Development Policy",
+    "url_metadata": "https://www.ft.lk/business/US-Envoy-discusses-SL-s-National-Research-and-Development-Policy/34-785640",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765753502.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-0e1e00c1",
+    "num": "dailyftlk-0e1e00c1",
+    "date_str": "2025-12-15",
+    "description": "Siddhalepa honoured at SLTC Research and Innovation Awards 2025",
+    "url_metadata": "https://www.ft.lk/business/Siddhalepa-honoured-at-SLTC-Research-and-Innovation-Awards-2025/34-785641",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765753608.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-68b80aa8",
+    "num": "dailyftlk-68b80aa8",
+    "date_str": "2025-12-15",
+    "description": "co-energi facilitates Diamond Cutters to achieve LEED Gold Certification for new expansion",
+    "url_metadata": "https://www.ft.lk/business/co-energi-facilitates-Diamond-Cutters-to-achieve-LEED-Gold-Certification-for-new-expansion/34-785642",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765753708.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-1186b65a",
+    "num": "dailyftlk-1186b65a",
+    "date_str": "2025-12-15",
+    "description": "SLMLBC expresses gratitude to people and Govt. of Maldives",
+    "url_metadata": "https://www.ft.lk/business/SLMLBC-expresses-gratitude-to-people-and-Govt-of-Maldives/34-785643",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765753816.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-1208a768",
+    "num": "dailyftlk-1208a768",
+    "date_str": "2025-12-15",
+    "description": "Lakbima Rice Mills donates Rs. 100 m to \u2018Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/business/Lakbima-Rice-Mills-donates-Rs-100-m-to-Rebuilding-Sri-Lanka-Fund/34-785644",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765753910.0
   }
 ]
