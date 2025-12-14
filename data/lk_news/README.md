@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--14_14:21:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--14_14:47:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,112** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,113** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -54,13 +54,13 @@ A collection of lk_news documents.
 - 2025-12-14 | `tamilmirrorlk-82b3e250` | துப்பாக்கி வெடித்ததில் ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-tamilmirrorlk-82b3e250)
 - 2025-12-14 | `lankadeepalk-d4a4ae35` | ඇළ අමුණු හදන්න ආ 13 කට බඹර ප්‍රහාරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-d4a4ae35)
 - 2025-12-14 | `lankadeepalk-b4825fb8` | සෙමෙන් ගොඩනැගුණු රටට ව්‍යසනය දරුණු පහරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-b4825fb8)
+- 2025-12-14 | `adalk-ae3c9940` | යකා පාලමට වූ හානිය තක්සේරු කිරීම අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-adalk-ae3c9940)
 - 2025-12-14 | `lankadeepalk-6f72f59d` | මෙසීව හරි හැටි බලන්න බැරි වුණැයි කලහයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-6f72f59d)
 - 2025-12-14 | `lankadeepalk-d2db8b23` | ලෝක සෞඛ්‍ය සංවිධානය ලංකාවට ලොකු සහයක් දෙන බව කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-d2db8b23)
 - 2025-12-14 | `tamilmirrorlk-ec393d42` | டிஜிட்டல்மயமாக்கல் கொள்கை மீளாய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-tamilmirrorlk-ec393d42)
 - 2025-12-14 | `tamilmirrorlk-b880afab` | ’’பாடுவோர் பாடலாம் ஆடுவோர் ஆடலாம்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-tamilmirrorlk-b880afab)
 - 2025-12-14 | `lankadeepalk-ca6b27e6` | ආපදා තැන් වල සිසුන්ට-ගුරුන්ට පහසු ඇඳුමෙන් එන්න ඉඩ දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-lankadeepalk-ca6b27e6)
 - 2025-12-14 | `tamilmirrorlk-b653f9d6` | விஸ்கி போத்தல்களுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-tamilmirrorlk-b653f9d6)
-- 2025-12-14 | `adalk-59f7aef0` | බදුල්ලේ වාරි පද්ධතිය ගොඩනැගීමට සංඝරත්නය එක්වෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-adalk-59f7aef0)
 
 ---
 
