@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--15_21:49:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--15_22:27:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,371** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,372** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2025-12-15 | `virakesarilk-64e2b22f` | பதுளையில் 165 பாடசாலைகள் சேதமடைந்துள்ளன 27 பாடசாலைகள் அபாய நிலையில் - அமைச்சர் சமந்த தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-64e2b22f)
 - 2025-12-15 | `virakesarilk-f5defa87` | அரச, அரச அங்கீகாரம் பெற்ற பாடசாலைகள் இன்று ஆரம்பம்; ஊவா, மத்திய, வடமேல் மாகாணங்களில் 147 பாடசாலைகளுக்கு தொடர்ந்தும் பூட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-f5defa87)
 - 2025-12-15 | `adalk-74c31384` | ධම්මිකට ඇප, අර්ජුණ අත්අඩංගුවට ගන්නා බව කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-adalk-74c31384)
+- 2025-12-15 | `adalk-b160ef32` | ගරභනි මව්වරුන් වෙනුවෙන් පෝෂණ දීමනාව ලබාදීම හෙට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-adalk-b160ef32)
 - 2025-12-15 | `adalk-a3cb848b` | මධ්‍යම බස් නැවතුම්පොළේ නවීකරණ කටයුතු ඇමති බිමල්ගේ නිරීක්ෂණයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-adalk-a3cb848b)
 - 2025-12-15 | `tamilmirrorlk-d13153c8` | மீட்ட நகைகள், பணத்தை ஒப்படைத்த படையினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-tamilmirrorlk-d13153c8)
 - 2025-12-15 | `lankadeepalk-99e347e4` | හතුරුසිංහ කෝටි 150 ක වන්දියක් ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-lankadeepalk-99e347e4)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-15 | `lankadeepalk-ee57b042` | තෙවැනි කාර්තුවේ ආර්ථික වර්ධන වේගය 5.4ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-lankadeepalk-ee57b042)
 - 2025-12-15 | `virakesarilk-888ff2f6` | நிகழ்நிலை முறைமையிலான நிதி மோசடி அதிகரிப்பு ; சந்தேகத்திற்கிடமான இணைப்புகளை அணுகுவதைத் தவிர்க்கவும் - இலங்கை கணினி அவசர தயார்நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-888ff2f6)
 - 2025-12-15 | `virakesarilk-963d2113` | நேட்டோவில் இணையும் முயற்சியை கைவிட தயாராக உள்ளோம் - உக்ரைன் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-963d2113)
-- 2025-12-15 | `virakesarilk-59b969c8` | நாளை கடும் மழை பெய்யக்கூடும் - வளிமண்டலவியல் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-59b969c8)
 
 ---
 
