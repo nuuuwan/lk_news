@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--16_01:18:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--16_01:48:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,393** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,395** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-16-dailyftlk-fd44661c",
-    "num": "dailyftlk-fd44661c",
+    "doc_id": "2025-12-16-dailyftlk-b7366710",
+    "num": "dailyftlk-b7366710",
     "date_str": "2025-12-16",
-    "description": "Never waste a crisis",
-    "url_metadata": "https://www.ft.lk/columns/Never-waste-a-crisis/4-785685",
+    "description": "Lankem Agro unveils eco-friendly fertiliser solutions for sustainable farming future",
+    "url_metadata": "https://www.ft.lk/business/Lankem-Agro-unveils-eco-friendly-fertiliser-solutions-for-sustainable-farming-future/34-785689",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765825245.0
+    "time_ut": 1765828910.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-16 | `dailyftlk-b7366710` | Lankem Agro unveils eco-friendly fertiliser solutions for sustainable farming future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-b7366710)
+- 2025-12-16 | `dailyftlk-a9d37f32` | From fear to informed  choice: Reframing youth, risk and innovation in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-a9d37f32)
 - 2025-12-16 | `dailyftlk-fd44661c` | Never waste a crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-fd44661c)
 - 2025-12-16 | `dailyftlk-c4d894ad` | Disaster risk financing and insurance for disaster-proof Sri Lanka tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-c4d894ad)
 - 2025-12-15 | `dailyftlk-f044b60a` | Rebuilding with purpose: Human Resources as the engine of business recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-dailyftlk-f044b60a)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-15 | `lankadeepalk-b133212d` | අධිවේගීයේ අනතුරකින් විදේශිකයන් 4කට තුවාල | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-lankadeepalk-b133212d)
 - 2025-12-15 | `virakesarilk-64e2b22f` | பதுளையில் 165 பாடசாலைகள் சேதமடைந்துள்ளன 27 பாடசாலைகள் அபாய நிலையில் - அமைச்சர் சமந்த தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-64e2b22f)
 - 2025-12-15 | `virakesarilk-f5defa87` | அரச, அரச அங்கீகாரம் பெற்ற பாடசாலைகள் இன்று ஆரம்பம்; ஊவா, மத்திய, வடமேல் மாகாணங்களில் 147 பாடசாலைகளுக்கு தொடர்ந்தும் பூட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-f5defa87)
-- 2025-12-15 | `adalk-74c31384` | ධම්මිකට ඇප, අර්ජුණ අත්අඩංගුවට ගන්නා බව කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-adalk-74c31384)
-- 2025-12-15 | `adalk-b160ef32` | ගරභනි මව්වරුන් වෙනුවෙන් පෝෂණ දීමනාව ලබාදීම හෙට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-adalk-b160ef32)
 
 ---
 
