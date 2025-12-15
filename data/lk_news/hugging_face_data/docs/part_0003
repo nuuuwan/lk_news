@@ -295653,5 +295653,38 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1765828910.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-dailyftlk-186cba5c",
+    "num": "dailyftlk-186cba5c",
+    "date_str": "2025-12-16",
+    "description": "Ex-CPC Chief arrested over corruption probe",
+    "url_metadata": "https://www.ft.lk/news/Ex-CPC-Chief-arrested-over-corruption-probe/56-785695",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765830175.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-dailyftlk-0db90c87",
+    "num": "dailyftlk-0db90c87",
+    "date_str": "2025-12-16",
+    "description": "India delivers fresh relief as Army Field Hospital concludes mission in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/India-delivers-fresh-relief-as-Army-Field-Hospital-concludes-mission-in-Sri-Lanka/56-785696",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765830218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-dailyftlk-3595751a",
+    "num": "dailyftlk-3595751a",
+    "date_str": "2025-12-16",
+    "description": "National Council for Disaster Management convenes under patronage of President",
+    "url_metadata": "https://www.ft.lk/news/National-Council-for-Disaster-Management-convenes-under-patronage-of-President/56-785697",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765830290.0
   }
 ]
