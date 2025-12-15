@@ -295730,5 +295730,82 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1765835135.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-dailyftlk-6f6bd4a0",
+    "num": "dailyftlk-6f6bd4a0",
+    "date_str": "2025-12-16",
+    "description": "Yaden Laboratories donates Rs. 20 m to \u2019Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/business/Yaden-Laboratories-donates-Rs-20-m-to-Rebuilding-Sri-Lanka-Fund/34-785725",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765835207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-dailyftlk-d84c536f",
+    "num": "dailyftlk-d84c536f",
+    "date_str": "2025-12-16",
+    "description": "CHEC South Asia & Southeast Asia completes emergency clearing of A5 highway after Cyclone Ditwah",
+    "url_metadata": "https://www.ft.lk/business/CHEC-South-Asia-Southeast-Asia-completes-emergency-clearing-of-A5-highway-after-Cyclone-Ditwah/34-785726",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765835316.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-dailyftlk-4b44b2be",
+    "num": "dailyftlk-4b44b2be",
+    "date_str": "2025-12-16",
+    "description": "Countdown to FACETS 2026 begins",
+    "url_metadata": "https://www.ft.lk/business/Countdown-to-FACETS-2026-begins/34-785727",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765835519.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-dailyftlk-d0a0af86",
+    "num": "dailyftlk-d0a0af86",
+    "date_str": "2025-12-16",
+    "description": "Japanese business delegation visits National Chamber of Commerce of Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/Japanese-business-delegation-visits-National-Chamber-of-Commerce-of-Sri-Lanka/34-785728",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765835829.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-dailyftlk-8c863f35",
+    "num": "dailyftlk-8c863f35",
+    "date_str": "2025-12-16",
+    "description": "Sri Lanka Business Council UAE concludes Sri Lanka Expo Pavilion 2025",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Business-Council-UAE-concludes-Sri-Lanka-Expo-Pavilion-2025/34-785729",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765835957.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-dailyftlk-e519880b",
+    "num": "dailyftlk-e519880b",
+    "date_str": "2025-12-16",
+    "description": "Pushpika Janadheera reappointed SLAMERP Chairman",
+    "url_metadata": "https://www.ft.lk/business/Pushpika-Janadheera-reappointed-SLAMERP-Chairman/34-785730",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765836268.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-dailyftlk-b5ef71e2",
+    "num": "dailyftlk-b5ef71e2",
+    "date_str": "2025-12-16",
+    "description": "Viet Nam and Sri Lanka deepen economic ties",
+    "url_metadata": "https://www.ft.lk/business/Viet-Nam-and-Sri-Lanka-deepen-economic-ties/34-785731",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765836499.0
   }
 ]

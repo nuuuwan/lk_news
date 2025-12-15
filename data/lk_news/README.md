@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--16_03:19:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--16_03:48:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,402** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,409** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-16-dailyftlk-e523496f",
-    "num": "dailyftlk-e523496f",
+    "doc_id": "2025-12-16-dailyftlk-b5ef71e2",
+    "num": "dailyftlk-b5ef71e2",
     "date_str": "2025-12-16",
-    "description": "George Keyt Foundation contributes to national disaster relief efforts",
-    "url_metadata": "https://www.ft.lk/business/George-Keyt-Foundation-contributes-to-national-disaster-relief-efforts/34-785724",
+    "description": "Viet Nam and Sri Lanka deepen economic ties",
+    "url_metadata": "https://www.ft.lk/business/Viet-Nam-and-Sri-Lanka-deepen-economic-ties/34-785731",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765835135.0
+    "time_ut": 1765836499.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-16 | `dailyftlk-b5ef71e2` | Viet Nam and Sri Lanka deepen economic ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-b5ef71e2)
+- 2025-12-16 | `dailyftlk-e519880b` | Pushpika Janadheera reappointed SLAMERP Chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-e519880b)
+- 2025-12-16 | `dailyftlk-8c863f35` | Sri Lanka Business Council UAE concludes Sri Lanka Expo Pavilion 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-8c863f35)
+- 2025-12-16 | `dailyftlk-d0a0af86` | Japanese business delegation visits National Chamber of Commerce of Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-d0a0af86)
+- 2025-12-16 | `dailyftlk-4b44b2be` | Countdown to FACETS 2026 begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-4b44b2be)
+- 2025-12-16 | `dailyftlk-d84c536f` | CHEC South Asia & Southeast Asia completes emergency clearing of A5 highway after Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-d84c536f)
+- 2025-12-16 | `dailyftlk-6f6bd4a0` | Yaden Laboratories donates Rs. 20 m to ’Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-6f6bd4a0)
 - 2025-12-16 | `dailyftlk-e523496f` | George Keyt Foundation contributes to national disaster relief efforts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-e523496f)
 - 2025-12-16 | `dailyftlk-3595751a` | National Council for Disaster Management convenes under patronage of President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-3595751a)
 - 2025-12-16 | `dailyftlk-0db90c87` | India delivers fresh relief as Army Field Hospital concludes mission in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-0db90c87)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-12-15 | `lankadeepalk-f81e2398` | පුද්ගලයකුගේ දත් හතරක් කැඩූ ප්‍රා. මන්ත්‍රීට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-lankadeepalk-f81e2398)
 - 2025-12-15 | `virakesarilk-434c5731` | 19இன் கீழ் ஆசிய கிண்ணம்: ஆப்கானிஸ்தானை கடைசி ஓவரில் வெற்றிகொண்டு அரை இறுதி வாய்ப்பை உறுதிசெய்தது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-434c5731)
 - 2025-12-15 | `virakesarilk-7bfdfdd1` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு  Senura Civil Engineering (Pvt) Ltd மற்றும் Rank Container Terminal (Pvt) Ltd என்பன 50 மில்லியன் ரூபா நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-7bfdfdd1)
-- 2025-12-15 | `virakesarilk-dd53473c` | மலையக அனர்த்தம் : ஜனாதிபதியுடன் அவசர சந்திப்பு கோரி மனோ எம்பி மின்னஞ்சல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-dd53473c)
-- 2025-12-15 | `virakesarilk-6b9fdcea` | மலையகத் தமிழ்ச் சமூகத்தின் பாதுகாப்பு உடனடியாகக் கவனிக்கப்பட வேண்டும் - கனேடிய தமிழர் பேரவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-6b9fdcea)
-- 2025-12-15 | `virakesarilk-1c39895e` | புட்டு கேட்ட கணவனை வெட்டிக்கொன்ற மனைவி : மட்டக்களப்பில் சம்பவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-1c39895e)
-- 2025-12-15 | `virakesarilk-e792ef9a` | மலேசியாவிலிருந்து வந்த சிறிய விமானம் யாழ்ப்பாணம் சர்வதேச விமான நிலையத்தில் தரையிறக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-e792ef9a)
-- 2025-12-15 | `lankadeepalk-1c29c6bd` | ව්‍යසන කළමනාකරණ ජාතික සභාව රැස් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-lankadeepalk-1c29c6bd)
-- 2025-12-15 | `colombotelegraphcom-435d6dc5` | India As A Rising Global Power In The G20 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-colombotelegraphcom-435d6dc5)
-- 2025-12-15 | `virakesarilk-b249470d` | யாழ். விமான நிலையத்துக்கான பயணிகள் முனைய கட்டடம் அமைப்பதற்கான அடிக்கல் நாட்டல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-b249470d)
 
 ---
 
