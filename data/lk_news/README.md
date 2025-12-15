@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--15_23:50:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--16_00:27:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,389** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,392** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-15-lankadeepalk-f81e2398",
-    "num": "lankadeepalk-f81e2398",
-    "date_str": "2025-12-15",
-    "description": "\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0d9a\u0dd4\u0d9c\u0dda \u0daf\u0dad\u0dca \u0dc4\u0dad\u0dbb\u0d9a\u0dca \u0d9a\u0dd0\u0da9\u0dd6 \u0db4\u0dca\u200d\u0dbb\u0dcf. \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0da7 \u0d87\u0db4",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db4\u0daf\u0d9c\u0dbd\u0dba\u0d9a\u0d9c-\u0daf\u0dad-\u0dc4\u0dad\u0dbb\u0d9a-\u0d9a\u0da9-\u0db4\u0dbb-\u0db8\u0db1\u0dad\u0dbb\u0da7-\u0d87\u0db4/1-685335",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1765817632.0
+    "doc_id": "2025-12-16-dailyftlk-c4d894ad",
+    "num": "dailyftlk-c4d894ad",
+    "date_str": "2025-12-16",
+    "description": "Disaster risk financing and insurance for disaster-proof Sri Lanka tourism",
+    "url_metadata": "https://www.ft.lk/columns/Disaster-risk-financing-and-insurance-for-disaster-proof-Sri-Lanka-tourism/4-785684",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765824398.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-16 | `dailyftlk-c4d894ad` | Disaster risk financing and insurance for disaster-proof Sri Lanka tourism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-dailyftlk-c4d894ad)
+- 2025-12-15 | `dailyftlk-f044b60a` | Rebuilding with purpose: Human Resources as the engine of business recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-dailyftlk-f044b60a)
+- 2025-12-15 | `dailyftlk-7dc1f607` | A nation stretched thin: Disaster fatigue in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-dailyftlk-7dc1f607)
 - 2025-12-15 | `lankadeepalk-f81e2398` | පුද්ගලයකුගේ දත් හතරක් කැඩූ ප්‍රා. මන්ත්‍රීට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-lankadeepalk-f81e2398)
 - 2025-12-15 | `virakesarilk-434c5731` | 19இன் கீழ் ஆசிய கிண்ணம்: ஆப்கானிஸ்தானை கடைசி ஓவரில் வெற்றிகொண்டு அரை இறுதி வாய்ப்பை உறுதிசெய்தது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-434c5731)
 - 2025-12-15 | `virakesarilk-7bfdfdd1` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு  Senura Civil Engineering (Pvt) Ltd மற்றும் Rank Container Terminal (Pvt) Ltd என்பன 50 மில்லியன் ரூபா நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-7bfdfdd1)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-15 | `adalk-74c31384` | ධම්මිකට ඇප, අර්ජුණ අත්අඩංගුවට ගන්නා බව කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-adalk-74c31384)
 - 2025-12-15 | `adalk-b160ef32` | ගරභනි මව්වරුන් වෙනුවෙන් පෝෂණ දීමනාව ලබාදීම හෙට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-adalk-b160ef32)
 - 2025-12-15 | `adalk-a3cb848b` | මධ්‍යම බස් නැවතුම්පොළේ නවීකරණ කටයුතු ඇමති බිමල්ගේ නිරීක්ෂණයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-adalk-a3cb848b)
-- 2025-12-15 | `tamilmirrorlk-d13153c8` | மீட்ட நகைகள், பணத்தை ஒப்படைத்த படையினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-tamilmirrorlk-d13153c8)
-- 2025-12-15 | `lankadeepalk-99e347e4` | හතුරුසිංහ කෝටි 150 ක වන්දියක් ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-lankadeepalk-99e347e4)
-- 2025-12-15 | `lankadeepalk-8dbbaef3` | ආණ්ඩුවේ හිතවතෙක් විගණකාධිපති පුටුවේ වාඩි කිරීමේ උත්සහයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-lankadeepalk-8dbbaef3)
 
 ---
 

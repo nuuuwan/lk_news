@@ -295587,5 +295587,38 @@
     "lang": "si",
     "newspaper_id": "lankadeepalk",
     "time_ut": 1765817632.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-7dc1f607",
+    "num": "dailyftlk-7dc1f607",
+    "date_str": "2025-12-15",
+    "description": "A nation stretched thin: Disaster fatigue in Sri\u00a0Lanka",
+    "url_metadata": "https://www.ft.lk/columns/A-nation-stretched-thin-Disaster-fatigue-in-SriLanka/4-785682",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765822968.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-f044b60a",
+    "num": "dailyftlk-f044b60a",
+    "date_str": "2025-12-15",
+    "description": "Rebuilding with purpose: Human Resources as the engine of business recovery",
+    "url_metadata": "https://www.ft.lk/columns/Rebuilding-with-purpose-Human-Resources-as-the-engine-of-business-recovery/4-785683",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765823134.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-dailyftlk-c4d894ad",
+    "num": "dailyftlk-c4d894ad",
+    "date_str": "2025-12-16",
+    "description": "Disaster risk financing and insurance for disaster-proof Sri Lanka tourism",
+    "url_metadata": "https://www.ft.lk/columns/Disaster-risk-financing-and-insurance-for-disaster-proof-Sri-Lanka-tourism/4-785684",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765824398.0
   }
 ]
