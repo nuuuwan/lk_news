@@ -295491,6 +295491,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-15-colombotelegraphcom-d9f4246a",
+    "num": "colombotelegraphcom-d9f4246a",
+    "date_str": "2025-12-15",
+    "description": "Sri Lanka\u2019s Long Entanglement Of Foreign Power",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/sri-lankas-long-entanglement-of-foreign-power/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1765812529.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-colombotelegraphcom-b3233f82",
+    "num": "colombotelegraphcom-b3233f82",
+    "date_str": "2025-12-15",
+    "description": "Rebuilding Sri Lanka With Purpose",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/rebuilding-sri-lanka-with-purpose/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1765812955.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-15-virakesarilk-b249470d",
     "num": "virakesarilk-b249470d",
     "date_str": "2025-12-15",
