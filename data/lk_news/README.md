@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--15_21:22:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--15_21:49:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,370** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,371** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -53,6 +53,7 @@ A collection of lk_news documents.
 - 2025-12-15 | `lankadeepalk-ed5ba90b` | සහන කණ්ඩායම් නොදුටු වලපනේ නාපටවල | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-lankadeepalk-ed5ba90b)
 - 2025-12-15 | `tamilmirrorlk-d30886a7` | கம்பவாரிதி இ. ஜெயராஜ் நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-tamilmirrorlk-d30886a7)
 - 2025-12-15 | `lankadeepalk-93741140` | මහර - ගම්පහට පැය 15ක් ජලය කපයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-lankadeepalk-93741140)
+- 2025-12-15 | `lankadeepalk-efdeac95` | ලබන වසරේ පැන්ෂන් දෙන දිනයන් මෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-lankadeepalk-efdeac95)
 - 2025-12-15 | `tamilmirrorlk-34841614` | புட்டு கேட்ட கணவனை போட்டு தள்ளிய மனைவி  கத்தியுடன்  சரண் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-tamilmirrorlk-34841614)
 - 2025-12-15 | `virakesarilk-b585099f` | மொராக்கோ - சஃபி மாகாணத்தில் ஏற்பட்ட வெள்ளத்தில் 37 பேர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-b585099f)
 - 2025-12-15 | `virakesarilk-eb811483` | யாழில் 6 மில்லியனுக்கும் அதிக மதிப்புள்ள கஞ்சா கைப்பற்றல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-eb811483)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-15 | `virakesarilk-888ff2f6` | நிகழ்நிலை முறைமையிலான நிதி மோசடி அதிகரிப்பு ; சந்தேகத்திற்கிடமான இணைப்புகளை அணுகுவதைத் தவிர்க்கவும் - இலங்கை கணினி அவசர தயார்நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-888ff2f6)
 - 2025-12-15 | `virakesarilk-963d2113` | நேட்டோவில் இணையும் முயற்சியை கைவிட தயாராக உள்ளோம் - உக்ரைன் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-963d2113)
 - 2025-12-15 | `virakesarilk-59b969c8` | நாளை கடும் மழை பெய்யக்கூடும் - வளிமண்டலவியல் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-59b969c8)
-- 2025-12-15 | `virakesarilk-6736c173` | மன்னாரில் 1,292 கிலோ பீடி இலைகள் கடற்படையினரால் கைப்பற்றல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-6736c173)
 
 ---
 
