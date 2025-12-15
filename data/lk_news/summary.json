@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-15 19:49:35",
-  "n_docs": 93368,
+  "time_updated": "2025-12-15 20:24:26",
+  "n_docs": 93369,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 93368,
+  "n_docs_with_text": 93369,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-15",
-  "dataset_size": 1403148366,
+  "dataset_size": 1403223977,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-15-virakesarilk-64e2b22f",
-    "num": "virakesarilk-64e2b22f",
+    "doc_id": "2025-12-15-lankadeepalk-b133212d",
+    "num": "lankadeepalk-b133212d",
     "date_str": "2025-12-15",
-    "description": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 165 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b9a\u0bc7\u0ba4\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9 27 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b85\u0baa\u0bbe\u0baf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd - \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b9a\u0bae\u0ba8\u0bcd\u0ba4 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/233446",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765808160.0
+    "description": "\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd3\u0dba\u0dda \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dda\u0dc1\u0dd2\u0d9a\u0dba\u0db1\u0dca 4\u0d9a\u0da7 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db0\u0dc0\u0d9c\u0dba-\u0d85\u0db1\u0dad\u0dbb\u0d9a\u0db1-\u0dc0\u0daf\u0dc1\u0d9a\u0dba\u0db1-4\u0d9a\u0da7-\u0dad\u0dc0\u0dbd/1-685330",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1765808638.0
   }
 }

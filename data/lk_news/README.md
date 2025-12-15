@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--15_19:50:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--15_20:25:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,368** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,369** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-15-virakesarilk-64e2b22f",
-    "num": "virakesarilk-64e2b22f",
+    "doc_id": "2025-12-15-lankadeepalk-b133212d",
+    "num": "lankadeepalk-b133212d",
     "date_str": "2025-12-15",
-    "description": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 165 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b9a\u0bc7\u0ba4\u0bae\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9 27 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b85\u0baa\u0bbe\u0baf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd - \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b9a\u0bae\u0ba8\u0bcd\u0ba4 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/233446",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765808160.0
+    "description": "\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd3\u0dba\u0dda \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dda\u0dc1\u0dd2\u0d9a\u0dba\u0db1\u0dca 4\u0d9a\u0da7 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db0\u0dc0\u0d9c\u0dba-\u0d85\u0db1\u0dad\u0dbb\u0d9a\u0db1-\u0dc0\u0daf\u0dc1\u0d9a\u0dba\u0db1-4\u0d9a\u0da7-\u0dad\u0dc0\u0dbd/1-685330",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1765808638.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-15 | `lankadeepalk-b133212d` | අධිවේගීයේ අනතුරකින් විදේශිකයන් 4කට තුවාල | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-lankadeepalk-b133212d)
 - 2025-12-15 | `virakesarilk-64e2b22f` | பதுளையில் 165 பாடசாலைகள் சேதமடைந்துள்ளன 27 பாடசாலைகள் அபாய நிலையில் - அமைச்சர் சமந்த தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-64e2b22f)
 - 2025-12-15 | `virakesarilk-f5defa87` | அரச, அரச அங்கீகாரம் பெற்ற பாடசாலைகள் இன்று ஆரம்பம்; ஊவா, மத்திய, வடமேல் மாகாணங்களில் 147 பாடசாலைகளுக்கு தொடர்ந்தும் பூட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-f5defa87)
 - 2025-12-15 | `adalk-74c31384` | ධම්මිකට ඇප, අර්ජුණ අත්අඩංගුවට ගන්නා බව කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-adalk-74c31384)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-15 | `virakesarilk-59b969c8` | நாளை கடும் மழை பெய்யக்கூடும் - வளிமண்டலவியல் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-59b969c8)
 - 2025-12-15 | `virakesarilk-6736c173` | மன்னாரில் 1,292 கிலோ பீடி இலைகள் கடற்படையினரால் கைப்பற்றல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-6736c173)
 - 2025-12-15 | `lankadeepalk-6bfa7aa5` | උත්සව සමයේදී  බස්නාහිරට 2,500ක අතිරේක බලඇණියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-lankadeepalk-6bfa7aa5)
-- 2025-12-15 | `virakesarilk-2c4c05b6` | ஆசிய அபிவிருத்தி வங்கியின் இலங்கைப் பிரதிநிதியுடன் எதிர்க்கட்சி தலைவர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-2c4c05b6)
 
 ---
 
