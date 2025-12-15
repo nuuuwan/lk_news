@@ -1,5 +1,13 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-15-virakesarilk-8086aea4	virakesarilk-8086aea4	2025-12-15	மண்சரிவு ஏற்பட்ட பகுதியில் உள்ள கற்களை அகற்றும் பணிகளில் ஈடுபட்டிருந்தவரை தாக்கியவர் கைது!	https://www.virakesari.lk/article/233375	ta	virakesarilk	1765774380.0
+lk_news	2025-12-15-tamilmirrorlk-227d1cfc	tamilmirrorlk-227d1cfc	2025-12-15	காணாமல் போன நெதுகி, சடலமாக மீட்பு	https://www.tamilmirror.lk/மலையகம்/காணாமல்-போன-நெதுகி-சடலமாக-மீட்பு/76-369540	ta	tamilmirrorlk	1765774283.0
+lk_news	2025-12-15-lankadeepalk-754b11c9	lankadeepalk-754b11c9	2025-12-15	පරවි දූපත තාවකාලිකව වසා දමයි	https://www.lankadeepa.lk/latest_news/පරව-දපත-තවකලකව-වස-දමය/1-685274	si	lankadeepalk	1765774115.0
+lk_news	2025-12-15-virakesarilk-dbd6019e	virakesarilk-dbd6019e	2025-12-15	இருவேறு பகுதிகளில் இடம்பெற்ற வாகன விபத்துக்களில் இருவர் உயிரிழப்பு!	https://www.virakesari.lk/article/233371	ta	virakesarilk	1765772820.0
+lk_news	2025-12-15-virakesarilk-7b09ead5	virakesarilk-7b09ead5	2025-12-15	கொழும்பு துறைமுகத்தில் மசகு எண்ணெய் கசிவு கட்டுப்பாட்டுக்குள் கொண்டுவரப்பட்டது	https://www.virakesari.lk/article/233372	ta	virakesarilk	1765772460.0
 lk_news	2025-12-15-lankadeepalk-d0eeae84	lankadeepalk-d0eeae84	2025-12-15	‘කුෂ්‘ සමඟ මත් ජාවාරම්කරු අත්අඩංගුවට	https://www.lankadeepa.lk/latest_news/කෂ-සමඟ-මත-ජවරමකර-අතඅඩගවට/1-685273	si	lankadeepalk	1765770782.0
+lk_news	2025-12-15-virakesarilk-93c6a231	virakesarilk-93c6a231	2025-12-15	சட்டவிரோத மதுபானத்துடன் ஒருவர் கைது!	https://www.virakesari.lk/article/233366	ta	virakesarilk	1765770540.0
+lk_news	2025-12-15-virakesarilk-840e9460	virakesarilk-840e9460	2025-12-15	புதையல் தோண்டிய 06 பேர் கைது!	https://www.virakesari.lk/article/233369	ta	virakesarilk	1765770540.0
+lk_news	2025-12-15-virakesarilk-30d16085	virakesarilk-30d16085	2025-12-15	அம்பலாங்கொடை முகத்துவார தேவாலயக் குழுத் தலைவர் கொலை ; நால்வர் கைது!	https://www.virakesari.lk/article/233368	ta	virakesarilk	1765770240.0
 lk_news	2025-12-15-virakesarilk-6fc250a1	virakesarilk-6fc250a1	2025-12-15	அவுஸ்திரேலியா துப்பாக்கிச்சூடு: பலி எண்ணிக்கை 16 ஆக அதிகரிப்பு!	https://www.virakesari.lk/article/233367	ta	virakesarilk	1765769760.0
 lk_news	2025-12-15-virakesarilk-1cb41819	virakesarilk-1cb41819	2025-12-15	ஐஸ் போதைப்பொருளுடன் இரண்டு சந்தேகநபர்கள் கைது!	https://www.virakesari.lk/article/233365	ta	virakesarilk	1765769340.0
 lk_news	2025-12-15-lankadeepalk-1de9c5ea	lankadeepalk-1de9c5ea	2025-12-15	අද කාලගුණය	https://www.lankadeepa.lk/latest_news/අද-කලගණය/1-685272	si	lankadeepalk	1765766817.0
@@ -91,11 +99,3 @@ lk_news	2025-12-14-virakesarilk-c4af6f03	virakesarilk-c4af6f03	2025-12-14	வட
 lk_news	2025-12-14-virakesarilk-cb0c7d9f	virakesarilk-cb0c7d9f	2025-12-14	நாட்டை விட்டு புறப்பட்டது ஐக்கிய அரபு இராச்சிய குழு	https://www.virakesari.lk/article/233337	ta	virakesarilk	1765703820.0
 lk_news	2025-12-14-virakesarilk-9b5a13dc	virakesarilk-9b5a13dc	2025-12-14	நிந்தவூர் பிரதேச சபை கலைக்கப்படுமா?	https://www.virakesari.lk/article/233334	ta	virakesarilk	1765703820.0
 lk_news	2025-12-14-adalk-e3445b34	adalk-e3445b34	2025-12-14	ඉන්දු - ද.අප්‍රිකා තුන්වන විස්සයි 20 තරගය අද	https://www.ada.lk/sports/ඉන්දු---ද-අප්‍රිකා-තුන්වන-විස්සයි-20-තරගය-අද/9-420231	si	adalk	1765703768.0
-lk_news	2025-12-14-tamilmirrorlk-5b7b170f	tamilmirrorlk-5b7b170f	2025-12-14	ஆபாச படம் காண்பித்து மகளை வன்புணர்ந்த தந்தை உட்பட ஐவர் கைது	https://www.tamilmirror.lk/செய்திகள்/ஆபாச-படம்-காண்பித்து-மகளை-வன்புணர்ந்த-தந்தை-உட்பட-ஐவர்-கைது/175-369510	ta	tamilmirrorlk	1765703653.0
-lk_news	2025-12-14-adalk-72aa48b1	adalk-72aa48b1	2025-12-14	දිත්වා නිසා එකතු වූ කසළ අතර වැඩිම ප්‍රමාණය අහාර ද්‍රව්‍ය	https://www.ada.lk/breaking_news/දිත්වා-නිසා-එකතු-වූ-කසළ-අතර-වැඩිම-ප්‍රමාණය-අහාර-ද්‍රව්‍ය/11-420230	si	adalk	1765703465.0
-lk_news	2025-12-14-virakesarilk-7f121efd	virakesarilk-7f121efd	2025-12-14	ஆபாச படம் காண்பித்து சிறுமியை பாலியல் துன்புறுத்தலுக்குட்படுத்திய தந்தை உட்பட 5 பேருக்கு விளக்கமறியல்!	https://www.virakesari.lk/article/233332	ta	virakesarilk	1765701660.0
-lk_news	2025-12-14-virakesarilk-23b31bc1	virakesarilk-23b31bc1	2025-12-14	மனோகணேசன் வீசிய அரசியல் குண்டு	https://www.virakesari.lk/article/233331	ta	virakesarilk	1765701360.0
-lk_news	2025-12-14-lankadeepalk-464b4c38	lankadeepalk-464b4c38	2025-12-14	ඔට්ටුවට යතුරුපැදි පැද පොලිසියට මාට්ටු	https://www.lankadeepa.lk/news/ඔටටවට-යතරපද-පද-පලසයට-මටට/101-685242	si	lankadeepalk	1765701250.0
-lk_news	2025-12-14-tamilmirrorlk-784ed305	tamilmirrorlk-784ed305	2025-12-14	முஜிபுரின் தங்கையிடம் விசாரணை: முஜிபுர் முறைப்பாடு	https://www.tamilmirror.lk/செய்திகள்/முஜிபுரின்-தங்கையிடம்-விசாரணை-முஜிபுர்-முறைப்பாடு/175-369508	ta	tamilmirrorlk	1765701215.0
-lk_news	2025-12-14-tamilmirrorlk-960ed239	tamilmirrorlk-960ed239	2025-12-14	தனி சில்லில் மோட்டார் சைக்கிளோட்டிய 18 பேர் கைது	https://www.tamilmirror.lk/செய்திகள்/தனி-சில்லில்-மோட்டார்-சைக்கிளோட்டிய-18-பேர்-கைது/175-369507	ta	tamilmirrorlk	1765700671.0
-lk_news	2025-12-14-virakesarilk-dc6ecf37	virakesarilk-dc6ecf37	2025-12-14	கண்டி மாவட்டத்தில் 240 பேர் உயிரிழப்பு ; 75 பேர் மாயம்	https://www.virakesari.lk/article/233330	ta	virakesarilk	1765699500.0
