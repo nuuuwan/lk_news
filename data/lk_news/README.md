@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--15_05:16:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--15_06:05:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,202** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,218** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-15-dailyftlk-4c5f71e6",
-    "num": "dailyftlk-4c5f71e6",
+    "doc_id": "2025-12-15-dailyftlk-6e339f7a",
+    "num": "dailyftlk-6e339f7a",
     "date_str": "2025-12-15",
-    "description": "EDB Chief says export future is not just bright, it is boundless",
-    "url_metadata": "https://www.ft.lk/business/EDB-Chief-says-export-future-is-not-just-bright-it-is-boundless/34-785646",
+    "description": "Presidential authority in times of emergency: A contemporary appraisal",
+    "url_metadata": "https://www.ft.lk/columns/Presidential-authority-in-times-of-emergency-A-contemporary-appraisal/4-785671",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765754090.0
+    "time_ut": 1765758458.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-15 | `dailyftlk-6e339f7a` | Presidential authority in times of emergency: A contemporary appraisal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-dailyftlk-6e339f7a)
+- 2025-12-15 | `dailyftlk-fb5a2112` | Unsung heroes of the Central Bank 2: Computer Programmer N.M. Jayasekera | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-dailyftlk-fb5a2112)
+- 2025-12-15 | `dailyftlk-85388e06` | Placing smallholder farmers and fishers at the centre of Cyclone Ditwah recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-dailyftlk-85388e06)
+- 2025-12-15 | `dailyftlk-2c7cf0dc` | Learn a lesson from the disaster; Build back better with decentralisation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-dailyftlk-2c7cf0dc)
+- 2025-12-15 | `dailyftlk-1c33bb4f` | CDRI says resilient infrastructure could halve GDP losses after disasters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-dailyftlk-1c33bb4f)
+- 2025-12-15 | `dailyftlk-e26059d5` | Deciphering the decision-making realities: Dedication amidst a disaster | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-dailyftlk-e26059d5)
 - 2025-12-15 | `dailyftlk-4c5f71e6` | EDB Chief says export future is not just bright, it is boundless | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-dailyftlk-4c5f71e6)
 - 2025-12-15 | `dailyftlk-136f011c` | Almas Holdings commits Rs. 250 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-dailyftlk-136f011c)
 - 2025-12-15 | `dailyftlk-1208a768` | Lakbima Rice Mills donates Rs. 100 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-dailyftlk-1208a768)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2025-12-15 | `dailyftlk-0721d66f` | Cabinet clears two major health sector procurements to strengthen critical care and essential drug supplies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-dailyftlk-0721d66f)
 - 2025-12-15 | `virakesarilk-d93445b9` | அனர்த்த நிவாரண விடயங்களில் ஜனாதிபதியின் கருத்துகளில் வேறுபாடு ; ஆலோசனை வழங்கத் தயாராக உள்ளோம் - நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-d93445b9)
 - 2025-12-15 | `virakesarilk-bf68d20d` | கிழக்கு அலை வடிவ காற்றழுத்த தாக்கம் – நாளை மழை அதிகரிக்கும் என வளிமண்டலவியல் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-bf68d20d)
-- 2025-12-15 | `virakesarilk-6aae984d` | ஆபத்தான முறையில் மோட்டார் சைக்கிள்கள் மற்றும் முச்சக்கர வண்டிகளை ஓட்டியதற்காக 18 இளைஞர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-6aae984d)
-- 2025-12-15 | `virakesarilk-a807e9e6` | டிக்டொக் தொடர்பு முடிவில் 24 வயது பெண் பாலியல் பலாத்காரம்: 4 இளைஞர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-a807e9e6)
-- 2025-12-15 | `tamilmirrorlk-524123e2` | பல உயிர்களைக் காப்பாற்றிய ’ஹீரோ’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-tamilmirrorlk-524123e2)
-- 2025-12-15 | `virakesarilk-ab7d292d` | இலங்கைக்கு கடத்துவதற்காக கடற்கரையில் பதுக்கி வைக்கப்பட்டிருந்த ரூ.25 லட்சம் மதிப்பிலான 150 கிலோ கஞ்சா பறிமுதல்; இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-15-virakesarilk-ab7d292d)
-- 2025-12-14 | `virakesarilk-7fe0ea46` | தேர்தலில் கட்சி தோல்வி: மீசையை இழந்த தொண்டர்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-virakesarilk-7fe0ea46)
-- 2025-12-14 | `virakesarilk-0c866229` | திருகோணமலை கடற்படை மற்றும் கடல்சார் அகாடமி பயிற்சி நிறைவு அணிவகுப்பில் ஜனாதிபதி அநுர குமார திசாநாயக்க ஆற்றிய முழு உரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-14-virakesarilk-0c866229)
 
 ---
 

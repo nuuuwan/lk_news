@@ -288231,6 +288231,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-11-islandlk-4cf3183e",
+    "num": "islandlk-4cf3183e",
+    "date_str": "2025-12-11",
+    "description": "Lajja!",
+    "url_metadata": "http://island.lk/lajja-6/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765467120.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-11-lankadeepalk-c02a20f7",
     "num": "lankadeepalk-c02a20f7",
     "date_str": "2025-12-11",
@@ -291465,6 +291476,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-13-islandlk-a9920102",
+    "num": "islandlk-a9920102",
+    "date_str": "2025-12-13",
+    "description": "MEEZAN HADJIAR",
+    "url_metadata": "http://island.lk/meezan-hadjiar/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765617480.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-13-islandlk-072ff1a7",
     "num": "islandlk-072ff1a7",
     "date_str": "2025-12-13",
@@ -291506,6 +291528,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1765618440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-13-islandlk-f43d74af",
+    "num": "islandlk-f43d74af",
+    "date_str": "2025-12-13",
+    "description": "Ramifications of Trump Corollary",
+    "url_metadata": "http://island.lk/ramifications-of-trump-corollary/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765618500.0
   },
   {
     "doc_type": "lk_news",
@@ -293335,6 +293368,83 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-14-islandlk-11102576",
+    "num": "islandlk-11102576",
+    "date_str": "2025-12-14",
+    "description": "Sysco LABS wins double honours at Presidential Export Awards",
+    "url_metadata": "http://island.lk/sysco-labs-wins-double-honours-at-presidential-export-awards/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765736880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-14-islandlk-72479007",
+    "num": "islandlk-72479007",
+    "date_str": "2025-12-14",
+    "description": "Prime Group launches integrated property technology ecosystem",
+    "url_metadata": "http://island.lk/prime-group-launches-integrated-property-technology-ecosystem/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765736940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-14-islandlk-c3e12ed1",
+    "num": "islandlk-c3e12ed1",
+    "date_str": "2025-12-14",
+    "description": "Kapruka posts 77% operating growth as platform strategy accelerates",
+    "url_metadata": "http://island.lk/kapruka-posts-77-operating-growth-as-platform-strategy-accelerates/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765736940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-islandlk-2cc1402d",
+    "num": "islandlk-2cc1402d",
+    "date_str": "2025-12-15",
+    "description": "Melwa enhancing professional competencies of construction tradesmen",
+    "url_metadata": "http://island.lk/melwa-enhancing-professional-competencies-of-construction-tradesmen/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765737000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-islandlk-69f587f1",
+    "num": "islandlk-69f587f1",
+    "date_str": "2025-12-15",
+    "description": "Sinopec supports flood-hit communities with emergency relief",
+    "url_metadata": "http://island.lk/sinopec-supports-flood-hit-communities-with-emergency-relief/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765737120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-islandlk-8a219562",
+    "num": "islandlk-8a219562",
+    "date_str": "2025-12-15",
+    "description": "Sri Lanka\u2019s topography dictates global tea prices",
+    "url_metadata": "http://island.lk/sri-lankas-topography-dictates-global-tea-prices/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765737120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-islandlk-e5e8f718",
+    "num": "islandlk-e5e8f718",
+    "date_str": "2025-12-15",
+    "description": "Glorious Holdings wins two major awards for advancing modern agriculture",
+    "url_metadata": "http://island.lk/glorious-holdings-wins-two-major-awards-for-advancing-modern-agriculture/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765737180.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-15-virakesarilk-ab7d292d",
     "num": "virakesarilk-ab7d292d",
     "date_str": "2025-12-15",
@@ -293530,5 +293640,71 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1765754090.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-e26059d5",
+    "num": "dailyftlk-e26059d5",
+    "date_str": "2025-12-15",
+    "description": "Deciphering the decision-making realities: Dedication amidst a disaster",
+    "url_metadata": "https://www.ft.lk/columns/Deciphering-the-decision-making-realities-Dedication-amidst-a-disaster/4-785664",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765756636.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-1c33bb4f",
+    "num": "dailyftlk-1c33bb4f",
+    "date_str": "2025-12-15",
+    "description": "CDRI says resilient infrastructure could halve GDP losses after disasters",
+    "url_metadata": "https://www.ft.lk/opinion/CDRI-says-resilient-infrastructure-could-halve-GDP-losses-after-disasters/14-785665",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765756741.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-2c7cf0dc",
+    "num": "dailyftlk-2c7cf0dc",
+    "date_str": "2025-12-15",
+    "description": "Learn a lesson from the disaster; Build back better with decentralisation",
+    "url_metadata": "https://www.ft.lk/columns/Learn-a-lesson-from-the-disaster-Build-back-better-with-decentralisation/4-785668",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765757156.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-85388e06",
+    "num": "dailyftlk-85388e06",
+    "date_str": "2025-12-15",
+    "description": "Placing smallholder farmers and fishers at the centre of Cyclone Ditwah recovery",
+    "url_metadata": "https://www.ft.lk/columns/Placing-smallholder-farmers-and-fishers-at-the-centre-of-Cyclone-Ditwah-recovery/4-785669",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765757631.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-fb5a2112",
+    "num": "dailyftlk-fb5a2112",
+    "date_str": "2025-12-15",
+    "description": "Unsung heroes of the Central Bank 2: Computer Programmer N.M. Jayasekera",
+    "url_metadata": "https://www.ft.lk/columns/Unsung-heroes-of-the-Central-Bank-2-Computer-Programmer-N-M-Jayasekera/4-785670",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765758048.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-dailyftlk-6e339f7a",
+    "num": "dailyftlk-6e339f7a",
+    "date_str": "2025-12-15",
+    "description": "Presidential authority in times of emergency: A contemporary appraisal",
+    "url_metadata": "https://www.ft.lk/columns/Presidential-authority-in-times-of-emergency-A-contemporary-appraisal/4-785671",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765758458.0
   }
 ]
