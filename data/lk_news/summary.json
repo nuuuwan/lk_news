@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-16 00:26:55",
-  "n_docs": 93392,
+  "time_updated": "2025-12-16 00:48:40",
+  "n_docs": 93393,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 93392,
+  "n_docs_with_text": 93393,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-16",
-  "dataset_size": 1403672295,
+  "dataset_size": 1403749141,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-16-dailyftlk-c4d894ad",
-    "num": "dailyftlk-c4d894ad",
+    "doc_id": "2025-12-16-dailyftlk-fd44661c",
+    "num": "dailyftlk-fd44661c",
     "date_str": "2025-12-16",
-    "description": "Disaster risk financing and insurance for disaster-proof Sri Lanka tourism",
-    "url_metadata": "https://www.ft.lk/columns/Disaster-risk-financing-and-insurance-for-disaster-proof-Sri-Lanka-tourism/4-785684",
+    "description": "Never waste a crisis",
+    "url_metadata": "https://www.ft.lk/columns/Never-waste-a-crisis/4-785685",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765824398.0
+    "time_ut": 1765825245.0
   }
 }
