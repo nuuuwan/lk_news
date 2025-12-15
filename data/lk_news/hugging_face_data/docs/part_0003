@@ -293830,6 +293830,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-15-adalk-88c6afb4",
+    "num": "adalk-88c6afb4",
+    "date_str": "2025-12-15",
+    "description": "\u0dbb\u0db9\u0dd4\u0d9a\u0dda\u0d87\u0dc5 \u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db8\u0dd9\u0db1\u0dca \u0dad\u0dc0\u0dad\u0dca \u0da2\u0dd3\u0dc0\u0dd2\u0dad 10\u0d9a\u0dca \u0db4\u0dc3\u0dca \u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0db9\u0dd4\u0d9a\u0dda\u0d87\u0dc5-\u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db8\u0dd9\u0db1\u0dca-\u0dad\u0dc0\u0dad\u0dca-\u0da2\u0dd3\u0dc0\u0dd2\u0dad-10\u0d9a\u0dca-\u0db4\u0dc3\u0dca-\u0dba\u0da7/11-420241",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1765768164.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-15-virakesarilk-1cb41819",
     "num": "virakesarilk-1cb41819",
     "date_str": "2025-12-15",
@@ -294028,6 +294039,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-15-virakesarilk-e9415158",
+    "num": "virakesarilk-e9415158",
+    "date_str": "2025-12-15",
+    "description": "\u0bae\u0ba9\u0bbf\u0ba4 \u0baa\u0bbe\u0bb5\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0ba4\u0bb5\u0bbe\u0ba4 \u0b89\u0ba3\u0bb5\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baa\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8!",
+    "url_metadata": "https://www.virakesari.lk/article/233379",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765776900.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-15-virakesarilk-6e6f2958",
     "num": "virakesarilk-6e6f2958",
     "date_str": "2025-12-15",
@@ -294047,5 +294069,38 @@
     "lang": "si",
     "newspaper_id": "lankadeepalk",
     "time_ut": 1765777218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-virakesarilk-29a8447e",
+    "num": "virakesarilk-29a8447e",
+    "date_str": "2025-12-15",
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/233380",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765778400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-virakesarilk-1bae479a",
+    "num": "virakesarilk-1bae479a",
+    "date_str": "2025-12-15",
+    "description": "\u0baf\u0bbe\u0bb4\u0bbf\u0ba9\u0bcd \u0bae\u0bc2\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb0\u0bbe\u0bb3\u0bcd \u0bb5\u0bc7\u0ba8\u0bcd\u0ba4\u0ba9\u0bcd \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/233376",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765778520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-15-virakesarilk-f31849b8",
+    "num": "virakesarilk-f31849b8",
+    "date_str": "2025-12-15",
+    "description": "\u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bc0\u0bb3 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/233383",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765778640.0
   }
 ]
