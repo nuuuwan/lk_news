@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--17_01:17:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--17_01:48:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,611** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,620** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-16-lankadeepalk-7bbbecfd",
-    "num": "lankadeepalk-7bbbecfd",
-    "date_str": "2025-12-16",
-    "description": "\u0db4\u0db1\u0dca\u0daf\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0dbd\u0dd2\u0dc3\u0dca\u0dc3\u0dd4 \u0d85\u0dbd\u0dd2\u0dba\u0dcf \u0db8\u0dd2\u0dba \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db4\u0db1\u0daf\u0db8\u0db1-\u0db4\u0dbd\u0dc3\u0dc3-\u0d85\u0dbd\u0dba-\u0db8\u0dba-\u0d9c\u0dc4\u0db1/1-685393",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1765905202.0
+    "doc_id": "2025-12-17-virakesarilk-074d5533",
+    "num": "virakesarilk-074d5533",
+    "date_str": "2025-12-17",
+    "description": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b90\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/233589",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765915320.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-17 | `virakesarilk-074d5533` | யாழில் ஐஸ் போதைப்பொருளுடன் இளைஞர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-074d5533)
+- 2025-12-17 | `virakesarilk-90400304` | யாழில் மாடியில் இருந்து விழுந்த குடும்பஸ்தர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-90400304)
+- 2025-12-17 | `virakesarilk-1e31c6bd` | ஊடகவியலாளர் மு.தமிழ்ச்செல்வனின்  நஞ்சாகும் நிலம் நூலுக்கு விருது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-1e31c6bd)
+- 2025-12-17 | `virakesarilk-803a8984` | ஐபிஎல் ஏலத்தில் இலங்கை வேகப்பந்து வீச்சாளர் மதீஷ பத்திரணவை 18 கோடி இந்திய ரூபாவுக்கு கே கே ஆர் வாங்கியது; | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-803a8984)
+- 2025-12-17 | `virakesarilk-f5cd5f9c` | இலங்கை மகளிர் அணியில் இரண்டு கை திறன் கொண்ட சுழல்பந்துவீச்சாளர் ஷஷினி கிம்ஹானி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-f5cd5f9c)
+- 2025-12-17 | `virakesarilk-afa1a73e` | 19இன் கீழ் ஆசிய கிண்ணம்: மலேசியாவை துவம்சம் செய்து தோல்வி அடையாத அணியாக அரை இறுதிக்குள் நுழைந்தது இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-afa1a73e)
+- 2025-12-17 | `virakesarilk-8d7996b6` | பாராளுமன்ற தெரிவுக்குழு அமைப்பதை விட, நீதிமன்றம் செல்வதே சிறந்தது போலி செய்திகளை பரப்பியவர்களை நாம் வெளிப்படுத்துவோம் - அரசாங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-8d7996b6)
+- 2025-12-17 | `virakesarilk-f9fbae33` | அனர்த்தத்தின் பின்னரான நிவாரண வழங்கல் மற்றும் மீட்சி பணிகளில் அமெரிக்க நிறுவனங்களின் வகிபாகம் என்ன? முதன்மை வர்த்தகப் பிரதிநிதியுடன் கலந்துரையாடியதாக அமெரிக்கத்தூதுவர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-f9fbae33)
+- 2025-12-17 | `virakesarilk-dd2c1aac` | 'இலங்கையை மீளக்கட்டியெழுப்பல்' நிதியம் பற்றி மேல்மாகாண ஆளுநரிடம் கேட்டறிந்த அமெரிக்கத்தூதுவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-dd2c1aac)
 - 2025-12-16 | `lankadeepalk-7bbbecfd` | පන්දමෙන් පිලිස්සු අලියා මිය ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-lankadeepalk-7bbbecfd)
 - 2025-12-16 | `virakesarilk-5403ffa8` | குறைநிரப்பு பிரேரணையை நிறைவேற்றிக் கொள்ள விசேட பாராளுமன்ற அமர்வுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-5403ffa8)
 - 2025-12-16 | `lankadeepalk-9e1c7521` | ජාතික විදුලි ප්‍රතිපත්ති කෙටුම්පත බලශක්ති ඇමතිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-lankadeepalk-9e1c7521)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2025-12-16 | `virakesarilk-e4d0f7b4` | மூன்றாம் காலாண்டுக்கான மொத்த உள்நாட்டு உற்பத்தியின் வளர்ச்சி வீதம் 5.4 சதவீதமாக பதிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-e4d0f7b4)
 - 2025-12-16 | `tamilmirrorlk-92ecf64f` | சிவப்பு  எச்சரிக்கை நீக்கம்; மஞ்சள் எச்சரிக்கை நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-tamilmirrorlk-92ecf64f)
 - 2025-12-16 | `virakesarilk-c00e85ef` | பிரமோத்ய விக்ரமசிங்கவின் தலைமையில் புதிய இலங்கை தேசிய கிரிக்கெட் தேர்வுக் குழு நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-c00e85ef)
-- 2025-12-16 | `virakesarilk-52d2b1de` | மீனவர்களை இந்திய தூதரகத்துக்கு எதிராக தூண்டிய கடற்றொழில் அமைச்சர் - சபா குகதாஸ் குற்றச்சாட்டு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-52d2b1de)
-- 2025-12-16 | `virakesarilk-cb362483` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு  Hatton National   வங்கி  100 மில்லியன் ரூபா நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-cb362483)
-- 2025-12-16 | `lankadeepalk-d3a6a31b` | සජිත් ආපදා කළමනාකරණයට වෙනම කැබිනට් ඇමැති කමක් ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-lankadeepalk-d3a6a31b)
-- 2025-12-16 | `lankadeepalk-de621ec3` | මඩකළපුවෙන් දුම්රියක් දින 12කට පසු පිටත් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-lankadeepalk-de621ec3)
-- 2025-12-16 | `lankadeepalk-62e7d363` | දයාසිරිගෙන් ශ්‍රීලනිපට සැර ලිපියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-lankadeepalk-62e7d363)
-- 2025-12-16 | `colombotelegraphcom-9a5a3b3b` | Peace, Minority Radicalism & Social Cohesion In Multicultural Societies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-colombotelegraphcom-9a5a3b3b)
-- 2025-12-16 | `tamilmirrorlk-79e618ac` | ஓடமும் ஒரு நாள் வண்டியில் ஏறும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-tamilmirrorlk-79e618ac)
-- 2025-12-16 | `virakesarilk-a611cdbf` | அரசாங்கத்தின் தவறுகளை சுட்டிக்காட்டும் எமது குரலை அடக்க முடியாது ; முஜிபுர் ரஹ்மான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-a611cdbf)
-- 2025-12-16 | `adalk-dc06b45c` | ශාරුක්ගේ කොල්කටා මතීෂව ඉන්දීය රු.කෝටි. 18කට මිලට ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-adalk-dc06b45c)
 
 ---
 
