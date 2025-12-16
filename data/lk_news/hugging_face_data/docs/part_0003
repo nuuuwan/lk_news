@@ -290596,6 +290596,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-12-islandlk-f204af6a",
+    "num": "islandlk-f204af6a",
+    "date_str": "2025-12-12",
+    "description": "A single swallow wheeling in a gyre",
+    "url_metadata": "http://island.lk/a-single-swallow-wheeling-in-a-gyre/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765558320.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-12-lankadeepalk-a928ee0a",
     "num": "lankadeepalk-a928ee0a",
     "date_str": "2025-12-12",
@@ -291803,6 +291814,17 @@
     "lang": "en",
     "newspaper_id": "colombotelegraphcom",
     "time_ut": 1765634131.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-13-islandlk-ea636ace",
+    "num": "islandlk-ea636ace",
+    "date_str": "2025-12-13",
+    "description": "Why Sri Lanka Still Has No Doppler Radar \u2013 and Who Should Be Held Accountable",
+    "url_metadata": "http://island.lk/why-sri-lanka-still-has-no-doppler-radar-and-who-should-be-held-accountable/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765634280.0
   },
   {
     "doc_type": "lk_news",
@@ -293387,6 +293409,61 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1765733700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-14-islandlk-c05536d2",
+    "num": "islandlk-c05536d2",
+    "date_str": "2025-12-14",
+    "description": "Trade preferences to support post-Ditwah reconstruction",
+    "url_metadata": "http://island.lk/trade-preferences-to-support-post-ditwah-reconstruction/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765735320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-14-islandlk-3cd8e671",
+    "num": "islandlk-3cd8e671",
+    "date_str": "2025-12-14",
+    "description": "Lasting power and beauty of words",
+    "url_metadata": "http://island.lk/lasting-power-and-beauty-of-words/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765735620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-14-islandlk-e87b325e",
+    "num": "islandlk-e87b325e",
+    "date_str": "2025-12-14",
+    "description": "Sampath Bank\u2019s strong results boost investor confidence",
+    "url_metadata": "http://island.lk/sampath-banks-strong-results-boost-investor-confidence/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765736760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-14-islandlk-00ac3132",
+    "num": "islandlk-00ac3132",
+    "date_str": "2025-12-14",
+    "description": "ADB approves $200 million to improve water and food security in North Central Sri Lanka",
+    "url_metadata": "http://island.lk/adb-approves-200-million-to-improve-water-and-food-security-in-north-central-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765736820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-14-islandlk-ff575478",
+    "num": "islandlk-ff575478",
+    "date_str": "2025-12-14",
+    "description": "ComBank to further empower women-led enterprises with NCGIL",
+    "url_metadata": "http://island.lk/combank-to-further-empower-women-led-enterprises-with-ncgil/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765736820.0
   },
   {
     "doc_type": "lk_news",
@@ -295645,6 +295722,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-ec063bbb",
+    "num": "islandlk-ec063bbb",
+    "date_str": "2025-12-16",
+    "description": "SEC and CSE continue drive to broad base stock market",
+    "url_metadata": "http://island.lk/sec-and-cse-continue-drive-to-broad-base-stock-market/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765824180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-458490f4",
+    "num": "islandlk-458490f4",
+    "date_str": "2025-12-16",
+    "description": "The Ritz-Carlton Yacht Collection makes their maiden call to Sri Lanka with Aitken Spence Travels, docking at Colombo & Galle",
+    "url_metadata": "http://island.lk/the-ritz-carlton-yacht-collection-makes-their-maiden-call-to-sri-lanka-with-aitken-spence-travels-docking-at-colombo-galle/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765824300.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-fe0aef63",
+    "num": "islandlk-fe0aef63",
+    "date_str": "2025-12-16",
+    "description": "Retail investor worries drag down stock market",
+    "url_metadata": "http://island.lk/retail-investor-worries-drag-down-stock-market/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765824300.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-16-dailyftlk-c4d894ad",
     "num": "dailyftlk-c4d894ad",
     "date_str": "2025-12-16",
@@ -295653,6 +295763,39 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1765824398.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-594db48f",
+    "num": "islandlk-594db48f",
+    "date_str": "2025-12-16",
+    "description": "Bureau Veritas Lanka wins Great HR Awards 2025 for its people-centric culture",
+    "url_metadata": "http://island.lk/bureau-veritas-lanka-wins-great-hr-awards-2025-for-its-people-centric-culture/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765824420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-13e31391",
+    "num": "islandlk-13e31391",
+    "date_str": "2025-12-16",
+    "description": "A Classic Christmas",
+    "url_metadata": "http://island.lk/a-classic-christmas-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765825080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-194566f3",
+    "num": "islandlk-194566f3",
+    "date_str": "2025-12-16",
+    "description": "Suzi \u2026 missing Sri Lanka",
+    "url_metadata": "http://island.lk/suzi-missing-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765825200.0
   },
   {
     "doc_type": "lk_news",
@@ -295895,5 +296038,38 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1765839780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-virakesarilk-0afb08cf",
+    "num": "virakesarilk-0afb08cf",
+    "date_str": "2025-12-16",
+    "description": "\u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0bb5\u0bc0\u0ba4\u0bbf\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0ba9\u0bb0\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 400 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bca\u0bb2\u0bb0\u0bcd \u0b9a\u0bc6\u0bb2\u0bb5\u0bbe\u0b95\u0bc1\u0bae\u0bcd ; \u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0b9a\u0bbf\u0baf \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/233465",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765840680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-virakesarilk-f5defa87",
+    "num": "virakesarilk-f5defa87",
+    "date_str": "2025-12-16",
+    "description": "\u0b85\u0bb0\u0b9a, \u0b85\u0bb0\u0b9a \u0b85\u0b99\u0bcd\u0b95\u0bc0\u0b95\u0bbe\u0bb0\u0bae\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd; \u0b8a\u0bb5\u0bbe, \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf, \u0bb5\u0b9f\u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 147 \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/233466",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765840800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-virakesarilk-beb36683",
+    "num": "virakesarilk-beb36683",
+    "date_str": "2025-12-16",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bb4\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd \u0b8e\u0ba9 \u0bb5\u0bb3\u0bbf\u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bc1 \u0b95\u0bc2\u0bb1\u0bb2\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/233467",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1765840980.0
   }
 ]
