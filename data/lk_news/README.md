@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--16_22:51:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--16_23:22:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,608** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,609** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -57,10 +57,10 @@ A collection of lk_news documents.
 - 2025-12-16 | `lankadeepalk-d3a6a31b` | සජිත් ආපදා කළමනාකරණයට වෙනම කැබිනට් ඇමැති කමක් ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-lankadeepalk-d3a6a31b)
 - 2025-12-16 | `lankadeepalk-de621ec3` | මඩකළපුවෙන් දුම්රියක් දින 12කට පසු පිටත් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-lankadeepalk-de621ec3)
 - 2025-12-16 | `lankadeepalk-62e7d363` | දයාසිරිගෙන් ශ්‍රීලනිපට සැර ලිපියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-lankadeepalk-62e7d363)
+- 2025-12-16 | `colombotelegraphcom-9a5a3b3b` | Peace, Minority Radicalism & Social Cohesion In Multicultural Societies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-colombotelegraphcom-9a5a3b3b)
 - 2025-12-16 | `tamilmirrorlk-79e618ac` | ஓடமும் ஒரு நாள் வண்டியில் ஏறும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-tamilmirrorlk-79e618ac)
 - 2025-12-16 | `virakesarilk-a611cdbf` | அரசாங்கத்தின் தவறுகளை சுட்டிக்காட்டும் எமது குரலை அடக்க முடியாது ; முஜிபுர் ரஹ்மான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-a611cdbf)
 - 2025-12-16 | `adalk-dc06b45c` | ශාරුක්ගේ කොල්කටා මතීෂව ඉන්දීය රු.කෝටි. 18කට මිලට ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-adalk-dc06b45c)
-- 2025-12-16 | `virakesarilk-d2ab9ab8` | இந்திய எக்ஸ்பிரஸ் நிறுவனம் திரிபுப்படுத்தப்பட்ட செய்தியை வெளியிட்டுள்ளது ; நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-d2ab9ab8)
 
 ---
 
