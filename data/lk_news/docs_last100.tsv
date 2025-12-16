@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-17-tamilmirrorlk-eb4ccb02	tamilmirrorlk-eb4ccb02	2025-12-17	மோடிக்கு கார் செலுத்தினார் ஜோர்டான் இளவரசர்	https://www.tamilmirror.lk/உலக-செய்திகள்/மோடிக்கு-கார்-செலுத்தினார்-ஜோர்டான்-இளவரசர்/50-369649	ta	tamilmirrorlk	1765919560.0
+lk_news	2025-12-17-tamilmirrorlk-7a43ae69	tamilmirrorlk-7a43ae69	2025-12-17	துருக்கி விமானம் பாதுகாப்பாக தரையிறக்கம்	https://www.tamilmirror.lk/செய்திகள்/துருக்கி-விமானம்-பாதுகாப்பாக-தரையிறக்கம்/175-369648	ta	tamilmirrorlk	1765918668.0
 lk_news	2025-12-17-virakesarilk-074d5533	virakesarilk-074d5533	2025-12-17	யாழில் ஐஸ் போதைப்பொருளுடன் இளைஞர் கைது!	https://www.virakesari.lk/article/233589	ta	virakesarilk	1765915320.0
 lk_news	2025-12-17-virakesarilk-90400304	virakesarilk-90400304	2025-12-17	யாழில் மாடியில் இருந்து விழுந்த குடும்பஸ்தர் பலி!	https://www.virakesari.lk/article/233588	ta	virakesarilk	1765915140.0
 lk_news	2025-12-17-virakesarilk-1e31c6bd	virakesarilk-1e31c6bd	2025-12-17	ஊடகவியலாளர் மு.தமிழ்ச்செல்வனின்  நஞ்சாகும் நிலம் நூலுக்கு விருது	https://www.virakesari.lk/article/233587	ta	virakesarilk	1765914960.0
@@ -85,6 +87,7 @@ lk_news	2025-12-16-lankadeepalk-2b21a54e	lankadeepalk-2b21a54e	2025-12-16	සෞ
 lk_news	2025-12-16-lankadeepalk-aec723fb	lankadeepalk-aec723fb	2025-12-16	දිට්වාගෙන් ගොඩඑන සැලසුම	https://www.lankadeepa.lk/features/දටවගන-ගඩඑන-සලසම/2-685371	si	lankadeepalk	1765878192.0
 lk_news	2025-12-16-lankadeepalk-e28138e8	lankadeepalk-e28138e8	2025-12-16	ආයතනවල හිංසන මඩින ලෝක සම්මුතියට ලංකාවත් එක්වේ	https://www.lankadeepa.lk/news/ආයතනවල-හසන-මඩන-ලක-සමමතයට-ලකවත-එකව/101-685370	si	lankadeepalk	1765877991.0
 lk_news	2025-12-16-tamilmirrorlk-85bc0a5b	tamilmirrorlk-85bc0a5b	2025-12-16	நெல்லை  அரிசியாக்கி  விநியோகிக்க அங்காரம்	https://www.tamilmirror.lk/செய்திகள்/நெல்லை-அரிசியாக்கி-விநியோகிக்க-அங்காரம்/175-369619	ta	tamilmirrorlk	1765877462.0
+lk_news	2025-12-16-tamilmirrorlk-2a3f897e	tamilmirrorlk-2a3f897e	2025-12-16	நெல்லை  அரிசியாக்கி  விநியோகிக்க அங்கிகாரம்	https://www.tamilmirror.lk/செய்திகள்/நெல்லை-அரிசியாக்கி-விநியோகிக்க-அங்கிகாரம்/175-369619	ta	tamilmirrorlk	1765877462.0
 lk_news	2025-12-16-virakesarilk-e160a0b4	virakesarilk-e160a0b4	2025-12-16	உலக காலநிலை மாற்றத்துக்கு இலங்கை தயாராக இருக்கிறதா?	https://www.virakesari.lk/article/233503	ta	virakesarilk	1765877220.0
 lk_news	2025-12-16-adalk-253f943c	adalk-253f943c	2025-12-16	මිලි මීටර් 100ක් දක්වා වැසි	https://www.ada.lk/breaking_news/මිලි-මීටර්-100ක්-දක්වා-වැසි/11-420271	si	adalk	1765877145.0
 lk_news	2025-12-16-tamilmirrorlk-c5e46c56	tamilmirrorlk-c5e46c56	2025-12-16	‘தாய்‘ விபசாரிகள் அறுவர் கைது	https://www.tamilmirror.lk/செய்திகள்/தாய்-விபசாரிகள்-அறுவர்-கைது/175-369618	ta	tamilmirrorlk	1765876997.0
@@ -96,6 +99,3 @@ lk_news	2025-12-16-virakesarilk-294e4676	virakesarilk-294e4676	2025-12-16	Wealth
 lk_news	2025-12-16-adalk-e60bbc58	adalk-e60bbc58	2025-12-16	නාය යාමකට හසුව මිය ගිය තරුණයෙකුගේ බංකු කාඩ්පතින් භාණ්ඩ මිලට ගත් බන්ධනාගාර නියාමක අල්ලයි	https://www.ada.lk/breaking_news/නාය-යාමකට-හසුව-මිය-ගිය-තරුණයෙකුගේ-බංකු-කාඩ්පතින්-භාණ්ඩ-මිලට-ගත්-බන්ධනාගාර-නියාමක-අල්ලයි/11-420270	si	adalk	1765876134.0
 lk_news	2025-12-16-adalk-0aeb1219	adalk-0aeb1219	2025-12-16	විනාශ වූ මධ්‍යම මාර්ග ඉදිකිරීම අභියෝගයක්	https://www.ada.lk/breaking_news/විනාශ-වූ-මධ්‍යම-මාර්ග-ඉදිකිරීම-අභියෝගයක්/11-420269	si	adalk	1765875671.0
 lk_news	2025-12-16-tamilmirrorlk-8a9aeeff	tamilmirrorlk-8a9aeeff	2025-12-16	வட்டகொடையில் பாடசாலை மூடப்பட்டது	https://www.tamilmirror.lk/மலையகம்/வட்டகொடையில்-பாடசாலை-மூடப்பட்டது/76-369616	ta	tamilmirrorlk	1765875486.0
-lk_news	2025-12-16-adalk-5ec36b35	adalk-5ec36b35	2025-12-16	2025 තෙවැනි වාරයටත් වාර පරීක්ෂණ එපා	https://www.ada.lk/breaking_news/2025-තෙවැනි-වාරයටත්-වාර-පරීක්ෂණ-එපා/11-420268	si	adalk	1765875454.0
-lk_news	2025-12-16-tamilmirrorlk-c7213fd7	tamilmirrorlk-c7213fd7	2025-12-16	ஜெர்மனி பறக்க முயன்ற ​இளைஞனுக்கு சிக்கல்	https://www.tamilmirror.lk/செய்திகள்/ஜெர்மனி-பறக்க-முயன்ற-இளைஞனுக்கு-சிக்கல்/175-369615	ta	tamilmirrorlk	1765875311.0
-lk_news	2025-12-16-adalk-40579147	adalk-40579147	2025-12-16	විශේෂඥ කණ්ඩායම් 15ක් පාසල් ගොඩනැගිලි කඩිනමින් පරීක්ෂාවට	https://www.ada.lk/breaking_news/විශේෂඥ-කණ්ඩායම්-15ක්-පාසල්-ගොඩනැගිලි-කඩිනමින්-පරීක්ෂාවට/11-420267	si	adalk	1765875076.0

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--17_02:20:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--17_02:48:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,620** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,623** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-17-virakesarilk-074d5533",
-    "num": "virakesarilk-074d5533",
+    "doc_id": "2025-12-17-tamilmirrorlk-eb4ccb02",
+    "num": "tamilmirrorlk-eb4ccb02",
     "date_str": "2025-12-17",
-    "description": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b90\u0bb8\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/233589",
+    "description": "\u0bae\u0bcb\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0bb0\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0b9c\u0bcb\u0bb0\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd \u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bbe\u0bb0\u0bcd-\u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0b9c\u0bcb\u0bb0\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd-\u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bb0\u0bcd/50-369649",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765915320.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1765919560.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-17 | `tamilmirrorlk-eb4ccb02` | மோடிக்கு கார் செலுத்தினார் ஜோர்டான் இளவரசர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-tamilmirrorlk-eb4ccb02)
+- 2025-12-17 | `tamilmirrorlk-7a43ae69` | துருக்கி விமானம் பாதுகாப்பாக தரையிறக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-tamilmirrorlk-7a43ae69)
 - 2025-12-17 | `virakesarilk-074d5533` | யாழில் ஐஸ் போதைப்பொருளுடன் இளைஞர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-074d5533)
 - 2025-12-17 | `virakesarilk-90400304` | யாழில் மாடியில் இருந்து விழுந்த குடும்பஸ்தர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-90400304)
 - 2025-12-17 | `virakesarilk-1e31c6bd` | ஊடகவியலாளர் மு.தமிழ்ச்செல்வனின்  நஞ்சாகும் நிலம் நூலுக்கு விருது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-1e31c6bd)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-16 | `virakesarilk-f2cd7747` | 'ஒன்டன் செட்ரோன்' எனப்படும் வாந்தி ஏற்படுவதை தூண்டுவதை தடுக்கும் மருந்து பாவனையிலிருந்து முற்றாக நீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-f2cd7747)
 - 2025-12-16 | `tamilmirrorlk-9798c65e` | தேசிய கிரிக்கெட் தேர்வுக் குழுவுக்கு புதிய தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-tamilmirrorlk-9798c65e)
 - 2025-12-16 | `virakesarilk-e4d0f7b4` | மூன்றாம் காலாண்டுக்கான மொத்த உள்நாட்டு உற்பத்தியின் வளர்ச்சி வீதம் 5.4 சதவீதமாக பதிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-e4d0f7b4)
-- 2025-12-16 | `tamilmirrorlk-92ecf64f` | சிவப்பு  எச்சரிக்கை நீக்கம்; மஞ்சள் எச்சரிக்கை நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-tamilmirrorlk-92ecf64f)
-- 2025-12-16 | `virakesarilk-c00e85ef` | பிரமோத்ய விக்ரமசிங்கவின் தலைமையில் புதிய இலங்கை தேசிய கிரிக்கெட் தேர்வுக் குழு நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-c00e85ef)
 
 ---
 

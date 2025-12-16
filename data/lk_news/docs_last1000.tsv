@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-17-tamilmirrorlk-eb4ccb02	tamilmirrorlk-eb4ccb02	2025-12-17	மோடிக்கு கார் செலுத்தினார் ஜோர்டான் இளவரசர்	https://www.tamilmirror.lk/உலக-செய்திகள்/மோடிக்கு-கார்-செலுத்தினார்-ஜோர்டான்-இளவரசர்/50-369649	ta	tamilmirrorlk	1765919560.0
+lk_news	2025-12-17-tamilmirrorlk-7a43ae69	tamilmirrorlk-7a43ae69	2025-12-17	துருக்கி விமானம் பாதுகாப்பாக தரையிறக்கம்	https://www.tamilmirror.lk/செய்திகள்/துருக்கி-விமானம்-பாதுகாப்பாக-தரையிறக்கம்/175-369648	ta	tamilmirrorlk	1765918668.0
 lk_news	2025-12-17-virakesarilk-074d5533	virakesarilk-074d5533	2025-12-17	யாழில் ஐஸ் போதைப்பொருளுடன் இளைஞர் கைது!	https://www.virakesari.lk/article/233589	ta	virakesarilk	1765915320.0
 lk_news	2025-12-17-virakesarilk-90400304	virakesarilk-90400304	2025-12-17	யாழில் மாடியில் இருந்து விழுந்த குடும்பஸ்தர் பலி!	https://www.virakesari.lk/article/233588	ta	virakesarilk	1765915140.0
 lk_news	2025-12-17-virakesarilk-1e31c6bd	virakesarilk-1e31c6bd	2025-12-17	ஊடகவியலாளர் மு.தமிழ்ச்செல்வனின்  நஞ்சாகும் நிலம் நூலுக்கு விருது	https://www.virakesari.lk/article/233587	ta	virakesarilk	1765914960.0
@@ -85,6 +87,7 @@ lk_news	2025-12-16-lankadeepalk-2b21a54e	lankadeepalk-2b21a54e	2025-12-16	සෞ
 lk_news	2025-12-16-lankadeepalk-aec723fb	lankadeepalk-aec723fb	2025-12-16	දිට්වාගෙන් ගොඩඑන සැලසුම	https://www.lankadeepa.lk/features/දටවගන-ගඩඑන-සලසම/2-685371	si	lankadeepalk	1765878192.0
 lk_news	2025-12-16-lankadeepalk-e28138e8	lankadeepalk-e28138e8	2025-12-16	ආයතනවල හිංසන මඩින ලෝක සම්මුතියට ලංකාවත් එක්වේ	https://www.lankadeepa.lk/news/ආයතනවල-හසන-මඩන-ලක-සමමතයට-ලකවත-එකව/101-685370	si	lankadeepalk	1765877991.0
 lk_news	2025-12-16-tamilmirrorlk-85bc0a5b	tamilmirrorlk-85bc0a5b	2025-12-16	நெல்லை  அரிசியாக்கி  விநியோகிக்க அங்காரம்	https://www.tamilmirror.lk/செய்திகள்/நெல்லை-அரிசியாக்கி-விநியோகிக்க-அங்காரம்/175-369619	ta	tamilmirrorlk	1765877462.0
+lk_news	2025-12-16-tamilmirrorlk-2a3f897e	tamilmirrorlk-2a3f897e	2025-12-16	நெல்லை  அரிசியாக்கி  விநியோகிக்க அங்கிகாரம்	https://www.tamilmirror.lk/செய்திகள்/நெல்லை-அரிசியாக்கி-விநியோகிக்க-அங்கிகாரம்/175-369619	ta	tamilmirrorlk	1765877462.0
 lk_news	2025-12-16-virakesarilk-e160a0b4	virakesarilk-e160a0b4	2025-12-16	உலக காலநிலை மாற்றத்துக்கு இலங்கை தயாராக இருக்கிறதா?	https://www.virakesari.lk/article/233503	ta	virakesarilk	1765877220.0
 lk_news	2025-12-16-adalk-253f943c	adalk-253f943c	2025-12-16	මිලි මීටර් 100ක් දක්වා වැසි	https://www.ada.lk/breaking_news/මිලි-මීටර්-100ක්-දක්වා-වැසි/11-420271	si	adalk	1765877145.0
 lk_news	2025-12-16-tamilmirrorlk-c5e46c56	tamilmirrorlk-c5e46c56	2025-12-16	‘தாய்‘ விபசாரிகள் அறுவர் கைது	https://www.tamilmirror.lk/செய்திகள்/தாய்-விபசாரிகள்-அறுவர்-கைது/175-369618	ta	tamilmirrorlk	1765876997.0
@@ -996,6 +999,3 @@ lk_news	2025-12-11-lankadeepalk-e663f717	lankadeepalk-e663f717	2025-12-11	කැ
 lk_news	2025-12-11-adalk-060664b1	adalk-060664b1	2025-12-11	කාන්තාවන්ට එරෙහි හිංසනය පිටුදැකීමේ ජගත් දිනය සමරයි	https://www.ada.lk/business/කාන්තාවන්ට-එරෙහි-හිංසනය-පිටුදැකීමේ-ජගත්-දිනය-සමරයි/7-420183	si	adalk	1765439500.0
 lk_news	2025-12-11-lankadeepalk-32be7c80	lankadeepalk-32be7c80	2025-12-11	මාතලේ මහනගරසභා අයවැයත් සම්මතයි	https://www.lankadeepa.lk/latest_news/මතල-මහනගරසභ-අයවයත-සමමතය/1-685083	si	lankadeepalk	1765438667.0
 lk_news	2025-12-11-virakesarilk-7a9b813d	virakesarilk-7a9b813d	2025-12-11	சிலம்பரசன் TR நடிக்கும் 'அரசன்' படத்தின் படப்பிடிப்பு தொடக்கம்	https://www.virakesari.lk/article/233062	ta	virakesarilk	1765438080.0
-lk_news	2025-12-11-lankadeepalk-75b7d467	lankadeepalk-75b7d467	2025-12-11	අයවැය හිඟය අඩු වෙලා	https://www.lankadeepa.lk/latest_news/අයවය-හඟය-අඩ-වල/1-685082	si	lankadeepalk	1765438043.0
-lk_news	2025-12-11-lankadeepalk-5376ea2c	lankadeepalk-5376ea2c	2025-12-11	නිලධාරීන් දුන් උපදෙස් නොපිලිපැදීමෙන් ජීවිත රැසක් නැති වුණා	https://www.lankadeepa.lk/latest_news/නලධරන-දන-උපදස-නපලපදමන-ජවත-රසක-නත-වණ/1-685081	si	lankadeepalk	1765437718.0
-lk_news	2025-12-11-adalk-c6434dfd	adalk-c6434dfd	2025-12-11	එක්සත් ජනපද නියෝජ්‍ය රාජ්‍ය ලේකම් ශ්‍රී ලංකාවට	https://www.ada.lk/business/එක්සත්-ජනපද-නියෝජ්‍ය-රාජ්‍ය-ලේකම්-ශ්‍රී-ලංකාවට/7-420182	si	adalk	1765437461.0
