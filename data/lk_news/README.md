@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--16_19:49:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--16_20:24:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,594** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,595** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -53,6 +53,7 @@ A collection of lk_news documents.
 - 2025-12-16 | `adalk-dc06b45c` | ශාරුක්ගේ කොල්කටා මතීෂව ඉන්දීය රු.කෝටි. 18කට මිලට ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-adalk-dc06b45c)
 - 2025-12-16 | `tamilmirrorlk-b8299836` | ஹிஜாப்பை பிடித்து இழுத்த முதல்வர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-tamilmirrorlk-b8299836)
 - 2025-12-16 | `virakesarilk-70223e0a` | வீட்டினுள் தீயில் கருகி மூதாட்டி உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-70223e0a)
+- 2025-12-16 | `adalk-d3b08430` | දුම්රියේ ගමන් කරන පාසල් ළමුන්ට සහනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-adalk-d3b08430)
 - 2025-12-16 | `virakesarilk-740bd4b0` | சமூக ஊடகங்களைப் பயன்படுத்தி மோசடிகள் அதிகரிப்பு ; இலங்கை கணினி அவசரகால பதிலளிப்பு குழு பொதுமக்களுக்கு எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-740bd4b0)
 - 2025-12-16 | `virakesarilk-1dc7d07c` | இலங்கையின் மொத்த உள்நாட்டு உற்பத்தி 5.4% வளர்ச்சி - தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-1dc7d07c)
 - 2025-12-16 | `virakesarilk-93f1371a` | மலையக ரயில் மார்க்கத்திற்கு பாரிய சேதம்  - வீதிகள் புனரமைக்கப்பட்டு வழமைக்கு திரும்புவதற்கும் குறிப்பிட்டளவு காலம் செல்லும்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-93f1371a)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-16 | `lankadeepalk-e8f5ae35` | ව්‍යාපෘති කළමනාකරණ දෙපාර්තමේන්තු අධ්‍යක්ෂ පත් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-lankadeepalk-e8f5ae35)
 - 2025-12-16 | `tamilmirrorlk-650c6dd6` | பிணத்தில் களவாடிய சிறை காவலர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-tamilmirrorlk-650c6dd6)
 - 2025-12-16 | `virakesarilk-5c57c714` | தேசிய தொற்றுநோய் வைத்தியசாலையில் மருந்து ஒவ்வாமை காரணமாக இருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-5c57c714)
-- 2025-12-16 | `adalk-fc689673` | තද වැසි පිළිබඳව අවවාදාත්මක නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-adalk-fc689673)
 
 ---
 
