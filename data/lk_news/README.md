@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--17_05:18:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--17_06:03:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,623** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,641** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-17-tamilmirrorlk-eb4ccb02",
-    "num": "tamilmirrorlk-eb4ccb02",
+    "doc_id": "2025-12-17-dailyftlk-6393e70d",
+    "num": "dailyftlk-6393e70d",
     "date_str": "2025-12-17",
-    "description": "\u0bae\u0bcb\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0bb0\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0b9c\u0bcb\u0bb0\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd \u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bbe\u0bb0\u0bcd-\u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0b9c\u0bcb\u0bb0\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd-\u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bb0\u0bcd/50-369649",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1765919560.0
+    "description": "JVP\u2019s Il Viru Samaruva",
+    "url_metadata": "https://www.ft.lk/opinion/JVP-s-Il-Viru-Samaruva/14-785750",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765931429.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-17 | `dailyftlk-6393e70d` | JVP’s Il Viru Samaruva | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-6393e70d)
+- 2025-12-17 | `dailyftlk-4e90b208` | What Sri Lanka Can Learn From Andhra Pradesh: Lessons from the CII Partnership Summit in Visakhapatnam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-4e90b208)
+- 2025-12-17 | `dailyftlk-e13ae96d` | Not a moment to lose: Why Sri Lanka must mobilise its monetary and fiscal capacity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-e13ae96d)
+- 2025-12-17 | `dailyftlk-8e5c3a6d` | Govt. urges media responsibility amid confusion over recent weather systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-8e5c3a6d)
+- 2025-12-17 | `dailyftlk-5cdc696f` | Sri Lanka seeks greater ADB backing for post-Ditwah recovery, says Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-5cdc696f)
+- 2025-12-17 | `dailyftlk-03a66c0e` | Prof. G.L. Peiris offers a rare insider’s account of Sri Lanka’s peace talks with the LTTE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-03a66c0e)
+- 2025-12-17 | `dailyftlk-db4c5d5a` | Cabinet approves Rs. 150 m to fast-track e-Courts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-db4c5d5a)
 - 2025-12-17 | `tamilmirrorlk-eb4ccb02` | மோடிக்கு கார் செலுத்தினார் ஜோர்டான் இளவரசர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-tamilmirrorlk-eb4ccb02)
 - 2025-12-17 | `tamilmirrorlk-7a43ae69` | துருக்கி விமானம் பாதுகாப்பாக தரையிறக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-tamilmirrorlk-7a43ae69)
 - 2025-12-17 | `virakesarilk-074d5533` | யாழில் ஐஸ் போதைப்பொருளுடன் இளைஞர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-074d5533)
@@ -52,15 +59,8 @@ A collection of lk_news documents.
 - 2025-12-17 | `virakesarilk-8d7996b6` | பாராளுமன்ற தெரிவுக்குழு அமைப்பதை விட, நீதிமன்றம் செல்வதே சிறந்தது போலி செய்திகளை பரப்பியவர்களை நாம் வெளிப்படுத்துவோம் - அரசாங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-8d7996b6)
 - 2025-12-17 | `virakesarilk-f9fbae33` | அனர்த்தத்தின் பின்னரான நிவாரண வழங்கல் மற்றும் மீட்சி பணிகளில் அமெரிக்க நிறுவனங்களின் வகிபாகம் என்ன? முதன்மை வர்த்தகப் பிரதிநிதியுடன் கலந்துரையாடியதாக அமெரிக்கத்தூதுவர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-f9fbae33)
 - 2025-12-17 | `virakesarilk-dd2c1aac` | 'இலங்கையை மீளக்கட்டியெழுப்பல்' நிதியம் பற்றி மேல்மாகாண ஆளுநரிடம் கேட்டறிந்த அமெரிக்கத்தூதுவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-dd2c1aac)
-- 2025-12-16 | `lankadeepalk-7bbbecfd` | පන්දමෙන් පිලිස්සු අලියා මිය ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-lankadeepalk-7bbbecfd)
-- 2025-12-16 | `virakesarilk-5403ffa8` | குறைநிரப்பு பிரேரணையை நிறைவேற்றிக் கொள்ள விசேட பாராளுமன்ற அமர்வுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-5403ffa8)
-- 2025-12-16 | `lankadeepalk-9e1c7521` | ජාතික විදුලි ප්‍රතිපත්ති කෙටුම්පත බලශක්ති ඇමතිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-lankadeepalk-9e1c7521)
-- 2025-12-16 | `lankadeepalk-878d5b75` | පාසල් ඇතුළු රජයේ ගොඩනැගිලි දෙදාහක් දැඩි සෝදිසියට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-lankadeepalk-878d5b75)
-- 2025-12-16 | `lankadeepalk-fbc4e1bd` | හදිසි ආපදාවේ පාඩු වාර්තාව මැතිසබයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-lankadeepalk-fbc4e1bd)
-- 2025-12-16 | `virakesarilk-258f868a` | இவ்வருடத்தில் கடந்த 9 மாதங்களில் 600 க்கும் மேற்பட்ட புதிய எச்.ஐ.வி தொற்றாளர்கள் அடையாளம்: 13 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-258f868a)
-- 2025-12-16 | `virakesarilk-f2cd7747` | 'ஒன்டன் செட்ரோன்' எனப்படும் வாந்தி ஏற்படுவதை தூண்டுவதை தடுக்கும் மருந்து பாவனையிலிருந்து முற்றாக நீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-f2cd7747)
-- 2025-12-16 | `tamilmirrorlk-9798c65e` | தேசிய கிரிக்கெட் தேர்வுக் குழுவுக்கு புதிய தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-tamilmirrorlk-9798c65e)
-- 2025-12-16 | `virakesarilk-e4d0f7b4` | மூன்றாம் காலாண்டுக்கான மொத்த உள்நாட்டு உற்பத்தியின் வளர்ச்சி வீதம் 5.4 சதவீதமாக பதிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-virakesarilk-e4d0f7b4)
+- 2025-12-16 | `islandlk-12e4bf8f` | ComBank leads Sri Lanka’s SME lending for fifth consecutive year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-islandlk-12e4bf8f)
+- 2025-12-16 | `islandlk-224e766c` | AIA sets benchmark as Most Valuable Insurance Brand in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-16-islandlk-224e766c)
 
 ---
 

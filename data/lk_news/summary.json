@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-17 05:17:22",
-  "n_docs": 93623,
+  "time_updated": "2025-12-17 06:03:02",
+  "n_docs": 93641,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 93623,
+  "n_docs_with_text": 93641,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-17",
-  "dataset_size": 1407655020,
+  "dataset_size": 1407746268,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-17-tamilmirrorlk-eb4ccb02",
-    "num": "tamilmirrorlk-eb4ccb02",
+    "doc_id": "2025-12-17-dailyftlk-6393e70d",
+    "num": "dailyftlk-6393e70d",
     "date_str": "2025-12-17",
-    "description": "\u0bae\u0bcb\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0bb0\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0b9c\u0bcb\u0bb0\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd \u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bbe\u0bb0\u0bcd-\u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0b9c\u0bcb\u0bb0\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd-\u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bb0\u0bcd/50-369649",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1765919560.0
+    "description": "JVP\u2019s Il Viru Samaruva",
+    "url_metadata": "https://www.ft.lk/opinion/JVP-s-Il-Viru-Samaruva/14-785750",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765931429.0
   }
 }

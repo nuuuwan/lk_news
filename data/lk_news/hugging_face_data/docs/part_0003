@@ -291553,6 +291553,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-13-islandlk-3db78335",
+    "num": "islandlk-3db78335",
+    "date_str": "2025-12-13",
+    "description": "Disaster relief and shocking allegations",
+    "url_metadata": "http://island.lk/disaster-relief-and-shocking-allegations/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765618500.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-13-islandlk-f43d74af",
     "num": "islandlk-f43d74af",
     "date_str": "2025-12-13",
@@ -295744,6 +295755,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-852a7152",
+    "num": "islandlk-852a7152",
+    "date_str": "2025-12-16",
+    "description": "Birthday gift turned lifeline: US-based young environmentalist steps up for Sri Lanka",
+    "url_metadata": "http://island.lk/birthday-gift-turned-lifeline-us-based-young-environmentalist-steps-up-for-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765824060.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-16-islandlk-ec063bbb",
     "num": "islandlk-ec063bbb",
     "date_str": "2025-12-16",
@@ -295796,6 +295818,28 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1765824420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-46d4253f",
+    "num": "islandlk-46d4253f",
+    "date_str": "2025-12-16",
+    "description": "A wake-up call for stronger preparedness and coordination",
+    "url_metadata": "http://island.lk/a-wake-up-call-for-stronger-preparedness-and-coordination/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765824720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-7e493529",
+    "num": "islandlk-7e493529",
+    "date_str": "2025-12-16",
+    "description": "The reality facing Sri Lankans, govt. and Opposition",
+    "url_metadata": "http://island.lk/the-reality-facing-sri-lankans-govt-and-opposition/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765824780.0
   },
   {
     "doc_type": "lk_news",
@@ -297823,6 +297867,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-16-adalk-4a9eee3d",
+    "num": "adalk-4a9eee3d",
+    "date_str": "2025-12-16",
+    "description": "\u0db8\u0dad\u0dd3\u0dc2\u0da7 \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dbb\u0dd4.\u0d9a\u0ddd. 18\u0d9a\u0dca, \u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca\u0da7 \u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dbb\u0dd4.\u0d9a\u0ddd. 4",
+    "url_metadata": "https://www.ada.lk/sports/\u0db8\u0dad\u0dd3\u0dc2\u0da7-\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0dbb\u0dd4-\u0d9a\u0ddd--18\u0d9a\u0dca--\u0db4\u0dd0\u0dad\u0dd4\u0db8\u0dca\u0da7-\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba-\u0dbb\u0dd4-\u0d9a\u0ddd--4/9-420279",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1765885671.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-16-adalk-dc06b45c",
     "num": "adalk-dc06b45c",
     "date_str": "2025-12-16",
@@ -298043,6 +298098,72 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-c39eb757",
+    "num": "islandlk-c39eb757",
+    "date_str": "2025-12-16",
+    "description": "Union Bank choir performs at \u2018Sounds of the Season\u2019",
+    "url_metadata": "http://island.lk/union-bank-choir-performs-at-sounds-of-the-season/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765907040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-948269f2",
+    "num": "islandlk-948269f2",
+    "date_str": "2025-12-16",
+    "description": "GDP statistics and tourism sector data boost bourse",
+    "url_metadata": "http://island.lk/gdp-statistics-and-tourism-sector-data-boost-bourse/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765907100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-4ef5a344",
+    "num": "islandlk-4ef5a344",
+    "date_str": "2025-12-16",
+    "description": "\u2018Charles Sturt University brings world-class education opportunities to Sri Lanka\u2019",
+    "url_metadata": "http://island.lk/charles-sturt-university-brings-world-class-education-opportunities-to-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765907280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-9b3ee57f",
+    "num": "islandlk-9b3ee57f",
+    "date_str": "2025-12-16",
+    "description": "MSF supports Sri Lanka flood relief with delivery of winterized tents to Disaster Management Center",
+    "url_metadata": "http://island.lk/msf-supports-sri-lanka-flood-relief-with-delivery-of-winterized-tents-to-disaster-management-center/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765907340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-224e766c",
+    "num": "islandlk-224e766c",
+    "date_str": "2025-12-16",
+    "description": "AIA sets benchmark as Most Valuable Insurance Brand in Sri Lanka",
+    "url_metadata": "http://island.lk/aia-sets-benchmark-as-most-valuable-insurance-brand-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765907400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-12e4bf8f",
+    "num": "islandlk-12e4bf8f",
+    "date_str": "2025-12-16",
+    "description": "ComBank leads Sri Lanka\u2019s SME lending for fifth consecutive year",
+    "url_metadata": "http://island.lk/combank-leads-sri-lankas-sme-lending-for-fifth-consecutive-year/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765907460.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-17-virakesarilk-dd2c1aac",
     "num": "virakesarilk-dd2c1aac",
     "date_str": "2025-12-17",
@@ -298161,5 +298282,82 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1765919560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dailyftlk-db4c5d5a",
+    "num": "dailyftlk-db4c5d5a",
+    "date_str": "2025-12-17",
+    "description": "Cabinet approves Rs. 150 m to fast-track e-Courts",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-Rs-150-m-to-fast-track-e-Courts/56-785743",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765930461.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dailyftlk-03a66c0e",
+    "num": "dailyftlk-03a66c0e",
+    "date_str": "2025-12-17",
+    "description": "Prof. G.L. Peiris offers a rare insider\u2019s account of Sri Lanka\u2019s peace talks with the LTTE",
+    "url_metadata": "https://www.ft.lk/news/Prof-G-L-Peiris-offers-a-rare-insider-s-account-of-Sri-Lanka-s-peace-talks-with-the-LTTE/56-785744",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765930522.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dailyftlk-5cdc696f",
+    "num": "dailyftlk-5cdc696f",
+    "date_str": "2025-12-17",
+    "description": "Sri Lanka seeks greater ADB backing for post-Ditwah recovery, says Sajith",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-seeks-greater-ADB-backing-for-post-Ditwah-recovery-says-Sajith/56-785745",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765930576.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dailyftlk-8e5c3a6d",
+    "num": "dailyftlk-8e5c3a6d",
+    "date_str": "2025-12-17",
+    "description": "Govt. urges media responsibility amid confusion over recent weather systems",
+    "url_metadata": "https://www.ft.lk/news/Govt-urges-media-responsibility-amid-confusion-over-recent-weather-systems/56-785746",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765930636.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dailyftlk-e13ae96d",
+    "num": "dailyftlk-e13ae96d",
+    "date_str": "2025-12-17",
+    "description": "Not a moment to lose: Why Sri Lanka must mobilise its monetary and fiscal capacity",
+    "url_metadata": "https://www.ft.lk/columns/Not-a-moment-to-lose-Why-Sri-Lanka-must-mobilise-its-monetary-and-fiscal-capacity/4-785747",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765931049.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dailyftlk-4e90b208",
+    "num": "dailyftlk-4e90b208",
+    "date_str": "2025-12-17",
+    "description": "What Sri Lanka Can Learn From Andhra Pradesh: Lessons from the CII Partnership Summit in Visakhapatnam",
+    "url_metadata": "https://www.ft.lk/columns/What-Sri-Lanka-Can-Learn-From-Andhra-Pradesh-Lessons-from-the-CII-Partnership-Summit-in-Visakhapatnam/4-785748",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765931277.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dailyftlk-6393e70d",
+    "num": "dailyftlk-6393e70d",
+    "date_str": "2025-12-17",
+    "description": "JVP\u2019s Il Viru Samaruva",
+    "url_metadata": "https://www.ft.lk/opinion/JVP-s-Il-Viru-Samaruva/14-785750",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765931429.0
   }
 ]
