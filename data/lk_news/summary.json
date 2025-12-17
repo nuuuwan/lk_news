@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-18 04:19:33",
-  "n_docs": 93831,
+  "time_updated": "2025-12-18 04:47:02",
+  "n_docs": 93833,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 93831,
+  "n_docs_with_text": 93833,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-18",
-  "dataset_size": 1411446482,
+  "dataset_size": 1411497279,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-18-dailyftlk-e9515fd9",
-    "num": "dailyftlk-e9515fd9",
+    "doc_id": "2025-12-18-dailyftlk-db1f2385",
+    "num": "dailyftlk-db1f2385",
     "date_str": "2025-12-18",
-    "description": "\u2018Legalised begging\u2019 and elegant targeting: What Ministers, Multilaterals are getting wrong about social protection in Sri Lanka",
-    "url_metadata": "https://www.ft.lk/columns/Legalised-begging-and-elegant-targeting-What-Ministers-Multilaterals-are-getting-wrong-about-social-protection-in-Sri-Lanka/4-785790",
+    "description": "How Sri Lanka can rebuild stronger after Cyclone Ditwah",
+    "url_metadata": "https://www.ft.lk/columns/How-Sri-Lanka-can-rebuild-stronger-after-Cyclone-Ditwah/4-785792",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1766011371.0
+    "time_ut": 1766012314.0
   }
 }
