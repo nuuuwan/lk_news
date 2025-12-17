@@ -1,4 +1,8 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-17-lankadeepalk-3bf55127	lankadeepalk-3bf55127	2025-12-17	අලි - ඇත් සටන අස්සේ පාරේ ගිය බසයටත් අලි ප්‍රහාරයක්	https://www.lankadeepa.lk/news/අල-ඇත-සටන-අසස-පර-ගය-බසයටත-අල-පරහරයක/101-685442	si	lankadeepalk	1765971431.0
+lk_news	2025-12-17-lankadeepalk-b5fae4a1	lankadeepalk-b5fae4a1	2025-12-17	කොත්මලේ අවතැන් වූ පිරිසක් පහසුකම් ඉල්ලා උද්ගෝෂණයක	https://www.lankadeepa.lk/news/කතමල-අවතන-ව-පරසක-පහසකම-ඉලල-උදගෂණයක/101-685441	si	lankadeepalk	1765970702.0
+lk_news	2025-12-17-lankadeepalk-a4a91c4c	lankadeepalk-a4a91c4c	2025-12-17	ලංකාව ගොඩනගන්න චීනයෙන් තල්ලුවක්	https://www.lankadeepa.lk/news/ලකව-ගඩනගනන-චනයන-තලලවක/101-685440	si	lankadeepalk	1765970669.0
+lk_news	2025-12-17-tamilmirrorlk-8264579b	tamilmirrorlk-8264579b	2025-12-17	மண்டைதீவு புதைகுழி விவகாரம்:  பங்குனிக்கு திகதியிடப்பட்டது	https://www.tamilmirror.lk/செய்திகள்/மண்டைதீவு-புதைகுழி-விவகாரம்-பங்குனிக்கு-திகதியிடப்பட்டது/175-369693	ta	tamilmirrorlk	1765970301.0
 lk_news	2025-12-17-lankadeepalk-004e48ab	lankadeepalk-004e48ab	2025-12-17	වෛද්‍යවරයාට ගැහුවයි බදුල්ල රෝහලේ වැඩ නවතියි	https://www.lankadeepa.lk/latest_news/වදයවරයට-ගහවය-බදලල-රහල-වඩ-නවතය/1-685438	si	lankadeepalk	1765969682.0
 lk_news	2025-12-17-virakesarilk-c02424a7	virakesarilk-c02424a7	2025-12-17	முதலையை கொன்று இறைச்சியாக்க முயன்ற இருவர் கைது!	https://www.virakesari.lk/article/233658	ta	virakesarilk	1765969320.0
 lk_news	2025-12-17-lankadeepalk-c145da0e	lankadeepalk-c145da0e	2025-12-17	දින තුනකට පසු වෙරුගල් ප්‍රා.ලේ විවෘතයි	https://www.lankadeepa.lk/latest_news/දන-තනකට-පස-වරගල-පර-ල-වවතය/1-685436	si	lankadeepalk	1765968920.0
@@ -24,6 +28,7 @@ lk_news	2025-12-17-lankadeepalk-b7fe98dc	lankadeepalk-b7fe98dc	2025-12-17	සි
 lk_news	2025-12-17-virakesarilk-6c17c8e8	virakesarilk-6c17c8e8	2025-12-17	வைத்தியர் மீது தாக்குதல் நடத்திய முச்சக்கரவண்டி சாரதி ; பதுளை வைத்தியசாலையில் குழப்பநிலை!	https://www.virakesari.lk/article/233640	ta	virakesarilk	1765963980.0
 lk_news	2025-12-17-virakesarilk-2bb43e0f	virakesarilk-2bb43e0f	2025-12-17	வடமேற்கு கட்டளை கடற்படை வைத்தியசாலையில் இரத்த தான நிகழ்வு!	https://www.virakesari.lk/article/233631	ta	virakesarilk	1765963980.0
 lk_news	2025-12-17-virakesarilk-8bf9c46e	virakesarilk-8bf9c46e	2025-12-17	மண்டைதீவில் நள்ளிரவு வீடு புகுந்து வன்முறை கும்பல் அட்டகாசம் - உதவிக்கு சென்ற முதியவர்கள் மீது சித்திரவதை	https://www.virakesari.lk/article/233639	ta	virakesarilk	1765963680.0
+lk_news	2025-12-17-adalk-242ac64a	adalk-242ac64a	2025-12-17	බත්මැඩිල්ල ප්‍රධාන ඇල මාර්ගයේ පැති බැම්ම ඉඳි කෙරේ	https://www.ada.lk/picture_story/බත්මැඩිල්ල-ප්‍රධාන-ඇල-මාර්ගයේ-පැති-බැම්ම-ඉඳි-කෙරේ/10-420299	si	adalk	1765963588.0
 lk_news	2025-12-17-virakesarilk-e4be3b3a	virakesarilk-e4be3b3a	2025-12-17	காட்டு யானை மீது மோதி இரு வாகனங்கள் விபத்து ; இளைஞன் பலி!	https://www.virakesari.lk/article/233638	ta	virakesarilk	1765963380.0
 lk_news	2025-12-17-adalk-e6193e64	adalk-e6193e64	2025-12-17	අධිකරණයේ තිබූ යතුරුපැදියක් සොරකම් කළ තිදෙනෙක් අල්ලයි	https://www.ada.lk/breaking_news/අධිකරණයේ-තිබූ-යතුරුපැදියක්-සොරකම්-කළ-තිදෙනෙක්-අල්ලයි/11-420298	si	adalk	1765963142.0
 lk_news	2025-12-17-virakesarilk-72a9b3a7	virakesarilk-72a9b3a7	2025-12-17	கைதிகள் தப்பிச் செல்வதை தடுக்க துப்பாக்கிச் சூடு	https://www.virakesari.lk/article/233636	ta	virakesarilk	1765962900.0
@@ -9994,8 +9999,3 @@ lk_news	2025-10-30-adalk-6617cb2d	adalk-6617cb2d	2025-10-30	මේ වසරේ 
 lk_news	2025-10-30-virakesarilk-e017d2a3	virakesarilk-e017d2a3	2025-10-30	பின்னவல பகுதியில் மண்மேடு சரிந்து விழுந்ததில் ஒருவர் உயிரிழப்பு	https://www.virakesari.lk/article/229013	ta	virakesarilk	1761791280.0
 lk_news	2025-10-30-virakesarilk-4377415e	virakesarilk-4377415e	2025-10-30	தனமல்வில பகுதியில் கஞ்சா செய்கை சுற்றிவளைப்பு: மூவர் கைது!	https://www.virakesari.lk/article/229012	ta	virakesarilk	1761790920.0
 lk_news	2025-10-30-lankadeepalk-98c16b2f	lankadeepalk-98c16b2f	2025-10-30	අනියම් සැමියාට බලෙන් වස පොවලා	https://www.lankadeepa.lk/news/අනයම-සමයට-බලන-වස-පවල/101-682340	si	lankadeepalk	1761790659.0
-lk_news	2025-10-30-lankadeepalk-4b68037e	lankadeepalk-4b68037e	2025-10-30	අනියම් ඇසුරක් විස බලෙන් වස පොවලා	https://www.lankadeepa.lk/news/අනයම-ඇසරක-වස-බලන-වස-පවල/101-682340	si	lankadeepalk	1761790659.0
-lk_news	2025-10-30-tamilmirrorlk-98e23a41	tamilmirrorlk-98e23a41	2025-10-30	கசிப்புடன் பெண்ணொருவர் கைது	https://www.tamilmirror.lk/செய்திகள்/கசிப்புடன்-பெண்ணொருவர்-கைது/175-367079	ta	tamilmirrorlk	1761790086.0
-lk_news	2025-10-30-adalk-f66c7cef	adalk-f66c7cef	2025-10-30	නාඳුනන මෘත ශරිර තුනක් හමුවෙයි	https://www.ada.lk/breaking_news/නාඳුනන-මෘත-ශරිර-තුනක්-හමුවෙයි/11-419397	si	adalk	1761789897.0
-lk_news	2025-10-30-adalk-3cd31181	adalk-3cd31181	2025-10-30	පතලක පස් කන්දක් කඩා වැටී පුද්ගලයෙක් මරුට	https://www.ada.lk/breaking_news/පතලක-පස්-කන්දක්-කඩා-වැටී-පුද්ගලයෙක්-මරුට/11-419396	si	adalk	1761789720.0
-lk_news	2025-10-30-lankadeepalk-b4a34c9d	lankadeepalk-b4a34c9d	2025-10-30	අද වහින තැන් මෙන්න	https://www.lankadeepa.lk/news/අද-වහන-තන-මනන/101-682339	si	lankadeepalk	1761787693.0
