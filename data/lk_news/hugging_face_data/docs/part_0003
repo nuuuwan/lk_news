@@ -300221,6 +300221,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-17-colombotelegraphcom-f4e6cc15",
+    "num": "colombotelegraphcom-f4e6cc15",
+    "date_str": "2025-12-17",
+    "description": "Economic Fallout In April: Response To UNP Deputy General Secretary Harin Fernando",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/economic-fallout-in-april-response-to-unp-deputy-general-secretary-harin-fernando/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1765976248.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-17-lankadeepalk-16fe34b0",
     "num": "lankadeepalk-16fe34b0",
     "date_str": "2025-12-17",
