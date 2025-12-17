@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--17_09:11:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--17_09:55:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,664** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,669** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-17-virakesarilk-52da9c40",
-    "num": "virakesarilk-52da9c40",
+    "doc_id": "2025-12-17-tamilmirrorlk-e95355d0",
+    "num": "tamilmirrorlk-e95355d0",
     "date_str": "2025-12-17",
-    "description": "\u0b87\u0bb0\u0bbe\u0b9c\u0ba4\u0bc1\u0bb0\u0bc8 \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba3\u0bc8\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0b9a\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b9c\u0bc7.\u0b86\u0bb0\u0bcd. \u0b9c\u0bc6\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0ba9",
-    "url_metadata": "https://www.virakesari.lk/article/233594",
+    "description": "\u0baa\u0bb2 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 15 \u0bae\u0ba3\u0bbf \u0ba8\u0bc7\u0bb0 \u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb2-\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-15-\u0bae\u0ba3\u0bbf-\u0ba8\u0bc7\u0bb0-\u0ba8\u0bc0\u0bb0\u0bcd-\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1/175-369655",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1765942380.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1765945053.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-17 | `tamilmirrorlk-e95355d0` | பல பகுதிகளில் 15 மணி நேர நீர் வெட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-tamilmirrorlk-e95355d0)
+- 2025-12-17 | `tamilmirrorlk-31724d2c` | அனர்த்தங்களால் பெற்றோரை இழந்த 73 சிறுவர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-tamilmirrorlk-31724d2c)
+- 2025-12-17 | `tamilmirrorlk-36694c53` | இந்த வேகத்துல சுத்துனா போதுமா.... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-tamilmirrorlk-36694c53)
+- 2025-12-17 | `tamilmirrorlk-2ee8b75b` | குச்சவெளி தலைவரின் அலுவலகத்துக்கு சீல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-tamilmirrorlk-2ee8b75b)
 - 2025-12-17 | `virakesarilk-52da9c40` | இராஜதுரை ஐக்கிய தேசிய கட்சி அரசாங்கத்தில் இணைவதற்கு வசதியாக அரசியலமைப்பை திருத்திய ஜே.ஆர். ஜெயவர்தன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-52da9c40)
 - 2025-12-17 | `virakesarilk-096c6d44` | கூமடுகண்டலில் தமிழர்களின் நெற்செய்கையை ஊடறுத்து அடாவடியாக யானைவேலி அமைக்கும் மகாவலி ; நிலமைகள் தொடர்பில் நேரில் சென்று ஆராய்ந்தார் ரவிகரன் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-096c6d44)
 - 2025-12-17 | `lankadeepalk-e694c21c` | පද්මේගේ ගිනි අවියක් එඬෙරමුල්ලෙන් හමුවේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-lankadeepalk-e694c21c)
@@ -51,16 +55,12 @@ A collection of lk_news documents.
 - 2025-12-17 | `dailyftlk-c4e12ba6` | MSF supports Sri Lanka flood relief with delivery of winterised tents to Disaster Management Centre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-c4e12ba6)
 - 2025-12-17 | `lankadeepalk-1338bb8b` | ආපදා ආධාර රැගත් ගුවන් යානයක් ජර්මනියෙන් පැමිණෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-lankadeepalk-1338bb8b)
 - 2025-12-17 | `dailyftlk-31b9bb18` | Health, Public Administration Ministers with Ambassador Isomata visit JDR Medical Team Chilaw site | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-31b9bb18)
+- 2025-12-17 | `adalk-269bb01d` | අද මිලි මිටර් 100ක් වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-adalk-269bb01d)
 - 2025-12-17 | `lankadeepalk-67827c71` | කාර්මික දෝෂයට ලක්වූ තුර්කකි යානය කටුනායකට ගොඩ බස්සයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-lankadeepalk-67827c71)
 - 2025-12-17 | `adalk-fe9930b2` | පද්මේගේ පිස්තෝල අවියක්, උණ්ඩ 267ක්, උණ්ඩ ගැබ් 2ක් සොයාගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-adalk-fe9930b2)
 - 2025-12-17 | `dailyftlk-a8e958e7` | Akbar Brothers wins top honours at Presidential Export Awards 2024/25 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-a8e958e7)
 - 2025-12-17 | `dailyftlk-306e8443` | Flexiprint honoured at Presidential Export Awards 2024/25  for fourth consecutive year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-306e8443)
 - 2025-12-17 | `dailyftlk-62c0f546` | LAUGFS Rubber clinches Silver at NCPC Awards 2025 for cleaner production excellence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-62c0f546)
-- 2025-12-17 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-3a015e4a)
-- 2025-12-17 | `dailyftlk-77b479ce` | CFA Society Sri Lanka names PickMe as subject company for 2025/26 Research Challenge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-77b479ce)
-- 2025-12-17 | `dailyftlk-5c605e64` | Ditwah disaster and the tax system: Relief for victims, recognition for donors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-5c605e64)
-- 2025-12-17 | `dailyftlk-955b337d` | Lakshman Balasuriya - simply a top-class human being | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-955b337d)
-- 2025-12-17 | `dailyftlk-6393e70d` | JVP’s Il Viru Samaruva | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-dailyftlk-6393e70d)
 
 ---
 
