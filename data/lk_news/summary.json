@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-17 06:03:02",
-  "n_docs": 93641,
+  "time_updated": "2025-12-17 06:31:02",
+  "n_docs": 93648,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 93641,
+  "n_docs_with_text": 93648,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-17",
-  "dataset_size": 1407746268,
+  "dataset_size": 1407994633,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-17-dailyftlk-6393e70d",
-    "num": "dailyftlk-6393e70d",
+    "doc_id": "2025-12-17-dailyftlk-a8e958e7",
+    "num": "dailyftlk-a8e958e7",
     "date_str": "2025-12-17",
-    "description": "JVP\u2019s Il Viru Samaruva",
-    "url_metadata": "https://www.ft.lk/opinion/JVP-s-Il-Viru-Samaruva/14-785750",
+    "description": "Akbar Brothers wins top honours at Presidential Export Awards 2024/25",
+    "url_metadata": "https://www.ft.lk/business/Akbar-Brothers-wins-top-honours-at-Presidential-Export-Awards-2024-25/34-785756",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1765931429.0
+    "time_ut": 1765932598.0
   }
 }

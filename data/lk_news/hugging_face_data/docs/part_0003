@@ -298285,6 +298285,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-17-tamilmirrorlk-ce9dcd60",
+    "num": "tamilmirrorlk-ce9dcd60",
+    "date_str": "2025-12-17",
+    "description": "\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb5\u0bb0\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb5\u0bb0\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd/50-369650",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1765919799.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-17-dailyftlk-db4c5d5a",
     "num": "dailyftlk-db4c5d5a",
     "date_str": "2025-12-17",
@@ -298359,5 +298370,71 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1765931429.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dailyftlk-955b337d",
+    "num": "dailyftlk-955b337d",
+    "date_str": "2025-12-17",
+    "description": "Lakshman Balasuriya - simply a top-class human being",
+    "url_metadata": "https://www.ft.lk/columns/Lakshman-Balasuriya-simply-a-top-class-human-being/4-785751",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765931591.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dailyftlk-5c605e64",
+    "num": "dailyftlk-5c605e64",
+    "date_str": "2025-12-17",
+    "description": "Ditwah disaster and the tax system: Relief for victims, recognition for donors",
+    "url_metadata": "https://www.ft.lk/columns/Ditwah-disaster-and-the-tax-system-Relief-for-victims-recognition-for-donors/4-785752",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765932041.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dailyftlk-77b479ce",
+    "num": "dailyftlk-77b479ce",
+    "date_str": "2025-12-17",
+    "description": "CFA Society Sri Lanka names PickMe as subject company for 2025/26 Research Challenge",
+    "url_metadata": "https://www.ft.lk/business/CFA-Society-Sri-Lanka-names-PickMe-as-subject-company-for-2025-26-Research-Challenge/34-785753",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765932147.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dailyftlk-62c0f546",
+    "num": "dailyftlk-62c0f546",
+    "date_str": "2025-12-17",
+    "description": "LAUGFS Rubber clinches Silver at NCPC Awards 2025 for cleaner production excellence",
+    "url_metadata": "https://www.ft.lk/business/LAUGFS-Rubber-clinches-Silver-at-NCPC-Awards-2025-for-cleaner-production-excellence/34-785754",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765932210.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dailyftlk-306e8443",
+    "num": "dailyftlk-306e8443",
+    "date_str": "2025-12-17",
+    "description": "Flexiprint honoured at Presidential Export Awards 2024/25  for fourth consecutive year",
+    "url_metadata": "https://www.ft.lk/business/Flexiprint-honoured-at-Presidential-Export-Awards-2024-25-for-fourth-consecutive-year/34-785755",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765932376.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dailyftlk-a8e958e7",
+    "num": "dailyftlk-a8e958e7",
+    "date_str": "2025-12-17",
+    "description": "Akbar Brothers wins top honours at Presidential Export Awards 2024/25",
+    "url_metadata": "https://www.ft.lk/business/Akbar-Brothers-wins-top-honours-at-Presidential-Export-Awards-2024-25/34-785756",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1765932598.0
   }
 ]
