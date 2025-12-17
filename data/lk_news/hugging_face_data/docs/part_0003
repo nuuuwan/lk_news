@@ -300471,5 +300471,16 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766012314.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-dailyftlk-9b8d0119",
+    "num": "dailyftlk-9b8d0119",
+    "date_str": "2025-12-18",
+    "description": "LSSP at 90: The Sama Samaja role in constitutional issues",
+    "url_metadata": "https://www.ft.lk/columns/LSSP-at-90-The-Sama-Samaja-role-in-constitutional-issues/4-785794",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766013792.0
   }
 ]
