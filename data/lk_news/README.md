@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_00:48:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_01:18:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,827** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,828** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -56,11 +56,11 @@ A collection of lk_news documents.
 - 2025-12-17 | `virakesarilk-451c2a85` | முஸ்லிம் சமய பண்பாட்டு அலுவல்கள் திணைக்களத்தில் டிஜிட்டல் புரட்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-451c2a85)
 - 2025-12-17 | `tamilmirrorlk-24c3de07` | அக்கரபத்தனை பட்ஜெட் தோற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-tamilmirrorlk-24c3de07)
 - 2025-12-17 | `lankadeepalk-16fe34b0` | අම්පිටියේ සුමන හිමිට  ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-lankadeepalk-16fe34b0)
+- 2025-12-17 | `colombotelegraphcom-f98d8f3b` | Glorification Of One’s Own Social Group & Collective Narcissism: A Response | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-colombotelegraphcom-f98d8f3b)
 - 2025-12-17 | `colombotelegraphcom-f4e6cc15` | Economic Fallout In April: Response To UNP Deputy General Secretary Harin Fernando | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-colombotelegraphcom-f4e6cc15)
 - 2025-12-17 | `virakesarilk-e17bd1fe` | பிராந்திய மற்றும் சர்வதேச விவகாரங்களில் இலங்கையுடன் நெருக்கமாகச் செயற்படச் சீனா தயார் - பிரதமர் ஹரிணியிடம்  சீன மக்கள் குடியரசின் தேசிய மக்கள் காங்கிரஸ் நிரந்தரக் குழுவின் உப தலைவர் உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-e17bd1fe)
 - 2025-12-17 | `virakesarilk-9de3a193` | வடக்கு மாகாண சுற்றுலாத்துறை சார் முச்சக்கர வண்டி, கார் சாரதிகளுக்கான இரு நாள் விழிப்புணர்வுக் கருத்தரங்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-9de3a193)
 - 2025-12-17 | `virakesarilk-41880a61` | இந்தியாவுடனான இரகசிய ஒப்பந்தத்தின் விளைவாகவே  தரமற்ற மருந்துகள் இறக்குமதி செய்யப்படுகின்றன - பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-41880a61)
-- 2025-12-17 | `virakesarilk-e6c2fc38` | அஸ்வெசும கொடுப்பனவு தொடர்பில் வெளியான தகவல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-e6c2fc38)
 
 ---
 
