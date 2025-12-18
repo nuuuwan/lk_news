@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_22:51:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_23:22:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,030** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,032** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-18-lankadeepalk-9a527956",
-    "num": "lankadeepalk-9a527956",
+    "doc_id": "2025-12-18-lankadeepalk-91c08054",
+    "num": "lankadeepalk-91c08054",
     "date_str": "2025-12-18",
-    "description": "\u0dbb\u0da7 \u0db1\u0d9c\u0db1 \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd\u0da7 \u0dad\u0dc0\u0dad\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca 16,000\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dbb\u0da7-\u0db1\u0d9c\u0db1-\u0d85\u0dbb\u0db8\u0daf\u0dbd\u0da7-\u0dad\u0dc0\u0dad-\u0da9\u0dbd\u0dbb-16-000\u0d9a/1-685499",
+    "description": "\u0dc6\u0dda\u0dc3\u0dca \u0db6\u0dd4\u0d9a\u0dca \u0db8\u0dad\u0dca\u0dc3\u0dcf\u0daf\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0dad\u0dbb\u0dd4\u0dab\u0dd2\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dd4 13\u0d9a\u0dca \u0db8\u0dcf\u0da7\u0dca\u0da7\u0dd4",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc6\u0dc3-\u0db6\u0d9a-\u0db8\u0dad\u0dc3\u0daf\u0dba\u0d9a\u0db1-\u0dad\u0dbb\u0dab\u0dba\u0d9a-\u0d87\u0dad\u0dc5-13\u0d9a-\u0db8\u0da7\u0da7/1-685501",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1766077945.0
+    "time_ut": 1766078828.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-18 | `lankadeepalk-91c08054` | ෆේස් බුක් මත්සාදයකින් තරුණියක් ඇතුළු 13ක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-91c08054)
+- 2025-12-18 | `lankadeepalk-7c382ab6` | රන්වල සිද්ධියෙන් මැති සබය කැළඹේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-7c382ab6)
 - 2025-12-18 | `lankadeepalk-9a527956` | රට නගන අරමුදලට තවත් ඩොලර් 16,000ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-9a527956)
 - 2025-12-18 | `lankadeepalk-79a531fb` | මහවැලි නිම්නයට ගංවතුර අවදානමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-79a531fb)
 - 2025-12-18 | `lankadeepalk-2014a121` | මොරගහකන්ද ජලය මුදා හැරීම ගැන නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-2014a121)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-18 | `lankadeepalk-86253cf9` | සමගියේ අසමගියෙන් කඩුගන්නාව ඇයවැය පරදි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-86253cf9)
 - 2025-12-18 | `lankadeepalk-5b4caa2b` | මහනුවරට යළි මහ වැසි:නාය යාමේ අවදානමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-5b4caa2b)
 - 2025-12-18 | `lankadeepalk-e4340ecd` | තද වැසි නිසා මධ්‍යම සියලු පාසල් 19 සිට 28 තෙක් වසා තැබෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-e4340ecd)
-- 2025-12-18 | `lankadeepalk-91c71d22` | තද වැසි නිසා මධ්‍යම සියලු පාසල් 19 සහ 22 වසා තැබෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-91c71d22)
-- 2025-12-18 | `lankadeepalk-3011dbab` | තද වැසි නිසා මධ්‍යම සියලු පාසල් 19 සහ 28 තෙක් වසා තැබෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-3011dbab)
 
 ---
 
