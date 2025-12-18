@@ -300320,6 +300320,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-17-dbsjeyarajcom-17d6858b",
+    "num": "dbsjeyarajcom-17d6858b",
+    "date_str": "2025-12-17",
+    "description": "\u201cThe Sri Lanka Peace Process: An Inside View\u201d :New Book Written  by Prof.G.L.Peiris  provides a scholarly, candid and first-hand account of the peace process Between the Sri Lanka Govt and the LTTE through the lens of the man who led the  Sri Lanka Govt Delegation in face-to-face talks with the Tigers",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=86784",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1765975680.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-17-colombotelegraphcom-f4e6cc15",
     "num": "colombotelegraphcom-f4e6cc15",
     "date_str": "2025-12-17",
@@ -300526,6 +300537,17 @@
     "lang": "en",
     "newspaper_id": "dbsjeyarajcom",
     "time_ut": 1765992780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-dbsjeyarajcom-9822064a",
+    "num": "dbsjeyarajcom-9822064a",
+    "date_str": "2025-12-18",
+    "description": "The Canadian Tamil Congress (CTC) extends it\u2019s  sincere gratitude to the Government of Canada and to the people of Canada for their timely and compassionate humanitarian assistance in response to the devastation caused by Cyclone Ditwah in Sri Lanka.",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=86787",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1765996800.0
   },
   {
     "doc_type": "lk_news",
@@ -300823,6 +300845,17 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1766023849.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-adalk-c534ae7a",
+    "num": "adalk-c534ae7a",
+    "date_str": "2025-12-18",
+    "description": "\u0db4\u0dd2\u0dba\u0dcf \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dc5\u00a0 \u0db4\u0dd4\u0dad\u0dcf \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dd2\u0dba\u0dcf-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dc5\u00a0-\u0db4\u0dd4\u0dad\u0dcf-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-420307",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1766024068.0
   },
   {
     "doc_type": "lk_news",
