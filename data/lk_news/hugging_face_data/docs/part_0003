@@ -293423,6 +293423,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-14-islandlk-7f680ca7",
+    "num": "islandlk-7f680ca7",
+    "date_str": "2025-12-14",
+    "description": "\u201cSmell of Power\u201d",
+    "url_metadata": "http://island.lk/smell-of-power/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765735140.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-14-islandlk-c05536d2",
     "num": "islandlk-c05536d2",
     "date_str": "2025-12-14",
@@ -295887,6 +295898,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-e7b2f30d",
+    "num": "islandlk-e7b2f30d",
+    "date_str": "2025-12-16",
+    "description": "Rebuilding Sri Lanka for the long term",
+    "url_metadata": "http://island.lk/rebuilding-sri-lanka-for-the-long-term/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765825260.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-16-dailyftlk-a9d37f32",
     "num": "dailyftlk-a9d37f32",
     "date_str": "2025-12-16",
@@ -298120,6 +298142,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-20a453fd",
+    "num": "islandlk-20a453fd",
+    "date_str": "2025-12-16",
+    "description": "Tax revenue rebound seen as reshaping SL\u2019s sovereign risk outlook",
+    "url_metadata": "http://island.lk/tax-revenue-rebound-seen-as-reshaping-sls-sovereign-risk-outlook/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765907040.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-16-islandlk-c39eb757",
     "num": "islandlk-c39eb757",
     "date_str": "2025-12-16",
@@ -298139,6 +298172,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1765907100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-0d2ae76e",
+    "num": "islandlk-0d2ae76e",
+    "date_str": "2025-12-16",
+    "description": "WTS IPO opens tomorrow",
+    "url_metadata": "http://island.lk/wts-ipo-opens-tomorrow/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765907220.0
   },
   {
     "doc_type": "lk_news",
@@ -298183,6 +298227,28 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1765907460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-97c45d18",
+    "num": "islandlk-97c45d18",
+    "date_str": "2025-12-16",
+    "description": "When water becomes the weapon",
+    "url_metadata": "http://island.lk/when-water-becomes-the-weapon/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765907820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-5ea19f2d",
+    "num": "islandlk-5ea19f2d",
+    "date_str": "2025-12-16",
+    "description": "Revival of Innovative systems for reservoir operation and flood forecasting",
+    "url_metadata": "http://island.lk/revival-of-innovative-systems-for-reservoir-operation-and-flood-forecasting/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765908120.0
   },
   {
     "doc_type": "lk_news",
@@ -300430,6 +300496,83 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-c64f0d6f",
+    "num": "islandlk-c64f0d6f",
+    "date_str": "2025-12-18",
+    "description": "Lack of post- Ditwah policy direction snags stock market vibrancy",
+    "url_metadata": "http://island.lk/lack-of-post-ditwah-policy-direction-snags-stock-market-vibrancy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765997460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-2300426b",
+    "num": "islandlk-2300426b",
+    "date_str": "2025-12-18",
+    "description": "Digital Marketing Association of Sri Lanka reviews performance and unveils Strategic Roadmap for 2026",
+    "url_metadata": "http://island.lk/digital-marketing-association-of-sri-lanka-reviews-performance-and-unveils-strategic-roadmap-for-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765997520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-de9366fc",
+    "num": "islandlk-de9366fc",
+    "date_str": "2025-12-18",
+    "description": "Sampath Bank powers PickMe with cutting-edge payment tech",
+    "url_metadata": "http://island.lk/sampath-bank-powers-pickme-with-cutting-edge-payment-tech/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765997520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-1cd30164",
+    "num": "islandlk-1cd30164",
+    "date_str": "2025-12-18",
+    "description": "Seaspan and Ceyline Shipping celebrate 20 years of partnership excellence",
+    "url_metadata": "http://island.lk/seaspan-and-ceyline-shipping-celebrate-20-years-of-partnership-excellence/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765997580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-a02e03af",
+    "num": "islandlk-a02e03af",
+    "date_str": "2025-12-18",
+    "description": "Omega Line crowned overall Best Exporter of the Year at Presidential Export Awards 2024/25",
+    "url_metadata": "http://island.lk/omega-line-crowned-overall-best-exporter-of-the-year-at-presidential-export-awards-2024-25/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765997700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-b7c816c7",
+    "num": "islandlk-b7c816c7",
+    "date_str": "2025-12-18",
+    "description": "Noshin De Silva Adventurous, happy, calm, and forward",
+    "url_metadata": "http://island.lk/noshin-de-silva-adventurous-happy-calm-and-forward/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765998660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-45f2e5fd",
+    "num": "islandlk-45f2e5fd",
+    "date_str": "2025-12-18",
+    "description": "Beauty benefits \u2026 with eggs",
+    "url_metadata": "http://island.lk/beauty-benefits-with-eggs/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765999320.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-18-dailyftlk-c43e9383",
     "num": "dailyftlk-c43e9383",
     "date_str": "2025-12-18",
@@ -300482,5 +300625,49 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766013792.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-dailyftlk-b0cc9807",
+    "num": "dailyftlk-b0cc9807",
+    "date_str": "2025-12-18",
+    "description": "Unbalanced: Anura\u2019s American partnership, Opposition\u2019s foreign policy, Harsha\u2019s \u2018Hanuman-ism\u2019",
+    "url_metadata": "https://www.ft.lk/columns/Unbalanced-Anura-s-American-partnership-Opposition-s-foreign-policy-Harsha-s-Hanuman-ism/4-785795",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766015334.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-dailyftlk-ea3d5b57",
+    "num": "dailyftlk-ea3d5b57",
+    "date_str": "2025-12-18",
+    "description": "Sriyani Dress Point donates Rs. 20 m and deploys aid for Cyclone Ditwah victims",
+    "url_metadata": "https://www.ft.lk/business/Sriyani-Dress-Point-donates-Rs-20-m-and-deploys-aid-for-Cyclone-Ditwah-victims/34-785796",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766016810.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-dailyftlk-a1040715",
+    "num": "dailyftlk-a1040715",
+    "date_str": "2025-12-18",
+    "description": "Senura Civil Engineering, Rank Container Terminals give Rs. 50 m to \u2018Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/business/Senura-Civil-Engineering-Rank-Container-Terminals-give-Rs-50-m-to-Rebuilding-Sri-Lanka-Fund/34-785797",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766016880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-dailyftlk-57ce8658",
+    "num": "dailyftlk-57ce8658",
+    "date_str": "2025-12-18",
+    "description": "Indra Traders gives Rs. 100 m to \u2018Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/business/Indra-Traders-gives-Rs-100-m-to-Rebuilding-Sri-Lanka-Fund/34-785798",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766016947.0
   }
 ]
