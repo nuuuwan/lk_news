@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_21:22:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_21:49:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,009** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,011** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-18-lankadeepalk-3363a75d",
-    "num": "lankadeepalk-3363a75d",
+    "doc_id": "2025-12-18-adalk-284c2c18",
+    "num": "adalk-284c2c18",
     "date_str": "2025-12-18",
-    "description": "\u0db8\u0dd0\u0dad\u0dd2\u0dc3\u0db6\u0dda \u0d87\u0dad\u0dca\u0dad\u0db1\u0dca\u0da7 \u0daf\u0dd2\u0d9c\u0dd4 \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4\u0dc0\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db8\u0dad\u0dc3\u0db6-\u0d87\u0dad\u0dad\u0db1\u0da7-\u0daf\u0d9c-\u0db1\u0dc0\u0da9\u0dc0\u0d9a/1-685494",
+    "description": "\u0d85\u0dba\u0dc4\u0db4\u0dad\u0dca \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba \u0db1\u0dd2\u0dc3\u0dcf  \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0db4\u0dc5\u0dcf\u0dad\u0dda \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0db4\u0dcf\u0dc3\u0dd0\u0dbd\u0dca\u0dc0\u0dbd\u0da7 19 \u0dc3\u0dc4 22 \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dba\u0dc4\u0db4\u0dad\u0dca-\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba-\u0db1\u0dd2\u0dc3\u0dcf--\u0db8\u0db0\u0dca\u200d\u0dba\u0db8-\u0db4\u0dc5\u0dcf\u0dad\u0dda-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4-\u0db4\u0dcf\u0dc3\u0dd0\u0dbd\u0dca\u0dc0\u0dbd\u0da7-19-\u0dc3\u0dc4-22-\u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4/11-420334",
     "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1766071478.0
+    "newspaper_id": "adalk",
+    "time_ut": 1766073249.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-18 | `adalk-284c2c18` | අයහපත් කාලගුණය නිසා  මධ්‍යම පළාතේ සියලු පාසැල්වලට 19 සහ 22 නිවාඩු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-adalk-284c2c18)
 - 2025-12-18 | `lankadeepalk-3363a75d` | මැතිසබේ ඇත්තන්ට දිගු නිවාඩුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-3363a75d)
 - 2025-12-18 | `lankadeepalk-3af8f4fb` | මොරගහකන්දත් පිටාර මට්ටමට ආසන්න වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-3af8f4fb)
 - 2025-12-18 | `lankadeepalk-86253cf9` | සමගියේ අසමගියෙන් කඩුගන්නාව ඇයවැය පරදි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-86253cf9)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-18 | `virakesarilk-4daed163` | நடிகர் பிரபாஸ் நடிக்கும் 'தி ராஜா சாப் ' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-4daed163)
 - 2025-12-18 | `virakesarilk-650fd987` | நடிகர் ஷான் நடிக்கும் 'ரேஜ்' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-650fd987)
 - 2025-12-18 | `virakesarilk-d827f4f2` | இயக்குநர் கே. பாக்யராஜ் தலைமையில் அமைக்கப்பட்ட ஃப்ரேம் & ஃபேம் திரைப்பட விருதிற்கான நடுவர் குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-d827f4f2)
-- 2025-12-18 | `virakesarilk-f830eee1` | படோவிட்ட அசங்கவின் ஆதரவாளர் சுட்டுப் படுகொலை : பிரதான துப்பாக்கிதாரி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-f830eee1)
 
 ---
 
