@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-18 06:30:35",
-  "n_docs": 93857,
+  "time_updated": "2025-12-18 07:14:50",
+  "n_docs": 93861,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 93857,
+  "n_docs_with_text": 93861,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-18",
-  "dataset_size": 1411877643,
+  "dataset_size": 1411941276,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-18-dailyftlk-3718bbab",
-    "num": "dailyftlk-3718bbab",
+    "doc_id": "2025-12-18-tamilmirrorlk-64f7edbd",
+    "num": "tamilmirrorlk-64f7edbd",
     "date_str": "2025-12-18",
-    "description": "David Pieris Group expands global footprint with investment in Dubai-based Navire Logistics",
-    "url_metadata": "https://www.ft.lk/business/David-Pieris-Group-expands-global-footprint-with-investment-in-Dubai-based-Navire-Logistics/34-785816",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1766019505.0
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0b9c\u0bc0\u0bb5\u0ba9\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9c\u0bc0\u0bb5\u0ba9\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-369714",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1766020574.0
   }
 }
