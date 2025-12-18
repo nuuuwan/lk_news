@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_06:02:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_06:31:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**93,851** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**93,857** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-18-dailyftlk-57ce8658",
-    "num": "dailyftlk-57ce8658",
+    "doc_id": "2025-12-18-dailyftlk-3718bbab",
+    "num": "dailyftlk-3718bbab",
     "date_str": "2025-12-18",
-    "description": "Indra Traders gives Rs. 100 m to \u2018Rebuilding Sri Lanka\u2019 Fund",
-    "url_metadata": "https://www.ft.lk/business/Indra-Traders-gives-Rs-100-m-to-Rebuilding-Sri-Lanka-Fund/34-785798",
+    "description": "David Pieris Group expands global footprint with investment in Dubai-based Navire Logistics",
+    "url_metadata": "https://www.ft.lk/business/David-Pieris-Group-expands-global-footprint-with-investment-in-Dubai-based-Navire-Logistics/34-785816",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1766016947.0
+    "time_ut": 1766019505.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-18 | `dailyftlk-3718bbab` | David Pieris Group expands global footprint with investment in Dubai-based Navire Logistics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-dailyftlk-3718bbab)
+- 2025-12-18 | `dailyftlk-918c48b6` | Regen Renewables completes 450 kW solar power project across 47 sites for Colombo District Secretariat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-dailyftlk-918c48b6)
+- 2025-12-18 | `dailyftlk-c736f36c` | GCF Round 2 of Research Grants today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-dailyftlk-c736f36c)
+- 2025-12-18 | `dailyftlk-4cb85b2a` | Sri Lanka Ambassador launches Ceylon Biscuits Company products in Saudi Arabia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-dailyftlk-4cb85b2a)
+- 2025-12-18 | `dailyftlk-87afc9c9` | Japan extends $ 2.5 m Emergency Grant in response to cyclone disaster | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-dailyftlk-87afc9c9)
+- 2025-12-18 | `dailyftlk-56320cf5` | Govt. repatriates 25 Lankans rescued from cybercrime centres in Myanmar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-dailyftlk-56320cf5)
 - 2025-12-18 | `dailyftlk-57ce8658` | Indra Traders gives Rs. 100 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-dailyftlk-57ce8658)
 - 2025-12-18 | `dailyftlk-a1040715` | Senura Civil Engineering, Rank Container Terminals give Rs. 50 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-dailyftlk-a1040715)
 - 2025-12-18 | `dailyftlk-ea3d5b57` | Sriyani Dress Point donates Rs. 20 m and deploys aid for Cyclone Ditwah victims | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-dailyftlk-ea3d5b57)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2025-12-18 | `islandlk-a02e03af` | Omega Line crowned overall Best Exporter of the Year at Presidential Export Awards 2024/25 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-islandlk-a02e03af)
 - 2025-12-18 | `islandlk-1cd30164` | Seaspan and Ceyline Shipping celebrate 20 years of partnership excellence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-islandlk-1cd30164)
 - 2025-12-18 | `islandlk-de9366fc` | Sampath Bank powers PickMe with cutting-edge payment tech | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-islandlk-de9366fc)
-- 2025-12-18 | `islandlk-2300426b` | Digital Marketing Association of Sri Lanka reviews performance and unveils Strategic Roadmap for 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-islandlk-2300426b)
-- 2025-12-18 | `islandlk-c64f0d6f` | Lack of post- Ditwah policy direction snags stock market vibrancy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-islandlk-c64f0d6f)
-- 2025-12-17 | `virakesarilk-75345c8d` | தேயிலை ஏற்றுமதித்துறையை மீளக் கட்டியெழுப்ப வலுவான திட்டம் அவசியம்  - கலாநிதி ஹர்ஷ டி சில்வா வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-75345c8d)
-- 2025-12-17 | `virakesarilk-5e1c9b93` | டித்வா புயலால் உடைந்த நாயாறு பாலம் இலங்கை இராணுவ பொறியியலாளர்களால் புனரமைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-virakesarilk-5e1c9b93)
-- 2025-12-17 | `lankadeepalk-cc578cd7` | ඇලහැර සෑගල පාසලකට අලියකු පැන මවකටත් පහරදීලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-lankadeepalk-cc578cd7)
-- 2025-12-17 | `lankadeepalk-6c1a5bc8` | කෝටි පනස් දහසක පරිපූරකය හෙට මැතිසබයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-17-lankadeepalk-6c1a5bc8)
 
 ---
 

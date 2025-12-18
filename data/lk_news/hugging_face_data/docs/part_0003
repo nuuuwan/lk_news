@@ -300669,5 +300669,71 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766016947.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-dailyftlk-56320cf5",
+    "num": "dailyftlk-56320cf5",
+    "date_str": "2025-12-18",
+    "description": "Govt. repatriates 25 Lankans rescued from cybercrime centres in Myanmar",
+    "url_metadata": "https://www.ft.lk/news/Govt-repatriates-25-Lankans-rescued-from-cybercrime-centres-in-Myanmar/56-785811",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766019033.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-dailyftlk-87afc9c9",
+    "num": "dailyftlk-87afc9c9",
+    "date_str": "2025-12-18",
+    "description": "Japan extends $ 2.5 m Emergency Grant in response to cyclone disaster",
+    "url_metadata": "https://www.ft.lk/news/Japan-extends-2-5-m-Emergency-Grant-in-response-to-cyclone-disaster/56-785812",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766019160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-dailyftlk-4cb85b2a",
+    "num": "dailyftlk-4cb85b2a",
+    "date_str": "2025-12-18",
+    "description": "Sri Lanka Ambassador launches Ceylon Biscuits Company products in Saudi Arabia",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Ambassador-launches-Ceylon-Biscuits-Company-products-in-Saudi-Arabia/34-785813",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766019387.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-dailyftlk-c736f36c",
+    "num": "dailyftlk-c736f36c",
+    "date_str": "2025-12-18",
+    "description": "GCF Round 2 of Research Grants today",
+    "url_metadata": "https://www.ft.lk/business/GCF-Round-2-of-Research-Grants-today/34-785814",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766019410.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-dailyftlk-918c48b6",
+    "num": "dailyftlk-918c48b6",
+    "date_str": "2025-12-18",
+    "description": "Regen Renewables completes 450 kW solar power project across 47 sites for Colombo District Secretariat",
+    "url_metadata": "https://www.ft.lk/business/Regen-Renewables-completes-450-kW-solar-power-project-across-47-sites-for-Colombo-District-Secretariat/34-785815",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766019433.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-dailyftlk-3718bbab",
+    "num": "dailyftlk-3718bbab",
+    "date_str": "2025-12-18",
+    "description": "David Pieris Group expands global footprint with investment in Dubai-based Navire Logistics",
+    "url_metadata": "https://www.ft.lk/business/David-Pieris-Group-expands-global-footprint-with-investment-in-Dubai-based-Navire-Logistics/34-785816",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766019505.0
   }
 ]
