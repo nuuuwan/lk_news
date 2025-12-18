@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_21:49:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_22:26:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,011** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,023** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-18-adalk-284c2c18",
-    "num": "adalk-284c2c18",
+    "doc_id": "2025-12-18-virakesarilk-1b302906",
+    "num": "virakesarilk-1b302906",
     "date_str": "2025-12-18",
-    "description": "\u0d85\u0dba\u0dc4\u0db4\u0dad\u0dca \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba \u0db1\u0dd2\u0dc3\u0dcf  \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0db4\u0dc5\u0dcf\u0dad\u0dda \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0db4\u0dcf\u0dc3\u0dd0\u0dbd\u0dca\u0dc0\u0dbd\u0da7 19 \u0dc3\u0dc4 22 \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dba\u0dc4\u0db4\u0dad\u0dca-\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba-\u0db1\u0dd2\u0dc3\u0dcf--\u0db8\u0db0\u0dca\u200d\u0dba\u0db8-\u0db4\u0dc5\u0dcf\u0dad\u0dda-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4-\u0db4\u0dcf\u0dc3\u0dd0\u0dbd\u0dca\u0dc0\u0dbd\u0da7-19-\u0dc3\u0dc4-22-\u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4/11-420334",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1766073249.0
+    "description": "\u0bae\u0bca\u0bb0\u0b95\u0bb9\u0b95\u0ba8\u0bcd\u0ba4 \u0ba8\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc7\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb5\u0bbe\u0ba9\u0bcd \u0b95\u0ba4\u0bb5\u0bc1 \u0ba4\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/233771",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766076300.0
 }
 ```
 
@@ -41,7 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-18 | `virakesarilk-1b302906` | மொரகஹகந்த நீர்த்தேக்கத்தின் வான் கதவு திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-1b302906)
+- 2025-12-18 | `virakesarilk-12331952` | ஐரோப்பிய ஒன்றியம் இலங்கைக்கு யூரோ 2.35 மில்லியனுக்கும் அதிகமான மனிதாபிமான உதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-12331952)
+- 2025-12-18 | `virakesarilk-ca00b9da` | மழை தொடரும் ! மகாவலி ஆறு பெருக்கெடுக்கும் அபாயம் : மண்சரிவு தொடர்பில் எச்சரிக்கை - நாகமுத்து பிரதீபராஜா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-ca00b9da)
 - 2025-12-18 | `adalk-284c2c18` | අයහපත් කාලගුණය නිසා  මධ්‍යම පළාතේ සියලු පාසැල්වලට 19 සහ 22 නිවාඩු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-adalk-284c2c18)
+- 2025-12-18 | `virakesarilk-8741432b` | பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதற்காக Gift Sri Lanka Foundation மற்றும் அமெரிக்காவின் ஜோர்ஜியா பௌத்த விகாரையினால் நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-8741432b)
+- 2025-12-18 | `virakesarilk-b978a3f8` | வெள்ள அபாயம்! கிண்ணியா, மூதூர், உள்ளிட்ட சில பிரதேசங்களுக்கு விடுக்கப்பட்டுள்ள எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-b978a3f8)
+- 2025-12-18 | `virakesarilk-655ab0a3` | கட்டாக்காலி கால்நடைகளால் துணுக்காய், மாந்தைகிழக்கு பகுதிகளில் பொதுமக்களும் அரச திணைக்களங்களும் கடும் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-655ab0a3)
 - 2025-12-18 | `lankadeepalk-3363a75d` | මැතිසබේ ඇත්තන්ට දිගු නිවාඩුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-3363a75d)
 - 2025-12-18 | `lankadeepalk-3af8f4fb` | මොරගහකන්දත් පිටාර මට්ටමට ආසන්න වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-3af8f4fb)
 - 2025-12-18 | `lankadeepalk-86253cf9` | සමගියේ අසමගියෙන් කඩුගන්නාව ඇයවැය පරදි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-86253cf9)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2025-12-18 | `tamilmirrorlk-4cffc4f1` | மகாவலி கங்கை பெருக்கெடுக்கும் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-tamilmirrorlk-4cffc4f1)
 - 2025-12-18 | `virakesarilk-ff4ff969` | மத்திய மாகாணத்தில் உள்ள அனைத்துப் பாடசாலைகளும் 19, 22 ஆம் திகதிகளில் மூடப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-ff4ff969)
 - 2025-12-18 | `tamilmirrorlk-b28352e1` | ஹுன்னஸ்கிரிய மண்சரிவில் மூவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-tamilmirrorlk-b28352e1)
-- 2025-12-18 | `virakesarilk-cb167e1e` | தலகல ஓயா நீரோடை பெருக்கெடுத்ததாலேயே நுவரெலியா நகரம் நீரில் மூழ்கியது - மாநகர முதல்வர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-cb167e1e)
-- 2025-12-18 | `virakesarilk-7dc95e37` | எதிர்கட்சியினர் அனர்த்த நிலைமையையும் தமது அரசியல் இலாபத்துக்காக பயன்படுத்திக்கொள்கின்றனர் - அன்டன் ஜயகொடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-7dc95e37)
-- 2025-12-18 | `virakesarilk-61a65c8b` | வலிகாமம் கிழக்கு பிரதேச சபையின் 2026ஆம் ஆண்டுக்கான வரவு - செலவுத் திட்டம் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-61a65c8b)
-- 2025-12-18 | `virakesarilk-4daed163` | நடிகர் பிரபாஸ் நடிக்கும் 'தி ராஜா சாப் ' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-4daed163)
-- 2025-12-18 | `virakesarilk-650fd987` | நடிகர் ஷான் நடிக்கும் 'ரேஜ்' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-650fd987)
-- 2025-12-18 | `virakesarilk-d827f4f2` | இயக்குநர் கே. பாக்யராஜ் தலைமையில் அமைக்கப்பட்ட ஃப்ரேம் & ஃபேம் திரைப்பட விருதிற்கான நடுவர் குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-d827f4f2)
 
 ---
 
