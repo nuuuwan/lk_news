@@ -1,4 +1,5 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-19-adalk-7aba6d75	adalk-7aba6d75	2025-12-19	සැළසුම් කළ ප්‍රමාණය ඉක්මවා පුනර්ජනනීය විදුලිබලය උත්පාදනය කෙරේ	https://www.ada.lk/breaking_news/සැළසුම්-කළ-ප්‍රමාණය-ඉක්මවා-පුනර්ජනනීය-විදුලිබලය-උත්පාදනය-කෙරේ/11-420361	si	adalk	1766159397.0
 lk_news	2025-12-19-lankadeepalk-778bd930	lankadeepalk-778bd930	2025-12-19	ජනපති, ආපදා සහන පැකේජය මැති සබේ දී දිග හරියි	https://www.lankadeepa.lk/latest_news/ජනපත-ආපද-සහන-පකජය-මත-සබ-ද-දග-හරය/1-685567	si	lankadeepalk	1766158263.0
 lk_news	2025-12-19-lankadeepalk-c7536046	lankadeepalk-c7536046	2025-12-19	කෝටි 50000 පරිපූරක ඇස්තමේන්තුව සම්මතයි	https://www.lankadeepa.lk/latest_news/කට-50000-පරපරක-ඇසතමනතව-සමමතය/1-685566	si	lankadeepalk	1766157635.0
 lk_news	2025-12-19-lankadeepalk-3ceeb2e7	lankadeepalk-3ceeb2e7	2025-12-19	”ලෙල්ලමට“ භාරකරුවෙකු පත්කරන්නැයි නියෝග	https://www.lankadeepa.lk/latest_news/ලලලමට-භරකරවක-පතකරනනය-නයග/1-685565	si	lankadeepalk	1766157152.0
@@ -28,6 +29,7 @@ lk_news	2025-12-19-virakesarilk-6fdc633f	virakesarilk-6fdc633f	2025-12-19	வள
 lk_news	2025-12-19-virakesarilk-8d974951	virakesarilk-8d974951	2025-12-19	‘Rebuilding Sri Lanka’ நிதியத்திற்கு நிதி நன்கொடை	https://www.virakesari.lk/article/233863	ta	virakesarilk	1766143800.0
 lk_news	2025-12-19-lankadeepalk-533de63d	lankadeepalk-533de63d	2025-12-19	සිංහල අවුරුද්දට පෙර නුවරට කෝච්චි යවනවා	https://www.lankadeepa.lk/latest_news/සහල-අවරදදට-පර-නවරට-කචච-යවනව/1-685558	si	lankadeepalk	1766143637.0
 lk_news	2025-12-19-tamilmirrorlk-a4e995ad	tamilmirrorlk-a4e995ad	2025-12-19	இந்திய அணிக்காக விளையாடிய பாகிஸ்தான் வீரர்	https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்திய-அணிக்காக-விளையாடிய-பாகிஸ்தான்-வீரர்/44-369816	ta	tamilmirrorlk	1766143561.0
+lk_news	2025-12-19-adalk-ce093905	adalk-ce093905	2025-12-19	රැකියා සඳහා විදෙස් ගතවූ ප්‍රමාණය ලක්ෂ 3 ඉක්මවයි	https://www.ada.lk/breaking_news/රැකියා-සඳහා-විදෙස්-ගතවූ-ප්‍රමාණය-ලක්ෂ-3-ඉක්මවයි/11-420359	si	adalk	1766143403.0
 lk_news	2025-12-19-tamilmirrorlk-35f25b02	tamilmirrorlk-35f25b02	2025-12-19	56,000  பாக். பிச்சைகாரர்களை திருப்பி அனுப்பிய சவுதி	https://www.tamilmirror.lk/உலக-செய்திகள்/56-000-பாக்-பிச்சைகாரர்களை-திருப்பி-அனுப்பிய-சவுதி/50-369814	ta	tamilmirrorlk	1766142610.0
 lk_news	2025-12-19-virakesarilk-98fe6c07	virakesarilk-98fe6c07	2025-12-19	GovPay சாதனை : இந்த ஆண்டில் 2 பில்லியனைத் தாண்டிய டிஜிட்டல் பரிவர்த்தனைகள்	https://www.virakesari.lk/article/233851	ta	virakesarilk	1766142600.0
 lk_news	2025-12-19-virakesarilk-60c29972	virakesarilk-60c29972	2025-12-19	“முழு நாடுமே ஒன்றாக” போதைப்பொருள் சுற்றிவளைப்பில் இதுவரை 47,703 பேர் கைது!	https://www.virakesari.lk/article/233860	ta	virakesarilk	1766142600.0
@@ -997,5 +999,3 @@ lk_news	2025-12-15-lankadeepalk-d0eeae84	lankadeepalk-d0eeae84	2025-12-15	‘ක
 lk_news	2025-12-15-virakesarilk-93c6a231	virakesarilk-93c6a231	2025-12-15	சட்டவிரோத மதுபானத்துடன் ஒருவர் கைது!	https://www.virakesari.lk/article/233366	ta	virakesarilk	1765770540.0
 lk_news	2025-12-15-virakesarilk-840e9460	virakesarilk-840e9460	2025-12-15	புதையல் தோண்டிய 06 பேர் கைது!	https://www.virakesari.lk/article/233369	ta	virakesarilk	1765770540.0
 lk_news	2025-12-15-virakesarilk-30d16085	virakesarilk-30d16085	2025-12-15	அம்பலாங்கொடை முகத்துவார தேவாலயக் குழுத் தலைவர் கொலை ; நால்வர் கைது!	https://www.virakesari.lk/article/233368	ta	virakesarilk	1765770240.0
-lk_news	2025-12-15-virakesarilk-6fc250a1	virakesarilk-6fc250a1	2025-12-15	அவுஸ்திரேலியா துப்பாக்கிச்சூடு: பலி எண்ணிக்கை 16 ஆக அதிகரிப்பு!	https://www.virakesari.lk/article/233367	ta	virakesarilk	1765769760.0
-lk_news	2025-12-15-virakesarilk-1cb41819	virakesarilk-1cb41819	2025-12-15	ஐஸ் போதைப்பொருளுடன் இரண்டு சந்தேகநபர்கள் கைது!	https://www.virakesari.lk/article/233365	ta	virakesarilk	1765769340.0
