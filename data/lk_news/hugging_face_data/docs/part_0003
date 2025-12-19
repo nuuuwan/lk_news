@@ -305102,5 +305102,82 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766165700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-4a1c2c16",
+    "num": "dailyftlk-4a1c2c16",
+    "date_str": "2025-12-19",
+    "description": "NDB Leasing hosts successful two-day auto carnival",
+    "url_metadata": "https://www.ft.lk/business/NDB-Leasing-hosts-successful-two-day-auto-carnival/34-785878",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766166838.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-74d4b7a7",
+    "num": "dailyftlk-74d4b7a7",
+    "date_str": "2025-12-19",
+    "description": "Seylan Bank enables seamless integration with eChannelling through Open API Banking platform",
+    "url_metadata": "https://www.ft.lk/business/Seylan-Bank-enables-seamless-integration-with-eChannelling-through-Open-API-Banking-platform/34-785879",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766166882.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-fadd6c6d",
+    "num": "dailyftlk-fadd6c6d",
+    "date_str": "2025-12-19",
+    "description": "HNB and Prime EV unite to accelerate Sri Lanka\u2019s shift to Deepal vehicles via providing best leasing solutions",
+    "url_metadata": "https://www.ft.lk/business/HNB-and-Prime-EV-unite-to-accelerate-Sri-Lanka-s-shift-to-Deepal-vehicles-via-providing-best-leasing-solutions/34-785880",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766166970.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-47393d23",
+    "num": "dailyftlk-47393d23",
+    "date_str": "2025-12-19",
+    "description": "Deep Tec Engineering expands to uplift rural Sri Lanka through sustainable water and solar solutions",
+    "url_metadata": "https://www.ft.lk/business/Deep-Tec-Engineering-expands-to-uplift-rural-Sri-Lanka-through-sustainable-water-and-solar-solutions/34-785881",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766167020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-4daef792",
+    "num": "dailyftlk-4daef792",
+    "date_str": "2025-12-19",
+    "description": "Shield Restraint Systems unveils state-of-the-art manufacturing facility with $ 8.5 m investment",
+    "url_metadata": "https://www.ft.lk/business/Shield-Restraint-Systems-unveils-state-of-the-art-manufacturing-facility-with-8-5-m-investment/34-785882",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766167067.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-ff5a2f3f",
+    "num": "dailyftlk-ff5a2f3f",
+    "date_str": "2025-12-19",
+    "description": "Peril on the power ethics road ahead to rebuilding Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Peril-on-the-power-ethics-road-ahead-to-rebuilding-Sri-Lanka/4-785887",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766167520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-f02966d7",
+    "num": "dailyftlk-f02966d7",
+    "date_str": "2025-12-19",
+    "description": "Xi Jinping\u2019s blueprint for China 2030",
+    "url_metadata": "https://www.ft.lk/columns/Xi-Jinping-s-blueprint-for-China-2030/4-785889",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766167812.0
   }
 ]
