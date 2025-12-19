@@ -1,4 +1,5 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-19-lankadeepalk-f21b8b06	lankadeepalk-f21b8b06	2025-12-19	17648කට ලක්ෂ පනහ ගානේ දෙනවා	https://www.lankadeepa.lk/latest_news/17648කට-ලකෂ-පනහ-ගන-දනව/1-685560	si	lankadeepalk	1766151270.0
 lk_news	2025-12-19-virakesarilk-0cfa01af	virakesarilk-0cfa01af	2025-12-19	மாலைதீவு கடற்பரப்பினுள் அத்துமீறி நுழைந்த இரு மீன்பிடிப் படகுகள் கைது	https://www.virakesari.lk/article/233873	ta	virakesarilk	1766149380.0
 lk_news	2025-12-19-virakesarilk-3f3ac64a	virakesarilk-3f3ac64a	2025-12-19	டித்வா புயல் பாதிப்பு: 500 பில்லியன் ரூபா குறைநிரப்பு பிரேரணை ஏகமனதாக நிறைவேற்றம்	https://www.virakesari.lk/article/233872	ta	virakesarilk	1766149260.0
 lk_news	2025-12-19-virakesarilk-82a2a527	virakesarilk-82a2a527	2025-12-19	மவுன்ட் மௌங்கானுய் விளையாட்டரங்கில் ஓட்டமழை; டெவன் கொன்வோய் 227	https://www.virakesari.lk/article/233871	ta	virakesarilk	1766148720.0
@@ -42,6 +43,7 @@ lk_news	2025-12-19-virakesarilk-ab8e07d0	virakesarilk-ab8e07d0	2025-12-19	எத
 lk_news	2025-12-19-adalk-6d8ee105	adalk-6d8ee105	2025-12-19	2026දී ආර්ථිකයේ අවදානමක් ඇති වෙන්න ඉඩක් නෑ	https://www.ada.lk/breaking_news/2026දී-ආර්ථිකයේ-අවදානමක්-ඇති-වෙන්න-ඉඩක්-නෑ/11-420354	si	adalk	1766138054.0
 lk_news	2025-12-19-virakesarilk-71f71fec	virakesarilk-71f71fec	2025-12-19	நடிகர் லியோ சிவக்குமார் நடிக்கும் 'டெலிவரி பாய்' படத்தின் படப்பிடிப்பு நிறைவு	https://www.virakesari.lk/article/233852	ta	virakesarilk	1766137980.0
 lk_news	2025-12-19-virakesarilk-b72d8522	virakesarilk-b72d8522	2025-12-19	துல்கர் சல்மானின் படப்பிடிப்பு தளத்திற்கு வருகை தந்த மம்முட்டி	https://www.virakesari.lk/article/233850	ta	virakesarilk	1766137620.0
+lk_news	2025-12-19-adalk-9d69fb9a	adalk-9d69fb9a	2025-12-19	රට ගොඩනගන අරමුදලට සී.බී.එල්. ලක්ෂ 1000ක් දෙයි	https://www.ada.lk/breaking_news/රට-ගොඩනගන-අරමුදලට-සී-බී-එල්--ලක්ෂ-1000ක්-දෙයි/11-420353	si	adalk	1766137603.0
 lk_news	2025-12-19-lankadeepalk-078360b4	lankadeepalk-078360b4	2025-12-19	ජනපති පාර්ලිමේන්තුවට	https://www.lankadeepa.lk/news/ජනපත-පරලමනතවට/101-685555	si	lankadeepalk	1766137435.0
 lk_news	2025-12-19-tamilmirrorlk-1125e902	tamilmirrorlk-1125e902	2025-12-19	கிழக்குக்கான பகல் ரயில் சனிக்கிழமை முதல் ஓடும்	https://www.tamilmirror.lk/செய்திகள்/கிழக்குக்கான-பகல்-ரயில்-சனிக்கிழமை-முதல்-ஓடும்/175-369807	ta	tamilmirrorlk	1766137284.0
 lk_news	2025-12-19-adalk-12943e52	adalk-12943e52	2025-12-19	GovPay ඩිජිටල් ගෙවීම් රුපියල් බිලියන 2 ඉක්මවයි	https://www.ada.lk/breaking_news/GovPay-ඩිජිටල්-ගෙවීම්-රුපියල්-බිලියන-2-ඉක්මවයි/11-420352	si	adalk	1766137229.0
@@ -9997,5 +9999,3 @@ lk_news	2025-11-01-islandlk-55c87f61	islandlk-55c87f61	2025-11-01	Establishing c
 lk_news	2025-11-01-islandlk-39fc4e67	islandlk-39fc4e67	2025-11-01	My friendship with Wijetunga used as a bridge for Gamini D to return to UNP	http://island.lk/my-friendship-with-wijetunga-used-as-a-bridge-for-gamini-d-to-return-to-unp/	en	islandlk	1762006800.0
 lk_news	2025-11-01-adalk-b6e599f5	adalk-b6e599f5	2025-11-01	මේ දක්වා සංචාරකයන් 1 878 557ක් ඇවිත්	https://www.ada.lk/breaking_news/මේ-දක්වා-සංචාරකයන්-1-878-557ක්-ඇවිත්/11-419447	si	adalk	1762005183.0
 lk_news	2025-11-01-islandlk-fee24fce	islandlk-fee24fce	2025-11-01	Working with Dr. Dahanayake and some advice to public servants	http://island.lk/working-with-dr-dahanayake-and-some-advice-to-public-servants/	en	islandlk	1762004880.0
-lk_news	2025-11-01-adalk-0dddb416	adalk-0dddb416	2025-11-01	උපෙළ උපකාරක පන්ති නොවැ. 04 දායින් අවසන්	https://www.ada.lk/breaking_news/උපෙළ-උපකාරක-පන්ති-නොවැ--04-දායින්-අවසන්/11-419446	si	adalk	1762004697.0
-lk_news	2025-11-01-islandlk-533aa6ef	islandlk-533aa6ef	2025-11-01	Memoirs of one of Epstein’s victims, Virginia Giuffre, titled Nobody’s Girl, released posthumously	http://island.lk/memoirs-of-one-of-epsteins-victims-virginia-giuffre-titled-nobodys-girl-released-posthumously/	en	islandlk	1762003440.0
