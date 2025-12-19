@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_06:30:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_07:15:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,058** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,063** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-19-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2025-12-19-dailyftlk-cc938c73",
+    "num": "dailyftlk-cc938c73",
     "date_str": "2025-12-19",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/233783",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1766105220.0
+    "description": "A fit-for-purpose Disaster Management Act",
+    "url_metadata": "https://www.ft.lk/columns/A-fit-for-purpose-Disaster-Management-Act/4-785847",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766107944.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-19 | `dailyftlk-cc938c73` | A fit-for-purpose Disaster Management Act | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-cc938c73)
+- 2025-12-19 | `dailyftlk-99dac61a` | Causes of landslides in  Sri Lanka’s Central Highlands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-99dac61a)
+- 2025-12-19 | `dailyftlk-21e2679e` | Ranil says he will step aside if it helps UNP–SJB unity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-21e2679e)
+- 2025-12-19 | `dailyftlk-4a1ed747` | Editors’ Guild expresses concern over two incidents impacting freedom of expression | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-4a1ed747)
+- 2025-12-19 | `dailyftlk-9b2be6d7` | Namal’s Krrish case fixed for Feb. over alleged Rs. 70 m misappropriation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-9b2be6d7)
 - 2025-12-19 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-3a015e4a)
 - 2025-12-19 | `virakesarilk-1c33c008` | வெள்ளத்தினால் பாதிக்கப்பட்ட மக்களுக்கு உரிய முறையில் நிவாரண உதவிகள் வழங்கப்படவில்லை கவீந்திரன் கோடீஸ்வரன் குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-1c33c008)
 - 2025-12-19 | `virakesarilk-1de9907a` | அனர்த்தத்தில் எம்.பி. அசோக் ரன்வலின் பொது நடத்தை குறித்து எதிர்க்கட்சியினர் குற்றச்சாட்டு - சாமர சம்பத் தசநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-1de9907a)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-12-18 | `tamilmirrorlk-33377dd5` | கொட்டாஞ்சேனையில் கத்தி குத்து : ஒருவர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-tamilmirrorlk-33377dd5)
 - 2025-12-18 | `virakesarilk-a5d47c7e` | 19இன் கீழ் ஆசிய கிண்ண அரை இறுதியில் வலிமைமிக்க இந்திய அணியின சவாலை முறியடிக்குமா இலங்கை? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-a5d47c7e)
 - 2025-12-18 | `tamilmirrorlk-a99c9029` | அடுத்த 36 மணித்தியாலங்களில் வானிலையில் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-tamilmirrorlk-a99c9029)
-- 2025-12-18 | `lankadeepalk-91c08054` | ෆේස් බුක් මත්සාදයකින් තරුණියක් ඇතුළු 13ක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-91c08054)
-- 2025-12-18 | `lankadeepalk-7c382ab6` | රන්වල සිද්ධියෙන් මැති සබය කැළඹේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-7c382ab6)
-- 2025-12-18 | `lankadeepalk-9a527956` | රට නගන අරමුදලට තවත් ඩොලර් 16,000ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-9a527956)
-- 2025-12-18 | `lankadeepalk-79a531fb` | මහවැලි නිම්නයට ගංවතුර අවදානමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-79a531fb)
-- 2025-12-18 | `lankadeepalk-2014a121` | මොරගහකන්ද ජලය මුදා හැරීම ගැන නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-lankadeepalk-2014a121)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-19 06:29:58",
-  "n_docs": 94058,
+  "time_updated": "2025-12-19 07:14:45",
+  "n_docs": 94063,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 94058,
+  "n_docs_with_text": 94063,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-19",
-  "dataset_size": 1415708068,
+  "dataset_size": 1415746787,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-19-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2025-12-19-dailyftlk-cc938c73",
+    "num": "dailyftlk-cc938c73",
     "date_str": "2025-12-19",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/233783",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1766105220.0
+    "description": "A fit-for-purpose Disaster Management Act",
+    "url_metadata": "https://www.ft.lk/columns/A-fit-for-purpose-Disaster-Management-Act/4-785847",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766107944.0
   }
 }

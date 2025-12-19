@@ -1,4 +1,9 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-19-dailyftlk-cc938c73	dailyftlk-cc938c73	2025-12-19	A fit-for-purpose Disaster Management Act	https://www.ft.lk/columns/A-fit-for-purpose-Disaster-Management-Act/4-785847	en	dailyftlk	1766107944.0
+lk_news	2025-12-19-dailyftlk-99dac61a	dailyftlk-99dac61a	2025-12-19	Causes of landslides in  Sri Lanka’s Central Highlands	https://www.ft.lk/columns/Causes-of-landslides-in-Sri-Lanka-s-Central-Highlands/4-785846	en	dailyftlk	1766107471.0
+lk_news	2025-12-19-dailyftlk-21e2679e	dailyftlk-21e2679e	2025-12-19	Ranil says he will step aside if it helps UNP–SJB unity	https://www.ft.lk/news/Ranil-says-he-will-step-aside-if-it-helps-UNPSJB-unity/56-785843	en	dailyftlk	1766106838.0
+lk_news	2025-12-19-dailyftlk-4a1ed747	dailyftlk-4a1ed747	2025-12-19	Editors’ Guild expresses concern over two incidents impacting freedom of expression	https://www.ft.lk/news/Editors-Guild-expresses-concern-over-two-incidents-impacting-freedom-of-expression/56-785842	en	dailyftlk	1766106728.0
+lk_news	2025-12-19-dailyftlk-9b2be6d7	dailyftlk-9b2be6d7	2025-12-19	Namal’s Krrish case fixed for Feb. over alleged Rs. 70 m misappropriation	https://www.ft.lk/news/Namal-s-Krrish-case-fixed-for-Feb-over-alleged-Rs-70-m-misappropriation/56-785841	en	dailyftlk	1766106700.0
 lk_news	2025-12-19-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-12-19	இன்றைய வானிலை	https://www.virakesari.lk/article/233783	ta	virakesarilk	1766105220.0
 lk_news	2025-12-19-virakesarilk-1c33c008	virakesarilk-1c33c008	2025-12-19	வெள்ளத்தினால் பாதிக்கப்பட்ட மக்களுக்கு உரிய முறையில் நிவாரண உதவிகள் வழங்கப்படவில்லை கவீந்திரன் கோடீஸ்வரன் குற்றச்சாட்டு	https://www.virakesari.lk/article/233782	ta	virakesarilk	1766095200.0
 lk_news	2025-12-19-virakesarilk-1de9907a	virakesarilk-1de9907a	2025-12-19	அனர்த்தத்தில் எம்.பி. அசோக் ரன்வலின் பொது நடத்தை குறித்து எதிர்க்கட்சியினர் குற்றச்சாட்டு - சாமர சம்பத் தசநாயக்க	https://www.virakesari.lk/article/233781	ta	virakesarilk	1766095020.0
@@ -9994,8 +9999,3 @@ lk_news	2025-10-31-lankadeepalk-cb1bc89e	lankadeepalk-cb1bc89e	2025-10-31	මන
 lk_news	2025-10-31-virakesarilk-3d9d04f0	virakesarilk-3d9d04f0	2025-10-31	சுற்றுலாப் பயணிகளின் எண்ணிக்கை அதிகரிப்பு!	https://www.virakesari.lk/article/229167	ta	virakesarilk	1761908760.0
 lk_news	2025-10-31-lankadeepalk-f97bd31b	lankadeepalk-f97bd31b	2025-10-31	ලලිත් පතිනායක පරිපාලන තනතුරින් ඉවතට?	https://www.lankadeepa.lk/news/ලලත-පතනයක-පරපලන-තනතරන-ඉවතට/101-682457	si	lankadeepalk	1761908760.0
 lk_news	2025-10-31-lankadeepalk-acc9b7e7	lankadeepalk-acc9b7e7	2025-10-31	සීතාවක ආනමඩුව පුංචි සභා අවුල ලිහීම නීතිපතිට	https://www.lankadeepa.lk/latest_news/සතවක-ආනමඩව-පච-සභ-අවල-ලහම-නතපතට/1-682456	si	lankadeepalk	1761908498.0
-lk_news	2025-10-31-virakesarilk-13625a8d	virakesarilk-13625a8d	2025-10-31	நடிகை கீதா கைலாசம் நடிக்கும் 'அங்கம்மாள்'	https://www.virakesari.lk/article/229165	ta	virakesarilk	1761908400.0
-lk_news	2025-10-31-lankadeepalk-66f5db00	lankadeepalk-66f5db00	2025-10-31	බැකෝ සමන්ගේ බිරිඳට ඇප	https://www.lankadeepa.lk/latest_news/බක-සමනග-බරඳට-ඇප/1-682455	si	lankadeepalk	1761908391.0
-lk_news	2025-10-31-adalk-bf220556	adalk-bf220556	2025-10-31	හෙක්ටයාරයකින් ලබා ගන්නා වී අස්වැන්න වැඩි වෙලා	https://www.ada.lk/breaking_news/හෙක්ටයාරයකින්-ලබා-ගන්නා-වී-අස්වැන්න-වැඩි-වෙලා/11-419439	si	adalk	1761907803.0
-lk_news	2025-10-31-lankadeepalk-844920aa	lankadeepalk-844920aa	2025-10-31	දත්ත ආරක්ෂණ පනත් කෙටුම්පතට කථානායක සහතිකය	https://www.lankadeepa.lk/latest_news/දතත-ආරකෂණ-පනත-කටමපතට-කථනයක-සහතකය/1-682454	si	lankadeepalk	1761907776.0
-lk_news	2025-10-31-virakesarilk-5690caa9	virakesarilk-5690caa9	2025-10-31	நடிகர் ராஜேஷ் துருவா நடிக்கும் 'பீற்றர்' படத்தின் டீசர் வெளியீடு	https://www.virakesari.lk/article/229159	ta	virakesarilk	1761907620.0
