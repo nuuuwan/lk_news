@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_07:15:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_08:20:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,063** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,074** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-19-dailyftlk-cc938c73",
-    "num": "dailyftlk-cc938c73",
+    "doc_id": "2025-12-19-tamilmirrorlk-c3845124",
+    "num": "tamilmirrorlk-c3845124",
     "date_str": "2025-12-19",
-    "description": "A fit-for-purpose Disaster Management Act",
-    "url_metadata": "https://www.ft.lk/columns/A-fit-for-purpose-Disaster-Management-Act/4-785847",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1766107944.0
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0bae\u0bb4\u0bc8/175-369782",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1766110925.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-19 | `tamilmirrorlk-c3845124` | இன்று பலத்த மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-tamilmirrorlk-c3845124)
+- 2025-12-19 | `dailyftlk-dbddc20c` | Varna sets industry record with over eight National Awards in 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-dbddc20c)
+- 2025-12-19 | `dailyftlk-1cf513f7` | Dialog launches Sri Lanka’s largest 5G network, connecting over 1.5 m subscribers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-1cf513f7)
+- 2025-12-19 | `dailyftlk-4ebc2bfd` | Colombo Shopping Festival 40th edition officially inaugurated | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-4ebc2bfd)
+- 2025-12-19 | `lankadeepalk-7e9a35f7` | පළාත් කීපයකට මිලි මීටර් 75 වැඩි තරමක තද වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-lankadeepalk-7e9a35f7)
+- 2025-12-19 | `dailyftlk-a2c793b1` | Zakir Mohamedally appointed to Cargills, CT Holdings Boards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-a2c793b1)
+- 2025-12-19 | `dailyftlk-1bcc051c` | Pathfinder Foundation launches landmark reports on mining and clean energy transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-1bcc051c)
+- 2025-12-19 | `dailyftlk-ee35361c` | TiECon Sri Lanka 2026: Transforming entrepreneurial potential into tangible global growth and impact | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-ee35361c)
+- 2025-12-19 | `dailyftlk-89bb4251` | Rajinikanth saga: From Bengaluru bus conductor to Tamil cinema superstar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-89bb4251)
 - 2025-12-19 | `dailyftlk-cc938c73` | A fit-for-purpose Disaster Management Act | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-cc938c73)
 - 2025-12-19 | `dailyftlk-99dac61a` | Causes of landslides in  Sri Lanka’s Central Highlands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-99dac61a)
 - 2025-12-19 | `dailyftlk-21e2679e` | Ranil says he will step aside if it helps UNP–SJB unity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-dailyftlk-21e2679e)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2025-12-19 | `virakesarilk-886203f8` | அனர்த்த முகாமைத்துவம் தொடர்பான ஐ.நா. சாசனத்துக்கமைய அரசாங்கம் செயற்பட்டுள்ளதா? - ஐக்கிய மக்கள் சக்தி கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-886203f8)
 - 2025-12-19 | `virakesarilk-8503ad5a` | கேர்ணல் ஓ.ஆர்.ராஜசிங்கவை கணக்காய்வாளர் நாயகமாக நியமிக்கும் யோசனை அரசியலமைப்புப்பேரவையில் தோற்கடிப்பு - ஒரு மேலதிக வாக்கினால் தோற்கடிக்கப்பட்டதாகத் தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-8503ad5a)
 - 2025-12-19 | `virakesarilk-5fa948b3` | சிறு மற்றும் நடுத்தர கைத்தொழில் கடன்களுக்கு 3–6 மாத நிவாரண காலம் வழங்க தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-5fa948b3)
-- 2025-12-19 | `virakesarilk-c675d919` | தமிழக முதல்வருடன் தமிழ்த்தேசியப் பேரவை சந்திப்பு : தமிழர்களுக்கான அரசியல் தீர்வாக சுயநிர்ணய உரிமையுடன் கூடிய கூட்டாட்சி முறைமை உறுதிப்படுத்த நடவடிக்கை எடுக்குமாறு வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-c675d919)
-- 2025-12-19 | `tamilmirrorlk-055f01e6` | ஓமன் - இந்தியா தடையற்ற வர்த்தகம் ஒப்பந்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-tamilmirrorlk-055f01e6)
-- 2025-12-19 | `virakesarilk-5a638808` | ஊடக சுதந்திரத்தை முடக்கும் வகையிலான சம்பவங்கள் நடைபெறாதிருப்பதை உறுதிப்படுத்துங்கள் - இலங்கைப் பத்திரிகை ஆசிரியர் சங்கம் அரசாங்கத்திடம் வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-5a638808)
-- 2025-12-19 | `virakesarilk-70d9ab9e` | யாழில் தாயார் படிக்குமாறு கூறியதால் 15 வயது மாணவி தவறான முடிவெடுத்து உயிர்மாய்ப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-70d9ab9e)
-- 2025-12-19 | `virakesarilk-2bdd18d6` | கொட்டாஞ்சேனை 6வது ஒழுங்கையில் கத்திக்குத்து - ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-2bdd18d6)
-- 2025-12-18 | `tamilmirrorlk-1599ad08` | இரவில் திறக்கப்பட்ட வான்கதவு : மக்களுக்கு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-tamilmirrorlk-1599ad08)
-- 2025-12-18 | `tamilmirrorlk-33377dd5` | கொட்டாஞ்சேனையில் கத்தி குத்து : ஒருவர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-tamilmirrorlk-33377dd5)
-- 2025-12-18 | `virakesarilk-a5d47c7e` | 19இன் கீழ் ஆசிய கிண்ண அரை இறுதியில் வலிமைமிக்க இந்திய அணியின சவாலை முறியடிக்குமா இலங்கை? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-virakesarilk-a5d47c7e)
-- 2025-12-18 | `tamilmirrorlk-a99c9029` | அடுத்த 36 மணித்தியாலங்களில் வானிலையில் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-18-tamilmirrorlk-a99c9029)
 
 ---
 

@@ -302663,6 +302663,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-18-adalk-8fe768f9",
+    "num": "adalk-8fe768f9",
+    "date_str": "2025-12-18",
+    "description": "\u0dc4\u0dd4\u0db1\u0dca\u0db1\u0dc3\u0dca\u0d9c\u0dd2\u0dbb\u0dd2\u0dba\u0dda \u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0db1\u0dcf\u0dba\u0dba\u0dba\u0dd2 \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0dad\u0dd4\u0dc0\u0dcf\u0dbd",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd4\u0db1\u0dca\u0db1\u0dc3\u0dca\u0d9c\u0dd2\u0dbb\u0dd2\u0dba\u0dda-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0db1\u0dcf\u0dba\u0dba\u0dba\u0dd2-\u0dad\u0dd4\u0db1\u0d9a\u0da7-\u0dad\u0dd4\u0dc0\u0dcf\u0dbd/11-420335",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1766073464.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-18-virakesarilk-ca00b9da",
     "num": "virakesarilk-ca00b9da",
     "date_str": "2025-12-18",
@@ -302839,6 +302850,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-19-colombotelegraphcom-34727653",
+    "num": "colombotelegraphcom-34727653",
+    "date_str": "2025-12-19",
+    "description": "Elephants In The Fridge & Humans In The Wedge?",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/elephants-in-the-fridge-humans-in-the-wedge/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1766091967.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-19-virakesarilk-70d9ab9e",
     "num": "virakesarilk-70d9ab9e",
     "date_str": "2025-12-19",
@@ -303001,5 +303023,104 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766107944.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-89bb4251",
+    "num": "dailyftlk-89bb4251",
+    "date_str": "2025-12-19",
+    "description": "Rajinikanth saga: From Bengaluru bus conductor to Tamil cinema superstar",
+    "url_metadata": "https://www.ft.lk/columns/Rajinikanth-saga-From-Bengaluru-bus-conductor-to-Tamil-cinema-superstar/4-785848",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766108440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-ee35361c",
+    "num": "dailyftlk-ee35361c",
+    "date_str": "2025-12-19",
+    "description": "TiECon Sri Lanka 2026: Transforming entrepreneurial potential into tangible global growth and impact",
+    "url_metadata": "https://www.ft.lk/business/TiECon-Sri-Lanka-2026-Transforming-entrepreneurial-potential-into-tangible-global-growth-and-impact/34-785849",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766108841.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-1bcc051c",
+    "num": "dailyftlk-1bcc051c",
+    "date_str": "2025-12-19",
+    "description": "Pathfinder Foundation launches landmark reports on mining and clean energy transformation",
+    "url_metadata": "https://www.ft.lk/business/Pathfinder-Foundation-launches-landmark-reports-on-mining-and-clean-energy-transformation/34-785850",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766110417.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-a2c793b1",
+    "num": "dailyftlk-a2c793b1",
+    "date_str": "2025-12-19",
+    "description": "Zakir Mohamedally appointed to Cargills, CT Holdings Boards",
+    "url_metadata": "https://www.ft.lk/business/Zakir-Mohamedally-appointed-to-Cargills-CT-Holdings-Boards/34-785851",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766110571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-lankadeepalk-7e9a35f7",
+    "num": "lankadeepalk-7e9a35f7",
+    "date_str": "2025-12-19",
+    "description": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0d9a\u0dd3\u0db4\u0dba\u0d9a\u0da7 \u0db8\u0dd2\u0dbd\u0dd2 \u0db8\u0dd3\u0da7\u0dbb\u0dca 75 \u0dc0\u0dd0\u0da9\u0dd2 \u0dad\u0dbb\u0db8\u0d9a \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0dc5\u0dad-\u0d9a\u0db4\u0dba\u0d9a\u0da7-\u0db8\u0dbd-\u0db8\u0da7\u0dbb-75-\u0dc0\u0da9-\u0dad\u0dbb\u0db8\u0d9a-\u0dad\u0daf-\u0dc0\u0dc3/101-685506",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1766110606.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-4ebc2bfd",
+    "num": "dailyftlk-4ebc2bfd",
+    "date_str": "2025-12-19",
+    "description": "Colombo Shopping Festival 40th edition officially inaugurated",
+    "url_metadata": "https://www.ft.lk/business/Colombo-Shopping-Festival-40th-edition-officially-inaugurated/34-785852",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766110661.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-1cf513f7",
+    "num": "dailyftlk-1cf513f7",
+    "date_str": "2025-12-19",
+    "description": "Dialog launches Sri Lanka\u2019s largest 5G network, connecting over 1.5 m subscribers",
+    "url_metadata": "https://www.ft.lk/business/Dialog-launches-Sri-Lanka-s-largest-5G-network-connecting-over-1-5-m-subscribers/34-785853",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766110770.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-dbddc20c",
+    "num": "dailyftlk-dbddc20c",
+    "date_str": "2025-12-19",
+    "description": "Varna sets industry record with over eight National Awards in 2025",
+    "url_metadata": "https://www.ft.lk/business/Varna-sets-industry-record-with-over-eight-National-Awards-in-2025/34-785854",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766110859.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-tamilmirrorlk-c3845124",
+    "num": "tamilmirrorlk-c3845124",
+    "date_str": "2025-12-19",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0bae\u0bb4\u0bc8/175-369782",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1766110925.0
   }
 ]
