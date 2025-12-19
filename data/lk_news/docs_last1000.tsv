@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-19-lankadeepalk-1d013302	lankadeepalk-1d013302	2025-12-19	“විධායක බලතල රහිත ජනාධිපතිවරයකු පත් කරනවා“	https://www.lankadeepa.lk/latest_news/වධයක-බලතල-රහත-ජනධපතවරයක-පත-කරනව/1-685564	si	lankadeepalk	1766154905.0
+lk_news	2025-12-19-lankadeepalk-dba33d69	lankadeepalk-dba33d69	2025-12-19	පුස්සැල්ලාවේ වෙළදසැල් 07ක් නායයෑමේ අවදානමක	https://www.lankadeepa.lk/latest_news/පසසලලව-වළදසල-07ක-නයයම-අවදනමක/1-685563	si	lankadeepalk	1766154442.0
 lk_news	2025-12-19-lankadeepalk-683e98b7	lankadeepalk-683e98b7	2025-12-19	3I/ATLAS අබිරහස් වස්තුව පෘථිවිය අසලින් යයි	https://www.lankadeepa.lk/news/3IATLAS-අබරහස-වසතව-පථවය-අසලන-යය/101-685561	si	lankadeepalk	1766152360.0
 lk_news	2025-12-19-lankadeepalk-f21b8b06	lankadeepalk-f21b8b06	2025-12-19	17648කට ලක්ෂ පනහ ගානේ දෙනවා	https://www.lankadeepa.lk/latest_news/17648කට-ලකෂ-පනහ-ගන-දනව/1-685560	si	lankadeepalk	1766151270.0
 lk_news	2025-12-19-virakesarilk-0cfa01af	virakesarilk-0cfa01af	2025-12-19	மாலைதீவு கடற்பரப்பினுள் அத்துமீறி நுழைந்த இரு மீன்பிடிப் படகுகள் கைது	https://www.virakesari.lk/article/233873	ta	virakesarilk	1766149380.0
@@ -39,6 +41,7 @@ lk_news	2025-12-19-virakesarilk-ec9edc1e	virakesarilk-ec9edc1e	2025-12-19	ஆப
 lk_news	2025-12-19-virakesarilk-6882a8cb	virakesarilk-6882a8cb	2025-12-19	சாரதியை கத்தியால் குத்தி காரை கொள்ளையிட்டுச் சென்ற கும்பல் கைது!	https://www.virakesari.lk/article/233856	ta	virakesarilk	1766139720.0
 lk_news	2025-12-19-tamilmirrorlk-a800ad6e	tamilmirrorlk-a800ad6e	2025-12-19	பாம்பன் அருகே கஞ்சா எண்ணெய்  பறிமுதல்	https://www.tamilmirror.lk/செய்திகள்/பாம்பன்-அருகே-கஞ்சா-எண்ணெய்-பறிமுதல்/175-369808	ta	tamilmirrorlk	1766139697.0
 lk_news	2025-12-19-virakesarilk-42727b77	virakesarilk-42727b77	2025-12-19	1960களில் வாழ்ந்த மக்களின் வாழ்வியலை பேசும் 'பராசக்தி'	https://www.virakesari.lk/article/233855	ta	virakesarilk	1766139120.0
+lk_news	2025-12-19-adalk-b41c4a56	adalk-b41c4a56	2025-12-19	ආපදාවෙන් හානි වූ ආගමික, සංස්කෘතික සහ පුරාවිද්‍යාත්මක ස්ථාන කඩිනම් ප්‍රතිසංස්කරණයට	https://www.ada.lk/breaking_news/ආපදාවෙන්-හානි-වූ-ආගමික--සංස්කෘතික-සහ-පුරාවිද්‍යාත්මක-ස්ථාන-කඩිනම්-ප්‍රතිසංස්කරණයට/11-420355	si	adalk	1766138850.0
 lk_news	2025-12-19-virakesarilk-712c26be	virakesarilk-712c26be	2025-12-19	திரில்லராக உருவாகும் 'ரேஜ்' படத்தின் செகண்ட் லுக் போஸ்டர் வெளியீடு	https://www.virakesari.lk/article/233853	ta	virakesarilk	1766138520.0
 lk_news	2025-12-19-virakesarilk-ab8e07d0	virakesarilk-ab8e07d0	2025-12-19	எதிர்கால சுகாதார ஒத்துழைப்புகள் குறித்து இலங்கை – இந்திய அமைச்சர்கள் இடையில் கலந்துரையாடல்!	https://www.virakesari.lk/article/233849	ta	virakesarilk	1766138220.0
 lk_news	2025-12-19-adalk-6d8ee105	adalk-6d8ee105	2025-12-19	2026දී ආර්ථිකයේ අවදානමක් ඇති වෙන්න ඉඩක් නෑ	https://www.ada.lk/breaking_news/2026දී-ආර්ථිකයේ-අවදානමක්-ඇති-වෙන්න-ඉඩක්-නෑ/11-420354	si	adalk	1766138054.0
@@ -996,6 +999,3 @@ lk_news	2025-12-15-adalk-02d0b9ba	adalk-02d0b9ba	2025-12-15	ආධාර දි.
 lk_news	2025-12-15-adalk-e2a4d2cd	adalk-e2a4d2cd	2025-12-15	ඌව පළාතේ පාසල් ප්‍රවාහන පහසුකම් විධිමත් කරයි	https://www.ada.lk/breaking_news/ඌව-පළාතේ-පාසල්-ප්‍රවාහන-පහසුකම්-විධිමත්-කරයි/11-420237	si	adalk	1765762774.0
 lk_news	2025-12-15-adalk-c2ad3a64	adalk-c2ad3a64	2025-12-15	හෙට සිට වැස්ස වැඩි වෙයි	https://www.ada.lk/breaking_news/හෙට-සිට-වැස්ස-වැඩි-වෙයි/11-420236	si	adalk	1765762534.0
 lk_news	2025-12-15-virakesarilk-e200d258	virakesarilk-e200d258	2025-12-15	நாளை முதல் நாடு முழுவதிலும் மழையுடனான வானிலை	https://www.virakesari.lk/article/233364	ta	virakesarilk	1765759140.0
-lk_news	2025-12-15-dailyftlk-5a04bf07	dailyftlk-5a04bf07	2025-12-15	Building a safer Sri Lanka	https://www.ft.lk/columns/Building-a-safer-Sri-Lanka/4-785672	en	dailyftlk	1765758761.0
-lk_news	2025-12-15-dailyftlk-6e339f7a	dailyftlk-6e339f7a	2025-12-15	Presidential authority in times of emergency: A contemporary appraisal	https://www.ft.lk/columns/Presidential-authority-in-times-of-emergency-A-contemporary-appraisal/4-785671	en	dailyftlk	1765758458.0
-lk_news	2025-12-15-dailyftlk-fb5a2112	dailyftlk-fb5a2112	2025-12-15	Unsung heroes of the Central Bank 2: Computer Programmer N.M. Jayasekera	https://www.ft.lk/columns/Unsung-heroes-of-the-Central-Bank-2-Computer-Programmer-N-M-Jayasekera/4-785670	en	dailyftlk	1765758048.0
