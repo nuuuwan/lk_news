@@ -305171,6 +305171,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-19-dailyftlk-64a18bca",
+    "num": "dailyftlk-64a18bca",
+    "date_str": "2025-12-19",
+    "description": "Ditwah, recovery and politics",
+    "url_metadata": "https://www.ft.lk/columns/Ditwah-recovery-and-politics/4-785888",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766167647.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-19-dailyftlk-f02966d7",
     "num": "dailyftlk-f02966d7",
     "date_str": "2025-12-19",
@@ -305179,5 +305190,71 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766167812.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-dailyftlk-45b1fcd1",
+    "num": "dailyftlk-45b1fcd1",
+    "date_str": "2025-12-20",
+    "description": "Sri Lanka marks 70 Years of UN Membership in New York",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-marks-70-Years-of-UN-Membership-in-New-York/56-785890",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766170094.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-dailyftlk-0a356597",
+    "num": "dailyftlk-0a356597",
+    "date_str": "2025-12-20",
+    "description": "Japan provides $ 1 m shelters through IOM in response to Cyclone Disaster",
+    "url_metadata": "https://www.ft.lk/news/Japan-provides-1-m-shelters-through-IOM-in-response-to-Cyclone-Disaster/56-785898",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766170606.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-dailyftlk-095c6598",
+    "num": "dailyftlk-095c6598",
+    "date_str": "2025-12-20",
+    "description": "Pakistan sends humanitarian relief cargo to Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/Pakistan-sends-humanitarian-relief-cargo-to-Sri-Lanka/56-785899",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766170646.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-dailyftlk-22d3c6de",
+    "num": "dailyftlk-22d3c6de",
+    "date_str": "2025-12-20",
+    "description": "India delivers more relief as Army Field Hospital concludes mission in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/India-delivers-more-relief-as-Army-Field-Hospital-concludes-mission-in-Sri-Lanka/56-785900",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766170730.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-dailyftlk-a08c6685",
+    "num": "dailyftlk-a08c6685",
+    "date_str": "2025-12-20",
+    "description": "European Union provides over Euro 2.35 m humanitarian assistance to Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/European-Union-provides-over-Euro-2-35-m-humanitarian-assistance-to-Sri-Lanka/56-785901",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766170785.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-dailyftlk-ff995ca4",
+    "num": "dailyftlk-ff995ca4",
+    "date_str": "2025-12-20",
+    "description": "President Dissanayake thanks UAE for rapid humanitarian assistance",
+    "url_metadata": "https://www.ft.lk/news/President-Dissanayake-thanks-UAE-for-rapid-humanitarian-assistance/56-785902",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766170833.0
   }
 ]
