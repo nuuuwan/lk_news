@@ -304104,6 +304104,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-19-adalk-b1be37ef",
+    "num": "adalk-b1be37ef",
+    "date_str": "2025-12-19",
+    "description": "\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd2\u0dba\u0d9a\u0d9c\u0dda \u0daf\u0dd9\u0d85\u0dad\u0dca\u0dc0\u0dbd\u0da7 160 \u0dc0\u0dcf\u0dbb\u0dba\u0d9a\u0dca \u0d9a\u0ddd\u0da7\u0dd4\u0dc0\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca \u0da7\u0dd2\u0dba\u0dd4\u0dc2\u0db1\u0dca \u0d9c\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4\u0da7 \u0d87\u0db4",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dd2\u0dc3\u0dd4\u0dc0\u0dd2\u0dba\u0d9a\u0d9c\u0dda-\u0daf\u0dd9\u0d85\u0dad\u0dca\u0dc0\u0dbd\u0da7-160-\u0dc0\u0dcf\u0dbb\u0dba\u0d9a\u0dca-\u0d9a\u0ddd\u0da7\u0dd4\u0dc0\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca-\u0da7\u0dd2\u0dba\u0dd4\u0dc2\u0db1\u0dca-\u0d9c\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dd4\u0da7-\u0d87\u0db4/11-420348",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1766133957.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-19-virakesarilk-7c60efd9",
     "num": "virakesarilk-7c60efd9",
     "date_str": "2025-12-19",
@@ -304255,5 +304266,16 @@
     "lang": "si",
     "newspaper_id": "lankadeepalk",
     "time_ut": 1766137435.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-adalk-6d8ee105",
+    "num": "adalk-6d8ee105",
+    "date_str": "2025-12-19",
+    "description": "2026\u0daf\u0dd3 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba\u0dda \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0d89\u0da9\u0d9a\u0dca \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/2026\u0daf\u0dd3-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba\u0dda-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca-\u0d87\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0d89\u0da9\u0d9a\u0dca-\u0db1\u0dd1/11-420354",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1766138054.0
   }
 ]
