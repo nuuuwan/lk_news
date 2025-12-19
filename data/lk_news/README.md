@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_15:47:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_16:21:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,179** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,182** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-19-adalk-6d8ee105",
-    "num": "adalk-6d8ee105",
+    "doc_id": "2025-12-19-lankadeepalk-4bd51379",
+    "num": "lankadeepalk-4bd51379",
     "date_str": "2025-12-19",
-    "description": "2026\u0daf\u0dd3 \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba\u0dda \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0d89\u0da9\u0d9a\u0dca \u0db1\u0dd1",
-    "url_metadata": "https://www.ada.lk/breaking_news/2026\u0daf\u0dd3-\u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a\u0dba\u0dda-\u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca-\u0d87\u0dad\u0dd2-\u0dc0\u0dd9\u0db1\u0dca\u0db1-\u0d89\u0da9\u0d9a\u0dca-\u0db1\u0dd1/11-420354",
+    "description": "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb \u0dc4\u0db1\u0dca\u0dad\u0dcf\u0db1 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba \u0db1\u0dcf\u0dba \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dc4\u0db1\u0dc0\u0dbb-\u0dc4\u0db1\u0dad\u0db1-\u0db8\u0dbb\u0d9c\u0dba-\u0db1\u0dba-\u0dba\u0dba/101-685556",
     "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1766138054.0
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1766140672.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-19 | `lankadeepalk-4bd51379` | මහනුවර හන්තාන මාර්ගය නාය යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-lankadeepalk-4bd51379)
+- 2025-12-19 | `tamilmirrorlk-be50680c` | மேக்கப் கலாச்சாரத்தை மாற்றிய மணப்பெண் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-tamilmirrorlk-be50680c)
+- 2025-12-19 | `tamilmirrorlk-a800ad6e` | பாம்பன் அருகே கஞ்சா எண்ணெய்  பறிமுதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-tamilmirrorlk-a800ad6e)
 - 2025-12-19 | `adalk-6d8ee105` | 2026දී ආර්ථිකයේ අවදානමක් ඇති වෙන්න ඉඩක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-adalk-6d8ee105)
 - 2025-12-19 | `lankadeepalk-078360b4` | ජනපති පාර්ලිමේන්තුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-lankadeepalk-078360b4)
 - 2025-12-19 | `tamilmirrorlk-1125e902` | கிழக்குக்கான பகல் ரயில் சனிக்கிழமை முதல் ஓடும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-tamilmirrorlk-1125e902)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-19 | `virakesarilk-7c60efd9` | 2025 ஆம் ஆண்டின் சிறந்த தமிழ் திரைப்படமாக தெரிவு செய்யப்பட்ட 'பறந்து போ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-7c60efd9)
 - 2025-12-19 | `adalk-b1be37ef` | සිසුවියකගේ දෙඅත්වලට 160 වාරයක් කෝටුවකින් පහරදුන් ටියුෂන් ගුරුවරයෙකුට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-adalk-b1be37ef)
 - 2025-12-19 | `virakesarilk-4276fa8e` | யாழ். பல்கலைக்கழகத்தில் பேராசிரியர்களாக மூவருக்கு பதவி உயர்வு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-4276fa8e)
-- 2025-12-19 | `adalk-9811e74e` | කීර්ති ඇමති සමන්තගෙන් රු. ලක්ෂ 1000ක වන්දි ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-adalk-9811e74e)
-- 2025-12-19 | `virakesarilk-579231b9` | பதுளை - அம்பேவளை ரயில் சேவைகள் நாளை முதல் மீண்டும் ஆரம்பம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-579231b9)
-- 2025-12-19 | `virakesarilk-767126b7` | பதவியிலிருந்து விலகுகிறாரா ஜீவன் தொண்டமான்? - வெளியானது அறிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-767126b7)
 
 ---
 
