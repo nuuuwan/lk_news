@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_12:26:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_12:49:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,132** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,135** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-19-tamilmirrorlk-f39c2328",
-    "num": "tamilmirrorlk-f39c2328",
+    "doc_id": "2025-12-19-lankadeepalk-043e68c5",
+    "num": "lankadeepalk-043e68c5",
     "date_str": "2025-12-19",
-    "description": "\u0b87\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1; 70 \u0bb5\u0baf\u0ba4\u0bc1 \u0b95\u0ba3\u0bb5\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bc8 \u0baa\u0bc1\u0b95\u0bbe\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1-\u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1-70-\u0bb5\u0baf\u0ba4\u0bc1-\u0b95\u0ba3\u0bb5\u0bb0\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bc8-\u0baa\u0bc1\u0b95\u0bbe\u0bb0\u0bcd/175-369801",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1766125558.0
+    "description": "\u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd - \u0d85\u0db9\u0dda\u0dc0\u0dd9\u0dbd \u0d85\u0dad\u0dbb \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0d9c\u0db8\u0db1\u0dca \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db6\u0daf\u0dbd\u0dbd-\u0d85\u0db9\u0dc0\u0dbd-\u0d85\u0dad\u0dbb-\u0daf\u0db8\u0dbb\u0dba-\u0d9c\u0db8\u0db1-\u0d85\u0dbb\u0db9\u0dba/1-685552",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1766128163.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-19 | `lankadeepalk-043e68c5` | බදුල්ල - අඹේවෙල අතර දුම්රිය ගමන් අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-lankadeepalk-043e68c5)
+- 2025-12-19 | `lankadeepalk-e4f4d39b` | ​සිලි සිලි බෑග්වලට එරෙහි යුද්ධය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-lankadeepalk-e4f4d39b)
+- 2025-12-19 | `adalk-d9e13df8` | විස්සයි 20 ලෝක කුසලානය තෙක් ශ්‍රී ලංකා කණ්ඩායමේ නායකත්වය දසුන් ශානකට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-adalk-d9e13df8)
 - 2025-12-19 | `tamilmirrorlk-f39c2328` | இழுத்து சென்று வன்புணர்வு; 70 வயது கணவர் மீது பேராசிரியை புகார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-tamilmirrorlk-f39c2328)
 - 2025-12-19 | `lankadeepalk-3672c79f` | සමාජ මාධ්‍ය හතුරෙක්ද? මිතුරෙක්ද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-lankadeepalk-3672c79f)
 - 2025-12-19 | `tamilmirrorlk-297bf05d` | குடும்பப் பெண் கொலை: கழுத்தில் வெட்டு காயத்துடன் கணவன் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-tamilmirrorlk-297bf05d)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-19 | `virakesarilk-bee91524` | நீர்கொழும்பில் போதைப்பொருட்களுடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-bee91524)
 - 2025-12-19 | `virakesarilk-cbde9c4b` | மத்துகம கொலைச் சம்பவம்: பொலிஸாரால் தேடப்பட்டு வந்த இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-cbde9c4b)
 - 2025-12-19 | `virakesarilk-703e317c` | பருத்தித்துறையில் கேரள கஞ்சாவுடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-703e317c)
-- 2025-12-19 | `virakesarilk-ddb7d476` | தென் அமெரிக்க நாடுகளுடனான சுதந்திர வர்த்தக ஒப்பந்தம் ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-ddb7d476)
-- 2025-12-19 | `virakesarilk-d3a8beba` | உக்ரைன் ட்ரோன் தாக்குதல் : சரக்கு கப்பல் பணியாளர்கள் இருவர் உட்பட மூவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-d3a8beba)
-- 2025-12-19 | `virakesarilk-2334f165` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு 100 மில்லியன் நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-19-virakesarilk-2334f165)
 
 ---
 
