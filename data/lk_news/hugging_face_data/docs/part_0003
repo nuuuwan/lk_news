@@ -295843,6 +295843,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-44cd6f85",
+    "num": "islandlk-44cd6f85",
+    "date_str": "2025-12-16",
+    "description": "Bondi Beach and Arugam Bay",
+    "url_metadata": "http://island.lk/bondi-beach-and-arugam-bay/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765824480.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-16-islandlk-46d4253f",
     "num": "islandlk-46d4253f",
     "date_str": "2025-12-16",
@@ -300573,6 +300584,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-71b3ca6f",
+    "num": "islandlk-71b3ca6f",
+    "date_str": "2025-12-18",
+    "description": "Code of Ethics for capital market influencers in the pipeline",
+    "url_metadata": "http://island.lk/code-of-ethics-for-capital-market-influencers-in-the-pipeline/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765997280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-90cf927d",
+    "num": "islandlk-90cf927d",
+    "date_str": "2025-12-18",
+    "description": "Norway supports flood-affected communities in Sri Lanka",
+    "url_metadata": "http://island.lk/norway-supports-flood-affected-communities-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765997340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-35e6422c",
+    "num": "islandlk-35e6422c",
+    "date_str": "2025-12-18",
+    "description": "Janashakthi Finance appoints Sithambaram Sri Ganendran as CEO",
+    "url_metadata": "http://island.lk/janashakthi-finance-appoints-sithambaram-sri-ganendran-as-ceo/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765997400.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-18-islandlk-c64f0d6f",
     "num": "islandlk-c64f0d6f",
     "date_str": "2025-12-18",
@@ -300636,6 +300680,28 @@
     "lang": "en",
     "newspaper_id": "dbsjeyarajcom",
     "time_ut": 1765997880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-dbddaeed",
+    "num": "islandlk-dbddaeed",
+    "date_str": "2025-12-18",
+    "description": "90th Anniversary of LSSP and leftism in Sri Lanka",
+    "url_metadata": "http://island.lk/90th-anniversary-of-lssp-and-leftism-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765998360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-dd2a50eb",
+    "num": "islandlk-dd2a50eb",
+    "date_str": "2025-12-18",
+    "description": "Presidential authority in times of emergency:A contemporary appraisal",
+    "url_metadata": "http://island.lk/presidential-authority-in-times-of-emergencya-contemporary-appraisal/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765998360.0
   },
   {
     "doc_type": "lk_news",
@@ -301640,6 +301706,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-5633ede1",
+    "num": "islandlk-5633ede1",
+    "date_str": "2025-12-18",
+    "description": "How the \u2018Lost Tribes of Israel\u2019 help in understanding Mid-East peace issues",
+    "url_metadata": "http://island.lk/how-the-lost-tribes-of-israel-help-in-understanding-mid-east-peace-issues/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766046540.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-18-virakesarilk-89ed498e",
     "num": "virakesarilk-89ed498e",
     "date_str": "2025-12-18",
@@ -302451,6 +302528,50 @@
     "lang": "si",
     "newspaper_id": "lankadeepalk",
     "time_ut": 1766068855.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-54200a65",
+    "num": "islandlk-54200a65",
+    "date_str": "2025-12-18",
+    "description": "Construction sector shares prove their investor attractiveness",
+    "url_metadata": "http://island.lk/construction-sector-shares-prove-their-investor-attractiveness/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766069100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-f967e939",
+    "num": "islandlk-f967e939",
+    "date_str": "2025-12-18",
+    "description": "Sri Lankan business leaders explore strategic opportunities in Cambodia",
+    "url_metadata": "http://island.lk/sri-lankan-business-leaders-explore-strategic-opportunities-in-cambodia/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766069100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-5e0a9a3d",
+    "num": "islandlk-5e0a9a3d",
+    "date_str": "2025-12-18",
+    "description": "South Asia\u2019s first-ever Reggae Music Festival \u201cONE LOVE 2026\u201d set to ignite Bentota",
+    "url_metadata": "http://island.lk/south-asias-first-ever-reggae-music-festival-one-love-2026-set-to-ignite-bentota/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766069460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-b6efee2d",
+    "num": "islandlk-b6efee2d",
+    "date_str": "2025-12-18",
+    "description": "LAUGFS Rubber clinches Silver at NCPC Awards 2025 for Cleaner Production Excellence",
+    "url_metadata": "http://island.lk/laugfs-rubber-clinches-silver-at-ncpc-awards-2025-for-cleaner-production-excellence/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766069460.0
   },
   {
     "doc_type": "lk_news",
