@@ -305963,6 +305963,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-20-virakesarilk-a3355b48",
+    "num": "virakesarilk-a3355b48",
+    "date_str": "2025-12-20",
+    "description": "\u201c\u0bb2\u0bca\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u201d\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0baa\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/233933",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766215140.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-20-lankadeepalk-3abb0091",
     "num": "lankadeepalk-3abb0091",
     "date_str": "2025-12-20",
@@ -306139,6 +306150,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-20-virakesarilk-a548ebda",
+    "num": "virakesarilk-a548ebda",
+    "date_str": "2025-12-20",
+    "description": "\u2018Rebuilding Sri Lanka\u2019 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0ba4\u0bbf \u0ba8\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc8\u0b95\u0bb3\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/233945",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766225220.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-20-virakesarilk-ae96b5d9",
     "num": "virakesarilk-ae96b5d9",
     "date_str": "2025-12-20",
@@ -306158,5 +306180,16 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766227080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-adalk-24872fad",
+    "num": "adalk-24872fad",
+    "date_str": "2025-12-20",
+    "description": "\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0dbd\u0da7 \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0d9a\u0dca \u0db1\u0dd0\u0dad\u0dca\u0db1\u0db8\u0dca \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf\u0dc0\u0dbd\u0da7-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0d9a\u0dca-\u0db1\u0dd0\u0dad\u0dca\u0db1\u0db8\u0dca-\u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0d9a\u0dca/11-420366",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1766227432.0
   }
 ]
