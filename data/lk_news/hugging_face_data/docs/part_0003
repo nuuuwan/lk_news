@@ -298241,6 +298241,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-16-islandlk-e012a518",
+    "num": "islandlk-e012a518",
+    "date_str": "2025-12-16",
+    "description": "Colombo Port facing strategic neglect",
+    "url_metadata": "http://island.lk/colombo-port-facing-strategic-neglect/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765907520.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-16-islandlk-97c45d18",
     "num": "islandlk-97c45d18",
     "date_str": "2025-12-16",
@@ -302542,6 +302553,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-62041507",
+    "num": "islandlk-62041507",
+    "date_str": "2025-12-18",
+    "description": "Unlocking Sri Lanka\u2019s hidden wealth: A $2 billion mineral opportunity awaits",
+    "url_metadata": "http://island.lk/unlocking-sri-lankas-hidden-wealth-a-2-billion-mineral-opportunity-awaits/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766069040.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-18-islandlk-54200a65",
     "num": "islandlk-54200a65",
     "date_str": "2025-12-18",
@@ -304038,6 +304060,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-19-islandlk-e8b694d5",
+    "num": "islandlk-e8b694d5",
+    "date_str": "2025-12-19",
+    "description": "A Historic Hat-Trick: Home Lands Crowned Best Developer Sri Lanka for Third Consecutive Year, Also Wins Best Lifestyle Developer Asia",
+    "url_metadata": "http://island.lk/a-historic-hat-trick-home-lands-crowned-best-developer-sri-lanka-for-third-consecutive-year-also-wins-best-lifestyle-developer-asia/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766131080.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-19-virakesarilk-82ac4628",
     "num": "virakesarilk-82ac4628",
     "date_str": "2025-12-19",
@@ -304962,6 +304995,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-19-islandlk-541abba7",
+    "num": "islandlk-541abba7",
+    "date_str": "2025-12-19",
+    "description": "Port City Colombo joins Western Province\u2019s \u2018Lights of Hope\u2019 amid national recovery",
+    "url_metadata": "http://island.lk/port-city-colombo-joins-western-provinces-lights-of-hope-amid-national-recovery/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766156460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-islandlk-45bf550f",
+    "num": "islandlk-45bf550f",
+    "date_str": "2025-12-19",
+    "description": "INSEE Cement recognized for HR excellence at the inaugural CIPM Great HR Awards 2025",
+    "url_metadata": "http://island.lk/insee-cement-recognized-for-hr-excellence-at-the-inaugural-cipm-great-hr-awards-2025/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766156520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-islandlk-9a63863d",
+    "num": "islandlk-9a63863d",
+    "date_str": "2025-12-19",
+    "description": "Indices dip as bearishness overcomes bourse; right issue by Colombo Dockyard",
+    "url_metadata": "http://island.lk/indices-dip-as-bearishness-overcomes-bourse-right-issue-by-colombo-dockyard/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766156520.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-19-virakesarilk-feb8d363",
     "num": "virakesarilk-feb8d363",
     "date_str": "2025-12-19",
@@ -304992,6 +305058,28 @@
     "lang": "si",
     "newspaper_id": "lankadeepalk",
     "time_ut": 1766157635.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-islandlk-b2c6c73f",
+    "num": "islandlk-b2c6c73f",
+    "date_str": "2025-12-19",
+    "description": "Christmas at Table by Nyne: A meal from the heart, food for the soul",
+    "url_metadata": "http://island.lk/christmas-at-table-by-nyne-a-meal-from-the-heart-food-for-the-soul/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766157660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-islandlk-d1905bd1",
+    "num": "islandlk-d1905bd1",
+    "date_str": "2025-12-19",
+    "description": "Growing investor participation fuels unit trust industry performance",
+    "url_metadata": "http://island.lk/growing-investor-participation-fuels-unit-trust-industry-performance/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766157660.0
   },
   {
     "doc_type": "lk_news",
