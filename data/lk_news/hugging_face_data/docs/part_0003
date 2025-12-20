@@ -305358,6 +305358,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-20-dbsjeyarajcom-66807ba6",
+    "num": "dbsjeyarajcom-66807ba6",
+    "date_str": "2025-12-20",
+    "description": "Somasundaram Nadesan QC  will be remembered for his brilliance as a lawyer, as an indefatigable fighter for human rights and for taking up public causes. He was an extraordinary human being.",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=86797",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1766173260.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-20-virakesarilk-11c7aaad",
     "num": "virakesarilk-11c7aaad",
     "date_str": "2025-12-20",
@@ -305575,6 +305586,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1766203458.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-colombotelegraphcom-d23a0623",
+    "num": "colombotelegraphcom-d23a0623",
+    "date_str": "2025-12-20",
+    "description": "Why Sri Lanka\u2019s Major Reservoirs Cannot Prevent Floods  During A Severe Rainfall Event",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/why-sri-lankas-major-reservoirs-cannot-prevent-floods-during-a-severe-rainfall-event/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1766203467.0
   },
   {
     "doc_type": "lk_news",
@@ -305982,5 +306004,16 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1766221199.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-lankadeepalk-06ffbd4e",
+    "num": "lankadeepalk-06ffbd4e",
+    "date_str": "2025-12-20",
+    "description": "\u0dbb\u0da7 \u0db1\u0d9c\u0db1\u0dca\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 2.5\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dbb\u0da7-\u0db1\u0d9c\u0db1\u0db1-\u0db4\u0dbb\u0daf\u0dc1\u0dba-\u0dc3\u0dc0\u0dbb\u0db0\u0db1-\u0db6\u0d9a\u0dc0\u0db1-\u0db8\u0dbd\u0dba\u0db1-2-5\u0d9a/101-685580",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1766221343.0
   }
 ]
