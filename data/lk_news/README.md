@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--20_23:48:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--21_00:21:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,380** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,381** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -50,6 +50,7 @@ A collection of lk_news documents.
 - 2025-12-20 | `lankadeepalk-391b5839` | ’’පේරේ’’  පීඨ දෙකක් 29 විවෘතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-20-lankadeepalk-391b5839)
 - 2025-12-20 | `lankadeepalk-a8ebe47c` | ඉම්රාන් ඛාන්ට බිරිඳට 17 වසරක සිරදඬුවම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-20-lankadeepalk-a8ebe47c)
 - 2025-12-20 | `lankadeepalk-7523a237` | ප්‍රා.ලේ ගංවතුර ආධාර දෙන්න අවදානම් ගමනක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-20-lankadeepalk-7523a237)
+- 2025-12-20 | `colombotelegraphcom-d8db8d58` | S. Nadesan QC: An Enduring Legend | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-20-colombotelegraphcom-d8db8d58)
 - 2025-12-20 | `tamilmirrorlk-c495c7c2` | கொட்டாஞ்சேனையில்   விஷேட கூட்டுத்தியானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-20-tamilmirrorlk-c495c7c2)
 - 2025-12-20 | `tamilmirrorlk-6fa69acd` | பன்விலை விபத்தில் நால்வர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-20-tamilmirrorlk-6fa69acd)
 - 2025-12-20 | `lankadeepalk-98b7fb7f` | ශ්‍රීලනිප බැංකු ගිණුම නවත්වන්න දයාසිරි ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-20-lankadeepalk-98b7fb7f)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-20 | `virakesarilk-9c3ae9ad` | அரசாங்கம் மக்களை கைவிட்டுவிட்டது; கிராமங்களில் கடும் அதிருப்தி - நாமல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-20-virakesarilk-9c3ae9ad)
 - 2025-12-20 | `virakesarilk-d675ea2e` | மன்னார் நகர எல்லைக்குள் பண்டிகை கால வியாபார நடவடிக்கைகளுக்கு கடைகள் ஏல விற்பனை ; 4 கோடியை தாண்டிய நகர சபைக்கான வருமானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-20-virakesarilk-d675ea2e)
 - 2025-12-20 | `virakesarilk-796505b1` | அரசியலில் பெண்களை வலுப்படுத்த தென் மாகாணத்தில் தலைமைத்துவப் பயிற்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-20-virakesarilk-796505b1)
-- 2025-12-20 | `virakesarilk-6756aa4f` | தையிட்டி விகாரைக்கு முன்பாக நாளை எதிர்ப்பு போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-20-virakesarilk-6756aa4f)
 
 ---
 
