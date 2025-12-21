@@ -1,10 +1,14 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-21-adalk-9e528b24	adalk-9e528b24	2025-12-21	ඇල්පිටියෙන් කෝටි 9ක අයිස් අල්ලයි	https://www.ada.lk/breaking_news/ඇල්පිටියෙන්-කෝටි-9ක-අයිස්-අල්ලයි/11-420380	si	adalk	1766336971.0
+lk_news	2025-12-21-lankadeepalk-651681d7	lankadeepalk-651681d7	2025-12-21	හංවැල්ල පොලිසිය අසල කලබලයක්	https://www.lankadeepa.lk/latest_news/හවලල-පලසය-අසල-කලබලයක/1-685648	si	lankadeepalk	1766336578.0
+lk_news	2025-12-21-lankadeepalk-d0fa6fa1	lankadeepalk-d0fa6fa1	2025-12-21	‘‘සංස්කෘතියට අත නොතැබිය යුතුයි‘‘	https://www.lankadeepa.lk/latest_news/සසකතයට-අත-නතබය-යතය/1-685643	si	lankadeepalk	1766335989.0
 lk_news	2025-12-21-lankadeepalk-d23634e6	lankadeepalk-d23634e6	2025-12-21	තලාව සභාවට අතුරු තහනමක්	https://www.lankadeepa.lk/latest_news/තලව-සභවට-අතර-තහනමක/1-685640	si	lankadeepalk	1766335581.0
 lk_news	2025-12-21-lankadeepalk-188cc7b9	lankadeepalk-188cc7b9	2025-12-21	ඔන්ඩැන්සෙට්‍රෝන් එන්නතේ ගැන මව් සමාගමෙන් ලිපියක්	https://www.lankadeepa.lk/latest_news/ඔනඩනසටරන-එනනත-ගන-මව-සමගමන-ලපයක/1-685639	si	lankadeepalk	1766335359.0
 lk_news	2025-12-21-virakesarilk-ad422d83	virakesarilk-ad422d83	2025-12-21	இந்தியாவை வீழ்த்தி 19 வயதுக்குட்பட்ட ஆசிய கிண்ணத்தை 13 வருடங்களின் பின்னர் சுவீகரித்தது பாகிஸ்தான்	https://www.virakesari.lk/article/234042	ta	virakesarilk	1766329140.0
 lk_news	2025-12-21-virakesarilk-bfdb0b26	virakesarilk-bfdb0b26	2025-12-21	ஜனாதிபதி நிதியத்தினால் க.பொ.த உயர்தரப் பரீட்சையில் சிறந்த  பெறுபேறுகளைப் பெற்ற மாணவர்கள் கௌரவிப்பு	https://www.virakesari.lk/article/234041	ta	virakesarilk	1766326140.0
 lk_news	2025-12-21-virakesarilk-e6d6a393	virakesarilk-e6d6a393	2025-12-21	கிளிநொச்சிக்கு விஜயம் செய்த பிரதமர் ஹரிணி!	https://www.virakesari.lk/article/234040	ta	virakesarilk	1766324820.0
 lk_news	2025-12-21-virakesarilk-19a48fd2	virakesarilk-19a48fd2	2025-12-21	கொழும்பு சிறிமாவோ பண்டாரநாயக்க மாணவி விவகாரம்: கல்வி அமைச்சு அதிபரிடம் விளக்கம் கோரியுள்ளது	https://www.virakesari.lk/article/234039	ta	virakesarilk	1766323260.0
+lk_news	2025-12-21-adalk-a5e43433	adalk-a5e43433	2025-12-21	ධීවරයින් පහක් සමග බහුදින යාත්‍රාවක් අතුරුදන්	https://www.ada.lk/breaking_news/ධීවරයින්-පහක්-සමග-බහුදින-යාත්‍රාවක්-අතුරුදන්/11-420378	si	adalk	1766321558.0
 lk_news	2025-12-21-virakesarilk-756c2523	virakesarilk-756c2523	2025-12-21	கிளிநொச்சியில் சந்திரகுமார், சிவஞானம் ஆகியோருக்கிடையில் சந்திப்பு	https://www.virakesari.lk/article/234038	ta	virakesarilk	1766318640.0
 lk_news	2025-12-21-lankadeepalk-38aa8277	lankadeepalk-38aa8277	2025-12-21	වෙනිසියුලා තවත් තෙල් නැවක් ඇමෙරිකා බාරයට	https://www.lankadeepa.lk/latest_news/වනසයල-තවත-තල-නවක-ඇමරක-බරයට/1-685632	si	lankadeepalk	1766317516.0
 lk_news	2025-12-21-lankadeepalk-b0fc4ae3	lankadeepalk-b0fc4ae3	2025-12-21	මිරිස්සෙන් මුහුදු ගිය ධීවරයෝ පහක් අතුරුදන්	https://www.lankadeepa.lk/news/මරසසන-මහද-ගය-ධවරය-පහක-අතරදන/101-685631	si	lankadeepalk	1766317231.0
@@ -995,7 +999,3 @@ lk_news	2025-12-16-lankadeepalk-0b51515d	lankadeepalk-0b51515d	2025-12-16	ඖෂ
 lk_news	2025-12-16-lankadeepalk-1e9a651e	lankadeepalk-1e9a651e	2025-12-16	ගැබිනි කාන්තාවන්ට 5000ක පෝෂණ දීමනාවක්	https://www.lankadeepa.lk/news/ගබන-කනතවනට-5000ක-පෂණ-දමනවක/101-685373	si	lankadeepalk	1765878335.0
 lk_news	2025-12-16-adalk-391702a5	adalk-391702a5	2025-12-16	කොටගල සිට නානුඔය දක්වා දුම්රිය මාර්ග යථා තත්වයට පත් කිරිමට දිගු කාලයක් යනවා	https://www.ada.lk/picture_story/කොටගල-සිට-නානුඔය-දක්වා-දුම්රිය-මාර්ග-යථා-තත්වයට-පත්-කිරිමට-දිගු-කාලයක්-යනවා/10-420272	si	adalk	1765878297.0
 lk_news	2025-12-16-lankadeepalk-2b21a54e	lankadeepalk-2b21a54e	2025-12-16	සෞදි - ලංකා තැපැල් ගිවිසුමක්	https://www.lankadeepa.lk/latest_news/සද-ලක-තපල-ගවසමක/1-685372	si	lankadeepalk	1765878217.0
-lk_news	2025-12-16-lankadeepalk-aec723fb	lankadeepalk-aec723fb	2025-12-16	දිට්වාගෙන් ගොඩඑන සැලසුම	https://www.lankadeepa.lk/features/දටවගන-ගඩඑන-සලසම/2-685371	si	lankadeepalk	1765878192.0
-lk_news	2025-12-16-lankadeepalk-e28138e8	lankadeepalk-e28138e8	2025-12-16	ආයතනවල හිංසන මඩින ලෝක සම්මුතියට ලංකාවත් එක්වේ	https://www.lankadeepa.lk/news/ආයතනවල-හසන-මඩන-ලක-සමමතයට-ලකවත-එකව/101-685370	si	lankadeepalk	1765877991.0
-lk_news	2025-12-16-tamilmirrorlk-85bc0a5b	tamilmirrorlk-85bc0a5b	2025-12-16	நெல்லை  அரிசியாக்கி  விநியோகிக்க அங்காரம்	https://www.tamilmirror.lk/செய்திகள்/நெல்லை-அரிசியாக்கி-விநியோகிக்க-அங்காரம்/175-369619	ta	tamilmirrorlk	1765877462.0
-lk_news	2025-12-16-tamilmirrorlk-2a3f897e	tamilmirrorlk-2a3f897e	2025-12-16	நெல்லை  அரிசியாக்கி  விநியோகிக்க அங்கிகாரம்	https://www.tamilmirror.lk/செய்திகள்/நெல்லை-அரிசியாக்கி-விநியோகிக்க-அங்கிகாரம்/175-369619	ta	tamilmirrorlk	1765877462.0
