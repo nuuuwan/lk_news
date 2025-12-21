@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--21_21:17:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--21_21:46:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,539** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,540** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -56,11 +56,11 @@ A collection of lk_news documents.
 - 2025-12-21 | `lankadeepalk-7d0a2734` | දකුණු අප්‍රිකාවේ වෙඩි තැබීමකින් නවයක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-7d0a2734)
 - 2025-12-21 | `lankadeepalk-f23a2dee` | ජලාශ 36ක් උතුරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-f23a2dee)
 - 2025-12-21 | `tamilmirrorlk-d85c967e` | “IMF இணக்கப்பாட்டை திருத்தவும்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-tamilmirrorlk-d85c967e)
+- 2025-12-21 | `virakesarilk-cdbec21a` | ரணில் விக்கிரமசிங்க எதிர்க்கட்சிகளுக்கு பலமான ஆளுமை - உதய கம்மன்பில | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-cdbec21a)
 - 2025-12-21 | `tamilmirrorlk-b07f6742` | “பொறுப்புகளை நிறைவேற்றும் போதே  முன்னோக்கி செல்ல முடியும்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-tamilmirrorlk-b07f6742)
 - 2025-12-21 | `virakesarilk-c507513e` | ஜனா­தி­பதியிடம் கொழும்பு மாந­க­ர­ச­பையில் சுயேச்­சைக்­குழுவினர் மகஜர் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-c507513e)
 - 2025-12-21 | `virakesarilk-a12f4f78` | பாராளுமன்ற உறுப்பினர்களுக்கும் , பணிக்குழாமிற்கும் நீண்ட விடுமுறை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-a12f4f78)
 - 2025-12-21 | `tamilmirrorlk-7b6bcf75` | மதுபான விடுதிக்கு வெளியே துப்பாக்கிச் சூடு: 9 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-tamilmirrorlk-7b6bcf75)
-- 2025-12-21 | `virakesarilk-a65ee521` | பயங்கரவாதத்தத்திலிருந்து அரசை பாதுகாக்கும் சட்ட வரைவில் மோசமான விடயங்கள் உள்ளடக்கம் முற்றாக நீக்குவதை விடுத்து பதிலீடு செய்யும் அரசாங்கத்தின் செயற்பாட்டை எதிர்ப்பதாக சுமந்திரன் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-a65ee521)
 
 ---
 
