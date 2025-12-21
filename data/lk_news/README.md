@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_03:17:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_03:47:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,556** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,560** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-22-tamilmirrorlk-c334565a",
-    "num": "tamilmirrorlk-c334565a",
+    "doc_id": "2025-12-22-dailyftlk-b462087c",
+    "num": "dailyftlk-b462087c",
     "date_str": "2025-12-22",
-    "description": "\u0b95\u0bbe\u0b9a\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bbf\u0baf \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0b9a\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1-\u0b95\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bbf\u0baf-\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/50-369920",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1766351194.0
+    "description": "What not to do about the central hills",
+    "url_metadata": "https://www.ft.lk/columns/What-not-to-do-about-the-central-hills/4-785929",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766354890.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-22 | `dailyftlk-b462087c` | What not to do about the central hills | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-dailyftlk-b462087c)
+- 2025-12-22 | `dailyftlk-15b7cdce` | Single National Asset Tax (SNAT): A bold blueprint for disaster recovery, economic revolution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-dailyftlk-15b7cdce)
+- 2025-12-22 | `dailyftlk-179d3dbe` | Unsung Heroes of the Central Bank 3:  Dr. D. S. Wijesinghe, quantitative economist who did not have previous training in math | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-dailyftlk-179d3dbe)
 - 2025-12-22 | `tamilmirrorlk-c334565a` | காசாவின் மேற்கு கரையில் இஸ்ரேலிய குடியேற்றங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-c334565a)
 - 2025-12-21 | `virakesarilk-4093dffd` | அச்சுவேலி பகுதியில் தொடர் விபத்து: மோட்டார் சைக்கிள் மோதலில் ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-4093dffd)
 - 2025-12-21 | `virakesarilk-671a28a5` | வவுனியாவில் பெண் கழுத்தறுத்து கொலை செய்யப்பட்டமை தொடர்பில் கணவன் கைது: மேலதிக சிகிச்சைக்காக கணவன் யாழ் வைத்தியசாலைக்கு மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-671a28a5)
@@ -51,16 +54,13 @@ A collection of lk_news documents.
 - 2025-12-21 | `lankadeepalk-d0fa6fa1` | ‘‘සංස්කෘතියට අත නොතැබිය යුතුයි‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-d0fa6fa1)
 - 2025-12-21 | `lankadeepalk-d23634e6` | තලාව සභාවට අතුරු තහනමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-d23634e6)
 - 2025-12-21 | `lankadeepalk-188cc7b9` | ඔන්ඩැන්සෙට්‍රෝන් එන්නතේ ගැන මව් සමාගමෙන් ලිපියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-188cc7b9)
+- 2025-12-21 | `colombotelegraphcom-c55c6dd7` | One Of The World’s Most Climate-Vulnerable Nations, One Of The Least Prepared: Sri Lanka’s Deadly Choice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-colombotelegraphcom-c55c6dd7)
 - 2025-12-21 | `virakesarilk-aabe02a9` | வாள்வெட்டு சம்பவத்தில் இளைஞர் பரிதாப பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-aabe02a9)
 - 2025-12-21 | `virakesarilk-ad422d83` | இந்தியாவை வீழ்த்தி 19 வயதுக்குட்பட்ட ஆசிய கிண்ணத்தை 13 வருடங்களின் பின்னர் சுவீகரித்தது பாகிஸ்தான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-ad422d83)
 - 2025-12-21 | `virakesarilk-bfdb0b26` | ஜனாதிபதி நிதியத்தினால் க.பொ.த உயர்தரப் பரீட்சையில் சிறந்த  பெறுபேறுகளைப் பெற்ற மாணவர்கள் கௌரவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-bfdb0b26)
 - 2025-12-21 | `virakesarilk-e6d6a393` | கிளிநொச்சிக்கு விஜயம் செய்த பிரதமர் ஹரிணி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-e6d6a393)
 - 2025-12-21 | `virakesarilk-19a48fd2` | கொழும்பு சிறிமாவோ பண்டாரநாயக்க மாணவி விவகாரம்: கல்வி அமைச்சு அதிபரிடம் விளக்கம் கோரியுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-19a48fd2)
 - 2025-12-21 | `adalk-a5e43433` | ධීවරයින් පහක් සමග බහුදින යාත්‍රාවක් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-adalk-a5e43433)
-- 2025-12-21 | `virakesarilk-756c2523` | கிளிநொச்சியில் சந்திரகுமார், சிவஞானம் ஆகியோருக்கிடையில் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-756c2523)
-- 2025-12-21 | `virakesarilk-a9a08288` | ஜனவரி முதல் தொழிலாளர்களின்  சம்பள அதிகரிப்பு நடைமுறைப்படுத்தப்படும்  - அமைச்சர் சமந்த வித்தியாரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-a9a08288)
-- 2025-12-21 | `lankadeepalk-38aa8277` | වෙනිසියුලා තවත් තෙල් නැවක් ඇමෙරිකා බාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-38aa8277)
-- 2025-12-21 | `lankadeepalk-b0fc4ae3` | මිරිස්සෙන් මුහුදු ගිය ධීවරයෝ පහක් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-b0fc4ae3)
 
 ---
 

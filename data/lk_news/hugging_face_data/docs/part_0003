@@ -308317,6 +308317,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-21-colombotelegraphcom-c55c6dd7",
+    "num": "colombotelegraphcom-c55c6dd7",
+    "date_str": "2025-12-21",
+    "description": "One Of The World\u2019s Most Climate-Vulnerable Nations, One Of The Least Prepared: Sri Lanka\u2019s Deadly Choice",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/one-of-the-worlds-most-climate-vulnerable-nations-one-of-the-least-prepared-sri-lankas-deadly-choice/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1766335123.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-21-lankadeepalk-188cc7b9",
     "num": "lankadeepalk-188cc7b9",
     "date_str": "2025-12-21",
@@ -308424,5 +308435,38 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1766351194.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-179d3dbe",
+    "num": "dailyftlk-179d3dbe",
+    "date_str": "2025-12-22",
+    "description": "Unsung Heroes of the Central Bank 3:  Dr. D. S. Wijesinghe, quantitative economist who did not have previous training in math",
+    "url_metadata": "https://www.ft.lk/columns/Unsung-Heroes-of-the-Central-Bank-3-Dr-D-S-Wijesinghe-quantitative-economist-who-did-not-have-previous-training-in-math/4-785925",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766353845.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-15b7cdce",
+    "num": "dailyftlk-15b7cdce",
+    "date_str": "2025-12-22",
+    "description": "Single National Asset Tax (SNAT): A bold blueprint for disaster recovery, economic revolution",
+    "url_metadata": "https://www.ft.lk/opinion/Single-National-Asset-Tax-SNAT-A-bold-blueprint-for-disaster-recovery-economic-revolution/14-785927",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766354664.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-b462087c",
+    "num": "dailyftlk-b462087c",
+    "date_str": "2025-12-22",
+    "description": "What not to do about the central hills",
+    "url_metadata": "https://www.ft.lk/columns/What-not-to-do-about-the-central-hills/4-785929",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766354890.0
   }
 ]
