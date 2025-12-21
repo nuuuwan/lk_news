@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--21_12:25:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--21_12:46:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,455** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,459** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-21-lankadeepalk-1181701e",
-    "num": "lankadeepalk-1181701e",
+    "doc_id": "2025-12-21-lankadeepalk-6e81a9fe",
+    "num": "lankadeepalk-6e81a9fe",
     "date_str": "2025-12-21",
-    "description": "\u0d86\u0db4\u0daf\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d9a\u0dd0\u0da9\u0dd4\u0dab\u0dd4 \u0dc4\u0dd2\u0dad\u0dca \u0dc4\u0daf\u0db1\u0dca\u0db1 \u0db6\u0dbd\u0d9a\u0dcf\u0dba\u0d9a\u0dca \u0dc4\u0daf\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d86\u0db4\u0daf\u0dc0\u0db1-\u0d9a\u0da9\u0dab-\u0dc4\u0dad-\u0dc4\u0daf\u0db1\u0db1-\u0db6\u0dbd\u0d9a\u0dba\u0d9a-\u0dc4\u0daf\u0dba/101-685603",
+    "description": "\u0d85\u2019\u0db4\u0dd4\u0dbb- \u0d9a\u0db1\u0dca\u0d9a\u0dc3\u0db1\u0dca\u0dad\u0dd4\u0dbb\u0dba \u0d9a\u0ddd\u0da0\u0dca\u0da0\u0dd2 \u0dc4\u0dd9\u0da7 \u0d89\u0daf\u0db1\u0dca \u0dba\u0db1 \u0dc4\u0dd0\u0da7\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db4\u0dbb-\u0d9a\u0db1\u0d9a\u0dc3\u0db1\u0dad\u0dbb\u0dba-\u0d9a\u0da0\u0da0-\u0dc4\u0da7-\u0d89\u0daf\u0db1-\u0dba\u0db1-\u0dc4\u0da7/1-685606",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1766299234.0
+    "time_ut": 1766300742.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-21 | `lankadeepalk-6e81a9fe` | අ’පුර- කන්කසන්තුරය කෝච්චි හෙට ඉදන් යන හැටි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-6e81a9fe)
+- 2025-12-21 | `lankadeepalk-59e2f880` | කලාඔයේ ගිලී දෙදරු පියා අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-59e2f880)
+- 2025-12-21 | `tamilmirrorlk-e59e4c9c` | ’WhatsApp Web’ பயனாளர்களுக்கு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-tamilmirrorlk-e59e4c9c)
+- 2025-12-21 | `lankadeepalk-84cddb9d` | රට ගොඩනගන්න සංගම් දෙකකින් ලක්ෂ 28.5ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-84cddb9d)
 - 2025-12-21 | `lankadeepalk-1181701e` | ආපදාවෙන් කැඩුණු හිත් හදන්න බලකායක් හදයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-1181701e)
 - 2025-12-21 | `tamilmirrorlk-408b24ef` | தையிட்டியில்  பதற்றம்: ஐவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-tamilmirrorlk-408b24ef)
 - 2025-12-21 | `tamilmirrorlk-0eeb0635` | மண்ணுக்குள் புதைந்த இருவரில் ஒருவர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-tamilmirrorlk-0eeb0635)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-21 | `virakesarilk-85eb9ddd` | இந்தியாவை சீண்டுகிறதா இலங்கை? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-85eb9ddd)
 - 2025-12-21 | `virakesarilk-ac64ec86` | டித்வா சூறாவளியால் பாதிக்கப்பட் மக்களின் உள மேம்பாட்டுக்கான ‘Beyond Recovery’ மனிதாபிமான நடவடிக்கை ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-ac64ec86)
 - 2025-12-21 | `tamilmirrorlk-aba23ea2` | காப்புறுதி பணத்துக்காக பாம்பை விட்டு  தந்தையைகொன்ற மகன்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-tamilmirrorlk-aba23ea2)
-- 2025-12-21 | `virakesarilk-d013e07c` | ரஷ்யாவுடனும் உறவு: போக்கு காட்டும் இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-d013e07c)
-- 2025-12-21 | `virakesarilk-ea6866c5` | இ.தொ.காவுக்குள் என்ன நடக்கின்றது? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-ea6866c5)
-- 2025-12-21 | `tamilmirrorlk-90d8740e` | வாலிபரை கொன்று, கம்பத்தில் தொங்க விட்டு, உடலை எரித்த கொடூரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-tamilmirrorlk-90d8740e)
-- 2025-12-21 | `virakesarilk-4af56dc6` | சட்டவிரோத சிகரெட்டுகளுடன் விமான நிலையத்தில் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-4af56dc6)
 
 ---
 
