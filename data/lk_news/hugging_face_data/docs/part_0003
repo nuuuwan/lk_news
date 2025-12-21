@@ -308108,6 +308108,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-21-adalk-968fe259",
+    "num": "adalk-968fe259",
+    "date_str": "2025-12-21",
+    "description": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0db4\u0dbb\u0dcf\u0da2\u0dba \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dba\u0ddc\u0dc0\u0dd4\u0db1\u0dca \u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba \u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/sports/\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0-\u0db4\u0dbb\u0dcf\u0da2\u0dba-\u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca-\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0dba\u0ddc\u0dc0\u0dd4\u0db1\u0dca-\u0d9a\u0dd4\u0dc3\u0dbd\u0dcf\u0db1\u0dba-\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba\u0da7/9-420377",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1766317219.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-21-lankadeepalk-38aa8277",
     "num": "lankadeepalk-38aa8277",
     "date_str": "2025-12-21",

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--21_18:28:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--21_18:53:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,529** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,530** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,6 +43,7 @@ A collection of lk_news documents.
 
 - 2025-12-21 | `virakesarilk-756c2523` | கிளிநொச்சியில் சந்திரகுமார், சிவஞானம் ஆகியோருக்கிடையில் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-756c2523)
 - 2025-12-21 | `lankadeepalk-38aa8277` | වෙනිසියුලා තවත් තෙල් නැවක් ඇමෙරිකා බාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-38aa8277)
+- 2025-12-21 | `adalk-968fe259` | ඉන්දියාව පරාජය කරමින් ආසියානු යොවුන් කුසලානය පාකිස්තානයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-adalk-968fe259)
 - 2025-12-21 | `virakesarilk-86f2bbfa` | தென்னாப்பிரிக்காவில் துப்பாக்கி சூடு -  ஏழு பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-86f2bbfa)
 - 2025-12-21 | `virakesarilk-7360aa5b` | ஒவ்வொரு கடினமான சூழ்நிலையிலும் நாட்டிற்கும் மக்களுக்கும் இராணுவம் ஆற்றிய சேவை பாராட்டத்தக்கது ; ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-7360aa5b)
 - 2025-12-21 | `lankadeepalk-15dce253` | ඊලෝන් මස්ක් වාර්තාවකට සැරසෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-15dce253)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-21 | `lankadeepalk-d75898f4` | දකුණු අප්‍රිකාවේ වෙඩි තැබීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-d75898f4)
 - 2025-12-21 | `virakesarilk-c0b56b5e` | நிரப்ப வேண்­டிய இடை­வெளி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-c0b56b5e)
 - 2025-12-21 | `virakesarilk-27cca273` | மாகாணத் தேர்தலை விரைந்து  நடாத்த அழுத்தமளியுங்கள்  -வெளிவிவகார அமைச்சர் ஜெய்சங்கர் ஊடாக  பிரதமர் மோடிக்கு கடிதம் அனுப்ப தமிழ்த்தலைவர்கள் முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-27cca273)
-- 2025-12-21 | `virakesarilk-27d1397b` | நிர்­க்க­தி­யாகும் பேரிடர் நிவா­ரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-27d1397b)
 
 ---
 
