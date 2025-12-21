@@ -300683,6 +300683,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-edf49db4",
+    "num": "islandlk-edf49db4",
+    "date_str": "2025-12-18",
+    "description": "Flawed drug regulation endangers lives",
+    "url_metadata": "http://island.lk/flawed-drug-regulation-endangers-lives/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1765997820.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-18-dbsjeyarajcom-abc4a5b7",
     "num": "dbsjeyarajcom-abc4a5b7",
     "date_str": "2025-12-18",
@@ -304995,11 +305006,33 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-19-islandlk-3718bbab",
+    "num": "islandlk-3718bbab",
+    "date_str": "2025-12-19",
+    "description": "David Pieris Group expands global footprint with investment in Dubai-based Navire Logistics",
+    "url_metadata": "http://island.lk/david-pieris-group-expands-global-footprint-with-investment-in-dubai-based-navire-logistics/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766156460.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-19-islandlk-541abba7",
     "num": "islandlk-541abba7",
     "date_str": "2025-12-19",
     "description": "Port City Colombo joins Western Province\u2019s \u2018Lights of Hope\u2019 amid national recovery",
     "url_metadata": "http://island.lk/port-city-colombo-joins-western-provinces-lights-of-hope-amid-national-recovery/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766156460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-19-islandlk-a7b211d5",
+    "num": "islandlk-a7b211d5",
+    "date_str": "2025-12-19",
+    "description": "HNB strengthens national response to Cyclone Ditwah",
+    "url_metadata": "http://island.lk/hnb-strengthens-national-response-to-cyclone-ditwah/",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1766156460.0
@@ -305886,6 +305919,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-2ba12dd8",
+    "num": "islandlk-2ba12dd8",
+    "date_str": "2025-12-20",
+    "description": "The Atrophied Wife",
+    "url_metadata": "http://island.lk/the-atrophied-wife/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766213040.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-20-virakesarilk-9545fe20",
     "num": "virakesarilk-9545fe20",
     "date_str": "2025-12-20",
@@ -306029,6 +306073,94 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-8fdccc82",
+    "num": "islandlk-8fdccc82",
+    "date_str": "2025-12-20",
+    "description": "More on my time as a UNP MP(",
+    "url_metadata": "http://island.lk/more-on-my-time-as-a-unp-mp/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766216880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-ef4c6662",
+    "num": "islandlk-ef4c6662",
+    "date_str": "2025-12-20",
+    "description": "Why the Proposed Amendments to Sri Lanka\u2019s Universities Act Raise Fears of Authoritarianism, Democratic Backsliding, and a Dangerous Precedent for Academic Freedom",
+    "url_metadata": "http://island.lk/why-the-proposed-amendments-to-sri-lankas-universities-act-raise-fears-of-authoritarianism-democratic-backsliding-and-a-dangerous-precedent-for-academic-freedom/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766216880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-39b04b5f",
+    "num": "islandlk-39b04b5f",
+    "date_str": "2025-12-20",
+    "description": "Jaffna Hindu College earns regional praise at AIA Healthiest Schools Competition",
+    "url_metadata": "http://island.lk/jaffna-hindu-college-earns-regional-praise-at-aia-healthiest-schools-competition/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766217720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-01ac33b8",
+    "num": "islandlk-01ac33b8",
+    "date_str": "2025-12-20",
+    "description": "ComBank celebrates pensioners with a dedicated event in Gampaha",
+    "url_metadata": "http://island.lk/combank-celebrates-pensioners-with-a-dedicated-event-in-gampaha/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766217780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-184417be",
+    "num": "islandlk-184417be",
+    "date_str": "2025-12-20",
+    "description": "HNB Assurance Marks Major Milestones in Its Technological Transformation Journey",
+    "url_metadata": "http://island.lk/hnb-assurance-marks-major-milestones-in-its-technological-transformation-journey/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766217780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-cda8c238",
+    "num": "islandlk-cda8c238",
+    "date_str": "2025-12-20",
+    "description": "Lion Brewery (Ceylon) PLC Reaffirms Commitment to Flood Resilience and Community Support in Biyagama",
+    "url_metadata": "http://island.lk/lion-brewery-ceylon-plc-reaffirms-commitment-to-flood-resilience-and-community-support-in-biyagama/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766217780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-c0d12cff",
+    "num": "islandlk-c0d12cff",
+    "date_str": "2025-12-20",
+    "description": "Intractability of ragging in universities",
+    "url_metadata": "http://island.lk/intractability-of-ragging-in-universities/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766218740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-7303f099",
+    "num": "islandlk-7303f099",
+    "date_str": "2025-12-20",
+    "description": "Sampath Bank Expands Sustainable Mobility Access Through Strategic Partnership with Hayleys Mobility",
+    "url_metadata": "http://island.lk/sampath-bank-expands-sustainable-mobility-access-through-strategic-partnership-with-hayleys-mobility/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766218860.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-20-virakesarilk-09eaec1a",
     "num": "virakesarilk-09eaec1a",
     "date_str": "2025-12-20",
@@ -306037,6 +306169,39 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766219220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-280b26eb",
+    "num": "islandlk-280b26eb",
+    "date_str": "2025-12-20",
+    "description": "A World of Books:Martin Wickramasinghe in Colombo",
+    "url_metadata": "http://island.lk/a-world-of-booksmartin-wickramasinghe-in-colombo/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766219460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-08d1364f",
+    "num": "islandlk-08d1364f",
+    "date_str": "2025-12-20",
+    "description": "Prof. G. L. Peiris offers a rare insider\u2019s account of Sri Lanka\u2019s peace talks with the LTTE",
+    "url_metadata": "http://island.lk/prof-g-l-peiris-offers-a-rare-insiders-account-of-sri-lankas-peace-talks-with-the-ltte/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766219880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-cdddaff6",
+    "num": "islandlk-cdddaff6",
+    "date_str": "2025-12-20",
+    "description": "Hatton Plantations and WNPS PLANT Launch 24 km Riparian Forest Corridor",
+    "url_metadata": "http://island.lk/hatton-plantations-and-wnps-plant-launch-24-km-riparian-forest-corridor/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766219940.0
   },
   {
     "doc_type": "lk_news",
