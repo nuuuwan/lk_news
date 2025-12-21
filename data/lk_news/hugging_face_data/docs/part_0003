@@ -308240,6 +308240,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-21-virakesarilk-08a218fd",
+    "num": "virakesarilk-08a218fd",
+    "date_str": "2025-12-21",
+    "description": "\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b95\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bcb\u0bb1\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0b87\u0bb0\u0bbe\u0bae\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0b9a\u0bc7\u0b95\u0bb0\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/234037",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766318580.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-21-virakesarilk-756c2523",
     "num": "virakesarilk-756c2523",
     "date_str": "2025-12-21",
@@ -308303,6 +308314,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766329140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-21-colombotelegraphcom-2e2e2a46",
+    "num": "colombotelegraphcom-2e2e2a46",
+    "date_str": "2025-12-21",
+    "description": "Unsung Heroes Of The Central Bank: Dr. D. S. Wijesinghe, Quantitative Economist Who Did Not Have Previous Training In Math",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/unsung-heroes-of-the-central-bank-dr-d-s-wijesinghe-quantitative-economist-who-did-not-have-previous-training-in-math/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1766329225.0
   },
   {
     "doc_type": "lk_news",
@@ -308468,5 +308490,60 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766354890.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-2199490c",
+    "num": "dailyftlk-2199490c",
+    "date_str": "2025-12-22",
+    "description": "A nation overwhelmed \u2013 but not powerless",
+    "url_metadata": "https://www.ft.lk/columns/A-nation-overwhelmed-but-not-powerless/4-785930",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766355662.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-virakesarilk-502d7043",
+    "num": "virakesarilk-502d7043",
+    "date_str": "2025-12-22",
+    "description": "\u0baa\u0bbe\u0bb0\u0bae\u0bcd\u0baa\u0bb0\u0bbf\u0baf \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0ba4\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd, \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0b92\u0ba4\u0bcd\u0ba4\u0bc1\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd - \u0ba8\u0bb3\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9c\u0baf\u0ba4\u0bbf\u0bb8\u0bcd\u0bb8",
+    "url_metadata": "https://www.virakesari.lk/article/234047",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766355900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-virakesarilk-fc83a453",
+    "num": "virakesarilk-fc83a453",
+    "date_str": "2025-12-22",
+    "description": "\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd \u0baa\u0bc6\u0bb2\u0bcd\u0bb2\u0ba9\u0bcd \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd: \u0baa\u0ba3\u0bbf \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b85\u0bb3\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0bb0\u0ba4\u0bc2\u0bb0\u0bae\u0bb2\u0bcd\u0bb2 \u2013 \u0bb5\u0b9c\u0bbf\u0bb0 \u0b85\u0baa\u0bc7\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9",
+    "url_metadata": "https://www.virakesari.lk/article/234048",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766356260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-virakesarilk-1fda6622",
+    "num": "virakesarilk-1fda6622",
+    "date_str": "2025-12-22",
+    "description": "25 \u0b86\u0baf\u0bbf\u0bb0\u0bae\u0bcd \u0bb0\u0bc2\u0baa\u0bbe \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3\u0bae\u0bcd 69.56 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0ba9\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 -\u00a0\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3 \u0b9a\u0bc7\u0bb5\u0bc8 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/234049",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766356440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-virakesarilk-ccb98e92",
+    "num": "virakesarilk-ccb98e92",
+    "date_str": "2025-12-22",
+    "description": "\u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bbf\u0ba9\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0b9a\u0bbe\u0bb0\u0bcd \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0b95 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd -\u00a0\u0ba8\u0bb2\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9c\u0baf\u0ba4\u0bbf\u0bb8\u0bcd\u0bb8",
+    "url_metadata": "https://www.virakesari.lk/article/234050",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766356620.0
   }
 ]
