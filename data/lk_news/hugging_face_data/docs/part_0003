@@ -308284,6 +308284,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-21-colombotelegraphcom-24bf8fa8",
+    "num": "colombotelegraphcom-24bf8fa8",
+    "date_str": "2025-12-21",
+    "description": "Infrastructure Work On 11 Smart Industrial Cities In India To Begin By December 2025",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/infrastructure-work-on-11-smart-industrial-cities-in-india-to-begin-by-december-2025/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1766323877.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-21-virakesarilk-e6d6a393",
     "num": "virakesarilk-e6d6a393",
     "date_str": "2025-12-21",
@@ -308449,6 +308460,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-21-colombotelegraphcom-c640cca2",
+    "num": "colombotelegraphcom-c640cca2",
+    "date_str": "2025-12-21",
+    "description": "Reconstruction, Stability & Economic Revival After Ditwah: A Non-Debt External Financing Strategy For Sri Lanka",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/reconstruction-stability-economic-revival-after-ditwah-a-non-debt-external-financing-strategy-for-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1766338416.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-22-tamilmirrorlk-c334565a",
     "num": "tamilmirrorlk-c334565a",
     "date_str": "2025-12-22",
@@ -308545,5 +308567,16 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766356620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-b4d53e65",
+    "num": "dailyftlk-b4d53e65",
+    "date_str": "2025-12-22",
+    "description": "Let us rise together with resilience, courage and determination",
+    "url_metadata": "https://www.ft.lk/columns/Let-us-rise-together-with-resilience-courage-and-determination/4-785931",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766357263.0
   }
 ]
