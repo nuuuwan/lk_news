@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_01:15:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_01:47:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,553** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,555** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -57,10 +57,10 @@ A collection of lk_news documents.
 - 2025-12-21 | `virakesarilk-19a48fd2` | கொழும்பு சிறிமாவோ பண்டாரநாயக்க மாணவி விவகாரம்: கல்வி அமைச்சு அதிபரிடம் விளக்கம் கோரியுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-19a48fd2)
 - 2025-12-21 | `adalk-a5e43433` | ධීවරයින් පහක් සමග බහුදින යාත්‍රාවක් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-adalk-a5e43433)
 - 2025-12-21 | `virakesarilk-756c2523` | கிளிநொச்சியில் சந்திரகுமார், சிவஞானம் ஆகியோருக்கிடையில் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-756c2523)
+- 2025-12-21 | `virakesarilk-a9a08288` | ஜனவரி முதல் தொழிலாளர்களின்  சம்பள அதிகரிப்பு நடைமுறைப்படுத்தப்படும்  - அமைச்சர் சமந்த வித்தியாரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-a9a08288)
 - 2025-12-21 | `lankadeepalk-38aa8277` | වෙනිසියුලා තවත් තෙල් නැවක් ඇමෙරිකා බාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-38aa8277)
 - 2025-12-21 | `lankadeepalk-b0fc4ae3` | මිරිස්සෙන් මුහුදු ගිය ධීවරයෝ පහක් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-b0fc4ae3)
 - 2025-12-21 | `adalk-968fe259` | ඉන්දියාව පරාජය කරමින් ආසියානු යොවුන් කුසලානය පාකිස්තානයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-adalk-968fe259)
-- 2025-12-21 | `virakesarilk-86f2bbfa` | தென்னாப்பிரிக்காவில் துப்பாக்கி சூடு -  ஏழு பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-86f2bbfa)
 
 ---
 
