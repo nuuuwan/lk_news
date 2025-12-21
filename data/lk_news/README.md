@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--21_14:48:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--21_15:17:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,480** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,481** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A collection of lk_news documents.
 - 2025-12-21 | `lankadeepalk-fc6eced4` | වැඩ තහනම් වූ පීසී කෝටි 8ක මත්ද්‍රව්‍ය සමඟ මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-fc6eced4)
 - 2025-12-21 | `tamilmirrorlk-10920d2b` | திருக்கோயிலில் இளைஞன் மீது பொலிஸார் துப்பாக்கி சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-tamilmirrorlk-10920d2b)
 - 2025-12-21 | `tamilmirrorlk-594a38ac` | பத்தனை விபத்தில் காயமடைந்தவரும் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-tamilmirrorlk-594a38ac)
+- 2025-12-21 | `adalk-abf38547` | වායුගෝලීය ගුණාත්මකභාවය පහළ යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-adalk-abf38547)
 - 2025-12-21 | `tamilmirrorlk-99b8a5c3` | வெருகலில் வௌ்ளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-tamilmirrorlk-99b8a5c3)
 - 2025-12-21 | `lankadeepalk-22212836` | විපතට පත් මිනිස්සුන්ගේ ප්‍රශ්න වලට විසඳුම් දෙන පාටක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-22212836)
 - 2025-12-21 | `lankadeepalk-13b5b0e8` | ලංකාව බටහිර -සම්ප්‍රදායික වෛද්‍ය ක්‍රම එක් කරන වෑයමක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-lankadeepalk-13b5b0e8)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-21 | `virakesarilk-92d64525` | போதைப்பொருட்களை விற்பனை செய்யும்  மத்திய நிலையமாக பல்கலைக்கழக பீடம்  - புலனாய்வு தகவல் கிடைத்துள்ளதாக பிரதமர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-92d64525)
 - 2025-12-21 | `tamilmirrorlk-0eeb0635` | மண்ணுக்குள் புதைந்த இருவரில் ஒருவர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-tamilmirrorlk-0eeb0635)
 - 2025-12-21 | `adalk-074ecf61` | තරග දෙකක් ඉතිරිව තිබියදී අලුබඳුන ශූරතාව ඕස්ට්‍රේලියාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-adalk-074ecf61)
-- 2025-12-21 | `virakesarilk-fb0b1887` | அதிகரிக்கும் போர் பதற்றம் - வானில் வட்டமிட்ட சீன போர் விமானங்கள் :எச்சரிக்கும் தாய்வான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-virakesarilk-fb0b1887)
 
 ---
 
