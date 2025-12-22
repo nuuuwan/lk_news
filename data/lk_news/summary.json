@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-23 01:47:00",
-  "n_docs": 94770,
+  "time_updated": "2025-12-23 02:19:51",
+  "n_docs": 94771,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 94770,
+  "n_docs_with_text": 94771,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-23",
-  "dataset_size": 1428200436,
+  "dataset_size": 1428220499,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-23-dailyftlk-954e1382",
-    "num": "dailyftlk-954e1382",
+    "doc_id": "2025-12-23-dailyftlk-1c229980",
+    "num": "dailyftlk-1c229980",
     "date_str": "2025-12-23",
-    "description": "Rebuilding businesses after Cyclone Ditwah",
-    "url_metadata": "https://www.ft.lk/columns/Rebuilding-businesses-after-Cyclone-Ditwah/4-785977",
+    "description": "From\u00a0disaster to\u00a0economic\u00a0resilience",
+    "url_metadata": "https://www.ft.lk/columns/Fromdisaster-toeconomicresilience/4-785978",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1766433788.0
+    "time_ut": 1766434398.0
   }
 }
