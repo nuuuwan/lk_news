@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_11:50:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_12:27:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,635** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,657** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-22-lankadeepalk-40a3f791",
-    "num": "lankadeepalk-40a3f791",
+    "doc_id": "2025-12-22-tamilmirrorlk-3bfc86ec",
+    "num": "tamilmirrorlk-3bfc86ec",
     "date_str": "2025-12-22",
-    "description": "\u0db8\u0dcf\u0dad\u0dbb \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb \u0db1\u0dd2\u0dba\u0dcf\u0db8\u0d9a\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dad\u0dbb-\u0db6\u0db1\u0db0\u0db1\u0d9c\u0dbb-\u0db1\u0dba\u0db8\u0d9a\u0dc0\u0dbb\u0dba\u0d9a-\u0d85\u0dad\u0d85\u0da9\u0d9c\u0dc0\u0da7/101-685673",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1766383743.0
+    "description": "\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3 \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-369954",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1766386242.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-22 | `tamilmirrorlk-3bfc86ec` | நிர்வாண சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-3bfc86ec)
+- 2025-12-22 | `tamilmirrorlk-735d9f4a` | உலகின் மிகப்பெரிய அணு மின் நிலையம்  ஜப்பானில் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-735d9f4a)
+- 2025-12-22 | `tamilmirrorlk-1e7ad418` | ஹட்டனில் அதிரடி அறிவிப்பு: மக்களே உஷார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-1e7ad418)
+- 2025-12-22 | `virakesarilk-fbcdb854` | அம்பலாங்கொடை துப்பாக்கிச் சூட்டு சம்பவத்துக்கு பயன்படுத்தப்பட்ட மோட்டார் சைக்கிள் கண்டுபிடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-fbcdb854)
+- 2025-12-22 | `virakesarilk-a88cce74` | காற்றின் தரத்தில் மாற்றம் - மக்களுக்கு விடுக்கப்பட்டுள்ள எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-a88cce74)
+- 2025-12-22 | `tamilmirrorlk-62b019f5` | PSTA ஆக மாறும் PTA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-62b019f5)
+- 2025-12-22 | `adalk-3840430f` | දිට්වා නිසා බිඳවැටුණු සබඳතා ගොඩනගා ගැනීමට HUTCH | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-3840430f)
+- 2025-12-22 | `virakesarilk-b34c5a91` | இந்தோனேஷியாவில் வீதியில் பஸ் கவிழ்ந்து விபத்து ; 15 பேர் பலி; 19 பேர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-b34c5a91)
+- 2025-12-22 | `virakesarilk-215b6689` | உலகின் மிகப்பெரிய அணு மின் நிலையத்தை மீண்டும் ஆரம்பிக்க தயாராகிறது ஜப்பான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-215b6689)
+- 2025-12-22 | `tamilmirrorlk-ae0d8f47` | விளையாட்டு துப்பாக்கியுடன் வந்தவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-ae0d8f47)
+- 2025-12-22 | `tamilmirrorlk-fb33541c` | பொதியை வீசிய சிறைச்சாலைக் காவலர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-fb33541c)
+- 2025-12-22 | `lankadeepalk-0e01c11a` | ජපානය ලොව ලොකුම න්‍යෂ්ටික බලාගාරය අරඹන්න සූදානම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-0e01c11a)
+- 2025-12-22 | `tamilmirrorlk-ce42b82a` | சிலிண்டர் இன்றி தடுமாறும் மக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-ce42b82a)
+- 2025-12-22 | `virakesarilk-3cf6a0d9` | மின்சார வேலியில் சிக்கி காட்டு யானை உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-3cf6a0d9)
+- 2025-12-22 | `virakesarilk-6b70da3e` | பண்டிகைக் கால பாதுகாப்பு: இராணுவத் தலைமையகத்தில் விசேட செயற்பாட்டு அறை திறப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-6b70da3e)
+- 2025-12-22 | `lankadeepalk-91d32f23` | ‘‍දිට්වා’ පුනරුදයේ හැරවුම් ලක්ෂයද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-91d32f23)
+- 2025-12-22 | `adalk-9da17bcb` | ඉන්දීය විදේශ කටයුතු ඇමැති අද මෙරටට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-9da17bcb)
 - 2025-12-22 | `lankadeepalk-40a3f791` | මාතර බන්ධනාගාර නියාමකවරයෙක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-40a3f791)
 - 2025-12-22 | `virakesarilk-50df06c8` | உக்ரைன் மீது 1300 ட்ரோன் தாக்குதல்களை நடத்திய ரஷ்யா ; போர், தொடங்கிய இடத்துக்கே திரும்பும்! - உக்ரைன் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-50df06c8)
 - 2025-12-22 | `virakesarilk-0b659034` | பயங்கரவாத தடைச்சட்டம் ;  தேசிய மக்கள் சக்தி அரசின் இரட்டை வேடத்தை சாடும் ராஜ்குமார் ரஜீவ்காந்த் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-0b659034)
-- 2025-12-22 | `virakesarilk-1d4d62f6` | சீனாவுக்கு இரத்தினக் கற்களை கடத்த முயன்ற இலங்கையர்கள் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-1d4d62f6)
-- 2025-12-22 | `virakesarilk-116aaca2` | பஸ் ஊழியர்களுக்கு கசிப்பு விற்பனை செய்த கர்ப்பிணிப் பெண் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-116aaca2)
-- 2025-12-22 | `tamilmirrorlk-0a67aeb8` | நோர்வூட் பிரதேச செயலகத்தின் கவனத்துக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-0a67aeb8)
-- 2025-12-22 | `virakesarilk-931cc861` | கொழும்பு - கண்டி பிரதான வீதியில் விற்பனை நிலையம் ஒன்றில் தீ பரவல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-931cc861)
-- 2025-12-22 | `virakesarilk-ea9381ec` | தெஹிவளை மிருகக்காட்சிசாலையில் 22 ஆண்டுகள் வாழ்ந்த கிப்பன் குரங்கு உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-ea9381ec)
-- 2025-12-22 | `virakesarilk-7aa82b39` | இவ்வாண்டில் 3 இலட்சத்துக்கு மேற்பட்டோர் வேலைவாய்ப்புக்காக வெளிநாடு சென்றுள்ளனர் - இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-7aa82b39)
-- 2025-12-22 | `lankadeepalk-ee0f43bb` | සෙල්ලම් පිස්තෝලයක් සමඟ අයෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-ee0f43bb)
-- 2025-12-22 | `tamilmirrorlk-cfa1ae69` | ’ஐஸ்’ பொதியிட்ட விளையாட்டு ஆசிரியர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-cfa1ae69)
-- 2025-12-22 | `tamilmirrorlk-14aff8ce` | மோப்ப நாய்களை கேட்கிறது அரசாங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-14aff8ce)
-- 2025-12-22 | `virakesarilk-6d83f532` | குறிப்பிட்ட சிலருக்கு மாத்திரம் சலுகைகளைப் பெற்றுக்கொடுப்பது எமது அரசாங்கத்தின் கொள்கையல்ல - பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-6d83f532)
-- 2025-12-22 | `virakesarilk-72069965` | கடலுக்கு அடியில் தங்கப் புதையல் - ஆசியாவையே அதிர வைத்த சீனா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-72069965)
-- 2025-12-22 | `virakesarilk-6ffc9894` | அழிபாடுகளில் இருந்து மீட்சிக்கு முன்னால் உள்ள  நீண்ட இடர்மிகு பாதை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-6ffc9894)
-- 2025-12-22 | `virakesarilk-5b67fcdb` | திஸ்ஸ விகாரை சம்பவம் ; நீதிமன்ற உத்தரவுகளை மீறிய ஐவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-5b67fcdb)
-- 2025-12-22 | `tamilmirrorlk-48fba39d` | இலங்கையில் மோசமடையும் காற்றின் தரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-48fba39d)
-- 2025-12-22 | `adalk-d3cebffc` | අම්බලන්ගොඩ වෙඩි තැබීමකින් කළමනාකරුවෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-d3cebffc)
-- 2025-12-22 | `tamilmirrorlk-0277a59f` | 22 ஆண்டுகளுக்குப் பிறகு உயிரிழந்த  கிப்பன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-0277a59f)
-- 2025-12-22 | `virakesarilk-53727bfe` | யாழ். உடுவிலில் ஐஸ் போதைப்பொருடன் இளைஞர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-53727bfe)
 
 ---
 
