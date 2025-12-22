@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_22:48:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_23:18:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,758** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,759** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,6 +43,7 @@ A collection of lk_news documents.
 
 - 2025-12-22 | `adalk-e3d8459e` | ජනවාරි සිට නොවැම්බර් දක්වා අපනයන ආදායම ඩො.බි. 15.78 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-e3d8459e)
 - 2025-12-22 | `adalk-3f7d1376` | නවෝත්පාදන යෝජනා 9කට මූල්‍ය අනුග්‍රහය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-3f7d1376)
+- 2025-12-22 | `adalk-223b3264` | කොළඹ මහ නගර සභා අයවැය මාලිමාව පරදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-223b3264)
 - 2025-12-22 | `adalk-8127c8c0` | දිත්වා කර ඇති සෘජු හානිය ඩොලර් බිලියන 4.1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-8127c8c0)
 - 2025-12-22 | `lankadeepalk-6fbb831c` | කොහුවල වෙඩිතැබීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-6fbb831c)
 - 2025-12-22 | `lankadeepalk-9aa570a0` | අලුත් ව්‍යාපෘති නවයකට ගිවිසුම් ගත වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-9aa570a0)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-22 | `tamilmirrorlk-730f505d` | இலங்கையை வந்தடைந்தார் ஜெய்சங்கர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-730f505d)
 - 2025-12-22 | `virakesarilk-4dcc5645` | கிழக்கில் நிலம் சார்ந்த அநீதிகள் ; இந்த ஊழலற்ற ஆட்சியில் என்றேனும் தீர்வு கிடைக்குமா? - குச்சவெளி பிரதேச சபை உறுப்பினர் டனுசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-4dcc5645)
 - 2025-12-22 | `lankadeepalk-c2eec5e0` | ඉන්දීය විදේශ ඇමැති දිවයිනට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-c2eec5e0)
-- 2025-12-22 | `virakesarilk-1ece5e2e` | கொழும்பை வந்தடைந்தார் இந்திய வெளியுறவுத்துறை அமைச்சர் ஜெய்ஷங்கர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-1ece5e2e)
 
 ---
 
