@@ -310767,5 +310767,16 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1766427999.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-954e1382",
+    "num": "dailyftlk-954e1382",
+    "date_str": "2025-12-23",
+    "description": "Rebuilding businesses after Cyclone Ditwah",
+    "url_metadata": "https://www.ft.lk/columns/Rebuilding-businesses-after-Cyclone-Ditwah/4-785977",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766433788.0
   }
 ]
