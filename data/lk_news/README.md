@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_22:24:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_22:48:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,756** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,758** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-22-adalk-8127c8c0",
-    "num": "adalk-8127c8c0",
+    "doc_id": "2025-12-22-adalk-e3d8459e",
+    "num": "adalk-e3d8459e",
     "date_str": "2025-12-22",
-    "description": "\u0daf\u0dd2\u0dad\u0dca\u0dc0\u0dcf \u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0dc3\u0dd8\u0da2\u0dd4 \u0dc4\u0dcf\u0db1\u0dd2\u0dba \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 4.1",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd2\u0dad\u0dca\u0dc0\u0dcf-\u0d9a\u0dbb-\u0d87\u0dad\u0dd2-\u0dc3\u0dd8\u0da2\u0dd4-\u0dc4\u0dcf\u0db1\u0dd2\u0dba-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-4-1/11-420402",
+    "description": "\u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 \u0dc3\u0dd2\u0da7 \u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d85\u0db4\u0db1\u0dba\u0db1 \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0da9\u0ddc.\u0db6\u0dd2. 15.78",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2-\u0dc3\u0dd2\u0da7-\u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0d86\u0daf\u0dcf\u0dba\u0db8-\u0da9\u0ddc-\u0db6\u0dd2--15-78/11-420405",
     "lang": "si",
     "newspaper_id": "adalk",
-    "time_ut": 1766420346.0
+    "time_ut": 1766423077.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-22 | `adalk-e3d8459e` | ජනවාරි සිට නොවැම්බර් දක්වා අපනයන ආදායම ඩො.බි. 15.78 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-e3d8459e)
+- 2025-12-22 | `adalk-3f7d1376` | නවෝත්පාදන යෝජනා 9කට මූල්‍ය අනුග්‍රහය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-3f7d1376)
 - 2025-12-22 | `adalk-8127c8c0` | දිත්වා කර ඇති සෘජු හානිය ඩොලර් බිලියන 4.1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-8127c8c0)
 - 2025-12-22 | `lankadeepalk-6fbb831c` | කොහුවල වෙඩිතැබීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-6fbb831c)
 - 2025-12-22 | `lankadeepalk-9aa570a0` | අලුත් ව්‍යාපෘති නවයකට ගිවිසුම් ගත වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-9aa570a0)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-22 | `virakesarilk-4dcc5645` | கிழக்கில் நிலம் சார்ந்த அநீதிகள் ; இந்த ஊழலற்ற ஆட்சியில் என்றேனும் தீர்வு கிடைக்குமா? - குச்சவெளி பிரதேச சபை உறுப்பினர் டனுசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-4dcc5645)
 - 2025-12-22 | `lankadeepalk-c2eec5e0` | ඉන්දීය විදේශ ඇමැති දිවයිනට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-c2eec5e0)
 - 2025-12-22 | `virakesarilk-1ece5e2e` | கொழும்பை வந்தடைந்தார் இந்திய வெளியுறவுத்துறை அமைச்சர் ஜெய்ஷங்கர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-1ece5e2e)
-- 2025-12-22 | `virakesarilk-23340e76` | கண்டியில் இரண்டு பாடசாலைகளுக்கு தேசிய கட்டிட ஆராய்ச்சி நிறுவனத்தினர் விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-23340e76)
-- 2025-12-22 | `virakesarilk-28ae5974` | ஆசிரியர் - அதிபர் தொழிற்சங்கக் கூட்டமைப்புக்கும் பிரதமருக்கும் இடையில் விசேட சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-28ae5974)
 
 ---
 
