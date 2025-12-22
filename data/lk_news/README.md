@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_19:48:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_20:48:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,747** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,751** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-22-lankadeepalk-fb174958",
-    "num": "lankadeepalk-fb174958",
+    "doc_id": "2025-12-22-virakesarilk-8d7d00ac",
+    "num": "virakesarilk-8d7d00ac",
     "date_str": "2025-12-22",
-    "description": "\u0daf\u0dd9\u0dc4\u0dd2\u0dc0\u0dad\u0dca\u0dad\u0dda \u0db4\u0dcf\u0dbb\u0d9a\u0dca \u0d9c\u0dd0\u0dbd\u0dc0\u0dd3 \u0dba\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0daf\u0dc4\u0dc0\u0dad\u0dad-\u0db4\u0dbb\u0d9a-\u0d9c\u0dbd\u0dc0-\u0dba\u0dba/1-685714",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1766412807.0
+    "description": "\u2018\u0b9f\u0bbf\u0ba4\u0bcd\u0bb5\u0bbe\u2019 \u0b9a\u0bc2\u0bb1\u0bbe\u0bb5\u0bb3\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd 4.1 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b9f\u0bca\u0bb2\u0bb0\u0bcd \u0b89\u0b9f\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0b9a\u0bc7\u0ba4\u0bae\u0bcd \u2013 \u0b89\u0bb2\u0b95 \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/234142",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766414580.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-22 | `virakesarilk-8d7d00ac` | ‘டித்வா’ சூறாவளியால் இலங்கையில் 4.1 பில்லியன் அமெரிக்க டொலர் உடமைகள் சேதம் – உலக வங்கி அறிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-8d7d00ac)
+- 2025-12-22 | `virakesarilk-033a5d6d` | சொலிட் கழகத்தை வீழ்த்தி முதல் வெற்றியை சுவைத்தது பெலிக்கன்ஸ்; சோண்டர்ஸ் - நிகம்போ யூத் போட்டி வெற்றிதோல்வியின்றி முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-033a5d6d)
+- 2025-12-22 | `lankadeepalk-986082b3` | ’’දිට්වා’’ හානිය ඩොලර් කෝටි හාරසිය දහයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-986082b3)
+- 2025-12-22 | `lankadeepalk-72e12c87` | ‘‘පාසල් විනාඩි 30ක් දිගු කිරීම සාමූහික තීරණයක්‘‘ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-72e12c87)
 - 2025-12-22 | `lankadeepalk-fb174958` | දෙහිවත්තේ පාරක් ගැලවී යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-fb174958)
 - 2025-12-22 | `lankadeepalk-9c506b78` | අලියා පිළිස්සු වීඩියෝව දුන් සිසුවා අලි අමාරුවක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-9c506b78)
 - 2025-12-22 | `lankadeepalk-a1d614e0` | මන්ත්‍රි ශාන්ත පත්මකුමාර බලහත්කාරකම් කළැයි පී.සීට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-a1d614e0)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-22 | `virakesarilk-d961ad03` | மட்டக்களப்பு மாநகர சபையின்  வரவு – செலவுத் திட்டம் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-d961ad03)
 - 2025-12-22 | `virakesarilk-5bd7ce85` | புகையிலை, மதுபானம் மீது கடுமையான கட்டுப்பாடுகள் தேவை ; சுகாதார பிரதி அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-5bd7ce85)
 - 2025-12-22 | `virakesarilk-520f466d` | வெருகல் பகுதியில் கைதுசெய்யப்பட்ட ஆர்ப்பாட்டக்காரர்கள் பிணையில் விடுதலை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-520f466d)
-- 2025-12-22 | `virakesarilk-987fdcbf` | சுவிட்சர்லாந்து தேசிய பேரவையின் 2ஆவது துணைத் தலைவராக இலங்கை வம்சாவளி பெண் தெரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-987fdcbf)
-- 2025-12-22 | `virakesarilk-bb50bfde` | தையிட்டியில் பொலிஸார் நடந்துகொண்ட விதம், நாடு பிளவுபட்டுள்ளதை பட்டவர்த்தனமாக காட்டுகிறது ; பொலிஸாருக்கு எதிராக வழக்கு தொடரப்படவேண்டும் - மணிவண்ணன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-bb50bfde)
-- 2025-12-22 | `tamilmirrorlk-fbb83fe9` | லொஹானின் மரணச் சான்றிதழை சமர்ப்பிக்க உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-fbb83fe9)
-- 2025-12-22 | `virakesarilk-34979af7` | இருளில் மூழ்கிய சான் பிரான்சிஸ்கோ ; நடு வீதியில் ஒளிர்ந்த கார்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-34979af7)
 
 ---
 
