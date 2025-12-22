@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_04:20:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_04:47:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,789** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,794** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -57,10 +57,10 @@ A collection of lk_news documents.
 - 2025-12-23 | `dailyftlk-24cadf50` | Mahindra India contributes Rs. 100 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-24cadf50)
 - 2025-12-23 | `dailyftlk-8ae90f7c` | Public-private partnerships strengthen rebuilding efforts post-Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-8ae90f7c)
 - 2025-12-23 | `dailyftlk-27dfc18f` | Asriel Marketing donates Rs. 5 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-27dfc18f)
-- 2025-12-23 | `dailyftlk-a047e7eb` | Colombo Dockyard charts new course | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-a047e7eb)
-- 2025-12-23 | `dailyftlk-da1e77e0` | The call for immediate suspension of SL’s external sovereign debt payments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-da1e77e0)
-- 2025-12-23 | `dailyftlk-1c229980` | From disaster to economic resilience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-1c229980)
-- 2025-12-23 | `dailyftlk-954e1382` | Rebuilding businesses after Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-954e1382)
+- 2025-12-23 | `virakesarilk-aa08c785` | கொழும்பு – காங்கேசன்துறை புகையிரத  சேவை நாளை முதல் ஆரம்பம் - புகையிரத திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-aa08c785)
+- 2025-12-23 | `virakesarilk-2bdf3887` | அனர்த்தத்தால் பாதிக்கப்பட்ட மக்களின் வாழ்க்கை மீட்புக்கான வலுவூட்டல் நிகழ்ச்சி; புதிய வரவு செலவுத்திட்ட சுற்றறிக்கை வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-2bdf3887)
+- 2025-12-23 | `virakesarilk-a926cfd3` | 36 மில்லியன் ரூபா முறைகேடான சொத்துக் குவிப்பு பெலியத்த பிரதேச சபையின் முன்னாள் தவிசாளர் பிணையில் விடுதலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-a926cfd3)
+- 2025-12-23 | `virakesarilk-3f2056ab` | கொழும்பு மாநகரசபை வரவு செலவுத் திட்ட வருமான இலக்குகள் நடைமுறைக்கு சாத்தியமா? – எச்.எம். மன்சில் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-3f2056ab)
 
 ---
 
