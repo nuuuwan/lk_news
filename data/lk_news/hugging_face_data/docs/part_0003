@@ -310231,6 +310231,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-22-adalk-1ebf8a42",
+    "num": "adalk-1ebf8a42",
+    "date_str": "2025-12-22",
+    "description": "\u0daf\u0dd2\u0dad\u0dca\u0dc0\u0dcf \u0db1\u0dd2\u0dc3\u0dcf \u0dc0\u0dad\u0dca\u0dad\u0dda\u0d9c\u0db8 \u0dad\u0db1\u0dd2 \u0dc0\u0dd6 \u0db8\u0dcf\u0dad\u0dbd\u0dda \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0daf\u0dd2\u0dad\u0dca\u0dc0\u0dcf-\u0db1\u0dd2\u0dc3\u0dcf-\u0dc0\u0dad\u0dca\u0dad\u0dda\u0d9c\u0db8-\u0dad\u0db1\u0dd2-\u0dc0\u0dd6-\u0db8\u0dcf\u0dad\u0dbd\u0dda-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba/10-420397",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1766401355.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-22-virakesarilk-630d110e",
     "num": "virakesarilk-630d110e",
     "date_str": "2025-12-22",
@@ -310283,5 +310294,16 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1766402833.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-lankadeepalk-c2eec5e0",
+    "num": "lankadeepalk-c2eec5e0",
+    "date_str": "2025-12-22",
+    "description": "\u0d89\u0db1\u0dca\u0daf\u0dd3\u0dba \u0dc0\u0dd2\u0daf\u0dda\u0dc1 \u0d87\u0db8\u0dd0\u0dad\u0dd2 \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d89\u0db1\u0daf\u0dba-\u0dc0\u0daf\u0dc1-\u0d87\u0db8\u0dad-\u0daf\u0dc0\u0dba\u0db1\u0da7/101-685710",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1766407674.0
   }
 ]
