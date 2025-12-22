@@ -1,4 +1,5 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-22-adalk-8127c8c0	adalk-8127c8c0	2025-12-22	දිත්වා කර ඇති සෘජු හානිය ඩොලර් බිලියන 4.1	https://www.ada.lk/breaking_news/දිත්වා-කර-ඇති-සෘජු-හානිය-ඩොලර්-බිලියන-4-1/11-420402	si	adalk	1766420346.0
 lk_news	2025-12-22-lankadeepalk-6fbb831c	lankadeepalk-6fbb831c	2025-12-22	කොහුවල වෙඩිතැබීමක්	https://www.lankadeepa.lk/news/කහවල-වඩතබමක/101-685721	si	lankadeepalk	1766419391.0
 lk_news	2025-12-22-lankadeepalk-9aa570a0	lankadeepalk-9aa570a0	2025-12-22	අලුත් ව්‍යාපෘති නවයකට ගිවිසුම් ගත වෙයි	https://www.lankadeepa.lk/news/අලත-වයපත-නවයකට-ගවසම-ගත-වය/101-685720	si	lankadeepalk	1766418115.0
 lk_news	2025-12-22-virakesarilk-8d7d00ac	virakesarilk-8d7d00ac	2025-12-22	‘டித்வா’ சூறாவளியால் இலங்கையில் 4.1 பில்லியன் அமெரிக்க டொலர் உடமைகள் சேதம் – உலக வங்கி அறிக்கை	https://www.virakesari.lk/article/234142	ta	virakesarilk	1766414580.0
@@ -8,6 +9,7 @@ lk_news	2025-12-22-lankadeepalk-72e12c87	lankadeepalk-72e12c87	2025-12-22	‘‘
 lk_news	2025-12-22-lankadeepalk-fb174958	lankadeepalk-fb174958	2025-12-22	දෙහිවත්තේ පාරක් ගැලවී යයි	https://www.lankadeepa.lk/latest_news/දහවතත-පරක-ගලව-යය/1-685714	si	lankadeepalk	1766412807.0
 lk_news	2025-12-22-lankadeepalk-9c506b78	lankadeepalk-9c506b78	2025-12-22	අලියා පිළිස්සු වීඩියෝව දුන් සිසුවා අලි අමාරුවක	https://www.lankadeepa.lk/latest_news/අලය-පළසස-වඩයව-දන-සසව-අල-අමරවක/1-685713	si	lankadeepalk	1766412571.0
 lk_news	2025-12-22-lankadeepalk-a1d614e0	lankadeepalk-a1d614e0	2025-12-22	මන්ත්‍රි ශාන්ත පත්මකුමාර බලහත්කාරකම් කළැයි පී.සීට ඇප	https://www.lankadeepa.lk/latest_news/මනතර-ශනත-පතමකමර-බලහතකරකම-කළය-ප-සට-ඇප/1-685712	si	lankadeepalk	1766411596.0
+lk_news	2025-12-22-adalk-d31b1d05	adalk-d31b1d05	2025-12-22	ඉන්දීය ගුවන් හමුදාවට අයත් යානයකින් ඉන්දීය විදෙස් ඇමති ලංකාවට එයි	https://www.ada.lk/breaking_news/ඉන්දීය-ගුවන්-හමුදාවට-අයත්-යානයකින්-ඉන්දීය-විදෙස්-ඇමති-ලංකාවට-එයි/11-420401	si	adalk	1766410273.0
 lk_news	2025-12-22-lankadeepalk-03eae2b3	lankadeepalk-03eae2b3	2025-12-22	‘යාල්දේවී’ අනිද්දා සිට ධාවනයේ	https://www.lankadeepa.lk/news/යලදව-අනදද-සට-ධවනය/101-685711	si	lankadeepalk	1766410233.0
 lk_news	2025-12-22-adalk-d46b230e	adalk-d46b230e	2025-12-22	ලංකාවේ මරණ වලින් විශාල ප්‍රමාණයක් දුම්කොළ හා මත්ද්‍රව්‍ය නිසයි	https://www.ada.lk/breaking_news/ලංකාවේ-මරණ-වලින්-විශාල-ප්‍රමාණයක්-දුම්කොළ-හා-මත්ද්‍රව්‍ය-නිසයි/11-420400	si	adalk	1766409756.0
 lk_news	2025-12-22-virakesarilk-72fe3555	virakesarilk-72fe3555	2025-12-22	எம்.பி சாந்த பத்மகுமாரவுடனான மோதல் - கைது செய்யப்பட்ட பொலிஸ் உத்தியோகத்தர் பிணையில் விடுதலை	https://www.virakesari.lk/article/234137	ta	virakesarilk	1766409480.0
@@ -9997,5 +9999,3 @@ lk_news	2025-11-04-virakesarilk-1a044754	virakesarilk-1a044754	2025-11-04	பு
 lk_news	2025-11-04-lankadeepalk-afb401f8	lankadeepalk-afb401f8	2025-11-04	සජිත් ඉන්දියාවට කරපු යෝජනාව	https://www.lankadeepa.lk/news/සජත-ඉනදයවට-කරප-යජනව/101-682663	si	lankadeepalk	1762252404.0
 lk_news	2025-11-04-virakesarilk-fa2c07e7	virakesarilk-fa2c07e7	2025-11-04	இலங்கை கடற்படைக்கு செய்மதி தொடர்பாடல் இடைமறிப்பு அமைப்பு பெற அமைச்சரவை அங்கீகாரம்	https://www.virakesari.lk/article/229472	ta	virakesarilk	1762252080.0
 lk_news	2025-11-04-virakesarilk-450b721f	virakesarilk-450b721f	2025-11-04	யாழில் 950 கிலோ கஞ்சா தீயிட்டு அழிப்பு	https://www.virakesari.lk/article/229471	ta	virakesarilk	1762252080.0
-lk_news	2025-11-04-virakesarilk-8ecc3390	virakesarilk-8ecc3390	2025-11-04	யாழ்ப்பாணம் - கண்டி ஏ9 பிரதான வீதியில் விபத்து ; ஒருவர் பலி!	https://www.virakesari.lk/article/229473	ta	virakesarilk	1762251900.0
-lk_news	2025-11-04-virakesarilk-7683b191	virakesarilk-7683b191	2025-11-04	இலங்கை மற்றும் வெளிநாட்டு பல்கலைக்கழகங்களுக்கு இடையில் கல்வி ஒத்துழைப்புக்கான ஒப்பந்தங்களுக்கு அமைச்சரவை அங்கீகாரம்	https://www.virakesari.lk/article/229470	ta	virakesarilk	1762251720.0
