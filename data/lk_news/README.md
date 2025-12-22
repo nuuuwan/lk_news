@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_03:16:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_03:47:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,780** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,786** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-23-dailyftlk-e4223ae3",
-    "num": "dailyftlk-e4223ae3",
+    "doc_id": "2025-12-23-dailyftlk-a445b3c6",
+    "num": "dailyftlk-a445b3c6",
     "date_str": "2025-12-23",
-    "description": "LOLC Divi Saviya returns with \u2018Obai Mamai Ape Ratai\u2019 initiative",
-    "url_metadata": "https://www.ft.lk/business/LOLC-Divi-Saviya-returns-with-Obai-Mamai-Ape-Ratai-initiative/34-785997",
+    "description": "Macktiles makes first export to Australia",
+    "url_metadata": "https://www.ft.lk/business/Macktiles-makes-first-export-to-Australia/34-786007",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1766439613.0
+    "time_ut": 1766441387.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-23 | `dailyftlk-a445b3c6` | Macktiles makes first export to Australia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-a445b3c6)
+- 2025-12-23 | `dailyftlk-de91d9dd` | BOI continues dialogue with industries as Ditwah disrupts production and exports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-de91d9dd)
+- 2025-12-23 | `dailyftlk-f967e939` | Sri Lankan business leaders explore strategic opportunities in Cambodia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-f967e939)
+- 2025-12-23 | `dailyftlk-5ed30aa8` | Jetwing Hotels partners TiECON 2026 Sri Lanka as Official Travel and Hospitality Partner | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-5ed30aa8)
+- 2025-12-23 | `dailyftlk-6e5baced` | TotalEnergies Marketing India and Energy Core Lanka unveil new chapter of lubricants excellence in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-6e5baced)
+- 2025-12-23 | `dailyftlk-f072dd92` | Elephant House Ice Cream  marks historic launch in Australia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-f072dd92)
 - 2025-12-23 | `dailyftlk-e4223ae3` | LOLC Divi Saviya returns with ‘Obai Mamai Ape Ratai’ initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-e4223ae3)
 - 2025-12-23 | `dailyftlk-09df0a17` | The Technocity takes strong Rs. 50 m solidarity effort to rebuild hope | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-09df0a17)
 - 2025-12-23 | `dailyftlk-470ad300` | Tristar UAE donates Rs. 25 m to ’Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-470ad300)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2025-12-22 | `tamilmirrorlk-01e5f545` | கொழும்பு மாநகர சபை பட்ஜெட்டில் தேசிய மக்கள் சக்தி தோல்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-01e5f545)
 - 2025-12-22 | `tamilmirrorlk-6459b1df` | கொஹுவலவில் சூடு: ஒருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-6459b1df)
 - 2025-12-22 | `virakesarilk-139ae132` | தரமற்ற தடுப்பூசிகளால் பலியான இரண்டு உயிர்கள் பக்கசார்பற்ற விசாரணை முன்னெடுக்கப்பட வேண்டும் - சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-139ae132)
-- 2025-12-22 | `virakesarilk-d202e00a` | இந்தோனேசியாவில் பேருந்து விபத்துக்குள்ளானதில் 16 பேர் உயிரிழந்துள்ளனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-d202e00a)
-- 2025-12-22 | `adalk-e3d8459e` | ජනවාරි සිට නොවැම්බර් දක්වා අපනයන ආදායම ඩො.බි. 15.78 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-e3d8459e)
-- 2025-12-22 | `adalk-3f7d1376` | නවෝත්පාදන යෝජනා 9කට මූල්‍ය අනුග්‍රහය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-3f7d1376)
-- 2025-12-22 | `virakesarilk-6657be05` | நுகேகொடையில் துப்பாக்கிச் சூடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-6657be05)
-- 2025-12-22 | `virakesarilk-c42d0bab` | கொழும்பு மாநகர சபையில் ஆளுங்கட்சியின் வரவு - செலவுத் திட்டம் தோற்கடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-c42d0bab)
-- 2025-12-22 | `adalk-223b3264` | කොළඹ මහ නගර සභා අයවැය මාලිමාව පරදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-223b3264)
 
 ---
 

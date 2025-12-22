@@ -310888,5 +310888,71 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766439613.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-f072dd92",
+    "num": "dailyftlk-f072dd92",
+    "date_str": "2025-12-23",
+    "description": "Elephant House Ice Cream  marks historic launch in Australia",
+    "url_metadata": "https://www.ft.lk/business/Elephant-House-Ice-Cream-marks-historic-launch-in-Australia/34-785998",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766439843.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-6e5baced",
+    "num": "dailyftlk-6e5baced",
+    "date_str": "2025-12-23",
+    "description": "TotalEnergies Marketing India and Energy Core Lanka unveil new chapter of lubricants excellence in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/TotalEnergies-Marketing-India-and-Energy-Core-Lanka-unveil-new-chapter-of-lubricants-excellence-in-Sri-Lanka/34-786003",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766441002.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-5ed30aa8",
+    "num": "dailyftlk-5ed30aa8",
+    "date_str": "2025-12-23",
+    "description": "Jetwing Hotels partners TiECON 2026 Sri Lanka as Official Travel and Hospitality Partner",
+    "url_metadata": "https://www.ft.lk/business/Jetwing-Hotels-partners-TiECON-2026-Sri-Lanka-as-Official-Travel-and-Hospitality-Partner/34-786004",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766441031.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-f967e939",
+    "num": "dailyftlk-f967e939",
+    "date_str": "2025-12-23",
+    "description": "Sri Lankan business leaders explore strategic opportunities in Cambodia",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lankan-business-leaders-explore-strategic-opportunities-in-Cambodia/34-786005",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766441136.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-de91d9dd",
+    "num": "dailyftlk-de91d9dd",
+    "date_str": "2025-12-23",
+    "description": "BOI continues dialogue with industries as Ditwah disrupts production and exports",
+    "url_metadata": "https://www.ft.lk/business/BOI-continues-dialogue-with-industries-as-Ditwah-disrupts-production-and-exports/34-786006",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766441308.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-a445b3c6",
+    "num": "dailyftlk-a445b3c6",
+    "date_str": "2025-12-23",
+    "description": "Macktiles makes first export to Australia",
+    "url_metadata": "https://www.ft.lk/business/Macktiles-makes-first-export-to-Australia/34-786007",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766441387.0
   }
 ]
