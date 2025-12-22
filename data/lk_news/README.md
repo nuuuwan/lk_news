@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_23:50:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_00:26:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,759** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,761** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-22-adalk-e3d8459e",
-    "num": "adalk-e3d8459e",
+    "doc_id": "2025-12-22-tamilmirrorlk-01e5f545",
+    "num": "tamilmirrorlk-01e5f545",
     "date_str": "2025-12-22",
-    "description": "\u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 \u0dc3\u0dd2\u0da7 \u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d85\u0db4\u0db1\u0dba\u0db1 \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0da9\u0ddc.\u0db6\u0dd2. 15.78",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2-\u0dc3\u0dd2\u0da7-\u0db1\u0ddc\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0d86\u0daf\u0dcf\u0dba\u0db8-\u0da9\u0ddc-\u0db6\u0dd2--15-78/11-420405",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1766423077.0
+    "description": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bae\u0bbe\u0ba8\u0b95\u0bb0 \u0b9a\u0baa\u0bc8 \u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0bae\u0bbe\u0ba8\u0b95\u0bb0-\u0b9a\u0baa\u0bc8-\u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0b95\u0bcd\u0ba4\u0bbf-\u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf/175-369983",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1766427999.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-22 | `tamilmirrorlk-01e5f545` | கொழும்பு மாநகர சபை பட்ஜெட்டில் தேசிய மக்கள் சக்தி தோல்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-01e5f545)
+- 2025-12-22 | `tamilmirrorlk-6459b1df` | கொஹுவலவில் சூடு: ஒருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-6459b1df)
 - 2025-12-22 | `adalk-e3d8459e` | ජනවාරි සිට නොවැම්බර් දක්වා අපනයන ආදායම ඩො.බි. 15.78 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-e3d8459e)
 - 2025-12-22 | `adalk-3f7d1376` | නවෝත්පාදන යෝජනා 9කට මූල්‍ය අනුග්‍රහය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-3f7d1376)
 - 2025-12-22 | `adalk-223b3264` | කොළඹ මහ නගර සභා අයවැය මාලිමාව පරදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-223b3264)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-22 | `adalk-d46b230e` | ලංකාවේ මරණ වලින් විශාල ප්‍රමාණයක් දුම්කොළ හා මත්ද්‍රව්‍ය නිසයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-d46b230e)
 - 2025-12-22 | `virakesarilk-72fe3555` | எம்.பி சாந்த பத்மகுமாரவுடனான மோதல் - கைது செய்யப்பட்ட பொலிஸ் உத்தியோகத்தர் பிணையில் விடுதலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-72fe3555)
 - 2025-12-22 | `tamilmirrorlk-730f505d` | இலங்கையை வந்தடைந்தார் ஜெய்சங்கர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-730f505d)
-- 2025-12-22 | `virakesarilk-4dcc5645` | கிழக்கில் நிலம் சார்ந்த அநீதிகள் ; இந்த ஊழலற்ற ஆட்சியில் என்றேனும் தீர்வு கிடைக்குமா? - குச்சவெளி பிரதேச சபை உறுப்பினர் டனுசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-4dcc5645)
-- 2025-12-22 | `lankadeepalk-c2eec5e0` | ඉන්දීය විදේශ ඇමැති දිවයිනට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-c2eec5e0)
 
 ---
 
