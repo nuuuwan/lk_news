@@ -310591,5 +310591,16 @@
     "lang": "si",
     "newspaper_id": "lankadeepalk",
     "time_ut": 1766418115.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-lankadeepalk-6fbb831c",
+    "num": "lankadeepalk-6fbb831c",
+    "date_str": "2025-12-22",
+    "description": "\u0d9a\u0ddc\u0dc4\u0dd4\u0dc0\u0dbd \u0dc0\u0dd9\u0da9\u0dd2\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dc4\u0dc0\u0dbd-\u0dc0\u0da9\u0dad\u0db6\u0db8\u0d9a/101-685721",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1766419391.0
   }
 ]

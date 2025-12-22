@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_21:20:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_21:48:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,753** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,754** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-22-lankadeepalk-9aa570a0",
-    "num": "lankadeepalk-9aa570a0",
+    "doc_id": "2025-12-22-lankadeepalk-6fbb831c",
+    "num": "lankadeepalk-6fbb831c",
     "date_str": "2025-12-22",
-    "description": "\u0d85\u0dbd\u0dd4\u0dad\u0dca \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 \u0db1\u0dc0\u0dba\u0d9a\u0da7 \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0dca \u0d9c\u0dad \u0dc0\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0dbd\u0dad-\u0dc0\u0dba\u0db4\u0dad-\u0db1\u0dc0\u0dba\u0d9a\u0da7-\u0d9c\u0dc0\u0dc3\u0db8-\u0d9c\u0dad-\u0dc0\u0dba/101-685720",
+    "description": "\u0d9a\u0ddc\u0dc4\u0dd4\u0dc0\u0dbd \u0dc0\u0dd9\u0da9\u0dd2\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dc4\u0dc0\u0dbd-\u0dc0\u0da9\u0dad\u0db6\u0db8\u0d9a/101-685721",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1766418115.0
+    "time_ut": 1766419391.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-22 | `lankadeepalk-6fbb831c` | කොහුවල වෙඩිතැබීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-6fbb831c)
 - 2025-12-22 | `lankadeepalk-9aa570a0` | අලුත් ව්‍යාපෘති නවයකට ගිවිසුම් ගත වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-9aa570a0)
 - 2025-12-22 | `virakesarilk-8d7d00ac` | ‘டித்வா’ சூறாவளியால் இலங்கையில் 4.1 பில்லியன் அமெரிக்க டொலர் உடமைகள் சேதம் – உலக வங்கி அறிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-8d7d00ac)
 - 2025-12-22 | `virakesarilk-033a5d6d` | சொலிட் கழகத்தை வீழ்த்தி முதல் வெற்றியை சுவைத்தது பெலிக்கன்ஸ்; சோண்டர்ஸ் - நிகம்போ யூத் போட்டி வெற்றிதோல்வியின்றி முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-033a5d6d)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-22 | `virakesarilk-28ae5974` | ஆசிரியர் - அதிபர் தொழிற்சங்கக் கூட்டமைப்புக்கும் பிரதமருக்கும் இடையில் விசேட சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-28ae5974)
 - 2025-12-22 | `virakesarilk-d73c8c66` | அஸ்வெசும நலன்புரி நன்மைகள் திட்டம் ; தகவல் புதுப்பிப்பு கால அவகாசம் மாத இறுதியுடன் நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-d73c8c66)
 - 2025-12-22 | `virakesarilk-d961ad03` | மட்டக்களப்பு மாநகர சபையின்  வரவு – செலவுத் திட்டம் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-d961ad03)
-- 2025-12-22 | `virakesarilk-5bd7ce85` | புகையிலை, மதுபானம் மீது கடுமையான கட்டுப்பாடுகள் தேவை ; சுகாதார பிரதி அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-5bd7ce85)
 
 ---
 
