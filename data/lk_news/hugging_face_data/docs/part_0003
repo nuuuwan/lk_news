@@ -302696,6 +302696,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-18-islandlk-c9669a8a",
+    "num": "islandlk-c9669a8a",
+    "date_str": "2025-12-18",
+    "description": "Disaster relief mired in dirty politics",
+    "url_metadata": "http://island.lk/disaster-relief-mired-in-dirty-politics/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766073180.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-18-virakesarilk-8741432b",
     "num": "virakesarilk-8741432b",
     "date_str": "2025-12-18",
@@ -306095,6 +306106,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-deae0476",
+    "num": "islandlk-deae0476",
+    "date_str": "2025-12-20",
+    "description": "Lalith A\u2019s main enemy was lack of time and he battled it persistently",
+    "url_metadata": "http://island.lk/lalith-as-main-enemy-was-lack-of-time-and-he-battled-it-persistently/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766216880.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-20-islandlk-ef4c6662",
     "num": "islandlk-ef4c6662",
     "date_str": "2025-12-20",
@@ -306158,6 +306180,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1766218740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-5bd48b62",
+    "num": "islandlk-5bd48b62",
+    "date_str": "2025-12-20",
+    "description": "Feeling sad and blue?",
+    "url_metadata": "http://island.lk/feeling-sad-and-blue-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766218800.0
   },
   {
     "doc_type": "lk_news",
@@ -308284,6 +308317,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-21-islandlk-d1a5ab72",
+    "num": "islandlk-d1a5ab72",
+    "date_str": "2025-12-21",
+    "description": "VFS Global launches Malta Visa Centre in Sri Lanka",
+    "url_metadata": "http://island.lk/vfs-global-launches-malta-visa-centre-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766323500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-21-islandlk-20304cf5",
+    "num": "islandlk-20304cf5",
+    "date_str": "2025-12-21",
+    "description": "SL Real Estate Excellence Shines at 2025 PropertyGuru Asia Property Awards",
+    "url_metadata": "http://island.lk/sl-real-estate-excellence-shines-at-2025-propertyguru-asia-property-awards/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766323560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-21-islandlk-e67ff639",
+    "num": "islandlk-e67ff639",
+    "date_str": "2025-12-21",
+    "description": "ANC and Achievers Lanka enhance academic pathways",
+    "url_metadata": "http://island.lk/anc-and-achievers-lanka-enhance-academic-pathways/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766323680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-21-islandlk-a076c6e0",
+    "num": "islandlk-a076c6e0",
+    "date_str": "2025-12-21",
+    "description": "KIU University gains national and global recognition",
+    "url_metadata": "http://island.lk/kiu-university-gains-national-and-global-recognition/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766323740.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-21-colombotelegraphcom-24bf8fa8",
     "num": "colombotelegraphcom-24bf8fa8",
     "date_str": "2025-12-21",
@@ -308292,6 +308369,39 @@
     "lang": "en",
     "newspaper_id": "colombotelegraphcom",
     "time_ut": 1766323877.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-21-islandlk-5138ec0e",
+    "num": "islandlk-5138ec0e",
+    "date_str": "2025-12-21",
+    "description": "NSB launches contactless payments powered by Mastercard",
+    "url_metadata": "http://island.lk/nsb-launches-contactless-payments-powered-by-mastercard/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766324280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-21-islandlk-c47b3c63",
+    "num": "islandlk-c47b3c63",
+    "date_str": "2025-12-21",
+    "description": "HNB Assurance marks major milestones in its technological transformation journey",
+    "url_metadata": "http://island.lk/hnb-assurance-marks-major-milestones-in-its-technological-transformation-journey-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766324400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-21-islandlk-1d68d717",
+    "num": "islandlk-1d68d717",
+    "date_str": "2025-12-21",
+    "description": "SriLankan Airlines launches operations at Velana International Airport",
+    "url_metadata": "http://island.lk/srilankan-airlines-launches-operations-at-velana-international-airport/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766324520.0
   },
   {
     "doc_type": "lk_news",
@@ -308578,5 +308688,104 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766357263.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-17618e2f",
+    "num": "dailyftlk-17618e2f",
+    "date_str": "2025-12-22",
+    "description": "CJ leads delegation of 10 Apex Court judges for knowledge exchange with Indian judiciary",
+    "url_metadata": "https://www.ft.lk/news/CJ-leads-delegation-of-10-Apex-Court-judges-for-knowledge-exchange-with-Indian-judiciary/56-785952",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766361607.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-580700a3",
+    "num": "dailyftlk-580700a3",
+    "date_str": "2025-12-22",
+    "description": "Judiciary commits to taking digitisation agenda forward",
+    "url_metadata": "https://www.ft.lk/news/Judiciary-commits-to-taking-digitisation-agenda-forward/56-785953",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766361719.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-ea70beaa",
+    "num": "dailyftlk-ea70beaa",
+    "date_str": "2025-12-22",
+    "description": "SL to ratify ILO Convention on workplace violence and harassment",
+    "url_metadata": "https://www.ft.lk/news/SL-to-ratify-ILO-Convention-on-workplace-violence-and-harassment/56-785954",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766361763.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-fca3d04c",
+    "num": "dailyftlk-fca3d04c",
+    "date_str": "2025-12-22",
+    "description": "National Lottery Board set to exceed 2025 revenue target by Rs. 8 b",
+    "url_metadata": "https://www.ft.lk/news/National-Lottery-Board-set-to-exceed-2025-revenue-target-by-Rs-8-b/56-785955",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766361792.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-47326ac7",
+    "num": "dailyftlk-47326ac7",
+    "date_str": "2025-12-22",
+    "description": "RDA revises ticketing system at Kerawalapitiya Interchange from today",
+    "url_metadata": "https://www.ft.lk/news/RDA-revises-ticketing-system-at-Kerawalapitiya-Interchange-from-today/56-785956",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766361812.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-58e160e4",
+    "num": "dailyftlk-58e160e4",
+    "date_str": "2025-12-22",
+    "description": "AKD chairs special discussion on restoring lives under \u2018Rebuilding Sri Lanka\u2019 program",
+    "url_metadata": "https://www.ft.lk/news/AKD-chairs-special-discussion-on-restoring-lives-under-Rebuilding-Sri-Lanka-program/56-785957",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766361896.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-f5875ad0",
+    "num": "dailyftlk-f5875ad0",
+    "date_str": "2025-12-22",
+    "description": "BASL writes to President raising concerns over challenges faced by RTI Commission",
+    "url_metadata": "https://www.ft.lk/news/BASL-writes-to-President-raising-concerns-over-challenges-faced-by-RTI-Commission/56-785958",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766361991.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-f37f9af4",
+    "num": "dailyftlk-f37f9af4",
+    "date_str": "2025-12-22",
+    "description": "Development expert Hemachandra new UDA Chairman",
+    "url_metadata": "https://www.ft.lk/business/Development-expert-Hemachandra-new-UDA-Chairman/34-785959",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766362129.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-dailyftlk-64718793",
+    "num": "dailyftlk-64718793",
+    "date_str": "2025-12-22",
+    "description": "ADB supports modern pipe distribution network systems for agriculture in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/ADB-supports-modern-pipe-distribution-network-systems-for-agriculture-in-Sri-Lanka/34-785960",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766362249.0
   }
 ]

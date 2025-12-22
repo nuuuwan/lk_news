@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-22 05:15:43",
-  "n_docs": 94570,
+  "time_updated": "2025-12-22 06:05:09",
+  "n_docs": 94589,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 94570,
+  "n_docs_with_text": 94589,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-22",
-  "dataset_size": 1425244722,
+  "dataset_size": 1425300656,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-22-dailyftlk-b4d53e65",
-    "num": "dailyftlk-b4d53e65",
+    "doc_id": "2025-12-22-dailyftlk-64718793",
+    "num": "dailyftlk-64718793",
     "date_str": "2025-12-22",
-    "description": "Let us rise together with resilience, courage and determination",
-    "url_metadata": "https://www.ft.lk/columns/Let-us-rise-together-with-resilience-courage-and-determination/4-785931",
+    "description": "ADB supports modern pipe distribution network systems for agriculture in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/ADB-supports-modern-pipe-distribution-network-systems-for-agriculture-in-Sri-Lanka/34-785960",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1766357263.0
+    "time_ut": 1766362249.0
   }
 }
