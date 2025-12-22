@@ -310789,5 +310789,27 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766434398.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-da1e77e0",
+    "num": "dailyftlk-da1e77e0",
+    "date_str": "2025-12-23",
+    "description": "The call for immediate suspension of SL\u2019s external sovereign debt payments",
+    "url_metadata": "https://www.ft.lk/opinion/The-call-for-immediate-suspension-of-SL-s-external-sovereign-debt-payments/14-785980",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766436511.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-a047e7eb",
+    "num": "dailyftlk-a047e7eb",
+    "date_str": "2025-12-23",
+    "description": "Colombo Dockyard charts new course",
+    "url_metadata": "https://www.ft.lk/business/Colombo-Dockyard-charts-new-course/34-785981",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766436880.0
   }
 ]
