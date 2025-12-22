@@ -310811,5 +310811,82 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766436880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-27dfc18f",
+    "num": "dailyftlk-27dfc18f",
+    "date_str": "2025-12-23",
+    "description": "Asriel Marketing donates Rs. 5 m to \u2018Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/business/Asriel-Marketing-donates-Rs-5-m-to-Rebuilding-Sri-Lanka-Fund/34-785991",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766438952.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-8ae90f7c",
+    "num": "dailyftlk-8ae90f7c",
+    "date_str": "2025-12-23",
+    "description": "Public-private partnerships strengthen rebuilding efforts post-Cyclone Ditwah",
+    "url_metadata": "https://www.ft.lk/business/Public-private-partnerships-strengthen-rebuilding-efforts-post-Cyclone-Ditwah/34-785992",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766439053.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-24cadf50",
+    "num": "dailyftlk-24cadf50",
+    "date_str": "2025-12-23",
+    "description": "Mahindra India contributes Rs. 100 m to \u2018Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/business/Mahindra-India-contributes-Rs-100-m-to-Rebuilding-Sri-Lanka-Fund/34-785993",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766439136.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-92c6855c",
+    "num": "dailyftlk-92c6855c",
+    "date_str": "2025-12-23",
+    "description": "Cargills contributes Rs. 100 m to \u2019Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/business/Cargills-contributes-Rs-100-m-to-Rebuilding-Sri-Lanka-Fund/34-785994",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766439220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-470ad300",
+    "num": "dailyftlk-470ad300",
+    "date_str": "2025-12-23",
+    "description": "Tristar UAE donates Rs. 25 m to \u2019Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/business/Tristar-UAE-donates-Rs-25-m-to-Rebuilding-Sri-Lanka-Fund/34-785995",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766439289.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-09df0a17",
+    "num": "dailyftlk-09df0a17",
+    "date_str": "2025-12-23",
+    "description": "The Technocity takes strong Rs. 50 m solidarity effort to rebuild hope",
+    "url_metadata": "https://www.ft.lk/business/The-Technocity-takes-strong-Rs-50-m-solidarity-effort-to-rebuild-hope/34-785996",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766439405.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-dailyftlk-e4223ae3",
+    "num": "dailyftlk-e4223ae3",
+    "date_str": "2025-12-23",
+    "description": "LOLC Divi Saviya returns with \u2018Obai Mamai Ape Ratai\u2019 initiative",
+    "url_metadata": "https://www.ft.lk/business/LOLC-Divi-Saviya-returns-with-Obai-Mamai-Ape-Ratai-initiative/34-785997",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766439613.0
   }
 ]
