@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_12:27:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_12:50:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,657** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,659** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-22-tamilmirrorlk-3bfc86ec",
-    "num": "tamilmirrorlk-3bfc86ec",
+    "doc_id": "2025-12-22-virakesarilk-54f91759",
+    "num": "virakesarilk-54f91759",
     "date_str": "2025-12-22",
-    "description": "\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3 \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0ba3-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-369954",
+    "description": "\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bb5\u0bbe\u0bb3\u0bcd\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/234085",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1766386242.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766387160.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-22 | `virakesarilk-54f91759` | போதைப்பொருள் வியாபாரிகள் தொடர்பில் பொலிஸாருக்கு தகவல் வழங்கிய இருவர் மீது வாள்வெட்டு தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-54f91759)
 - 2025-12-22 | `tamilmirrorlk-3bfc86ec` | நிர்வாண சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-3bfc86ec)
 - 2025-12-22 | `tamilmirrorlk-735d9f4a` | உலகின் மிகப்பெரிய அணு மின் நிலையம்  ஜப்பானில் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-735d9f4a)
 - 2025-12-22 | `tamilmirrorlk-1e7ad418` | ஹட்டனில் அதிரடி அறிவிப்பு: மக்களே உஷார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-1e7ad418)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-22 | `adalk-9da17bcb` | ඉන්දීය විදේශ කටයුතු ඇමැති අද මෙරටට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-adalk-9da17bcb)
 - 2025-12-22 | `lankadeepalk-40a3f791` | මාතර බන්ධනාගාර නියාමකවරයෙක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-40a3f791)
 - 2025-12-22 | `virakesarilk-50df06c8` | உக்ரைன் மீது 1300 ட்ரோன் தாக்குதல்களை நடத்திய ரஷ்யா ; போர், தொடங்கிய இடத்துக்கே திரும்பும்! - உக்ரைன் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-50df06c8)
-- 2025-12-22 | `virakesarilk-0b659034` | பயங்கரவாத தடைச்சட்டம் ;  தேசிய மக்கள் சக்தி அரசின் இரட்டை வேடத்தை சாடும் ராஜ்குமார் ரஜீவ்காந்த் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-virakesarilk-0b659034)
 
 ---
 
