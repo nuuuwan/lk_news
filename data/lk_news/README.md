@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_07:16:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_08:26:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,589** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,593** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-22-dailyftlk-64718793",
-    "num": "dailyftlk-64718793",
+    "doc_id": "2025-12-22-tamilmirrorlk-588cfc85",
+    "num": "tamilmirrorlk-588cfc85",
     "date_str": "2025-12-22",
-    "description": "ADB supports modern pipe distribution network systems for agriculture in Sri Lanka",
-    "url_metadata": "https://www.ft.lk/business/ADB-supports-modern-pipe-distribution-network-systems-for-agriculture-in-Sri-Lanka/34-785960",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1766362249.0
+    "description": "\u0baa\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bc8\u0b95\u0bcd-\u0b95\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-369923",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1766371052.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-22 | `tamilmirrorlk-588cfc85` | பண்டிகைக் காலத்தில் பாதுகாப்பு அமைச்சின் விசேட திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-588cfc85)
+- 2025-12-22 | `tamilmirrorlk-3f3f1a27` | இன்று சிறிதளவு மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-3f3f1a27)
+- 2025-12-22 | `lankadeepalk-36319687` | තැන් කීපයකට අද පොඩි වැස්සක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-lankadeepalk-36319687)
 - 2025-12-22 | `dailyftlk-64718793` | ADB supports modern pipe distribution network systems for agriculture in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-dailyftlk-64718793)
 - 2025-12-22 | `dailyftlk-f37f9af4` | Development expert Hemachandra new UDA Chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-dailyftlk-f37f9af4)
 - 2025-12-22 | `dailyftlk-f5875ad0` | BASL writes to President raising concerns over challenges faced by RTI Commission | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-dailyftlk-f5875ad0)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-22 | `dailyftlk-2199490c` | A nation overwhelmed – but not powerless | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-dailyftlk-2199490c)
 - 2025-12-22 | `dailyftlk-b462087c` | What not to do about the central hills | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-dailyftlk-b462087c)
 - 2025-12-22 | `dailyftlk-15b7cdce` | Single National Asset Tax (SNAT): A bold blueprint for disaster recovery, economic revolution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-dailyftlk-15b7cdce)
-- 2025-12-22 | `dailyftlk-179d3dbe` | Unsung Heroes of the Central Bank 3:  Dr. D. S. Wijesinghe, quantitative economist who did not have previous training in math | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-dailyftlk-179d3dbe)
-- 2025-12-22 | `tamilmirrorlk-c334565a` | காசாவின் மேற்கு கரையில் இஸ்ரேலிய குடியேற்றங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-22-tamilmirrorlk-c334565a)
-- 2025-12-21 | `colombotelegraphcom-c640cca2` | Reconstruction, Stability & Economic Revival After Ditwah: A Non-Debt External Financing Strategy For Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-21-colombotelegraphcom-c640cca2)
 
 ---
 
