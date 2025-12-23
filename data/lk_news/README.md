@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_18:59:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_19:48:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,962** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,978** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-23-lankadeepalk-c32bd1e1",
-    "num": "lankadeepalk-c32bd1e1",
+    "doc_id": "2025-12-23-lankadeepalk-7be3c84c",
+    "num": "lankadeepalk-7be3c84c",
     "date_str": "2025-12-23",
-    "description": "\u0d8a\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0dba\u0dbd\u0dba \u0d91\u0d9a\u0dca\u0d9a \u0db1\u0dc0 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0d9a\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d8a\u0dc1\u0dbb\u0dba\u0dbd\u0dba-\u0d91\u0d9a\u0d9a-\u0db1\u0dc0-\u0dbb\u0d9a\u0dba-\u0d9c\u0dc0\u0dc3\u0db8\u0d9a/101-685767",
+    "description": "\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0dc3\u0db8\u0dd6\u0db4\u0d9a\u0dcf\u0dbb \u0dc3\u0db8\u0dd2\u0dad\u0dd2\u0dba\u0dda \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2 \u0db0\u0dd6\u0dbb\u0dba \u0dc0\u0dd3\u0dbb\u0d9a\u0ddd\u0db1\u0dca\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0daf\u0db8\u0dbb\u0dba-\u0dc3\u0db8\u0db4\u0d9a\u0dbb-\u0dc3\u0db8\u0dad\u0dba-\u0dc3\u0db7\u0db4\u0dad-\u0db0\u0dbb\u0dba-\u0dc0\u0dbb\u0d9a\u0db1\u0da7/1-685770",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1766495661.0
+    "time_ut": 1766499137.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-23 | `lankadeepalk-7be3c84c` | දුම්රිය සමූපකාර සමිතියේ සභාපති ධූරය වීරකෝන්ට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-7be3c84c)
+- 2025-12-23 | `virakesarilk-babe1c67` | இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கருடன் ஜீவன் தொண்டமான் சந்திப்பு! – மலையக மக்களின் நலன் குறித்த முக்கிய கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-babe1c67)
+- 2025-12-23 | `virakesarilk-b1a2afff` | இ.தொ.கா தலைவர் செந்தில் தொண்டமான் இந்திய வெளியுறவுதுறை அமைச்சரிடம் முன்வைத்த முக்கிய 4 கோரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-b1a2afff)
+- 2025-12-23 | `virakesarilk-eefd6ff5` | மலையக தமிழ் அரசியல் கட்சிகளின் பிரதிநிதிகளுடன் இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-eefd6ff5)
+- 2025-12-23 | `virakesarilk-0c533e4d` | வடக்கு, கிழக்கு தமிழ் அரசியல் தலைவர்களுடன் இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-0c533e4d)
+- 2025-12-23 | `lankadeepalk-e2e80b3c` | පොලිස්පති මාලිමා පොලිස්පති වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-e2e80b3c)
+- 2025-12-23 | `tamilmirrorlk-605b9808` | சீனத் தூதுக் குழு ஜனாதிபதியுடன் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-tamilmirrorlk-605b9808)
+- 2025-12-23 | `lankadeepalk-f475385c` | මෝදි අනුරට එවපු ලියුම මෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-f475385c)
+- 2025-12-23 | `virakesarilk-27a2d6f4` | எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசாவுடன் இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-27a2d6f4)
 - 2025-12-23 | `lankadeepalk-c32bd1e1` | ඊශ්‍රායලය එක්ක නව රැකියා ගිවිසුමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-c32bd1e1)
+- 2025-12-23 | `virakesarilk-ab5e659a` | இலங்கையிலுள்ள  இந்திய வர்த்தக சமூகத்தினரை சந்தித்தார் வெளிவிவகார அமைச்சர் ஜெய்சங்கர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-ab5e659a)
 - 2025-12-23 | `lankadeepalk-4c92743f` | යහපාලනයෙන් පොළොන්නරුවේ ඇරැඹූ වැඩක් අවසන් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-4c92743f)
+- 2025-12-23 | `virakesarilk-f5a4c491` | பாடசாலை உள்ளக வீதி புனரமைப்பில் முறைகேடு - நடவடிக்கை எடுக்குமாறு பெற்றோர்கள் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-f5a4c491)
+- 2025-12-23 | `virakesarilk-69e92a11` | “2025ஆம் ஆண்டின் இலங்கைக்கான சிறந்த வங்கியாக” HNB கௌரவிக்கப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-69e92a11)
+- 2025-12-23 | `virakesarilk-1fb26eca` | ‘Rebuilding Sri Lanka’  திட்டத்திற்கு சீனாவின் அனுபவத்தை இலங்கையுடன் பகிர்ந்து கொள்ள சீனா தயாராக உள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-1fb26eca)
 - 2025-12-23 | `lankadeepalk-9a0b0b24` | කෝටි 6 ක කුෂ් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-9a0b0b24)
+- 2025-12-23 | `virakesarilk-cdf68037` | நத்தார் பண்டிகையை முன்னிட்டு நாளை முதல் கொழும்பில் விசேட போக்குவரத்துத் திட்டம் - பொலிஸார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-cdf68037)
 - 2025-12-23 | `lankadeepalk-7b05df25` | ගඟට වැටී දරුවෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-7b05df25)
 - 2025-12-23 | `tamilmirrorlk-bc3eaf9f` | யாழ்தேவி ரயில் மோதி குடும்பஸ்தர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-tamilmirrorlk-bc3eaf9f)
 - 2025-12-23 | `lankadeepalk-a6afac21` | චැතම් පාරේ ආණ්ඩුවේ ඉඩමක් බදු දෙන්න කෙනෙක් හොයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-a6afac21)
-- 2025-12-23 | `tamilmirrorlk-e4f19e18` | தமிழ்த் தேசியக் கூட்டமைப்புடன் ஜெய்சங்கர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-tamilmirrorlk-e4f19e18)
-- 2025-12-23 | `tamilmirrorlk-7c0fb906` | மலையக கட்சிகளுடன் ஜெய்சங்கர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-tamilmirrorlk-7c0fb906)
-- 2025-12-23 | `lankadeepalk-10e45418` | ටූනා අල්ලන්න වේක්කයා රටින් ගෙනෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-10e45418)
-- 2025-12-23 | `tamilmirrorlk-eae1ceb1` | சஜித்தை சந்தித்தார் ஜெய்சங்கர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-tamilmirrorlk-eae1ceb1)
-- 2025-12-23 | `virakesarilk-c4a6e938` | திரையுலக பிரபலங்களின் பாராட்டைப் பெற்றிருக்கும் விக்ரம் பிரபுவின் 'சிறை' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-c4a6e938)
-- 2025-12-23 | `virakesarilk-5b808671` | நிறைவேற்று அதிகார ஜனாதிபதி முறையை  இரத்து செய்து புதிய அரசியல் அமைப்பு உருவாக்கம் ; பிரதமர் வழங்கிய உத்தரவாதத்துக்கு சமூக நீதிக்கான தேசிய இயக்கம் பாராட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-5b808671)
-- 2025-12-23 | `virakesarilk-07ec9cc0` | ஜனனத்திற்கும் - மரணத்திற்கும் இடையே நிகழும் சம்பவங்களின் ஃபேண்டஸி வடிவம் தான் '45' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-07ec9cc0)
-- 2025-12-23 | `virakesarilk-5561c1e7` | உயிலங்குளத்தின் கட்டின் கீழ்பகுதியால் வீதியை அமைக்க நிதி தேவை ; அமைச்சர் ஆனந்த விஜயபாலவிடம் ரவிகரன் எம்.பி கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-5561c1e7)
-- 2025-12-23 | `virakesarilk-23574043` | பேண்தகு விவசாய வேலைத்திட்டம் ; விவசாயக் கடன் திட்டத்திற்கு அமைச்சரவை அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-23574043)
-- 2025-12-23 | `adalk-5523e293` | මඩකලපුව දුම්රිය හෙට සිට ධාවනයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-adalk-5523e293)
-- 2025-12-23 | `virakesarilk-aff8e2fa` | தையிட்டி விவகாரம் : இன்று நாட்டில் சட்டம் சிலருக்குக் கவசம் ; மற்றவர்களுக்கு அடக்குமுறைக்கான ஆயுதம்! - அருட்தந்தை சத்திவேல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-aff8e2fa)
-- 2025-12-23 | `tamilmirrorlk-af03cc0d` | மகளுக்கு செக்ஸ் பொம்மை கொடுக்க நினைத்த   நடிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-tamilmirrorlk-af03cc0d)
-- 2025-12-23 | `virakesarilk-84d1a7ba` | கொழும்பு-கட்டுநாயக்க அதிவேக வீதியில் நான்கு நுழைவுப் பாதைகள் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-84d1a7ba)
-- 2025-12-23 | `virakesarilk-c533ad51` | இடைநிறுத்தப்பட்ட சுகாதார கட்டிட பணிகளை மீண்டும் ஆரம்பிக்க அமைச்சரவை அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-c533ad51)
 
 ---
 
