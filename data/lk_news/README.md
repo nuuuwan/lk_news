@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_07:16:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_08:21:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**94,811** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**94,818** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-23-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2025-12-23-virakesarilk-73a55ba9",
+    "num": "virakesarilk-73a55ba9",
     "date_str": "2025-12-23",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/234154",
+    "description": "\u0b9a\u0bbf\u0bb0\u0bc7\u0bb7\u0bcd\u0b9f \u0b95\u0bb2\u0bc8\u0b9e\u0bb0\u0bcd \u0b9a\u0ba4\u0bbf\u0bb8\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbf\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/234157",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1766453340.0
+    "time_ut": 1766456580.0
 }
 ```
 
@@ -41,7 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-23 | `virakesarilk-73a55ba9` | சிரேஷ்ட கலைஞர் சதிஸ்சந்திர எதிரிசிங்க காலமானார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-73a55ba9)
+- 2025-12-23 | `lankadeepalk-75a41714` | පැත්තකට වැස්ස:තවත් පැත්තකට වැස්ස නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-75a41714)
+- 2025-12-23 | `lankadeepalk-2f93dc8e` | ‘මාලිමාව’ කොළඹ අයවැයත් පරදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-2f93dc8e)
+- 2025-12-23 | `virakesarilk-d4b14943` | பொத்துவில் வனப்பகுதியில் கஞ்சா செய்கை முற்றுகை: துப்பாக்கிகளுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-d4b14943)
+- 2025-12-23 | `virakesarilk-7e7f8e12` | கூரிய ஆயுதத்தால் தாக்கப்பட்ட நபர் சிகிச்சை பலனின்றி உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-7e7f8e12)
+- 2025-12-23 | `lankadeepalk-036905ce` | සතිස් ජීවන වේදිකාවෙන් බැස යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-036905ce)
 - 2025-12-23 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-3a015e4a)
+- 2025-12-23 | `adalk-90274657` | ඇල්ල ත්‍රීවිල් චන්ඩින්ට වැඩ වරදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-adalk-90274657)
 - 2025-12-23 | `tamilmirrorlk-da66beae` | மற்றொரு மாணவர் தலைவர் மீது துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-tamilmirrorlk-da66beae)
 - 2025-12-23 | `tamilmirrorlk-66b0dc85` | இந்தியா - நியூசிலாந்து தடையற்ற வர்த்தக பேச்சு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-tamilmirrorlk-66b0dc85)
 - 2025-12-23 | `dailyftlk-a07d6f2b` | WNPS urges halt to Mandaitivu Cricket Stadium over environmental concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-a07d6f2b)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-12-23 | `dailyftlk-6e5baced` | TotalEnergies Marketing India and Energy Core Lanka unveil new chapter of lubricants excellence in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-6e5baced)
 - 2025-12-23 | `dailyftlk-f072dd92` | Elephant House Ice Cream  marks historic launch in Australia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-f072dd92)
 - 2025-12-23 | `dailyftlk-e4223ae3` | LOLC Divi Saviya returns with ‘Obai Mamai Ape Ratai’ initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-e4223ae3)
-- 2025-12-23 | `dailyftlk-09df0a17` | The Technocity takes strong Rs. 50 m solidarity effort to rebuild hope | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-09df0a17)
-- 2025-12-23 | `dailyftlk-470ad300` | Tristar UAE donates Rs. 25 m to ’Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-470ad300)
-- 2025-12-23 | `dailyftlk-92c6855c` | Cargills contributes Rs. 100 m to ’Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-92c6855c)
-- 2025-12-23 | `dailyftlk-24cadf50` | Mahindra India contributes Rs. 100 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-24cadf50)
-- 2025-12-23 | `dailyftlk-8ae90f7c` | Public-private partnerships strengthen rebuilding efforts post-Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-8ae90f7c)
-- 2025-12-23 | `dailyftlk-27dfc18f` | Asriel Marketing donates Rs. 5 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-dailyftlk-27dfc18f)
-- 2025-12-23 | `virakesarilk-aa08c785` | கொழும்பு – காங்கேசன்துறை புகையிரத  சேவை நாளை முதல் ஆரம்பம் - புகையிரத திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-aa08c785)
 
 ---
 
