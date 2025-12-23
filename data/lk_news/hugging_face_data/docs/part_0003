@@ -310781,6 +310781,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-22-adalk-1b3520c0",
+    "num": "adalk-1b3520c0",
+    "date_str": "2025-12-22",
+    "description": "\u0dad\u0dc4\u0db1\u0db8\u0dca \u0db7\u0dcf\u0dab\u0dca\u0da9 \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb \u0dad\u0dcf\u0db4\u0dca\u0db4\u0dba\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dd2\u0d9a\u0dc5 \u0db1\u0dd2\u0dba\u0dcf\u0db8\u0d9a \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dc4\u0db1\u0db8\u0dca-\u0db7\u0dcf\u0dab\u0dca\u0da9-\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb-\u0dad\u0dcf\u0db4\u0dca\u0db4\u0dba\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dc3\u0dd2\u0d9a\u0dc5-\u0db1\u0dd2\u0dba\u0dcf\u0db8\u0d9a-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-420407",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1766424046.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-22-islandlk-24d6da07",
     "num": "islandlk-24d6da07",
     "date_str": "2025-12-22",
@@ -311207,5 +311218,16 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1766447050.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-23-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
+    "date_str": "2025-12-23",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/234154",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766453340.0
   }
 ]
