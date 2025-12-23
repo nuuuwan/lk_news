@@ -305149,6 +305149,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-19-islandlk-3c69bf9b",
+    "num": "islandlk-3c69bf9b",
+    "date_str": "2025-12-19",
+    "description": "Cops as whipping boys?",
+    "url_metadata": "http://island.lk/cops-as-whipping-boys/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766157960.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-19-lankadeepalk-778bd930",
     "num": "lankadeepalk-778bd930",
     "date_str": "2025-12-19",
@@ -305949,6 +305960,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766212620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-0b1bfb44",
+    "num": "islandlk-0b1bfb44",
+    "date_str": "2025-12-20",
+    "description": "Another Christmas, Another Disaster, Another Recovery Mountain to Climb",
+    "url_metadata": "http://island.lk/another-christmas-another-disaster-another-recovery-mountain-to-climb/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766212860.0
   },
   {
     "doc_type": "lk_news",
@@ -308303,6 +308325,28 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766318640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-21-islandlk-01f9a7ad",
+    "num": "islandlk-01f9a7ad",
+    "date_str": "2025-12-21",
+    "description": "Awesome power of gratitude",
+    "url_metadata": "http://island.lk/awesome-power-of-gratitude/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766320620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-21-islandlk-2693c3b9",
+    "num": "islandlk-2693c3b9",
+    "date_str": "2025-12-21",
+    "description": "Iain Douglas-Hamilton: Science, courage, and the battle for elephants",
+    "url_metadata": "http://island.lk/iain-douglas-hamilton-science-courage-and-the-battle-for-elephants/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766320740.0
   },
   {
     "doc_type": "lk_news",
@@ -310734,6 +310778,105 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766423220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-24d6da07",
+    "num": "islandlk-24d6da07",
+    "date_str": "2025-12-22",
+    "description": "Inner Vision at the Gatz",
+    "url_metadata": "http://island.lk/inner-vision-at-the-gatz/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766424720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-c84b41e3",
+    "num": "islandlk-c84b41e3",
+    "date_str": "2025-12-22",
+    "description": "No evidence that babies were used as bait in colonial Sri Lanka, says leading herpetologist",
+    "url_metadata": "http://island.lk/no-evidence-that-babies-were-used-as-bait-in-colonial-sri-lanka-says-leading-herpetologist/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766425080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-ad5863d3",
+    "num": "islandlk-ad5863d3",
+    "date_str": "2025-12-22",
+    "description": "Colombo Bourse erases early gains as Dockyard plunges and IMF loan concerns dampen sentiment",
+    "url_metadata": "http://island.lk/colombo-bourse-erases-early-gains-as-dockyard-plunges-and-imf-loan-concerns-dampen-sentiment/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766425260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-a20c5441",
+    "num": "islandlk-a20c5441",
+    "date_str": "2025-12-22",
+    "description": "First Capital appoints Lasith Nanayakkara as CTO",
+    "url_metadata": "http://island.lk/first-capital-appoints-lasith-nanayakkara-as-cto/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766425440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-c1d55501",
+    "num": "islandlk-c1d55501",
+    "date_str": "2025-12-22",
+    "description": "Siyapatha Finance opens 60th branch in Warakapola",
+    "url_metadata": "http://island.lk/siyapatha-finance-opens-60th-branch-in-warakapola/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766425500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-ced4956d",
+    "num": "islandlk-ced4956d",
+    "date_str": "2025-12-22",
+    "description": "CSE announces 2025 year-end rebalance in S&P Sri Lanka 20 Index",
+    "url_metadata": "http://island.lk/cse-announces-2025-year-end-rebalance-in-sp-sri-lanka-20-index/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766425560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-fd7e6ef7",
+    "num": "islandlk-fd7e6ef7",
+    "date_str": "2025-12-22",
+    "description": "APHNH elects new Governing Council for 2025\u20132027",
+    "url_metadata": "http://island.lk/aphnh-elects-new-governing-council-for-2025-2027/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766425620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-d5152a2c",
+    "num": "islandlk-d5152a2c",
+    "date_str": "2025-12-22",
+    "description": "Groundworth secures special recognition for land investments at Asia Property Guru Awards 2025",
+    "url_metadata": "http://island.lk/groundworth-secures-special-recognition-for-land-investments-at-asia-property-guru-awards-2025/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766425680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-0c2318a4",
+    "num": "islandlk-0c2318a4",
+    "date_str": "2025-12-22",
+    "description": "Sunshine Holdings marks World Diabetes Day",
+    "url_metadata": "http://island.lk/sunshine-holdings-marks-world-diabetes-day/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766425740.0
   },
   {
     "doc_type": "lk_news",
