@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_14:51:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_15:20:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,135** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,139** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-24-virakesarilk-668e1875",
-    "num": "virakesarilk-668e1875",
+    "doc_id": "2025-12-24-lankadeepalk-e94ca678",
+    "num": "lankadeepalk-e94ca678",
     "date_str": "2025-12-24",
-    "description": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bcb\u0bb0 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc8 \u0bae\u0bc1\u0b9f\u0b95\u0bcd\u0b95 \u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb1\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bbe\u0ba8\u0b95\u0bb0 \u0b9a\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/234308",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1766567640.0
+    "description": "\u0dbb\u0dad\u0dd4 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1 \u0d9c\u0dd0\u0dbd\u0dd9\u0dc0\u0dca\u0dc0\u0dad\u0dca \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8 \u0d85\u0da9\u0dd4 \u0db1\u0dd1",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dbb\u0dad-\u0db1\u0dc0\u0daf\u0db1-\u0d9c\u0dbd\u0dc0\u0dc0\u0dad-\u0d85\u0dc0\u0daf\u0db1\u0db8-\u0d85\u0da9-\u0db1/101-685828",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1766569077.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-24 | `lankadeepalk-e94ca678` | රතු නිවේදන ගැලෙව්වත් අවදානම අඩු නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-e94ca678)
+- 2025-12-24 | `tamilmirrorlk-0d076743` | யாழ். மணிக்கூட்டு கோபுர மின் அலங்காரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-0d076743)
+- 2025-12-24 | `adalk-07e13b5f` | අත්අඩංගුවට ගත් මන්ත්‍රී අර්ච්චුනාට අධිකරණය ලබා දුන් නියෝගය මෙන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-adalk-07e13b5f)
+- 2025-12-24 | `tamilmirrorlk-3a8f8773` | போதைப்பொருளுடன் சிக்கிய சகோதரர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-3a8f8773)
 - 2025-12-24 | `virakesarilk-668e1875` | வவுனியாவில் வீதியோர வியாபார நடவடிக்கைகளை முடக்க களத்தில் இறங்கிய மாநகர சபையினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-668e1875)
 - 2025-12-24 | `lankadeepalk-6f4321c4` | වැලිගම සභාවේ සභාපති ඝාතනයට ආධාර දුන් අයකු අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-6f4321c4)
 - 2025-12-24 | `virakesarilk-705f5ab6` | வவுனியாவில் கொட்டும் மழையிலும் களைகட்டும் நத்தார் வியாபாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-705f5ab6)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-24 | `adalk-3eed2394` | රුසියාවේ පිපිරීමක් - පොලිස් නිලධාරීන් දෙකක් ඇතුළු 3ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-adalk-3eed2394)
 - 2025-12-24 | `lankadeepalk-d459afdd` | මන්ද පෝෂණ දරුවන්ට යුනිසෙෆ්  ලොකු තෑග්ගක් දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-d459afdd)
 - 2025-12-24 | `virakesarilk-f9a2c9a6` | இரத்தக்கறை படிந்த ஜனநாயகப் பாதை : பங்களாதேசத்தின் 2026 தேர்தல் சவால்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-f9a2c9a6)
-- 2025-12-24 | `tamilmirrorlk-44dcd841` | விடுமுறைக்கு விசேட ரயில் சேவைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-44dcd841)
-- 2025-12-24 | `virakesarilk-5593e956` | தையிட்டி சம்பவத்துக்கு பருத்தித்துறை நகரசபையின் மாதாந்த அமர்வில் கண்டனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-5593e956)
-- 2025-12-24 | `tamilmirrorlk-4c7948a1` | இன்பருட்டியில் சடலம்: தமிழ்நாட்டு மீனவருடையதா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-4c7948a1)
-- 2025-12-24 | `virakesarilk-25002631` | “நத்தார் தினத்திலேனும் போரை நிறுத்துங்கள்!” என ரஷ்யா, உக்ரைனிடம் பாப்பரசர் லியோ கோரிக்கை ; ரஷ்யா நிராகரிப்பு ; பாப்பரசர் கவலை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-25002631)
 
 ---
 
