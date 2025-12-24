@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-24 10:49:32",
-  "n_docs": 95073,
+  "time_updated": "2025-12-24 11:22:21",
+  "n_docs": 95076,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 95073,
+  "n_docs_with_text": 95076,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-24",
-  "dataset_size": 1433426458,
+  "dataset_size": 1433506659,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-24-tamilmirrorlk-45a7cc63",
-    "num": "tamilmirrorlk-45a7cc63",
+    "doc_id": "2025-12-24-tamilmirrorlk-11218eb7",
+    "num": "tamilmirrorlk-11218eb7",
     "date_str": "2025-12-24",
-    "description": "\u2018\u0b8e\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0ba4\u0baf\u0bbe\u0bb0\u0bcd\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b8e\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0b9a\u0bc6\u0baf\u0bcd\u0baf-\u0ba4\u0baf\u0bbe\u0bb0\u0bcd/54-370061",
+    "description": "\u0ba8\u0bc7\u0bb0\u0bcd\u0bae\u0bc1\u0b95\u0ba4\u0bcd \u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4 \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bc8 \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc7\u0bb0\u0bcd\u0bae\u0bc1\u0b95\u0ba4\u0bcd-\u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0ba8\u0bcd\u0ba4-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bc8-\u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-370064",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1766553008.0
+    "time_ut": 1766555252.0
   }
 }
