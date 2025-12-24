@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_13:19:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_13:49:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,113** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,118** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-24-virakesarilk-fed1d260",
-    "num": "virakesarilk-fed1d260",
+    "doc_id": "2025-12-24-tamilmirrorlk-29accf7f",
+    "num": "tamilmirrorlk-29accf7f",
     "date_str": "2025-12-24",
-    "description": "SLIC \u0bb2\u0bc8\u0b83\u0baa\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0b95\u0bcd \u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/234295",
+    "description": "\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0bb2\u0bcd 4 \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0bae\u0bbf\u0b9e\u0bcd\u0b9a\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0bb2\u0bcd-4-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0bae\u0bbf\u0b9e\u0bcd\u0b9a\u0bc1\u0bae\u0bcd/175-370068",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1766561880.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1766563400.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-24 | `tamilmirrorlk-29accf7f` | விடுமுறையால் 4 கோடி ரூபாய் மிஞ்சும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-29accf7f)
+- 2025-12-24 | `lankadeepalk-d459afdd` | මන්ද පෝෂණ දරුවන්ට යුනිසෙෆ්  ලොකු තෑග්ගක් දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-d459afdd)
+- 2025-12-24 | `tamilmirrorlk-44dcd841` | விடுமுறைக்கு விசேட ரயில் சேவைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-44dcd841)
+- 2025-12-24 | `tamilmirrorlk-4c7948a1` | இன்பருட்டியில் சடலம்: தமிழ்நாட்டு மீனவருடையதா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-4c7948a1)
 - 2025-12-24 | `virakesarilk-fed1d260` | SLIC லைஃப் வங்கிக் காப்பீட்டுப் பிரிவின் வெள்ளி விருது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-fed1d260)
 - 2025-12-24 | `virakesarilk-05919fe5` | பண்டிகை நாட்களில் பொதுமக்களின் பாதுகாப்பை உறுதி செய்ய விசேட பாதுகாப்பு நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-05919fe5)
 - 2025-12-24 | `virakesarilk-31430aed` | ரஷ்யாவில் குண்டு வெடிப்பு ; இரண்டு பொலிஸார் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-31430aed)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-24 | `lankadeepalk-f631d368` | අම්බලන්ගොඩ කළමනාකරු ඝාතනයේ යතුරුපැදිය දමාගිය අය අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-f631d368)
 - 2025-12-24 | `lankadeepalk-0fead7e1` | විපක්ෂයේ ගමන් මග අයාලේද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-0fead7e1)
 - 2025-12-24 | `adalk-9ffec3d8` | තේරිම් කමිටු සභාපති ප්‍රමෝද්‍ය කළ ප්‍රකාශය මිකී ආතර් ප්‍රතික්ෂේප කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-adalk-9ffec3d8)
-- 2025-12-24 | `adalk-a8c15e75` | නිවාඩුවට අමතර දුම්රිය කිහිපයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-adalk-a8c15e75)
-- 2025-12-24 | `virakesarilk-1930fdd2` | வெற்றிகரமாக விண்ணில் பாய்ந்த பாகுபலி ரொக்கெட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-1930fdd2)
-- 2025-12-24 | `virakesarilk-0344b8be` | கார் ஒன்றிலிருந்து T-56 ரக துப்பாக்கி  மீட்பு; பொலிஸார் விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-0344b8be)
-- 2025-12-24 | `adalk-fe59323d` | මන්ත්‍රී අර්චුනා පොලීසියට භාර වූ පසු අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-adalk-fe59323d)
 
 ---
 
