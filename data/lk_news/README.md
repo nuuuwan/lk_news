@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_16:20:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_16:48:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,143** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,144** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,7 @@ A collection of lk_news documents.
 - 2025-12-24 | `tamilmirrorlk-79fab5dd` | பாடசாலைகளைப் பாதுகாப்பான இடங்களுக்கு மாற்ற நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-79fab5dd)
 - 2025-12-24 | `tamilmirrorlk-5c519241` | எச்சரிக்கை நீக்கப்பட்டாலும்: ஆபத்து குறையவில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-5c519241)
 - 2025-12-24 | `adalk-1680eac3` | උත්සව සමය වෙනුවෙන් ඒකාබද්ධ දුම්රිය හා බස් රථ ප්‍රවාහන සේවාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-adalk-1680eac3)
+- 2025-12-24 | `lankadeepalk-dd3c648a` | හොර පාරෙන් මෙරටට ගෙන ආ විසිතුරු පැළ අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-dd3c648a)
 - 2025-12-24 | `lankadeepalk-e94ca678` | රතු නිවේදන ගැලෙව්වත් අවදානම අඩු නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-e94ca678)
 - 2025-12-24 | `adalk-fa02f806` | ශීත සෘතුවට පෝලන්තයේ සිට සංචාරකයන් අරන් එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-adalk-fa02f806)
 - 2025-12-24 | `tamilmirrorlk-0d076743` | யாழ். மணிக்கூட்டு கோபுர மின் அலங்காரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-0d076743)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-24 | `lankadeepalk-b9bfb946` | බන්ධනාගාර රැඳවියෙක් හදිසියේ මිය ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-b9bfb946)
 - 2025-12-24 | `adalk-ea0ed686` | මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 193ට අධික තොගයක් සමග පුද්ගලයන් 05ක්  නාවික හමුදා භාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-adalk-ea0ed686)
 - 2025-12-24 | `lankadeepalk-02bb6153` | ආපදාවෙන් ධීවර වැඩට කෝටි 765ක හානියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-02bb6153)
-- 2025-12-24 | `virakesarilk-6e8feb10` | இன்றைய நாணய மாற்று விகிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-6e8feb10)
 
 ---
 
