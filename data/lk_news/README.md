@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_01:16:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_01:48:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,203** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,205** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,8 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2025-12-25 | `virakesarilk-80e5ae36` | இன்றைய சிக்கலான சமூக சூழலில் இயேசு போதித்த முழுமையான அகிம்சை, சகிப்புத்தன்மை, கருணை மிக முக்கியமானது - மத மற்றும் கலாசார அலுவல்கள் பிரதி அமைச்சர் முனீர் முளப்பர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-80e5ae36)
+- 2025-12-25 | `virakesarilk-662cce61` | நத்தார் திருநாள் அன்பு, சமாதானம், தேசிய ஒற்றுமையின் உயரிய செய்தியை எடுத்துச் செல்கிறது - அமைச்சர் இராமலிங்கம் சந்திரசேகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-662cce61)
+- 2025-12-25 | `virakesarilk-3ec5b55c` | இயற்கை அனர்த்தங்களால் பாதிக்கப்பட்ட அனைத்து மக்களின் வாழ்விலும் நத்தார் ஒரு புதிய ஆறுதலை, நிம்மதியை கொண்டுவரட்டும்! - பிரதி அமைச்சர் ரத்ன கமகே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-3ec5b55c)
 - 2025-12-25 | `virakesarilk-1d576c93` | இருளான யுகத்தை விலக்கி, நம்பிக்கையின் விளக்கால் உலகை ஒளிமயமாக்குவோம்! - நத்தார் வாழ்த்துச் செய்தியில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-1d576c93)
 - 2025-12-25 | `virakesarilk-081c0b00` | பேரிடரில் உதயமான மனித நேயம் நாட்டில் நிரந்தரமாக குடியிருக்க அனைவரும் ஒன்றிணைவோம்! - நத்தார் வாழ்த்துச் செய்தியில் யாழ். மறைமாவட்ட ஆயர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-081c0b00)
 - 2025-12-25 | `virakesarilk-b58a5c1d` | அமைதி, நல்லிணக்கம், தியாகம், இரக்க குணம் கொண்ட ஒரு சமூகத்தை உருவாக்க அழைப்பு விடுக்கும் புனித நத்தார்! - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-b58a5c1d)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-24 | `lankadeepalk-cda1d88c` | ‘දිට්වා‘ කොළඹ අවුරුදු 5ට අඩු දරුවන් 5,808ක් පීඩාවට පත් කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-cda1d88c)
 - 2025-12-24 | `lankadeepalk-221db5ba` | ගිනි අවිය පත්තු වී පී සී රෝහලේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-221db5ba)
 - 2025-12-24 | `virakesarilk-d5e09540` | தைவானைத் தாக்கிய வலுவான நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-d5e09540)
-- 2025-12-24 | `virakesarilk-fa62cbf9` | அம்பலாங்கொடை காவல் நிலையத்தில் துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-fa62cbf9)
-- 2025-12-24 | `tamilmirrorlk-7e33ed7e` | துப்பாக்கி வெடித்ததில் கான்ஸ்டபிள் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-7e33ed7e)
 
 ---
 
