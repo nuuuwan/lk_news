@@ -312453,6 +312453,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-23-adalk-90a7fc76",
+    "num": "adalk-90a7fc76",
+    "date_str": "2025-12-23",
+    "description": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0db4\u0dcf\u0daf \u0db4\u0dbb\u0dd2\u0dc3\u0dbb\u0dba \u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1 \u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0db4\u0dcf\u0daf-\u0db4\u0dbb\u0dd2\u0dc3\u0dbb\u0dba-\u0dbb\u0d9a\u0dd2\u0db1\u0dca\u0db1-\u0d9a\u0dd0\u0db6\u0dd2\u0db1\u0da7\u0dca-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4-\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca/11-420424",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1766486054.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-23-lankadeepalk-209437ef",
     "num": "lankadeepalk-209437ef",
     "date_str": "2025-12-23",
@@ -313509,6 +313520,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-24-tamilmirrorlk-1dc9048c",
+    "num": "tamilmirrorlk-1dc9048c",
+    "date_str": "2025-12-24",
+    "description": "\u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bcd\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bcd-\u0baa\u0bcb\u0bb0\u0bcd\u0b95\u0bcd-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bcd-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/50-370048",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1766529113.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-24-dailyftlk-335d41d6",
     "num": "dailyftlk-335d41d6",
     "date_str": "2025-12-24",
@@ -313528,5 +313550,148 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766537714.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-f6fa2761",
+    "num": "dailyftlk-f6fa2761",
+    "date_str": "2025-12-24",
+    "description": "Saudi Arabia witnesses rare snowfall for first time in 30 years",
+    "url_metadata": "https://www.ft.lk/news/Saudi-Arabia-witnesses-rare-snowfall-for-first-time-in-30-years/56-786046",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766537765.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-43fbb506",
+    "num": "dailyftlk-43fbb506",
+    "date_str": "2025-12-24",
+    "description": "Opposition claims CMC control after Budget defeat",
+    "url_metadata": "https://www.ft.lk/news/Opposition-claims-CMC-control-after-Budget-defeat/56-786047",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766537799.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-8f5760c8",
+    "num": "dailyftlk-8f5760c8",
+    "date_str": "2025-12-24",
+    "description": "Jaishankar meets Sajith, stresses transparency in Indian disaster aid",
+    "url_metadata": "https://www.ft.lk/news/Jaishankar-meets-Sajith-stresses-transparency-in-Indian-disaster-aid/56-786048",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766537873.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-bc3bf5f8",
+    "num": "dailyftlk-bc3bf5f8",
+    "date_str": "2025-12-24",
+    "description": "Govt. urges Constitutional Council to act on Auditor General appointment",
+    "url_metadata": "https://www.ft.lk/news/Govt-urges-Constitutional-Council-to-act-on-Auditor-General-appointment/56-786049",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766537939.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-9af270ad",
+    "num": "dailyftlk-9af270ad",
+    "date_str": "2025-12-24",
+    "description": "Cabinet clears resumption of eight stalled hospital projects at revised cost of Rs. 16.2 b",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-clears-resumption-of-eight-stalled-hospital-projects-at-revised-cost-of-Rs-16-2-b/34-786051",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766538147.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-9f6382c5",
+    "num": "dailyftlk-9f6382c5",
+    "date_str": "2025-12-24",
+    "description": "Cabinet approves new investment drive for prime land in Fort Colombo",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-approves-new-investment-drive-for-prime-land-in-Fort-Colombo/34-786052",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766538251.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-96d4a177",
+    "num": "dailyftlk-96d4a177",
+    "date_str": "2025-12-24",
+    "description": "Sri Lanka yet to fully gauge economic fallout of Cyclone Ditwah: Cabinet Spokesman",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-yet-to-fully-gauge-economic-fallout-of-Cyclone-Ditwah-Cabinet-Spokesman/34-786053",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766538321.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-7044684e",
+    "num": "dailyftlk-7044684e",
+    "date_str": "2025-12-24",
+    "description": "Sahamitr Metal Pressure Containers gets contract to supply LPG cylinders for Litro Gas Lanka",
+    "url_metadata": "https://www.ft.lk/business/Sahamitr-Metal-Pressure-Containers-gets-contract-to-supply-LPG-cylinders-for-Litro-Gas-Lanka/34-786054",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766538364.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-224b5d74",
+    "num": "dailyftlk-224b5d74",
+    "date_str": "2025-12-24",
+    "description": "Tariff reforms to ease bait fish imports for deep-sea fishing industry",
+    "url_metadata": "https://www.ft.lk/business/Tariff-reforms-to-ease-bait-fish-imports-for-deep-sea-fishing-industry/34-786055",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766538448.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-933e829d",
+    "num": "dailyftlk-933e829d",
+    "date_str": "2025-12-24",
+    "description": "When backing grows stronger, and when it subtly declines",
+    "url_metadata": "https://www.ft.lk/columns/When-backing-grows-stronger-and-when-it-subtly-declines/4-786063",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766539268.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-ed6662d8",
+    "num": "dailyftlk-ed6662d8",
+    "date_str": "2025-12-24",
+    "description": "India\u2019s generosity in Ditwah\u2019s wake; a partnership of reliability",
+    "url_metadata": "https://www.ft.lk/columns/India-s-generosity-in-Ditwah-s-wake-a-partnership-of-reliability/4-786064",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766539643.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-2e50bc58",
+    "num": "dailyftlk-2e50bc58",
+    "date_str": "2025-12-24",
+    "description": "Adam Smith goes digital",
+    "url_metadata": "https://www.ft.lk/columns/Adam-Smith-goes-digital/4-786065",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766539913.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-dc1c942d",
+    "num": "dailyftlk-dc1c942d",
+    "date_str": "2025-12-24",
+    "description": "Navigating bureaucratic autonomy and capacity: The path to public sector reforms",
+    "url_metadata": "https://www.ft.lk/columns/Navigating-bureaucratic-autonomy-and-capacity-The-path-to-public-sector-reforms/4-786066",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766540223.0
   }
 ]
