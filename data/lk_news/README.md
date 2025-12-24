@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_10:25:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_10:50:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,067** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,073** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-24-tamilmirrorlk-160ace9a",
-    "num": "tamilmirrorlk-160ace9a",
+    "doc_id": "2025-12-24-tamilmirrorlk-45a7cc63",
+    "num": "tamilmirrorlk-45a7cc63",
     "date_str": "2025-12-24",
-    "description": "\u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/50-370055",
+    "description": "\u2018\u0b8e\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0ba4\u0baf\u0bbe\u0bb0\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b8e\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0b9a\u0bc6\u0baf\u0bcd\u0baf-\u0ba4\u0baf\u0bbe\u0bb0\u0bcd/54-370061",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1766551703.0
+    "time_ut": 1766553008.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-24 | `tamilmirrorlk-45a7cc63` | ‘எதையும் செய்ய தயார்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-45a7cc63)
+- 2025-12-24 | `tamilmirrorlk-f055dbd0` | என்னென்னமோ கனவு கண்டேன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-f055dbd0)
+- 2025-12-24 | `tamilmirrorlk-616b520e` | டித்வாவினால் 4 இலட்சம் பேர் வே​லையை இழந்தனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-616b520e)
+- 2025-12-24 | `lankadeepalk-ff52faf8` | කෝටි 14ක මත්ද්‍රව්‍ය සමඟ අයියා මලෝ මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-ff52faf8)
+- 2025-12-24 | `tamilmirrorlk-c5a1aae8` | துருக்கியில் விமான விபத்து; லிபியாவின் இராணுவத் தலைவர் உட்பட 7 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-c5a1aae8)
 - 2025-12-24 | `tamilmirrorlk-160ace9a` | டிரம்ப் மீது பாலியல் குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-160ace9a)
 - 2025-12-24 | `tamilmirrorlk-d0ed9c0c` | கடிகார முள்ளைத் திருப்பி பட்ஜெட் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-d0ed9c0c)
 - 2025-12-24 | `tamilmirrorlk-d0e3eb48` | இந்திய மீனவர்கள் 12 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-tamilmirrorlk-d0e3eb48)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-12-24 | `lankadeepalk-1de9c5ea` | අද කාලගුණය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-1de9c5ea)
 - 2025-12-24 | `lankadeepalk-756f4e09` | මුහුදුබඩපත්තුව  සභාවේ බලය ජාජබට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-756f4e09)
 - 2025-12-24 | `lankadeepalk-6313a159` | හබරකඩ දෙදරු මවගේ මරණය සැකයි:සැමියා පොලිසි යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-6313a159)
-- 2025-12-24 | `lankadeepalk-d36c8db0` | රැකියාවකට ආ තරුණයකු පැහැර ගෙන යන්න හදලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-d36c8db0)
-- 2025-12-24 | `lankadeepalk-04d18390` | සුළි කුණාටුවෙන් ලක්ෂ හතරකට රැකියා අහිමි වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-04d18390)
-- 2025-12-24 | `lankadeepalk-b3a0b067` | ඔරලෝසුවේ කටු කරකවා අය වැය සම්මත කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-lankadeepalk-b3a0b067)
-- 2025-12-24 | `dailyftlk-dc1c942d` | Navigating bureaucratic autonomy and capacity: The path to public sector reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-dailyftlk-dc1c942d)
-- 2025-12-24 | `dailyftlk-2e50bc58` | Adam Smith goes digital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-dailyftlk-2e50bc58)
 
 ---
 
