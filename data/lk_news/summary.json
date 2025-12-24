@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-24 06:03:49",
-  "n_docs": 95016,
+  "time_updated": "2025-12-24 06:30:49",
+  "n_docs": 95020,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 95016,
+  "n_docs_with_text": 95020,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-24",
-  "dataset_size": 1432547813,
+  "dataset_size": 1432635858,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-24-tamilmirrorlk-002e4c79",
-    "num": "tamilmirrorlk-002e4c79",
+    "doc_id": "2025-12-24-dailyftlk-11c977a4",
+    "num": "dailyftlk-11c977a4",
     "date_str": "2025-12-24",
-    "description": "\u0b8f.\u0b90. \u0b87\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0baf\u0bc2\u0b9f\u0bbf\u0baf\u0bc2\u0baa\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8f-\u0b90-\u0b87\u0bb1\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0baf\u0bc2\u0b9f\u0bbf\u0baf\u0bc2\u0baa\u0bcd-\u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8/50-370046",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1766528019.0
+    "description": "Sri Lanka welcomes India\u2019s continued support",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-welcomes-India-s-continued-support/56-786045",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766537714.0
   }
 }

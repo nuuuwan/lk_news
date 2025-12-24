@@ -313377,6 +313377,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-24-islandlk-69ca9e09",
+    "num": "islandlk-69ca9e09",
+    "date_str": "2025-12-24",
+    "description": "DFCC Bank advances acquisition of Standard Chartered Sri Lanka\u2019s retail and wealth business",
+    "url_metadata": "http://island.lk/dfcc-bank-advances-acquisition-of-standard-chartered-sri-lankas-retail-and-wealth-business/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766518920.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-24-islandlk-39e861db",
     "num": "islandlk-39e861db",
     "date_str": "2025-12-24",
@@ -313484,5 +313495,38 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1766528019.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-tamilmirrorlk-12e3b66f",
+    "num": "tamilmirrorlk-12e3b66f",
+    "date_str": "2025-12-24",
+    "description": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd-\u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0bb0\u0bb7\u0bcd\u0baf\u0bbe-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/50-370047",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1766528466.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-335d41d6",
+    "num": "dailyftlk-335d41d6",
+    "date_str": "2025-12-24",
+    "description": "Indian FM Jaishankar calls on PM Harini",
+    "url_metadata": "https://www.ft.lk/news/Indian-FM-Jaishankar-calls-on-PM-Harini/56-786044",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766537635.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-dailyftlk-11c977a4",
+    "num": "dailyftlk-11c977a4",
+    "date_str": "2025-12-24",
+    "description": "Sri Lanka welcomes India\u2019s continued support",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-welcomes-India-s-continued-support/56-786045",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766537714.0
   }
 ]
