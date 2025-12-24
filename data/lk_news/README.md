@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_19:24:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_19:47:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,178** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,179** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -59,8 +59,8 @@ A collection of lk_news documents.
 - 2025-12-24 | `virakesarilk-b65156c7` | இலங்கை - இந்திய உறவின் கடந்த காலமும் எதிர்காலமும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-b65156c7)
 - 2025-12-24 | `virakesarilk-9021e7b4` | "மறுமலர்ச்சிக்கான பாதை - 2025" நிகழ்ச்சி திட்டத்தின் கீழ் மயிலிட்டியில் வீதிகளின்  புனரமைப்பு  பணிகள் நடைபெற்று வருகின்றன! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-9021e7b4)
 - 2025-12-24 | `virakesarilk-cf22d5e6` | காட்டு யானை மீது தீ வைத்த விவகாரம் - சந்தேக நபர்களுக்கு மீண்டும் விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-cf22d5e6)
+- 2025-12-24 | `adalk-dda92e5c` | ජනපතිගේ බෝට්ටුවේ ලොකු හිලක්, ආණ්ඩුව තව අවුරුද්දයි උපරිම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-adalk-dda92e5c)
 - 2025-12-24 | `virakesarilk-5f16d87b` | கிண்ணியாவில் 200 கிலோ கிராம் பாவனைக்குதவாத பொருட்கள் கைப்பற்றப்பட்டு அழிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-5f16d87b)
-- 2025-12-24 | `virakesarilk-b8ad144d` | இலங்கையின் வீசா நீடிப்பு செயல்முறையை விமர்சித்தது சுற்றுலா வந்த குடும்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-b8ad144d)
 
 ---
 
