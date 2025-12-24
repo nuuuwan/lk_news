@@ -305974,6 +305974,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-20-islandlk-c14e3f38",
+    "num": "islandlk-c14e3f38",
+    "date_str": "2025-12-20",
+    "description": "Misplaced priorities",
+    "url_metadata": "http://island.lk/misplaced-priorities-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766212860.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-20-islandlk-2ba12dd8",
     "num": "islandlk-2ba12dd8",
     "date_str": "2025-12-20",
@@ -310825,6 +310836,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-8d29381b",
+    "num": "islandlk-8d29381b",
+    "date_str": "2025-12-22",
+    "description": "Top 10 Most Popular Festive Songs",
+    "url_metadata": "http://island.lk/top-10-most-popular-festive-songs/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766424900.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-22-islandlk-c84b41e3",
     "num": "islandlk-c84b41e3",
     "date_str": "2025-12-22",
@@ -310833,6 +310855,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1766425080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-a90c51aa",
+    "num": "islandlk-a90c51aa",
+    "date_str": "2025-12-22",
+    "description": "GDP data reaffirms persistent asymmetry of Sri Lanka\u2019s provincial economy",
+    "url_metadata": "http://island.lk/gdp-data-reaffirms-persistent-asymmetry-of-sri-lankas-provincial-economy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766425260.0
   },
   {
     "doc_type": "lk_news",
@@ -313330,6 +313363,83 @@
     "lang": "si",
     "newspaper_id": "lankadeepalk",
     "time_ut": 1766510595.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-colombotelegraphcom-764ce766",
+    "num": "colombotelegraphcom-764ce766",
+    "date_str": "2025-12-24",
+    "description": "\u2018Yakada Yaka\u2019 In Hill Country",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/yakada-yaka-in-hill-country/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1766516318.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-islandlk-39e861db",
+    "num": "islandlk-39e861db",
+    "date_str": "2025-12-24",
+    "description": "Market rebounds on Indian aid news, ASPI gains 28.80 points",
+    "url_metadata": "http://island.lk/market-rebounds-on-indian-aid-news-aspi-gains-28-80-points/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766518980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-islandlk-76b860fa",
+    "num": "islandlk-76b860fa",
+    "date_str": "2025-12-24",
+    "description": "SLT-MOBITEL drives next digital transformation\u00a0with\u00a05G",
+    "url_metadata": "http://island.lk/slt-mobitel-drives-next-digital-transformation-with-5g/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766519100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-islandlk-45796b0b",
+    "num": "islandlk-45796b0b",
+    "date_str": "2025-12-24",
+    "description": "Chinese Dragon Caf\u00e9 opens flagship outlet in Galle",
+    "url_metadata": "http://island.lk/chinese-dragon-cafe-opens-flagship-outlet-in-galle/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766519160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-islandlk-af973c07",
+    "num": "islandlk-af973c07",
+    "date_str": "2025-12-24",
+    "description": "The Avenue Colombo unveils new dining experiences for holiday season",
+    "url_metadata": "http://island.lk/the-avenue-colombo-unveils-new-dining-experiences-for-holiday-season/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766519160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-islandlk-7165b88f",
+    "num": "islandlk-7165b88f",
+    "date_str": "2025-12-24",
+    "description": "Ogilvy Group continues winning streak at Campaign Asia Agency of the Year Awards",
+    "url_metadata": "http://island.lk/ogilvy-group-continues-winning-streak-at-campaign-asia-agency-of-the-year-awards/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766519220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-24-islandlk-751eb840",
+    "num": "islandlk-751eb840",
+    "date_str": "2025-12-24",
+    "description": "Prime Group stands with children of police families affected by Cyclone Ditwah",
+    "url_metadata": "http://island.lk/prime-group-stands-with-children-of-police-families-affected-by-cyclone-ditwah/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766519280.0
   },
   {
     "doc_type": "lk_news",

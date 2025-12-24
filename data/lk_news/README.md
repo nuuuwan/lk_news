@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_05:17:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--24_06:04:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,006** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,016** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,13 @@ A collection of lk_news documents.
 - 2025-12-24 | `virakesarilk-982c3aff` | பாதிப்புக்கள் குறித்த முழுமையான அறிக்கையை தயாரிப்பதற்கு 3 மாதங்கள் செல்லும் - அமைச்சரவை பேச்சாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-982c3aff)
 - 2025-12-24 | `virakesarilk-a8c1fe42` | கொழும்பு மாநகரசபை நிர்வாகம் இன்று முதல் கூட்டு எதிர்க்கட்சியின் கையில் – முஜிபுர் ரஹ்மான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-a8c1fe42)
 - 2025-12-24 | `virakesarilk-13c90c89` | இலங்கையுடனான 2ஆவது மகளிர் ரி20 போட்டியிலும் இந்தியா வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-virakesarilk-13c90c89)
+- 2025-12-24 | `islandlk-751eb840` | Prime Group stands with children of police families affected by Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-islandlk-751eb840)
+- 2025-12-24 | `islandlk-7165b88f` | Ogilvy Group continues winning streak at Campaign Asia Agency of the Year Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-islandlk-7165b88f)
+- 2025-12-24 | `islandlk-af973c07` | The Avenue Colombo unveils new dining experiences for holiday season | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-islandlk-af973c07)
+- 2025-12-24 | `islandlk-45796b0b` | Chinese Dragon Café opens flagship outlet in Galle | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-islandlk-45796b0b)
+- 2025-12-24 | `islandlk-76b860fa` | SLT-MOBITEL drives next digital transformation with 5G | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-islandlk-76b860fa)
+- 2025-12-24 | `islandlk-39e861db` | Market rebounds on Indian aid news, ASPI gains 28.80 points | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-islandlk-39e861db)
+- 2025-12-24 | `colombotelegraphcom-764ce766` | ‘Yakada Yaka’ In Hill Country | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-24-colombotelegraphcom-764ce766)
 - 2025-12-23 | `lankadeepalk-98d85e64` | රට ගොඩ නගන්න චීනයෙනුත් පොරොන්දුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-98d85e64)
 - 2025-12-23 | `virakesarilk-49dc39b6` | யாழ்ப்பாணத்தில் விசேட சுற்றிவளைப்பு சோதனை: 17 வயது மாணவர் உட்பட 10 பேர் போதைப் பொருட்களுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-49dc39b6)
 - 2025-12-23 | `virakesarilk-324a5b0c` | கிளிநொச்சியில் ரயிலுடன் மோதுண்டு ஒருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-324a5b0c)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-12-23 | `tamilmirrorlk-a0c79e7c` | ஜெய்சங்கரிடம் செந்தில் தொண்டமான் முன்வைத்த முக்கிய கோரிக்கைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-tamilmirrorlk-a0c79e7c)
 - 2025-12-23 | `virakesarilk-75b539fa` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு Damro 50 மில்லியன் ரூபா நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-75b539fa)
 - 2025-12-23 | `virakesarilk-a6b60f8f` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு Cargills (Ceylon) PLC  100 மில்லியன் ரூபா நன்கொடையாக வழங்கியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-a6b60f8f)
-- 2025-12-23 | `virakesarilk-414ef76e` | ‘Rebuilding Sri Lanka’ நிதிக்கு Prime Land நிறுவனம்  200 மில்லியன் ரூபா நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-414ef76e)
-- 2025-12-23 | `virakesarilk-b6feb902` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு  NDB Finance Limited 50 மில்லியன் ரூபா  நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-b6feb902)
-- 2025-12-23 | `virakesarilk-78443205` | Rebuilding Sri Lanka’ நிதியத்திற்கு மேலும் 14.1 மில்லியன் ரூபா நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-78443205)
-- 2025-12-23 | `virakesarilk-5969c798` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு Commercial Bank இனால் 110 மில்லியன் ரூபா நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-5969c798)
-- 2025-12-23 | `lankadeepalk-7be3c84c` | දුම්රිය සමූපකාර සමිතියේ සභාපති ධූරය වීරකෝන්ට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-lankadeepalk-7be3c84c)
-- 2025-12-23 | `virakesarilk-babe1c67` | இந்திய வெளிவிவகார அமைச்சர் ஜெய்சங்கருடன் ஜீவன் தொண்டமான் சந்திப்பு! – மலையக மக்களின் நலன் குறித்த முக்கிய கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-babe1c67)
-- 2025-12-23 | `virakesarilk-b1a2afff` | இ.தொ.கா தலைவர் செந்தில் தொண்டமான் இந்திய வெளியுறவுதுறை அமைச்சரிடம் முன்வைத்த முக்கிய 4 கோரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-23-virakesarilk-b1a2afff)
 
 ---
 
