@@ -315827,5 +315827,93 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766623928.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-dailyftlk-980df4e8",
+    "num": "dailyftlk-980df4e8",
+    "date_str": "2025-12-25",
+    "description": "Debt relief as disaster relief: A timely call by international experts",
+    "url_metadata": "https://www.ft.lk/columns/Debt-relief-as-disaster-relief-A-timely-call-by-international-experts/4-786116",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766624212.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-dailyftlk-f168497d",
+    "num": "dailyftlk-f168497d",
+    "date_str": "2025-12-25",
+    "description": "Elephants in the fridge and humans in the wedge?",
+    "url_metadata": "https://www.ft.lk/columns/Elephants-in-the-fridge-and-humans-in-the-wedge/4-786117",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766624650.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-dailyftlk-481bdd8b",
+    "num": "dailyftlk-481bdd8b",
+    "date_str": "2025-12-25",
+    "description": "Gaza explodes in Sydney",
+    "url_metadata": "https://www.ft.lk/columns/Gaza-explodes-in-Sydney/4-786118",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766625056.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-dailyftlk-325e6ef8",
+    "num": "dailyftlk-325e6ef8",
+    "date_str": "2025-12-25",
+    "description": "Christmas amidst climate catastrophe: Serenity of stillness",
+    "url_metadata": "https://www.ft.lk/columns/Christmas-amidst-climate-catastrophe-Serenity-of-stillness/4-786119",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766625309.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-dailyftlk-78e19028",
+    "num": "dailyftlk-78e19028",
+    "date_str": "2025-12-25",
+    "description": "Xizang actively contributing to Chinese modernisation",
+    "url_metadata": "https://www.ft.lk/opinion/Xizang-actively-contributing-to-Chinese-modernisation/14-786120",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766625526.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-dailyftlk-e89145e9",
+    "num": "dailyftlk-e89145e9",
+    "date_str": "2025-12-25",
+    "description": "Collective for Social Media Declaration has its say on Protection of the State from Terrorism Act",
+    "url_metadata": "https://www.ft.lk/opinion/Collective-for-Social-Media-Declaration-has-its-say-on-Protection-of-the-State-from-Terrorism-Act/14-786121",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766625689.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-dailyftlk-0a369506",
+    "num": "dailyftlk-0a369506",
+    "date_str": "2025-12-25",
+    "description": "Taj Samudra, Colombo hosts India\u2019s External Affairs Minister",
+    "url_metadata": "https://www.ft.lk/business/Taj-Samudra-Colombo-hosts-India-s-External-Affairs-Minister/34-786122",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766625792.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-dailyftlk-40024647",
+    "num": "dailyftlk-40024647",
+    "date_str": "2025-12-25",
+    "description": "16th Jaffna International Trade Fair returns in January 2026",
+    "url_metadata": "https://www.ft.lk/business/16th-Jaffna-International-Trade-Fair-returns-in-January-2026/34-786123",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766625860.0
   }
 ]

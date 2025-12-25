@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-25 06:30:53",
-  "n_docs": 95229,
+  "time_updated": "2025-12-25 07:14:55",
+  "n_docs": 95237,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 95229,
+  "n_docs_with_text": 95237,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-25",
-  "dataset_size": 1435918378,
+  "dataset_size": 1436147095,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-25-dailyftlk-11a76179",
-    "num": "dailyftlk-11a76179",
+    "doc_id": "2025-12-25-dailyftlk-40024647",
+    "num": "dailyftlk-40024647",
     "date_str": "2025-12-25",
-    "description": "Mitigating landslides in the upper catchments of Sri Lanka",
-    "url_metadata": "https://www.ft.lk/columns/Mitigating-landslides-in-the-upper-catchments-of-Sri-Lanka/4-786115",
+    "description": "16th Jaffna International Trade Fair returns in January 2026",
+    "url_metadata": "https://www.ft.lk/business/16th-Jaffna-International-Trade-Fair-returns-in-January-2026/34-786123",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1766623928.0
+    "time_ut": 1766625860.0
   }
 }
