@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_19:23:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_19:47:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,313** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,317** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-25-virakesarilk-fab1a1a3",
-    "num": "virakesarilk-fab1a1a3",
+    "doc_id": "2025-12-25-lankadeepalk-2f5da707",
+    "num": "lankadeepalk-2f5da707",
     "date_str": "2025-12-25",
-    "description": "\u0bae\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0baa\u0bb2 \u0ba8\u0b9f\u0bbf\u0b95\u0bb0\u0bcd \u0b9a\u0ba4\u0bbf\u0bb7\u0bcd\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbf\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bc2\u0ba4\u0bb5\u0bc1\u0b9f\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u00a0\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0ba8\u0bc1\u0bb0\u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0ba4\u0bbf\u0b9a\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0b85\u0b9e\u0bcd\u0b9a\u0bb2\u0bbf \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/234417",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1766669640.0
+    "description": "\u0db6\u0dd9\u0dbd\u0dd2\u0d85\u0dad\u0dca\u0dad\u0dda \u0db6\u0dc3\u0dca - \u0da7\u0dd2\u0db4\u0dbb\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0d9a\u0dd2\u0db1\u0dca 30\u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db6\u0dbd\u0d85\u0dad\u0dad-\u0db6\u0dc3-\u0da7\u0db4\u0dbb-\u0d85\u0db1\u0dad\u0dbb\u0d9a\u0db1-30\u0d9a-\u0dbb\u0dc4\u0dbd\u0da7/101-685851",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1766671824.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-25 | `lankadeepalk-2f5da707` | බෙලිඅත්තේ බස් - ටිපර් අනතුරකින් 30ක් රෝහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-2f5da707)
+- 2025-12-25 | `lankadeepalk-300062ba` | ගම්පහ රෝහලේ පැරණි සහ අලුත් වාට්ටු සම්බන්ධකර පාලමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-300062ba)
+- 2025-12-25 | `lankadeepalk-7cfa5fab` | කසකස්තානයෙන් සංචාරකයෝ පිරිසක් එති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-7cfa5fab)
+- 2025-12-25 | `lankadeepalk-d8ec15d9` | ජනපති සතිස්චන්ද්‍රට අවසන් ගෞරව දක්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-d8ec15d9)
 - 2025-12-25 | `virakesarilk-fab1a1a3` | மறைந்த பிரபல நடிகர் சதிஷ்சந்திர எதிரிசிங்கவின் பூதவுடலுக்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க இறுதி அஞ்சலி செலுத்தினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-fab1a1a3)
 - 2025-12-25 | `virakesarilk-097cd9e6` | உஸ்வடகையாவ புனித மரியாள் தேவாலயத்தில் நத்தார் நள்ளிரவு திருப்பலி ஒப்புக்கொடுக்கப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-097cd9e6)
 - 2025-12-25 | `tamilmirrorlk-b2b41e1e` | அடுத்த 36 மணித்தியாலங்களில் ஏற்படப்போகும் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-tamilmirrorlk-b2b41e1e)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-25 | `lankadeepalk-adc392ac` | පල්ලි ආරක්ෂාවට පොලිසියෙන් 2500ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-adc392ac)
 - 2025-12-25 | `adalk-fb7b45c9` | ඖෂධවල ප්‍රමිති පරීක්ෂණ ක්‍රියාවළිය පුළුල් කිරීමට අවධානය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-adalk-fb7b45c9)
 - 2025-12-25 | `lankadeepalk-46098617` | සිමෙන්ති ලොරිය ප්‍රපාතයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-46098617)
-- 2025-12-25 | `lankadeepalk-e2938db1` | සාමය මනුෂ්‍ය වර්ගයාට අවශ්‍යම දෙයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-e2938db1)
-- 2025-12-25 | `tamilmirrorlk-f73b6c30` | நாளை 2 நிமிட மௌன அஞ்சலி செலுத்துங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-tamilmirrorlk-f73b6c30)
-- 2025-12-25 | `virakesarilk-86fd601b` | நடிகர் ரவி மோகன் வெளியிட்ட  ஜீ. வி. பிரகாஷ் குமாரின் 'இம்மாற்றல்' பட டீசர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-86fd601b)
-- 2025-12-25 | `virakesarilk-05537cf9` | நடிகர் குரு சோமசுந்தரம் நடிக்கும் 'பாரிஸ் கஃபே' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-05537cf9)
 
 ---
 
