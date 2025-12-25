@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_20:47:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_21:18:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,321** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,322** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-25-virakesarilk-5f29710d",
-    "num": "virakesarilk-5f29710d",
+    "doc_id": "2025-12-25-lankadeepalk-f4e8ab7f",
+    "num": "lankadeepalk-f4e8ab7f",
     "date_str": "2025-12-25",
-    "description": "\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bbe\u0b9e\u0bcd\u0b9a\u0bc7\u0ba9\u0bc8 \u0b95\u0bca\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bc8 \u0baa\u0bc1\u0ba9\u0bbf\u0ba4 \u0b85\u0ba8\u0bcd\u0ba4\u0bcb\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0b86\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1 \u0b95\u0bbf\u0bb0\u0bc1\u0bb8\u0bcd\u0ba4\u0bc1\u0bae\u0bb8\u0bcd \u0b86\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8 \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/234420",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1766673660.0
+    "description": "\u0db6\u0d82\u0d9c\u0dbd\u0dcf\u0daf\u0dda\u0dc1 \u0db6\u0dbd\u0dcf\u0db4\u0ddc\u0dbb\u0ddc\u0dad\u0dca\u0dad\u0dd4\u0dc0 \u0dad\u0dcf\u0dbb\u0dd2\u0d9a\u0dca \u0dbb\u0dc4\u0dca\u0db8\u0dcf\u0db1\u0dca \u0dba\u0dc5\u0dd2 \u0db8\u0dc0\u0dca \u0dbb\u0da7\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db6\u0d9c\u0dbd\u0daf\u0dc1-\u0db6\u0dbd\u0db4\u0dbb\u0dad\u0dad\u0dc0-\u0dad\u0dbb\u0d9a-\u0dbb\u0dc4\u0db8\u0db1-\u0dba\u0dc5-\u0db8\u0dc0-\u0dbb\u0da7\u0da7/101-685852",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1766677195.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-25 | `lankadeepalk-f4e8ab7f` | බංගලාදේශ බලාපොරොත්තුව තාරික් රහ්මාන් යළි මව් රටට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-f4e8ab7f)
 - 2025-12-25 | `virakesarilk-5f29710d` | கொட்டாஞ்சேனை கொச்சிக்கடை புனித அந்தோனியார் ஆலயத்தில் நள்ளிரவு கிருஸ்துமஸ் ஆராதனை நடைபெற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-5f29710d)
 - 2025-12-25 | `virakesarilk-6e8d90e1` | புத்துயிர் பெறும் நுவரெலியா - படையெடுக்கும் சுற்றுலா பயணிகள்; சுற்றுலா பயணிகளை கவர்ந்த மாறுபட்ட காலநிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-6e8d90e1)
 - 2025-12-25 | `virakesarilk-249c27bc` | மட்டக்களப்பில் படுகொலை செய்யப்பட்ட ஜோசப் பரராஜசிங்கம்; நீதி வேண்டி ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-249c27bc)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-25 | `virakesarilk-a25a4c03` | சிறை - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-a25a4c03)
 - 2025-12-25 | `virakesarilk-aab288df` | ஆவண படமாக உருவாகியுள்ள 'ஆர் எம் வி : தி கிங் மேக்கர்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-aab288df)
 - 2025-12-25 | `virakesarilk-23ce8f98` | பருத்தி - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-23ce8f98)
-- 2025-12-25 | `virakesarilk-2d0de563` | இலங்கையில் படுகொலை செய்யப்பட்ட முதல் ஊடகவியலாளர் தேவராசா - மட்டக்களப்பில் நினைவேந்தல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-2d0de563)
 
 ---
 
