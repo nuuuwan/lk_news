@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_10:26:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_10:49:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,257** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,264** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-25-virakesarilk-b5e69de6",
-    "num": "virakesarilk-b5e69de6",
+    "doc_id": "2025-12-25-virakesarilk-a9408468",
+    "num": "virakesarilk-a9408468",
     "date_str": "2025-12-25",
-    "description": "\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba8\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0baa\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bc8\u0baf\u0bc8 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0ba4\u0bcd\u0bb2\u0b95\u0bc7\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/234373",
+    "description": "2025 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0baf\u0bbe\u0ba9\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bc0\u0ba4\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/234378",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1766635620.0
+    "time_ut": 1766639280.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-25 | `virakesarilk-a9408468` | 2025 ஆம் ஆண்டில் யானைகளின் இறப்பு வீதம் அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-a9408468)
+- 2025-12-25 | `virakesarilk-165be7c6` | விண்வெளியில் ஆதிக்கத்தை செலுத்த திட்டமிட்டுள்ள ரஷ்யா ; பத்து ஆண்டுகளில் நிலவில் அணுமின் நிலையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-165be7c6)
+- 2025-12-25 | `virakesarilk-48fb3de6` | நைஜீரியாவில் பள்ளிவாசலில் குண்டுவெடிப்பு ; ஐந்து பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-48fb3de6)
+- 2025-12-25 | `virakesarilk-4744d6ad` | இண்டிகோ சேவையில் ஏற்பட்ட குளறுபடிக்குப் பின்னர்  இந்தியாவில் 03 புதிய விமான நிறுவனங்கள் உதயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-4744d6ad)
+- 2025-12-25 | `virakesarilk-5943c51b` | சுற்றுச்சூழல் சட்டங்களை மீறுபவர்களுக்கு எதிராக நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-5943c51b)
+- 2025-12-25 | `virakesarilk-e8256895` | நல்லாட்சியை நிலைநிறுத்துவதற்கு சிறந்த முறைமைகள் அவசியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-e8256895)
+- 2025-12-25 | `virakesarilk-096b5d64` | அமுணு கடுல்ல மதகு கட்டுமானப் பணிகளைப் பார்வையிட்டார் அமைச்சர் சரோஜா சாவித்ரி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-096b5d64)
 - 2025-12-25 | `virakesarilk-b5e69de6` | இரண்டு வருடங்கள் கழித்து நத்தார் பண்டிகையை கொண்டாடும் பெத்லகேம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-b5e69de6)
 - 2025-12-25 | `tamilmirrorlk-822c3ae5` | ஜனாதிபதி நத்தார் வாழ்த்துச் செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-tamilmirrorlk-822c3ae5)
 - 2025-12-25 | `tamilmirrorlk-51d86e8e` | மொஸ்கோவில் குண்டுவெடிப்பு: மூவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-tamilmirrorlk-51d86e8e)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2025-12-25 | `lankadeepalk-af88e02e` | අඳුරු යුගය පළවා හරිමු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-af88e02e)
 - 2025-12-25 | `dailyftlk-794de610` | Prime Group stands with children of Police families affected by Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-dailyftlk-794de610)
 - 2025-12-25 | `dailyftlk-b41650ca` | Lion Brewery reaffirms commitment to flood resilience and community support in Biyagama | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-dailyftlk-b41650ca)
-- 2025-12-25 | `dailyftlk-af2f1890` | Rhino Roofing rises up to strengthen children’s education | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-dailyftlk-af2f1890)
-- 2025-12-25 | `dailyftlk-0dcc7c91` | Several private companies donate to ‘Rebuilding Sri Lanka’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-dailyftlk-0dcc7c91)
-- 2025-12-25 | `dailyftlk-b0f45757` | Morison ‘Suwa Deya’ platform supports cyclone‑affected communities with purpose‑driven action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-dailyftlk-b0f45757)
-- 2025-12-25 | `dailyftlk-7cb1a697` | Sri Lanka Insurance supports 1000 families in flood-affected areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-dailyftlk-7cb1a697)
-- 2025-12-25 | `dailyftlk-40024647` | 16th Jaffna International Trade Fair returns in January 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-dailyftlk-40024647)
-- 2025-12-25 | `dailyftlk-0a369506` | Taj Samudra, Colombo hosts India’s External Affairs Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-dailyftlk-0a369506)
-- 2025-12-25 | `dailyftlk-e89145e9` | Collective for Social Media Declaration has its say on Protection of the State from Terrorism Act | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-dailyftlk-e89145e9)
 
 ---
 
