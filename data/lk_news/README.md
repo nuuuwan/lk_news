@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_12:27:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_12:49:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,276** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,278** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,8 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2025-12-25 | `tamilmirrorlk-ac5bd1f4` | அக்கரைப்பற்று விபத்தில் 12 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-tamilmirrorlk-ac5bd1f4)
+- 2025-12-25 | `virakesarilk-947e428f` | நாடளாவிய ரீதியில் சுற்றிவளைப்பு: பொலிஸாரால் பலர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-947e428f)
+- 2025-12-25 | `virakesarilk-a2b5f10a` | “முழு நாடுமே ஒன்றாக”: நாடளாவிய ரீதியில் விசேட போதைப்பொருள் ஒழிப்பு நடவடிக்கை - பலர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-a2b5f10a)
 - 2025-12-25 | `virakesarilk-15fb0cae` | நாடளாவிய ரீதியில் நடைபெற்ற நத்தார் ஆராதனைகள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-15fb0cae)
 - 2025-12-25 | `virakesarilk-a75a9541` | வேக கட்டுப்பாட்டை இழந்து பஸ் விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-a75a9541)
 - 2025-12-25 | `virakesarilk-9a46ddbe` | யாழில் நத்தார் கொண்டாட்டத்திற்காக பலியாக்க இருந்த மாடுகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-9a46ddbe)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-25 | `virakesarilk-5943c51b` | சுற்றுச்சூழல் சட்டங்களை மீறுபவர்களுக்கு எதிராக நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-5943c51b)
 - 2025-12-25 | `virakesarilk-e8256895` | நல்லாட்சியை நிலைநிறுத்துவதற்கு சிறந்த முறைமைகள் அவசியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-e8256895)
 - 2025-12-25 | `virakesarilk-096b5d64` | அமுணு கடுல்ல மதகு கட்டுமானப் பணிகளைப் பார்வையிட்டார் அமைச்சர் சரோஜா சாவித்ரி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-096b5d64)
-- 2025-12-25 | `virakesarilk-b5e69de6` | இரண்டு வருடங்கள் கழித்து நத்தார் பண்டிகையை கொண்டாடும் பெத்லகேம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-b5e69de6)
-- 2025-12-25 | `tamilmirrorlk-822c3ae5` | ஜனாதிபதி நத்தார் வாழ்த்துச் செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-tamilmirrorlk-822c3ae5)
 
 ---
 
