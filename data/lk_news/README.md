@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_12:49:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_13:18:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,278** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,279** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,7 @@ A collection of lk_news documents.
 - 2025-12-25 | `virakesarilk-a75a9541` | வேக கட்டுப்பாட்டை இழந்து பஸ் விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-a75a9541)
 - 2025-12-25 | `virakesarilk-9a46ddbe` | யாழில் நத்தார் கொண்டாட்டத்திற்காக பலியாக்க இருந்த மாடுகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-9a46ddbe)
 - 2025-12-25 | `virakesarilk-2671150a` | அதிவேக நெஞ்சாலை போக்குவரத்து நெரிசலை குறைக்க சாரதிகளின் ஒத்துழைப்பு அவசியம் - வீதி அபிவிருத்தி அதிகாரசபையின் பணிப்பாளர் நாயகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-2671150a)
+- 2025-12-25 | `adalk-92909a3d` | තෙල් සංස්ථා සේවකයෝ මිලියන 16ක් රට ගොඩනගන අරමුදලට දෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-adalk-92909a3d)
 - 2025-12-25 | `lankadeepalk-c7c6d390` | බසයක් පෙරලී 12ක් රෝහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-c7c6d390)
 - 2025-12-25 | `lankadeepalk-8e9cd27e` | සරසවි ඇදුරන් රතු එළි දල්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-8e9cd27e)
 - 2025-12-25 | `virakesarilk-16609d36` | கிறிஸ்மஸ் உலக மக்களுக்கு கருணையை வெளிப்படுத்துகிறது! - இ.தொ.கா. தலைவர் செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-16609d36)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-25 | `virakesarilk-4744d6ad` | இண்டிகோ சேவையில் ஏற்பட்ட குளறுபடிக்குப் பின்னர்  இந்தியாவில் 03 புதிய விமான நிறுவனங்கள் உதயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-4744d6ad)
 - 2025-12-25 | `virakesarilk-5943c51b` | சுற்றுச்சூழல் சட்டங்களை மீறுபவர்களுக்கு எதிராக நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-5943c51b)
 - 2025-12-25 | `virakesarilk-e8256895` | நல்லாட்சியை நிலைநிறுத்துவதற்கு சிறந்த முறைமைகள் அவசியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-e8256895)
-- 2025-12-25 | `virakesarilk-096b5d64` | அமுணு கடுல்ல மதகு கட்டுமானப் பணிகளைப் பார்வையிட்டார் அமைச்சர் சரோஜா சாவித்ரி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-096b5d64)
 
 ---
 
