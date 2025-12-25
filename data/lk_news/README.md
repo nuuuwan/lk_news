@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_15:19:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_15:48:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,287** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,290** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-25-virakesarilk-a20b63b6",
-    "num": "virakesarilk-a20b63b6",
+    "doc_id": "2025-12-25-virakesarilk-313ed667",
+    "num": "virakesarilk-313ed667",
     "date_str": "2025-12-25",
-    "description": "\u0b95\u0bbe\u0b9f\u0bc1 \u0bae\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0bc1\u0bb0\u0bc8\u0b9a\u0bcd\u0b9a\u0bcb\u0bb2\u0bc8 \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd; 21 \u0bb5\u0bb0\u0bc1\u0b9f \u0b85\u0bb5\u0bb2 \u0ba8\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/234395",
+    "description": "\u0bae\u0bbe\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd \u0bae\u0b95\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd \u0ba8\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd '\u0ba4\u0bcd\u0bb0\u0bbf \u0b95\u0ba3\u0bcd\u0b9f\u0bbe'  \u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/234398",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1766653440.0
+    "time_ut": 1766655780.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-25 | `virakesarilk-313ed667` | மாஸ்டர் மகேந்திரன் நடிக்கும் 'த்ரி கண்டா'  படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-313ed667)
+- 2025-12-25 | `virakesarilk-b8d76d7f` | நத்தார் பண்டிகையை முன்னிட்டு பிரார்த்தனையில் பங்கேற்றார் இந்திய பிரதமர் மோடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-b8d76d7f)
+- 2025-12-25 | `virakesarilk-f9923805` | நடிகை ராஷ்மிகா மந்தானா நடிக்கும் ' மைசா ' படத்தின் கிளர்வோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-f9923805)
 - 2025-12-25 | `virakesarilk-a20b63b6` | காடு மண்டிக் காணப்படும் நுரைச்சோலை வீடுகள்; 21 வருட அவல நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-a20b63b6)
 - 2025-12-25 | `virakesarilk-dc029b6a` | மானிப்பாய் பொலிஸார் துரத்தி சென்ற கார்  கோர விபத்து - மூவர் படுகாயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-dc029b6a)
 - 2025-12-25 | `virakesarilk-e310aa87` | சுனாமி, டித்வா புயலில் உயிரிழந்தவர்களுக்கு நினைவேந்தல் ; நாளை 2 நிமிட மௌன அஞ்சலி ; பொதுமக்களிடம் வேண்டுகோள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-e310aa87)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-25 | `virakesarilk-2671150a` | அதிவேக நெஞ்சாலை போக்குவரத்து நெரிசலை குறைக்க சாரதிகளின் ஒத்துழைப்பு அவசியம் - வீதி அபிவிருத்தி அதிகாரசபையின் பணிப்பாளர் நாயகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-2671150a)
 - 2025-12-25 | `adalk-92909a3d` | තෙල් සංස්ථා සේවකයෝ මිලියන 16ක් රට ගොඩනගන අරමුදලට දෙති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-adalk-92909a3d)
 - 2025-12-25 | `lankadeepalk-c7c6d390` | බසයක් පෙරලී 12ක් රෝහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-c7c6d390)
-- 2025-12-25 | `lankadeepalk-8e9cd27e` | සරසවි ඇදුරන් රතු එළි දල්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-8e9cd27e)
-- 2025-12-25 | `virakesarilk-16609d36` | கிறிஸ்மஸ் உலக மக்களுக்கு கருணையை வெளிப்படுத்துகிறது! - இ.தொ.கா. தலைவர் செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-16609d36)
-- 2025-12-25 | `virakesarilk-31a2a041` | சிறைக்  கைதிகளை பார்வையிட விசேட  அனுமதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-31a2a041)
 
 ---
 
