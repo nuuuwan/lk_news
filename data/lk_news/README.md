@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_14:24:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--25_14:48:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,284** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,287** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-25-virakesarilk-078b2c13",
-    "num": "virakesarilk-078b2c13",
+    "doc_id": "2025-12-25-virakesarilk-a20b63b6",
+    "num": "virakesarilk-a20b63b6",
     "date_str": "2025-12-25",
-    "description": "\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0bae\u0bbf\u0ba4\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbe\u0bb2\u0bcd\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0b85\u0bb4\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/234393",
+    "description": "\u0b95\u0bbe\u0b9f\u0bc1 \u0bae\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0bc1\u0bb0\u0bc8\u0b9a\u0bcd\u0b9a\u0bcb\u0bb2\u0bc8 \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bcd; 21 \u0bb5\u0bb0\u0bc1\u0b9f \u0b85\u0bb5\u0bb2 \u0ba8\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/234395",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1766650500.0
+    "time_ut": 1766653440.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-25 | `virakesarilk-a20b63b6` | காடு மண்டிக் காணப்படும் நுரைச்சோலை வீடுகள்; 21 வருட அவல நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-a20b63b6)
+- 2025-12-25 | `virakesarilk-dc029b6a` | மானிப்பாய் பொலிஸார் துரத்தி சென்ற கார்  கோர விபத்து - மூவர் படுகாயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-dc029b6a)
+- 2025-12-25 | `virakesarilk-e310aa87` | சுனாமி, டித்வா புயலில் உயிரிழந்தவர்களுக்கு நினைவேந்தல் ; நாளை 2 நிமிட மௌன அஞ்சலி ; பொதுமக்களிடம் வேண்டுகோள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-e310aa87)
 - 2025-12-25 | `virakesarilk-078b2c13` | கைப்பற்றப்பட்ட சட்டவிரோத மிதக்கும் பந்து வால்வுகளை அழிக்க நீதிமன்றம் உத்தரவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-078b2c13)
 - 2025-12-25 | `tamilmirrorlk-f2573315` | அஸ்கிரி மற்றும் மல்வத்து அனுநாயக்க தேரர்களின் வேண்டுகோள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-tamilmirrorlk-f2573315)
 - 2025-12-25 | `tamilmirrorlk-7b1dea1a` | வரவுசெலவுத்திட்டம் 3 ஆவது முறையாகவும் தோல்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-tamilmirrorlk-7b1dea1a)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-25 | `lankadeepalk-8e9cd27e` | සරසවි ඇදුරන් රතු එළි දල්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-8e9cd27e)
 - 2025-12-25 | `virakesarilk-16609d36` | கிறிஸ்மஸ் உலக மக்களுக்கு கருணையை வெளிப்படுத்துகிறது! - இ.தொ.கா. தலைவர் செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-16609d36)
 - 2025-12-25 | `virakesarilk-31a2a041` | சிறைக்  கைதிகளை பார்வையிட விசேட  அனுமதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-31a2a041)
-- 2025-12-25 | `virakesarilk-903aa442` | இந்தியாவில் பஸ் தீப்பிடித்து எரிந்ததில் 17 பேர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-903aa442)
-- 2025-12-25 | `adalk-f3d7a4c5` | දිත්වාගෙන් පසු මී මුරේ තවමත් හුදෙකලා වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-adalk-f3d7a4c5)
-- 2025-12-25 | `virakesarilk-a9408468` | 2025 ஆம் ஆண்டில் யானைகளின் இறப்பு வீதம் அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-a9408468)
 
 ---
 
