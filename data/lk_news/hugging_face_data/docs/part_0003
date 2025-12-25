@@ -308526,6 +308526,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-21-islandlk-1a0f2e85",
+    "num": "islandlk-1a0f2e85",
+    "date_str": "2025-12-21",
+    "description": "Danger of weak drug regulation",
+    "url_metadata": "http://island.lk/danger-of-weak-drug-regulation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766335020.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-21-colombotelegraphcom-c55c6dd7",
     "num": "colombotelegraphcom-c55c6dd7",
     "date_str": "2025-12-21",
@@ -310822,6 +310833,28 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1766424046.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-2b782c5f",
+    "num": "islandlk-2b782c5f",
+    "date_str": "2025-12-22",
+    "description": "General education reforms: What about language and ethnicity?",
+    "url_metadata": "http://island.lk/general-education-reforms-what-about-language-and-ethnicity/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766424360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-a5107b75",
+    "num": "islandlk-a5107b75",
+    "date_str": "2025-12-22",
+    "description": "Sustaining good governance requires good systems",
+    "url_metadata": "http://island.lk/sustaining-good-governance-requires-good-systems/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766424660.0
   },
   {
     "doc_type": "lk_news",
@@ -313399,6 +313432,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-24-islandlk-34a31c01",
+    "num": "islandlk-34a31c01",
+    "date_str": "2025-12-24",
+    "description": "Australia\u2019s social media ban: A sledgehammer approach to a scalpel problem",
+    "url_metadata": "http://island.lk/australias-social-media-ban-a-sledgehammer-approach-to-a-scalpel-problem/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766517360.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-24-islandlk-69ca9e09",
     "num": "islandlk-69ca9e09",
     "date_str": "2025-12-24",
@@ -315478,6 +315522,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-bdbff5f0",
+    "num": "islandlk-bdbff5f0",
+    "date_str": "2025-12-25",
+    "description": "Christmas plans that changed",
+    "url_metadata": "http://island.lk/christmas-plans-that-changed/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766602320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-7b94e65c",
+    "num": "islandlk-7b94e65c",
+    "date_str": "2025-12-25",
+    "description": "Psychosocial insights from the birth of Our Lord Jesus for a world striving to uphold the sanctity of human life",
+    "url_metadata": "http://island.lk/psychosocial-insights-from-the-birth-of-our-lord-jesus-for-a-world-striving-to-uphold-the-sanctity-of-human-life/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766602560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-859c5ccb",
+    "num": "islandlk-859c5ccb",
+    "date_str": "2025-12-25",
+    "description": "Significant institutional participation props up CSE",
+    "url_metadata": "http://island.lk/significant-institutional-participation-props-up-cse/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766603700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-920203a2",
+    "num": "islandlk-920203a2",
+    "date_str": "2025-12-25",
+    "description": "T-Bill yields climb as Central Bank calibrates auction",
+    "url_metadata": "http://island.lk/t-bill-yields-climb-as-central-bank-calibrates-auction/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766603760.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-25-virakesarilk-2fc6ca18",
     "num": "virakesarilk-2fc6ca18",
     "date_str": "2025-12-25",
@@ -315486,6 +315574,28 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766603760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-17dba23a",
+    "num": "islandlk-17dba23a",
+    "date_str": "2025-12-25",
+    "description": "SriLankan Airlines leads digital push to rebuild tourist confidence after cyclone",
+    "url_metadata": "http://island.lk/srilankan-airlines-leads-digital-push-to-rebuild-tourist-confidence-after-cyclone/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766603820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-21eb0e7f",
+    "num": "islandlk-21eb0e7f",
+    "date_str": "2025-12-25",
+    "description": "Lion Brewery recognised as Sri Lanka\u2019s Top Beverage Exporter",
+    "url_metadata": "http://island.lk/lion-brewery-recognised-as-sri-lankas-top-beverage-exporter/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766603880.0
   },
   {
     "doc_type": "lk_news",
@@ -315511,6 +315621,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-1d8487c5",
+    "num": "islandlk-1d8487c5",
+    "date_str": "2025-12-25",
+    "description": "Inglish Razor steps up to help combat digital violence against women",
+    "url_metadata": "http://island.lk/inglish-razor-steps-up-to-help-combat-digital-violence-against-women/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766603940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-86a0df43",
+    "num": "islandlk-86a0df43",
+    "date_str": "2025-12-25",
+    "description": "Flemingo Duty Free partners with global initiative to support Cancer Hospital",
+    "url_metadata": "http://island.lk/flemingo-duty-free-partners-with-global-initiative-to-support-cancer-hospital/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766603940.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-25-virakesarilk-081c0b00",
     "num": "virakesarilk-081c0b00",
     "date_str": "2025-12-25",
@@ -315530,6 +315662,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766603940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-0c934242",
+    "num": "islandlk-0c934242",
+    "date_str": "2025-12-25",
+    "description": "IMC Campus celebrates graduates at BMICH ceremony",
+    "url_metadata": "http://island.lk/imc-campus-celebrates-graduates-at-bmich-ceremony/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766604000.0
   },
   {
     "doc_type": "lk_news",
