@@ -316864,6 +316864,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-0d5601fe",
+    "num": "islandlk-0d5601fe",
+    "date_str": "2025-12-25",
+    "description": "ILO estimates up to 374,000 workers affected by Cyclone Ditwah in Sri Lanka",
+    "url_metadata": "http://island.lk/ilo-estimates-up-to-374000-workers-affected-by-cyclone-ditwah-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766673060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-2ebd39be",
+    "num": "islandlk-2ebd39be",
+    "date_str": "2025-12-25",
+    "description": "Harsha de Silva urges President to appoint an Auditor General",
+    "url_metadata": "http://island.lk/harsha-de-silva-urges-president-to-appoint-an-auditor-general/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766673060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-d26bd9a5",
+    "num": "islandlk-d26bd9a5",
+    "date_str": "2025-12-25",
+    "description": "New ADB report unveils major energy-saving potential for Sri Lanka\u2019s key sectors",
+    "url_metadata": "http://island.lk/new-adb-report-unveils-major-energy-saving-potential-for-sri-lankas-key-sectors/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766673180.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-25-virakesarilk-5f29710d",
     "num": "virakesarilk-5f29710d",
     "date_str": "2025-12-25",
@@ -316872,6 +316905,50 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766673660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-82bfe589",
+    "num": "islandlk-82bfe589",
+    "date_str": "2025-12-25",
+    "description": "60-foot Christmas tree marks progress at Colombo International Airport Hotel site",
+    "url_metadata": "http://island.lk/60-foot-christmas-tree-marks-progress-at-colombo-international-airport-hotel-site/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766674080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-93d41652",
+    "num": "islandlk-93d41652",
+    "date_str": "2025-12-25",
+    "description": "Inaugural flight from Poland to Sri Lanka for winter season lands at BIA",
+    "url_metadata": "http://island.lk/inaugural-flight-from-poland-to-sri-lanka-for-winter-season-lands-at-bia/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766674080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-e8194382",
+    "num": "islandlk-e8194382",
+    "date_str": "2025-12-25",
+    "description": "Bally\u2019s celebrates 30 years in entertainment sector, honours over 300 employees",
+    "url_metadata": "http://island.lk/ballys-celebrates-30-years-in-entertainment-sector-honours-over-300-employees/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766674080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-7de23228",
+    "num": "islandlk-7de23228",
+    "date_str": "2025-12-25",
+    "description": "Thailand trade deficit widens as imports surge, baht strengthens",
+    "url_metadata": "http://island.lk/thailand-trade-deficit-widens-as-imports-surge-baht-strengthens/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766674260.0
   },
   {
     "doc_type": "lk_news",

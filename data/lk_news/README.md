@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--26_04:47:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--26_05:18:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,333** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,340** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -50,17 +50,17 @@ A collection of lk_news documents.
 - 2025-12-25 | `virakesarilk-51c7a4d5` | கிறிஸ்மஸ் தினத்தில் காணாமல் ஆக்கப்பட்டுள்ள உறவினர்கள் கவனயீர்ப்பு போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-51c7a4d5)
 - 2025-12-25 | `lankadeepalk-7118122f` | ප්‍රහාර මාලාවක සූදානම් වු100ක් තුර්කිය අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-7118122f)
 - 2025-12-25 | `lankadeepalk-f4e8ab7f` | බංගලාදේශ බලාපොරොත්තුව තාරික් රහ්මාන් යළි මව් රටට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-f4e8ab7f)
+- 2025-12-25 | `islandlk-7de23228` | Thailand trade deficit widens as imports surge, baht strengthens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-islandlk-7de23228)
+- 2025-12-25 | `islandlk-e8194382` | Bally’s celebrates 30 years in entertainment sector, honours over 300 employees | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-islandlk-e8194382)
+- 2025-12-25 | `islandlk-93d41652` | Inaugural flight from Poland to Sri Lanka for winter season lands at BIA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-islandlk-93d41652)
+- 2025-12-25 | `islandlk-82bfe589` | 60-foot Christmas tree marks progress at Colombo International Airport Hotel site | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-islandlk-82bfe589)
 - 2025-12-25 | `virakesarilk-5f29710d` | கொட்டாஞ்சேனை கொச்சிக்கடை புனித அந்தோனியார் ஆலயத்தில் நள்ளிரவு கிருஸ்துமஸ் ஆராதனை நடைபெற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-5f29710d)
+- 2025-12-25 | `islandlk-d26bd9a5` | New ADB report unveils major energy-saving potential for Sri Lanka’s key sectors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-islandlk-d26bd9a5)
+- 2025-12-25 | `islandlk-2ebd39be` | Harsha de Silva urges President to appoint an Auditor General | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-islandlk-2ebd39be)
+- 2025-12-25 | `islandlk-0d5601fe` | ILO estimates up to 374,000 workers affected by Cyclone Ditwah in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-islandlk-0d5601fe)
 - 2025-12-25 | `virakesarilk-6e8d90e1` | புத்துயிர் பெறும் நுவரெலியா - படையெடுக்கும் சுற்றுலா பயணிகள்; சுற்றுலா பயணிகளை கவர்ந்த மாறுபட்ட காலநிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-6e8d90e1)
 - 2025-12-25 | `virakesarilk-249c27bc` | மட்டக்களப்பில் படுகொலை செய்யப்பட்ட ஜோசப் பரராஜசிங்கம்; நீதி வேண்டி ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-249c27bc)
 - 2025-12-25 | `lankadeepalk-2f5da707` | බෙලිඅත්තේ බස් - ටිපර් අනතුරකින් 30ක් රෝහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-2f5da707)
-- 2025-12-25 | `lankadeepalk-300062ba` | ගම්පහ රෝහලේ පැරණි සහ අලුත් වාට්ටු සම්බන්ධකර පාලමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-300062ba)
-- 2025-12-25 | `lankadeepalk-7cfa5fab` | කසකස්තානයෙන් සංචාරකයෝ පිරිසක් එති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-7cfa5fab)
-- 2025-12-25 | `lankadeepalk-d8ec15d9` | ජනපති සතිස්චන්ද්‍රට අවසන් ගෞරව දක්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-lankadeepalk-d8ec15d9)
-- 2025-12-25 | `virakesarilk-fab1a1a3` | மறைந்த பிரபல நடிகர் சதிஷ்சந்திர எதிரிசிங்கவின் பூதவுடலுக்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க இறுதி அஞ்சலி செலுத்தினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-fab1a1a3)
-- 2025-12-25 | `virakesarilk-097cd9e6` | உஸ்வடகையாவ புனித மரியாள் தேவாலயத்தில் நத்தார் நள்ளிரவு திருப்பலி ஒப்புக்கொடுக்கப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-virakesarilk-097cd9e6)
-- 2025-12-25 | `tamilmirrorlk-b2b41e1e` | அடுத்த 36 மணித்தியாலங்களில் ஏற்படப்போகும் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-tamilmirrorlk-b2b41e1e)
-- 2025-12-25 | `tamilmirrorlk-f920178b` | பேருந்தும் டிப்பரும் நேருக்கு நேர் மோதி கோர விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-25-tamilmirrorlk-f920178b)
 
 ---
 
