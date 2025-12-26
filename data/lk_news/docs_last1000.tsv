@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-26-lankadeepalk-fa185961	lankadeepalk-fa185961	2025-12-26	මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේ බෝම්බ බියක්	https://www.lankadeepa.lk/news/මහනවර-දසතරක-ලකම-කරයලය-බමබ-බයක/101-685868	si	lankadeepalk	1766735963.0
+lk_news	2025-12-26-lankadeepalk-76d2e48d	lankadeepalk-76d2e48d	2025-12-26	තරුණයෙක් දුම්රියට බිලි	https://www.lankadeepa.lk/news/තරණයක-දමරයට-බල/101-685867	si	lankadeepalk	1766735189.0
 lk_news	2025-12-26-virakesarilk-ca3fde37	virakesarilk-ca3fde37	2025-12-26	சுனாமி அலையினால் சேதமடைந்த ரயிலின் இயந்திரம் இயங்கவில்லை	https://www.virakesari.lk/article/234456	ta	virakesarilk	1766733060.0
 lk_news	2025-12-26-tamilmirrorlk-8d19a36d	tamilmirrorlk-8d19a36d	2025-12-26	அழகுசாதனப் பொருட்கள் குறித்து அதிரடி நடவடிக்கை	https://www.tamilmirror.lk/செய்திகள்/அழகுசாதனப்-பொருட்கள்-குறித்து-அதிரடி-நடவடிக்கை/175-370118	ta	tamilmirrorlk	1766732781.0
 lk_news	2025-12-26-virakesarilk-6e8feb10	virakesarilk-6e8feb10	2025-12-26	இன்றைய நாணய மாற்று விகிதம்	https://www.virakesari.lk/article/234459	ta	virakesarilk	1766732220.0
@@ -36,6 +38,7 @@ lk_news	2025-12-26-tamilmirrorlk-94ac1351	tamilmirrorlk-94ac1351	2025-12-26	ச�
 lk_news	2025-12-26-lankadeepalk-ab4bb7fc	lankadeepalk-ab4bb7fc	2025-12-26	වෛද්‍යවරයෙක් මුහුදට බිලි	https://www.lankadeepa.lk/news/වදයවරයක-මහදට-බල/101-685860	si	lankadeepalk	1766718639.0
 lk_news	2025-12-26-lankadeepalk-0652ced6	lankadeepalk-0652ced6	2025-12-26	මෝටර් රථයක් අධිබලැති විදුලි කණුවක ගැටේ	https://www.lankadeepa.lk/news/මටර-රථයක-අධබලත-වදල-කණවක-ගට/101-685859	si	lankadeepalk	1766718208.0
 lk_news	2025-12-26-lankadeepalk-91c6e48e	lankadeepalk-91c6e48e	2025-12-26	ඖෂධ ප්‍රමිතිය වැඩි කරන්න වැඩ අරඹයි	https://www.lankadeepa.lk/news/ඖෂධ-පරමතය-වඩ-කරනන-වඩ-අරඹය/101-685858	si	lankadeepalk	1766717824.0
+lk_news	2025-12-26-adalk-b4ed8846	adalk-b4ed8846	2025-12-26	වැව්, අමුණු හා ජලාශ ආශ්‍රිතව අනවසර ඉදිකිරිම් 619ක්	https://www.ada.lk/breaking_news/වැව්--අමුණු-හා-ජලාශ-ආශ්‍රිතව-අනවසර-ඉදිකිරිම්-619ක්/11-420469	si	adalk	1766717783.0
 lk_news	2025-12-26-lankadeepalk-e70994c6	lankadeepalk-e70994c6	2025-12-26	අපරාද රැසකට සම්බන්ධ අයෙක් මාට්ටු	https://www.lankadeepa.lk/news/අපරද-රසකට-සමබනධ-අයක-මටට/101-685857	si	lankadeepalk	1766717712.0
 lk_news	2025-12-26-tamilmirrorlk-2492e71e	tamilmirrorlk-2492e71e	2025-12-26	இன்று 50 மில்லி மீற்றருக்கும் அதிக மழை	https://www.tamilmirror.lk/செய்திகள்/இன்று-50-மில்லி-மீற்றருக்கும்-அதிக-மழை/175-370109	ta	tamilmirrorlk	1766717484.0
 lk_news	2025-12-26-adalk-688c4a14	adalk-688c4a14	2025-12-26	ලංකාවේ ණය කන්ද රු.බි. 29 660ක් දක්වා ඉහළට	https://www.ada.lk/breaking_news/ලංකාවේ-ණය-කන්ද-රු-බි--29-660ක්-දක්වා-ඉහළට/11-420468	si	adalk	1766717482.0
@@ -998,6 +1001,3 @@ lk_news	2025-12-21-tamilmirrorlk-e420a313	tamilmirrorlk-e420a313	2025-12-21	ச�
 lk_news	2025-12-21-virakesarilk-1804f843	virakesarilk-1804f843	2025-12-21	பண்டிகைக் காலத்தில் மத தலங்களுக்கு விசேட பாதுகாப்பு : பொலிஸ் ஊடகப் பேச்சாளர்	https://www.virakesari.lk/article/233961	ta	virakesarilk	1766283900.0
 lk_news	2025-12-21-virakesarilk-4a0723c0	virakesarilk-4a0723c0	2025-12-21	ஜனவரியில் இந்தியா செல்கிறார் ரில்வின்	https://www.virakesari.lk/article/233960	ta	virakesarilk	1766283840.0
 lk_news	2025-12-21-virakesarilk-6d00aa4c	virakesarilk-6d00aa4c	2025-12-21	யாழ்ப்பாணத்தில் வீட்டின் சுவர் இடிந்து வீழ்ந்ததில் சிறுவன் உயிரிழப்பு!	https://www.virakesari.lk/article/233959	ta	virakesarilk	1766283600.0
-lk_news	2025-12-21-virakesarilk-d6de23cc	virakesarilk-d6de23cc	2025-12-21	மிரிஸ்ஸ கடல் அலையில் அடித்துச் செல்லப்பட்ட வெளிநாட்டு சுற்றுலாப் பயணி பாதுகாப்பாக மீட்பு!	https://www.virakesari.lk/article/233958	ta	virakesarilk	1766283120.0
-lk_news	2025-12-21-lankadeepalk-d18347c5	lankadeepalk-d18347c5	2025-12-21	අද වහින තැන්	https://www.lankadeepa.lk/latest_news/අද-වහන-තන/1-685598	si	lankadeepalk	1766282062.0
-lk_news	2025-12-21-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-12-21	இன்றைய வானிலை	https://www.virakesari.lk/article/233957	ta	virakesarilk	1766277540.0

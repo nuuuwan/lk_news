@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-26-lankadeepalk-fa185961	lankadeepalk-fa185961	2025-12-26	මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේ බෝම්බ බියක්	https://www.lankadeepa.lk/news/මහනවර-දසතරක-ලකම-කරයලය-බමබ-බයක/101-685868	si	lankadeepalk	1766735963.0
+lk_news	2025-12-26-lankadeepalk-76d2e48d	lankadeepalk-76d2e48d	2025-12-26	තරුණයෙක් දුම්රියට බිලි	https://www.lankadeepa.lk/news/තරණයක-දමරයට-බල/101-685867	si	lankadeepalk	1766735189.0
 lk_news	2025-12-26-virakesarilk-ca3fde37	virakesarilk-ca3fde37	2025-12-26	சுனாமி அலையினால் சேதமடைந்த ரயிலின் இயந்திரம் இயங்கவில்லை	https://www.virakesari.lk/article/234456	ta	virakesarilk	1766733060.0
 lk_news	2025-12-26-tamilmirrorlk-8d19a36d	tamilmirrorlk-8d19a36d	2025-12-26	அழகுசாதனப் பொருட்கள் குறித்து அதிரடி நடவடிக்கை	https://www.tamilmirror.lk/செய்திகள்/அழகுசாதனப்-பொருட்கள்-குறித்து-அதிரடி-நடவடிக்கை/175-370118	ta	tamilmirrorlk	1766732781.0
 lk_news	2025-12-26-virakesarilk-6e8feb10	virakesarilk-6e8feb10	2025-12-26	இன்றைய நாணய மாற்று விகிதம்	https://www.virakesari.lk/article/234459	ta	virakesarilk	1766732220.0
@@ -36,6 +38,7 @@ lk_news	2025-12-26-tamilmirrorlk-94ac1351	tamilmirrorlk-94ac1351	2025-12-26	ச�
 lk_news	2025-12-26-lankadeepalk-ab4bb7fc	lankadeepalk-ab4bb7fc	2025-12-26	වෛද්‍යවරයෙක් මුහුදට බිලි	https://www.lankadeepa.lk/news/වදයවරයක-මහදට-බල/101-685860	si	lankadeepalk	1766718639.0
 lk_news	2025-12-26-lankadeepalk-0652ced6	lankadeepalk-0652ced6	2025-12-26	මෝටර් රථයක් අධිබලැති විදුලි කණුවක ගැටේ	https://www.lankadeepa.lk/news/මටර-රථයක-අධබලත-වදල-කණවක-ගට/101-685859	si	lankadeepalk	1766718208.0
 lk_news	2025-12-26-lankadeepalk-91c6e48e	lankadeepalk-91c6e48e	2025-12-26	ඖෂධ ප්‍රමිතිය වැඩි කරන්න වැඩ අරඹයි	https://www.lankadeepa.lk/news/ඖෂධ-පරමතය-වඩ-කරනන-වඩ-අරඹය/101-685858	si	lankadeepalk	1766717824.0
+lk_news	2025-12-26-adalk-b4ed8846	adalk-b4ed8846	2025-12-26	වැව්, අමුණු හා ජලාශ ආශ්‍රිතව අනවසර ඉදිකිරිම් 619ක්	https://www.ada.lk/breaking_news/වැව්--අමුණු-හා-ජලාශ-ආශ්‍රිතව-අනවසර-ඉදිකිරිම්-619ක්/11-420469	si	adalk	1766717783.0
 lk_news	2025-12-26-lankadeepalk-e70994c6	lankadeepalk-e70994c6	2025-12-26	අපරාද රැසකට සම්බන්ධ අයෙක් මාට්ටු	https://www.lankadeepa.lk/news/අපරද-රසකට-සමබනධ-අයක-මටට/101-685857	si	lankadeepalk	1766717712.0
 lk_news	2025-12-26-tamilmirrorlk-2492e71e	tamilmirrorlk-2492e71e	2025-12-26	இன்று 50 மில்லி மீற்றருக்கும் அதிக மழை	https://www.tamilmirror.lk/செய்திகள்/இன்று-50-மில்லி-மீற்றருக்கும்-அதிக-மழை/175-370109	ta	tamilmirrorlk	1766717484.0
 lk_news	2025-12-26-adalk-688c4a14	adalk-688c4a14	2025-12-26	ලංකාවේ ණය කන්ද රු.බි. 29 660ක් දක්වා ඉහළට	https://www.ada.lk/breaking_news/ලංකාවේ-ණය-කන්ද-රු-බි--29-660ක්-දක්වා-ඉහළට/11-420468	si	adalk	1766717482.0
@@ -96,6 +99,3 @@ lk_news	2025-12-25-virakesarilk-6e5a554d	virakesarilk-6e5a554d	2025-12-25	மு
 lk_news	2025-12-25-virakesarilk-6a58f8eb	virakesarilk-6a58f8eb	2025-12-25	கோட்டாவின் கொள்கையை  அநுரவும் பின்பற்றக்கூடாது  தேசிய கணக்காய்வாளர் நாயகம் பதவிக்கு இராணுவ அதிகாரியை நியமிப்பது காவிந்த எம்.பி. விசனம்	https://www.virakesari.lk/article/234411	ta	virakesarilk	1766663280.0
 lk_news	2025-12-25-virakesarilk-584c3a7d	virakesarilk-584c3a7d	2025-12-25	நிவாரண பணத்தை  முறைகேடு செய்ய ஜனாதிபதி முயற்சி – ஐக்கிய மக்கள் சக்தி விமர்சனம்	https://www.virakesari.lk/article/234410	ta	virakesarilk	1766663220.0
 lk_news	2025-12-25-virakesarilk-7e4373bd	virakesarilk-7e4373bd	2025-12-25	மண்சரிவால் பாதிக்கப்பட்ட ஹசலக்க பகுதிக்கு அருகே 05 கிராமங்கள் மனித வாழ்வுக்கு பாதுகாப்பற்ற வலயங்களாக அறிவிப்பு	https://www.virakesari.lk/article/234407	ta	virakesarilk	1766662500.0
-lk_news	2025-12-25-virakesarilk-a25a4c03	virakesarilk-a25a4c03	2025-12-25	சிறை - திரைப்பட விமர்சனம்	https://www.virakesari.lk/article/234408	ta	virakesarilk	1766661720.0
-lk_news	2025-12-25-virakesarilk-aab288df	virakesarilk-aab288df	2025-12-25	ஆவண படமாக உருவாகியுள்ள 'ஆர் எம் வி : தி கிங் மேக்கர்'	https://www.virakesari.lk/article/234403	ta	virakesarilk	1766661420.0
-lk_news	2025-12-25-virakesarilk-23ce8f98	virakesarilk-23ce8f98	2025-12-25	பருத்தி - திரைப்பட விமர்சனம்	https://www.virakesari.lk/article/234402	ta	virakesarilk	1766661420.0
