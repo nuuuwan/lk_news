@@ -310836,6 +310836,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-22-islandlk-9eb8ee29",
+    "num": "islandlk-9eb8ee29",
+    "date_str": "2025-12-22",
+    "description": "A very sad day for the rule of law",
+    "url_metadata": "http://island.lk/a-very-sad-day-for-the-rule-of-law/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766424120.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-22-islandlk-2b782c5f",
     "num": "islandlk-2b782c5f",
     "date_str": "2025-12-22",
@@ -315544,6 +315555,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-927f2dd8",
+    "num": "islandlk-927f2dd8",
+    "date_str": "2025-12-25",
+    "description": "The perennial challenge of peace-keeping and reconciliation",
+    "url_metadata": "http://island.lk/the-perennial-challenge-of-peace-keeping-and-reconciliation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766602080.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-25-islandlk-bdbff5f0",
     "num": "islandlk-bdbff5f0",
     "date_str": "2025-12-25",
@@ -315552,6 +315574,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1766602320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-5ce005b1",
+    "num": "islandlk-5ce005b1",
+    "date_str": "2025-12-25",
+    "description": "So this is Christmas \u2026",
+    "url_metadata": "http://island.lk/so-this-is-christmas/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766602500.0
   },
   {
     "doc_type": "lk_news",
