@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--26_16:21:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--26_16:47:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,432** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,433** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,7 @@ A collection of lk_news documents.
 - 2025-12-26 | `virakesarilk-36d40e7a` | அம்பலாங்கொடை துப்பாக்கிச் சூட்டு சம்பவம் தொடர்பில் பெண்ணொருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-36d40e7a)
 - 2025-12-26 | `virakesarilk-014a5840` | மக்களையும் கிராம சேவகர்களையும் மோதவிடாதீர்கள் - பொதுமக்கள் ஆதங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-014a5840)
 - 2025-12-26 | `virakesarilk-68685732` | ரூ. 8.6 மில்லியன் மதிப்புள்ள பொருட்களுடன் மூன்று வர்த்தகர்கள் விமான நிலையத்தில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-68685732)
+- 2025-12-26 | `adalk-99e20a5f` | අගුණකොළපැලැස්සෙන් දුරකතන ඇතුළු භාණ්ඩ රැසක් සොයා ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-adalk-99e20a5f)
 - 2025-12-26 | `tamilmirrorlk-e283aabe` | அம்பலாங்கொடை கொலைக்குப் பின்னணியில் இருந்த பெண் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-tamilmirrorlk-e283aabe)
 - 2025-12-26 | `adalk-65f90dda` | ඖෂධයක හිඟයක් ගැන චමල් සංජීව කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-adalk-65f90dda)
 - 2025-12-26 | `virakesarilk-9bfb133e` | ஐரோப்பிய குளிர்காலச் சுற்றுலா: கஸகஸ்தானில் இருந்து கட்டுநாயக்கவிற்கு வந்திறங்கியது முதல் குழு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-9bfb133e)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-26 | `virakesarilk-1641e1b0` | இயக்குநர் மோகன் ஜி வெளியிட்ட நடிகர் ஸ்ரீகாந்த் நடிக்கும் ' தி பெட் ' படத்தின் முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-1641e1b0)
 - 2025-12-26 | `virakesarilk-49f096bf` | அமெரிக்காவில் கிறிஸ்மஸ் புயல் ;  வெள்ளம்! ; 3 பேர் உயிரிழப்பு ; கலிபோர்னியா, லொஸ் ஏஞ்சல்ஸில் அவசர நிலை பிரகடனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-49f096bf)
 - 2025-12-26 | `lankadeepalk-76d2e48d` | තරුණයෙක් දුම්රියට බිලි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-76d2e48d)
-- 2025-12-26 | `virakesarilk-0ee0811f` | நைஜீரியாவில் ஐ.எஸ்.ஐ.எஸ் பயங்கரவாதிகள் மீது அமெரிக்கா வான்வழித் தாக்குதல் - ட்ரம்ப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-0ee0811f)
 
 ---
 
