@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--26_10:48:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--26_11:22:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,377** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,393** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-26-lankadeepalk-9419a98b",
-    "num": "lankadeepalk-9419a98b",
+    "doc_id": "2025-12-26-lankadeepalk-8faea414",
+    "num": "lankadeepalk-8faea414",
     "date_str": "2025-12-26",
-    "description": "\u0dad\u0dd0\u0db1 \u0dad\u0dd0\u0db1 \u0dc3\u0dd4\u0db1\u0dcf\u0db8\u0dd2 \u0dc3\u0dd0\u0db8\u0dbb\u0dd4\u0db8\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0dad\u0db1-\u0dad\u0db1-\u0dc3\u0db1\u0db8-\u0dc3\u0db8\u0dbb\u0db8/101-685865",
+    "description": "\u0dc4\u0d9c\u0dca\u0d9c\u0dbd \u0dba\u0dc5\u0dd2 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0dc4\u0d9c\u0d9c\u0dbd-\u0dba\u0dc5-\u0dc0\u0dc0\u0dad-\u0d9a\u0dbb\u0dba/101-685866",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1766725111.0
+    "time_ut": 1766727815.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-26 | `lankadeepalk-8faea414` | හග්ගල යළි විවෘත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-8faea414)
+- 2025-12-26 | `virakesarilk-66ca1318` | கண்டி மாவட்ட செயலகத்திற்கு மின்னஞ்சல் மூலம்  வெடிகுண்டு மிரட்டல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-66ca1318)
+- 2025-12-26 | `virakesarilk-16b92e97` | "முழு நாடுமே ஒன்றாக": விசேட போதைப்பொருள் தடுப்பு நடவடிக்கையில் 690 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-16b92e97)
+- 2025-12-26 | `virakesarilk-90cd1cf5` | அமெரிக்க பவர்பால் அதிர்ஷட இலாபச் சீட்டு -  1.8 பில்லியன் அமெரிக்க டொலர் வெற்றி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-90cd1cf5)
+- 2025-12-26 | `tamilmirrorlk-b6be964d` | அம்பலாங்கொடை துப்பாக்கிச் சூடு: 6 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-tamilmirrorlk-b6be964d)
+- 2025-12-26 | `virakesarilk-acdf87df` | தையிட்டியில் காணிகளை இழந்தவர்களுக்கு மாற்றுக்காணி அல்லது இழப்பீடு - அமைச்சர் சந்திரசேகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-acdf87df)
+- 2025-12-26 | `virakesarilk-12adf710` | பேரனர்த்தத்திற்காக தயாரிக்கப்பட்ட சட்டம் 20 ஆண்டுகளாக 'உறக்கத்தில்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-12adf710)
 - 2025-12-26 | `lankadeepalk-9419a98b` | තැන තැන සුනාමි සැමරුම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-9419a98b)
+- 2025-12-26 | `virakesarilk-e078eaeb` | நாட்டின் வெவ்வேறு பகுதிகளில் இடம்பெற்ற வாகன விபத்துக்களில் சிறுமி உட்பட மூவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-e078eaeb)
+- 2025-12-26 | `virakesarilk-ce841b0e` | பொலிஸாரின் விசேட சுற்றிவளைப்பில் போதைப்பொருள் குற்றங்கள் தொடர்பாக  இதுவரை  6,600 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-ce841b0e)
+- 2025-12-26 | `virakesarilk-5cc74311` | டித்வா புயல் பேரிடர் காரணமாக கிழக்கில் 33,640 விவசாயிகள் பாதிப்பு - மாகாண விவசாய பணிப்பாளர்  எம்.எஸ்.றினூஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-5cc74311)
 - 2025-12-26 | `lankadeepalk-f562fd93` | මෙවර ජේසුට ඉපදෙන්නට තැනක් හදන්නේ අපේ හදවත්  ඇතුළෙමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-f562fd93)
+- 2025-12-26 | `virakesarilk-7aef48f8` | சுனாமி நினைவு தினம்(மார்கழி 26 : இயற்கை பேரழிவை விட மனித அலட்சியத்தின் ஆழமான காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-7aef48f8)
 - 2025-12-26 | `lankadeepalk-6b08e1a6` | ඔබ , මම හරි මනුෂ්‍යයෙක් ලෙස ජීවත්වන හැම මොහොතම නත්තලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-6b08e1a6)
+- 2025-12-26 | `virakesarilk-f55c4ddf` | அம்பலாங்கொடை துப்பாக்கிச் சூட்டு சம்பவம் தொடர்பில் ஆறு பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-f55c4ddf)
 - 2025-12-26 | `tamilmirrorlk-a988019e` | மின்கம்பத்தில் மோதிய கார்; இருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-tamilmirrorlk-a988019e)
+- 2025-12-26 | `virakesarilk-1237ecd7` | கஞ்சா தோட்டங்கள் முற்றுகை ; பெருமளவான செடிகள் கைப்பற்றல் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-1237ecd7)
 - 2025-12-26 | `tamilmirrorlk-941165f0` | அர்ச்சுனாவுக்கு கொலை அச்சுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-tamilmirrorlk-941165f0)
 - 2025-12-26 | `lankadeepalk-37292369` | රිය අනතුරින් තුන්හැවිරිදි දැරියට දිවි අහිමිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-37292369)
 - 2025-12-26 | `tamilmirrorlk-bed5ebf2` | கடலுக்கு வைத்தியர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-tamilmirrorlk-bed5ebf2)
-- 2025-12-26 | `tamilmirrorlk-ae9c3005` | அளுத்கம விபத்தில் சிறுமி உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-tamilmirrorlk-ae9c3005)
-- 2025-12-26 | `lankadeepalk-fc1f31f6` | පා.මන්ත්‍රී අර්චුනාගෙන් පැමිණිල්ලක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-fc1f31f6)
-- 2025-12-26 | `tamilmirrorlk-94ac1351` | சுனாமி நினைவு தினம் இன்று | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-tamilmirrorlk-94ac1351)
-- 2025-12-26 | `lankadeepalk-ab4bb7fc` | වෛද්‍යවරයෙක් මුහුදට බිලි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-ab4bb7fc)
-- 2025-12-26 | `lankadeepalk-0652ced6` | මෝටර් රථයක් අධිබලැති විදුලි කණුවක ගැටේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-0652ced6)
-- 2025-12-26 | `lankadeepalk-91c6e48e` | ඖෂධ ප්‍රමිතිය වැඩි කරන්න වැඩ අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-91c6e48e)
-- 2025-12-26 | `lankadeepalk-e70994c6` | අපරාද රැසකට සම්බන්ධ අයෙක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-e70994c6)
-- 2025-12-26 | `tamilmirrorlk-2492e71e` | இன்று 50 மில்லி மீற்றருக்கும் அதிக மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-tamilmirrorlk-2492e71e)
-- 2025-12-26 | `lankadeepalk-64a9624a` | සුළි කුණාටුවේ බලපෑමෙන්  මාසයක් කොටු වී සිටින මීමුරේ ජනතාව | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-64a9624a)
-- 2025-12-26 | `adalk-4992bd3d` | කැබ් හා යතුරුපැදි ගැටී අවු. 3ක දැරියක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-adalk-4992bd3d)
-- 2025-12-26 | `virakesarilk-e36ba628` | கொலைச் சம்பவத்துடன் தேடப்பட்டு வந்தவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-e36ba628)
-- 2025-12-26 | `adalk-43553add` | කොටිකාවත්ත හිටපු උප සභාපති ඝාතනයේ සැකකරුවෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-adalk-43553add)
-- 2025-12-26 | `lankadeepalk-1cba3dd3` | සුනාමියට අදට වසර 21ක් සපිරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-1cba3dd3)
 
 ---
 
