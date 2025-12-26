@@ -1,4 +1,5 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-26-virakesarilk-e36ba628	virakesarilk-e36ba628	2025-12-26	கொலைச் சம்பவத்துடன் தேடப்பட்டு வந்தவர் கைது!	https://www.virakesari.lk/article/234436	ta	virakesarilk	1766715840.0
 lk_news	2025-12-26-lankadeepalk-1cba3dd3	lankadeepalk-1cba3dd3	2025-12-26	සුනාමියට අදට වසර 21ක් සපිරේ	https://www.lankadeepa.lk/news/සනමයට-අදට-වසර-21ක-සපර/101-685855	si	lankadeepalk	1766712471.0
 lk_news	2025-12-26-lankadeepalk-a8c6e611	lankadeepalk-a8c6e611	2025-12-26	පළාත් කීපයකට වැසි ස්වල්පයක්	https://www.lankadeepa.lk/news/පළත-කපයකට-වස-සවලපයක/101-685854	si	lankadeepalk	1766711769.0
 lk_news	2025-12-26-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-12-26	இன்றைய வானிலை	https://www.virakesari.lk/article/234435	ta	virakesarilk	1766711280.0
@@ -23,6 +24,7 @@ lk_news	2025-12-25-islandlk-e8194382	islandlk-e8194382	2025-12-25	Bally’s cele
 lk_news	2025-12-25-islandlk-93d41652	islandlk-93d41652	2025-12-25	Inaugural flight from Poland to Sri Lanka for winter season lands at BIA	http://island.lk/inaugural-flight-from-poland-to-sri-lanka-for-winter-season-lands-at-bia/	en	islandlk	1766674080.0
 lk_news	2025-12-25-islandlk-82bfe589	islandlk-82bfe589	2025-12-25	60-foot Christmas tree marks progress at Colombo International Airport Hotel site	http://island.lk/60-foot-christmas-tree-marks-progress-at-colombo-international-airport-hotel-site/	en	islandlk	1766674080.0
 lk_news	2025-12-25-virakesarilk-5f29710d	virakesarilk-5f29710d	2025-12-25	கொட்டாஞ்சேனை கொச்சிக்கடை புனித அந்தோனியார் ஆலயத்தில் நள்ளிரவு கிருஸ்துமஸ் ஆராதனை நடைபெற்றது	https://www.virakesari.lk/article/234420	ta	virakesarilk	1766673660.0
+lk_news	2025-12-25-adalk-96d317ba	adalk-96d317ba	2025-12-25	බස් ටිපර් ගැටී 30ක් රෝහලට	https://www.ada.lk/breaking_news/බස්-ටිපර්-ගැටී-30ක්-රෝහලට/11-420464	si	adalk	1766673225.0
 lk_news	2025-12-25-islandlk-d26bd9a5	islandlk-d26bd9a5	2025-12-25	New ADB report unveils major energy-saving potential for Sri Lanka’s key sectors	http://island.lk/new-adb-report-unveils-major-energy-saving-potential-for-sri-lankas-key-sectors/	en	islandlk	1766673180.0
 lk_news	2025-12-25-islandlk-2ebd39be	islandlk-2ebd39be	2025-12-25	Harsha de Silva urges President to appoint an Auditor General	http://island.lk/harsha-de-silva-urges-president-to-appoint-an-auditor-general/	en	islandlk	1766673060.0
 lk_news	2025-12-25-islandlk-0d5601fe	islandlk-0d5601fe	2025-12-25	ILO estimates up to 374,000 workers affected by Cyclone Ditwah in Sri Lanka	http://island.lk/ilo-estimates-up-to-374000-workers-affected-by-cyclone-ditwah-in-sri-lanka/	en	islandlk	1766673060.0
@@ -999,5 +1001,3 @@ lk_news	2025-12-20-virakesarilk-09eaec1a	virakesarilk-09eaec1a	2025-12-20	மா
 lk_news	2025-12-20-islandlk-7303f099	islandlk-7303f099	2025-12-20	Sampath Bank Expands Sustainable Mobility Access Through Strategic Partnership with Hayleys Mobility	http://island.lk/sampath-bank-expands-sustainable-mobility-access-through-strategic-partnership-with-hayleys-mobility/	en	islandlk	1766218860.0
 lk_news	2025-12-20-islandlk-5bd48b62	islandlk-5bd48b62	2025-12-20	Feeling sad and blue?	http://island.lk/feeling-sad-and-blue-2/	en	islandlk	1766218800.0
 lk_news	2025-12-20-islandlk-c0d12cff	islandlk-c0d12cff	2025-12-20	Intractability of ragging in universities	http://island.lk/intractability-of-ragging-in-universities/	en	islandlk	1766218740.0
-lk_news	2025-12-20-islandlk-cda8c238	islandlk-cda8c238	2025-12-20	Lion Brewery (Ceylon) PLC Reaffirms Commitment to Flood Resilience and Community Support in Biyagama	http://island.lk/lion-brewery-ceylon-plc-reaffirms-commitment-to-flood-resilience-and-community-support-in-biyagama/	en	islandlk	1766217780.0
-lk_news	2025-12-20-islandlk-184417be	islandlk-184417be	2025-12-20	HNB Assurance Marks Major Milestones in Its Technological Transformation Journey	http://island.lk/hnb-assurance-marks-major-milestones-in-its-technological-transformation-journey/	en	islandlk	1766217780.0
