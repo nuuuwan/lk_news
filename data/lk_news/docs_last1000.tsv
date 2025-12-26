@@ -1,4 +1,8 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-26-virakesarilk-ca3fde37	virakesarilk-ca3fde37	2025-12-26	சுனாமி அலையினால் சேதமடைந்த ரயிலின் இயந்திரம் இயங்கவில்லை	https://www.virakesari.lk/article/234456	ta	virakesarilk	1766733060.0
+lk_news	2025-12-26-tamilmirrorlk-8d19a36d	tamilmirrorlk-8d19a36d	2025-12-26	அழகுசாதனப் பொருட்கள் குறித்து அதிரடி நடவடிக்கை	https://www.tamilmirror.lk/செய்திகள்/அழகுசாதனப்-பொருட்கள்-குறித்து-அதிரடி-நடவடிக்கை/175-370118	ta	tamilmirrorlk	1766732781.0
+lk_news	2025-12-26-virakesarilk-6e8feb10	virakesarilk-6e8feb10	2025-12-26	இன்றைய நாணய மாற்று விகிதம்	https://www.virakesari.lk/article/234459	ta	virakesarilk	1766732220.0
+lk_news	2025-12-26-virakesarilk-f2c28416	virakesarilk-f2c28416	2025-12-26	சுயாதீன ஊடகங்களை அடக்குவது சர்வாதிகார ஆட்சியை நோக்கி செல்லும் முயற்சி - எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச	https://www.virakesari.lk/article/234458	ta	virakesarilk	1766731800.0
 lk_news	2025-12-26-virakesarilk-02c35aba	virakesarilk-02c35aba	2025-12-26	நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்ட சுனாமி ஆழிப்பேரலை நினைவேந்தல் !	https://www.virakesari.lk/article/234452	ta	virakesarilk	1766731800.0
 lk_news	2025-12-26-virakesarilk-f71f8320	virakesarilk-f71f8320	2025-12-26	சுனாமி பேபி பெற்றோர் அஞ்சலி செலுத்தினர்	https://www.virakesari.lk/article/234457	ta	virakesarilk	1766731320.0
 lk_news	2025-12-26-tamilmirrorlk-79354fdc	tamilmirrorlk-79354fdc	2025-12-26	நத்தார் தினத்தன்று 322 பேர் கைது	https://www.tamilmirror.lk/செய்திகள்/நத்தார்-தினத்தன்று-322-பேர்-கைது/175-370117	ta	tamilmirrorlk	1766731249.0
@@ -34,6 +38,7 @@ lk_news	2025-12-26-lankadeepalk-0652ced6	lankadeepalk-0652ced6	2025-12-26	මෝ
 lk_news	2025-12-26-lankadeepalk-91c6e48e	lankadeepalk-91c6e48e	2025-12-26	ඖෂධ ප්‍රමිතිය වැඩි කරන්න වැඩ අරඹයි	https://www.lankadeepa.lk/news/ඖෂධ-පරමතය-වඩ-කරනන-වඩ-අරඹය/101-685858	si	lankadeepalk	1766717824.0
 lk_news	2025-12-26-lankadeepalk-e70994c6	lankadeepalk-e70994c6	2025-12-26	අපරාද රැසකට සම්බන්ධ අයෙක් මාට්ටු	https://www.lankadeepa.lk/news/අපරද-රසකට-සමබනධ-අයක-මටට/101-685857	si	lankadeepalk	1766717712.0
 lk_news	2025-12-26-tamilmirrorlk-2492e71e	tamilmirrorlk-2492e71e	2025-12-26	இன்று 50 மில்லி மீற்றருக்கும் அதிக மழை	https://www.tamilmirror.lk/செய்திகள்/இன்று-50-மில்லி-மீற்றருக்கும்-அதிக-மழை/175-370109	ta	tamilmirrorlk	1766717484.0
+lk_news	2025-12-26-adalk-688c4a14	adalk-688c4a14	2025-12-26	ලංකාවේ ණය කන්ද රු.බි. 29 660ක් දක්වා ඉහළට	https://www.ada.lk/breaking_news/ලංකාවේ-ණය-කන්ද-රු-බි--29-660ක්-දක්වා-ඉහළට/11-420468	si	adalk	1766717482.0
 lk_news	2025-12-26-lankadeepalk-64a9624a	lankadeepalk-64a9624a	2025-12-26	සුළි කුණාටුවේ බලපෑමෙන්  මාසයක් කොටු වී සිටින මීමුරේ ජනතාව	https://www.lankadeepa.lk/visheshanga/සළ-කණටව-බලපමන-මසයක-කට-ව-සටන-මමර-ජනතව/26-685856	si	lankadeepalk	1766717287.0
 lk_news	2025-12-26-adalk-f5974b43	adalk-f5974b43	2025-12-26	අද වහින්නේ මෙහෙමයි	https://www.ada.lk/breaking_news/අද-වහින්නේ-මෙහෙමයි/11-420467	si	adalk	1766716833.0
 lk_news	2025-12-26-adalk-4992bd3d	adalk-4992bd3d	2025-12-26	කැබ් හා යතුරුපැදි ගැටී අවු. 3ක දැරියක් මරුට	https://www.ada.lk/breaking_news/කැබ්-හා-යතුරුපැදි-ගැටී-අවු--3ක-දැරියක්-මරුට/11-420466	si	adalk	1766716469.0
@@ -996,8 +1001,3 @@ lk_news	2025-12-21-virakesarilk-d6de23cc	virakesarilk-d6de23cc	2025-12-21	மி
 lk_news	2025-12-21-lankadeepalk-d18347c5	lankadeepalk-d18347c5	2025-12-21	අද වහින තැන්	https://www.lankadeepa.lk/latest_news/අද-වහන-තන/1-685598	si	lankadeepalk	1766282062.0
 lk_news	2025-12-21-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-12-21	இன்றைய வானிலை	https://www.virakesari.lk/article/233957	ta	virakesarilk	1766277540.0
 lk_news	2025-12-20-adalk-d221e44e	adalk-d221e44e	2025-12-20	නානුඔය සිට බදුල්ල දක්වා දුම්රිය ධාවනය ලබන අප්‍රේල්වලට පෙර	https://www.ada.lk/breaking_news/නානුඔය-සිට-බදුල්ල-දක්වා-දුම්රිය-ධාවනය-ලබන-අප්‍රේල්වලට-පෙර/11-420369	si	adalk	1766251674.0
-lk_news	2025-12-20-adalk-ba5ef017	adalk-ba5ef017	2025-12-20	අරාබි එමීරයට ජනපතිගෙන්	https://www.ada.lk/breaking_news/අරාබි-එමීරයට-ජනපතිගෙන්/11-420368	si	adalk	1766251070.0
-lk_news	2025-12-20-tamilmirrorlk-baf2987f	tamilmirrorlk-baf2987f	2025-12-20	மண்சரிவு அபாய சிவப்பு எச்சரிக்கை நீடிப்பு	https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-அபாய-சிவப்பு-எச்சரிக்கை-நீடிப்பு/175-369847	ta	tamilmirrorlk	1766249257.0
-lk_news	2025-12-20-tamilmirrorlk-bc11cd9a	tamilmirrorlk-bc11cd9a	2025-12-20	ஜனாதிபதியின் அதிரடி பணிப்புரை	https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-அதிரடி-பணிப்புரை/175-369846	ta	tamilmirrorlk	1766248471.0
-lk_news	2025-12-20-tamilmirrorlk-fdcd6d38	tamilmirrorlk-fdcd6d38	2025-12-20	இலங்கையில் மதத் தலங்களுக்கு பலத்த பாதுகாப்பு	https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-மதத்-தலங்களுக்கு-பலத்த-பாதுகாப்பு/175-369845	ta	tamilmirrorlk	1766248052.0
-lk_news	2025-12-20-lankadeepalk-ae9fac50	lankadeepalk-ae9fac50	2025-12-20	කල්පිටිය ග්‍රාම නිලධාරිහු ආපදා රාජකාරිවලින් ඉවත්වෙති	https://www.lankadeepa.lk/news/කලපටය-ගරම-නලධරහ-ආපද-රජකරවලන-ඉවතවත/101-685597	si	lankadeepalk	1766244291.0

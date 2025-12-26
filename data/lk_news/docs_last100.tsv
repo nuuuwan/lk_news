@@ -1,4 +1,8 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-26-virakesarilk-ca3fde37	virakesarilk-ca3fde37	2025-12-26	சுனாமி அலையினால் சேதமடைந்த ரயிலின் இயந்திரம் இயங்கவில்லை	https://www.virakesari.lk/article/234456	ta	virakesarilk	1766733060.0
+lk_news	2025-12-26-tamilmirrorlk-8d19a36d	tamilmirrorlk-8d19a36d	2025-12-26	அழகுசாதனப் பொருட்கள் குறித்து அதிரடி நடவடிக்கை	https://www.tamilmirror.lk/செய்திகள்/அழகுசாதனப்-பொருட்கள்-குறித்து-அதிரடி-நடவடிக்கை/175-370118	ta	tamilmirrorlk	1766732781.0
+lk_news	2025-12-26-virakesarilk-6e8feb10	virakesarilk-6e8feb10	2025-12-26	இன்றைய நாணய மாற்று விகிதம்	https://www.virakesari.lk/article/234459	ta	virakesarilk	1766732220.0
+lk_news	2025-12-26-virakesarilk-f2c28416	virakesarilk-f2c28416	2025-12-26	சுயாதீன ஊடகங்களை அடக்குவது சர்வாதிகார ஆட்சியை நோக்கி செல்லும் முயற்சி - எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச	https://www.virakesari.lk/article/234458	ta	virakesarilk	1766731800.0
 lk_news	2025-12-26-virakesarilk-02c35aba	virakesarilk-02c35aba	2025-12-26	நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்ட சுனாமி ஆழிப்பேரலை நினைவேந்தல் !	https://www.virakesari.lk/article/234452	ta	virakesarilk	1766731800.0
 lk_news	2025-12-26-virakesarilk-f71f8320	virakesarilk-f71f8320	2025-12-26	சுனாமி பேபி பெற்றோர் அஞ்சலி செலுத்தினர்	https://www.virakesari.lk/article/234457	ta	virakesarilk	1766731320.0
 lk_news	2025-12-26-tamilmirrorlk-79354fdc	tamilmirrorlk-79354fdc	2025-12-26	நத்தார் தினத்தன்று 322 பேர் கைது	https://www.tamilmirror.lk/செய்திகள்/நத்தார்-தினத்தன்று-322-பேர்-கைது/175-370117	ta	tamilmirrorlk	1766731249.0
@@ -34,6 +38,7 @@ lk_news	2025-12-26-lankadeepalk-0652ced6	lankadeepalk-0652ced6	2025-12-26	මෝ
 lk_news	2025-12-26-lankadeepalk-91c6e48e	lankadeepalk-91c6e48e	2025-12-26	ඖෂධ ප්‍රමිතිය වැඩි කරන්න වැඩ අරඹයි	https://www.lankadeepa.lk/news/ඖෂධ-පරමතය-වඩ-කරනන-වඩ-අරඹය/101-685858	si	lankadeepalk	1766717824.0
 lk_news	2025-12-26-lankadeepalk-e70994c6	lankadeepalk-e70994c6	2025-12-26	අපරාද රැසකට සම්බන්ධ අයෙක් මාට්ටු	https://www.lankadeepa.lk/news/අපරද-රසකට-සමබනධ-අයක-මටට/101-685857	si	lankadeepalk	1766717712.0
 lk_news	2025-12-26-tamilmirrorlk-2492e71e	tamilmirrorlk-2492e71e	2025-12-26	இன்று 50 மில்லி மீற்றருக்கும் அதிக மழை	https://www.tamilmirror.lk/செய்திகள்/இன்று-50-மில்லி-மீற்றருக்கும்-அதிக-மழை/175-370109	ta	tamilmirrorlk	1766717484.0
+lk_news	2025-12-26-adalk-688c4a14	adalk-688c4a14	2025-12-26	ලංකාවේ ණය කන්ද රු.බි. 29 660ක් දක්වා ඉහළට	https://www.ada.lk/breaking_news/ලංකාවේ-ණය-කන්ද-රු-බි--29-660ක්-දක්වා-ඉහළට/11-420468	si	adalk	1766717482.0
 lk_news	2025-12-26-lankadeepalk-64a9624a	lankadeepalk-64a9624a	2025-12-26	සුළි කුණාටුවේ බලපෑමෙන්  මාසයක් කොටු වී සිටින මීමුරේ ජනතාව	https://www.lankadeepa.lk/visheshanga/සළ-කණටව-බලපමන-මසයක-කට-ව-සටන-මමර-ජනතව/26-685856	si	lankadeepalk	1766717287.0
 lk_news	2025-12-26-adalk-f5974b43	adalk-f5974b43	2025-12-26	අද වහින්නේ මෙහෙමයි	https://www.ada.lk/breaking_news/අද-වහින්නේ-මෙහෙමයි/11-420467	si	adalk	1766716833.0
 lk_news	2025-12-26-adalk-4992bd3d	adalk-4992bd3d	2025-12-26	කැබ් හා යතුරුපැදි ගැටී අවු. 3ක දැරියක් මරුට	https://www.ada.lk/breaking_news/කැබ්-හා-යතුරුපැදි-ගැටී-අවු--3ක-දැරියක්-මරුට/11-420466	si	adalk	1766716469.0
@@ -94,8 +99,3 @@ lk_news	2025-12-25-virakesarilk-a25a4c03	virakesarilk-a25a4c03	2025-12-25	சி
 lk_news	2025-12-25-virakesarilk-aab288df	virakesarilk-aab288df	2025-12-25	ஆவண படமாக உருவாகியுள்ள 'ஆர் எம் வி : தி கிங் மேக்கர்'	https://www.virakesari.lk/article/234403	ta	virakesarilk	1766661420.0
 lk_news	2025-12-25-virakesarilk-23ce8f98	virakesarilk-23ce8f98	2025-12-25	பருத்தி - திரைப்பட விமர்சனம்	https://www.virakesari.lk/article/234402	ta	virakesarilk	1766661420.0
 lk_news	2025-12-25-virakesarilk-2d0de563	virakesarilk-2d0de563	2025-12-25	இலங்கையில் படுகொலை செய்யப்பட்ட முதல் ஊடகவியலாளர் தேவராசா - மட்டக்களப்பில் நினைவேந்தல்!	https://www.virakesari.lk/article/234405	ta	virakesarilk	1766661180.0
-lk_news	2025-12-25-lankadeepalk-adc392ac	lankadeepalk-adc392ac	2025-12-25	පල්ලි ආරක්ෂාවට පොලිසියෙන් 2500ක්	https://www.lankadeepa.lk/latest_news/පලල-ආරකෂවට-පලසයන-2500ක/1-685847	si	lankadeepalk	1766660719.0
-lk_news	2025-12-25-adalk-fb7b45c9	adalk-fb7b45c9	2025-12-25	ඖෂධවල ප්‍රමිති පරීක්ෂණ ක්‍රියාවළිය පුළුල් කිරීමට අවධානය	https://www.ada.lk/breaking_news/ඖෂධවල-ප්‍රමිති-පරීක්ෂණ-ක්‍රියාවළිය-පුළුල්-කිරීමට-අවධානය/11-420463	si	adalk	1766660616.0
-lk_news	2025-12-25-adalk-a5aa1eda	adalk-a5aa1eda	2025-12-25	අධ්‍යාපනයට බාධාවක් නොවන පරිදි  බදුල්ලේ පාසල් ගොඩනඟනවා	https://www.ada.lk/breaking_news/අධ්‍යාපනයට-බාධාවක්-නොවන-පරිදි--බදුල්ලේ-පාසල්-ගොඩනඟනවා/11-420462	si	adalk	1766660084.0
-lk_news	2025-12-25-lankadeepalk-46098617	lankadeepalk-46098617	2025-12-25	සිමෙන්ති ලොරිය ප්‍රපාතයට	https://www.lankadeepa.lk/latest_news/සමනත-ලරය-පරපතයට/1-685846	si	lankadeepalk	1766659980.0
-lk_news	2025-12-25-lankadeepalk-e2938db1	lankadeepalk-e2938db1	2025-12-25	සාමය මනුෂ්‍ය වර්ගයාට අවශ්‍යම දෙයක්	https://www.lankadeepa.lk/latest_news/සමය-මනෂය-වරගයට-අවශයම-දයක/1-685845	si	lankadeepalk	1766659632.0
