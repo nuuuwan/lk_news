@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--26_19:47:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--26_20:19:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,452** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,454** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-26-tamilmirrorlk-306490da",
-    "num": "tamilmirrorlk-306490da",
+    "doc_id": "2025-12-26-lankadeepalk-ae632233",
+    "num": "lankadeepalk-ae632233",
     "date_str": "2025-12-26",
-    "description": "\u0b9f\u0b95\u0bcd\u0bb2\u0bb8\u0bcd \u0ba4\u0bc7\u0bb5\u0bbe\u0ba9\u0ba8\u0bcd\u0ba4\u0bbe \u0b9a\u0bb1\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b9f\u0b95\u0bcd\u0bb2\u0bb8\u0bcd-\u0ba4\u0bc7\u0bb5\u0bbe\u0ba9\u0ba8\u0bcd\u0ba4\u0bbe-\u0b9a\u0bb1\u0bcd\u0bb1\u0bc1-\u0bae\u0bc1\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/150-370124",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1766756522.0
+    "description": "\u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0d87\u0db8\u0dd0\u0dad\u0dd2 \u0da9\u0d9c\u0dca\u0dbd\u0dc3\u0dca \u0daf\u0dda\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0daf\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc4\u0da7\u0db4-\u0d87\u0db8\u0dad-\u0da9\u0d9c\u0dbd\u0dc3-\u0daf\u0dc0\u0db1\u0db1\u0daf-\u0d85\u0dad\u0d85\u0da9\u0d9c\u0dc0\u0da7/1-685875",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1766758677.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-26 | `lankadeepalk-ae632233` | හිටපු ඇමැති ඩග්ලස් දේවානන්දා අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-ae632233)
 - 2025-12-26 | `tamilmirrorlk-306490da` | டக்லஸ் தேவானந்தா சற்று முன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-tamilmirrorlk-306490da)
 - 2025-12-26 | `lankadeepalk-8e878868` | වැලිගමට සභාපතිවරයකු පත් කිරිම දින නියමයක් නැතිව කල් යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-8e878868)
 - 2025-12-26 | `lankadeepalk-2e4250d5` | කොහුවලදී වෙඩි කෑ තරුණයා දින තුනකට පසු මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-2e4250d5)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-26 | `virakesarilk-45de0a43` | கைது செய்யப்பட்ட கம்பஹா குற்றப்புலனாய்வுப் பிரிவு பொறுப்பதிகாரிக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-45de0a43)
 - 2025-12-26 | `virakesarilk-46f355f3` | தங்கத்தின் விலை மேலும் அதிகரிக்கும் ; தேசிய இரத்தின, தங்க ஆபரண அதிகாரசபை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-46f355f3)
 - 2025-12-26 | `virakesarilk-3ec0215a` | ரெட்ட தல - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-3ec0215a)
-- 2025-12-26 | `virakesarilk-f990efcd` | ஆழிப்பேரலை 21வது நினைவேந்தல் ; மூதூரில் 200 மாணவர்களுக்கு கல்விப் பொருட்கள் வழங்கி வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-f990efcd)
 
 ---
 
