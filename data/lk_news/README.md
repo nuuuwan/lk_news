@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--26_20:47:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--26_21:19:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,458** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,459** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-26-lankadeepalk-30050023",
-    "num": "lankadeepalk-30050023",
+    "doc_id": "2025-12-26-lankadeepalk-520106b6",
+    "num": "lankadeepalk-520106b6",
     "date_str": "2025-12-26",
-    "description": "\u0db4\u0dd4\u0d82\u0da0\u0dd2 \u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba\u0da7 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc3\u0dd0\u0dbb \u0dc0\u0dd0\u0daf\u0dd2\u0dbd\u0dcf",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0db4\u0da0-\u0daf\u0dba\u0dab\u0dba\u0da7-\u0dc0\u0daf\u0dbd-\u0dc3\u0dbb-\u0dc0\u0daf\u0dbd/101-685877",
+    "description": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf \u0dbd\u0dda\u0d9a\u0db8\u0dca\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9c\u0dbd\u0dbd-\u0db1\u0d9c\u0dbb-\u0dc3\u0db7-\u0dbd\u0d9a\u0db8\u0da7-\u0d91\u0dbb\u0dc4\u0dc0-\u0db4\u0dad\u0dc3\u0db8\u0d9a/101-685878",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1766761092.0
+    "time_ut": 1766762080.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-26 | `lankadeepalk-520106b6` | ගාල්ල නගර සභා ලේකම්ට එරෙහිව පෙත්සමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-520106b6)
 - 2025-12-26 | `lankadeepalk-30050023` | පුංචි දියණියට විදුලි සැර වැදිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-30050023)
 - 2025-12-26 | `lankadeepalk-edf9f0aa` | ලොව දිගම උමං මාර්ගය විවෘත වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-edf9f0aa)
 - 2025-12-26 | `tamilmirrorlk-cadb06e0` | தனக்குத்தானே தீ வைத்து தற்கொலைக்கு முயற்சித்த நபரால் பதற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-tamilmirrorlk-cadb06e0)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-26 | `adalk-3ead2a6e` | මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයෙන් තවමත් පුපුරණ ද්‍රව්‍ය හමුවූයේ නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-adalk-3ead2a6e)
 - 2025-12-26 | `adalk-1ace3cdc` | 29 දා සිට නැවතත් වැස්ස වැඩිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-adalk-1ace3cdc)
 - 2025-12-26 | `virakesarilk-052df888` | மாணவத் தலைவர்களுக்கான விழாவுக்கு 10 இலட்சத்துக்கு அதிக தொகை செலவு - கல்வி அதிகாரிகள் ஆச்சரியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-052df888)
-- 2025-12-26 | `virakesarilk-60feade2` | தேசிய போதைப்பொருள் ஒழிப்புத் திட்டம் - 53 ஆயிரம் பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-60feade2)
 
 ---
 
