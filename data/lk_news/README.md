@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--26_17:17:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--26_17:50:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,435** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,438** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-26-virakesarilk-45de0a43",
-    "num": "virakesarilk-45de0a43",
+    "doc_id": "2025-12-26-virakesarilk-42fe342d",
+    "num": "virakesarilk-42fe342d",
     "date_str": "2025-12-26",
-    "description": "\u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0bae\u0bcd\u0baa\u0bb9\u0bbe \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0bb2\u0ba9\u0bbe\u0baf\u0bcd\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/234478",
+    "description": "\u0ba4\u0bb2\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bc8 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bbe\u0b95 \u0ba4\u0ba9\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bbe\u0ba9\u0bc7 \u0ba4\u0bc0\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0bae\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/234492",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1766745840.0
+    "time_ut": 1766751120.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-26 | `virakesarilk-42fe342d` | தலவாக்கலை பிரதேச செயலகத்துக்கு முன்பாக தனக்குத் தானே தீவைத்து உயிர்மாய்க்க முயன்ற குடும்பஸ்தர்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-42fe342d)
+- 2025-12-26 | `virakesarilk-052df888` | மாணவத் தலைவர்களுக்கான விழாவுக்கு 10 இலட்சத்துக்கு அதிக தொகை செலவு - கல்வி அதிகாரிகள் ஆச்சரியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-052df888)
+- 2025-12-26 | `virakesarilk-60feade2` | தேசிய போதைப்பொருள் ஒழிப்புத் திட்டம் - 53 ஆயிரம் பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-60feade2)
 - 2025-12-26 | `virakesarilk-45de0a43` | கைது செய்யப்பட்ட கம்பஹா குற்றப்புலனாய்வுப் பிரிவு பொறுப்பதிகாரிக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-45de0a43)
 - 2025-12-26 | `virakesarilk-46f355f3` | தங்கத்தின் விலை மேலும் அதிகரிக்கும் ; தேசிய இரத்தின, தங்க ஆபரண அதிகாரசபை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-46f355f3)
 - 2025-12-26 | `virakesarilk-3ec0215a` | ரெட்ட தல - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-3ec0215a)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-26 | `virakesarilk-94329e3a` | பாணந்துறையில் மோட்டார் சைக்கிள் பந்தயம் : 07 இளைஞர்கள் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-94329e3a)
 - 2025-12-26 | `virakesarilk-8e5429ad` | சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சருக்கும் இலங்கைக்கான வியட்நாம் தூதுவருக்கும் இடையில் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-8e5429ad)
 - 2025-12-26 | `lankadeepalk-fa185961` | මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලයේ බෝම්බ බියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-fa185961)
-- 2025-12-26 | `virakesarilk-60985412` | பால்ய கால நினைவுகளை மீட்டெடுக்கும் ஹாரிஸ் ஜெயராஜ் - கவிப்பேரரசு வைரமுத்து - சித் ஸ்ரீ ராம் கூட்டணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-60985412)
-- 2025-12-26 | `virakesarilk-1641e1b0` | இயக்குநர் மோகன் ஜி வெளியிட்ட நடிகர் ஸ்ரீகாந்த் நடிக்கும் ' தி பெட் ' படத்தின் முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-1641e1b0)
-- 2025-12-26 | `virakesarilk-49f096bf` | அமெரிக்காவில் கிறிஸ்மஸ் புயல் ;  வெள்ளம்! ; 3 பேர் உயிரிழப்பு ; கலிபோர்னியா, லொஸ் ஏஞ்சல்ஸில் அவசர நிலை பிரகடனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-49f096bf)
 
 ---
 
