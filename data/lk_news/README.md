@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--27_16:19:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--27_16:46:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,527** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,529** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-27-tamilmirrorlk-da5cb51e",
-    "num": "tamilmirrorlk-da5cb51e",
+    "doc_id": "2025-12-27-tamilmirrorlk-e9b30b70",
+    "num": "tamilmirrorlk-e9b30b70",
     "date_str": "2025-12-27",
-    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0b95\u0ba9 \u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbe\u0b95\u0ba9-\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-370135",
+    "description": "\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bc8 \u0b85\u0ba4\u0bbf\u0bb0\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f \u0ba4\u0bb3\u0baa\u0ba4\u0bbf : \u201c\u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba9\u0bcd\u201d \u0b87\u0b9a\u0bc8 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb4\u0bbe \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0bae\u0bb2\u0bc7\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bc8-\u0b85\u0ba4\u0bbf\u0bb0\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f-\u0ba4\u0bb3\u0baa\u0ba4\u0bbf-\u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba9\u0bcd-\u0b87\u0b9a\u0bc8-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0bb4\u0bbe-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/54-370137",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1766831412.0
+    "time_ut": 1766833532.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-27 | `tamilmirrorlk-e9b30b70` | மலேசியாவை அதிரவிட்ட தளபதி : “ஜனநாயகன்” இசை வெளியீட்டு விழா ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-tamilmirrorlk-e9b30b70)
+- 2025-12-27 | `tamilmirrorlk-6b7e1b7c` | ஆபத்தின் விளிம்பில் இருக்கும் பாடசாலைகள் குறித்து உடனடி நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-tamilmirrorlk-6b7e1b7c)
 - 2025-12-27 | `tamilmirrorlk-da5cb51e` | இலங்கையில் வாகன விற்பனையில் திடீர் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-tamilmirrorlk-da5cb51e)
 - 2025-12-27 | `lankadeepalk-0cd8e1a9` | ඡන්දදායක සංගණනය පෙබරවාරි 01 සිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-lankadeepalk-0cd8e1a9)
 - 2025-12-27 | `virakesarilk-a04ac15b` | பூஸா சிறைச்சாலையில் விசேட சோதனை - பல பொருட்கள் கைப்பற்றல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-virakesarilk-a04ac15b)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-27 | `virakesarilk-f9c2d44a` | அமெரிக்காவில் ‘டெவின்’ குளிர்கால புயல் ; ஆயிரக்கணக்கான விமானங்கள் இரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-virakesarilk-f9c2d44a)
 - 2025-12-27 | `virakesarilk-af395ae4` | களியாட்ட விடுதி மீது பெற்றோல் குண்டுத்தாக்குதல் நடத்த முயற்சித்தவர்கள் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-virakesarilk-af395ae4)
 - 2025-12-27 | `virakesarilk-d18fe2ba` | டக்ளஸ் தேவானந்தாவை நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-virakesarilk-d18fe2ba)
-- 2025-12-27 | `virakesarilk-3a27052f` | நாடு முழுவதும் வெவ்வேறு வாகன விபத்துக்கள்: ஐவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-virakesarilk-3a27052f)
-- 2025-12-27 | `virakesarilk-1b54c429` | 1,200க்கும் மேற்பட்ட பகுதிகள் மண்சரிவு அபாய பகுதிகளாக பதிவு - தேசிய கட்டிட ஆராய்ச்சி நிலையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-virakesarilk-1b54c429)
 
 ---
 
