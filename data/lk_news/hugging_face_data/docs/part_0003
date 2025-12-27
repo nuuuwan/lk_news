@@ -319083,5 +319083,16 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766828580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-27-lankadeepalk-0cd8e1a9",
+    "num": "lankadeepalk-0cd8e1a9",
+    "date_str": "2025-12-27",
+    "description": "\u0da1\u0db1\u0dca\u0daf\u0daf\u0dcf\u0dba\u0d9a \u0dc3\u0d82\u0d9c\u0dab\u0db1\u0dba \u0db4\u0dd9\u0db6\u0dbb\u0dc0\u0dcf\u0dbb\u0dd2 01 \u0dc3\u0dd2\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0da1\u0db1\u0daf\u0daf\u0dba\u0d9a-\u0dc3\u0d9c\u0dab\u0db1\u0dba-\u0db4\u0db6\u0dbb\u0dc0\u0dbb-01-\u0dc3\u0da7/1-685900",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1766830161.0
   }
 ]
