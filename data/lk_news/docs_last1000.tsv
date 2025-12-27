@@ -1,4 +1,12 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-27-lankadeepalk-2cde70f7	lankadeepalk-2cde70f7	2025-12-27	වෑන් රියේ ගැටුණු අලියා මරුට	https://www.lankadeepa.lk/news/වන-රය-ගටණ-අලය-මරට/101-685887	si	lankadeepalk	1766809057.0
+lk_news	2025-12-27-virakesarilk-2eff45e4	virakesarilk-2eff45e4	2025-12-27	பொரளையில் ஹெரோயின் மற்றும் கஞ்சாவுடன் ஒருவர் கைது!	https://www.virakesari.lk/article/234512	ta	virakesarilk	1766808360.0
+lk_news	2025-12-27-virakesarilk-8f7812b9	virakesarilk-8f7812b9	2025-12-27	ஹிக்கடுவ கடலில் அலையில் சிக்கிய வெளிநாட்டவர்கள் மீட்பு!	https://www.virakesari.lk/article/234511	ta	virakesarilk	1766808180.0
+lk_news	2025-12-27-lankadeepalk-6f638e13	lankadeepalk-6f638e13	2025-12-27	මත්තල ගුවන්තොට සමාගම් තුනකට	https://www.lankadeepa.lk/news/මතතල-ගවනතට-සමගම-තනකට/101-685885	si	lankadeepalk	1766807883.0
+lk_news	2025-12-27-lankadeepalk-e75efb88	lankadeepalk-e75efb88	2025-12-27	වනඅලි පහරින් කතක් මරුට	https://www.lankadeepa.lk/news/වනඅල-පහරන-කතක-මරට/101-685884	si	lankadeepalk	1766807864.0
+lk_news	2025-12-27-tamilmirrorlk-acf42094	tamilmirrorlk-acf42094	2025-12-27	நீதிவான் முன்னிலையில் டக்ளஸ் ஆஜர்	https://www.tamilmirror.lk/செய்திகள்/நீதிவான்-முன்னிலையில்-டக்ளஸ்-ஆஜர்/175-370130	ta	tamilmirrorlk	1766807847.0
+lk_news	2025-12-27-lankadeepalk-3212155d	lankadeepalk-3212155d	2025-12-27	සීදූවේ සමාජ ශාලාවකට බෝම්බ ගහන්න ආ හයක් මාට්ටු	https://www.lankadeepa.lk/news/සදව-සමජ-ශලවකට-බමබ-ගහනන-ආ-හයක-මටට/101-685883	si	lankadeepalk	1766807179.0
+lk_news	2025-12-27-lankadeepalk-9bd78470	lankadeepalk-9bd78470	2025-12-27	රාගමින් හමුවූ මොටර් රථය සහ ගිනි අවිය ගැන තොරතුරු එළියට	https://www.lankadeepa.lk/news/රගමන-හමව-මටර-රථය-සහ-ගන-අවය-ගන-තරතර-එළයට/101-685882	si	lankadeepalk	1766806923.0
 lk_news	2025-12-27-adalk-1c870909	adalk-1c870909	2025-12-27	දේවානන්දා අද අධිකරණයට	https://www.ada.lk/breaking_news/දේවානන්දා-අද-අධිකරණයට/11-420479	si	adalk	1766797892.0
 lk_news	2025-12-27-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-12-27	இன்றைய வானிலை	https://www.virakesari.lk/article/234510	ta	virakesarilk	1766795460.0
 lk_news	2025-12-27-tamilmirrorlk-20649efb	tamilmirrorlk-20649efb	2025-12-27	எலிக் காய்ச்சலால் குடும்பஸ்தர் உயிரிழப்பு	https://www.tamilmirror.lk/செய்திகள்/எலிக்-காய்ச்சலால்-குடும்பஸ்தர்-உயிரிழப்பு/175-370129	ta	tamilmirrorlk	1766783734.0
@@ -993,11 +1001,3 @@ lk_news	2025-12-21-virakesarilk-2a57b38e	virakesarilk-2a57b38e	2025-12-21	நட
 lk_news	2025-12-21-virakesarilk-ff3b354e	virakesarilk-ff3b354e	2025-12-21	பங்களாதேஷில் வெடிக்கும் வன்முறை - பிஎன்பி கட்சித் தலைவரின் வீடு தீக்கிரை : ஏழு வயது மகள் படுகொலை	https://www.virakesari.lk/article/234013	ta	virakesarilk	1766308980.0
 lk_news	2025-12-21-virakesarilk-e5190456	virakesarilk-e5190456	2025-12-21	மருந்து தரப் பரிசோதனை ஆய்வகத்தை  உடனடியாக உள்நாட்டில் நிறுவுங்கள்  அரசாங்கத்திடம் அரச மருத்துவ அதிகாரிகள் சங்கம் வலியுறுத்து	https://www.virakesari.lk/article/234015	ta	virakesarilk	1766308980.0
 lk_news	2025-12-21-adalk-ea125fa9	adalk-ea125fa9	2025-12-21	රජයට පැවරුණු වගකීම ඉටු කරනවා - ජනතාවට පැවරුන වගකීම නිසි පරිදි ඉටු කරන්න	https://www.ada.lk/breaking_news/රජයට-පැවරුණු-වගකීම-ඉටු-කරනවා---ජනතාවට-පැවරුන-වගකීම-නිසි-පරිදි-ඉටු-කරන්න/11-420375	si	adalk	1766308422.0
-lk_news	2025-12-21-virakesarilk-8f6af394	virakesarilk-8f6af394	2025-12-21	மலையக மக்களை வட, கிழக்கில்  குடியேறுமாறு வற்புறுத்தவில்லை சுயவிருப்பின்பேரில் வருவோரை வரவேற்கத்தயார் என்றே கூறினோம்; எம்.ஏ.சுமந்திரன் விளக்கம்	https://www.virakesari.lk/article/234000	ta	virakesarilk	1766308200.0
-lk_news	2025-12-21-virakesarilk-3df68d66	virakesarilk-3df68d66	2025-12-21	கண்டி, நுவரெலியா மாவட்டங்களுக்கான மண்சரிவு அபாய சிவப்பு எச்சரிக்கை நீடிப்பு!	https://www.virakesari.lk/article/234012	ta	virakesarilk	1766308200.0
-lk_news	2025-12-21-virakesarilk-de52ec43	virakesarilk-de52ec43	2025-12-21	திருகோணமலை – வெருகல் பகுதியில் வெள்ளம்: 10 பேர் இடம்பெயர்வு	https://www.virakesari.lk/article/234011	ta	virakesarilk	1766307780.0
-lk_news	2025-12-21-lankadeepalk-5adca1cd	lankadeepalk-5adca1cd	2025-12-21	සොහොන් පිට්ටනිය නාය ගිහින් මාසයයි:තවමත් මිනී පාර දිගේ	https://www.lankadeepa.lk/news/සහන-පටටනය-නය-ගහන-මසයයතවමත-මන-පර-දග/101-685611	si	lankadeepalk	1766307494.0
-lk_news	2025-12-21-virakesarilk-60cfc5e5	virakesarilk-60cfc5e5	2025-12-21	சோமாலிய அடாவடி	https://www.virakesari.lk/article/234010	ta	virakesarilk	1766307300.0
-lk_news	2025-12-21-virakesarilk-2b446fed	virakesarilk-2b446fed	2025-12-21	பொது­வேட்­பா­ள­ராக  சந்­தி­ரிக்­காவின் மகன்? திரை­ம­றைவில் ஆரம்­ப­மான நட­வ­டிக்­கைகள்	https://www.virakesari.lk/article/234009	ta	virakesarilk	1766307300.0
-lk_news	2025-12-21-virakesarilk-664c88d2	virakesarilk-664c88d2	2025-12-21	ஐந்து மீனவர்கள் கொண்ட பலநாள் மீன்பிடிப் படகு மாயம்!	https://www.virakesari.lk/article/234008	ta	virakesarilk	1766306940.0
-lk_news	2025-12-21-virakesarilk-83188fb8	virakesarilk-83188fb8	2025-12-21	வீட்டில் மறைத்து வைக்கப்பட்டிருந்த ஐஸ் போதைப்பொருள் கைப்பற்றல்!	https://www.virakesari.lk/article/234007	ta	virakesarilk	1766306880.0
