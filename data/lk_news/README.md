@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--27_05:17:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--27_06:02:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,484** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,492** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -53,14 +53,14 @@ A collection of lk_news documents.
 - 2025-12-26 | `virakesarilk-debc95fe` | IDH பகுதியில் உள்ள ஒரு வர்த்தக வளாகத்தில் திடீரென தீ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-debc95fe)
 - 2025-12-26 | `virakesarilk-703edd0c` | இலங்கையின் பால் உற்பத்தியாளர்கள் இந்தியாவில் சிறப்பு பயிற்சி மற்றும் திறன் மேம்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-703edd0c)
 - 2025-12-26 | `lankadeepalk-520106b6` | ගාල්ල නගර සභා ලේකම්ට එරෙහිව පෙත්සමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-520106b6)
+- 2025-12-26 | `islandlk-c11a7912` | ComBank, CBA launch smart POS for SMEs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-islandlk-c11a7912)
+- 2025-12-26 | `islandlk-c72f50e3` | FACETS 2026 to unveil new era for Sri Lanka’s gem and jewellery trade | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-islandlk-c72f50e3)
 - 2025-12-26 | `virakesarilk-3e0ea9fb` | இலங்கையின் ரத்தினக்கல் மற்றும் ஆபரண நிபுணர்கள் இந்தியாவில் சிறப்பு பயிற்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-3e0ea9fb)
+- 2025-12-26 | `islandlk-11cbfe25` | Dockyard rally breaks CSE’s sluggish spell | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-islandlk-11cbfe25)
 - 2025-12-26 | `virakesarilk-82461615` | காற்றுச் சுழற்சி, கனமழை மற்றும் நிலச்சரிவு நிகழ்வுகள் தொடர்பான நாகமுத்து பிரதீபராஜாவின் முன்னறிவிப்பும் விழிப்பூட்டலும்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-82461615)
 - 2025-12-26 | `lankadeepalk-30050023` | පුංචි දියණියට විදුලි සැර වැදිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-30050023)
 - 2025-12-26 | `virakesarilk-9955a661` | தமிழரசுக்கட்சி உறுப்புரிமையிலிருந்து சின்னராசா லோகேஸ்வரன் நீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-9955a661)
 - 2025-12-26 | `lankadeepalk-edf9f0aa` | ලොව දිගම උමං මාර්ගය විවෘත වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-lankadeepalk-edf9f0aa)
-- 2025-12-26 | `tamilmirrorlk-cadb06e0` | தனக்குத்தானே தீ வைத்து தற்கொலைக்கு முயற்சித்த நபரால் பதற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-tamilmirrorlk-cadb06e0)
-- 2025-12-26 | `virakesarilk-dacff7a1` | அநுரவும் கடந்த ஆட்சியார்கள் போன்றே செயற்படுகின்றார் - உதய கம்மன்பில | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-dacff7a1)
-- 2025-12-26 | `virakesarilk-7e7089dd` | வரவு - செலவுத்திட்டத்தை திருத்தங்களுடன் முன்வைத்தால் ஆதரவளிக்கத் தயார் ; கொழும்பு மாநகர சபையின் எதிர்க்கட்சித் தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-26-virakesarilk-7e7089dd)
 
 ---
 

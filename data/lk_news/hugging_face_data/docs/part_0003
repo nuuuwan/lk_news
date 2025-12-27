@@ -313443,6 +313443,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-24-islandlk-7bd1886f",
+    "num": "islandlk-7bd1886f",
+    "date_str": "2025-12-24",
+    "description": "Time to pursue climate relief more vigorously",
+    "url_metadata": "http://island.lk/time-to-pursue-climate-relief-more-vigorously/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766517120.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-24-islandlk-34a31c01",
     "num": "islandlk-34a31c01",
     "date_str": "2025-12-24",
@@ -316930,6 +316941,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-14384fc4",
+    "num": "islandlk-14384fc4",
+    "date_str": "2025-12-25",
+    "description": "Tea market grappling with headwinds as 2025 comes to an end",
+    "url_metadata": "http://island.lk/tea-market-grappling-with-headwinds-as-2025-comes-to-an-end/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766673120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-1a3a94dc",
+    "num": "islandlk-1a3a94dc",
+    "date_str": "2025-12-25",
+    "description": "Access Engineering gets contract for 615-unit housing project in Kirulapone",
+    "url_metadata": "http://island.lk/access-engineering-gets-contract-for-615-unit-housing-project-in-kirulapone/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766673120.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-25-islandlk-d26bd9a5",
     "num": "islandlk-d26bd9a5",
     "date_str": "2025-12-25",
@@ -316993,6 +317026,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1766674080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-9bf4de86",
+    "num": "islandlk-9bf4de86",
+    "date_str": "2025-12-25",
+    "description": "First Capital to restore 15 acres of forest through partnership with WNPS",
+    "url_metadata": "http://island.lk/first-capital-to-restore-15-acres-of-forest-through-partnership-with-wnps/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766674140.0
   },
   {
     "doc_type": "lk_news",
@@ -318437,6 +318481,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-26-islandlk-3e545df8",
+    "num": "islandlk-3e545df8",
+    "date_str": "2025-12-26",
+    "description": "Export earnings report $ 15.8 billion underscoring Sri Lanka\u2019s trade competitiveness",
+    "url_metadata": "http://island.lk/export-earnings-report-15-8-billion-underscoring-sri-lankas-trade-competitiveness/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766760780.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-26-tamilmirrorlk-cadb06e0",
     "num": "tamilmirrorlk-cadb06e0",
     "date_str": "2025-12-26",
@@ -318492,6 +318547,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-26-islandlk-11cbfe25",
+    "num": "islandlk-11cbfe25",
+    "date_str": "2025-12-26",
+    "description": "Dockyard rally breaks CSE\u2019s sluggish spell",
+    "url_metadata": "http://island.lk/dockyard-rally-breaks-cses-sluggish-spell/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766761860.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-26-virakesarilk-3e0ea9fb",
     "num": "virakesarilk-3e0ea9fb",
     "date_str": "2025-12-26",
@@ -318500,6 +318566,28 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766761860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-26-islandlk-c72f50e3",
+    "num": "islandlk-c72f50e3",
+    "date_str": "2025-12-26",
+    "description": "FACETS 2026 to unveil new era for Sri Lanka\u2019s gem and jewellery trade",
+    "url_metadata": "http://island.lk/facets-2026-to-unveil-new-era-for-sri-lankas-gem-and-jewellery-trade/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766761920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-26-islandlk-c11a7912",
+    "num": "islandlk-c11a7912",
+    "date_str": "2025-12-26",
+    "description": "ComBank, CBA launch smart POS for SMEs",
+    "url_metadata": "http://island.lk/combank-cba-launch-smart-pos-for-smes/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766761980.0
   },
   {
     "doc_type": "lk_news",
