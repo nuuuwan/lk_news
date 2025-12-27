@@ -318753,5 +318753,16 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766795460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-27-adalk-1c870909",
+    "num": "adalk-1c870909",
+    "date_str": "2025-12-27",
+    "description": "\u0daf\u0dda\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0daf\u0dcf \u0d85\u0daf \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dda\u0dc0\u0dcf\u0db1\u0db1\u0dca\u0daf\u0dcf-\u0d85\u0daf-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7/11-420479",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1766797892.0
   }
 ]
