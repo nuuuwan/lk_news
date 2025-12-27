@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--27_11:19:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--27_11:48:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,511** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,512** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A collection of lk_news documents.
 - 2025-12-27 | `tamilmirrorlk-d5c2ff79` | இராட்சத முதலை இறந்த நிலையில் கரையொதுங்கியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-tamilmirrorlk-d5c2ff79)
 - 2025-12-27 | `virakesarilk-f9c2d44a` | அமெரிக்காவில் ‘டெவின்’ குளிர்கால புயல் ; ஆயிரக்கணக்கான விமானங்கள் இரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-virakesarilk-f9c2d44a)
 - 2025-12-27 | `virakesarilk-d18fe2ba` | டக்ளஸ் தேவானந்தாவை நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-virakesarilk-d18fe2ba)
+- 2025-12-27 | `virakesarilk-1b54c429` | 1,200க்கும் மேற்பட்ட பகுதிகள் மண்சரிவு அபாய பகுதிகளாக பதிவு - தேசிய கட்டிட ஆராய்ச்சி நிலையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-virakesarilk-1b54c429)
 - 2025-12-27 | `lankadeepalk-2cde70f7` | වෑන් රියේ ගැටුණු අලියා මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-lankadeepalk-2cde70f7)
 - 2025-12-27 | `virakesarilk-7a8d3578` | காட்டு யானை தாக்குதல்: பெண் ஒருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-virakesarilk-7a8d3578)
 - 2025-12-27 | `virakesarilk-75f68228` | கண்டியில் மர்மமான முறையில் உயிரிழந்த ஆணின் சடலம் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-virakesarilk-75f68228)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-27 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-virakesarilk-3a015e4a)
 - 2025-12-27 | `tamilmirrorlk-20649efb` | எலிக் காய்ச்சலால் குடும்பஸ்தர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-tamilmirrorlk-20649efb)
 - 2025-12-27 | `tamilmirrorlk-e5a23fb6` | சிரியா பள்ளிவாசலில் குண்டுவெடிப்பு: 8 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-tamilmirrorlk-e5a23fb6)
-- 2025-12-27 | `virakesarilk-c2abb55e` | கொழும்பு மாநகரசபையின் தோல்வியடைந்த வரவு - செலவு திட்டத்தை மீண்டும் சபைக்கு சமர்ப்பிக்க தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-27-virakesarilk-c2abb55e)
 
 ---
 
