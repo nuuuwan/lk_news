@@ -315577,6 +315577,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-6df1268c",
+    "num": "islandlk-6df1268c",
+    "date_str": "2025-12-25",
+    "description": "Christmas spirit, relief and pledges",
+    "url_metadata": "http://island.lk/christmas-spirit-relief-and-pledges/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766601840.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-25-islandlk-927f2dd8",
     "num": "islandlk-927f2dd8",
     "date_str": "2025-12-25",
@@ -318492,6 +318503,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-26-islandlk-370e2a0a",
+    "num": "islandlk-370e2a0a",
+    "date_str": "2025-12-26",
+    "description": "eChannelling introduces \u2018eHomecare\u2019 as SL\u2019s first doctor-led elderly care service",
+    "url_metadata": "http://island.lk/echannelling-introduces-ehomecare-as-sls-first-doctor-led-elderly-care-service/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766760780.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-26-islandlk-3e545df8",
     "num": "islandlk-3e545df8",
     "date_str": "2025-12-26",
@@ -318569,6 +318591,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-26-islandlk-d6cbf0d0",
+    "num": "islandlk-d6cbf0d0",
+    "date_str": "2025-12-26",
+    "description": "NDB shows strong growth, rising investment potential",
+    "url_metadata": "http://island.lk/ndb-shows-strong-growth-rising-investment-potential/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766761860.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-26-virakesarilk-3e0ea9fb",
     "num": "virakesarilk-3e0ea9fb",
     "date_str": "2025-12-26",
@@ -318577,6 +318610,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766761860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-26-islandlk-0b40ab03",
+    "num": "islandlk-0b40ab03",
+    "date_str": "2025-12-26",
+    "description": "Sri Lankan tea sees a week of robust activity",
+    "url_metadata": "http://island.lk/sri-lankan-tea-sees-a-week-of-robust-activity/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766761920.0
   },
   {
     "doc_type": "lk_news",
@@ -319075,6 +319119,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-2d44d61d",
+    "num": "islandlk-2d44d61d",
+    "date_str": "2025-12-27",
+    "description": "The Art of Preparation: Lessons from Sanghamitt\u0101 Mah\u0101ther\u012b and Mahes\u012b Anul\u0101 Dev\u012b",
+    "url_metadata": "http://island.lk/the-art-of-preparation-lessons-from-sanghamitta-mahatheri-and-mahesi-anula-devi/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766820600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-0abcd474",
+    "num": "islandlk-0abcd474",
+    "date_str": "2025-12-27",
+    "description": "THE PROCEEDS OF CRIME ACT- For whom the bell tolls?",
+    "url_metadata": "http://island.lk/the-proceeds-of-crime-act-for-whom-the-bell-tolls/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766820660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-b0d81e0c",
+    "num": "islandlk-b0d81e0c",
+    "date_str": "2025-12-27",
+    "description": "Digambaram draws a broad brush canvas of SL\u2019s existing political situation",
+    "url_metadata": "http://island.lk/digambaram-draws-a-broad-brush-canvas-of-sls-existing-political-situation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766820660.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-27-virakesarilk-20df4914",
     "num": "virakesarilk-20df4914",
     "date_str": "2025-12-27",
@@ -319086,6 +319163,72 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-525615a2",
+    "num": "islandlk-525615a2",
+    "date_str": "2025-12-27",
+    "description": "Review of \u201cAround the World in Magnets: Sri Lanka Edition\u201d",
+    "url_metadata": "http://island.lk/review-of-around-the-world-in-magnets-sri-lanka-edition/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766822520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-963a2c67",
+    "num": "islandlk-963a2c67",
+    "date_str": "2025-12-27",
+    "description": "Mama danne ne,Ay Kolomba Ay?",
+    "url_metadata": "http://island.lk/mama-danne-neay-kolomba-ay/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766822520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-1e4880cb",
+    "num": "islandlk-1e4880cb",
+    "date_str": "2025-12-27",
+    "description": "Nawaloka Hospitals Colombo Marks Four Decades of Responsible, Patient Centered Healthcare",
+    "url_metadata": "http://island.lk/nawaloka-hospitals-colombo-marks-four-decades-of-responsible-patient-centered-healthcare/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766823120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-aa97bddf",
+    "num": "islandlk-aa97bddf",
+    "date_str": "2025-12-27",
+    "description": "AIA provided urgent medical relief to flood-affected families in Thalwatta",
+    "url_metadata": "http://island.lk/aia-provided-urgent-medical-relief-to-flood-affected-families-in-thalwatta/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766823120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-bf0463c5",
+    "num": "islandlk-bf0463c5",
+    "date_str": "2025-12-27",
+    "description": "ComBank and Colonial Motors in year-long partnership to promote Mazda vehicles",
+    "url_metadata": "http://island.lk/combank-and-colonial-motors-in-year-long-partnership-to-promote-mazda-vehicles/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766823120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-fb02daac",
+    "num": "islandlk-fb02daac",
+    "date_str": "2025-12-27",
+    "description": "SLT-Mobitel leads Lanka\u2019s 5G Digital Transformation",
+    "url_metadata": "http://island.lk/slt-mobitel-leads-lankas-5g-digital-transformation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766823120.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-27-virakesarilk-7f3e81bb",
     "num": "virakesarilk-7f3e81bb",
     "date_str": "2025-12-27",
@@ -319094,6 +319237,28 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766824920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-c8a24571",
+    "num": "islandlk-c8a24571",
+    "date_str": "2025-12-27",
+    "description": "Disaster Management and The Power of Science",
+    "url_metadata": "http://island.lk/disaster-management-and-the-power-of-science/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766825040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-fbf70ebb",
+    "num": "islandlk-fbf70ebb",
+    "date_str": "2025-12-27",
+    "description": "The three lettered poet Sunil Sarath Perera",
+    "url_metadata": "http://island.lk/the-three-lettered-poet-sunil-sarath-perera/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766825040.0
   },
   {
     "doc_type": "lk_news",
