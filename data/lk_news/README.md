@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--28_20:18:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--28_20:47:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,681** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,683** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-28-virakesarilk-bf43e92f",
-    "num": "virakesarilk-bf43e92f",
+    "doc_id": "2025-12-28-adalk-9fab6145",
+    "num": "adalk-9fab6145",
     "date_str": "2025-12-28",
-    "description": "\u0b8a\u0b9f\u0b95 \u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bc8 \u0bae\u0bc1\u0b9f\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bc0\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bcb\u0bae\u0bcd - \u0bae\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bcd \u0b8e\u0bae\u0bcd.\u0baa\u0bbf.\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/234611",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1766931240.0
+    "description": "\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0da7 \u0d86\u0db4\u0dd4 \u0d9a\u0da7\u0dcf\u0dbb\u0dca \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0dda \u0db6\u0ddd\u0db8\u0dca\u0db6 \u0db6\u0dd2\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0da7-\u0d86\u0db4\u0dd4-\u0d9a\u0da7\u0dcf\u0dbb\u0dca-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dba\u0dda-\u0db6\u0ddd\u0db8\u0dca\u0db6-\u0db6\u0dd2\u0dba\u0d9a\u0dca/11-420494",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1766934250.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-28 | `adalk-9fab6145` | කටුනායකට ආපු කටාර් ගුවන් යානයේ බෝම්බ බියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-adalk-9fab6145)
+- 2025-12-28 | `virakesarilk-3ef21c84` | மின்சாரம் உள்ளிட்ட பல சேவைகளை அத்தியாவசிய சேவைகளாக அறிவித்து வர்த்தமானி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-3ef21c84)
 - 2025-12-28 | `virakesarilk-bf43e92f` | ஊடக சுதந்திரத்தினை முடக்க முற்பட்டால் பொதுமக்களை வீதிக்கு இறக்குவோம் - மரிக்கார் எம்.பி.அரசாங்கத்துக்கு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-bf43e92f)
 - 2025-12-28 | `virakesarilk-0ccd61b6` | படுகொலைகளுடன் தொடர்புடைய விவகாரம் பாதாள உலகக்குழுவின் துப்பாக்கிதாரி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-0ccd61b6)
 - 2025-12-28 | `virakesarilk-371d5c2f` | மருந்து மாபியாவை கட்டுப்படுத்துவதற்கு அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் - சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-371d5c2f)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-28 | `adalk-1dfbbc21` | හිටපු අමාත්‍ය ඩග්ලස් දේවානන්දා රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-adalk-1dfbbc21)
 - 2025-12-28 | `virakesarilk-bdef10e1` | கைதான 03 இந்திய மீனவர்களுக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-bdef10e1)
 - 2025-12-28 | `virakesarilk-9f72223d` | ஒரே தர்மமும் இரண்டு சாட்சிகளும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-9f72223d)
-- 2025-12-28 | `virakesarilk-1d039395` | முன்னாள் அமைச்சர் டக்ளஸ் தேவானந்தாவுக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-1d039395)
-- 2025-12-28 | `virakesarilk-fa7fd6bc` | சிறுவர் கடத்­தல்கள் தீவி­ர­ம­டையும் நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-fa7fd6bc)
 
 ---
 
