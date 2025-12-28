@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--28_13:17:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--28_13:48:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,624** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,627** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-28-lankadeepalk-4e5ed427",
-    "num": "lankadeepalk-4e5ed427",
+    "doc_id": "2025-12-28-tamilmirrorlk-bfee5952",
+    "num": "tamilmirrorlk-bfee5952",
     "date_str": "2025-12-28",
-    "description": "\u0d85\u0dbd\u0dca\u0dbd\u0dc3\u0dca \u0d9c\u0dad\u0dca  \u0dc3\u0dd2 .\u0d85\u0dba\u0dd2 . \u0d9c\u0dda  \u0dc0\u0dd0\u0da9 \u0dad\u0dc4\u0db1\u0db8\u0dca",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d85\u0dbd\u0dbd\u0dc3-\u0d9c\u0dad-\u0dc3-\u0d85\u0dba-\u0d9c-\u0dc0\u0da9-\u0dad\u0dc4\u0db1\u0db8/101-685922",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1766907256.0
+    "description": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf: 31 \u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0ba4\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-31-\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd-\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd-\u0ba4\u0b9f\u0bc8/76-370175",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1766909420.0
 }
 ```
 
@@ -41,9 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-28 | `tamilmirrorlk-bfee5952` | கண்டியில் அதிரடி: 31 க்குப் பின்னர் தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-bfee5952)
+- 2025-12-28 | `lankadeepalk-e5a058ff` | 31 සිට  මහනුවර පදික වෙළඳාම තහනම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-e5a058ff)
 - 2025-12-28 | `lankadeepalk-4e5ed427` | අල්ලස් ගත්  සි .අයි . ගේ  වැඩ තහනම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-4e5ed427)
 - 2025-12-28 | `lankadeepalk-f017ff73` | ’’ලොකුම හානිය සිද්ධ වුණු නුවරට වැඩි අවධානය ඕනෑ’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-f017ff73)
 - 2025-12-28 | `lankadeepalk-0d60d512` | උතුරු පේරු වෙරළ ආසන්නයේ භූ කම්පනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-0d60d512)
+- 2025-12-28 | `adalk-e26653b6` | හෙළයේ ගීත කෝකිලාවියගේ අවසන් කටයුතු පූර්ණ රාජ්‍ය අනුග්‍රහයෙන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-adalk-e26653b6)
 - 2025-12-28 | `tamilmirrorlk-abe0ed31` | உலர் உணவுப் பொருட்கள் திருட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-abe0ed31)
 - 2025-12-28 | `tamilmirrorlk-bab2a6b0` | அத்தையுடன் தில்லுமுல்லு 8 பேரை திருமணம் செய்த கல்யாண ராணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-bab2a6b0)
 - 2025-12-28 | `tamilmirrorlk-edb5b66e` | மோட்டார் சைக்கிள் விபத்தில் பாடசாலை மாணவன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-edb5b66e)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-28 | `adalk-23a20abd` | නයි මිරිස් සහ අමු මිරිස් කිලෝවක් රු.2000යි, මාලු මිරිස් කිලෝවක් රු.1300යි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-adalk-23a20abd)
 - 2025-12-28 | `tamilmirrorlk-a9a2f075` | இன்றைய வானிலை முன்னறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-a9a2f075)
 - 2025-12-28 | `virakesarilk-929efa4f` | பயங்கரவாதத்துக்கு  எதிரான புதிய சட்ட மூலம் தொடர்பான கலந்தாலோசனை முறைமை மாற்றத்தின் ஒரு பரீட்சை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-929efa4f)
-- 2025-12-28 | `virakesarilk-2ec62c1b` | கடற்படையின் 75வது ஆண்டு நிறைவை முன்னிட்டு காலி முகத்திடல் கடற்கரையை சுத்தப்படுத்தும் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-2ec62c1b)
-- 2025-12-28 | `tamilmirrorlk-8c69249c` | வவுனியாவில் விகாரை அமைக்கும் பணி தீவிரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-8c69249c)
-- 2025-12-28 | `virakesarilk-15c7f664` | பிரபல இஸ்லாமிய அறிஞர் தாரிக் அல் சுவைதானின் குடியுரிமையை இரத்து செய்த குவைத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-15c7f664)
 
 ---
 
