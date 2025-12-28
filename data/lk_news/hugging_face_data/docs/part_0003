@@ -321030,5 +321030,60 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766956370.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-dailyftlk-7bc9219d",
+    "num": "dailyftlk-7bc9219d",
+    "date_str": "2025-12-29",
+    "description": "Corporate criminal liability under the Anti-Corruption Act of 2023",
+    "url_metadata": "https://www.ft.lk/opinion/Corporate-criminal-liability-under-the-Anti-Corruption-Act-of-2023/14-786158",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766956920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-virakesarilk-4d74bba2",
+    "num": "virakesarilk-4d74bba2",
+    "date_str": "2025-12-29",
+    "description": "\u0b85\u0bb0\u0b9a \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/234620",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766957280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-virakesarilk-1aeed5f1",
+    "num": "virakesarilk-1aeed5f1",
+    "date_str": "2025-12-29",
+    "description": "\u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u00a079 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0ba9 \u0baa\u0bbe\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bc1\u0ba9\u0bb0\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/234621",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766957580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-dailyftlk-da6a98ef",
+    "num": "dailyftlk-da6a98ef",
+    "date_str": "2025-12-29",
+    "description": "Beyond relief: Building Sri Lanka\u2019s digital disaster brain",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-relief-Building-Sri-Lanka-s-digital-disaster-brain/4-786159",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766957705.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-virakesarilk-a3a8f98f",
+    "num": "virakesarilk-a3a8f98f",
+    "date_str": "2025-12-29",
+    "description": "\u0b95\u0bb1\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u00a0\u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd\u00a0\u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3 \u0baa\u0bca\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/234622",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766957820.0
   }
 ]

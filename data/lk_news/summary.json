@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-29 02:45:55",
-  "n_docs": 95702,
+  "time_updated": "2025-12-29 03:16:32",
+  "n_docs": 95707,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 95702,
+  "n_docs_with_text": 95707,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-29",
-  "dataset_size": 1443338303,
+  "dataset_size": 1443402733,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-29-dailyftlk-bb4436e8",
-    "num": "dailyftlk-bb4436e8",
+    "doc_id": "2025-12-29-virakesarilk-a3a8f98f",
+    "num": "virakesarilk-a3a8f98f",
     "date_str": "2025-12-29",
-    "description": "The \u2018Governance Hazard Window\u2019: From election to emergency",
-    "url_metadata": "https://www.ft.lk/columns/The-Governance-Hazard-Window-From-election-to-emergency/4-786157",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1766956370.0
+    "description": "\u0b95\u0bb1\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u00a0\u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd\u00a0\u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3 \u0baa\u0bca\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/234622",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766957820.0
   }
 }

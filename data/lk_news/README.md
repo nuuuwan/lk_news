@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_02:46:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_03:17:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,702** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,707** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-29-dailyftlk-bb4436e8",
-    "num": "dailyftlk-bb4436e8",
+    "doc_id": "2025-12-29-virakesarilk-a3a8f98f",
+    "num": "virakesarilk-a3a8f98f",
     "date_str": "2025-12-29",
-    "description": "The \u2018Governance Hazard Window\u2019: From election to emergency",
-    "url_metadata": "https://www.ft.lk/columns/The-Governance-Hazard-Window-From-election-to-emergency/4-786157",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1766956370.0
+    "description": "\u0b95\u0bb1\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u00a0\u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd\u00a0\u0ba8\u0bbf\u0bb5\u0bbe\u0bb0\u0ba3 \u0baa\u0bca\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/234622",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766957820.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-29 | `virakesarilk-a3a8f98f` | கற்பிட்டி மண்டலக்குடாவில் நிவாரண பொதிகள் திருட்டு பொலிஸார் விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-a3a8f98f)
+- 2025-12-29 | `dailyftlk-da6a98ef` | Beyond relief: Building Sri Lanka’s digital disaster brain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-dailyftlk-da6a98ef)
+- 2025-12-29 | `virakesarilk-1aeed5f1` | அனர்த்தத்தில் பாதிக்கப்பட்ட 79 சதவீதமான பாதைகள் புனரமைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-1aeed5f1)
+- 2025-12-29 | `virakesarilk-4d74bba2` | அரச பல்கலைக்கழக விடுதியில் பாதுகாப்பு அதிகாரிகள் பற்றாக்குறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-4d74bba2)
+- 2025-12-29 | `dailyftlk-7bc9219d` | Corporate criminal liability under the Anti-Corruption Act of 2023 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-dailyftlk-7bc9219d)
 - 2025-12-29 | `dailyftlk-bb4436e8` | The ‘Governance Hazard Window’: From election to emergency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-dailyftlk-bb4436e8)
 - 2025-12-29 | `dailyftlk-2759762e` | Single National Asset Tax (SNAT) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-dailyftlk-2759762e)
 - 2025-12-29 | `tamilmirrorlk-52cfcb3c` | ’61 மீனவர்களை விடுவிக்க நடவடிக்கை தேவை’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-52cfcb3c)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-12-28 | `lankadeepalk-dc344528` | හිටපු අමාත්‍ය ඩග්ලස් රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-dc344528)
 - 2025-12-28 | `adalk-9fab6145` | කටුනායකට ආපු කටාර් ගුවන් යානයේ බෝම්බ බියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-adalk-9fab6145)
 - 2025-12-28 | `virakesarilk-3ef21c84` | மின்சாரம் உள்ளிட்ட பல சேவைகளை அத்தியாவசிய சேவைகளாக அறிவித்து வர்த்தமானி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-3ef21c84)
-- 2025-12-28 | `virakesarilk-bf43e92f` | ஊடக சுதந்திரத்தினை முடக்க முற்பட்டால் பொதுமக்களை வீதிக்கு இறக்குவோம் - மரிக்கார் எம்.பி.அரசாங்கத்துக்கு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-bf43e92f)
-- 2025-12-28 | `colombotelegraphcom-172d0d22` | How To Eliminate Rural Poverty? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-colombotelegraphcom-172d0d22)
-- 2025-12-28 | `virakesarilk-0ccd61b6` | படுகொலைகளுடன் தொடர்புடைய விவகாரம் பாதாள உலகக்குழுவின் துப்பாக்கிதாரி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-0ccd61b6)
-- 2025-12-28 | `adalk-01a4d494` | මහජන හදිසි අවස්ථා තත්ත්වය දීර්ඝ කරමින් ගැසට් නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-adalk-01a4d494)
-- 2025-12-28 | `virakesarilk-371d5c2f` | மருந்து மாபியாவை கட்டுப்படுத்துவதற்கு அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் - சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-371d5c2f)
 
 ---
 
