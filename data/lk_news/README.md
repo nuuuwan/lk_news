@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--28_17:51:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--28_18:28:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,669** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,674** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,8 +42,13 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2025-12-28 | `lankadeepalk-3fa77560` | මියන්මාර මැතිවරණය සංදර්ශණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-3fa77560)
+- 2025-12-28 | `virakesarilk-5d972fd2` | கத்தார் ஏர்வேஸ் விமானத்துக்கு வெடிகுண்டு மிரட்டல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-5d972fd2)
 - 2025-12-28 | `lankadeepalk-a6df596e` | ෆූජි ගිනි කන්දට ඉහළින් අහසේ එළියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-a6df596e)
+- 2025-12-28 | `virakesarilk-92231090` | யாழில் இரண்டு விபச்சார விடுதிகள் சுற்றிவளைப்பு - எண்மர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-92231090)
+- 2025-12-28 | `virakesarilk-a5e605ff` | மட்டு. மண்முனை மேற்கு பிரதேசத்திற்குள் நுழைந்தது 20 மேற்பட்ட காட்டு யானைகள் ; விரைந்து செயற்பட்டனர் ஜீவராசிகள் பாதுகாப்பு உத்தியோகஸ்த்தர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-a5e605ff)
+- 2025-12-28 | `virakesarilk-05eac83c` | அமெரிக்காவில் கடும் பனிப்புயல் ; 1,500 விமான சேவைகள் இரத்து ; நியூயோர்க்கில் அவசரநிலை பிரகடனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-05eac83c)
 - 2025-12-28 | `tamilmirrorlk-51ea4cfb` | டக்ளஸூக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-51ea4cfb)
+- 2025-12-28 | `virakesarilk-f2ac8f26` | காங்கேசன்துறை கடற்கரையில் "அலையோடு உறவாடு" உணவு திருவிழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-f2ac8f26)
 - 2025-12-28 | `adalk-1dfbbc21` | හිටපු අමාත්‍ය ඩග්ලස් දේවානන්දා රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-adalk-1dfbbc21)
 - 2025-12-28 | `virakesarilk-bdef10e1` | கைதான 03 இந்திய மீனவர்களுக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-bdef10e1)
 - 2025-12-28 | `virakesarilk-9f72223d` | ஒரே தர்மமும் இரண்டு சாட்சிகளும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-9f72223d)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2025-12-28 | `virakesarilk-5eb7aaac` | முஸ்லிம்களுக்கான அரசியலை பாதுகாத்தலும் பிரச்சினைகளை அரசாங்கத்துடன் பேசுதலும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-5eb7aaac)
 - 2025-12-28 | `tamilmirrorlk-a3479eaf` | கட்டுநாயக்க விமான நிலையத்தில் குண்டுப்புரளி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-a3479eaf)
 - 2025-12-28 | `virakesarilk-0f502410` | துருக்கிய விரிவாக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-0f502410)
-- 2025-12-28 | `virakesarilk-efb446fa` | கேரளாவில் பறவைக் காய்ச்சல் ; தமிழ்நாட்டில் தீவிர கண்காணிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-efb446fa)
-- 2025-12-28 | `tamilmirrorlk-2faa567d` | சொத்து சேகரித்தது எப்படி? 6 அமைச்சர்களிடம் விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-2faa567d)
-- 2025-12-28 | `tamilmirrorlk-7629b276` | யாழில் அசமந்தம்: நோயாளியின் காயம் புழு பிடித்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-7629b276)
-- 2025-12-28 | `virakesarilk-caa5921e` | அரசைப் பாதுகாக்கவா ஆட்சியை பாதுகாக்கவா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-caa5921e)
-- 2025-12-28 | `lankadeepalk-93dcc232` | කටුනායක යානයකත් බෝම්බ බියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-93dcc232)
 
 ---
 

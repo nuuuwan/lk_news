@@ -1,7 +1,12 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
 lk_news	2025-12-28-lankadeepalk-3fa77560	lankadeepalk-3fa77560	2025-12-28	මියන්මාර මැතිවරණය සංදර්ශණයක්	https://www.lankadeepa.lk/news/මයනමර-මතවරණය-සදරශණයක/101-685928	si	lankadeepalk	1766923521.0
+lk_news	2025-12-28-virakesarilk-5d972fd2	virakesarilk-5d972fd2	2025-12-28	கத்தார் ஏர்வேஸ் விமானத்துக்கு வெடிகுண்டு மிரட்டல்	https://www.virakesari.lk/article/234603	ta	virakesarilk	1766923200.0
 lk_news	2025-12-28-lankadeepalk-a6df596e	lankadeepalk-a6df596e	2025-12-28	ෆූජි ගිනි කන්දට ඉහළින් අහසේ එළියක්	https://www.lankadeepa.lk/news/ෆජ-ගන-කනදට-ඉහළන-අහස-එළයක/101-685927	si	lankadeepalk	1766922836.0
+lk_news	2025-12-28-virakesarilk-92231090	virakesarilk-92231090	2025-12-28	யாழில் இரண்டு விபச்சார விடுதிகள் சுற்றிவளைப்பு - எண்மர் கைது!	https://www.virakesari.lk/article/234604	ta	virakesarilk	1766922780.0
+lk_news	2025-12-28-virakesarilk-a5e605ff	virakesarilk-a5e605ff	2025-12-28	மட்டு. மண்முனை மேற்கு பிரதேசத்திற்குள் நுழைந்தது 20 மேற்பட்ட காட்டு யானைகள் ; விரைந்து செயற்பட்டனர் ஜீவராசிகள் பாதுகாப்பு உத்தியோகஸ்த்தர்கள்	https://www.virakesari.lk/article/234601	ta	virakesarilk	1766921640.0
+lk_news	2025-12-28-virakesarilk-05eac83c	virakesarilk-05eac83c	2025-12-28	அமெரிக்காவில் கடும் பனிப்புயல் ; 1,500 விமான சேவைகள் இரத்து ; நியூயோர்க்கில் அவசரநிலை பிரகடனம்	https://www.virakesari.lk/article/234595	ta	virakesarilk	1766920980.0
 lk_news	2025-12-28-tamilmirrorlk-51ea4cfb	tamilmirrorlk-51ea4cfb	2025-12-28	டக்ளஸூக்கு விளக்கமறியல்	https://www.tamilmirror.lk/பிரசித்த-செய்தி/டக்ளஸூக்கு-விளக்கமறியல்/150-370184	ta	tamilmirrorlk	1766920732.0
+lk_news	2025-12-28-virakesarilk-f2ac8f26	virakesarilk-f2ac8f26	2025-12-28	"காங்கேசன்துறை கடற்கரையில் ""அலையோடு உறவாடு"" உணவு திருவிழா"	https://www.virakesari.lk/article/234600	ta	virakesarilk	1766920260.0
 lk_news	2025-12-28-adalk-1dfbbc21	adalk-1dfbbc21	2025-12-28	හිටපු අමාත්‍ය ඩග්ලස් දේවානන්දා රිමාන්ඩ්	https://www.ada.lk/breaking_news/හිටපු-අමාත්‍ය-ඩග්ලස්-දේවානන්දා-රිමාන්ඩ්/11-420491	si	adalk	1766919847.0
 lk_news	2025-12-28-virakesarilk-bdef10e1	virakesarilk-bdef10e1	2025-12-28	கைதான 03 இந்திய மீனவர்களுக்கு விளக்கமறியல்	https://www.virakesari.lk/article/234594	ta	virakesarilk	1766918640.0
 lk_news	2025-12-28-virakesarilk-9f72223d	virakesarilk-9f72223d	2025-12-28	ஒரே தர்மமும் இரண்டு சாட்சிகளும்	https://www.virakesari.lk/article/234598	ta	virakesarilk	1766918580.0
@@ -94,8 +99,3 @@ lk_news	2025-12-27-adalk-5bf492e3	adalk-5bf492e3	2025-12-27	කොලොන්�
 lk_news	2025-12-27-adalk-f42b7f14	adalk-f42b7f14	2025-12-27	දන්ත ශල්‍ය වෛද්‍ය නිලධාරීන් 62 ක් සුව සේවාවට	https://www.ada.lk/breaking_news/දන්ත-ශල්‍ය-වෛද්‍ය-නිලධාරීන්-62-ක්-සුව-සේවාවට/11-420482	si	adalk	1766849943.0
 lk_news	2025-12-27-lankadeepalk-89a6542a	lankadeepalk-89a6542a	2025-12-27	බුස්සේ හදිසි සෝදිසි මෙහෙයුමක්	https://www.lankadeepa.lk/news/බසස-හදස-සදස-මහයමක/101-685906	si	lankadeepalk	1766845934.0
 lk_news	2025-12-27-lankadeepalk-1370a16b	lankadeepalk-1370a16b	2025-12-27	ගායන ශිල්පී මැක්සි රොසයිරෝ සමුගනී	https://www.lankadeepa.lk/news/ගයන-ශලප-මකස-රසයර-සමගන/101-685905	si	lankadeepalk	1766845739.0
-lk_news	2025-12-27-tamilmirrorlk-012e837c	tamilmirrorlk-012e837c	2025-12-27	போட்டிக்கு முன்னர் பயிற்றுவிப்பாளர் மரணம்	https://www.tamilmirror.lk/பிரதான-விளையாட்டு/போட்டிக்கு-முன்னர்-பயிற்றுவிப்பாளர்-மரணம்/44-370142	ta	tamilmirrorlk	1766845454.0
-lk_news	2025-12-27-lankadeepalk-a3360efa	lankadeepalk-a3360efa	2025-12-27	ඩග්ලස් දේවානන්දට පැය 72 ක් රැඳවුම් නියෝග	https://www.lankadeepa.lk/news/ඩගලස-දවනනදට-පය-72-ක-රඳවම-නයග/101-685904	si	lankadeepalk	1766845280.0
-lk_news	2025-12-27-tamilmirrorlk-921a346b	tamilmirrorlk-921a346b	2025-12-27	குவாத்தமாலா விபத்தில் 15 பேர் பலி; 19பேர் காயம்	https://www.tamilmirror.lk/உலக-செய்திகள்/குவாத்தமாலா-விபத்தில்-15-பேர்-பலி-19பேர்-காயம்/50-370141	ta	tamilmirrorlk	1766845178.0
-lk_news	2025-12-27-tamilmirrorlk-e8233d90	tamilmirrorlk-e8233d90	2025-12-27	வத்தளை விபத்தில் இருவர் பலி	https://www.tamilmirror.lk/செய்திகள்/வத்தளை-விபத்தில்-இருவர்-பலி/175-370140	ta	tamilmirrorlk	1766844880.0
-lk_news	2025-12-27-tamilmirrorlk-13ca04d9	tamilmirrorlk-13ca04d9	2025-12-27	ஜப்பானில் 67 வாகனங்கள் மோதி விபத்து: இருவர் பலி	https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானில்-67-வாகனங்கள்-மோதி-விபத்து-இருவர்-பலி/50-370139	ta	tamilmirrorlk	1766844397.0
