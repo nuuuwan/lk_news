@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_02:19:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_02:46:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,700** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,702** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-29-tamilmirrorlk-52cfcb3c",
-    "num": "tamilmirrorlk-52cfcb3c",
+    "doc_id": "2025-12-29-dailyftlk-bb4436e8",
+    "num": "dailyftlk-bb4436e8",
     "date_str": "2025-12-29",
-    "description": "\u201961 \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0ba4\u0bc7\u0bb5\u0bc8\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/61-\u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0ba4\u0bc7\u0bb5\u0bc8/175-370200",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1766950443.0
+    "description": "The \u2018Governance Hazard Window\u2019: From election to emergency",
+    "url_metadata": "https://www.ft.lk/columns/The-Governance-Hazard-Window-From-election-to-emergency/4-786157",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766956370.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-29 | `dailyftlk-bb4436e8` | The ‘Governance Hazard Window’: From election to emergency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-dailyftlk-bb4436e8)
+- 2025-12-29 | `dailyftlk-2759762e` | Single National Asset Tax (SNAT) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-dailyftlk-2759762e)
 - 2025-12-29 | `tamilmirrorlk-52cfcb3c` | ’61 மீனவர்களை விடுவிக்க நடவடிக்கை தேவை’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-52cfcb3c)
 - 2025-12-28 | `virakesarilk-c419da7e` | 10,000 சர்வதேச ஓட்டங்கள் குவித்த நான்காவது வீராங்கனை மந்தனா; 4ஆவது ரி20இலும்  இலங்கையை வீழ்த்தியது இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-c419da7e)
 - 2025-12-28 | `virakesarilk-913ab27c` | பயங்கரவாத தடைச்சட்டத்துக்கான பதலீட்டு சட்டம் ஜனநாயகத்துக்கு விரோதமானது - முன்னிலை சோசலிசக் கட்சி கடும் விசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-913ab27c)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-28 | `virakesarilk-0ccd61b6` | படுகொலைகளுடன் தொடர்புடைய விவகாரம் பாதாள உலகக்குழுவின் துப்பாக்கிதாரி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-0ccd61b6)
 - 2025-12-28 | `adalk-01a4d494` | මහජන හදිසි අවස්ථා තත්ත්වය දීර්ඝ කරමින් ගැසට් නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-adalk-01a4d494)
 - 2025-12-28 | `virakesarilk-371d5c2f` | மருந்து மாபியாவை கட்டுப்படுத்துவதற்கு அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் - சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-371d5c2f)
-- 2025-12-28 | `virakesarilk-fa537d4e` | அவசரகால சட்டம் மீண்டும் நீடிப்பு – அதிவிசேட வர்த்தமானி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-fa537d4e)
-- 2025-12-28 | `virakesarilk-e3ea28b8` | கணக்காய்வாளர் நாயகத்தை நியமிப்பதில் அரசாங்கம் தோல்வி - ஐக்கிய மக்கள் சக்தி விசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-e3ea28b8)
 
 ---
 
