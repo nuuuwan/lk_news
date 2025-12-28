@@ -320934,6 +320934,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-28-colombotelegraphcom-edd32157",
+    "num": "colombotelegraphcom-edd32157",
+    "date_str": "2025-12-28",
+    "description": "Unsung Heroes Of The Central Bank: Dr. Amal Utum Herat \u2013 Jack Of All Trades & Master Of Everything",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/unsung-heroes-of-the-central-bank-dr-amal-utum-herat-jack-of-all-trades-master-of-everything/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1766940974.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-28-virakesarilk-1d853dd0",
     "num": "virakesarilk-1d853dd0",
     "date_str": "2025-12-28",
@@ -320942,6 +320953,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766941320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-28-colombotelegraphcom-ad5d46be",
+    "num": "colombotelegraphcom-ad5d46be",
+    "date_str": "2025-12-28",
+    "description": "University Autonomy Under Siege: Sri Lanka\u2019s Dangerous Drift Toward Politicised Higher Education",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/university-autonomy-under-siege-sri-lankas-dangerous-drift-toward-politicised-higher-education/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1766941498.0
   },
   {
     "doc_type": "lk_news",
@@ -321195,5 +321217,16 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1766959920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-lankadeepalk-805cde80",
+    "num": "lankadeepalk-805cde80",
+    "date_str": "2025-12-29",
+    "description": "\u0dc3\u0dd9\u0dbd\u0dd9\u0db1\u0dca\u0dc3\u0dca\u0d9a\u0dd3 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca \u0dc4\u0db8\u0dd4\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0dc3\u0dbd\u0db1\u0dc3\u0d9a-\u0da2\u0db1\u0db4\u0dad-\u0da7\u0dbb\u0db8\u0db4-\u0dc4\u0db8\u0dc0\u0dba/1-685939",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1766961065.0
   }
 ]
