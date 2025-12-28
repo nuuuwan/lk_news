@@ -1,4 +1,9 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-28-lankadeepalk-57f3734e	lankadeepalk-57f3734e	2025-12-28	ගිනි අවි උණ්ඩ සමග තුනක් මාට්ටු	https://www.lankadeepa.lk/news/ගන-අව-උණඩ-සමග-තනක-මටට/101-685912	si	lankadeepalk	1766892765.0
+lk_news	2025-12-28-lankadeepalk-3b8c82b2	lankadeepalk-3b8c82b2	2025-12-28	සම්බාහනය මූවාවෙන් කතුන් අලෙවි කරලා	https://www.lankadeepa.lk/news/සමබහනය-මවවන-කතන-අලව-කරල/101-685911	si	lankadeepalk	1766892270.0
+lk_news	2025-12-28-lankadeepalk-a7d88f51	lankadeepalk-a7d88f51	2025-12-28	ඝාතන රැසක වෙඩික්කරුවෙක් මාට්ටු	https://www.lankadeepa.lk/news/ඝතන-රසක-වඩකකරවක-මටට/101-685910	si	lankadeepalk	1766891876.0
+lk_news	2025-12-28-lankadeepalk-1de9c5ea	lankadeepalk-1de9c5ea	2025-12-28	අද කාලගුණය	https://www.lankadeepa.lk/news/අද-කලගණය/101-685909	si	lankadeepalk	1766891617.0
+lk_news	2025-12-28-tamilmirrorlk-6d716971	tamilmirrorlk-6d716971	2025-12-28	நாளை முதல் பலத்த மழை	https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-பலத்த-மழை/175-370147	ta	tamilmirrorlk	1766891010.0
 lk_news	2025-12-28-tamilmirrorlk-66506b2c	tamilmirrorlk-66506b2c	2025-12-28	பழம்பெரும் பாடகி லதா வல்பொல காலமானார்	https://www.tamilmirror.lk/செய்திகள்/பழம்பெரும்-பாடகி-லதா-வல்பொல-காலமானார்/175-370145	ta	tamilmirrorlk	1766889751.0
 lk_news	2025-12-28-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-12-28	இன்றைய வானிலை	https://www.virakesari.lk/article/234551	ta	virakesarilk	1766884080.0
 lk_news	2025-12-28-tamilmirrorlk-348bf7cc	tamilmirrorlk-348bf7cc	2025-12-28	தாய்லாந்து - கம்போடியா இடையே போர் நிறுத்தம்	https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-கம்போடியா-இடையே-போர்-நிறுத்தம்/50-370144	ta	tamilmirrorlk	1766883228.0
@@ -6,6 +11,7 @@ lk_news	2025-12-28-tamilmirrorlk-6bf2769e	tamilmirrorlk-6bf2769e	2025-12-28	த�
 lk_news	2025-12-27-adalk-e4639c6b	adalk-e4639c6b	2025-12-27	හෙළයේ ගීත කෝකිලාවිය දිවි සැරිය නිමා කරයි	https://www.ada.lk/breaking_news/හෙළයේ-ගීත-කෝකිලාවිය-දිවි-සැරිය-නිමා-කරයි/11-420485	si	adalk	1766852389.0
 lk_news	2025-12-27-lankadeepalk-c037bf01	lankadeepalk-c037bf01	2025-12-27	හෙළයේ ගීත කෝකිලාවිය ලතා වල්පොළ දිවියට සමු දෙයි	https://www.lankadeepa.lk/news/හළය-ගත-කකලවය-ලත-වලපළ-දවයට-සම-දය/101-685907	si	lankadeepalk	1766851463.0
 lk_news	2025-12-27-adalk-da611777	adalk-da611777	2025-12-27	දෙසැම්බර් දින 25ට සංචාරකයන් 195394ක් ඇවිත්	https://www.ada.lk/breaking_news/දෙසැම්බර්-දින-25ට-සංචාරකයන්-195394ක්-ඇවිත්/11-420484	si	adalk	1766851277.0
+lk_news	2025-12-27-adalk-5bf492e3	adalk-5bf492e3	2025-12-27	කොලොන්න කොස්තාපල්ගේ පැමිණිල්ල ගැන විමර්ශන ආරම්භ කළා	https://www.ada.lk/breaking_news/කොලොන්න-කොස්තාපල්ගේ-පැමිණිල්ල-ගැන-විමර්ශන-ආරම්භ-කළා/11-420483	si	adalk	1766850623.0
 lk_news	2025-12-27-adalk-f42b7f14	adalk-f42b7f14	2025-12-27	දන්ත ශල්‍ය වෛද්‍ය නිලධාරීන් 62 ක් සුව සේවාවට	https://www.ada.lk/breaking_news/දන්ත-ශල්‍ය-වෛද්‍ය-නිලධාරීන්-62-ක්-සුව-සේවාවට/11-420482	si	adalk	1766849943.0
 lk_news	2025-12-27-lankadeepalk-89a6542a	lankadeepalk-89a6542a	2025-12-27	බුස්සේ හදිසි සෝදිසි මෙහෙයුමක්	https://www.lankadeepa.lk/news/බසස-හදස-සදස-මහයමක/101-685906	si	lankadeepalk	1766845934.0
 lk_news	2025-12-27-lankadeepalk-1370a16b	lankadeepalk-1370a16b	2025-12-27	ගායන ශිල්පී මැක්සි රොසයිරෝ සමුගනී	https://www.lankadeepa.lk/news/ගයන-ශලප-මකස-රසයර-සමගන/101-685905	si	lankadeepalk	1766845739.0
@@ -9995,9 +10001,3 @@ lk_news	2025-11-08-colombotelegraphcom-dca5159b	colombotelegraphcom-dca5159b	202
 lk_news	2025-11-08-colombotelegraphcom-93b8dac1	colombotelegraphcom-93b8dac1	2025-11-08	Thirty-One Years After: A Son’s Reflection On Loss & Moral Courage	https://www.colombotelegraph.com/index.php/thirty-one-years-after-a-sons-reflection-on-loss-moral-courage/	en	colombotelegraphcom	1762619131.0
 lk_news	2025-11-08-adalk-f750fab3	adalk-f750fab3	2025-11-08	දෙහිබාලේගේ මත්ද්‍රව්‍ය තොගයක් මාලදිවයිනේදී අත්අඩංගුවට?	https://www.ada.lk/breaking_news/දෙහිබාලේගේ-මත්ද්‍රව්‍ය-තොගයක්-මාලදිවයිනේදී-අත්අඩංගුවට-/11-419582	si	adalk	1762618090.0
 lk_news	2025-11-08-lankadeepalk-d2fc3913	lankadeepalk-d2fc3913	2025-11-08	කන්දේගම ධර්ම ශාලාවට වන අලි ප්‍රහාරයක්	https://www.lankadeepa.lk/news/කනදගම-ධරම-ශලවට-වන-අල-පරහරයක/101-682830	si	lankadeepalk	1762617678.0
-lk_news	2025-11-08-lankadeepalk-69b79a9c	lankadeepalk-69b79a9c	2025-11-08	ට්‍රැක්ටරයකට  යටවී දරුවකු මරුට	https://www.lankadeepa.lk/news/ටරකටරයකට-යටව-දරවක-මරට/101-682829	si	lankadeepalk	1762615954.0
-lk_news	2025-11-08-lankadeepalk-378704da	lankadeepalk-378704da	2025-11-08	මත්ද්‍රව්‍ය  කිලෝ 300 ක් සමඟ ධීවරයෝ 6 ක් අත්අඩංගුවට	https://www.lankadeepa.lk/news/මතදරවය-කල-300-ක-සමඟ-ධවරය-6-ක-අතඅඩගවට/101-682828	si	lankadeepalk	1762615532.0
-lk_news	2025-11-08-lankadeepalk-26f2b654	lankadeepalk-26f2b654	2025-11-08	ට්‍රැක්ටරයේ යට වූ දරුවා මිය යයි	https://www.lankadeepa.lk/news/ටරකටරය-යට-ව-දරව-මය-යය/101-682827	si	lankadeepalk	1762614519.0
-lk_news	2025-11-08-lankadeepalk-1c75143a	lankadeepalk-1c75143a	2025-11-08	‘‘අපේ දරුවන්ට අශිලාචාර දේ උගන්වන්න එපා‘‘	https://www.lankadeepa.lk/latest_news/අප-දරවනට-අශලචර-ද-උගනවනන-එප/1-682826	si	lankadeepalk	1762614254.0
-lk_news	2025-11-08-virakesarilk-b09c5887	virakesarilk-b09c5887	2025-11-08	6 வருடங்களாக  மலசலகழிவுகளை அகற்றும் வாகனம் இல்லை : விசனம் தெரிவிக்கும் அட்டன் நகர வாழ் மக்கள்	https://www.virakesari.lk/article/229868	ta	virakesarilk	1762614120.0
-lk_news	2025-11-08-tamilmirrorlk-36cde3ef	tamilmirrorlk-36cde3ef	2025-11-08	மனம்பேரிக்கு சொந்தமான வாகனங்கள் பறிமுதல்	https://www.tamilmirror.lk/செய்திகள்/மனம்பேரிக்கு-சொந்தமான-வாகனங்கள்-பறிமுதல்/175-367612	ta	tamilmirrorlk	1762611010.0
