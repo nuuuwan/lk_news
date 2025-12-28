@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--28_14:47:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--28_15:19:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,643** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,647** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-28-virakesarilk-d96fb83a",
-    "num": "virakesarilk-d96fb83a",
+    "doc_id": "2025-12-28-tamilmirrorlk-2faa567d",
+    "num": "tamilmirrorlk-2faa567d",
     "date_str": "2025-12-28",
-    "description": "\u0baf\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baf\u0bbe\u0bb0\u0bcd \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bc1?",
-    "url_metadata": "https://www.virakesari.lk/article/234579",
+    "description": "\u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1 \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf? 6 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0bc7\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1-\u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf-6-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8/175-370181",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1766911620.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1766914382.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-28 | `tamilmirrorlk-2faa567d` | சொத்து சேகரித்தது எப்படி? 6 அமைச்சர்களிடம் விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-2faa567d)
+- 2025-12-28 | `tamilmirrorlk-7629b276` | யாழில் அசமந்தம்: நோயாளியின் காயம் புழு பிடித்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-7629b276)
+- 2025-12-28 | `lankadeepalk-93dcc232` | කටුනායක යානයකත් බෝම්බ බියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-93dcc232)
+- 2025-12-28 | `tamilmirrorlk-2e625af9` | கடலில் மூ​ழ்கிய வெளிநாட்டவர் இருவர் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-2e625af9)
 - 2025-12-28 | `virakesarilk-d96fb83a` | யாருக்கு யார் விட்டுக் கொடுப்பது? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-d96fb83a)
 - 2025-12-28 | `lankadeepalk-7bd18371` | මියන්මාර මැතිවරණය ආරම්භ වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-7bd18371)
 - 2025-12-28 | `virakesarilk-05839e2d` | நீர்மூழ்கி கப்பலில் பயணம் செய்தார் இந்திய ஜனாதிபதி திரௌபதி முர்மு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-05839e2d)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-28 | `virakesarilk-e7ef10d6` | முடிவுக்கு வந்தது தாய்லாந்து - கம்போடியா போர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-e7ef10d6)
 - 2025-12-28 | `lankadeepalk-f017ff73` | ’’ලොකුම හානිය සිද්ධ වුණු නුවරට වැඩි අවධානය ඕනෑ’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-f017ff73)
 - 2025-12-28 | `lankadeepalk-0d60d512` | උතුරු පේරු වෙරළ ආසන්නයේ භූ කම්පනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-0d60d512)
-- 2025-12-28 | `adalk-e26653b6` | හෙළයේ ගීත කෝකිලාවියගේ අවසන් කටයුතු පූර්ණ රාජ්‍ය අනුග්‍රහයෙන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-adalk-e26653b6)
-- 2025-12-28 | `tamilmirrorlk-abe0ed31` | உலர் உணவுப் பொருட்கள் திருட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-abe0ed31)
-- 2025-12-28 | `virakesarilk-5594991e` | பெருவில் 6.2 மெக்னிடியூட் அளவில் நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-5594991e)
-- 2025-12-28 | `virakesarilk-ce45f093` | மசாஜ் நிலையம் சுற்றிவளைப்பு : 10 வெளிநாட்டு பெண்கள் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-ce45f093)
 
 ---
 
