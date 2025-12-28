@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--28_17:16:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--28_17:51:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,666** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,669** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-28-tamilmirrorlk-51ea4cfb",
-    "num": "tamilmirrorlk-51ea4cfb",
+    "doc_id": "2025-12-28-lankadeepalk-3fa77560",
+    "num": "lankadeepalk-3fa77560",
     "date_str": "2025-12-28",
-    "description": "\u0b9f\u0b95\u0bcd\u0bb3\u0bb8\u0bc2\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b9f\u0b95\u0bcd\u0bb3\u0bb8\u0bc2\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/150-370184",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1766920732.0
+    "description": "\u0db8\u0dd2\u0dba\u0db1\u0dca\u0db8\u0dcf\u0dbb \u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab\u0dba \u0dc3\u0d82\u0daf\u0dbb\u0dca\u0dc1\u0dab\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0db8\u0dba\u0db1\u0db8\u0dbb-\u0db8\u0dad\u0dc0\u0dbb\u0dab\u0dba-\u0dc3\u0daf\u0dbb\u0dc1\u0dab\u0dba\u0d9a/101-685928",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1766923521.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-28 | `lankadeepalk-3fa77560` | මියන්මාර මැතිවරණය සංදර්ශණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-3fa77560)
+- 2025-12-28 | `lankadeepalk-a6df596e` | ෆූජි ගිනි කන්දට ඉහළින් අහසේ එළියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-a6df596e)
 - 2025-12-28 | `tamilmirrorlk-51ea4cfb` | டக்ளஸூக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-51ea4cfb)
+- 2025-12-28 | `adalk-1dfbbc21` | හිටපු අමාත්‍ය ඩග්ලස් දේවානන්දා රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-adalk-1dfbbc21)
 - 2025-12-28 | `virakesarilk-bdef10e1` | கைதான 03 இந்திய மீனவர்களுக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-bdef10e1)
 - 2025-12-28 | `virakesarilk-9f72223d` | ஒரே தர்மமும் இரண்டு சாட்சிகளும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-9f72223d)
 - 2025-12-28 | `virakesarilk-1d039395` | முன்னாள் அமைச்சர் டக்ளஸ் தேவானந்தாவுக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-1d039395)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-28 | `tamilmirrorlk-7629b276` | யாழில் அசமந்தம்: நோயாளியின் காயம் புழு பிடித்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-tamilmirrorlk-7629b276)
 - 2025-12-28 | `virakesarilk-caa5921e` | அரசைப் பாதுகாக்கவா ஆட்சியை பாதுகாக்கவா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-caa5921e)
 - 2025-12-28 | `lankadeepalk-93dcc232` | කටුනායක යානයකත් බෝම්බ බියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-lankadeepalk-93dcc232)
-- 2025-12-28 | `virakesarilk-34b594f2` | கடன்களை அதிகரிக்கும் பேரிடர் மீளமைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-34b594f2)
-- 2025-12-28 | `virakesarilk-e578507c` | இலங்கைக்கு கஞ்சா கடத்தல் ; இந்தியாவில் 08 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-e578507c)
-- 2025-12-28 | `virakesarilk-cefa6558` | டக்ளஸ் தேவானந்தாவுக்கு வழங்கப்பட்ட ஏனைய துப்பாக்கிகள் தொடர்பில் சிஐடி விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-cefa6558)
 
 ---
 
