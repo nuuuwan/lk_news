@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_04:19:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_04:47:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,720** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,722** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,8 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2025-12-29 | `lankadeepalk-805cde80` | සෙලෙන්ස්කී ජනපති ට්‍රම්ප් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-lankadeepalk-805cde80)
+- 2025-12-29 | `virakesarilk-2a4a97a6` | கொழும்பு கோட்டை–சிலாபம் ரயில் சேவைகள் இன்று முதல் மீண்டும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-2a4a97a6)
+- 2025-12-29 | `virakesarilk-cea5fb98` | விமான நிலையத்தில் சட்டவிரோத சிகரெட்டுகள் மற்றும் ஸ்மார்ட்போன்களுடன் இரண்டு இந்தியர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-cea5fb98)
 - 2025-12-29 | `virakesarilk-1ad1ce33` | காற்றுச் சுழற்சி, கனமழை மற்றும் நிலச்சரிவு நிகழ்வுகள் தொடர்பான விழிப்பூட்டலும் முன்னெச்சரிக்கையும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-1ad1ce33)
 - 2025-12-29 | `virakesarilk-c55d068b` | ‘முழு நாடுமே ஒன்றாக’ போதைப்பொருள் ஒழிப்பு நடவடிக்கை: ஒரே நாளில் 840 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-c55d068b)
 - 2025-12-29 | `virakesarilk-b1858b3b` | வட,கிழக்கிலுள்ள சட்டவிரோத பௌத்த கட்டுமானங்கள் அமைதியை கொண்டுவராது - சுரேஷ் பிரேமச்சந்திரன் அரசுக்கு இடித்துரைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-b1858b3b)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-29 | `dailyftlk-7bc9219d` | Corporate criminal liability under the Anti-Corruption Act of 2023 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-dailyftlk-7bc9219d)
 - 2025-12-29 | `dailyftlk-bb4436e8` | The ‘Governance Hazard Window’: From election to emergency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-dailyftlk-bb4436e8)
 - 2025-12-29 | `dailyftlk-2759762e` | Single National Asset Tax (SNAT) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-dailyftlk-2759762e)
-- 2025-12-29 | `tamilmirrorlk-52cfcb3c` | ’61 மீனவர்களை விடுவிக்க நடவடிக்கை தேவை’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-52cfcb3c)
-- 2025-12-28 | `virakesarilk-c419da7e` | 10,000 சர்வதேச ஓட்டங்கள் குவித்த நான்காவது வீராங்கனை மந்தனா; 4ஆவது ரி20இலும்  இலங்கையை வீழ்த்தியது இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-28-virakesarilk-c419da7e)
 
 ---
 
