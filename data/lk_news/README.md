@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--30_01:16:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--30_01:47:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,908** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,909** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-30-dailyftlk-2a1e31d1",
-    "num": "dailyftlk-2a1e31d1",
+    "doc_id": "2025-12-30-dailyftlk-edfd6ac8",
+    "num": "dailyftlk-edfd6ac8",
     "date_str": "2025-12-30",
-    "description": "Sri Lanka beyond 2025:   From crisis to growth or new crisis",
-    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-beyond-2025-From-crisis-to-growth-or-new-crisis/4-786209",
+    "description": "Permits, privilege,  and the price we all pay",
+    "url_metadata": "https://www.ft.lk/columns/Permits-privilege-and-the-price-we-all-pay/4-786211",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767036903.0
+    "time_ut": 1767037434.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-30 | `dailyftlk-edfd6ac8` | Permits, privilege,  and the price we all pay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-dailyftlk-edfd6ac8)
 - 2025-12-30 | `dailyftlk-2a1e31d1` | Sri Lanka beyond 2025:   From crisis to growth or new crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-dailyftlk-2a1e31d1)
 - 2025-12-30 | `dailyftlk-29010cb2` | Cyclone Ditwah disaster:  Impact on consumption patterns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-dailyftlk-29010cb2)
 - 2025-12-29 | `virakesarilk-d5d216e0` | மக்களின் ஜனநாயக உரிமைகளை இல்லாதொழிக்க முயற்சிக்கும் அரசு - எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-d5d216e0)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-29 | `tamilmirrorlk-2c5fa1f9` | டக்ளஸ் தேவானந்தாவின் உயிருக்கு ஆபத்து? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-2c5fa1f9)
 - 2025-12-29 | `virakesarilk-86a7c3ac` | செரெண்டிப் கழகத்தை அதிரவைத்த நியூ ஸ்டார் கழகத்தின் நட்சத்திர வீரர் பஸால் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-86a7c3ac)
 - 2025-12-29 | `colombotelegraphcom-5ac930ee` | Budget Blues & Opposition Euphoria: A Dangerous Moment For The CMC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-colombotelegraphcom-5ac930ee)
-- 2025-12-29 | `tamilmirrorlk-8e0f763b` | நிபந்தனை மீறப்பட்டால் திரும்பப் பெறப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-8e0f763b)
 
 ---
 
