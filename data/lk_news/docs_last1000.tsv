@@ -1,4 +1,6 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-29-tamilmirrorlk-0f0939c4	tamilmirrorlk-0f0939c4	2025-12-29	நாட்டின் பல மாவட்டங்களில் மழை	https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-பல-மாவட்டங்களில்-மழை/175-370203	ta	tamilmirrorlk	1766976374.0
+lk_news	2025-12-29-lankadeepalk-ec47d8d7	lankadeepalk-ec47d8d7	2025-12-29	ප්‍රදේශ කීපයකට තරමක තද වැසි	https://www.lankadeepa.lk/latest_news/පරදශ-කපයකට-තරමක-තද-වස/1-685945	si	lankadeepalk	1766973652.0
 lk_news	2025-12-29-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2025-12-29	இன்றைய வானிலை	https://www.virakesari.lk/article/234633	ta	virakesarilk	1766972400.0
 lk_news	2025-12-29-dailyftlk-b1cee4f9	dailyftlk-b1cee4f9	2025-12-29	$ 35 m Humanitarian Priorities Plan for Ditwah victims	https://www.ft.lk/news/35-m-Humanitarian-Priorities-Plan-for-Ditwah-victims/56-786196	en	dailyftlk	1766967063.0
 lk_news	2025-12-29-dailyftlk-01e8b7db	dailyftlk-01e8b7db	2025-12-29	Wijeya Newspapers: Clarification on Ne-Yo concert	https://www.ft.lk/news/Wijeya-Newspapers-Clarification-on-Ne-Yo-concert/56-786195	en	dailyftlk	1766966903.0
@@ -52,6 +54,7 @@ lk_news	2025-12-28-virakesarilk-6e97f0c7	virakesarilk-6e97f0c7	2025-12-28	சம
 lk_news	2025-12-28-virakesarilk-396e6634	virakesarilk-396e6634	2025-12-28	காலநிலை முன்னறிவிப்பில் முரண்பாடு: அனர்த்த முகாமைத்துவமும் வானிலை திணைக்களமும் வேறுபட்ட கருத்து – நளின் பண்டார	https://www.virakesari.lk/article/234613	ta	virakesarilk	1766937360.0
 lk_news	2025-12-28-lankadeepalk-5693a498	lankadeepalk-5693a498	2025-12-28	කොළඹ කොටුව - හලාවත අතර හෙට සිට දුම්රිය ධාවනයට	https://www.lankadeepa.lk/news/කළඹ-කටව-හලවත-අතර-හට-සට-දමරය-ධවනයට/101-685931	si	lankadeepalk	1766935328.0
 lk_news	2025-12-28-lankadeepalk-dc344528	lankadeepalk-dc344528	2025-12-28	හිටපු අමාත්‍ය ඩග්ලස් රිමාන්ඩ්	https://www.lankadeepa.lk/latest_news/හටප-අමතයඩගලස-රමනඩ/1-685930	si	lankadeepalk	1766934951.0
+lk_news	2025-12-28-adalk-ebc62001	adalk-ebc62001	2025-12-28	කිඹුලෙක් සමග පැයක් පොර බදා දිවි බේරා ගත් ගාමිණී	https://www.ada.lk/breaking_news/කිඹුලෙක්-සමග-පැයක්-පොර-බදා-දිවි-බේරා-ගත්-ගාමිණී/11-420495	si	adalk	1766934871.0
 lk_news	2025-12-28-adalk-9fab6145	adalk-9fab6145	2025-12-28	කටුනායකට ආපු කටාර් ගුවන් යානයේ බෝම්බ බියක්	https://www.ada.lk/breaking_news/කටුනායකට-ආපු-කටාර්-ගුවන්-යානයේ-බෝම්බ-බියක්/11-420494	si	adalk	1766934250.0
 lk_news	2025-12-28-virakesarilk-3ef21c84	virakesarilk-3ef21c84	2025-12-28	மின்சாரம் உள்ளிட்ட பல சேவைகளை அத்தியாவசிய சேவைகளாக அறிவித்து வர்த்தமானி அறிவிப்பு	https://www.virakesari.lk/article/234612	ta	virakesarilk	1766933160.0
 lk_news	2025-12-28-virakesarilk-bf43e92f	virakesarilk-bf43e92f	2025-12-28	ஊடக சுதந்திரத்தினை முடக்க முற்பட்டால் பொதுமக்களை வீதிக்கு இறக்குவோம் - மரிக்கார் எம்.பி.அரசாங்கத்துக்கு எச்சரிக்கை	https://www.virakesari.lk/article/234611	ta	virakesarilk	1766931240.0
@@ -998,6 +1001,3 @@ lk_news	2025-12-22-adalk-d46b230e	adalk-d46b230e	2025-12-22	ලංකාවේ �
 lk_news	2025-12-22-virakesarilk-72fe3555	virakesarilk-72fe3555	2025-12-22	எம்.பி சாந்த பத்மகுமாரவுடனான மோதல் - கைது செய்யப்பட்ட பொலிஸ் உத்தியோகத்தர் பிணையில் விடுதலை	https://www.virakesari.lk/article/234137	ta	virakesarilk	1766409480.0
 lk_news	2025-12-22-virakesarilk-9af5180f	virakesarilk-9af5180f	2025-12-22	நிலம் இல்லை என்று கூறி பொறுப்பை தட்டிக்கழிக்க கூடாது ; மலையக மக்களின் பாதுகாப்பான மீள்குடியேற்றம் அரசாங்கத்தின் கடமை  - கண்டி சமூக அபிவிருத்தி நிறுவகம் வலியுறுத்தல்	https://www.virakesari.lk/article/234134	ta	virakesarilk	1766408940.0
 lk_news	2025-12-22-tamilmirrorlk-730f505d	tamilmirrorlk-730f505d	2025-12-22	இலங்கையை வந்தடைந்தார் ஜெய்சங்கர்	https://www.tamilmirror.lk/செய்திகள்/இலங்கையை-வந்தடைந்தார்-ஜெய்சங்கர்/175-369968	ta	tamilmirrorlk	1766408681.0
-lk_news	2025-12-22-virakesarilk-4dcc5645	virakesarilk-4dcc5645	2025-12-22	கிழக்கில் நிலம் சார்ந்த அநீதிகள் ; இந்த ஊழலற்ற ஆட்சியில் என்றேனும் தீர்வு கிடைக்குமா? - குச்சவெளி பிரதேச சபை உறுப்பினர் டனுசன்	https://www.virakesari.lk/article/234133	ta	virakesarilk	1766407920.0
-lk_news	2025-12-22-lankadeepalk-c2eec5e0	lankadeepalk-c2eec5e0	2025-12-22	ඉන්දීය විදේශ ඇමැති දිවයිනට	https://www.lankadeepa.lk/news/ඉනදය-වදශ-ඇමත-දවයනට/101-685710	si	lankadeepalk	1766407674.0
-lk_news	2025-12-22-virakesarilk-1ece5e2e	virakesarilk-1ece5e2e	2025-12-22	கொழும்பை வந்தடைந்தார் இந்திய வெளியுறவுத்துறை அமைச்சர் ஜெய்ஷங்கர்	https://www.virakesari.lk/article/234138	ta	virakesarilk	1766407440.0
