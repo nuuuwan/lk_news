@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--30_02:47:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--30_03:16:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,917** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,921** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-30-tamilmirrorlk-8108d61d",
-    "num": "tamilmirrorlk-8108d61d",
+    "doc_id": "2025-12-30-dailyftlk-3b16c1cf",
+    "num": "dailyftlk-3b16c1cf",
     "date_str": "2025-12-30",
-    "description": "\u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bc1 \u0bae\u0bc0\u0ba4\u0bc1 \u0b86\u0bb3\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc0\u0b9f\u0bc1-\u0bae\u0bc0\u0ba4\u0bc1-\u0b86\u0bb3\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/50-370255",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767041985.0
+    "description": "What industries can learn from NIBM\u2019s initiative",
+    "url_metadata": "https://www.ft.lk/columns/What-industries-can-learn-from-NIBM-s-initiative/4-786244",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767043927.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-30 | `dailyftlk-3b16c1cf` | What industries can learn from NIBM’s initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-dailyftlk-3b16c1cf)
+- 2025-12-30 | `dailyftlk-0545a9f3` | Rebuild smarter, better: A call to reimagine the railway to Kandy after Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-dailyftlk-0545a9f3)
+- 2025-12-30 | `dailyftlk-2cc81b65` | Postponing sovereign  debt repayment: Are we being pushed back to hell? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-dailyftlk-2cc81b65)
+- 2025-12-30 | `dailyftlk-1a80dd4d` | A 150-year testament to Ceylon’s coffee era | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-dailyftlk-1a80dd4d)
 - 2025-12-30 | `tamilmirrorlk-8108d61d` | புடின் வீடு மீது ஆளில்லா விமானத் தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-tamilmirrorlk-8108d61d)
 - 2025-12-30 | `dailyftlk-0e1124e4` | Velona marks 85 years  of Sri Lankan legacy, innovation, and care | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-dailyftlk-0e1124e4)
 - 2025-12-30 | `lankadeepalk-1c61dde6` | අපි ගහන්න හැදුවේ නෑ - සෙලෙන්ස්කී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-lankadeepalk-1c61dde6)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-29 | `adalk-9ff800e6` | තැඹිලි ළහිරු කොළඹ ජාතික රෝහලටතැඹිලි ළහිරු කොළඹ ජාතික රෝහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-adalk-9ff800e6)
 - 2025-12-29 | `tamilmirrorlk-947b14c2` | மீண்டும் கொழும்பு மாநகர சபையின் வரவு செலவுத் திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-947b14c2)
 - 2025-12-29 | `tamilmirrorlk-74d7731a` | விடுமுறை நாட்களில் அரசாங்கத்திற்கு கிடைத்த பெரும் வருமானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-74d7731a)
-- 2025-12-29 | `virakesarilk-ab7ccb79` | கொழும்பு மாநகரசபை வரவு செலவு திட்டம் மீண்டும் 31ஆம் திகதி சமர்ப்பிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-ab7ccb79)
-- 2025-12-29 | `virakesarilk-0da69875` | விமானப்படை ஊடகப் பேச்சாளராக புதிய அதிகாரி நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-0da69875)
-- 2025-12-29 | `virakesarilk-230104d8` | மொரகஸ்முல்லை கழகத்திடம் வீழ்ந்தது பொலிஸ்  கழகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-230104d8)
-- 2025-12-29 | `virakesarilk-1078de36` | அலைவரிசைகளின் உரிமம் ரத்து செய்யப்படும் ; ஊடகங்களுக்கு சிவப்பு எச்சரிக்கை விடுத்த அமைச்சர்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-1078de36)
 
 ---
 

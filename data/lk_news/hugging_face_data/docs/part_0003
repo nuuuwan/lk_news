@@ -323395,5 +323395,49 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1767041985.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-1a80dd4d",
+    "num": "dailyftlk-1a80dd4d",
+    "date_str": "2025-12-30",
+    "description": "A 150-year testament to Ceylon\u2019s coffee era",
+    "url_metadata": "https://www.ft.lk/columns/A-150-year-testament-to-Ceylon-s-coffee-era/4-786241",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767043048.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-2cc81b65",
+    "num": "dailyftlk-2cc81b65",
+    "date_str": "2025-12-30",
+    "description": "Postponing sovereign  debt repayment: Are we being pushed back to hell?",
+    "url_metadata": "https://www.ft.lk/columns/Postponing-sovereign-debt-repayment-Are-we-being-pushed-back-to-hell/4-786242",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767043247.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-0545a9f3",
+    "num": "dailyftlk-0545a9f3",
+    "date_str": "2025-12-30",
+    "description": "Rebuild smarter, better: A call to reimagine the railway to Kandy after Cyclone Ditwah",
+    "url_metadata": "https://www.ft.lk/opinion/Rebuild-smarter-better-A-call-to-reimagine-the-railway-to-Kandy-after-Cyclone-Ditwah/14-786243",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767043439.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-3b16c1cf",
+    "num": "dailyftlk-3b16c1cf",
+    "date_str": "2025-12-30",
+    "description": "What industries can learn from NIBM\u2019s initiative",
+    "url_metadata": "https://www.ft.lk/columns/What-industries-can-learn-from-NIBM-s-initiative/4-786244",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767043927.0
   }
 ]
