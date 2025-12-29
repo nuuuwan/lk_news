@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--30_02:20:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--30_02:47:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,916** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,917** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-30-dailyftlk-0e1124e4",
-    "num": "dailyftlk-0e1124e4",
+    "doc_id": "2025-12-30-tamilmirrorlk-8108d61d",
+    "num": "tamilmirrorlk-8108d61d",
     "date_str": "2025-12-30",
-    "description": "Velona marks 85 years  of Sri Lankan legacy, innovation, and care",
-    "url_metadata": "https://www.ft.lk/business/Velona-marks-85-years-of-Sri-Lankan-legacy-innovation-and-care/34-786228",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1767040405.0
+    "description": "\u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bc1 \u0bae\u0bc0\u0ba4\u0bc1 \u0b86\u0bb3\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0b9f\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc0\u0b9f\u0bc1-\u0bae\u0bc0\u0ba4\u0bc1-\u0b86\u0bb3\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0ba4\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/50-370255",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767041985.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-30 | `tamilmirrorlk-8108d61d` | புடின் வீடு மீது ஆளில்லா விமானத் தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-tamilmirrorlk-8108d61d)
 - 2025-12-30 | `dailyftlk-0e1124e4` | Velona marks 85 years  of Sri Lankan legacy, innovation, and care | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-dailyftlk-0e1124e4)
 - 2025-12-30 | `lankadeepalk-1c61dde6` | අපි ගහන්න හැදුවේ නෑ - සෙලෙන්ස්කී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-lankadeepalk-1c61dde6)
 - 2025-12-30 | `lankadeepalk-ba3d69a7` | පුටින්ගේ නිල නිවසට ගහන්න හදලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-lankadeepalk-ba3d69a7)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-29 | `virakesarilk-0da69875` | விமானப்படை ஊடகப் பேச்சாளராக புதிய அதிகாரி நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-0da69875)
 - 2025-12-29 | `virakesarilk-230104d8` | மொரகஸ்முல்லை கழகத்திடம் வீழ்ந்தது பொலிஸ்  கழகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-230104d8)
 - 2025-12-29 | `virakesarilk-1078de36` | அலைவரிசைகளின் உரிமம் ரத்து செய்யப்படும் ; ஊடகங்களுக்கு சிவப்பு எச்சரிக்கை விடுத்த அமைச்சர்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-1078de36)
-- 2025-12-29 | `lankadeepalk-03fed668` | ගජ මුතු 02ක් සමග අයෙකු අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-lankadeepalk-03fed668)
 
 ---
 
