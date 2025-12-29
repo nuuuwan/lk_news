@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_21:49:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_22:22:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,893** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,896** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -51,6 +51,7 @@ A collection of lk_news documents.
 - 2025-12-29 | `virakesarilk-fc84561f` | சிறுமி டினோஜாவின் சந்தேகத்திற்கிடமான மரணம் ; நீதிகோரி வைத்தியசாலையை முற்றுகையிட்ட மக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-fc84561f)
 - 2025-12-29 | `virakesarilk-067fd594` | 'தித்வா'  புயலால் சேதமடைந்த பதுளை மாவட்டத்தில் உள்ள பாடசாலைகளை மீண்டும் கட்டியெழுப்ப கடற்படை பங்களிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-067fd594)
 - 2025-12-29 | `virakesarilk-db368cec` | புதிய அரசாங்கம் கணக்காய்வாளர் நாயகத்தை நியமிக்கத் தவறியுள்ளது - எதிர்க்கட்சிகள் குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-db368cec)
+- 2025-12-29 | `adalk-00f114cf` | පස්භාගේ කෝරලයේ ප්‍රා ලේ කාර්යාලයේ බෝම්බ බියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-adalk-00f114cf)
 - 2025-12-29 | `tamilmirrorlk-2c5fa1f9` | டக்ளஸ் தேவானந்தாவின் உயிருக்கு ஆபத்து? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-2c5fa1f9)
 - 2025-12-29 | `virakesarilk-86a7c3ac` | செரெண்டிப் கழகத்தை அதிரவைத்த நியூ ஸ்டார் கழகத்தின் நட்சத்திர வீரர் பஸால் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-86a7c3ac)
 - 2025-12-29 | `tamilmirrorlk-8e0f763b` | நிபந்தனை மீறப்பட்டால் திரும்பப் பெறப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-8e0f763b)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-29 | `virakesarilk-1f61b573` | ஆடவர் சர்வதேச ரி20 கிரிக்கெட்டில் 8 விக்கெட்களை வீழ்த்தி உலக சாதனை படைத்துள்ளார் பூட்டான் வீரர் சொனம் யெஷீ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-1f61b573)
 - 2025-12-29 | `tamilmirrorlk-464c1649` | நாவலப்பிட்டியில் குண்டுப்புரளி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-464c1649)
 - 2025-12-29 | `tamilmirrorlk-1bf8c8e2` | தங்கத்தை விழுங்கிய ‘டித்வா’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-1bf8c8e2)
-- 2025-12-29 | `tamilmirrorlk-cd31bcef` | நாளை அடையாள தொழிற்சங்க போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-cd31bcef)
 
 ---
 
