@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_06:30:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_07:16:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,744** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,746** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-29-dailyftlk-b1cee4f9",
-    "num": "dailyftlk-b1cee4f9",
+    "doc_id": "2025-12-29-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
     "date_str": "2025-12-29",
-    "description": "$ 35 m Humanitarian Priorities Plan for Ditwah victims",
-    "url_metadata": "https://www.ft.lk/news/35-m-Humanitarian-Priorities-Plan-for-Ditwah-victims/56-786196",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1766967063.0
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/234633",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1766972400.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-29 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-3a015e4a)
 - 2025-12-29 | `dailyftlk-b1cee4f9` | $ 35 m Humanitarian Priorities Plan for Ditwah victims | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-dailyftlk-b1cee4f9)
 - 2025-12-29 | `dailyftlk-01e8b7db` | Wijeya Newspapers: Clarification on Ne-Yo concert | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-dailyftlk-01e8b7db)
 - 2025-12-29 | `dailyftlk-3091dfec` | State of Public Emergency extended | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-dailyftlk-3091dfec)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-29 | `virakesarilk-c5b4b30e` | லுணுவில விபத்தில் பாடசாலை மாணவன் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-c5b4b30e)
 - 2025-12-29 | `virakesarilk-d9cb2af3` | சுற்றுலாப்பயணிகளின் வருகை 22.9 இலட்சத்தை தாண்டியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-d9cb2af3)
 - 2025-12-29 | `dailyftlk-2371bfe2` | Dr. Amal Utum Herat: Jack of all trades and master of everything | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-dailyftlk-2371bfe2)
-- 2025-12-29 | `virakesarilk-070a4f04` | ரூபாவின் பெறுமதி 5.5 வீதத்தால் வீழ்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-070a4f04)
 
 ---
 
