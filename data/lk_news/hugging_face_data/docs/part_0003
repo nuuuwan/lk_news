@@ -323431,6 +323431,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-30-virakesarilk-e6e7c68a",
+    "num": "virakesarilk-e6e7c68a",
+    "date_str": "2025-12-30",
+    "description": "\u0ba4\u0bca\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd, \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbe\u0ba4\u0bc1 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a \u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0b89\u0baa\u0ba4\u0bc7\u0b9a\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0bb5\u0ba4\u0bbe\u0bb2\u0bcd \u0baa\u0baf\u0ba9\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\u00a0- \u0ba4\u0bb5\u0bbf\u0b9a\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbf\u0bb0\u0bcb\u0bb7\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/234707",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1767043560.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-30-dailyftlk-3b16c1cf",
     "num": "dailyftlk-3b16c1cf",
     "date_str": "2025-12-30",
@@ -323439,5 +323450,115 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1767043927.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-f7ccea6e",
+    "num": "dailyftlk-f7ccea6e",
+    "date_str": "2025-12-30",
+    "description": "Dialog and UoM Mobile Communications\u00a0 Research Lab launch SinhalaVITS",
+    "url_metadata": "https://www.ft.lk/business/Dialog-and-UoM-Mobile-Communications-Research-Lab-launch-SinhalaVITS/34-786248",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767044517.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-be2745ac",
+    "num": "dailyftlk-be2745ac",
+    "date_str": "2025-12-30",
+    "description": "Fostering private sector cooperation with BRICS",
+    "url_metadata": "https://www.ft.lk/business/Fostering-private-sector-cooperation-with-BRICS/34-786249",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767044587.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-112fb2cd",
+    "num": "dailyftlk-112fb2cd",
+    "date_str": "2025-12-30",
+    "description": "Colombo Dockyard\u2019s march towards Maldivian leisure industry",
+    "url_metadata": "https://www.ft.lk/business/Colombo-Dockyard-s-march-towards-Maldivian-leisure-industry/34-786250",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767044702.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-42a7a3eb",
+    "num": "dailyftlk-42a7a3eb",
+    "date_str": "2025-12-30",
+    "description": "EDB\u2019s National Packaging Centre empowers exporters with EU food labelling legislation workshop",
+    "url_metadata": "https://www.ft.lk/business/EDB-s-National-Packaging-Centre-empowers-exporters-with-EU-food-labelling-legislation-workshop/34-786251",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767044824.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-3dda9f91",
+    "num": "dailyftlk-3dda9f91",
+    "date_str": "2025-12-30",
+    "description": "Chinthaka Dharmasena joins Commercial Development Co. Board",
+    "url_metadata": "https://www.ft.lk/business/Chinthaka-Dharmasena-joins-Commercial-Development-Co-Board/34-786252",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767044919.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-01696603",
+    "num": "dailyftlk-01696603",
+    "date_str": "2025-12-30",
+    "description": "Advertising veteran Ranil de Silva joins Hunter & Company Board",
+    "url_metadata": "https://www.ft.lk/business/Advertising-veteran-Ranil-de-Silva-joins-Hunter-Company-Board/34-786253",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767045024.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-d1292058",
+    "num": "dailyftlk-d1292058",
+    "date_str": "2025-12-30",
+    "description": "Malayagam community donates to \u2018Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/news/Malayagam-community-donates-to-Rebuilding-Sri-Lanka-Fund/56-786254",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767045296.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-c733326a",
+    "num": "dailyftlk-c733326a",
+    "date_str": "2025-12-30",
+    "description": "US slashes UN humanitarian aid to $ 2 b, huge cut as Trump demands reforms",
+    "url_metadata": "https://www.ft.lk/news/US-slashes-UN-humanitarian-aid-to-2-b-huge-cut-as-Trump-demands-reforms/56-786255",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767045386.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-c4fa5078",
+    "num": "dailyftlk-c4fa5078",
+    "date_str": "2025-12-30",
+    "description": "SJB slams Govt. over emergency rule, disaster response, and delay in Auditor General appointment",
+    "url_metadata": "https://www.ft.lk/news/SJB-slams-Govt-over-emergency-rule-disaster-response-and-delay-in-Auditor-General-appointment/56-786256",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767045546.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-virakesarilk-32c05222",
+    "num": "virakesarilk-32c05222",
+    "date_str": "2025-12-30",
+    "description": "\u0b9a\u0bbe\u0baf\u0bbf \u0baa\u0bbe\u0bb2\u0bb5\u0bbf\u0b95\u0bbe\u0bb7\u0bcd \u0b85\u0bb1\u0ba8\u0bc6\u0bb1\u0bbf \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0b9f\u0bbe\u0ba8\u0bcd\u0ba4 \u0baa\u0bb0\u0bbf\u0b9a\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0bb4\u0bbe",
+    "url_metadata": "https://www.virakesari.lk/article/234708",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1767045960.0
   }
 ]
