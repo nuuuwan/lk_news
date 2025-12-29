@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_12:51:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_13:21:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,809** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,810** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,6 +43,7 @@ A collection of lk_news documents.
 
 - 2025-12-29 | `lankadeepalk-241de888` | මෙක්සිකෝවේ දුම්රියක් පීලි පනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-lankadeepalk-241de888)
 - 2025-12-29 | `virakesarilk-d152b055` | தமிழக வெற்றி கழகத்தின் தேர்தல் சின்னம் விசிலா? மோதிரமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-d152b055)
+- 2025-12-29 | `adalk-b9274fa0` | 2025 CMA සම්මාන උළෙලේදී ජනශක්ති ෆිනෑන්ස් ඇගයෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-adalk-b9274fa0)
 - 2025-12-29 | `lankadeepalk-6ae0c0bc` | ‘කුෂ්‘ සමඟ හතරක් ගුවන්තොටේදී මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-lankadeepalk-6ae0c0bc)
 - 2025-12-29 | `tamilmirrorlk-b1747534` | இலங்கையில் தேனிலவு ; தேனிலவில் விரிசல் ; இருவரும் சடலங்களாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-b1747534)
 - 2025-12-29 | `virakesarilk-28c20bb5` | 5 மாத அடிப்படை சம்பளத்தை போனஸ் கொடுப்பனவாகக் கோரி விமான நிலைய ஊழியர்கள் ஆர்ப்பாட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-28c20bb5)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-29 | `virakesarilk-a9432720` | முன்னாள் சிறைச்சாலை அதிகாரி கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-a9432720)
 - 2025-12-29 | `lankadeepalk-9504a543` | නව වසරේ අභියෝග ජනතා අපේක්ෂා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-lankadeepalk-9504a543)
 - 2025-12-29 | `lankadeepalk-8b3bc55f` | තරුණියක් ගිං ඔයේ සැඟවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-lankadeepalk-8b3bc55f)
-- 2025-12-29 | `virakesarilk-b7f2a46c` | நுவரெலியாவில் மண்சரிவின் பின்னர் ஏணியில் ஏறி பயணம் செய்யும் பொது மக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-b7f2a46c)
 
 ---
 

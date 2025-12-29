@@ -322188,6 +322188,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-29-adalk-b9274fa0",
+    "num": "adalk-b9274fa0",
+    "date_str": "2025-12-29",
+    "description": "2025 CMA \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1 \u0d8b\u0dc5\u0dd9\u0dbd\u0dda\u0daf\u0dd3 \u0da2\u0db1\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0dc6\u0dd2\u0db1\u0dd1\u0db1\u0dca\u0dc3\u0dca \u0d87\u0d9c\u0dba\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/2025-CMA-\u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1-\u0d8b\u0dc5\u0dd9\u0dbd\u0dda\u0daf\u0dd3-\u0da2\u0db1\u0dc1\u0d9a\u0dca\u0dad\u0dd2-\u0dc6\u0dd2\u0db1\u0dd1\u0db1\u0dca\u0dc3\u0dca-\u0d87\u0d9c\u0dba\u0dd9\u0dba\u0dd2/7-420504",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1766991579.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-29-virakesarilk-d152b055",
     "num": "virakesarilk-d152b055",
     "date_str": "2025-12-29",
