@@ -317084,6 +317084,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-25-islandlk-cda3010a",
+    "num": "islandlk-cda3010a",
+    "date_str": "2025-12-25",
+    "description": "Desperate political sandbagging",
+    "url_metadata": "http://island.lk/desperate-political-sandbagging/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766677860.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-25-virakesarilk-51c7a4d5",
     "num": "virakesarilk-51c7a4d5",
     "date_str": "2025-12-25",
@@ -319152,6 +319163,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-04f39033",
+    "num": "islandlk-04f39033",
+    "date_str": "2025-12-27",
+    "description": "True Santa & Fake Santa in the US. NPP underwhelmed by Square-toed Critics",
+    "url_metadata": "http://island.lk/true-santa-fake-santa-in-the-us-npp-underwhelmed-by-square-toed-critics/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766820720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-57e2b56d",
+    "num": "islandlk-57e2b56d",
+    "date_str": "2025-12-27",
+    "description": "2025: The Year We Let It Happen",
+    "url_metadata": "http://island.lk/2025-the-year-we-let-it-happen/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766822040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-27-islandlk-7ef8dcbc",
+    "num": "islandlk-7ef8dcbc",
+    "date_str": "2025-12-27",
+    "description": "After Christmas Day",
+    "url_metadata": "http://island.lk/after-christmas-day/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766822040.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-27-virakesarilk-20df4914",
     "num": "virakesarilk-20df4914",
     "date_str": "2025-12-27",
@@ -320978,6 +321022,83 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-1012aa8c",
+    "num": "islandlk-1012aa8c",
+    "date_str": "2025-12-28",
+    "description": "Air Astana\u2019s inaugural Christmas Day flight welcomed by Sri Lanka Tourism",
+    "url_metadata": "http://island.lk/air-astanas-inaugural-christmas-day-flight-welcomed-by-sri-lanka-tourism/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766942640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-2b25ecec",
+    "num": "islandlk-2b25ecec",
+    "date_str": "2025-12-28",
+    "description": "BOC travel card eases holiday spending abroad",
+    "url_metadata": "http://island.lk/boc-travel-card-eases-holiday-spending-abroad/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766942640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-b189f318",
+    "num": "islandlk-b189f318",
+    "date_str": "2025-12-28",
+    "description": "ComBank supports technical education ambitions with DIMO Academy partnership",
+    "url_metadata": "http://island.lk/combank-supports-technical-education-ambitions-with-dimo-academy-partnership/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766942700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-b899faca",
+    "num": "islandlk-b899faca",
+    "date_str": "2025-12-28",
+    "description": "Suzuki urges Fronx owners: \u2018Do not use rear seats\u2019 following serious seatbelt failure",
+    "url_metadata": "http://island.lk/suzuki-urges-fronx-owners-do-not-use-rear-seats-following-serious-seatbelt-failure/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766942760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-7bef0a92",
+    "num": "islandlk-7bef0a92",
+    "date_str": "2025-12-28",
+    "description": "Hemas Hospital Wattala reaffirms its commitment to advanced liver care",
+    "url_metadata": "http://island.lk/hemas-hospital-wattala-reaffirms-its-commitment-to-advanced-liver-care/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766942820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-b5063a53",
+    "num": "islandlk-b5063a53",
+    "date_str": "2025-12-28",
+    "description": "People\u2019s Bank Holds 47th Annual Christmas Carols",
+    "url_metadata": "http://island.lk/peoples-bank-holds-47th-annual-christmas-carols/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766942880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-66a5fe61",
+    "num": "islandlk-66a5fe61",
+    "date_str": "2025-12-28",
+    "description": "Vidullanka PLC named lowest-cost bidder for mini hydro project in Fiji",
+    "url_metadata": "http://island.lk/vidullanka-plc-named-lowest-cost-bidder-for-mini-hydro-project-in-fiji/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766942940.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-28-virakesarilk-3d832178",
     "num": "virakesarilk-3d832178",
     "date_str": "2025-12-28",
@@ -321305,5 +321426,60 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1766965143.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-dailyftlk-b88839c4",
+    "num": "dailyftlk-b88839c4",
+    "date_str": "2025-12-29",
+    "description": "Apparel industry takes stock of recovery challenges at SLABA flagship forum",
+    "url_metadata": "https://www.ft.lk/business/Apparel-industry-takes-stock-of-recovery-challenges-at-SLABA-flagship-forum/34-786192",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766965776.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-dailyftlk-0d6723a4",
+    "num": "dailyftlk-0d6723a4",
+    "date_str": "2025-12-29",
+    "description": "Public panic, mass displacement and criminal culpability",
+    "url_metadata": "https://www.ft.lk/opinion/Public-panic-mass-displacement-and-criminal-culpability/14-786193",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766966479.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-dailyftlk-3091dfec",
+    "num": "dailyftlk-3091dfec",
+    "date_str": "2025-12-29",
+    "description": "State of Public Emergency extended",
+    "url_metadata": "https://www.ft.lk/news/State-of-Public-Emergency-extended/56-786194",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766966880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-dailyftlk-01e8b7db",
+    "num": "dailyftlk-01e8b7db",
+    "date_str": "2025-12-29",
+    "description": "Wijeya Newspapers: Clarification on Ne-Yo concert",
+    "url_metadata": "https://www.ft.lk/news/Wijeya-Newspapers-Clarification-on-Ne-Yo-concert/56-786195",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766966903.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-dailyftlk-b1cee4f9",
+    "num": "dailyftlk-b1cee4f9",
+    "date_str": "2025-12-29",
+    "description": "$ 35 m Humanitarian Priorities Plan for Ditwah victims",
+    "url_metadata": "https://www.ft.lk/news/35-m-Humanitarian-Priorities-Plan-for-Ditwah-victims/56-786196",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1766967063.0
   }
 ]
