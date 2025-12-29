@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_10:29:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_10:54:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,772** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,776** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-29-tamilmirrorlk-ffe185fb",
-    "num": "tamilmirrorlk-ffe185fb",
+    "doc_id": "2025-12-29-tamilmirrorlk-c73e3acd",
+    "num": "tamilmirrorlk-c73e3acd",
     "date_str": "2025-12-29",
-    "description": "\u0ba4\u0bbe\u0bb4\u0bc8\u0baf\u0b9f\u0bbf \u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0b95\u0bbe\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0bb4\u0bc8\u0baf\u0b9f\u0bbf-\u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0b95\u0bbe\u0ba3\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/175-370213",
+    "description": "\u0b8a\u0b9f\u0b95 \u0b85\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8a\u0b9f\u0b95-\u0b85\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd-\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1/175-370217",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1766983592.0
+    "time_ut": 1766985272.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-29 | `tamilmirrorlk-c73e3acd` | ஊடக அடக்குமுறைக்கு எதிர்க்கட்சிகள் எதிர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-c73e3acd)
+- 2025-12-29 | `tamilmirrorlk-d3fcecce` | யாரு கட் பண்ணுனா... எட்டி பார்த்தா மாட்டுவார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-d3fcecce)
+- 2025-12-29 | `tamilmirrorlk-b09dbc8e` | 266 குளங்களின் நீர்வழிகளை ஆய்வு செய்தல் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-b09dbc8e)
 - 2025-12-29 | `tamilmirrorlk-ffe185fb` | தாழையடி கடலில் இளைஞன் காணவில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-ffe185fb)
 - 2025-12-29 | `tamilmirrorlk-1735b190` | ஆணுறைகளுக்கு தட்டுப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-1735b190)
 - 2025-12-29 | `tamilmirrorlk-7cced46a` | கண்களால் ரசிகர்களை கவரும் நடிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-7cced46a)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-29 | `virakesarilk-d1f4516d` | ஹொரணை பகுதியில் தொழிற்சாலையொன்றில் தீ விபத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-d1f4516d)
 - 2025-12-29 | `virakesarilk-7d941ae1` | வெளிநாட்டு மதுபான போத்தல்களுடன் இந்தியர் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-7d941ae1)
 - 2025-12-29 | `tamilmirrorlk-0aaee367` | இன்று முதல் டிஜிட்டல் மயமாகும் EPF சேவைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-0aaee367)
-- 2025-12-29 | `virakesarilk-be9aca5a` | சட்டவிரோதமாக மதுபான உற்பத்தி ; இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-be9aca5a)
-- 2025-12-29 | `tamilmirrorlk-e902517e` | மன்னாரில் துப்பாக்கிச் சூடு : இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-e902517e)
-- 2025-12-29 | `virakesarilk-a720a60f` | துப்பாக்கிச் சூடு மற்றும் கொலை வழக்கு : தேடப்பட்டு வந்த சந்தேகநபர்கள் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-a720a60f)
 
 ---
 
