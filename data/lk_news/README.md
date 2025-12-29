@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_16:22:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--29_16:47:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**95,854** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**95,857** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.4 GB**), from **2021-09-12** to **2025-12-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,7 @@ A collection of lk_news documents.
 - 2025-12-29 | `virakesarilk-8d4f9cfc` | கல்முனையில் திறக்கப்படவுள்ளது அரச மருந்தகக் கிளை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-8d4f9cfc)
 - 2025-12-29 | `virakesarilk-67386b96` | சுகாதார சேவையில் 62 பல் சத்திர சிகிச்சை நிபுணர்கள் இணைந்துள்ளனர் - சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-67386b96)
 - 2025-12-29 | `virakesarilk-5dc9094f` | கட்டுநாயக்கவில் வெளிநாட்டு சிகரட்டுகளுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-5dc9094f)
+- 2025-12-29 | `adalk-f3e7d5e5` | ආයුර්වේද ඖෂධ සංස්ථාවේ නව නිෂ්පාදන 07ක්  හෙට එළිදැක්වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-adalk-f3e7d5e5)
 - 2025-12-29 | `virakesarilk-7508d9a2` | டக்ளஸூக்கு உயிராபத்து ; பாதுகாப்பு வழங்க அழுத்தம் - முன்னாள் ஆளுநர் சுரேன் ராகவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-7508d9a2)
 - 2025-12-29 | `lankadeepalk-dcd59259` | බීලා සුක්කානම ගත්තොත් වැඩි වරදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-lankadeepalk-dcd59259)
 - 2025-12-29 | `virakesarilk-077648e5` | நாடு முழுவதும் மின்சார வாகன பேட்டரி சார்ஜிங் நிலையங்களை அமைப்பதற்கு திட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-077648e5)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-29 | `virakesarilk-d58f4e74` | கண்டி மாவட்ட செயலகத்திற்கு வெடிகுண்டு மிரட்டல் ; சி.ஐ.டியினர் விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-d58f4e74)
 - 2025-12-29 | `virakesarilk-97025d2f` | நடிகை பிரியங்கா மோகன் நடிக்கும் ' 666 ஆபரேஷன் ட்ரீம் தியேட்டர்' படத்தின் அவரது கதாபாத்திர தோற்றப் பார்வை வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-97025d2f)
 - 2025-12-29 | `tamilmirrorlk-48e545a9` | திகதியை மாற்றுமாறு ஜனாதிபதிக்கு கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-tamilmirrorlk-48e545a9)
-- 2025-12-29 | `virakesarilk-575d41e7` | கேப்டன் விஜயகாந்த்தின் குரு பூஜையில் பங்கு பற்றி மலரஞ்சலி செலுத்திய துணை முதல்வர் உதயநிதி ஸ்டாலின் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-29-virakesarilk-575d41e7)
 
 ---
 
