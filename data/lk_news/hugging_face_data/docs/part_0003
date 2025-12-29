@@ -323307,5 +323307,82 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1767037434.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-0bda784d",
+    "num": "dailyftlk-0bda784d",
+    "date_str": "2025-12-30",
+    "description": "Northern Investment Summit 2026: Turning vision into action",
+    "url_metadata": "https://www.ft.lk/business/Northern-Investment-Summit-2026-Turning-vision-into-action/34-786224",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767039202.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-ff8a4d6f",
+    "num": "dailyftlk-ff8a4d6f",
+    "date_str": "2025-12-30",
+    "description": "Sri Lanka\u2019s quiet regulatory shift: Can evidence-based rules unlock new growth?",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-s-quiet-regulatory-shift-Can-evidence-based-rules-unlock-new-growth/34-786225",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767039610.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-8b750e44",
+    "num": "dailyftlk-8b750e44",
+    "date_str": "2025-12-30",
+    "description": "MAC celebrates 29 years of success and corporate excellence",
+    "url_metadata": "https://www.ft.lk/business/MAC-celebrates-29-years-of-success-and-corporate-excellence/34-786226",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767039752.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-9f37c9cd",
+    "num": "dailyftlk-9f37c9cd",
+    "date_str": "2025-12-30",
+    "description": "GREE Airtech opens flagship store in Nawala",
+    "url_metadata": "https://www.ft.lk/business/GREE-Airtech-opens-flagship-store-in-Nawala/34-786227",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767040055.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-lankadeepalk-ba3d69a7",
+    "num": "lankadeepalk-ba3d69a7",
+    "date_str": "2025-12-30",
+    "description": "\u0db4\u0dd4\u0da7\u0dd2\u0db1\u0dca\u0d9c\u0dda \u0db1\u0dd2\u0dbd \u0db1\u0dd2\u0dc0\u0dc3\u0da7 \u0d9c\u0dc4\u0db1\u0dca\u0db1 \u0dc4\u0daf\u0dbd\u0dcf",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0db4\u0da7\u0db1\u0d9c-\u0db1\u0dbd-\u0db1\u0dc0\u0dc3\u0da7-\u0d9c\u0dc4\u0db1\u0db1-\u0dc4\u0daf\u0dbd/1-685996",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1767040220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-lankadeepalk-1c61dde6",
+    "num": "lankadeepalk-1c61dde6",
+    "date_str": "2025-12-30",
+    "description": "\u0d85\u0db4\u0dd2 \u0d9c\u0dc4\u0db1\u0dca\u0db1 \u0dc4\u0dd0\u0daf\u0dd4\u0dc0\u0dda \u0db1\u0dd1 - \u0dc3\u0dd9\u0dbd\u0dd9\u0db1\u0dca\u0dc3\u0dca\u0d9a\u0dd3",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d85\u0db4-\u0d9c\u0dc4\u0db1\u0db1-\u0dc4\u0daf\u0dc0-\u0db1-\u0dc3\u0dbd\u0db1\u0dc3\u0d9a/1-685997",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1767040367.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-dailyftlk-0e1124e4",
+    "num": "dailyftlk-0e1124e4",
+    "date_str": "2025-12-30",
+    "description": "Velona marks 85 years  of Sri Lankan legacy, innovation, and care",
+    "url_metadata": "https://www.ft.lk/business/Velona-marks-85-years-of-Sri-Lankan-legacy-innovation-and-care/34-786228",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767040405.0
   }
 ]
