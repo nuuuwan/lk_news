@@ -318690,6 +318690,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-26-islandlk-60d8d191",
+    "num": "islandlk-60d8d191",
+    "date_str": "2025-12-26",
+    "description": "Selective transparency",
+    "url_metadata": "http://island.lk/selective-transparency/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766764440.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-26-virakesarilk-debc95fe",
     "num": "virakesarilk-debc95fe",
     "date_str": "2025-12-26",
@@ -321044,6 +321055,72 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-787753f3",
+    "num": "islandlk-787753f3",
+    "date_str": "2025-12-28",
+    "description": "Wishes, Resolutions and Climate Change",
+    "url_metadata": "http://island.lk/wishes-resolutions-and-climate-change/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766942100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-31dd4e5a",
+    "num": "islandlk-31dd4e5a",
+    "date_str": "2025-12-28",
+    "description": "From Diyabariya to Duberria: Lanka\u2019s Forgotten Footprint in Global Science",
+    "url_metadata": "http://island.lk/from-diyabariya-to-duberria-lankas-forgotten-footprint-in-global-science/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766942220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-852a4702",
+    "num": "islandlk-852a4702",
+    "date_str": "2025-12-28",
+    "description": "Children first \u2013 even after a disaster",
+    "url_metadata": "http://island.lk/children-first-even-after-a-disaster/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766942340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-78193f32",
+    "num": "islandlk-78193f32",
+    "date_str": "2025-12-28",
+    "description": "Real economic data isn\u2019t in a report: It\u2019s on a bargain table",
+    "url_metadata": "http://island.lk/real-economic-data-isnt-in-a-report-its-on-a-bargain-table/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766942520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-c7d04f77",
+    "num": "islandlk-c7d04f77",
+    "date_str": "2025-12-28",
+    "description": "Global economy poised for growth in 2026, says Goldman Sachs, despite uneven job recovery",
+    "url_metadata": "http://island.lk/global-economy-poised-for-growth-in-2026-says-goldman-sachs-despite-uneven-job-recovery/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766942520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-0e3686c8",
+    "num": "islandlk-0e3686c8",
+    "date_str": "2025-12-28",
+    "description": "India trains Sri Lankan gem and jewellery artisans in landmark capacity-building programme",
+    "url_metadata": "http://island.lk/india-trains-sri-lankan-gem-and-jewellery-artisans-in-landmark-capacity-building-programme/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766942580.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-28-islandlk-1012aa8c",
     "num": "islandlk-1012aa8c",
     "date_str": "2025-12-28",
@@ -323274,6 +323351,61 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767030060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-islandlk-5b755eed",
+    "num": "islandlk-5b755eed",
+    "date_str": "2025-12-29",
+    "description": "Some bounce in bourse inspired by positive uptick in economy",
+    "url_metadata": "http://island.lk/some-bounce-in-bourse-inspired-by-positive-uptick-in-economy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767031680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-islandlk-90a23759",
+    "num": "islandlk-90a23759",
+    "date_str": "2025-12-29",
+    "description": "ACL FireGuard sets the Purple Standard",
+    "url_metadata": "http://island.lk/acl-fireguard-sets-the-purple-standard/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767031740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-islandlk-f87ec0f9",
+    "num": "islandlk-f87ec0f9",
+    "date_str": "2025-12-29",
+    "description": "Rebuilding housing post-Ditwah: Lessons from Sri Lanka\u2019s Tsunami experience",
+    "url_metadata": "http://island.lk/rebuilding-housing-post-ditwah-lessons-from-sri-lankas-tsunami-experience/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767031860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-islandlk-da4c6911",
+    "num": "islandlk-da4c6911",
+    "date_str": "2025-12-29",
+    "description": "Plenty of excitement to welcome 2026",
+    "url_metadata": "http://island.lk/plenty-of-excitement-to-welcome-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767032280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-29-islandlk-87fb7413",
+    "num": "islandlk-87fb7413",
+    "date_str": "2025-12-29",
+    "description": "It\u2019s all over for Maxi Rozairo",
+    "url_metadata": "http://island.lk/its-all-over-for-maxi-rozairo/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767032340.0
   },
   {
     "doc_type": "lk_news",
