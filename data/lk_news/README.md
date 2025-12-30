@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--30_23:48:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_00:26:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,101** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,112** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,8 @@ A collection of lk_news documents.
 - 2025-12-30 | `adalk-f17fa560` | දේශීය ආදායම් දෙපාර්තමේන්තුව ඉතිහාසයේ ඉහළම ආදායම ලබයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-adalk-f17fa560)
 - 2025-12-30 | `tamilmirrorlk-ca3ec87c` | டொனால்ட் ட்ரம்பிற்கு டலஸ் அழகப்பெரும அவசர கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-tamilmirrorlk-ca3ec87c)
 - 2025-12-30 | `tamilmirrorlk-0175f28d` | பாதுகாப்பு அமைச்சின் முக்கிய அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-tamilmirrorlk-0175f28d)
+- 2025-12-30 | `virakesarilk-aa4f907c` | தையிட்டி விகாரையில் புதிய கட்டுமானங்களை மேற்கொள்ள மாட்டோம் - தையிட்டி திஸ்ஸ விகாரையின் விகாராதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-virakesarilk-aa4f907c)
+- 2025-12-30 | `virakesarilk-6ef6c070` | சர்வதேச வர்த்தகச் சங்கத்தின் இலங்கைக்கான தலைவராக ஜோன்சன் அந்தனி பெர்னாண்டோ  நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-virakesarilk-6ef6c070)
 - 2025-12-30 | `adalk-c4965dce` | ලසිත් මාලිංගට උපදේශක පුහුණුකරු තනතුරක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-adalk-c4965dce)
 - 2025-12-30 | `adalk-616d83a9` | දිත්වා නිසා බලපෑමට ලක්වූ සුළු හා මධ්‍ය පරිමාණ ව්‍යාපාරිකයන්ට ආපදා සහන ණය ක්‍රමයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-adalk-616d83a9)
 - 2025-12-30 | `lankadeepalk-0e1165f1` | නොරොච්චෝලේ යන්ත්‍ර දෙකක් නවතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-lankadeepalk-0e1165f1)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2025-12-30 | `virakesarilk-fcb0d8ee` | லதா வல்பொலவின் இறுதிக்கிரியை அரச அனுசரணையுடன் நடத்தப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-virakesarilk-fcb0d8ee)
 - 2025-12-30 | `virakesarilk-6ce82a63` | சட்டவிரோத மீன்பிடி நடவடிக்கையில் ஈடுபட்ட இந்திய மீன்பிடி படகு கைப்பற்றப்பட்டது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-virakesarilk-6ce82a63)
 - 2025-12-30 | `virakesarilk-6eed8320` | கதையின் நாயகர்களாக தோன்றும் ராதா ரவி - ரவி மரியா கூட்டணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-virakesarilk-6eed8320)
-- 2025-12-30 | `virakesarilk-cf1a2d58` | ரெபல் ஸ்டார்' பிரபாஸ் நடிக்கும் 'தி ராஜா சாப் முன்னோட்ட வெளியீட்டு விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-virakesarilk-cf1a2d58)
-- 2025-12-30 | `virakesarilk-78c968b6` | நடிகை சிந்தியா லூர்டே நடிக்கும் 'அனலி' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-virakesarilk-78c968b6)
 
 ---
 
