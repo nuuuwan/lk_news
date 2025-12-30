@@ -324300,6 +324300,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-30-bbccomsinhala-d861a2ca",
+    "num": "bbccomsinhala-d861a2ca",
+    "date_str": "2025-12-30",
+    "description": "2025 \u0dc0\u0dc3\u0dbb\u0dda \u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda\u0daf\u0dd3 \u0dc3\u0db8\u0dca\u0db8\u0dad \u0d9a\u0dbb \u0d9c\u0dad\u0dca \u0db4\u0db1\u0dad\u0dca \u0db8\u0ddc\u0db1\u0dc0\u0dcf \u0daf?",
+    "url_metadata": "https://www.bbc.com/sinhala/articles/cd7471402z8o",
+    "lang": "si",
+    "newspaper_id": "bbccomsinhala",
+    "time_ut": 1767075573.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-30-virakesarilk-76f7c6e7",
     "num": "virakesarilk-76f7c6e7",
     "date_str": "2025-12-30",
@@ -324960,6 +324971,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-30-lankadeepalk-dfa77050",
+    "num": "lankadeepalk-dfa77050",
+    "date_str": "2025-12-30",
+    "description": "\u0daf\u0dcf\u0dc4\u0dad\u0dca \u0dc0\u0dc3\u0dbb\u0d9a\u0dca \u0d9a\u0ddc\u0dc5\u0db9 \u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dbb \u0d9c\u0db8\u0da7 \u0db8\u0dcf\u0dbb\u0dd4\u0dc0 \u0dbd\u0daf \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0d9a\u0ddc\u0dc3\u0dca\u0dad\u0dcf\u0db4\u0dbd\u0dca \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd2\u0db1\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0daf\u0dc4\u0dad-\u0dc0\u0dc3\u0dbb\u0d9a-\u0d9a\u0dc5\u0db9-\u0dc3\u0dc0\u0dba-\u0d9a\u0dbb-\u0d9c\u0db8\u0da7-\u0db8\u0dbb\u0dc0-\u0dbd\u0daf-\u0db4\u0dbd\u0dc3-\u0d9a\u0dc3\u0dad\u0db4\u0dbd-\u0d85\u0db1\u0dad\u0dbb\u0db1-\u0db8\u0dbb\u0da7/101-686025",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1767092219.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-30-virakesarilk-4612f384",
     "num": "virakesarilk-4612f384",
     "date_str": "2025-12-30",
@@ -325111,5 +325133,16 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767096600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-lankadeepalk-f3cc144c",
+    "num": "lankadeepalk-f3cc144c",
+    "date_str": "2025-12-30",
+    "description": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dc4\u0dd9\u0da7 \u0dba\u0db1\u0dca\u0db1\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0db8\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dc5\u0db9-\u0dc4\u0da7-\u0dba\u0db1\u0db1-\u0db8\u0dc4\u0db8\u0dba/101-686026",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1767098833.0
   }
 ]
