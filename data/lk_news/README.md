@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_20:20:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_20:47:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,287** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,288** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -52,6 +52,7 @@ A collection of lk_news documents.
 - 2025-12-31 | `virakesarilk-75edba03` | நயன்தாரா நடிக்கும் 'மூக்குத்தி அம்மன் 2' படத்தின் படப்பிடிப்பு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-75edba03)
 - 2025-12-31 | `virakesarilk-ac4c8cab` | நடிகர் யாஷ் நடிக்கும் ' டாக்ஸிக் : ஏ ஃபேரி டேல் ஃபார் குரோன் அப்ஸ்' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-ac4c8cab)
 - 2025-12-31 | `virakesarilk-56c15ea7` | யாழ். மாவட்ட அரசாங்க அதிபர் மருதலிங்கம் பிரதீபன் தையிட்டி திஸ்ஸ விகாரை அமைந்துள்ள காணி உரிமையாளர்களை சந்தித்தார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-56c15ea7)
+- 2025-12-31 | `adalk-a3e33ea6` | ඉන්දියාව ජපානය පසුකරමින් ලෝකයේ සිව්වැනි ආර්ථිකය බවට පත්වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-adalk-a3e33ea6)
 - 2025-12-31 | `virakesarilk-5c8bc4e9` | மீன் வருகின்ற பாதையை தடுப்பதால் வாழ்வாதாரம் பாதிக்கப்படுகிறது - மீனவர் சங்க பிரதிநிதி தெரிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-5c8bc4e9)
 - 2025-12-31 | `virakesarilk-cedfb432` | 2026 ஆம் ஆண்டு மே மாதத்தில் வெளியாகும் சூரியின் 'மண்டாடி' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-cedfb432)
 - 2025-12-31 | `virakesarilk-20b0db37` | கொஹுவலை துப்பாக்கிச் சூடு ; காயமடைந்த சிறுமியின் தாய் “படோவிட்ட அசங்க”வின் சகாவா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-20b0db37)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-31 | `adalk-308ce964` | නලින්දගේ ප්‍රකාශයට සජිත් මැදිහත් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-adalk-308ce964)
 - 2025-12-31 | `virakesarilk-8483e98c` | தாக்குதல் சம்பவம் ; மத்துகம பிரதேச சபைத் தலைவருக்கு பிணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-8483e98c)
 - 2025-12-31 | `virakesarilk-28c8ff02` | வடக்கு மாகாண சபைக்குரிய சில திணைக்களங்களுக்கு இன்னமும் நிரந்தரக் கட்டடங்கள் இல்லை - நா.வேதநாயகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-28c8ff02)
-- 2025-12-31 | `virakesarilk-e9b4529f` | கோடாவுடன் ஒருவர் கைது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-e9b4529f)
 
 ---
 
