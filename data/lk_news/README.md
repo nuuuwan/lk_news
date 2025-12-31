@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_17:51:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_18:29:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,266** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,281** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-31-lankadeepalk-43d487fb",
-    "num": "lankadeepalk-43d487fb",
+    "doc_id": "2025-12-31-lankadeepalk-bea3547a",
+    "num": "lankadeepalk-bea3547a",
     "date_str": "2025-12-31",
-    "description": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2\u0dc0\u0dbb \u0d9a\u0dd2\u0dba\u0dc0\u0dd3\u0db8 \u0dc0\u0dd0\u0da9\u0dd2 \u0da1\u0db1\u0dca\u0daf\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dc5\u0db9-\u0db1\u0d9c\u0dbb-\u0dc3\u0db7-\u0d85\u0dba\u0dc0\u0dba-\u0daf\u0dc0\u0db1\u0dc0\u0dbb-\u0d9a\u0dba\u0dc0\u0db8-\u0dc0\u0da9-\u0da1\u0db1\u0daf\u0dba\u0db1-\u0dc3\u0db8\u0db8\u0dad\u0dba/101-686067",
+    "description": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd \u0db1\u0d9c\u0dbb\u0dc3\u0db7\u0dcf \u0d9a\u0dbd\u0db6\u0dbd\u0dba\u0da7 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dad\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0da7 \u0d87\u0db4",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9c\u0dbd\u0dbd-\u0db1\u0d9c\u0dbb\u0dc3\u0db7-\u0d9a\u0dbd\u0db6\u0dbd\u0dba\u0da7-\u0d85\u0dad\u0d85\u0da9\u0d9c\u0dc0\u0da7-\u0d9c\u0dad-\u0db4\u0dbb\u0dc3\u0da7-\u0d87\u0db4/101-686075",
     "lang": "si",
     "newspaper_id": "lankadeepalk",
-    "time_ut": 1767182829.0
+    "time_ut": 1767185455.0
 }
 ```
 
@@ -41,8 +41,19 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-31 | `lankadeepalk-bea3547a` | ගාල්ල නගරසභා කලබලයට අත්අඩංගුවට ගත් පිරිසට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-lankadeepalk-bea3547a)
+- 2025-12-31 | `virakesarilk-e381e88d` | புது வருடத்தின் முதலாவது பாராளுமன்ற அமர்வு ஜனவரி ஆறாம் திகதி முதல் ஒன்பதாம் திகதி வரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-e381e88d)
 - 2025-12-31 | `lankadeepalk-43d487fb` | කොළඹ නගර සභා අයවැය දෙවැනිවර කියවීම වැඩි ඡන්දයෙන් සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-lankadeepalk-43d487fb)
 - 2025-12-31 | `tamilmirrorlk-923294ff` | ஆரோக்கியத்தைக் கண்காணிக்கும்நவீன கழிப்பறைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-tamilmirrorlk-923294ff)
+- 2025-12-31 | `virakesarilk-76e529c3` | 16 ஆயிரம் வெளிநாட்டு சிகரட்டுகளுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-76e529c3)
+- 2025-12-31 | `virakesarilk-68d20178` | நடிகை வரலட்சுமி சரத்குமாரின் 'சரஸ்வதி 'படத்தின் படப்பிடிப்பு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-68d20178)
+- 2025-12-31 | `virakesarilk-75edba03` | நயன்தாரா நடிக்கும் 'மூக்குத்தி அம்மன் 2' படத்தின் படப்பிடிப்பு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-75edba03)
+- 2025-12-31 | `virakesarilk-ac4c8cab` | நடிகர் யாஷ் நடிக்கும் ' டாக்ஸிக் : ஏ ஃபேரி டேல் ஃபார் குரோன் அப்ஸ்' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-ac4c8cab)
+- 2025-12-31 | `virakesarilk-56c15ea7` | யாழ். மாவட்ட அரசாங்க அதிபர் மருதலிங்கம் பிரதீபன் தையிட்டி திஸ்ஸ விகாரை அமைந்துள்ள காணி உரிமையாளர்களை சந்தித்தார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-56c15ea7)
+- 2025-12-31 | `virakesarilk-5c8bc4e9` | மீன் வருகின்ற பாதையை தடுப்பதால் வாழ்வாதாரம் பாதிக்கப்படுகிறது - மீனவர் சங்க பிரதிநிதி தெரிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-5c8bc4e9)
+- 2025-12-31 | `virakesarilk-cedfb432` | 2026 ஆம் ஆண்டு மே மாதத்தில் வெளியாகும் சூரியின் 'மண்டாடி' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-cedfb432)
+- 2025-12-31 | `virakesarilk-20b0db37` | கொஹுவலை துப்பாக்கிச் சூடு ; காயமடைந்த சிறுமியின் தாய் “படோவிட்ட அசங்க”வின் சகாவா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-20b0db37)
+- 2025-12-31 | `virakesarilk-fddc6c5b` | இந்திய ஏற்றுமதியாளர்களுக்கு அவுஸ்திரேலியாவில் புத்தாண்டில் புதிய சலுகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-fddc6c5b)
 - 2025-12-31 | `adalk-308ce964` | නලින්දගේ ප්‍රකාශයට සජිත් මැදිහත් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-adalk-308ce964)
 - 2025-12-31 | `virakesarilk-8483e98c` | தாக்குதல் சம்பவம் ; மத்துகம பிரதேச சபைத் தலைவருக்கு பிணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-8483e98c)
 - 2025-12-31 | `virakesarilk-28c8ff02` | வடக்கு மாகாண சபைக்குரிய சில திணைக்களங்களுக்கு இன்னமும் நிரந்தரக் கட்டடங்கள் இல்லை - நா.வேதநாயகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-28c8ff02)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2025-12-31 | `virakesarilk-fabb2680` | புதிய சிறைச்சாலைகள் ஊடகப் பேச்சாளராக ஏ.சி. கஜநாயக்க நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-fabb2680)
 - 2025-12-31 | `adalk-47fcc0d4` | කිරිබාති මුලින්ම 2026 පිළිගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-adalk-47fcc0d4)
 - 2025-12-31 | `virakesarilk-504a28c9` | இணையவழி நிதி மோசடிகள் தொடர்பில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு பொலிஸ் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-504a28c9)
-- 2025-12-31 | `lankadeepalk-98ffbd33` | ජොන්ස්ටන්ගේ පුතා රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-lankadeepalk-98ffbd33)
-- 2025-12-31 | `virakesarilk-90c6ff69` | சட்டவிரோதமாக மணல் ஏற்றிச்சென்ற டிப்பர் மீது பொலிஸார் துப்பாக்கி பிரயோகம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-90c6ff69)
-- 2025-12-31 | `virakesarilk-82f2e159` | தீயில் கருகிய நிலையில் ஆசிரியரின் சடலம் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-82f2e159)
-- 2025-12-31 | `adalk-090afdb7` | ජෙහාන් ප්‍රනාන්දු රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-adalk-090afdb7)
-- 2025-12-31 | `lankadeepalk-d1f4c4bf` | ඉසෙඩ් ඇළට වැටුණු අලියා මිය යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-lankadeepalk-d1f4c4bf)
-- 2025-12-31 | `virakesarilk-4946e245` | மன்னார் - அடம்பன் பொலிஸ் பிரிவில் இருவர் சுட்டுக் கொலை ; சந்தேக நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-4946e245)
-- 2025-12-31 | `virakesarilk-1a1ba7dd` | யாழில் மீன் பெட்டிக்குள் மாட்டிறைச்சி கடத்தியவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-1a1ba7dd)
-- 2025-12-31 | `virakesarilk-68bbe9f7` | ஐந்து ஆண்டுகள் கடந்தும் ஆசிரியர் நியமனம் இல்லை :  மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-68bbe9f7)
-- 2025-12-31 | `lankadeepalk-ba0b2196` | ඉන්දියාව ජපානය අභිබවා යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-lankadeepalk-ba0b2196)
-- 2025-12-31 | `adalk-7d5283fd` | වකුගඩු රෝගීන්ගේ සංගමයට ඩඩ්ලිගෙන් රු. ලක්ෂ සියයක පරිත්‍යාගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-adalk-7d5283fd)
-- 2025-12-31 | `adalk-8b2a3e77` | සමාජ මාධ්‍ය ජාලා හරහා සිදුකරන අක්‍රමිකතා ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-adalk-8b2a3e77)
 
 ---
 
