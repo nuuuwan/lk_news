@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-31 06:03:57",
-  "n_docs": 96129,
+  "time_updated": "2025-12-31 06:30:29",
+  "n_docs": 96135,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 96129,
+  "n_docs_with_text": 96135,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2025-12-31",
-  "dataset_size": 1450392431,
+  "dataset_size": 1450566363,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "si",
     "ta",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-31-dailyftlk-ae32471e",
-    "num": "dailyftlk-ae32471e",
+    "doc_id": "2025-12-31-dailyftlk-12add9bc",
+    "num": "dailyftlk-12add9bc",
     "date_str": "2025-12-31",
-    "description": "Kandy lawyer files FR petition over Ditwah response failures",
-    "url_metadata": "https://www.ft.lk/news/Kandy-lawyer-files-FR-petition-over-Ditwah-response-failures/56-786283",
+    "description": "From flood relief to flood resilience:  Rethinking housing for disaster-affected families",
+    "url_metadata": "https://www.ft.lk/columns/From-flood-relief-to-flood-resilience-Rethinking-housing-for-disaster-affected-families/4-786288",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767139761.0
+    "time_ut": 1767142475.0
   }
 }
