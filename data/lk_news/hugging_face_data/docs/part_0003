@@ -325793,5 +325793,49 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1767142475.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-dailyftlk-8c8bbde8",
+    "num": "dailyftlk-8c8bbde8",
+    "date_str": "2025-12-31",
+    "description": "India\u2019s $450 m reconstruction package after Cyclone Ditwah",
+    "url_metadata": "https://www.ft.lk/columns/India-s-450-m-reconstruction-package-after-Cyclone-Ditwah/4-786289",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767142975.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-dailyftlk-39b0c826",
+    "num": "dailyftlk-39b0c826",
+    "date_str": "2025-12-31",
+    "description": "Telecom networks: Resilience or building back better?",
+    "url_metadata": "https://www.ft.lk/columns/Telecom-networks-Resilience-or-building-back-better/4-786290",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767143631.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-dailyftlk-ad49fae8",
+    "num": "dailyftlk-ad49fae8",
+    "date_str": "2025-12-31",
+    "description": "Sri Lanka Railways after Ditwah: Rebuilding what was decimated; and building what a nation deserves",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-Railways-after-Ditwah-Rebuilding-what-was-decimated-and-building-what-a-nation-deserves/4-786291",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767144262.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-dailyftlk-36eae09e",
+    "num": "dailyftlk-36eae09e",
+    "date_str": "2025-12-31",
+    "description": "The unheard Sirimavo story that matters to business leaders",
+    "url_metadata": "https://www.ft.lk/columns/The-unheard-Sirimavo-story-that-matters-to-business-leaders/4-786292",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767144739.0
   }
 ]

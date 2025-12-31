@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_06:31:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_07:15:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,135** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,139** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-31-dailyftlk-12add9bc",
-    "num": "dailyftlk-12add9bc",
+    "doc_id": "2025-12-31-dailyftlk-36eae09e",
+    "num": "dailyftlk-36eae09e",
     "date_str": "2025-12-31",
-    "description": "From flood relief to flood resilience:  Rethinking housing for disaster-affected families",
-    "url_metadata": "https://www.ft.lk/columns/From-flood-relief-to-flood-resilience-Rethinking-housing-for-disaster-affected-families/4-786288",
+    "description": "The unheard Sirimavo story that matters to business leaders",
+    "url_metadata": "https://www.ft.lk/columns/The-unheard-Sirimavo-story-that-matters-to-business-leaders/4-786292",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767142475.0
+    "time_ut": 1767144739.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-31 | `dailyftlk-36eae09e` | The unheard Sirimavo story that matters to business leaders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-36eae09e)
+- 2025-12-31 | `dailyftlk-ad49fae8` | Sri Lanka Railways after Ditwah: Rebuilding what was decimated; and building what a nation deserves | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-ad49fae8)
+- 2025-12-31 | `dailyftlk-39b0c826` | Telecom networks: Resilience or building back better? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-39b0c826)
+- 2025-12-31 | `dailyftlk-8c8bbde8` | India’s $450 m reconstruction package after Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-8c8bbde8)
 - 2025-12-31 | `dailyftlk-12add9bc` | From flood relief to flood resilience:  Rethinking housing for disaster-affected families | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-12add9bc)
 - 2025-12-31 | `dailyftlk-448eaf0e` | Build back better for a thriving life-rebuilding Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-448eaf0e)
 - 2025-12-31 | `dailyftlk-b577dc82` | A nearly nine-month vacancy and the quiet crisis of accountability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-b577dc82)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2025-12-30 | `islandlk-5cc3fd1d` | CIPM Sri Lanka to host strategic workshop on sustainable performance management for organisational resilience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-islandlk-5cc3fd1d)
 - 2025-12-30 | `islandlk-4f0dcc03` | Construction related counters place share market on firmer ground | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-islandlk-4f0dcc03)
 - 2025-12-30 | `islandlk-5fbd58ed` | ‘Defender even more distinctive and easy to use’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-islandlk-5fbd58ed)
-- 2025-12-30 | `islandlk-5278c5fe` | Sri Lanka Tourism surpasses historic milestone with record tourist arrivals in 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-islandlk-5278c5fe)
-- 2025-12-30 | `tamilmirrorlk-e1ef96c1` | துப்பாக்கிச் சூட்டில் 16 வயது சிறுமி படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-tamilmirrorlk-e1ef96c1)
-- 2025-12-30 | `tamilmirrorlk-17dd69ce` | ஜோன்ஸ்டன் பெர்னாண்டோ தலைமறைவு? 5 பொலிஸ் குழுக்கள் களத்தில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-tamilmirrorlk-17dd69ce)
-- 2025-12-30 | `adalk-f17fa560` | දේශීය ආදායම් දෙපාර්තමේන්තුව ඉතිහාසයේ ඉහළම ආදායම ලබයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-adalk-f17fa560)
 
 ---
 
