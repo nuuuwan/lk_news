@@ -326676,6 +326676,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-31-tamilmirrorlk-1336ab19",
+    "num": "tamilmirrorlk-1336ab19",
+    "date_str": "2025-12-31",
+    "description": "\u0b9a\u0baa\u0bb0\u0bbf\u0bae\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8a\u0b9f\u0b95\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0baa\u0bb0\u0bbf\u0bae\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b8a\u0b9f\u0b95\u0ba4\u0bcd-\u0ba4\u0b9f\u0bc8/175-370343",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767163657.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-31-tamilmirrorlk-ef771b14",
     "num": "tamilmirrorlk-ef771b14",
     "date_str": "2025-12-31",
@@ -326797,6 +326808,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-31-adalk-30603d50",
+    "num": "adalk-30603d50",
+    "date_str": "2025-12-31",
+    "description": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0\u0dda \u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4 \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dcf\u0dbd\u0dca\u0dbd-\u0db1\u0d9c\u0dbb-\u0dc3\u0db7\u0dcf\u0dc0\u0dda-\u0dc0\u0dd2\u0db4\u0d9a\u0dca\u0dc2-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4-\u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-420543",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1767173491.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-31-lankadeepalk-8d11b6cf",
     "num": "lankadeepalk-8d11b6cf",
     "date_str": "2025-12-31",
@@ -326827,5 +326849,38 @@
     "lang": "si",
     "newspaper_id": "lankadeepalk",
     "time_ut": 1767173978.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-tamilmirrorlk-6e47eadf",
+    "num": "tamilmirrorlk-6e47eadf",
+    "date_str": "2025-12-31",
+    "description": "5 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd  \u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bb2\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/5-\u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc7\u0bb2\u0bcd-\u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd-\u0b85\u0bb5\u0bb2\u0bae\u0bcd/175-370353",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767174432.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-adalk-8b2a3e77",
+    "num": "adalk-8b2a3e77",
+    "date_str": "2025-12-31",
+    "description": "\u0dc3\u0db8\u0dcf\u0da2 \u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0da2\u0dcf\u0dbd\u0dcf \u0dc4\u0dbb\u0dc4\u0dcf \u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dbb\u0db1 \u0d85\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dad\u0dcf \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0db8\u0dcf\u0da2-\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0da2\u0dcf\u0dbd\u0dcf-\u0dc4\u0dbb\u0dc4\u0dcf-\u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dbb\u0db1-\u0d85\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dd2\u0d9a\u0dad\u0dcf-\u0d89\u0dc4\u0dc5\u0da7/11-420545",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1767174676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-lankadeepalk-ba0b2196",
+    "num": "lankadeepalk-ba0b2196",
+    "date_str": "2025-12-31",
+    "description": "\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0da2\u0db4\u0dcf\u0db1\u0dba \u0d85\u0db7\u0dd2\u0db6\u0dc0\u0dcf \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d89\u0db1\u0daf\u0dba\u0dc0-\u0da2\u0db4\u0db1\u0dba-\u0d85\u0db7\u0db6\u0dc0-\u0dba\u0dba/1-686059",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1767175456.0
   }
 ]
