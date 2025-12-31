@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_01:47:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_02:19:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,318** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,319** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-01-dailyftlk-0d4dfdb4",
-    "num": "dailyftlk-0d4dfdb4",
+    "doc_id": "2026-01-01-tamilmirrorlk-898a1653",
+    "num": "tamilmirrorlk-898a1653",
     "date_str": "2026-01-01",
-    "description": "India doubles financial commitment to 3 housing projects in North and South",
-    "url_metadata": "https://www.ft.lk/news/India-doubles-financial-commitment-to-3-housing-projects-in-North-and-South/56-786344",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1767207220.0
+    "description": "\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd \u0b85\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb0\u0bc1\u0bae\u0bcd-\u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd-\u0b85\u0b9e\u0bcd\u0b9a\u0bb2\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8/50-370363",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767213632.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-01 | `tamilmirrorlk-898a1653` | நிறைவுக்கு வரும் டென்மார்க் அஞ்சல் சேவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-898a1653)
 - 2026-01-01 | `dailyftlk-0d4dfdb4` | India doubles financial commitment to 3 housing projects in North and South | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-dailyftlk-0d4dfdb4)
 - 2026-01-01 | `dailyftlk-f2ab60a7` | Nearly Rs. 5 b disbursed to paddy farmers hit by Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-dailyftlk-f2ab60a7)
 - 2026-01-01 | `dailyftlk-dcf658b1` | Over Rs. 370 m valued narcotics, 71 persons arrested by Coast Guard in 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-dailyftlk-dcf658b1)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-31 | `virakesarilk-5949c1fc` | வீரகேசரி வாசகர்களுக்கு புத்தாண்டு நல்வாழ்த்துக்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-5949c1fc)
 - 2025-12-31 | `tamilmirrorlk-0f4a1771` | நாடு முழுவதும் 8,000 பொலிஸ் அதிகாரிகள் குவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-tamilmirrorlk-0f4a1771)
 - 2025-12-31 | `virakesarilk-9ff10e55` | புத்தாண்டு கொண்டாட்டத்தை முன்னிட்டு கொழும்பில் விசேட போக்குவரத்து திட்டம்; நாடுமுழுவதும் 8000 பொலிஸார் கடமையில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-9ff10e55)
-- 2025-12-31 | `virakesarilk-dadcd1f0` | இலங்கையை மீளக்கட்டியெழுப்பல் நிதியத்துக்கு சிவில் சமூகப்பிரதிநிதிகளை நியமிக்க அரசாங்கம் நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-dadcd1f0)
 
 ---
 
