@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_17:15:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_17:51:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,262** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,266** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-31-virakesarilk-8483e98c",
-    "num": "virakesarilk-8483e98c",
+    "doc_id": "2025-12-31-lankadeepalk-43d487fb",
+    "num": "lankadeepalk-43d487fb",
     "date_str": "2025-12-31",
-    "description": "\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd ; \u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bae \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8!",
-    "url_metadata": "https://www.virakesari.lk/article/234866",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1767179160.0
+    "description": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2\u0dc0\u0dbb \u0d9a\u0dd2\u0dba\u0dc0\u0dd3\u0db8 \u0dc0\u0dd0\u0da9\u0dd2 \u0da1\u0db1\u0dca\u0daf\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dc5\u0db9-\u0db1\u0d9c\u0dbb-\u0dc3\u0db7-\u0d85\u0dba\u0dc0\u0dba-\u0daf\u0dc0\u0db1\u0dc0\u0dbb-\u0d9a\u0dba\u0dc0\u0db8-\u0dc0\u0da9-\u0da1\u0db1\u0daf\u0dba\u0db1-\u0dc3\u0db8\u0db8\u0dad\u0dba/101-686067",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1767182829.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-31 | `lankadeepalk-43d487fb` | කොළඹ නගර සභා අයවැය දෙවැනිවර කියවීම වැඩි ඡන්දයෙන් සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-lankadeepalk-43d487fb)
+- 2025-12-31 | `tamilmirrorlk-923294ff` | ஆரோக்கியத்தைக் கண்காணிக்கும்நவீன கழிப்பறைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-tamilmirrorlk-923294ff)
+- 2025-12-31 | `adalk-308ce964` | නලින්දගේ ප්‍රකාශයට සජිත් මැදිහත් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-adalk-308ce964)
 - 2025-12-31 | `virakesarilk-8483e98c` | தாக்குதல் சம்பவம் ; மத்துகம பிரதேச சபைத் தலைவருக்கு பிணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-8483e98c)
 - 2025-12-31 | `virakesarilk-28c8ff02` | வடக்கு மாகாண சபைக்குரிய சில திணைக்களங்களுக்கு இன்னமும் நிரந்தரக் கட்டடங்கள் இல்லை - நா.வேதநாயகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-28c8ff02)
 - 2025-12-31 | `virakesarilk-e9b4529f` | கோடாவுடன் ஒருவர் கைது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-e9b4529f)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2025-12-31 | `lankadeepalk-ba0b2196` | ඉන්දියාව ජපානය අභිබවා යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-lankadeepalk-ba0b2196)
 - 2025-12-31 | `adalk-7d5283fd` | වකුගඩු රෝගීන්ගේ සංගමයට ඩඩ්ලිගෙන් රු. ලක්ෂ සියයක පරිත්‍යාගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-adalk-7d5283fd)
 - 2025-12-31 | `adalk-8b2a3e77` | සමාජ මාධ්‍ය ජාලා හරහා සිදුකරන අක්‍රමිකතා ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-adalk-8b2a3e77)
-- 2025-12-31 | `virakesarilk-919bd15a` | ஜோன்ஸ்டன் பெர்னாண்டோவின் மகனுக்கு விளக்கமறியல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-919bd15a)
-- 2025-12-31 | `tamilmirrorlk-6e47eadf` | 5 வருடங்களுக்கு மேல்  ஏமாற்றப்படும் அவலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-tamilmirrorlk-6e47eadf)
-- 2025-12-31 | `virakesarilk-225760fa` | 2026 ஒரு சவாலான ஆண்டு ; ஐக்கிய மக்கள் சக்தி கூட்டணி விரைவில் மலரும் - எஸ்.எம். மரிக்கார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-225760fa)
 
 ---
 

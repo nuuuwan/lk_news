@@ -326654,6 +326654,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-31-colombotelegraphcom-5e146326",
+    "num": "colombotelegraphcom-5e146326",
+    "date_str": "2025-12-31",
+    "description": "The Queen Of Songs Of Lanka & A Few Of My Experiences",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/the-queen-of-songs-of-lanka-a-few-of-my-experiences/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1767163477.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-31-tamilmirrorlk-5578b068",
     "num": "tamilmirrorlk-5578b068",
     "date_str": "2025-12-31",
@@ -327190,5 +327201,38 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767179160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-adalk-308ce964",
+    "num": "adalk-308ce964",
+    "date_str": "2025-12-31",
+    "description": "\u0db1\u0dbd\u0dd2\u0db1\u0dca\u0daf\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7 \u0dc3\u0da2\u0dd2\u0dad\u0dca \u0db8\u0dd0\u0daf\u0dd2\u0dc4\u0dad\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dbd\u0dd2\u0db1\u0dca\u0daf\u0d9c\u0dda-\u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dc1\u0dba\u0da7-\u0dc3\u0da2\u0dd2\u0dad\u0dca-\u0db8\u0dd0\u0daf\u0dd2\u0dc4\u0dad\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/11-420550",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1767179186.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-tamilmirrorlk-923294ff",
+    "num": "tamilmirrorlk-923294ff",
+    "date_str": "2025-12-31",
+    "description": "\u0b86\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd\u0ba8\u0bb5\u0bc0\u0ba9 \u0b95\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bb1\u0bc8\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/science-tech/\u0b86\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bcd-\u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd\u0ba8\u0bb5\u0bc0\u0ba9-\u0b95\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bb1\u0bc8\u0b95\u0bb3\u0bcd/57-370357",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767182639.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-lankadeepalk-43d487fb",
+    "num": "lankadeepalk-43d487fb",
+    "date_str": "2025-12-31",
+    "description": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf \u0d85\u0dba\u0dc0\u0dd0\u0dba \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2\u0dc0\u0dbb \u0d9a\u0dd2\u0dba\u0dc0\u0dd3\u0db8 \u0dc0\u0dd0\u0da9\u0dd2 \u0da1\u0db1\u0dca\u0daf\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dca\u0db8\u0dad\u0dba\u0dd2",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9a\u0dc5\u0db9-\u0db1\u0d9c\u0dbb-\u0dc3\u0db7-\u0d85\u0dba\u0dc0\u0dba-\u0daf\u0dc0\u0db1\u0dc0\u0dbb-\u0d9a\u0dba\u0dc0\u0db8-\u0dc0\u0da9-\u0da1\u0db1\u0daf\u0dba\u0db1-\u0dc3\u0db8\u0db8\u0dad\u0dba/101-686067",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1767182829.0
   }
 ]

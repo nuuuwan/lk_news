@@ -1,4 +1,7 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2025-12-31-lankadeepalk-43d487fb	lankadeepalk-43d487fb	2025-12-31	කොළඹ නගර සභා අයවැය දෙවැනිවර කියවීම වැඩි ඡන්දයෙන් සම්මතයි	https://www.lankadeepa.lk/news/කළඹ-නගර-සභ-අයවය-දවනවර-කයවම-වඩ-ඡනදයන-සමමතය/101-686067	si	lankadeepalk	1767182829.0
+lk_news	2025-12-31-tamilmirrorlk-923294ff	tamilmirrorlk-923294ff	2025-12-31	ஆரோக்கியத்தைக் கண்காணிக்கும்நவீன கழிப்பறைகள்	https://www.tamilmirror.lk/science-tech/ஆரோக்கியத்தைக்-கண்காணிக்கும்நவீன-கழிப்பறைகள்/57-370357	ta	tamilmirrorlk	1767182639.0
+lk_news	2025-12-31-adalk-308ce964	adalk-308ce964	2025-12-31	නලින්දගේ ප්‍රකාශයට සජිත් මැදිහත් වෙයි	https://www.ada.lk/breaking_news/නලින්දගේ-ප්‍රකාශයට-සජිත්-මැදිහත්-වෙයි/11-420550	si	adalk	1767179186.0
 lk_news	2025-12-31-virakesarilk-8483e98c	virakesarilk-8483e98c	2025-12-31	தாக்குதல் சம்பவம் ; மத்துகம பிரதேச சபைத் தலைவருக்கு பிணை!	https://www.virakesari.lk/article/234866	ta	virakesarilk	1767179160.0
 lk_news	2025-12-31-virakesarilk-28c8ff02	virakesarilk-28c8ff02	2025-12-31	வடக்கு மாகாண சபைக்குரிய சில திணைக்களங்களுக்கு இன்னமும் நிரந்தரக் கட்டடங்கள் இல்லை - நா.வேதநாயகன்	https://www.virakesari.lk/article/234862	ta	virakesarilk	1767179100.0
 lk_news	2025-12-31-virakesarilk-e9b4529f	virakesarilk-e9b4529f	2025-12-31	கோடாவுடன் ஒருவர் கைது !	https://www.virakesari.lk/article/234858	ta	virakesarilk	1767179040.0
@@ -48,6 +51,7 @@ lk_news	2025-12-31-tamilmirrorlk-ef771b14	tamilmirrorlk-ef771b14	2025-12-31	ச�
 lk_news	2025-12-31-tamilmirrorlk-1336ab19	tamilmirrorlk-1336ab19	2025-12-31	சபரிமலையில் ஊடகத் தடை	https://www.tamilmirror.lk/செய்திகள்/சபரிமலையில்-ஊடகத்-தடை/175-370343	ta	tamilmirrorlk	1767163657.0
 lk_news	2025-12-31-adalk-03c3eb2e	adalk-03c3eb2e	2025-12-31	කොළඹ මහ නගර සභාවේ අය- වැය සම්මත වෙයි	https://www.ada.lk/breaking_news/කොළඹ-මහ-නගර-සභාවේ-අය--වැය-සම්මත-වෙයි/11-420541	si	adalk	1767163541.0
 lk_news	2025-12-31-tamilmirrorlk-5578b068	tamilmirrorlk-5578b068	2025-12-31	CMC பட்ஜெட் நிறைவேற்றம்	https://www.tamilmirror.lk/செய்திகள்/CMC-பட்ஜெட்-நிறைவேற்றம்/175-370342	ta	tamilmirrorlk	1767163535.0
+lk_news	2025-12-31-colombotelegraphcom-5e146326	colombotelegraphcom-5e146326	2025-12-31	The Queen Of Songs Of Lanka & A Few Of My Experiences	https://www.colombotelegraph.com/index.php/the-queen-of-songs-of-lanka-a-few-of-my-experiences/	en	colombotelegraphcom	1767163477.0
 lk_news	2025-12-31-virakesarilk-ba447c75	virakesarilk-ba447c75	2025-12-31	கொழும்பு மாநகர சபையின் வரவு - செலவு திட்டம் வெற்றி!	https://www.virakesari.lk/article/234825	ta	virakesarilk	1767163200.0
 lk_news	2025-12-31-tamilmirrorlk-be8f5e83	tamilmirrorlk-be8f5e83	2025-12-31	CMC ஊழலை விசாரிக்க ஜனாதிபதி ஆணைக்குழு	https://www.tamilmirror.lk/செய்திகள்/CMC-ஊழலை-விசாரிக்க-ஜனாதிபதி-ஆணைக்குழு/175-370340	ta	tamilmirrorlk	1767162796.0
 lk_news	2025-12-31-virakesarilk-a856447b	virakesarilk-a856447b	2025-12-31	பொல்பித்திகம   பகுதியில் ஒருவர் மரணம் ; விசாரணையில் கொலை என உறுதி	https://www.virakesari.lk/article/234823	ta	virakesarilk	1767162780.0
@@ -9997,7 +10001,3 @@ lk_news	2025-11-12-virakesarilk-06cb7813	virakesarilk-06cb7813	2025-11-12	தெ
 lk_news	2025-11-12-virakesarilk-a774c73f	virakesarilk-a774c73f	2025-11-12	சுங்கத்தில் தடுத்துவைக்கப்பட்ட குர்ஆன் பிரதிகளை உடனடியாக விடுவிக்க வேண்டும் - காதர் மஸ்தான்	https://www.virakesari.lk/article/230156	ta	virakesarilk	1762937700.0
 lk_news	2025-11-12-lankadeepalk-e537a6c6	lankadeepalk-e537a6c6	2025-11-12	හැඳුනුම්පත් නිකුතුව කඩිනම් කරන්නැයි ජනපති නියෝග	https://www.lankadeepa.lk/news/හඳනමපත-නකතව-කඩනම-කරනනය-ජනපත-නයග/101-683050	si	lankadeepalk	1762937644.0
 lk_news	2025-11-12-virakesarilk-7d4d4335	virakesarilk-7d4d4335	2025-11-12	போதைப்பொருளுடன் கைதுசெய்யப்பட்ட பாடசாலை அதிபருக்கு விளக்கமறியல்!	https://www.virakesari.lk/article/230161	ta	virakesarilk	1762937580.0
-lk_news	2025-11-12-lankadeepalk-fd043bc3	lankadeepalk-fd043bc3	2025-11-12	බේරේ වැව සුද්ද කරන්න රොබෝ  තාක්ෂණය	https://www.lankadeepa.lk/news/බර-වව-සදද-කරනන-රබ-තකෂණය/101-683049	si	lankadeepalk	1762937382.0
-lk_news	2025-11-12-virakesarilk-6e8feb10	virakesarilk-6e8feb10	2025-11-12	இன்றைய நாணய மாற்று விகிதம்	https://www.virakesari.lk/article/230159	ta	virakesarilk	1762936380.0
-lk_news	2025-11-12-virakesarilk-403d5a58	virakesarilk-403d5a58	2025-11-12	சிறுமியை பாலியல் துஸ்பிரயோகம் செய்த சந்தேகநபர் ஒரு வருடத்திற்குப் பின்னர் கைது!	https://www.virakesari.lk/article/230149	ta	virakesarilk	1762936320.0
-lk_news	2025-11-12-virakesarilk-6175b205	virakesarilk-6175b205	2025-11-12	போதைப்பொருள் வைத்திருந்த இளைஞனுக்கு தடுப்புக்காவல்	https://www.virakesari.lk/article/230148	ta	virakesarilk	1762936260.0
