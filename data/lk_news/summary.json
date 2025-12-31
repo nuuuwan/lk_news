@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2025-12-31 23:48:36",
-  "n_docs": 96298,
+  "time_updated": "2026-01-01 00:24:18",
+  "n_docs": 96315,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 96298,
+  "n_docs_with_text": 96315,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2025-12-31",
-  "dataset_size": 1453530302,
+  "date_str_max": "2026-01-01",
+  "dataset_size": 1453613149,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-31-tamilmirrorlk-0f4a1771",
-    "num": "tamilmirrorlk-0f4a1771",
-    "date_str": "2025-12-31",
-    "description": "\u0ba8\u0bbe\u0b9f\u0bc1 \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd 8,000 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bc1-\u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd-8-000-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd-\u0b95\u0bc1\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-370360",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767199418.0
+    "doc_id": "2026-01-01-dailyftlk-f2ab60a7",
+    "num": "dailyftlk-f2ab60a7",
+    "date_str": "2026-01-01",
+    "description": "Nearly Rs. 5 b disbursed to paddy farmers hit by Cyclone Ditwah",
+    "url_metadata": "https://www.ft.lk/news/Nearly-Rs-5-b-disbursed-to-paddy-farmers-hit-by-Cyclone-Ditwah/56-786343",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767207157.0
   }
 }
