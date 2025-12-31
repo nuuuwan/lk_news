@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_18:29:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_18:57:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,281** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,286** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-31-lankadeepalk-bea3547a",
-    "num": "lankadeepalk-bea3547a",
+    "doc_id": "2025-12-31-tamilmirrorlk-02ab2c0c",
+    "num": "tamilmirrorlk-02ab2c0c",
     "date_str": "2025-12-31",
-    "description": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd \u0db1\u0d9c\u0dbb\u0dc3\u0db7\u0dcf \u0d9a\u0dbd\u0db6\u0dbd\u0dba\u0da7 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dad\u0dca \u0db4\u0dd2\u0dbb\u0dd2\u0dc3\u0da7 \u0d87\u0db4",
-    "url_metadata": "https://www.lankadeepa.lk/news/\u0d9c\u0dbd\u0dbd-\u0db1\u0d9c\u0dbb\u0dc3\u0db7-\u0d9a\u0dbd\u0db6\u0dbd\u0dba\u0da7-\u0d85\u0dad\u0d85\u0da9\u0d9c\u0dc0\u0da7-\u0d9c\u0dad-\u0db4\u0dbb\u0dc3\u0da7-\u0d87\u0db4/101-686075",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1767185455.0
+    "description": "\u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bb5\u0ba4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bbe\u0b95 2026-\u0b90 \u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1 \u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf \u0ba4\u0bc0\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bb5\u0ba4\u0bc1-\u0ba8\u0bbe\u0b9f\u0bbe\u0b95-2026-\u0b90-\u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1-\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf-\u0ba4\u0bc0\u0bb5\u0bc1/50-370359",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767186979.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-31 | `tamilmirrorlk-02ab2c0c` | முதலாவது நாடாக 2026-ஐ வரவேற்றது கிரிபாட்டி தீவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-tamilmirrorlk-02ab2c0c)
+- 2025-12-31 | `tamilmirrorlk-efc06f93` | மழை குறித்து இன்று மாலை வெளியான விசேட அறிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-tamilmirrorlk-efc06f93)
 - 2025-12-31 | `lankadeepalk-bea3547a` | ගාල්ල නගරසභා කලබලයට අත්අඩංගුවට ගත් පිරිසට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-lankadeepalk-bea3547a)
 - 2025-12-31 | `virakesarilk-e381e88d` | புது வருடத்தின் முதலாவது பாராளுமன்ற அமர்வு ஜனவரி ஆறாம் திகதி முதல் ஒன்பதாம் திகதி வரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-e381e88d)
 - 2025-12-31 | `lankadeepalk-43d487fb` | කොළඹ නගර සභා අයවැය දෙවැනිවර කියවීම වැඩි ඡන්දයෙන් සම්මතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-lankadeepalk-43d487fb)
@@ -58,9 +60,7 @@ A collection of lk_news documents.
 - 2025-12-31 | `virakesarilk-8483e98c` | தாக்குதல் சம்பவம் ; மத்துகம பிரதேச சபைத் தலைவருக்கு பிணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-8483e98c)
 - 2025-12-31 | `virakesarilk-28c8ff02` | வடக்கு மாகாண சபைக்குரிய சில திணைக்களங்களுக்கு இன்னமும் நிரந்தரக் கட்டடங்கள் இல்லை - நா.வேதநாயகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-28c8ff02)
 - 2025-12-31 | `virakesarilk-e9b4529f` | கோடாவுடன் ஒருவர் கைது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-e9b4529f)
-- 2025-12-31 | `virakesarilk-fabb2680` | புதிய சிறைச்சாலைகள் ஊடகப் பேச்சாளராக ஏ.சி. கஜநாயக்க நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-fabb2680)
-- 2025-12-31 | `adalk-47fcc0d4` | කිරිබාති මුලින්ම 2026 පිළිගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-adalk-47fcc0d4)
-- 2025-12-31 | `virakesarilk-504a28c9` | இணையவழி நிதி மோசடிகள் தொடர்பில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு பொலிஸ் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-504a28c9)
+- 2025-12-31 | `adalk-96d22501` | නව වසරේ පළමු පාර්ලිමේන්තු රැස්වීම ජනවාරි 6 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-adalk-96d22501)
 
 ---
 
