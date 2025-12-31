@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_07:15:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--31_08:22:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,139** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,161** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2025-12-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2025-12-31-dailyftlk-36eae09e",
-    "num": "dailyftlk-36eae09e",
+    "doc_id": "2025-12-31-tamilmirrorlk-85ec93a2",
+    "num": "tamilmirrorlk-85ec93a2",
     "date_str": "2025-12-31",
-    "description": "The unheard Sirimavo story that matters to business leaders",
-    "url_metadata": "https://www.ft.lk/columns/The-unheard-Sirimavo-story-that-matters-to-business-leaders/4-786292",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1767144739.0
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 75 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf \u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0bae\u0bb4\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-75-\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf-\u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd-\u0bae\u0bb4\u0bc8/175-370321",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767149219.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2025-12-31 | `dailyftlk-36eae09e` | The unheard Sirimavo story that matters to business leaders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-36eae09e)
-- 2025-12-31 | `dailyftlk-ad49fae8` | Sri Lanka Railways after Ditwah: Rebuilding what was decimated; and building what a nation deserves | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-ad49fae8)
-- 2025-12-31 | `dailyftlk-39b0c826` | Telecom networks: Resilience or building back better? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-39b0c826)
-- 2025-12-31 | `dailyftlk-8c8bbde8` | India’s $450 m reconstruction package after Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-8c8bbde8)
-- 2025-12-31 | `dailyftlk-12add9bc` | From flood relief to flood resilience:  Rethinking housing for disaster-affected families | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-12add9bc)
-- 2025-12-31 | `dailyftlk-448eaf0e` | Build back better for a thriving life-rebuilding Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-448eaf0e)
-- 2025-12-31 | `dailyftlk-b577dc82` | A nearly nine-month vacancy and the quiet crisis of accountability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-b577dc82)
-- 2025-12-31 | `dailyftlk-85b2da9c` | Disaster and civic responsibility-Part I | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-85b2da9c)
-- 2025-12-31 | `dailyftlk-ae32471e` | Kandy lawyer files FR petition over Ditwah response failures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-ae32471e)
-- 2025-12-31 | `dailyftlk-27b80f7c` | Sri Lanka-born UK Don Nishan Canagarajah knighted | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-27b80f7c)
-- 2025-12-31 | `dailyftlk-82fb6881` | Police probe bomb threat emails to State offices, Qatar Airways flight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-82fb6881)
-- 2025-12-31 | `virakesarilk-1cc33977` | மகளிர் சர்வதேச ரி20இல் அதிக விக்கெட்களை வீழ்த்தியவர் என்ற சாதனையை தீப்தி ஷர்மா நிலைநாட்டினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-1cc33977)
-- 2025-12-31 | `virakesarilk-8c53abd2` | இந்தியாவுடனான ரி20 தொடரில் முழுமையாகத் தோல்வி அடைந்து வெறுங்கையுடன் நாடு திரும்புகிறது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-8c53abd2)
-- 2025-12-31 | `virakesarilk-436473e5` | கொஹுவலையில் வீடு ஒன்றை குறிவைத்து துப்பாக்கிச் சூடு – சிறுமி படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-436473e5)
-- 2025-12-31 | `tamilmirrorlk-4916db16` | கடலில் மூழ்கிய இளைஞர் சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-tamilmirrorlk-4916db16)
-- 2025-12-31 | `tamilmirrorlk-9cca622f` | விமான நிலையத்தில் தானியங்கி நுழைவாயில்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-tamilmirrorlk-9cca622f)
-- 2025-12-30 | `islandlk-e377887b` | ComBank and Mastercard launch Sri Lanka’s first Dynamic Currency Conversion for online payments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-islandlk-e377887b)
-- 2025-12-30 | `islandlk-5cc3fd1d` | CIPM Sri Lanka to host strategic workshop on sustainable performance management for organisational resilience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-islandlk-5cc3fd1d)
-- 2025-12-30 | `islandlk-4f0dcc03` | Construction related counters place share market on firmer ground | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-islandlk-4f0dcc03)
-- 2025-12-30 | `islandlk-5fbd58ed` | ‘Defender even more distinctive and easy to use’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-30-islandlk-5fbd58ed)
+- 2025-12-31 | `tamilmirrorlk-85ec93a2` | இன்று 75 மில்லி மீற்றர் மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-tamilmirrorlk-85ec93a2)
+- 2025-12-31 | `lankadeepalk-408dab4d` | කොහුවල වෙඩි තැබීමකින් තරුණියක් රෝහලේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-lankadeepalk-408dab4d)
+- 2025-12-31 | `dailyftlk-c3785a77` | United Motors donates Rs. 10 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-c3785a77)
+- 2025-12-31 | `dailyftlk-a00254d0` | Container Transport Owners give  Rs. 1.5 m to Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-a00254d0)
+- 2025-12-31 | `dailyftlk-ba1937f8` | SriLankan Airlines Licenced Aircraft Engineers donate Rs. 1.35 m to Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-ba1937f8)
+- 2025-12-31 | `dailyftlk-d0c1f28f` | Employers’ Federation of Ceylon donates Rs. 1 m to “Rebuilding Sri Lanka” Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-d0c1f28f)
+- 2025-12-31 | `dailyftlk-1703ac4d` | Janandi Sandanika donates Rs. 10 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-1703ac4d)
+- 2025-12-31 | `dailyftlk-28352a84` | Ace Bangladesh contributes to disaster relief efforts in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-28352a84)
+- 2025-12-31 | `dailyftlk-2326352b` | Communist Party of China donates  RMB 1 m to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-2326352b)
+- 2025-12-31 | `dailyftlk-4cf7b94f` | Water tank refurbishment in Poonakary by Appé Lanka Foundation boosts farming and livelihoods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-4cf7b94f)
+- 2025-12-31 | `tamilmirrorlk-04f56c6c` | புடினின் இல்லம் மீதான தாக்குதலுக்கு மோடி கவலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-tamilmirrorlk-04f56c6c)
+- 2025-12-31 | `dailyftlk-7a126fde` | Sri Lanka to be host destination after 21 years for Rotary Institute 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-7a126fde)
+- 2025-12-31 | `dailyftlk-b7950ca0` | Tuli Cooray no more | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-b7950ca0)
+- 2025-12-31 | `tamilmirrorlk-a322f8fc` | பங்களாதேஷில் மேலும் ஓர் இந்து நபர் சுட்டுக் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-tamilmirrorlk-a322f8fc)
+- 2025-12-31 | `dailyftlk-ee776eeb` | SL shines at 3rd International Food and Agriculture Exhibition FoodAG 2025 in Karachi | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-ee776eeb)
+- 2025-12-31 | `dailyftlk-fce06759` | Cabinet clears liquidation of Sahasya Investment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-fce06759)
+- 2025-12-31 | `lankadeepalk-6f5a17ba` | නාගොඩ රෝහලේ වෙඩි තැබීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-lankadeepalk-6f5a17ba)
+- 2025-12-31 | `dailyftlk-ee178011` | Aasiri Gunasekera ends 40-year plus stint at E&Y | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-ee178011)
+- 2025-12-31 | `dailyftlk-198ee700` | Singer expands luxury footprint with grand unveiling of ‘Signature by Singer’ at One Galle Face | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-198ee700)
+- 2025-12-31 | `dailyftlk-c2a5671c` | Myland gets new Chairperson | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-c2a5671c)
 
 ---
 
