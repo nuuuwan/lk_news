@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_00:25:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_00:46:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,315** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,316** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-01-dailyftlk-f2ab60a7",
-    "num": "dailyftlk-f2ab60a7",
+    "doc_id": "2026-01-01-dailyftlk-0d4dfdb4",
+    "num": "dailyftlk-0d4dfdb4",
     "date_str": "2026-01-01",
-    "description": "Nearly Rs. 5 b disbursed to paddy farmers hit by Cyclone Ditwah",
-    "url_metadata": "https://www.ft.lk/news/Nearly-Rs-5-b-disbursed-to-paddy-farmers-hit-by-Cyclone-Ditwah/56-786343",
+    "description": "India doubles financial commitment to 3 housing projects in North and South",
+    "url_metadata": "https://www.ft.lk/news/India-doubles-financial-commitment-to-3-housing-projects-in-North-and-South/56-786344",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767207157.0
+    "time_ut": 1767207220.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-01 | `dailyftlk-0d4dfdb4` | India doubles financial commitment to 3 housing projects in North and South | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-dailyftlk-0d4dfdb4)
 - 2026-01-01 | `dailyftlk-f2ab60a7` | Nearly Rs. 5 b disbursed to paddy farmers hit by Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-dailyftlk-f2ab60a7)
 - 2026-01-01 | `dailyftlk-dcf658b1` | Over Rs. 370 m valued narcotics, 71 persons arrested by Coast Guard in 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-dailyftlk-dcf658b1)
 - 2026-01-01 | `dailyftlk-c85c4df0` | CMC budget clears narrowly as SLMC suspends councillor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-dailyftlk-c85c4df0)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2025-12-31 | `virakesarilk-9ff10e55` | புத்தாண்டு கொண்டாட்டத்தை முன்னிட்டு கொழும்பில் விசேட போக்குவரத்து திட்டம்; நாடுமுழுவதும் 8000 பொலிஸார் கடமையில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-9ff10e55)
 - 2025-12-31 | `virakesarilk-dadcd1f0` | இலங்கையை மீளக்கட்டியெழுப்பல் நிதியத்துக்கு சிவில் சமூகப்பிரதிநிதிகளை நியமிக்க அரசாங்கம் நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-dadcd1f0)
 - 2025-12-31 | `virakesarilk-ff33a174` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு இலங்கை வங்கி  500 மில்லியன் ரூபா நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-ff33a174)
-- 2025-12-31 | `virakesarilk-1266034a` | காலி மாநகர சபை பெண் செயலாளர் மீது குடிநீர் தாக்குதல் பெண் உறுப்பினர் உட்பட ஐவர் கைது செய்யப்பட்டு பிணையில் விடுதலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-virakesarilk-1266034a)
 
 ---
 
