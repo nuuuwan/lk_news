@@ -327798,6 +327798,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-31-islandlk-096a50b6",
+    "num": "islandlk-096a50b6",
+    "date_str": "2025-12-31",
+    "description": "SEC Sri Lanka eases Minimum Public Holding Rules for listings via introductions to boost market flexibility",
+    "url_metadata": "http://island.lk/sec-sri-lanka-eases-minimum-public-holding-rules-for-listings-via-introductions-to-boost-market-flexibility/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767197820.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-31-islandlk-d8f785b0",
     "num": "islandlk-d8f785b0",
     "date_str": "2025-12-31",
@@ -328220,14 +328231,4 @@
     "num": "lankadeepalk-f720022a",
     "date_str": "2026-01-01",
     "description": "\u0d85\u0daf \u0da7\u0dd2\u0d9a\u0d9a\u0dca \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dda",
-    "url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d85\u0daf-\u0da7\u0d9a\u0d9a-\u0dc0\u0dc3\u0dc3-\u0dc0\u0da9-\u0dc0/1-686083",
-    "lang": "si",
-    "newspaper_id": "lankadeepalk",
-    "time_ut": 1767232227.0
-  },
-  {
-    "doc_type": "lk_news",
-    "doc_id": "2026-01-01-adalk-1f94d870",
-    "num": "adalk-1f94d870",
-    "date_str": "2026-01-01",
-    "description": "\u0daf\u0dbb\u0dd4 \u0d8b\u0db4\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7 \u0d8b\u0db4\u
+    "

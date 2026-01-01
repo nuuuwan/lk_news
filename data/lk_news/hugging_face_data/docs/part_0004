@@ -1,4 +1,14 @@
-0dad\u0dca \u0db4\u0dcf\u0dbd\u0db1 \u0d9a\u0dca\u200d\u0dbb\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0da0\u0dd2\u0db1\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 13\u0d9a \u0db6\u0daf\u0dca\u0daf\u0d9a\u0dca \u0d85\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+url_metadata": "https://www.lankadeepa.lk/latest_news/\u0d85\u0daf-\u0da7\u0d9a\u0d9a-\u0dc0\u0dc3\u0dc3-\u0dc0\u0da9-\u0dc0/1-686083",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1767232227.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-01-adalk-1f94d870",
+    "num": "adalk-1f94d870",
+    "date_str": "2026-01-01",
+    "description": "\u0daf\u0dbb\u0dd4 \u0d8b\u0db4\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7 \u0d8b\u0db4\u0dad\u0dca \u0db4\u0dcf\u0dbd\u0db1 \u0d9a\u0dca\u200d\u0dbb\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0da0\u0dd2\u0db1\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 13\u0d9a \u0db6\u0daf\u0dca\u0daf\u0d9a\u0dca \u0d85\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
     "url_metadata": "https://www.ada.lk/international/\u0daf\u0dbb\u0dd4-\u0d8b\u0db4\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7-\u0d8b\u0db4\u0dad\u0dca-\u0db4\u0dcf\u0dbd\u0db1-\u0d9a\u0dca\u200d\u0dbb\u0db8-\u0dc3\u0db3\u0dc4\u0dcf-\u0da0\u0dd2\u0db1\u0dba-\u0dc3\u0dd2\u0dba\u0dba\u0da7-13\u0d9a-\u0db6\u0daf\u0dca\u0daf\u0d9a\u0dca-\u0d85\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/3-420557",
     "lang": "si",
     "newspaper_id": "adalk",
@@ -1293,6 +1303,61 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-01-islandlk-7efddbe1",
+    "num": "islandlk-7efddbe1",
+    "date_str": "2026-01-01",
+    "description": "From Awards to World Stages: Colombo Coffee Company\u2019s historic year of leadership, growth, and global impact",
+    "url_metadata": "http://island.lk/from-awards-to-world-stages-colombo-coffee-companys-historic-year-of-leadership-growth-and-global-impact/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767276780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-01-islandlk-95796d4d",
+    "num": "islandlk-95796d4d",
+    "date_str": "2026-01-01",
+    "description": "Hameedia Holidays brings the spirit of the season to life",
+    "url_metadata": "http://island.lk/hameedia-holidays-brings-the-spirit-of-the-season-to-life/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767276780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-01-islandlk-7dc48659",
+    "num": "islandlk-7dc48659",
+    "date_str": "2026-01-01",
+    "description": "eMudhra and LankaSign announce strategic partnership to make digital signing seamless",
+    "url_metadata": "http://island.lk/emudhra-and-lankasign-announce-strategic-partnership-to-make-digital-signing-seamless/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767276840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-01-islandlk-b47e9c11",
+    "num": "islandlk-b47e9c11",
+    "date_str": "2026-01-01",
+    "description": "NDB Bank contributes to the Rebuild Sri Lanka Fund, strengthening hope and resilience",
+    "url_metadata": "http://island.lk/ndb-bank-contributes-to-the-rebuild-sri-lanka-fund-strengthening-hope-and-resilience/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767276840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-01-islandlk-bbf5baf4",
+    "num": "islandlk-bbf5baf4",
+    "date_str": "2026-01-01",
+    "description": "Mathisha Hewavitharana appointed Chief Executive Officer as veteran Ananda Seneviratne concludes his tenure as Managing Director",
+    "url_metadata": "http://island.lk/mathisha-hewavitharana-appointed-chief-executive-officer-as-veteran-ananda-seneviratne-concludes-his-tenure-as-managing-director/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767276840.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-01-tamilmirrorlk-c974ebeb",
     "num": "tamilmirrorlk-c974ebeb",
     "date_str": "2026-01-01",
@@ -1323,6 +1388,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767279480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-01-islandlk-c8e01c99",
+    "num": "islandlk-c8e01c99",
+    "date_str": "2026-01-01",
+    "description": "ITC Ratnadipa awarded prestigious 5-Star Classification by Sri Lanka Tourism Development Authority",
+    "url_metadata": "http://island.lk/itc-ratnadipa-awarded-prestigious-5-star-classification-by-sri-lanka-tourism-development-authority/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767280320.0
   },
   {
     "doc_type": "lk_news",
@@ -1609,5 +1685,16 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1767308557.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-virakesarilk-0fb7cb51",
+    "num": "virakesarilk-0fb7cb51",
+    "date_str": "2026-01-02",
+    "description": "2026 \u0b87\u0bb2\u0bcd \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1 \u2013 \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/234996",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1767310440.0
   }
 ]
