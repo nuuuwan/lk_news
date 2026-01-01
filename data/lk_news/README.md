@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_19:46:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_20:19:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,464** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,468** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-01-tamilmirrorlk-3fda05cd",
-    "num": "tamilmirrorlk-3fda05cd",
+    "doc_id": "2026-01-01-tamilmirrorlk-fd44352f",
+    "num": "tamilmirrorlk-fd44352f",
     "date_str": "2026-01-01",
-    "description": "\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bbf\u0baf \u0baa\u0bbe\u0b9f \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd : \u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bb2\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bbf\u0baf-\u0baa\u0bbe\u0b9f-\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd-\u0baa\u0bc7\u0bb0\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd-\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd-\u0baa\u0ba4\u0bb5\u0bbf-\u0bb5\u0bbf\u0bb2\u0b95\u0bb2\u0bcd/175-370400",
+    "description": "\u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b87\u0bb4\u0ba8\u0bcd\u0ba4 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc8-\u0b87\u0bb4\u0ba8\u0bcd\u0ba4-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/175-370414",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767276124.0
+    "time_ut": 1767278529.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-01 | `tamilmirrorlk-fd44352f` | வீடுகளை இழந்த மக்களை சந்தித்தார் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-fd44352f)
+- 2026-01-01 | `tamilmirrorlk-c974ebeb` | 2026 பற்றி பாபா வங்காவின் பீதியை கிளப்பும் கணிப்புகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-c974ebeb)
 - 2026-01-01 | `tamilmirrorlk-3fda05cd` | சர்ச்சைக்குரிய பாட புத்தகம் : பேராசிரியர் திடீர் பதவி விலகல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-3fda05cd)
 - 2026-01-01 | `lankadeepalk-fb3a284c` | පශ්චාත් ආපදා කළමනාකරණයට  පිහිට වූ මිතුරු රටවල් ගැන සැකද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-fb3a284c)
 - 2026-01-01 | `tamilmirrorlk-eb5336dc` | மாவனெல்லையில் மூவர் படுகொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-eb5336dc)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-01-01 | `virakesarilk-3d3579ac` | கார்கில்ஸ் வங்கி தெஹிவளை கடற்கரையை சுத்தம் செய்கிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-3d3579ac)
 - 2026-01-01 | `lankadeepalk-b2458771` | ගොවියා වෙනුවෙන් ඔඩපණ ණය යෝජනා ක්‍රමය එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-b2458771)
 - 2026-01-01 | `virakesarilk-8e700f88` | புதிய குடியேற்ற விதிமுறைகளை அறிவித்தது பிரித்தானியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-8e700f88)
-- 2026-01-01 | `tamilmirrorlk-b57f8675` | நாய் இறைச்சி ஆட்டு இறைச்சியுடன் கலப்படம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-b57f8675)
-- 2026-01-01 | `tamilmirrorlk-04e1cdf7` | ஆட்டு இறைச்சியுடன் நாய் இறைச்சி கலப்படம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-04e1cdf7)
 
 ---
 
