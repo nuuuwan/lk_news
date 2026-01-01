@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_06:32:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_07:17:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,344** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,346** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2026-01-01 | `dailyftlk-dffd866e` | From 2026 to 2029: Winning strategy for Sajith and Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-dailyftlk-dffd866e)
 - 2026-01-01 | `virakesarilk-35c210bb` | தேசிய பொலிஸ் ஆணைக்குழுவின் உறுப்பினராக மேஜர் ஜெனரல் தர்ஷன ஹெட்டியாராச்சியை நியமிக்க முஸ்தீபு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-35c210bb)
 - 2026-01-01 | `virakesarilk-24a44168` | கொழும்பு மாநகரசபை வரவு செலவு திட்டத்துக்கு ஆதரவாக வாக்களித்த SLMC உறுப்பினர் ஸொஹாரா புஹாரியின் கட்சி உறுப்பினர் பதவி இடைநிறுத்தம் - நிஸாம் காரியப்பர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-24a44168)
+- 2026-01-01 | `tamilmirrorlk-75c7b0b4` | பிரதமரின் புத்தாண்டு வாழ்த்துச்செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-75c7b0b4)
 - 2026-01-01 | `tamilmirrorlk-1f3d01a2` | ஜனாதிபதி புத்தாண்டு வாழ்த்துச் செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-1f3d01a2)
 - 2026-01-01 | `tamilmirrorlk-898a1653` | நிறைவுக்கு வரும் டென்மார்க் அஞ்சல் சேவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-898a1653)
 - 2026-01-01 | `dailyftlk-0d4dfdb4` | India doubles financial commitment to 3 housing projects in North and South | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-dailyftlk-0d4dfdb4)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-01 | `dailyftlk-5e32f830` | Macksons Tiles Lanka records first ever tile export to Australia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-dailyftlk-5e32f830)
 - 2026-01-01 | `dailyftlk-754d7d05` | WCIC Women Entrepreneur Awards 2025 to be unveiled on 13 Jan. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-dailyftlk-754d7d05)
 - 2025-12-31 | `lankadeepalk-73d10ffe` | 2026 නව වසර සැමට සුබ වේවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-lankadeepalk-73d10ffe)
-- 2025-12-31 | `dailyftlk-0cdfcf3d` | Our rotten pillars, politicians and bureaucrats | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2025/2025-12-31-dailyftlk-0cdfcf3d)
 
 ---
 
