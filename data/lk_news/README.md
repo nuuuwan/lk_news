@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_15:47:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_16:22:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,437** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,441** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,6 +43,7 @@ A collection of lk_news documents.
 
 - 2026-01-01 | `lankadeepalk-b2458771` | ගොවියා වෙනුවෙන් ඔඩපණ ණය යෝජනා ක්‍රමය එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-b2458771)
 - 2026-01-01 | `tamilmirrorlk-b57f8675` | நாய் இறைச்சி ஆட்டு இறைச்சியுடன் கலப்படம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-b57f8675)
+- 2026-01-01 | `tamilmirrorlk-04e1cdf7` | ஆட்டு இறைச்சியுடன் நாய் இறைச்சி கலப்படம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-04e1cdf7)
 - 2026-01-01 | `lankadeepalk-74302f67` | දින නවයක් වයසැති දරුවා ළිඳට වැටිලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-74302f67)
 - 2026-01-01 | `lankadeepalk-35245395` | මහින්ද කතරගම පිංකමට එක් වී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-35245395)
 - 2026-01-01 | `lankadeepalk-9c8d8cae` | ජනපති දළදා සමිඳුන්ගේ ආශිර්වාදය ලබා ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-9c8d8cae)
@@ -56,11 +57,10 @@ A collection of lk_news documents.
 - 2026-01-01 | `virakesarilk-ecd080f6` | புத்தாண்டை முன்னிட்டு வரலாற்று சிறப்புமிக்க  தலதா மாளிகையில் ஜனாதிபதி வழிபாடு - மல்வத்து மற்றும் அஸ்கிரிய மகாநாயக்க தேரர்களையும் சந்தித்து ஆசி பெற்றார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-ecd080f6)
 - 2026-01-01 | `tamilmirrorlk-66a32df0` | தலதாவில் ஜனாதிபதி புத்தாண்டு வழிபாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-66a32df0)
 - 2026-01-01 | `virakesarilk-8aa56f97` | கன்னியா வெந்நீரூற்று பிள்ளையார் ஆலயம் இருந்த பகுதியில் தொல்லியல் திணைக்களத்தினால் அகழ்வுப்பணிகளை நடத்த ஏற்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-8aa56f97)
+- 2026-01-01 | `lankadeepalk-b8afbd6e` | කෝටි 15ක මත්ද්‍රව්‍ය සමඟ තිදෙනකු අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-b8afbd6e)
 - 2026-01-01 | `virakesarilk-d3f4bd99` | சுவிஸில் புத்தாண்டுக் கொண்டாட்டத்தில் பாரிய வெடிப்பு, தீ! - பலர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-d3f4bd99)
 - 2026-01-01 | `lankadeepalk-91d44a44` | ගිය වසරේ ඩොලර් බිලියන 18.8ක අපනයන ආදායමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-91d44a44)
 - 2026-01-01 | `virakesarilk-4bfed7fe` | 15 வயதுக்குட்பட்ட சிறுவர்கள் சமூக ஊடகங்களைப் பயன்படுத்துவதைத் தடை செய்ய பிரான்ஸ்  திட்டமிட்டுள்ளதாக தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-4bfed7fe)
-- 2026-01-01 | `tamilmirrorlk-5311dc3e` | சிறுமி வன்புணர்வு: தாயும் மகனும் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-5311dc3e)
-- 2026-01-01 | `adalk-5b1ad9b9` | නිව්යෝක් නුවරට පළමුවරට මුස්ලිම් නගරාධිපති වරයෙක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-adalk-5b1ad9b9)
 
 ---
 
