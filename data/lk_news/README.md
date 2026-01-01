@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_10:52:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_11:23:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,363** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,372** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-01-tamilmirrorlk-3807e4c6",
-    "num": "tamilmirrorlk-3807e4c6",
+    "doc_id": "2026-01-01-tamilmirrorlk-33b11321",
+    "num": "tamilmirrorlk-33b11321",
     "date_str": "2026-01-01",
-    "description": "\u0b95\u0b9f\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0baa\u0bbf\u0bb3\u0bcd \u0bae\u0bcb\u0ba4\u0bbf \u0b95\u0bca\u0bb2\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0b95\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0baa\u0bbf\u0bb3\u0bcd-\u0bae\u0bcb\u0ba4\u0bbf-\u0b95\u0bca\u0bb2\u0bc8/175-370374",
+    "description": "16,000 \u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd 02 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/16-000-\u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-02-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-370377",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767243384.0
+    "time_ut": 1767246457.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-01 | `tamilmirrorlk-33b11321` | 16,000 சிகரெட்டுகளுடன் 02 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-33b11321)
+- 2026-01-01 | `tamilmirrorlk-71d515a8` | சுவரில் துளையிட்டு வங்கியில்  பாரிய கொள்ளை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-71d515a8)
+- 2026-01-01 | `lankadeepalk-ae1f26ce` | නීති විරෝධිව ගෙන ආ දුම්වැටි සමඟ යුවළක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-ae1f26ce)
 - 2026-01-01 | `tamilmirrorlk-3807e4c6` | கடமையில் இருந்த கான்ஸ்டபிள் மோதி கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-3807e4c6)
 - 2026-01-01 | `tamilmirrorlk-44f6ab0d` | தே.ம.ச உறுப்பினர் விபத்தில் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-44f6ab0d)
 - 2026-01-01 | `tamilmirrorlk-ac37dd66` | தப்பினார் பயணி: குத்துக்கரணம் அடித்தது கார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-ac37dd66)
 - 2026-01-01 | `lankadeepalk-d2c0f15d` | මෝටර් රථය මගියා බේරාග්න ගිහින් පොල්ගහට ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-d2c0f15d)
 - 2026-01-01 | `tamilmirrorlk-a37999b2` | 2026 ஆம்  ஆண்டே வருக... வருக... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-a37999b2)
 - 2026-01-01 | `lankadeepalk-64404157` | බස් - යතුරු පැදි අනතුරින් ජාජබ මන්ත්‍රී අපෙක්ෂක මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-64404157)
+- 2026-01-01 | `virakesarilk-8b25e6dd` | பிறந்துள்ள புதிய வருடம் உங்களுக்கு அமைதி,நீதி,நம்பிக்கை,உண்மை,அன்பு நிறைந்த நல்ல ஆண்டாக  அமையட்டும் - வாழ்த்துச் செய்தியில் மன்னார் மறைமாவட்ட ஆயர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-8b25e6dd)
+- 2026-01-01 | `virakesarilk-fea4eca9` | புத்தாண்டில் தமிழ் அரசியல் கைதிகளின் விடுதலை மற்றும் காணாமல் ஆக்கப்பட்ட  உறவுகளுக்கு தீர்வு கிடைக்க வேண்டும் - வாழ்த்து செய்தியில் மன்னார் நகர முதல்வர் டானியல் வசந்தன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-fea4eca9)
+- 2026-01-01 | `virakesarilk-e6ecd442` | எமது மக்கள் அனுபவித்து வந்த துன்பங்கள் அகன்று  சந்தோஷமான வாழ்க்கையை தொடர இந்த ஆண்டு அமைய வேண்டும் - செல்வம் அடைக்கலநாதன் எம்.பி. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-e6ecd442)
+- 2026-01-01 | `virakesarilk-66225d53` | புதிய சிந்தனை, புதிய இலக்குகளை உருவாக்கும்  ஆண்டாக புத்தாண்டு அமையட்டும் - வாழ்த்து செய்தியில் இ.தொ.கா தலைவர் செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-66225d53)
+- 2026-01-01 | `virakesarilk-42c6352a` | கட்டுநாயக்கவில் போதைப்பொருட்களுடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-42c6352a)
+- 2026-01-01 | `virakesarilk-666274bc` | அயல்வீட்டுக்காரரை கத்தியால் குத்திய பெண் கைது ; யாழில் சம்பவம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-666274bc)
 - 2026-01-01 | `tamilmirrorlk-d60070f2` | இன்று இடியுடன் கூடிய மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-d60070f2)
 - 2026-01-01 | `lankadeepalk-80b8ea55` | චිත්‍රපයකට ලෙසින් සිදු කළ බැංකු කොල්ලය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-80b8ea55)
 - 2026-01-01 | `lankadeepalk-73c36c6b` | කතක් ගුවන්තොටෙන් හොර බඩු පන්නන්න හදලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-73c36c6b)
 - 2026-01-01 | `lankadeepalk-08ec2c39` | රාජකාරි කළ පොලිස් නිලධාරියෙක් හප්පා මරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-08ec2c39)
 - 2026-01-01 | `adalk-1f94d870` | දරු උපත් ප්‍රවර්ධනයට උපත් පාලන ක්‍රම සඳහා චිනය සියයට 13ක බද්දක් අය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-adalk-1f94d870)
-- 2026-01-01 | `lankadeepalk-f720022a` | අද ටිකක් වැස්ස වැඩි වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-f720022a)
-- 2026-01-01 | `adalk-fd8642cc` | ජපානයට ප්‍රභල භූමිකම්පාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-adalk-fd8642cc)
-- 2026-01-01 | `adalk-34313749` | දිත්වාගෙන් පසු රට ගොඩනගන්න ජනපති කාර්ය සාධන බළකායක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-adalk-34313749)
-- 2026-01-01 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-3a015e4a)
-- 2026-01-01 | `virakesarilk-3708de8a` | அரசியலமைப்பு பேரவையை கட்சியின் தீர்மானித்துக்கு அடிபணிய வைக்க முயற்சி - உதய கம்மன்பில பகிரங்கக் குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-3708de8a)
-- 2026-01-01 | `virakesarilk-fd97eb2d` | அரசியலமைப்புப்பேரவை தமக்குக் கீழ்ப்படிந்து செயற்படவேண்டும் என அரசாங்கம் கருதுகின்றது - அமைச்சர் நளிந்த ஜயதிஸ்ஸவின் கருத்து தொடர்பில் சிவில் செயற்பாட்டாளர்கள் சட்டத்தரணிகள் கடும் கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-fd97eb2d)
-- 2026-01-01 | `dailyftlk-dffd866e` | From 2026 to 2029: Winning strategy for Sajith and Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-dailyftlk-dffd866e)
-- 2026-01-01 | `virakesarilk-35c210bb` | தேசிய பொலிஸ் ஆணைக்குழுவின் உறுப்பினராக மேஜர் ஜெனரல் தர்ஷன ஹெட்டியாராச்சியை நியமிக்க முஸ்தீபு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-35c210bb)
-- 2026-01-01 | `virakesarilk-24a44168` | கொழும்பு மாநகரசபை வரவு செலவு திட்டத்துக்கு ஆதரவாக வாக்களித்த SLMC உறுப்பினர் ஸொஹாரா புஹாரியின் கட்சி உறுப்பினர் பதவி இடைநிறுத்தம் - நிஸாம் காரியப்பர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-24a44168)
 
 ---
 
