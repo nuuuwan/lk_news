@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_14:50:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_15:22:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,429** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,432** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-01-virakesarilk-d7b1d3e1",
-    "num": "virakesarilk-d7b1d3e1",
+    "doc_id": "2026-01-01-lankadeepalk-9c8d8cae",
+    "num": "lankadeepalk-9c8d8cae",
     "date_str": "2026-01-01",
-    "description": "\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bbf\u0baf \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 40 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bb8\u0bcd \u0bb5\u0bb4\u0bbf\u0ba4\u0bcd\u0ba4\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/234937",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1767258600.0
+    "description": "\u0da2\u0db1\u0db4\u0dad\u0dd2 \u0daf\u0dc5\u0daf\u0dcf \u0dc3\u0db8\u0dd2\u0db3\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0d86\u0dc1\u0dd2\u0dbb\u0dca\u0dc0\u0dcf\u0daf\u0dba \u0dbd\u0db6\u0dcf \u0d9c\u0db1\u0dd3",
+    "url_metadata": "https://www.lankadeepa.lk/news/\u0da2\u0db1\u0db4\u0dad-\u0daf\u0dc5\u0daf-\u0dc3\u0db8\u0db3\u0db1\u0d9c-\u0d86\u0dc1\u0dbb\u0dc0\u0daf\u0dba-\u0dbd\u0db6-\u0d9c\u0db1/101-686117",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1767260631.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-01 | `lankadeepalk-9c8d8cae` | ජනපති දළදා සමිඳුන්ගේ ආශිර්වාදය ලබා ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-9c8d8cae)
+- 2026-01-01 | `tamilmirrorlk-6af59a90` | சொஹரா புஹாரிக்கு ஒருவாரம் காலக்கெடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-6af59a90)
+- 2026-01-01 | `lankadeepalk-9b072a54` | නව වසර අපේක්ෂා අභියෝග | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-9b072a54)
 - 2026-01-01 | `virakesarilk-d7b1d3e1` | கிராமிய பகுதிகளில் 40 புதிய பஸ் வழித்தடங்கள் இன்று முதல் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-d7b1d3e1)
 - 2026-01-01 | `virakesarilk-5ad6b9f6` | நாடளாவிய ரீதியில் பொலிஸார் மேற்கொண்ட விசேட சுற்றிவளைப்பு: 460 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-5ad6b9f6)
 - 2026-01-01 | `virakesarilk-49a13b96` | “முழு நாடுமே ஒன்றாக”: ஜனாதிபதியின் பணிப்புரையின் கீழ் நாடெங்கும் தீவிர போதைப்பொருள் ஒழிப்பு நடவடிக்கை - பலர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-49a13b96)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-01-01 | `virakesarilk-c5d4ac2d` | ஐசிசி 19 வயதுக்குட்பட்ட உலகக் கிண்ணம் 2026: இலங்கை குழாம்த்தில் யாழ். வீரர்கள் இருவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-c5d4ac2d)
 - 2026-01-01 | `lankadeepalk-26b1fedf` | යතුරු පැදියක් අැලට පෙරළී අයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-26b1fedf)
 - 2026-01-01 | `virakesarilk-90137da5` | பௌத்த சின்னங்கள் பரப்பப்படுவது வரலாற்று அடிப்படையற்றது! - தமிழர் தாயக காணாமல் ஆக்கப்பட்டோர் உறவுகளின் சங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-90137da5)
-- 2026-01-01 | `virakesarilk-6b5a5309` | பல பிடியாணைகளுடன் தேடப்பட்டு வந்த இருவர் போதைப்பொருளுடன் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-6b5a5309)
-- 2026-01-01 | `lankadeepalk-f07d8632` | ගංවතුර අස්සේ උසාවියෙන් යතුරු පැදි ඉස්සූ හතරක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-f07d8632)
-- 2026-01-01 | `virakesarilk-e0e5a5b2` | மதுபோதையில் பொலிஸ் கான்ஸ்டபிளை மோதிச் சென்ற கார் சாரதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-e0e5a5b2)
 
 ---
 
