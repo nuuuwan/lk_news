@@ -321066,6 +321066,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-28-islandlk-3737588b",
+    "num": "islandlk-3737588b",
+    "date_str": "2025-12-28",
+    "description": "Jekylls and Hydes",
+    "url_metadata": "http://island.lk/jekylls-and-hydes-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1766941800.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-28-islandlk-787753f3",
     "num": "islandlk-787753f3",
     "date_str": "2025-12-28",
@@ -323464,6 +323475,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-29-islandlk-6ae5ed3e",
+    "num": "islandlk-6ae5ed3e",
+    "date_str": "2025-12-29",
+    "description": "Rebuilding Sri Lanka Through Inclusive Governance",
+    "url_metadata": "http://island.lk/rebuilding-sri-lanka-through-inclusive-governance/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767032100.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-29-islandlk-a591311d",
     "num": "islandlk-a591311d",
     "date_str": "2025-12-29",
@@ -325620,6 +325642,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-30-islandlk-60cc338a",
+    "num": "islandlk-60cc338a",
+    "date_str": "2025-12-30",
+    "description": "Who Owns the Clock? The Quiet Politics of Time in Sri Lanka",
+    "url_metadata": "http://island.lk/who-owns-the-clock-the-quiet-politics-of-time-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767117480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-islandlk-b9495b99",
+    "num": "islandlk-b9495b99",
+    "date_str": "2025-12-30",
+    "description": "Medicinal drugs for Sri Lanka:The science of safety beyond rhetoric",
+    "url_metadata": "http://island.lk/medicinal-drugs-for-sri-lankathe-science-of-safety-beyond-rhetoric/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767117660.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-30-tamilmirrorlk-e1ef96c1",
     "num": "tamilmirrorlk-e1ef96c1",
     "date_str": "2025-12-30",
@@ -325628,6 +325672,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1767117913.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-30-islandlk-7f4010c4",
+    "num": "islandlk-7f4010c4",
+    "date_str": "2025-12-30",
+    "description": "Construction industry offers blueprint for Sri Lanka\u2019s recovery",
+    "url_metadata": "http://island.lk/construction-industry-offers-blueprint-for-sri-lankas-recovery/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767118320.0
   },
   {
     "doc_type": "lk_news",
@@ -325826,6 +325881,17 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1767141600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-islandlk-84fa1f28",
+    "num": "islandlk-84fa1f28",
+    "date_str": "2025-12-31",
+    "description": "Sri Lanka Customs exceeds revenue targets to enters 2026 with a surplus of Rs. 300 billion \u2013 Director General",
+    "url_metadata": "http://island.lk/sri-lanka-customs-exceeds-revenue-targets-to-enters-2026-with-a-surplus-of-rs-300-billion-director-general/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767141720.0
   },
   {
     "doc_type": "lk_news",
@@ -327674,6 +327740,61 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767191400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-islandlk-d8f785b0",
+    "num": "islandlk-d8f785b0",
+    "date_str": "2025-12-31",
+    "description": "Bank of Ceylon contributes Rs. 500 million to government\u2019s \u201cRebuilding Sri Lanka\u201d fund",
+    "url_metadata": "http://island.lk/bank-of-ceylon-contributes-rs-500-million-to-governments-rebuilding-sri-lanka-fund/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767197880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-islandlk-75d21fff",
+    "num": "islandlk-75d21fff",
+    "date_str": "2025-12-31",
+    "description": "Coastal law rollback could lift Sri Lanka\u2019s risk premium, say experts",
+    "url_metadata": "http://island.lk/coastal-law-rollback-could-lift-sri-lankas-risk-premium-say-experts/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767197940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-islandlk-e28df6e7",
+    "num": "islandlk-e28df6e7",
+    "date_str": "2025-12-31",
+    "description": "Evergreen Group of Companies emerges largest tea producing group",
+    "url_metadata": "http://island.lk/evergreen-group-of-companies-emerges-largest-tea-producing-group-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767197940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-islandlk-443b1d43",
+    "num": "islandlk-443b1d43",
+    "date_str": "2025-12-31",
+    "description": "Port City Colombo reaches 11 years: Developer reaffirms commitment to further project progress",
+    "url_metadata": "http://island.lk/port-city-colombo-reaches-11-years-developer-reaffirms-commitment-to-further-project-progress/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767198180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-12-31-islandlk-87539d01",
+    "num": "islandlk-87539d01",
+    "date_str": "2025-12-31",
+    "description": "Siyapatha Finance expands islandwide footprint to Nikaweratiya",
+    "url_metadata": "http://island.lk/siyapatha-finance-expands-islandwide-footprint-to-nikaweratiya/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767198240.0
   },
   {
     "doc_type": "lk_news",
