@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_10:29:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_10:52:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,362** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,363** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-01-tamilmirrorlk-44f6ab0d",
-    "num": "tamilmirrorlk-44f6ab0d",
+    "doc_id": "2026-01-01-tamilmirrorlk-3807e4c6",
+    "num": "tamilmirrorlk-3807e4c6",
     "date_str": "2026-01-01",
-    "description": "\u0ba4\u0bc7.\u0bae.\u0b9a \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7-\u0bae-\u0b9a-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/175-370373",
+    "description": "\u0b95\u0b9f\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0baa\u0bbf\u0bb3\u0bcd \u0bae\u0bcb\u0ba4\u0bbf \u0b95\u0bca\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4-\u0b95\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0baa\u0bbf\u0bb3\u0bcd-\u0bae\u0bcb\u0ba4\u0bbf-\u0b95\u0bca\u0bb2\u0bc8/175-370374",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767243112.0
+    "time_ut": 1767243384.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-01 | `tamilmirrorlk-3807e4c6` | கடமையில் இருந்த கான்ஸ்டபிள் மோதி கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-3807e4c6)
 - 2026-01-01 | `tamilmirrorlk-44f6ab0d` | தே.ம.ச உறுப்பினர் விபத்தில் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-44f6ab0d)
 - 2026-01-01 | `tamilmirrorlk-ac37dd66` | தப்பினார் பயணி: குத்துக்கரணம் அடித்தது கார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-ac37dd66)
 - 2026-01-01 | `lankadeepalk-d2c0f15d` | මෝටර් රථය මගියා බේරාග්න ගිහින් පොල්ගහට ගිහින් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-d2c0f15d)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-01 | `dailyftlk-dffd866e` | From 2026 to 2029: Winning strategy for Sajith and Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-dailyftlk-dffd866e)
 - 2026-01-01 | `virakesarilk-35c210bb` | தேசிய பொலிஸ் ஆணைக்குழுவின் உறுப்பினராக மேஜர் ஜெனரல் தர்ஷன ஹெட்டியாராச்சியை நியமிக்க முஸ்தீபு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-35c210bb)
 - 2026-01-01 | `virakesarilk-24a44168` | கொழும்பு மாநகரசபை வரவு செலவு திட்டத்துக்கு ஆதரவாக வாக்களித்த SLMC உறுப்பினர் ஸொஹாரா புஹாரியின் கட்சி உறுப்பினர் பதவி இடைநிறுத்தம் - நிஸாம் காரியப்பர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-24a44168)
-- 2026-01-01 | `tamilmirrorlk-726e0ef1` | ’2026 புத்தாண்டில் சவால்களை வெல்வோம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-726e0ef1)
 
 ---
 
