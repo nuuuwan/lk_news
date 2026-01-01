@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_11:23:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--01_11:50:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,372** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,375** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-01-tamilmirrorlk-33b11321",
-    "num": "tamilmirrorlk-33b11321",
+    "doc_id": "2026-01-01-lankadeepalk-f602a4c3",
+    "num": "lankadeepalk-f602a4c3",
     "date_str": "2026-01-01",
-    "description": "16,000 \u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd 02 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/16-000-\u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-02-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-370377",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767246457.0
+    "description": "\u0db8\u0dda \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dca\u0daf\u0dda \u0d91\u0d9a \u0dbd\u0dc3\u0dca\u0dc3\u0db1 \u0d85\u0dbd\u0dd4\u0dad\u0dca \u0daf\u0dd9\u0dba\u0d9a\u0dca \u0d85\u0db4\u0dda \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0dc0\u0dbd\u0da7 \u0d91\u0d9a\u0dad\u0dd4 \u0d9a\u0dbb\u0d9c\u0db8\u0dd4",
+    "url_metadata": "https://www.lankadeepa.lk/videos/\u0db8\u0dda-\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dca\u0daf\u0dda-\u0d91\u0d9a-\u0dbd\u0dc3\u0dca\u0dc3\u0db1-\u0d85\u0dbd\u0dd4\u0dad\u0dca-\u0daf\u0dd9\u0dba\u0d9a\u0dca-\u0d85\u0db4\u0dda-\u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0dc0\u0dbd\u0da7-\u0d91\u0d9a\u0dad\u0dd4-\u0d9a\u0dbb\u0d9c\u0db8\u0dd4/12-686098",
+    "lang": "si",
+    "newspaper_id": "lankadeepalk",
+    "time_ut": 1767247838.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-01 | `lankadeepalk-f602a4c3` | මේ අවුරුද්දේ එක ලස්සන අලුත් දෙයක් අපේ ජීවිතවලට එකතු කරගමු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-f602a4c3)
+- 2026-01-01 | `tamilmirrorlk-a261725f` | பாகிஸ்தான் போதை மாத்திரைகளுடன் இளைஞன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-a261725f)
+- 2026-01-01 | `tamilmirrorlk-75813a66` | மயங்கி விழ்ந்த முதியவர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-75813a66)
 - 2026-01-01 | `tamilmirrorlk-33b11321` | 16,000 சிகரெட்டுகளுடன் 02 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-33b11321)
 - 2026-01-01 | `tamilmirrorlk-71d515a8` | சுவரில் துளையிட்டு வங்கியில்  பாரிய கொள்ளை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-71d515a8)
 - 2026-01-01 | `lankadeepalk-ae1f26ce` | නීති විරෝධිව ගෙන ආ දුම්වැටි සමඟ යුවළක් මාට්ටු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-ae1f26ce)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-01-01 | `virakesarilk-666274bc` | அயல்வீட்டுக்காரரை கத்தியால் குத்திய பெண் கைது ; யாழில் சம்பவம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-666274bc)
 - 2026-01-01 | `tamilmirrorlk-d60070f2` | இன்று இடியுடன் கூடிய மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-d60070f2)
 - 2026-01-01 | `lankadeepalk-80b8ea55` | චිත්‍රපයකට ලෙසින් සිදු කළ බැංකු කොල්ලය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-80b8ea55)
-- 2026-01-01 | `lankadeepalk-73c36c6b` | කතක් ගුවන්තොටෙන් හොර බඩු පන්නන්න හදලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-73c36c6b)
-- 2026-01-01 | `lankadeepalk-08ec2c39` | රාජකාරි කළ පොලිස් නිලධාරියෙක් හප්පා මරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-lankadeepalk-08ec2c39)
-- 2026-01-01 | `adalk-1f94d870` | දරු උපත් ප්‍රවර්ධනයට උපත් පාලන ක්‍රම සඳහා චිනය සියයට 13ක බද්දක් අය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-adalk-1f94d870)
 
 ---
 
