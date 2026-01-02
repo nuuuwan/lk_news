@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_14:48:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_15:22:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,609** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,611** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -51,6 +51,7 @@ A collection of lk_news documents.
 - 2026-01-02 | `tamilmirrorlk-4c3e8d32` | நொடி பொழுதில் பரவிய தீ:  ஸ்விட்சர்லாந்தில் தப்பியவர்கள்  அதிர்ச்சி தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-4c3e8d32)
 - 2026-01-02 | `tamilmirrorlk-0d23a5ef` | பீர் பாட்டிலுடன் கொண்டாடிய சச்சின் மகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-0d23a5ef)
 - 2026-01-02 | `virakesarilk-23decc60` | “அனைத்தையும் சாட்சியாகப் பாருங்கள்!” - புத்தாண்டு செய்தி வெளியிட்ட “கைலாசா” நித்யானந்தா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-23decc60)
+- 2026-01-02 | `adalk-3e691d20` | පාතාලය කවුරුන් ආරම්භ කළත් අවසන් කරන්නේ මේ රජයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-adalk-3e691d20)
 - 2026-01-02 | `tamilmirrorlk-494d478c` | முள்ளே இல்லாத மீனை உருவாக்கிய ஆய்வாளர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-494d478c)
 - 2026-01-02 | `virakesarilk-6e8feb10` | இன்றைய நாணய மாற்று விகிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-6e8feb10)
 - 2026-01-02 | `adalk-afb62709` | ලිට්‍රෝ ගෑස් මිල වෙනස් වෙයිද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-adalk-afb62709)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-02 | `tamilmirrorlk-471883b6` | சி.வை.பி ராம் இராஜினாமா: சஜித் மௌனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-471883b6)
 - 2026-01-02 | `tamilmirrorlk-acbabd06` | 170 கிலோ கிராம் ஹெரோய்ன் அழிக்கப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-acbabd06)
 - 2026-01-02 | `virakesarilk-f06d4486` | மத்திய அதிவேக நெடுஞ்சாலை : கடவத்தை - மீரிகம இடையிலான 40 சதவீத பணிகள் நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-f06d4486)
-- 2026-01-02 | `virakesarilk-1d5c64ad` | 'ஜன நாயகன்' திரைப்படம் உலகளவில் வரவேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-1d5c64ad)
 
 ---
 
