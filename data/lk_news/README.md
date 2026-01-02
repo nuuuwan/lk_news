@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_06:30:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_07:14:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,524** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,531** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-02-dailyftlk-5b627fae",
-    "num": "dailyftlk-5b627fae",
+    "doc_id": "2026-01-02-dailyftlk-ae863780",
+    "num": "dailyftlk-ae863780",
     "date_str": "2026-01-02",
-    "description": "Separating ownership and operation will significantly improve public bus transportation system",
-    "url_metadata": "https://www.ft.lk/columns/Separating-ownership-and-operation-will-significantly-improve-public-bus-transportation-system/4-786390",
+    "description": "Ceylon Cold Stores wins top honour at Sri Lanka National Quality Awards 2023",
+    "url_metadata": "https://www.ft.lk/business/Ceylon-Cold-Stores-wins-top-honour-at-Sri-Lanka-National-Quality-Awards-2023/34-786396",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767315144.0
+    "time_ut": 1767317412.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-02 | `dailyftlk-ae863780` | Ceylon Cold Stores wins top honour at Sri Lanka National Quality Awards 2023 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-ae863780)
+- 2026-01-02 | `dailyftlk-babd8b90` | The 2nd National Data Protection Symposium on  6 January | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-babd8b90)
+- 2026-01-02 | `dailyftlk-1ece641a` | University autonomy under siege: Sri Lanka’s dangerous drift towards politicised higher education | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-1ece641a)
+- 2026-01-02 | `dailyftlk-18a94ed1` | Rise of digital forensics: Meeting demands of a data-driven world | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-18a94ed1)
+- 2026-01-02 | `dailyftlk-487d2442` | Disaster and civic responsibility-Part II | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-487d2442)
+- 2026-01-02 | `dailyftlk-dc88a487` | From crisis to creativity: Rethinking economic resilience in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-dc88a487)
 - 2026-01-02 | `dailyftlk-5b627fae` | Separating ownership and operation will significantly improve public bus transportation system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-5b627fae)
 - 2026-01-02 | `dailyftlk-9403bfed` | Civil society, trade unions, activists urge Govt. to withdraw Protection of the State from Terrorism Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-9403bfed)
 - 2026-01-02 | `dailyftlk-67d4eb36` | Tri-Forces donate Rs. 372 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-67d4eb36)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-01-02 | `virakesarilk-0c705b7c` | ரணிலை மீண்டும் பாராளுமன்றம் செல்லுமாறு எதிர்க்கட்சிகளின் பிரதிநிதிகள் வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-0c705b7c)
 - 2026-01-02 | `virakesarilk-c5a8bbea` | சவால்கள் அனைத்தையும் முறியடித்து அபிவிருத்தியை நோக்கிச் செல்வோம் - அமைச்சர் அனில் ஜெயந்த பெர்னாண்டோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-c5a8bbea)
 - 2026-01-02 | `virakesarilk-e92c450d` | பொதுப்படுகடன் திணைக்களம் மூடப்பட்டது - இலங்கை மத்திய வங்கி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-e92c450d)
-- 2026-01-02 | `virakesarilk-e092947f` | எல்லை நிர்ணய பிரச்சினைக்கு தீர்வு தேர்தலை நடத்துவது சாத்தியமற்றது - அமைச்சர் சந்தன அபேரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-e092947f)
-- 2026-01-02 | `virakesarilk-3313fa92` | டிசம்பரில் பணவீக்கம் மாற்றமின்றிப் பதிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-3313fa92)
-- 2026-01-02 | `virakesarilk-47735d61` | புத்தாண்டு சவால்கள் மிக்கதாக அமையக்கூடும் குழுவாகச் செயற்படுவதற்கு பிரதமர் கலாநிதி ஹரிணி அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-47735d61)
-- 2026-01-02 | `virakesarilk-4acea77b` | அனைவரும் வெளிப்படைத் தன்மையுடன் நடந்துகொள்ள வேண்டியது பொறுப்பாகும் - சபாநாயகர் ஜகத் விக்கிரமரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-4acea77b)
-- 2026-01-02 | `virakesarilk-313fb82e` | புத்தாண்டு வாழ்த்துக்களை பரிமாற்றிக்கொண்ட ரணில் - சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-313fb82e)
-- 2026-01-02 | `virakesarilk-d54df8fc` | கணக்காய்வாளர் நாயகத்தை நியமிக்காமல் மோசடியற்ற நிர்வாகத்தை முன்னெடுக்க முடியாது - விஜேயதாச ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-d54df8fc)
 
 ---
 

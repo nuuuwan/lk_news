@@ -940,6 +940,17 @@ b\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1-\u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dc
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-01-adalk-06e98b92",
+    "num": "adalk-06e98b92",
+    "date_str": "2026-01-01",
+    "description": "\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dd3\u0dba \u0db8\u0dcf\u0dbb\u0dca\u0d9c 76\u0d9a\u0dca \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2, \u0db6\u0dc3\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0db1\u0ddc\u0dc0\u0dd6 \u0db8\u0dcf\u0dbb\u0dca\u0d9c 40\u0d9a\u0da7 \u0d85\u0dbd\u0dd4\u0dad\u0dd9\u0db1\u0dca \u0db6\u0dc3\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0db8\u0dd3\u0dba-\u0db8\u0dcf\u0dbb\u0dca\u0d9c-76\u0d9a\u0dca-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba-\u0d9a\u0dbb\u0dba\u0dd2--\u0db6\u0dc3\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba-\u0db1\u0ddc\u0dc0\u0dd6-\u0db8\u0dcf\u0dbb\u0dca\u0d9c-40\u0d9a\u0da7-\u0d85\u0dbd\u0dd4\u0dad\u0dd9\u0db1\u0dca-\u0db6\u0dc3\u0dca/11-420573",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1767259479.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-01-lankadeepalk-9b072a54",
     "num": "lankadeepalk-9b072a54",
     "date_str": "2026-01-01",
@@ -1828,5 +1839,71 @@ b\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1-\u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dc
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1767315144.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-dc88a487",
+    "num": "dailyftlk-dc88a487",
+    "date_str": "2026-01-02",
+    "description": "From crisis to creativity: Rethinking economic resilience in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/From-crisis-to-creativity-Rethinking-economic-resilience-in-Sri-Lanka/4-786391",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767315401.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-487d2442",
+    "num": "dailyftlk-487d2442",
+    "date_str": "2026-01-02",
+    "description": "Disaster and civic responsibility-Part II",
+    "url_metadata": "https://www.ft.lk/columns/Disaster-and-civic-responsibility-Part-II/4-786392",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767315898.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-18a94ed1",
+    "num": "dailyftlk-18a94ed1",
+    "date_str": "2026-01-02",
+    "description": "Rise of digital forensics: Meeting demands of a data-driven world",
+    "url_metadata": "https://www.ft.lk/columns/Rise-of-digital-forensics-Meeting-demands-of-a-data-driven-world/4-786393",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767316274.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-1ece641a",
+    "num": "dailyftlk-1ece641a",
+    "date_str": "2026-01-02",
+    "description": "University autonomy under siege: Sri Lanka\u2019s dangerous drift towards politicised higher education",
+    "url_metadata": "https://www.ft.lk/columns/University-autonomy-under-siege-Sri-Lanka-s-dangerous-drift-towards-politicised-higher-education/4-786394",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767316827.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-babd8b90",
+    "num": "dailyftlk-babd8b90",
+    "date_str": "2026-01-02",
+    "description": "The 2nd National Data Protection Symposium on  6 January",
+    "url_metadata": "https://www.ft.lk/business/The-2nd-National-Data-Protection-Symposium-on-6-January/34-786395",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767316903.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-ae863780",
+    "num": "dailyftlk-ae863780",
+    "date_str": "2026-01-02",
+    "description": "Ceylon Cold Stores wins top honour at Sri Lanka National Quality Awards 2023",
+    "url_metadata": "https://www.ft.lk/business/Ceylon-Cold-Stores-wins-top-honour-at-Sri-Lanka-National-Quality-Awards-2023/34-786396",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767317412.0
   }
 ]

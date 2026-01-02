@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-02 06:29:50",
-  "n_docs": 96524,
+  "time_updated": "2026-01-02 07:13:50",
+  "n_docs": 96531,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 96524,
+  "n_docs_with_text": 96531,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-02",
-  "dataset_size": 1457544056,
+  "dataset_size": 1457645854,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "en",
-    "ta",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-02-dailyftlk-5b627fae",
-    "num": "dailyftlk-5b627fae",
+    "doc_id": "2026-01-02-dailyftlk-ae863780",
+    "num": "dailyftlk-ae863780",
     "date_str": "2026-01-02",
-    "description": "Separating ownership and operation will significantly improve public bus transportation system",
-    "url_metadata": "https://www.ft.lk/columns/Separating-ownership-and-operation-will-significantly-improve-public-bus-transportation-system/4-786390",
+    "description": "Ceylon Cold Stores wins top honour at Sri Lanka National Quality Awards 2023",
+    "url_metadata": "https://www.ft.lk/business/Ceylon-Cold-Stores-wins-top-honour-at-Sri-Lanka-National-Quality-Awards-2023/34-786396",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767315144.0
+    "time_ut": 1767317412.0
   }
 }
