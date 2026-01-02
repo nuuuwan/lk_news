@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_06:03:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_06:30:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,517** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,524** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-02-virakesarilk-0fb7cb51",
-    "num": "virakesarilk-0fb7cb51",
+    "doc_id": "2026-01-02-dailyftlk-5b627fae",
+    "num": "dailyftlk-5b627fae",
     "date_str": "2026-01-02",
-    "description": "2026 \u0b87\u0bb2\u0bcd \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1 \u2013 \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/234996",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1767310440.0
+    "description": "Separating ownership and operation will significantly improve public bus transportation system",
+    "url_metadata": "https://www.ft.lk/columns/Separating-ownership-and-operation-will-significantly-improve-public-bus-transportation-system/4-786390",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767315144.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-02 | `dailyftlk-5b627fae` | Separating ownership and operation will significantly improve public bus transportation system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-5b627fae)
+- 2026-01-02 | `dailyftlk-9403bfed` | Civil society, trade unions, activists urge Govt. to withdraw Protection of the State from Terrorism Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-9403bfed)
+- 2026-01-02 | `dailyftlk-67d4eb36` | Tri-Forces donate Rs. 372 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-67d4eb36)
+- 2026-01-02 | `dailyftlk-e5398c2e` | Zohran Mamdani sworn in as New York City Mayor, creating history | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-e5398c2e)
+- 2026-01-02 | `dailyftlk-28491fb9` | President pays homage to Sacred Tooth Relic | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-28491fb9)
+- 2026-01-02 | `dailyftlk-62660fc5` | Estate workers donate to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-62660fc5)
+- 2026-01-02 | `tamilmirrorlk-8c2bb962` | குடும்பஸ்தர் குத்திக் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-8c2bb962)
 - 2026-01-02 | `virakesarilk-0fb7cb51` | 2026 இல் பாடசாலை நேரம் நீடிக்கப்படாது – கல்வி அமைச்சகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-0fb7cb51)
 - 2026-01-02 | `tamilmirrorlk-40cade1c` | புத்தாண்டு கொண்டாட்டத்தில் தாக்குதல்: ரஷ்யாவில் 24 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-40cade1c)
 - 2026-01-02 | `virakesarilk-24829cf4` | கொரத்தொட்டை, மெனிக்காரா வீதியில் துப்பாக்கிச் சூடு : ஒருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-24829cf4)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-01-02 | `virakesarilk-4acea77b` | அனைவரும் வெளிப்படைத் தன்மையுடன் நடந்துகொள்ள வேண்டியது பொறுப்பாகும் - சபாநாயகர் ஜகத் விக்கிரமரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-4acea77b)
 - 2026-01-02 | `virakesarilk-313fb82e` | புத்தாண்டு வாழ்த்துக்களை பரிமாற்றிக்கொண்ட ரணில் - சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-313fb82e)
 - 2026-01-02 | `virakesarilk-d54df8fc` | கணக்காய்வாளர் நாயகத்தை நியமிக்காமல் மோசடியற்ற நிர்வாகத்தை முன்னெடுக்க முடியாது - விஜேயதாச ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-d54df8fc)
-- 2026-01-02 | `virakesarilk-93fe385d` | வீடுகளை இழந்த மக்களுக்கான மீள்குடியேற்ற ஏற்பாடுகள் குறித்து ஜனாதிபதி ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-93fe385d)
-- 2026-01-02 | `virakesarilk-d94a123b` | புதிய கல்வித்திட்டத்தில் இணைக்கப்பட்டுள்ள விடயம் எமது கலாசாரத்துக்கு எதிரானது - சீலரத்தன தேரர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-d94a123b)
-- 2026-01-02 | `virakesarilk-056ca7d4` | அவசரகாலநிலை பிரகடனத்தில் கரிசனைகள் உள்வாங்கப்படவில்லை - இலங்கை மனித உரிமைகள் ஆணைக்குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-056ca7d4)
-- 2026-01-02 | `virakesarilk-b84afc0c` | நயினாதீவு, யாழ். விகாரதிபதிகளின் உண்மையின் வெளிப்பாட்டுக்கு பாராட்டு; அவர்களின் ஆலோசனையை பெறுமா? - நல்லையா குமரகுருபரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-b84afc0c)
-- 2026-01-01 | `tamilmirrorlk-c1c38596` | கல்வி அமைச்சு அதிரடி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-tamilmirrorlk-c1c38596)
-- 2026-01-01 | `virakesarilk-b6c8d6bb` | லாஃப்ஸ் சமையல் எரிவாயு விலை மீண்டும் உயர்வு – இன்று முதல் நடைமுறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-b6c8d6bb)
-- 2026-01-01 | `virakesarilk-4e463585` | ஜோன்ஸ்டன் உள்ளிட்ட நால்வரை தேடும் எப்.சி.ஐ.டி. சிறப்பு குழு வெளிநாட்டு பயணத் தடையும் பெறப்பட்டது; விசாரணைகள் தீவிரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-01-virakesarilk-4e463585)
 
 ---
 

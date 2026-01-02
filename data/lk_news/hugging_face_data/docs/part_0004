@@ -1751,5 +1751,82 @@ b\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1-\u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dc
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767310440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-tamilmirrorlk-8c2bb962",
+    "num": "tamilmirrorlk-8c2bb962",
+    "date_str": "2026-01-02",
+    "description": "\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd \u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd-\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd-\u0b95\u0bca\u0bb2\u0bc8/175-370419",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767311753.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-62660fc5",
+    "num": "dailyftlk-62660fc5",
+    "date_str": "2026-01-02",
+    "description": "Estate workers donate to \u2018Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/news/Estate-workers-donate-to-Rebuilding-Sri-Lanka-Fund/56-786384",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767314452.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-28491fb9",
+    "num": "dailyftlk-28491fb9",
+    "date_str": "2026-01-02",
+    "description": "President pays homage to Sacred Tooth Relic",
+    "url_metadata": "https://www.ft.lk/news/President-pays-homage-to-Sacred-Tooth-Relic/56-786385",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767314534.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-e5398c2e",
+    "num": "dailyftlk-e5398c2e",
+    "date_str": "2026-01-02",
+    "description": "Zohran Mamdani sworn in as New York City Mayor, creating history",
+    "url_metadata": "https://www.ft.lk/news/Zohran-Mamdani-sworn-in-as-New-York-City-Mayor-creating-history/56-786386",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767314628.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-67d4eb36",
+    "num": "dailyftlk-67d4eb36",
+    "date_str": "2026-01-02",
+    "description": "Tri-Forces donate Rs. 372 m to \u2018Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/news/Tri-Forces-donate-Rs-372-m-to-Rebuilding-Sri-Lanka-Fund/56-786387",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767314706.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-9403bfed",
+    "num": "dailyftlk-9403bfed",
+    "date_str": "2026-01-02",
+    "description": "Civil society, trade unions, activists urge Govt. to withdraw Protection of the State from Terrorism Bill",
+    "url_metadata": "https://www.ft.lk/opinion/Civil-society-trade-unions-activists-urge-Govt-to-withdraw-Protection-of-the-State-from-Terrorism-Bill/14-786389",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767314902.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-5b627fae",
+    "num": "dailyftlk-5b627fae",
+    "date_str": "2026-01-02",
+    "description": "Separating ownership and operation will significantly improve public bus transportation system",
+    "url_metadata": "https://www.ft.lk/columns/Separating-ownership-and-operation-will-significantly-improve-public-bus-transportation-system/4-786390",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767315144.0
   }
 ]
