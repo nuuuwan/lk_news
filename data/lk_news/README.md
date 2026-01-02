@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_23:47:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--03_00:23:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,671** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,675** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-02-virakesarilk-1b94eda6",
-    "num": "virakesarilk-1b94eda6",
-    "date_str": "2026-01-02",
-    "description": "\u0ba4\u0bc8\u0baf\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0ba4\u0bbf\u0bb8\u0bcd\u0bb8 \u0bb5\u0bbf\u0b95\u0bbe\u0bb0\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/235079",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1767373800.0
+    "doc_id": "2026-01-03-dailyftlk-1c1f800c",
+    "num": "dailyftlk-1c1f800c",
+    "date_str": "2026-01-03",
+    "description": "Solar power on irrigation canals: A dual solution for energy and water conservation",
+    "url_metadata": "https://www.ft.lk/columns/Solar-power-on-irrigation-canals-A-dual-solution-for-energy-and-water-conservation/4-786438",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767379551.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-03 | `dailyftlk-1c1f800c` | Solar power on irrigation canals: A dual solution for energy and water conservation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-dailyftlk-1c1f800c)
+- 2026-01-03 | `dailyftlk-08989591` | Cyclone Ditwah: Wake-up call for national security policy and strategy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-dailyftlk-08989591)
+- 2026-01-03 | `dailyftlk-22729829` | Sri Lanka’s collision with nature: Lessons from India to address agrarian question and employment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-dailyftlk-22729829)
 - 2026-01-02 | `virakesarilk-1b94eda6` | தையிட்டி திஸ்ஸ விகாராதிபதியுடன் அரசாங்க அதிபர் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-1b94eda6)
 - 2026-01-02 | `virakesarilk-f09a1e24` | 2024 ரி20 உலகக் கிண்ணத்தில் விளையாடிய 7 வீரர்கள் தென் ஆபிரிக்காவின் 2026 குழாத்திலும் இடம்பெறுகின்றனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-f09a1e24)
 - 2026-01-02 | `virakesarilk-619722c7` | மெக்சிகோவில் 6.5 ரிக்டர் அளவில் நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-619722c7)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-01-02 | `virakesarilk-c656026b` | அரசாங்கம் தனது தவறுகளை அதிகாரிகள் மீது சுமத்தி தப்பிக்கப் பார்க்கிறது - ஜானக வக்கும்புர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-c656026b)
 - 2026-01-02 | `virakesarilk-c85acdcc` | டியர் ரதி - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-c85acdcc)
 - 2026-01-02 | `virakesarilk-ef480284` | ஆயுதக் குழுவின் அச்சுறுத்தலுக்கு மத்தியில் 14 ஆபிரிக்க இராணுவத்தினரை பாதுகாப்பாக மீட்ட இலங்கை விமானப்படையின் அமைதி காக்கும் படைப்பிரிவினர்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-ef480284)
-- 2026-01-02 | `virakesarilk-2fbb5935` | தி பெட்-  திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-2fbb5935)
-- 2026-01-02 | `virakesarilk-631f1c69` | மன்னார் நீதிமன்றத்துக்கு முன் இடம்பெற்ற துப்பாக்கிச் சூடு : பிரதான சந்தேக நபரை சி.ஐ.டி  தடுத்துவைத்து விசாரணை நடத்த நீதிமன்றம் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-631f1c69)
-- 2026-01-02 | `virakesarilk-a6a5ce81` | 2025 ஆம் ஆண்டு கடற்படை சுற்றிவளைப்பில் ரூ.75,000 மில்லியனுக்கும் அதிக மதிப்புள்ள போதைப்பொருட்களுடன் 376 சந்தேக நபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-a6a5ce81)
 
 ---
 
