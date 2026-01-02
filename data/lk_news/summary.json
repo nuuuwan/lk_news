@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-02 07:13:50",
-  "n_docs": 96531,
+  "time_updated": "2026-01-02 08:22:30",
+  "n_docs": 96534,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 96531,
+  "n_docs_with_text": 96534,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-02",
-  "dataset_size": 1457645854,
+  "dataset_size": 1457766357,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-02-dailyftlk-ae863780",
-    "num": "dailyftlk-ae863780",
+    "doc_id": "2026-01-02-adalk-e348bac8",
+    "num": "adalk-e348bac8",
     "date_str": "2026-01-02",
-    "description": "Ceylon Cold Stores wins top honour at Sri Lanka National Quality Awards 2023",
-    "url_metadata": "https://www.ft.lk/business/Ceylon-Cold-Stores-wins-top-honour-at-Sri-Lanka-National-Quality-Awards-2023/34-786396",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1767317412.0
+    "description": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0dc0\u0dcf\u0dba\u0dd4\u0d9c\u0ddd\u0dbd\u0dba\u0dda \u0d9a\u0dd0\u0dc5\u0db9\u0dd3\u0db8\u0d9a\u0dca \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd9\u0dba\u0dd2, \u0dc0\u0dd0\u0dc3\u0dca\u0dc3\u0dad\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb-\u0dc0\u0dcf\u0dba\u0dd4\u0d9c\u0ddd\u0dbd\u0dba\u0dda-\u0d9a\u0dd0\u0dc5\u0db9\u0dd3\u0db8\u0d9a\u0dca-\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba-\u0dc0\u0dd9\u0dba\u0dd2--\u0dc0\u0dd0\u0dc3\u0dca\u0dc3\u0dad\u0dca-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/11-420576",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1767317449.0
   }
 }
