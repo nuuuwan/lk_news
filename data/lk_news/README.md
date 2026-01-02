@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_19:46:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_20:19:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,653** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,655** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-02-tamilmirrorlk-02dd104c",
-    "num": "tamilmirrorlk-02dd104c",
+    "doc_id": "2026-01-02-tamilmirrorlk-4a160768",
+    "num": "tamilmirrorlk-4a160768",
     "date_str": "2026-01-02",
-    "description": "\u0b86\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0baa\u0bcd \u0baa\u0bbe\u0b9f\u0baa\u0bcd \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0baa\u0bcd-\u0baa\u0bbe\u0b9f\u0baa\u0bcd-\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0bae\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd/175-370455",
+    "description": "80 \u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0ba9\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/80-\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0ba9\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd-\u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba9/175-370456",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767362348.0
+    "time_ut": 1767363273.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-02 | `tamilmirrorlk-4a160768` | 80 வீதமானோருக்கு இறப்புச் சான்றிதழ்கள் வழங்கப்பட்டுள்ளன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-4a160768)
 - 2026-01-02 | `tamilmirrorlk-02dd104c` | ஆங்கிலப் பாடப் புத்தகம் தொடர்பில் அதிரடி தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-02dd104c)
 - 2026-01-02 | `tamilmirrorlk-8953d93c` | 300 கோடி ரூபாய் பெறுமதியான பொருட்கள் அழிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-8953d93c)
 - 2026-01-02 | `virakesarilk-19564887` | மார்க் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-19564887)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-02 | `virakesarilk-7402e2e1` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு இலங்கை தொலைத்தொடர்புகள் ஒழுங்குபடுத்தும் ஆணைக்குழுவினால் நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-7402e2e1)
 - 2026-01-02 | `virakesarilk-ac0a3d03` | பதுளை மற்றும் குருநாகல் மாவட்டங்களில் கடற்படையால் 04 மீள் நீர் சுத்திகரிப்பு நிலையங்கள் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-ac0a3d03)
 - 2026-01-02 | `virakesarilk-675879f1` | யாழ். நெடுந்தீவு பிரதேச செயலகத்திற்கு புதிய உதவி பிரதேச செயலாளர் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-675879f1)
-- 2026-01-02 | `virakesarilk-0e1a741d` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு முப்படைகளின் அனைத்து தரநிலை உத்தியோகஸ்தர்களின் ஒரு நாள் சம்பளம்  372 மில்லியன் ரூபாய் அன்பளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-0e1a741d)
 
 ---
 
