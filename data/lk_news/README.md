@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--03_03:14:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--03_03:46:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,685** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,686** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-03-dailyftlk-89b4fbdd",
-    "num": "dailyftlk-89b4fbdd",
+    "doc_id": "2026-01-03-tamilmirrorlk-2f51c2b1",
+    "num": "tamilmirrorlk-2f51c2b1",
     "date_str": "2026-01-03",
-    "description": "Sri Lanka participates at intl. conference on Global Partnership against Online Scams in Bangkok",
-    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-participates-at-intl-conference-on-Global-Partnership-against-Online-Scams-in-Bangkok/56-786453",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1767380744.0
+    "description": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0ba8\u0bc7\u0bb0\u0bae\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-370469",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767391530.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-03 | `tamilmirrorlk-2f51c2b1` | பாடசாலை நேரம் தொடர்பில் புதிய அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-2f51c2b1)
 - 2026-01-03 | `dailyftlk-89b4fbdd` | Sri Lanka participates at intl. conference on Global Partnership against Online Scams in Bangkok | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-dailyftlk-89b4fbdd)
 - 2026-01-03 | `dailyftlk-e405f027` | Thisuri Wanniarachchi blows lid off decision making in Government with new book | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-dailyftlk-e405f027)
 - 2026-01-03 | `dailyftlk-f0604296` | Sports Ministry issues clarification on provision of Sugathadasa  Stadium for musical concert | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-dailyftlk-f0604296)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-02 | `virakesarilk-8fdb5436` | 2025 இல் 3,625 மில்லியன் மாத்திரைகள்; அரச மருந்தாக்கக் கூட்டுத்தாபனத்தின் வரலாற்றுச் சாதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-8fdb5436)
 - 2026-01-02 | `virakesarilk-fb6ce9e4` | உயர் அதிகாரிகளின் நேரடி மேற்பார்வையுடன் 170 கிலோ ஹெரோயின் எரியூட்டி அழிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-fb6ce9e4)
 - 2026-01-02 | `tamilmirrorlk-4a160768` | 80 வீதமானோருக்கு இறப்புச் சான்றிதழ்கள் வழங்கப்பட்டுள்ளன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-4a160768)
-- 2026-01-02 | `virakesarilk-5854f8ff` | பொலிஸ் கழகத்தை தோல்வி அடையாத பெலிக்கன்ஸ் எதிர்கொள்கிறது; செரெண்டிக் கழகத்தை வெற்றிக்காக ஏங்கும் நிகம்போ யூத் சந்திக்கிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-5854f8ff)
 
 ---
 
