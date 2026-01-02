@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_13:18:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_13:48:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,594** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,596** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-02-tamilmirrorlk-d320458d",
-    "num": "tamilmirrorlk-d320458d",
+    "doc_id": "2026-01-02-tamilmirrorlk-9bf2a027",
+    "num": "tamilmirrorlk-9bf2a027",
     "date_str": "2026-01-02",
-    "description": "\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb2\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-370438",
+    "description": "\u0b95\u0bbf\u0ba9\u0bbf\u0b95\u0ba4\u0bcd\u0ba4\u0bc7\u0ba9\u0bc8 \u0bb5\u0bc0\u0ba4\u0bbf 6 \u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0ba4\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0bbf\u0ba9\u0bbf\u0b95\u0ba4\u0bcd\u0ba4\u0bc7\u0ba9\u0bc8-\u0bb5\u0bc0\u0ba4\u0bbf-6-\u0bb5\u0bb0\u0bc1\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd-\u0ba4\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1/76-370439",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767339896.0
+    "time_ut": 1767340350.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-02 | `tamilmirrorlk-9bf2a027` | கினிகத்தேனை வீதி 6 வருடங்களின் பின்னர் திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-9bf2a027)
 - 2026-01-02 | `tamilmirrorlk-d320458d` | லிட்ரோ அதிரடி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-d320458d)
 - 2026-01-02 | `virakesarilk-6dbb3211` | நயினாதீவு விகாராதிபதி தையிட்டிக்கு விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-6dbb3211)
 - 2026-01-02 | `tamilmirrorlk-471883b6` | சி.வை.பி ராம் இராஜினாமா: சஜித் மௌனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-471883b6)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-02 | `virakesarilk-3cec826f` | கண்டியில் பாதுகாப்பு மையத்தை பார்வையிட்டார் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-3cec826f)
 - 2026-01-02 | `virakesarilk-8641b6c5` | புனரமைக்கப்பட்ட தல்பே ரயில் நிலையம் இன்று திறப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-8641b6c5)
 - 2026-01-02 | `adalk-41d05d6a` | මහජන බැංකුව 2026 නව වසරේ වැඩ අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-adalk-41d05d6a)
-- 2026-01-02 | `tamilmirrorlk-2b1ae74b` | ‘தமிழ் சினிமா மெல்ல சாகும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-2b1ae74b)
 
 ---
 
