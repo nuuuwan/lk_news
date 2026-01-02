@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_11:21:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_11:49:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,567** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,577** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-02-tamilmirrorlk-2b1ae74b",
-    "num": "tamilmirrorlk-2b1ae74b",
+    "doc_id": "2026-01-02-tamilmirrorlk-bd392250",
+    "num": "tamilmirrorlk-bd392250",
     "date_str": "2026-01-02",
-    "description": "\u2018\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b9a\u0bbf\u0ba9\u0bbf\u0bae\u0bbe \u0bae\u0bc6\u0bb2\u0bcd\u0bb2 \u0b9a\u0bbe\u0b95\u0bc1\u0bae\u0bcd\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0b9a\u0bbf\u0ba9\u0bbf\u0bae\u0bbe-\u0bae\u0bc6\u0bb2\u0bcd\u0bb2-\u0b9a\u0bbe\u0b95\u0bc1\u0bae\u0bcd/54-370433",
+    "description": "\u0b95\u0bbe\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2\u0bcd \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd 11 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb2\u0bcd-\u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-11-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-370434",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767332727.0
+    "time_ut": 1767333830.0
 }
 ```
 
@@ -41,9 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-02 | `tamilmirrorlk-bd392250` | காரைக்கால் மீனவர்கள் 11 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-bd392250)
+- 2026-01-02 | `virakesarilk-489b1b4b` | அகலவத்தை பகுதியில்  குடும்பத் தகராறு: கணவன் தாக்கியதில் மனைவி பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-489b1b4b)
+- 2026-01-02 | `virakesarilk-3cec826f` | கண்டியில் பாதுகாப்பு மையத்தை பார்வையிட்டார் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-3cec826f)
+- 2026-01-02 | `virakesarilk-8641b6c5` | புனரமைக்கப்பட்ட தல்பே ரயில் நிலையம் இன்று திறப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-8641b6c5)
 - 2026-01-02 | `tamilmirrorlk-2b1ae74b` | ‘தமிழ் சினிமா மெல்ல சாகும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-2b1ae74b)
 - 2026-01-02 | `tamilmirrorlk-9fcfd391` | விராட் கோலியின் முதல் பதிவே வைரலானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-9fcfd391)
+- 2026-01-02 | `virakesarilk-e9df40c0` | கொஹுவளையில் 16 வயது சிறுமி மீது துப்பாக்கிச் சூடு : சந்தேகநபரை பிடிக்க பொதுமக்களின் உதவியை நாடும் பொலிஸார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-e9df40c0)
+- 2026-01-02 | `virakesarilk-d7474287` | 11 இந்திய மீனவர்கள் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-d7474287)
 - 2026-01-02 | `tamilmirrorlk-510411bc` | ஆடையை கழற்றி விட்டு நடனமாட சொன்னார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-510411bc)
+- 2026-01-02 | `virakesarilk-ce70ef6b` | அமரபுர மகா நாயக்க தேரரை சந்தித்து ஆசி பெற்றார் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-ce70ef6b)
+- 2026-01-02 | `virakesarilk-578e96a9` | பொலிஸாரால் கைப்பற்றப்பட்ட 170 கிலோ ஹெரோயின் இன்று அழிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-578e96a9)
 - 2026-01-02 | `tamilmirrorlk-50349a88` | கரையோர கடல் கொந்தளிப்பாக இருக்கும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-50349a88)
 - 2026-01-02 | `tamilmirrorlk-76a59087` | மன உளைச்சலால் 85 சதவீத விபத்து பதிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-76a59087)
 - 2026-01-02 | `tamilmirrorlk-397b35cf` | 79 வயதான மனைவியை அடித்துக்கொன்ற 84 வயதான கணவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-397b35cf)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-01-02 | `virakesarilk-869bdf9e` | கொரத்தொட்ட  துப்பாக்கிச்சூடு ; பொலிஸார் வெளியிட்ட தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-869bdf9e)
 - 2026-01-02 | `tamilmirrorlk-45b84f92` | மட்டக்களப்பு நகரில் பரபரப்பு: இளைஞனின் சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-45b84f92)
 - 2026-01-02 | `virakesarilk-11dc455b` | ராமன்ய மகா பீடத்தின் மகாநாயக்க தேரரைச் சந்தித்தார் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-11dc455b)
-- 2026-01-02 | `tamilmirrorlk-ea85f5e9` | 2025 இல்  CERT 12,650  ஆன்லைன் புகார்களைப் பெற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-ea85f5e9)
-- 2026-01-02 | `virakesarilk-2eee456f` | DEO GLOBAL குழுமத்தின் வருடாந்த விருது வழங்கும் விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-2eee456f)
-- 2026-01-02 | `virakesarilk-a15fe0b7` | புல்மோட்டையில் கால்வாயில் விழுந்து மோட்டார் சைக்கிள் ஓட்டுநர் னஉயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-a15fe0b7)
-- 2026-01-02 | `tamilmirrorlk-234b51f9` | மருதங்கேணியில் கத்தி குத்து ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-234b51f9)
-- 2026-01-02 | `virakesarilk-50101300` | ஈரானில் போராட்டக்காரர்களுக்கும் பாதுகாப்புப் படையினருக்கும் இடையே மோதல் - 06 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-50101300)
-- 2026-01-02 | `virakesarilk-fdfea2d9` | நாட்டின் இருவேறு பகுதிகளில் கோர விபத்து: இருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-fdfea2d9)
-- 2026-01-02 | `virakesarilk-6fe765e2` | தொல்பொருட்களுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-6fe765e2)
-- 2026-01-02 | `tamilmirrorlk-75f20dd8` | நவகமுவ துப்பாக்கிச் சூட்டில் ஒருவர் பலி;  இருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-75f20dd8)
 
 ---
 
