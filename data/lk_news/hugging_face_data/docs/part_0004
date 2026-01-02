@@ -1938,5 +1938,104 @@ b\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1-\u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dc
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1767317449.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-adalk-37ee0ce9",
+    "num": "adalk-37ee0ce9",
+    "date_str": "2026-01-02",
+    "description": "\u0db1\u0dc0\u0d9c\u0db8\u0dd4\u0dc0 \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dc0\u0dd4. 20\u0d9a \u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dc0\u0d9c\u0db8\u0dd4\u0dc0-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0dc0\u0dd4--20\u0d9a-\u0dad\u0dbb\u0dd4\u0dab\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-420577",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1767317698.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-9d23769c",
+    "num": "dailyftlk-9d23769c",
+    "date_str": "2026-01-02",
+    "description": "Ferentino Tyres redefines OEM tyre market in Sri Lanka with 75% value share",
+    "url_metadata": "https://www.ft.lk/business/Ferentino-Tyres-redefines-OEM-tyre-market-in-Sri-Lanka-with-75-value-share/34-786422",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767322775.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-5d6530d2",
+    "num": "dailyftlk-5d6530d2",
+    "date_str": "2026-01-02",
+    "description": "Ashraff Associates appoints new Creative Director",
+    "url_metadata": "https://www.ft.lk/business/Ashraff-Associates-appoints-new-Creative-Director/34-786423",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767322835.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-54cfc261",
+    "num": "dailyftlk-54cfc261",
+    "date_str": "2026-01-02",
+    "description": "Govt. rolls out concessionary loan scheme for SME paddy millers to support Maha harvest prices",
+    "url_metadata": "https://www.ft.lk/business/Govt-rolls-out-concessionary-loan-scheme-for-SME-paddy-millers-to-support-Maha-harvest-prices/34-786424",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767322851.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-895a7ee0",
+    "num": "dailyftlk-895a7ee0",
+    "date_str": "2026-01-02",
+    "description": "eMarketingEye donates Rs. 10 m to \u2018Rebuilding Sri Lanka\u2019 fund",
+    "url_metadata": "https://www.ft.lk/business/eMarketingEye-donates-Rs-10-m-to-Rebuilding-Sri-Lanka-fund/34-786425",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767322898.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-3e3a4733",
+    "num": "dailyftlk-3e3a4733",
+    "date_str": "2026-01-02",
+    "description": "SPAR Group, South Africa, pledges Rs. 35 m to the \u2018Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/business/SPAR-Group-South-Africa-pledges-Rs-35-m-to-the-Rebuilding-Sri-Lanka-Fund/34-786426",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767322947.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-dailyftlk-07bda7cc",
+    "num": "dailyftlk-07bda7cc",
+    "date_str": "2026-01-02",
+    "description": "Port City Colombo turns 11: Developer reaffirms commitment to progress further",
+    "url_metadata": "https://www.ft.lk/business/Port-City-Colombo-turns-11-Developer-reaffirms-commitment-to-progress-further/34-786427",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767323017.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-adalk-bb349e9f",
+    "num": "adalk-bb349e9f",
+    "date_str": "2026-01-02",
+    "description": "\u0db8\u0dda \u0dc0\u0dc3\u0dbb\u0dda \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1 \u0dc0\u0dd9\u0dbd\u0dc0 \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dda-\u0dc0\u0dc3\u0dbb\u0dda-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0db4\u0dc0\u0dad\u0dca\u0dc0\u0db1-\u0dc0\u0dd9\u0dbd\u0dc0-\u0daf\u0dd3\u0dbb\u0dca\u0d9d-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd1/11-420581",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1767323496.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-tamilmirrorlk-75f20dd8",
+    "num": "tamilmirrorlk-75f20dd8",
+    "date_str": "2026-01-02",
+    "description": "\u0ba8\u0bb5\u0b95\u0bae\u0bc1\u0bb5 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf;  \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bb5\u0b95\u0bae\u0bc1\u0bb5-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-370420",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767324973.0
   }
 ]

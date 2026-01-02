@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_08:23:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_09:15:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,534** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,543** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-02-adalk-e348bac8",
-    "num": "adalk-e348bac8",
+    "doc_id": "2026-01-02-tamilmirrorlk-75f20dd8",
+    "num": "tamilmirrorlk-75f20dd8",
     "date_str": "2026-01-02",
-    "description": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0dc0\u0dcf\u0dba\u0dd4\u0d9c\u0ddd\u0dbd\u0dba\u0dda \u0d9a\u0dd0\u0dc5\u0db9\u0dd3\u0db8\u0d9a\u0dca \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dd9\u0dba\u0dd2, \u0dc0\u0dd0\u0dc3\u0dca\u0dc3\u0dad\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb-\u0dc0\u0dcf\u0dba\u0dd4\u0d9c\u0ddd\u0dbd\u0dba\u0dda-\u0d9a\u0dd0\u0dc5\u0db9\u0dd3\u0db8\u0d9a\u0dca-\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba-\u0dc0\u0dd9\u0dba\u0dd2--\u0dc0\u0dd0\u0dc3\u0dca\u0dc3\u0dad\u0dca-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/11-420576",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1767317449.0
+    "description": "\u0ba8\u0bb5\u0b95\u0bae\u0bc1\u0bb5 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf;  \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bb5\u0b95\u0bae\u0bc1\u0bb5-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-370420",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767324973.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-02 | `tamilmirrorlk-75f20dd8` | நவகமுவ துப்பாக்கிச் சூட்டில் ஒருவர் பலி;  இருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-75f20dd8)
+- 2026-01-02 | `adalk-bb349e9f` | මේ වසරේ පාසල් පවත්වන වෙලව දීර්ඝ කරන්නේ නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-adalk-bb349e9f)
+- 2026-01-02 | `dailyftlk-07bda7cc` | Port City Colombo turns 11: Developer reaffirms commitment to progress further | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-07bda7cc)
+- 2026-01-02 | `dailyftlk-3e3a4733` | SPAR Group, South Africa, pledges Rs. 35 m to the ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-3e3a4733)
+- 2026-01-02 | `dailyftlk-895a7ee0` | eMarketingEye donates Rs. 10 m to ‘Rebuilding Sri Lanka’ fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-895a7ee0)
+- 2026-01-02 | `dailyftlk-54cfc261` | Govt. rolls out concessionary loan scheme for SME paddy millers to support Maha harvest prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-54cfc261)
+- 2026-01-02 | `dailyftlk-5d6530d2` | Ashraff Associates appoints new Creative Director | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-5d6530d2)
+- 2026-01-02 | `dailyftlk-9d23769c` | Ferentino Tyres redefines OEM tyre market in Sri Lanka with 75% value share | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-9d23769c)
+- 2026-01-02 | `adalk-37ee0ce9` | නවගමුව වෙඩි තැබීමකින් අවු. 20ක තරුණයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-adalk-37ee0ce9)
 - 2026-01-02 | `adalk-e348bac8` | නැගෙනහිර වායුගෝලයේ කැළඹීමක් වර්ධනය වෙයි, වැස්සත් වැඩි වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-adalk-e348bac8)
 - 2026-01-02 | `dailyftlk-ae863780` | Ceylon Cold Stores wins top honour at Sri Lanka National Quality Awards 2023 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-ae863780)
 - 2026-01-02 | `dailyftlk-babd8b90` | The 2nd National Data Protection Symposium on  6 January | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-babd8b90)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-01-02 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-3a015e4a)
 - 2026-01-02 | `dailyftlk-5b627fae` | Separating ownership and operation will significantly improve public bus transportation system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-5b627fae)
 - 2026-01-02 | `dailyftlk-9403bfed` | Civil society, trade unions, activists urge Govt. to withdraw Protection of the State from Terrorism Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-9403bfed)
-- 2026-01-02 | `dailyftlk-67d4eb36` | Tri-Forces donate Rs. 372 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-67d4eb36)
-- 2026-01-02 | `dailyftlk-e5398c2e` | Zohran Mamdani sworn in as New York City Mayor, creating history | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-e5398c2e)
-- 2026-01-02 | `dailyftlk-28491fb9` | President pays homage to Sacred Tooth Relic | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-28491fb9)
-- 2026-01-02 | `dailyftlk-62660fc5` | Estate workers donate to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-62660fc5)
-- 2026-01-02 | `tamilmirrorlk-8c2bb962` | குடும்பஸ்தர் குத்திக் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-8c2bb962)
-- 2026-01-02 | `virakesarilk-0fb7cb51` | 2026 இல் பாடசாலை நேரம் நீடிக்கப்படாது – கல்வி அமைச்சகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-0fb7cb51)
-- 2026-01-02 | `tamilmirrorlk-40cade1c` | புத்தாண்டு கொண்டாட்டத்தில் தாக்குதல்: ரஷ்யாவில் 24 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-tamilmirrorlk-40cade1c)
-- 2026-01-02 | `virakesarilk-24829cf4` | கொரத்தொட்டை, மெனிக்காரா வீதியில் துப்பாக்கிச் சூடு : ஒருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-24829cf4)
-- 2026-01-02 | `virakesarilk-f42673d1` | தையிட்டி விகாராதிபதி பதவி உயர்வுக்கு எதிராக போராட்டம்: 11 உறுப்பினர்களுக்கு அழைப்பு கட்டளை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-f42673d1)
 
 ---
 
