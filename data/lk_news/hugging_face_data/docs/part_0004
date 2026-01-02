@@ -3489,5 +3489,115 @@ b\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1-\u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dc
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1767379551.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-dailyftlk-36e8890e",
+    "num": "dailyftlk-36e8890e",
+    "date_str": "2026-01-03",
+    "description": "What is local governance?",
+    "url_metadata": "https://www.ft.lk/columns/What-is-local-governance/4-786440",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767379768.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-dailyftlk-8be8b6de",
+    "num": "dailyftlk-8be8b6de",
+    "date_str": "2026-01-03",
+    "description": "Cleantech and Pepsi partner to accelerate Sri Lanka\u2019s  circular economy journey",
+    "url_metadata": "https://www.ft.lk/business/Cleantech-and-Pepsi-partner-to-accelerate-Sri-Lanka-s-circular-economy-journey/34-786444",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767380218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-dailyftlk-267bad1b",
+    "num": "dailyftlk-267bad1b",
+    "date_str": "2026-01-03",
+    "description": "Russel\u2019s hosts Christmas decorations competition at head office",
+    "url_metadata": "https://www.ft.lk/business/Russel-s-hosts-Christmas-decorations-competition-at-head-office/34-786445",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767380256.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-dailyftlk-2599f41b",
+    "num": "dailyftlk-2599f41b",
+    "date_str": "2026-01-03",
+    "description": "Sunshine Holdings sets standard for workplace excellence",
+    "url_metadata": "https://www.ft.lk/business/Sunshine-Holdings-sets-standard-for-workplace-excellence/34-786446",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767380343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-dailyftlk-9254e4d0",
+    "num": "dailyftlk-9254e4d0",
+    "date_str": "2026-01-03",
+    "description": "NDB enhances festive experience  at KCC Splash Shopping Fiesta 2025",
+    "url_metadata": "https://www.ft.lk/business/NDB-enhances-festive-experience-at-KCC-Splash-Shopping-Fiesta-2025/34-786447",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767380380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-dailyftlk-da62c413",
+    "num": "dailyftlk-da62c413",
+    "date_str": "2026-01-03",
+    "description": "EDB hosts networking session for new and potential exporters",
+    "url_metadata": "https://www.ft.lk/business/EDB-hosts-networking-session-for-new-and-potential-exporters/34-786448",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767380441.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-dailyftlk-b32ca27f",
+    "num": "dailyftlk-b32ca27f",
+    "date_str": "2026-01-03",
+    "description": "Electronic card fare payments rolled out on SLTB buses",
+    "url_metadata": "https://www.ft.lk/news/Electronic-card-fare-payments-rolled-out-on-SLTB-buses/56-786450",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767380560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-dailyftlk-f0604296",
+    "num": "dailyftlk-f0604296",
+    "date_str": "2026-01-03",
+    "description": "Sports Ministry issues clarification on provision of Sugathadasa  Stadium for musical concert",
+    "url_metadata": "https://www.ft.lk/news/Sports-Ministry-issues-clarification-on-provision-of-Sugathadasa-Stadium-for-musical-concert/56-786451",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767380568.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-dailyftlk-e405f027",
+    "num": "dailyftlk-e405f027",
+    "date_str": "2026-01-03",
+    "description": "Thisuri Wanniarachchi blows lid off decision making in Government with new book",
+    "url_metadata": "https://www.ft.lk/news/Thisuri-Wanniarachchi-blows-lid-off-decision-making-in-Government-with-new-book/56-786452",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767380659.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-dailyftlk-89b4fbdd",
+    "num": "dailyftlk-89b4fbdd",
+    "date_str": "2026-01-03",
+    "description": "Sri Lanka participates at intl. conference on Global Partnership against Online Scams in Bangkok",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-participates-at-intl-conference-on-Global-Partnership-against-Online-Scams-in-Bangkok/56-786453",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767380744.0
   }
 ]
