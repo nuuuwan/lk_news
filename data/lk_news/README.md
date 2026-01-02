@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_09:15:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_10:00:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,543** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,544** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -49,6 +49,7 @@ A collection of lk_news documents.
 - 2026-01-02 | `dailyftlk-54cfc261` | Govt. rolls out concessionary loan scheme for SME paddy millers to support Maha harvest prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-54cfc261)
 - 2026-01-02 | `dailyftlk-5d6530d2` | Ashraff Associates appoints new Creative Director | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-5d6530d2)
 - 2026-01-02 | `dailyftlk-9d23769c` | Ferentino Tyres redefines OEM tyre market in Sri Lanka with 75% value share | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-9d23769c)
+- 2026-01-02 | `adalk-67fe9dc0` | ඉඩම් ආරවුලක් තිදෙනෙකුට මරු ගෙනෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-adalk-67fe9dc0)
 - 2026-01-02 | `adalk-37ee0ce9` | නවගමුව වෙඩි තැබීමකින් අවු. 20ක තරුණයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-adalk-37ee0ce9)
 - 2026-01-02 | `adalk-e348bac8` | නැගෙනහිර වායුගෝලයේ කැළඹීමක් වර්ධනය වෙයි, වැස්සත් වැඩි වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-adalk-e348bac8)
 - 2026-01-02 | `dailyftlk-ae863780` | Ceylon Cold Stores wins top honour at Sri Lanka National Quality Awards 2023 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-ae863780)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-02 | `dailyftlk-dc88a487` | From crisis to creativity: Rethinking economic resilience in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-dc88a487)
 - 2026-01-02 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-virakesarilk-3a015e4a)
 - 2026-01-02 | `dailyftlk-5b627fae` | Separating ownership and operation will significantly improve public bus transportation system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-5b627fae)
-- 2026-01-02 | `dailyftlk-9403bfed` | Civil society, trade unions, activists urge Govt. to withdraw Protection of the State from Terrorism Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-02-dailyftlk-9403bfed)
 
 ---
 
