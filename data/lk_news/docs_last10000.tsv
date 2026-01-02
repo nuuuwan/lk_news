@@ -1,4 +1,5 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2026-01-02-tamilmirrorlk-8953d93c	tamilmirrorlk-8953d93c	2026-01-02	300 கோடி ரூபாய் பெறுமதியான பொருட்கள் அழிப்பு	https://www.tamilmirror.lk/செய்திகள்/300-கோடி-ரூபாய்-பெறுமதியான-பொருட்கள்-அழிப்பு/175-370454	ta	tamilmirrorlk	1767361413.0
 lk_news	2026-01-02-virakesarilk-19564887	virakesarilk-19564887	2026-01-02	மார்க் - திரைப்பட விமர்சனம்	https://www.virakesari.lk/article/235071	ta	virakesarilk	1767357660.0
 lk_news	2026-01-02-virakesarilk-c656026b	virakesarilk-c656026b	2026-01-02	அரசாங்கம் தனது தவறுகளை அதிகாரிகள் மீது சுமத்தி தப்பிக்கப் பார்க்கிறது - ஜானக வக்கும்புர	https://www.virakesari.lk/article/235065	ta	virakesarilk	1767357480.0
 lk_news	2026-01-02-virakesarilk-c85acdcc	virakesarilk-c85acdcc	2026-01-02	டியர் ரதி - திரைப்பட விமர்சனம்	https://www.virakesari.lk/article/235069	ta	virakesarilk	1767357120.0
@@ -27,6 +28,7 @@ lk_news	2026-01-02-virakesarilk-17d348cf	virakesarilk-17d348cf	2026-01-02	பெ
 lk_news	2026-01-02-tamilmirrorlk-9424523b	tamilmirrorlk-9424523b	2026-01-02	நாகதீப விகாராதிபதி  தையிட்டிக்கு விஜயம்	https://www.tamilmirror.lk/பிரதான-செய்திகள்/நாகதீப-விகாராதிபதி-தையிட்டிக்கு-விஜயம்/46-370450	ta	tamilmirrorlk	1767349770.0
 lk_news	2026-01-02-virakesarilk-1d229ada	virakesarilk-1d229ada	2026-01-02	'சுப்ரீம் ஸ்டார்' சரத்குமார் நடிக்கும் 'ஆழி' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு	https://www.virakesari.lk/article/235042	ta	virakesarilk	1767348900.0
 lk_news	2026-01-02-tamilmirrorlk-7275355b	tamilmirrorlk-7275355b	2026-01-02	200 பேருடன் மூழ்கிய படகு:  டஜன் கணக்கானவர்கள் மாயம்	https://www.tamilmirror.lk/உலக-செய்திகள்/200-பேருடன்-மூழ்கிய-படகு-டஜன்-கணக்கானவர்கள்-மாயம்/50-370447	ta	tamilmirrorlk	1767348512.0
+lk_news	2026-01-02-adalk-730cc752	adalk-730cc752	2026-01-02	ගොවින්ට දෙන්න ගෙනා පොහොර ටොන් 14,400ක් ගබඩාවල	https://www.ada.lk/breaking_news/ගොවින්ට-දෙන්න-ගෙනා-පොහොර-ටොන්-14-400ක්-ගබඩාවල/11-420593	si	adalk	1767348312.0
 lk_news	2026-01-02-virakesarilk-0f3f7e56	virakesarilk-0f3f7e56	2026-01-02	ஆசிய – பசிபிக் அமைதிக்கு ஜப்பான் தடையாகிறதா?	https://www.virakesari.lk/article/235037	ta	virakesarilk	1767348300.0
 lk_news	2026-01-02-virakesarilk-505bdf2c	virakesarilk-505bdf2c	2026-01-02	இலங்கையின் முதல் ATM வணிகம், தொழில்நுட்ப கண்காட்சியை வெற்றிகரமாக நிறைவுசெய்த KAL	https://www.virakesari.lk/article/235036	ta	virakesarilk	1767348240.0
 lk_news	2026-01-02-virakesarilk-26c5535e	virakesarilk-26c5535e	2026-01-02	இயக்குநர் வெற்றிமாறன் வெளியிட்ட 'லட்சுமி காந்தன் கொலை வழக்கு' படத்தின் ஃபர்ஸ்ட் லுக்	https://www.virakesari.lk/article/235039	ta	virakesarilk	1767348240.0
@@ -9999,5 +10001,3 @@ lk_news	2025-11-14-virakesarilk-5faa6756	virakesarilk-5faa6756	2025-11-14	கு
 lk_news	2025-11-14-adalk-fbbbcca6	adalk-fbbbcca6	2025-11-14	බී.බී.සී. ට්‍රම්ප්ගෙන් සමාව ඉල්ලයි	https://www.ada.lk/breaking_news/බී-බී-සී--ට්‍රම්ප්ගෙන්-සමාව-ඉල්ලයි/11-419689	si	adalk	1763107275.0
 lk_news	2025-11-14-bbccomsinhala-09f3d9ee	bbccomsinhala-09f3d9ee	2025-11-14	'මට දැන් ඕනේ මගේ දරුවන් මිහිදන් කරපු තැනට ගිහින් ඒ අයට මලක් පහනක් තියලා එන්න': කැනඩාවේදී දරුවන් සිව් දෙනෙකු සමග ඝාතනයට ලක් වූ දර්ශනීගේ මව බීබීසීයට කතා කරයි	https://www.bbc.com/sinhala/articles/crkl30mjzjko	si	bbccomsinhala	1763107163.0
 lk_news	2025-11-14-lankadeepalk-1acbdd7b	lankadeepalk-1acbdd7b	2025-11-14	හල්ඔළුවට එරෙහි වරෙන්තුව ආපසු කැඳවයි	https://www.lankadeepa.lk/news/හලඔළවට-එරහ-වරනතව-ආපස-කඳවය/101-683161	si	lankadeepalk	1763106933.0
-lk_news	2025-11-14-adalk-b4a60dbc	adalk-b4a60dbc	2025-11-14	2025 මුල් මාස අටේ රාජ්‍ය ආයෝජන වියදම රු.බි. 338	https://www.ada.lk/breaking_news/2025-මුල්-මාස-අටේ-රාජ්‍ය-ආයෝජන-වියදම-රු-බි--338/11-419688	si	adalk	1763106590.0
-lk_news	2025-11-14-lankadeepalk-fb361700	lankadeepalk-fb361700	2025-11-14	පොලිස් චක්‍රලේඛය ගැන ඇමති කතා කරයි	https://www.lankadeepa.lk/news/පලස-චකරලඛය-ගන-ඇමත-කත-කරය/101-683160	si	lankadeepalk	1763106463.0
