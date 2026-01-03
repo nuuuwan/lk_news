@@ -4164,6 +4164,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-03-virakesarilk-c84f56fe",
+    "num": "virakesarilk-c84f56fe",
+    "date_str": "2026-01-03",
+    "description": "\u0b85\u0bb2\u0bcd\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0b85\u0bb2\u0bc1\u0bae\u0bbf\u0ba9\u0bbf\u0baf\u0bae\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb1\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0bb0\u0b9c\u0bc0\u0bb5\u0ba9\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/235108",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1767426180.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-03-virakesarilk-4a59a30b",
     "num": "virakesarilk-4a59a30b",
     "date_str": "2026-01-03",
@@ -4205,6 +4216,28 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767429780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-colombotelegraphcom-58623651",
+    "num": "colombotelegraphcom-58623651",
+    "date_str": "2026-01-03",
+    "description": "Stadium For Mandaitivu \u2013 A Decision In The Correct Direction",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/stadium-for-mandaitivu-a-decision-in-the-correct-direction/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1767430408.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-colombotelegraphcom-14327196",
+    "num": "colombotelegraphcom-14327196",
+    "date_str": "2026-01-03",
+    "description": "The Lifeblood Of The Economy:\u00a0Industrial Transformation & Innovation Authority",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/the-lifeblood-of-the-economy-industrial-transformation-innovation-authority/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1767430820.0
   },
   {
     "doc_type": "lk_news",
