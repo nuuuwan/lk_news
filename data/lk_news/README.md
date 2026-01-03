@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--03_10:46:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--03_11:18:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,719** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,721** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-03-virakesarilk-891fcb34",
-    "num": "virakesarilk-891fcb34",
+    "doc_id": "2026-01-03-virakesarilk-33ae7e47",
+    "num": "virakesarilk-33ae7e47",
     "date_str": "2026-01-03",
-    "description": "\u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0bae\u0bbe\u0b95 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 14 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0baa\u0bb2\u0bbf!",
-    "url_metadata": "https://www.virakesari.lk/article/235091",
+    "description": "\u0baa\u0bb8\u0bcd - \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd \u0bae\u0bcb\u0ba4\u0bbf \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 ; 15 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0baa\u0bb2\u0bbf!",
+    "url_metadata": "https://www.virakesari.lk/article/235095",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1767416880.0
+    "time_ut": 1767418260.0
 }
 ```
 
@@ -41,7 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-03 | `virakesarilk-33ae7e47` | பஸ் - மோட்டார் சைக்கிள் மோதி விபத்து ; 15 வயது சிறுவன் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-33ae7e47)
 - 2026-01-03 | `virakesarilk-891fcb34` | கொடூரமாக தாக்கப்பட்டு 14 வயது சிறுவன் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-891fcb34)
+- 2026-01-03 | `virakesarilk-9a463001` | அமெரிக்காவின் டெஸ்லாவை முந்தியது சீனாவின் BYD! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-9a463001)
 - 2026-01-03 | `virakesarilk-cac0eb11` | பொதுமக்களிடையே அச்சத்தை ஏற்படுத்திய காணொளி ; கானா நாட்டைச் சேர்ந்த சமூக ஊடக செயற்பாட்டாளர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-cac0eb11)
 - 2026-01-03 | `virakesarilk-19830443` | திஸ்ஸ விகாரை அமைந்துள்ள காணியின் உரிமைக்கான தமிழர்களின் போராட்டம் புத்தாண்டிலும் தொடர்கிறது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-19830443)
 - 2026-01-03 | `tamilmirrorlk-7b0ac029` | இலங்கைக்கு கடத்தப்படவிருந்த  6 கிலோ தங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-7b0ac029)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-01-03 | `tamilmirrorlk-2ba4d84b` | குடும்பஸ்தர் தவறான முடிவெடுத்து உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-2ba4d84b)
 - 2026-01-03 | `virakesarilk-46271ac1` | நுகர்வோர் விவகார அதிகாரசபை கடந்த ஆண்டில் அதிக அபராதத் தொகையினை வசூலித்துள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-46271ac1)
 - 2026-01-03 | `tamilmirrorlk-e16dffc0` | புத்தாண்டில் ஐ.எஸ். தாக்குதல் திட்டம் முறியடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-e16dffc0)
-- 2026-01-03 | `tamilmirrorlk-0c86b408` | வீட்டுத் திட்டங்களை நிறைவு செய்யுமாறு பணிப்புரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-0c86b408)
-- 2026-01-03 | `virakesarilk-24ba3016` | 3 ஆண்டுகளில் 2,500 கிலோகிராமுக்கும் அதிக போதைப்பொருள் அழிப்பு - பொலிஸ் ஊடகப் பேச்சாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-24ba3016)
 
 ---
 
