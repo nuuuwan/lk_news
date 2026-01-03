@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--03_20:45:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--03_21:16:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,761** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,762** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -52,6 +52,7 @@ A collection of lk_news documents.
 - 2026-01-03 | `virakesarilk-91decea3` | இலங்கையின் எதிர்கால சந்ததியினரை அறிவுள்ள, கருணையுள்ள மற்றும் சவால்களை எதிர்கொள்ளக்கூடிய பிரஜைகளாக வளர்த்தெடுப்பதே எமது நோக்கமாகும் - அமைச்சர் சரோஜா சாவித்ரி போல்ராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-91decea3)
 - 2026-01-03 | `tamilmirrorlk-0c65d178` | இன்று அதிசயம் : சரமாரியாக வழிப்போகும் விண்கற்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-0c65d178)
 - 2026-01-03 | `virakesarilk-7d7e0235` | இது மிகவும் கடுமையான இராணுவ ஆக்கிரமிப்பு - வெனிசுலா ஜனாதிபதி நிக்கோலஸ் மதுரோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-7d7e0235)
+- 2026-01-03 | `adalk-e002d290` | වෙනිසියුලාවට ඇමෙරිකාවෙන් ප්‍රහාරයක්, ජනපති හා බිරිඳ ඇමෙරිකා හමුදා භාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-adalk-e002d290)
 - 2026-01-03 | `tamilmirrorlk-176b56d3` | வெனிசுலா ஜனாதிபதியும் அவரது மனைவியும் கைது: ட்ரம்ப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-176b56d3)
 - 2026-01-03 | `virakesarilk-5b99df2c` | ஒட்டுசுட்டான் வைத்தியசாலைக்கு ரவிகரன் எம்.பி களவிஜயம் ; வளப்பற்றாக்குறைகள் தொடர்பில் ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-5b99df2c)
 - 2026-01-03 | `virakesarilk-b621cd8c` | வெனிசுலா ஜனாதிபதி மதுரோவையும் அவரது மனைவியையும் அமெரிக்க இராணுவத்தினரால் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-b621cd8c)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-03 | `virakesarilk-3e66ed56` | கிங் ஓயாவில் குதித்து உயிரை மாய்த்துக்கொண்ட மாணவி ; காதலன்  கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-3e66ed56)
 - 2026-01-03 | `colombotelegraphcom-14327196` | The Lifeblood Of The Economy: Industrial Transformation & Innovation Authority | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-colombotelegraphcom-14327196)
 - 2026-01-03 | `colombotelegraphcom-58623651` | Stadium For Mandaitivu – A Decision In The Correct Direction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-colombotelegraphcom-58623651)
-- 2026-01-03 | `virakesarilk-d7c1e7b8` | ஜனவரி 15 முதல்  'Govpay' மூலம் போக்குவரத்து அபராதம் செலுத்தலாம் - இலங்கை போக்குவரத்து பொலிஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-d7c1e7b8)
 
 ---
 
