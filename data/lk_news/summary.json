@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-03 11:47:52",
-  "n_docs": 96722,
+  "time_updated": "2026-01-03 12:23:45",
+  "n_docs": 96723,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 96722,
+  "n_docs_with_text": 96723,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-03",
-  "dataset_size": 1460970406,
+  "dataset_size": 1460983052,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-03-virakesarilk-33ae7e47",
-    "num": "virakesarilk-33ae7e47",
+    "doc_id": "2026-01-03-adalk-39b0177a",
+    "num": "adalk-39b0177a",
     "date_str": "2026-01-03",
-    "description": "\u0baa\u0bb8\u0bcd - \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd \u0bae\u0bcb\u0ba4\u0bbf \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 ; 15 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0baa\u0bb2\u0bbf!",
-    "url_metadata": "https://www.virakesari.lk/article/235095",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1767418260.0
+    "description": "\u0d9c\u0ddd\u0dbd\u0dd3\u0dba \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf \u0dc3\u0dc4 \u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2 \u0dbb\u0dd6 \u0dc3\u0ddc\u0db6\u0dcf \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d89\u0dc3\u0dc0\u0dca \u0dc4\u0dad\u0dbb\u0d9a\u0db8 \u0da2\u0dba \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0dbd\u0dd3\u0dba-\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf-\u0dc3\u0dc4-\u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2-\u0dbb\u0dd6-\u0dc3\u0ddc\u0db6\u0dcf-\u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1-\u0d89\u0dc3\u0dc0\u0dca-\u0dc4\u0dad\u0dbb\u0d9a\u0db8-\u0da2\u0dba-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7/11-420599",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1767420714.0
   }
 }
