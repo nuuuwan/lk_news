@@ -1,4 +1,5 @@
-b\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1-\u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dca/11-420555",
+\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0dc3\u0dcf\u0db0\u0db1 \u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd2\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1\u0dca-\u0db4\u0dc3\u0dd4-\u0dbb\u0da7-\u0d9c\u0ddc\u0da9\u0db1\u0d9c\u0db1\u0dca\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1-\u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dca/11-420555",
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1767230432.0
@@ -1347,6 +1348,17 @@ b\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1-\u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dc
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-01-islandlk-68850f93",
+    "num": "islandlk-68850f93",
+    "date_str": "2026-01-01",
+    "description": "Sri Lanka Insurance Corporation General Limited inaugurates business operations for 2026",
+    "url_metadata": "http://island.lk/sri-lanka-insurance-corporation-general-limited-inaugurates-business-operations-for-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767276780.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-01-islandlk-7efddbe1",
     "num": "islandlk-7efddbe1",
     "date_str": "2026-01-01",
@@ -1435,6 +1447,17 @@ b\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1-\u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dc
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-01-islandlk-b3ad84c8",
+    "num": "islandlk-b3ad84c8",
+    "date_str": "2026-01-01",
+    "description": "MILCO turns around fortunes, posts Rs. 1.49 bn record profit in 2025",
+    "url_metadata": "http://island.lk/milco-turns-around-fortunes-posts-rs-1-49-bn-record-profit-in-2025/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767280260.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-01-islandlk-86cd06ca",
     "num": "islandlk-86cd06ca",
     "date_str": "2026-01-01",
@@ -1465,6 +1488,17 @@ b\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1-\u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dc
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1767280320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-01-islandlk-68b50a0f",
+    "num": "islandlk-68b50a0f",
+    "date_str": "2026-01-01",
+    "description": "Sri Lanka\u2019s economy: A slow healing journey in 2026",
+    "url_metadata": "http://island.lk/sri-lankas-economy-a-slow-healing-journey-in-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767280380.0
   },
   {
     "doc_type": "lk_news",
@@ -3426,6 +3460,17 @@ b\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1-\u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dc
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-02-islandlk-f51b6e62",
+    "num": "islandlk-f51b6e62",
+    "date_str": "2026-01-02",
+    "description": "CIXOR PayDay, a next-generation WageTech solution for on-demand salary access",
+    "url_metadata": "http://island.lk/cixor-payday-a-next-generation-wagetech-solution-for-on-demand-salary-access/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767366120.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-02-virakesarilk-619722c7",
     "num": "virakesarilk-619722c7",
     "date_str": "2026-01-02",
@@ -3456,6 +3501,39 @@ b\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1-\u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dc
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767373800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-islandlk-0e8fb73d",
+    "num": "islandlk-0e8fb73d",
+    "date_str": "2026-01-02",
+    "description": "Closure of Public Debt Department of the Central Bank of Sri Lanka",
+    "url_metadata": "http://island.lk/closure-of-public-debt-department-of-the-central-bank-of-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767375840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-islandlk-6370c688",
+    "num": "islandlk-6370c688",
+    "date_str": "2026-01-02",
+    "description": "Public \u2013 private partnerships strengthen rebuilding efforts post Cyclone \u2018Ditwah\u2019",
+    "url_metadata": "http://island.lk/public-private-partnerships-strengthen-rebuilding-efforts-post-cyclone-ditwah/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767375900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-islandlk-cf92ceca",
+    "num": "islandlk-cf92ceca",
+    "date_str": "2026-01-02",
+    "description": "Banking and construction sectors trigger bullish spurt in CSE",
+    "url_metadata": "http://island.lk/banking-and-construction-sectors-trigger-bullish-spurt-in-cse/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767375900.0
   },
   {
     "doc_type": "lk_news",
