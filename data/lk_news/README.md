@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--03_23:48:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--04_00:22:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,766** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,767** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,6 +43,7 @@ A collection of lk_news documents.
 
 - 2026-01-03 | `tamilmirrorlk-fca42396` | வெனிசுலா அதிபரை சிறைப்பிடித்த புகைப்படம் வைரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-fca42396)
 - 2026-01-03 | `tamilmirrorlk-09075e74` | தையிட்டி போராட்டத்தில் குதித்த யாழ். பல்கலை மாணவர்கள் : குவிக்கப்பட்ட பொலிஸார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-09075e74)
+- 2026-01-03 | `colombotelegraphcom-150d4aab` | The Power Of The Many: Why Sri Lanka’s Village Tanks Are The Key To Energy Sovereignty | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-colombotelegraphcom-150d4aab)
 - 2026-01-03 | `tamilmirrorlk-3a978201` | நவகமுவ துப்பாக்கிச்சூடு குறித்து வெளிவந்த அதிர்ச்சி தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-3a978201)
 - 2026-01-03 | `colombotelegraphcom-3b71bb7b` | A Measured Response: Between Liberty & Security, Learning From The PTA While Shaping A Future-Ready PTSA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-colombotelegraphcom-3b71bb7b)
 - 2026-01-03 | `virakesarilk-ddc0eb4e` | ஒவ்வொரு இரண்டு நிமிடங்களிலும் கர்ப்பப்பை புற்றுநோயால் ஒரு பெண் உயிரிழப்பு – ஐ.நா. எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-ddc0eb4e)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-03 | `virakesarilk-5b99df2c` | ஒட்டுசுட்டான் வைத்தியசாலைக்கு ரவிகரன் எம்.பி களவிஜயம் ; வளப்பற்றாக்குறைகள் தொடர்பில் ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-5b99df2c)
 - 2026-01-03 | `virakesarilk-b621cd8c` | வெனிசுலா ஜனாதிபதி மதுரோவையும் அவரது மனைவியையும் அமெரிக்க இராணுவத்தினரால் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-b621cd8c)
 - 2026-01-03 | `virakesarilk-fe668018` | பொலிஸ் உத்தரவை மீறி பயணித்த மோட்டார் சைக்கிள் மீது துப்பாக்கிச் சூடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-fe668018)
-- 2026-01-03 | `virakesarilk-fed51b6a` | கராகஸில் சக்திவாய்ந்த வெடிப்புகளை தொடர்ந்து வெனிசுலாவில் அவசரகால நிலை அறிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-fed51b6a)
 
 ---
 
