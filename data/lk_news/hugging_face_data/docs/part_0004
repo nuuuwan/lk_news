@@ -5884,5 +5884,49 @@ me_ut": 1767229320.0
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767560460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-77c3f171",
+    "num": "dailyftlk-77c3f171",
+    "date_str": "2026-01-05",
+    "description": "Arrest without authority: Trump, Maduro, and strain on international law",
+    "url_metadata": "https://www.ft.lk/columns/Arrest-without-authority-Trump-Maduro-and-strain-on-international-law/4-786483",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767561584.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-d5b68452",
+    "num": "dailyftlk-d5b68452",
+    "date_str": "2026-01-05",
+    "description": "Reclaiming Sri Lanka\u2019s electricity future: The need for transparent, inclusive, and visionary policy reform",
+    "url_metadata": "https://www.ft.lk/columns/Reclaiming-Sri-Lanka-s-electricity-future-The-need-for-transparent-inclusive-and-visionary-policy-reform/4-786484",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767562316.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-9d996785",
+    "num": "dailyftlk-9d996785",
+    "date_str": "2026-01-05",
+    "description": "Protection of the State from Terrorism Act: A critique of the current proposal",
+    "url_metadata": "https://www.ft.lk/columns/Protection-of-the-State-from-Terrorism-Act-A-critique-of-the-current-proposal/4-786485",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767562535.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-virakesarilk-cfac1c98",
+    "num": "virakesarilk-cfac1c98",
+    "date_str": "2026-01-05",
+    "description": "\u0baa\u0bc1\u0bb2\u0bae\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0bae\u0b95\u0bbf\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95\u0bb5\u0bc7 \u0b9f\u0b95\u0bcd\u0bb3\u0bb8\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd - \u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
+    "url_metadata": "https://www.virakesari.lk/article/235222",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1767562560.0
   }
 ]
