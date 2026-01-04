@@ -1,4 +1,11 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2026-01-04-tamilmirrorlk-f7b11a63	tamilmirrorlk-f7b11a63	2026-01-04	கில்லி பட நடிகர் ஆஷிஷ் விபத்தில் சிக்கினார்	https://www.tamilmirror.lk/cinema/கில்லி-பட-நடிகர்-ஆஷிஷ்-விபத்தில்-சிக்கினார்/54-370513	ta	tamilmirrorlk	1767508359.0
+lk_news	2026-01-04-virakesarilk-b4158c0b	virakesarilk-b4158c0b	2026-01-04	பொலிஸ்மா அதிபரின் உத்தரவில் அதிரடிச் சுற்றிவளைப்பு: நாடு முழுவதும் பலர் கைது!	https://www.virakesari.lk/article/235160	ta	virakesarilk	1767507840.0
+lk_news	2026-01-04-virakesarilk-1b7b0f5f	virakesarilk-1b7b0f5f	2026-01-04	காடுகளைத் தேடும் களிறுகள் போல் முஸ்லிம்கள்	https://www.virakesari.lk/article/235164	ta	virakesarilk	1767507840.0
+lk_news	2026-01-04-tamilmirrorlk-8dd2b347	tamilmirrorlk-8dd2b347	2026-01-04	டெல்சி ரோட்ரிக்ஸ்  ’’புலி’’	https://www.tamilmirror.lk/உலக-செய்திகள்/டெல்சி-ரோட்ரிக்ஸ்-புலி/50-370512	ta	tamilmirrorlk	1767507776.0
+lk_news	2026-01-04-virakesarilk-df89eba4	virakesarilk-df89eba4	2026-01-04	சதோச நிறுவனத்தின் முன்னாள் போக்குவரத்து முகாமையாளர் கைது	https://www.virakesari.lk/article/235167	ta	virakesarilk	1767507720.0
+lk_news	2026-01-04-virakesarilk-49f3784e	virakesarilk-49f3784e	2026-01-04	அனர்த்த நிவாரண உதவிகளும் புவிசார் அரசியல் நலன்களும்	https://www.virakesari.lk/article/235166	ta	virakesarilk	1767507300.0
+lk_news	2026-01-04-tamilmirrorlk-8034af46	tamilmirrorlk-8034af46	2026-01-04	தங்கத்துடன் வந்த விமான பெண் கைது	https://www.tamilmirror.lk/செய்திகள்/தங்கத்துடன்-வந்த-விமான-பெண்-கைது/175-370511	ta	tamilmirrorlk	1767507285.0
 lk_news	2026-01-04-tamilmirrorlk-94f6c5cc	tamilmirrorlk-94f6c5cc	2026-01-04	கியூபாவுக்கு எச்சரிக்கை..?	https://www.tamilmirror.lk/உலக-செய்திகள்/கியூபாவுக்கு-எச்சரிக்கை/50-370510	ta	tamilmirrorlk	1767506870.0
 lk_news	2026-01-04-virakesarilk-a5401e83	virakesarilk-a5401e83	2026-01-04	பேரிடர்களில் சட்டவிரோத கட்டுமானங்களின் தாக்கம்	https://www.virakesari.lk/article/235163	ta	virakesarilk	1767506520.0
 lk_news	2026-01-04-virakesarilk-559435db	virakesarilk-559435db	2026-01-04	40 இலட்சம் மாணவர்களின் வாழ்க்கையுடன் அரசாங்கம் விளையாடிக் கொண்டிருக்கிறது - ஜோசப் ஸ்டாலின் விசனம்	https://www.virakesari.lk/article/235161	ta	virakesarilk	1767506160.0
@@ -992,10 +999,3 @@ lk_news	2025-12-29-virakesarilk-e1620833	virakesarilk-e1620833	2025-12-29	மா
 lk_news	2025-12-29-adalk-d205df33	adalk-d205df33	2025-12-29	උඩුනුවර අයවැය දෙවන වරටත් පරදී	https://www.ada.lk/breaking_news/උඩුනුවර-අයවැය-දෙවන-වරටත්-පරදී/11-420506	si	adalk	1766994099.0
 lk_news	2025-12-29-bbccomsinhala-d12229b9	bbccomsinhala-d12229b9	2025-12-29	'යෙවාන්, ඩිලන්ත සහ මා වෙනුවෙන් සහය වෙන හැම ශ්‍රී ලාංකිකයෙකුට ම මං ස්තූති කරනවා'	https://www.bbc.com/sinhala/articles/ckgzgl843z5o	si	bbccomsinhala	1766993279.0
 lk_news	2025-12-29-adalk-d0919dfe	adalk-d0919dfe	2025-12-29	WealthTrust Securities මූලික කොටස් නිකුතුව අවසන් වෙයි	https://www.ada.lk/business/WealthTrust-Securities-මූලික-කොටස්-නිකුතුව-අවසන්-වෙයි/7-420505	si	adalk	1766992601.0
-lk_news	2025-12-29-virakesarilk-0ad1be0a	virakesarilk-0ad1be0a	2025-12-29	போதைப்பொருளுடன் கைது செய்யப்பட்டவர்களை விடுதலை செய்யும் விவகாரங்களில் தலையிடும் சிரேஷ்ட பொலிஸ் அதிகாரிகள் தொடர்பில் விசாரணை!	https://www.virakesari.lk/article/234660	ta	virakesarilk	1766992440.0
-lk_news	2025-12-29-lankadeepalk-241de888	lankadeepalk-241de888	2025-12-29	මෙක්සිකෝවේ දුම්රියක් පීලි පනී	https://www.lankadeepa.lk/latest_news/මකසකව-දමරයක-පල-පන/1-685965	si	lankadeepalk	1766992328.0
-lk_news	2025-12-29-virakesarilk-d152b055	virakesarilk-d152b055	2025-12-29	தமிழக வெற்றி கழகத்தின் தேர்தல் சின்னம் விசிலா? மோதிரமா?	https://www.virakesari.lk/article/234659	ta	virakesarilk	1766992200.0
-lk_news	2025-12-29-adalk-b9274fa0	adalk-b9274fa0	2025-12-29	2025 CMA සම්මාන උළෙලේදී ජනශක්ති ෆිනෑන්ස් ඇගයෙයි	https://www.ada.lk/business/2025-CMA-සම්මාන-උළෙලේදී-ජනශක්ති-ෆිනෑන්ස්-ඇගයෙයි/7-420504	si	adalk	1766991579.0
-lk_news	2025-12-29-lankadeepalk-6ae0c0bc	lankadeepalk-6ae0c0bc	2025-12-29	‘කුෂ්‘ සමඟ හතරක් ගුවන්තොටේදී මාට්ටු	https://www.lankadeepa.lk/latest_news/කෂ-සමඟ-හතරක-ගවනතටද-මටට/1-685963	si	lankadeepalk	1766991514.0
-lk_news	2025-12-29-tamilmirrorlk-b1747534	tamilmirrorlk-b1747534	2025-12-29	இலங்கையில் தேனிலவு ; தேனிலவில் விரிசல் ; இருவரும் சடலங்களாக மீட்பு	https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-தேனிலவு-தேனிலவில்-விரிசல்-இருவரும்-சடலங்களாக-மீட்பு/175-370227	ta	tamilmirrorlk	1766991493.0
-lk_news	2025-12-29-virakesarilk-28c20bb5	virakesarilk-28c20bb5	2025-12-29	5 மாத அடிப்படை சம்பளத்தை போனஸ் கொடுப்பனவாகக் கோரி விமான நிலைய ஊழியர்கள் ஆர்ப்பாட்டம்!	https://www.virakesari.lk/article/234655	ta	virakesarilk	1766991360.0
