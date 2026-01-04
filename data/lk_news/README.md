@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--04_08:31:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--04_09:16:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,780** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,783** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-03-tamilmirrorlk-fca42396",
-    "num": "tamilmirrorlk-fca42396",
-    "date_str": "2026-01-03",
-    "description": "\u0bb5\u0bc6\u0ba9\u0bbf\u0b9a\u0bc1\u0bb2\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bc8 \u0b9a\u0bbf\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd \u0bb5\u0bc8\u0bb0\u0bb2\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0ba9\u0bbf\u0b9a\u0bc1\u0bb2\u0bbe-\u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bc8-\u0b9a\u0bbf\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd-\u0bb5\u0bc8\u0bb0\u0bb2\u0bcd/50-370484",
+    "doc_id": "2026-01-04-tamilmirrorlk-d4bf9f05",
+    "num": "tamilmirrorlk-d4bf9f05",
+    "date_str": "2026-01-04",
+    "description": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd-\u0ba8\u0bbe\u0bb3\u0bc8-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/175-370498",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767463312.0
+    "time_ut": 1767497042.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-04 | `tamilmirrorlk-d4bf9f05` | பாடசாலை நடவடிக்கைகள் நாளை முதல் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-tamilmirrorlk-d4bf9f05)
+- 2026-01-04 | `adalk-0d75048d` | වෙනිසියුලාවේ උප ජනපති අන්තර්කාලින ජනපතිනිය ලෙස නම් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-adalk-0d75048d)
+- 2026-01-04 | `tamilmirrorlk-6215bb86` | வளிமண்டலத்தில் தளம்பல் நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-tamilmirrorlk-6215bb86)
 - 2026-01-03 | `tamilmirrorlk-fca42396` | வெனிசுலா அதிபரை சிறைப்பிடித்த புகைப்படம் வைரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-fca42396)
 - 2026-01-03 | `adalk-9bd0ac2c` | මදුරෝ අල්ලාගත් මෙහෙයුම රූපවාහිනී ජවනිකාවක් වගෙයි, මම සජීවීව බැලුවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-adalk-9bd0ac2c)
 - 2026-01-03 | `tamilmirrorlk-09075e74` | தையிட்டி போராட்டத்தில் குதித்த யாழ். பல்கலை மாணவர்கள் : குவிக்கப்பட்ட பொலிஸார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-09075e74)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-01-03 | `tamilmirrorlk-6e55d195` | இன்று அதிசயம் : சரமாரியாக விழப்போகும் விண்கற்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-6e55d195)
 - 2026-01-03 | `tamilmirrorlk-0c65d178` | இன்று அதிசயம் : சரமாரியாக வழிப்போகும் விண்கற்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-0c65d178)
 - 2026-01-03 | `islandlk-28ab9352` | Choco-Tom Reunion: A Toyland Anecdote | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-islandlk-28ab9352)
-- 2026-01-03 | `islandlk-b62c84f2` | A question of “culling” surplus cattle in govt. farms & handling appeals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-islandlk-b62c84f2)
-- 2026-01-03 | `islandlk-43563df7` | Quitting the UNP and battling in the Supreme Court to save our seats | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-islandlk-43563df7)
-- 2026-01-03 | `islandlk-71c2f6c1` | THE SHEER COINCIDENCE THAT CHANGED MY LIFE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-islandlk-71c2f6c1)
 
 ---
 
