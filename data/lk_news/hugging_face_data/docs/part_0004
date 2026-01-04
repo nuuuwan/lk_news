@@ -1,4 +1,11 @@
-\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0dc3\u0dcf\u0db0\u0db1 \u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dca",
+me_ut": 1767229320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-01-adalk-34313749",
+    "num": "adalk-34313749",
+    "date_str": "2026-01-01",
+    "description": "\u0daf\u0dd2\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0dbb\u0da7 \u0d9c\u0ddc\u0da9\u0db1\u0d9c\u0db1\u0dca\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0dc3\u0dcf\u0db0\u0db1 \u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dca",
     "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd2\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1\u0dca-\u0db4\u0dc3\u0dd4-\u0dbb\u0da7-\u0d9c\u0ddc\u0da9\u0db1\u0d9c\u0db1\u0dca\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba-\u0dc3\u0dcf\u0db0\u0db1-\u0db6\u0dc5\u0d9a\u0dcf\u0dba\u0d9a\u0dca/11-420555",
     "lang": "si",
     "newspaper_id": "adalk",
@@ -3471,6 +3478,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-02-islandlk-45206215",
+    "num": "islandlk-45206215",
+    "date_str": "2026-01-02",
+    "description": "Sunshine Holdings joins S&P Sri Lanka 20 Index",
+    "url_metadata": "http://island.lk/sunshine-holdings-joins-sp-sri-lanka-20-index/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767366120.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-02-islandlk-f51b6e62",
     "num": "islandlk-f51b6e62",
     "date_str": "2026-01-02",
@@ -3537,6 +3555,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-02-islandlk-20e1a7f9",
+    "num": "islandlk-20e1a7f9",
+    "date_str": "2026-01-02",
+    "description": "Sri Lanka\u2019s apparel sector records 5.42% growth for January-November 2025: November slight dip",
+    "url_metadata": "http://island.lk/sri-lankas-apparel-sector-records-5-42-growth-for-january-november-2025-november-slight-dip/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767375840.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-02-islandlk-6370c688",
     "num": "islandlk-6370c688",
     "date_str": "2026-01-02",
@@ -3553,6 +3582,17 @@
     "date_str": "2026-01-02",
     "description": "Banking and construction sectors trigger bullish spurt in CSE",
     "url_metadata": "http://island.lk/banking-and-construction-sectors-trigger-bullish-spurt-in-cse/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767375900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-02-islandlk-f3e52c2c",
+    "num": "islandlk-f3e52c2c",
+    "date_str": "2026-01-02",
+    "description": "Sri Lanka highlighted as a popular tourism hotspot among South Korean travelers",
+    "url_metadata": "http://island.lk/sri-lanka-highlighted-as-a-popular-tourism-hotspot-among-south-korean-travelers/",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1767375900.0
@@ -4285,6 +4325,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-03-islandlk-c2b5caee",
+    "num": "islandlk-c2b5caee",
+    "date_str": "2026-01-03",
+    "description": "New Year Dawns with more stories of Sri Lanka",
+    "url_metadata": "http://island.lk/new-year-dawns-with-more-stories-of-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767433800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-islandlk-33129040",
+    "num": "islandlk-33129040",
+    "date_str": "2026-01-03",
+    "description": "Weighing Foreign Assistance in a Disaster Prone Country",
+    "url_metadata": "http://island.lk/weighing-foreign-assistance-in-a-disaster-prone-country/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767433860.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-03-virakesarilk-b621cd8c",
     "num": "virakesarilk-b621cd8c",
     "date_str": "2026-01-03",
@@ -4337,6 +4399,61 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767434940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-islandlk-cb1ea11c",
+    "num": "islandlk-cb1ea11c",
+    "date_str": "2026-01-03",
+    "description": "Why Somaliland Matters More Than Admitted",
+    "url_metadata": "http://island.lk/why-somaliland-matters-more-than-admitted/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767435180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-islandlk-71c2f6c1",
+    "num": "islandlk-71c2f6c1",
+    "date_str": "2026-01-03",
+    "description": "THE SHEER COINCIDENCE THAT CHANGED MY LIFE",
+    "url_metadata": "http://island.lk/the-sheer-coincidence-that-changed-my-life/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767435240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-islandlk-43563df7",
+    "num": "islandlk-43563df7",
+    "date_str": "2026-01-03",
+    "description": "Quitting the UNP and battling in the Supreme Court to save our seats",
+    "url_metadata": "http://island.lk/quitting-the-unp-and-battling-in-the-supreme-court-to-save-our-seats/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767435360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-islandlk-b62c84f2",
+    "num": "islandlk-b62c84f2",
+    "date_str": "2026-01-03",
+    "description": "A question of \u201cculling\u201d surplus cattle in govt. farms & handling appeals",
+    "url_metadata": "http://island.lk/a-question-of-culling-surplus-cattle-in-govt-farms-handling-appeals/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767435420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-islandlk-28ab9352",
+    "num": "islandlk-28ab9352",
+    "date_str": "2026-01-03",
+    "description": "Choco-Tom Reunion: A Toyland Anecdote",
+    "url_metadata": "http://island.lk/choco-tom-reunion-a-toyland-anecdote/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767435960.0
   },
   {
     "doc_type": "lk_news",
@@ -4403,6 +4520,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767437880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-islandlk-3b42f16f",
+    "num": "islandlk-3b42f16f",
+    "date_str": "2026-01-03",
+    "description": "SLIC Life and SLIC General inaugurate business operations for 2026",
+    "url_metadata": "http://island.lk/slic-life-and-slic-general-inaugurate-business-operations-for-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767437940.0
   },
   {
     "doc_type": "lk_news",

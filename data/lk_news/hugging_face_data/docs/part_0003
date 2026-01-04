@@ -327820,6 +327820,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-12-31-islandlk-1f882e97",
+    "num": "islandlk-1f882e97",
+    "date_str": "2025-12-31",
+    "description": "Trace all missing firearms",
+    "url_metadata": "http://island.lk/trace-all-missing-firearms/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767195540.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-12-31-islandlk-26a84783",
     "num": "islandlk-26a84783",
     "date_str": "2025-12-31",
@@ -328245,11 +328256,4 @@
     "url_metadata": "https://www.virakesari.lk/article/234900",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1767229320.0
-  },
-  {
-    "doc_type": "lk_news",
-    "doc_id": "2026-01-01-adalk-34313749",
-    "num": "adalk-34313749",
-    "date_str": "2026-01-01",
-    "description": "\u0daf\u0dd2\u0dad\u0dca\u0dc0\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0dbb\u0da7 \u0d9c\u0ddc\u0da9\u0db1\u0d9c\u0db1\u0dca\u0db1 \u0da2\u0db1\u0db4
+    "ti

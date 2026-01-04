@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--04_05:15:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--04_06:05:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,767** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,779** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -49,18 +49,18 @@ A collection of lk_news documents.
 - 2026-01-03 | `virakesarilk-ddc0eb4e` | ஒவ்வொரு இரண்டு நிமிடங்களிலும் கர்ப்பப்பை புற்றுநோயால் ஒரு பெண் உயிரிழப்பு – ஐ.நா. எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-ddc0eb4e)
 - 2026-01-03 | `virakesarilk-e4d9d3e1` | பிரபாஸ் நடிக்கும் ' ஸ்பிரிட்' படத்தின் அறிமுக போஸ்டர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-e4d9d3e1)
 - 2026-01-03 | `virakesarilk-13ad8eb0` | சசிகுமார் வெளியிட்ட பாடலாசிரியர் பிரியனின் 'வெகுளி' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-13ad8eb0)
+- 2026-01-03 | `islandlk-3b42f16f` | SLIC Life and SLIC General inaugurate business operations for 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-islandlk-3b42f16f)
 - 2026-01-03 | `virakesarilk-c1957679` | விஜய் ரசிகர்களை உத்வேகம் கொள்ள செய்யும் 'ராவணன் மவன்டா...' பாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-c1957679)
 - 2026-01-03 | `virakesarilk-de082840` | சுப்பர் ஸ்டார் ரஜினிகாந்தை இயக்கும் இளம் இயக்குநர் சிபி சக்கரவர்த்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-de082840)
 - 2026-01-03 | `virakesarilk-b0a1b185` | கொரதொட்ட துப்பாக்கிச் சூடு ; பிண்ணனியில் இருப்பது “வனாத்தே சத்துவா” என்பவரா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-b0a1b185)
 - 2026-01-03 | `virakesarilk-91decea3` | இலங்கையின் எதிர்கால சந்ததியினரை அறிவுள்ள, கருணையுள்ள மற்றும் சவால்களை எதிர்கொள்ளக்கூடிய பிரஜைகளாக வளர்த்தெடுப்பதே எமது நோக்கமாகும் - அமைச்சர் சரோஜா சாவித்ரி போல்ராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-91decea3)
 - 2026-01-03 | `tamilmirrorlk-6e55d195` | இன்று அதிசயம் : சரமாரியாக விழப்போகும் விண்கற்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-6e55d195)
 - 2026-01-03 | `tamilmirrorlk-0c65d178` | இன்று அதிசயம் : சரமாரியாக வழிப்போகும் விண்கற்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-0c65d178)
-- 2026-01-03 | `virakesarilk-7d7e0235` | இது மிகவும் கடுமையான இராணுவ ஆக்கிரமிப்பு - வெனிசுலா ஜனாதிபதி நிக்கோலஸ் மதுரோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-7d7e0235)
-- 2026-01-03 | `adalk-e002d290` | වෙනිසියුලාවට ඇමෙරිකාවෙන් ප්‍රහාරයක්, ජනපති හා බිරිඳ ඇමෙරිකා හමුදා භාරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-adalk-e002d290)
-- 2026-01-03 | `tamilmirrorlk-176b56d3` | வெனிசுலா ஜனாதிபதியும் அவரது மனைவியும் கைது: ட்ரம்ப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-176b56d3)
-- 2026-01-03 | `virakesarilk-5b99df2c` | ஒட்டுசுட்டான் வைத்தியசாலைக்கு ரவிகரன் எம்.பி களவிஜயம் ; வளப்பற்றாக்குறைகள் தொடர்பில் ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-5b99df2c)
-- 2026-01-03 | `virakesarilk-b621cd8c` | வெனிசுலா ஜனாதிபதி மதுரோவையும் அவரது மனைவியையும் அமெரிக்க இராணுவத்தினரால் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-b621cd8c)
-- 2026-01-03 | `virakesarilk-fe668018` | பொலிஸ் உத்தரவை மீறி பயணித்த மோட்டார் சைக்கிள் மீது துப்பாக்கிச் சூடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-fe668018)
+- 2026-01-03 | `islandlk-28ab9352` | Choco-Tom Reunion: A Toyland Anecdote | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-islandlk-28ab9352)
+- 2026-01-03 | `islandlk-b62c84f2` | A question of “culling” surplus cattle in govt. farms & handling appeals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-islandlk-b62c84f2)
+- 2026-01-03 | `islandlk-43563df7` | Quitting the UNP and battling in the Supreme Court to save our seats | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-islandlk-43563df7)
+- 2026-01-03 | `islandlk-71c2f6c1` | THE SHEER COINCIDENCE THAT CHANGED MY LIFE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-islandlk-71c2f6c1)
+- 2026-01-03 | `islandlk-cb1ea11c` | Why Somaliland Matters More Than Admitted | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-islandlk-cb1ea11c)
 
 ---
 
