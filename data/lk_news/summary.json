@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-05 02:18:04",
-  "n_docs": 96891,
+  "time_updated": "2026-01-05 02:45:02",
+  "n_docs": 96894,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 96891,
+  "n_docs_with_text": 96894,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-05",
-  "dataset_size": 1463643467,
+  "dataset_size": 1463713245,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-05-dailyftlk-f9cefcf4",
-    "num": "dailyftlk-f9cefcf4",
+    "doc_id": "2026-01-05-virakesarilk-2e4dd27f",
+    "num": "virakesarilk-2e4dd27f",
     "date_str": "2026-01-05",
-    "description": "Record arrivals and diminishing returns: Part 1",
-    "url_metadata": "https://www.ft.lk/columns/Record-arrivals-and-diminishing-returns-Part-1/4-786481",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1767558829.0
+    "description": "\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0b87\u0bb2\u0b9e\u0bcd\u0b9a\u0bae\u0bcd \u0b95\u0bcb\u0bb0\u0bc1\u0bb5\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd, \u0baa\u0bca\u0baf\u0bcd\u0baf\u0bbe\u0ba9 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0bc1\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0b95\u0bae \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/235221",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1767560460.0
   }
 }
