@@ -5810,6 +5810,17 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-04-colombotelegraphcom-242e8d74",
+    "num": "colombotelegraphcom-242e8d74",
+    "date_str": "2026-01-04",
+    "description": "Sri Lanka At 2025: Bouquets Outnumber Brickbats In AKD\u2019s Performance",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/sri-lanka-at-2025-bouquets-outnumber-brickbats-in-akds-performance/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1767542409.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-04-virakesarilk-aee9a7e2",
     "num": "virakesarilk-aee9a7e2",
     "date_str": "2026-01-04",
@@ -5818,6 +5829,17 @@ me_ut": 1767229320.0
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767547500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-04-colombotelegraphcom-9b5c1611",
+    "num": "colombotelegraphcom-9b5c1611",
+    "date_str": "2026-01-04",
+    "description": "Cyclone Ditwah & Its Unparalleled Damage: Seeking Sustainable Solutions Is The Biggest Challenge In 2026",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/cyclone-ditwah-its-unparalleled-damage-seeking-sustainable-solutions-is-the-biggest-challenge-in-2026/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1767548718.0
   },
   {
     "doc_type": "lk_news",
@@ -6016,5 +6038,115 @@ me_ut": 1767229320.0
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1767568222.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-56eee5a1",
+    "num": "dailyftlk-56eee5a1",
+    "date_str": "2026-01-05",
+    "description": "MSTI Maritime Academy inaugurates Sri Lanka\u2019s most advanced Full Mission Bridge Simulator",
+    "url_metadata": "https://www.ft.lk/news/MSTI-Maritime-Academy-inaugurates-Sri-Lanka-s-most-advanced-Full-Mission-Bridge-Simulator/56-786503",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767568368.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-bc03be69",
+    "num": "dailyftlk-bc03be69",
+    "date_str": "2026-01-05",
+    "description": "China urges US to \u2018stop toppling\u2019 Venezuelan Govt., release Maduro",
+    "url_metadata": "https://www.ft.lk/news/China-urges-US-to-stop-toppling-Venezuelan-Govt-release-Maduro/56-786504",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767568426.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-6f102545",
+    "num": "dailyftlk-6f102545",
+    "date_str": "2026-01-05",
+    "description": "UN Security Council to convene after US move against Maduro draws international alarm",
+    "url_metadata": "https://www.ft.lk/news/UN-Security-Council-to-convene-after-US-move-against-Maduro-draws-international-alarm/56-786505",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767568566.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-fac5ed3e",
+    "num": "dailyftlk-fac5ed3e",
+    "date_str": "2026-01-05",
+    "description": "New education reforms to proceed with 2026 academic year: PM",
+    "url_metadata": "https://www.ft.lk/news/New-education-reforms-to-proceed-with-2026-academic-year-PM/56-786506",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767568993.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-9c6663b5",
+    "num": "dailyftlk-9c6663b5",
+    "date_str": "2026-01-05",
+    "description": "FACETS 2026 positions  \u2019Island of Gems\u2019 Sri Lanka as Asia\u2019s true jewel",
+    "url_metadata": "https://www.ft.lk/business/FACETS-2026-positions-Island-of-Gems-Sri-Lanka-as-Asia-s-true-jewel/34-786507",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767569499.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-5512215c",
+    "num": "dailyftlk-5512215c",
+    "date_str": "2026-01-05",
+    "description": "Sri Lanka Pavilion at Muscat Festival promotes tourism and goods",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Pavilion-at-Muscat-Festival-promotes-tourism-and-goods/34-786508",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767569689.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-d0f596a9",
+    "num": "dailyftlk-d0f596a9",
+    "date_str": "2026-01-05",
+    "description": "Healthguard Distribution achieves  ISO 9001:2015 and GDP certifications",
+    "url_metadata": "https://www.ft.lk/business/Healthguard-Distribution-achieves-ISO-9001-2015-and-GDP-certifications/34-786509",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767569860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-6347a23c",
+    "num": "dailyftlk-6347a23c",
+    "date_str": "2026-01-05",
+    "description": "Tax relief for donated dates during Ramadan 2026",
+    "url_metadata": "https://www.ft.lk/business/Tax-relief-for-donated-dates-during-Ramadan-2026/34-786510",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767569902.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-db6133dc",
+    "num": "dailyftlk-db6133dc",
+    "date_str": "2026-01-05",
+    "description": "Govt. expands \u2018Suraksha\u2019 student insurance scheme with additional benefits",
+    "url_metadata": "https://www.ft.lk/business/Govt-expands-Suraksha-student-insurance-scheme-with-additional-benefits/34-786511",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767569922.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-94739175",
+    "num": "dailyftlk-94739175",
+    "date_str": "2026-01-05",
+    "description": "nVentures leads $ 200,000  Seed Round into Flash Health",
+    "url_metadata": "https://www.ft.lk/business/nVentures-leads-200-000-Seed-Round-into-Flash-Health/34-786512",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767570087.0
   }
 ]
