@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--04_09:16:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--04_10:05:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,783** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,789** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-04-tamilmirrorlk-d4bf9f05",
-    "num": "tamilmirrorlk-d4bf9f05",
+    "doc_id": "2026-01-04-tamilmirrorlk-8ead1a48",
+    "num": "tamilmirrorlk-8ead1a48",
     "date_str": "2026-01-04",
-    "description": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd-\u0ba8\u0bbe\u0bb3\u0bc8-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/175-370498",
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0ba8\u0bc0\u0bb0\u0bbf\u0bb2\u0bcd \u0b95\u0bb4\u0bbf\u0bb5\u0bc1 \u0ba8\u0bc0\u0bb0\u0bcd \u0b95\u0bb2\u0baa\u0bcd\u0baa\u0bc1: \u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bc2\u0bb0\u0bcd-\u0b95\u0bc1\u0b9f\u0bbf\u0ba8\u0bc0\u0bb0\u0bbf\u0bb2\u0bcd-\u0b95\u0bb4\u0bbf\u0bb5\u0bc1-\u0ba8\u0bc0\u0bb0\u0bcd-\u0b95\u0bb2\u0baa\u0bcd\u0baa\u0bc1-\u0b87\u0bb1\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe/175-370503",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767497042.0
+    "time_ut": 1767501114.0
 }
 ```
 
@@ -41,9 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-04 | `tamilmirrorlk-8ead1a48` | இந்தூர் குடிநீரில் கழிவு நீர் கலப்பு: இறப்பு அதிகரிப்பா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-tamilmirrorlk-8ead1a48)
+- 2026-01-04 | `tamilmirrorlk-47bb4523` | 2026 முதல் சூப்பர் மூன்… | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-tamilmirrorlk-47bb4523)
+- 2026-01-04 | `tamilmirrorlk-ef599715` | போதைப்பொருள் வியாபாரிக்கு 5 நாட்கள் தடுப்புக்காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-tamilmirrorlk-ef599715)
+- 2026-01-04 | `tamilmirrorlk-9da77c15` | வெனிசுலாவில் இடைக்கால ஜனாதிபதி டெல்சி ரோட்ரிக்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-tamilmirrorlk-9da77c15)
 - 2026-01-04 | `tamilmirrorlk-d4bf9f05` | பாடசாலை நடவடிக்கைகள் நாளை முதல் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-tamilmirrorlk-d4bf9f05)
+- 2026-01-04 | `tamilmirrorlk-332ab29b` | பாடசாலைகள் நாளை முதல் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-tamilmirrorlk-332ab29b)
 - 2026-01-04 | `adalk-0d75048d` | වෙනිසියුලාවේ උප ජනපති අන්තර්කාලින ජනපතිනිය ලෙස නම් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-adalk-0d75048d)
 - 2026-01-04 | `tamilmirrorlk-6215bb86` | வளிமண்டலத்தில் தளம்பல் நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-tamilmirrorlk-6215bb86)
+- 2026-01-04 | `adalk-6fafd7c5` | කොහුවල වෙඩි තැබීමට සම්බන්ධ සැකකරුවන් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-adalk-6fafd7c5)
 - 2026-01-03 | `tamilmirrorlk-fca42396` | வெனிசுலா அதிபரை சிறைப்பிடித்த புகைப்படம் வைரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-fca42396)
 - 2026-01-03 | `adalk-9bd0ac2c` | මදුරෝ අල්ලාගත් මෙහෙයුම රූපවාහිනී ජවනිකාවක් වගෙයි, මම සජීවීව බැලුවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-adalk-9bd0ac2c)
 - 2026-01-03 | `tamilmirrorlk-09075e74` | தையிட்டி போராட்டத்தில் குதித்த யாழ். பல்கலை மாணவர்கள் : குவிக்கப்பட்ட பொலிஸார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-09075e74)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-01-03 | `virakesarilk-13ad8eb0` | சசிகுமார் வெளியிட்ட பாடலாசிரியர் பிரியனின் 'வெகுளி' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-13ad8eb0)
 - 2026-01-03 | `islandlk-3b42f16f` | SLIC Life and SLIC General inaugurate business operations for 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-islandlk-3b42f16f)
 - 2026-01-03 | `virakesarilk-c1957679` | விஜய் ரசிகர்களை உத்வேகம் கொள்ள செய்யும் 'ராவணன் மவன்டா...' பாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-c1957679)
-- 2026-01-03 | `virakesarilk-de082840` | சுப்பர் ஸ்டார் ரஜினிகாந்தை இயக்கும் இளம் இயக்குநர் சிபி சக்கரவர்த்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-de082840)
-- 2026-01-03 | `virakesarilk-b0a1b185` | கொரதொட்ட துப்பாக்கிச் சூடு ; பிண்ணனியில் இருப்பது “வனாத்தே சத்துவா” என்பவரா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-b0a1b185)
-- 2026-01-03 | `virakesarilk-91decea3` | இலங்கையின் எதிர்கால சந்ததியினரை அறிவுள்ள, கருணையுள்ள மற்றும் சவால்களை எதிர்கொள்ளக்கூடிய பிரஜைகளாக வளர்த்தெடுப்பதே எமது நோக்கமாகும் - அமைச்சர் சரோஜா சாவித்ரி போல்ராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-virakesarilk-91decea3)
-- 2026-01-03 | `tamilmirrorlk-6e55d195` | இன்று அதிசயம் : சரமாரியாக விழப்போகும் விண்கற்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-6e55d195)
-- 2026-01-03 | `tamilmirrorlk-0c65d178` | இன்று அதிசயம் : சரமாரியாக வழிப்போகும் விண்கற்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-tamilmirrorlk-0c65d178)
-- 2026-01-03 | `islandlk-28ab9352` | Choco-Tom Reunion: A Toyland Anecdote | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-03-islandlk-28ab9352)
 
 ---
 
