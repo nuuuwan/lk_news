@@ -5664,5 +5664,16 @@ me_ut": 1767229320.0
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1767531411.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-04-tamilmirrorlk-d285546f",
+    "num": "tamilmirrorlk-d285546f",
+    "date_str": "2026-01-04",
+    "description": "\u0bb5\u0b99\u0bcd\u0b95\u0ba4\u0bc7\u0b9a\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bbe\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0bb5\u0b99\u0bcd\u0b95\u0ba4\u0bc7\u0b9a\u0bae\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bbe\u0ba4\u0bc1/44-370533",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767536015.0
   }
 ]
