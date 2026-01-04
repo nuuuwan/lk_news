@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--05_01:46:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--05_02:18:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,889** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,891** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-04-virakesarilk-aa618814",
-    "num": "virakesarilk-aa618814",
-    "date_str": "2026-01-04",
-    "description": "FCID\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 \u0b8e\u0ba9\u0bcd\u0bb1\u0bbe\u0bb2\u0bcd \u0b9c\u0bcb\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0baa\u0bbf\u0b9f\u0bbf\u0baf\u0bbe\u0ba3\u0bc8 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/235219",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1767551100.0
+    "doc_id": "2026-01-05-dailyftlk-f9cefcf4",
+    "num": "dailyftlk-f9cefcf4",
+    "date_str": "2026-01-05",
+    "description": "Record arrivals and diminishing returns: Part 1",
+    "url_metadata": "https://www.ft.lk/columns/Record-arrivals-and-diminishing-returns-Part-1/4-786481",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767558829.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-05 | `dailyftlk-f9cefcf4` | Record arrivals and diminishing returns: Part 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-dailyftlk-f9cefcf4)
+- 2026-01-05 | `dailyftlk-02744678` | Grade 6 English Curriculum misstep calls for stronger child safeguarding, not political point-scoring | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-dailyftlk-02744678)
 - 2026-01-04 | `virakesarilk-aa618814` | FCIDக்கு முன்னிலையாகவில்லை என்றால் ஜோன்ஸ்டன் மீது பிடியாணை நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-aa618814)
 - 2026-01-04 | `virakesarilk-aee9a7e2` | பாராளுமன்ற ஓய்வூதியம் நீக்குதல் சட்டமூலம் வர்த்தமானியில் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-aee9a7e2)
 - 2026-01-04 | `virakesarilk-05ba0ce4` | 2026 கல்வியாண்டின் முதலாம் தவணை நாளை ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-05ba0ce4)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-01-04 | `virakesarilk-b0028eb5` | வெல்வேரி காணிகள் மக்களிடம் கையளிக்க நடவடிக்கை எடுக்கப்படும் – வெளிவிவகார பிரதி அமைச்சர் உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-b0028eb5)
 - 2026-01-04 | `virakesarilk-841034c3` | வெளியேறும் ஜூலி சங் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-841034c3)
 - 2026-01-04 | `virakesarilk-83f615f1` | மின்சார சபை இலாபமடைகிறது ஆகவே மின்கட்டணத்தை அதிகரிப்பதற்கு அனுமதியளிக்க கூடாது ; மின்பாவனையாளர் சங்கம் வலியுறுதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-83f615f1)
-- 2026-01-04 | `virakesarilk-005a1475` | கல்வி மறுசீரமைப்பை நெருக்கடிக்குள்ளாக்குவதற்கு ஒரு தரப்பினர் திட்டமிட்ட வகையில் செயற்படுகிறார்கள் -  மஹிந்த ஜயசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-005a1475)
-- 2026-01-04 | `tamilmirrorlk-b15526cc` | முன்னாள் போக்குவரத்து முகாமையாளருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-tamilmirrorlk-b15526cc)
 
 ---
 
