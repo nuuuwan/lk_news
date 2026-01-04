@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--04_18:27:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--04_18:54:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,872** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,874** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-04-virakesarilk-0d7b08bf",
-    "num": "virakesarilk-0d7b08bf",
+    "doc_id": "2026-01-04-adalk-2964441d",
+    "num": "adalk-2964441d",
     "date_str": "2026-01-04",
-    "description": "\u0ba4\u0bb2\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1 \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd ; 67 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0bb5\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/235204",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1767527040.0
+    "description": "6 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0dda \u0db8\u0ddc\u0da9\u0dd2\u0dba\u0dd4\u0dbd \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0 \u0d9c\u0dd0\u0db1 \u0d85\u0db7\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb  \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0 \u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/6-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0dda-\u0db8\u0ddc\u0da9\u0dd2\u0dba\u0dd4\u0dbd-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0-\u0d9c\u0dd0\u0db1-\u0d85\u0db7\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb--\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0-\u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dcf/11-420611",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1767531411.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-04 | `adalk-2964441d` | 6 ශ්‍රේණියේ මොඩියුල ගැටලුව ගැන අභ්‍යන්තර  පරීක්ෂණ වාර්තාව ලැබුණා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-adalk-2964441d)
 - 2026-01-04 | `virakesarilk-0d7b08bf` | தலவாக்கலையில் மண்சரிவு அபாயம் ; 67 குடும்பங்கள் இடம்பெயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-0d7b08bf)
 - 2026-01-04 | `virakesarilk-779adde7` | கன்னியா வெந்நீரூற்று விவகாரம் தொடர்பில் இணக்கப்பாட்டுக்கு மாற்றமாக செயற்பட்டால் நீதிமன்றம் செல்வோம் - எம்.ஏ.சுமந்திரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-779adde7)
 - 2026-01-04 | `virakesarilk-5a5ddfd1` | ரணில் - சஜித் சந்திப்பு விரைவில் நடைபெறும்?; இறுதி முடிவுக்காக காத்திருக்கும் ஐ.தே.க, ஐ.ம.ச. பிரதிநிதிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-5a5ddfd1)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-04 | `virakesarilk-24e5002d` | தையிட்டி விகாரை விவகாரம்;  யாழ். மாவட்ட செயலரை சந்தித்தார் நயினாதீவு விகாராதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-24e5002d)
 - 2026-01-04 | `virakesarilk-58486af7` | சதோச நிறுவனத்தின் முன்னாள் போக்குவரத்து முகாமையாளருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-58486af7)
 - 2026-01-04 | `virakesarilk-b13b1981` | இரட்டை வேடம் போடும் அநுர அரசாங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-b13b1981)
-- 2026-01-04 | `virakesarilk-907f6bd9` | ஒரு கடைசி அஞ்சல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-04-virakesarilk-907f6bd9)
 
 ---
 
