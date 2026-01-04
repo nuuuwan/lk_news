@@ -1,4 +1,5 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2026-01-04-tamilmirrorlk-0f38066b	tamilmirrorlk-0f38066b	2026-01-04	வீட்டிற்குள் புகுந்த நபர், மாநகர சபை உறுப்பினர் மீது தாக்குதல்	https://www.tamilmirror.lk/செய்திகள்/வீட்டிற்குள்-புகுந்த-நபர்-மாநகர-சபை-உறுப்பினர்-மீது-தாக்குதல்/175-370516	ta	tamilmirrorlk	1767510859.0
 lk_news	2026-01-04-tamilmirrorlk-f7b11a63	tamilmirrorlk-f7b11a63	2026-01-04	கில்லி பட நடிகர் ஆஷிஷ் விபத்தில் சிக்கினார்	https://www.tamilmirror.lk/cinema/கில்லி-பட-நடிகர்-ஆஷிஷ்-விபத்தில்-சிக்கினார்/54-370513	ta	tamilmirrorlk	1767508359.0
 lk_news	2026-01-04-virakesarilk-b4158c0b	virakesarilk-b4158c0b	2026-01-04	பொலிஸ்மா அதிபரின் உத்தரவில் அதிரடிச் சுற்றிவளைப்பு: நாடு முழுவதும் பலர் கைது!	https://www.virakesari.lk/article/235160	ta	virakesarilk	1767507840.0
 lk_news	2026-01-04-virakesarilk-1b7b0f5f	virakesarilk-1b7b0f5f	2026-01-04	காடுகளைத் தேடும் களிறுகள் போல் முஸ்லிம்கள்	https://www.virakesari.lk/article/235164	ta	virakesarilk	1767507840.0
@@ -11,6 +12,7 @@ lk_news	2026-01-04-virakesarilk-a5401e83	virakesarilk-a5401e83	2026-01-04	பே
 lk_news	2026-01-04-virakesarilk-559435db	virakesarilk-559435db	2026-01-04	40 இலட்சம் மாணவர்களின் வாழ்க்கையுடன் அரசாங்கம் விளையாடிக் கொண்டிருக்கிறது - ஜோசப் ஸ்டாலின் விசனம்	https://www.virakesari.lk/article/235161	ta	virakesarilk	1767506160.0
 lk_news	2026-01-04-virakesarilk-e0ead5d2	virakesarilk-e0ead5d2	2026-01-04	அரசியலமைப்புப்பேரவையிலிருந்து இராஜினாமா  செய்யுமாறு சிறிதரனைப் பணிக்க தீர்மானம்  தமிழரசுக்கட்சியின் அரசியல் குழுக் கூட்டத்தில் ஏகோபித்த முடிவு	https://www.virakesari.lk/article/235159	ta	virakesarilk	1767505680.0
 lk_news	2026-01-04-virakesarilk-6e9072c1	virakesarilk-6e9072c1	2026-01-04	இலங்கை மகப்பேற்றியல்  சங்கத்தின்  தலைவராக பேராசிரியர் ருவந்தி பெரேரா	https://www.virakesari.lk/article/235157	ta	virakesarilk	1767505680.0
+lk_news	2026-01-04-adalk-03d7e703	adalk-03d7e703	2026-01-04	2026 පළමු වාරය සඳහා පාසල් හෙටින් ඇරඹෙයි	https://www.ada.lk/breaking_news/2026-පළමු-වාරය-සඳහා-පාසල්-හෙටින්-ඇරඹෙයි/11-420607	si	adalk	1767505560.0
 lk_news	2026-01-04-virakesarilk-b1b25007	virakesarilk-b1b25007	2026-01-04	அனைத்துப் பாடசாலைகளும் நாளை ஆரம்பம்!	https://www.virakesari.lk/article/235155	ta	virakesarilk	1767505440.0
 lk_news	2026-01-04-virakesarilk-7b76f73c	virakesarilk-7b76f73c	2026-01-04	இயக்குனர் பாரதிராஜா வைத்தியசாலையில் அனுமதி!	https://www.virakesari.lk/article/235158	ta	virakesarilk	1767504960.0
 lk_news	2026-01-04-tamilmirrorlk-96a86ab9	tamilmirrorlk-96a86ab9	2026-01-04	வடகொரிய ஜனாதிபதி கிம் மகளை கவனிச்சீங்களா	https://www.tamilmirror.lk/உலக-செய்திகள்/வடகொரிய-ஜனாதிபதி-கிம்-மகளை-கவனிச்சீங்களா/50-370506	ta	tamilmirrorlk	1767504425.0
@@ -97,5 +99,3 @@ lk_news	2026-01-03-virakesarilk-16a8eed8	virakesarilk-16a8eed8	2026-01-03	தன
 lk_news	2026-01-03-adalk-39b0177a	adalk-39b0177a	2026-01-03	ගෝලීය කාන්තා සහ පිරිමි රූ සොබා තරගාවලියේ ප්‍රධාන ඉසව් හතරකම ජය ලංකාවට	https://www.ada.lk/breaking_news/ගෝලීය-කාන්තා-සහ-පිරිමි-රූ-සොබා-තරගාවලියේ-ප්‍රධාන-ඉසව්-හතරකම-ජය-ලංකාවට/11-420599	si	adalk	1767420714.0
 lk_news	2026-01-03-virakesarilk-69d5d2c0	virakesarilk-69d5d2c0	2026-01-03	வாடகை அடிப்படையில் பெற்றுக்கொண்ட மோட்டார் சைக்கிள்களை விற்பனை செய்தவர் கைது!	https://www.virakesari.lk/article/235105	ta	virakesarilk	1767420600.0
 lk_news	2026-01-03-virakesarilk-dd903cf8	virakesarilk-dd903cf8	2026-01-03	அமெரிக்காவில் மலை ஏற்றத்தில் ஈடுபட்ட பெண்  ஒருவர் சிங்கத்தால் தாக்கப்பட்டு  உயிரிழப்பு	https://www.virakesari.lk/article/235100	ta	virakesarilk	1767419040.0
-lk_news	2026-01-03-virakesarilk-bab9758e	virakesarilk-bab9758e	2026-01-03	கொடூரமாக தாக்கப்பட்டு 14 வயது சிறுவன் பலி ; தந்தை கைது!	https://www.virakesari.lk/article/235102	ta	virakesarilk	1767418260.0
-lk_news	2026-01-03-virakesarilk-33ae7e47	virakesarilk-33ae7e47	2026-01-03	பஸ் - மோட்டார் சைக்கிள் மோதி விபத்து ; 15 வயது சிறுவன் பலி!	https://www.virakesari.lk/article/235095	ta	virakesarilk	1767418260.0
