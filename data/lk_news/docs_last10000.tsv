@@ -1,5 +1,14 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2026-01-05-tamilmirrorlk-37c10b74	tamilmirrorlk-37c10b74	2026-01-05	வெனிசுவேலா விவகாரம்: ஐ.நா. பாதுகாப்பு சபை அவசரக் கூட்டம்	https://www.tamilmirror.lk/உலக-செய்திகள்/வெனிசுவேலா-விவகாரம்-ஐ-நா-பாதுகாப்பு-சபை-அவசரக்-கூட்டம்/50-370555	ta	tamilmirrorlk	1767587135.0
+lk_news	2026-01-05-tamilmirrorlk-fef03d29	tamilmirrorlk-fef03d29	2026-01-05	பல்கலைக்கழகத்தில் மோதல் ; நால்வர் வைத்தியசாலையில்	https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழகத்தில்-மோதல்-நால்வர்-வைத்தியசாலையில்/175-370554	ta	tamilmirrorlk	1767586770.0
+lk_news	2026-01-05-tamilmirrorlk-bd16de34	tamilmirrorlk-bd16de34	2026-01-05	சிறைபிடிக்கப்பட்ட வெனிசுலா ஜனாதிபதி இன்று நீதிமன்றில்	https://www.tamilmirror.lk/உலக-செய்திகள்/சிறைபிடிக்கப்பட்ட-வெனிசுலா-ஜனாதிபதி-இன்று-நீதிமன்றில்/50-370553	ta	tamilmirrorlk	1767586768.0
+lk_news	2026-01-05-tamilmirrorlk-ceaa945c	tamilmirrorlk-ceaa945c	2026-01-05	ஜனநாயகம்...	https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஜனநாயகம்/62-370552	ta	tamilmirrorlk	1767585081.0
 lk_news	2026-01-05-tamilmirrorlk-81a08bfc	tamilmirrorlk-81a08bfc	2026-01-05	இன்று முதல் பாடசாலைகள் ஆரம்பம்	https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-பாடசாலைகள்-ஆரம்பம்/175-370551	ta	tamilmirrorlk	1767583986.0
+lk_news	2026-01-05-tamilmirrorlk-5b1181df	tamilmirrorlk-5b1181df	2026-01-05	முதலாம் தவணை ஆரம்பமானது	https://www.tamilmirror.lk/செய்திகள்/முதலாம்-தவணை-ஆரம்பமானது/175-370551	ta	tamilmirrorlk	1767583986.0
+lk_news	2026-01-05-virakesarilk-af62914b	virakesarilk-af62914b	2026-01-05	படகு எடுக்கச் சென்றவரை இழுத்திச் சென்ற முதலை!	https://www.virakesari.lk/article/235230	ta	virakesarilk	1767581760.0
+lk_news	2026-01-05-virakesarilk-0887bd4a	virakesarilk-0887bd4a	2026-01-05	புதையல் தோண்டிய மூவர் கைது!	https://www.virakesari.lk/article/235231	ta	virakesarilk	1767581340.0
+lk_news	2026-01-05-virakesarilk-96de1524	virakesarilk-96de1524	2026-01-05	உழவு இயந்திரத்திலிருந்து கீழே விழுந்து ஒருவர் பலி!	https://www.virakesari.lk/article/235229	ta	virakesarilk	1767581220.0
+lk_news	2026-01-05-virakesarilk-33e6fc3d	virakesarilk-33e6fc3d	2026-01-05	'ஐஸ்' போதைப்பொருளுடன் ஒருவர் கைது!	https://www.virakesari.lk/article/235228	ta	virakesarilk	1767581100.0
 lk_news	2026-01-05-adalk-625ff882	adalk-625ff882	2026-01-05	මදුරෝ සහ බිරිඳ අද අධිකරණයට	https://www.ada.lk/breaking_news/මදුරෝ-සහ-බිරිඳ-අද-අධිකරණයට/11-420614	si	adalk	1767580045.0
 lk_news	2026-01-05-adalk-073b0c95	adalk-073b0c95	2026-01-05	මහ කන්නයේ වි ගොවින්ට රු.බි. 13.5ක් පොහොර සහනාධාරය ලෙස දුන්නා	https://www.ada.lk/breaking_news/මහ-කන්නයේ-වි-ගොවින්ට-රු-බි--13-5ක්-පොහොර-සහනාධාරය-ලෙස-දුන්නා/11-420613	si	adalk	1767579297.0
 lk_news	2026-01-05-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2026-01-05	இன்றைய வானிலை	https://www.virakesari.lk/article/235227	ta	virakesarilk	1767574260.0
@@ -9992,12 +10001,3 @@ lk_news	2025-11-16-adalk-ef70c418	adalk-ef70c418	2025-11-16	සියලු ර�
 lk_news	2025-11-16-virakesarilk-a69b114d	virakesarilk-a69b114d	2025-11-16	வட்டியில்லா மாணவர் கடன் திட்டத்துக்கு விண்ணப்பம் கோரல்	https://www.virakesari.lk/article/230502	ta	virakesarilk	1763292900.0
 lk_news	2025-11-16-virakesarilk-148e1191	virakesarilk-148e1191	2025-11-16	செம்மணி புதைகுழி விசாரணை: 1996இல் தோண்ட முடிந்தது ; நீதிபதி இளஞ்செழியன் நடவடிக்கையை குற்றம் சாட்டும் எம்.பி. அர்ச்சுனா	https://www.virakesari.lk/article/230501	ta	virakesarilk	1763292780.0
 lk_news	2025-11-16-virakesarilk-953b5166	virakesarilk-953b5166	2025-11-16	வாகரை காயங்கேனி கடற்கரையில் அடையாளம் தெரியாத சடலம் மீட்பு	https://www.virakesari.lk/article/230498	ta	virakesarilk	1763292720.0
-lk_news	2025-11-16-virakesarilk-b6912e6d	virakesarilk-b6912e6d	2025-11-16	அரசுக்கு எதிரான ஒன்றிணைந்த போராட்டம் பெரிய சவால் – சாகர காரியவசம்	https://www.virakesari.lk/article/230496	ta	virakesarilk	1763292360.0
-lk_news	2025-11-16-virakesarilk-52acb704	virakesarilk-52acb704	2025-11-16	மரக்கிளை முறிந்து வீழ்ந்ததில் ஒருவர் பலி	https://www.virakesari.lk/article/230497	ta	virakesarilk	1763292360.0
-lk_news	2025-11-16-virakesarilk-550d55ba	virakesarilk-550d55ba	2025-11-16	“வரி உயர்வின்றி விரிவான நிதி ஒழுங்கு” - 2026 பட்ஜெட்	https://www.virakesari.lk/article/230495	ta	virakesarilk	1763292300.0
-lk_news	2025-11-16-virakesarilk-6628e73f	virakesarilk-6628e73f	2025-11-16	பொருளாதார மீட்சிக்கான அரசின் முடிவுகளுக்கு முழு ஆதரவு – நாமல் ராஜபக்‌ஷ	https://www.virakesari.lk/article/230494	ta	virakesarilk	1763292240.0
-lk_news	2025-11-16-virakesarilk-45c29063	virakesarilk-45c29063	2025-11-16	பாப்­ப­ரசர் வருகை அழுத்­தங்­களை கொடுக்­குமா?	https://www.virakesari.lk/article/230492	ta	virakesarilk	1763292120.0
-lk_news	2025-11-16-virakesarilk-873eefc8	virakesarilk-873eefc8	2025-11-16	கிண்ணியாவில் ஆணின் சடலம் மீட்பு	https://www.virakesari.lk/article/230493	ta	virakesarilk	1763292060.0
-lk_news	2025-11-16-virakesarilk-bce7a52e	virakesarilk-bce7a52e	2025-11-16	நீயா? நானா?  எதற்கு வம்புப் போட்டி?	https://www.virakesari.lk/article/230489	ta	virakesarilk	1763292000.0
-lk_news	2025-11-16-virakesarilk-addebfeb	virakesarilk-addebfeb	2025-11-16	சாரதி அனுமதி பத்திரம் அச்சிடும் பணிகள் மீண்டும் ஆரம்பம்	https://www.virakesari.lk/article/230487	ta	virakesarilk	1763291940.0
-lk_news	2025-11-16-virakesarilk-86d7429a	virakesarilk-86d7429a	2025-11-16	அழிவின் விளிம்பில் கண்டல் காடுகள் ; வனாத்தவில்லுச் சம்பவமொரு எச்சரிக்கை	https://www.virakesari.lk/article/230486	ta	virakesarilk	1763291820.0
