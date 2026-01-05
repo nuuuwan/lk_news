@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--05_19:27:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--05_19:47:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,042** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,043** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-05-virakesarilk-f9a8f489",
-    "num": "virakesarilk-f9a8f489",
+    "doc_id": "2026-01-05-tamilmirrorlk-8ecb3273",
+    "num": "tamilmirrorlk-8ecb3273",
     "date_str": "2026-01-05",
-    "description": "\u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbe\u0bb0\u0bcd\u0baa\u0bbe\u0b95 \u0b9c\u0bcb \u0bb0\u0bc2\u0b9f\u0bcd 160 \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0b9a\u0ba4\u0bcd\u0ba4, \u0b86\u0bb8\u0bbf, \u0b9a\u0bbe\u0bb0\u0bcd\u0baa\u0bbe\u0b95 \u0b9f\u0bcd\u0bb0\u0bb5\u0bbf\u0bb8\u0bcd \u0bb9\u0bc6\u0b9f\u0bcd \u0baa\u0ba4\u0bbf\u0bb2\u0b9f\u0bbf",
-    "url_metadata": "https://www.virakesari.lk/article/235302",
+    "description": "\u0ba8\u0bb5\u0bc0\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0ba4\u0bb5\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bb5\u0bc0\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0baa\u0ba4\u0bb5\u0bbf/175-370589",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1767619800.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767621978.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-05 | `tamilmirrorlk-8ecb3273` | நவீனுக்கு புதிய பதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-tamilmirrorlk-8ecb3273)
 - 2026-01-05 | `virakesarilk-f9a8f489` | இங்கிலாந்து சார்பாக ஜோ ரூட் 160 ஓட்டங்களைக் குவித்து அசத்த, ஆஸி, சார்பாக ட்ரவிஸ் ஹெட் பதிலடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-f9a8f489)
 - 2026-01-05 | `virakesarilk-7fbc8fc2` | ரம்பொடையில் வேவெண்டன் தமிழ் மகா வித்தியாலயம் இடமாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-7fbc8fc2)
 - 2026-01-05 | `virakesarilk-42da819f` | இலங்கை கடற்பரப்பில் அத்துமீறி நுழைகின்ற இந்திய மீனவர்களின் வருகையை கட்டுப்படுத்த இந்திய அரசு முயற்சிக்கவில்லை - என்.எம்.ஆலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-42da819f)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-05 | `virakesarilk-38340d2b` | சந்தேகநபரை தேடி பொலிஸார் வெளியிட்ட ஓவியத்தால் ஏற்பட்ட விபரீதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-38340d2b)
 - 2026-01-05 | `adalk-1a12b3c8` | 2026 අයි.පී.එල්. තරගාවලිය බංග්ලාදේශයේ විකාශ කිරීම තහනම් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-adalk-1a12b3c8)
 - 2026-01-05 | `virakesarilk-1696ed23` | அரச வைத்தியசாலையில் முதல் முறையாக உணவுப் பிரிவு ஆரம்பிக்க நடவடிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-1696ed23)
-- 2026-01-05 | `virakesarilk-57d5a43d` | 2025ஆம் ஆண்டில்  409க்கும் மேற்பட்ட யானைகள் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-57d5a43d)
 
 ---
 
