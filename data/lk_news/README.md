@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--06_00:26:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--06_00:48:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,070** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,073** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-05-dailyftlk-04ee0edb",
-    "num": "dailyftlk-04ee0edb",
-    "date_str": "2026-01-05",
-    "description": "A period-based comparative analysis of key Treasury Auction indicators in Sri Lanka",
-    "url_metadata": "https://www.ft.lk/columns/A-period-based-comparative-analysis-of-key-Treasury-Auction-indicators-in-Sri-Lanka/4-786531",
+    "doc_id": "2026-01-06-dailyftlk-c3afd9fa",
+    "num": "dailyftlk-c3afd9fa",
+    "date_str": "2026-01-06",
+    "description": "Ruana Rajapakse\u2019s fight for Galle Face Green",
+    "url_metadata": "https://www.ft.lk/opinion/Ruana-Rajapakse-s-fight-for-Galle-Face-Green/14-786534",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767637406.0
+    "time_ut": 1767640194.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-06 | `dailyftlk-c3afd9fa` | Ruana Rajapakse’s fight for Galle Face Green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-c3afd9fa)
+- 2026-01-06 | `dailyftlk-436be1aa` | Restore ecosystems in the upper watersheds of  Sri Lanka – A hidden message from Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-436be1aa)
+- 2026-01-06 | `dailyftlk-4a41eeba` | Why good policies fail in Sri Lanka: The cost of ignoring stakeholders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-4a41eeba)
 - 2026-01-05 | `dailyftlk-04ee0edb` | A period-based comparative analysis of key Treasury Auction indicators in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-dailyftlk-04ee0edb)
 - 2026-01-05 | `virakesarilk-3b82f05e` | நாவாந்துறை சென். மேரிஸ், கொம்பனித் தெரு ஜாவா லேன் கழகங்களுக்கு இலகுவான வெற்றிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-3b82f05e)
 - 2026-01-05 | `dailyftlk-6fbeb4dd` | Sri Lanka’s disaster problem isn’t just nature - it’s architecture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-dailyftlk-6fbeb4dd)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-01-05 | `virakesarilk-85cea9d3` | வடக்கு மீனவர்களின் வாழ்வாதாரத்தை சிதைக்கும் இந்திய இழுவைப்படகுகளின் வருகையை உடனடியாக கட்டுப்படுத்துக - ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-85cea9d3)
 - 2026-01-05 | `tamilmirrorlk-e8d827c5` | கவச வாகனத்திலிருந்து ஹெலிகாப்டருக்கு மாற்றப்படும் வெனிசுலா ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-tamilmirrorlk-e8d827c5)
 - 2026-01-05 | `virakesarilk-0fd83802` | நாளை நள்ளிரவு முதல் உயர்தரப் பரீட்சைக்கான மேலதிக வகுப்புகளுக்குத் தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-0fd83802)
-- 2026-01-05 | `tamilmirrorlk-8ecb3273` | நவீனுக்கு புதிய பதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-tamilmirrorlk-8ecb3273)
-- 2026-01-05 | `virakesarilk-6d2d71b6` | இலஞ்சக் குற்றச்சாட்டில் இரு உயர் பொலிஸ் அதிகாரிகள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-6d2d71b6)
-- 2026-01-05 | `virakesarilk-f9a8f489` | இங்கிலாந்து சார்பாக ஜோ ரூட் 160 ஓட்டங்களைக் குவித்து அசத்த, ஆஸி, சார்பாக ட்ரவிஸ் ஹெட் பதிலடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-f9a8f489)
 
 ---
 

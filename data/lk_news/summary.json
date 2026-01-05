@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-06 00:25:33",
-  "n_docs": 97070,
+  "time_updated": "2026-01-06 00:47:42",
+  "n_docs": 97073,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 97070,
+  "n_docs_with_text": 97073,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-01-05",
-  "dataset_size": 1466972973,
+  "date_str_max": "2026-01-06",
+  "dataset_size": 1467099559,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-05-dailyftlk-04ee0edb",
-    "num": "dailyftlk-04ee0edb",
-    "date_str": "2026-01-05",
-    "description": "A period-based comparative analysis of key Treasury Auction indicators in Sri Lanka",
-    "url_metadata": "https://www.ft.lk/columns/A-period-based-comparative-analysis-of-key-Treasury-Auction-indicators-in-Sri-Lanka/4-786531",
+    "doc_id": "2026-01-06-dailyftlk-c3afd9fa",
+    "num": "dailyftlk-c3afd9fa",
+    "date_str": "2026-01-06",
+    "description": "Ruana Rajapakse\u2019s fight for Galle Face Green",
+    "url_metadata": "https://www.ft.lk/opinion/Ruana-Rajapakse-s-fight-for-Galle-Face-Green/14-786534",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767637406.0
+    "time_ut": 1767640194.0
   }
 }
