@@ -1520,6 +1520,17 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-01-islandlk-b6135ddf",
+    "num": "islandlk-b6135ddf",
+    "date_str": "2026-01-01",
+    "description": "It\u2019s PC polls, stupid",
+    "url_metadata": "http://island.lk/its-pc-polls-stupid/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767280560.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-01-virakesarilk-a5372b42",
     "num": "virakesarilk-a5372b42",
     "date_str": "2026-01-01",
@@ -4325,11 +4336,33 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-03-islandlk-5d690c1c",
+    "num": "islandlk-5d690c1c",
+    "date_str": "2026-01-03",
+    "description": "Sri Lanka after the 2025 Deluge and the NPP\u2019s Tidal Opportunity for 2026",
+    "url_metadata": "http://island.lk/sri-lanka-after-the-2025-deluge-and-the-npps-tidal-opportunity-for-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767433740.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-03-islandlk-c2b5caee",
     "num": "islandlk-c2b5caee",
     "date_str": "2026-01-03",
     "description": "New Year Dawns with more stories of Sri Lanka",
     "url_metadata": "http://island.lk/new-year-dawns-with-more-stories-of-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767433800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-islandlk-f164b2db",
+    "num": "islandlk-f164b2db",
+    "date_str": "2026-01-03",
+    "description": "Education Reforms and Democratic Deficit: A Warning for Sri Lanka",
+    "url_metadata": "http://island.lk/education-reforms-and-democratic-deficit-a-warning-for-sri-lanka/",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1767433800.0
@@ -4454,6 +4487,17 @@ me_ut": 1767229320.0
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1767435960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-03-islandlk-6bbbe17a",
+    "num": "islandlk-6bbbe17a",
+    "date_str": "2026-01-03",
+    "description": "Nandani Warusavithana\u2019s sorrow",
+    "url_metadata": "http://island.lk/nandani-warusavithanas-sorrow/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767436020.0
   },
   {
     "doc_type": "lk_news",
@@ -5700,6 +5744,83 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-67d2c44f",
+    "num": "islandlk-67d2c44f",
+    "date_str": "2026-01-04",
+    "description": "Top Australian influencer arrives to showcase Sri Lanka",
+    "url_metadata": "http://island.lk/top-australian-influencer-arrives-to-showcase-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767529320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-c0ee98de",
+    "num": "islandlk-c0ee98de",
+    "date_str": "2026-01-04",
+    "description": "Hemas Holdings\u2019 stock trading near its estimated fair value",
+    "url_metadata": "http://island.lk/hemas-holdings-stock-trading-near-its-estimated-fair-value/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767529380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-c738d22b",
+    "num": "islandlk-c738d22b",
+    "date_str": "2026-01-04",
+    "description": "Bloombird launches Kalubowila apartment project",
+    "url_metadata": "http://island.lk/bloombird-launches-kalubowila-apartment-project/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767529440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-a68cc97b",
+    "num": "islandlk-a68cc97b",
+    "date_str": "2026-01-04",
+    "description": "People\u2019s Bank introduces digital ticketing solution for SLTB",
+    "url_metadata": "http://island.lk/peoples-bank-introduces-digital-ticketing-solution-for-sltb/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767529500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-324e656d",
+    "num": "islandlk-324e656d",
+    "date_str": "2026-01-04",
+    "description": "New model pre-school vested in Medadumbara to boost early childhood education",
+    "url_metadata": "http://island.lk/new-model-pre-school-vested-in-medadumbara-to-boost-early-childhood-education/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767529560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-db9fa198",
+    "num": "islandlk-db9fa198",
+    "date_str": "2026-01-04",
+    "description": "S G Actuarial Consultancy wins national award for management excellence",
+    "url_metadata": "http://island.lk/s-g-actuarial-consultancy-wins-national-award-for-management-excellence/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767530580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-6f0d5f1e",
+    "num": "islandlk-6f0d5f1e",
+    "date_str": "2026-01-04",
+    "description": "Hotel Supplier recognised at CNCI Awards 2025 for industrial excellence",
+    "url_metadata": "http://island.lk/hotel-supplier-recognised-at-cnci-awards-2025-for-industrial-excellence/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767530760.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-04-adalk-2964441d",
     "num": "adalk-2964441d",
     "date_str": "2026-01-04",
@@ -5818,6 +5939,17 @@ me_ut": 1767229320.0
     "lang": "en",
     "newspaper_id": "colombotelegraphcom",
     "time_ut": 1767542409.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-2108c373",
+    "num": "islandlk-2108c373",
+    "date_str": "2026-01-04",
+    "description": "Cyclone Ditwah exposes growing climate threat to Sri Lanka\u2019s endemic flora",
+    "url_metadata": "http://island.lk/cyclone-ditwah-exposes-growing-climate-threat-to-sri-lankas-endemic-flora/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767545220.0
   },
   {
     "doc_type": "lk_news",
