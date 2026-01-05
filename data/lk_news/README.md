@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--05_22:48:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--05_23:20:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,061** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,065** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-01-05 | `tamilmirrorlk-aa385b80` | நள்ளிரவு முதல் எரிபொருள் விலையில் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-tamilmirrorlk-aa385b80)
+- 2026-01-05 | `virakesarilk-cc60fc1e` | எரிபொருள் விலை மாற்றம் ; இலங்கை பெற்றோலிய கூட்டுத்தாபனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-cc60fc1e)
 - 2026-01-05 | `virakesarilk-64135157` | அனர்த்த தயார்நிலை என்பது தெரிவு அல்ல ; அது கட்டாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-64135157)
 - 2026-01-05 | `tamilmirrorlk-66dc4a75` | மேலும் வலுவடையும் வளிமண்டல தளம்பல் நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-tamilmirrorlk-66dc4a75)
 - 2026-01-05 | `virakesarilk-a357f4ba` | கொழும்பில் அமெரிக்க தூதரகம் முன் வெனிசுவேலா எண்ணெய் ஆக்கிரமிப்பை எதிர்த்து கவனயீர்ப்பு போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-a357f4ba)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-05 | `virakesarilk-7fbc8fc2` | ரம்பொடையில் வேவெண்டன் தமிழ் மகா வித்தியாலயம் இடமாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-7fbc8fc2)
 - 2026-01-05 | `virakesarilk-4c9dce46` | மாகாண சபைத் தேர்தல்களுக்கான பாராளுமன்ற விசேட குழு பிரேரணை சமர்ப்பிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-4c9dce46)
 - 2026-01-05 | `virakesarilk-42da819f` | இலங்கை கடற்பரப்பில் அத்துமீறி நுழைகின்ற இந்திய மீனவர்களின் வருகையை கட்டுப்படுத்த இந்திய அரசு முயற்சிக்கவில்லை - என்.எம்.ஆலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-42da819f)
-- 2026-01-05 | `virakesarilk-4fcb8d69` | HelaGo அறிமுகம் : இலங்கையில் புதிய நியாயமான தாக்சி முன்பதிவு தளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-4fcb8d69)
 
 ---
 
