@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--05_07:15:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--05_08:31:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**96,931** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**96,934** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-05-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2026-01-05-adalk-073b0c95",
+    "num": "adalk-073b0c95",
     "date_str": "2026-01-05",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/235227",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1767574260.0
+    "description": "\u0db8\u0dc4 \u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda \u0dc0\u0dd2 \u0d9c\u0ddc\u0dc0\u0dd2\u0db1\u0dca\u0da7 \u0dbb\u0dd4.\u0db6\u0dd2. 13.5\u0d9a\u0dca \u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dc3\u0dc4\u0db1\u0dcf\u0db0\u0dcf\u0dbb\u0dba \u0dbd\u0dd9\u0dc3 \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dc4-\u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda-\u0dc0\u0dd2-\u0d9c\u0ddc\u0dc0\u0dd2\u0db1\u0dca\u0da7-\u0dbb\u0dd4-\u0db6\u0dd2--13-5\u0d9a\u0dca-\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0dc3\u0dc4\u0db1\u0dcf\u0db0\u0dcf\u0dbb\u0dba-\u0dbd\u0dd9\u0dc3-\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf/11-420613",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1767579297.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-05 | `adalk-073b0c95` | මහ කන්නයේ වි ගොවින්ට රු.බි. 13.5ක් පොහොර සහනාධාරය ලෙස දුන්නා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-adalk-073b0c95)
 - 2026-01-05 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-3a015e4a)
 - 2026-01-05 | `dailyftlk-94739175` | nVentures leads $ 200,000  Seed Round into Flash Health | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-dailyftlk-94739175)
 - 2026-01-05 | `dailyftlk-db6133dc` | Govt. expands ‘Suraksha’ student insurance scheme with additional benefits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-dailyftlk-db6133dc)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-05 | `virakesarilk-97841d98` | புதிய கல்விக் கொள்கை தொடர்பில் பிரதமருக்கு எதிரான தவறான பிரச்சாரங்கள் - அமைச்சர் விஜித்த ஹேரத் கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-97841d98)
 - 2026-01-05 | `virakesarilk-9d57194a` | மருந்து தட்டுப்பாடு மத்தியில் இந்தியாவுடனான சுகாதார ஒப்பந்தம் ஆபத்தானது - ராஜித்த சேனாரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-9d57194a)
 - 2026-01-05 | `dailyftlk-d37c99b3` | Reassessing Sri Lanka’s 2026 outlook after Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-dailyftlk-d37c99b3)
-- 2026-01-05 | `virakesarilk-cfac1c98` | புலம் பெயர் தமிழர்களை மகிழ்ச்சிப்படுத்துவதற்காகவே டக்ளஸ் கைது செய்யப்பட்டிருக்கிறார் - நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-cfac1c98)
 
 ---
 
