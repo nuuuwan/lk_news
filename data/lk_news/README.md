@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--06_01:47:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--06_02:20:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,077** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,082** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-06-dailyftlk-3237e3ba",
-    "num": "dailyftlk-3237e3ba",
+    "doc_id": "2026-01-06-dailyftlk-d867c9de",
+    "num": "dailyftlk-d867c9de",
     "date_str": "2026-01-06",
-    "description": "The case for bigger and stronger banks",
-    "url_metadata": "https://www.ft.lk/columns/The-case-for-bigger-and-stronger-banks/4-786538",
+    "description": "HUTCH earns global recognition  for transformative customer innovations at International Fast Mode Awards",
+    "url_metadata": "https://www.ft.lk/business/HUTCH-earns-global-recognition-for-transformative-customer-innovations-at-International-Fast-Mode-Awards/34-786557",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767642083.0
+    "time_ut": 1767645828.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-06 | `dailyftlk-d867c9de` | HUTCH earns global recognition  for transformative customer innovations at International Fast Mode Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-d867c9de)
+- 2026-01-06 | `dailyftlk-1f9c566d` | ComBank supports DMC to strengthen country’s disaster readiness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-1f9c566d)
+- 2026-01-06 | `dailyftlk-79302d9f` | CA Sri Lanka donates Rs. 10 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-79302d9f)
+- 2026-01-06 | `dailyftlk-24c99463` | Another Rs. 3 m donation to ‘Rebuilding Sri Lanka’ fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-24c99463)
+- 2026-01-06 | `dailyftlk-d30047ad` | SLT-Mobitel’s post-Ditwah response leads nation’s connectivity recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-d30047ad)
 - 2026-01-06 | `dailyftlk-3237e3ba` | The case for bigger and stronger banks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-3237e3ba)
 - 2026-01-06 | `dailyftlk-f3b7f278` | Ditwah disaster response: Legal limits and market costs of suspending debt payments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-f3b7f278)
 - 2026-01-06 | `dailyftlk-7b3530d4` | Debt after Ditwah: Why Sri Lanka should be cautious | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-7b3530d4)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-01-05 | `virakesarilk-64135157` | அனர்த்த தயார்நிலை என்பது தெரிவு அல்ல ; அது கட்டாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-64135157)
 - 2026-01-05 | `tamilmirrorlk-66dc4a75` | மேலும் வலுவடையும் வளிமண்டல தளம்பல் நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-tamilmirrorlk-66dc4a75)
 - 2026-01-05 | `virakesarilk-a357f4ba` | கொழும்பில் அமெரிக்க தூதரகம் முன் வெனிசுவேலா எண்ணெய் ஆக்கிரமிப்பை எதிர்த்து கவனயீர்ப்பு போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-a357f4ba)
-- 2026-01-05 | `tamilmirrorlk-b77502f4` | கொத்மலை வெவண்டன் பாடசாலையை இடமாற்ற தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-tamilmirrorlk-b77502f4)
-- 2026-01-05 | `virakesarilk-6ae5fa67` | சம்பியன்ஸ் லீக்  சுப்பர் 8 சுற்றில் விளையாட முதல் அணியாக தகுதிபெற்றது  நியூ ஸ்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-6ae5fa67)
-- 2026-01-05 | `virakesarilk-43ba4953` | திருகோணமலை வீர நகர் பகுதியில் கடலறிப்பால் மூன்று வீடுகள் சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-43ba4953)
-- 2026-01-05 | `tamilmirrorlk-4b8044cd` | பரீட்சைகள் திணைக்களத்தின் அதிரடி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-tamilmirrorlk-4b8044cd)
-- 2026-01-05 | `tamilmirrorlk-22a6ae38` | நிதியை உகந்த முறையில் பயன்படுத்துமாறு ஜனாதிபதி அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-tamilmirrorlk-22a6ae38)
 
 ---
 
