@@ -7952,5 +7952,71 @@ me_ut": 1767229320.0
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1767645828.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-06-dailyftlk-72afaa66",
+    "num": "dailyftlk-72afaa66",
+    "date_str": "2026-01-06",
+    "description": "Ching San Lim joins Chevron Lubricants Lanka Board",
+    "url_metadata": "https://www.ft.lk/business/Ching-San-Lim-joins-Chevron-Lubricants-Lanka-Board/34-786558",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767645978.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-06-dailyftlk-054c4834",
+    "num": "dailyftlk-054c4834",
+    "date_str": "2026-01-06",
+    "description": "INSEE Lanka appoints  new Chief Executive Officer",
+    "url_metadata": "https://www.ft.lk/business/INSEE-Lanka-appoints-new-Chief-Executive-Officer/34-786559",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767646078.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-06-dailyftlk-491cff8f",
+    "num": "dailyftlk-491cff8f",
+    "date_str": "2026-01-06",
+    "description": "Gem Sri Lanka 2026 set  to unfold its biggest story yet at Shangri-La Colombo",
+    "url_metadata": "https://www.ft.lk/business/Gem-Sri-Lanka-2026-set-to-unfold-its-biggest-story-yet-at-Shangri-La-Colombo/34-786560",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767646195.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-06-dailyftlk-b25b630a",
+    "num": "dailyftlk-b25b630a",
+    "date_str": "2026-01-06",
+    "description": "Chinese Ambassador calls on Minister Vijitha Herath",
+    "url_metadata": "https://www.ft.lk/news/Chinese-Ambassador-calls-on-Minister-Vijitha-Herath/56-786561",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767646408.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-06-dailyftlk-964d8a57",
+    "num": "dailyftlk-964d8a57",
+    "date_str": "2026-01-06",
+    "description": "Sri Lanka Journalists for Global Justice condemns US\u2019 illegitimate aggression against Venezuela",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-Journalists-for-Global-Justice-condemns-US-illegitimate-aggression-against-Venezuela/56-786562",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767646439.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-06-dailyftlk-972672da",
+    "num": "dailyftlk-972672da",
+    "date_str": "2026-01-06",
+    "description": "Sajith calls for independent review of education reforms",
+    "url_metadata": "https://www.ft.lk/news/Sajith-calls-for-independent-review-of-education-reforms/56-786563",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767646694.0
   }
 ]
