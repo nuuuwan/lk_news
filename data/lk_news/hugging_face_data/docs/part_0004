@@ -6316,6 +6316,17 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-05-colombotelegraphcom-516c17e5",
+    "num": "colombotelegraphcom-516c17e5",
+    "date_str": "2026-01-05",
+    "description": "Sovereignty, Human Rights & The UN \u2013 Who Decides When A State Loses Its Shield?",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/sovereignty-human-rights-the-un-who-decides-when-a-state-loses-its-shield/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1767572154.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-05-virakesarilk-3a015e4a",
     "num": "virakesarilk-3a015e4a",
     "date_str": "2026-01-05",
@@ -6525,6 +6536,17 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-05-adalk-60a59b2b",
+    "num": "adalk-60a59b2b",
+    "date_str": "2026-01-05",
+    "description": "\u0dc4\u0dd0\u0da7\u0db1\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0dda \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd0\u0da7\u0db1\u0dca-\u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0dda-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad\u0dba\u0dd2/11-420617",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1767588493.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-05-tamilmirrorlk-ec5876a5",
     "num": "tamilmirrorlk-ec5876a5",
     "date_str": "2026-01-05",
@@ -6555,5 +6577,27 @@ me_ut": 1767229320.0
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1767590100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-tamilmirrorlk-42165509",
+    "num": "tamilmirrorlk-42165509",
+    "date_str": "2026-01-05",
+    "description": "330 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b8e\u0bae\u0bcd.\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bcd 182 \u0ba4\u0bc1\u0ba3\u0bc8\u0bb5\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/330-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0b8e\u0bae\u0bcd-\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb3\u0bcd-182-\u0ba4\u0bc1\u0ba3\u0bc8\u0bb5\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd-\u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1/175-370566",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767590836.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-tamilmirrorlk-58d4f30c",
+    "num": "tamilmirrorlk-58d4f30c",
+    "date_str": "2026-01-05",
+    "description": "\u0bae\u0bcb\u0ba4\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bcd\u0b9f\u0b95\u0bbe\u0b9a\u0bae\u0bcd: 3 \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f 8 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0ba4\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0b9f\u0bcd\u0b9f\u0b95\u0bbe\u0b9a\u0bae\u0bcd-3-\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd-\u0b89\u0b9f\u0bcd\u0baa\u0b9f-8-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-370567",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767591077.0
   }
 ]
