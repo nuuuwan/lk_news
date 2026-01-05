@@ -7438,6 +7438,17 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-05-colombotelegraphcom-3a01a505",
+    "num": "colombotelegraphcom-3a01a505",
+    "date_str": "2026-01-05",
+    "description": "On The Question Of Extradition Of A Sitting Head Of State: A Clarification Based On Authoritative Briefings",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/on-the-question-of-extradition-of-a-sitting-head-of-state-a-clarification-based-on-authoritative-briefings/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1767615240.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-05-virakesarilk-a8046291",
     "num": "virakesarilk-a8046291",
     "date_str": "2026-01-05",
@@ -7501,6 +7512,17 @@ me_ut": 1767229320.0
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767617580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-colombotelegraphcom-e1fea34e",
+    "num": "colombotelegraphcom-e1fea34e",
+    "date_str": "2026-01-05",
+    "description": "When An Uber Ride Home Turns Violent: A Test Of Passenger Safety & Corporate Accountability In Sri Lanka",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/when-an-uber-ride-home-turns-violent-a-test-of-passenger-safety-corporate-accountability-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1767617604.0
   },
   {
     "doc_type": "lk_news",
@@ -7765,5 +7787,38 @@ me_ut": 1767229320.0
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1767632874.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-6fbeb4dd",
+    "num": "dailyftlk-6fbeb4dd",
+    "date_str": "2026-01-05",
+    "description": "Sri Lanka\u2019s disaster problem isn\u2019t just nature - it\u2019s architecture",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-disaster-problem-isn-t-just-nature-it-s-architecture/4-786527",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767633629.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-virakesarilk-3b82f05e",
+    "num": "virakesarilk-3b82f05e",
+    "date_str": "2026-01-05",
+    "description": "\u0ba8\u0bbe\u0bb5\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0b9a\u0bc6\u0ba9\u0bcd. \u0bae\u0bc7\u0bb0\u0bbf\u0bb8\u0bcd, \u0b95\u0bca\u0bae\u0bcd\u0baa\u0ba9\u0bbf\u0ba4\u0bcd \u0ba4\u0bc6\u0bb0\u0bc1 \u0b9c\u0bbe\u0bb5\u0bbe \u0bb2\u0bc7\u0ba9\u0bcd \u0b95\u0bb4\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b95\u0bc1\u0bb5\u0bbe\u0ba9 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/235312",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1767637260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-dailyftlk-04ee0edb",
+    "num": "dailyftlk-04ee0edb",
+    "date_str": "2026-01-05",
+    "description": "A period-based comparative analysis of key Treasury Auction indicators in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/A-period-based-comparative-analysis-of-key-Treasury-Auction-indicators-in-Sri-Lanka/4-786531",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767637406.0
   }
 ]

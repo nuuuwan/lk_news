@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-05 23:48:42",
-  "n_docs": 97065,
+  "time_updated": "2026-01-06 00:25:33",
+  "n_docs": 97070,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 97065,
+  "n_docs_with_text": 97070,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-05",
-  "dataset_size": 1466928508,
+  "dataset_size": 1466972973,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-05-tamilmirrorlk-aa385b80",
-    "num": "tamilmirrorlk-aa385b80",
+    "doc_id": "2026-01-05-dailyftlk-04ee0edb",
+    "num": "dailyftlk-04ee0edb",
     "date_str": "2026-01-05",
-    "description": "\u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/150-370609",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767632874.0
+    "description": "A period-based comparative analysis of key Treasury Auction indicators in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/A-period-based-comparative-analysis-of-key-Treasury-Auction-indicators-in-Sri-Lanka/4-786531",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767637406.0
   }
 }
