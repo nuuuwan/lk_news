@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-06 03:46:15",
-  "n_docs": 97088,
+  "time_updated": "2026-01-06 04:19:08",
+  "n_docs": 97092,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 97088,
+  "n_docs_with_text": 97092,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-06",
-  "dataset_size": 1467377354,
+  "dataset_size": 1467400856,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-06-dailyftlk-972672da",
-    "num": "dailyftlk-972672da",
+    "doc_id": "2026-01-06-virakesarilk-6942e649",
+    "num": "virakesarilk-6942e649",
     "date_str": "2026-01-06",
-    "description": "Sajith calls for independent review of education reforms",
-    "url_metadata": "https://www.ft.lk/news/Sajith-calls-for-independent-review-of-education-reforms/56-786563",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1767646694.0
+    "description": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b89\u0b9f\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0b89\u0ba4\u0baf \u0b95\u0bae\u0bcd\u0bae\u0ba9\u0bcd\u0baa\u0bbf\u0bb2 \u0baa\u0b95\u0bbf\u0bb0\u0b99\u0bcd\u0b95 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/235316",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1767652440.0
   }
 }
