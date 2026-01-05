@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--06_01:17:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--06_01:47:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,076** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,077** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-06-dailyftlk-f3b7f278",
-    "num": "dailyftlk-f3b7f278",
+    "doc_id": "2026-01-06-dailyftlk-3237e3ba",
+    "num": "dailyftlk-3237e3ba",
     "date_str": "2026-01-06",
-    "description": "Ditwah disaster response: Legal limits and market costs of suspending debt payments",
-    "url_metadata": "https://www.ft.lk/columns/Ditwah-disaster-response-Legal-limits-and-market-costs-of-suspending-debt-payments/4-786537",
+    "description": "The case for bigger and stronger banks",
+    "url_metadata": "https://www.ft.lk/columns/The-case-for-bigger-and-stronger-banks/4-786538",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767641630.0
+    "time_ut": 1767642083.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-06 | `dailyftlk-3237e3ba` | The case for bigger and stronger banks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-3237e3ba)
 - 2026-01-06 | `dailyftlk-f3b7f278` | Ditwah disaster response: Legal limits and market costs of suspending debt payments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-f3b7f278)
 - 2026-01-06 | `dailyftlk-7b3530d4` | Debt after Ditwah: Why Sri Lanka should be cautious | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-7b3530d4)
 - 2026-01-06 | `dailyftlk-5ee8e907` | An open letter to Central Bank of Sri Lanka Governor Dr. Nandalal Weerasinghe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-dailyftlk-5ee8e907)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-05 | `virakesarilk-43ba4953` | திருகோணமலை வீர நகர் பகுதியில் கடலறிப்பால் மூன்று வீடுகள் சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-43ba4953)
 - 2026-01-05 | `tamilmirrorlk-4b8044cd` | பரீட்சைகள் திணைக்களத்தின் அதிரடி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-tamilmirrorlk-4b8044cd)
 - 2026-01-05 | `tamilmirrorlk-22a6ae38` | நிதியை உகந்த முறையில் பயன்படுத்துமாறு ஜனாதிபதி அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-tamilmirrorlk-22a6ae38)
-- 2026-01-05 | `virakesarilk-2c64b3f7` | 1 வயது 8 மாத பெண் குழந்தை நீரில் மூழ்கி உயிரிழப்பு! மூதூர் ஷாபி நகரில் துயரச் சம்பவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-05-virakesarilk-2c64b3f7)
 
 ---
 
