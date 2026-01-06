@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-06 23:50:29",
-  "n_docs": 97224,
+  "time_updated": "2026-01-07 01:52:07",
+  "n_docs": 97226,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 97224,
+  "n_docs_with_text": 97226,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-01-06",
-  "dataset_size": 1469661966,
+  "date_str_max": "2026-01-07",
+  "dataset_size": 1469678009,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-06-tamilmirrorlk-30c6f57a",
-    "num": "tamilmirrorlk-30c6f57a",
-    "date_str": "2026-01-06",
-    "description": "\u0baa\u0bbe\u0bae\u0bcd\u0baa\u0bc1 \u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd \u0baa\u0bb0\u0bbf\u0ba4\u0bbe\u0baa\u0bae\u0bbe\u0b95 \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bae\u0bcd\u0baa\u0bc1-\u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd-\u0baa\u0bb0\u0bbf\u0ba4\u0bbe\u0baa\u0bae\u0bbe\u0b95-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/175-370689",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767718265.0
+    "doc_id": "2026-01-07-dailyftlk-70f7d556",
+    "num": "dailyftlk-70f7d556",
+    "date_str": "2026-01-07",
+    "description": "Dialog commits Rs. 420 m to Rebuilding Sri Lanka fund after Cyclone Ditwah",
+    "url_metadata": "https://www.ft.lk/news/Dialog-commits-Rs-420-m-to-Rebuilding-Sri-Lanka-fund-after-Cyclone-Ditwah/56-786590",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767727756.0
   }
 }

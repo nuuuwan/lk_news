@@ -9514,5 +9514,27 @@ me_ut": 1767229320.0
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1767718265.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-dailyftlk-a1d4dfab",
+    "num": "dailyftlk-a1d4dfab",
+    "date_str": "2026-01-07",
+    "description": "Republic Of Korea supports WFP\u2019s emergency cash assistance for cyclone-affected families in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/Republic-Of-Korea-supports-WFP-s-emergency-cash-assistance-for-cyclone-affected-families-in-Sri-Lanka/56-786589",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767727646.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-dailyftlk-70f7d556",
+    "num": "dailyftlk-70f7d556",
+    "date_str": "2026-01-07",
+    "description": "Dialog commits Rs. 420 m to Rebuilding Sri Lanka fund after Cyclone Ditwah",
+    "url_metadata": "https://www.ft.lk/news/Dialog-commits-Rs-420-m-to-Rebuilding-Sri-Lanka-fund-after-Cyclone-Ditwah/56-786590",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767727756.0
   }
 ]
