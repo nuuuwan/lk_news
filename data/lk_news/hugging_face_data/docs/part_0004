@@ -9536,5 +9536,82 @@ me_ut": 1767229320.0
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1767727756.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-tamilmirrorlk-ac20902f",
+    "num": "tamilmirrorlk-ac20902f",
+    "date_str": "2026-01-07",
+    "description": "\u2019\u0b85\u0ba9\u0bcd\u0bb1\u0bc1 \u0b9a\u0ba3\u0bcd\u0b9f\u0bbf \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bca\u0ba3\u0bcd\u0b9f\u0bbf\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bcd\u0bb1\u0bc1-\u0b9a\u0ba3\u0bcd\u0b9f\u0bbf-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0ba8\u0bca\u0ba3\u0bcd\u0b9f\u0bbf/175-370690",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767730968.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-tamilmirrorlk-05440476",
+    "num": "tamilmirrorlk-05440476",
+    "date_str": "2026-01-07",
+    "description": "\u2019\u0b9f\u0bbf\u0b9f\u0bcd\u0bb5\u0bbe\u2019 \u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0b8e\u0bae\u0b95\u0bcd\u0b95\u0bc7 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf\u0b9f\u0bcd\u0bb5\u0bbe-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8-\u0b8e\u0bae\u0b95\u0bcd\u0b95\u0bc7-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/175-370691",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767731340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-tamilmirrorlk-f7bc1f2c",
+    "num": "tamilmirrorlk-f7bc1f2c",
+    "date_str": "2026-01-07",
+    "description": "\u2019\u0b9c\u0bc6\u0bae\u0bcd \u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe 2026 \u0baa\u0bc1\u0ba4\u0ba9\u0ba9\u0bcd\u0bb1\u0bc1 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd \u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bc6\u0bae\u0bcd-\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe-2026-\u0baa\u0bc1\u0ba4\u0ba9\u0ba9\u0bcd\u0bb1\u0bc1-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/175-370692",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767731682.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-tamilmirrorlk-fd38ddb7",
+    "num": "tamilmirrorlk-fd38ddb7",
+    "date_str": "2026-01-07",
+    "description": "\u2019\u0bae\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0ba3 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0bae\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0bb2\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba9\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bbe\u0bae\u0bcd-\u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0bb2/175-370693",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767732165.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-dailyftlk-891d26e6",
+    "num": "dailyftlk-891d26e6",
+    "date_str": "2026-01-07",
+    "description": "From rules-based order to rule by power",
+    "url_metadata": "https://www.ft.lk/columns/From-rules-based-order-to-rule-by-power/4-786593",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767736333.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-dailyftlk-8ab337f9",
+    "num": "dailyftlk-8ab337f9",
+    "date_str": "2026-01-07",
+    "description": "A tribute to Uncle Lakshman",
+    "url_metadata": "https://www.ft.lk/opinion/A-tribute-to-Uncle-Lakshman/14-786594",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767736738.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-dailyftlk-137828b6",
+    "num": "dailyftlk-137828b6",
+    "date_str": "2026-01-07",
+    "description": "IPS releases study on sexual and gender-based violence faced by migrant female domestic workers",
+    "url_metadata": "https://www.ft.lk/opinion/IPS-releases-study-on-sexual-and-gender-based-violence-faced-by-migrant-female-domestic-workers/14-786595",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767736969.0
   }
 ]

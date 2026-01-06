@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-07 01:52:07",
-  "n_docs": 97226,
+  "time_updated": "2026-01-07 03:47:43",
+  "n_docs": 97233,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 97226,
+  "n_docs_with_text": 97233,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-07",
-  "dataset_size": 1469678009,
+  "dataset_size": 1469733437,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-07-dailyftlk-70f7d556",
-    "num": "dailyftlk-70f7d556",
+    "doc_id": "2026-01-07-dailyftlk-137828b6",
+    "num": "dailyftlk-137828b6",
     "date_str": "2026-01-07",
-    "description": "Dialog commits Rs. 420 m to Rebuilding Sri Lanka fund after Cyclone Ditwah",
-    "url_metadata": "https://www.ft.lk/news/Dialog-commits-Rs-420-m-to-Rebuilding-Sri-Lanka-fund-after-Cyclone-Ditwah/56-786590",
+    "description": "IPS releases study on sexual and gender-based violence faced by migrant female domestic workers",
+    "url_metadata": "https://www.ft.lk/opinion/IPS-releases-study-on-sexual-and-gender-based-violence-faced-by-migrant-female-domestic-workers/14-786595",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767727756.0
+    "time_ut": 1767736969.0
   }
 }

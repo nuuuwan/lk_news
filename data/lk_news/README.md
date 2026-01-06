@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--07_01:52:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--07_03:48:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,226** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,233** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-07-dailyftlk-70f7d556",
-    "num": "dailyftlk-70f7d556",
+    "doc_id": "2026-01-07-dailyftlk-137828b6",
+    "num": "dailyftlk-137828b6",
     "date_str": "2026-01-07",
-    "description": "Dialog commits Rs. 420 m to Rebuilding Sri Lanka fund after Cyclone Ditwah",
-    "url_metadata": "https://www.ft.lk/news/Dialog-commits-Rs-420-m-to-Rebuilding-Sri-Lanka-fund-after-Cyclone-Ditwah/56-786590",
+    "description": "IPS releases study on sexual and gender-based violence faced by migrant female domestic workers",
+    "url_metadata": "https://www.ft.lk/opinion/IPS-releases-study-on-sexual-and-gender-based-violence-faced-by-migrant-female-domestic-workers/14-786595",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767727756.0
+    "time_ut": 1767736969.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-07 | `dailyftlk-137828b6` | IPS releases study on sexual and gender-based violence faced by migrant female domestic workers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-dailyftlk-137828b6)
+- 2026-01-07 | `dailyftlk-8ab337f9` | A tribute to Uncle Lakshman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-dailyftlk-8ab337f9)
+- 2026-01-07 | `dailyftlk-891d26e6` | From rules-based order to rule by power | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-dailyftlk-891d26e6)
+- 2026-01-07 | `tamilmirrorlk-fd38ddb7` | ’மின் கட்டண அதிகரிப்புக்கு நாம் பொறுப்பல்ல’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-tamilmirrorlk-fd38ddb7)
+- 2026-01-07 | `tamilmirrorlk-f7bc1f2c` | ’ஜெம் ஸ்ரீலங்கா 2026 புதனன்று ஆரம்பம் ’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-tamilmirrorlk-f7bc1f2c)
+- 2026-01-07 | `tamilmirrorlk-05440476` | ’டிட்வா’ தலைமை எமக்கே வேண்டும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-tamilmirrorlk-05440476)
+- 2026-01-07 | `tamilmirrorlk-ac20902f` | ’அன்று சண்டி இன்று நொண்டி’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-tamilmirrorlk-ac20902f)
 - 2026-01-07 | `dailyftlk-70f7d556` | Dialog commits Rs. 420 m to Rebuilding Sri Lanka fund after Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-dailyftlk-70f7d556)
 - 2026-01-07 | `dailyftlk-a1d4dfab` | Republic Of Korea supports WFP’s emergency cash assistance for cyclone-affected families in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-dailyftlk-a1d4dfab)
 - 2026-01-06 | `tamilmirrorlk-30c6f57a` | பாம்பு கடித்து இளைஞன் பரிதாபமாக மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-tamilmirrorlk-30c6f57a)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-01-06 | `tamilmirrorlk-0ff67a29` | நிலாவெளி  பொலிஸ் அதிகாரிக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-tamilmirrorlk-0ff67a29)
 - 2026-01-06 | `virakesarilk-22fcc490` | டாக்சிக்' படத்தில் நடிக்கும் நடிகை ருக்மணி வசந்த்தின் கேரக்டர் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-virakesarilk-22fcc490)
 - 2026-01-06 | `virakesarilk-ea061387` | புதிய தோற்றத்தில் பிறந்த நாள் கொண்டாடிய 'இசைப்புயல்' ஏ ஆர் ரஹ்மான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-virakesarilk-ea061387)
-- 2026-01-06 | `virakesarilk-e24eadbd` | குருதிக் கூழ்மப்பிரிப்புச் சேவைகளை விரிவாக்கம் செய்வதற்காக அரச – தனியார் பங்குடமை மாதிரியை நடைமுறைப்படுத்துவதற்கு அமைச்சரவை அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-virakesarilk-e24eadbd)
-- 2026-01-06 | `virakesarilk-5306714d` | இலங்கை மக்களை ஊக்குவிக்கும் “இலங்கைத் தாயே...” பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-virakesarilk-5306714d)
-- 2026-01-06 | `adalk-a585bae6` | බෝ නොවන රෝග සඳහා නව කාර්ය සාධක බලකායක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-adalk-a585bae6)
-- 2026-01-06 | `tamilmirrorlk-d3927e88` | காலியில் சிறு வௌ்ளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-tamilmirrorlk-d3927e88)
-- 2026-01-06 | `tamilmirrorlk-41582359` | 3 நாட்களில் 3ஆவது முறையாக நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-tamilmirrorlk-41582359)
-- 2026-01-06 | `adalk-18ba3d89` | වරායට ගොඩ බාන මිලට ඉන්ධන විකුණන්න බෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-adalk-18ba3d89)
-- 2026-01-06 | `virakesarilk-1bf59518` | விமான நிலையத்தில் குஷ் போதைப்பொருளுடன் இந்திய பிரஜைகள் மூவர்  கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-virakesarilk-1bf59518)
 
 ---
 
