@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--06_19:48:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--06_21:49:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,221** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,223** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -53,14 +53,14 @@ A collection of lk_news documents.
 - 2026-01-06 | `virakesarilk-ea061387` | புதிய தோற்றத்தில் பிறந்த நாள் கொண்டாடிய 'இசைப்புயல்' ஏ ஆர் ரஹ்மான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-virakesarilk-ea061387)
 - 2026-01-06 | `virakesarilk-e24eadbd` | குருதிக் கூழ்மப்பிரிப்புச் சேவைகளை விரிவாக்கம் செய்வதற்காக அரச – தனியார் பங்குடமை மாதிரியை நடைமுறைப்படுத்துவதற்கு அமைச்சரவை அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-virakesarilk-e24eadbd)
 - 2026-01-06 | `virakesarilk-5306714d` | இலங்கை மக்களை ஊக்குவிக்கும் “இலங்கைத் தாயே...” பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-virakesarilk-5306714d)
+- 2026-01-06 | `adalk-a585bae6` | බෝ නොවන රෝග සඳහා නව කාර්ය සාධක බලකායක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-adalk-a585bae6)
 - 2026-01-06 | `tamilmirrorlk-d3927e88` | காலியில் சிறு வௌ்ளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-tamilmirrorlk-d3927e88)
 - 2026-01-06 | `tamilmirrorlk-41582359` | 3 நாட்களில் 3ஆவது முறையாக நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-tamilmirrorlk-41582359)
+- 2026-01-06 | `adalk-18ba3d89` | වරායට ගොඩ බාන මිලට ඉන්ධන විකුණන්න බෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-adalk-18ba3d89)
 - 2026-01-06 | `virakesarilk-1bf59518` | விமான நிலையத்தில் குஷ் போதைப்பொருளுடன் இந்திய பிரஜைகள் மூவர்  கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-virakesarilk-1bf59518)
 - 2026-01-06 | `virakesarilk-cd178dad` | பாகிஸ்தானுக்கு எதிரான ரி20 கிரிக்கெட் தொடருக்கான இலங்கை குழாத்தில் இளம் சுழல்பந்துவீச்சாளர் ட்ரவீன் மெத்யூ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-virakesarilk-cd178dad)
 - 2026-01-06 | `tamilmirrorlk-8f5dab24` | தாலிக்கொடியை  யுவதியிடம் இழந்த யாழ்  வங்கி ஊழியர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-tamilmirrorlk-8f5dab24)
 - 2026-01-06 | `adalk-92a13419` | වෙනිසියුලාව ගැන ලංකාවේ දැඩි කනස්සල්ල | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-adalk-92a13419)
-- 2026-01-06 | `tamilmirrorlk-f2427885` | திருகோணமலையில் கடல் சீற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-tamilmirrorlk-f2427885)
-- 2026-01-06 | `virakesarilk-6e815517` | பொலிஸ் அதிகாரியைத் தாக்கிய எம்.பி முன்னர் நீதிமன்றத்தால் தண்டிக்கப்பட்ட ஒரு குற்றவாளி! -  பொதுஜன பெரமுன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-06-virakesarilk-6e815517)
 
 ---
 
