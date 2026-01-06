@@ -3555,6 +3555,17 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-02-islandlk-802622c6",
+    "num": "islandlk-802622c6",
+    "date_str": "2026-01-02",
+    "description": "A question of power",
+    "url_metadata": "http://island.lk/a-question-of-power/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767375600.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-02-islandlk-0e8fb73d",
     "num": "islandlk-0e8fb73d",
     "date_str": "2026-01-02",
@@ -5744,6 +5755,17 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-6a74c02b",
+    "num": "islandlk-6a74c02b",
+    "date_str": "2026-01-04",
+    "description": "Sri Lanka\u2019s recovery: A boon for banks, a burden for many",
+    "url_metadata": "http://island.lk/sri-lankas-recovery-a-boon-for-banks-a-burden-for-many/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767529260.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-04-islandlk-67d2c44f",
     "num": "islandlk-67d2c44f",
     "date_str": "2026-01-04",
@@ -5777,6 +5799,17 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-e4bc7a70",
+    "num": "islandlk-e4bc7a70",
+    "date_str": "2026-01-04",
+    "description": "Venezuela\u2019s oil reserves : Investments hinge on politics",
+    "url_metadata": "http://island.lk/venezuelas-oil-reserves-investments-hinge-on-politics/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767529440.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-04-islandlk-a68cc97b",
     "num": "islandlk-a68cc97b",
     "date_str": "2026-01-04",
@@ -5796,6 +5829,17 @@ me_ut": 1767229320.0
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1767529560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-7b315dc1",
+    "num": "islandlk-7b315dc1",
+    "date_str": "2026-01-04",
+    "description": "Beyond blame: The systemic crisis in Sri Lanka\u2019s medicine regulation",
+    "url_metadata": "http://island.lk/beyond-blame-the-systemic-crisis-in-sri-lankas-medicine-regulation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767530460.0
   },
   {
     "doc_type": "lk_news",
@@ -5964,11 +6008,44 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-25f412d3",
+    "num": "islandlk-25f412d3",
+    "date_str": "2026-01-04",
+    "description": "Pharmaceuticals, deaths, and work ethics",
+    "url_metadata": "http://island.lk/pharmaceuticals-deaths-and-work-ethics/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767543900.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-04-islandlk-2108c373",
     "num": "islandlk-2108c373",
     "date_str": "2026-01-04",
     "description": "Cyclone Ditwah exposes growing climate threat to Sri Lanka\u2019s endemic flora",
     "url_metadata": "http://island.lk/cyclone-ditwah-exposes-growing-climate-threat-to-sri-lankas-endemic-flora/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767545220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-45e19c01",
+    "num": "islandlk-45e19c01",
+    "date_str": "2026-01-04",
+    "description": "Tips for great sleep",
+    "url_metadata": "http://island.lk/tips-for-great-sleep/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767545220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-8878dad2",
+    "num": "islandlk-8878dad2",
+    "date_str": "2026-01-04",
+    "description": "Environmental awareness and environmental literacy",
+    "url_metadata": "http://island.lk/environmental-awareness-and-environmental-literacy/",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1767545220.0
@@ -7801,6 +7878,72 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-05-islandlk-389e313e",
+    "num": "islandlk-389e313e",
+    "date_str": "2026-01-05",
+    "description": "Maxi Rozairo\u2026What a voice! What a legend!",
+    "url_metadata": "http://island.lk/maxi-rozairowhat-a-voice-what-a-legend/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767634080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-islandlk-c8d7a7e6",
+    "num": "islandlk-c8d7a7e6",
+    "date_str": "2026-01-05",
+    "description": "\u2018Singlish\u2019 mashup",
+    "url_metadata": "http://island.lk/singlish-mashup/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767634140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-islandlk-8b6ffe24",
+    "num": "islandlk-8b6ffe24",
+    "date_str": "2026-01-05",
+    "description": "Share trading happily upwards, thanks to construction and banking counters",
+    "url_metadata": "http://island.lk/share-trading-happily-upwards-thanks-to-construction-and-banking-counters/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767634500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-islandlk-2c52c75c",
+    "num": "islandlk-2c52c75c",
+    "date_str": "2026-01-05",
+    "description": "LOLC Divi Saviya phase two commences with 200 school renovations",
+    "url_metadata": "http://island.lk/lolc-divi-saviya-phase-two-commences-with-200-school-renovations/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767634680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-islandlk-2753bf05",
+    "num": "islandlk-2753bf05",
+    "date_str": "2026-01-05",
+    "description": "New IPS Publication: Empirical evidence on Sexual and Gender-based Violence faced by migrant female domestic workers",
+    "url_metadata": "http://island.lk/new-ips-publication-empirical-evidence-on-sexual-and-gender-based-violence-faced-by-migrant-female-domestic-workers/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767634800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-islandlk-6de45a76",
+    "num": "islandlk-6de45a76",
+    "date_str": "2026-01-05",
+    "description": "NDB Bank elevates the festive experience at Splash Shopping Fiesta 2025 at Kandy City Centre",
+    "url_metadata": "http://island.lk/ndb-bank-elevates-the-festive-experience-at-splash-shopping-fiesta-2025-at-kandy-city-centre/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767634860.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-05-virakesarilk-3b82f05e",
     "num": "virakesarilk-3b82f05e",
     "date_str": "2026-01-05",
@@ -7820,6 +7963,17 @@ me_ut": 1767229320.0
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1767637406.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-06-colombotelegraphcom-d016d9c5",
+    "num": "colombotelegraphcom-d016d9c5",
+    "date_str": "2026-01-06",
+    "description": "How The Yankee Bandit \u2018Looted\u2019 Venezuela & Rule-Based Order In Broad Daylight!",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/how-the-yankee-bandit-looted-venezuela-rule-based-order-in-broad-daylight/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1767638973.0
   },
   {
     "doc_type": "lk_news",
