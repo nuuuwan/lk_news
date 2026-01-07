@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--07_21:51:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--07_23:51:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,340** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,342** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-07-adalk-5cf38ec7",
-    "num": "adalk-5cf38ec7",
+    "doc_id": "2026-01-07-tamilmirrorlk-bdc168ea",
+    "num": "tamilmirrorlk-bdc168ea",
     "date_str": "2026-01-07",
-    "description": "\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db0\u0da2\u0dba \u0dc3\u0dc4\u0dd2\u0dad \u0dad\u0dd9\u0dbd\u0dca \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/international/\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0db0\u0da2\u0dba-\u0dc3\u0dc4\u0dd2\u0dad-\u0dad\u0dd9\u0dbd\u0dca-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/3-420678",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1767802080.0
+    "description": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0bae\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd : \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0bb5\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc8-\u0ba8\u0bbf\u0bb0\u0bcd\u0bae\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/175-370756",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767803556.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-07 | `tamilmirrorlk-bdc168ea` | புதிய வீடுகளை நிர்மாணிக்கும் திட்டம் ஆரம்பம் : ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-tamilmirrorlk-bdc168ea)
+- 2026-01-07 | `adalk-62fda30c` | ඇමෙරිකාව තවත් නෞකාවක් සිය භාරයට ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-adalk-62fda30c)
 - 2026-01-07 | `adalk-5cf38ec7` | රුසියානු ධජය සහිත තෙල් නැවක් ඇමෙරිකාව අත්අඩංගුවට ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-adalk-5cf38ec7)
 - 2026-01-07 | `tamilmirrorlk-7c09f4b8` | யாழில் பட்டத்துடன் பறந்த இளைஞன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-tamilmirrorlk-7c09f4b8)
 - 2026-01-07 | `tamilmirrorlk-3c49c6f2` | சேதங்களுக்கான கொடுப்பனவு குறித்து பாதுகாப்பு அமைச்சின் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-tamilmirrorlk-3c49c6f2)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-01-07 | `tamilmirrorlk-f6ba2dcd` | மகளை தாக்கிய ‘போதை’ தந்தை கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-tamilmirrorlk-f6ba2dcd)
 - 2026-01-07 | `tamilmirrorlk-845b0c75` | ‘செவ்வந்தி’யின் பெயரை கூறி பண மோசடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-tamilmirrorlk-845b0c75)
 - 2026-01-07 | `tamilmirrorlk-f6b0cd90` | ’’குஷ்’’ ஷூடன் ஒருவர் சிக்கினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-tamilmirrorlk-f6b0cd90)
-- 2026-01-07 | `tamilmirrorlk-ec17e1dc` | ’’குஷ்’’ போதைப்பொருளுடன் ஒருவர் சிக்கினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-tamilmirrorlk-ec17e1dc)
-- 2026-01-07 | `adalk-c7f93b9d` | විදේශ රැකියා වංචනිකයින්ට එරෙහි නඩුවලින් රුපියල් ලක්ෂ 3743 ක් යළි වින්දිතයින්ට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-adalk-c7f93b9d)
 
 ---
 
