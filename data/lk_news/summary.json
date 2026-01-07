@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-07 03:47:43",
-  "n_docs": 97233,
+  "time_updated": "2026-01-07 06:07:12",
+  "n_docs": 97276,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 97233,
+  "n_docs_with_text": 97276,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-07",
-  "dataset_size": 1469733437,
+  "dataset_size": 1470069427,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-07-dailyftlk-137828b6",
-    "num": "dailyftlk-137828b6",
+    "doc_id": "2026-01-07-dailyftlk-12830e0d",
+    "num": "dailyftlk-12830e0d",
     "date_str": "2026-01-07",
-    "description": "IPS releases study on sexual and gender-based violence faced by migrant female domestic workers",
-    "url_metadata": "https://www.ft.lk/opinion/IPS-releases-study-on-sexual-and-gender-based-violence-faced-by-migrant-female-domestic-workers/14-786595",
+    "description": "President reviews national anti-narcotics drive",
+    "url_metadata": "https://www.ft.lk/news/President-reviews-national-anti-narcotics-drive/56-786617",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767736969.0
+    "time_ut": 1767744711.0
   }
 }
