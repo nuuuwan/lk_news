@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--08_19:50:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--08_21:51:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,473** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,476** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-08-tamilmirrorlk-c252c8e5",
-    "num": "tamilmirrorlk-c252c8e5",
+    "doc_id": "2026-01-08-tamilmirrorlk-8d528924",
+    "num": "tamilmirrorlk-8d528924",
     "date_str": "2026-01-08",
-    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bc2\u0bae\u0bbf\u0baf\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bc2\u0bae\u0bbf\u0baf\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf/150-370783",
+    "description": "\u0ba8\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc7\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bc0\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc7\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba8\u0bc0\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-370785",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767880334.0
+    "time_ut": 1767886836.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-08 | `tamilmirrorlk-8d528924` | நீர்த்தேக்கங்களின் நீர்மட்டம் குறித்து விசேட அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-8d528924)
+- 2026-01-08 | `tamilmirrorlk-48b7561e` | ஹாலிஎலயில் மண்சரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-48b7561e)
 - 2026-01-08 | `tamilmirrorlk-c252c8e5` | இலங்கையில் பூமியதிர்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-c252c8e5)
 - 2026-01-08 | `virakesarilk-8b9d7deb` | நிதி, திட்டமிடல், பொருளாதார அபிவிருத்தி அலுவல்கள் பற்றிய அமைச்சுசார் ஆலோசனைக் குழு ஜனாதிபதி தலைமையில் கூடியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-8b9d7deb)
 - 2026-01-08 | `virakesarilk-47b4e9e5` | இலங்கை, இந்திய பக்தர்கள் 8 ஆயிரம் பேரின் பங்குபற்றலுடன் கச்சதீவு புனித அந்தோனியார் திருவிழா  -  முன்னாயத்த கூட்டத்தில் கலந்தாய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-47b4e9e5)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-01-08 | `virakesarilk-76cd0d5e` | இணையவழி மோசடிகளைக் கட்டுப்படுத்த விசேட நடவடிக்கை - பொலிஸ் ஊடகப் பேச்சாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-76cd0d5e)
 - 2026-01-08 | `virakesarilk-ce5ccd96` | அமெரிக்கத் தூதுவர் ஜுலீ சங்  - பாதுகாப்பு அமைச்சின் செயலாளர் இடையில் சந்திப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-ce5ccd96)
 - 2026-01-08 | `virakesarilk-670b4eb8` | இலங்கை விமானப்படைக்கு அமெரிக்காவிடமிருந்து 10 ஹெலிகொப்டர்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-670b4eb8)
-- 2026-01-08 | `virakesarilk-ee43cbd6` | கல்வி அமைச்சர் ஹரிணி அமரசூரியவுக்கு எதிரான நம்பிக்கையில்லாப் பிரேரணைக்கு முன்னுரிமை வழங்கப்படும் - பிமல் ரத்நாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-ee43cbd6)
-- 2026-01-08 | `virakesarilk-e814f7ef` | மேல் மாகாணத்தில் வெள்ளத்தால் பாதிக்கப்பட்ட பாடசாலைகளுக்கு சீன வங்கி மற்றும் சீன கலாச்சார மையம் நிவாரண உதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-e814f7ef)
 
 ---
 
