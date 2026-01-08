@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--08_21:51:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--08_23:51:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,476** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,480** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-08-tamilmirrorlk-8d528924",
-    "num": "tamilmirrorlk-8d528924",
+    "doc_id": "2026-01-08-tamilmirrorlk-a56587aa",
+    "num": "tamilmirrorlk-a56587aa",
     "date_str": "2026-01-08",
-    "description": "\u0ba8\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc7\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bc0\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc7\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba8\u0bc0\u0bb0\u0bcd\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-370785",
+    "description": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bcc\u0bcd\u0bb3\u0bae\u0bcd : \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1/\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0bb5\u0bcc\u0bcd\u0bb3\u0bae\u0bcd-\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/73-370799",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767886836.0
+    "time_ut": 1767891093.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-08 | `tamilmirrorlk-a56587aa` | மீண்டும் வௌ்ளம் : போக்குவரத்து பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-a56587aa)
+- 2026-01-08 | `adalk-c1f1fef2` | ඉන්දීය හිටපු පිතිකරණ පුහුණුකරු ලංකාවේ පිතිකරණ පුහුණුකරු ධුරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-adalk-c1f1fef2)
+- 2026-01-08 | `adalk-17db2aec` | මීටියාගොඩ ඉඩමකින් ගිනි අවියක්, උණ්ඩ හා මත්කුඩු සොයා ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-adalk-17db2aec)
 - 2026-01-08 | `tamilmirrorlk-8d528924` | நீர்த்தேக்கங்களின் நீர்மட்டம் குறித்து விசேட அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-8d528924)
 - 2026-01-08 | `tamilmirrorlk-48b7561e` | ஹாலிஎலயில் மண்சரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-48b7561e)
 - 2026-01-08 | `tamilmirrorlk-c252c8e5` | இலங்கையில் பூமியதிர்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-c252c8e5)
@@ -48,6 +51,7 @@ A collection of lk_news documents.
 - 2026-01-08 | `virakesarilk-47b4e9e5` | இலங்கை, இந்திய பக்தர்கள் 8 ஆயிரம் பேரின் பங்குபற்றலுடன் கச்சதீவு புனித அந்தோனியார் திருவிழா  -  முன்னாயத்த கூட்டத்தில் கலந்தாய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-47b4e9e5)
 - 2026-01-08 | `tamilmirrorlk-215b0a02` | பிரதமர் ஹரிணி வெளியிட்ட அதிரடி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-215b0a02)
 - 2026-01-08 | `virakesarilk-2b960bef` | நிர்க்கதிக்கு ஆளான வாடிக்கையாளர்கள் மற்றும் வணிகங்களுக்கு உதவுவதற்காக நிதியியல் உதவியை மக்கள் வங்கி வழங்குகின்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-2b960bef)
+- 2026-01-08 | `adalk-031c52fe` | 2026 වසරේ පාසල් නිල ඇඳුම් ජනවාරියේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-adalk-031c52fe)
 - 2026-01-08 | `tamilmirrorlk-3c0cc7b2` | இலங்கையை நோக்கி வரும் ஆழ்ந்த காற்றழுத்த தாழ்வு மண்டலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-3c0cc7b2)
 - 2026-01-08 | `virakesarilk-3e20d39c` | கடை, அலுவலக ஊழியர் சட்டத்தின் கீழ் ஒழுங்குவிதிக்கு அமைச்சுசார் ஆலோசனைக் குழுவின் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-3e20d39c)
 - 2026-01-08 | `virakesarilk-34c1500f` | இலங்கையைச் சுற்றும் ஆபத்து - யாழ். பல்கலையின் புவியியல் துறையின் சிரேஷ்ட விரிவுரையாளர் நாகமுத்து பிரதீபராஜா விடுக்கும் முக்கிய தகவல்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-34c1500f)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-01-08 | `adalk-d9d95680` | උතුරු නැගෙනහිර ඉඩම් නිදහස් කිරීම හා මාර්ග විවෘත කිරීමේ ගැටලු ජනපතිට කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-adalk-d9d95680)
 - 2026-01-08 | `adalk-c5dfbfbe` | විදුලි කාර්මිකයින්ට ජපානයේ රැකියා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-adalk-c5dfbfbe)
 - 2026-01-08 | `virakesarilk-59a64e7e` | ஜனாதிபதி ஆலோசகராக கலாநிதி மஹிந்த பராக்கிரம திசாநாயக்க நியமனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-59a64e7e)
-- 2026-01-08 | `virakesarilk-f56b5209` | "Clean Sri Lanka" வேலைத் திட்டம் தொடர்பாக ஊடகங்களில் பரப்பப்படும் தவறான தகவல்களை தெளிவுபடுத்தல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-f56b5209)
-- 2026-01-08 | `virakesarilk-76cd0d5e` | இணையவழி மோசடிகளைக் கட்டுப்படுத்த விசேட நடவடிக்கை - பொலிஸ் ஊடகப் பேச்சாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-76cd0d5e)
-- 2026-01-08 | `virakesarilk-ce5ccd96` | அமெரிக்கத் தூதுவர் ஜுலீ சங்  - பாதுகாப்பு அமைச்சின் செயலாளர் இடையில் சந்திப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-ce5ccd96)
-- 2026-01-08 | `virakesarilk-670b4eb8` | இலங்கை விமானப்படைக்கு அமெரிக்காவிடமிருந்து 10 ஹெலிகொப்டர்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-virakesarilk-670b4eb8)
 
 ---
 
