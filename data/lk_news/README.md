@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--08_06:10:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--08_08:25:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,366** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,378** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-08-dailyftlk-9985e22a",
-    "num": "dailyftlk-9985e22a",
+    "doc_id": "2026-01-08-dailyftlk-8bbc2547",
+    "num": "dailyftlk-8bbc2547",
     "date_str": "2026-01-08",
-    "description": "Sri Lankan-born Ray Jayawardhana appointed Caltech\u2019s 10th President",
-    "url_metadata": "https://www.ft.lk/business/Sri-Lankan-born-Ray-Jayawardhana-appointed-Caltech-s-10th-President/34-786662",
+    "description": "JKH Group contributes Rs. 400 m to \u2018Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/business/JKH-Group-contributes-Rs-400-m-to-Rebuilding-Sri-Lanka-Fund/34-786679",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767830333.0
+    "time_ut": 1767840530.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-08 | `dailyftlk-8bbc2547` | JKH Group contributes Rs. 400 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-8bbc2547)
+- 2026-01-08 | `dailyftlk-ca4ca1b6` | India’s Maha Bodhi Society donates Rs. 10 m for Ditwah relief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-ca4ca1b6)
+- 2026-01-08 | `dailyftlk-e67e700c` | Police officers donate day’s salary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-e67e700c)
+- 2026-01-08 | `dailyftlk-91e281a6` | British Sri Lankan Muslim Organisations donate  £ 25,000 to rebuilding and disaster recovery efforts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-91e281a6)
+- 2026-01-08 | `dailyftlk-d792297b` | Korea Exim Bank extends humanitarian aid to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-d792297b)
+- 2026-01-08 | `dailyftlk-86b13849` | OSC raises Rs. 1.1 m for Colombo Friend-in-Need Society | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-86b13849)
+- 2026-01-08 | `tamilmirrorlk-d805cc76` | ரஷ்ய எண்ணெய் கப்பலை பின்தொடரும் அமெரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-d805cc76)
+- 2026-01-08 | `tamilmirrorlk-ddc161a0` | ’கிரீன்லாந்தை அமெரிக்கா கைப்பற்றினால் நேட்டோ உடைந்து சிதறும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-ddc161a0)
+- 2026-01-08 | `tamilmirrorlk-46cb79fe` | அ.தி.மு.க. - பா.ம.க இணைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-46cb79fe)
+- 2026-01-08 | `tamilmirrorlk-e56c65a5` | இலங்கைக்கு கிழக்கே தாழமுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-e56c65a5)
 - 2026-01-08 | `dailyftlk-9985e22a` | Sri Lankan-born Ray Jayawardhana appointed Caltech’s 10th President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-9985e22a)
 - 2026-01-08 | `dailyftlk-5e9892f3` | Govt. flags drop in Korean job placement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-5e9892f3)
 - 2026-01-08 | `dailyftlk-f28b3075` | Cinnamon Air says reviewing Lake Gregory landing incident; no injuries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-f28b3075)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-01-08 | `dailyftlk-f46e6094` | Opposition targets Prime Minister with No-Confidence Motion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-f46e6094)
 - 2026-01-08 | `dailyftlk-e158fdc0` | Weerawansa fires JVP over proposed EPF changes, accuses Govt. of policy reversal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-e158fdc0)
 - 2026-01-08 | `dailyftlk-b651dcbf` | Ali Sabry: MPs’ pension repeal risks narrowing political space | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-b651dcbf)
-- 2026-01-08 | `dailyftlk-9b79f9d8` | US Ambassador Julie Chung to depart Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-9b79f9d8)
-- 2026-01-08 | `dailyftlk-c0ad690d` | Emergency extended by two months: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-dailyftlk-c0ad690d)
-- 2026-01-08 | `tamilmirrorlk-9462d7e7` | ‘ஜனநாயகன்’ வெளியீடு தள்ளிவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-08-tamilmirrorlk-9462d7e7)
-- 2026-01-07 | `islandlk-df6ae3c9` | Melsta Hospitals earns JCI “Gold Seal of Approval”, reinforcing global-standard care | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-islandlk-df6ae3c9)
-- 2026-01-07 | `islandlk-cdb8b5f5` | GRI’s ULTIMATE GREEN XT earns another major Sustainability Award at Automechanika Dubai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-islandlk-cdb8b5f5)
-- 2026-01-07 | `islandlk-65cf22c6` | DHL Express celebrates 45 years of leadership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-islandlk-65cf22c6)
-- 2026-01-07 | `islandlk-1571fe07` | Seylan Bank continues SME sector regional engagement forums in North Central Region | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-islandlk-1571fe07)
-- 2026-01-07 | `islandlk-5aec32e4` | From Colombo to London: Craft, climate, and creative economy converge in a global milestone for Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-islandlk-5aec32e4)
-- 2026-01-07 | `islandlk-2f7bb4e4` | Singer Sri Lanka unveils revamped Maharagama Service Centre, elevating customer experience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-islandlk-2f7bb4e4)
-- 2026-01-07 | `islandlk-2ac97896` | Cinnamon Hotels & Resorts’ acceleration of gender inclusion and the ripple effect of female leadership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-07-islandlk-2ac97896)
 
 ---
 

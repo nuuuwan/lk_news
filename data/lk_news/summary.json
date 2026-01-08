@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-08 06:09:24",
-  "n_docs": 97366,
+  "time_updated": "2026-01-08 08:24:37",
+  "n_docs": 97378,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 97366,
+  "n_docs_with_text": 97378,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-08",
-  "dataset_size": 1472197257,
+  "dataset_size": 1472559498,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-08-dailyftlk-9985e22a",
-    "num": "dailyftlk-9985e22a",
+    "doc_id": "2026-01-08-dailyftlk-8bbc2547",
+    "num": "dailyftlk-8bbc2547",
     "date_str": "2026-01-08",
-    "description": "Sri Lankan-born Ray Jayawardhana appointed Caltech\u2019s 10th President",
-    "url_metadata": "https://www.ft.lk/business/Sri-Lankan-born-Ray-Jayawardhana-appointed-Caltech-s-10th-President/34-786662",
+    "description": "JKH Group contributes Rs. 400 m to \u2018Rebuilding Sri Lanka\u2019 Fund",
+    "url_metadata": "https://www.ft.lk/business/JKH-Group-contributes-Rs-400-m-to-Rebuilding-Sri-Lanka-Fund/34-786679",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1767830333.0
+    "time_ut": 1767840530.0
   }
 }
