@@ -1,5 +1,12 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2026-01-08-adalk-aa80772a	adalk-aa80772a	2026-01-08	දිත්වා නිසා බලපෑමට ලක්වූ ව්‍යාපාරිකයන්ට දෙන සහන පැකේජය	https://www.ada.lk/breaking_news/දිත්වා-නිසා-බලපෑමට-ලක්වූ-ව්‍යාපාරිකයන්ට-දෙන-සහන-පැකේජය/11-420692	si	adalk	1767874504.0
+lk_news	2026-01-08-adalk-c5dfbfbe	adalk-c5dfbfbe	2026-01-08	විදුලි කාර්මිකයින්ට ජපානයේ රැකියා	https://www.ada.lk/breaking_news/විදුලි-කාර්මිකයින්ට-ජපානයේ-රැකියා/11-420690	si	adalk	1767873800.0
+lk_news	2026-01-08-adalk-57f7c1fc	adalk-57f7c1fc	2026-01-08	ග්‍රෙගරි වැවේ අනතුරට පත් සෙස්නා ගුවන් යානය ගොඩගැනිමේ උත්සහය ව්‍යර්ථ වෙයි	https://www.ada.lk/picture_story/ග්‍රෙගරි-වැවේ-අනතුරට-පත්-සෙස්නා-ගුවන්-යානය-ගොඩගැනිමේ-උත්සහය-ව්‍යර්ථ-වෙයි/10-420689	si	adalk	1767869856.0
+lk_news	2026-01-08-adalk-57a46dc8	adalk-57a46dc8	2026-01-08	පේරු රාජ්‍යයේ භූ කම්පනයක්	https://www.ada.lk/breaking_news/පේරු-රාජ්‍යයේ-භූ-කම්පනයක්/11-420688	si	adalk	1767869572.0
+lk_news	2026-01-08-tamilmirrorlk-f73cb6c5	tamilmirrorlk-f73cb6c5	2026-01-08	ஆடைத் தொழிற்சாலையில் திடீர் தீ பரவல்	https://www.tamilmirror.lk/செய்திகள்/ஆடைத்-தொழிற்சாலையில்-திடீர்-தீ-பரவல்/175-370779	ta	tamilmirrorlk	1767868223.0
+lk_news	2026-01-08-adalk-8b3204c0	adalk-8b3204c0	2026-01-08	කසළ බදු නොගෙව්වොත් කුණු ගන්නේ නෑ	https://www.ada.lk/breaking_news/කසළ බදු-නොගෙව්වොත්-කුණු-ගන්නේ-නෑ/11-420687	si	adalk	1767868125.0
 lk_news	2026-01-08-adalk-25538b0c	adalk-25538b0c	2026-01-08	කාන්තා සේවිකාවන්ගේ සේවයේ යෙදවිමේ කාලය ගැන නව සංශෝධනයක්	https://www.ada.lk/breaking_news/කාන්තා-සේවිකාවන්ගේ-සේවයේ-යෙදවිමේ-කාලය-ගැන-නව-සංශෝධනයක්/11-420686	si	adalk	1767867163.0
+lk_news	2026-01-08-adalk-904acfbc	adalk-904acfbc	2026-01-08	බෙන්තොට අනවසර ඉදිකිරීම් ඉවත් කිරීමේදි උණුසුම් තත්ත්වයක්	https://www.ada.lk/breaking_news/බෙන්තොට-අනවසර-ඉදිකිරීම්-ඉවත්-කිරීමේදි-උණුසුම්-තත්ත්වයක්/11-420685	si	adalk	1767866665.0
 lk_news	2026-01-08-virakesarilk-e068227f	virakesarilk-e068227f	2026-01-08	ஜப்பானுக்கான தொழில்நுட்பப் பொருட்கள் ஏற்றுமதிக்கு தடை - சீனா	https://www.virakesari.lk/article/235521	ta	virakesarilk	1767866460.0
 lk_news	2026-01-08-virakesarilk-4b7a67ab	virakesarilk-4b7a67ab	2026-01-08	கொழும்பு ஜெம்பட்டா வீதி செப்பனிடப்பட்டு பொதுமக்கள் பாவனைக்காக கையளிக்கப்பட்டது	https://www.virakesari.lk/article/235514	ta	virakesarilk	1767865560.0
 lk_news	2026-01-08-virakesarilk-83502cf0	virakesarilk-83502cf0	2026-01-08	நிலாவரை ஆழமறியாத கிணற்றுப் பகுதியில் துப்புரவுப் பணிகள்!	https://www.virakesari.lk/article/235511	ta	virakesarilk	1767865380.0
@@ -992,10 +999,3 @@ lk_news	2026-01-01-tamilmirrorlk-04e1cdf7	tamilmirrorlk-04e1cdf7	2026-01-01	ஆ�
 lk_news	2026-01-01-lankadeepalk-74302f67	lankadeepalk-74302f67	2026-01-01	දින නවයක් වයසැති දරුවා ළිඳට වැටිලා	https://www.lankadeepa.lk/latest_news/දන-නවයක-වයසත-දරව-ළඳට-වටල/1-686120	si	lankadeepalk	1767261550.0
 lk_news	2026-01-01-lankadeepalk-35245395	lankadeepalk-35245395	2026-01-01	මහින්ද කතරගම පිංකමට එක් වී	https://www.lankadeepa.lk/latest_news/මහනද-කතරගම-පකමට-එක-ව/1-686119	si	lankadeepalk	1767261187.0
 lk_news	2026-01-01-lankadeepalk-9c8d8cae	lankadeepalk-9c8d8cae	2026-01-01	ජනපති දළදා සමිඳුන්ගේ ආශිර්වාදය ලබා ගනී	https://www.lankadeepa.lk/news/ජනපත-දළද-සමඳනග-ආශරවදය-ලබ-ගන/101-686117	si	lankadeepalk	1767260631.0
-lk_news	2026-01-01-lankadeepalk-5f0b1b18	lankadeepalk-5f0b1b18	2026-01-01	ඩෙන්මාර්ක තැපෑලට තිත	https://www.lankadeepa.lk/latest_news/ඩනමරක-තපලට-තත/1-686116	si	lankadeepalk	1767260283.0
-lk_news	2026-01-01-tamilmirrorlk-6af59a90	tamilmirrorlk-6af59a90	2026-01-01	சொஹரா புஹாரிக்கு ஒருவாரம் காலக்கெடு	https://www.tamilmirror.lk/பிரசித்த-செய்தி/சொஹரா-புஹாரிக்கு-ஒருவாரம்-காலக்கெடு/150-370395	ta	tamilmirrorlk	1767260259.0
-lk_news	2026-01-01-virakesarilk-6bff419a	virakesarilk-6bff419a	2026-01-01	சகல தரப்புகளையும் அரவணைக்கும் ஆட்சிமுறையின் ஊடாக நாட்டைக்  மீளக்கட்டியெழுப்புதல்	https://www.virakesari.lk/article/234941	ta	virakesarilk	1767260040.0
-lk_news	2026-01-01-lankadeepalk-9b072a54	lankadeepalk-9b072a54	2026-01-01	නව වසර අපේක්ෂා අභියෝග	https://www.lankadeepa.lk/features/නව-වසර-අපකෂ-අභයග/2-686115	si	lankadeepalk	1767259778.0
-lk_news	2026-01-01-adalk-06e98b92	adalk-06e98b92	2026-01-01	ග්‍රාමීය මාර්ග 76ක් සංවර්ධනය කරයි, බස් ධාවනය නොවූ මාර්ග 40කට අලුතෙන් බස්	https://www.ada.lk/breaking_news/ග්‍රාමීය-මාර්ග-76ක්-සංවර්ධනය-කරයි--බස්-ධාවනය-නොවූ-මාර්ග-40කට-අලුතෙන්-බස්/11-420573	si	adalk	1767259479.0
-lk_news	2026-01-01-virakesarilk-d7b1d3e1	virakesarilk-d7b1d3e1	2026-01-01	கிராமிய பகுதிகளில் 40 புதிய பஸ் வழித்தடங்கள் இன்று முதல் ஆரம்பம்	https://www.virakesari.lk/article/234937	ta	virakesarilk	1767258600.0
-lk_news	2026-01-01-virakesarilk-5ad6b9f6	virakesarilk-5ad6b9f6	2026-01-01	நாடளாவிய ரீதியில் பொலிஸார் மேற்கொண்ட விசேட சுற்றிவளைப்பு: 460 பேர் கைது!	https://www.virakesari.lk/article/234932	ta	virakesarilk	1767258540.0
