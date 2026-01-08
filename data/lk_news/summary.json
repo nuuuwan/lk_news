@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-08 03:47:57",
-  "n_docs": 97343,
+  "time_updated": "2026-01-08 06:09:24",
+  "n_docs": 97366,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 97343,
+  "n_docs_with_text": 97366,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-08",
-  "dataset_size": 1472054324,
+  "dataset_size": 1472197257,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-08-tamilmirrorlk-9462d7e7",
-    "num": "tamilmirrorlk-9462d7e7",
+    "doc_id": "2026-01-08-dailyftlk-9985e22a",
+    "num": "dailyftlk-9985e22a",
     "date_str": "2026-01-08",
-    "description": "\u2018\u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba9\u0bcd\u2019 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1 \u0ba4\u0bb3\u0bcd\u0bb3\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba9\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1-\u0ba4\u0bb3\u0bcd\u0bb3\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-370757",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1767819029.0
+    "description": "Sri Lankan-born Ray Jayawardhana appointed Caltech\u2019s 10th President",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lankan-born-Ray-Jayawardhana-appointed-Caltech-s-10th-President/34-786662",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767830333.0
   }
 }

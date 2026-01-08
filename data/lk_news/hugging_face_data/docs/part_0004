@@ -6041,6 +6041,17 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-04-islandlk-48d38228",
+    "num": "islandlk-48d38228",
+    "date_str": "2026-01-04",
+    "description": "Trump\u2019s blitzkrieg",
+    "url_metadata": "http://island.lk/trumps-blitzkrieg/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767543900.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-04-islandlk-2108c373",
     "num": "islandlk-2108c373",
     "date_str": "2026-01-04",
@@ -7911,6 +7922,17 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-05-islandlk-0218bbab",
+    "num": "islandlk-0218bbab",
+    "date_str": "2026-01-05",
+    "description": "Educational reforms under the NPP government",
+    "url_metadata": "http://island.lk/educational-reforms-under-the-npp-government/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767633720.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-05-islandlk-5b364f3b",
     "num": "islandlk-5b364f3b",
     "date_str": "2026-01-05",
@@ -7919,6 +7941,17 @@ me_ut": 1767229320.0
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1767633780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-05-islandlk-823a1c30",
+    "num": "islandlk-823a1c30",
+    "date_str": "2026-01-05",
+    "description": "Build trust through inclusion and consultation in the New Year",
+    "url_metadata": "http://island.lk/build-trust-through-inclusion-and-consultation-in-the-new-year/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767633900.0
   },
   {
     "doc_type": "lk_news",
@@ -9704,6 +9737,17 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-06-islandlk-7b16eb38",
+    "num": "islandlk-7b16eb38",
+    "date_str": "2026-01-06",
+    "description": "Research and Development in Crisis: Structural Failures and Economic Consequences in Sri Lanka \u2013 Part I",
+    "url_metadata": "http://island.lk/research-and-development-in-crisis-structural-failures-and-economic-consequences-in-sri-lanka-part-i/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767721260.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-07-dailyftlk-a1d4dfab",
     "num": "dailyftlk-a1d4dfab",
     "date_str": "2026-01-07",
@@ -10815,6 +10859,83 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-07-islandlk-2ac97896",
+    "num": "islandlk-2ac97896",
+    "date_str": "2026-01-07",
+    "description": "Cinnamon Hotels & Resorts\u2019 acceleration of gender inclusion and the ripple effect of female leadership",
+    "url_metadata": "http://island.lk/cinnamon-hotels-resorts-acceleration-of-gender-inclusion-and-the-ripple-effect-of-female-leadership/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767808980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-islandlk-2f7bb4e4",
+    "num": "islandlk-2f7bb4e4",
+    "date_str": "2026-01-07",
+    "description": "Singer Sri Lanka unveils revamped Maharagama Service Centre, elevating customer experience",
+    "url_metadata": "http://island.lk/singer-sri-lanka-unveils-revamped-maharagama-service-centre-elevating-customer-experience/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767808980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-islandlk-5aec32e4",
+    "num": "islandlk-5aec32e4",
+    "date_str": "2026-01-07",
+    "description": "From Colombo to London: Craft, climate, and creative economy converge in a global milestone for Sri Lanka",
+    "url_metadata": "http://island.lk/from-colombo-to-london-craft-climate-and-creative-economy-converge-in-a-global-milestone-for-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767809100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-islandlk-1571fe07",
+    "num": "islandlk-1571fe07",
+    "date_str": "2026-01-07",
+    "description": "Seylan Bank continues SME sector regional engagement forums in North Central Region",
+    "url_metadata": "http://island.lk/seylan-bank-continues-sme-sector-regional-engagement-forums-in-north-central-region/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767809160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-islandlk-65cf22c6",
+    "num": "islandlk-65cf22c6",
+    "date_str": "2026-01-07",
+    "description": "DHL Express celebrates 45 years of leadership",
+    "url_metadata": "http://island.lk/dhl-express-celebrates-45-years-of-leadership/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767809160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-islandlk-cdb8b5f5",
+    "num": "islandlk-cdb8b5f5",
+    "date_str": "2026-01-07",
+    "description": "GRI\u2019s ULTIMATE GREEN XT earns another major Sustainability Award at Automechanika Dubai",
+    "url_metadata": "http://island.lk/gris-ultimate-green-xt-earns-another-major-sustainability-award-at-automechanika-dubai/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767809220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-07-islandlk-df6ae3c9",
+    "num": "islandlk-df6ae3c9",
+    "date_str": "2026-01-07",
+    "description": "Melsta Hospitals earns JCI \u201cGold Seal of Approval\u201d, reinforcing global-standard care",
+    "url_metadata": "http://island.lk/melsta-hospitals-earns-jci-gold-seal-of-approval-reinforcing-global-standard-care/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1767809280.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-08-tamilmirrorlk-9462d7e7",
     "num": "tamilmirrorlk-9462d7e7",
     "date_str": "2026-01-08",
@@ -10823,5 +10944,137 @@ me_ut": 1767229320.0
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1767819029.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-08-dailyftlk-c0ad690d",
+    "num": "dailyftlk-c0ad690d",
+    "date_str": "2026-01-08",
+    "description": "Emergency extended by two months: Minister",
+    "url_metadata": "https://www.ft.lk/news/Emergency-extended-by-two-months-Minister/56-786649",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767827602.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-08-dailyftlk-9b79f9d8",
+    "num": "dailyftlk-9b79f9d8",
+    "date_str": "2026-01-08",
+    "description": "US Ambassador Julie Chung to depart Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/US-Ambassador-Julie-Chung-to-depart-Sri-Lanka/56-786650",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767827698.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-08-dailyftlk-b651dcbf",
+    "num": "dailyftlk-b651dcbf",
+    "date_str": "2026-01-08",
+    "description": "Ali Sabry: MPs\u2019 pension repeal risks narrowing political space",
+    "url_metadata": "https://www.ft.lk/news/Ali-Sabry-MPs-pension-repeal-risks-narrowing-political-space/56-786651",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767827766.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-08-dailyftlk-e158fdc0",
+    "num": "dailyftlk-e158fdc0",
+    "date_str": "2026-01-08",
+    "description": "Weerawansa fires JVP over proposed EPF changes, accuses Govt. of policy reversal",
+    "url_metadata": "https://www.ft.lk/news/Weerawansa-fires-JVP-over-proposed-EPF-changes-accuses-Govt-of-policy-reversal/56-786652",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767827828.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-08-dailyftlk-f46e6094",
+    "num": "dailyftlk-f46e6094",
+    "date_str": "2026-01-08",
+    "description": "Opposition targets Prime Minister with No-Confidence Motion",
+    "url_metadata": "https://www.ft.lk/news/Opposition-targets-Prime-Minister-with-No-Confidence-Motion/56-786653",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767827899.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-08-dailyftlk-a2765cde",
+    "num": "dailyftlk-a2765cde",
+    "date_str": "2026-01-08",
+    "description": "Foreign assistance and global trust: Rebuilding Sri Lanka with resilience and credibility",
+    "url_metadata": "https://www.ft.lk/columns/Foreign-assistance-and-global-trust-Rebuilding-Sri-Lanka-with-resilience-and-credibility/4-786656",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767828534.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-08-dailyftlk-7c123dd0",
+    "num": "dailyftlk-7c123dd0",
+    "date_str": "2026-01-08",
+    "description": "Sri Lanka 2.0: From fragility to strategic strength",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-2-0-From-fragility-to-strategic-strength/4-786657",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767829218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-08-dailyftlk-bd1e7f9d",
+    "num": "dailyftlk-bd1e7f9d",
+    "date_str": "2026-01-08",
+    "description": "Fresh policy approach to Lasantha Wickrematunge case in an age of apathy and indifference",
+    "url_metadata": "https://www.ft.lk/columns/Fresh-policy-approach-to-Lasantha-Wickrematunge-case-in-an-age-of-apathy-and-indifference/4-786658",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767829540.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-08-dailyftlk-b6d501f1",
+    "num": "dailyftlk-b6d501f1",
+    "date_str": "2026-01-08",
+    "description": "US attacks Venezuela, proclaims imperial overlordship; SJB-UNP rapprochement; Devananda\u2019s destiny",
+    "url_metadata": "https://www.ft.lk/columns/US-attacks-Venezuela-proclaims-imperial-overlordship-SJB-UNP-rapprochement-Devananda-s-destiny/4-786659",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767830039.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-08-dailyftlk-f28b3075",
+    "num": "dailyftlk-f28b3075",
+    "date_str": "2026-01-08",
+    "description": "Cinnamon Air says reviewing Lake Gregory landing incident; no injuries",
+    "url_metadata": "https://www.ft.lk/business/Cinnamon-Air-says-reviewing-Lake-Gregory-landing-incident-no-injuries/34-786660",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767830144.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-08-dailyftlk-5e9892f3",
+    "num": "dailyftlk-5e9892f3",
+    "date_str": "2026-01-08",
+    "description": "Govt. flags drop in Korean job placement",
+    "url_metadata": "https://www.ft.lk/business/Govt-flags-drop-in-Korean-job-placement/34-786661",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767830249.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-08-dailyftlk-9985e22a",
+    "num": "dailyftlk-9985e22a",
+    "date_str": "2026-01-08",
+    "description": "Sri Lankan-born Ray Jayawardhana appointed Caltech\u2019s 10th President",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lankan-born-Ray-Jayawardhana-appointed-Caltech-s-10th-President/34-786662",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767830333.0
   }
 ]
