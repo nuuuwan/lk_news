@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-08 08:24:37",
-  "n_docs": 97378,
+  "time_updated": "2026-01-08 10:04:43",
+  "n_docs": 97408,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 97378,
+  "n_docs_with_text": 97408,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-08",
-  "dataset_size": 1472559498,
+  "dataset_size": 1472856520,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-08-dailyftlk-8bbc2547",
-    "num": "dailyftlk-8bbc2547",
+    "doc_id": "2026-01-08-tamilmirrorlk-b46e4466",
+    "num": "tamilmirrorlk-b46e4466",
     "date_str": "2026-01-08",
-    "description": "JKH Group contributes Rs. 400 m to \u2018Rebuilding Sri Lanka\u2019 Fund",
-    "url_metadata": "https://www.ft.lk/business/JKH-Group-contributes-Rs-400-m-to-Rebuilding-Sri-Lanka-Fund/34-786679",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1767840530.0
+    "description": "\u0bb5\u0bbf\u0bb7 \u0bae\u0ba4\u0bc1\u0baa\u0bbe\u0ba9 \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb2\u0bae\u0bcd : \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0b9a\u0bc2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bbe\u0bb0\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bb7-\u0bae\u0ba4\u0bc1\u0baa\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb2\u0bae\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bbe\u0bb0\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-370764",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767846020.0
   }
 }
