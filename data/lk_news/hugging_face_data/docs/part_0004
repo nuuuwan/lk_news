@@ -13438,5 +13438,115 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1767976071.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-fda3f45b",
+    "num": "dailyftlk-fda3f45b",
+    "date_str": "2026-01-09",
+    "description": "Emerging multipolar world could be India\u2019s moment",
+    "url_metadata": "https://www.ft.lk/opinion/Emerging-multipolar-world-could-be-India-s-moment/14-786743",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767981623.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-4788ae6d",
+    "num": "dailyftlk-4788ae6d",
+    "date_str": "2026-01-09",
+    "description": "Selective sovereignty at sea: What the US seizure of Russian oil tanker tells about global order",
+    "url_metadata": "https://www.ft.lk/columns/Selective-sovereignty-at-sea-What-the-US-seizure-of-Russian-oil-tanker-tells-about-global-order/4-786744",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767981790.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-bf1967fb",
+    "num": "dailyftlk-bf1967fb",
+    "date_str": "2026-01-09",
+    "description": "Installing road speed cameras will be a win\u2013win solution",
+    "url_metadata": "https://www.ft.lk/columns/Installing-road-speed-cameras-will-be-a-winwin-solution/4-786745",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767981894.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-98aaeae5",
+    "num": "dailyftlk-98aaeae5",
+    "date_str": "2026-01-09",
+    "description": "Beyond blame: Rebuilding Sri Lanka after disaster",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-blame-Rebuilding-Sri-Lanka-after-disaster/4-786746",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767982035.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-27be7037",
+    "num": "dailyftlk-27be7037",
+    "date_str": "2026-01-09",
+    "description": "Geopolitical sentiments and implications for Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Geopolitical-sentiments-and-implications-for-Sri-Lanka/4-786748",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767982182.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-4617c537",
+    "num": "dailyftlk-4617c537",
+    "date_str": "2026-01-09",
+    "description": "Julie Chung made diplomacy meaningful",
+    "url_metadata": "https://www.ft.lk/columns/Julie-Chung-made-diplomacy-meaningful/4-786749",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767982303.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-6811cddf",
+    "num": "dailyftlk-6811cddf",
+    "date_str": "2026-01-09",
+    "description": "Sri Lanka Insurance Corporation General partners \u2018Kedella Art of Living 2025\u2019 as Official Insurance Partner",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Insurance-Corporation-General-partners-Kedella-Art-of-Living-2025-as-Official-Insurance-Partner/34-786753",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767982653.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-b7ba439d",
+    "num": "dailyftlk-b7ba439d",
+    "date_str": "2026-01-09",
+    "description": "Sri Lanka reaffirms tourism readiness, recovery at networking evening in Guangzhou",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-reaffirms-tourism-readiness-recovery-at-networking-evening-in-Guangzhou/34-786754",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767982717.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-e5b48929",
+    "num": "dailyftlk-e5b48929",
+    "date_str": "2026-01-09",
+    "description": "\u2018Echoes of Palestine\u2019 to be held in Colombo on 13 Jan.",
+    "url_metadata": "https://www.ft.lk/news/Echoes-of-Palestine-to-be-held-in-Colombo-on-13-Jan/56-786756",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767982820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-861ca484",
+    "num": "dailyftlk-861ca484",
+    "date_str": "2026-01-09",
+    "description": "President launches \u2018Project 5M\u2019 housing drive",
+    "url_metadata": "https://www.ft.lk/news/President-launches-Project-5M-housing-drive/56-786757",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767982860.0
   }
 ]
