@@ -1,4 +1,30 @@
-: "2025-07-28-islandlk-6004e27b",
+1753722720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-07-28-islandlk-b37cf956",
+    "num": "islandlk-b37cf956",
+    "date_str": "2025-07-28",
+    "description": "Law, religion and politics",
+    "url_metadata": "http://island.lk/law-religion-and-politics/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1753722720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-07-28-islandlk-1eac0789",
+    "num": "islandlk-1eac0789",
+    "date_str": "2025-07-28",
+    "description": "Teaching religion: Critical thinking or convention?",
+    "url_metadata": "http://island.lk/teaching-religion-critical-thinking-or-convention/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1753722840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2025-07-28-islandlk-6004e27b",
     "num": "islandlk-6004e27b",
     "date_str": "2025-07-28",
     "description": "Engagement is essential for national progress",
@@ -328237,23 +328263,4 @@
     "time_ut": 1767224100.0
   },
   {
-    "doc_type": "lk_news",
-    "doc_id": "2026-01-01-colombotelegraphcom-ba2cb0a7",
-    "num": "colombotelegraphcom-ba2cb0a7",
-    "date_str": "2026-01-01",
-    "description": "Jeddah: A Special Case In Diplomatic Appointments",
-    "url_metadata": "https://www.colombotelegraph.com/index.php/jeddah-a-special-case-in-diplomatic-appointments/",
-    "lang": "en",
-    "newspaper_id": "colombotelegraphcom",
-    "time_ut": 1767228566.0
-  },
-  {
-    "doc_type": "lk_news",
-    "doc_id": "2026-01-01-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
-    "date_str": "2026-01-01",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/234900",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "ti
+    "doc_type": "lk_n

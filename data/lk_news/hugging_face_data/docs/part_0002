@@ -330501,6 +330501,17 @@ rain",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2025-07-13-bbccomsinhala-59079f30",
+    "num": "bbccomsinhala-59079f30",
+    "date_str": "2025-07-13",
+    "description": "\u0d87\u0d9f\u0dbd\u0dd4\u0db8\u0dca\u0dc0\u0dbd\u0da7 \u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0daf\u0dd4\u0db1\u0dca \u0dad\u0dd3\u0dbb\u0dd4 \u0db6\u0daf\u0dd4 \u0db1\u0dd2\u0daf\u0dc4\u0dc3 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a\u0dba\u0dd2 - \u0d89\u0db1\u0dca \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0dbd\u0dd0\u0db6\u0dd9\u0db1 \u0dc0\u0dcf\u0dc3\u0dd2 \u0db8\u0ddc\u0db1\u0dc0\u0dcf \u0daf?",
+    "url_metadata": "https://www.bbc.com/sinhala/articles/clym8006pemo",
+    "lang": "si",
+    "newspaper_id": "bbccomsinhala",
+    "time_ut": 1752357855.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2025-07-13-economynextcom-0d6ff352",
     "num": "economynextcom-0d6ff352",
     "date_str": "2025-07-13",
@@ -357260,30 +357271,4 @@ rain",
     "url_metadata": "http://sinhala.adaderana.lk/news/212752",
     "lang": "si",
     "newspaper_id": "adaderanasinhalalk",
-    "time_ut": 1753722720.0
-  },
-  {
-    "doc_type": "lk_news",
-    "doc_id": "2025-07-28-islandlk-b37cf956",
-    "num": "islandlk-b37cf956",
-    "date_str": "2025-07-28",
-    "description": "Law, religion and politics",
-    "url_metadata": "http://island.lk/law-religion-and-politics/",
-    "lang": "en",
-    "newspaper_id": "islandlk",
-    "time_ut": 1753722720.0
-  },
-  {
-    "doc_type": "lk_news",
-    "doc_id": "2025-07-28-islandlk-1eac0789",
-    "num": "islandlk-1eac0789",
-    "date_str": "2025-07-28",
-    "description": "Teaching religion: Critical thinking or convention?",
-    "url_metadata": "http://island.lk/teaching-religion-critical-thinking-or-convention/",
-    "lang": "en",
-    "newspaper_id": "islandlk",
-    "time_ut": 1753722840.0
-  },
-  {
-    "doc_type": "lk_news",
-    "doc_id"
+    "time_ut": 
