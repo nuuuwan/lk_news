@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--09_10:04:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--09_11:51:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,535** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,536** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A collection of lk_news documents.
 - 2026-01-09 | `tamilmirrorlk-2743e31e` | கைப்பை தொழிற்சாலையில் தீ; ஒருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-tamilmirrorlk-2743e31e)
 - 2026-01-09 | `adalk-711a4e9e` | සම්භාහනය මුවාවෙන් වෙන වැඩක් කරලා - සැකකාරියන් 5ක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-adalk-711a4e9e)
 - 2026-01-09 | `tamilmirrorlk-c7a90939` | பதுளை மாவட்ட பாடசாலைகள் 11 மணிக்கு மூடப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-tamilmirrorlk-c7a90939)
+- 2026-01-09 | `adalk-63adba3f` | වෙන්නප්පුවේ කසිප්පු විෂවීමට සම්බන්ධ ප්‍රධාන සැකකරුට රැඳවුම් නියෝග | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-adalk-63adba3f)
 - 2026-01-09 | `adalk-959ab301` | ගැඹුරු පීඩන අවපාතය අද සවස්වන විට පොතුවිල් හා ත්‍රිකුණාමලය වෙරළ තිරයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-adalk-959ab301)
 - 2026-01-09 | `tamilmirrorlk-ae2c60f0` | சமூக ஊடக செய்தி: பொலிஸ் விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-tamilmirrorlk-ae2c60f0)
 - 2026-01-09 | `tamilmirrorlk-7918ad4d` | கிழக்கு கடற்கரைக்கு அருகில் சூறாவளி நிலைகொண்டுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-tamilmirrorlk-7918ad4d)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-09 | `dailyftlk-2e414a34` | Cinnamon Hotels and Resorts CEO Hishan Singhawansa appointed  to JKH Group hotel Boards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-dailyftlk-2e414a34)
 - 2026-01-09 | `dailyftlk-290cf4d7` | Hayleys Agriculture partners Evonik to enhance poultry nutritional standards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-dailyftlk-290cf4d7)
 - 2026-01-09 | `dailyftlk-2f9aafcd` | Talal Rafi delivers keynote on “Global Debt Outlook” at conference in Slovakia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-dailyftlk-2f9aafcd)
-- 2026-01-09 | `dailyftlk-0bd32277` | CH17 launches Sri Lanka’s first integrated HRM, rewards and loyalty SaaS platform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-dailyftlk-0bd32277)
 
 ---
 
