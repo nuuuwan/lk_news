@@ -12553,6 +12553,17 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-08-adalk-6f973203",
+    "num": "adalk-6f973203",
+    "date_str": "2026-01-08",
+    "description": "\u0d9a\u0dd4\u0dc0\u0dda\u0da7\u0dca \u0dba\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0db1\u0dca\u0d9a\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba \u0db4\u0dd0\u0dba \u0daf\u0dd9\u0d9a\u0d9a\u0da7 \u0db4\u0dc3\u0dd4 \u0d86\u0db4\u0dc3\u0dd4 \u0d91\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd4\u0dc0\u0dda\u0da7\u0dca-\u0dba\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0db1\u0dca\u0d9a\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dba-\u0db4\u0dd0\u0dba-\u0daf\u0dd9\u0d9a\u0d9a\u0da7-\u0db4\u0dc3\u0dd4-\u0d86\u0db4\u0dc3\u0dd4-\u0d91\u0dba\u0dd2/11-420698",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1767891058.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-08-tamilmirrorlk-a56587aa",
     "num": "tamilmirrorlk-a56587aa",
     "date_str": "2026-01-08",
@@ -12608,6 +12619,17 @@ me_ut": 1767229320.0
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-09-bbccomsinhala-70ceb278",
+    "num": "bbccomsinhala-70ceb278",
+    "date_str": "2026-01-09",
+    "description": "\u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab: \u0d89\u0d82\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0dc3\u0dd2 \u0db8\u0ddc\u0da9\u0dd2\u0dba\u0dd4\u0dbd\u0dba\u0dda \u0d9c\u0dd0\u0da7\u0dbd\u0dd4 \u0dc3\u0db8\u0d9c 6 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0dba\u0dda \u0d89\u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0dca \u0d86\u0dbb\u0db8\u0dca\u0db7 \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda \u0d9a\u0dd9\u0dc3\u0dda \u0daf?",
+    "url_metadata": "https://www.bbc.com/sinhala/articles/c301md810l8o",
+    "lang": "si",
+    "newspaper_id": "bbccomsinhala",
+    "time_ut": 1767906677.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-09-tamilmirrorlk-75ac48b0",
     "num": "tamilmirrorlk-75ac48b0",
     "date_str": "2026-01-09",
@@ -12638,6 +12660,17 @@ me_ut": 1767229320.0
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1767908460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-tamilmirrorlk-6d1e901a",
+    "num": "tamilmirrorlk-6d1e901a",
+    "date_str": "2026-01-09",
+    "description": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1 \u0b9a\u0bbe\u0bb0\u0bcd \u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1 \u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bc1-\u0b9a\u0bbe\u0bb0\u0bcd-\u0b86\u0bb2\u0bcb\u0b9a\u0ba9\u0bc8\u0b95\u0bcd-\u0b95\u0bc1\u0bb4\u0bc1-\u0b95\u0bc2\u0b9f\u0bbf\u0baf\u0ba4\u0bc1/175-370802",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767908836.0
   },
   {
     "doc_type": "lk_news",
@@ -12715,5 +12748,148 @@ me_ut": 1767229320.0
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1767918748.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-89c65af2",
+    "num": "dailyftlk-89c65af2",
+    "date_str": "2026-01-09",
+    "description": "Sri Lankan exports to Saudi Arabia record 19% increase in 2025",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lankan-exports-to-Saudi-Arabia-record-19-increase-in-2025/34-786706",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767918806.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-282e047b",
+    "num": "dailyftlk-282e047b",
+    "date_str": "2026-01-09",
+    "description": "Deep depression forecast to cross Sri Lanka; landslide warnings issued",
+    "url_metadata": "https://www.ft.lk/news/Deep-depression-forecast-to-cross-Sri-Lanka-landslide-warnings-issued/56-786707",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767918857.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-15e4a7ec",
+    "num": "dailyftlk-15e4a7ec",
+    "date_str": "2026-01-09",
+    "description": "Ministry clarifies Labour Deputy Minister\u2019s remarks on EPF pension proposal",
+    "url_metadata": "https://www.ft.lk/news/Ministry-clarifies-Labour-Deputy-Minister-s-remarks-on-EPF-pension-proposal/56-786708",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767918930.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-c23b8a00",
+    "num": "dailyftlk-c23b8a00",
+    "date_str": "2026-01-09",
+    "description": "Family members, friends, former colleagues and well-wishers gather at the graveside of The Sunday Leader Founder and Editor-in-Chief Lasantha Wickrematunge yesterday to mark the 17th anniversary",
+    "url_metadata": "https://www.ft.lk/news/Family-members-friends-former-colleagues-and-well-wishers-gather-at-the-graveside-of-The-Sunday-Leader-Founder-and-Editor-in-Chief-Lasantha-Wickrematunge-yesterday-to-mark-the-17th-anniversary/56-786709",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767918996.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-8c92139c",
+    "num": "dailyftlk-8c92139c",
+    "date_str": "2026-01-09",
+    "description": "Opposition to raise AG appointment delay with IMF, World Bank",
+    "url_metadata": "https://www.ft.lk/news/Opposition-to-raise-AG-appointment-delay-with-IMF-World-Bank/56-786710",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767919064.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-6cf7a4bf",
+    "num": "dailyftlk-6cf7a4bf",
+    "date_str": "2026-01-09",
+    "description": "Sri Lanka: A proven neutral destination in the region",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-A-proven-neutral-destination-in-the-region/4-786712",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767919648.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-d281ff19",
+    "num": "dailyftlk-d281ff19",
+    "date_str": "2026-01-09",
+    "description": "The disappointment that is the draft Prevention of Terrorism against the State Bill",
+    "url_metadata": "https://www.ft.lk/columns/The-disappointment-that-is-the-draft-Prevention-of-Terrorism-against-the-State-Bill/4-786713",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767920325.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-818cbdf4",
+    "num": "dailyftlk-818cbdf4",
+    "date_str": "2026-01-09",
+    "description": "We are counting tourists, not measuring value: Part 2",
+    "url_metadata": "https://www.ft.lk/columns/We-are-counting-tourists-not-measuring-value-Part-2/4-786714",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767920683.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-dailyftlk-b81455ee",
+    "num": "dailyftlk-b81455ee",
+    "date_str": "2026-01-09",
+    "description": "Education reforms, let\u2019s learn from Singapore",
+    "url_metadata": "https://www.ft.lk/columns/Education-reforms-let-s-learn-from-Singapore/4-786715",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1767921319.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-tamilmirrorlk-7918ad4d",
+    "num": "tamilmirrorlk-7918ad4d",
+    "date_str": "2026-01-09",
+    "description": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb0\u0bc1\u0b95\u0bbf\u0bb2\u0bcd \u0b9a\u0bc2\u0bb1\u0bbe\u0bb5\u0bb3\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb0\u0bc1\u0b95\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc2\u0bb1\u0bbe\u0bb5\u0bb3\u0bbf-\u0ba8\u0bbf\u0bb2\u0bc8\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1/175-370803",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767923305.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-tamilmirrorlk-ae2c60f0",
+    "num": "tamilmirrorlk-ae2c60f0",
+    "date_str": "2026-01-09",
+    "description": "\u0b9a\u0bae\u0bc2\u0b95 \u0b8a\u0b9f\u0b95 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf: \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bae\u0bc2\u0b95-\u0b8a\u0b9f\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-370804",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767923683.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-adalk-959ab301",
+    "num": "adalk-959ab301",
+    "date_str": "2026-01-09",
+    "description": "\u0d9c\u0dd0\u0db9\u0dd4\u0dbb\u0dd4 \u0db4\u0dd3\u0da9\u0db1 \u0d85\u0dc0\u0db4\u0dcf\u0dad\u0dba \u0d85\u0daf \u0dc3\u0dc0\u0dc3\u0dca\u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0db4\u0ddc\u0dad\u0dd4\u0dc0\u0dd2\u0dbd\u0dca \u0dc4\u0dcf \u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba \u0dc0\u0dd9\u0dbb\u0dc5 \u0dad\u0dd2\u0dbb\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dd0\u0db9\u0dd4\u0dbb\u0dd4-\u0db4\u0dd3\u0da9\u0db1-\u0d85\u0dc0\u0db4\u0dcf\u0dad\u0dba-\u0d85\u0daf-\u0dc3\u0dc0\u0dc3\u0dca\u0dc0\u0db1-\u0dc0\u0dd2\u0da7-\u0db4\u0ddc\u0dad\u0dd4\u0dc0\u0dd2\u0dbd\u0dca-\u0dc4\u0dcf-\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba-\u0dc0\u0dd9\u0dbb\u0dc5-\u0dad\u0dd2\u0dbb\u0dba\u0da7/11-420699",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1767923833.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-09-tamilmirrorlk-c7a90939",
+    "num": "tamilmirrorlk-c7a90939",
+    "date_str": "2026-01-09",
+    "description": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd 11 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0ba4\u0bc1\u0bb3\u0bc8-\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f-\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-11-\u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd/76-370805",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767926035.0
   }
 ]

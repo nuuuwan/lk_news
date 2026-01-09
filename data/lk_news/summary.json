@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-09 06:08:29",
-  "n_docs": 97515,
+  "time_updated": "2026-01-09 08:25:22",
+  "n_docs": 97531,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 97515,
+  "n_docs_with_text": 97531,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-09",
-  "dataset_size": 1475419822,
+  "dataset_size": 1475692973,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-09-dailyftlk-2e414a34",
-    "num": "dailyftlk-2e414a34",
+    "doc_id": "2026-01-09-tamilmirrorlk-c7a90939",
+    "num": "tamilmirrorlk-c7a90939",
     "date_str": "2026-01-09",
-    "description": "Cinnamon Hotels and Resorts CEO Hishan Singhawansa appointed  to JKH Group hotel Boards",
-    "url_metadata": "https://www.ft.lk/business/Cinnamon-Hotels-and-Resorts-CEO-Hishan-Singhawansa-appointed-to-JKH-Group-hotel-Boards/34-786705",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1767918748.0
+    "description": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd 11 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0ba4\u0bc1\u0bb3\u0bc8-\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f-\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-11-\u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd/76-370805",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1767926035.0
   }
 }
