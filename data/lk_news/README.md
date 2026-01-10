@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--10_03:47:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--10_06:07:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,612** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,621** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -53,14 +53,14 @@ A collection of lk_news documents.
 - 2026-01-09 | `dailyftlk-bf1967fb` | Installing road speed cameras will be a win–win solution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-dailyftlk-bf1967fb)
 - 2026-01-09 | `dailyftlk-4788ae6d` | Selective sovereignty at sea: What the US seizure of Russian oil tanker tells about global order | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-dailyftlk-4788ae6d)
 - 2026-01-09 | `dailyftlk-fda3f45b` | Emerging multipolar world could be India’s moment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-dailyftlk-fda3f45b)
+- 2026-01-09 | `colombotelegraphcom-039a4042` | WAKFS Governance, Statutory Authority, & The Need For Responsible Public Discourse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-colombotelegraphcom-039a4042)
 - 2026-01-09 | `virakesarilk-c7669e4e` | தெஹிவளை கடற்கரை வீதியில் துப்பாக்கிச் சூடு – ஹோட்டல் உரிமையாளர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-virakesarilk-c7669e4e)
 - 2026-01-09 | `virakesarilk-e613d982` | வங்காள விரிகுடாவில் ஆழ்ந்த காற்றழுத்தத் தாழ்வு மண்டலம் வடக்கு நோக்கி மெதுவாக நகர்கிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-virakesarilk-e613d982)
 - 2026-01-09 | `tamilmirrorlk-6e0b27fe` | அம்புலுவாவ நிர்மாணப் பணிகளை நிறுத்துமாறு அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-tamilmirrorlk-6e0b27fe)
 - 2026-01-09 | `tamilmirrorlk-cc8ff667` | துப்பாக்கிச் சூட்டுக்கு இலக்கான ஹோட்டல் உரிமையாளர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-tamilmirrorlk-cc8ff667)
 - 2026-01-09 | `tamilmirrorlk-e7588829` | 4 மாவட்டங்களுக்கான எச்சரிக்கை நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-tamilmirrorlk-e7588829)
 - 2026-01-09 | `tamilmirrorlk-8ad70077` | திருத்தப்பட்ட பயங்கரவாத பெயர் பட்டியல் வெளியானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-tamilmirrorlk-8ad70077)
-- 2026-01-09 | `adalk-0195e48c` | සී ප්ලේන් යානය කෑලි කර කොළඹ අරන් යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-adalk-0195e48c)
-- 2026-01-09 | `tamilmirrorlk-efeec10b` | கேகாலை விபத்தில் இருவர் பலி: 6 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-tamilmirrorlk-efeec10b)
+- 2026-01-09 | `islandlk-83000b02` | Uber Eats 2025 Cravings Report: Sri Lankans crave spice, then reach for chocolate | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-09-islandlk-83000b02)
 
 ---
 
