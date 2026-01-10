@@ -1,4 +1,5 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2026-01-11-tamilmirrorlk-06d2ac64	tamilmirrorlk-06d2ac64	2026-01-11	100 அடி பள்ளத்தில் வீழ்ந்த வெளிநாட்டுச் சிறுமி மீட்பு	https://www.tamilmirror.lk/செய்திகள்/100-அடி-பள்ளத்தில்-வீழ்ந்த-வெளிநாட்டுச்-சிறுமி-மீட்பு/175-370834	ta	tamilmirrorlk	1768080369.0
 lk_news	2026-01-10-tamilmirrorlk-17d836e9	tamilmirrorlk-17d836e9	2026-01-10	வாகன உரிமையாளர்களுக்கு அதி முக்கிய செய்தி	https://www.tamilmirror.lk/செய்திகள்/வாகன-உரிமையாளர்களுக்கு-அதி-முக்கிய-செய்தி/175-370833	ta	tamilmirrorlk	1768065802.0
 lk_news	2026-01-10-tamilmirrorlk-3f7834b5	tamilmirrorlk-3f7834b5	2026-01-10	அநுராதபுரத்தில் மற்றுமொரு மகளும் உயிரிழப்பு	https://www.tamilmirror.lk/செய்திகள்/அநுராதபுரத்தில்-மற்றுமொரு-மகளும்-உயிரிழப்பு/175-370832	ta	tamilmirrorlk	1768062546.0
 lk_news	2026-01-10-virakesarilk-6cd33f61	virakesarilk-6cd33f61	2026-01-10	யாழில். சட்டவிரோத மணல் அகழ்வில் ஈடுபட்ட இருவர் கைது	https://www.virakesari.lk/article/235699	ta	virakesarilk	1768047960.0
@@ -15,6 +16,7 @@ lk_news	2026-01-10-virakesarilk-90dd8747	virakesarilk-90dd8747	2026-01-10	ஒட
 lk_news	2026-01-10-virakesarilk-2194e54a	virakesarilk-2194e54a	2026-01-10	‘Rebuilding Sri Lanka’ நிதியத்திற்கு செலான் வங்கி 50 மில்லியன் ரூபா நன்கொடை	https://www.virakesari.lk/article/235693	ta	virakesarilk	1768044060.0
 lk_news	2026-01-10-virakesarilk-b4ea29a3	virakesarilk-b4ea29a3	2026-01-10	வீட்டின் கூரையில் இருந்து 118 தோட்டாக்கள் மீட்பு -  பொலிஸ் விசாரணை ஆரம்பம்	https://www.virakesari.lk/article/235692	ta	virakesarilk	1768042980.0
 lk_news	2026-01-10-virakesarilk-cd43e50a	virakesarilk-cd43e50a	2026-01-10	‘Rebuilding Sri Lanka’ நிதியத்திற்கு அரச ஈட்டு முதலீட்டு வங்கியினால் நிதி நன்கொடை	https://www.virakesari.lk/article/235690	ta	virakesarilk	1768042920.0
+lk_news	2026-01-10-virakesarilk-6992de89	virakesarilk-6992de89	2026-01-10	நுவரெலியாவில் வெள்ளத்தில் பாதிக்கப்பட்ட விக்டோரியா பூங்காவில் சிரமதானம்	https://www.virakesari.lk/article/235689	ta	virakesarilk	1768042920.0
 lk_news	2026-01-10-virakesarilk-4020e02d	virakesarilk-4020e02d	2026-01-10	கடல் சீற்றம் காரணமாக திருமலை கரையோர மீனவர்களும் பாதிப்பு	https://www.virakesari.lk/article/235688	ta	virakesarilk	1768042920.0
 lk_news	2026-01-10-virakesarilk-8f083128	virakesarilk-8f083128	2026-01-10	வடமேல் மாகாண சபை ஊழியர்களின் ஒரு நாள் சம்பளம்‘Rebuilding Sri Lanka’ நிதியத்திற்கு நன்கொடையாக வழங்கப்பட்டது!	https://www.virakesari.lk/article/235691	ta	virakesarilk	1768042860.0
 lk_news	2026-01-10-virakesarilk-e22e446d	virakesarilk-e22e446d	2026-01-10	அனர்த்தத்தை எதிர்கொண்ட மக்களின் வாழ்க்கையை முன்பை விட சிறப்பாக மீண்டும் கட்டியெழுப்பும் திறன் அரசாங்கத்திற்கு உள்ளது - ஜனாதிபதி	https://www.virakesari.lk/article/235687	ta	virakesarilk	1768041180.0
@@ -9999,5 +10001,3 @@ lk_news	2025-11-19-virakesarilk-de620226	virakesarilk-de620226	2025-11-19	மா
 lk_news	2025-11-19-lankadeepalk-438007ec	lankadeepalk-438007ec	2025-11-19	අයවැයට වෛද්‍ය නිලධාරීන්ගේ සංසදයේ විරෝධය	https://www.lankadeepa.lk/latest_news/අයවයට-වදය-නලධරනග-සසදය-වරධය/1-683488	si	lankadeepalk	1763558499.0
 lk_news	2025-11-19-lankadeepalk-6182d982	lankadeepalk-6182d982	2025-11-19	සමූල ඝාතනයක් නූලෙන් වැළකෙයි	https://www.lankadeepa.lk/latest_news/සමල-ඝතනයක-නලන-වළකය/1-683487	si	lankadeepalk	1763556716.0
 lk_news	2025-11-19-virakesarilk-51b84c0a	virakesarilk-51b84c0a	2025-11-19	மக்கள் விடுதலை முன்னணி கட்சியின் செயற்பாடுகளுக்கு பொலிஸார் முறையற்ற வகையில் பயன்படுத்தப்படுகிறார்கள் - டி.வி.சானக	https://www.virakesari.lk/article/230834	ta	virakesarilk	1763556240.0
-lk_news	2025-11-19-virakesarilk-e728f8d4	virakesarilk-e728f8d4	2025-11-19	மதுபோதையில் வாகனங்களை செலுத்திய 14 சாரதிகள் கைது!	https://www.virakesari.lk/article/230835	ta	virakesarilk	1763556000.0
-lk_news	2025-11-19-virakesarilk-c40ced93	virakesarilk-c40ced93	2025-11-19	எல்லைகளைக் கையகப்படுத்த மத அடையாளங்களைப் பயன்படுத்துவது கண்டனத்துக்குரியது - கனடியத் தமிழர் பேரவை	https://www.virakesari.lk/article/230833	ta	virakesarilk	1763555160.0
