@@ -14365,6 +14365,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-10-colombotelegraphcom-2fa53518",
+    "num": "colombotelegraphcom-2fa53518",
+    "date_str": "2026-01-10",
+    "description": "Debt Sovereignty & Trincomalee: Why NPP Must Empower The North & East For Growth",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/debt-sovereignty-trincomalee-why-npp-must-empower-the-north-east-for-growth/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1768045247.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-10-virakesarilk-5e1ca97c",
     "num": "virakesarilk-5e1ca97c",
     "date_str": "2026-01-10",
@@ -14409,6 +14420,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-10-colombotelegraphcom-4e842844",
+    "num": "colombotelegraphcom-4e842844",
+    "date_str": "2026-01-10",
+    "description": "Honouring The Legacy Of Nihal Seneviratne: A Tribute To A Life Of Service",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/honouring-the-legacy-of-nihal-seneviratne-a-tribute-to-a-life-of-service/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1768047810.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-10-virakesarilk-b3b8dab9",
     "num": "virakesarilk-b3b8dab9",
     "date_str": "2026-01-10",
@@ -14450,5 +14472,27 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1768047960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-10-tamilmirrorlk-3f7834b5",
+    "num": "tamilmirrorlk-3f7834b5",
+    "date_str": "2026-01-10",
+    "description": "\u0b85\u0ba8\u0bc1\u0bb0\u0bbe\u0ba4\u0baa\u0bc1\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0bae\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba8\u0bc1\u0bb0\u0bbe\u0ba4\u0baa\u0bc1\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1-\u0bae\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-370832",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1768062546.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-10-tamilmirrorlk-17d836e9",
+    "num": "tamilmirrorlk-17d836e9",
+    "date_str": "2026-01-10",
+    "description": "\u0bb5\u0bbe\u0b95\u0ba9 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbe\u0b95\u0ba9-\u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0ba4\u0bbf-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/175-370833",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1768065802.0
   }
 ]
