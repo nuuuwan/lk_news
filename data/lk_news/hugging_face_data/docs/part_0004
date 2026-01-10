@@ -14068,6 +14068,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-10-colombotelegraphcom-0b13c39a",
+    "num": "colombotelegraphcom-0b13c39a",
+    "date_str": "2026-01-10",
+    "description": "America\u2019s Retreat From Multilateralism",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/americas-retreat-from-multilateralism/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1768029579.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-10-tamilmirrorlk-a04a8a3d",
     "num": "tamilmirrorlk-a04a8a3d",
     "date_str": "2026-01-10",
@@ -14098,6 +14109,17 @@ ews",
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1768031363.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-10-colombotelegraphcom-5fa2f1e9",
+    "num": "colombotelegraphcom-5fa2f1e9",
+    "date_str": "2026-01-10",
+    "description": "Extractive Capitalism & Trump\u2019s Adventurism",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/extractive-capitalism-trumps-adventurism/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1768032999.0
   },
   {
     "doc_type": "lk_news",

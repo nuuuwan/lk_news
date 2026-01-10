@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--10_17:49:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--10_19:45:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,655** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,657** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -56,11 +56,11 @@ A collection of lk_news documents.
 - 2026-01-10 | `virakesarilk-7399432b` | ஊவா மாகாணத்திலும் டிஜிட்டல் பஸ் கட்டண முறை அறிமுகம்: வங்கி அட்டைகள் மூலம் இனி பணம் செலுத்தலாம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-10-virakesarilk-7399432b)
 - 2026-01-10 | `virakesarilk-876dea74` | யாழில் வெளிநாட்டு கஞ்சாவுடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-10-virakesarilk-876dea74)
 - 2026-01-10 | `virakesarilk-55795d25` | வெளிநாட்டு வேலைவாய்ப்பு மோசடி: போலி சான்றிதழ்கள் மற்றும் முத்திரைகளுடன் 5 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-10-virakesarilk-55795d25)
+- 2026-01-10 | `colombotelegraphcom-5fa2f1e9` | Extractive Capitalism & Trump’s Adventurism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-10-colombotelegraphcom-5fa2f1e9)
 - 2026-01-10 | `adalk-46a263eb` | පීඩන අවපාතය අද දහවල් ත්‍රිකුණාමලය හා යාපනය අතර වෙරළින් ගමන් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-10-adalk-46a263eb)
 - 2026-01-10 | `adalk-dfc110b8` | පුරාවස්තු සහ පුරාවිද්‍යා කැණීම් කටයුතු පිළිබඳ තොරතුරු ඇතුළත් දත්ත පද්ධතියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-10-adalk-dfc110b8)
 - 2026-01-10 | `tamilmirrorlk-a04a8a3d` | நுவரெலியாவில் விபத்திற்குள்ளான விமானம் மீட்டெடுக்கப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-10-tamilmirrorlk-a04a8a3d)
-- 2026-01-10 | `virakesarilk-681a075f` | மதுபோதையில் வாகனம் செலுத்திய 422 சாரதிகள் சிக்கினர்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-10-virakesarilk-681a075f)
-- 2026-01-10 | `tamilmirrorlk-959a471a` | பாரிய மின்கம்பத்தில் மோதிய  அம்புலன்ஸ்:   சாரதி நடத்துனர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-10-tamilmirrorlk-959a471a)
+- 2026-01-10 | `colombotelegraphcom-0b13c39a` | America’s Retreat From Multilateralism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-10-colombotelegraphcom-0b13c39a)
 
 ---
 
