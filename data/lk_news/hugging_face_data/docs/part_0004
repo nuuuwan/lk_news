@@ -17244,5 +17244,115 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1768247495.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-13-dailyftlk-bb9b092b",
+    "num": "dailyftlk-bb9b092b",
+    "date_str": "2026-01-13",
+    "description": "Weerawansa launches  \u2018Harini Go Home\u2019 protest",
+    "url_metadata": "https://www.ft.lk/news/Weerawansa-launches-Harini-Go-Home-protest/56-786857",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768251563.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-13-dailyftlk-ac4788f3",
+    "num": "dailyftlk-ac4788f3",
+    "date_str": "2026-01-13",
+    "description": "ITAK declines to back NCM against PM",
+    "url_metadata": "https://www.ft.lk/news/ITAK-declines-to-back-NCM-against-PM/56-786858",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768251688.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-13-dailyftlk-a510214a",
+    "num": "dailyftlk-a510214a",
+    "date_str": "2026-01-13",
+    "description": "Seminar on safeguards for company secretaries, directors under amended Companies Act",
+    "url_metadata": "https://www.ft.lk/business/Seminar-on-safeguards-for-company-secretaries-directors-under-amended-Companies-Act/34-786859",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768251876.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-13-dailyftlk-8194c171",
+    "num": "dailyftlk-8194c171",
+    "date_str": "2026-01-13",
+    "description": "COYLE announces return of Harvard\u2019s Boris Groysberg to host leadership masterclass",
+    "url_metadata": "https://www.ft.lk/business/COYLE-announces-return-of-Harvard-s-Boris-Groysberg-to-host-leadership-masterclass/34-786860",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768251961.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-13-dailyftlk-7cf325dc",
+    "num": "dailyftlk-7cf325dc",
+    "date_str": "2026-01-13",
+    "description": "W.R. Rodrigo & Partners announces strategic transition to partnership",
+    "url_metadata": "https://www.ft.lk/business/W-R-Rodrigo-Partners-announces-strategic-transition-to-partnership/34-786861",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768252207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-13-dailyftlk-e12c42cc",
+    "num": "dailyftlk-e12c42cc",
+    "date_str": "2026-01-13",
+    "description": "Senior lawyer and former BASL  Vice President Siri A. Perera passes away",
+    "url_metadata": "https://www.ft.lk/news/Senior-lawyer-and-former-BASL-Vice-President-Siri-A-Perera-passes-away/56-786862",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768252451.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-13-dailyftlk-eed95273",
+    "num": "dailyftlk-eed95273",
+    "date_str": "2026-01-13",
+    "description": "\u201cWAVES OF HOPE\u201d aid concert for flood victims on 8 February",
+    "url_metadata": "https://www.ft.lk/news/WAVES-OF-HOPE-aid-concert-for-flood-victims-on-8-February/56-786863",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768252512.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-13-dailyftlk-d93b1d04",
+    "num": "dailyftlk-d93b1d04",
+    "date_str": "2026-01-13",
+    "description": "Marlbo expands portfolio with FLIR thermal imaging cameras",
+    "url_metadata": "https://www.ft.lk/news/Marlbo-expands-portfolio-with-FLIR-thermal-imaging-cameras/56-786864",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768252580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-13-dailyftlk-40cc9744",
+    "num": "dailyftlk-40cc9744",
+    "date_str": "2026-01-13",
+    "description": "Dialog reinforces commitment to heritage through  Kelaniya Duruthu festival",
+    "url_metadata": "https://www.ft.lk/news/Dialog-reinforces-commitment-to-heritage-through-Kelaniya-Duruthu-festival/56-786865",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768252719.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-13-tamilmirrorlk-a06ab32f",
+    "num": "tamilmirrorlk-a06ab32f",
+    "date_str": "2026-01-13",
+    "description": "\u0bb5\u0bbf\u0b9c\u0baf\u0bcd\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0baa\u0bca\u0b99\u0bcd\u0b95\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b9c\u0baf\u0bcd\u0baf\u0bbf\u0b9f\u0bae\u0bcd-\u0baa\u0bca\u0b99\u0bcd\u0b95\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0ba9\u0bcd-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8/175-370944",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1768254399.0
   }
 ]
