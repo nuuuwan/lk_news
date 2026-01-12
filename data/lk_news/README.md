@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--12_08:29:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--12_10:06:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,850** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,853** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-12-dailyftlk-cdb74a1a",
-    "num": "dailyftlk-cdb74a1a",
+    "doc_id": "2026-01-12-adalk-4add7426",
+    "num": "adalk-4add7426",
     "date_str": "2026-01-12",
-    "description": "Wimal launches \u2018Harini Go Home\u2019 campaign against PM",
-    "url_metadata": "https://www.ft.lk/news/Wimal-launches-Harini-Go-Home-campaign-against-PM/56-786826",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1768181704.0
+    "description": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda \u0d9a\u0dd4\u0dab\u0dd4 \u0d85\u0daf\u0dd2\u0db1 \u0dc0\u0dcf\u0dc4\u0db1 \u0dc3\u0dd2\u0dba\u0dba\u0da7 90\u0d9a\u0dca \u0d85\u0db6\u0dbd\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda-\u0d9a\u0dd4\u0dab\u0dd4-\u0d85\u0daf\u0dd2\u0db1-\u0dc0\u0dcf\u0dc4\u0db1-\u0dc3\u0dd2\u0dba\u0dba\u0da7-90\u0d9a\u0dca-\u0d85\u0db6\u0dbd\u0db1\u0dca/11-420736",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1768190493.0
 }
 ```
 
@@ -41,9 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-12 | `adalk-4add7426` | ගාල්ලේ කුණු අදින වාහන සියයට 90ක් අබලන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-adalk-4add7426)
 - 2026-01-12 | `dailyftlk-cdb74a1a` | Wimal launches ‘Harini Go Home’ campaign against PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-cdb74a1a)
 - 2026-01-12 | `dailyftlk-13cb2343` | The HALO Trust appoints Rishini Weeraratne as Ambassador for Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-13cb2343)
 - 2026-01-12 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-virakesarilk-3a015e4a)
+- 2026-01-12 | `adalk-23701c24` | මහා පරිමාණ ත්‍රී රෝද රථ සොරකමක් පොලීසිය හෙළි කර ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-adalk-23701c24)
 - 2026-01-12 | `dailyftlk-22343cc5` | Solidarity tax, cigarette duty hike among key non-debt options to finance Ditwah recovery spend: Verité Research | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-22343cc5)
 - 2026-01-12 | `dailyftlk-da28b90f` | Book launch – Development: Not By Economics Alone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-da28b90f)
 - 2026-01-12 | `dailyftlk-2fa70051` | CM Holdings public float increases to 31.17% in Dec. quarter | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-2fa70051)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-01-12 | `dailyftlk-1502c3f2` | Monks’ epic journey for peace captivates people across America | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-1502c3f2)
 - 2026-01-12 | `dailyftlk-4e56eb41` | Education Reform: Don’t play politics with our future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-4e56eb41)
 - 2026-01-12 | `dailyftlk-fa70f32d` | Royal College alumnus sends Open Letter to President Dissanayake alleging misuse of State assets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-fa70f32d)
-- 2026-01-12 | `dailyftlk-a2faa3e0` | 100 activists express concerns over SL Govt.’s growing ties with ‘genocide’ State of Israel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-a2faa3e0)
-- 2026-01-12 | `virakesarilk-a0d50a94` | இந்திய நிதியுதவியின் கீழ் வடக்கு புகையிரத பாதை அபிவிருத்தி பணிகள் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-virakesarilk-a0d50a94)
 
 ---
 

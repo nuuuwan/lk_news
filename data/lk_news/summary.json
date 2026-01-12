@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-12 08:28:48",
-  "n_docs": 97850,
+  "time_updated": "2026-01-12 10:05:35",
+  "n_docs": 97853,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 97850,
+  "n_docs_with_text": 97853,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-12",
-  "dataset_size": 1482337842,
+  "dataset_size": 1482586984,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-12-dailyftlk-cdb74a1a",
-    "num": "dailyftlk-cdb74a1a",
+    "doc_id": "2026-01-12-adalk-4add7426",
+    "num": "adalk-4add7426",
     "date_str": "2026-01-12",
-    "description": "Wimal launches \u2018Harini Go Home\u2019 campaign against PM",
-    "url_metadata": "https://www.ft.lk/news/Wimal-launches-Harini-Go-Home-campaign-against-PM/56-786826",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1768181704.0
+    "description": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda \u0d9a\u0dd4\u0dab\u0dd4 \u0d85\u0daf\u0dd2\u0db1 \u0dc0\u0dcf\u0dc4\u0db1 \u0dc3\u0dd2\u0dba\u0dba\u0da7 90\u0d9a\u0dca \u0d85\u0db6\u0dbd\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0dda-\u0d9a\u0dd4\u0dab\u0dd4-\u0d85\u0daf\u0dd2\u0db1-\u0dc0\u0dcf\u0dc4\u0db1-\u0dc3\u0dd2\u0dba\u0dba\u0da7-90\u0d9a\u0dca-\u0d85\u0db6\u0dbd\u0db1\u0dca/11-420736",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1768190493.0
   }
 }
