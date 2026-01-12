@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-12 06:08:58",
-  "n_docs": 97826,
+  "time_updated": "2026-01-12 08:28:48",
+  "n_docs": 97850,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 97826,
+  "n_docs_with_text": 97850,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-12",
-  "dataset_size": 1482008722,
+  "dataset_size": 1482337842,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "en",
     "si",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-12-dailyftlk-afaf3027",
-    "num": "dailyftlk-afaf3027",
+    "doc_id": "2026-01-12-dailyftlk-cdb74a1a",
+    "num": "dailyftlk-cdb74a1a",
     "date_str": "2026-01-12",
-    "description": "Solar Industries Association has its say over new Draft National Electricity Policy",
-    "url_metadata": "https://www.ft.lk/columns/Solar-Industries-Association-has-its-say-over-new-Draft-National-Electricity-Policy/4-786790",
+    "description": "Wimal launches \u2018Harini Go Home\u2019 campaign against PM",
+    "url_metadata": "https://www.ft.lk/news/Wimal-launches-Harini-Go-Home-campaign-against-PM/56-786826",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1768176222.0
+    "time_ut": 1768181704.0
   }
 }

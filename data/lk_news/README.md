@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--12_06:09:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--12_08:29:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,826** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,850** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-12-dailyftlk-afaf3027",
-    "num": "dailyftlk-afaf3027",
+    "doc_id": "2026-01-12-dailyftlk-cdb74a1a",
+    "num": "dailyftlk-cdb74a1a",
     "date_str": "2026-01-12",
-    "description": "Solar Industries Association has its say over new Draft National Electricity Policy",
-    "url_metadata": "https://www.ft.lk/columns/Solar-Industries-Association-has-its-say-over-new-Draft-National-Electricity-Policy/4-786790",
+    "description": "Wimal launches \u2018Harini Go Home\u2019 campaign against PM",
+    "url_metadata": "https://www.ft.lk/news/Wimal-launches-Harini-Go-Home-campaign-against-PM/56-786826",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1768176222.0
+    "time_ut": 1768181704.0
 }
 ```
 
@@ -41,6 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-12 | `dailyftlk-cdb74a1a` | Wimal launches ‘Harini Go Home’ campaign against PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-cdb74a1a)
+- 2026-01-12 | `dailyftlk-13cb2343` | The HALO Trust appoints Rishini Weeraratne as Ambassador for Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-13cb2343)
+- 2026-01-12 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-virakesarilk-3a015e4a)
+- 2026-01-12 | `dailyftlk-22343cc5` | Solidarity tax, cigarette duty hike among key non-debt options to finance Ditwah recovery spend: Verité Research | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-22343cc5)
+- 2026-01-12 | `dailyftlk-da28b90f` | Book launch – Development: Not By Economics Alone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-da28b90f)
+- 2026-01-12 | `dailyftlk-2fa70051` | CM Holdings public float increases to 31.17% in Dec. quarter | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-2fa70051)
+- 2026-01-12 | `dailyftlk-a83f2b15` | Metalabs wins Enterprise category award for mAudit at 2025 ICSDB Excellence Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-a83f2b15)
+- 2026-01-12 | `dailyftlk-768460db` | Seylan Bank donates Rs. 50 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-768460db)
+- 2026-01-12 | `dailyftlk-058c8d46` | SMIB contributes Rs. 5 m to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-058c8d46)
+- 2026-01-12 | `dailyftlk-bf49c360` | Ceylon Hardware Merchants Association contributes to post-Ditwah recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-bf49c360)
+- 2026-01-12 | `dailyftlk-ee2c3f88` | NWPC employees donate day’s salary towards disaster relief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-ee2c3f88)
 - 2026-01-12 | `dailyftlk-afaf3027` | Solar Industries Association has its say over new Draft National Electricity Policy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-afaf3027)
 - 2026-01-12 | `dailyftlk-4bf84d40` | Solar industry: Future of Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-4bf84d40)
 - 2026-01-12 | `dailyftlk-d7fef9cb` | Asoka Handagama’s Moon Hunt: A re-enactment of an event in two time periods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-d7fef9cb)
@@ -49,18 +60,7 @@ A collection of lk_news documents.
 - 2026-01-12 | `dailyftlk-4e56eb41` | Education Reform: Don’t play politics with our future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-4e56eb41)
 - 2026-01-12 | `dailyftlk-fa70f32d` | Royal College alumnus sends Open Letter to President Dissanayake alleging misuse of State assets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-fa70f32d)
 - 2026-01-12 | `dailyftlk-a2faa3e0` | 100 activists express concerns over SL Govt.’s growing ties with ‘genocide’ State of Israel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-dailyftlk-a2faa3e0)
-- 2026-01-12 | `tamilmirrorlk-159c771f` | வடக்கு ரயில் மார்க்கத்தின் புனரமைப்பு பணி ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-159c771f)
-- 2026-01-11 | `adalk-4f465ab5` | මහජන ආරක්ෂක අමාත්‍යාංශ වෙබ් අඩවියට සයිබර් ප්‍රහාරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-11-adalk-4f465ab5)
-- 2026-01-11 | `adalk-6e4d65d1` | ආණමඩුව ජල ව්‍යාපෘතියේ වියදම රු.බි. 6යි, ප්‍රතිලාභය බිංදුවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-11-adalk-6e4d65d1)
-- 2026-01-11 | `colombotelegraphcom-6c2c2535` | The Lee Kuan Yew Warning: Why Sri Lanka’s Stagnation Is More Lethal Than New Zealand’s | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-11-colombotelegraphcom-6c2c2535)
-- 2026-01-11 | `colombotelegraphcom-a9145081` | Sr Lanka Cricket Board Should Be Ashamed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-11-colombotelegraphcom-a9145081)
-- 2026-01-11 | `islandlk-6c58159d` | Hemas opens 75th Piyawara preschool in Homagama | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-11-islandlk-6c58159d)
-- 2026-01-11 | `islandlk-9c2c0ef7` | NDB Bank supports national SME recovery initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-11-islandlk-9c2c0ef7)
-- 2026-01-11 | `colombotelegraphcom-6f4cd1d3` | AI In Schools: Preparing The Nation For The Next Technological Leap | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-11-colombotelegraphcom-6f4cd1d3)
-- 2026-01-11 | `islandlk-c590e372` | HNB Assurance wins Gold at prestigious regional marketing awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-11-islandlk-c590e372)
-- 2026-01-11 | `islandlk-431fbceb` | NTB upgraded to ‘Buy’ on strong earnings and strategic acquisition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-11-islandlk-431fbceb)
-- 2026-01-11 | `islandlk-6a95a7ff` | Lending rates edge up amid private sector credit growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-11-islandlk-6a95a7ff)
-- 2026-01-11 | `islandlk-bcf8097e` | Pasad Weerasekera appointed to the Board of AgriOne Solutions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-11-islandlk-bcf8097e)
+- 2026-01-12 | `virakesarilk-a0d50a94` | இந்திய நிதியுதவியின் கீழ் வடக்கு புகையிரத பாதை அபிவிருத்தி பணிகள் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-virakesarilk-a0d50a94)
 
 ---
 
