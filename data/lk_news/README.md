@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--12_17:52:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--12_19:49:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,887** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,890** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-12-tamilmirrorlk-32e4510c",
-    "num": "tamilmirrorlk-32e4510c",
+    "doc_id": "2026-01-12-tamilmirrorlk-174204bf",
+    "num": "tamilmirrorlk-174204bf",
     "date_str": "2026-01-12",
-    "description": "\u0bb5\u0bbf\u0bae\u0bb2\u0bbf\u0ba9\u0bcd \u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0ba8\u0bbf\u0baa\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bae\u0bb2\u0bbf\u0ba9\u0bcd-\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd-\u0ba8\u0bbf\u0baa\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8/175-370924",
+    "description": "\u0baa\u0bb0\u0ba8\u0bcd\u0ba4\u0ba9\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb0\u0ba8\u0bcd\u0ba4\u0ba9\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-370928",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1768214750.0
+    "time_ut": 1768226041.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-12 | `tamilmirrorlk-174204bf` | பரந்தன் விபத்தில் நால்வர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-174204bf)
+- 2026-01-12 | `adalk-deb8c2b6` | පාර්ලිමේන්තුව ගැන යන අසත්‍ය පුවතක් ගැන පැහැදිලි කිරීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-adalk-deb8c2b6)
+- 2026-01-12 | `adalk-928d09d8` | අද රාත්‍රී බොහෝ ප්‍රදේශවලට වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-adalk-928d09d8)
 - 2026-01-12 | `tamilmirrorlk-32e4510c` | விமலின் சத்தியாக்கிரகத்துக்கு நீதிமன்றம் நிபந்தனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-32e4510c)
 - 2026-01-12 | `tamilmirrorlk-6a029957` | குளவி கொட்டியதில் பெண் தொழிலாளி மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-6a029957)
 - 2026-01-12 | `adalk-80894f38` | රට යළි ගොඩනගන වැඩ පිළිවෙළ හෙට ඇරඹේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-adalk-80894f38)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-01-12 | `tamilmirrorlk-15c7be11` | ஓட்டோக்களை திருடும் கும்பல் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-15c7be11)
 - 2026-01-12 | `tamilmirrorlk-e9c5ed4b` | மகளின் விடுகை பத்திரத்துக்காக ஆணைக்குழு வரை சென்ற தாய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-e9c5ed4b)
 - 2026-01-12 | `tamilmirrorlk-cb492243` | அயலக தமிழர் மாநாட்டில் செந்தில் தொண்டமான் பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-cb492243)
-- 2026-01-12 | `adalk-88f1f42b` | විමල් අඛණ්ඩ සත්‍යග්‍රහයක් ආරම්භ කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-adalk-88f1f42b)
-- 2026-01-12 | `tamilmirrorlk-50604898` | விமல் வீரவன்ச சத்தியாக்கிரகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-50604898)
-- 2026-01-12 | `adalk-48ab41ab` | මුන්දලම මාරක රිය අනතුරකින් තිදෙනෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-adalk-48ab41ab)
 
 ---
 
