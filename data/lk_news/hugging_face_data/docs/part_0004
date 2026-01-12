@@ -16169,6 +16169,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-12-dbsjeyarajcom-b6019491",
+    "num": "dbsjeyarajcom-b6019491",
+    "date_str": "2026-01-12",
+    "description": "\u201cParasakthi\u201d : Sudha  Kongara\u2019s new Film on the 1965 Anti-Hindi Agitation in Tamil Nadu is a fine blend of political history and human drama",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=86857",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1768168980.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-12-virakesarilk-e1a0948e",
     "num": "virakesarilk-e1a0948e",
     "date_str": "2026-01-12",
@@ -16298,6 +16309,17 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1768176222.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-12-dbsjeyarajcom-0d69bb6d",
+    "num": "dbsjeyarajcom-0d69bb6d",
+    "date_str": "2026-01-12",
+    "description": "Asoka Handagama, through his latest cinematic creation, \u2018Sandha  Dadayama\u201d (Moon Hunt, uses the inanimate Moon as the testifying witness to some crimes committed under the very bright moonlight",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=86861",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1768177500.0
   },
   {
     "doc_type": "lk_news",
@@ -16837,6 +16859,17 @@ ews",
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1768220713.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-12-adalk-ab98b0c5",
+    "num": "adalk-ab98b0c5",
+    "date_str": "2026-01-12",
+    "description": "\u0db8\u0dd2\u0dc4\u0dd2\u0daf\u0db1\u0dca \u0d9a\u0dc5 \u0d85\u0dc0\u0dd4. 14\u0d9a \u0daf\u0dbb\u0dd4\u0dc0\u0dcf\u0d9c\u0dda \u0dc3\u0dd2\u0dbb\u0dd4\u0dbb \u0d9c\u0ddc\u0da9 \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd2\u0dc4\u0dd2\u0daf\u0db1\u0dca-\u0d9a\u0dc5-\u0d85\u0dc0\u0dd4--14\u0d9a-\u0daf\u0dbb\u0dd4\u0dc0\u0dcf\u0d9c\u0dda-\u0dc3\u0dd2\u0dbb\u0dd4\u0dbb-\u0d9c\u0ddc\u0da9-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-420749",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1768223927.0
   },
   {
     "doc_type": "lk_news",

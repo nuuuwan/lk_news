@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--12_19:49:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--12_21:49:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**97,890** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**97,893** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-01-12 | `tamilmirrorlk-174204bf` | பரந்தன் விபத்தில் நால்வர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-174204bf)
+- 2026-01-12 | `adalk-ab98b0c5` | මිහිදන් කළ අවු. 14ක දරුවාගේ සිරුර ගොඩ ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-adalk-ab98b0c5)
 - 2026-01-12 | `adalk-deb8c2b6` | පාර්ලිමේන්තුව ගැන යන අසත්‍ය පුවතක් ගැන පැහැදිලි කිරීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-adalk-deb8c2b6)
 - 2026-01-12 | `adalk-928d09d8` | අද රාත්‍රී බොහෝ ප්‍රදේශවලට වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-adalk-928d09d8)
 - 2026-01-12 | `tamilmirrorlk-32e4510c` | விமலின் சத்தியாக்கிரகத்துக்கு நீதிமன்றம் நிபந்தனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-32e4510c)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-12 | `tamilmirrorlk-0cbe9532` | கெஹெலியவுக்கு எதிரான வழக்கு ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-0cbe9532)
 - 2026-01-12 | `tamilmirrorlk-15c7be11` | ஓட்டோக்களை திருடும் கும்பல் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-15c7be11)
 - 2026-01-12 | `tamilmirrorlk-e9c5ed4b` | மகளின் விடுகை பத்திரத்துக்காக ஆணைக்குழு வரை சென்ற தாய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-e9c5ed4b)
-- 2026-01-12 | `tamilmirrorlk-cb492243` | அயலக தமிழர் மாநாட்டில் செந்தில் தொண்டமான் பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-12-tamilmirrorlk-cb492243)
 
 ---
 
