@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-13 06:03:59",
-  "n_docs": 97956,
+  "time_updated": "2026-01-13 08:22:16",
+  "n_docs": 97960,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 97956,
+  "n_docs_with_text": 97960,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-13",
-  "dataset_size": 1484274585,
+  "dataset_size": 1484479688,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-13-dailyftlk-aa88a692",
-    "num": "dailyftlk-aa88a692",
+    "doc_id": "2026-01-13-adalk-e9567bdf",
+    "num": "adalk-e9567bdf",
     "date_str": "2026-01-13",
-    "description": "Chinese FM Yi expresses optimism Sri Lanka is on right path to progress",
-    "url_metadata": "https://www.ft.lk/news/Chinese-FM-Yi-expresses-optimism-Sri-Lanka-is-on-right-path-to-progress/56-786888",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1768257830.0
+    "description": "\u0d9c\u0dc3\u0d9a\u0dca \u0d9a\u0dd0\u0db4\u0dd3\u0db8\u0da7 \u0d9c\u0dd2\u0dba \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc3\u0dd0\u0dbb \u0dc0\u0dd0\u0daf\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dc3\u0d9a\u0dca-\u0d9a\u0dd0\u0db4\u0dd3\u0db8\u0da7-\u0d9c\u0dd2\u0dba-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dca-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0dc3\u0dd0\u0dbb-\u0dc0\u0dd0\u0daf\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/11-420751",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1768265300.0
   }
 }
