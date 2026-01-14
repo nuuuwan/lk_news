@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--14_06:09:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--14_08:29:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**98,130** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**98,136** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-14-dailyftlk-81070e84",
-    "num": "dailyftlk-81070e84",
+    "doc_id": "2026-01-14-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
     "date_str": "2026-01-14",
-    "description": "Govt. says ready for no-confidence debate against PM Harini",
-    "url_metadata": "https://www.ft.lk/news/Govt-says-ready-for-no-confidence-debate-against-PM-Harini/56-786922",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1768350110.0
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/235980",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1768351500.0
 }
 ```
 
@@ -41,8 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-14 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-14-virakesarilk-3a015e4a)
 - 2026-01-14 | `dailyftlk-81070e84` | Govt. says ready for no-confidence debate against PM Harini | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-14-dailyftlk-81070e84)
 - 2026-01-14 | `dailyftlk-24aafef5` | US Ambassador pays farewell call on President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-14-dailyftlk-24aafef5)
+- 2026-01-14 | `adalk-4da55d84` | පාසල් නිල ඇඳුම් රෙදි බෙදා දීම ලබන 19දා සිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-14-adalk-4da55d84)
 - 2026-01-14 | `dailyftlk-331c96cb` | President assures teacher unions on education reforms, funding priorities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-14-dailyftlk-331c96cb)
 - 2026-01-14 | `dailyftlk-ecc855ab` | Govt. to lease underutilised State plantation lands to boost investment, productivity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-14-dailyftlk-ecc855ab)
 - 2026-01-14 | `dailyftlk-e1c806dc` | Shing Kwan Group donates  $ 100,000 to Rebuild Sri Lanka Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-14-dailyftlk-e1c806dc)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-01-14 | `virakesarilk-da378d32` | ‘Rebuilding Sri Lanka’  இற்கு காணி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-14-virakesarilk-da378d32)
 - 2026-01-14 | `virakesarilk-804a10c5` | "ஈரானில் தொடர்ந்து போராட்டம் நடத்துங்கள் - ஆதரவு வருகிறது" டிரம்பின் செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-14-virakesarilk-804a10c5)
 - 2026-01-14 | `virakesarilk-9547bfea` | 2500 வீடுகளை கட்ட வரவு செலவுத் திட்டத்தில் 5 000 மில்லியன் நிதி ஒதுக்கப்பட்டதை நாம் மாற்றவில்லை - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-14-virakesarilk-9547bfea)
-- 2026-01-14 | `virakesarilk-b96730bd` | அரச ஊழியர்களுக்கு வழங்கப்படும் பண்டிகை முற்பணத்தை அதிகரிக்க தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-14-virakesarilk-b96730bd)
-- 2026-01-14 | `virakesarilk-820ae609` | அரச சேவையில் 26,095 ஆட்சேர்ப்புக்களுக்கு அமைச்சரவை அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-14-virakesarilk-820ae609)
 
 ---
 
