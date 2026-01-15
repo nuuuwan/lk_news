@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--15_08:26:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--15_10:01:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**98,278** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**98,283** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-15-dailyftlk-1900991b",
-    "num": "dailyftlk-1900991b",
+    "doc_id": "2026-01-15-tamilmirrorlk-a478610a",
+    "num": "tamilmirrorlk-a478610a",
     "date_str": "2026-01-15",
-    "description": "Step motherly treatment  to Malaiyaha community in disaster relief and reconstruction",
-    "url_metadata": "https://www.ft.lk/news/Step-motherly-treatment-to-Malaiyaha-community-in-disaster-relief-and-reconstruction/56-786966",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1768441271.0
+    "description": "\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0b99\u0bcd\u0b95\u0bb2\u0bcd...",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0b99\u0bcd\u0b95\u0bb2\u0bcd/46-371064",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1768449760.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-15 | `tamilmirrorlk-a478610a` | தைப்பொங்கல்... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-tamilmirrorlk-a478610a)
+- 2026-01-15 | `tamilmirrorlk-6b90f035` | மின்சார கம்பியை இழுத்த நபருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-tamilmirrorlk-6b90f035)
+- 2026-01-15 | `tamilmirrorlk-7aab773e` | “சமுதாயத்தை உருவாக்க வாய்ப்பு கிடைக்கட்டும்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-tamilmirrorlk-7aab773e)
+- 2026-01-15 | `adalk-f581453a` | අද සිට වැස්ස අඩුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-adalk-f581453a)
+- 2026-01-15 | `adalk-e52fffd6` | අනවසර විදුලි රැහැනක ගැටී පියා මියගොස්  පුතා තුවාල ලබයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-adalk-e52fffd6)
 - 2026-01-15 | `dailyftlk-1900991b` | Step motherly treatment  to Malaiyaha community in disaster relief and reconstruction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-dailyftlk-1900991b)
 - 2026-01-15 | `dailyftlk-6150d63b` | Cyprus extends humanitarian assistance to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-dailyftlk-6150d63b)
 - 2026-01-15 | `dailyftlk-4cdbfadc` | Brazil assists Sri Lanka’s flood relief and recovery efforts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-dailyftlk-4cdbfadc)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-01-15 | `dailyftlk-0ed48a25` | KITZ Corporation Japan alleges branded plumbing products being imitated | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-dailyftlk-0ed48a25)
 - 2026-01-15 | `dailyftlk-d6a3033e` | Extractive capitalism and Trump’s adventurism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-dailyftlk-d6a3033e)
 - 2026-01-15 | `dailyftlk-afa43242` | Iran at the crossroads: Internal unrest, external containment, and prolonged national rupture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-dailyftlk-afa43242)
-- 2026-01-15 | `dailyftlk-cd1da487` | Trump effect in South Asia: The spectre of regional hegemonism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-dailyftlk-cd1da487)
-- 2026-01-15 | `dailyftlk-abb9f07f` | PSTA: Terrorism without terror continues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-dailyftlk-abb9f07f)
-- 2026-01-15 | `dailyftlk-1ff984ea` | President visits Northern Province today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-dailyftlk-1ff984ea)
-- 2026-01-15 | `dailyftlk-015904d7` | Remanded for soliciting bribe to enrol child in school | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-dailyftlk-015904d7)
-- 2026-01-15 | `dailyftlk-96781ea7` | US announces $ 2 m additional aid for Ditwah-affected | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-15-dailyftlk-96781ea7)
 
 ---
 
