@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--17_01:47:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--17_03:47:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**98,501** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**98,513** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-17-dailyftlk-322e7aa6",
-    "num": "dailyftlk-322e7aa6",
+    "doc_id": "2026-01-17-tamilmirrorlk-4803022e",
+    "num": "tamilmirrorlk-4803022e",
     "date_str": "2026-01-17",
-    "description": "US Ambassador pays farewell call on Opposition Leader",
-    "url_metadata": "https://www.ft.lk/news/US-Ambassador-pays-farewell-call-on-Opposition-Leader/56-787069",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1768592586.0
+    "description": "\u2019\u0bae\u0bc1\u0bb4\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0bae\u0bc7 \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0b95\u2019 \u0bb5\u0b9f \u0bae\u0bbe\u0b95\u0bbe\u0ba3 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0bb4\u0bc1-\u0ba8\u0bbe\u0b9f\u0bc1\u0bae\u0bc7-\u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0b95-\u0bb5\u0b9f-\u0bae\u0bbe\u0b95\u0bbe\u0ba3-\u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf/175-371153",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1768601351.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-17 | `tamilmirrorlk-4803022e` | ’முழு நாடுமே ஒன்றாக’ வட மாகாண நிகழ்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-17-tamilmirrorlk-4803022e)
+- 2026-01-17 | `virakesarilk-4b45d955` | தரமான கல்வியூடாக சிறந்த பிரஜைகளை உருவாக்குவதே அரசின் நோக்கம் – பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-17-virakesarilk-4b45d955)
+- 2026-01-17 | `virakesarilk-790fea67` | யாழ் பல்கலைக்கழக பொங்கு தமிழ் நிகழ்வுக்கு மாணவர் ஒன்றியம் அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-17-virakesarilk-790fea67)
+- 2026-01-17 | `virakesarilk-ab3ceb0b` | சட்டவிரோதமாக நாட்டிற்கு கொண்டு வரப்பட்ட ஒரு தொகை பீடி இலைகள் கல்பிட்டியில் பறிமுதல் செய்யப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-17-virakesarilk-ab3ceb0b)
+- 2026-01-17 | `virakesarilk-f1bb84fb` | நடப்பு சம்பியன் அவுஸ்திரேலியா, முன்னாள் சம்பியன் இங்கிலாந்து வெற்றி; தென் ஆபிரிக்காவை வீழ்த்தியது ஆப்கானிஸ்தான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-17-virakesarilk-f1bb84fb)
 - 2026-01-17 | `dailyftlk-322e7aa6` | US Ambassador pays farewell call on Opposition Leader | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-17-dailyftlk-322e7aa6)
 - 2026-01-17 | `dailyftlk-cf7ef8ae` | ITAK opposes Govt.’s Praja Shakthi program, warns of legal challenge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-17-dailyftlk-cf7ef8ae)
 - 2026-01-17 | `dailyftlk-ed062320` | Interpol ‘Red Notice’ issued against 95 underworld figures hiding overseas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-17-dailyftlk-ed062320)
@@ -54,13 +59,8 @@ A collection of lk_news documents.
 - 2026-01-17 | `dailyftlk-433bc2d0` | Clean Sri Lanka: Can a lofty vision overcome systemic corruption? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-17-dailyftlk-433bc2d0)
 - 2026-01-17 | `dailyftlk-a2e5da0e` | Iqbal Athas spoke truth to power with rare courage, discipline, and integrity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-17-dailyftlk-a2e5da0e)
 - 2026-01-17 | `dailyftlk-cc145c94` | The legacy Iqbal Athas left behind | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-17-dailyftlk-cc145c94)
-- 2026-01-16 | `tamilmirrorlk-1925185c` | ஆயுதங்களுடன் சிக்கிய முன்னாள் இராணுவ கெப்டன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-tamilmirrorlk-1925185c)
-- 2026-01-16 | `tamilmirrorlk-1bb452f0` | மதுவுக்கு பணம் கேட்ட முகாமையாளர் மீது கொடூரமாக தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-tamilmirrorlk-1bb452f0)
-- 2026-01-16 | `virakesarilk-1c105f09` | அமெரிக்க மேற்கு கடற்கரைப் பகுதியில் 6 ரிச்டர் நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-1c105f09)
-- 2026-01-16 | `virakesarilk-1ab6164f` | வருடத்தின் கடைசி மாத சிறந்த ஐசிசி வீரர் மிச்செல் ஸ்டாக், வீராங்கனை லோரா வுல்வார்ட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-1ab6164f)
-- 2026-01-16 | `virakesarilk-e1e83b9a` | இந்தியப் பிரதமரின் தலைமையில்  பொதுநலவாய சபாநாயகர்கள், தலைமை தாங்கும் அதிகாரிகளின் மாநாடு - சபாநாயகர் உள்ளிட்ட இலங்கை பாராளுமன்ற தூதுக் குழுவினரும் பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-e1e83b9a)
-- 2026-01-16 | `virakesarilk-479a5469` | மது அருந்தியதற்காக பணம் அறவிட்ட மதுபானசாலை முகாமையாளரை தாக்கிய கும்பல் ; ஒருவர் கைது ; இருவர் தலைமறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-479a5469)
-- 2026-01-16 | `virakesarilk-6e8d92e6` | நடிகர் ரிச்சர்ட் ரிஷி நடிக்கும் 'திரௌபதி 2 'படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-6e8d92e6)
+- 2026-01-16 | `virakesarilk-9bde148f` | யாழில் தலையில் தேங்காய் விழுந்தலால் குடும்பஸ்தர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-9bde148f)
+- 2026-01-16 | `virakesarilk-87992755` | யாழ்ப்பாண ஸ்ரீ நாக விகாரையில் ஜனாதிபதி சங்கநாயக்க தேரரை சந்தித்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-87992755)
 
 ---
 
