@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-16 11:49:49",
-  "n_docs": 98407,
+  "time_updated": "2026-01-16 13:48:43",
+  "n_docs": 98432,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 98407,
+  "n_docs_with_text": 98432,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-16",
-  "dataset_size": 1492729890,
+  "dataset_size": 1492897713,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-16-tamilmirrorlk-7ded9dcc",
-    "num": "tamilmirrorlk-7ded9dcc",
+    "doc_id": "2026-01-16-virakesarilk-d331c206",
+    "num": "virakesarilk-d331c206",
     "date_str": "2026-01-16",
-    "description": "\u0ba4\u0bbe\u0baf\u0bc8\u0b95\u0bcd\u0b95\u0bca\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0baf\u0bc8 \u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0bcd \u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0baa\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bc8\u0b95\u0bcd\u0b95\u0bca\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0baf\u0bc8-\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0bcd-\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0ba8\u0baa\u0bb0\u0bcd/175-371120",
+    "description": "\u0b9f\u0bc1\u0baa\u0bbe\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bbe\u0ba4\u0bbe\u0bb3 \u0b89\u0bb2\u0b95 \u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0ba9 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/236168",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1768540180.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1768550400.0
   }
 }
