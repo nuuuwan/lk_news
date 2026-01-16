@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--16_19:47:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--16_21:48:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**98,486** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**98,487** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-16-virakesarilk-1c105f09",
-    "num": "virakesarilk-1c105f09",
+    "doc_id": "2026-01-16-tamilmirrorlk-1bb452f0",
+    "num": "tamilmirrorlk-1bb452f0",
     "date_str": "2026-01-16",
-    "description": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd\u00a06 \u0bb0\u0bbf\u0b9a\u0bcd\u0b9f\u0bb0\u0bcd \u0ba8\u0bbf\u0bb2\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/236226",
+    "description": "\u0bae\u0ba4\u0bc1\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0ba3\u0bae\u0bcd \u0b95\u0bc7\u0b9f\u0bcd\u0b9f \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0bae\u0bbe\u0b95 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba4\u0bc1\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0ba3\u0bae\u0bcd-\u0b95\u0bc7\u0b9f\u0bcd\u0b9f-\u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0bae\u0bbe\u0b95-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/175-371151",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1768571820.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1768578841.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-16 | `tamilmirrorlk-1bb452f0` | மதுவுக்கு பணம் கேட்ட முகாமையாளர் மீது கொடூரமாக தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-tamilmirrorlk-1bb452f0)
 - 2026-01-16 | `virakesarilk-1c105f09` | அமெரிக்க மேற்கு கடற்கரைப் பகுதியில் 6 ரிச்டர் நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-1c105f09)
 - 2026-01-16 | `virakesarilk-1ab6164f` | வருடத்தின் கடைசி மாத சிறந்த ஐசிசி வீரர் மிச்செல் ஸ்டாக், வீராங்கனை லோரா வுல்வார்ட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-1ab6164f)
 - 2026-01-16 | `virakesarilk-e1e83b9a` | இந்தியப் பிரதமரின் தலைமையில்  பொதுநலவாய சபாநாயகர்கள், தலைமை தாங்கும் அதிகாரிகளின் மாநாடு - சபாநாயகர் உள்ளிட்ட இலங்கை பாராளுமன்ற தூதுக் குழுவினரும் பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-e1e83b9a)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-16 | `virakesarilk-44355082` | விளையாட்டு அமைச்சின் Lanka Ride தேசிய சைக்கிள் சவாரி: முதலாம் நாள் போட்டி கண்டியில் நிறைவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-44355082)
 - 2026-01-16 | `virakesarilk-df03f317` | மது அருந்துவதால் நாளொன்றுக்கு 50 பேர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-df03f317)
 - 2026-01-16 | `virakesarilk-90e7ff74` | சுற்றுலாத்துறையை ஊக்குவிக்க ஸ்ரீலங்கன் ஏர்லைன்ஸ் முன்னெடுத்துள்ள பாரிய திட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-90e7ff74)
-- 2026-01-16 | `virakesarilk-8cad833c` | வடக்கு, தெற்கு அல்லது கிழக்கில் எந்த இடத்திலும் எந்த வடிவத்திலும், இனவாதத்திற்கு இடமில்லை - யாழில் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-16-virakesarilk-8cad833c)
 
 ---
 
