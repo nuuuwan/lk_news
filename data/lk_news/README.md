@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--18_17:50:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--18_19:46:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**98,673** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**98,674** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,7 @@ A collection of lk_news documents.
 - 2026-01-18 | `virakesarilk-aa33a191` | புதிய கல்வி சீர்திருத்தங்களில் ஏற்பட்டுள்ள பிரச்சினைகளை தீர்ப்பதற்கு துரித நடவடிக்கை ; அஸ்கிரிய, மல்வத்து பீடங்களுக்கு அமைச்சர் நளிந்த விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-18-virakesarilk-aa33a191)
 - 2026-01-18 | `virakesarilk-d896e9d6` | வாகனங்களில் தேவையற்ற அலங்காரங்கள் காணப்பட்டால் சட்ட நடவடிக்கை - பொலிஸார் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-18-virakesarilk-d896e9d6)
 - 2026-01-18 | `tamilmirrorlk-8d5b20af` | வடமாகாண தைப்பொங்கல் வி​​ழாவை புறக்கணித்த அமைச்சர், பிரதியமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-18-tamilmirrorlk-8d5b20af)
+- 2026-01-18 | `adalk-8f29fd16` | ගාල්ල බන්ධනාගාර ළිඳේ නාමින් සිටි රැඳවියා ළිඳට වැටී මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-18-adalk-8f29fd16)
 - 2026-01-18 | `virakesarilk-a10de62f` | ஹரிணிக்கு நடக்கப்போவது என்ன? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-18-virakesarilk-a10de62f)
 - 2026-01-18 | `tamilmirrorlk-d0291b49` | கசிப்பு வியாபாரியை காப்பாற்ற  பொலிஸாரை  தாக்கிய 6 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-18-tamilmirrorlk-d0291b49)
 - 2026-01-18 | `virakesarilk-1319fee5` | மக்கள் விடுதலை முன்னணியின் ஆரம்பகால உறுப்பினரான நந்தன குணதிலக காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-18-virakesarilk-1319fee5)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-18 | `virakesarilk-8f50ee1c` | புதிய கல்விக்கொள்கை அமுல்படுத்தலை பிற்போடவில்லை; அமைச்சர் லால்காந்த | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-18-virakesarilk-8f50ee1c)
 - 2026-01-18 | `virakesarilk-dc561e54` | அலவ்வ பகுதியில் இளைஞர் சுட்டுக் கொலை : பொலிஸார் தீவிர விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-18-virakesarilk-dc561e54)
 - 2026-01-18 | `adalk-2de68f7b` | අම්බලන්ගොඩ රථවාහන දඩවලින් දෙකෝටියක් හොයලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-18-adalk-2de68f7b)
-- 2026-01-18 | `virakesarilk-3974532e` | இந்தோனேசியாவில் விபத்துக்குள்ளான விமானத்தின் பாகங்கள் கண்டுபிடிப்பு - 11 பேரும் உயிரிழந்திருக்கலாம் என்கின்றனர் மீட்புக் குழுவினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-18-virakesarilk-3974532e)
 
 ---
 
