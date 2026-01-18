@@ -1,0 +1,47 @@
+Electricity infrastructure fragility exposed by Ditwah
+
+A national policy would have to set out general principles on how the different elements of the system are to deal with disaster risk. This should address the problems posed by fully state-owned assets where the managers are immune to the pressures that work for private investors
+
+I have been thinking about critical infrastructures because this is a key element of the Cybersecurity legislation that has been in preparation since 2019 and which may finally see the light of day this year. If a critical infrastructure fails for whatever reason, massive harm is caused to the economy and society. That is the ultimate test of criticality.
+
+The first thing we think of is malicious hacker attacks in the context of cybersecurity, but failure is failure whatever the cause: cyber-attack or flood/landslide.
+
+The US Cybersecurity and Infrastructure Security Agency identified 18 critical infrastructures: Chemical, Commercial Facilities, Communications, Critical Manufacturing, Dams, Defence Industrial Base, Emergency Services, Energy, Financial Services, Food and Agriculture, Government Facilities, Healthcare and Public Health, Information Technology, Nuclear Reactors, Materials, and Waste, Transportation Systems, and Water and Wastewater Systems.
+
+Many of these are not relevant in our vastly different conditions. But what I took from a related discussion is the statement that all seventeen critical infrastructures would fail, or be significantly affected, if the energy infrastructure were to fail.
+
+The recent Ditwah disaster gave us a sense of our vulnerabilities (subject to correction).
+
+At least two major hospitals were seriously damaged as were schools and court houses.
+
+Transportation was hit badly: roads, railroads and some vehicles. Airports, ports and expressways were not affected.
+
+Too many people were unable to use telecom services during and after Ditwah. According to a recent news report, “at the peak of the crisis, over 2,000 telecom sites were impacted, leaving several districts without mobile and data services for two to five days. Network outages were primarily caused by prolonged grid power failures, fibre cut due to floods and landslides, site flooding in low-lying areas, and restricted access that delayed restoration efforts.”
+
+Details are lacking on the banking system, but in certain areas people could not withdraw money from ATMs. Credit and debit card transactions and QR payments were also affected. If electricity supply to the port and airport had failed, they would have been crippled, as was shown in the shutdown of Heathrow Airport due to a substation fire in March 2025. The critical infrastructures in Colombo and its suburbs (except Kolonnawa) were mostly spared from the effects of Ditwah.
+
+Electricity failures directly contributed to telecom and banking failures. According to data compiled from public sources:
+
+Around 4 million of the 7 million electricity customers were affected by Ditwah. 40% of CEB’s infrastructure was damaged
+
+As of 5 December, 85% of the affected consumers were reconnected.
+
+The distribution network suffered the most damage with 17,143 transformers out of 39,537 becoming inactive.
+
+2,994 high voltage breakdowns and 32,341 low voltage breakdowns were reported.
+
+It is not easy to make the electricity network resilient, especially from flood damage. Water and electricity do not mix.
+
+Yet the CEB successor companies can surely do better than the CEB did in 2025. The first thing is an independent assessment of system performance that can identify what can be done to minimise the damage next time.
+
+Given climate change, there will be a next time. The Colombo-centric economic engine may not get off so lightly the next time.
+
+If the CEB successor companies are wholly or partially privately owned, the best practice would be to require that they be insured against these kinds of losses. Having the government routinely absorb the additional costs (directly with Treasury funds or by allowing them to be passed on through tariffs) will reward suboptimal design and operation of networks and thereby creates a moral hazard. The companies/managers will continue to spend resources on themselves and not for risk reduction.
+
+In the insurance scenario, unsafe behaviour will drive up insurance premia which may be disallowed by the regulator. Costs and damages not covered by insurance will have to be borne by the shareholders, not by the customers.
+
+This may be effective after the changes envisioned under the Final Transfer Plan (FTP) specified in the 2025 Electricity Act Amendment. The successor entities created by the FTP will have varying degrees of private ownership. Even now there are many private generating plants.
+
+A national policy would have to set out general principles on how the different elements of the system are to deal with disaster risk. This should address the problems posed by fully state-owned assets where the managers are immune to the pressures that work for private investors.
+
+The tariff policy should specify whether disaster-recovery costs can be covered by tariffs, as some are suggesting in the aftermath of Ditwah. Simply dumping these costs on customers without setting in place any incentives for making the system more resilient, sets the stage for future bailouts.

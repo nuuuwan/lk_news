@@ -1,0 +1,65 @@
+Solar power policy teetering at the edge… and a rooftop call for sustainable clarity
+
+The blackout resulted from incorrect transmission protection settings and operational errors at major hydro generation facilities, especially Victoria – not rooftop solar excess. It is noted that the official report by the CEB on the blackout has not highlighted any issues related to rooftop solar in its report. Nonetheless, grid integration remains an unresolved issue
+
+Sri Lanka today stands at a critical juncture in its energy transition. Once lauded for its rapid adoption of rooftop solar and renewable technology, the country’s policy landscape has shifted in ways that risk undermining hard-won gains, destabilising investor confidence and jeopardising national sustainability commitments.
+
+This shift has sparked robust debate among energy specialists – most notably Dr. Vidhura Ralapanawe, a leading voice in renewable energy advocacy – whose concerns encapsulate the tension between short-term policy adjustments and long-term strategic goals.
+
+In June 2025, the Sri Lankan Government enacted a new tariff structure for solar power, significantly cutting feed-in tariffs (FITs) for rooftop and utility solar projects. The previous regime – which had offered reasonably attractive rates – was replaced with rates that, for many industry players as well as households, no longer reflect project economics. Under the revised structure, rooftop solar tariffs range from Rs. 20.90 per kWh for small systems (0-5 kW) down to Rs. 14.46 per kWh for systems above 1 MW.
+
+This represents a sharp reduction compared with past tariff levels – which until recently hovered around Rs. 27.60 per kWh for systems up to 500 kW and Rs. 23.18 per kWh for larger systems. These cuts – exceeding 30% in some segments – were introduced with minimal stakeholder consultation and have become a flashpoint for debate.
+
+At a public briefing in 2025, Dr. Ralapanawe highlighted that the Government’s revised draft policy threatens the viability of rooftop solar expansion. He noted that ambitious targets, such as the Government’s pledge to add 2,000 MW from rooftop solar, have become impractical under the new regime.
+
+Renewable capacity build-out depends not merely on physical panels but on the ecosystem of local service providers – over 700 companies involved in installations, maintenance, and operations. If these firms exit the sector due to poor returns, and some already have done so, that service infrastructure collapses, with losses in jobs for youth and women employed in these SMEs. Noteworthily, the renewables sector is one of the few spheres in Sri Lanka today that offers skilled technical jobs for women and the industry has not a few CEOs heading their startups.
+
+Dr. Ralapanawe also recalled the earlier Soorya Bala Sangramaya era, when a two-tier tariff system offered Rs. 22 per kWh for the first seven years and Rs. 15.50 for the following 13 – a structure that enabled payback and growth. (Ironically, this scheme was initially opposed by the same group that is now working to dismantle the rooftop solar industry.) Today’s abrupt tariff cuts, he argues, may undermine economic sustainability and disincentivise future investment.
+
+Beyond market disincentives, Dr. Ralapanawe and other experts argue that the rollback of the Net++ scheme and removal of other supportive mechanisms have been just as damaging. Under Net++ – now scrapped – commercial and industrial rooftop producers could export surplus electricity beyond their contractual load, effectively monetising excess generation and improving returns. Its removal has constrained future system sizing and reduced the financial appeal of distributed solar.
+
+Despite these policy headwinds, Sri Lanka has made remarkable progress. Rooftop solar capacity, once modest, has surpassed 2 GW (2,000 MW) – 2,185 MW spread across over 150,000 installations by October 2025. This reflects a remarkable decentralisation of generation previously dominated by large hydropower and thermal plants. It is also the energy democratisation which is a core part of the global energy transition. Notably, these additions have come without a single rupee investment in the country’s transmission grid, which is a necessity in large-scale centralised power plants.
+
+The small renewable energy sector – representing solar, wind, biomass and mini-hydro-based generation  –  contributed to 26% of total electricity generation for 2025 – a marked growth from the meagre 10% in 2019. At the same time, the expensive oil-based generation which dominated the sector (25% in 2019) has declined to 12% in 2025, providing a major cost relief to all electricity consumers in the country.
+
+Renewable energy journey – particularly in rooftop solar deployment – has been exemplary by regional standards. But recent policy shifts reveal a tension between immediate administrative priorities and long-term national sustainability targets
+
+Supporters of the tariff revision have cited grid stability concerns, arguing that rapid solar uptake poses challenges without corresponding upgrades. This narrative gained traction around episodes such as the February 2025 blackout, which some officials initially attributed to solar generation impacts. However, Dr. Ralapanawe and others clarified that the blackout resulted from incorrect transmission protection settings and operational errors at major hydro generation facilities, especially Victoria – not rooftop solar excess. It is noted that the official report by the CEB on the blackout has not highlighted any issues related to rooftop solar in its report.
+
+Nonetheless, grid integration remains an unresolved issue. Without adequate Battery Energy Storage Systems (BESS) and modern grid automation, day-time surpluses can’t be efficiently leveraged into evening peak use, undermining both reliability and solar economics. While the Ceylon Electricity Board (CEB) recently introduced a night solar tariff of Rs. 45.80 per kWh for stored solar discharged at peak hours, industry advocates argue these prices are impractical at domestic scale, and constrained by unclear implementation guidelines.
+
+The CEB has also lapsed in terms of its implementation. Its generation plan of 2023 proposed building 300 MW battery storage between 2024 and 2026, not a megawatt of which was built. The utility company tendered 160 MW of battery storage in the latter part of 2025, but the tender award is still pending cabinet approval. These projects came at prices of approx. Rs 17 per kWh, confounding the critics who were complaining about the high cost of battery storage. The capital cost of these projects were 75% cheaper than what the CEB had estimated in their generation plans.
+
+Even other steps for the grid, such as converting the non-used gas generators (which are no longer necessary due to high renewables) into synchronous condensers (syncons) required for strengthening the grid, has not moved forward. This has been delayed by the CEB for over 18 months – and counting.
+
+The policy shifts have already exacted economic costs. Independent reporting notes that local banks have invested over Rs. 100 billion (roughly $ 250 million) in renewable projects. Persistent uncertainties could now jeopardise repayments, put projects at risk, and dampen appetite for future lending.
+
+Further, industry voices warn of tens of thousands of job losses if the rooftop solar ecosystem continues contracting. Closing down of rooftop solar installation companies will leave current rooftop solar power consumers with no service providers to maintain their rooftop solar systems, resulting in inability to enforce warranties or obtain technical assistance.
+
+Sri Lanka has pledged to achieve 70% renewable energy generation by 2030 and carbon neutrality by 2050. Rooftop and distributed solar are central to this trajectory; without them, the country will likely remain dependent on imported fossil fuels – with significant economic and environmental costs.
+
+Sri Lanka appears to be one of the very few countries who is actively placing roadblocks on renewable energy, especially rooftop solar, whilst blessed with ample sunshine that eludes many nations.
+
+Data suggests that existing non-traditional energy sources save approximately $ 620 million in foreign exchange by displacing fossil fuel imports. National imports of fossil fuels still exceed $ 5 billion annually, underscoring the stakes of halting clean energy growth.
+
+Moreover, the World Bank warned that Sri Lanka risks losing up to $ 1.2 billion in climate financing if it backtracks on renewable commitments. Such losses would strain public finances and slow infrastructure investments.
+
+High-level discourse now needs to shift from reactive policy tinkering to comprehensive, stable frameworks. Based on expert analysis and industry feedback, the following policy priorities should command immediate attention:
+
+Tariffs should reflect economic fundamentals – including renewable capital costs, exchange rates, and finance costs – without large arbitrary cuts. There is also the hoary issue of return on investment: for many prosumers, there are long-term investments entered into with an eye on ROI. Many countries around the world including India and Australia also provide financial subsidies to ensure rapid payback and high returns on investments to promote this sector. Restoring confidence via a clear, long-term tariff policy can ameliorate investor risk premiums.
+
+Strengthen grid management through smart technologies and invest decisively in BESS integration, syncons – all to minimise curtailment and enable surplus solar to meet peak demand.
+
+Energy regulations, especially tariff changes, should be governed by independent regulators such as the Public Utilities Commission of Sri Lanka (PUCSL), with mandatory stakeholder consultation to prevent abrupt reversals. Unfortunately, the entity entrusted with managing energy policy – the National Electricity Advisory Council (NEAC), which was created by the Electricity Act of 2024 – was abolished by the 2025 amendment: a dismantling that appears to have led directly to these dismal policy reversals. Meanwhile, tariff setting powers for FITs are likely to be given to the PUCSL – most probably in the second quarter of 2026 – when the new act comes fully into force.
+
+Rooftop solar limits should be based on future demand projections, not historical consumption alone. This would encourage smart growth, including electric vehicle charging infrastructure, and commercial and industrial electrification. Also, to take a leaf from a First World notebook, Sri Lanka would do well to consider a scheme such as the three hours or so of free electricity during solar peak hours – a salutary plan that becomes operational in Australia from this year.
+
+Policy shifts have already exacted economic costs. Independent reporting notes that local banks have invested over Rs. 100 billion (roughly $ 250 million) in renewable projects. Persistent uncertainties could now jeopardise repayments, put projects at risk, and dampen appetite for future lending
+
+Align domestic energy policy with climate commitments to secure international financing and reduce reliance on imported fuel.
+
+Sri Lanka’s renewable energy journey – particularly in rooftop solar deployment – has been exemplary by regional standards. But recent policy shifts reveal a tension between immediate administrative priorities and long-term national sustainability targets.
+
+As Dr. Ralapanawe and other experts have emphasised – stable, transparent, and economically rational policy frameworks are essential not only for investor confidence but for national energy security and environmental commitments too.
+
+If the Government recalibrates its approach with these principles at the forefront, Sri Lanka can still harness rooftop solar’s full potential, drive economic resilience, and anchor its climate leadership in the region.
