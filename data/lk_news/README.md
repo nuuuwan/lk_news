@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--20_01:47:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--20_03:46:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**98,807** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**98,834** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-20-dailyftlk-f3b07639",
-    "num": "dailyftlk-f3b07639",
+    "doc_id": "2026-01-20-dailyftlk-4ec98a48",
+    "num": "dailyftlk-4ec98a48",
     "date_str": "2026-01-20",
-    "description": "The mindful executive: How meditation powers leadership performance",
-    "url_metadata": "https://www.ft.lk/columns/The-mindful-executive-How-meditation-powers-leadership-performance/4-787133",
+    "description": "Permia Sensing wins UAE FoodTech Challenge 2026",
+    "url_metadata": "https://www.ft.lk/business/Permia-Sensing-wins-UAE-FoodTech-Challenge-2026/34-787160",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1768853673.0
+    "time_ut": 1768859879.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-20 | `dailyftlk-4ec98a48` | Permia Sensing wins UAE FoodTech Challenge 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-4ec98a48)
+- 2026-01-20 | `dailyftlk-e98d6cb8` | Hemas announces transformation drive  for faster, data-driven execution and growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-e98d6cb8)
+- 2026-01-20 | `dailyftlk-5f59f5bd` | Govt. steps up digital push with global research partnerships, smart transport and education reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-5f59f5bd)
+- 2026-01-20 | `dailyftlk-1d18752a` | CA Sri Lanka to herald new leadership today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-1d18752a)
+- 2026-01-20 | `dailyftlk-105bbc5a` | Radisson Blu Galadari Colombo launches  “Race to the Blu Future – Career Open Day” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-105bbc5a)
+- 2026-01-20 | `dailyftlk-f9cf1c5c` | Reshaping the future of Haj operations: Beyond the quota framework | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-f9cf1c5c)
+- 2026-01-20 | `virakesarilk-70df6254` | இ.போ.ச பேருந்து விபத்து வழக்கு: சாரதிக்கு ஒரு ஆண்டு கடூழியச் சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-70df6254)
+- 2026-01-20 | `virakesarilk-1c9abe58` | இவ்வாண்டு இறுதிக்குள் மாகாணசபைத்தேர்தல்கள் நிச்சயம் நடாத்தப்படவேண்டும் - சுரேஷ் பிரேமசந்திரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-1c9abe58)
+- 2026-01-20 | `virakesarilk-db100990` | மாகாணசபைத்தேர்தலை இழுத்தடிக்கும் அரசாங்கத்தில் முயற்சியை முறியடிப்பது எப்படி? - தமிழரசுக்கட்சி, ஜனநாயக தமிழ்த்தேசிய கூட்டணி இன்று யாழில் கூடி ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-db100990)
+- 2026-01-20 | `virakesarilk-09a610eb` | பாடாசலையில் ஊடகக்கல்வியை பரந்துபட்டதாக மாற்றவேண்டும் - விஜயானந்த ஜயவீர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-09a610eb)
+- 2026-01-20 | `virakesarilk-27e8b15a` | ஜனாதிபதிக்கு எதிராக குற்றப்புலனாய்வுத் திணைக்களத்தில் முறைப்பாடு; இனங்களுக்கிடையே மோதலைத் தூண்டுவதாகக் குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-27e8b15a)
+- 2026-01-20 | `virakesarilk-015cb16a` | பணியாளரை நிர்வாணப்படுத்தி காணொளி வெளியிட்ட பிரபல வர்த்தகர் உட்பட மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-015cb16a)
 - 2026-01-20 | `dailyftlk-f3b07639` | The mindful executive: How meditation powers leadership performance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-f3b07639)
 - 2026-01-20 | `dailyftlk-0a7d19c6` | The story of Maya and friends: How AI is quietly redefining work | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-0a7d19c6)
 - 2026-01-20 | `dailyftlk-f07fca24` | How Singapore was built and why it still matters to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-f07fca24)
+- 2026-01-20 | `virakesarilk-adc762f8` | செம்மணி புதைகுழிக்குள் வெள்ளம்; வழக்கு 09ஆம் திகதிக்கு ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-adc762f8)
 - 2026-01-20 | `dailyftlk-5507ee91` | Fix the Tourism Act but don’t break the industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-5507ee91)
 - 2026-01-20 | `dailyftlk-a8d5bb65` | PEARL releases  new report on alleged ‘Sinhalisation’  in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-a8d5bb65)
 - 2026-01-20 | `dailyftlk-67a2b6c3` | Managing unauthorised returns: A challenge for Safe Centres and recovery systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-67a2b6c3)
-- 2026-01-19 | `tamilmirrorlk-3c3f5a95` | தேசிய கல்வி நிறுவக பிரதிப் பணிப்பாளருக்கு கட்டாய விடுமுறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-tamilmirrorlk-3c3f5a95)
-- 2026-01-19 | `tamilmirrorlk-9620f1f3` | தொழிற்சங்க நடவடிக்கையில் ஈடுபடவுள்ள வைத்தியர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-tamilmirrorlk-9620f1f3)
-- 2026-01-19 | `tamilmirrorlk-506d8ecc` | உங்கள் பெயரை நிலவுக்கு அனுப்பவும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-tamilmirrorlk-506d8ecc)
-- 2026-01-19 | `tamilmirrorlk-7730a800` | கலஹாவில் நீல நிற ரத்தினக்கல் பாறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-tamilmirrorlk-7730a800)
-- 2026-01-19 | `adalk-dac3ff39` | ස්පාඤ්ඤ දුම්රිය අනතුරින් මිය ගිය ගණන 39ක් දක්වා ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-adalk-dac3ff39)
-- 2026-01-19 | `tamilmirrorlk-4c8dfab3` | மேர்வின் சில்வாவிற்கு எதிரான வழக்கு விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-tamilmirrorlk-4c8dfab3)
-- 2026-01-19 | `tamilmirrorlk-a08008f0` | புத்தர் சிலை விவகாரம்: 10 பேருக்கும்  விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-tamilmirrorlk-a08008f0)
-- 2026-01-19 | `tamilmirrorlk-71a349ec` | திருகோணமலை புத்தர் சிலை விவகாரம்: 10 பேருக்கும்  விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-tamilmirrorlk-71a349ec)
-- 2026-01-19 | `adalk-cafc213b` | කාන්තාවක් නිරුවත් කර වීඩියෝ කළ ව්‍යාපාරිකයා ඇතුළු  තිදෙනෙක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-adalk-cafc213b)
-- 2026-01-19 | `adalk-c8076697` | නැගෙනහිර රජයේ රෝහල් අඩපනයි රෝගීන් දැඩි පීඩාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-adalk-c8076697)
-- 2026-01-19 | `virakesarilk-a3483986` | மீன்பிடி தொழிலுக்காக கடலுக்குச் சென்ற மீனவர்கள் இருவர் மாயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-virakesarilk-a3483986)
-- 2026-01-19 | `virakesarilk-23908e6a` | புத்தம் புதிய பாலில் இருந்து ஆடம்பர ஓய்வுப் பயணங்கள் : “Scan & Win Big” வெற்றியாளர்கள் 10 பேருக்கு அம்பேவல வெகுமதிகளை வழங்கியுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-virakesarilk-23908e6a)
-- 2026-01-19 | `virakesarilk-d2e0ee0e` | நாட்டை மீண்டும் கட்டியெழுப்பும் 'Rebuilding Sri Lanka' நிதியத்திற்கு கிடைக்கும் நன்கொடைகள்: இணையதளம் ஊடாக விபரங்களை அறியலாம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-virakesarilk-d2e0ee0e)
-- 2026-01-19 | `virakesarilk-870902c2` | வீட்டுப் பணிப்பெண்ணை நண்பர்கள் முன்னிலையில் நிர்வாணமாக்கி காணொளி எடுத்த பிரபல வர்த்தகர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-virakesarilk-870902c2)
+- 2026-01-19 | `virakesarilk-ccdc04a7` | நாட்டின் உயர்ந்த வெப்பநிலை இரத்தினபுரியில்  பதிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-virakesarilk-ccdc04a7)
 
 ---
 
