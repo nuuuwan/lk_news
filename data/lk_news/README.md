@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--19_23:49:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--20_01:47:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**98,801** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**98,807** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-19-tamilmirrorlk-3c3f5a95",
-    "num": "tamilmirrorlk-3c3f5a95",
-    "date_str": "2026-01-19",
-    "description": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0b95 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u0baf \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0b95\u0bb2\u0bcd\u0bb5\u0bbf-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0b95-\u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0baa\u0bcd-\u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u0baf-\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8/175-371276",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1768845260.0
+    "doc_id": "2026-01-20-dailyftlk-f3b07639",
+    "num": "dailyftlk-f3b07639",
+    "date_str": "2026-01-20",
+    "description": "The mindful executive: How meditation powers leadership performance",
+    "url_metadata": "https://www.ft.lk/columns/The-mindful-executive-How-meditation-powers-leadership-performance/4-787133",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768853673.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-20 | `dailyftlk-f3b07639` | The mindful executive: How meditation powers leadership performance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-f3b07639)
+- 2026-01-20 | `dailyftlk-0a7d19c6` | The story of Maya and friends: How AI is quietly redefining work | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-0a7d19c6)
+- 2026-01-20 | `dailyftlk-f07fca24` | How Singapore was built and why it still matters to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-f07fca24)
+- 2026-01-20 | `dailyftlk-5507ee91` | Fix the Tourism Act but don’t break the industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-5507ee91)
+- 2026-01-20 | `dailyftlk-a8d5bb65` | PEARL releases  new report on alleged ‘Sinhalisation’  in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-a8d5bb65)
+- 2026-01-20 | `dailyftlk-67a2b6c3` | Managing unauthorised returns: A challenge for Safe Centres and recovery systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-67a2b6c3)
 - 2026-01-19 | `tamilmirrorlk-3c3f5a95` | தேசிய கல்வி நிறுவக பிரதிப் பணிப்பாளருக்கு கட்டாய விடுமுறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-tamilmirrorlk-3c3f5a95)
 - 2026-01-19 | `tamilmirrorlk-9620f1f3` | தொழிற்சங்க நடவடிக்கையில் ஈடுபடவுள்ள வைத்தியர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-tamilmirrorlk-9620f1f3)
 - 2026-01-19 | `tamilmirrorlk-506d8ecc` | உங்கள் பெயரை நிலவுக்கு அனுப்பவும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-tamilmirrorlk-506d8ecc)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-01-19 | `virakesarilk-23908e6a` | புத்தம் புதிய பாலில் இருந்து ஆடம்பர ஓய்வுப் பயணங்கள் : “Scan & Win Big” வெற்றியாளர்கள் 10 பேருக்கு அம்பேவல வெகுமதிகளை வழங்கியுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-virakesarilk-23908e6a)
 - 2026-01-19 | `virakesarilk-d2e0ee0e` | நாட்டை மீண்டும் கட்டியெழுப்பும் 'Rebuilding Sri Lanka' நிதியத்திற்கு கிடைக்கும் நன்கொடைகள்: இணையதளம் ஊடாக விபரங்களை அறியலாம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-virakesarilk-d2e0ee0e)
 - 2026-01-19 | `virakesarilk-870902c2` | வீட்டுப் பணிப்பெண்ணை நண்பர்கள் முன்னிலையில் நிர்வாணமாக்கி காணொளி எடுத்த பிரபல வர்த்தகர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-virakesarilk-870902c2)
-- 2026-01-19 | `adalk-b6bae823` | එංගලන්තයේ අවුරුදු 16ට අඩු දරුවන්ට සමාජ මාධ්‍ය තහනම් කරන්න යැයි ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-adalk-b6bae823)
-- 2026-01-19 | `virakesarilk-27cb21f4` | வேன் - லொறி மோதி விபத்து ; 5 பேர் வைத்தியசாலையில் அனுமதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-virakesarilk-27cb21f4)
-- 2026-01-19 | `virakesarilk-05dc1482` | பல பகுதிகளில் வளியின் தரம் குறைவடைந்துள்ளது ; விழிப்புடன் இருக்குமாறு  அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-virakesarilk-05dc1482)
-- 2026-01-19 | `virakesarilk-58ccc8ab` | பாகிஸ்தானில் கல்வி பயின்று திரும்பிய இலங்கை மாணவர்களுக்கு விசேட வரவேற்பு அளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-virakesarilk-58ccc8ab)
-- 2026-01-19 | `virakesarilk-0f25a7b5` | இந்தியாவின் வடமேற்கு காஷ்மீரில் சக்திவாய்ந்த நிலநடுக்கம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-virakesarilk-0f25a7b5)
-- 2026-01-19 | `adalk-8c4b9240` | ගාල්ලේ රැදවියා මියගියේ සුෂුම්නාව කැඩීමෙන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-adalk-8c4b9240)
 
 ---
 
