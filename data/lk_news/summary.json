@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-19 03:45:45",
-  "n_docs": 98690,
+  "time_updated": "2026-01-19 06:09:20",
+  "n_docs": 98712,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 98690,
+  "n_docs_with_text": 98712,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-19",
-  "dataset_size": 1497072054,
+  "dataset_size": 1497546068,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-19-dailyftlk-6ccf4769",
-    "num": "dailyftlk-6ccf4769",
+    "doc_id": "2026-01-19-dailyftlk-48c2e5a4",
+    "num": "dailyftlk-48c2e5a4",
     "date_str": "2026-01-19",
-    "description": "Solar power policy teetering at the edge\u2026 and a rooftop call for sustainable clarity",
-    "url_metadata": "https://www.ft.lk/columns/Solar-power-policy-teetering-at-the-edge-and-a-rooftop-call-for-sustainable-clarity/4-787097",
+    "description": "Steering Committee begins post-Ditwah disaster needs assessment",
+    "url_metadata": "https://www.ft.lk/news/Steering-Committee-begins-post-Ditwah-disaster-needs-assessment/56-787106",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1768773766.0
+    "time_ut": 1768777243.0
   }
 }
