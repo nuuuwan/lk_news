@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--20_03:46:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--20_06:07:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**98,834** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**98,850** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-20-dailyftlk-4ec98a48",
-    "num": "dailyftlk-4ec98a48",
+    "doc_id": "2026-01-20-dailyftlk-def98019",
+    "num": "dailyftlk-def98019",
     "date_str": "2026-01-20",
-    "description": "Permia Sensing wins UAE FoodTech Challenge 2026",
-    "url_metadata": "https://www.ft.lk/business/Permia-Sensing-wins-UAE-FoodTech-Challenge-2026/34-787160",
+    "description": "Sajith dismisses reports of deadlock over Constitutional Council appointments",
+    "url_metadata": "https://www.ft.lk/news/Sajith-dismisses-reports-of-deadlock-over-Constitutional-Council-appointments/56-787184",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1768859879.0
+    "time_ut": 1768866065.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-20 | `dailyftlk-def98019` | Sajith dismisses reports of deadlock over Constitutional Council appointments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-def98019)
+- 2026-01-20 | `dailyftlk-de62ef2f` | Manusha withdraws Supreme Court petition on CID arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-de62ef2f)
+- 2026-01-20 | `dailyftlk-018c6d90` | NIE Deputy Director General sent on compulsory leave over Grade 6 English module issue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-018c6d90)
+- 2026-01-20 | `dailyftlk-762e1118` | Sarvesh Suri named IFC’s Regional Vice President for Asia and the Pacific | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-762e1118)
 - 2026-01-20 | `dailyftlk-4ec98a48` | Permia Sensing wins UAE FoodTech Challenge 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-4ec98a48)
 - 2026-01-20 | `dailyftlk-e98d6cb8` | Hemas announces transformation drive  for faster, data-driven execution and growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-e98d6cb8)
 - 2026-01-20 | `dailyftlk-5f59f5bd` | Govt. steps up digital push with global research partnerships, smart transport and education reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-5f59f5bd)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-01-20 | `dailyftlk-0a7d19c6` | The story of Maya and friends: How AI is quietly redefining work | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-0a7d19c6)
 - 2026-01-20 | `dailyftlk-f07fca24` | How Singapore was built and why it still matters to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-f07fca24)
 - 2026-01-20 | `virakesarilk-adc762f8` | செம்மணி புதைகுழிக்குள் வெள்ளம்; வழக்கு 09ஆம் திகதிக்கு ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-adc762f8)
-- 2026-01-20 | `dailyftlk-5507ee91` | Fix the Tourism Act but don’t break the industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-5507ee91)
-- 2026-01-20 | `dailyftlk-a8d5bb65` | PEARL releases  new report on alleged ‘Sinhalisation’  in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-a8d5bb65)
-- 2026-01-20 | `dailyftlk-67a2b6c3` | Managing unauthorised returns: A challenge for Safe Centres and recovery systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-67a2b6c3)
-- 2026-01-19 | `virakesarilk-ccdc04a7` | நாட்டின் உயர்ந்த வெப்பநிலை இரத்தினபுரியில்  பதிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-19-virakesarilk-ccdc04a7)
 
 ---
 
