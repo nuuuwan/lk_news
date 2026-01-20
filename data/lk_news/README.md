@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--20_06:07:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--20_08:26:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**98,850** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**98,856** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-20-dailyftlk-def98019",
-    "num": "dailyftlk-def98019",
+    "doc_id": "2026-01-20-tamilmirrorlk-f3f34688",
+    "num": "tamilmirrorlk-f3f34688",
     "date_str": "2026-01-20",
-    "description": "Sajith dismisses reports of deadlock over Constitutional Council appointments",
-    "url_metadata": "https://www.ft.lk/news/Sajith-dismisses-reports-of-deadlock-over-Constitutional-Council-appointments/56-787184",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1768866065.0
+    "description": "\u0b8e\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0baf\u0bcd\u0b9a\u0bcd\u0b9a\u0bb2\u0bbe\u0bb2\u0bcd \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0baf\u0bcd\u0b9a\u0bcd\u0b9a\u0bb2\u0bbe\u0bb2\u0bcd-\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-371282",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1768877512.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-20 | `tamilmirrorlk-f3f34688` | எலிக்காய்ச்சலால் குடும்பஸ்தர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-tamilmirrorlk-f3f34688)
+- 2026-01-20 | `tamilmirrorlk-618230b7` | இன்று பனிமூட்டமான காலநிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-tamilmirrorlk-618230b7)
+- 2026-01-20 | `tamilmirrorlk-dec84863` | செம்மணி மனித புதைகுழி: வெள்ள நீரை அகற்ற முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-tamilmirrorlk-dec84863)
+- 2026-01-20 | `tamilmirrorlk-672477f7` | 28 கோடி ரூபாய் பணம்,சொத்துடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-tamilmirrorlk-672477f7)
+- 2026-01-20 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-3a015e4a)
 - 2026-01-20 | `dailyftlk-def98019` | Sajith dismisses reports of deadlock over Constitutional Council appointments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-def98019)
 - 2026-01-20 | `dailyftlk-de62ef2f` | Manusha withdraws Supreme Court petition on CID arrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-de62ef2f)
 - 2026-01-20 | `dailyftlk-018c6d90` | NIE Deputy Director General sent on compulsory leave over Grade 6 English module issue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-018c6d90)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-01-20 | `virakesarilk-db100990` | மாகாணசபைத்தேர்தலை இழுத்தடிக்கும் அரசாங்கத்தில் முயற்சியை முறியடிப்பது எப்படி? - தமிழரசுக்கட்சி, ஜனநாயக தமிழ்த்தேசிய கூட்டணி இன்று யாழில் கூடி ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-db100990)
 - 2026-01-20 | `virakesarilk-09a610eb` | பாடாசலையில் ஊடகக்கல்வியை பரந்துபட்டதாக மாற்றவேண்டும் - விஜயானந்த ஜயவீர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-09a610eb)
 - 2026-01-20 | `virakesarilk-27e8b15a` | ஜனாதிபதிக்கு எதிராக குற்றப்புலனாய்வுத் திணைக்களத்தில் முறைப்பாடு; இனங்களுக்கிடையே மோதலைத் தூண்டுவதாகக் குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-27e8b15a)
-- 2026-01-20 | `virakesarilk-015cb16a` | பணியாளரை நிர்வாணப்படுத்தி காணொளி வெளியிட்ட பிரபல வர்த்தகர் உட்பட மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-015cb16a)
-- 2026-01-20 | `dailyftlk-f3b07639` | The mindful executive: How meditation powers leadership performance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-f3b07639)
-- 2026-01-20 | `dailyftlk-0a7d19c6` | The story of Maya and friends: How AI is quietly redefining work | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-0a7d19c6)
-- 2026-01-20 | `dailyftlk-f07fca24` | How Singapore was built and why it still matters to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-dailyftlk-f07fca24)
-- 2026-01-20 | `virakesarilk-adc762f8` | செம்மணி புதைகுழிக்குள் வெள்ளம்; வழக்கு 09ஆம் திகதிக்கு ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-adc762f8)
 
 ---
 
