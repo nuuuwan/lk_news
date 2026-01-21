@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--21_08:24:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--21_10:03:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**98,972** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**98,977** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-21-dailyftlk-5a50f186",
-    "num": "dailyftlk-5a50f186",
+    "doc_id": "2026-01-21-tamilmirrorlk-9260ad6b",
+    "num": "tamilmirrorlk-9260ad6b",
     "date_str": "2026-01-21",
-    "description": "CMA Sri Lanka to host Integrated Reporting and Sustainability Accounting Standards Workshop",
-    "url_metadata": "https://www.ft.lk/business/CMA-Sri-Lanka-to-host-Integrated-Reporting-and-Sustainability-Accounting-Standards-Workshop/34-787213",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1768958233.0
+    "description": "\u0bb5\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 23 \u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9-\u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8-23-\u0b86\u0bae\u0bcd-\u0ba4\u0bbf\u0b95\u0ba4\u0bbf-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd-\u0b85\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd/175-371331",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1768966524.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-21 | `tamilmirrorlk-9260ad6b` | வரட்சியான வானிலை 23 ஆம் திகதி மாற்றம் அடையும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-tamilmirrorlk-9260ad6b)
+- 2026-01-21 | `tamilmirrorlk-84c1289b` | 900 மில்லியன் ரூபாய் பெறுமதியான ஐஸுடன் ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-tamilmirrorlk-84c1289b)
+- 2026-01-21 | `tamilmirrorlk-4a343f18` | இன்று முதல் பாடசாலை ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-tamilmirrorlk-4a343f18)
+- 2026-01-21 | `adalk-872606f7` | මේ වසරේදී ඊශ්‍රායල් සාත්තු සේවා රැකියා දහසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-adalk-872606f7)
+- 2026-01-21 | `adalk-2273a600` | කොරියානු රැකියා අපේක්ෂිතයින්ට සුභ පණිවුඩයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-adalk-2273a600)
 - 2026-01-21 | `dailyftlk-5a50f186` | CMA Sri Lanka to host Integrated Reporting and Sustainability Accounting Standards Workshop | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-5a50f186)
 - 2026-01-21 | `dailyftlk-d401902f` | Tishan Subasinghe takes the reins as 28th President of CA Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-d401902f)
 - 2026-01-21 | `dailyftlk-7bb3d192` | Clean Waterways’ initiative targets Beira Lake restoration under Rs. 2.5 b plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-7bb3d192)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-01-21 | `tamilmirrorlk-f0a16cd0` | சிறைச்சாலைகள் நிரம்பி வழிகின்றன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-tamilmirrorlk-f0a16cd0)
 - 2026-01-21 | `tamilmirrorlk-c13dbb63` | ’குறைகளை நிவர்த்தி செய்தால் ஒத்துழைப்பு’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-tamilmirrorlk-c13dbb63)
 - 2026-01-21 | `tamilmirrorlk-16568338` | ’நீதிக்கு இனமில்லை’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-tamilmirrorlk-16568338)
-- 2026-01-21 | `dailyftlk-2206f0bc` | Cabinet nod to amend pension provisions for public officers recruited after 2016 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-2206f0bc)
-- 2026-01-21 | `dailyftlk-34a25779` | BASL warns against interference with Attorney General’s functions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-34a25779)
-- 2026-01-21 | `dailyftlk-7f8ae4d6` | WNPS raises serious environmental, legal concerns over Mannar Wind Power project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-7f8ae4d6)
-- 2026-01-21 | `dailyftlk-570728d7` | Estate workers to get incentive allowance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-570728d7)
-- 2026-01-21 | `dailyftlk-9610e2cb` | Young journalist off to India on scholarship | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-9610e2cb)
 
 ---
 
