@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--22_01:51:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--22_03:48:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,074** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,075** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-21-tamilmirrorlk-97152af8",
-    "num": "tamilmirrorlk-97152af8",
-    "date_str": "2026-01-21",
-    "description": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba4\u0bbf \u0b89\u0bb2\u0b95 \u0b85\u0bb4\u0b95\u0bbf\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd \u0b9a\u0baa\u0bc0\u0ba9\u0bbe \u0baf\u0bc2\u0b9a\u0bc1\u0baa\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba4\u0bbf-\u0b89\u0bb2\u0b95-\u0b85\u0bb4\u0b95\u0bbf\u0baa\u0bcd-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0b99\u0bcd\u0b95\u0bc1-\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd-\u0b9a\u0baa\u0bc0\u0ba9\u0bbe-\u0baf\u0bc2\u0b9a\u0bc1\u0baa\u0bcd/175-371371",
+    "doc_id": "2026-01-22-virakesarilk-3c985cf9",
+    "num": "virakesarilk-3c985cf9",
+    "date_str": "2026-01-22",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc6\u0bb4\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bae\u0bcd\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf: \u0b9a\u0b9f\u0bcd\u0b9f\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0b86\u0bb5\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bae\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95 \u0bb9\u0bb0\u0bcd\u0bb7 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe \u0b9a\u0bb5\u0bbe\u0bb2\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/236635",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1769011289.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1769033520.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-22 | `virakesarilk-3c985cf9` | இலங்கையை கட்டியெழுப்பும் நிதியம்குறித்து கேள்வி: சட்டபூர்வ ஆவணங்களை சமர்ப்பிக்க ஹர்ஷ டி சில்வா சவால் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-virakesarilk-3c985cf9)
 - 2026-01-21 | `tamilmirrorlk-97152af8` | திருமதி உலக அழகிப் போட்டியில் பங்கு கொள்ளும் சபீனா யூசுப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-tamilmirrorlk-97152af8)
 - 2026-01-21 | `virakesarilk-8b6a9d97` | ஐசிசி ரி20 ஆடவர் உலகக் கிண்ணத்திற்காக வெளியிடப்பட்ட போட்டி அட்டவணையை தொடர சர்வதேச கிரிக்கெட் பேரவை (ICC) தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-8b6a9d97)
 - 2026-01-21 | `virakesarilk-3afd6445` | ICC T20 உலகக்கிண்ணப் போட்டியில் வழங்கப்படும் கோப்பையை, இந்நாட்டில் காட்சிப்படுத்தும் சுற்றுப்பயணம் ஜனாதிபதியின் தலைமையில் உத்தியோகபூர்வமாக ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-3afd6445)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-21 | `virakesarilk-20511cd5` | நாட்டின் ஆட்சியாளர்கள் பௌத்த மதத்தைப் பாதுகாக்கக் கடமைப்பட்டுள்ளனர் - முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-20511cd5)
 - 2026-01-21 | `virakesarilk-bdc5fa0c` | பெருந்தோட்ட தொழிலாளர்களுக்கு 1,750 ரூபா சம்பள உயர்வு  பெப்ரவரி 10ஆம் திகதி முதல் அமுல் – சமன்த வித்தியாரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-bdc5fa0c)
 - 2026-01-21 | `virakesarilk-deb51128` | சட்டமா அதிபர் திணைக்களத்தின் சுயாதீனத் தை உறுதிப்படுத்துங்கள் ; இலங்கைச் சட்டத்தரணிகள் சங்கம் அரசாங்கத்திடம் வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-deb51128)
-- 2026-01-21 | `adalk-3f768caf` | ඉන්දුනීසියාවේ විශාලම පොල් ආශ්‍රිත සැකසුම් සමාගම් සී.බී.එල්. අත්පත් කර ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-adalk-3f768caf)
 
 ---
 
