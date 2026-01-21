@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-21 03:47:36",
-  "n_docs": 98943,
+  "time_updated": "2026-01-21 06:08:38",
+  "n_docs": 98962,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 98943,
+  "n_docs_with_text": 98962,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-21",
-  "dataset_size": 1501643451,
+  "dataset_size": 1501852571,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-21-tamilmirrorlk-16568338",
-    "num": "tamilmirrorlk-16568338",
+    "doc_id": "2026-01-21-dailyftlk-8ca3ff37",
+    "num": "dailyftlk-8ca3ff37",
     "date_str": "2026-01-21",
-    "description": "\u2019\u0ba8\u0bc0\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba9\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0ba9\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/175-371324",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1768945977.0
+    "description": "Need the right institutions and processes to override politics in curricular reforms",
+    "url_metadata": "https://www.ft.lk/columns/Need-the-right-institutions-and-processes-to-override-politics-in-curricular-reforms/4-787205",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768955554.0
   }
 }
