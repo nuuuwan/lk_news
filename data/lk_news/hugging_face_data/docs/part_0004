@@ -28412,6 +28412,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-20-adalk-8d925384",
+    "num": "adalk-8d925384",
+    "date_str": "2026-01-20",
+    "description": "\u0da2\u0db1\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba \u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da8\u0dad\u0dcf \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1 \u0d8b\u0dc5\u0dd9\u0dbd\u0dda\u0daf\u0dd3 Ada.lk \u0d9a\u0dd4\u0dc3\u0dbd\u0dad\u0dcf \u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba \u0daf\u0dd2\u0db1\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db8\u0dcf\u0db0\u0dca\u200d\u0dba-\u0dc0\u0dd2\u0dc1\u0dd2\u0dc2\u0dca\u0da8\u0dad\u0dcf-\u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1-\u0d8b\u0dc5\u0dd9\u0dbd\u0dda\u0daf\u0dd3-Ada-lk-\u0d9a\u0dd4\u0dc3\u0dbd\u0dad\u0dcf-\u0dc3\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba-\u0daf\u0dd2\u0db1\u0dba\u0dd2/11-420877",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1768920861.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-20-tamilmirrorlk-bd45ca21",
     "num": "tamilmirrorlk-bd45ca21",
     "date_str": "2026-01-20",
@@ -28640,5 +28651,104 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1768955554.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-21-adalk-424117dc",
+    "num": "adalk-424117dc",
+    "date_str": "2026-01-21",
+    "description": "\u0d85\u0daf \u0dc0\u0dd0\u0dc3\u0dd2 \u0dbb\u0dc4\u0dd2\u0dad \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2-\u0dbb\u0dc4\u0dd2\u0dad-\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0d9a\u0dca/11-420878",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1768956294.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-21-dailyftlk-0ceae9e2",
+    "num": "dailyftlk-0ceae9e2",
+    "date_str": "2026-01-21",
+    "description": "2026 Passport Rankings: Positioning Sri Lanka\u2019s Passport as a strategic national asset",
+    "url_metadata": "https://www.ft.lk/columns/2026-Passport-Rankings-Positioning-Sri-Lanka-s-Passport-as-a-strategic-national-asset/4-787206",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768956375.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-21-dailyftlk-bdeea975",
+    "num": "dailyftlk-bdeea975",
+    "date_str": "2026-01-21",
+    "description": "Flood control must begin at source, not at flood plains",
+    "url_metadata": "https://www.ft.lk/columns/Flood-control-must-begin-at-source-not-at-flood-plains/4-787207",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768957171.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-21-dailyftlk-871a78fe",
+    "num": "dailyftlk-871a78fe",
+    "date_str": "2026-01-21",
+    "description": "Maldives: 52 years of transformation into Asia\u2019s wealthiest nation per capita",
+    "url_metadata": "https://www.ft.lk/columns/Maldives-52-years-of-transformation-into-Asia-s-wealthiest-nation-per-capita/4-787208",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768957658.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-21-dailyftlk-89b8ffaf",
+    "num": "dailyftlk-89b8ffaf",
+    "date_str": "2026-01-21",
+    "description": "Speaker of Parliament concludes week-long visit to India",
+    "url_metadata": "https://www.ft.lk/news/Speaker-of-Parliament-concludes-week-long-visit-to-India/56-787209",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768957795.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-21-dailyftlk-d8775020",
+    "num": "dailyftlk-d8775020",
+    "date_str": "2026-01-21",
+    "description": "World\u2019s largest natural purple star sapphire introduced to global scientific and cultural record",
+    "url_metadata": "https://www.ft.lk/news/World-s-largest-natural-purple-star-sapphire-introduced-to-global-scientific-and-cultural-record/56-787210",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768957858.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-21-dailyftlk-7bb3d192",
+    "num": "dailyftlk-7bb3d192",
+    "date_str": "2026-01-21",
+    "description": "Clean Waterways\u2019 initiative targets Beira Lake restoration under Rs. 2.5 b plan",
+    "url_metadata": "https://www.ft.lk/news/Clean-Waterways-initiative-targets-Beira-Lake-restoration-under-Rs-2-5-b-plan/56-787211",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768957977.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-21-dailyftlk-d401902f",
+    "num": "dailyftlk-d401902f",
+    "date_str": "2026-01-21",
+    "description": "Tishan Subasinghe takes the reins as 28th President of CA Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/Tishan-Subasinghe-takes-the-reins-as-28th-President-of-CA-Sri-Lanka/34-787212",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768958107.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-21-dailyftlk-5a50f186",
+    "num": "dailyftlk-5a50f186",
+    "date_str": "2026-01-21",
+    "description": "CMA Sri Lanka to host Integrated Reporting and Sustainability Accounting Standards Workshop",
+    "url_metadata": "https://www.ft.lk/business/CMA-Sri-Lanka-to-host-Integrated-Reporting-and-Sustainability-Accounting-Standards-Workshop/34-787213",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1768958233.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--21_06:09:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--21_08:24:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**98,962** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**98,972** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-21-dailyftlk-8ca3ff37",
-    "num": "dailyftlk-8ca3ff37",
+    "doc_id": "2026-01-21-dailyftlk-5a50f186",
+    "num": "dailyftlk-5a50f186",
     "date_str": "2026-01-21",
-    "description": "Need the right institutions and processes to override politics in curricular reforms",
-    "url_metadata": "https://www.ft.lk/columns/Need-the-right-institutions-and-processes-to-override-politics-in-curricular-reforms/4-787205",
+    "description": "CMA Sri Lanka to host Integrated Reporting and Sustainability Accounting Standards Workshop",
+    "url_metadata": "https://www.ft.lk/business/CMA-Sri-Lanka-to-host-Integrated-Reporting-and-Sustainability-Accounting-Standards-Workshop/34-787213",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1768955554.0
+    "time_ut": 1768958233.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-21 | `dailyftlk-5a50f186` | CMA Sri Lanka to host Integrated Reporting and Sustainability Accounting Standards Workshop | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-5a50f186)
+- 2026-01-21 | `dailyftlk-d401902f` | Tishan Subasinghe takes the reins as 28th President of CA Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-d401902f)
+- 2026-01-21 | `dailyftlk-7bb3d192` | Clean Waterways’ initiative targets Beira Lake restoration under Rs. 2.5 b plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-7bb3d192)
+- 2026-01-21 | `dailyftlk-d8775020` | World’s largest natural purple star sapphire introduced to global scientific and cultural record | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-d8775020)
+- 2026-01-21 | `dailyftlk-89b8ffaf` | Speaker of Parliament concludes week-long visit to India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-89b8ffaf)
+- 2026-01-21 | `dailyftlk-871a78fe` | Maldives: 52 years of transformation into Asia’s wealthiest nation per capita | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-871a78fe)
+- 2026-01-21 | `dailyftlk-bdeea975` | Flood control must begin at source, not at flood plains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-bdeea975)
+- 2026-01-21 | `dailyftlk-0ceae9e2` | 2026 Passport Rankings: Positioning Sri Lanka’s Passport as a strategic national asset | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-0ceae9e2)
+- 2026-01-21 | `adalk-424117dc` | අද වැසි රහිත කාලගුණයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-adalk-424117dc)
 - 2026-01-21 | `dailyftlk-8ca3ff37` | Need the right institutions and processes to override politics in curricular reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-8ca3ff37)
 - 2026-01-21 | `tamilmirrorlk-6df68890` | விசேட தேவையுடையோரின் 2,00,000 பேராக அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-tamilmirrorlk-6df68890)
 - 2026-01-21 | `tamilmirrorlk-af973b0c` | கல்வி மறுசீரமைப்புக்கு ஆதரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-tamilmirrorlk-af973b0c)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-01-21 | `dailyftlk-7f8ae4d6` | WNPS raises serious environmental, legal concerns over Mannar Wind Power project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-7f8ae4d6)
 - 2026-01-21 | `dailyftlk-570728d7` | Estate workers to get incentive allowance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-570728d7)
 - 2026-01-21 | `dailyftlk-9610e2cb` | Young journalist off to India on scholarship | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-dailyftlk-9610e2cb)
-- 2026-01-21 | `islandlk-c72c6da9` | Sri Lanka’s apparel sector signals a new era of social sustainability at Colombo forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-islandlk-c72c6da9)
-- 2026-01-21 | `islandlk-cf1d9030` | LOLC General Insurance delivers promise with immediate EV replacements following Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-islandlk-cf1d9030)
-- 2026-01-20 | `islandlk-9c33fb74` | Dr Kelum Senanayake appointed Consultant to Ceylinco Life | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-islandlk-9c33fb74)
-- 2026-01-20 | `islandlk-04ffec89` | Ceylon Cold Stores honoured at National Supply Chain Excellence Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-islandlk-04ffec89)
-- 2026-01-20 | `islandlk-7d1c9a15` | IPKF whitewashed in BJP strategy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-islandlk-7d1c9a15)
-- 2026-01-20 | `islandlk-67edcb7a` | Lake-Side Gems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-islandlk-67edcb7a)
-- 2026-01-20 | `islandlk-dcfc5726` | Remembering Ernest MacIntyre’s Contribution to Modern Lankan Theatre & Drama | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-islandlk-dcfc5726)
-- 2026-01-20 | `virakesarilk-ff8db1d5` | யாழில் இராணுவ சிற்றுண்டிச்சாலையில் புகைபொருட்கள் விற்பனைக்கு தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-virakesarilk-ff8db1d5)
-- 2026-01-20 | `tamilmirrorlk-f5911d8d` | மாலைதீவு விமான நிலையத்தில் சிக்கிய இலங்கையர்களுக்கு தடுப்புக்காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-20-tamilmirrorlk-f5911d8d)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-21 06:08:38",
-  "n_docs": 98962,
+  "time_updated": "2026-01-21 08:23:57",
+  "n_docs": 98972,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 98962,
+  "n_docs_with_text": 98972,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-21",
-  "dataset_size": 1501852571,
+  "dataset_size": 1502175768,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "si",
     "ta",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-21-dailyftlk-8ca3ff37",
-    "num": "dailyftlk-8ca3ff37",
+    "doc_id": "2026-01-21-dailyftlk-5a50f186",
+    "num": "dailyftlk-5a50f186",
     "date_str": "2026-01-21",
-    "description": "Need the right institutions and processes to override politics in curricular reforms",
-    "url_metadata": "https://www.ft.lk/columns/Need-the-right-institutions-and-processes-to-override-politics-in-curricular-reforms/4-787205",
+    "description": "CMA Sri Lanka to host Integrated Reporting and Sustainability Accounting Standards Workshop",
+    "url_metadata": "https://www.ft.lk/business/CMA-Sri-Lanka-to-host-Integrated-Reporting-and-Sustainability-Accounting-Standards-Workshop/34-787213",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1768955554.0
+    "time_ut": 1768958233.0
   }
 }
