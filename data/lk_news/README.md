@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--21_23:58:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--22_01:51:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,068** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,074** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A collection of lk_news documents.
 - 2026-01-21 | `virakesarilk-8b6a9d97` | ஐசிசி ரி20 ஆடவர் உலகக் கிண்ணத்திற்காக வெளியிடப்பட்ட போட்டி அட்டவணையை தொடர சர்வதேச கிரிக்கெட் பேரவை (ICC) தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-8b6a9d97)
 - 2026-01-21 | `virakesarilk-3afd6445` | ICC T20 உலகக்கிண்ணப் போட்டியில் வழங்கப்படும் கோப்பையை, இந்நாட்டில் காட்சிப்படுத்தும் சுற்றுப்பயணம் ஜனாதிபதியின் தலைமையில் உத்தியோகபூர்வமாக ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-3afd6445)
 - 2026-01-21 | `virakesarilk-15a86ed4` | ரி20 உலகக் கிண்ணத்திற்கான இலங்கை வீரர்களை சிறந்த நிலைக்கு உயர்த்த இங்கிலாந்துடனான தொடர்கள் உதவும் - சரித் அசலன்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-15a86ed4)
+- 2026-01-21 | `virakesarilk-a0991f87` | நாட்டு மக்கள் தங்களுடைய கலாசார பன்முகத் தன்மையைப் பாதுகாத்து ஒரே தேசமாக ஒன்றிணையும்போதே அந்நாட்டில் முன்னேற்றம் ஏற்படும் - சபாநாயகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-a0991f87)
 - 2026-01-21 | `virakesarilk-40bb5ab6` | இலங்கையின் 22 தியேட்டர்களில் அஜித்தின் ‘மங்காத்தா’ மறுவெளியீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-40bb5ab6)
 - 2026-01-21 | `virakesarilk-1738a63a` | ரி20 உலகக் கிண்ண நெருக்கடி: பங்களாதேஷுக்கு ஆதரவாக ஐசிசிக்கு பாகிஸ்தான் கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-1738a63a)
 - 2026-01-21 | `virakesarilk-67ba11cf` | தேசிய ஊக்கமருந்து தடுப்பு முகமையின் உத்தியோகபூர்வ இணையத்தளம் மற்றும் மருந்து விசாரணை செயலி வெளியீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-67ba11cf)
@@ -55,12 +56,11 @@ A collection of lk_news documents.
 - 2026-01-21 | `adalk-27d01389` | පුද්ගලයෙකුට පහරදුන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ තිදෙනෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-adalk-27d01389)
 - 2026-01-21 | `adalk-3121401d` | වරාය නගර ආර්ථික කොමිෂන් සභා පනතට  කථානායක සහතිකය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-adalk-3121401d)
 - 2026-01-21 | `virakesarilk-89890cc0` | இலங்கை விமானப்படையின் 11வது படைப்பிரிவு மத்திய ஆப்பிரிக்கக் குடியரசில் அமைதி காக்கும் பணிகளுக்காகப் புறப்பட்டது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-89890cc0)
+- 2026-01-21 | `virakesarilk-e7d63151` | அஸ்வெசும திட்டத் தகவல் சேகரிப்பில் முறைகேடு : ஆயிரக்கணக்கான ஏழைகள் புறக்கணிப்பு – எம்.எஸ். உதுமாலெப்பை குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-e7d63151)
 - 2026-01-21 | `virakesarilk-20511cd5` | நாட்டின் ஆட்சியாளர்கள் பௌத்த மதத்தைப் பாதுகாக்கக் கடமைப்பட்டுள்ளனர் - முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-20511cd5)
+- 2026-01-21 | `virakesarilk-bdc5fa0c` | பெருந்தோட்ட தொழிலாளர்களுக்கு 1,750 ரூபா சம்பள உயர்வு  பெப்ரவரி 10ஆம் திகதி முதல் அமுல் – சமன்த வித்தியாரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-bdc5fa0c)
+- 2026-01-21 | `virakesarilk-deb51128` | சட்டமா அதிபர் திணைக்களத்தின் சுயாதீனத் தை உறுதிப்படுத்துங்கள் ; இலங்கைச் சட்டத்தரணிகள் சங்கம் அரசாங்கத்திடம் வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-deb51128)
 - 2026-01-21 | `adalk-3f768caf` | ඉන්දුනීසියාවේ විශාලම පොල් ආශ්‍රිත සැකසුම් සමාගම් සී.බී.එල්. අත්පත් කර ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-adalk-3f768caf)
-- 2026-01-21 | `virakesarilk-0ea67bcc` | 15 வயது சிறுமி மாயம் ; பொதுமக்களிடம் உதவி கோரும் பொலிஸார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-0ea67bcc)
-- 2026-01-21 | `virakesarilk-3a6a1750` | அலைச்சறுக்கு விளையாட்டின் அபிவிருத்திக்கு முழுமையான ஒத்துழைப்பு - ஹிக்கடுவையில் நிறைவுற்ற தேசிய அலைச்சறுக்கு சாம்பியன்ஷிப் விழாவில் விளையாட்டுத்துறை அமைச்சர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-3a6a1750)
-- 2026-01-21 | `tamilmirrorlk-54af4df1` | வளியின் தரம் குறைந்துள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-tamilmirrorlk-54af4df1)
-- 2026-01-21 | `virakesarilk-73dd637a` | இந்தியாவில் இலங்கை நீதிபதிகளுக்கான விசேட திறன் மேம்பாட்டுப் பயிற்சித் திட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-73dd637a)
 
 ---
 
