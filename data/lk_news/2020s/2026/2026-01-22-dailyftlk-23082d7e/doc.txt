@@ -1,0 +1,67 @@
+Navigating new era of global taxation: Implications of OECD Pillar Two for Sri Lanka’s FDI strategy
+
+In an increasingly interconnected global economy, the rules governing international taxation are undergoing a profound transformation. The OECD’s Pillar Two framework, formally known as the Global Anti-Base Erosion (GloBE) Rules, introduces a global minimum tax of 15% for large multinational enterprises (MNEs). This initiative, part of the broader BEPS 2.0 project, aims to curb profit shifting and end the “race to the bottom” in corporate tax competition.
+
+As of January 2026, with the recent release of the Side-by-Side Package by the OECD/G20 Inclusive Framework, these rules are firmly in motion across many jurisdictions. For emerging economies like Sri Lanka, heavily reliant on foreign direct investment (FDI) to fuel growth, understanding and adapting to Pillar Two is no longer optional—it is imperative.
+
+The GloBE Rules form the core of Pillar Two, ensuring that MNEs pay at least 15% effective tax on their profits in every jurisdiction where they operate. If the Effective Tax Rate (ETR) in a country falls below this threshold, a “top-up tax” is imposed to bridge the gap. This top-up can be collected either by the parent company’s jurisdiction through the Income Inclusion Rule (IIR) or by other countries via the Undertaxed Profits Rule (UTPR), with many nations now implementing a Qualified Domestic Minimum Top-up Tax (QDMTT) to retain the revenue domestically.
+
+The rules apply jurisdictionally, meaning profits and taxes are blended across entities in the same country. The objective is straightforward: prevent large corporations from exploiting low-tax regimes, tax holidays, or incentives to erode tax bases elsewhere.
+
+The scope is limited to large MNE groups with consolidated global revenues exceeding €750 million in at least two of the four preceding fiscal years. This threshold captures around the world’s largest 100-200 MNE groups, but excludes certain entities such as pension funds, investment funds, and non-profit organisations. Smaller MNEs and domestic-only companies remain unaffected.
+
+Several exemptions ease the burden. Excluded entities include government bodies, international organisations, and certain transparent entities. A key simplification is the de minimis exclusion: if a jurisdiction’s GloBE income is low (typically tied to minimal revenue or profit thresholds), groups can elect to disregard it for top-up tax calculations, reducing compliance for minor operations.
+
+At a high level, the ETR is computed per jurisdiction as Adjusted Covered Taxes divided by GloBE Income. GloBE Income starts from financial accounting profit, with adjustments for items like dividends, equity gains, or policy disallowances. Covered Taxes include current taxes paid, plus deferred taxes (recaptured if not reversed timely). If the jurisdictional ETR dips below 15%, top-up tax applies to the shortfall.
+
+To reward real economic activity, the SBIE carves out a portion of income from the top-up tax base. It excludes a percentage (starting at 10% for payroll and 8% for tangible assets, phasing down to 5% over ten years) of eligible payroll costs and tangible asset values. This protects profits tied to substantive operations, such as factories or employees, rather than intangible-driven low-tax structures.
+
+One of the most important compliant tools under Pillar Two is the QRTC. These are refundable credits (cash refunds if exceeding tax liability, paid within four years) treated as income rather than tax reductions. They do not lower the ETR below 15%, making them fully effective in attracting investment without triggering top-up tax. Marketable transferable tax credits can also qualify under similar principles.
+
+Traditional incentives like tax holidays, reduced statutory rates, or patent boxes are largely neutralised. They create permanent differences that reduce Covered Taxes without adjusting GloBE Income proportionally, lowering the ETR and inviting top-up tax. Jurisdictional blending may mitigate this if high-tax entities offset low ones, but for investment-heavy jurisdictions relying on holidays, the benefit to MNEs evaporates as top-up tax is collected elsewhere or domestically via QDMTT.
+
+Post-Pillar Two, countries are shifting to incentives that preserve attractiveness:
+
+Fiscal tools — QRTCs for R&D, green investments, or employment; grants and subsidies (treated as income); enhanced capital allowances or accelerated depreciation (temporary differences neutralised via deferred tax); incentives boosting SBIE through tangible assets or payroll.
+
+Non-fiscal tools — Streamlined regulations, infrastructure development, skilled workforce training, political stability, and ease of doing business rankings.
+
+The recent OECD Side-by-Side Package (January 2026) introduces further simplifications, including a Simplified ETR Safe Harbour, Substance-Based Tax Incentive Safe Harbour (capping benefits to substance), and relief for certain regimes, ensuring the 15% floor while reducing compliance burdens.
+
+Several Asian and European nations traditionally competing on tax incentives have adapted swiftly.
+
+Ireland, long famous for its 12.5% rate, implemented Pillar Two in 2023 while retaining the lower rate for non-in-scope entities. To stay competitive, Ireland is reforming its interest regime, simplifying tax codes, and emphasising non-tax advantages like EU access, English-speaking talent, and R&D grants.
+
+Singapore introduced refundable investment credits (RIC) in 2025 legislation, alongside updates to GloBE rules. It is pivoting to QRTC-like mechanisms and strengthening its ecosystem in finance, tech, and innovation hubs.
+
+Thailand enacted an Emergency Decree in 2025 for top-up tax and is planning Qualified Refundable Tax Credits through BOI amendments. The focus is on substance-linked incentives for manufacturing and digital economy investments.
+
+Vietnam issued Decree 236/2025 for GMT implementation, prioritising domestic collection of top-up tax. It is exploring new incentives beyond tax, such as infrastructure in industrial zones and workforce development.
+
+Malaysia committed to GMT in Budget 2024, with ongoing consultations for implementation. It is enhancing non-tax attractions in electronics and services while aligning incentives to Pillar Two compliance.
+
+These countries recognise that pure tax competition is diminished; they are investing in QRTCs, grants, and broader business environment improvements to lure FDI.
+
+Sri Lanka should adopt dual track strategy for attracting investments. Whilst income tax holidays and rate reductions would be still be attractive for attracting small and medium size investors, the policy makers should develop Pillar Two complaint incentive package to attract large MNEs.
+
+As of early 2026, Sri Lanka has made no formal announcement on Pillar Two implementation, unlike many peers. This lag risks revenue loss if top-up tax on local operations of in-scope MNEs is collected abroad.
+
+More critically, traditional tax holidays under the Board of Investment (BOI), Port City Regulations or Strategic Development Projects Act may no longer effectively attract large MNEs, as benefits are clawed back via top-up tax.
+
+Sri Lanka’s FDI ambitions—targeting significant inflows for recovery and growth—demand urgent action:
+
+1. Implement a QDMTT promptly following required the procedure to secure domestic revenue and signal compliance.
+
+2. Reform incentives toward Pillar Two-compliant tools: Introduce QRTCs for priority sectors like tourism, apparel upgrades, IT/BPO, renewable energy, and manufacturing; offer cash grants or enhanced allowances tied to capital expenditure and jobs.
+
+3. Boost SBIE-friendly investments by encouraging tangible asset deployment and employment creation.
+
+4. Prioritise non-fiscal reforms: Improve ease of doing business (land acquisition, permits, dispute resolution), invest in infrastructure (ports, energy, digital), develop skilled labor through education partnerships, and ensure policy stability and transparency.
+
+5. Target mid-sized MNEs below the €750m threshold, where tax holidays & lower rates remain effective, while building substance for larger ones.
+
+By learning from Ireland’s ecosystem focus and ASEAN neighbors’ shift to refundable credits, Sri Lanka can reposition itself. The global minimum tax levels the playing field on rates but amplifies competition on real value—stability, talent, and efficiency.
+
+Proactive adaptation will not only safeguard revenue but position Sri Lanka as a resilient, attractive destination in the post-Pillar Two world.
+
+(The author is KPMG Tax Principal and member MESA Tax Steering Group, ITR’s ASPAC Tax Practice Leader 2024, Former member CIMA Council & AICPA Regional Board, Former Chair Tax Committee Bar Association, Visiting Lecturer, LLM, Colombo University)

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--22_06:10:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--22_08:30:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,089** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,116** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-22-dailyftlk-07da0331",
-    "num": "dailyftlk-07da0331",
+    "doc_id": "2026-01-22-tamilmirrorlk-91878006",
+    "num": "tamilmirrorlk-91878006",
     "date_str": "2026-01-22",
-    "description": "Transformation isn\u2019t a strategy, it\u2019s a brain state",
-    "url_metadata": "https://www.ft.lk/columns/Transformation-isn-t-a-strategy-it-s-a-brain-state/4-787248",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1769041920.0
+    "description": "\u2019\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bb2\u0bc8\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0b95\u0bcd\u0b95 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0bae\u0bb2\u0bc8\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0baa\u0bcd-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0b95\u0bcd\u0b95-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b95\u0b9f\u0bcd\u0b9f\u0bae\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-371375",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769050307.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-01-22 | `dailyftlk-07da0331` | Transformation isn’t a strategy, it’s a brain state | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-07da0331)
-- 2026-01-22 | `dailyftlk-6d500328` | A troubling shift in university governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-6d500328)
-- 2026-01-22 | `dailyftlk-123dc4da` | Jaffna discourse and Anura’s unreason; Forming SJB-UNP bloc without prevarication | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-123dc4da)
-- 2026-01-22 | `dailyftlk-fccb764b` | Proposed Counterterrorism Law risks more abuses: Human Rights Watch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-fccb764b)
-- 2026-01-22 | `virakesarilk-3c985cf9` | இலங்கையை கட்டியெழுப்பும் நிதியம்குறித்து கேள்வி: சட்டபூர்வ ஆவணங்களை சமர்ப்பிக்க ஹர்ஷ டி சில்வா சவால் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-virakesarilk-3c985cf9)
-- 2026-01-21 | `islandlk-d2a61fe9` | Charles Sturt University – Colombo advances Sri Lanka’s higher education agenda with high-level roundtable | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-islandlk-d2a61fe9)
-- 2026-01-21 | `islandlk-13e89452` | Colombo Dockyard-centred share transaction contributes majorly to CSE turnover | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-islandlk-13e89452)
-- 2026-01-21 | `islandlk-053841ee` | Assetline Finance awarded ISO 14064 certification for Greenhouse Gas emissions verification | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-islandlk-053841ee)
-- 2026-01-21 | `tamilmirrorlk-97152af8` | திருமதி உலக அழகிப் போட்டியில் பங்கு கொள்ளும் சபீனா யூசுப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-tamilmirrorlk-97152af8)
-- 2026-01-21 | `virakesarilk-8b6a9d97` | ஐசிசி ரி20 ஆடவர் உலகக் கிண்ணத்திற்காக வெளியிடப்பட்ட போட்டி அட்டவணையை தொடர சர்வதேச கிரிக்கெட் பேரவை (ICC) தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-8b6a9d97)
-- 2026-01-21 | `virakesarilk-3afd6445` | ICC T20 உலகக்கிண்ணப் போட்டியில் வழங்கப்படும் கோப்பையை, இந்நாட்டில் காட்சிப்படுத்தும் சுற்றுப்பயணம் ஜனாதிபதியின் தலைமையில் உத்தியோகபூர்வமாக ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-3afd6445)
-- 2026-01-21 | `virakesarilk-15a86ed4` | ரி20 உலகக் கிண்ணத்திற்கான இலங்கை வீரர்களை சிறந்த நிலைக்கு உயர்த்த இங்கிலாந்துடனான தொடர்கள் உதவும் - சரித் அசலன்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-15a86ed4)
-- 2026-01-21 | `virakesarilk-a0991f87` | நாட்டு மக்கள் தங்களுடைய கலாசார பன்முகத் தன்மையைப் பாதுகாத்து ஒரே தேசமாக ஒன்றிணையும்போதே அந்நாட்டில் முன்னேற்றம் ஏற்படும் - சபாநாயகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-a0991f87)
-- 2026-01-21 | `virakesarilk-40bb5ab6` | இலங்கையின் 22 தியேட்டர்களில் அஜித்தின் ‘மங்காத்தா’ மறுவெளியீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-40bb5ab6)
-- 2026-01-21 | `virakesarilk-1738a63a` | ரி20 உலகக் கிண்ண நெருக்கடி: பங்களாதேஷுக்கு ஆதரவாக ஐசிசிக்கு பாகிஸ்தான் கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-1738a63a)
-- 2026-01-21 | `virakesarilk-67ba11cf` | தேசிய ஊக்கமருந்து தடுப்பு முகமையின் உத்தியோகபூர்வ இணையத்தளம் மற்றும் மருந்து விசாரணை செயலி வெளியீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-67ba11cf)
-- 2026-01-21 | `virakesarilk-f3710768` | தென் கொரிய கிளர்ச்சி வழக்கு : முன்னாள் பிரதமர் ஹான் டக்-சூவுக்கு 23 ஆண்டுகள் சிறை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-f3710768)
-- 2026-01-21 | `virakesarilk-b07d3b37` | பெரியம்மாவை கத்தி முனையில் மிரட்டி பணத்தை கொள்ளையிட்ட மகன் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-b07d3b37)
-- 2026-01-21 | `virakesarilk-db6311ec` | கல்வி மறுசீரமைப்புகளை மேற்கொள்ளும்போது பல்கலைக்கழக விரிவுரையாளர்கள் உள்ளிட்ட நிபுணர்களைக் கொண்ட பொறிமுறை நிறுவப்படும் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-db6311ec)
-- 2026-01-21 | `virakesarilk-28cea767` | “புத்த பெருமானின் புனித சின்னங்கள் தரிசனம்” பெப்ரவரி 04 ஆம் திகதி ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-21-virakesarilk-28cea767)
+- 2026-01-22 | `tamilmirrorlk-91878006` | ’மத்திய மலைநாட்டைப் பாதுகாக்க புதிய கட்டமைப்பு’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-tamilmirrorlk-91878006)
+- 2026-01-22 | `dailyftlk-23082d7e` | Navigating new era of global taxation: Implications of OECD Pillar Two for Sri Lanka’s FDI strategy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-23082d7e)
+- 2026-01-22 | `dailyftlk-8fed8f51` | UK trade reforms: A transformational opportunity for Sri Lanka’s apparel industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-8fed8f51)
+- 2026-01-22 | `tamilmirrorlk-1f9fe524` | இன்றும் வறட்சியான வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-tamilmirrorlk-1f9fe524)
+- 2026-01-22 | `dailyftlk-ef067ba8` | Classic Travel becomes No.1 Overall Partner for Qatar Airways | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-ef067ba8)
+- 2026-01-22 | `dailyftlk-419b3dd3` | Sri Lanka–Germany Business Council holds 26th AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-419b3dd3)
+- 2026-01-22 | `dailyftlk-c63abc52` | Carson Group updates on Indonesian Govt.’s move to nationalise palm oil plantations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-c63abc52)
+- 2026-01-22 | `dailyftlk-8f4373b4` | WindForce secures Letter of Award for 50 MW Mullikulam Wind Power Project – Lot 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-8f4373b4)
+- 2026-01-22 | `dailyftlk-d26856f1` | Dr. Anura Ekanayake appointed Chemanex Chairman, Waruna Madawanarachchi appointed to Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-d26856f1)
+- 2026-01-22 | `dailyftlk-12eb3553` | Siddhalepa Ayurveda opens new outlet at BIA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-12eb3553)
+- 2026-01-22 | `dailyftlk-b2ce47ee` | LK Domain Registry marks 35 years of digital innovation in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-b2ce47ee)
+- 2026-01-22 | `dailyftlk-ba7b44e2` | SLAP and NAITA to strengthen skilled manpower for printing industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-ba7b44e2)
+- 2026-01-22 | `dailyftlk-0a19dcd0` | Evolution Auto marks major milestone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-0a19dcd0)
+- 2026-01-22 | `dailyftlk-a9f64435` | Writer Business Services enters Sri Lanka to provide information management and payments solutions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-a9f64435)
+- 2026-01-22 | `dailyftlk-8a59fa1f` | Fairway Latitude launches with a vision of sustainable urban luxury | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-8a59fa1f)
+- 2026-01-22 | `dailyftlk-cba83f2c` | IQPM appoints Executive Council for 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-cba83f2c)
+- 2026-01-22 | `dailyftlk-228b12fe` | Home Lands rewards high performers with brand-new vehicles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-228b12fe)
+- 2026-01-22 | `dailyftlk-c0ceef39` | Lolitha Abeysinghe and Prasad Galhena join EML Consultants Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-c0ceef39)
+- 2026-01-22 | `dailyftlk-246f9dd2` | PM participates in high-level bilateral meetings at World Economic Forum in Davos | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-246f9dd2)
+- 2026-01-22 | `dailyftlk-939775bd` | BASL issues statement over social media posts on Attorney General | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-22-dailyftlk-939775bd)
 
 ---
 
