@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--25_01:47:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--25_03:47:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,438** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,462** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-24-tamilmirrorlk-da0ca513",
-    "num": "tamilmirrorlk-da0ca513",
+    "doc_id": "2026-01-24-virakesarilk-a0db9aa8",
+    "num": "virakesarilk-a0db9aa8",
     "date_str": "2026-01-24",
-    "description": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0baa\u0ba3\u0bbf\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1-\u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd-\u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bcd-\u0baa\u0ba3\u0bbf\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-371491",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bca\u0b9f\u0bb0\u0bc8 \u0b9a\u0bae\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1 \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/236914",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1769255354.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1769274120.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-24 | `virakesarilk-a0db9aa8` | இலங்கையை வீழ்த்தி தொடரை சமப்படுத்தியது இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-a0db9aa8)
+- 2026-01-24 | `virakesarilk-f05ca944` | சம்பியன்ஸ் லீக்கில் தோல்வி அடையாத அணி என்ற பதத்தை தக்கவைத்துக்கொண்டது சோண்டர்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-f05ca944)
+- 2026-01-24 | `virakesarilk-5265e309` | இங்கிலாந்துடனான 2ஆவது சர்வதேச ஒருநாள் கிரிக்கெட்: இலங்கை சகல விக்கெட்களையும் இழந்து 219 ஓட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-5265e309)
+- 2026-01-24 | `virakesarilk-4a282c5a` | இரண்டு மாதங்களுக்குள்  உப்பூறல் கிராமத்தில்  ஆறு வீடுகள் யானைகளால் சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-4a282c5a)
+- 2026-01-24 | `virakesarilk-8960302e` | ஏ9 வீதியில் இடம்பெற்ற விபத்தில் இருவர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-8960302e)
+- 2026-01-24 | `virakesarilk-ea4c9a9c` | திரௌபதி 2 -  திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-ea4c9a9c)
+- 2026-01-24 | `virakesarilk-17dda042` | நடிகர் ரவி மோகன் நடிக்கும் 'கராத்தே பாபு' படத்தின் டீசர் வெளியீடு. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-17dda042)
 - 2026-01-24 | `tamilmirrorlk-da0ca513` | பாராளுமன்ற பிரதிச் செயலாளர் நாயகம் பணிநீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-da0ca513)
 - 2026-01-24 | `adalk-288cf602` | විත්තිය රු. 50000ක් නොගෙව්වැයි පැමිණිල්ල ගසකට නගියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-adalk-288cf602)
-- 2026-01-24 | `tamilmirrorlk-069aca3a` | வவுனியாவில் பொலிஸாரை மோதி தள்ளிய லொறி சிக்கியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-069aca3a)
-- 2026-01-24 | `tamilmirrorlk-3e3cc84a` | சிறுமி வன்புணர்வு துஸ்பிரயோகம்-தலைமறைவாகி இருந்த  நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-3e3cc84a)
-- 2026-01-24 | `tamilmirrorlk-608acc6c` | அசுர வேகத்தில் உயரும் தங்கத்தின் விலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-608acc6c)
-- 2026-01-24 | `tamilmirrorlk-ebd9334d` | யாழ். சுழிபுரத்தில் வெளியேறிய இராணுவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-ebd9334d)
-- 2026-01-24 | `adalk-27f9e75c` | පාර්ලිමේන්තුව පෙබරවාරි 3,5 සහ 6 රැස්වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-adalk-27f9e75c)
-- 2026-01-24 | `virakesarilk-b323d143` | நாவலப்பிட்டியில் ஆறாம் தர கல்வி சீர்திருத்தத்திற்கு ஆதரவாக பெற்றோர்கள் கவனயீர்ப்பு ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-b323d143)
-- 2026-01-24 | `virakesarilk-f542cca2` | மட்டக்களப்பு இளைஞர்கள் இருவர் விபத்தில் சிக்கி பரிதாபமாக உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-f542cca2)
-- 2026-01-24 | `virakesarilk-9f846b3a` | பாகிஸ்தானில் திருமண நிகழ்வில் தற்கொலைத் தாக்குதல்: 7 பேர் பலி, 25 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-9f846b3a)
-- 2026-01-24 | `tamilmirrorlk-ef27dfc4` | 5,000 பேர் பலி : ஈரானை நோக்கி விரையும் அமெரிக்க கப்பல்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-ef27dfc4)
-- 2026-01-24 | `virakesarilk-ee4feb22` | மோட்டார் சைக்கிள் விபத்துக்களில் இருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-ee4feb22)
-- 2026-01-24 | `virakesarilk-26647f72` | நுவரெலியாவில் உறைபனி பொழிவு: மக்களின் இயல்பு வாழ்க்கை பாதிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-26647f72)
-- 2026-01-24 | `virakesarilk-b4165a33` | இந்தோனேஷியாவில் மண்சரிவு : ஏழு பேர் உயிரிழப்பு, 82 பேர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-b4165a33)
-- 2026-01-24 | `virakesarilk-16243935` | இலங்கை வெளிவிவகார அமைச்சருக்கும் வெனிசுலா வெளிவிவகார அமைச்சருக்கும் இடையில் விசேட தொலைபேசி உரையாடல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-16243935)
-- 2026-01-24 | `virakesarilk-cfcc86f7` | யாழ். சுழிபுரத்தில் உள்ள இராணுவ முகாமில் இருந்து வெளியேறிய இராணுவம்: பண்டத்தரிப்பு முகாமும் அகற்ற நடவடிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-cfcc86f7)
-- 2026-01-24 | `virakesarilk-7da8c3f7` | கொஹுவலை கொலை சம்பவம் ; பொலிஸாரால் தேடப்பட்டு வந்த துப்பாக்கிதாரி கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-7da8c3f7)
-- 2026-01-24 | `virakesarilk-259e7030` | கல்லடி பாலத்தில் இருந்து குதித்து யுவதி உயிர்மாய்ப்பு; மட்டக்களப்பில் அதிகரிக்கும் உயிர்மாய்ப்பு சம்பவங்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-259e7030)
-- 2026-01-24 | `virakesarilk-1b7552d4` | இலங்கையில் தமிழர்களுக்கு எதிரான யுத்தகால பாலியல் வன்முறைகள் : சர்வதேச பொறுப்புக்கூறல் அவசியமென கனேடிய தமிழர் தேசிய பேரவை வலியுறுத்தல் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-1b7552d4)
-- 2026-01-24 | `virakesarilk-e77305a6` | துப்பாக்கியுடன் காரை கைவிட்டு தப்பிச் சென்றவர்கள் வத்தளையில் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-e77305a6)
+- 2026-01-24 | `virakesarilk-1766eb9f` | இலங்கை சுற்றுலாத்துறையில் எழுச்சி: 22 நாட்களில் சுமார் 2 இலட்சம்  சுற்றுலாப் பயணிகள் வருகை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-1766eb9f)
+- 2026-01-24 | `virakesarilk-f8d84ae9` | தெற்கு கடலில் 270 கிலோ போதைப்பொருளுடன் 11 பேர் கைது: பின்னணியில் உள்ளது “தெஹிபாலே” என்பவரா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-f8d84ae9)
+- 2026-01-24 | `virakesarilk-1a2de577` | யாழில் ஆரம்பமான சர்வதேச சட்ட மாநாடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-1a2de577)
+- 2026-01-24 | `virakesarilk-77089bc4` | போதைப்பொருள் பாவனை செய்யும் 480 வாகன சாரதிகள் கைது - பொதுமக்கள் பாதுகாப்பு அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-77089bc4)
+- 2026-01-24 | `virakesarilk-b0894d5a` | தனது கணவரையும் அவரது காதலியையும் கூரிய ஆயுதத்தால் தாக்கிய மனைவி பொலிஸில் சரண்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-b0894d5a)
+- 2026-01-24 | `virakesarilk-85328db6` | டித்வா சூறாவளியால் பாதிக்கப்பட்டவர்களுக்கு அரசாங்கம் வழங்கும் 50,000 ரூபா கொடுப்பனவு 70% வழங்கப்பட்டுள்ளது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-85328db6)
+- 2026-01-24 | `virakesarilk-a7d452f3` | 'மக்கள் செல்வன்' விஜய் சேதுபதி - ஜெயராம் - நகுல் - இணைந்து தோன்றும்  'காதல் கதை சொல்லவா' படத்தின் இசை மற்றும் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-a7d452f3)
+- 2026-01-24 | `virakesarilk-b834f408` | நாடளாவிய ரீதியில் பொலிஸார் அதிரடி: ஒரே நாளில் 524 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-b834f408)
+- 2026-01-24 | `virakesarilk-130dbf09` | இலங்கையின் 78 ஆவது சுதந்திர தினத்தின் கருப்பொருள் வெளியீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-130dbf09)
+- 2026-01-24 | `virakesarilk-8fe25fe0` | மின்சார சபையின் மறுசீரமைப்பு திட்டம் இறுதிக்கட்டத்தில்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-8fe25fe0)
+- 2026-01-24 | `virakesarilk-a6ad4019` | இந்தியக் குடியரசு தினத்தை முன்னிட்டு கொழும்பில் பிரபல பொலிவுட் பாடகி அனுராதா பாட்வாலின் இசை நிகழ்ச்சி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-a6ad4019)
 
 ---
 
