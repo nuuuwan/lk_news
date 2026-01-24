@@ -32845,6 +32845,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-23-adalk-9c8f2754",
+    "num": "adalk-9c8f2754",
+    "date_str": "2026-01-23",
+    "description": "\u0d9c\u0d82\u0d9f\u0dcf\u0dbb\u0dcf\u0db8\u0dba\u0dda \u0db0\u0dcf\u0dad\u0dd4 \u0dc0\u0db1\u0dca\u0daf\u0db1\u0dcf\u0dc0 \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d85\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0d82\u0d9f\u0dcf\u0dbb\u0dcf\u0db8\u0dba\u0dda-\u0db0\u0dcf\u0dad\u0dd4-\u0dc0\u0db1\u0dca\u0daf\u0db1\u0dcf\u0dc0-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0d85\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0d9a\u0dca/11-420937",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769164204.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-23-virakesarilk-0f27fc58",
     "num": "virakesarilk-0f27fc58",
     "date_str": "2026-01-23",
@@ -33392,5 +33403,115 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1769214512.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-24-dailyftlk-a87dc188",
+    "num": "dailyftlk-a87dc188",
+    "date_str": "2026-01-24",
+    "description": "CleanTech marks new era for Sri Lanka\u2019s Circular Economy with Good Plastic recycling certification",
+    "url_metadata": "https://www.ft.lk/business/CleanTech-marks-new-era-for-Sri-Lanka-s-Circular-Economy-with-Good-Plastic-recycling-certification/34-787378",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1769214823.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-24-tamilmirrorlk-30d9235b",
+    "num": "tamilmirrorlk-30d9235b",
+    "date_str": "2026-01-24",
+    "description": "\u0bb5\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba4-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-371476",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769214918.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-24-dailyftlk-b84f7fb1",
+    "num": "dailyftlk-b84f7fb1",
+    "date_str": "2026-01-24",
+    "description": "Jaffna International Trade Fair kicks off",
+    "url_metadata": "https://www.ft.lk/business/Jaffna-International-Trade-Fair-kicks-off/34-787379",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1769214959.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-24-tamilmirrorlk-ecc978c3",
+    "num": "tamilmirrorlk-ecc978c3",
+    "date_str": "2026-01-24",
+    "description": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0bae\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bc8-\u0ba8\u0bbf\u0bb0\u0bcd\u0bae\u0bbe\u0ba3\u0bbf\u0b95\u0bcd\u0b95-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-371477",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769215171.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-24-dailyftlk-0aa1f43b",
+    "num": "dailyftlk-0aa1f43b",
+    "date_str": "2026-01-24",
+    "description": "IRONMAN 70.3 Colombo partners Port City Colombo, Shangri-La Colombo",
+    "url_metadata": "https://www.ft.lk/business/IRONMAN-70-3-Colombo-partners-Port-City-Colombo-Shangri-La-Colombo/34-787380",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1769215173.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-24-tamilmirrorlk-7bd7f37a",
+    "num": "tamilmirrorlk-7bd7f37a",
+    "date_str": "2026-01-24",
+    "description": "\u0b95\u0bb2\u0bcd\u0bb2\u0b9f\u0bbf \u0baa\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bc1\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4 \u0baf\u0bc1\u0bb5\u0ba4\u0bbf \u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb2\u0bcd\u0bb2\u0b9f\u0bbf-\u0baa\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b95\u0bc1\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4-\u0baf\u0bc1\u0bb5\u0ba4\u0bbf-\u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-371478",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769217082.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-24-tamilmirrorlk-d9de3922",
+    "num": "tamilmirrorlk-d9de3922",
+    "date_str": "2026-01-24",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0bae\u0bb4\u0bc8-\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd/175-371479",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769218593.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-24-tamilmirrorlk-abefc398",
+    "num": "tamilmirrorlk-abefc398",
+    "date_str": "2026-01-24",
+    "description": "270 \u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b90\u0bb8\u0bc2\u0b9f\u0ba9\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0b9f\u0b95\u0bc1\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/270-\u0b95\u0bbf\u0bb2\u0bcb\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd-\u0b90\u0bb8\u0bc2\u0b9f\u0ba9\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0baa\u0b9f\u0b95\u0bc1\u0b95\u0bb3\u0bcd/175-371480",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769219868.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-24-tamilmirrorlk-17653145",
+    "num": "tamilmirrorlk-17653145",
+    "date_str": "2026-01-24",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 197 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-197-\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bc1/175-371481",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769220696.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-24-tamilmirrorlk-a233c511",
+    "num": "tamilmirrorlk-a233c511",
+    "date_str": "2026-01-24",
+    "description": "\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0b95\u0bbf\u0bb7\u0bcd\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0b95\u0bbf\u0bb7\u0bcd\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-371482",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769220924.0
   }
 ]
