@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--24_21:47:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--24_23:48:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,437** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,438** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-01-24 | `tamilmirrorlk-da0ca513` | பாராளுமன்ற பிரதிச் செயலாளர் நாயகம் பணிநீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-da0ca513)
+- 2026-01-24 | `adalk-288cf602` | විත්තිය රු. 50000ක් නොගෙව්වැයි පැමිණිල්ල ගසකට නගියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-adalk-288cf602)
 - 2026-01-24 | `tamilmirrorlk-069aca3a` | வவுனியாவில் பொலிஸாரை மோதி தள்ளிய லொறி சிக்கியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-069aca3a)
 - 2026-01-24 | `tamilmirrorlk-3e3cc84a` | சிறுமி வன்புணர்வு துஸ்பிரயோகம்-தலைமறைவாகி இருந்த  நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-3e3cc84a)
 - 2026-01-24 | `tamilmirrorlk-608acc6c` | அசுர வேகத்தில் உயரும் தங்கத்தின் விலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-608acc6c)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-24 | `virakesarilk-259e7030` | கல்லடி பாலத்தில் இருந்து குதித்து யுவதி உயிர்மாய்ப்பு; மட்டக்களப்பில் அதிகரிக்கும் உயிர்மாய்ப்பு சம்பவங்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-259e7030)
 - 2026-01-24 | `virakesarilk-1b7552d4` | இலங்கையில் தமிழர்களுக்கு எதிரான யுத்தகால பாலியல் வன்முறைகள் : சர்வதேச பொறுப்புக்கூறல் அவசியமென கனேடிய தமிழர் தேசிய பேரவை வலியுறுத்தல் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-1b7552d4)
 - 2026-01-24 | `virakesarilk-e77305a6` | துப்பாக்கியுடன் காரை கைவிட்டு தப்பிச் சென்றவர்கள் வத்தளையில் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-e77305a6)
-- 2026-01-24 | `tamilmirrorlk-165cca34` | இலங்கை மக்களிடையே ஏற்பட்டுள்ள பெரும் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-165cca34)
 
 ---
 
