@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--24_09:58:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--24_11:49:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,407** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,426** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-24-tamilmirrorlk-165cca34",
-    "num": "tamilmirrorlk-165cca34",
+    "doc_id": "2026-01-24-virakesarilk-b323d143",
+    "num": "virakesarilk-b323d143",
     "date_str": "2026-01-24",
-    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bc8\u0baf\u0bc7 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3 \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bc8\u0baf\u0bc7-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3-\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-371484",
+    "description": "\u0ba8\u0bbe\u0bb5\u0bb2\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0bb1\u0bbe\u0bae\u0bcd \u0ba4\u0bb0 \u0b95\u0bb2\u0bcd\u0bb5\u0bbf \u0b9a\u0bc0\u0bb0\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b86\u0ba4\u0bb0\u0bb5\u0bbe\u0b95 \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bcb\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bb5\u0ba9\u0baf\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/236884",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1769228438.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1769235240.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-24 | `virakesarilk-b323d143` | நாவலப்பிட்டியில் ஆறாம் தர கல்வி சீர்திருத்தத்திற்கு ஆதரவாக பெற்றோர்கள் கவனயீர்ப்பு ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-b323d143)
+- 2026-01-24 | `virakesarilk-f542cca2` | மட்டக்களப்பு இளைஞர்கள் இருவர் விபத்தில் சிக்கி பரிதாபமாக உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-f542cca2)
+- 2026-01-24 | `virakesarilk-9f846b3a` | பாகிஸ்தானில் திருமண நிகழ்வில் தற்கொலைத் தாக்குதல்: 7 பேர் பலி, 25 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-9f846b3a)
+- 2026-01-24 | `tamilmirrorlk-ef27dfc4` | 5,000 பேர் பலி : ஈரானை நோக்கி விரையும் அமெரிக்க கப்பல்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-ef27dfc4)
+- 2026-01-24 | `virakesarilk-ee4feb22` | மோட்டார் சைக்கிள் விபத்துக்களில் இருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-ee4feb22)
+- 2026-01-24 | `virakesarilk-26647f72` | நுவரெலியாவில் உறைபனி பொழிவு: மக்களின் இயல்பு வாழ்க்கை பாதிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-26647f72)
+- 2026-01-24 | `virakesarilk-b4165a33` | இந்தோனேஷியாவில் மண்சரிவு : ஏழு பேர் உயிரிழப்பு, 82 பேர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-b4165a33)
+- 2026-01-24 | `virakesarilk-16243935` | இலங்கை வெளிவிவகார அமைச்சருக்கும் வெனிசுலா வெளிவிவகார அமைச்சருக்கும் இடையில் விசேட தொலைபேசி உரையாடல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-16243935)
+- 2026-01-24 | `virakesarilk-cfcc86f7` | யாழ். சுழிபுரத்தில் உள்ள இராணுவ முகாமில் இருந்து வெளியேறிய இராணுவம்: பண்டத்தரிப்பு முகாமும் அகற்ற நடவடிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-cfcc86f7)
+- 2026-01-24 | `virakesarilk-7da8c3f7` | கொஹுவலை கொலை சம்பவம் ; பொலிஸாரால் தேடப்பட்டு வந்த துப்பாக்கிதாரி கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-7da8c3f7)
+- 2026-01-24 | `virakesarilk-259e7030` | கல்லடி பாலத்தில் இருந்து குதித்து யுவதி உயிர்மாய்ப்பு; மட்டக்களப்பில் அதிகரிக்கும் உயிர்மாய்ப்பு சம்பவங்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-259e7030)
+- 2026-01-24 | `virakesarilk-1b7552d4` | இலங்கையில் தமிழர்களுக்கு எதிரான யுத்தகால பாலியல் வன்முறைகள் : சர்வதேச பொறுப்புக்கூறல் அவசியமென கனேடிய தமிழர் தேசிய பேரவை வலியுறுத்தல் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-1b7552d4)
+- 2026-01-24 | `virakesarilk-e77305a6` | துப்பாக்கியுடன் காரை கைவிட்டு தப்பிச் சென்றவர்கள் வத்தளையில் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-e77305a6)
 - 2026-01-24 | `tamilmirrorlk-165cca34` | இலங்கை மக்களிடையே ஏற்பட்டுள்ள பெரும் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-165cca34)
+- 2026-01-24 | `virakesarilk-5a690f03` | ஹிரிகெட்டிய கடலில்  மூழ்கி வெளிநாட்டு பிரஜை பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-5a690f03)
+- 2026-01-24 | `virakesarilk-c6565a9f` | இரண்டு பஸ்கள் நேருக்கு நேர் மோதி விபத்து ; 6 பேர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-c6565a9f)
+- 2026-01-24 | `virakesarilk-100fa11c` | ஒவ்வொரு ஆண்டும் ஜனவரி மாதம் கர்ப்பப்பை வாய்ப் புற்றுநோய் விழிப்புணர்வு மாதம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-100fa11c)
+- 2026-01-24 | `virakesarilk-6a113099` | இலங்கை கடற்பரப்பில் பாரிய போதைப்பொருள் வேட்டை: 2 படகுகளுடன் 11 சந்தேக நபர்கள் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-6a113099)
+- 2026-01-24 | `virakesarilk-e01caaad` | தனிப்பட்ட தகராறு கொலையில் முடிந்தது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-e01caaad)
 - 2026-01-24 | `tamilmirrorlk-a233c511` | வைத்தியர்களின் பணிப்பகிஷ்கரிப்பு நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-a233c511)
-- 2026-01-24 | `tamilmirrorlk-17653145` | இலங்கையர்களின் குடும்பங்களுக்கு 197 மில்லியன் ரூபாய் இழப்பீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-17653145)
-- 2026-01-24 | `tamilmirrorlk-abefc398` | 270 கிலோகிராம் ஐஸூடன் சிக்கிய படகுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-abefc398)
-- 2026-01-24 | `adalk-37ee6263` | මහනුවර හා ඇඹිලිපිටිය ඝාතන දෙකක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-adalk-37ee6263)
-- 2026-01-24 | `tamilmirrorlk-d9de3922` | இன்று பலத்த மழை வீழ்ச்சிக்கான சாத்தியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-d9de3922)
-- 2026-01-24 | `tamilmirrorlk-7bd7f37a` | கல்லடி பாலத்திலிருந்து குதித்த யுவதி சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-7bd7f37a)
-- 2026-01-24 | `dailyftlk-0aa1f43b` | IRONMAN 70.3 Colombo partners Port City Colombo, Shangri-La Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-dailyftlk-0aa1f43b)
-- 2026-01-24 | `tamilmirrorlk-ecc978c3` | புதிய சிறைச்சாலையை நிர்மாணிக்க நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-ecc978c3)
-- 2026-01-24 | `dailyftlk-b84f7fb1` | Jaffna International Trade Fair kicks off | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-dailyftlk-b84f7fb1)
-- 2026-01-24 | `tamilmirrorlk-30d9235b` | வெடிக்காத நிலையில் இரண்டு குண்டுகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-tamilmirrorlk-30d9235b)
-- 2026-01-24 | `dailyftlk-a87dc188` | CleanTech marks new era for Sri Lanka’s Circular Economy with Good Plastic recycling certification | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-dailyftlk-a87dc188)
-- 2026-01-24 | `dailyftlk-3f4023f8` | Veneration of sacred relics from 4 to 11 February at Hunupitiya Gangaramaya Temple | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-dailyftlk-3f4023f8)
-- 2026-01-24 | `dailyftlk-9a897b02` | Cyclone Ditwah: Surgeries resume at Chilaw District General Hospital following UNFPA supported emergency repairs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-dailyftlk-9a897b02)
-- 2026-01-24 | `dailyftlk-ccb2db28` | Australia Day 2026 celebrated in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-dailyftlk-ccb2db28)
-- 2026-01-24 | `dailyftlk-3c413a36` | Record drug seizures in 2025 as Police haul doubles from 2024 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-dailyftlk-3c413a36)
-- 2026-01-24 | `dailyftlk-b2e71788` | From Colombo to Canberra: Strengthening economic ties for a shared future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-dailyftlk-b2e71788)
-- 2026-01-24 | `dailyftlk-41732f0e` | Nature-based infrastructure is vital to avert Asia’s looming water crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-dailyftlk-41732f0e)
-- 2026-01-24 | `dailyftlk-0e78e89a` | Dr. T.B. Jayah, the National Hero | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-dailyftlk-0e78e89a)
-- 2026-01-24 | `dailyftlk-9ed2c17c` | Harini and Sajith agree on new appointments to Constitutional Council | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-dailyftlk-9ed2c17c)
 
 ---
 
