@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--25_06:19:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--25_08:34:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,477** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,481** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-24-virakesarilk-a0db9aa8",
-    "num": "virakesarilk-a0db9aa8",
-    "date_str": "2026-01-24",
-    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bca\u0b9f\u0bb0\u0bc8 \u0b9a\u0bae\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1 \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/236914",
+    "doc_id": "2026-01-25-tamilmirrorlk-6f0c7554",
+    "num": "tamilmirrorlk-6f0c7554",
+    "date_str": "2026-01-25",
+    "description": "\u2019\u0b95\u0bc6\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0ba4\u0bcd\u0ba4 \u0ba4\u0bbf\u0ba9\u0bc2\u0bb7\u2019 \u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc6\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0ba4\u0bcd\u0ba4-\u0ba4\u0bbf\u0ba9\u0bc2\u0bb7-\u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd/175-371506",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1769274120.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769304849.0
 }
 ```
 
@@ -41,8 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-25 | `tamilmirrorlk-6f0c7554` | ’கெசெல்வத்த தினூஷ’ அழைத்துவரப்பட்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-6f0c7554)
+- 2026-01-25 | `tamilmirrorlk-c751f4ec` | அமெரிக்காவை தாக்கும் பனிப்புயல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-c751f4ec)
+- 2026-01-25 | `tamilmirrorlk-e358a648` | ஊடகவியலாளர் சுகிர்தராஜனின் நினைவேந்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-e358a648)
 - 2026-01-24 | `virakesarilk-a0db9aa8` | இலங்கையை வீழ்த்தி தொடரை சமப்படுத்தியது இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-a0db9aa8)
 - 2026-01-24 | `virakesarilk-f05ca944` | சம்பியன்ஸ் லீக்கில் தோல்வி அடையாத அணி என்ற பதத்தை தக்கவைத்துக்கொண்டது சோண்டர்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-f05ca944)
+- 2026-01-24 | `adalk-4c100357` | රාජ්‍ය වෙසක් උත්සවය මැයි 30දා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-adalk-4c100357)
 - 2026-01-24 | `virakesarilk-5265e309` | இங்கிலாந்துடனான 2ஆவது சர்வதேச ஒருநாள் கிரிக்கெட்: இலங்கை சகல விக்கெட்களையும் இழந்து 219 ஓட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-5265e309)
 - 2026-01-24 | `virakesarilk-4a282c5a` | இரண்டு மாதங்களுக்குள்  உப்பூறல் கிராமத்தில்  ஆறு வீடுகள் யானைகளால் சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-4a282c5a)
 - 2026-01-24 | `virakesarilk-8960302e` | ஏ9 வீதியில் இடம்பெற்ற விபத்தில் இருவர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-8960302e)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-01-24 | `virakesarilk-77089bc4` | போதைப்பொருள் பாவனை செய்யும் 480 வாகன சாரதிகள் கைது - பொதுமக்கள் பாதுகாப்பு அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-77089bc4)
 - 2026-01-24 | `virakesarilk-b0894d5a` | தனது கணவரையும் அவரது காதலியையும் கூரிய ஆயுதத்தால் தாக்கிய மனைவி பொலிஸில் சரண்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-b0894d5a)
 - 2026-01-24 | `islandlk-ec7be8c3` | CEAT Kelani treats top dealers to a spectacular Swiss adventure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-islandlk-ec7be8c3)
-- 2026-01-24 | `islandlk-9c33fb74` | Dr Kelum Senanayake appointed Consultant to Ceylinco Life | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-islandlk-9c33fb74)
-- 2026-01-24 | `islandlk-38555128` | Sri Lanka Insurance Life recognises its top Sales achievers at Star Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-islandlk-38555128)
-- 2026-01-24 | `islandlk-0352d8dc` | ComBank advances ForwardTogether agenda with event on sustainable business transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-islandlk-0352d8dc)
-- 2026-01-24 | `virakesarilk-85328db6` | டித்வா சூறாவளியால் பாதிக்கப்பட்டவர்களுக்கு அரசாங்கம் வழங்கும் 50,000 ரூபா கொடுப்பனவு 70% வழங்கப்பட்டுள்ளது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-85328db6)
 
 ---
 
