@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--25_08:34:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--25_10:08:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,481** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,486** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-25-tamilmirrorlk-6f0c7554",
-    "num": "tamilmirrorlk-6f0c7554",
+    "doc_id": "2026-01-25-tamilmirrorlk-bc8abc98",
+    "num": "tamilmirrorlk-bc8abc98",
     "date_str": "2026-01-25",
-    "description": "\u2019\u0b95\u0bc6\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0ba4\u0bcd\u0ba4 \u0ba4\u0bbf\u0ba9\u0bc2\u0bb7\u2019 \u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc6\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0ba4\u0bcd\u0ba4-\u0ba4\u0bbf\u0ba9\u0bc2\u0bb7-\u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd/175-371506",
+    "description": "\u0b95\u0ba9\u0b9f\u0bbe \u0bae\u0bc0\u0ba4\u0bc1 100% \u0bb5\u0bb0\u0bbf?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0ba9\u0b9f\u0bbe-\u0bae\u0bc0\u0ba4\u0bc1-100-\u0bb5\u0bb0\u0bbf/50-371510",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1769304849.0
+    "time_ut": 1769315669.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-25 | `tamilmirrorlk-bc8abc98` | கனடா மீது 100% வரி? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-bc8abc98)
+- 2026-01-25 | `tamilmirrorlk-6a1d7606` | கார் கரணம்: பெண் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-6a1d7606)
+- 2026-01-25 | `tamilmirrorlk-06ff6d72` | ரூ.133.94 மில்லியன் மதிப்புள்ள ’’குஷ்’’ , ’’ஹாஷிஷ்’’ சிக்கியது: மூவ​ர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-06ff6d72)
+- 2026-01-25 | `adalk-9f415636` | කෝටි අටක කුෂ් මත්ද්‍රව්‍ය සමග ගුවන් මගියෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-adalk-9f415636)
 - 2026-01-25 | `tamilmirrorlk-6f0c7554` | ’கெசெல்வத்த தினூஷ’ அழைத்துவரப்பட்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-6f0c7554)
 - 2026-01-25 | `tamilmirrorlk-c751f4ec` | அமெரிக்காவை தாக்கும் பனிப்புயல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-c751f4ec)
 - 2026-01-25 | `tamilmirrorlk-e358a648` | ஊடகவியலாளர் சுகிர்தராஜனின் நினைவேந்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-e358a648)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-01-24 | `adalk-288cf602` | විත්තිය රු. 50000ක් නොගෙව්වැයි පැමිණිල්ල ගසකට නගියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-adalk-288cf602)
 - 2026-01-24 | `virakesarilk-1766eb9f` | இலங்கை சுற்றுலாத்துறையில் எழுச்சி: 22 நாட்களில் சுமார் 2 இலட்சம்  சுற்றுலாப் பயணிகள் வருகை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-1766eb9f)
 - 2026-01-24 | `virakesarilk-f8d84ae9` | தெற்கு கடலில் 270 கிலோ போதைப்பொருளுடன் 11 பேர் கைது: பின்னணியில் உள்ளது “தெஹிபாலே” என்பவரா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-f8d84ae9)
-- 2026-01-24 | `virakesarilk-1a2de577` | யாழில் ஆரம்பமான சர்வதேச சட்ட மாநாடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-1a2de577)
-- 2026-01-24 | `virakesarilk-77089bc4` | போதைப்பொருள் பாவனை செய்யும் 480 வாகன சாரதிகள் கைது - பொதுமக்கள் பாதுகாப்பு அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-77089bc4)
-- 2026-01-24 | `virakesarilk-b0894d5a` | தனது கணவரையும் அவரது காதலியையும் கூரிய ஆயுதத்தால் தாக்கிய மனைவி பொலிஸில் சரண்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-virakesarilk-b0894d5a)
-- 2026-01-24 | `islandlk-ec7be8c3` | CEAT Kelani treats top dealers to a spectacular Swiss adventure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-24-islandlk-ec7be8c3)
 
 ---
 
