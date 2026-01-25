@@ -1,0 +1,35 @@
+India Stack: The Indian approach and experience
+
+What is the India Stack? It is a collection of open Application Programming Interface (APIs) and Digital Public Goods forming India’s foundational digital infrastructure. Its components collectively enable various entities, including Governments, businesses and individuals to interact and conduct transactions digitally. The India Stack components like Aadhaar (identity), UPI (payments), DigiLocker (documents), e-Sign (digital signature), e-KYC (know your customer), DBT (direct benefit transfer), Ayushman Bharat Digital Mission (healthcare), etc, enable citizens, businesses and developers to avail of paper-less, presence-less and cashless transactions and services.
+
+The India Stack is a framework that aims to accelerate India’s digital transformation and enhance financial inclusion. Although the name of the project bears the word India, the vision of India Stack is not limited to one country. It can be applied to any nation, developed or one that is developing or emerging.
+
+The project was conceptualised early this century, and first implemented in 2009 through the Aadhaar unique identity programme. The India Stack is designed to provide a secure and interoperable platform for the delivery of various services to citizens, leveraging the power of technology and data.
+
+The Cashless Layer, which supports an interoperable payment network, owned and operated by the National Payments Corporation of India (NCPI). This layer includes payments platforms like IMPS, which facilitates immediate electronic transfers from one bank account to another, and UPI, an instant real-time payment system from an individual or business/entity to another individual or to a business/entity, thus replacing use of notes and coins. The UPI gained immense popularity during the Covid period, and has been growing by leaps and bounds in India, since then. These and other platforms like AEPS (Aadhaar Enabled Payments System) and APB (Aadhaar Payment Bridge) reduce the cost and risk of financial transactions.
+
+The Paperless Layer enables storage and retrieval of information on a real time basis. Owned by the Department of Electronics & Information Technology, this layer includes e-Sign, e-KYC and DigiLocker.
+
+The Presence-less Layer provides unique digital biometric identities (Aadhaar) with open APIs, enabling real-time, anytime, anywhere verification without physical documents, thus reducing fraud and simplifying access to digital services.
+
+The Consent Layer empowers individuals with control over their personal data through a framework for secure consented sharing featuring Electronic Data Consent (EDC) for time/purpose limits; a Consent Artefact for transparency; and regulated entities like Account Aggregators (AA) to manage data flow. How does it work? To give an example, if an individual or entity seeks a loan, he/it consents to share their financial data like bank statements, through an AA, which securely retrieves the data from the bank with the consent given. The data is shared with the loan provider, with the user’s specified permissions in the Consent Artefact.
+
+The Commerce Layer is driven by the Open Network for Digital Commerce (ONDC), a Section 8 (not for profit) company. It features open protocols for interoperability, standardised operations (inventory, cataloguing), data privacy, and a consent-based framework, enabling seamless integration between buyers and sellers. It helps reduce monopoly, fostering a competitive digital marketplace, lowering entry barriers for smaller sellers like MSMEs and the neighbourhood kirana (grocery) store. This layer’s foundation is laid on India’s Digital Public Infrastructure (DPI), using Aadhaar, UPI, DigiLocker and the Consent Layer.
+
+Hundreds of millions of Indian citizens and residents have onboarded various components of the India Stack-built DPI, to avail of safe and secure financial, healthcare, education and other services. Its key deliverables are:
+
+It has facilitated the creation of innovative solutions and startups that leverage digital technology to address societal challenges and improve access to services for all segments of the population. India’s experience can be summed up in the following outcomes.
+
+Financial Inclusion: India Stack plays a crucial role in promoting financial inclusion by providing a digital platform for banking, payments and financial services. It has enabled people, who were earlier excluded from financial systems - those unbanked or underbanked - to access digital payments methods.
+
+Access to Services: With India Stack, citizens can access a wide range of Government services, financial services, healthcare services, education resources, and more, through digital platforms, enhancing convenience and accountability.
+
+Entrepreneurship and Innovation: India Stack’s open APIs have spurred innovation by allowing startups and businesses to build new services on top of the existing infrastructure. This has led to growth of a vibrant tech ecosystem.
+
+Reduced Corruption: By enabling DBT and digital subsidies, the financial benefits from Government to citizens now reach his/her bank account directly through DBT, rather than through intermediaries, as in the past. India Stack is thus assisting in reducing leakages and corruption in the distribution of Government benefits and subsidies.
+
+India’s model is being replicated globally, with the India Stack serving as a blueprint for inclusive growth and digital transformation in other developing countries.
+
+Though some challenges remain on data privacy, cybersecurity, digital inclusiveness and regulatory oversight, the India Stack has served the people of the country well. It is also assisting several friendly countries to build their own digital public infrastructure (DPI) for inclusive growth and digital transformation.
+
+(The author joined the Indian Foreign Service in 1984. Following a two-year training program at various institutions and at the Ministry of External Affairs, New Delhi, he served in Indian diplomatic missions in Hong Kong, Beijing (twice), Bonn and Dhaka. He was a visiting fellow at the South Asia Program of the Centre for Strategic and International Studies, in Washington, DC for six months in 2004-05. He has held the office of the Joint Secretary in the Ministry of Defence and the Ministry of External Affairs from 2005 to end 2008. He served as the Indian Ambassador to Azerbaijan from December 2008 to May 2012 before he joined Dar es Salaam as the High Commissioner of India to Tanzania)

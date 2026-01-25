@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-26 01:46:33",
-  "n_docs": 99527,
+  "time_updated": "2026-01-26 03:45:52",
+  "n_docs": 99529,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 99527,
+  "n_docs_with_text": 99529,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-01-25",
-  "dataset_size": 1512271819,
+  "date_str_max": "2026-01-26",
+  "dataset_size": 1512282804,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-25-adalk-95bb67ef",
-    "num": "adalk-95bb67ef",
-    "date_str": "2026-01-25",
-    "description": "\u0d9a\u0dad\u0ddd\u0dbd\u0dd2\u0d9a \u0db4\u0dd2\u0dba\u0dad\u0dd4\u0db8\u0dcf\u0da7 \u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca \u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0da7 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dad\u0dca \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dad\u0ddd\u0dbd\u0dd2\u0d9a-\u0db4\u0dd2\u0dba\u0dad\u0dd4\u0db8\u0dcf\u0da7-\u0db4\u0dc4\u0dbb\u0daf\u0dd4\u0db1\u0dca-\u0dc3\u0dd2\u0daf\u0dca\u0db0\u0dd2\u0dba\u0da7-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7-\u0d9c\u0dad\u0dca-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/11-420950",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1769342621.0
+    "doc_id": "2026-01-26-dailyftlk-e0daddf4",
+    "num": "dailyftlk-e0daddf4",
+    "date_str": "2026-01-26",
+    "description": "India Stack: The Indian approach and experience",
+    "url_metadata": "https://www.ft.lk/columns/India-Stack-The-Indian-approach-and-experience/4-787395",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1769378829.0
   }
 }
