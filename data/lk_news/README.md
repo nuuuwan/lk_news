@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--25_15:46:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--25_17:51:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,522** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,526** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-25-tamilmirrorlk-261e15b5",
-    "num": "tamilmirrorlk-261e15b5",
+    "doc_id": "2026-01-25-tamilmirrorlk-11d3e6c5",
+    "num": "tamilmirrorlk-11d3e6c5",
     "date_str": "2026-01-25",
-    "description": "\u0ba4\u0b99\u0bcd\u0b95\u0b9a\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbf\u0baf\u0bc8 \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bbf\u0baf \u0ba8\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba4\u0b99\u0bcd\u0b95\u0b9a\u0bcd-\u0b9a\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbf\u0baf\u0bc8-\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bbf\u0baf-\u0ba8\u0baa\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/76-371527",
+    "description": "\u0b95\u0bb2\u0bcd\u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd, \u0bae\u0bb2\u0bc8\u0baf\u0b95 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf  \u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0bb2\u0bcd\u0bae\u0bc1\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bb2\u0bc8\u0baf\u0b95-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1/76-371528",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1769335595.0
+    "time_ut": 1769338833.0
 }
 ```
 
@@ -41,7 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-25 | `tamilmirrorlk-11d3e6c5` | கல்முனையில், மலையக சிறுமி  வன்புணர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-11d3e6c5)
+- 2026-01-25 | `adalk-456909e7` | GMOA හෙට පෙරවරු 8 සිට අඛණ්ඩ වෘත්තීය සමිති ක්‍රියාමාර්ගයක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-adalk-456909e7)
+- 2026-01-25 | `tamilmirrorlk-ba08d742` | தங்கச் சங்கிலியுடன் ஓடியவர் சிக்கினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-ba08d742)
 - 2026-01-25 | `tamilmirrorlk-261e15b5` | தங்கச் சங்கிலியை திருடிய நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-261e15b5)
+- 2026-01-25 | `adalk-1153811b` | ඉන්දුනිසියාවේ නාය යාමෙන් අතුරුදන් වූවන් සොය තවදුරටත් මෙහෙයුම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-adalk-1153811b)
 - 2026-01-25 | `tamilmirrorlk-fd78dbe4` | இந்து மதத்திற்கு ரகுமான் மாறினால் வேலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-fd78dbe4)
 - 2026-01-25 | `adalk-94de41e5` | දෙහිඅත්තකණ්ඩිය සමුපකාර සමිතියේ බලය පොදු විපක්ෂයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-adalk-94de41e5)
 - 2026-01-25 | `tamilmirrorlk-67f7d9c2` | கெசல்வத்த தினுஷாவுக்கு 72 மணிநேர தடுப்புக்காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-67f7d9c2)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-01-25 | `virakesarilk-2faa0033` | 8 கோடி ரூபா பெறுமதியான 'குஷ்' போதைப்பொருளுடன் கட்டுநாயக்கவில் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-virakesarilk-2faa0033)
 - 2026-01-25 | `virakesarilk-fa6ddb8c` | எரிக் மேயரின் இலக்கு என்ன? - ஹரி­கரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-virakesarilk-fa6ddb8c)
 - 2026-01-25 | `tamilmirrorlk-512e4d5a` | கழிப்பறைக்கு அருகில் மயங்கிக்கிடந்த தாய் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-512e4d5a)
-- 2026-01-25 | `adalk-56528612` | කෙසෙල්වත්තේ දිනුක ලංකාවට ගෙනෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-adalk-56528612)
-- 2026-01-25 | `virakesarilk-eceaf6e6` | தித்வா புயலால் பாதிக்கப்பட்ட மக்களுக்கு காணிகள் வழங்குவதில் அரசாங்கம் பாரபட்சம் - மனோ கணேசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-virakesarilk-eceaf6e6)
-- 2026-01-25 | `virakesarilk-6cebe210` | மாகாணசபைத் தேர்தல் முறைமை குறித்து எதிரணியினருடன் சுமந்திரன் நிகழ்நிலை சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-virakesarilk-6cebe210)
-- 2026-01-25 | `tamilmirrorlk-8f67b1de` | அவுஸ்திரேலியாவில் சுறா தாக்குதல் அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-25-tamilmirrorlk-8f67b1de)
 
 ---
 
