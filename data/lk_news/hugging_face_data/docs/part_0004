@@ -34891,6 +34891,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-25-adalk-0f8fd979",
+    "num": "adalk-0f8fd979",
+    "date_str": "2026-01-25",
+    "description": "\u0dc4\u0ddc\u0dbb \u0dc4\u0dbb\u0d9a\u0dca \u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0da7 \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0db6\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0ddc\u0dbb-\u0dc4\u0dbb\u0d9a\u0dca-\u0dbd\u0ddc\u0dbb\u0dd2\u0dba\u0da7-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dd2\u0dba-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0db6\u0dba\u0dd2/11-420951",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769354036.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-25-islandlk-2827d05a",
     "num": "islandlk-2827d05a",
     "date_str": "2026-01-25",
@@ -34976,6 +34987,28 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1769376397.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-26-tamilmirrorlk-8b4aceea",
+    "num": "tamilmirrorlk-8b4aceea",
+    "date_str": "2026-01-26",
+    "description": "131 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0ba4\u0bcd\u0bae \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/131-\u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0ba4\u0bcd\u0bae-\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1\u0b95\u0bb3\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-371558",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769377285.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-26-tamilmirrorlk-584239cd",
+    "num": "tamilmirrorlk-584239cd",
+    "date_str": "2026-01-26",
+    "description": "\u0baa\u0bbf\u0bb0\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0baa\u0ba3 \u0bae\u0bcb\u0b9a\u0b9f\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0ba4\u0bbf-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0baa\u0bc6\u0baf\u0bb0\u0bc8\u0baa\u0bcd-\u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf-\u0baa\u0ba3-\u0bae\u0bcb\u0b9a\u0b9f\u0bbf/175-371559",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769377923.0
   },
   {
     "doc_type": "lk_news",
@@ -35111,6 +35144,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-26-dailyftlk-13c183bb",
+    "num": "dailyftlk-13c183bb",
+    "date_str": "2026-01-26",
+    "description": "Hisham Jamaldeen and Archie Warman join Lee Hedges Board",
+    "url_metadata": "https://www.ft.lk/business/Hisham-Jamaldeen-and-Archie-Warman-join-Lee-Hedges-Board/34-787423",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1769384300.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-26-dailyftlk-62a57d34",
     "num": "dailyftlk-62a57d34",
     "date_str": "2026-01-26",
@@ -35130,5 +35174,16 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1769384883.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-26-tamilmirrorlk-d60070f2",
+    "num": "tamilmirrorlk-d60070f2",
+    "date_str": "2026-01-26",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bae\u0bb4\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bc2\u0b9f\u0bbf\u0baf-\u0bae\u0bb4\u0bc8/175-371560",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769394667.0
   }
 ]
