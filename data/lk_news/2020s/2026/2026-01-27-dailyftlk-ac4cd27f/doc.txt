@@ -1,0 +1,77 @@
+Click first, sue later
+
+This article is based on the Keynote delivered by the author at the Jaffna International Law Conference 2026
+
+Commercial law has never stood still. It has always evolved with trade, technology, and trust. Yet the pace of change today is different. Capital moves faster than statutes. Data moves faster than courts. Payments move faster than compliance mechanisms, dispute resolution, and remedies.
+
+The core question confronting legal systems, including Sri Lanka’s, is no longer whether digital transactions are legally recognised. They are. The question is this: when digital economic activity fails, does commercial law produce clarity, responsibility, and remedies quickly and fairly enough?
+
+That question formed the centre of my keynote address at the Jaffna International Law Conference 2026.
+
+In everyday life, most digital transactions are effortless. We book hotels, order goods, pay through wallets, click “I agree,” and assume, often subconsciously, that if something goes wrong, there will be a refund, a complaint pathway, or someone responsible. That assumption is the digital economy at work.
+
+Behind every simple app interface lies a complex network of banks, payment gateways, platforms, logistics providers, analytics tools, and increasingly, AI-driven systems. A single click activates multiple legal regimes at once: contract law, banking regulation, consumer protection, data protection, platform policies, and often cross-border legal principles.
+
+Sri Lankan lawyers instinctively recognise the Electronic Transactions Act, No. 19 of 2006, which confirms that electronic records, confirmations, and clicks can create legally valid contracts. On paper, the law is clear: a contract exists.
+
+But when a digital transaction fails, the legal response fragments. One is sent to the bank under banking law, to the Consumer Affairs Authority under consumer protection laws, to the police under the Computer Crimes Act to court under contract law and civil procedure. None of these answers are wrong. Yet none address the entire transaction as a single commercial event.
+
+Modern commerce cannot allow responsibility to evaporate into a chain of vendors, APIs, and technical disclaimers. Where an institution chooses to deploy digital infrastructure, software, platforms, payment systems, or AI; commercial responsibility must follow that deployment. Control combined with profit must equal responsibility.
+
+Consumers interact with one transaction, not a technical ecosystem. Commercial law must ensure that responsibility is already allocated internally between platforms, software providers, banks, and data processors, rather than being exported outward to the weakest party when loss occurs.
+
+That moment of failure is where commercial law is truly tested.
+
+The challenge intensifies in cross-border digital commerce. Orders placed on global platforms may involve offshore sellers, foreign payment systems, and overseas servers. Traditional jurisdictional anchors, where the defendant resides or where the cause of action arose strain under algorithmic marketplaces.
+
+Consumer protection law exists, but much of its machinery presumes identifiable traders and territorial enforcement. Litigation remains slow and remedies lag behind loss. There is the mismatch between laws built for physical or human marketplaces and commerce now governed by code and algorithms.
+
+Sri Lanka does not need to import foreign frameworks wholesale. Sri Lanka is well placed to build a hybrid approach, one that preserves statutory certainty while empowering courts to align responsibility with economic reality.
+
+The core question confronting legal systems, including Sri Lanka’s, is no longer whether digital transactions are legally recognised. They are. The question is this: when digital economic activity fails, does commercial law produce clarity, responsibility, and remedies quickly and fairly enough?
+
+The UK Supreme Court decision in Uber BV v Aslam crystallised this approach. The Court ignored contractual labels and asked a commercially grounded question: who controls the economic reality of the transaction? The Court concluded that Drivers were in a position of subordination and dependency, regardless of how the contracts were drafted.
+
+In the digital economy, control over pricing, access, performance, and termination matters more than formal drafting or contractual labels. That logic applies directly to Sri Lanka’s platform economy.
+
+Sri Lanka already has the relevant statutes: electronic transactions law, consumer law, data protection, banking regulation, and labour principles. What is missing is a framework that connects them, so responsibility follows control rather than form.
+
+In today’s world where software replaces human decision-making, the legal question does not disappear. It simply shifts from who clicked to who designed, deployed, and profited from the system.
+
+Artificial intelligence deepens this challenge. AI systems increasingly decide who receives credit, whose account is flagged, which products are visible, and which transactions are delayed or denied.
+
+Bias embedded in data, often drawn from developed, English-speaking economies that can translate into discriminatory or exclusionary outcomes locally. When AI-driven decisions cause economic loss, commercial law must answer a simple question: who is responsible?
+
+Data protection law safeguards privacy but does not allocate compensation for commercial harm.
+
+Rather than calling for more laws or sweeping amendments, the digital economy requires minimum commercial obligations that connect existing regimes.
+
+Where a platform or institution controls onboarding, eligibility, pricing, or payment flows, affected parties must receive reasoned explanations, not “automated decision” notices devoid of meaning. Explainability is not a data concept; it is a commercial one. Without it, loss becomes unchallengeable and contracts functionally unenforceable.
+
+n Second, human review must exist for significant economic consequences
+
+Where automated systems freeze funds, deny credit, or exclude users from markets, affected parties must have access to a responsible human decision-maker with authority to override automated outcomes, within a commercially meaningful timeframe. Commercial law does not reject automation; it rejects unreviewable automation.
+
+Contracts must resolve responsibility between platforms, deploying institutions, software vendors, and data processors before systems go live. Consumers should not bear the burden of identifying defendants across technical supply chains.
+
+Automated systems operate in seconds. Remedies that take months render commercial rights meaningless. A payment that clears instantly but offers redress only through prolonged processes is structurally unjust.
+
+Consider airline tickets purchased online. An automated error prevents funds from reaching the airline. While the issue is “under review,” ticket prices increase. When money moves in seconds, justice that moves in months is no justice at all.
+
+The true test of commercial law in the digital economy is not whether it recognises contracts. It is whether it allocates responsibility fairly, quickly, and credibly when transactions fail
+
+The solution is not to add new bricks indiscriminately. It is to connect the bricks we already have.
+
+This process begins in the courts, where judges are already empowered to interpret statutes together, attribute automated outcomes to commercial actors, and treat platforms as economic participants rather than passive messengers.
+
+It continues in legal education, where law must be taught as integrated systems rather than silos, beacause if we teach law in silos, we produce siloed lawyers and the digital economy requires integrative thinking.
+
+Only then does reform move to legislation, if at all, through narrow, enabling instruments that guide courts when digital transactions activate multiple legal regimes simultaneously.
+
+Rather than chasing offshore sellers, Sri Lanka can regulate market access. If a platform targets Sri Lankan users, structures transactions into Sri Lanka, and extracts value from Sri Lankan markets, minimum commercial obligations are justified. This is not regulatory overreach. It is commercial logic.
+
+The true test of commercial law in the digital economy is not whether it recognises contracts. It is whether it allocates responsibility fairly, quickly, and credibly when transactions fail.
+
+The digital economy does not require us to abandon commercial law, it requires us to research where it fails in practice, reframe how we understand responsibility, and rebuild how existing laws connect at the point of failure.
+
+Commercial law remains what it has always been: a gentle civiliser of change, so long as it keeps pace with how commerce is actually done.

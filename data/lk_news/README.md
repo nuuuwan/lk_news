@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_01:49:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_03:50:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,650** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,664** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-26-dailyftlk-cdd139d4",
-    "num": "dailyftlk-cdd139d4",
-    "date_str": "2026-01-26",
-    "description": "Rebuilding Sri Lanka without delay: Why procurement reform matters after Ditwah",
-    "url_metadata": "https://www.ft.lk/columns/Rebuilding-Sri-Lanka-without-delay-Why-procurement-reform-matters-after-Ditwah/4-787440",
+    "doc_id": "2026-01-27-dailyftlk-d3998439",
+    "num": "dailyftlk-d3998439",
+    "date_str": "2026-01-27",
+    "description": "Of moods, words and deeds: Being brilliant on basics",
+    "url_metadata": "https://www.ft.lk/columns/Of-moods-words-and-deeds-Being-brilliant-on-basics/4-787477",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1769451177.0
+    "time_ut": 1769465471.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-27 | `dailyftlk-d3998439` | Of moods, words and deeds: Being brilliant on basics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-d3998439)
+- 2026-01-27 | `dailyftlk-1afa9ce8` | Surviving and thriving: How Sri Lankan businesses face climate crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-1afa9ce8)
+- 2026-01-27 | `dailyftlk-fbd340dd` | India’s 77th Republic Day celebrations in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-fbd340dd)
+- 2026-01-27 | `dailyftlk-8e07ee19` | Namal stresses India-Sri Lanka ties, youth leadership at Republic Day event | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-8e07ee19)
+- 2026-01-27 | `dailyftlk-6437c6e0` | Cambridge heralds new chapter for English assessment with Linguaskill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-6437c6e0)
+- 2026-01-27 | `dailyftlk-6ea221ec` | Pathfinder Foundation inaugurates Repository for Sri Lanka’s  Peace Initiatives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-6ea221ec)
+- 2026-01-27 | `tamilmirrorlk-c1393893` | அமெரிக்காவில் ’பெர்ன்’ பனிப்புயல்: 17 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-c1393893)
+- 2026-01-27 | `dailyftlk-3f7efabf` | Sri Lanka showcases excellence at Grüne Woche 2026 in Berlin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-3f7efabf)
+- 2026-01-27 | `dailyftlk-9f77a00c` | Mabroc Teas launches TeaTrace pioneering digital transparency across global trade | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-9f77a00c)
+- 2026-01-27 | `dailyftlk-5de5ed26` | EDB maps export-led growth path to 2030 at National Consultative Forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-5de5ed26)
+- 2026-01-27 | `dailyftlk-39dcfb66` | Vickum of Santani-fame  joins RIL Property Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-39dcfb66)
+- 2026-01-27 | `dailyftlk-1aed54e6` | District Court dismisses NFC action against Film Lanka; upholds rights on BOI deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-1aed54e6)
+- 2026-01-27 | `dailyftlk-ac4cd27f` | Click first, sue later | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-ac4cd27f)
+- 2026-01-27 | `dailyftlk-449d2ae6` | New tax calculation method for gem imports: A strategic boost for jewellery industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-449d2ae6)
 - 2026-01-26 | `dailyftlk-cdd139d4` | Rebuilding Sri Lanka without delay: Why procurement reform matters after Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-dailyftlk-cdd139d4)
 - 2026-01-26 | `tamilmirrorlk-0fa50a90` | முதற் தடவையாக $5,000ஐத் தாண்டிய தங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-tamilmirrorlk-0fa50a90)
 - 2026-01-26 | `dailyftlk-00d1cbd5` | IDL and Thomas Assessments India partner on national youth development initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-dailyftlk-00d1cbd5)
 - 2026-01-26 | `colombotelegraphcom-2d82ee9b` | RTI, Public Banks & The Misuse Of Institutional Autonomy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-colombotelegraphcom-2d82ee9b)
 - 2026-01-26 | `adalk-d3fe9152` | 2025දී අපනයන ආදායම ඩොලර් බිලියන 17.2යි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-adalk-d3fe9152)
 - 2026-01-26 | `tamilmirrorlk-e35ec598` | கரி நாளுக்காக அணி திரட்டல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-tamilmirrorlk-e35ec598)
-- 2026-01-26 | `tamilmirrorlk-93991e05` | மதத் தலங்கள் புனர்நிர்மாணம் ; ஜனாதிபதி தலைமையில் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-tamilmirrorlk-93991e05)
-- 2026-01-26 | `tamilmirrorlk-7bd20570` | ’டிட்வா’ நன்கொடையாக  காணிகளை வழங்கலாம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-tamilmirrorlk-7bd20570)
-- 2026-01-26 | `virakesarilk-4ececb0f` | “முழு நாடுமே ஒன்றாக” போதைப்பொருள் சுற்றிவளைப்பில் 851 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-4ececb0f)
-- 2026-01-26 | `virakesarilk-7a86adb1` | மதுபோதையில் அல்லது போதைப்பொருள் பயன்படுத்தி வாகனங்களை செலுத்தும் சாரதிகளுக்கு எதிராக நடவடிக்கை எடுக்கும் பொலிஸ் அதிகாரிகளுக்கு பரிசுத்தொகை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-7a86adb1)
-- 2026-01-26 | `virakesarilk-ab5dd45d` | அநுராதபுரம் - கண்டி பிரதான வீதியில் விபத்து ; வெளிநாட்டு தம்பதி உட்பட 9 பேர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-ab5dd45d)
-- 2026-01-26 | `virakesarilk-49f85f8e` | போதைப்பொருள் பாவனை செய்து வாகனங்களை செலுத்திய 790 சாரதிகள் கைது - பொலிஸ் போக்குவரத்து பிரிவின் பிரதி பொலிஸ் மாஅதிபர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-49f85f8e)
-- 2026-01-26 | `tamilmirrorlk-b4114cee` | மனையின் ‘முடி’யால் விவாகரத்து கேட்ட கணவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-tamilmirrorlk-b4114cee)
-- 2026-01-26 | `virakesarilk-0c55cedc` | சுகாதார சேவைக்கு 213 முகாமைத்துவ உதவியாளர்கள் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-0c55cedc)
-- 2026-01-26 | `virakesarilk-d0baad8c` | காட்டுப் பகுதியில் தீக்காயங்களுடன் குடும்பஸ்தரின் சடலம் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-d0baad8c)
-- 2026-01-26 | `virakesarilk-b5157df3` | முல்லைத்தீவு பொது வைத்தியசாலையில் கடற்படையின் இரத்த தான திட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-b5157df3)
-- 2026-01-26 | `virakesarilk-406e37a6` | 2026ம் ஆண்டின் இடமாற்றத்திற்கு எதிராக அணிதிரளும் அபிவிருத்தி உத்தியோகத்தர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-406e37a6)
-- 2026-01-26 | `virakesarilk-4dd06ba4` | இரண்டு உலக சம்பியன் பட்டங்களுடன் தாயகத்திற்கு பெருமை சேர்த்த டாவி சமரவீர நாடு திரும்பினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-4dd06ba4)
-- 2026-01-26 | `virakesarilk-3ff2d357` | திரையுலக பிரபலங்கள் முன்னிலையில் நடைபெற்ற 34 இயக்குநர்கள் உருவாக்கிய 34 திரைப்படங்களின் அறிமுக விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-3ff2d357)
-- 2026-01-26 | `virakesarilk-f1ba0758` | கிரீஸில் பிஸ்கட் தொழிற்சாலையில் தீ விபத்து ; 03 பேர்  உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-f1ba0758)
 
 ---
 
