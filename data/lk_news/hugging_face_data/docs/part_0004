@@ -36167,6 +36167,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-26-colombotelegraphcom-2d82ee9b",
+    "num": "colombotelegraphcom-2d82ee9b",
+    "date_str": "2026-01-26",
+    "description": "RTI, Public Banks & The Misuse Of Institutional Autonomy",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/rti-public-banks-the-misuse-of-institutional-autonomy/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1769437229.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-26-dailyftlk-00d1cbd5",
+    "num": "dailyftlk-00d1cbd5",
+    "date_str": "2026-01-26",
+    "description": "IDL and Thomas Assessments India partner on national youth development initiative",
+    "url_metadata": "https://www.ft.lk/business/IDL-and-Thomas-Assessments-India-partner-on-national-youth-development-initiative/34-787435",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1769449445.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-26-tamilmirrorlk-0fa50a90",
     "num": "tamilmirrorlk-0fa50a90",
     "date_str": "2026-01-26",
@@ -36175,5 +36197,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1769449769.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-26-dailyftlk-cdd139d4",
+    "num": "dailyftlk-cdd139d4",
+    "date_str": "2026-01-26",
+    "description": "Rebuilding Sri Lanka without delay: Why procurement reform matters after Ditwah",
+    "url_metadata": "https://www.ft.lk/columns/Rebuilding-Sri-Lanka-without-delay-Why-procurement-reform-matters-after-Ditwah/4-787440",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1769451177.0
   }
 ]

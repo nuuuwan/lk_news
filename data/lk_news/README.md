@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--26_23:52:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_01:49:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,647** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,650** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-26-tamilmirrorlk-0fa50a90",
-    "num": "tamilmirrorlk-0fa50a90",
+    "doc_id": "2026-01-26-dailyftlk-cdd139d4",
+    "num": "dailyftlk-cdd139d4",
     "date_str": "2026-01-26",
-    "description": "\u0bae\u0bc1\u0ba4\u0bb1\u0bcd \u0ba4\u0b9f\u0bb5\u0bc8\u0baf\u0bbe\u0b95 $5,000\u0b90\u0ba4\u0bcd \u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bb1\u0bcd-\u0ba4\u0b9f\u0bb5\u0bc8\u0baf\u0bbe\u0b95-5-000\u0b90\u0ba4\u0bcd-\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf-\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd/175-371607",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1769449769.0
+    "description": "Rebuilding Sri Lanka without delay: Why procurement reform matters after Ditwah",
+    "url_metadata": "https://www.ft.lk/columns/Rebuilding-Sri-Lanka-without-delay-Why-procurement-reform-matters-after-Ditwah/4-787440",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1769451177.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-26 | `dailyftlk-cdd139d4` | Rebuilding Sri Lanka without delay: Why procurement reform matters after Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-dailyftlk-cdd139d4)
 - 2026-01-26 | `tamilmirrorlk-0fa50a90` | முதற் தடவையாக $5,000ஐத் தாண்டிய தங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-tamilmirrorlk-0fa50a90)
+- 2026-01-26 | `dailyftlk-00d1cbd5` | IDL and Thomas Assessments India partner on national youth development initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-dailyftlk-00d1cbd5)
+- 2026-01-26 | `colombotelegraphcom-2d82ee9b` | RTI, Public Banks & The Misuse Of Institutional Autonomy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-colombotelegraphcom-2d82ee9b)
 - 2026-01-26 | `adalk-d3fe9152` | 2025දී අපනයන ආදායම ඩොලර් බිලියන 17.2යි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-adalk-d3fe9152)
 - 2026-01-26 | `tamilmirrorlk-e35ec598` | கரி நாளுக்காக அணி திரட்டல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-tamilmirrorlk-e35ec598)
 - 2026-01-26 | `tamilmirrorlk-93991e05` | மதத் தலங்கள் புனர்நிர்மாணம் ; ஜனாதிபதி தலைமையில் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-tamilmirrorlk-93991e05)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-01-26 | `virakesarilk-4dd06ba4` | இரண்டு உலக சம்பியன் பட்டங்களுடன் தாயகத்திற்கு பெருமை சேர்த்த டாவி சமரவீர நாடு திரும்பினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-4dd06ba4)
 - 2026-01-26 | `virakesarilk-3ff2d357` | திரையுலக பிரபலங்கள் முன்னிலையில் நடைபெற்ற 34 இயக்குநர்கள் உருவாக்கிய 34 திரைப்படங்களின் அறிமுக விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-3ff2d357)
 - 2026-01-26 | `virakesarilk-f1ba0758` | கிரீஸில் பிஸ்கட் தொழிற்சாலையில் தீ விபத்து ; 03 பேர்  உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-virakesarilk-f1ba0758)
-- 2026-01-26 | `tamilmirrorlk-0e4d7eb5` | ஸ்பெயின் பறக்க முயன்றவர் கட்டுநாயக்கவில் சிக்கினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-tamilmirrorlk-0e4d7eb5)
-- 2026-01-26 | `tamilmirrorlk-2d888ee1` | பிபில விபத்தில் 20 பேர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-tamilmirrorlk-2d888ee1)
-- 2026-01-26 | `tamilmirrorlk-b87aa0e7` | 9.30 க்கு ஆஜராகுமாறு 9.50க்கு நாமலுக்கு அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-tamilmirrorlk-b87aa0e7)
 
 ---
 
