@@ -1,0 +1,69 @@
+Pillar Two of the OECD: Silent death of tax holidays
+
+The global minimum corporate tax rate is part of the OECD Inclusive Framework initiative known as Pillar Two. It requires every tax jurisdiction to make sure that multinational corporations pay a minimum effective tax rate of 15%
+
+The global minimum corporate tax rate is part of the OECD Inclusive Framework initiative known as Pillar Two. It requires every tax jurisdiction to make sure that multinational corporations pay a minimum effective tax rate of 15%.
+
+The recent global push towards a Global Minimum Corporate Tax Rate of 15%, is often presented as a neutral and progressive reform to curb tax avoidance by multinational corporations (MNCs). However, when seen through a historical and geopolitical lens, particularly from the perspective of developing countries, this initiative raises serious concerns about equity, sovereignty, and the right of poorer nations to follow their own development strategies.
+
+Most of today’s developed countries, particularly those within the OECD, were once colonial powers. Their economic advancement was built substantially on the resources, labor, and wealth extracted from colonies in Asia, Africa, and Latin America, which represent today the poor global south. The so-called granting of political independence after liberation struggles and world wars was often portrayed as an act of generosity. In reality, political control was reluctantly given up, while economic influence was carefully preserved and retained.
+
+It is not a secret that OECD countries have repeatedly taken several steps to advance and protect their own interests, frequently packaging them as humanitarian ideals or global initiatives. The evolution of the OECD itself, and its present influence and sway over international rule-making, stands as a clear example of this approach.
+
+After the World War II, developed countries formed exclusive groupings for their collective advancement, initially under names such as the Organisation for European Economic Cooperation (OEEC). Once their economic recovery was largely secured, the scope of this grouping was expanded beyond Europe. In the 1960s, it was rebranded as the Organisation for Economic Cooperation and Development (OECD), purposefully dropping the word “European” to project an image of wider globalism rather than narrow regionalism.
+
+From that point onward, the OECD assumed a dominant role in shaping global economic and tax norms, often with limited and unequal participation from developing countries. International taxation became one of the most powerful instruments through which these norms were formulated, promoted, and enforced. From time to time, OECD introduced several initiatives, including following, aiming at promoting and preserving its economic interests in the pretext of global economic interests.
+
+One of the most consequential yet least analysed initiatives of the OECD has been its promotion of the Model Double Taxation Avoidance Agreement (DTAA). Although presented as a mechanism to prevent double taxation and promote cross-border investment, these treaties have effectively shifted taxing rights away from developing countries. Under the OECD Model, taxing rights—particularly on passive income such as dividends, interest, and royalties—are largely allocated to the country of residence of investors and multinational enterprises, rather than to the country where the income is generated, thereby favoring developed, capital-exporting nations.
+
+In response to growing criticism from developing countries, alternative thinking emerged within the United Nations. This resulted in the UN Model DTAA, which places greater emphasis on the source-country principle and allows countries where income is generated to retain stronger taxing rights. However, in practice, this balance is often weakened, as OECD countries use economic and political leverage during bilateral negotiations to steer developing countries back toward the OECD Model, reinforcing existing global power imbalances through tax policy.
+
+When developing countries increasingly resisted unfavorable treaty provisions, the OECD introduced the Base Erosion and Profit Shifting (BEPS) project, comprising 15 action plans. While publicly framed as a fight against tax avoidance, the undeclared objective was to prevent the outflow of taxable profits from OECD countries to developing economies.
+
+Transfer pricing rules and the Arm’s Length Principle (ALP) were further refined to ensure that profits of MNCs remained aligned with capital-exporting countries, where strategic decision-making and ownership of intangibles are usually located. Despite these efforts, significant profit shifting continued, and developing countries gained little additional taxing power.
+
+Unable to achieve their objectives fully as expected through DTAA, BEPS, and other measures, OECD countries advanced the Pillar One and Pillar Two package. Pillar One acts as both a carrot and a stick for developing countries. It promises limited taxing rights over a portion of MNC profits—known as Amount A—based on market jurisdiction. However, this comes with complex thresholds, exclusions, stipulations such as withdrawals of Digital Service Tax (DST), agreement to Mandatory Binding Arbitration (MBA), and shifting from Bilateral Instrument (BLI) to Multilateral Instrument (MLI), and administrative burdens that significantly restrict its practical benefits.
+
+This Pillar Two sets out rules that would provide other foreign jurisdictions with a right to “tax back” where a jurisdiction has not exercised its primary taxing right of imposition of global minimum corporate tax of 15% on a MNE. These rules would ensure that all large internationally operating businesses pay at least a minimum level of tax of at least 15%. Hence, any tax concession or exemption given to a MNE for attraction of FDI, will not benefit such MNE but its Foreign Tax Authority.
+
+Under this scheme, foreign jurisdictions are allowed to step in and tax the profits of associated companies whenever any entity within a multinational group pays tax at an effective rate below 15%. Details of the profits earned, taxes paid, and other relevant information of each constituent entity within the group are disclosed in the consolidated financial statements and in the Country-by-Country Reports (CbCR) submitted by the ultimate parent entity of the MNC. This power is exercised through two key enforcement tools: the Income Inclusion Rule (IIR) and the Undertaxed Payments Rule (UTPR).
+
+In simple terms, the Income Inclusion Rule (IIR) works like a “tax back-up system” for rich countries. If a multinational company operates in a country and enjoys tax holidays or incentives that reduce its tax bill below 15%, the country where the parent company is based is allowed to collect the difference.
+
+For instance, if a subsidiary of MNC in Country A, pays only 5% tax because of local tax incentives, the parent company’s home Country B, can step in and charge an additional 10%. The total tax paid by the company then reaches the global minimum of 15%—but the extra tax goes to the foreign Country B, not to the Country A, where the MNC actually operates.
+
+If the parent Country B, chooses not to collect this extra tax (10%), another rule—the Undertaxed Payments Rule (UTPR)—comes into play. Under this rule, other countries (C & D) where other associated members of the same multinational operate, can deny tax deductions or impose additional charges until the remaining tax (10%) is recovered.
+
+The end result is simple and clear: any tax relief or incentive offered by a developing country is effectively cancelled elsewhere. The tax benefit forgone by the country to attract the FDI, does not avail the investor, but other foreign countries, where other members of the MNCs operate.
+
+As an alternative, countries may adopt a Domestic Minimum Top-Up Tax (DMTT) unilaterally. This allows the source country to collect the top-up tax itself, preventing other countries from taxing those profits. An even stronger mechanism is the adoption of a Qualified Domestic Minimum Top-Up Tax (QDMTT), which is recognised under OECD rules. Once a QDMTT is in place, other countries are legally prevented from applying the IIR or UTPR on the same income.
+
+Although this allows the country to collect the tax itself, it does not make tax incentives attractive again, because companies must still pay at least 15 per cent tax overall.
+
+Pillar Two allows a small reduction in taxable profits for companies with economic factors, by excluding up to 10% of payroll costs and 8% of the value of physical assets. These carve-outs (exclusions) provide some relief, but they are modest and insufficient to offset the broader impact on investment decisions, particularly in capital-scarce developing economies.
+
+Sri Lanka took a bold and principled decision in 2021 by choosing not to express its consensus on the overly ambitious Pillar One and Pillar Two package, despite significant pressure from the OECD and other stakeholders. This stance was taken at a time when 136 out of nearly 140 member countries of the Inclusive Framework endorsed the package. It is also noteworthy that more than 60 countries of the South Centre, which sided with the Pillar Two proposals, now express their reservations.
+
+Sri Lanka’s agreement or non-agreement with Pillar Two will not materially change the adverse consequences of Pillar Two. Most developed and developing countries—including China, India, and all G20 members—have already signaled their acceptance of these frameworks, and the final decisions were taken under the OECD process in October 2021.
+
+In this context, any tax concession or exemption granted by Sri Lanka to a multinational enterprise will no longer benefit the overseas investor. Instead, the foregone tax revenue is effectively transferred to foreign tax authorities—predominantly in capital-exporting developed countries.
+
+It is no secret that the primary objective of Pillar Two was to prevent the outflow of foreign direct investment from developed countries through the use of tax incentives, which was a decisive factor in investment decisions. The so-called international consensus on Pillar Two permits countries to depart from the long-established principles of source- and residence-based taxation and to unilaterally tax the under-taxed profits of entities operating in other jurisdictions.
+
+Faced with this very ambitious and aggressive framework, a developing economy such as Sri Lanka is left with only two practical options: either to submit to Pillar Two by adopting a Domestic Minimum Top-Up Tax, or to explore alternative policy responses outside the traditional tax-incentive model.
+
+It is more prudent for Sri Lanka to adopt DMTT or QDMTT as explained above, by charging the global minimum corporate tax rate of 15% on such multinational enterprises, rather than allowing foreign countries to collect that tax and depriving both the country and the investor of any real benefit from local tax incentives.
+
+For decades, tax holidays and low corporate tax rates have been promoted as powerful tools to attract foreign investment. However, the strong implementation of Pillar Two has increasingly rendered this belief outdated. It is important to note that Pillar Two neutralises income-based tax incentives, not expenditure-based ones.
+
+Income-based tax incentives are tied to profits—they reward income regardless of how much was invested or spent. Examples include tax holidays, reduced tax rates, and exemptions. Pillar Two primarily targets income-based incentives that result in tax rates below the 15% minimum.
+
+In contrast, expenditure-based tax incentives are linked to real economic activity rather than profits. They relate to investments in areas such as employment, training, innovation, research & development, and tangible assets.
+
+These expenditure-based incentives can still be offered to investors without violating Pillar Two. This can be done through mechanisms such as enhanced capital allowances, investment tax credits, additional expense deductions, tax rebates, or exemptions from other taxes and levies in place of income taxes. Further technical insight into potential weaknesses and interpretative gaps within the Pillar Two framework may be obtained from professional tax auditors and consultants.
+
+As Sri Lanka and other developing nations rethink their investment strategies, the lesson is clear. Competing through ever-lower tax rates is a race to the bottom. Competing through targeted, investment-linked incentives is a path toward sustainable growth. The future of investment promotion lies not in tax-free profits, but in rewarding real economic contribution.
+
+The Global Minimum Corporate Tax, though presented as a fair and neutral reform, fundamentally alters the balance of taxing rights in favor of developed, capital-exporting countries. For nations like Sri Lanka, traditional tax holidays and income-based incentives are no longer effective tools for attracting investment. The rational response is not resistance, but adaptation—by securing domestic taxing rights through a DMTT or QDMTT and shifting toward expenditure-based incentives that reward real economic activity. In the post-Pillar Two world, sustainable development will depend not on tax-free profits, but on policies that genuinely promote investment, employment, and long-term growth.
+
+(The author is a Retired Deputy Commissioner General of the Inland Revenue Department and could be reached via email at [email protected])
