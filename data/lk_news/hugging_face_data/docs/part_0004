@@ -35639,6 +35639,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-26-colombotelegraphcom-1c5a9e9c",
+    "num": "colombotelegraphcom-1c5a9e9c",
+    "date_str": "2026-01-26",
+    "description": "India & Africa\u2019s New Blueprint For Green Sovereignty",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/india-africas-new-blueprint-for-green-sovereignty/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1769415719.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-26-virakesarilk-475fae37",
     "num": "virakesarilk-475fae37",
     "date_str": "2026-01-26",
@@ -35914,6 +35925,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-26-adalk-3783d2b2",
+    "num": "adalk-3783d2b2",
+    "date_str": "2026-01-26",
+    "description": "\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0d9a\u0dd2\u0dbd\u0ddd 296\u0d9a\u0dca \u0dbb\u0dd0\u0d9c\u0dad\u0dca \u0db6\u0dc4\u0dd4\u0daf\u0dd2\u0db1 \u0db0\u0dd3\u0dc0\u0dbb \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf 02\u0d9a\u0dca \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db7\u0dcf\u0dbb\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0d9a\u0dd2\u0dbd\u0ddd-296\u0d9a\u0dca-\u0dbb\u0dd0\u0d9c\u0dad\u0dca-\u0db6\u0dc4\u0dd4\u0daf\u0dd2\u0db1-\u0db0\u0dd3\u0dc0\u0dbb-\u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf-02\u0d9a\u0dca-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0db7\u0dcf\u0dbb\u0dba\u0da7/11-420962",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769423279.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-26-virakesarilk-464540ee",
     "num": "virakesarilk-464540ee",
     "date_str": "2026-01-26",
@@ -36120,5 +36142,27 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1769428771.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-26-tamilmirrorlk-e35ec598",
+    "num": "tamilmirrorlk-e35ec598",
+    "date_str": "2026-01-26",
+    "description": "\u0b95\u0bb0\u0bbf \u0ba8\u0bbe\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b85\u0ba3\u0bbf \u0ba4\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0b95\u0bb0\u0bbf-\u0ba8\u0bbe\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95-\u0b85\u0ba3\u0bbf-\u0ba4\u0bbf\u0bb0\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd/71-371594",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769431320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-26-adalk-d3fe9152",
+    "num": "adalk-d3fe9152",
+    "date_str": "2026-01-26",
+    "description": "2025\u0daf\u0dd3 \u0d85\u0db4\u0db1\u0dba\u0db1 \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 17.2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/2025\u0daf\u0dd3-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0d86\u0daf\u0dcf\u0dba\u0db8-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-17-2\u0dba\u0dd2/11-420963",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769433975.0
   }
 ]
