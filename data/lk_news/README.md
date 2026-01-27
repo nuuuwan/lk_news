@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_17:52:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_19:53:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,718** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,721** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-27-tamilmirrorlk-28ac08c0",
-    "num": "tamilmirrorlk-28ac08c0",
+    "doc_id": "2026-01-27-adalk-0dfb1874",
+    "num": "adalk-0dfb1874",
     "date_str": "2026-01-27",
-    "description": "\u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd \u0baa\u0bcb\u0ba9  \u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd \u0ba8\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8/\u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd-\u0baa\u0bcb\u0ba9-\u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd-\u0ba8\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/75-371639",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1769510007.0
+    "description": "\u0db6\u0dd2\u0dba\u0dc0\u0dd0\u0daf\u0dca\u0daf\u0dd2\u0db8\u0dca \u0dc4\u0dcf \u0dad\u0dbb\u0dca\u0da2\u0db1 \u0db8\u0dad \u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4 \u0d9c\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dd2\u0dba\u0dc0\u0dd0\u0daf\u0dca\u0daf\u0dd2\u0db8\u0dca-\u0dc4\u0dcf-\u0dad\u0dbb\u0dca\u0da2\u0db1-\u0db8\u0dad-\u0dad\u0dd3\u0db1\u0dca\u0daf\u0dd4-\u0d9c\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd1/11-420978",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769517190.0
 }
 ```
 
@@ -41,7 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-27 | `adalk-0dfb1874` | බියවැද්දිම් හා තර්ජන මත තීන්දු ගන්නේ නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-adalk-0dfb1874)
+- 2026-01-27 | `tamilmirrorlk-26afab08` | “தோட்டத் தொழிலாளர்களுக்கு பெப்ரவரி முதல் 1,750 ரூபாய் நாளாந்த சம்பளம்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-26afab08)
 - 2026-01-27 | `tamilmirrorlk-28ac08c0` | காணாமல் போன  மாணவன் நிட்டம்புவையில் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-28ac08c0)
+- 2026-01-27 | `adalk-7ace0f74` | 2026 විදේශ රැකියා ඉලක්කය 310,000 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-adalk-7ace0f74)
 - 2026-01-27 | `adalk-7ce670be` | කන්ටේනර් 323 ගැන තේරීම් කාරක සභාවේ විමර්ශන මාස තුනකින් අවසන් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-adalk-7ce670be)
 - 2026-01-27 | `tamilmirrorlk-b6d9d37d` | ஹிஸ்புல்லாஹ்வின்  6 வழக்குகளும் தள்ளுபடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-b6d9d37d)
 - 2026-01-27 | `adalk-d9c6a2ef` | රෝගීන් ප්‍රාණ ඇපයට තබා ගැනීම සාධාරණ නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-adalk-d9c6a2ef)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-01-27 | `tamilmirrorlk-d3448654` | மாணவனுடன் 3 ஆசிரியைகள் உல்லாசம்: வீடியோவால் சர்ச்சை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-d3448654)
 - 2026-01-27 | `tamilmirrorlk-3be93eda` | ஒ​ரே சூழில் ஐந்து குழந்தைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-3be93eda)
 - 2026-01-27 | `adalk-cf155699` | ICAC 2025 - කෘත්‍රිම බුද්ධි සහ ක්වොන්ටම් නව යුගයක් කරා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-adalk-cf155699)
-- 2026-01-27 | `tamilmirrorlk-ee79af8d` | ஹெரோயினுடன் பெண் கான்ஸ்டபிள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-ee79af8d)
-- 2026-01-27 | `tamilmirrorlk-0575730b` | இரும்பு பெட்டிக்குள் இளம்பெண்: 2 மனைவிகள் இருந்தும் புத்தி தடுமாறிய ஆபீசர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-0575730b)
-- 2026-01-27 | `tamilmirrorlk-76a6ac19` | ரயிலுடன் மோதிய மோட்டார் சைக்கிள் ; உயிர் தப்பிய பெண் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-76a6ac19)
 
 ---
 
