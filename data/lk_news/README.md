@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_23:58:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_01:52:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,754** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,755** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2026-01-27 | `tamilmirrorlk-93a8a610` | அம்பலாங்கொடை துப்பாக்கிச் சூடு: ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-93a8a610)
 - 2026-01-27 | `virakesarilk-4aadae9f` | அனர்த்தத்தால் பாதிக்கப்பட்ட தனிநபர், சிறு மற்றும் நுண் வர்த்தகங்களை வலுவூட்டுவதற்காக புதிய சுற்றறிக்கை வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-4aadae9f)
 - 2026-01-27 | `virakesarilk-560f7ee6` | 323 கொள்கலன் விடுவிப்பு தொடர்பில் பாராளுமன்ற தெரிவுக்குழு மீண்டும் கூடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-560f7ee6)
+- 2026-01-27 | `colombotelegraphcom-f2395c2d` | The Audacity To Export: How The National Electricity Policy 2026 Can Deliver A 30% Reduction In Electricity Tariffs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-colombotelegraphcom-f2395c2d)
 - 2026-01-27 | `virakesarilk-f8172e7a` | இலங்கையில் முதல் தடவையாக சிறார்கள் பங்குபற்றும் கோப்பா சிம்ஹா கால்பந்தாட்டத் திருவிழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-f8172e7a)
 - 2026-01-27 | `virakesarilk-b511fef1` | கச்சதீவு புனித அந்தோனியார் ஆலய வருடாந்த விழாவிற்கான நிதி முன்னாயத்த நடவடிக்கைகள் குறித்து கலந்துரையாடல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-b511fef1)
 - 2026-01-27 | `adalk-1240a93e` | දරුවා පාසල් ගියේ නැත්නම් දෙමාපියන්ට කෙටි පණිවිඩයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-adalk-1240a93e)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-27 | `virakesarilk-1b489008` | முன்னாள் அமைச்சர் பீ.ஹரிசனிடமிருந்து வாக்குமூலம் பதிவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-1b489008)
 - 2026-01-27 | `virakesarilk-c75386b9` | தேசியத்துக்கு முன்னுரிமை வழங்கும் வகையில் பலமான அரசாங்கத்தை ஸ்தாபிப்போம் - சாகர காரியவசம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-c75386b9)
 - 2026-01-27 | `virakesarilk-a94cd4ae` | பங்களாதேச அரசியலில் ஒரு புதிய சகாப்தம்: இஸ்லாமியவாதக் கூட்டணியின் எழுச்சியும் 2026 தேர்தலும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-a94cd4ae)
-- 2026-01-27 | `virakesarilk-5873fde2` | திருகோணமலையில் கடத்தப்பட்ட மாணவன் நிட்டம்புவையில் மீட்பு..! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-5873fde2)
 
 ---
 
