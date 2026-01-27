@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_03:50:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_06:10:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,664** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,680** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-27-dailyftlk-d3998439",
-    "num": "dailyftlk-d3998439",
+    "doc_id": "2026-01-27-dailyftlk-bbeaf87b",
+    "num": "dailyftlk-bbeaf87b",
     "date_str": "2026-01-27",
-    "description": "Of moods, words and deeds: Being brilliant on basics",
-    "url_metadata": "https://www.ft.lk/columns/Of-moods-words-and-deeds-Being-brilliant-on-basics/4-787477",
+    "description": "Sajith says Opposition will back Grade 6 reforms if properly implemented",
+    "url_metadata": "https://www.ft.lk/news/Sajith-says-Opposition-will-back-Grade-6-reforms-if-properly-implemented/56-787479",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1769465471.0
+    "time_ut": 1769466276.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-27 | `dailyftlk-bbeaf87b` | Sajith says Opposition will back Grade 6 reforms if properly implemented | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-bbeaf87b)
+- 2026-01-27 | `dailyftlk-d2bdcb3d` | Case against ex-Defence Secretary and former IGP fixed for March | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-d2bdcb3d)
 - 2026-01-27 | `dailyftlk-d3998439` | Of moods, words and deeds: Being brilliant on basics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-d3998439)
 - 2026-01-27 | `dailyftlk-1afa9ce8` | Surviving and thriving: How Sri Lankan businesses face climate crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-1afa9ce8)
 - 2026-01-27 | `dailyftlk-fbd340dd` | India’s 77th Republic Day celebrations in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-fbd340dd)
@@ -55,12 +57,10 @@ A collection of lk_news documents.
 - 2026-01-27 | `dailyftlk-1aed54e6` | District Court dismisses NFC action against Film Lanka; upholds rights on BOI deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-1aed54e6)
 - 2026-01-27 | `dailyftlk-ac4cd27f` | Click first, sue later | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-ac4cd27f)
 - 2026-01-27 | `dailyftlk-449d2ae6` | New tax calculation method for gem imports: A strategic boost for jewellery industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-dailyftlk-449d2ae6)
+- 2026-01-26 | `islandlk-669d8466` | Valentine’s Day … with the King of Romance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-islandlk-669d8466)
 - 2026-01-26 | `dailyftlk-cdd139d4` | Rebuilding Sri Lanka without delay: Why procurement reform matters after Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-dailyftlk-cdd139d4)
-- 2026-01-26 | `tamilmirrorlk-0fa50a90` | முதற் தடவையாக $5,000ஐத் தாண்டிய தங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-tamilmirrorlk-0fa50a90)
-- 2026-01-26 | `dailyftlk-00d1cbd5` | IDL and Thomas Assessments India partner on national youth development initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-dailyftlk-00d1cbd5)
-- 2026-01-26 | `colombotelegraphcom-2d82ee9b` | RTI, Public Banks & The Misuse Of Institutional Autonomy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-colombotelegraphcom-2d82ee9b)
-- 2026-01-26 | `adalk-d3fe9152` | 2025දී අපනයන ආදායම ඩොලර් බිලියන 17.2යි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-adalk-d3fe9152)
-- 2026-01-26 | `tamilmirrorlk-e35ec598` | கரி நாளுக்காக அணி திரட்டல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-tamilmirrorlk-e35ec598)
+- 2026-01-26 | `islandlk-5faacecd` | Felix Fernando elected chairman of Joint Apparel Association Forum at 22nd AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-islandlk-5faacecd)
+- 2026-01-26 | `islandlk-4b7595df` | ITC Ratnadipa welcomes Bukhara Chef JP Singh in father–son collaboration at Peshawri | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-26-islandlk-4b7595df)
 
 ---
 
