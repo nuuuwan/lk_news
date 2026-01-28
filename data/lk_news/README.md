@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_03:49:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_06:08:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,756** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,767** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-28-tamilmirrorlk-446a6a06",
-    "num": "tamilmirrorlk-446a6a06",
+    "doc_id": "2026-01-28-dailyftlk-abeff940",
+    "num": "dailyftlk-abeff940",
     "date_str": "2026-01-28",
-    "description": "\u0bb5\u0bc6\u0b9f\u0bbf\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0b9f\u0bbf\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-371665",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1769551287.0
+    "description": "Sri Lanka\u2019s skills gap: An economic reality we can no longer ignore",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-skills-gap-An-economic-reality-we-can-no-longer-ignore/4-787498",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1769560378.0
 }
 ```
 
@@ -41,9 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-28 | `dailyftlk-abeff940` | Sri Lanka’s skills gap: An economic reality we can no longer ignore | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-abeff940)
 - 2026-01-28 | `tamilmirrorlk-446a6a06` | வெடிகுண்டு மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-tamilmirrorlk-446a6a06)
 - 2026-01-27 | `virakesarilk-4e46a341` | அம்பலாங்கொடையில் துப்பாக்கிச் சூடு; இளைஞர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-4e46a341)
 - 2026-01-27 | `virakesarilk-e1c14920` | ரூட், ப்றூக் அபார சதங்களின் உதவியுடன் இலங்கையுடனான தொடரைக் கைப்பற்றியது இங்கிலாந்து; பவன் ரத்நாயக்க கன்னிச் சதம் குவித்து அசத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-e1c14920)
+- 2026-01-27 | `islandlk-0364021c` | Seylan Tikiri empowers children with first ever islandwide initiative on financial literacy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-islandlk-0364021c)
+- 2026-01-27 | `islandlk-8242783f` | Lion Brewery’s innovation and retail excellence recognized with dual honours at FMCG Asia Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-islandlk-8242783f)
+- 2026-01-27 | `islandlk-0e4c7767` | ComBank to boost WSME, Agri SME financing with IFC’s US$ 60Mn. risk sharing facility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-islandlk-0e4c7767)
+- 2026-01-27 | `islandlk-805f801f` | Fluctuating fortunes for CSE as capital goods sector takes centre stage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-islandlk-805f801f)
+- 2026-01-27 | `islandlk-6f3b115a` | INSEE Sanstha Cement crowned Sri Lanka’s Most Awarded Cement Brand in 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-islandlk-6f3b115a)
 - 2026-01-27 | `tamilmirrorlk-93a8a610` | அம்பலாங்கொடை துப்பாக்கிச் சூடு: ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-93a8a610)
 - 2026-01-27 | `virakesarilk-4aadae9f` | அனர்த்தத்தால் பாதிக்கப்பட்ட தனிநபர், சிறு மற்றும் நுண் வர்த்தகங்களை வலுவூட்டுவதற்காக புதிய சுற்றறிக்கை வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-4aadae9f)
 - 2026-01-27 | `virakesarilk-560f7ee6` | 323 கொள்கலன் விடுவிப்பு தொடர்பில் பாராளுமன்ற தெரிவுக்குழு மீண்டும் கூடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-560f7ee6)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-01-27 | `tamilmirrorlk-26afab08` | “தோட்டத் தொழிலாளர்களுக்கு பெப்ரவரி முதல் 1,750 ரூபாய் நாளாந்த சம்பளம்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-26afab08)
 - 2026-01-27 | `virakesarilk-ccb9abcc` | நடிகர் மோகன்லால் நடிக்கும் 'L367 ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-ccb9abcc)
 - 2026-01-27 | `virakesarilk-7484da6b` | டித்வா சூறாவளியால்  சேதமடைந்த அனைத்து மதத் தலங்களும் அவற்றின் தொல்லியல் பெறுமதியைப் பாதுகாக்கும் வகையில் மீண்டும் கட்டியெழுப்பப்படும் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-7484da6b)
-- 2026-01-27 | `virakesarilk-4e98606d` | கல்விச் சீர்திருத்தம் ஒரு கட்சியின் தனிப்பட்ட விவகாரமல்ல, அது நாட்டின் எதிர்காலம் - சாந்த பண்டார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-4e98606d)
-- 2026-01-27 | `virakesarilk-2a165dcd` | முல்லைத்தீவில் குளவித்தாக்குதலுக்கு இலக்காகி பிரதிக்கல்விப் பணிப்பாளர் பலி ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-2a165dcd)
-- 2026-01-27 | `virakesarilk-ab57358e` | நாடாளுமன்ற பிரதிச் செயலாளர் நாயகத்தை நீக்கும் அதிகாரம் சபாநாயகருக்கு இல்லை -  லக்ஷ்மன் கிரியெல்ல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-ab57358e)
-- 2026-01-27 | `virakesarilk-041c557b` | இந்தியாவில் நிபா வைரஸ் பாதிப்பு: 5 பேருக்கு தொற்று உறுதி - இலங்கையில் சுகாதார அதிகாரிகள் தீவிர கண்காணிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-041c557b)
-- 2026-01-27 | `virakesarilk-1b489008` | முன்னாள் அமைச்சர் பீ.ஹரிசனிடமிருந்து வாக்குமூலம் பதிவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-1b489008)
-- 2026-01-27 | `virakesarilk-c75386b9` | தேசியத்துக்கு முன்னுரிமை வழங்கும் வகையில் பலமான அரசாங்கத்தை ஸ்தாபிப்போம் - சாகர காரியவசம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-c75386b9)
 
 ---
 
