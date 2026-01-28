@@ -37509,6 +37509,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-28-colombotelegraphcom-264cf10f",
+    "num": "colombotelegraphcom-264cf10f",
+    "date_str": "2026-01-28",
+    "description": "Implementing Sri Lanka\u2019s Financial Sector Reforms: Progress, Challenges, & Future Directions",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/implementing-sri-lankas-financial-sector-reforms-progress-challenges-future-directions/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1769553727.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-28-virakesarilk-0852f331",
     "num": "virakesarilk-0852f331",
     "date_str": "2026-01-28",
@@ -37927,6 +37938,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-28-adalk-f0dd363f",
+    "num": "adalk-f0dd363f",
+    "date_str": "2026-01-28",
+    "description": "\u0dc3\u0dd4\u0db1\u0dcf\u0db8\u0dd2 \u0d9c\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba\u0dda \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dd4\u0db1\u0dcf\u0db8\u0dd2-\u0d9c\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dba\u0dda-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-420981",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769566691.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-28-dailyftlk-284ee700",
     "num": "dailyftlk-284ee700",
     "date_str": "2026-01-28",
@@ -37935,6 +37957,17 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1769566716.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-28-adalk-4d159f3a",
+    "num": "adalk-4d159f3a",
+    "date_str": "2026-01-28",
+    "description": "\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8 \u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2 \u0daf\u0dd2\u0db8\u0db1\u0dcf\u0dc0 \u0d85\u0daf \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca\u0dc0\u0dbd\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8-\u0da2\u0db1\u0dc0\u0dcf\u0dbb\u0dd2-\u0daf\u0dd2\u0db8\u0db1\u0dcf\u0dc0-\u0d85\u0daf-\u0db6\u0dd0\u0d82\u0d9a\u0dd4-\u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca\u0dc0\u0dbd\u0da7/11-420983",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769567310.0
   },
   {
     "doc_type": "lk_news",
@@ -38034,5 +38067,60 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1769568582.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-28-tamilmirrorlk-4e38eca3",
+    "num": "tamilmirrorlk-4e38eca3",
+    "date_str": "2026-01-28",
+    "description": "\u0ba8\u0bbf\u0baa\u0bbe \u0bb5\u0bc8\u0bb0\u0bb8\u0bcd \u0baa\u0bb0\u0bb5\u0bb2\u0bcd: \u0bae\u0bbf\u0baf\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd \u0ba4\u0bc0\u0bb5\u0bbf\u0bb0 \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbf\u0baa\u0bbe-\u0bb5\u0bc8\u0bb0\u0bb8\u0bcd-\u0baa\u0bb0\u0bb5\u0bb2\u0bcd-\u0bae\u0bbf\u0baf\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc0\u0bb5\u0bbf\u0bb0-\u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1/50-371667",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769569231.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-28-dailyftlk-f543f2bd",
+    "num": "dailyftlk-f543f2bd",
+    "date_str": "2026-01-28",
+    "description": "The Navam Maha Perahera of the Gangaramaya Temple",
+    "url_metadata": "https://www.ft.lk/news/The-Navam-Maha-Perahera-of-the-Gangaramaya-Temple/56-787544",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1769569287.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-28-tamilmirrorlk-530420bd",
+    "num": "tamilmirrorlk-530420bd",
+    "date_str": "2026-01-28",
+    "description": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1/175-371668",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769572172.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-28-tamilmirrorlk-14f9cd66",
+    "num": "tamilmirrorlk-14f9cd66",
+    "date_str": "2026-01-28",
+    "description": "\u0b95\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbe...\u0b95\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbe...\u0b95\u0bb1\u0bcd\u0bb1\u0bc7 \u0ba4\u0bb0...\u0bb5\u0bbe...",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbe-\u0b95\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbe-\u0b95\u0bb1\u0bcd\u0bb1\u0bc7-\u0ba4\u0bb0-\u0bb5\u0bbe/175-371669",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769572273.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-28-tamilmirrorlk-84b89fa4",
+    "num": "tamilmirrorlk-84b89fa4",
+    "date_str": "2026-01-28",
+    "description": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-371671",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769574322.0
   }
 ]

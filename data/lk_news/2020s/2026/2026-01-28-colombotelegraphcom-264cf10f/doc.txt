@@ -1,0 +1,83 @@
+Implementing Sri Lanka’s Financial Sector Reforms: Progress, Challenges, & Future Directions
+
+Sri Lanka’s new government, formed in late 2024, is continuing a reform agenda broadly aligned with the conditions of the USD 3 billion IMF Extended Fund Facility (EFF). These reforms prioritise macroeconomic stabilisation, fiscal consolidation, and strengthening the resilience of the financial system. According to the National Policy Framework A Thriving Nation – A Beautiful Life, published prior to the election, the government’s financial-sector reform strategy focuses on improving access to finance while enhancing overall financial stability.
+
+* Establishing a new Relief Bank for micro, small, and medium enterprises (MSMEs) to revive economic activity and provide targeted loan relief.
+
+* Creating a National Development Bank to support long-term financing and business expansion.
+
+* Strengthening the role of cooperative banks, Samurdhi banks, and regional development banks in providing credit to small-scale farmers, entrepreneurs, and local investors.
+
+* Stabilising policy interest rates to support orderly financial markets, including foreign exchange markets.
+
+* Introducing new financing schemes to channel bank savings into productive investment.
+
+* Recapitalising state-owned banks to enhance their stability, efficiency, and lending capacity.
+
+* Providing relief to vulnerable borrowers after reviewing microfinance loans issued in violation of legal provisions.
+
+* Requiring microfinance institutions to register with the Central Bank of Sri Lanka (CBSL) and strengthening standardised monitoring and supervision.
+
+Debt Restructuring: A central pillar of the reform agenda is the completion of external debt restructuring with bilateral and private creditors to restore long-term debt sustainability. A landmark agreement with international bondholders was reached in late 2024, with negotiations with remaining creditors progressing steadily.
+
+Central Bank Independence and Monetary Policy: Under the Central Bank of Sri Lanka Act No. 16 of 2023, the CBSL now operates with enhanced independence. Flexible Inflation Targeting (FIT) has been formally adopted as the primary monetary policy framework, with a medium-term inflation target of 5%. The Act also prohibits direct monetary financing of the government budget, a practice that had previously undermined macroeconomic stability.
+
+Strengthening Regulatory Frameworks: New legislation has been introduced to improve fiscal discipline and financial oversight. The Public Financial Management Bill and the Public Debt Management Bill, presented to Parliament in May 2024, aim to establish a Public Debt Management Office and strengthen fiscal governance. In addition, the Banking (Special Provisions) Act was enacted to enhance bank resolution mechanisms and protect depositors. Amendments to the Banking Act are also underway to strengthen licensing requirements, corporate governance standards, and capital adequacy norms.
+
+Financial Inclusion and Sustainable Finance: Financial inclusion is being promoted through service digitalisation and the implementation of the Financial Literacy Roadmap (2024–2028). The Sustainable Finance Roadmap 2.0, launched in May 2025, integrates environmental and social considerations into financial decision-making.
+
+Governance and Anti-Corruption: Improved transparency, stronger governance, and anti-corruption measures—particularly in state-owned enterprises—form a core component of the reform agenda, closely linked to international support under the IMF programme.
+
+Despite these initiatives, the reform package remains incomplete. Critical issues—most notably rising non-performing loans (NPLs) and weaknesses in banking supervision—are not adequately addressed within the current framework.
+
+According to World Bank indicators, Sri Lanka’s ratio of bank non-performing loans to total gross loans stood at approximately 4.9% in 2020, having fallen to a low of around 2.5% in 2017. Historically, NPLs peaked at about 15.8% in 1999. Following the 2022 economic crisis, however, asset quality deteriorated sharply. By mid-2023, the banking sector’s NPL ratio had risen to about 13.3%, compared with 7.6% in 2021. By end-2024, the ratio declined modestly to around 12.3%, and further to about 12.0% by mid-2025, according to CBSL data.
+
+This improvement suggests some stabilisation, but NPL levels remain elevated by both historical and regional standards. Moreover, informal and unregulated lending—such as microfinance and pawnbroking—poses additional risks that are not fully captured in headline banking-sector NPL statistics.
+
+To assess underlying vulnerabilities more accurately, further analysis is required, including:
+
+* Sectoral and borrower-level composition of NPLs and concentration risks;
+
+* Asset quality in non-bank financial institutions and specialised banks; and
+
+* The interaction between credit growth and macroeconomic conditions, which may obscure emerging risks.
+
+Regionally, Sri Lanka’s post-crisis NPL levels exceed those of India (around 2–3%) and are comparable to, or lower than, recent figures in Bangladesh, while remaining higher than Pakistan’s. These comparisons highlight the importance of institutional quality and supervisory effectiveness in containing banking-sector risks.
+
+One of the central issues emerging from Sri Lanka’s experience is the strength of its banking supervisory framework. Effective supervision is essential for early detection of risks and for preventing the accumulation of NPLs. This raises the question of whether Sri Lanka should establish a separate, independent banking supervisory authority.
+
+Central banks typically pursue multiple objectives, including price stability, financial stability, and bank supervision. These roles can conflict. As a monetary authority, the central bank seeks to preserve confidence and avoid panic; as a supervisor, it must identify and disclose weaknesses in individual institutions. This dual mandate may encourage delayed intervention and regulatory forbearance, as observed in several international crises.
+
+Modern banking involves financial conglomerates, cross-border exposures, fintech innovations, and shadow banking. Effective supervision requires specialised expertise, advanced data systems, and continuous risk monitoring—functions that differ fundamentally from monetary policy operations.
+
+A separate supervisory authority would provide clear lines of accountability. When supervision resides within the central bank, responsibility for failures may be blurred, weakening public and parliamentary oversight.
+
+An independent supervisory body with separate governance and funding can reduce the risk of close relationships between supervisors and regulated institutions, strengthening objectivity and enforcement.
+
+* Integrated Model: United Kingdom – Prudential Regulation Authority (PRA) within the Bank of England, but with separate governance.
+
+* Twin Peaks Model: Australia – APRA for prudential supervision and ASIC for market conduct, with the Reserve Bank focusing on monetary policy.
+
+* Fully Separate Model: Korea and Malaysia – independent financial supervisory authorities separate from the central bank.
+
+These models demonstrate that separating supervision from monetary policy can enhance credibility and effectiveness, particularly following financial crises.
+
+Sri Lanka’s 2022–2023 crisis exposed weaknesses in supervisory oversight. The sharp rise in NPLs reflected delayed intervention, weak enforcement, and limited coordination among regulatory and fiscal authorities. These shortcomings underscore the need for a supervisory body with a singular focus, operational independence, and strong technical capacity.
+
+* Reduced conflicts of interest between stability and enforcement objectives;
+
+* Fully Separate Agency: An independent Banking Supervision and Resolution Authority with statutory powers.
+
+* Twin Peaks Model: Retaining financial stability oversight within CBSL while transferring prudential supervision to a new authority.
+
+* Hybrid Model: Maintaining supervision within CBSL under a legally distinct board with independent reporting to Parliament.
+
+* Ensure operational and budgetary independence, with structured coordination mechanisms.
+
+* Build professional capacity in risk-based supervision and early warning systems.
+
+* Integrate supervision with deposit insurance and bank resolution frameworks.
+
+Sri Lanka’s recent banking-sector challenges demonstrate that sound monetary policy alone cannot ensure financial stability. Effective, independent supervision is essential. Establishing a separate banking supervisory authority would reduce conflicts of interest, enhance institutional credibility, and support sustainable economic recovery. This reform is not merely administrative—it is a critical pillar of long-term financial resilience.
+
+*Dr Piyadasa Edirisuriya, Former Academic, Monash Business School, Australia; email: pedirisuriya@gmail.com
