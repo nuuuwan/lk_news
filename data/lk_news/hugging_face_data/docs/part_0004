@@ -39046,5 +39046,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1769621880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-29-dailyftlk-3efa6b51",
+    "num": "dailyftlk-3efa6b51",
+    "date_str": "2026-01-29",
+    "description": "Indispensable if incomplete:  Prof. G.L. Peiris\u2019 peace process memoir",
+    "url_metadata": "https://www.ft.lk/columns/Indispensable-if-incomplete-Prof-G-L-Peiris-peace-process-memoir/4-787590",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1769637047.0
   }
 ]
