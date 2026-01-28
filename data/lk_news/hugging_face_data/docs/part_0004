@@ -38433,6 +38433,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-28-tamilmirrorlk-eed71080",
+    "num": "tamilmirrorlk-eed71080",
+    "date_str": "2026-01-28",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0baf\u0bc8 \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf \u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd: \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0baf\u0bc8-\u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf-\u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-371682",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769581633.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-28-tamilmirrorlk-ba14af66",
     "num": "tamilmirrorlk-ba14af66",
     "date_str": "2026-01-28",
@@ -38598,6 +38609,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-28-colombotelegraphcom-3df9d18a",
+    "num": "colombotelegraphcom-3df9d18a",
+    "date_str": "2026-01-28",
+    "description": "Nalanda College \u2013 From Fame (Moral High Grounds) To Shame (Humiliation)",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/nalanda-college-from-fame-moral-high-grounds-to-shame-humiliation/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1769588003.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-28-tamilmirrorlk-eca91dd7",
     "num": "tamilmirrorlk-eca91dd7",
     "date_str": "2026-01-28",
@@ -38749,6 +38771,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1769597224.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-28-adalk-11754ad9",
+    "num": "adalk-11754ad9",
+    "date_str": "2026-01-28",
+    "description": "\u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1 \u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca\u0dc0\u0dbd \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0d91\u0d9a\u0dca \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0d9a\u0dca \u0db4\u0dc3\u0dd4 \u0db4\u0dc3\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0d9a\u0dca\u0daf\u0dd2\u0db1-\u0dc1\u0dca\u200d\u0dbb\u0dda\u0dab\u0dd2\u0d9c\u0dad-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dca\u0dc0\u0dbd-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0d91\u0d9a\u0dca-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0d9a\u0dca-\u0db4\u0dc3\u0dd4-\u0db4\u0dc3\u0da7/11-420998",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769597706.0
   },
   {
     "doc_type": "lk_news",

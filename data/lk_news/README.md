@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_17:53:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_19:53:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,884** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,887** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,7 @@ A collection of lk_news documents.
 - 2026-01-28 | `tamilmirrorlk-1fe84910` | அலைபேசியுடன் திசைமாற்றி பிடித்த சாரதிக்கு சிக்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-tamilmirrorlk-1fe84910)
 - 2026-01-28 | `tamilmirrorlk-ef707a17` | பழக்கவழக்கங்களில்“உணவுப் பாதுகாப்பு ஓர் அங்கமாக வேண்டும்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-tamilmirrorlk-ef707a17)
 - 2026-01-28 | `tamilmirrorlk-b586cd8f` | புதிய அரசியலமைப்பு என்பது கானல் நீரா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-tamilmirrorlk-b586cd8f)
+- 2026-01-28 | `adalk-11754ad9` | එක්දින ශ්‍රේණිගත කිරීම්වල ලංකාව එක් ස්ථානයක් පසු පසට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-adalk-11754ad9)
 - 2026-01-28 | `tamilmirrorlk-12afe8ee` | ரணிலுக்கு எதிராக குற்றப்பத்திரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-tamilmirrorlk-12afe8ee)
 - 2026-01-28 | `adalk-084da023` | ලංකාවේ පළමු ස්වයංක්‍රීය දේශසීමා පාලන පද්ධතිය විවෘත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-adalk-084da023)
 - 2026-01-28 | `tamilmirrorlk-e2e256b4` | சமன் ஏக்கநாயக்கவுக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-tamilmirrorlk-e2e256b4)
@@ -58,9 +59,8 @@ A collection of lk_news documents.
 - 2026-01-28 | `tamilmirrorlk-adfb7a57` | மே.9 அரகலய: கோட்டாவுக்கு நோட்டீஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-tamilmirrorlk-adfb7a57)
 - 2026-01-28 | `adalk-f4b08ca9` | හිටපු ජනපති රනිල් අධිකරණයට පැමිණෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-adalk-f4b08ca9)
 - 2026-01-28 | `tamilmirrorlk-eca91dd7` | தங்க அடகு மோசடி: அரச வங்கி முகாமையாளருக்கு விளக்கமறியலில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-tamilmirrorlk-eca91dd7)
+- 2026-01-28 | `colombotelegraphcom-3df9d18a` | Nalanda College – From Fame (Moral High Grounds) To Shame (Humiliation) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-colombotelegraphcom-3df9d18a)
 - 2026-01-28 | `tamilmirrorlk-a355adf4` | தென் கொரிய முன்னாள் முதல் பெண்மணிக்கு சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-tamilmirrorlk-a355adf4)
-- 2026-01-28 | `virakesarilk-c3003f82` | யாழ். பண்டத்தரிப்பில் இருந்த இராணுவ முகாம் அகற்றப்பட்டது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-virakesarilk-c3003f82)
-- 2026-01-28 | `adalk-9a744500` | මොයින් අලී විශ්‍රාම ගැනීම ආපසු හරවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-adalk-9a744500)
 
 ---
 
