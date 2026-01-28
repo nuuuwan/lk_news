@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-01-28 06:08:05",
-  "n_docs": 99767,
+  "time_updated": "2026-01-28 08:27:38",
+  "n_docs": 99816,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 99767,
+  "n_docs_with_text": 99816,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-28",
-  "dataset_size": 1516401821,
+  "dataset_size": 1516765864,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-28-dailyftlk-abeff940",
-    "num": "dailyftlk-abeff940",
+    "doc_id": "2026-01-28-dailyftlk-40549485",
+    "num": "dailyftlk-40549485",
     "date_str": "2026-01-28",
-    "description": "Sri Lanka\u2019s skills gap: An economic reality we can no longer ignore",
-    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-skills-gap-An-economic-reality-we-can-no-longer-ignore/4-787498",
+    "description": "Sri Lanka sets stage for landmark presence at Gulfood 2026",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-sets-stage-for-landmark-presence-at-Gulfood-2026/34-787539",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1769560378.0
+    "time_ut": 1769568582.0
   }
 }

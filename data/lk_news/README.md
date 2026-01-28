@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_06:08:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_08:28:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**99,767** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**99,816** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-28-dailyftlk-abeff940",
-    "num": "dailyftlk-abeff940",
+    "doc_id": "2026-01-28-dailyftlk-40549485",
+    "num": "dailyftlk-40549485",
     "date_str": "2026-01-28",
-    "description": "Sri Lanka\u2019s skills gap: An economic reality we can no longer ignore",
-    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-skills-gap-An-economic-reality-we-can-no-longer-ignore/4-787498",
+    "description": "Sri Lanka sets stage for landmark presence at Gulfood 2026",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-sets-stage-for-landmark-presence-at-Gulfood-2026/34-787539",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1769560378.0
+    "time_ut": 1769568582.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-01-28 | `dailyftlk-abeff940` | Sri Lanka’s skills gap: An economic reality we can no longer ignore | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-abeff940)
-- 2026-01-28 | `tamilmirrorlk-446a6a06` | வெடிகுண்டு மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-tamilmirrorlk-446a6a06)
-- 2026-01-27 | `virakesarilk-4e46a341` | அம்பலாங்கொடையில் துப்பாக்கிச் சூடு; இளைஞர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-4e46a341)
-- 2026-01-27 | `virakesarilk-e1c14920` | ரூட், ப்றூக் அபார சதங்களின் உதவியுடன் இலங்கையுடனான தொடரைக் கைப்பற்றியது இங்கிலாந்து; பவன் ரத்நாயக்க கன்னிச் சதம் குவித்து அசத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-e1c14920)
-- 2026-01-27 | `islandlk-0364021c` | Seylan Tikiri empowers children with first ever islandwide initiative on financial literacy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-islandlk-0364021c)
-- 2026-01-27 | `islandlk-8242783f` | Lion Brewery’s innovation and retail excellence recognized with dual honours at FMCG Asia Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-islandlk-8242783f)
-- 2026-01-27 | `islandlk-0e4c7767` | ComBank to boost WSME, Agri SME financing with IFC’s US$ 60Mn. risk sharing facility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-islandlk-0e4c7767)
-- 2026-01-27 | `islandlk-805f801f` | Fluctuating fortunes for CSE as capital goods sector takes centre stage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-islandlk-805f801f)
-- 2026-01-27 | `islandlk-6f3b115a` | INSEE Sanstha Cement crowned Sri Lanka’s Most Awarded Cement Brand in 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-islandlk-6f3b115a)
-- 2026-01-27 | `tamilmirrorlk-93a8a610` | அம்பலாங்கொடை துப்பாக்கிச் சூடு: ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-93a8a610)
-- 2026-01-27 | `virakesarilk-4aadae9f` | அனர்த்தத்தால் பாதிக்கப்பட்ட தனிநபர், சிறு மற்றும் நுண் வர்த்தகங்களை வலுவூட்டுவதற்காக புதிய சுற்றறிக்கை வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-4aadae9f)
-- 2026-01-27 | `virakesarilk-560f7ee6` | 323 கொள்கலன் விடுவிப்பு தொடர்பில் பாராளுமன்ற தெரிவுக்குழு மீண்டும் கூடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-560f7ee6)
-- 2026-01-27 | `colombotelegraphcom-f2395c2d` | The Audacity To Export: How The National Electricity Policy 2026 Can Deliver A 30% Reduction In Electricity Tariffs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-colombotelegraphcom-f2395c2d)
-- 2026-01-27 | `virakesarilk-f8172e7a` | இலங்கையில் முதல் தடவையாக சிறார்கள் பங்குபற்றும் கோப்பா சிம்ஹா கால்பந்தாட்டத் திருவிழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-f8172e7a)
-- 2026-01-27 | `virakesarilk-b511fef1` | கச்சதீவு புனித அந்தோனியார் ஆலய வருடாந்த விழாவிற்கான நிதி முன்னாயத்த நடவடிக்கைகள் குறித்து கலந்துரையாடல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-b511fef1)
-- 2026-01-27 | `adalk-1240a93e` | දරුවා පාසල් ගියේ නැත්නම් දෙමාපියන්ට කෙටි පණිවිඩයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-adalk-1240a93e)
-- 2026-01-27 | `adalk-0dfb1874` | බියවැද්දිම් හා තර්ජන මත තීන්දු ගන්නේ නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-adalk-0dfb1874)
-- 2026-01-27 | `tamilmirrorlk-26afab08` | “தோட்டத் தொழிலாளர்களுக்கு பெப்ரவரி முதல் 1,750 ரூபாய் நாளாந்த சம்பளம்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-tamilmirrorlk-26afab08)
-- 2026-01-27 | `virakesarilk-ccb9abcc` | நடிகர் மோகன்லால் நடிக்கும் 'L367 ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-ccb9abcc)
-- 2026-01-27 | `virakesarilk-7484da6b` | டித்வா சூறாவளியால்  சேதமடைந்த அனைத்து மதத் தலங்களும் அவற்றின் தொல்லியல் பெறுமதியைப் பாதுகாக்கும் வகையில் மீண்டும் கட்டியெழுப்பப்படும் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-27-virakesarilk-7484da6b)
+- 2026-01-28 | `dailyftlk-40549485` | Sri Lanka sets stage for landmark presence at Gulfood 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-40549485)
+- 2026-01-28 | `dailyftlk-c1cf7a9b` | UDA Chairman Hemachandra joins Colombo Land and Development Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-c1cf7a9b)
+- 2026-01-28 | `dailyftlk-91bf46bf` | Blue Diamonds appoints three finance professionals to Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-91bf46bf)
+- 2026-01-28 | `dailyftlk-a87dc188` | CleanTech marks new era for Sri Lanka’s Circular Economy with Good Plastic recycling certification | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-a87dc188)
+- 2026-01-28 | `dailyftlk-d31fd7b0` | INFRACON 2026 to drive future of infrastructure and construction development in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-d31fd7b0)
+- 2026-01-28 | `dailyftlk-76c1cabd` | India, EU agree on  ‘mother of all’ trade deals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-76c1cabd)
+- 2026-01-28 | `dailyftlk-68f182eb` | Abans Marks Showroom Excellence with Lenovo Premium Club 2nd Phase Launch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-68f182eb)
+- 2026-01-28 | `dailyftlk-5a68dda1` | Koaloo.Fi and Stredge forge strategic partnership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-5a68dda1)
+- 2026-01-28 | `tamilmirrorlk-065d00fc` | இன்று பனிமூட்டமான வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-tamilmirrorlk-065d00fc)
+- 2026-01-28 | `dailyftlk-284ee700` | Predictive taxpayers and the future of revenue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-284ee700)
+- 2026-01-28 | `dailyftlk-b4c227aa` | Beyond BIA: Why Sri Lanka’s next tourism leap must take off from south | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-b4c227aa)
+- 2026-01-28 | `dailyftlk-6c18e4a5` | Sri Lanka must rethink disaster response to break poverty cycles – Experts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-6c18e4a5)
+- 2026-01-28 | `dailyftlk-b179bbd7` | Govt. seeks investors to develop land near Diyawanna Oya and Gregory Lake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-b179bbd7)
+- 2026-01-28 | `dailyftlk-32fe29c8` | Govt. cancels Korean-funded medical equipment loan project, shifts focus to Matara hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-32fe29c8)
+- 2026-01-28 | `dailyftlk-ce0b3417` | Cabinet approves implementation agreement for $ 3 m World Bank grant on ports and logistics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-ce0b3417)
+- 2026-01-28 | `dailyftlk-2b4f5d4a` | Sri Lanka pitches tax  holidays, ‘next Dubai’  vision to attract UAE investors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-2b4f5d4a)
+- 2026-01-28 | `dailyftlk-e655d1da` | Sri Lanka’s civic space ‘repressed’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-e655d1da)
+- 2026-01-28 | `dailyftlk-85917338` | Beyond demon or king: Why Ravana still matters in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-85917338)
+- 2026-01-28 | `dailyftlk-870be25f` | Fortresses and trade agreements | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-870be25f)
+- 2026-01-28 | `dailyftlk-e16c9e7e` | Trump’s colonial phase of Gaza ceasefire | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-28-dailyftlk-e16c9e7e)
 
 ---
 
