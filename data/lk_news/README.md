@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--29_21:55:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--29_23:55:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,032** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,033** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -60,7 +60,7 @@ A collection of lk_news documents.
 - 2026-01-29 | `virakesarilk-0466b795` | பழைய கல்வி முறை பிள்ளைகளின் திறன்களை முழுமையாக வெளிப்படுத்த முடியாது – தொழில் துறை அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-0466b795)
 - 2026-01-29 | `virakesarilk-732393a3` | வீரசிங்கம், சித்தாறு அணைக்கட்டு வேலைகள் விரைவாக முடிவுறுத்தப்படவேண்டும் - ரவிகரன் எம்.பி வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-732393a3)
 - 2026-01-29 | `virakesarilk-8d4d7c6d` | தேசிய இளைஞர் சேவைகள் மன்றத்தின் ஊடாக இளைஞர் தொழிமுயற்சியாளர்களை உருவாக்குவது தொடர்பாகத் தயாரிக்கப்பட்ட அளவுகோல்கள் குறித்து உப குழுவின் கவனத்திற்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-8d4d7c6d)
-- 2026-01-29 | `virakesarilk-07c36bbe` | திட்டமிட்ட இன அழிப்பின் மூலம் நிலையான அபிவிருத்தி சாத்தியமில்லை – தமிழர் மரபுரிமை பேரவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-07c36bbe)
+- 2026-01-29 | `adalk-3b485d45` | 78 වැනි නිදහස් සැමරුමට ආරාධිතයන් 2000ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-adalk-3b485d45)
 
 ---
 
