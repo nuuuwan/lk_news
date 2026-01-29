@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--29_23:55:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--30_01:50:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,033** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,039** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-29-virakesarilk-e6a3697b",
-    "num": "virakesarilk-e6a3697b",
-    "date_str": "2026-01-29",
-    "description": "\u0baa\u0ba3\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bbf\u0baf \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0bae\u0bcd; \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8 \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/237366",
+    "doc_id": "2026-01-30-virakesarilk-1bd517c2",
+    "num": "virakesarilk-1bd517c2",
+    "date_str": "2026-01-30",
+    "description": "\u0baa\u0bc6\u0bb2\u0bb5\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0b86\u0b9f\u0bcd\u0b9a\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1 - \u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
+    "url_metadata": "https://www.virakesari.lk/article/237369",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1769702460.0
+    "time_ut": 1769711940.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-30 | `virakesarilk-1bd517c2` | பெலவத்தை அலுவலகத்துக்குள் இருந்து கொண்டு நாட்டை ஆட்சி செய்ய முடியாது - நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-virakesarilk-1bd517c2)
+- 2026-01-29 | `virakesarilk-63164532` | கங்காராம விகாரையின் வருடாந்த  பெரஹெர ஊர்வலம் - கொழும்பில் விசேட போக்குவரத்துத் திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-63164532)
+- 2026-01-29 | `virakesarilk-1de7d7b7` | ஆகாஷ், விரான் ஆகியோரின் அற்புத ஆற்றல்களால் தென் ஆபிரிக்காவை வென்றது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-1de7d7b7)
 - 2026-01-29 | `virakesarilk-e6a3697b` | பண்டத்தரிப்பில் இருந்து வெளியேறிய இராணுவம்; பிரதேச சபை எடுத்துள்ள முக்கிய தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-e6a3697b)
 - 2026-01-29 | `tamilmirrorlk-9ef55514` | பணமோசடிக்கு உதவிய தொழிலதிபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-tamilmirrorlk-9ef55514)
 - 2026-01-29 | `virakesarilk-2f7b4fca` | டிட்வா பேரழிவு மலையக தமிழர்களின் நீண்டகால புறக்கணிப்பை வெளிச்சம் போடுகிறது – மனோ கணேசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-2f7b4fca)
@@ -57,10 +60,7 @@ A collection of lk_news documents.
 - 2026-01-29 | `virakesarilk-74cf4ce7` | அதர்வா  நடிக்கும் 'இதயம் முரளி' படத்தின் பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-74cf4ce7)
 - 2026-01-29 | `virakesarilk-8d5bd4c1` | இரத்தினக்கல் மற்றும் ஆபரணக் கைத்தொழில் தொடர்பான பிரச்சினைகள் குறித்து அரசாங்க நிதி பற்றிய குழுவின் கவனத்திற்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-8d5bd4c1)
 - 2026-01-29 | `virakesarilk-f7b4194a` | சீன ஜனாதிபதி ஷி ஜிங்பிங்குடன் பிரித்தானிய பிரதமர் கீர் ஸ்டார்மர் வரலாற்றுச் சந்திப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-f7b4194a)
-- 2026-01-29 | `virakesarilk-0466b795` | பழைய கல்வி முறை பிள்ளைகளின் திறன்களை முழுமையாக வெளிப்படுத்த முடியாது – தொழில் துறை அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-0466b795)
-- 2026-01-29 | `virakesarilk-732393a3` | வீரசிங்கம், சித்தாறு அணைக்கட்டு வேலைகள் விரைவாக முடிவுறுத்தப்படவேண்டும் - ரவிகரன் எம்.பி வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-732393a3)
-- 2026-01-29 | `virakesarilk-8d4d7c6d` | தேசிய இளைஞர் சேவைகள் மன்றத்தின் ஊடாக இளைஞர் தொழிமுயற்சியாளர்களை உருவாக்குவது தொடர்பாகத் தயாரிக்கப்பட்ட அளவுகோல்கள் குறித்து உப குழுவின் கவனத்திற்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-8d4d7c6d)
-- 2026-01-29 | `adalk-3b485d45` | 78 වැනි නිදහස් සැමරුමට ආරාධිතයන් 2000ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-adalk-3b485d45)
+- 2026-01-29 | `virakesarilk-9cba7e3c` | சுகாதாரத் துறை தொழிற்சங்கங்கள் பாரிய போராட்டத்திற்கு தயாராகும் – சமன் ரத்னப்பிரிய | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-9cba7e3c)
 
 ---
 
