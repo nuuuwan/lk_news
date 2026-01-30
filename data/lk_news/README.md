@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--30_23:54:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--31_01:50:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,108** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,149** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-30-tamilmirrorlk-98779e82",
-    "num": "tamilmirrorlk-98779e82",
-    "date_str": "2026-01-30",
-    "description": "\u0b89\u0ba3\u0bcd\u0ba3\u0bbe\u0bb5\u0bbf\u0bb0\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd  \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0ba3\u0bcd\u0ba3\u0bbe\u0bb5\u0bbf\u0bb0\u0ba4\u0bbf\u0b95\u0bb3\u0bc8-\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/175-371781",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1769778996.0
+    "doc_id": "2026-01-31-dailyftlk-48664eba",
+    "num": "dailyftlk-48664eba",
+    "date_str": "2026-01-31",
+    "description": "State institutions instructed to establish Internal Affairs Units",
+    "url_metadata": "https://www.ft.lk/news/State-institutions-instructed-to-establish-Internal-Affairs-Units/56-787728",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1769803518.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-31 | `dailyftlk-48664eba` | State institutions instructed to establish Internal Affairs Units | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-48664eba)
+- 2026-01-31 | `dailyftlk-2f9d525f` | Govt. goes for national  assessment of impact  of Social Media on children | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-2f9d525f)
+- 2026-01-31 | `dailyftlk-e6ca4482` | Ports Ministry rejects claims linking AASL Chairman’s removal to Mahabodhi Thero letter | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-e6ca4482)
+- 2026-01-31 | `dailyftlk-0eaa6717` | Strict ban on passenger cigarette imports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-0eaa6717)
+- 2026-01-31 | `dailyftlk-e184c9b6` | Election Commission invites applications for political party recognition in 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-e184c9b6)
+- 2026-01-31 | `dailyftlk-6bb653b8` | A state of preventing terrorism and citizens needing protection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-6bb653b8)
+- 2026-01-31 | `dailyftlk-697ffa77` | Sri Lanka opens first country pavilion at Source Fashion Apparel Exhibition, London | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-697ffa77)
+- 2026-01-31 | `dailyftlk-b5c2c4bc` | Deputy HC in South India meets top Microsoft official, discusses AI collaboration with Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-b5c2c4bc)
+- 2026-01-31 | `dailyftlk-8cff488c` | Half day “Total Quality  Management” by NCCSL on 10 Feb. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-8cff488c)
+- 2026-01-31 | `dailyftlk-a5f83743` | Hayleys showcases innovative agricultural  technology at Jaffna International Trade Fair 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-a5f83743)
+- 2026-01-31 | `dailyftlk-6616cf70` | Nawaloka Hospitals pioneers in AI-driven healthcare, announced as Platinum Sponsor of Medicare 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-6616cf70)
+- 2026-01-30 | `dailyftlk-f053dcce` | A survivor’s memory:  Wednesday, 31 January 1996 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-dailyftlk-f053dcce)
+- 2026-01-30 | `dailyftlk-da8f289b` | Best low-cost alternative to mitigate accidents at railway crossings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-dailyftlk-da8f289b)
+- 2026-01-30 | `dailyftlk-e5b2dd78` | State university teachers have their say on general educational reforms, show way forward | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-dailyftlk-e5b2dd78)
+- 2026-01-30 | `virakesarilk-e35388b2` | 19 வயதின் கீழ் ஆண்கள் உலகக் கிண்ண அரை இறுதியில் விளையாட இங்கிலாந்து தகுதிபெற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-virakesarilk-e35388b2)
+- 2026-01-30 | `virakesarilk-6e23b539` | 19 வயதின் கீழ் ஆண்கள் உலகக் கிண்ணத்தில் அயர்லாந்தை வீழ்த்தி இலங்கையின் அரை இறுதி வாய்ப்பை பறித்தது ஆப்கானிஸ்தான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-virakesarilk-6e23b539)
+- 2026-01-30 | `virakesarilk-582789f3` | முதலாவது சர்வதேச ரி20யில் இங்கிலாந்து முதலில் களத்தடுப்பில் ஈடுபடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-virakesarilk-582789f3)
+- 2026-01-30 | `virakesarilk-6bf1dfa6` | ரி20 உலகக் கிண்ணத்துக்கான அமெரிக்க குழாத்தில் ஷெஹான் ஜயசூரிய; தலைமைப் பயிற்றுநர் புபுது தசநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-virakesarilk-6bf1dfa6)
+- 2026-01-30 | `virakesarilk-412c68ce` | பிராஜா சக்தி திட்டம் தமிழ் தேசிய அரசியலை வேரிலேயே அழிக்க கூடிய ஆபத்தானது - அரசியல் ஆய்வாளர் சி. அ. யோதிலிங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-virakesarilk-412c68ce)
 - 2026-01-30 | `tamilmirrorlk-98779e82` | உண்ணாவிரதிகளை பேச்சுக்கு அழைத்தார்  ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-98779e82)
-- 2026-01-30 | `colombotelegraphcom-f8a532c2` | Power Of The Powerless: Priorities For Sri Lanka In A Fading International Order | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-colombotelegraphcom-f8a532c2)
-- 2026-01-30 | `tamilmirrorlk-3ab8eaad` | இந்தோனேசியாவில் ஆணுக்கும் பெண்ணுக்கும் கசையடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-3ab8eaad)
-- 2026-01-30 | `adalk-04a0efc3` | පොලීසියේ වැටුප කැපවීමට ප්‍රමාණවත් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-04a0efc3)
-- 2026-01-30 | `tamilmirrorlk-18182246` | பட்ஜெட்டின் கரிசனைகள் பல தீர்க்கப்படாமல் உள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-18182246)
-- 2026-01-30 | `adalk-c8c9ea13` | ලෝක විවාහක රූ රුජින කිරුළ තායිලන්තයට ලංකාවට තුන්වැනි තැන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-c8c9ea13)
-- 2026-01-30 | `adalk-8eb85d60` | වතු කම්කරු වැටුප රු. 1750ක් කිරීමේ ගිවිසුමට අත්සන් තබයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-8eb85d60)
-- 2026-01-30 | `dailyftlk-a8bb6e8b` | From Recovery to Relevance: Why Port City Colombo Matters for Sri Lanka’s Next 50 Years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-dailyftlk-a8bb6e8b)
-- 2026-01-30 | `adalk-69f8ad56` | ගුරු පුරප්පාඩු 36178ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-69f8ad56)
-- 2026-01-30 | `adalk-fdb98927` | අලුත් ජාවාරමක් ගැන සර්ට් කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-fdb98927)
-- 2026-01-30 | `tamilmirrorlk-b1728ac3` | எனக்கு இசை தெரியாது : இளையராஜா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-b1728ac3)
-- 2026-01-30 | `adalk-44d47d2a` | ව්‍යාජ “ඩුබායි සුද්දා”ගේ ගොදුරක් වුණාද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-44d47d2a)
-- 2026-01-30 | `colombotelegraphcom-795d9bf9` | Trump’s BOP: Pseudo-Legitimacy For Illegitimate Occupations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-colombotelegraphcom-795d9bf9)
-- 2026-01-30 | `adalk-670ec490` | නියමිත පරිදි ගල් අඟුරු ගොඩ නොබෑමෙන් රු. කෝටි 15ක් ප්‍රමාද ගාස්තු ගෙවලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-670ec490)
-- 2026-01-30 | `adalk-502dbeae` | පාසල් සංවර්ධන නිලධාරීන් තව දුරටත් මාරාන්තික උපවාසයේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-502dbeae)
-- 2026-01-30 | `tamilmirrorlk-3813871a` | PTA, PSTA எதிராக கொழும்பில் ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-3813871a)
-- 2026-01-30 | `tamilmirrorlk-f5923794` | எழுத்தாளர் பாலா சங்குபிள்ளை காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-f5923794)
-- 2026-01-30 | `tamilmirrorlk-fa43ea30` | தேங்காய் எண்ணெய் விலை அதிகரிக்கும் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-fa43ea30)
-- 2026-01-30 | `tamilmirrorlk-883f297e` | மொன்டானா தேசிய காவல் படை கள விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-883f297e)
-- 2026-01-30 | `colombotelegraphcom-4228ae9b` | The Best Low-Cost Alternative To Mitigate Accidents At Railway Crossings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-colombotelegraphcom-4228ae9b)
 
 ---
 
