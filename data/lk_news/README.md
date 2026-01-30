@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--30_06:13:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--30_08:41:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,066** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,070** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-30-dailyftlk-df6d7f71",
-    "num": "dailyftlk-df6d7f71",
+    "doc_id": "2026-01-30-tamilmirrorlk-c7ee3f6a",
+    "num": "tamilmirrorlk-c7ee3f6a",
     "date_str": "2026-01-30",
-    "description": "Sri Lanka-Pakistan Joint Economic Commission meets in Colombo",
-    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Pakistan-Joint-Economic-Commission-meets-in-Colombo/34-787704",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1769730737.0
+    "description": "\u0b9c\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1 ; \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-371764",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769741839.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-30 | `tamilmirrorlk-c7ee3f6a` | ஜிந்துபிட்டி துப்பாக்கிச் சூடு ; மற்றுமொருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-c7ee3f6a)
+- 2026-01-30 | `tamilmirrorlk-76f7061f` | நாட்டின் சில பகுதிகளில் இன்று மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-76f7061f)
+- 2026-01-30 | `tamilmirrorlk-7407ce28` | கொழும்பில் இன்று முதல் விசேட போக்குவரத்து திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-7407ce28)
 - 2026-01-30 | `dailyftlk-df6d7f71` | Sri Lanka-Pakistan Joint Economic Commission meets in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-dailyftlk-df6d7f71)
 - 2026-01-30 | `dailyftlk-469136b8` | The Offices at Cinnamon Life achieves full occupancy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-dailyftlk-469136b8)
 - 2026-01-30 | `dailyftlk-d4932483` | IRD launches street survey in Colombo to widen tax net | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-dailyftlk-d4932483)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-01-30 | `dailyftlk-29051a0c` | PM launches new education reforms, vows equal access for all children | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-dailyftlk-29051a0c)
 - 2026-01-30 | `dailyftlk-906f383d` | Health Ministry says Nipah virus risk minimal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-dailyftlk-906f383d)
 - 2026-01-30 | `dailyftlk-f3da9e1d` | Court reminds AG to expedite Namal’s money laundering case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-dailyftlk-f3da9e1d)
-- 2026-01-30 | `tamilmirrorlk-64eddb65` | 16,000 ஊழியர்களை பணிநீக்கம் ’அமேசன்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-64eddb65)
-- 2026-01-30 | `virakesarilk-1bd517c2` | பெலவத்தை அலுவலகத்துக்குள் இருந்து கொண்டு நாட்டை ஆட்சி செய்ய முடியாது - நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-virakesarilk-1bd517c2)
-- 2026-01-29 | `virakesarilk-63164532` | கங்காராம விகாரையின் வருடாந்த  பெரஹெர ஊர்வலம் - கொழும்பில் விசேட போக்குவரத்துத் திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-29-virakesarilk-63164532)
 
 ---
 
