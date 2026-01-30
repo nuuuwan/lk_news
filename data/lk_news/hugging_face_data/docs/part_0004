@@ -41029,6 +41029,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-30-colombotelegraphcom-4228ae9b",
+    "num": "colombotelegraphcom-4228ae9b",
+    "date_str": "2026-01-30",
+    "description": "The Best Low-Cost Alternative To Mitigate Accidents At Railway Crossings",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/the-best-low-cost-alternative-to-mitigate-accidents-at-railway-crossings/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1769755714.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-30-tamilmirrorlk-883f297e",
     "num": "tamilmirrorlk-883f297e",
     "date_str": "2026-01-30",
@@ -41092,6 +41103,17 @@ ews",
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1769763817.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-30-colombotelegraphcom-795d9bf9",
+    "num": "colombotelegraphcom-795d9bf9",
+    "date_str": "2026-01-30",
+    "description": "Trump\u2019s BOP: Pseudo-Legitimacy For Illegitimate Occupations",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/trumps-bop-pseudo-legitimacy-for-illegitimate-occupations/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1769763979.0
   },
   {
     "doc_type": "lk_news",
@@ -41180,6 +41202,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1769768852.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-30-adalk-04a0efc3",
+    "num": "adalk-04a0efc3",
+    "date_str": "2026-01-30",
+    "description": "\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0dda \u0dc0\u0dd0\u0da7\u0dd4\u0db4 \u0d9a\u0dd0\u0db4\u0dc0\u0dd3\u0db8\u0da7 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0dda-\u0dc0\u0dd0\u0da7\u0dd4\u0db4-\u0d9a\u0dd0\u0db4\u0dc0\u0dd3\u0db8\u0da7-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dc0\u0dad\u0dca-\u0db1\u0dd1/11-421036",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769770202.0
   },
   {
     "doc_type": "lk_news",
