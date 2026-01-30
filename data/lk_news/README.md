@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--30_21:53:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--30_23:54:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,107** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,108** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-01-30 | `tamilmirrorlk-98779e82` | உண்ணாவிரதிகளை பேச்சுக்கு அழைத்தார்  ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-98779e82)
+- 2026-01-30 | `colombotelegraphcom-f8a532c2` | Power Of The Powerless: Priorities For Sri Lanka In A Fading International Order | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-colombotelegraphcom-f8a532c2)
 - 2026-01-30 | `tamilmirrorlk-3ab8eaad` | இந்தோனேசியாவில் ஆணுக்கும் பெண்ணுக்கும் கசையடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-3ab8eaad)
 - 2026-01-30 | `adalk-04a0efc3` | පොලීසියේ වැටුප කැපවීමට ප්‍රමාණවත් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-04a0efc3)
 - 2026-01-30 | `tamilmirrorlk-18182246` | பட்ஜெட்டின் கரிசனைகள் பல தீர்க்கப்படாமல் உள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-18182246)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-30 | `tamilmirrorlk-fa43ea30` | தேங்காய் எண்ணெய் விலை அதிகரிக்கும் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-fa43ea30)
 - 2026-01-30 | `tamilmirrorlk-883f297e` | மொன்டானா தேசிய காவல் படை கள விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-883f297e)
 - 2026-01-30 | `colombotelegraphcom-4228ae9b` | The Best Low-Cost Alternative To Mitigate Accidents At Railway Crossings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-colombotelegraphcom-4228ae9b)
-- 2026-01-30 | `tamilmirrorlk-c45fc71e` | 1,750 ரூபா சம்பளம் வழங்கும் ஒப்பந்தம் கையெழுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-c45fc71e)
 
 ---
 
