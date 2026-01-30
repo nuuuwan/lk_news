@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--30_15:53:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--30_17:55:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,097** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,101** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-30-dailyftlk-a8bb6e8b",
-    "num": "dailyftlk-a8bb6e8b",
+    "doc_id": "2026-01-30-tamilmirrorlk-3ab8eaad",
+    "num": "tamilmirrorlk-3ab8eaad",
     "date_str": "2026-01-30",
-    "description": "From Recovery to Relevance: Why Port City Colombo Matters for Sri Lanka\u2019s Next 50 Years",
-    "url_metadata": "https://www.ft.lk/business/From-Recovery-to-Relevance-Why-Port-City-Colombo-Matters-for-Sri-Lanka-s-Next-50-Years/34-787708",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1769767509.0
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bcb\u0ba9\u0bc7\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b86\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b95\u0b9a\u0bc8\u0baf\u0b9f\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bcb\u0ba9\u0bc7\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0b86\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b95\u0b9a\u0bc8\u0baf\u0b9f\u0bbf/50-371780",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1769771149.0
 }
 ```
 
@@ -41,7 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-30 | `tamilmirrorlk-3ab8eaad` | இந்தோனேசியாவில் ஆணுக்கும் பெண்ணுக்கும் கசையடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-3ab8eaad)
+- 2026-01-30 | `tamilmirrorlk-18182246` | பட்ஜெட்டின் கரிசனைகள் பல தீர்க்கப்படாமல் உள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-18182246)
+- 2026-01-30 | `adalk-c8c9ea13` | ලෝක විවාහක රූ රුජින කිරුළ තායිලන්තයට ලංකාවට තුන්වැනි තැන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-c8c9ea13)
 - 2026-01-30 | `dailyftlk-a8bb6e8b` | From Recovery to Relevance: Why Port City Colombo Matters for Sri Lanka’s Next 50 Years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-dailyftlk-a8bb6e8b)
+- 2026-01-30 | `adalk-fdb98927` | අලුත් ජාවාරමක් ගැන සර්ට් කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-fdb98927)
 - 2026-01-30 | `tamilmirrorlk-b1728ac3` | எனக்கு இசை தெரியாது : இளையராஜா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-b1728ac3)
 - 2026-01-30 | `adalk-44d47d2a` | ව්‍යාජ “ඩුබායි සුද්දා”ගේ ගොදුරක් වුණාද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-44d47d2a)
 - 2026-01-30 | `adalk-670ec490` | නියමිත පරිදි ගල් අඟුරු ගොඩ නොබෑමෙන් රු. කෝටි 15ක් ප්‍රමාද ගාස්තු ගෙවලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-670ec490)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-01-30 | `adalk-8507ed6c` | නිදහස් උත්සවය නිසා ක්‍රියාත්මක විශේෂ රථවාහන සැලැස්ම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-8507ed6c)
 - 2026-01-30 | `tamilmirrorlk-1085770c` | 7 நாட்களுக்கு முன்னரே தப்பிய கைதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-1085770c)
 - 2026-01-30 | `tamilmirrorlk-bbad5024` | ஏதாவது ஒன்றை காட்டுங்க சாமி... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-bbad5024)
-- 2026-01-30 | `adalk-ea78c69c` | සෙලින්කෝ ලයිෆ් හි උපදේශක ධුරයට ආචාර්ය කැලුම් සේනානායක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-adalk-ea78c69c)
-- 2026-01-30 | `tamilmirrorlk-597791d6` | ரிவர்ஸ்டனை பார்வையிடலாம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-597791d6)
-- 2026-01-30 | `tamilmirrorlk-e687ce39` | ரூ.2 கோடி 30 இலட்சம்   பெறுமதியான போதைப் பொருட்களுடன் மாமா , மருமகன்  கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-e687ce39)
-- 2026-01-30 | `tamilmirrorlk-11407d20` | விராட் கோலியை காணவில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-30-tamilmirrorlk-11407d20)
 
 ---
 
