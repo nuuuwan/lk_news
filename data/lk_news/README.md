@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--31_08:37:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--31_10:14:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,166** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,169** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-31-tamilmirrorlk-a3b37c75",
-    "num": "tamilmirrorlk-a3b37c75",
+    "doc_id": "2026-01-31-tamilmirrorlk-e2d38400",
+    "num": "tamilmirrorlk-e2d38400",
     "date_str": "2026-01-31",
-    "description": "\u0baf\u0bc1\u0bb5\u0ba4\u0bbf \u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1: \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baf\u0bc1\u0bb5\u0ba4\u0bbf-\u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1-\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-371796",
+    "description": "\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bc8 \u0baa\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bc8-\u0baa\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf/175-371798",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1769823657.0
+    "time_ut": 1769832392.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-31 | `tamilmirrorlk-e2d38400` | விக்ரமசிங்கவை பரிந்துரைத்தார் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-tamilmirrorlk-e2d38400)
+- 2026-01-31 | `tamilmirrorlk-9021f718` | நடிகை கேத்தரின் ஓஹாரா காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-tamilmirrorlk-9021f718)
 - 2026-01-31 | `tamilmirrorlk-a3b37c75` | யுவதி வன்புணர்வு: சட்டத்தரணிக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-tamilmirrorlk-a3b37c75)
 - 2026-01-31 | `virakesarilk-a6704f8c` | ஆசிரியர் அபிவிருத்தி உத்தியோகத்தர்களின் உண்ணாவிரதப் போராட்டம் ; 5 வது நாளாக இடம்பெற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-virakesarilk-a6704f8c)
 - 2026-01-31 | `virakesarilk-c447823d` | பிள்ளைகள்மீது சமூக ஊடகங்களின் தாக்கம்: தேசிய மதிப்பீடு, கொள்கை மீளாய்வு ஆரம்பம் - பிரதி அமைச்சர் எரங்க வீரரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-virakesarilk-c447823d)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-01-31 | `dailyftlk-697ffa77` | Sri Lanka opens first country pavilion at Source Fashion Apparel Exhibition, London | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-697ffa77)
 - 2026-01-31 | `dailyftlk-b5c2c4bc` | Deputy HC in South India meets top Microsoft official, discusses AI collaboration with Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-b5c2c4bc)
 - 2026-01-31 | `dailyftlk-8cff488c` | Half day “Total Quality  Management” by NCCSL on 10 Feb. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-8cff488c)
-- 2026-01-31 | `dailyftlk-a5f83743` | Hayleys showcases innovative agricultural  technology at Jaffna International Trade Fair 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-a5f83743)
-- 2026-01-31 | `dailyftlk-6616cf70` | Nawaloka Hospitals pioneers in AI-driven healthcare, announced as Platinum Sponsor of Medicare 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-6616cf70)
 
 ---
 
