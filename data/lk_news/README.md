@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--31_10:14:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--31_11:54:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,169** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,170** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,7 @@ A collection of lk_news documents.
 - 2026-01-31 | `tamilmirrorlk-e2d38400` | விக்ரமசிங்கவை பரிந்துரைத்தார் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-tamilmirrorlk-e2d38400)
 - 2026-01-31 | `tamilmirrorlk-9021f718` | நடிகை கேத்தரின் ஓஹாரா காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-tamilmirrorlk-9021f718)
 - 2026-01-31 | `tamilmirrorlk-a3b37c75` | யுவதி வன்புணர்வு: சட்டத்தரணிக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-tamilmirrorlk-a3b37c75)
+- 2026-01-31 | `colombotelegraphcom-9f88d9a5` | General Educational Reforms: To What Purpose? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-colombotelegraphcom-9f88d9a5)
 - 2026-01-31 | `virakesarilk-a6704f8c` | ஆசிரியர் அபிவிருத்தி உத்தியோகத்தர்களின் உண்ணாவிரதப் போராட்டம் ; 5 வது நாளாக இடம்பெற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-virakesarilk-a6704f8c)
 - 2026-01-31 | `virakesarilk-c447823d` | பிள்ளைகள்மீது சமூக ஊடகங்களின் தாக்கம்: தேசிய மதிப்பீடு, கொள்கை மீளாய்வு ஆரம்பம் - பிரதி அமைச்சர் எரங்க வீரரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-virakesarilk-c447823d)
 - 2026-01-31 | `virakesarilk-08619773` | வைத்தியர்கள் போராட்டத்தின் அடுத்தக்கட்டம் இன்று அறிவிப்பு; 48 மணிநேரக் கெடு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-virakesarilk-08619773)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-01-31 | `dailyftlk-6bb653b8` | A state of preventing terrorism and citizens needing protection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-6bb653b8)
 - 2026-01-31 | `dailyftlk-697ffa77` | Sri Lanka opens first country pavilion at Source Fashion Apparel Exhibition, London | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-697ffa77)
 - 2026-01-31 | `dailyftlk-b5c2c4bc` | Deputy HC in South India meets top Microsoft official, discusses AI collaboration with Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-b5c2c4bc)
-- 2026-01-31 | `dailyftlk-8cff488c` | Half day “Total Quality  Management” by NCCSL on 10 Feb. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-dailyftlk-8cff488c)
 
 ---
 

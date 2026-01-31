@@ -41887,6 +41887,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-31-colombotelegraphcom-9f88d9a5",
+    "num": "colombotelegraphcom-9f88d9a5",
+    "date_str": "2026-01-31",
+    "description": "General Educational Reforms: To What Purpose?",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/general-educational-reforms-to-what-purpose/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1769817592.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-31-tamilmirrorlk-a3b37c75",
     "num": "tamilmirrorlk-a3b37c75",
     "date_str": "2026-01-31",
