@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--01_19:50:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--01_21:48:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,320** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,328** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-01-tamilmirrorlk-f6ea9d19",
-    "num": "tamilmirrorlk-f6ea9d19",
+    "doc_id": "2026-02-01-virakesarilk-654c6fac",
+    "num": "virakesarilk-654c6fac",
     "date_str": "2026-02-01",
-    "description": "\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4 \u0bb5\u0baf\u0ba4\u0bc1 \u0b95\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4-\u0bb5\u0baf\u0ba4\u0bc1-\u0b95\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-371850",
+    "description": "\u0bb0\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd, \u0b86\u0ba9\u0bbe\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bbe\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/237579",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1769949167.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1769961540.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-01 | `virakesarilk-654c6fac` | ரி20 உலகக் கிண்ணத்தில் பாகிஸ்தான் பங்கேற்கும், ஆனால் இந்தியாவுக்கு எதிராக விளையாடாது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-654c6fac)
+- 2026-02-01 | `virakesarilk-e5e18ce5` | இரண்டாவது சர்வதேச ரி20யில் இலங்கை 189 - 5  விக். | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-e5e18ce5)
+- 2026-02-01 | `virakesarilk-6951d59e` | ரி;20 உலகக் கிண்ணத்தில் பங்குபற்றும் நெதர்லாந்து அணியினர் இலங்கை வந்தடைந்தனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-6951d59e)
+- 2026-02-01 | `adalk-b1f66738` | කියපු බොරු අත්ත කිරන්න මහජන මුදල් වියදම් කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-adalk-b1f66738)
+- 2026-02-01 | `adalk-60cc5b87` | මහව සමූපාකාර ඡන්දය ඒකාබද්ධ විපක්ෂය දිනයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-adalk-60cc5b87)
+- 2026-02-01 | `adalk-c9d41bf4` | අමු ඉඟුරු මිළ ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-adalk-c9d41bf4)
+- 2026-02-01 | `virakesarilk-0add7914` | இரண்டாவது சர்வதேச ரி20யில் இலங்கை முதலில் துடுப்பெடுத்தாடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-0add7914)
 - 2026-02-01 | `tamilmirrorlk-f6ea9d19` | குறைந்த வயது கர்ப்பம் அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-f6ea9d19)
 - 2026-02-01 | `virakesarilk-ade4f9be` | அமெரிக்காவின் புதிய பொருளாதாரத் தடை விரிவாக்கத்தையும் ஏகாதிபத்திய ஒடுக்குமுறைகளையும் சோசலிசக் கட்சி கண்டிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-ade4f9be)
 - 2026-02-01 | `virakesarilk-4f186424` | கங்காராமய விகாரையில்  வைக்கப்படவுள்ள புத்த பெருமானின் உடல்சார் புனிதச் சின்னங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-4f186424)
@@ -53,14 +60,7 @@ A collection of lk_news documents.
 - 2026-02-01 | `virakesarilk-48ffe1a8` | சந்தர்ப்பவாத அரசியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-48ffe1a8)
 - 2026-02-01 | `tamilmirrorlk-19db3036` | திஸ்ஸ விகாரைக்கு எதிராக ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-19db3036)
 - 2026-02-01 | `virakesarilk-5b13bd67` | பொலிஸாரின் சமிக்ஞையை மீறிச் சென்ற டிப்பர் மீது துப்பாக்கிச் சூடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-5b13bd67)
-- 2026-02-01 | `virakesarilk-46337770` | ட்ரோன் போர்முறைக்குள் நுழையுமா இலங்கை? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-46337770)
-- 2026-02-01 | `virakesarilk-efe87067` | சீதாஎலிய சீதை அம்மன் ஆலயத்தில் இந்தியாவின் பீகார் மாநில அனர்த்த முகாமைத்துவ அமைச்சர் ஸ்ரீ நாராயண் பிரசாத் உள்ளிட்ட குழுவினர் வழிபாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-efe87067)
-- 2026-02-01 | `virakesarilk-4ad4d8c9` | அவசரகால நிலை சட்டம் நீடிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-4ad4d8c9)
-- 2026-02-01 | `virakesarilk-5b2208ef` | பாதுகாப்புச் செலவினத்தை அதிகரிக்கும் அமெரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-5b2208ef)
-- 2026-02-01 | `virakesarilk-ada77289` | வௌிநாட்டு பெண்ணின் கையடக்க தொலைபேசியை திருடிய நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-ada77289)
-- 2026-02-01 | `virakesarilk-543fd6c3` | நுகேகொடை சட்டத்தரணிகளுக்கு கொலை மிரட்டல்: சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-543fd6c3)
-- 2026-02-01 | `tamilmirrorlk-db5e8257` | பல உயிர்களை காப்பாற்றிய சாரதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-db5e8257)
-- 2026-02-01 | `virakesarilk-3886c52d` | காத்தான்குடியில் யுவதி பாலியல் துஷ்பிரயோகம் ; கைதுசெய்யப்பட்ட சட்டத்தரணி 3ம் திகதி வரை விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-3886c52d)
+- 2026-02-01 | `virakesarilk-72265b59` | அரசியலில் மாற்றம் செய்தது போல புதிய கல்வி சீரமைப்பின் ஊடாக புதிய மாற்றங்களை உருவாக்க இருக்கின்றோம்- பாராளுமன்ற உறுப்பினர் கந்தசாமி பிரபு தெரிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-72265b59)
 
 ---
 
