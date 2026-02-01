@@ -39236,6 +39236,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-28-islandlk-5b8c52cb",
+    "num": "islandlk-5b8c52cb",
+    "date_str": "2026-01-28",
+    "description": "Prelates\u2019 wise counsel",
+    "url_metadata": "http://island.lk/prelates-wise-counsel/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769621640.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-28-virakesarilk-4d31848f",
     "num": "virakesarilk-4d31848f",
     "date_str": "2026-01-28",
@@ -42250,6 +42261,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-4fca40ac",
+    "num": "islandlk-4fca40ac",
+    "date_str": "2026-01-31",
+    "description": "After We Leave Home",
+    "url_metadata": "http://island.lk/after-we-leave-home/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769849400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-f93349ac",
+    "num": "islandlk-f93349ac",
+    "date_str": "2026-01-31",
+    "description": "Pathfinder Foundation charts roadmap for Sri Lanka\u2019s critical minerals sector",
+    "url_metadata": "http://island.lk/pathfinder-foundation-charts-roadmap-for-sri-lankas-critical-minerals-sector/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769849520.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-31-virakesarilk-98cb0b51",
     "num": "virakesarilk-98cb0b51",
     "date_str": "2026-01-31",
@@ -42258,6 +42291,39 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1769850120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-2320f625",
+    "num": "islandlk-2320f625",
+    "date_str": "2026-01-31",
+    "description": "Sri Lankan Scholar Teaching Hindi at University of Michigan",
+    "url_metadata": "http://island.lk/sri-lankan-scholar-teaching-hindi-at-university-of-michigan/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769850780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-76fdc8bb",
+    "num": "islandlk-76fdc8bb",
+    "date_str": "2026-01-31",
+    "description": "The rise of binge watching and endless scrolling",
+    "url_metadata": "http://island.lk/the-rise-of-binge-watching-and-endless-scrolling/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769850780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-aa1bbbc6",
+    "num": "islandlk-aa1bbbc6",
+    "date_str": "2026-01-31",
+    "description": "A Southern Voice, a Northern Story:",
+    "url_metadata": "http://island.lk/a-southern-voice-a-northern-story/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769850780.0
   },
   {
     "doc_type": "lk_news",
@@ -42280,6 +42346,28 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1769852160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-ceb31473",
+    "num": "islandlk-ceb31473",
+    "date_str": "2026-01-31",
+    "description": "Sad Day for Sri Lanka Navy Special Boat Squadron",
+    "url_metadata": "http://island.lk/sad-day-for-sri-lanka-navy-special-boat-squadron/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769852580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-3cf59776",
+    "num": "islandlk-3cf59776",
+    "date_str": "2026-01-31",
+    "description": "Two Loyal, Noble Beings",
+    "url_metadata": "http://island.lk/two-loyal-noble-beings/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769853180.0
   },
   {
     "doc_type": "lk_news",
@@ -42327,6 +42415,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-79b3ec61",
+    "num": "islandlk-79b3ec61",
+    "date_str": "2026-01-31",
+    "description": "Ceylinco Life first to open eco-friendly branch on company land in Ambalantota",
+    "url_metadata": "http://island.lk/ceylinco-life-first-to-open-eco-friendly-branch-on-company-land-in-ambalantota/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769855280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-591bbd78",
+    "num": "islandlk-591bbd78",
+    "date_str": "2026-01-31",
+    "description": "Softlogic Life\u2019s Lahiru Maduranga takes helm as MDRT Country Chair for Sri Lanka",
+    "url_metadata": "http://island.lk/softlogic-lifes-lahiru-maduranga-takes-helm-as-mdrt-country-chair-for-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769855340.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-31-virakesarilk-6d573583",
     "num": "virakesarilk-6d573583",
     "date_str": "2026-01-31",
@@ -42357,6 +42467,50 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1769855760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-464bf9a8",
+    "num": "islandlk-464bf9a8",
+    "date_str": "2026-01-31",
+    "description": "ComBank to boost WSME, Agri SME financing with IFC\u2019s US$ 60Mn. Risk Sharing Facility",
+    "url_metadata": "http://island.lk/combank-to-boost-wsme-agri-sme-financing-with-ifcs-us-60mn-risk-sharing-facility-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769855820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-574cd33a",
+    "num": "islandlk-574cd33a",
+    "date_str": "2026-01-31",
+    "description": "Two distinguished leaders join the board of AIA Insurance Lanka",
+    "url_metadata": "http://island.lk/two-distinguished-leaders-join-the-board-of-aia-insurance-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769855820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-ea6af853",
+    "num": "islandlk-ea6af853",
+    "date_str": "2026-01-31",
+    "description": "Abans Group company becomes SL\u2019s first GP certified recycler",
+    "url_metadata": "http://island.lk/abans-group-company-becomes-sls-first-gp-certified-recycler/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769855820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-3d22ba52",
+    "num": "islandlk-3d22ba52",
+    "date_str": "2026-01-31",
+    "description": "Sri Lanka opens first country pavilion at London exhibition",
+    "url_metadata": "http://island.lk/sri-lanka-opens-first-country-pavilion-at-london-exhibition/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769855880.0
   },
   {
     "doc_type": "lk_news",
@@ -42456,5 +42610,16 @@ ews",
     "lang": "en",
     "newspaper_id": "colombotelegraphcom",
     "time_ut": 1769871701.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-6e1a4e0a",
+    "num": "islandlk-6e1a4e0a",
+    "date_str": "2026-01-31",
+    "description": "Shipping giant Maersk to take over Panama Canal ports after court ruling",
+    "url_metadata": "http://island.lk/shipping-giant-maersk-to-take-over-panama-canal-ports-after-court-ruling/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769873040.0
   }
 ]

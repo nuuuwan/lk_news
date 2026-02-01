@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-01 03:46:13",
-  "n_docs": 100218,
+  "time_updated": "2026-02-01 06:17:35",
+  "n_docs": 100233,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 100218,
+  "n_docs_with_text": 100233,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-01-31",
-  "dataset_size": 1524307090,
+  "dataset_size": 1524396066,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "en",
-    "ta",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-31-colombotelegraphcom-e800af35",
-    "num": "colombotelegraphcom-e800af35",
+    "doc_id": "2026-01-31-islandlk-6e1a4e0a",
+    "num": "islandlk-6e1a4e0a",
     "date_str": "2026-01-31",
-    "description": "Does The JVP Have The Chinese System In Mind?",
-    "url_metadata": "https://www.colombotelegraph.com/index.php/does-the-jvp-have-the-chinese-system-in-mind/",
+    "description": "Shipping giant Maersk to take over Panama Canal ports after court ruling",
+    "url_metadata": "http://island.lk/shipping-giant-maersk-to-take-over-panama-canal-ports-after-court-ruling/",
     "lang": "en",
-    "newspaper_id": "colombotelegraphcom",
-    "time_ut": 1769871701.0
+    "newspaper_id": "islandlk",
+    "time_ut": 1769873040.0
   }
 }
