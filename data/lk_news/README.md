@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--01_15:47:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--01_17:52:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,286** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,318** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-01-tamilmirrorlk-db5e8257",
-    "num": "tamilmirrorlk-db5e8257",
+    "doc_id": "2026-02-01-virakesarilk-ade4f9be",
+    "num": "virakesarilk-ade4f9be",
     "date_str": "2026-02-01",
-    "description": "\u0baa\u0bb2 \u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b9a\u0bbe\u0bb0\u0ba4\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0bb2-\u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf-\u0b9a\u0bbe\u0bb0\u0ba4\u0bbf/76-371841",
+    "description": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8 \u0bb5\u0bbf\u0bb0\u0bbf\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b8f\u0b95\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b92\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bcb\u0b9a\u0bb2\u0bbf\u0b9a\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/237571",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1769940660.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1769947620.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-01 | `virakesarilk-ade4f9be` | அமெரிக்காவின் புதிய பொருளாதாரத் தடை விரிவாக்கத்தையும் ஏகாதிபத்திய ஒடுக்குமுறைகளையும் சோசலிசக் கட்சி கண்டிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-ade4f9be)
+- 2026-02-01 | `virakesarilk-4f186424` | கங்காராமய விகாரையில்  வைக்கப்படவுள்ள புத்த பெருமானின் உடல்சார் புனிதச் சின்னங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-4f186424)
+- 2026-02-01 | `virakesarilk-1f1944d5` | வலப்பனை பகுதியில் பஸ் விபத்து தவிர்ப்பு ; சாரதியின் சாமர்த்தியத்தால் 40 பயணிகள் உயிர்தப்பினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-1f1944d5)
+- 2026-02-01 | `tamilmirrorlk-9af0f577` | இரவு நேரத்தில் பணிக்கு அமர்த்தப்படும் பெண்களுக்கான விதிமுறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-9af0f577)
+- 2026-02-01 | `virakesarilk-078fa443` | பாராளுமன்ற உறுப்பினர்களின் ஓய்வூதியத்தை ஒழிக்கும் அரசாங்கத்தின் திட்டம் தொடர்பில் மூண்டிருக்கும் விவாதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-078fa443)
+- 2026-02-01 | `virakesarilk-84c90414` | நியூட்டனின் மூன்றாம் விதியை அன்றே சொன்னவர் வள்ளுவர்: வவுனியாவில் ஆளுநர் நா.வேதநாயகன் உரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-84c90414)
+- 2026-02-01 | `virakesarilk-da97d55a` | புனாணையில் லொறி - மோட்டார் சைக்கிள் மோதி விபத்து: ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-da97d55a)
+- 2026-02-01 | `virakesarilk-825ddd4e` | அநுராதபுரத்தில் வாகன விபத்து ;  ஐவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-825ddd4e)
+- 2026-02-01 | `virakesarilk-48ffe1a8` | சந்தர்ப்பவாத அரசியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-48ffe1a8)
+- 2026-02-01 | `tamilmirrorlk-19db3036` | திஸ்ஸ விகாரைக்கு எதிராக ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-19db3036)
+- 2026-02-01 | `virakesarilk-5b13bd67` | பொலிஸாரின் சமிக்ஞையை மீறிச் சென்ற டிப்பர் மீது துப்பாக்கிச் சூடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-5b13bd67)
+- 2026-02-01 | `virakesarilk-46337770` | ட்ரோன் போர்முறைக்குள் நுழையுமா இலங்கை? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-46337770)
+- 2026-02-01 | `virakesarilk-efe87067` | சீதாஎலிய சீதை அம்மன் ஆலயத்தில் இந்தியாவின் பீகார் மாநில அனர்த்த முகாமைத்துவ அமைச்சர் ஸ்ரீ நாராயண் பிரசாத் உள்ளிட்ட குழுவினர் வழிபாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-efe87067)
+- 2026-02-01 | `virakesarilk-4ad4d8c9` | அவசரகால நிலை சட்டம் நீடிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-4ad4d8c9)
+- 2026-02-01 | `virakesarilk-5b2208ef` | பாதுகாப்புச் செலவினத்தை அதிகரிக்கும் அமெரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-5b2208ef)
+- 2026-02-01 | `virakesarilk-ada77289` | வௌிநாட்டு பெண்ணின் கையடக்க தொலைபேசியை திருடிய நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-ada77289)
+- 2026-02-01 | `virakesarilk-543fd6c3` | நுகேகொடை சட்டத்தரணிகளுக்கு கொலை மிரட்டல்: சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-543fd6c3)
 - 2026-02-01 | `tamilmirrorlk-db5e8257` | பல உயிர்களை காப்பாற்றிய சாரதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-db5e8257)
-- 2026-02-01 | `tamilmirrorlk-6c29037f` | கிரகறி வாவி அருகிலிருந்து சிசுவின் சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-6c29037f)
-- 2026-02-01 | `tamilmirrorlk-1a3e007e` | முல்லைத்தீவில் நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-1a3e007e)
-- 2026-02-01 | `tamilmirrorlk-e893b038` | மாத்தளையில் மீண்டும் நிலச்சரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-e893b038)
-- 2026-02-01 | `adalk-8c43a6c2` | අලුත උපන් බිළිඳියකගේ මළ සිරුරක් ග්‍රෙගරි වැවෙන් හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-adalk-8c43a6c2)
-- 2026-02-01 | `tamilmirrorlk-b606a774` | இந்திய பட்ஜெட்டில் இலங்கைக்கு நிதியுதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-b606a774)
-- 2026-02-01 | `tamilmirrorlk-83aeb047` | புத்தளம் விபத்தில் ஒருவர் பலி ; ஒருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-83aeb047)
-- 2026-02-01 | `tamilmirrorlk-17bccc12` | யாழ்ப்பாணத்துக்கு வருகிறது உலகக் கிண்ணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-17bccc12)
-- 2026-02-01 | `tamilmirrorlk-42ef55b0` | மாவைக்கு சிலை... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-42ef55b0)
-- 2026-02-01 | `virakesarilk-69519a1a` | புயலினால் பாதிக்கப்பட்ட தொழில்களை  மீளக் கட்டியெழுப்ப அரசாங்கம் நடவடிக்கை - பிரதி அமைச்சர் சதுரங்க அபேசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-69519a1a)
-- 2026-02-01 | `virakesarilk-5281d932` | இந்த ஆண்டில் மாகாணசபை  தேர்தலுக்கு சாத்தியமில்லை - அமைச்சர் நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-5281d932)
-- 2026-02-01 | `tamilmirrorlk-b9089c03` | வடக்கு எம்.பியின் வாகனம் மோதியதில் இருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-b9089c03)
-- 2026-02-01 | `virakesarilk-7f693c3b` | அரச நிறுவனங்களின் அலட்சியம் மிகப்பெரிய குற்றவியல் குற்றம் ; பொறுப்புக்கூறலில் மௌனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-7f693c3b)
-- 2026-02-01 | `virakesarilk-d3b11782` | புதிய அரசியலமைப்பை உருவாக்குவதற்கு  நடவடிக்கைகளை முன்னெடுக்கவில்லை பிரதமரின் கூற்று வெறும் அறிவிப்பாகவே உள்ளது - அஜித் பீ பெரேரா எம்.பி விசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-d3b11782)
-- 2026-02-01 | `tamilmirrorlk-e40bd2bd` | துப்பாக்கி சூட்டில் 15 பாகிஸ்தான் இராணுவ வீரர்கள் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-e40bd2bd)
-- 2026-02-01 | `tamilmirrorlk-a8430ee7` | நேஷன்ஸ் ட்ரஸ்ட் வங்கியின் விசேட அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-a8430ee7)
-- 2026-02-01 | `tamilmirrorlk-28e502e3` | சினோபெக்  நிறுவனமும் எரிபொருள் விலையை குறைத்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-28e502e3)
-- 2026-02-01 | `tamilmirrorlk-77f3dfbb` | புத்தர் சிலையை திருடிய 14 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-77f3dfbb)
-- 2026-02-01 | `virakesarilk-4ea4e9b2` | நாடளாவிய ரீதியில் விசேட பொலிஸ் சுற்றிவளைப்பு: ஒரே நாளில் 779 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-4ea4e9b2)
-- 2026-02-01 | `virakesarilk-2319f662` | டிஸ்லெக்ஸியா (Dyslexia) எனும் எழுத்து மயக்கநிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-2319f662)
+- 2026-02-01 | `virakesarilk-3886c52d` | காத்தான்குடியில் யுவதி பாலியல் துஷ்பிரயோகம் ; கைதுசெய்யப்பட்ட சட்டத்தரணி 3ம் திகதி வரை விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-3886c52d)
+- 2026-02-01 | `virakesarilk-b043fdb8` | இரத்தின இறக்குமதியாளர்களுக்கு நிவாரணம் - புதிய வரி முறை ; இரத்தின மற்றும் ஆபரணத் துறைக்கு ஒரு மூலோபாய ஊக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-b043fdb8)
 
 ---
 
