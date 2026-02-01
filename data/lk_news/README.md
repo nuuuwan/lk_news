@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--01_06:18:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--01_08:47:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,233** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-01-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,237** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-31-islandlk-6e1a4e0a",
-    "num": "islandlk-6e1a4e0a",
-    "date_str": "2026-01-31",
-    "description": "Shipping giant Maersk to take over Panama Canal ports after court ruling",
-    "url_metadata": "http://island.lk/shipping-giant-maersk-to-take-over-panama-canal-ports-after-court-ruling/",
-    "lang": "en",
-    "newspaper_id": "islandlk",
-    "time_ut": 1769873040.0
+    "doc_id": "2026-02-01-adalk-63ad6394",
+    "num": "adalk-63ad6394",
+    "date_str": "2026-02-01",
+    "description": "\u0db6\u0dd4\u0daf\u0dd4 \u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dba\u0d9a\u0dca \u0db4\u0dd0\u0dc4\u0dd0\u0dbb\u0d9c\u0dad\u0dca 14\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dd4\u0daf\u0dd4-\u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dba\u0d9a\u0dca-\u0db4\u0dd0\u0dc4\u0dd0\u0dbb\u0d9c\u0dad\u0dca-14\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-421042",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769909991.0
 }
 ```
 
@@ -41,8 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-01 | `adalk-63ad6394` | බුදු පිළිමයක් පැහැරගත් 14ක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-adalk-63ad6394)
+- 2026-02-01 | `adalk-edde5da6` | පෙට්‍රල් හා ඩීසල් මිල රු. 2කින් පහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-adalk-edde5da6)
+- 2026-02-01 | `colombotelegraphcom-9600d45f` | In Memoriam: Late Dr. Michael Fernando – Former Academic, University Of Peradeniya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-colombotelegraphcom-9600d45f)
 - 2026-01-31 | `islandlk-6e1a4e0a` | Shipping giant Maersk to take over Panama Canal ports after court ruling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-islandlk-6e1a4e0a)
 - 2026-01-31 | `colombotelegraphcom-e800af35` | Does The JVP Have The Chinese System In Mind? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-colombotelegraphcom-e800af35)
+- 2026-01-31 | `adalk-9914af63` | දුරකතනය බැලූ දියණිය පියාගේ කැති පහරින් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-adalk-9914af63)
 - 2026-01-31 | `virakesarilk-c7721c76` | வளர்ப்பு நாயினை வீதியில் விட்ட உரிமையாளருக்கு நீதிமன்றம்  எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-virakesarilk-c7721c76)
 - 2026-01-31 | `virakesarilk-e0f167f9` | திருகோணமலை - முல்லைத்தீவு கடற்பரப்பில் நிலநடுக்கம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-virakesarilk-e0f167f9)
 - 2026-01-31 | `virakesarilk-5d1a036f` | டித்வா மீள் கட்டுமானத்தில், மலையக பெருந்தோட்ட மக்கள் மீது இன ஒதுக்கல் காட்டப்படுகிறது -  இலங்கைக்கான ஐ.நா. பிரதிநிதியிடம் மனோ கணேசன் முறையீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-virakesarilk-5d1a036f)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-01-31 | `islandlk-464bf9a8` | ComBank to boost WSME, Agri SME financing with IFC’s US$ 60Mn. Risk Sharing Facility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-islandlk-464bf9a8)
 - 2026-01-31 | `virakesarilk-0fba72f8` | மெல்லிசை - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-virakesarilk-0fba72f8)
 - 2026-01-31 | `virakesarilk-48836734` | 'பேங் பேங் ' படத்திற்காக மீண்டும் இணையும் நடன புயல் -  வைகை புயல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-virakesarilk-48836734)
-- 2026-01-31 | `virakesarilk-6d573583` | புதுமுக நடிகர் அபிஷன் ஜீவந்த் நடிக்கும் 'வித் லவ்' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-virakesarilk-6d573583)
-- 2026-01-31 | `islandlk-591bbd78` | Softlogic Life’s Lahiru Maduranga takes helm as MDRT Country Chair for Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-islandlk-591bbd78)
-- 2026-01-31 | `islandlk-79b3ec61` | Ceylinco Life first to open eco-friendly branch on company land in Ambalantota | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-islandlk-79b3ec61)
-- 2026-01-31 | `virakesarilk-ab4fa77d` | கடும் மின்னல் தாக்கம் குறித்து பொதுமக்களுக்கு எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-01-31-virakesarilk-ab4fa77d)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-01 06:17:35",
-  "n_docs": 100233,
+  "time_updated": "2026-02-01 08:46:48",
+  "n_docs": 100237,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 100233,
+  "n_docs_with_text": 100237,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-01-31",
-  "dataset_size": 1524396066,
+  "date_str_max": "2026-02-01",
+  "dataset_size": 1524577793,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "ta",
     "en",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-01-31-islandlk-6e1a4e0a",
-    "num": "islandlk-6e1a4e0a",
-    "date_str": "2026-01-31",
-    "description": "Shipping giant Maersk to take over Panama Canal ports after court ruling",
-    "url_metadata": "http://island.lk/shipping-giant-maersk-to-take-over-panama-canal-ports-after-court-ruling/",
-    "lang": "en",
-    "newspaper_id": "islandlk",
-    "time_ut": 1769873040.0
+    "doc_id": "2026-02-01-adalk-63ad6394",
+    "num": "adalk-63ad6394",
+    "date_str": "2026-02-01",
+    "description": "\u0db6\u0dd4\u0daf\u0dd4 \u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dba\u0d9a\u0dca \u0db4\u0dd0\u0dc4\u0dd0\u0dbb\u0d9c\u0dad\u0dca 14\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dd4\u0daf\u0dd4-\u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dba\u0d9a\u0dca-\u0db4\u0dd0\u0dc4\u0dd0\u0dbb\u0d9c\u0dad\u0dca-14\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-421042",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769909991.0
   }
 }

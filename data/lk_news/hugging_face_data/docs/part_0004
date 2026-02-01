@@ -42602,6 +42602,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-31-adalk-9914af63",
+    "num": "adalk-9914af63",
+    "date_str": "2026-01-31",
+    "description": "\u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1\u0dba \u0db6\u0dd0\u0dbd\u0dd6 \u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba \u0db4\u0dd2\u0dba\u0dcf\u0d9c\u0dda \u0d9a\u0dd0\u0dad\u0dd2 \u0db4\u0dc4\u0dbb\u0dd2\u0db1\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd4\u0dbb\u0d9a\u0dad\u0db1\u0dba-\u0db6\u0dd0\u0dbd\u0dd6-\u0daf\u0dd2\u0dba\u0dab\u0dd2\u0dba-\u0db4\u0dd2\u0dba\u0dcf\u0d9c\u0dda-\u0d9a\u0dd0\u0dad\u0dd2-\u0db4\u0dc4\u0dbb\u0dd2\u0db1\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-421040",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769862711.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-31-colombotelegraphcom-e800af35",
     "num": "colombotelegraphcom-e800af35",
     "date_str": "2026-01-31",
@@ -42621,5 +42632,38 @@ ews",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1769873040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-01-colombotelegraphcom-9600d45f",
+    "num": "colombotelegraphcom-9600d45f",
+    "date_str": "2026-02-01",
+    "description": "In Memoriam: Late Dr. Michael Fernando \u2013 Former Academic, University Of Peradeniya",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/in-memoriam-late-dr-michael-fernando-former-academic-university-of-peradeniya/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1769888427.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-01-adalk-edde5da6",
+    "num": "adalk-edde5da6",
+    "date_str": "2026-02-01",
+    "description": "\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0dc4\u0dcf \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0dbb\u0dd4. 2\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0dc4\u0dcf-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0dbb\u0dd4--2\u0d9a\u0dd2\u0db1\u0dca-\u0db4\u0dc4\u0dc5\u0da7/11-421041",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769909428.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-01-adalk-63ad6394",
+    "num": "adalk-63ad6394",
+    "date_str": "2026-02-01",
+    "description": "\u0db6\u0dd4\u0daf\u0dd4 \u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dba\u0d9a\u0dca \u0db4\u0dd0\u0dc4\u0dd0\u0dbb\u0d9c\u0dad\u0dca 14\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dd4\u0daf\u0dd4-\u0db4\u0dd2\u0dc5\u0dd2\u0db8\u0dba\u0d9a\u0dca-\u0db4\u0dd0\u0dc4\u0dd0\u0dbb\u0d9c\u0dad\u0dca-14\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-421042",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1769909991.0
   }
 ]
