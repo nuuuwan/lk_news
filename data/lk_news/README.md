@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--02_21:54:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--03_00:06:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,444** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,445** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-02-adalk-0116f4c9",
-    "num": "adalk-0116f4c9",
-    "date_str": "2026-02-02",
-    "description": "\u0da7\u0ddc\u0db1\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 3.1 \u0db0\u0db8\u0db1\u0dd2 \u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0dcf \u0db1\u0dd2\u0db0\u0dd2\u0dba \u0d87\u0db8\u0dad\u0dd2 \u0dc3\u0dd4\u0db1\u0dd2\u0dbd\u0dca\u0d9c\u0dda \u0db1\u0dd2\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0da7",
-    "url_metadata": "https://www.ada.lk/picture_story/\u0da7\u0ddc\u0db1\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-3-1-\u0db0\u0db8\u0db1\u0dd2-\u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0dcf-\u0db1\u0dd2\u0db0\u0dd2\u0dba-\u0d87\u0db8\u0dad\u0dd2-\u0dc3\u0dd4\u0db1\u0dd2\u0dbd\u0dca\u0d9c\u0dda-\u0db1\u0dd2\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0da7/10-421063",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1770040936.0
+    "doc_id": "2026-02-03-dailyftlk-356342c3",
+    "num": "dailyftlk-356342c3",
+    "date_str": "2026-02-03",
+    "description": "Office of Auditor General and its place in fiscal governance framework",
+    "url_metadata": "https://www.ft.lk/columns/Office-of-Auditor-General-and-its-place-in-fiscal-governance-framework/4-787818",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770057002.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-03 | `dailyftlk-356342c3` | Office of Auditor General and its place in fiscal governance framework | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-dailyftlk-356342c3)
 - 2026-02-02 | `adalk-0116f4c9` | ටොන් බිලියන 3.1 ධමනි තිරුවානා නිධිය ඇමති සුනිල්ගේ නිරීක්ෂණයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-adalk-0116f4c9)
 - 2026-02-02 | `virakesarilk-b3e46a6f` | அரியாலையில் உலக ஈர நில தினம் அனுஷ்டிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-virakesarilk-b3e46a6f)
 - 2026-02-02 | `virakesarilk-c4615d30` | கிவுல் ஓயா திட்டத்தினால் கிராமங்களின் 400 ஏக்கருக்கும் மேற்பட்ட விவசாய, குடியிருப்பு நிலங்கள் முழுமையாக நீரில் மூழ்கும் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-virakesarilk-c4615d30)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-02-02 | `virakesarilk-ee844d6c` | நீண்ட இடைவெளிக்குப் பின் திறக்கப்பட்டது ரஃபா எல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-virakesarilk-ee844d6c)
 - 2026-02-02 | `virakesarilk-8ad957bc` | கொரிய சர்வதேச ஒத்துழைப்பு முகவர் நிறுவனம் மற்றும் இலங்கை அரசாங்கம்  இடையில் புதிய ஒப்பந்தம் கைச்சாத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-virakesarilk-8ad957bc)
 - 2026-02-02 | `virakesarilk-525879f2` | சுப்பர் ஸ்டார் ரஜினிகாந்த்திற்கு நன்றி தெரிவிக்கும் 'வித் லவ் ' பட நாயகன் அபிஷன் ஜீவந்த் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-virakesarilk-525879f2)
-- 2026-02-02 | `tamilmirrorlk-6484437f` | சமலின் இளைய மகனை கைது செய்ய உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-tamilmirrorlk-6484437f)
 
 ---
 
