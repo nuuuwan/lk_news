@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--02_03:46:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--02_06:15:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,333** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,353** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-02-virakesarilk-ce4844b1",
-    "num": "virakesarilk-ce4844b1",
+    "doc_id": "2026-02-02-dailyftlk-a1b1a6a9",
+    "num": "dailyftlk-a1b1a6a9",
     "date_str": "2026-02-02",
-    "description": "T20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/237581",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1769972940.0
+    "description": "Beyond bailouts: How Sri Lanka can build  a sustainable economy and avoid 2027 IMF cliff",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-bailouts-How-Sri-Lanka-can-build-a-sustainable-economy-and-avoid-2027-IMF-cliff/4-787773",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1769992641.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-02 | `dailyftlk-a1b1a6a9` | Beyond bailouts: How Sri Lanka can build  a sustainable economy and avoid 2027 IMF cliff | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-dailyftlk-a1b1a6a9)
+- 2026-02-02 | `dailyftlk-561082b9` | Shameless clicks, broken lives: The social, legal, and ethical cost of viral obscene content | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-dailyftlk-561082b9)
+- 2026-02-02 | `dailyftlk-226f3838` | Ban social media for children under 16 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-dailyftlk-226f3838)
+- 2026-02-02 | `dailyftlk-e9b8a67a` | Mastercard’s ‘Tap for Change’ campaign powers Sri Lanka’s largest community-driven cancer care initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-dailyftlk-e9b8a67a)
+- 2026-02-02 | `dailyftlk-2b25998e` | CC meets tomorrow to consider President’s nomination for AG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-dailyftlk-2b25998e)
 - 2026-02-02 | `virakesarilk-ce4844b1` | T20 உலகக் கிண்ணம் யாழ்ப்பாணம் வந்தடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-virakesarilk-ce4844b1)
 - 2026-02-02 | `virakesarilk-beac0de8` | இரண்டாவது போட்டியில் அபார வெற்றியீட்டிய இங்கிலாந்து ரி20 தொடரைக் கைப்பற்றியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-virakesarilk-beac0de8)
+- 2026-02-01 | `islandlk-7c7e2493` | MullenLowe Sri Lanka appoints Harendra Uyanage as Chief Creative Officer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-islandlk-7c7e2493)
+- 2026-02-01 | `islandlk-abec3971` | All set for Global Synergy Awards 2026 at Waters Edge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-islandlk-abec3971)
+- 2026-02-01 | `islandlk-5f266103` | New Colombo Café forges niche with strategic culinary fusion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-islandlk-5f266103)
+- 2026-02-01 | `islandlk-7bed0a6f` | DIMO lights up SSC for international day -night cricket | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-islandlk-7bed0a6f)
+- 2026-02-01 | `islandlk-ca633fae` | Bitget hits $18B in tokenised stock trading as institutions drive growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-islandlk-ca633fae)
+- 2026-02-01 | `islandlk-1b5d95e2` | NDB recognised as best women-friendly workplace | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-islandlk-1b5d95e2)
+- 2026-02-01 | `colombotelegraphcom-168646df` | Arundhati’s Mother Mary Comes To Me – A Critique Of Contemporary Indian Social Ethos | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-colombotelegraphcom-168646df)
+- 2026-02-01 | `colombotelegraphcom-51a3dc61` | The Fragile Equilibrium: Why America Must Salvage Its Relationship With India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-colombotelegraphcom-51a3dc61)
+- 2026-02-01 | `colombotelegraphcom-1808fa23` | Handaya’s City: A Classic Children’s Story About Ethnic Coherence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-colombotelegraphcom-1808fa23)
+- 2026-02-01 | `colombotelegraphcom-14a74233` | Cancer Of Club Cricket | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-colombotelegraphcom-14a74233)
 - 2026-02-01 | `virakesarilk-63944043` | தூய அரசியல் வாக்குறுதி தோல்வி: அரசில் நாளுக்கு நாள் ஊழல் அதிகரிப்பு – நிரோசன் பாதுக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-63944043)
 - 2026-02-01 | `virakesarilk-654c6fac` | ரி20 உலகக் கிண்ணத்தில் பாகிஸ்தான் பங்கேற்கும், ஆனால் இந்தியாவுக்கு எதிராக விளையாடாது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-654c6fac)
 - 2026-02-01 | `virakesarilk-e5e18ce5` | இரண்டாவது சர்வதேச ரி20யில் இலங்கை 189 - 5  விக். | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-e5e18ce5)
-- 2026-02-01 | `virakesarilk-6951d59e` | ரி;20 உலகக் கிண்ணத்தில் பங்குபற்றும் நெதர்லாந்து அணியினர் இலங்கை வந்தடைந்தனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-6951d59e)
-- 2026-02-01 | `adalk-b1f66738` | කියපු බොරු අත්ත කිරන්න මහජන මුදල් වියදම් කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-adalk-b1f66738)
-- 2026-02-01 | `adalk-60cc5b87` | මහව සමූපාකාර ඡන්දය ඒකාබද්ධ විපක්ෂය දිනයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-adalk-60cc5b87)
-- 2026-02-01 | `adalk-c9d41bf4` | අමු ඉඟුරු මිළ ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-adalk-c9d41bf4)
-- 2026-02-01 | `virakesarilk-0add7914` | இரண்டாவது சர்வதேச ரி20யில் இலங்கை முதலில் துடுப்பெடுத்தாடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-0add7914)
-- 2026-02-01 | `tamilmirrorlk-f6ea9d19` | குறைந்த வயது கர்ப்பம் அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-f6ea9d19)
-- 2026-02-01 | `virakesarilk-ade4f9be` | அமெரிக்காவின் புதிய பொருளாதாரத் தடை விரிவாக்கத்தையும் ஏகாதிபத்திய ஒடுக்குமுறைகளையும் சோசலிசக் கட்சி கண்டிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-ade4f9be)
-- 2026-02-01 | `virakesarilk-613c10c1` | பேருந்து கட்டணத்தை குறைக்க முடியாது ;  எதிர்வரும் ஜூலை மாதம் கட்டணத்தை அதிகரிக்க வேண்டும்    - தனியார் பேருந்து சங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-613c10c1)
-- 2026-02-01 | `virakesarilk-4f186424` | கங்காராமய விகாரையில்  வைக்கப்படவுள்ள புத்த பெருமானின் உடல்சார் புனிதச் சின்னங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-4f186424)
-- 2026-02-01 | `virakesarilk-1f1944d5` | வலப்பனை பகுதியில் பஸ் விபத்து தவிர்ப்பு ; சாரதியின் சாமர்த்தியத்தால் 40 பயணிகள் உயிர்தப்பினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-1f1944d5)
-- 2026-02-01 | `virakesarilk-b12d470f` | நாடுபூராகவும் குழப்பத்தை ஏற்படுத்தும் கல்வி மறுசீரமைப்பு – இலங்கை ஆசிரியர் சங்கம் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-b12d470f)
-- 2026-02-01 | `tamilmirrorlk-9af0f577` | இரவு நேரத்தில் பணிக்கு அமர்த்தப்படும் பெண்களுக்கான விதிமுறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-tamilmirrorlk-9af0f577)
-- 2026-02-01 | `virakesarilk-078fa443` | பாராளுமன்ற உறுப்பினர்களின் ஓய்வூதியத்தை ஒழிக்கும் அரசாங்கத்தின் திட்டம் தொடர்பில் மூண்டிருக்கும் விவாதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-078fa443)
-- 2026-02-01 | `virakesarilk-84c90414` | நியூட்டனின் மூன்றாம் விதியை அன்றே சொன்னவர் வள்ளுவர்: வவுனியாவில் ஆளுநர் நா.வேதநாயகன் உரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-84c90414)
-- 2026-02-01 | `virakesarilk-da97d55a` | புனாணையில் லொறி - மோட்டார் சைக்கிள் மோதி விபத்து: ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-01-virakesarilk-da97d55a)
 
 ---
 
