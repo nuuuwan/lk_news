@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--02_16:01:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--02_17:57:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,415** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,419** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-02-virakesarilk-8b458abb",
-    "num": "virakesarilk-8b458abb",
+    "doc_id": "2026-02-02-tamilmirrorlk-869b3dad",
+    "num": "tamilmirrorlk-869b3dad",
     "date_str": "2026-02-02",
-    "description": "\u201c\u0b95\u0bb0\u0bbf\u0ba8\u0bbe\u0bb3\u0bcd\u201d : \u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1, \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0baa\u0bc7\u0bb0\u0ba3\u0bbf \u0b8f\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bc1 ; \u0baf\u0bbe\u0bb4\u0bcd. \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/237614",
+    "description": "\u0b9a\u0b9f\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4 \u0b87\u0b9e\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b9f\u0bc1\u0ba4\u0bbf\u0baf\u0bbe\u0b95-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4-\u0b87\u0b9e\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8/175-371897",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1770027960.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1770031757.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-02 | `tamilmirrorlk-869b3dad` | சடுதியாக அதிகரித்த இஞ்சியின் விலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-tamilmirrorlk-869b3dad)
+- 2026-02-02 | `tamilmirrorlk-6484437f` | சமலின் இளைய மகனை கைது செய்ய உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-tamilmirrorlk-6484437f)
+- 2026-02-02 | `adalk-fd7f8f60` | හිටපු කථානායක චමල්ගේ පුත්‍රයෙකු මිග් යානා ගනුදෙනුවේ සැකකරුවෙක් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-adalk-fd7f8f60)
 - 2026-02-02 | `virakesarilk-8b458abb` | “கரிநாள்” : வடக்கு, கிழக்கில் பேரணி ஏற்பாடு ; யாழ். பல்கலைக்கழக மாணவர்கள் அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-virakesarilk-8b458abb)
 - 2026-02-02 | `virakesarilk-ccb420f4` | வடக்கு, கிழக்கில் பறிபோகும் தமிழர் காணிகள் ; அரசின் திட்டத்துக்கு எதிராக அனைத்து தமிழர்களும் ஒன்றிணையுங்கள்! - சுரேஷ் பிரேமச்சந்திரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-virakesarilk-ccb420f4)
 - 2026-02-02 | `tamilmirrorlk-00f72e76` | உயிருக்கு போராடிய இலங்கையரை மீட்ட பாகிஸ்தான் கடற்படை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-tamilmirrorlk-00f72e76)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-02-02 | `tamilmirrorlk-2c2c7f0f` | ஆமை இறைச்சி மற்றும் முட்டைகளுடன் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-tamilmirrorlk-2c2c7f0f)
 - 2026-02-02 | `virakesarilk-1ab1a60a` | ஆமை இறைச்சி, முட்டைகளுடன் மூவர் கடற்படையினரால் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-virakesarilk-1ab1a60a)
 - 2026-02-02 | `virakesarilk-ab4fa77d` | கடும் மின்னல் தாக்கம் குறித்து பொதுமக்களுக்கு எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-virakesarilk-ab4fa77d)
-- 2026-02-02 | `tamilmirrorlk-1de581fa` | பாம்புக் கடியால் ஒவ்வொரு 5 நிமிடத்திற்கும் ஒரு மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-tamilmirrorlk-1de581fa)
-- 2026-02-02 | `virakesarilk-ac726020` | கிராமி விருதை வென்றார் தலாய் லாமா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-virakesarilk-ac726020)
-- 2026-02-02 | `virakesarilk-0f5a5608` | கிவுல் ஓயா எதிர்ப்பு ஆர்ப்பாட்டம்; பெருந்திராளான மக்கள் பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-virakesarilk-0f5a5608)
 
 ---
 
