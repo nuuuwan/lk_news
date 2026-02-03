@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--03_17:56:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--03_20:01:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,544** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,546** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,8 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-02-03 | `tamilmirrorlk-abfee46c` | 49 கைதிகளுக்கு ஜனாதிபதி பொது மன்னிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-tamilmirrorlk-abfee46c)
+- 2026-02-03 | `adalk-2b5bfa21` | ගල් අඟුරු නැව් 6න් 2ක වෙනසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-adalk-2b5bfa21)
+- 2026-02-03 | `adalk-357061b4` | මාස 6කට පෙට්‍රල් නැව් 5ක් මිලදී ගැනීමේ කොන්ත්‍රාත්තුව සිංගප්පුරු සමාගමකට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-adalk-357061b4)
 - 2026-02-03 | `virakesarilk-3ddcc939` | சப்ரகமுவ மாகாண சபைக் கட்டிடத் தொகுதியில் இடவசதிகளை அதிகரிக்க புதிய மூன்று மாடிக் கட்டிடம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-3ddcc939)
 - 2026-02-03 | `adalk-34dd6d09` | අදත් මම කියනවා, හෙටත් මම  කියනවා. අපේ අත්වල ලේ නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-adalk-34dd6d09)
 - 2026-02-03 | `virakesarilk-88e6c51c` | ஷிரந்தி ராஜபக்ஷ நிதிக் குற்றப் புலனாய்வுப் பிரிவில் இருந்து வெளியேறினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-88e6c51c)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-02-03 | `adalk-120492c5` | ජනපති සමග සාකච්ඡාවෙන් පසු සංවර්ධන නිලධාරීන් උපවාසය අතහරියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-adalk-120492c5)
 - 2026-02-03 | `virakesarilk-334bff31` | யாழ். அரச அதிபருடன் புதிய கட்டளைத்தளபதி கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-334bff31)
 - 2026-02-03 | `adalk-37d62cbf` | IFC මූල්‍ය සහාය සමග කොමර්ෂල් බැංකු කාන්තා හා කෘෂි ව්‍යාපාර මූල්‍ය පහසුකම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-adalk-37d62cbf)
-- 2026-02-03 | `virakesarilk-122ffc28` | யாழ், கிளிநொச்சியில் படையினரின் வசமுள்ள காணிகளை விடுவிப்பது தொடர்பாக கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-122ffc28)
-- 2026-02-03 | `adalk-ddb6aedc` | ශිරන්ති රාජපක්ෂ FCID යෙන් පිටව යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-adalk-ddb6aedc)
 
 ---
 
