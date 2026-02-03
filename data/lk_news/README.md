@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--03_06:16:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--03_08:45:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,477** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,480** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-03-dailyftlk-0f9cbc8b",
-    "num": "dailyftlk-0f9cbc8b",
+    "doc_id": "2026-02-03-tamilmirrorlk-d60070f2",
+    "num": "tamilmirrorlk-d60070f2",
     "date_str": "2026-02-03",
-    "description": "AG\u2019s Department officers warn against pressure campaigns targeting Attorney General",
-    "url_metadata": "https://www.ft.lk/news/AG-s-Department-officers-warn-against-pressure-campaigns-targeting-Attorney-General/56-787863",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1770072488.0
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bae\u0bb4\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bc2\u0b9f\u0bbf\u0baf-\u0bae\u0bb4\u0bc8/175-371913",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1770086388.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-03 | `tamilmirrorlk-d60070f2` | இன்று இடியுடன் கூடிய மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-tamilmirrorlk-d60070f2)
+- 2026-02-03 | `tamilmirrorlk-36a587b7` | 49 கைதிகளுக்கு பொதுமன்னிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-tamilmirrorlk-36a587b7)
 - 2026-02-03 | `dailyftlk-0f9cbc8b` | AG’s Department officers warn against pressure campaigns targeting Attorney General | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-dailyftlk-0f9cbc8b)
 - 2026-02-03 | `dailyftlk-69a0688f` | Church of Ceylon calls for repeal of PTA, withdrawal of proposed PST Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-dailyftlk-69a0688f)
 - 2026-02-03 | `dailyftlk-eb5dd25b` | Court orders CID to arrest Shamindra Rajapaksa in connection with Airbus financial fraud | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-dailyftlk-eb5dd25b)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-02-02 | `islandlk-c911b920` | SLIM-Kantar People’s Awards 2026 to recognise Sri Lanka’s most trusted brands and personalities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-islandlk-c911b920)
 - 2026-02-02 | `islandlk-303bc3ea` | Mastercard launches ‘Tap for Change’ campaign to power Sri Lanka’s largest community-driven cancer care initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-islandlk-303bc3ea)
 - 2026-02-02 | `islandlk-d3beba2d` | API-first card issuing and processing platform for Pan Asia Bank | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-islandlk-d3beba2d)
-- 2026-02-02 | `islandlk-3a108f5d` | ComBank and Hayleys Mobility redefine sustainable mobility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-islandlk-3a108f5d)
-- 2026-02-02 | `islandlk-6106f173` | CSE sees middling turnover amid broad decline | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-02-islandlk-6106f173)
 
 ---
 
