@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--04_01:54:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--04_03:51:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,567** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,575** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-03-virakesarilk-dbbe5e26",
-    "num": "virakesarilk-dbbe5e26",
-    "date_str": "2026-02-03",
-    "description": "\u0ba4\u0bc1\u0bb7\u0bcd\u0bae\u0ba9\u0bcd\u0ba4 \u0b9a\u0bae\u0bc0\u0bb0\u0bb5\u0bbf\u0ba9\u0bcd \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc6\u0b9f\u0bcd \u0b95\u0bc1\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc8 128 \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/237746",
+    "doc_id": "2026-02-04-tamilmirrorlk-f6cfa6c6",
+    "num": "tamilmirrorlk-f6cfa6c6",
+    "date_str": "2026-02-04",
+    "description": "\u2019\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bb0\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbe\u0bb3\u0bb0\u0bcd-\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd-\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0bae\u0bcd/175-371955",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1770133320.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1770155658.0
 }
 ```
 
@@ -41,9 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-04 | `tamilmirrorlk-f6cfa6c6` | ’வாக்காளர் பட்டியலில் பெயர்களை உறுதிப்படுத்தவும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-tamilmirrorlk-f6cfa6c6)
+- 2026-02-04 | `virakesarilk-c2824cf8` | பகுதிநேர பந்துவீச்சாளர்களிடம் பணிந்தது இலங்கை; தொடரை 3 - 0 என முழுமையாக சுவீகரித்தது இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-c2824cf8)
+- 2026-02-03 | `virakesarilk-9373a317` | நடப்பு சம்பியன் அவுஸ்திரேலியாவை வெளியேற்றி 19இன் கீழ் உலகக் கிண்ண இறுதிக்குள் நுழைந்தது இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-9373a317)
 - 2026-02-03 | `virakesarilk-dbbe5e26` | துஷ்மன்த சமீரவின் ஐந்து விக்கெட் குவியல் இங்கிலாந்தை 128 ஓட்டங்களுக்கு கட்டுப்படுத்தியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-dbbe5e26)
 - 2026-02-03 | `virakesarilk-59591a4c` | வடக்கு கிழக்கு தமிழர்களுக்கு இதுவரை சுதந்திரம் கிடைக்கவில்லை; பல்கலை மாணவர்களின் கவனயீர்ப்பிற்கு தமிழர்கள் அனைவரும் அணிதிரள்க - ரவிகரன் எம்.பி அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-59591a4c)
 - 2026-02-03 | `virakesarilk-68c0d5d3` | ஜனாதிபதி மற்றும் பாடசாலை அபிவிருத்தி உத்தியோகத்தர் சங்கப் பிரதிநிதிகளுக்கு இடையில் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-68c0d5d3)
+- 2026-02-03 | `virakesarilk-485b66ff` | சட்ட மாஅதிபர் பதவியைப் பெற்றுக்கொள்ள திலிப்ப பீரிஸ் அரசாங்கத்துக்கு  அழுத்தம் கொடுக்கிறார் –  ஷாமர சம்பத் தசநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-485b66ff)
 - 2026-02-03 | `virakesarilk-28fc51a7` | இலங்கை வாகனச் சந்தையில் முதலிடம் பிடித்தது BYD  : விநியோக மற்றும் சேவை வலையமைப்பை விரிவுபடுத்தவும் திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-28fc51a7)
 - 2026-02-03 | `virakesarilk-341d7de5` | கோம்பாவில் பகுதியில் ஐஸ் போதை பொருளுடன் ஐந்து இளைஞர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-341d7de5)
 - 2026-02-03 | `virakesarilk-bd46c53e` | சட்டத்தரணிகள் மீதான தாக்குதல்  மேலும் இரண்டு சந்தேகநபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-bd46c53e)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-02-03 | `virakesarilk-50473255` | வத்தளையில் 7.5 இலட்சம் போதை மாத்திரைகளுடன் பயணித்த லொறியுடன் இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-50473255)
 - 2026-02-03 | `adalk-b9617557` | මෙගාවොට් 160ක බැටරි බලශක්ති ගබඩාකරණ පද්ධතියකට කැබිනට් අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-adalk-b9617557)
 - 2026-02-03 | `tamilmirrorlk-abfee46c` | 49 கைதிகளுக்கு ஜனாதிபதி பொது மன்னிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-tamilmirrorlk-abfee46c)
-- 2026-02-03 | `virakesarilk-d0fbe9bb` | நடிகர் ஹேமால் ரணசிங்க கைது செய்யப்பட்டதற்கான காரணத்தை வெளியிட்டது பொலிஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-d0fbe9bb)
-- 2026-02-03 | `adalk-2b5bfa21` | ගල් අඟුරු නැව් 6න් 2ක වෙනසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-adalk-2b5bfa21)
-- 2026-02-03 | `virakesarilk-c180afce` | ஆறாம் தரத்துக்கான முதலாம் தவணைக்கான பாடப்புத்தகங்கள் நீக்கவோ  அல்லது நிராகரிக்கவோ இல்லை ; பிரதமர் ஹரிணி அமரசூரிய | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-c180afce)
-- 2026-02-03 | `virakesarilk-f7978fd1` | நாட்டின் இருவேறு பகுதிகளில் இடம்பெற்ற வாகன விபத்துகளில் இருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-03-virakesarilk-f7978fd1)
 
 ---
 
