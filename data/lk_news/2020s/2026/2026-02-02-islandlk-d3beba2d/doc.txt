@@ -1,0 +1,13 @@
+API-first card issuing and processing platform for Pan Asia Bank
+
+One of Sri Lanka’s largest listed entities, the Pan Asia Banking Corporation (PABC) and global fintech platform Pine Labs have today announced a partnership that will see the fintech major implementing an end-to-end card management platform for the bank.
+
+Under this partnership, Pine Labs will deploy a full-stack Credit Card Management System for Pan Asia Bank. This platform will support high transaction concurrency and uptime, giving the bank flexible and scalable product configurations. Pine Labs’ Credit+ platform will be used for end-to-end issuance of credit cards for the bank, including card issuance, activation, billing, payment processing, reconciliation, and settlement.
+
+SLIM-Kantar People’s Awards 2026 to recognise Sri Lanka’s most trusted brands and personalities
+
+Mastercard launches ‘Tap for Change’ campaign to power Sri Lanka’s largest community-driven cancer care initiative
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
