@@ -42382,6 +42382,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-01-31-islandlk-0abddbc0",
+    "num": "islandlk-0abddbc0",
+    "date_str": "2026-01-31",
+    "description": "Thriving corruption and delayed probes",
+    "url_metadata": "http://island.lk/thriving-corruption-and-delayed-probes/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1769852580.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-01-31-islandlk-1ffa2d3d",
     "num": "islandlk-1ffa2d3d",
     "date_str": "2026-01-31",
@@ -45077,6 +45088,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-02-islandlk-1e5cebab",
+    "num": "islandlk-1e5cebab",
+    "date_str": "2026-02-02",
+    "description": "Gypsies \u2026 flying high",
+    "url_metadata": "http://island.lk/gypsies-flying-high/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1770055560.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-02-islandlk-7cb9204f",
     "num": "islandlk-7cb9204f",
     "date_str": "2026-02-02",
@@ -45096,6 +45118,17 @@ ews",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1770055680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-02-islandlk-7bdbc31e",
+    "num": "islandlk-7bdbc31e",
+    "date_str": "2026-02-02",
+    "description": "\u2018Sri Lanka\u2019s forests are undervalued economic assets \u2014 and markets are paying the price\u2019",
+    "url_metadata": "http://island.lk/sri-lankas-forests-are-undervalued-economic-assets-and-markets-are-paying-the-price/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1770055920.0
   },
   {
     "doc_type": "lk_news",
@@ -46364,6 +46397,72 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-03-islandlk-f07d5fad",
+    "num": "islandlk-f07d5fad",
+    "date_str": "2026-02-03",
+    "description": "99x drives agentic innovation introducing Xiana",
+    "url_metadata": "http://island.lk/99x-drives-agentic-innovation-introducing-xiana/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1770143160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-03-islandlk-f4a4b68d",
+    "num": "islandlk-f4a4b68d",
+    "date_str": "2026-02-03",
+    "description": "Upping of stake by Senthilverl Holdings in Colombo Dockyard dominates CSE trading",
+    "url_metadata": "http://island.lk/upping-of-stake-by-senthilverl-holdings-in-colombo-dockyard-dominates-cse-trading/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1770143160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-03-islandlk-dc8cca36",
+    "num": "islandlk-dc8cca36",
+    "date_str": "2026-02-03",
+    "description": "Volt Charge expands national EV charging footprint",
+    "url_metadata": "http://island.lk/volt-charge-expands-national-ev-charging-footprint/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1770143220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-03-islandlk-0b9a6d84",
+    "num": "islandlk-0b9a6d84",
+    "date_str": "2026-02-03",
+    "description": "Resetting for Growth: Inside W\u00fcrth Lanka\u2019s leadership shift",
+    "url_metadata": "http://island.lk/resetting-for-growth-inside-wurth-lankas-leadership-shift/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1770143340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-03-islandlk-10284133",
+    "num": "islandlk-10284133",
+    "date_str": "2026-02-03",
+    "description": "Recognising design for ecological coexistence",
+    "url_metadata": "http://island.lk/recognising-design-for-ecological-coexistence/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1770143340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-04-islandlk-8f4373b4",
+    "num": "islandlk-8f4373b4",
+    "date_str": "2026-02-04",
+    "description": "WindForce secures Letter of Award for 50 MW Mullikulam Wind Power Project \u2013 Lot 1",
+    "url_metadata": "http://island.lk/windforce-secures-letter-of-award-for-50-mw-mullikulam-wind-power-project-lot-1/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1770143400.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-04-virakesarilk-c2824cf8",
     "num": "virakesarilk-c2824cf8",
     "date_str": "2026-02-04",
@@ -46383,5 +46482,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1770155658.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-04-tamilmirrorlk-39fa1a73",
+    "num": "tamilmirrorlk-39fa1a73",
+    "date_str": "2026-02-04",
+    "description": "\u2019\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0b9f\u0bc8\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bc8-\u0b85\u0b9f\u0bc8\u0bb5\u0ba4\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf/175-371959",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1770160148.0
   }
 ]
