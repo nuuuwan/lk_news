@@ -47552,6 +47552,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-04-colombotelegraphcom-bc4aa5c6",
+    "num": "colombotelegraphcom-bc4aa5c6",
+    "date_str": "2026-02-04",
+    "description": "The Island Paradox: Bargain For The World, Burden For The People",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/the-island-paradox-bargain-for-the-world-burden-for-the-people/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1770199731.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-04-virakesarilk-cbedb953",
     "num": "virakesarilk-cbedb953",
     "date_str": "2026-02-04",
@@ -47714,5 +47725,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1770207120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-04-tamilmirrorlk-8c6c0af5",
+    "num": "tamilmirrorlk-8c6c0af5",
+    "date_str": "2026-02-04",
+    "description": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1/175-372008",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1770216947.0
   }
 ]
