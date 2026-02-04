@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--05_01:52:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--05_03:47:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,698** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,701** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-04-tamilmirrorlk-8c6c0af5",
-    "num": "tamilmirrorlk-8c6c0af5",
-    "date_str": "2026-02-04",
-    "description": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1/175-372008",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1770216947.0
+    "doc_id": "2026-02-05-dailyftlk-b3fed9a2",
+    "num": "dailyftlk-b3fed9a2",
+    "date_str": "2026-02-05",
+    "description": "Tax implications on indirect transfer/sale of shares \u2013 the Tiger Global ruling",
+    "url_metadata": "https://www.ft.lk/columns/Tax-implications-on-indirect-transfer-sale-of-shares-the-Tiger-Global-ruling/4-787910",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770242985.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-05 | `dailyftlk-b3fed9a2` | Tax implications on indirect transfer/sale of shares – the Tiger Global ruling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-b3fed9a2)
+- 2026-02-05 | `dailyftlk-867c9f0c` | Trump’s BOP: Pseudo-legitimacy for illegitimate occupations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-867c9f0c)
+- 2026-02-05 | `dailyftlk-728bee16` | Excesses, extremism, hypocrisy: Persecuting Ranil, targeting Rajapaksas, seizing State power | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-728bee16)
 - 2026-02-04 | `tamilmirrorlk-8c6c0af5` | வர்த்தமானி அறிவிப்பு வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-tamilmirrorlk-8c6c0af5)
 - 2026-02-04 | `virakesarilk-d0565d24` | வட மாகாண சபை கட்டடத் தொகுதியில் சுதந்திர தின நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-d0565d24)
 - 2026-02-04 | `virakesarilk-52dcc658` | கொழும்பு மத்திய பஸ் நிலைய புனரமைப்பு திட்ட முன்னேற்றம் குறித்து பாதுகாப்பு அமைச்சில் விசேட கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-52dcc658)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-02-04 | `virakesarilk-04042a56` | இலங்கையின் 78ஆவது சுதந்திர தினத்தை முன்னிட்டு 9,158 இராணுவ வீரர்களுக்குப் பதவி உயர்வு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-04042a56)
 - 2026-02-04 | `virakesarilk-cbedb953` | புனித தாதுக்கள் இந்தியாவிலிருந்து இலங்கைக்கு கொண்டுவரப்பட்டன! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-cbedb953)
 - 2026-02-04 | `colombotelegraphcom-bc4aa5c6` | The Island Paradox: Bargain For The World, Burden For The People | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-colombotelegraphcom-bc4aa5c6)
-- 2026-02-04 | `virakesarilk-2e9ea19e` | கிளிநொச்சியில் கரிநாள் அனுஷ்டிப்பு ; கவனயீர்ப்பு ஆர்ப்பாட்டப் பேரணி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-2e9ea19e)
-- 2026-02-04 | `virakesarilk-51a0a675` | பன்முகத்தன்மையை மதித்து, நாட்டை ஒரே இலங்கை தேசமாகக் கட்டியெழுப்புவோம் -  78 ஆவது சுதந்திர தின கொண்டாட்டத்தில் ஜனாதிபதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-51a0a675)
-- 2026-02-04 | `virakesarilk-56fd2712` | டிஜிட்டல் தளத்தில் வெளியாகும் ஜீ. வி. பிரகாஷ் குமாரின் 'லக்கி' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-56fd2712)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-05 01:51:24",
-  "n_docs": 100698,
+  "time_updated": "2026-02-05 03:47:07",
+  "n_docs": 100701,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 100698,
+  "n_docs_with_text": 100701,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-02-04",
-  "dataset_size": 1532820725,
+  "date_str_max": "2026-02-05",
+  "dataset_size": 1532862289,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-04-tamilmirrorlk-8c6c0af5",
-    "num": "tamilmirrorlk-8c6c0af5",
-    "date_str": "2026-02-04",
-    "description": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0bbf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1/175-372008",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1770216947.0
+    "doc_id": "2026-02-05-dailyftlk-b3fed9a2",
+    "num": "dailyftlk-b3fed9a2",
+    "date_str": "2026-02-05",
+    "description": "Tax implications on indirect transfer/sale of shares \u2013 the Tiger Global ruling",
+    "url_metadata": "https://www.ft.lk/columns/Tax-implications-on-indirect-transfer-sale-of-shares-the-Tiger-Global-ruling/4-787910",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770242985.0
   }
 }
