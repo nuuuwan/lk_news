@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--05_03:47:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--05_06:15:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,701** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,726** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-05-dailyftlk-b3fed9a2",
-    "num": "dailyftlk-b3fed9a2",
+    "doc_id": "2026-02-05-dailyftlk-1d9934de",
+    "num": "dailyftlk-1d9934de",
     "date_str": "2026-02-05",
-    "description": "Tax implications on indirect transfer/sale of shares \u2013 the Tiger Global ruling",
-    "url_metadata": "https://www.ft.lk/columns/Tax-implications-on-indirect-transfer-sale-of-shares-the-Tiger-Global-ruling/4-787910",
+    "description": "President pays homage to Sacred Devnimori Relics of Lord Buddha",
+    "url_metadata": "https://www.ft.lk/news/President-pays-homage-to-Sacred-Devnimori-Relics-of-Lord-Buddha/56-787934",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1770242985.0
+    "time_ut": 1770249423.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-05 | `dailyftlk-1d9934de` | President pays homage to Sacred Devnimori Relics of Lord Buddha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-1d9934de)
+- 2026-02-05 | `dailyftlk-2db453b5` | Freedom of expression under threat: HRCSL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-2db453b5)
+- 2026-02-05 | `dailyftlk-6f9cbb60` | Exclusive Port City Colombo Investor Forum highlights  Sri Lanka’s transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-6f9cbb60)
+- 2026-02-05 | `dailyftlk-e95a31ac` | NCE, EDB discuss export targets and sector challenges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-e95a31ac)
+- 2026-02-05 | `dailyftlk-0746127b` | Senthilverl ups Dockyard stake above 12% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-0746127b)
+- 2026-02-05 | `dailyftlk-8148ea1f` | Softlogic Finance seeks shareholder approval for Rs. 7.6 b stated capital reduction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-8148ea1f)
+- 2026-02-05 | `dailyftlk-eb0a6d86` | Magistrate’s Court clears Asia Capital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-eb0a6d86)
+- 2026-02-05 | `dailyftlk-ed382afc` | Banks, Treasury made windfalls while small businesses collapsed: Ceylon Federation of MSMEs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-ed382afc)
+- 2026-02-05 | `dailyftlk-0a9cdc81` | Solutions Ground, PR Wire launch country’s first sustainability-led CSR outsourcing model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-0a9cdc81)
+- 2026-02-05 | `dailyftlk-a3b04224` | Former AG joins CT Land Development Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-a3b04224)
+- 2026-02-05 | `dailyftlk-e932bcad` | LANKATILES celebrates grand opening of 58th showroom in historic Galle | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-e932bcad)
+- 2026-02-05 | `dailyftlk-a00d88e9` | Alpha Fire Services unveils new brand logo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-a00d88e9)
+- 2026-02-05 | `tamilmirrorlk-030dd017` | ட்ரம்ப் - கொலம்பியா ஜனாதிபதி சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-tamilmirrorlk-030dd017)
 - 2026-02-05 | `dailyftlk-b3fed9a2` | Tax implications on indirect transfer/sale of shares – the Tiger Global ruling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-b3fed9a2)
 - 2026-02-05 | `dailyftlk-867c9f0c` | Trump’s BOP: Pseudo-legitimacy for illegitimate occupations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-867c9f0c)
 - 2026-02-05 | `dailyftlk-728bee16` | Excesses, extremism, hypocrisy: Persecuting Ranil, targeting Rajapaksas, seizing State power | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-05-dailyftlk-728bee16)
 - 2026-02-04 | `tamilmirrorlk-8c6c0af5` | வர்த்தமானி அறிவிப்பு வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-tamilmirrorlk-8c6c0af5)
-- 2026-02-04 | `virakesarilk-d0565d24` | வட மாகாண சபை கட்டடத் தொகுதியில் சுதந்திர தின நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-d0565d24)
-- 2026-02-04 | `virakesarilk-52dcc658` | கொழும்பு மத்திய பஸ் நிலைய புனரமைப்பு திட்ட முன்னேற்றம் குறித்து பாதுகாப்பு அமைச்சில் விசேட கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-52dcc658)
-- 2026-02-04 | `virakesarilk-63244df1` | ஜப்பானில் கடும் பனிப்பொழிவு ; சுமார் 35 பேர் பலி ; 400 பேர் காயம் ; 126 பேர் ஆபத்தான நிலையில்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-63244df1)
-- 2026-02-04 | `virakesarilk-f602a0ba` | ஓட்டமாவடி பிரதேசத்தில் சுதந்திர தின நிகழ்வுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-f602a0ba)
-- 2026-02-04 | `virakesarilk-ea62928c` | நாய்களிடமிருந்து தன்னை காப்பாற்றிக்கொள்வதற்காக மரத்தில் ஏறிய சிறுத்தைக் குட்டி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-ea62928c)
-- 2026-02-04 | `tamilmirrorlk-56019e06` | உலக அளவில் ஏற்படப்போகும் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-tamilmirrorlk-56019e06)
-- 2026-02-04 | `tamilmirrorlk-28984243` | 4 மணி நேரம் கடலில் நீந்தி குடும்பத்தை காப்பாற்றிய சிறுவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-tamilmirrorlk-28984243)
-- 2026-02-04 | `tamilmirrorlk-48d6f47d` | ஆயுட்காலத்தை தீர்மானிக்கும் காரணி எது? புதிய தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-tamilmirrorlk-48d6f47d)
-- 2026-02-04 | `virakesarilk-014faca4` | ஈரானுடன் பேச்சுவார்த்தை நடத்தி வருகிறோம் - ட்ரம்ப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-014faca4)
-- 2026-02-04 | `virakesarilk-d15ef495` | புத்த பெருமானின் புனித சின்னங்கள் நாளை மக்கள் பார்வைக்கு ; கொழும்பில் விசேட போக்குவரத்து மற்றும் பாதுகாப்பு ஏற்பாடுகள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-d15ef495)
-- 2026-02-04 | `tamilmirrorlk-7dd50df6` | அம்பானியின் புதிய ‘கோல்டன்’ கார்:   இத்தனை கோடியா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-tamilmirrorlk-7dd50df6)
-- 2026-02-04 | `virakesarilk-5cb7df2d` | “முழு நாடுமே ஒன்றாக” போதைப்பொருள் சுற்றிவளைப்பில் 809 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-5cb7df2d)
-- 2026-02-04 | `tamilmirrorlk-7dd7f040` | நாய்களிடமிருந்து தப்பிக்க மரத்தில் ஏறிய  சிறுத்தை குட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-tamilmirrorlk-7dd7f040)
-- 2026-02-04 | `virakesarilk-04042a56` | இலங்கையின் 78ஆவது சுதந்திர தினத்தை முன்னிட்டு 9,158 இராணுவ வீரர்களுக்குப் பதவி உயர்வு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-04042a56)
-- 2026-02-04 | `virakesarilk-cbedb953` | புனித தாதுக்கள் இந்தியாவிலிருந்து இலங்கைக்கு கொண்டுவரப்பட்டன! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-virakesarilk-cbedb953)
-- 2026-02-04 | `colombotelegraphcom-bc4aa5c6` | The Island Paradox: Bargain For The World, Burden For The People | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-colombotelegraphcom-bc4aa5c6)
+- 2026-02-04 | `islandlk-5eb74a66` | Phew! The heat … | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-islandlk-5eb74a66)
+- 2026-02-04 | `islandlk-1d2d77f7` | Sysco LABS partners with EDEX EXPO 2026 to shape the next generation of tech talent | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-islandlk-1d2d77f7)
+- 2026-02-04 | `islandlk-8ccb956a` | PFEC Global’s World Study Fair 2026 attracts strong participation in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-04-islandlk-8ccb956a)
 
 ---
 
