@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-06 01:51:17",
-  "n_docs": 100826,
+  "time_updated": "2026-02-06 03:49:02",
+  "n_docs": 100831,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 100826,
+  "n_docs_with_text": 100831,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-02-05",
-  "dataset_size": 1535510825,
+  "date_str_max": "2026-02-06",
+  "dataset_size": 1535557820,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-05-virakesarilk-d104b634",
-    "num": "virakesarilk-d104b634",
-    "date_str": "2026-02-05",
-    "description": "\u0ba4\u0bc1\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bb5\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b89\u0bb3\u0bcd\u0bb3\u0ba9; \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bcd \u0b85\u0ba3\u0bbf\u0baf\u0bc8 \u0bb5\u0bb4\u0bbf\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4 \u0ba4\u0baf\u0bbe\u0bb0\u0bbe\u0b95 \u0b89\u0bb3\u0bcd\u0bb3\u0bc7\u0ba9\u0bcd \u2013 \u0ba4\u0b9a\u0bc1\u0ba9\u0bcd \u0bb7\u0bbe\u0ba9\u0b95\u0bcd\u0b95",
-    "url_metadata": "https://www.virakesari.lk/article/237936",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1770308520.0
+    "doc_id": "2026-02-06-dailyftlk-c660a326",
+    "num": "dailyftlk-c660a326",
+    "date_str": "2026-02-06",
+    "description": "JAT records 7% YoY revenue growth in Q3, demonstrating resilience amid late Ditwah shocks",
+    "url_metadata": "https://www.ft.lk/business/JAT-records-7-YoY-revenue-growth-in-Q3-demonstrating-resilience-amid-late-Ditwah-shocks/34-787978",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770327968.0
   }
 }

@@ -49144,5 +49144,60 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1770308520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-06-dailyftlk-4bf232da",
+    "num": "dailyftlk-4bf232da",
+    "date_str": "2026-02-06",
+    "description": "Debt distress and Ditwah",
+    "url_metadata": "https://www.ft.lk/columns/Debt-distress-and-Ditwah/4-787964",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770325339.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-06-dailyftlk-2e55723e",
+    "num": "dailyftlk-2e55723e",
+    "date_str": "2026-02-06",
+    "description": "The unfinished promise:  Sri Lanka\u2019s independence deficit",
+    "url_metadata": "https://www.ft.lk/columns/The-unfinished-promise-Sri-Lanka-s-independence-deficit/4-787965",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770325744.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-06-dailyftlk-bbad87ab",
+    "num": "dailyftlk-bbad87ab",
+    "date_str": "2026-02-06",
+    "description": "Stopover justice: When a layover becomes an indictment",
+    "url_metadata": "https://www.ft.lk/columns/Stopover-justice-When-a-layover-becomes-an-indictment/4-787967",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770326232.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-06-dailyftlk-a4042596",
+    "num": "dailyftlk-a4042596",
+    "date_str": "2026-02-06",
+    "description": "Protecting tenants without punishing property",
+    "url_metadata": "https://www.ft.lk/columns/Protecting-tenants-without-punishing-property/4-787968",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770326453.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-06-dailyftlk-c660a326",
+    "num": "dailyftlk-c660a326",
+    "date_str": "2026-02-06",
+    "description": "JAT records 7% YoY revenue growth in Q3, demonstrating resilience amid late Ditwah shocks",
+    "url_metadata": "https://www.ft.lk/business/JAT-records-7-YoY-revenue-growth-in-Q3-demonstrating-resilience-amid-late-Ditwah-shocks/34-787978",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770327968.0
   }
 ]
