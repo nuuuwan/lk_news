@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-06 03:49:02",
-  "n_docs": 100831,
+  "time_updated": "2026-02-06 06:11:58",
+  "n_docs": 100855,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 100831,
+  "n_docs_with_text": 100855,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-02-06",
-  "dataset_size": 1535557820,
+  "dataset_size": 1535750096,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-06-dailyftlk-c660a326",
-    "num": "dailyftlk-c660a326",
+    "doc_id": "2026-02-06-dailyftlk-3dc71599",
+    "num": "dailyftlk-3dc71599",
     "date_str": "2026-02-06",
-    "description": "JAT records 7% YoY revenue growth in Q3, demonstrating resilience amid late Ditwah shocks",
-    "url_metadata": "https://www.ft.lk/business/JAT-records-7-YoY-revenue-growth-in-Q3-demonstrating-resilience-amid-late-Ditwah-shocks/34-787978",
+    "description": "World Bank Executive Director Parameswaran Iyer visits Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/World-Bank-Executive-Director-Parameswaran-Iyer-visits-Sri-Lanka/56-787990",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1770327968.0
+    "time_ut": 1770333875.0
   }
 }
