@@ -50618,5 +50618,115 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1770385947.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-06-dailyftlk-6fa42cfc",
+    "num": "dailyftlk-6fa42cfc",
+    "date_str": "2026-02-06",
+    "description": "Era of weaponised economies and SL\u2019s 78th year of independence",
+    "url_metadata": "https://www.ft.lk/columns/Era-of-weaponised-economies-and-SL-s-78th-year-of-independence/4-788005",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770400530.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-06-dailyftlk-bc797f76",
+    "num": "dailyftlk-bc797f76",
+    "date_str": "2026-02-06",
+    "description": "Central Bank\u2019s role in development",
+    "url_metadata": "https://www.ft.lk/columns/Central-Bank-s-role-in-development/4-788006",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770400828.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-06-dailyftlk-eb97141f",
+    "num": "dailyftlk-eb97141f",
+    "date_str": "2026-02-06",
+    "description": "President\u2019s address at 78th Independence Day",
+    "url_metadata": "https://www.ft.lk/opinion/President-s-address-at-78th-Independence-Day/14-788007",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770400950.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-06-dailyftlk-460592e0",
+    "num": "dailyftlk-460592e0",
+    "date_str": "2026-02-06",
+    "description": "What is good is good",
+    "url_metadata": "https://www.ft.lk/columns/What-is-good-is-good/4-788008",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770401132.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-06-dailyftlk-473e1fdb",
+    "num": "dailyftlk-473e1fdb",
+    "date_str": "2026-02-06",
+    "description": "From parades to ploughshares: has \u2018peace\u2019 finally come to us?",
+    "url_metadata": "https://www.ft.lk/columns/From-parades-to-ploughshares-has-peace-finally-come-to-us/4-788009",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770401378.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-07-dailyftlk-4583d970",
+    "num": "dailyftlk-4583d970",
+    "date_str": "2026-02-07",
+    "description": "Sri Lanka Insurance Life and Sri Lanka Insurance General contribute to national relief efforts  following \u2018Ditwah\u2019 cyclone",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Insurance-Life-and-Sri-Lanka-Insurance-General-contribute-to-national-relief-efforts-following-Ditwah-cyclone/34-788011",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770403536.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-07-dailyftlk-60cd4ec0",
+    "num": "dailyftlk-60cd4ec0",
+    "date_str": "2026-02-07",
+    "description": "Amana Bank champions knowledge sharing and student development at Wayamba University",
+    "url_metadata": "https://www.ft.lk/business/Amana-Bank-champions-knowledge-sharing-and-student-development-at-Wayamba-University/34-788012",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770403578.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-07-dailyftlk-9e8f2851",
+    "num": "dailyftlk-9e8f2851",
+    "date_str": "2026-02-07",
+    "description": "Aban Pestonjee honoured with Lifetime Achievement Award at SLID-ACCA National Director Awards",
+    "url_metadata": "https://www.ft.lk/business/Aban-Pestonjee-honoured-with-Lifetime-Achievement-Award-at-SLID-ACCA-National-Director-Awards/34-788013",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770403621.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-07-dailyftlk-f709fe94",
+    "num": "dailyftlk-f709fe94",
+    "date_str": "2026-02-07",
+    "description": "Sri Lanka sets sail with 9th International Boat Show and Conference",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-sets-sail-with-9th-International-Boat-Show-and-Conference/34-788014",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770403860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-07-dailyftlk-045c9c1f",
+    "num": "dailyftlk-045c9c1f",
+    "date_str": "2026-02-07",
+    "description": "Fate of Adani\u2019s bid to foist unequal deals on Bangladesh and Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Fate-of-Adani-s-bid-to-foist-unequal-deals-on-Bangladesh-and-Sri-Lanka/4-788021",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770408795.0
   }
 ]
