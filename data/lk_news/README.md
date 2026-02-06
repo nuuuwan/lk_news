@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--06_06:12:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--06_08:43:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**100,855** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**100,861** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-06-dailyftlk-3dc71599",
-    "num": "dailyftlk-3dc71599",
+    "doc_id": "2026-02-06-adalk-254f5ddf",
+    "num": "adalk-254f5ddf",
     "date_str": "2026-02-06",
-    "description": "World Bank Executive Director Parameswaran Iyer visits Sri Lanka",
-    "url_metadata": "https://www.ft.lk/news/World-Bank-Executive-Director-Parameswaran-Iyer-visits-Sri-Lanka/56-787990",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1770333875.0
+    "description": "\u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae \u0dba\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dd0\u0daf\u0dd2 \u0d9c\u0dd0\u0da7\u0dd2 \u0db4\u0dd2\u0dba\u0dcf \u0dc4\u0dcf \u0db4\u0dd4\u0dad\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae-\u0dba\u0dad\u0dd4\u0dbb\u0dd4-\u0db4\u0dd0\u0daf\u0dd2-\u0d9c\u0dd0\u0da7\u0dd2-\u0db4\u0dd2\u0dba\u0dcf-\u0dc4\u0dcf-\u0db4\u0dd4\u0dad\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/11-421114",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1770343665.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-06 | `adalk-254f5ddf` | මෝටර් රථ යතුරු පැදි ගැටි පියා හා පුතා මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-adalk-254f5ddf)
+- 2026-02-06 | `tamilmirrorlk-6397df41` | ’பல பாடசாலைகளை மூடுவதற்கு ஏற்பாடு’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-tamilmirrorlk-6397df41)
+- 2026-02-06 | `tamilmirrorlk-0a91a3e4` | ’அதிவிசேடத்தின் விலையை குறைக்கவும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-tamilmirrorlk-0a91a3e4)
+- 2026-02-06 | `tamilmirrorlk-8e77e1b3` | ’புலிகளை தோற்கடித்தமை இனவாதம் அல்ல’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-tamilmirrorlk-8e77e1b3)
 - 2026-02-06 | `dailyftlk-3dc71599` | World Bank Executive Director Parameswaran Iyer visits Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-3dc71599)
 - 2026-02-06 | `tamilmirrorlk-e3be1229` | ’பெற்றோரிடம் பணம் சேகரிக்க வேண்டாம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-tamilmirrorlk-e3be1229)
 - 2026-02-06 | `dailyftlk-98ea182e` | Samudika Jayaratne assumes duties as Sri Lanka’s first female AG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-98ea182e)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-02-06 | `dailyftlk-368fa150` | India State-controlled Mazagon makes MO for Colombo Dockyard | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-368fa150)
 - 2026-02-06 | `tamilmirrorlk-945bf4a2` | ’ தயாசிறியுடன் இணைந்தால் வாக்குகள் இல்லாது போகும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-tamilmirrorlk-945bf4a2)
 - 2026-02-06 | `dailyftlk-c660a326` | JAT records 7% YoY revenue growth in Q3, demonstrating resilience amid late Ditwah shocks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-c660a326)
-- 2026-02-06 | `dailyftlk-a4042596` | Protecting tenants without punishing property | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-a4042596)
-- 2026-02-06 | `dailyftlk-bbad87ab` | Stopover justice: When a layover becomes an indictment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-bbad87ab)
-- 2026-02-06 | `dailyftlk-2e55723e` | The unfinished promise:  Sri Lanka’s independence deficit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-2e55723e)
-- 2026-02-06 | `dailyftlk-4bf232da` | Debt distress and Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-4bf232da)
 
 ---
 
