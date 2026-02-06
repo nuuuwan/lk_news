@@ -50728,5 +50728,38 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1770408795.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-07-dailyftlk-ae538de4",
+    "num": "dailyftlk-ae538de4",
+    "date_str": "2026-02-07",
+    "description": "Sri Lanka Press Association launches special academic book on mass communication \u2018Pathrakala Prasadini\u2019 at Russian Cultural Centre, Colombo",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-Press-Association-launches-special-academic-book-on-mass-communication-Pathrakala-Prasadini-at-Russian-Cultural-Centre-Colombo/56-788022",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770409882.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-07-dailyftlk-4d37ef17",
+    "num": "dailyftlk-4d37ef17",
+    "date_str": "2026-02-07",
+    "description": "Environment Ministry probes alleged irregularities in Ambuluwawa cable car project",
+    "url_metadata": "https://www.ft.lk/news/Environment-Ministry-probes-alleged-irregularities-in-Ambuluwawa-cable-car-project/56-788023",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770409926.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-07-dailyftlk-5037b601",
+    "num": "dailyftlk-5037b601",
+    "date_str": "2026-02-07",
+    "description": "A nation without memory is a nation at risk",
+    "url_metadata": "https://www.ft.lk/columns/A-nation-without-memory-is-a-nation-at-risk/4-788035",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770410724.0
   }
 ]
