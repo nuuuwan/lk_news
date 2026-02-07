@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--07_08:39:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--07_10:14:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,004** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,006** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,7 @@ A collection of lk_news documents.
 - 2026-02-07 | `virakesarilk-9cee82ed` | பயங்கரவாதத்திலிருந்து அரசைப் பாதுகாக்கும் சட்டவரைவு; தவறென அறிந்தும் கையாலாகாத நிலையில் அமைச்சர் ஹர்ஷன - கவனயீர்ப்புப் போராட்டத்தில் இரா.சாணக்கியன் எம்.பி சாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-9cee82ed)
 - 2026-02-07 | `virakesarilk-8d7a70fe` | அவசரகால சட்டம் பேரிடர் நிவாரணத்திற்கல்ல, மக்கள் எதிர்ப்பை அடக்கவே – கஜேந்திரகுமார் பொன்னம்பலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-8d7a70fe)
 - 2026-02-07 | `virakesarilk-dd33c7cd` | இந்தியாவை தீவிரமாக ‘காதலிக்கும்’ அரசாங்கம் அநுரகுமார அரசாங்கமே - சாமர சம்பத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-dd33c7cd)
+- 2026-02-07 | `tamilmirrorlk-24460db5` | மேகாலயா சுரங்க வெடி விபத்து: 25 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-24460db5)
 - 2026-02-07 | `virakesarilk-12a19072` | அவசரகால சட்டத்தை நீக்க வேண்டும் – ரவூப் ஹக்கீம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-12a19072)
 - 2026-02-07 | `tamilmirrorlk-b01b8f90` | எஸ். ஜெய்சங்கரை சந்தித்தார் ரில்வின் சில்வா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-b01b8f90)
 - 2026-02-07 | `tamilmirrorlk-151b4177` | கனிம அகழ்வு உரிமங்கள் இடைநிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-151b4177)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-02-07 | `dailyftlk-4583d970` | Sri Lanka Insurance Life and Sri Lanka Insurance General contribute to national relief efforts  following ‘Ditwah’ cyclone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-dailyftlk-4583d970)
 - 2026-02-06 | `virakesarilk-8ebe9d3d` | சுபீட்சம் பற்றி பேச முடியாத எதிர்க்கட்சியில் உள்ள சிலரின் ஒரே கோஷ இனவாதம்;  மீண்டும் இனவாதம் தலைதூக்க இடமளிக்கப்பட மாட்டாது - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-virakesarilk-8ebe9d3d)
 - 2026-02-06 | `dailyftlk-473e1fdb` | From parades to ploughshares: has ‘peace’ finally come to us? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-473e1fdb)
-- 2026-02-06 | `dailyftlk-460592e0` | What is good is good | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-460592e0)
 
 ---
 
