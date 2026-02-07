@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--07_06:13:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--07_08:39:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,001** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,004** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,9 @@ A collection of lk_news documents.
 - 2026-02-07 | `virakesarilk-8d7a70fe` | அவசரகால சட்டம் பேரிடர் நிவாரணத்திற்கல்ல, மக்கள் எதிர்ப்பை அடக்கவே – கஜேந்திரகுமார் பொன்னம்பலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-8d7a70fe)
 - 2026-02-07 | `virakesarilk-dd33c7cd` | இந்தியாவை தீவிரமாக ‘காதலிக்கும்’ அரசாங்கம் அநுரகுமார அரசாங்கமே - சாமர சம்பத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-dd33c7cd)
 - 2026-02-07 | `virakesarilk-12a19072` | அவசரகால சட்டத்தை நீக்க வேண்டும் – ரவூப் ஹக்கீம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-12a19072)
+- 2026-02-07 | `tamilmirrorlk-b01b8f90` | எஸ். ஜெய்சங்கரை சந்தித்தார் ரில்வின் சில்வா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-b01b8f90)
+- 2026-02-07 | `tamilmirrorlk-151b4177` | கனிம அகழ்வு உரிமங்கள் இடைநிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-151b4177)
+- 2026-02-07 | `tamilmirrorlk-a98170bf` | உலகக் கிண்ண இலங்கை அணியில் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-a98170bf)
 - 2026-02-07 | `tamilmirrorlk-1c7e319e` | லாஃப்ஸ் எரிவாயு விலை அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-1c7e319e)
 - 2026-02-07 | `dailyftlk-5037b601` | A nation without memory is a nation at risk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-dailyftlk-5037b601)
 - 2026-02-07 | `dailyftlk-4d37ef17` | Environment Ministry probes alleged irregularities in Ambuluwawa cable car project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-dailyftlk-4d37ef17)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-02-06 | `virakesarilk-8ebe9d3d` | சுபீட்சம் பற்றி பேச முடியாத எதிர்க்கட்சியில் உள்ள சிலரின் ஒரே கோஷ இனவாதம்;  மீண்டும் இனவாதம் தலைதூக்க இடமளிக்கப்பட மாட்டாது - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-virakesarilk-8ebe9d3d)
 - 2026-02-06 | `dailyftlk-473e1fdb` | From parades to ploughshares: has ‘peace’ finally come to us? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-473e1fdb)
 - 2026-02-06 | `dailyftlk-460592e0` | What is good is good | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-460592e0)
-- 2026-02-06 | `dailyftlk-eb97141f` | President’s address at 78th Independence Day | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-eb97141f)
-- 2026-02-06 | `dailyftlk-bc797f76` | Central Bank’s role in development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-bc797f76)
-- 2026-02-06 | `dailyftlk-6fa42cfc` | Era of weaponised economies and SL’s 78th year of independence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-6fa42cfc)
 
 ---
 
