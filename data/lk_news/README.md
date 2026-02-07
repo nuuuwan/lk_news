@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--07_11:57:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--07_13:50:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,006** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,028** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-07-virakesarilk-9cee82ed",
-    "num": "virakesarilk-9cee82ed",
+    "doc_id": "2026-02-07-virakesarilk-6548a688",
+    "num": "virakesarilk-6548a688",
     "date_str": "2026-02-07",
-    "description": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bb0\u0bc8\u0bb5\u0bc1;\u00a0\u0ba4\u0bb5\u0bb1\u0bc6\u0ba9 \u0b85\u0bb1\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0bc8\u0baf\u0bbe\u0bb2\u0bbe\u0b95\u0bbe\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb9\u0bb0\u0bcd\u0bb7\u0ba9 - \u0b95\u0bb5\u0ba9\u0baf\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bbe.\u0b9a\u0bbe\u0ba3\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba9\u0bcd\u00a0\u0b8e\u0bae\u0bcd.\u0baa\u0bbf \u0b9a\u0bbe\u0b9f\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/238038",
+    "description": "\u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0baf\u0bc8  \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1  - \u0ba8\u0bbe\u0ba9\u0bc1\u0b93\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/238074",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1770424380.0
+    "time_ut": 1770451200.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-02-07 | `virakesarilk-9cee82ed` | பயங்கரவாதத்திலிருந்து அரசைப் பாதுகாக்கும் சட்டவரைவு; தவறென அறிந்தும் கையாலாகாத நிலையில் அமைச்சர் ஹர்ஷன - கவனயீர்ப்புப் போராட்டத்தில் இரா.சாணக்கியன் எம்.பி சாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-9cee82ed)
-- 2026-02-07 | `virakesarilk-8d7a70fe` | அவசரகால சட்டம் பேரிடர் நிவாரணத்திற்கல்ல, மக்கள் எதிர்ப்பை அடக்கவே – கஜேந்திரகுமார் பொன்னம்பலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-8d7a70fe)
-- 2026-02-07 | `virakesarilk-dd33c7cd` | இந்தியாவை தீவிரமாக ‘காதலிக்கும்’ அரசாங்கம் அநுரகுமார அரசாங்கமே - சாமர சம்பத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-dd33c7cd)
-- 2026-02-07 | `tamilmirrorlk-24460db5` | மேகாலயா சுரங்க வெடி விபத்து: 25 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-24460db5)
-- 2026-02-07 | `virakesarilk-12a19072` | அவசரகால சட்டத்தை நீக்க வேண்டும் – ரவூப் ஹக்கீம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-12a19072)
-- 2026-02-07 | `tamilmirrorlk-b01b8f90` | எஸ். ஜெய்சங்கரை சந்தித்தார் ரில்வின் சில்வா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-b01b8f90)
-- 2026-02-07 | `tamilmirrorlk-151b4177` | கனிம அகழ்வு உரிமங்கள் இடைநிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-151b4177)
-- 2026-02-07 | `tamilmirrorlk-a98170bf` | உலகக் கிண்ண இலங்கை அணியில் மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-a98170bf)
-- 2026-02-07 | `tamilmirrorlk-1c7e319e` | லாஃப்ஸ் எரிவாயு விலை அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-1c7e319e)
-- 2026-02-07 | `dailyftlk-5037b601` | A nation without memory is a nation at risk | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-dailyftlk-5037b601)
-- 2026-02-07 | `dailyftlk-4d37ef17` | Environment Ministry probes alleged irregularities in Ambuluwawa cable car project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-dailyftlk-4d37ef17)
-- 2026-02-07 | `dailyftlk-ae538de4` | Sri Lanka Press Association launches special academic book on mass communication ‘Pathrakala Prasadini’ at Russian Cultural Centre, Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-dailyftlk-ae538de4)
-- 2026-02-07 | `dailyftlk-045c9c1f` | Fate of Adani’s bid to foist unequal deals on Bangladesh and Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-dailyftlk-045c9c1f)
-- 2026-02-07 | `virakesarilk-baaa8963` | லாஃப்ஸ் சமையல் எரிவாயு விலை மீண்டும் உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-baaa8963)
-- 2026-02-07 | `dailyftlk-f709fe94` | Sri Lanka sets sail with 9th International Boat Show and Conference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-dailyftlk-f709fe94)
-- 2026-02-07 | `dailyftlk-9e8f2851` | Aban Pestonjee honoured with Lifetime Achievement Award at SLID-ACCA National Director Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-dailyftlk-9e8f2851)
-- 2026-02-07 | `dailyftlk-60cd4ec0` | Amana Bank champions knowledge sharing and student development at Wayamba University | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-dailyftlk-60cd4ec0)
-- 2026-02-07 | `dailyftlk-4583d970` | Sri Lanka Insurance Life and Sri Lanka Insurance General contribute to national relief efforts  following ‘Ditwah’ cyclone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-dailyftlk-4583d970)
-- 2026-02-06 | `virakesarilk-8ebe9d3d` | சுபீட்சம் பற்றி பேச முடியாத எதிர்க்கட்சியில் உள்ள சிலரின் ஒரே கோஷ இனவாதம்;  மீண்டும் இனவாதம் தலைதூக்க இடமளிக்கப்பட மாட்டாது - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-virakesarilk-8ebe9d3d)
-- 2026-02-06 | `dailyftlk-473e1fdb` | From parades to ploughshares: has ‘peace’ finally come to us? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-06-dailyftlk-473e1fdb)
+- 2026-02-07 | `virakesarilk-6548a688` | மாணவியை  தாக்கிய ஆசிரியர் கைது  - நானுஓயாவில் சம்பவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-6548a688)
+- 2026-02-07 | `virakesarilk-a75ccd8c` | 2 ஆயிரத்துக்கும் மேற்பட்ட மின்சார சபை ஊழியர்கள் மகாநாயக்க தேரர்களிடம் கோரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-a75ccd8c)
+- 2026-02-07 | `virakesarilk-a5dbe75a` | குடும்பிமலையில் நிலத்தில் புதைக்கப்பட்டிருந்த மூன்று ஆயுதங்கள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-a5dbe75a)
+- 2026-02-07 | `virakesarilk-2a33fc66` | சட்டவிரோதமாக பிடிக்கப்பட்ட கடல் வெள்ளரிகளுடன் 7 பேர் கடற்படையிடம் சிக்கினர்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-2a33fc66)
+- 2026-02-07 | `virakesarilk-015336ab` | பொலிஸ் நிலையத்தில் மோதல்: சக அதிகாரியை கத்தியால் குத்திய பொலிஸ் உத்தியோகத்தர்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-015336ab)
+- 2026-02-07 | `tamilmirrorlk-4f4f299f` | 2027 வரை சம்பள அதிகரிப்பு இல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-4f4f299f)
+- 2026-02-07 | `tamilmirrorlk-7b838789` | 3 ரொக்கட் லோஞ்சர் வாழைச்சேனையில் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-tamilmirrorlk-7b838789)
+- 2026-02-07 | `virakesarilk-4fd3efca` | திருமண நிகழ்வுக்கு சென்ற பஸ் பள்ளத்தில் கவிழ்ந்ததில் 13 பேர் உயிரிழப்பு - நேபாளத்தில் சோகம் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-4fd3efca)
+- 2026-02-07 | `virakesarilk-4b0a57e8` | மதுவரித் திணைக்களத்தை நவீனமயப்படுத்தத் திட்டம்; வருமானத்தை அதிகரிக்க விசேட கலந்துரையாடல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-4b0a57e8)
+- 2026-02-07 | `virakesarilk-6694a2b3` | 3வது நாளாக தொடரும் மீனவர்களின் போராட்டம்: பேச்சுவார்த்தைகள் தோல்வி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-6694a2b3)
+- 2026-02-07 | `virakesarilk-4439ae81` | யாழ். போதனாவில் "நாள் சத்திர சிகிச்சை நிலையம்" திறந்து வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-4439ae81)
+- 2026-02-07 | `virakesarilk-bea24f01` | பாகிஸ்தான் மசூதி தற்கொலை குண்டுத் தாக்குதல்: 31 பேர் பலி : ஐ.எஸ். அமைப்பு பொறுப்பேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-bea24f01)
+- 2026-02-07 | `virakesarilk-147dd36f` | காத்தான்குடியின் ஆரோக்கியமான எதிர்காலத்தை நோக்கிய புதிய பயணம்: அப்ரார் நிலையத்தில் விசேட கலந்துரையாடல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-147dd36f)
+- 2026-02-07 | `virakesarilk-4d2e9cf9` | சிக்னல் கம்பத்தில் மோதிய மோட்டார் சைக்கிள் ; இளைஞன் பரிதாபமாக உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-4d2e9cf9)
+- 2026-02-07 | `virakesarilk-e49867ed` | குற்றங்களை கண்டறிவதும் விசாரணை செய்வதும் அதிகரித்துள்ளது - பொலிஸ் மாஅதிபர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-e49867ed)
+- 2026-02-07 | `virakesarilk-fdba0fc2` | தாய்லாந்திலிருந்து அந்தூரியம் செடிகளை கடத்த முயன்ற இரு பெண்கள் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-fdba0fc2)
+- 2026-02-07 | `virakesarilk-23723966` | அம்பலாங்கொடையில் ரயிலில் மோதி ஒருவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-23723966)
+- 2026-02-07 | `virakesarilk-68ca314a` | சாம்பியாவில் யானைகளிடமிருந்து தப்பி ஓடிய மீனவர் முதலை தாக்குதலுக்கு இலக்காகி பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-68ca314a)
+- 2026-02-07 | `virakesarilk-283e4632` | கிழக்கு கொங்கோ சுரங்க பகுதியில் மண்சரிவு ; 200 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-283e4632)
+- 2026-02-07 | `virakesarilk-d5a17701` | இலங்கை கடற்படைத் தளபதி - இத்தாலிய பாதுகாப்பு ஆலோசகர் இடையில் சந்திப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-07-virakesarilk-d5a17701)
 
 ---
 
