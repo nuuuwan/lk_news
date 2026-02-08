@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--08_23:50:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--09_01:47:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,177** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,185** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-08-tamilmirrorlk-19be2094",
-    "num": "tamilmirrorlk-19be2094",
-    "date_str": "2026-02-08",
-    "description": "\u0b87 \u2013 20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b85\u0baf\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87-20-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0b85\u0baf\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc8-\u0bb5\u0bc6\u0ba9\u0bcd\u0bb1-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8/44-372200",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1770573621.0
+    "doc_id": "2026-02-09-dailyftlk-86397427",
+    "num": "dailyftlk-86397427",
+    "date_str": "2026-02-09",
+    "description": "Strengthening Sri Lanka\u2019s GREAT 2025\u20132030 Renewable Energy Project Development Plan: Bridging Gaps for a Sustainable Future",
+    "url_metadata": "https://www.ft.lk/columns/Strengthening-Sri-Lanka-s-GREAT-20252030-Renewable-Energy-Project-Development-Plan-Bridging-Gaps-for-a-Sustainable-Future/4-788050",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770580058.0
 }
 ```
 
@@ -41,9 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-09 | `dailyftlk-86397427` | Strengthening Sri Lanka’s GREAT 2025–2030 Renewable Energy Project Development Plan: Bridging Gaps for a Sustainable Future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-dailyftlk-86397427)
+- 2026-02-09 | `dailyftlk-15cf2627` | Energy Minister and accountability on subpar coal purchase | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-dailyftlk-15cf2627)
+- 2026-02-09 | `dailyftlk-28e1322e` | Creating human capital is wider concept than school education | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-dailyftlk-28e1322e)
+- 2026-02-09 | `virakesarilk-883b17d0` | கமிந்து, குசல், தீக்ஷன, ஹசரங்க அசத்தலான ஆற்றல்கள், ரி20 உலகக் கிண்ணத் தொடரை வெற்றியுடன் ஆரம்பித்தது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-883b17d0)
 - 2026-02-08 | `tamilmirrorlk-19be2094` | இ – 20 உலகக் கிண்ணம்: அயர்லாந்தை வென்ற இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-tamilmirrorlk-19be2094)
 - 2026-02-08 | `virakesarilk-a8777eb7` | கமிந்து மெண்டிஸின் அதிரடி இலங்கைக்கு உற்சாகத்தை கொடுத்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-a8777eb7)
+- 2026-02-08 | `adalk-9bda9e14` | අයර්ලන්තයට ලකුණු 164ක ඉලක්කයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-adalk-9bda9e14)
 - 2026-02-08 | `virakesarilk-c4145faa` | நேபாளத்தின் கடும் சவாலுக்கு மத்தியில் கடைசிப் பந்தில் 4 ஓட்டங்களால் பரபரப்பான வெற்றியை ஈட்டியது இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-c4145faa)
+- 2026-02-08 | `colombotelegraphcom-74699906` | Inside The Epstein Files & Trump’s New War Talk: Is This How The West Falls? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-colombotelegraphcom-74699906)
+- 2026-02-08 | `colombotelegraphcom-894edb95` | Trump’s Mass Deportation Policy Hit The Traditional Approach To Immigrants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-colombotelegraphcom-894edb95)
 - 2026-02-08 | `tamilmirrorlk-f5a46880` | நேபாளத்திடம் கர்ரானால் மயிரிழையில் தப்பிய இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-tamilmirrorlk-f5a46880)
 - 2026-02-08 | `virakesarilk-1322910f` | அயர்லாந்துடனான ரி20 உலகக் கிண்ணப் போட்டியில் இலங்கை முதலில் துடுப்பெடுத்தாடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-1322910f)
 - 2026-02-08 | `adalk-9aa1243c` | තියුණු තරගයකින් පසු ජය එංගලන්තයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-adalk-9aa1243c)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-02-08 | `virakesarilk-95207b7e` | ஜனாதிபதி நிதியத்தின் டிஜிட்டல் மாற்றம் ; ஒரே வருடத்தில் மருத்துவ உதவி விண்ணப்பங்கள் 59% அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-95207b7e)
 - 2026-02-08 | `virakesarilk-00cdb033` | பலசரக்குக் கடை மீதுகாட்டு யானை தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-00cdb033)
 - 2026-02-08 | `virakesarilk-370bad64` | கையடக்கத் தொலைபேசியால் வீடொன்றின் அறை தீக்கிரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-370bad64)
-- 2026-02-08 | `virakesarilk-76857a66` | ஆப்கானிஸ்தானுடனான போட்டியில் அவசியமான வெற்றியை ஈட்டியது நியூஸிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-76857a66)
-- 2026-02-08 | `virakesarilk-6c88aecb` | இந்தியாவில் இராட்டினம் விழுந்து விபத்து : ஒருவர் உயிரிழப்பு ; 13 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-6c88aecb)
-- 2026-02-08 | `adalk-9feb8b57` | ඇෆ්ගනිස්තානයට එරෙහි තරගයෙන් නවසීලන්තයට කඩුලු 5ක ජයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-adalk-9feb8b57)
-- 2026-02-08 | `tamilmirrorlk-fb3c13ce` | புத்தரின் ஊர்ணாவை திருடிய இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-tamilmirrorlk-fb3c13ce)
-- 2026-02-08 | `tamilmirrorlk-1cc0c838` | அஞ்சல் கட்டணங்கள் அதிரடியாக அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-tamilmirrorlk-1cc0c838)
-- 2026-02-08 | `tamilmirrorlk-3ba52b86` | மீனவ சமூகத்தினருக்கு ஆதரவு பயிற்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-tamilmirrorlk-3ba52b86)
-- 2026-02-08 | `virakesarilk-e2e1c50a` | கிழக்கின் முக்கிய சுற்றுலாத்தலத்தில் கட்டாக்காலி நாய்களின் தொல்லை: சுற்றுலாப் பயணிகளும் உடற்பயிற்சியாளர்களும் கடும் அவதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-e2e1c50a)
 
 ---
 
