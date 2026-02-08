@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--08_19:51:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--08_21:50:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,174** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,176** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-08-virakesarilk-c4145faa",
-    "num": "virakesarilk-c4145faa",
+    "doc_id": "2026-02-08-virakesarilk-a8777eb7",
+    "num": "virakesarilk-a8777eb7",
     "date_str": "2026-02-08",
-    "description": "\u0ba8\u0bc7\u0baa\u0bbe\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b9a\u0bb5\u0bbe\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bc8\u0b9a\u0bbf\u0baa\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 4 \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc8 \u0b88\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1 \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/238172",
+    "description": "\u0b95\u0bae\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc6\u0ba3\u0bcd\u0b9f\u0bbf\u0bb8\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0bb1\u0bcd\u0b9a\u0bbe\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/238173",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1770560280.0
+    "time_ut": 1770565740.0
 }
 ```
 
@@ -41,9 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-08 | `virakesarilk-a8777eb7` | கமிந்து மெண்டிஸின் அதிரடி இலங்கைக்கு உற்சாகத்தை கொடுத்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-a8777eb7)
 - 2026-02-08 | `virakesarilk-c4145faa` | நேபாளத்தின் கடும் சவாலுக்கு மத்தியில் கடைசிப் பந்தில் 4 ஓட்டங்களால் பரபரப்பான வெற்றியை ஈட்டியது இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-c4145faa)
 - 2026-02-08 | `tamilmirrorlk-f5a46880` | நேபாளத்திடம் கர்ரானால் மயிரிழையில் தப்பிய இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-tamilmirrorlk-f5a46880)
 - 2026-02-08 | `virakesarilk-1322910f` | அயர்லாந்துடனான ரி20 உலகக் கிண்ணப் போட்டியில் இலங்கை முதலில் துடுப்பெடுத்தாடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-1322910f)
+- 2026-02-08 | `adalk-9aa1243c` | තියුණු තරගයකින් පසු ජය එංගලන්තයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-adalk-9aa1243c)
 - 2026-02-08 | `tamilmirrorlk-18c4380b` | அவிசாவளை விபத்தில் மூவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-tamilmirrorlk-18c4380b)
 - 2026-02-08 | `adalk-cd9bce29` | මොටර් රථයක් සහ යතුරුපැදියක් ගැටී තිදෙනෙකු මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-adalk-cd9bce29)
 - 2026-02-08 | `virakesarilk-09cdb540` | பாதுகாப்பு அமைச்சில் பாதுகாப்பு பிரதி அமைச்சர் தலைமையில் அனர்த்தத்திற்கு பிந்தைய தேவைகள் மதிப்பீடு தொடர்பான கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-09cdb540)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-02-08 | `tamilmirrorlk-3ba52b86` | மீனவ சமூகத்தினருக்கு ஆதரவு பயிற்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-tamilmirrorlk-3ba52b86)
 - 2026-02-08 | `virakesarilk-e2e1c50a` | கிழக்கின் முக்கிய சுற்றுலாத்தலத்தில் கட்டாக்காலி நாய்களின் தொல்லை: சுற்றுலாப் பயணிகளும் உடற்பயிற்சியாளர்களும் கடும் அவதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-e2e1c50a)
 - 2026-02-08 | `tamilmirrorlk-4752d468` | காலியில் உலோக சேகரிப்பு கடையில் தீ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-tamilmirrorlk-4752d468)
-- 2026-02-08 | `virakesarilk-e207794a` | சபாநாயகருக்கு எதிராக சமிந்த குலரத்ன முறைப்பாடு: விசாரணைகளை ஆரம்பிக்கிறது இலஞ்ச ஊழல் ஒழிப்பு ஆணைக்குழு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-e207794a)
-- 2026-02-08 | `virakesarilk-6e0a5081` | வாகன இலக்க தகடுகள் அச்சிடும் பணி மூன்று மாதங்களுக்குள் மீண்டும் ஆரம்பிக்கப்படும் - மோட்டார் போக்குவரத்துத் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-08-virakesarilk-6e0a5081)
 
 ---
 

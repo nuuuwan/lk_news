@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-08 19:50:55",
-  "n_docs": 101174,
+  "time_updated": "2026-02-08 21:49:23",
+  "n_docs": 101176,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 101174,
+  "n_docs_with_text": 101176,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-02-08",
-  "dataset_size": 1541743215,
+  "dataset_size": 1541942095,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-08-virakesarilk-c4145faa",
-    "num": "virakesarilk-c4145faa",
+    "doc_id": "2026-02-08-virakesarilk-a8777eb7",
+    "num": "virakesarilk-a8777eb7",
     "date_str": "2026-02-08",
-    "description": "\u0ba8\u0bc7\u0baa\u0bbe\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b9a\u0bb5\u0bbe\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bc8\u0b9a\u0bbf\u0baa\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 4 \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc8 \u0b88\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1 \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/238172",
+    "description": "\u0b95\u0bae\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc6\u0ba3\u0bcd\u0b9f\u0bbf\u0bb8\u0bbf\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0bb1\u0bcd\u0b9a\u0bbe\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/238173",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1770560280.0
+    "time_ut": 1770565740.0
   }
 }
