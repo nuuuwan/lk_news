@@ -1,0 +1,43 @@
+GREAT 2025–2030: Sri Lanka’s Green ambition meets a grid reality check
+
+Sri Lanka’s Renewable Energy Project Development Plan, branded GREAT 2025–2030 (Green Energy Acceleration Targets), reads like a confident pivot toward a cleaner, cheaper power system. With more than 2,600 MW of new renewable capacity planned—dominated by solar and wind—and a strong push on storage and grid stabilisation, the strategy signals intent. Yet beneath the headline numbers lies a harder business truth: generation is racing ahead of the grid, and unless infrastructure and control catch up fast, value will leak from an otherwise compelling transition.
+
+At the core of GREAT is scale. Solar leads with 1,571 MW across multiple zones, while wind contributes 1,004 MW, primarily from Mannar, Kilinochchi and the North-Western belt.
+
+Smaller but steady additions are planned in mini-hydro (51 MW) and biomass (38 MW). On paper, the mix lowers marginal costs, cuts imports, and insulates the economy from fuel price shocks—outcomes financiers and policymakers both welcome.
+
+But a senior retired electrical engineer, who spent decades inside Sri Lanka’s power system, cautions that capacity alone doesn’t create reliability—or returns.
+
+“We are adding megawatts faster than we are adding visibility and control,” he said. “Rooftop solar has already exceeded 1,350 MW, much of it invisible to operators. From a grid perspective, that is unmanaged generation, and unmanaged generation is risk.”
+
+The business implications are immediate. Transmission bottlenecks, particularly delays in 220 kV and 400 kV lines, are constraining renewable evacuation. Projects commissioned on time can still face curtailment, eroding project IRRs and shaking investor confidence.
+
+At the same time, electricity demand has softened amid economic pressures, compressing the system’s ability to absorb intermittent power—especially on Sundays and holidays, when demand dips but solar output peaks.
+
+“Low demand days are now the stress test,” the engineer noted. “Without storage and grid-forming assets, you’re forced to back down renewables or keep thermal units running for stability. Both options cost money.”
+
+GREAT attempts to address this with 650 MW / 2,250 MWh of Battery Energy Storage Systems (BESS) and 600 MW of pumped storage at Maha Oya by 2034, alongside synchronous condensers to maintain inertia. These are not optional add-ons; they are value enablers. Storage smooths volatility, captures excess midday solar, and shifts energy to peak hours—turning stranded electrons into bankable revenue.
+
+Yet timing matters. Storage, controls, and transmission must arrive before or with new generation. Otherwise, developers face curtailment risk, lenders price in uncertainty, and tariffs fail to fall as promised.
+
+The plan’s institutional fixes are equally commercial. A Renewable Energy Control Desk (from 2026), Distribution Control Centers in high rooftop solar areas, smart meter mandates, and grid digitalisation are designed to restore operational visibility. Time-of-use tariffs, paired with daytime EV charging and industrial load-shifting, aim to reshape demand—turning a system problem into a market opportunity.
+
+“Tariffs are signals,” the engineer said. “If you want power used at noon, price it right. If EVs and factories move load to the day, solar becomes an asset, not a headache.”
+
+For investors, the message is nuanced but clear. Sri Lanka’s renewable pipeline is real and sizeable.
+
+The policy direction favours clean energy, and the cost curve is attractive. However, project bankability will increasingly hinge on grid-readiness—access to storage, firm evacuation paths, and participation in smart, controllable networks.
+
+For policymakers, GREAT’s success will be measured not by megawatts announced, but by megawatt-hours delivered reliably and profitably. Accelerating transmission approvals, fast-tracking BESS procurement, and enforcing smart metering for distributed generation are the difference between a virtuous transition and a congested one.
+
+“The question is whether we do it cheaply and safely, or pay twice—once for generation, and again for the fixes we delayed.”
+
+GREAT 2025–2030 sets Sri Lanka on the right path. The business case now depends on execution—where grids, markets, and management must move at the same speed as ambition, he added.
+
+ComBank and Hayleys Mobility redefine sustainable mobility with flexible leasing solutions
+
+Zone24x7 enters 2026 with strong momentum, reinforcing its role as an enterprise AI and automation partner
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
