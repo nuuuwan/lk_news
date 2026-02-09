@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_00:04:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_01:56:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,320** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,322** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-09-virakesarilk-71cfc0f6",
-    "num": "virakesarilk-71cfc0f6",
-    "date_str": "2026-02-09",
-    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf - \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0bb0\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0ba8\u0b9f\u0bc8\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd; \u0baa\u0bc1\u0bb1\u0b95\u0bcd\u0b95\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0bb5\u0bbe\u0baa\u0bb8\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0bb1\u0bbf\u0b95\u0bc1\u0bb1\u0bbf",
-    "url_metadata": "https://www.virakesari.lk/article/238263",
+    "doc_id": "2026-02-10-virakesarilk-0dac2784",
+    "num": "virakesarilk-0dac2784",
+    "date_str": "2026-02-10",
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0bb0\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0baa\u0b95\u0bbf\u0bb7\u0bcd\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0bb5\u0bbe\u0baa\u0bb8\u0bcd \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/238265",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1770661380.0
+    "time_ut": 1770664800.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-10 | `virakesarilk-0dac2784` | இந்தியாவுக்கு எதிரான ரி20 உலகக் கிண்ணப் போட்டி பகிஷ்கரிப்பை பாகிஸ்தான் வாபஸ் பெற்றுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-virakesarilk-0dac2784)
+- 2026-02-10 | `virakesarilk-b4a76730` | ICC, PCB மற்றும் BCB ஆகியவற்றுக்குஇடையில் ஆக்கபூர்வமான,  கலந்துரையாடல்; பங்களாதேஷுக்கு தடையோ அபராதமோ இல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-virakesarilk-b4a76730)
 - 2026-02-09 | `virakesarilk-71cfc0f6` | இந்திய - பாகிஸ்தான் ரி20 உலகக் கிண்ணப் போட்டி நடைபெறும் சாத்தியம்; புறக்கணிப்பை பாகிஸ்தான் வாபஸ் பெறும் அறிகுறி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-71cfc0f6)
 - 2026-02-09 | `virakesarilk-42849509` | கனடாவுடனான போட்டியில் தென் ஆபிரிக்கா 57 ஓட்டங்களால் வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-42849509)
 - 2026-02-09 | `tamilmirrorlk-bd06b2e3` | இ-20 உலகக் கிண்ணம்: கனடாவை வென்ற தென்னாபிரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-tamilmirrorlk-bd06b2e3)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-02-09 | `virakesarilk-35958cba` | தென் ஆபிரிக்காவை ரி20 உலகக் கிண்ண டி குழு போட்டியில் கனடா எதிர்த்தாடுகிறது; ரி20இல் முதல் தடவையாக சந்திக்கின்றன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-35958cba)
 - 2026-02-09 | `virakesarilk-89773cf3` | மசாலா மணத்துடன் மகிழ்வித்து வரும் ஐஸ்வர்யா அர்ஜுனின் 'சீதா பயணம் ' படத்தின் முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-89773cf3)
 - 2026-02-09 | `virakesarilk-e41b08da` | அன்பையும், நம்பிக்கையையும் பற்றி உரக்கப் பேசும்  சசிகுமாரின் 'மை லார்ட் ' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-e41b08da)
-- 2026-02-09 | `virakesarilk-f0b797a2` | பிரேக் -அப் கலாச்சாரத்தின் பின்னணியை சுவராசியமாக பேசும் 'பூக்கி' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-f0b797a2)
-- 2026-02-09 | `virakesarilk-9e32fc08` | வடக்கு மாகாண கூட்டுறவு ஊழியர் ஆணைக்குழு தலைவராக க.பிரகாஸ் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-9e32fc08)
 
 ---
 
