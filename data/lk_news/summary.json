@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-09 03:47:13",
-  "n_docs": 101188,
+  "time_updated": "2026-02-09 06:14:31",
+  "n_docs": 101207,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 101188,
+  "n_docs_with_text": 101207,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-02-09",
-  "dataset_size": 1542253907,
+  "dataset_size": 1542409413,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-09-dailyftlk-7da213e4",
-    "num": "dailyftlk-7da213e4",
+    "doc_id": "2026-02-09-dailyftlk-725f0e5f",
+    "num": "dailyftlk-725f0e5f",
     "date_str": "2026-02-09",
-    "description": "When tax enforcement turns tragic",
-    "url_metadata": "https://www.ft.lk/columns/When-tax-enforcement-turns-tragic/4-788066",
+    "description": "Sri Lanka can ride India\u2019s growth wave as global trade order frays: Envoy",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-can-ride-India-s-growth-wave-as-global-trade-order-frays-Envoy/34-788086",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1770586704.0
+    "time_ut": 1770591556.0
   }
 }
