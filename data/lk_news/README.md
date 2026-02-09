@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--09_14:01:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--09_16:06:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,254** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,278** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-09-tamilmirrorlk-51b95bdd",
-    "num": "tamilmirrorlk-51b95bdd",
+    "doc_id": "2026-02-09-virakesarilk-f4b85f03",
+    "num": "virakesarilk-f4b85f03",
     "date_str": "2026-02-09",
-    "description": "\u0baa\u0bbe\u0b9f\u0b95\u0bb0\u0bcd \u0b89\u0ba9\u0bcd\u0ba9\u0bbf\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b95\u0bb0\u0bcd-\u0b89\u0ba9\u0bcd\u0ba9\u0bbf\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd/175-372225",
+    "description": "\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bc2\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bb1\u0bc1\u0baa\u0bb0\u0bbf\u0b9a\u0bc0\u0bb2\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/238217",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1770621561.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1770633240.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-02-09 | `tamilmirrorlk-51b95bdd` | பாடகர் உன்னிகிருஷ்ணன் வருகிறார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-tamilmirrorlk-51b95bdd)
-- 2026-02-09 | `tamilmirrorlk-fd645a4b` | சவுதி அரேபிய ஜித்தாவுக்கான இலங்கை கவுன்சிலர் கௌரவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-tamilmirrorlk-fd645a4b)
-- 2026-02-09 | `tamilmirrorlk-c4468a75` | யோஷித ராஜபக்ஷவின் பாட்டி டெய்சி  மனநிலையுடன் இருக்கிறாரா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-tamilmirrorlk-c4468a75)
-- 2026-02-09 | `adalk-a04ba7ce` | වඩු මඩුවක හිමිකරුවෙක් යකඩ පොල්ලකින් හා බෝතලයකින් පහරදී ඝාතනය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-adalk-a04ba7ce)
-- 2026-02-09 | `tamilmirrorlk-58faab11` | கூரிய ஆயுதத்தால் தாக்கி ஒருவர் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-tamilmirrorlk-58faab11)
-- 2026-02-09 | `adalk-19d7da8a` | බලංගොඩ කස්සප හිමි ඇතුළු පිරිස යළි රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-adalk-19d7da8a)
-- 2026-02-09 | `virakesarilk-e3f485dd` | மீன்பிடி பெருவலைத் தொழிலை நவீனமயமாக்குவதற்கு எதிர்ப்பு: மீனவர்களுடன் பேச்சுவார்த்தைக்குத் தயார் என பிரதி அமைச்சர் ரத்னகமகே அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-e3f485dd)
-- 2026-02-09 | `virakesarilk-1cf22d6e` | தற்போதைய அரசாங்கத்தை மக்கள் விரைவில் நிராகரிப்பார்கள்   -  முன்னாள் அமைச்சர் பிரியால் நிஷாந்த | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-1cf22d6e)
-- 2026-02-09 | `virakesarilk-4c94c255` | திருகோணமலை புத்தர் சிலை விவகாரம் ; கஸ்ஸப தேரர் உள்ளிட்ட குழுவுக்கு விளக்கமறியல் நீடிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-4c94c255)
-- 2026-02-09 | `tamilmirrorlk-426f4096` | ’’ஒலிம்பிக் போட்டியா? வீட்டுப் பாடமா? குழப்பும் மாணவி’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-tamilmirrorlk-426f4096)
-- 2026-02-09 | `virakesarilk-ffab77ee` | ஜப்பான் பொதுத்தேர்தல்: சானே தகாய்ச்சி தலைமையிலான கூட்டணி அமோக வெற்றி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-ffab77ee)
-- 2026-02-09 | `virakesarilk-052993fb` | வீட்டுத் தோட்டத்திலிருந்து மோட்டார் குண்டுகள் கண்டுபிடிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-052993fb)
-- 2026-02-09 | `tamilmirrorlk-c8277b54` | திருமலை புத்தர் சிலை: அதிரடி தீர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-tamilmirrorlk-c8277b54)
-- 2026-02-09 | `virakesarilk-2f7a9204` | ஹொங்கொங் ஊடகப் பிரமுகர் ஜிம்மி லாய்க்கு 20 ஆண்டுகள் சிறைத்தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-2f7a9204)
-- 2026-02-09 | `tamilmirrorlk-a3feced5` | வெளிநாட்டு சந்தைகளை தேயிலை இழக்கும் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-tamilmirrorlk-a3feced5)
-- 2026-02-09 | `tamilmirrorlk-e0ff9927` | கால்வாயிலிருந்து ஆணின் சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-tamilmirrorlk-e0ff9927)
-- 2026-02-09 | `virakesarilk-fe90251d` | மின்சார சபை ஊழியர்களை ஏற்றிச் சென்ற பஸ் விபத்து ; பலர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-fe90251d)
-- 2026-02-09 | `tamilmirrorlk-65bd1ce4` | வழக்கறிஞருக்கு 3 ஆண்டுகள் சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-tamilmirrorlk-65bd1ce4)
-- 2026-02-09 | `virakesarilk-c52ccf2a` | லெபனானில் இரண்டு கட்டிடங்கள் இடிந்து வீழ்ந்ததில் 09 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-c52ccf2a)
-- 2026-02-09 | `virakesarilk-4ff749d6` | யாழ்.போதனா வைத்தியசாலைக்கு அண்மித்த பகுதியில் வெடிபொருட்கள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-4ff749d6)
+- 2026-02-09 | `virakesarilk-f4b85f03` | குடியிருப்பாளர்கள் பாதுகாப்பு சட்டமூலத்தை மறுபரிசீலனை செய்ய அரசாங்கம் தீர்மானம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-f4b85f03)
+- 2026-02-09 | `virakesarilk-1d95dc9f` | இளவாலையில் பொலிஸ் நிலையத்திற்கு அருகில் கும்பலுக்கிடையே மோதல் : இருவர் படுகாயம்; ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-1d95dc9f)
+- 2026-02-09 | `virakesarilk-2e2963a1` | செம்மணி மனித புதைகுழி: மூன்றாம் கட்ட அகழ்வு பணிகள் தொடர்பான தீர்மானம் மார்ச் 16இல் அறிவிக்கப்படும்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-2e2963a1)
+- 2026-02-09 | `virakesarilk-61bdbe25` | 78வது சுதந்திர தினத்தை முன்னிட்டு கடற்படையினரின் இரத்த தான முகாம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-61bdbe25)
+- 2026-02-09 | `virakesarilk-90795297` | பங்களாதேஷில் நிபா வைரஸ் தொற்றினால் பெண்ணொருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-90795297)
+- 2026-02-09 | `virakesarilk-bd505a57` | டி.இமான்- சீனுராமசாமி - லெனின் பாரதி இணைந்து வெளியிட்ட 'அந்தோணி' படத்தின் முதல் தோற்றப் பார்வை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-bd505a57)
+- 2026-02-09 | `virakesarilk-a29dea69` | பனை மரத்தில் மோதி மோட்டார் சைக்கிள் விபத்து ; இளைஞர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-a29dea69)
+- 2026-02-09 | `virakesarilk-cd24d94a` | கெஹெலியவுக்கு எதிரான  வழக்கு மீதான விசாரணை ஒத்திவைப்பு. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-cd24d94a)
+- 2026-02-09 | `virakesarilk-676d0689` | “அகன்று செல்" : நுவரெலியாவில் போதைக்கு எதிரான விழிப்புணர்வு நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-676d0689)
+- 2026-02-09 | `tamilmirrorlk-906d9eb2` | இ – 20 உலகக் கிண்ணம்: இத்தாலியை வென்ற ஸ்கொட்லாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-tamilmirrorlk-906d9eb2)
+- 2026-02-09 | `virakesarilk-513a087a` | இலங்கைக்கு 500 மெற்றிக் தொன் அரிசியை வழங்கியது மியன்மார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-513a087a)
+- 2026-02-09 | `virakesarilk-e08adca7` | வல்லப்பட்டை மரப் பலகைகள்,  மான் கொம்புகளுடன் 6 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-e08adca7)
+- 2026-02-09 | `virakesarilk-698b1920` | லொறி மீது பொலிஸார் துப்பாக்கிச் சூடு - இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-698b1920)
+- 2026-02-09 | `virakesarilk-61603a10` | பாராளுமன்ற உறுப்பினர்களின் வரப்பிரசாதங்களை விட புயலால் பாதிக்கப்பட்ட மக்களுக்கு உதவுவது அவசியம் - நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-61603a10)
+- 2026-02-09 | `virakesarilk-513dfd6a` | தொழிலாளர்களின் சம்பள அதிகரிப்பு : தீர்க்கப்படாமலுள்ள சந்தேகங்களும் பொறுப்பு கூற வேண்டியவர்களின் மௌனமும்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-513dfd6a)
+- 2026-02-09 | `adalk-2e670b80` | මාලිංග පසුකර ගිය හසරංග | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-adalk-2e670b80)
+- 2026-02-09 | `adalk-12a7bcb2` | අණ නොතැකූ ලොරියට පොලීසිය වෙඩි තබයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-adalk-12a7bcb2)
+- 2026-02-09 | `virakesarilk-0107dfde` | மது போதையில் வாக்குவாதம் ; சக பொலிஸ் அதிகாரியை கத்தியால் குத்திய பொலிஸ் அதிகாரி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-0107dfde)
+- 2026-02-09 | `virakesarilk-6e8feb10` | இன்றைய நாணய மாற்று விகிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-6e8feb10)
+- 2026-02-09 | `virakesarilk-9a5f7bae` | சிறுத்தை குட்டியின் சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-09-virakesarilk-9a5f7bae)
 
 ---
 
