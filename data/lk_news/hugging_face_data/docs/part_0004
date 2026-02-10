@@ -54427,6 +54427,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-09-dbsjeyarajcom-39c17af7",
+    "num": "dbsjeyarajcom-39c17af7",
+    "date_str": "2026-02-09",
+    "description": "\u201cSenthamizh Thaen Mozhiyaal\u201d-Magnificient Singing by T.R.Mahalingam \u266b\u2665",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=47071",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1770641280.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-09-virakesarilk-c230416c",
     "num": "virakesarilk-c230416c",
     "date_str": "2026-02-09",
@@ -54798,6 +54809,17 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1770678849.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-10-colombotelegraphcom-019660ef",
+    "num": "colombotelegraphcom-019660ef",
+    "date_str": "2026-02-10",
+    "description": "Cricket Across Firelines: Renewed South Asian Solidarity In A Fragmenting Moment",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/cricket-across-firelines-renewed-south-asian-solidarity-in-a-fragmenting-moment/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1770678931.0
   },
   {
     "doc_type": "lk_news",
