@@ -55582,6 +55582,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-10-adalk-50e33c4d",
+    "num": "adalk-50e33c4d",
+    "date_str": "2026-02-10",
+    "description": "2019.08.02\u0da7 \u0db4\u0dd9\u0dbb \u0d9c\u0dad\u0dca \u0dc3\u0dd2\u0db8\u0dca \u0db1\u0dd0\u0dc0\u0dad \u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2 \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/technology/2019-08-02\u0da7-\u0db4\u0dd9\u0dbb-\u0d9c\u0dad\u0dca-\u0dc3\u0dd2\u0db8\u0dca-\u0db1\u0dd0\u0dc0\u0dad-\u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2-\u0d9a\u0dbb\u0dba\u0dd2/5-421176",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1770722999.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-10-virakesarilk-d85cbdab",
     "num": "virakesarilk-d85cbdab",
     "date_str": "2026-02-10",

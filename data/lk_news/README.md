@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_18:03:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_20:13:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,419** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,420** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -49,6 +49,7 @@ A collection of lk_news documents.
 - 2026-02-10 | `tamilmirrorlk-4fcbf393` | மகிழ்ச்சியை வெளிப்படுத்திய மலையக மக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-tamilmirrorlk-4fcbf393)
 - 2026-02-10 | `virakesarilk-abd740c8` | ஊழல் தர வரிசையில் முன்னேற்றகரமான நிலையில் இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-virakesarilk-abd740c8)
 - 2026-02-10 | `virakesarilk-d85cbdab` | புத்தசாசனத்தை அழிக்கும் வகையில் அரசாங்கம் செயற்படுகிறது - நாமல் குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-virakesarilk-d85cbdab)
+- 2026-02-10 | `adalk-50e33c4d` | 2019.08.02ට පෙර ගත් සිම් නැවත ලියාපදිංචි කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-adalk-50e33c4d)
 - 2026-02-10 | `virakesarilk-2d6f8d1b` | சீனாவில் ஹாலோகிராபிக் தொழில்நுட்பம் மூலம் இலங்கையின் சுற்றுலா ஊக்குவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-virakesarilk-2d6f8d1b)
 - 2026-02-10 | `virakesarilk-383d3f88` | அமெரிக்கா - ஈரான் மோதல் 2026 : மத்திய கிழக்கில் நிலவும் போர்ப் பதற்றமும் சமீபத்திய மாற்றங்களும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-virakesarilk-383d3f88)
 - 2026-02-10 | `virakesarilk-bf336f40` | அருவிவெட்டுக்கு வேலையாட்களை ஏற்றச் சென்றவர் மீது பொலிஸார் துப்பாக்கிப் பிரயோகம் - உயிரிழந்த 17 வயது சிறுவனின் சித்தி கண்ணீர் மல்க தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-virakesarilk-bf336f40)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-02-10 | `virakesarilk-073dabf7` | விஜய் நடிக்கும் 'ஜனநாயகன்' படத்தின் அப்டேட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-virakesarilk-073dabf7)
 - 2026-02-10 | `virakesarilk-8990426a` | இசை ரசிகர்களை கவர்ந்து வரும் 'ஜில்லே ஜூஸ்..' எனும் 'பூக்கி' பட பாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-virakesarilk-8990426a)
 - 2026-02-10 | `virakesarilk-217ef186` | பூனையை சித்திரவதை செய்யும் காணொளி வைரல் ; இளைஞனுக்கு விளக்கமறியல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-virakesarilk-217ef186)
-- 2026-02-10 | `virakesarilk-02260740` | பாஸ் டி லீட் சகலதுறைகளிலும் பிரகாசிக்க நமிபியாவை இலகுவாக வெற்றிகொண்டது நெதர்லாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-virakesarilk-02260740)
 
 ---
 
