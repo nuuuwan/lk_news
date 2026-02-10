@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_06:22:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_08:48:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,352** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,358** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-10-dailyftlk-3080fd8e",
-    "num": "dailyftlk-3080fd8e",
+    "doc_id": "2026-02-10-tamilmirrorlk-d8e4123a",
+    "num": "tamilmirrorlk-d8e4123a",
     "date_str": "2026-02-10",
-    "description": "NMSJ welcomes AG appointment",
-    "url_metadata": "https://www.ft.lk/news/NMSJ-welcomes-AG-appointment/56-788138",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1770681592.0
+    "description": "\u0b9a\u0bc0\u0bb7\u0bc6\u0bb2\u0bcd\u0bb8\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc0\u0bb7\u0bc6\u0bb2\u0bcd\u0bb8\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-372258",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1770691488.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-10 | `tamilmirrorlk-d8e4123a` | சீஷெல்ஸ் ஜனாதிபதியுடன் இந்திய பிரதமர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-tamilmirrorlk-d8e4123a)
+- 2026-02-10 | `tamilmirrorlk-d32b4b56` | மீனவரின் படகை மோதித் தள்ளிய டோறா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-tamilmirrorlk-d32b4b56)
+- 2026-02-10 | `adalk-2be9aed1` | ඉන්දියාව සමග ක්‍රීඩා කරන බව පාකිස්තානය කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-adalk-2be9aed1)
+- 2026-02-10 | `tamilmirrorlk-7413d376` | முல்லைத்தீவில் யாழ். பல்கலைக்கழகப் பீடம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-tamilmirrorlk-7413d376)
+- 2026-02-10 | `tamilmirrorlk-1ec619f3` | இன்று வறட்சியான வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-tamilmirrorlk-1ec619f3)
 - 2026-02-10 | `dailyftlk-3080fd8e` | NMSJ welcomes AG appointment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-dailyftlk-3080fd8e)
 - 2026-02-10 | `dailyftlk-ba911afc` | Tangalle restaurant refuses to serve locals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-dailyftlk-ba911afc)
 - 2026-02-10 | `dailyftlk-4ca2ba4f` | SC hands lawyer three-year prison term for contempt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-dailyftlk-4ca2ba4f)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-02-10 | `dailyftlk-c71cc1a5` | The infrastructure of growth: Inside Roar Global’s venture builder model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-dailyftlk-c71cc1a5)
 - 2026-02-10 | `dailyftlk-22f2df22` | Sri Lankan companies face mandatory sustainability, opening new opportunities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-dailyftlk-22f2df22)
 - 2026-02-10 | `dailyftlk-8461bebb` | Beyond 4–5% recovery: Why Sri Lanka needs a real growth strategy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-dailyftlk-8461bebb)
-- 2026-02-10 | `dailyftlk-0b8ca9ed` | Digitalisation without rights protections | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-dailyftlk-0b8ca9ed)
-- 2026-02-10 | `dailyftlk-624b4244` | Is Venture Capital only for the elite?  The financing gap facing small businesses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-dailyftlk-624b4244)
-- 2026-02-10 | `dailyftlk-df0b2bc0` | A balanced tenancy law is essential for Sri Lanka’s housing future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-dailyftlk-df0b2bc0)
-- 2026-02-10 | `virakesarilk-0dac2784` | இந்தியாவுக்கு எதிரான ரி20 உலகக் கிண்ணப் போட்டி பகிஷ்கரிப்பை பாகிஸ்தான் வாபஸ் பெற்றுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-virakesarilk-0dac2784)
-- 2026-02-10 | `virakesarilk-b4a76730` | ICC, PCB மற்றும் BCB ஆகியவற்றுக்குஇடையில் ஆக்கபூர்வமான,  கலந்துரையாடல்; பங்களாதேஷுக்கு தடையோ அபராதமோ இல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-10-virakesarilk-b4a76730)
 
 ---
 
