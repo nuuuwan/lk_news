@@ -55989,6 +55989,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-10-adalk-2640ac45",
+    "num": "adalk-2640ac45",
+    "date_str": "2026-02-10",
+    "description": "\u0d89\u0db1\u0dca\u0daf\u0dd4 \u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1 \u0dad\u0dbb\u0d9c\u0dba\u0da7 \u0d91\u0db1 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dda \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0dda \u0dc0\u0d9c\u0d9a\u0dd2\u0db8 \u0dbb\u0da2\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0daf\u0dd4-\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1-\u0dad\u0dbb\u0d9c\u0dba\u0da7-\u0d91\u0db1-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4-\u0daf\u0dd9\u0db1\u0dcf\u0d9c\u0dda-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0\u0dda-\u0dc0\u0d9c\u0d9a\u0dd2\u0db8-\u0dbb\u0da2\u0dba/11-421178",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1770744375.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-10-tamilmirrorlk-d8a5eb9f",
     "num": "tamilmirrorlk-d8a5eb9f",
     "date_str": "2026-02-10",
@@ -56085,5 +56096,115 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1770770592.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-11-dailyftlk-83e2d360",
+    "num": "dailyftlk-83e2d360",
+    "date_str": "2026-02-11",
+    "description": "Robust progress in China-Sri Lanka relations: Ambassador Qi",
+    "url_metadata": "https://www.ft.lk/opinion/Robust-progress-in-China-Sri-Lanka-relations-Ambassador-Qi/14-788167",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770770880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-11-dailyftlk-f355846e",
+    "num": "dailyftlk-f355846e",
+    "date_str": "2026-02-11",
+    "description": "Protection of Occupation Bill impact on real estate market and bank collateral",
+    "url_metadata": "https://www.ft.lk/columns/Protection-of-Occupation-Bill-impact-on-real-estate-market-and-bank-collateral/4-788168",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770773494.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-11-dailyftlk-0036865d",
+    "num": "dailyftlk-0036865d",
+    "date_str": "2026-02-11",
+    "description": "IMF awards Talal Rafi for most popular Public Finance Article of 2025",
+    "url_metadata": "https://www.ft.lk/business/IMF-awards-Talal-Rafi-for-most-popular-Public-Finance-Article-of-2025/34-788169",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770773612.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-11-dailyftlk-a6f3ddf9",
+    "num": "dailyftlk-a6f3ddf9",
+    "date_str": "2026-02-11",
+    "description": "Sri Lanka\u2019s retail goes green",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-s-retail-goes-green/34-788170",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770773656.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-11-dailyftlk-7aafcc4c",
+    "num": "dailyftlk-7aafcc4c",
+    "date_str": "2026-02-11",
+    "description": "Hayleys Chairman\u2019s Awards 2025 honours teams driving innovation and business excellence",
+    "url_metadata": "https://www.ft.lk/business/Hayleys-Chairman-s-Awards-2025-honours-teams-driving-innovation-and-business-excellence/34-788171",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770773725.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-11-dailyftlk-fea015d4",
+    "num": "dailyftlk-fea015d4",
+    "date_str": "2026-02-11",
+    "description": "Cabinet green lights National Mineral Policy 2026",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-green-lights-National-Mineral-Policy-2026/34-788172",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770773840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-11-dailyftlk-a1ab7e51",
+    "num": "dailyftlk-a1ab7e51",
+    "date_str": "2026-02-11",
+    "description": "Sri Lanka, Japan to formalise economic policy dialogue with MoU",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Japan-to-formalise-economic-policy-dialogue-with-MoU/34-788173",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770774061.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-11-dailyftlk-db3fa111",
+    "num": "dailyftlk-db3fa111",
+    "date_str": "2026-02-11",
+    "description": "First Capital Holdings donates Rs. 15 m to \u2018Rebuilding Sri Lanka\u2019 fund",
+    "url_metadata": "https://www.ft.lk/business/First-Capital-Holdings-donates-Rs-15-m-to-Rebuilding-Sri-Lanka-fund/34-788174",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770774128.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-11-dailyftlk-411707cd",
+    "num": "dailyftlk-411707cd",
+    "date_str": "2026-02-11",
+    "description": "EDB hosts networking session  for new tea and coconut exporters",
+    "url_metadata": "https://www.ft.lk/business/EDB-hosts-networking-session-for-new-tea-and-coconut-exporters/34-788175",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770774214.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-11-tamilmirrorlk-be6ac6e0",
+    "num": "tamilmirrorlk-be6ac6e0",
+    "date_str": "2026-02-11",
+    "description": "\u0bb5\u0bb1\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb1\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9-\u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbe\u0bb3\u0bc8-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-372305",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1770776334.0
   }
 ]
