@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-11 03:57:09",
-  "n_docs": 101444,
+  "time_updated": "2026-02-11 06:19:06",
+  "n_docs": 101457,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 101444,
+  "n_docs_with_text": 101457,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-02-10",
-  "dataset_size": 1546625417,
+  "date_str_max": "2026-02-11",
+  "dataset_size": 1546673969,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-10-tamilmirrorlk-d8a5eb9f",
-    "num": "tamilmirrorlk-d8a5eb9f",
-    "date_str": "2026-02-10",
-    "description": "\u0b87-20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b90. \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bc8 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1 \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87-20-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0b90-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bc8-\u0bb5\u0bc6\u0ba9\u0bcd\u0bb1-\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd/44-372304",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1770744924.0
+    "doc_id": "2026-02-11-dailyftlk-808d1c12",
+    "num": "dailyftlk-808d1c12",
+    "date_str": "2026-02-11",
+    "description": "Too close to ignore: India, aid, and Sri Lanka\u2019s search for economic stability",
+    "url_metadata": "https://www.ft.lk/columns/Too-close-to-ignore-India-aid-and-Sri-Lanka-s-search-for-economic-stability/4-788166",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770770592.0
   }
 }
