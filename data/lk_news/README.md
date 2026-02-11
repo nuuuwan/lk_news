@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:03:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_20:09:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,538** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,541** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-11-tamilmirrorlk-8a5f70ab",
-    "num": "tamilmirrorlk-8a5f70ab",
+    "doc_id": "2026-02-11-tamilmirrorlk-5b6e493c",
+    "num": "tamilmirrorlk-5b6e493c",
     "date_str": "2026-02-11",
-    "description": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8 \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd \u0b9a\u0bbf\u0bb2\u0bc8: 10 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0ba3\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8-\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd-\u0b9a\u0bbf\u0bb2\u0bc8-10-\u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0baa\u0bbf\u0ba3\u0bc8/175-372341",
+    "description": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd-\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-372345",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1770804931.0
+    "time_ut": 1770813190.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-11 | `tamilmirrorlk-5b6e493c` | ரணிலின் செயலாளருக்கு விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-5b6e493c)
+- 2026-02-11 | `adalk-6ee9e9c6` | කස්සප හිමි ඇතුළු පිරිසට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-adalk-6ee9e9c6)
+- 2026-02-11 | `adalk-0f7a8e63` | ජනපති වතු කම්කරුවන් අතරට යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-adalk-0f7a8e63)
 - 2026-02-11 | `tamilmirrorlk-8a5f70ab` | திருகோணமலை புத்தர் சிலை: 10 பேருக்கும் பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-8a5f70ab)
 - 2026-02-11 | `adalk-5b6521ae` | රජයට ප්‍රමාණවත් තක්සේරු නිලධාරීන් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-adalk-5b6521ae)
 - 2026-02-11 | `tamilmirrorlk-f826c14e` | இ - 20 உலகக் கிண்ணம்: 2ஆவது சுப்பர் ஓவரில் வென்ற தென்னாபிரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-f826c14e)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-02-11 | `virakesarilk-a5458766` | அக்குறணையில் வீடொன்றில் தீ பரவல் ; 5 பேர் வைத்தியசாலையில்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-a5458766)
 - 2026-02-11 | `virakesarilk-6c07a992` | ஆவரங்கால் - தொண்டைமானாறு வீதி புனரமைப்பு பணிகள் ஆரம்பம் - 18 மாதங்களில் பணிகளை நிறைவு செய்ய திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-6c07a992)
 - 2026-02-11 | `tamilmirrorlk-91721e9a` | மாத்தளையில் குரங்கு தடுப்பு மையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-91721e9a)
-- 2026-02-11 | `tamilmirrorlk-4b4b8687` | தொலைந்த தொலைபேசிகள் தொடர்பில் அவசர  அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-4b4b8687)
-- 2026-02-11 | `tamilmirrorlk-0df9d145` | பிரதமரை சந்தித்தார்  ADB  புதிய வதிவிடப் பணிப்பாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-0df9d145)
-- 2026-02-11 | `virakesarilk-e6efe530` | ஐரோப்பிய ஒன்றியத்துடன் அர்ப்பணிப்புடன் செயற்படுவோம் - அதிகாரிகள் குழுவிடம் பிரதமர் எடுத்துரைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-e6efe530)
 
 ---
 
