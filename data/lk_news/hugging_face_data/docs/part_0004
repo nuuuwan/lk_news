@@ -56066,6 +56066,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-11-dbsjeyarajcom-8e164d55",
+    "num": "dbsjeyarajcom-8e164d55",
+    "date_str": "2026-02-11",
+    "description": "Kivul Oya Reservoir project has dubious economic benefits, serious environmental costs and the potential to reignite ethnic  tensions : JVP led NPP Govt would be wise to pause and reconsider Instead of Falling Into a Political Trap.",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87008",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1770760980.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-11-virakesarilk-58088650",
     "num": "virakesarilk-58088650",
     "date_str": "2026-02-11",
@@ -57276,6 +57287,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-11-colombotelegraphcom-5135bbbc",
+    "num": "colombotelegraphcom-5135bbbc",
+    "date_str": "2026-02-11",
+    "description": "The Death Of A 17 Year Old In Allipitti Justice Cannot Be Silent",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/the-death-of-a-17-year-old-in-allipitti-justice-cannot-be-silent/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1770818337.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-11-virakesarilk-854649d1",
     "num": "virakesarilk-854649d1",
     "date_str": "2026-02-11",
@@ -57306,5 +57328,27 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1770825240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-12-dailyftlk-4360b164",
+    "num": "dailyftlk-4360b164",
+    "date_str": "2026-02-12",
+    "description": "MSME recovery in post-Ditwah Sri Lanka: Turning geographic data into action",
+    "url_metadata": "https://www.ft.lk/columns/MSME-recovery-in-post-Ditwah-Sri-Lanka-Turning-geographic-data-into-action/4-788207",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770837042.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-12-dailyftlk-c0af73b2",
+    "num": "dailyftlk-c0af73b2",
+    "date_str": "2026-02-12",
+    "description": "Balance Sheet restructuring: What it means, when it makes sense, and lessons from Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Balance-Sheet-restructuring-What-it-means-when-it-makes-sense-and-lessons-from-Sri-Lanka/4-788208",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1770837595.0
   }
 ]
