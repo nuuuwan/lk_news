@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_13:59:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_16:01:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,527** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,534** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-11-virakesarilk-6e8feb10",
-    "num": "virakesarilk-6e8feb10",
+    "doc_id": "2026-02-11-tamilmirrorlk-8a5f70ab",
+    "num": "tamilmirrorlk-8a5f70ab",
     "date_str": "2026-02-11",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0ba8\u0bbe\u0ba3\u0baf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0b95\u0bbf\u0ba4\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/238383",
+    "description": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8 \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd \u0b9a\u0bbf\u0bb2\u0bc8: 10 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bbf\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8-\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd-\u0b9a\u0bbf\u0bb2\u0bc8-10-\u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0baa\u0bbf\u0ba3\u0bc8/175-372341",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1770798180.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1770804931.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-11 | `tamilmirrorlk-8a5f70ab` | திருகோணமலை புத்தர் சிலை: 10 பேருக்கும் பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-8a5f70ab)
+- 2026-02-11 | `tamilmirrorlk-f826c14e` | இ - 20 உலகக் கிண்ணம்: 2ஆவது சுப்பர் ஓவரில் வென்ற தென்னாபிரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-f826c14e)
+- 2026-02-11 | `tamilmirrorlk-7fd5591d` | நாடு முழுவதும்  900 குழந்தை புற்றுநோயாளர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-7fd5591d)
+- 2026-02-11 | `tamilmirrorlk-16a7d988` | மோட்டார் சைக்கிள் விபத்தில் இளைஞன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-16a7d988)
+- 2026-02-11 | `adalk-b41d0cd5` | මන්ත්‍රී අමරකීර්ති ඝාතනයේ 12කට මරණ දඩුවම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-adalk-b41d0cd5)
 - 2026-02-11 | `virakesarilk-6e8feb10` | இன்றைய நாணய மாற்று விகிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-6e8feb10)
 - 2026-02-11 | `tamilmirrorlk-727a6c39` | ’’தேவ்னிமோரி’’ சின்னங்கள் கொண்டு செல்லப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-727a6c39)
 - 2026-02-11 | `tamilmirrorlk-3778e44a` | 17 அன்று வானில் தோன்றும் அதிசயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-3778e44a)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-02-11 | `virakesarilk-4a1a63c2` | கத்திக்குத்தில் முடிந்த பொலிஸ் கான்ஸ்டபிள்களின் தகராறு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-4a1a63c2)
 - 2026-02-11 | `virakesarilk-fe22ceba` | சுவிட்சர்லாந்தின் “உலகம் கண்ணிவெடிகள் இல்லாததாக” அமைப்பின் பிரதிநிதிகள் இலங்கை விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-fe22ceba)
 - 2026-02-11 | `virakesarilk-58be5067` | ஒவ்வொரு பெண்ணுக்கும் உரிய வாய்ப்புகளை பெற்றுக்கொடுப்பது எமது பொறுப்பாகும் - அமைச்சர் சரோஜா சாவித்திரி போல்ராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-58be5067)
-- 2026-02-11 | `tamilmirrorlk-3339f656` | சமன் ஏக்கநாயக்கவுக்கு எதிரான வழக்கு இன்று | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-3339f656)
-- 2026-02-11 | `tamilmirrorlk-a435dacb` | தேயிலைத் தோட்டத்தில் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-a435dacb)
-- 2026-02-11 | `virakesarilk-9e863680` | யாழில் சிறுவன் மீது துப்பாக்கிச் சூடு - பொலிஸ் ஊடகப் பிரிவின் அறிக்கையில் புதிய விடயங்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-9e863680)
-- 2026-02-11 | `tamilmirrorlk-1625bcab` | யானை தாக்கியதில் ரஷ்ய பெண் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-1625bcab)
-- 2026-02-11 | `virakesarilk-9a0a3cea` | பிரதமரைப் சந்தித்தனர் ஐரோப்பிய வெளிவிவகாரச் சேவைப் பிரதிநிதிகள் குழுவினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-9a0a3cea)
 
 ---
 
