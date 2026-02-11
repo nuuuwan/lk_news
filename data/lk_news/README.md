@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_16:01:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--11_18:03:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,534** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,538** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,8 +42,11 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-02-11 | `tamilmirrorlk-8a5f70ab` | திருகோணமலை புத்தர் சிலை: 10 பேருக்கும் பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-8a5f70ab)
+- 2026-02-11 | `adalk-5b6521ae` | රජයට ප්‍රමාණවත් තක්සේරු නිලධාරීන් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-adalk-5b6521ae)
 - 2026-02-11 | `tamilmirrorlk-f826c14e` | இ - 20 உலகக் கிண்ணம்: 2ஆவது சுப்பர் ஓவரில் வென்ற தென்னாபிரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-f826c14e)
 - 2026-02-11 | `tamilmirrorlk-7fd5591d` | நாடு முழுவதும்  900 குழந்தை புற்றுநோயாளர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-7fd5591d)
+- 2026-02-11 | `adalk-75761d89` | දෙව්නි මෝරි සර්වඥ ධාතුන් යළි ඉන්දියාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-adalk-75761d89)
+- 2026-02-11 | `adalk-98bfee0e` | සෑම රෝහලකම මාසයකට වරක්වත් ඖෂධ සමාලෝචන රුස්වීම් පවත්වන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-adalk-98bfee0e)
 - 2026-02-11 | `tamilmirrorlk-16a7d988` | மோட்டார் சைக்கிள் விபத்தில் இளைஞன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-16a7d988)
 - 2026-02-11 | `adalk-b41d0cd5` | මන්ත්‍රී අමරකීර්ති ඝාතනයේ 12කට මරණ දඩුවම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-adalk-b41d0cd5)
 - 2026-02-11 | `virakesarilk-6e8feb10` | இன்றைய நாணய மாற்று விகிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-6e8feb10)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-02-11 | `tamilmirrorlk-4b4b8687` | தொலைந்த தொலைபேசிகள் தொடர்பில் அவசர  அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-4b4b8687)
 - 2026-02-11 | `tamilmirrorlk-0df9d145` | பிரதமரை சந்தித்தார்  ADB  புதிய வதிவிடப் பணிப்பாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-tamilmirrorlk-0df9d145)
 - 2026-02-11 | `virakesarilk-e6efe530` | ஐரோப்பிய ஒன்றியத்துடன் அர்ப்பணிப்புடன் செயற்படுவோம் - அதிகாரிகள் குழுவிடம் பிரதமர் எடுத்துரைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-e6efe530)
-- 2026-02-11 | `virakesarilk-4a1a63c2` | கத்திக்குத்தில் முடிந்த பொலிஸ் கான்ஸ்டபிள்களின் தகராறு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-4a1a63c2)
-- 2026-02-11 | `virakesarilk-fe22ceba` | சுவிட்சர்லாந்தின் “உலகம் கண்ணிவெடிகள் இல்லாததாக” அமைப்பின் பிரதிநிதிகள் இலங்கை விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-fe22ceba)
-- 2026-02-11 | `virakesarilk-58be5067` | ஒவ்வொரு பெண்ணுக்கும் உரிய வாய்ப்புகளை பெற்றுக்கொடுப்பது எமது பொறுப்பாகும் - அமைச்சர் சரோஜா சாவித்திரி போல்ராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-58be5067)
 
 ---
 
