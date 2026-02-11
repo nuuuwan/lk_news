@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--12_01:53:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--12_03:51:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,572** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,574** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.5 GB**), from **2021-09-12** to **2026-02-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-12-dailyftlk-c0af73b2",
-    "num": "dailyftlk-c0af73b2",
+    "doc_id": "2026-02-12-dailyftlk-3bc1b750",
+    "num": "dailyftlk-3bc1b750",
     "date_str": "2026-02-12",
-    "description": "Balance Sheet restructuring: What it means, when it makes sense, and lessons from Sri Lanka",
-    "url_metadata": "https://www.ft.lk/columns/Balance-Sheet-restructuring-What-it-means-when-it-makes-sense-and-lessons-from-Sri-Lanka/4-788208",
+    "description": "Tamil Eelam movement revives amidst AKD Presidency",
+    "url_metadata": "https://www.ft.lk/columns/Tamil-Eelam-movement-revives-amidst-AKD-Presidency/4-788230",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1770837595.0
+    "time_ut": 1770845271.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-12 | `dailyftlk-3bc1b750` | Tamil Eelam movement revives amidst AKD Presidency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-12-dailyftlk-3bc1b750)
+- 2026-02-12 | `tamilmirrorlk-4d66c22e` | துருக்கி நாடாளுமன்றத்தில் மோதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-12-tamilmirrorlk-4d66c22e)
 - 2026-02-12 | `dailyftlk-c0af73b2` | Balance Sheet restructuring: What it means, when it makes sense, and lessons from Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-12-dailyftlk-c0af73b2)
 - 2026-02-12 | `dailyftlk-4360b164` | MSME recovery in post-Ditwah Sri Lanka: Turning geographic data into action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-12-dailyftlk-4360b164)
 - 2026-02-11 | `virakesarilk-91b902d9` | சட்டத்தின் ஆட்சி வீழ்ச்சியடைந்த எந்த நாடும் அபிவிருத்தி அடைந்ததில்லை - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-91b902d9)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-02-11 | `virakesarilk-b5248add` | குமாரபுரம் படுகொலையின் 30ஆவது ஆண்டு நினைவு தினம்..! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-b5248add)
 - 2026-02-11 | `virakesarilk-6cb981d4` | பெப்ரவரி 14 இல் கண்டி 'பிரீஸ் நைட் பெஸ்டிவல் 2026' ஆரம்பம்: ஆளுநர் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-6cb981d4)
 - 2026-02-11 | `virakesarilk-f9dd8cd1` | நீதித்துறையின் தீர்ப்பை வரவேற்கிறோம்; வன்முறையைத் தூண்டியவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட வேண்டும் - சாகர காரியவசம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-f9dd8cd1)
-- 2026-02-11 | `virakesarilk-611dead7` | அமைதிக்கான நடைப்பயணம்: 2,300 மைல் பயணத்திற்குப் பின்னர் பௌத்த தேரர்கள் வொஷிங்டனை சென்றடைந்தனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-611dead7)
-- 2026-02-11 | `virakesarilk-337e7e3d` | இயக்குநர் வெற்றிமாறன் வெளியிட்ட இசக்கி கார்வண்ணனின் ' சைலப்பன் சைக்கிள் மார்ட் படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-11-virakesarilk-337e7e3d)
 
 ---
 
