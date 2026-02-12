@@ -1,0 +1,103 @@
+Following the Money: Tourism’s revenue crisis behind the arrival numbers – PART II
+
+(Article 2 of the 4-part series on Sri Lanka’s tourism stagnation)
+
+If Sri Lanka’s tourism story were a corporate income statement, the top line would satisfy any minister. Arrivals went up 15.1%, targets met, records broke. But walk down the statement and the story darkens. Revenue barely budges. Per-visitor yield collapses. The money that should accompany all those arrivals has quietly vanished, or, more accurately, never materialised.
+
+This is not a recovery. It is a volume trap, more tourists generating less wealth, with policymakers either oblivious to the math or unwilling to confront it.
+
+Read that again: arrivals grew 15.1% year-on-year, but revenue grew only 1.6%. The average tourist in 2025 left behind $181 less than in 2024, an 11.7% decline. Compared to 2018, the drop is even sharper. In real terms, adjusting for inflation and currency depreciation, each visitor in 2025 generates approximately 27-30% less revenue than in 2018, despite Sri Lanka being “cheaper” due to the rupee’s collapse. This is not marginal variance. This is structural value destruction. (See Table 1)
+
+The math is simple and damning: Sri Lanka is working harder for less. More tourists, lower yield, thinner margins. Why? Because we have confused accessibility with competitiveness. We have made ourselves “affordable” through currency collapse and discounting, not through value creation.
+
+The yield collapse is not random. It is the predictable outcome of specific policy failures and market dynamics.
+
+The rupee’s collapse post-2022 has made Sri Lanka appear “cheap” to foreigners. A hotel room priced at $100 in 2018 might cost $70-80 in effective purchasing power today due to depreciation. Tour operators have aggressively discounted to fill capacity during the crisis recovery.
+
+This creates the illusion of competitiveness. Arrivals rise because we are a “bargain.” But the bargain is paid for by domestic suppliers, hotels, transport providers, restaurants, staff, whose input costs (energy, food, imported goods) have skyrocketed in rupee terms while room rates lag in dollar terms.
+
+The transfer is explicit: value flows from Sri Lankan workers and businesses to foreign tourists. The tourism “recovery” extracts wealth from the domestic economy rather than injecting it.
+
+2. Market Composition Shift: Trading European Yields for Asian Volumes
+
+SLTDA data shows a deliberate (or accidental—the policy opacity makes it unclear) shift in source markets. (See Table 2)
+
+The problem is not that we attract Indians or Russians, it is that we attract them without strategies to optimise their yield. As the next article in this series will detail, Indian tourists average approximately 5.27 nights compared to the 8-9 night overall average, with lower per-day spending. We have built recovery on volume from price-sensitive segments rather than value from high-yield segments.
+
+This is a choice, though it appears no one consciously made it. Visa-free entry, aggressive India-focused marketing, and price positioning have tilted the market mix without any apparent analysis of revenue implications.
+
+Average length of stay has compressed. While overall averages hover around 8-9 nights in recent years, the composition matters. High-yield European and North American tourists who historically spent 10-12 nights are now spending 7-9. Indian tourists spend 5-6 nights.
+
+Shorter stays mean less cumulative spending, fewer experiences consumed, less distribution of value across the tourism chain. A 10-night tourist patronises multiple regions, hotels, guides, restaurants. A 5-night tourist concentrates spending in 2-3 locations, typically Colombo, one beach, one cultural site.
+
+The compression is driven partly by global travel trends (shorter, more frequent trips) but also by Sri Lanka’s failure to develop compelling multi-day itineraries, adequate inter-regional connectivity, and differentiated regional experiences. We have not given tourists reasons to stay longer.
+
+Tourists pay for experiences, not arrivals. When experiences degrade, airport congestion, poor road conditions, inadequate facilities at cultural sites, safety concerns, spending falls even if arrivals hold.
+
+The 2024-2025 congestion at Bandaranaike International Airport, with reports of tourists nearly missing flights due to bottlenecks, is the visible tip. Beneath are systemic deficits: poor last-mile connectivity to tourism sites, deteriorating heritage assets, unregistered businesses providing sub-standard services, outbound migration of trained staff.
+
+An ADB report notes that tourism authorities face resource shortages and capital expenditure embargoes, preventing even basic facility improvements at major revenue generators like Sigiriya (which charges $36 per visitor and attracts 25% of all tourists). When a site generates substantial revenue but lacks adequate lighting, safety measures, and visitor facilities, the experience suffers, and so does yield.
+
+Tourism revenue figures are gross. Net foreign exchange contributions after leakages, is rarely calculated or published.
+
+· Imported food, beverages, amenities in hotels (often 30-40% of operating costs)
+
+· International tour operators taking commissions upstream (tourists book through foreign platforms that retain substantial margins)
+
+· Unlicensed operators and unregulated businesses evading taxes and formal banking channels
+
+Industry sources estimate leakages can consume 40-60% of gross tourism revenue in developing economies with weak regulatory enforcement. Sri Lanka has not published comprehensive leakage studies, but all indicators, weak licensing enforcement, widespread informal sector activity, foreign ownership concentration in resorts, suggest leakages are substantial and growing.
+
+The result: even the $3.22 billion headline figure overstates actual net contribution to the economy.
+
+, publish and track yield metrics as primary KPIs. SLTDA should report:
+
+· Revenue per visitor (by source market, by season, by purpose)
+
+· Average daily expenditure (disaggregated by accommodation, activities, food, retail)
+
+Make these as visible as arrival numbers. Hold policy-makers accountable for yield, not just volume.
+
+, segment markets explicitly by yield potential. Stop treating all arrivals as equivalent. Conduct market-specific yield analyses:
+
+· Which distributes spending across regions vs. concentrating in Colombo/beach corridors?
+
+· Which book is through formal channels vs. informal operators?
+
+Target marketing and visa policies accordingly. If Western European tourists spend $250/day for 10 nights while another segment spends $120/day for 5 nights, the revenue difference ($2,500 vs. $600) dictates where promotional resources should flow.
+
+, develop multi-day, multi-region itineraries with compelling value propositions. Tourists extend stays when there are reasons to stay. Create integrated experiences:
+
+· Cultural triangle + beach + hill country circuits with seamless connectivity
+
+· Themed tours (wildlife, wellness, culinary, adventure) requiring 10+ days
+
+· Regional spread of accommodation and experiences to distribute economic benefits
+
+, regulations to minimise leakages. Enforce licensing for tourism businesses. Channel bookings through formal operators registered with commercial banks. Tax holiday schemes should prioritise investments that maximise local value retention, staff training, local sourcing, domestic ownership.
+
+, stop using currency depreciation as a competitive strategy. A weak rupee makes Sri Lanka “affordable” but destroys margins and transfers wealth outward. Real competitiveness comes from differentiated experiences, quality standards, and strategic positioning, not from being the “cheapest” option.
+
+Let’s make the cost explicit. If Sri Lanka maintained 2018 per-visitor spending levels ($1,877) on 2025 arrivals (2.36 million), revenue would be approximately $4.43 billion, not $3.22 billion. The difference: $1.21 billion in lost revenue, value that should have been generated but wasn’t.
+
+This is the cost of volume-chasing without yield discipline. Every year we continue this model; we lock in value destruction.
+
+Why do policymakers fixate on arrivals when revenue tells the real story?
+
+Because arrivals are politically legible. A minister can tout “record tourist numbers” in a press conference. Revenue per visitor requires explanation, context, and uncomfortable questions about policy choices.
+
+Arrivals are easy to manipulate upward, visa-free entry, aggressive discounting, currency depreciation. Yield is hard, it requires product development, market curation, infrastructure investment, regulatory enforcement.
+
+Arrivals theater is cheaper and quicker than strategic transformation. But this is governance failure at its most fundamental. Tourism’s contribution to economic recovery is not determined by how many planes land but by how much wealth each visitor creates and retains domestically. Every dollar spent celebrating arrival records while ignoring yield collapse is a waste of dollars.
+
+Sri Lanka’s tourism “boom” is real in volume, but it is a value bust. We are attracting more tourists and generating less wealth. The industry is working harder for lower returns. Margins are compressed, staff are paid less in real terms, infrastructure decays, and the net contribution to national recovery underperforms potential.
+
+This is not sustainable. Eventually, operators will exit. Quality will degrade further. The “affordable” positioning will shift to “cheap and deteriorating.” The volume will follow yield down.
+
+We have two choices: acknowledge the yield crisis and reorient policy toward value creation or continue arrivals theater until the hollowness becomes undeniable.
+
+The money has spoken. The question is whether anyone in power is listening.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

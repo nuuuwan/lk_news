@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-12 03:50:59",
-  "n_docs": 101574,
+  "time_updated": "2026-02-12 06:14:00",
+  "n_docs": 101594,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 101574,
+  "n_docs_with_text": 101594,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-02-12",
-  "dataset_size": 1549016461,
+  "dataset_size": 1549128129,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-12-dailyftlk-3bc1b750",
-    "num": "dailyftlk-3bc1b750",
+    "doc_id": "2026-02-12-dailyftlk-16929ac1",
+    "num": "dailyftlk-16929ac1",
     "date_str": "2026-02-12",
-    "description": "Tamil Eelam movement revives amidst AKD Presidency",
-    "url_metadata": "https://www.ft.lk/columns/Tamil-Eelam-movement-revives-amidst-AKD-Presidency/4-788230",
+    "description": "Changes to top positions in State institutions soon: Cabinet Spokesman",
+    "url_metadata": "https://www.ft.lk/news/Changes-to-top-positions-in-State-institutions-soon-Cabinet-Spokesman/56-788254",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1770845271.0
+    "time_ut": 1770850219.0
   }
 }
