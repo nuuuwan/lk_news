@@ -60213,6 +60213,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-13-dailyftlk-8cc34c23",
+    "num": "dailyftlk-8cc34c23",
+    "date_str": "2026-02-13",
+    "description": "Wuthering heights of Valentine\u2019s Day",
+    "url_metadata": "https://www.ft.lk/opinion/Wuthering-heights-of-Valentine-s-Day/14-788309",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771003948.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-13-virakesarilk-32d2bc8a",
     "num": "virakesarilk-32d2bc8a",
     "date_str": "2026-02-13",
@@ -60221,5 +60232,115 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1771004160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-13-dailyftlk-fcc82ebd",
+    "num": "dailyftlk-fcc82ebd",
+    "date_str": "2026-02-13",
+    "description": "The digital reckoning",
+    "url_metadata": "https://www.ft.lk/columns/The-digital-reckoning/4-788310",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771004181.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-13-dailyftlk-df1aa52f",
+    "num": "dailyftlk-df1aa52f",
+    "date_str": "2026-02-13",
+    "description": "Is Sri Lanka entering a \u2018disaster inequality trap\u2019 after Cyclone Ditwah?",
+    "url_metadata": "https://www.ft.lk/columns/Is-Sri-Lanka-entering-a-disaster-inequality-trap-after-Cyclone-Ditwah/4-788311",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771004427.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-13-dailyftlk-e62f7435",
+    "num": "dailyftlk-e62f7435",
+    "date_str": "2026-02-13",
+    "description": "Exterminators PLC launches AI-powered \u2018Report Factory\u2019",
+    "url_metadata": "https://www.ft.lk/business/Exterminators-PLC-launches-AI-powered-Report-Factory/34-788314",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771004723.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-13-dailyftlk-479c8cb2",
+    "num": "dailyftlk-479c8cb2",
+    "date_str": "2026-02-13",
+    "description": "Russel\u2019s celebrates excellence at annual awards",
+    "url_metadata": "https://www.ft.lk/business/Russel-s-celebrates-excellence-at-annual-awards/34-788315",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771004795.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-13-dailyftlk-14188332",
+    "num": "dailyftlk-14188332",
+    "date_str": "2026-02-13",
+    "description": "APB Convention Gold Sponsors",
+    "url_metadata": "https://www.ft.lk/business/APB-Convention-Gold-Sponsors/34-788316",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771004904.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-13-dailyftlk-2df7e216",
+    "num": "dailyftlk-2df7e216",
+    "date_str": "2026-02-13",
+    "description": "Boat & Marine Show Sri Lanka ninth edition concludes on high note",
+    "url_metadata": "https://www.ft.lk/business/Boat-Marine-Show-Sri-Lanka-ninth-edition-concludes-on-high-note/34-788317",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771005007.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-13-dailyftlk-587361dd",
+    "num": "dailyftlk-587361dd",
+    "date_str": "2026-02-13",
+    "description": "Ceylinco Life\u2019s Pranama Scholarships reach 25-year milestone",
+    "url_metadata": "https://www.ft.lk/business/Ceylinco-Life-s-Pranama-Scholarships-reach-25-year-milestone/34-788318",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771005045.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-13-dailyftlk-3fe3d32c",
+    "num": "dailyftlk-3fe3d32c",
+    "date_str": "2026-02-13",
+    "description": "EDB strengthens Sri Lanka\u2013Hong Kong trade relations",
+    "url_metadata": "https://www.ft.lk/business/EDB-strengthens-Sri-LankaHong-Kong-trade-relations/34-788319",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771005122.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-14-dailyftlk-c649ecf5",
+    "num": "dailyftlk-c649ecf5",
+    "date_str": "2026-02-14",
+    "description": "BASL condemns killing of lawyer and spouse, calls for swift probe",
+    "url_metadata": "https://www.ft.lk/news/BASL-condemns-killing-of-lawyer-and-spouse-calls-for-swift-probe/56-788334",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771008058.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-14-dailyftlk-5454bf1d",
+    "num": "dailyftlk-5454bf1d",
+    "date_str": "2026-02-14",
+    "description": "EU-Sri Lanka 27th Joint Commission Meeting takes place in Colombo",
+    "url_metadata": "https://www.ft.lk/news/EU-Sri-Lanka-27th-Joint-Commission-Meeting-takes-place-in-Colombo/56-788335",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771008092.0
   }
 ]
