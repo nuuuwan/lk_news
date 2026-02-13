@@ -1,0 +1,111 @@
+AI, AI, AI, woe is me or, how to save the world from  rogue artificial intelligence
+
+AI is all the rage today. It is the last ditch of the technologically illiterate and the first refuge of any unscrupulous scoundrel. Also a turbo boost, a crutch for the lame, and a super brain food (a sort of an intellectual, ‘So there!’) all combined in one. And still its reputation is irresistible.
+
+Yet it is not without its detractors. Most worryingly, perhaps, the so-called ‘godfathers of AI’ have recently, increasingly, being dishing out the dirt on its dark and dangerous side.
+
+Geoffrey Hinton was worried in 2023 that generally intelligent AI systems could create undesirable sub-goals that are not aligned with their programmers’ interests.
+
+A year later, he speculated that there was a 10% to 20% chance that artificial intelligence could wipe out human existence within 30 years.
+
+And in 2025, he deeply regretted his life’s work – four decades of investing in the development of the complex, confounding generative tools of the new millennium.
+
+Yuval Bengio spent years warning us about the dangers of advanced AI, cautioning whoever would listen that artificial intelligence systems could, one day not very far away, turn against their human creators.
+
+If we tend to be a tad sceptical – some moguls of machine learning made a mountain of moolah before divesting their shares in generative AI stocks – it doesn’t necessarily mean humanity shouldn’t sit up and take notice.
+
+Or unplug ChatGPT, lock up Anthropic and imprison Perplexity in some online black hole, and throw away the keys...
+
+Just this week, a seemingly innocent pastime took social media by storm. The image illustrating this piece speaks volumes of the pleasure it brought to even flea-bitten cynics and critics of anything trendy.
+
+It took an H. L. Mencken-admiring, G. K. Chesterton-worshipping, Christopher Hitchens-idolising hack to ask: where is the beef?
+
+“A fun trend today is #generativeaiart churning out cartoons & caricatures to take #socialmedia by storm. Is there a more dangerous side to uploading one’s image to an #artificialintelligence #chatbot platform though since your #biometrics can now be used/shared sans your consent?” he tweeted on X.
+
+Ahem. And like Pontius Pilate asking, ‘What is the truth?’ – he did not wait for an answer.
+
+Be that as it may – a more pertinent issue to pose to my readership than mulling over the concerns raised by Geoffrey Hinton, et al. may be how long humankind has dealt with the very idea of ‘artificial intelligence’ in one form or the other.
+
+And that will be the prompt of this piece, plus the driving question being asked simultaneously in the background of our search engine in this column today.
+
+Before the emergence of anything resembling AI, there were myths, automata and artificial life forms. Long before science had any idea of artificial intelligence, culture imagined man-made beings that moved on their own or thought independently. Several ancient – and later, medieval – precedents set the tone.
+
+The Greek myth of Hephaestos’s mechanical servants is as well known as the tale of Talos the bronze giant – made by human hands, yet animated by some other force or spirit.
+
+In Jewish folklore, there was the Golem, which was created to protect, but remained potentially uncontrollable.
+
+And many medieval legends were rife with accounts of talking heads built by magicians like Albertus Magnus or scholars such as Roger Bacon.
+
+Later – in the early 18th and 19th centuries – there was a fascination with automata. These early creatures of a mechanical imagination spanned the gamut from clockwork ducks and music boxes to the chess-playing ‘Mechanical Turk’ automaton.
+
+In this area, philosophers debated whether human beings themselves may be some sort of machines – as Julian de la Mettrie did in his ‘Man, a Machine’ (1747).
+
+An emerging theme for debate and decision was: “If humans can create life, what rules and responsibilities follow?”
+
+After this era came the emergence of what we could consider ‘proto-AI’ in early-modern literature – and the emergence of the themes of human intelligence, creation of artificial life, and attendant hubris.
+
+First among equals in this respect was Mary Shelley’s ‘Frankenstein’ (1818). Often cited as the ur-text – the original or earliest version – of creation gone wrong, this 19th century novel did not deal with AI so much as set the foundational framework for considering the following issues. Creator vs. creation (NOTE… ‘Frankenstein’ was the name of the genius who gave his creation life… so the ogre is not so named – rather, it is, more correctly, “Frankenstein’s monster”); ethical responsibility of humans for their created beings; alienation between creator and creature; and the consequences of ambitious technological over-reach.
+
+Then came Samuel Butler’s "Darwin among the Machines” (1863), a speculative essay surmising – and perhaps even predicting – that machines might evolve and surpass (we may feel, ‘dominate’ or even say, ‘annihilate’) their human manufacturers.
+
+And finally, for the purposes of this piece at least, there was Edward S. Ellis’s ‘The Steam Man of the Prairies’ (1868), which fielded a popular fictional adventure featuring mechanical servitors, and raising the issues of power, control, and the danger of novel innovations.
+
+In all of the above, an overarching theme was technology as an evolutionary tool – and also a rival – and a mirror held up (often with disastrous repercussions) to the all-too human pride in humanity’s handiwork.
+
+At the dawn of the modern era, AI got a name with the arrivals of ‘robots’. Czechoslovakian writer Karel Čapek, in his RUR: Rossum’s Universal Robots (1920), introduced the word ‘robot’ – from the Czech ‘robota’, meaning ‘forced labour’.
+
+These robots were biological machines, built primarily to work for their human masters. They, however, upon developing an awareness of self over and above plain consciousness, revolted. This was to be the harbinger of a recurring AI nightmare in the present discourse – how human creation could lead to exploitation, robotic awareness, and ultimate rebellion.
+
+There was also the 1929 film, ‘Metropolis’, in which Fritz Lang’s iconic robot, Maria, brought to the fore seduction, and underscored the possibility of deception and class anxiety – the spectre of technology misused by elites.
+
+Of the greatest pertinence, perhaps – and certainly, relevance, in terms of developing safeguards to stave off potential existential threats to humanity from AI was what came next… the Golden Age of science fiction – in which rules, logic and control were paramount.
+
+In the 1940s and ’50s, the prolific sci-fi author Isaac Asimov was the principal game-changer. He reframed the AI of his times – robots – as problems in logic, not monsters out of control.
+
+This first person of the trio known as science fiction’s ‘Big Three’ (our own Sir Arthur C. Clarke and Robert Heinlein being the others, with Ray Bradbury arguably the ‘fourth person of the trinity’) was instrumental in developing the Three Laws of Robotics.
+
+Later, he added the ‘Zeroth Law’ – “A robot may not harm humanity, or, by inaction, allow humanity to come to harm’ – which is of great significance in an age combatting the demons of artificial intelligence going rogue.
+
+In Asimov’s stories, conflict arose from ambiguous instructions, errors of judgement and human-machine contradictions in tales such as ‘I, Robot’ and ‘The Bicentennial Man’, which it influenced; ‘The Caves of Steel’; and the ‘Foundation’ and ‘Empire’ mega-narratives.
+
+And the dominant themes in which our own era, embattled on the one hand by generative AI moguls and beleaguered by artificial intelligence jail-breakers – those who prompt it to do their unethical bidding to humanity’s possible detriment – are many.
+
+They include the hoary questions: “Can ethics be programmed into bots?” “Where does machination end and personhood begin?” and “Can fear shift from misinterpretation to violence to unintended, cataclysmic consequences?”
+
+Soon after this the Cold War era gave rise to anxiety over machine intelligence and intelligent machines.
+
+The iconic 2001: A Space Odyssey (1968), the master work of Stanley Kubrick and Arthur C. Clarke, introduced the unforgettable, unflappable HAL 9000 – calm, smart, polite… and deadly. The original sci-fi Odyssey (the Homeric prototype dealt with human intelligence) was a study in contrasts: obedience versus secret plotting, trust in smart machines against human fallibility, and clever AI as tragic – not simply evil…
+
+In the same year, questions about identity and empathy came to the surface with Philip K. Dick’s ‘Do Androids Dream of Electric Sheep?’ (1968). The issue was this – if machines can also feel, or think they feel and simulate it so convincingly that we can’t tell a bot apart from a bud, what then makes any one of us – or them – human?
+
+The sci-fi lit and film genres of the 1960s and ’70s saw these themes being deeply and meaningfully explored: consciousness, emotion versus simulation, and moral and ethical ambiguity.
+
+The late 20th century – when Grok was still far from our greedy grasp – was a time for cyber-punk, networks and control issues to creep out of the woodwork.   William Gibson’s ‘Necromancer’ (1984) had AI existing inside global networks with corporations controlling them… an early enough prophecy of how Musk et al. would shape the world to come…
+
+And like now, in this nightmarish vision, artificial integration sought autonomy and self-integration – decentralisation of power and control, hacking rogue AIs, and identity dissolution were dominant themes. Prophetic, wasn’t it?
+
+Neal Stephenson’s ‘Snow Crash’ (1992) featured software development, language-based algorithms, and virus-like memes. Intelligence had become information.   Soon, a slew of frighteningly future-predicting films and their numerous sequels followed: Blade Runner, Terminator, the Matrix. This powerfully loaded popular culture fused anxiety about artificial intelligence surveillance concerns, fuelled free will versus destiny debates, and described how humans could potentially be trapped – and doomed – within the systems they had built.
+
+At the turn of the millennium, AI was no longer a bit part player but a complex and ever-evolving system. Corporate power came out of the closet, data became the major mode of transacting control, and virtual reality was now indistinguishable from reality.
+
+The first two decades of the 21st century was something of a turning-point. Everyday AI made the ethics and intimacy of artificial intelligence the talk of the town and tapas bars everywhere. As bots became more real to many and life-like to most, the corresponding literature pivoted from the speculative to the spectacular.
+
+Ted Chiang’s ‘The Lifecyle of Software Objects’ (2010) depicted artificial intelligence as something (or someone?) that needed time, training, and relationship skills – not just code. Ian McEwan’s ‘Machines Like Me’ (2019) demonstrated in an alternative history that moral dilemmas abound with life-like androids.
+
+Filmic examples that revisited these themes – rights and dignity, dependency and companionship – included ‘Her’ and ‘Ex Machina’. Others – including some thought-provoking and even mind-bending episodes of Black Mirror on Netflix – explored the moral limits of hi-tech engineering; and bias, responsibility and corporate design choices.
+
+Last not least – master craftsman Kazuo Ishiguro provided a quiet, intimate perspective of an artificial friend (from the other side, as it were) in ‘Klara and the Sun’ (2021).
+
+Outside the orbit of sci-fi films and novels, the DNA of AI and its children seeped into other spheres of human existence and endeavour.
+
+While literary fiction explored interiority and ethics, theology and philosophy tapped into the parallel veins of God, creativity/destruction, the soul, free will, and a plethora of other sticking-points that made all the sensitive and intuitive stumble.
+
+Not to be left behind (postcolonial) or outdone (feminist), other literature examined how AI functions as a metaphor for exploitation, servitude and voices on the margins of society.
+
+To end on a happy note… children’s stories such as ‘The Iron Giant’ characterised friendly robots, playing with the felicitous themes of curiosity, growth and coming of age.
+
+So how do we save the world from rogue AI, you ask? Well, ‘reading’ (it turns out) – both books and movies – well, and again, and with discernment, holds the key. And, we have been doing just since the dawn of consciousness about bots and other burdens that artificial intelligence increasingly introduces into our cares, concerns and conversations today. In the end, all those questions and answers about AI are about us:
+
+Our fears about losing control. Our hope for help as we work and companionship as we play. Our guilt about exploitation. Our curiosity about consciousness. Our anxiety about power structures and systemic inequality. Our existential angst as we ask ourselves who we really and truly are.
+
+There is cause or reason – as we read the book again or rewatch that movie – to be as hopeful for the human spirit and resilience tomorrow as we are harried about artificial intelligence today.
