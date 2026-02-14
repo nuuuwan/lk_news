@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--14_03:51:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--14_06:14:49-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,845** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,853** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -58,9 +58,9 @@ A collection of lk_news documents.
 - 2026-02-13 | `virakesarilk-4b3823ae` | பயங்கரவாதத்தடைச்சட்டத்தினால் வெகுவாகப் பாதிக்கப்பட்டவர்களே பதிலீடாகப் புதிய சட்டத்தை முன்மொழிந்திருப்பது கவலையளிக்கிறது - அந்தனி ஜேசுதாஸன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-13-virakesarilk-4b3823ae)
 - 2026-02-13 | `tamilmirrorlk-c6d1a379` | துப்பாக்கிச்சூட்டில் உயிரிழந்தவர்கள் குறித்த புதிய செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-13-tamilmirrorlk-c6d1a379)
 - 2026-02-13 | `virakesarilk-d6289bec` | கடுமையாக போராடி கனடாவை வெற்றிகொண்டது ஐக்கிய அரபு இராச்சியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-13-virakesarilk-d6289bec)
-- 2026-02-13 | `virakesarilk-ad59e7e9` | அனைத்து மக்களுக்கும் வலுவான பொருளாதாரத்தை உருவாக்குவதே அரசாங்கத்தின் நோக்கம்; அனைத்து தரப்பினரும் ஒன்றாக கலந்துரையாடி தீர்வை எட்ட வேண்டும் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-13-virakesarilk-ad59e7e9)
-- 2026-02-13 | `adalk-a8008ad8` | තලංගම වෙඩි තැබිමකින් නීතිඥවරයෙක් හා ඔහුගේ බිරිඳ ජීවිතක්ෂයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-13-adalk-a8008ad8)
-- 2026-02-13 | `virakesarilk-4beb53bc` | நாட்டில் நிலவும் தீவிரவாத அச்சுறுத்தல்கள் குறித்து அரசியல்வாதிகள், பாதுகாப்பு துறை அசமந்த போக்குடன் செயற்படுகின்றன - ஞானசார தேரர் விசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-13-virakesarilk-4beb53bc)
+- 2026-02-13 | `islandlk-aef6a029` | AIA Insurance Lanka champions women’s entrepreneurship at WCIC Prathibhabhisheka 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-13-islandlk-aef6a029)
+- 2026-02-13 | `islandlk-4439110c` | Flora Tissues earns prestigious Superbrand status for second time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-13-islandlk-4439110c)
+- 2026-02-13 | `islandlk-54fed0f7` | Sinopec extends Clean Sri Lanka network with new look stations across Anuradhapura | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-13-islandlk-54fed0f7)
 
 ---
 
