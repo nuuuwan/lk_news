@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--14_13:50:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--14_15:48:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**101,873** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**101,874** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-14-tamilmirrorlk-5abd5dc8",
-    "num": "tamilmirrorlk-5abd5dc8",
+    "doc_id": "2026-02-14-tamilmirrorlk-6c1c9570",
+    "num": "tamilmirrorlk-6c1c9570",
     "date_str": "2026-02-14",
-    "description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1 : 14 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0ba9\u0bcd \u0b85\u0bb5\u0b9a\u0bb0 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf-\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-14-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0baa\u0bbf\u0ba9\u0bcd-\u0b85\u0bb5\u0b9a\u0bb0-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-372475",
+    "description": "\u0ba4\u0bbe\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bbe\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8 \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bbf\u0ba9\u0bcd-\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bbe\u0bb2\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1-\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/175-372478",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1771049355.0
+    "time_ut": 1771063481.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-14 | `tamilmirrorlk-6c1c9570` | தாயின் கள்ளகாதலனால் தாக்கப்பட்டு குழந்தை மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-14-tamilmirrorlk-6c1c9570)
 - 2026-02-14 | `tamilmirrorlk-5abd5dc8` | சட்டத்தரணி மீது துப்பாக்கிச் சூடு : 14 ஆண்டுகளின் பின் அவசர கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-14-tamilmirrorlk-5abd5dc8)
 - 2026-02-14 | `virakesarilk-5855408a` | மடகாஸ்கரை தாக்கிய ‘கெசானி’ சூறாவளி : 40 பேர் உயிரிழப்பு, 16,000க்கும் மேற்பட்டோர் இடம்பெயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-14-virakesarilk-5855408a)
 - 2026-02-14 | `virakesarilk-9712008d` | நாட்டில் நேற்று இடம்பெற்ற வெவ்வேறு விபத்துகளில் நால்வர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-14-virakesarilk-9712008d)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-02-14 | `colombotelegraphcom-4e493053` | With Love To Attorney General Parinda Ranasinghe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-14-colombotelegraphcom-4e493053)
 - 2026-02-14 | `dbsjeyarajcom-9caaa11b` | Tissa Vitarana, leader of Sri Lanka’s leftist Lanka Sama Samaja Party (LSSP)  and Former Cabinet  Minister Dies In Colombo at the age of 91. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-14-dbsjeyarajcom-9caaa11b)
 - 2026-02-14 | `dailyftlk-5454bf1d` | EU-Sri Lanka 27th Joint Commission Meeting takes place in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-14-dailyftlk-5454bf1d)
-- 2026-02-14 | `dailyftlk-c649ecf5` | BASL condemns killing of lawyer and spouse, calls for swift probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-14-dailyftlk-c649ecf5)
 
 ---
 
