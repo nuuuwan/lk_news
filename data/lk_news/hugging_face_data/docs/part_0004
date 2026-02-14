@@ -60202,6 +60202,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-13-adalk-c4c0cebf",
+    "num": "adalk-c4c0cebf",
+    "date_str": "2026-02-13",
+    "description": "\u0dad\u0dab\u0db8\u0dbd\u0dca\u0dc0\u0dd2\u0dbd\u0dd2\u0db1\u0dca \u0d9c\u0d82\u0da2\u0dcf \u0dad\u0dd4\u0dbb\u0db1\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8 \u0dc4\u0dd9\u0da7 \u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dab\u0db8\u0dbd\u0dca\u0dc0\u0dd2\u0dbd\u0dd2\u0db1\u0dca-\u0d9c\u0d82\u0da2\u0dcf-\u0dad\u0dd4\u0dbb\u0db1\u0dca-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8-\u0dc4\u0dd9\u0da7-\u0d87\u0dbb\u0db9\u0dd9\u0dba\u0dd2/11-421234",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1770991746.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-13-virakesarilk-ad59e7e9",
     "num": "virakesarilk-ad59e7e9",
     "date_str": "2026-02-13",
@@ -60441,5 +60452,82 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1771008092.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-14-colombotelegraphcom-4e493053",
+    "num": "colombotelegraphcom-4e493053",
+    "date_str": "2026-02-14",
+    "description": "With Love To Attorney General Parinda Ranasinghe",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/with-love-to-attorney-general-parinda-ranasinghe/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1771014069.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-14-colombotelegraphcom-3d9ac9c1",
+    "num": "colombotelegraphcom-3d9ac9c1",
+    "date_str": "2026-02-14",
+    "description": "An Open Letter To Comrade Anura",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/an-open-letter-to-comrade-anura/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1771016148.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-14-colombotelegraphcom-80370aaa",
+    "num": "colombotelegraphcom-80370aaa",
+    "date_str": "2026-02-14",
+    "description": "Reform Is impractical: The MMDA Must Be Repealed",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/reform-is-impractical-the-mmda-must-be-repealed/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1771016672.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-14-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
+    "date_str": "2026-02-14",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/238613",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1771030020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-14-tamilmirrorlk-c3845124",
+    "num": "tamilmirrorlk-c3845124",
+    "date_str": "2026-02-14",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0bae\u0bb4\u0bc8/175-372468",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1771037445.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-14-tamilmirrorlk-a3e74310",
+    "num": "tamilmirrorlk-a3e74310",
+    "date_str": "2026-02-14",
+    "description": "\u0b95\u0bb0\u0bc8\u0bb5\u0bb2\u0bc8 \u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb0\u0bc8\u0bb5\u0bb2\u0bc8-\u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd/175-372469",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1771037891.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-14-virakesarilk-e96d8633",
+    "num": "virakesarilk-e96d8633",
+    "date_str": "2026-02-14",
+    "description": "\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bbe\u0ba9 \u0ba8\u0baa\u0bb0\u0bcd 10 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f\u0bae\u0bc8 \u0b85\u0bae\u0bcd\u0baa\u0bb2\u0bae\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/238615",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1771038000.0
   }
 ]
