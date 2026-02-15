@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--16_01:47:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--16_03:46:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**102,024** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**102,059** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-15-tamilmirrorlk-124a5d84",
-    "num": "tamilmirrorlk-124a5d84",
-    "date_str": "2026-02-15",
-    "description": "\u0b87 \u2013 20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf \u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u2013 8 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87-20-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bc8-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf-\u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bb0\u0bcd-8-\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe/44-372557",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1771175525.0
+    "doc_id": "2026-02-16-dailyftlk-6198a440",
+    "num": "dailyftlk-6198a440",
+    "date_str": "2026-02-16",
+    "description": "BASL demands urgent action over lawyer killing, boycotts courts today",
+    "url_metadata": "https://www.ft.lk/news/BASL-demands-urgent-action-over-lawyer-killing-boycotts-courts-today/56-788394",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771190978.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-16 | `dailyftlk-6198a440` | BASL demands urgent action over lawyer killing, boycotts courts today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-6198a440)
+- 2026-02-16 | `dailyftlk-c35bb1e6` | Key insights to “Building Back Better” after Cyclone Ditwah at OPA forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-c35bb1e6)
+- 2026-02-16 | `dailyftlk-938a6e25` | Justice Minister inspects new Special High Courts to fast-track anti-corruption and Easter Sunday cases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-938a6e25)
+- 2026-02-16 | `dailyftlk-e35cb6eb` | California Temple donates to ‘Rebuilding Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-e35cb6eb)
+- 2026-02-16 | `dailyftlk-7b1bb8eb` | Bangladesh nationalists sweep first post-Gen Z uprising poll | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-7b1bb8eb)
+- 2026-02-16 | `dailyftlk-e44a1b5c` | Nominations approved for four Heads of Mission | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-e44a1b5c)
+- 2026-02-16 | `dailyftlk-b4515a3e` | GCF, SLEA announce collaboration for 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-b4515a3e)
+- 2026-02-16 | `dailyftlk-8522c42a` | Sri Lanka Investment Forum 2026 kicks off in March | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-8522c42a)
+- 2026-02-16 | `dailyftlk-a60e00e0` | Kapruka delivers 138% YoY improvement in operating performance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-a60e00e0)
+- 2026-02-16 | `dailyftlk-b9b5e6a6` | India AI Impact Summit: Global South’s AI moment and a shared future with Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-b9b5e6a6)
+- 2026-02-16 | `dailyftlk-12508041` | Macktiles launches in Australia, ventures into high-spec global market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-12508041)
+- 2026-02-16 | `dailyftlk-6a04fcd8` | Chinthaka Jayaweera joins Carson and related companies’ Boards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-6a04fcd8)
+- 2026-02-16 | `dailyftlk-55f30de7` | Digital banking hype: More to be done to make it inclusive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-55f30de7)
+- 2026-02-16 | `dailyftlk-e2646fbf` | Lankem Ceylon, Axalta Coating Systems strengthen partnership in high-performance industrial coatings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-e2646fbf)
+- 2026-02-16 | `dailyftlk-c9a30e06` | 35 years after displacement of Northern Muslims, a new generation takes steps towards reconciliation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-c9a30e06)
+- 2026-02-16 | `dailyftlk-82cb750b` | Legislators’ pensions: Denying a legitimate expectation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-82cb750b)
+- 2026-02-15 | `virakesarilk-17d6e965` | பாகிஸ்தானுடனான ரி20 உலகக் கிண்ண வரலாற்றில் இந்தியாவின் ஆதிக்கம் தொடர்கிறது; இன்றைய போட்டியில் 61 ஓட்டங்களால் வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-17d6e965)
+- 2026-02-15 | `virakesarilk-1bbd62a5` | மின்கட்டணத்தை 13.56 சதவீதத்தால் அதிகரிக்க யோசனை முன்வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-1bbd62a5)
 - 2026-02-15 | `tamilmirrorlk-124a5d84` | இ – 20 உலகக் கிண்ணம்: பாகிஸ்தானை வீழ்த்தி சுப்பர் – 8 சுற்றில் இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-tamilmirrorlk-124a5d84)
-- 2026-02-15 | `tamilmirrorlk-1309951d` | இந்திய – பாகிஸ்தான் போட்டியில் ஜனாதிபதி அநுர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-tamilmirrorlk-1309951d)
-- 2026-02-15 | `tamilmirrorlk-f1ee7243` | இ – 20 உலகக் கிண்ணம்: பாகிஸ்தானுக்கு வெற்றியிலக்கு 176 ஓட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-tamilmirrorlk-f1ee7243)
-- 2026-02-15 | `adalk-63ac3b95` | අයි.සී.සී. සභාපති එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-adalk-63ac3b95)
-- 2026-02-15 | `tamilmirrorlk-490a0337` | இ – 20 உலகக் கிண்ணம்: முதலில் துடுப்பெடுத்தாடவுள்ள இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-tamilmirrorlk-490a0337)
-- 2026-02-15 | `adalk-a80cb14a` | නීතිඥයෝ හෙට කබාය නොඅඳිති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-adalk-a80cb14a)
-- 2026-02-15 | `tamilmirrorlk-3a70b02a` | ஐ.சி.சி தலைவர் ஜே ஷா இலங்கைக்கு வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-tamilmirrorlk-3a70b02a)
-- 2026-02-15 | `tamilmirrorlk-da73ddd7` | மகா சிவராத்திரி நிகழ்வில் கலந்து கொண்ட பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-tamilmirrorlk-da73ddd7)
-- 2026-02-15 | `virakesarilk-9a453f28` | ரஷ்ய எதிர்க்கட்சித் தலைவர் நவால்னி விஷம் கொடுத்துக் கொலை ; பிரித்தானியா உள்ளிட்ட ஐரோப்பிய நாடுகள் பகிரங்கக் குற்றச்சாட்டு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-9a453f28)
-- 2026-02-15 | `adalk-7db0710e` | නීතිඥවරයා හා බිරිඳ ඝාතනයට පැමිණි මෝටර් රථය ගැන තොරතුරු රැසක් හෙළිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-adalk-7db0710e)
-- 2026-02-15 | `virakesarilk-d61f04ca` | பயங்கரவாதத் தடைச்சட்டம் : அரசாங்கம் நீக்காவிடின் மக்கள் நீக்கும்படி செய்வர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-d61f04ca)
-- 2026-02-15 | `virakesarilk-e861d3a0` | ஆர்ப்பாட்டங்களால் சூடாகும் குளிர்கால ஒலிம்பிக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-e861d3a0)
-- 2026-02-15 | `virakesarilk-a8b7c9d5` | வெடுக்குநாறி ஆதி லிங்கேஸ்வரர் ஆலய சிவராத்திரி வழிபாடுகளுக்கு சைவப் பெருமக்கள் அணிதிரளவேண்டும் - ரவிகரன் எம்.பி அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-a8b7c9d5)
-- 2026-02-15 | `virakesarilk-570eca51` | மார்ச் 13, 14, 15 ஆம் திகதிகளில் தமிழீழ விடுதலைக் கழகத்தின் 11 ஆவது மாநாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-570eca51)
-- 2026-02-15 | `islandlk-0f170d5a` | Monks’ march, in America and Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-islandlk-0f170d5a)
-- 2026-02-15 | `virakesarilk-7d285db9` | புரட்சி பரிசளித்த அதிகாரம்: வாரிசு அரசியலின் மீள் வருகையா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-7d285db9)
-- 2026-02-15 | `virakesarilk-14f256ac` | அரசாங்கத்தின் மீதான நேர்மறை எண்ணம் அதிகரிப்பு - ஆய்வில் தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-14f256ac)
-- 2026-02-15 | `virakesarilk-aa04efed` | றஜோவா: காத்திருக்கும் இனப்படுகொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-aa04efed)
-- 2026-02-15 | `virakesarilk-874d7985` | சமஷ்டி அரசியலமைப்பு குறித்து ஆராயும் கூட்டம் யாழில் இன்று ; தமிழரசுக்கட்சி பங்கேற்காது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-874d7985)
-- 2026-02-15 | `virakesarilk-74395280` | அரபு நாடு­களில் குவிக்­கப்­பட்­டுள்ள அமெ­ரிக்க இரா­ணுவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-74395280)
+- 2026-02-15 | `virakesarilk-02f3c043` | மூன்றாம் நிலை பராமரிப்பு வைத்தியசாலைகள்மத்திய அரசாங்கத்தின் கீழ் கொண்டுவரப்படும் - அமைச்சர் நலிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-02f3c043)
 
 ---
 
