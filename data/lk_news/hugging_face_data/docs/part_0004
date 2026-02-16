@@ -58915,6 +58915,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-12-islandlk-38a504de",
+    "num": "islandlk-38a504de",
+    "date_str": "2026-02-12",
+    "description": "A welcome judgement",
+    "url_metadata": "http://island.lk/a-welcome-judgement/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1770908520.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-12-islandlk-8ef65692",
     "num": "islandlk-8ef65692",
     "date_str": "2026-02-12",
@@ -60906,6 +60917,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-14-islandlk-25cf8d5e",
+    "num": "islandlk-25cf8d5e",
+    "date_str": "2026-02-14",
+    "description": "Reconciliation: Grand Hopes or Simple Steps",
+    "url_metadata": "http://island.lk/reconciliation-grand-hopes-or-simple-steps/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771062600.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-14-virakesarilk-8152acd9",
     "num": "virakesarilk-8152acd9",
     "date_str": "2026-02-14",
@@ -60914,6 +60936,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1771062720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-14-islandlk-67940148",
+    "num": "islandlk-67940148",
+    "date_str": "2026-02-14",
+    "description": "Rebuilding Sri Lanka\u2019s Farming After Cyclone Ditwah: A Reform Agenda, Not a Repair Job",
+    "url_metadata": "http://island.lk/rebuilding-sri-lankas-farming-after-cyclone-ditwah-a-reform-agenda-not-a-repair-job/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771062780.0
   },
   {
     "doc_type": "lk_news",
@@ -60980,6 +61013,17 @@ ews",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1771063800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-14-islandlk-d7910e2a",
+    "num": "islandlk-d7910e2a",
+    "date_str": "2026-02-14",
+    "description": "The Rise of Takaichi",
+    "url_metadata": "http://island.lk/the-rise-of-takaichi/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771064040.0
   },
   {
     "doc_type": "lk_news",
@@ -61398,6 +61442,28 @@ ews",
     "lang": "en",
     "newspaper_id": "dbsjeyarajcom",
     "time_ut": 1771102320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-15-dbsjeyarajcom-c35180f8",
+    "num": "dbsjeyarajcom-c35180f8",
+    "date_str": "2026-02-15",
+    "description": "Senior political figures of the current regime urged  crowds that had already overrun the Presidential Secretariat, President\u2019s House, and Prime Minister\u2019s Office to march on Parliament and \u201cfinish the job\u201d.",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87050",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1771102320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-15-dbsjeyarajcom-f0d6101b",
+    "num": "dbsjeyarajcom-f0d6101b",
+    "date_str": "2026-02-15",
+    "description": "Tamil-speaking citizens face systemic exclusion in accessing State Services due to Chronic Shortage of  Profcient Tamil Translators:Trilingual policy exists on paper, but not in practice",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87048",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1771106580.0
   },
   {
     "doc_type": "lk_news",
@@ -62413,6 +62479,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-15-islandlk-5795c609",
+    "num": "islandlk-5795c609",
+    "date_str": "2026-02-15",
+    "description": "Sun Siyam Group promotes Deepak Booneady to GCEO",
+    "url_metadata": "http://island.lk/sun-siyam-group-promotes-deepak-booneady-to-gceo/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771160820.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-15-tamilmirrorlk-490a0337",
     "num": "tamilmirrorlk-490a0337",
     "date_str": "2026-02-15",
@@ -62443,6 +62520,72 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1771169033.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-15-islandlk-ee519994",
+    "num": "islandlk-ee519994",
+    "date_str": "2026-02-15",
+    "description": "Megha Nadha unveils \u2018new concept\u2019 for live music in Sri Lanka",
+    "url_metadata": "http://island.lk/megha-nadha-unveils-new-concept-for-live-music-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771170780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-15-islandlk-e3f21446",
+    "num": "islandlk-e3f21446",
+    "date_str": "2026-02-15",
+    "description": "Mogo Studios unveils trailer of Sri Lanka\u2019s first animated feature for global release",
+    "url_metadata": "http://island.lk/mogo-studios-unveils-trailer-of-sri-lankas-first-animated-feature-for-global-release/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771170840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-15-islandlk-6e26a5ec",
+    "num": "islandlk-6e26a5ec",
+    "date_str": "2026-02-15",
+    "description": "ZKTOR: A sovereign alternative enters Sri Lanka\u2019s digital space",
+    "url_metadata": "http://island.lk/zktor-a-sovereign-alternative-enters-sri-lankas-digital-space/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771171080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-15-islandlk-704bafb7",
+    "num": "islandlk-704bafb7",
+    "date_str": "2026-02-15",
+    "description": "Lanka Hospitals makes history with third consecutive Gold at TAGS Awards",
+    "url_metadata": "http://island.lk/lanka-hospitals-makes-history-with-third-consecutive-gold-at-tags-awards/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771171080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-15-islandlk-a1e1cbe4",
+    "num": "islandlk-a1e1cbe4",
+    "date_str": "2026-02-15",
+    "description": "Bubbles & Beyond wins Golden Business Excellence Award 2025",
+    "url_metadata": "http://island.lk/bubbles-beyond-wins-golden-business-excellence-award-2025/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771171080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-15-islandlk-d543b6b4",
+    "num": "islandlk-d543b6b4",
+    "date_str": "2026-02-15",
+    "description": "Petro Packaging earns international food grade certification",
+    "url_metadata": "http://island.lk/petro-packaging-earns-international-food-grade-certification/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771171080.0
   },
   {
     "doc_type": "lk_news",
@@ -62707,5 +62850,71 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1771190978.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-16-virakesarilk-86e6ff4e",
+    "num": "virakesarilk-86e6ff4e",
+    "date_str": "2026-02-16",
+    "description": "\u0b85\u0ba4\u0bbf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf \u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8: \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf \u2013 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/238745",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1771194300.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-16-virakesarilk-4b535873",
+    "num": "virakesarilk-4b535873",
+    "date_str": "2026-02-16",
+    "description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf \u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0b95\u0bb3\u0bc8 \u0bae\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 - \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/238746",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1771196040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-16-virakesarilk-2e1bffcc",
+    "num": "virakesarilk-2e1bffcc",
+    "date_str": "2026-02-16",
+    "description": "\u2018\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd (\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd)\u2019 \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0bae\u0bc1\u0bb4\u0bc1\u0ba8\u0bc7\u0bb0 \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/238747",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1771196400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-16-virakesarilk-58720757",
+    "num": "virakesarilk-58720757",
+    "date_str": "2026-02-16",
+    "description": "\u0baa\u0baf\u0b99\u0bcd\u0b95\u0bb0\u0bb5\u0bbe\u0ba4 \u0ba4\u0b9f\u0bc8\u0b9a\u0bcd\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd: \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0bae\u0bc0\u0bb1\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bbe \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf? - \u0bae\u0ba9\u0bcb \u0b95\u0ba3\u0bc7\u0b9a\u0ba9\u0bcd \u0bb5\u0bbf\u0b9a\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/238748",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1771196640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-16-virakesarilk-5a315172",
+    "num": "virakesarilk-5a315172",
+    "date_str": "2026-02-16",
+    "description": "\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb2 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 -\u00a0\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b95\u0b9f\u0bcd\u0b9f\u0b9f \u0b86\u0bb0\u0bbe\u0baf\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/238749",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1771196940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-16-virakesarilk-72d22bc8",
+    "num": "virakesarilk-72d22bc8",
+    "date_str": "2026-02-16",
+    "description": "9\u0b86\u0bb5\u0ba4\u0bc1 \u0b85\u0bae\u0bb0\u0bcd\u0bb5\u0bc1 \u0b95\u0ba3\u0bcd\u0b9f \u0bb9\u0bc8\u0b95\u0bcd\u0b95\u0bc2 \u0b95\u0bb5\u0bbf\u0baf\u0bb0\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/238750",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1771198020.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--16_03:46:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--16_06:13:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**102,059** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**102,078** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-16-dailyftlk-6198a440",
-    "num": "dailyftlk-6198a440",
+    "doc_id": "2026-02-16-virakesarilk-72d22bc8",
+    "num": "virakesarilk-72d22bc8",
     "date_str": "2026-02-16",
-    "description": "BASL demands urgent action over lawyer killing, boycotts courts today",
-    "url_metadata": "https://www.ft.lk/news/BASL-demands-urgent-action-over-lawyer-killing-boycotts-courts-today/56-788394",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1771190978.0
+    "description": "9\u0b86\u0bb5\u0ba4\u0bc1 \u0b85\u0bae\u0bb0\u0bcd\u0bb5\u0bc1 \u0b95\u0ba3\u0bcd\u0b9f \u0bb9\u0bc8\u0b95\u0bcd\u0b95\u0bc2 \u0b95\u0bb5\u0bbf\u0baf\u0bb0\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/238750",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1771198020.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-16 | `virakesarilk-72d22bc8` | 9ஆவது அமர்வு கண்ட ஹைக்கூ கவியரங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-72d22bc8)
+- 2026-02-16 | `virakesarilk-5a315172` | மலையகத்தில் சில பகுதிகளுக்கு மண்சரிவு எச்சரிக்கை - தேசிய கட்டட ஆராய்ச்சி நிறுவகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-5a315172)
+- 2026-02-16 | `virakesarilk-58720757` | பயங்கரவாத தடைச்சட்டம்: வாக்குறுதிகளை மீறிவிட்டாரா ஜனாதிபதி? - மனோ கணேசன் விசனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-58720757)
+- 2026-02-16 | `virakesarilk-2e1bffcc` | ‘பாராளுமன்ற ஓய்வூதியம் (நீக்குதல்)’ சட்டமூலம் செவ்வாய்க்கிழமை முழுநேர விவாதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-2e1bffcc)
+- 2026-02-16 | `virakesarilk-4b535873` | சட்டத்தரணி படுகொலை மற்றும் உயிர்த்த ஞாயிறு வழக்கில் அரசாங்கம் உண்மைகளை மறைக்கப் பார்க்கிறது - மக்கள் போராட்ட முன்னணி குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-4b535873)
+- 2026-02-16 | `virakesarilk-86e6ff4e` | அதி பாதுகாப்பு வலயத்தில் சட்டத்தரணி படுகொலை: பொதுமக்கள் பாதுகாப்பு கேள்விக்குறி – சட்டத்தரணிகள் சங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-86e6ff4e)
 - 2026-02-16 | `dailyftlk-6198a440` | BASL demands urgent action over lawyer killing, boycotts courts today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-6198a440)
 - 2026-02-16 | `dailyftlk-c35bb1e6` | Key insights to “Building Back Better” after Cyclone Ditwah at OPA forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-c35bb1e6)
 - 2026-02-16 | `dailyftlk-938a6e25` | Justice Minister inspects new Special High Courts to fast-track anti-corruption and Easter Sunday cases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-938a6e25)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-02-16 | `dailyftlk-6a04fcd8` | Chinthaka Jayaweera joins Carson and related companies’ Boards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-6a04fcd8)
 - 2026-02-16 | `dailyftlk-55f30de7` | Digital banking hype: More to be done to make it inclusive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-55f30de7)
 - 2026-02-16 | `dailyftlk-e2646fbf` | Lankem Ceylon, Axalta Coating Systems strengthen partnership in high-performance industrial coatings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-e2646fbf)
-- 2026-02-16 | `dailyftlk-c9a30e06` | 35 years after displacement of Northern Muslims, a new generation takes steps towards reconciliation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-c9a30e06)
-- 2026-02-16 | `dailyftlk-82cb750b` | Legislators’ pensions: Denying a legitimate expectation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-dailyftlk-82cb750b)
-- 2026-02-15 | `virakesarilk-17d6e965` | பாகிஸ்தானுடனான ரி20 உலகக் கிண்ண வரலாற்றில் இந்தியாவின் ஆதிக்கம் தொடர்கிறது; இன்றைய போட்டியில் 61 ஓட்டங்களால் வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-17d6e965)
-- 2026-02-15 | `virakesarilk-1bbd62a5` | மின்கட்டணத்தை 13.56 சதவீதத்தால் அதிகரிக்க யோசனை முன்வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-1bbd62a5)
-- 2026-02-15 | `tamilmirrorlk-124a5d84` | இ – 20 உலகக் கிண்ணம்: பாகிஸ்தானை வீழ்த்தி சுப்பர் – 8 சுற்றில் இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-tamilmirrorlk-124a5d84)
-- 2026-02-15 | `virakesarilk-02f3c043` | மூன்றாம் நிலை பராமரிப்பு வைத்தியசாலைகள்மத்திய அரசாங்கத்தின் கீழ் கொண்டுவரப்படும் - அமைச்சர் நலிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-15-virakesarilk-02f3c043)
 
 ---
 
