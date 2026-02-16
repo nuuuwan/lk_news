@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--16_23:55:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--17_01:50:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**102,191** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**102,200** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-16-virakesarilk-4e5914af",
-    "num": "virakesarilk-4e5914af",
-    "date_str": "2026-02-16",
-    "description": "\u0baa\u0bc6\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4 \u0b85\u0baa\u0bbe\u0bb0 \u0b9a\u0ba4\u0bae\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bb0\u0bcd 8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1; \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b9f\u0ba9\u0bcd \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/238839",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1771265460.0
+    "doc_id": "2026-02-17-dailyftlk-bb2c85e6",
+    "num": "dailyftlk-bb2c85e6",
+    "date_str": "2026-02-17",
+    "description": "Reforming the reformists and reforms of education",
+    "url_metadata": "https://www.ft.lk/columns/Reforming-the-reformists-and-reforms-of-education/4-788416",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771272527.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-17 | `dailyftlk-bb2c85e6` | Reforming the reformists and reforms of education | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-bb2c85e6)
+- 2026-02-17 | `tamilmirrorlk-1dae75a4` | ’மீனவர் பிரச்சினையில் தமிழக அரசு நடவடிக்கை எடுக்கவில்லை’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-1dae75a4)
+- 2026-02-17 | `dailyftlk-76523243` | EDB raises exporter awareness on enhancing export opportunities to the UK through DCTS | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-76523243)
+- 2026-02-17 | `dailyftlk-57f75264` | EDB invites potential and SME exporters to strategic workshop on risk management and incoterms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-57f75264)
+- 2026-02-17 | `dailyftlk-b5f618a1` | Financial ghosting: What happens when banks ignore customers after onboarding | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-b5f618a1)
+- 2026-02-17 | `dailyftlk-5d54eaef` | Understanding unit trust “disclaimers” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-5d54eaef)
+- 2026-02-17 | `dailyftlk-58e96027` | Official Olympic flooring provider, Gerflor partners with WIDAC Commercial Interiors to introduce world-class solutions to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-58e96027)
 - 2026-02-16 | `virakesarilk-4e5914af` | பெத்தும் குவித்த அபார சதம் இலங்கையை சுப்பர் 8க்கு அழைத்துச் சென்றது; முதல் சுற்றுடன் அவுஸ்திரேலியா வெளியேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-4e5914af)
 - 2026-02-16 | `virakesarilk-4833e13e` | தேர்தல் சட்ட மீளாய்வு: பாராளுமன்ற விசேட குழு அமைக்க பிரேரணை -  சந்தன அபேரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-4833e13e)
 - 2026-02-16 | `virakesarilk-94aff77e` | யாழில். காணி பிரச்சனையில் ஒருவர் அடித்துக்கொலை - மூவர் தலைமறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-94aff77e)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-02-16 | `tamilmirrorlk-4152b13f` | இ – 20 உலகக் கிண்ணம்: களத்திலிருந்து வெளியேறிய பத்திரண | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-tamilmirrorlk-4152b13f)
 - 2026-02-16 | `tamilmirrorlk-1a5eeaa1` | இ – 20 உலகக் கிண்ணம்: களத்தடுப்பிலீடுபடும் இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-tamilmirrorlk-1a5eeaa1)
 - 2026-02-16 | `virakesarilk-a60c057c` | அவுஸ்திரேலியாவுடனான தீர்மானம் மிக்க போட்டியில் இலங்கை களத்தடுப்பை தெரிவு செய்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-a60c057c)
-- 2026-02-16 | `virakesarilk-53c843a0` | லண்டனில் தீவிரமாக பரவி வரும் தட்டம்மை ; 34 சிறுவர்கள் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-53c843a0)
-- 2026-02-16 | `adalk-d7776036` | මහ කන්නයේ වී සහතික මිල ප්‍රකාශයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-adalk-d7776036)
-- 2026-02-16 | `adalk-405f2e0e` | ලංකාව මුලින්ම පන්දුව අතට ගනියි, කමිල් වෙනුවට කුසල් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-adalk-405f2e0e)
-- 2026-02-16 | `virakesarilk-2cd620f3` | 76 வருடகால சாபத்திற்கு முற்றுப்புள்ளி வைப்போம் : மார்ச் 01இல் வர்க்க அதிகாரத்தை நிலைநாட்டும் முன்னிலை சோசலிசக் கட்சியின் 4வது தேசிய மாநாடு கொழும்பில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-2cd620f3)
-- 2026-02-16 | `virakesarilk-9eafa818` | நடிகர் பிரியன் நடித்திருக்கும் 'வெகுளி' படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-9eafa818)
-- 2026-02-16 | `virakesarilk-28b10cee` | சீதா பயணம் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-28b10cee)
-- 2026-02-16 | `adalk-4b1ad3e0` | අයි.එම්.එෆ්. ප්‍රධානී එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-adalk-4b1ad3e0)
 
 ---
 

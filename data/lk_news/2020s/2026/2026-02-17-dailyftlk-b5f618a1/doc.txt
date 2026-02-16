@@ -1,0 +1,93 @@
+Financial ghosting: What happens when banks ignore customers after onboarding
+
+In the dating world, “ghosting” describes when someone disappears without explanation, leaving the other party confused and disengaged. In banking, a similar phenomenon occurs more often than we acknowledge: financial ghosting.
+
+It happens when banks put tremendous energy into acquiring a customer — through marketing campaigns, promotions, or account-opening incentives — but then fade away once the account is activated. The relationship stalls at the very moment it should be deepening.
+
+The cost of this silent disengagement is far greater than banks realise.
+
+For many banks, onboarding is treated as a victory lap. Once the paperwork is signed, the account is opened, and a welcome email is sent, the customer is considered “won.” At best, there may be one polite follow-up call — and then silence. The relationship is assumed to be self-sustaining.
+
+But customers don’t see onboarding as an endpoint. To them, it’s the beginning of trust-building. They expect continuous engagement — not daily marketing spam, but thoughtful, relevant touchpoints that help them make smarter financial decisions. When this doesn’t happen, disengagement sets in quietly.
+
+Importantly, customers rarely close accounts immediately. Instead, they begin a slow withdrawal of trust and activity:
+
+The account may still exist on the books, but it has become what insiders call a “silent shell.” The bank carries the cost of maintaining it, but the value has already shifted away.
+
+Research supports this pattern. A McKinsey study (2022) found that clients who received no meaningful engagement in the first 90 days after opening an account were 30–40% less likely to consolidate their balances with that institution. That means they may keep the account, but their deposits, mortgages, or investments go somewhere else. In effect, ghosting at the very start sets the tone for a lifetime of missed opportunities.
+
+In Sri Lanka, salary account campaigns were highly successful at bringing in new professionals. Yet without sustained engagement, many of those accounts became dormant within a year, while competitors captured the cross-sell.
+
+In Canada, I have seen newcomers open accounts with multiple banks during their first few months. The one that stayed in touch — offering guidance on credit building, home ownership, or even simple savings strategies — inevitably became their primary financial partner, while the others faded into irrelevance.
+
+The message is clear: onboarding is not a finish line; it’s the opening chapter. If banks fail to nurture the relationship in those crucial first months, they plant the seeds of silent attrition.
+
+Financial ghosting is not limited to one country — it’s a challenge across markets, from emerging economies to mature banking systems. While the specifics differ, the underlying problem is universal: banks focus on acquisition, not relationship-building.
+
+In many emerging markets, including Sri Lanka, India, and parts of Southeast Asia, the pre-crisis or pre-digital banking model emphasised aggressive account acquisition. Salary accounts, remittance accounts, and deposit campaigns were marketed heavily, but follow-up engagement was often sporadic. Professionals frequently maintained multiple accounts across banks, using only one actively. Banks bore the cost of maintaining these relationships without ever unlocking their true potential.
+
+Even in highly developed markets like Canada, the UK, and Australia, ghosting persists. Newcomers or young professionals open their first chequing or current accounts, receive a credit card, and then encounter minimal proactive guidance. By the time banks reach out, clients may have already shifted significant financial activity to fintechs, digital challengers, or alternative providers that engage continuously from day one.
+
+In my experience working with newcomers and mid-income professionals in Canada, I’ve met clients with four or five accounts across major banks, yet they “really used” only one — the one where an advisor took time to explain credit, investment basics, or mortgage pathways. The others existed only on paper. Similar patterns can be seen globally: in the UK, Barclays and HSBC report dormant accounts among mass-affluent customers, while in India, urban salaried professionals often maintain multiple accounts but engage actively with only one or two banks that offer guidance beyond products.
+
+The lesson is clear: whether in Colombo, Toronto, London, or Mumbai, acquiring a customer is only the first step. Banks that fail to maintain engagement risk losing their customers’ trust — and the associated deposits, investments, and cross-sell opportunities — to competitors who are more proactive and attentive.
+
+Banks invest heavily in customer acquisition, yet many quietly lose those same clients to financial ghosting. The tragedy isn’t dramatic churn — it’s the silent attrition of customers who remain on the books but redirect their meaningful activity — deposits, investments, or loans — elsewhere. The solution is straightforward: stay present and relevant
+
+The consequences of financial ghosting extend far beyond inactive accounts. While they may not always appear explicitly on balance sheets, their impact is real, measurable, and cumulative.
+
+Banks often carry millions of accounts with minimal activity. Maintaining these accounts is not cost-free — operational, compliance, and IT costs accumulate, yet they generate little revenue. Globally, studies show that up to 20–30% of retail accounts in mature markets like Canada, the UK, and Australia are low-activity or dormant, representing a silent drain on resources. In emerging markets, this phenomenon is compounded when high account acquisition drives leave customers disengaged post-onboarding.
+
+Engagement drives revenue beyond deposits. Ghosted clients are far less likely to adopt mortgages, investment products, or business accounts. For example, in the U.S., banks report that customers with no advisor interaction are 40–50% less likely to take additional products within their first two years. In practice, a disengaged mid-income professional may open a chequing account and a credit card, but never explore higher-value opportunities like RRSP contributions, investment funds, or small business loans.
+
+Even minor missteps in engagement can erode loyalty. A client ignored for months may be highly responsive to competitor incentives, creating churn at a fraction of the cost of acquisition. Globally, fintechs exploit this gap: platforms like Revolut, N26, and Wealthsimple thrive by offering continuous, proactive touchpoints that keep clients engaged. Banks that remain silent risk losing not only revenue but the long-term relationship.
+
+Disengaged clients don’t just leave quietly; they talk. Word-of-mouth can amplify the impact of ghosting, especially in immigrant communities or professional networks where trust spreads quickly. A single disengaged client can indirectly influence dozens of potential customers, further magnifying the cost of silence.
+
+The bottom line: financial ghosting creates a cascade of losses — operational inefficiencies, missed revenue, decreased loyalty, and reputational harm. In an era of intensifying competition from fintechs and challenger banks, the cost of ignoring customers quietly but consistently may exceed the cost of proactive engagement many times over.
+
+Preventing ghosting requires banks to shift from transactional thinking to relational thinking. It’s not about selling more products; it’s about designing engagement strategies that anticipate and meet the customer’s evolving needs.
+
+Onboarding should be the starting point of a structured relationship, not a one-time transaction. The first year after account opening is critical: every touchpoint matters.
+
+Financial health check-ins: Schedule periodic reviews to assess savings, credit, and investment readiness.
+
+Financial literacy sessions: Group webinars or workshops tailored to life stage or occupation — e.g., engineers, small business owners, or immigrant professionals.
+
+Personalised nudges: Alerts or tips that guide clients toward meaningful financial actions, such as opening an RRSP, contributing to a TFSA, or exploring SME credit lines.
+
+In today’s landscape, fintechs excel at convenience and digital engagement. Traditional banks, however, have a unique advantage: the ability to build human trust at scale. That advantage is wasted if institutions continue to ghost the very customers they worked so hard to acquire
+
+Globally, banks that treat onboarding as a relationship-building process — rather than a tick-box exercise — see higher account activity and cross-sell rates. For instance, banks in Singapore and the UK that implement structured post-onboarding journeys report 20–30% higher product adoption within the first year.
+
+Predictive analytics allows banks to move from reactive to proactive engagement.
+
+Example: A 28-year-old engineer opening a savings account in Toronto may soon be ready for first-time mortgage advice, investment starter plans, or international transfers if supporting family abroad.
+
+Data-driven insights can identify likely life events, income patterns, or investment behaviors, enabling timely outreach.
+
+Globally, institutions like HSBC, DBS, and Santander use AI-driven predictive models to flag potential client needs early, resulting in higher satisfaction scores and lower churn. Even in emerging markets, combining basic transaction data with demographic insights can meaningfully reduce silent attrition.
+
+Digital platforms are efficient, but without a human element, they risk being perceived as impersonal.
+
+In Sri Lanka, SMS and email communications often remain generic and transactional, leaving customers disengaged.
+
+In Canada and other mature markets, automated emails and app notifications can feel equally robotic.
+
+The solution is a hybrid approach: digital efficiency paired with human touch. Even a 15-minute virtual advisor call can transform a generic notification into a credible, trusted interaction. Hybrid models ensure clients feel seen, valued, and guided — not just managed.
+
+Life transitions are critical points of financial vulnerability and opportunity. Recognising and acting on them proactively strengthens the relationship.
+
+Banks can build automated triggers that alert advisors when a client reaches these milestones, enabling timely, personalised engagement. In practice, this approach reduces silent drift, strengthens trust, and positions the bank as a partner in life’s key moments rather than a passive service provider.
+
+Banks invest heavily in customer acquisition, yet many quietly lose those same clients to financial ghosting. The tragedy isn’t dramatic churn — it’s the silent attrition of customers who remain on the books but redirect their meaningful activity — deposits, investments, or loans — elsewhere.
+
+The solution is straightforward: stay present and relevant. Offer guidance, not just products. Treat onboarding as a journey, not a checkbox, and engage customers consistently throughout life’s financial milestones.
+
+Across markets — from Sri Lanka to Canada and beyond — I have observed how small, thoughtful acts of engagement can transform relationships: a proactive phone call, a tailored credit solution, or a financial literacy session can convert a dormant account into a long-term, high-value client.
+
+In today’s landscape, fintechs excel at convenience and digital engagement. Traditional banks, however, have a unique advantage: the ability to build human trust at scale. That advantage is wasted if institutions continue to ghost the very customers they worked so hard to acquire.
+
+The message is clear: stop ghosting. Engage, guide, and nurture. The almost-affluent and mass clients who feel seen today are tomorrow’s loyal advocates, investors, and brand ambassadors.
+
+(The author is a banking professional, financial educator, and writer with over 15 years of experience in the banking and finance sector. He currently serves as a licensed Professional Business Banker at Scotiabank, Canada, and has previously held roles as a Licensed Banking Advisor and a Mutual Fund Representative at the Royal Bank of Canada and a Lecturer at the Institute of Bankers of Sri Lanka. His qualifications include MBA (Merit)-UK, B.Sc. HRM (Sp)(Hon)-SL, CGMA-US, ACMA-UK, ACIM-UK, CPA-Aus, DipM-UK, PGD-Can, DBF-SL, DBIRM-SL)

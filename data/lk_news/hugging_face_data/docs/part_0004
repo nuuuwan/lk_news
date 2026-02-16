@@ -62743,6 +62743,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-16-colombotelegraphcom-d0f07cbb",
+    "num": "colombotelegraphcom-d0f07cbb",
+    "date_str": "2026-02-16",
+    "description": "It\u2019s The Context, Stupid!",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/its-the-context-stupid/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1771188010.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-16-dailyftlk-82cb750b",
     "num": "dailyftlk-82cb750b",
     "date_str": "2026-02-16",
@@ -63788,6 +63799,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-16-virakesarilk-0b1554d0",
+    "num": "virakesarilk-0b1554d0",
+    "date_str": "2026-02-16",
+    "description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95 \u0bae\u0bb2\u0bcd\u0bb2\u0bb5\u0bb0\u0bbe\u0b9a\u0bcd\u0b9a\u0bbf, \u0b85\u0bb5\u0bb0\u0ba4\u0bc1  \u0bae\u0ba9\u0bc8\u0bb5\u0bbf \u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8 : \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0bb5\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bc8 \u0b89\u0b9f\u0ba9\u0b9f\u0bbf \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bb5\u0bb2\u0bbf\u0baf\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u2013 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/238807",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1771241100.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-16-virakesarilk-19183983",
     "num": "virakesarilk-19183983",
     "date_str": "2026-02-16",
@@ -64159,5 +64181,82 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1771265460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-17-dailyftlk-58e96027",
+    "num": "dailyftlk-58e96027",
+    "date_str": "2026-02-17",
+    "description": "Official Olympic flooring provider, Gerflor partners with WIDAC Commercial Interiors to introduce world-class solutions to Sri Lanka",
+    "url_metadata": "https://www.ft.lk/opinion/Official-Olympic-flooring-provider-Gerflor-partners-with-WIDAC-Commercial-Interiors-to-introduce-world-class-solutions-to-Sri-Lanka/14-788410",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771267574.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-17-dailyftlk-5d54eaef",
+    "num": "dailyftlk-5d54eaef",
+    "date_str": "2026-02-17",
+    "description": "Understanding unit trust \u201cdisclaimers\u201d",
+    "url_metadata": "https://www.ft.lk/opinion/Understanding-unit-trust-disclaimers/14-788411",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771267885.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-17-dailyftlk-b5f618a1",
+    "num": "dailyftlk-b5f618a1",
+    "date_str": "2026-02-17",
+    "description": "Financial ghosting: What happens when banks ignore customers after onboarding",
+    "url_metadata": "https://www.ft.lk/columns/Financial-ghosting-What-happens-when-banks-ignore-customers-after-onboarding/4-788412",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771268751.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-17-dailyftlk-57f75264",
+    "num": "dailyftlk-57f75264",
+    "date_str": "2026-02-17",
+    "description": "EDB invites potential and SME exporters to strategic workshop on risk management and incoterms",
+    "url_metadata": "https://www.ft.lk/business/EDB-invites-potential-and-SME-exporters-to-strategic-workshop-on-risk-management-and-incoterms/34-788413",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771269013.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-17-dailyftlk-76523243",
+    "num": "dailyftlk-76523243",
+    "date_str": "2026-02-17",
+    "description": "EDB raises exporter awareness on enhancing export opportunities to the UK through DCTS",
+    "url_metadata": "https://www.ft.lk/business/EDB-raises-exporter-awareness-on-enhancing-export-opportunities-to-the-UK-through-DCTS/34-788414",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771269150.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-17-tamilmirrorlk-1dae75a4",
+    "num": "tamilmirrorlk-1dae75a4",
+    "date_str": "2026-02-17",
+    "description": "\u2019\u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0b95 \u0b85\u0bb0\u0b9a\u0bc1 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba9\u0bb5\u0bb0\u0bcd-\u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0b95-\u0b85\u0bb0\u0b9a\u0bc1-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8/175-372608",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1771269817.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-17-dailyftlk-bb2c85e6",
+    "num": "dailyftlk-bb2c85e6",
+    "date_str": "2026-02-17",
+    "description": "Reforming the reformists and reforms of education",
+    "url_metadata": "https://www.ft.lk/columns/Reforming-the-reformists-and-reforms-of-education/4-788416",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771272527.0
   }
 ]
