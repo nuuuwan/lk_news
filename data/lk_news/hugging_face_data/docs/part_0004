@@ -64074,6 +64074,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-16-colombotelegraphcom-108f6e3a",
+    "num": "colombotelegraphcom-108f6e3a",
+    "date_str": "2026-02-16",
+    "description": "Has The Level Of Corruption Declining In Sri Lanka?",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/has-the-level-of-corruption-declining-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1771253379.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-16-tamilmirrorlk-595b2d19",
     "num": "tamilmirrorlk-595b2d19",
     "date_str": "2026-02-16",
@@ -64258,5 +64269,49 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1771272527.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-17-dailyftlk-10356735",
+    "num": "dailyftlk-10356735",
+    "date_str": "2026-02-17",
+    "description": "Is Sri Lanka a wounded State? A perspective",
+    "url_metadata": "https://www.ft.lk/columns/Is-Sri-Lanka-a-wounded-State-A-perspective/4-788417",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771273910.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-17-dailyftlk-880c5d52",
+    "num": "dailyftlk-880c5d52",
+    "date_str": "2026-02-17",
+    "description": "Why the IMF agenda in Sri Lanka must be people-centred",
+    "url_metadata": "https://www.ft.lk/columns/Why-the-IMF-agenda-in-Sri-Lanka-must-be-people-centred/4-788426",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771276546.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-17-dailyftlk-9f84f31f",
+    "num": "dailyftlk-9f84f31f",
+    "date_str": "2026-02-17",
+    "description": "Ceylon Land announces plans  for proposed Rs. 4.3 b Rights Issue",
+    "url_metadata": "https://www.ft.lk/business/Ceylon-Land-announces-plans-for-proposed-Rs-4-3-b-Rights-Issue/34-788442",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771279929.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-17-dailyftlk-a923b899",
+    "num": "dailyftlk-a923b899",
+    "date_str": "2026-02-17",
+    "description": "CNCI Achiever Awards 2026",
+    "url_metadata": "https://www.ft.lk/business/CNCI-Achiever-Awards-2026/34-788443",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771280155.0
   }
 ]
