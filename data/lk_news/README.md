@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--17_10:20:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--17_12:06:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**102,245** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**102,255** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-17-tamilmirrorlk-113a7eae",
-    "num": "tamilmirrorlk-113a7eae",
+    "doc_id": "2026-02-17-tamilmirrorlk-a054dadd",
+    "num": "tamilmirrorlk-a054dadd",
     "date_str": "2026-02-17",
-    "description": "\u0b95\u0ba9\u0b9f\u0bbf\u0baf \u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bcd- \u0baa\u0bca\u0ba4\u0bc1\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd  \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0ba9\u0b9f\u0bbf\u0baf-\u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bcd-\u0baa\u0bca\u0ba4\u0bc1\u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-372617",
+    "description": "\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf \u0ba4\u0bc1\u0ba3\u0bc8\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf-\u0ba4\u0bc1\u0ba3\u0bc8\u0baa\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd-\u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/175-372625",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1771303136.0
+    "time_ut": 1771308848.0
 }
 ```
 
@@ -41,8 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-17 | `tamilmirrorlk-a054dadd` | பிரித்தானிய துணைப் பிரதமர் வந்தடைந்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-a054dadd)
+- 2026-02-17 | `adalk-d2b23915` | ප්‍රාග්ධන වෙළඳපොළ Seed to Scale සංසදයට තාක්ෂණික සමාගම් රැසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-adalk-d2b23915)
+- 2026-02-17 | `tamilmirrorlk-c564d843` | பங்களாதேஷில் இன்று புதிய பிரதமர் பதவியேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-c564d843)
+- 2026-02-17 | `tamilmirrorlk-f20d29ae` | இன்று வானில் நிகழும் அதிசயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-f20d29ae)
+- 2026-02-17 | `tamilmirrorlk-bd73be7d` | ’கெசானி’ புயலால்  59 பேர் பலி; 27,000 பேர் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-bd73be7d)
+- 2026-02-17 | `tamilmirrorlk-5b9fef39` | வழக்கறிஞர் தம்பதி கொலையில் அதிர்ச்சி தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-5b9fef39)
+- 2026-02-17 | `tamilmirrorlk-3a778690` | ஜனாதிபதி இன்று இந்தியா பயணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-3a778690)
+- 2026-02-17 | `adalk-6a5294ef` | හඳුනා නොගත් පුරා විද්‍යාත්මක ස්ථාන 1000 ක් හඳුනාගෙන සංරක්ෂණය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-adalk-6a5294ef)
 - 2026-02-17 | `tamilmirrorlk-113a7eae` | கனடிய உயர்ஸ்தானிகர்- பொதுநிர்வாக அமைச்சர்  சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-113a7eae)
 - 2026-02-17 | `tamilmirrorlk-d462f623` | ரமழானை முன்னிட்டு பேரீச்சம்பழம் அன்பளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-d462f623)
+- 2026-02-17 | `adalk-d74066b3` | කුසල්ගෙන් හයේ වාර්තාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-adalk-d74066b3)
 - 2026-02-17 | `tamilmirrorlk-062fffa7` | பிரிட்டன் துணைப் பிரதமர் இன்று இலங்கைக்கு விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-062fffa7)
 - 2026-02-17 | `adalk-dfa9a101` | අද සිට වැස්ස වැඩිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-adalk-dfa9a101)
 - 2026-02-17 | `tamilmirrorlk-8eecb5c2` | சாதாரண தரப் பரீட்சை இன்று ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-8eecb5c2)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-02-17 | `dailyftlk-4458ed10` | Japan-Sri Lanka Inter-Governmental Economic Policy Dialogue resumes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-4458ed10)
 - 2026-02-17 | `dailyftlk-8a864e10` | President meets Pakistan Interior Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-8a864e10)
 - 2026-02-17 | `dailyftlk-573a4fca` | Sri Lanka and China reaffirm ties at Chinese New Year meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-573a4fca)
-- 2026-02-17 | `dailyftlk-90079364` | Prabath Chandrakeerthi appointed Chief of Staff to the President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-90079364)
-- 2026-02-17 | `dailyftlk-048c399b` | UNP calls for resignation of Public Security Minister over lawyer killing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-048c399b)
-- 2026-02-17 | `dailyftlk-245c2de6` | NPP lawyers demand swift probe into lawyer killing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-245c2de6)
-- 2026-02-17 | `dailyftlk-5df402fc` | WFD marks transition of Coalition for Inclusive Impact as an independent organisation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-5df402fc)
-- 2026-02-17 | `dailyftlk-17106cc5` | Celebration of 78th anniversary of Independence of Sri Lanka in Brasilia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-17106cc5)
-- 2026-02-17 | `dailyftlk-48e04858` | Pathfinder Foundation’s fourth Indian Ocean Security Conference from today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-48e04858)
-- 2026-02-17 | `dailyftlk-42bafc87` | Why Sri Lanka still matters to Oniverse: Quality, capability,  and a fresh EUR 30 m investment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-42bafc87)
-- 2026-02-17 | `dailyftlk-68b24f14` | Prime Lands Residencies reports strong earnings growth in 3Q | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-68b24f14)
-- 2026-02-17 | `dailyftlk-7e9eadca` | BIOFACH 2026: A gateway for Sri Lanka’s organic export expansion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-7e9eadca)
 
 ---
 
