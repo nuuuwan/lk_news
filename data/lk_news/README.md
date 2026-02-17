@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--18_01:54:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--18_03:51:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**102,324** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**102,339** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,6 +43,13 @@ A collection of lk_news documents.
 
 - 2026-02-17 | `tamilmirrorlk-b8547c66` | திட்டமிடப்பட்ட ரயில் இயக்குநர்களின் வேலை நிறுத்தம் வாபஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-b8547c66)
 - 2026-02-17 | `tamilmirrorlk-d862bf5a` | இன்று நள்ளிரவு முதல் ரயில் இயக்குநர்கள் வேலை நிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-d862bf5a)
+- 2026-02-17 | `virakesarilk-5f425fcd` | நீதிமன்றத்துக்கு அழைத்துச் செல்லும் வழியில் ஐஸ் வழக்கு சந்தேகநபர் தப்பினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-5f425fcd)
+- 2026-02-17 | `virakesarilk-76cbd824` | மக்களுக்கு வழங்கிய ஆணைக்கு அமையவே பாராளுமன்ற ஓய்வூதியத்தை இரத்துச் செய்யும் சட்டத்தை  கொண்டு வந்துள்ளோம் -  பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-76cbd824)
+- 2026-02-17 | `virakesarilk-6bad417e` | ஒட்டுமொத்த பாராளுமன்ற உறுப்பினர்களின் ஓய்வூதியத்தையும் இரத்துச் செய்வது நியாயமற்றது - தயாசிறி ஜயசேகர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-6bad417e)
+- 2026-02-17 | `virakesarilk-041d82e7` | 80க்கும் அதிகமான அரபுக் கல்லூரிகளின் பதிவை விரைவுபடுத்த நடவடிக்கை எடுக்கவேண்டும் - ஹிஸ்புல்லா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-041d82e7)
+- 2026-02-17 | `virakesarilk-9008daa7` | பாராளுமன்ற உறுப்பினர்களின் ஓய்வூதிய  கொடுப்பனவை இரத்துச் செய்வதாயின் அந்த கொடுப்பனவை பெருந்தோட்டத் தொழிலாளர்களுக்கு ஓய்வூதியமாக வழங்க வேண்டும் - சாமர  சம்பத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-9008daa7)
+- 2026-02-17 | `virakesarilk-3085ca44` | பாராளுமன்ற செயலாளர் நாயகத்தையும் பதவி நீக்கம் செய்ய மறைமுகமான சதித்திட்டம் - ஹர்ஷன ராஜகருணா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-3085ca44)
+- 2026-02-17 | `virakesarilk-0322d339` | நீதிக்கான காத்திருப்பும் கேள்விக்குள்ளாக்கப்பட்டுள்ளது ; மனித உரிமைகள் ஆணைக்குழுவின் அறிக்கை தொடர்பில் அரசாங்கம் விசேட கவனம்  செலுத்தவேண்டும் -  எஸ்.சிறிதரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-0322d339)
 - 2026-02-17 | `virakesarilk-d4d3a241` | நீர்கொழும்பு களப்பைப் பாதுகாத்து சுற்றுலா ஈர்ப்பை வென்றெடுக்க புதிய இறங்குதுறை நிர்மாணம் : 318 மில்லியன் ரூபா பாரிய முதலீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-d4d3a241)
 - 2026-02-17 | `tamilmirrorlk-2117e192` | IMF, இடமிருந்து இலங்கைக்கு நற்சான்றிதழ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-2117e192)
 - 2026-02-17 | `tamilmirrorlk-9ee786af` | ஆசிரியர் ஆட்சேர்ப்பு நிபந்தனைகளில் திருத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-9ee786af)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-02-17 | `virakesarilk-7f3ccd85` | இலகு ரயில் போக்குவரத்து திட்டத்துக்கு ஜைகா இன்னும் இறுதி ஒப்புதலளிக்கவில்லை - அமைச்சர் விஜித ஹேரத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-7f3ccd85)
 - 2026-02-17 | `virakesarilk-8c9c8f27` | பாடசாலைக் கட்டடங்களில் அவசர கால வெளியேற்றப் பாதை இன்மை தொடர்பில் மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-8c9c8f27)
 - 2026-02-17 | `virakesarilk-aa0914b3` | IMF முகாமைத்துவ பணிப்பாளர் கிறிஸ்டலினா ஜோர்ஜிவா டித்வா சூறாவளியால் மண்சரிவுக்குள்ளான பகுதிகளில் கண்காணிப்பு விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-aa0914b3)
-- 2026-02-17 | `virakesarilk-354455fa` | பாராளுமன்ற உறுப்பினர்கள் ஓய்வூதியம் நீக்கம்: சட்டமூலம் இரண்டாம் வாசிப்பில் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-354455fa)
-- 2026-02-17 | `virakesarilk-141616da` | இலங்கையின் மீளக் கட்டியெழுப்பும் திட்டம் மீதான சர்வதேச நம்பிக்கையை பிரித்தானிய துணைப் பிரதமரின் விஜயம் உறுதிப்படுத்துகிறது - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-141616da)
-- 2026-02-17 | `virakesarilk-fac1af33` | பலாலி அம்மன் ஆலயத்துக்குச் செல்லும் வீதியை சித்திரை புத்தாண்டுக்குள் விடுவிக்குமாறு மக்கள் கோரிக்கை ; தனியார் காணிக்குள் தற்காலிக பாதை அமைக்க இராணுவம் முயற்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-fac1af33)
-- 2026-02-17 | `virakesarilk-6c9a16aa` | நடிகர் ஆதி நடிக்கும் 'மரகத நாணயம் 2' படத்தின் படப்பிடிப்பு தொடக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-6c9a16aa)
-- 2026-02-17 | `virakesarilk-4665fea8` | ரயில் சாரதிகள் பணிப்பகிஷ்கரிப்பில் ஈடுபடத் தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-4665fea8)
-- 2026-02-17 | `tamilmirrorlk-f7704fc9` | இ – 20 உலகக் கிண்ணம்: அவுஸ்திரேலியா உள்ளே; சிம்பாப்வே வெளியே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-f7704fc9)
-- 2026-02-17 | `virakesarilk-b1275560` | றாப் இசை ரசிகர்களின் கவனத்தை ஈர்க்கும் ஹரீஷ் கல்யாணின் 'தாஷமக்கான் 'பட பாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-virakesarilk-b1275560)
 
 ---
 
