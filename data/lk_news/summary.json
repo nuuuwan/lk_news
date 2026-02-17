@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-17 03:48:39",
-  "n_docs": 102205,
+  "time_updated": "2026-02-17 06:15:26",
+  "n_docs": 102234,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 102205,
+  "n_docs_with_text": 102234,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-02-17",
-  "dataset_size": 1560361950,
+  "dataset_size": 1560575028,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-17-dailyftlk-a923b899",
-    "num": "dailyftlk-a923b899",
+    "doc_id": "2026-02-17-dailyftlk-4458ed10",
+    "num": "dailyftlk-4458ed10",
     "date_str": "2026-02-17",
-    "description": "CNCI Achiever Awards 2026",
-    "url_metadata": "https://www.ft.lk/business/CNCI-Achiever-Awards-2026/34-788443",
+    "description": "Japan-Sri Lanka Inter-Governmental Economic Policy Dialogue resumes",
+    "url_metadata": "https://www.ft.lk/news/Japan-Sri-Lanka-Inter-Governmental-Economic-Policy-Dialogue-resumes/56-788459",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1771280155.0
+    "time_ut": 1771284564.0
   }
 }

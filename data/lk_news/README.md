@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--17_03:49:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--17_06:16:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**102,205** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**102,234** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-17-dailyftlk-a923b899",
-    "num": "dailyftlk-a923b899",
+    "doc_id": "2026-02-17-dailyftlk-4458ed10",
+    "num": "dailyftlk-4458ed10",
     "date_str": "2026-02-17",
-    "description": "CNCI Achiever Awards 2026",
-    "url_metadata": "https://www.ft.lk/business/CNCI-Achiever-Awards-2026/34-788443",
+    "description": "Japan-Sri Lanka Inter-Governmental Economic Policy Dialogue resumes",
+    "url_metadata": "https://www.ft.lk/news/Japan-Sri-Lanka-Inter-Governmental-Economic-Policy-Dialogue-resumes/56-788459",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1771280155.0
+    "time_ut": 1771284564.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-17 | `dailyftlk-4458ed10` | Japan-Sri Lanka Inter-Governmental Economic Policy Dialogue resumes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-4458ed10)
+- 2026-02-17 | `dailyftlk-8a864e10` | President meets Pakistan Interior Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-8a864e10)
+- 2026-02-17 | `dailyftlk-573a4fca` | Sri Lanka and China reaffirm ties at Chinese New Year meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-573a4fca)
+- 2026-02-17 | `dailyftlk-90079364` | Prabath Chandrakeerthi appointed Chief of Staff to the President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-90079364)
+- 2026-02-17 | `dailyftlk-048c399b` | UNP calls for resignation of Public Security Minister over lawyer killing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-048c399b)
+- 2026-02-17 | `dailyftlk-245c2de6` | NPP lawyers demand swift probe into lawyer killing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-245c2de6)
+- 2026-02-17 | `dailyftlk-5df402fc` | WFD marks transition of Coalition for Inclusive Impact as an independent organisation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-5df402fc)
+- 2026-02-17 | `dailyftlk-17106cc5` | Celebration of 78th anniversary of Independence of Sri Lanka in Brasilia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-17106cc5)
+- 2026-02-17 | `dailyftlk-48e04858` | Pathfinder Foundation’s fourth Indian Ocean Security Conference from today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-48e04858)
+- 2026-02-17 | `dailyftlk-42bafc87` | Why Sri Lanka still matters to Oniverse: Quality, capability,  and a fresh EUR 30 m investment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-42bafc87)
+- 2026-02-17 | `dailyftlk-68b24f14` | Prime Lands Residencies reports strong earnings growth in 3Q | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-68b24f14)
+- 2026-02-17 | `dailyftlk-7e9eadca` | BIOFACH 2026: A gateway for Sri Lanka’s organic export expansion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-7e9eadca)
+- 2026-02-17 | `dailyftlk-c7007121` | Yanika Amarasekera joins Vallibel One Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-c7007121)
+- 2026-02-17 | `dailyftlk-6bd9e6a8` | Mohan Ratnayake joins Lee Hedges Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-6bd9e6a8)
+- 2026-02-17 | `dailyftlk-812dfb59` | National Chamber charts MSME growth agenda at 67th AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-812dfb59)
+- 2026-02-17 | `dailyftlk-722f1e01` | Lanka Hospitals secures third consecutive Gold award at 60th anniversary TAGS | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-722f1e01)
 - 2026-02-17 | `dailyftlk-a923b899` | CNCI Achiever Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-a923b899)
 - 2026-02-17 | `dailyftlk-9f84f31f` | Ceylon Land announces plans  for proposed Rs. 4.3 b Rights Issue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-9f84f31f)
 - 2026-02-17 | `dailyftlk-880c5d52` | Why the IMF agenda in Sri Lanka must be people-centred | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-880c5d52)
 - 2026-02-17 | `dailyftlk-10356735` | Is Sri Lanka a wounded State? A perspective | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-10356735)
-- 2026-02-17 | `dailyftlk-bb2c85e6` | Reforming the reformists and reforms of education | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-bb2c85e6)
-- 2026-02-17 | `tamilmirrorlk-1dae75a4` | ’மீனவர் பிரச்சினையில் தமிழக அரசு நடவடிக்கை எடுக்கவில்லை’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-tamilmirrorlk-1dae75a4)
-- 2026-02-17 | `dailyftlk-76523243` | EDB raises exporter awareness on enhancing export opportunities to the UK through DCTS | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-76523243)
-- 2026-02-17 | `dailyftlk-57f75264` | EDB invites potential and SME exporters to strategic workshop on risk management and incoterms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-57f75264)
-- 2026-02-17 | `dailyftlk-b5f618a1` | Financial ghosting: What happens when banks ignore customers after onboarding | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-b5f618a1)
-- 2026-02-17 | `dailyftlk-5d54eaef` | Understanding unit trust “disclaimers” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-5d54eaef)
-- 2026-02-17 | `dailyftlk-58e96027` | Official Olympic flooring provider, Gerflor partners with WIDAC Commercial Interiors to introduce world-class solutions to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-17-dailyftlk-58e96027)
-- 2026-02-16 | `virakesarilk-4e5914af` | பெத்தும் குவித்த அபார சதம் இலங்கையை சுப்பர் 8க்கு அழைத்துச் சென்றது; முதல் சுற்றுடன் அவுஸ்திரேலியா வெளியேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-4e5914af)
-- 2026-02-16 | `virakesarilk-4833e13e` | தேர்தல் சட்ட மீளாய்வு: பாராளுமன்ற விசேட குழு அமைக்க பிரேரணை -  சந்தன அபேரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-4833e13e)
-- 2026-02-16 | `virakesarilk-94aff77e` | யாழில். காணி பிரச்சனையில் ஒருவர் அடித்துக்கொலை - மூவர் தலைமறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-94aff77e)
-- 2026-02-16 | `virakesarilk-3e2c57f3` | புதிய பயங்கரவாத எதிர்ப்பு சட்டம் சர்வதேச தரங்களுக்கு முழுமையாக ஏற்பில்லை - ஐ.நா. விசேட அறிக்கையாளர்கள் கவலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-3e2c57f3)
-- 2026-02-16 | `virakesarilk-8e15106d` | ரி20 உலகக் கிண்ண சுப்பர் 8 சுற்றில் இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-8e15106d)
-- 2026-02-16 | `tamilmirrorlk-7611ff04` | இ – 20 உலகக் கிண்ணம்: அவுஸ்திரேலியாவை வீழ்த்தி சுப்பர் – 8 சுற்றில் இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-tamilmirrorlk-7611ff04)
-- 2026-02-16 | `virakesarilk-9f6d8985` | இலங்கைக்கு 182 ஓட்டங்களை வெற்றி இலக்காக நிர்ணயித்தது அவுஸ்திரேலியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-9f6d8985)
-- 2026-02-16 | `virakesarilk-4d645012` | சீனத் தூதுவரும் அமைச்சர் அனில் ஜயந்த பெர்னாண்டோவும் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-virakesarilk-4d645012)
-- 2026-02-16 | `tamilmirrorlk-dd5c25bf` | இ – 20 உலகக் கிண்ணம்: இலங்கைக்கு வெற்றியிலக்கு 182 ஓட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-16-tamilmirrorlk-dd5c25bf)
 
 ---
 
