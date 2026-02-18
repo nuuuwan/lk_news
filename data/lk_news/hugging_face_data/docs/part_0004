@@ -65207,6 +65207,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-17-adalk-5459a460",
+    "num": "adalk-5459a460",
+    "date_str": "2026-02-17",
+    "description": "\u0da2\u0db4\u0dcf\u0db1\u0dba \u0db1\u0dad\u0dbb \u0d9a\u0dbb \u0daf\u0dd0\u0db8\u0dd6 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca \u0dba\u0dc5\u0dd2 \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0db4\u0dcf\u0db1\u0dba-\u0db1\u0dad\u0dbb-\u0d9a\u0dbb-\u0daf\u0dd0\u0db8\u0dd6-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2-\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca-\u0dba\u0dc5\u0dd2-\u0d85\u0dbb\u0db9\u0dba\u0dd2/11-421281",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771320556.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-17-virakesarilk-fee134e4",
     "num": "virakesarilk-fee134e4",
     "date_str": "2026-02-17",
@@ -65919,5 +65930,115 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1771375151.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-18-dailyftlk-af977e0b",
+    "num": "dailyftlk-af977e0b",
+    "date_str": "2026-02-18",
+    "description": "Banking vigilance cannot be deferred: Transparency, governance and development in era of reform",
+    "url_metadata": "https://www.ft.lk/columns/Banking-vigilance-cannot-be-deferred-Transparency-governance-and-development-in-era-of-reform/4-788475",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771375636.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-18-dailyftlk-bedc7a21",
+    "num": "dailyftlk-bedc7a21",
+    "date_str": "2026-02-18",
+    "description": "Why food system resilience matters more than production alone in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Why-food-system-resilience-matters-more-than-production-alone-in-Sri-Lanka/4-788476",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771375904.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-18-dailyftlk-1743f9a7",
+    "num": "dailyftlk-1743f9a7",
+    "date_str": "2026-02-18",
+    "description": "How Sri Lanka can build a $ 8 b tourism industry",
+    "url_metadata": "https://www.ft.lk/columns/How-Sri-Lanka-can-build-a-8-b-tourism-industry/4-788477",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771376708.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-18-dailyftlk-281827ea",
+    "num": "dailyftlk-281827ea",
+    "date_str": "2026-02-18",
+    "description": "International Cooperation Organisation of SMEs in Asia meets Sri Lanka Japan Business Council",
+    "url_metadata": "https://www.ft.lk/business/International-Cooperation-Organisation-of-SMEs-in-Asia-meets-Sri-Lanka-Japan-Business-Council/34-788478",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771376831.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-18-dailyftlk-80c36033",
+    "num": "dailyftlk-80c36033",
+    "date_str": "2026-02-18",
+    "description": "Sri Lanka\u2013Germany Business Council hosts Breakfast Meeting with CBSL Governor",
+    "url_metadata": "https://www.ft.lk/business/Sri-LankaGermany-Business-Council-hosts-Breakfast-Meeting-with-CBSL-Governor/34-788479",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771376968.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-18-dailyftlk-18747524",
+    "num": "dailyftlk-18747524",
+    "date_str": "2026-02-18",
+    "description": "Parliament passes Bill  to abolish MP\u2019s pension",
+    "url_metadata": "https://www.ft.lk/news/Parliament-passes-Bill-to-abolish-MP-s-pension/56-788480",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771377057.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-18-dailyftlk-8eb0d1b3",
+    "num": "dailyftlk-8eb0d1b3",
+    "date_str": "2026-02-18",
+    "description": "UK Deputy PM meets Most Ven. Assaji Thero",
+    "url_metadata": "https://www.ft.lk/news/UK-Deputy-PM-meets-Most-Ven-Assaji-Thero/56-788481",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771377127.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-18-dailyftlk-9071e115",
+    "num": "dailyftlk-9071e115",
+    "date_str": "2026-02-18",
+    "description": "President in India for AI Impact Summit",
+    "url_metadata": "https://www.ft.lk/news/President-in-India-for-AI-Impact-Summit/56-788482",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771377280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-18-adalk-d2749cb6",
+    "num": "adalk-d2749cb6",
+    "date_str": "2026-02-18",
+    "description": "\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca \u0d85\u0dc4\u0ddd\u0dc3\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0db4\u0db1\u0dad \u0db6\u0dbd\u0dcf\u0dad\u0dca\u0db8\u0d9a\u0dba\u0dd2, \u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8 \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8 \u0dc0\u0dd0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dcf\u0dbb\u0dca\u0dbd\u0dd2\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dc0\u0dd0\u0da7\u0dd4\u0db4\u0dca-\u0d85\u0dc4\u0ddd\u0dc3\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda-\u0db4\u0db1\u0dad-\u0db6\u0dbd\u0dcf\u0dad\u0dca\u0db8\u0d9a\u0dba\u0dd2--\u0dc3\u0dd2\u0dba\u0dbd\u0dd4\u0db8-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7-\u0dc0\u0dd2\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0db8-\u0dc0\u0dd0\u0da7/11-421287",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771377753.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-18-dailyftlk-423a3f3e",
+    "num": "dailyftlk-423a3f3e",
+    "date_str": "2026-02-18",
+    "description": "The rapid advancement of technology",
+    "url_metadata": "https://www.ft.lk/opinion/The-rapid-advancement-of-technology/14-788491",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771380060.0
   }
 ]
