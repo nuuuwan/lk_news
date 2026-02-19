@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--19_03:53:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--19_06:15:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**102,480** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**102,488** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -55,12 +55,12 @@ A collection of lk_news documents.
 - 2026-02-19 | `dailyftlk-44002c10` | Fcode Labs invests in Germany-based coffee startup Bunamo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-dailyftlk-44002c10)
 - 2026-02-19 | `dailyftlk-4b3ad6d4` | HVA Foods parent part sells stake for Rs. 188 m | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-dailyftlk-4b3ad6d4)
 - 2026-02-19 | `dailyftlk-2deb81fc` | ‘IMF, hands off our future’: YUKTHI collective | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-dailyftlk-2deb81fc)
+- 2026-02-18 | `islandlk-0b42c7ca` | Glowing Skin … | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-18-islandlk-0b42c7ca)
 - 2026-02-18 | `virakesarilk-c2bc6dc2` | ஷிவம் டுபேயின் சகலதுறை ஆட்டம், வருண் சக்ரவர்த்தியின் பந்துவீச்சு என்பன இந்தியாவை வெற்றி பெறச் செய்தன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-18-virakesarilk-c2bc6dc2)
 - 2026-02-18 | `dailyftlk-cbf7467a` | Celebrating Sri Lanka ‘Jayaflava’ way | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-18-dailyftlk-cbf7467a)
 - 2026-02-18 | `virakesarilk-b77e097e` | இலங்கைக்கான பிரித்தானிய உயர்ஸ்தானிகரக குழுவுடன் பிரித்தானிய துணைப் பிரதமர் டேவிட் லாமி சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-18-virakesarilk-b77e097e)
 - 2026-02-18 | `virakesarilk-e1aade33` | தென் ஆபிரிக்காவுக்கு நான்காவது தொடர்ச்சியான வெற்றி; நமிபியா வெறுங்கையுடன் நாடு திரும்புகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-18-virakesarilk-e1aade33)
 - 2026-02-18 | `virakesarilk-6df3b595` | நமிபியாவை வீழ்த்தி சுப்பர் 8 சுற்றில் இணைந்தது பாகிஸ்தான்; 2026  ரி20 உலகக் கிண்ணத்தில் சாஹிப்ஸதா சதம் குவித்த மூன்றாவது வீரரானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-18-virakesarilk-6df3b595)
-- 2026-02-18 | `virakesarilk-7da91ac9` | ரமலான் நோன்பு நாளை தொடங்குகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-18-virakesarilk-7da91ac9)
 
 ---
 
