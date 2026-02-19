@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--19_21:06:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--19_22:02:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**102,570** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**102,573** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-19-virakesarilk-6b5a86ad",
-    "num": "virakesarilk-6b5a86ad",
+    "doc_id": "2026-02-19-adalk-b4d83b5c",
+    "num": "adalk-b4d83b5c",
     "date_str": "2026-02-19",
-    "description": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0ba8\u0bc1\u0bb0 -\u00a0\u0b85\u0baa\u0bc1\u0ba4\u0bbe\u0baa\u0bbf\u00a0\u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bb0\u0bcd\u00a0\u0b87\u0bb0\u0bc1\u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/239095",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1771515060.0
+    "description": "\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7 \u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0d85\u0da9\u0dd2\u0dc3\u0dca\u0dc3\u0dd2\u0dba, \u0db1\u0dc0 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab 7\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3-\u0d85\u0da9\u0dd2\u0dc3\u0dca\u0dc3\u0dd2\u0dba--\u0db1\u0dc0-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab-7\u0d9a\u0dca/11-421328",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771515894.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-19 | `adalk-b4d83b5c` | රිමාන්ඩ් වෙනුවට නිවාස අඩිස්සිය, නව අධිකරණ 7ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-adalk-b4d83b5c)
 - 2026-02-19 | `virakesarilk-6b5a86ad` | ஜனாதிபதி அநுர - அபுதாபி இளவரசர் இருதரப்புப் பேச்சுவார்த்தை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-virakesarilk-6b5a86ad)
 - 2026-02-19 | `virakesarilk-b1e3242f` | ஜனாதிபதி அநுர – பூட்டான் பிரதமர் ஷெரிங் தொப்கே இருதரப்பு பேச்சுவார்த்தை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-virakesarilk-b1e3242f)
 - 2026-02-19 | `virakesarilk-9dfbad89` | ஜனாதிபதி அநுர குமார பிரான்ஸ் ஜனாதிபதி இமானுவேல் மக்ரோனை சந்தித்து இருதரப்புப் பேச்சுவார்த்தை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-virakesarilk-9dfbad89)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-02-19 | `tamilmirrorlk-edb6d981` | இ – 20 உலகக் கிண்ணம்: 178 ஓட்டங்களைப் பெற்ற இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-tamilmirrorlk-edb6d981)
 - 2026-02-19 | `virakesarilk-2f710433` | தலைமன்னார் இறங்குதுறையை அபிவிருத்தி செய்யப் புதிய திட்டம் : அமைச்சர் அநுர கருணாதிலக்க நேரடி விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-virakesarilk-2f710433)
 - 2026-02-19 | `tamilmirrorlk-2f164e71` | இலங்கையில் பூனைகளால் பரவும் கொடிய நோய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-tamilmirrorlk-2f164e71)
-- 2026-02-19 | `virakesarilk-e3459996` | 9 வருடங்களுக்கு பிறகு இலங்கை அமரபுர மகா நிகாயவின் உபசம்பதா வினயகர்ம நிகழ்வினை நடத்த ஏற்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-virakesarilk-e3459996)
 
 ---
 

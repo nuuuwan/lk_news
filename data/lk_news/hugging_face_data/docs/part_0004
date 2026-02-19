@@ -68034,6 +68034,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-19-adalk-c65b8fb3",
+    "num": "adalk-c65b8fb3",
+    "date_str": "2026-02-19",
+    "description": "\u0d9c\u0dd1\u0dc3\u0dca \u0dc4\u0dd2\u0d9f\u0dba\u0da7 \u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dd1\u0dc3\u0dca-\u0dc4\u0dd2\u0d9f\u0dba\u0da7-\u0dc0\u0dd2\u0dc3\u0db3\u0dd4\u0db8\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1/11-421326",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771496270.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-19-virakesarilk-1213e715",
     "num": "virakesarilk-1213e715",
     "date_str": "2026-02-19",
@@ -68053,6 +68064,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1771499700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-adalk-89c28bb7",
+    "num": "adalk-89c28bb7",
+    "date_str": "2026-02-19",
+    "description": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db4\u0dbb\u0dcf\u0da2\u0dba \u0d9a\u0dc5 \u0dc3\u0dd2\u0db8\u0dca\u0db6\u0dcf\u0db6\u0dca\u0dc0\u0dda \u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2 \u0da2\u0dba\u0d9a\u0dca \u0dbd\u0db6\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/sports/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0db4\u0dbb\u0dcf\u0da2\u0dba-\u0d9a\u0dc5-\u0dc3\u0dd2\u0db8\u0dca\u0db6\u0dcf\u0db6\u0dca\u0dc0\u0dda-\u0dc3\u0dd4\u0db4\u0dd2\u0dbb\u0dd2-\u0da2\u0dba\u0d9a\u0dca-\u0dbd\u0db6\u0dba\u0dd2/9-421327",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771499972.0
   },
   {
     "doc_type": "lk_news",
@@ -68328,5 +68350,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1771515060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-adalk-b4d83b5c",
+    "num": "adalk-b4d83b5c",
+    "date_str": "2026-02-19",
+    "description": "\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7 \u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0d85\u0da9\u0dd2\u0dc3\u0dca\u0dc3\u0dd2\u0dba, \u0db1\u0dc0 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab 7\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7-\u0db1\u0dd2\u0dc0\u0dcf\u0dc3-\u0d85\u0da9\u0dd2\u0dc3\u0dca\u0dc3\u0dd2\u0dba--\u0db1\u0dc0-\u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab-7\u0d9a\u0dca/11-421328",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771515894.0
   }
 ]
