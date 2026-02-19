@@ -66747,6 +66747,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-18-adalk-9d4699b2",
+    "num": "adalk-9d4699b2",
+    "date_str": "2026-02-18",
+    "description": "\u0db8\u0ddc\u0db1\u0dbb\u0dcf\u0d9c\u0dbd \u0db6\u0da9 \u0d89\u0dbb\u0dd2\u0d9f\u0dd4 \u0dc0\u0d9c\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0dbb\u0dd4 \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0db8\u0ddc\u0db1\u0dbb\u0dcf\u0d9c\u0dbd-\u0db6\u0da9-\u0d89\u0dbb\u0dd2\u0d9f\u0dd4-\u0dc0\u0d9c\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dc3\u0dbb\u0dd4-\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0db1\u0dca\u0db1\u0d9a\u0dca/10-421307",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771409828.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-18-virakesarilk-49777f0d",
     "num": "virakesarilk-49777f0d",
     "date_str": "2026-02-18",
@@ -67275,6 +67286,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-19-colombotelegraphcom-eeb0baeb",
+    "num": "colombotelegraphcom-eeb0baeb",
+    "date_str": "2026-02-19",
+    "description": "Pensions \u2013 A Crucial Social Responsibility",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/pensions-a-crucial-social-responsibility/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1771442229.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-19-dailyftlk-2deb81fc",
     "num": "dailyftlk-2deb81fc",
     "date_str": "2026-02-19",
@@ -67426,5 +67448,16 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1771452611.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-adalk-0c6aae4b",
+    "num": "adalk-0c6aae4b",
+    "date_str": "2026-02-19",
+    "description": "\u0db8\u0dad\u0dd3\u0dc2 \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7 \u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dd3\u0dc2-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7-\u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0da7/11-421308",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771464253.0
   }
 ]

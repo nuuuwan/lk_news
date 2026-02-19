@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-19 06:14:24",
-  "n_docs": 102488,
+  "time_updated": "2026-02-19 08:44:48",
+  "n_docs": 102491,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 102488,
+  "n_docs_with_text": 102491,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-02-19",
-  "dataset_size": 1564804722,
+  "dataset_size": 1564914520,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-19-dailyftlk-3cfc20f0",
-    "num": "dailyftlk-3cfc20f0",
+    "doc_id": "2026-02-19-adalk-0c6aae4b",
+    "num": "adalk-0c6aae4b",
     "date_str": "2026-02-19",
-    "description": "Cuba, Iran, USA and Western subordination of world\u2019s majority",
-    "url_metadata": "https://www.ft.lk/columns/Cuba-Iran-USA-and-Western-subordination-of-world-s-majority/4-788553",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1771452611.0
+    "description": "\u0db8\u0dad\u0dd3\u0dc2 \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7 \u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dd3\u0dc2-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7-\u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0da7/11-421308",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771464253.0
   }
 }
