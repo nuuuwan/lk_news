@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--19_08:45:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--19_10:21:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**102,491** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**102,497** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-19-adalk-0c6aae4b",
-    "num": "adalk-0c6aae4b",
+    "doc_id": "2026-02-19-tamilmirrorlk-99dcf193",
+    "num": "tamilmirrorlk-99dcf193",
     "date_str": "2026-02-19",
-    "description": "\u0db8\u0dad\u0dd3\u0dc2 \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7 \u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0da7",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dd3\u0dc2-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7-\u0da9\u0dd2\u0dbd\u0dca\u0dc2\u0dcf\u0db1\u0dca-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8\u0da7/11-421308",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1771464253.0
+    "description": "\u2019\u0baa\u0bc1\u0ba9\u0bbf\u0ba4 \u0bb0\u0bae\u0bb4\u0bbe\u0ba9\u0bcd\u2019 \u0ba8\u0bcb\u0ba9\u0bcd\u0baa\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba9\u0bbf\u0ba4-\u0bb0\u0bae\u0bb4\u0bbe\u0ba9\u0bcd-\u0ba8\u0bcb\u0ba9\u0bcd\u0baa\u0bc1-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/175-372723",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1771475924.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-19 | `tamilmirrorlk-99dcf193` | ’புனித ரமழான்’ நோன்பு இன்று ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-tamilmirrorlk-99dcf193)
+- 2026-02-19 | `tamilmirrorlk-0a157503` | இ – 20 உலகக் கிண்ணம்: காயமடைந்த பத்திரணவைப் பிரதியிட்ட டில்ஷான் மதுஷங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-tamilmirrorlk-0a157503)
+- 2026-02-19 | `tamilmirrorlk-314ecf27` | இன்று அவ்வப்போது மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-tamilmirrorlk-314ecf27)
+- 2026-02-19 | `tamilmirrorlk-e051c9aa` | முஸ்லிம்களுக்கான 5 வீத இடஒதுக்கீடு மகாராஷ்டிராவில் ரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-tamilmirrorlk-e051c9aa)
+- 2026-02-19 | `adalk-66301cdd` | අද වහින්නේ මෙහෙමෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-adalk-66301cdd)
+- 2026-02-19 | `adalk-b505ba34` | ශ්‍රී ලංකා සිම්බාබ්වේ තරගය අද | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-adalk-b505ba34)
 - 2026-02-19 | `adalk-0c6aae4b` | මතීෂ වෙනුවට ඩිල්ෂාන් කණ්ඩායමට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-adalk-0c6aae4b)
 - 2026-02-19 | `dailyftlk-3cfc20f0` | Cuba, Iran, USA and Western subordination of world’s majority | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-dailyftlk-3cfc20f0)
 - 2026-02-19 | `dailyftlk-a7182acf` | Sajith meets UK Deputy PM; discusses trade reforms, legislative concerns and Ditwah recovery support | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-dailyftlk-a7182acf)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-02-19 | `dailyftlk-529d8361` | Renuka Holdings subsidiaries amalgamate | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-dailyftlk-529d8361)
 - 2026-02-19 | `dailyftlk-44002c10` | Fcode Labs invests in Germany-based coffee startup Bunamo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-dailyftlk-44002c10)
 - 2026-02-19 | `dailyftlk-4b3ad6d4` | HVA Foods parent part sells stake for Rs. 188 m | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-dailyftlk-4b3ad6d4)
-- 2026-02-19 | `dailyftlk-2deb81fc` | ‘IMF, hands off our future’: YUKTHI collective | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-dailyftlk-2deb81fc)
-- 2026-02-19 | `colombotelegraphcom-eeb0baeb` | Pensions – A Crucial Social Responsibility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-19-colombotelegraphcom-eeb0baeb)
-- 2026-02-18 | `islandlk-0b42c7ca` | Glowing Skin … | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-18-islandlk-0b42c7ca)
-- 2026-02-18 | `virakesarilk-c2bc6dc2` | ஷிவம் டுபேயின் சகலதுறை ஆட்டம், வருண் சக்ரவர்த்தியின் பந்துவீச்சு என்பன இந்தியாவை வெற்றி பெறச் செய்தன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-18-virakesarilk-c2bc6dc2)
-- 2026-02-18 | `dailyftlk-cbf7467a` | Celebrating Sri Lanka ‘Jayaflava’ way | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-18-dailyftlk-cbf7467a)
-- 2026-02-18 | `virakesarilk-b77e097e` | இலங்கைக்கான பிரித்தானிய உயர்ஸ்தானிகரக குழுவுடன் பிரித்தானிய துணைப் பிரதமர் டேவிட் லாமி சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-18-virakesarilk-b77e097e)
 
 ---
 
