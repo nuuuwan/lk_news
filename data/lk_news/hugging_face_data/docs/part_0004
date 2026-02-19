@@ -67484,6 +67484,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-19-adalk-b311bc2c",
+    "num": "adalk-b311bc2c",
+    "date_str": "2026-02-19",
+    "description": "\u0db4\u0ddc\u0dbd\u0dca \u0d9a\u0ddc\u0dc5 \u0db8\u0dd0\u0dbd\u0dc0\u0dd2\u0db8\u0dda \u0dbb\u0ddd\u0d9c\u0dba \u0daf\u0d9a\u0dd4\u0dab\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dad\u0da7 \u0dba\u0dcf\u0db8 \u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd2\u0db8\u0da7 \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dca-\u0d9a\u0ddc\u0dc5-\u0db8\u0dd0\u0dbd\u0dc0\u0dd2\u0db8\u0dda-\u0dbb\u0ddd\u0d9c\u0dba-\u0daf\u0d9a\u0dd4\u0dab\u0dd9\u0db1\u0dca-\u0db4\u0dd2\u0da7\u0dad\u0da7-\u0dba\u0dcf\u0db8-\u0dc0\u0dd0\u0dc5\u0dd0\u0d9a\u0dca\u0dc0\u0dd2\u0db8\u0da7-\u0dba\u0dba\u0dd2/11-421311",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771470935.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-19-tamilmirrorlk-e051c9aa",
     "num": "tamilmirrorlk-e051c9aa",
     "date_str": "2026-02-19",
@@ -67525,5 +67536,71 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1771475924.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-adalk-a600add8",
+    "num": "adalk-a600add8",
+    "date_str": "2026-02-19",
+    "description": "2025\u0daf\u0dd3 \u0d9a\u0ddc\u0da7\u0dd2 \u0db8\u0dbb\u0dab \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0dbd\u0dd9\u0dc3 \u0d89\u0dc4\u0dc5 \u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca, \u0d9a\u0ddc\u0da7\u0dd2\u0db1\u0dca\u0d9c\u0dda \u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0db8\u0dad\u0dca \u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0d9a",
+    "url_metadata": "https://www.ada.lk/breaking_news/2025\u0daf\u0dd3-\u0d9a\u0ddc\u0da7\u0dd2-\u0db8\u0dbb\u0dab-\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd-\u0dbd\u0dd9\u0dc3-\u0d89\u0dc4\u0dc5-\u0d9c\u0dd2\u0dc4\u0dd2\u0db1\u0dca--\u0d9a\u0ddc\u0da7\u0dd2\u0db1\u0dca\u0d9c\u0dda-\u0db4\u0dd0\u0dc0\u0dd0\u0dad\u0dca\u0db8\u0dad\u0dca-\u0d85\u0dbb\u0dca\u0db6\u0dd4\u0daf\u0dba\u0d9a/11-421313",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771476778.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-tamilmirrorlk-5b21a671",
+    "num": "tamilmirrorlk-5b21a671",
+    "date_str": "2026-02-19",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc7\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-\u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc7\u0bb2\u0bc8/175-372724",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1771478690.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-tamilmirrorlk-e23bb74a",
+    "num": "tamilmirrorlk-e23bb74a",
+    "date_str": "2026-02-19",
+    "description": "\u0ba8\u0bbe\u0bae\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1: \u0b8f\u0baa\u0bcd\u0bb0\u0bb2\u0bcd 02\u0b87\u0bb2\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bae\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0b8f\u0baa\u0bcd\u0bb0\u0bb2\u0bcd-02\u0b87\u0bb2\u0bcd-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8/175-372725",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1771479231.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-tamilmirrorlk-15f87af5",
+    "num": "tamilmirrorlk-15f87af5",
+    "date_str": "2026-02-19",
+    "description": "\u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd  \u0b9a\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba4\u0bb5\u0bbf-\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0bb2\u0bbf/175-372726",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1771480191.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-tamilmirrorlk-aaee2f07",
+    "num": "tamilmirrorlk-aaee2f07",
+    "date_str": "2026-02-19",
+    "description": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd \u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bbf\u0ba9\u0bcd-\u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bc8/175-372727",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1771481586.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-tamilmirrorlk-68fa52c8",
+    "num": "tamilmirrorlk-68fa52c8",
+    "date_str": "2026-02-19",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0b95\u0bca\u0b9f\u0bc2\u0bb0 \u0b95\u0bca\u0bb2\u0bc8 ; \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0ba4\u0bbe\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0b95\u0bca\u0b9f\u0bc2\u0bb0-\u0b95\u0bca\u0bb2\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95-\u0ba8\u0baa\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd-\u0ba4\u0bbe\u0baf\u0bc1\u0bae\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-372728",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1771482355.0
   }
 ]
