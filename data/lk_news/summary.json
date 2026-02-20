@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-20 08:44:08",
-  "n_docs": 102612,
+  "time_updated": "2026-02-20 10:18:54",
+  "n_docs": 102636,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 102612,
+  "n_docs_with_text": 102636,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-02-20",
-  "dataset_size": 1567016635,
+  "dataset_size": 1567315796,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "en",
-    "si",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-20-dailyftlk-f15aae17",
-    "num": "dailyftlk-f15aae17",
+    "doc_id": "2026-02-20-virakesarilk-2f2e7115",
+    "num": "virakesarilk-2f2e7115",
     "date_str": "2026-02-20",
-    "description": "AmCham Sri Lanka CEO Forum on \u2018Accelerating Sri Lanka\u2019s Rebuild\u2019 next week",
-    "url_metadata": "https://www.ft.lk/business/AmCham-Sri-Lanka-CEO-Forum-on-Accelerating-Sri-Lanka-s-Rebuild-next-week/34-788584",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1771551311.0
+    "description": "\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bb2\u0bbf\u0bb2\u0bcd \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd ; 03 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0ba3\u0bbf \u0b87\u0b9f\u0bc8\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd !",
+    "url_metadata": "https://www.virakesari.lk/article/239122",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1771561200.0
   }
 }
