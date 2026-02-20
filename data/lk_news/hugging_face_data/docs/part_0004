@@ -64316,6 +64316,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-16-islandlk-9b625594",
+    "num": "islandlk-9b625594",
+    "date_str": "2026-02-16",
+    "description": "Fickle public mood",
+    "url_metadata": "http://island.lk/fickle-public-mood/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771253460.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-16-islandlk-989a7f5b",
     "num": "islandlk-989a7f5b",
     "date_str": "2026-02-16",
@@ -67286,6 +67297,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-18-islandlk-dfd6f489",
+    "num": "islandlk-dfd6f489",
+    "date_str": "2026-02-18",
+    "description": "Big scene for models\u2026",
+    "url_metadata": "http://island.lk/big-scene-for-models/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771438140.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-18-islandlk-0b42c7ca",
     "num": "islandlk-0b42c7ca",
     "date_str": "2026-02-18",
@@ -67294,6 +67316,39 @@ ews",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1771438200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-18-islandlk-54b59b85",
+    "num": "islandlk-54b59b85",
+    "date_str": "2026-02-18",
+    "description": "Grown: Rich remnants from two countries",
+    "url_metadata": "http://island.lk/grown-rich-remnants-from-two-countries/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771438380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-islandlk-3d95ab3a",
+    "num": "islandlk-3d95ab3a",
+    "date_str": "2026-02-19",
+    "description": "Bourse buoyed by IMF chief\u2019s positive observations",
+    "url_metadata": "http://island.lk/bourse-buoyed-by-imf-chiefs-positive-observations/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771439460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-islandlk-6027e870",
+    "num": "islandlk-6027e870",
+    "date_str": "2026-02-19",
+    "description": "A photograph of a Jaffna youth becomes a global symbol for Sri Lanka\u2019s stalled reconciliation",
+    "url_metadata": "http://island.lk/a-photograph-of-a-jaffna-youth-becomes-a-global-symbol-for-sri-lankas-stalled-reconciliation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771439520.0
   },
   {
     "doc_type": "lk_news",
@@ -67547,6 +67602,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1771474260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-islandlk-777e70d3",
+    "num": "islandlk-777e70d3",
+    "date_str": "2026-02-19",
+    "description": "A nation reframed through food: Sri Lanka\u2019s historic National Geographic debut",
+    "url_metadata": "http://island.lk/a-nation-reframed-through-food-sri-lankas-historic-national-geographic-debut/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771475100.0
   },
   {
     "doc_type": "lk_news",
@@ -68452,6 +68518,39 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-19-islandlk-9ebd72dd",
+    "num": "islandlk-9ebd72dd",
+    "date_str": "2026-02-19",
+    "description": "IDL emerges champion at CIPM Great HR Quiz 2026 on debut appearance",
+    "url_metadata": "http://island.lk/idl-emerges-champion-at-cipm-great-hr-quiz-2026-on-debut-appearance/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771517280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-islandlk-6d411d86",
+    "num": "islandlk-6d411d86",
+    "date_str": "2026-02-19",
+    "description": "Dr. Ruchitha Perera re-elected Honorary Co-Vice Chair of the Chartered Institute of Marketing Board of Directors",
+    "url_metadata": "http://island.lk/dr-ruchitha-perera-re-elected-honorary-co-vice-chair-of-the-chartered-institute-of-marketing-board-of-directors/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771518660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-islandlk-ae282286",
+    "num": "islandlk-ae282286",
+    "date_str": "2026-02-19",
+    "description": "HNB becomes Official Banking Partner of the Royal\u2013Thomian",
+    "url_metadata": "http://island.lk/hnb-becomes-official-banking-partner-of-the-royal-thomian/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1771518660.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-19-tamilmirrorlk-6bd3bb58",
     "num": "tamilmirrorlk-6bd3bb58",
     "date_str": "2026-02-19",
@@ -68518,6 +68617,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-19-colombotelegraphcom-3166b202",
+    "num": "colombotelegraphcom-3166b202",
+    "date_str": "2026-02-19",
+    "description": "A Tribute To School By The Sea From An Alumnus From The Other School",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/a-tribute-to-school-by-the-sea-from-an-alumnus-from-the-other-school/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1771523594.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-19-tamilmirrorlk-9ddb5cf0",
     "num": "tamilmirrorlk-9ddb5cf0",
     "date_str": "2026-02-19",
@@ -68526,5 +68636,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1771524048.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-19-colombotelegraphcom-40afd2bf",
+    "num": "colombotelegraphcom-40afd2bf",
+    "date_str": "2026-02-19",
+    "description": "Francesca Albanese \u2013 Recommended For Nobel Prize",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/francesca-albanese-recommended-for-nobel-prize/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1771525292.0
   }
 ]
