@@ -1,0 +1,51 @@
+The ’’Silent Bottleneck’’ in 2026 education reforms
+
+Why a new approach to English Literacy is an economic imperative
+
+As Sri Lanka embarks on its ambitious education reform program, the focus has understandably been on the high-tech future offered by AI and STEM. However, beneath the surface of the curriculum and syllabus reforms lies a silent bottleneck that threatens to derail this future.
+
+Currently the state invests years of funding into students to learn English, only for that investment to be stranded at the university level because they do not have the foundational English literacy skills to efficiently access an English-medium curriculum.
+
+The private sector and state universities are currently grappling with a phenomenon known as the lexical bar. This refers to the minimum level of vocabulary knowledge, linguistic processing for meaning, and reading fluency required to master discipline specific content through English. It is a threshold that students must cross to make the shift from ‘learning to read English’ to ‘reading to learn’.
+
+For students to be ready for post-secondary education, training, and employment in English medium they must cross this lexical bar threshold no later than Grade 11. That is the point at which they must have the literacy skills to make sense of new discipline specific vocabulary and content - and to use it.
+
+The school system assumes students will independently acquire the complex vocabulary and comprehension skills needed for post-secondary study. The evidence, however, suggests this assumption is systemically false. Students enter university—where for most degrees the medium of instruction is English—facing a ‘triple load’: they must simultaneously learn complex subject matter, master academic English, and adapt to independent study.
+
+This inefficiency is a hidden cost to the taxpayer. The state pays for primary education, then pays again for remedial English programs in university to fix what wasn't done correctly the first time.
+
+Most Universities have large Departments of English Language Teaching (DELT) whose primary role is to provide remedial instruction to under-graduates in English to bridge this skills gap. The writer has herself conducted intensive online English courses for new under-graduates in Arts, Science, and Business at a large State University in Sri Lanka and has seen first-hand the difficulties that the students face.
+
+But this is not just a student problem. It is a productivity problem. When vocational training and university graduates cannot read unfamiliar technical texts independently or use precise discipline or profession specific language to explain a process, the workforce remains stalled in low-value activities which ultimately will keep Sri Lanka’s service sector from competing with regional hubs.
+
+From speech to print: The science of building a reading brain
+
+The 2026 reforms aim to make English a tool for opportunity. But to achieve this, there needs to be a change in how students are taught to read English from the earliest grades. To understand the 2026 reform's missing piece, one only needs to look at how you are reading this sentence right now.
+
+As your eyes move across this page, your brain is performing a high-speed decoding process. You aren't ‘guessing’ these words from the context or the layout of the Daily FT and you are not hearing letter names in your head. Your brain is instantly mapping letters and letter combinations (e.g. th,  tion ) to their corresponding sounds. This process is called decoding because you are using knowledge of the English alphabetic code – the mapping between sound and letters. The whole code has 250 combinations – not just the 26 contained in the alphabet.
+
+Once we decode the word and blend the sounds together, our mental dictionary gives us the meaning. The faster we decode and recognise words, the more fluently we read. The more fluently we read the better our overall comprehension at sentence, paragraph and text levels. The more we understand the more knowledge we build, and this further enhances our word recognition, fluency and comprehension, as well as our oral language competency.
+
+Reading is not a natural process like learning to communicate through speech. Writing was invented by humans and so reading involves training our brain, rewiring the circuits. The ‘Science of Reading’ (SoR) is an extensive body of research on how we train our brains to read.
+
+In terms of classroom instruction, SoR has conclusively proven that systematic, explicit instruction in the alphabetic code (‘phonics’)  is critical to ensure every child has the keys to the code before they stary to read. If they know the code they don’t need to memorise words as a sequence of letters or rely on pictures or context to guess words.
+
+Teachers we have trained who have applied this method in their classrooms and even Principals describe phonics as magic. It’s not magic – its science.
+
+This evidence-based approach is mandated as policy in all English-speaking countries with the UK leading the way since 2010, by legislation in 40 US States, and even a condition of school funding by the Australian Federal Government. It forms part of the English curriculum in Singapore and Malaysia.
+
+If this critical skill gap is not remedied in the new English curriculum from primary through to secondary, Sri Lankan students will fall further behind their peers in other countries and will not be able to participate at the higher value-add levels in STEM or AI.
+
+A strategic pivot: Using the 2027 delay to build a foundation
+
+The recent decision to defer the Grade 6 English syllabus rollout to 2027 is an opportunity. The DRAFT English Curriculum circulated by the NIE in 2022 has the necessary hooks but is not sufficiently explicit to ensure that these foundational literacy skills form part of the syllabus (Teachers Guides, Modules). The change therefore needs to be explicitly engineered into the classroom text books and Teacher’s Guides.
+
+The delay provides the National Institute of Education (NIE) with a critical window to retrofit the science of reading to the Grade 6 modules, while at the same time, engineering it into the new syllabi for all grades as they are developed.
+
+Currently, the lexical bar acts as a filter for privilege. Only students from elite backgrounds or those with access to expensive private tuition manage to cross it in time for post-secondary education and employment. If the Government is committed to equity, it must ensure that evidence-based literacy skills are taught in every state school from primary grades, not just a select few.
+
+In addition, all stakeholders, and especially the private sector, must realise that English literacy is critical infrastructure. If the foundation is not fixed in 2027, the 'Digital Sri Lanka' of 2035 will remain a mirage and investments in AI and STEM will not yield the expected returns.
+
+It is time we stop asking children to use outdated, unscientific, and cognitively inefficient processes for learning to read English, and start training their brains to crack the code.
+
+(The author is the President of Partners In Micro-development (PIMD - https://microdevpartners.org/ ), an international NGO with over 20 years of experience in educational development in Sri Lanka. Based in Sydney, she works extensively with Sri Lankan state universities providing online training for English Teachers in English literacy instruction based on the Science of Reading. PIMD was founded by Dr. Vaughan’s late husband, Dr. Mahesan Kandaiya)
