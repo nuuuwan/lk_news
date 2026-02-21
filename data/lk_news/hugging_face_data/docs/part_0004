@@ -69651,6 +69651,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-20-adalk-b76a0bbc",
+    "num": "adalk-b76a0bbc",
+    "date_str": "2026-02-20",
+    "description": "\u0dc4\u0ddc\u0dbb \u0d92\u0da2\u0db1\u0dca\u0dc3\u0dd2 \u0dc0\u0dd0\u0da7\u0dbd\u0dd3\u0db8 \u0da2\u0dcf\u0d87\u0dbd\u0dd9\u0db1\u0dca \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0ddc\u0dbb-\u0d92\u0da2\u0db1\u0dca\u0dc3\u0dd2-\u0dc0\u0dd0\u0da7\u0dbd\u0dd3\u0db8-\u0da2\u0dcf\u0d87\u0dbd\u0dd9\u0db1\u0dca-\u0d85\u0dbb\u0db9\u0dba\u0dd2/11-421347",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771582664.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-20-virakesarilk-46b00a39",
     "num": "virakesarilk-46b00a39",
     "date_str": "2026-02-20",
