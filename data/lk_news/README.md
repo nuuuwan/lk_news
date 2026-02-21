@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--21_19:49:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--21_21:47:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**102,789** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**102,792** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-21-virakesarilk-c7553fcf",
-    "num": "virakesarilk-c7553fcf",
+    "doc_id": "2026-02-21-virakesarilk-e6c2f27b",
+    "num": "virakesarilk-e6c2f27b",
     "date_str": "2026-02-21",
-    "description": "\u0ba8\u0b9f\u0bbf\u0b95\u0bb0\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf \u0ba8\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd '\u0baa\u0bbf\u0bb3\u0bbe\u0b95\u0bcd \u0b95\u0bcb\u0bb2\u0bcd\u0b9f\u0bc1' \u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0baa\u0b9f\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/239247",
+    "description": "\u0b85\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bc7\u0b95\u0bca\u0b9f \u0b9a\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bb0\u0ba3\u0bbf \u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf\u0baf\u0bb0\u0bcd \u0b95\u0bca\u0bb2\u0bc8\u0b9a\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/239248",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1771675800.0
+    "time_ut": 1771688460.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-21 | `virakesarilk-e6c2f27b` | அக்குரேகொட சட்டத்தரணி தம்பதியர் கொலைச் சம்பவத்தில் முக்கிய சந்தேகநபர் சிக்கினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-virakesarilk-e6c2f27b)
+- 2026-02-21 | `tamilmirrorlk-199e2361` | கிராம உத்தியோகத்தர்கள் எடுத்துள்ள அதிரடி தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-tamilmirrorlk-199e2361)
+- 2026-02-21 | `tamilmirrorlk-fe14e022` | அக்குரேகொட படுகொலை : துப்பாக்கிதாரி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-tamilmirrorlk-fe14e022)
 - 2026-02-21 | `virakesarilk-c7553fcf` | நடிகர் வெற்றி நடிக்கும் 'பிளாக் கோல்டு' படத்தின் படப்பிடிப்பு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-virakesarilk-c7553fcf)
 - 2026-02-21 | `virakesarilk-b9b9a533` | இந்திய மக்களவை உறுப்பினரான திரு தொல் திருமாவளவன் வெளியிட்ட 'ஏ படம்' எனும் படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-virakesarilk-b9b9a533)
 - 2026-02-21 | `virakesarilk-666a5faf` | உலக நாயகன் - சுப்பர் ஸ்டார் இணையும் படத்தின் அறிமுக காணொளி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-virakesarilk-666a5faf)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-02-21 | `virakesarilk-a808d800` | இலங்கை சிறையில் உள்ள மீனவர்களை விடுதலை செய்ய வலியுறுத்தி தமிழக மீனவர்கள் ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-virakesarilk-a808d800)
 - 2026-02-21 | `virakesarilk-57986833` | அதிவேக வீதிகளில் பயணித்த வாகனங்களில் ஆசனப் பட்டி அணியாத 9,000 பேருக்கு அபராதம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-virakesarilk-57986833)
 - 2026-02-21 | `virakesarilk-f7dfdbdb` | மன்னாரில் தொடரும் நகை அபகரிப்பு ;   பாதுகாப்பை உறுதிப்படுத்த கோரி கவனயீர்ப்பு போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-virakesarilk-f7dfdbdb)
-- 2026-02-21 | `virakesarilk-b706deb8` | அனைத்து நாடுகளுக்கும் தற்காலிகமாக 10 சதவீதம் வரி : டிரம்ப் அதிரடி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-virakesarilk-b706deb8)
-- 2026-02-21 | `virakesarilk-df8e0e90` | அமெரிக்க பசிபிக் கடற்படையின் கட்டளைத் தளபதி - இலங்கை கடற்படைத் தளபதியை சந்தித்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-virakesarilk-df8e0e90)
-- 2026-02-21 | `virakesarilk-ae2fc696` | தெவிநுவர துப்பாக்கிச் சூடு:காயமடைந்த நபர் சிகிச்சைப் பலனின்றி உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-virakesarilk-ae2fc696)
 
 ---
 
