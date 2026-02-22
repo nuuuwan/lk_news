@@ -1,0 +1,69 @@
+Understanding Fixed Income
+
+This article is part of a collaborative series by the CFA Society Sri Lanka, Securities and Exchange Commission of Sri Lanka (SEC) and the Colombo Stock Exchange (CSE) which aims to enhance financial literacy and empower individuals with the knowledge and tools to make informed financial decisions and build long-term financial security. This week, we present the third article from our series: Understanding Fixed Income, authored by Keshawa Perera, CFA.
+
+Fixed income investments, commonly known as bonds, provide regular interest payments and return your original investment at the end of a fixed term. When you buy a bond, you’re lending money to a government or company, and in return, you receive fixed interest payments (the “coupon”) and your principal at maturity. Bonds are valued for their stability and predictable income, making them a foundation for conservative investors and retirees seeking steady yet lower-risk returns.
+
+A bond is a legal agreement between a borrower (issuer) and a lender (investor). The issuer promises to pay back the principal (face value) and make regular interest payments at a set rate (coupon rate) on specified dates (coupon dates) until the maturity date. Bonds are categorized by their maturity:
+
+While bonds pay fixed interest, their value can fluctuate in the secondary market, where bonds are bought and sold after being issued. In the secondary bond market, bond prices and interest rates move in opposite directions. When interest rates fall, existing bonds with higher fixed interest rates become more attractive to investors, so their prices go up. Conversely, when market interest rates rise, older bonds offering lower interest rates become less valuable, causing their prices to drop. If you sell a bond before maturity, you may receive more or less than you paid, depending on market interest rates. Accrued interest (the interest earned since the last payment), is added to the bond’s sale price.
+
+Central bank policy rates and expectations: Short-term market rates are guided by Central Bank policy rtaes, which act as the benchmark for market interest rates. In addition, expectations about future policy decisions (such as rate hikes or cuts) can significantly influence how market interest rates move.
+
+The Issuer: Bonds are issued by both the government ( such as Treasury bills and bonds) and private companies (known as debentures). The higher the risk that an issuer may not meet its interest payments, the higher the interest rate offered. Credit ratings are independent assessments issued by rating agencies such as Moody’s, S&P and Fitch Ratings, that measure how likely a government or company is to repay its debts. They help investors understand default risk, ranging from safer “investment grade” to riskier “speculative” grades. However, credit ratings are only opinions,not guarantees,so they should be considered together with your own analysis.
+
+Term to Maturity: Longer maturities carry more uncertainty and so investors demand a higher interest rate (known as a term premium) to compensate for this risk
+
+Liquidity: If a bond is not traded often, it can be harder to sell quickly. To make up for this, such bonds usually pay a higher interest rate, called a liquidity premium.
+
+If you invest LKR 100,000 in a Treasury Bond with a 12% coupon, you receive LKR 6,000 every six months until maturity.
+
+Treasury Bills (short-term securities issued by governments) don’t pay periodic interest. Instead, you buy them at a discount and receive the full-face value at maturity.
+
+Buy a 364-day T-Bill for LKR 92,000 (discounted price); at maturity, you receive LKR 100,000 (face-value), your return is LKR 8,000. The interest rate is 8.7%.
+
+If you sell a bond before maturity, you may make a profit (capital gain) or loss, depending on market interest rates.
+
+If you buy a corporate debenture at LKR 100,000 with a 10% coupon and sell it for LKR 105,000 after rates fall, you gain LKR 5,000 plus interest received.
+
+Shares and bonds serve different roles. Shares offer ownership in a company and the potential for high returns, but with greater volatility and risk. Bonds are loans to companies or governments, providing stable, predictable income and lower risk.
+
+Bonds pay fixed interest, unlike shares, where dividends are not guaranteed.
+
+Bondholders are settled before shareholders if a company fails and is liquidated.
+
+From 1994–2024, the ASPI index averaged 14.57% annual nominal returns with 37.10% volatility. Treasury bills in comparison averaged 11.34% returns with no principal losses. Bonds provided stability while shares offered higher long-term returns but with greater risk.
+
+Bonds are generally less risky than shares, but not risk-free. Key risks include:
+
+When interest rates rise, bond prices fall. This is more pronounced for longer-term bonds.
+
+The risk that the issuer fails to pay interest or principal. Typically this risk is higher with Corporate bonds or high-yield junk bonds with weak credit ratings. Government bonds usually are safer with lower credit risk, but Sri Lanka’s 2022 sovereign default shows that even these can be affected by economic crises. (Note: investors holding Sri Lankan government rupee bonds were not directly affected by the 2022 default, which mainly impacted external debt or foreign currency bonds. However local government bond holders experienced indirect impacts through high inflation and sharp interest-rate movements and policy uncertainty.)
+
+Rising inflation reduces the real value of fixed interest payments, thereby decreasing the ability to buy goods and services over time.
+
+Some bonds, especially corporate debentures, may be hard to sell quickly in the secondary market, without a price discount.
+
+Issued by the Central Bank of Sri Lanka (CBSL), these are considered highly reliable and are available in “scripless” (electronic) form.
+
+Investors can buy new issues through licensed intermediaries called Primary Dealers or licensed commercial banks (minimum LKR 5 million in the primary market) or in smaller amounts in the secondary market. All transactions are electronic and managed by the LankaSecure System, providing security and liquidity.
+
+Companies issue debentures to raise funds, usually listed on the Colombo Stock Exchange (CSE).
+
+Interest: Fixed or floating rates (e.g., 12.5% per annum or linked to T-Bill rates)
+
+Recent regulatory changes allow Green (money is borrowed for environmentally friendly projects), Blue (focused on marine and freshwater conservation projects), Social, and Sustainability-Linked Bonds. These raise funds for environmental or social projects and attract investors focused on ESG (Environmental, Social, Governance) criteria.
+
+Bonds are a key part of a diversified investment strategy. They provide:
+
+The right mix of bonds and shares depends on your age, risk tolerance, and financial goals. Younger investors may hold fewer bonds, while those nearing retirement may increase bond allocations for stability and income.
+
+Bonds offer a reliable way to grow and protect your savings, providing stable income and reducing overall investment risk. While generally safer than shares, they are not entirely risk-free,interest rates, inflation, and credit events can affect returns. The Sri Lankan market offers a range of government and corporate bonds, including innovative sustainable options. By understanding how bonds work and the risks involved, investors can use fixed income securities to build a more resilient and balanced portfolio.
+
+CMTA calls for urgent recall of vehicle valuation and import processes
+
+American Premium Water redefines hydration with industry-first loyalty programme and mobile application
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
