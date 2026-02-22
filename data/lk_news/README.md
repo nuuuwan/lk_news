@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--22_06:14:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--22_08:45:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**102,812** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**102,814** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-22-tamilmirrorlk-a3a9166a",
-    "num": "tamilmirrorlk-a3a9166a",
+    "doc_id": "2026-02-22-tamilmirrorlk-53aac426",
+    "num": "tamilmirrorlk-53aac426",
     "date_str": "2026-02-22",
-    "description": "\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0ba4\u0bbf \u0b95\u0bcb\u0bb0\u0bbf \u0b95\u0bb5\u0ba9\u0baf\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bc0\u0ba4\u0bbf-\u0b95\u0bcb\u0bb0\u0bbf-\u0b95\u0bb5\u0ba9\u0baf\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1/175-372827",
+    "description": "\u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bc1 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba3\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bc1-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-372828",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1771709982.0
+    "time_ut": 1771710792.0
 }
 ```
 
@@ -41,10 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-22 | `tamilmirrorlk-53aac426` | மண்சரிவு குறித்து சிவப்பு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-53aac426)
 - 2026-02-22 | `tamilmirrorlk-a3a9166a` | ஊடகவியலாளருக்கு நீதி கோரி கவனயீர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-a3a9166a)
 - 2026-02-22 | `tamilmirrorlk-06e6e449` | இறக்குமதி வரிகளை 15 சதவீதம் உயர்த்தினார் ட்ரம்ப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-06e6e449)
 - 2026-02-21 | `tamilmirrorlk-2c6b7aba` | இ – 20 உலகக் கிண்ணம்: கைவிடப்பட்ட நியூசிலாந்து – பாகிஸ்தான் போட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-tamilmirrorlk-2c6b7aba)
 - 2026-02-21 | `adalk-3be4ce71` | දෙවිනුවර වෙඩි තැබීමකින් 55 වියැති පුද්ගලයෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-adalk-3be4ce71)
+- 2026-02-21 | `adalk-95018e8c` | පාකිස්තාන නවසිලන්ත තරගයේ ජය වැස්සට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-adalk-95018e8c)
 - 2026-02-21 | `tamilmirrorlk-c645ea0f` | இ – 20 உலகக் கிண்ணம்: முதலில் துடுப்பெடுத்தாடவுள்ள பாகிஸ்தான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-tamilmirrorlk-c645ea0f)
 - 2026-02-21 | `virakesarilk-e6c2f27b` | அக்குரேகொட சட்டத்தரணி தம்பதியர் கொலைச் சம்பவத்தில் முக்கிய சந்தேகநபர் சிக்கினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-virakesarilk-e6c2f27b)
 - 2026-02-21 | `tamilmirrorlk-199e2361` | கிராம உத்தியோகத்தர்கள் எடுத்துள்ள அதிரடி தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-tamilmirrorlk-199e2361)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-02-21 | `islandlk-4f5047a9` | Hambantota solar projects: Allegations of bribery and environmental destruction –– Sajeewa Chamikara speaks out | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-islandlk-4f5047a9)
 - 2026-02-21 | `islandlk-ba010b47` | Pioneers in Healing: The Presidents Who Shaped Sri Lanka’s Healthcare (Volume 1) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-islandlk-ba010b47)
 - 2026-02-21 | `islandlk-5681a174` | The Tsunami of 2024 and what followed at the Finance Ministry and overseas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-islandlk-5681a174)
-- 2026-02-21 | `islandlk-1997e073` | Victor, the Friend of the Foreign Press | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-islandlk-1997e073)
-- 2026-02-21 | `islandlk-18d9246e` | Buddhism, Spirituality and Science | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-21-islandlk-18d9246e)
 
 ---
 
