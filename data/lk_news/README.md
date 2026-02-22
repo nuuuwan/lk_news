@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--22_11:59:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--22_13:51:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**102,846** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**102,854** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-22-virakesarilk-a02139ba",
-    "num": "virakesarilk-a02139ba",
+    "doc_id": "2026-02-22-adalk-850f0c8a",
+    "num": "adalk-850f0c8a",
     "date_str": "2026-02-22",
-    "description": "\u0baa\u0bbe\u0bb0\u0bbe\u0bb3\u0bc1\u0bae\u0ba9\u0bcd\u0bb1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b93\u0baf\u0bcd\u0bb5\u0bc2\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1! \u0ba8\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bbe? \u0ba4\u0bc0\u0bae\u0bc8\u0baf\u0bbe?",
-    "url_metadata": "https://www.virakesari.lk/article/239274",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1771741500.0
+    "description": "\u0daf\u0d9a\u0dd4\u0dab\u0dda \u0dc0\u0dd3 \u0d9c\u0db1\u0dca\u0db1 \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1 18\u0d9a\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0d9a\u0dd4\u0dab\u0dda-\u0dc0\u0dd3-\u0d9c\u0db1\u0dca\u0db1-\u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1-18\u0d9a\u0dca-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad\u0dba\u0dd2/11-421358",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771747672.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-22 | `adalk-850f0c8a` | දකුණේ වී ගන්න මධ්‍යස්ථාන 18ක් විවෘතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-adalk-850f0c8a)
+- 2026-02-22 | `tamilmirrorlk-503f43ae` | சிறுவனை வன்புணர்ந்த கராத்தே மாஸ்டர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-503f43ae)
+- 2026-02-22 | `tamilmirrorlk-791b81ee` | பதிவு திருமண முறையை கடுமையாக்கும் சட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-791b81ee)
+- 2026-02-22 | `tamilmirrorlk-3849f594` | பல பெண்களுடன் உல்லாசம்: கணவனுக்கு நடந்த கொடூரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-3849f594)
 - 2026-02-22 | `virakesarilk-a02139ba` | பாராளுமன்ற உறுப்பினர்களின் ஓய்வூதியம் இரத்து! நன்மையா? தீமையா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-virakesarilk-a02139ba)
 - 2026-02-22 | `virakesarilk-3ea57372` | நான்கு மாவட்டங்களுக்கு விடுக்கப்பட்ட மண்சரிவு 'சிவப்பு' எச்சரிக்கை நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-virakesarilk-3ea57372)
 - 2026-02-22 | `virakesarilk-8406753f` | எஹெலியகொடையில் 171 மி.மீ மழை: இன்றும் பல இடங்களில் இடியுடன் கூடிய மழை பெய்யக்கூடும்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-virakesarilk-8406753f)
@@ -51,16 +55,12 @@ A collection of lk_news documents.
 - 2026-02-22 | `virakesarilk-77315733` | குரலற்றவர்களின் குரலொன்று ஓய்ந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-virakesarilk-77315733)
 - 2026-02-22 | `virakesarilk-d48cdd02` | மகாவலி ஆறு மனம்பிட்டியவில் பெருக்கெடுப்பு ; சோமாவதி வீதி மூடப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-virakesarilk-d48cdd02)
 - 2026-02-22 | `virakesarilk-5d740199` | ஹாப்டார், அவரின் அமெ­ரிக்­க -­ இஸ்­ரே­லிய எஜ­மா­னர்­க­ளுக்கு சாத­க­மா­கி­யுள்ள கேணல் கடா­பியின் மகன் சைஃப் அல் இஸ்லாம் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-virakesarilk-5d740199)
+- 2026-02-22 | `adalk-f96f3b8f` | සවස 1න් පසු බොහෝ ප්‍රදේශවලට වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-adalk-f96f3b8f)
 - 2026-02-22 | `adalk-2a9ba87f` | එංගලන්ත ශ්‍රී ලංකා තරගය අද, වර්ෂාවෙන් බාධා එයිද? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-adalk-2a9ba87f)
 - 2026-02-22 | `virakesarilk-71d5d4b7` | அமெரிக்க - ஈரானிய போர் வியூகத்தின் சமநிலை : வெளித்தெரியும் வலிமையும், அனுமானிக்க முடியாத உத்திகளும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-virakesarilk-71d5d4b7)
 - 2026-02-22 | `virakesarilk-14006f9a` | நாடு தழுவிய ரீதியில் பொலிஸாரின் அதிரடிச் சோதனை: 500-க்கும் மேற்பட்டோர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-virakesarilk-14006f9a)
 - 2026-02-22 | `virakesarilk-473e6446` | தெற்காசிய மக்கள் கிளர்ச்சிகளும் தேர்தல்கள் மூலமான ஆட்சி மாற்றங்களும் ; கிளர்ச்சிகளை முன்னெடுத்த சக்திகளை தேர்தல்களில் மக்கள் ஏன் பொருட்படுத்துவதில்லை? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-virakesarilk-473e6446)
 - 2026-02-22 | `virakesarilk-1e93a4b6` | சட்டவிரோத மதுபானம் மற்றும் கோடாவுடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-virakesarilk-1e93a4b6)
-- 2026-02-22 | `tamilmirrorlk-dd4bd3b2` | இலங்கையை அண்மித்து உருவாகியுள்ள தளம்பல் நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-dd4bd3b2)
-- 2026-02-22 | `virakesarilk-6b778322` | அரசாங்கத்திற்கு எதிரான மக்களின் ஜனநாயக போராட்டங்களை ஒடுக்கவே "பயங்கரவாதத்தில் இருந்து அரசை பாதுகாக்கும் சட்டம்" -  சோசலிசக் கட்சியின் பொதுச் செயலாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-virakesarilk-6b778322)
-- 2026-02-22 | `tamilmirrorlk-18da2849` | ரயிலுடன் மோதிய கெப் வாகனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-18da2849)
-- 2026-02-22 | `tamilmirrorlk-2f177112` | பாலத்திலிருந்து பாய்ந்த வாகனத்தால் பாரிய சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-2f177112)
-- 2026-02-22 | `virakesarilk-49589829` | மொனராகலையில் பாலத்திலிருந்து வீழ்ந்து விபத்துக்குள்ளானது கெப் வாகனம் : பிரதான நீர் விநியோகக் குழாய் உடைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-virakesarilk-49589829)
 
 ---
 
