@@ -72533,6 +72533,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-23-dbsjeyarajcom-a76d2117",
+    "num": "dbsjeyarajcom-a76d2117",
+    "date_str": "2026-02-23",
+    "description": "The  Naam Thamilar Katchi which Regards LTTE Chief Veluppillai Prabhakaran as its ideological leader to Field 117 Males and 117 Females in  all 234 Electorates  Tamil Nadu State Elections\u2019 Party Coordinator/head Seeman to Contest in Karaikudi Constituency of Sivaganga District",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87106",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1771797780.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-23-dbsjeyarajcom-d5926fa1",
     "num": "dbsjeyarajcom-d5926fa1",
     "date_str": "2026-02-23",
@@ -73446,6 +73457,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-23-colombotelegraphcom-177660ab",
+    "num": "colombotelegraphcom-177660ab",
+    "date_str": "2026-02-23",
+    "description": "Raja de Silva Is No More",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/raja-de-silva-is-no-more/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1771861489.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-23-virakesarilk-7508c40f",
     "num": "virakesarilk-7508c40f",
     "date_str": "2026-02-23",
@@ -73575,5 +73597,16 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1771875957.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-24-dailyftlk-6cd7e63d",
+    "num": "dailyftlk-6cd7e63d",
+    "date_str": "2026-02-24",
+    "description": "Is\u00a0racism dead, dying or alive and kicking?",
+    "url_metadata": "https://www.ft.lk/columns/Isracism-dead-dying-or-alive-and-kicking/4-788729",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771880000.0
   }
 ]
