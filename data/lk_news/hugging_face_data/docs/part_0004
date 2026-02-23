@@ -72346,6 +72346,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-23-dbsjeyarajcom-b603160d",
+    "num": "dbsjeyarajcom-b603160d",
+    "date_str": "2026-02-23",
+    "description": "Ten Point Declaration Proclaimed by Leading Members of the  Buddhist Clergy on Feb 20th  at Maha Sangha Convention in Colombo to be sent to President Dissanayake",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87094",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1771789260.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-23-dailyftlk-f76240c5",
     "num": "dailyftlk-f76240c5",
     "date_str": "2026-02-23",
@@ -72508,6 +72519,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1771793460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-23-dbsjeyarajcom-630f89dd",
+    "num": "dbsjeyarajcom-630f89dd",
+    "date_str": "2026-02-23",
+    "description": "Sri Lanka  Launches Outreach  Campaign to Attract Foreign Investment for Colombo Port City Project Offering Full Foreign Ownership and Major Tax Breaks;   Steps up Roadshows from London to Bangkok following High Profile events in Dubai and Singapore.",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87101",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1771793520.0
   },
   {
     "doc_type": "lk_news",
@@ -73314,6 +73336,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-23-colombotelegraphcom-34ea5a6b",
+    "num": "colombotelegraphcom-34ea5a6b",
+    "date_str": "2026-02-23",
+    "description": "Reform, Development & The Character Of Institutions",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/reform-development-the-character-of-institutions/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1771850990.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-23-virakesarilk-42b2208b",
     "num": "virakesarilk-42b2208b",
     "date_str": "2026-02-23",
@@ -73322,6 +73355,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1771851540.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-23-colombotelegraphcom-a449e8bf",
+    "num": "colombotelegraphcom-a449e8bf",
+    "date_str": "2026-02-23",
+    "description": "Alive, Dying Or Dead? Racism In The Crosshairs Of Anura",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/alive-dying-or-dead-racism-in-the-crosshairs-of-anura/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1771851859.0
   },
   {
     "doc_type": "lk_news",
@@ -73399,5 +73443,27 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1771860891.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-24-dailyftlk-d06a5db4",
+    "num": "dailyftlk-d06a5db4",
+    "date_str": "2026-02-24",
+    "description": "Pensions: A crucial social responsibility",
+    "url_metadata": "https://www.ft.lk/columns/Pensions-A-crucial-social-responsibility/4-788714",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771873145.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-02-24-dailyftlk-27ecdd21",
+    "num": "dailyftlk-27ecdd21",
+    "date_str": "2026-02-24",
+    "description": "Repeal of Parliamentarians\u2019 Pension: An opportunity  to move forward",
+    "url_metadata": "https://www.ft.lk/columns/Repeal-of-Parliamentarians-Pension-An-opportunity-to-move-forward/4-788715",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1771873478.0
   }
 ]
