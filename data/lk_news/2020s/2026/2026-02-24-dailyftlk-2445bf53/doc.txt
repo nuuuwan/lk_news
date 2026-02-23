@@ -1,0 +1,43 @@
+Why data centres?
+
+In the aftermath of the hype overdrive that was the AI Impact Summit in Delhi, this question carries with it the risk of being called all kinds of names. But we must ask about Sri Lanka, a small country with a weak balance sheet.
+
+The Sri Lankan tech community has always prided itself in being at the cutting edge of technological adoption. I have heard many speeches about how we were the first to adopt mobile telephony, or something else. So, it’s understandable that the President’s proposal of making Sri Lanka a data center hub has resonated with those in the tech community.
+
+But this is going to cost the taxpayer Rs. 500 million in 2026 ($ 1.6 million), with more in subsequent years. Is the proposal well thought out? Is it feasible? What benefits will flow from the Rs. 500 million plus to the economy?
+
+These questions were not answered in the case of previous Government proposals for glitzy technological leaps. In the case of the Sri Lankan satellite (ChiChiSat), I posed some questions to a representative of Surrey Satellite Technology Ltd.,
+
+that was the ostensible partner at Telecom Regulatory Commission event in Mount Lavinia. Unsatisfied with the answers, I made my concerns public. In the end, SSTL was replaced by the Chinese. Good thing was that no public funds appear to have been spent.
+
+The process was even murkier in the case of the broadcast tower built because Mahinda Rajapaksa saw one during his travels. In the end the Lotus Tower included no space for transmission, but ate up a lot of public money, including a Government guaranteed $ 88.6 million loan from China’s ExIm Bank that must be paid off by July 2026. The income from current operations is not adequate to pay off the debt.
+
+The Public Financial Management Act, No. 44 of 2024, seeks to preclude mindless expenditures such as the above. The present discussion will hopefully inform the review that is now mandatory for public investment projects such as data centres.
+
+Decisions on whether a Government promotes or facilitates the establishment of data centres within its territory must consider the availability of the key inputs of land, electricity and water and the opportunity costs
+
+Sri Lanka currently has six Tier III data centres in various locations. They are relatively small and serve the domestic market. Tier III centres must assure uninterrupted power supply. Only 1.6 hours of downtime for a year are allowed.
+
+In the case of Tier IV data centres, which Sri Lanka cannot have until the electricity reforms are completed in two years, power and cooling systems are isolated from each other. In these centres all components are duplicated. They are to be completely fault- tolerant, with expected uptime of 99.995% (max 26.3 minutes of downtime annually).
+
+Viet Nam, with low energy rates and higher percentage of renewable energy, is making a concerted effort to create a data center hub (not just to serve the domestic demand, but to provide data center services for external entities and thereby earn export revenues). Its situation will shed light on what must be done here.
+
+Viet Nam has 34 active data centres and is angling to become a data center hub. It allows 100 percent foreign ownership. Data centres may purchase power directly from renewable energy generators. In Viet Nam, the average construction cost is $ 6.9 million per megawatt (note the inadequacy of the 2026 Sri Lanka budget allocation), which is cheaper than most others in the region, such as Thailand, Indonesia and Malaysia.
+
+Google is investing between $300-650 million in a data center which is likely to be operational by 2027. Companies such as Amazon, Alibaba and Microsoft have indicated interest. Currently Viet Nam has five undersea cables, with ten more planned to be completed by 2030.
+
+The planned fully state funded Tier IV data center will be the largest in Southeast Asia. It will span more than 20 hectares and will have a capacity of 1,300 server racks. The full cost is not known.
+
+In 2025, Viet Nam established the National Data Development Fund, a fund that operates as a non-budget state financial fund with an initial investment of $ 38.4 billion. This is expected to finance digital infrastructure, national data systems and future data centres that the Government plans to invest in.
+
+Viet Nam illustrates the scale of investments that have to be attracted (obviously, a Government limited in its ability to mobilise debt cannot build data centres like the Viet Nam). But that is not the only factor. Any investment in Sri Lanka must consider the competition from other South Asian countries. And look at the comparative input costs and availability of inputs in the desired locations. The Table provides an indication.
+
+The enthusiasm for data centres to support the current silicon-based architectures needed for today’s Large Language Models must also take into account the possibility that they may become obsolete in future. Perhaps quantum or biological computing will lead the next phase of AI development leaving the large data centres being built today stranded
+
+Decisions on whether a Government promotes or facilitates the establishment of data centres within its territory must consider the availability of the key inputs of land, electricity and water and the opportunity costs. Two million liters of water for a data center means 2 million less for another application.
+
+What benefits will flow from data centres? They do not generate a lot of employment. Bangladesh’s Tier IV data center created only 69 jobs. Will there be tax revenues? Beyond these economic factors, some Governments are motivated by non-economic factors. In the 2026 state budget the Malaysian Prime Minister announced that the state would allocate Ringgit 2 billion to build a sovereign AI cloud. If all states prioritise sovereign cloud facilities, will there be business for externally focused hubs such as Viet Nam’s?
+
+The cost-benefit assessment does not offer obvious support for tax holidays such as the 21 years offered by the Indian Government. But of course, each Government must set out what it wants from data centres, assess the costs and benefits and reach the appropriate conclusions. The answer for a large economy such as India will not be the same for a small one like Sri Lanka.
+
+The enthusiasm for data centres to support the current silicon-based architectures needed for today’s Large Language Models must also take into account the possibility that they may become obsolete in future. Perhaps quantum or biological computing will lead the next phase of AI development leaving the large data centres being built today stranded.
