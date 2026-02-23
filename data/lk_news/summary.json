@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-23 03:46:49",
-  "n_docs": 102930,
+  "time_updated": "2026-02-23 06:14:34",
+  "n_docs": 102949,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 102930,
+  "n_docs_with_text": 102949,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-02-23",
-  "dataset_size": 1572622478,
+  "dataset_size": 1572727757,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-23-dailyftlk-fb1e27f3",
-    "num": "dailyftlk-fb1e27f3",
+    "doc_id": "2026-02-23-virakesarilk-4586d5a3",
+    "num": "virakesarilk-4586d5a3",
     "date_str": "2026-02-23",
-    "description": "Teachers\u2019 Union alleges continued school fund collections despite Ministry ban",
-    "url_metadata": "https://www.ft.lk/news/Teachers-Union-alleges-continued-school-fund-collections-despite-Ministry-ban/56-788687",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1771790725.0
+    "description": "\u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0bb5\u0ba9\u0baf\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd.",
+    "url_metadata": "https://www.virakesari.lk/article/239330",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1771803780.0
   }
 }

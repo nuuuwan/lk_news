@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--23_03:47:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--23_06:15:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**102,930** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**102,949** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-23-dailyftlk-fb1e27f3",
-    "num": "dailyftlk-fb1e27f3",
+    "doc_id": "2026-02-23-virakesarilk-4586d5a3",
+    "num": "virakesarilk-4586d5a3",
     "date_str": "2026-02-23",
-    "description": "Teachers\u2019 Union alleges continued school fund collections despite Ministry ban",
-    "url_metadata": "https://www.ft.lk/news/Teachers-Union-alleges-continued-school-fund-collections-despite-Ministry-ban/56-788687",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1771790725.0
+    "description": "\u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bb3\u0bcd\u0bb3\u0bbf \u0b86\u0b9a\u0bbf\u0bb0\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bb9\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0bb5\u0ba9\u0baf\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd.",
+    "url_metadata": "https://www.virakesari.lk/article/239330",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1771803780.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-23 | `virakesarilk-4586d5a3` | முன்பள்ளி ஆசிரியர்கள் ஹட்டனில் முன்னெடுத்துள்ள கவனயீர்ப்பு போராட்டம். | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-4586d5a3)
+- 2026-02-23 | `virakesarilk-2635cfef` | மாகாணசபைத் தேர்தல்: விசேட செயற்குழு நியமனம் வரவேற்கத்தக்கது - தேர்தல்கள் ஆணைக்குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-2635cfef)
+- 2026-02-23 | `virakesarilk-56a61a4e` | புதிய பயங்கரவாதச் சட்டம்  வலுவானதாக இருக்க வேண்டும் : பேராசிரியர் ரொஹான் குணரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-56a61a4e)
+- 2026-02-23 | `virakesarilk-650659e2` | டொனால்ட் டிரம்பின் மார்-எ-லாகோ உயர் பாதுகாப்புப் பகுதியில் நுழைய முயன்ற இளைஞர் சுட்டுக் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-650659e2)
+- 2026-02-23 | `virakesarilk-3bba43e4` | தரமற்ற நிலக்கரி கொள்வனவு: குமார ஜெயகொடி பதவி விலக வேண்டும் – விமல் வீரவன்ச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-3bba43e4)
+- 2026-02-23 | `virakesarilk-dfb774d1` | தவறு செய்த அமைச்சர்கள் உடன் பதவி விலக வேண்டும்; முழு அரசாங்கத்தையும் விமர்சிப்பது முறையல்ல - வாசுதேவ நாணயக்கார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-dfb774d1)
+- 2026-02-23 | `virakesarilk-a33dc2ae` | சுப்பர் 8 சுற்றில் இந்தியாவை வெற்றிகொண்ட தென் ஆபிரிக்கா 2024 இறுதிப் போட்டி தோல்விக்கு உரிய பதிலடி கொடுத்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-a33dc2ae)
 - 2026-02-23 | `dailyftlk-fb1e27f3` | Teachers’ Union alleges continued school fund collections despite Ministry ban | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-dailyftlk-fb1e27f3)
 - 2026-02-23 | `dailyftlk-23a9e75f` | Namal’s Cambridge Union event cancelled over protests, will address Oxford | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-dailyftlk-23a9e75f)
 - 2026-02-23 | `dailyftlk-4581dffe` | Landslide red alert issued for four districts as rainfall exceeds 150mm | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-dailyftlk-4581dffe)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-02-23 | `dailyftlk-db4f4d6d` | Onset of AI revolution: Sri Lanka must join Indian bandwagon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-dailyftlk-db4f4d6d)
 - 2026-02-23 | `dailyftlk-a1324fca` | Entrepreneurship the real driver of national wealth-building: Wegapitiya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-dailyftlk-a1324fca)
 - 2026-02-22 | `dailyftlk-d055fdf2` | AI Impact Summit 2026: Shaping a human-centric future for AI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-dailyftlk-d055fdf2)
-- 2026-02-22 | `tamilmirrorlk-fe5d790b` | இ – 20 உலகக் கிண்ணம்: தென்னாபிரிக்காவை வீழ்த்திய இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-fe5d790b)
-- 2026-02-22 | `tamilmirrorlk-f7aa5068` | இ – 20 உலகக் கிண்ணம்: இந்தியாவுக்கு வெற்றியிலக்கு 188 ஓட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-f7aa5068)
-- 2026-02-22 | `virakesarilk-4041ab10` | இரசிகர்களுக்கு ஏமாற்றம் அளித்த இலங்கை; சுப்பர் 8 சுற்றில் இங்கிலாந்திடம் படுதோல்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-virakesarilk-4041ab10)
-- 2026-02-22 | `tamilmirrorlk-64829a5c` | இ – 20 உலகக் கிண்ணம்: முதலில் துடுப்பெடுத்தாடவுள்ள தென்னாபிரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-64829a5c)
-- 2026-02-22 | `tamilmirrorlk-7bc430fe` | அரநாயக்கவில் மீண்டும் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-7bc430fe)
-- 2026-02-22 | `tamilmirrorlk-09d1a7ea` | இ – 20 உலகக் கிண்ணம்: இலங்கையை வீழ்த்திய இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-tamilmirrorlk-09d1a7ea)
-- 2026-02-22 | `adalk-f51aa8cf` | බුත්තල නිවසක් ගිනි ගැනීමෙන් පිළිස්සුම් තුවාල ලබා සිටි දැරියද මියයයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-22-adalk-f51aa8cf)
 
 ---
 
