@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-24 06:15:30",
-  "n_docs": 103072,
+  "time_updated": "2026-02-24 08:44:54",
+  "n_docs": 103078,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 103072,
+  "n_docs_with_text": 103078,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-02-24",
-  "dataset_size": 1574951055,
+  "dataset_size": 1575289563,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-24-dailyftlk-8281253c",
-    "num": "dailyftlk-8281253c",
+    "doc_id": "2026-02-24-adalk-227410f7",
+    "num": "adalk-227410f7",
     "date_str": "2026-02-24",
-    "description": "DCTS boost: Shipments heading  to UK under new tariff-free scheme",
-    "url_metadata": "https://www.ft.lk/business/DCTS-boost-Shipments-heading-to-UK-under-new-tariff-free-scheme/34-788764",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1771888925.0
+    "description": "\u0dad\u0dd9\u0dad \u0dc0\u0dd3 \u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0da7 \u0dbb\u0dd4. 100\u0d9a\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dad-\u0dc0\u0dd3-\u0d9a\u0dd2\u0dbd\u0ddd\u0dc0\u0da7-\u0dbb\u0dd4--100\u0d9a\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1/11-421380",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1771897060.0
   }
 }
