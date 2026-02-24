@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_03:59:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_06:16:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**103,050** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**103,072** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-24-dailyftlk-6cd7e63d",
-    "num": "dailyftlk-6cd7e63d",
+    "doc_id": "2026-02-24-dailyftlk-8281253c",
+    "num": "dailyftlk-8281253c",
     "date_str": "2026-02-24",
-    "description": "Is\u00a0racism dead, dying or alive and kicking?",
-    "url_metadata": "https://www.ft.lk/columns/Isracism-dead-dying-or-alive-and-kicking/4-788729",
+    "description": "DCTS boost: Shipments heading  to UK under new tariff-free scheme",
+    "url_metadata": "https://www.ft.lk/business/DCTS-boost-Shipments-heading-to-UK-under-new-tariff-free-scheme/34-788764",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1771880000.0
+    "time_ut": 1771888925.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-24 | `dailyftlk-8281253c` | DCTS boost: Shipments heading  to UK under new tariff-free scheme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-dailyftlk-8281253c)
+- 2026-02-24 | `dailyftlk-39d93f26` | PIM Green Digital Summit this Thursday | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-dailyftlk-39d93f26)
+- 2026-02-24 | `dailyftlk-4be39a70` | Hayleys Solar delivers 4,036 kW installations across six locations for Pussalla Meat Producers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-dailyftlk-4be39a70)
+- 2026-02-24 | `dailyftlk-bc5e59ae` | UN delegation backs financing framework for Ditwah-hit businesses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-dailyftlk-bc5e59ae)
+- 2026-02-24 | `dailyftlk-0b7dc9ce` | EDB hosts special training program to boost international trade competitiveness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-dailyftlk-0b7dc9ce)
+- 2026-02-24 | `dailyftlk-66066aea` | Oxford Union also cancels Namal Rajapaksa event amid backlash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-dailyftlk-66066aea)
+- 2026-02-24 | `dailyftlk-8c5495a7` | Ven. Dr. Kirinde Assaji  awarded Lifetime Achievement honour by KITT University | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-dailyftlk-8c5495a7)
+- 2026-02-24 | `tamilmirrorlk-39d212ab` | 7 பேருடன் சென்ற விமானம் விழுந்து நொருங்கியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-tamilmirrorlk-39d212ab)
+- 2026-02-24 | `tamilmirrorlk-5f67ed7b` | ’எனக்கும் ஸ்டாலினுக்கும் நடக்கும் போர்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-tamilmirrorlk-5f67ed7b)
 - 2026-02-24 | `dailyftlk-6cd7e63d` | Is racism dead, dying or alive and kicking? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-dailyftlk-6cd7e63d)
 - 2026-02-24 | `dailyftlk-2445bf53` | Why data centres? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-dailyftlk-2445bf53)
 - 2026-02-24 | `dailyftlk-27cde4b6` | Agriculture is not Sri Lanka’s past, it is its strategic future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-dailyftlk-27cde4b6)
 - 2026-02-24 | `dailyftlk-0455a29c` | Leadership under siege: The meeting culture crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-dailyftlk-0455a29c)
 - 2026-02-24 | `dailyftlk-27ecdd21` | Repeal of Parliamentarians’ Pension: An opportunity  to move forward | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-dailyftlk-27ecdd21)
 - 2026-02-24 | `dailyftlk-d06a5db4` | Pensions: A crucial social responsibility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-dailyftlk-d06a5db4)
-- 2026-02-23 | `virakesarilk-e96bae8b` | ரி20 உலகக் கிண்ண வரலாற்றில் இரண்டாவது அதிகூடிய மொத்த எண்ணிக்கையை குவித்த மேற்கிந்தியத் தீவுகளிடம் வாங்கிக்கட்டியது ஸிம்பாப்வே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-e96bae8b)
-- 2026-02-23 | `virakesarilk-6ff68f51` | அரசியல் பழிவாங்கல் தொடர்பில் சர்வதேச நீதிமன்றில் முறையிடுவோம் - ஹரின் பெர்னாண்டோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-6ff68f51)
-- 2026-02-23 | `virakesarilk-ab71fc2f` | ஒக்ஸ்போர்ட், கேம்பிரிட்ஜ் நிகழ்ச்சியில் நாமலின் உரை இரத்து ; ஆதரவு தெரிவித்து பொதுஜன பெரமுன கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-ab71fc2f)
-- 2026-02-23 | `tamilmirrorlk-ea964271` | இ – 20 உலகக் கிண்ணம்: சிம்பாப்வேயை வென்ற மே. தீவுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-tamilmirrorlk-ea964271)
-- 2026-02-23 | `virakesarilk-c015cd11` | ஒக்ஸ்போர்ட், கேம்பிரிட்ஜ் நிகழ்ச்சியில் தனது உரையை இரத்துச் செய்தமை ஜனநாயகத்திற்கு பாதகம் – நாமல் ராஜபக்ஷ அதிருப்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-c015cd11)
-- 2026-02-23 | `virakesarilk-aa7fedbf` | 10 இலட்சம் ரூபா அரச நிதி உதவி திட்டத்தின் கீழ் 13 மாவட்டங்களில் நாளை வீடமைப்பு திட்டங்கள் ஆரம்பம் - அமைச்சர் சுசில் ரணசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-aa7fedbf)
-- 2026-02-23 | `virakesarilk-7508c40f` | சுன்னாகத்தில் மாடியில் இருந்து தவறி விழுந்தவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-7508c40f)
-- 2026-02-23 | `colombotelegraphcom-177660ab` | Raja de Silva Is No More | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-colombotelegraphcom-177660ab)
-- 2026-02-23 | `tamilmirrorlk-757c1e4a` | இ – 20 உலகக் கிண்ணம்: 254 ஓட்டங்களைக் குவித்த மே. தீவுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-tamilmirrorlk-757c1e4a)
-- 2026-02-23 | `virakesarilk-17ef7b8e` | பௌத்த மகா சம்மேளனம் தோல்வி; ஒருசில தேரர்கள் தொடர்பில் மக்கள் மத்தியில் நல்லதொரு நிலைப்பாடு கிடையாது - அமைச்சர் லால்காந்த | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-17ef7b8e)
-- 2026-02-23 | `virakesarilk-833264e7` | பௌத்த பிக்குகள் மீதான அவதூறுகளை நிறுத்த அரசுக்கு பொதுபல சேனா கடும் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-833264e7)
-- 2026-02-23 | `tamilmirrorlk-7207ca4c` | இ – 20 உலகக் கிண்ணம்: முதலில் துடுப்பெடுத்தாடுகின்ற மே. தீவுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-tamilmirrorlk-7207ca4c)
-- 2026-02-23 | `virakesarilk-03d60ffe` | உனவட்டுனவில் ரஷ்யப் பயணியின் பணம் திருட்டு : விடுதி உரிமையாளரின் மகள் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-03d60ffe)
-- 2026-02-23 | `virakesarilk-02fbfc35` | "ஆச்சி ஆச்சி" என்ற 7 வயதுப் பிஞ்சு உயிர்க்குரல் அடங்கிப்போனது... : மரண விளிம்பில் கொழும்பு அடுக்குமாடி குடியிருப்புகள் : அதிர்ச்சி தரும் நேரடி ரிப்போர்ட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-23-virakesarilk-02fbfc35)
+- 2026-02-24 | `islandlk-32e3afbe` | The Smart Phone Shop unveils Sri Lanka’s largest mobile phone experience center | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-islandlk-32e3afbe)
+- 2026-02-24 | `islandlk-16a22837` | Amana Takaful relaunches unified mobile app to simplify insurance experience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-islandlk-16a22837)
+- 2026-02-24 | `islandlk-fb232d21` | Panic grips Asian stock markets as US President slaps fresh global tariffs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-islandlk-fb232d21)
+- 2026-02-24 | `islandlk-d4159bf6` | ComBank wins 5 including double Gold at CA Sri Lanka TAGS Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-islandlk-d4159bf6)
+- 2026-02-24 | `islandlk-0e0a0bfd` | Alliance to strengthen financial reporting and governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-24-islandlk-0e0a0bfd)
 
 ---
 
