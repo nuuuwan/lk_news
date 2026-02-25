@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--26_00:07:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--26_01:54:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**103,267** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**103,270** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-25-tamilmirrorlk-4f0e02b3",
-    "num": "tamilmirrorlk-4f0e02b3",
-    "date_str": "2026-02-25",
-    "description": "\u0b87 \u2013 20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87-20-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8/44-373023",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1772040073.0
+    "doc_id": "2026-02-26-dailyftlk-b6f97800",
+    "num": "dailyftlk-b6f97800",
+    "date_str": "2026-02-26",
+    "description": "SL, NZ strengthen trade ties ahead of Sri Lanka  Expo 2026",
+    "url_metadata": "https://www.ft.lk/sectors/SL-NZ-strengthen-trade-ties-ahead-of-Sri-Lanka-Expo-2026/20-788834",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1772049642.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-26 | `dailyftlk-b6f97800` | SL, NZ strengthen trade ties ahead of Sri Lanka  Expo 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-b6f97800)
+- 2026-02-26 | `tamilmirrorlk-0a306f50` | பொதுமக்கள் உதவியை நாடும் பொலிஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-tamilmirrorlk-0a306f50)
+- 2026-02-25 | `dailyftlk-334ab980` | SJB must be more of a guardrail than a roadblock | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-dailyftlk-334ab980)
 - 2026-02-25 | `tamilmirrorlk-4f0e02b3` | இ – 20 உலகக் கிண்ணம்: வெளியேற்றப்பட்ட இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-4f0e02b3)
 - 2026-02-25 | `tamilmirrorlk-40b70f17` | இ – 20 உலகக் கிண்ணம்: இலங்கைக்கு வெற்றியிலக்கு 169 ஓட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-40b70f17)
 - 2026-02-25 | `tamilmirrorlk-ad5f357f` | இ-20 உலகக் கிண்ணம்: ஆடுகிறது நியூஸிலாந்து:  தடுக்கிறது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-ad5f357f)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-02-25 | `tamilmirrorlk-056b898c` | பிரிட்டனில் கடைக்குள் கத்தி குத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-056b898c)
 - 2026-02-25 | `tamilmirrorlk-aba0e1b4` | “கண்ணு கூசுது” படுமோசமான படுக்கையறை காட்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-aba0e1b4)
 - 2026-02-25 | `virakesarilk-4b320a30` | மிரிஹான, கொஹுவல பகுதிகளில் தொடர் கொள்ளை: சைக்கிள்களுடன் சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-4b320a30)
-- 2026-02-25 | `virakesarilk-31c69ab5` | அமெரிக்காவின் 10க்கும் மேற்பட்ட போர் விமானங்கள் இஸ்ரேலில் குவிப்பு - ஈரானைத் தாக்கத் தயாரா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-31c69ab5)
-- 2026-02-25 | `tamilmirrorlk-79a5f4ae` | வெப்பத்தால் ஆண் குழந்தைகளின் பிறப்பு வீதம் குறைகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-79a5f4ae)
-- 2026-02-25 | `virakesarilk-3ef6b1dc` | தென்கிழக்காசியாவில் செயல்படும் மோசடி கும்பல்களுக்கு எதிராக கடும் நடவடிக்கை – எஃப்.பி.ஐ. எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-3ef6b1dc)
 
 ---
 
