@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--25_20:05:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--25_22:10:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**103,265** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**103,266** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-25-tamilmirrorlk-ad5f357f",
-    "num": "tamilmirrorlk-ad5f357f",
+    "doc_id": "2026-02-25-tamilmirrorlk-40b70f17",
+    "num": "tamilmirrorlk-40b70f17",
     "date_str": "2026-02-25",
-    "description": "\u0b87-20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b86\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0ba8\u0bbf\u0baf\u0bc2\u0bb8\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1:  \u0ba4\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87-20-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0b86\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1-\u0ba8\u0bbf\u0baf\u0bc2\u0bb8\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1-\u0ba4\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8/44-373018",
+    "description": "\u0b87 \u2013 20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bc1 169 \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87-20-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bc1-169-\u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd/44-373019",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1772026171.0
+    "time_ut": 1772033016.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-25 | `tamilmirrorlk-40b70f17` | இ – 20 உலகக் கிண்ணம்: இலங்கைக்கு வெற்றியிலக்கு 169 ஓட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-40b70f17)
 - 2026-02-25 | `tamilmirrorlk-ad5f357f` | இ-20 உலகக் கிண்ணம்: ஆடுகிறது நியூஸிலாந்து:  தடுக்கிறது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-ad5f357f)
 - 2026-02-25 | `virakesarilk-a6c4e02b` | நியூஸிலாந்துக்கு எதிராக கட்டாய வெற்றியை ஈட்டும் குறிக்கோளுடன் இலங்கை  முதலில் களத்தடுப்பில் ஈடுபடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-a6c4e02b)
 - 2026-02-25 | `virakesarilk-8e122e5c` | பயங்கரவாத எதிர்ப்புச் சட்டத்திற்கு எதிராக மன்னாரில் கையெழுத்துப் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-8e122e5c)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-02-25 | `tamilmirrorlk-79a5f4ae` | வெப்பத்தால் ஆண் குழந்தைகளின் பிறப்பு வீதம் குறைகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-79a5f4ae)
 - 2026-02-25 | `virakesarilk-3ef6b1dc` | தென்கிழக்காசியாவில் செயல்படும் மோசடி கும்பல்களுக்கு எதிராக கடும் நடவடிக்கை – எஃப்.பி.ஐ. எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-3ef6b1dc)
 - 2026-02-25 | `virakesarilk-ef0f35c8` | நடிகை நிவேதிதா சதீஷ் நடிக்கும் 'ஓ பட்டர்ஃபிளை 'படத்தின் வெளியீட்டு திகதி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-ef0f35c8)
-- 2026-02-25 | `virakesarilk-c97d1348` | நடிகர் சந்தோஷ் பிரதாப் நடிக்கும் 'மரகதமலை 'படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-c97d1348)
 
 ---
 
