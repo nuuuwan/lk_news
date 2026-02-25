@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-02-25 06:16:07",
-  "n_docs": 103160,
+  "time_updated": "2026-02-25 08:45:41",
+  "n_docs": 103174,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 103160,
+  "n_docs_with_text": 103174,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-02-25",
-  "dataset_size": 1576655190,
+  "dataset_size": 1576825304,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-25-dailyftlk-0cfc3bb7",
-    "num": "dailyftlk-0cfc3bb7",
+    "doc_id": "2026-02-25-dailyftlk-5d916673",
+    "num": "dailyftlk-5d916673",
     "date_str": "2026-02-25",
-    "description": "Cuba, Qatar and Slovenia envoys present credentials to President",
-    "url_metadata": "https://www.ft.lk/news/Cuba-Qatar-and-Slovenia-envoys-present-credentials-to-President/56-788782",
+    "description": "Sri Lanka positions for Indian Ocean seaweed leadership at India Expo 2026",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-positions-for-Indian-Ocean-seaweed-leadership-at-India-Expo-2026/34-788812",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1771980072.0
+    "time_ut": 1771986785.0
   }
 }
