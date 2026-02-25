@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--26_01:54:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--26_03:51:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**103,270** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**103,283** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-26-dailyftlk-b6f97800",
-    "num": "dailyftlk-b6f97800",
+    "doc_id": "2026-02-26-dailyftlk-c327bf27",
+    "num": "dailyftlk-c327bf27",
     "date_str": "2026-02-26",
-    "description": "SL, NZ strengthen trade ties ahead of Sri Lanka  Expo 2026",
-    "url_metadata": "https://www.ft.lk/sectors/SL-NZ-strengthen-trade-ties-ahead-of-Sri-Lanka-Expo-2026/20-788834",
+    "description": "CEB engineers to stage six-hour token strike today over restructuring demands",
+    "url_metadata": "https://www.ft.lk/news/CEB-engineers-to-stage-six-hour-token-strike-today-over-restructuring-demands/56-788853",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1772049642.0
+    "time_ut": 1772054236.0
 }
 ```
 
@@ -41,6 +41,19 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-26 | `dailyftlk-c327bf27` | CEB engineers to stage six-hour token strike today over restructuring demands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-c327bf27)
+- 2026-02-26 | `dailyftlk-4634bc39` | CMC corruption probe: Public complaints deadline extended | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-4634bc39)
+- 2026-02-26 | `dailyftlk-b0664e6c` | Former SIS Chief Suresh Sallay arrested over Easter Sunday attacks probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-b0664e6c)
+- 2026-02-26 | `dailyftlk-111b1c5b` | Foreign Minister to visit Germany to strengthen economic and political relations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-111b1c5b)
+- 2026-02-26 | `dailyftlk-d7bbb31f` | Court frees Daisy Forrest in money laundering case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-d7bbb31f)
+- 2026-02-26 | `dailyftlk-78e171ac` | Advantis and Belgium-based Sarens to strengthen heavy lift and engineered transport capabilities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-78e171ac)
+- 2026-02-26 | `dailyftlk-f794cfd6` | National Corporate Director Awards set new benchmark for boardroom excellence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-f794cfd6)
+- 2026-02-26 | `dailyftlk-0e5a9e51` | Prime Lands secures historic Otters Club car park property for ‘The Elizabeth’ residential tower | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-0e5a9e51)
+- 2026-02-26 | `dailyftlk-7bd6d0dd` | Tea export volume up 7% YoY in January; average FOB up 5.6% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-7bd6d0dd)
+- 2026-02-26 | `dailyftlk-27473bd6` | Colombo land values rise 10.6% in H2 2025: CBSL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-27473bd6)
+- 2026-02-26 | `dailyftlk-71831b70` | CEO of the Year 2025 Awards tonight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-71831b70)
+- 2026-02-26 | `dailyftlk-0e570b3a` | Scale Up 2026 10th anniversary brings over 50 global partners to Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-0e570b3a)
+- 2026-02-26 | `dailyftlk-6660edca` | The comfort of lies:  Why  we keep voting for miracles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-6660edca)
 - 2026-02-26 | `dailyftlk-b6f97800` | SL, NZ strengthen trade ties ahead of Sri Lanka  Expo 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-dailyftlk-b6f97800)
 - 2026-02-26 | `tamilmirrorlk-0a306f50` | பொதுமக்கள் உதவியை நாடும் பொலிஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-26-tamilmirrorlk-0a306f50)
 - 2026-02-25 | `dailyftlk-334ab980` | SJB must be more of a guardrail than a roadblock | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-dailyftlk-334ab980)
@@ -48,19 +61,6 @@ A collection of lk_news documents.
 - 2026-02-25 | `tamilmirrorlk-40b70f17` | இ – 20 உலகக் கிண்ணம்: இலங்கைக்கு வெற்றியிலக்கு 169 ஓட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-40b70f17)
 - 2026-02-25 | `tamilmirrorlk-ad5f357f` | இ-20 உலகக் கிண்ணம்: ஆடுகிறது நியூஸிலாந்து:  தடுக்கிறது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-ad5f357f)
 - 2026-02-25 | `virakesarilk-a6c4e02b` | நியூஸிலாந்துக்கு எதிராக கட்டாய வெற்றியை ஈட்டும் குறிக்கோளுடன் இலங்கை  முதலில் களத்தடுப்பில் ஈடுபடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-a6c4e02b)
-- 2026-02-25 | `virakesarilk-8e122e5c` | பயங்கரவாத எதிர்ப்புச் சட்டத்திற்கு எதிராக மன்னாரில் கையெழுத்துப் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-8e122e5c)
-- 2026-02-25 | `tamilmirrorlk-ee33a445` | ’குட் பேட் அக்லி’ டீசர் வருகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-ee33a445)
-- 2026-02-25 | `tamilmirrorlk-793ed0a4` | சூடுபிடித்தது தமிழகத் தேர்தல் களம்: பாய்கிறார் சசிகலா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-793ed0a4)
-- 2026-02-25 | `virakesarilk-3ecb3a1e` | மிஹிந்தலையில் மோட்டார் சைக்கிள் மரத்துடன் மோதி விபத்து : இளைஞன் உயிரிழப்பு ; மற்றொருவர் படுகாயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-3ecb3a1e)
-- 2026-02-25 | `virakesarilk-9f5b638c` | அதிக விலைக்கு விற்பனை செய்வதற்காக பதுக்கி வைக்கப்பட்டிருந்த சமையல் எரிவாயு கொள்கலன்கள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-9f5b638c)
-- 2026-02-25 | `tamilmirrorlk-9e3cac8f` | இறந்தவரின் கருப்பையில் பிறந்த குழந்தை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-9e3cac8f)
-- 2026-02-25 | `virakesarilk-d66210c3` | மக்களின் காணிகளை விடுவிக்க வனவள திணைக்களம் மறுப்பதை ஏற்க முடியாது - வடக்கு ஆளுநர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-d66210c3)
-- 2026-02-25 | `tamilmirrorlk-9ea9fe6d` | பாதசாரி கடவையில் விபத்து ; சிறுமி பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-9ea9fe6d)
-- 2026-02-25 | `virakesarilk-35228f53` | மீகொடவில் நிலத்தடி மதுபான உற்பத்தி நிலையம் முற்றுகை:  இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-35228f53)
-- 2026-02-25 | `virakesarilk-50342a68` | இசை கலைஞர் ஹர்ஷவர்தனின்' மாயம் நீயடி..' எனும் சுயாதீன இசை அல்பம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-50342a68)
-- 2026-02-25 | `tamilmirrorlk-056b898c` | பிரிட்டனில் கடைக்குள் கத்தி குத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-056b898c)
-- 2026-02-25 | `tamilmirrorlk-aba0e1b4` | “கண்ணு கூசுது” படுமோசமான படுக்கையறை காட்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-tamilmirrorlk-aba0e1b4)
-- 2026-02-25 | `virakesarilk-4b320a30` | மிரிஹான, கொஹுவல பகுதிகளில் தொடர் கொள்ளை: சைக்கிள்களுடன் சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-25-virakesarilk-4b320a30)
 
 ---
 
