@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--27_12:02:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--27_13:57:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**103,504** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**103,507** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-27-virakesarilk-85e76d31",
-    "num": "virakesarilk-85e76d31",
+    "doc_id": "2026-02-27-adalk-a63bbdd6",
+    "num": "adalk-a63bbdd6",
     "date_str": "2026-02-27",
-    "description": "\u0b89\u0bb4\u0bb5\u0bc1 \u0b87\u0baf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0baa\u0bb2\u0bbf!",
-    "url_metadata": "https://www.virakesari.lk/article/239695",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1772166420.0
+    "description": "\u0d85\u0d9a\u0dd4\u0dbb\u0dda\u0d9c\u0ddc\u0da9 \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0dda \u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dd9\u0da9\u0dd2\u0d9a\u0dca\u0d9a\u0dbb\u0dd4\u0da7 \u0db1\u0dc0\u0dcf\u0dad\u0dd0\u0db1\u0dca \u0daf\u0dd4\u0db1\u0dca \u0d9c\u0dd9\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0d9a\u0dd4\u0dbb\u0dda\u0d9c\u0ddc\u0da9-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0dda-\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0dc0\u0dd9\u0da9\u0dd2\u0d9a\u0dca\u0d9a\u0dbb\u0dd4\u0da7-\u0db1\u0dc0\u0dcf\u0dad\u0dd0\u0db1\u0dca-\u0daf\u0dd4\u0db1\u0dca-\u0d9c\u0dd9\u0dc4\u0dd2\u0db8\u0dd2\u0dba\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-421441",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1772173197.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-27 | `adalk-a63bbdd6` | අකුරේගොඩ ඝාතනයේ දෙවැනි වෙඩික්කරුට නවාතැන් දුන් ගෙහිමියා අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-adalk-a63bbdd6)
+- 2026-02-27 | `adalk-680b8b7f` | කටුනායකට යළිත් ඩිජිටල් නොමෑඩ් වීසා පහසුකම | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-adalk-680b8b7f)
 - 2026-02-27 | `virakesarilk-85e76d31` | உழவு இயந்திரத்தில் சிக்கி சிறுவன் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-virakesarilk-85e76d31)
 - 2026-02-27 | `virakesarilk-f95e85fe` | கடல் அலையில் அடித்துச் செல்லப்பட்ட ரஷ்ய பெண் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-virakesarilk-f95e85fe)
 - 2026-02-27 | `adalk-d34f7b46` | අධිවේගී මාර්ගයන්ට ඇතුළු කළ වාහන ලක්ෂ 182ක් පිටවී නෑ, රජයට අහිමි වූ ආදායම රු. බි. 4.6 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-adalk-d34f7b46)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-02-27 | `adalk-66af1750` | 2030දී ජල භීතිකාව තුරන් කිරීමට ඉලක්කයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-adalk-66af1750)
 - 2026-02-27 | `adalk-a2d20885` | පොඩි ලැසී අරගෙන එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-adalk-a2d20885)
 - 2026-02-27 | `dailyftlk-57782ef9` | Sri Lanka, South Korea discuss strengthening economic, employment and development cooperation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-dailyftlk-57782ef9)
-- 2026-02-27 | `dailyftlk-38cc7e11` | Prof. Manawadu appointed Southern Province Governor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-dailyftlk-38cc7e11)
-- 2026-02-27 | `dailyftlk-208a5adb` | Textile Series returns as Sri Lanka pushes apparel exports to new highs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-dailyftlk-208a5adb)
 
 ---
 
