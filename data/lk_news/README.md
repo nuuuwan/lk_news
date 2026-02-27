@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--28_01:53:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--28_03:48:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**103,555** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**103,559** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-28-dailyftlk-e5fa11fb",
-    "num": "dailyftlk-e5fa11fb",
+    "doc_id": "2026-02-28-tamilmirrorlk-7a1928a2",
+    "num": "tamilmirrorlk-7a1928a2",
     "date_str": "2026-02-28",
-    "description": "Aquaculturists attend capacity-building program in India",
-    "url_metadata": "https://www.ft.lk/business/Aquaculturists-attend-capacity-building-program-in-India/34-788945",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1772220282.0
+    "description": "\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd: \u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf \u0ba4\u0bc2\u0ba4\u0bb0\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd-\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf-\u0ba4\u0bc2\u0ba4\u0bb0\u0b95-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/50-373114",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1772226266.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-28 | `tamilmirrorlk-7a1928a2` | ஈரானில் பதற்றம்: பிரித்தானிய தூதரக அதிகாரிகள் வெளியேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-tamilmirrorlk-7a1928a2)
+- 2026-02-28 | `dailyftlk-56190a8a` | Sri Lanka and Finland sign MoU on political consultation mechanism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-dailyftlk-56190a8a)
+- 2026-02-28 | `dailyftlk-3c3605af` | Sajith urges Govt. not to let disputes disrupt cyclone Ditwah relief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-dailyftlk-3c3605af)
+- 2026-02-28 | `dailyftlk-72271ad2` | National program to grant freehold title deeds begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-dailyftlk-72271ad2)
 - 2026-02-28 | `dailyftlk-e5fa11fb` | Aquaculturists attend capacity-building program in India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-dailyftlk-e5fa11fb)
 - 2026-02-28 | `dailyftlk-ca8abcd0` | STC TechSphere 2026 brings global engineering leaders to Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-dailyftlk-ca8abcd0)
 - 2026-02-28 | `dailyftlk-6ab5b107` | Knuckles Spring Water pioneers  Sri Lanka’s first tethered bottle cap | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-dailyftlk-6ab5b107)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-02-27 | `virakesarilk-d4bda2cb` | பிரிவினைவாதிகளை மகிழ்விக்கவே சுரேஷ் சலே கைது - சம்பத் அத்துகோரல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-virakesarilk-d4bda2cb)
 - 2026-02-27 | `tamilmirrorlk-f4fcd90b` | போராட்டத்தை கைவிட்ட கிராம உத்தியோகத்தர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-tamilmirrorlk-f4fcd90b)
 - 2026-02-27 | `tamilmirrorlk-c15cf317` | இ – 20 உலகக் கிண்ணம்: முதலில் துடுப்பெடுத்தாடும் நியூசிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-tamilmirrorlk-c15cf317)
-- 2026-02-27 | `virakesarilk-616475f6` | களுத்துறையில் ரப்பர் உற்பத்தி நிலையத்துக்கு சொந்தமான கிடங்கில் பாரிய தீ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-virakesarilk-616475f6)
-- 2026-02-27 | `virakesarilk-2ddc4417` | அரசுக் காணி மோசடி வழக்கு: மேர்வின் சில்வா, பிரசன்ன ரணவீர உள்ளிட்டோருக்கு குற்றப்பத்திரிகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-virakesarilk-2ddc4417)
-- 2026-02-27 | `virakesarilk-e89e7390` | விஜய்க்கு நடிகையுடன் உறவு! - விவாகரத்து மனுவில் சங்கீதா குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-virakesarilk-e89e7390)
-- 2026-02-27 | `virakesarilk-c232657a` | பயங்கரவாதத்தடைச்சட்டத்தை முற்றாக நீக்குங்கள்: நீதியமைச்சுக்கு முன்பாகக் கவனயீர்ப்புப்போராட்டம் -   நூற்றுக்கணக்கான கையெழுத்துக்கள் அடங்கிய மகஜரும் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-virakesarilk-c232657a)
 
 ---
 
