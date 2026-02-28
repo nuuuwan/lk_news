@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--28_03:48:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--28_06:12:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**103,559** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**103,567** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -55,12 +55,12 @@ A collection of lk_news documents.
 - 2026-02-27 | `virakesarilk-451aa306` | ஈஸ்டர் தாக்குதல் விசாரணை: சுரேஷ் சலே 90 நாட்கள் தடுப்புக்காவலில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-virakesarilk-451aa306)
 - 2026-02-27 | `virakesarilk-0202d82f` | ‘டித்வா’ சூறாவளி பலி நினைவு: நெலும்மல அன்னதான நிகழ்வில் ஜனாதிபதி பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-virakesarilk-0202d82f)
 - 2026-02-27 | `tamilmirrorlk-510f005f` | இ – 20 உலகக் கிண்ணம்: நியூசிலாந்தை வென்ற இங்கிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-tamilmirrorlk-510f005f)
-- 2026-02-27 | `virakesarilk-d6ceed29` | கச்சதீவு புனித அந்தோனியார் திருவிழா: குறிகட்டுவான் இறங்குதுறையில் இருந்து ஆயிரக்கணக்கான பக்தர்கள் பயணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-virakesarilk-d6ceed29)
-- 2026-02-27 | `tamilmirrorlk-feaf7273` | இ – 20 உலகக் கிண்ணம்: இங்கிலாந்துக்கு வெற்றியிலக்கு 160 ஓட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-tamilmirrorlk-feaf7273)
-- 2026-02-27 | `virakesarilk-b2e16411` | இலங்கை விமானப்படை 27ஆவது சைக்கிள் சவாரி: முதலாவது சுற்று வெற்றிகரமாக நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-virakesarilk-b2e16411)
-- 2026-02-27 | `virakesarilk-d4bda2cb` | பிரிவினைவாதிகளை மகிழ்விக்கவே சுரேஷ் சலே கைது - சம்பத் அத்துகோரல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-virakesarilk-d4bda2cb)
-- 2026-02-27 | `tamilmirrorlk-f4fcd90b` | போராட்டத்தை கைவிட்ட கிராம உத்தியோகத்தர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-tamilmirrorlk-f4fcd90b)
-- 2026-02-27 | `tamilmirrorlk-c15cf317` | இ – 20 உலகக் கிண்ணம்: முதலில் துடுப்பெடுத்தாடும் நியூசிலாந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-tamilmirrorlk-c15cf317)
+- 2026-02-27 | `islandlk-ea22b87f` | Nationwide vehicle after-sales support assured as Evolution Auto joins hands with Sterling Aftercare | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-islandlk-ea22b87f)
+- 2026-02-27 | `islandlk-899837d3` | Siyapatha Finance continues mission to conserve Sri Pada Reserve | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-islandlk-899837d3)
+- 2026-02-27 | `islandlk-6fa11832` | Janashakthi Life steps in to support rural students post-cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-islandlk-6fa11832)
+- 2026-02-27 | `islandlk-38794b7b` | Hayleys PLC plans Rs. 7 bn listed debenture issue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-islandlk-38794b7b)
+- 2026-02-27 | `islandlk-c30118e5` | Mozambique evisa platform goes live for travellers from 183 countries, including Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-islandlk-c30118e5)
+- 2026-02-27 | `islandlk-31e02736` | Sri Lanka apparel exports ease in January while UK market remains stable | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-27-islandlk-31e02736)
 
 ---
 
