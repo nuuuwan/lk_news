@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--01_01:47:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--01_03:47:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**103,677** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-02-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**103,679** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-02-28-tamilmirrorlk-4d7ddc2b",
-    "num": "tamilmirrorlk-4d7ddc2b",
-    "date_str": "2026-02-28",
-    "description": "\u0b87 \u2013 20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1 \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87-20-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8-\u0bb5\u0bc6\u0ba9\u0bcd\u0bb1-\u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd/44-373159",
+    "doc_id": "2026-03-01-tamilmirrorlk-b342b230",
+    "num": "tamilmirrorlk-b342b230",
+    "date_str": "2026-03-01",
+    "description": "\u2019\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba8\u0bbe\u0bb3\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0bb0\u0bc8 \u0bae\u0bc1\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1-\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bc1-\u0ba8\u0bbe\u0bb3\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0baa\u0bcb\u0bb0\u0bc8-\u0bae\u0bc1\u0b9f\u0bbf\u0b95\u0bcd\u0b95-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd/50-373161",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1772302330.0
+    "time_ut": 1772316641.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-01 | `tamilmirrorlk-b342b230` | ’இரண்டு மூன்று நாள்களில் போரை முடிக்க முடியும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-tamilmirrorlk-b342b230)
+- 2026-03-01 | `tamilmirrorlk-1de4aca2` | ‘ ஈரானின் அதியுயர் தலைவரான காமேனி உயிரிழந்தார்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-tamilmirrorlk-1de4aca2)
 - 2026-02-28 | `tamilmirrorlk-4d7ddc2b` | இ – 20 உலகக் கிண்ணம்: இலங்கையை வென்ற பாகிஸ்தான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-tamilmirrorlk-4d7ddc2b)
 - 2026-02-28 | `virakesarilk-b9352f41` | குவைத்திலுள்ள இலங்கையர்களுக்குத் விடுக்கப்பட்டுள்ள அவசர எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-virakesarilk-b9352f41)
 - 2026-02-28 | `virakesarilk-1588e301` | பஹ்ரைனிலுள்ள இலங்கையர்களுக்கு விடுக்கப்பட்டுள்ள அவசர அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-virakesarilk-1588e301)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-02-28 | `tamilmirrorlk-14650779` | ஜோர்தான் நாட்டில் உள்ள இலங்கை குடிமக்களுக்கு விசேட அறிவித்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-tamilmirrorlk-14650779)
 - 2026-02-28 | `adalk-ef3bcf2d` | කටුනායක සිට මැදපෙරදිගට යන ගුවන් ගමන් නවතී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-adalk-ef3bcf2d)
 - 2026-02-28 | `tamilmirrorlk-3e48e6e9` | மத்திய கிழக்கில் போர்; நாட்டில் எரிபொருளுக்கு தட்டுப்பாடு? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-tamilmirrorlk-3e48e6e9)
-- 2026-02-28 | `tamilmirrorlk-5dd439a3` | தோஹா, கட்டார் விசேட அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-tamilmirrorlk-5dd439a3)
-- 2026-02-28 | `virakesarilk-bcac449d` | மத்திய கிழக்கு மோதல்களை ஐ.சி.சி கண்காணித்து வருகிறது; வான்பரப்பு மூடப்பட்ட போதிலும் விமான சேவைகளில் தற்செயல் ஏற்பாடுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-02-28-virakesarilk-bcac449d)
 
 ---
 
