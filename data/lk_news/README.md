@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--02_03:47:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--02_06:15:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**103,777** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**103,789** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,7 +42,15 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-03-01 | `tamilmirrorlk-a5825ec2` | ஈரானின் முன்னாள் ஜனாதிபதியும் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-tamilmirrorlk-a5825ec2)
+- 2026-03-01 | `islandlk-4862d0b4` | Metropolitan & Canon debut ‘groundbreaking’ cinema tech with local short film ‘Little Life’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-islandlk-4862d0b4)
+- 2026-03-01 | `islandlk-69ad4e0b` | O2 Imports Exports wins top industry recognition at Pinnacle Sri Lanka 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-islandlk-69ad4e0b)
+- 2026-03-01 | `islandlk-3fe1111f` | NSBM Green University welcomes 2026 newest intake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-islandlk-3fe1111f)
+- 2026-03-01 | `islandlk-dcbdc2f0` | Confidence holds for now, but medium-term warning signals emerge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-islandlk-dcbdc2f0)
+- 2026-03-01 | `islandlk-82ec1b4d` | Lihini Sea Foods recognised for its contribution to export sector, at NCE Export Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-islandlk-82ec1b4d)
 - 2026-03-01 | `tamilmirrorlk-73c6a4b2` | அமெரிக்க போர்க்கப்பல் மீது ஈரான் தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-tamilmirrorlk-73c6a4b2)
+- 2026-03-01 | `islandlk-7cf72b39` | Global aviation in turmoil as US – Iran conflict escalates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-islandlk-7cf72b39)
+- 2026-03-01 | `islandlk-36cd65c4` | HNB’s Damith Pallewatte named Sri Lanka’s ‘Bank CEO of the Year 2025’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-islandlk-36cd65c4)
+- 2026-03-01 | `islandlk-129a52a6` | Science of the mind | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-islandlk-129a52a6)
 - 2026-03-01 | `tamilmirrorlk-c72aef86` | இ – 20 உலகக் கிண்ணம்: அரையிறுதிக்கு தகுதி பெற்ற இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-tamilmirrorlk-c72aef86)
 - 2026-03-01 | `adalk-22bb296f` | පාසල් සිසු ප්‍රවාහන ගාස්තු වැඩි විමක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-adalk-22bb296f)
 - 2026-03-01 | `adalk-aa4b1e79` | කටුනායකට එන්න හා යන්න තිබූ ගුවන් යානා 115ක් අවලංගුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-adalk-aa4b1e79)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-03-01 | `adalk-f8ae50c8` | ටැංකිය උතුරා යන තෙක් ඉන්ධන පිරවූ මෝටර් රථය ගිනි ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-adalk-f8ae50c8)
 - 2026-03-01 | `tamilmirrorlk-1623cbbc` | எரிபொருளை சேமிக்கத் தொடங்கினால் மீண்டும் QR | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-tamilmirrorlk-1623cbbc)
 - 2026-03-01 | `tamilmirrorlk-038412ce` | சட்டவிரோத மண் அகழ்வு: ஓய்வுபெற்ற GS கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-tamilmirrorlk-038412ce)
-- 2026-03-01 | `tamilmirrorlk-437f0395` | சவூதியிலுள்ள இலங்கையர்களுக்கு முக்கிய அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-tamilmirrorlk-437f0395)
-- 2026-03-01 | `tamilmirrorlk-27e0843e` | இலங்கையில் இரத்தான விமான பயணங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-tamilmirrorlk-27e0843e)
-- 2026-03-01 | `tamilmirrorlk-f45267e0` | உலகை அச்சுறுத்தும் தாக்குதல்: ஐ.நா. எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-tamilmirrorlk-f45267e0)
-- 2026-03-01 | `tamilmirrorlk-e0056c5e` | பாகிஸ்தானின், US தூதரகம் முற்றுகை ; பொலிஸாருடன் மோதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-tamilmirrorlk-e0056c5e)
-- 2026-03-01 | `virakesarilk-7f2e70e5` | ஜம்மு காஷ்மீரில் ஆர்ப்பாட்டம் ; ஈரான் உயர் தலைவரின் உருவப்படத்தை ஏந்தியவாறு அமெரிக்காவுக்கு எதிராக மக்கள் கோஷம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-virakesarilk-7f2e70e5)
-- 2026-03-01 | `virakesarilk-c0ddda82` | ஆரோக்கியா, திட்டத்திலிருந்தும் விலக அரச வைத்திய அதிகாரிகள் சங்கம் தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-virakesarilk-c0ddda82)
-- 2026-03-01 | `virakesarilk-6e62b61e` | உயிர்த்த ஞாயிறு தாக்குதல்களுடன்  ஜே.வி.பியினருக்கும் தொடர்புள்ளது - விசாரணைகள் முன்நகராது என்கிறார் திஸ்ஸகுட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-virakesarilk-6e62b61e)
-- 2026-03-01 | `virakesarilk-a0fd32ca` | நீர்கொழும்பு - கட்டானவில் வெளிநாட்டுத் தயாரிப்பு துப்பாக்கி மற்றும் தோட்டாக்கள் கண்டுபிடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-virakesarilk-a0fd32ca)
 
 ---
 
