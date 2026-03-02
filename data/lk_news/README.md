@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--02_08:44:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--02_10:19:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**103,818** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**103,823** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-02-virakesarilk-b389cfd6",
-    "num": "virakesarilk-b389cfd6",
+    "doc_id": "2026-03-02-tamilmirrorlk-2e34e256",
+    "num": "tamilmirrorlk-2e34e256",
     "date_str": "2026-03-02",
-    "description": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b87\u0bb1\u0bc8\u0baf\u0bbe\u0ba3\u0bcd\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0bae\u0bc0\u0bb1\u0bb2\u0bcd, \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0b9a\u0bcd\u0b9a\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u2013 \u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd \u0b8f\u0bb5\u0bc1\u0b95\u0ba3\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b90\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb0\u0baa\u0bc1 \u0b85\u0bae\u0bc0\u0bb0\u0b95\u0bae\u0bcd \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/239934",
+    "description": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4 \u0b9a\u0bcb\u0ba4\u0ba9\u0bc8\u0baf\u0bc8 \u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bc7\u0ba9\u0bcd...",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0ba8\u0bcd\u0ba4-\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8\u0baf\u0bc8-\u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bc7\u0ba9\u0bcd/62-373225",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1772418960.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1772426532.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-02 | `tamilmirrorlk-2e34e256` | எரிபொருளுக்கு வந்த சோதனையை பாருங்களேன்... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-2e34e256)
+- 2026-03-02 | `tamilmirrorlk-3e4e6287` | ஈரான் மீதான தாக்குதல்களையடுத்த பாகிஸ்தான் ஆர்ப்பாட்டங்களில் 23 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-3e4e6287)
+- 2026-03-02 | `adalk-0d663588` | තෙල් නැව්වලට පහරදෙයි, ගෝලීය තෙල් මිල ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-adalk-0d663588)
 - 2026-03-02 | `virakesarilk-b389cfd6` | தேசிய இறையாண்மைக்கு எதிரான மீறல், பிராந்திய பாதுகாப்புக்கு அச்சுறுத்தல் – ஈரானின் ஏவுகணை தாக்குதல்களுக்கு ஐக்கிய அரபு அமீரகம் கடும் கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-virakesarilk-b389cfd6)
 - 2026-03-02 | `virakesarilk-534e0dfb` | ''சீனா வேகமாக சூரிய சக்தி மற்றும் மின்சார ஆற்றலுக்கு மாறுகிறது - எதிர்காலத்தில் எண்ணெய் மற்றும் எரிவாயு தேவைகள் மிகக் குறைவாகவே இருக்கும்'' - எலான் மஸ்க் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-virakesarilk-534e0dfb)
 - 2026-03-02 | `virakesarilk-ff863ad5` | ஈரானின் 165 பலஸ்டிக் ஏவுகணைகள், 541 ட்ரோன்கள் தடுத்து அழிப்பு : தேசிய பாதுகாப்பு முழு தயார்நிலையில் – ஐக்கிய அரபு அமீரகம் உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-virakesarilk-ff863ad5)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-03-01 | `islandlk-4862d0b4` | Metropolitan & Canon debut ‘groundbreaking’ cinema tech with local short film ‘Little Life’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-islandlk-4862d0b4)
 - 2026-03-01 | `tamilmirrorlk-fb0c7421` | ஈரானின் சக்திவாய்ந்த நபர் அலி லாரிஜானி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-tamilmirrorlk-fb0c7421)
 - 2026-03-01 | `islandlk-69ad4e0b` | O2 Imports Exports wins top industry recognition at Pinnacle Sri Lanka 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-islandlk-69ad4e0b)
-- 2026-03-01 | `islandlk-3fe1111f` | NSBM Green University welcomes 2026 newest intake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-islandlk-3fe1111f)
-- 2026-03-01 | `islandlk-dcbdc2f0` | Confidence holds for now, but medium-term warning signals emerge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-islandlk-dcbdc2f0)
-- 2026-03-01 | `islandlk-82ec1b4d` | Lihini Sea Foods recognised for its contribution to export sector, at NCE Export Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-01-islandlk-82ec1b4d)
 
 ---
 
