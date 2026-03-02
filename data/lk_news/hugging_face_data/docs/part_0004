@@ -82730,6 +82730,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-02-colombotelegraphcom-2cb5f4b9",
+    "num": "colombotelegraphcom-2cb5f4b9",
+    "date_str": "2026-03-02",
+    "description": "Miscellaneous Musings On The Religious Arrogance Of Sri Lanka\u2019s Anglicans",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/miscellaneous-musings-on-the-religious-arrogance-of-sri-lankas-anglicans/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1772465492.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-02-colombotelegraphcom-bc1e9e72",
+    "num": "colombotelegraphcom-bc1e9e72",
+    "date_str": "2026-03-02",
+    "description": "Where Empires Paused & Histories Converged \u2013 Book Review",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/where-empires-paused-histories-converged-book-review/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1772465967.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-02-adalk-73b9ae11",
     "num": "adalk-73b9ae11",
     "date_str": "2026-03-02",
@@ -82738,5 +82760,27 @@ ews",
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1772466679.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-02-colombotelegraphcom-ef2b02cc",
+    "num": "colombotelegraphcom-ef2b02cc",
+    "date_str": "2026-03-02",
+    "description": "An Open Letter To The Public Utilities Commission Of Sri Lanka On The Proposed Electricity Tariff Revision",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/an-open-letter-to-the-public-utilities-commission-of-sri-lanka-on-the-proposed-electricity-tariff-revision/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1772467789.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-03-tamilmirrorlk-08cf3f1d",
+    "num": "tamilmirrorlk-08cf3f1d",
+    "date_str": "2026-03-03",
+    "description": "\u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 2 \u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-2-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0baa\u0bcb\u0bb0\u0bcd-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd/50-373291",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1772485095.0
   }
 ]
