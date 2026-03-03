@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--03_03:51:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--03_06:18:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**103,884** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**103,931** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-03-tamilmirrorlk-08cf3f1d",
-    "num": "tamilmirrorlk-08cf3f1d",
+    "doc_id": "2026-03-03-dailyftlk-944221ad",
+    "num": "dailyftlk-944221ad",
     "date_str": "2026-03-03",
-    "description": "\u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 2 \u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-2-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0baa\u0bcb\u0bb0\u0bcd-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd/50-373291",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1772485095.0
+    "description": "Pope Leo urges end to \u201cspiral of violence\u201d after  US-Israeli strikes on Iran",
+    "url_metadata": "https://www.ft.lk/news/Pope-Leo-urges-end-to-spiral-of-violence-after-US-Israeli-strikes-on-Iran/56-789020",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1772498332.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-03-03 | `tamilmirrorlk-08cf3f1d` | கட்டாரில் சுட்டு வீழ்த்தப்பட்ட 2 ஈரான் போர் விமானங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-08cf3f1d)
-- 2026-03-02 | `colombotelegraphcom-ef2b02cc` | An Open Letter To The Public Utilities Commission Of Sri Lanka On The Proposed Electricity Tariff Revision | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-colombotelegraphcom-ef2b02cc)
-- 2026-03-02 | `adalk-73b9ae11` | කටාරයේ ප්‍රධාන සමාගමක් ගෑස් නිෂ්පාදනය නවතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-adalk-73b9ae11)
-- 2026-03-02 | `colombotelegraphcom-bc1e9e72` | Where Empires Paused & Histories Converged – Book Review | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-colombotelegraphcom-bc1e9e72)
-- 2026-03-02 | `colombotelegraphcom-2cb5f4b9` | Miscellaneous Musings On The Religious Arrogance Of Sri Lanka’s Anglicans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-colombotelegraphcom-2cb5f4b9)
-- 2026-03-02 | `adalk-379edabd` | අද දිනට පමණක් කටුනායක ගුවන් ගමන් වාර 65ක් අවලංගුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-adalk-379edabd)
-- 2026-03-02 | `adalk-1aa172c8` | ලක්ෂ 115ක කුෂ් මත්ද්‍රව්‍ය කටුනායකින් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-adalk-1aa172c8)
-- 2026-03-02 | `tamilmirrorlk-8f8249f8` | இஸ்ரேலின் பிரதமர் உயிருடன் இருக்கிறாரா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-8f8249f8)
-- 2026-03-02 | `tamilmirrorlk-00c48232` | ஈரானுக்கு ஆதரவு வழங்கும் சீனா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-00c48232)
-- 2026-03-02 | `tamilmirrorlk-b8013ce2` | கட்சித் தலைவர்களுக்கு சஜித் அவசர அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-b8013ce2)
-- 2026-03-02 | `tamilmirrorlk-388189d7` | 65 விமான சேவைகள் ரத்து ; விசா காலத்தை நீடிக்க நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-388189d7)
-- 2026-03-02 | `tamilmirrorlk-f5c90655` | ‘அராம்கோ’ வை மூடியது சவுதி அரேபியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-f5c90655)
-- 2026-03-02 | `tamilmirrorlk-7fc9dd1d` | கேஸ் ’ கைக்குட்டையால்  சுய ஊரடங்கு’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-7fc9dd1d)
-- 2026-03-02 | `tamilmirrorlk-4bf7d2a7` | ’வெள்ளைக்காரி’யால் இலட்சத்தை இழந்த படகோட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-4bf7d2a7)
-- 2026-03-02 | `tamilmirrorlk-9ac5e75f` | ‘கடற்புலிகளின் வரலாற்று ஆவண நூல்’ இங்கிலாந்தில் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-9ac5e75f)
-- 2026-03-02 | `tamilmirrorlk-8b844a6a` | குவைத்தில் வீழ்ந்த ஐக்கிய அமெரிக்க போர் விமானங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-8b844a6a)
-- 2026-03-02 | `tamilmirrorlk-c6158a73` | தாக்குதல்: ஈரானில் 150 மாணவிகள் உட்பட 555 பேர்  பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-c6158a73)
-- 2026-03-02 | `tamilmirrorlk-34ab8b9a` | பாடசாலைகளுக்கிடையே கிரிக்கெட் போட்டிகள்: பொலிஸார் அதிரடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-34ab8b9a)
-- 2026-03-02 | `tamilmirrorlk-0227150a` | ’இலங்கை உன்னிப்பாக அவதானிக்கிறது” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-0227150a)
-- 2026-03-02 | `tamilmirrorlk-7c42dc61` | “அமெரிக்காவுடன் பேச்சுவார்த்தை கிடையாது” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-02-tamilmirrorlk-7c42dc61)
+- 2026-03-03 | `dailyftlk-944221ad` | Pope Leo urges end to “spiral of violence” after  US-Israeli strikes on Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-944221ad)
+- 2026-03-03 | `dailyftlk-ff6cc331` | National Shoora Council condemns ‘unprovoked’ Israeli-US war on Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-ff6cc331)
+- 2026-03-03 | `dailyftlk-cd443cf3` | President extends State of Public Emergency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-cd443cf3)
+- 2026-03-03 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-3a015e4a)
+- 2026-03-03 | `dailyftlk-d72309dc` | The war on Iran: A stress test for Sri Lanka’s tourism model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-d72309dc)
+- 2026-03-03 | `dailyftlk-937b95e5` | Middle East conflict threatens Asia’s commodity importers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-937b95e5)
+- 2026-03-03 | `dailyftlk-93034752` | Gulf turmoil will stress-test Sri Lanka’s economic resilience – MTI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-93034752)
+- 2026-03-03 | `dailyftlk-98bb1d66` | OPEC+ hikes oil production by more than expected amid Iran war | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-98bb1d66)
+- 2026-03-03 | `dailyftlk-3dd49370` | Sri Lanka after IEEPA: Navigating tariffs in a volatile US trade environment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-3dd49370)
+- 2026-03-03 | `dailyftlk-804f2488` | Central Bank’s ‘Devil’s Alternative’ to inflation targeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-804f2488)
+- 2026-03-03 | `dailyftlk-a12c6dff` | A rogue State of affairs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-a12c6dff)
+- 2026-03-03 | `dailyftlk-84ee9d04` | Sri Lanka must prepare, not polarise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-84ee9d04)
+- 2026-03-03 | `virakesarilk-99bc48ab` | ஈரான் மோதல் நீடிக்கும் : இராணுவ நடவடிக்கைக்கு மூன்று இலக்குகள் - டிரம்ப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-99bc48ab)
+- 2026-03-03 | `dailyftlk-9caa40ed` | Great energy reckoning: Oil’s last stand Vs. solar ascendancy, and why Sri Lanka holds the ace | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-9caa40ed)
+- 2026-03-03 | `dailyftlk-9d0145ef` | The missing 52%: Why women are absent from Pettah’s business landscape | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-9d0145ef)
+- 2026-03-03 | `virakesarilk-edf70137` | அமெரிக்க - இஸ்ரேலிய தாக்குதல் நடவடிக்கைகளில் பிரிட்டன் இல்லை: ஒப்புக்கொள்ளப்பட்ட பாதுகாப்பு நோக்கங்களுக்கு மட்டுமே ஆதரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-edf70137)
+- 2026-03-03 | `virakesarilk-2db71b39` | இக்கட்டான தருணத்தில் நாங்கள் ஈரான் மக்களுடன் நிற்கிறோம் மஹ்மூத் அஹ்மதிநெஜாத்தின் மறைவு அதிர்ச்சியளிக்கிறது - நாமல் ராஜபக்ச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-2db71b39)
+- 2026-03-03 | `virakesarilk-00103748` | இலங்கையர்களின் பாதுகாப்பு குறித்து ஆராய எதிர்க்கட்சி தலைவர் அவசரக் கூட்டத்திற்கு அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-00103748)
+- 2026-03-03 | `virakesarilk-43c468b0` | நாட்டில் அவசரகால நிலைமை மீண்டும் நீடிப்பு ; ஜனாதிபதி செயலாளரால் அதிவிசேட வர்த்தமானி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-43c468b0)
+- 2026-03-03 | `virakesarilk-83e5a166` | ஐசிசி இருபதுக்கு 20 உலகக் கிண்ணத் தொடரில் இருந்து இலங்கை அணி வெளியேற்றம் ரசிகர்களுக்கு ஏமாற்றம் - நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-83e5a166)
 
 ---
 
