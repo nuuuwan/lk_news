@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--03_08:46:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--03_10:18:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**103,951** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**103,955** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-03-tamilmirrorlk-bd1a3c48",
-    "num": "tamilmirrorlk-bd1a3c48",
+    "doc_id": "2026-03-03-tamilmirrorlk-70b4c560",
+    "num": "tamilmirrorlk-70b4c560",
     "date_str": "2026-03-03",
-    "description": "\u0bb0\u0bbf\u0baf\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b88\u0bb0\u0bbe\u0ba9\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bbf\u0baf\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b89\u0bb3\u0bcd\u0bb3-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd-\u0ba4\u0bc2\u0ba4\u0bb0\u0b95\u0ba4\u0bcd\u0ba4\u0bc8-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd/50-373297",
+    "description": "\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd-\u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0ba4\u0bbf\u0baa\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-373298",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1772506405.0
+    "time_ut": 1772512896.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-03 | `tamilmirrorlk-70b4c560` | பெட்ரோல் பதுக்கிய தொழிலதிபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-70b4c560)
+- 2026-03-03 | `adalk-397a9a95` | රියාද් හි ඇමරිකානු තානාපති කාර්යාලයට ඩ්‍රෝන ප්‍රහාරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-adalk-397a9a95)
 - 2026-03-03 | `tamilmirrorlk-bd1a3c48` | ரியாத்தில் உள்ள அமெரிக்கத் தூதரகத்தை தாக்கிய ஈரான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-bd1a3c48)
 - 2026-03-03 | `tamilmirrorlk-1e3a6ce5` | எண்ணெய், காஸ் விலைகள் உயர்ந்தன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-1e3a6ce5)
 - 2026-03-03 | `tamilmirrorlk-20ff8f82` | அமெரிக்க விமானங்களை தவறுதலாக சுட்டுவீழ்த்திய குவைத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-20ff8f82)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-03 | `dailyftlk-f19f61d1` | US, Bahrain, Jordan, Kuwait, Qatar, Saudi Arabia, UAE issue joint statement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-f19f61d1)
 - 2026-03-03 | `dailyftlk-5e86f9a6` | Sri Lanka urges restraint amid Middle East escalation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-5e86f9a6)
 - 2026-03-03 | `dailyftlk-89091ec2` | Opposition warns prolonged Middle East conflict could trigger economic strain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-89091ec2)
-- 2026-03-03 | `dailyftlk-944221ad` | Pope Leo urges end to “spiral of violence” after  US-Israeli strikes on Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-944221ad)
-- 2026-03-03 | `dailyftlk-ff6cc331` | National Shoora Council condemns ‘unprovoked’ Israeli-US war on Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-dailyftlk-ff6cc331)
 
 ---
 

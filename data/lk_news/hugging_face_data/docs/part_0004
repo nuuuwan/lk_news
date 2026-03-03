@@ -82807,6 +82807,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-02-dbsjeyarajcom-b99a1ce6",
+    "num": "dbsjeyarajcom-b99a1ce6",
+    "date_str": "2026-03-02",
+    "description": "President Dissanayake has recognised that Sri Lanka\u2019s long term political stability and economic recovery depend on building trust among communities that once peacefully coexisted and then lived through decades of war.",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87187",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1772454600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-02-dbsjeyarajcom-65501ade",
+    "num": "dbsjeyarajcom-65501ade",
+    "date_str": "2026-03-02",
+    "description": "The baffling inaction of current President Anura Kumara Dissanayake in not making changes at Sri Lanka Cricket  despite being a vocal critic against the conduct of cricket officials when he was an Opposition MP",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87185",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1772455680.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-02-islandlk-417e3b18",
     "num": "islandlk-417e3b18",
     "date_str": "2026-03-02",
@@ -83519,5 +83541,27 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1772506405.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-03-adalk-397a9a95",
+    "num": "adalk-397a9a95",
+    "date_str": "2026-03-03",
+    "description": "\u0dbb\u0dd2\u0dba\u0dcf\u0daf\u0dca \u0dc4\u0dd2 \u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7 \u0da9\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/international/\u0dbb\u0dd2\u0dba\u0dcf\u0daf\u0dca-\u0dc4\u0dd2-\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4-\u0dad\u0dcf\u0db1\u0dcf\u0db4\u0dad\u0dd2-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0da7-\u0da9\u0dca\u200d\u0dbb\u0ddd\u0db1-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/3-421483",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1772506590.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-03-tamilmirrorlk-70b4c560",
+    "num": "tamilmirrorlk-70b4c560",
+    "date_str": "2026-03-03",
+    "description": "\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd \u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb2\u0bcd-\u0baa\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0ba4\u0bbf\u0baa\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-373298",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1772512896.0
   }
 ]
