@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--03_21:59:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--04_00:00:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**104,011** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**104,013** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-03-tamilmirrorlk-6a6cb793",
-    "num": "tamilmirrorlk-6a6cb793",
+    "doc_id": "2026-03-03-tamilmirrorlk-7ef9eb28",
+    "num": "tamilmirrorlk-7ef9eb28",
     "date_str": "2026-03-03",
-    "description": "\u0b87 \u2013 20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1 \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd \u0ba4\u0ba3\u0bcd\u0b9f\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87-20-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4-\u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1-\u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd-\u0ba4\u0ba3\u0bcd\u0b9f\u0bae\u0bcd/44-373334",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bc8 \u0ba4\u0bb0\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0baa\u0bb0\u0bbf\u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd \u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bb0\u0b9a\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb0\u0bc1\u0b95\u0bc8-\u0ba4\u0bb0\u0bc1\u0bae\u0bbe\u0bb1\u0bc1-\u0baa\u0bb0\u0bbf\u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd-\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bb0\u0b9a\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-373348",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1772548935.0
+    "time_ut": 1772556670.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-03 | `tamilmirrorlk-7ef9eb28` | இலங்கைக்கு வருகை தருமாறு பரிசுத்தப் பாப்பரசருக்கு அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-7ef9eb28)
+- 2026-03-03 | `tamilmirrorlk-784f7f1b` | நாடளாவிய ரீதியில் ஆயுதப்படைகள் குவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-784f7f1b)
 - 2026-03-03 | `tamilmirrorlk-6a6cb793` | இ – 20 உலகக் கிண்ணம்: எதிர்பார்த்த பெறுபேறு இல்லாததால் தண்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-6a6cb793)
 - 2026-03-03 | `tamilmirrorlk-a102bb67` | 205 விமான சேவைகள் இரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-a102bb67)
 - 2026-03-03 | `tamilmirrorlk-80fbfb6b` | எரியும் நெருப்பில் எண்ணெய்யை ஊற்றும் த்ரிஷா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-80fbfb6b)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-03 | `tamilmirrorlk-34133d8f` | “தமிழக இளைஞர்கள் மீது கடற்படையினர் தாக்குதல்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-34133d8f)
 - 2026-03-03 | `tamilmirrorlk-8a8cdc55` | சடலத்திற்கு பாலியல் வல்லுறவு : வைத்தியசாலையில் பதற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-8a8cdc55)
 - 2026-03-03 | `tamilmirrorlk-6e6d8a0a` | சடலத்திற்கு பாலியல் வல்லுறவு : பதற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-6e6d8a0a)
-- 2026-03-03 | `tamilmirrorlk-73dbd364` | போர் பதற்றத்தால் தங்கத்தின் விலையில் பாரிய ஏற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-73dbd364)
-- 2026-03-03 | `tamilmirrorlk-833ee71d` | இலங்கைக்கு ஆபத்து : ஜி.எல். பீரிஸ் ஜனாதிபதிக்கு அவசர கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-833ee71d)
 
 ---
 
