@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--03_12:02:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--03_13:55:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**103,985** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**103,992** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-03-virakesarilk-7f85d3b4",
-    "num": "virakesarilk-7f85d3b4",
+    "doc_id": "2026-03-03-tamilmirrorlk-8a8cdc55",
+    "num": "tamilmirrorlk-8a8cdc55",
     "date_str": "2026-03-03",
-    "description": "\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bb2\u0bb5\u0bc0\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bae\u0bc7\u0ba9\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/240026",
+    "description": "\u0b9a\u0b9f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0bb5\u0bb2\u0bcd\u0bb2\u0bc1\u0bb1\u0bb5\u0bc1 : \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9a\u0b9f\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0bb5\u0bb2\u0bcd\u0bb2\u0bc1\u0bb1\u0bb5\u0bc1-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/76-373314",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1772518200.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1772523082.0
 }
 ```
 
@@ -41,9 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-03 | `tamilmirrorlk-8a8cdc55` | சடலத்திற்கு பாலியல் வல்லுறவு : வைத்தியசாலையில் பதற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-8a8cdc55)
+- 2026-03-03 | `tamilmirrorlk-73dbd364` | போர் பதற்றத்தால் தங்கத்தின் விலையில் பாரிய ஏற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-73dbd364)
+- 2026-03-03 | `tamilmirrorlk-833ee71d` | இலங்கைக்கு ஆபத்து : ஜி.எல். பீரிஸ் ஜனாதிபதிக்கு அவசர கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-833ee71d)
+- 2026-03-03 | `tamilmirrorlk-b15a94b5` | ஒரு சொட்டு எண்ணெய்  இல்லை; உலகத்துக்கே செக் வைத்த ஈரான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-b15a94b5)
+- 2026-03-03 | `tamilmirrorlk-963b1b12` | “பிரித்தானியாவில் புகலிடத்திற்கு இனி இடமில்லை” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-963b1b12)
 - 2026-03-03 | `virakesarilk-7f85d3b4` | ஈரானின் பாதுகாப்பு பலவீனங்களும் காமேனியின் இறுதி நிமிடங்களும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-7f85d3b4)
 - 2026-03-03 | `tamilmirrorlk-275edef9` | சபைக்கு வந்தார் ஜனாதிபதி அனுர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-275edef9)
 - 2026-03-03 | `tamilmirrorlk-e76f8cc5` | இன்று ஆண்டின் முதல் சந்திர கிரகணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-e76f8cc5)
+- 2026-03-03 | `adalk-2a6f8895` | සිරකරුවන්ගේ අක්කර තුනක කුඹුරු යායත් අලි විනාශ කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-adalk-2a6f8895)
+- 2026-03-03 | `adalk-62a2d8d1` | ටෙහෙරානයට හා බේරූට්වෙත ඊශ්‍රායෙලය පහරදෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-adalk-62a2d8d1)
 - 2026-03-03 | `virakesarilk-8253820c` | மத்திய கிழக்கு போர் பதற்றம்: கட்டுநாயக்கவில் 57 விமானப் பயணங்கள் இரத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-8253820c)
 - 2026-03-03 | `virakesarilk-3ccc0d20` | ரியாத்தில் உள்ள அமெரிக்க தூதரகம் மீது ட்ரோன் தாக்குதல் - சவுதி பாதுகாப்பு அமைச்சு தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-3ccc0d20)
 - 2026-03-03 | `tamilmirrorlk-5c994e65` | பிரித்தானியாவில் புதிய கட்டுப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-5c994e65)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-03-03 | `tamilmirrorlk-dfd43e80` | கமேனியின் மனைவியும் பலி? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-dfd43e80)
 - 2026-03-03 | `virakesarilk-97853f6c` | இன்று பகுதி அளவு சந்திர கிரகணம்: இலங்கையர்களுக்குப் பார்ப்பதற்கான அரிய வாய்ப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-97853f6c)
 - 2026-03-03 | `virakesarilk-dca6f642` | ஆசியாவில் பொருளாதார நிலநடுக்கத்தை ஏற்படுத்தியுள்ள மத்திய கிழக்கு போர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-dca6f642)
-- 2026-03-03 | `virakesarilk-042b9807` | பெண் தாதி கூரிய ஆயுதத்தால் தாக்கிப் படுகொலை: சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-042b9807)
-- 2026-03-03 | `tamilmirrorlk-8f21d4b8` | ஏவுகணைத் துண்டுகள் விழுந்ததில் இலங்கை பெண் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-8f21d4b8)
-- 2026-03-03 | `virakesarilk-abc8aad0` | ஹோர்முஸ் நீரிணை மூடப்பட்டது ; கடந்து செல்ல முயற்சிக்கும் கப்பல்களைத் தாக்குவோம் - ஈரான் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-abc8aad0)
-- 2026-03-03 | `virakesarilk-17033727` | அமெரிக்காவில் பெற்றோல் விலை வரலாறு காணாத அளவில் அதிகரிப்பு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-virakesarilk-17033727)
-- 2026-03-03 | `tamilmirrorlk-82491147` | பேருந்து விபத்தில் 10 பேர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-82491147)
-- 2026-03-03 | `tamilmirrorlk-2ab550b3` | நட்சத்திர ஆமைகளை கடத்த முயன்ற இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-2ab550b3)
-- 2026-03-03 | `tamilmirrorlk-70b4c560` | பெட்ரோல் பதுக்கிய தொழிலதிபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-03-tamilmirrorlk-70b4c560)
 
 ---
 
