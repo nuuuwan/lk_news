@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--04_08:41:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--04_10:16:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**104,067** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**104,071** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-04-dailyftlk-fda3ec8a",
-    "num": "dailyftlk-fda3ec8a",
+    "doc_id": "2026-03-04-tamilmirrorlk-3b0f8eee",
+    "num": "tamilmirrorlk-3b0f8eee",
     "date_str": "2026-03-04",
-    "description": "AmCham Sri Lanka CEO Forum 2026 calls for reform, resilience and regional collaboration",
-    "url_metadata": "https://www.ft.lk/business/AmCham-Sri-Lanka-CEO-Forum-2026-calls-for-reform-resilience-and-regional-collaboration/34-789085",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1772592959.0
+    "description": "\u2019\u2019\u0b9a\u0bc1\u0bb0\u0bbe\u2019\u2019\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc1\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0bb0\u0bbe-\u0bb5\u0bbf\u0ba9\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd-\u0bae\u0bc1\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-373357",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1772598964.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-04 | `tamilmirrorlk-3b0f8eee` | ’’சுரா’’வின் சடலம் முச்சக்கரவண்டியிலிருந்து மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-tamilmirrorlk-3b0f8eee)
+- 2026-03-04 | `tamilmirrorlk-7770e7fa` | தம்பதி சென்ற மோட்டார் சைக்கிள்  தீப்பற்றி எரிந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-tamilmirrorlk-7770e7fa)
+- 2026-03-04 | `tamilmirrorlk-3c293e3d` | ஓமன் கடல் பகுதியில் ஈரான் ட்ரோன் தாக்குதல்: 3 இந்தியர்கள் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-tamilmirrorlk-3c293e3d)
+- 2026-03-04 | `tamilmirrorlk-f7348db0` | ஓமன், குவைத் தலைவர்களுடன் பிரதமர் மோடி பேச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-tamilmirrorlk-f7348db0)
 - 2026-03-04 | `dailyftlk-fda3ec8a` | AmCham Sri Lanka CEO Forum 2026 calls for reform, resilience and regional collaboration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-dailyftlk-fda3ec8a)
 - 2026-03-04 | `dailyftlk-bd02950c` | ‘Edges of Sri Lanka’ to showcase country’s unique exports value proposition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-dailyftlk-bd02950c)
 - 2026-03-04 | `dailyftlk-ab802580` | Sierra Cables reinforces market leadership with robust growth and international reach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-dailyftlk-ab802580)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-03-04 | `dailyftlk-062f1a7b` | Opposition meets to assess Mideast crisis impact on Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-dailyftlk-062f1a7b)
 - 2026-03-04 | `dailyftlk-677f92d8` | President invites Pope Leo XIV for official visit to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-dailyftlk-677f92d8)
 - 2026-03-04 | `dailyftlk-ba4f8f2a` | Shanakiyan, Sumanthiran meet Norway’s Deputy FM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-dailyftlk-ba4f8f2a)
-- 2026-03-04 | `tamilmirrorlk-6e18b197` | ’ஈரானுடன் இனி பேச்சுவார்த்தை இல்லை’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-tamilmirrorlk-6e18b197)
-- 2026-03-04 | `tamilmirrorlk-76198c61` | லெபனானிலிருந்து 58,000 பேர் இடம்பெயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-tamilmirrorlk-76198c61)
-- 2026-03-04 | `virakesarilk-f41a46f0` | அமெரிக்காவின் டெக்சாஸ் துப்பாக்கிச் சூட்டில் தமிழ் மாணவி பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-virakesarilk-f41a46f0)
-- 2026-03-04 | `virakesarilk-b7aa930c` | ஸ்பெயின் படைத் தளங்களை பயன்படுத்த அனுமதி மறுப்பு; தேவையான தளங்களை நாங்கள் பயன்படுத்துவோம் - அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-04-virakesarilk-b7aa930c)
 
 ---
 
