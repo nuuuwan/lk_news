@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--05_20:02:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--05_22:02:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**104,306** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**104,308** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,8 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-03-05 | `tamilmirrorlk-eb4d53f6` | இ – 20 உலகக் கிண்ணம்: முதலில் துடுப்பெடுத்தாடும் இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-tamilmirrorlk-eb4d53f6)
+- 2026-03-05 | `adalk-a67b445a` | 2025දී වන අලි මරණ වේගයෙන් වැඩි වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-adalk-a67b445a)
+- 2026-03-05 | `adalk-963b4453` | කාන්තා ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස ජෙමී සීඩ්න්ස් පත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-adalk-963b4453)
 - 2026-03-05 | `adalk-0ad428a2` | ඉරාන නාවිකයන් 84ගේ මරණ පරික්ෂණ අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-adalk-0ad428a2)
 - 2026-03-05 | `tamilmirrorlk-03954150` | சிறுமியை வன்புணர்ந்த மாமாவுக்கு  கடூழிய சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-tamilmirrorlk-03954150)
 - 2026-03-05 | `tamilmirrorlk-e222062e` | பலுனை உடைக்கப் பட்டப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-tamilmirrorlk-e222062e)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-05 | `tamilmirrorlk-d8a7110f` | பயிர்களையும் பாதுகாக்க விசேட அமைச்சரவை குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-tamilmirrorlk-d8a7110f)
 - 2026-03-05 | `virakesarilk-cc12a6af` | லெஜன்ட் சரவணன் நடிக்கும் 'லீடர் ' படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-virakesarilk-cc12a6af)
 - 2026-03-05 | `virakesarilk-33e28d45` | நடிகர் சனத் நடிக்கும் 'ஹார்ட்டின் ' படத்தின் மோசன் போஸ்டர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-virakesarilk-33e28d45)
-- 2026-03-05 | `tamilmirrorlk-e9ca34e3` | முபாரக் அல்-கபீர் மீது தாக்குதல் மறுத்தது  குவைத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-tamilmirrorlk-e9ca34e3)
-- 2026-03-05 | `virakesarilk-27d11feb` | ஹிப் ஹாப் ஆதி தமிழா நடிக்கும் 'மீசைய முறுக்கு 2' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-virakesarilk-27d11feb)
 
 ---
 
