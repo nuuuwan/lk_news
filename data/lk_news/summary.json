@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-03-05 08:42:00",
-  "n_docs": 104205,
+  "time_updated": "2026-03-05 10:17:34",
+  "n_docs": 104228,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 104205,
+  "n_docs_with_text": 104228,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-03-05",
-  "dataset_size": 1595239796,
+  "dataset_size": 1595341803,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-05-dailyftlk-aae75167",
-    "num": "dailyftlk-aae75167",
+    "doc_id": "2026-03-05-virakesarilk-bf403173",
+    "num": "virakesarilk-bf403173",
     "date_str": "2026-03-05",
-    "description": "Sri Lanka Navy rescue 32 after Iranian warship distress call",
-    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-Navy-rescue-32-after-Iranian-warship-distress-call/56-789118",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1772663512.0
+    "description": "\u0b9a\u0bc8\u0baa\u0bcd\u0bb0\u0bb8\u0bbf\u0bb2\u0bc1\u0bb3\u0bcd\u0bb3 \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc8 \u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bc8\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b9f\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd \u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0b87\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b8f\u0bb5\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 \u2013 \u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf\u0bbe \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/240192",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1772685540.0
   }
 }
