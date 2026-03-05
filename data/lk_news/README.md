@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--05_22:02:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--06_00:21:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**104,308** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**104,310** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-05-tamilmirrorlk-eb4d53f6",
-    "num": "tamilmirrorlk-eb4d53f6",
+    "doc_id": "2026-03-05-tamilmirrorlk-4884541a",
+    "num": "tamilmirrorlk-4884541a",
     "date_str": "2026-03-05",
-    "description": "\u0b87 \u2013 20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b9f\u0bc1\u0bae\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87-20-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0bae\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc1\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b9f\u0bc1\u0bae\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe/44-373455",
+    "description": "\u0b87 \u2013 20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87-20-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe/44-373458",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1772720530.0
+    "time_ut": 1772731890.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-05 | `tamilmirrorlk-4884541a` | இ – 20 உலகக் கிண்ணம்: இறுதிப் போட்டியில் இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-tamilmirrorlk-4884541a)
+- 2026-03-05 | `tamilmirrorlk-deadaf0e` | ஈரான் கப்பல் குறித்து ஜனாதிபதி சற்றுமுன் அதிரடி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-tamilmirrorlk-deadaf0e)
 - 2026-03-05 | `tamilmirrorlk-eb4d53f6` | இ – 20 உலகக் கிண்ணம்: முதலில் துடுப்பெடுத்தாடும் இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-tamilmirrorlk-eb4d53f6)
 - 2026-03-05 | `adalk-a67b445a` | 2025දී වන අලි මරණ වේගයෙන් වැඩි වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-adalk-a67b445a)
 - 2026-03-05 | `adalk-963b4453` | කාන්තා ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස ජෙමී සීඩ්න්ස් පත් කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-adalk-963b4453)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-05 | `virakesarilk-f49e2fd6` | வலான மத்திய ஊழல் ஒழிப்பு பிரிவின் பணிப்பாளராக உதவிப் பொலிஸ் அத்தியட்சகர் ரொஹான் ஒலுகல கடமையேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-virakesarilk-f49e2fd6)
 - 2026-03-05 | `tamilmirrorlk-512f3cc2` | இலங்கை கிரிக்கெட் சபைக்கு இடைக்கால நிர்வாகம்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-tamilmirrorlk-512f3cc2)
 - 2026-03-05 | `tamilmirrorlk-d8a7110f` | பயிர்களையும் பாதுகாக்க விசேட அமைச்சரவை குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-tamilmirrorlk-d8a7110f)
-- 2026-03-05 | `virakesarilk-cc12a6af` | லெஜன்ட் சரவணன் நடிக்கும் 'லீடர் ' படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-virakesarilk-cc12a6af)
-- 2026-03-05 | `virakesarilk-33e28d45` | நடிகர் சனத் நடிக்கும் 'ஹார்ட்டின் ' படத்தின் மோசன் போஸ்டர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-05-virakesarilk-33e28d45)
 
 ---
 
