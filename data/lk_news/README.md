@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--06_12:00:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--06_13:53:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**104,400** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**104,402** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,8 @@ A collection of lk_news documents.
 - 2026-03-06 | `tamilmirrorlk-d98b890b` | புத்தளத்தில் கோர விபத்து – பாடசாலை மாணவர்கள் இருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-d98b890b)
 - 2026-03-06 | `tamilmirrorlk-b4e81f4a` | நிழலாடும் மரணமும் முதுமையும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-b4e81f4a)
 - 2026-03-06 | `tamilmirrorlk-328e9c93` | யாழ். குருநகரில் பரபரப்பு: கடலில் மூழ்கிய பக்தர்களின் படகு: ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-328e9c93)
+- 2026-03-06 | `adalk-d35f47b5` | හල්දුම්මුල්ල පාසලක මුරකරු මුරකුටියේම ජීවිතක්ෂයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-adalk-d35f47b5)
+- 2026-03-06 | `adalk-721a50e9` | ඇතැම් නැව් ආරක්ෂිතව ගමන් කරවීමට චීනය හා ඉරානය අතර  සාකච්ඡා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-adalk-721a50e9)
 - 2026-03-06 | `tamilmirrorlk-fc7aa9a0` | ’’வடக்கின்  119-வது சமர் இன்று ஆரம்பம் ’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-fc7aa9a0)
 - 2026-03-06 | `tamilmirrorlk-ebe9cf1c` | 'கெசல்பெத்தர பத்மே' மீதான பிடி இறுகுகிறது: லும் 90 நாட்கள் CID வசம்!’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-ebe9cf1c)
 - 2026-03-06 | `tamilmirrorlk-d247f429` | மஸ்கெலியாவில் ’ஹேஸ்’ ஸூடன் இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-d247f429)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-06 | `tamilmirrorlk-0e5bd370` | ஒவ்வொரு மணி நேரத்திற்கும் ஒருமுறை தாக்குதல் நடத்தும் அமெரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-0e5bd370)
 - 2026-03-06 | `tamilmirrorlk-a745fb9e` | இஸ்ரேலின் ஏவுகணைகளை முறியடிக்கும் கட்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-a745fb9e)
 - 2026-03-06 | `tamilmirrorlk-dd2d39a1` | 3 லட்சத்திற்கு அதிகமான லெபனான் மக்கள் இடம்பெயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-dd2d39a1)
-- 2026-03-06 | `virakesarilk-cafc866f` | குவைத் நகரில் உள்ள அமெரிக்க தூதரக செயல்பாடுகள் தற்காலிகமாக நிறுத்தம் - அமெரிக்க வெளியுறவுத்துறை அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-cafc866f)
-- 2026-03-06 | `adalk-246cc36f` | ඉරාන නැව් 30 කට වැඩි ප්‍රමාණයක් ගිල්වා දැමුවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-adalk-246cc36f)
 
 ---
 
