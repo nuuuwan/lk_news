@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--06_21:54:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--06_23:58:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**104,463** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**104,465** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -48,7 +48,9 @@ A collection of lk_news documents.
 - 2026-03-06 | `virakesarilk-f19dfb65` | பொது அவசரகால நிலையை அறிவிக்கும் பிரேரணை பெரும்பான்மை வாக்குகளால் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-f19dfb65)
 - 2026-03-06 | `tamilmirrorlk-a5d90f77` | அவசரகால சட்டம் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-a5d90f77)
 - 2026-03-06 | `virakesarilk-14286da1` | இரவில் சட்டவிரோதமாக சுழியோடி கடல் அட்டைகளை பிடித்த 4 பேர் கடற்படையினரால் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-14286da1)
+- 2026-03-06 | `colombotelegraphcom-ad0cafb8` | Conspiracy Theory: The Sri Lankan Case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-colombotelegraphcom-ad0cafb8)
 - 2026-03-06 | `virakesarilk-0b051158` | சட்டவிரோத மீன்பிடியை தடுக்க கடற்படையினர் நடவடிக்கை - 19 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-0b051158)
+- 2026-03-06 | `colombotelegraphcom-f88535b4` | Navigating The Storm: A Strategic Imperative For Sri Lanka Amidst Middle Eastern Volatility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-colombotelegraphcom-f88535b4)
 - 2026-03-06 | `virakesarilk-b0446d28` | இடம்பெயர்ந்து முகாம்களில் உள்ள மக்களுக்கு விரைவான தீர்வுகளை வழங்குங்கள் – பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-b0446d28)
 - 2026-03-06 | `virakesarilk-9dd72cbd` | மன்னாரில் வீடொன்றில் திருட்டு: பல இலட்சம் மதிப்புள்ள நகை, பணத்துடன் 4 பெண்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-9dd72cbd)
 - 2026-03-06 | `tamilmirrorlk-34b204f3` | மிக உயரமான சிவலிங்கம், பிள்ளையார் சிலைகள்  பிரதிஷ்டை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-34b204f3)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-06 | `virakesarilk-59321386` | திருகோணமலையில் கப்பலை நிறுத்த காரணம் என்ன? சர்வதேச போர் களத்தில் இலங்கை - சுரேன் ராகவன் விடுத்த அவசர எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-59321386)
 - 2026-03-06 | `virakesarilk-78c9274c` | கொழும்பு துறைமுகத்தில் நங்கூரமிட்டது ஐ.என்.எஸ் தரங்கினி: இலங்கை கடற்படையினருக்குப் பாய்மர கப்பல் பயிற்சி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-78c9274c)
 - 2026-03-06 | `virakesarilk-fa6a6d94` | ஏப்ரல் முதல் களமிறங்கும் மொட்டு: மஹிந்த தலைமையில் கூடிய செயற்குழுவில் அரசியல் களம் சூடுபிடிக்கிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-fa6a6d94)
-- 2026-03-06 | `tamilmirrorlk-f07f508b` | IRIS Dena கப்பலில் இருந்தவர்களை மீகும் நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-f07f508b)
-- 2026-03-06 | `tamilmirrorlk-1e902852` | IRIS Dena கப்பலில் இருந்தவர்களை மீட்கும் காணொளி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-1e902852)
 
 ---
 

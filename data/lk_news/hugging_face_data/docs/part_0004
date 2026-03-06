@@ -89066,6 +89066,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-06-colombotelegraphcom-f88535b4",
+    "num": "colombotelegraphcom-f88535b4",
+    "date_str": "2026-03-06",
+    "description": "Navigating The Storm: A Strategic Imperative For Sri Lanka Amidst Middle Eastern Volatility",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/navigating-the-storm-a-strategic-imperative-for-sri-lanka-amidst-middle-eastern-volatility/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1772799649.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-06-virakesarilk-0b051158",
     "num": "virakesarilk-0b051158",
     "date_str": "2026-03-06",
@@ -89074,6 +89085,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1772799900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-06-colombotelegraphcom-ad0cafb8",
+    "num": "colombotelegraphcom-ad0cafb8",
+    "date_str": "2026-03-06",
+    "description": "Conspiracy Theory: The Sri Lankan Case",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/conspiracy-theory-the-sri-lankan-case/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1772800639.0
   },
   {
     "doc_type": "lk_news",
