@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--07_19:48:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--07_21:48:38-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**104,558** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**104,563** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-07-tamilmirrorlk-02da5a05",
-    "num": "tamilmirrorlk-02da5a05",
+    "doc_id": "2026-03-07-adalk-fa26f540",
+    "num": "adalk-fa26f540",
     "date_str": "2026-03-07",
-    "description": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd-\u0b8f\u0bb0\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd\u0bb8\u0bcd-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd-\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1/175-373520",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1772889360.0
+    "description": "\u0dba\u0da7\u0dad\u0dca \u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1, \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0da7\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0da7\u0dad\u0dca-\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd1--\u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0dc3\u0da7\u0db1\u0dca-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/11-421556",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1772897701.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-07 | `adalk-fa26f540` | යටත් වෙන්නේ නෑ, අවසානය දක්වා සටන් කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-adalk-fa26f540)
+- 2026-03-07 | `adalk-03e3b5f4` | විදුලි කප්පාදුවක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-adalk-03e3b5f4)
+- 2026-03-07 | `adalk-ba5f4860` | කොන්දේසි විරහිතව ඉරානය යටත් විය යුතුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-adalk-ba5f4860)
 - 2026-03-07 | `tamilmirrorlk-02da5a05` | ஸ்ரீலங்கன் ஏர்லைன்ஸ் விமான சேவைகள் ரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-tamilmirrorlk-02da5a05)
 - 2026-03-07 | `tamilmirrorlk-803ea72a` | வடக்கின் சமரில் யாழ். மத்தி அதிரடி வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-tamilmirrorlk-803ea72a)
 - 2026-03-07 | `tamilmirrorlk-3ff74d91` | அயல் நாடுகள் மீதான தாக்குதல்களை நிறுத்தவுள்ள ஈரான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-tamilmirrorlk-3ff74d91)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-03-07 | `virakesarilk-0fb62558` | அவுஸ்திரேலியாவில் இலங்கைப் பெண் சடலமாக மீட்பு : கொலையா ? தற்கொலையா ? என்ற கோணத்தில் விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-0fb62558)
 - 2026-03-07 | `virakesarilk-604fce2a` | நடுக்கடலில் திடீர் உடல்நலக்குறைவு: ஜப்பானியப் படை வீரரை துரிதமாக மீட்டெடுத்த இலங்கை கடற்படை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-604fce2a)
 - 2026-03-07 | `virakesarilk-acd2373c` | நேபாளத்தில் அரசியல் மாற்றம்: தேர்தலில் முன்னிலை பெற்ற ராஷ்டிரிய சுதந்திர கட்சி – பாலேந்திர ஷா பிரதமராகும் வாய்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-acd2373c)
-- 2026-03-07 | `virakesarilk-671802da` | கொழும்பு காலி முகத்திடலில் முப்படைகளின் பங்கேற்புடன் சர்வதேச இராணுவ விளையாட்டு கவுன்சில் தின ஓட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-671802da)
-- 2026-03-07 | `virakesarilk-d45cd10d` | பெப்ரவரியில் 729 மில்லியன் டொலர் அந்நியச் செலாவணி வருமானம்: மத்திய வங்கி அறிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-d45cd10d)
-- 2026-03-07 | `virakesarilk-a306a082` | அண்டை நாடுகளிடம் பகிரங்க மன்னிப்பு கோரினார் ஈரானிய ஜனாதிபதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-a306a082)
 
 ---
 

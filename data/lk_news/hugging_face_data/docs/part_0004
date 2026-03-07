@@ -89396,6 +89396,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-06-islandlk-185cf740",
+    "num": "islandlk-185cf740",
+    "date_str": "2026-03-06",
+    "description": "SDB bank relocates Warakapola branch to enhance customer experience",
+    "url_metadata": "http://island.lk/sdb-bank-relocates-warakapola-branch-to-enhance-customer-experience/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1772810580.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-06-islandlk-36dcdadb",
     "num": "islandlk-36dcdadb",
     "date_str": "2026-03-06",
@@ -89701,6 +89712,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1772850180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-07-adalk-216cb84d",
+    "num": "adalk-216cb84d",
+    "date_str": "2026-03-07",
+    "description": "\u0dad\u0dbd\u0d82\u0d9c\u0db8 \u0db1\u0dd2\u0dad\u0dd2\u0da5 \u0dba\u0dd4\u0dc0\u0dc5 \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7 \u0dad\u0dc0\u0dad\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dbd\u0d82\u0d9c\u0db8-\u0db1\u0dd2\u0dad\u0dd2\u0da5-\u0dba\u0dd4\u0dc0\u0dc5-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0da7-\u0dad\u0dc0\u0dad\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1\u0dd9\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-421552",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1772851674.0
   },
   {
     "doc_type": "lk_news",
@@ -90196,5 +90218,38 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1772889360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-07-adalk-ba5f4860",
+    "num": "adalk-ba5f4860",
+    "date_str": "2026-03-07",
+    "description": "\u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2 \u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad\u0dc0 \u0d89\u0dbb\u0dcf\u0db1\u0dba \u0dba\u0da7\u0dad\u0dca \u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/international/\u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2-\u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad\u0dc0-\u0d89\u0dbb\u0dcf\u0db1\u0dba-\u0dba\u0da7\u0dad\u0dca-\u0dc0\u0dd2\u0dba-\u0dba\u0dd4\u0dad\u0dd4\u0dba\u0dd2/3-421554",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1772895776.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-07-adalk-03e3b5f4",
+    "num": "adalk-03e3b5f4",
+    "date_str": "2026-03-07",
+    "description": "\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0d9a\u0db4\u0dca\u0db4\u0dcf\u0daf\u0dd4\u0dc0\u0d9a\u0dca-\u0db1\u0dd1/11-421555",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1772896229.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-07-adalk-fa26f540",
+    "num": "adalk-fa26f540",
+    "date_str": "2026-03-07",
+    "description": "\u0dba\u0da7\u0dad\u0dca \u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd1, \u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dc3\u0da7\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0da7\u0dad\u0dca-\u0dc0\u0dd9\u0db1\u0dca\u0db1\u0dda-\u0db1\u0dd1--\u0d85\u0dc0\u0dc3\u0dcf\u0db1\u0dba-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0dc3\u0da7\u0db1\u0dca-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/11-421556",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1772897701.0
   }
 ]
