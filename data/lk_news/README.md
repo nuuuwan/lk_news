@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--07_03:50:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--07_06:12:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**104,478** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**104,503** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-07-dailyftlk-692c9ed9",
-    "num": "dailyftlk-692c9ed9",
+    "doc_id": "2026-03-07-virakesarilk-8354ef11",
+    "num": "virakesarilk-8354ef11",
     "date_str": "2026-03-07",
-    "description": "Prime Minister rejects\u00a0Opposition claim emergency regulations threaten democracy",
-    "url_metadata": "https://www.ft.lk/news/Prime-Minister-rejectsOpposition-claim-emergency-regulations-threaten-democracy/56-789236",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1772823881.0
+    "description": "\u0baa\u0bcd\u0bb0\u0bc6\u0ba3\u0bcd\u0b9f\u0bcd \u0b95\u0b9a\u0bcd\u0b9a\u0bbe \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0baa\u0bc7\u0bb0\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 90 \u0b9f\u0bbe\u0bb2\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/240353",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1772843340.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-07 | `virakesarilk-8354ef11` | ப்ரெண்ட் கச்சா எண்ணெய் விலை பேரலுக்கு 90 டாலர்களை தாண்டியுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-8354ef11)
+- 2026-03-07 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-3a015e4a)
+- 2026-03-07 | `virakesarilk-e1de9ac1` | இந்திய அனுமதியுடன் கொச்சி துறைமுகத்தை வந்தடைந்த ஈரான் போர்க்கப்பல்: பணியாளர்களுக்கு தங்குமிடம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-e1de9ac1)
+- 2026-03-07 | `virakesarilk-2fac40f6` | விமானப்படை 75ஆம் ஆண்டு விழா: வான் சாகசக் கண்காட்சி ஆரம்பத்தில் ஜனாதிபதி பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-2fac40f6)
+- 2026-03-07 | `virakesarilk-cb9ad939` | ஒப்பந்தத்தை அரசாங்கம் பகிரங்கப்படுத்த வேண்டும் - சுஜீவ சேனசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-cb9ad939)
+- 2026-03-07 | `virakesarilk-dfa02d77` | யுத்தகால இழப்புகளுக்கு இன்னும் நீதி ஏன் வழங்கப்படவில்லை  – எம்.பி. சிறீதரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-dfa02d77)
 - 2026-03-07 | `dailyftlk-692c9ed9` | Prime Minister rejects Opposition claim emergency regulations threaten democracy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-692c9ed9)
 - 2026-03-07 | `dailyftlk-d3236ff2` | Sri Lankans condemn  US-Israel attacks on Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-d3236ff2)
 - 2026-03-07 | `dailyftlk-987043a2` | Vijitha Herath attends Raisina Dialogue in New Delhi | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-987043a2)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-03-07 | `dailyftlk-cd7e15c5` | CMTA urges informed choices  when purchasing vehicles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-cd7e15c5)
 - 2026-03-07 | `tamilmirrorlk-9f8e5a7f` | ஈரானிய கப்பல், மாலுமிகளுக்கு அடைக்கலமளித்த இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-tamilmirrorlk-9f8e5a7f)
 - 2026-03-06 | `tamilmirrorlk-2a0d9c70` | புதிய எரிசக்தி நெருக்கடி உருவாகும் அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-2a0d9c70)
-- 2026-03-06 | `virakesarilk-5641eab5` | ஈரான் கப்பல்கள் வருகை: கடற்படை தளபதி அழைப்பு குறித்து விசாரணை வேண்டும் – முஜிபுர் ரஹ்மான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-5641eab5)
-- 2026-03-06 | `virakesarilk-2f5cab19` | 19ஆவது வடக்கின் சமர்:  அபிஜோய்ஷாந்த் குவித்த அபார சதம் சென். ஜோன்ஸை வெற்றியை நோக்கி நகரவைத்துள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-2f5cab19)
-- 2026-03-06 | `virakesarilk-85111f1e` | “க்ளீன் ஶ்ரீ லங்கா” திட்டம் : கராப்பிட்டிய மருத்துவமனை வளாகத்தில் கடற்படையினர் துப்புரவுப் பணிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-85111f1e)
-- 2026-03-06 | `virakesarilk-f19dfb65` | பொது அவசரகால நிலையை அறிவிக்கும் பிரேரணை பெரும்பான்மை வாக்குகளால் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-f19dfb65)
-- 2026-03-06 | `tamilmirrorlk-a5d90f77` | அவசரகால சட்டம் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-tamilmirrorlk-a5d90f77)
-- 2026-03-06 | `virakesarilk-14286da1` | இரவில் சட்டவிரோதமாக சுழியோடி கடல் அட்டைகளை பிடித்த 4 பேர் கடற்படையினரால் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-06-virakesarilk-14286da1)
 
 ---
 
