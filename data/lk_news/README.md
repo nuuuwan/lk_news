@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--07_08:34:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--07_10:14:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**104,509** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**104,516** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-07-virakesarilk-c9c1b380",
-    "num": "virakesarilk-c9c1b380",
+    "doc_id": "2026-03-07-virakesarilk-472f7985",
+    "num": "virakesarilk-472f7985",
     "date_str": "2026-03-07",
-    "description": "\u0b95\u0b9f\u0bb2\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb0\u0bb7\u0bcd\u0baf \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe\u0baa\u0bcd \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/240357",
+    "description": "\u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0ba9\u0bc1\u0bae\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/240358",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1772851800.0
+    "time_ut": 1772856720.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-07 | `virakesarilk-472f7985` | ஜனநாயக கூட்டணிகள் மற்றும் இன்னும் தீர்க்கப்படாத தமிழ் அரசியல் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-472f7985)
+- 2026-03-07 | `tamilmirrorlk-140cafc4` | ஈரானின் 30 போர்க் கப்பல்களை தகர்த்தது அமெரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-tamilmirrorlk-140cafc4)
+- 2026-03-07 | `tamilmirrorlk-0c2c838d` | சரணடைவது மட்டுமே தீர்வு: ஈரானுக்கு ட்ரம்ப் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-tamilmirrorlk-0c2c838d)
+- 2026-03-07 | `virakesarilk-0ea7653a` | லொறி மோதி பாதசாரி உயிரிழப்பு; சாரதி கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-0ea7653a)
+- 2026-03-07 | `virakesarilk-e0854f9a` | சட்டவிரோத மதுபான உற்பத்திக்கு பயன்படுத்தப்படும் கோடாவுடன் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-e0854f9a)
+- 2026-03-07 | `tamilmirrorlk-e41347dc` | ஈரானிய மாலுமிகளை நாடுகடத்த வேண்டாமென இலங்கைக்கு அமெரிக்க அழுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-tamilmirrorlk-e41347dc)
+- 2026-03-07 | `tamilmirrorlk-279977ab` | கமேனியின் பிரம்மாண்ட நிலத்தடிப் பதுங்கு குழி அழிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-tamilmirrorlk-279977ab)
 - 2026-03-07 | `virakesarilk-c9c1b380` | கடலில் அடித்துச் செல்லப்பட்ட ரஷ்ய சுற்றுலாப் பயணிகள் இருவர் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-c9c1b380)
 - 2026-03-07 | `virakesarilk-06887d99` | தலங்கமை இரட்டைக் கொலை: துப்பாக்கிதாரிக்கு உதவிய மேலும் இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-06887d99)
 - 2026-03-07 | `virakesarilk-3bc61c1b` | சகோதரியைக் காப்பாற்றச் சென்ற முதியவர் அடித்துக் கொலை:  சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-virakesarilk-3bc61c1b)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-03-07 | `dailyftlk-692c9ed9` | Prime Minister rejects Opposition claim emergency regulations threaten democracy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-692c9ed9)
 - 2026-03-07 | `dailyftlk-d3236ff2` | Sri Lankans condemn  US-Israel attacks on Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-d3236ff2)
 - 2026-03-07 | `dailyftlk-987043a2` | Vijitha Herath attends Raisina Dialogue in New Delhi | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-987043a2)
-- 2026-03-07 | `dailyftlk-a2ddd778` | US citizens in Sri Lanka advised to stay alert amid ME tensions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-a2ddd778)
-- 2026-03-07 | `dailyftlk-37dc15da` | Strait of Hormuz closure: An economic Tsunami in the making for Sri Lanka? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-37dc15da)
-- 2026-03-07 | `dailyftlk-5f9fd41f` | Sri Lanka: The humanitarian pivot in emerging Indian Ocean crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-5f9fd41f)
-- 2026-03-07 | `dailyftlk-40735b20` | How US sinking of Iranian warship blew hole in Modi’s ‘guardian’ claims | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-40735b20)
-- 2026-03-07 | `dailyftlk-914eb99a` | The storms not so far from our shore | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-914eb99a)
-- 2026-03-07 | `dailyftlk-242bd9e4` | EDB lures German business leaders to visit Sri Lanka Expo 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-242bd9e4)
-- 2026-03-07 | `dailyftlk-fd4cb7f6` | Dipped Products’ 50th year  focuses on regional healthcare,  education and community resilience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-07-dailyftlk-fd4cb7f6)
 
 ---
 
