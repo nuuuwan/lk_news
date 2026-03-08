@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--08_21:48:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--08_23:51:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**104,637** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**104,639** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-08-tamilmirrorlk-dbf731d6",
-    "num": "tamilmirrorlk-dbf731d6",
+    "doc_id": "2026-03-08-tamilmirrorlk-6b453bcf",
+    "num": "tamilmirrorlk-6b453bcf",
     "date_str": "2026-03-08",
-    "description": "\u0b87 \u2013 20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: 255 \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87-20-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-255-\u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd-\u0b95\u0bc1\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe/44-373569",
+    "description": "\u0b87 \u2013 20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bbe\u0ba9\u0ba4\u0bbe\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87-20-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bbe\u0ba9\u0ba4\u0bbe\u0bb2\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bcd/44-373583",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1772984273.0
+    "time_ut": 1772992556.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-08 | `tamilmirrorlk-6b453bcf` | இ – 20 உலகக் கிண்ணம்: சம்பியனானதால் இந்தியாவின் முதல்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-08-tamilmirrorlk-6b453bcf)
+- 2026-03-08 | `tamilmirrorlk-39699857` | இ – 20 உலகக் கிண்ணம்: நியூசிலாந்தை வீழ்த்தி சம்பியனாகிய இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-08-tamilmirrorlk-39699857)
 - 2026-03-08 | `tamilmirrorlk-dbf731d6` | இ – 20 உலகக் கிண்ணம்: 255 ஓட்டங்களைக் குவித்த இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-08-tamilmirrorlk-dbf731d6)
 - 2026-03-08 | `adalk-ce309109` | මාතර බන්ධනාගාරයේ නොසන්සුන්තාව පාලනය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-08-adalk-ce309109)
 - 2026-03-08 | `adalk-c6cd8ab1` | ඉරානයේ නව උත්තරිතර නායකයා තෝර ගැනෙයි, නම තාම අභිරහසක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-08-adalk-c6cd8ab1)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-08 | `tamilmirrorlk-6991b9a7` | டிக்கோயா விவகாரத்தில் அதிரடி திருப்பம்: 24 மணிநேரம் கெடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-08-tamilmirrorlk-6991b9a7)
 - 2026-03-08 | `tamilmirrorlk-5249a34a` | ’’எம்மை வாழ விடுங்கள்’’:  மகளிர் தினத்தில் கொதித்தெழுந்த லிந்துலை பெண்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-08-tamilmirrorlk-5249a34a)
 - 2026-03-08 | `tamilmirrorlk-ce589b64` | பிணவறையில்  கொடூரம்!  ஜீவனுடன் பலருக்கு  நீதிமன்றம் தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-08-tamilmirrorlk-ce589b64)
-- 2026-03-08 | `tamilmirrorlk-a1570f56` | அமெரிக்காவின் செயல்;  வளைகுடா எடுத்துள்ள அதிரடி திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-08-tamilmirrorlk-a1570f56)
-- 2026-03-08 | `tamilmirrorlk-935e7a9e` | இலங்கை! அமெரிக்கா கொடுத்த 'திக்' பதில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-08-tamilmirrorlk-935e7a9e)
 
 ---
 
