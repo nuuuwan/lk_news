@@ -90089,6 +90089,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-07-islandlk-46eabea7",
+    "num": "islandlk-46eabea7",
+    "date_str": "2026-03-07",
+    "description": "Colombo: Port of Call",
+    "url_metadata": "http://island.lk/colombo-port-of-call/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1772872860.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-07-islandlk-4af99007",
     "num": "islandlk-4af99007",
     "date_str": "2026-03-07",
@@ -90386,6 +90397,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-07-adalk-17d9c039",
+    "num": "adalk-17d9c039",
+    "date_str": "2026-03-07",
+    "description": "\u0d89\u0dbb\u0dcf\u0db1 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0ddc\u0dc5\u0d9a\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dbb\u0dcf\u0db1-\u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dad\u0ddc\u0da7\u0dd4\u0db4\u0ddc\u0dc5\u0d9a\u0da7-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/11-421553",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1772895378.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-07-adalk-ba5f4860",
     "num": "adalk-ba5f4860",
     "date_str": "2026-03-07",
@@ -90438,5 +90460,27 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1772918702.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-08-tamilmirrorlk-d7b9e821",
+    "num": "tamilmirrorlk-d7b9e821",
+    "date_str": "2026-03-08",
+    "description": "\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd 42 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bb0\u0bc8\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd: \u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd-42-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0bb0\u0bc8\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/50-373535",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1772919932.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-08-adalk-7eceb1fd",
+    "num": "adalk-7eceb1fd",
+    "date_str": "2026-03-08",
+    "description": "\u0d85\u0daf\u0dad\u0dca \u0dc0\u0dd0\u0dc3\u0dd2 \u0dbb\u0dc4\u0dd2\u0dad \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0daf\u0dad\u0dca-\u0dc0\u0dd0\u0dc3\u0dd2-\u0dbb\u0dc4\u0dd2\u0dad-\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba\u0d9a\u0dca/11-421557",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1772936742.0
   }
 ]
