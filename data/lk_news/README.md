@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--10_00:52:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--10_01:52:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**104,805** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**104,806** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-09-tamilmirrorlk-5089cd92",
-    "num": "tamilmirrorlk-5089cd92",
+    "doc_id": "2026-03-09-tamilmirrorlk-8f30fc01",
+    "num": "tamilmirrorlk-8f30fc01",
     "date_str": "2026-03-09",
-    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0ba3\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b95\u0bc7\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0ba9\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0ba3\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baa\u0bcd-\u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd-\u0b95\u0bc7\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0ba9\u0bcd/44-373649",
+    "description": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd \u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bb2\u0bae\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe-\u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bcd\u0b95-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb0\u0bcd-\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0baf\u0b95\u0bcd-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bb2\u0bae\u0bb3\u0bbf\u0ba4\u0bcd\u0ba4-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe/50-373650",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1773073613.0
+    "time_ut": 1773074855.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-09 | `tamilmirrorlk-8f30fc01` | அமெரிக்கா மூழ்கடிக்க முன்னர் ஈரானியக் கப்பலுக்கு அடைக்கலமளித்த இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-09-tamilmirrorlk-8f30fc01)
 - 2026-03-09 | `tamilmirrorlk-5089cd92` | இலங்கையணியின் தலைமைப் பயிற்சியாளர் கேர்ஸ்டன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-09-tamilmirrorlk-5089cd92)
 - 2026-03-09 | `virakesarilk-e2f21630` | ஈரானின் புதிய உச்ச தலைவருக்கு புடின் வாழ்த்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-09-virakesarilk-e2f21630)
 - 2026-03-09 | `virakesarilk-67274829` | CEB இன் மின்சார விநியோக செயல்பாடுகள் இப்போது EDL க்கு மாற்றப்பட்டுள்ளன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-09-virakesarilk-67274829)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-03-09 | `virakesarilk-fd7e9ce6` | ஐக்கிய அரபு அமீரக வாழ் இலங்கையர்களின் விபரங்களைச் சேகரிக்கும் விசேட திட்டம் ; தொழில்நுட்பக் கோளாறால் பதிவுகள் இடைநிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-09-virakesarilk-fd7e9ce6)
 - 2026-03-09 | `virakesarilk-68d23c94` | ஐ.ஆர்.ஐ.எஸ் டெனா போர்க்கப்பலில் 104 பேர் உயிரிழப்பு - ஈரானிய இராணுவம் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-09-virakesarilk-68d23c94)
 - 2026-03-09 | `tamilmirrorlk-a5a53d28` | விமான சேவைகள் வழமைக்குத் திரும்பின | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-09-tamilmirrorlk-a5a53d28)
-- 2026-03-09 | `virakesarilk-683967ea` | மின்சார சபையை கலைத்துவிட்டு மறுசீரமைப்பதே ஒரே தீர்வு - அசேல சம்பத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-09-virakesarilk-683967ea)
 
 ---
 
