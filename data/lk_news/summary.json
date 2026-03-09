@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-03-09 06:13:23",
-  "n_docs": 104660,
+  "time_updated": "2026-03-09 08:46:45",
+  "n_docs": 104680,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 104660,
+  "n_docs_with_text": 104680,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-03-09",
-  "dataset_size": 1603506296,
+  "dataset_size": 1603851569,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-09-dailyftlk-8e0b98c6",
-    "num": "dailyftlk-8e0b98c6",
+    "doc_id": "2026-03-09-tamilmirrorlk-7ee6b358",
+    "num": "tamilmirrorlk-7ee6b358",
     "date_str": "2026-03-09",
-    "description": "Mideast war, emerging external shocks and Sri Lanka\u2019s choices",
-    "url_metadata": "https://www.ft.lk/columns/Mideast-war-emerging-external-shocks-and-Sri-Lanka-s-choices/4-789264",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1773011394.0
+    "description": "52,360 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bbe\u0baf\u0b95\u0bae\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/52-360-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0bbe\u0baf\u0b95\u0bae\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd/175-373590",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1773023982.0
   }
 }
