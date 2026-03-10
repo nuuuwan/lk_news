@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--10_15:58:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--10_17:57:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**104,930** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**104,932** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,9 +44,11 @@ A collection of lk_news documents.
 - 2026-03-10 | `virakesarilk-2b278021` | மணல் மாபியாக்களின்  செயற்பாடுகளால்  மணல் விலை அதிகரிப்பு - வடக்கு மாகாண ஆளுநர் வேதநாயகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-2b278021)
 - 2026-03-10 | `virakesarilk-e1610373` | எத்திமலையில் கஞ்சா தோட்டம் முற்றுகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-e1610373)
 - 2026-03-10 | `virakesarilk-1ee8f581` | வியட்நாமிலும் எரிபொருள் நெருக்கடி: ஊழியர்களுக்கு 'வீட்டிலிருந்தே பணி' செய்யுமாறு வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-1ee8f581)
+- 2026-03-10 | `adalk-525fd7cd` | තෙල්මිල වැඩි කිරීම මගින් ජනතාව තෙල් පරිභෝජනය සීමා කරාවි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-adalk-525fd7cd)
 - 2026-03-10 | `tamilmirrorlk-228339fb` | வாளேந்திய நபரால் பள்ளிவாசலில் பரபரப்பு (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-tamilmirrorlk-228339fb)
 - 2026-03-10 | `tamilmirrorlk-293dfadd` | மணல் அகழ்வில் ஈடுபட்டவர்களை விரட்டிச் செல்லும் பொலிசார் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-tamilmirrorlk-293dfadd)
 - 2026-03-10 | `virakesarilk-f530f2b7` | குற்றப் புலனாய்வுத் திணைக்களத்தின் முன்னாள் பிரதி பொலிஸ் மா அதிபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-f530f2b7)
+- 2026-03-10 | `adalk-412f97c3` | විගමණික ප්‍රේෂණ ලැබීම් සියයට 32කින් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-adalk-412f97c3)
 - 2026-03-10 | `tamilmirrorlk-7a9031f2` | 5,000 பேருடன் உறவு;  மனைவியிடம் வசமாக சிக்கிய அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-tamilmirrorlk-7a9031f2)
 - 2026-03-10 | `virakesarilk-57e76269` | யாழில் சைவ ஆலயத்தின் சிலை உடைப்பு - சந்தேகநபரை கைது செய்த பொலிஸார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-57e76269)
 - 2026-03-10 | `tamilmirrorlk-e2ffe22a` | கோட்டா சிக்குவாரா ; மீண்டும் நோட்டீஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-tamilmirrorlk-e2ffe22a)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-10 | `virakesarilk-f020a49e` | சர்வதேச மகளிர் தினத்தில் வாழ்வாதாரக் கைமாற்று | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-f020a49e)
 - 2026-03-10 | `virakesarilk-6d028bba` | மசகு எண்ணெய் விலை அதிகரிப்பு ; பாகிஸ்தானில் பாடசாலை மூடப்பட்டது ; ஊழியர்களுக்கு வீட்டிலிருந்தே பணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-6d028bba)
 - 2026-03-10 | `tamilmirrorlk-727574a2` | சரவணையில் ஆலயச் சிலை உடைப்பு: ஒருவர் கைது - (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-tamilmirrorlk-727574a2)
-- 2026-03-10 | `virakesarilk-0d897fbc` | தடுப்புக்காவலில் உள்ள இரு சந்தேகநபர்கள் வழங்கிய தகவலுக்கமைய திருட்டு சம்பவத்துடன் தொடர்புடைய சந்தேகநபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-0d897fbc)
-- 2026-03-10 | `tamilmirrorlk-ce8b3ab5` | பாகிஸ்தானில் அதிரடி ; பாடசாலைகளுக்கு பூட்டு , வீட்டிலிருந்தே வேலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-tamilmirrorlk-ce8b3ab5)
 
 ---
 
