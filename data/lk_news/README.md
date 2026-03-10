@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--11_00:00:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--11_01:52:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**104,968** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**104,972** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-10-tamilmirrorlk-3a3bcc11",
-    "num": "tamilmirrorlk-3a3bcc11",
-    "date_str": "2026-03-10",
-    "description": "\u0b95\u0bc7\u0bb8\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b95\u0bc7\u0bb8\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baf\u0bbe\u0b95-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/150-373712",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1773162436.0
+    "doc_id": "2026-03-11-dailyftlk-9248301e",
+    "num": "dailyftlk-9248301e",
+    "date_str": "2026-03-11",
+    "description": "Aliya Beer expands to global markets",
+    "url_metadata": "https://www.ft.lk/business/Aliya-Beer-expands-to-global-markets/34-789388",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773173795.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-11 | `dailyftlk-9248301e` | Aliya Beer expands to global markets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-11-dailyftlk-9248301e)
+- 2026-03-11 | `dailyftlk-0868f9b2` | EDB calls on exporters to apply for Sri Lanka Expo 2026 international trade exhibition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-11-dailyftlk-0868f9b2)
+- 2026-03-11 | `dailyftlk-7845eeba` | The new Silk Route | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-11-dailyftlk-7845eeba)
 - 2026-03-10 | `tamilmirrorlk-3a3bcc11` | கேஸ் விலையும் அதிரடியாக அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-tamilmirrorlk-3a3bcc11)
 - 2026-03-10 | `virakesarilk-f465a99c` | லிட்ரோ எரிவாயு விலை ரூ.300 ஆல் உயர்த்தப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-f465a99c)
 - 2026-03-10 | `virakesarilk-b1e85d86` | மக்கள் நலன்சார்ந்த நிவாரணக் கொடுப்பனவுகள் எக்காரணத்துக்காகவும் நிறுத்தப்படமாட்டாது - அரசாங்கம் உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-b1e85d86)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-03-10 | `virakesarilk-320b3986` | 2016 பின் அரச சேவையில் இணைந்த அனைவருக்கும் ஓய்வூதியம் உறுதி சொத்து கடன்களுக்கும் சலுகை - அமைச்சர் நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-320b3986)
 - 2026-03-10 | `virakesarilk-bb756346` | போதைப்பொருளுடன், சந்தேகத்திற்கிடமான மற்றொரு ஆழ்கடல் மீன்பிடிப் படகை கடற்படையினர் கைப்பற்றல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-bb756346)
 - 2026-03-10 | `tamilmirrorlk-eb04d7db` | பிரதமர் கலாநிதி ஹரிணி க்கு  சர்வதேச தலைமைத்துவ விருது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-tamilmirrorlk-eb04d7db)
-- 2026-03-10 | `tamilmirrorlk-a192d5a6` | போக்குவரத்து சபைக்கு 541 புதிய நியமனங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-tamilmirrorlk-a192d5a6)
-- 2026-03-10 | `virakesarilk-b67e793f` | அரசாங்கத்தின் முறையற்ற திட்டமிடலால் மக்கள் மீது சுமத்தப்படும் பொருளாதாரச் சுமைகள் : நாமல் கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-b67e793f)
-- 2026-03-10 | `virakesarilk-c45b1462` | ஈரானின் வாரிசு அரசியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-10-virakesarilk-c45b1462)
 
 ---
 

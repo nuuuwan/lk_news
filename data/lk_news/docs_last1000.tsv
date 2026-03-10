@@ -1,4 +1,7 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2026-03-11-dailyftlk-9248301e	dailyftlk-9248301e	2026-03-11	Aliya Beer expands to global markets	https://www.ft.lk/business/Aliya-Beer-expands-to-global-markets/34-789388	en	dailyftlk	1773173795.0
+lk_news	2026-03-11-dailyftlk-0868f9b2	dailyftlk-0868f9b2	2026-03-11	EDB calls on exporters to apply for Sri Lanka Expo 2026 international trade exhibition	https://www.ft.lk/business/EDB-calls-on-exporters-to-apply-for-Sri-Lanka-Expo-2026-international-trade-exhibition/34-789387	en	dailyftlk	1773173657.0
+lk_news	2026-03-11-dailyftlk-7845eeba	dailyftlk-7845eeba	2026-03-11	The new Silk Route	https://www.ft.lk/columns/The-new-Silk-Route/4-789370	en	dailyftlk	1773169229.0
 lk_news	2026-03-10-tamilmirrorlk-3a3bcc11	tamilmirrorlk-3a3bcc11	2026-03-10	கேஸ் விலையும் அதிரடியாக அதிகரிப்பு	https://www.tamilmirror.lk/பிரசித்த-செய்தி/கேஸ்-விலையும்-அதிரடியாக-அதிகரிப்பு/150-373712	ta	tamilmirrorlk	1773162436.0
 lk_news	2026-03-10-virakesarilk-f465a99c	virakesarilk-f465a99c	2026-03-10	லிட்ரோ எரிவாயு விலை ரூ.300 ஆல் உயர்த்தப்பட்டது	https://www.virakesari.lk/article/240666	ta	virakesarilk	1773162000.0
 lk_news	2026-03-10-virakesarilk-b1e85d86	virakesarilk-b1e85d86	2026-03-10	மக்கள் நலன்சார்ந்த நிவாரணக் கொடுப்பனவுகள் எக்காரணத்துக்காகவும் நிறுத்தப்படமாட்டாது - அரசாங்கம் உறுதி	https://www.virakesari.lk/article/240665	ta	virakesarilk	1773159780.0
@@ -142,6 +145,7 @@ lk_news	2026-03-10-virakesarilk-2d384d02	virakesarilk-2d384d02	2026-03-10	இஸ
 lk_news	2026-03-10-tamilmirrorlk-765a5a93	tamilmirrorlk-765a5a93	2026-03-10	எரிபொருள் விலை எகிறியது	https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலை-எகிறியது/175-373651	ta	tamilmirrorlk	1773101772.0
 lk_news	2026-03-10-virakesarilk-3d32c4de	virakesarilk-3d32c4de	2026-03-10	துருக்கி மீது ஈரான் பாலிஸ்டிக் ஏவுகணை தாக்குதல் : ஐக்கிய அரபு அமீரகம் கடும் கண்டனம்	https://www.virakesari.lk/article/240584	ta	virakesarilk	1773101400.0
 lk_news	2026-03-10-virakesarilk-87ebb54a	virakesarilk-87ebb54a	2026-03-10	பெருந்தோட்ட அமைச்சின் செயலாளராக குணதாச சமரசிங்க நியமனம்	https://www.virakesari.lk/article/240583	ta	virakesarilk	1773099120.0
+lk_news	2026-03-10-dbsjeyarajcom-58ef5f15	dbsjeyarajcom-58ef5f15	2026-03-10	Parliament’s Special Oversight Committee wants a third independent accredited lab to test coal samples from the Trident Chemphar shipments “without further delay”	https://dbsjeyaraj.com/dbsj/?p=87282	en	dbsjeyarajcom	1773098040.0
 lk_news	2026-03-10-virakesarilk-eb8e7e09	virakesarilk-eb8e7e09	2026-03-10	தேசிய நிறுவனங்களை பாதுகாப்பதாக கூறிய தற்போதைய அரசாங்கம் இன்று மின்சார சபையின் இறுதி ஊர்வலத்தை அறிவித்துள்ளது - சஜித் பிரேமதாச	https://www.virakesari.lk/article/240581	ta	virakesarilk	1773096780.0
 lk_news	2026-03-10-virakesarilk-c03c403a	virakesarilk-c03c403a	2026-03-10	இலஞ்ச ஒழிப்பு ஆணைக்குழுவால் கைது செய்யப்பட்ட சஜின் வாஸ் குணவர்தன மார்ச் 24 வரை விளக்கமறியல்	https://www.virakesari.lk/article/240580	ta	virakesarilk	1773096540.0
 lk_news	2026-03-10-virakesarilk-51cff050	virakesarilk-51cff050	2026-03-10	மின்சாரசபை மறுசீரமைப்பு: தீர்வில்லையெனில் பணிப்புறக்கணிப்பு – சேவையாளர் சங்கம்	https://www.virakesari.lk/article/240579	ta	virakesarilk	1773096120.0
@@ -995,7 +999,3 @@ lk_news	2026-03-03-tamilmirrorlk-2ab550b3	tamilmirrorlk-2ab550b3	2026-03-03	ந�
 lk_news	2026-03-03-tamilmirrorlk-70b4c560	tamilmirrorlk-70b4c560	2026-03-03	பெட்ரோல் பதுக்கிய தொழிலதிபர் கைது	https://www.tamilmirror.lk/செய்திகள்/பெட்ரோல்-பதுக்கிய-தொழிலதிபர்-கைது/175-373298	ta	tamilmirrorlk	1772512896.0
 lk_news	2026-03-03-virakesarilk-b1f4ddcf	virakesarilk-b1f4ddcf	2026-03-03	மின்னேரியாவில் பஸ் விபத்து: 10 பேர் காயம்!	https://www.virakesari.lk/article/240017	ta	virakesarilk	1772512560.0
 lk_news	2026-03-03-virakesarilk-accd1f08	virakesarilk-accd1f08	2026-03-03	ஈரானின் தாக்குதலை கண்டித்து 7 நாடுகள் கூட்டறிக்கை	https://www.virakesari.lk/article/240016	ta	virakesarilk	1772511720.0
-lk_news	2026-03-03-virakesarilk-a89d97e1	virakesarilk-a89d97e1	2026-03-03	பாணந்துறையில் கை, கால்கள் கட்டப்பட்ட நிலையில் சடலம் மீட்பு!	https://www.virakesari.lk/article/240014	ta	virakesarilk	1772511720.0
-lk_news	2026-03-03-adalk-0bb8cc78	adalk-0bb8cc78	2026-03-03	අවු. 14ක දරුවෙක් දියේ ගිලී මරුට	https://www.ada.lk/breaking_news/අවු--14ක-දරුවෙක්-දියේ-ගිලී-මරුට/11-421485	si	adalk	1772511576.0
-lk_news	2026-03-03-adalk-f98f3d5c	adalk-f98f3d5c	2026-03-03	ඉන්ධන ගන්න ගොවීන්ට ලිපි නිකුත් කරයි	https://www.ada.lk/breaking_news/ඉන්ධන-ගන්න-ගොවීන්ට-ලිපි-නිකුත්-කරයි/11-421484	si	adalk	1772511348.0
-lk_news	2026-03-03-virakesarilk-6fd40115	virakesarilk-6fd40115	2026-03-03	கண்டியில் 183 மில்லியன் ரூபா செலவில் சிறுவர் பராமரிப்பு இல்லம்: ஆளுநர் அடிக்கல் நாட்டினார்!	https://www.virakesari.lk/article/240010	ta	virakesarilk	1772510700.0
