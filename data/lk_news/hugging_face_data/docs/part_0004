@@ -94819,6 +94819,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-11-islandlk-808fab9a",
+    "num": "islandlk-808fab9a",
+    "date_str": "2026-03-11",
+    "description": "Novus Technologies joins LankaPay Technovation Awards 2026 as Platinum Sponsor",
+    "url_metadata": "http://island.lk/novus-technologies-joins-lankapay-technovation-awards-2026-as-platinum-sponsor/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1773169200.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-11-dailyftlk-7845eeba",
     "num": "dailyftlk-7845eeba",
     "date_str": "2026-03-11",
@@ -96161,6 +96172,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-11-adalk-ec3a2dd6",
+    "num": "adalk-ec3a2dd6",
+    "date_str": "2026-03-11",
+    "description": "\u0d89\u0dbb\u0dcf\u0db1 \u0db1\u0dc0 \u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dd2\u0dad\u0dbb \u0db1\u0dcf\u0dba\u0d9a\u0dba\u0dcf \u0dad\u0dd4\u0dc0\u0dcf\u0dbd \u0dbd\u0db6\u0dcf \u0d87\u0dad\u0dad\u0dca \u0d94\u0dc4\u0dd4 \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/international/\u0d89\u0dbb\u0dcf\u0db1-\u0db1\u0dc0-\u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dd2\u0dad\u0dbb-\u0db1\u0dcf\u0dba\u0d9a\u0dba\u0dcf-\u0dad\u0dd4\u0dc0\u0dcf\u0dbd-\u0dbd\u0db6\u0dcf-\u0d87\u0dad\u0dad\u0dca-\u0d94\u0dc4\u0dd4-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad\u0dba\u0dd2/3-421620",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1773233659.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-11-adalk-0c27280f",
     "num": "adalk-0c27280f",
     "date_str": "2026-03-11",
@@ -96191,5 +96213,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1773241549.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-11-tamilmirrorlk-ed94e09f",
+    "num": "tamilmirrorlk-ed94e09f",
+    "date_str": "2026-03-11",
+    "description": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b88\u0bb0\u0bbe\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0b95\u0bcd-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u0ba4\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd/50-373770",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1773250462.0
   }
 ]
