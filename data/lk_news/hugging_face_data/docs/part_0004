@@ -93059,6 +93059,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-09-islandlk-62063b64",
+    "num": "islandlk-62063b64",
+    "date_str": "2026-03-09",
+    "description": "Language: The symbolic expression of thought",
+    "url_metadata": "http://island.lk/language-the-symbolic-expression-of-thought/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1773076200.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-09-islandlk-d4df7c24",
     "num": "islandlk-d4df7c24",
     "date_str": "2026-03-09",
@@ -96224,5 +96235,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1773250462.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-12-tamilmirrorlk-e52c5261",
+    "num": "tamilmirrorlk-e52c5261",
+    "date_str": "2026-03-12",
+    "description": "\u0b9a\u0bbf\u0bb2 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb2-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1/175-373771",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1773260088.0
   }
 ]

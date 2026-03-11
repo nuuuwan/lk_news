@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--12_00:03:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--12_01:53:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**105,106** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**105,108** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-11-tamilmirrorlk-ed94e09f",
-    "num": "tamilmirrorlk-ed94e09f",
-    "date_str": "2026-03-11",
-    "description": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0b95\u0bcd \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b88\u0bb0\u0bbe\u0ba9\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95\u0b95\u0bcd-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u0ba4\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd/50-373770",
+    "doc_id": "2026-03-12-tamilmirrorlk-e52c5261",
+    "num": "tamilmirrorlk-e52c5261",
+    "date_str": "2026-03-12",
+    "description": "\u0b9a\u0bbf\u0bb2 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb2-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1/175-373771",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1773250462.0
+    "time_ut": 1773260088.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-12 | `tamilmirrorlk-e52c5261` | சில விமான சேவைகள் இன்றும் ரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-tamilmirrorlk-e52c5261)
 - 2026-03-11 | `tamilmirrorlk-ed94e09f` | வர்த்தகக் கப்பல்களைத் தாக்கிய ஈரான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-11-tamilmirrorlk-ed94e09f)
 - 2026-03-11 | `tamilmirrorlk-1410410a` | லாஃப் விலையும் அதிகரித்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-11-tamilmirrorlk-1410410a)
 - 2026-03-11 | `tamilmirrorlk-af1b9800` | அஸ்வெசும பயனாளிகளுக்கு மகிழ்ச்சியான அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-11-tamilmirrorlk-af1b9800)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-03-11 | `adalk-90ef739e` | මැදපෙරදිග යුද්ධය ගැන  පාර්ලිමේන්තුවේ විවාදයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-11-adalk-90ef739e)
 - 2026-03-11 | `virakesarilk-e9895558` | கைக்குண்டு, தோட்டாக்களுடன் முன்னாள் இராணுவ சிப்பாய் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-11-virakesarilk-e9895558)
 - 2026-03-11 | `virakesarilk-725a27a0` | கைதான போதைப்பொருள் வியாபாரியின் வங்கி அட்டையின் ஊடாக பணம் திருடிய பொலிஸ் உத்தியோகத்தர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-11-virakesarilk-725a27a0)
-- 2026-03-11 | `tamilmirrorlk-5c384c2a` | 04 யோசனைகளை முன்வைத்தார் சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-11-tamilmirrorlk-5c384c2a)
 
 ---
 
