@@ -96392,6 +96392,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-12-islandlk-1270e57d",
+    "num": "islandlk-1270e57d",
+    "date_str": "2026-03-12",
+    "description": "Ceylinco Life\u2019s 2024 Annual Report wins prestigious double honours",
+    "url_metadata": "http://island.lk/ceylinco-lifes-2024-annual-report-wins-prestigious-double-honours/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1773255780.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-12-islandlk-aa286bf5",
     "num": "islandlk-aa286bf5",
     "date_str": "2026-03-12",
@@ -97173,6 +97184,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-12-dbsjeyarajcom-79b318c9",
+    "num": "dbsjeyarajcom-79b318c9",
+    "date_str": "2026-03-12",
+    "description": "Ex- SriLankan Airlines Chief Executive Officer Kapila Chandrasena  arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) over the alleged acceptance of a USD 2 million bribe linked to the Airbus aircraft procurement deal",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87307",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1773299040.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-12-tamilmirrorlk-1b415641",
     "num": "tamilmirrorlk-1b415641",
     "date_str": "2026-03-12",
@@ -97448,6 +97470,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-12-adalk-67ef5288",
+    "num": "adalk-67ef5288",
+    "date_str": "2026-03-12",
+    "description": "\u0db6\u0ddc\u0dbb \u0dad\u0dd9\u0dbd\u0dca \u0db6\u0dd0\u0dbb\u0dbd\u0dba \u0dba\u0dbd\u0dd2 \u0d85\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca 100 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0ddc\u0dbb-\u0dad\u0dd9\u0dbd\u0dca-\u0db6\u0dd0\u0dbb\u0dbd\u0dba-\u0dba\u0dbd\u0dd2-\u0d85\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-100-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/11-421636",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1773310300.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-12-virakesarilk-12b55769",
     "num": "virakesarilk-12b55769",
     "date_str": "2026-03-12",
@@ -97676,5 +97709,27 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1773322680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-12-adalk-d4c4d49e",
+    "num": "adalk-d4c4d49e",
+    "date_str": "2026-03-12",
+    "description": "\u0d9c\u0dbd\u0dca \u0d85\u0d9f\u0dd4\u0dbb\u0dd4\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0da2\u0db1\u0db1\u0dba\u0dda \u0d85\u0da9\u0dd4\u0dc0\u0d9a\u0dca \u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dad\u0dca \u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dbd\u0da7 \u0dc4\u0dcf\u0db1\u0dd2\u0dba\u0d9a\u0dca \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dbd\u0dca-\u0d85\u0d9f\u0dd4\u0dbb\u0dd4\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0da2\u0db1\u0db1\u0dba\u0dda-\u0d85\u0da9\u0dd4\u0dc0\u0d9a\u0dca-\u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dad\u0dca-\u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dc0\u0dbd\u0da7-\u0dc4\u0dcf\u0db1\u0dd2\u0dba\u0d9a\u0dca-\u0db1\u0dd1/11-421638",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1773326868.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-12-adalk-9d906035",
+    "num": "adalk-9d906035",
+    "date_str": "2026-03-12",
+    "description": "\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0d9a\u0dd2\u0dbd\u0ddd 220\u0d9a\u0dca \u0db4\u0db8\u0dab \u0dc0\u0dd2\u0db1\u0dcf\u0dc1 \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0d9a\u0dd2\u0dbd\u0ddd-220\u0d9a\u0dca-\u0db4\u0db8\u0dab-\u0dc0\u0dd2\u0db1\u0dcf\u0dc1-\u0d9a\u0dbb\u0dba\u0dd2/11-421639",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1773327244.0
   }
 ]

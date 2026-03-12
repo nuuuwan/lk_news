@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--12_20:03:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--12_22:09:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**105,238** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**105,243** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-12-virakesarilk-41246c81",
-    "num": "virakesarilk-41246c81",
+    "doc_id": "2026-03-12-adalk-9d906035",
+    "num": "adalk-9d906035",
     "date_str": "2026-03-12",
-    "description": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b95\u0baa\u0bbf\u0bb2 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0b9a\u0bc7\u0ba9 \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/240823",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1773322680.0
+    "description": "\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0d9a\u0dd2\u0dbd\u0ddd 220\u0d9a\u0dca \u0db4\u0db8\u0dab \u0dc0\u0dd2\u0db1\u0dcf\u0dc1 \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0d9a\u0dd2\u0dbd\u0ddd-220\u0d9a\u0dca-\u0db4\u0db8\u0dab-\u0dc0\u0dd2\u0db1\u0dcf\u0dc1-\u0d9a\u0dbb\u0dba\u0dd2/11-421639",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1773327244.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-12 | `adalk-9d906035` | මත්ද්‍රව්‍ය කිලෝ 220ක් පමණ විනාශ කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-adalk-9d906035)
+- 2026-03-12 | `adalk-d4c4d49e` | ගල් අඟුරුවලින් විදුලි ජනනයේ අඩුවක් තිබුණත් යන්ත්‍රවලට හානියක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-adalk-d4c4d49e)
 - 2026-03-12 | `virakesarilk-41246c81` | ஸ்ரீலங்கன் விமான நிறுவனத்தின் முன்னாள் தலைமை நிர்வாக அதிகாரி கபில சந்திரசேன கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-virakesarilk-41246c81)
 - 2026-03-12 | `virakesarilk-ea89fcd3` | தெற்காசியாவில் முதன்முறையாக BYDஇன் ஏழு ஆசனங்களைக் கொண்ட அதிநவீன SUV ரக வாகனமான BYD SEALION 8 இலங்கையில் அறிமுகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-virakesarilk-ea89fcd3)
 - 2026-03-12 | `virakesarilk-1f348835` | அட்டனில் பள்ளத்தில் வீழ்ந்தது முச்சக்கர வண்டி ; மூவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-virakesarilk-1f348835)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-12 | `tamilmirrorlk-cff67c1d` | மிதிப்பலகையில் பயணித்தால் விதி இப்படித்தான் முடியும்  (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-tamilmirrorlk-cff67c1d)
 - 2026-03-12 | `tamilmirrorlk-7ae4b5e3` | மிதிபலகையில் பயணித்தால் விதி இப்படித்தான் முடியும்  (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-tamilmirrorlk-7ae4b5e3)
 - 2026-03-12 | `virakesarilk-9c6a97c9` | உலகின் மிக வலிமையான கார்பன் ஃபைபரை அறிமுகப்படுத்தியது சீனா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-virakesarilk-9c6a97c9)
-- 2026-03-12 | `tamilmirrorlk-48e5663d` | இரண்டு சட்டமூலங்கள் சான்றுரைப்படுத்தினார் சபாநாயகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-tamilmirrorlk-48e5663d)
-- 2026-03-12 | `adalk-19e66dcd` | යුද්ධය ආරම්භයේ සිට මේ දක්වා වෙළඳ නැව් 16කට ප්‍රහාර එල්ල වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-adalk-19e66dcd)
 
 ---
 
