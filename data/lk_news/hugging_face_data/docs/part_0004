@@ -96227,6 +96227,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-11-dbsjeyarajcom-d92c2f7f",
+    "num": "dbsjeyarajcom-d92c2f7f",
+    "date_str": "2026-03-11",
+    "description": "The Kivul Oya project will inundate an area of 26 square kilometres of thick prime jungle in the Wanni. Preserving this existing forest is essential not only for the Northern Province but for the entire country.",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87300",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1773232200.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-11-tamilmirrorlk-151afcae",
     "num": "tamilmirrorlk-151afcae",
     "date_str": "2026-03-11",
@@ -97217,6 +97228,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-12-virakesarilk-4ca66caa",
+    "num": "virakesarilk-4ca66caa",
+    "date_str": "2026-03-12",
+    "description": "\u0baa\u0bcb\u0bb0\u0bc8\u0b9a\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0b95 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0b85\u0ba4\u0bbf\u0b95 \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba9\u0bb0\u0bcd - \u0b85\u0b9a\u0bc7\u0bb2 \u0b9a\u0bae\u0bcd\u0baa\u0ba4\u0bcd \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/240783",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1773301800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-12-colombotelegraphcom-556bcdb4",
+    "num": "colombotelegraphcom-556bcdb4",
+    "date_str": "2026-03-12",
+    "description": "From Low-Fat To Keto: The Lessons Nutrition Guidelines Keep Missing",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/from-low-fat-to-keto-the-lessons-nutrition-guidelines-keep-missing/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1773303231.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-12-virakesarilk-97f2afc6",
     "num": "virakesarilk-97f2afc6",
     "date_str": "2026-03-12",
@@ -97459,6 +97492,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-12-tamilmirrorlk-7ae4b5e3",
+    "num": "tamilmirrorlk-7ae4b5e3",
+    "date_str": "2026-03-12",
+    "description": "\u0bae\u0bbf\u0ba4\u0bbf\u0baa\u0bb2\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0baf\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0bb5\u0bbf\u0ba4\u0bbf \u0b87\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd  (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0bae\u0bbf\u0ba4\u0bbf\u0baa\u0bb2\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0baf\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0bb5\u0bbf\u0ba4\u0bbf-\u0b87\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-373807",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1773312414.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-12-tamilmirrorlk-cff67c1d",
     "num": "tamilmirrorlk-cff67c1d",
     "date_str": "2026-03-12",
@@ -97599,5 +97643,38 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1773318060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-12-virakesarilk-1f348835",
+    "num": "virakesarilk-1f348835",
+    "date_str": "2026-03-12",
+    "description": "\u0b85\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd \u0baa\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0bae\u0bc1\u0b9a\u0bcd\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0bb5\u0ba3\u0bcd\u0b9f\u0bbf ; \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/240819",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1773318120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-12-virakesarilk-ea89fcd3",
+    "num": "virakesarilk-ea89fcd3",
+    "date_str": "2026-03-12",
+    "description": "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0ba4\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 BYD\u0b87\u0ba9\u0bcd \u0b8f\u0bb4\u0bc1 \u0b86\u0b9a\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u00a0\u0b85\u0ba4\u0bbf\u0ba8\u0bb5\u0bc0\u0ba9 SUV \u0bb0\u0b95 \u0bb5\u0bbe\u0b95\u0ba9\u0bae\u0bbe\u0ba9 BYD SEALION 8 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/240820",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1773318360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-12-virakesarilk-41246c81",
+    "num": "virakesarilk-41246c81",
+    "date_str": "2026-03-12",
+    "description": "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0ba9\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b95\u0baa\u0bbf\u0bb2 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0b9a\u0bc7\u0ba9 \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/240823",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1773322680.0
   }
 ]
