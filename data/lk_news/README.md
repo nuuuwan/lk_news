@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--13_21:58:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--13_23:55:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**105,397** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**105,410** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-13-tamilmirrorlk-98358c41",
-    "num": "tamilmirrorlk-98358c41",
+    "doc_id": "2026-03-13-virakesarilk-fd3c9283",
+    "num": "virakesarilk-fd3c9283",
     "date_str": "2026-03-13",
-    "description": "\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd \u0b89\u0b9a\u0bcd\u0b9a \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u2019\u0b95\u0bbe\u0baf\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd-\u0b89\u0b9a\u0bcd\u0b9a-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/50-373869",
+    "description": "\u2018Rebuilding Sri Lanka\u2019 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 Mac Holdings (Pvt) Ltd \u0b87\u0ba9\u0bbe\u0bb2\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0ba8\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/240910",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1773414757.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1773424140.0
 }
 ```
 
@@ -41,7 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-13 | `virakesarilk-fd3c9283` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு Mac Holdings (Pvt) Ltd இனால் நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-fd3c9283)
+- 2026-03-13 | `virakesarilk-a8b6d9cf` | ஜனாதிபதி செயலகத்தில் விசேட இப்தார் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-a8b6d9cf)
+- 2026-03-13 | `virakesarilk-132a65a4` | அனைத்து தரப்பினரும் சிறந்த புரிந்துணர்வுடன் செயற்பட்டு எதிர்பார்க்கப்படும் நோக்கங்களை அடைவோம் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-132a65a4)
+- 2026-03-13 | `tamilmirrorlk-a8b6d9cf` | ஜனாதிபதி செயலகத்தில் விசேட இப்தார் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-a8b6d9cf)
+- 2026-03-13 | `virakesarilk-b7bf2e53` | இந்துக்களின் சமரில் அடுத்தடுத்த அத்தியாயங்களில்  சுபர்ணன் 6 விக்கெட் குவியல்; முதல் நாளன்று 22 விக்கெட்கள் சரிந்தன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-b7bf2e53)
+- 2026-03-13 | `virakesarilk-0dcac603` | சென். பட்றிக்ஸ் அணிக்கு கடைநிலை வீரர் டினுலக்சன் அரைச் சதம் குவித்து கைகொடுத்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-0dcac603)
 - 2026-03-13 | `tamilmirrorlk-98358c41` | ஈரானின் உச்ச தலைவர் ’காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-98358c41)
+- 2026-03-13 | `virakesarilk-eb466cb9` | திரிவச்சகுளத்தில் அடர்வனங்கள் அழிக்கப்பட்ட விவகாரம்; மகாவலி அதிகாரசபைக்கு மரணதண்டனை வழங்கப்பட வேண்டும் - ரவிகரன் எம்.பி வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-eb466cb9)
 - 2026-03-13 | `virakesarilk-4eb8de21` | மேல் நீதிமன்ற நீதிபதியாக எஸ். சதீஸ்தரன்  நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-4eb8de21)
 - 2026-03-13 | `tamilmirrorlk-bf47c5aa` | திரும்பிய கார் பள்ளத்தில் கவிழ்ந்ததில் மூவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-bf47c5aa)
 - 2026-03-13 | `adalk-5fc37678` | උතුරුමැද පළාත් සභාවේ අක්‍රමිකතා කෝපා කමිටුවේදී එළියට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-adalk-5fc37678)
@@ -53,14 +60,7 @@ A collection of lk_news documents.
 - 2026-03-13 | `virakesarilk-4b5b8105` | அடுத்த 36 மணித்தியாலத்திற்கு பலத்த மழை பெய்யும் - வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-4b5b8105)
 - 2026-03-13 | `virakesarilk-9092ea06` | இயக்குநர் சேரன் வெளியிட்ட நடிகர் மதுசூதனன் ராவ் நடிக்கும் 'AD 2035' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-9092ea06)
 - 2026-03-13 | `virakesarilk-7977c0bd` | நடிகர் அர்ஜுன் பிரபாகரன் நடிக்கும் 'பேட்டில்' படத்தின் முதல் பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-7977c0bd)
-- 2026-03-13 | `virakesarilk-cb86a4d1` | தாய்லாந்து பாராளுமன்றத்தை பார்வையிட்டார் சாணக்கியன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-cb86a4d1)
-- 2026-03-13 | `virakesarilk-92af6f53` | புதுச்சேரி முதல்வர் ரங்கசாமி வெளியிட்ட 'திருபாவை' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-92af6f53)
-- 2026-03-13 | `tamilmirrorlk-d9df4cae` | புதிய மேல் நீதிமன்ற நீதிபதியாக எஸ். சதீஸ்தரன் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-d9df4cae)
-- 2026-03-13 | `virakesarilk-7c98bc95` | தாய்லாந்தில் நடைபெற்ற திறந்த அரசாங்க கூட்டாண்மை நிகழ்வில் சாணக்கியன் பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-7c98bc95)
-- 2026-03-13 | `virakesarilk-b9e95ec8` | இலங்கையின் பொருளாதார அபிவிருத்தி மற்றும் புதிய வேலைவாய்ப்புகளை  உருவாக்குதல் தொடர்பில் உலக வங்கி கூடுதல் கவனம் - உலக வங்கியின் தென்னாசியாவுக்கான உப தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-b9e95ec8)
-- 2026-03-13 | `virakesarilk-768ccd79` | உள்நாட்டுக் கைத்தொழில்களை மேம்படுத்துவது அரசாங்கத்தின் முன்னுரிமையாகும் -'INCO 2026' கண்காட்சியின் ஆரம்ப விழாவில் பிரதமர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-768ccd79)
-- 2026-03-13 | `virakesarilk-4cc24dde` | மொழிசார் பாரம்பரியத்தைப் பாதுகாப்பது கலாசாரப் பொறுப்பு மட்டுமல்ல, உலகின் பன்முகத்தன்மையைப் பேணுவதற்கான கூட்டு அர்ப்பணிப்புமாகும் - பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-4cc24dde)
-- 2026-03-13 | `virakesarilk-6b1fb3d1` | இலங்கையில் 4-ல் ஒரு பங்கு மக்கள் வறுமையின் பிடியில்: கிராமப்புறங்களே அதிகம் பாதிப்பு - அமைச்சர் உபாலி பன்னிலகே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-6b1fb3d1)
+- 2026-03-13 | `virakesarilk-90c693bb` | எரிபொருட்களுக்கான வரியை நீக்கி மக்களுக்கு அரசு நிவாரணம் வழங்காவிட்டால் இந்த அரசும் ட்ரம்ப், நெதன்யாஹுவின் பங்காளிகள் என மக்கள் புரிந்துகொள்வார்கள் - வாசுதேவ நாணயக்கார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-90c693bb)
 
 ---
 

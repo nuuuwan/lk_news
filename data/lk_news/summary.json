@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-03-13 21:57:41",
-  "n_docs": 105397,
+  "time_updated": "2026-03-13 23:54:24",
+  "n_docs": 105410,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 105397,
+  "n_docs_with_text": 105410,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-03-13",
-  "dataset_size": 1617040961,
+  "dataset_size": 1617181410,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-13-tamilmirrorlk-98358c41",
-    "num": "tamilmirrorlk-98358c41",
+    "doc_id": "2026-03-13-virakesarilk-fd3c9283",
+    "num": "virakesarilk-fd3c9283",
     "date_str": "2026-03-13",
-    "description": "\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd \u0b89\u0b9a\u0bcd\u0b9a \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u2019\u0b95\u0bbe\u0baf\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd-\u0b89\u0b9a\u0bcd\u0b9a-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/50-373869",
+    "description": "\u2018Rebuilding Sri Lanka\u2019 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 Mac Holdings (Pvt) Ltd \u0b87\u0ba9\u0bbe\u0bb2\u0bcd \u0ba8\u0bbf\u0ba4\u0bbf \u0ba8\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/240910",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1773414757.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1773424140.0
   }
 }
