@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--13_20:51:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--13_21:58:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**105,394** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**105,397** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-13-virakesarilk-4eb8de21",
-    "num": "virakesarilk-4eb8de21",
+    "doc_id": "2026-03-13-tamilmirrorlk-98358c41",
+    "num": "tamilmirrorlk-98358c41",
     "date_str": "2026-03-13",
-    "description": "\u0bae\u0bc7\u0bb2\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1 \u0ba8\u0bc0\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0b8e\u0bb8\u0bcd. \u0b9a\u0ba4\u0bc0\u0bb8\u0bcd\u0ba4\u0bb0\u0ba9\u0bcd\u00a0 \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/240904",
+    "description": "\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd \u0b89\u0b9a\u0bcd\u0b9a \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u2019\u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd-\u0b89\u0b9a\u0bcd\u0b9a-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/50-373869",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1773409560.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1773414757.0
 }
 ```
 
@@ -41,8 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-13 | `tamilmirrorlk-98358c41` | ஈரானின் உச்ச தலைவர் ’காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-98358c41)
 - 2026-03-13 | `virakesarilk-4eb8de21` | மேல் நீதிமன்ற நீதிபதியாக எஸ். சதீஸ்தரன்  நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-4eb8de21)
+- 2026-03-13 | `tamilmirrorlk-bf47c5aa` | திரும்பிய கார் பள்ளத்தில் கவிழ்ந்ததில் மூவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-bf47c5aa)
 - 2026-03-13 | `adalk-5fc37678` | උතුරුමැද පළාත් සභාවේ අක්‍රමිකතා කෝපා කමිටුවේදී එළියට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-adalk-5fc37678)
+- 2026-03-13 | `tamilmirrorlk-26367cd3` | யாழில் ஐக்கிய மக்கள் சக்தியின் விசேட மறுசீரமைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-26367cd3)
 - 2026-03-13 | `tamilmirrorlk-7f578880` | பிணங்களைப் பதனிடும் பெண்: இலங்கையின் ஒரே பெண் எம்பாமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-7f578880)
 - 2026-03-13 | `adalk-feaed141` | අද ඇතැම් ස්ථානවලට මිලි මිටර් 50ක් දක්වා වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-adalk-feaed141)
 - 2026-03-13 | `virakesarilk-d0a12cc1` | தாதியர் சேவைப் பயிற்சிக்கு 2918 பேருக்கு புதிய நியமனங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-d0a12cc1)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-03-13 | `virakesarilk-768ccd79` | உள்நாட்டுக் கைத்தொழில்களை மேம்படுத்துவது அரசாங்கத்தின் முன்னுரிமையாகும் -'INCO 2026' கண்காட்சியின் ஆரம்ப விழாவில் பிரதமர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-768ccd79)
 - 2026-03-13 | `virakesarilk-4cc24dde` | மொழிசார் பாரம்பரியத்தைப் பாதுகாப்பது கலாசாரப் பொறுப்பு மட்டுமல்ல, உலகின் பன்முகத்தன்மையைப் பேணுவதற்கான கூட்டு அர்ப்பணிப்புமாகும் - பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-4cc24dde)
 - 2026-03-13 | `virakesarilk-6b1fb3d1` | இலங்கையில் 4-ல் ஒரு பங்கு மக்கள் வறுமையின் பிடியில்: கிராமப்புறங்களே அதிகம் பாதிப்பு - அமைச்சர் உபாலி பன்னிலகே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-6b1fb3d1)
-- 2026-03-13 | `adalk-21dedea2` | කොමර්ෂල් බැංකුව විවෘත කළ නවතම ශාඛාව, කළුවන්චිකුඩි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-adalk-21dedea2)
-- 2026-03-13 | `tamilmirrorlk-a3debe74` | கொழும்பில் ‘இந்துக்களின் சமர்’ கோலாகல ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-a3debe74)
-- 2026-03-13 | `tamilmirrorlk-93c892c6` | இந்திய சகோதரர்களுக்கு 400 ஆண்டுகள் சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-93c892c6)
 
 ---
 
