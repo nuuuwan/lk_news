@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--13_06:14:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--13_08:53:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**105,284** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**105,291** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-13-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2026-03-13-tamilmirrorlk-850ac0cb",
+    "num": "tamilmirrorlk-850ac0cb",
     "date_str": "2026-03-13",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/240843",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd Work from Home?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-Work-from-Home/175-373829",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1773362280.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1773369982.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-13 | `tamilmirrorlk-850ac0cb` | இலங்கையில் மீண்டும் Work from Home? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-850ac0cb)
+- 2026-03-13 | `tamilmirrorlk-f16c1e4d` | மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-f16c1e4d)
+- 2026-03-13 | `dailyftlk-56ae0ad5` | Nearly 300 children killed since start of Iran conflict: UNICEF | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-dailyftlk-56ae0ad5)
+- 2026-03-13 | `dailyftlk-13e11b1c` | Up to 3.2 m displaced inside Iran by conflict, says UN | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-dailyftlk-13e11b1c)
+- 2026-03-13 | `dailyftlk-540589ca` | Right of Reply: Russian Embassy responds | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-dailyftlk-540589ca)
 - 2026-03-13 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-3a015e4a)
 - 2026-03-13 | `virakesarilk-6006046d` | போதைப்பொருள் கடத்தலைத் தடுக்கும் கடுமையான சட்டங்கள்: பொது எச்சரிக்கை - பாதுகாப்புப் பிரதி அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-6006046d)
 - 2026-03-13 | `virakesarilk-2341f3ee` | கடல் பிளாஸ்டிக் மாசுபாடு குறித்து கவலை: பொறுப்புடன் செயல்பட மக்களுக்கு அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-2341f3ee)
@@ -52,15 +57,10 @@ A collection of lk_news documents.
 - 2026-03-13 | `virakesarilk-c3cc774e` | நீதிமன்ற விசாரணைகள் நிறைவடைந்த நிலையில் சுமார் 200 கிலோவுக்கு அண்ணளவான போதைப்பொருள் இன்று தீயிட்டு அழிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-c3cc774e)
 - 2026-03-13 | `virakesarilk-376a61ce` | சட்டவிரோதமாக கொள்வனவு செய்யப்பட்ட வாகனங்களை பதிவு செய்த மோட்டார் வாகன திணைக்கள அதிகாரிகள் நால்வருக்கு விளக்கமறியலில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-376a61ce)
 - 2026-03-13 | `virakesarilk-30fd2729` | செம்மணி மனிதப் புதைகுழி: மூன்றாம் கட்ட அகழ்வு ஏப்ரல் 20ல் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-30fd2729)
+- 2026-03-13 | `tamilmirrorlk-d891ccc2` | ’ஹோர்முஸ் நீரிணை திறக்கப்படாது’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-d891ccc2)
+- 2026-03-13 | `tamilmirrorlk-5c983b5b` | அமெரிக்காவின் வங்கிகளை தாக்க ஈரான் திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-5c983b5b)
 - 2026-03-13 | `tamilmirrorlk-8197775c` | இந்திய கப்பல்களுக்கு ஈரான் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-8197775c)
 - 2026-03-13 | `tamilmirrorlk-001bdb71` | ’மின்சார சபை ஊழியர்கள் உரிமை பாதுகாக்கப்படும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-tamilmirrorlk-001bdb71)
-- 2026-03-13 | `virakesarilk-4922f8f2` | “காயங்களைத் தாண்டி” காபி மேசை நூல் வெளியீடு – இலங்கையில் தொழுநோய் பற்றிய விழிப்புணர்வை மேம்படுத்தும் முயற்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-4922f8f2)
-- 2026-03-13 | `virakesarilk-e0f6fabd` | 15ஆவது இந்துக்களின் சமர்: யாழ். இந்துவின் கடந்த வருட வெற்றிக்கு பதிலடி கொடுக்குமா இந்து கொழும்பு? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-e0f6fabd)
-- 2026-03-12 | `tamilmirrorlk-867877f4` | ‘ஈரானின் புதிய அதியுயர் தலைவருக்கு சிறு காயம்; ஆனால் இயங்குநிலையில்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-tamilmirrorlk-867877f4)
-- 2026-03-12 | `islandlk-c9fc7eaa` | Vision to Reality: A year of learning, leadership and global engagement for COYLE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-islandlk-c9fc7eaa)
-- 2026-03-12 | `islandlk-4c206ed2` | Bourse ambles from bearishness to sprite despite oil price surge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-islandlk-4c206ed2)
-- 2026-03-12 | `islandlk-00c5503e` | George Steuart partners with the Sri Lanka Natural History Society to promote Sri Lanka’s ecological legacy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-islandlk-00c5503e)
-- 2026-03-12 | `islandlk-b6f063ae` | St. Anthony’s Service launches new digital platforms to strengthen customer convenience and service excellence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-12-islandlk-b6f063ae)
 
 ---
 

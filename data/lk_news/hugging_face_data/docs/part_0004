@@ -98064,6 +98064,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-13-tamilmirrorlk-5c983b5b",
+    "num": "tamilmirrorlk-5c983b5b",
+    "date_str": "2026-03-13",
+    "description": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0b95\u0bb3\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95 \u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0b95\u0bb3\u0bc8-\u0ba4\u0bbe\u0b95\u0bcd\u0b95-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/50-373826",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1773355113.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-13-tamilmirrorlk-d891ccc2",
+    "num": "tamilmirrorlk-d891ccc2",
+    "date_str": "2026-03-13",
+    "description": "\u2019\u0bb9\u0bcb\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd \u0ba8\u0bc0\u0bb0\u0bbf\u0ba3\u0bc8 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bcb\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd-\u0ba8\u0bc0\u0bb0\u0bbf\u0ba3\u0bc8-\u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbe\u0ba4\u0bc1/50-373827",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1773355820.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-13-virakesarilk-30fd2729",
     "num": "virakesarilk-30fd2729",
     "date_str": "2026-03-13",
@@ -98182,5 +98204,60 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1773362280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-13-dailyftlk-540589ca",
+    "num": "dailyftlk-540589ca",
+    "date_str": "2026-03-13",
+    "description": "Right of Reply: Russian Embassy responds",
+    "url_metadata": "https://www.ft.lk/news/Right-of-Reply-Russian-Embassy-responds/56-789486",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773362839.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-13-dailyftlk-13e11b1c",
+    "num": "dailyftlk-13e11b1c",
+    "date_str": "2026-03-13",
+    "description": "Up to 3.2 m displaced inside Iran by conflict, says UN",
+    "url_metadata": "https://www.ft.lk/news/Up-to-3-2-m-displaced-inside-Iran-by-conflict-says-UN/56-789487",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773362931.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-13-dailyftlk-56ae0ad5",
+    "num": "dailyftlk-56ae0ad5",
+    "date_str": "2026-03-13",
+    "description": "Nearly 300 children killed since start of Iran conflict: UNICEF",
+    "url_metadata": "https://www.ft.lk/news/Nearly-300-children-killed-since-start-of-Iran-conflict-UNICEF/56-789488",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773362955.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-13-tamilmirrorlk-f16c1e4d",
+    "num": "tamilmirrorlk-f16c1e4d",
+    "date_str": "2026-03-13",
+    "description": "\u0bae\u0bb4\u0bc8\u0baf\u0bcb \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bae\u0bb4\u0bc8\u0baf\u0bcb \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb4\u0bc8\u0baf\u0bcb-\u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1-\u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bc2\u0b9f\u0bbf\u0baf-\u0bae\u0bb4\u0bc8\u0baf\u0bcb-\u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd/175-373828",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1773369567.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-13-tamilmirrorlk-850ac0cb",
+    "num": "tamilmirrorlk-850ac0cb",
+    "date_str": "2026-03-13",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd Work from Home?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-Work-from-Home/175-373829",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1773369982.0
   }
 ]
