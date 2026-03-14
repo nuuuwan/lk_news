@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--14_08:40:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--14_10:17:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**105,443** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**105,446** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-14-virakesarilk-5e9b86d6",
-    "num": "virakesarilk-5e9b86d6",
+    "doc_id": "2026-03-14-tamilmirrorlk-67c8cada",
+    "num": "tamilmirrorlk-67c8cada",
     "date_str": "2026-03-14",
-    "description": "\u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bbe\u0b9f\u0bb2\u0bcd\" \u0b9a\u0bb5\u0bbe\u0bb2\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc6\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/240920",
+    "description": "\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 56 \u0b86\u0bb3\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-56-\u0b86\u0bb3\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd/50-373885",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1773456900.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1773459741.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-14 | `tamilmirrorlk-67c8cada` | சுட்டு வீழ்த்தப்பட்ட 56 ஆளில்லா விமானங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-14-tamilmirrorlk-67c8cada)
+- 2026-03-14 | `tamilmirrorlk-6a97dadc` | ஈரானின் 200 இலக்குகளை 24 மணி நேரத்தில் தாக்கிய இஸ்ரேல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-14-tamilmirrorlk-6a97dadc)
+- 2026-03-14 | `tamilmirrorlk-9c6c86ae` | ஈரான் வெளியுறவு அமைச்சருடன் ஜெய்சங்கர் பேச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-14-tamilmirrorlk-9c6c86ae)
 - 2026-03-14 | `virakesarilk-5e9b86d6` | சொல்லாடல்" சவால் கிண்ணத்தை வென்றது இந்து கல்லூரி கொழும்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-14-virakesarilk-5e9b86d6)
 - 2026-03-14 | `virakesarilk-e96cc078` | கூர்மையான ஆயுதத்தால் தாக்கப்பட்டு பெண்ணொருவர் கொலை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-14-virakesarilk-e96cc078)
 - 2026-03-14 | `virakesarilk-9128134b` | போதைப்பொருள் மற்றும் ஆயுதங்களுடன் கைதான 10 சந்தேகநபர்கள் போதைப்பொருள் தடுப்பு பிரிவிடம் ஒப்படைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-14-virakesarilk-9128134b)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-03-13 | `dailyftlk-0f57da76` | Are you ready to face the next power cuts? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-dailyftlk-0f57da76)
 - 2026-03-13 | `virakesarilk-a8b6d9cf` | ஜனாதிபதி செயலகத்தில் விசேட இப்தார் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-virakesarilk-a8b6d9cf)
 - 2026-03-13 | `dailyftlk-b2a2d6ba` | Ranking public services with AI: A roadmap to revive institutions like SriLankan Airlines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-dailyftlk-b2a2d6ba)
-- 2026-03-13 | `dailyftlk-24d13bd7` | Sri Lanka, humanitarianism,  and the meaning of true development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-dailyftlk-24d13bd7)
-- 2026-03-13 | `dailyftlk-0c65293e` | The English trap: Why Sri Lanka mocks its politicians either way | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-dailyftlk-0c65293e)
-- 2026-03-13 | `dailyftlk-fadeea09` | Law vs. ethics and Akuregoda incident: Is this a turning point? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-13-dailyftlk-fadeea09)
 
 ---
 
