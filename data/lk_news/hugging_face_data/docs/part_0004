@@ -99846,6 +99846,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-14-dbsjeyarajcom-b2b77978",
+    "num": "dbsjeyarajcom-b2b77978",
+    "date_str": "2026-03-14",
+    "description": "Major economic strategies for the Northern Province  should be developed and implemented through collaboration between the Sri Lanka  Govt, Northern Provincial Council, local authorities, and regional economic stakeholders.",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87335",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1773437400.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-14-dbsjeyarajcom-8771ae86",
     "num": "dbsjeyarajcom-8771ae86",
     "date_str": "2026-03-14",
@@ -99997,5 +100008,27 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1773472949.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-14-tamilmirrorlk-0ea2c051",
+    "num": "tamilmirrorlk-0ea2c051",
+    "date_str": "2026-03-14",
+    "description": "\u0bae\u0bc7 \u0bae\u0bbe\u0ba4\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0baa\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc7-\u0bae\u0bbe\u0ba4\u0bae\u0bcd-\u0bb5\u0bb0\u0bc8-\u0b95\u0b9f\u0bc1\u0bae\u0bcd-\u0bb5\u0bc6\u0baa\u0bcd\u0baa\u0bae\u0bcd/175-373887",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1773480524.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-14-tamilmirrorlk-29a58428",
+    "num": "tamilmirrorlk-29a58428",
+    "date_str": "2026-03-14",
+    "description": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc0 \u0baa\u0bb0\u0bb5\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc0-\u0baa\u0bb0\u0bb5\u0bb2\u0bcd/76-373888",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1773481090.0
   }
 ]
