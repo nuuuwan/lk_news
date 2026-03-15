@@ -101636,5 +101636,93 @@ ews",
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1773581984.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-16-dailyftlk-34be1bef",
+    "num": "dailyftlk-34be1bef",
+    "date_str": "2026-03-16",
+    "description": "Rising oil prices threaten Sri Lanka\u2019s fragile economic recovery",
+    "url_metadata": "https://www.ft.lk/columns/Rising-oil-prices-threaten-Sri-Lanka-s-fragile-economic-recovery/4-789587",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773609889.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-16-dailyftlk-d0686c86",
+    "num": "dailyftlk-d0686c86",
+    "date_str": "2026-03-16",
+    "description": "Rethinking the proposed amendment to Thin Capitalisation rule and the fate of SMEs",
+    "url_metadata": "https://www.ft.lk/columns/Rethinking-the-proposed-amendment-to-Thin-Capitalisation-rule-and-the-fate-of-SMEs/4-789589",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773610462.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-16-dailyftlk-8bb46222",
+    "num": "dailyftlk-8bb46222",
+    "date_str": "2026-03-16",
+    "description": "UNP responds to Daily FT Editorial on \u2018Separation of Temple and State a must going forward\u2019",
+    "url_metadata": "https://www.ft.lk/opinion/UNP-responds-to-Daily-FT-Editorial-on-Separation-of-Temple-and-State-a-must-going-forward/14-789590",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773610728.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-16-dailyftlk-c89f9e97",
+    "num": "dailyftlk-c89f9e97",
+    "date_str": "2026-03-16",
+    "description": "The tempest in Middle East will continue to blow ill wind in the Indian Ocean",
+    "url_metadata": "https://www.ft.lk/columns/The-tempest-in-Middle-East-will-continue-to-blow-ill-wind-in-the-Indian-Ocean/4-789591",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773611010.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-16-dailyftlk-fd0d373a",
+    "num": "dailyftlk-fd0d373a",
+    "date_str": "2026-03-16",
+    "description": "\u2018PSTA more draconian than PTA\u2019",
+    "url_metadata": "https://www.ft.lk/opinion/PSTA-more-draconian-than-PTA/14-789592",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773611210.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-16-dailyftlk-42df08f9",
+    "num": "dailyftlk-42df08f9",
+    "date_str": "2026-03-16",
+    "description": "Sri Lanka\u2019s FDI woes: A one-stop shop is the most urgent priority",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-FDI-woes-A-one-stop-shop-is-the-most-urgent-priority/4-789593",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773611795.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-16-dailyftlk-f7db2886",
+    "num": "dailyftlk-f7db2886",
+    "date_str": "2026-03-16",
+    "description": "Converting water hyacinth into livelihood opportunities",
+    "url_metadata": "https://www.ft.lk/opinion/Converting-water-hyacinth-into-livelihood-opportunities/14-789594",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773612081.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-16-dailyftlk-4f9040a0",
+    "num": "dailyftlk-4f9040a0",
+    "date_str": "2026-03-16",
+    "description": "Cleaner air for Colombo starts at sea",
+    "url_metadata": "https://www.ft.lk/columns/Cleaner-air-for-Colombo-starts-at-sea/4-789595",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773612309.0
   }
 ]
