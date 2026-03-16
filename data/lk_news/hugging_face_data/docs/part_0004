@@ -103297,5 +103297,71 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1773681626.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-d6ebbe28",
+    "num": "dailyftlk-d6ebbe28",
+    "date_str": "2026-03-17",
+    "description": "Persian Gulf fallout: What can be done?",
+    "url_metadata": "https://www.ft.lk/columns/Persian-Gulf-fallout-What-can-be-done/4-789646",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773692645.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-aa35a94d",
+    "num": "dailyftlk-aa35a94d",
+    "date_str": "2026-03-17",
+    "description": "Shock from the Gulf: Buffers hold for now but reform delays leave SL vulnerable",
+    "url_metadata": "https://www.ft.lk/columns/Shock-from-the-Gulf-Buffers-hold-for-now-but-reform-delays-leave-SL-vulnerable/4-789647",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773692943.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-5d884a01",
+    "num": "dailyftlk-5d884a01",
+    "date_str": "2026-03-17",
+    "description": "Are we failing our youth? The reality behind  Sri Lankan\u2019s job crisis",
+    "url_metadata": "https://www.ft.lk/columns/Are-we-failing-our-youth-The-reality-behind-Sri-Lankan-s-job-crisis/4-789648",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773695740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-1ae1160d",
+    "num": "dailyftlk-1ae1160d",
+    "date_str": "2026-03-17",
+    "description": "New study warns of moderate to high AI-driven risks to electoral integrity",
+    "url_metadata": "https://www.ft.lk/opinion/New-study-warns-of-moderate-to-high-AI-driven-risks-to-electoral-integrity/14-789649",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773695930.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-d8e36c56",
+    "num": "dailyftlk-d8e36c56",
+    "date_str": "2026-03-17",
+    "description": "From revenue to repression: Tax administration and justice",
+    "url_metadata": "https://www.ft.lk/columns/From-revenue-to-repression-Tax-administration-and-justice/4-789650",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773696487.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-db2cadde",
+    "num": "dailyftlk-db2cadde",
+    "date_str": "2026-03-17",
+    "description": "Privilege, compliance and fiscal trust: Rethinking taxpayer engagement",
+    "url_metadata": "https://www.ft.lk/columns/Privilege-compliance-and-fiscal-trust-Rethinking-taxpayer-engagement/4-789652",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773697078.0
   }
 ]
