@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-03-16 03:48:35",
-  "n_docs": 105606,
+  "time_updated": "2026-03-16 06:18:40",
+  "n_docs": 105630,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 105606,
+  "n_docs_with_text": 105630,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-03-16",
-  "dataset_size": 1620849689,
+  "dataset_size": 1621092197,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-16-dailyftlk-4f9040a0",
-    "num": "dailyftlk-4f9040a0",
+    "doc_id": "2026-03-16-dailyftlk-9adcb3f5",
+    "num": "dailyftlk-9adcb3f5",
     "date_str": "2026-03-16",
-    "description": "Cleaner air for Colombo starts at sea",
-    "url_metadata": "https://www.ft.lk/columns/Cleaner-air-for-Colombo-starts-at-sea/4-789595",
+    "description": "Sajith accuses Govt. of arrogance, warns economy risks deeper crisis",
+    "url_metadata": "https://www.ft.lk/news/Sajith-accuses-Govt-of-arrogance-warns-economy-risks-deeper-crisis/56-789626",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1773612309.0
+    "time_ut": 1773618046.0
   }
 }
