@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--17_00:05:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--17_01:56:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**105,739** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**105,749** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,8 +42,11 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-03-16 | `tamilmirrorlk-6589e533` | இந்துக்களின் மோதல்: கால்பந்தாட்டத்திலும் யாழ்ப்பாணத்தை வென்ற கொழும்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-tamilmirrorlk-6589e533)
+- 2026-03-16 | `virakesarilk-a12df75d` | கோப்பாய் பொலிஸ் நிலையத்தில் தீ விபத்து: பெயர்பலகை மற்றும் படகொன்றும் தீயில் எரிந்து சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-virakesarilk-a12df75d)
+- 2026-03-16 | `virakesarilk-ed5737c4` | மூன்று மாதங்களில் 20 பில்லியன் ரூபா பெறுமதியான போதைப்பொருட்கள் மீட்பு; 7 படகுகள் பொறுப்பேற்பு - பாதுகாப்பு பிரதி  அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-virakesarilk-ed5737c4)
 - 2026-03-16 | `tamilmirrorlk-e1909b6d` | QR முறையை பெறுவதில் சிக்கலா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-tamilmirrorlk-e1909b6d)
 - 2026-03-16 | `tamilmirrorlk-438fc9f7` | எரிபொருள் வரிசையை மீறி வந்தால் எரிபொருள் இல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-tamilmirrorlk-438fc9f7)
+- 2026-03-16 | `virakesarilk-6d438370` | எரிபொருள் நிலையங்களுக்கு அருகில் விசேட பாதுகாப்பு மற்றும் போக்குவரத்துத் திட்டம் - பிரதிப் பொலிஸ் மாஅதிபர் சேனாதீர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-virakesarilk-6d438370)
 - 2026-03-16 | `tamilmirrorlk-68824296` | ஒவ்வொரு புதனும் பொது விடுமுறையாக பிரகடனப்படுத்திய அரசாங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-tamilmirrorlk-68824296)
 - 2026-03-16 | `virakesarilk-777ba35a` | நீதிமன்றில் சரணடைந்த பாராளுமன்ற உறுப்பினர் அசோக்க ரன்வல பிணையில் விடுதலை ; ஜூலை 10 ஆம் திகதிக்கு வழக்கு ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-virakesarilk-777ba35a)
 - 2026-03-16 | `virakesarilk-d7208290` | ஒவ்வொரு புதன்கிழமையும் அரச விடுமுறை தினமாக பிரகடனம் - அத்தியாவசிய சேவைகள் ஆணையாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-virakesarilk-d7208290)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-03-16 | `tamilmirrorlk-e6fc1580` | மன்னாரில் பெண் பாரிய பண மோசடி:  40 மில்லியன் ரூபாய் பிணையில் விடுவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-tamilmirrorlk-e6fc1580)
 - 2026-03-16 | `virakesarilk-c9b3c586` | நடிகர் பவன் கல்யாண் நடிக்கும் 'உஸ்தாத் பகத்சிங் 'படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-virakesarilk-c9b3c586)
 - 2026-03-16 | `virakesarilk-c915d651` | கர்வாரில் நீர்மூழ்கிக் கப்பல் RAM சோதனை மையம் திறப்பு – முன்னணி நாடுகளின் வரிசையில் இந்தியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-virakesarilk-c915d651)
-- 2026-03-16 | `virakesarilk-453b17a2` | நானுஓயா - ரதல்ல குறுக்கு வீதியில் வேகக் கட்டுப்பாட்டை இழந்த லொறி விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-virakesarilk-453b17a2)
-- 2026-03-16 | `virakesarilk-b3e00671` | வீட்டிலிருந்து வேலை செய்வது தொடர்பில் இறுதித் தீர்மானம் இன்னும் எடுக்கப்படவில்லை - அமைச்சர் சந்தன அபேரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-virakesarilk-b3e00671)
-- 2026-03-16 | `virakesarilk-f60bc102` | கோட்டை கட்டியகுளம் மகாவித்தியாலயத்திற்கு நேரடியாகச் சென்ற ரவிகரன் எம்.பி குறைபாடுகள் குறித்து ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-16-virakesarilk-f60bc102)
 
 ---
 
