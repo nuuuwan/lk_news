@@ -103223,6 +103223,39 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-16-dbsjeyarajcom-85dbc268",
+    "num": "dbsjeyarajcom-85dbc268",
+    "date_str": "2026-03-16",
+    "description": "India\u2019s Tamil Nadu State Elections to be held on 23rd April 2025 :  5.67 crore Voyers will elect Representatives to 234 Legislative Assembly Seats.  Counting of Votes  on May 4th.",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87393",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1773666900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-16-dbsjeyarajcom-0ad6dd53",
+    "num": "dbsjeyarajcom-0ad6dd53",
+    "date_str": "2026-03-16",
+    "description": "The sinking of the Iranian warship \u2018IRIS Dena\u2019 that had participated as a guest in an Indian naval exercise has caused  embarrassment to India. This was evident from India maintaining a strategic silence on the sinking.",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87397",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1773667440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-16-dbsjeyarajcom-6351478a",
+    "num": "dbsjeyarajcom-6351478a",
+    "date_str": "2026-03-16",
+    "description": "Sri Lanka switches to QR code-based system to ration fuel sales as a \u201cprecautionary measure\u201d: The weekly quota for cars and motorbikes is limited to 15 litres and 5 litres, respectively",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87386",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1773667440.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-16-adalk-43bcd98f",
     "num": "adalk-43bcd98f",
     "date_str": "2026-03-16",
@@ -103308,6 +103341,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1773674160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-16-adalk-4ea539f1",
+    "num": "adalk-4ea539f1",
+    "date_str": "2026-03-16",
+    "description": "\u0dc3\u0dd1\u0db8 \u0db6\u0daf\u0dcf\u0daf\u0dcf \u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca\u0db8 \u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4 \u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dd1\u0db8-\u0db6\u0daf\u0dcf\u0daf\u0dcf-\u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca\u0db8-\u0db1\u0dd2\u0dc0\u0dcf\u0da9\u0dd4-\u0daf\u0dd2\u0db1\u0dba\u0d9a\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/11-421683",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1773676929.0
   },
   {
     "doc_type": "lk_news",
@@ -103616,5 +103660,115 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1773707760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-5e721419",
+    "num": "dailyftlk-5e721419",
+    "date_str": "2026-03-17",
+    "description": "Entrepreneurs\u2019 Organisation leaders convene in Colombo for 2026 Presidents\u2019 Meeting",
+    "url_metadata": "https://www.ft.lk/business/Entrepreneurs-Organisation-leaders-convene-in-Colombo-for-2026-Presidents-Meeting/34-789660",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773709100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-a5581cba",
+    "num": "dailyftlk-a5581cba",
+    "date_str": "2026-03-17",
+    "description": "Dialog introduces Oscal Tiger 8 5G",
+    "url_metadata": "https://www.ft.lk/business/Dialog-introduces-Oscal-Tiger-8-5G/34-789661",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773709200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-63526bda",
+    "num": "dailyftlk-63526bda",
+    "date_str": "2026-03-17",
+    "description": "Consumer sentiment starts showing fluctuations",
+    "url_metadata": "https://www.ft.lk/business/Consumer-sentiment-starts-showing-fluctuations/34-789662",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773709297.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-757c79fd",
+    "num": "dailyftlk-757c79fd",
+    "date_str": "2026-03-17",
+    "description": "Manufacturing, services PMI picks up in Feb.",
+    "url_metadata": "https://www.ft.lk/business/Manufacturing-services-PMI-picks-up-in-Feb/34-789663",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773709404.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-52ba913c",
+    "num": "dailyftlk-52ba913c",
+    "date_str": "2026-03-17",
+    "description": "SLAMERP celebrates 40 years of strengthening rubber products export industry",
+    "url_metadata": "https://www.ft.lk/business/SLAMERP-celebrates-40-years-of-strengthening-rubber-products-export-industry/34-789664",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773709542.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-79038b5a",
+    "num": "dailyftlk-79038b5a",
+    "date_str": "2026-03-17",
+    "description": "Sajin Vass Gunawardena indicted over Mihin Lanka deal",
+    "url_metadata": "https://www.ft.lk/news/Sajin-Vass-Gunawardena-indicted-over-Mihin-Lanka-deal/56-789665",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773709726.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-0afffa23",
+    "num": "dailyftlk-0afffa23",
+    "date_str": "2026-03-17",
+    "description": "Govt. introduces special mechanism to supply fuel to farmers",
+    "url_metadata": "https://www.ft.lk/news/Govt-introduces-special-mechanism-to-supply-fuel-to-farmers/56-789666",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773709763.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-66cd826e",
+    "num": "dailyftlk-66cd826e",
+    "date_str": "2026-03-17",
+    "description": "Dr. Asha de Vos featured at UN General Assembly campaign honouring women trailblazers",
+    "url_metadata": "https://www.ft.lk/news/Dr-Asha-de-Vos-featured-at-UN-General-Assembly-campaign-honouring-women-trailblazers/56-789667",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773709793.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-dailyftlk-636d1d4c",
+    "num": "dailyftlk-636d1d4c",
+    "date_str": "2026-03-17",
+    "description": "SL calls for immediate de-escalation  of tensions in Middle East, global peace",
+    "url_metadata": "https://www.ft.lk/news/SL-calls-for-immediate-de-escalation-of-tensions-in-Middle-East-global-peace/56-789668",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773709886.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-17-adalk-821099bc",
+    "num": "adalk-821099bc",
+    "date_str": "2026-03-17",
+    "description": "\u0d85\u0dbb\u0dcf\u0db6\u0dd2 \u0d91\u0db8\u0dd3\u0dbb\u0dba \u0dad\u0db8 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba \u0dc0\u0dc3\u0dcf \u0daf\u0db8\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dbb\u0dcf\u0db6\u0dd2-\u0d91\u0db8\u0dd3\u0dbb\u0dba-\u0dad\u0db8-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0d9a\u0dbd\u0dcf\u0db4\u0dba-\u0dc0\u0dc3\u0dcf-\u0daf\u0db8\u0dba\u0dd2/11-421684",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1773714504.0
   }
 ]
