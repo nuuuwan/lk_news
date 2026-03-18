@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--18_10:25:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--18_12:10:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**105,943** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**105,951** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-18-tamilmirrorlk-cf18b128",
-    "num": "tamilmirrorlk-cf18b128",
+    "doc_id": "2026-03-18-tamilmirrorlk-6b92d496",
+    "num": "tamilmirrorlk-6b92d496",
     "date_str": "2026-03-18",
-    "description": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe?",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bbe/175-374111",
+    "description": "\u0b9f\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd: \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc8  \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc8-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-374118",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1773809335.0
+    "time_ut": 1773813128.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-18 | `tamilmirrorlk-6b92d496` | ட்ரோன் விவகாரம்: இலங்கை விமானப்படை  அதிரடி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-6b92d496)
+- 2026-03-18 | `tamilmirrorlk-d6c87247` | கல்வி மறுசீரமைப்பு: கல்வியமைச்சு அதிரடி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-d6c87247)
+- 2026-03-18 | `tamilmirrorlk-6d552e0a` | முட்டையில் Expiry date; ஏப்ரல் 1 முதல் அமுல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-6d552e0a)
+- 2026-03-18 | `tamilmirrorlk-873b86e4` | தேவைக்கு அதிகமாக எரிபொருள் விநியோகிக்கப்பட்டுள்ளது (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-873b86e4)
+- 2026-03-18 | `tamilmirrorlk-44356fdc` | மதுபான விருந்தில்: ஒருவர் அடித்துக் கொலை; சந்தேகநபர் தலைமறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-44356fdc)
+- 2026-03-18 | `tamilmirrorlk-7dd4c40f` | சிறுமி வன்புணர்வு: சிப்பாயும் மனைவியும் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-7dd4c40f)
 - 2026-03-18 | `tamilmirrorlk-cf18b128` | எரிபொருள் கையிருப்பு உங்களுக்கு தெரியுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-cf18b128)
 - 2026-03-18 | `tamilmirrorlk-b853426f` | 2 மணிக்கு பின்னர் விழிப்புடன் இருக்கவும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-b853426f)
 - 2026-03-18 | `tamilmirrorlk-beb16e55` | 1,200 கோடி ரூபாய் போதைப்பொருள்:  தாயும் மகனும் வலையில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-beb16e55)
@@ -54,13 +60,7 @@ A collection of lk_news documents.
 - 2026-03-18 | `tamilmirrorlk-db49e05c` | ஈரானின் மூத்த தளபதி சுலைமானி உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-db49e05c)
 - 2026-03-18 | `tamilmirrorlk-0474cf8f` | ’லிட்ரோ’ தலைவர் வெளியிட்ட புதிய செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-0474cf8f)
 - 2026-03-18 | `tamilmirrorlk-73f47416` | இஸ்ரேல் வாழ் இலங்கையர்களுக்கு விசேட அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-73f47416)
-- 2026-03-18 | `adalk-6b40ade0` | පස්වරු 2න් පසු බොහෝ ප්‍ර දේශවලට වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-adalk-6b40ade0)
-- 2026-03-18 | `dailyftlk-91bfe812` | Iran strikes UAE as Gulf war widens; shipping crisis drives oil surge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-dailyftlk-91bfe812)
-- 2026-03-18 | `dailyftlk-fdde3bcc` | ME war to push 45 m people into acute hunger by June: WFP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-dailyftlk-fdde3bcc)
-- 2026-03-18 | `dailyftlk-8ef3fd6d` | In physics first, Chinese scientists create rare ‘hexagonal diamond’ harder than natural diamond | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-dailyftlk-8ef3fd6d)
-- 2026-03-18 | `dailyftlk-5183904f` | Iran’s strikes across the Gulf unlawful, endanger civilians: Human Rights Watch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-dailyftlk-5183904f)
-- 2026-03-18 | `dailyftlk-79ef931b` | EDB, Verité Research empower women-led exporters in Kandy with trade data training | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-dailyftlk-79ef931b)
-- 2026-03-18 | `dailyftlk-d353bd58` | The Reckoning: Blackmail, broken alliances and end of Petro-Dollar era | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-dailyftlk-d353bd58)
+- 2026-03-18 | `adalk-406576e4` | ඉරානයේ මිසයිල ප්‍රහාරයකින් ටෙල් අවිව්හි පුද්ගලයන් දෙදෙනෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-adalk-406576e4)
 
 ---
 
