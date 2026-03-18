@@ -1,0 +1,61 @@
+Does new IR Bill violate Constitution over IFRS 17?
+
+In the bustling corridors of Sri Lanka’s insurance industry, a quiet revolution is underway. The long-awaited adoption of IFRS 17 Insurance Contracts - the global standard that transforms how insurers account for policies, liabilities, and profits, is finally here. But alongside the promise of greater transparency comes a controversial new Bill published in the Gazette on 24 February 2026 to amend the Inland Revenue Act. Buried in its provisions is a clause that empowers the Commissioner-General of Inland Revenue (CGIR) to issue rules determining how the insurance sector will be taxed under this new accounting regime.
+
+On the surface, it sounds technical - a necessary tweak to align tax law with modern accounting. Yet at its core, this delegation raises a profound Constitutional question that echoes through eight centuries of legal history: Who truly holds the power to impose taxes in a democracy? Is it the elected representatives of the people, or can that sacred authority be handed over to an unelected bureaucrat such as the CGIR?
+
+The answer may expose a dangerous flaw in the Bill, one that perhaps demands immediate scrutiny during the critical 14-day window for Constitutional challenges (notwithstanding similar provisions /rules having been introduced in various Gazettes/Circulars which were not contested for the Constitutionality in the past).
+
+The principle is as old as democracy itself. In 1215, England’s Barons forced King John to sign the Magna Carta, declaring that “no scutage or aid shall be imposed… unless by the common counsel of our kingdom.” In plain language: no taxation without representation. That bedrock idea travelled across continents and centuries, embedding itself in the constitutions of modern republics.
+
+Sri Lanka’s Constitution enshrines it unequivocally in Article 148: “Parliament shall have full control over public finance. No tax, rate or any other levy shall be imposed by the Government except by or under the authority of a law passed by Parliament or by any other authority under and in terms of such law.”
+
+India’s Constitution is equally unambiguous. Article 265 states: “No tax shall be levied or collected except by authority of law.” And in the United States, Article I, Section 8 of the Constitution grants Congress alone the power “To lay and collect Taxes, Duties, Imposts and Excises.”
+
+Just a month ago, on 20 February 2026, the very day Sri Lanka’s Bill was published in the Gazette, the United States Supreme Court delivered a landmark ruling that sent a chilling warning across oceans.
+
+In Learning Resources, Inc. v. Trump, the Supreme Court of USA struck down presidential tariffs of Donald Trump imposed under the International Emergency Economic Powers Act (IEEPA). The majority held that tariffs are a core exercise of the taxing power reserved exclusively for Congress. Even in matters of national emergency or foreign affairs, the President cannot impose taxes without clear congressional authorisation. Several Justices went further, invoking the “major questions doctrine” - the principle that when an executive action involves vast economic or political significance, Congress must speak clearly and explicitly. Ambiguous language will not suffice.
+
+The parallels are striking. If the world’s most powerful democracy cannot allow its President to rewrite tax rules via regulation, can Sri Lanka permit its Commissioner-General to do the same for an entire industry?
+
+For those unfamiliar with the alphabet soup of accounting, IFRS 17 is no minor update. Introduced globally in 2023 (with Sri Lanka’s insurers now fully transitioning), it replaces decades-old practices under IFRS 4. Insurers must now recognise insurance contracts at current value, separate the “contractual service margin” (the expected profit locked into policies), and reflect the true economic cost of risk and uncertainty.
+
+The result is dramatic shifts in reported profits, timing of revenue recognition, and balance-sheet liabilities. What was once a simple premium-minus-claims calculation becomes a complex, forward-looking model. For tax purposes, this creates an immediate headache: Sri Lanka’s Inland Revenue Act taxes “profits and income” based on accounting principles, but which accounting principles? The old ones or the new IFRS 17 version?
+
+Without legislative clarity, insurers face chaos, potential double taxation, disputes over transitional adjustments, and uncertainty that could deter investment in a sector still recovering from the economic crisis. The Government’s solution is to let the CGIR issue rules. The Bill reportedly grants the Commissioner-General sweeping authority to prescribe the “manner and method” of taxing insurance business to account for IFRS 17 changes.
+
+On paper, this sounds efficient. In practice, it risks turning the CGIR into a one-person legislature for one of Sri Lanka’s most vital industries.
+
+Sri Lankan courts have long recognised that Parliament may delegate subsidiary rule-making powers. Regulations under an Act are common, but only where the parent law lays down clear policy, guidelines, and limits. The core decision of what to tax, who to tax, and how much must remain with Parliament.
+
+Here lies the rub. IFRS 17 fundamentally alters the measurement of taxable income for insurers. By empowering the CGIR to “come up with rules to tax” for the industry, the Bill arguably allows an administrative officer to decide the incidence and quantum of tax, not merely procedural details. That crosses the line from delegation into alienation.
+
+Consider the consequences. The CGIR could determine whether the contractual service margin is taxable immediately or spread over time. He could decide how risk adjustments affect deductible expenses. He could even prescribe special transitional reliefs or penalties. Each choice directly affects billions in revenue and corporate bottom lines. These are not minor administrative tweaks; they are policy decisions of major economic significance, precisely the kind the US Supreme Court refused to leave to the executive President, Mr. Donald Trump.
+
+Article 148’s phrase “by or under the authority of a law passed by Parliament” is not a blank cheque. The Supreme Court of Sri Lanka has repeatedly struck down overbroad delegations that undermine Parliamentary sovereignty. Handing an unelected official unchecked power to rewrite tax treatment for an entire sector risks violating that sacred trust.
+
+Compare this to India. Despite Article 265, Indian courts have allowed delegated legislation but only when Parliament lays down the “essential legislative policy.” Blanket power to “make rules for taxation” would fail that test. The US ruling on “Trump Tariff” goes further still: even clear statutory language may not suffice if the power claimed is of “vast economic significance” without explicit congressional intent.
+
+Sri Lanka’s Constitution, rooted in the same Westminster tradition, demands no less. The people elect Parliament to debate and decide taxes, not to rubber-stamp a bureaucrat’s Gazette notification.
+
+The Bill is still in the pre-enactment stage. Sri Lankan law provides a precious 14-day window (following being placed in the Order Paper of the Parliament on 17 March 2026) during which any citizen can petition the Supreme Court under Article 121 to determine whether the Bill is inconsistent with the Constitution. This is no theoretical right. History shows the Court has courageously struck down provisions that erode fundamental principles - from public finance control to separation of powers.
+
+If the delegation clause survives unchallenged, it sets a dangerous precedent. Tomorrow it could be banking, telecommunications, or any regulated sector facing international standards. The floodgates would open to executive tax-writing, bypassing parliamentary debate, public consultation, and democratic accountability.
+
+On a constructive note, there is a smarter way to address IFRS 17’s tax implications without Constitutional risk.
+
+Parliament should immediately appoint a bipartisan committee, including members of the Finance Ministry, Inland Revenue, Insurance Regulatory Commission, industry representatives, and accounting and tax experts - to study the exact tax adjustments needed. The committee could hold public hearings, examine international best practices (such as the multi-year transitional spreading mechanisms adopted in several jurisdictions for IFRS 17 tax impacts), and recommend precise amendments to the Inland Revenue Act. These recommendations would then be debated and passed as primary legislation, which would be transparent, democratic, and Constitutionally bulletproof.
+
+The Minister of Finance could incorporate specific IFRS 17 tax rules into the next Budget or a dedicated Finance (Amendment) Bill. This maintains Parliamentary control while allowing expert input through the Ministry. The CGIR would then administer the clear statutory framework, not create it.
+
+Either route preserves the Magna Carta principle: elected representatives decide the tax policy; officials implement it. It also gives the insurance industry certainty and prevents arbitrary rule-making that could favour or penalise specific players.
+
+Leading jurisdictions that have successfully aligned tax rules with IFRS 17, such as Australia and the United Kingdom, did so through primary legislation or tightly constrained ministerial regulations rather than open-ended commissioner powers. Australia enacted specific amendments to the Income Tax Assessment Act 1997, while the United Kingdom introduced dedicated statutory regulations providing a mandatory 10-year transitional spread. Sri Lanka can learn from these approaches to ensure robust parliamentary oversight and Constitutional compliance.
+
+The new Inland Revenue (Amendment) Bill arrives at a delicate moment. Sri Lanka is rebuilding investor confidence after economic turmoil. The insurance sector - guardian of pensions, life savings, and risk protection for millions, deserves stable, predictable taxation. Yet stability cannot come at the expense of Constitutional integrity.
+
+As the US Supreme Court reminded the world just a month ago, the power to tax is the power to destroy and therefore belongs exclusively to the people’s elected representatives. Sri Lanka’s Constitution echoes that truth in Article 148. We ignore it at our peril.
+
+This is no abstract legal debate. It is about who decides how much tax Sri Lankans pay - the people through Parliament, or a single unelected officer. The clock is ticking. The nation watches.
+
+(The author is  Attorney-at-Law, LLB,FCMA(UK),CGMA, FCMA and Principal, Head of Tax at KPMG. He was the Tax Practice Leader of the Year 2024 for the ASPAC region - International Tax Review (ITR) and was amongst the top four for the Tax Litigation and Disputes Practice Leader of the Year (ASPAC region) - International Tax Review (ITR))
