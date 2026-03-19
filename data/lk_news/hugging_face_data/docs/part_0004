@@ -107766,6 +107766,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-19-colombotelegraphcom-7fe63d33",
+    "num": "colombotelegraphcom-7fe63d33",
+    "date_str": "2026-03-19",
+    "description": "Close US-UK-France Military Bases To Decolonize The Indian Ocean",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/close-us-uk-france-military-bases-to-decolonize-the-indian-ocean/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1773933931.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-19-colombotelegraphcom-ef3ecab6",
+    "num": "colombotelegraphcom-ef3ecab6",
+    "date_str": "2026-03-19",
+    "description": "From Dominance To Disarray: What The Iran Conflict Reveals About U.S. Power",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/from-dominance-to-disarray-what-the-iran-conflict-reveals-about-u-s-power/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1773934289.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-19-tamilmirrorlk-492ac796",
     "num": "tamilmirrorlk-492ac796",
     "date_str": "2026-03-19",

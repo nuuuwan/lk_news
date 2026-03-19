@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--20_01:55:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--20_03:52:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,156** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,158** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,8 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-03-19 | `tamilmirrorlk-492ac796` | கொழும்பு பெரிய பள்ளிவாசல் வெளியிட்ட விசேட அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-tamilmirrorlk-492ac796)
+- 2026-03-19 | `colombotelegraphcom-ef3ecab6` | From Dominance To Disarray: What The Iran Conflict Reveals About U.S. Power | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-colombotelegraphcom-ef3ecab6)
+- 2026-03-19 | `colombotelegraphcom-7fe63d33` | Close US-UK-France Military Bases To Decolonize The Indian Ocean | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-colombotelegraphcom-7fe63d33)
 - 2026-03-19 | `adalk-90b8c317` | කුලියාපිටිය හෙල්මට් චන්ඩියා අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-adalk-90b8c317)
 - 2026-03-19 | `virakesarilk-68abf082` | இப்தார் நிகழ்வில் ஜனாதிபதி பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-virakesarilk-68abf082)
 - 2026-03-19 | `virakesarilk-9ea2952f` | ஷவ்வால் தலைபிறை தென்படவில்லை; நோன்பு பெருநாள் நாளை மறுதினம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-virakesarilk-9ea2952f)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-19 | `virakesarilk-ea9e3511` | தித்வா சூறாவளி பாதிப்பு: ஜனாதிபதியிடம் மலையக சிவில் சமூகத்தின் 15 அம்சக் கோரிக்கைகள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-virakesarilk-ea9e3511)
 - 2026-03-19 | `tamilmirrorlk-16c4ed02` | ஹெல்மெட் ரவுடி சிக்கினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-tamilmirrorlk-16c4ed02)
 - 2026-03-19 | `tamilmirrorlk-0d51b53e` | அந்தரங்க உறுப்பை கடித்து குதறிய மனைவி: அந்த சுவையே காரணமாம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-tamilmirrorlk-0d51b53e)
-- 2026-03-19 | `adalk-d9d382fc` | කපිල චන්ද්‍රසේනට ලැබුණු මුදලින් මහින්දට හා ප්‍රියංකරට රු. කෝටි 8ක් දීලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-adalk-d9d382fc)
-- 2026-03-19 | `virakesarilk-85b3ac26` | 90,91 களில் படுகொலை செய்யப்பட்ட மக்களின் நினைவாக அராலிச் சந்தியில் நினைவுச் சதுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-virakesarilk-85b3ac26)
 
 ---
 
