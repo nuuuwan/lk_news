@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--19_04:43:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--19_06:17:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,030** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,058** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-19-dailyftlk-c3bb55a9",
-    "num": "dailyftlk-c3bb55a9",
+    "doc_id": "2026-03-19-dailyftlk-17ed89a9",
+    "num": "dailyftlk-17ed89a9",
     "date_str": "2026-03-19",
-    "description": "UN failure to broker a de-escalation is a tragedy for the world",
-    "url_metadata": "https://www.ft.lk/columns/UN-failure-to-broker-a-de-escalation-is-a-tragedy-for-the-world/4-789754",
+    "description": "South Asian icons from Bangladesh, Sri Lanka, India and Pakistan feature in 21st century\u2019s global merit poll",
+    "url_metadata": "https://www.ft.lk/business/South-Asian-icons-from-Bangladesh-Sri-Lanka-India-and-Pakistan-feature-in-21st-century-s-global-merit-poll/34-789774",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1773870867.0
+    "time_ut": 1773876774.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-19 | `dailyftlk-17ed89a9` | South Asian icons from Bangladesh, Sri Lanka, India and Pakistan feature in 21st century’s global merit poll | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-17ed89a9)
+- 2026-03-19 | `dailyftlk-195720c6` | Cabinet clears move to amend duty-free rules at Colombo Port City | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-195720c6)
+- 2026-03-19 | `dailyftlk-1029ef76` | Hayleys debenture issue oversubscribed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-1029ef76)
+- 2026-03-19 | `dailyftlk-cdeb4d8f` | PUCSL to decide on electricity tariff hike within March after consultations conclude | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-cdeb4d8f)
+- 2026-03-19 | `dailyftlk-7237a424` | Forbes Marshall Lanka wins Gold Flame at Sri Lanka National Energy Efficiency Awards 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-7237a424)
+- 2026-03-19 | `dailyftlk-492e0d9f` | “Sustainability Reporting for Corporates” seminar on 26 March | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-492e0d9f)
+- 2026-03-19 | `dailyftlk-de5279ec` | Govt. issues fresh circular to manage public service operations amid fuel crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-de5279ec)
+- 2026-03-19 | `dailyftlk-c8c7f0f4` | Education Ministry issues guidelines for four-day week | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-c8c7f0f4)
+- 2026-03-19 | `dailyftlk-4e8e92c4` | Opposition proceeds with no-confidence motion against Energy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-4e8e92c4)
+- 2026-03-19 | `dailyftlk-c1a0d63e` | 240-foot Bailey bridge with Indian funding opens in Chilaw | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-c1a0d63e)
+- 2026-03-19 | `dailyftlk-0e795c48` | Russia denies discussing  financial, logistical issues regarding energy supplies to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-0e795c48)
+- 2026-03-19 | `dailyftlk-363d9ce3` | Extra exposure to external shock; Existential war in the Middle-East | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-363d9ce3)
+- 2026-03-19 | `dailyftlk-ec2b30c4` | Wars, rumours of wars, and a game of oil and fire | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-ec2b30c4)
+- 2026-03-19 | `dailyftlk-23bf97df` | Naval hostilities off Sri Lanka and the need to preserve Indian Ocean as a zone of peace | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-23bf97df)
 - 2026-03-19 | `dailyftlk-c3bb55a9` | UN failure to broker a de-escalation is a tragedy for the world | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-c3bb55a9)
 - 2026-03-19 | `dailyftlk-f312fd46` | Does new IR Bill violate Constitution over IFRS 17? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-f312fd46)
 - 2026-03-19 | `dailyftlk-16cd9e53` | Importance of a benchmarking database for effective implementation of transfer pricing regulations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-16cd9e53)
 - 2026-03-19 | `dailyftlk-5d3acfbf` | National Fuel Pass and fiction of Sri Lanka’s digitalisation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-5d3acfbf)
+- 2026-03-19 | `tamilmirrorlk-1755e069` | ’த.வெ.க. எந்த கூட்டணியிலும் இல்லை’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-tamilmirrorlk-1755e069)
 - 2026-03-19 | `dailyftlk-3688722e` | Lessons from the past, what lesson may I ask?  Sri Lanka’s greatest disaster | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-dailyftlk-3688722e)
-- 2026-03-18 | `tamilmirrorlk-681ed5a3` | ஹொர்மூஸால் மேலும் கப்பல்களை அனுமதிக்கும் ஈரான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-681ed5a3)
-- 2026-03-18 | `adalk-f29952a6` | ඔන්ලයින් ව්‍යාපාර සහ කුරියර් සර්විස් ලියාපදිංචිය අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-adalk-f29952a6)
-- 2026-03-18 | `virakesarilk-35c41520` | ஈரானின் புலனாய்வுத்துறை அமைச்சர் இஸ்மாயில் கதிப் தாக்குதலில் கொல்லப்பட்டார் - இஸ்ரேல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-virakesarilk-35c41520)
-- 2026-03-18 | `adalk-7c27df26` | ඉන්ධන බලපත්‍රයට ලියාපදංචි සහායට වට්ස්ඇප් අංකයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-adalk-7c27df26)
-- 2026-03-18 | `tamilmirrorlk-21273135` | உங்களுக்கு தெரியாத வட கொரியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-21273135)
-- 2026-03-18 | `adalk-e2922ae5` | මීට පෙර භාවිත නොකළ අවි අපි දැන් භාවිත කරනවා - ඉරානය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-adalk-e2922ae5)
-- 2026-03-18 | `tamilmirrorlk-0473dfd2` | செவ்வாய் கிரகத்தில் பிரமிட்டுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-0473dfd2)
-- 2026-03-18 | `tamilmirrorlk-e863f13a` | தப்பிக்கும் நீதி... பறக்கும் அதிகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-e863f13a)
-- 2026-03-18 | `tamilmirrorlk-11a8e4e2` | ’பங்கர் பஸ்டர்’ குண்டுகளால் அமெரிக்கா அதிரடி தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-11a8e4e2)
-- 2026-03-18 | `virakesarilk-d57f5e58` | கைப்பற்றப்படும் போதைப்பொருட்களை விரைவாக அழிப்பதற்கான சட்ட திருத்தங்களை துரிதப்படுத்துமாறு ஜனாதிபதி பணிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-virakesarilk-d57f5e58)
-- 2026-03-18 | `virakesarilk-2c08b61b` | “SHIPWRECKS AROUND SRI LANKA” என்ற இணையதள வெளியீட்டுக்கு கடற்படையின் உதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-virakesarilk-2c08b61b)
-- 2026-03-18 | `tamilmirrorlk-904591a6` | உச்சக்கட்டப் பதற்றத்தில் மத்திய கிழக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-904591a6)
-- 2026-03-18 | `virakesarilk-26419bc9` | சட்டத்தை மதிப்பதே தற்போதைய நெருக்கடிக்கு ஒரே தீர்வு : பொலிஸ் ஊடகப் பேச்சாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-virakesarilk-26419bc9)
-- 2026-03-18 | `tamilmirrorlk-359e861b` | போதைப்பொருள்:  81 சிறுமிகளுடன் 1,772 சிறுவர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-tamilmirrorlk-359e861b)
-- 2026-03-18 | `virakesarilk-b82c53e1` | பண்டாரகம உயன்வத்த வாவியில் நீராடிய நபர் நீரில் மூழ்கி மாயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-18-virakesarilk-b82c53e1)
 
 ---
 
