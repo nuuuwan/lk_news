@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--20_17:58:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--20_20:02:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,313** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,318** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-20-tamilmirrorlk-e58764b3",
-    "num": "tamilmirrorlk-e58764b3",
+    "doc_id": "2026-03-20-tamilmirrorlk-71deb4fd",
+    "num": "tamilmirrorlk-71deb4fd",
     "date_str": "2026-03-20",
-    "description": "\u0b86\u0baa\u0bbe\u0b9a \u0b9a\u0bc8\u0b95\u0bc8 \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0baa\u0bbe\u0b9a-\u0b9a\u0bc8\u0b95\u0bc8-\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd/175-374249",
+    "description": "\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u2019\u0bb2\u0bca\u0b95\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb2\u0bca\u0b95\u0bcd/62-374252",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1774009155.0
+    "time_ut": 1774011880.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-20 | `tamilmirrorlk-71deb4fd` | மஹிந்தவுக்கு ’லொக்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-tamilmirrorlk-71deb4fd)
+- 2026-03-20 | `tamilmirrorlk-51d4fe3e` | “போர் நீடித்தால் மேலும் சவால்கள் எழலாம்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-tamilmirrorlk-51d4fe3e)
+- 2026-03-20 | `tamilmirrorlk-2e6aa08e` | கவச வாகனத்தை ஓட்டிய கிம் ஜொங்-உன்னின் மகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-tamilmirrorlk-2e6aa08e)
 - 2026-03-20 | `tamilmirrorlk-e58764b3` | ஆபாச சைகை காட்டிய அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-tamilmirrorlk-e58764b3)
 - 2026-03-20 | `virakesarilk-b312753e` | இளம்தாய் உயிருடன் மீட்கப்பட்ட கிணற்றினுள் இருந்து அழுகிய சடலமொன்று கண்டுபிடிப்பு ; வயல் பகுதியில் இரண்டரை வயது குழந்தையும் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-b312753e)
 - 2026-03-20 | `tamilmirrorlk-87b1bb2c` | சதொசவில் 100 பொருட்களின் விலைகள் குறைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-tamilmirrorlk-87b1bb2c)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-03-20 | `virakesarilk-cc8d65e6` | மத்திய கிழக்கு நெருக்கடி : சர்வதேச கவனத்தை ஈர்த்துள்ள மத்தள விமான நிலையத்தை மாற்று மையமாக்கும் திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-cc8d65e6)
 - 2026-03-20 | `virakesarilk-b0991448` | நடிகர் ஷேன் நிஹாம் நடிக்கும் புதிய படத்திற்கான பிரத்யேக அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-b0991448)
 - 2026-03-20 | `virakesarilk-d45a7efb` | யாழ். பல்கலைக்கழகம் சிங்கள மயமாக்கப்பட்டு வருகிறது ; அதிர்ச்சித் தகவலை வெளியிட்ட கவிதரன்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-d45a7efb)
-- 2026-03-20 | `virakesarilk-31f50023` | முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோ உட்பட ஐவருக்கு மீண்டும் விளக்கமறியல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-31f50023)
-- 2026-03-20 | `virakesarilk-12df951e` | சுகாதார சேவையைப் பேண போதுமான எரிபொருள் கையிருப்பில் உள்ளது: பாராளுமன்றத்தில் ஜனாதிபதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-12df951e)
-- 2026-03-20 | `virakesarilk-2179374e` | செல்வராகவன் நடிக்கும் 'மனிதனும் தெய்வமாகலாம்' படத்தின் புதிய பாடலுக்கான காணொளி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-2179374e)
 
 ---
 
