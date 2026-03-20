@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--20_03:52:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--20_06:15:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,158** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,184** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-19-tamilmirrorlk-492ac796",
-    "num": "tamilmirrorlk-492ac796",
-    "date_str": "2026-03-19",
-    "description": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0bb5\u0bbe\u0b9a\u0bb2\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0baa\u0bc6\u0bb0\u0bbf\u0baf-\u0baa\u0bb3\u0bcd\u0bb3\u0bbf\u0bb5\u0bbe\u0b9a\u0bb2\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-374227",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1773936878.0
+    "doc_id": "2026-03-20-dailyftlk-0b73be73",
+    "num": "dailyftlk-0b73be73",
+    "date_str": "2026-03-20",
+    "description": "Ravi says former President Wickremesinghe underwent surgery in Singapore",
+    "url_metadata": "https://www.ft.lk/news/Ravi-says-former-President-Wickremesinghe-underwent-surgery-in-Singapore/56-789792",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1773967302.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-20 | `dailyftlk-0b73be73` | Ravi says former President Wickremesinghe underwent surgery in Singapore | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-dailyftlk-0b73be73)
+- 2026-03-20 | `dailyftlk-d1b7141d` | Cabinet green lights MoU with India for Rs. 264.6 m grant to provide electric motorcycles to fisheries field officers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-dailyftlk-d1b7141d)
+- 2026-03-20 | `virakesarilk-aab38822` | விவசாயிகளுக்கு எரிபொருள் சிக்கல் இல்லாமல் வழங்க அரசு நடவடிக்கை - நாமல்  கருணாரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-aab38822)
+- 2026-03-20 | `virakesarilk-fb93c3c0` | அத்தியாவசிய உணவுப் பொருட்களின் விலைகளில் மாற்றம் - நிஹால் செனவிரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-fb93c3c0)
+- 2026-03-20 | `virakesarilk-84efe53a` | இலஞ்சம் கோரி பெற்ற தெஹியோவிட்ட வன அலுவலக அதிகாரிகள் உட்பட 5 பேர் இலஞ்ச ஊழல் விசாரணைப் பிரிவினரால் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-84efe53a)
+- 2026-03-20 | `virakesarilk-e4f91656` | நுவரெலியா சுற்றுலாவுக்கு எரிபொருள் சலுகை கோரிக்கை - இராதாகிருஷ்ணன் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-e4f91656)
+- 2026-03-20 | `virakesarilk-30bae8a4` | ஏகாதிபத்திய யுத்தத்தின் விளைவுகளை மக்கள் மீது சுமத்த வேன்டாம்; ஜனாதிபதி அண்மைய உரை தூரநோக்கற்றது - முன்னிலை சோசலிசக் கட்சி குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-30bae8a4)
+- 2026-03-20 | `virakesarilk-be694523` | ஏப்ரல் இறுதி வரையான எரிபொருள் இருப்பு உறுதிப்படுத்தப்பட்டுள்ளது; இலங்கை பெற்றோலிய கூட்டுத்தாபனம் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-be694523)
+- 2026-03-20 | `virakesarilk-2bb5f6b2` | “கபில சந்திரசேன மீது அழுத்தம்” – சானக மாதுகொட குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-2bb5f6b2)
+- 2026-03-20 | `virakesarilk-9f48fe23` | அறுவை சிகிச்சையின் பின்னர் முன்னாள் ஜனாதிபதி ரணில் குணமடைந்து வருகின்றார் - ஐ.தே.க. அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-9f48fe23)
+- 2026-03-20 | `virakesarilk-f9186360` | குமார ஜயகொடிக்கு எதிரான நம்பிக்கையில்லா பிரேரணை: ஏப்ரல் 10ல் விவாதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-f9186360)
+- 2026-03-20 | `tamilmirrorlk-1871e73d` | 115 டொலராக அதிகரித்த கச்சா எண்ணெய் விலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-tamilmirrorlk-1871e73d)
+- 2026-03-20 | `virakesarilk-cb3a6dc0` | மத்திய கிழக்கு நெருக்கடி:  ஜனாதிபதி தலைமையில் அடுத்தகட்ட நடவடிக்கைகள் குறித்து கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-cb3a6dc0)
+- 2026-03-20 | `virakesarilk-bf8075b3` | நெருக்கடிக்கு மத்தியிலும் அத்தியாவசிய சேவைகள் மற்றும் கைத்தொழில்களைத் தடையின்றி முன்னெடுப்பதே எமது இலக்கு - பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-bf8075b3)
+- 2026-03-20 | `virakesarilk-f689e56e` | ஏற்றுமதிக்கு முன்னுரிமை அளித்து, இத்துறை எதிர்நோக்கும் சவால்களை வெற்றிகொள்ள அரசாங்கம் அதிகபட்சம் தலையிடும் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-20-virakesarilk-f689e56e)
+- 2026-03-19 | `islandlk-f246423b` | Bourse indices plunge as oil hits the USD 112 per barrel mark | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-islandlk-f246423b)
+- 2026-03-19 | `islandlk-0b0fef5d` | To reach US$8 billion, Sri Lanka apparel must grow differently | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-islandlk-0b0fef5d)
 - 2026-03-19 | `tamilmirrorlk-492ac796` | கொழும்பு பெரிய பள்ளிவாசல் வெளியிட்ட விசேட அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-tamilmirrorlk-492ac796)
 - 2026-03-19 | `colombotelegraphcom-ef3ecab6` | From Dominance To Disarray: What The Iran Conflict Reveals About U.S. Power | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-colombotelegraphcom-ef3ecab6)
 - 2026-03-19 | `colombotelegraphcom-7fe63d33` | Close US-UK-France Military Bases To Decolonize The Indian Ocean | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-colombotelegraphcom-7fe63d33)
-- 2026-03-19 | `adalk-90b8c317` | කුලියාපිටිය හෙල්මට් චන්ඩියා අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-adalk-90b8c317)
-- 2026-03-19 | `virakesarilk-68abf082` | இப்தார் நிகழ்வில் ஜனாதிபதி பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-virakesarilk-68abf082)
-- 2026-03-19 | `virakesarilk-9ea2952f` | ஷவ்வால் தலைபிறை தென்படவில்லை; நோன்பு பெருநாள் நாளை மறுதினம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-virakesarilk-9ea2952f)
-- 2026-03-19 | `virakesarilk-d3f409a2` | அவீஷ, சேனுஜ, யெனுல அரைச் சதங்கள் குவிப்பு; பலமான நிலையில் புனித சூசையப்பர் அணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-virakesarilk-d3f409a2)
-- 2026-03-19 | `tamilmirrorlk-6fc29061` | கள்ளக் காதலனுக்கு அடித்த Double லக் ; கணவன் ட்விஸ்ட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-tamilmirrorlk-6fc29061)
-- 2026-03-19 | `tamilmirrorlk-f0bc09af` | ஜனாதிபதி மாளிகையில் இப்தார் நிகழ்வு... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-tamilmirrorlk-f0bc09af)
-- 2026-03-19 | `tamilmirrorlk-0d68f0bf` | கனேடிய மத்திய வங்கி விடுத்துள்ள முக்கிய அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-tamilmirrorlk-0d68f0bf)
-- 2026-03-19 | `tamilmirrorlk-66bc4849` | கால வரம்பு மீறினால் இலவசம்; கனேடிய அரசின் புதிய உத்தரவாதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-tamilmirrorlk-66bc4849)
-- 2026-03-19 | `tamilmirrorlk-dbf6c465` | எதிர்பாரா ட்விஸ்ட்; விஜய் தேர்தலிலேயே நிற்க முடியாதாம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-tamilmirrorlk-dbf6c465)
-- 2026-03-19 | `virakesarilk-4ed93af5` | இந்தியாவில் நடைபெற்ற இலங்கை உள்ளூராட்சி மன்ற பிரதிநிதிகளுக்கான ஆளுமை விருத்தி திட்டம் நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-virakesarilk-4ed93af5)
-- 2026-03-19 | `virakesarilk-a4aa752f` | மத்திய கிழக்கு போர்: அரசாங்கம் பூசி நலுவுகிறது - ரவூப் ஹக்கீம் கடும் விமர்சனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-virakesarilk-a4aa752f)
-- 2026-03-19 | `virakesarilk-57063125` | சிலாபத்தில் 240 அடி நீள பெய்லி பாலம் திறப்பு: டித்வா புயலுக்குப் பிறகு இந்தியாவின் மீள்நிர்மாண உதவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-virakesarilk-57063125)
-- 2026-03-19 | `virakesarilk-d6a88fbb` | பம்பலப்பிட்டி ரயில் நிலையம் நவீனமயமாக்கல் ஆரம்பம் : 60 மில்லியன் ரூபா செலவில் 5 மாதங்களில் பணிகள் நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-virakesarilk-d6a88fbb)
-- 2026-03-19 | `virakesarilk-9e1c885d` | மத்திய கிழக்கு போர்: இலங்கை எவருக்கும் ஆதரவில்லை! - அமைச்சர் விஜித ஹேரத் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-virakesarilk-9e1c885d)
-- 2026-03-19 | `virakesarilk-ea9e3511` | தித்வா சூறாவளி பாதிப்பு: ஜனாதிபதியிடம் மலையக சிவில் சமூகத்தின் 15 அம்சக் கோரிக்கைகள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-virakesarilk-ea9e3511)
-- 2026-03-19 | `tamilmirrorlk-16c4ed02` | ஹெல்மெட் ரவுடி சிக்கினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-tamilmirrorlk-16c4ed02)
-- 2026-03-19 | `tamilmirrorlk-0d51b53e` | அந்தரங்க உறுப்பை கடித்து குதறிய மனைவி: அந்த சுவையே காரணமாம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-19-tamilmirrorlk-0d51b53e)
 
 ---
 
