@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--21_23:51:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--22_01:48:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,441** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,445** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,9 +46,12 @@ A collection of lk_news documents.
 - 2026-03-21 | `adalk-b16dc28f` | ඉන්ධන කෝටාව ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-adalk-b16dc28f)
 - 2026-03-21 | `tamilmirrorlk-7bdbf096` | இன்று நள்ளிரவு முதல் எரிபொருள் ஒதுக்கீடு அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-tamilmirrorlk-7bdbf096)
 - 2026-03-21 | `virakesarilk-4da324ef` | எரிபொருள் விநியோக அளவு அதிகரிப்பு – கியூ. ஆர். முறையில் புதிய அளவுகள் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-4da324ef)
+- 2026-03-21 | `colombotelegraphcom-542f3386` | Preserving Unity Through Certainty: Rethinking Moon Sighting In Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-colombotelegraphcom-542f3386)
+- 2026-03-21 | `colombotelegraphcom-6a623334` | Trump The Rat When Under Attack Also Hides In Bomb Shelters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-colombotelegraphcom-6a623334)
 - 2026-03-21 | `tamilmirrorlk-46ca2b92` | யாழ். பல்கலைக்கழக விரிவுரையாளர் மருமகனால் அடித்துக் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-tamilmirrorlk-46ca2b92)
 - 2026-03-21 | `adalk-18ebe211` | බිම තිබූ ගුවන් යානා 6කට වසරකට ඩොලර් ලක්ෂ 138ක් කල්බදු ලෙස ගෙවලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-adalk-18ebe211)
 - 2026-03-21 | `virakesarilk-602abdbd` | இந்தியாவின் புத்தாக்க புரட்சியின் இதயம் T-Hub | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-602abdbd)
+- 2026-03-21 | `colombotelegraphcom-a71355c7` | The Sovereign Power: A Strategic Roadmap For Sri Lanka’s Energy & Economic Renaissance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-colombotelegraphcom-a71355c7)
 - 2026-03-21 | `virakesarilk-75c58af6` | அதிவேக நெடுஞ்சாலைகளில் வாகனங்களில் பயணிப்போர் ஆசனப்பட்டி அணிவது தொடர்பான சட்டத்தை நடைமுறைப்படுத்துவது ஒத்திவைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-75c58af6)
 - 2026-03-21 | `virakesarilk-b99146c0` | ஈரான் ஜனாதிபதியுடன் உரையாடினார் இந்திய பிரதமர் மோடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-b99146c0)
 - 2026-03-21 | `virakesarilk-8add3784` | யால சரணாலயத்திற்கு அருகில் துப்பாக்கிச் சூடு : சந்தேக நபர்கள் தப்பியோட்டம் ; பொலிஸார் வலைவீச்சு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-8add3784)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-03-21 | `virakesarilk-63c60740` | மோட்டார் சைக்கிள் விபத்து : இருவர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-63c60740)
 - 2026-03-21 | `virakesarilk-24d7e646` | நாட்டுக்கு வருகை தரும் வெளிநாட்டு சுற்றுலாப் பயணிகளின் எண்ணிக்கையில் வீழ்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-24d7e646)
 - 2026-03-21 | `virakesarilk-a426d55d` | 'Rebuilding Sri Lanka' நிதியத்திற்கு Symphony Orchestra of Sri Lanka நிதி நன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-a426d55d)
-- 2026-03-21 | `virakesarilk-ccb99278` | மருமகனால் கொல்லப்பட்ட யாழ். பல்கலைக்கழக விரிவுரையாளரின் சடலம் கண்டுபிடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-ccb99278)
-- 2026-03-21 | `virakesarilk-491eb865` | முதல் முதலாய்' சுயாதீன இசை அல்பம் மூலம் அறிமுகமாகும் நடிகர் ரிஷி தேவா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-491eb865)
-- 2026-03-21 | `virakesarilk-e6af2ff5` | நவீன் சந்திரா நடிக்கும் 'நீளிரா' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-e6af2ff5)
 
 ---
 
