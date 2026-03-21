@@ -110560,6 +110560,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-21-dbsjeyarajcom-44dc1720",
+    "num": "dbsjeyarajcom-44dc1720",
+    "date_str": "2026-03-21",
+    "description": "Tamil Actor Vijay\u2019s  TVK Party Faces Tamil Nadu Elections Alone While  Vijay\u2019s  Jaffna \u2013  born Wife  Sangeetha Seeks  Divorce  Alleging  an \u201cAdulterous Relationship:\u201d with an Actress.",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87466",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1774079820.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-21-virakesarilk-d26f39ba",
     "num": "virakesarilk-d26f39ba",
     "date_str": "2026-03-21",
@@ -110868,6 +110879,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-21-adalk-b16dc28f",
+    "num": "adalk-b16dc28f",
+    "date_str": "2026-03-21",
+    "description": "\u0d89\u0db1\u0dca\u0db0\u0db1 \u0d9a\u0ddd\u0da7\u0dcf\u0dc0 \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d9a\u0ddd\u0da7\u0dcf\u0dc0-\u0d89\u0dc4\u0dc5\u0da7/11-421768",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1774108115.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-21-adalk-5cb64683",
     "num": "adalk-5cb64683",
     "date_str": "2026-03-21",
@@ -110876,5 +110898,16 @@ ews",
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1774109427.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-21-tamilmirrorlk-765a5a93",
+    "num": "tamilmirrorlk-765a5a93",
+    "date_str": "2026-03-21",
+    "description": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b8e\u0b95\u0bbf\u0bb1\u0bbf\u0baf\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b8e\u0b95\u0bbf\u0bb1\u0bbf\u0baf\u0ba4\u0bc1/175-374278",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774112266.0
   }
 ]

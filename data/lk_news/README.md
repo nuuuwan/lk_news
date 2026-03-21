@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--21_21:50:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--21_23:51:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,438** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,441** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-21-adalk-5cb64683",
-    "num": "adalk-5cb64683",
+    "doc_id": "2026-03-21-tamilmirrorlk-765a5a93",
+    "num": "tamilmirrorlk-765a5a93",
     "date_str": "2026-03-21",
-    "description": "\u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dbb\u0db1 \u0d95\u0db1\u0dd1\u0db8 \u0db8\u0dd4\u0dbd\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dca\u0db1\u0dc0\u0dcf - \u0d89\u0dbb\u0dcf\u0db1 \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0d87\u0db8\u0dad\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0d9a\u0dbb\u0db1-\u0d95\u0db1\u0dd1\u0db8-\u0db8\u0dd4\u0dbd\u0db4\u0dd2\u0dbb\u0dd3\u0db8\u0d9a\u0dca-\u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dca\u0db1\u0dc0\u0dcf---\u0d89\u0dbb\u0dcf\u0db1-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0d87\u0db8\u0dad\u0dd2/11-421769",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1774109427.0
+    "description": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b8e\u0b95\u0bbf\u0bb1\u0bbf\u0baf\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b8e\u0b95\u0bbf\u0bb1\u0bbf\u0baf\u0ba4\u0bc1/175-374278",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774112266.0
 }
 ```
 
@@ -41,7 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-21 | `tamilmirrorlk-765a5a93` | எரிபொருள் விலை எகிறியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-tamilmirrorlk-765a5a93)
 - 2026-03-21 | `adalk-5cb64683` | යුද්ධය අවසන් කරන ඕනෑම මුලපිරීමක් පිළිගන්නවා - ඉරාන විදෙස් ඇමති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-adalk-5cb64683)
+- 2026-03-21 | `adalk-b16dc28f` | ඉන්ධන කෝටාව ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-adalk-b16dc28f)
 - 2026-03-21 | `tamilmirrorlk-7bdbf096` | இன்று நள்ளிரவு முதல் எரிபொருள் ஒதுக்கீடு அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-tamilmirrorlk-7bdbf096)
 - 2026-03-21 | `virakesarilk-4da324ef` | எரிபொருள் விநியோக அளவு அதிகரிப்பு – கியூ. ஆர். முறையில் புதிய அளவுகள் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-4da324ef)
 - 2026-03-21 | `tamilmirrorlk-46ca2b92` | யாழ். பல்கலைக்கழக விரிவுரையாளர் மருமகனால் அடித்துக் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-tamilmirrorlk-46ca2b92)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-21 | `virakesarilk-ccb99278` | மருமகனால் கொல்லப்பட்ட யாழ். பல்கலைக்கழக விரிவுரையாளரின் சடலம் கண்டுபிடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-ccb99278)
 - 2026-03-21 | `virakesarilk-491eb865` | முதல் முதலாய்' சுயாதீன இசை அல்பம் மூலம் அறிமுகமாகும் நடிகர் ரிஷி தேவா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-491eb865)
 - 2026-03-21 | `virakesarilk-e6af2ff5` | நவீன் சந்திரா நடிக்கும் 'நீளிரா' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-e6af2ff5)
-- 2026-03-21 | `virakesarilk-a5371454` | எதிர்க்கட்சியினர் எத்தகைய துரோகம் செய்தாலும் அரசு நாட்டையும் மக்களையும் பாதுகாக்கும் நேரிய வழியில் பயணிக்கும் - அமைச்சர் சந்திரசேகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-a5371454)
-- 2026-03-21 | `virakesarilk-013c11cc` | 162ஆவது பொலிஸ் நினைவு தின நிகழ்வு - உயிர்நீத்த வீரர்களுக்கு கௌரவம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-013c11cc)
 
 ---
 
