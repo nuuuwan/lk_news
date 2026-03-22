@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--22_03:46:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--22_06:17:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,449** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,464** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -47,20 +47,20 @@ A collection of lk_news documents.
 - 2026-03-21 | `adalk-b16dc28f` | ඉන්ධන කෝටාව ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-adalk-b16dc28f)
 - 2026-03-21 | `tamilmirrorlk-7bdbf096` | இன்று நள்ளிரவு முதல் எரிபொருள் ஒதுக்கீடு அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-tamilmirrorlk-7bdbf096)
 - 2026-03-21 | `virakesarilk-4da324ef` | எரிபொருள் விநியோக அளவு அதிகரிப்பு – கியூ. ஆர். முறையில் புதிய அளவுகள் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-4da324ef)
+- 2026-03-21 | `islandlk-ee41cacc` | Journey’s end: Reflecting, speaking, and writing on Martin Wickramasinghe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-islandlk-ee41cacc)
+- 2026-03-21 | `islandlk-e1e62ff9` | Britol and GP Certified Drive a Revolutionary Shift with the Introduction of Certified Recycled Plastics in FMCG Packaging | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-islandlk-e1e62ff9)
+- 2026-03-21 | `islandlk-3100ce62` | Fast-track fuel supply for exporters says EDB chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-islandlk-3100ce62)
+- 2026-03-21 | `islandlk-02c3c2a7` | HNB Sponsors 92nd Battle of the Saints as Official Banking Partner | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-islandlk-02c3c2a7)
+- 2026-03-21 | `islandlk-ebdf24bf` | Highest-Ever Profit by NSB in 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-islandlk-ebdf24bf)
+- 2026-03-21 | `islandlk-a6380748` | Free school uniform decision taken in minutes on a platform in Bakmuna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-islandlk-a6380748)
+- 2026-03-21 | `islandlk-813c1866` | Dharmaraja Rugby Rising from Lake View to Restore a Historic Legacy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-islandlk-813c1866)
 - 2026-03-21 | `colombotelegraphcom-542f3386` | Preserving Unity Through Certainty: Rethinking Moon Sighting In Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-colombotelegraphcom-542f3386)
 - 2026-03-21 | `colombotelegraphcom-6a623334` | Trump The Rat When Under Attack Also Hides In Bomb Shelters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-colombotelegraphcom-6a623334)
 - 2026-03-21 | `tamilmirrorlk-46ca2b92` | யாழ். பல்கலைக்கழக விரிவுரையாளர் மருமகனால் அடித்துக் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-tamilmirrorlk-46ca2b92)
 - 2026-03-21 | `adalk-18ebe211` | බිම තිබූ ගුවන් යානා 6කට වසරකට ඩොලර් ලක්ෂ 138ක් කල්බදු ලෙස ගෙවලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-adalk-18ebe211)
 - 2026-03-21 | `virakesarilk-cd9e8e97` | ஒருபுறம் மத்திய கிழக்கு போரின் நெருக்கடியினால் ''மகா வலி'' ; மறுபுறம் அரசின் ''மகாவலி''! - ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-cd9e8e97)
 - 2026-03-21 | `virakesarilk-602abdbd` | இந்தியாவின் புத்தாக்க புரட்சியின் இதயம் T-Hub | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-602abdbd)
-- 2026-03-21 | `virakesarilk-4be26220` | யுத்தத்தில் அரசாங்கம் நடுநிலையாக இருக்கிறதா? ; அரசின் வெளிநாட்டுக் கொள்கையில் சிக்கல் - கபீர் ஹாசிம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-4be26220)
-- 2026-03-21 | `colombotelegraphcom-a71355c7` | The Sovereign Power: A Strategic Roadmap For Sri Lanka’s Energy & Economic Renaissance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-colombotelegraphcom-a71355c7)
-- 2026-03-21 | `virakesarilk-75c58af6` | அதிவேக நெடுஞ்சாலைகளில் வாகனங்களில் பயணிப்போர் ஆசனப்பட்டி அணிவது தொடர்பான சட்டத்தை நடைமுறைப்படுத்துவது ஒத்திவைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-75c58af6)
-- 2026-03-21 | `virakesarilk-b99146c0` | ஈரான் ஜனாதிபதியுடன் உரையாடினார் இந்திய பிரதமர் மோடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-b99146c0)
-- 2026-03-21 | `virakesarilk-0ebe13ae` | மத்திய கிழக்கு மோதல்களினால் இலங்கைக்கு கணிசமானளவு பாதிப்பு - நாணய நிதியம் கரிசனை; 5, 6ஆம் கட்ட மீளாய்வுகளுக்காக 26இல் இலங்கை வருகிறது அதிகாரிகள் குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-0ebe13ae)
-- 2026-03-21 | `virakesarilk-8add3784` | யால சரணாலயத்திற்கு அருகில் துப்பாக்கிச் சூடு : சந்தேக நபர்கள் தப்பியோட்டம் ; பொலிஸார் வலைவீச்சு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-8add3784)
-- 2026-03-21 | `virakesarilk-6ac0bcec` | டித்வா புயலால் பாதிக்கப்பட்ட மலையகத் தமிழ் மக்களின் பிரச்சினை குறித்து ஜனாதிபதிக்கு அறிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-6ac0bcec)
-- 2026-03-21 | `virakesarilk-0dca577b` | ஈரான் மீது தரைவழித் தாக்குதல் நடத்த அமெரிக்கா திட்டம்! - “ட்ரம்புக்கு ஒரு ஆச்சரியம் காத்திருக்கிறது” - ஈரான் இராணுவம் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-0dca577b)
+- 2026-03-21 | `islandlk-dcbd3df3` | Consciousness (Mind) – Buddhist explanation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-islandlk-dcbd3df3)
 
 ---
 
