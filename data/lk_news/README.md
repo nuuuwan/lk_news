@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--22_06:17:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--22_08:48:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,464** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,467** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-21-virakesarilk-6d5b83da",
-    "num": "virakesarilk-6d5b83da",
-    "date_str": "2026-03-21",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bbf\u0bb0\u0bb5\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/241593",
+    "doc_id": "2026-03-22-tamilmirrorlk-e59b385d",
+    "num": "tamilmirrorlk-e59b385d",
+    "date_str": "2026-03-22",
+    "description": "\u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0bae\u0bbf\u0baf \u0baa\u0bc7\u0bb0\u0bb5\u0bc8 \u0b85\u0bae\u0bc8\u0b95\u0bcd\u0b95 \u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0bae\u0bbf\u0baf-\u0baa\u0bc7\u0bb0\u0bb5\u0bc8-\u0b85\u0bae\u0bc8\u0b95\u0bcd\u0b95-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1/50-374292",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1774117740.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774147695.0
 }
 ```
 
@@ -41,8 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-22 | `tamilmirrorlk-e59b385d` | இஸ்லாமிய பேரவை அமைக்க ஈரான் ஜனாதிபதி அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-tamilmirrorlk-e59b385d)
+- 2026-03-22 | `tamilmirrorlk-9e58f55b` | ஈரான் ஜனாதிபதி - இந்திய பிரதமர் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-tamilmirrorlk-9e58f55b)
 - 2026-03-21 | `virakesarilk-6d5b83da` | இன்றிரவு முதல் எரிபொருள் விலைகள் அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-6d5b83da)
 - 2026-03-21 | `tamilmirrorlk-765a5a93` | எரிபொருள் விலை எகிறியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-tamilmirrorlk-765a5a93)
+- 2026-03-21 | `adalk-5f94e239` | ඩීසල් පෙට්‍රල් වැඩි මිළකින් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-adalk-5f94e239)
 - 2026-03-21 | `adalk-5cb64683` | යුද්ධය අවසන් කරන ඕනෑම මුලපිරීමක් පිළිගන්නවා - ඉරාන විදෙස් ඇමති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-adalk-5cb64683)
 - 2026-03-21 | `adalk-b16dc28f` | ඉන්ධන කෝටාව ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-adalk-b16dc28f)
 - 2026-03-21 | `tamilmirrorlk-7bdbf096` | இன்று நள்ளிரவு முதல் எரிபொருள் ஒதுக்கீடு அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-tamilmirrorlk-7bdbf096)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-03-21 | `colombotelegraphcom-6a623334` | Trump The Rat When Under Attack Also Hides In Bomb Shelters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-colombotelegraphcom-6a623334)
 - 2026-03-21 | `tamilmirrorlk-46ca2b92` | யாழ். பல்கலைக்கழக விரிவுரையாளர் மருமகனால் அடித்துக் கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-tamilmirrorlk-46ca2b92)
 - 2026-03-21 | `adalk-18ebe211` | බිම තිබූ ගුවන් යානා 6කට වසරකට ඩොලර් ලක්ෂ 138ක් කල්බදු ලෙස ගෙවලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-adalk-18ebe211)
-- 2026-03-21 | `virakesarilk-cd9e8e97` | ஒருபுறம் மத்திய கிழக்கு போரின் நெருக்கடியினால் ''மகா வலி'' ; மறுபுறம் அரசின் ''மகாவலி''! - ரவிகரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-cd9e8e97)
-- 2026-03-21 | `virakesarilk-602abdbd` | இந்தியாவின் புத்தாக்க புரட்சியின் இதயம் T-Hub | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-virakesarilk-602abdbd)
-- 2026-03-21 | `islandlk-dcbd3df3` | Consciousness (Mind) – Buddhist explanation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-21-islandlk-dcbd3df3)
 
 ---
 
