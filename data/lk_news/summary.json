@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-03-23 01:47:46",
-  "n_docs": 106577,
+  "time_updated": "2026-03-23 03:47:28",
+  "n_docs": 106591,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 106577,
+  "n_docs_with_text": 106591,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-03-22",
-  "dataset_size": 1638564420,
+  "date_str_max": "2026-03-23",
+  "dataset_size": 1638655191,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
+    "si",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-22-virakesarilk-75cf76ec",
-    "num": "virakesarilk-75cf76ec",
-    "date_str": "2026-03-22",
-    "description": "\u0b89\u0ba3\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd ; \u0b89\u0ba3\u0bb5\u0b95 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0bb9\u0bb0\u0bcd\u0bb7\u0ba9 \u0bb0\u0bc1\u0b95\u0bcd\u0bb7\u0bbe\u0ba9\u0bcd \u0bb5\u0bb2\u0bbf\u0baf\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/241680",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1774190400.0
+    "doc_id": "2026-03-23-dailyftlk-7e163a79",
+    "num": "dailyftlk-7e163a79",
+    "date_str": "2026-03-23",
+    "description": "Iran MP claims $ 2 m fee on ships in Hormuz",
+    "url_metadata": "https://www.ft.lk/news/Iran-MP-claims-2-m-fee-on-ships-in-Hormuz/56-789927",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774217774.0
   }
 }
