@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--22_21:50:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--22_23:52:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,576** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,577** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2026-03-22 | `virakesarilk-0d971cec` | யாழில் மீட்கப்பட்ட பெருமளவான எரிபொருள்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-virakesarilk-0d971cec)
 - 2026-03-22 | `virakesarilk-8443c34b` | எதிரிகளை தவிர அனைவருக்கும் ஹோர்முஸ் நீரிணை திறப்பு ; புதிய தடைகளை விதித்துள்ளது ஈரான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-virakesarilk-8443c34b)
 - 2026-03-22 | `tamilmirrorlk-e874338d` | பாழ் கிணற்று படுகொலை: தம்பதி உட்பட ஐவர் கைது; வாகனங்கள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-tamilmirrorlk-e874338d)
+- 2026-03-22 | `adalk-d5744770` | බස් ගාස්තුව සියයට 10කින් ඉහළට? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-adalk-d5744770)
 - 2026-03-22 | `tamilmirrorlk-65d30c6b` | துபாய் சொகுசு கார்கள் கென்யாவில் இறக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-tamilmirrorlk-65d30c6b)
 - 2026-03-22 | `adalk-8b67279c` | සමාවෙන්න අපේ තෙල් විකිණිලා ඉවරයි - ඉරානය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-adalk-8b67279c)
 - 2026-03-22 | `adalk-bac9b514` | ඉන්ධන නැතැයි අසත්‍ය සමජ මාධ්‍යයට කි සැකකරුවෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-adalk-bac9b514)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-03-22 | `virakesarilk-25078f29` | ஹொரணை - இரத்தினபுரி பிரதான வீதியில் விபத்து: ஒருவர் பலி, ஒருவர் படுகாயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-virakesarilk-25078f29)
 - 2026-03-22 | `virakesarilk-b1387195` | ஹோர்முஸ் நீரிணை வழியாக செல்லும் கப்பல்களுக்கு 20 இலட்சம் அமெரிக்க டொலர் அறவிடப்படும் - ஈரான் பாராளுமன்ற உறுப்பினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-virakesarilk-b1387195)
 - 2026-03-22 | `tamilmirrorlk-05c75dac` | ஆப்பிழுத்த டிரம்ப்: சிக்கியதை பாருங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-tamilmirrorlk-05c75dac)
-- 2026-03-22 | `virakesarilk-b2005c31` | விமான நிலையத்தில் 25 கிலோ எடையுள்ள பொன்கொரண்டி தாவரத்துடன் சீனப் பயணி ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-virakesarilk-b2005c31)
 
 ---
 

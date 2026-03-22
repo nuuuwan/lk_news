@@ -112342,6 +112342,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-22-adalk-d5744770",
+    "num": "adalk-d5744770",
+    "date_str": "2026-03-22",
+    "description": "\u0db6\u0dc3\u0dca \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0dc3\u0dd2\u0dba\u0dba\u0da7 10\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7?",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dc3\u0dca-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0-\u0dc3\u0dd2\u0dba\u0dba\u0da7-10\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7-/11-421781",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1774184045.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-22-tamilmirrorlk-e874338d",
     "num": "tamilmirrorlk-e874338d",
     "date_str": "2026-03-22",
