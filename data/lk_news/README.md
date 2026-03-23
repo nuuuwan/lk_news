@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--23_03:48:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--23_06:18:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,591** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,607** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-23-dailyftlk-7e163a79",
-    "num": "dailyftlk-7e163a79",
+    "doc_id": "2026-03-23-dailyftlk-0796a1bb",
+    "num": "dailyftlk-0796a1bb",
     "date_str": "2026-03-23",
-    "description": "Iran MP claims $ 2 m fee on ships in Hormuz",
-    "url_metadata": "https://www.ft.lk/news/Iran-MP-claims-2-m-fee-on-ships-in-Hormuz/56-789927",
+    "description": "Harsha questions fuel pricing formula, alleges lack of transparency",
+    "url_metadata": "https://www.ft.lk/news/Harsha-questions-fuel-pricing-formula-alleges-lack-of-transparency/56-789931",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1774217774.0
+    "time_ut": 1774218524.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-23 | `dailyftlk-0796a1bb` | Harsha questions fuel pricing formula, alleges lack of transparency | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-23-dailyftlk-0796a1bb)
+- 2026-03-23 | `dailyftlk-0335be2b` | Fuel hike to drive up cost of goods and services: Marikkar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-23-dailyftlk-0335be2b)
+- 2026-03-23 | `dailyftlk-8ce331da` | Vijitha Herath says Sri Lanka to fast-track Trincomalee oil tank farm redevelopment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-23-dailyftlk-8ce331da)
+- 2026-03-23 | `dailyftlk-013ac2b4` | CMC to reinstate parking charges from today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-23-dailyftlk-013ac2b4)
 - 2026-03-23 | `dailyftlk-7e163a79` | Iran MP claims $ 2 m fee on ships in Hormuz | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-23-dailyftlk-7e163a79)
 - 2026-03-23 | `dailyftlk-429da29c` | Sri Lanka establishes first dedicated Fire Safety Engineering Centre at University of Sri Jayewardenepura | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-23-dailyftlk-429da29c)
 - 2026-03-23 | `dailyftlk-83547c86` | Postponement of Sri Lanka Investment Forum 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-23-dailyftlk-83547c86)
@@ -55,12 +59,8 @@ A collection of lk_news documents.
 - 2026-03-23 | `dailyftlk-d647318c` | A tribute to Baba: On what would have been his 78th birthday - 21 March 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-23-dailyftlk-d647318c)
 - 2026-03-23 | `dailyftlk-c4d4581c` | Appreciation: Asoka Sriwickrama Abeyewardene | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-23-dailyftlk-c4d4581c)
 - 2026-03-23 | `dailyftlk-d9a14a3a` | Neutrality is not a strategy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-23-dailyftlk-d9a14a3a)
+- 2026-03-22 | `islandlk-26f976ec` | Sri Lanka’s biodiversity: A living laboratory from backyard to ocean depths | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-islandlk-26f976ec)
 - 2026-03-22 | `virakesarilk-75cf76ec` | உணவுப் பொருட்களின் விலையை அதிகரிக்க வேண்டாம் ; உணவக உரிமையாளர்களிடம் ஹர்ஷன ருக்ஷான் வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-virakesarilk-75cf76ec)
-- 2026-03-22 | `virakesarilk-46e90ecf` | டீசல் விலை அதிகரிப்பு: பேருந்து கட்டணத்தை 15 சதவீதத்தால் அதிகரிக்க வேண்டும் - கெமுனு விஜயரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-virakesarilk-46e90ecf)
-- 2026-03-22 | `virakesarilk-0d971cec` | யாழில் மீட்கப்பட்ட பெருமளவான எரிபொருள்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-virakesarilk-0d971cec)
-- 2026-03-22 | `virakesarilk-8443c34b` | எதிரிகளை தவிர அனைவருக்கும் ஹோர்முஸ் நீரிணை திறப்பு ; புதிய தடைகளை விதித்துள்ளது ஈரான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-virakesarilk-8443c34b)
-- 2026-03-22 | `tamilmirrorlk-e874338d` | பாழ் கிணற்று படுகொலை: தம்பதி உட்பட ஐவர் கைது; வாகனங்கள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-tamilmirrorlk-e874338d)
-- 2026-03-22 | `adalk-d5744770` | බස් ගාස්තුව සියයට 10කින් ඉහළට? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-22-adalk-d5744770)
 
 ---
 

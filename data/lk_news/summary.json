@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-03-23 03:47:28",
-  "n_docs": 106591,
+  "time_updated": "2026-03-23 06:18:06",
+  "n_docs": 106607,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 106591,
+  "n_docs_with_text": 106607,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-03-23",
-  "dataset_size": 1638655191,
+  "dataset_size": 1638910454,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-23-dailyftlk-7e163a79",
-    "num": "dailyftlk-7e163a79",
+    "doc_id": "2026-03-23-dailyftlk-0796a1bb",
+    "num": "dailyftlk-0796a1bb",
     "date_str": "2026-03-23",
-    "description": "Iran MP claims $ 2 m fee on ships in Hormuz",
-    "url_metadata": "https://www.ft.lk/news/Iran-MP-claims-2-m-fee-on-ships-in-Hormuz/56-789927",
+    "description": "Harsha questions fuel pricing formula, alleges lack of transparency",
+    "url_metadata": "https://www.ft.lk/news/Harsha-questions-fuel-pricing-formula-alleges-lack-of-transparency/56-789931",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1774217774.0
+    "time_ut": 1774218524.0
   }
 }
