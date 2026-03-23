@@ -108954,6 +108954,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-20-adalk-23af695a",
+    "num": "adalk-23af695a",
+    "date_str": "2026-03-20",
+    "description": "\u0dad\u0dd2\u0dbb\u0dc3\u0dbb \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9a\u0dbb\u0dab\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dba\u0dd9\u0d9a\u0dd4 \u0dbd\u0dd9\u0dc3 \u0db4\u0dd2\u0daf\u0dd4\u0db8\u0dca \u0dbd\u0dd0\u0db6\u0dd6 \u0d9a\u0ddc\u0db8\u0dbb\u0dca\u0dc2\u0dbd\u0dca \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0",
+    "url_metadata": "https://www.ada.lk/business/\u0dad\u0dd2\u0dbb\u0dc3\u0dbb-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0d9a\u0dbb\u0dab\u0dba\u0dda-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dd4\u0d9b\u0dba\u0dd9\u0d9a\u0dd4-\u0dbd\u0dd9\u0dc3-\u0db4\u0dd2\u0daf\u0dd4\u0db8\u0dca-\u0dbd\u0dd0\u0db6\u0dd6-\u0d9a\u0ddc\u0db8\u0dbb\u0dca\u0dc2\u0dbd\u0dca-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0/7-421752",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1773986639.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-20-virakesarilk-55d9bfd7",
     "num": "virakesarilk-55d9bfd7",
     "date_str": "2026-03-20",
@@ -112496,6 +112507,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-22-islandlk-68f4f091",
+    "num": "islandlk-68f4f091",
+    "date_str": "2026-03-22",
+    "description": "Policy certainty: The real investment test for Sri Lanka in 2026",
+    "url_metadata": "http://island.lk/policy-certainty-the-real-investment-test-for-sri-lanka-in-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774186500.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-22-islandlk-ccb99644",
     "num": "islandlk-ccb99644",
     "date_str": "2026-03-22",
@@ -112559,6 +112581,17 @@ ews",
     "lang": "en",
     "newspaper_id": "dbsjeyarajcom",
     "time_ut": 1774208100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-23-dbsjeyarajcom-c6b14cef",
+    "num": "dbsjeyarajcom-c6b14cef",
+    "date_str": "2026-03-23",
+    "description": "What Sri Lanka calls non-alignment is, in practice, something closer to strategic ambiguity, a refusal to make choices dressed up as a principled refusal to take sides. In a post-Trump world, where great powers weaponise trade, technology and supply chains as instruments of coercion, the President\u2019s posture leaves us exposed.",
+    "url_metadata": "https://dbsjeyaraj.com/dbsj/?p=87495",
+    "lang": "en",
+    "newspaper_id": "dbsjeyarajcom",
+    "time_ut": 1774208280.0
   },
   {
     "doc_type": "lk_news",
@@ -112870,6 +112903,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-23-adalk-4df7727c",
+    "num": "adalk-4df7727c",
+    "date_str": "2026-03-23",
+    "description": "\u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba \u0dad\u0dc0\u0dad\u0dca \u0dc3\u0dad\u0dd2 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca \u0dba\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0dd4\u0daf\u0dca\u0db0\u0dba-\u0dad\u0dc0\u0dad\u0dca-\u0dc3\u0dad\u0dd2-\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca-\u0dba\u0db1\u0dc0\u0dcf/11-421788",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1774240570.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-23-tamilmirrorlk-3da5f5a5",
     "num": "tamilmirrorlk-3da5f5a5",
     "date_str": "2026-03-23",
@@ -113010,5 +113054,38 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1774247626.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-23-adalk-f168b6a8",
+    "num": "adalk-f168b6a8",
+    "date_str": "2026-03-23",
+    "description": "\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0dda \u0dba\u0dd0\u0dba\u0dd2 \u0d9a\u0dd2\u0dba\u0db1 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0dda \u0d91\u0d9a\u0d9a\u0dca \u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0dda-\u0dba\u0dd0\u0dba\u0dd2-\u0d9a\u0dd2\u0dba\u0db1-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba-\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0dda-\u0d91\u0d9a\u0d9a\u0dca-\u0db1\u0dd9\u0db8\u0dd9\u0dba\u0dd2/11-421789",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1774248908.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-23-tamilmirrorlk-cbcbaeac",
+    "num": "tamilmirrorlk-cbcbaeac",
+    "date_str": "2026-03-23",
+    "description": "\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: 50 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd;  4 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0bae\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-50-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd-4-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bb5\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bae\u0bcd/50-374379",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774249017.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-23-adalk-57f87404",
+    "num": "adalk-57f87404",
+    "date_str": "2026-03-23",
+    "description": "\u0d85\u0dbb\u0dca\u0da2\u0dd4\u0dab\u0da7 \u0dc4\u0dcf \u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a\u0da7 \u0d85\u0db0\u0dd2\u0da0\u0ddd\u0daf\u0db1\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dbb\u0dca\u0da2\u0dd4\u0dab\u0da7-\u0dc4\u0dcf-\u0db0\u0db8\u0dca\u0db8\u0dd2\u0d9a\u0da7-\u0d85\u0db0\u0dd2\u0da0\u0ddd\u0daf\u0db1\u0dcf/11-421791",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1774250917.0
   }
 ]
