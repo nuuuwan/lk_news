@@ -113802,5 +113802,148 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1774297347.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-dailyftlk-c45e00e0",
+    "num": "dailyftlk-c45e00e0",
+    "date_str": "2026-03-24",
+    "description": "Powering stability: UK support for Sri Lanka\u2019s electric bus transition",
+    "url_metadata": "https://www.ft.lk/columns/Powering-stability-UK-support-for-Sri-Lanka-s-electric-bus-transition/4-789974",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774297620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-dailyftlk-24d72175",
+    "num": "dailyftlk-24d72175",
+    "date_str": "2026-03-24",
+    "description": "\u201cWhen America sneezes, Sri Lanka catches a cold!\u201d",
+    "url_metadata": "https://www.ft.lk/columns/When-America-sneezes-Sri-Lanka-catches-a-cold/4-789975",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774298198.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-dailyftlk-f2f85b1a",
+    "num": "dailyftlk-f2f85b1a",
+    "date_str": "2026-03-24",
+    "description": "The evolution of Withholding Taxes \u2013 a status quo",
+    "url_metadata": "https://www.ft.lk/columns/The-evolution-of-Withholding-Taxes-a-status-quo/4-789986",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774301762.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-dailyftlk-8bf5ac51",
+    "num": "dailyftlk-8bf5ac51",
+    "date_str": "2026-03-24",
+    "description": "Redefining \u201cReserves\u201d under Inland Revenue Act: Policy evolution or moving goalposts?",
+    "url_metadata": "https://www.ft.lk/columns/Redefining-Reserves-under-Inland-Revenue-Act-Policy-evolution-or-moving-goalposts/4-789987",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774301947.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-dailyftlk-2e99b00b",
+    "num": "dailyftlk-2e99b00b",
+    "date_str": "2026-03-24",
+    "description": "Rs. 520 m textile training complex opens in Ratmalana",
+    "url_metadata": "https://www.ft.lk/business/Rs-520-m-textile-training-complex-opens-in-Ratmalana/34-789991",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774302850.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-dailyftlk-c0b3cdea",
+    "num": "dailyftlk-c0b3cdea",
+    "date_str": "2026-03-24",
+    "description": "LAUGFS Gas announces new Board appointments",
+    "url_metadata": "https://www.ft.lk/business/LAUGFS-Gas-announces-new-Board-appointments/34-789992",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774302927.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-dailyftlk-0a2cacef",
+    "num": "dailyftlk-0a2cacef",
+    "date_str": "2026-03-24",
+    "description": "Sri Lanka, Australia to strengthen longstanding bilateral ties",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Australia-to-strengthen-longstanding-bilateral-ties/34-789993",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774302980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-dailyftlk-b56e4ca9",
+    "num": "dailyftlk-b56e4ca9",
+    "date_str": "2026-03-24",
+    "description": "Rasamanickam presses Govt. on missing persons, accountability gaps",
+    "url_metadata": "https://www.ft.lk/news/Rasamanickam-presses-Govt-on-missing-persons-accountability-gaps/56-789998",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774303622.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-dailyftlk-afc7b0c5",
+    "num": "dailyftlk-afc7b0c5",
+    "date_str": "2026-03-24",
+    "description": "Bread and bakery snacks prices up Rs. 10 across the board",
+    "url_metadata": "https://www.ft.lk/news/Bread-and-bakery-snacks-prices-up-Rs-10-across-the-board/56-789999",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774303750.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-dailyftlk-bf3016bd",
+    "num": "dailyftlk-bf3016bd",
+    "date_str": "2026-03-24",
+    "description": "Pakistan\u2019s 86th National Day celebrated in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/Pakistan-s-86th-National-Day-celebrated-in-Sri-Lanka/56-790000",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774303860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-dailyftlk-767e2bf5",
+    "num": "dailyftlk-767e2bf5",
+    "date_str": "2026-03-24",
+    "description": "India\u2019s Lok Sabha Speaker hosts Sri Lankan delegation, stresses parliamentary cooperation",
+    "url_metadata": "https://www.ft.lk/news/India-s-Lok-Sabha-Speaker-hosts-Sri-Lankan-delegation-stresses-parliamentary-cooperation/56-790001",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774304017.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-dailyftlk-bae3871b",
+    "num": "dailyftlk-bae3871b",
+    "date_str": "2026-03-24",
+    "description": "Lee Hedges to acquire full stake in Lanka Realty Developments for Rs. 3.16 b",
+    "url_metadata": "https://www.ft.lk/business/Lee-Hedges-to-acquire-full-stake-in-Lanka-Realty-Developments-for-Rs-3-16-b/34-790002",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774304196.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-dailyftlk-81a977ec",
+    "num": "dailyftlk-81a977ec",
+    "date_str": "2026-03-24",
+    "description": "Prym Intimates expands global footprint with new manufacturing facility in Vietnam",
+    "url_metadata": "https://www.ft.lk/business/Prym-Intimates-expands-global-footprint-with-new-manufacturing-facility-in-Vietnam/34-790003",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774304334.0
   }
 ]

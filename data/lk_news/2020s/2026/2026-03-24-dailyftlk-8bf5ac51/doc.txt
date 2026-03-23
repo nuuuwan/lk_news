@@ -1,0 +1,43 @@
+Redefining “Reserves” under Inland Revenue Act: Policy evolution or moving goalposts?
+
+The Inland Revenue (Amendment) Bill published recently in February 2026 proposes several revisions to the Inland Revenue Act, No. 24 of 2017. Among them, the amendment to the definition of “Reserves” under Section 18(5) stands out for its far reaching implications, particularly for corporates with accumulated losses.
+
+Under the draft amendments, “reserves” will be broadened to include negative retained earnings, accumulated losses, or deficits in reserves, while revaluation reserves remain excluded. Crucially, when a company has negative retained earnings or accumulated losses, such amounts must be deducted when computing the total of issued share capital and reserves for tax purposes. These changes are scheduled to take effect from 01 April 2025.
+
+Several restrictions and thresholds under Section 18—including those governing related party interest deductibility—depend on the size of a company’s issued share capital and reserves. Until now, accumulated losses were not explicitly required to be netted against reserves for this computation, allowing an interpretation favourable to taxpayers.
+
+By mandating that negative reserves reduce the equity base, the amendment significantly narrows this flexibility. Companies with substantial accumulated losses will now face:
+
+nHigher risk of disallowances where negative reserves materially erode the equity position ( subject to the six years carry forward rule )
+
+For loss making companies or those recovering from economic shocks, these changes introduce immediate and measurable tax costs.
+
+Prior to this legislative move, the judiciary had already addressed the issue. In Samson Rajarata v. CGIR, the Court held that accumulated losses do not form part of “reserves,” aligning the interpretation with established accounting principles.
+
+This raises important questions about the balance between judicial interpretation, legislative authority, and taxpayer expectations. To many taxpayers, amending the law so soon after a definitive court ruling risks creating the impression of rules being rewritten after the referee has made the call. For companies already facing economic hardship, revising statutory definitions in a way that increases their tax burden challenges notions of fairness, transparency, and consistency—key elements of a credible tax system.
+
+Governments naturally refine tax laws to address ambiguities or curb potential revenue leakages. However, how and when such amendments are introduced matters.
+
+When a legislative change directly reverses a judicial interpretation relied upon by taxpayers, it risks undermining confidence in the predictability of the tax environment. Tax systems function on trust—trust that definitions are stable, changes are principled, and adjustments are made with due regard to commercial realities.
+
+Abrupt reversals that elevate tax burdens, particularly on financially distressed enterprises, can give rise to a perception that the system is adversarial rather than supportive of economic recovery.
+
+With the amendment taking effect from 01 April 2025 (assuming enactment), businesses will need to reassess their reserves positions, model interest deductibility outcomes, evaluate capital injection needs, and review financing structures to mitigate potential disallowances. Early impact analysis is particularly critical for companies with large accumulated losses.
+
+This regulatory shift, however, is unfolding during one of the most challenging economic periods in recent years.
+
+Sri Lankan businesses are still recovering from the catastrophic Ditwa floods that struck the country in late November 2025, causing severe disruption to operations, supply chains, production cycles, and cash flows. Many companies suffered inventory losses, asset damage, extended downtime, and prolonged working capital strain—effects that continue to ripple through the economy. Compounding this, the ongoing Middle Eastern crisis has pushed global energy prices upward, disrupted shipping routes, increased freight costs, and heightened import dependency risks. In this environment the introduction of an amendment that tightens interest deductibility rules is, timing wise, deeply problematic
+
+Sri Lankan businesses are still recovering from the catastrophic Ditwa floods that struck the country in late November 2025, causing severe disruption to operations, supply chains, production cycles, and cash flows. Many companies suffered inventory losses, asset damage, extended downtime, and prolonged working capital strain—effects that continue to ripple through the economy.
+
+Compounding this, the ongoing Middle Eastern crisis has pushed global energy prices upward, disrupted shipping routes, increased freight costs, and heightened import dependency risks. For industries reliant on imported inputs, exporters dependent on predictable logistics, and SMEs operating on thin margins, these pressures have tightened liquidity and lengthened recovery timelines.
+
+In this environment, the introduction of an amendment that tightens interest deductibility rules is, timing wise, deeply problematic. Businesses already weakened by climate related shocks and geopolitical volatility now face an additional regulatory burden that could hinder capital rebuilding, investment planning, and long term sustainability.
+
+Implementing such a measure at this juncture risks undermining economic stabilisation efforts and slowing the private sector recovery that is essential for Sri Lanka’s broader fiscal and growth objectives.
+
+The proposed expansion of the definition of “reserves” marks a significant shift. While legislative refinement is necessary in a dynamic tax environment, overturning a recent judicial interpretation raises legitimate concerns about predictability, fairness, and taxpayer confidence.
+
+At a time when businesses are still recovering from severe climate impacts and external geopolitical shocks, the timing of this amendment deserves careful reconsideration. Sound tax reform should strengthen the stability and integrity of the system—not inadvertently destabilise it.
+
+(The author is Principal - Tax at KPMG and holds FCMA, CGMA FTII, ACA, MBA, B COM. Views and opinions expressed in this article are those of the author)
