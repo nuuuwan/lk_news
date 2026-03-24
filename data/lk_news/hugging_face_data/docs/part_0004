@@ -115235,6 +115235,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-24-colombotelegraphcom-f8401659",
+    "num": "colombotelegraphcom-f8401659",
+    "date_str": "2026-03-24",
+    "description": "The Liberal International Order\u2019s Death Rattles: Venezuela, Iran",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/the-liberal-international-orders-death-rattles-venezuela-iran/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1774357708.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-24-virakesarilk-d707005d",
     "num": "virakesarilk-d707005d",
     "date_str": "2026-03-24",
@@ -115254,6 +115265,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1774358400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-24-colombotelegraphcom-20a834d9",
+    "num": "colombotelegraphcom-20a834d9",
+    "date_str": "2026-03-24",
+    "description": "Reverend Father Aloysius Pieris \u2013 A Brave Priest Who Did Not Fear Controversy",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/reverend-father-aloysius-pieris-a-brave-priest-who-did-not-fear-controversy/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1774358447.0
   },
   {
     "doc_type": "lk_news",

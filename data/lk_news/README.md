@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--25_00:06:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--25_01:58:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,847** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,849** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -52,15 +52,15 @@ A collection of lk_news documents.
 - 2026-03-24 | `virakesarilk-aef6946a` | வலுசக்தி பொருளாதாரத்தை மேம்படுத்துவதற்காக விசேட நிபுணர் குழுவை நியமிக்க ஜனாதிபதி சமர்ப்பித்த முன்மொழிவுக்கு அமைச்சரவை அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-aef6946a)
 - 2026-03-24 | `virakesarilk-5b2e8dbb` | வருங்காலத்தில் எரிபொருள் இறக்குமதிக்கு பாதிப்பு ஏற்படக்கூடும் ; கையிருப்பில் உள்ள எரிபொருளை சிக்கனமாக பயன்படுத்துவது அரச, தனியார் துறையின் பொறுப்பாகும் - அத்தியாவசிய சேவைகள் ஆணையாளர் அலுவலகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-5b2e8dbb)
 - 2026-03-24 | `virakesarilk-d4c7de0d` | இலங்கைக்கான ஐ.நா. சபையின் வதிவிட ஒருங்கிணைப்பாளர் - வடக்கு ஆளுநர் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-d4c7de0d)
+- 2026-03-24 | `colombotelegraphcom-20a834d9` | Reverend Father Aloysius Pieris – A Brave Priest Who Did Not Fear Controversy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-colombotelegraphcom-20a834d9)
 - 2026-03-24 | `virakesarilk-87d26d60` | அரசாங்கத்திடம் எந்த  முகாமைத்துவமும் இல்லாமையே நெருக்கடிக்கு காரணம் - முஜிபுர் ரஹ்மான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-87d26d60)
 - 2026-03-24 | `virakesarilk-d707005d` | ஆசிய அபிவிருத்தி வங்கியினால் இலங்கைக்கு அங்கீகரிக்கப்பட்ட 380 மில். டொலர் நிதி, 480 மில். டொலர் வரை அதிகரிப்பு ; அதில் 200 மில். டொலர்களை உடனடியாக வழங்க இணக்கம் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-d707005d)
+- 2026-03-24 | `colombotelegraphcom-f8401659` | The Liberal International Order’s Death Rattles: Venezuela, Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-colombotelegraphcom-f8401659)
 - 2026-03-24 | `virakesarilk-c3ba2406` | பாடசாலை மாணவர்களுக்கு போதை மாத்திரைகளை விற்று வந்த நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-c3ba2406)
 - 2026-03-24 | `virakesarilk-a6cb2ac6` | சூர்யாவின் கருப்பு படத்திற்காக இணைந்த சிலம்பரசன்- சாய் அபயங்கர்- ஆர். ஜே பாலாஜி கூட்டணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-a6cb2ac6)
 - 2026-03-24 | `tamilmirrorlk-c29a45de` | “நான் தெரிவாகிவிட்டேன்: எனக்கு மகிழ்ச்சி” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-tamilmirrorlk-c29a45de)
 - 2026-03-24 | `virakesarilk-6b05bdc1` | நடிகர் சூர்யா வெளியிட்ட சர்வானந்த் நடிக்கும் பைக்கர் படத்தின் முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-6b05bdc1)
 - 2026-03-24 | `tamilmirrorlk-6a46f8df` | “மிரட்டுகிறார்கள்” ; சிறையில் துடிக்கும் இம்ரான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-tamilmirrorlk-6a46f8df)
-- 2026-03-24 | `virakesarilk-50ffcea2` | முனீஸ்காந்த் நடிக்கும் ' தி டார்ம் ' படத்தின் தொடக்க விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-50ffcea2)
-- 2026-03-24 | `virakesarilk-3f018a71` | ஜனாதிபதிக்கென ஒதுக்கப்பட்டிருந்த ஸ்ரீ ஜயவர்தனபுர பொது வைத்தியசாலையின் விசேட அறை இன்று முதல் பொதுமக்களின் பாவனைக்கு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-3f018a71)
 
 ---
 
