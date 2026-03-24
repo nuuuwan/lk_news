@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_03:52:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_06:14:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,717** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,733** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-24-dailyftlk-81a977ec",
-    "num": "dailyftlk-81a977ec",
+    "doc_id": "2026-03-24-dailyftlk-f1902cab",
+    "num": "dailyftlk-f1902cab",
     "date_str": "2026-03-24",
-    "description": "Prym Intimates expands global footprint with new manufacturing facility in Vietnam",
-    "url_metadata": "https://www.ft.lk/business/Prym-Intimates-expands-global-footprint-with-new-manufacturing-facility-in-Vietnam/34-790003",
+    "description": "CA Sri Lanka launches Faculty of Business Law and Regulatory Compliance to build legally proficient Chartered Accountants",
+    "url_metadata": "https://www.ft.lk/business/CA-Sri-Lanka-launches-Faculty-of-Business-Law-and-Regulatory-Compliance-to-build-legally-proficient-Chartered-Accountants/34-790006",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1774304334.0
+    "time_ut": 1774304716.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-24 | `dailyftlk-f1902cab` | CA Sri Lanka launches Faculty of Business Law and Regulatory Compliance to build legally proficient Chartered Accountants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-f1902cab)
+- 2026-03-24 | `dailyftlk-612aa807` | Dimuth Bhashitha Atapattu appointed Director General of Data Protection Authority | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-612aa807)
+- 2026-03-24 | `dailyftlk-61a135ea` | Cenmetrix achieves ISO 9001:2015 certification | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-61a135ea)
 - 2026-03-24 | `dailyftlk-81a977ec` | Prym Intimates expands global footprint with new manufacturing facility in Vietnam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-81a977ec)
 - 2026-03-24 | `dailyftlk-bae3871b` | Lee Hedges to acquire full stake in Lanka Realty Developments for Rs. 3.16 b | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-bae3871b)
 - 2026-03-24 | `dailyftlk-767e2bf5` | India’s Lok Sabha Speaker hosts Sri Lankan delegation, stresses parliamentary cooperation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-767e2bf5)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-03-24 | `dailyftlk-2d7060ff` | Unlocking women’s economic potential: From intent to infrastructure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-2d7060ff)
 - 2026-03-24 | `dailyftlk-7948d5e1` | The truth about personal branding | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-7948d5e1)
 - 2026-03-24 | `dailyftlk-6aa496ce` | From global turbulence to strategic opportunity: Sri Lanka on the brink of a golden era? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-6aa496ce)
-- 2026-03-24 | `dailyftlk-088a98c1` | Fossil fuel obsession, flawed advice have pushed energy security to  the brink – Dr. Vidhura Ralapanawe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-088a98c1)
-- 2026-03-23 | `virakesarilk-fb6e387b` | நடிகர் பாரி இளவழகன் நடிக்கும் 'அன்பே டயானா 'படத்தின் முதல் பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-23-virakesarilk-fb6e387b)
-- 2026-03-23 | `virakesarilk-7d78344f` | கொலம்பியாவில் இராணுவ விமான விபத்து: சுமார் 110 பேர் பலியாகியிருலாம் என அச்சம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-23-virakesarilk-7d78344f)
 
 ---
 
