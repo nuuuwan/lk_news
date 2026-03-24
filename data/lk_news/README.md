@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_06:14:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_08:45:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,733** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,740** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-24-dailyftlk-f1902cab",
-    "num": "dailyftlk-f1902cab",
+    "doc_id": "2026-03-24-tamilmirrorlk-4d0a6749",
+    "num": "tamilmirrorlk-4d0a6749",
     "date_str": "2026-03-24",
-    "description": "CA Sri Lanka launches Faculty of Business Law and Regulatory Compliance to build legally proficient Chartered Accountants",
-    "url_metadata": "https://www.ft.lk/business/CA-Sri-Lanka-launches-Faculty-of-Business-Law-and-Regulatory-Compliance-to-build-legally-proficient-Chartered-Accountants/34-790006",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1774304716.0
+    "description": "\u0b9a\u0bc0\u0ba9\u0ba4\u0bcd \u0baf\u0bc1\u0bb5\u0ba4\u0bbf \u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0bb2\u0bc8: \u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bb1\u0bc8\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc0\u0ba9\u0ba4\u0bcd-\u0baf\u0bc1\u0bb5\u0ba4\u0bbf-\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0bb2\u0bc8-\u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bcd-\u0ba4\u0bb2\u0bc8\u0bae\u0bb1\u0bc8\u0bb5\u0bc1/175-374426",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774321492.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-24 | `tamilmirrorlk-4d0a6749` | சீனத் யுவதி குத்திக்கொலை: காதலன் தலைமறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-tamilmirrorlk-4d0a6749)
+- 2026-03-24 | `tamilmirrorlk-0356da9c` | 800 லீற்றர் டீசலுடன் ஊழியர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-tamilmirrorlk-0356da9c)
+- 2026-03-24 | `tamilmirrorlk-c1781ab6` | ட்ரம்பின் போர்நிறுத்த அறிவிப்பை மீறி தொடரும் தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-tamilmirrorlk-c1781ab6)
+- 2026-03-24 | `tamilmirrorlk-0cdd2a32` | ’அனைத்து திறன்களையும் பயன்படுத்துவோம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-tamilmirrorlk-0cdd2a32)
+- 2026-03-24 | `tamilmirrorlk-d349e1aa` | ஈரானில் 9,000 இலக்குகள் மீது அமெரிக்கா தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-tamilmirrorlk-d349e1aa)
+- 2026-03-24 | `adalk-449bab6d` | ස්ලෝවේනියාව ඉන්ධන සලාකයක් හඳුන්වා දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-adalk-449bab6d)
 - 2026-03-24 | `dailyftlk-f1902cab` | CA Sri Lanka launches Faculty of Business Law and Regulatory Compliance to build legally proficient Chartered Accountants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-f1902cab)
 - 2026-03-24 | `dailyftlk-612aa807` | Dimuth Bhashitha Atapattu appointed Director General of Data Protection Authority | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-612aa807)
 - 2026-03-24 | `dailyftlk-61a135ea` | Cenmetrix achieves ISO 9001:2015 certification | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-61a135ea)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-03-24 | `dailyftlk-2e99b00b` | Rs. 520 m textile training complex opens in Ratmalana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-2e99b00b)
 - 2026-03-24 | `dailyftlk-8bf5ac51` | Redefining “Reserves” under Inland Revenue Act: Policy evolution or moving goalposts? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-8bf5ac51)
 - 2026-03-24 | `dailyftlk-f2f85b1a` | The evolution of Withholding Taxes – a status quo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-f2f85b1a)
-- 2026-03-24 | `dailyftlk-24d72175` | “When America sneezes, Sri Lanka catches a cold!” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-24d72175)
-- 2026-03-24 | `dailyftlk-c45e00e0` | Powering stability: UK support for Sri Lanka’s electric bus transition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-c45e00e0)
-- 2026-03-24 | `dailyftlk-8ac5dfaa` | E-entrepreneurship and E-business: Driving sustainability in digital economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-8ac5dfaa)
-- 2026-03-24 | `dailyftlk-2d7060ff` | Unlocking women’s economic potential: From intent to infrastructure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-2d7060ff)
-- 2026-03-24 | `dailyftlk-7948d5e1` | The truth about personal branding | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-7948d5e1)
-- 2026-03-24 | `dailyftlk-6aa496ce` | From global turbulence to strategic opportunity: Sri Lanka on the brink of a golden era? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-dailyftlk-6aa496ce)
 
 ---
 
