@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--25_03:52:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--25_06:16:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**106,854** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**106,864** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-24-virakesarilk-9500f093",
-    "num": "virakesarilk-9500f093",
-    "date_str": "2026-03-24",
-    "description": "\u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd \u2013 \u0bae\u0bcb\u0b9f\u0bbf \u0b87\u0b9f\u0bc8\u0baf\u0bc7 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0ba4\u0bca\u0bb2\u0bc8\u0baa\u0bc7\u0b9a\u0bbf \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1 : \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbf\u0bb2\u0bc8\u0bae\u0bc8, \u0bb9\u0bcb\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd \u0ba8\u0bc0\u0bb0\u0bbf\u0ba3\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bb5\u0ba9\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/241861",
+    "doc_id": "2026-03-25-tamilmirrorlk-96b98128",
+    "num": "tamilmirrorlk-96b98128",
+    "date_str": "2026-03-25",
+    "description": "\u0bae\u0bcb\u0b9f\u0bbf - \u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bcd  \u0ba4\u0bca\u0bb2\u0bc8\u0baa\u0bc7\u0b9a\u0bbf \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9f\u0bbf-\u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bcd-\u0ba4\u0bca\u0bb2\u0bc8\u0baa\u0bc7\u0b9a\u0bbf-\u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd/175-374503",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1774371540.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774395752.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-25 | `tamilmirrorlk-96b98128` | மோடி - ட்ரம்ப்  தொலைபேசி கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-tamilmirrorlk-96b98128)
+- 2026-03-25 | `islandlk-ad07b573` | NOLIMIT unveils new fashion destination in Kiribathgoda, strengthening retail presence across Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-islandlk-ad07b573)
+- 2026-03-25 | `islandlk-8023ee2c` | Trade Finance Association of Bankers holds 29th Annual General Meeting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-islandlk-8023ee2c)
+- 2026-03-25 | `islandlk-65bcc2e1` | Trump’s claim on pausing war brings bounce to CSE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-islandlk-65bcc2e1)
+- 2026-03-25 | `islandlk-6d1be2d7` | Siyapatha Finance debenture issue oversubscribed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-islandlk-6d1be2d7)
+- 2026-03-25 | `islandlk-0e90d415` | ComBank empowers mothers through restoration of historic De Soysa Hospital Maternity Ward | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-islandlk-0e90d415)
 - 2026-03-24 | `virakesarilk-9500f093` | டிரம்ப் – மோடி இடையே முக்கிய தொலைபேசி பேச்சு : மத்திய கிழக்கு நிலைமை, ஹோர்முஸ் நீரிணையின் பாதுகாப்பு குறித்து கவனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-9500f093)
 - 2026-03-24 | `virakesarilk-4e7b7cb4` | இந்திய பிரதமர் மோடி – ஜனாதிபதி அனுரகுமார திசாநாயக்க இடையே தொலைபேசியில் முக்கிய கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-4e7b7cb4)
 - 2026-03-24 | `tamilmirrorlk-b69abdc8` | மோடி - அனுர அவசர உரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-tamilmirrorlk-b69abdc8)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-03-24 | `virakesarilk-d4c7de0d` | இலங்கைக்கான ஐ.நா. சபையின் வதிவிட ஒருங்கிணைப்பாளர் - வடக்கு ஆளுநர் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-d4c7de0d)
 - 2026-03-24 | `colombotelegraphcom-20a834d9` | Reverend Father Aloysius Pieris – A Brave Priest Who Did Not Fear Controversy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-colombotelegraphcom-20a834d9)
 - 2026-03-24 | `virakesarilk-87d26d60` | அரசாங்கத்திடம் எந்த  முகாமைத்துவமும் இல்லாமையே நெருக்கடிக்கு காரணம் - முஜிபுர் ரஹ்மான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-87d26d60)
-- 2026-03-24 | `virakesarilk-d707005d` | ஆசிய அபிவிருத்தி வங்கியினால் இலங்கைக்கு அங்கீகரிக்கப்பட்ட 380 மில். டொலர் நிதி, 480 மில். டொலர் வரை அதிகரிப்பு ; அதில் 200 மில். டொலர்களை உடனடியாக வழங்க இணக்கம் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-d707005d)
-- 2026-03-24 | `colombotelegraphcom-f8401659` | The Liberal International Order’s Death Rattles: Venezuela, Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-colombotelegraphcom-f8401659)
-- 2026-03-24 | `virakesarilk-c3ba2406` | பாடசாலை மாணவர்களுக்கு போதை மாத்திரைகளை விற்று வந்த நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-c3ba2406)
-- 2026-03-24 | `virakesarilk-a6cb2ac6` | சூர்யாவின் கருப்பு படத்திற்காக இணைந்த சிலம்பரசன்- சாய் அபயங்கர்- ஆர். ஜே பாலாஜி கூட்டணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-a6cb2ac6)
-- 2026-03-24 | `tamilmirrorlk-c29a45de` | “நான் தெரிவாகிவிட்டேன்: எனக்கு மகிழ்ச்சி” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-tamilmirrorlk-c29a45de)
-- 2026-03-24 | `virakesarilk-6b05bdc1` | நடிகர் சூர்யா வெளியிட்ட சர்வானந்த் நடிக்கும் பைக்கர் படத்தின் முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-24-virakesarilk-6b05bdc1)
 
 ---
 

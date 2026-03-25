@@ -110912,6 +110912,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-21-islandlk-9d49b9c8",
+    "num": "islandlk-9d49b9c8",
+    "date_str": "2026-03-21",
+    "description": "President in Parliament",
+    "url_metadata": "http://island.lk/president-in-parliament/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774092660.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-21-virakesarilk-0ebe13ae",
     "num": "virakesarilk-0ebe13ae",
     "date_str": "2026-03-21",
@@ -113838,6 +113849,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-23-islandlk-d1fcbf02",
+    "num": "islandlk-d1fcbf02",
+    "date_str": "2026-03-23",
+    "description": "Pirivenae Piyathuma \u2013 An authentic thought leader enters the heavenly passage",
+    "url_metadata": "http://island.lk/pirivenae-piyathuma-an-authentic-thought-leader-enters-the-heavenly-passage/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774287660.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-23-islandlk-0bfb0adc",
     "num": "islandlk-0bfb0adc",
     "date_str": "2026-03-23",
@@ -113857,6 +113879,28 @@ ews",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1774287900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-23-islandlk-4ecdf80b",
+    "num": "islandlk-4ecdf80b",
+    "date_str": "2026-03-23",
+    "description": "Ocean wealth without data: Sri Lanka\u2019s Blue Economy faces a silent risk",
+    "url_metadata": "http://island.lk/ocean-wealth-without-data-sri-lankas-blue-economy-faces-a-silent-risk/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774288680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-23-islandlk-1e6168ef",
+    "num": "islandlk-1e6168ef",
+    "date_str": "2026-03-23",
+    "description": "Browns EV and PickMe deliver 125 electric vehicles under \u2018Drive to Own\u2019 initiative",
+    "url_metadata": "http://island.lk/browns-ev-and-pickme-deliver-125-electric-vehicles-under-drive-to-own-initiative/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774288740.0
   },
   {
     "doc_type": "lk_news",
@@ -115452,5 +115496,71 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1774371540.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-25-islandlk-0e90d415",
+    "num": "islandlk-0e90d415",
+    "date_str": "2026-03-25",
+    "description": "ComBank empowers mothers through restoration of historic De Soysa Hospital Maternity Ward",
+    "url_metadata": "http://island.lk/combank-empowers-mothers-through-restoration-of-historic-de-soysa-hospital-maternity-ward/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774377360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-25-islandlk-6d1be2d7",
+    "num": "islandlk-6d1be2d7",
+    "date_str": "2026-03-25",
+    "description": "Siyapatha Finance debenture issue oversubscribed",
+    "url_metadata": "http://island.lk/siyapatha-finance-debenture-issue-oversubscribed-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774377420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-25-islandlk-65bcc2e1",
+    "num": "islandlk-65bcc2e1",
+    "date_str": "2026-03-25",
+    "description": "Trump\u2019s claim on pausing war brings bounce to CSE",
+    "url_metadata": "http://island.lk/trumps-claim-on-pausing-war-brings-bounce-to-cse/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774377540.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-25-islandlk-8023ee2c",
+    "num": "islandlk-8023ee2c",
+    "date_str": "2026-03-25",
+    "description": "Trade Finance Association of Bankers holds 29th Annual General Meeting",
+    "url_metadata": "http://island.lk/trade-finance-association-of-bankers-holds-29th-annual-general-meeting/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774377540.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-25-islandlk-ad07b573",
+    "num": "islandlk-ad07b573",
+    "date_str": "2026-03-25",
+    "description": "NOLIMIT unveils new fashion destination in Kiribathgoda, strengthening retail presence across Sri Lanka",
+    "url_metadata": "http://island.lk/nolimit-unveils-new-fashion-destination-in-kiribathgoda-strengthening-retail-presence-across-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774377660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-25-tamilmirrorlk-96b98128",
+    "num": "tamilmirrorlk-96b98128",
+    "date_str": "2026-03-25",
+    "description": "\u0bae\u0bcb\u0b9f\u0bbf - \u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bcd  \u0ba4\u0bca\u0bb2\u0bc8\u0baa\u0bc7\u0b9a\u0bbf \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9f\u0bbf-\u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bcd-\u0ba4\u0bca\u0bb2\u0bc8\u0baa\u0bc7\u0b9a\u0bbf-\u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd/175-374503",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774395752.0
   }
 ]
