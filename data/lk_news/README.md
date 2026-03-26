@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--26_20:18:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--26_22:13:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**107,110** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**107,113** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,7 @@ A collection of lk_news documents.
 - 2026-03-26 | `tamilmirrorlk-14e029c1` | “கனவுலகில் சஞ்சரிக்காமல் தீர்வுகளை முன்வைக்கவும்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-tamilmirrorlk-14e029c1)
 - 2026-03-26 | `tamilmirrorlk-3d7f9dde` | அபிவிருத்திக்கு உறுதியான அடித்தளம் அவசியமாகும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-tamilmirrorlk-3d7f9dde)
 - 2026-03-26 | `adalk-cb183490` | පුලිදෙ දත්ත පද්ධතිය යළිත් බිඳ වැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-adalk-cb183490)
+- 2026-03-26 | `adalk-2fa9af1c` | ඉරානය ගිවිසුමක් සම්බන්ධයෙන් යාචනා කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-adalk-2fa9af1c)
 - 2026-03-26 | `tamilmirrorlk-e82dde11` | போருக்கு நடுவே தைரியமாக முடிவு எடுத்த ஜப்பான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-tamilmirrorlk-e82dde11)
 - 2026-03-26 | `adalk-13f4f686` | ඉරාන නාවික හමුදාපති ඝාතනය කළ බව ඊශ්‍රායෙලය කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-adalk-13f4f686)
 - 2026-03-26 | `tamilmirrorlk-39566b99` | பிரத்தியேக வகுப்புகளுக்கு தடை : சபையில் தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-tamilmirrorlk-39566b99)
@@ -59,8 +60,7 @@ A collection of lk_news documents.
 - 2026-03-26 | `tamilmirrorlk-faa629e2` | ’’கோடம்பாக்கம் ஏரியா.. ஓட்டு கேட்டு வரியா’’:  நடனமாடிய தலைமையாசிரிக்கு வேலை போச்சே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-tamilmirrorlk-faa629e2)
 - 2026-03-26 | `tamilmirrorlk-ec136a25` | அந்த பாட்டுக்கு நடனமாடிய தலைமையாசிரிக்கு வேலை போச்சே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-tamilmirrorlk-ec136a25)
 - 2026-03-26 | `tamilmirrorlk-23a57e73` | ஹார்முஸை முடக்கிய ஈரான் தளபதி படுகொலை:  இஸ்ரேல் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-tamilmirrorlk-23a57e73)
-- 2026-03-26 | `tamilmirrorlk-3f7d95ea` | அஸ்வெசும கொடுப்பனவு வங்கிக் கணக்குகளில்... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-tamilmirrorlk-3f7d95ea)
-- 2026-03-26 | `colombotelegraphcom-bbf913be` | A Proposal To Reform Education In Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-colombotelegraphcom-bbf913be)
+- 2026-03-26 | `colombotelegraphcom-ae05c756` | Trincomalee As A Regional Oil Hub: Sri Lanka’s Strategic Choice With India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-colombotelegraphcom-ae05c756)
 
 ---
 

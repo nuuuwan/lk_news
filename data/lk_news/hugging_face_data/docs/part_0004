@@ -118062,6 +118062,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-26-colombotelegraphcom-01bde9df",
+    "num": "colombotelegraphcom-01bde9df",
+    "date_str": "2026-03-26",
+    "description": "Ground War In Iran: Why Washington Risks Another Vietnam",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/ground-war-in-iran-why-washington-risks-another-vietnam/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1774516606.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-26-tamilmirrorlk-3f7d95ea",
     "num": "tamilmirrorlk-3f7d95ea",
     "date_str": "2026-03-26",
@@ -118070,6 +118081,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1774516742.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-26-colombotelegraphcom-ae05c756",
+    "num": "colombotelegraphcom-ae05c756",
+    "date_str": "2026-03-26",
+    "description": "Trincomalee As A Regional Oil Hub: Sri Lanka\u2019s Strategic Choice With India",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/trincomalee-as-a-regional-oil-hub-sri-lankas-strategic-choice-with-india/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1774517045.0
   },
   {
     "doc_type": "lk_news",
@@ -118191,6 +118213,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1774526051.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-26-adalk-2fa9af1c",
+    "num": "adalk-2fa9af1c",
+    "date_str": "2026-03-26",
+    "description": "\u0d89\u0dbb\u0dcf\u0db1\u0dba \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0d9a\u0dca \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca \u0dba\u0dcf\u0da0\u0db1\u0dcf \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dbb\u0dcf\u0db1\u0dba-\u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0d9a\u0dca-\u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd9\u0db1\u0dca-\u0dba\u0dcf\u0da0\u0db1\u0dcf-\u0d9a\u0dbb\u0db1\u0dc0\u0dcf/11-421848",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1774526338.0
   },
   {
     "doc_type": "lk_news",
