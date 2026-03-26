@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--26_06:18:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--26_08:51:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**107,010** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**107,023** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-26-dailyftlk-dd5e3153",
-    "num": "dailyftlk-dd5e3153",
+    "doc_id": "2026-03-26-dailyftlk-48cecea0",
+    "num": "dailyftlk-48cecea0",
     "date_str": "2026-03-26",
-    "description": "Food insecurity is the \u2018hidden devil\u2019 of global conflicts: The case of urea",
-    "url_metadata": "https://www.ft.lk/columns/Food-insecurity-is-the-hidden-devil-of-global-conflicts-The-case-of-urea/4-790078",
+    "description": "Sri Lanka advances in third AML/CFT Mutual Evaluation; on-site review set for October",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-advances-in-third-AML-CFT-Mutual-Evaluation-on-site-review-set-for-October/34-790090",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1774485120.0
+    "time_ut": 1774490619.0
 }
 ```
 
@@ -41,6 +41,18 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-26 | `dailyftlk-48cecea0` | Sri Lanka advances in third AML/CFT Mutual Evaluation; on-site review set for October | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-48cecea0)
+- 2026-03-26 | `dailyftlk-6c0eb0e3` | Tea exports dip in February, but two-month performance remains positive amid price gains | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-6c0eb0e3)
+- 2026-03-26 | `dailyftlk-6cc5a512` | Cabinet backs move to legalise  Rs. 1 m fee for vanity number plates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-6cc5a512)
+- 2026-03-26 | `dailyftlk-fc59c4d4` | Prolonged Iran conflict poses downside risks to APAC Sovereign ratings: Fitch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-fc59c4d4)
+- 2026-03-26 | `dailyftlk-9543296d` | Lanka Realty to divest 51% stake in LRD to Lee Hedges for Rs. 1.61 b | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-9543296d)
+- 2026-03-26 | `dailyftlk-79681bdd` | Supply disruptions to outlast Mideast conflict, keeping import and energy costs elevated: Expert | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-79681bdd)
+- 2026-03-26 | `dailyftlk-a63e0f54` | Global GIS celebrates 12th anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-a63e0f54)
+- 2026-03-26 | `dailyftlk-dc41fb56` | Mastery of Self through NLP returns, enriched for the age of AI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-dc41fb56)
+- 2026-03-26 | `dailyftlk-9104a90a` | $ 52.5 m YOLO project by Prime Group gets BOI approval | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-9104a90a)
+- 2026-03-26 | `dailyftlk-b4b18f5d` | MAS advances Plan for Change strategy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-b4b18f5d)
+- 2026-03-26 | `dailyftlk-9bccec2a` | SLIC donates Rs. 10 m to ‘Rebuild Sri Lanka’ Fund | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-9bccec2a)
+- 2026-03-26 | `dailyftlk-da76ee67` | Preventable global conflict, targeting China, Lanka’s vulnerability and leadership deficit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-da76ee67)
 - 2026-03-26 | `dailyftlk-dd5e3153` | Food insecurity is the ‘hidden devil’ of global conflicts: The case of urea | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-dd5e3153)
 - 2026-03-26 | `dailyftlk-80f43ec5` | Can Hambantota International Port unlock Mattala’s strategic potential? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-80f43ec5)
 - 2026-03-26 | `dailyftlk-26d4e043` | Can Sri Lanka’s 5G revolution reach the 80% left behind? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-26d4e043)
@@ -49,18 +61,6 @@ A collection of lk_news documents.
 - 2026-03-26 | `dailyftlk-680988b8` | Sallay hospitalised due to sudden illness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-dailyftlk-680988b8)
 - 2026-03-26 | `islandlk-e5cc93b7` | ComBank Cards offer up to 70% Avurudu discounts across the widest range of outlets island-wide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-islandlk-e5cc93b7)
 - 2026-03-26 | `islandlk-06a63376` | New Anthoney’s Farms marks third year at Healthy Living Expo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-islandlk-06a63376)
-- 2026-03-26 | `islandlk-96cb4d71` | Food, beverage and tobacco sectors lead CSE’s positive spurt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-islandlk-96cb4d71)
-- 2026-03-26 | `islandlk-0f6a38c3` | WFP and Koica launch usd 10 million “Sow and Grow” project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-islandlk-0f6a38c3)
-- 2026-03-26 | `islandlk-397c27a8` | CBSL sees no immediate need to curb vehicle imports; reserves above $7bn provide buffer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-islandlk-397c27a8)
-- 2026-03-26 | `virakesarilk-80e8678c` | ரி20 கிரிக்கெட் சமரில் மொத்த எண்ணிக்கைக்கான சாதனையுடன் அருட்தந்தை பிரான்சிஸ் ஜோசப் கிண்ணத்தை யாழ்ப்பாணம் கல்லூரி சுவீகரித்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-26-virakesarilk-80e8678c)
-- 2026-03-25 | `virakesarilk-b61f22b4` | நெருக்கடியைத் தீர்க்கத் தெரியாமல் ரணிலின் திட்டங்களை நடைமுறை படுத்துகிறது அரசாங்கம் - அஜித் மானப்பெரும | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-virakesarilk-b61f22b4)
-- 2026-03-25 | `islandlk-1f305ea4` | Hair Mask and Face Pack | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-islandlk-1f305ea4)
-- 2026-03-25 | `islandlk-cf55c3bb` | Cuteefly scene…for Aluth Avurudda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-islandlk-cf55c3bb)
-- 2026-03-25 | `virakesarilk-6d1015c6` | அமெரிக்காவின் அமைதிப் பிரேரணையை நிராகரித்த ஈரான், போரை நிறுத்த 5 நிபந்தனைகளை முன்வைத்துள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-virakesarilk-6d1015c6)
-- 2026-03-25 | `virakesarilk-8419fa7b` | கடும் போட்டிக்கு பின்னர் நேபாளத்திடம் தோல்வி அடைந்தது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-virakesarilk-8419fa7b)
-- 2026-03-25 | `virakesarilk-20268be4` | ஈரான் விதித்த நிபந்தனைகள் மத்தியில் ஹோர்முஸ் நீரிணை வழியாக சீனக் கப்பல் பயணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-virakesarilk-20268be4)
-- 2026-03-25 | `virakesarilk-0c9acabf` | பொதுமக்கள் கொள்ளைச் சம்பவங்களிலிருந்து உடைமைகளை பாதுகாத்துக்கொள்ளுமாறு பொலிஸார் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-virakesarilk-0c9acabf)
-- 2026-03-25 | `virakesarilk-cccad1dd` | இந்த வார இறுதியில் இஸ்லாமாபாத்தில் அமெரிக்கா - ஈரான் இடையேயான முக்கிய பேச்சுவார்த்தை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-25-virakesarilk-cccad1dd)
 
 ---
 
