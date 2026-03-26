@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-03-27 00:07:07",
-  "n_docs": 107138,
+  "time_updated": "2026-03-27 01:53:30",
+  "n_docs": 107140,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 107138,
+  "n_docs_with_text": 107140,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-03-26",
-  "dataset_size": 1648211011,
+  "dataset_size": 1648601544,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-26-dailyftlk-7603f8a1",
-    "num": "dailyftlk-7603f8a1",
+    "doc_id": "2026-03-26-dailyftlk-9406df31",
+    "num": "dailyftlk-9406df31",
     "date_str": "2026-03-26",
-    "description": "Sri Lanka\u2019s \u201cAnthropogenic Foreign Policy\u201d is a lighthouse in Indian Ocean: Prof. Patrick Mendis",
-    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-Anthropogenic-Foreign-Policy-is-a-lighthouse-in-Indian-Ocean-Prof-Patrick-Mendis/4-790119",
+    "description": "Calm before the storm: Rethinking disaster risk reduction in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Calm-before-the-storm-Rethinking-disaster-risk-reduction-in-Sri-Lanka/4-790120",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1774548957.0
+    "time_ut": 1774549267.0
   }
 }
