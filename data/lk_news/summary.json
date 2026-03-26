@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-03-26 14:03:26",
-  "n_docs": 107084,
+  "time_updated": "2026-03-26 16:04:12",
+  "n_docs": 107092,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 107084,
+  "n_docs_with_text": 107092,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-03-26",
-  "dataset_size": 1647194594,
+  "dataset_size": 1647600932,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-26-dailyftlk-42dc35ed",
-    "num": "dailyftlk-42dc35ed",
+    "doc_id": "2026-03-26-tamilmirrorlk-faa629e2",
+    "num": "tamilmirrorlk-faa629e2",
     "date_str": "2026-03-26",
-    "description": "KOKO Makes Winning Debut with Overall Gold at LankaPay Technnovation Awards",
-    "url_metadata": "https://www.ft.lk/business/KOKO-Makes-Winning-Debut-with-Overall-Gold-at-LankaPay-Technnovation-Awards/34-790114",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1774513330.0
+    "description": "\u2019\u2019\u0b95\u0bc7\u0bbe\u0b9f\u0bae\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b8f\u0bb0\u0bbf\u0baf\u0bbe.. \u0b93\u0b9f\u0bcd\u0b9f\u0bc1 \u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bbf\u0baf\u0bbe\u2019\u2019:  \u0ba8\u0b9f\u0ba9\u0bae\u0bbe\u0b9f\u0bbf\u0baf \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc7\u0bb2\u0bc8 \u0baa\u0bc7\u0bbe\u0b9a\u0bcd\u0b9a\u0bc7",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc7\u0bbe\u0b9f\u0bae\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd-\u0b8f\u0bb0\u0bbf\u0baf\u0bbe-\u0b93\u0b9f\u0bcd\u0b9f\u0bc1-\u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bb0\u0bbf\u0baf\u0bbe-\u0ba8\u0b9f\u0ba9\u0bae\u0bbe\u0b9f\u0bbf\u0baf-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbe\u0b9a\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bc7\u0bb2\u0bc8-\u0baa\u0bc7\u0bbe\u0b9a\u0bcd\u0b9a\u0bc7/175-374593",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774520051.0
   }
 }
