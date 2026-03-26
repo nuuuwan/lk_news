@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-03-26 18:06:31",
-  "n_docs": 107103,
+  "time_updated": "2026-03-26 20:17:46",
+  "n_docs": 107110,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 107103,
+  "n_docs_with_text": 107110,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-03-26",
-  "dataset_size": 1647755130,
+  "dataset_size": 1647939321,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-26-tamilmirrorlk-00ea63d8",
-    "num": "tamilmirrorlk-00ea63d8",
+    "doc_id": "2026-03-26-tamilmirrorlk-5d244e88",
+    "num": "tamilmirrorlk-5d244e88",
     "date_str": "2026-03-26",
-    "description": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8 \u0bb5\u0bbf\u0bb2\u0bc8 \u0b89\u0baf\u0bb0\u0bbe\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd-\u0bb5\u0bb0\u0bc8-\u0b95\u0bcb\u0ba4\u0bc1\u0bae\u0bc8-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b89\u0baf\u0bb0\u0bbe\u0ba4\u0bc1/175-374602",
+    "description": "\u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b85\u0bb5\u0b9a\u0bb0 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd-\u0b85\u0bb5\u0b9a\u0bb0-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-374605",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1774528230.0
+    "time_ut": 1774531370.0
   }
 }
