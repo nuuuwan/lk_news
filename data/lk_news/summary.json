@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-03-28 01:53:28",
-  "n_docs": 107254,
+  "time_updated": "2026-03-28 03:51:05",
+  "n_docs": 107278,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 107254,
+  "n_docs_with_text": 107278,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-03-28",
-  "dataset_size": 1650494343,
+  "dataset_size": 1650814045,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-28-dailyftlk-99cd36f1",
-    "num": "dailyftlk-99cd36f1",
+    "doc_id": "2026-03-28-tamilmirrorlk-8a9165e4",
+    "num": "tamilmirrorlk-8a9165e4",
     "date_str": "2026-03-28",
-    "description": "Energy Minister out on bail",
-    "url_metadata": "https://www.ft.lk/news/Energy-Minister-out-on-bail/56-790195",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1774638689.0
+    "description": "\u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b86\u0ba3\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1-\u0b86\u0ba3\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-374666",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774648706.0
   }
 }
