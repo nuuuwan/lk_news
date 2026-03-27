@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--27_22:10:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--28_00:03:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**107,236** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**107,238** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-27-tamilmirrorlk-a9d09688",
-    "num": "tamilmirrorlk-a9d09688",
+    "doc_id": "2026-03-27-tamilmirrorlk-c7ae9123",
+    "num": "tamilmirrorlk-c7ae9123",
     "date_str": "2026-03-27",
-    "description": "\u0b95\u0bc1\u0bb3\u0bb5\u0bbf \u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd: 10 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0bc1\u0bb3\u0bb5\u0bbf-\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd-10-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/76-374651",
+    "description": "\u0b9a\u0bbf\u0b9a\u0bbf\u0b9f\u0bbf\u0bb5\u0bbf \u0b95\u0bae\u0bb0\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0b9a\u0bbf\u0b9f\u0bbf\u0bb5\u0bbf-\u0b95\u0bae\u0bb0\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0ba8\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bb2\u0bcd/175-374657",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1774611126.0
+    "time_ut": 1774627098.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-27 | `tamilmirrorlk-c7ae9123` | சிசிடிவி கமராவில் போதைப்பொருள் கடத்திய நபருக்கு தடுப்புக்காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-c7ae9123)
+- 2026-03-27 | `tamilmirrorlk-cf173e94` | இலங்கை வருகிறது 38,000 மெட்ரிக் தொன் எரிபொருள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-cf173e94)
 - 2026-03-27 | `tamilmirrorlk-a9d09688` | குளவி கொட்டியதில்: 10 மாணவர்கள் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-a9d09688)
 - 2026-03-27 | `tamilmirrorlk-72bdb960` | 4 லீற்றர் பெற்ரோல்:  21 நாள் சிறைத்தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-72bdb960)
 - 2026-03-27 | `tamilmirrorlk-73a5dafc` | பாலியல் வன்முறையைத் தடுக்க ’Rape-aXe’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-73a5dafc)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-27 | `tamilmirrorlk-ebbd98a8` | இலங்கையில் மீண்டும் உலக ரோபோட்டிக்ஸ் ஒலிம்பியாட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-ebbd98a8)
 - 2026-03-27 | `virakesarilk-06c7f44e` | பாடசாலை மாணவர்கள் குளவிக் கொட்டுக்கு இலக்காகி வைத்தியசாலையில் அனுமதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-06c7f44e)
 - 2026-03-27 | `virakesarilk-1e6e686a` | சீனப் பெண் கொலை : சந்தேக நபரை பிடிக்க பொதுமக்களிடம் உதவி கோரும் பொலிஸார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-1e6e686a)
-- 2026-03-27 | `virakesarilk-e8a6ce26` | மட்டக்களப்பு மாவட்டத்துக்கான  2177 திட்டங்களுக்காக 11,938 மில்லியன் ரூபா நிதி ஒதுக்கீடு - அமைச்சர் சுனில் ஹந்துன்நெத்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-e8a6ce26)
-- 2026-03-27 | `virakesarilk-1ba92b96` | தரமற்ற மருந்து கொள்வனவு: கெஹெலியவுக்கு 75 மில்லியன் ரூபா அபராதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-1ba92b96)
 
 ---
 
