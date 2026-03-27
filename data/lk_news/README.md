@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--27_18:01:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--27_20:06:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**107,234** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**107,236** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,8 @@ A collection of lk_news documents.
 - 2026-03-27 | `tamilmirrorlk-a9d09688` | குளவி கொட்டியதில்: 10 மாணவர்கள் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-a9d09688)
 - 2026-03-27 | `tamilmirrorlk-72bdb960` | 4 லீற்றர் பெற்ரோல்:  21 நாள் சிறைத்தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-72bdb960)
 - 2026-03-27 | `tamilmirrorlk-73a5dafc` | பாலியல் வன்முறையைத் தடுக்க ’Rape-aXe’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-73a5dafc)
+- 2026-03-27 | `adalk-f88d519f` | රජයේ ණය 2025දී රු. බි. 29994කින් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-adalk-f88d519f)
+- 2026-03-27 | `adalk-6010378f` | රු. කෝටි තුනක දුම්වැටි කටුනායක අත්හැර දමා යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-adalk-6010378f)
 - 2026-03-27 | `tamilmirrorlk-c900008a` | அமெரிக்க டொலரில் ட்ரம்பின் கையெழுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-c900008a)
 - 2026-03-27 | `adalk-d957869f` | ඔස්ට්‍රේලියාවෙත් ඉන්ධන හල් තුළ තෙල් ඉවර වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-adalk-d957869f)
 - 2026-03-27 | `adalk-675c6634` | ඩොලර් නෝට්ටුවට ට්‍රම්ප්ගේ අත්සන එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-adalk-675c6634)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-27 | `virakesarilk-1e6e686a` | சீனப் பெண் கொலை : சந்தேக நபரை பிடிக்க பொதுமக்களிடம் உதவி கோரும் பொலிஸார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-1e6e686a)
 - 2026-03-27 | `virakesarilk-e8a6ce26` | மட்டக்களப்பு மாவட்டத்துக்கான  2177 திட்டங்களுக்காக 11,938 மில்லியன் ரூபா நிதி ஒதுக்கீடு - அமைச்சர் சுனில் ஹந்துன்நெத்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-e8a6ce26)
 - 2026-03-27 | `virakesarilk-1ba92b96` | தரமற்ற மருந்து கொள்வனவு: கெஹெலியவுக்கு 75 மில்லியன் ரூபா அபராதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-1ba92b96)
-- 2026-03-27 | `virakesarilk-c0c34db9` | நீர்த்தேக்கங்களின் நீர் மட்டம் வேகமாக குறைகிறது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-c0c34db9)
-- 2026-03-27 | `virakesarilk-38323a16` | மட்டக்களப்பில் பெண் கொலை : நீதிக்காக பாரிய கவனயீர்ப்பு ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-38323a16)
 
 ---
 
