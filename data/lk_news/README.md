@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--27_08:53:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--27_10:32:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**107,177** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**107,183** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.6 GB**), from **2021-09-12** to **2026-03-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-27-tamilmirrorlk-d57f0717",
-    "num": "tamilmirrorlk-d57f0717",
+    "doc_id": "2026-03-27-tamilmirrorlk-80c774aa",
+    "num": "tamilmirrorlk-80c774aa",
     "date_str": "2026-03-27",
-    "description": "\u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0bae\u0bc0\u0ba4\u0bbe\u0ba9-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/50-374624",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd: \u0b9a\u0bc6\u0b95\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1  \u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0b9a\u0bc6\u0b95\u0bcd-\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1-\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-374628",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1774581176.0
+    "time_ut": 1774587112.0
 }
 ```
 
@@ -41,7 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-27 | `tamilmirrorlk-80c774aa` | சிறுத்தை தாக்குதல்: செக் குடியரசு  பிக்கு உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-80c774aa)
+- 2026-03-27 | `tamilmirrorlk-98baefc3` | ரவிராஜ் கொலை வழக்கு: மேல் நீதிமன்ற தீர்ப்பை ரத்து: மீண்டும் விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-98baefc3)
+- 2026-03-27 | `tamilmirrorlk-fe7644bc` | இந்திய மீனவர்களுக்கு 10 வருட சிறை  (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-fe7644bc)
+- 2026-03-27 | `tamilmirrorlk-20b64a05` | பல இடங்களில் வறட்சியான வானிலை நிலவும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-20b64a05)
 - 2026-03-27 | `tamilmirrorlk-d57f0717` | ஈரான் மீதான தாக்குதல் நிறுத்தம் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-d57f0717)
+- 2026-03-27 | `adalk-5395d9c4` | ට්‍රම්ප් තම සටන් විරාමය තවත් දින 10කට කල් දමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-adalk-5395d9c4)
+- 2026-03-27 | `adalk-1ee83edc` | බ්‍රහස්පතින්දා නැව් හයකට හෝමූස් හරහා යන්න දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-adalk-1ee83edc)
 - 2026-03-27 | `dailyftlk-4da14ede` | The JR I disliked — A review of courage, candour and historical balance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-dailyftlk-4da14ede)
 - 2026-03-27 | `dailyftlk-c489066c` | Narratives, security, and social cohesion: Rethinking the discourse on Islamic ideologies in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-dailyftlk-c489066c)
 - 2026-03-27 | `dailyftlk-9fddda3b` | Healthguard Distribution revamps Colombo warehouse to strengthen pharmaceutical supply chain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-dailyftlk-9fddda3b)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-03-27 | `dailyftlk-bc6648a8` | Blue Arc to manufacture containerised substations for export under BOI deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-dailyftlk-bc6648a8)
 - 2026-03-27 | `dailyftlk-236c81ef` | Colombo Dockyard delivers 10th vessel in Misje Eco Bulker newbuilding series | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-dailyftlk-236c81ef)
 - 2026-03-27 | `virakesarilk-a3d66c22` | நாட்டில் எரிசக்தி ஆற்றலுக்கான பாதுகாப்பின்மை தேசிய பாதுகாப்பையும் கூட அபாயத்தில் ஆழ்த்துகிறது - சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-a3d66c22)
-- 2026-03-27 | `virakesarilk-a8067a79` | மட்டக்களப்பில் பெண்களை கடத்தி கொலை செய்து கும்பலிடம் இருந்து சத்திர சிகிச்சைக்கு பாவிக்கும் மயக்க மருந்துகள் மீட்பு - ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-a8067a79)
-- 2026-03-27 | `virakesarilk-24d31efc` | சர்ச்சைக்குரிய 323 கொள்கலன்களில் ஒரு பகுதியில் எவ்வித சிக்கல்களும் கண்டறியபடவில்லை - சுங்க ஊடகப் பேச்சாளர் சந்தன புஞ்சிஹேவா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-24d31efc)
-- 2026-03-27 | `virakesarilk-3ce44e10` | நீதிமன்றத்தை அவமதித்த குற்றச்சாட்டு; தேசிய கல்வி நிறுவனத்தின் முன்னாள் பணிப்பாளர் ஐ.ஜி.எஸ்.பிரேமதிலக்கவிற்கு எதிராக குற்றப்பத்திரிகை கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-3ce44e10)
-- 2026-03-27 | `virakesarilk-cf9c05b5` | சர்வதேச நாணய நிதியத்தின் நிபந்தனைகளில் குறிப்பிடத்தக்களவு மாற்றங்கள் காணப்படக்கூடும் - கலாநிதி நந்தலால் வீரசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-virakesarilk-cf9c05b5)
-- 2026-03-27 | `tamilmirrorlk-a0641be3` | ஹார்முஸ் ஜலசந்தி பகுதியை நிர்வகித்த ஈரான் தளபதி உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-a0641be3)
-- 2026-03-27 | `tamilmirrorlk-00a92f06` | ஹார்முஸ் ஜலசந்தி வழியாக செல்ல 5 நாடுகளுக்கு ஈரான் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-27-tamilmirrorlk-00a92f06)
 
 ---
 
