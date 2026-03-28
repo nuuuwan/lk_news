@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--28_21:55:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--28_23:53:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**107,344** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**107,345** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-28-adalk-4d331569",
-    "num": "adalk-4d331569",
+    "doc_id": "2026-03-28-tamilmirrorlk-2b60ebae",
+    "num": "tamilmirrorlk-2b60ebae",
     "date_str": "2026-03-28",
-    "description": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda \u0dad\u0dc0\u0dad\u0dca \u0daf\u0dd0\u0dc0\u0dd0\u0db1\u0dca\u0dad \u0dba\u0dd4\u0daf \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0db8\u0dd0\u0daf\u0db4\u0dd9\u0dbb\u0daf\u0dd2\u0d9c\u0da7",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dda-\u0dad\u0dc0\u0dad\u0dca-\u0daf\u0dd0\u0dc0\u0dd0\u0db1\u0dca\u0dad-\u0dba\u0dd4\u0daf-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0db8\u0dd0\u0daf\u0db4\u0dd9\u0dbb\u0daf\u0dd2\u0d9c\u0da7/11-421872",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1774704988.0
+    "description": "\u0ba4\u0bc6\u0bb9\u0bbf\u0bb5\u0bb3\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc6\u0bb9\u0bbf\u0bb5\u0bb3\u0bc8-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b95\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1/175-374678",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774712610.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-28 | `tamilmirrorlk-2b60ebae` | தெஹிவளை மக்களின் கவனத்துக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-tamilmirrorlk-2b60ebae)
 - 2026-03-28 | `adalk-4d331569` | ඇමෙරිකාවේ තවත් දැවැන්ත යුද නැවක් මැදපෙරදිගට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-adalk-4d331569)
 - 2026-03-28 | `virakesarilk-da075517` | சாத்தான் தி டார்க்: திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-virakesarilk-da075517)
 - 2026-03-28 | `virakesarilk-4cc354e2` | நடிகர் அர்ஜுன் பிரபாகரன் நடிக்கும் 'பேட்டில்' படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-virakesarilk-4cc354e2)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-03-28 | `virakesarilk-642b3bac` | கட்டுநாயக்கவில்  சிகரெட்டுகள் கைப்பற்றல்: பொதிகளைக் கைவிட்டு தப்ப முயன்றவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-virakesarilk-642b3bac)
 - 2026-03-28 | `virakesarilk-d34f8aac` | சோனியா அகர்வால் நடிக்கும் 'டார்க் ஜெயன்ட் 'திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-virakesarilk-d34f8aac)
 - 2026-03-28 | `tamilmirrorlk-df5516c4` | எரிபொருள் விலை: அதிரடி அறிவிப்பு இதோ... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-tamilmirrorlk-df5516c4)
-- 2026-03-28 | `virakesarilk-e9cff838` | அதிமுக கூட்டணியில் புதிய நீதி கட்சியின் வேட்பாளராக களம் இறங்கும் இயக்குநர் சுந்தர் சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-virakesarilk-e9cff838)
 
 ---
 

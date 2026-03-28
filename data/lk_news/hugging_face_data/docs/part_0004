@@ -120842,5 +120842,16 @@ ews",
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1774704988.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-28-tamilmirrorlk-2b60ebae",
+    "num": "tamilmirrorlk-2b60ebae",
+    "date_str": "2026-03-28",
+    "description": "\u0ba4\u0bc6\u0bb9\u0bbf\u0bb5\u0bb3\u0bc8 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc6\u0bb9\u0bbf\u0bb5\u0bb3\u0bc8-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b95\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1/175-374678",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774712610.0
   }
 ]
