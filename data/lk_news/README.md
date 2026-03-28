@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--28_08:47:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--28_10:22:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**107,298** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**107,304** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-28-adalk-89ad79ee",
-    "num": "adalk-89ad79ee",
+    "doc_id": "2026-03-28-virakesarilk-36fe359a",
+    "num": "virakesarilk-36fe359a",
     "date_str": "2026-03-28",
-    "description": "RMV \u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
-    "url_metadata": "https://www.ada.lk/breaking_news/RMV-\u0dbd\u0ddc\u0d9a\u0dca\u0d9a\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-421868",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1774656357.0
+    "description": "\u0ba8\u0bc7\u0baa\u0bbe\u0bb3 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b95\u0bc7.\u0baa\u0bbf. \u0b9a\u0bb0\u0bcd\u0bae\u0bbe \u0b92\u0bb2\u0bbf \u0b95\u0bc8\u0ba4\u0bc1 \u2013 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf !",
+    "url_metadata": "https://www.virakesari.lk/article/242135",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1774671420.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-28 | `virakesarilk-36fe359a` | நேபாள முன்னாள் பிரதமர் கே.பி. சர்மா ஒலி கைது – அரசியல் அதிர்ச்சி ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-virakesarilk-36fe359a)
+- 2026-03-28 | `virakesarilk-e34eb440` | இந்திய எரிபொருள் கப்பல் இன்று கொழும்பு துறைமுகத்தை வந்தடையும் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-virakesarilk-e34eb440)
+- 2026-03-28 | `virakesarilk-c6cdac75` | கிராந்துருகோட்டையில் விபத்து: தம்பதியர் உயிரிழப்பு, 7 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-virakesarilk-c6cdac75)
+- 2026-03-28 | `virakesarilk-5ef0cb96` | புகையிரத சேவையில் டிஜிட்டல் பயணச்சீட்டு முறை அறிமுகம் – ஏப்ரலில் ஆரம்பம் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-virakesarilk-5ef0cb96)
+- 2026-03-28 | `virakesarilk-604080b4` | மாலை – இரவு நேரங்களில் மழை வாய்ப்பு: சில மாவட்டங்களுக்கு எச்சரிக்கை ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-virakesarilk-604080b4)
+- 2026-03-28 | `adalk-7d973b96` | ඉරාන න්‍යෂ්ටික මධ්‍යස්ථාන දෙකකට ප්‍රහාර | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-adalk-7d973b96)
 - 2026-03-28 | `adalk-89ad79ee` | RMV ලොක්කා අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-adalk-89ad79ee)
 - 2026-03-28 | `virakesarilk-a603a1c9` | ஈரானின் கெர்மன்ஷா மாகாணத்தில் நடந்த தாக்குதலில் 13 பேர் கொல்லப்பட்டனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-virakesarilk-a603a1c9)
 - 2026-03-28 | `virakesarilk-093e655e` | அமெரிக்க மற்றும் இஸ்ரேலுக்கு ஆதரவான தொழிற்சாலைகளை உடனடியாக காலி செய்யுங்கள்: ஈரானின் புரட்சிகர காவலர்களின் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-virakesarilk-093e655e)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-03-28 | `dailyftlk-99cd36f1` | Energy Minister out on bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-dailyftlk-99cd36f1)
 - 2026-03-28 | `dailyftlk-3473a096` | Sri Lanka Press Association appoints office bearers at 70th AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-dailyftlk-3473a096)
 - 2026-03-28 | `dailyftlk-0f4ac6f8` | UN demands ‘justice’ after Iran school strike | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-dailyftlk-0f4ac6f8)
-- 2026-03-28 | `dailyftlk-5edb9706` | Nepal swears-in ex-rapper  Balendra Shah as Prime Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-dailyftlk-5edb9706)
-- 2026-03-28 | `dailyftlk-af7285d7` | Israeli invasion displaces 370,000 children in Lebanon, says UNICEF | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-dailyftlk-af7285d7)
-- 2026-03-28 | `dailyftlk-66a31a3f` | Oil up 1.6%, but trends towards weekly decline | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-dailyftlk-66a31a3f)
-- 2026-03-28 | `dailyftlk-4bab6501` | How SL can protect economy, tourism and public confidence amidst ME war | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-dailyftlk-4bab6501)
-- 2026-03-28 | `dailyftlk-d01fd16b` | Ageing parents in a world of migration | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-dailyftlk-d01fd16b)
-- 2026-03-28 | `dailyftlk-1f7be3ce` | Drug quality conundrum in Sri Lanka, the law and compliance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-28-dailyftlk-1f7be3ce)
 
 ---
 
