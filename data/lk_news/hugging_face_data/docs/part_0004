@@ -117039,6 +117039,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-25-islandlk-5ba186af",
+    "num": "islandlk-5ba186af",
+    "date_str": "2026-03-25",
+    "description": "When dirty coal leaves farmers in tears",
+    "url_metadata": "http://island.lk/when-dirty-coal-leaves-farmers-in-tears/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774462200.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-25-islandlk-44c612bb",
     "num": "islandlk-44c612bb",
     "date_str": "2026-03-25",
@@ -119976,6 +119987,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-27-islandlk-87762a5a",
+    "num": "islandlk-87762a5a",
+    "date_str": "2026-03-27",
+    "description": "Import price shocks of the Hormuz Crisis 2026: How will this affect Sri Lanka?",
+    "url_metadata": "http://island.lk/import-price-shocks-of-the-hormuz-crisis-2026-how-will-this-affect-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774626900.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-27-tamilmirrorlk-c7ae9123",
     "num": "tamilmirrorlk-c7ae9123",
     "date_str": "2026-03-27",
@@ -120039,6 +120061,17 @@ ews",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1774628400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-27-islandlk-1a545130",
+    "num": "islandlk-1a545130",
+    "date_str": "2026-03-27",
+    "description": "Unit Trust industry remains stable in February",
+    "url_metadata": "http://island.lk/unit-trust-industry-remains-stable-in-february/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774628460.0
   },
   {
     "doc_type": "lk_news",
@@ -120515,6 +120548,61 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-28-islandlk-2f871426",
+    "num": "islandlk-2f871426",
+    "date_str": "2026-03-28",
+    "description": "Largest nation-wide protests in history against Trump on Saturday, March 28",
+    "url_metadata": "http://island.lk/largest-nation-wide-protests-in-history-against-trump-on-saturday-march-28/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774686600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-28-islandlk-ca0ca515",
+    "num": "islandlk-ca0ca515",
+    "date_str": "2026-03-28",
+    "description": "Internal conflicts in SLFP under MR presidency and crossovers from UNP",
+    "url_metadata": "http://island.lk/internal-conflicts-in-slfp-under-mr-presidency-and-crossovers-from-unp/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774686600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-28-islandlk-5a67752a",
+    "num": "islandlk-5a67752a",
+    "date_str": "2026-03-28",
+    "description": "WHAT\u2019S THE NEWS?",
+    "url_metadata": "http://island.lk/whats-the-news/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774687800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-28-islandlk-9056c32d",
+    "num": "islandlk-9056c32d",
+    "date_str": "2026-03-28",
+    "description": "More about President Premadasa \u2013 his caring nature & lack of trust in people",
+    "url_metadata": "http://island.lk/more-about-president-premadasa-his-caring-nature-lack-of-trust-in-people/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774687800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-28-islandlk-ac2f638d",
+    "num": "islandlk-ac2f638d",
+    "date_str": "2026-03-28",
+    "description": "Ajay Kamalakaran\u2019s \u201cColombo: Port of Call\u201d",
+    "url_metadata": "http://island.lk/ajay-kamalakarans-colombo-port-of-call/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774687800.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-28-tamilmirrorlk-827095ea",
     "num": "tamilmirrorlk-827095ea",
     "date_str": "2026-03-28",
@@ -120523,6 +120611,28 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1774688325.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-28-islandlk-2e4e19c0",
+    "num": "islandlk-2e4e19c0",
+    "date_str": "2026-03-28",
+    "description": "The Greatest Man I Knew: Fr. Aloysius Pieris SJ (1934-2026)",
+    "url_metadata": "http://island.lk/the-greatest-man-i-knew-fr-aloysius-pieris-sj-1934-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774688940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-28-islandlk-8986ff31",
+    "num": "islandlk-8986ff31",
+    "date_str": "2026-03-28",
+    "description": "Trincomalee Oil Farm and Energy Hub: Sri Lanka\u2019s Missed Opportunity Returns",
+    "url_metadata": "http://island.lk/trincomalee-oil-farm-and-energy-hub-sri-lankas-missed-opportunity-returns/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774688940.0
   },
   {
     "doc_type": "lk_news",
@@ -120589,6 +120699,61 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1774691280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-28-islandlk-30727390",
+    "num": "islandlk-30727390",
+    "date_str": "2026-03-28",
+    "description": "Turning waste into fuel: Kalawana resident shows way amid gas woes",
+    "url_metadata": "http://island.lk/turning-waste-into-fuel-kalawana-resident-shows-way-amid-gas-woes/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774691820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-28-islandlk-35eed9f0",
+    "num": "islandlk-35eed9f0",
+    "date_str": "2026-03-28",
+    "description": "HNB Assurance Achieves Historic Milestone with 256 MDRT Qualifiers, Including 8 TOTs and 33 COTs",
+    "url_metadata": "http://island.lk/hnb-assurance-achieves-historic-milestone-with-256-mdrt-qualifiers-including-8-tots-and-33-cots/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774691820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-28-islandlk-6a77bd58",
+    "num": "islandlk-6a77bd58",
+    "date_str": "2026-03-28",
+    "description": "Kandy Selection makes long-awaited debut in hill capital",
+    "url_metadata": "http://island.lk/kandy-selection-makes-long-awaited-debut-in-hill-capital/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774691820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-28-islandlk-79b17542",
+    "num": "islandlk-79b17542",
+    "date_str": "2026-03-28",
+    "description": "The Winghead Shark",
+    "url_metadata": "http://island.lk/the-winghead-shark/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774693020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-28-islandlk-8476bf26",
+    "num": "islandlk-8476bf26",
+    "date_str": "2026-03-28",
+    "description": "Sampath Bank Champions SME Women Entrepreneurs Through the \u2018Unstoppable Woman\u2019 Programme",
+    "url_metadata": "http://island.lk/sampath-bank-champions-sme-women-entrepreneurs-through-the-unstoppable-woman-programme/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774693020.0
   },
   {
     "doc_type": "lk_news",
@@ -120897,5 +121062,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1774733914.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-29-tamilmirrorlk-81d7530f",
+    "num": "tamilmirrorlk-81d7530f",
+    "date_str": "2026-03-29",
+    "description": "\u0bb0\u0bb7\u0bcd\u0baf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bb7\u0bcd\u0baf-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1-\u0baa\u0bbf\u0bb0\u0ba4\u0bbf-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd/175-374692",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774734397.0
   }
 ]
