@@ -122209,6 +122209,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-29-colombotelegraphcom-cab27322",
+    "num": "colombotelegraphcom-cab27322",
+    "date_str": "2026-03-29",
+    "description": "Bases, Blue Jeans & Shia Islam: Part II",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/bases-blue-jeans-shia-islam-part-ii/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1774802476.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-29-colombotelegraphcom-e38e9a63",
+    "num": "colombotelegraphcom-e38e9a63",
+    "date_str": "2026-03-29",
+    "description": "Accountability Of Church Funds & Church Corruption",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/accountability-of-church-funds-church-corruption/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1774802517.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-29-virakesarilk-9d111165",
     "num": "virakesarilk-9d111165",
     "date_str": "2026-03-29",
@@ -122217,5 +122239,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1774807020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-03-30-dailyftlk-68350d92",
+    "num": "dailyftlk-68350d92",
+    "date_str": "2026-03-30",
+    "description": "Why didn\u2019t competition bring down fuel prices?",
+    "url_metadata": "https://www.ft.lk/columns/Why-didn-t-competition-bring-down-fuel-prices/4-790216",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774822011.0
   }
 ]
