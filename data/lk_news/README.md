@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--29_12:13:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--29_13:57:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**107,407** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**107,429** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-29-virakesarilk-1387a59f",
-    "num": "virakesarilk-1387a59f",
+    "doc_id": "2026-03-29-tamilmirrorlk-0f701083",
+    "num": "tamilmirrorlk-0f701083",
     "date_str": "2026-03-29",
-    "description": "\u0baa\u0bc1\u0bb1\u0b95\u0bcd\u0b95\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb1\u0bbf\u0baf \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/242198",
+    "description": "\u0baa\u0bc7\u0bb0\u0bb4\u0bbf\u0bb5\u0bc8 \u0b89\u0ba3\u0bcd\u0b9f\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0b8a\u0b9f\u0bc1\u0bb0\u0bc1\u0bb5\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc7\u0bb0\u0bb4\u0bbf\u0bb5\u0bc8-\u0b89\u0ba3\u0bcd\u0b9f\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0baa\u0bcb\u0b95\u0bc1\u0bae\u0bcd-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0b8a\u0b9f\u0bc1\u0bb0\u0bc1\u0bb5\u0bb2\u0bcd/50-374718",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1774765020.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774770422.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-03-29 | `virakesarilk-1387a59f` | புறக்கணிப்படும் சிறிய கிராமங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-1387a59f)
-- 2026-03-29 | `tamilmirrorlk-4fe3990c` | ஜீப் விபத்து : நூலிழையில் உயிர் தப்பிய இளைஞர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-tamilmirrorlk-4fe3990c)
-- 2026-03-29 | `tamilmirrorlk-c529b11f` | ’’ஓய்வு தடையல்ல, அது ஒரு புத்துணர்ச்சி’’: விராட் கோலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-tamilmirrorlk-c529b11f)
-- 2026-03-29 | `virakesarilk-2914ab54` | இந்தியாவுடன் வலுவான பொருளாதார கூட்டாண்மையை உருவாக்குவோம் -  எட்கா குறித்து கலாநிதி ஹர்ஷ டி சில்வா வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-2914ab54)
-- 2026-03-29 | `virakesarilk-e05fc7d9` | எரிபொருள் செலவைக் குறைக்க அவுஸ்திரேலியாவின் 02 மாநிலங்களில் இலவசப் பொதுப் போக்குவரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-e05fc7d9)
-- 2026-03-29 | `virakesarilk-bd0d3b03` | 5 ஆண்டு கால எண்ணெய் ஒப்பந்தத்திற்கு ரஷ்யா அழைப்பு  - அணுமின் நிலையத் திட்டத்தை அரசாங்கம் நிராகரித்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-bd0d3b03)
-- 2026-03-29 | `virakesarilk-409d0943` | இலங்கை நீதித்துறை வரலாற்றில் புதிய மைல்கல்: உயர் நீதிமன்றில் காகிதமற்ற மின்மயமாக்கப்பட்ட வழக்கு விசாரணை ஆரம்பம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-409d0943)
-- 2026-03-29 | `tamilmirrorlk-a0c54938` | வாகன பந்தயம் : 11 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-tamilmirrorlk-a0c54938)
-- 2026-03-29 | `virakesarilk-8b04fc1b` | தேசியக்கொடி தமிழ் இன ஒடுக்குமுறையின் முதல்குறியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-8b04fc1b)
-- 2026-03-29 | `virakesarilk-5bf5f275` | முஸ்லிம் உல­குக்கு தேவை கலீபா உமர் அல்­லது சலா­ஹுத்தீன் ஐய்­யூபி போன்ற ஒரு­வரே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-5bf5f275)
-- 2026-03-29 | `virakesarilk-6a638403` | வெளிநாட்டு சிகரெட்டுக்களுடன் நால்வர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-6a638403)
-- 2026-03-29 | `virakesarilk-454fbf43` | குடாஓயாவில் சட்டவிரோதமாக எரிபொருள் சேமிப்பு: பெண் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-454fbf43)
-- 2026-03-29 | `tamilmirrorlk-90bf804e` | வெற்றிக்குப் பின் பறந்த முத்தங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-tamilmirrorlk-90bf804e)
-- 2026-03-29 | `virakesarilk-599e775c` | சொத்து விபரங்களை சமர்ப்பிக்க புதிய டிஜிட்டல் முறைமை: ஊழல் ஒழிப்பு நடவடிக்கையில் பாரிய மாற்றம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-599e775c)
-- 2026-03-29 | `virakesarilk-aa35f20b` | ஏப்ரலில் ‘ஸ்மார்ட்’ ரயில் சேவை அறிமுகம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-aa35f20b)
-- 2026-03-29 | `virakesarilk-a8dfcb6c` | இஸ்ரேல்-ஈரானிய யுத்தத்தில் சீனாவின் தந்திரமான சூதாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-a8dfcb6c)
-- 2026-03-29 | `tamilmirrorlk-46ef6461` | வெளிநாட்டு சிகரெட்டுகள் பறிமுதல் : நால்வர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-tamilmirrorlk-46ef6461)
-- 2026-03-29 | `virakesarilk-6699cbca` | அடிமை வணி­கத்தை 'மனி­த­கு­லத்­திற்கு எதி­ரான மிகக் கொடூ­ர­மான குற்றம்' என அறி­வித்த ஐ.நா. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-6699cbca)
-- 2026-03-29 | `tamilmirrorlk-1e80b0e0` | IPL Match: ஆர்சிபி வீரர் பிடித்த கேட்ச்:முதல் மேட்சிலேயே சர்ச்சை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-tamilmirrorlk-1e80b0e0)
-- 2026-03-29 | `tamilmirrorlk-eb9eacf2` | பாடசாலை மாணவர்களின் மோதல்: மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-tamilmirrorlk-eb9eacf2)
+- 2026-03-29 | `tamilmirrorlk-0f701083` | பேரழிவை உண்டாக்கும் போகும் அமெரிக்க ஊடுருவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-tamilmirrorlk-0f701083)
+- 2026-03-29 | `virakesarilk-b8e75feb` | எரிபொருள் வழங்க முன்வந்த இந்தியாவுக்கு நன்றி தெரிவித்தார் சஜித் பிரேமதாச! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-b8e75feb)
+- 2026-03-29 | `tamilmirrorlk-c7014dcf` | கோட்டைக்கு குறிவைக்கும் திமுக வாரிசுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-tamilmirrorlk-c7014dcf)
+- 2026-03-29 | `virakesarilk-2248dabd` | தமிழர் பிரச்சினைகள் தொடர்பில் தீர்மானங்களை  மேற்கொள்ள 9 பேரடங்கிய இணைக்குழு நியமனம்  தமிழரசுக்கட்சி - ஜனநாயக தமிழ்த்தேசிய கூட்டணி சந்திப்பில் தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-2248dabd)
+- 2026-03-29 | `virakesarilk-faeff204` | இன,மத வாதங்களை தூண்டி இருப்பை  தக்கவைக்க  அரசாங்கம் முயற்சி - சர்வஜன அதிகாரம் குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-faeff204)
+- 2026-03-29 | `virakesarilk-4c23a3e4` | மாகாணசபைத் தேர்தல் குறித்த பாராளுமன்ற விசேட குழுவில் சட்டமா அதிபர், தேர்தல்கள் ஆணைக்குழுவின் தலைவர் முன்னிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-4c23a3e4)
+- 2026-03-29 | `virakesarilk-36910399` | அமெரிக்க ஏகாதிபத்தியமும் சியோனிச இஸ்ரேலும் தோற்கடிக்கப்பட வேண்டும் - புதிய ஜனநாயக மாக்சிச லெனினிசக் கட்சி தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-36910399)
+- 2026-03-29 | `tamilmirrorlk-220c1b1d` | ஏலியன்கள்: அமெரிக்கா மறைக்கும் உண்மை என்ன? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-tamilmirrorlk-220c1b1d)
+- 2026-03-29 | `tamilmirrorlk-c81a84d3` | சிறுநீர் கழித்த பின் சொட்டுதல் பிரச்சினையா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-tamilmirrorlk-c81a84d3)
+- 2026-03-29 | `tamilmirrorlk-9c49f354` | 2 தொகுதியில் தவெக தலைவர் விஜய் போட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-tamilmirrorlk-9c49f354)
+- 2026-03-29 | `virakesarilk-834eef7d` | திருத்தப்பட்ட பேருந்து கட்டண அட்டவணைகளை காட்சிப்படுத்தல் கட்டாயம் - மேல் மாகாண பயணிகள் போக்குவரத்து அதிகாரசபை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-834eef7d)
+- 2026-03-29 | `virakesarilk-300070c0` | தடுமாறும் அரசாங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-300070c0)
+- 2026-03-29 | `adalk-1753b21a` | ශ්‍රේෂ්ඨාධිකරණය භෞතික නඩු ගොනු රහිතව නඩු විමසයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-adalk-1753b21a)
+- 2026-03-29 | `virakesarilk-022c54ac` | நடுநிலைக்கு வந்த சோதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-022c54ac)
+- 2026-03-29 | `virakesarilk-32b8dfb7` | பிரிக்ஸ் அமைப்பில் இணைந்திருந்தால் ரஷ்யாவிடம் முன்னரே எரிபொருளைப் பெற்றிருக்கலாம் - நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-32b8dfb7)
+- 2026-03-29 | `virakesarilk-d46d329a` | அமெரிக்காவில் ட்ரம்ப்புக்கு எதிராக பாரிய ஆர்ப்பாட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-d46d329a)
+- 2026-03-29 | `virakesarilk-60fc490a` | விஜயின் யாழ்ப்பாண மனைவி விவாகரத்து கோரும் நிலையில் அவரது தமிழக வெற்றிக் கழகம் தேர்தலுக்கு முகங்கொடுக்கிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-60fc490a)
+- 2026-03-29 | `virakesarilk-37014298` | இந்தியாவைப் பின்பற்றி எரிபொருள்  வரிகளைக் குறைக்க வேண்டும் - ஜனாதிபதி அநுரவிடம் சஜித் பிரேமதாச கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-37014298)
+- 2026-03-29 | `virakesarilk-138825a6` | பொதுச் செயலாளர் பதவிக்கு ரவீந்திர தீப் குலசேனவின் உரிமை கோரல் சட்டவிரோதம் - லங்கா சமசமாஜக் கட்சி எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-virakesarilk-138825a6)
+- 2026-03-29 | `tamilmirrorlk-bd48b822` | 11 வெற்று இருக்கைகளுடன் RCB அஞ்சலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-29-tamilmirrorlk-bd48b822)
 
 ---
 
