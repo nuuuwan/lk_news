@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-03-30 03:49:54",
-  "n_docs": 107472,
+  "time_updated": "2026-03-30 06:19:06",
+  "n_docs": 107500,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 107472,
+  "n_docs_with_text": 107500,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-03-30",
-  "dataset_size": 1654531323,
+  "dataset_size": 1654786332,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-30-dailyftlk-68350d92",
-    "num": "dailyftlk-68350d92",
+    "doc_id": "2026-03-30-dailyftlk-accb439f",
+    "num": "dailyftlk-accb439f",
     "date_str": "2026-03-30",
-    "description": "Why didn\u2019t competition bring down fuel prices?",
-    "url_metadata": "https://www.ft.lk/columns/Why-didn-t-competition-bring-down-fuel-prices/4-790216",
+    "description": "TISL welcomes SC ruling on FR violations in medical procurement case",
+    "url_metadata": "https://www.ft.lk/news/TISL-welcomes-SC-ruling-on-FR-violations-in-medical-procurement-case/56-790251",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1774822011.0
+    "time_ut": 1774828884.0
   }
 }
