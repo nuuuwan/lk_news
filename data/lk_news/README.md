@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--31_01:58:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--31_03:55:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**107,612** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**107,614** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-30-virakesarilk-5fb4951c",
-    "num": "virakesarilk-5fb4951c",
-    "date_str": "2026-03-30",
-    "description": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bb2\u0bcd: 7\u0bb5\u0ba4\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/242346",
+    "doc_id": "2026-03-31-tamilmirrorlk-37e44376",
+    "num": "tamilmirrorlk-37e44376",
+    "date_str": "2026-03-31",
+    "description": "\u2019200 \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0ba4\u0bbf.\u0bae\u0bc1.\u0b95. \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/200-\u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc7\u0bb2\u0bcd-\u0ba4\u0bbf-\u0bae\u0bc1-\u0b95-\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc8-\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd/175-374806",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1774890540.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1774902820.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-31 | `tamilmirrorlk-37e44376` | ’200 தொகுதிகளுக்கு மேல் தி.மு.க. வெற்றியை பெறும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-tamilmirrorlk-37e44376)
+- 2026-03-31 | `tamilmirrorlk-6f76074a` | திறந்தவெளி வாகன பிரச்சாரத்திற்கு விஜய்க்கு அனுமதி மறுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-tamilmirrorlk-6f76074a)
 - 2026-03-30 | `virakesarilk-5fb4951c` | மட்டக்களப்பு மயக்கமருந்து கும்பல்: 7வது சந்தேகநபர் தடுப்புக்காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-5fb4951c)
 - 2026-03-30 | `virakesarilk-c8e05da0` | அரசியலமைப்பு மூலமான தீர்வின் ஊடாக போரை நிறுத்த அயராது உழைத்தவர் நீலன் - நோர்வே இராஜதந்திரி எரிக் சொல்ஹெய்ம் நினைவுகூரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-c8e05da0)
 - 2026-03-30 | `virakesarilk-adb3be16` | யூரியா உரக் கையிருப்பு மட்டுப்பாடு நெற்செய்கைக்கு மாத்திரம் யூரியா உரத்தை வழங்கப்படும் - விவசாயத் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-adb3be16)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-30 | `virakesarilk-eaaa9b7c` | மனிதப் படுகொலைகளுடன் தொடர்புடைய  சந்தேகநபர்கள் 4 பேர் துப்பாக்கியுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-eaaa9b7c)
 - 2026-03-30 | `virakesarilk-820188b1` | மத்திய கிழக்கு போர் : முன்னெச்சரிக்கை நடவடிக்கைகள் அவசியம் – சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-820188b1)
 - 2026-03-30 | `virakesarilk-dc8face5` | வறண்ட வானிலையினால் ஏற்படும் காட்டுத்தீ அபாயங்கள் குறித்து பேரிடர் மேலாண்மை மையம் அவசர எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-dc8face5)
-- 2026-03-30 | `virakesarilk-750f1f61` | ஸ்ரீலங்கன் ஏர்லைன்ஸ் தலைவர் சரத் கணேகொட பதவி விலகல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-750f1f61)
-- 2026-03-30 | `virakesarilk-471f83f7` | மக்கள் சேவகனாக இருந்த அநுர குமார இன்று எங்கே? - சாகர காரியவசம் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-471f83f7)
 
 ---
 
