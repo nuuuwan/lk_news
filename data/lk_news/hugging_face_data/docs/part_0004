@@ -123914,6 +123914,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-03-30-islandlk-7690b2f5",
+    "num": "islandlk-7690b2f5",
+    "date_str": "2026-03-30",
+    "description": "LOLC Life Assurance hosts MDRT Summit & Recognition Night 2026 honouring top performers",
+    "url_metadata": "http://island.lk/lolc-life-assurance-hosts-mdrt-summit-recognition-night-2026-honouring-top-performers/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1774894440.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-03-30-islandlk-e0229a8d",
     "num": "islandlk-e0229a8d",
     "date_str": "2026-03-30",
