@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--31_18:07:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--31_21:07:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**107,735** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**107,740** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-31-tamilmirrorlk-77d69ba1",
-    "num": "tamilmirrorlk-77d69ba1",
+    "doc_id": "2026-03-31-adalk-c512b31b",
+    "num": "adalk-c512b31b",
     "date_str": "2026-03-31",
-    "description": "\u0bb0\u0bb7\u0bcd\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1  \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0bb7\u0bcd\u0baf-\u0baa\u0bbf\u0bb0\u0ba4\u0bbf-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc1\u0bb1\u0bb5\u0bc1-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/175-374844",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1774959801.0
+    "description": "\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc0\u0d82\u0da0\u0dcf\u0d9a\u0dc5 \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4 \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dc0\u0d82\u0da0\u0dcf\u0d9a\u0dc5-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-421907",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1774962998.0
 }
 ```
 
@@ -41,8 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-31 | `adalk-c512b31b` | කොරියාවේ රැකියා පෙන්වා මුදල් වංචාකළ සැකකරු අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-adalk-c512b31b)
 - 2026-03-31 | `tamilmirrorlk-77d69ba1` | ரஷ்ய பிரதி வெளியுறவு  அமைச்சர் வந்தடைந்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-tamilmirrorlk-77d69ba1)
 - 2026-03-31 | `tamilmirrorlk-d56861e3` | தண்டவாளத்தில் தலையை  வைத்த மன்சூர் அலிகானால் பரபரப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-tamilmirrorlk-d56861e3)
+- 2026-03-31 | `adalk-e259a204` | රුසියානු නියෝජ්‍ය විදෙස් ඇමතිත් එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-adalk-e259a204)
 - 2026-03-31 | `adalk-b38e9162` | සම්බා සහ කීරි සම්බා වලට ආදේශක ආනයනය කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-adalk-b38e9162)
 - 2026-03-31 | `tamilmirrorlk-265fc4b2` | மாணவன் துஷ்பிரயோகம்: அதிபர் சரண் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-tamilmirrorlk-265fc4b2)
 - 2026-03-31 | `adalk-9163edcc` | වියළි කාලගුණයේ වෙනසක් ලබන 2 දා සිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-adalk-9163edcc)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-03-31 | `virakesarilk-1ca54253` | மாணவனை பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டில் பாடசாலை அதிபர் கைது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-virakesarilk-1ca54253)
 - 2026-03-31 | `virakesarilk-3ed20972` | முன்னாள் பாராளுமன்ற உறுப்பினர் சஜின் வாஸ் குணவர்தனவுக்கு பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-virakesarilk-3ed20972)
 - 2026-03-31 | `adalk-abd90891` | 2 සිට 11 ශ්‍රේණි දක්වා සිසුන් ඇතුළත් කිරීමේ නව චක්‍රලේඛයට අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-adalk-abd90891)
-- 2026-03-31 | `virakesarilk-7ce7aec8` | வருமானச் சான்றிதழ் மோசடியில் ஓய்வுபெற்ற கிராம அலுவலர் கைது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-virakesarilk-7ce7aec8)
-- 2026-03-31 | `virakesarilk-22670b4f` | ஓய்வு பெரும் கடற்படை பணியாளர்களுக்கு வெளிநாட்டு வேலைவாய்ப்புகளை பெற்றுக் கொடுப்பது தொடர்பில் அவதானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-virakesarilk-22670b4f)
 
 ---
 
