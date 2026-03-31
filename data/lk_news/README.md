@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--31_03:55:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--31_06:19:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**107,614** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**107,642** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-03-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-03-31-tamilmirrorlk-37e44376",
-    "num": "tamilmirrorlk-37e44376",
+    "doc_id": "2026-03-31-dailyftlk-b665cbac",
+    "num": "dailyftlk-b665cbac",
     "date_str": "2026-03-31",
-    "description": "\u2019200 \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0ba4\u0bbf.\u0bae\u0bc1.\u0b95. \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/200-\u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc7\u0bb2\u0bcd-\u0ba4\u0bbf-\u0bae\u0bc1-\u0b95-\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc8-\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd/175-374806",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1774902820.0
+    "description": "Asia Siyaka Commodities appoints Chamara Dissanayake CEO, announces new Board additions",
+    "url_metadata": "https://www.ft.lk/business/Asia-Siyaka-Commodities-appoints-Chamara-Dissanayake-CEO-announces-new-Board-additions/34-790306",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1774917748.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-31 | `dailyftlk-b665cbac` | Asia Siyaka Commodities appoints Chamara Dissanayake CEO, announces new Board additions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-b665cbac)
+- 2026-03-31 | `dailyftlk-617c09a5` | Water Board mulls cuts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-617c09a5)
+- 2026-03-31 | `dailyftlk-605a35cc` | Vidyajyothi Prof. Rezvi Sheriff no more | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-605a35cc)
+- 2026-03-31 | `dailyftlk-d44ed602` | Deputy Finance Minister attends meeting on Shanghai Cooperation Organisation Development Bank | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-d44ed602)
+- 2026-03-31 | `dailyftlk-d46dfc47` | Launch of The J.R. I Disliked | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-d46dfc47)
+- 2026-03-31 | `dailyftlk-6b2230f0` | Sri Lanka deports 125 Chinese nationals over online financial fraud | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-6b2230f0)
+- 2026-03-31 | `dailyftlk-ecb5802d` | Committee orders urgent plan to manage Norochcholai ash amid rising output | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-ecb5802d)
+- 2026-03-31 | `dailyftlk-fa8cff90` | Middle East war round-up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-fa8cff90)
+- 2026-03-31 | `dailyftlk-c3f591a1` | GMOA to launch 24-hour strike over disputed transfers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-c3f591a1)
+- 2026-03-31 | `dailyftlk-a5d17689` | G7 to ensure energy market stability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-a5d17689)
+- 2026-03-31 | `dailyftlk-5a174e42` | Iran, France hold telephone call to discuss US-Israeli war | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-5a174e42)
+- 2026-03-31 | `dailyftlk-9b0cadde` | Spain closes airspace to US planes involved in war on Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-9b0cadde)
+- 2026-03-31 | `dailyftlk-0b6fbdb8` | Sri Lanka’s quiet justice revolution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-0b6fbdb8)
+- 2026-03-31 | `dailyftlk-46f9bfe3` | Hidden truth of Sri Lanka’s debt story: The untold narrative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-46f9bfe3)
+- 2026-03-31 | `dailyftlk-ea09b6c7` | A distant war, a direct shock: What the Middle East crisis means for Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-ea09b6c7)
+- 2026-03-31 | `dailyftlk-b4e49184` | Sri Lanka should be vindicated  for removing LNG from energy mix | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-b4e49184)
+- 2026-03-31 | `dailyftlk-9604cb19` | Navigating Sri Lanka’s new VAT refund framework: Key compliance insights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-dailyftlk-9604cb19)
 - 2026-03-31 | `tamilmirrorlk-37e44376` | ’200 தொகுதிகளுக்கு மேல் தி.மு.க. வெற்றியை பெறும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-tamilmirrorlk-37e44376)
 - 2026-03-31 | `tamilmirrorlk-6f76074a` | திறந்தவெளி வாகன பிரச்சாரத்திற்கு விஜய்க்கு அனுமதி மறுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-31-tamilmirrorlk-6f76074a)
-- 2026-03-30 | `virakesarilk-5fb4951c` | மட்டக்களப்பு மயக்கமருந்து கும்பல்: 7வது சந்தேகநபர் தடுப்புக்காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-5fb4951c)
-- 2026-03-30 | `virakesarilk-c8e05da0` | அரசியலமைப்பு மூலமான தீர்வின் ஊடாக போரை நிறுத்த அயராது உழைத்தவர் நீலன் - நோர்வே இராஜதந்திரி எரிக் சொல்ஹெய்ம் நினைவுகூரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-c8e05da0)
-- 2026-03-30 | `virakesarilk-adb3be16` | யூரியா உரக் கையிருப்பு மட்டுப்பாடு நெற்செய்கைக்கு மாத்திரம் யூரியா உரத்தை வழங்கப்படும் - விவசாயத் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-adb3be16)
-- 2026-03-30 | `adalk-ca6d6efb` | බාල ගල් අඟුරු නිසා නොරොච්චෝ‌ලේ අළු ප්‍රමාණය වැඩි වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-adalk-ca6d6efb)
-- 2026-03-30 | `virakesarilk-7d4d16be` | சைனீஸ் தாய்ப்பே உடனான போட்டிக்கு முன்னர் கடைசிக் கட்டப் பயிற்சியில் இலங்கை; மீண்டும் அணியில் இணைந்தார் சுபன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-7d4d16be)
-- 2026-03-30 | `virakesarilk-9f2141d9` | ஈரானின் எரிசக்தி வளங்களை முற்றிலுமாக அழிப்பதாக டிரம்ப் அச்சுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-9f2141d9)
-- 2026-03-30 | `tamilmirrorlk-62f91529` | இரவு 10 மணி வரை விளக்குகளை அணைக்கவும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-tamilmirrorlk-62f91529)
-- 2026-03-30 | `tamilmirrorlk-12a1a799` | ஸ்ரீலங்கன் எயார்லைன்ஸ் தலைவர் இராஜினாமா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-tamilmirrorlk-12a1a799)
-- 2026-03-30 | `tamilmirrorlk-7ab591bf` | 3 மணிக்குப் பிறகு AC தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-tamilmirrorlk-7ab591bf)
-- 2026-03-30 | `tamilmirrorlk-cdf9f8c6` | விஜய்யின் சொத்து மதிப்பு எவ்வளவு தெரியுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-tamilmirrorlk-cdf9f8c6)
-- 2026-03-30 | `virakesarilk-0a501698` | டயலொக் ஜனாதிபதி கிண்ண பாடசாலைகள் றக்பி இறுதிப் போட்டியில் றோயல் - திரித்துவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-0a501698)
-- 2026-03-30 | `virakesarilk-fe8336b4` | கார்க் தீவின் எண்ணெய் உள்கட்டமைப்புகளில் கைவைக்க அமெரிக்கா தயங்குகிறதா? - ஈரானுக்கு ஏன் கார்க் முக்கியம்? - ஒரு பார்வை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-fe8336b4)
-- 2026-03-30 | `adalk-0615eda8` | වාහන නැති නිසා පුරාවිද්‍යාවේ කාර්ය සාධනය අඩුවෙලාලු | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-adalk-0615eda8)
-- 2026-03-30 | `virakesarilk-57867d72` | மின்சாரத்தை சிக்கனமாக பயன்படுத்துவது தொடர்பில் புதிய வழிகாட்டல்கள் வெளியீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-57867d72)
-- 2026-03-30 | `virakesarilk-0499e33f` | நெருக்கடி  நிலையையே நினைவுபடுத்துகின்றது - பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-0499e33f)
-- 2026-03-30 | `virakesarilk-eaaa9b7c` | மனிதப் படுகொலைகளுடன் தொடர்புடைய  சந்தேகநபர்கள் 4 பேர் துப்பாக்கியுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-eaaa9b7c)
-- 2026-03-30 | `virakesarilk-820188b1` | மத்திய கிழக்கு போர் : முன்னெச்சரிக்கை நடவடிக்கைகள் அவசியம் – சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-820188b1)
-- 2026-03-30 | `virakesarilk-dc8face5` | வறண்ட வானிலையினால் ஏற்படும் காட்டுத்தீ அபாயங்கள் குறித்து பேரிடர் மேலாண்மை மையம் அவசர எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-virakesarilk-dc8face5)
+- 2026-03-30 | `islandlk-217353e0` | Middle East Conflict: The impact on migration and remittances in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-03-30-islandlk-217353e0)
 
 ---
 
