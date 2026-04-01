@@ -127024,5 +127024,71 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1775059800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-02-dailyftlk-e02159bb",
+    "num": "dailyftlk-e02159bb",
+    "date_str": "2026-04-02",
+    "description": "Today is International Fact-Checking Day",
+    "url_metadata": "https://www.ft.lk/opinion/Today-is-International-Fact-Checking-Day/14-790371",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775076110.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-02-dailyftlk-2d820191",
+    "num": "dailyftlk-2d820191",
+    "date_str": "2026-04-02",
+    "description": "From Gulf to Colombo: Economic ripple effects of Middle East war",
+    "url_metadata": "https://www.ft.lk/columns/From-Gulf-to-Colombo-Economic-ripple-effects-of-Middle-East-war/4-790372",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775076235.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-02-dailyftlk-6553dc6a",
+    "num": "dailyftlk-6553dc6a",
+    "date_str": "2026-04-02",
+    "description": "Education in a time of crisis: Lessons from the 2020-2021 period",
+    "url_metadata": "https://www.ft.lk/columns/Education-in-a-time-of-crisis-Lessons-from-the-2020-2021-period/4-790373",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775076591.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-02-dailyftlk-df7a1941",
+    "num": "dailyftlk-df7a1941",
+    "date_str": "2026-04-02",
+    "description": "US\u2013Israel war on Iran: Top dog bites the dust as underdog rises",
+    "url_metadata": "https://www.ft.lk/columns/USIsrael-war-on-Iran-Top-dog-bites-the-dust-as-underdog-rises/4-790374",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775077214.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-02-tamilmirrorlk-36f9a729",
+    "num": "tamilmirrorlk-36f9a729",
+    "date_str": "2026-04-02",
+    "description": "\u2019\u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bcd 3 \u0bb5\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0baa\u0bcb\u0bb0\u0bcd-3-\u0bb5\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1/50-374948",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1775077309.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-02-dailyftlk-ef9fb929",
+    "num": "dailyftlk-ef9fb929",
+    "date_str": "2026-04-02",
+    "description": "Dismantling devolution, paralysing Provincial Councils: A counter-reform package",
+    "url_metadata": "https://www.ft.lk/columns/Dismantling-devolution-paralysing-Provincial-Councils-A-counter-reform-package/4-790375",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775077818.0
   }
 ]
