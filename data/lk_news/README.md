@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--02_12:13:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--02_14:07:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**107,980** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**107,983** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-02-tamilmirrorlk-1e83a022",
-    "num": "tamilmirrorlk-1e83a022",
+    "doc_id": "2026-04-02-tamilmirrorlk-3df3cf33",
+    "num": "tamilmirrorlk-3df3cf33",
     "date_str": "2026-04-02",
-    "description": "\u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd; \u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1 \u0bae\u0b9a\u0b95\u0bc1 \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1-\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd-\u0b89\u0baf\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1-\u0bae\u0b9a\u0b95\u0bc1-\u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd/50-374967",
+    "description": "\u0b95\u0bc1\u0b9f\u0bbf \u0ba8\u0bc0\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bb3\u0bae\u0bbf\u0bb1\u0b99\u0bcd\u0b95\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0bc1\u0bb4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0b9f\u0bbf-\u0ba8\u0bc0\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95-\u0b95\u0bb3\u0bae\u0bbf\u0bb1\u0b99\u0bcd\u0b95\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3-\u0b95\u0bc1\u0bb4\u0bc1/175-374971",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1775111697.0
+    "time_ut": 1775117911.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-02 | `tamilmirrorlk-3df3cf33` | குடி நீருக்காக களமிறங்கவுள்ள குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-tamilmirrorlk-3df3cf33)
+- 2026-04-02 | `tamilmirrorlk-b08e33a0` | மாயமாகும் முச்சக்கர வண்டிகள் - வெளியான அதிர்ச்சி தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-tamilmirrorlk-b08e33a0)
+- 2026-04-02 | `tamilmirrorlk-8be0918f` | வீதியில் சென்ற குழந்தை மீது துப்பாக்கிச் சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-tamilmirrorlk-8be0918f)
 - 2026-04-02 | `tamilmirrorlk-1e83a022` | சரிந்தது தங்கம்; உயர்ந்தது மசகு எண்ணெய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-tamilmirrorlk-1e83a022)
 - 2026-04-02 | `tamilmirrorlk-36952276` | முன்னாள் அமைச்சர் மஹிந்த விஜேசேகர காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-tamilmirrorlk-36952276)
 - 2026-04-02 | `tamilmirrorlk-c73c39d6` | சுகாதாரத்துறை நெருக்கடிக்கு இவர்களே காரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-tamilmirrorlk-c73c39d6)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-04-02 | `virakesarilk-9979a6df` | 50 ஆண்டுகள் கழித்து நிலவுக்கு பயணம் ; நாசாவின் ஆர்டெமிஸ் II விண்கலம் விண்ணில் ஏவப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-virakesarilk-9979a6df)
 - 2026-04-02 | `tamilmirrorlk-3e13815d` | உ/த பெறுபேறுகளை மீளாய்வு செய்ய திகதி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-tamilmirrorlk-3e13815d)
 - 2026-04-02 | `virakesarilk-f421e6b4` | நீர்த்தேக்கத்தில் மூழ்கி இளைஞன் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-virakesarilk-f421e6b4)
-- 2026-04-02 | `tamilmirrorlk-15fd426a` | டில்லியில் பாதுகாப்புக் கவுன்சில் அவசர கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-tamilmirrorlk-15fd426a)
-- 2026-04-02 | `virakesarilk-2da070d7` | சட்டவிரோதமான முறையில் வாகனங்களை வைத்திருந்த மூவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-virakesarilk-2da070d7)
-- 2026-04-02 | `adalk-2674c05e` | අද සිට සවස් කාලයේ බොහෝ ප්‍රදේශවලට වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-adalk-2674c05e)
 
 ---
 
