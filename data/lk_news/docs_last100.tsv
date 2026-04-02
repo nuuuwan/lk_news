@@ -1,4 +1,7 @@
 doc_type	doc_id	num	date_str	description	url_metadata	lang	newspaper_id	time_ut
+lk_news	2026-04-02-adalk-f3d398ff	adalk-f3d398ff	2026-04-02	සඳ ගවේෂණයට ගඟනගාමීන් පෘතුවියෙන් පිටත්වෙයි	https://www.ada.lk/breaking_news/සඳ-ගවේෂණයට-ගඟනගාමීන්-පෘතුවියෙන්-පිටත්වෙයි/11-421919	si	adalk	1775097847.0
+lk_news	2026-04-02-tamilmirrorlk-5eca6db5	tamilmirrorlk-5eca6db5	2026-04-02	ஈரானை கடுமையாக தாக்குவோம்	https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானை-கடுமையாக-தாக்குவோம்/50-374951	ta	tamilmirrorlk	1775097778.0
+lk_news	2026-04-02-tamilmirrorlk-33707169	tamilmirrorlk-33707169	2026-04-02	இந்தோனேசியாவில்  நிலநடுக்கம் ; சுனாமி எச்சரிக்கை	https://www.tamilmirror.lk/செய்திகள்/இந்தோனேசியாவில்-நிலநடுக்கம்-சுனாமி-எச்சரிக்கை/175-374949	ta	tamilmirrorlk	1775092550.0
 lk_news	2026-04-02-virakesarilk-3a015e4a	virakesarilk-3a015e4a	2026-04-02	இன்றைய வானிலை	https://www.virakesari.lk/article/242523	ta	virakesarilk	1775089920.0
 lk_news	2026-04-02-virakesarilk-e95ccd31	virakesarilk-e95ccd31	2026-04-02	ஈரான் போர்: “இது எங்கள் போர் அல்ல” – பிரிட்டிஷ் பிரதமர்	https://www.virakesari.lk/article/242522	ta	virakesarilk	1775088960.0
 lk_news	2026-04-02-dailyftlk-88d60dd2	dailyftlk-88d60dd2	2026-04-02	Cabinet approves Rs. 1.2 m compensation for Uma Oya-affected 276 families	https://www.ft.lk/news/Cabinet-approves-Rs-1-2-m-compensation-for-Uma-Oya-affected-276-families/56-790404	en	dailyftlk	1775088462.0
@@ -45,6 +48,7 @@ lk_news	2026-04-01-islandlk-619f0e12	islandlk-619f0e12	2026-04-01	SLIIT Business
 lk_news	2026-04-01-islandlk-32c80c2c	islandlk-32c80c2c	2026-04-01	No safe place for women and girls in Darfur, MSF report finds	http://island.lk/no-safe-place-for-women-and-girls-in-darfur-msf-report-finds/	en	islandlk	1775051520.0
 lk_news	2026-04-01-islandlk-e89f744f	islandlk-e89f744f	2026-04-01	Liberty Lands & Developments acquires full ownership of Scope Cinemas in strategic consolidation move	http://island.lk/liberty-lands-developments-acquires-full-ownership-of-scope-cinemas-in-strategic-consolidation-move/	en	islandlk	1775051460.0
 lk_news	2026-04-01-islandlk-ee8d8795	islandlk-ee8d8795	2026-04-01	Meats from Delmo now on Uber Eats	http://island.lk/meats-from-delmo-now-on-uber-eats/	en	islandlk	1775051400.0
+lk_news	2026-04-01-adalk-f73fa71e	adalk-f73fa71e	2026-04-01	ඉරානය සමග සටන් විරාමය හෝමූස් ඇරියොත් පමණයි	https://www.ada.lk/breaking_news/ඉරානය-සමග-සටන්-විරාමය-හෝමූස්-ඇරියොත්-පමණයි/11-421918	si	adalk	1775050384.0
 lk_news	2026-04-01-adalk-d3eaf9b7	adalk-d3eaf9b7	2026-04-01	ලංකාවේ බලශක්ති ගැටලුව විසදාගැනීමට රුසියාවේ පූර්ණ සහාය	https://www.ada.lk/breaking_news/ලංකාවේ-බලශක්ති-ගැටලුව-විසදාගැනීමට-රුසියාවේ-පූර්ණ-සහාය/11-421917	si	adalk	1775047827.0
 lk_news	2026-04-01-virakesarilk-44cf1c2c	virakesarilk-44cf1c2c	2026-04-01	இரண்டு மோட்டார் சைக்கிள்கள் நேருக்கு நேர் மோதி விபத்து - ஒருவர் உயிரிழப்பு	https://www.virakesari.lk/article/242506	ta	virakesarilk	1775046420.0
 lk_news	2026-04-01-virakesarilk-233360c3	virakesarilk-233360c3	2026-04-01	தற்போதைய அரசாங்கம் வைத்தியர்களை கட்டாயப்படுத்தி சேவைகளைப் பெற முயற்சிக்கிறது - GMOA குற்றச்சாட்டு	https://www.virakesari.lk/article/242505	ta	virakesarilk	1775046060.0
@@ -95,7 +99,3 @@ lk_news	2026-04-01-tamilmirrorlk-21e5a52f	tamilmirrorlk-21e5a52f	2026-04-01	ச�
 lk_news	2026-04-01-virakesarilk-d4e3638a	virakesarilk-d4e3638a	2026-04-01	வீதி விளக்குகளை அணைக்கும் தீர்மானம் விபத்துக்கள் மற்றும் குற்றச்செயல்கள் அதிகரிக்கும் - மோட்டார் சைக்கிள் சங்கம் எச்சரிக்கை	https://www.virakesari.lk/article/242475	ta	virakesarilk	1775030280.0
 lk_news	2026-04-01-adalk-360009a7	adalk-360009a7	2026-04-01	උසස් පෙළ කප් ගැසූවන්	https://www.ada.lk/breaking_news/උසස්-පෙළ-කප්-ගැසූවන්/11-421914	si	adalk	1775029693.0
 lk_news	2026-04-01-virakesarilk-fa2e64b3	virakesarilk-fa2e64b3	2026-04-01	காட்டு யானை தாக்கி ஐந்து பிள்ளைகளின் தந்தை பலி!	https://www.virakesari.lk/article/242474	ta	virakesarilk	1775029380.0
-lk_news	2026-04-01-adalk-ada7ed85	adalk-ada7ed85	2026-04-01	අනිද්දා පොලිස්පති සහන මැදිරිය නෑ	https://www.ada.lk/breaking_news/අනිද්දා-පොලිස්පති-සහන-මැදිරිය-නෑ/11-421913	si	adalk	1775029207.0
-lk_news	2026-04-01-tamilmirrorlk-aa20eb4e	tamilmirrorlk-aa20eb4e	2026-04-01	சிறுத்தைகள் அட்டகாசம்: 13 நாய்கள் பலி	https://www.tamilmirror.lk/மலையகம்/சிறுத்தைகள்-அட்டகாசம்-13-நாய்கள்-பலி/76-374892	ta	tamilmirrorlk	1775027898.0
-lk_news	2026-04-01-virakesarilk-6e6f62c6	virakesarilk-6e6f62c6	2026-04-01	ஆறுகளுக்குள் ஊடுருவும் கடல் நீர்: குடிநீர் விநியோகத்துக்கு கடும் அச்சுறுத்தல் - நீர்ப்பாசனத் திணைக்களம் எச்சரிக்கை	https://www.virakesari.lk/article/242472	ta	virakesarilk	1775027580.0
-lk_news	2026-04-01-virakesarilk-366abda1	virakesarilk-366abda1	2026-04-01	2026இல் நடைபெறவுள்ள பரீட்சைகள் தொடர்பில் பரீட்சைகள் ஆணையாளர் நாயகம் முக்கிய அறிவிப்பு	https://www.virakesari.lk/article/242473	ta	virakesarilk	1775027460.0

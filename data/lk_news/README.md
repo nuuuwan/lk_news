@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--02_06:17:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--02_08:49:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**107,949** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**107,953** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-02-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2026-04-02-adalk-f3d398ff",
+    "num": "adalk-f3d398ff",
     "date_str": "2026-04-02",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/242523",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1775089920.0
+    "description": "\u0dc3\u0db3 \u0d9c\u0dc0\u0dda\u0dc2\u0dab\u0dba\u0da7 \u0d9c\u0d9f\u0db1\u0d9c\u0dcf\u0db8\u0dd3\u0db1\u0dca \u0db4\u0dd8\u0dad\u0dd4\u0dc0\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0db3-\u0d9c\u0dc0\u0dda\u0dc2\u0dab\u0dba\u0da7-\u0d9c\u0d9f\u0db1\u0d9c\u0dcf\u0db8\u0dd3\u0db1\u0dca-\u0db4\u0dd8\u0dad\u0dd4\u0dc0\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0db4\u0dd2\u0da7\u0dad\u0dca\u0dc0\u0dd9\u0dba\u0dd2/11-421919",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1775097847.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-02 | `adalk-f3d398ff` | සඳ ගවේෂණයට ගඟනගාමීන් පෘතුවියෙන් පිටත්වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-adalk-f3d398ff)
+- 2026-04-02 | `tamilmirrorlk-5eca6db5` | ஈரானை கடுமையாக தாக்குவோம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-tamilmirrorlk-5eca6db5)
+- 2026-04-02 | `tamilmirrorlk-33707169` | இந்தோனேசியாவில்  நிலநடுக்கம் ; சுனாமி எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-tamilmirrorlk-33707169)
 - 2026-04-02 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-virakesarilk-3a015e4a)
 - 2026-04-02 | `virakesarilk-e95ccd31` | ஈரான் போர்: “இது எங்கள் போர் அல்ல” – பிரிட்டிஷ் பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-virakesarilk-e95ccd31)
 - 2026-04-02 | `dailyftlk-88d60dd2` | Cabinet approves Rs. 1.2 m compensation for Uma Oya-affected 276 families | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-dailyftlk-88d60dd2)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-04-02 | `dailyftlk-f5a395b2` | Suresh Shah assumes office as HNB Chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-dailyftlk-f5a395b2)
 - 2026-04-02 | `dailyftlk-eed982f1` | Commercial Bank Investment  Banking: Redefining capital formation in a transforming economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-dailyftlk-eed982f1)
 - 2026-04-02 | `virakesarilk-9c5f9c20` | மே மாதம் நடுப்பகுதி வரை நாட்டுக்குத் தேவையான எரிபொருள் கையிருப்பில் உள்ளது - இலங்கை பெற்றோலியக் கூட்டுத்தாபனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-virakesarilk-9c5f9c20)
-- 2026-04-02 | `virakesarilk-8a57c332` | ஆழ்கடல் மீன்பிடி படகுடன் 6 பேர் கடற்படையினரால் கைது; 620 கோடி ரூபா பெறுமதியான 300 கிலோ ஹெரோயின் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-virakesarilk-8a57c332)
-- 2026-04-02 | `dailyftlk-ef9fb929` | Dismantling devolution, paralysing Provincial Councils: A counter-reform package | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-dailyftlk-ef9fb929)
-- 2026-04-02 | `tamilmirrorlk-36f9a729` | ’ஈரான் போர் 3 வாரங்களில் நிறைவு’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-02-tamilmirrorlk-36f9a729)
 
 ---
 
