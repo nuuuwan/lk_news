@@ -130005,5 +130005,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1775218200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-03-adalk-39c01832",
+    "num": "adalk-39c01832",
+    "date_str": "2026-04-03",
+    "description": "\u0dad\u0dd9\u0dbd\u0dd2\u0d9a\u0da9 \u0daf\u0dca\u0dc0\u0dd2\u0dad\u0dca\u0dc0 \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dbd\u0dd2\u0d9a\u0da9-\u0daf\u0dca\u0dc0\u0dd2\u0dad\u0dca\u0dc0-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0d9a\u0dca/11-421946",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1775218607.0
   }
 ]
