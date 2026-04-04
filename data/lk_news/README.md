@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--04_19:55:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--04_21:52:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**108,258** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**108,259** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2026-04-04 | `virakesarilk-5ea6435e` | யாரை காப்பாற்ற முயற்சிக்கின்றார் கம்மன்பில...? ஈஸ்டர் தாக்குதல் சூத்திரதாரி புத்தகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-virakesarilk-5ea6435e)
 - 2026-04-04 | `virakesarilk-e2f3f13b` | லீடர் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-virakesarilk-e2f3f13b)
 - 2026-04-04 | `tamilmirrorlk-06a2fcd2` | உயர் தரத்தில் 3A சித்திகளை பெற்ற யாழ். மாணவன் திடீர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-tamilmirrorlk-06a2fcd2)
+- 2026-04-04 | `adalk-00ac0ce6` | රනිල්ට හර්ෂට ඇමති නලින්දගේ ස්තූතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-adalk-00ac0ce6)
 - 2026-04-04 | `adalk-162ae286` | විනාශ කළ ජෙට් යානයේ නියමුවාට ඉරානයෙන් යුරෝ 50000ක ලන්සුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-adalk-162ae286)
 - 2026-04-04 | `tamilmirrorlk-dc71f820` | இறுதித் தீர்மானம் எடுக்கும் வரை பணிப்பகிஷ்கரிப்பு தொடரும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-tamilmirrorlk-dc71f820)
 - 2026-04-04 | `virakesarilk-b23ad5c4` | நாளை முதல் பாதுக்கை, ஹோமாகம உள்ளிட்ட பகுதிகளில் நீர்வெட்டு நேரம் குறைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-virakesarilk-b23ad5c4)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-04-04 | `virakesarilk-a2e791bb` | கொழும்பில் நீர்வெட்டு நேரத்தைக் குறைக்க நடவடிக்கை - தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-virakesarilk-a2e791bb)
 - 2026-04-04 | `virakesarilk-d2be02fa` | சுங்கம் தடுத்து வைத்துள்ள தமிழ் எழுத்ததாளரின் படைப்புகளை விடுவிப்பதாக அமைச்சர் அளித்த வாக்குறுதி 'காற்றில் பறந்தது?' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-virakesarilk-d2be02fa)
 - 2026-04-04 | `virakesarilk-e028654e` | வைத்திய அதிகாரிகளின் வேலைநிறுத்தம் அடிப்படையற்றது: நீதிமன்றத்திற்குச் செல்லுமாறு சுகாதார அமைச்சர் அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-virakesarilk-e028654e)
-- 2026-04-04 | `virakesarilk-dea21ceb` | மன்னார் பொது வைத்தியசாலை வைத்தியர்கள் தொழிற்சங்க போராட்டம் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-virakesarilk-dea21ceb)
 
 ---
 
