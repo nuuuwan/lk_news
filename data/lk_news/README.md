@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--04_13:57:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--04_15:53:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**108,228** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**108,229** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,6 +43,7 @@ A collection of lk_news documents.
 
 - 2026-04-04 | `tamilmirrorlk-1dda820b` | O/L எழுதிய சிறுவன் சடலமாக மிதந்த சோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-tamilmirrorlk-1dda820b)
 - 2026-04-04 | `adalk-70a84824` | ලංකාවේ ආර්ථික වර්ධනයට ලෝක  බැංකුවෙන් නව සැලැස්මක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-adalk-70a84824)
+- 2026-04-04 | `adalk-fc4c7586` | දියේ ගිලී දරුවෙකු ජීවිතක්ෂයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-adalk-fc4c7586)
 - 2026-04-04 | `virakesarilk-b5de5171` | அமெரிக்க போர் விமானி ஈரானில் குதித்ததாக தகவல் : பிடித்தால் பரிசு - ஈரான் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-virakesarilk-b5de5171)
 - 2026-04-04 | `virakesarilk-c1b7661d` | அரச மருத்துவ அதிகாரிகள் சங்கம் மீண்டும் பணிப்பகிஷ்கரிப்பில் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-virakesarilk-c1b7661d)
 - 2026-04-04 | `virakesarilk-7fa408aa` | விபத்தில் சிக்கிய ஊடகவியலாளர் பக்தி மெண்டிஸ் சிகிச்சை பலனின்றி காலமானார். | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-virakesarilk-7fa408aa)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-04-04 | `tamilmirrorlk-7993b263` | ’நிலக்கரி மோசடியை மறைக்க முயற்சி’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-tamilmirrorlk-7993b263)
 - 2026-04-04 | `tamilmirrorlk-722d0a59` | ரஷ்ய பிரதி வெளிவிவகார அமைச்சருடன் விஜித ஹேரத் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-tamilmirrorlk-722d0a59)
 - 2026-04-04 | `tamilmirrorlk-9ca92a9a` | கந்தக்காடு புனர்வாழ்வு மையத்திலிருந்து 4 கைதிகள் தப்பியோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-tamilmirrorlk-9ca92a9a)
-- 2026-04-04 | `virakesarilk-eaa1339b` | மத்திய கிழக்கு பதற்றம்: தெஹ்ரான் - பெய்ரூட் மீது இஸ்ரேல் தொடர் தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-04-virakesarilk-eaa1339b)
 
 ---
 
