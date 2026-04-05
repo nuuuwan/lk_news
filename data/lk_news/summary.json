@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-04-05 12:12:53",
-  "n_docs": 108321,
+  "time_updated": "2026-04-05 13:57:06",
+  "n_docs": 108335,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 108321,
+  "n_docs_with_text": 108335,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-04-05",
-  "dataset_size": 1669580902,
+  "dataset_size": 1670106260,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-05-tamilmirrorlk-08d8b542",
-    "num": "tamilmirrorlk-08d8b542",
+    "doc_id": "2026-04-05-virakesarilk-d4b9eabd",
+    "num": "virakesarilk-d4b9eabd",
     "date_str": "2026-04-05",
-    "description": "\u201c\u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bc1\u201d \u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bb5\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1/\u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bc1-\u0b85\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bb5\u0bb0\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/73-375104",
+    "description": "\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc0\u0bb0\u0bcd\u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/242794",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1775370919.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1775376540.0
   }
 }
