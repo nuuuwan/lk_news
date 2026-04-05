@@ -132403,5 +132403,82 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1775410620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-05-virakesarilk-0433e98f",
+    "num": "virakesarilk-0433e98f",
+    "date_str": "2026-04-05",
+    "description": "\u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0b9f\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bbe\u0ba9 \u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 \u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0b95\u0bbf\u0b99\u0bcd\u0bb8\u0bc8 \u0ba8\u0b9f\u0baa\u0bcd\u0baa\u0bc1 \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd \u0bb1\u0bcb\u0baf\u0bb2\u0bcd \u0b9a\u0bc6\u0bb2\u0b9e\u0bcd\u0b9a\u0bb0\u0bcd\u0bb8\u0bcd \u0baa\u0bc6\u0b99\u0bcd\u0b95\u0bb3\u0bc2\u0bb0\u0bc1 \u0bb5\u0bc6\u0bb3\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/242828",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1775413500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-06-virakesarilk-183f0880",
+    "num": "virakesarilk-183f0880",
+    "date_str": "2026-04-06",
+    "description": "\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95 \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb5\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0ba8\u0bbf\u0bb0\u0bcd\u0ba3\u0baf\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/242829",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1775414040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-06-dailyftlk-cec9288a",
+    "num": "dailyftlk-cec9288a",
+    "date_str": "2026-04-06",
+    "description": "Sri Lanka\u2019s real wealth lies not underground, but on the map",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-real-wealth-lies-not-underground-but-on-the-map/4-790490",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775425522.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-06-dailyftlk-ba761420",
+    "num": "dailyftlk-ba761420",
+    "date_str": "2026-04-06",
+    "description": "The endeavours of enlightened leaders:  Tested in turbulent times",
+    "url_metadata": "https://www.ft.lk/columns/The-endeavours-of-enlightened-leaders-Tested-in-turbulent-times/4-790491",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775425905.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-06-dailyftlk-4da9927f",
+    "num": "dailyftlk-4da9927f",
+    "date_str": "2026-04-06",
+    "description": "Rethinking SL\u2019s development through happiness, youth wellbeing and resilience",
+    "url_metadata": "https://www.ft.lk/columns/Rethinking-SL-s-development-through-happiness-youth-wellbeing-and-resilience/4-790492",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775426295.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-06-dailyftlk-e564c0d3",
+    "num": "dailyftlk-e564c0d3",
+    "date_str": "2026-04-06",
+    "description": "The Ghost in the Gazette",
+    "url_metadata": "https://www.ft.lk/columns/The-Ghost-in-the-Gazette/4-790493",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775426703.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-06-dailyftlk-65b6439b",
+    "num": "dailyftlk-65b6439b",
+    "date_str": "2026-04-06",
+    "description": "Post-Easter Sri Lanka: Between memory, narrative, and national security",
+    "url_metadata": "https://www.ft.lk/columns/Post-Easter-Sri-Lanka-Between-memory-narrative-and-national-security/4-790494",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775427123.0
   }
 ]
