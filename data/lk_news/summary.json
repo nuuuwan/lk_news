@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-04-06 03:49:41",
-  "n_docs": 108402,
+  "time_updated": "2026-04-06 06:29:56",
+  "n_docs": 108418,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 108402,
+  "n_docs_with_text": 108418,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-04-06",
-  "dataset_size": 1671508800,
+  "dataset_size": 1671718249,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-06-dailyftlk-65b6439b",
-    "num": "dailyftlk-65b6439b",
+    "doc_id": "2026-04-06-dailyftlk-348d9f43",
+    "num": "dailyftlk-348d9f43",
     "date_str": "2026-04-06",
-    "description": "Post-Easter Sri Lanka: Between memory, narrative, and national security",
-    "url_metadata": "https://www.ft.lk/columns/Post-Easter-Sri-Lanka-Between-memory-narrative-and-national-security/4-790494",
+    "description": "Ven. Dr. Kirinde Assaji Thero honoured with Lifetime Achievement Award by Canterbury Christ Church University",
+    "url_metadata": "https://www.ft.lk/news/Ven-Dr-Kirinde-Assaji-Thero-honoured-with-Lifetime-Achievement-Award-by-Canterbury-Christ-Church-University/56-790526",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1775427123.0
+    "time_ut": 1775432726.0
   }
 }
