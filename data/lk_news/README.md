@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--06_18:05:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--06_20:05:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**108,513** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**108,514** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2026-04-06 | `virakesarilk-8d8b0a88` | எரிவாயு விலை உயர்வால் மக்கள் மீண்டும் விறகு அடுப்பிற்குத் தள்ளப்பட்டுள்ளனர்: பாவனையாளர் முன்னணி கடும் விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-8d8b0a88)
 - 2026-04-06 | `virakesarilk-754c0ca2` | புதன்கிழமை விசேட விடுமுறை இரத்து - அத்தியாவசிய சேவைகள் ஆணையாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-754c0ca2)
 - 2026-04-06 | `virakesarilk-daa4ce7b` | அம்பாந்தோட்டை துறைமுகத்தை வந்தடைந்தது லாப் எரிவாயு கப்பல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-daa4ce7b)
+- 2026-04-06 | `adalk-c317dfe4` | QR ගනුදෙනු රු 5000ක් දක්වා ගාස්තුවලින් නිදහස් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-adalk-c317dfe4)
 - 2026-04-06 | `tamilmirrorlk-ee517b4e` | புதன் கிழமை விடுமுறை இரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-tamilmirrorlk-ee517b4e)
 - 2026-04-06 | `virakesarilk-3d54387a` | இயக்குநர் பா.ரஞ்சித் வெளியிட்ட விஜய் அண்டனியின் நூறு சாமி படத்தின் டீசர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-3d54387a)
 - 2026-04-06 | `virakesarilk-b9c27b30` | நடிகர் வினோத் கிஷன் நடிக்கும் 'வேண்டுமடி நீயெனக்கு' படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-b9c27b30)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-04-06 | `virakesarilk-6b86cf08` | முல்லைத்தீவு - புதுக்குடியிருப்பில் "வீரசிங்கம்" அணைக்கட்டின் கட்டுமானப் பணிகள் முழுமைப்படுத்தப்பட்டுள்ளன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-6b86cf08)
 - 2026-04-06 | `virakesarilk-7d5a1072` | சுரேஷ் சலே மேன்முறையீட்டு நீதிமன்றில் மனுத்தாக்கல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-7d5a1072)
 - 2026-04-06 | `virakesarilk-256c8155` | கடந்த ஆண்டில் 10,000க்கும் மேற்பட்ட சிறுவர் துஷ்பிரயோக முறைப்பாடுகள் பதிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-256c8155)
-- 2026-04-06 | `virakesarilk-e7716209` | அதிவேக நெடுஞ்சாலை விபத்து: உயிரைக் காக்க 2 மணிநேரம் போராடிய மருத்துவ தம்பதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-e7716209)
 
 ---
 
