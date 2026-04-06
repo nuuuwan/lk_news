@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-04-06 08:59:06",
-  "n_docs": 108426,
+  "time_updated": "2026-04-06 10:44:00",
+  "n_docs": 108439,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 108426,
+  "n_docs_with_text": 108439,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-04-06",
-  "dataset_size": 1671973605,
+  "dataset_size": 1672083499,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-06-dailyftlk-348d9f43",
-    "num": "dailyftlk-348d9f43",
+    "doc_id": "2026-04-06-tamilmirrorlk-a98dfdf8",
+    "num": "tamilmirrorlk-a98dfdf8",
     "date_str": "2026-04-06",
-    "description": "Ven. Dr. Kirinde Assaji Thero honoured with Lifetime Achievement Award by Canterbury Christ Church University",
-    "url_metadata": "https://www.ft.lk/news/Ven-Dr-Kirinde-Assaji-Thero-honoured-with-Lifetime-Achievement-Award-by-Canterbury-Christ-Church-University/56-790526",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1775432726.0
+    "description": "\u2019\u0b95\u0bc1\u0bb7\u0bcd\u2019 \u0ba4\u0bca\u0b95\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb7\u0bcd-\u0ba4\u0bca\u0b95\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-375151",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1775452116.0
   }
 }
