@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--07_00:04:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--07_01:57:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**108,521** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**108,540** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-06-virakesarilk-ef1bf984",
-    "num": "virakesarilk-ef1bf984",
-    "date_str": "2026-04-06",
-    "description": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bbe\u0bb2 \u0b87\u0ba3\u0bc8\u0baf\u0bb5\u0bb4\u0bbf \u0bae\u0bcb\u0b9a\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/242907",
+    "doc_id": "2026-04-07-tamilmirrorlk-0b174b7f",
+    "num": "tamilmirrorlk-0b174b7f",
+    "date_str": "2026-04-07",
+    "description": "\u0b90.\u0b8e\u0bae\u0bcd.\u0b8e\u0baa\u0bcd. \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bcd\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0b8e\u0bae\u0bcd-\u0b8e\u0baa\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0ba8\u0bbf\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bcd\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd/175-375190",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1775489580.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1775504922.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-07 | `tamilmirrorlk-0b174b7f` | ஐ.எம்.எப். பிரதிநிதிகளுடன் கைத்தொழில் அமைச்சர் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-07-tamilmirrorlk-0b174b7f)
+- 2026-04-07 | `dailyftlk-08f3ed3c` | Ritzbury honoured with Sri Lanka’s highest National Quality Award | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-07-dailyftlk-08f3ed3c)
+- 2026-04-07 | `virakesarilk-4b9199a2` | ஈரான் தற்காலிக போர்நிறுத்தத்தை நிராகரிக்கிறது: போரை முடிவுக்கு கொண்டுவர 10 நிபந்தனைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-07-virakesarilk-4b9199a2)
+- 2026-04-06 | `virakesarilk-d49601d1` | சினோபெக் சூப்பர் டீசல் விலை ரூ. 28 உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-d49601d1)
+- 2026-04-06 | `virakesarilk-d8ed151a` | குடிசன வீட்டு வசதிகள் தொகை மதிப்பு 2024 இறுதி அறிக்கை ஜனாதிபதியிடம் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-d8ed151a)
+- 2026-04-06 | `dailyftlk-744bdc2a` | LAUGFS Gas says ensuring stable supply for festive season | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-dailyftlk-744bdc2a)
+- 2026-04-06 | `dailyftlk-c94689b7` | Niveyn Nanayakkara joins LOLC Group plantation company Boards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-dailyftlk-c94689b7)
+- 2026-04-06 | `dailyftlk-8a30f91a` | Mintpay launches no-expiry corporate vouchers across 2,500 merchants | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-dailyftlk-8a30f91a)
+- 2026-04-06 | `dailyftlk-030c5348` | UN Women Regional Director launches Sri Lanka’s first Country Gender Equality Profile | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-dailyftlk-030c5348)
+- 2026-04-06 | `dailyftlk-bd4e31fd` | Inland Revenue Bill 2026 challenge before Supreme Court | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-dailyftlk-bd4e31fd)
+- 2026-04-06 | `dailyftlk-665361f2` | Fixing Sri Lanka’s innovation problem: Start with the right problems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-dailyftlk-665361f2)
+- 2026-04-06 | `dailyftlk-b351f414` | Rational responses to supply constraints in energy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-dailyftlk-b351f414)
+- 2026-04-06 | `dailyftlk-c3c74b86` | Burden-sharing or burden-shifting? The Gulf and the cost of war | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-dailyftlk-c3c74b86)
+- 2026-04-06 | `dailyftlk-ccd4ebbd` | Roads, traffic police and commuters: Is SL heading towards a traffic crisis? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-dailyftlk-ccd4ebbd)
+- 2026-04-06 | `virakesarilk-65f1add7` | உயிர்த்த ஞாயிறு விவகாரம்: குற்றச்சாட்டுக்கு சட்ட நடவடிக்கை எடுப்பேன் – முஜிபுர் ரஹ்மான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-65f1add7)
+- 2026-04-06 | `virakesarilk-0cbe40a3` | யாழில். போதை மாத்திரைகளுடன் கைதான இளைஞனிடமிருந்து கூரிய வாளும் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-0cbe40a3)
 - 2026-04-06 | `virakesarilk-ef1bf984` | புத்தாண்டு கால இணையவழி மோசடிகள் குறித்துப் பொதுமக்கள் அவதானத்துடன் இருக்குமாறு பொலிஸார் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-ef1bf984)
 - 2026-04-06 | `virakesarilk-29207a6b` | ரூ.45,000 இலஞ்சம் கோரிய தரகர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-29207a6b)
 - 2026-04-06 | `virakesarilk-dbe6f891` | “சமூக சக்தி” தேசிய வேலைத்திட்டத்தின் செயற்பாட்டுக் குழு கூடியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-dbe6f891)
-- 2026-04-06 | `virakesarilk-f9e2cbea` | மார்ச் மாதத்திற்கான ஐசிசி அதிசிறந்த வீரர், வீராங்கனைக்கான பரிந்துரைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-f9e2cbea)
-- 2026-04-06 | `virakesarilk-28399cfe` | இந்தியத் துணை  ஜனாதிபதியின் இலங்கைக்கான உத்தியோகபூர்வ விஜயம் குறித்த கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-28399cfe)
-- 2026-04-06 | `virakesarilk-cdd6d830` | சட்டவிரோத மின்கம்பியில் சிக்கி குடும்பஸ்தர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-cdd6d830)
-- 2026-04-06 | `adalk-a694cfc0` | බදාදා නිවාඩුව අවලංගුයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-adalk-a694cfc0)
-- 2026-04-06 | `virakesarilk-b706934a` | வவுனியா குப்பை மேட்டுப் பிரச்சினை : பிரதி அமைச்சர் உபாலி சமரசிங்க தலைமையிலான குழு களவிஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-b706934a)
-- 2026-04-06 | `virakesarilk-008dc16e` | இலங்கையைச் சேர்ந்த 'கயல்' சீரியல் நடிகை சுபாஷினி சென்னையில் சடலமாக மீட்பு : உயிர்மாய்ப்பு எனச் சந்தேகம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-008dc16e)
-- 2026-04-06 | `virakesarilk-8d8b0a88` | எரிவாயு விலை உயர்வால் மக்கள் மீண்டும் விறகு அடுப்பிற்குத் தள்ளப்பட்டுள்ளனர்: பாவனையாளர் முன்னணி கடும் விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-8d8b0a88)
-- 2026-04-06 | `virakesarilk-754c0ca2` | புதன்கிழமை விசேட விடுமுறை இரத்து - அத்தியாவசிய சேவைகள் ஆணையாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-754c0ca2)
-- 2026-04-06 | `virakesarilk-daa4ce7b` | அம்பாந்தோட்டை துறைமுகத்தை வந்தடைந்தது லாப் எரிவாயு கப்பல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-daa4ce7b)
-- 2026-04-06 | `adalk-c317dfe4` | QR ගනුදෙනු රු 5000ක් දක්වා ගාස්තුවලින් නිදහස් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-adalk-c317dfe4)
-- 2026-04-06 | `tamilmirrorlk-ee517b4e` | புதன் கிழமை விடுமுறை இரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-tamilmirrorlk-ee517b4e)
-- 2026-04-06 | `virakesarilk-3d54387a` | இயக்குநர் பா.ரஞ்சித் வெளியிட்ட விஜய் அண்டனியின் நூறு சாமி படத்தின் டீசர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-3d54387a)
-- 2026-04-06 | `virakesarilk-b9c27b30` | நடிகர் வினோத் கிஷன் நடிக்கும் 'வேண்டுமடி நீயெனக்கு' படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-b9c27b30)
-- 2026-04-06 | `virakesarilk-703f2737` | அதிநவீன வசதிகளுடன் கூடிய சஃபாரி பேருந்து சேவை ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-703f2737)
-- 2026-04-06 | `virakesarilk-65c172d5` | சாதனை படைத்து வரும் நடிகர் பிரதீப் ரங்கநாதனின் 'லவ் இன்சூரன்ஸ் கம்பனி 'படத்தின் முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-65c172d5)
-- 2026-04-06 | `virakesarilk-95c30a84` | 'பிரேக்ஃபாஸ்ட் படத்தில் இன்றைய வாழ்க்கை நடைமுறை தொடர்பான அறிவுரையை நாங்கள் சொல்லவில்லை'- இயக்குநர் காந்தி கிருஷ்ணா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-95c30a84)
-- 2026-04-06 | `tamilmirrorlk-6ac4bdbc` | ’’மீண்டும் பேசுவதற்கு தயாராகின்றன ஈரான் - அமெரிக்கா’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-tamilmirrorlk-6ac4bdbc)
+- 2026-04-06 | `virakesarilk-36d48309` | குண்டுத்தாக்குதலுக்கு முஜிபுர் ரஹ்மான் நேரடியாக பொறுப்புக்கூற வேண்டும்  - சரத் வீரசேகர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-06-virakesarilk-36d48309)
 
 ---
 
