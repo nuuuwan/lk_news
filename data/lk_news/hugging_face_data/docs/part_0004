@@ -135607,6 +135607,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-04-07-colombotelegraphcom-7f594e75",
+    "num": "colombotelegraphcom-7f594e75",
+    "date_str": "2026-04-07",
+    "description": "Poetry For An Inspiring & Whimsical Childhood: Swirling Scoops Of Whimsical Magic",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/poetry-for-an-inspiring-whimsical-childhood-swirling-scoops-of-whimsical-magic/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1775564208.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-04-07-virakesarilk-3035b702",
     "num": "virakesarilk-3035b702",
     "date_str": "2026-04-07",
@@ -135626,6 +135637,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1775566760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-07-colombotelegraphcom-a5a41a03",
+    "num": "colombotelegraphcom-a5a41a03",
+    "date_str": "2026-04-07",
+    "description": "How The Iran\u2013Israel Conflict Is Reshaping Global Consumer Markets",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/how-the-iran-israel-conflict-is-reshaping-global-consumer-markets/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1775566872.0
   },
   {
     "doc_type": "lk_news",
@@ -135692,5 +135714,82 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1775573344.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-07-colombotelegraphcom-e95ee173",
+    "num": "colombotelegraphcom-e95ee173",
+    "date_str": "2026-04-07",
+    "description": "Rhetoric Without Alignment: Is The US Approaching An Undignified Exit?",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/rhetoric-without-alignment-is-the-us-approaching-an-undignified-exit/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1775574302.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-08-dailyftlk-28fb81aa",
+    "num": "dailyftlk-28fb81aa",
+    "date_str": "2026-04-08",
+    "description": "Guardians of financial integrity: The untold misery of audit trainees",
+    "url_metadata": "https://www.ft.lk/columns/Guardians-of-financial-integrity-The-untold-misery-of-audit-trainees/4-790597",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775597294.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-08-dailyftlk-2be014e6",
+    "num": "dailyftlk-2be014e6",
+    "date_str": "2026-04-08",
+    "description": "Smoke, sulphur, and squandered opportunity",
+    "url_metadata": "https://www.ft.lk/columns/Smoke-sulphur-and-squandered-opportunity/4-790598",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775597823.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-08-dailyftlk-c6c358fb",
+    "num": "dailyftlk-c6c358fb",
+    "date_str": "2026-04-08",
+    "description": "When ownership\u00a0isn\u2019t\u00a0ownership: How special land regimes undermine property rights",
+    "url_metadata": "https://www.ft.lk/columns/When-ownershipisn-townership-How-special-land-regimes-undermine-property-rights/4-790599",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775598431.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-08-tamilmirrorlk-0e166848",
+    "num": "tamilmirrorlk-0e166848",
+    "date_str": "2026-04-08",
+    "description": "\u2019\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0bbe\u0bae\u0bb2\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd-\u0ba8\u0bbe\u0bae\u0bb2\u0bcd/175-375264",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1775598708.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-08-dailyftlk-036a4492",
+    "num": "dailyftlk-036a4492",
+    "date_str": "2026-04-08",
+    "description": "The Meethotamulla judgment and what it really means: community voices from 2018",
+    "url_metadata": "https://www.ft.lk/columns/The-Meethotamulla-judgment-and-what-it-really-means-community-voices-from-2018/4-790600",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775598769.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-08-dailyftlk-1e9838d7",
+    "num": "dailyftlk-1e9838d7",
+    "date_str": "2026-04-08",
+    "description": "Together for health; stand with science",
+    "url_metadata": "https://www.ft.lk/columns/Together-for-health-stand-with-science/4-790602",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775599231.0
   }
 ]
