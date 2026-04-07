@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-04-07 03:53:12",
-  "n_docs": 108542,
+  "time_updated": "2026-04-07 06:20:54",
+  "n_docs": 108564,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 108542,
+  "n_docs_with_text": 108564,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-04-07",
-  "dataset_size": 1674067300,
+  "dataset_size": 1674210462,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-07-dailyftlk-c1a9d5f3",
-    "num": "dailyftlk-c1a9d5f3",
+    "doc_id": "2026-04-07-virakesarilk-9bddd22b",
+    "num": "virakesarilk-9bddd22b",
     "date_str": "2026-04-07",
-    "description": "SJB open to UNP tie-up, rules out alliance with Rajapaksas",
-    "url_metadata": "https://www.ft.lk/news/SJB-open-to-UNP-tie-up-rules-out-alliance-with-Rajapaksas/56-790577",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1775509049.0
+    "description": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bcb\u0bb0\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd IMF \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4 \u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd \u2013 \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0bb0\u0bcd \u0ba4\u0ba9\u0ba8\u0bbe\u0ba4\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb",
+    "url_metadata": "https://www.virakesari.lk/article/242919",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1775518560.0
   }
 }
