@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--09_02:02:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--09_03:58:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**108,823** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**108,824** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A collection of lk_news documents.
 - 2026-04-09 | `virakesarilk-a6428989` | நிலக்கரி மோசடி: பிணைமுறி மோசடியை விட பெரிது; ஜனாதிபதி பொறுப்புக்கூற வேண்டும் - திலித் ஜயவீர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-a6428989)
 - 2026-04-08 | `virakesarilk-4408f61d` | தரம் குறைந்த நிலக்கரி; அரசுக்கு பெரும் நட்டம் - எஸ்.எம். மரிக்கார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-08-virakesarilk-4408f61d)
 - 2026-04-08 | `virakesarilk-9f7cdf5f` | மங்களகம பகுதியில் எருமை மாட்டை சுட்டுக் கொன்ற இரு இளைஞர்கள் கைது; துப்பாக்கி மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-08-virakesarilk-9f7cdf5f)
+- 2026-04-08 | `tamilmirrorlk-7b0e2625` | திருகோணமலையில் ரயில் இயந்திரம் தீக்கிரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-08-tamilmirrorlk-7b0e2625)
 - 2026-04-08 | `tamilmirrorlk-5e25c989` | பழைய  படுகொலை: பெண்ணுடன் நால்வர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-08-tamilmirrorlk-5e25c989)
 - 2026-04-08 | `virakesarilk-41b1a7fe` | பதிவு செய்யப்படாத நிறுவனத்திடம் நிலக்கரி கொள்வனவு: அரசாங்கத்தை சாடுகிறார் நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-08-virakesarilk-41b1a7fe)
 - 2026-04-08 | `virakesarilk-0639fc38` | 50% மின்சார நெருக்கடி ஏற்படும் அபாயம்: நிலக்கரி மோசடியே காரணம் - சுஜீவ சேனசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-08-virakesarilk-0639fc38)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-04-08 | `virakesarilk-50ba09b7` | வடமாகாணத்தின் வணிக மேம்பாடு, பொருளாதார வளர்ச்சிக்காக 'வடக்கு மாகாண வணிகக் கொள்கை' உருவாக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-08-virakesarilk-50ba09b7)
 - 2026-04-08 | `virakesarilk-18ab399c` | பிரிட்டனின் வர்த்தக சலுகை திட்டம் : இலங்கை ஆடை ஏற்றுமதியில் புதிய பரிமாணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-08-virakesarilk-18ab399c)
 - 2026-04-08 | `virakesarilk-d819290a` | தனுஷ் நடிக்கும் 'கர' படத்தின் இரண்டாவது பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-08-virakesarilk-d819290a)
-- 2026-04-08 | `virakesarilk-62dc8480` | அல்லு அர்ஜுன் - அட்லி கூட்டணியில் தயாராகும் 'ராக்கா' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-08-virakesarilk-62dc8480)
 
 ---
 
