@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--09_16:16:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--09_18:10:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**108,936** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**108,942** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-09-tamilmirrorlk-7e9fb4cd",
-    "num": "tamilmirrorlk-7e9fb4cd",
+    "doc_id": "2026-04-09-adalk-36845327",
+    "num": "adalk-36845327",
     "date_str": "2026-04-09",
-    "description": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bbf\u0b9a\u0bbf \u0bb5\u0bbf\u0bb4\u0bbe",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bbf\u0b9a\u0bbf-\u0bb5\u0bbf\u0bb4\u0bbe/175-375353",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1775730824.0
+    "description": "\u0d9c\u0dd2\u0dab\u0dd2\u0d9a\u0dd9\u0dc5\u0dd2 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dc0\u0dbd \u0d85\u0da9\u0dd4\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dd2\u0dab\u0dd2\u0d9a\u0dd9\u0dc5\u0dd2-\u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dc0\u0dbd-\u0d85\u0da9\u0dd4\u0dc0\u0d9a\u0dca/11-422028",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1775730940.0
 }
 ```
 
@@ -41,10 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-09 | `adalk-36845327` | ගිණිකෙළි නිෂ්පාදනවල අඩුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-adalk-36845327)
 - 2026-04-09 | `tamilmirrorlk-7e9fb4cd` | தேசிய புத்தரிசி விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-tamilmirrorlk-7e9fb4cd)
 - 2026-04-09 | `virakesarilk-26fe15b2` | லெபனான் மீது தாக்குதல் தொடரும்: இஸ்ரேல் பிரதமர் நெதன்யாகு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-26fe15b2)
+- 2026-04-09 | `adalk-13cfb044` | විස්තීර්ණ ණය පහසුකමේ පස්වැනි හා හයවැනි වාරික වෙනුවෙන් කාර්ය මණ්ඩල එකගතාව | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-adalk-13cfb044)
 - 2026-04-09 | `virakesarilk-ab5739dc` | நடிகர் ரவி மரியா நடிக்கும் 'மக்கள் தலைவா' படத்தின் டைட்டில் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-ab5739dc)
 - 2026-04-09 | `virakesarilk-144f2363` | 'கேரளமே வெளியே வாருங்கள்': ராகுல் காந்தி அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-144f2363)
+- 2026-04-09 | `adalk-56122c87` | වෛද්‍ය ප්‍රතිකාර ගත් හිටපු ජනපති රනිල් යළිත් එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-adalk-56122c87)
 - 2026-04-09 | `tamilmirrorlk-67bf3428` | 15 மாதங்களில் புதிய பொலிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-tamilmirrorlk-67bf3428)
 - 2026-04-09 | `adalk-2b50e8de` | සෞඛ්‍යයට හෙට 154ක් බඳවා ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-adalk-2b50e8de)
 - 2026-04-09 | `virakesarilk-4ce50bac` | மக்கள் செல்வன் விஜய் சேதுபதி வெளியிட்ட பிரஜினின் ' அந்தரன் ' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-4ce50bac)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-04-09 | `virakesarilk-004a851b` | லெபனான் மீது இஸ்ரேல் நடத்திய தாக்குதலில் இலங்கைப் பெண் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-004a851b)
 - 2026-04-09 | `virakesarilk-3a3ded98` | விசாரணை அறிக்கைக்குப் பின் அரசாங்கம் வாயடைத்துப் போயுள்ளது - ஜானக வக்கும்புர! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-3a3ded98)
 - 2026-04-09 | `adalk-4b271407` | දිට්වා නැවැත්වූ තල් අරඹේ ගමන යලි අද සිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-adalk-4b271407)
-- 2026-04-09 | `virakesarilk-c82bd01f` | காலி வைத்தியசாலையில் புற்றுநோய் சிகிச்சை இயந்திரம் செயலிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-c82bd01f)
-- 2026-04-09 | `virakesarilk-77c2b0c0` | எரிபொருள் மானியத்தால் மகிழ்ச்சி: வடமாகாண மீனவர்களுக்கு விசேட இணைப்பாளர் தேவை - என்.எம்.ஆலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-77c2b0c0)
-- 2026-04-09 | `virakesarilk-522355c7` | அவசரகால சட்டம் நீட்டிப்பு: 110 மேலதிக வாக்குகளால் பாராளுமன்றத்தில் நிறைவேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-522355c7)
 
 ---
 
