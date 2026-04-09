@@ -132659,6 +132659,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-04-05-islandlk-9a86f873",
+    "num": "islandlk-9a86f873",
+    "date_str": "2026-04-05",
+    "description": "Carnage, justice and politics",
+    "url_metadata": "http://island.lk/carnage-justice-and-politics/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1775412000.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-04-05-virakesarilk-0433e98f",
     "num": "virakesarilk-0433e98f",
     "date_str": "2026-04-05",
@@ -134075,6 +134086,17 @@ ews",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1775498460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-06-islandlk-75dd253a",
+    "num": "islandlk-75dd253a",
+    "date_str": "2026-04-06",
+    "description": "The Easter investigation must not become ethno-religious politics",
+    "url_metadata": "http://island.lk/the-easter-investigation-must-not-become-ethno-religious-politics/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1775498580.0
   },
   {
     "doc_type": "lk_news",
@@ -135915,6 +135937,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-04-07-islandlk-4b405493",
+    "num": "islandlk-4b405493",
+    "date_str": "2026-04-07",
+    "description": "The university bought AI, now it\u2019s buying back the pencil",
+    "url_metadata": "http://island.lk/the-university-bought-ai-now-its-buying-back-the-pencil/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1775585820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-07-islandlk-cda6f337",
+    "num": "islandlk-cda6f337",
+    "date_str": "2026-04-07",
+    "description": "Lest we forget \u2013 2",
+    "url_metadata": "http://island.lk/lest-we-forget-2-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1775586060.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-04-08-islandlk-d1d3e2d8",
     "num": "islandlk-d1d3e2d8",
     "date_str": "2026-04-08",
@@ -136451,6 +136495,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1775635080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-08-islandlk-3e9eb67f",
+    "num": "islandlk-3e9eb67f",
+    "date_str": "2026-04-08",
+    "description": "Major investment push in Sri Lanka\u2019s solar economy",
+    "url_metadata": "http://island.lk/major-investment-push-in-sri-lankas-solar-economy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1775635140.0
   },
   {
     "doc_type": "lk_news",
@@ -137070,6 +137125,72 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-04-08-islandlk-01a2c528",
+    "num": "islandlk-01a2c528",
+    "date_str": "2026-04-08",
+    "description": "Experienced reformer Dr. Sulakshana Jayawardena takes helm as Acting BOI Chairman",
+    "url_metadata": "http://island.lk/experienced-reformer-dr-sulakshana-jayawardena-takes-helm-as-acting-boi-chairman/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1775660340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-08-islandlk-04953e40",
+    "num": "islandlk-04953e40",
+    "date_str": "2026-04-08",
+    "description": "HNB FINANCE celebrates International Women\u2019s Day 2026",
+    "url_metadata": "http://island.lk/hnb-finance-celebrates-international-womens-day-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1775660460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-08-islandlk-18f06237",
+    "num": "islandlk-18f06237",
+    "date_str": "2026-04-08",
+    "description": "Two weeks\u2019 ceasefire announcement in M-E buoys bourse",
+    "url_metadata": "http://island.lk/two-weeks-ceasefire-announcement-in-m-e-buoys-bourse/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1775660460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-08-islandlk-310b113b",
+    "num": "islandlk-310b113b",
+    "date_str": "2026-04-08",
+    "description": "Altair elevates living experience with appointment of RMS as Facilities Management Partner",
+    "url_metadata": "http://island.lk/altair-elevates-living-experience-with-appointment-of-rms-as-facilities-management-partner/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1775660520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-08-islandlk-17cff586",
+    "num": "islandlk-17cff586",
+    "date_str": "2026-04-08",
+    "description": "Hayleys Mobility introduces Premium OMODA C9 PHEV",
+    "url_metadata": "http://island.lk/hayleys-mobility-introduces-premium-omoda-c9-phev/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1775660580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-08-islandlk-dd219eb3",
+    "num": "islandlk-dd219eb3",
+    "date_str": "2026-04-08",
+    "description": "Tomato Face Packs \u2026",
+    "url_metadata": "http://island.lk/tomato-face-packs/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1775661000.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-04-08-virakesarilk-4408f61d",
     "num": "virakesarilk-4408f61d",
     "date_str": "2026-04-08",
@@ -137122,5 +137243,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1775675220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-09-dailyftlk-ab662c90",
+    "num": "dailyftlk-ab662c90",
+    "date_str": "2026-04-09",
+    "description": "Dockyard announces key leadership changes with strategic Board appointments",
+    "url_metadata": "https://www.ft.lk/news/Dockyard-announces-key-leadership-changes-with-strategic-Board-appointments/56-790636",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775688463.0
   }
 ]
