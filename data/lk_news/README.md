@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--10_02:03:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--10_03:58:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**108,974** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**108,977** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-10-tamilmirrorlk-d391e611",
-    "num": "tamilmirrorlk-d391e611",
+    "doc_id": "2026-04-10-tamilmirrorlk-b0c57244",
+    "num": "tamilmirrorlk-b0c57244",
     "date_str": "2026-04-10",
-    "description": "NDB \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0bae\u0bcb\u0b9a\u0b9f\u0bbf: CB \u0baf\u0bbf\u0b9f\u0bae\u0bcd COPF \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0baf\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/NDB-\u0bb5\u0b99\u0bcd\u0b95\u0bbf-\u0bae\u0bcb\u0b9a\u0b9f\u0bbf-CB-\u0baf\u0bbf\u0b9f\u0bae\u0bcd-COPF-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0baf\u0ba4\u0bc1/175-375380",
+    "description": "\u2019\u0bae\u0bb2\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd\u2019 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0ba4\u0bca\u0b9f\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb2\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd-\u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd/175-375383",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1775762183.0
+    "time_ut": 1775769123.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-10 | `tamilmirrorlk-b0c57244` | ’மலட்டுக் கொத்தின்’ புதிய தொடர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-10-tamilmirrorlk-b0c57244)
+- 2026-04-10 | `tamilmirrorlk-182f9566` | 04/21 விசாரணையை திசைதிருப்ப முயற்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-10-tamilmirrorlk-182f9566)
+- 2026-04-10 | `tamilmirrorlk-de1af840` | ’நிலக்கரி கணக்காய்வை மூடிமறைக்க  முயற்சி’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-10-tamilmirrorlk-de1af840)
 - 2026-04-10 | `tamilmirrorlk-d391e611` | NDB வங்கி மோசடி: CB யிடம் COPF விளக்கம் கோரியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-10-tamilmirrorlk-d391e611)
 - 2026-04-10 | `tamilmirrorlk-1f130b67` | ’வட மாகாணத்துக்கு அநீதி இழைக்கவில்லை’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-10-tamilmirrorlk-1f130b67)
 - 2026-04-10 | `virakesarilk-aa7b21c4` | காருண்ய பணிக்காக ஏலம் விட்ட ஒலிம்பிக் பதக்கத்தை நான்கு வருடங்களின் பின்னர் மீளப் பெற்றார் யூக்ரெய்ன் வீரர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-10-virakesarilk-aa7b21c4)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-04-09 | `tamilmirrorlk-bd2fbd9f` | வடக்கு ரயில் சேவைகள் மீண்டும் ஆரம்பம் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-tamilmirrorlk-bd2fbd9f)
 - 2026-04-09 | `virakesarilk-7bff825c` | நிலக்கரி கொள்வனவு மோசடி : நம்பிக்கையில்லா பிரேரணை தோற்கடிக்கப்பட்டாலும் அமைச்சருக்கும் இதற்கு உதவியவர்களுக்கும் எதிராக சட்ட நடவடிக்கை எடுப்போம் - எதிர்க்கட்சி உறுப்பினர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-7bff825c)
 - 2026-04-09 | `tamilmirrorlk-6ed971e8` | மக்கள் கடலில் விஜய் : எம்.ஜி.ஆருக்குப் பின் புதிய சரித்திரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-tamilmirrorlk-6ed971e8)
-- 2026-04-09 | `virakesarilk-1018fbde` | இஸ்ரேல் சர்வதேச சட்டங்களை மீறுகிறது: ஸ்பெயின் வெளிவிவகார அமைச்சர் கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-1018fbde)
-- 2026-04-09 | `virakesarilk-1bc4010e` | நிலக்கரி இறக்குமதி மோசடி தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்தில் விசேட முறைப்பாடு ; ஜனாதிபதி மற்றும் அமைச்சரவையை விசாரணை செய்யுமாறு சமல் சஞ்சீவ உள்ளிட்ட குழு கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-1bc4010e)
-- 2026-04-09 | `virakesarilk-1397dbfb` | உயிர்த்த ஞாயிறுத் தாக்குதல் ;  வெகுவிரைவில் உண்மை வெளிவரும் - ஆனந்த விஜேபால தெரிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-09-virakesarilk-1397dbfb)
 
 ---
 
