@@ -140359,6 +140359,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-04-10-colombotelegraphcom-23108909",
+    "num": "colombotelegraphcom-23108909",
+    "date_str": "2026-04-10",
+    "description": "Peace Or Power? The Truth Behind The So-Called Ceasefire",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/peace-or-power-the-truth-behind-the-so-called-ceasefire/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1775838223.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-10-colombotelegraphcom-dcdc5916",
+    "num": "colombotelegraphcom-dcdc5916",
+    "date_str": "2026-04-10",
+    "description": "NDB Directors Must Be Removed & Three Member \u2018Interim Council\u2019 Appointed By AKD",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/ndb-directors-must-be-removed-three-member-interim-council-appointed-by-akd/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1775839478.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-04-11-virakesarilk-623bf881",
     "num": "virakesarilk-623bf881",
     "date_str": "2026-04-11",
@@ -140403,6 +140425,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-04-11-dailyftlk-bd3a055b",
+    "num": "dailyftlk-bd3a055b",
+    "date_str": "2026-04-11",
+    "description": "Two ceasefires, one crisis: The dangerous gap between Washington and Tehran",
+    "url_metadata": "https://www.ft.lk/columns/Two-ceasefires-one-crisis-The-dangerous-gap-between-Washington-and-Tehran/4-790757",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775852362.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-04-11-virakesarilk-91ae447d",
     "num": "virakesarilk-91ae447d",
     "date_str": "2026-04-11",
@@ -140411,5 +140444,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1775852520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-11-dailyftlk-3810d9da",
+    "num": "dailyftlk-3810d9da",
+    "date_str": "2026-04-11",
+    "description": "Towards an \u2018aluth\u2019 (new) national identity in 2026",
+    "url_metadata": "https://www.ft.lk/columns/Towards-an-aluth-new-national-identity-in-2026/4-790758",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1775852604.0
   }
 ]
