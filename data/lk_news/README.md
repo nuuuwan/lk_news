@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--11_21:51:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--11_23:54:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,204** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,206** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,9 +43,11 @@ A collection of lk_news documents.
 
 - 2026-04-11 | `adalk-ca2f185e` | ලෝකයේ හොඳම තෙල් සමගින් අප ඔබ එන තෙක් බලා සිටිනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-adalk-ca2f185e)
 - 2026-04-11 | `adalk-2e524262` | උත්සව සමයේ වගකිමෙන් රිය ධාවනය කරන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-adalk-2e524262)
+- 2026-04-11 | `colombotelegraphcom-4912e32b` | Fragile Ceasefire: Pakistan’s Glory & Israel’s Sabotage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-colombotelegraphcom-4912e32b)
 - 2026-04-11 | `virakesarilk-0ae0c2a8` | அமெரிக்க துணை ஜனாதிபதி பாகிஸ்தான் பிரதமரை சந்தித்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-0ae0c2a8)
 - 2026-04-11 | `virakesarilk-faed54c8` | தையிட்டி காணி விடுவிப்பு தொடர்பான கலந்துரையாடல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-faed54c8)
 - 2026-04-11 | `virakesarilk-4be0d8b6` | தையிட்டி விகாரை அமைந்துள்ள காணிகளை அளவீடு செய்து உரிமையாளர்களிடம் ஒப்படைக்க  நடவடிக்கை - அமைச்சர் சந்திரசேகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-4be0d8b6)
+- 2026-04-11 | `colombotelegraphcom-69e2a8ce` | When Will Anura Kumara Dissanayake Become Our President? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-colombotelegraphcom-69e2a8ce)
 - 2026-04-11 | `virakesarilk-172ad0ce` | மார்ச் மாதத்தில் வெளிநாட்டுப் பணியாளர்களால் இலங்கைக்கு 814 மில்லியன் டொலர் வருமானம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-172ad0ce)
 - 2026-04-11 | `virakesarilk-e17d05b1` | தேனிசைத்தென்றல்' தேவா வெளியிட்ட நடிகை சாக்ஷி அகர்வாலின் 'தீயோர் கூடம்' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-e17d05b1)
 - 2026-04-11 | `tamilmirrorlk-0d196e65` | நிலவுக்கு மனிதர்களை அனுப்பும் நாசாவின் திட்டம் வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-tamilmirrorlk-0d196e65)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-04-11 | `virakesarilk-c5f59fd1` | சிறப்பு படகுகள் படைப்பிரிவுப் பயிற்சியை நிறைவு செய்த கடற்படை வீரர்களுக்கு கடற்படைத் தளபதியினால் பதக்கங்கள் அணிவிக்கப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-c5f59fd1)
 - 2026-04-11 | `virakesarilk-2b5fdc05` | சட்டவிரோத சிகரெட்டுகளுடன் சீன நாட்டவர் கட்டுநாயக்கவில் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-2b5fdc05)
 - 2026-04-11 | `virakesarilk-9a40029d` | சுகாதார சேவையை வலுப்படுத்த 154 பேருக்கு புதிய நியமனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-9a40029d)
-- 2026-04-11 | `virakesarilk-1ebaca51` | உத்தர பிரதேசத்தில் யமுனை ஆற்றில் படகு கவிழ்ந்து விபத்து : 10 பேர் பலி, 22 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-1ebaca51)
-- 2026-04-11 | `virakesarilk-f21d784e` | பெரிய புல்லுமலையில் புதையல் தோண்டிய விசேட அதிரடிப்படை அதிகாரி உட்பட நால்வர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-f21d784e)
 
 ---
 
