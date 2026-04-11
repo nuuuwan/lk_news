@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--11_15:54:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--11_17:57:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,177** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,201** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-11-tamilmirrorlk-32e8f5cb",
-    "num": "tamilmirrorlk-32e8f5cb",
+    "doc_id": "2026-04-11-virakesarilk-0ae0c2a8",
+    "num": "virakesarilk-0ae0c2a8",
     "date_str": "2026-04-11",
-    "description": "\u2019QR\u2019 \u0bae\u0bc1\u0bb1\u0bc8 \u0b87\u0bb2\u0bcd\u0bb2\u0bc8 \u0b8e\u0ba9 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/QR-\u0bae\u0bc1\u0bb1\u0bc8-\u0b87\u0bb2\u0bcd\u0bb2\u0bc8-\u0b8e\u0ba9-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-375435",
+    "description": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0bc1\u0ba3\u0bc8 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0baa\u0bbe\u0b95\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/243389",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1775900786.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1775909220.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-11 | `virakesarilk-0ae0c2a8` | அமெரிக்க துணை ஜனாதிபதி பாகிஸ்தான் பிரதமரை சந்தித்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-0ae0c2a8)
+- 2026-04-11 | `virakesarilk-faed54c8` | தையிட்டி காணி விடுவிப்பு தொடர்பான கலந்துரையாடல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-faed54c8)
+- 2026-04-11 | `virakesarilk-4be0d8b6` | தையிட்டி விகாரை அமைந்துள்ள காணிகளை அளவீடு செய்து உரிமையாளர்களிடம் ஒப்படைக்க  நடவடிக்கை - அமைச்சர் சந்திரசேகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-4be0d8b6)
+- 2026-04-11 | `virakesarilk-172ad0ce` | மார்ச் மாதத்தில் வெளிநாட்டுப் பணியாளர்களால் இலங்கைக்கு 814 மில்லியன் டொலர் வருமானம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-172ad0ce)
+- 2026-04-11 | `virakesarilk-e17d05b1` | தேனிசைத்தென்றல்' தேவா வெளியிட்ட நடிகை சாக்ஷி அகர்வாலின் 'தீயோர் கூடம்' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-e17d05b1)
+- 2026-04-11 | `tamilmirrorlk-0d196e65` | நிலவுக்கு மனிதர்களை அனுப்பும் நாசாவின் திட்டம் வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-tamilmirrorlk-0d196e65)
+- 2026-04-11 | `virakesarilk-7fa65734` | பரத் நடிக்கும் 'காட்ஸ் அண்ட் சோல்ஜர்ஸ்' படத்தின் பிரத்யேக காணொளி வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-7fa65734)
+- 2026-04-11 | `virakesarilk-9cf8b7cd` | மனிதனும் தெய்வமாகலாம் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-9cf8b7cd)
+- 2026-04-11 | `virakesarilk-4d49133e` | ஈரானின் புதிய உயர் தலைவர் மொஜ்தபா காமேனி கவலைக்கிடம்? - அதிர்ச்சித் தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-4d49133e)
+- 2026-04-11 | `virakesarilk-6df61c4f` | மேற்காசியாவில் தற்காலிக போர்நிறுத்தம் : இலங்கை அரசாங்கம் வரவேற்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-6df61c4f)
 - 2026-04-11 | `tamilmirrorlk-32e8f5cb` | ’QR’ முறை இல்லை என அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-tamilmirrorlk-32e8f5cb)
-- 2026-04-11 | `virakesarilk-eb39c734` | 7 இலட்சம் ரூபாய் பெறுமதியான அலங்காரச் செடிகளுடன் ஒருவர் கட்டுநாயக்கவில் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-eb39c734)
-- 2026-04-11 | `virakesarilk-b4845c7e` | “பேச்சுவார்த்தையில் எங்களுக்கு நம்பிக்கை இல்லை” - பாகிஸ்தான் சென்றடைந்த ஈரான் சபாநாயகர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-b4845c7e)
-- 2026-04-11 | `virakesarilk-d60b7b33` | “பழிவாங்குவோம் ; இது போரின் முடிவல்ல ; இப்போதும் எங்கள் கைகள் துப்பாக்கி விசையின் மீதே இருக்கின்றன” - ஈரான் உயர் தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-d60b7b33)
-- 2026-04-11 | `virakesarilk-981e2f22` | வெறும் 50,300 பேருக்கு மாத்திரமே அஸ்வெசும வழங்கப்படுகிறது ; ஏனையோரின் நிலை என்ன?  - சாணக்கியன் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-981e2f22)
-- 2026-04-11 | `virakesarilk-0a6e8a6d` | ஐக்கிய மக்கள் சக்தியின் தவிசாளராக கபீர் ஹாசிம் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-0a6e8a6d)
-- 2026-04-11 | `virakesarilk-c5f7d1fd` | தரமற்ற நிலக்கரி  கொள்வனவு விவகாரம் தொடர்பில்  ஆராய்வதற்கு விசேட ஜனாதிபதி விசாரணை ஆணைக்குழு -  பிமல் ரத்நாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-c5f7d1fd)
-- 2026-04-11 | `virakesarilk-dcf3c32a` | கொழும்பில் பாரிய சுற்றிவளைப்பு : 2 கோடி ரூபா பெறுமதியான வெளிநாட்டு மதுபான போத்தல்கள் கைப்பற்றல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-dcf3c32a)
-- 2026-04-11 | `virakesarilk-a38944e7` | புத்தாண்டு காலத்தில் போக்குவரத்து விதி மீறல்களுக்கு கடும் நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-a38944e7)
-- 2026-04-11 | `virakesarilk-7f8052ee` | உலக பொருளாதாரம் மூச்சு விடும் இடைவெளி தொடருமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-7f8052ee)
-- 2026-04-11 | `virakesarilk-f4764dd1` | விலையேற்றத்தால் முடங்கும் பாடசாலை மதிய உணவு திட்டம் ; மாணவர்களின் போஷாக்கு கேள்விக்குறி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-f4764dd1)
-- 2026-04-11 | `virakesarilk-3990e84f` | முல்லைத்தீவில் புதிய மணல் விநியோக முறை: கண்காணிக்க விசேட செயலி ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-3990e84f)
-- 2026-04-11 | `virakesarilk-c38afcac` | புதுப்பிக்கத்தக்க எரிசக்திக்கு எதிரான கொள்கை நடைமுறை : சஜித் பிரேமதாச குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-c38afcac)
-- 2026-04-11 | `virakesarilk-68ad8a19` | ஆர்டெமிஸ்-2 மிஷன் வெற்றி: நிலவுப் பயணத்தை முடித்து பூமிக்கு பாதுகாப்பாக திரும்பிய விண்வெளி வீரர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-68ad8a19)
-- 2026-04-11 | `tamilmirrorlk-6caf37b4` | போர் செய்திகளை வைத்து லாபம் ஈட்டிய வர்த்தகர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-tamilmirrorlk-6caf37b4)
-- 2026-04-11 | `virakesarilk-928bc460` | தனியார் வங்கி நிதி மோசடி: வாடிக்கையாளர் வைப்புக்கள் பாதுகாப்பாக உள்ளது - மத்திய வங்கி உறுதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-928bc460)
-- 2026-04-11 | `virakesarilk-e1a2868b` | பாதுகாப்பான குடிநீரை வழங்க இலங்கை கடற்படையின் 1153வது நீர் சுத்திகரிப்பு நிலையம் திறப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-e1a2868b)
-- 2026-04-11 | `virakesarilk-40ad5c59` | புத்தாண்டு விடுமுறை: மாக்கும்புரவில் பயணிகளின் வருகை அதிகரிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-40ad5c59)
-- 2026-04-11 | `virakesarilk-57bf7a42` | கிளிநொச்சியில் அதிரடி: ஒரு மாதத்தில் மணல் விநியோகம் - அரைவாசியாகக் குறைகிறது ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-57bf7a42)
-- 2026-04-11 | `tamilmirrorlk-1336803a` | மாணவனின் மரணத்திற்கு காரணம் கண்டுபிடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-tamilmirrorlk-1336803a)
+- 2026-04-11 | `virakesarilk-1dae43e8` | லவ் இன்சூரன்ஸ் கம்பனி-  திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-1dae43e8)
+- 2026-04-11 | `virakesarilk-99f1358e` | உரம் குறித்து விவசாயிகள் அச்சமடையத் தேவையில்லை : மேலதிக கையிருப்பு உள்ளது - பிரதி அமைச்சர் உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-99f1358e)
+- 2026-04-11 | `virakesarilk-c5f59fd1` | சிறப்பு படகுகள் படைப்பிரிவுப் பயிற்சியை நிறைவு செய்த கடற்படை வீரர்களுக்கு கடற்படைத் தளபதியினால் பதக்கங்கள் அணிவிக்கப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-c5f59fd1)
+- 2026-04-11 | `virakesarilk-2b5fdc05` | சட்டவிரோத சிகரெட்டுகளுடன் சீன நாட்டவர் கட்டுநாயக்கவில் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-2b5fdc05)
+- 2026-04-11 | `virakesarilk-9a40029d` | சுகாதார சேவையை வலுப்படுத்த 154 பேருக்கு புதிய நியமனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-9a40029d)
+- 2026-04-11 | `virakesarilk-1ebaca51` | உத்தர பிரதேசத்தில் யமுனை ஆற்றில் படகு கவிழ்ந்து விபத்து : 10 பேர் பலி, 22 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-1ebaca51)
+- 2026-04-11 | `virakesarilk-f21d784e` | பெரிய புல்லுமலையில் புதையல் தோண்டிய விசேட அதிரடிப்படை அதிகாரி உட்பட நால்வர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-f21d784e)
+- 2026-04-11 | `virakesarilk-cfe74dc5` | சித்திரை புத்தாண்டுக்காக சொந்த ஊர் திரும்பும் மக்களால் களைகட்டும் புறக்கோட்டை பஸ்தரிப்பு நிலையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-cfe74dc5)
+- 2026-04-11 | `virakesarilk-fe5b7f22` | கொக்கட்டிச்சோலையில் கிணற்றிலிருந்து பெண்ணின் சடலம் கண்டெடுக்கப்பட்ட சம்பவம் ; சந்தேக நபர்கள் 6 பேருக்கும் விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-fe5b7f22)
 
 ---
 
