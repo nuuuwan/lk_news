@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--12_06:23:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--12_08:50:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,227** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,230** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,8 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-04-12 | `tamilmirrorlk-7411c400` | ‘ஜனநாயகன்’ லீக் குறித்து குற்றச்சாட்டு: தணிக்கை வாரியம் மறுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-tamilmirrorlk-7411c400)
+- 2026-04-12 | `tamilmirrorlk-247ef2f5` | ‘ஜனநாயகன்’ படத்தை கசிய விட்டது யார்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-tamilmirrorlk-247ef2f5)
+- 2026-04-12 | `tamilmirrorlk-9305d564` | ரஜினிகாந்த், தனுஷ் வீடுகளுக்கு வெடிகுண்டு மிரட்டல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-tamilmirrorlk-9305d564)
 - 2026-04-12 | `tamilmirrorlk-20790e02` | ’பேச்சுவார்த்தையால் அமைதி திரும்பும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-tamilmirrorlk-20790e02)
 - 2026-04-12 | `tamilmirrorlk-1a9faee0` | பாடகி ஆஷா போஸ்லே வைத்தியசாலையில் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-tamilmirrorlk-1a9faee0)
 - 2026-04-12 | `virakesarilk-4b489046` | நடப்பு ஐபிஎல் அத்தியாயத்தில் சஞ்சு செம்சன் முதலாவது சதத்தைக் குவிக்க சென்னை சுப்பர் கிங்ஸ் முதல் வெற்றியை ஈட்டியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-4b489046)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-04-11 | `islandlk-00a5d852` | Forever Hero Herath: Remembering a JVP Sahodaraya on the 55th Anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-islandlk-00a5d852)
 - 2026-04-11 | `adalk-ca2f185e` | ලෝකයේ හොඳම තෙල් සමගින් අප ඔබ එන තෙක් බලා සිටිනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-adalk-ca2f185e)
 - 2026-04-11 | `adalk-2e524262` | උත්සව සමයේ වගකිමෙන් රිය ධාවනය කරන්න | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-adalk-2e524262)
-- 2026-04-11 | `virakesarilk-e39b4677` | ஈரானின் முடக்கப்பட்ட சொத்துக்களை விடுவிக்க அமெரிக்கா இணக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-e39b4677)
-- 2026-04-11 | `virakesarilk-a314accd` | போலிச் செய்திகளுக்கு முற்றுப்புள்ளி : பேஸ்புக், எக்ஸ் தளங்களுக்கு எதிராக இந்தியா புதிய சட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-a314accd)
 
 ---
 
