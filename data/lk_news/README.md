@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--12_10:40:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--12_12:18:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,231** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,259** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-12-tamilmirrorlk-bb396bac",
-    "num": "tamilmirrorlk-bb396bac",
+    "doc_id": "2026-04-12-virakesarilk-313565b4",
+    "num": "virakesarilk-313565b4",
     "date_str": "2026-04-12",
-    "description": "\u0bb2\u0bca\u0bb0\u0bbf \u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb2\u0bca\u0bb0\u0bbf-\u0b95\u0bb5\u0bbf\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-375457",
+    "description": "\u0ba8\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0bae\u0bc7\u0bb2\u0ba4\u0bbf\u0b95 \u0b9a\u0bc6\u0bb2\u0bb5\u0bc1\u0b95\u0bb3\u0bc8 \u0ba8\u0bc1\u0b95\u0bb0\u0bcd\u0bb5\u0bcb\u0bb0\u0bbf\u0b9f\u0bae\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b85\u0bb1\u0bb5\u0bbf\u0b9f\u0bbe\u0bae\u0bb2\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0baa\u0bca\u0ba4\u0bc1\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/243423",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1775967058.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1775974620.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-12 | `virakesarilk-313565b4` | நிலக்கரி தொடர்பான மேலதிக செலவுகளை நுகர்வோரிடமிருந்து அறவிடாமலிருக்க பொதுப் பயன்பாடுகள் ஆணைக்குழு தீர்மானம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-313565b4)
+- 2026-04-12 | `virakesarilk-45598adb` | புத்தளத்தில் போதைப்பொருளுடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-45598adb)
+- 2026-04-12 | `virakesarilk-eabbfaf2` | புத்தாண்டு காலத்தில் சிறுவர்களின் பாதுகாப்பு குறித்து விழிப்புடன் இருக்குமாறு பெற்றோர்களுக்கு அறிவுறுத்தல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-eabbfaf2)
+- 2026-04-12 | `virakesarilk-2da2426c` | நாடளாவிய ரீதியில் சுற்றிவளைப்பு : ஒரே நாளில் 630-க்கும் மேற்பட்டோர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-2da2426c)
+- 2026-04-12 | `virakesarilk-d99d3401` | ஆபாச வார்த்தை பேசினால் அபராதம்...! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-d99d3401)
+- 2026-04-12 | `tamilmirrorlk-e4054c24` | பேருந்து நிலையத்தை சேதப்படுத்தியவருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-tamilmirrorlk-e4054c24)
+- 2026-04-12 | `virakesarilk-8fc56834` | புறக்கோட்டை மத்திய பஸ் நிலையத்தின் சொத்துக்களுக்கு சேதம் விளைவித்த சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-8fc56834)
+- 2026-04-12 | `virakesarilk-a3d41053` | விமான நிலையத்தில் அலங்கார செடிகள் கைப்பற்றல்: ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-a3d41053)
+- 2026-04-12 | `virakesarilk-7ce5a904` | அமெரிக்கா – ஈரான் பேச்சுவார்த்தை தோல்வி : பதற்றம் மீண்டும் அதிகரிக்கும் சூழல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-7ce5a904)
+- 2026-04-12 | `virakesarilk-5ad56ea4` | அமெரிக்காவின் எதிர்ப்பால் சாகோஸ் தீவுகள் ஒப்பந்தத்தை நிறுத்தி வைத்தது பிரித்தானியா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-5ad56ea4)
+- 2026-04-12 | `virakesarilk-eead2fda` | மின்சாரம் தாக்கி ஒருவர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-eead2fda)
+- 2026-04-12 | `virakesarilk-8a62c106` | வெவ்வேறு பகுதிகளில் இடம்பெற்ற விபத்துகளில் ஐவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-8a62c106)
+- 2026-04-12 | `virakesarilk-82f74cb5` | தெமட்டகொடை சமிந்தவை படுகொலை செய்ய சதி? ; மத்திய குற்றப் புலனாய்வுப் பணியகம் தீவிர விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-82f74cb5)
+- 2026-04-12 | `virakesarilk-80e52171` | ஒரு வார காலப்பகுதியில் இடம்பெற்ற வாகன விபத்துக்களில் 49 பேர் பலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-80e52171)
+- 2026-04-12 | `virakesarilk-aa427999` | ஹெய்ட்டியில் சனநெரிசலில் சிக்கி 30 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-aa427999)
 - 2026-04-12 | `tamilmirrorlk-bb396bac` | லொரி கவிழ்ந்து விபத்து: இருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-tamilmirrorlk-bb396bac)
-- 2026-04-12 | `tamilmirrorlk-7411c400` | ‘ஜனநாயகன்’ லீக் குறித்து குற்றச்சாட்டு: தணிக்கை வாரியம் மறுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-tamilmirrorlk-7411c400)
-- 2026-04-12 | `tamilmirrorlk-247ef2f5` | ‘ஜனநாயகன்’ படத்தை கசிய விட்டது யார்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-tamilmirrorlk-247ef2f5)
-- 2026-04-12 | `tamilmirrorlk-9305d564` | ரஜினிகாந்த், தனுஷ் வீடுகளுக்கு வெடிகுண்டு மிரட்டல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-tamilmirrorlk-9305d564)
-- 2026-04-12 | `tamilmirrorlk-20790e02` | ’பேச்சுவார்த்தையால் அமைதி திரும்பும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-tamilmirrorlk-20790e02)
-- 2026-04-12 | `tamilmirrorlk-1a9faee0` | பாடகி ஆஷா போஸ்லே வைத்தியசாலையில் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-tamilmirrorlk-1a9faee0)
-- 2026-04-12 | `virakesarilk-4b489046` | நடப்பு ஐபிஎல் அத்தியாயத்தில் சஞ்சு செம்சன் முதலாவது சதத்தைக் குவிக்க சென்னை சுப்பர் கிங்ஸ் முதல் வெற்றியை ஈட்டியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-4b489046)
-- 2026-04-12 | `islandlk-1e08ed0a` | Chamara Kala Nikethanaya Marks Golden Milestone with Grand ‘Sheershabharana Ordination’ Ceremony | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-islandlk-1e08ed0a)
-- 2026-04-12 | `islandlk-87d8848e` | Dilmah Announces 2nd Annual One Earth Photography Competition to Inspire Conservation Visual Storytelling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-islandlk-87d8848e)
-- 2026-04-12 | `virakesarilk-2c1100a3` | பேச்சுவார்த்தையால் அமைதி திரும்பும்: பாகிஸ்தான் பிரதமர் நம்பிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-2c1100a3)
-- 2026-04-11 | `islandlk-c7d0d462` | HNB Assurance marks 25 years with strategic transformation to ‘HNB Life’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-islandlk-c7d0d462)
-- 2026-04-11 | `colombotelegraphcom-f67078d6` | Not Just Another Coal Deal: Transparency On Trial In Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-colombotelegraphcom-f67078d6)
-- 2026-04-11 | `islandlk-ef8b296a` | From Royal College Platoon to National Cadet Corps: 145 years of discipline, leadership, and modern challenges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-islandlk-ef8b296a)
-- 2026-04-11 | `virakesarilk-b5a3f884` | நியூஸிலாந்து ஏ அணியுடான ஒருநாள் தொடரை  3 - 0 என  முழுமையாக கைப்பற்றியது இலங்கை ஏ அணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-b5a3f884)
-- 2026-04-11 | `virakesarilk-600813d0` | கார் மேனி செல்வம் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-virakesarilk-600813d0)
-- 2026-04-11 | `islandlk-f112f15c` | Sri Lanka at the Crossroads: Rethinking Strategy in a Fractured World | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-islandlk-f112f15c)
-- 2026-04-11 | `islandlk-70929257` | Longing for Home | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-islandlk-70929257)
-- 2026-04-11 | `islandlk-34b98d60` | My first Aluth Avurudda in my brother-in-law’s home | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-islandlk-34b98d60)
-- 2026-04-11 | `islandlk-00a5d852` | Forever Hero Herath: Remembering a JVP Sahodaraya on the 55th Anniversary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-islandlk-00a5d852)
-- 2026-04-11 | `adalk-ca2f185e` | ලෝකයේ හොඳම තෙල් සමගින් අප ඔබ එන තෙක් බලා සිටිනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-11-adalk-ca2f185e)
+- 2026-04-12 | `virakesarilk-36698292` | கூர்மையான ஆயுதத்தால் தாக்கப்பட்டு நபரொருவர் கொலை: சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-36698292)
+- 2026-04-12 | `virakesarilk-e671385e` | ஈரானிய படையினரை மீண்டும் தாயகம் அனுப்ப  தீர்மானிக்கப்பட வில்லை – வெளிவிவகார அமைச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-e671385e)
+- 2026-04-12 | `virakesarilk-21db76fc` | இந்திய துணை ஜனாதிபதி இலங்கை வருகை  -  இருதரப்பு உறவுகள் குறித்து முக்கிய பேச்சுவார்த்தை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-21db76fc)
+- 2026-04-12 | `virakesarilk-f3865a20` | ரஷ்யாவிடம் இருந்து நேரடி எரிபொருள் கொள்வனவு சாத்தியமற்றது  - முன்னாள் தூதுவர் உதயங்க வீரதுங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-f3865a20)
 
 ---
 
