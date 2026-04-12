@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--12_21:53:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--12_23:58:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,297** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,298** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A collection of lk_news documents.
 - 2026-04-12 | `virakesarilk-7afb450d` | பாகிஸ்தான் கடற்படை கப்பல்கள் கொழும்பில் நல்லெண்ண வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-7afb450d)
 - 2026-04-12 | `virakesarilk-080b01c9` | 20இன் கீழ் பெண்களுக்கான 10 கி.மீ.  உலக மெய்வல்லுநர்  வேகநடைப் போட்டியில் யெங் தங்கப் பதக்கம் வென்றார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-080b01c9)
 - 2026-04-12 | `virakesarilk-c3b7a907` | ஹோர்முஸ் நீரிணை வழியாக நுழைய, வெளியேற முயலும் அனைத்து கப்பல்களையும் முற்றுகையிடுவோம் -  டொனால்ட் ட்ரம்ப் எச்சரித்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-c3b7a907)
+- 2026-04-12 | `adalk-6c56fb4c` | හෝමූස් හරහා ගමන් කරන නෞකා ඇමෙරිකාව විසින් අවහිර කරනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-adalk-6c56fb4c)
 - 2026-04-12 | `virakesarilk-a89dba4f` | சம்பூர் கடலில் நீராடிய 19 வயது இளைஞன் நீரில் மூழ்கி பலி: மூதூரில் சோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-a89dba4f)
 - 2026-04-12 | `adalk-a20a43e0` | බාල ගල් අඟුරු නිසා ඇතිවන විදුලි පිරිවැය පාරිභෝගිකයන්ගෙන් අය නොකෙරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-adalk-a20a43e0)
 - 2026-04-12 | `virakesarilk-5df3a860` | புத்தாண்டு காலத்தில் பயணப் புகைப்படங்களை உடனடியாக பகிர வேண்டாம் – பொலிஸார் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-5df3a860)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-04-12 | `virakesarilk-93867bc6` | உடலில் மறைத்து கொக்கைன் கடத்தல்: வெளிநாட்டுப் பெண் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-93867bc6)
 - 2026-04-12 | `virakesarilk-c1f51c61` | கடல் அட்டை பிடித்த 06 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-c1f51c61)
 - 2026-04-12 | `virakesarilk-1913f283` | மின்னல் தாக்கம் குறித்து வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-1913f283)
-- 2026-04-12 | `virakesarilk-e47df3c5` | மின்சார சபை ஊழியர்களுக்கு உரிய இழப்பீட்டுத் தொகை வழங்கப்படவில்லை - ஓய்வுபெற்ற ஊழியர் சங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-12-virakesarilk-e47df3c5)
 
 ---
 
