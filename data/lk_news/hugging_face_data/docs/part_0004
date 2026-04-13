@@ -142702,6 +142702,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-04-13-colombotelegraphcom-01045949",
+    "num": "colombotelegraphcom-01045949",
+    "date_str": "2026-04-13",
+    "description": "Hormuz & The Politics Of Conditional Access: What The Iran\u2013US Talks Truly Revealed",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/hormuz-the-politics-of-conditional-access-what-the-iran-us-talks-truly-revealed/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1776058672.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-04-13-virakesarilk-48d21689",
     "num": "virakesarilk-48d21689",
     "date_str": "2026-04-13",
