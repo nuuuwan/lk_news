@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--14_02:04:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--14_04:00:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,376** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,378** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-14-virakesarilk-6b445a51",
-    "num": "virakesarilk-6b445a51",
+    "doc_id": "2026-04-14-virakesarilk-a92f140c",
+    "num": "virakesarilk-a92f140c",
     "date_str": "2026-04-14",
-    "description": "\u0b85\u0ba9\u0bcd\u0ba9\u0bc8 \u0baa\u0bc2\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bc1\u0bb0\u0bc1\u0bb5\u0baa\u0bcd \u0baa\u0b9f\u0bae\u0bcd \u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b8a\u0bb0\u0bcd\u0ba4\u0bbf \u0baa\u0baf\u0ba3\u0bbf \u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc8 \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/243513",
+    "description": "\u0b9a\u0ba9\u0bcd\u0bb0\u0bc8\u0b9a\u0bb0\u0bcd\u0bb8\u0bcd \u0bb9\u0bc8\u0ba4\u0bb0\u0bbe\u0baa\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0ba4\u0b9f\u0bc1\u0bae\u0bbe\u0bb1\u0bbf\u0baf \u0bb0\u0bbe\u0b9c\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0bb1\u0bcb\u0baf\u0bb2\u0bcd\u0bb8\u0bcd \u0b85\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bbe\u0bb5\u0ba4\u0bc1 \u0ba4\u0bcb\u0bb2\u0bcd\u0bb5\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/243515",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1776111900.0
+    "time_ut": 1776118860.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-14 | `virakesarilk-a92f140c` | சன்ரைசர்ஸ் ஹைதராபாத்திடம் தடுமாறிய ராஜஸ்தான் றோயல்ஸ் அணிக்கு முதலாவது தோல்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-14-virakesarilk-a92f140c)
+- 2026-04-14 | `virakesarilk-c7f55df2` | மட்டு மண்முனையில் சிறுவன் ஒருவரை பலிகொடுத்து புதையல் தோண்ட முற்பட்ட இடத்தில் புலிகளின் ஆயுதத்தை தேடி 8 மணித்தியாலம் தோண்டும் நடவடிக்கை முன்னெடுப்பு – எதுவும் கிடைக்கவில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-14-virakesarilk-c7f55df2)
 - 2026-04-14 | `virakesarilk-6b445a51` | அன்னை பூபதியின் திருவுருவப் படம் தாங்கிய ஊர்தி பயணி முல்லைத்தீவை வந்தடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-14-virakesarilk-6b445a51)
 - 2026-04-13 | `virakesarilk-9c8ae6c2` | ஐசிசி மகளிர் ரி20 உலகக் கிண்ணத்தில் மொத்த பணப்பரிசு 276 கோடியே 45 இலட்சம் ரூபா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-13-virakesarilk-9c8ae6c2)
 - 2026-04-13 | `virakesarilk-ffec0364` | யாழில் பால் குடித்துவிட்டு உறங்கிய குழந்தை திடீரென பரிதாபமாக உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-13-virakesarilk-ffec0364)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-04-13 | `virakesarilk-f69ce898` | கணேமுல்ல சஞ்சீவவின் உதவியாளர் இந்தியாவில் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-13-virakesarilk-f69ce898)
 - 2026-04-13 | `virakesarilk-64aefa00` | நுவரெலியாவில் குவியும் சுற்றுலா பயணிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-13-virakesarilk-64aefa00)
 - 2026-04-13 | `virakesarilk-c6b92135` | புத்தாண்டு காலத்தில் 24 மணிநேரமும் வைத்தியசாலை சேவைகள்; சுகாதார பாதுகாப்பு குறித்து அவதானமாக இருக்குமாறு வைத்திய அதிகாரிகள் சங்கம் வேண்டுகோள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-13-virakesarilk-c6b92135)
-- 2026-04-13 | `virakesarilk-23faf39c` | நைஜீரிய விமானப்படைத் தாக்குதலில் பொதுமக்கள் உட்பட 50-க்கும் மேற்பட்டோர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-13-virakesarilk-23faf39c)
-- 2026-04-13 | `virakesarilk-cb3e8699` | தமிழகத்தில் கூட்டணி ஆட்சி என்ற பேச்சுக்கே இடமில்லை -  வைகோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-13-virakesarilk-cb3e8699)
 
 ---
 
