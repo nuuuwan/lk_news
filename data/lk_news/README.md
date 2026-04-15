@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--15_16:13:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--15_18:08:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,505** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,508** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-15-virakesarilk-c9a95ce9",
-    "num": "virakesarilk-c9a95ce9",
+    "doc_id": "2026-04-15-tamilmirrorlk-0e6039ba",
+    "num": "tamilmirrorlk-0e6039ba",
     "date_str": "2026-04-15",
-    "description": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba4\u0bbf\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bbf\u0b9f\u0bae\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd!",
-    "url_metadata": "https://www.virakesari.lk/article/243584",
+    "description": "57 \u0b95\u0bbf\u0bb2\u0bcb \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b85\u0bb4\u0bc1\u0b95\u0bbf\u0baf \u0b95\u0bcb\u0bb4\u0bbf \u0b87\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf \u0baa\u0bb1\u0bbf\u0bae\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/57-\u0b95\u0bbf\u0bb2\u0bcb-\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd-\u0b85\u0bb4\u0bc1\u0b95\u0bbf\u0baf-\u0b95\u0bcb\u0bb4\u0bbf-\u0b87\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf-\u0baa\u0bb1\u0bbf\u0bae\u0bc1\u0ba4\u0bb2\u0bcd/175-375568",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1776242280.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1776253616.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-15 | `tamilmirrorlk-0e6039ba` | 57 கிலோ கிராம் அழுகிய கோழி இறைச்சி பறிமுதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-tamilmirrorlk-0e6039ba)
+- 2026-04-15 | `tamilmirrorlk-297b36e8` | ஆடு மேய்க்கச் சென்றவர்  சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-tamilmirrorlk-297b36e8)
+- 2026-04-15 | `tamilmirrorlk-cb2e2f4a` | விசேட அதிரடிப்படை வாகன மோதியதில் முதியவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-tamilmirrorlk-cb2e2f4a)
 - 2026-04-15 | `virakesarilk-c9a95ce9` | புத்தாண்டு தினத்தில் போதைப்பொருட்களுடன் பொலிஸாரிடம் சிக்கிய இருவர்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-virakesarilk-c9a95ce9)
 - 2026-04-15 | `virakesarilk-8d4e2347` | மன்னார் கடலில் மீன்பிடிப் படகுகள் இரண்டும் ஒன்றோடு ஒன்று மோதி விபத்து ; மீனவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-virakesarilk-8d4e2347)
 - 2026-04-15 | `tamilmirrorlk-ebc1a9f8` | 2 மீன்பிடிப் படகுகள் மோதி விபத்து: மீனவர்  உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-tamilmirrorlk-ebc1a9f8)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-04-15 | `virakesarilk-9f8fce68` | குடும்பத் தகராறு ; கூர்மையான ஆயுதத்தால் தாக்கப்பட்டு பெண் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-virakesarilk-9f8fce68)
 - 2026-04-15 | `tamilmirrorlk-0f373f8c` | இந்தியப் படகுடன் 4 மீனவர்கள் கடற்படையினரால் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-tamilmirrorlk-0f373f8c)
 - 2026-04-15 | `virakesarilk-40865098` | ஒரே குடும்பத்தைச் சேர்ந்த 4 பேர் பயணித்த முச்சக்கரவண்டி விபத்தில் சிக்கியது - ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-virakesarilk-40865098)
-- 2026-04-15 | `virakesarilk-0552764e` | மல்வத்து மகாநாயக்க தேரரைச் சந்தித்து புத்தாண்டு ஆசீர்வாதம் பெற்றார் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-virakesarilk-0552764e)
-- 2026-04-15 | `virakesarilk-5c0a1c16` | ஹோர்மூஸ் நீரிணையில் அமெரிக்க எச்சரிக்கைக்குப் பின் சீன எண்ணெய் கப்பல் பின்வாங்கல் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-virakesarilk-5c0a1c16)
-- 2026-04-15 | `virakesarilk-40064262` | இலங்கையின் தந்திரத்துக்கு இசைந்துகொடுத்து  சர்வதேச கட்டமைப்புக்கள் தம்மைப் பலவீனப்படுத்திக்கொள்ளக்கூடாது - பிரித்தானிய தமிழர் பேரவை சர்வதேச சமூகத்திடம் வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-virakesarilk-40064262)
 
 ---
 
