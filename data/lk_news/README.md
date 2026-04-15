@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--15_06:23:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--15_08:51:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,461** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,465** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-15-tamilmirrorlk-18bad1c0",
-    "num": "tamilmirrorlk-18bad1c0",
+    "doc_id": "2026-04-15-tamilmirrorlk-a05b8a30",
+    "num": "tamilmirrorlk-a05b8a30",
     "date_str": "2026-04-15",
-    "description": "\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb3, \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bb2\u0bbe\u0b9a\u0bbe\u0bb0 \u0bb5\u0bbf\u0bb4\u0bbe",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb3-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1-\u0b95\u0bb2\u0bbe\u0b9a\u0bbe\u0bb0-\u0bb5\u0bbf\u0bb4\u0bbe/175-375545",
+    "description": "\u0ba8\u0bc0\u0bb0\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf \u0b87\u0bb3\u0bae\u0bcd \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0bb0\u0bbf\u0bb2\u0bcd-\u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf-\u0b87\u0bb3\u0bae\u0bcd-\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-375550",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1776199710.0
+    "time_ut": 1776222395.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-15 | `tamilmirrorlk-a05b8a30` | நீரில் மூழ்கி இளம் குடும்பஸ்தர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-tamilmirrorlk-a05b8a30)
+- 2026-04-15 | `tamilmirrorlk-6332e904` | இஸ்ரேல் - லெபனான் பேச்சுவார்த்தை ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-tamilmirrorlk-6332e904)
+- 2026-04-15 | `tamilmirrorlk-060b6ca4` | ’நாங்கள் முயன்றோம்; முடிவு ஈரான் வசம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-tamilmirrorlk-060b6ca4)
+- 2026-04-15 | `tamilmirrorlk-9921d5d5` | பிஹார் முதல்வர் பதவியை இராஜினாமா செய்தார் நிதிஷ் குமார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-tamilmirrorlk-9921d5d5)
 - 2026-04-15 | `tamilmirrorlk-18bad1c0` | பிரதமர் தலைமையில் சிங்கள, தமிழ் புத்தாண்டு கலாசார விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-tamilmirrorlk-18bad1c0)
 - 2026-04-15 | `tamilmirrorlk-32a3f69f` | அதிவேக நெடுஞ்சாலைகளில் 190 மில்லியன் ரூபா வருமானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-tamilmirrorlk-32a3f69f)
 - 2026-04-15 | `virakesarilk-e344b75d` | கனடா தேர்தல்: மார்க் கார்னி தலைமையிலான லிபரல் கட்சி வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-15-virakesarilk-e344b75d)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-04-14 | `virakesarilk-c4be7b55` | மன்னார் திருக்கேதீஸ்வர ஆலயத்தில் இடம் பெற்ற புத்தாண்டு சிறப்பு பூஜை வழிபாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-14-virakesarilk-c4be7b55)
 - 2026-04-14 | `virakesarilk-d58a36d5` | வாழைச்சேனையைச் சேர்ந்த குடும்பஸ்தர் நீரில் மூழ்கி மரணம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-14-virakesarilk-d58a36d5)
 - 2026-04-14 | `virakesarilk-9049d0a8` | முல்லைத்தீவு தேராவில் பகுதியில் கிணற்றிலிருந்து பெண்ணின் சடலம் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-14-virakesarilk-9049d0a8)
-- 2026-04-14 | `virakesarilk-78590bbc` | 'மக்கள் செல்வன்' விஜய் சேதுபதி - வெற்றி மாறன் இணைந்து வெளியிட்ட ராதிகா சரத்குமார் நடிக்கும் 'காலனி' படத்தின் ஃபர்ஸ்ட் லுக் & மோஷன் போஸ்டர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-14-virakesarilk-78590bbc)
-- 2026-04-14 | `virakesarilk-7ba12d03` | போதை பொருள் பாவனை குறித்து விழிப்புணர்வை ஏற்படுத்தும் புது முகங்களின் ' முதற்கனல்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-14-virakesarilk-7ba12d03)
-- 2026-04-14 | `virakesarilk-bc6caf1d` | தமிழக வெற்றிக்கழக வேட்பாளர் நூதன முறையில் பிரச்சாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-14-virakesarilk-bc6caf1d)
-- 2026-04-14 | `virakesarilk-3dca251c` | பலத்த மின்னல் தாக்கம் குறித்து வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-14-virakesarilk-3dca251c)
 
 ---
 
