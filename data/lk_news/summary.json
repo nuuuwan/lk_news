@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-04-16 10:45:42",
-  "n_docs": 109518,
+  "time_updated": "2026-04-16 12:24:33",
+  "n_docs": 109520,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 109518,
+  "n_docs_with_text": 109520,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-04-16",
-  "dataset_size": 1691621926,
+  "dataset_size": 1691643702,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-16-adalk-6a136398",
-    "num": "adalk-6a136398",
+    "doc_id": "2026-04-16-adalk-f9901c22",
+    "num": "adalk-f9901c22",
     "date_str": "2026-04-16",
-    "description": "14 \u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2 \u0dc5\u0db8\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda \u0dc0\u0dd9\u0da9\u0dd2 \u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0dad\u0dd4\u0dbb\u0dca\u0d9a\u0dd2 \u0db4\u0dcf\u0dc3\u0dbd\u0d9a \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca 8\u0d9a\u0dca \u0dc4\u0dcf \u0d9c\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
-    "url_metadata": "https://www.ada.lk/international/14-\u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2-\u0dc5\u0db8\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda-\u0dc0\u0dd9\u0da9\u0dd2-\u0dad\u0dd0\u0db6\u0dd3\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0dad\u0dd4\u0dbb\u0dca\u0d9a\u0dd2-\u0db4\u0dcf\u0dc3\u0dbd\u0d9a-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-8\u0d9a\u0dca-\u0dc4\u0dcf-\u0d9c\u0dd4\u0dbb\u0dd4\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/3-422073",
+    "description": "\u0d89\u0db1\u0dca\u0daf\u0dd4\u0db1\u0dd3\u0dc3\u0dd2\u0dba\u0dcf \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0da7 \u0d85\u0dba\u0dad\u0dca \u0dbb\u0dd4\u0dc0\u0dbd\u0dca \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0d9a\u0ddc\u0dc5\u0db9\u0da7 \u0d91\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0db1\u0dca\u0daf\u0dd4\u0db1\u0dd3\u0dc3\u0dd2\u0dba\u0dcf-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0da7-\u0d85\u0dba\u0dad\u0dca-\u0dbb\u0dd4\u0dc0\u0dbd\u0dca-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0d9a\u0ddc\u0dc5\u0db9\u0da7-\u0d91\u0dba\u0dd2/11-422075",
     "lang": "si",
     "newspaper_id": "adalk",
-    "time_ut": 1776301780.0
+    "time_ut": 1776311907.0
   }
 }
