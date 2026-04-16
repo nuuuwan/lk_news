@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--17_00:12:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--17_02:01:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,586** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,587** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-16-virakesarilk-a58d603a",
-    "num": "virakesarilk-a58d603a",
-    "date_str": "2026-04-16",
-    "description": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1 \u0b95\u0bbe\u0bb2\u0baa\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd 42 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 44 \u0baa\u0bc7\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1 !",
-    "url_metadata": "https://www.virakesari.lk/article/243684",
+    "doc_id": "2026-04-17-tamilmirrorlk-9fde6d74",
+    "num": "tamilmirrorlk-9fde6d74",
+    "date_str": "2026-04-17",
+    "description": "\u0b9a\u0bbf.\u0b90.\u0b9f\u0bbf.\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9 \u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf-\u0b90-\u0b9f\u0bbf-\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9-\u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9-\u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1/175-375604",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1776357540.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1776367498.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-17 | `tamilmirrorlk-9fde6d74` | சி.ஐ.டி.யில் பொதுஜன பெரமுன முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-tamilmirrorlk-9fde6d74)
 - 2026-04-16 | `virakesarilk-a58d603a` | புத்தாண்டு காலப்பகுதியில் மாத்திரம் 42 விபத்துகளில் 44 பேர் உயிரிழப்பு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-a58d603a)
 - 2026-04-16 | `virakesarilk-999a3d61` | அதிகளவு கரும்புகையை வெளியேற்றும் வாகனங்கள் தொடர்பில் பொலிஸார் அதிரடி நடவடிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-999a3d61)
 - 2026-04-16 | `virakesarilk-c89695bc` | அந்தமான் கடலில் படகு கவிழ்ந்து 250 பேர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-c89695bc)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-04-16 | `virakesarilk-5f314de6` | நாடு பாரிய வீழ்ச்சியை நோக்கிச் செல்கிறது : புதிய யுகத்திற்கான மாற்றம் அவசியம் - வஜிர அபேவர்தன எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-5f314de6)
 - 2026-04-16 | `virakesarilk-f03e9c1b` | முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ மீதான அவதூறுப் பரப்புரை : சி.ஐ.டி.யில் மொட்டு கட்சி முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-f03e9c1b)
 - 2026-04-16 | `virakesarilk-14aae690` | அன்னை பூபதியின் நினைவு ஊர்தி திருகோணமலையை சென்றடைந்தது : உணர்வெழுச்சியுடன் அஞ்சலி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-14aae690)
-- 2026-04-16 | `virakesarilk-f45858cf` | நடிகர் பிரஜின் நடிக்கும் 'எக்ஸ் வை - XY' படத்தின் மோஷன் போஸ்டர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-f45858cf)
 
 ---
 
