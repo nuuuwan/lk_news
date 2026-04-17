@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--17_03:58:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--17_06:24:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,589** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,602** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,12 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-04-17 | `tamilmirrorlk-9fde6d74` | சி.ஐ.டி.யில் பொதுஜன பெரமுன முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-tamilmirrorlk-9fde6d74)
+- 2026-04-17 | `islandlk-829c0eba` | Global uncertainty rising; Sri Lanka must be prepared: Analyst | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-islandlk-829c0eba)
+- 2026-04-17 | `islandlk-1d8920f1` | Robust showing by banking and financial sector stocks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-islandlk-1d8920f1)
+- 2026-04-17 | `islandlk-783bc5fb` | FOUNDATION.LK launches “DiGiSavi” to digitally empower one million Sri Lankans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-islandlk-783bc5fb)
+- 2026-04-16 | `islandlk-75f347b6` | The coal problem: A deep systemic warning | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-islandlk-75f347b6)
+- 2026-04-16 | `islandlk-689cfb99` | Holding government accountable | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-islandlk-689cfb99)
+- 2026-04-16 | `islandlk-8b1c99aa` | Lowest bids may carry hidden costs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-islandlk-8b1c99aa)
 - 2026-04-16 | `virakesarilk-c981fa1d` | பத்தரமுல்லை சீலரத்ன தேரருக்கு உயிர் அச்சுறுத்தல் - பாதுகாப்பு கோரி அமைச்சுக்கு கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-c981fa1d)
 - 2026-04-16 | `virakesarilk-b20a0b15` | பம்பலப்பிட்டி கதிரேசன் கோவிலில் மத வழிபாடுகளில் ஈடுபடவுள்ள இந்திய துணை ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-b20a0b15)
 - 2026-04-16 | `virakesarilk-a58d603a` | புத்தாண்டு காலப்பகுதியில் மாத்திரம் 42 விபத்துகளில் 44 பேர் உயிரிழப்பு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-a58d603a)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-04-16 | `virakesarilk-d4029c6f` | பாகிஸ்தானில் லஷ்கர்-இ-தொய்பா மூத்த தலைவர் அமீர் ஹம்சா மீது துப்பாக்கிச் சூடு – உயிருக்கு ஆபத்தான நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-d4029c6f)
 - 2026-04-16 | `virakesarilk-e67dc099` | பெருமளவான போதைப்பொருளுடன் தெற்கு கடலில் மீன்பிடிப் படகுடன் 4 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-e67dc099)
 - 2026-04-16 | `virakesarilk-7a9c6aef` | உக்ரைன் மீது ரஷ்யா பாரிய தாக்குதல் : 16 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-7a9c6aef)
-- 2026-04-16 | `virakesarilk-6875ba27` | வாகன இலக்கத் தகடு விதிமுறை மீறல் : கடும் சட்ட நடவடிக்கை உத்தரவு - பிரதி பொலிஸ் மா அதிபர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-6875ba27)
-- 2026-04-16 | `virakesarilk-44343402` | வெடுக்குநாறி மலை தமிழர்களின் பூர்வீக நிலம் ; புத்தசாசன அமைச்சரின் கருத்து பௌத்தமயமாக்கலின் வெளிப்பாடே -  தவபாலன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-44343402)
-- 2026-04-16 | `virakesarilk-8329c0b7` | நவீனமயமாக்கப்பட்ட மேற்கு பிராந்திய விநியோக மையத்தை உத்தியோகபூர்வமாக இயங்கச் செய்துள்ள ஹெல்த் கார்ட் விநியோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-8329c0b7)
-- 2026-04-16 | `virakesarilk-87b9ab49` | ஆட்பதிவுத் திணைக்கள சேவைகள் நாளை இடைநிறுத்தம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-87b9ab49)
-- 2026-04-16 | `virakesarilk-67098ff7` | “போர்நிறுத்தம் முடிவு அல்ல – அது தொடக்கம் மட்டுமே” : மத்திய கிழக்கு பதற்றத்தில் ஐக்கிய அரபு இராஜ்ஜியத்தின் நிலைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-67098ff7)
-- 2026-04-16 | `virakesarilk-5f314de6` | நாடு பாரிய வீழ்ச்சியை நோக்கிச் செல்கிறது : புதிய யுகத்திற்கான மாற்றம் அவசியம் - வஜிர அபேவர்தன எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-5f314de6)
 
 ---
 
