@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--17_06:24:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--17_08:51:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,602** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,610** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-17-tamilmirrorlk-9fde6d74",
-    "num": "tamilmirrorlk-9fde6d74",
+    "doc_id": "2026-04-17-tamilmirrorlk-04ee1491",
+    "num": "tamilmirrorlk-04ee1491",
     "date_str": "2026-04-17",
-    "description": "\u0b9a\u0bbf.\u0b90.\u0b9f\u0bbf.\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9 \u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf-\u0b90-\u0b9f\u0bbf-\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9-\u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9-\u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bc1/175-375604",
+    "description": "\u0b87\u0bb0\u0bc1 \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bc8 \u0ba4\u0bc1\u0bb8\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4 \u0bae\u0bc2\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb0\u0bc1-\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bc8-\u0ba4\u0bc1\u0bb8\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4-\u0bae\u0bc2\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-375610",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1776367498.0
+    "time_ut": 1776395041.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-17 | `tamilmirrorlk-04ee1491` | இரு பெண்களை துஸ்பிரயோகம் செய்த மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-tamilmirrorlk-04ee1491)
+- 2026-04-17 | `tamilmirrorlk-589dae5d` | லயன் குடியிருப்பு பகுதியில் தீ பரவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-tamilmirrorlk-589dae5d)
+- 2026-04-17 | `adalk-e2fc81d3` | 10 දෙනෙක් දැදුරු ඔයේ ගිලෙයි, දෙදෙනෙක් බේරා ගනියි, දෙදෙනෙක් මරුට, හයක් අතුරුදන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-adalk-e2fc81d3)
+- 2026-04-17 | `tamilmirrorlk-321ee31a` | த.வெ.க. தேர்தல் அறிக்கை வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-tamilmirrorlk-321ee31a)
+- 2026-04-17 | `tamilmirrorlk-36b08c16` | 21 மாவட்டங்களில் இன்று உச்சம் தொடும் வெப்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-tamilmirrorlk-36b08c16)
+- 2026-04-17 | `tamilmirrorlk-b91fb294` | கரும்புகை வெளியேற்றுவோருக்கு எதிராக நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-tamilmirrorlk-b91fb294)
+- 2026-04-17 | `tamilmirrorlk-0dc76ab6` | மசகு எண்ணெய் ஏற்றிய கப்பல் இன்று வருகின்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-tamilmirrorlk-0dc76ab6)
 - 2026-04-17 | `tamilmirrorlk-9fde6d74` | சி.ஐ.டி.யில் பொதுஜன பெரமுன முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-tamilmirrorlk-9fde6d74)
 - 2026-04-17 | `islandlk-829c0eba` | Global uncertainty rising; Sri Lanka must be prepared: Analyst | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-islandlk-829c0eba)
 - 2026-04-17 | `islandlk-1d8920f1` | Robust showing by banking and financial sector stocks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-islandlk-1d8920f1)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-04-16 | `virakesarilk-999a3d61` | அதிகளவு கரும்புகையை வெளியேற்றும் வாகனங்கள் தொடர்பில் பொலிஸார் அதிரடி நடவடிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-999a3d61)
 - 2026-04-16 | `virakesarilk-c89695bc` | அந்தமான் கடலில் படகு கவிழ்ந்து 250 பேர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-c89695bc)
 - 2026-04-16 | `tamilmirrorlk-2f67328f` | உரிமைகளை வென்றெடுக்க ஒன்றிணைவோம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-tamilmirrorlk-2f67328f)
-- 2026-04-16 | `tamilmirrorlk-b8816944` | மஸ்கெலியாவில் சோகம்: 15 வயது மாணவி சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-tamilmirrorlk-b8816944)
-- 2026-04-16 | `virakesarilk-2938e442` | மத்திய கிழக்கு போர்ச்சூழலில் நாளை நாட்டுக்கு வருகிறது முதலாவது மசகு எண்ணெய்க் கப்பல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-2938e442)
-- 2026-04-16 | `tamilmirrorlk-602f94bf` | புத்தளம் வைத்தியசாலையில் முள்ளந்தண்டு நேராக்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-tamilmirrorlk-602f94bf)
-- 2026-04-16 | `virakesarilk-a42c9cd0` | வாவியில் நீராடிய இருவர் நீரில் மூழ்கி பலி - எம்பிலிப்பிட்டியவில் சம்பவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-a42c9cd0)
-- 2026-04-16 | `virakesarilk-d4029c6f` | பாகிஸ்தானில் லஷ்கர்-இ-தொய்பா மூத்த தலைவர் அமீர் ஹம்சா மீது துப்பாக்கிச் சூடு – உயிருக்கு ஆபத்தான நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-d4029c6f)
-- 2026-04-16 | `virakesarilk-e67dc099` | பெருமளவான போதைப்பொருளுடன் தெற்கு கடலில் மீன்பிடிப் படகுடன் 4 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-e67dc099)
-- 2026-04-16 | `virakesarilk-7a9c6aef` | உக்ரைன் மீது ரஷ்யா பாரிய தாக்குதல் : 16 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-16-virakesarilk-7a9c6aef)
 
 ---
 
