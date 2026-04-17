@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--17_18:08:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--17_20:12:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,677** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,678** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A collection of lk_news documents.
 - 2026-04-17 | `virakesarilk-e40c7246` | மித்தலாஜிக்கல் திரில்லராக உருவாகும் நடிகர் ஆரி அர்ஜுனனின் 'பகவான்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-e40c7246)
 - 2026-04-17 | `virakesarilk-94ada027` | துல்கர் சல்மான் நடிக்கும் ' ஐ அம் கேம் ' படத்தின் படப்பிடிப்பு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-94ada027)
 - 2026-04-17 | `virakesarilk-791f7184` | ரூம் பாய் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-791f7184)
+- 2026-04-17 | `tamilmirrorlk-da97c293` | அயோனா தோட்டத்தில் படம் எடுத்து ஆடும் நாப்பாம்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-tamilmirrorlk-da97c293)
 - 2026-04-17 | `virakesarilk-59bf7826` | மனைவி கூரிய ஆயுதத்தால் தாக்கப்பட்டு கொலை ; கணவன் உட்பட இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-59bf7826)
 - 2026-04-17 | `virakesarilk-c79afaff` | மிஸ்டர் எக்ஸ் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-c79afaff)
 - 2026-04-17 | `virakesarilk-263681b4` | டித்வா அனர்த்தம் : பெருந்தோட்ட மக்களுக்கு நிரந்தர இல்லங்களை அமைத்துத் தருக! - தொண்டு நிறுவனங்கள் அரசிடம் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-263681b4)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-04-17 | `virakesarilk-1f4a9a56` | தகிக்கும் வெப்பத்தைத் தணிக்க யாழில் பல முன்னேற்பாடான நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-1f4a9a56)
 - 2026-04-17 | `tamilmirrorlk-d6c83282` | அனுர அரசில் அதிரடி : இருவர் இராஜினாமா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-tamilmirrorlk-d6c83282)
 - 2026-04-17 | `virakesarilk-6e8feb10` | இன்றைய நாணய மாற்று விகிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-6e8feb10)
-- 2026-04-17 | `virakesarilk-8671ff3d` | சுயாதீன விசாரணைக்கு இடமளிக்கும் வகையில் வலுசக்தி அமைச்சரும் செயலாளரும் இராஜினாமா : கடிதங்கள் ஜனாதிபதியிடம் கையளிப்பு - ஜனாதிபதி ஊடகப்பிரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-8671ff3d)
 
 ---
 
