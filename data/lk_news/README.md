@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--18_13:59:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--18_15:58:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,725** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,727** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-18-virakesarilk-ef70f0f5",
-    "num": "virakesarilk-ef70f0f5",
+    "doc_id": "2026-04-18-tamilmirrorlk-8881792b",
+    "num": "tamilmirrorlk-8881792b",
     "date_str": "2026-04-18",
-    "description": "\u0bb5\u0bc6\u0bb2\u0bbf\u0b95\u0bae\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bae\u0ba9\u0bbe\u0bb0\u0bbe\u0bb2\u0bcd \u0b95\u0bca\u0bb2\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bae\u0bb0\u0bc1\u0bae\u0b95\u0ba9\u0bcd !",
-    "url_metadata": "https://www.virakesari.lk/article/243771",
+    "description": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bc8 \u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1-\u0baa\u0bbf\u0bb0\u0ba4\u0bbf-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bc8-\u0baa\u0ba4\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb1\u0bc1-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-375644",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1776486660.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1776507130.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-18 | `tamilmirrorlk-8881792b` | பாதுகாப்பு பிரதி அமைச்சரை பதவியிலிருந்து நீக்குமாறு கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-18-tamilmirrorlk-8881792b)
+- 2026-04-18 | `tamilmirrorlk-8d7175c9` | கால்வாயில் விழுந்த யானை மீட்பு: ஆவேசமடைந்து வாகனங்களை பந்தாடியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-18-tamilmirrorlk-8d7175c9)
 - 2026-04-18 | `virakesarilk-ef70f0f5` | வெலிகமவில் மாமனாரால் கொலை செய்யப்பட்ட மருமகன் ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-18-virakesarilk-ef70f0f5)
 - 2026-04-18 | `virakesarilk-6e1266dd` | 'பொடி பெட்டி' மீதான துப்பாக்கிச் சூட்டுச் சம்பவத்துடன் தொடர்புடைய சந்தேகநபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-18-virakesarilk-6e1266dd)
 - 2026-04-18 | `virakesarilk-cec33793` | யாழ். விரிவுரையாளர் கொலை வழக்கு : மரண விசாரணை அறிக்கை இதுவரை சமர்ப்பிக்கப்படவில்லையென குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-18-virakesarilk-cec33793)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-04-18 | `virakesarilk-8e44125c` | நெடுந்தீவுக்கான நிரந்தர குடிநீர் விநியோகத்திட்டம் 2027 முழுமைபெறும் - தேசிய நீர் வழங்கல் வடிகாலமைப்புச் சபை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-18-virakesarilk-8e44125c)
 - 2026-04-18 | `virakesarilk-c715e20b` | ‘பாதாள உலகம்’ இல்லை: எம்மை அச்சுறுத்துவதற்காக சிலர் ஓய்வுபெற்ற இராணுவ வீரர்களை பயன்படுத்திக் கொள்கின்றனர் - பாதுகாப்பு அமைச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-18-virakesarilk-c715e20b)
 - 2026-04-18 | `virakesarilk-3c037f4c` | ரூபாவாஹினி கூட்டுத்தாபனத்திற்கு நட்டம் விளைவித்த விவகாரம்; சரத் கொங்கஹகே உள்ளிட்ட இருவர் பிணையில் விடுதலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-18-virakesarilk-3c037f4c)
-- 2026-04-18 | `virakesarilk-d1af0fe4` | தமிழ்த்தேசியக் கட்சிகள், மலையகக் கட்சிகளை தனித்தனியாக சந்திக்கவுள்ள இந்திய துணை ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-18-virakesarilk-d1af0fe4)
-- 2026-04-18 | `virakesarilk-a67bd51c` | அமைச்சர் குமார ஜயகொடி நிலக்கரி கொள்வனவு விவகாரத்தில் மோசடியில் ஈடபடவில்லை; விசாரணையில் உண்மை வெளிவரும் – விஜித்த ஹேரத், நளிந்த ஜயதிஸ்ஸ கூட்டாக வலியுறுத்தினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-18-virakesarilk-a67bd51c)
 
 ---
 
