@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--18_03:57:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--18_06:20:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,689** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,699** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-18-tamilmirrorlk-a470babf",
-    "num": "tamilmirrorlk-a470babf",
+    "doc_id": "2026-04-18-tamilmirrorlk-585822e5",
+    "num": "tamilmirrorlk-585822e5",
     "date_str": "2026-04-18",
-    "description": "\u0bb5\u0bc0\u0b9f\u0bc1 \u0bb5\u0bc0\u0b9f\u0bbe\u0b95 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc7\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc0\u0b9f\u0bc1-\u0bb5\u0bc0\u0b9f\u0bbe\u0b95-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bc1-\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bc7\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9c\u0baf\u0bcd/175-375633",
+    "description": "\u0bb9\u0bcb\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd \u0b8a\u0b9f\u0bbe\u0b95 \u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bcb\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd-\u0b8a\u0b9f\u0bbe\u0b95-\u0b95\u0baa\u0bcd\u0baa\u0bb2\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf/50-375634",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1776456359.0
+    "time_ut": 1776456883.0
 }
 ```
 
@@ -41,7 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-18 | `tamilmirrorlk-585822e5` | ஹோர்முஸ் ஊடாக கப்பல்கள் செல்ல ஈரான் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-18-tamilmirrorlk-585822e5)
 - 2026-04-18 | `tamilmirrorlk-a470babf` | வீடு வீடாக சென்று வாக்கு சேகரித்தார் விஜய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-18-tamilmirrorlk-a470babf)
+- 2026-04-17 | `islandlk-c819a394` | Bourse enlivened by positive ripple effects from reducing M-E tensions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-islandlk-c819a394)
+- 2026-04-17 | `islandlk-c096295d` | Excello Developers on strategy, stability and the future of Sri Lanka’s construction sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-islandlk-c096295d)
+- 2026-04-17 | `islandlk-77b39b91` | Ambassador of Nepal visits Pathfinder Foundation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-islandlk-77b39b91)
+- 2026-04-17 | `islandlk-4471a5d6` | A greener tomorrow with NSB’s New Year initiative that promotes savings and sustainability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-islandlk-4471a5d6)
 - 2026-04-17 | `virakesarilk-deb77195` | அரசியல் பழிவாங்களுக்காகவே பிள்ளையான் வெலிசர கடற்படை முகாமுக்கு மாற்றம் - சாகர காரியவசம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-deb77195)
 - 2026-04-17 | `virakesarilk-927d689f` | போர்நிறுத்த காலத்தில் ஹோர்முஸ் நீரிணை முழுமையாக திறப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-927d689f)
 - 2026-04-17 | `virakesarilk-fc3bf965` | வலுசக்தி அமைச்சின் செயலாளராக ஜி.எம்.ஆர்.டி. அபொன்சு நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-fc3bf965)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-04-17 | `virakesarilk-76a70dd3` | வாவியில் நீராடிய இளைஞர் நீரில் மூழ்கி உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-76a70dd3)
 - 2026-04-17 | `virakesarilk-e40c7246` | மித்தலாஜிக்கல் திரில்லராக உருவாகும் நடிகர் ஆரி அர்ஜுனனின் 'பகவான்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-e40c7246)
 - 2026-04-17 | `virakesarilk-94ada027` | துல்கர் சல்மான் நடிக்கும் ' ஐ அம் கேம் ' படத்தின் படப்பிடிப்பு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-94ada027)
-- 2026-04-17 | `virakesarilk-791f7184` | ரூம் பாய் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-791f7184)
-- 2026-04-17 | `tamilmirrorlk-da97c293` | அயோனா தோட்டத்தில் படம் எடுத்து ஆடும் நாப்பாம்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-tamilmirrorlk-da97c293)
-- 2026-04-17 | `virakesarilk-59bf7826` | மனைவி கூரிய ஆயுதத்தால் தாக்கப்பட்டு கொலை ; கணவன் உட்பட இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-59bf7826)
-- 2026-04-17 | `virakesarilk-c79afaff` | மிஸ்டர் எக்ஸ் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-c79afaff)
-- 2026-04-17 | `virakesarilk-263681b4` | டித்வா அனர்த்தம் : பெருந்தோட்ட மக்களுக்கு நிரந்தர இல்லங்களை அமைத்துத் தருக! - தொண்டு நிறுவனங்கள் அரசிடம் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-17-virakesarilk-263681b4)
 
 ---
 
