@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--19_21:55:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--19_23:58:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,859** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,860** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -49,6 +49,7 @@ A collection of lk_news documents.
 - 2026-04-19 | `tamilmirrorlk-ae4e9108` | மாரத்தான் போட்டியில் மனிதர்களை முந்திய   ரோபோக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-ae4e9108)
 - 2026-04-19 | `tamilmirrorlk-7104cb41` | சந்தன கத்ரியாரச்சிக்கு 30 நாள் தடுப்புக்காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-7104cb41)
 - 2026-04-19 | `tamilmirrorlk-d8cf69a1` | ஹெலியில் திருமண மேடைக்கு வர முயன்ற மணப்பெண் விபத்தில் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-d8cf69a1)
+- 2026-04-19 | `adalk-3a6bc7d8` | ඉන්දීය උප ජනපති ජනපති අනුර හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-adalk-3a6bc7d8)
 - 2026-04-19 | `tamilmirrorlk-66bfc6a8` | இந்தியத் துணை ஜனாதிபதியை சந்தித்தார் சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-66bfc6a8)
 - 2026-04-19 | `tamilmirrorlk-89193c21` | கிரெகரி வாவியில் படகு விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-89193c21)
 - 2026-04-19 | `tamilmirrorlk-b65a53be` | தமிழகத்தில் 15 தொகுதிகளில் தேர்தல் ரத்தாக வாய்ப்பு?   ரகசிய ரிப்போர்ட் பறந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-b65a53be)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-04-19 | `tamilmirrorlk-e8f56383` | ரயிலுடன் மோதி ரஷ்ய யுவதி பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-e8f56383)
 - 2026-04-19 | `virakesarilk-67b74239` | மன்னாரில் சட்டவிரோத மணல் அகழ்வுக்கு முற்றுப்புள்ளி வைக்க அரசாங்கம் அதிரடி நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-67b74239)
 - 2026-04-19 | `virakesarilk-4f2ea289` | நுவரெலியா 2026 வசந்த கால மலர் கண்காட்சி நிறைவு - வெற்றி பெற்றவர்களுக்கு பரிசு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-4f2ea289)
-- 2026-04-19 | `virakesarilk-ab32f033` | மரத்தில் தொங்கிய நிலையில் இளைஞனின் சடலம் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-ab32f033)
 
 ---
 
