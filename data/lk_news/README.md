@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--19_12:21:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--19_14:15:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,812** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,813** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -55,12 +55,12 @@ A collection of lk_news documents.
 - 2026-04-19 | `virakesarilk-169695a3` | ஆனைமடுவ பகுதியில் புத்தாண்டு நிகழ்வில் மோதல்; 07 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-169695a3)
 - 2026-04-19 | `virakesarilk-b9956878` | இளைய சமுதாயத்தை நல்வழிப்படுத்துவதற்கு சமய தலைவர்கள் பாடசாலை சமூகங்கள் விழிப்படைய வேண்டும் - கலாநிதி ஆறுதிருமுருகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-b9956878)
 - 2026-04-19 | `virakesarilk-84fbcf86` | நாட்டிலிருந்து புறப்பட்டது இந்தோனேசிய கடற்படை கப்பல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-84fbcf86)
+- 2026-04-19 | `adalk-23c036ea` | හෙට සිට වැසි ඇතිවෙන්න හිතකර වායුගෝලයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-adalk-23c036ea)
 - 2026-04-19 | `virakesarilk-597e8f3d` | இலங்கை - இந்தோனேசிய கடற்படையினரின் பிரம்மாண்ட அணிவகுப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-597e8f3d)
 - 2026-04-19 | `virakesarilk-baea3307` | காங்கிரஸ் தனித்து செயற்படுகிறது -  தமிழ் சட்டத்தரணிகள் பேரவைக்கு இலங்கைத் தமிழரசுக்கட்சி கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-baea3307)
 - 2026-04-19 | `virakesarilk-b5722d3a` | இலங்­கையும் ஜப்­பா­னிய உதவிப் பொதியும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-b5722d3a)
 - 2026-04-19 | `virakesarilk-cf515a40` | அரசாங்கத்தின் நாடகத்தை அம்பலப்படுத்துவோம் - ஐக்கிய மக்கள் சக்தி கடும் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-cf515a40)
 - 2026-04-19 | `virakesarilk-43ebec72` | ரஷ்யாவிடம் இருந்து எரிபொருள் கிடைக்குமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-43ebec72)
-- 2026-04-19 | `tamilmirrorlk-4a5eb7e4` | அரசியல் கைதுகளையும் எதிர்கொள்ளத் தயாராக இருக்க வேண்டும்: டக்ளஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-4a5eb7e4)
 
 ---
 
