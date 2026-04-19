@@ -148518,5 +148518,104 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1776605801.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-20-dailyftlk-d6fbe52e",
+    "num": "dailyftlk-d6fbe52e",
+    "date_str": "2026-04-20",
+    "description": "Seven deadly sins of Sri Lanka\u2019s dastardly 2019 Easter bombings",
+    "url_metadata": "https://www.ft.lk/columns/Seven-deadly-sins-of-Sri-Lanka-s-dastardly-2019-Easter-bombings/4-790808",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776632180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-20-dailyftlk-bb0cb0da",
+    "num": "dailyftlk-bb0cb0da",
+    "date_str": "2026-04-20",
+    "description": "Building resilient societies starts with strengthening the care economy",
+    "url_metadata": "https://www.ft.lk/columns/Building-resilient-societies-starts-with-strengthening-the-care-economy/4-790810",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776632476.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-20-dailyftlk-7a2987c8",
+    "num": "dailyftlk-7a2987c8",
+    "date_str": "2026-04-20",
+    "description": "Disruption to stability: Why must Sri Lankan exporters turn to Japan now?",
+    "url_metadata": "https://www.ft.lk/columns/Disruption-to-stability-Why-must-Sri-Lankan-exporters-turn-to-Japan-now/4-790811",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776632902.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-20-dailyftlk-b227a133",
+    "num": "dailyftlk-b227a133",
+    "date_str": "2026-04-20",
+    "description": "Global cost of Iran crisis: United Nations must ensure people don\u2019t pay the price of far-away conflicts",
+    "url_metadata": "https://www.ft.lk/columns/Global-cost-of-Iran-crisis-United-Nations-must-ensure-people-don-t-pay-the-price-of-far-away-conflicts/4-790812",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776633267.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-20-dailyftlk-4c54ad85",
+    "num": "dailyftlk-4c54ad85",
+    "date_str": "2026-04-20",
+    "description": "Conscience of Minister Kumara Jayakody and political leadership",
+    "url_metadata": "https://www.ft.lk/columns/Conscience-of-Minister-Kumara-Jayakody-and-political-leadership/4-790813",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776633932.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-20-dailyftlk-e21a110e",
+    "num": "dailyftlk-e21a110e",
+    "date_str": "2026-04-20",
+    "description": "When systems fail: Data breaches, financial crime, and illusion of regulation",
+    "url_metadata": "https://www.ft.lk/columns/When-systems-fail-Data-breaches-financial-crime-and-illusion-of-regulation/4-790814",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776634268.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-20-dailyftlk-dea94baa",
+    "num": "dailyftlk-dea94baa",
+    "date_str": "2026-04-20",
+    "description": "Sri Lanka\u2019s banking sector: When narrative strength outpaces operational truth",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-banking-sector-When-narrative-strength-outpaces-operational-truth/4-790815",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776634628.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-20-dailyftlk-342037b8",
+    "num": "dailyftlk-342037b8",
+    "date_str": "2026-04-20",
+    "description": "End of corporate shadows: Mandatory Beneficial Ownership disclosure begins",
+    "url_metadata": "https://www.ft.lk/columns/End-of-corporate-shadows-Mandatory-Beneficial-Ownership-disclosure-begins/4-790816",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776635301.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-20-dailyftlk-177d566e",
+    "num": "dailyftlk-177d566e",
+    "date_str": "2026-04-20",
+    "description": "Philip Gunawardena and his positive mindset: Speeches in the last lap of Parliament",
+    "url_metadata": "https://www.ft.lk/columns/Philip-Gunawardena-and-his-positive-mindset-Speeches-in-the-last-lap-of-Parliament/4-790817",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776636214.0
   }
 ]

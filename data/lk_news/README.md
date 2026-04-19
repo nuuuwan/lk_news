@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--20_01:53:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--20_03:53:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**109,860** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**109,869** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-19-tamilmirrorlk-b468e2c5",
-    "num": "tamilmirrorlk-b468e2c5",
-    "date_str": "2026-04-19",
-    "description": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b9a\u0bbf.\u0baa\u0bbf. \u0bb0\u0bbe\u0ba4\u0bbe\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0b9a\u0bbf-\u0baa\u0bbf-\u0bb0\u0bbe\u0ba4\u0bbe\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd/175-375723",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1776605801.0
+    "doc_id": "2026-04-20-dailyftlk-177d566e",
+    "num": "dailyftlk-177d566e",
+    "date_str": "2026-04-20",
+    "description": "Philip Gunawardena and his positive mindset: Speeches in the last lap of Parliament",
+    "url_metadata": "https://www.ft.lk/columns/Philip-Gunawardena-and-his-positive-mindset-Speeches-in-the-last-lap-of-Parliament/4-790817",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776636214.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-20 | `dailyftlk-177d566e` | Philip Gunawardena and his positive mindset: Speeches in the last lap of Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-dailyftlk-177d566e)
+- 2026-04-20 | `dailyftlk-342037b8` | End of corporate shadows: Mandatory Beneficial Ownership disclosure begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-dailyftlk-342037b8)
+- 2026-04-20 | `dailyftlk-dea94baa` | Sri Lanka’s banking sector: When narrative strength outpaces operational truth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-dailyftlk-dea94baa)
+- 2026-04-20 | `dailyftlk-e21a110e` | When systems fail: Data breaches, financial crime, and illusion of regulation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-dailyftlk-e21a110e)
+- 2026-04-20 | `dailyftlk-4c54ad85` | Conscience of Minister Kumara Jayakody and political leadership | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-dailyftlk-4c54ad85)
+- 2026-04-20 | `dailyftlk-b227a133` | Global cost of Iran crisis: United Nations must ensure people don’t pay the price of far-away conflicts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-dailyftlk-b227a133)
+- 2026-04-20 | `dailyftlk-7a2987c8` | Disruption to stability: Why must Sri Lankan exporters turn to Japan now? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-dailyftlk-7a2987c8)
+- 2026-04-20 | `dailyftlk-bb0cb0da` | Building resilient societies starts with strengthening the care economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-dailyftlk-bb0cb0da)
+- 2026-04-20 | `dailyftlk-d6fbe52e` | Seven deadly sins of Sri Lanka’s dastardly 2019 Easter bombings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-dailyftlk-d6fbe52e)
 - 2026-04-19 | `tamilmirrorlk-b468e2c5` | தமிழ் அரசியல் தலைவர்களை சந்தித்தார் சி.பி. ராதாகிருஷ்ணன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-b468e2c5)
 - 2026-04-19 | `tamilmirrorlk-b31f929f` | வெள்ளத்தில் தத்தளித்த நாவல் நகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-b31f929f)
 - 2026-04-19 | `tamilmirrorlk-17fb6715` | எடப்பாடி தொகுதியில் சுயேச்சை வேட்பாளருக்கு விஜய் ஆதரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-17fb6715)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-04-19 | `adalk-3a6bc7d8` | ඉන්දීය උප ජනපති ජනපති අනුර හමුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-adalk-3a6bc7d8)
 - 2026-04-19 | `tamilmirrorlk-66bfc6a8` | இந்தியத் துணை ஜனாதிபதியை சந்தித்தார் சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-66bfc6a8)
 - 2026-04-19 | `tamilmirrorlk-89193c21` | கிரெகரி வாவியில் படகு விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-89193c21)
-- 2026-04-19 | `tamilmirrorlk-b65a53be` | தமிழகத்தில் 15 தொகுதிகளில் தேர்தல் ரத்தாக வாய்ப்பு?   ரகசிய ரிப்போர்ட் பறந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-b65a53be)
-- 2026-04-19 | `virakesarilk-9d00fcd4` | எழுத்தாளர் தீபச்செல்வனின் நூல்கள் தடுத்து வைப்பு – சிவில் சமூகம் கடும் கண்டனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-9d00fcd4)
-- 2026-04-19 | `virakesarilk-51a12f79` | நாட்டின் எரிசக்தி நெருக்கடிக்கு தீர்வுகாண ரஷ்யா செல்லும் அமைச்சர் விஜித ஹேரத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-51a12f79)
-- 2026-04-19 | `virakesarilk-e2a16567` | திருகோணமலையில் அன்னை பூபதியின் 38-வது நினைவு தினம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-e2a16567)
-- 2026-04-19 | `virakesarilk-d736aed7` | தமிழ்த் தேசியக் கட்சிகள் இடையிலான ஒற்றுமை முயற்சியை குழப்புகின்றனர் - இலங்கைத் தமிழரசுக் கட்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-d736aed7)
-- 2026-04-19 | `virakesarilk-fdb6ff71` | ஈரா­னுக்கு எதி­ரான அமெ­ரிக்கப் போரும் வர­லாற்று ஒப்­பீ­டு­களும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-fdb6ff71)
-- 2026-04-19 | `tamilmirrorlk-e8f56383` | ரயிலுடன் மோதி ரஷ்ய யுவதி பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-tamilmirrorlk-e8f56383)
-- 2026-04-19 | `virakesarilk-67b74239` | மன்னாரில் சட்டவிரோத மணல் அகழ்வுக்கு முற்றுப்புள்ளி வைக்க அரசாங்கம் அதிரடி நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-67b74239)
-- 2026-04-19 | `virakesarilk-4f2ea289` | நுவரெலியா 2026 வசந்த கால மலர் கண்காட்சி நிறைவு - வெற்றி பெற்றவர்களுக்கு பரிசு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-19-virakesarilk-4f2ea289)
 
 ---
 
