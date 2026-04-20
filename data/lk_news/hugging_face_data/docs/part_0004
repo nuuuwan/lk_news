@@ -150413,6 +150413,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-04-20-dailyftlk-95642f9d",
+    "num": "dailyftlk-95642f9d",
+    "date_str": "2026-04-20",
+    "description": "Namal\u2019s inescapable challenges; Sajith\u2019s unfinished tasks; Easter massacre originators \u2013 A response",
+    "url_metadata": "https://www.ft.lk/columns/Namal-s-inescapable-challenges-Sajith-s-unfinished-tasks-Easter-massacre-originators-A-response/4-790865",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776709293.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-04-21-dailyftlk-dbbf184d",
     "num": "dailyftlk-dbbf184d",
     "date_str": "2026-04-21",
@@ -150421,5 +150432,16 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1776710045.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-21-dailyftlk-4fdab0d0",
+    "num": "dailyftlk-4fdab0d0",
+    "date_str": "2026-04-21",
+    "description": "Multilateral Development Banks deepen collaboration to support countries amidst global uncertainty",
+    "url_metadata": "https://www.ft.lk/business/Multilateral-Development-Banks-deepen-collaboration-to-support-countries-amidst-global-uncertainty/34-790875",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776711658.0
   }
 ]

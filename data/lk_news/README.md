@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--21_00:07:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--21_02:00:46-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,033** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,035** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-21-dailyftlk-dbbf184d",
-    "num": "dailyftlk-dbbf184d",
+    "doc_id": "2026-04-21-dailyftlk-4fdab0d0",
+    "num": "dailyftlk-4fdab0d0",
     "date_str": "2026-04-21",
-    "description": "Repression by regulation: When FATF mutual evaluations become Government weapons",
-    "url_metadata": "https://www.ft.lk/columns/Repression-by-regulation-When-FATF-mutual-evaluations-become-Government-weapons/4-790866",
+    "description": "Multilateral Development Banks deepen collaboration to support countries amidst global uncertainty",
+    "url_metadata": "https://www.ft.lk/business/Multilateral-Development-Banks-deepen-collaboration-to-support-countries-amidst-global-uncertainty/34-790875",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1776710045.0
+    "time_ut": 1776711658.0
 }
 ```
 
@@ -41,7 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-21 | `dailyftlk-4fdab0d0` | Multilateral Development Banks deepen collaboration to support countries amidst global uncertainty | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-dailyftlk-4fdab0d0)
 - 2026-04-21 | `dailyftlk-dbbf184d` | Repression by regulation: When FATF mutual evaluations become Government weapons | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-dailyftlk-dbbf184d)
+- 2026-04-20 | `dailyftlk-95642f9d` | Namal’s inescapable challenges; Sajith’s unfinished tasks; Easter massacre originators – A response | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-dailyftlk-95642f9d)
 - 2026-04-20 | `tamilmirrorlk-32ea6f34` | படப்பிடிப்பு தளத்தில் திருட்டு முயற்சி : ராஷி கன்னா விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-tamilmirrorlk-32ea6f34)
 - 2026-04-20 | `tamilmirrorlk-bdc7d1d1` | நாளை விசேட போக்குவரத்து திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-tamilmirrorlk-bdc7d1d1)
 - 2026-04-20 | `tamilmirrorlk-526c28b8` | “மே தினம் குறித்து எவ்வித தீர்மானமும் இல்லை” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-tamilmirrorlk-526c28b8)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-04-20 | `virakesarilk-71810fc0` | வலுசக்தி அமைச்சராக அநுர கருணாதிலக்க ஜனாதிபதி முன்னிலையில் பதவியேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-virakesarilk-71810fc0)
 - 2026-04-20 | `tamilmirrorlk-c2c806e7` | வலுசக்தி அமைச்சராக அநுர கருணாதிலக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-tamilmirrorlk-c2c806e7)
 - 2026-04-20 | `tamilmirrorlk-2e0c775c` | உப்பை மறந்த அப்பாவுக்கு ஆஸ்திரேலியாவிலிருந்து ’ஆப்பு’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-tamilmirrorlk-2e0c775c)
-- 2026-04-20 | `virakesarilk-61863ae3` | யாழ். கட்டளைத் தளபதிக்கும் அரசாங்க அதிபருக்கும் இடையில் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-virakesarilk-61863ae3)
-- 2026-04-20 | `adalk-9772c7be` | ලබන සතියෙත් ජපානයට ප්‍රභල භූකම්පාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-20-adalk-9772c7be)
 
 ---
 
