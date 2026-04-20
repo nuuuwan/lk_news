@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-04-20 06:24:44",
-  "n_docs": 109901,
+  "time_updated": "2026-04-20 08:51:47",
+  "n_docs": 109903,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 109901,
+  "n_docs_with_text": 109903,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-04-20",
-  "dataset_size": 1698724933,
+  "dataset_size": 1699055798,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-20-dailyftlk-a917d25c",
-    "num": "dailyftlk-a917d25c",
+    "doc_id": "2026-04-20-adalk-1a7bee1e",
+    "num": "adalk-1a7bee1e",
     "date_str": "2026-04-20",
-    "description": "India, Sri Lanka reaffirm strategic ties with focus on energy, connectivity",
-    "url_metadata": "https://www.ft.lk/news/India-Sri-Lanka-reaffirm-strategic-ties-with-focus-on-energy-connectivity/56-790852",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1776641140.0
+    "description": "\u0d89\u0dbb\u0dcf\u0db1 \u0db1\u0dd9\u0ddf\u0d9a\u0dcf\u0dc0\u0d9a\u0dca \u0dc3\u0dd2\u0dba \u0db7\u0dcf\u0dbb\u0dba\u0da7 \u0d9c\u0dad\u0dca \u0db6\u0dc0 \u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dbb\u0dcf\u0db1-\u0db1\u0dd9\u0ddf\u0d9a\u0dcf\u0dc0\u0d9a\u0dca-\u0dc3\u0dd2\u0dba-\u0db7\u0dcf\u0dbb\u0dba\u0da7-\u0d9c\u0dad\u0dca-\u0db6\u0dc0-\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/11-422106",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1776652172.0
   }
 }
