@@ -150410,5 +150410,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1776700509.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-21-dailyftlk-dbbf184d",
+    "num": "dailyftlk-dbbf184d",
+    "date_str": "2026-04-21",
+    "description": "Repression by regulation: When FATF mutual evaluations become Government weapons",
+    "url_metadata": "https://www.ft.lk/columns/Repression-by-regulation-When-FATF-mutual-evaluations-become-Government-weapons/4-790866",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776710045.0
   }
 ]
