@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--21_14:24:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--21_16:15:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,133** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,143** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-21-tamilmirrorlk-5c9100c8",
-    "num": "tamilmirrorlk-5c9100c8",
+    "doc_id": "2026-04-21-tamilmirrorlk-08bf00da",
+    "num": "tamilmirrorlk-08bf00da",
     "date_str": "2026-04-21",
-    "description": "\u2019\u0b95\u0bc1\u0b9f\u0bc1 \u0b9a\u0bb2\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u2019\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b90\u0bb8\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0b9f\u0bc1-\u0b9a\u0bb2\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0ba9\u0bcd-\u0b9a\u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b90\u0bb8\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-375838",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b86\u0baa\u0bbe\u0b9a\u0baa\u0bcd \u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd: \u0b8e\u0bb2\u0bbe\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b86\u0baa\u0bbe\u0b9a\u0baa\u0bcd-\u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b8e\u0bb2\u0bbe\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bc8/50-375850",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1776761084.0
+    "time_ut": 1776767993.0
 }
 ```
 
@@ -41,10 +41,19 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-21 | `tamilmirrorlk-08bf00da` | சிறார்களின் ஆபாசப் படங்கள்: எலானுக்கு அழைப்பாணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-08bf00da)
+- 2026-04-21 | `tamilmirrorlk-c5265646` | CEO பதவியில் இருந்து விலகும் டிம் குக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-c5265646)
+- 2026-04-21 | `tamilmirrorlk-58d277f0` | மன்னார் விபத்து ; தோண்டப்பட்ட குழந்தையின் சடலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-58d277f0)
+- 2026-04-21 | `tamilmirrorlk-9caeb2cf` | ’ஜனநாயகன்’ லீக்: விஜய்யின் தந்தை   போட்டு உடைத்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-9caeb2cf)
+- 2026-04-21 | `tamilmirrorlk-88b8123c` | நெதன்யாகு கைது?: ஐரோப்பிய அரசியலில் பரபரப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-88b8123c)
+- 2026-04-21 | `tamilmirrorlk-3bf9796b` | தாழ்தள பேருந்து சேவை ஆரம்பம்... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-3bf9796b)
+- 2026-04-21 | `tamilmirrorlk-a614e504` | வானிலை முன்னறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-a614e504)
+- 2026-04-21 | `tamilmirrorlk-095694ca` | பசறையில் டிரெக்டர் விபத்து: சாரதி படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-095694ca)
 - 2026-04-21 | `tamilmirrorlk-5c9100c8` | ’குடு சலிந்து’வின் சகாக்கள் ஐஸுடன் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-5c9100c8)
 - 2026-04-21 | `tamilmirrorlk-fd16be29` | எழுத்தாளர் தீபச்செல்வனின் புத்தகங்கள் முடக்கம்: யாழில் முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-fd16be29)
 - 2026-04-21 | `tamilmirrorlk-5faa037e` | ஆப்பிள் நிறுவனத்தில் அதிரடி மாற்றம்:   விலகுகிறாரா டிம் குக்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-5faa037e)
 - 2026-04-21 | `tamilmirrorlk-6a57dbed` | நாறிய நிர்வாகம் : சாணத்தால் முகாமையாளருக்கு அபிஷேகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-6a57dbed)
+- 2026-04-21 | `adalk-a407cdfc` | බලපත්‍රයක් නැති පිස්තෝලයක් සමග හිටපු මන්ත්‍රී ප්‍රේමලාල් ජයසේකර අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-adalk-a407cdfc)
 - 2026-04-21 | `tamilmirrorlk-fa0f0ff0` | செம்மணி புதைக்குழி அகழ்வு மீண்டும் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-fa0f0ff0)
 - 2026-04-21 | `tamilmirrorlk-c1560b13` | முன்னாள் எம்.பி பிரேமலால்  கைத்துப்பாக்கியுடன் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-c1560b13)
 - 2026-04-21 | `adalk-883d3a1d` | ප්‍රභල අකුණු පිළිබඳව අවවාදාත්මක නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-adalk-883d3a1d)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-04-21 | `virakesarilk-c949ce86` | உயிர்த்த ஞாயிறு குண்டுத் தாக்குதலின் 7ஆவது ஆண்டு நினைவுதினம் ; கொழும்பு கொச்சிக்கடை புனித அந்தோணியார் தேவாலயத்தில் சிறப்பு ஆராதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-virakesarilk-c949ce86)
 - 2026-04-21 | `virakesarilk-1476f33a` | மட்டக்களப்பில் நடைபெற்ற உயிர்த்த ஞாயிறு தாக்குதல் நினைவேந்தல் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-virakesarilk-1476f33a)
 - 2026-04-21 | `tamilmirrorlk-3347e207` | ’’உயிரற்ற குழந்தையை நீட்டினார்கள்’’:   நீதிமன்றத்தில் தாய் கதறல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-3347e207)
-- 2026-04-21 | `tamilmirrorlk-55b739fa` | கடற்கரையில் ஒரு காதல் நடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-55b739fa)
-- 2026-04-21 | `virakesarilk-c198e2b1` | கலாவெவ பகுதியில் 10 நாய்கள் விஷம் வைத்து கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-virakesarilk-c198e2b1)
-- 2026-04-21 | `tamilmirrorlk-b8b00da3` | கோடீஸ்வர கணவருடன் விவாகரத்து: புதிய காதலனுக்கு முத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-b8b00da3)
-- 2026-04-21 | `adalk-d7f66700` | මාලදිවයින් මුහුදු සීමාව හරහා ගමන් කරන බහුදින යාත්‍රා සඳහා නව ක්‍රියා පටිපාටියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-adalk-d7f66700)
-- 2026-04-21 | `tamilmirrorlk-056de78c` | ஈரானின் பிங்க்  ட்ரோன்: பெண்கள் தினத்தில்  வித்தியாசம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-056de78c)
-- 2026-04-21 | `tamilmirrorlk-bcb2c912` | 21/04 தாக்குதல்: விமலுக்கு வந்த பெரும் சந்தேகம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-bcb2c912)
-- 2026-04-21 | `virakesarilk-f8c827cf` | யாழ்.மேல் நீதிமன்ற நீதிபதிக்கு இடமாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-virakesarilk-f8c827cf)
-- 2026-04-21 | `tamilmirrorlk-23907392` | 10 நாய்கள் விஷம் வைத்து கொலை: விலங்கு நல ஆர்வலர்கள் கடும் கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-tamilmirrorlk-23907392)
-- 2026-04-21 | `virakesarilk-8a67eb37` | மாத்தறை நில்வள ஆறு உப்புநீர் தடுப்பணையால் பாதிக்கப்பட்ட விவசாயிகளுக்கு ரூ.1200 மில்லியன் நஷ்டஈடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-21-virakesarilk-8a67eb37)
 
 ---
 
