@@ -153295,6 +153295,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-04-22-adalk-0ce4522f",
+    "num": "adalk-0ce4522f",
+    "date_str": "2026-04-22",
+    "description": "\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca \u0db4\u0dc5\u0dcf\u0dad\u0dca \u0db6\u0dc3\u0dca \u0d85\u0dc0\u0dc3\u0dbb \u0db4\u0dad\u0dca\u200d\u0dbb \u0dbd\u0db6\u0daf\u0dd3\u0db8\u0dda\u0daf\u0dd3 \u0db1\u0dc0 \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca-\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0db6\u0dc3\u0dca-\u0d85\u0dc0\u0dc3\u0dbb-\u0db4\u0dad\u0dca\u200d\u0dbb-\u0dbd\u0db6\u0daf\u0dd3\u0db8\u0dda\u0daf\u0dd3-\u0db1\u0dc0-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0d9a\u0dca/11-422152",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1776852254.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-04-22-virakesarilk-77affb10",
     "num": "virakesarilk-77affb10",
     "date_str": "2026-04-22",
@@ -154194,5 +154205,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1776904260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-23-adalk-05f48509",
+    "num": "adalk-05f48509",
+    "date_str": "2026-04-23",
+    "description": "2026 \u0dc0\u0dc3\u0dbb\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0db1\u0dd2\u0dbd \u0d87\u0daf\u0dd4\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/2026-\u0dc0\u0dc3\u0dbb\u0da7-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0db1\u0dd2\u0dbd-\u0d87\u0daf\u0dd4\u0db8\u0dca-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba-\u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab-\u0d9a\u0dbb\u0dba\u0dd2/11-422155",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1776912909.0
   }
 ]

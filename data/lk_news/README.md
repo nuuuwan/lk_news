@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--23_06:26:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--23_08:56:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,376** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,378** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-23-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2026-04-23-adalk-05f48509",
+    "num": "adalk-05f48509",
     "date_str": "2026-04-23",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/244201",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1776904260.0
+    "description": "2026 \u0dc0\u0dc3\u0dbb\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0db1\u0dd2\u0dbd \u0d87\u0daf\u0dd4\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/2026-\u0dc0\u0dc3\u0dbb\u0da7-\u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0db1\u0dd2\u0dbd-\u0d87\u0daf\u0dd4\u0db8\u0dca-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba-\u0dc3\u0db8\u0dca\u0db4\u0dd6\u0dbb\u0dca\u0dab-\u0d9a\u0dbb\u0dba\u0dd2/11-422155",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1776912909.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-23 | `adalk-05f48509` | 2026 වසරට අවශ්‍ය පාසල් නිල ඇදුම් ප්‍රමාණය සම්පූර්ණ කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-adalk-05f48509)
 - 2026-04-23 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-3a015e4a)
 - 2026-04-23 | `dailyftlk-14b3be6b` | Dnata bags UL’s  Rs. 3.5 b Dubai ground handling deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-14b3be6b)
 - 2026-04-23 | `dailyftlk-982177c0` | Dialog and OREL partner to advance smart living | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-982177c0)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-04-23 | `virakesarilk-c177fc90` | போதைப்பொருள் எதிர்ப்பு நடவடிக்கை: 1.5 லட்சத்துக்கும் மேல் கைது – அமைச்சரவை தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-c177fc90)
 - 2026-04-23 | `dailyftlk-6e13f7d5` | Are banks making profits at the cost of the economy? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-6e13f7d5)
 - 2026-04-23 | `virakesarilk-e27dd044` | பயணிகள் சேவை அனுமதிப்பத்திர வழங்கலில் கடைப்பிடிக்கவேண்டிய புதிய முறை அறிமுகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-e27dd044)
-- 2026-04-23 | `virakesarilk-4ec45863` | நிலக்கரி விசாரணை: தயங்காமல் ஆணைக்குழுவில் முன்னிலையாகுமாறு எதிர்க்கட்சிகளிடம் வலியுறுத்துகிறேன் – நளிந்த | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-4ec45863)
 
 ---
 
