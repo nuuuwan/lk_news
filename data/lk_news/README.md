@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--23_16:18:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--23_18:15:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,461** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,464** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -49,8 +49,10 @@ A collection of lk_news documents.
 - 2026-04-23 | `virakesarilk-3449eb3d` | ஸ்ரீலங்கன் எயார்லைன்ஸ் பெயரில் பாரிய நிதி மோசடி: பொலிஸார் எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-3449eb3d)
 - 2026-04-23 | `tamilmirrorlk-dc6c3b42` | ஜோடியாக வந்து வாக்களித்த நடிகர் சூர்யா - ஜோதிகா (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-dc6c3b42)
 - 2026-04-23 | `virakesarilk-5c61f438` | ரஷ்யாவிடமிருந்து எண்ணெய் கொள்முதல்: ன நாணயம் மூலம் செலுத்த திட்டம் – வலுசக்தி அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-5c61f438)
+- 2026-04-23 | `adalk-8c3cc252` | ගාල්ල මහ නගර සභාව අවශ්‍යතාවට වැඩියෙන් පාසල් පොත් හා උපකරණ මිලට අරගෙන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-adalk-8c3cc252)
 - 2026-04-23 | `tamilmirrorlk-1a57c112` | ஐஸுடன் PC கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-1a57c112)
 - 2026-04-23 | `virakesarilk-e6899d5f` | தமிழ்நாடு மற்றும் மேற்கு வங்காள சட்டமன்ற தேர்தலுக்கான வாக்குப்பதிவு விறுவிறுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-e6899d5f)
+- 2026-04-23 | `adalk-95a4b3c3` | පළමු කාර්තුවේ ශ්‍රමික ප්‍රේෂණ සියයට 26කින් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-adalk-95a4b3c3)
 - 2026-04-23 | `virakesarilk-6b8e8dce` | கல்வி பிரதி  அமைச்சரின் வாகனம் விபத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-6b8e8dce)
 - 2026-04-23 | `virakesarilk-4907c2a6` | வள்ளுவர்புரம் பாரதி மகா வித்தியாலத்திற்கு நேரில் சென்ற ரவிகரன் எம்.பி; வளப்பற்றாகுறைகள் தொடர்பில் ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-4907c2a6)
 - 2026-04-23 | `tamilmirrorlk-2b87b44c` | சட்டவிரோத கட்டிடத்தால் குடத்தனையில் பரபரப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-2b87b44c)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-04-23 | `tamilmirrorlk-ea56e242` | தாயுடன் நடிகை திரிஷா வாக்களித்தார் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-ea56e242)
 - 2026-04-23 | `virakesarilk-7675d89d` | கணினி ஊடுருவல் மூலம் 2.5 மில்லியன் டொலர் கடன் தொகை மோசடி ; விசாரணை தீவிரம் – திறைசேரி செயலாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-7675d89d)
 - 2026-04-23 | `tamilmirrorlk-4563497f` | தேர்தலை புறக்கணித்த கிராமம்: வெறிச்சோடிய வாக்குச்சாவடி (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-4563497f)
-- 2026-04-23 | `tamilmirrorlk-2914f6dd` | மகனின் தாக்குதலில் தந்தை பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-2914f6dd)
-- 2026-04-23 | `adalk-8b6d364c` | වාහන සඳහා විශේෂ අංකයක් ලබා ගැනීමේ නියෝගවලට අනුමැතිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-adalk-8b6d364c)
 
 ---
 
