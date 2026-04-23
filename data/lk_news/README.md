@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--23_12:28:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--23_15:13:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,426** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,427** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -54,13 +54,13 @@ A collection of lk_news documents.
 - 2026-04-23 | `tamilmirrorlk-19bb89eb` | மீண்டும் தென்படும் பழைய மஸ்கெலியா நகரம்... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-19bb89eb)
 - 2026-04-23 | `tamilmirrorlk-8d072209` | ஈரானில் 8 பெண்களுக்கு மரண தண்டனை ரத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-8d072209)
 - 2026-04-23 | `virakesarilk-4b633e2b` | மேற்கு வங்காள மாநிலத்தில் முதல் கட்ட தேர்தல் வாக்குப்பதிவு ஆரம்பமானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-4b633e2b)
+- 2026-04-23 | `adalk-9a044816` | සාමයේ පා ගමන අද මහනුවරට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-adalk-9a044816)
 - 2026-04-23 | `tamilmirrorlk-865d64b0` | ’’எல்லாரும் இன்னைக்கு’’  `SK’ வைத்த வேண்டுகோள் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-865d64b0)
 - 2026-04-23 | `tamilmirrorlk-9bfdf551` | வாக்களித்த பிறகு love symbol காட்டிய அஜித்குமார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-9bfdf551)
 - 2026-04-23 | `tamilmirrorlk-c79f18bd` | பலகாரம் சுட்ட பெண் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-c79f18bd)
 - 2026-04-23 | `tamilmirrorlk-d9a889c5` | விஜய் அதிரடி கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-d9a889c5)
 - 2026-04-23 | `virakesarilk-5fd6de3f` | அமெரிக்க கடற்படைச் செயலாளர் திடீர் பதவி விலகல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-5fd6de3f)
 - 2026-04-23 | `adalk-9cbac6a1` | විදුලිය කප්පාදුවකට රජය සූදානම් නැහැ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-adalk-9cbac6a1)
-- 2026-04-23 | `adalk-63ff32cb` | සෙලින්කෝ ලයිෆ් විකුණුම් බලකායේ ජයග්‍රහණ සමරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-adalk-63ff32cb)
 
 ---
 
