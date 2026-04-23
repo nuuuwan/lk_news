@@ -155558,5 +155558,38 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1776969000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-24-dailyftlk-d8ad93a3",
+    "num": "dailyftlk-d8ad93a3",
+    "date_str": "2026-04-24",
+    "description": "Banks, Basel, compliance and governance",
+    "url_metadata": "https://www.ft.lk/columns/Banks-Basel-compliance-and-governance/4-791036",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776981105.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-24-dailyftlk-a1ffc2fe",
+    "num": "dailyftlk-a1ffc2fe",
+    "date_str": "2026-04-24",
+    "description": "Richmond at 150: Rekindling a tradition of refinement",
+    "url_metadata": "https://www.ft.lk/columns/Richmond-at-150-Rekindling-a-tradition-of-refinement/4-791037",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776981567.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-24-dailyftlk-0e3267ef",
+    "num": "dailyftlk-0e3267ef",
+    "date_str": "2026-04-24",
+    "description": "Safeguarding Jaffna College and Uduvil Girls\u2019 College",
+    "url_metadata": "https://www.ft.lk/columns/Safeguarding-Jaffna-College-and-Uduvil-Girls-College/4-791038",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776982038.0
   }
 ]

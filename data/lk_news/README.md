@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--24_02:05:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--24_04:00:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,500** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,503** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-24-virakesarilk-e8d73bd6",
-    "num": "virakesarilk-e8d73bd6",
+    "doc_id": "2026-04-24-dailyftlk-0e3267ef",
+    "num": "dailyftlk-0e3267ef",
     "date_str": "2026-04-24",
-    "description": "\u0b86\u0bb1\u0bbe\u0bb5\u0ba4\u0bc1 \u0b86\u0b9a\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8 \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb4\u0bbe: \u0b86\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0baa\u0b9f\u0bbf \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/244281",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1776969000.0
+    "description": "Safeguarding Jaffna College and Uduvil Girls\u2019 College",
+    "url_metadata": "https://www.ft.lk/columns/Safeguarding-Jaffna-College-and-Uduvil-Girls-College/4-791038",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1776982038.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-24 | `dailyftlk-0e3267ef` | Safeguarding Jaffna College and Uduvil Girls’ College | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-0e3267ef)
+- 2026-04-24 | `dailyftlk-a1ffc2fe` | Richmond at 150: Rekindling a tradition of refinement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-a1ffc2fe)
+- 2026-04-24 | `dailyftlk-d8ad93a3` | Banks, Basel, compliance and governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-d8ad93a3)
 - 2026-04-24 | `virakesarilk-e8d73bd6` | ஆறாவது ஆசிய கடற்கரை விளையாட்டு விழா: ஆண்கள் கபடி போட்டியில் தாய்லாந்தை வீழ்த்தியது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-e8d73bd6)
 - 2026-04-23 | `virakesarilk-60443de3` | யாழில். சுகாதார சீர்கேட்டுடன் வெதுப்பக உற்பத்தி பொருட்களை விற்பனைக்கு எடுத்து சென்றவர்களுக்கு 80ஆயிரம் தண்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-60443de3)
 - 2026-04-23 | `virakesarilk-2d0d8f44` | யாழ்ப்பாணம் - சாவகச்சேரி, நுணாவில் சந்தி பகுதியில்  இன்று இரவு இடம்பெற்ற வாகன விபத்தில் ஒருவர் உயிரிழந்துள்ளார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-2d0d8f44)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-04-23 | `virakesarilk-d757f12d` | தமிழக சட்டசபை தேர்தல் : மாலை 5 மணி வரையான நிலவரம் ; 82.24 % வாக்குகள் பதிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-d757f12d)
 - 2026-04-23 | `virakesarilk-70a39278` | தமிழக சட்டசபை தேர்தல் ; வாக்குப்பதிவு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-70a39278)
 - 2026-04-23 | `virakesarilk-878a3c5e` | தமிழக தேர்தல் களத்தில் ரொபோக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-878a3c5e)
-- 2026-04-23 | `virakesarilk-54b0a127` | மத்திய கிழக்கின் ஸ்திரமற்ற சூழ்நிலையால்  பெரும் அச்சுறுத்தலில் இலங்கையின் உணவுப்பாதுகாப்பு  -உலக உணவுத்திட்டம் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-54b0a127)
-- 2026-04-23 | `virakesarilk-ee30fb7e` | அனுராதபுரத்தில் குளங்களைச் புனரமைக்கும் பணிகள் துரிதமாக ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-ee30fb7e)
-- 2026-04-23 | `virakesarilk-5c1c81c7` | அமெரிக்கப் பெரு நிறுவனங்களுடன் மேல் மாகாண ஆளுநர் ஹனிப் யூசூப் முக்கிய கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-5c1c81c7)
 
 ---
 
