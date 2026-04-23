@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--23_04:03:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--23_06:26:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,332** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,376** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-23-virakesarilk-1fba11b4",
-    "num": "virakesarilk-1fba11b4",
+    "doc_id": "2026-04-23-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
     "date_str": "2026-04-23",
-    "description": "\u0b92\u0bb2\u0bbf\u0bae\u0bcd\u0baa\u0bbf\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1 \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 2 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bc1 \u0bae\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bbe\u0baa\u0bb8\u0bcd; \u0b90\u0b99\u0bcd\u0b95\u0bcb\u0ba3\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bcb\u0ba3 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bbf\u0baf\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/244189",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/244201",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1776894720.0
+    "time_ut": 1776904260.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-04-23 | `virakesarilk-1fba11b4` | ஒலிம்பிக் குழு தலைவர் பதவிக்கான 2 வேட்பு மனுக்கள் வாபஸ்; ஐங்கோணப் போட்டி முக்கோண போட்டியாக மாறியுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-1fba11b4)
-- 2026-04-23 | `virakesarilk-9c99f5cc` | சமரி அத்தபத்துவின் சகலதுறை ஆட்ட உதவியுடன் பங்களாதேஷுடனான ஒருநாள் தொடரை இலங்கை சமப்படுத்தியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-9c99f5cc)
-- 2026-04-22 | `virakesarilk-9584af0c` | 41 இலட்சம் ரூபா  இலஞ்சம் கோரிய சுகாதார அமைச்சின் முன்னாள் பிரதான சட்ட அதிகாரி  கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-virakesarilk-9584af0c)
-- 2026-04-22 | `tamilmirrorlk-6c40318c` | பேருந்து விபத்து : 22க்கும் மேற்பட்டோர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-tamilmirrorlk-6c40318c)
-- 2026-04-22 | `virakesarilk-c7904cb9` | காவத்தை நீலகமாம் தோட்டத்தில் வீடு உடைப்பு: பிரதி அமைச்சரின் துரித நடவடிக்கையால் 9 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-virakesarilk-c7904cb9)
-- 2026-04-22 | `virakesarilk-384fbedd` | ‘Rebuilding Sri Lanka’ நிதியத்திற்கு பொலிஸ் உத்தியோகத்தர்களின் ஒரு நாள் சம்பளத்திலிருந்து 9,687,462 ரூபா நிதிநன்கொடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-virakesarilk-384fbedd)
-- 2026-04-22 | `tamilmirrorlk-acc9cf09` | காவத்தை சம்பவம் : 9 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-tamilmirrorlk-acc9cf09)
-- 2026-04-22 | `virakesarilk-5870439d` | திருகோணமலை - மூதூர் இடையில் பேருந்து விபத்து: 22 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-virakesarilk-5870439d)
-- 2026-04-22 | `tamilmirrorlk-8548f29b` | கோழிக்கூட்டுக்குள் சிக்கிய சிறுத்தை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-tamilmirrorlk-8548f29b)
-- 2026-04-22 | `tamilmirrorlk-926f571b` | “தோட்ட நிர்வாகம் உடனடி நடவடிக்கை எடுக்க வேண்டும்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-tamilmirrorlk-926f571b)
-- 2026-04-22 | `virakesarilk-363366ee` | அரசாங்கத்தின் நிலக்கரி மோசடியை மறைக்க நாளொன்றுக்கு 7 இலட்சம் லீட்டர் டீசல் விரயம் - சஞ்சீவ எதிரிமான்ன குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-virakesarilk-363366ee)
-- 2026-04-22 | `colombotelegraphcom-b8da8e5c` | Navigating The Polycrisis: A Comparative Blueprint For Sri Lanka’s Sovereign Resilience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-colombotelegraphcom-b8da8e5c)
-- 2026-04-22 | `virakesarilk-dd2feb66` | ​ஜே.வி.பி அரசின் நிலக்கரி ஊழலை மூடிமறைக்க இடமளிக்கப் போவதில்லை: எஸ்.எம். மரிக்கார் கடும் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-virakesarilk-dd2feb66)
-- 2026-04-22 | `tamilmirrorlk-f41ee4ee` | “காவத்தை சம்பவம் மிலேட்சத்தனமானது” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-tamilmirrorlk-f41ee4ee)
-- 2026-04-22 | `tamilmirrorlk-70af132f` | ’’ஹூ’’ சத்தமிட்ட மாணவர்களுக்கு மரண அச்சுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-tamilmirrorlk-70af132f)
-- 2026-04-22 | `virakesarilk-ec6aba70` | 2026ஆம் ஆண்டுக்கான அனைத்துப் பாடசாலைச் சீருடைகளும் சீன மக்கள் குடியரசின் நன்கொடையாக வழங்கப்பட்டமையை உறுதிப்படுத்தும் சான்றிதழ் பரிமாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-virakesarilk-ec6aba70)
-- 2026-04-22 | `virakesarilk-fc3934ba` | கொழும்பு துறைமுகத்தில் இருந்து 323 கொள்கலன்கள் விடுவிப்பு : ஜனாதிபதி அநுர, அமைச்சர் பிமல் ரத்நாயக்கவை சாட்சியாளராக அழையுங்கள் - விசேட செயற்குழு உறுப்பினர்கள் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-virakesarilk-fc3934ba)
-- 2026-04-22 | `tamilmirrorlk-cae17716` | ஹோர்மூஸில் கப்பல்களைக் கைப்பற்றிய ஈரான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-tamilmirrorlk-cae17716)
-- 2026-04-22 | `tamilmirrorlk-9388f1a0` | காவத்தை பிரச்சினையை கையிலெடுத்தார் பிரதீப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-tamilmirrorlk-9388f1a0)
-- 2026-04-22 | `tamilmirrorlk-3438c15a` | ’ஸ்மார்ட் சார்ஜிங்’ முறையை ஊக்குவிக்கும்  JKCG Auto | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-22-tamilmirrorlk-3438c15a)
+- 2026-04-23 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-3a015e4a)
+- 2026-04-23 | `dailyftlk-14b3be6b` | Dnata bags UL’s  Rs. 3.5 b Dubai ground handling deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-14b3be6b)
+- 2026-04-23 | `dailyftlk-982177c0` | Dialog and OREL partner to advance smart living | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-982177c0)
+- 2026-04-23 | `dailyftlk-934b47ea` | Govt. to set up Industrial Transformation and Innovation Authority | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-934b47ea)
+- 2026-04-23 | `dailyftlk-618ea7de` | Expert panel to review and revive stalled housing projects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-618ea7de)
+- 2026-04-23 | `dailyftlk-f10953b3` | EFC Industrial Relations Handbook | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-f10953b3)
+- 2026-04-23 | `dailyftlk-2eb8965b` | Colombo Land appoints UDA Legal Director to Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-2eb8965b)
+- 2026-04-23 | `dailyftlk-dd6c3b16` | Cargills Food City wins SLIM Kantar People’s Supermarket Brand for fifth straight year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-dd6c3b16)
+- 2026-04-23 | `dailyftlk-89ecc31f` | Marikkar warns coal scam cannot be covered up by mere resignation of Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-89ecc31f)
+- 2026-04-23 | `dailyftlk-97c81385` | SJB to invite UNP and others to join biggest May Day rally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-97c81385)
+- 2026-04-23 | `dailyftlk-f6e27c8c` | Cabinet appoints new committee to track Easter Sunday attack probe recommendations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-f6e27c8c)
+- 2026-04-23 | `dailyftlk-d7e0c2fe` | Ex-SIS Chief Sallay further remanded over Easter attacks probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-d7e0c2fe)
+- 2026-04-23 | `virakesarilk-f64c8e3a` | அரச நிதி இணைய ஊடுருவல் விவகாரம் – விசாரணை தொடக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-f64c8e3a)
+- 2026-04-23 | `virakesarilk-5c057d02` | அமெரிக்க - ஈரான் அமைதிப் பேச்சுவார்த்தைகள் மீண்டும் தொடங்கவிருக்கின்றன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-5c057d02)
+- 2026-04-23 | `virakesarilk-01ef7ac0` | ஊடகங்களுக்கு எச்சரிக்கை: தேசிய பாதுகாப்புக்கு பாதிப்பு ஏற்பட்டால் நடவடிக்கை – அரசு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-01ef7ac0)
+- 2026-04-23 | `virakesarilk-ba662755` | இருதரப்பு வர்த்தகக் கொடுக்கல் வாங்கல்களில் 'ரென்மின்பி'யை பயன்படுத்துவதால் என்ன நன்மை? - இலங்கை மத்திய வங்கி, சீன மக்கள் வங்கி ஆளுநர்கள் ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-ba662755)
+- 2026-04-23 | `virakesarilk-c177fc90` | போதைப்பொருள் எதிர்ப்பு நடவடிக்கை: 1.5 லட்சத்துக்கும் மேல் கைது – அமைச்சரவை தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-c177fc90)
+- 2026-04-23 | `dailyftlk-6e13f7d5` | Are banks making profits at the cost of the economy? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-dailyftlk-6e13f7d5)
+- 2026-04-23 | `virakesarilk-e27dd044` | பயணிகள் சேவை அனுமதிப்பத்திர வழங்கலில் கடைப்பிடிக்கவேண்டிய புதிய முறை அறிமுகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-e27dd044)
+- 2026-04-23 | `virakesarilk-4ec45863` | நிலக்கரி விசாரணை: தயங்காமல் ஆணைக்குழுவில் முன்னிலையாகுமாறு எதிர்க்கட்சிகளிடம் வலியுறுத்துகிறேன் – நளிந்த | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-4ec45863)
 
 ---
 
