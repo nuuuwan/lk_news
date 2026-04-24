@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--24_18:09:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--24_20:19:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,612** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,620** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-24-tamilmirrorlk-325f31e1",
-    "num": "tamilmirrorlk-325f31e1",
+    "doc_id": "2026-04-24-virakesarilk-ee9eee10",
+    "num": "virakesarilk-ee9eee10",
     "date_str": "2026-04-24",
-    "description": "\u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd: \u0baa\u0bc2\u0b9c\u0bbf\u0ba4\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4-\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0baa\u0bc2\u0b9c\u0bbf\u0ba4\u0bb5\u0bbf\u0ba9\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0ba8\u0bbf\u0bb0\u0bbe\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/150-376080",
+    "description": "\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0bb2\u0bbe\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bc8 \u0bb5\u0bb2\u0bc1\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8  -  \u0baa\u0bbf\u0bb0\u0ba4\u0bbf \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb0\u0bc1\u0bb5\u0ba9\u0bcd \u0bb0\u0ba3\u0b9a\u0bbf\u0b99\u0bcd\u0b95",
+    "url_metadata": "https://www.virakesari.lk/article/244378",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1777033681.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1777035780.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-24 | `virakesarilk-ee9eee10` | சுற்றுலாத்துறையை வலுப்படுத்த விசேட நடவடிக்கை  -  பிரதி அமைச்சர் ருவன் ரணசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-ee9eee10)
+- 2026-04-24 | `virakesarilk-b550a14e` | நாட்டை நிர்வகிக்க முடியாது என்றால் முடியுமானவர்களுக்கு ஒப்படைத்துவிட்டு அரசாங்கம் விலகிக்கொள்ள வேண்டும் ; அஸாத் சாலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-b550a14e)
+- 2026-04-24 | `virakesarilk-9966abac` | போதைப்பொருள் கடத்தல்காரர்களுடன் தொடர்பு : பொலிஸ் அதிகாரிகள் 7 பேருக்கு வெளிநாட்டு பயணத்தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-9966abac)
+- 2026-04-24 | `virakesarilk-c64ee047` | வடக்கு, கிழக்கு காணிப் பிரச்சினைக்கு தீர்வு காணவேண்டும் என்பதில் அரசாங்கம் உறுதியாக உள்ளது - இளங்குமரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-c64ee047)
+- 2026-04-24 | `virakesarilk-f459befb` | ஐக்கிய மக்கள் சக்தியின் அனைத்துப் பொறுப்புகளிலிருந்தும் வைத்திய நிபுணர் சமால் சஞ்சீவ விலகல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-f459befb)
+- 2026-04-24 | `virakesarilk-7fa8a828` | “ஈரானில் உள்ள இந்தியர்களே உடனடியாக வெளியேறுங்கள் ; இந்தியாவிலிருந்து யாரும் ஈரானுக்கு வரவேண்டாம்" - இந்திய தூதரகம் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-7fa8a828)
 - 2026-04-24 | `tamilmirrorlk-325f31e1` | உயிர்த்த ஞாயிறுத் தாக்குதல்: பூஜிதவின் கோரிக்கை நிராகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-tamilmirrorlk-325f31e1)
 - 2026-04-24 | `virakesarilk-b71b041d` | நெடுந்தீவு மக்களின் நீண்ட காலப் பிரச்சினைகளைத் தீர்க்கக் கோரி கவனயீர்ப்புப் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-b71b041d)
 - 2026-04-24 | `virakesarilk-846be512` | மே மாதத்தில் 3 நாட்கள் மதுபான சாலைகள் மூடப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-846be512)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-04-24 | `virakesarilk-831c5730` | யாழ். மாவட்டத்தில் புதுப்பிக்கத்தக்க எரிசக்தி மேம்பாட்டிற்கான தந்திரோபாய சுற்றுச்சூழல் மதிப்பீடு  தொடர்பான பங்குதாரர்களுடனான கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-831c5730)
 - 2026-04-24 | `virakesarilk-1aa27b03` | தமிழக சட்டமன்றத் தேர்தல் : வாக்குப்பதிவில் புதிய சாதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-1aa27b03)
 - 2026-04-24 | `tamilmirrorlk-af220aaa` | மது பிரியர்களுக்கு ‘மே’ அதிர்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-tamilmirrorlk-af220aaa)
-- 2026-04-24 | `virakesarilk-35f1889b` | ஜனாதிபதி செயலகத்திற்கு முன் பரபரப்பு: மின் விளக்கு கம்பத்தில் ஏறிய நபரால் போக்குவரத்து பாதிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-35f1889b)
-- 2026-04-24 | `virakesarilk-c6fc529d` | கர்தினால் மெல்கம் ரஞ்சித் ஆண்டகை பதவி விலகுகிறார் என்பது போலிச் செய்தி: கத்தோலிக்க திருச்சபை விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-c6fc529d)
-- 2026-04-24 | `virakesarilk-618c0c8b` | திருகோணமலை - மட்டிக்களி பிரதான வீதியில் நடைபாதை வியாபாரம் செய்ய தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-618c0c8b)
-- 2026-04-24 | `virakesarilk-db38ebf1` | வாதுவையில் ரயில் தடம் புரள்வு : ரயில் மார்க்கத்தை சீர்செய்ய இரு நாட்கள் எடுக்கும் - ரயில் திணைக்கள பொது முகாமையாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-db38ebf1)
-- 2026-04-24 | `virakesarilk-117a789c` | மீனவரை முழங்காலில் இருத்தித் தாக்கி சித்திரவதை ; கடற்படை அதிகாரிக்கு பிணை ; மீண்டும் வழக்கு தாக்கல்  செய்ய நீதிமன்றம் உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-117a789c)
-- 2026-04-24 | `virakesarilk-597faf1e` | கோணேஸ்வரர் ஆலயப் பகுதியில் விமானப்படை ரேடார்? ; பொதுமக்கள் எதிர்ப்பு வெளியிட வேண்டும் – ஜெயசங்கர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-597faf1e)
 
 ---
 
