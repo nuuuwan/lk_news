@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--24_06:27:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--24_08:52:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,527** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,531** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-24-dailyftlk-0eb958d7",
-    "num": "dailyftlk-0eb958d7",
+    "doc_id": "2026-04-24-tamilmirrorlk-80a62561",
+    "num": "tamilmirrorlk-80a62561",
     "date_str": "2026-04-24",
-    "description": "Sri Lanka\u2013Korea Business Council hosts session on  \u2018Doing business with South Korea\u2019",
-    "url_metadata": "https://www.ft.lk/business/Sri-LankaKorea-Business-Council-hosts-session-on-Doing-business-with-South-Korea/34-791067",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1776988125.0
+    "description": "\u0ba4\u0bb0\u0bae\u0bcd \u0ba4\u0bbe\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4 \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1: \u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bb0\u0bae\u0bcd-\u0ba4\u0bbe\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4-\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1-\u0b9f\u0bcd\u0bb0\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0b95\u0ba3\u0bcd\u0b9f\u0ba9\u0bae\u0bcd/175-376030",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1776999887.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-24 | `tamilmirrorlk-80a62561` | தரம் தாழ்ந்த பேச்சு: ட்ரம்புக்கு இந்தியா கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-tamilmirrorlk-80a62561)
+- 2026-04-24 | `tamilmirrorlk-d09d133d` | சாகரிக்கா தடம்புரண்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-tamilmirrorlk-d09d133d)
+- 2026-04-24 | `tamilmirrorlk-85511ab7` | தமிழகத்தில் 85 சதவீத வாக்குப்பதிவு: இளைஞர்கள் ஆர்வத்துடன் திரண்டனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-tamilmirrorlk-85511ab7)
 - 2026-04-24 | `dailyftlk-0eb958d7` | Sri Lanka–Korea Business Council hosts session on  ‘Doing business with South Korea’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-0eb958d7)
 - 2026-04-24 | `dailyftlk-a3d3ecee` | Pride Rock Partners marks presence at World Aroma Ingredients Congress and Expo 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-a3d3ecee)
 - 2026-04-24 | `dailyftlk-79978dbc` | GRI strengthens leadership with Board appointments of Dr. Tharindu Atapattu and Chathuranga Abeyratne | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-79978dbc)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-04-24 | `dailyftlk-d8ad93a3` | Banks, Basel, compliance and governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-d8ad93a3)
 - 2026-04-24 | `virakesarilk-e8d73bd6` | ஆறாவது ஆசிய கடற்கரை விளையாட்டு விழா: ஆண்கள் கபடி போட்டியில் தாய்லாந்தை வீழ்த்தியது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-e8d73bd6)
 - 2026-04-23 | `virakesarilk-60443de3` | யாழில். சுகாதார சீர்கேட்டுடன் வெதுப்பக உற்பத்தி பொருட்களை விற்பனைக்கு எடுத்து சென்றவர்களுக்கு 80ஆயிரம் தண்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-60443de3)
-- 2026-04-23 | `islandlk-fe62dc1c` | Colombo hosts sub-regional learning hub on Decent Work and the Care Economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-islandlk-fe62dc1c)
-- 2026-04-23 | `islandlk-efd5b447` | JXG IPO 3X oversubscribed showcasing strong investor confidence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-islandlk-efd5b447)
-- 2026-04-23 | `islandlk-b7a659a4` | HNB FINANCE secures two prestigious awards at BMPC Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-islandlk-b7a659a4)
 
 ---
 
