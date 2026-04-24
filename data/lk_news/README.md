@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--25_02:02:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--25_04:00:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,628** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,631** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-25-dailyftlk-b10d311f",
-    "num": "dailyftlk-b10d311f",
+    "doc_id": "2026-04-25-dailyftlk-2ff82115",
+    "num": "dailyftlk-2ff82115",
     "date_str": "2026-04-25",
-    "description": "India Vice President advances relations with Sri Lanka",
-    "url_metadata": "https://www.ft.lk/news/India-Vice-President-advances-relations-with-Sri-Lanka/56-791089",
+    "description": "Asia-Pacific Ministers push food security, resilience amid global shocks at FAO meet",
+    "url_metadata": "https://www.ft.lk/business/Asia-Pacific-Ministers-push-food-security-resilience-amid-global-shocks-at-FAO-meet/34-791106",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1777060548.0
+    "time_ut": 1777065970.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-25 | `dailyftlk-2ff82115` | Asia-Pacific Ministers push food security, resilience amid global shocks at FAO meet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-dailyftlk-2ff82115)
+- 2026-04-25 | `dailyftlk-e09e1a68` | World Intellectual Property Day commemorated | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-dailyftlk-e09e1a68)
+- 2026-04-25 | `dailyftlk-981c0935` | SLASSCOM Women in Tech  Conference 4.0 sets benchmark | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-dailyftlk-981c0935)
 - 2026-04-25 | `dailyftlk-b10d311f` | India Vice President advances relations with Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-dailyftlk-b10d311f)
 - 2026-04-25 | `dailyftlk-7c90d29d` | CID visits Maithree’s residence to record statement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-dailyftlk-7c90d29d)
 - 2026-04-25 | `dailyftlk-3966f2b9` | Johnston granted bail in Lanka Sathosa case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-dailyftlk-3966f2b9)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-04-24 | `tamilmirrorlk-325f31e1` | உயிர்த்த ஞாயிறுத் தாக்குதல்: பூஜிதவின் கோரிக்கை நிராகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-tamilmirrorlk-325f31e1)
 - 2026-04-24 | `virakesarilk-b71b041d` | நெடுந்தீவு மக்களின் நீண்ட காலப் பிரச்சினைகளைத் தீர்க்கக் கோரி கவனயீர்ப்புப் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-b71b041d)
 - 2026-04-24 | `virakesarilk-846be512` | மே மாதத்தில் 3 நாட்கள் மதுபான சாலைகள் மூடப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-846be512)
-- 2026-04-24 | `virakesarilk-4792732c` | பூஜித்த ஜயசுந்தரவின் கோரிக்கை நிராகரித்தது நீதிமன்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-4792732c)
-- 2026-04-24 | `virakesarilk-afe4fef7` | சன் நெக்ஸ்ட் டிஜிட்டல் தளத்தில் ஏப்ரல் 30 முதல் வெளியாகும் 'ஜாலி ஓ ஜிம்கானா' பொழுது போக்கு நிகழ்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-afe4fef7)
-- 2026-04-24 | `virakesarilk-75129c7a` | நடிகை ஐஸ்வர்யா ராஜேஷ் நடிக்கும் 'ஓ... சுகுமாரி' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-75129c7a)
 
 ---
 
