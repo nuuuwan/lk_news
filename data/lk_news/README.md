@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--24_04:00:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--24_06:27:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,503** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,527** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-24-dailyftlk-0e3267ef",
-    "num": "dailyftlk-0e3267ef",
+    "doc_id": "2026-04-24-dailyftlk-0eb958d7",
+    "num": "dailyftlk-0eb958d7",
     "date_str": "2026-04-24",
-    "description": "Safeguarding Jaffna College and Uduvil Girls\u2019 College",
-    "url_metadata": "https://www.ft.lk/columns/Safeguarding-Jaffna-College-and-Uduvil-Girls-College/4-791038",
+    "description": "Sri Lanka\u2013Korea Business Council hosts session on  \u2018Doing business with South Korea\u2019",
+    "url_metadata": "https://www.ft.lk/business/Sri-LankaKorea-Business-Council-hosts-session-on-Doing-business-with-South-Korea/34-791067",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1776982038.0
+    "time_ut": 1776988125.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-24 | `dailyftlk-0eb958d7` | Sri Lanka–Korea Business Council hosts session on  ‘Doing business with South Korea’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-0eb958d7)
+- 2026-04-24 | `dailyftlk-a3d3ecee` | Pride Rock Partners marks presence at World Aroma Ingredients Congress and Expo 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-a3d3ecee)
+- 2026-04-24 | `dailyftlk-79978dbc` | GRI strengthens leadership with Board appointments of Dr. Tharindu Atapattu and Chathuranga Abeyratne | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-79978dbc)
+- 2026-04-24 | `dailyftlk-a951ab69` | Sri Lanka, UN advance talks on Haiti troop deployment under rights compliance framework | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-a951ab69)
+- 2026-04-24 | `dailyftlk-7689b8a6` | US announces interception of Iran-linked oil tanker  in Indian Ocean | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-7689b8a6)
+- 2026-04-24 | `dailyftlk-7d111a14` | Opposition MPs seek to summon President over container release probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-7d111a14)
+- 2026-04-24 | `dailyftlk-34f46569` | Regional learning centres to boost commerce education | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-34f46569)
+- 2026-04-24 | `dailyftlk-2d5497bb` | Iraj Pathiraja appointed new Immigration Controller General | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-2d5497bb)
+- 2026-04-24 | `dailyftlk-083e9083` | Steering senior public sector officials towards innovative thinking | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-083e9083)
+- 2026-04-24 | `dailyftlk-bdac61b3` | Why should we protect  Aswasuma and how to improve it ? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-bdac61b3)
+- 2026-04-24 | `dailyftlk-c6c93c2c` | The good hypocrite! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-c6c93c2c)
+- 2026-04-24 | `dailyftlk-9309f57f` | Why is it so difficult to invest in Sri Lanka? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-9309f57f)
 - 2026-04-24 | `dailyftlk-0e3267ef` | Safeguarding Jaffna College and Uduvil Girls’ College | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-0e3267ef)
 - 2026-04-24 | `dailyftlk-a1ffc2fe` | Richmond at 150: Rekindling a tradition of refinement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-a1ffc2fe)
 - 2026-04-24 | `dailyftlk-d8ad93a3` | Banks, Basel, compliance and governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-d8ad93a3)
 - 2026-04-24 | `virakesarilk-e8d73bd6` | ஆறாவது ஆசிய கடற்கரை விளையாட்டு விழா: ஆண்கள் கபடி போட்டியில் தாய்லாந்தை வீழ்த்தியது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-e8d73bd6)
 - 2026-04-23 | `virakesarilk-60443de3` | யாழில். சுகாதார சீர்கேட்டுடன் வெதுப்பக உற்பத்தி பொருட்களை விற்பனைக்கு எடுத்து சென்றவர்களுக்கு 80ஆயிரம் தண்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-60443de3)
-- 2026-04-23 | `virakesarilk-2d0d8f44` | யாழ்ப்பாணம் - சாவகச்சேரி, நுணாவில் சந்தி பகுதியில்  இன்று இரவு இடம்பெற்ற வாகன விபத்தில் ஒருவர் உயிரிழந்துள்ளார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-2d0d8f44)
-- 2026-04-23 | `virakesarilk-9045e1a2` | திறைச்சேரி மின்னஞ்சல் ஊடுருவல்: 2.5 மில்லியன் டொலர் மோசடி – சர்வதேச விசாரணை தீவிரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-9045e1a2)
-- 2026-04-23 | `tamilmirrorlk-3adb9344` | விஜய்க்காக 3,000 கி.மீ பறந்து வந்தவர்களுக்கு கிடைத்த ஏமாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-3adb9344)
-- 2026-04-23 | `tamilmirrorlk-5a2d34e6` | துப்பாக்கிச் சூடு நடத்த ட்ரம்ப் உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-5a2d34e6)
-- 2026-04-23 | `tamilmirrorlk-8ab02108` | கொழும்பில் குளிப்பதை படம்பிடித்த  மருதமுனை  நபருக்கு  விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-tamilmirrorlk-8ab02108)
-- 2026-04-23 | `virakesarilk-24dac5ad` | வெளிநாட்டு கடன்களை மீளச் செலுத்துவதில் இடம்பெற்ற முறைகேடுகள் குறித்து விசாரணை நடத்தக் கோரி பொலிஸ் தலைமையகத்தில் முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-24dac5ad)
-- 2026-04-23 | `virakesarilk-b6b8699e` | 2.5 மில். டொலர் அரச நிதி மோசடி ; சர்வதேச பொலிஸாரின் உதவியுடன் நிதியை மீளப் பெற முடியும் - SLCERT | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-b6b8699e)
-- 2026-04-23 | `virakesarilk-10a5404f` | கொள்கலன் விடுவிப்பு விவகாரம்;  ஜனாதிபதியும் சபாநாயகரும்   உடனடியாக தலையிட வேண்டும்  - வெற்றிக்கான தெற்கு கூட்டிணைவு வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-10a5404f)
-- 2026-04-23 | `virakesarilk-822cdcc9` | திறைசேரியின் கொடுக்கல் வாங்கலில் இணையத்திருட்டு; விசாரணைகளை விரைவுபடுத்த ஜனாதிபதி உத்தரவு - பிரதி அமைச்சர் அனில் ஜயந்த பெர்னாண்டோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-822cdcc9)
-- 2026-04-23 | `virakesarilk-fbf6730c` | திறைசேரி நிதி மோசடி: உண்மையை மறைக்கின்றதா நிதி அமைச்சு? - ஹர்ஷ டி சில்வா கடும் கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-fbf6730c)
-- 2026-04-23 | `virakesarilk-d20d44b3` | நிலக்கரி ஊழல்: முழு அமைச்சரவையும் பதவி விலக வேண்டும் - பேராசிரியர் ஜீ.எல்.பீரிஸ் காட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-d20d44b3)
-- 2026-04-23 | `virakesarilk-9ca8d981` | மேற்கு வங்காளத்தில் முதற்கட்ட தேர்தல் வாக்குப்பதிவு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-9ca8d981)
-- 2026-04-23 | `virakesarilk-d757f12d` | தமிழக சட்டசபை தேர்தல் : மாலை 5 மணி வரையான நிலவரம் ; 82.24 % வாக்குகள் பதிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-d757f12d)
-- 2026-04-23 | `virakesarilk-70a39278` | தமிழக சட்டசபை தேர்தல் ; வாக்குப்பதிவு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-70a39278)
-- 2026-04-23 | `virakesarilk-878a3c5e` | தமிழக தேர்தல் களத்தில் ரொபோக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-virakesarilk-878a3c5e)
+- 2026-04-23 | `islandlk-fe62dc1c` | Colombo hosts sub-regional learning hub on Decent Work and the Care Economy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-islandlk-fe62dc1c)
+- 2026-04-23 | `islandlk-efd5b447` | JXG IPO 3X oversubscribed showcasing strong investor confidence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-islandlk-efd5b447)
+- 2026-04-23 | `islandlk-b7a659a4` | HNB FINANCE secures two prestigious awards at BMPC Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-23-islandlk-b7a659a4)
 
 ---
 
