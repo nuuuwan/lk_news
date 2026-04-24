@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--25_00:00:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--25_02:02:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,621** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,628** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-24-tamilmirrorlk-645b762c",
-    "num": "tamilmirrorlk-645b762c",
-    "date_str": "2026-04-24",
-    "description": "\u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba9\u0bcd \u0bb2\u0bc0\u0b95\u0bcd.. \u0baa\u0bbf\u0bb0\u0ba4\u0bc0\u0baa\u0bcd \u0bb0\u0bbe\u0b95\u0bb5\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba9\u0bcd-\u0bb2\u0bc0\u0b95\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bc0\u0baa\u0bcd-\u0bb0\u0bbe\u0b95\u0bb5\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bae\u0bcd/54-376081",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1777046949.0
+    "doc_id": "2026-04-25-dailyftlk-b10d311f",
+    "num": "dailyftlk-b10d311f",
+    "date_str": "2026-04-25",
+    "description": "India Vice President advances relations with Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/India-Vice-President-advances-relations-with-Sri-Lanka/56-791089",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777060548.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-25 | `dailyftlk-b10d311f` | India Vice President advances relations with Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-dailyftlk-b10d311f)
+- 2026-04-25 | `dailyftlk-7c90d29d` | CID visits Maithree’s residence to record statement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-dailyftlk-7c90d29d)
+- 2026-04-25 | `dailyftlk-3966f2b9` | Johnston granted bail in Lanka Sathosa case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-dailyftlk-3966f2b9)
+- 2026-04-25 | `dailyftlk-7008af07` | From estates to equity: Reimagining Sri Lanka’s plantation sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-dailyftlk-7008af07)
+- 2026-04-25 | `dailyftlk-e7dac7b7` | Collapse of the world order and impotence of UN system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-dailyftlk-e7dac7b7)
+- 2026-04-24 | `dailyftlk-f8853859` | Trumpflation and recession | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-f8853859)
+- 2026-04-24 | `dailyftlk-ecad884e` | Emerging Asia could face increased food-cost pressures: Fitch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-ecad884e)
 - 2026-04-24 | `tamilmirrorlk-645b762c` | ஜனநாயகன் லீக்.. பிரதீப் ராகவ் அதிரடி நீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-tamilmirrorlk-645b762c)
 - 2026-04-24 | `virakesarilk-ee9eee10` | சுற்றுலாத்துறையை வலுப்படுத்த விசேட நடவடிக்கை  -  பிரதி அமைச்சர் ருவன் ரணசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-ee9eee10)
 - 2026-04-24 | `virakesarilk-b550a14e` | நாட்டை நிர்வகிக்க முடியாது என்றால் முடியுமானவர்களுக்கு ஒப்படைத்துவிட்டு அரசாங்கம் விலகிக்கொள்ள வேண்டும் ; அஸாத் சாலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-b550a14e)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-04-24 | `virakesarilk-4792732c` | பூஜித்த ஜயசுந்தரவின் கோரிக்கை நிராகரித்தது நீதிமன்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-4792732c)
 - 2026-04-24 | `virakesarilk-afe4fef7` | சன் நெக்ஸ்ட் டிஜிட்டல் தளத்தில் ஏப்ரல் 30 முதல் வெளியாகும் 'ஜாலி ஓ ஜிம்கானா' பொழுது போக்கு நிகழ்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-afe4fef7)
 - 2026-04-24 | `virakesarilk-75129c7a` | நடிகை ஐஸ்வர்யா ராஜேஷ் நடிக்கும் 'ஓ... சுகுமாரி' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-75129c7a)
-- 2026-04-24 | `virakesarilk-57152791` | கரையோரப்பகுதிகளில் பிளாஸ்டிக் துகள்களை அகற்றும் பணிகள் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-57152791)
-- 2026-04-24 | `virakesarilk-28c4abd1` | பின்னணி பாடகி தீ (Dhee) குரலில் வெளியாகும் 'வாரி வாரி' ( VARI VARI) சுயாதீன இசை அல்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-28c4abd1)
-- 2026-04-24 | `virakesarilk-26903792` | பிரேக்ஃபாஸ்ட் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-26903792)
-- 2026-04-24 | `virakesarilk-134c27e2` | எதிர்க்கட்சி  உறுப்பினர்களின் ஆட்சேபனைகளால் அட்டன் – டிக்கோயா நகரசபை அமர்வு ஒத்தி வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-134c27e2)
-- 2026-04-24 | `tamilmirrorlk-f3e97afa` | நல்லூரிலிருந்து சிவனொளிபாத மலைக்கான பாதயாத்திரை ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-tamilmirrorlk-f3e97afa)
-- 2026-04-24 | `virakesarilk-831c5730` | யாழ். மாவட்டத்தில் புதுப்பிக்கத்தக்க எரிசக்தி மேம்பாட்டிற்கான தந்திரோபாய சுற்றுச்சூழல் மதிப்பீடு  தொடர்பான பங்குதாரர்களுடனான கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-831c5730)
-- 2026-04-24 | `virakesarilk-1aa27b03` | தமிழக சட்டமன்றத் தேர்தல் : வாக்குப்பதிவில் புதிய சாதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-1aa27b03)
 
 ---
 
