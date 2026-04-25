@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--26_00:00:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--26_01:57:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,704** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,705** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -43,6 +43,7 @@ A collection of lk_news documents.
 
 - 2026-04-25 | `tamilmirrorlk-bde77080` | மே மாதம் முதலாம் திகதி முதல் புதிய மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-tamilmirrorlk-bde77080)
 - 2026-04-25 | `adalk-14471398` | පාරිභෝජනය පාලනය කරන්න - ඉරාන ජනපති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-adalk-14471398)
+- 2026-04-25 | `colombotelegraphcom-e0deb8bb` | Vesak Commemorated At The American University In Washington DC Amid Global Peace Walk In Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-colombotelegraphcom-e0deb8bb)
 - 2026-04-25 | `virakesarilk-d4369ad8` | இரண்டு  மாதங்களுக்குப் பிறகு ஈரானில் மீண்டும் விமான சேவைகள் ஆரம்பம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-virakesarilk-d4369ad8)
 - 2026-04-25 | `virakesarilk-a54acb25` | சோமாலியக் கடற்கொள்ளையர்களால் கப்பல் கடத்தல்! -  17 ஊழியர்களில் இலங்கையரும் ஒருவர்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-virakesarilk-a54acb25)
 - 2026-04-25 | `virakesarilk-a360526e` | கொழும்பில் 20 கோடி ரூபாய் பெறுமதியான போதை மாத்திரைகளுடன் நால்வர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-virakesarilk-a360526e)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-04-25 | `virakesarilk-7aab8f94` | இலங்கையின் 2.5 மில்லியன் டொலர் கடன் தவணைப் பணம் ஹேக்கர்கள் வசம்: விசாரணையில் முன்னேற்றம் என அரசாங்கம் அறிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-virakesarilk-7aab8f94)
 - 2026-04-25 | `adalk-50a20203` | ඉරාන විදේශ ඇමති පාකිස්තානයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-adalk-50a20203)
 - 2026-04-25 | `virakesarilk-66eb8dd1` | தீர்வுகளை பெற்றுக்கொள்ளும் சூழ்நிலையை ஏற்படுத்திக் கொள்வதற்கு முயற்சி செய்தும் அது கைகூடாததன் வெளிப்பாடே நெடுந்தீவு மக்கள் வீதிக்கிறங்கக் காரணம் - டக்ளஸ் தேவானந்தா கவலை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-virakesarilk-66eb8dd1)
-- 2026-04-25 | `virakesarilk-d289c19e` | இடி மின்னல் அச்சத்தில் பிடகந்த கிராமம்: இதுவரை 8 பேர் உயிரிழப்பு - பாதுகாப்பை கோரும் மக்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-virakesarilk-d289c19e)
 
 ---
 
