@@ -155616,6 +155616,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-04-23-islandlk-0733f759",
+    "num": "islandlk-0733f759",
+    "date_str": "2026-04-23",
+    "description": "Fertile soil basis of sound farming",
+    "url_metadata": "http://island.lk/fertile-soil-basis-of-sound-farming/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1776962520.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-04-23-islandlk-fd23ce7a",
     "num": "islandlk-fd23ce7a",
     "date_str": "2026-04-23",
@@ -156603,6 +156614,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1777026240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-24-adalk-0506b0f5",
+    "num": "adalk-0506b0f5",
+    "date_str": "2026-04-24",
+    "description": "\u0d8b\u0dc3\u0dc3\u0dca \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d8b\u0dc3\u0dc3\u0dca-\u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dba-\u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0dca/11-422187",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1777026398.0
   },
   {
     "doc_type": "lk_news",
