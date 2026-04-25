@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--25_04:00:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--25_06:22:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,631** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,639** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -51,16 +51,16 @@ A collection of lk_news documents.
 - 2026-04-25 | `dailyftlk-e7dac7b7` | Collapse of the world order and impotence of UN system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-25-dailyftlk-e7dac7b7)
 - 2026-04-24 | `dailyftlk-f8853859` | Trumpflation and recession | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-f8853859)
 - 2026-04-24 | `dailyftlk-ecad884e` | Emerging Asia could face increased food-cost pressures: Fitch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-dailyftlk-ecad884e)
+- 2026-04-24 | `islandlk-75ead7f1` | Late buying interest in select companies boosts stock market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-islandlk-75ead7f1)
+- 2026-04-24 | `islandlk-110fe17a` | Flavors of Sri Lanka: A memorable culinary showcase in Nepal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-islandlk-110fe17a)
+- 2026-04-24 | `islandlk-6d22956b` | Mastercard strengthens Sri Lanka’s digital payments ecosystem with two major launches | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-islandlk-6d22956b)
+- 2026-04-24 | `islandlk-2f265870` | SLIC General Limited delivers strong financial performance in 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-islandlk-2f265870)
+- 2026-04-24 | `islandlk-81269b79` | DFCC Bank wins global award for Sri Lanka’s first Listed Blue Bond | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-islandlk-81269b79)
 - 2026-04-24 | `tamilmirrorlk-645b762c` | ஜனநாயகன் லீக்.. பிரதீப் ராகவ் அதிரடி நீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-tamilmirrorlk-645b762c)
 - 2026-04-24 | `virakesarilk-ee9eee10` | சுற்றுலாத்துறையை வலுப்படுத்த விசேட நடவடிக்கை  -  பிரதி அமைச்சர் ருவன் ரணசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-ee9eee10)
 - 2026-04-24 | `virakesarilk-b550a14e` | நாட்டை நிர்வகிக்க முடியாது என்றால் முடியுமானவர்களுக்கு ஒப்படைத்துவிட்டு அரசாங்கம் விலகிக்கொள்ள வேண்டும் ; அஸாத் சாலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-b550a14e)
 - 2026-04-24 | `virakesarilk-9966abac` | போதைப்பொருள் கடத்தல்காரர்களுடன் தொடர்பு : பொலிஸ் அதிகாரிகள் 7 பேருக்கு வெளிநாட்டு பயணத்தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-9966abac)
 - 2026-04-24 | `virakesarilk-c64ee047` | வடக்கு, கிழக்கு காணிப் பிரச்சினைக்கு தீர்வு காணவேண்டும் என்பதில் அரசாங்கம் உறுதியாக உள்ளது - இளங்குமரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-c64ee047)
-- 2026-04-24 | `virakesarilk-f459befb` | ஐக்கிய மக்கள் சக்தியின் அனைத்துப் பொறுப்புகளிலிருந்தும் வைத்திய நிபுணர் சமால் சஞ்சீவ விலகல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-f459befb)
-- 2026-04-24 | `virakesarilk-7fa8a828` | “ஈரானில் உள்ள இந்தியர்களே உடனடியாக வெளியேறுங்கள் ; இந்தியாவிலிருந்து யாரும் ஈரானுக்கு வரவேண்டாம்" - இந்திய தூதரகம் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-7fa8a828)
-- 2026-04-24 | `tamilmirrorlk-325f31e1` | உயிர்த்த ஞாயிறுத் தாக்குதல்: பூஜிதவின் கோரிக்கை நிராகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-tamilmirrorlk-325f31e1)
-- 2026-04-24 | `virakesarilk-b71b041d` | நெடுந்தீவு மக்களின் நீண்ட காலப் பிரச்சினைகளைத் தீர்க்கக் கோரி கவனயீர்ப்புப் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-b71b041d)
-- 2026-04-24 | `virakesarilk-846be512` | மே மாதத்தில் 3 நாட்கள் மதுபான சாலைகள் மூடப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-24-virakesarilk-846be512)
 
 ---
 
