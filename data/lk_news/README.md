@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--26_12:24:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--26_14:13:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,743** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,745** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-26-tamilmirrorlk-7c846d91",
-    "num": "tamilmirrorlk-7c846d91",
+    "doc_id": "2026-04-26-adalk-9a9571d8",
+    "num": "adalk-9a9571d8",
     "date_str": "2026-04-26",
-    "description": "7 \u0bb5\u0baf\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/7-\u0bb5\u0baf\u0ba4\u0bc1\u0b9a\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd/175-376107",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1777185692.0
+    "description": "\u0dbd\u0d82\u0d9c\u0db8 , \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0db6\u0dc3\u0dca \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0d9c\u0dd0\u0da7\u0dd3 12 \u0d9a\u0dca \u0dbb\u0ddd\u0dc4\u0dbd\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0d82\u0d9c\u0db8---\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0db6\u0dc3\u0dca-\u0daf\u0dd9\u0d9a\u0d9a\u0dca-\u0d9c\u0dd0\u0da7\u0dd3-12-\u0d9a\u0dca-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7/11-422198",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1777186979.0
 }
 ```
 
@@ -41,9 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-26 | `adalk-9a9571d8` | ලංගම , පුද්ගලික බස් දෙකක් ගැටී 12 ක් රෝහලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-26-adalk-9a9571d8)
 - 2026-04-26 | `tamilmirrorlk-7c846d91` | 7 வயதுச் சிறுமி பாலியல் துஷ்பிரயோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-26-tamilmirrorlk-7c846d91)
 - 2026-04-26 | `tamilmirrorlk-b720d495` | பாலியல் ஊக்க மருந்தால் இளைஞன் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-26-tamilmirrorlk-b720d495)
 - 2026-04-26 | `adalk-0ea2fc98` | රු. 15000ක් අල්ලස් ගත් කම්කරු නිලධාරියා වසර හයක් හිරේට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-26-adalk-0ea2fc98)
+- 2026-04-26 | `adalk-fe888cbf` | ගාල්ලට වැස්ස පමා වීමෙන් වී ගොවින් ගැටලුවක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-26-adalk-fe888cbf)
 - 2026-04-26 | `tamilmirrorlk-ea795847` | கணவர் ஏ.சி. வாங்கித் தராததால் மனைவி விபரீத முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-26-tamilmirrorlk-ea795847)
 - 2026-04-26 | `tamilmirrorlk-e4bc5145` | 22 பிக்குகளின் அட்டகாசத்தை பாருங்கள்( புகைப்படங்கள்) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-26-tamilmirrorlk-e4bc5145)
 - 2026-04-26 | `tamilmirrorlk-3037ac16` | விஜய்க்குப் ‘புறா’ சர்ச்சை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-26-tamilmirrorlk-3037ac16)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-04-26 | `virakesarilk-cd2a286f` | நீண்ட காலம் போதைப்பொருள் வியாபாரத்தில் ஈடுபட்டவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-26-virakesarilk-cd2a286f)
 - 2026-04-26 | `virakesarilk-4166a1de` | தாண்டிக்குளம் ரயில் விபத்து: சிகிச்சை பெற்றுவந்த முச்சக்கரவண்டி சாரதியும் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-26-virakesarilk-4166a1de)
 - 2026-04-26 | `virakesarilk-ffe71fcd` | தீபச்செல்வனின் புத்தகங்கள் தடுத்துவைப்பு: கிளிநொச்சியில் இன்று எதிர்ப்புப்போராட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-26-virakesarilk-ffe71fcd)
-- 2026-04-26 | `virakesarilk-f8357b60` | வெசாக் வாரத்தில் ஹஜ் பெருநாள்: விலங்கு பலியிடல் குறித்து அரசாங்கம் தீர்மானம் எடுக்க வேண்டும் - ஞானசார தேரர் வலியுறுத்தல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-26-virakesarilk-f8357b60)
-- 2026-04-26 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-26-virakesarilk-3a015e4a)
 
 ---
 
