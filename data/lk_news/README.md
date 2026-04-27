@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--27_06:27:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--27_08:58:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,838** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,846** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-27-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2026-04-27-tamilmirrorlk-9bc0943a",
+    "num": "tamilmirrorlk-9bc0943a",
     "date_str": "2026-04-27",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/244581",
+    "description": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0bb2\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd/50-376152",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1777250040.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777257128.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-27 | `tamilmirrorlk-9bc0943a` | ஜப்பானில் நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-tamilmirrorlk-9bc0943a)
+- 2026-04-27 | `tamilmirrorlk-8c3442d9` | இனி ஆடமாட்டேன்: அடம்பிடிக்கும்  தோனி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-tamilmirrorlk-8c3442d9)
+- 2026-04-27 | `dailyftlk-41b5785b` | Mideast war: Can the crisis be turned into an opportunity? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-dailyftlk-41b5785b)
+- 2026-04-27 | `dailyftlk-6616155c` | Sri Lanka’s missing Balance Sheet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-dailyftlk-6616155c)
+- 2026-04-27 | `dailyftlk-f7ccbd37` | Energy supplies are crashing: What must Sri Lanka do? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-dailyftlk-f7ccbd37)
+- 2026-04-27 | `dailyftlk-173d0745` | The World Bank in Sri Lanka: Financing the digital State, ignoring the dangers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-dailyftlk-173d0745)
+- 2026-04-27 | `dailyftlk-436bffb9` | Choosing disaster over prevention and mitigation: Wilful blindness or short-sighted idiocy? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-dailyftlk-436bffb9)
 - 2026-04-27 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-3a015e4a)
 - 2026-04-27 | `virakesarilk-f07b5a7e` | குழந்தை விற்பனை முயற்சி: தாய் உட்பட இருவர் பொலிஸாரிடம் ஒப்படைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-f07b5a7e)
 - 2026-04-27 | `virakesarilk-a8812b02` | கண்டி தேசிய வைத்தியசாலைக்கு 425 மில்லியன் ரூபா பெறுமதியான இரு நவீன உயர் தொழில்நுட்ப இயந்திரங்கள் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-a8812b02)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-04-27 | `dailyftlk-e604964e` | Investor Jinadasa ups stake in Exterminators to 10.6%, now second largest shareholder | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-dailyftlk-e604964e)
 - 2026-04-27 | `dailyftlk-593aea54` | Correction: Asian Tactical Security Training | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-dailyftlk-593aea54)
 - 2026-04-27 | `dailyftlk-9065f18d` | Rs. 1.1 b drug haul seized at BIA; 22 men disguised as monks arrested in record bust | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-dailyftlk-9065f18d)
-- 2026-04-27 | `dailyftlk-0aec5ab9` | CoPF clears Port City duty-free rule changes, narrows labour law exemptions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-dailyftlk-0aec5ab9)
-- 2026-04-27 | `dailyftlk-409dbcd6` | Senior Prof. Nalin Abeysekera no more | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-dailyftlk-409dbcd6)
-- 2026-04-27 | `dailyftlk-bd9c674d` | Lions, WFP strengthen food security in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-dailyftlk-bd9c674d)
-- 2026-04-27 | `virakesarilk-3b105701` | இன்டர்போல் சர்வதேச மாநாட்டில் பங்கேற்பதற்காக பொலிஸ் ஊடகப் பேச்சாளர் பிரான்ஸூக்கு பயணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-3b105701)
-- 2026-04-27 | `virakesarilk-88982723` | நாவுலவில் மூன்று பேருந்துகள் மோதி பாரிய விபத்து: 20 பேர் காயம், இரு பேருந்து சாரதிகள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-88982723)
-- 2026-04-27 | `virakesarilk-e5ab3a69` | 2.5 மில்லியன் மோசடி: ஜனாதிபதியே இதற்கு பொறுப்புக்கூற வேண்டும் – சம்பிக்க ரணவக்க குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-e5ab3a69)
-- 2026-04-27 | `virakesarilk-3ed4d5f7` | மாகாணசபைத்தேர்தல்களை நடாத்துமாறு ஒன்றிணைந்து அழுத்தம் பிரயோகிப்போம் - பீரிஸுடனான சந்திப்பில் தமிழ்க்கட்சிப்பிரதிநிதிகள் இணக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-3ed4d5f7)
 
 ---
 

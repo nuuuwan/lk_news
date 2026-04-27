@@ -159015,6 +159015,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-04-26-adalk-4b554833",
+    "num": "adalk-4b554833",
+    "date_str": "2026-04-26",
+    "description": "\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dc3\u0db8\u0d9c \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dad\u0dca \u0da0\u0dd3\u0dc0\u0dbb\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca \u0daf\u0dd2\u0db1 7\u0d9a\u0dca \u0dbb\u0db3\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0dc3\u0db8\u0d9c-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7-\u0d9c\u0dad\u0dca-\u0da0\u0dd3\u0dc0\u0dbb\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca-\u0daf\u0dd2\u0db1-7\u0d9a\u0dca-\u0dbb\u0db3\u0dc0\u0dcf\u0d9c\u0dd9\u0db1-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0d9a\u0dbb\u0dba\u0dd2/11-422202",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1777218971.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-04-26-colombotelegraphcom-ecdb138e",
     "num": "colombotelegraphcom-ecdb138e",
     "date_str": "2026-04-26",
@@ -159276,5 +159287,82 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1777250040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-27-dailyftlk-436bffb9",
+    "num": "dailyftlk-436bffb9",
+    "date_str": "2026-04-27",
+    "description": "Choosing disaster over prevention and mitigation: Wilful blindness or short-sighted idiocy?",
+    "url_metadata": "https://www.ft.lk/columns/Choosing-disaster-over-prevention-and-mitigation-Wilful-blindness-or-short-sighted-idiocy/4-791144",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777251868.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-27-dailyftlk-173d0745",
+    "num": "dailyftlk-173d0745",
+    "date_str": "2026-04-27",
+    "description": "The World Bank in Sri Lanka: Financing the digital State, ignoring the dangers",
+    "url_metadata": "https://www.ft.lk/columns/The-World-Bank-in-Sri-Lanka-Financing-the-digital-State-ignoring-the-dangers/4-791145",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777252063.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-27-dailyftlk-f7ccbd37",
+    "num": "dailyftlk-f7ccbd37",
+    "date_str": "2026-04-27",
+    "description": "Energy supplies are crashing: What must Sri Lanka do?",
+    "url_metadata": "https://www.ft.lk/columns/Energy-supplies-are-crashing-What-must-Sri-Lanka-do/4-791146",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777252333.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-27-dailyftlk-6616155c",
+    "num": "dailyftlk-6616155c",
+    "date_str": "2026-04-27",
+    "description": "Sri Lanka\u2019s missing Balance Sheet",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-missing-Balance-Sheet/4-791149",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777253352.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-27-dailyftlk-41b5785b",
+    "num": "dailyftlk-41b5785b",
+    "date_str": "2026-04-27",
+    "description": "Mideast war: Can the crisis be turned into an opportunity?",
+    "url_metadata": "https://www.ft.lk/columns/Mideast-war-Can-the-crisis-be-turned-into-an-opportunity/4-791150",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777253758.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-27-tamilmirrorlk-8c3442d9",
+    "num": "tamilmirrorlk-8c3442d9",
+    "date_str": "2026-04-27",
+    "description": "\u0b87\u0ba9\u0bbf \u0b86\u0b9f\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd: \u0b85\u0b9f\u0bae\u0bcd\u0baa\u0bbf\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd  \u0ba4\u0bcb\u0ba9\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87\u0ba9\u0bbf-\u0b86\u0b9f\u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd-\u0b85\u0b9f\u0bae\u0bcd\u0baa\u0bbf\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0ba4\u0bcb\u0ba9\u0bbf/44-376150",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777256555.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-27-tamilmirrorlk-9bc0943a",
+    "num": "tamilmirrorlk-9bc0943a",
+    "date_str": "2026-04-27",
+    "description": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0bb2\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd/50-376152",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777257128.0
   }
 ]
