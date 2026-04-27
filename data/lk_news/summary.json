@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-04-28 00:15:07",
-  "n_docs": 110931,
+  "time_updated": "2026-04-28 02:10:15",
+  "n_docs": 110936,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 110931,
+  "n_docs_with_text": 110936,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-04-27",
-  "dataset_size": 1716726871,
+  "date_str_max": "2026-04-28",
+  "dataset_size": 1716781068,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-27-tamilmirrorlk-6f730152",
-    "num": "tamilmirrorlk-6f730152",
-    "date_str": "2026-04-27",
-    "description": "\u2019\u0baa\u0bb5\u0bb0\u0bcd\u2019 \u0b87\u0bb4\u0ba8\u0bcd\u0ba4 \u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf  ; \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0ba3\u0bbe\u0ba4 \u0b85\u0bb5\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0baa\u0bb5\u0bb0\u0bcd-\u0b87\u0bb4\u0ba8\u0bcd\u0ba4-\u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf-\u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1-\u0b95\u0bbe\u0ba3\u0bbe\u0ba4-\u0b85\u0bb5\u0bae\u0bbe\u0ba9\u0bae\u0bcd/44-376210",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1777307135.0
+    "doc_id": "2026-04-28-dailyftlk-9bd207ae",
+    "num": "dailyftlk-9bd207ae",
+    "date_str": "2026-04-28",
+    "description": "Why banks must strengthen whistleblowing mechanisms",
+    "url_metadata": "https://www.ft.lk/columns/Why-banks-must-strengthen-whistleblowing-mechanisms/4-791177",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777317157.0
   }
 }

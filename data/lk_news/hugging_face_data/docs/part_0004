@@ -160299,5 +160299,60 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1777307135.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-28-dailyftlk-a7555ffd",
+    "num": "dailyftlk-a7555ffd",
+    "date_str": "2026-04-28",
+    "description": "Sri Lanka\u2019s apparel sector identifies clear pathways for growth amid Q1 challenges",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-s-apparel-sector-identifies-clear-pathways-for-growth-amid-Q1-challenges/14-791172",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777315607.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-28-dailyftlk-5a9bafe1",
+    "num": "dailyftlk-5a9bafe1",
+    "date_str": "2026-04-28",
+    "description": "When debt ratios don\u2019t tell the whole story",
+    "url_metadata": "https://www.ft.lk/columns/When-debt-ratios-don-t-tell-the-whole-story/4-791173",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777315698.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-28-dailyftlk-492644aa",
+    "num": "dailyftlk-492644aa",
+    "date_str": "2026-04-28",
+    "description": "When words are held back: Law, literature, and the limits of control",
+    "url_metadata": "https://www.ft.lk/columns/When-words-are-held-back-Law-literature-and-the-limits-of-control/4-791174",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777316116.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-28-dailyftlk-cba97c45",
+    "num": "dailyftlk-cba97c45",
+    "date_str": "2026-04-28",
+    "description": "The end of the Board game is nigh",
+    "url_metadata": "https://www.ft.lk/columns/The-end-of-the-Board-game-is-nigh/4-791175",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777316777.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-28-dailyftlk-9bd207ae",
+    "num": "dailyftlk-9bd207ae",
+    "date_str": "2026-04-28",
+    "description": "Why banks must strengthen whistleblowing mechanisms",
+    "url_metadata": "https://www.ft.lk/columns/Why-banks-must-strengthen-whistleblowing-mechanisms/4-791177",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777317157.0
   }
 ]
