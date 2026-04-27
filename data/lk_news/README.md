@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--27_20:26:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--27_22:20:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,923** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,931** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-27-tamilmirrorlk-a0bee942",
-    "num": "tamilmirrorlk-a0bee942",
+    "doc_id": "2026-04-27-tamilmirrorlk-6f730152",
+    "num": "tamilmirrorlk-6f730152",
     "date_str": "2026-04-27",
-    "description": "\u0baa\u0bc7\u0bb0\u0bb1\u0bbf\u0bb5\u0bbe\u0bb3\u0ba9\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bbe\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc7\u0bb0\u0bb1\u0bbf\u0bb5\u0bbe\u0bb3\u0ba9\u0bcd-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bb1\u0bbf\u0b9e\u0bb0\u0bbe\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd/175-376203",
+    "description": "\u2019\u0baa\u0bb5\u0bb0\u0bcd\u2019 \u0b87\u0bb4\u0ba8\u0bcd\u0ba4 \u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf  ; \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0b95\u0bbe\u0ba3\u0bbe\u0ba4 \u0b85\u0bb5\u0bae\u0bbe\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0baa\u0bb5\u0bb0\u0bcd-\u0b87\u0bb4\u0ba8\u0bcd\u0ba4-\u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf-\u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1-\u0b95\u0bbe\u0ba3\u0bbe\u0ba4-\u0b85\u0bb5\u0bae\u0bbe\u0ba9\u0bae\u0bcd/44-376210",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1777301488.0
+    "time_ut": 1777307135.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-04-27 | `tamilmirrorlk-6f730152` | ’பவர்’ இழந்த டெல்லி  ; வரலாற்று காணாத அவமானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-tamilmirrorlk-6f730152)
+- 2026-04-27 | `tamilmirrorlk-28bbc06d` | ஜெயிக்கப்போவது யாரு? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-tamilmirrorlk-28bbc06d)
+- 2026-04-27 | `tamilmirrorlk-c93c569f` | ஜனாதிபதி செயலகத்திற்கு முன்பாக நாளை ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-tamilmirrorlk-c93c569f)
+- 2026-04-27 | `tamilmirrorlk-eb36f2ca` | மின்னல் தாக்கி இருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-tamilmirrorlk-eb36f2ca)
+- 2026-04-27 | `tamilmirrorlk-36a18334` | மூதாட்டியை வன்புணர்ந்து கொலை ; சந்தேக நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-tamilmirrorlk-36a18334)
+- 2026-04-27 | `tamilmirrorlk-9a63a721` | காணி அபகரிப்பு : பிரதேச செயலாளர் நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-tamilmirrorlk-9a63a721)
+- 2026-04-27 | `tamilmirrorlk-86caa460` | பிக்குக்களை வழியனுப்பிய சூத்திரதாரிக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-tamilmirrorlk-86caa460)
 - 2026-04-27 | `tamilmirrorlk-a0bee942` | பேரறிவாளன் வழக்கறிஞராகினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-tamilmirrorlk-a0bee942)
 - 2026-04-27 | `tamilmirrorlk-3a282a30` | மணலுக்குள் மர்மப் பொருள் ; ஆழியவளையில் பரபரப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-tamilmirrorlk-3a282a30)
 - 2026-04-27 | `virakesarilk-40c2498f` | 2026 LG INNOFEST : ஆசிய-பசிபிக் பிராந்தியத்திற்கான புதுமையான வளர்ச்சி உத்திகளை LG ELECTRONICS அறிமுகம் செய்துள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-40c2498f)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-04-27 | `virakesarilk-9cc0c979` | சாட் நாட்டில் தண்ணீர் பிரச்சினை ; இரு குழுக்களுக்கிடையிலான மோதலில் 42 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-9cc0c979)
 - 2026-04-27 | `tamilmirrorlk-23388525` | ஹட்டனில் பதற்றம் ; வாயில் பிளாஸ்டருடன் உறுப்பினர் ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-tamilmirrorlk-23388525)
 - 2026-04-27 | `virakesarilk-2d54e0c7` | உலக சந்தையில் மசகு எண்ணெய் விலை அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-2d54e0c7)
-- 2026-04-27 | `virakesarilk-b639f488` | கந்தளாயில் ஜீப் வண்டி விபத்து! ; மின்கம்பம் சரிந்ததால் பல மணிநேரம் மின்சாரம் துண்டிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-b639f488)
-- 2026-04-27 | `virakesarilk-74241652` | ஐக்கிய மக்கள் சக்தியின் மே தின கூட்டத்தில் பங்கேற்குமாறு ஐக்கிய தேசியக் கட்சிக்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-74241652)
-- 2026-04-27 | `virakesarilk-d130eb0c` | அட்டன் – டிக்கோயா நகர சபையில் பதற்றம்: 09 உறுப்பினர்கள் வெளியேற, ஒருவர் வாயில் பிளாஸ்டர் ஒட்டி போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-d130eb0c)
-- 2026-04-27 | `virakesarilk-938c5b98` | அரசாங்க வைத்தியசாலைகளில் 'பெட் ஸ்கேன்' பணிகள் முடக்கம்: புற்றுநோய் நோயாளிகள் கடும் அவதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-938c5b98)
-- 2026-04-27 | `virakesarilk-4f6a0770` | கொழும்பு நகரில் நாளை விசேட போக்குவரத்துத் திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-4f6a0770)
-- 2026-04-27 | `virakesarilk-166f1c6e` | முதலில் எது தேவை? போர்நிறுத்தமா, அணு ஆயுத உற்பத்தி நிறுத்தமா? ; அமெரிக்காவிடம் ஈரான் முன்வைக்கும் புதிய நிபந்தனை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-166f1c6e)
-- 2026-04-27 | `virakesarilk-76d54373` | வில்பத்து காடழிப்பு தீர்ப்புக்கு எதிராக ரிஷாட் பதியுதீன் மேன்முறையீடு: நீதியரசர் விலகல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-virakesarilk-76d54373)
 
 ---
 
