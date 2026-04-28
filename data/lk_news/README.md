@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--28_04:03:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--28_06:29:47-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**110,957** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**110,970** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-04-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-04-28 | `tamilmirrorlk-3bc1b9ef` | 110 கிலோ போதைப் பொருள் கடத்தல்: பிரதான சூத்திரதாரிக்கு தடுப்பு காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-28-tamilmirrorlk-3bc1b9ef)
+- 2026-04-28 | `tamilmirrorlk-3dd3cc26` | ஈரானுக்கு முழு ஆதரவை வெளிப்படுத்தினார் புடின் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-28-tamilmirrorlk-3dd3cc26)
 - 2026-04-28 | `tamilmirrorlk-f4ba4cd0` | ’திறைசேரி நிதி மோசடியில் ஜனாதிபதி, செயலாளருக்கும் தொடர்பா?’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-28-tamilmirrorlk-f4ba4cd0)
 - 2026-04-28 | `dailyftlk-fa57f70c` | Sri Lanka highlights active engagement  at ESCAP’s 82nd session | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-28-dailyftlk-fa57f70c)
 - 2026-04-28 | `dailyftlk-067cf732` | Sri Lanka strengthens global presence at Techtextil and Texprocess 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-28-dailyftlk-067cf732)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-04-28 | `dailyftlk-492644aa` | When words are held back: Law, literature, and the limits of control | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-28-dailyftlk-492644aa)
 - 2026-04-28 | `dailyftlk-5a9bafe1` | When debt ratios don’t tell the whole story | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-28-dailyftlk-5a9bafe1)
 - 2026-04-28 | `dailyftlk-a7555ffd` | Sri Lanka’s apparel sector identifies clear pathways for growth amid Q1 challenges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-28-dailyftlk-a7555ffd)
-- 2026-04-27 | `tamilmirrorlk-6f730152` | ’பவர்’ இழந்த டெல்லி  ; வரலாற்று காணாத அவமானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-27-tamilmirrorlk-6f730152)
 
 ---
 
