@@ -163203,5 +163203,137 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1777479074.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-30-tamilmirrorlk-d8d06540",
+    "num": "tamilmirrorlk-d8d06540",
+    "date_str": "2026-04-30",
+    "description": "\u2019\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8 \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b86\u0ba3\u0bc8-\u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1/175-376326",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777496622.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-30-dailyftlk-071ebb0f",
+    "num": "dailyftlk-071ebb0f",
+    "date_str": "2026-04-30",
+    "description": "Russian Health Minister in Sri Lanka from 3 May",
+    "url_metadata": "https://www.ft.lk/news/Russian-Health-Minister-in-Sri-Lanka-from-3-May/56-791274",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777497039.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-30-dailyftlk-32fa3b8a",
+    "num": "dailyftlk-32fa3b8a",
+    "date_str": "2026-04-30",
+    "description": "Ajahn Brahmali to deliver special Dhamma Talk in Sri Lanka tomorrow",
+    "url_metadata": "https://www.ft.lk/news/Ajahn-Brahmali-to-deliver-special-Dhamma-Talk-in-Sri-Lanka-tomorrow/56-791275",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777497090.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-30-dailyftlk-006303ee",
+    "num": "dailyftlk-006303ee",
+    "date_str": "2026-04-30",
+    "description": "President holds high-level meeting on suburban electric rail rollout",
+    "url_metadata": "https://www.ft.lk/news/President-holds-high-level-meeting-on-suburban-electric-rail-rollout/56-791276",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777497157.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-30-dailyftlk-fd0643d9",
+    "num": "dailyftlk-fd0643d9",
+    "date_str": "2026-04-30",
+    "description": "Govt. to roll out housing and religious site restoration programs for Cyclone Ditwah victims",
+    "url_metadata": "https://www.ft.lk/news/Govt-to-roll-out-housing-and-religious-site-restoration-programs-for-Cyclone-Ditwah-victims/56-791277",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777497218.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-30-dailyftlk-6f275c05",
+    "num": "dailyftlk-6f275c05",
+    "date_str": "2026-04-30",
+    "description": "Prima raises wheat flour prices",
+    "url_metadata": "https://www.ft.lk/news/Prima-raises-wheat-flour-prices/56-791278",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777497232.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-30-dailyftlk-c8efc3a5",
+    "num": "dailyftlk-c8efc3a5",
+    "date_str": "2026-04-30",
+    "description": "US marks 15 years of American Corner Jaffna; expands engagement with \u2018Freedom 250 Pavilion\u2019",
+    "url_metadata": "https://www.ft.lk/news/US-marks-15-years-of-American-Corner-Jaffna-expands-engagement-with-Freedom-250-Pavilion/56-791279",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777497346.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-30-dailyftlk-3b8aebf0",
+    "num": "dailyftlk-3b8aebf0",
+    "date_str": "2026-04-30",
+    "description": "Women in Sri Lanka\u2019s Boards: The glass ceiling persists",
+    "url_metadata": "https://www.ft.lk/columns/Women-in-Sri-Lanka-s-Boards-The-glass-ceiling-persists/4-791280",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777497546.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-30-dailyftlk-1dc6ddf3",
+    "num": "dailyftlk-1dc6ddf3",
+    "date_str": "2026-04-30",
+    "description": "Why do people really pay taxes?",
+    "url_metadata": "https://www.ft.lk/columns/Why-do-people-really-pay-taxes/4-791281",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777497761.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-30-dailyftlk-fc8cee47",
+    "num": "dailyftlk-fc8cee47",
+    "date_str": "2026-04-30",
+    "description": "The big risks of being a Bank Non-Executive Chair or Director",
+    "url_metadata": "https://www.ft.lk/opinion/The-big-risks-of-being-a-Bank-Non-Executive-Chair-or-Director/14-791282",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777498011.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-30-dailyftlk-72b3d5f3",
+    "num": "dailyftlk-72b3d5f3",
+    "date_str": "2026-04-30",
+    "description": "Revenue leakages at SriLankan Airlines",
+    "url_metadata": "https://www.ft.lk/opinion/Revenue-leakages-at-SriLankan-Airlines/14-791285",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777498172.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-04-30-dailyftlk-b1ef9b99",
+    "num": "dailyftlk-b1ef9b99",
+    "date_str": "2026-04-30",
+    "description": "Open letter to Women and Child Affairs Minister on International Day to End Corporal Punishment",
+    "url_metadata": "https://www.ft.lk/opinion/Open-letter-to-Women-and-Child-Affairs-Minister-on-International-Day-to-End-Corporal-Punishment/14-791286",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777498224.0
   }
 ]
