@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-01 04:03:13",
-  "n_docs": 111318,
+  "time_updated": "2026-05-01 06:34:14",
+  "n_docs": 111333,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 111318,
+  "n_docs_with_text": 111333,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-04-30",
-  "dataset_size": 1723813305,
+  "date_str_max": "2026-05-01",
+  "dataset_size": 1723874654,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-04-30-virakesarilk-bb0caf46",
-    "num": "virakesarilk-bb0caf46",
-    "date_str": "2026-04-30",
-    "description": "50 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba4\u0bc0\u0bb0\u0bcd\u0bae\u0bbe\u0ba9\u0bae\u0bcd: \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bb5\u0bb1\u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0bcb\u0b95\u0bbf\u0bb1\u0bcb\u0bae\u0bbe? \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0ba4\u0bbe\u0baf\u0b95 \u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd \u0b86\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b89\u0bb1\u0bb5\u0bc1\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf",
-    "url_metadata": "https://www.virakesari.lk/article/244958",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1777565880.0
+    "doc_id": "2026-05-01-dailyftlk-5face85e",
+    "num": "dailyftlk-5face85e",
+    "date_str": "2026-05-01",
+    "description": "Joint Opposition Alliance seeks probe into diesel procurement deal, alleges irregularities and losses",
+    "url_metadata": "https://www.ft.lk/opinion/Joint-Opposition-Alliance-seeks-probe-into-diesel-procurement-deal-alleges-irregularities-and-losses/14-791338",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777593631.0
   }
 }
