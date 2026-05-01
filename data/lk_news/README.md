@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--02_00:10:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--02_02:03:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**111,455** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**111,456** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -54,13 +54,13 @@ A collection of lk_news documents.
 - 2026-05-01 | `virakesarilk-a8b97cdd` | களுத்துறை உள்நாட்டு இறைவரி அலுவலகத்தில் தீ விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-a8b97cdd)
 - 2026-05-01 | `tamilmirrorlk-cf4c0716` | தோட்டத்தில்  ’பகீர்’: சீட்டுகளுக்கு குஷி: அக்காவுக்கு திண்டாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-cf4c0716)
 - 2026-05-01 | `virakesarilk-c711747d` | மட்டு.பட்டிப்பளையில் நடைபெற்ற இலங்கை தமிழரசுக்கட்சியின் மேதின நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-c711747d)
+- 2026-05-01 | `colombotelegraphcom-276dd321` | In Memoriam – Suriya Wickremasinghe: A Life in Service Of Justice, Rights & Human Dignity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-colombotelegraphcom-276dd321)
 - 2026-05-01 | `virakesarilk-fd0a56a4` | நடிகர் கயல் சந்திரன் நடிக்கும் 'சிங்கா' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-fd0a56a4)
 - 2026-05-01 | `virakesarilk-ba167576` | அடுத்த ஜனாதிபதி திலித் ஜயவீர - திலும் அமுனுகம தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-ba167576)
 - 2026-05-01 | `tamilmirrorlk-40d3206e` | மவுசாக்கலை நீர்த்தேக்கத்தில் மூதாட்டியின் சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-40d3206e)
 - 2026-05-01 | `virakesarilk-855fd86c` | ஜே.வி.பி.யின் வரலாறு மீள ஆரம்பமாகின்றதா? ; நிதியமைச்சின் அதிகாரியின் மரணம் குறித்து  முஜிபுர் ரஹ்மான் சந்தேகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-855fd86c)
 - 2026-05-01 | `virakesarilk-3e70ce26` | துஷாரா விஜயன் - அதிதி பாலன் இணைந்து மிரட்டும் எக்ஸாம்' இணையத் தொடரின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-3e70ce26)
 - 2026-05-01 | `tamilmirrorlk-2a6c9a0c` | மே தின சிந்தனைக்குரிய சித்திரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-2a6c9a0c)
-- 2026-05-01 | `virakesarilk-4be9c180` | காவத்தை தொழிலாளர்கள் மீதான அடக்குமுறையை பாராளுமன்றில் முறையிடுவேன் ; காவத்தை பெருந்தோட்ட நிறுவனத்தின் முதன்மை செயற்பாட்டு அதிகாரியை தொலைபேசியில் எச்சரித்த  மனோ எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-4be9c180)
 
 ---
 
