@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--01_06:35:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--01_08:53:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**111,333** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**111,341** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-01-dailyftlk-5face85e",
-    "num": "dailyftlk-5face85e",
+    "doc_id": "2026-05-01-dailyftlk-3e1530a4",
+    "num": "dailyftlk-3e1530a4",
     "date_str": "2026-05-01",
-    "description": "Joint Opposition Alliance seeks probe into diesel procurement deal, alleges irregularities and losses",
-    "url_metadata": "https://www.ft.lk/opinion/Joint-Opposition-Alliance-seeks-probe-into-diesel-procurement-deal-alleges-irregularities-and-losses/14-791338",
+    "description": "Is it a \u2018Mayday!\u2019 for the NPP\u2019s  slow slide into systems failure?",
+    "url_metadata": "https://www.ft.lk/columns/Is-it-a-Mayday-for-the-NPP-s-slow-slide-into-systems-failure/4-791341",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1777593631.0
+    "time_ut": 1777604348.0
 }
 ```
 
@@ -41,8 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-01 | `dailyftlk-3e1530a4` | Is it a ‘Mayday!’ for the NPP’s  slow slide into systems failure? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-3e1530a4)
+- 2026-05-01 | `dailyftlk-2a65846d` | Economic vision of Ranasinghe Premadasa: A much felt today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-2a65846d)
+- 2026-05-01 | `adalk-83fe02d4` | ගුවන් යානයේදී ඩොලර් සොරකම් කළ චීන ජාතිකයා අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-adalk-83fe02d4)
+- 2026-05-01 | `dailyftlk-d776c713` | Ranasinghe Premadasa: A milestone in turning point of Malayaha Tamils’ lives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-d776c713)
 - 2026-05-01 | `dailyftlk-5face85e` | Joint Opposition Alliance seeks probe into diesel procurement deal, alleges irregularities and losses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-5face85e)
 - 2026-05-01 | `dailyftlk-30c3a732` | Cyber-crimes and management weaknesses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-30c3a732)
+- 2026-05-01 | `tamilmirrorlk-fb3585e6` | எதிர்க்கட்சித் தலைவரின் தொழிலாளர் தின செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-fb3585e6)
+- 2026-05-01 | `tamilmirrorlk-bfd3a2aa` | மக்கள் சக்தியாக ஒன்றிணையுங்கள்: ஜனாதிபதி மே தின செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-bfd3a2aa)
+- 2026-05-01 | `tamilmirrorlk-553f5c84` | ’கருத்துக் கணிப்பு பின்னணியில் சூழ்ச்சி’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-553f5c84)
 - 2026-05-01 | `tamilmirrorlk-86820cbb` | ’தொழிலாளர் வர்க்கத்தை ஏமாற்றிய அரசாங்கம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-86820cbb)
 - 2026-05-01 | `tamilmirrorlk-66ebc8f1` | ’மே தினத்தில் அரசாங்கத்துக்கு மக்கள் பதிலடி கொடுப்பார்கள்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-66ebc8f1)
 - 2026-05-01 | `islandlk-ad1b776e` | RDA joins “Vehicle Testing Can Save Lives” campaign | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-islandlk-ad1b776e)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-04-30 | `virakesarilk-bb0caf46` | 50 ஆண்டுகள் வட்டுக்கோட்டை தீர்மானம்: மீண்டும் தவறவிடப்போகிறோமா? தமிழர் தாயக காணாமல் ஆக்கப்பட்ட உறவுகளின் சங்கம் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-30-virakesarilk-bb0caf46)
 - 2026-04-30 | `virakesarilk-fe44cfe2` | மே தினம் குறித்து யாழ்ப்பாண பல்கலைக்கழக ஊழியர் சங்கம் அறிக்கை வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-30-virakesarilk-fe44cfe2)
 - 2026-04-30 | `tamilmirrorlk-eece2be9` | திருமணம் முடிக்காவிட்டால் இனி ’இலவங்கப்பட்டை’ அபிஷேகம் தான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-30-tamilmirrorlk-eece2be9)
-- 2026-04-30 | `virakesarilk-6f3d5615` | பீப்பாயொன்று 126 அமெரிக்க டொலராக உச்சம்  தொட்ட  மசகு எண்ணெயின் விலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-30-virakesarilk-6f3d5615)
-- 2026-04-30 | `tamilmirrorlk-e7a46cb3` | அமிர்த யாத்திரை யாழ்ப்பாணத்திற்கு ; 10 இலட்சம் இளைஞர்கள் இலக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-30-tamilmirrorlk-e7a46cb3)
-- 2026-04-30 | `tamilmirrorlk-96fbeed6` | நாவலப்பிட்டி நகரை மீண்டும் சூழ்ந்த வெள்ளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-30-tamilmirrorlk-96fbeed6)
-- 2026-04-30 | `tamilmirrorlk-776e3998` | ஊரே பதற்றமாக தேட, மலையில் அசந்து தூங்கிய சிறுவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-30-tamilmirrorlk-776e3998)
-- 2026-04-30 | `tamilmirrorlk-7fae7234` | செம்மணியில் மற்றுமொரு எலும்புக்கூடு அடையாளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-30-tamilmirrorlk-7fae7234)
-- 2026-04-30 | `tamilmirrorlk-fc0b02a0` | ரஷ்ய மருத்துவரிடம் கைவரிசை : சீன நாட்டவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-30-tamilmirrorlk-fc0b02a0)
-- 2026-04-30 | `tamilmirrorlk-42ac7809` | 20வது தங்க சமர் ஆரம்பமாகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-30-tamilmirrorlk-42ac7809)
 
 ---
 

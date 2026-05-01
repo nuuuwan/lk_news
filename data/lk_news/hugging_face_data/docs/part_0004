@@ -164229,6 +164229,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-04-30-adalk-b5d3dfda",
+    "num": "adalk-b5d3dfda",
+    "date_str": "2026-04-30",
+    "description": "\u0d85\u0dc0\u0dc3\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1 17 482\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dbb\u0dca\u0dae \u0dc3\u0dcf\u0db0\u0d9a \u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd \u0dbb\u0dd4.\u0db8\u0dd2. 1638\u0d9a\u0dca  \u0d85\u0dba\u0d9a\u0dbb\u0d9c\u0dd9\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1-17-482\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0dbb\u0dca\u0dae-\u0dc3\u0dcf\u0db0\u0d9a-\u0d85\u0dbb\u0db8\u0dd4\u0daf\u0dbd-\u0dbb\u0dd4-\u0db8\u0dd2--1638\u0d9a\u0dca--\u0d85\u0dba\u0d9a\u0dbb\u0d9c\u0dd9\u0db1/11-422257",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1777543195.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-04-30-tamilmirrorlk-df54a109",
     "num": "tamilmirrorlk-df54a109",
     "date_str": "2026-04-30",
@@ -164702,6 +164713,39 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-01-tamilmirrorlk-553f5c84",
+    "num": "tamilmirrorlk-553f5c84",
+    "date_str": "2026-05-01",
+    "description": "\u2019\u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd \u0b95\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc2\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd-\u0b95\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc2\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf/175-376388",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777590258.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-01-tamilmirrorlk-bfd3a2aa",
+    "num": "tamilmirrorlk-bfd3a2aa",
+    "date_str": "2026-05-01",
+    "description": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba3\u0bc8\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd: \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0bae\u0bc7 \u0ba4\u0bbf\u0ba9 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0b95\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0b95-\u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0ba3\u0bc8\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0bae\u0bc7-\u0ba4\u0bbf\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/175-376389",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777590380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-01-tamilmirrorlk-fb3585e6",
+    "num": "tamilmirrorlk-fb3585e6",
+    "date_str": "2026-05-01",
+    "description": "\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0ba4\u0bbf\u0ba9 \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0ba4\u0bcd-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd-\u0ba4\u0bbf\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/175-376390",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777590748.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-01-dailyftlk-30c3a732",
     "num": "dailyftlk-30c3a732",
     "date_str": "2026-05-01",
@@ -164721,5 +164765,49 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1777593631.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-01-dailyftlk-d776c713",
+    "num": "dailyftlk-d776c713",
+    "date_str": "2026-05-01",
+    "description": "Ranasinghe Premadasa: A milestone in turning point of Malayaha Tamils\u2019 lives",
+    "url_metadata": "https://www.ft.lk/columns/Ranasinghe-Premadasa-A-milestone-in-turning-point-of-Malayaha-Tamils-lives/4-791339",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777603458.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-01-adalk-83fe02d4",
+    "num": "adalk-83fe02d4",
+    "date_str": "2026-05-01",
+    "description": "\u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0dda\u0daf\u0dd3 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0dc3\u0ddc\u0dbb\u0d9a\u0db8\u0dca \u0d9a\u0dc5 \u0da0\u0dd3\u0db1 \u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dcf \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dba\u0dda\u0daf\u0dd3-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0dc3\u0ddc\u0dbb\u0d9a\u0db8\u0dca-\u0d9a\u0dc5-\u0da0\u0dd3\u0db1-\u0da2\u0dcf\u0dad\u0dd2\u0d9a\u0dba\u0dcf-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-422263",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1777603696.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-01-dailyftlk-2a65846d",
+    "num": "dailyftlk-2a65846d",
+    "date_str": "2026-05-01",
+    "description": "Economic vision of Ranasinghe Premadasa: A much felt today",
+    "url_metadata": "https://www.ft.lk/columns/Economic-vision-of-Ranasinghe-Premadasa-A-much-felt-today/4-791340",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777603776.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-01-dailyftlk-3e1530a4",
+    "num": "dailyftlk-3e1530a4",
+    "date_str": "2026-05-01",
+    "description": "Is it a \u2018Mayday!\u2019 for the NPP\u2019s  slow slide into systems failure?",
+    "url_metadata": "https://www.ft.lk/columns/Is-it-a-Mayday-for-the-NPP-s-slow-slide-into-systems-failure/4-791341",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777604348.0
   }
 ]
