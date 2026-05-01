@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--01_22:06:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--02_00:10:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**111,447** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**111,455** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-01-virakesarilk-9fef2fed",
-    "num": "virakesarilk-9fef2fed",
+    "doc_id": "2026-05-01-virakesarilk-0f5130a0",
+    "num": "virakesarilk-0f5130a0",
     "date_str": "2026-05-01",
-    "description": "\u0ba8\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0b8a\u0bb4\u0bb2\u0bbe\u0bb2\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bc8 \u0bb5\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0bae\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0bae\u0bbe\u0b95 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0bb5\u0b9a\u0bc2\u0bb2\u0bbf\u0b95\u0bcd\u0b95 \u0ba4\u0baf\u0bbe\u0bb0\u0bbe\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd - \u0b95\u0bb2\u0bbe\u0ba8\u0bbf\u0ba4\u0bbf \u0bb9\u0bb0\u0bcd\u0bb7 \u0b9f\u0bbf \u0b9a\u0bbf\u0bb2\u0bcd\u0bb5\u0bbe",
-    "url_metadata": "https://www.virakesari.lk/article/245075",
+    "description": "\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd NPP \u0bae\u0bc7 \u0ba4\u0bbf\u0ba9\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0bae\u0bcd: \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bb8\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bbf\u0bb0\u0bb3\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/245081",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1777644180.0
+    "time_ut": 1777655160.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-01 | `virakesarilk-0f5130a0` | யாழில் NPP மே தினக் கூட்டம்: புதிய பஸ் நிலையத்தில் மக்கள் திரள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-0f5130a0)
+- 2026-05-01 | `virakesarilk-5d6eed25` | யாழில் நடைபெற்ற ஜனநாயக தமிழ் தேசிய கூட்டமைப்பின் மே தின கூட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-5d6eed25)
+- 2026-05-01 | `virakesarilk-f380fb86` | அரசுக்கு எதிராக ஊழல் குற்றச்சாட்டு: வட,கிழக்கை NPP தொடுவதற்கு இடமளிக்கவே மாட்டோம் – சுமந்திரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-f380fb86)
+- 2026-05-01 | `virakesarilk-390b2e7e` | ஆட்சி மாற்றத்திற்கான ஆரம்பம்: மே தினக் கூட்டம் முக்கியம் – விஜேதாச ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-390b2e7e)
+- 2026-05-01 | `virakesarilk-8bbd505b` | ஜேர்மனில் கராத்தே சுற்றுப்போட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-8bbd505b)
+- 2026-05-01 | `virakesarilk-2bd2a761` | UNP - SJB ஒற்றுமை உறுதி: சதிகள் தோல்வியடையும் – சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-2bd2a761)
 - 2026-05-01 | `virakesarilk-9fef2fed` | நிலக்கரி ஊழலால் ஏற்பட்ட இழப்பை வரிகள் மூலம் மறைமுகமாக மக்களிடம் வசூலிக்க தயாராகும் அரசாங்கம் - கலாநிதி ஹர்ஷ டி சில்வா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-9fef2fed)
 - 2026-05-01 | `virakesarilk-268452fb` | அரசாங்கத்தின் மற்றொரு பாரிய மோசடியை அடுத்த வாரம் பாராளுமன்றத்தில் அம்பலப்படுத்துவோம் - எஸ்.எம். மரிக்கார் அதிரடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-268452fb)
 - 2026-05-01 | `tamilmirrorlk-5de51d81` | இலங்கைத் தமிழரசுக்கட்சியின் மே தின நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-5de51d81)
@@ -54,13 +60,7 @@ A collection of lk_news documents.
 - 2026-05-01 | `virakesarilk-855fd86c` | ஜே.வி.பி.யின் வரலாறு மீள ஆரம்பமாகின்றதா? ; நிதியமைச்சின் அதிகாரியின் மரணம் குறித்து  முஜிபுர் ரஹ்மான் சந்தேகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-855fd86c)
 - 2026-05-01 | `virakesarilk-3e70ce26` | துஷாரா விஜயன் - அதிதி பாலன் இணைந்து மிரட்டும் எக்ஸாம்' இணையத் தொடரின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-3e70ce26)
 - 2026-05-01 | `tamilmirrorlk-2a6c9a0c` | மே தின சிந்தனைக்குரிய சித்திரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-2a6c9a0c)
-- 2026-05-01 | `virakesarilk-0b8cb43d` | நாவலப்பிட்டியில் லொறியில் சிக்குண்டு இளைஞன் பலி - சாரதி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-0b8cb43d)
-- 2026-05-01 | `virakesarilk-6199fad8` | ரணிலின் திட்டங்களையே அநுர  அரசாங்கம் செயற்படுத்துகிறது - திலித் ஜயவீர குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-6199fad8)
-- 2026-05-01 | `virakesarilk-254231a5` | தேசிய மக்கள் சக்தியின் கண்டி மாவட்ட மே தினப் பேரணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-254231a5)
-- 2026-05-01 | `tamilmirrorlk-b7260979` | சல்லாப ஈடுபட்ட கணவனுக்கு மனைவி கொடுத்த பரிசு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-b7260979)
-- 2026-05-01 | `tamilmirrorlk-2daced6f` | தற்காலிக ஊழியர்களுக்கு நிரந்தர நியமனம்: இனி தற்காலிகம் இல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-2daced6f)
-- 2026-05-01 | `virakesarilk-98e50194` | அரசாங்கத்தின் ஆயுட்காலம் ஒரு வருடமும் 3 வாரங்கள் மட்டுமே - பேராசிரியர் சன்ன ஜயசுமன தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-98e50194)
-- 2026-05-01 | `virakesarilk-93a33950` | ஏப்ரல் மாதத்தில் 19 பேர் கடலில் மூழ்காமல் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-93a33950)
+- 2026-05-01 | `virakesarilk-4be9c180` | காவத்தை தொழிலாளர்கள் மீதான அடக்குமுறையை பாராளுமன்றில் முறையிடுவேன் ; காவத்தை பெருந்தோட்ட நிறுவனத்தின் முதன்மை செயற்பாட்டு அதிகாரியை தொலைபேசியில் எச்சரித்த  மனோ எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-4be9c180)
 
 ---
 
