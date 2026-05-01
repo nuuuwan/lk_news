@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--01_08:53:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--01_11:02:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**111,341** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**111,367** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-01-dailyftlk-3e1530a4",
-    "num": "dailyftlk-3e1530a4",
+    "doc_id": "2026-05-01-virakesarilk-0f8e6ca4",
+    "num": "virakesarilk-0f8e6ca4",
     "date_str": "2026-05-01",
-    "description": "Is it a \u2018Mayday!\u2019 for the NPP\u2019s  slow slide into systems failure?",
-    "url_metadata": "https://www.ft.lk/columns/Is-it-a-Mayday-for-the-NPP-s-slow-slide-into-systems-failure/4-791341",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1777604348.0
+    "description": "\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bb2\u0ba9\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b85\u0bb2\u0bcd\u0bb2 \u0b9a\u0bc6\u0baf\u0bb2\u0bbf\u0bb2\u0bcd \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0ba8\u0bbf\u0bb0\u0bc2\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1 - \u0bae\u0bc7\u0ba4\u0bbf \u0ba4\u0bbf\u0ba9 \u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b87\u0bb0\u0bbe\u0bae\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0b9a\u0bc7\u0b95\u0bb0\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/244992",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1777613220.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-05-01 | `dailyftlk-3e1530a4` | Is it a ‘Mayday!’ for the NPP’s  slow slide into systems failure? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-3e1530a4)
-- 2026-05-01 | `dailyftlk-2a65846d` | Economic vision of Ranasinghe Premadasa: A much felt today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-2a65846d)
-- 2026-05-01 | `adalk-83fe02d4` | ගුවන් යානයේදී ඩොලර් සොරකම් කළ චීන ජාතිකයා අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-adalk-83fe02d4)
-- 2026-05-01 | `dailyftlk-d776c713` | Ranasinghe Premadasa: A milestone in turning point of Malayaha Tamils’ lives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-d776c713)
-- 2026-05-01 | `dailyftlk-5face85e` | Joint Opposition Alliance seeks probe into diesel procurement deal, alleges irregularities and losses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-5face85e)
-- 2026-05-01 | `dailyftlk-30c3a732` | Cyber-crimes and management weaknesses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-30c3a732)
-- 2026-05-01 | `tamilmirrorlk-fb3585e6` | எதிர்க்கட்சித் தலைவரின் தொழிலாளர் தின செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-fb3585e6)
-- 2026-05-01 | `tamilmirrorlk-bfd3a2aa` | மக்கள் சக்தியாக ஒன்றிணையுங்கள்: ஜனாதிபதி மே தின செய்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-bfd3a2aa)
-- 2026-05-01 | `tamilmirrorlk-553f5c84` | ’கருத்துக் கணிப்பு பின்னணியில் சூழ்ச்சி’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-553f5c84)
-- 2026-05-01 | `tamilmirrorlk-86820cbb` | ’தொழிலாளர் வர்க்கத்தை ஏமாற்றிய அரசாங்கம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-86820cbb)
-- 2026-05-01 | `tamilmirrorlk-66ebc8f1` | ’மே தினத்தில் அரசாங்கத்துக்கு மக்கள் பதிலடி கொடுப்பார்கள்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-66ebc8f1)
-- 2026-05-01 | `islandlk-ad1b776e` | RDA joins “Vehicle Testing Can Save Lives” campaign | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-islandlk-ad1b776e)
-- 2026-05-01 | `islandlk-9b03e25c` | Doc990 introduces cashless channeling with Softlogic Life for corporate policyholders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-islandlk-9b03e25c)
-- 2026-05-01 | `islandlk-72052583` | ‘Electric three-wheelers gain attention’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-islandlk-72052583)
-- 2026-05-01 | `islandlk-21c8b4ee` | Rupee depreciation having stock investors worried | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-islandlk-21c8b4ee)
-- 2026-05-01 | `islandlk-15d7956f` | CEAT Kelani launches GRIPP X5 and ZOOM X5 premium motorcycle tyres for Sri Lankan roads | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-islandlk-15d7956f)
-- 2026-05-01 | `islandlk-b94d98a9` | Sri Lanka’s real estate leaders to chart a 10-yr vision at RIUNIT forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-islandlk-b94d98a9)
-- 2026-04-30 | `virakesarilk-bb0caf46` | 50 ஆண்டுகள் வட்டுக்கோட்டை தீர்மானம்: மீண்டும் தவறவிடப்போகிறோமா? தமிழர் தாயக காணாமல் ஆக்கப்பட்ட உறவுகளின் சங்கம் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-30-virakesarilk-bb0caf46)
-- 2026-04-30 | `virakesarilk-fe44cfe2` | மே தினம் குறித்து யாழ்ப்பாண பல்கலைக்கழக ஊழியர் சங்கம் அறிக்கை வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-30-virakesarilk-fe44cfe2)
-- 2026-04-30 | `tamilmirrorlk-eece2be9` | திருமணம் முடிக்காவிட்டால் இனி ’இலவங்கப்பட்டை’ அபிஷேகம் தான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-04-30-tamilmirrorlk-eece2be9)
+- 2026-05-01 | `virakesarilk-0f8e6ca4` | தொழிலாளர்களின் நலன் குறித்து வெறும் வார்த்தைகளில் அல்ல செயலில் அரசாங்கம் நிரூபித்து வருகின்றது - மேதி தின வாழ்த்துச் செய்தியில் அமைச்சர் இராமலிங்கம் சந்திரசேகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-0f8e6ca4)
+- 2026-05-01 | `virakesarilk-addfc080` | நித்தகைக்குளத்தின் சீரமைப்புப் பணிகளை துரிதப்படுத்துமாறு துரைராசா ரவிகரன் வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-addfc080)
+- 2026-05-01 | `tamilmirrorlk-eaa6f29c` | முத்துநகர் விவசாயிகள் கறுப்பு நாளாக   ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-eaa6f29c)
+- 2026-05-01 | `tamilmirrorlk-f2065344` | சிவனொளிபாத மலையை கொழும்பில் இருந்தே பாருங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-tamilmirrorlk-f2065344)
+- 2026-05-01 | `virakesarilk-d1740880` | மியன்மார் முன்னாள் தலைவி ஆங் சான் சூகி வீட்டுக்காவலுக்கு மாற்றம்: இராணுவ ஆட்சியாளர் அறிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-d1740880)
+- 2026-05-01 | `virakesarilk-d926da07` | இலங்கைக்குக் கடத்தவிருந்த 13 இலட்சம் ரூபா மதிப்பிலான பொருட்கள் தமிழகத்தில் கைப்பற்றல் ; உரிமையாளர் தலைமறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-d926da07)
+- 2026-05-01 | `virakesarilk-116982c1` | எரிபொருள் விலையில் மாற்றமில்லை: இலங்கை பெற்றோலிய கூட்டுத்தாபனம் அறிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-116982c1)
+- 2026-05-01 | `virakesarilk-48be97ae` | நாட்டில் வருடாந்தம் 1,400 பெண்கள் கர்ப்பப்பை வாய்ப் புற்றுநோயால் பாதிப்பு ; 800 மரணங்கள் பதிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-48be97ae)
+- 2026-05-01 | `virakesarilk-6ab24749` | யாழ். பல்கலைக்கழக விரிவுரையாளர் கொலை வழக்கு: சந்தேகநபர்களுக்கு மே 14 வரை விளக்கமறியல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-6ab24749)
+- 2026-05-01 | `virakesarilk-755efbc6` | தொழிலாளர்கள் எதிர்கொள்ளும் சவால்களை உணர்ந்து, அவர்களின் நலன்களை பாதுகாக்கவும், உரிமைகளை வலுப்படுத்தவும் இதொகா தொடர்ந்து செயல்படும் - இ.தொ.கா தலைவர் செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-755efbc6)
+- 2026-05-01 | `virakesarilk-a8146ae2` | “உழைக்கும் மக்களின் உரிமைகளே நாட்டின் முன்னேற்றத்தின் அடித்தளம்” – இ.தொ.கா பொதுச்செயலாளர் ஜீவன் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-a8146ae2)
+- 2026-05-01 | `dailyftlk-360077d3` | Govt. to hold 21 May Day rallies across island | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-360077d3)
+- 2026-05-01 | `dailyftlk-ac70d633` | Gnanasara Thero indicted over alleged anti-Islam remarks; released on bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-ac70d633)
+- 2026-05-01 | `dailyftlk-140fb7e0` | NATA proposes post-2010 smoking ban to Health Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-140fb7e0)
+- 2026-05-01 | `dailyftlk-85fd98e6` | NCE launches SLAB-endorsed Certificate of Ethical Trading | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-85fd98e6)
+- 2026-05-01 | `virakesarilk-e70a6973` | சட்டவிரோத மதுபானம் மற்றும் கோடாவுடன் மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-virakesarilk-e70a6973)
+- 2026-05-01 | `dailyftlk-c0a30329` | Aitken Spence Elevators and CINEC empower next generation of experts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-c0a30329)
+- 2026-05-01 | `dailyftlk-942f575e` | Pan Asia Bank equips customers with solutions to face energy crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-942f575e)
+- 2026-05-01 | `dailyftlk-7e6b205e` | AHC Group and AACI strengthen Sri Lanka-Africa ties, driving investment, global collaborations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-7e6b205e)
+- 2026-05-01 | `dailyftlk-57ede4b4` | Sri Lanka - A second bite at the cherry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-01-dailyftlk-57ede4b4)
 
 ---
 
