@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--03_00:03:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--03_01:57:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**111,536** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**111,537** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-02-tamilmirrorlk-efb53164",
-    "num": "tamilmirrorlk-efb53164",
-    "date_str": "2026-05-02",
-    "description": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1: \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0bb5\u0bbf\u0bb2\u0bc8/150-376461",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1777744861.0
+    "doc_id": "2026-05-03-dailyftlk-1da9d7a3",
+    "num": "dailyftlk-1da9d7a3",
+    "date_str": "2026-05-03",
+    "description": "From Efficiency to Resilience: Why a Neutral Hub in South Asia is Crucial for the Region and the GCC - and Why Port City Colombo Fits That Role",
+    "url_metadata": "https://www.ft.lk/business/From-Efficiency-to-Resilience-Why-a-Neutral-Hub-in-South-Asia-is-Crucial-for-the-Region-and-the-GCC-and-Why-Port-City-Colombo-Fits-That-Role/34-791361",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777748360.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-03 | `dailyftlk-1da9d7a3` | From Efficiency to Resilience: Why a Neutral Hub in South Asia is Crucial for the Region and the GCC - and Why Port City Colombo Fits That Role | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-dailyftlk-1da9d7a3)
 - 2026-05-02 | `tamilmirrorlk-efb53164` | எரிபொருள் விலை அதிகரிப்பு: புதிய விலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-tamilmirrorlk-efb53164)
 - 2026-05-02 | `virakesarilk-78162e26` | செயற்கை நுண்ணறிவு செய்திகளை உருவாக்கும் காலம்: நம்பிக்கையை இயந்திரமாக்க முடியாது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-78162e26)
 - 2026-05-02 | `tamilmirrorlk-f50d2b33` | நாளை நடக்கப்போவது என்ன? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-tamilmirrorlk-f50d2b33)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-05-02 | `virakesarilk-96a8cc5f` | இந்தியாவுடன் இணைந்து 30 பில்லியன் டொலர் டிஜிட்டல் பொருளாதாரத்தை கட்டியெழுப்ப வேண்டும்: எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச திட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-96a8cc5f)
 - 2026-05-02 | `virakesarilk-41b13728` | இந்தியா - ஹரியானா மாநிலத்தில்  திருமண ஊர்வலத்தில் மணமகன் சுட்டுக்கொலை ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-41b13728)
 - 2026-05-02 | `virakesarilk-f012f8a5` | நடிகர் விதார்த் நடிக்கும் 'மூன்றாம் கண்' பட அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-f012f8a5)
-- 2026-05-02 | `virakesarilk-783cd21e` | ஊழல்வாதிகள் இந்த ஆண்டு சட்டத்தால் தண்டிக்கப்படுவார்கள் ; பிமல் ரத்நாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-783cd21e)
 
 ---
 
