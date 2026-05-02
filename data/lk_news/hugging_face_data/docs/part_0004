@@ -161754,6 +161754,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-04-28-islandlk-72ac96a7",
+    "num": "islandlk-72ac96a7",
+    "date_str": "2026-04-28",
+    "description": "Stop mob intimidation",
+    "url_metadata": "http://island.lk/stop-mob-intimidation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1777398000.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-04-28-islandlk-83846f5b",
     "num": "islandlk-83846f5b",
     "date_str": "2026-04-28",
@@ -166077,6 +166088,83 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-01-islandlk-d2bd3be6",
+    "num": "islandlk-d2bd3be6",
+    "date_str": "2026-05-01",
+    "description": "DFCC Bank strengthens Middle East remittance corridor",
+    "url_metadata": "http://island.lk/dfcc-bank-strengthens-middle-east-remittance-corridor/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1777658160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-01-islandlk-da7ea460",
+    "num": "islandlk-da7ea460",
+    "date_str": "2026-05-01",
+    "description": "POIA highlights economic importance of palm oil to Sri Lanka\u2019s development agenda",
+    "url_metadata": "http://island.lk/poia-highlights-economic-importance-of-palm-oil-to-sri-lankas-development-agenda/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1777658160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-01-islandlk-810c172a",
+    "num": "islandlk-810c172a",
+    "date_str": "2026-05-01",
+    "description": "Browns Hotels & Resorts raises the bar with Quintessential Bartender 2026",
+    "url_metadata": "http://island.lk/browns-hotels-resorts-raises-the-bar-with-quintessential-bartender-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1777658820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-01-islandlk-1fb9709c",
+    "num": "islandlk-1fb9709c",
+    "date_str": "2026-05-01",
+    "description": "SHEvolve \u201926: Empowering conversations, inspiring change",
+    "url_metadata": "http://island.lk/shevolve-26-empowering-conversations-inspiring-change/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1777658880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-01-islandlk-bd82903f",
+    "num": "islandlk-bd82903f",
+    "date_str": "2026-05-01",
+    "description": "JXG debuts on CSE\u2019s Main Board",
+    "url_metadata": "http://island.lk/jxg-debuts-on-cses-main-board/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1777658880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-01-islandlk-bdbe0488",
+    "num": "islandlk-bdbe0488",
+    "date_str": "2026-05-01",
+    "description": "SINGER introduces the new Apple MacBook Neo Series",
+    "url_metadata": "http://island.lk/singer-introduces-the-new-apple-macbook-neo-series/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1777658880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-01-islandlk-13d62320",
+    "num": "islandlk-13d62320",
+    "date_str": "2026-05-01",
+    "description": "Pan Asia Bank partners in \u2018Life to Our Beaches\u2019 initiative",
+    "url_metadata": "http://island.lk/pan-asia-bank-partners-in-life-to-our-beaches-initiative/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1777658940.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-02-tamilmirrorlk-cab0d7de",
     "num": "tamilmirrorlk-cab0d7de",
     "date_str": "2026-05-02",
@@ -166085,5 +166173,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1777669900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-02-tamilmirrorlk-a428a439",
+    "num": "tamilmirrorlk-a428a439",
+    "date_str": "2026-05-02",
+    "description": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 3 \u0b8e\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1-3-\u0b8e\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd/175-376439",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777670401.0
   }
 ]
