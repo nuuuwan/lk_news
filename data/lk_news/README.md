@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--02_18:05:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--02_20:03:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**111,514** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**111,519** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-02-tamilmirrorlk-ab9ebd5e",
-    "num": "tamilmirrorlk-ab9ebd5e",
+    "doc_id": "2026-05-02-tamilmirrorlk-f50d2b33",
+    "num": "tamilmirrorlk-f50d2b33",
     "date_str": "2026-05-02",
-    "description": "\u0bb0\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0ba9\u0bcd \u0b89\u0bb3\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0bae\u0bb0\u0ba3\u0baa\u0bcd \u0baa\u0bb0\u0bbf\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0b99\u0bcd\u0b95\u0bb5\u0bbf\u0ba9\u0bcd-\u0b89\u0bb3\u0bb5\u0bbf\u0baf\u0bb2\u0bcd-\u0bae\u0bb0\u0ba3\u0baa\u0bcd-\u0baa\u0bb0\u0bbf\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8-\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/175-376445",
+    "description": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0ba8\u0b9f\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bcb\u0bb5\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8-\u0ba8\u0b9f\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bcb\u0bb5\u0ba4\u0bc1-\u0b8e\u0ba9\u0bcd\u0ba9/175-376448",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1777724163.0
+    "time_ut": 1777731073.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-02 | `tamilmirrorlk-f50d2b33` | நாளை நடக்கப்போவது என்ன? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-tamilmirrorlk-f50d2b33)
+- 2026-05-02 | `tamilmirrorlk-8ead43ce` | போதைப்பொருள் கடத்திய 22 தேரர்களுக்கும் விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-tamilmirrorlk-8ead43ce)
+- 2026-05-02 | `tamilmirrorlk-f0cf5400` | மின்னல் தாக்கம் குறித்து கடும் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-tamilmirrorlk-f0cf5400)
 - 2026-05-02 | `tamilmirrorlk-ab9ebd5e` | ரங்கவின் உளவியல் மரணப் பரிசோதனை நடத்தப்பட வேண்டும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-tamilmirrorlk-ab9ebd5e)
 - 2026-05-02 | `virakesarilk-997edcaa` | இயக்குநர் லோகேஷ் கனகராஜ் வெளியிட்ட நடிகர் ரிஷி காந்த் நடிக்கும் 'மொத ராத்திரி' படத்தின் டைட்டில் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-997edcaa)
 - 2026-05-02 | `virakesarilk-96a8cc5f` | இந்தியாவுடன் இணைந்து 30 பில்லியன் டொலர் டிஜிட்டல் பொருளாதாரத்தை கட்டியெழுப்ப வேண்டும்: எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச திட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-96a8cc5f)
@@ -56,11 +59,8 @@ A collection of lk_news documents.
 - 2026-05-02 | `virakesarilk-0cc572f9` | நாட்டின் பல மாகாணங்களுக்குப் பலத்த மின்னல் எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-0cc572f9)
 - 2026-05-02 | `virakesarilk-23a0f3bb` | டொலர் மாயம் : உயிரை மாய்த்த நிதி அமைச்சின் உதவிப் பணிப்பாளரின் இறுதிக்கிரியைகள் இன்று! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-23a0f3bb)
 - 2026-05-02 | `virakesarilk-7e8007ed` | ரஷ்ய சுகாதார அமைச்சர் இலங்கை வருகிறார் ! சுகாதாரத் துறையில் முக்கிய ஒப்பந்தங்களுக்கு உத்தேசம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-7e8007ed)
+- 2026-05-02 | `colombotelegraphcom-dbdbf440` | Key To NDB Fraud Is Disclosure Of Reason For Resignation Of Board Director Shanil Fernando | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-colombotelegraphcom-dbdbf440)
 - 2026-05-02 | `virakesarilk-a35facd3` | இயக்குநர் ஏ ஆர் முருகதாஸ் வெளியிட்ட ஜெய் நடிக்கும் 'சட்டென்று மாறுது வானிலை' படத்தின் முன்னோட்டம | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-a35facd3)
-- 2026-05-02 | `virakesarilk-0430f8d0` | ஜீ 5 டிஜிட்டல் தளத்தில் வெளியாகும் நடிகர் பாலாஜி சக்திவேல் நடிக்கும் 'வாரண்ட்' இணைய தொடர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-0430f8d0)
-- 2026-05-02 | `virakesarilk-f3cdd698` | மாலியில் பதற்றம் : இராணுவ படைத்தளத்தை கைப்பற்றிய கிளர்ச்சியாளர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-f3cdd698)
-- 2026-05-02 | `virakesarilk-e509a1f9` | ஜேர்மனிலிருந்து 5 ஆயிரம் இராணுவ வீரர்களை திரும்பப் பெறுகிறது அமெரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-e509a1f9)
-- 2026-05-02 | `virakesarilk-e427e337` | களுத்துறை மாவட்டத்தின் 70 விளையாட்டுக் கழகங்களுக்கு விளையாட்டு உபகரணங்கள் வழங்கி வைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-virakesarilk-e427e337)
 
 ---
 

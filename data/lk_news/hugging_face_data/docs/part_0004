@@ -166528,6 +166528,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-02-colombotelegraphcom-8f1e5162",
+    "num": "colombotelegraphcom-8f1e5162",
+    "date_str": "2026-05-02",
+    "description": "Walk For Peace: An Eventful Week In Focus (21st \u2013 28th April)",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/walk-for-peace-an-eventful-week-in-focus-21st-28th-april/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1777708388.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-02-virakesarilk-0430f8d0",
     "num": "virakesarilk-0430f8d0",
     "date_str": "2026-05-02",
@@ -166547,6 +166558,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1777708740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-02-colombotelegraphcom-dbdbf440",
+    "num": "colombotelegraphcom-dbdbf440",
+    "date_str": "2026-05-02",
+    "description": "Key To NDB Fraud Is Disclosure Of Reason For Resignation Of Board Director Shanil Fernando",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/key-to-ndb-fraud-is-disclosure-of-reason-for-resignation-of-board-director-shanil-fernando/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1777709634.0
   },
   {
     "doc_type": "lk_news",
@@ -166712,5 +166734,38 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1777724163.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-02-tamilmirrorlk-f0cf5400",
+    "num": "tamilmirrorlk-f0cf5400",
+    "date_str": "2026-05-02",
+    "description": "\u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bb2\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b95\u0b9f\u0bc1\u0bae\u0bcd-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-376446",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777728474.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-02-tamilmirrorlk-8ead43ce",
+    "num": "tamilmirrorlk-8ead43ce",
+    "date_str": "2026-05-02",
+    "description": "\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf 22 \u0ba4\u0bc7\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-22-\u0ba4\u0bc7\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-376447",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777730757.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-02-tamilmirrorlk-f50d2b33",
+    "num": "tamilmirrorlk-f50d2b33",
+    "date_str": "2026-05-02",
+    "description": "\u0ba8\u0bbe\u0bb3\u0bc8 \u0ba8\u0b9f\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bcb\u0bb5\u0ba4\u0bc1 \u0b8e\u0ba9\u0bcd\u0ba9?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bb3\u0bc8-\u0ba8\u0b9f\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bcb\u0bb5\u0ba4\u0bc1-\u0b8e\u0ba9\u0bcd\u0ba9/175-376448",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777731073.0
   }
 ]
