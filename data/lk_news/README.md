@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--03_08:52:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--03_10:54:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**111,569** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**111,570** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2026-05-03 | `virakesarilk-299a7ac9` | போதைப்பொருள் கடத்தல்: 22 தேரர்களும் எதிர்வரும் 12 ஆம் திகதி வரை விளக்கமறியலில்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-virakesarilk-299a7ac9)
 - 2026-05-03 | `adalk-cbffd780` | සියලු ඉන්ධන මිල ගණන් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-adalk-cbffd780)
 - 2026-05-03 | `virakesarilk-836bced1` | இன்று நாட்டுக்கு வருகிறார் மாலைதீவு ஜனாதிபதி முகமது முய்ஸு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-virakesarilk-836bced1)
+- 2026-05-03 | `adalk-b6be738b` | මාලේ ජනපතිත් අද ලංකාවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-adalk-b6be738b)
 - 2026-05-03 | `adalk-fd9e5d63` | රුසියානු සෞඛ්‍ය ඇමති අද එයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-adalk-fd9e5d63)
 - 2026-05-03 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-virakesarilk-3a015e4a)
 - 2026-05-03 | `tamilmirrorlk-1cde59a6` | கொழும்பில் இன்று விசேட போக்குவரத்து ஏற்பாடுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-tamilmirrorlk-1cde59a6)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-05-02 | `tamilmirrorlk-f50d2b33` | நாளை நடக்கப்போவது என்ன? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-tamilmirrorlk-f50d2b33)
 - 2026-05-02 | `tamilmirrorlk-8ead43ce` | போதைப்பொருள் கடத்திய 22 தேரர்களுக்கும் விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-tamilmirrorlk-8ead43ce)
 - 2026-05-02 | `islandlk-3c3a496b` | Pioneer of Sri Lankan Abstract Art | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-islandlk-3c3a496b)
-- 2026-05-02 | `tamilmirrorlk-f0cf5400` | மின்னல் தாக்கம் குறித்து கடும் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-02-tamilmirrorlk-f0cf5400)
 
 ---
 
