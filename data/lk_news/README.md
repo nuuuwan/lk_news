@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--03_16:05:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--03_18:04:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**111,632** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**111,641** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-03-virakesarilk-8bb6661e",
-    "num": "virakesarilk-8bb6661e",
+    "doc_id": "2026-05-03-tamilmirrorlk-2bc6a458",
+    "num": "tamilmirrorlk-2bc6a458",
     "date_str": "2026-05-03",
-    "description": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0bbe\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf: \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0baf\u0bbf\u0b9f \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0baa\u0bbf\u0bb0\u0bc7\u0bae\u0ba4\u0bbe\u0b9a \u0bb5\u0bb2\u0bbf\u0baf\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/245238",
+    "description": "\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd/175-376518",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1777803960.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777810841.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-03 | `tamilmirrorlk-2bc6a458` | மாலைத்தீவு ஜனாதிபதி இலங்கைக்கு விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-tamilmirrorlk-2bc6a458)
+- 2026-05-03 | `tamilmirrorlk-38bcbfbd` | மாலைதீவு ஜனாதிபதி  வந்தடைந்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-tamilmirrorlk-38bcbfbd)
+- 2026-05-03 | `tamilmirrorlk-a9aec8df` | 2.5 மில்லியன் டொலர் சூறையாடல்: FBI  தீவிர விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-tamilmirrorlk-a9aec8df)
+- 2026-05-03 | `tamilmirrorlk-87f1d840` | “ஜனாதிபதியின் மனிதநேயம் ; ஊருக்கு உபதேசம் உனக்கில்லையடி” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-tamilmirrorlk-87f1d840)
+- 2026-05-03 | `tamilmirrorlk-9cd83793` | கணவனின் ஆசைக்காக ரஜினியுடன் இணைந்த மேக்னா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-tamilmirrorlk-9cd83793)
+- 2026-05-03 | `tamilmirrorlk-65c711d4` | இஷாம் மரிக்கார் பிணையில் விடுதலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-tamilmirrorlk-65c711d4)
+- 2026-05-03 | `tamilmirrorlk-624da617` | “மீனவர்களின் துயரம் தீரவில்லை” ; வேந்தன் ஆதங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-tamilmirrorlk-624da617)
 - 2026-05-03 | `virakesarilk-8bb6661e` | விக்கிரமாரச்சி பல்கலைக்கழக நெருக்கடி: பிரதமர் உடனடியாகத் தலையிட வேண்டும் - சஜித் பிரேமதாச வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-virakesarilk-8bb6661e)
 - 2026-05-03 | `virakesarilk-baa59257` | கள்ளச்சாராய உற்பத்தி நிலையம் முற்றுகை: இருவர் தப்பியோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-virakesarilk-baa59257)
 - 2026-05-03 | `virakesarilk-0c075a05` | விமான எரிபொருள் விலை அதிகரிப்பு ; ஜூலை வரை சர்வதேச விமானச் சேவைகளைக் குறைக்கிறது ஏர் இந்தியா! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-virakesarilk-0c075a05)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-05-03 | `virakesarilk-081bf557` | ஐக்கிய அரபு அமீரகம் விலகல் ; ஓபெக் பிளஸ் அமைப்பின் ஏனைய நாடுகள் இன்று அவசரக் கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-virakesarilk-081bf557)
 - 2026-05-03 | `virakesarilk-a786d67f` | ஐ.நா.வுக்கு கொடுக்­கப்­பட்ட வாக்­கு­றுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-virakesarilk-a786d67f)
 - 2026-05-03 | `virakesarilk-097ff66e` | வட்டி வருமானத்திற்கான தேவையற்ற வரிச்சுமைக்கு முற்றுப்புள்ளி - Self-Declaration முறையின் ஆழமான பகுப்பாய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-virakesarilk-097ff66e)
-- 2026-05-03 | `virakesarilk-bd632fe2` | ஐரிஸ் டெனா கப்பல் மூழ்கடிப்பு: அமெரிக்கா மீது போர்க்குற்றச்சாட்டு சுமத்தும் ஈரானிய கப்டன் ; இலங்கை மற்றும் இந்தியாவின் வகிபாகம் குறித்து சர்ச்சை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-virakesarilk-bd632fe2)
-- 2026-05-03 | `tamilmirrorlk-6e7429e5` | விவாகரத்து கேட்டா தென்னையை வெட்டுவாங்களா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-tamilmirrorlk-6e7429e5)
-- 2026-05-03 | `tamilmirrorlk-c6da6fe4` | திரிஷாவுக்கு மே.4 பிறந்தநாள்: விஜய்க்கு திக்…திக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-tamilmirrorlk-c6da6fe4)
-- 2026-05-03 | `virakesarilk-c55398ae` | ஜூலை 1 முதல் நிதிச் சேவைகள் மீதான வெற் வரியை அதிகரிக்க முன்மொழிவு - நிதி அமைச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-virakesarilk-c55398ae)
-- 2026-05-03 | `virakesarilk-d13eea69` | நிதியமைச்சரான ஜனாதிபதி பாராளுமன்றில் விசேட உரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-virakesarilk-d13eea69)
-- 2026-05-03 | `tamilmirrorlk-4709f3bc` | பானங்கள் கைப்பற்றப்பட்டு அழிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-tamilmirrorlk-4709f3bc)
-- 2026-05-03 | `tamilmirrorlk-f72f7127` | பாடசாலை வாகனக் கட்டணங்களை அதிகரிக்கத் தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-03-tamilmirrorlk-f72f7127)
 
 ---
 
