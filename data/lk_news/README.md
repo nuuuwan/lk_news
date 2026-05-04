@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--04_08:53:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--04_10:56:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**111,722** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**111,741** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-04-tamilmirrorlk-ee185d52",
-    "num": "tamilmirrorlk-ee185d52",
+    "doc_id": "2026-05-04-tamilmirrorlk-3ff38971",
+    "num": "tamilmirrorlk-3ff38971",
     "date_str": "2026-05-04",
-    "description": "\u0bb5\u0bbf\u0b9c\u0baf\u0bcd \u0ba4\u0ba8\u0bcd\u0ba4\u0bc8 \u0b86\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4 \u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b9c\u0baf\u0bcd-\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8-\u0b86\u0bb4\u0bcd\u0ba8\u0bcd\u0ba4-\u0ba4\u0bbf\u0baf\u0bbe\u0ba9\u0bae\u0bcd/175-376537",
+    "description": "\u0ba8\u0b9f\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0 \u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0b9f\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0-\u0bb5\u0bc7\u0b9f\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbf\u0bb2\u0bc8/175-376551",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1777864385.0
+    "time_ut": 1777871652.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-04 | `tamilmirrorlk-3ff38971` | நட்சத்திர வேட்பாளர்களின் நிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-3ff38971)
+- 2026-05-04 | `tamilmirrorlk-f0727584` | மட்டக்களப்பில் சோகம்: யானையின் அகோரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-f0727584)
+- 2026-05-04 | `tamilmirrorlk-85e67402` | 234 தொகுதிகளினதும் முன்னிலை நிலவரம் வெளியானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-85e67402)
+- 2026-05-04 | `tamilmirrorlk-6a14e93d` | 3ஆவது  முடிவில் த.வெ.க முன்னிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-6a14e93d)
+- 2026-05-04 | `tamilmirrorlk-452bd31e` | த.வெ.க. தலைவர் விஜயின் இல்லத்தில் பலத்த பாதுகாப்பு  (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-452bd31e)
+- 2026-05-04 | `tamilmirrorlk-b3451a8c` | கடுகஸ்தோட்டையில் துப்பாக்கிச் சூடு: இளைஞன் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-b3451a8c)
+- 2026-05-04 | `tamilmirrorlk-2c729e45` | தி.முகவில் போட்டியிட்ட ஓ.பி.எஸ் பின்னடைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-2c729e45)
+- 2026-05-04 | `tamilmirrorlk-5f0285c7` | துணை முதலமைச்சர் உதயநிதியும் பின்னடைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-5f0285c7)
+- 2026-05-04 | `tamilmirrorlk-4dc26ced` | தமிழ்நாடு அமைச்சர்கள் 34 பேரில் 31 பேர் பின்னடைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-4dc26ced)
+- 2026-05-04 | `tamilmirrorlk-38798a28` | மஞ்சள் துண்டுக்கு அனுமதி மறுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-38798a28)
+- 2026-05-04 | `tamilmirrorlk-31c2e9cf` | 43-வது பிறந்தநாளை திருப்பதியில் கொண்டாடிய த்ரிஷா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-31c2e9cf)
+- 2026-05-04 | `tamilmirrorlk-83c8102e` | தமிழ்நாட்டின் காரைக்குடியில் சீமான் பின்னடைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-83c8102e)
+- 2026-05-04 | `dailyftlk-384c75dd` | A NEW CORPORATE SUPERPOWER IS BORN | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-384c75dd)
+- 2026-05-04 | `tamilmirrorlk-661f2793` | தமிழகத் தேர்தலில் முதலமைச்சர் ஸ்டாலின் பின்னடைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-661f2793)
+- 2026-05-04 | `tamilmirrorlk-b1027ac2` | விஜய் 2 தொகுதிகளிலும் முன்னிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-b1027ac2)
 - 2026-05-04 | `tamilmirrorlk-ee185d52` | விஜய் தந்தை ஆழ்ந்த தியானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-ee185d52)
 - 2026-05-04 | `tamilmirrorlk-d724921b` | தமிழ்நாடு தேர்தல் 2026 நேரலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-d724921b)
-- 2026-05-04 | `tamilmirrorlk-613a6289` | தவெக முகவர் வெளியேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-613a6289)
-- 2026-05-04 | `tamilmirrorlk-7a10ffad` | பாதுகாப்பு வளையத்தில் விஜய் இல்லம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-7a10ffad)
-- 2026-05-04 | `dailyftlk-d71e214d` | Maldivian President Muizzu arrives in Sri Lanka on first State visit, marking 61 years of diplomatic ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-d71e214d)
-- 2026-05-04 | `dailyftlk-2ebd690f` | Russian Health Minister arrives on three-day official visit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-2ebd690f)
-- 2026-05-04 | `dailyftlk-8936a029` | Police arrest over 120 foreign nationals for alleged financial fraud | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-8936a029)
-- 2026-05-04 | `dailyftlk-84897c0b` | St. Servatius’ College Matara, Colombo OBA AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-84897c0b)
-- 2026-05-04 | `dailyftlk-3316402e` | ADB sharply downgrades Asia and Pacific growth outlook as Middle East conflict disruptions deepen | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-3316402e)
-- 2026-05-04 | `dailyftlk-2ff645de` | Verité Research appoints Yanitra Kumaraguru as Head of Legal Research | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-2ff645de)
-- 2026-05-04 | `dailyftlk-424a4756` | UAE-South Korea CEPA enters into force | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-424a4756)
-- 2026-05-04 | `dailyftlk-5b3204d8` | Sri Lanka–Nepal Business Council to drive bilateral trade and investment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-5b3204d8)
-- 2026-05-04 | `dailyftlk-9e3488f4` | President signals tough stance against corruption, worker-focused reforms in May Day addresses | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-9e3488f4)
-- 2026-05-04 | `dailyftlk-6d2d8635` | Sajith pitches unified Opposition, questions governance and institutional accountability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-6d2d8635)
-- 2026-05-04 | `dailyftlk-8231275c` | Tilvin says only NPP will continue to govern Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-8231275c)
-- 2026-05-04 | `tamilmirrorlk-32841b90` | பியர் போத்தலால் தலையில் அடித்ததினால் ஒருவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-32841b90)
-- 2026-05-04 | `tamilmirrorlk-08d76307` | கம்பன் விழா நிகழ்வில் ஜனாதிபதி கலந்துகொண்டார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-08d76307)
-- 2026-05-04 | `tamilmirrorlk-995f32cc` | வெற்றி பெறும் த.வெ.க. வேட்பாளர்களை விடுதியில் பாதுகாக்க திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-995f32cc)
-- 2026-05-04 | `dailyftlk-596095ff` | Cassandra’s curse continues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-596095ff)
-- 2026-05-04 | `dailyftlk-fbecdd22` | Urban water crisis in Greater Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-dailyftlk-fbecdd22)
+- 2026-05-04 | `tamilmirrorlk-4fadcc61` | தமிழ்நாடு தேர்தல் 2026 நேரலை LIVE UPDATE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-tamilmirrorlk-4fadcc61)
+- 2026-05-04 | `adalk-ce336685` | මගී ප්‍රවාහන නෞකාවක වෛරසයක් පැතිරි තිදෙනෙක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-adalk-ce336685)
+- 2026-05-04 | `adalk-9f9d8173` | ඝාතනයක් සැලසුම් කළ දෙන්නෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-04-adalk-9f9d8173)
 
 ---
 
