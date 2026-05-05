@@ -170037,6 +170037,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-04-adalk-79b90990",
+    "num": "adalk-79b90990",
+    "date_str": "2026-05-04",
+    "description": "\u0dc0\u0dd3\u0dc3\u0dcf \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0dbb\u0dd0\u0daf\u0dd2 \u0dc3\u0dd2\u0da7\u0dd2 \u0dc0\u0dd2\u0daf\u0dda\u0dc1\u0dd2\u0d9a\u0dba\u0db1\u0dca 50\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd3\u0dc3\u0dcf-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0dbb\u0dd0\u0daf\u0dd2-\u0dc3\u0dd2\u0da7\u0dd2-\u0dc0\u0dd2\u0daf\u0dda\u0dc1\u0dd2\u0d9a\u0dba\u0db1\u0dca-50\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-422297",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1777906523.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-04-tamilmirrorlk-7ed48781",
     "num": "tamilmirrorlk-7ed48781",
     "date_str": "2026-05-04",
@@ -170290,6 +170301,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-05-tamilmirrorlk-8cf47b03",
+    "num": "tamilmirrorlk-8cf47b03",
+    "date_str": "2026-05-05",
+    "description": "\u2019\u0bb0\u0b99\u0bcd\u0b95 \u0ba8\u0bbf\u0bb7\u0bbe\u0ba8\u0bcd\u0ba4\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bb0\u0ba3\u0baa\u0bcd \u0baa\u0bb0\u0bbf\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8 \u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0b99\u0bcd\u0b95-\u0ba8\u0bbf\u0bb7\u0bbe\u0ba8\u0bcd\u0ba4\u0bb5\u0bbf\u0ba9\u0bcd-\u0bae\u0bb0\u0ba3\u0baa\u0bcd-\u0baa\u0bb0\u0bbf\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8-\u0b85\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0bae\u0bcd/175-376612",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777932590.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-tamilmirrorlk-7b6ee00d",
+    "num": "tamilmirrorlk-7b6ee00d",
+    "date_str": "2026-05-05",
+    "description": "\u0bb5\u0bbf\u0b9c\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b9c\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bbe\u0bae\u0bb2\u0bcd-\u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1/175-376613",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777933255.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-05-virakesarilk-00964e29",
     "num": "virakesarilk-00964e29",
     "date_str": "2026-05-05",
@@ -170298,6 +170331,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1777933860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-tamilmirrorlk-6f2e4000",
+    "num": "tamilmirrorlk-6f2e4000",
+    "date_str": "2026-05-05",
+    "description": "\u0b85\u0bb8\u0bcd\u0bb8\u0bbe\u0bae\u0bbf\u0bb2\u0bcd 3 \u0b86\u0bb5\u0ba4\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95 \u0b8e\u0ba9\u0bcd.\u0b9f\u0bbf.\u0b8f. \u0b86\u0b9f\u0bcd\u0b9a\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb8\u0bcd\u0bb8\u0bbe\u0bae\u0bbf\u0bb2\u0bcd-3-\u0b86\u0bb5\u0ba4\u0bc1-\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbe\u0b95-\u0b8e\u0ba9\u0bcd-\u0b9f\u0bbf-\u0b8f-\u0b86\u0b9f\u0bcd\u0b9a\u0bbf/175-376614",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777934277.0
   },
   {
     "doc_type": "lk_news",
@@ -170320,6 +170364,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1777936500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-adalk-a16151d3",
+    "num": "adalk-a16151d3",
+    "date_str": "2026-05-05",
+    "description": "\u0db8\u0dd9\u0dba\u0dcf \u0d9c\u0dd0\u0db1 \u0daf\u0db1\u0dca\u0db1\u0dc0\u0db1\u0db8\u0dca \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd9\u0dba\u0dcf-\u0d9c\u0dd0\u0db1-\u0daf\u0db1\u0dca\u0db1\u0dc0\u0db1\u0db8\u0dca-\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7-\u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1/11-422299",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1777939737.0
   },
   {
     "doc_type": "lk_news",
@@ -170430,5 +170485,82 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1777942200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-dailyftlk-59cd8322",
+    "num": "dailyftlk-59cd8322",
+    "date_str": "2026-05-05",
+    "description": "Tribute to Late Professor Abeysekara",
+    "url_metadata": "https://www.ft.lk/columns/Tribute-to-Late-Professor-Abeysekara/4-791447",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777942482.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-dailyftlk-ff6c302e",
+    "num": "dailyftlk-ff6c302e",
+    "date_str": "2026-05-05",
+    "description": "Tribute to Senior Professor Nalin Abeysekera",
+    "url_metadata": "https://www.ft.lk/opinion/Tribute-to-Senior-Professor-Nalin-Abeysekera/14-791448",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777942645.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-dailyftlk-cb1a6a33",
+    "num": "dailyftlk-cb1a6a33",
+    "date_str": "2026-05-05",
+    "description": "A rare political opportunity to reimagine Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/A-rare-political-opportunity-to-reimagine-Sri-Lanka/4-791449",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777943058.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-dailyftlk-83ee3673",
+    "num": "dailyftlk-83ee3673",
+    "date_str": "2026-05-05",
+    "description": "Rs. 13 b lost \u2014  What the Central Bank\u2019s circular really reveals",
+    "url_metadata": "https://www.ft.lk/opinion/Rs-13-b-lost-What-the-Central-Bank-s-circular-really-reveals/14-791450",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777943321.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-dailyftlk-5f868fb3",
+    "num": "dailyftlk-5f868fb3",
+    "date_str": "2026-05-05",
+    "description": "Fuel, fairness,  and the myth of equality",
+    "url_metadata": "https://www.ft.lk/columns/Fuel-fairness-and-the-myth-of-equality/4-791451",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777943641.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-dailyftlk-2d49fddd",
+    "num": "dailyftlk-2d49fddd",
+    "date_str": "2026-05-05",
+    "description": "BASL begins Online Certificate Course in Digital Law",
+    "url_metadata": "https://www.ft.lk/business/BASL-begins-Online-Certificate-Course-in-Digital-Law/34-791452",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777946891.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-dailyftlk-b3b6595d",
+    "num": "dailyftlk-b3b6595d",
+    "date_str": "2026-05-05",
+    "description": "ADB, Japan launch joint initiative to support businesses, strengthen energy security in Asia and Pacific",
+    "url_metadata": "https://www.ft.lk/business/ADB-Japan-launch-joint-initiative-to-support-businesses-strengthen-energy-security-in-Asia-and-Pacific/34-791453",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1777946951.0
   }
 ]
