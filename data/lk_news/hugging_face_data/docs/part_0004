@@ -171489,6 +171489,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-05-virakesarilk-09a429da",
+    "num": "virakesarilk-09a429da",
+    "date_str": "2026-05-05",
+    "description": "\u0b9c\u0bbf\u0bae\u0bcd\u0ba9\u0bbe\u0bb8\u0bcd\u0b9f\u0bbf\u0b95\u0bcd \u0bb5\u0bc0\u0bb0\u0bbe\u0b99\u0bcd\u0b95\u0ba9\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b85\u0ba8\u0bc0\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0b92\u0bb4\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0ba4\u0bbe?  ; \u0baa\u0ba4\u0bcd\u0ba4\u0bb0\u0bae\u0bc1\u0bb2\u0bcd\u0bb2 \u0b9a\u0bc0\u0bb2\u0bb0\u0ba4\u0bcd\u0ba9 \u0ba4\u0bc7\u0bb0\u0bb0\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/245483",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1777994640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-virakesarilk-abe25ae6",
+    "num": "virakesarilk-abe25ae6",
+    "date_str": "2026-05-05",
+    "description": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0b95\u0bbe\u0bb2 \u0b86\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b87\u0ba9\u0bb5\u0bbe\u0ba4 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc8 \u0b87\u0ba8\u0bcd\u0ba4 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bc1\u0bae\u0bcd \u0b95\u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0b95\u0bc2\u0b9f\u0bbe\u0ba4\u0bc1 - \u0b9a\u0bbf\u0bb5\u0b9e\u0bbe\u0ba9\u0bae\u0bcd \u0b9a\u0bbf\u0bb1\u0bc0\u0ba4\u0bb0\u0ba9\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/245495",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1777994700.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-05-tamilmirrorlk-46438164",
     "num": "tamilmirrorlk-46438164",
     "date_str": "2026-05-05",
@@ -171629,5 +171651,49 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1778006520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-06-dailyftlk-da34c836",
+    "num": "dailyftlk-da34c836",
+    "date_str": "2026-05-06",
+    "description": "The Global Walk for Peace:  Sri Lanka\u2019s chance to lead the world away from the scourge of war",
+    "url_metadata": "https://www.ft.lk/opinion/The-Global-Walk-for-Peace-Sri-Lanka-s-chance-to-lead-the-world-away-from-the-scourge-of-war/14-791489",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778006581.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-06-dailyftlk-36187dc5",
+    "num": "dailyftlk-36187dc5",
+    "date_str": "2026-05-06",
+    "description": "Should digital sense be priority in Sri Lanka\u2019s digital transformation journey?",
+    "url_metadata": "https://www.ft.lk/columns/Should-digital-sense-be-priority-in-Sri-Lanka-s-digital-transformation-journey/4-791494",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778010113.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-06-dailyftlk-17e1731a",
+    "num": "dailyftlk-17e1731a",
+    "date_str": "2026-05-06",
+    "description": "AI ambitions need a strong Data Governance foundation",
+    "url_metadata": "https://www.ft.lk/columns/AI-ambitions-need-a-strong-Data-Governance-foundation/4-791495",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778010381.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-06-dailyftlk-8a659dd4",
+    "num": "dailyftlk-8a659dd4",
+    "date_str": "2026-05-06",
+    "description": "Enthroning impunity, again?",
+    "url_metadata": "https://www.ft.lk/columns/Enthroning-impunity-again/4-791500",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778011384.0
   }
 ]

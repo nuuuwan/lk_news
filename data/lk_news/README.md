@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--06_00:18:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--06_02:10:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**111,961** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**111,967** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-06-virakesarilk-8f19e589",
-    "num": "virakesarilk-8f19e589",
+    "doc_id": "2026-05-06-dailyftlk-8a659dd4",
+    "num": "dailyftlk-8a659dd4",
     "date_str": "2026-05-06",
-    "description": "\u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0b9a\u0bcd \u0b9a\u0bc0\u0bb0\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd: 2027\u0bb2\u0bcd \u0ba4\u0bb0\u0bae\u0bcd 6\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u2013 \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/245512",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1778006520.0
+    "description": "Enthroning impunity, again?",
+    "url_metadata": "https://www.ft.lk/columns/Enthroning-impunity-again/4-791500",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778011384.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-06 | `dailyftlk-8a659dd4` | Enthroning impunity, again? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-dailyftlk-8a659dd4)
+- 2026-05-06 | `dailyftlk-17e1731a` | AI ambitions need a strong Data Governance foundation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-dailyftlk-17e1731a)
+- 2026-05-06 | `dailyftlk-36187dc5` | Should digital sense be priority in Sri Lanka’s digital transformation journey? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-dailyftlk-36187dc5)
+- 2026-05-06 | `dailyftlk-da34c836` | The Global Walk for Peace:  Sri Lanka’s chance to lead the world away from the scourge of war | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-dailyftlk-da34c836)
 - 2026-05-06 | `virakesarilk-8f19e589` | கல்விச் சீர்திருத்தங்கள் முன்னேற்றம்: 2027ல் தரம் 6க்கு புதிய மாற்றங்கள் – பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-virakesarilk-8f19e589)
 - 2026-05-06 | `dailyftlk-9139bfa1` | Merit, Integrity, and the future of Sri Lanka Cricket | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-dailyftlk-9139bfa1)
 - 2026-05-06 | `virakesarilk-a80dcb1b` | $2.5 மில்லியன் மோசடி: சந்தேக மின்னஞ்சல் மூலம் வெளிச்சம் – அமைச்சர் விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-virakesarilk-a80dcb1b)
@@ -54,13 +58,9 @@ A collection of lk_news documents.
 - 2026-05-05 | `tamilmirrorlk-e2fe433d` | துப்பாக்கி ரவைகளுடன் சிறுத்தை, புள்ளிமான் தோல் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-05-tamilmirrorlk-e2fe433d)
 - 2026-05-05 | `virakesarilk-853fea0a` | இலங்கையுடனான நட்பு மிகவும் பரந்து விரிந்தது ; பொதுவான நோக்கம் கொண்டது - மாலைதீவு ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-05-virakesarilk-853fea0a)
 - 2026-05-05 | `tamilmirrorlk-46438164` | குடும்பஸ்தர் ஒருவரின் சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-05-tamilmirrorlk-46438164)
+- 2026-05-05 | `virakesarilk-abe25ae6` | கடந்த கால ஆட்சியின் இனவாத போக்கை இந்த அரசாங்கமும் கடைப்பிடிக்க கூடாது - சிவஞானம் சிறீதரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-05-virakesarilk-abe25ae6)
+- 2026-05-05 | `virakesarilk-09a429da` | ஜிம்னாஸ்டிக் வீராங்கனைகளுக்கு இழைக்கப்படும் அநீதிக்கு எதிராக அமைச்சின் செயலாளர் ஒழிந்துகொள்வதா?  ; பத்தரமுல்ல சீலரத்ன தேரர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-05-virakesarilk-09a429da)
 - 2026-05-05 | `tamilmirrorlk-282037d6` | செம்மணியில் சர்ச்சைக்குரிய சவப்பெட்டி அகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-05-tamilmirrorlk-282037d6)
-- 2026-05-05 | `virakesarilk-e1b0ab1c` | தமிழக முதலமைச்சராகப் பதவியேற்கவுள்ள விஜய்க்கு தமிழ்த் தேசியக் கட்சிகளின் பிரதிநிதிகள் வாழ்த்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-05-virakesarilk-e1b0ab1c)
-- 2026-05-05 | `virakesarilk-648d4980` | ஆழியவளையில் வீடு புகுந்து இளைஞர் மீது தாக்குதல் ; உடமைகள் சேதம் ; சந்தேக நபர்கள் குறித்து விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-05-virakesarilk-648d4980)
-- 2026-05-05 | `virakesarilk-c580d198` | சர்வதேச திரைப்பட விழாவில் திரையிடப்படும் 'பாலன் தி பாய்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-05-virakesarilk-c580d198)
-- 2026-05-05 | `tamilmirrorlk-9df81ee5` | நீலகாமம்  சம்பவத்துக்கு ஐந்துலாம்பு சந்தியில் எதிர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-05-tamilmirrorlk-9df81ee5)
-- 2026-05-05 | `virakesarilk-bf9957eb` | வளிமண்டலத்தில் தளம்பல்: மழை வீழ்ச்சி அதிகரிக்கும் சாத்தியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-05-virakesarilk-bf9957eb)
-- 2026-05-05 | `virakesarilk-afc466aa` | ஜனாதிபதி என்ன நடவடிக்கை மேற்கொண்டாலும் அரசாங்கத்தின் மோசடிகளை மறைப்பதற்கு நாங்கள் ஒருபோதும் இடமளிக்கப்போவதில்லை ;  நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-05-virakesarilk-afc466aa)
 
 ---
 
