@@ -170972,6 +170972,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-05-adalk-bc28ff57",
+    "num": "adalk-bc28ff57",
+    "date_str": "2026-05-05",
+    "description": "6\u0daf\u0dcf \u0dc3\u0dd2\u0da7 \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/6\u0daf\u0dcf-\u0dc3\u0dd2\u0da7-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/11-422313",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1777971615.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-05-virakesarilk-742094ba",
     "num": "virakesarilk-742094ba",
     "date_str": "2026-05-05",
@@ -170983,6 +170994,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-05-colombotelegraphcom-2ddbcd5f",
+    "num": "colombotelegraphcom-2ddbcd5f",
+    "date_str": "2026-05-05",
+    "description": "When The Broom Meets The Mud: Anti-Corruption Mandates, Political Fragility & The Lessons Sri Lanka Must Learn From India\u2019s AAP",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/when-the-broom-meets-the-mud-anti-corruption-mandates-political-fragility-the-lessons-sri-lanka-must-learn-from-indias-aap/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1777972091.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-05-virakesarilk-2ae61110",
     "num": "virakesarilk-2ae61110",
     "date_str": "2026-05-05",
@@ -170991,6 +171013,28 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1777972140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-adalk-360e3d16",
+    "num": "adalk-360e3d16",
+    "date_str": "2026-05-05",
+    "description": "\u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dc0\u0dd0\u0dbd\u0dd2 \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7 \u0d89\u0da9\u0db8\u0dca \u0dbd\u0db6\u0dcf \u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dc0\u0dd0\u0dbd\u0dd2-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7-\u0d89\u0da9\u0db8\u0dca-\u0dbd\u0db6\u0dcf-\u0d85\u0db1\u0dd4\u0db8\u0dd0\u0dad\u0dd2\u0dba/11-422314",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1777972356.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-adalk-31b11162",
+    "num": "adalk-31b11162",
+    "date_str": "2026-05-05",
+    "description": "\u0d9a\u0dd0\u0dc5\u0dab\u0dd2 \u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba \u0dbd\u0ddc\u0d9a\u0dd4 \u0db4\u0dd2\u0db8\u0dca\u0db8\u0d9a\u0dca \u0db4\u0db1\u0dd2\u0db1\u0dca\u0db1 \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd0\u0dc5\u0dab\u0dd2-\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba-\u0dbd\u0ddc\u0d9a\u0dd4-\u0db4\u0dd2\u0db8\u0dca\u0db8\u0d9a\u0dca-\u0db4\u0db1\u0dd2\u0db1\u0dca\u0db1-\u0dba\u0dba\u0dd2/11-422315",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1777972515.0
   },
   {
     "doc_type": "lk_news",
@@ -171079,6 +171123,17 @@ ews",
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1777974096.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-adalk-4d37ebf7",
+    "num": "adalk-4d37ebf7",
+    "date_str": "2026-05-05",
+    "description": "\u0dba\u0dcf\u0db4\u0db1\u0dba \u0dad\u0db8\u0dd2\u0dbd\u0dca\u0db1\u0dcf\u0da9\u0dd4\u0dc0\u0da7 ?",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0dcf\u0db4\u0db1\u0dba-\u0dad\u0db8\u0dd2\u0dbd\u0dca\u0db1\u0dcf\u0da9\u0dd4\u0dc0\u0da7--/11-422318",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1777974925.0
   },
   {
     "doc_type": "lk_news",
@@ -171178,6 +171233,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1777978502.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-colombotelegraphcom-838b58fb",
+    "num": "colombotelegraphcom-838b58fb",
+    "date_str": "2026-05-05",
+    "description": "Suriya, Friend & Comrade",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/suriya-friend-comrade/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1777979022.0
   },
   {
     "doc_type": "lk_news",
@@ -171299,5 +171365,38 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1777984500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-tamilmirrorlk-282037d6",
+    "num": "tamilmirrorlk-282037d6",
+    "date_str": "2026-05-05",
+    "description": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bbf\u0baf \u0b9a\u0bb5\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf \u0b85\u0b95\u0bb4\u0bcd\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb0\u0bbf\u0baf-\u0b9a\u0bb5\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf-\u0b85\u0b95\u0bb4\u0bcd\u0bb5\u0bc1/71-376662",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777994459.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-tamilmirrorlk-46438164",
+    "num": "tamilmirrorlk-46438164",
+    "date_str": "2026-05-05",
+    "description": "\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0bb8\u0bcd\u0ba4\u0bb0\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-376663",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777995338.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-05-tamilmirrorlk-e2fe433d",
+    "num": "tamilmirrorlk-e2fe433d",
+    "date_str": "2026-05-05",
+    "description": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0bb0\u0bb5\u0bc8\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8, \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0bae\u0bbe\u0ba9\u0bcd \u0ba4\u0bcb\u0bb2\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf-\u0bb0\u0bb5\u0bc8\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8-\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0bae\u0bbe\u0ba9\u0bcd-\u0ba4\u0bcb\u0bb2\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-376664",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1777996340.0
   }
 ]
