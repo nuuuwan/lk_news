@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--07_16:29:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--07_18:32:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**112,219** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**112,220** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -49,6 +49,7 @@ A collection of lk_news documents.
 - 2026-05-07 | `virakesarilk-f1cba681` | ஜோதிகா - சோனாக்ஷி சின்கா இணைந்து மிரட்டும் 'சிஸ்டம்' படத்தின் வெளியீட்டு திகதி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-virakesarilk-f1cba681)
 - 2026-05-07 | `virakesarilk-726e29af` | தையிட்டி போராட்டக்காரர்களுக்கு எதிரான வழக்கு ; செப்டெம்பர் 09 க்கு திகதியிடப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-virakesarilk-726e29af)
 - 2026-05-07 | `tamilmirrorlk-89ce0514` | தொழிலாளியை தாக்கிய உதவி முகாமையாளருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-89ce0514)
+- 2026-05-07 | `adalk-6ac55d72` | මත්පැන් සාදය මරණයකින් කෙළවර වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-adalk-6ac55d72)
 - 2026-05-07 | `virakesarilk-6f38816e` | ஹமாஸின் முக்கிய பேச்சாளரின் மகன் இஸ்ரேலியத் தாக்குதலில் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-virakesarilk-6f38816e)
 - 2026-05-07 | `adalk-3182767b` | ලංකාවෙන් වසරකට අලුත් තැලිසීමියා රෝගී දරුවන් 60ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-adalk-3182767b)
 - 2026-05-07 | `tamilmirrorlk-23be3a1e` | “40 நாடுகளுக்கு விசா இலவசம்” : அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-23be3a1e)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-05-07 | `virakesarilk-bedd8426` | நடிகர் தேஜஷ் ராஜன் நடிக்கும் 'அமரம்' படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-virakesarilk-bedd8426)
 - 2026-05-07 | `tamilmirrorlk-03a41c08` | கஞ்சா சேனை முற்றுகை : மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-03a41c08)
 - 2026-05-07 | `tamilmirrorlk-998dad41` | கல்முனை,சாய்ந்தமருது தேர்தலை நடத்த உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-998dad41)
-- 2026-05-07 | `virakesarilk-97b49f89` | விஜய் ஆட்சி அமைக்க ஆளுநர் மீண்டும் மறுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-virakesarilk-97b49f89)
 
 ---
 
