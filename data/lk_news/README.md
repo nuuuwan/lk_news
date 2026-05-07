@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--07_20:42:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--07_22:22:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**112,225** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**112,228** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-07-tamilmirrorlk-066b4e6f",
-    "num": "tamilmirrorlk-066b4e6f",
+    "doc_id": "2026-05-07-tamilmirrorlk-2c912cfa",
+    "num": "tamilmirrorlk-2c912cfa",
     "date_str": "2026-05-07",
-    "description": "\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0baa\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bc2\u0ba4\u0bbe\u0b9f\u0bbf\u0baf \u0b95\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0baa\u0bbf\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0baa\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc2\u0ba4\u0bbe\u0b9f\u0bbf\u0baf-\u0b95\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0baa\u0bbf\u0bb3\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-376806",
+    "description": "\u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bc8 \u0b85\u0bb5\u0bae\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4 \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a-\u0b9a\u0baa\u0bc8-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bc8-\u0b85\u0bb5\u0bae\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4-\u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd/175-376809",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1778166027.0
+    "time_ut": 1778168570.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-07 | `tamilmirrorlk-2c912cfa` | பிரதேச சபை உறுப்பினரை அவமதித்த உத்தியோகத்தர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-2c912cfa)
+- 2026-05-07 | `tamilmirrorlk-45becf23` | பதுளையில் கடும் மழை ; மண்சரிவு மற்றும் வெள்ள அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-45becf23)
+- 2026-05-07 | `tamilmirrorlk-a34241ed` | இரு ஆண்களின் சடலங்கள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-a34241ed)
 - 2026-05-07 | `tamilmirrorlk-066b4e6f` | பொலிஸ் பணத்தில் சூதாடிய கான்ஸ்டபிள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-066b4e6f)
 - 2026-05-07 | `tamilmirrorlk-d2ace6fa` | இருவர் சடலங்களாக மீட்பு: சின்ன உப்போடையில் பரபரப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-d2ace6fa)
 - 2026-05-07 | `virakesarilk-2045d93f` | அவுஸ்திரேலியாவில் வேலைவாய்ப்பு பெற்று தருவதாக கூறி மோசடி; போலி வைத்தியர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-virakesarilk-2045d93f)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-05-07 | `adalk-3182767b` | ලංකාවෙන් වසරකට අලුත් තැලිසීමියා රෝගී දරුවන් 60ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-adalk-3182767b)
 - 2026-05-07 | `tamilmirrorlk-23be3a1e` | “40 நாடுகளுக்கு விசா இலவசம்” : அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-23be3a1e)
 - 2026-05-07 | `tamilmirrorlk-1a6dcea5` | தமிழ்மிரரின் புதிய பரிணாமம்: ’MIRROR AI Summary’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-1a6dcea5)
-- 2026-05-07 | `virakesarilk-fb4fd04d` | தெனியாயவில் 04 பாடசாலைகள் மூடப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-virakesarilk-fb4fd04d)
-- 2026-05-07 | `virakesarilk-465ee80a` | நடிகராக அறிமுகமாகும் இயக்குநர் பட்டியலில் இணைந்த பிரசாந்த் பாண்டியராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-virakesarilk-465ee80a)
-- 2026-05-07 | `virakesarilk-bcbbbb6e` | ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனத்தின் முன்னாள் பிரதம நிறைவேற்று அதிகாரி கபில சந்திரசேனவை கைது செய்ய உத்தரவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-virakesarilk-bcbbbb6e)
 
 ---
 
