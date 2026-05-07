@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--07_04:02:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--07_06:31:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**112,094** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**112,132** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-07-tamilmirrorlk-a0d3c3f8",
-    "num": "tamilmirrorlk-a0d3c3f8",
+    "doc_id": "2026-05-07-dailyftlk-ea6734ad",
+    "num": "dailyftlk-ea6734ad",
     "date_str": "2026-05-07",
-    "description": "\u2019\u0ba4\u0bca\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bc8 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bca\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bc8-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/175-376731",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1778105679.0
+    "description": "Trial against former Energy Minister Jayakody on 17 June",
+    "url_metadata": "https://www.ft.lk/news/Trial-against-former-Energy-Minister-Jayakody-on-17-June/56-791571",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778115363.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-05-07 | `tamilmirrorlk-a0d3c3f8` | ’தொப்பியை போட்டுக்கொள்ளட்டும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-a0d3c3f8)
-- 2026-05-07 | `tamilmirrorlk-f0288986` | ‘மே’ இல்லாதவர்களுக்கு பேசத் தகுதியில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-f0288986)
-- 2026-05-07 | `tamilmirrorlk-8a10d8e2` | லாஃப்ஸ் சமையல் எரிவாயு விலை உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-8a10d8e2)
-- 2026-05-06 | `tamilmirrorlk-69c35de3` | 10 வயது சிறுமியிடம் அத்துமீறிய தவெக நிர்வாகி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-tamilmirrorlk-69c35de3)
-- 2026-05-06 | `tamilmirrorlk-77b69f3b` | தங்கை இறந்த அதிர்ச்சியில் அக்காவும் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-tamilmirrorlk-77b69f3b)
-- 2026-05-06 | `tamilmirrorlk-67457b27` | ’’மலையக ரயில் பாதை புனரமைப்பு பணிகள் இறுதிக்கட்டத்தில்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-tamilmirrorlk-67457b27)
-- 2026-05-06 | `tamilmirrorlk-f448d866` | தங்கம் தருவதாகக் கூறி பணம் மோசடி: சகோதரர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-tamilmirrorlk-f448d866)
-- 2026-05-06 | `tamilmirrorlk-9727842f` | வெளிநாட்டு இராஜதந்திரிகளுடன் சிவில் அமைப்புகள் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-tamilmirrorlk-9727842f)
-- 2026-05-06 | `tamilmirrorlk-e1cacfc0` | “விஜய் கச்சத்தீவை கேட்பார்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-tamilmirrorlk-e1cacfc0)
-- 2026-05-06 | `virakesarilk-b5ecfe12` | உலக வங்கி பிரதிநிதிகளுக்கும் ஜனாதிபதியின் செயலாளருக்கும் இடையில் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-virakesarilk-b5ecfe12)
-- 2026-05-06 | `virakesarilk-3e95e47b` | பழைய தேர்தல் முறை குறித்து ஆராய செயற்குழு கூடுகிறது ; எல்லை நிர்ணய அறிக்கையும் சமர்ப்பிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-virakesarilk-3e95e47b)
-- 2026-05-06 | `virakesarilk-9d665f8d` | திறைசேரியின் முன்னாள் அதிகாரி  ரங்க ராஜபக்ஷவின் மரணம் : அரச உத்தியோகத்தர்கள் உண்மையை மறைக்க முயற்சி ; விசாரணைகள் மீது நம்பிக்கையில்லை - முஜிபுர் ரஹ்மான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-virakesarilk-9d665f8d)
-- 2026-05-06 | `virakesarilk-264d8142` | ஆதாரத்துடனேயே ரங்க ராஜபக்ஷவின் மரணம் குறித்துப் பேசினேன் : பொலிஸ் நிலையத்தில் சாட்சியங்களுடன் முன்னிலையாகத் தயார் - பொலிஸ் ஊடகப் பேச்சாளருக்கு உதய கம்மன்பில பதில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-virakesarilk-264d8142)
-- 2026-05-06 | `virakesarilk-50688a16` | ஐ.ம.சஇன் கொழும்பு மாவட்ட அமைப்பாளராக உமா சந்திரபிரகாஷ் நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-virakesarilk-50688a16)
-- 2026-05-06 | `virakesarilk-42d5b990` | இலங்கை - கொரிய இணைத் தலைமையில் பொருளாதார மேம்பாட்டு ஒத்துழைப்பு உரையாடல் - கடன்மறுசீரமைப்பு ஒப்பந்தங்களும் பரிமாற்றப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-virakesarilk-42d5b990)
-- 2026-05-06 | `virakesarilk-c519dfd7` | அமெரிக்காவுக்கு  அனுப்பிய 6 இலட்சம் டொலர் மாயம் - தபால் திணைக்களத்தில் சி.ஐ.டி விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-virakesarilk-c519dfd7)
-- 2026-05-06 | `virakesarilk-ce0ffd99` | முள்ளிவாய்க்கால் தமிழினப் படுகொலைக்கு பன்னாடுகளிடம் நீதி கோரல் : உயிர்நீத்தவர்களுக்கு  ரவிகரன் சபையில் அஞ்சலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-virakesarilk-ce0ffd99)
-- 2026-05-06 | `virakesarilk-7d2610f4` | கிழக்கு மாகாணத்தில் இந்திய அரசின் நிதி உதவியுடன் 6 பாரிய திட்டங்கள் ஆரம்பம் : 2.37 பில்லியன் ரூபா ஒதுக்கீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-virakesarilk-7d2610f4)
-- 2026-05-06 | `virakesarilk-e18d2c2b` | சிவ கார்த்திகேயனுடன் இணைந்த பாக்யஸ்ரீ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-virakesarilk-e18d2c2b)
-- 2026-05-06 | `virakesarilk-a9f2d127` | மெகசின் சிறைச்சாலை கைதி உயிரிழப்பு - கைதான 3 அதிகாரிகளும் அடையாள அணிவகுப்பில்  அடையாளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-06-virakesarilk-a9f2d127)
+- 2026-05-07 | `dailyftlk-ea6734ad` | Trial against former Energy Minister Jayakody on 17 June | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-ea6734ad)
+- 2026-05-07 | `dailyftlk-1b961708` | Accessibility Audit Report handed to Labour Ministry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-1b961708)
+- 2026-05-07 | `dailyftlk-905398aa` | SL, Indian CEOs explore investments in fintech, manufacturing and tech corridor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-905398aa)
+- 2026-05-07 | `dailyftlk-c555cbb6` | Sri Lanka Customs revenue surges 30.5% above April target | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-c555cbb6)
+- 2026-05-07 | `dailyftlk-f150c571` | Wimal Liyanagama  appointed Sri Lanka  Customs Director General | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-f150c571)
+- 2026-05-07 | `dailyftlk-30b36a2a` | Trillium starts work on new 7-storey  office complex | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-30b36a2a)
+- 2026-05-07 | `dailyftlk-ca53b790` | Cabinet approves nearly Rs. 1.5 b vehicle procurement for Wildlife Department | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-ca53b790)
+- 2026-05-07 | `dailyftlk-59df81a4` | GCF-SLEA public lecture on  ‘Sri Lanka’s Current Macroeconomic Policy Directions in the Context of Global Volatility’ tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-59df81a4)
+- 2026-05-07 | `dailyftlk-8e772222` | ADB to mobilise $ 50 b to turn regional connectivity into action | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-8e772222)
+- 2026-05-07 | `dailyftlk-8297959a` | Japan to host 60th ADB Annual Meeting in 2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-8297959a)
+- 2026-05-07 | `dailyftlk-8d3c6b1d` | Sri Lanka and Australia partner FAO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-8d3c6b1d)
+- 2026-05-07 | `dailyftlk-7cf8a3ef` | Sri Lanka Japan Business Council forum dissects how to tap Japan’s $60 b market potential | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-7cf8a3ef)
+- 2026-05-07 | `dailyftlk-be23d972` | Political picture clears: Sajith’s social democratic centrism emerges, SJB impacts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-be23d972)
+- 2026-05-07 | `dailyftlk-6ea6d14a` | Palm oil is a necessity; the real challenge is making it sustainable | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-6ea6d14a)
+- 2026-05-07 | `tamilmirrorlk-af447538` | விஜய்யின் பதவியேற்பு இன்று நடைபெறாது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-af447538)
+- 2026-05-07 | `dailyftlk-193fa56e` | Beyond symbolic governance: The accountability illusion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-193fa56e)
+- 2026-05-07 | `dailyftlk-f65784d5` | Where banking fraud hides | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-f65784d5)
+- 2026-05-07 | `dailyftlk-b6d3e149` | The real enemy is already logged in.  A wake-up call for Sri Lanka’s boardrooms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-b6d3e149)
+- 2026-05-07 | `dailyftlk-8aaecbcb` | Governance and Financial Reporting Implications – NDB PLC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-dailyftlk-8aaecbcb)
+- 2026-05-07 | `tamilmirrorlk-25ac1f6f` | ’தந்தை செல்வாவைப் போன்று விஜய்யை ஏற்ற  தமிழக மக்கள்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-25ac1f6f)
 
 ---
 
