@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--08_00:20:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--08_02:12:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**112,229** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**112,230** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2026-05-07 | `tamilmirrorlk-45becf23` | பதுளையில் கடும் மழை ; மண்சரிவு மற்றும் வெள்ள அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-45becf23)
 - 2026-05-07 | `tamilmirrorlk-a34241ed` | இரு ஆண்களின் சடலங்கள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-a34241ed)
 - 2026-05-07 | `tamilmirrorlk-066b4e6f` | பொலிஸ் பணத்தில் சூதாடிய கான்ஸ்டபிள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-066b4e6f)
+- 2026-05-07 | `colombotelegraphcom-60f44de6` | Brown Sahib Goes To Town! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-colombotelegraphcom-60f44de6)
 - 2026-05-07 | `tamilmirrorlk-d2ace6fa` | இருவர் சடலங்களாக மீட்பு: சின்ன உப்போடையில் பரபரப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-d2ace6fa)
 - 2026-05-07 | `virakesarilk-2045d93f` | அவுஸ்திரேலியாவில் வேலைவாய்ப்பு பெற்று தருவதாக கூறி மோசடி; போலி வைத்தியர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-virakesarilk-2045d93f)
 - 2026-05-07 | `virakesarilk-e07d066c` | தோட்டத் தொழிலாளர்கள் மீதான வன்முறைச் சம்பவங்கள் : சபையில் சஜித் கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-virakesarilk-e07d066c)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-05-07 | `adalk-6ac55d72` | මත්පැන් සාදය මරණයකින් කෙළවර වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-adalk-6ac55d72)
 - 2026-05-07 | `virakesarilk-6f38816e` | ஹமாஸின் முக்கிய பேச்சாளரின் மகன் இஸ்ரேலியத் தாக்குதலில் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-virakesarilk-6f38816e)
 - 2026-05-07 | `adalk-3182767b` | ලංකාවෙන් වසරකට අලුත් තැලිසීමියා රෝගී දරුවන් 60ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-adalk-3182767b)
-- 2026-05-07 | `tamilmirrorlk-23be3a1e` | “40 நாடுகளுக்கு விசா இலவசம்” : அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-07-tamilmirrorlk-23be3a1e)
 
 ---
 
