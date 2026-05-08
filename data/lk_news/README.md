@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--08_14:20:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--08_16:18:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**112,301** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**112,331** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-08-tamilmirrorlk-7888b7e9",
-    "num": "tamilmirrorlk-7888b7e9",
+    "doc_id": "2026-05-08-virakesarilk-89ceb6fe",
+    "num": "virakesarilk-89ceb6fe",
     "date_str": "2026-05-08",
-    "description": "\u0b85\u0bb0\u0bb5\u0bbf\u0ba8\u0bcd\u0ba4\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc7 \u0b95\u0baa\u0bbf\u0bb2 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0b9a\u0bc7\u0ba9 \u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b85\u0bb0\u0bb5\u0bbf\u0ba8\u0bcd\u0ba4\u0bb5\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc7-\u0b95\u0baa\u0bbf\u0bb2-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0b9a\u0bc7\u0ba9-\u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/150-376836",
+    "description": "\u0b95\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bb2\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/245797",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1778224878.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1778236680.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-05-08 | `tamilmirrorlk-7888b7e9` | அரவிந்தவின் வீட்டில் இருந்தே கபில சந்திரசேன சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-7888b7e9)
-- 2026-05-08 | `tamilmirrorlk-a08ce143` | பிபா (FIFA) 2026: இலங்கை ரசிகர்களுக்கான முழுமையான வழிகாட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-a08ce143)
-- 2026-05-08 | `tamilmirrorlk-e4d50570` | இலங்கை - வியட்நாம் இடையே 05  புரிந்துணர்வு ஒப்பந்தங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-e4d50570)
-- 2026-05-08 | `adalk-c5ba937b` | ලංකා වාණිජ මණ්ඩලයෙන් ඛනිජ වැලි තාක්ෂණික සමුළුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-adalk-c5ba937b)
-- 2026-05-08 | `adalk-4c2c6cae` | රාජාංගනය ශ්‍රද්ධාරතන හිමි අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-adalk-4c2c6cae)
-- 2026-05-08 | `adalk-1c560c5d` | එළවළු මිළ යළිත් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-adalk-1c560c5d)
-- 2026-05-08 | `adalk-6c090d90` | ශ්‍රී ලංකන් හිටපු ප්‍රධාන විධායක නිලධාරි කපිල චන්ද්‍රසේන දිවි නසා ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-adalk-6c090d90)
-- 2026-05-08 | `tamilmirrorlk-be56a436` | வியட்நாம் ஜனாதிபதிக்கு   மகத்தான வரவேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-be56a436)
-- 2026-05-08 | `tamilmirrorlk-69075e53` | கட்டுநாயக்கவில் நியூசிலாந்து மகளிர் ’A’ கிரிக்கெட் அணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-69075e53)
-- 2026-05-08 | `tamilmirrorlk-39ffb7b5` | விவசாயிடம் கைத்துப்பாக்கி: வௌியான அதிர்ச்சி தகவல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-39ffb7b5)
-- 2026-05-08 | `tamilmirrorlk-d094145c` | சிங்க குட்டிகளை பார்க்க வாருங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-d094145c)
-- 2026-05-08 | `tamilmirrorlk-23acf065` | மாணவிகளின் நடனத்தை தாங்காது இடிந்த கட்டிடம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-23acf065)
-- 2026-05-08 | `tamilmirrorlk-ef33c6eb` | தெனியாயவில் வைரஸ்: பல பாடசாலைகள் மூடப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-ef33c6eb)
-- 2026-05-08 | `tamilmirrorlk-24c5c895` | மிரட்டல் விடுத்த குற்றச்சாட்டு: ரஜங்கனே சத்தாரத்தன தேரர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-24c5c895)
-- 2026-05-08 | `tamilmirrorlk-0a29d40b` | மிரட்டல் விடுத்த குற்றச்சாட்டு: ராஜங்கனே சத்தாரத்தன தேரர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-0a29d40b)
-- 2026-05-08 | `tamilmirrorlk-cbcdb73a` | திருடிய வாகனத்திலேயே தப்பிச் சென்ற திருடர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-cbcdb73a)
-- 2026-05-08 | `tamilmirrorlk-94a59bec` | SriLankan Airlines முன்னாள் CEO உயிர்மாய்ப்பு? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-94a59bec)
-- 2026-05-08 | `tamilmirrorlk-958f788c` | விஜய்யின் 108 பேரும் கூண்டோடு ராஜினாமா செய்ய திட்டம்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-958f788c)
-- 2026-05-08 | `tamilmirrorlk-11b1fa83` | மழை அடுத்த சில நாட்களுக்கு தொடரும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-11b1fa83)
-- 2026-05-08 | `adalk-07e5e75a` | පරිගණක අපරාධවලට සැක චීන හා වියට්නාම ජාතිකයන් 30ක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-adalk-07e5e75a)
+- 2026-05-08 | `virakesarilk-89ceb6fe` | கடும் மின்னல் தாக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-89ceb6fe)
+- 2026-05-08 | `virakesarilk-671b9acf` | இலங்கை - வியட்நாம் நல்லுறவின் புதிய சங்கமம் புதிய கோணத்துக்கு பிரவேசம் - பாராளுமன்றத்தில் வியட்நாம் ஜனாதிபதி உரை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-671b9acf)
+- 2026-05-08 | `tamilmirrorlk-b238a7a0` | விஜய்க்கு மற்றுமொரு கட்சி ஆதரவு : அதிகரிக்கும் எண்ணிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-b238a7a0)
+- 2026-05-08 | `virakesarilk-f3ad2783` | போதைப்பொருள் வர்த்தகம் மூலம் ஈட்டப்பட்ட 7 கோடி பெறுமதியான இரு சொகுசு பேருந்துகள் முடக்கம் ; ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-f3ad2783)
+- 2026-05-08 | `tamilmirrorlk-d452f499` | ’பேய்’ மதுவை குடித்த ’நிஜப் பேய்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-d452f499)
+- 2026-05-08 | `virakesarilk-60eea839` | கபில சந்திரசேனவின் மரணம் தொடர்பில் கொள்ளுப்பிட்டி பொலிஸார் நீதிமன்றத்திற்கு அறிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-60eea839)
+- 2026-05-08 | `tamilmirrorlk-6f38548b` | என்னடா இங்க நடக்குது… | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-6f38548b)
+- 2026-05-08 | `virakesarilk-6f5bdc59` | யோஷித்த ராஜபக்ஷவுக்கு எதிரான வழக்கு: ஆரம்பகட்ட ஆட்சேபனை மீதான கட்டளை எதிர்வரும் 14ஆம் திகதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-6f5bdc59)
+- 2026-05-08 | `virakesarilk-01a5df9c` | பனைவளம் எமது அடையாளம், வாழ்வாதாரம் - பிரதி அமைச்சர் சுந்தரலிங்கம் பிரதீப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-01a5df9c)
+- 2026-05-08 | `tamilmirrorlk-78e1ab51` | ஹோ சி மின் உருவச்சிலைக்கு  மலரஞ்சலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-78e1ab51)
+- 2026-05-08 | `virakesarilk-eeb94bfa` | இலங்கையின் மிகப்பெரிய வர்த்தகப் பங்காளியாக இந்தியா தொடர்கிறது - இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-eeb94bfa)
+- 2026-05-08 | `virakesarilk-3d442872` | 38 வருடங்களுக்கு பின் நடப்புக் கணக்கில் வரவு அதிகரிப்பு - கோப் குழு தலைவர் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-3d442872)
+- 2026-05-08 | `virakesarilk-65ecfebb` | இந்தோனேசியாவில் எரிமலை வெடிப்பு: 2 சிங்கப்பூரர்கள் உட்பட மூவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-65ecfebb)
+- 2026-05-08 | `adalk-8343854f` | ලංකාවේ සෑම පුද්ගලයන් පහෙන් එක් අයෙකුට බෝ නොවන රෝග | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-adalk-8343854f)
+- 2026-05-08 | `adalk-49aebc42` | අම්බලන්ගොඩ පාසලක සිසුවෙක් ජයටම එළු හා ගව සොරකම් කරලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-adalk-49aebc42)
+- 2026-05-08 | `virakesarilk-81e5e130` | ஸ்ரீலங்கன் ஏர்லைன்ஸ் உத்தியோகபூர்வ தொலைபேசி இலக்கம் மோசடி பட்டியலில் சேர்க்கப்பட்டமை குறித்து பொலிஸார் விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-81e5e130)
+- 2026-05-08 | `virakesarilk-35ddc4ef` | ஏறாவூர் பொலிஸ் நிலையக் காணி அலிகார் தேசியப் பாடசாலைக்கு வழங்கப்பட வேண்டும். - ஹிஸ்புல்லாஹ் எம்.பி. பாராளுமன்றில் கோரிக்கை.! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-35ddc4ef)
+- 2026-05-08 | `tamilmirrorlk-774ed6ef` | சந்தனக் கட்டை திருட்டு: நீதிமன்ற முன்னாள் பதிவாளர் விளக்கமறியலில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-774ed6ef)
+- 2026-05-08 | `virakesarilk-35baab49` | 'துபாய் சுத்தா'வின் போதைப்பொருள் வலையமைப்பு முறியடிப்பு: 07 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-35baab49)
+- 2026-05-08 | `virakesarilk-6cfcc999` | கண்டி இந்திய உதவி உயர்ஸ்தானிகரகத்தில் மே 14 'குறைதீர் திறந்த அமர்வு'-    இந்திய பிரஜைகள், ஓ.சீ.ஐ. அட்டைதாரர்களுக்கு அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-6cfcc999)
 
 ---
 
