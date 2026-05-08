@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-09 00:16:15",
-  "n_docs": 112361,
+  "time_updated": "2026-05-09 02:07:29",
+  "n_docs": 112368,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 112361,
+  "n_docs_with_text": 112368,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-09",
-  "dataset_size": 1742213357,
+  "dataset_size": 1742649187,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-09-dailyftlk-ec29e381",
-    "num": "dailyftlk-ec29e381",
+    "doc_id": "2026-05-09-dailyftlk-c60ad64b",
+    "num": "dailyftlk-c60ad64b",
     "date_str": "2026-05-09",
-    "description": "What the Aragalaya might mean to the NPP today",
-    "url_metadata": "https://www.ft.lk/columns/What-the-Aragalaya-might-mean-to-the-NPP-today/4-791651",
+    "description": "L board Government\u201d on display",
+    "url_metadata": "https://www.ft.lk/columns/L-board-Government-on-display/4-791663",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1778265265.0
+    "time_ut": 1778271450.0
   }
 }

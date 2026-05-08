@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--09_00:17:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--09_02:08:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**112,361** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**112,368** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-09-dailyftlk-ec29e381",
-    "num": "dailyftlk-ec29e381",
+    "doc_id": "2026-05-09-dailyftlk-c60ad64b",
+    "num": "dailyftlk-c60ad64b",
     "date_str": "2026-05-09",
-    "description": "What the Aragalaya might mean to the NPP today",
-    "url_metadata": "https://www.ft.lk/columns/What-the-Aragalaya-might-mean-to-the-NPP-today/4-791651",
+    "description": "L board Government\u201d on display",
+    "url_metadata": "https://www.ft.lk/columns/L-board-Government-on-display/4-791663",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1778265265.0
+    "time_ut": 1778271450.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-09 | `dailyftlk-c60ad64b` | L board Government” on display | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-dailyftlk-c60ad64b)
+- 2026-05-09 | `dailyftlk-9ef7820f` | Former SriLankan CEO Kapila Chandrasena found dead amid Airbus probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-dailyftlk-9ef7820f)
+- 2026-05-09 | `dailyftlk-af7a3a55` | UNICEF welcomes Sri Lanka moved to adopt Global  Charter on Child Care Reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-dailyftlk-af7a3a55)
+- 2026-05-09 | `dailyftlk-0f2c858f` | Youth can lead agriculture transformation with right investment: Prime Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-dailyftlk-0f2c858f)
+- 2026-05-09 | `dailyftlk-e7caf58a` | Macktiles expands footprint  to Attidiya with new showroom | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-dailyftlk-e7caf58a)
+- 2026-05-09 | `dailyftlk-38f9825b` | Sampath Bank Private Banking hosts evening of tradition and connection for Eid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-dailyftlk-38f9825b)
+- 2026-05-09 | `dailyftlk-b07485cf` | NCE pays tribute to Founding President and Past Leaders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-dailyftlk-b07485cf)
 - 2026-05-09 | `dailyftlk-ec29e381` | What the Aragalaya might mean to the NPP today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-dailyftlk-ec29e381)
 - 2026-05-08 | `dailyftlk-99c468b3` | Kapila Chandrasena, conspiracy theories  and the country that stopped trusting its systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-dailyftlk-99c468b3)
 - 2026-05-08 | `virakesarilk-a73a04dc` | குருநாகல் மாநகர சபையின் பிரதி மேயர், இலஞ்சம் வாங்கியபோது கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-a73a04dc)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-05-08 | `virakesarilk-bd636ba5` | கபில சந்திரசேனவின் மரணத்தை அரசியல் தேவைகளுக்காக மூடிமறைக்க மாட்டோம் : சந்தன சூரியாராச்சி உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-bd636ba5)
 - 2026-05-08 | `virakesarilk-4ce568af` | குர்பான் கடமைக்கு அனுமதி - அமைச்சர் சந்தன அபேவர்த்தனவுக்கு நிசாம் காரியப்பர் நன்றி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-4ce568af)
 - 2026-05-08 | `virakesarilk-b20aa826` | இளைஞர்களின் பாதுகாப்பை உறுதிப்படுத்துங்கள் - சாணக்கியன் வலியுறுத்தல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-b20aa826)
-- 2026-05-08 | `virakesarilk-1e65bf2e` | லிட்ரோ - லாஃப் விலை முரண்பாடு, மக்கள் அவதியில் ; நுகர்வோர் உரிமைகள் பாதுகாப்புக்கான தேசிய இயக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-1e65bf2e)
-- 2026-05-08 | `tamilmirrorlk-1a739997` | விஜய் பக்கம் சாய்ந்த கட்சிகள் : மீண்டும் ஆளுநரை சந்திக்க முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-1a739997)
-- 2026-05-08 | `virakesarilk-5791e29e` | நீதிமன்ற வெற்றிடங்களை உடனடியாக நிரப்புக - தயாசிறி ஜயசேகர நாடாளுமன்றத்தில் வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-5791e29e)
-- 2026-05-08 | `virakesarilk-6f0331c8` | கபில சந்திரசேனவின் மரணம் தொடர்பில் ஜனாதிபதி விசாரணை ஆணைக்குழு அவசியம் - சீலரத்ன தேரர் வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-6f0331c8)
-- 2026-05-08 | `virakesarilk-09a13a08` | கடுமையான வெப்பத்துக்கு மத்தியில் யாழ். நகரை அண்மித்த பகுதிகளில் மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-09a13a08)
-- 2026-05-08 | `virakesarilk-dd1d8337` | ஆட்சி கவிழுமென்ற அச்சத்துடனேயே விஜய் பயணிக்க வேண்டிய நிர்ப்பந்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-dd1d8337)
-- 2026-05-08 | `virakesarilk-5b3d29d5` | தமிழகத்தில் ஆட்சி அமைக்கிறது டிவிகே: விஜய் தலைமையில் புதிய அரசு - காங்கிரஸ், விசிக ஆதரவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-5b3d29d5)
 
 ---
 

@@ -176029,5 +176029,82 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1778265265.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-09-dailyftlk-b07485cf",
+    "num": "dailyftlk-b07485cf",
+    "date_str": "2026-05-09",
+    "description": "NCE pays tribute to Founding President and Past Leaders",
+    "url_metadata": "https://www.ft.lk/business/NCE-pays-tribute-to-Founding-President-and-Past-Leaders/34-791652",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778265781.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-09-dailyftlk-38f9825b",
+    "num": "dailyftlk-38f9825b",
+    "date_str": "2026-05-09",
+    "description": "Sampath Bank Private Banking hosts evening of tradition and connection for Eid",
+    "url_metadata": "https://www.ft.lk/business/Sampath-Bank-Private-Banking-hosts-evening-of-tradition-and-connection-for-Eid/34-791653",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778265957.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-09-dailyftlk-e7caf58a",
+    "num": "dailyftlk-e7caf58a",
+    "date_str": "2026-05-09",
+    "description": "Macktiles expands footprint  to Attidiya with new showroom",
+    "url_metadata": "https://www.ft.lk/business/Macktiles-expands-footprint-to-Attidiya-with-new-showroom/34-791654",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778266091.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-09-dailyftlk-0f2c858f",
+    "num": "dailyftlk-0f2c858f",
+    "date_str": "2026-05-09",
+    "description": "Youth can lead agriculture transformation with right investment: Prime Minister",
+    "url_metadata": "https://www.ft.lk/business/Youth-can-lead-agriculture-transformation-with-right-investment-Prime-Minister/34-791655",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778266486.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-09-dailyftlk-af7a3a55",
+    "num": "dailyftlk-af7a3a55",
+    "date_str": "2026-05-09",
+    "description": "UNICEF welcomes Sri Lanka moved to adopt Global  Charter on Child Care Reforms",
+    "url_metadata": "https://www.ft.lk/news/UNICEF-welcomes-Sri-Lanka-moved-to-adopt-Global-Charter-on-Child-Care-Reforms/56-791659",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778267857.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-09-dailyftlk-9ef7820f",
+    "num": "dailyftlk-9ef7820f",
+    "date_str": "2026-05-09",
+    "description": "Former SriLankan CEO Kapila Chandrasena found dead amid Airbus probe",
+    "url_metadata": "https://www.ft.lk/news/Former-SriLankan-CEO-Kapila-Chandrasena-found-dead-amid-Airbus-probe/56-791660",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778267992.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-09-dailyftlk-c60ad64b",
+    "num": "dailyftlk-c60ad64b",
+    "date_str": "2026-05-09",
+    "description": "L board Government\u201d on display",
+    "url_metadata": "https://www.ft.lk/columns/L-board-Government-on-display/4-791663",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778271450.0
   }
 ]
