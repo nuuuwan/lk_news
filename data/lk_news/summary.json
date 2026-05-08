@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-08 04:31:37",
-  "n_docs": 112236,
+  "time_updated": "2026-05-08 06:29:13",
+  "n_docs": 112250,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 112236,
+  "n_docs_with_text": 112250,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-08",
-  "dataset_size": 1740015897,
+  "dataset_size": 1740236666,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-08-dailyftlk-529e276c",
-    "num": "dailyftlk-529e276c",
+    "doc_id": "2026-05-08-dailyftlk-a126a265",
+    "num": "dailyftlk-a126a265",
     "date_str": "2026-05-08",
-    "description": "Beyond the label: How independent  is an Independent Director, really?",
-    "url_metadata": "https://www.ft.lk/columns/Beyond-the-label-How-independent-is-an-Independent-Director-really/4-791613",
+    "description": "ADB says global value chains boost regional growth, but gains uneven in Asia Pacific",
+    "url_metadata": "https://www.ft.lk/business/ADB-says-global-value-chains-boost-regional-growth-but-gains-uneven-in-Asia-Pacific/34-791637",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1778190240.0
+    "time_ut": 1778194523.0
   }
 }
