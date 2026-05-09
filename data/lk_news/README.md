@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--09_18:07:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--09_20:08:40-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**112,403** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**112,404** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-05-09 | `tamilmirrorlk-4a801ab7` | த.வெ.க.வுக்கு ஆதரவு வழங்கியது வி.சி.க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-tamilmirrorlk-4a801ab7)
+- 2026-05-09 | `adalk-40904164` | පාසල් සිසුන් ප්‍රවාහනයේදි හෙල්මට් පැළඳීම අනිවාර්යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-adalk-40904164)
 - 2026-05-09 | `tamilmirrorlk-39f41055` | அதிரடியாக அதிகரித்தது மின்சாரக் கட்டணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-tamilmirrorlk-39f41055)
 - 2026-05-09 | `tamilmirrorlk-d6a5359a` | மின்சாரக் கட்டண திருத்தம் இன்று அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-tamilmirrorlk-d6a5359a)
 - 2026-05-09 | `virakesarilk-74f11d54` | ‘நுவா’ விடுதி சர்வதேச 5 நட்சத்திர கௌரவத்தைப் பெற்றமை முழு நாட்டுக்கும் பெருமை! - பிரதி அமைச்சர் ருவன் ரணசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-virakesarilk-74f11d54)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-05-09 | `virakesarilk-20488c29` | பிரதான நீர்த்தேக்கங்களின் வான்கதவுகள் திறப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-virakesarilk-20488c29)
 - 2026-05-09 | `virakesarilk-a36d50e8` | யாழ். போதனா வைத்தியசாலைத் தீ கட்டுக்குள்! ; பல மில்லியன் ரூபாய் இழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-virakesarilk-a36d50e8)
 - 2026-05-09 | `virakesarilk-0f17be1d` | அடையாளம் தெரியாத சடலம் கண்டுபிடிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-virakesarilk-0f17be1d)
-- 2026-05-09 | `tamilmirrorlk-1cf1a449` | யாழ் போதனா வைத்தியசாலையில் தீ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-tamilmirrorlk-1cf1a449)
 
 ---
 
