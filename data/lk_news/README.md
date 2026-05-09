@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--09_04:16:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--09_06:30:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**112,371** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**112,378** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -51,16 +51,16 @@ A collection of lk_news documents.
 - 2026-05-09 | `dailyftlk-e7caf58a` | Macktiles expands footprint  to Attidiya with new showroom | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-dailyftlk-e7caf58a)
 - 2026-05-09 | `dailyftlk-38f9825b` | Sampath Bank Private Banking hosts evening of tradition and connection for Eid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-dailyftlk-38f9825b)
 - 2026-05-09 | `dailyftlk-b07485cf` | NCE pays tribute to Founding President and Past Leaders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-dailyftlk-b07485cf)
+- 2026-05-09 | `islandlk-32cdb4d0` | Janashakthi Finance relocates Nugegoda branch to enhance customer convenience and accessibility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-islandlk-32cdb4d0)
+- 2026-05-09 | `islandlk-de8df59b` | ‘Sri Lanka’s renewable energy sector faces severe financial strain as LKR 10 billion in dues remain unpaid’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-islandlk-de8df59b)
 - 2026-05-09 | `dailyftlk-ec29e381` | What the Aragalaya might mean to the NPP today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-09-dailyftlk-ec29e381)
 - 2026-05-08 | `dailyftlk-99c468b3` | Kapila Chandrasena, conspiracy theories  and the country that stopped trusting its systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-dailyftlk-99c468b3)
+- 2026-05-08 | `islandlk-a21ec36d` | MillenniumIT ESP appoints Harendra Samarasinghe as CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-islandlk-a21ec36d)
+- 2026-05-08 | `islandlk-574a6494` | Early Childhood Education: Modern teaching, AI integration, and why it matters today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-islandlk-574a6494)
 - 2026-05-08 | `virakesarilk-a73a04dc` | குருநாகல் மாநகர சபையின் பிரதி மேயர், இலஞ்சம் வாங்கியபோது கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-a73a04dc)
 - 2026-05-08 | `virakesarilk-9c967ed3` | பாகிஸ்தானுக்கு எதிரான முதலாவது டெஸ்ட் போட்டியில் பலமான நிலையில் பங்களாதேஷ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-9c967ed3)
 - 2026-05-08 | `tamilmirrorlk-6bbd6b6e` | பதவி ஏற்கின்றார் விஜய்! மீண்டும் தயாராகும் நேரு ஸ்டேடியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-tamilmirrorlk-6bbd6b6e)
 - 2026-05-08 | `virakesarilk-6372c9b1` | வியட்நாம் இலங்கை இடையே ஐந்து புரிந்துணர்வு ஒப்பந்தங்கள் பரிமாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-6372c9b1)
-- 2026-05-08 | `virakesarilk-732efbe5` | கொடபொலவில்  பரவி வரும் காய்ச்சல்  வைரஸ் தொற்று என அடையாளம் - சுகாதார அமைச்சின் தொற்றுநோயியல் பிரிவு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-732efbe5)
-- 2026-05-08 | `virakesarilk-3718cfc1` | முல்லைத்தீவிற்கான அஞ்சல் பரிவர்தனை வாகனசேவை ஆரம்பம்; தமது தொடர்முயற்சி வெற்றியளித்திருப்பது மகிழ்ச்சி என்கிறார் - ரவிகரன் எம்.பி. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-3718cfc1)
-- 2026-05-08 | `virakesarilk-0d7770c1` | அரசியல் பழிவாங்கலின் உச்சக்கட்டம் - கபில சந்திரசேன மரணம் குறித்து பசன் கஸ்தூரி சாடல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-0d7770c1)
-- 2026-05-08 | `virakesarilk-73f88dfe` | வியட்நாம் போன்ற பொருளாதார மாற்றத்திற்கு உதவுங்கள் - ஜனாதிபதி டோ லாமிடம் சஜித் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-08-virakesarilk-73f88dfe)
 
 ---
 
