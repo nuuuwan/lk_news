@@ -176241,6 +176241,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-09-adalk-a93e6b87",
+    "num": "adalk-a93e6b87",
+    "date_str": "2026-05-09",
+    "description": "\u0daf\u0dd9\u0db8\u0dcf\u0db4\u0dd2\u0dba-\u0daf\u0dd6\u0daf\u0dbb\u0dd4 \u0dc3\u0db6\u0db3\u0dad\u0dcf \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba\u0dda\u0daf\u0dd3 \u0da2\u0dd3\u0dc0\u0db1 \u0d9a\u0dd4\u0dc3\u0dbd\u0dad\u0dcf \u0dc4\u0dd2\u0d9f\u0dba \u0d85\u0daf \u0dc0\u0dd2\u0dc1\u0dcf\u0dbd \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/opinion/\u0daf\u0dd9\u0db8\u0dcf\u0db4\u0dd2\u0dba-\u0daf\u0dd6\u0daf\u0dbb\u0dd4-\u0dc3\u0db6\u0db3\u0dad\u0dcf-\u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba\u0dda\u0daf\u0dd3-\u0da2\u0dd3\u0dc0\u0db1-\u0d9a\u0dd4\u0dc3\u0dbd\u0dad\u0dcf-\u0dc4\u0dd2\u0d9f\u0dba-\u0d85\u0daf-\u0dc0\u0dd2\u0dc1\u0dcf\u0dbd-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca/2-422372",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1778289594.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-09-virakesarilk-78f32c72",
     "num": "virakesarilk-78f32c72",
     "date_str": "2026-05-09",
