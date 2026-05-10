@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--10_18:06:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--10_20:09:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**112,524** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**112,528** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-10-tamilmirrorlk-ca89d5f2",
-    "num": "tamilmirrorlk-ca89d5f2",
+    "doc_id": "2026-05-10-tamilmirrorlk-718c0f1c",
+    "num": "tamilmirrorlk-718c0f1c",
     "date_str": "2026-05-10",
-    "description": "\u0b85\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0b92\u0bb0\u0bc1 \u0b89\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b85\u0baa\u0bcd\u0baa\u0b9f\u0bbf-\u0b92\u0bb0\u0bc1-\u0b89\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf/54-376903",
+    "description": "\u0ba8\u0bc0\u0bb0\u0bcd\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1 : 4 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba8\u0bc0\u0bb0\u0bcd\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1-4-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/76-376906",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1778415699.0
+    "time_ut": 1778422906.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-10 | `tamilmirrorlk-718c0f1c` | நீர்வீழ்ச்சியில் திருட்டு : 4 மாணவர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-10-tamilmirrorlk-718c0f1c)
+- 2026-05-10 | `tamilmirrorlk-f30afc1e` | எதிர்க் கட்சித் தலைவராக உதயநிதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-10-tamilmirrorlk-f30afc1e)
+- 2026-05-10 | `tamilmirrorlk-0974082f` | மே 18: முதலமைச்சர் விஜய்க்கு கடிதம் பறந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-10-tamilmirrorlk-0974082f)
 - 2026-05-10 | `tamilmirrorlk-ca89d5f2` | அப்படி ஒரு உடையில் எப்படி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-10-tamilmirrorlk-ca89d5f2)
 - 2026-05-10 | `adalk-a2f4d808` | යාල් දේවි යළිත් ගමන් අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-10-adalk-a2f4d808)
 - 2026-05-10 | `tamilmirrorlk-5cc8a398` | ராஜினாமா செய்தார் விஜய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-10-tamilmirrorlk-5cc8a398)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-05-10 | `virakesarilk-4bec4bd4` | மின்சாரக் கட்டணம் 18 சதவீதத்தால் அதிகரிப்பு; நாளை முதல் நடைமுறை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-10-virakesarilk-4bec4bd4)
 - 2026-05-10 | `virakesarilk-f196b285` | மாலி: நீளும் உள்நாட்டுப் போர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-10-virakesarilk-f196b285)
 - 2026-05-10 | `virakesarilk-0acd0542` | சாய்ந்தமருது நகர சபை மட்டும் தீர்வல்ல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-10-virakesarilk-0acd0542)
-- 2026-05-10 | `virakesarilk-0e578c7a` | தரமற்ற இரும்பு கம்பிகளை தயாரித்த தொழிற்சாலைக்கு சீல் வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-10-virakesarilk-0e578c7a)
-- 2026-05-10 | `tamilmirrorlk-645d9768` | பனை மரத்துடன் மினி வேன் மோதி 9 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-10-tamilmirrorlk-645d9768)
-- 2026-05-10 | `virakesarilk-de995c5d` | பனை மரத்துடன் வேன் மோதி விபத்து: 09 பேர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-10-virakesarilk-de995c5d)
 
 ---
 
