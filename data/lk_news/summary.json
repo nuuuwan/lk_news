@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-11 06:34:00",
-  "n_docs": 112553,
+  "time_updated": "2026-05-11 08:56:38",
+  "n_docs": 112565,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 112553,
+  "n_docs_with_text": 112565,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-11",
-  "dataset_size": 1745559454,
+  "dataset_size": 1745812787,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-11-dailyftlk-b297c557",
-    "num": "dailyftlk-b297c557",
+    "doc_id": "2026-05-11-tamilmirrorlk-a269620e",
+    "num": "tamilmirrorlk-a269620e",
     "date_str": "2026-05-11",
-    "description": "Healthy minds, safe workplaces: A shared responsibility for Sri Lanka\u2019s future of work",
-    "url_metadata": "https://www.ft.lk/columns/Healthy-minds-safe-workplaces-A-shared-responsibility-for-Sri-Lanka-s-future-of-work/4-791713",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1778460647.0
+    "description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc1  \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0baf\u0bcd\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b92\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bc1-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9c\u0baf\u0bcd-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b86\u0baf\u0bcd\u0bb5\u0bc1/175-376916",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1778469501.0
   }
 }
