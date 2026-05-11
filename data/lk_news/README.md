@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--11_11:06:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--11_13:02:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**112,571** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**112,576** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-11-tamilmirrorlk-0791fb9e",
-    "num": "tamilmirrorlk-0791fb9e",
+    "doc_id": "2026-05-11-tamilmirrorlk-056931bd",
+    "num": "tamilmirrorlk-056931bd",
     "date_str": "2026-05-11",
-    "description": "\u2019\u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bc1\u0ba4\u0bbf\u0bb0\u0bc8\u2019 \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 : \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd 6 \u0ba8\u0bbe\u0bb3\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bb2\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bc1\u0ba4\u0bbf\u0bb0\u0bc8-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-6-\u0ba8\u0bbe\u0bb3\u0bcd-\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bb2\u0bcd/175-376921",
+    "description": "\u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bc8 \u0bae\u0bb1\u0ba8\u0bcd\u0ba4 \u2019\u0ba4\u0bb5\u0bc6\u0b95\u2019 \u0b87\u0bb3\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bc8-\u0bae\u0bb1\u0ba8\u0bcd\u0ba4-\u0ba4\u0bb5\u0bc6\u0b95-\u0b87\u0bb3\u0bae\u0bcd-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd/175-376924",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1778475196.0
+    "time_ut": 1778482419.0
 }
 ```
 
@@ -41,11 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-11 | `tamilmirrorlk-056931bd` | சான்றிதழை மறந்த ’தவெக’ இளம் அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-tamilmirrorlk-056931bd)
+- 2026-05-11 | `tamilmirrorlk-79cc280c` | விவசாயிகளுக்கு இனி கவலையில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-tamilmirrorlk-79cc280c)
+- 2026-05-11 | `tamilmirrorlk-cea691d8` | 5 மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-tamilmirrorlk-cea691d8)
 - 2026-05-11 | `tamilmirrorlk-0791fb9e` | ’கடற்குதிரை’ சிக்கியது : இருவருக்கும் 6 நாள் தடுப்புக்காவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-tamilmirrorlk-0791fb9e)
 - 2026-05-11 | `tamilmirrorlk-91227455` | வேன் தீப்பற்றி எரிந்து முற்றாக நாசம்: பயணிகள்  தப்பினர் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-tamilmirrorlk-91227455)
 - 2026-05-11 | `tamilmirrorlk-417d9573` | மனைவி மீது துப்பாக்கிச் சூடு: கணவன் தலைமறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-tamilmirrorlk-417d9573)
 - 2026-05-11 | `tamilmirrorlk-a269620e` | சட்டம் ஒழுங்கு  குறித்து முதல்வர் விஜய் தலைமையில் ஆய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-tamilmirrorlk-a269620e)
 - 2026-05-11 | `tamilmirrorlk-1ae7c978` | பிரதமர் மோடி வாழ்த்து; முதல்வர் விஜய் நன்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-tamilmirrorlk-1ae7c978)
+- 2026-05-11 | `adalk-d8e64204` | තමිල්නාඩුවේ ගෘහස්ත පාරිභෝගිකයන්ට විජේ විදුලි ඒකක 200ක් නොමිලයේ දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-adalk-d8e64204)
 - 2026-05-11 | `adalk-6d823e41` | ඉරානයේ යෝජනා සම්පූර්ණයෙන්ම පිළිගත නොහැකි බව ට්‍රම්ප් කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-adalk-6d823e41)
 - 2026-05-11 | `adalk-0064d0ad` | වායුගෝලයේ කැළඹීම ඉදිරි පැය 36දී අඩුපීඩනයක් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-adalk-0064d0ad)
 - 2026-05-11 | `tamilmirrorlk-9054ff51` | தமிழக சட்டப்பேரவையின் முதல் கூட்டம் இன்று கூடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-tamilmirrorlk-9054ff51)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-05-11 | `dailyftlk-94228423` | Sri Lanka faces shrinking room for policy mistakes, warn experts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-dailyftlk-94228423)
 - 2026-05-11 | `dailyftlk-cb45732e` | Routine: Boredom to uninitiated, liberation to achiever and deterrent to fraudster | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-dailyftlk-cb45732e)
 - 2026-05-11 | `dailyftlk-9d05d8e5` | Cyber criminals are stealing not only your money, but also your brain and heart | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-dailyftlk-9d05d8e5)
-- 2026-05-11 | `dailyftlk-2ba2ace9` | One in ten children affected by sexual abuse facilitated by digital tech | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-dailyftlk-2ba2ace9)
-- 2026-05-11 | `dailyftlk-b297c557` | Healthy minds, safe workplaces: A shared responsibility for Sri Lanka’s future of work | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-dailyftlk-b297c557)
-- 2026-05-11 | `dailyftlk-bb02940d` | Purposeful organisational leadership: Leading organisations in an unpredictable world | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-dailyftlk-bb02940d)
-- 2026-05-11 | `dailyftlk-ba39b358` | $ 2.5 m Treasury heist: Opposition questions President’s silence, politicisation of public sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-dailyftlk-ba39b358)
 
 ---
 
