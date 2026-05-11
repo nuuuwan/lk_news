@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-11 03:59:44",
-  "n_docs": 112532,
+  "time_updated": "2026-05-11 06:34:00",
+  "n_docs": 112553,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 112532,
+  "n_docs_with_text": 112553,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-05-10",
-  "dataset_size": 1745482959,
+  "date_str_max": "2026-05-11",
+  "dataset_size": 1745559454,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-10-adalk-eadb4177",
-    "num": "adalk-eadb4177",
-    "date_str": "2026-05-10",
-    "description": "\u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae \u0dbb\u0d9a\u0dca\u0dc2\u0dab \u0d9a\u0dcf\u0da9\u0dca\u0db4\u0dad\u0dca \u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca \u0dc0\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae-\u0dbb\u0d9a\u0dca\u0dc2\u0dab-\u0d9a\u0dcf\u0da9\u0dca\u0db4\u0dad\u0dca-\u0da9\u0dd2\u0da2\u0dd2\u0da7\u0dbd\u0dca-\u0dc0\u0dd9\u0dba\u0dd2/11-422388",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1778427021.0
+    "doc_id": "2026-05-11-dailyftlk-b297c557",
+    "num": "dailyftlk-b297c557",
+    "date_str": "2026-05-11",
+    "description": "Healthy minds, safe workplaces: A shared responsibility for Sri Lanka\u2019s future of work",
+    "url_metadata": "https://www.ft.lk/columns/Healthy-minds-safe-workplaces-A-shared-responsibility-for-Sri-Lanka-s-future-of-work/4-791713",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778460647.0
   }
 }
