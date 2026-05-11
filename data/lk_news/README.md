@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--12_02:20:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--12_04:08:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**112,658** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**112,666** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,8 @@ A collection of lk_news documents.
 - 2026-05-12 | `dailyftlk-592ad1c8` | When auditors join the Boardroom | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-12-dailyftlk-592ad1c8)
 - 2026-05-12 | `dailyftlk-c8b08369` | What went wrong with Public Debt Management Office? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-12-dailyftlk-c8b08369)
 - 2026-05-12 | `dailyftlk-f624bb8a` | From bunkering hub to water pricing hub | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-12-dailyftlk-f624bb8a)
+- 2026-05-12 | `virakesarilk-d70af191` | வைரஸ் காரணமாக மூடப்பட்டிருந்த தெனியாய பாடசாலைகள், புதன்கிழமை முதல் மீண்டும் திறக்கப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-12-virakesarilk-d70af191)
+- 2026-05-12 | `virakesarilk-de6f05c2` | மழை காரணமாக   பங்களாதேஷ் - பாகிஸ்தான் முதல் டெஸ்ட் வெற்றிதோல்வியற்ற முடிவை நோக்கி நகர்கிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-12-virakesarilk-de6f05c2)
 - 2026-05-11 | `virakesarilk-f79e6e6e` | வவுனியா வடக்கில் வீதியோரத்தில் இரு மாதங்களுக்கு முன் இறக்கப்பட்ட மதகுகள்: வீதி புனரமைப்பு நடவடிக்கை தொடர்பில் அசமந்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-virakesarilk-f79e6e6e)
 - 2026-05-11 | `virakesarilk-852f53f4` | இலங்கை மகளிர் ஏ அணியில் மன்னார் வீராங்கனை சஜிந்தினி; அணித் தலைவி சந்தீப்பணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-virakesarilk-852f53f4)
 - 2026-05-11 | `virakesarilk-cba22428` | தெற்காசிய இளையோர் மேசைப்பந்து போட்டியில் வெற்றிபெற்ற வீரர்கள் அமைச்சரை சந்தித்தனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-virakesarilk-cba22428)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-05-11 | `adalk-a8190b1b` | පරිගණක අපරාධ කළේ යැයි ඉන්දියානු හා නේපාල ජාතිකයන් 55ක් දොඩංදූවෙන් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-adalk-a8190b1b)
 - 2026-05-11 | `adalk-d416aff5` | ශ්‍රී ලංකාව විසල් බිළාල සංගමයේ සාමාජිකයෙක් වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-adalk-d416aff5)
 - 2026-05-11 | `adalk-4a6a0e88` | විදුලි මිල ඉහළ යාමට ගල් අඟුරු ගැටලුව බලපෑමක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-adalk-4a6a0e88)
-- 2026-05-11 | `virakesarilk-84f29354` | 21வது ஆசிய ஊடக மாநாட்டில் பங்கேற்பதற்காக மாலைதீவுக்குப் புறப்படுகிறார் அமைச்சர் நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-virakesarilk-84f29354)
-- 2026-05-11 | `adalk-f5ffedfd` | ලංකාවේ මුහුදු කකුළුවෝ ඇමෙරිකා යති | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-11-adalk-f5ffedfd)
 
 ---
 
