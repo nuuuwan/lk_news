@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-12 06:28:09",
-  "n_docs": 112691,
+  "time_updated": "2026-05-12 08:53:32",
+  "n_docs": 112710,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 112691,
+  "n_docs_with_text": 112710,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-12",
-  "dataset_size": 1747977362,
+  "dataset_size": 1748396709,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-12-dailyftlk-3ba69952",
-    "num": "dailyftlk-3ba69952",
+    "doc_id": "2026-05-12-virakesarilk-02569e4c",
+    "num": "virakesarilk-02569e4c",
     "date_str": "2026-05-12",
-    "description": "Ceylon Chamber to  host Mineral Sands Technical Conference  with Australian experts",
-    "url_metadata": "https://www.ft.lk/business/Ceylon-Chamber-to-host-Mineral-Sands-Technical-Conference-with-Australian-experts/34-791809",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1778547068.0
+    "description": "\u0b95\u0bbe\u0bb2\u0bbf \u0b9f\u0bbf\u0b95\u0bcd\u0bb8\u0ba9\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1: \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/246160",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1778553780.0
   }
 }
