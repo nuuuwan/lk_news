@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--13_06:58:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--13_08:54:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**112,775** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**112,780** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.7 GB**), from **2021-09-12** to **2026-05-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-13-adalk-146ea357",
-    "num": "adalk-146ea357",
+    "doc_id": "2026-05-13-adalk-6c3012a2",
+    "num": "adalk-6c3012a2",
     "date_str": "2026-05-13",
-    "description": "\u0daf\u0d9a\u0dca\u0dc2 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dcf \u0d9a\u0dcf\u0dbb\u0dca\u0db8\u0dd2\u0d9a \u0dc1\u0dd2\u0dbd\u0dca\u0db4\u0dd3\u0db1\u0dca \u0dc3\u0ddc\u0dba\u0dcf \u0d91\u0db8\u0dd2\u0dbb\u0dda\u0da7\u0dca\u0dc3\u0dca 19-20 \u0d9a\u0ddc\u0dc5\u0db9\u0da7",
-    "url_metadata": "https://www.ada.lk/business/\u0daf\u0d9a\u0dca\u0dc2-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dcf-\u0d9a\u0dcf\u0dbb\u0dca\u0db8\u0dd2\u0d9a-\u0dc1\u0dd2\u0dbd\u0dca\u0db4\u0dd3\u0db1\u0dca-\u0dc3\u0ddc\u0dba\u0dcf-\u0d91\u0db8\u0dd2\u0dbb\u0dda\u0da7\u0dca\u0dc3\u0dca-19-20-\u0d9a\u0ddc\u0dc5\u0db9\u0da7/7-422424",
+    "description": "\u0db8\u0dd2\u0dbd\u0dd2 \u0db8\u0dd2\u0da7\u0dbb\u0dca 200\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2 \u0d9c\u0dd0\u0db1 \u0d85\u0dc0\u0dc0\u0dcf\u0daf\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd2\u0dbd\u0dd2-\u0db8\u0dd2\u0da7\u0dbb\u0dca-200\u0d9a\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0dad\u0daf-\u0dc0\u0dd0\u0dc3\u0dd2-\u0d9c\u0dd0\u0db1-\u0d85\u0dc0\u0dc0\u0dcf\u0daf\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba\u0d9a\u0dca/11-422426",
     "lang": "si",
     "newspaper_id": "adalk",
-    "time_ut": 1778631849.0
+    "time_ut": 1778638444.0
 }
 ```
 
@@ -41,7 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-13 | `adalk-6c3012a2` | මිලි මිටර් 200ක් දක්වා තද වැසි ගැන අවවාදාත්මක නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-13-adalk-6c3012a2)
 - 2026-05-13 | `adalk-146ea357` | දක්ෂ ගුවන් යානා කාර්මික ශිල්පීන් සොයා එමිරේට්ස් 19-20 කොළඹට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-13-adalk-146ea357)
+- 2026-05-13 | `tamilmirrorlk-1a6406eb` | மீனவர் பிரச்சினைக்கு நடவடிக்கை தேவை: விஜய் கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-13-tamilmirrorlk-1a6406eb)
+- 2026-05-13 | `tamilmirrorlk-9b97d678` | பாகிஸ்தான் உயர் ஸ்தானிகருடன் பாதுகாப்பு பிரதி அமைச்சர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-13-tamilmirrorlk-9b97d678)
+- 2026-05-13 | `tamilmirrorlk-21f4f5df` | ’ரணில் ஜனாதிபதி, நான் பிரதமர் என்று சஜித்தால் ஏன் கூற முடியாது?’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-13-tamilmirrorlk-21f4f5df)
 - 2026-05-13 | `tamilmirrorlk-c2d14100` | சி.வி.சண்முகம் அணியினர் உடன் ஜோசப் விஜய் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-13-tamilmirrorlk-c2d14100)
 - 2026-05-13 | `tamilmirrorlk-d5a18bcd` | திருமாவளவனை சந்தித்து வாழ்த்து பெற்றார் விஜய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-13-tamilmirrorlk-d5a18bcd)
 - 2026-05-12 | `islandlk-26573e56` | Tourists to Hikkaduwa drop by nearly 80 percent as West Asian war exacts staggering toll | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-12-islandlk-26573e56)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-05-12 | `tamilmirrorlk-6046c6f5` | முக்கொலை வழக்கில் பிணையில் வந்தவர்  தலை கொய்யப்பட்டு படுகொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-12-tamilmirrorlk-6046c6f5)
 - 2026-05-12 | `tamilmirrorlk-2c95fb89` | கபில சந்திரசேனவின் மரணம் : தொலைபேசியை ஆய்வு செய்ய அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-12-tamilmirrorlk-2c95fb89)
 - 2026-05-12 | `tamilmirrorlk-e9316847` | மலையகம் கல்விமான் மூக்கையா காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-12-tamilmirrorlk-e9316847)
-- 2026-05-12 | `tamilmirrorlk-2a0e21cc` | திலீபனின் நினைவாலயத்திற்கு அருகில் முள்ளிவாய்க்கால் கஞ்சி (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-12-tamilmirrorlk-2a0e21cc)
-- 2026-05-12 | `tamilmirrorlk-0906f3ff` | 5,000 கலைஞர்களின் பங்கேற்புடன் கொழும்பில் பரதநாட்டிய நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-12-tamilmirrorlk-0906f3ff)
-- 2026-05-12 | `tamilmirrorlk-257216f0` | ஜனாதிபதி அனுரவுக்கு விஜய் பதில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-12-tamilmirrorlk-257216f0)
-- 2026-05-12 | `adalk-e272a8d6` | පුද්ගලයෙක් ඝාතනය කර හිස රැගෙන යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-12-adalk-e272a8d6)
 
 ---
 
