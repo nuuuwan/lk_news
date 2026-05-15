@@ -184832,6 +184832,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-15-colombotelegraphcom-b553fc4d",
+    "num": "colombotelegraphcom-b553fc4d",
+    "date_str": "2026-05-15",
+    "description": "Vijaya Kumar: Academic, Activist & Genial Fellow-Traveller",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/vijaya-kumar-academic-activist-genial-fellow-traveller/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1778841970.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-15-tamilmirrorlk-a7ffbdaa",
     "num": "tamilmirrorlk-a7ffbdaa",
     "date_str": "2026-05-15",
