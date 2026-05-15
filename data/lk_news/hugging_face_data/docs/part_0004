@@ -185236,5 +185236,115 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1778869764.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-16-dailyftlk-f57bf130",
+    "num": "dailyftlk-f57bf130",
+    "date_str": "2026-05-16",
+    "description": "Doc990 rolls out digital queue system for GNH pharmacy services",
+    "url_metadata": "https://www.ft.lk/business/Doc990-rolls-out-digital-queue-system-for-GNH-pharmacy-services/34-791988",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778874035.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-16-dailyftlk-3f0a9997",
+    "num": "dailyftlk-3f0a9997",
+    "date_str": "2026-05-16",
+    "description": "HNBGI: Primed for strategic growth after record-breaking 2025 performance",
+    "url_metadata": "https://www.ft.lk/business/HNBGI-Primed-for-strategic-growth-after-record-breaking-2025-performance/34-791989",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778874141.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-16-dailyftlk-f21e0908",
+    "num": "dailyftlk-f21e0908",
+    "date_str": "2026-05-16",
+    "description": "Sri Lanka and Pakistan strengthen trade relations through business engagement",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-and-Pakistan-strengthen-trade-relations-through-business-engagement/34-791990",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778874233.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-16-dailyftlk-65d71b14",
+    "num": "dailyftlk-65d71b14",
+    "date_str": "2026-05-16",
+    "description": "JKCG Auto partners BOC and SLIC to drive EV adoption among Govt. sector employees",
+    "url_metadata": "https://www.ft.lk/business/JKCG-Auto-partners-BOC-and-SLIC-to-drive-EV-adoption-among-Govt-sector-employees/34-791991",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778874351.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-16-dailyftlk-5a973af0",
+    "num": "dailyftlk-5a973af0",
+    "date_str": "2026-05-16",
+    "description": "Sri Lanka Embassy in T\u00fcrkiye explores trade and investment cooperation with Istanbul Chamber of Commerce",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Embassy-in-T\u00fcrkiye-explores-trade-and-investment-cooperation-with-Istanbul-Chamber-of-Commerce/34-791992",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778874439.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-16-dailyftlk-b4b786ae",
+    "num": "dailyftlk-b4b786ae",
+    "date_str": "2026-05-16",
+    "description": "Sri Lanka\u2019s post-crisis transition: Comparative insights from Greece",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-s-post-crisis-transition-Comparative-insights-from-Greece/14-791995",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778875397.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-16-dailyftlk-e5e449ee",
+    "num": "dailyftlk-e5e449ee",
+    "date_str": "2026-05-16",
+    "description": "Sri Lanka celebrates International Day of Vesak at UNESCO in partnership with Member States",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-celebrates-International-Day-of-Vesak-at-UNESCO-in-partnership-with-Member-States/56-791996",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778875794.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-16-dailyftlk-453bd1b4",
+    "num": "dailyftlk-453bd1b4",
+    "date_str": "2026-05-16",
+    "description": "BBC links Sri Lanka to AI anti-immigration content targeting UK",
+    "url_metadata": "https://www.ft.lk/news/BBC-links-Sri-Lanka-to-AI-anti-immigration-content-targeting-UK/56-791997",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778875875.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-16-dailyftlk-1b8b8b59",
+    "num": "dailyftlk-1b8b8b59",
+    "date_str": "2026-05-16",
+    "description": "Fisheries Minister urges Tamil Nadu CM to ban bottom trawling",
+    "url_metadata": "https://www.ft.lk/news/Fisheries-Minister-urges-Tamil-Nadu-CM-to-ban-bottom-trawling/56-791998",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778876180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-16-dailyftlk-2d9f5f18",
+    "num": "dailyftlk-2d9f5f18",
+    "date_str": "2026-05-16",
+    "description": "Sajith claims IMF no longer engages with him over criticism of economic policies",
+    "url_metadata": "https://www.ft.lk/news/Sajith-claims-IMF-no-longer-engages-with-him-over-criticism-of-economic-policies/56-791999",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778876257.0
   }
 ]

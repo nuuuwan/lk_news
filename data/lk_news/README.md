@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--16_00:21:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--16_02:11:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,198** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,208** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-15-dailyftlk-39c0804d",
-    "num": "dailyftlk-39c0804d",
-    "date_str": "2026-05-15",
-    "description": "Reflections on governance, accountability and the decline of administration in universities",
-    "url_metadata": "https://www.ft.lk/columns/Reflections-on-governance-accountability-and-the-decline-of-administration-in-universities/4-791982",
+    "doc_id": "2026-05-16-dailyftlk-2d9f5f18",
+    "num": "dailyftlk-2d9f5f18",
+    "date_str": "2026-05-16",
+    "description": "Sajith claims IMF no longer engages with him over criticism of economic policies",
+    "url_metadata": "https://www.ft.lk/news/Sajith-claims-IMF-no-longer-engages-with-him-over-criticism-of-economic-policies/56-791999",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1778869764.0
+    "time_ut": 1778876257.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-16 | `dailyftlk-2d9f5f18` | Sajith claims IMF no longer engages with him over criticism of economic policies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-dailyftlk-2d9f5f18)
+- 2026-05-16 | `dailyftlk-1b8b8b59` | Fisheries Minister urges Tamil Nadu CM to ban bottom trawling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-dailyftlk-1b8b8b59)
+- 2026-05-16 | `dailyftlk-453bd1b4` | BBC links Sri Lanka to AI anti-immigration content targeting UK | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-dailyftlk-453bd1b4)
+- 2026-05-16 | `dailyftlk-e5e449ee` | Sri Lanka celebrates International Day of Vesak at UNESCO in partnership with Member States | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-dailyftlk-e5e449ee)
+- 2026-05-16 | `dailyftlk-b4b786ae` | Sri Lanka’s post-crisis transition: Comparative insights from Greece | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-dailyftlk-b4b786ae)
+- 2026-05-16 | `dailyftlk-5a973af0` | Sri Lanka Embassy in Türkiye explores trade and investment cooperation with Istanbul Chamber of Commerce | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-dailyftlk-5a973af0)
+- 2026-05-16 | `dailyftlk-65d71b14` | JKCG Auto partners BOC and SLIC to drive EV adoption among Govt. sector employees | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-dailyftlk-65d71b14)
+- 2026-05-16 | `dailyftlk-f21e0908` | Sri Lanka and Pakistan strengthen trade relations through business engagement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-dailyftlk-f21e0908)
+- 2026-05-16 | `dailyftlk-3f0a9997` | HNBGI: Primed for strategic growth after record-breaking 2025 performance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-dailyftlk-3f0a9997)
+- 2026-05-16 | `dailyftlk-f57bf130` | Doc990 rolls out digital queue system for GNH pharmacy services | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-dailyftlk-f57bf130)
 - 2026-05-15 | `dailyftlk-39c0804d` | Reflections on governance, accountability and the decline of administration in universities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-dailyftlk-39c0804d)
 - 2026-05-15 | `dailyftlk-bcab3589` | SL must act now to capture quality investment in shifting global economy, warn senior officials and economists | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-dailyftlk-bcab3589)
 - 2026-05-15 | `dailyftlk-213e379d` | Economic bridges — not a land bridge with India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-dailyftlk-213e379d)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-05-15 | `virakesarilk-652f8b14` | தொழில் அமைச்சர் - ரஷ்ய தூதுவர் சந்திப்பு ; இலங்கையின் பொருளாதார முன்னேற்றத்துக்கு ஒத்துழைப்பு வழங்குவோம் என்றார் தூதுவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-652f8b14)
 - 2026-05-15 | `virakesarilk-1582800b` | அடுத்த 10 ஆண்டுகளுக்குள் இலங்கையில் 500 பில்லியன் கனேடியன் டொலர்களை முதலீடு செய்ய கனடா எதிர்பார்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-1582800b)
 - 2026-05-15 | `virakesarilk-fba0997a` | குமுழமுனையில்  முள்ளிவாய்க்கால் கஞ்சி பகிரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-fba0997a)
-- 2026-05-15 | `virakesarilk-d99fd8bd` | ஜப்பானில் 6.3 ரிக்டர் அளவிலான நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-d99fd8bd)
-- 2026-05-15 | `virakesarilk-7df4dfa0` | எப்பாவலை பாடசாலையில் கத்திக்குத்து : மாணவனை சரீரப் பிணையில் விடுவிக்க நீதிமன்றம் உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-7df4dfa0)
-- 2026-05-15 | `virakesarilk-62544c8d` | இலங்கை - பெலாரஸ் பொருளாதார உறவுகளை வலுப்படுத்தல் ; பெலாரஸ் வர்த்தக வட்டமேசை மாநாட்டில் ஆராய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-62544c8d)
-- 2026-05-15 | `adalk-917b1325` | විදුලිබිල අඩුකිරීමට සැලැස්මක් අපට තියෙනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-adalk-917b1325)
-- 2026-05-15 | `virakesarilk-bb40fcf3` | இலங்கையில் இந்தியப் படையினர் இருந்த காலத்தில் கொல்லப்பட்ட மற்றும் காணாமலாக்கப்பட்டோரின் எண்ணிக்கை 10,000க்கும் அதிகம் - அதிர்ச்சித் தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-bb40fcf3)
-- 2026-05-15 | `virakesarilk-5b13fca9` | இலங்கைக்கான IMF-இன் 5, 6ஆம் கட்ட மீளாய்வு ஒப்புதல் கூட்டம் எதிர்வரும் வாரங்களில்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-5b13fca9)
-- 2026-05-15 | `virakesarilk-acb8b8bf` | வலுசக்தி நெருக்கடி மக்களுக்கு சுமையாக அமையாத வகையில் முகாமைத்துவம் செய்யப்பட்டுள்ளது - பிரதமர் ஹரிணி அமரசூரிய | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-acb8b8bf)
-- 2026-05-15 | `virakesarilk-101f780c` | 79 ஆவது  உலக சுகாதார மாநாட்டில் பங்கேற்பதற்காக   அமைச்சர் நளிந்த ஜயதிஸ்ஸ ஜெனிவா பயணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-101f780c)
-- 2026-05-15 | `tamilmirrorlk-ee849642` | உடலுக்கு  பெட்ரோலை ஊற்றிக்கொண்ட நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-ee849642)
-- 2026-05-15 | `virakesarilk-309539bf` | விஜய்க்கு இலங்கையிலிருப்பது இரசிகர்களா, தொண்டர்களா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-309539bf)
 
 ---
 
