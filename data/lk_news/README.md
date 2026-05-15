@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--15_14:51:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--15_16:32:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,146** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,152** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-15-tamilmirrorlk-dd78167f",
-    "num": "tamilmirrorlk-dd78167f",
+    "doc_id": "2026-05-15-tamilmirrorlk-a7ffbdaa",
+    "num": "tamilmirrorlk-a7ffbdaa",
     "date_str": "2026-05-15",
-    "description": "\u0bae\u0bc1\u0ba4\u0bb2\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1: \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b86\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0baf\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bb2\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9c\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1-\u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b86\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0baf\u0bae\u0bcd/175-377163",
+    "description": "\u0b95\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd\u0bae\u0b9f\u0bae\u0bcd \u0bae\u0ba9\u0bbf\u0ba4\u0baa\u0bcd \u0baa\u0bc1\u0ba4\u0bc8\u0b95\u0bc1\u0bb4\u0bbf:  MTAF  \u0bb8\u0bcd\u0b95\u0bc7\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd\u0bae\u0b9f\u0bae\u0bcd-\u0bae\u0ba9\u0bbf\u0ba4\u0baa\u0bcd-\u0baa\u0bc1\u0ba4\u0bc8\u0b95\u0bc1\u0bb4\u0bbf-MTAF-\u0bb8\u0bcd\u0b95\u0bc7\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd-\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf/175-377169",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1778833712.0
+    "time_ut": 1778842693.0
 }
 ```
 
@@ -41,8 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-15 | `tamilmirrorlk-a7ffbdaa` | குருக்கள்மடம் மனிதப் புதைகுழி:  MTAF  ஸ்கேனுக்கு நீதிமன்றம் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-a7ffbdaa)
+- 2026-05-15 | `tamilmirrorlk-dc134539` | விஜய் பதவியேற்பு: வைரலாகும் திரிஷாவின் ‘பட்டுப் புடவை’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-dc134539)
+- 2026-05-15 | `tamilmirrorlk-0bb78f08` | யானைத் தாக்குதலில் தந்தையும் மகளும் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-0bb78f08)
+- 2026-05-15 | `tamilmirrorlk-06e5bca9` | டிரெண்டாகும்   விஜய்யின் ஆடை அலங்காரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-06e5bca9)
+- 2026-05-15 | `tamilmirrorlk-eed28a59` | முதலமைச்சர் விஜய்க்கு விசேட வாழ்த்து சொன்னது யார்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-eed28a59)
 - 2026-05-15 | `tamilmirrorlk-dd78167f` | முதலமைச்சர் விஜய்க்கு விசேட வாழ்த்து: பின்னணியில் இருக்கும் ஆச்சரியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-dd78167f)
 - 2026-05-15 | `tamilmirrorlk-681b69a8` | சிகரெட்டுகளுடன் சீனப் பெண் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-681b69a8)
+- 2026-05-15 | `adalk-6ea932e4` | දස කෝටියක කොකේන් සමග ඉන්දිය විද්‍යාඥයෙක් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-adalk-6ea932e4)
 - 2026-05-15 | `tamilmirrorlk-801e2088` | இந்தியப் புவியியலாளர்  ’’கொகெய்னுடன்’’ கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-801e2088)
 - 2026-05-15 | `adalk-5a47b3e7` | මාවුස්සාකැලේ හා කාසල්රී ජලාශවල ජල මට්ටම සීඝ්‍රයෙන් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-adalk-5a47b3e7)
 - 2026-05-15 | `adalk-9e0ac1f8` | ගංවතුර තත්වයක් - වැඩිම වැස්ස කුළියාපිටියෙන් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-adalk-9e0ac1f8)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-05-15 | `tamilmirrorlk-254eeae5` | சிறுமிகளை கடத்தும் குழு மட்டக்களப்பில்! வீடியோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-254eeae5)
 - 2026-05-15 | `tamilmirrorlk-5707f1f5` | தாழ்நிலப்பகுதிகளுக்கு  வெள்ள அபாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-5707f1f5)
 - 2026-05-15 | `adalk-75d43c2d` | අයහපත් කාලගුණය හැටන් සියලුම පාසල් වසයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-adalk-75d43c2d)
-- 2026-05-15 | `tamilmirrorlk-d80fb3fb` | நீடிக்கும் குறைந்த அழுத்தப் பிரதேசம் : கன மழைக்கு வாய்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-d80fb3fb)
-- 2026-05-15 | `tamilmirrorlk-e3be1b2e` | 20க்கும் அதிகமான நீர்த்தேக்கங்கள் வான் பாய்கின்றன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-e3be1b2e)
-- 2026-05-15 | `tamilmirrorlk-37b808ef` | அவிசாவளையில் அதிகூடிய மழை வீழ்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-37b808ef)
-- 2026-05-15 | `adalk-3d27d5e2` | විමලසුරේන්ද්‍ර වාන් දමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-adalk-3d27d5e2)
-- 2026-05-15 | `adalk-127dbf83` | ඇමෙරිකාවෙන් තෙල් හා ජෙට් යානා මිලදී ගැනිමට චීනය එකඟ වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-adalk-127dbf83)
-- 2026-05-15 | `adalk-776e4748` | අඩු පීඩන කලාපය තවදුරටත් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-adalk-776e4748)
 
 ---
 
