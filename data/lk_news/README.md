@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--15_22:22:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--16_00:21:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,194** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,198** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-15-virakesarilk-1aef3f57",
-    "num": "virakesarilk-1aef3f57",
+    "doc_id": "2026-05-15-dailyftlk-39c0804d",
+    "num": "dailyftlk-39c0804d",
     "date_str": "2026-05-15",
-    "description": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bb1\u0bcd\u0bb1 \u0b89\u0ba3\u0bb5\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc0\u0bb2\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/246591",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1778854200.0
+    "description": "Reflections on governance, accountability and the decline of administration in universities",
+    "url_metadata": "https://www.ft.lk/columns/Reflections-on-governance-accountability-and-the-decline-of-administration-in-universities/4-791982",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1778869764.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-15 | `dailyftlk-39c0804d` | Reflections on governance, accountability and the decline of administration in universities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-dailyftlk-39c0804d)
+- 2026-05-15 | `dailyftlk-bcab3589` | SL must act now to capture quality investment in shifting global economy, warn senior officials and economists | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-dailyftlk-bcab3589)
+- 2026-05-15 | `dailyftlk-213e379d` | Economic bridges — not a land bridge with India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-dailyftlk-213e379d)
+- 2026-05-15 | `dailyftlk-7824b649` | Italy in the Hormuz crisis: diplomacy, naval missions and food security | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-dailyftlk-7824b649)
 - 2026-05-15 | `virakesarilk-1aef3f57` | மட்டக்களப்பில் சுகாதாரமற்ற உணவகத்துக்கு சீல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-1aef3f57)
 - 2026-05-15 | `tamilmirrorlk-8659fdc5` | மின் விநியோகத் தடை குறித்து பிரதமர் வெளியிட்ட அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-8659fdc5)
 - 2026-05-15 | `virakesarilk-79752f87` | இந்திய சபாநாயகர் ஓம் பிர்லாவை சந்தித்த இலங்கை பெண் எம்.பிக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-79752f87)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-05-15 | `virakesarilk-101f780c` | 79 ஆவது  உலக சுகாதார மாநாட்டில் பங்கேற்பதற்காக   அமைச்சர் நளிந்த ஜயதிஸ்ஸ ஜெனிவா பயணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-101f780c)
 - 2026-05-15 | `tamilmirrorlk-ee849642` | உடலுக்கு  பெட்ரோலை ஊற்றிக்கொண்ட நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-ee849642)
 - 2026-05-15 | `virakesarilk-309539bf` | விஜய்க்கு இலங்கையிலிருப்பது இரசிகர்களா, தொண்டர்களா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-309539bf)
-- 2026-05-15 | `virakesarilk-bbc60780` | சிறுமியை கடத்திச் சென்ற முச்சக்கரவண்டி மடக்கிப் பிடிப்பு ; இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-bbc60780)
-- 2026-05-15 | `tamilmirrorlk-8b6899c6` | மன்னாரில் முள்ளிவாய்க்கால் நினைவு ஊர்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-8b6899c6)
-- 2026-05-15 | `virakesarilk-02f49162` | மன்னாரை வந்தடைந்தது முள்ளிவாய்க்கால் நினைவு ஊர்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-02f49162)
-- 2026-05-15 | `virakesarilk-14e21613` | யுத்தக் குற்றவாளிகள் குற்றவாளிக் கூண்டில் ஏற்றப்பட வேண்டும் - ஈ.பி.டி பி ஊடகச் செயலாளர் பன்னீர்செல்வம் ஸ்ரீகாந் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-14e21613)
 
 ---
 
