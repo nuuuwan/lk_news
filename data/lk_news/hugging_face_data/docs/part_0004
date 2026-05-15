@@ -185195,6 +185195,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-15-colombotelegraphcom-6fd6491d",
+    "num": "colombotelegraphcom-6fd6491d",
+    "date_str": "2026-05-15",
+    "description": "The Palk Strait Link: Sri Lanka\u2019s Unresolved Question With India",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/the-palk-strait-link-sri-lankas-unresolved-question-with-india/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1778859637.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-15-colombotelegraphcom-7679e21b",
+    "num": "colombotelegraphcom-7679e21b",
+    "date_str": "2026-05-15",
+    "description": "Some Lessons That Can Be Learned Even From Disasters",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/some-lessons-that-can-be-learned-even-from-disasters/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1778860227.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-15-dailyftlk-7824b649",
     "num": "dailyftlk-7824b649",
     "date_str": "2026-05-15",
