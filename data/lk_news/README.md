@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--16_20:12:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--16_22:03:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,276** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,277** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-16-virakesarilk-a765a97c",
-    "num": "virakesarilk-a765a97c",
+    "doc_id": "2026-05-16-tamilmirrorlk-7bcd7fe8",
+    "num": "tamilmirrorlk-7bcd7fe8",
     "date_str": "2026-05-16",
-    "description": "\u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b95\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0bb2\u0bbf \u0b8e\u0bb8\u0bcd. \u0ba4\u0bbe\u0ba3\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0bcd\u0b9f '\u0b95\u0b99\u0bcd\u0b95\u0ba3\u0bae\u0bcd' \u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b83\u0baa\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bcd \u0bb2\u0bc1\u0b95\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/246672",
+    "description": "\u0ba4\u0ba3\u0bcd\u0b9f\u0bb5\u0bbe\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b86\u0ba3\u0bbf \u0b95\u0bb4\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0ba3\u0bcd\u0b9f\u0bb5\u0bbe\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b86\u0ba3\u0bbf-\u0b95\u0bb4\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bb5\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-377193",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1778941500.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1778943727.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-16 | `tamilmirrorlk-7bcd7fe8` | தண்டவாளத்தில் ஆணி கழற்றியவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-tamilmirrorlk-7bcd7fe8)
 - 2026-05-16 | `virakesarilk-a765a97c` | தயாரிப்பாளர் கலைப்புலி எஸ். தாணு வெளியிட்ட 'கங்கணம்' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-a765a97c)
 - 2026-05-16 | `virakesarilk-14105a0f` | சட்டென்று மாறுது வானிலை - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-14105a0f)
 - 2026-05-16 | `virakesarilk-2a6c3441` | வெருகலில் முள்ளிவாய்க்கால் நினைவேந்தலும் கஞ்சி பரிமாறலும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-2a6c3441)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-05-16 | `virakesarilk-d84cd71f` | மட்டக்களப்பு பிள்ளையாரடியில்  முள்ளிவாய்க்கால் கஞ்சி பகிரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-d84cd71f)
 - 2026-05-16 | `virakesarilk-5886dd28` | கருப்பு - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-5886dd28)
 - 2026-05-16 | `virakesarilk-c73ca95e` | வனவாசல ரயில் விபத்து : பின்னணியில் திருட்டா? சதிவேலையா? - விசேட பொலிஸ் பிரிவு தீவிர விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-c73ca95e)
-- 2026-05-16 | `virakesarilk-b69d2d8c` | தமிழ்நாட்டின் முதலமைச்சர் விஜய்யைச் சந்திக்க சென்னை சென்றார் அர்ச்சுனா! ; அமைச்சர் ராஜ்மோகனை சந்தித்தார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-b69d2d8c)
 
 ---
 
