@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--16_16:11:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--16_18:08:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,252** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,253** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -51,6 +51,7 @@ A collection of lk_news documents.
 - 2026-05-16 | `virakesarilk-a6574e1f` | அமெரிக்கா - ஈரான் மோதல் அச்சம் : உலக சந்தையில் மசகு எண்ணெய் விலை 3%க்கும் மேல் உயர்வு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-a6574e1f)
 - 2026-05-16 | `virakesarilk-afeef483` | ஸ்ரீலங்கன் எயார்லைன்ஸ் சென்னை கிளையின் தவறால் 8 கோடி ரூபா அபுதாபி வங்கிக்கு மாற்றம் : தயாசிறி ஜயசேகர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-afeef483)
 - 2026-05-16 | `virakesarilk-4184ab53` | சிவாஜி கணேசனின் வசனத்துக்காகவே வரலாறு படைத்த "வீரபாண்டிய கட்டபொம்மன்" திரைக்காவியத்துக்கு இன்றுடன் வயது 67! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-4184ab53)
+- 2026-05-16 | `adalk-4573c6fa` | බදු ආදායම ඉහළ යාමට වාහන ආනයන බදු මූලික හේතුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-adalk-4573c6fa)
 - 2026-05-16 | `virakesarilk-20b0a80f` | மாற்றத்தை ஏற்படுத்தும் மாற்றத்துக்காக மனப்பாங்கு ரீதியாகவும் கலாசார ரீதியாகவும் வளர்ச்சி பெற்ற பிரஜையை உருவாக்கவேண்டும் - பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-20b0a80f)
 - 2026-05-16 | `virakesarilk-300cbdc8` | சிட்னியில் முள்ளிவாய்க்கால் நினைவுத் தூபி திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-300cbdc8)
 - 2026-05-16 | `virakesarilk-fb4487c3` | ரயில் விபத்து : தண்டவாள ஆணிகளை கழற்றிய குற்றச்சாட்டில் போதைக்கு அடிமையானவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-fb4487c3)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-05-16 | `virakesarilk-f69172c3` | ஐ.எஸ்.ஐ.எஸ் அமைப்பின்  இரண்டாம் நிலைத் தலைவர் கொல்லப்பட்டார்! - ட்ரம்ப் தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-f69172c3)
 - 2026-05-16 | `virakesarilk-d8bedccf` | பஸ்னாகொட நீர்த்தேக்கத்தின் 3 வான்கதவுகள் திறப்பு ; பொதுமக்களுக்கு எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-d8bedccf)
 - 2026-05-16 | `virakesarilk-519748a2` | உலக செஸ் சம்மேளன தலைவர் இலங்கைக்கு வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-519748a2)
-- 2026-05-16 | `virakesarilk-31284d0d` | வாகன இறக்குமதிக்கு 50 சதவீத கூடுதல் வரி : ஜனாதிபதியின் அதிரடி வர்த்தமானி வெளியீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-31284d0d)
 
 ---
 
