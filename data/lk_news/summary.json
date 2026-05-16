@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-16 08:51:46",
-  "n_docs": 113221,
+  "time_updated": "2026-05-16 10:49:54",
+  "n_docs": 113225,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 113221,
+  "n_docs_with_text": 113225,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-16",
-  "dataset_size": 1757381171,
+  "dataset_size": 1757437424,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-16-adalk-522b889c",
-    "num": "adalk-522b889c",
+    "doc_id": "2026-05-16-tamilmirrorlk-744b4a2d",
+    "num": "tamilmirrorlk-744b4a2d",
     "date_str": "2026-05-16",
-    "description": "\u0d85\u0db0\u0dd2\u0d9a \u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0dc0\u0dd6 \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0dc0\u0dd0\u0da7 \u0d8b\u0da9 \u0db1\u0dad\u0dbb \u0dc0\u0dd9\u0dba\u0dd2",
-    "url_metadata": "https://www.ada.lk/uncategorized/\u0d85\u0db0\u0dd2\u0d9a-\u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba-\u0dc0\u0dd6-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad-\u0dc0\u0dd0\u0da7-\u0d8b\u0da9-\u0db1\u0dad\u0dbb-\u0dc0\u0dd9\u0dba\u0dd2/1-422477",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1778895007.0
+    "description": "\u0b89\u0bb2\u0b95 \u0b9a\u0bc6\u0bb8\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0bb8\u0bcd-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd-\u0bb5\u0ba8\u0bcd\u0ba4\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd/44-377191",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1778904277.0
   }
 }
