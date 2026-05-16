@@ -184656,6 +184656,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-15-islandlk-7e00dd10",
+    "num": "islandlk-7e00dd10",
+    "date_str": "2026-05-15",
+    "description": "Putting people back into \u2018development\u2019 \u2013 a challenge for South",
+    "url_metadata": "http://island.lk/putting-people-back-into-development-a-challenge-for-south/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1778829360.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-15-adalk-9e0ac1f8",
     "num": "adalk-9e0ac1f8",
     "date_str": "2026-05-15",
@@ -185118,6 +185129,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-15-adalk-49c8f542",
+    "num": "adalk-49c8f542",
+    "date_str": "2026-05-15",
+    "description": "\u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb \u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9c\u0dda \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd2\u0db8 \u0d9c\u0dd0\u0db1 \u0dc5\u0db8\u0dcf \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0daf\u0dd2\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb-\u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9c\u0dda-\u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dd2\u0db8-\u0d9c\u0dd0\u0db1-\u0dc5\u0db8\u0dcf-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a-\u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca-\u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca-\u0daf\u0dd2\u0db8\u0d9a\u0dca/11-422475",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1778848959.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-15-adalk-917b1325",
     "num": "adalk-917b1325",
     "date_str": "2026-05-15",
@@ -185456,5 +185478,16 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1778876257.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-16-adalk-522b889c",
+    "num": "adalk-522b889c",
+    "date_str": "2026-05-16",
+    "description": "\u0d85\u0db0\u0dd2\u0d9a \u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0dc0\u0dd6 \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0dc0\u0dd0\u0da7 \u0d8b\u0da9 \u0db1\u0dad\u0dbb \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/uncategorized/\u0d85\u0db0\u0dd2\u0d9a-\u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba-\u0dc0\u0dd6-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad-\u0dc0\u0dd0\u0da7-\u0d8b\u0da9-\u0db1\u0dad\u0dbb-\u0dc0\u0dd9\u0dba\u0dd2/1-422477",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1778895007.0
   }
 ]

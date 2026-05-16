@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-16 06:30:51",
-  "n_docs": 113218,
+  "time_updated": "2026-05-16 08:51:46",
+  "n_docs": 113221,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 113218,
+  "n_docs_with_text": 113221,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-16",
-  "dataset_size": 1757296097,
+  "dataset_size": 1757381171,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-16-dailyftlk-2d9f5f18",
-    "num": "dailyftlk-2d9f5f18",
+    "doc_id": "2026-05-16-adalk-522b889c",
+    "num": "adalk-522b889c",
     "date_str": "2026-05-16",
-    "description": "Sajith claims IMF no longer engages with him over criticism of economic policies",
-    "url_metadata": "https://www.ft.lk/news/Sajith-claims-IMF-no-longer-engages-with-him-over-criticism-of-economic-policies/56-791999",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1778876257.0
+    "description": "\u0d85\u0db0\u0dd2\u0d9a \u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0dc0\u0dd6 \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0dc0\u0dd0\u0da7 \u0d8b\u0da9 \u0db1\u0dad\u0dbb \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/uncategorized/\u0d85\u0db0\u0dd2\u0d9a-\u0dc0\u0dda\u0d9c\u0dba\u0dd9\u0db1\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba-\u0dc0\u0dd6-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad-\u0dc0\u0dd0\u0da7-\u0d8b\u0da9-\u0db1\u0dad\u0dbb-\u0dc0\u0dd9\u0dba\u0dd2/1-422477",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1778895007.0
   }
 }
