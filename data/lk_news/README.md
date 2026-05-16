@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--16_04:05:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--16_06:31:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,210** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,218** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -55,12 +55,12 @@ A collection of lk_news documents.
 - 2026-05-15 | `dailyftlk-bcab3589` | SL must act now to capture quality investment in shifting global economy, warn senior officials and economists | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-dailyftlk-bcab3589)
 - 2026-05-15 | `dailyftlk-213e379d` | Economic bridges — not a land bridge with India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-dailyftlk-213e379d)
 - 2026-05-15 | `dailyftlk-7824b649` | Italy in the Hormuz crisis: diplomacy, naval missions and food security | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-dailyftlk-7824b649)
+- 2026-05-15 | `islandlk-f720131c` | Investor optimism on IMF’s oncoming tranches elevates bourse to positive heights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-islandlk-f720131c)
+- 2026-05-15 | `islandlk-cf6d83e2` | Mark and Comm deploys Talkwalker to raise the bar on social intelligence for Sri Lankan brands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-islandlk-cf6d83e2)
+- 2026-05-15 | `islandlk-4bb5c731` | Pan Asia Bank records highest ever quarterly Deposits and Advances growth in Q1 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-islandlk-4bb5c731)
 - 2026-05-15 | `colombotelegraphcom-7679e21b` | Some Lessons That Can Be Learned Even From Disasters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-colombotelegraphcom-7679e21b)
-- 2026-05-15 | `colombotelegraphcom-6fd6491d` | The Palk Strait Link: Sri Lanka’s Unresolved Question With India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-colombotelegraphcom-6fd6491d)
-- 2026-05-15 | `virakesarilk-1aef3f57` | மட்டக்களப்பில் சுகாதாரமற்ற உணவகத்துக்கு சீல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-1aef3f57)
-- 2026-05-15 | `tamilmirrorlk-8659fdc5` | மின் விநியோகத் தடை குறித்து பிரதமர் வெளியிட்ட அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-tamilmirrorlk-8659fdc5)
-- 2026-05-15 | `virakesarilk-79752f87` | இந்திய சபாநாயகர் ஓம் பிர்லாவை சந்தித்த இலங்கை பெண் எம்.பிக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-79752f87)
-- 2026-05-15 | `virakesarilk-652f8b14` | தொழில் அமைச்சர் - ரஷ்ய தூதுவர் சந்திப்பு ; இலங்கையின் பொருளாதார முன்னேற்றத்துக்கு ஒத்துழைப்பு வழங்குவோம் என்றார் தூதுவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-virakesarilk-652f8b14)
+- 2026-05-15 | `islandlk-e2e30498` | ComBank Group’s assets cross Rs. 3.5 tn. in ‘milestone-rich’ first quarter of 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-islandlk-e2e30498)
+- 2026-05-15 | `islandlk-208875fd` | Full’r Burgers opens 11th outlet in Malabe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-15-islandlk-208875fd)
 
 ---
 
