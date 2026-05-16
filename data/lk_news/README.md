@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--17_02:00:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--17_04:00:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,280** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,283** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,9 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-05-16 | `virakesarilk-6b22afc7` | இரயில் தண்டவாளத்திலிருந்து ஆணியை அகற்றிய நபரின் வீட்டில் கண்டெடுக்கப்பட்ட பல பொருட்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-6b22afc7)
+- 2026-05-16 | `colombotelegraphcom-e729eb97` | Reflections On Buddhist Rituals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-colombotelegraphcom-e729eb97)
+- 2026-05-16 | `colombotelegraphcom-e09a104a` | Why Is NDB Fraud Being Buried? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-colombotelegraphcom-e09a104a)
+- 2026-05-16 | `colombotelegraphcom-61c19864` | The Need Of A New Paradigm In Agriculture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-colombotelegraphcom-61c19864)
 - 2026-05-16 | `tamilmirrorlk-7bcd7fe8` | தண்டவாளத்தில் ஆணி கழற்றியவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-tamilmirrorlk-7bcd7fe8)
 - 2026-05-16 | `virakesarilk-5b1dc129` | வடகிழக்கு யுத்தத்தின் இறுதிக்காலம் மஹிந்த ராஜபக்ஷ போன்றவர்களை தேசிய வீரர்களாக மாற்றுவதற்காக பயன்படுத்தப்பட்டது ; முள்ளிவாய்க்காலுடன் வரலாறு முடிந்துவிட்டதா?  -  சம உரிமை இயக்கம் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-5b1dc129)
 - 2026-05-16 | `virakesarilk-a765a97c` | தயாரிப்பாளர் கலைப்புலி எஸ். தாணு வெளியிட்ட 'கங்கணம்' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-a765a97c)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-05-16 | `virakesarilk-7d622600` | விவசாயத் துறையில் மாற்றமில்லை! - அரசாங்கத்தை நோக்கி மட்டு. விவசாய அமைப்புகள் சுட்டிக்காட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-7d622600)
 - 2026-05-16 | `tamilmirrorlk-38279f6f` | இன்று மாலை வெளியிடப்பட்ட எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-tamilmirrorlk-38279f6f)
 - 2026-05-16 | `virakesarilk-8f6279fb` | கமல்ஹாசன் – விஜய் சந்திப்பு : தமிழ்த் திரைப்படத் துறைக்கு அரசின் ஆதரவு கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-8f6279fb)
-- 2026-05-16 | `virakesarilk-815cfcca` | அ.தி.மு.க.,வை இணைக்க ரஜினி முயற்சி? - கட்சியின் மூத்த நிர்வாகிகளிடம் நேரடி பேச்சு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-815cfcca)
-- 2026-05-16 | `virakesarilk-8d3d73ce` | கட்டுப்பாட்டை இழந்த கார் வீதியை விட்டு விலகி விபத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-8d3d73ce)
-- 2026-05-16 | `virakesarilk-a9a0a72e` | செட்டிக்குளத்தில் முள்ளிவாய்க்கால் நினைவேந்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-16-virakesarilk-a9a0a72e)
 
 ---
 
