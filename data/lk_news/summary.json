@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-17 06:34:58",
-  "n_docs": 113298,
+  "time_updated": "2026-05-17 08:53:39",
+  "n_docs": 113308,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 113298,
+  "n_docs_with_text": 113308,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-17",
-  "dataset_size": 1758903877,
+  "dataset_size": 1759172824,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-17-islandlk-b4123f69",
-    "num": "islandlk-b4123f69",
+    "doc_id": "2026-05-17-virakesarilk-d0b00080",
+    "num": "virakesarilk-d0b00080",
     "date_str": "2026-05-17",
-    "description": "A sustainable, inclusive and globally competitive tourism industry can be built through close partnerships and collaboration \u2013 PM",
-    "url_metadata": "http://island.lk/a-sustainable-inclusive-and-globally-competitive-tourism-industry-can-be-built-through-close-partnerships-and-collaboration-pm/",
-    "lang": "en",
-    "newspaper_id": "islandlk",
-    "time_ut": 1778972640.0
+    "description": "\u0bb2\u0bca\u0bb1\u0bbf \u0bae\u0bcb\u0ba4\u0bbf \u0ba4\u0bc7\u0bb0\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/246688",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1778987100.0
   }
 }
