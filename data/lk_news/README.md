@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--17_14:28:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--17_16:15:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,367** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,372** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-17-virakesarilk-93c6a231",
-    "num": "virakesarilk-93c6a231",
+    "doc_id": "2026-05-17-tamilmirrorlk-3326fa13",
+    "num": "tamilmirrorlk-3326fa13",
     "date_str": "2026-05-17",
-    "description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0bae\u0ba4\u0bc1\u0baa\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/246734",
+    "description": "\u0ba8\u0bc0\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc1\u0bb4\u0bb2\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf \u0b87\u0bb0\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc1\u0bb4\u0bb2\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf-\u0b87\u0bb0\u0bc1-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0bb2\u0bbf/175-377237",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1779007440.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1779011591.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-17 | `tamilmirrorlk-3326fa13` | நீர்ச்சுழலில் சிக்கி இரு இளைஞர்கள் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-tamilmirrorlk-3326fa13)
+- 2026-05-17 | `tamilmirrorlk-74ab99dd` | முள்ளிவாய்க்கால் நினைவாக ’’போய்வாறோம் தாயே’’ பாடல்  வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-tamilmirrorlk-74ab99dd)
+- 2026-05-17 | `tamilmirrorlk-2941e03c` | ஆணுறைகள் காட்டிக்கொடுத்த ரகசியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-tamilmirrorlk-2941e03c)
+- 2026-05-17 | `tamilmirrorlk-bb87d766` | கூச்சமின்றி கூறிய மியா கலிஃபா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-tamilmirrorlk-bb87d766)
 - 2026-05-17 | `virakesarilk-93c6a231` | சட்டவிரோத மதுபானத்துடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-93c6a231)
 - 2026-05-17 | `virakesarilk-fd793831` | ஜனாதிபதி போட்ட குண்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-fd793831)
 - 2026-05-17 | `virakesarilk-846a29a4` | கார் - மோட்டார் சைக்கிள் மோதி விபத்து: இளைஞர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-846a29a4)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-05-17 | `virakesarilk-5af57216` | நல்லூர் கந்தசுவாமி கோவில் திருவிழா 2026: ஆகஸ்ட் 16ல் கொடியேற்றத்துடன் ஆரம்பம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-5af57216)
 - 2026-05-17 | `tamilmirrorlk-524611c0` | எபோலா எச்சரிக்கை: அவசரநிலை பிரகடனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-tamilmirrorlk-524611c0)
 - 2026-05-17 | `virakesarilk-5f135878` | இளம் வயதிலேயே சிறுமிகள் கப்பிணிகளாக மாறும் நிலை தொடர்ந்து அதிகரித்து வருகிறது - இலங்கை பொலிஸ் அறிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-5f135878)
-- 2026-05-17 | `tamilmirrorlk-b0be6b84` | 17 வயது இளைஞன் மர்ம மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-tamilmirrorlk-b0be6b84)
-- 2026-05-17 | `virakesarilk-09f20066` | சாய்ந்தமருது நகர சபையை ஸ்தாபிக்கும் செயற்பாடுகள் ஜனாதிபதி அனுசரணையில் வெற்றிகரமாக முன்னெடுக்கப்படும் - ஆதம்பாவா எம்.பி உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-09f20066)
-- 2026-05-17 | `virakesarilk-ef56cd68` | "உலகளாவிய நெருக்கடிகள் பல தசாப்த கால வளர்ச்சியை அழித்துவிடும்" - நெதர்லாந்தில் இந்தியப் பிரதமர் நரேந்திர மோடி எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-ef56cd68)
-- 2026-05-17 | `virakesarilk-e3aaba0e` | ஐக்கிய அரபு அமீரகம் மற்றும் இந்தியாவில் நிதி மோசடி: ஸ்ரீலங்கன் எயார்லைன்ஸ் விளக்கம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-e3aaba0e)
 
 ---
 
