@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--17_20:15:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--17_22:05:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,407** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,410** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-17-virakesarilk-67abb076",
-    "num": "virakesarilk-67abb076",
+    "doc_id": "2026-05-17-tamilmirrorlk-9f8bdaf4",
+    "num": "tamilmirrorlk-9f8bdaf4",
     "date_str": "2026-05-17",
-    "description": "\u0bb5\u0bbf\u0b95\u0bcd\u0b9f\u0bcb\u0bb0\u0bbf\u0baf\u0bbe \u0ba8\u0bc0\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc7\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0bb0\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/246776",
+    "description": "\u0bae\u0bc2\u0ba4\u0bcd\u0ba4 \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0b9c\u0bc6\u0baf\u0bb0\u0bbe\u0b9c\u0bcd \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc2\u0ba4\u0bcd\u0ba4-\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd-\u0b9c\u0bc6\u0baf\u0bb0\u0bbe\u0b9c\u0bcd-\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/175-377268",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1779025380.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1779032548.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-17 | `tamilmirrorlk-9f8bdaf4` | மூத்த ஊடகவியலாளர் ஜெயராஜ் காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-tamilmirrorlk-9f8bdaf4)
+- 2026-05-17 | `tamilmirrorlk-f6ed0fb5` | “சூரிய சக்தி திட்டத்தால் வாழ்வாதாரத்தை இழக்கும் மக்கள் ” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-tamilmirrorlk-f6ed0fb5)
+- 2026-05-17 | `tamilmirrorlk-0a14eb78` | பாழடைந்த மடப்பள்ளியிலிருந்து சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-tamilmirrorlk-0a14eb78)
 - 2026-05-17 | `virakesarilk-67abb076` | விக்டோரியா நீர்த்தேக்கத்தில் நீரில் மூழ்கி இருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-67abb076)
 - 2026-05-17 | `virakesarilk-f9c1da9c` | மேற்கு மாகாண ஆளுநர் ஹனிஃப் யூசுஃப் பதவி விலகல் தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-f9c1da9c)
 - 2026-05-17 | `tamilmirrorlk-0666ca8c` | கனேடியருக்கு ‘ஹண்டா’ வைரஸ் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-tamilmirrorlk-0666ca8c)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-05-17 | `virakesarilk-8d457b32` | மடு பெரிய முறிப்பு பகுதியில் முள்ளிவாய்க்கால் கஞ்சி வழங்கும் நிகழ்வு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-8d457b32)
 - 2026-05-17 | `virakesarilk-89b03af1` | முள்ளிவாய்க்கால் இனப்படுகொலைக்கு யார் காரணமாக இருந்தார்களோ அவர்களுக்கே மக்கள் வாக்களித்து பதவியிலும் அமர்த்தும் நிலைக்கு தள்ளியுள்ளனர் - அருட்தந்தை மா. சத்திவேல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-89b03af1)
 - 2026-05-17 | `virakesarilk-330e0d82` | இலங்கை தமிழரசுக் கட்சியின் மன்னார் கிளையின்  ஏற்பாட்டில்  முள்ளிவாய்க்கால் நினைவேந்தல் கஞ்சி பகிர்வு  முன்னெடுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-330e0d82)
-- 2026-05-17 | `virakesarilk-c52642ed` | பொன்னாலையில் முள்ளிவாய்க்கால் நினைவேந்தல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-c52642ed)
-- 2026-05-17 | `virakesarilk-09e26094` | மட்டக்களப்பில் வலிந்து காணாமலாக்கப்பட்ட உறவுகளுக்காக நீதி கோரி போராடிய தாய் நீதி கிடைக்காமலேயே மரணம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-09e26094)
-- 2026-05-17 | `virakesarilk-f26fcf35` | 17 வருடங்கள் கடந்தும் போர் குற்றங்களுக்கு நீதி கிடைக்கவில்லை - நடிகர் நிழல்கள் ரவி கவலை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-17-virakesarilk-f26fcf35)
 
 ---
 
