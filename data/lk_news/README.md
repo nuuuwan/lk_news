@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--18_19:03:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--18_20:51:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,495** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,496** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,7 @@ A collection of lk_news documents.
 - 2026-05-18 | `tamilmirrorlk-11b2a331` | ரணவிரு நினைவு தின  ஒத்திகைக்கு  விமல் குழு இடையூறு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-11b2a331)
 - 2026-05-18 | `tamilmirrorlk-13bf0047` | ஜூலை 17இல் ஆரம்பமாகிறது LPL 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-13bf0047)
 - 2026-05-18 | `tamilmirrorlk-9915f95f` | பெண் பிரதிநிதிகளின் சவால்களும் எதிர்காலத் திட்டங்களும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-9915f95f)
+- 2026-05-18 | `adalk-4d453aed` | ඇමෙරිකානු ප්‍රහාරක ජෙට් යානා දෙකක් එකිනෙක ගැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-adalk-4d453aed)
 - 2026-05-18 | `tamilmirrorlk-00bfc9bd` | நீரில் மூழ்கி ஏற்படும்  உயிரிழப்புகளைத் தடுப்போம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-00bfc9bd)
 - 2026-05-18 | `tamilmirrorlk-5dea9357` | நாடு மீண்டும் நெருக்கடியில்? மத்திய வங்கி ஆளுநர் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-5dea9357)
 - 2026-05-18 | `tamilmirrorlk-32156a78` | இம்ரான் கான் ஆட்சி கவிழ்ப்பின் பின்னணியில் அமெரிக்கா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-32156a78)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-05-18 | `tamilmirrorlk-2adc2462` | சசாராம் இரயில் நிலையத்தில் தீ விபத்து (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-2adc2462)
 - 2026-05-18 | `tamilmirrorlk-40795214` | பீஹாரில் பயணிகள் ரயிலில் பயங்கர தீ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-40795214)
 - 2026-05-18 | `tamilmirrorlk-200a6176` | ’’விஜய்யின் ஆட்சி தாங்காது!’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-200a6176)
-- 2026-05-18 | `tamilmirrorlk-4ab22b10` | நீதி கிடைக்கும் வரைக்கும் போராட்டம் தொடரும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-4ab22b10)
 
 ---
 
