@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--18_11:09:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--18_13:13:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,474** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,479** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-18-tamilmirrorlk-2ee118e4",
-    "num": "tamilmirrorlk-2ee118e4",
+    "doc_id": "2026-05-18-tamilmirrorlk-9e5fb7bb",
+    "num": "tamilmirrorlk-9e5fb7bb",
     "date_str": "2026-05-18",
-    "description": "\u0ba8\u0b9f\u0bc1\u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd \u0bae\u0bcb\u0ba4\u0bbf\u0baf \u0b87\u0bb0\u0bc1 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0b9f\u0bc1\u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd-\u0bae\u0bcb\u0ba4\u0bbf\u0baf-\u0b87\u0bb0\u0bc1-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/50-377282",
+    "description": "\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bbf\u0ba9\u0bcd \u0b85\u0b9c\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0ba4\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0ba8\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0b9a\u0bcb\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bbf\u0ba9\u0bcd-\u0b85\u0b9c\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0ba4\u0bc8\u0baf\u0bbe\u0bb2\u0bcd-\u0ba8\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4-\u0b9a\u0bcb\u0b95\u0bae\u0bcd/175-377288",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1779081882.0
+    "time_ut": 1779087273.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-18 | `tamilmirrorlk-9e5fb7bb` | ஓட்டுநரின் அஜாக்கிரதையால் நேர்ந்த சோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-9e5fb7bb)
+- 2026-05-18 | `tamilmirrorlk-2adc2462` | சசாராம் இரயில் நிலையத்தில் தீ விபத்து (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-2adc2462)
+- 2026-05-18 | `tamilmirrorlk-40795214` | பீஹாரில் பயணிகள் ரயிலில் பயங்கர தீ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-40795214)
+- 2026-05-18 | `tamilmirrorlk-200a6176` | ’’விஜய்யின் ஆட்சி தாங்காது!’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-200a6176)
+- 2026-05-18 | `tamilmirrorlk-4ab22b10` | நீதி கிடைக்கும் வரைக்கும் போராட்டம் தொடரும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-4ab22b10)
 - 2026-05-18 | `tamilmirrorlk-2ee118e4` | நடுவானில் மோதிய இரு விமானங்கள் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-2ee118e4)
 - 2026-05-18 | `tamilmirrorlk-e3dd50da` | கம்பி கட்டி  சைக்கிள்  பிடித்த நால்வர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-e3dd50da)
 - 2026-05-18 | `tamilmirrorlk-86aeda73` | நந்திக்கடலில் மலர்தூவி, சுடரேற்றி அஞ்சலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-86aeda73)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-05-18 | `dailyftlk-87ac268a` | Future-proofing digital trust in quantum era | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-dailyftlk-87ac268a)
 - 2026-05-18 | `dailyftlk-a1f27c47` | Building AI enterprises can rely on | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-dailyftlk-a1f27c47)
 - 2026-05-18 | `dailyftlk-32b812a2` | Sri Lanka makes Guinness world record history with Merak 2026 sensory board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-dailyftlk-32b812a2)
-- 2026-05-18 | `dailyftlk-dcee68c0` | Sri Lankan Ambassador lays strong foundation for strengthening relations with ApexBrasil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-dailyftlk-dcee68c0)
-- 2026-05-18 | `dailyftlk-649fcb0f` | CDF Duty Free opens at Port City Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-dailyftlk-649fcb0f)
-- 2026-05-18 | `dailyftlk-b375daec` | Manufacturing, services PMI slows down in April | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-dailyftlk-b375daec)
-- 2026-05-18 | `adalk-f5974b43` | අද වහින්නේ මෙහෙමයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-adalk-f5974b43)
-- 2026-05-18 | `dailyftlk-7165f8ef` | Lanka Realty trims Lee Hedges stake to 51% through Rs. 140.3 m sale | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-dailyftlk-7165f8ef)
 
 ---
 
