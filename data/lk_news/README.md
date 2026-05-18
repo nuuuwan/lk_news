@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--18_22:44:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--19_00:23:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,522** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,524** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-18-virakesarilk-519273ba",
-    "num": "virakesarilk-519273ba",
-    "date_str": "2026-05-18",
-    "description": "\u0bae\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0bb5\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bbe\u0bb2\u0bcd \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc7\u0ba8\u0bcd\u0ba4\u0bb2\u0bcd: \u0b9a\u0bae\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9a\u0bbf \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1\u0baa\u0bc2\u0bb0\u0bcd\u0bb5 \u0b85\u0b9e\u0bcd\u0b9a\u0bb2\u0bbf",
-    "url_metadata": "https://www.virakesari.lk/article/246905",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1779123960.0
+    "doc_id": "2026-05-19-dailyftlk-5e5dc537",
+    "num": "dailyftlk-5e5dc537",
+    "date_str": "2026-05-19",
+    "description": "What Singapore\u2019s economic blueprint means for Sri Lanka \u2014 and how to get there",
+    "url_metadata": "https://www.ft.lk/columns/What-Singapore-s-economic-blueprint-means-for-Sri-Lanka-and-how-to-get-there/4-792084",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779130080.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-19 | `dailyftlk-5e5dc537` | What Singapore’s economic blueprint means for Sri Lanka — and how to get there | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-dailyftlk-5e5dc537)
+- 2026-05-18 | `tamilmirrorlk-e55af6c4` | சர்வதேச அவசரநிலையாகப் பிரகடனப்படுத்தப்பட்ட கொங்கோ எபோலா பரவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-e55af6c4)
 - 2026-05-18 | `virakesarilk-519273ba` | முள்ளிவாய்க்கால் நினைவேந்தல்: சமத்துவக் கட்சி அலுவலகத்தில் உணர்வுபூர்வ அஞ்சலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-virakesarilk-519273ba)
 - 2026-05-18 | `tamilmirrorlk-110547c1` | கண்ணீர் மழையில் நனைந்த முள்ளிவாய்க்கால் முற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-110547c1)
 - 2026-05-18 | `virakesarilk-de2749dc` | போர் வீரர்கள் நினைவிடத்தில் பதற்றம் : விமல் வீரவங்ச உள்ளிட்ட குழுவினருக்கு எதிராக சட்ட நடவடிக்கை! - பொலிஸ் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-virakesarilk-de2749dc)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-05-18 | `virakesarilk-5811c445` | குருக்கள்மடம் மனிதப் புதைகுழி : 22ஆம் திகதிக்குள் நீதிமன்றத்தில் இறுதி அறிக்கை சமர்ப்பிக்கப்படும்! - சட்டத்தரணி முபாறக் முஅஸ்ஸம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-virakesarilk-5811c445)
 - 2026-05-18 | `virakesarilk-8d60b40e` | இறுதிப்போர் முடிந்து 17 ஆண்டுகள்: சர்வதேச பங்களிப்புடன் கூடிய பொறுப்புக்கூறல் பொறிமுறை அவசியம் - மனித உரிமை அமைப்புகள் வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-virakesarilk-8d60b40e)
 - 2026-05-18 | `tamilmirrorlk-13bf0047` | ஜூலை 17இல் ஆரம்பமாகிறது LPL 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-13bf0047)
-- 2026-05-18 | `tamilmirrorlk-9915f95f` | பெண் பிரதிநிதிகளின் சவால்களும் எதிர்காலத் திட்டங்களும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-9915f95f)
-- 2026-05-18 | `adalk-4d453aed` | ඇමෙරිකානු ප්‍රහාරක ජෙට් යානා දෙකක් එකිනෙක ගැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-adalk-4d453aed)
 
 ---
 
