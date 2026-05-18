@@ -188822,5 +188822,71 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1779130080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-19-dailyftlk-9fab42cd",
+    "num": "dailyftlk-9fab42cd",
+    "date_str": "2026-05-19",
+    "description": "Preventing the next financial scandal: Towards an AI-driven national financial intelligence framework",
+    "url_metadata": "https://www.ft.lk/columns/Preventing-the-next-financial-scandal-Towards-an-AI-driven-national-financial-intelligence-framework/4-792085",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779130281.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-19-dailyftlk-e952ae1e",
+    "num": "dailyftlk-e952ae1e",
+    "date_str": "2026-05-19",
+    "description": "Sri Lanka\u2019s path forward: Sovereignty, reconciliation and a shared future",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-path-forward-Sovereignty-reconciliation-and-a-shared-future/4-792087",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779130651.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-19-dailyftlk-e30c3905",
+    "num": "dailyftlk-e30c3905",
+    "date_str": "2026-05-19",
+    "description": "Deshini Abeyewardena joins Cable Solutions Board",
+    "url_metadata": "https://www.ft.lk/business/Deshini-Abeyewardena-joins-Cable-Solutions-Board/34-792097",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779133075.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-19-dailyftlk-90f8e8dc",
+    "num": "dailyftlk-90f8e8dc",
+    "date_str": "2026-05-19",
+    "description": "David Pieris Automobiles delivers BAIC X55 fleet to Chevron Lubricants Lanka",
+    "url_metadata": "https://www.ft.lk/business/David-Pieris-Automobiles-delivers-BAIC-X55-fleet-to-Chevron-Lubricants-Lanka/34-792098",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779133162.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-19-dailyftlk-3ccaca8a",
+    "num": "dailyftlk-3ccaca8a",
+    "date_str": "2026-05-19",
+    "description": "Foreign Affairs, Foreign Employment and Tourism Ministry launches revamped website",
+    "url_metadata": "https://www.ft.lk/business/Foreign-Affairs-Foreign-Employment-and-Tourism-Ministry-launches-revamped-website/34-792099",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779133232.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-19-dailyftlk-9569b956",
+    "num": "dailyftlk-9569b956",
+    "date_str": "2026-05-19",
+    "description": "CanCham SL unveils strategy to deepen Canada-Sri Lanka economic ties",
+    "url_metadata": "https://www.ft.lk/business/CanCham-SL-unveils-strategy-to-deepen-Canada-Sri-Lanka-economic-ties/34-792100",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779133343.0
   }
 ]

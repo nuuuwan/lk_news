@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-19 00:22:56",
-  "n_docs": 113524,
+  "time_updated": "2026-05-19 02:17:11",
+  "n_docs": 113530,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 113524,
+  "n_docs_with_text": 113530,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-19",
-  "dataset_size": 1763206043,
+  "dataset_size": 1763289570,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
+    "ta",
     "si",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-19-dailyftlk-5e5dc537",
-    "num": "dailyftlk-5e5dc537",
+    "doc_id": "2026-05-19-dailyftlk-9569b956",
+    "num": "dailyftlk-9569b956",
     "date_str": "2026-05-19",
-    "description": "What Singapore\u2019s economic blueprint means for Sri Lanka \u2014 and how to get there",
-    "url_metadata": "https://www.ft.lk/columns/What-Singapore-s-economic-blueprint-means-for-Sri-Lanka-and-how-to-get-there/4-792084",
+    "description": "CanCham SL unveils strategy to deepen Canada-Sri Lanka economic ties",
+    "url_metadata": "https://www.ft.lk/business/CanCham-SL-unveils-strategy-to-deepen-Canada-Sri-Lanka-economic-ties/34-792100",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1779130080.0
+    "time_ut": 1779133343.0
   }
 }
