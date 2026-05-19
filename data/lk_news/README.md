@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--19_18:59:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--19_20:51:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,638** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,640** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-19-virakesarilk-55239ebe",
-    "num": "virakesarilk-55239ebe",
+    "doc_id": "2026-05-19-adalk-6df5ea1b",
+    "num": "adalk-6df5ea1b",
     "date_str": "2026-05-19",
-    "description": "\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0baf\u0bb0\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/247008",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1779196800.0
+    "description": "\u0dc3\u0dca\u0da7\u0dd1\u0db1\u0dca\u0da9\u0dbb\u0dca\u0da9\u0dca \u0da0\u0dcf\u0da7\u0da9\u0dca \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf 7800\u0d9a\u0dca \u0d9a\u0dd8\u0dad\u0dd2\u0db8 \u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2\u0dba \u0db1\u0dd2\u0dc3\u0dcf \u0d89\u0dc0\u0dad\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dca\u0da7\u0dd1\u0db1\u0dca\u0da9\u0dbb\u0dca\u0da9\u0dca-\u0da0\u0dcf\u0da7\u0da9\u0dca-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dda-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-7800\u0d9a\u0dca-\u0d9a\u0dd8\u0dad\u0dd2\u0db8-\u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2\u0dba-\u0db1\u0dd2\u0dc3\u0dcf-\u0d89\u0dc0\u0dad\u0da7/11-422517",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1779197053.0
 }
 ```
 
@@ -41,8 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-19 | `adalk-6df5ea1b` | ස්ටෑන්ඩර්ඩ් චාටඩ් බැංකුවේ රැකියා 7800ක් කෘතිම බුද්ධිය නිසා ඉවතට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-adalk-6df5ea1b)
 - 2026-05-19 | `virakesarilk-55239ebe` | பிரித்தானியாவில் உயர் அதிகாரிகளால் வரவேற்கப்பட்டார் பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-55239ebe)
 - 2026-05-19 | `virakesarilk-11224bac` | வடக்கில் டித்வா புயலால் பாதிக்கப்பட்ட மீனவர்களின் சேதமடைந்த வலை, படகுகளுக்கு இழப்பீடுகள் வழங்க நடவடிக்கை - என்.எம். ஆலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-11224bac)
+- 2026-05-19 | `adalk-eea243b8` | තවත් මෙට්‍රෝ බස් 104ක් අගෝස්තු 15ට පෙර ගෙනෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-adalk-eea243b8)
 - 2026-05-19 | `adalk-3917c8ea` | සියලු දන්සල් ලියාපදිංචිය අනිවාර්යයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-adalk-3917c8ea)
 - 2026-05-19 | `virakesarilk-a2d3420b` | இனி ஒருபோதும் நாட்டில் யுத்தம் ஏற்படாது; பிரிவினைவாதத்திற்கு எனது ஆட்சியில் இடமில்லை - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-a2d3420b)
 - 2026-05-19 | `adalk-b30c52c5` | ගල් අඟුරු ප්‍රවාහන නෞකා සඳහා ප්‍රමාද ගාස්තු ගෙවා නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-adalk-b30c52c5)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-05-19 | `tamilmirrorlk-a7611d3e` | புதிய உச்சத்தைத் தொட்டது டொலர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-tamilmirrorlk-a7611d3e)
 - 2026-05-19 | `tamilmirrorlk-ab27d954` | பொதுமக்களின் உதவியை நாடும் பொலிஸார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-tamilmirrorlk-ab27d954)
 - 2026-05-19 | `virakesarilk-80073055` | அக்குரேகொட இரட்டைக்கொலைச் சம்பவம்: தேடப்படும் சந்தேகநபரை கைது செய்ய பொதுமக்களிடம் உதவிகோரும் பொலிஸார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-80073055)
-- 2026-05-19 | `tamilmirrorlk-075cd97f` | இந்திய விமானப்படைத் தளபதி  வந்தடைந்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-tamilmirrorlk-075cd97f)
-- 2026-05-19 | `virakesarilk-e7fa3cbc` | 17 ஆண்டுகளுக்கு பிறகும் அப்படியே இருக்கும் போரின் வடுக்கள் - பகுதி 02 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-e7fa3cbc)
 
 ---
 
