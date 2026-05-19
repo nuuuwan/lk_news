@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--19_04:06:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--19_06:37:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,549** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,573** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-19-tamilmirrorlk-33cd0701",
-    "num": "tamilmirrorlk-33cd0701",
+    "doc_id": "2026-05-19-adalk-cede76f3",
+    "num": "adalk-cede76f3",
     "date_str": "2026-05-19",
-    "description": "\u2019\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bc1\u0baf\u0bb0 \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc8 \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b87\u0ba4\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8f\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bcb\u0bae\u0bcd\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba4\u0bc1\u0baf\u0bb0-\u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc8-\u0b8e\u0ba9\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0b87\u0ba4\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b8f\u0ba8\u0bcd\u0ba4\u0bc1\u0bb5\u0bcb\u0bae\u0bcd/175-377324",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1779141884.0
+    "description": "\u0dc3\u0dd9\u0dbd\u0dd2\u0db1\u0dca\u0d9a\u0ddd \u0dbd\u0dba\u0dd2\u0dc6\u0dca \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca \u0d9a\u0dc5\u0dd4\u0dad\u0dbb \u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0db4\u0dbb\u0dd2\u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0dc3\u0dd9\u0dbd\u0dd2\u0db1\u0dca\u0d9a\u0ddd-\u0dbd\u0dba\u0dd2\u0dc6\u0dca-\u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca-\u0d9a\u0dc5\u0dd4\u0dad\u0dbb-\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0db4\u0dbb\u0dd2\u0dad\u0dca\u200d\u0dba\u0dcf\u0d9c\u0d9a\u0dca/7-422501",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1779151719.0
 }
 ```
 
@@ -41,6 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-19 | `adalk-cede76f3` | සෙලින්කෝ ලයිෆ් වෙතින් කළුතර ශික්ෂණ රෝහලට විශේෂ පරිත්‍යාගක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-adalk-cede76f3)
+- 2026-05-19 | `virakesarilk-ba32a135` | ஈரான் எண்ணெய் தடைகளை தற்காலிகமாக நீக்க அமெரிக்கா ஒப்புதல் – பேச்சுவார்த்தை முன்னேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-ba32a135)
+- 2026-05-19 | `virakesarilk-dbdd6c59` | ஜனாதிபதி மற்றும் நகர அபிவிருத்தி அதிகாரசபை அதிகாரிகளுக்கு இடையில் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-dbdd6c59)
+- 2026-05-19 | `virakesarilk-1caf8d30` | ஜனாதிபதியின் செயலாளர் மற்றும் பௌத்தாலோக வெசாக் குழு உறுப்பினர்களுக்கு இடையிலான சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-1caf8d30)
+- 2026-05-19 | `virakesarilk-a3eeb962` | தோட்டத் தொழிலாளர்கள் தாக்கப்படும் யுகம் முடிவுக்கு வந்துள்ளது; அவர்களின் பாதுகாப்பை உறுதிப்படுத்த வியாழனன்று விசேட பாராளுமன்றக் கூட்டம் - அரசாங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-a3eeb962)
+- 2026-05-19 | `virakesarilk-7b1f9074` | ஜனாதிபதி தலைமையில் 15ஆவது தேசிய மாவீரர் நினைவு தினம் இன்று பத்தரமுல்லையில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-7b1f9074)
+- 2026-05-19 | `virakesarilk-b7b329f9` | தேசிய இராணுவ வீரர் விழாவிற்கு மஹிந்த ராஜபக்ஷவுக்கு அழைப்பு விடுக்கவில்லை -  சட்டத்தரணி மனோஜ் கமகே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-b7b329f9)
+- 2026-05-19 | `virakesarilk-49606e36` | 2030ஆம் ஆண்டளவில் தேயிலை ஏற்றுமதி வருமானத்தை 2.5 பில்லியன் டொலராக உயர்த்த இலக்கு: அமைச்சர் சமந்த வித்தியாரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-49606e36)
+- 2026-05-19 | `virakesarilk-9eb63213` | 14 மில்லியன் செலவில் நிர்மாணிக்கப்பட்ட பாடசாலை கட்டிடம் ஆளுனரால் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-9eb63213)
+- 2026-05-19 | `virakesarilk-0239bb2e` | பதவி ஸ்ரீபுர நகர வீதி அபிவிருத்தித் திட்டம் ஆளுனரால் ஆரம்பித்து வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-0239bb2e)
+- 2026-05-19 | `tamilmirrorlk-f22250de` | ’பேச்சுவார்த்தை நடத்த மறுப்பது அறிவுப்பூர்வமானது அல்ல’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-tamilmirrorlk-f22250de)
 - 2026-05-19 | `tamilmirrorlk-33cd0701` | ’தமிழ் மக்களின் துயர வரலாற்றை என்றும் இதயத்தில் ஏந்துவோம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-tamilmirrorlk-33cd0701)
 - 2026-05-19 | `virakesarilk-954b4dbe` | பங்களாதேஷின் முஷ்பிக்குர், லிட்டன் தாஸ் துடுப்பாட்டத்தில் அபாரம்; பாகிஸ்தானுக்கு இமாலய வெற்றி இலக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-954b4dbe)
 - 2026-05-19 | `virakesarilk-65fda58e` | இலங்கை - நியூஸிலாந்து மகளிர் ஏ அணிகள் மோதிய ஒருநாள் தொடரில் DLS முறைமையில் நியூஸிலாந்து வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-65fda58e)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2026-05-19 | `dailyftlk-42eef79e` | Govt. to establish multi-stakeholder committees to tackle human-elephant conflict, elephant conservation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-dailyftlk-42eef79e)
 - 2026-05-19 | `virakesarilk-04bfc61a` | எல்பிஎல் 6ஆவது அத்தியாயம் எஸ்எஸ்சியில் ஆரம்பம்; கொழும்பு ஆர். பிரேமதாச விளையாட்டரங்கில் முடிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-virakesarilk-04bfc61a)
 - 2026-05-19 | `dailyftlk-8257ac92` | Sri Lanka, Belarus sign air services, education and healthcare agreements | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-dailyftlk-8257ac92)
-- 2026-05-19 | `dailyftlk-5a4af960` | Digital systems to support communities affected by Cyclone Ditwah go live | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-dailyftlk-5a4af960)
-- 2026-05-19 | `dailyftlk-18209662` | Representative-designate assumes duties in State of Palestine | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-dailyftlk-18209662)
-- 2026-05-19 | `dailyftlk-4b39c737` | Consul General-designate of  Sri Lanka assumes duties in Jeddah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-dailyftlk-4b39c737)
-- 2026-05-19 | `dailyftlk-9569b956` | CanCham SL unveils strategy to deepen Canada-Sri Lanka economic ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-dailyftlk-9569b956)
-- 2026-05-19 | `dailyftlk-3ccaca8a` | Foreign Affairs, Foreign Employment and Tourism Ministry launches revamped website | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-dailyftlk-3ccaca8a)
-- 2026-05-19 | `dailyftlk-90f8e8dc` | David Pieris Automobiles delivers BAIC X55 fleet to Chevron Lubricants Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-dailyftlk-90f8e8dc)
-- 2026-05-19 | `dailyftlk-e30c3905` | Deshini Abeyewardena joins Cable Solutions Board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-dailyftlk-e30c3905)
-- 2026-05-19 | `dailyftlk-e952ae1e` | Sri Lanka’s path forward: Sovereignty, reconciliation and a shared future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-dailyftlk-e952ae1e)
-- 2026-05-19 | `dailyftlk-9fab42cd` | Preventing the next financial scandal: Towards an AI-driven national financial intelligence framework | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-dailyftlk-9fab42cd)
-- 2026-05-19 | `dailyftlk-5e5dc537` | What Singapore’s economic blueprint means for Sri Lanka — and how to get there | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-19-dailyftlk-5e5dc537)
-- 2026-05-18 | `tamilmirrorlk-e55af6c4` | சர்வதேச அவசரநிலையாகப் பிரகடனப்படுத்தப்பட்ட கொங்கோ எபோலா பரவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-18-tamilmirrorlk-e55af6c4)
 
 ---
 
