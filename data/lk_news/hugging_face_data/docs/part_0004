@@ -190288,6 +190288,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-19-colombotelegraphcom-9c3f157f",
+    "num": "colombotelegraphcom-9c3f157f",
+    "date_str": "2026-05-19",
+    "description": "Stabilising Inequality: How Sri Lanka\u2019s Recovery Is Rebuilding The Same Broken System",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/stabilising-inequality-how-sri-lankas-recovery-is-rebuilding-the-same-broken-system/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1779197745.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-19-virakesarilk-ce103793",
     "num": "virakesarilk-ce103793",
     "date_str": "2026-05-19",
@@ -190318,6 +190329,28 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1779203280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-19-colombotelegraphcom-30cdc471",
+    "num": "colombotelegraphcom-30cdc471",
+    "date_str": "2026-05-19",
+    "description": "Economic Architecture: Titans, Tech & The Fight For Economic Recovery",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/economic-architecture-titans-tech-the-fight-for-economic-recovery/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1779204242.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-19-colombotelegraphcom-6a22b891",
+    "num": "colombotelegraphcom-6a22b891",
+    "date_str": "2026-05-19",
+    "description": "Dr. Shafi Shihabdeen \u2013 The Hands That Defied Chains",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/dr-shafi-shihabdeen-the-hands-that-defied-chains/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1779204684.0
   },
   {
     "doc_type": "lk_news",
