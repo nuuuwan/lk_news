@@ -192015,6 +192015,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-20-colombotelegraphcom-402de0f2",
+    "num": "colombotelegraphcom-402de0f2",
+    "date_str": "2026-05-20",
+    "description": "Structural Reforms Are Now More Crucial Than Ever",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/structural-reforms-are-now-more-crucial-than-ever/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1779290605.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-20-colombotelegraphcom-df465a2c",
+    "num": "colombotelegraphcom-df465a2c",
+    "date_str": "2026-05-20",
+    "description": "Can Small States Afford Limited Diplomatic Presence? Lessons For Sri Lanka From Antalya",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/can-small-states-afford-limited-diplomatic-presence-lessons-for-sri-lanka-from-antalya/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1779291032.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-20-tamilmirrorlk-4ccfc60b",
     "num": "tamilmirrorlk-4ccfc60b",
     "date_str": "2026-05-20",
