@@ -191982,6 +191982,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-20-colombotelegraphcom-44e5aed5",
+    "num": "colombotelegraphcom-44e5aed5",
+    "date_str": "2026-05-20",
+    "description": "1921 To 2026: How Sri Lanka Failed To Resolve The Tamil Question",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/1921-to-2026-how-sri-lanka-failed-to-resolve-the-tamil-question/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1779288779.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-20-virakesarilk-08d9d02c",
     "num": "virakesarilk-08d9d02c",
     "date_str": "2026-05-20",

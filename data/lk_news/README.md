@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--21_00:35:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--21_02:29:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,816** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,817** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2026-05-20 | `tamilmirrorlk-4ccfc60b` | பலாக்காய் பறிக்க முயன்றவர் கிணற்றில் விழுந்து பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-20-tamilmirrorlk-4ccfc60b)
 - 2026-05-20 | `tamilmirrorlk-4ba4fd4d` | நீர்வீழ்ச்சியிலிருந்து விழுந்து இளைஞன் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-20-tamilmirrorlk-4ba4fd4d)
 - 2026-05-20 | `virakesarilk-08d9d02c` | காசல் வீதி வைத்தியசாலையில் குழந்தைகளுக்கு பால் மாற்று அறுவைசிகிச்சைகள் செய்யப்படுவதில்லை - பணிப்பாளர் சுகாதார அமைச்சிக்கு கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-20-virakesarilk-08d9d02c)
+- 2026-05-20 | `colombotelegraphcom-44e5aed5` | 1921 To 2026: How Sri Lanka Failed To Resolve The Tamil Question | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-20-colombotelegraphcom-44e5aed5)
 - 2026-05-20 | `virakesarilk-24f3865f` | மலையக வீட்டு திட்டங்களுக்கு பெருந்தோட்ட கம்பனிகள் தடையாக உள்ளன - ஜீவன் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-20-virakesarilk-24f3865f)
 - 2026-05-20 | `virakesarilk-cf9bacec` | அரசாங்கம் வழங்கிய வாக்குறுதிகளை நிறைவேற்றும் வரை நாங்கள் மக்கள் பக்கம் இருப்போம் - சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-20-virakesarilk-cf9bacec)
 - 2026-05-20 | `virakesarilk-566fdbda` | வருடாந்தம் 50 - 60 குழந்தைகள் தலசீமியா நோயுடன் பிறக்கின்றனர் - வைத்தியர் ஸ்ரீனி அழகப்பெரும | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-20-virakesarilk-566fdbda)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-05-20 | `virakesarilk-e6437ac7` | அர்த்தமுள்ள மாற்றத்துக்கு  பேச்சுவார்த்தை அவசியம்  - ஒக்ஸ்போர்ட் பல்கலைக்கழக உரையில் பிரதமர் ஹரிணி தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-20-virakesarilk-e6437ac7)
 - 2026-05-20 | `virakesarilk-7217375b` | உயிர்த்த ஞாயிறு தாக்குதல் : பிள்ளையானை சிறையில் மஹிந்த, நாமல், பசில் சந்தித்ததாக சட்ட மாஅதிபர் நீதிமன்றுக்கு அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-20-virakesarilk-7217375b)
 - 2026-05-20 | `virakesarilk-02b21c13` | நூலறுந்த பட்டம் போல உயரும் டொலர்; கோட்டாவின் இருண்ட யுகமே தொடர்கிறது - ரஞ்சித் மத்தும பண்டார! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-20-virakesarilk-02b21c13)
-- 2026-05-20 | `virakesarilk-a989a1a3` | திட்டமிடப்பட்டுள்ள நிர்மாண பணிகளை ஆரம்பியுங்கள் - மட்டக்களப்பு மாவட்ட விசேட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் ஜனாதிபதி பணிப்புரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-20-virakesarilk-a989a1a3)
 
 ---
 
