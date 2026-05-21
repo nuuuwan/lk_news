@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--21_06:38:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--21_08:56:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,852** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,866** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-21-dailyftlk-64faa588",
-    "num": "dailyftlk-64faa588",
+    "doc_id": "2026-05-21-adalk-b57de06a",
+    "num": "adalk-b57de06a",
     "date_str": "2026-05-21",
-    "description": "Prosecution alleges political, intelligence links to Easter Sunday attacks in Court submissions",
-    "url_metadata": "https://www.ft.lk/news/Prosecution-alleges-political-intelligence-links-to-Easter-Sunday-attacks-in-Court-submissions/56-792231",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1779324937.0
+    "description": "\u0daf\u0dd2\u0dba\u0dad\u0dbd\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0db8\u0dd9\u0db1\u0dd2\u0db1\u0dca\u0da2\u0dba\u0dd2\u0da7\u0dd3\u0dc3\u0dca \u0dbb\u0ddd\u0d9c\u0dd2 \u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca 10\u0d9a\u0dca \u0dc4\u0daf\u0dd4\u0db1\u0dcf\u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dd2\u0dba\u0dad\u0dbd\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0db8\u0dd9\u0db1\u0dd2\u0db1\u0dca\u0da2\u0dba\u0dd2\u0da7\u0dd3\u0dc3\u0dca-\u0dbb\u0ddd\u0d9c\u0dd2-\u0dc3\u0dd2\u0dc3\u0dd4\u0db1\u0dca-10\u0d9a\u0dca-\u0dc4\u0daf\u0dd4\u0db1\u0dcf\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-422538",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1779329440.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-21 | `adalk-b57de06a` | දියතලාවෙන් මෙනින්ජයිටීස් රෝගි සිසුන් 10ක් හදුනාගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-adalk-b57de06a)
+- 2026-05-21 | `virakesarilk-95918adb` | ஹோர்முஸ் நீரிணை மூடப்பட்டால், உலகளாவிய உணவு விலை நெருக்கடி ஏற்படும் - ஐக்கிய நாடுகளின் உணவு மற்றும் வேளாண்மை அமைப்பு (FAO) சிவப்பு எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-95918adb)
+- 2026-05-21 | `virakesarilk-6c07d685` | சீதுவ மற்றும் கிராண்ட்பாஸ் பகுதிகளில் இரண்டு கொலைகள் சம்பவங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-6c07d685)
+- 2026-05-21 | `virakesarilk-ab175905` | நில உரிமைகோரி ஆரம்பித்த மலையக சிறுவனின் நடைபயணத்தை ஹட்டன் பொலிஸார் தடுத்து நிறுத்தினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-ab175905)
+- 2026-05-21 | `virakesarilk-ef1a3868` | பிள்ளையானை சிறையில் சந்தித்தது ஒன்றும் இரகசியமல்ல சி.ஐ.டி அதிகாரிகள் பிரான்ஸூக்கு சென்றது அரச பணத்தை வீணடிக்கும் செயலாகும் - நாமல் ராஜபக்ஷ குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-ef1a3868)
+- 2026-05-21 | `virakesarilk-55c2d558` | தோட்டத் தொழிலாளர்கள் மீதான வன்முறைத் தாக்குதல்கள்; இன்று பாராளுமன்றத்தில் விசேட கூட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-55c2d558)
+- 2026-05-21 | `virakesarilk-1d61e246` | போலிப் பிணையாளர்கள் வழக்கு: நால்வருக்கு பிணை வழங்கியது நீதிமன்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-1d61e246)
+- 2026-05-21 | `virakesarilk-0607b239` | வாக்குறுதிகளை தாமதிக்காது நிறைவேற்ற வேண்டும் ; ஜனாதிபதியிடம் மனோ கணேசன் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-0607b239)
 - 2026-05-21 | `dailyftlk-64faa588` | Prosecution alleges political, intelligence links to Easter Sunday attacks in Court submissions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-dailyftlk-64faa588)
 - 2026-05-21 | `dailyftlk-bd5ea492` | Imported milk powder prices up from yesterday | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-dailyftlk-bd5ea492)
 - 2026-05-21 | `dailyftlk-80fed6a6` | Cabinet approves direct potato purchasing scheme to support farmers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-dailyftlk-80fed6a6)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-05-21 | `dailyftlk-3ae42307` | Sri Lanka one of the best countries for families to move in 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-dailyftlk-3ae42307)
 - 2026-05-21 | `dailyftlk-4d03d4ee` | Ambeon Group reports impressive FY2025/26 performance with PAT surpassing Rs. 3.2 b | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-dailyftlk-4d03d4ee)
 - 2026-05-21 | `dailyftlk-5fccd50c` | Chaaminda Kumarasiri steps down as Group Managing Director of The Lanka Hospitals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-dailyftlk-5fccd50c)
-- 2026-05-21 | `dailyftlk-ae0809a6` | Govt. to establish National Regulatory Reform Council under President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-dailyftlk-ae0809a6)
-- 2026-05-21 | `dailyftlk-d56aa032` | NCE Kurunegala visit – Meeting with aspiring exporters at EDB | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-dailyftlk-d56aa032)
-- 2026-05-21 | `dailyftlk-e7942c64` | Beyond the Exchange Rate: Import dependency hurts exporters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-dailyftlk-e7942c64)
-- 2026-05-21 | `dailyftlk-a5372057` | Governing better amidst crises | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-dailyftlk-a5372057)
-- 2026-05-21 | `dailyftlk-a43b64cf` | The federalist fantasy: Tamil political tragedy, Lankan political history | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-dailyftlk-a43b64cf)
-- 2026-05-21 | `dailyftlk-829d99a7` | From insularity to integration: Sri Lanka’s regional future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-dailyftlk-829d99a7)
-- 2026-05-21 | `tamilmirrorlk-0789d215` | ’மீண்டும் கொடூர யுத்தம் ஏற்படாத சமூக சூழலை கட்டியெழுப்ப வேண்டும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-0789d215)
-- 2026-05-21 | `dailyftlk-e8efca0c` | When welfare outruns growth: Lessons from Sri Lanka and Kerala | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-dailyftlk-e8efca0c)
 
 ---
 
