@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--22_00:25:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--22_02:23:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,952** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,953** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A collection of lk_news documents.
 - 2026-05-21 | `tamilmirrorlk-809c4245` | வனவாசல ரயில் விபத்தில் 17 லட்சம் ரூபாய் நட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-809c4245)
 - 2026-05-21 | `tamilmirrorlk-4c8d6ff5` | டிக்கோயா நகரையே உலுக்கிய பெரும் சோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-4c8d6ff5)
 - 2026-05-21 | `virakesarilk-67f01777` | முதலாவது உத்தியோகப்பற்றற்ற மகளிர் சர்வதேச ரி20 போட்டி: நியூஸிலாந்து ஏ அணியை இலங்கை ஏ அணி வென்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-67f01777)
+- 2026-05-21 | `colombotelegraphcom-ef2a6eb4` | Total Disarmament Only Panacea For Eternal World Peace | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-colombotelegraphcom-ef2a6eb4)
 - 2026-05-21 | `virakesarilk-c6cc4a46` | விமல் வீரவன்ச உள்ளிட்ட குழுவினருக்கு எதிராக விசாரணை நடத்தி அறிக்கை சமர்ப்பிக்குமாறு கடுவலை நீதிவான் உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-c6cc4a46)
 - 2026-05-21 | `virakesarilk-5f163861` | ஆபிரிக்காவில் ‘பண்டிபுஜியோ’ எபோலா வைரஸ் பரவல் தீவிரம் : தடுப்பூசி கண்டுபிடிக்க 9 மாதங்கள் ஆகலாம் -  WHO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-5f163861)
 - 2026-05-21 | `virakesarilk-1c675c33` | 'ஐஸ்' போதைப்பொருளுடன் பெண் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-1c675c33)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-05-21 | `virakesarilk-6b769bd7` | சமீரா மஹ்பூப்தீனின் பாதுகாப்பை உறுதிப்படுத்த அரசாங்கம் உடனடி நடவடிக்கை எடுக்க வேண்டும் - அகில இலங்கை மக்கள் காங்கிரஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-6b769bd7)
 - 2026-05-21 | `tamilmirrorlk-7d2e33f7` | சிறுவனின் நடைபயணம்: புஷ்பா விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-7d2e33f7)
 - 2026-05-21 | `virakesarilk-f4031061` | மலேசிய றாப்பர் கிட் சாந்தேவின் 'நா வேற லெவல் ' சுயாதீன இசை அல்ப பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-f4031061)
-- 2026-05-21 | `virakesarilk-5c858adf` | ஜூன் மாதம் வெளியாகும் இசக்கி கார்வண்ணனின் ‘ஆட்டி’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-5c858adf)
 
 ---
 
