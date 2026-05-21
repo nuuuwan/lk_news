@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--21_20:54:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--21_22:41:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,948** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,952** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-21-tamilmirrorlk-4c8d6ff5",
-    "num": "tamilmirrorlk-4c8d6ff5",
+    "doc_id": "2026-05-21-tamilmirrorlk-31eabf1e",
+    "num": "tamilmirrorlk-31eabf1e",
     "date_str": "2026-05-21",
-    "description": "\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0baf\u0bbe \u0ba8\u0b95\u0bb0\u0bc8\u0baf\u0bc7 \u0b89\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0bcb\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0baf\u0bbe-\u0ba8\u0b95\u0bb0\u0bc8\u0baf\u0bc7-\u0b89\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd-\u0b9a\u0bcb\u0b95\u0bae\u0bcd/76-377482",
+    "description": "\u2019\u0baa\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u2019 \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bbf\u0ba9\u0bcd \u0b95\u0b9a\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bbf\u0ba9\u0bcd-\u0b95\u0b9a\u0baa\u0bcd\u0baa\u0bbe\u0ba9-\u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0bae\u0bcd/175-377486",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1779375649.0
+    "time_ut": 1779380029.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-21 | `tamilmirrorlk-31eabf1e` | ’பருப்பு’ அதிபரின் கசப்பான அனுபவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-31eabf1e)
+- 2026-05-21 | `tamilmirrorlk-b9a0307b` | சாரதி இல்லாத காரில் பயணிக்கும் முன்னாள் அமைச்சர் பந்துல | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-b9a0307b)
+- 2026-05-21 | `tamilmirrorlk-809c4245` | வனவாசல ரயில் விபத்தில் 17 லட்சம் ரூபாய் நட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-809c4245)
 - 2026-05-21 | `tamilmirrorlk-4c8d6ff5` | டிக்கோயா நகரையே உலுக்கிய பெரும் சோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-4c8d6ff5)
 - 2026-05-21 | `virakesarilk-67f01777` | முதலாவது உத்தியோகப்பற்றற்ற மகளிர் சர்வதேச ரி20 போட்டி: நியூஸிலாந்து ஏ அணியை இலங்கை ஏ அணி வென்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-67f01777)
 - 2026-05-21 | `virakesarilk-c6cc4a46` | விமல் வீரவன்ச உள்ளிட்ட குழுவினருக்கு எதிராக விசாரணை நடத்தி அறிக்கை சமர்ப்பிக்குமாறு கடுவலை நீதிவான் உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-c6cc4a46)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-05-21 | `tamilmirrorlk-7d2e33f7` | சிறுவனின் நடைபயணம்: புஷ்பா விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-7d2e33f7)
 - 2026-05-21 | `virakesarilk-f4031061` | மலேசிய றாப்பர் கிட் சாந்தேவின் 'நா வேற லெவல் ' சுயாதீன இசை அல்ப பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-f4031061)
 - 2026-05-21 | `virakesarilk-5c858adf` | ஜூன் மாதம் வெளியாகும் இசக்கி கார்வண்ணனின் ‘ஆட்டி’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-5c858adf)
-- 2026-05-21 | `virakesarilk-7002d2ce` | வடக்கு மாகாணத்தில் இந்த ஆண்டுக்கான சிறுபோக நெற்செய்கையின் ஊடாக 1.74 இலட்சம் மெற்றிக் தொன் நெல் விளைச்சல் எதிர்பார்க்கப்படுகின்றது - விவசாய அமைச்சின் செயலாளர் எஸ்.சிவஸ்ரீ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-7002d2ce)
-- 2026-05-21 | `virakesarilk-374289ef` | பிரதமர் ஹரிணி அமரசூரிய லண்டனில் வசிக்கும் இலங்கையர்களைச் சந்தித்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-374289ef)
-- 2026-05-21 | `tamilmirrorlk-0e1831fa` | ’கரப்பான்பூச்சி ஜனதா கட்சி’ பா.ஜ.க-வை முந்தியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-0e1831fa)
 
 ---
 
