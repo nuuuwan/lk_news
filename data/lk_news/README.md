@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--21_18:57:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--21_20:54:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**113,922** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**113,948** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-21-tamilmirrorlk-7d2e33f7",
-    "num": "tamilmirrorlk-7d2e33f7",
+    "doc_id": "2026-05-21-tamilmirrorlk-4c8d6ff5",
+    "num": "tamilmirrorlk-4c8d6ff5",
     "date_str": "2026-05-21",
-    "description": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bbf\u0ba9\u0bcd \u0ba8\u0b9f\u0bc8\u0baa\u0baf\u0ba3\u0bae\u0bcd: \u0baa\u0bc1\u0bb7\u0bcd\u0baa\u0bbe \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bbf\u0ba9\u0bcd-\u0ba8\u0b9f\u0bc8\u0baa\u0baf\u0ba3\u0bae\u0bcd-\u0baa\u0bc1\u0bb7\u0bcd\u0baa\u0bbe-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd/76-377467",
+    "description": "\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0baf\u0bbe \u0ba8\u0b95\u0bb0\u0bc8\u0baf\u0bc7 \u0b89\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0bcb\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0baf\u0bbe-\u0ba8\u0b95\u0bb0\u0bc8\u0baf\u0bc7-\u0b89\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd-\u0b9a\u0bcb\u0b95\u0bae\u0bcd/76-377482",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1779363147.0
+    "time_ut": 1779375649.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-21 | `tamilmirrorlk-4c8d6ff5` | டிக்கோயா நகரையே உலுக்கிய பெரும் சோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-4c8d6ff5)
+- 2026-05-21 | `virakesarilk-67f01777` | முதலாவது உத்தியோகப்பற்றற்ற மகளிர் சர்வதேச ரி20 போட்டி: நியூஸிலாந்து ஏ அணியை இலங்கை ஏ அணி வென்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-67f01777)
+- 2026-05-21 | `virakesarilk-c6cc4a46` | விமல் வீரவன்ச உள்ளிட்ட குழுவினருக்கு எதிராக விசாரணை நடத்தி அறிக்கை சமர்ப்பிக்குமாறு கடுவலை நீதிவான் உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-c6cc4a46)
+- 2026-05-21 | `virakesarilk-5f163861` | ஆபிரிக்காவில் ‘பண்டிபுஜியோ’ எபோலா வைரஸ் பரவல் தீவிரம் : தடுப்பூசி கண்டுபிடிக்க 9 மாதங்கள் ஆகலாம் -  WHO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-5f163861)
+- 2026-05-21 | `virakesarilk-1c675c33` | 'ஐஸ்' போதைப்பொருளுடன் பெண் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-1c675c33)
+- 2026-05-21 | `virakesarilk-8d478c36` | மலையக மக்களின் சிறந்த வாழ்க்கைக்கான அனைத்து வேலைத்திட்டங்களையும் அரசாங்கம் முன்னெடுக்கும் - அமைச்சர் சந்திரசேகர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-8d478c36)
+- 2026-05-21 | `virakesarilk-6df6f492` | இஸ்ரேலின் பிடியில் சிக்கியுள்ள சமீரா ; வெளிவிவகார அமைச்சருக்கு ரிஷாட் கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-6df6f492)
+- 2026-05-21 | `virakesarilk-38936d4d` | அமெரிக்க டொலருக்கு நிகராக ரூபாவின் பெறுமதி உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-38936d4d)
+- 2026-05-21 | `virakesarilk-03829c17` | பிரகீத் எக்னெலிகொட வழக்கு : மூவர் அடங்கிய விசேட மேல் நீதிமன்றத்தில் இன்று மீண்டும் விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-03829c17)
+- 2026-05-21 | `virakesarilk-9742a598` | பாகிஸ்தானில் முக்கிய தீவிரவாதி சுட்டுக் கொலை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-9742a598)
+- 2026-05-21 | `virakesarilk-52c6aae3` | வெசாக் தன்சல்களுக்கு புதிய சுகாதார அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-52c6aae3)
+- 2026-05-21 | `virakesarilk-7c001f46` | யாழ். பல்கலைக்கழக இணைந்த சுகாதார விஞ்ஞானங்கள் பீடத்தின் புதிய பீடாதிபதியாக கலாநிதி சிவசிந்துஜா தெரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-7c001f46)
+- 2026-05-21 | `virakesarilk-3e40c07d` | தோட்டப் பிரதேசங்களில் பொதுமக்கள் பாதுகாப்பு குழு அமைக்கப்பட வேண்டும் - பிரதி அமைச்சர் சுந்தரலிங்கம் பிரதீப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-3e40c07d)
+- 2026-05-21 | `virakesarilk-6b769bd7` | சமீரா மஹ்பூப்தீனின் பாதுகாப்பை உறுதிப்படுத்த அரசாங்கம் உடனடி நடவடிக்கை எடுக்க வேண்டும் - அகில இலங்கை மக்கள் காங்கிரஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-6b769bd7)
 - 2026-05-21 | `tamilmirrorlk-7d2e33f7` | சிறுவனின் நடைபயணம்: புஷ்பா விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-7d2e33f7)
+- 2026-05-21 | `virakesarilk-f4031061` | மலேசிய றாப்பர் கிட் சாந்தேவின் 'நா வேற லெவல் ' சுயாதீன இசை அல்ப பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-f4031061)
+- 2026-05-21 | `virakesarilk-5c858adf` | ஜூன் மாதம் வெளியாகும் இசக்கி கார்வண்ணனின் ‘ஆட்டி’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-5c858adf)
+- 2026-05-21 | `virakesarilk-7002d2ce` | வடக்கு மாகாணத்தில் இந்த ஆண்டுக்கான சிறுபோக நெற்செய்கையின் ஊடாக 1.74 இலட்சம் மெற்றிக் தொன் நெல் விளைச்சல் எதிர்பார்க்கப்படுகின்றது - விவசாய அமைச்சின் செயலாளர் எஸ்.சிவஸ்ரீ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-7002d2ce)
+- 2026-05-21 | `virakesarilk-374289ef` | பிரதமர் ஹரிணி அமரசூரிய லண்டனில் வசிக்கும் இலங்கையர்களைச் சந்தித்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-374289ef)
 - 2026-05-21 | `tamilmirrorlk-0e1831fa` | ’கரப்பான்பூச்சி ஜனதா கட்சி’ பா.ஜ.க-வை முந்தியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-0e1831fa)
-- 2026-05-21 | `tamilmirrorlk-35919b89` | ’’யார் இப்படியெல்லாம் செய்வார்கள்?’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-35919b89)
-- 2026-05-21 | `tamilmirrorlk-5b78c179` | த்ரிஷாவின் மகிழ்ச்சி பதிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-5b78c179)
-- 2026-05-21 | `tamilmirrorlk-b43c9195` | WhatsApp அப்டேட்: படித்தவுடன் மெசேஜ்கள் தானாக மறையும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-b43c9195)
-- 2026-05-21 | `tamilmirrorlk-988ba81c` | குட்டிக்கரணம் அடித்த விமலுக்கு நோட்டீஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-988ba81c)
-- 2026-05-21 | `adalk-7b1a35c2` | වෙසක් උත්සවයට විශේෂ ආරක්ෂක සැලැස්මක්, වෙසක් උත්සවයේ පුජනීයත්වයට හානි කරන්න එපා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-adalk-7b1a35c2)
-- 2026-05-21 | `adalk-7ac31121` | විද්‍යාවේදී හෙද උපාධිධාරීන්ට කඩිනමින් පත්විම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-adalk-7ac31121)
-- 2026-05-21 | `adalk-c8092fc0` | කැබ් රථයක් පදවා අනතුරක් කළ 17 හැවිරිදි පාසල් සිසුවෙකුට ඇප -  12 හැවිරිදි දැරියකට පාදයක් අහිමියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-adalk-c8092fc0)
-- 2026-05-21 | `tamilmirrorlk-a16a3789` | கொழும்பில் நள்ளிரவில் பயங்கரக் கூச்சல்:  மக்கள் கடும் அச்சம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-a16a3789)
-- 2026-05-21 | `virakesarilk-385cec6a` | களனிவெளி புகையிரத மார்க்கத்தில் இலத்திரனியல் பயணச்சீட்டு கட்டமைப்பு செயலிழப்பு : புகையிரத  திணைக்களத்திற்கு பெரும் நஷ்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-385cec6a)
-- 2026-05-21 | `virakesarilk-49197498` | தலசீமியா நோய் கட்டுப்பாடு மற்றும் நோயாளர் சேவைகள் மேம்பாட்டிற்கு கல்முனையில் விசேட வேலைத்திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-49197498)
-- 2026-05-21 | `adalk-5a92f868` | සෞඛ්‍යයට අළුතෙන් 1,989 ක් බඳවා ගැනීමට සම්මුඛ පරීක්ෂණ ඇරඹේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-adalk-5a92f868)
-- 2026-05-21 | `tamilmirrorlk-9e090d28` | சூட்கேசில் இருந்து மூதாட்டியின் சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-tamilmirrorlk-9e090d28)
-- 2026-05-21 | `adalk-d6b7bccd` | ඩොලරයේ විකුණුම් මිල රු. 354 ඉක්මයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-adalk-d6b7bccd)
-- 2026-05-21 | `virakesarilk-ba93bce6` | போதைப்பொருளுடன் கைதான பெண்ணுக்கு 07 வருட கடூழிய சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-ba93bce6)
-- 2026-05-21 | `virakesarilk-4c236201` | ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் விஜயத்தை சிறப்பாக நடத்த நிந்தவூர் பிரதேச சபை தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-4c236201)
-- 2026-05-21 | `virakesarilk-3aa82ae6` | பல்லேகம ஹேமரத்தின தேரருக்கு எதிரான வழக்கு : பாதிக்கப்பட்ட சிறுமிக்காக சிரேஷ்ட சட்டத்தரணியை நியமிக்கக் கோரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-3aa82ae6)
-- 2026-05-21 | `virakesarilk-ed0fb88b` | தமிழக முதல்வர் விஜய் தலைமையிலான அமைச்சரவை விரிவாக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-ed0fb88b)
-- 2026-05-21 | `virakesarilk-cee97d47` | வெளியக காரணிகளால்தான் டொலரின் பெறுமதி உயர்கிறது ; இதனால் பொருளாதாரத்துக்கு பாதிப்பு ஏற்படாது - அனில் பெர்னாண்டோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-21-virakesarilk-cee97d47)
 
 ---
 
