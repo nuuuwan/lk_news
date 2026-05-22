@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--22_09:00:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--22_11:15:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**114,013** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**114,032** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-22-virakesarilk-d008ad33",
-    "num": "virakesarilk-d008ad33",
+    "doc_id": "2026-05-22-virakesarilk-c0b858ea",
+    "num": "virakesarilk-c0b858ea",
     "date_str": "2026-05-22",
-    "description": "\u0b95\u0bbf\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb5\u0bc6\u0bb2\u0bb5\u0bbf\u0bb2\u0bcd \u0b89\u0b9a\u0bcd\u0b9a \u0bae\u0bb4\u0bc8\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0baa\u0ba4\u0bbf\u0bb5\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/247281",
+    "description": "\u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0ba8\u0bc0\u0bb0\u0bcd\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0baa\u0bb2 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf\u0ba9!",
+    "url_metadata": "https://www.virakesari.lk/article/247308",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
-    "time_ut": 1779419640.0
+    "time_ut": 1779427980.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-22 | `virakesarilk-c0b858ea` | பலத்த மழையால் நீர்கொழும்பின் பல பிரதேசங்கள் வெள்ளத்தில் மூழ்கின! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-c0b858ea)
+- 2026-05-22 | `virakesarilk-18ebcbcf` | போதைப்பொருள் ஒழிப்புக்கான இளைஞர் மாநாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-18ebcbcf)
+- 2026-05-22 | `virakesarilk-2ac5ec69` | யாழில் உணவகத்திற்குள் பூனை வளர்த்தமை உள்ளிட்ட குற்றம் ; உணவகத்திற்கு சீல் வைக்க உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-2ac5ec69)
+- 2026-05-22 | `virakesarilk-17b1eec9` | டொலர் அதிகரிப்பால் நாட்டில் மீண்டும் மருந்து தட்டுப்பாடு ஏற்படும் அபாயம்: அரசாங்கத்திற்கு வைத்தியர்கள் சங்கம் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-17b1eec9)
+- 2026-05-22 | `virakesarilk-9cd03ac8` | கேரள கஞ்சாவுடன் சந்தேகநபர் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-9cd03ac8)
+- 2026-05-22 | `virakesarilk-3e7c9ab3` | பெருமளவான சட்டவிரோத மதுபானத்துடன் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-3e7c9ab3)
+- 2026-05-22 | `virakesarilk-75ebecb7` | அம்பாறையில் ஒருங்கிணைப்புக் கூட்டம் இன்று ஏற்பாடு - மக்களுக்கான அபிவிருத்தித் திட்டங்கள், டித்வா அனர்த்த நிவாரணங்கள் குறித்து கலந்துரையாடவுள்ளார் ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-75ebecb7)
+- 2026-05-22 | `virakesarilk-d4fe5fd6` | ரணிலின் பொருளாதாரத் திட்டத்தை அரசு தொடர்ந்து செயற்படுத்தாமையே ரூபாவின் வீழ்ச்சிக்கு காரணம் - ஐ.தே.க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-d4fe5fd6)
+- 2026-05-22 | `virakesarilk-efb9c127` | தனிமையில் வாழ்ந்து வந்த வயோதிப தம்பதியர் படுகொலை ; அட்டன் டிக்கோயா நகரில் சம்பவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-efb9c127)
+- 2026-05-22 | `virakesarilk-f715ccd4` | ஹொண்டுராஸில் ஒரே நாளில் இரு இடங்களில் துப்பாக்கிச் சூடு - 25 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-f715ccd4)
+- 2026-05-22 | `virakesarilk-4bb53add` | சிலாபம் வைத்தியசாலையின் 03 வார்டுகள் நீரில் மூழ்கின: புத்தளத்தில் மரங்கள் முறிந்து வீதிப் போக்குவரத்து முடக்கம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-4bb53add)
+- 2026-05-22 | `virakesarilk-a3c9e300` | களு கங்கையின் நீர்மட்டம் அதிகரிப்பு: இரத்தினபுரியின் 05 பிரதேசங்களுக்கு சிறியளவிலான வெள்ள அபாய எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-a3c9e300)
+- 2026-05-22 | `virakesarilk-8fda301e` | களனி ஆற்று நீரேந்துப் பகுதிகளில் அதிக மழை வீழ்ச்சி : சிறியளவிலான வெள்ள அபாய எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-8fda301e)
+- 2026-05-22 | `adalk-f173decc` | කටුනායකට ගොඩ බාන්න ආපු ගුවන් යානා වෙනත් ගුවන්තොටුපොළවලට හරවා යවයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-adalk-f173decc)
+- 2026-05-22 | `adalk-88ebc827` | ප්‍රා ලේ කොට්ඨාස දෙකකට නාය යෑමේ රතු නිවේදන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-adalk-88ebc827)
+- 2026-05-22 | `virakesarilk-b78c139f` | இலங்கைக்கான ஐந்தாவது மற்றும் ஆறாவது சீராய்வுகள் அடுத்த புதன்கிழமை பரிசீலனை: சர்வதேச நாணய நிதியம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-b78c139f)
+- 2026-05-22 | `virakesarilk-7e1a7f84` | தமிழ் மொழி மூலமான தகவல் அறியும் விண்ணப்பங்கள் புறக்கணிப்பு : ஆணைக்குழுவின் நடவடிக்கையால் பொதுமக்கள் கவலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-7e1a7f84)
+- 2026-05-22 | `virakesarilk-e2895962` | கொழும்பு - அவிசாவளை பிரதான வீதியில் பல இடங்கள் நீரில் மூழ்கியது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-e2895962)
 - 2026-05-22 | `virakesarilk-d008ad33` | கிரிந்திவெலவில் உச்ச மழைவீழ்ச்சி பதிவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-d008ad33)
 - 2026-05-22 | `virakesarilk-779ed551` | சீரற்ற வானிலை: கட்டுநாயக்கவிற்கு வரவிருந்த விமானங்கள் மத்தலவிற்கு அவசரமாகத் திருப்பிவிடப்பட்டன! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-779ed551)
-- 2026-05-22 | `virakesarilk-9bd57f1d` | இன்றைய வானிலை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-9bd57f1d)
-- 2026-05-22 | `adalk-62a1d0fe` | පොලී රහිත විකල්ප මූල්‍ය ආයතන සංගමයට නව නිලධාරී මණ්ඩලයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-adalk-62a1d0fe)
-- 2026-05-22 | `virakesarilk-754a86d1` | 3 மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கைகள் - தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-754a86d1)
-- 2026-05-22 | `virakesarilk-22ebb2a8` | தெமட்டகொடையில் 39 கிலோ ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-22ebb2a8)
-- 2026-05-22 | `virakesarilk-8e1290a0` | திருவள்ளுவர் பண்பாட்டு மையத்தை யாழ் மாநகர சபையிடம் ஒப்படைக்க வேண்டும் – சிவஞானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-8e1290a0)
-- 2026-05-22 | `virakesarilk-38805fa3` | மலையக மோதல்களுக்கு நிலையான தீர்வு வேலைத்திட்டம் தயாரிக்க அரசு நடவடிக்கை – ஆனந்த விஜேபால | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-38805fa3)
-- 2026-05-22 | `virakesarilk-65311aea` | தொழிலாளர்களின் காணி உரிமைக்கு எதிராக நாங்கள் இல்லை – ஹேலீஸ் நிறுவனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-65311aea)
-- 2026-05-22 | `virakesarilk-eead9359` | மலையக மக்களின் காணி பிரச்சினைக்கு தீர்வு காண நடவடிக்கை ஆரம்பம் - பிரதி அமைச்சர் பிரதீப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-eead9359)
-- 2026-05-22 | `virakesarilk-10c74b40` | நாமல் உள்ளிட்ட ராஜபக்ஷவினர் பிள்ளையான் சந்திப்பு விவரங்களை வெளிப்படுத்த வேண்டும் – எரங்க குணசேகர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-10c74b40)
-- 2026-05-22 | `virakesarilk-dbc35085` | அரசாங்கத்தின் நல்ல திட்டங்களுக்கு ஆதரவு, தவறுகளுக்கு விமர்சனம் – சுமந்திரன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-dbc35085)
-- 2026-05-22 | `dailyftlk-194c0ecd` | Marikkar claims substandard coal imports could cost  Govt. over Rs. 30 b | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailyftlk-194c0ecd)
-- 2026-05-22 | `dailyftlk-82e8d722` | A milestone moment for energy transition in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailyftlk-82e8d722)
-- 2026-05-22 | `dailyftlk-508375f6` | PUCSL flags operational, environmental and financial risks linked to Lakvijaya coal shipments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailyftlk-508375f6)
-- 2026-05-22 | `virakesarilk-18fa4dcf` | மலையக மக்களின் வாழ்க்கைத் தரத்தை நாங்கள் மேம்படுத்துவோம் அந்த பொறுப்பு எமக்கு உண்டு - பிமல் ரத்நாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-18fa4dcf)
-- 2026-05-22 | `dailyftlk-366deac7` | Global tourism leaders urge Sri Lanka to abandon mass market model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailyftlk-366deac7)
-- 2026-05-22 | `virakesarilk-28a2669c` | டொலர் மதிப்பு உயர்வுக்கு பொருளாதார திட்டத் தொடர்ச்சியின்மை காரணம் – ஐ.தே.க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-28a2669c)
-- 2026-05-22 | `dailyftlk-e6222027` | Abuse of child by Thero: Collective statement calls for impartial investigation and justice | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailyftlk-e6222027)
-- 2026-05-22 | `dailyftlk-21cb8030` | Ensuring best interests of abused child must remain top priority | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailyftlk-21cb8030)
 
 ---
 
