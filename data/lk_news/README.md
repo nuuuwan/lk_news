@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--22_13:06:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--22_14:54:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**114,154** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**114,181** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-22-dailymirrorlk-5380d0d8",
-    "num": "dailymirrorlk-5380d0d8",
+    "doc_id": "2026-05-22-dailymirrorlk-f804925b",
+    "num": "dailymirrorlk-f804925b",
     "date_str": "2026-05-22",
-    "description": "Father of two arrested over alleged sexual abuse of 13-year-old schoolgirl",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Father-of-two-arrested-over-alleged-sexual-abuse-of-13-year-old-schoolgirl/108-340950",
+    "description": "Nascar champion Kyle Busch dies aged 41",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nascar-champion-Kyle-Busch-dies-aged-41/108-340960",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779432632.0
+    "time_ut": 1779441359.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-05-22 | `dailymirrorlk-5380d0d8` | Father of two arrested over alleged sexual abuse of 13-year-old schoolgirl | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-5380d0d8)
-- 2026-05-22 | `dailymirrorlk-af284462` | New cyber security law to be introduced soon: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-af284462)
-- 2026-05-22 | `dailymirrorlk-16902563` | Heavy rains raise Castlereagh, Maussakelle water levels | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-16902563)
-- 2026-05-22 | `dailymirrorlk-58cc463e` | 14 students confirmed with meningitis in Uva Province | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-58cc463e)
-- 2026-05-22 | `adalk-da99b53d` | 2025දී පුද්ගලික ණය හා අත්තිකාරම් රු.බි. 406කින් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-adalk-da99b53d)
-- 2026-05-22 | `dailymirrorlk-003a2706` | No decision to ban vehicle imports or restrict other imports: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-003a2706)
-- 2026-05-22 | `adalk-fd44d791` | වැඩිම වැස්ස ගම්පහ කිරිඳිවැලට ‍ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-adalk-fd44d791)
-- 2026-05-22 | `dailymirrorlk-e4146a39` | Handle the economy diligently: Opposition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-e4146a39)
-- 2026-05-22 | `dailymirrorlk-b98e78b1` | 144 financial cybercrime cases under investigation this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-b98e78b1)
-- 2026-05-22 | `dailymirrorlk-543784bf` | Tobacco-Free Generation policies face legal and practical challenges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-543784bf)
-- 2026-05-22 | `dailymirrorlk-c280a636` | Imposed Customs duty surcharge had favoured brand-new vehicle importers: Importers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-c280a636)
-- 2026-05-22 | `dailymirrorlk-d5442ab5` | Can Sri Lanka navigate its way out of crisis? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-d5442ab5)
-- 2026-05-22 | `virakesarilk-c0b858ea` | பலத்த மழையால் நீர்கொழும்பின் பல பிரதேசங்கள் வெள்ளத்தில் மூழ்கின! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-c0b858ea)
-- 2026-05-22 | `virakesarilk-18ebcbcf` | போதைப்பொருள் ஒழிப்புக்கான இளைஞர் மாநாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-18ebcbcf)
-- 2026-05-22 | `dailymirrorlk-262a2c44` | Provincial Council elections cannot be conducted this year - Tilvin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-262a2c44)
-- 2026-05-22 | `virakesarilk-2ac5ec69` | யாழில் உணவகத்திற்குள் பூனை வளர்த்தமை உள்ளிட்ட குற்றம் ; உணவகத்திற்கு சீல் வைக்க உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-2ac5ec69)
-- 2026-05-22 | `dailymirrorlk-eed8a0a4` | Ampara district special coordinating committee meeting under presidential patronage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-eed8a0a4)
-- 2026-05-22 | `dailymirrorlk-1bfb67cc` | Over 92,000 applications received for 1,989 Health Assistant vacancies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-1bfb67cc)
-- 2026-05-22 | `virakesarilk-17b1eec9` | டொலர் அதிகரிப்பால் நாட்டில் மீண்டும் மருந்து தட்டுப்பாடு ஏற்படும் அபாயம்: அரசாங்கத்திற்கு வைத்தியர்கள் சங்கம் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-17b1eec9)
-- 2026-05-22 | `virakesarilk-9cd03ac8` | கேரள கஞ்சாவுடன் சந்தேகநபர் ஒருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-9cd03ac8)
+- 2026-05-22 | `dailymirrorlk-f804925b` | Nascar champion Kyle Busch dies aged 41 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-f804925b)
+- 2026-05-22 | `virakesarilk-1076a95a` | பொதுநலவாய அமைப்பின் செயலாளர் நாயகத்தை சந்தித்தார் பிரதமர் ஹரிணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-1076a95a)
+- 2026-05-22 | `dailymirrorlk-be944a88` | Pallegama Hemarathana Thera granted bail in case of abuse of a minor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-be944a88)
+- 2026-05-22 | `virakesarilk-ba956cd2` | வலி. வடக்கில் காணிகளை விடுவிக்கக் கோரி காணி உரிமையாளர்கள் போராட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-ba956cd2)
+- 2026-05-22 | `dailymirrorlk-5b2a5ce6` | Kuwait to gradually resume international flights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-5b2a5ce6)
+- 2026-05-22 | `virakesarilk-3dd73a65` | ஒரே நாளில் 274 பேர் எவரெஸ்ட் சிகரத்தை அடைந்து புதிய வரலாற்று சாதனை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-3dd73a65)
+- 2026-05-22 | `dailymirrorlk-22aa7efe` | Warrant issued for Basil Rajapaksa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-22aa7efe)
+- 2026-05-22 | `virakesarilk-64b782d7` | அவுஸ்திரேலிய அரசியல் பிரதிநிதிகளுடன் பாராளுமன்ற உறுப்பினர் திலித் ஜயவீர விசேட கலந்துரையாடல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-64b782d7)
+- 2026-05-22 | `virakesarilk-a9c2f3a6` | சிறுமி மீதான பாலியல் துஷ்பிரயோகக் குற்றச்சாட்டு: பல்லேகம ஹேமரத்தன தேரர் பிணையில் விடுதலை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-a9c2f3a6)
+- 2026-05-22 | `adalk-99382d5c` | ඩොලරය පොඩ්ඩක් පල්ලම් බහියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-adalk-99382d5c)
+- 2026-05-22 | `dailymirrorlk-0d8121c5` | Sri Lanka invites Vietnamese investors, unveils 30 projects | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-0d8121c5)
+- 2026-05-22 | `virakesarilk-a21d4adb` | மஸ்கெலியா பகுதியில் 28 வாகனங்கள் போக்குவரத்திலிருந்து நீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-a21d4adb)
+- 2026-05-22 | `dailymirrorlk-a048834c` | Heavy rains disrupt transport; Colombo–Avissawella Road submerged | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-a048834c)
+- 2026-05-22 | `virakesarilk-f7be0f9b` | காசல்ரீ, மவுசாக்கலை நீரேந்துப் பகுதிகளில் பலத்த மழை: நீர்மட்டம் வேகமாக அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-f7be0f9b)
+- 2026-05-22 | `virakesarilk-22f24284` | நன்னீர் மீனவர்களின் வாழ்வாதார மேம்பாட்டு திட்டம் வடக்கின் ஏனைய பகுதிகளுக்கும் விரிவுபடுத்த வேண்டும் –  வடக்கு  ஆளுநர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-22f24284)
+- 2026-05-22 | `dailymirrorlk-89e7be7a` | 21 alleged underworld members deported from Dubai arrive in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-89e7be7a)
+- 2026-05-22 | `virakesarilk-6d0a2bae` | எபோலாவால் உயிரிழந்த இளைஞர் ; கொங்கோவில் வைத்தியசாலைக்கு தீ வைத்த கும்பல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-6d0a2bae)
+- 2026-05-22 | `virakesarilk-d5cba26c` | எந்தவொரு பொருளுக்கும் இறக்குமதி தடை விதிக்கப்பட மாட்டாது : அமைச்சர் அனில் ஜயந்த பெர்னாண்டோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-d5cba26c)
+- 2026-05-22 | `virakesarilk-e0a3d267` | நிந்தவூரில் மக்கள் கூட்டத்துக்கு மத்தியில் ஜனாதிபதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-e0a3d267)
+- 2026-05-22 | `virakesarilk-ff121959` | வெலிமடை மற்றும் தியத்தலாவை வைத்தியசாலைகளில் 28 மாணவர்கள் அனுமதி: 14 பேருக்கு மூளைக்காய்ச்சல் உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-ff121959)
 
 ---
 
