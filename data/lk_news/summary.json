@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-22 21:27:13",
-  "n_docs": 114188,
+  "time_updated": "2026-05-22 22:30:08",
+  "n_docs": 114202,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 114188,
+  "n_docs_with_text": 114202,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-22",
-  "dataset_size": 1775834005,
+  "dataset_size": 1775936070,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-22-dailymirrorlk-c3e84d3a",
-    "num": "dailymirrorlk-c3e84d3a",
+    "doc_id": "2026-05-22-dailymirrorlk-270fffde",
+    "num": "dailymirrorlk-270fffde",
     "date_str": "2026-05-22",
-    "description": "Over 1,600 families affected by severe weather across country",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-1-600-families-affected-by-severe-weather-across-country/108-340982",
+    "description": "Bandula shares ride in self-driving taxi in Hollywood",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bandula-shares-ride-in-self-driving-taxi-in-Hollywood/108-340985",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779464068.0
+    "time_ut": 1779466692.0
   }
 }
