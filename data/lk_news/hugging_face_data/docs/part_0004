@@ -196503,6 +196503,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-22-dailymirrorlk-8d65166a",
+    "num": "dailymirrorlk-8d65166a",
+    "date_str": "2026-05-22",
+    "description": "10-year sentence affirmed for neighbour convicted in underage girl abuse case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/10-year-sentence-affirmed-for-neighbour-convicted-in-underage-girl-abuse-case/108-340977",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779460787.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-22-adalk-0928b705",
     "num": "adalk-0928b705",
     "date_str": "2026-05-22",
@@ -197020,6 +197031,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-23-adalk-23f3c5f6",
+    "num": "adalk-23f3c5f6",
+    "date_str": "2026-05-23",
+    "description": "\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0d9a\u0da7 \u0db4\u0dc4\u0d9a\u0dca \u0db4\u0ddd\u0dbb\u0d9a\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0d9a\u0da7-\u0db4\u0dc4\u0d9a\u0dca-\u0db4\u0ddd\u0dbb\u0d9a\u0dba\u0da7/11-422576",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1779500116.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-23-adalk-81470171",
     "num": "adalk-81470171",
     "date_str": "2026-05-23",
@@ -197105,5 +197127,27 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1779512567.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-96b15d82",
+    "num": "dailymirrorlk-96b15d82",
+    "date_str": "2026-05-23",
+    "description": "Agriculture Department refutes releasing infested Chrysanthemum flowers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Agriculture-Department-refutes-releasing-infested-Chrysanthemum-flowers/108-341050",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779517095.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-37c15f6c",
+    "num": "dailymirrorlk-37c15f6c",
+    "date_str": "2026-05-23",
+    "description": "At least 82 dead in Chinese coal mine explosion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/At-least-82-dead-in-Chinese-coal-mine-explosion/108-341051",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779518165.0
   }
 ]

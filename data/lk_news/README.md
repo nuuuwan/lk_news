@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--23_11:00:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--23_12:43:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**114,277** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**114,281** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-23-dailymirrorlk-cd176de7",
-    "num": "dailymirrorlk-cd176de7",
+    "doc_id": "2026-05-23-dailymirrorlk-37c15f6c",
+    "num": "dailymirrorlk-37c15f6c",
     "date_str": "2026-05-23",
-    "description": "Court orders Rainbow agency owner to repay victims within a year",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-orders-Rainbow-agency-owner-to-repay-victims-within-a-year/108-341038",
+    "description": "At least 82 dead in Chinese coal mine explosion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/At-least-82-dead-in-Chinese-coal-mine-explosion/108-341051",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779512567.0
+    "time_ut": 1779518165.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-23 | `dailymirrorlk-37c15f6c` | At least 82 dead in Chinese coal mine explosion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-37c15f6c)
+- 2026-05-23 | `dailymirrorlk-96b15d82` | Agriculture Department refutes releasing infested Chrysanthemum flowers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-96b15d82)
 - 2026-05-23 | `dailymirrorlk-cd176de7` | Court orders Rainbow agency owner to repay victims within a year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-cd176de7)
 - 2026-05-23 | `dailymirrorlk-c8fb8d0e` | India raises petrol,  diesel prices for 3rd time this month amid Middle East crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-c8fb8d0e)
 - 2026-05-23 | `dailymirrorlk-cea9a242` | Tulsi Gabbard resigns as Donald Trump’s US intelligence chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-cea9a242)
@@ -49,6 +51,7 @@ A collection of lk_news documents.
 - 2026-05-23 | `dailymirrorlk-61462a42` | Rains above 100 mm in several places today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-61462a42)
 - 2026-05-23 | `dailymirrorlk-35a9b960` | FBI arrives in Sri Lanka to investigate cyber thefts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-35a9b960)
 - 2026-05-23 | `adalk-81470171` | අදත් බොහෝ ප්‍රදේශවලට වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-adalk-81470171)
+- 2026-05-23 | `adalk-23f3c5f6` | පුද්ගල ඝාතනයකට පහක් පෝරකයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-adalk-23f3c5f6)
 - 2026-05-23 | `adalk-e1f1cba9` | කැනඩාවේ රැකියා පෙන්වා මුදල් ගැරූ ආතිල් කොටුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-adalk-e1f1cba9)
 - 2026-05-23 | `dailyftlk-04a3cd51` | President launches major development projects in Ampara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-04a3cd51)
 - 2026-05-23 | `dailyftlk-73fef379` | Court issues arrest warrant  for Basil Rajapaksa over  alleged illicit funds case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-73fef379)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-05-23 | `dailyftlk-76e4b9b2` | Digital resource centres launched to modernise Sri Lanka’s smallholder tea sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-76e4b9b2)
 - 2026-05-23 | `dailyftlk-49ca97e8` | CHEC marks key milestone in China-funded affordable housing project in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-49ca97e8)
 - 2026-05-23 | `dailyftlk-14d50ff6` | Samsung retains global No. 1 gaming monitor position for seventh consecutive year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-14d50ff6)
-- 2026-05-23 | `dailyftlk-d787eb35` | Depreciation of the Rupee:  A warning sign of deep economic crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-d787eb35)
-- 2026-05-23 | `dailyftlk-1a57c982` | Escaping the two ‘Balance-Sheet Trap’: The blueprint for $1 = SLR 300 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-1a57c982)
-- 2026-05-23 | `dailyftlk-460db68d` | Is the NPP Government pro-predator? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-460db68d)
 
 ---
 

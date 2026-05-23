@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-23 10:59:19",
-  "n_docs": 114277,
+  "time_updated": "2026-05-23 12:42:07",
+  "n_docs": 114281,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 114277,
+  "n_docs_with_text": 114281,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-23",
-  "dataset_size": 1777344958,
+  "dataset_size": 1777408760,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-23-dailymirrorlk-cd176de7",
-    "num": "dailymirrorlk-cd176de7",
+    "doc_id": "2026-05-23-dailymirrorlk-37c15f6c",
+    "num": "dailymirrorlk-37c15f6c",
     "date_str": "2026-05-23",
-    "description": "Court orders Rainbow agency owner to repay victims within a year",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-orders-Rainbow-agency-owner-to-repay-victims-within-a-year/108-341038",
+    "description": "At least 82 dead in Chinese coal mine explosion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/At-least-82-dead-in-Chinese-coal-mine-explosion/108-341051",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779512567.0
+    "time_ut": 1779518165.0
   }
 }
