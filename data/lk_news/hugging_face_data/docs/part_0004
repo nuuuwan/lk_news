@@ -196855,6 +196855,72 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-22-dailymirrorlk-1387c580",
+    "num": "dailymirrorlk-1387c580",
+    "date_str": "2026-05-22",
+    "description": "Cartoon of the Day 23-05-2026",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Cartoon-of-the-Day-23-05-2026/245-341004",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779471244.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-22-dailymirrorlk-141412ef",
+    "num": "dailymirrorlk-141412ef",
+    "date_str": "2026-05-22",
+    "description": "Sri Lanka deposit insurance scheme",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Sri-Lanka-deposit-insurance-scheme/172-341006",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779471660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-22-dailymirrorlk-8bb10974",
+    "num": "dailymirrorlk-8bb10974",
+    "date_str": "2026-05-22",
+    "description": "Lack of planning leading  to shortages and bankruptcy",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Lack-of-planning-leading-to-shortages-and-bankruptcy/172-341007",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779471727.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-22-dailymirrorlk-a9794d87",
+    "num": "dailymirrorlk-a9794d87",
+    "date_str": "2026-05-22",
+    "description": "Legacy of Malini -  Tribute to the Queen of Lankan cinema",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Legacy-of-Malini-Tribute-to-the-Queen-of-Lankan-cinema/172-341008",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779471799.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-22-dailymirrorlk-e6ec78fc",
+    "num": "dailymirrorlk-e6ec78fc",
+    "date_str": "2026-05-22",
+    "description": "Sri Lanka\u2019s IMF-led Debt  Restructuring and Lessons for Senegal",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Sri-Lankas-IMF-led-Debt-Restructuring-and-Lessons-for-Senegal/172-341009",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779472136.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-22-dailymirrorlk-2bc3e99f",
+    "num": "dailymirrorlk-2bc3e99f",
+    "date_str": "2026-05-22",
+    "description": "University students at the orientation session, HelpAge conducts orientation session on elders",
+    "url_metadata": "https://www.dailymirror.lk/opinion/University-students-at-the-orientation-session-HelpAge-conducts-orientation-session-on-elders/172-341010",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779472166.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-23-dailyftlk-daa8d40c",
     "num": "dailyftlk-daa8d40c",
     "date_str": "2026-05-23",
@@ -197820,5 +197886,38 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1779546900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-4fdbd0dd",
+    "num": "dailymirrorlk-4fdbd0dd",
+    "date_str": "2026-05-23",
+    "description": "LAUGFS power expands with new mini hydro project",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAUGFS-power-expands-with-new-mini-hydro-project/108-341070",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779549240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-f8fe3300",
+    "num": "dailymirrorlk-f8fe3300",
+    "date_str": "2026-05-23",
+    "description": "National waste management drive starts in Jaffna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/National-waste-management-drive-starts-in-Jaffna/108-341071",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779550292.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-7f3bbf78",
+    "num": "dailymirrorlk-7f3bbf78",
+    "date_str": "2026-05-23",
+    "description": "Dollar selling rate rises to Rs. 353",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dollar-selling-rate-rises-to-Rs-353/108-341072",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779552052.0
   }
 ]

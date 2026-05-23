@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--23_20:17:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--23_22:05:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**114,342** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**114,351** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-23-virakesarilk-ea3ceca6",
-    "num": "virakesarilk-ea3ceca6",
+    "doc_id": "2026-05-23-dailymirrorlk-7f3bbf78",
+    "num": "dailymirrorlk-7f3bbf78",
     "date_str": "2026-05-23",
-    "description": "\u0b9a\u0ba4\u0bcd\u0baf\u0ba4\u0bc7\u0bb5\u0bcd \u0ba8\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd '\u0b9a\u0bae\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf' \u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b83\u0baa\u0bb0\u0bcd\u0bb8\u0bcd\u0b9f\u0bcd \u0bb2\u0bc1\u0b95\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc0\u0b9f\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/247491",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1779546900.0
+    "description": "Dollar selling rate rises to Rs. 353",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dollar-selling-rate-rises-to-Rs-353/108-341072",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779552052.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-23 | `dailymirrorlk-7f3bbf78` | Dollar selling rate rises to Rs. 353 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-7f3bbf78)
+- 2026-05-23 | `dailymirrorlk-f8fe3300` | National waste management drive starts in Jaffna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-f8fe3300)
+- 2026-05-23 | `dailymirrorlk-4fdbd0dd` | LAUGFS power expands with new mini hydro project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-4fdbd0dd)
 - 2026-05-23 | `virakesarilk-ea3ceca6` | சத்யதேவ் நடிக்கும் 'சமவர்த்தி' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-ea3ceca6)
 - 2026-05-23 | `virakesarilk-daf897b8` | நடிகர் கௌதம் ராம் கார்த்திக் வெளியிட்ட 'பாதாம்கீர்' படத்தின் ஃபர்ஸ்ட் லுக் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-daf897b8)
 - 2026-05-23 | `virakesarilk-a59b0522` | அறிமுக நடிகர் டி. அண்டனி நடிக்கும் 'ஏன் என்னை ஏதோ செய்தாய்' படத்தின் முதல் பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-a59b0522)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-05-23 | `virakesarilk-607123b1` | கால்களை இழந்த ரஷ்யாவின் முன்னாள் இராணுவ வீரர் கைகளை மட்டுமே பயன்படுத்தி எவரெஸ்ட் சிகரத்தை அடைந்து சாதனை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-607123b1)
 - 2026-05-23 | `dailymirrorlk-83a6d805` | South-West monsoon gradually sets in over Sri Lanka – Met Dept. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-83a6d805)
 - 2026-05-23 | `virakesarilk-3ff3a06c` | துபாயிலிருந்து நாடு கடத்தப்பட்ட 21 சந்தேக நபர்கள் : திடுக்கிடும் தகவல்களை வெளியிட்ட பொலிஸார்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-3ff3a06c)
-- 2026-05-23 | `virakesarilk-11c0893a` | தமிழக அமைச்சர் ஷாஜஹானுக்கு மு.கா. தலைவர் ஹக்கீம் வாழ்த்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-11c0893a)
-- 2026-05-23 | `dailymirrorlk-2173bf0f` | Minor flood risk warning issued for Kalu Ganga basin areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-2173bf0f)
-- 2026-05-23 | `virakesarilk-e5dc49d0` | இருதரப்பு வர்த்தகம், வெளிநாட்டு முதலீடுகளை அதிகரிப்பதற்கு எதிர்பார்ப்பு ; கனடா உயர்ஸ்தானிகர் மேல் மாகாண ஆளுநர் சந்திப்பில் அவதானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-e5dc49d0)
 
 ---
 
