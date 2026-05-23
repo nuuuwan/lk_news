@@ -197479,5 +197479,82 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1779532740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-cc2ed4fb",
+    "num": "dailymirrorlk-cc2ed4fb",
+    "date_str": "2026-05-23",
+    "description": "Avoid phones in first five minutes after waking: Professor Diyanath",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Avoid-phones-in-first-five-minutes-after-waking-Professor-Diyanath/108-341059",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779533340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-7e069fab",
+    "num": "dailymirrorlk-7e069fab",
+    "date_str": "2026-05-23",
+    "description": "Rough seas, strong winds expected around island",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rough-seas-strong-winds-expected-around-island/108-341060",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779534202.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-836405ae",
+    "num": "dailymirrorlk-836405ae",
+    "date_str": "2026-05-23",
+    "description": "US government releases UFO sighting reports - \u2019Orbs swarming in all directions\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-government-releases-UFO-sighting-reports-Orbs-swarming-in-all-directions/108-341061",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779535277.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-65fee6af",
+    "num": "dailymirrorlk-65fee6af",
+    "date_str": "2026-05-23",
+    "description": "Pope Leo decries \u2019dizzying\u2019 profits earned by companies that pollute",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pope-Leo-decries-dizzying-profits-earned-by-companies-that-pollute/108-341062",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779536246.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-676d4e91",
+    "num": "dailymirrorlk-676d4e91",
+    "date_str": "2026-05-23",
+    "description": "Thousands evacuated in Southern California due to failing chemical tank",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thousands-evacuated-in-Southern-California-due-to-failing-chemical-tank/108-341063",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779537406.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-2173bf0f",
+    "num": "dailymirrorlk-2173bf0f",
+    "date_str": "2026-05-23",
+    "description": "Minor flood risk warning issued for Kalu Ganga basin areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minor-flood-risk-warning-issued-for-Kalu-Ganga-basin-areas/108-341064",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779538327.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-83a6d805",
+    "num": "dailymirrorlk-83a6d805",
+    "date_str": "2026-05-23",
+    "description": "South-West monsoon gradually sets in over Sri Lanka \u2013 Met Dept.",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/South-West-monsoon-gradually-sets-in-over-Sri-Lanka-Met-Dept/108-341065",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779539442.0
   }
 ]

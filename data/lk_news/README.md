@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--23_16:15:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--23_18:07:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**114,311** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**114,318** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-23-virakesarilk-d0f29e36",
-    "num": "virakesarilk-d0f29e36",
+    "doc_id": "2026-05-23-dailymirrorlk-83a6d805",
+    "num": "dailymirrorlk-83a6d805",
     "date_str": "2026-05-23",
-    "description": "\u2018\u0b85\u0ba9\u0bcd\u0bb1\u0bc1\u2019 \u0b85\u0bae\u0bcd\u0baa\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b86\u0bb5\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0b95 \u2018\u0b87\u0ba9\u0bcd\u0bb1\u0bc1\u2019 \u0b85\u0bae\u0bc8\u0ba4\u0bbf \u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/247469",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1779532740.0
+    "description": "South-West monsoon gradually sets in over Sri Lanka \u2013 Met Dept.",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/South-West-monsoon-gradually-sets-in-over-Sri-Lanka-Met-Dept/108-341065",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779539442.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-23 | `dailymirrorlk-83a6d805` | South-West monsoon gradually sets in over Sri Lanka – Met Dept. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-83a6d805)
+- 2026-05-23 | `dailymirrorlk-2173bf0f` | Minor flood risk warning issued for Kalu Ganga basin areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-2173bf0f)
+- 2026-05-23 | `dailymirrorlk-676d4e91` | Thousands evacuated in Southern California due to failing chemical tank | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-676d4e91)
+- 2026-05-23 | `dailymirrorlk-65fee6af` | Pope Leo decries ’dizzying’ profits earned by companies that pollute | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-65fee6af)
+- 2026-05-23 | `dailymirrorlk-836405ae` | US government releases UFO sighting reports - ’Orbs swarming in all directions’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-836405ae)
+- 2026-05-23 | `dailymirrorlk-7e069fab` | Rough seas, strong winds expected around island | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-7e069fab)
+- 2026-05-23 | `dailymirrorlk-cc2ed4fb` | Avoid phones in first five minutes after waking: Professor Diyanath | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-cc2ed4fb)
 - 2026-05-23 | `virakesarilk-d0f29e36` | ‘அன்று’ அம்பலப்படுத்திய ஆவணங்கள் தொடர்பாக ‘இன்று’ அமைதி காக்கும் அரசாங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-d0f29e36)
 - 2026-05-23 | `dailymirrorlk-c5e75043` | Sri Lankan Embassy in Kathmandu celebrates International Tea Day 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-c5e75043)
 - 2026-05-23 | `virakesarilk-7dabbec9` | இலங்கையின் பொருளாதார சீர்திருத்த முன்னேற்றம் குறித்து மே 27இல் சர்வதேச நாணய நிதியத்தின் முக்கிய மீளாய்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-7dabbec9)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-05-23 | `virakesarilk-ce4b871d` | இணையத்தளம், சமூக ஊடகங்கள் ஊடாக நிதி மோசடிகள் : பொதுமக்களுக்கு பொலிஸார் அவசர எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-ce4b871d)
 - 2026-05-23 | `dailymirrorlk-bac772b7` | Young SL face tough learning curve against HK | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-bac772b7)
 - 2026-05-23 | `virakesarilk-d472be49` | நாட்டின் மீதான பற்றால் மகனின் திருமணத்துக்குச் செல்லவில்லை! - அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்ப் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-d472be49)
-- 2026-05-23 | `dailymirrorlk-535228ed` | UK scientists developing Ebola vaccine that could be ready for trials in months | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-535228ed)
-- 2026-05-23 | `virakesarilk-4329f92a` | அந்நிய செலாவணி நெருக்கடிக்குத் தீர்வு காணல், வெளிநாட்டு கையிருப்பை பாதுகாத்தல் குறித்து தீவிர கவனம் தேவை - ஜனாதிபதி வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-4329f92a)
-- 2026-05-23 | `virakesarilk-8cd7a7af` | வவுனியாவில் போதை பாவனைக்கு எதிராக விழிப்புணர்வு நடைபயணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-8cd7a7af)
-- 2026-05-23 | `virakesarilk-ca6c5564` | பண்டாரவளையில் சூதாட்ட விடுதி முற்றுகை : 10 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-ca6c5564)
-- 2026-05-23 | `virakesarilk-8089daa9` | 200 கோடி ரூபாய் வசூலைக் கடந்த சூர்யாவின் 'கருப்பு' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-8089daa9)
-- 2026-05-23 | `virakesarilk-7ea9c4ae` | மீண்டும் வீழ்ந்தால் மீளவே முடியாது - விஜேதாச ராஜபக்ஷ எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-7ea9c4ae)
-- 2026-05-23 | `dailymirrorlk-f060b4e8` | Toxic pesticide ban reduced suicides by 70%: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-f060b4e8)
 
 ---
 
