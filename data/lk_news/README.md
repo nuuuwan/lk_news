@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--23_06:34:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--23_08:53:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**114,249** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**114,270** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://economynext.com](https://economynext.com), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-23-dailyftlk-04a3cd51",
-    "num": "dailyftlk-04a3cd51",
+    "doc_id": "2026-05-23-dailymirrorlk-35a9b960",
+    "num": "dailymirrorlk-35a9b960",
     "date_str": "2026-05-23",
-    "description": "President launches major development projects in Ampara",
-    "url_metadata": "https://www.ft.lk/news/President-launches-major-development-projects-in-Ampara/56-792357",
+    "description": "FBI arrives in Sri Lanka to investigate cyber thefts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/FBI-arrives-in-Sri-Lanka-to-investigate-cyber-thefts/108-341015",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1779494363.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779505341.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-23 | `dailymirrorlk-35a9b960` | FBI arrives in Sri Lanka to investigate cyber thefts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-35a9b960)
+- 2026-05-23 | `adalk-e1f1cba9` | කැනඩාවේ රැකියා පෙන්වා මුදල් ගැරූ ආතිල් කොටුවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-adalk-e1f1cba9)
 - 2026-05-23 | `dailyftlk-04a3cd51` | President launches major development projects in Ampara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-04a3cd51)
 - 2026-05-23 | `dailyftlk-73fef379` | Court issues arrest warrant  for Basil Rajapaksa over  alleged illicit funds case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-73fef379)
 - 2026-05-23 | `dailyftlk-c8623b7f` | 21 alleged underworld figures deported from Dubai arrive in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-c8623b7f)
@@ -56,11 +58,9 @@ A collection of lk_news documents.
 - 2026-05-23 | `dailyftlk-d86365ea` | Antizionism, new Antisemitism and Islamophobia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-d86365ea)
 - 2026-05-23 | `dailyftlk-be48b58a` | Sri Lanka between two chairs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-be48b58a)
 - 2026-05-23 | `dailyftlk-daa8d40c` | The Global South’s message to Washington and Beijing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailyftlk-daa8d40c)
-- 2026-05-22 | `virakesarilk-853145de` | சர்வதேச விமானங்களுக்காக கட்டுநாயக்கவிற்கு வரும் பயணிகளுக்கான சிறப்பு அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-virakesarilk-853145de)
-- 2026-05-22 | `islandlk-c267249b` | LOLC Al-Falaah partners with Euro Motors to drive accessible and customer-centric vehicle financing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-islandlk-c267249b)
-- 2026-05-22 | `islandlk-49ca97e8` | CHEC marks key milestone in China-funded affordable housing project in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-islandlk-49ca97e8)
-- 2026-05-22 | `islandlk-11709d72` | Rupee depreciation worries continuing to hamper investments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-islandlk-11709d72)
-- 2026-05-22 | `dailymirrorlk-270fffde` | Bandula shares ride in self-driving taxi in Hollywood | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-270fffde)
+- 2026-05-22 | `dailymirrorlk-4bebd953` | Indian tourists secure nearly 50% arrivals in 1H May as market shifts to Asia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-4bebd953)
+- 2026-05-22 | `dailymirrorlk-d3ecfae3` | JKCG denies prior knowledge of vehicle surcharge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-d3ecfae3)
+- 2026-05-22 | `dailymirrorlk-8093de84` | Tea export volumes extend decline in first four months of 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-22-dailymirrorlk-8093de84)
 
 ---
 
