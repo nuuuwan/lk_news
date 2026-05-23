@@ -197020,6 +197020,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-23-adalk-81470171",
+    "num": "adalk-81470171",
+    "date_str": "2026-05-23",
+    "description": "\u0d85\u0daf\u0dad\u0dca \u0db6\u0ddc\u0dc4\u0ddd \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0daf\u0dad\u0dca-\u0db6\u0ddc\u0dc4\u0ddd-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd\u0da7-\u0dc0\u0dd0\u0dc3\u0dd2/11-422577",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1779500778.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-23-dailymirrorlk-35a9b960",
     "num": "dailymirrorlk-35a9b960",
     "date_str": "2026-05-23",
@@ -197028,5 +197039,71 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1779505341.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-61462a42",
+    "num": "dailymirrorlk-61462a42",
+    "date_str": "2026-05-23",
+    "description": "Rains above 100 mm in several places today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rains-above-100-mm-in-several-places-today/108-341016",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779506281.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-b7f51025",
+    "num": "dailymirrorlk-b7f51025",
+    "date_str": "2026-05-23",
+    "description": "Most people seeking green cards must now apply from outside US",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Most-people-seeking-green-cards-must-now-apply-from-outside-US/108-341017",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779507505.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-df10d3f7",
+    "num": "dailymirrorlk-df10d3f7",
+    "date_str": "2026-05-23",
+    "description": "Bangladesh\u2019s rare \u2018Donald Trump\u2019 buffalo becomes Eid sensation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bangladeshs-rare-Donald-Trump-buffalo-becomes-Eid-sensation/108-341018",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779508317.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-cea9a242",
+    "num": "dailymirrorlk-cea9a242",
+    "date_str": "2026-05-23",
+    "description": "Tulsi Gabbard resigns as Donald Trump\u2019s US intelligence chief",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tulsi-Gabbard-resigns-as-Donald-Trumps-US-intelligence-chief/108-341019",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779509534.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-c8fb8d0e",
+    "num": "dailymirrorlk-c8fb8d0e",
+    "date_str": "2026-05-23",
+    "description": "India raises petrol,  diesel prices for 3rd time this month amid Middle East crisis",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-raises-petrol-diesel-prices-for-3rd-time-this-month-amid-Middle-East-crisis/108-341023",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779510533.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-23-dailymirrorlk-cd176de7",
+    "num": "dailymirrorlk-cd176de7",
+    "date_str": "2026-05-23",
+    "description": "Court orders Rainbow agency owner to repay victims within a year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-orders-Rainbow-agency-owner-to-repay-victims-within-a-year/108-341038",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779512567.0
   }
 ]
