@@ -199033,6 +199033,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-24-virakesarilk-9fdc6d62",
+    "num": "virakesarilk-9fdc6d62",
+    "date_str": "2026-05-24",
+    "description": "\u0b85\u0bb0\u0b9a \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 114 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc2\u0baa\u0bbe \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 18 \u0baa\u0bc1\u0ba4\u0bbf\u0baf '\u0b95\u0bca\u0bb2\u0bcd\u0baa\u0bcb\u0bb8\u0bcd\u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bbf \u0b87\u0baf\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/247576",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1779619920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-adalk-625e0906",
+    "num": "adalk-625e0906",
+    "date_str": "2026-05-24",
+    "description": "\u0d89\u0dbb\u0dcf\u0db1\u0dba \u0dc4\u0dcf \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0d9a\u0da7?",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dbb\u0dcf\u0db1\u0dba-\u0dc4\u0dcf-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0-\u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0d9a\u0da7-/11-422586",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1779620373.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-24-virakesarilk-bc9897d1",
     "num": "virakesarilk-bc9897d1",
     "date_str": "2026-05-24",
@@ -199151,5 +199173,82 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1779625200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-dailymirrorlk-c5dce6a1",
+    "num": "dailymirrorlk-c5dce6a1",
+    "date_str": "2026-05-24",
+    "description": "Engine of Hikkaduwa-bound express train derails at Maradana",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Engine-of-Hikkaduwa-bound-express-train-derails-at-Maradana/108-341088",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779627302.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-dailymirrorlk-6c86bc24",
+    "num": "dailymirrorlk-6c86bc24",
+    "date_str": "2026-05-24",
+    "description": "Three dead and 17 missing after flooding in China\u2019s Chongqing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-dead-and-17-missing-after-flooding-in-Chinas-Chongqing/108-341089",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779627511.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-virakesarilk-3fad9aad",
+    "num": "virakesarilk-3fad9aad",
+    "date_str": "2026-05-24",
+    "description": "\u0bb5\u0bc7\u0bb2\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0ba8\u0ba9\u0bcd\u0ba9\u0bc0\u0bb0\u0bcd \u0baa\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bbf \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd \u0ba4\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/247594",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1779627840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-dailymirrorlk-38933cd9",
+    "num": "dailymirrorlk-38933cd9",
+    "date_str": "2026-05-24",
+    "description": "EPF lags behind listed companies and banks on transparency: Verit\u00e9 Research",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/EPF-lags-behind-listed-companies-and-banks-on-transparency-Verit\u00e9-Research/108-341090",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779629240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-virakesarilk-6daf4335",
+    "num": "virakesarilk-6daf4335",
+    "date_str": "2026-05-24",
+    "description": "\u0bae\u0bb0\u0bc1\u0ba4\u0bbe\u0ba9\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0b9e\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0ba4\u0b9f\u0bae\u0bcd \u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 \u2013 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/247595",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1779629940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-virakesarilk-6b3aa21a",
+    "num": "virakesarilk-6b3aa21a",
+    "date_str": "2026-05-24",
+    "description": "\u0b9a\u0bc1\u0b95\u0bb5\u0bc0\u0ba9\u0bae\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bbe\u0b95 \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0ba9\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/247596",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1779630480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-virakesarilk-eafcf96f",
+    "num": "virakesarilk-eafcf96f",
+    "date_str": "2026-05-24",
+    "description": "\u0ba8\u0bbe\u0ba3\u0baf \u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f\u0bc1\u0ba4\u0bb2\u0bcd \u0bb0\u0bc2. 2.1 \u0b9f\u0bbf\u0bb0\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bbe\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 - \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bc8\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/247597",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1779631860.0
   }
 ]
