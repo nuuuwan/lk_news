@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-24 14:37:03",
-  "n_docs": 114429,
+  "time_updated": "2026-05-24 16:53:15",
+  "n_docs": 114432,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 114429,
+  "n_docs_with_text": 114432,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-24",
-  "dataset_size": 1779746593,
+  "dataset_size": 1779842361,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-24-adalk-c28fbb53",
-    "num": "adalk-c28fbb53",
+    "doc_id": "2026-05-24-virakesarilk-4f3c125e",
+    "num": "virakesarilk-4f3c125e",
     "date_str": "2026-05-24",
-    "description": "\u0d91\u0dc5\u0dc0\u0dc5\u0dd4 \u0db8\u0dd2\u0dbd \u0db1\u0dd2\u0dc3\u0dcf \u0daf\u0db1\u0dca\u0dc3\u0dbd\u0dca \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0dc5\u0dc0\u0dc5\u0dd4-\u0db8\u0dd2\u0dbd-\u0db1\u0dd2\u0dc3\u0dcf-\u0daf\u0db1\u0dca\u0dc3\u0dbd\u0dca-\u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a/11-422584",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1779610010.0
+    "description": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd  \u0ba8\u0bc1\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/247573",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1779618300.0
   }
 }
