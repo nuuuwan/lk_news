@@ -199363,6 +199363,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-24-colombotelegraphcom-445bda53",
+    "num": "colombotelegraphcom-445bda53",
+    "date_str": "2026-05-24",
+    "description": "Dollar Flies High Amidst Rhetoric Fables & Promises",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/dollar-flies-high-amidst-rhetoric-fables-promises/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1779639920.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-24-dailymirrorlk-5f798556",
     "num": "dailymirrorlk-5f798556",
     "date_str": "2026-05-24",
@@ -199613,5 +199624,71 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1779649367.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-25-dailyftlk-a56e1715",
+    "num": "dailyftlk-a56e1715",
+    "date_str": "2026-05-25",
+    "description": "Trial-at-Bar on substandard  medicine scandal: From  Courtroom spectacle to legal scrutiny",
+    "url_metadata": "https://www.ft.lk/opinion/Trial-at-Bar-on-substandard-medicine-scandal-From-Courtroom-spectacle-to-legal-scrutiny/14-792382",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779659199.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-25-dailyftlk-fc8562d3",
+    "num": "dailyftlk-fc8562d3",
+    "date_str": "2026-05-25",
+    "description": "Building a rich and acceptable national culture for Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Building-a-rich-and-acceptable-national-culture-for-Sri-Lanka/4-792383",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779659711.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-25-dailyftlk-6159b990",
+    "num": "dailyftlk-6159b990",
+    "date_str": "2026-05-25",
+    "description": "The real cost of unregulated tourism in Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/The-real-cost-of-unregulated-tourism-in-Sri-Lanka/4-792384",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779660053.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-25-dailyftlk-98a61425",
+    "num": "dailyftlk-98a61425",
+    "date_str": "2026-05-25",
+    "description": "Few suggestions to manage the current crisis",
+    "url_metadata": "https://www.ft.lk/opinion/Few-suggestions-to-manage-the-current-crisis/14-792385",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779660190.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-25-dailyftlk-6618c626",
+    "num": "dailyftlk-6618c626",
+    "date_str": "2026-05-25",
+    "description": "CEB reform in question:  Strategic shift or structural shuffle?",
+    "url_metadata": "https://www.ft.lk/columns/CEB-reform-in-question-Strategic-shift-or-structural-shuffle/4-792387",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779660703.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-25-dailyftlk-5fa6ee67",
+    "num": "dailyftlk-5fa6ee67",
+    "date_str": "2026-05-25",
+    "description": "Sri Lanka\u2019s exchange rate dilemma: Don\u2019t blame toothless Central Bank",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-exchange-rate-dilemma-Don-t-blame-toothless-Central-Bank/4-792388",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779660997.0
   }
 ]

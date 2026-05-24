@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--25_02:05:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--25_04:03:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**114,505** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**114,512** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-25-dailymirrorlk-8097a63f",
-    "num": "dailymirrorlk-8097a63f",
+    "doc_id": "2026-05-25-dailyftlk-5fa6ee67",
+    "num": "dailyftlk-5fa6ee67",
     "date_str": "2026-05-25",
-    "description": "Sri Lanka\u2019s Two-Faced Policy Climate Justice at the UN,  Deforestation at Home",
-    "url_metadata": "https://www.dailymirror.lk/opinion/Sri-Lankas-Two-Faced-Policy-Climate-Justice-at-the-UN-Deforestation-at-Home/172-341118",
+    "description": "Sri Lanka\u2019s exchange rate dilemma: Don\u2019t blame toothless Central Bank",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-exchange-rate-dilemma-Don-t-blame-toothless-Central-Bank/4-792388",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779649367.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779660997.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-25 | `dailyftlk-5fa6ee67` | Sri Lanka’s exchange rate dilemma: Don’t blame toothless Central Bank | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-5fa6ee67)
+- 2026-05-25 | `dailyftlk-6618c626` | CEB reform in question:  Strategic shift or structural shuffle? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-6618c626)
+- 2026-05-25 | `dailyftlk-98a61425` | Few suggestions to manage the current crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-98a61425)
+- 2026-05-25 | `dailyftlk-6159b990` | The real cost of unregulated tourism in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-6159b990)
+- 2026-05-25 | `dailyftlk-fc8562d3` | Building a rich and acceptable national culture for Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-fc8562d3)
+- 2026-05-25 | `dailyftlk-a56e1715` | Trial-at-Bar on substandard  medicine scandal: From  Courtroom spectacle to legal scrutiny | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-a56e1715)
 - 2026-05-25 | `dailymirrorlk-8097a63f` | Sri Lanka’s Two-Faced Policy Climate Justice at the UN,  Deforestation at Home | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-8097a63f)
 - 2026-05-25 | `dailymirrorlk-2b47e283` | Dollar strain returns amid global shocks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-2b47e283)
 - 2026-05-25 | `dailymirrorlk-240b3fde` | Let’s try and make a difference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-240b3fde)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-05-25 | `dailymirrorlk-2362076c` | Jabra-ZILLIONe introduce Evolve3 headset series and PanaCast video solutions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-2362076c)
 - 2026-05-24 | `dailymirrorlk-a2f32801` | Sri Lankan-German Business Forum 2026 to strengthen trusted partnerships and unlock investment opportunities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-24-dailymirrorlk-a2f32801)
 - 2026-05-24 | `dailymirrorlk-cac37c0b` | ComBank among first banks to partner with Port City Colombo to open a branch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-24-dailymirrorlk-cac37c0b)
-- 2026-05-24 | `dailymirrorlk-6cffdf83` | Cybercrime is 3rd largest economy sparing no country or enterprise- MTI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-24-dailymirrorlk-6cffdf83)
-- 2026-05-24 | `dailymirrorlk-c137c264` | LOLC Al-Falaah-Euro Motors drive accessible and customer-centric vehicle financing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-24-dailymirrorlk-c137c264)
-- 2026-05-24 | `dailymirrorlk-4a90c08a` | MullenLowe’s Sampath Karunaratne awarded Next-Gen Leader Scholarship to Cannes Lions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-24-dailymirrorlk-4a90c08a)
-- 2026-05-24 | `dailymirrorlk-f6aa2b8f` | BestWeb.LK competition calls for submissions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-24-dailymirrorlk-f6aa2b8f)
-- 2026-05-24 | `dailymirrorlk-71e33427` | E. B. Creasy – BIC and DENTA Factory wins Women-Led Sustainability Awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-24-dailymirrorlk-71e33427)
-- 2026-05-24 | `dailymirrorlk-084b407f` | SLASSCOM supports AIA’s Mind • Body • Soul Wellness Series | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-24-dailymirrorlk-084b407f)
 
 ---
 
