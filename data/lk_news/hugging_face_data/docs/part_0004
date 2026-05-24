@@ -199088,6 +199088,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-24-virakesarilk-1d5c7bae",
+    "num": "virakesarilk-1d5c7bae",
+    "date_str": "2026-05-24",
+    "description": "\u0bae\u0bb4\u0bc8\u0baf\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0b95\u0bbe\u0bb2\u0ba8\u0bbf\u0bb2\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bc1\u0bae\u0bcd ; \u0bb5\u0bbf\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd - \u0bb5\u0bb3\u0bbf\u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bb3\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/247582",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1779621120.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-24-virakesarilk-e63a7530",
     "num": "virakesarilk-e63a7530",
     "date_str": "2026-05-24",
@@ -199165,6 +199176,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-24-virakesarilk-70bbb92c",
+    "num": "virakesarilk-70bbb92c",
+    "date_str": "2026-05-24",
+    "description": "\u0b9a\u0bc1\u0bb0\u0bc7\u0bb7\u0bcd \u0b9a\u0bb2\u0bc7 \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b89\u0bb3\u0bcd\u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1; \u0ba4\u0bbf\u0bb2\u0bc0\u0baa \u0baa\u0bc0\u0bb0\u0bbf\u0bb8\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bb0\u0ba4\u0bcd \u0bb5\u0bc0\u0bb0\u0b9a\u0bc7\u0b95\u0bb0 \u0baa\u0ba4\u0bbf\u0bb2\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/247592",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1779625020.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-24-virakesarilk-4338317c",
     "num": "virakesarilk-4338317c",
     "date_str": "2026-05-24",
@@ -199184,6 +199206,17 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1779627302.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-adalk-48b18dfd",
+    "num": "adalk-48b18dfd",
+    "date_str": "2026-05-24",
+    "description": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0daf\u0dd2\u0db1 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0dda\u0daf\u0dd3 \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0daf\u0dd2\u0dbb\u0dd2-\u0daf\u0dd2\u0db1-\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0dda\u0daf\u0dd3-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/11-422587",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1779627433.0
   },
   {
     "doc_type": "lk_news",
@@ -199250,5 +199283,93 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1779631860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-virakesarilk-0bcde83f",
+    "num": "virakesarilk-0bcde83f",
+    "date_str": "2026-05-24",
+    "description": "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bb2\u0bc6\u0baa\u0ba9\u0bbe\u0ba9\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b89\u0b9f\u0ba9\u0b9f\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1 - \u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/247599",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1779634020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-dailymirrorlk-55232627",
+    "num": "dailymirrorlk-55232627",
+    "date_str": "2026-05-24",
+    "description": "Russia hits Ukraine with Oreshnik missile in one of war\u2019s biggest attacks on Kyiv",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Russia-hits-Ukraine-with-Oreshnik-missile-in-one-of-wars-biggest-attacks-on-Kyiv/108-341091",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779636110.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-dailymirrorlk-eacdbf00",
+    "num": "dailymirrorlk-eacdbf00",
+    "date_str": "2026-05-24",
+    "description": "Catholic church in SL disassociates itself with sentiments made by priest on genocide",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Catholic-church-in-SL-disassociates-itself-with-sentiments-made-by-priest-on-genocide/108-341092",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779636403.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-dailymirrorlk-baa9e13f",
+    "num": "dailymirrorlk-baa9e13f",
+    "date_str": "2026-05-24",
+    "description": "CBSL imposes strict caps on vehicle loans and leases effective May 25",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CBSL-imposes-strict-caps-on-vehicle-loans-and-leases-effective-May-25/108-341093",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779637564.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-dailymirrorlk-e4f02290",
+    "num": "dailymirrorlk-e4f02290",
+    "date_str": "2026-05-24",
+    "description": "Trinity Power Cripples Pathana",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trinity-Power-Cripples-Pathana/108-341094",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779638527.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-virakesarilk-a9716228",
+    "num": "virakesarilk-a9716228",
+    "date_str": "2026-05-24",
+    "description": "\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bb3\u0bbf\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe\u0bb2\u0bcd, \u0b87\u0ba9\u0bcd\u0bb1\u0bc7 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8\u0baa\u0bcd \u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc7\u0bb1\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bcd \u2013 \u0ba4\u0bbf\u0bb2\u0bbf\u0ba4\u0bcd \u0b9c\u0baf\u0bb5\u0bc0\u0bb0",
+    "url_metadata": "https://www.virakesari.lk/article/247600",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1779638940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-dailymirrorlk-f79cfeee",
+    "num": "dailymirrorlk-f79cfeee",
+    "date_str": "2026-05-24",
+    "description": "U.S. and Iran agree in principle to reopen Strait of Hormuz, U.S. official says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/U-S-and-Iran-agree-in-principle-to-reopen-Strait-of-Hormuz-U-S-official-says/108-341095",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779639065.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-24-dailymirrorlk-5f798556",
+    "num": "dailymirrorlk-5f798556",
+    "date_str": "2026-05-24",
+    "description": "Hong Kong survive Sri Lankan scare",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hong-Kong-survive-Sri-Lankan-scare/108-341096",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779640054.0
   }
 ]
