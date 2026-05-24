@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--24_06:36:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--24_08:55:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**114,365** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**114,368** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-23-islandlk-e3bb1d23",
-    "num": "islandlk-e3bb1d23",
-    "date_str": "2026-05-23",
-    "description": "Dialog Launches Air Fibre, Sri Lanka\u2019s First 5G-Powered Ultra-Fast Wi-Fi Solution",
-    "url_metadata": "http://island.lk/dialog-launches-air-fibre-sri-lankas-first-5g-powered-ultra-fast-wi-fi-solution/",
+    "doc_id": "2026-05-24-dailymirrorlk-afcab3c0",
+    "num": "dailymirrorlk-afcab3c0",
+    "date_str": "2026-05-24",
+    "description": "Video: SpaceX rocket explodes in the Indian Ocean after splashdown",
+    "url_metadata": "https://www.dailymirror.lk/international/Video-SpaceX-rocket-explodes-in-the-Indian-Ocean-after-splashdown/107-341074",
     "lang": "en",
-    "newspaper_id": "islandlk",
-    "time_ut": 1779553980.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779592398.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-24 | `dailymirrorlk-afcab3c0` | Video: SpaceX rocket explodes in the Indian Ocean after splashdown | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-24-dailymirrorlk-afcab3c0)
+- 2026-05-24 | `dailymirrorlk-f444ea3f` | Secret Service fatally shoots gunman who fired at White House checkpoint | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-24-dailymirrorlk-f444ea3f)
 - 2026-05-23 | `islandlk-e3bb1d23` | Dialog Launches Air Fibre, Sri Lanka’s First 5G-Powered Ultra-Fast Wi-Fi Solution | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-islandlk-e3bb1d23)
 - 2026-05-23 | `islandlk-7faaddd6` | AIA Lanka celebrates ‘Rising to the Top’ at annual awards night | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-islandlk-7faaddd6)
 - 2026-05-23 | `islandlk-5b6908fd` | SLT-MOBITEL launches Lanka’s first pocket-sized 5G mobile router | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-islandlk-5b6908fd)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-05-23 | `virakesarilk-a59b0522` | அறிமுக நடிகர் டி. அண்டனி நடிக்கும் 'ஏன் என்னை ஏதோ செய்தாய்' படத்தின் முதல் பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-a59b0522)
 - 2026-05-23 | `virakesarilk-43b340ee` | போதைப்பொருள் தடுப்பு நடவடிக்கையாக  திருகோணமலையில் விழிப்புணர்வு நடைபவனி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-43b340ee)
 - 2026-05-23 | `virakesarilk-3a02857d` | டிக்கோயா இரட்டைக் கொலை ;  சந்தேக நபர் பொகவந்தலாவையில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-3a02857d)
-- 2026-05-23 | `virakesarilk-bfbc047b` | நீர்கொழும்பின் பல பகுதிகள் தொடர்ந்தும் வெள்ளத்தில்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-virakesarilk-bfbc047b)
-- 2026-05-23 | `dailymirrorlk-75cbb0b8` | Police summon Dilum Amunugama over remarks linked to ongoing child abuse case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-23-dailymirrorlk-75cbb0b8)
 
 ---
 

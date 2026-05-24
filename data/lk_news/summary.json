@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-24 06:36:17",
-  "n_docs": 114365,
+  "time_updated": "2026-05-24 08:54:11",
+  "n_docs": 114368,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 114365,
+  "n_docs_with_text": 114368,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-05-23",
-  "dataset_size": 1778542996,
+  "date_str_max": "2026-05-24",
+  "dataset_size": 1778772684,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-23-islandlk-e3bb1d23",
-    "num": "islandlk-e3bb1d23",
-    "date_str": "2026-05-23",
-    "description": "Dialog Launches Air Fibre, Sri Lanka\u2019s First 5G-Powered Ultra-Fast Wi-Fi Solution",
-    "url_metadata": "http://island.lk/dialog-launches-air-fibre-sri-lankas-first-5g-powered-ultra-fast-wi-fi-solution/",
+    "doc_id": "2026-05-24-dailymirrorlk-afcab3c0",
+    "num": "dailymirrorlk-afcab3c0",
+    "date_str": "2026-05-24",
+    "description": "Video: SpaceX rocket explodes in the Indian Ocean after splashdown",
+    "url_metadata": "https://www.dailymirror.lk/international/Video-SpaceX-rocket-explodes-in-the-Indian-Ocean-after-splashdown/107-341074",
     "lang": "en",
-    "newspaper_id": "islandlk",
-    "time_ut": 1779553980.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779592398.0
   }
 }
