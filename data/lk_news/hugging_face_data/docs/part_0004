@@ -201208,5 +201208,49 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1779721200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-25-dailymirrorlk-69afee34",
+    "num": "dailymirrorlk-69afee34",
+    "date_str": "2026-05-25",
+    "description": "Water levels stable in major rivers: Irrigation Department",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Water-levels-stable-in-major-rivers-Irrigation-Department/108-341200",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779723042.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-25-dailymirrorlk-fc019894",
+    "num": "dailymirrorlk-fc019894",
+    "date_str": "2026-05-25",
+    "description": "Minister orders fast recruitment at NCPA",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minister-orders-fast-recruitment-at-NCPA/108-341201",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779724034.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-25-dailymirrorlk-9f06f4c1",
+    "num": "dailymirrorlk-9f06f4c1",
+    "date_str": "2026-05-25",
+    "description": "Pope, urging AI regulation, warns some weapons now beyond human control",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pope-urging-AI-regulation-warns-some-weapons-now-beyond-human-control/108-341202",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779724343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-25-dailymirrorlk-8611a42e",
+    "num": "dailymirrorlk-8611a42e",
+    "date_str": "2026-05-25",
+    "description": "WHO chief says fast-moving Ebola epidemic is outpacing response efforts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/WHO-chief-says-fast-moving-Ebola-epidemic-is-outpacing-response-efforts/108-341203",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779724439.0
   }
 ]
