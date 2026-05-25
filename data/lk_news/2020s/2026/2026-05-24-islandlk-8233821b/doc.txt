@@ -1,0 +1,61 @@
+TOXIC WATERS: How Galle’s rivers are becoming invisible hotspots for superbugs and disease risk
+
+GALLE– A pioneering scientific study conducted by an international team of Sri Lankan and Japanese researchers has delivered a wake-up call regarding the deteriorating health of urban rivers in the historic coastal city of Galle. The investigation reveals a hazardous cocktail of untreated urban wastewater and seawater intrusion that is quietly transforming local waterways into breeding grounds for antibiotic-resistant “superbugs” and posing serious health risks to river using communities.
+
+The study, which meticulously analysed three key rivers—Gin Ganga, Kepu Ela, and Moragoda Ela—is the first of its kind in Sri Lanka to integrate advanced DNA sequencing, antibiotic resistance tracking, and public health risk modeling.
+
+The research established a direct, undeniable link between urban congestion and water degradation. Among the three waterways, Moragoda Ela emerged as a critical pollution hotspot. With up to 89% of its surrounding catchment area heavily urbanised and packed with residential buildings, the river has essentially been forced to absorb massive volumes of untreated domestic and hospital wastewater.
+
+Testing revealed that Moragoda Ela contains alarmingly high levels of E. coli (fecal bacteria) and elevated Chemical Oxygen Demand (COD), an indicator of heavy chemical and organic pollution. In stark contrast, the larger Gin Ganga and the less urbanised Kepu Ela maintained significantly lower levels of contamination, proving that dense urban footprints are actively overwhelming our smaller coastal streams.
+
+The Illusion of Cleanliness: The “Invisible” Danger of Seawater Intrusion
+
+One of the most fascinating—and terrifying—discoveries made by the scientists occurred at the mouth of the Moragoda Ela, just 90 meters from the ocean. At this downstream site, tidal seawater pushes deep into the river, causing extreme spikes in salinity (measured as electrical conductivity).
+
+To the untrained eye, traditional water tests at this location might suggest the water is cleaning itself, as the number of culturable, live  E. coli bacteria drop sharply. However, the researchers discovered this is a dangerous illusion.
+
+“The high salt levels don’t necessarily kill the bacteria,” explained one of the leading authors. “Instead, the stress forces the E. coli into a ‘sleep mode’ known as a Viable But Non-Culturable (VBNC) state. They become invisible to standard laboratory culture tests, yet they survive, retain their dangerous properties, and continue to harbor hazardous genes.”
+
+Furthermore, using sophisticated 16S rRNA DNA sequencing, the team found that while standard E. coli seemed to vanish, other resilient fecal bacteria like Bacteroidales thrived in the salty, brackish water. This discovery means our current national methods for testing coastal water quality may be dangerously outdated, failing to detect active fecal pollution in brackish environments. (See Image 2)
+
+Perhaps the most alarming finding for the general public is the widespread distribution of Antibiotic Resistance Genes (ARGs). These genes allow ordinary bacteria to mutate into superbugs that can resist modern life-saving medications.
+
+The team tracked two specific resistance genes: mphA (which resists common macrolide antibiotics like azithromycin) and blaIMP (which resists critical, last-resort hospital antibiotics).
+
+·mphA concentrations skyrocketed in the heavily polluted Moragoda Ela, directly correlating with wastewater discharge zones. Shockingly, even where the high salinity made E. coli “disappear” from lab cultures, the concentration of this superbug gene remained at its peak, preserved inside the salt-tolerant microbial community.
+
+was found distributed across all three rivers, regardless of whether the area was urban or rural. This indicates that dangerous hospital-grade antibiotic resistance has already escaped containment and is structurally embedded across Galle’s natural river networks.
+
+Because river water in these areas is widely diverted to sustain livelihoods probably. Hence, the study used a global standard modeling technique called Quantitative Microbial Risk Assessment (QMRA) to determine the exact danger to human health.
+
+The analysis calculated the health risk in “Disability-Adjusted Life Years” (DALYs), which measures the years of healthy life lost due to illness.
+
+The World Health Organization (WHO) sets a strict safety threshold of 10-6 DALY (one-in-a-million risk level) per year.
+
+The mathematical simulations revealed that Moragoda Ela failed the safety test completely, with a 100% exceedance rate of the WHO safety guideline. Users (maybe for irrigational activities) incidentally intact may face an unacceptably high annual risk of contracting severe diarrheal and enteric illnesses. Fortunately, the Gin Ganga and Kepu Ela rivers currently remain within the safer limits. (I1)
+
+With less than 10% of Sri Lanka’s land mass supported by centralised wastewater treatment systems, the researchers stress that we can no longer treat our rivers as open sewers.
+
+As a benchmark for a solution, the study compared Galle’s rivers against highly purified “reclaimed water” from a tertiary wastewater treatment facility in Sapporo, Japan.
+
+The Japanese system uses advanced secondary sludge treatment, sand filtration, and strict chlorination, making the water completely safe for unrestricted agricultural reuse.
+
+The risk of illness from this reclaimed water was virtually zero, maintaining the highest possible margin of safety.
+
+The international research coalition is urging Sri Lankan authorities to act immediately by implementing three crucial interventions:
+
+=Upgrade Urban Infrastructure: Establish localized, decentralised wastewater treatment plants in dense urban pockets, especially near major public institutions like hospitals.
+
+=Modernize Water Monitoring: Move away from relying solely on basic E. coli cultures in coastal estuaries. Authorities must adopt salinity-resilient microbial markers (such as Bacteroidales) to get an honest picture of water safety.
+
+=Invest in Water Reclamation: Begin exploring modern wastewater recycling systems to produce safe, treated water dedicated to agricultural irrigation, preserving our pristine freshwater sources and protecting the health of our farmers.
+
+If we fail to act, the pristine coastal image of Galle will remain a mask hiding a brewing ecological and public health emergency right beneath the surface.
+
+This study is under publication process in a reputed journal with the tittle “Integrated Assessment of Urbanization, Wastewater Discharge, and Saline Water Intrusion on Microbial Water Quality, Antibiotic Resistance, and Public Health Risk in Sri Lankan Coastal Urban Rivers” was co-authored by scientists from Hokkaido University (Japan), the University of Ruhuna (Sri Lanka), Tohoku University (Japan), and Cellspect Co., Ltd. Special thanks to Professor Hisashi Satoh (Hokkaido University), Professor Tushara Chaminda (Ruhuna University), Professor Wasala Bandara (Ruhuna University), Associate Professor Mohan Amarasiri, Eng. Chamuditha Senevirathne, & Eng. S. Sivanantharajah.
+
+Human-caused leopard deaths soar in Sri Lanka’s Central Highlands, new study warns
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
