@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--25_18:57:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--25_20:48:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**114,617** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**114,650** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-25-dailymirrorlk-8405823d",
-    "num": "dailymirrorlk-8405823d",
+    "doc_id": "2026-05-25-virakesarilk-b7fecf00",
+    "num": "virakesarilk-b7fecf00",
     "date_str": "2026-05-25",
-    "description": "Vesak Maha Perahera...",
-    "url_metadata": "https://www.dailymirror.lk/caption-story/Vesak-Maha-Perahera/110-341195",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779714026.0
+    "description": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd \u2013 \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/247729",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1779721200.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-25 | `virakesarilk-b7fecf00` | எரிபொருள் விலை உயர்வு நாட்டை மேலும் நெருக்கடிக்குள் தள்ளும் – சஜித் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-b7fecf00)
+- 2026-05-25 | `dailymirrorlk-53b349ef` | EasyJet flight diverts to Rome over power bank in luggage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-53b349ef)
+- 2026-05-25 | `dailymirrorlk-69bbd670` | Railway station phone lines restored after Rs.2.9 mn payment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-69bbd670)
+- 2026-05-25 | `dailymirrorlk-91c3f203` | Sri Lanka squads announced for West Indies tour; Kusal Mendis named captain for limited overs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-91c3f203)
+- 2026-05-25 | `virakesarilk-d3f41d66` | மன்னாரில் கடற்படையினர் வசமுள்ள காணிகள் ;  அருண ஜயசேகர தலைமையிலான குழு  கள விஜயம், விசேட கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-d3f41d66)
+- 2026-05-25 | `virakesarilk-4658c0fd` | மத்திய ஆசிய மகளிர் கரப்பந்தாட்டத்தில் இலங்கைக்கு கடைசிப் போட்டியில் ஆறுதல் வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-4658c0fd)
+- 2026-05-25 | `dailymirrorlk-87d4ecaa` | No ban on Dansalas, Vesak decorations in Northern Province: Governor refutes social media posts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-87d4ecaa)
+- 2026-05-25 | `virakesarilk-dd5a01fd` | நாட்டில் மீண்டும் இனவாதத்தையும், மதப் பிரிவினையும் தூண்டுவதற்கு இடமளிக்கப் போவதில்லை – ஆனந்த விஜேயபால | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-dd5a01fd)
+- 2026-05-25 | `virakesarilk-ef6b3dfe` | முள்ளிக்குளம் பகுதியில் 753 ஏக்கர் காணிகள் நிபந்தனைகளுடன் விடுவிக்கப்படும் - அருண ஜயசேகர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-ef6b3dfe)
+- 2026-05-25 | `virakesarilk-6de03345` | மாகாணசபை தேர்தலை அரசு நடத்தாது என்பது உறுதி – அகிலவிராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-6de03345)
+- 2026-05-25 | `virakesarilk-8ed2fa25` | மூளைக்காய்ச்சல் சந்தேகத்தில் 63 பேர் அடையாளம் ; 32 பேருக்கு தொற்று உறுதி – சுகாதார அமைச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-8ed2fa25)
 - 2026-05-25 | `dailymirrorlk-8405823d` | Vesak Maha Perahera... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-8405823d)
 - 2026-05-25 | `dailymirrorlk-be2c5178` | Women Parliamentarians to intervene in Anuradhapura child abuse incident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-be2c5178)
 - 2026-05-25 | `dailymirrorlk-be4c2e2d` | TPA’s Barath questions JVP’s ‘Indian Expansion’ narrative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-be4c2e2d)
-- 2026-05-25 | `adalk-a0b7d90d` | බිල් නොගෙවිම නිසා දුම්රිය ස්ථානවල දුරකතන ඉතිහාසයේ පළමු වතාවට විසන්ධි කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-adalk-a0b7d90d)
-- 2026-05-25 | `dailymirrorlk-9e1fedb2` | Market surges on optimism over potential Iran–USA peace deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-9e1fedb2)
-- 2026-05-25 | `dailymirrorlk-91653e16` | Health Ministry issues sweeping meningitis directive amid concerns over school spread | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-91653e16)
-- 2026-05-25 | `dailymirrorlk-26ef579a` | Five forests to be declared reserves for World Environment Day 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-26ef579a)
-- 2026-05-25 | `dailymirrorlk-48ca7203` | Deal with US not imminent, Iran says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-48ca7203)
-- 2026-05-25 | `adalk-b6f713f7` | ශ්‍රී ලංකා පොලිසියට ඉන්දියාවෙන් තෑගි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-adalk-b6f713f7)
-- 2026-05-25 | `dailymirrorlk-6be7d5d6` | Central Bank warns against misleading claims on currency printing and exchange rates | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-6be7d5d6)
-- 2026-05-25 | `dailymirrorlk-1af15492` | Wimal Weerawansa granted bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-1af15492)
-- 2026-05-25 | `dailymirrorlk-4567c29a` | Shashi Weerawansa case over diplomatic passport fixed for July 24 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-4567c29a)
-- 2026-05-25 | `dailymirrorlk-016d0ca8` | Police launch islandwide security Plan for Hajj festival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-016d0ca8)
-- 2026-05-25 | `dailymirrorlk-0bc55cd5` | Prisons Department allows special visits for Hajj and Vesak festivals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-0bc55cd5)
-- 2026-05-25 | `adalk-62a11e01` | ඉන්දිය සමාගම් විදෙස් රටවල සමාගම් අත්පත් කර ගැනිම ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-adalk-62a11e01)
-- 2026-05-25 | `dailymirrorlk-7d3ea52a` | Lanterns prepared for Vesak | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-7d3ea52a)
-- 2026-05-25 | `adalk-1e82e47d` | තවත් වනාන්තර පහක් රක්ෂිත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-adalk-1e82e47d)
-- 2026-05-25 | `dailymirrorlk-336ddc19` | Railway station communications cut off over unpaid bills | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-336ddc19)
-- 2026-05-25 | `dailymirrorlk-64aa2845` | China launches rocket to send astronaut on year-long space mission as it eyes 2030 moon landing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-64aa2845)
-- 2026-05-25 | `dailymirrorlk-99e00f69` | India turns to Latin American, African oil after Hormuz disruption | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-99e00f69)
+- 2026-05-25 | `adalk-fb886641` | ඇමෙරිකාව සමග සාකච්ඡාවල ප්‍රගතියක් තියෙනවා -ඉරානය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-adalk-fb886641)
+- 2026-05-25 | `virakesarilk-bfe47a48` | வாரண்ட் - இணையத் தொடர் விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-bfe47a48)
+- 2026-05-25 | `virakesarilk-038f51a8` | நீதிச்சேவைகள் ஆணைக்குழுவின் உறுப்பினராக நீதியரசர் யசந்த கோடாகொடவை நியமிக்க அரசியலமைப்பு பேரவை அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-038f51a8)
+- 2026-05-25 | `virakesarilk-1007f00d` | சமூகப் பாதுகாப்பு ஓய்வூதியத் திட்டம் : இனி வீட்டில் இருந்தபடியே ஸ்மார்ட்போன் மூலம் பதிவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-1007f00d)
+- 2026-05-25 | `virakesarilk-c1391be7` | காணாமலாக்கப்பட்டோர் பற்றிய அலுவலகத்தின் பணிப்பாளர் சபை உறுப்பினராக ஜெயதீபா புண்ணியமூர்த்தி தெரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-c1391be7)
+- 2026-05-25 | `virakesarilk-69dbfc5d` | கார்த்தி நடிக்கும்' #கார்த்தி 30 'புதிய படத்தின் தொடக்க விழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-69dbfc5d)
 
 ---
 

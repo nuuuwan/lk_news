@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-25 18:56:26",
-  "n_docs": 114617,
+  "time_updated": "2026-05-25 20:47:59",
+  "n_docs": 114650,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 114617,
+  "n_docs_with_text": 114650,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-25",
-  "dataset_size": 1782525257,
+  "dataset_size": 1782737230,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-25-dailymirrorlk-8405823d",
-    "num": "dailymirrorlk-8405823d",
+    "doc_id": "2026-05-25-virakesarilk-b7fecf00",
+    "num": "virakesarilk-b7fecf00",
     "date_str": "2026-05-25",
-    "description": "Vesak Maha Perahera...",
-    "url_metadata": "https://www.dailymirror.lk/caption-story/Vesak-Maha-Perahera/110-341195",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779714026.0
+    "description": "\u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1 \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0ba8\u0bc6\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd \u2013 \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/247729",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1779721200.0
   }
 }
