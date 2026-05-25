@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--25_08:56:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--25_11:18:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**114,559** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**114,576** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-25-adalk-6878b987",
-    "num": "adalk-6878b987",
+    "doc_id": "2026-05-25-dailymirrorlk-8dde42f6",
+    "num": "dailymirrorlk-8dde42f6",
     "date_str": "2026-05-25",
-    "description": "\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dc5\u0da7",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dc5\u0da7/11-422589",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1779674303.0
+    "description": "Over 30,000 families affected by adverse weather across country",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-30-000-families-affected-by-adverse-weather-across-country/108-341158",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779687747.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-25 | `dailymirrorlk-8dde42f6` | Over 30,000 families affected by adverse weather across country | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-8dde42f6)
+- 2026-05-25 | `dailymirrorlk-3b4630bc` | Meningitis cases rise amid Vesak season; health authorities urge vigilance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-3b4630bc)
+- 2026-05-25 | `dailymirrorlk-7e0b17f3` | First pediatric kidney transplant outside children’s hospital performed in Polonnaruwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-7e0b17f3)
+- 2026-05-25 | `dailymirrorlk-92e87ee8` | COPE too hunting for opposition members? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-92e87ee8)
+- 2026-05-25 | `dailymirrorlk-0c4cbba7` | Five sentenced to death over murder | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-0c4cbba7)
+- 2026-05-25 | `dailymirrorlk-a01fd8be` | Brothel raided – four arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-a01fd8be)
+- 2026-05-25 | `dailymirrorlk-debe9d6d` | Police tighten noose on organised crime with 226 Red Notices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-debe9d6d)
+- 2026-05-25 | `dailymirrorlk-3a0c0582` | Tough action against traders exploiting rupee depreciation: Wasantha Samarasinghe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-3a0c0582)
+- 2026-05-25 | `dailymirrorlk-10d75db4` | Opposition MP says President sought RW’s support for economic stability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-10d75db4)
+- 2026-05-25 | `dailymirrorlk-d3866e4c` | Ebola triggers heightened vigilance in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-d3866e4c)
+- 2026-05-25 | `dailymirrorlk-35f70e28` | Work from home soon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-35f70e28)
+- 2026-05-25 | `dailymirrorlk-bac44d9d` | Oil prices slide on hopes of US-Iran peace deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-bac44d9d)
+- 2026-05-25 | `dailymirrorlk-37b5c0fb` | Suspect in Vidya murder case dies by suicide in Jaffna Prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-37b5c0fb)
+- 2026-05-25 | `dailymirrorlk-8fc45a2f` | Ten injured during severe turbulence on Cathay Pacific flight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-8fc45a2f)
+- 2026-05-25 | `dailymirrorlk-bbde02b3` | Tourists from 40 countries can now obtain free Sri Lanka ETA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-bbde02b3)
+- 2026-05-25 | `dailymirrorlk-9377154f` | Trump tells US negotiators ’not to rush’ into deal with Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-9377154f)
+- 2026-05-25 | `adalk-78dd6421` | මෝටර් රථ උපරිම ණය අනුපාතය ප්‍රතිශතාංක 10කින් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-adalk-78dd6421)
 - 2026-05-25 | `adalk-6878b987` | තෙල් මිල පහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-adalk-6878b987)
 - 2026-05-25 | `virakesarilk-d465a0cc` | ரில்வின் சில்வாவின் கருத்துகள் தேர்தல் ஆணைக்குழுவை அவமதிக்கிறது – சாணக்கியன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-d465a0cc)
 - 2026-05-25 | `virakesarilk-0d293474` | ஜனநாயகத்துக்காக அனைவரும் ஒன்றுபட வேண்டும் – தயாசிறி ஜயசேகர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-0d293474)
-- 2026-05-25 | `virakesarilk-04b110ef` | தமிழ் மக்களின் உரிமைகளை பற்றி பேசுபவர்கள் வடக்கு மாகாணத்தில் மட்டும் தேர்தல் நடத்த சவால் – நாமல் ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-04b110ef)
-- 2026-05-25 | `dailymirrorlk-99de9bab` | RCB face GT in Qualifier 1, SRH meet RR in Eliminator | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-99de9bab)
-- 2026-05-25 | `virakesarilk-db0e08f8` | பாதாள உலகக்குழுவினரிடமிருந்து 83 டி-56 உள்ளிட்ட 272 துப்பாக்கிகள் மீட்பு – பொலிஸார் தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-db0e08f8)
-- 2026-05-25 | `virakesarilk-c7ba2a85` | குடும்பத் தகராறில் மனைவிக்குத் தீவைத்த முச்சக்கரவண்டி ஓட்டுநர் முல்லேரியாவில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-c7ba2a85)
-- 2026-05-25 | `virakesarilk-48f1e332` | அரசாங்கத்தின் செயற்திறனை மத்திய வங்கி தரவுகள் நிரூபிக்கும் – நலின் ஹேவாகே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-48f1e332)
-- 2026-05-25 | `virakesarilk-4b6aab88` | மாகாணசபைகளுக்கான தேர்தலையே நடத்த தயங்கும் அரசாங்கம், எவ்வாறு அதிகாரப் பகிர்வுக்கு ஒத்துழைக்கும்? - சந்திரகுமார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-4b6aab88)
-- 2026-05-25 | `dailyftlk-fbfd1f0a` | PM Harini in UK says Commonwealth ‘really important forum’ in a tense world | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-fbfd1f0a)
-- 2026-05-25 | `dailyftlk-19b3784e` | Foreign Minister Vijitha Herath  to visit Australia and New Zealand | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-19b3784e)
-- 2026-05-25 | `dailyftlk-f4ea3029` | Sajith warns Sri Lanka risks renewed bankruptcy without successor IMF deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-f4ea3029)
-- 2026-05-25 | `dailyftlk-678e9a19` | Cockroach Janta Party Founder says Indian Govt. took website down | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-678e9a19)
-- 2026-05-25 | `dailyftlk-acd9c8c3` | Sri Lankan activist Sameera Mahboobdeen shares chilling detention ordeal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-acd9c8c3)
-- 2026-05-25 | `virakesarilk-6f4ba226` | நிதித்துறைக்கு மற்றொரு 'பொறி' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-6f4ba226)
-- 2026-05-25 | `virakesarilk-11303228` | 'கரப்பான் பூச்சிகளின்' அரசியல் புரட்சி 'இந்தியாவில் வேலைவாய்ப்பற்ற இளைஞர்களின் நையாண்டிப் பேரெழுச்சி' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-11303228)
-- 2026-05-25 | `dailyftlk-5d14ffaf` | Dr. Rohitha Silva appointed FCCISL President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-5d14ffaf)
-- 2026-05-25 | `dailyftlk-1e147910` | Ceylon Chamber of Commerce concludes high-level economic engagements in Mumbai | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-1e147910)
-- 2026-05-25 | `dailyftlk-dc708194` | New Director General of Commerce (Actg.) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-dc708194)
-- 2026-05-25 | `dailyftlk-81db4ba3` | Sri Lanka tells Vietnam: Stable, reformed economy ready for capital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailyftlk-81db4ba3)
 
 ---
 
