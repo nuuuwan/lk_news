@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--25_11:18:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--25_13:23:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**114,576** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**114,586** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-25-dailymirrorlk-8dde42f6",
-    "num": "dailymirrorlk-8dde42f6",
+    "doc_id": "2026-05-25-dailymirrorlk-17d8f957",
+    "num": "dailymirrorlk-17d8f957",
     "date_str": "2026-05-25",
-    "description": "Over 30,000 families affected by adverse weather across country",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-30-000-families-affected-by-adverse-weather-across-country/108-341158",
+    "description": "Attack on Galle Face protesters: AG to frame changes against Deshabandu",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Attack-on-Galle-Face-protesters-AG-to-frame-changes-against-Deshabandu/108-341166",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779687747.0
+    "time_ut": 1779695012.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-25 | `dailymirrorlk-17d8f957` | Attack on Galle Face protesters: AG to frame changes against Deshabandu | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-17d8f957)
+- 2026-05-25 | `dailymirrorlk-6500ce4d` | 2025 O/L results expected by mid-June | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-6500ce4d)
+- 2026-05-25 | `dailymirrorlk-8b161672` | Rough seas and strong winds expected around island | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-8b161672)
+- 2026-05-25 | `dailymirrorlk-6dc07918` | Rupee appreciates as dollar selling rates fall | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-6dc07918)
+- 2026-05-25 | `adalk-49115ba7` | ලංකාවේ කාන්තාවන්ගෙන් සියයට 10.6කට දරු උපත් සිදුව නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-adalk-49115ba7)
+- 2026-05-25 | `dailymirrorlk-adcc8fdf` | Wimal Weerawansa arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-adcc8fdf)
+- 2026-05-25 | `dailymirrorlk-55c578b0` | Video shows paraglider’s heart-stopping fall after plane collision | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-55c578b0)
+- 2026-05-25 | `dailymirrorlk-7e4c80c9` | 7-Eleven Japan founder Toshifumi Suzuki dies at 93 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-7e4c80c9)
 - 2026-05-25 | `dailymirrorlk-8dde42f6` | Over 30,000 families affected by adverse weather across country | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-8dde42f6)
 - 2026-05-25 | `dailymirrorlk-3b4630bc` | Meningitis cases rise amid Vesak season; health authorities urge vigilance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-3b4630bc)
 - 2026-05-25 | `dailymirrorlk-7e0b17f3` | First pediatric kidney transplant outside children’s hospital performed in Polonnaruwa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-7e0b17f3)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-05-25 | `dailymirrorlk-d3866e4c` | Ebola triggers heightened vigilance in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-d3866e4c)
 - 2026-05-25 | `dailymirrorlk-35f70e28` | Work from home soon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-35f70e28)
 - 2026-05-25 | `dailymirrorlk-bac44d9d` | Oil prices slide on hopes of US-Iran peace deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-bac44d9d)
-- 2026-05-25 | `dailymirrorlk-37b5c0fb` | Suspect in Vidya murder case dies by suicide in Jaffna Prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-37b5c0fb)
-- 2026-05-25 | `dailymirrorlk-8fc45a2f` | Ten injured during severe turbulence on Cathay Pacific flight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-8fc45a2f)
-- 2026-05-25 | `dailymirrorlk-bbde02b3` | Tourists from 40 countries can now obtain free Sri Lanka ETA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-bbde02b3)
-- 2026-05-25 | `dailymirrorlk-9377154f` | Trump tells US negotiators ’not to rush’ into deal with Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-9377154f)
-- 2026-05-25 | `adalk-78dd6421` | මෝටර් රථ උපරිම ණය අනුපාතය ප්‍රතිශතාංක 10කින් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-adalk-78dd6421)
-- 2026-05-25 | `adalk-6878b987` | තෙල් මිල පහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-adalk-6878b987)
-- 2026-05-25 | `virakesarilk-d465a0cc` | ரில்வின் சில்வாவின் கருத்துகள் தேர்தல் ஆணைக்குழுவை அவமதிக்கிறது – சாணக்கியன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-d465a0cc)
-- 2026-05-25 | `virakesarilk-0d293474` | ஜனநாயகத்துக்காக அனைவரும் ஒன்றுபட வேண்டும் – தயாசிறி ஜயசேகர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-0d293474)
 
 ---
 
