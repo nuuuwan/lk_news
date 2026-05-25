@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-25 13:23:05",
-  "n_docs": 114586,
+  "time_updated": "2026-05-25 15:07:16",
+  "n_docs": 114598,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 114586,
+  "n_docs_with_text": 114598,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-25",
-  "dataset_size": 1782227409,
+  "dataset_size": 1782302381,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-25-dailymirrorlk-17d8f957",
-    "num": "dailymirrorlk-17d8f957",
+    "doc_id": "2026-05-25-dailymirrorlk-7d3ea52a",
+    "num": "dailymirrorlk-7d3ea52a",
     "date_str": "2026-05-25",
-    "description": "Attack on Galle Face protesters: AG to frame changes against Deshabandu",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Attack-on-Galle-Face-protesters-AG-to-frame-changes-against-Deshabandu/108-341166",
+    "description": "Lanterns prepared for Vesak",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Lanterns-prepared-for-Vesak/110-341177",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779695012.0
+    "time_ut": 1779700625.0
   }
 }
