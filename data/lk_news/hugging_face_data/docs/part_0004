@@ -203441,5 +203441,104 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1779821771.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-c94dc88c",
+    "num": "dailymirrorlk-c94dc88c",
+    "date_str": "2026-05-27",
+    "description": "Sri Lankan banks move to calm stability fears after fraud incidents",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lankan-banks-move-to-calm-stability-fears-after-fraud-incidents/273-341321",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779822698.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-b44325d6",
+    "num": "dailymirrorlk-b44325d6",
+    "date_str": "2026-05-27",
+    "description": "People\u2019s Bank achieves Rs. 16.6bn PBT in 1Q26",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Peoples-Bank-achieves-Rs-16-6bn-PBT-in-1Q26/273-341322",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779823014.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-feaf8386",
+    "num": "dailymirrorlk-feaf8386",
+    "date_str": "2026-05-27",
+    "description": "Ceylon Cold Stores absorbs inflationary shocks and climate disruptions to protect market share",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ceylon-Cold-Stores-absorbs-inflationary-shocks-and-climate-disruptions-to-protect-market-share/273-341323",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779823107.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-c2e74679",
+    "num": "dailymirrorlk-c2e74679",
+    "date_str": "2026-05-27",
+    "description": "JKH big-ticket investments drive strongest quarterly operational performance",
+    "url_metadata": "https://www.dailymirror.lk/business-news/JKH-big-ticket-investments-drive-strongest-quarterly-operational-performance/273-341324",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779823571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-19c9a492",
+    "num": "dailymirrorlk-19c9a492",
+    "date_str": "2026-05-27",
+    "description": "CBSL shifts into macro-stability defence mode with sharp rate hike",
+    "url_metadata": "https://www.dailymirror.lk/business-main/CBSL-shifts-into-macro-stability-defence-mode-with-sharp-rate-hike/245-341325",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779823731.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-a52c8674",
+    "num": "dailymirrorlk-a52c8674",
+    "date_str": "2026-05-27",
+    "description": "Foreigners Arrested for Cyber Crimes",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Foreigners-Arrested-for-Cyber-Crimes/172-341326",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779825009.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-10b58227",
+    "num": "dailymirrorlk-10b58227",
+    "date_str": "2026-05-27",
+    "description": "Let children grow offline",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Let-children-grow-offline/172-341328",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779825463.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-e804ec82",
+    "num": "dailymirrorlk-e804ec82",
+    "date_str": "2026-05-27",
+    "description": "Buddhism disgraced: These disturbing allegations are a symptom of a larger  decay",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Buddhism-disgraced-These-disturbing-allegations-are-a-symptom-of-a-larger-decay/172-341329",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779825786.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-c54516d2",
+    "num": "dailymirrorlk-c54516d2",
+    "date_str": "2026-05-27",
+    "description": "The Cost of Mobility:  Sri Lanka\u2019s Vehicle Import  Dilemma,  Fiscal Realities, and Compromises",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-Cost-of-Mobility-Sri-Lankas-Vehicle-Import-Dilemma-Fiscal-Realities-and-Compromises/172-341333",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779828231.0
   }
 ]

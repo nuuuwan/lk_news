@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-27 00:37:05",
-  "n_docs": 114853,
+  "time_updated": "2026-05-27 02:27:22",
+  "n_docs": 114862,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 114853,
+  "n_docs_with_text": 114862,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-27",
-  "dataset_size": 1786088990,
+  "dataset_size": 1786228324,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-27-dailymirrorlk-2831aeed",
-    "num": "dailymirrorlk-2831aeed",
+    "doc_id": "2026-05-27-dailymirrorlk-c54516d2",
+    "num": "dailymirrorlk-c54516d2",
     "date_str": "2026-05-27",
-    "description": "Indices close in red",
-    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-in-red/273-341320",
+    "description": "The Cost of Mobility:  Sri Lanka\u2019s Vehicle Import  Dilemma,  Fiscal Realities, and Compromises",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-Cost-of-Mobility-Sri-Lankas-Vehicle-Import-Dilemma-Fiscal-Realities-and-Compromises/172-341333",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779821771.0
+    "time_ut": 1779828231.0
   }
 }

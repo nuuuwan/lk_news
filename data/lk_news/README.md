@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--27_00:38:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--27_02:28:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**114,853** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**114,862** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-27-dailymirrorlk-2831aeed",
-    "num": "dailymirrorlk-2831aeed",
+    "doc_id": "2026-05-27-dailymirrorlk-c54516d2",
+    "num": "dailymirrorlk-c54516d2",
     "date_str": "2026-05-27",
-    "description": "Indices close in red",
-    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-in-red/273-341320",
+    "description": "The Cost of Mobility:  Sri Lanka\u2019s Vehicle Import  Dilemma,  Fiscal Realities, and Compromises",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-Cost-of-Mobility-Sri-Lankas-Vehicle-Import-Dilemma-Fiscal-Realities-and-Compromises/172-341333",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779821771.0
+    "time_ut": 1779828231.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-27 | `dailymirrorlk-c54516d2` | The Cost of Mobility:  Sri Lanka’s Vehicle Import  Dilemma,  Fiscal Realities, and Compromises | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-c54516d2)
+- 2026-05-27 | `dailymirrorlk-e804ec82` | Buddhism disgraced: These disturbing allegations are a symptom of a larger  decay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-e804ec82)
+- 2026-05-27 | `dailymirrorlk-10b58227` | Let children grow offline | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-10b58227)
+- 2026-05-27 | `dailymirrorlk-a52c8674` | Foreigners Arrested for Cyber Crimes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-a52c8674)
+- 2026-05-27 | `dailymirrorlk-19c9a492` | CBSL shifts into macro-stability defence mode with sharp rate hike | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-19c9a492)
+- 2026-05-27 | `dailymirrorlk-c2e74679` | JKH big-ticket investments drive strongest quarterly operational performance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-c2e74679)
+- 2026-05-27 | `dailymirrorlk-feaf8386` | Ceylon Cold Stores absorbs inflationary shocks and climate disruptions to protect market share | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-feaf8386)
+- 2026-05-27 | `dailymirrorlk-b44325d6` | People’s Bank achieves Rs. 16.6bn PBT in 1Q26 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-b44325d6)
+- 2026-05-27 | `dailymirrorlk-c94dc88c` | Sri Lankan banks move to calm stability fears after fraud incidents | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-c94dc88c)
 - 2026-05-27 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-2831aeed)
 - 2026-05-27 | `dailymirrorlk-b1d14a37` | 100bps policy rate hike lifts yields across the curve | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-b1d14a37)
 - 2026-05-27 | `dailymirrorlk-2cbb5732` | Sampath Bank launches PayPal integration to expand global payment access for Sri Lankans | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-2cbb5732)
@@ -52,15 +61,6 @@ A collection of lk_news documents.
 - 2026-05-27 | `dailymirrorlk-48385fa3` | BWIO holds International Awards Ceremony at Mount Lavinia Hotel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-48385fa3)
 - 2026-05-26 | `dailymirrorlk-cb6e7b69` | Laugfs Power expands renewable energy portfolio with new mini hydro power project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-dailymirrorlk-cb6e7b69)
 - 2026-05-26 | `dailymirrorlk-f3e29ed3` | DB Automation wins ‘Zebra Technologies Partner of the Year’ Award | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-dailymirrorlk-f3e29ed3)
-- 2026-05-26 | `dailymirrorlk-c6b6e5c7` | Large number of models, designers audition for Sri Lanka’s first Women’s Fashion Week | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-dailymirrorlk-c6b6e5c7)
-- 2026-05-26 | `dailymirrorlk-fd7d6d8b` | Dr. Rohitha Silva appointed new FCCISL President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-dailymirrorlk-fd7d6d8b)
-- 2026-05-26 | `dailymirrorlk-026bedaa` | Police warn traffic officers over failure to facilitate GovPay fine payments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-dailymirrorlk-026bedaa)
-- 2026-05-26 | `virakesarilk-32ce6817` | காத்தான்குடி வர்த்தக நிலையத்தில் தீ விபத்து – கட்டிடம் முழுமையாக சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-virakesarilk-32ce6817)
-- 2026-05-26 | `dailymirrorlk-42b1137d` | U-19 cricketers seek settlement over alleged bathroom video | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-dailymirrorlk-42b1137d)
-- 2026-05-26 | `virakesarilk-a1e9cfe6` | மே 31 அரசாங்க விடுமுறையாக அறிவிப்பு - பொதுநிர்வாக அமைச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-virakesarilk-a1e9cfe6)
-- 2026-05-26 | `dailymirrorlk-74880627` | Sri Lanka Cricket trapped by parental invasion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-dailymirrorlk-74880627)
-- 2026-05-26 | `virakesarilk-b680b7e9` | பெல்ஜியத்தில் பள்ளிப் பேருந்து இரயிலுடன் மோதி விபத்து ; இரண்டு பள்ளி மாணவர்கள் உட்பட நான்கு பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-virakesarilk-b680b7e9)
-- 2026-05-26 | `dailymirrorlk-c0971ba0` | Internet starts coming back in Iran after months-long blackout | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-dailymirrorlk-c0971ba0)
 
 ---
 
