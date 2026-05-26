@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-26 13:00:43",
-  "n_docs": 114776,
+  "time_updated": "2026-05-26 14:58:05",
+  "n_docs": 114787,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 114776,
+  "n_docs_with_text": 114787,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-26",
-  "dataset_size": 1784839224,
+  "dataset_size": 1785106782,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-26-dailymirrorlk-7ac8f690",
-    "num": "dailymirrorlk-7ac8f690",
+    "doc_id": "2026-05-26-dailymirrorlk-43c4052c",
+    "num": "dailymirrorlk-43c4052c",
     "date_str": "2026-05-26",
-    "description": "Prime Minister Harini to visit Pakistan next month",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prime-Minister-Harini-to-visit-Pakistan-next-month/108-341280",
+    "description": "New Director General appointed to Management Services Department",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-Director-General-appointed-to-Management-Services-Department/108-341289",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779779630.0
+    "time_ut": 1779785931.0
   }
 }

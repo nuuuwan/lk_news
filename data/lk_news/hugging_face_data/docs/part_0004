@@ -202377,6 +202377,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-26-adalk-4620fb9d",
+    "num": "adalk-4620fb9d",
+    "date_str": "2026-05-26",
+    "description": "\u0dbb\u0da7\u0dc0\u0dbd\u0dca 40\u0d9a \u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0daf\u0dd2\u0db1 30\u0d9a\u0da7 \u0dc0\u0dd3\u0dc3\u0dcf \u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0da7\u0dc0\u0dbd\u0dca-40\u0d9a-\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0daf\u0dd2\u0db1-30\u0d9a\u0da7-\u0dc0\u0dd3\u0dc3\u0dcf-\u0db1\u0dd2\u0daf\u0dc4\u0dc3\u0dca/11-422611",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1779775029.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-26-virakesarilk-a60e39c7",
     "num": "virakesarilk-a60e39c7",
     "date_str": "2026-05-26",
@@ -202429,6 +202440,17 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1779776086.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-26-adalk-c4685244",
+    "num": "adalk-c4685244",
+    "date_str": "2026-05-26",
+    "description": "\u0dbb\u0dab\u0dca \u0dab\u0dba \u0dc4\u0dcf \u0d8b\u0d9c\u0dc3\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dc4 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0 \u0dc3\u0dd3\u0db8\u0dcf \u0db4\u0db1\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dab\u0dca-\u0dab\u0dba-\u0dc4\u0dcf-\u0d8b\u0d9c\u0dc3\u0dca-\u0dc3\u0db3\u0dc4\u0dcf-\u0db8\u0dc4-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0-\u0dc3\u0dd3\u0db8\u0dcf-\u0db4\u0db1\u0dc0\u0dba\u0dd2/11-422612",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1779776099.0
   },
   {
     "doc_type": "lk_news",
@@ -202594,5 +202616,104 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1779779630.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-26-adalk-f74e7133",
+    "num": "adalk-f74e7133",
+    "date_str": "2026-05-26",
+    "description": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dda \u0d85\u0daf \u0dad\u0dad\u0dca\u0dc0\u0dba",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dda-\u0d85\u0daf-\u0dad\u0dad\u0dca\u0dc0\u0dba/11-422613",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1779780656.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-26-dailymirrorlk-a6fd18ac",
+    "num": "dailymirrorlk-a6fd18ac",
+    "date_str": "2026-05-26",
+    "description": "NHDA conducts first-ever cut-off test for employees to enable promotions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/NHDA-conducts-first-ever-cut-off-test-for-employees-to-enable-promotions/108-341282",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779782829.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-26-dailymirrorlk-af7e0d91",
+    "num": "dailymirrorlk-af7e0d91",
+    "date_str": "2026-05-26",
+    "description": "Dozens of drones crash into Sydney harbour after light show glitch",
+    "url_metadata": "https://www.dailymirror.lk/international/Dozens-of-drones-crash-into-Sydney-harbour-after-light-show-glitch/107-341283",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779783022.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-26-dailymirrorlk-bd9e60f9",
+    "num": "dailymirrorlk-bd9e60f9",
+    "date_str": "2026-05-26",
+    "description": "No fuel shortage, sufficient stocks until July: CPC",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-fuel-shortage-sufficient-stocks-until-July-CPC/108-341284",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779783173.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-26-dailymirrorlk-0c79d777",
+    "num": "dailymirrorlk-0c79d777",
+    "date_str": "2026-05-26",
+    "description": "Sri Lanka receives first commercial-scale Battery Energy Storage System through Colombo Port",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-receives-first-commercial-scale-Battery-Energy-Storage-System-through-Colombo-Port/108-341285",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779784462.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-26-dailymirrorlk-a4cf8803",
+    "num": "dailymirrorlk-a4cf8803",
+    "date_str": "2026-05-26",
+    "description": "Youth unite for anti-drug drive",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Youth-unite-for-anti-drug-drive/110-341286",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779784972.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-26-dailymirrorlk-c1e2025f",
+    "num": "dailymirrorlk-c1e2025f",
+    "date_str": "2026-05-26",
+    "description": "SJB considering street protests : Marikkar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-considering-street-protests-Marikkar/108-341287",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779785304.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-26-dailymirrorlk-d0e8b8ec",
+    "num": "dailymirrorlk-d0e8b8ec",
+    "date_str": "2026-05-26",
+    "description": "Cabinet approves PMB paddy sale for Yala purchases",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-PMB-paddy-sale-for-Yala-purchases/108-341288",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779785498.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-26-dailymirrorlk-43c4052c",
+    "num": "dailymirrorlk-43c4052c",
+    "date_str": "2026-05-26",
+    "description": "New Director General appointed to Management Services Department",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-Director-General-appointed-to-Management-Services-Department/108-341289",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779785931.0
   }
 ]
