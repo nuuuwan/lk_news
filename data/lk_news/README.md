@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--26_04:07:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--26_06:35:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**114,664** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**114,683** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-25-virakesarilk-97409d7b",
-    "num": "virakesarilk-97409d7b",
-    "date_str": "2026-05-25",
-    "description": "IMF 5 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd 6 \u0b86\u0bae\u0bcd \u0b95\u0b9f\u0bcd\u0b9f \u0bae\u0bc0\u0bb3\u0bbe\u0baf\u0bcd\u0bb5\u0bc1 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bcd \u0b9a\u0baa\u0bc8 \u0b95\u0bc2\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/247733",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1779730740.0
+    "doc_id": "2026-05-26-dailyftlk-37da1d88",
+    "num": "dailyftlk-37da1d88",
+    "date_str": "2026-05-26",
+    "description": "The rupee at 331: Relief rally or the calm before the next move?",
+    "url_metadata": "https://www.ft.lk/columns/The-rupee-at-331-Relief-rally-or-the-calm-before-the-next-move/4-792463",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779757162.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-26 | `dailyftlk-37da1d88` | The rupee at 331: Relief rally or the calm before the next move? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-dailyftlk-37da1d88)
+- 2026-05-26 | `dailyftlk-8466f51b` | Sri Lanka’s digital decade: The role Port City Colombo must play | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-dailyftlk-8466f51b)
+- 2026-05-26 | `dailyftlk-1ca2a73d` | How Middle East instability will shape Government finances post-2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-dailyftlk-1ca2a73d)
+- 2026-05-26 | `dailyftlk-9e89e2fd` | VAT Invoice Reform 2026: A necessary step forward but are SMEs ready? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-dailyftlk-9e89e2fd)
+- 2026-05-26 | `dailyftlk-b379a79e` | Beyond banks: The case for smarter consolidation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-dailyftlk-b379a79e)
+- 2026-05-26 | `colombotelegraphcom-92bac48f` | A Blueprint For Rupee Stability: Why Domestic Discipline Isn’t Enough To Save The Rupee | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-26-colombotelegraphcom-92bac48f)
+- 2026-05-25 | `islandlk-2dab72a1` | HNB General Insurance appoints Dilshan Perera Chief Operating Officer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-islandlk-2dab72a1)
+- 2026-05-25 | `islandlk-52cc0f4b` | Sri Lanka’s Digital Decade: ‘The role Port City Colombo must play’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-islandlk-52cc0f4b)
+- 2026-05-25 | `islandlk-43c23113` | Slight pick-up in the rupee’s fortunes sends happy ripples to bourse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-islandlk-43c23113)
+- 2026-05-25 | `islandlk-102fa9f5` | Sri Lanka unveils South Asia’s first Solar Bakery Oven | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-islandlk-102fa9f5)
 - 2026-05-25 | `virakesarilk-97409d7b` | IMF 5 மற்றும் 6 ஆம் கட்ட மீளாய்வு குறித்து இயக்குநர் சபை கூடுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-97409d7b)
 - 2026-05-25 | `virakesarilk-5ce96e6f` | நாட்டுக்கு பொருத்தமான தேர்தல் முறைமையை ஒருவருட காலத்துக்குள் அறிமுகப்படுத்துவோம் - சந்தன அபேரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-5ce96e6f)
+- 2026-05-25 | `islandlk-26457d8e` | Songs of the ’70s … with Annesley | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-islandlk-26457d8e)
+- 2026-05-25 | `islandlk-8482e5c4` | Deep Seek Matters: Education and its divides | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-islandlk-8482e5c4)
 - 2026-05-25 | `virakesarilk-309d8305` | இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவுடன் நாமல் ராஜபக்ஷ கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-309d8305)
 - 2026-05-25 | `dailymirrorlk-8611a42e` | WHO chief says fast-moving Ebola epidemic is outpacing response efforts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-8611a42e)
 - 2026-05-25 | `dailymirrorlk-9f06f4c1` | Pope, urging AI regulation, warns some weapons now beyond human control | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-9f06f4c1)
 - 2026-05-25 | `dailymirrorlk-fc019894` | Minister orders fast recruitment at NCPA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-fc019894)
 - 2026-05-25 | `virakesarilk-c19406a8` | ஹஜ் மற்றும் வெசாக்பண்டிகையை முன்னிட்டு கைதிகளை சந்திக்க விசேட அனுமதி - எ.சி கஜநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-c19406a8)
 - 2026-05-25 | `dailymirrorlk-69afee34` | Water levels stable in major rivers: Irrigation Department | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-69afee34)
-- 2026-05-25 | `virakesarilk-b7fecf00` | எரிபொருள் விலை உயர்வு நாட்டை மேலும் நெருக்கடிக்குள் தள்ளும் – சஜித் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-b7fecf00)
-- 2026-05-25 | `dailymirrorlk-53b349ef` | EasyJet flight diverts to Rome over power bank in luggage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-53b349ef)
-- 2026-05-25 | `dailymirrorlk-69bbd670` | Railway station phone lines restored after Rs.2.9 mn payment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-69bbd670)
-- 2026-05-25 | `dailymirrorlk-91c3f203` | Sri Lanka squads announced for West Indies tour; Kusal Mendis named captain for limited overs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-91c3f203)
-- 2026-05-25 | `virakesarilk-d3f41d66` | மன்னாரில் கடற்படையினர் வசமுள்ள காணிகள் ;  அருண ஜயசேகர தலைமையிலான குழு  கள விஜயம், விசேட கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-d3f41d66)
-- 2026-05-25 | `virakesarilk-4658c0fd` | மத்திய ஆசிய மகளிர் கரப்பந்தாட்டத்தில் இலங்கைக்கு கடைசிப் போட்டியில் ஆறுதல் வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-4658c0fd)
-- 2026-05-25 | `dailymirrorlk-87d4ecaa` | No ban on Dansalas, Vesak decorations in Northern Province: Governor refutes social media posts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-87d4ecaa)
-- 2026-05-25 | `virakesarilk-dd5a01fd` | நாட்டில் மீண்டும் இனவாதத்தையும், மதப் பிரிவினையும் தூண்டுவதற்கு இடமளிக்கப் போவதில்லை – ஆனந்த விஜேயபால | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-dd5a01fd)
-- 2026-05-25 | `virakesarilk-ef6b3dfe` | முள்ளிக்குளம் பகுதியில் 753 ஏக்கர் காணிகள் நிபந்தனைகளுடன் விடுவிக்கப்படும் - அருண ஜயசேகர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-ef6b3dfe)
-- 2026-05-25 | `virakesarilk-6de03345` | மாகாணசபை தேர்தலை அரசு நடத்தாது என்பது உறுதி – அகிலவிராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-6de03345)
-- 2026-05-25 | `virakesarilk-8ed2fa25` | மூளைக்காய்ச்சல் சந்தேகத்தில் 63 பேர் அடையாளம் ; 32 பேருக்கு தொற்று உறுதி – சுகாதார அமைச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-virakesarilk-8ed2fa25)
-- 2026-05-25 | `dailymirrorlk-8405823d` | Vesak Maha Perahera... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-25-dailymirrorlk-8405823d)
 
 ---
 

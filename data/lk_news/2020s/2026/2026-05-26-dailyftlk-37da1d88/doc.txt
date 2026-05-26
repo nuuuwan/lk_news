@@ -1,0 +1,63 @@
+The rupee at 331: Relief rally or the calm before the next move?
+
+The rupee has pulled back. The narrative in the market is stabilisation. But if you look at what the Central Bank’s own weekly data is telling you right now — the structural problem has not just persisted. It has grown.
+
+The rupee is at 331 to the dollar. After the panic of hitting 342 at the peak of the Middle East oil shock, markets are reading this as a recovery. The CBSL held OPR steady. Inflation is printing at 5.4% — right on target. Reserves are at $ 7.3 billion. The IMF program is on track. On the surface, it looks like the story has a good second chapter.
+
+I want to break that narrative down — not with opinion, but with the CBSL’s own data, including the weekly liquidity figures published through April 2026. Because what those numbers show is that the root cause of this exchange rate pressure has not been fixed. It has actually worsened since the year began. The 331 level is holding because of a combination of oil price retracement, remittance seasonality, and CBSL intervention. None of those are structural. All of them are reversible.
+
+Start with the baseline everyone knows. The CBSL’s Market Operations Report — December 2025 (published 30 January 2026) closed the year with excess liquidity in the domestic money market at Rs. 175.2 billion. The entire 2025 surplus was driven, in the CBSL’s own words, by net foreign exchange purchases and swap transactions that injected approximately Rs. 788.9 billion of rupee liquidity into the banking system on a net basis during the year.
+
+Now look at what happened next. The CBSL’s Weekly Economic Indicators for 20 February 2026 — published directly by the Central Bank — show total outstanding market liquidity had surged to Rs. 280.75 billion. That is Rs. 105 billion higher than the year-end 2025 position, in less than eight weeks.
+
+By late April 2026, the same weekly series shows the surplus swinging between Rs. 106 billion and Rs. 199 billion week-on-week — a Rs. 93 billion range in seven days. That volatility is not evidence of tightening. It is evidence the system has no structural anchor. Banks are parking and withdrawing at the standing facility in lumpy, asymmetric patterns — the foreign bank concentration documented in the MOR is still running. The AWCMR at 7.72% on 24 April, pinned against the 7.75% OPR ceiling, confirms the market is saturated with rupees it cannot deploy productively.
+
+This is the number that matters. The rupee did not weaken to 342 because Sri Lanka’s trade account collapsed — the current account was actually in surplus. It weakened because the banking system has been flooded with rupees that the market did not want at the prevailing rate, and the oil shock gave those rupees somewhere to go: straight into import demand for fuel.
+
+The CBSL’s MOR December 2025 contains three charts that, read together, tell the full structural story. They are reproduced below in their original form.
+
+CBSL Figure 01  Behaviour of Central Bank Liquidity — 2025. Excess liquidity never approached zero throughout the year. H1 average Rs. 154.6bn; H2 average Rs. 119.2bn; year-end Rs. 175.2bn. By February 2026 this had blown out to Rs. 280.75bn.
+
+CBSL Figure 02  Factors Contributing to the Change in Central Bank Liquidity — 2025. Net FX Purchases (Rs. 530.3bn) and Net FX Swaps (Rs. 258.6bn) dominate all injecting factors. Combined: Rs. 788.9bn. The reserve strategy and the exchange rate weakness are the same problem in different units.
+
+CBSL Figure 03  Estimated Liquidity Distribution of Participatory Institutions — 2025. Foreign LCBs hold a disproportionate share throughout the year. Domestic private banks and Primary Dealers hugged zero or deficit — confirming asymmetric transmission and a broken interbank clearing mechanism.
+
+“The CBSL bought $ 2 billon to build reserves. The cost was Rs. 788.9 billion of rupee injection. By February 2026 that bill had grown to a Rs. 281 billion surplus. The market is still holding that tab.”
+
+And the exchange rate chart confirms the direction was set before the oil shock
+
+CBSL Figure 08  Movements of Weighted Average Spot Exchange Rate — Interbank Market 2025. Unbroken depreciation from Rs. 293 (Jan-25) to Rs. 310 (Dec-25): 5.6% over 12 months. No stabilisation period. The structural direction was set before the Middle East conflict arrived. From this base the rupee moved to 342 by May 2026 — a further 10% in four months.
+
+Here is the honest market read: 331 is being held by three temporary factors. Oil prices have partially retraced from the shock highs. Remittance inflows typically strengthen in Q2 ahead of seasonal patterns. And the CBSL has been selectively supplying dollars to curtail volatility — a practice confirmed throughout 2025 and still running. None of those are structural. All of them are reversible. The AWCMR sitting at 7.72% against an OPR ceiling of 7.75% tells you the market has priced in no tightening — because the liquidity conditions have not changed and the CBSL has given no signal they will.
+
+An unofficial exchange rate cap — informal guidance to banks on conversion spreads, quiet pressure on the interbank market — would be the most dangerous response available. This is exactly what destroyed the external sector between 2020 and 2022 and produced the parallel market that preceded the 372 collapse. Every dollar that routes through the hawala network because the official rate is administered is a dollar that does not show up in reserves. Beyond the mechanism, the Finance Ministry’s published program data confirms Sri Lanka has reached terms with over 99% of external creditors. The flexible exchange rate is a structural benchmark under the EFF — not a preference. Any administered rate signal risks a program review at precisely the wrong moment in the oil cycle.
+
+The instinct in a currency crisis is to reach for a single instrument. That is the wrong frame. This problem has an immediate monetary dimension, a medium-term reserve architecture problem, and a long-term structural competitiveness gap. They need different tools on different timelines — and confusing the three is what produces policy that looks decisive but achieves nothing durable.
+
+nImmediately — sterilisation discipline and rate signal clarity:  Every dollar the CBSL purchases to build reserves must be matched by an absorbing OMO — reverse repos or T-bill sales that pull the equivalent rupee injection back out. This requires no legislation, no IMF negotiation, no political consensus. It is a monetary operations decision under the existing CBSL Act No. 16 of 2023. The Rs. 788.9 billion injected in 2025 without systematic sterilisation was the primary domestic driver of what you are watching. Continuing that pattern into 2026 — with the surplus already at Rs. 280.75 billion in February — compounds the error. Alongside this, the OPR hold needs to be communicated as a genuine hawkish signal, not a passive default. CCPI at 5.4% means the easing case is closed. The market needs to hear that explicitly from the Monetary Policy Board, not read it between the lines of a press release.
+
+nOver the next one to three years — rebuild the reserve model: The current reserve accumulation strategy — buy dollars in the spot market, inject rupees, hope the offsetting factors are sufficient — is structurally flawed for the reason this entire article has documented. The medium-term alternative is building reserves through genuine net export surpluses and hard-currency FDI inflows, not through unsterilised market purchases that simultaneously flood the money market. The Finance Ministry’s Public Investment Program 2026–2030 correctly identifies export diversification as a strategic pillar. But the program must be measured against hard foreign exchange earnings targets — not output volumes. A tea estate that sells more at commodity bulk prices generates revenue; it does not build reserves. Value-added agriculture, technical textiles meeting EU sustainability compliance, and the ICT/BPM services sector — which is already growing organically — are the only medium-term export stories with genuine FX capture potential.
+
+Secondary market depth in Government securities deserves equal urgency on this horizon. The yield curve at 91-day 8.2% to 10-year 11.1% is partly a managed construct — shaped by CBSL intervention and primary dealer concentration rather than genuine price discovery. A deep, transparent secondary market with meaningful retail and foreign investor participation creates a real-time credibility signal that reduces the need for CBSL intervention in both the bond and FX markets. Foreign investor holdings in Government securities, which peaked above Rs. 130 billion in late 2024, are a barometer of that confidence. Deepening secondary market infrastructure is the unsexy reform that pays compounding returns.
+
+nStructurally — SOE reform and PPP as the reserve-building engine:  This is the longest-horizon lever and simultaneously the most consequential. Sri Lanka’s 55 strategically designated SOEs — as identified in the Ministry of Finance’s programme documentation — include the country’s largest single sources of import demand and its largest potential generators of hard-currency equity inflows. CPC’s fuel bill and CEB’s generation deficit are not just fiscal liabilities. They are balance of payments drains that grow with every oil price cycle. A PPP framework that brings private capital into renewable energy generation directly reduces fuel import dependency, generates USD-denominated revenue, and attracts FDI without requiring ideological compromise on state ownership of transmission infrastructure. The Public Commercial Businesses Act is enacted. The transaction pipeline is not.
+
+The Adani exit from the $ 400 million northern wind project — a strategic investor walking because the Government renegotiated a signed contract — is the most instructive data point in this space. When that happens, every subsequent investor prices in a sovereignty risk premium. That premium does not appear in any single negotiation. It accumulates across every term sheet, every cost of capital, every IRR threshold an investor applies to Sri Lanka versus a regional alternative. One completed PPP deal, transparently tendered, fully delivered, and contractually enforced, does more for sovereign FDI credibility than any number of investment promotion campaigns. The market watches what you do, not what you announce.
+
+The rupee at 331 is not evidence the crisis is over. It is evidence the market has paused to reassess. The liquidity overhang has not gone away — Rs. 280 billion in February, Rs. 199 billion in April, the mechanism unchanged. The external vulnerability the oil shock exposed is still structurally present. And the three-horizon reform agenda — sterilisation discipline now, export-led reserve building in the medium term, SOE/PPP transformation over the structural horizon — has barely begun.
+
+Markets move fast when the thesis shifts. The rupee moved 10% in four months when the Middle East shock hit a structurally overliquified system. The conditions that produced that move are still in place. Watch the weekly liquidity numbers. Watch the AWCMR relative to OPR. Watch the reserve position net of the PBoC swap. Those three data series, read together from the CBSL’s own publications every week, will tell you what 331 is actually worth — long before the broader market catches up.
+
+n CBSL Market Operations Report, December 2025 — ISBN 978-624-6764-17-3 (published 30.01.2026) — Figures 01, 02, 03, 08 reproduced as-is
+
+n CBSL Weekly Economic Indicators, 20 February 2026 — Total outstanding market liquidity Rs. 280.75bn
+
+n CBSL Weekly Economic Indicators, 24 April 2026 — Total outstanding market liquidity Rs. 199.17bn; YTD LKR depreciation 2.3%; AWCMR 7.72%
+
+n Ministry of Finance: Sri Lanka Public Debt Restructuring Programme Status, February 2026
+
+n Ministry of Finance / Dept. of National Planning: Public Investment Programme 2026–2030
+
+n Monetary Policy Framework Agreement — CBSL & Minister of Finance, October 2023
+
+(The author is a Chartered Financial Analyst (CFA) with 25 years of experience in Corporate Finance, Investment Banking, and Restructuring. The views expressed are the writer’s own and do not represent institutional endorsements)
