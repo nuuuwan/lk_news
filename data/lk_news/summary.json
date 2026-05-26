@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-26 11:06:07",
-  "n_docs": 114746,
+  "time_updated": "2026-05-26 13:00:43",
+  "n_docs": 114776,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 114746,
+  "n_docs_with_text": 114776,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-26",
-  "dataset_size": 1784636736,
+  "dataset_size": 1784839224,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "en",
     "si",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-26-dailymirrorlk-3e2fcfa4",
-    "num": "dailymirrorlk-3e2fcfa4",
+    "doc_id": "2026-05-26-dailymirrorlk-7ac8f690",
+    "num": "dailymirrorlk-7ac8f690",
     "date_str": "2026-05-26",
-    "description": "Deputy Minister calls for joint plan to maintain Colombo canals and walkways",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Deputy-Minister-calls-for-joint-plan-to-maintain-Colombo-canals-and-walkways/108-341266",
+    "description": "Prime Minister Harini to visit Pakistan next month",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prime-Minister-Harini-to-visit-Pakistan-next-month/108-341280",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779773227.0
+    "time_ut": 1779779630.0
   }
 }
