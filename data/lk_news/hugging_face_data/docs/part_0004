@@ -205465,5 +205465,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1779889789.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-c61c8b2b",
+    "num": "dailymirrorlk-c61c8b2b",
+    "date_str": "2026-05-27",
+    "description": "Station Masters unaware of maintenance operation, SLRSMU alleges",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Station-Masters-unaware-of-maintenance-operation-SLRSMU-alleges/108-341389",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779898753.0
   }
 ]
