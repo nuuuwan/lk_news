@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--27_19:03:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--27_20:55:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,030** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,037** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-27-virakesarilk-bfde29a9",
-    "num": "virakesarilk-bfde29a9",
+    "doc_id": "2026-05-27-tamilmirrorlk-6bf40f2b",
+    "num": "tamilmirrorlk-6bf40f2b",
     "date_str": "2026-05-27",
-    "description": "\u0b9c\u0baf\u0ba8\u0bcd\u0ba4 \u0b9a\u0bae\u0bb0\u0bb5\u0bc0\u0bb0\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0b9f\u0bbf\u0baf\u0bbe\u0ba3\u0bc8 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/247933",
+    "description": "\u0ba4\u0bbe\u0baf\u0bc8 \u0b95\u0bbe\u0ba3 \u0bb5\u0ba8\u0bcd\u0ba4 \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1/\u0ba4\u0bbe\u0baf\u0bc8-\u0b95\u0bbe\u0ba3-\u0bb5\u0ba8\u0bcd\u0ba4-\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/73-377732",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1779887940.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1779889789.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-27 | `tamilmirrorlk-6bf40f2b` | தாயை காண வந்த குழந்தைகள் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-tamilmirrorlk-6bf40f2b)
+- 2026-05-27 | `dailymirrorlk-b5c47e32` | Parents raise concerns over collections at Thurstan College | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-b5c47e32)
+- 2026-05-27 | `dailymirrorlk-8a4aae85` | CBK calls for urgent reform drive in Buddha Sasana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-8a4aae85)
+- 2026-05-27 | `dailymirrorlk-4d52cbd3` | Islandwide liquor shops to remain closed for Vesak | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-4d52cbd3)
+- 2026-05-27 | `dailymirrorlk-082ff896` | Seela programme for Vesak Week | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-082ff896)
 - 2026-05-27 | `virakesarilk-bfde29a9` | ஜயந்த சமரவீரவுக்கு பிடியாணை உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-bfde29a9)
 - 2026-05-27 | `virakesarilk-12b389e6` | தேரர்களின் ஒழுக்கப் பிரச்சினைகள் தொடர்பில் தீர்மானம் எடுக்க “தர்ம நீதிமன்றம்”! - அரசின் நடவடிக்கை குறித்து ஜனாதிபதி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-12b389e6)
 - 2026-05-27 | `virakesarilk-41eb428b` | கிளிநொச்சியில் 14 வயது சிறுமி துஷ்பிரயோக சம்பவம் : குற்றவாளிக்கு 10 வருட கடூழிய சிறைத்தண்டனை - நீதிமன்றம் தீர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-41eb428b)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-05-27 | `virakesarilk-25d39f94` | தோப்பூர் பிரதேச வைத்தியசாலைக்கு புதிய கட்டிடம் அமைப்பதற்கான அடிக்கல் நாட்டப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-25d39f94)
 - 2026-05-27 | `dailymirrorlk-f9ab23e0` | 42 of 64 MUSSD laboratories not functioning properly: Review meeting told | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-f9ab23e0)
 - 2026-05-27 | `adalk-5f90a0a5` | නැවත ධර්මාධිකරණයක් පිහිටුවීමට පියවර ගන්නවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-adalk-5f90a0a5)
-- 2026-05-27 | `virakesarilk-8970991e` | பொலிஸ் மா அதிபரின் பெயரில் போலி மின்னஞ்சல் மோசடி : பொதுமக்கள் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-8970991e)
-- 2026-05-27 | `dailymirrorlk-7f9e5cd0` | Public warned over AI fake news using PM’s name | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-7f9e5cd0)
-- 2026-05-27 | `tamilmirrorlk-a483a755` | மோடியை சந்தித்தார் விஜய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-tamilmirrorlk-a483a755)
-- 2026-05-27 | `dailymirrorlk-30200d3e` | Opposition MPs call for select committee to look into fluctuation of rupee | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-30200d3e)
-- 2026-05-27 | `tamilmirrorlk-d7aca1ff` | மாட்டை முட்டிய ஆட்டோ: சாரதி காயம் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-tamilmirrorlk-d7aca1ff)
 
 ---
 

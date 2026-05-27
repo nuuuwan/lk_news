@@ -205127,6 +205127,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-27-adalk-199cec91",
+    "num": "adalk-199cec91",
+    "date_str": "2026-05-27",
+    "description": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0d9c\u0dca\u0db6\u0dd2 \u0dc3\u0d82\u0da0\u0dd2\u0dad\u0dba\u0da7 \u0d91\u0d9a\u0dca\u0dc0\u0dd6 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0db8\u0dc3\u0d9a\u0da7 \u0dbb\u0dd4 135000\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/sports/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dbb\u0d9c\u0dca\u0db6\u0dd2-\u0dc3\u0d82\u0da0\u0dd2\u0dad\u0dba\u0da7-\u0d91\u0d9a\u0dca\u0dc0\u0dd6-\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0db8\u0dc3\u0d9a\u0da7-\u0dbb\u0dd4-135000\u0d9a\u0dca/9-422634",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1779879065.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-27-adalk-dc192f7d",
     "num": "adalk-dc192f7d",
     "date_str": "2026-05-27",
@@ -205168,6 +205179,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1779880440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-adalk-078dee96",
+    "num": "adalk-078dee96",
+    "date_str": "2026-05-27",
+    "description": "\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dda\u0daf\u0dd3\u0dad\u0dca \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf-\u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0dba\u0dda\u0daf\u0dd3\u0dad\u0dca-\u0d85\u0d9b\u0dab\u0dca\u0da9\u0dc0/11-422637",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1779880603.0
   },
   {
     "doc_type": "lk_news",
@@ -205388,5 +205410,60 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1779887940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-082ff896",
+    "num": "dailymirrorlk-082ff896",
+    "date_str": "2026-05-27",
+    "description": "Seela programme for Vesak Week",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Seela-programme-for-Vesak-Week/110-341385",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779888376.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-4d52cbd3",
+    "num": "dailymirrorlk-4d52cbd3",
+    "date_str": "2026-05-27",
+    "description": "Islandwide liquor shops to remain closed for Vesak",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Islandwide-liquor-shops-to-remain-closed-for-Vesak/108-341386",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779888553.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-8a4aae85",
+    "num": "dailymirrorlk-8a4aae85",
+    "date_str": "2026-05-27",
+    "description": "CBK calls for urgent reform drive in Buddha Sasana",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CBK-calls-for-urgent-reform-drive-in-Buddha-Sasana/108-341387",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779889015.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-dailymirrorlk-b5c47e32",
+    "num": "dailymirrorlk-b5c47e32",
+    "date_str": "2026-05-27",
+    "description": "Parents raise concerns over collections at Thurstan College",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parents-raise-concerns-over-collections-at-Thurstan-College/108-341388",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1779889457.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-27-tamilmirrorlk-6bf40f2b",
+    "num": "tamilmirrorlk-6bf40f2b",
+    "date_str": "2026-05-27",
+    "description": "\u0ba4\u0bbe\u0baf\u0bc8 \u0b95\u0bbe\u0ba3 \u0bb5\u0ba8\u0bcd\u0ba4 \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1/\u0ba4\u0bbe\u0baf\u0bc8-\u0b95\u0bbe\u0ba3-\u0bb5\u0ba8\u0bcd\u0ba4-\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/73-377732",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1779889789.0
   }
 ]
