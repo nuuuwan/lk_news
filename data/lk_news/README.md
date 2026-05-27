@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--28_02:30:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--28_04:19:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,057** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,058** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-27-virakesarilk-9dc4ed36",
-    "num": "virakesarilk-9dc4ed36",
-    "date_str": "2026-05-27",
-    "description": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1, \u0bae\u0ba4 \u0bae\u0bb1\u0bc1\u0bae\u0bb2\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bbe\u0ba9\u0ba4\u0bbe\u0b95\u0bc1\u0bae\u0bcd - \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf",
-    "url_metadata": "https://www.virakesari.lk/article/247951",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1779905160.0
+    "doc_id": "2026-05-28-dailyftlk-5ca769af",
+    "num": "dailyftlk-5ca769af",
+    "date_str": "2026-05-28",
+    "description": "IMF fetishism, SJB\u2019s strategic political folly, space for Namal-led centre-left",
+    "url_metadata": "https://www.ft.lk/columns/IMF-fetishism-SJB-s-strategic-political-folly-space-for-Namal-led-centre-left/4-792578",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1779921326.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-28 | `dailyftlk-5ca769af` | IMF fetishism, SJB’s strategic political folly, space for Namal-led centre-left | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-5ca769af)
 - 2026-05-27 | `virakesarilk-9dc4ed36` | நாட்டில் பொருளாதார அபிவிருத்தியை ஏற்படுத்தும் போது, மத மறுமலர்ச்சியும் அவசியமானதாகும் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-9dc4ed36)
 - 2026-05-27 | `dailymirrorlk-40a51231` | School Coaches Told: Produce Players,  Not Victories | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-40a51231)
 - 2026-05-27 | `tamilmirrorlk-2322b6fe` | யுனிவேர்சல் பொஸ்ஸின் சாதனையை முறியடித்த பொஸ் பேபி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-tamilmirrorlk-2322b6fe)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-05-27 | `dailymirrorlk-8a4aae85` | CBK calls for urgent reform drive in Buddha Sasana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-8a4aae85)
 - 2026-05-27 | `dailymirrorlk-4d52cbd3` | Islandwide liquor shops to remain closed for Vesak | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-4d52cbd3)
 - 2026-05-27 | `dailymirrorlk-082ff896` | Seela programme for Vesak Week | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-082ff896)
-- 2026-05-27 | `virakesarilk-bfde29a9` | ஜயந்த சமரவீரவுக்கு பிடியாணை உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-bfde29a9)
 
 ---
 
