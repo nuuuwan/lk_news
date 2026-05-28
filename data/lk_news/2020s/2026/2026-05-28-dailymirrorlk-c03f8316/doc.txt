@@ -1,0 +1,19 @@
+CERT warns public of fake traffic fine scam
+
+Colombo, May 28 (Daily Mirror) - The Sri Lanka Computer Emergency Readiness Team (SLCERT) has issued a special public alert warning motorists about an ongoing cyber scam involving fraudulent SMS and WhatsApp messages claiming that traffic violations had been detected through CCTV camera systems installed on roads.
+
+According to SLCERT, the messages are designed to appear as official notifications from the Sri Lanka Police and are aimed at deceiving recipients into revealing personal and financial information.
+
+The agency said scammers are circulating the fake messages using fraudulent phone numbers and malicious web links while impersonating official police communications.
+
+Recipients are reportedly directed to a fake website and instructed to pay fines for alleged traffic offences. The fraudulent website has been designed to closely resemble the Government’s official “GovPay” payment platform, increasing the risk of misleading the public.
+
+SLCERT warned that individuals attempting to make payments through such fake websites could unknowingly expose sensitive personal data, including credit or debit card details, One-Time Passwords (OTP), National Identity Card (NIC) information and other confidential information to cyber criminals.
+
+The public has been strongly advised to avoid clicking suspicious links received via SMS or WhatsApp, verify the authenticity of websites before making payments and refrain from sharing banking details, OTP codes or personal information with unknown parties.
+
+SLCERT also urged the public to immediately report suspicious messages or websites to Sri Lanka CERT or the Sri Lanka Police.
+
+The agency further reminded the public that payments for traffic fines through the “GovPay” system should only be made after an official notification is issued by a Police Officer and a valid traffic fine ticket has been formally provided.
+
+SLCERT urged all internet and digital service users to remain vigilant and exercise extreme caution regarding cyber fraud activities.
