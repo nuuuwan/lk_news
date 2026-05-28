@@ -208215,5 +208215,93 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1779999578.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailyftlk-f70e0b7a",
+    "num": "dailyftlk-f70e0b7a",
+    "date_str": "2026-05-29",
+    "description": "Buddhism is for consenting adults",
+    "url_metadata": "https://www.ft.lk/columns/Buddhism-is-for-consenting-adults/4-792631",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780005878.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-virakesarilk-4783ce4a",
+    "num": "virakesarilk-4783ce4a",
+    "date_str": "2026-05-29",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 - \u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bcd \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bbf\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/248077",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1780006560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailyftlk-50a75390",
+    "num": "dailyftlk-50a75390",
+    "date_str": "2026-05-29",
+    "description": "Our Vesak gift or how  to rebuild a civilised nation",
+    "url_metadata": "https://www.ft.lk/columns/Our-Vesak-gift-or-how-to-rebuild-a-civilised-nation/4-792632",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780006605.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailyftlk-8d339f08",
+    "num": "dailyftlk-8d339f08",
+    "date_str": "2026-05-29",
+    "description": "The need for transparency and consistency at CIABOC",
+    "url_metadata": "https://www.ft.lk/opinion/The-need-for-transparency-and-consistency-at-CIABOC/14-792633",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780007071.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-virakesarilk-1117ee8c",
+    "num": "virakesarilk-1117ee8c",
+    "date_str": "2026-05-29",
+    "description": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 - \u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0b9a\u0bae\u0bc0\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bcb\u0bb0\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd \u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0b95\u0bc8\u0baf\u0bca\u0baa\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0b95 \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/248078",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1780007280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailyftlk-328aefee",
+    "num": "dailyftlk-328aefee",
+    "date_str": "2026-05-29",
+    "description": "DBS Jeyaraj: The journalist, the human being, and the friend",
+    "url_metadata": "https://www.ft.lk/columns/DBS-Jeyaraj-The-journalist-the-human-being-and-the-friend/4-792634",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780007403.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailyftlk-d3643cdd",
+    "num": "dailyftlk-d3643cdd",
+    "date_str": "2026-05-29",
+    "description": "Predicting and stabilising Exchange Rate movements",
+    "url_metadata": "https://www.ft.lk/columns/Predicting-and-stabilising-Exchange-Rate-movements/4-792636",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780007803.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailyftlk-4d3e671e",
+    "num": "dailyftlk-4d3e671e",
+    "date_str": "2026-05-29",
+    "description": "Beyond Efficiency: Reimagining public institutions for a complex world",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-Efficiency-Reimagining-public-institutions-for-a-complex-world/4-792638",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780008249.0
   }
 ]
