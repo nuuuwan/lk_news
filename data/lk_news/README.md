@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--28_04:19:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--28_06:34:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,058** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,094** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-28-dailyftlk-5ca769af",
-    "num": "dailyftlk-5ca769af",
+    "doc_id": "2026-05-28-dailyftlk-252a4bd8",
+    "num": "dailyftlk-252a4bd8",
     "date_str": "2026-05-28",
-    "description": "IMF fetishism, SJB\u2019s strategic political folly, space for Namal-led centre-left",
-    "url_metadata": "https://www.ft.lk/columns/IMF-fetishism-SJB-s-strategic-political-folly-space-for-Namal-led-centre-left/4-792578",
+    "description": "Sajith calls for end to period poverty, seeks zero tax on sanitary products",
+    "url_metadata": "https://www.ft.lk/news/Sajith-calls-for-end-to-period-poverty-seeks-zero-tax-on-sanitary-products/56-792612",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1779921326.0
+    "time_ut": 1779928530.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-05-28 | `dailyftlk-5ca769af` | IMF fetishism, SJB’s strategic political folly, space for Namal-led centre-left | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-5ca769af)
-- 2026-05-27 | `virakesarilk-9dc4ed36` | நாட்டில் பொருளாதார அபிவிருத்தியை ஏற்படுத்தும் போது, மத மறுமலர்ச்சியும் அவசியமானதாகும் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-9dc4ed36)
-- 2026-05-27 | `dailymirrorlk-40a51231` | School Coaches Told: Produce Players,  Not Victories | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-40a51231)
-- 2026-05-27 | `tamilmirrorlk-2322b6fe` | யுனிவேர்சல் பொஸ்ஸின் சாதனையை முறியடித்த பொஸ் பேபி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-tamilmirrorlk-2322b6fe)
-- 2026-05-27 | `virakesarilk-e9a890c7` | வரைபடத்திலிருந்து அழியும் அபாயத்தில் உடப்பு கிராமம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-e9a890c7)
-- 2026-05-27 | `dailymirrorlk-193c77e9` | Sri Lanka Sevens Off to France for Howard Hinton Tournament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-193c77e9)
-- 2026-05-27 | `dailymirrorlk-c61c8b2b` | Station Masters unaware of maintenance operation, SLRSMU alleges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-c61c8b2b)
-- 2026-05-27 | `virakesarilk-ec59bb99` | பிரதமரின் தலைமையில் “சதஹம் அபிவந்தனா” வெசாக் பக்தி கீத நிகழ்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-ec59bb99)
-- 2026-05-27 | `virakesarilk-16ff70b2` | நிலைப்படுத்தலில் இருந்து தாமதமின்றி மாற்றத்தை  நோக்கி... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-16ff70b2)
-- 2026-05-27 | `virakesarilk-ef6dd490` | மாகாணசபைத் தேர்தல்: பெண்கள், இளைஞர் பிரதிநிதித்துவம் குறித்து எம்.ஏ. சுமந்திரன் விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-ef6dd490)
-- 2026-05-27 | `virakesarilk-9efade99` | சட்டவிரோத மணல் அகழ்வை தடுக்க சிசிடிவி மற்றும் விசேட அதிரடிப்படையினரின் உதவியை பெற நடவடிக்கை – அமைச்சர் சுனில் ஹந்துன்நெத்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-9efade99)
-- 2026-05-27 | `virakesarilk-cbbc8452` | தொழிலாளர் துஷ்பிரயோகங்கள் சர்வதேச தொழிலாளர் அமைப்பு வரையறுத்துள்ள கட்டாய வேலை வாங்கலுக்கான குறியீடுகளுடன் பொருந்துகிறது - சர்வதேச மன்னிப்புச் சபை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-cbbc8452)
-- 2026-05-27 | `virakesarilk-27402965` | இலங்கை - ஜேர்மன் இடையில் பொருளாதார ஒத்துழைப்பு குறித்துக் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-27402965)
-- 2026-05-27 | `virakesarilk-50179290` | மட்டக்களப்பில் விடுதி ஒன்றில் தீ விபத்து: இரண்டு சிறுவர்கள் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-50179290)
-- 2026-05-27 | `virakesarilk-e9cdb617` | வட மாகாணம் தொடர்ந்து கல்வியில் முன்னிலையில் இருக்கவேண்டும் ; ஆங்கில மொழியையும் கற்றுக்கொள்ள வேண்டும் - சட்டத்தரணி செல்வஸ்கந்தன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-virakesarilk-e9cdb617)
-- 2026-05-27 | `tamilmirrorlk-6bf40f2b` | தாயை காண வந்த குழந்தைகள் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-tamilmirrorlk-6bf40f2b)
-- 2026-05-27 | `dailymirrorlk-b5c47e32` | Parents raise concerns over collections at Thurstan College | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-b5c47e32)
-- 2026-05-27 | `dailymirrorlk-8a4aae85` | CBK calls for urgent reform drive in Buddha Sasana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-8a4aae85)
-- 2026-05-27 | `dailymirrorlk-4d52cbd3` | Islandwide liquor shops to remain closed for Vesak | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-4d52cbd3)
-- 2026-05-27 | `dailymirrorlk-082ff896` | Seela programme for Vesak Week | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-27-dailymirrorlk-082ff896)
+- 2026-05-28 | `dailyftlk-252a4bd8` | Sajith calls for end to period poverty, seeks zero tax on sanitary products | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-252a4bd8)
+- 2026-05-28 | `dailyftlk-46b144f0` | Govt. plans law to end MP crossovers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-46b144f0)
+- 2026-05-28 | `dailyftlk-ee1827d6` | Harini to visit Pakistan in June to deepen agriculture ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-ee1827d6)
+- 2026-05-28 | `dailyftlk-d3520e26` | Court further remands monks over cannabis smuggling case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-d3520e26)
+- 2026-05-28 | `dailyftlk-f044b0c5` | WHO Chief says suspected Ebola deaths at 220 as epidemic ‘outpacing us’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-f044b0c5)
+- 2026-05-28 | `dailyftlk-6d18f0f2` | Rotary Club of Colombo issues call to transform lives | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-6d18f0f2)
+- 2026-05-28 | `dailyftlk-000f1b66` | Envoy to Vatican Dassanayake presents credentials to Pope Leo XIV | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-000f1b66)
+- 2026-05-28 | `dailyftlk-3832fd2e` | RCSS receives Chatham House Senior Research Fellow for discussion on South Asian regionalism | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-3832fd2e)
+- 2026-05-28 | `dailyftlk-a154e462` | ‘From Friendship to Dependency’ launched in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-a154e462)
+- 2026-05-28 | `dailyftlk-afa81161` | “The Path of Freedom” book launch tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-afa81161)
+- 2026-05-28 | `dailyftlk-df7e2d1f` | ’Rata Barayi Numbata Puthe’ book debuts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-df7e2d1f)
+- 2026-05-28 | `dailyftlk-9b7f85b4` | Swadeshi Khomba Baby Soap receives SLS certification | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-9b7f85b4)
+- 2026-05-28 | `dailyftlk-73ebe944` | ‘SmartChat Mega - Kandy’ accelerates SME digital transformation for the Central Province | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-73ebe944)
+- 2026-05-28 | `dailyftlk-65f4730e` | Moshe Safdie’s 240 meter Altair receives PWA’s entrance and lobby upgrade | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-65f4730e)
+- 2026-05-28 | `dailyftlk-e2fc8410` | Lanka Lions Foundation’s micro loan initiative continues to uplift entrepreneurs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-e2fc8410)
+- 2026-05-28 | `dailyftlk-4c662989` | ComBank enables seamless account opening through enhanced self-onboarding platform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-4c662989)
+- 2026-05-28 | `dailyftlk-44c14b20` | Huawei presents new principle for guiding future development of semiconductor industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-44c14b20)
+- 2026-05-28 | `dailyftlk-db3b9c37` | Economic architecture: Titans, tech, and fight for economic recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-db3b9c37)
+- 2026-05-28 | `dailyftlk-ac7f77c4` | Crisis, fuel, and future of work: The role of organisations and HR leaders in building resilience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-ac7f77c4)
+- 2026-05-28 | `dailyftlk-f53f7cc7` | Decoding Trump - Xi Jinping summit: Global and regional impact and consequences on Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-f53f7cc7)
 
 ---
 

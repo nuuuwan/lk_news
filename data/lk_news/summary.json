@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-28 04:18:25",
-  "n_docs": 115058,
+  "time_updated": "2026-05-28 06:33:29",
+  "n_docs": 115094,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 115058,
+  "n_docs_with_text": 115094,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-28",
-  "dataset_size": 1790022286,
+  "dataset_size": 1790259080,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "ta",
-    "si",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-28-dailyftlk-5ca769af",
-    "num": "dailyftlk-5ca769af",
+    "doc_id": "2026-05-28-dailyftlk-252a4bd8",
+    "num": "dailyftlk-252a4bd8",
     "date_str": "2026-05-28",
-    "description": "IMF fetishism, SJB\u2019s strategic political folly, space for Namal-led centre-left",
-    "url_metadata": "https://www.ft.lk/columns/IMF-fetishism-SJB-s-strategic-political-folly-space-for-Namal-led-centre-left/4-792578",
+    "description": "Sajith calls for end to period poverty, seeks zero tax on sanitary products",
+    "url_metadata": "https://www.ft.lk/news/Sajith-calls-for-end-to-period-poverty-seeks-zero-tax-on-sanitary-products/56-792612",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1779921326.0
+    "time_ut": 1779928530.0
   }
 }
