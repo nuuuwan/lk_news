@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--28_08:59:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--28_11:16:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,120** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,166** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-28-dailymirrorlk-34fb2eea",
-    "num": "dailymirrorlk-34fb2eea",
+    "doc_id": "2026-05-28-dailymirrorlk-3d2f48bd",
+    "num": "dailymirrorlk-3d2f48bd",
     "date_str": "2026-05-28",
-    "description": "President calls for unity and compassion in Eid al-Adha message",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-calls-for-unity-and-compassion-in-Eid-al-Adha-message/108-341424",
+    "description": "Iran\u2019s Islamic Revolutionary Guard Corps says it targeted US airbase in Kuwait",
+    "url_metadata": "https://www.dailymirror.lk/international/Irans-Islamic-Revolutionary-Guard-Corps-says-it-targeted-US-airbase-in-Kuwait/107-341452",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1779938232.0
+    "time_ut": 1779946102.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-05-28 | `dailymirrorlk-34fb2eea` | President calls for unity and compassion in Eid al-Adha message | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-34fb2eea)
-- 2026-05-28 | `virakesarilk-1e593e80` | பாப்பரசர் 14ஆம் லியோவிடம் சான்றாதாரப் பத்திரங்களை சமர்ப்பித்தார் இலங்கையின் புதிய தூதுவர் சுமித் தசநாயக்க! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-virakesarilk-1e593e80)
-- 2026-05-28 | `virakesarilk-07f90e4a` | நாட்டின் பிரதான ஆறுகளின் தற்போதைய நீர்மட்டம் குறித்து நீர்ப்பாசன திணைக்களம் வெளியிட்ட  அறிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-virakesarilk-07f90e4a)
-- 2026-05-28 | `dailymirrorlk-90e88b6d` | IMF approves US$695 Million disbursement to Sri Lanka after completing fifth and sixth reviews | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-90e88b6d)
-- 2026-05-28 | `dailymirrorlk-3c147ef3` | Major rivers remain at normal levels: Irrigation Department | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-3c147ef3)
-- 2026-05-28 | `virakesarilk-9bd57f1d` | இன்றைய வானிலை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-virakesarilk-9bd57f1d)
-- 2026-05-28 | `adalk-7b912740` | රථ වාහන වැරදිවලට දඩ මුදල් ගන්නා ව්‍යාජ වෙබ් අඩවියක් ගැන පොලීසිය කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-adalk-7b912740)
-- 2026-05-28 | `dailymirrorlk-88b6a222` | US carries out new strikes on Iran military site | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-88b6a222)
-- 2026-05-28 | `dailymirrorlk-2467a878` | Heavy showers expected today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-2467a878)
-- 2026-05-28 | `dailymirrorlk-05cfc91e` | Oil rebounds after news of US strikes on Iranian military site | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-05cfc91e)
-- 2026-05-28 | `dailymirrorlk-71573660` | Restoring health and sanitation to rural schools | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-71573660)
-- 2026-05-28 | `virakesarilk-0ee752b7` | பன்முகத்தன்மையில் ஒற்றுமையை பிரதிபலிக்கும் ஒரு நாட்டை கட்டியெழுப்ப ஒன்றிணைவோம் - எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-virakesarilk-0ee752b7)
-- 2026-05-28 | `virakesarilk-1f3b3397` | வாசகர்களுக்கு புனித ஹஜ் பெருநாள் வாழ்த்துக்கள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-virakesarilk-1f3b3397)
-- 2026-05-28 | `dailymirrorlk-c6e7f055` | Maryland Vesak celebrations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-c6e7f055)
-- 2026-05-28 | `virakesarilk-1cc14215` | வனாத்தவில்லு பிரதேச சபையின் அதிகாரம் ஐக்கிய மக்கள் சக்தி கைப்பற்றியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-virakesarilk-1cc14215)
-- 2026-05-28 | `virakesarilk-1ca7388b` | போதைப்பொருள் கடத்தல் சந்தேக நபர்களுடன் தொடர்பில்லை – முஜிபுர் ரஹ்மான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-virakesarilk-1ca7388b)
-- 2026-05-28 | `virakesarilk-1a010856` | அட்டன் இரட்டைக் கொலைச் சந்தேகநபர் பதுங்கியிருந்தபோது கைது செய்யப்பட்டார் ; ஜூன் 3 வரை விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-virakesarilk-1a010856)
-- 2026-05-28 | `virakesarilk-4eab7975` | கொழும்பு, டுப்ளிகேஷன் வீதியில் மரம் முறிந்து விழுந்து விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-virakesarilk-4eab7975)
-- 2026-05-28 | `dailyftlk-252a4bd8` | Sajith calls for end to period poverty, seeks zero tax on sanitary products | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-252a4bd8)
-- 2026-05-28 | `dailyftlk-46b144f0` | Govt. plans law to end MP crossovers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailyftlk-46b144f0)
+- 2026-05-28 | `dailymirrorlk-3d2f48bd` | Iran’s Islamic Revolutionary Guard Corps says it targeted US airbase in Kuwait | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-3d2f48bd)
+- 2026-05-28 | `tamilmirrorlk-2cf2b49a` | ஈரானும் அமெரிக்காவும் பதிலடி வான் தாக்குதல்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-tamilmirrorlk-2cf2b49a)
+- 2026-05-28 | `dailymirrorlk-655b773a` | Businessman killed in Kalutara shooting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-655b773a)
+- 2026-05-28 | `dailymirrorlk-9256884e` | Seven Sri Lankan youths deported from UAE arrive at BIA; CID launches probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-9256884e)
+- 2026-05-28 | `tamilmirrorlk-b2ebce8e` | ‘ஏ’ அணியில் தடம் பதித்த பேசாலை வீராங்கனைக்கு மன்னாரில் அமோக வரவேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-tamilmirrorlk-b2ebce8e)
+- 2026-05-28 | `dailymirrorlk-6b72d97d` | 14 foreign nationals arrested at BIA over cigarette smuggling | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-6b72d97d)
+- 2026-05-28 | `dailymirrorlk-91b870fc` | Police warn public over fake traffic fine scam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-91b870fc)
+- 2026-05-28 | `dailymirrorlk-5a07e53e` | Over 5000 unprotected children in Anuradhapura | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-5a07e53e)
+- 2026-05-28 | `dailymirrorlk-53fba79f` | 7-year-old boy wanted to see parents in Colombo found alone at Hatton bus stand | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-53fba79f)
+- 2026-05-28 | `tamilmirrorlk-08c07137` | ’’இறைவனின் இல்லத்தில் ஓரணியில்...’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-tamilmirrorlk-08c07137)
+- 2026-05-28 | `tamilmirrorlk-3e8612af` | வைபவ் சூர்யவன்ஷி வரலாற்று சாதனை (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-tamilmirrorlk-3e8612af)
+- 2026-05-28 | `tamilmirrorlk-a771683a` | வாவியில் வீழ்ந்து 20 வயது இளைஞன் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-tamilmirrorlk-a771683a)
+- 2026-05-28 | `dailymirrorlk-ed8db89a` | ’Aliya Wetunu Wewa’ forest to be declared reserve under Wanaspathi Programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-ed8db89a)
+- 2026-05-28 | `adalk-4a252da1` | ලක්ෂ 230ක චීන දුම්වැටි කටුනායකින් අල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-adalk-4a252da1)
+- 2026-05-28 | `dailymirrorlk-23b6b479` | Lotus Tower lit for Vesak | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-23b6b479)
+- 2026-05-28 | `tamilmirrorlk-a3a431ce` | ரில்வின் சில்வாவுடன் வியட்நாம் தூதுவர் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-tamilmirrorlk-a3a431ce)
+- 2026-05-28 | `dailymirrorlk-4e05b41a` | President to get tough on indisciplined monks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-4e05b41a)
+- 2026-05-28 | `tamilmirrorlk-a4ee1875` | ’ஈரான் மீதான பொருளாதார தடைகள் எதுவும் நீக்கப்படாது’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-tamilmirrorlk-a4ee1875)
+- 2026-05-28 | `dailymirrorlk-c5d22839` | Rehabilitation work commences on Uma Ela irrigation project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-c5d22839)
+- 2026-05-28 | `tamilmirrorlk-39f09cd3` | நிர்மலா சீதாராமனுடன் விஜய் சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-tamilmirrorlk-39f09cd3)
 
 ---
 
