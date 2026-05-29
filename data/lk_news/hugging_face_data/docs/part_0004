@@ -209216,5 +209216,49 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780065424.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-836f26ad",
+    "num": "dailymirrorlk-836f26ad",
+    "date_str": "2026-05-29",
+    "description": "Earnings optimism lifts CSE as ASPI gains over 111 points",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Earnings-optimism-lifts-CSE-as-ASPI-gains-over-111-points/108-341570",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780068289.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-de609cc5",
+    "num": "dailymirrorlk-de609cc5",
+    "date_str": "2026-05-29",
+    "description": "Sri Lanka calls for Indian Ocean to remain zone of peace",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-calls-for-Indian-Ocean-to-remain-zone-of-peace/108-341571",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780068443.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-68280f0e",
+    "num": "dailymirrorlk-68280f0e",
+    "date_str": "2026-05-29",
+    "description": "Strong winds to cause very rough seas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Strong-winds-to-cause-very-rough-seas/108-341572",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780070593.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-927cdb9d",
+    "num": "dailymirrorlk-927cdb9d",
+    "date_str": "2026-05-29",
+    "description": "New network of model cities planned under \u2018Clean Sri Lanka\u2019 initiative",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-network-of-model-cities-planned-under-Clean-Sri-Lanka-initiative/108-341573",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780074610.0
   }
 ]

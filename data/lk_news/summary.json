@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-29 20:52:25",
-  "n_docs": 115378,
+  "time_updated": "2026-05-29 22:55:40",
+  "n_docs": 115382,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 115378,
+  "n_docs_with_text": 115382,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-29",
-  "dataset_size": 1795193298,
+  "dataset_size": 1795221255,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-29-dailymirrorlk-0d022586",
-    "num": "dailymirrorlk-0d022586",
+    "doc_id": "2026-05-29-dailymirrorlk-927cdb9d",
+    "num": "dailymirrorlk-927cdb9d",
     "date_str": "2026-05-29",
-    "description": "Schools alerted as Meningitis spreads across districts",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Schools-alerted-as-Meningitis-spreads-across-districts/108-341569",
+    "description": "New network of model cities planned under \u2018Clean Sri Lanka\u2019 initiative",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-network-of-model-cities-planned-under-Clean-Sri-Lanka-initiative/108-341573",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780065424.0
+    "time_ut": 1780074610.0
   }
 }

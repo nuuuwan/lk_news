@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--29_20:53:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--29_22:56:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,378** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,382** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-29-dailymirrorlk-0d022586",
-    "num": "dailymirrorlk-0d022586",
+    "doc_id": "2026-05-29-dailymirrorlk-927cdb9d",
+    "num": "dailymirrorlk-927cdb9d",
     "date_str": "2026-05-29",
-    "description": "Schools alerted as Meningitis spreads across districts",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Schools-alerted-as-Meningitis-spreads-across-districts/108-341569",
+    "description": "New network of model cities planned under \u2018Clean Sri Lanka\u2019 initiative",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-network-of-model-cities-planned-under-Clean-Sri-Lanka-initiative/108-341573",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780065424.0
+    "time_ut": 1780074610.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-29 | `dailymirrorlk-927cdb9d` | New network of model cities planned under ‘Clean Sri Lanka’ initiative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-927cdb9d)
+- 2026-05-29 | `dailymirrorlk-68280f0e` | Strong winds to cause very rough seas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-68280f0e)
+- 2026-05-29 | `dailymirrorlk-de609cc5` | Sri Lanka calls for Indian Ocean to remain zone of peace | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-de609cc5)
+- 2026-05-29 | `dailymirrorlk-836f26ad` | Earnings optimism lifts CSE as ASPI gains over 111 points | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-836f26ad)
 - 2026-05-29 | `dailymirrorlk-0d022586` | Schools alerted as Meningitis spreads across districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-0d022586)
 - 2026-05-29 | `dailymirrorlk-5191bd0a` | Sri Lanka announce squad for ICC Women’s T20 World Cup 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-5191bd0a)
 - 2026-05-29 | `dailymirrorlk-69a9c84c` | Kenya court halts opening of US Ebola quarantine facility in the country | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-69a9c84c)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-05-29 | `adalk-3ad9eb76` | අලි ඇතුන් සහ දිවියන් ආරක්ෂා කිරීමට දේශගුණය පිළිබඳ පාර්ලිමේන්තු සංසදයේ අවධානය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-adalk-3ad9eb76)
 - 2026-05-29 | `dailymirrorlk-507c418b` | Enjoying ice cream... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-507c418b)
 - 2026-05-29 | `tamilmirrorlk-b89d2358` | பெண்களுக்கான சுகாதாரப் பொருட்களின் விலை உயர்வு: கிராமப்புற பெண்கள் பெரும் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-tamilmirrorlk-b89d2358)
-- 2026-05-29 | `adalk-4295e44c` | ප්‍රවාහන ලේකම් ඉල්ලා අස්වෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-adalk-4295e44c)
-- 2026-05-29 | `dailymirrorlk-ee9ab0f7` | Climate forum launches focus on elephant, leopard protection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-ee9ab0f7)
-- 2026-05-29 | `tamilmirrorlk-6796046f` | நடத்துனரை தலைக்கவசத்தால் சாத்தும் பெண் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-tamilmirrorlk-6796046f)
-- 2026-05-29 | `dailymirrorlk-843ca93d` | Rural women affected by soaring sanitary product prices due to taxes, crisis | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-843ca93d)
 
 ---
 
