@@ -1,0 +1,51 @@
+AI facial recognition to check age of asylum seekers from next year
+
+BBC - An AI facial recognition tool that aims to detect adult migrants posing as children will be deployed at the UK's borders next year.
+
+A software company has been awarded a contract to develop and test the technology, which will estimate a person's age by analysing photographs of them taken at the border.
+
+The Home Office says the technology will make it easier to identify adult migrants "attempting to game the system", after initial testing indicated "promising performance and accuracy".
+
+But Human Rights Watch urged the government to scrap the scheme, describing it as "unproven technology" that will undermine the protections vulnerable children are entitled to.
+
+Unaccompanied child migrants are processed through the care system rather than the asylum system, which can make it easier to stay in the country.
+
+The decision to use the software comes after years of heightened levels of people crossing the English Channel in small boats and claiming asylum at the border.
+
+A total of 111,084 people claimed asylum in the UK in the year ending June 2025, 14% more than in the previous year.
+
+In the year ending March 2026, more than 6,400 migrants claiming to be children were age assessed at the border, with 43% found to be adults, according to Home Office data.
+
+A report carried out by the UK government's independent immigration inspector last year found cases where adult migrants had been classified as children - and cases where child migrants had been wrongly classified as adults.
+
+The report said in the absence of a "foolproof" test, it was "inevitable that some age assessments will be wrong, which is clearly a cause for concern, especially where a child is denied the rights and protections to which they are entitled".
+
+The government announced plans to use AI facial recognition technology to combat this problem last year.
+
+Since then, the Home Office has been exploring the use of the technology and this week, a new contract was awarded to Harlow-based IT supplier Akhter Computers Ltd to deliver the scheme.
+
+The contract will see the technology further tested and developed before being rolled out in mid-2027.
+
+Minister for Border Security and Asylum, Alex Norris, said adult migrants "making false age claims have exploited the system and diverted vital support away from children at risk".
+
+"That is why we are rolling out AI technology to put a stop to this, ensuring those who game the system are identified, detained and removed without delay, and those who deserve support and protection are given it," Norris said.
+
+The Home Office has already carried out testing on images of people across different ethnicities and genders, including those that make up the asylum-seeking population, already in its operational system.
+
+The technology is expected to be trialled for the first time on live cases of asylum seekers at Western Jet Foil, a processing centre in Dover, next year.
+
+Age assessments of asylum seekers are already carried out by trained immigration enforcement officers, who use methods such as examining documents, X‑rays and MRI scans.
+
+The new facial estimation technology will act as an additional tool to support officers at the border when a person's age is in doubt.
+
+Last year, the UK government said it had concluded that the technology was the most "cost-effective option" to assess the age of asylum seekers.
+
+But human rights groups have criticised the Home Office's plans to use the technology on children.
+
+Anna Bacciarelli, a senior AI researcher at campaign group Human Rights Watch, said: "The government needs to scrap this deeply flawed approach to assessing child refugees.
+
+"Experimenting with unproven technology to determine whether or not a child should be granted protections they desperately need and are legally entitled to is cruel and unconscionable.
+
+"In addition to subjecting vulnerable children and young people to a dehumanising process that undermines their human rights, we don't actually know if facial age estimation works."
+
+She said the technology had been used so far in shops and bars but not refugee processing centres, adding there was "no ethical way to move forward with these plans".

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--29_04:20:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--29_06:44:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,295** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,314** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-29-dailyftlk-4d3e671e",
-    "num": "dailyftlk-4d3e671e",
+    "doc_id": "2026-05-29-dailymirrorlk-ab397395",
+    "num": "dailymirrorlk-ab397395",
     "date_str": "2026-05-29",
-    "description": "Beyond Efficiency: Reimagining public institutions for a complex world",
-    "url_metadata": "https://www.ft.lk/columns/Beyond-Efficiency-Reimagining-public-institutions-for-a-complex-world/4-792638",
+    "description": "Time to build climate - economy nexus",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Time-to-build-climate-economy-nexus/172-341515",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1780008249.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780016495.0
 }
 ```
 
@@ -41,6 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-29 | `dailymirrorlk-ab397395` | Time to build climate - economy nexus | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-ab397395)
+- 2026-05-29 | `dailymirrorlk-8e734a16` | AI facial recognition to check age of asylum seekers from next year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-8e734a16)
+- 2026-05-29 | `dailymirrorlk-564cc7ae` | TRUMP’S DEVIL IN THE IRAN PEACE DEAL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-564cc7ae)
+- 2026-05-29 | `dailymirrorlk-955a7ea3` | The need to protect our children | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-955a7ea3)
+- 2026-05-29 | `dailymirrorlk-dc53441c` | American crude arrives for the first time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-dc53441c)
+- 2026-05-29 | `dailymirrorlk-c31b1ec4` | Colombo port expansion plans gather pace with US$ 2Bn pipeline | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-c31b1ec4)
+- 2026-05-29 | `dailymirrorlk-d5c5a55c` | Global crises slam brakes on Sri Lanka’s recovery: IMF | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailymirrorlk-d5c5a55c)
+- 2026-05-29 | `dailyftlk-84aa0db6` | CCWE Fashion Week and International Summit 2026 to debut in July | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailyftlk-84aa0db6)
+- 2026-05-29 | `dailyftlk-df24ea47` | Sri Lanka’s energy crisis is not  a shortage of resources | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailyftlk-df24ea47)
 - 2026-05-29 | `dailyftlk-4d3e671e` | Beyond Efficiency: Reimagining public institutions for a complex world | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailyftlk-4d3e671e)
 - 2026-05-29 | `dailyftlk-d3643cdd` | Predicting and stabilising Exchange Rate movements | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailyftlk-d3643cdd)
 - 2026-05-29 | `dailyftlk-328aefee` | DBS Jeyaraj: The journalist, the human being, and the friend | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailyftlk-328aefee)
@@ -50,17 +59,8 @@ A collection of lk_news documents.
 - 2026-05-29 | `virakesarilk-4783ce4a` | இலங்கை - ஜெர்மன் வர்த்தக மாநாடு பிரதமரின் தலைமையில் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-virakesarilk-4783ce4a)
 - 2026-05-29 | `dailyftlk-f70e0b7a` | Buddhism is for consenting adults | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-dailyftlk-f70e0b7a)
 - 2026-05-29 | `tamilmirrorlk-669eb060` | அவசரகாலச் சட்டம் மேலும் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-tamilmirrorlk-669eb060)
+- 2026-05-29 | `colombotelegraphcom-0ab832cc` | Rewiring Brain: Meditation To Break The Cycle Of Craving | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-29-colombotelegraphcom-0ab832cc)
 - 2026-05-28 | `virakesarilk-6571bdd0` | மாகாண சபை தேர்தல் ஜேவிபிக்கு பணம் பிரச்சினை கிடையாது கொள்கையும், தோல்வியும் தான் பிரச்சினை - டக்ளஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-virakesarilk-6571bdd0)
-- 2026-05-28 | `virakesarilk-7c2c4aa1` | “தர்ம நீதிமன்றம்” மற்றும் சட்டத்தின் சமத்துவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-virakesarilk-7c2c4aa1)
-- 2026-05-28 | `dailymirrorlk-f08b145c` | Volkswagen Taigun, Virtus launched | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-f08b145c)
-- 2026-05-28 | `tamilmirrorlk-559e8c22` | ’சிறிசொம்பான்’ நாட்டை வந்தடைந்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-tamilmirrorlk-559e8c22)
-- 2026-05-28 | `tamilmirrorlk-f3e7575f` | மற்றுமொரு டிஜிட்டல் மோசடி அம்பலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-tamilmirrorlk-f3e7575f)
-- 2026-05-28 | `tamilmirrorlk-ba565648` | பல பொதுச் சேவைகள் அத்தியாவசிய சேவைகளாகின | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-tamilmirrorlk-ba565648)
-- 2026-05-28 | `tamilmirrorlk-5a8e9955` | பாடசாலை மாணவி கர்ப்பம் ; சகோதரன் உட்பட இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-tamilmirrorlk-5a8e9955)
-- 2026-05-28 | `virakesarilk-41980088` | செப்டெம்பருடன் எரிபொருள் மானியம் நிறைவடையலாம் – IMF | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-virakesarilk-41980088)
-- 2026-05-28 | `colombotelegraphcom-4ee2121a` | The Longevity Gold Rush: Science, Snake Oil & The Dream Of Living Forever | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-colombotelegraphcom-4ee2121a)
-- 2026-05-28 | `virakesarilk-7ffc8c57` | கட்டுநாயக்கில் 138,000-க்கும் மேற்பட்ட சட்டவிரோத சிகரெட்டுகள் பறிமுதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-virakesarilk-7ffc8c57)
-- 2026-05-28 | `dailymirrorlk-106543ed` | Essential services gazette notification issued | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-28-dailymirrorlk-106543ed)
 
 ---
 
