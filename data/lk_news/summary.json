@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-29 06:43:45",
-  "n_docs": 115314,
+  "time_updated": "2026-05-29 09:33:43",
+  "n_docs": 115336,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 115314,
+  "n_docs_with_text": 115336,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-29",
-  "dataset_size": 1794170303,
+  "dataset_size": 1794490309,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-29-dailymirrorlk-ab397395",
-    "num": "dailymirrorlk-ab397395",
+    "doc_id": "2026-05-29-dailymirrorlk-2e0d08b5",
+    "num": "dailymirrorlk-2e0d08b5",
     "date_str": "2026-05-29",
-    "description": "Time to build climate - economy nexus",
-    "url_metadata": "https://www.dailymirror.lk/opinion/Time-to-build-climate-economy-nexus/172-341515",
+    "description": "Humanoid robots \u2019the future\u2019 of car making, says BMW",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Humanoid-robots-the-future-of-car-making-says-BMW/108-341544",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780016495.0
+    "time_ut": 1780025617.0
   }
 }
