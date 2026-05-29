@@ -209087,6 +209087,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-29-adalk-584a88c8",
+    "num": "adalk-584a88c8",
+    "date_str": "2026-05-29",
+    "description": "\u0dc0\u0dd9\u0dc3\u0d9a\u0dca \u0d91\u0d9a\u0da7 \u0d9a\u0ddc\u0dc5\u0db9 \u0dbb\u0dae \u0dc0\u0dcf\u0dc4\u0db1 \u0dc3\u0dd0\u0dbd\u0dd0\u0dc3\u0dca\u0db8 \u0db8\u0dd9\u0db1\u0dca\u0db1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd9\u0dc3\u0d9a\u0dca-\u0d91\u0d9a\u0da7-\u0d9a\u0ddc\u0dc5\u0db9-\u0dbb\u0dae-\u0dc0\u0dcf\u0dc4\u0db1-\u0dc3\u0dd0\u0dbd\u0dd0\u0dc3\u0dca\u0db8-\u0db8\u0dd9\u0db1\u0dca\u0db1/11-422666",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780047637.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-29-tamilmirrorlk-e614b48c",
     "num": "tamilmirrorlk-e614b48c",
     "date_str": "2026-05-29",
@@ -209128,5 +209139,38 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1780052777.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-b678e47c",
+    "num": "dailymirrorlk-b678e47c",
+    "date_str": "2026-05-29",
+    "description": "Trial in Namal\u2019s Krrish case to commence on July 7",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trial-in-Namals-Krrish-case-to-commence-on-July-7/108-341564",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780055025.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-1b678e70",
+    "num": "dailymirrorlk-1b678e70",
+    "date_str": "2026-05-29",
+    "description": "Special trains to operate for Vesak pilgrims",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-trains-to-operate-for-Vesak-pilgrims/108-341565",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780055778.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-tamilmirrorlk-3976df8f",
+    "num": "tamilmirrorlk-3976df8f",
+    "date_str": "2026-05-29",
+    "description": "\u0b95\u0bca\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bbf\u0baf \u0b95\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bbf\u0baf-\u0b95\u0bbe\u0bb0\u0bcd/175-377807",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780060664.0
   }
 ]
