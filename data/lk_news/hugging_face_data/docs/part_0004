@@ -209164,6 +209164,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-29-adalk-1fcf7842",
+    "num": "adalk-1fcf7842",
+    "date_str": "2026-05-29",
+    "description": "2025 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dab\u0dba \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dbb\u0dd4. \u0db6\u0dd2 29994",
+    "url_metadata": "https://www.ada.lk/breaking_news/2025-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0dc0\u0db1-\u0dc0\u0dd2\u0da7-\u0dc3\u0db8\u0dc3\u0dca\u0dad-\u0dab\u0dba-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba-\u0dbb\u0dd4--\u0db6\u0dd2-29994/11-422667",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780058873.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-29-tamilmirrorlk-3976df8f",
     "num": "tamilmirrorlk-3976df8f",
     "date_str": "2026-05-29",
@@ -209172,5 +209183,38 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1780060664.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-69a9c84c",
+    "num": "dailymirrorlk-69a9c84c",
+    "date_str": "2026-05-29",
+    "description": "Kenya court halts opening of US Ebola quarantine facility in the country",
+    "url_metadata": "https://www.dailymirror.lk/international/Kenya-court-halts-opening-of-US-Ebola-quarantine-facility-in-the-country/107-341566",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780061498.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-5191bd0a",
+    "num": "dailymirrorlk-5191bd0a",
+    "date_str": "2026-05-29",
+    "description": "Sri Lanka announce squad for ICC Women\u2019s T20 World Cup 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-announce-squad-for-ICC-Womens-T20-World-Cup-2026/108-341567",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780062253.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-0d022586",
+    "num": "dailymirrorlk-0d022586",
+    "date_str": "2026-05-29",
+    "description": "Schools alerted as Meningitis spreads across districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Schools-alerted-as-Meningitis-spreads-across-districts/108-341569",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780065424.0
   }
 ]
