@@ -208845,6 +208845,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-29-adalk-bc6f5a44",
+    "num": "adalk-bc6f5a44",
+    "date_str": "2026-05-29",
+    "description": "\u0db1\u0dd2\u0dbb\u0dd2\u0dad \u0daf\u0dd2\u0d9c \u0db8\u0ddd\u0dc3\u0db8 \u0dc3\u0dca\u0dae\u0dcf\u0db4\u0dd2\u0dad\u0dba\u0dd2 \u0dc0\u0dd0\u0dc3\u0dca\u0dc3 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd2\u0dbb\u0dd2\u0dad-\u0daf\u0dd2\u0d9c-\u0db8\u0ddd\u0dc3\u0db8-\u0dc3\u0dca\u0dae\u0dcf\u0db4\u0dd2\u0dad\u0dba\u0dd2-\u0dc0\u0dd0\u0dc3\u0dca\u0dc3-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd9\u0dba\u0dd2/11-422662",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780029924.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-29-dailymirrorlk-7b5e7ffb",
     "num": "dailymirrorlk-7b5e7ffb",
     "date_str": "2026-05-29",
@@ -208886,5 +208897,82 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780033052.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-3fadda65",
+    "num": "dailymirrorlk-3fadda65",
+    "date_str": "2026-05-29",
+    "description": "Woman dies after three-wheeler crashes into bus stop in Thambalagamuwa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Woman-dies-after-three-wheeler-crashes-into-bus-stop-in-Thambalagamuwa/108-341550",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780033502.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-d84dc3df",
+    "num": "dailymirrorlk-d84dc3df",
+    "date_str": "2026-05-29",
+    "description": "CPC releases estimated import pricing for petroleum products for April 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CPC-releases-estimated-import-pricing-for-petroleum-products-for-April-2026/108-341551",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780034510.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-1ddb9203",
+    "num": "dailymirrorlk-1ddb9203",
+    "date_str": "2026-05-29",
+    "description": "No fuel price drops expected in upcoming revision: CPC",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-fuel-price-drops-expected-in-upcoming-revision-CPC/108-341552",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780035104.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-d7e94106",
+    "num": "dailymirrorlk-d7e94106",
+    "date_str": "2026-05-29",
+    "description": "Sri Lanka\u2013Maldives mutual legal assistance agreement regulation approved by Justice Committee",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-LankaMaldives-mutual-legal-assistance-agreement-regulation-approved-by-Justice-Committee/108-341553",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780035492.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-679daf48",
+    "num": "dailymirrorlk-679daf48",
+    "date_str": "2026-05-29",
+    "description": "State of Public Emergency further extended",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/State-of-Public-Emergency-further-extended/108-341554",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780035968.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-5b8cbd56",
+    "num": "dailymirrorlk-5b8cbd56",
+    "date_str": "2026-05-29",
+    "description": "Pettah market...",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Pettah-market/110-341555",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780036638.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-dailymirrorlk-843ca93d",
+    "num": "dailymirrorlk-843ca93d",
+    "date_str": "2026-05-29",
+    "description": "Rural women affected by soaring sanitary product prices due to taxes, crisis",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rural-women-affected-by-soaring-sanitary-product-prices-due-to-taxes-crisis/108-341557",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780037898.0
   }
 ]
