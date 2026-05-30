@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--30_14:35:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--30_16:21:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,444** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,448** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-30-dailymirrorlk-381cbe0f",
-    "num": "dailymirrorlk-381cbe0f",
+    "doc_id": "2026-05-30-dailymirrorlk-b15edbd8",
+    "num": "dailymirrorlk-b15edbd8",
     "date_str": "2026-05-30",
-    "description": "Government protecting connected businesses while public suffers \u2013 Namal",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-protecting-connected-businesses-while-public-suffers-Namal/108-341582",
+    "description": "New acting Atamasthanadhipathi appointed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-acting-Atamasthanadhipathi-appointed/108-341587",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780129576.0
+    "time_ut": 1780136932.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-30 | `dailymirrorlk-b15edbd8` | New acting Atamasthanadhipathi appointed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-b15edbd8)
+- 2026-05-30 | `dailymirrorlk-742458cf` | ’Poison seller’ who sold toxic chemicals online to people across world admits aiding suicides | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-742458cf)
+- 2026-05-30 | `dailymirrorlk-39ef44af` | Power cuts Imposed to maintain grid stability: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-39ef44af)
+- 2026-05-30 | `dailymirrorlk-277688d8` | Crowds at Vesak Dansals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-277688d8)
 - 2026-05-30 | `dailymirrorlk-381cbe0f` | Government protecting connected businesses while public suffers – Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-381cbe0f)
 - 2026-05-30 | `dailymirrorlk-0c37f52f` | Vesak 2026 and Religious Cooperation Between Viet Nam and Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-0c37f52f)
 - 2026-05-30 | `tamilmirrorlk-877057a2` | மட்டக்களப்பு விடுதியில் குழந்தைகள் பலி: தந்தை கூறிய அதிர்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-tamilmirrorlk-877057a2)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-05-30 | `virakesarilk-99a0171f` | இன்று புனித வெசாக் தினம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-virakesarilk-99a0171f)
 - 2026-05-30 | `virakesarilk-a416a30b` | தங்கேதர துப்பாக்கிச் சூடு : 'ஐஸ்' போதைப்பொருளுடன் பண்டாரகம பகுதியில் மற்றொரு நபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-virakesarilk-a416a30b)
 - 2026-05-30 | `dailymirrorlk-c718accb` | Sri Lanka Army gets new Chief of Staff | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-c718accb)
-- 2026-05-30 | `virakesarilk-9531d4a2` | மட்டக்களப்பில் வங்கியில் தீ விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-virakesarilk-9531d4a2)
-- 2026-05-30 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-virakesarilk-3a015e4a)
-- 2026-05-30 | `dailymirrorlk-43797672` | Gill Century Sends Gujarat into IPL Final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-43797672)
-- 2026-05-30 | `virakesarilk-2f37e4a0` | வெசாக் தினத்தை முன்னிட்டு 61 கைதிகளுக்கு ஜனாதிபதி பொதுமன்னிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-virakesarilk-2f37e4a0)
 
 ---
 

@@ -209942,5 +209942,49 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780129576.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-30-dailymirrorlk-277688d8",
+    "num": "dailymirrorlk-277688d8",
+    "date_str": "2026-05-30",
+    "description": "Crowds at Vesak Dansals",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Crowds-at-Vesak-Dansals/110-341583",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780131391.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-30-dailymirrorlk-39ef44af",
+    "num": "dailymirrorlk-39ef44af",
+    "date_str": "2026-05-30",
+    "description": "Power cuts Imposed to maintain grid stability: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Power-cuts-Imposed-to-maintain-grid-stability-Minister/108-341585",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780133242.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-30-dailymirrorlk-742458cf",
+    "num": "dailymirrorlk-742458cf",
+    "date_str": "2026-05-30",
+    "description": "\u2019Poison seller\u2019 who sold toxic chemicals online to people across world admits aiding suicides",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Poison-seller-who-sold-toxic-chemicals-online-to-people-across-world-admits-aiding-suicides/108-341586",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780134874.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-30-dailymirrorlk-b15edbd8",
+    "num": "dailymirrorlk-b15edbd8",
+    "date_str": "2026-05-30",
+    "description": "New acting Atamasthanadhipathi appointed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-acting-Atamasthanadhipathi-appointed/108-341587",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780136932.0
   }
 ]
