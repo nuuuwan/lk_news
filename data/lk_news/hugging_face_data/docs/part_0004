@@ -210162,5 +210162,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1780154718.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-30-dailymirrorlk-a8fcac9d",
+    "num": "dailymirrorlk-a8fcac9d",
+    "date_str": "2026-05-30",
+    "description": "Fuel prices increased from midnight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-prices-increased-from-midnight/108-341592",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780163455.0
   }
 ]

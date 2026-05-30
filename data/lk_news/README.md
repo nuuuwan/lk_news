@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--30_22:10:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--31_00:13:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,464** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,465** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-30-tamilmirrorlk-2687c517",
-    "num": "tamilmirrorlk-2687c517",
+    "doc_id": "2026-05-30-dailymirrorlk-a8fcac9d",
+    "num": "dailymirrorlk-a8fcac9d",
     "date_str": "2026-05-30",
-    "description": "3 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0b9f\u0bb2\u0bcd \u0b87\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/3-\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0b95\u0b9f\u0bb2\u0bcd-\u0b87\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0ba4\u0bc1/175-377824",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1780154718.0
+    "description": "Fuel prices increased from midnight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-prices-increased-from-midnight/108-341592",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780163455.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-30 | `dailymirrorlk-a8fcac9d` | Fuel prices increased from midnight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-a8fcac9d)
 - 2026-05-30 | `tamilmirrorlk-2687c517` | 3 சிறுவர்களை கடல் இழுத்துக்கொண்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-tamilmirrorlk-2687c517)
 - 2026-05-30 | `dailymirrorlk-4f22aa93` | Three children reported missing while bathing at Kalametiya beach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-4f22aa93)
 - 2026-05-30 | `tamilmirrorlk-03d9a46d` | மண் திட்டு சரிந்து வீழ்ந்ததில் போதகர் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-tamilmirrorlk-03d9a46d)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-05-30 | `dailymirrorlk-a75a1521` | Vesak dansals in Kelaniya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-a75a1521)
 - 2026-05-30 | `dailymirrorlk-277688d8` | Crowds at Vesak Dansals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-277688d8)
 - 2026-05-30 | `dailymirrorlk-381cbe0f` | Government protecting connected businesses while public suffers – Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-381cbe0f)
-- 2026-05-30 | `dailymirrorlk-0c37f52f` | Vesak 2026 and Religious Cooperation Between Viet Nam and Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-0c37f52f)
 
 ---
 
