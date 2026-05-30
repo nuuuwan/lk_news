@@ -203730,6 +203730,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-26-islandlk-42944736",
+    "num": "islandlk-42944736",
+    "date_str": "2026-05-26",
+    "description": "Flaws in laws",
+    "url_metadata": "http://island.lk/flaws-in-laws/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1779815340.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-26-islandlk-3d748e6a",
     "num": "islandlk-3d748e6a",
     "date_str": "2026-05-26",
@@ -208207,6 +208218,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-28-islandlk-22f15cdb",
+    "num": "islandlk-22f15cdb",
+    "date_str": "2026-05-28",
+    "description": "Panic, speculation and the mystery behind Sri Lankan rupee\u2019s sudden rebound",
+    "url_metadata": "http://island.lk/panic-speculation-and-the-mystery-behind-sri-lankan-rupees-sudden-rebound/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1779980100.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-28-colombotelegraphcom-4ee2121a",
     "num": "colombotelegraphcom-4ee2121a",
     "date_str": "2026-05-28",
@@ -208259,6 +208281,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1779983948.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-28-islandlk-d5738361",
+    "num": "islandlk-d5738361",
+    "date_str": "2026-05-28",
+    "description": "Sri Lanka\u2019s construction industry losing ground while no one watches",
+    "url_metadata": "http://island.lk/sri-lankas-construction-industry-losing-ground-while-no-one-watches/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1779984180.0
   },
   {
     "doc_type": "lk_news",
@@ -209417,6 +209450,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-29-islandlk-08f53a7d",
+    "num": "islandlk-08f53a7d",
+    "date_str": "2026-05-29",
+    "description": "Unit Trust industry navigates market volatility with resilience",
+    "url_metadata": "http://island.lk/unit-trust-industry-navigates-market-volatility-with-resilience/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780064700.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-29-dailymirrorlk-0d022586",
     "num": "dailymirrorlk-0d022586",
     "date_str": "2026-05-29",
@@ -209425,6 +209469,50 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780065424.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-islandlk-c17b6c4c",
+    "num": "islandlk-c17b6c4c",
+    "date_str": "2026-05-29",
+    "description": "A changing of the guard \u2013 George Steuart Insurance Brokers shuffles its Board",
+    "url_metadata": "http://island.lk/a-changing-of-the-guard-george-steuart-insurance-brokers-shuffles-its-board/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780067940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-islandlk-ef6fb677",
+    "num": "islandlk-ef6fb677",
+    "date_str": "2026-05-29",
+    "description": "John Keells Foundation spearheads training on gender-sensitive media content development",
+    "url_metadata": "http://island.lk/john-keells-foundation-spearheads-training-on-gender-sensitive-media-content-development/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780068000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-islandlk-f0bf8285",
+    "num": "islandlk-f0bf8285",
+    "date_str": "2026-05-29",
+    "description": "Bingxue Sri Lanka opens Its first outlet in Dehiwala",
+    "url_metadata": "http://island.lk/bingxue-sri-lanka-opens-its-first-outlet-in-dehiwala/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780068000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-29-islandlk-a89cbbf1",
+    "num": "islandlk-a89cbbf1",
+    "date_str": "2026-05-29",
+    "description": "Prime Land Residencies exits financial biz following sale of 400 million HNB Finance shares",
+    "url_metadata": "http://island.lk/prime-land-residencies-exits-financial-biz-following-sale-of-400-million-hnb-finance-shares/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780068060.0
   },
   {
     "doc_type": "lk_news",
@@ -209535,5 +209623,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1780093740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-30-dailymirrorlk-43797672",
+    "num": "dailymirrorlk-43797672",
+    "date_str": "2026-05-30",
+    "description": "Gill Century Sends Gujarat into IPL Final",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gill-Century-Sends-Gujarat-into-IPL-Final/108-341574",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780101214.0
   }
 ]
