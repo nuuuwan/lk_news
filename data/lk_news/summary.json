@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-30 12:51:07",
-  "n_docs": 115442,
+  "time_updated": "2026-05-30 14:34:27",
+  "n_docs": 115444,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 115442,
+  "n_docs_with_text": 115444,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-30",
-  "dataset_size": 1796480310,
+  "dataset_size": 1796528726,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "en",
     "si",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-30-tamilmirrorlk-877057a2",
-    "num": "tamilmirrorlk-877057a2",
+    "doc_id": "2026-05-30-dailymirrorlk-381cbe0f",
+    "num": "dailymirrorlk-381cbe0f",
     "date_str": "2026-05-30",
-    "description": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bb2\u0bbf: \u0ba4\u0ba8\u0bcd\u0ba4\u0bc8 \u0b95\u0bc2\u0bb1\u0bbf\u0baf \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd-\u0baa\u0bb2\u0bbf-\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8-\u0b95\u0bc2\u0bb1\u0bbf\u0baf-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf/175-377815",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1780125249.0
+    "description": "Government protecting connected businesses while public suffers \u2013 Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-protecting-connected-businesses-while-public-suffers-Namal/108-341582",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780129576.0
   }
 }

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--30_12:52:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--30_14:35:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,442** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,444** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-30-tamilmirrorlk-877057a2",
-    "num": "tamilmirrorlk-877057a2",
+    "doc_id": "2026-05-30-dailymirrorlk-381cbe0f",
+    "num": "dailymirrorlk-381cbe0f",
     "date_str": "2026-05-30",
-    "description": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bb2\u0bbf: \u0ba4\u0ba8\u0bcd\u0ba4\u0bc8 \u0b95\u0bc2\u0bb1\u0bbf\u0baf \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0bc1\u0bb4\u0ba8\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd-\u0baa\u0bb2\u0bbf-\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8-\u0b95\u0bc2\u0bb1\u0bbf\u0baf-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf/175-377815",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1780125249.0
+    "description": "Government protecting connected businesses while public suffers \u2013 Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-protecting-connected-businesses-while-public-suffers-Namal/108-341582",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780129576.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-30 | `dailymirrorlk-381cbe0f` | Government protecting connected businesses while public suffers – Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-381cbe0f)
+- 2026-05-30 | `dailymirrorlk-0c37f52f` | Vesak 2026 and Religious Cooperation Between Viet Nam and Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-0c37f52f)
 - 2026-05-30 | `tamilmirrorlk-877057a2` | மட்டக்களப்பு விடுதியில் குழந்தைகள் பலி: தந்தை கூறிய அதிர்ச்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-tamilmirrorlk-877057a2)
 - 2026-05-30 | `tamilmirrorlk-1be472be` | அர்ச்சுனாவுக்கு எதிரான நிகழ்நிலை வழக்கு ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-tamilmirrorlk-1be472be)
 - 2026-05-30 | `dailymirrorlk-621b91f9` | Rooftop solar owners asked to switch off systems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-621b91f9)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-05-30 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-virakesarilk-3a015e4a)
 - 2026-05-30 | `dailymirrorlk-43797672` | Gill Century Sends Gujarat into IPL Final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-dailymirrorlk-43797672)
 - 2026-05-30 | `virakesarilk-2f37e4a0` | வெசாக் தினத்தை முன்னிட்டு 61 கைதிகளுக்கு ஜனாதிபதி பொதுமன்னிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-virakesarilk-2f37e4a0)
-- 2026-05-30 | `virakesarilk-1a842857` | அமெரிக்காவுடன் இதுவரை எந்த உடன்பாடும் எட்டப்படவில்லை – ஈரான் வெளியுறவு அமைச்சகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-virakesarilk-1a842857)
-- 2026-05-30 | `virakesarilk-c4336a36` | பெரியகல்லாறில் கட்டுப்பாட்டை இழந்த கார் விபத்து: சிறுவன் உள்ளிட்ட 4 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-30-virakesarilk-c4336a36)
 
 ---
 
