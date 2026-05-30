@@ -209923,6 +209923,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-05-30-dailymirrorlk-2ab07ae6",
+    "num": "dailymirrorlk-2ab07ae6",
+    "date_str": "2026-05-30",
+    "description": "Vesak Poya day\u2026",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Vesak-Poya-day/110-341580",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780128792.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-05-30-dailymirrorlk-0c37f52f",
     "num": "dailymirrorlk-0c37f52f",
     "date_str": "2026-05-30",
@@ -209950,6 +209961,17 @@ ews",
     "date_str": "2026-05-30",
     "description": "Crowds at Vesak Dansals",
     "url_metadata": "https://www.dailymirror.lk/caption-story/Crowds-at-Vesak-Dansals/110-341583",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780131391.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-30-dailymirrorlk-a75a1521",
+    "num": "dailymirrorlk-a75a1521",
+    "date_str": "2026-05-30",
+    "description": "Vesak dansals in Kelaniya",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Vesak-dansals-in-Kelaniya/110-341583",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780131391.0
@@ -209986,5 +210008,71 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780136932.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-30-dailymirrorlk-bdb7be3b",
+    "num": "dailymirrorlk-bdb7be3b",
+    "date_str": "2026-05-30",
+    "description": "Millions of breast cancer patients could safely avoid chemotherapy, study suggests",
+    "url_metadata": "https://www.dailymirror.lk/international/Millions-of-breast-cancer-patients-could-safely-avoid-chemotherapy-study-suggests/107-341588",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780137732.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-30-dailymirrorlk-83a7407e",
+    "num": "dailymirrorlk-83a7407e",
+    "date_str": "2026-05-30",
+    "description": "Six battery storage systems arrive to support national power grid",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Six-battery-storage-systems-arrive-to-support-national-power-grid/108-341589",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780139892.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-30-tamilmirrorlk-f1d78ab5",
+    "num": "tamilmirrorlk-f1d78ab5",
+    "date_str": "2026-05-30",
+    "description": "\u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd \u0baa\u0bcb\u0ba9\u0bcd \u0ba4\u0bb0\u0bbe\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd 11 \u0bb5\u0baf\u0ba4\u0bc1 \u0ba4\u0b99\u0bcd\u0b95\u0bc8 \u0b95\u0bca\u0bb2\u0bc8; 14 \u0bb5\u0baf\u0ba4\u0bc1 \u0b85\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd-\u0baa\u0bcb\u0ba9\u0bcd-\u0ba4\u0bb0\u0bbe\u0ba4\u0ba4\u0bbe\u0bb2\u0bcd-11-\u0bb5\u0baf\u0ba4\u0bc1-\u0ba4\u0b99\u0bcd\u0b95\u0bc8-\u0b95\u0bca\u0bb2\u0bc8-14-\u0bb5\u0baf\u0ba4\u0bc1-\u0b85\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-377817",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780142013.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-30-tamilmirrorlk-089d59b6",
+    "num": "tamilmirrorlk-089d59b6",
+    "date_str": "2026-05-30",
+    "description": "\u0baa\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bae\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0ba4\u0bbf\u0bb2\u0bcd-\u0b85\u0b9f\u0bae\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-377818",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780142498.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-30-dailymirrorlk-21eef9f7",
+    "num": "dailymirrorlk-21eef9f7",
+    "date_str": "2026-05-30",
+    "description": "Ukrainian drones strike port, oil depot in southern Russia, authorities say",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ukrainian-drones-strike-port-oil-depot-in-southern-Russia-authorities-say/108-341590",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780142927.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-30-tamilmirrorlk-076cca60",
+    "num": "tamilmirrorlk-076cca60",
+    "date_str": "2026-05-30",
+    "description": "4 \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0b95\u0bc1\u0bb7\u0bcd\u0bb7\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/4-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0b95\u0bc1\u0bb7\u0bcd\u0bb7\u0bc1\u0b9f\u0ba9\u0bcd-\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-377819",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780143322.0
   }
 ]
