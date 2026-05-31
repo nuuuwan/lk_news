@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-31 18:19:32",
-  "n_docs": 115597,
+  "time_updated": "2026-05-31 20:17:50",
+  "n_docs": 115630,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 115597,
+  "n_docs_with_text": 115630,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-31",
-  "dataset_size": 1798922169,
+  "dataset_size": 1799146507,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-31-dailymirrorlk-97693d09",
-    "num": "dailymirrorlk-97693d09",
+    "doc_id": "2026-05-31-virakesarilk-fd3324a0",
+    "num": "virakesarilk-fd3324a0",
     "date_str": "2026-05-31",
-    "description": "Israel seizes castle in Lebanon as it expands ground offensive",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Israel-seizes-castle-in-Lebanon-as-it-expands-ground-offensive/108-341613",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780230935.0
+    "description": "\u0bae\u0bbf\u0ba9\u0bcd\u0ba4\u0b9f\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bcc\u0ba4\u0bcd\u0ba4 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0bb0 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u2013 \u0b85\u0b9a\u0bc7\u0bb2 \u0b9a\u0bae\u0bcd\u0baa\u0ba4\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/248382",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1780237140.0
   }
 }

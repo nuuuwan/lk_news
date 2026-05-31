@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--31_18:20:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--31_20:18:45-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,597** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,630** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-31-dailymirrorlk-97693d09",
-    "num": "dailymirrorlk-97693d09",
+    "doc_id": "2026-05-31-virakesarilk-fd3324a0",
+    "num": "virakesarilk-fd3324a0",
     "date_str": "2026-05-31",
-    "description": "Israel seizes castle in Lebanon as it expands ground offensive",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Israel-seizes-castle-in-Lebanon-as-it-expands-ground-offensive/108-341613",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780230935.0
+    "description": "\u0bae\u0bbf\u0ba9\u0bcd\u0ba4\u0b9f\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bcc\u0ba4\u0bcd\u0ba4 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0bb0 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u2013 \u0b85\u0b9a\u0bc7\u0bb2 \u0b9a\u0bae\u0bcd\u0baa\u0ba4\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/248382",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1780237140.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-31 | `virakesarilk-fd3324a0` | மின்தடை குறித்து பௌத்த மக்களிடம் அமைச்சர் மன்னிப்பு கோர வேண்டும் – அசேல சம்பத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-fd3324a0)
+- 2026-05-31 | `tamilmirrorlk-9748a521` | ஐ.பி.எல்: இறுதிப் போட்டியில் முதலில் துடுப்பெடுத்தாடும் குஜராத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-9748a521)
+- 2026-05-31 | `dailymirrorlk-1f07c6b6` | Revolution’s pancreatic cancer drug doubles survival, boosts quality of life | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-1f07c6b6)
 - 2026-05-31 | `dailymirrorlk-97693d09` | Israel seizes castle in Lebanon as it expands ground offensive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-97693d09)
+- 2026-05-31 | `virakesarilk-d03c9e03` | மலையக மக்களுக்கான காணி உரிமை  - 20 பேர்ச் நிலமா? நவீன மாடி லயனா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-d03c9e03)
 - 2026-05-31 | `tamilmirrorlk-197d8df0` | குப்பைத் தொட்டிக்குள் கசிந்த காதல் ரகசியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-197d8df0)
+- 2026-05-31 | `virakesarilk-8f87eb91` | சர்ச்சைக்குரிய இலத்திரனியல் கடவுச்சீட்டு கொள்முதல் செயல்முறையை உடனடியாக இரத்து செய்ய அரசாங்கம் தீர்மானம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-8f87eb91)
+- 2026-05-31 | `virakesarilk-f629ed3f` | ﻿ஆற்றில் மூழ்கி நபர் ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-f629ed3f)
+- 2026-05-31 | `virakesarilk-c081ff04` | “அணு ஆயுதங்களை உருவாக்க மாட்டோம் என ஈரான் உறுதி அளித்துள்ளது ”- டொனால்ட் ட்ரம்ப் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-c081ff04)
+- 2026-05-31 | `virakesarilk-a66b7072` | அறிவுக்கு தீயிட்டார்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-a66b7072)
+- 2026-05-31 | `virakesarilk-11c00de1` | வங்­கித்­து­றையை  சூழும் பேரா­பத்­துக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-11c00de1)
+- 2026-05-31 | `virakesarilk-28c9c861` | தனிக்கட்சி ஆட்சிக்கான ஆபத்துள்ளது - எம்.ஏ.சுமந்திரன் பிரத்தியேக செவ்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-28c9c861)
+- 2026-05-31 | `virakesarilk-55c9c151` | இந்தியாவுக்கு  எதிரான ஜே.வி.பியின் பிரசாரத்தை மறந்து விட்டதா தேசிய மக்கள் சக்தி...? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-55c9c151)
+- 2026-05-31 | `virakesarilk-3e47d645` | சம்பியன்ஸ் லீக் கால்பந்து கொண்டாட்டம் வன்முறையாக மாறியது: பிரான்ஸில் 400க்கும் அதிகமானோர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-3e47d645)
+- 2026-05-31 | `virakesarilk-58229028` | ராஜபக்ச ஆட்சியில் தான் அதிகளவான ஊடகவியலாளர்கள் கொலை: தமிழ்த் தேசியத்தை அழிக்க முயன்றனர் - ஞா. சிறிநேசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-58229028)
+- 2026-05-31 | `virakesarilk-5eed7486` | சுறாக்களின் சண்டையில் நசுங்கும் நெத்தலிகள் : லெபனானின் மௌனப் பேரவலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-5eed7486)
+- 2026-05-31 | `virakesarilk-9ccb7ac7` | வலி. வடக்கு காணி விடுவிப்பு: கால எல்லை கூற முடியாது; பாராளுமன்றில் ஆராய்ந்து நடவடிக்கை - க. இளங்குமரன் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-9ccb7ac7)
 - 2026-05-31 | `tamilmirrorlk-9a28de2d` | அதிரடி காட்டிய  ’பைக் ரேஸர்கள்’ சிக்கினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-9a28de2d)
-- 2026-05-31 | `tamilmirrorlk-e21c3c8b` | சிரேஷ்ட ஊடகவியலாளர் நடேசனின் 22ஆம் ஆண்டு நினைவு தினம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-e21c3c8b)
-- 2026-05-31 | `tamilmirrorlk-b0073f24` | மகுடம் யாருக்கு? IPL இறுதிப்போட்டி இன்று... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-b0073f24)
-- 2026-05-31 | `dailymirrorlk-9ab62522` | Five advanced mammography units to boost cancer detection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-9ab62522)
-- 2026-05-31 | `dailymirrorlk-c83bd196` | Trump says Iran has agreed to no nuclear weapons | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-c83bd196)
-- 2026-05-31 | `dailymirrorlk-c13bf4fd` | Renovated Institute of Neurology at NHSL to open on June 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-c13bf4fd)
-- 2026-05-31 | `virakesarilk-4bc24124` | சாய்ந்தமருதில் பாடசாலை மாணவர்களுக்கு HPV மற்றும் ADT தடுப்பூசி வழங்கல் : சுகாதார பாதுகாப்பை வலுப்படுத்தும் முன்னெடுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-4bc24124)
-- 2026-05-31 | `virakesarilk-d2eb1eb2` | நாட்டின் ஜனநாயகப் பயணத்தை வலுப்படுத்த மாகாண சபைத் தேர்தலை உடனடியாக நடத்த வேண்டும் - ஸ்ரீலங்கா ஜனநாயகக் கட்சி தலைவர் அன்வர் எம். முஸ்தபா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-d2eb1eb2)
-- 2026-05-31 | `tamilmirrorlk-ef7b4c76` | ’’சுடாதே ராபர்ட்! சுடாதே!’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-ef7b4c76)
-- 2026-05-31 | `adalk-7ce920fe` | 2025 මුල් මාස හතර හා සැසදීමේදි 2026 ඉන්ධන ආනයන වියදම සියයට 53කින් වැඩිවෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-adalk-7ce920fe)
-- 2026-05-31 | `virakesarilk-dabba0fc` | இந்தியாவுக்குத் தனிப்பட்ட விஜயம் மேற்கொண்டுள்ள டொனால்ட் ட்ரம்பின் மகள் டிபானி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-dabba0fc)
-- 2026-05-31 | `dailymirrorlk-b827db89` | Vested interests behind amendment of Buddhist Temporalities Ordinance: UNP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-b827db89)
-- 2026-05-31 | `virakesarilk-add170d0` | நாடு மீண்டும் பாரிய பொருளாதார ஆபத்தை நோக்கி நகர்கிறது - ரணில் விக்ரமசிங்க எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-add170d0)
-- 2026-05-31 | `tamilmirrorlk-aab1f0e5` | ஓட்டோ கட்டணம் 130 ரூபாவாக உயரும்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-aab1f0e5)
-- 2026-05-31 | `virakesarilk-c3be2806` | தையிட்டி விகாரை பகுதியை புகைப்படம் எடுத்த குற்றச்சாட்டில் கைதான இளைஞர்களுக்கு பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-c3be2806)
-- 2026-05-31 | `virakesarilk-8656b8cc` | எதிர்மறை தோற்றப்பாட்டாளர்களின் பொறி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-8656b8cc)
-- 2026-05-31 | `tamilmirrorlk-a1140a07` | “5 சதவீதத்தால் கட்டணத்தை அதிகரிக்கவும்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-a1140a07)
-- 2026-05-31 | `virakesarilk-ec25add5` | அட்டமஸ்தானாதிபதி விவகாரமும் சட்டத்தின் முன் சகலரும் சமம்  என்ற கோட்பாட்டின் கதியும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-ec25add5)
+- 2026-05-31 | `virakesarilk-daddf8c5` | 2026 VAT  வற் திருத்தம்: இலங்கையின் புதிய வரி திசைமாற்றமும் பொருளாதார தாக்கங்களும் ; ஒரு நாட்டின் பொருளாதார ஒழுங்கை பிரதிபலிப்பது அதன் வரி அமைப்பே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-daddf8c5)
+- 2026-05-31 | `virakesarilk-4314a13e` | உலகச் சந்தை விலை அதிகரிப்பால் உள்நாட்டில் தற்காலிக எரிபொருள் விலை மாற்றம் - அசித்த நிரோஷன எம்பி விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-4314a13e)
 
 ---
 
