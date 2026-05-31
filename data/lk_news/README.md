@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--01_00:14:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--01_02:14:25-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,640** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,679** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-01-dailymirrorlk-9b7f85b4",
-    "num": "dailymirrorlk-9b7f85b4",
+    "doc_id": "2026-06-01-dailymirrorlk-c26c68f6",
+    "num": "dailymirrorlk-c26c68f6",
     "date_str": "2026-06-01",
-    "description": "Swadeshi Khomba Baby Soap receives SLS certification",
-    "url_metadata": "https://www.dailymirror.lk/business-news/Swadeshi-Khomba-Baby-Soap-receives-SLS-certification/273-341620",
+    "description": "The high cost of a weak rupee",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-high-cost-of-a-weak-rupee/172-341640",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780252768.0
+    "time_ut": 1780259919.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-06-01 | `dailymirrorlk-9b7f85b4` | Swadeshi Khomba Baby Soap receives SLS certification | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-9b7f85b4)
-- 2026-06-01 | `dailymirrorlk-7723139e` | Sri Lanka Insurance Corporation General introduces SLICGL Digital app | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-7723139e)
-- 2026-06-01 | `dailymirrorlk-b2d407c7` | Sampath Bank-JKCG Auto offer preferential rates for NEV buyers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-b2d407c7)
-- 2026-05-31 | `dailymirrorlk-eabc1880` | Back-to-back Champions! RCB Dominate Gujarat to Retain IPL Title | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-eabc1880)
-- 2026-05-31 | `tamilmirrorlk-e2afdf4a` | ஐ.பி.எல்: தொடர்ச்சியாக 2ஆவது தடவையாக சம்பியனான பெங்களூரு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-e2afdf4a)
-- 2026-05-31 | `tamilmirrorlk-8b13c297` | ஐ.பி.எல்: பெங்களூருக்கு வெற்றியிலக்கு 156 ஓட்டங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-8b13c297)
-- 2026-05-31 | `dailymirrorlk-332735e3` | Worst ever IPL? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-332735e3)
-- 2026-05-31 | `tamilmirrorlk-032f61cd` | பிக்மீ ஓட்டுநரிடம் கொள்ளை: வீடியோவால் அனைத்து சந்தேக நபர்களும் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-032f61cd)
-- 2026-05-31 | `dailymirrorlk-93f7b4e6` | Three suspects arrested following shocking robbery of PickMe driver | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-93f7b4e6)
-- 2026-05-31 | `adalk-8d8d5bb2` | ලංකාවට ආවේණික නව මී විශේෂයක්  සොයා  ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-adalk-8d8d5bb2)
-- 2026-05-31 | `virakesarilk-fd3324a0` | மின்தடை குறித்து பௌத்த மக்களிடம் அமைச்சர் மன்னிப்பு கோர வேண்டும் – அசேல சம்பத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-fd3324a0)
-- 2026-05-31 | `tamilmirrorlk-9748a521` | ஐ.பி.எல்: இறுதிப் போட்டியில் முதலில் துடுப்பெடுத்தாடும் குஜராத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-9748a521)
-- 2026-05-31 | `dailymirrorlk-1f07c6b6` | Revolution’s pancreatic cancer drug doubles survival, boosts quality of life | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-1f07c6b6)
-- 2026-05-31 | `dailymirrorlk-97693d09` | Israel seizes castle in Lebanon as it expands ground offensive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-97693d09)
-- 2026-05-31 | `virakesarilk-d03c9e03` | மலையக மக்களுக்கான காணி உரிமை  - 20 பேர்ச் நிலமா? நவீன மாடி லயனா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-d03c9e03)
-- 2026-05-31 | `tamilmirrorlk-197d8df0` | குப்பைத் தொட்டிக்குள் கசிந்த காதல் ரகசியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-197d8df0)
-- 2026-05-31 | `virakesarilk-8f87eb91` | சர்ச்சைக்குரிய இலத்திரனியல் கடவுச்சீட்டு கொள்முதல் செயல்முறையை உடனடியாக இரத்து செய்ய அரசாங்கம் தீர்மானம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-8f87eb91)
-- 2026-05-31 | `virakesarilk-f629ed3f` | ﻿ஆற்றில் மூழ்கி நபர் ஒருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-f629ed3f)
-- 2026-05-31 | `virakesarilk-c081ff04` | “அணு ஆயுதங்களை உருவாக்க மாட்டோம் என ஈரான் உறுதி அளித்துள்ளது ”- டொனால்ட் ட்ரம்ப் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-c081ff04)
-- 2026-05-31 | `virakesarilk-a66b7072` | அறிவுக்கு தீயிட்டார்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-a66b7072)
+- 2026-06-01 | `dailymirrorlk-c26c68f6` | The high cost of a weak rupee | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-c26c68f6)
+- 2026-06-01 | `dailymirrorlk-18a8acf6` | Towards a more constructive Dansal culture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-18a8acf6)
+- 2026-06-01 | `virakesarilk-39e84852` | மீகொட வெசாக் தானசாலையில் சோகம் : மக்கள் கூட்டத்திற்குள் பாய்ந்த கார் – 6 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-virakesarilk-39e84852)
+- 2026-06-01 | `dailymirrorlk-2926c237` | Urgent reforms vital to secure new GSP Plus scheme - EU Ambassador | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-2926c237)
+- 2026-06-01 | `dailymirrorlk-34d28a95` | External pressures push current account into deficit amid Middle East conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-34d28a95)
+- 2026-06-01 | `dailymirrorlk-a2df91d0` | Construction sector shrinks in April as rising raw material costs threaten project timelines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-a2df91d0)
+- 2026-06-01 | `dailymirrorlk-ed2ba33d` | Amor Developers receives top honour at German-Sri Lanka Startup Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-ed2ba33d)
+- 2026-06-01 | `dailymirrorlk-6375c019` | LOLC Group delivers strong operating growth as diversified platform gains further scale | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-6375c019)
+- 2026-06-01 | `dailymirrorlk-d6b351b8` | Inflation hits 13-month high as supply shocks disrupt price stability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-d6b351b8)
+- 2026-06-01 | `dailymirrorlk-12b22522` | FTZMA meets BOI Chairman and DG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-12b22522)
+- 2026-06-01 | `dailymirrorlk-471de712` | eMarketingEye launches Sri Lanka’s first AI visibility study for hotels | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-471de712)
+- 2026-06-01 | `virakesarilk-21ca8719` | அதிகாரப் போட்டிக்கு முற்றுப்புள்ளி வைத்து, நாட்டை மீட்டெடுக்க அனைத்து கட்சிகளும் ஒன்றினைய வேண்டும் - வணவாசி ராகுல தேரர் வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-virakesarilk-21ca8719)
+- 2026-06-01 | `dailymirrorlk-d914ca26` | Sri Lanka finish 12th with eight medals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-d914ca26)
+- 2026-06-01 | `dailymirrorlk-5e091479` | Asia debt policymakers meet in Colombo as climate risks deepen fiscal pressures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-5e091479)
+- 2026-06-01 | `dailymirrorlk-ac68aaba` | ComBank pioneers state-of-the-art 3DS authentication for UnionPay cardholders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-ac68aaba)
+- 2026-06-01 | `dailymirrorlk-265bf63e` | First Capital records Rs. 2.10bn PAT and core earnings of Rs. 6.59bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-265bf63e)
+- 2026-06-01 | `dailymirrorlk-ff264aeb` | ‘SmartChat Mega - Kandy’ accelerates SME digital transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-ff264aeb)
+- 2026-06-01 | `dailymirrorlk-4a2755b3` | Seylan Bank partners with Hayleys Fentons to power EV ownership with leasing solutions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-4a2755b3)
+- 2026-06-01 | `dailymirrorlk-00d82ee7` | United Motors Lanka achieves highest-ever profit of Rs. 3.6bn for FY2025/26 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-00d82ee7)
+- 2026-06-01 | `dailymirrorlk-7ca73cbf` | Ceylon Chamber welcomes IMF review approval | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-01-dailymirrorlk-7ca73cbf)
 
 ---
 
