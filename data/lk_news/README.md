@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--31_20:18:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--31_22:14:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,630** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,634** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-31-virakesarilk-fd3324a0",
-    "num": "virakesarilk-fd3324a0",
+    "doc_id": "2026-05-31-dailymirrorlk-332735e3",
+    "num": "dailymirrorlk-332735e3",
     "date_str": "2026-05-31",
-    "description": "\u0bae\u0bbf\u0ba9\u0bcd\u0ba4\u0b9f\u0bc8 \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bcc\u0ba4\u0bcd\u0ba4 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0bb0 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u2013 \u0b85\u0b9a\u0bc7\u0bb2 \u0b9a\u0bae\u0bcd\u0baa\u0ba4\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/248382",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1780237140.0
+    "description": "Worst ever IPL?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Worst-ever-IPL/108-341616",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780241923.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-31 | `dailymirrorlk-332735e3` | Worst ever IPL? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-332735e3)
+- 2026-05-31 | `tamilmirrorlk-032f61cd` | பிக்மீ ஓட்டுநரிடம் கொள்ளை: வீடியோவால் அனைத்து சந்தேக நபர்களும் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-032f61cd)
+- 2026-05-31 | `dailymirrorlk-93f7b4e6` | Three suspects arrested following shocking robbery of PickMe driver | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-93f7b4e6)
+- 2026-05-31 | `adalk-8d8d5bb2` | ලංකාවට ආවේණික නව මී විශේෂයක්  සොයා  ගනී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-adalk-8d8d5bb2)
 - 2026-05-31 | `virakesarilk-fd3324a0` | மின்தடை குறித்து பௌத்த மக்களிடம் அமைச்சர் மன்னிப்பு கோர வேண்டும் – அசேல சம்பத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-fd3324a0)
 - 2026-05-31 | `tamilmirrorlk-9748a521` | ஐ.பி.எல்: இறுதிப் போட்டியில் முதலில் துடுப்பெடுத்தாடும் குஜராத் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-9748a521)
 - 2026-05-31 | `dailymirrorlk-1f07c6b6` | Revolution’s pancreatic cancer drug doubles survival, boosts quality of life | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-1f07c6b6)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-05-31 | `virakesarilk-3e47d645` | சம்பியன்ஸ் லீக் கால்பந்து கொண்டாட்டம் வன்முறையாக மாறியது: பிரான்ஸில் 400க்கும் அதிகமானோர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-3e47d645)
 - 2026-05-31 | `virakesarilk-58229028` | ராஜபக்ச ஆட்சியில் தான் அதிகளவான ஊடகவியலாளர்கள் கொலை: தமிழ்த் தேசியத்தை அழிக்க முயன்றனர் - ஞா. சிறிநேசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-58229028)
 - 2026-05-31 | `virakesarilk-5eed7486` | சுறாக்களின் சண்டையில் நசுங்கும் நெத்தலிகள் : லெபனானின் மௌனப் பேரவலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-5eed7486)
-- 2026-05-31 | `virakesarilk-9ccb7ac7` | வலி. வடக்கு காணி விடுவிப்பு: கால எல்லை கூற முடியாது; பாராளுமன்றில் ஆராய்ந்து நடவடிக்கை - க. இளங்குமரன் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-9ccb7ac7)
-- 2026-05-31 | `tamilmirrorlk-9a28de2d` | அதிரடி காட்டிய  ’பைக் ரேஸர்கள்’ சிக்கினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-9a28de2d)
-- 2026-05-31 | `virakesarilk-daddf8c5` | 2026 VAT  வற் திருத்தம்: இலங்கையின் புதிய வரி திசைமாற்றமும் பொருளாதார தாக்கங்களும் ; ஒரு நாட்டின் பொருளாதார ஒழுங்கை பிரதிபலிப்பது அதன் வரி அமைப்பே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-daddf8c5)
-- 2026-05-31 | `virakesarilk-4314a13e` | உலகச் சந்தை விலை அதிகரிப்பால் உள்நாட்டில் தற்காலிக எரிபொருள் விலை மாற்றம் - அசித்த நிரோஷன எம்பி விளக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-4314a13e)
 
 ---
 
