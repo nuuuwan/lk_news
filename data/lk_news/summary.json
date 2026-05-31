@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-31 16:24:07",
-  "n_docs": 115594,
+  "time_updated": "2026-05-31 18:19:32",
+  "n_docs": 115597,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 115594,
+  "n_docs_with_text": 115597,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-05-31",
-  "dataset_size": 1798838464,
+  "dataset_size": 1798922169,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-31-tamilmirrorlk-e21c3c8b",
-    "num": "tamilmirrorlk-e21c3c8b",
+    "doc_id": "2026-05-31-dailymirrorlk-97693d09",
+    "num": "dailymirrorlk-97693d09",
     "date_str": "2026-05-31",
-    "description": "\u0b9a\u0bbf\u0bb0\u0bc7\u0bb7\u0bcd\u0b9f \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0b9f\u0bc7\u0b9a\u0ba9\u0bbf\u0ba9\u0bcd 22\u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1 \u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb0\u0bc7\u0bb7\u0bcd\u0b9f-\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd-\u0ba8\u0b9f\u0bc7\u0b9a\u0ba9\u0bbf\u0ba9\u0bcd-22\u0b86\u0bae\u0bcd-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1-\u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1-\u0ba4\u0bbf\u0ba9\u0bae\u0bcd/175-377861",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1780223549.0
+    "description": "Israel seizes castle in Lebanon as it expands ground offensive",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Israel-seizes-castle-in-Lebanon-as-it-expands-ground-offensive/108-341613",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780230935.0
   }
 }

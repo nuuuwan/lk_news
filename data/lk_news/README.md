@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--31_16:25:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--31_18:20:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,594** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,597** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-05-31**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-31-tamilmirrorlk-e21c3c8b",
-    "num": "tamilmirrorlk-e21c3c8b",
+    "doc_id": "2026-05-31-dailymirrorlk-97693d09",
+    "num": "dailymirrorlk-97693d09",
     "date_str": "2026-05-31",
-    "description": "\u0b9a\u0bbf\u0bb0\u0bc7\u0bb7\u0bcd\u0b9f \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0b9f\u0bc7\u0b9a\u0ba9\u0bbf\u0ba9\u0bcd 22\u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1 \u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1 \u0ba4\u0bbf\u0ba9\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb0\u0bc7\u0bb7\u0bcd\u0b9f-\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd-\u0ba8\u0b9f\u0bc7\u0b9a\u0ba9\u0bbf\u0ba9\u0bcd-22\u0b86\u0bae\u0bcd-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1-\u0ba8\u0bbf\u0ba9\u0bc8\u0bb5\u0bc1-\u0ba4\u0bbf\u0ba9\u0bae\u0bcd/175-377861",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1780223549.0
+    "description": "Israel seizes castle in Lebanon as it expands ground offensive",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Israel-seizes-castle-in-Lebanon-as-it-expands-ground-offensive/108-341613",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780230935.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-31 | `dailymirrorlk-97693d09` | Israel seizes castle in Lebanon as it expands ground offensive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-97693d09)
+- 2026-05-31 | `tamilmirrorlk-197d8df0` | குப்பைத் தொட்டிக்குள் கசிந்த காதல் ரகசியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-197d8df0)
+- 2026-05-31 | `tamilmirrorlk-9a28de2d` | அதிரடி காட்டிய  ’பைக் ரேஸர்கள்’ சிக்கினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-9a28de2d)
 - 2026-05-31 | `tamilmirrorlk-e21c3c8b` | சிரேஷ்ட ஊடகவியலாளர் நடேசனின் 22ஆம் ஆண்டு நினைவு தினம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-e21c3c8b)
 - 2026-05-31 | `tamilmirrorlk-b0073f24` | மகுடம் யாருக்கு? IPL இறுதிப்போட்டி இன்று... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-b0073f24)
 - 2026-05-31 | `dailymirrorlk-9ab62522` | Five advanced mammography units to boost cancer detection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-dailymirrorlk-9ab62522)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-05-31 | `virakesarilk-8656b8cc` | எதிர்மறை தோற்றப்பாட்டாளர்களின் பொறி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-8656b8cc)
 - 2026-05-31 | `tamilmirrorlk-a1140a07` | “5 சதவீதத்தால் கட்டணத்தை அதிகரிக்கவும்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-tamilmirrorlk-a1140a07)
 - 2026-05-31 | `virakesarilk-ec25add5` | அட்டமஸ்தானாதிபதி விவகாரமும் சட்டத்தின் முன் சகலரும் சமம்  என்ற கோட்பாட்டின் கதியும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-ec25add5)
-- 2026-05-31 | `virakesarilk-604b8704` | யாழ். மாவட்டச் செயலகத்தில் வெசாக் பௌர்ணமி தின நிகழ்வு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-604b8704)
-- 2026-05-31 | `virakesarilk-ee0519b4` | யாழ். வடமராட்சியில் இரு வீடுகளிலிருந்து பணம் மற்றும் நகைகள் திருட்டு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-ee0519b4)
-- 2026-05-31 | `virakesarilk-421cd55f` | கொங்கோவில் கட்டுக்கடங்காமல் பரவும் எபோலா வைரஸ்: மருத்துவக் தொண்டு நிறுவனம் எச்சரிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-05-31-virakesarilk-421cd55f)
 
 ---
 
