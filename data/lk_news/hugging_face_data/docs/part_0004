@@ -212032,5 +212032,71 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780241923.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-31-tamilmirrorlk-8b13c297",
+    "num": "tamilmirrorlk-8b13c297",
+    "date_str": "2026-05-31",
+    "description": "\u0b90.\u0baa\u0bbf.\u0b8e\u0bb2\u0bcd: \u0baa\u0bc6\u0b99\u0bcd\u0b95\u0bb3\u0bc2\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bc1 156 \u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b90-\u0baa\u0bbf-\u0b8e\u0bb2\u0bcd-\u0baa\u0bc6\u0b99\u0bcd\u0b95\u0bb3\u0bc2\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bc1-156-\u0b93\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd/44-377880",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780247372.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-31-tamilmirrorlk-e2afdf4a",
+    "num": "tamilmirrorlk-e2afdf4a",
+    "date_str": "2026-05-31",
+    "description": "\u0b90.\u0baa\u0bbf.\u0b8e\u0bb2\u0bcd: \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0b95 2\u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0b9f\u0bb5\u0bc8\u0baf\u0bbe\u0b95 \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bbe\u0ba9 \u0baa\u0bc6\u0b99\u0bcd\u0b95\u0bb3\u0bc2\u0bb0\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b90-\u0baa\u0bbf-\u0b8e\u0bb2\u0bcd-\u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0b95-2\u0b86\u0bb5\u0ba4\u0bc1-\u0ba4\u0b9f\u0bb5\u0bc8\u0baf\u0bbe\u0b95-\u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bbe\u0ba9-\u0baa\u0bc6\u0b99\u0bcd\u0b95\u0bb3\u0bc2\u0bb0\u0bc1/44-377881",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780250332.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-05-31-dailymirrorlk-eabc1880",
+    "num": "dailymirrorlk-eabc1880",
+    "date_str": "2026-05-31",
+    "description": "Back-to-back Champions! RCB Dominate Gujarat to Retain IPL Title",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Back-to-back-Champions-RCB-Dominate-Gujarat-to-Retain-IPL-Title/108-341617",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780250498.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-01-dailymirrorlk-b2d407c7",
+    "num": "dailymirrorlk-b2d407c7",
+    "date_str": "2026-06-01",
+    "description": "Sampath Bank-JKCG Auto offer preferential rates for NEV buyers",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sampath-Bank-JKCG-Auto-offer-preferential-rates-for-NEV-buyers/273-341618",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780252547.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-01-dailymirrorlk-7723139e",
+    "num": "dailymirrorlk-7723139e",
+    "date_str": "2026-06-01",
+    "description": "Sri Lanka Insurance Corporation General introduces SLICGL Digital app",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-Insurance-Corporation-General-introduces-SLICGL-Digital-app/273-341619",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780252660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-01-dailymirrorlk-9b7f85b4",
+    "num": "dailymirrorlk-9b7f85b4",
+    "date_str": "2026-06-01",
+    "description": "Swadeshi Khomba Baby Soap receives SLS certification",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Swadeshi-Khomba-Baby-Soap-receives-SLS-certification/273-341620",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780252768.0
   }
 ]

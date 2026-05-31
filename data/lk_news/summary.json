@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-05-31 22:13:29",
-  "n_docs": 115634,
+  "time_updated": "2026-06-01 00:14:05",
+  "n_docs": 115640,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 115634,
+  "n_docs_with_text": 115640,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-05-31",
-  "dataset_size": 1799606073,
+  "date_str_max": "2026-06-01",
+  "dataset_size": 1799658287,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-05-31-dailymirrorlk-332735e3",
-    "num": "dailymirrorlk-332735e3",
-    "date_str": "2026-05-31",
-    "description": "Worst ever IPL?",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Worst-ever-IPL/108-341616",
+    "doc_id": "2026-06-01-dailymirrorlk-9b7f85b4",
+    "num": "dailymirrorlk-9b7f85b4",
+    "date_str": "2026-06-01",
+    "description": "Swadeshi Khomba Baby Soap receives SLS certification",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Swadeshi-Khomba-Baby-Soap-receives-SLS-certification/273-341620",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780241923.0
+    "time_ut": 1780252768.0
   }
 }
