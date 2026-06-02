@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--03_01:06:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--03_02:53:13-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,022** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,054** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-02-dailymirrorlk-8c289426",
-    "num": "dailymirrorlk-8c289426",
-    "date_str": "2026-06-02",
-    "description": "Police recover rare Mini Uzi-style firearm hidden in Colombo cemetery",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-recover-rare-Mini-Uzi-style-firearm-hidden-in-Colombo-cemetery/108-341806",
+    "doc_id": "2026-06-03-dailymirrorlk-bb315e32",
+    "num": "dailymirrorlk-bb315e32",
+    "date_str": "2026-06-03",
+    "description": "CBSL launches anti-scam drive as fraud risks grow",
+    "url_metadata": "https://www.dailymirror.lk/business-main/CBSL-launches-anti-scam-drive-as-fraud-risks-grow/245-341822",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780417643.0
+    "time_ut": 1780435114.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-03 | `dailymirrorlk-bb315e32` | CBSL launches anti-scam drive as fraud risks grow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-bb315e32)
+- 2026-06-03 | `dailymirrorlk-c259ac46` | Morison eyes export drive as local pharma manufacturing reaches critical mass | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-c259ac46)
+- 2026-06-03 | `dailymirrorlk-65743255` | South Korea overtakes India as world’s sixth-largest stock market on AI-fuelled chip rally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-65743255)
+- 2026-06-03 | `dailymirrorlk-bc4370e0` | SEC cautions public against depositing funds with Samagi Capital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-bc4370e0)
+- 2026-06-03 | `dailymirrorlk-5ba7473f` | Kerner Haus seeks Rs. 420mn via rights for real estate acquisitions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-5ba7473f)
+- 2026-06-03 | `dailymirrorlk-26479e6c` | Indices close in red, with foreign buying | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-26479e6c)
+- 2026-06-03 | `dailymirrorlk-fd728eef` | Yield curve holds firm amid mixed investor sentiment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-fd728eef)
+- 2026-06-03 | `dailymirrorlk-0b57b707` | Garment Exporters Chamber presents SLCGE Design Hub proposal to Industry Ministry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-0b57b707)
+- 2026-06-03 | `dailymirrorlk-accec326` | Janashakthi Finance delivers strong 4Q growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-accec326)
+- 2026-06-03 | `dailymirrorlk-51783905` | CSE-Sampath Bank strengthen capital market access | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-51783905)
+- 2026-06-03 | `dailymirrorlk-bc5e7196` | SDF appoints Saliya Ranasinghe to board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-bc5e7196)
+- 2026-06-03 | `dailymirrorlk-72b8763c` | DFCC Bank among Sri Lanka’s Top 10 Mom-Inclusive Workplaces | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-72b8763c)
+- 2026-06-03 | `dailymirrorlk-5b70c27c` | BOC installs Digital Tills on Kiri Vehera, Kataragama Devalaya premises | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-5b70c27c)
+- 2026-06-03 | `dailymirrorlk-cd6a45a5` | Lanka Hospitals celebrates 2025 milestones | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-cd6a45a5)
+- 2026-06-03 | `dailymirrorlk-77cb4ea4` | Meridian Talent counters AI-led hiring with human-first recruitment model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-77cb4ea4)
+- 2026-06-03 | `dailymirrorlk-d8dca68f` | NCPC launches National Cleaner Production Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-d8dca68f)
 - 2026-06-02 | `dailymirrorlk-8c289426` | Police recover rare Mini Uzi-style firearm hidden in Colombo cemetery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-8c289426)
-- 2026-06-02 | `tamilmirrorlk-0d996659` | பாலியல் தொழிலுக்கு அங்கீகாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-0d996659)
-- 2026-06-02 | `tamilmirrorlk-f8f1db00` | பாகிஸ்தான் கப்பல்கள் கொழும்பை வந்தடைந்தன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-f8f1db00)
-- 2026-06-02 | `adalk-0cc3ce79` | පාකිස්තාන යුද නෞකා දෙකක් හා සබ්මැරීනයක් කොළඹට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-adalk-0cc3ce79)
-- 2026-06-02 | `tamilmirrorlk-46206b61` | சிசுவை கிணற்றில் வீசி கூச்சலிட்ட  தாய் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-46206b61)
-- 2026-06-02 | `tamilmirrorlk-14d240bf` | பேருந்து கட்டணங்கள் அதிகரிக்கப்படாது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-14d240bf)
-- 2026-06-02 | `dailymirrorlk-0481e0ef` | Nuwara Eliya PS chairman claims signature forged to approve salaries | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-0481e0ef)
-- 2026-06-02 | `dailymirrorlk-3d9cb688` | Middle east tensions weigh on CSE as selling pressure intensifies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-3d9cb688)
-- 2026-06-02 | `virakesarilk-d7a32a5a` | தனது சத்தியப்பிரமாண உறுதிமொழியை மீறி, திட்டமிட்டு அரசியலமைப்பை மீறியுள்ளார் ஜனாதிபதி - விஜேதாச ராஜபக்ஷ குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-virakesarilk-d7a32a5a)
-- 2026-06-02 | `virakesarilk-5035d78d` | தனியார் பேருந்துகளுக்கான எரிபொருளுக்கு லீற்றருக்கு 25 ரூபா மானியம் கோருகிறது பேருந்து உரிமையாளர் சங்கம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-virakesarilk-5035d78d)
-- 2026-06-02 | `tamilmirrorlk-0cc9d967` | அஷ்கரின் முதல் மனைவியின் கண்ணீர் கதை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-0cc9d967)
-- 2026-06-02 | `dailymirrorlk-af225a77` | No bus fare hike despite fuel price increase: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-af225a77)
-- 2026-06-02 | `virakesarilk-f3b06631` | சிறுவர்களை துஷ்பிரயோகத்திலிருந்து பாதுகாப்பதற்கான சட்டங்களை உருவாக்க அனைத்துக் குழுக்களுடனும் ஆலோசனைகளை நடத்துங்கள் - ஐ.தே.க அரசிடம் வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-virakesarilk-f3b06631)
-- 2026-06-02 | `tamilmirrorlk-a5b37b19` | ரொட்டித் தன்சல விபத்து: கெப் உரிமையாளருக்கு பயணத் தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-a5b37b19)
-- 2026-06-02 | `tamilmirrorlk-a53e32d6` | ரங்கலவில் கொடூரம்: யுவதி ரகசியமாகப் புதைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-a53e32d6)
-- 2026-06-02 | `virakesarilk-c185226e` | நடிகை அபிநயா நடிக்கும் 'இரட்டையர்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-virakesarilk-c185226e)
-- 2026-06-02 | `virakesarilk-172b6bdf` | யாழ். பல்கலையில் வெசாக் கூடு சேதமாக்கப்பட்ட சம்பவம் - தமிழ் மாணவர்கள் மீது குற்றம் சுமத்த வேண்டாம் என மாணவர் ஒன்றியம் அறிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-virakesarilk-172b6bdf)
-- 2026-06-02 | `virakesarilk-fd137e0d` | அனலைதீவுக்கு கடற்படையின் விசேட படகில் எடுத்து செல்லப்பட்ட பேருந்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-virakesarilk-fd137e0d)
-- 2026-06-02 | `virakesarilk-42b3cf61` | அரசாங்கத்தின் ஸ்திரத்தன்மை பாதிக்கப்படுவதற்கு ஒருபோதும் இடமளிக்கப்பட மாட்டாது - அமைச்சரவை பேச்சாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-virakesarilk-42b3cf61)
-- 2026-06-02 | `dailymirrorlk-b06e806c` | At least 12 people killed, dozens wounded in Russian attacks on Ukraine | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-b06e806c)
+- 2026-06-02 | `virakesarilk-b5179b68` | 'Be Scam Proof' : ஜூன் மாதத்தை நிதி நுகர்வோர் பாதுகாப்பு மாதமாக பிரகடனப்படுத்தியது மத்திய வங்கி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-virakesarilk-b5179b68)
+- 2026-06-02 | `virakesarilk-7c8b477c` | லலித்குமார் – குகன் காணாமலாக்கல் வழக்கு: கோட்டாபய ராஜபக்ஷ சாட்சியமளிக்க வேண்டும் – சட்டத்தரணி நுவான் போபகே வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-virakesarilk-7c8b477c)
+- 2026-06-02 | `virakesarilk-480ee057` | இலங்கையின் மாதாந்த எரிபொருள் இறக்குமதிச் செலவு 521 மில்லியன் டொலராக அதிகரித்துள்ளது - நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-virakesarilk-480ee057)
 
 ---
 
