@@ -215709,6 +215709,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-02-adalk-b7710fa4",
+    "num": "adalk-b7710fa4",
+    "date_str": "2026-06-02",
+    "description": "\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0db4\u0dc4\u0dad \u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd-\u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca-\u0db4\u0dc4\u0dad-\u0dc0\u0dd0\u0da7\u0dd9\u0dba\u0dd2/11-422703",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780392299.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-02-dailymirrorlk-c54d6761",
     "num": "dailymirrorlk-c54d6761",
     "date_str": "2026-06-02",
@@ -215717,5 +215728,115 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780392318.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-02-tamilmirrorlk-87ec45ee",
+    "num": "tamilmirrorlk-87ec45ee",
+    "date_str": "2026-06-02",
+    "description": "\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0b87\u0bb4\u0ba8\u0bcd\u0ba4 \u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8-\u0b87\u0bb4\u0ba8\u0bcd\u0ba4-\u0bae\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb3\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-377969",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780395213.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-02-adalk-3bee9119",
+    "num": "adalk-3bee9119",
+    "date_str": "2026-06-02",
+    "description": "\u0d91\u0dad\u0db1\u0ddd\u0dbd\u0dca, \u0dc3\u0dad\u0dca\u0dc0 \u0d86\u0dc4\u0dcf\u0dbb \u0dc4\u0dcf \u0d9a\u0dcf\u0dbb\u0dca\u0db8\u0dd2\u0d9a \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4\u0dc0\u0dbd\u0da7 \u0db7\u0dcf\u0dc0\u0dd2\u0dad \u0d9a\u0dbb\u0db1 \u0dc3\u0dc4\u0dbd\u0dca \u0d9c\u0dd0\u0db1 \u0daf\u0dad\u0dca\u0dad \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0dad\u0db1\u0ddd\u0dbd\u0dca--\u0dc3\u0dad\u0dca\u0dc0-\u0d86\u0dc4\u0dcf\u0dbb-\u0dc4\u0dcf-\u0d9a\u0dcf\u0dbb\u0dca\u0db8\u0dd2\u0d9a-\u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4\u0dc0\u0dbd\u0da7-\u0db7\u0dcf\u0dc0\u0dd2\u0dad-\u0d9a\u0dbb\u0db1-\u0dc3\u0dc4\u0dbd\u0dca-\u0d9c\u0dd0\u0db1-\u0daf\u0dad\u0dca\u0dad-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0d9a\u0dca-\u0db1\u0dd1/11-422704",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780395410.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-02-tamilmirrorlk-75967ed1",
+    "num": "tamilmirrorlk-75967ed1",
+    "date_str": "2026-06-02",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1 \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bc8-\u0baa\u0bbf\u0bb0\u0bbf\u0b9f\u0bcd\u0b9f\u0ba9\u0bbf\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1-\u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1/175-377970",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780395754.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-02-tamilmirrorlk-c8168360",
+    "num": "tamilmirrorlk-c8168360",
+    "date_str": "2026-06-02",
+    "description": "\u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0bb5\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb3\u0bbf\u0baf\u0bc1\u0bae\u0bcd, \u0b85\u0ba9\u0bcd\u0baa\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4-\u0bb5\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb3\u0bbf\u0baf\u0bc1\u0bae\u0bcd-\u0b85\u0ba9\u0bcd\u0baa\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0bae\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-377971",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780396059.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-02-dailymirrorlk-3ce99130",
+    "num": "dailymirrorlk-3ce99130",
+    "date_str": "2026-06-02",
+    "description": "Prepare for El Ni\u00f1o, UN warns - it could be the strongest in decades",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prepare-for-El-Ni\u00f1o-UN-warns-it-could-be-the-strongest-in-decades/108-341796",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780396555.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-02-tamilmirrorlk-049530b6",
+    "num": "tamilmirrorlk-049530b6",
+    "date_str": "2026-06-02",
+    "description": "\u0bb5\u0bbe\u0b95\u0ba9 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbe\u0b95\u0ba9-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-377972",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780396711.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-02-tamilmirrorlk-063625bb",
+    "num": "tamilmirrorlk-063625bb",
+    "date_str": "2026-06-02",
+    "description": "\u0b95\u0bc1\u0bb3\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf \u0baa\u0bb2\u0bbf; \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0bc1\u0bb3\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf-\u0baa\u0bb2\u0bbf-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd/76-377973",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780397496.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-02-dailymirrorlk-979e16ff",
+    "num": "dailymirrorlk-979e16ff",
+    "date_str": "2026-06-02",
+    "description": "Pakistan naval trio arrives at Colombo Port",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pakistan-naval-trio-arrives-at-Colombo-Port/108-341797",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780397905.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-02-tamilmirrorlk-554971c0",
+    "num": "tamilmirrorlk-554971c0",
+    "date_str": "2026-06-02",
+    "description": "\u0b95\u0bbe\u0ba4\u0bb2\u0bcd \u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0baf\u0ba8\u0bcd\u0ba4 \u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd \u0bae\u0b95\u0bb3\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0ba4\u0bb2\u0bcd-\u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bcd-\u0b95\u0ba3\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0baf\u0ba8\u0bcd\u0ba4-\u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd-\u0bae\u0b95\u0bb3\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/50-377974",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780398041.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-02-dailymirrorlk-a4947fcd",
+    "num": "dailymirrorlk-a4947fcd",
+    "date_str": "2026-06-02",
+    "description": "Senior lawyers challenge summons issued on High Court Judge",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Senior-lawyers-challenge-summons-issued-on-High-Court-Judge/108-341798",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780398294.0
   }
 ]

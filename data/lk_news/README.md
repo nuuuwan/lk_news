@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--02_15:18:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--02_17:19:26-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**115,969** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**115,980** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-02-dailymirrorlk-c54d6761",
-    "num": "dailymirrorlk-c54d6761",
+    "doc_id": "2026-06-02-dailymirrorlk-a4947fcd",
+    "num": "dailymirrorlk-a4947fcd",
     "date_str": "2026-06-02",
-    "description": "Cabinet approves new plan to tackle oil, chemical spills",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-new-plan-to-tackle-oil-chemical-spills/108-341790",
+    "description": "Senior lawyers challenge summons issued on High Court Judge",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Senior-lawyers-challenge-summons-issued-on-High-Court-Judge/108-341798",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780392318.0
+    "time_ut": 1780398294.0
 }
 ```
 
@@ -41,7 +41,18 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-02 | `dailymirrorlk-a4947fcd` | Senior lawyers challenge summons issued on High Court Judge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-a4947fcd)
+- 2026-06-02 | `tamilmirrorlk-554971c0` | காதல் சின்னத்தைக் கண்டு வியந்த டிரம்ப் மகள் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-554971c0)
+- 2026-06-02 | `dailymirrorlk-979e16ff` | Pakistan naval trio arrives at Colombo Port | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-979e16ff)
+- 2026-06-02 | `tamilmirrorlk-063625bb` | குளவிக்கொட்டியதில் தொழிலாளி பலி; இருவர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-063625bb)
+- 2026-06-02 | `tamilmirrorlk-049530b6` | வாகன விபத்தில் சிறுமி படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-049530b6)
+- 2026-06-02 | `dailymirrorlk-3ce99130` | Prepare for El Niño, UN warns - it could be the strongest in decades | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-3ce99130)
+- 2026-06-02 | `tamilmirrorlk-c8168360` | அழைப்பில்லாத விருந்தாளியும், அன்பளிப்பும் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-c8168360)
+- 2026-06-02 | `tamilmirrorlk-75967ed1` | இலங்கை தமிழர்களை பிரிட்டனில் இருந்து வெளியேற்ற உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-75967ed1)
+- 2026-06-02 | `adalk-3bee9119` | එතනෝල්, සත්ව ආහාර හා කාර්මික කටයුතුවලට භාවිත කරන සහල් ගැන දත්ත පද්ධතියක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-adalk-3bee9119)
+- 2026-06-02 | `tamilmirrorlk-87ec45ee` | கட்டுப்பாட்டை இழந்த மோட்டார் சைக்கிள் விபத்து (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-87ec45ee)
 - 2026-06-02 | `dailymirrorlk-c54d6761` | Cabinet approves new plan to tackle oil, chemical spills | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-c54d6761)
+- 2026-06-02 | `adalk-b7710fa4` | රුපියල තවදුරටත් පහත වැටෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-adalk-b7710fa4)
 - 2026-06-02 | `dailymirrorlk-3da9d0e5` | Rs. 1.09bn approved to restore Colombo-Katunayake Expressway lighting | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-3da9d0e5)
 - 2026-06-02 | `dailymirrorlk-0122bc74` | Cabinet approves lubricant supply contracts for Sapugaskanda Power Station | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-0122bc74)
 - 2026-06-02 | `tamilmirrorlk-b9c23f7b` | பாஜகவிலிருந்து விலகுகிறார் அண்ணாமலை? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-b9c23f7b)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2026-06-02 | `dailymirrorlk-a1fc1dd4` | Sri Lanka Cricket releases player contracts for 2026–27 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-a1fc1dd4)
 - 2026-06-02 | `adalk-3082dc3b` | මූල්‍ය වංචා මැඬපැවැත්වීමට බැංකු අංශය සන්නද්ධයි - SLBA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-adalk-3082dc3b)
 - 2026-06-02 | `tamilmirrorlk-98fb5e22` | ‘சீ ரேஞ்சர்’ கொழும்பை வந்தடைந்தன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-98fb5e22)
-- 2026-06-02 | `dailymirrorlk-8e2628c0` | Oil slips after Trump says talks with Iran are ongoing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-8e2628c0)
-- 2026-06-02 | `tamilmirrorlk-2f05a824` | காணொளி வாயிலாக சாட்சியளிக்குமாறு கோட்டாவுக்கு உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-2f05a824)
-- 2026-06-02 | `dailymirrorlk-a869e011` | Bakthi Gee at Gangaramaya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-a869e011)
-- 2026-06-02 | `dailymirrorlk-d2caf9fb` | US-gifted TH-57 ‘Sea Ranger’ helicopters arrive in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-d2caf9fb)
-- 2026-06-02 | `dailymirrorlk-b41602c5` | Rough seas forecast along Western, Southern and Eastern coastlines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-b41602c5)
-- 2026-06-02 | `dailymirrorlk-3906a760` | Buddhist pilgrims affected as air fares rise amid dollar surge: Tour Organizers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-3906a760)
-- 2026-06-02 | `adalk-74ff9b0b` | ජොන්ස්ටන් නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-adalk-74ff9b0b)
-- 2026-06-02 | `dailymirrorlk-e87b2d36` | Court summons two lawyers in Kapila Chandrasena’s death case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-e87b2d36)
-- 2026-06-02 | `dailymirrorlk-736cd627` | Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-736cd627)
-- 2026-06-02 | `tamilmirrorlk-a61b4027` | அள்ளிய தண்டவாளங்களை பார்வையிட்ட மஞ்சுள எம்.பி (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-a61b4027)
-- 2026-06-02 | `tamilmirrorlk-b2a73fe6` | நாளை காலை 10.30 வரை எச்சரிக்கையாக இருங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-tamilmirrorlk-b2a73fe6)
 
 ---
 
