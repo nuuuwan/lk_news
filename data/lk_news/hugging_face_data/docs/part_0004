@@ -216289,5 +216289,16 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1780413909.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-02-dailymirrorlk-8c289426",
+    "num": "dailymirrorlk-8c289426",
+    "date_str": "2026-06-02",
+    "description": "Police recover rare Mini Uzi-style firearm hidden in Colombo cemetery",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-recover-rare-Mini-Uzi-style-firearm-hidden-in-Colombo-cemetery/108-341806",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780417643.0
   }
 ]
