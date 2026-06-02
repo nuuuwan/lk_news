@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--03_02:53:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--03_04:32:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,054** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,057** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-03-dailymirrorlk-bb315e32",
-    "num": "dailymirrorlk-bb315e32",
+    "doc_id": "2026-06-03-dailymirrorlk-09cc835c",
+    "num": "dailymirrorlk-09cc835c",
     "date_str": "2026-06-03",
-    "description": "CBSL launches anti-scam drive as fraud risks grow",
-    "url_metadata": "https://www.dailymirror.lk/business-main/CBSL-launches-anti-scam-drive-as-fraud-risks-grow/245-341822",
+    "description": "govt. is not heading towards a Gotabaya style economic free-fall but a Yahapalanaya-themed stagnation",
+    "url_metadata": "https://www.dailymirror.lk/opinion/govt-is-not-heading-towards-a-Gotabaya-style-economic-free-fall-but-a-Yahapalanaya-themed-stagnation/172-341826",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780435114.0
+    "time_ut": 1780436715.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-03 | `dailymirrorlk-09cc835c` | govt. is not heading towards a Gotabaya style economic free-fall but a Yahapalanaya-themed stagnation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-09cc835c)
+- 2026-06-03 | `dailymirrorlk-87bb338f` | The promise that never comes true | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-87bb338f)
+- 2026-06-03 | `dailymirrorlk-b416ae3b` | Another tragedy due to drunk driving | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-b416ae3b)
 - 2026-06-03 | `dailymirrorlk-bb315e32` | CBSL launches anti-scam drive as fraud risks grow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-bb315e32)
 - 2026-06-03 | `dailymirrorlk-c259ac46` | Morison eyes export drive as local pharma manufacturing reaches critical mass | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-c259ac46)
 - 2026-06-03 | `dailymirrorlk-65743255` | South Korea overtakes India as world’s sixth-largest stock market on AI-fuelled chip rally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-65743255)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-06-03 | `dailymirrorlk-77cb4ea4` | Meridian Talent counters AI-led hiring with human-first recruitment model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-77cb4ea4)
 - 2026-06-03 | `dailymirrorlk-d8dca68f` | NCPC launches National Cleaner Production Awards 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-d8dca68f)
 - 2026-06-02 | `dailymirrorlk-8c289426` | Police recover rare Mini Uzi-style firearm hidden in Colombo cemetery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-dailymirrorlk-8c289426)
-- 2026-06-02 | `virakesarilk-b5179b68` | 'Be Scam Proof' : ஜூன் மாதத்தை நிதி நுகர்வோர் பாதுகாப்பு மாதமாக பிரகடனப்படுத்தியது மத்திய வங்கி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-virakesarilk-b5179b68)
-- 2026-06-02 | `virakesarilk-7c8b477c` | லலித்குமார் – குகன் காணாமலாக்கல் வழக்கு: கோட்டாபய ராஜபக்ஷ சாட்சியமளிக்க வேண்டும் – சட்டத்தரணி நுவான் போபகே வலியுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-virakesarilk-7c8b477c)
-- 2026-06-02 | `virakesarilk-480ee057` | இலங்கையின் மாதாந்த எரிபொருள் இறக்குமதிச் செலவு 521 மில்லியன் டொலராக அதிகரித்துள்ளது - நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-02-virakesarilk-480ee057)
 
 ---
 

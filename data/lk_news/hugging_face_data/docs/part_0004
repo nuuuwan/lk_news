@@ -216652,5 +216652,38 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780435114.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-03-dailymirrorlk-b416ae3b",
+    "num": "dailymirrorlk-b416ae3b",
+    "date_str": "2026-06-03",
+    "description": "Another tragedy due to drunk driving",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Another-tragedy-due-to-drunk-driving/172-341823",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780435693.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-03-dailymirrorlk-87bb338f",
+    "num": "dailymirrorlk-87bb338f",
+    "date_str": "2026-06-03",
+    "description": "The promise that never comes true",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-promise-that-never-comes-true/172-341824",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780436048.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-03-dailymirrorlk-09cc835c",
+    "num": "dailymirrorlk-09cc835c",
+    "date_str": "2026-06-03",
+    "description": "govt. is not heading towards a Gotabaya style economic free-fall but a Yahapalanaya-themed stagnation",
+    "url_metadata": "https://www.dailymirror.lk/opinion/govt-is-not-heading-towards-a-Gotabaya-style-economic-free-fall-but-a-Yahapalanaya-themed-stagnation/172-341826",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780436715.0
   }
 ]
