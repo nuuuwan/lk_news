@@ -1,0 +1,27 @@
+Sysco wins Newsweek’s 2026 AI Impact Award for AI brand and retail excellence
+
+Sysco Corporation has been awarded a 2026 Newsweek AI Impact Award for an innovative enterprise-wide artificial intelligence (AI) application that enhances supply chain processes, drives sales productivity, and elevates the customer e-commerce experience.
+
+Sysco is being recognised in the AI Brand and Retail – Best Outcomes category for creating and scaling the Sysco Agentic Ecosystem (SAGE), a company-wide AI capability designed to help move AI from experimentation into everyday business operations across sales, supply chain, customer experience, and back-office functions.
+
+Sysco Interim Chief Information and Digital Officer Navin Advani said: “SAGE represents a major step forward in responsible AI operationalisation across a complex, global enterprise. By embedding AI directly into workflows – from sales enablement and customer engagement to supply chain planning, inventory optimisation, and back-office functions – we are transforming AI from a set of tools into a durable operating capability.”
+
+Newsweek’s AI Impact Awards recognise organisations that demonstrate measurable, real-world impact from AI, honouring innovations that go beyond experimentation to drive lasting operational and business value.
+
+This recognition underscores Sysco’s leadership in applying AI responsibly to solve complex retail and supply chain challenges at enterprise scale—setting a benchmark for how agentic AI can be operationalised across industries.
+
+Sysco LABS Sri Lanka Managing Director Thushera Kawdawatta said: “Receiving Newsweek’s 2026 AI Impact Award for AI Brand and Retail Excellence is a tremendous milestone for the entire Sysco ecosystem. We are incredibly proud of our teams at Sysco LABS in Sri Lanka, who have been instrumental in engineering SAGE. By developing these enterprise-grade capabilities, we are doing more than just advancing digital transformation; we are empowering our people with the intelligence to do higher-value, high-impact work. This global recognition, alongside our recent wins at the Presidential Export Awards and SLASSCOM National Ingenuity Awards, proves that the world-class innovation originating from Colombo is actively shaping the future of our business on a global scale.”
+
+SAGE helps teams across Sysco automate workflows, surface insights faster, and improve decision-making with AI-enabled capabilities supported by human oversight. This architecture supports a broad range of business-critical use cases, including:
+
+nE-commerce and sales enablement, powering more personalised digital experiences and smarter product discovery through Sysco Shop while enabling sales consultants with Next Best Actions (NBAs)
+
+nSupply chain optimisation, helping teams improve forecasting, inventory decisions, product flow, and service reliability
+
+nPrediction and forecasting, using real-time signals to help teams respond more proactively to changing customer demand and operational conditions
+
+Within months of deployment, SAGE is being scaled from pilots to production, powering multiple live agentic solutions and supporting millions of business interactions across Sysco’s enterprise.
+
+SAGE is the connective intelligence layer unifying external capabilities and models with Sysco’s internal data and systems to build AI-powered workflows across Sysco’s businesses. Unlike traditional AI platforms, SAGE is model-agnostic and can run on any cloud infrastructure. This design allows Sysco to adopt new AI technologies while maintaining strong security, compliance, and human-in-the-loop controls.
+
+By standardising the development, governance, and deployment of agents, SAGE enables Sysco to rapidly scale AI solutions to drive faster Time to Value across Sysco businesses.
