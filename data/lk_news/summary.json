@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-03 13:29:43",
-  "n_docs": 116153,
+  "time_updated": "2026-06-03 15:24:33",
+  "n_docs": 116165,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 116153,
+  "n_docs_with_text": 116165,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-03",
-  "dataset_size": 1808661259,
+  "dataset_size": 1809120843,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-03-virakesarilk-52e2179c",
-    "num": "virakesarilk-52e2179c",
+    "doc_id": "2026-06-03-dailymirrorlk-a15255cb",
+    "num": "dailymirrorlk-a15255cb",
     "date_str": "2026-06-03",
-    "description": "\u0b85\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc2\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd; \u0b85\u0bb1\u0bbf\u0bb5\u0bc8 \u0b85\u0bb2\u0bcd\u0bb2: \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3 \u0ba8\u0bc2\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bc2\u0bb2\u0b95\u0bae\u0bcd  \u0bb5\u0bb0\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/248659",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1780472880.0
+    "description": "Four arrested with 19 revolvers in Dematagoda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-arrested-with-19-revolvers-in-Dematagoda/108-341891",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780479631.0
   }
 }
