@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--03_17:22:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--03_19:27:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,176** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,189** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-03-tamilmirrorlk-724b1250",
-    "num": "tamilmirrorlk-724b1250",
+    "doc_id": "2026-06-03-dailymirrorlk-5b324bae",
+    "num": "dailymirrorlk-5b324bae",
     "date_str": "2026-06-03",
-    "description": "\u0baa\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b95\u0bb2\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bb0\u0bc8 \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b95\u0bb2\u0bbf\u0bb2\u0bcd-\u0bae\u0bc2\u0ba9\u0bcd\u0bb1\u0bb0\u0bc8-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8/175-378031",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1780485091.0
+    "description": "23,000 teachers to be recruited by end of 2026, says PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/23-000-teachers-to-be-recruited-by-end-of-2026-says-PM/108-341900",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780492781.0
 }
 ```
 
@@ -41,8 +41,18 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-03 | `dailymirrorlk-5b324bae` | 23,000 teachers to be recruited by end of 2026, says PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-5b324bae)
+- 2026-06-03 | `dailymirrorlk-f0308059` | Rs. 13.5 billion allocated for national school development in 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-f0308059)
+- 2026-06-03 | `dailymirrorlk-6c484c1c` | Health Ministry to recruit 3,000 nursing students | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-6c484c1c)
+- 2026-06-03 | `dailymirrorlk-0633f5c1` | Rs. 35 million robbed from Horana People’s Bank | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-0633f5c1)
+- 2026-06-03 | `dailymirrorlk-74747a19` | Parliamentary Select Committee invites public proposals on review of election laws | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-74747a19)
+- 2026-06-03 | `dailymirrorlk-7f9118e1` | Global tariffs and geopolitical shockwaves trigger broad market selloff on CSE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-7f9118e1)
+- 2026-06-03 | `tamilmirrorlk-0a4434a9` | இலங்கையை வீழ்த்துமா மேற்கிந்தியத் தீவுகள்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-tamilmirrorlk-0a4434a9)
+- 2026-06-03 | `adalk-60ae59f1` | සුව සැරිය අඛණ්ඩව ක්‍රියාත්මකයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-adalk-60ae59f1)
 - 2026-06-03 | `tamilmirrorlk-724b1250` | பட்டப்பகலில் மூன்றரை கோடி ரூபாய் கொள்ளை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-tamilmirrorlk-724b1250)
 - 2026-06-03 | `tamilmirrorlk-0a324c40` | சிவனொளிபாத மலையில் ’தூய்மைப் புரட்சி’ (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-tamilmirrorlk-0a324c40)
+- 2026-06-03 | `adalk-ee8143c8` | රිදියගම සෆාරියේ සමනල උයන විවෘත කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-adalk-ee8143c8)
+- 2026-06-03 | `adalk-205221df` | වී වේලීම හා ගබඩා පහසුකම් නංවන්න රුපියල් මිලියන 1000ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-adalk-205221df)
 - 2026-06-03 | `tamilmirrorlk-f744f531` | பெண் காவலருக்குப் பாலியல் தொல்லை: நீதிமன்றம் அதிரடி நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-tamilmirrorlk-f744f531)
 - 2026-06-03 | `tamilmirrorlk-5b041bba` | நீதிமன்றக் கோப்புத் திருட்டு: இருவர் இடைநீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-tamilmirrorlk-5b041bba)
 - 2026-06-03 | `dailymirrorlk-6b032ff4` | Vested interests behind extension of judicial officers’ retirement age | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-6b032ff4)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-06-03 | `tamilmirrorlk-efeeb9bb` | ’வித்தியாசமான’ வெசாக் விருந்து  அண்டாரக்கதை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-tamilmirrorlk-efeeb9bb)
 - 2026-06-03 | `adalk-15d75f95` | බල නහරයක් කියලා එකක් නෑ, මරණකරුම කැපුම් තුවාල කරගෙන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-adalk-15d75f95)
 - 2026-06-03 | `tamilmirrorlk-7b8e7434` | யாழ். வியாஸ்காந்துக்கு தேசிய ஒப்பந்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-tamilmirrorlk-7b8e7434)
-- 2026-06-03 | `dailymirrorlk-a15255cb` | Four arrested with 19 revolvers in Dematagoda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-a15255cb)
-- 2026-06-03 | `tamilmirrorlk-e0db1d41` | ’தெமட்டகொட சமின்த’வின் 19 ரிவோல்வர்கள் சிக்கின | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-tamilmirrorlk-e0db1d41)
-- 2026-06-03 | `dailymirrorlk-8fdbe53d` | Rupee slips further against US dollar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-8fdbe53d)
-- 2026-06-03 | `tamilmirrorlk-ef485c13` | உறுப்பு மாற்று அறுவை சிகிச்சை வழக்கில்   உயர் நீதிமன்றம் அதிரடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-tamilmirrorlk-ef485c13)
-- 2026-06-03 | `dailymirrorlk-0fab7c87` | Unemployed graduates' protest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-0fab7c87)
-- 2026-06-03 | `tamilmirrorlk-f6f99bbf` | இலங்கைக்கு 12.5% கூடுதல் வரி:  அமெரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-tamilmirrorlk-f6f99bbf)
-- 2026-06-03 | `dailymirrorlk-687cd15f` | Fire sweeps through a New Delhi building, killing at least 21 people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-687cd15f)
-- 2026-06-03 | `adalk-e237f7a1` | ලොව විශාලතම නිදහස් වෙළෙඳ ගිවිසුම සමඟ එක්වීමට ශ්‍රී ලංකාව සැරසෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-adalk-e237f7a1)
-- 2026-06-03 | `dailymirrorlk-33998ed8` | TikTok billionaire overtakes Mukesh Ambani as Asia’s second-richest person | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-33998ed8)
-- 2026-06-03 | `dailymirrorlk-e2496221` | Medical reports reveal PTSD, depression, anxiety in detained Suresh Salley | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-e2496221)
 
 ---
 
