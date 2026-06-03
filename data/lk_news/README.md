@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--03_06:58:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--03_08:59:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,076** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,090** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-03-dailyftlk-6a190774",
-    "num": "dailyftlk-6a190774",
+    "doc_id": "2026-06-03-tamilmirrorlk-9516c71f",
+    "num": "tamilmirrorlk-9516c71f",
     "date_str": "2026-06-03",
-    "description": "Pyramid Wilmar sets sights on doubling turnover in five years",
-    "url_metadata": "https://www.ft.lk/business/Pyramid-Wilmar-sets-sights-on-doubling-turnover-in-five-years/34-792817",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1780447676.0
+    "description": "\u0bb5\u0bbf\u0b9c\u0baf\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bca\u0b9f\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbe\u0baa\u0bb8\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0b9c\u0baf\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bca\u0b9f\u0bb0\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbe\u0baa\u0bb8\u0bcd/175-378001",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780455112.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-03 | `tamilmirrorlk-9516c71f` | விஜய் மீது தொடரப்பட்ட வழக்கு வாபஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-tamilmirrorlk-9516c71f)
+- 2026-06-03 | `tamilmirrorlk-b35a458e` | ’காப்புறுதிக் கூட்டுத்தாபனத்தில் பல பில்லியன் ரூபா முறைகேடுகள்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-tamilmirrorlk-b35a458e)
+- 2026-06-03 | `tamilmirrorlk-edce1b91` | எரிபொருள் விலை அதிகரிப்புக்கு அரசாங்கத்தின் ‘மாபியா’ காரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-tamilmirrorlk-edce1b91)
+- 2026-06-03 | `adalk-3140e338` | මනෝ විද්‍යාත්මක උපදේශන සේවා නියාමනයට දොරගුළු ඇරෙන යුගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-adalk-3140e338)
 - 2026-06-03 | `dailyftlk-6a190774` | Pyramid Wilmar sets sights on doubling turnover in five years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailyftlk-6a190774)
 - 2026-06-03 | `dailyftlk-4bcda303` | Tax: Four stories, one nation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailyftlk-4bcda303)
 - 2026-06-03 | `dailyftlk-1465c5e7` | REVIEW – Made in Nepal by Binod Chaudhary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailyftlk-1465c5e7)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-06-03 | `dailyftlk-0f794678` | India’s RS Infraprojects gets $ 6.04 m contract for Mullikulam Wind Power Transmission Project Lot A | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailyftlk-0f794678)
 - 2026-06-03 | `dailyftlk-381b0c60` | UNP calls for wider consultations on child protection laws and religious reform agenda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailyftlk-381b0c60)
 - 2026-06-03 | `dailyftlk-9cbb587f` | Three senior lawyers challenge summons issued on High Court Judge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailyftlk-9cbb587f)
-- 2026-06-03 | `dailyftlk-fdd4b184` | Fuel price hike unavoidable to ensure uninterrupted supplies: Cabinet Spokesman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailyftlk-fdd4b184)
-- 2026-06-03 | `dailymirrorlk-09cc835c` | govt. is not heading towards a Gotabaya style economic free-fall but a Yahapalanaya-themed stagnation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-09cc835c)
-- 2026-06-03 | `dailymirrorlk-87bb338f` | The promise that never comes true | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-87bb338f)
-- 2026-06-03 | `dailymirrorlk-b416ae3b` | Another tragedy due to drunk driving | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-03-dailymirrorlk-b416ae3b)
 
 ---
 
