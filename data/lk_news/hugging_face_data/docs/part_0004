@@ -218544,5 +218544,115 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1780508400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailyftlk-3537eb2e",
+    "num": "dailyftlk-3537eb2e",
+    "date_str": "2026-06-04",
+    "description": "MBC Networks names Buddhi as CEO",
+    "url_metadata": "https://www.ft.lk/business/MBC-Networks-names-Buddhi-as-CEO/34-792854",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780518191.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailyftlk-47492b32",
+    "num": "dailyftlk-47492b32",
+    "date_str": "2026-06-04",
+    "description": "4th Japan-Sri Lanka Committee on Business Environment meeting convenes",
+    "url_metadata": "https://www.ft.lk/business/4th-Japan-Sri-Lanka-Committee-on-Business-Environment-meeting-convenes/34-792855",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780518237.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailyftlk-79f39b79",
+    "num": "dailyftlk-79f39b79",
+    "date_str": "2026-06-04",
+    "description": "HayWind receives first 25 MW turbines for Mannar wind farm",
+    "url_metadata": "https://www.ft.lk/business/HayWind-receives-first-25-MW-turbines-for-Mannar-wind-farm/34-792856",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780518293.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailyftlk-0624dad8",
+    "num": "dailyftlk-0624dad8",
+    "date_str": "2026-06-04",
+    "description": "JAT posts record revenue in FY25/26, PBT up 5% despite external shocks",
+    "url_metadata": "https://www.ft.lk/business/JAT-posts-record-revenue-in-FY25-26-PBT-up-5-despite-external-shocks/34-792857",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780518432.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailyftlk-931a7ed8",
+    "num": "dailyftlk-931a7ed8",
+    "date_str": "2026-06-04",
+    "description": "Yoshitha Rajapaksa money laundering case:\u00a0 AG to not prosecute until Court of Appeal hears challenge",
+    "url_metadata": "https://www.ft.lk/news/Yoshitha-Rajapaksa-money-laundering-case-AG-to-not-prosecute-until-Court-of-Appeal-hears-challenge/56-792858",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780518482.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailyftlk-1b24d71b",
+    "num": "dailyftlk-1b24d71b",
+    "date_str": "2026-06-04",
+    "description": "BASL warns against extending judges\u2019 retirement age",
+    "url_metadata": "https://www.ft.lk/news/BASL-warns-against-extending-judges-retirement-age/56-792859",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780518562.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailyftlk-e2a60822",
+    "num": "dailyftlk-e2a60822",
+    "date_str": "2026-06-04",
+    "description": "Escaping the \u2018Roll-Over\u2019 debt trap: Why the MPCC matters",
+    "url_metadata": "https://www.ft.lk/columns/Escaping-the-Roll-Over-debt-trap-Why-the-MPCC-matters/4-792860",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780518947.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailyftlk-842ae1dc",
+    "num": "dailyftlk-842ae1dc",
+    "date_str": "2026-06-04",
+    "description": "Sri Lanka\u2019s economic recovery at crossroads: External pressures test recovery",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-s-economic-recovery-at-crossroads-External-pressures-test-recovery/4-792861",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780519124.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailyftlk-5239c2e2",
+    "num": "dailyftlk-5239c2e2",
+    "date_str": "2026-06-04",
+    "description": "The burden of power",
+    "url_metadata": "https://www.ft.lk/opinion/The-burden-of-power/14-792862",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780519228.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailyftlk-e2cb46f3",
+    "num": "dailyftlk-e2cb46f3",
+    "date_str": "2026-06-04",
+    "description": "AKD-JVP-NPP\u2019s philosophy of failure is a philosophy for failure",
+    "url_metadata": "https://www.ft.lk/columns/AKD-JVP-NPP-s-philosophy-of-failure-is-a-philosophy-for-failure/4-792864",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780519633.0
   }
 ]
