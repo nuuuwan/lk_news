@@ -219614,6 +219614,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-04-adalk-deed34ea",
+    "num": "adalk-deed34ea",
+    "date_str": "2026-06-04",
+    "description": "\u0dc3\u0dd2\u0dbb\u0d9a\u0dbb\u0dd4\u0dc0\u0d9a\u0dd4\u0d9c\u0dda \u0d9c\u0dd4\u0daf \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda \u0da2\u0d82\u0d9c\u0db8 \u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1\u0dba\u0d9a\u0dca, \u0dc4\u0dd0\u0db1\u0dca\u0da9\u0dca \u0db4\u0dca\u200d\u0dbb\u0dd2 \u0d91\u0d9a\u0d9a\u0dca \u0dc3\u0dc4 \u0d85\u0dba\u0dd2\u0dc3\u0dca \u0d9c\u0dd4\u0dbd\u0dd2\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dd2\u0dbb\u0d9a\u0dbb\u0dd4\u0dc0\u0d9a\u0dd4\u0d9c\u0dda-\u0d9c\u0dd4\u0daf-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0dba\u0dda-\u0da2\u0d82\u0d9c\u0db8-\u0daf\u0dd4\u0dbb\u0d9a\u0dae\u0db1\u0dba\u0d9a\u0dca--\u0dc4\u0dd0\u0db1\u0dca\u0da9\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dd2-\u0d91\u0d9a\u0d9a\u0dca-\u0dc3\u0dc4-\u0d85\u0dba\u0dd2\u0dc3\u0dca-\u0d9c\u0dd4\u0dbd\u0dd2\u0dba\u0d9a\u0dca/11-422733",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780551508.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-04-virakesarilk-c10ce5b6",
     "num": "virakesarilk-c10ce5b6",
     "date_str": "2026-06-04",
@@ -219622,6 +219633,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1780551600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-adalk-2a8a1f82",
+    "num": "adalk-2a8a1f82",
+    "date_str": "2026-06-04",
+    "description": "\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda \u0dc4\u0dcf \u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda \u0d9a\u0dd8\u0dad\u0dd3\u0db8 \u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0da2 \u0dc0\u0dd2\u0da9\u0dd2\u0dba\u0ddd \u0d9c\u0dd0\u0db1 \u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0daf\u0dd2\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0db1\u0db4\u0dad\u0dd2\u0d9c\u0dda-\u0dc4\u0dcf-\u0d85\u0d9c\u0db8\u0dd0\u0dad\u0dd2\u0d9c\u0dda-\u0d9a\u0dd8\u0dad\u0dd3\u0db8-\u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0da2-\u0dc0\u0dd2\u0da9\u0dd2\u0dba\u0ddd-\u0d9c\u0dd0\u0db1-\u0daf\u0dd0\u0db1\u0dd4\u0db8\u0dca-\u0daf\u0dd2\u0db8\u0d9a\u0dca/11-422734",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780552785.0
   },
   {
     "doc_type": "lk_news",
@@ -219743,5 +219765,126 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1780557420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailymirrorlk-bb43cb27",
+    "num": "dailymirrorlk-bb43cb27",
+    "date_str": "2026-06-04",
+    "description": "JAECOO J5 HEV launched",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/JAECOO-J5-HEV-launched/110-341974",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780559219.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailymirrorlk-d131d053",
+    "num": "dailymirrorlk-d131d053",
+    "date_str": "2026-06-04",
+    "description": "Unsafe food kills 1.5 million people each year; children most at risk: WHO",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Unsafe-food-kills-1-5-million-people-each-year-children-most-at-risk-WHO/108-341976",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780559750.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-tamilmirrorlk-ae7c6413",
+    "num": "tamilmirrorlk-ae7c6413",
+    "date_str": "2026-06-04",
+    "description": "\u2019\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b9a\u0bc7\u0bb0\u0bcd\u0b9f\u0bcd\u2019 \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3 \u0b85\u0bb5\u0b9a\u0bb0 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb8\u0bcd\u0bb0\u0bc0\u0bb2\u0b99\u0bcd\u0b95\u0bbe-\u0b9a\u0bc7\u0bb0\u0bcd\u0b9f\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3-\u0b85\u0bb5\u0b9a\u0bb0-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-378073",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780560738.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-tamilmirrorlk-0aeec5f9",
+    "num": "tamilmirrorlk-0aeec5f9",
+    "date_str": "2026-06-04",
+    "description": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1 \u0b89\u0ba3\u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd 15 \u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd \u0baa\u0bc7\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1-\u0b89\u0ba3\u0bb5\u0bbf\u0ba9\u0bbe\u0bb2\u0bcd-15-\u0bb2\u0b9f\u0bcd\u0b9a\u0bae\u0bcd-\u0baa\u0bc7\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-378074",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780561120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailymirrorlk-b42390f4",
+    "num": "dailymirrorlk-b42390f4",
+    "date_str": "2026-06-04",
+    "description": "Elders\u2019 home fire: Director arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Elders-home-fire-Director-arrested/108-341977",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780561234.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-tamilmirrorlk-b42f1001",
+    "num": "tamilmirrorlk-b42f1001",
+    "date_str": "2026-06-04",
+    "description": "\u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd \u0ba4\u0bc0: \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bcb\u0bb0\u0bcd-\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd-\u0ba4\u0bc0-\u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-378075",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780561580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-tamilmirrorlk-72ea9123",
+    "num": "tamilmirrorlk-72ea9123",
+    "date_str": "2026-06-04",
+    "description": "\u2019\u0b90\u0bb8\u0bcd\u2019 \u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90\u0bb8\u0bcd-\u0baa\u0bcb\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bcb\u0b9f\u0bcd\u0b9f\u0bae\u0bcd/175-378076",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780561721.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailymirrorlk-4deeb228",
+    "num": "dailymirrorlk-4deeb228",
+    "date_str": "2026-06-04",
+    "description": "Namal criticises \u2018selective enforcement\u2019 of PTA",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-criticises-selective-enforcement-of-PTA/108-341978",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780562657.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailymirrorlk-f978e736",
+    "num": "dailymirrorlk-f978e736",
+    "date_str": "2026-06-04",
+    "description": "Over 350 online fraud cases reported so far in 2026\u2013 SLCERT",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-350-online-fraud-cases-reported-so-far-in-2026-SLCERT/108-341979",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780563096.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailymirrorlk-b81f03f2",
+    "num": "dailymirrorlk-b81f03f2",
+    "date_str": "2026-06-04",
+    "description": "US Lawmakers vote to halt military action by Trump",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-Lawmakers-vote-to-halt-military-action-by-Trump/108-341980",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780563363.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-tamilmirrorlk-d127c6f2",
+    "num": "tamilmirrorlk-d127c6f2",
+    "date_str": "2026-06-04",
+    "description": "\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0ba8\u0bcd\u0ba4\u0bcb\u0bb7\u0bcd \u0b9c\u0bbe \u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc7\u0b9a\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8-\u0ba4\u0bc1\u0bb1\u0bc8\u0bae\u0bc1\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0b9a\u0ba8\u0bcd\u0ba4\u0bcb\u0bb7\u0bcd-\u0b9c\u0bbe-\u0bb5\u0bbf\u0b9c\u0baf\u0bae\u0bcd/52-378079",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780565000.0
   }
 ]
