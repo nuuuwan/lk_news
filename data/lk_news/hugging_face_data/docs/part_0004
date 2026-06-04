@@ -219933,6 +219933,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-04-adalk-8938a734",
+    "num": "adalk-8938a734",
+    "date_str": "2026-06-04",
+    "description": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8\u0dd9\u0db1\u0dca \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0da7 \u0dad\u0dc0\u0dad\u0dca \u0db8\u0dd9\u0d9c\u0dcf\u0dc0\u0ddc\u0da7\u0dca 150\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8\u0dd9\u0db1\u0dca-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba\u0da7-\u0dad\u0dc0\u0dad\u0dca-\u0db8\u0dd9\u0d9c\u0dcf\u0dc0\u0ddc\u0da7\u0dca-150\u0d9a\u0dca/11-422737",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780567829.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-04-tamilmirrorlk-72815787",
     "num": "tamilmirrorlk-72815787",
     "date_str": "2026-06-04",
@@ -220007,5 +220018,104 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1780571067.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailymirrorlk-da053d3d",
+    "num": "dailymirrorlk-da053d3d",
+    "date_str": "2026-06-04",
+    "description": "31 canals renovated for flood control, irrigation; project to finish by October",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/31-canals-renovated-for-flood-control-irrigation-project-to-finish-by-October/108-341983",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780571601.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-adalk-a85e448c",
+    "num": "adalk-a85e448c",
+    "date_str": "2026-06-04",
+    "description": "\u0d9c\u0d82\u0da2\u0dcf \u0db6\u0dd2\u0dc0\u0dca \u0d9a\u0ddc\u0dc3\u0dca\u0dad\u0dcf\u0db4\u0dbd\u0dca \u0dc4\u0dad\u0dbb\u0d9a\u0d9c\u0dda \u0dc0\u0dd0\u0da9 \u0dad\u0dc4\u0db1\u0db8\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0d82\u0da2\u0dcf-\u0db6\u0dd2\u0dc0\u0dca-\u0d9a\u0ddc\u0dc3\u0dca\u0dad\u0dcf\u0db4\u0dbd\u0dca-\u0dc4\u0dad\u0dbb\u0d9a\u0d9c\u0dda-\u0dc0\u0dd0\u0da9-\u0dad\u0dc4\u0db1\u0db8\u0dca/11-422741",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780571772.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-tamilmirrorlk-5227e899",
+    "num": "tamilmirrorlk-5227e899",
+    "date_str": "2026-06-04",
+    "description": "\u0baa\u0bbf\u0b95\u0bbf\u0ba9\u0bbf \u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b87\u0bb0\u0b95\u0b9a\u0bbf\u0baf\u0bae\u0bcd \u0b89\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0baa\u0bbf\u0b95\u0bbf\u0ba9\u0bbf-\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0b87\u0bb0\u0b95\u0b9a\u0bbf\u0baf\u0bae\u0bcd-\u0b89\u0b9f\u0bc8\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1/54-378102",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780572067.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-adalk-68c9241e",
+    "num": "adalk-68c9241e",
+    "date_str": "2026-06-04",
+    "description": "\u0db4\u0dd6\u0dbb\u0dca\u0dab \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0d9a\u0da7 \u0dbd\u0d82\u0d9a\u0dcf \u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8 \u0dbd\u0db6\u0db1 \u0dc0\u0dc3\u0dbb\u0dda\u0daf\u0dd3 \u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/sports/\u0db4\u0dd6\u0dbb\u0dca\u0dab-\u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0d9a\u0da7-\u0dbd\u0d82\u0d9a\u0dcf-\u0d9a\u0dab\u0dca\u0da9\u0dcf\u0dba\u0db8-\u0dbd\u0db6\u0db1-\u0dc0\u0dc3\u0dbb\u0dda\u0daf\u0dd3-\u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad\u0dba\u0da7/9-422742",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780572804.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-tamilmirrorlk-ea280221",
+    "num": "tamilmirrorlk-ea280221",
+    "date_str": "2026-06-04",
+    "description": "\u0ba4\u0bb2\u0bc8\u0baf\u0bc8 \u0b95\u0bca\u0baf\u0bcd\u0ba4 \u0bae\u0bc2\u0bb5\u0bb0\u0bc8 \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0ba4\u0bbe\u0baf\u0bcd, \u0bae\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bb2\u0bc8\u0baf\u0bc8-\u0b95\u0bca\u0baf\u0bcd\u0ba4-\u0bae\u0bc2\u0bb5\u0bb0\u0bc8-\u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd-\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0baf-\u0ba4\u0bbe\u0baf\u0bcd-\u0bae\u0b95\u0bb3\u0bcd/175-378130",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780573742.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-tamilmirrorlk-91f54457",
+    "num": "tamilmirrorlk-91f54457",
+    "date_str": "2026-06-04",
+    "description": "\u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd \u0ba4\u0bc0: \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bcb\u0bb0\u0bcd-\u0b87\u0bb2\u0bcd\u0bb2\u0ba4\u0bcd-\u0ba4\u0bc0-\u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-378136",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780575775.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-tamilmirrorlk-7b45db6f",
+    "num": "tamilmirrorlk-7b45db6f",
+    "date_str": "2026-06-04",
+    "description": "\u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba9\u0bcd \u0b95\u0ba4\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe ( \u0b95\u0bc1\u0bb0\u0bb2\u0bc8 \u0b95\u0bc7\u0bb3\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0ba9\u0bcd-\u0b95\u0ba4\u0bb1\u0bc1\u0bae\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0b95\u0bc1\u0bb0\u0bb2\u0bc8-\u0b95\u0bc7\u0bb3\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/52-378138",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780576226.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailymirrorlk-9679b7e2",
+    "num": "dailymirrorlk-9679b7e2",
+    "date_str": "2026-06-04",
+    "description": "National plan for early warning, early action launched",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/National-plan-for-early-warning-early-action-launched/108-341989",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780577694.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-04-dailymirrorlk-a4ce3771",
+    "num": "dailymirrorlk-a4ce3771",
+    "date_str": "2026-06-04",
+    "description": "Navy arrests 44 for illegal fishing activities",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-arrests-44-for-illegal-fishing-activities/108-341990",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780578204.0
   }
 ]
