@@ -220271,5 +220271,82 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780589900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-86d289d2",
+    "num": "dailymirrorlk-86d289d2",
+    "date_str": "2026-06-05",
+    "description": "Lingering uncertainty weighs down on market sentiment",
+    "url_metadata": "https://www.dailymirror.lk/business/Lingering-uncertainty-weighs-down-on-market-sentiment/215-342008",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780597977.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-a51feac6",
+    "num": "dailymirrorlk-a51feac6",
+    "date_str": "2026-06-05",
+    "description": "Galadari\u00a0announces\u00a0transfer of Radisson Hotel\u00a0agreements to Belgian affiliate",
+    "url_metadata": "https://www.dailymirror.lk/business/Galadariannouncestransfer-of-Radisson-Hotelagreements-to-Belgian-affiliate/215-342009",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780598143.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-f564fe57",
+    "num": "dailymirrorlk-f564fe57",
+    "date_str": "2026-06-05",
+    "description": "DFCC Bank appoints Shamindra Marcelline as Executive Director",
+    "url_metadata": "https://www.dailymirror.lk/business/DFCC-Bank-appoints-Shamindra-Marcelline-as-Executive-Director/215-342010",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780598257.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-2e458415",
+    "num": "dailymirrorlk-2e458415",
+    "date_str": "2026-06-05",
+    "description": "JAT Holdings records highest-ever revenue in FY25/26",
+    "url_metadata": "https://www.dailymirror.lk/business/JAT-Holdings-records-highest-ever-revenue-in-FY2526/215-342011",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780598532.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-c113b7c0",
+    "num": "dailymirrorlk-c113b7c0",
+    "date_str": "2026-06-05",
+    "description": "CA Sri Lanka felicitates first woman Auditor General",
+    "url_metadata": "https://www.dailymirror.lk/business/CA-Sri-Lanka-felicitates-first-woman-Auditor-General/215-342012",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780598666.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-8aa9b7c0",
+    "num": "dailymirrorlk-8aa9b7c0",
+    "date_str": "2026-06-05",
+    "description": "Pelwatte Dairy commissions Sri Lanka\u2019s largest dairy effluent treatment plant",
+    "url_metadata": "https://www.dailymirror.lk/business/Pelwatte-Dairy-commissions-Sri-Lankas-largest-dairy-effluent-treatment-plant/215-342013",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780598785.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-50b06401",
+    "num": "dailymirrorlk-50b06401",
+    "date_str": "2026-06-05",
+    "description": "New US tariff could erode Sri Lanka\u2019s export competitiveness: CCC warns",
+    "url_metadata": "https://www.dailymirror.lk/business/New-US-tariff-could-erode-Sri-Lankas-export-competitiveness-CCC-warns/215-342014",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780598929.0
   }
 ]

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-04 22:48:49",
-  "n_docs": 116383,
+  "time_updated": "2026-06-05 00:33:13",
+  "n_docs": 116390,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 116383,
+  "n_docs_with_text": 116390,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-06-04",
-  "dataset_size": 1812813086,
+  "date_str_max": "2026-06-05",
+  "dataset_size": 1812860034,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-04-dailymirrorlk-5a097d71",
-    "num": "dailymirrorlk-5a097d71",
-    "date_str": "2026-06-04",
-    "description": "Gas, water and electricity tariffs set to rise: Ananda Palitha",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gas-water-and-electricity-tariffs-set-to-rise-Ananda-Palitha/108-342000",
+    "doc_id": "2026-06-05-dailymirrorlk-50b06401",
+    "num": "dailymirrorlk-50b06401",
+    "date_str": "2026-06-05",
+    "description": "New US tariff could erode Sri Lanka\u2019s export competitiveness: CCC warns",
+    "url_metadata": "https://www.dailymirror.lk/business/New-US-tariff-could-erode-Sri-Lankas-export-competitiveness-CCC-warns/215-342014",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780589900.0
+    "time_ut": 1780598929.0
   }
 }
