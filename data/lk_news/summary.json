@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-04 04:26:15",
-  "n_docs": 116236,
+  "time_updated": "2026-06-04 06:49:04",
+  "n_docs": 116264,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 116236,
+  "n_docs_with_text": 116264,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-04",
-  "dataset_size": 1810444752,
+  "dataset_size": 1810597759,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-04-dailyftlk-e2cb46f3",
-    "num": "dailyftlk-e2cb46f3",
+    "doc_id": "2026-06-04-adalk-fcf8bc0b",
+    "num": "adalk-fcf8bc0b",
     "date_str": "2026-06-04",
-    "description": "AKD-JVP-NPP\u2019s philosophy of failure is a philosophy for failure",
-    "url_metadata": "https://www.ft.lk/columns/AKD-JVP-NPP-s-philosophy-of-failure-is-a-philosophy-for-failure/4-792864",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1780519633.0
+    "description": "\u0db8\u0dc4\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca \u0dc0\u0dd9\u0dad \u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba \u0dc3\u0dcf\u0d9a\u0dca\u0dc2\u0dbb\u0dad\u0dcf \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0db8\u0dc4\u0da2\u0db1-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0\u0dd9\u0db1\u0dca-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba\u0d9a\u0dba\u0db1\u0dca-\u0dc0\u0dd9\u0dad-\u0db8\u0dd6\u0dbd\u0dca\u200d\u0dba-\u0dc3\u0dcf\u0d9a\u0dca\u0dc2\u0dbb\u0dad\u0dcf-\u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0d9a\u0dca/7-422728",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780534276.0
   }
 }
