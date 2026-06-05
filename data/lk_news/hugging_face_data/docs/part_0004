@@ -222383,5 +222383,38 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780671704.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-tamilmirrorlk-827eaafa",
+    "num": "tamilmirrorlk-827eaafa",
+    "date_str": "2026-06-05",
+    "description": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8 \u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bcd \u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8-\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0b9c\u0baf\u0bcd-\u0bb5\u0bbf\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-378160",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780673236.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-309543d7",
+    "num": "dailymirrorlk-309543d7",
+    "date_str": "2026-06-05",
+    "description": "IPL fireball: Here comes the sun\u2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/IPL-fireball-Here-comes-the-sun/108-342115",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780674667.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-b6673a4a",
+    "num": "dailymirrorlk-b6673a4a",
+    "date_str": "2026-06-05",
+    "description": "Correct guidance needed to prevent Sri Lanka becoming \u201cClimate Orphans\u201d \u2013 CEJ",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Correct-guidance-needed-to-prevent-Sri-Lanka-becoming-Climate-Orphans-CEJ/108-342116",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780674863.0
   }
 ]

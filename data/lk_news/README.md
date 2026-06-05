@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--05_20:46:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--05_22:34:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,575** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,578** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-05-dailymirrorlk-e093554e",
-    "num": "dailymirrorlk-e093554e",
+    "doc_id": "2026-06-05-dailymirrorlk-b6673a4a",
+    "num": "dailymirrorlk-b6673a4a",
     "date_str": "2026-06-05",
-    "description": "Sri Lanka launches EU-backed green reporting guidelines",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-launches-EU-backed-green-reporting-guidelines/108-342113",
+    "description": "Correct guidance needed to prevent Sri Lanka becoming \u201cClimate Orphans\u201d \u2013 CEJ",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Correct-guidance-needed-to-prevent-Sri-Lanka-becoming-Climate-Orphans-CEJ/108-342116",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780671704.0
+    "time_ut": 1780674863.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-05 | `dailymirrorlk-b6673a4a` | Correct guidance needed to prevent Sri Lanka becoming “Climate Orphans” – CEJ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-b6673a4a)
+- 2026-06-05 | `dailymirrorlk-309543d7` | IPL fireball: Here comes the sun… | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-309543d7)
+- 2026-06-05 | `tamilmirrorlk-827eaafa` | முதல் அமைச்சரவை கூட்டத்தில் விஜய் விடுத்த எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-tamilmirrorlk-827eaafa)
 - 2026-06-05 | `dailymirrorlk-e093554e` | Sri Lanka launches EU-backed green reporting guidelines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-e093554e)
 - 2026-06-05 | `dailymirrorlk-f49958a6` | Trinity’s spirit too much for worn out Wesley | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-f49958a6)
 - 2026-06-05 | `dailymirrorlk-cce6dca4` | CSE ends week on a soft note as early gains fade amid cautious Friday profit-taking | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-cce6dca4)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-06-05 | `virakesarilk-6fb76b68` | சுற்றுச்சூழலைப் பாதுகாப்பது தொடர்பான காலாவதியான சட்டங்களை திருத்த நடவடிக்கை - சுற்றாடல் அமைச்சர் வைத்தியர் தம்மிக படபெந்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-6fb76b68)
 - 2026-06-05 | `dailymirrorlk-f032dcfb` | FCID arrests Wimal’s ex-media secretary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-f032dcfb)
 - 2026-06-05 | `virakesarilk-559e5587` | ஜனாதிபதி தலைமையில் உலக சுற்றாடல் தின தேசிய நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-559e5587)
-- 2026-06-05 | `dailymirrorlk-b8a68821` | Protect community animals… | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-b8a68821)
-- 2026-06-05 | `adalk-48778dd8` | දන්සලේ හයකට මරු කැඳවූ අනතුරට සම්බන්ධ තිදෙනෙක් අත්අඩංගුවට ගන්න පොලීසිය සහාය ඉල්ලයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-adalk-48778dd8)
-- 2026-06-05 | `virakesarilk-c4350b39` | பாடசாலைகள் பாதுகாப்பும் அன்பும் நிறைந்த இடங்களாக இருக்கவேண்டும் – பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-c4350b39)
 
 ---
 
