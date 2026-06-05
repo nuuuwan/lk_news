@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--05_15:03:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--05_16:50:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,520** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,547** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-05-dailymirrorlk-eaa11c7c",
-    "num": "dailymirrorlk-eaa11c7c",
+    "doc_id": "2026-06-05-virakesarilk-b32a4982",
+    "num": "virakesarilk-b32a4982",
     "date_str": "2026-06-05",
-    "description": "Anil Jayantha to represent Sri Lanka at ILO meet",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anil-Jayantha-to-represent-Sri-Lanka-at-ILO-meet/108-342084",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780650991.0
+    "description": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd 19 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b95\u0bb3\u0bcd, \u0b92\u0bb0\u0bc1 \u0b87\u0bb2\u0b9f\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95 \u0baa\u0bcb\u0ba4\u0bc8 \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc8\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9!",
+    "url_metadata": "https://www.virakesari.lk/article/248922",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1780658160.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-06-05 | `dailymirrorlk-eaa11c7c` | Anil Jayantha to represent Sri Lanka at ILO meet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-eaa11c7c)
-- 2026-06-05 | `virakesarilk-7fdca0ef` | முச்சக்கர வண்டி - மோட்டார் சைக்கிள் மோதி விபத்து ; ஒருவர்  உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-7fdca0ef)
-- 2026-06-05 | `virakesarilk-7f59cf8b` | ஜூன் மாதத்திற்கான எரிவாயு விலைகளில் மாற்றமில்லை - லிட்ரோ நிறுவனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-7f59cf8b)
-- 2026-06-05 | `dailymirrorlk-c28b9f51` | Indonesia’s Mount Lewotobi Laki-Laki erupts, forcing airport to close | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-c28b9f51)
-- 2026-06-05 | `virakesarilk-bb8e9ba0` | பெருந்தொற்றுகளைத் தடுக்கும் புதிய தடுப்பூசி செயற்கை நுண்ணறிவு தொழில்நுட்பத்தின் உதவியுடன் கண்டுபிடிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-bb8e9ba0)
-- 2026-06-05 | `virakesarilk-f0628042` | அரச வருமானத்தை உயர்த்தப் புதிய திட்டம்: பொதுமக்களிடம் யோசனைகளைக் கோருகிறது நிதியமைச்சு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-f0628042)
-- 2026-06-05 | `virakesarilk-79c98095` | மன்னாரில் கைவிடப்பட்ட பழமையான கத்தோலிக்க ஆலயத்தில் புதையல் அகழ்வு ;  பொலிஸார் பாராமுகம் என மக்கள் குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-79c98095)
-- 2026-06-05 | `virakesarilk-c32387cc` | பாடல்கள் கலை வெளிப்பாடுகளை மட்டும் அடிப்படையாகக் கொண்டு ஆயுதவாதத்தை உருவாக்குகின்றன என வாதிடுவது யதார்த்தத்திற்குப் புறம்பான அணுகுமுறையாகும் - றஜீவன் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-c32387cc)
-- 2026-06-05 | `dailymirrorlk-8ca0922a` | Xi Jinping to meet Kim Jong Un in rare visit to North Korea | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-8ca0922a)
-- 2026-06-05 | `dailymirrorlk-19d14a2f` | Assistant Manager, security officer arrested over Horana bank robbery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-19d14a2f)
-- 2026-06-05 | `dailymirrorlk-3f07f5f0` | ‘Samudravijaya’ joins Navy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-3f07f5f0)
-- 2026-06-05 | `virakesarilk-e9f5e213` | ஹொரணை வங்கியொன்றில் பணம் கொள்ளையடிக்கப்பட்ட வழக்கில் உதவி மேலாளர், பாதுகாப்பு அதிகாரி கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-e9f5e213)
-- 2026-06-05 | `dailymirrorlk-df0be1cd` | Zelensky proposes face-to-face talks in open letter to Putin | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-df0be1cd)
-- 2026-06-05 | `virakesarilk-c283958d` | பாடகர் சங்கீதன் கைது செய்யப்பட்டிருப்பது தமிழர்களை மீண்டும் பலிகடாவாக்கும் அரசியல் – அருட்தந்தை மா. சத்திவேல் குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-c283958d)
-- 2026-06-05 | `dailymirrorlk-4dd69405` | Several injured in Boeing 787 nose-gear collapse in Frankfurt | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-4dd69405)
-- 2026-06-05 | `dailymirrorlk-6519ade4` | Immediate measures underway to address flooding on airport access roads | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-6519ade4)
-- 2026-06-05 | `dailymirrorlk-51d339e5` | Bear opens window in factory escape, Japanese police say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-51d339e5)
-- 2026-06-05 | `dailymirrorlk-c396550a` | US plans to fight flesh-eating screwworm outbreak with flies and dogs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-c396550a)
-- 2026-06-05 | `dailymirrorlk-fe38d14f` | Several areas brace for 100 mm of rain | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-fe38d14f)
-- 2026-06-05 | `dailymirrorlk-1570d941` | ’World-first’ vaccine designed by artificial intelligence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-1570d941)
+- 2026-06-05 | `virakesarilk-b32a4982` | கொழும்பில் 19 துப்பாக்கிகள், ஒரு இலட்சத்துக்கும் அதிக போதை மாத்திரைகள் சிக்கின! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-b32a4982)
+- 2026-06-05 | `dailymirrorlk-d5c2a651` | LAUGFS gas prices remain unchanged | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-d5c2a651)
+- 2026-06-05 | `virakesarilk-9c696017` | மனித உரிமை மீறல்களைத் தடுக்க மைக்ரோசொப்ட் அதிரடி நடவடிக்கை: இஸ்ரேலிய இராணுவத்துடனான சர்ச்சை ஒப்பந்த விசாரணையின் பின் புதிய கொள்கை வெளியீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-9c696017)
+- 2026-06-05 | `virakesarilk-338e2dd4` | மட்டக்களப்பில் போலி நகைகளை தயாரித்து வங்கியில் அடகு வைத்த கணவன் 9 மாதங்களின் பின் கைது: உபகரணங்களும் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-338e2dd4)
+- 2026-06-05 | `dailymirrorlk-783fb15a` | Huge flags and pyrotechnics with World Cup anthems | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-783fb15a)
+- 2026-06-05 | `virakesarilk-b89781dc` | ஜப்பானில் விசித்திரச் சம்பவம்: நால்வரைத் தாக்கிவிட்டு தொழிற்சாலை ஜன்னலைத் தாமாகவே திறந்து தப்பிய 'புத்திசாலி' கரடி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-b89781dc)
+- 2026-06-05 | `dailymirrorlk-4307ab3d` | Police hunt three suspects in Meegoda fatal crash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-4307ab3d)
+- 2026-06-05 | `virakesarilk-41a0799e` | பெத்தி-  திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-41a0799e)
+- 2026-06-05 | `dailymirrorlk-6c4fc071` | Fifa regrets free ticket error but demands fans pay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-6c4fc071)
+- 2026-06-05 | `adalk-573a5b69` | මූලික රෝහල්වලට අවුරුදු 4ක වැඩසටහනක් යටතේ රු. බිලියන 31ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-adalk-573a5b69)
+- 2026-06-05 | `virakesarilk-5e26f147` | பரிமளா & கோ - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-5e26f147)
+- 2026-06-05 | `dailymirrorlk-34d3c6d4` | Nearly 50 people die of thirst in Sahara desert after lorry breaks down | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-34d3c6d4)
+- 2026-06-05 | `virakesarilk-42d17d2c` | அநுர அரசாங்கம் ஏமாற்றி விட்டதாக யாழ்.போதனா வைத்தியசாலை சுகாதார தொண்டர்கள் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-42d17d2c)
+- 2026-06-05 | `virakesarilk-c5dde8b8` | சம்ஹாரம் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-c5dde8b8)
+- 2026-06-05 | `adalk-64d1dd66` | ලිට්‍රෝ ගෑස් මිලේ වෙනසක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-adalk-64d1dd66)
+- 2026-06-05 | `virakesarilk-2330de6d` | யாழில் தரமற்ற பாணிப்பனாட்டினை உற்பத்தி செய்தவருக்கு 6 மாத கால சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-2330de6d)
+- 2026-06-05 | `virakesarilk-edba7973` | காஜல் அகர்வால் நடிக்கும் 'தி இந்தியா ஸ்டோரி' படத்தின் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-edba7973)
+- 2026-06-05 | `virakesarilk-b641214b` | டெங்கு பரவலை கட்டுப்படுத்த விசேட நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-b641214b)
+- 2026-06-05 | `virakesarilk-34994bd5` | நியமனத்தை நிரந்தரமாக்குமாறு கோரி சுகாதார அமைச்சின் முன்பாக யாழ். போதனா வைத்தியசாலை சுகாதார தொண்டர்கள் போராட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-34994bd5)
+- 2026-06-05 | `virakesarilk-e5281b86` | கபில சந்திரசேனவின் மரணம்: மேலதிக நீதவான் விசாரணை ஜூன் 9 ஆம் திகதிக்கு ஒத்திவைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-e5281b86)
 
 ---
 
