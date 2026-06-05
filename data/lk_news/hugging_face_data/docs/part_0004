@@ -222111,6 +222111,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-05-adalk-ec176f10",
+    "num": "adalk-ec176f10",
+    "date_str": "2026-06-05",
+    "description": "\u0da0\u0dd3\u0db1 \u0da2\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0db6\u0db1 \u0dc3\u0dad\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da0\u0dd3\u0db1-\u0da2\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0db6\u0db1-\u0dc3\u0dad\u0dd2\u0dba\u0dda\u0daf\u0dd3-\u0d8b\u0dad\u0dd4\u0dbb\u0dd4-\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0da7/11-422760",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780658661.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-adalk-af6a9ec9",
+    "num": "adalk-af6a9ec9",
+    "date_str": "2026-06-05",
+    "description": "\u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dc3\u0dc4\u0db1\u0dcf\u0db0\u0dcf\u0dbb\u0dba \u0dbb\u0dd4 5000\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0dc3\u0dc4\u0db1\u0dcf\u0db0\u0dcf\u0dbb\u0dba-\u0dbb\u0dd4-5000\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-422761",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780658854.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-05-tamilmirrorlk-a84d8022",
     "num": "tamilmirrorlk-a84d8022",
     "date_str": "2026-06-05",
@@ -222262,5 +222284,104 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1780663920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-2fef68f0",
+    "num": "dailymirrorlk-2fef68f0",
+    "date_str": "2026-06-05",
+    "description": "Gimhani ruled out of Women\u2019s T20 World Cup; Vimukthi called up",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gimhani-ruled-out-of-Womens-T20-World-Cup-Vimukthi-called-up/108-342107",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780666931.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-tamilmirrorlk-e0991995",
+    "num": "tamilmirrorlk-e0991995",
+    "date_str": "2026-06-05",
+    "description": "\u0ba4\u0bc1\u0bb0\u0bcd\u0ba8\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0bb5\u0bc0\u0b9a\u0bbf\u0baf \u0b9a\u0b9f\u0bb2\u0bae\u0bcd : \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc1\u0bb0\u0bcd\u0ba8\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd-\u0bb5\u0bc0\u0b9a\u0bbf\u0baf-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-378158",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780669228.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-d11a1b78",
+    "num": "dailymirrorlk-d11a1b78",
+    "date_str": "2026-06-05",
+    "description": "Sangakkara Joins Women Cricketers\u2019 Transformation Meeting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sangakkara-Joins-Women-Cricketers-Transformation-Meeting/108-342108",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780669600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-84180ef9",
+    "num": "dailymirrorlk-84180ef9",
+    "date_str": "2026-06-05",
+    "description": "Wrong decisions led to rupee devaluation crisis - Mujibur",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wrong-decisions-led-to-rupee-devaluation-crisis-Mujibur/108-342109",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780670170.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-tamilmirrorlk-f61ff641",
+    "num": "tamilmirrorlk-f61ff641",
+    "date_str": "2026-06-05",
+    "description": "\u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0baa\u0ba3\u0bae\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8 : \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0b99\u0bcd\u0b95\u0bbf-\u0baa\u0ba3\u0bae\u0bcd-\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc8-\u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd-\u0b89\u0b9f\u0bcd\u0baa\u0b9f-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bb0\u0bcd/175-378159",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780670617.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-de858bc7",
+    "num": "dailymirrorlk-de858bc7",
+    "date_str": "2026-06-05",
+    "description": "Massive raid nets 19 firearms, Ice and 100,000 pregabalin pills",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Massive-raid-nets-19-firearms-Ice-and-100-000-pregabalin-pills/108-342110",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780671134.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-cce6dca4",
+    "num": "dailymirrorlk-cce6dca4",
+    "date_str": "2026-06-05",
+    "description": "CSE ends week on a soft note as early gains fade amid cautious Friday profit-taking",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-ends-week-on-a-soft-note-as-early-gains-fade-amid-cautious-Friday-profit-taking/108-342111",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780671381.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-f49958a6",
+    "num": "dailymirrorlk-f49958a6",
+    "date_str": "2026-06-05",
+    "description": "Trinity\u2019s spirit too much for worn out Wesley",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trinitys-spirit-too-much-for-worn-out-Wesley/108-342112",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780671493.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-e093554e",
+    "num": "dailymirrorlk-e093554e",
+    "date_str": "2026-06-05",
+    "description": "Sri Lanka launches EU-backed green reporting guidelines",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-launches-EU-backed-green-reporting-guidelines/108-342113",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780671704.0
   }
 ]
