@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-05 11:16:55",
-  "n_docs": 116473,
+  "time_updated": "2026-06-05 13:21:52",
+  "n_docs": 116492,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 116473,
+  "n_docs_with_text": 116492,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-05",
-  "dataset_size": 1814518869,
+  "dataset_size": 1814746628,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-05-dailymirrorlk-0a47d1d6",
-    "num": "dailymirrorlk-0a47d1d6",
+    "doc_id": "2026-06-05-dailymirrorlk-df0be1cd",
+    "num": "dailymirrorlk-df0be1cd",
     "date_str": "2026-06-05",
-    "description": "Delay in cancer equipment procurement causing heavy losses: Specialist",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Delay-in-cancer-equipment-procurement-causing-heavy-losses-Specialist/108-342045",
+    "description": "Zelensky proposes face-to-face talks in open letter to Putin",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Zelensky-proposes-face-to-face-talks-in-open-letter-to-Putin/108-342078",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780637531.0
+    "time_ut": 1780645200.0
   }
 }
