@@ -222416,5 +222416,38 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780674863.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailyftlk-53cfc7e7",
+    "num": "dailyftlk-53cfc7e7",
+    "date_str": "2026-06-06",
+    "description": "Ceylinco Life partners with FTZMA as insurance service provider",
+    "url_metadata": "https://www.ft.lk/business/Ceylinco-Life-partners-with-FTZMA-as-insurance-service-provider/34-792940",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780685400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailyftlk-9ed5fadf",
+    "num": "dailyftlk-9ed5fadf",
+    "date_str": "2026-06-06",
+    "description": "HNB, Hayleys partner to boost agricultural growth via mechanisation",
+    "url_metadata": "https://www.ft.lk/business/HNB-Hayleys-partner-to-boost-agricultural-growth-via-mechanisation/34-792941",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780685484.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailyftlk-c9f71ad7",
+    "num": "dailyftlk-c9f71ad7",
+    "date_str": "2026-06-06",
+    "description": "SLT-MOBITEL powers Central Bus Stand with end-to-end digital infrastructure",
+    "url_metadata": "https://www.ft.lk/business/SLT-MOBITEL-powers-Central-Bus-Stand-with-end-to-end-digital-infrastructure/34-792942",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780685555.0
   }
 ]

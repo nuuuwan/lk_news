@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-05 22:33:20",
-  "n_docs": 116578,
+  "time_updated": "2026-06-06 00:25:56",
+  "n_docs": 116581,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 116578,
+  "n_docs_with_text": 116581,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-06-05",
-  "dataset_size": 1816371838,
+  "date_str_max": "2026-06-06",
+  "dataset_size": 1816415087,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "ta",
-    "si",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-05-dailymirrorlk-b6673a4a",
-    "num": "dailymirrorlk-b6673a4a",
-    "date_str": "2026-06-05",
-    "description": "Correct guidance needed to prevent Sri Lanka becoming \u201cClimate Orphans\u201d \u2013 CEJ",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Correct-guidance-needed-to-prevent-Sri-Lanka-becoming-Climate-Orphans-CEJ/108-342116",
+    "doc_id": "2026-06-06-dailyftlk-c9f71ad7",
+    "num": "dailyftlk-c9f71ad7",
+    "date_str": "2026-06-06",
+    "description": "SLT-MOBITEL powers Central Bus Stand with end-to-end digital infrastructure",
+    "url_metadata": "https://www.ft.lk/business/SLT-MOBITEL-powers-Central-Bus-Stand-with-end-to-end-digital-infrastructure/34-792942",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780674863.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780685555.0
   }
 }
