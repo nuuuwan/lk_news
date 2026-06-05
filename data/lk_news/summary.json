@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-06 02:20:25",
-  "n_docs": 116608,
+  "time_updated": "2026-06-06 04:11:00",
+  "n_docs": 116616,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 116608,
+  "n_docs_with_text": 116616,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-06",
-  "dataset_size": 1816608959,
+  "dataset_size": 1817068851,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-06-dailyftlk-fa09fccc",
-    "num": "dailyftlk-fa09fccc",
+    "doc_id": "2026-06-06-dailyftlk-de01d32c",
+    "num": "dailyftlk-de01d32c",
     "date_str": "2026-06-06",
-    "description": "From Vesak dansalas and Poson lights to Sri Lanka tourism\u2019s depleted coffers",
-    "url_metadata": "https://www.ft.lk/columns/From-Vesak-dansalas-and-Poson-lights-to-Sri-Lanka-tourism-s-depleted-coffers/4-792969",
+    "description": "Cybercrime safe havens in Colombo",
+    "url_metadata": "https://www.ft.lk/columns/Cybercrime-safe-havens-in-Colombo/4-792972",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1780691691.0
+    "time_ut": 1780696827.0
   }
 }

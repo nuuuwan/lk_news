@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--06_02:21:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--06_04:11:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,608** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,616** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-06-dailyftlk-fa09fccc",
-    "num": "dailyftlk-fa09fccc",
+    "doc_id": "2026-06-06-dailyftlk-de01d32c",
+    "num": "dailyftlk-de01d32c",
     "date_str": "2026-06-06",
-    "description": "From Vesak dansalas and Poson lights to Sri Lanka tourism\u2019s depleted coffers",
-    "url_metadata": "https://www.ft.lk/columns/From-Vesak-dansalas-and-Poson-lights-to-Sri-Lanka-tourism-s-depleted-coffers/4-792969",
+    "description": "Cybercrime safe havens in Colombo",
+    "url_metadata": "https://www.ft.lk/columns/Cybercrime-safe-havens-in-Colombo/4-792972",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1780691691.0
+    "time_ut": 1780696827.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-06 | `dailyftlk-de01d32c` | Cybercrime safe havens in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailyftlk-de01d32c)
+- 2026-06-06 | `dailyftlk-5c75a598` | Contain private credit growth to save the Rupee | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailyftlk-5c75a598)
+- 2026-06-06 | `tamilmirrorlk-6d27d9ea` | மக்கள் மேடை: புதிய இயக்கம் தொடங்கினார் லதா ரஜினிகாந்த் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-tamilmirrorlk-6d27d9ea)
+- 2026-06-06 | `dailyftlk-9cf8c996` | “Image Trap”: Least discussed but critically seminal issue for nations to elevate to the next level | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailyftlk-9cf8c996)
 - 2026-06-06 | `dailyftlk-fa09fccc` | From Vesak dansalas and Poson lights to Sri Lanka tourism’s depleted coffers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailyftlk-fa09fccc)
 - 2026-06-06 | `dailyftlk-3e7c1690` | The drought we can already see coming — and the  90 days that decide its cost | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailyftlk-3e7c1690)
 - 2026-06-06 | `dailymirrorlk-13432e82` | FIFA ups payments to clubs who send players to World Cup | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailymirrorlk-13432e82)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-06-06 | `dailyftlk-53cfc7e7` | Ceylinco Life partners with FTZMA as insurance service provider | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailyftlk-53cfc7e7)
 - 2026-06-05 | `virakesarilk-94e6d858` | புத்தூரில் டிப்பர்–முச்சக்கரவண்டி மோதி விபத்து: மூன்று இளைஞர்கள் கவலைக்கிடம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-94e6d858)
 - 2026-06-05 | `dailymirrorlk-b6673a4a` | Correct guidance needed to prevent Sri Lanka becoming “Climate Orphans” – CEJ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-b6673a4a)
-- 2026-06-05 | `dailymirrorlk-309543d7` | IPL fireball: Here comes the sun… | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-309543d7)
-- 2026-06-05 | `tamilmirrorlk-827eaafa` | முதல் அமைச்சரவை கூட்டத்தில் விஜய் விடுத்த எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-tamilmirrorlk-827eaafa)
-- 2026-06-05 | `virakesarilk-52cbec8b` | யாழ்ப்பாணம் சிறையில் பிறந்தநாளைக் கழித்த தமிழ் சொல்லிசை பாடகர் சங்கீத்சன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-virakesarilk-52cbec8b)
-- 2026-06-05 | `dailymirrorlk-e093554e` | Sri Lanka launches EU-backed green reporting guidelines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-05-dailymirrorlk-e093554e)
 
 ---
 

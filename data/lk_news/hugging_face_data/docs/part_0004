@@ -221011,6 +221011,50 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-05-tamilmirrorlk-956b1ad5",
+    "num": "tamilmirrorlk-956b1ad5",
+    "date_str": "2026-06-05",
+    "description": "\u2019\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc8 \u0b85\u0bb0\u0b9a\u0bc1 \u0b89\u0b9f\u0ba9\u0bc7 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bc8-\u0b85\u0bb0\u0b9a\u0bc1-\u0b89\u0b9f\u0ba9\u0bc7-\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/175-378147",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780613152.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-tamilmirrorlk-59ba32c6",
+    "num": "tamilmirrorlk-59ba32c6",
+    "date_str": "2026-06-05",
+    "description": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1 8 \u0b8e\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1-8-\u0b8e\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb3\u0bae\u0bcd/175-378148",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780614208.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-tamilmirrorlk-22cc6734",
+    "num": "tamilmirrorlk-22cc6734",
+    "date_str": "2026-06-05",
+    "description": "\u2019\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe, \u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9 \u0b85\u0b9f\u0bbf\u0baf\u0bc8 \u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe-\u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bae\u0bbe\u0ba9-\u0b85\u0b9f\u0bbf\u0baf\u0bc8-\u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1/50-378149",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780614469.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-tamilmirrorlk-c9fc735e",
+    "num": "tamilmirrorlk-c9fc735e",
+    "date_str": "2026-06-05",
+    "description": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0bb5\u0bbf\u0b9c\u0baf\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0b95\u0bc2\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0bb5\u0bbf\u0b9c\u0baf\u0bcd-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bb5\u0bc8-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0b95\u0bc2\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-378150",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780614810.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-05-virakesarilk-c9e81597",
     "num": "virakesarilk-c9e81597",
     "date_str": "2026-06-05",
@@ -222746,5 +222790,49 @@ ews",
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1780691691.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailyftlk-9cf8c996",
+    "num": "dailyftlk-9cf8c996",
+    "date_str": "2026-06-06",
+    "description": "\u201cImage Trap\u201d: Least discussed but critically seminal issue for nations to elevate to the next level",
+    "url_metadata": "https://www.ft.lk/columns/Image-Trap-Least-discussed-but-critically-seminal-issue-for-nations-to-elevate-to-the-next-level/4-792970",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780692454.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-tamilmirrorlk-6d27d9ea",
+    "num": "tamilmirrorlk-6d27d9ea",
+    "date_str": "2026-06-06",
+    "description": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc7\u0b9f\u0bc8: \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0bb2\u0ba4\u0bbe \u0bb0\u0b9c\u0bbf\u0ba9\u0bbf\u0b95\u0bbe\u0ba8\u0bcd\u0ba4\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bc7\u0b9f\u0bc8-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b87\u0baf\u0b95\u0bcd\u0b95\u0bae\u0bcd-\u0ba4\u0bca\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0bb2\u0ba4\u0bbe-\u0bb0\u0b9c\u0bbf\u0ba9\u0bbf\u0b95\u0bbe\u0ba8\u0bcd\u0ba4\u0bcd/175-378161",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780695921.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailyftlk-5c75a598",
+    "num": "dailyftlk-5c75a598",
+    "date_str": "2026-06-06",
+    "description": "Contain private credit growth to save the Rupee",
+    "url_metadata": "https://www.ft.lk/columns/Contain-private-credit-growth-to-save-the-Rupee/4-792971",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780696041.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailyftlk-de01d32c",
+    "num": "dailyftlk-de01d32c",
+    "date_str": "2026-06-06",
+    "description": "Cybercrime safe havens in Colombo",
+    "url_metadata": "https://www.ft.lk/columns/Cybercrime-safe-havens-in-Colombo/4-792972",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780696827.0
   }
 ]
