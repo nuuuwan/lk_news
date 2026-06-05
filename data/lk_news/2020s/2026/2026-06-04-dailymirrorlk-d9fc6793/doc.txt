@@ -1,0 +1,115 @@
+Salesforce targets Sri Lanka’s digital ecosystem as agentic AI transition accelerates
+
+When the tech leaders gathered at the Jio World Convention Centre for the Salesforce Agentforce World Tour Mumbai on May 19, 2026, the rapid shift from static software to autonomous innovation dominated the floor.
+
+The high-level conference, anchored on the core theme of exploring agentic AI, CRM innovation and future-ready solutions, drew delegates from across the region to map the future of autonomous workflows. Amidst the immersive customer demonstrations and networking sessions, Pablo Tachil, Salesforce’s Country Leader for Sri Lanka, sat down for an exclusive media interview to outline the software giant’s accelerating roadmap for the island nation.
+
+Two years after officially commencing operations in the domestic market, the technological landscape is undergoing a profound paradigm shift. As the local government aggressively pursues a US $ 15 billion digital economy target by 2030, the underlying technological infrastructure required to support this ambitious macroeconomic vision is undergoing a rapid, almost unprecedented transformation.
+
+Tachil highlighted that the country is currently standing at the very cusp of a comprehensive digital transformation journey, noting, “The government as well as the organisations are very focused on getting digital and I think it’s roundabout time.”
+
+This heightened focus on the domestic market is part of a much broader regional offensive by Salesforce to cement its position as the dominant AI-powered CRM provider across South Asia. Recognising Sri Lanka’s position as a rapidly maturing digital ecosystem, the company is actively utilising the local tech ventures and integrating them into global enterprise networks, providing mentorship and executing joint go-to-market strategies.
+
+By heavily investing in an ecosystem where a significant percentage of emerging tech companies are already driven by software, data and artificial intelligence (AI), Salesforce is aggressively establishing a foundational pipeline of digital talent and future enterprise clients.
+
+This regional strategy acknowledges that South Asia is not merely a consumption market for foreign software but a critical hub for global innovation and advanced AI development that can cater to wider global demand.
+
+The strategic decision to actively penetrate the domestic market two years ago was driven by a clear recognition of the country’s unique commercial characteristics. Tachil observed that the local enterprise ecosystem is inherently customer-centric, heavily reliant on highly responsive sectors such as hospitality, aviation, retail and diversified corporate operations.
+
+“Sri Lanka is a very customer-centric market in terms of hospitality, airlines, conglomerates, retail. So, a lot of customer-centric platforms that all these organisations are building and that’s really the strength of Salesforce,” he explained.
+
+The company is currently working alongside major local conglomerates, including John Keells as well as a multitude of other large organisations across the hospitality and retail chains. By integrating previously siloed operations onto a single, intuitive platform, organisations can finally gain a comprehensive, 360-degree view of their consumer base.
+
+Tachil emphasised that this seamless alignment of domestic market needs with the core architectural strengths of their customer relationship management ecosystem made the entry timing ideal.
+
+However, one must critically question the immediate financial feasibility of this transition for the broader domestic market. The shift from isolated on-premise servers to premium, cloud-based AI ecosystems represents a fundamental restructuring of corporate IT budgets, moving away from predictable capital expenditure toward a recurring operational expenditure model.
+
+For the local enterprises still grappling with a stabilising macroeconomic environment and tight margins, this transition introduces a new layer of currency exposure. Securing enterprise-grade software-as-a-service platforms requires ongoing subscription payments typically denominated in US dollars, forcing the domestic companies to justify recurring foreign currency outflows against the local rupee revenues.
+
+While the top-tier conglomerates, with diversified export income, possess the natural hedging capabilities to absorb these recurring costs, the mid-tier companies operating strictly within the domestic market face a steeper financial barrier. Justifying these continuous operational expenses requires the AI integration to deliver immediate, measurable efficiencies that outpace the cost of the software itself.
+
+Despite these macroeconomic hurdles, this long-term vision explicitly includes small and medium enterprises, which form the undeniable backbone of the domestic economy. Tachil emphasised that their strategy is not exclusively focused on top-tier corporate giants, maintaining that democratising this technology is central to their roadmap.
+
+“Because we are not just wanting to tap the enterprise accounts but we also want to hit the SMBs. Because in our world at Salesforce, we believe that SMB is going to be the engine for growth,” he stated.
+
+By providing scalable, modular cloud solutions, the barrier to entry is gradually being lowered, theoretically allowing the smaller enterprises to leverage the same analytical power previously reserved for the multi-billion-rupee conglomerates, provided they can weather the initial financial restructuring required for digital onboarding.
+
+This technological momentum is particularly visible in the ongoing digitisation of the public sector. The local government has initiated a highly forward-thinking approach to modernise state infrastructure, releasing multiple strategic tenders aimed at establishing citizen-services-oriented digital applications.
+
+However, the foundational challenge for these state initiatives remains the deep fragmentation of the existing public data. Currently, vital citizen information is housed across disparate, siloed legacy systems that fundamentally cannot communicate with one another. Rather than attempting a costly and highly disruptive manual overhaul of all existing infrastructure, the modern strategy involves utilising advanced data integration tools.
+
+Tachil explained that enterprise products like Data 360 and MuleSoft are being aggressively pitched to weave these fragmented data points together seamlessly. This advanced connectivity allows the state to integrate public records without requiring the government to completely rebuild its databases from scratch. This sophisticated architectural approach is fundamental to the conceptualisation of a national super app, acting as a consolidated digital gateway for all citizen services.
+
+“Because at the end of the day, citizens are going to be on these platforms, which means it has to be secure; data can’t leak. Those things are going to be very important,” he stressed.
+
+While Salesforce hopes to actively contribute to this overarching national vision, it is entering a fiercely competitive arena. The company is actively bidding against other global tech heavyweights and bespoke local software developers who are equally eager to capture lucrative government tenders.
+
+Tachil noted that their primary focus remains on strategic collaboration with the local industry players to build out these operational units, aiming to position their platform as the most secure foundation for public sector data.
+
+Within the private sector, the boardroom conversation has rapidly shifted from basic operational digitisation to the practical, enterprise-scale implementation of agentic AI. While basic AI has dominated global tech conversations, many local organisations have stubbornly remained in the initial experimentation phase. However, this hesitation is rapidly dissipating.
+
+The local corporate leaders are closely observing the tangible benefits of AI deployment in the neighbouring nearshore markets, particularly in India and are realising the immediate commercial implications.
+
+“They realise that it’s not a marketing gimmick anymore, right? AI is not a marketing gimmick,” Tachil stated.
+
+Companies now want to move past isolated pilot programmes and take enterprise-grade AI systems into full-scale production to drive measurable business metrics and a tangible return on investment.
+
+Instead of relying on tech buzzwords, this shift translates to very practical bottom-line benefits. In the highly competitive retail sector, for instance, AI is not just a backend analytical tool; it is actively scanning consumer behaviour to identify exactly which shoppers are most likely to make a purchase, automatically guiding sales teams on where to focus their daily efforts.
+
+Similarly, as the country actively targets ambitious five million tourist arrivals and a corresponding US $ 10 billion in tourism income, hospitality brands are using AI to solve real operational bottlenecks. When a modern consumer encounters an issue with a hotel booking, the traditional frustration of waiting on hold with a call centre is being entirely replaced by the AI agents capable of immediately processing refunds or altering reservations autonomously.
+
+Furthermore, in a tight macroeconomic environment where corporate marketing budgets remain strictly constrained, AI allows companies to stop wasting capital on broad billboard-style campaigns, instead directing their digital advertising spend only at consumers statistically proven to convert.
+
+At the very heart of this public and private sector transformation is the non-negotiable requirement for absolute data security and platform trust. Governments and large conglomerates simply cannot afford to experiment with unproven technological platforms when highly sensitive citizen and consumer data is at stake.
+
+Building a trusted digital environment is the mandatory preliminary step before any advanced AI applications can be responsibly launched. The architecture must guarantee that digital workflows are housed on highly secure platforms to prevent catastrophic data leaks and operational vulnerabilities.
+
+With the intensifying frequency of sophisticated cyberattacks and the ongoing evolution of local regulatory frameworks like the Cyber Security Act and Data Privacy Act, there is an acute awareness of the severe risks associated with rapid technological deployment.
+
+Tachil explained that their proprietary AI development relies on a strict deterministic approach. This ensures that the AI models operate within highly controlled, pre-defined parameters and cannot “go rogue” or execute unintended, potentially harmful actions.
+
+When questioned on global regulatory emulation, he strongly cautioned against simply copying the regulatory models of other tech-heavy nations like the United States. He advocated instead for strictly sovereign policies that cater directly to the country’s unique security requirements and national interests.
+
+“I would really not want to emulate a different country. We have our own regulations for all policies based on what is required. And I think Sri Lanka is taking the same approach,” Tachil noted, confirming that the local regulations must evolve at their own pace to protect the domestic sovereignty.
+
+Inevitably, the rapid, wide-scale integration of agentic AI brings forth widespread public anxieties regarding the future of the domestic labour market. There are deep-seated concerns that the deployment of autonomous AI will render the existing administrative and analytical roles completely obsolete, triggering a massive wave of corporate downsizing. Tachil proactively sought to dispel this common myth.
+
+“The myth that we need to break is that the minute AI comes in, people are going to start losing jobs,” he stated, framing the future of modern work not as an automated technological replacement but as a deeply collaborative synthesis of humans, AI agents and secure data.
+
+“We are not talking about an AI agent-only journey,” he stressed.
+
+The primary objective is to heavily augment human capabilities, not eliminate them.
+
+However, this optimistic corporate view must be carefully weighed against the immediate economic realities of the local workforce, particularly within the country’s massive business process outsourcing sector. The aggressive automation of customer service workflows directly threatens entry-level administrative jobs that have long served as stepping stones for the local graduates.
+
+While Tachil was remarkably candid about the undeniable fact that the core definition of employment would fundamentally change, the challenge of reskilling a workforce already grappling with a high cost of living remains a monumental task for the government. The critical reskilling imperative spans across all active generations of the workforce. At foundational level, universities and schools must urgently integrate AI tools into their core curricula.
+
+“We need to prepare them to make sure that when they come out of schools and universities, they’re well prepared for the world outside,” he advised.
+
+For those individuals currently embedded in the active workforce, organisations must heavily incorporate AI competency into their standard training programmes. Crucially, even seasoned industry professionals face the immediate threat of irrelevance if they stubbornly fail to adapt.
+
+Tachil urged both state and regulatory bodies to view AI not as a looming threat to employment but as an essential, foundational tool that must be embraced early to foster accelerated career growth.
+
+A critical element of this technological adoption is the strict localisation of the software itself. A common, valid apprehension among local corporate leaders is the underlying fear that the global software giants will simply import pre-packaged solutions designed for the Western markets, completely ignoring the distinct cultural and commercial nuances of the local consumer base. Tachil addressed this concern directly, stating that his organisation recognised early on that a simplistic “copy-paste” strategy is inherently flawed and doomed to fail.
+
+“What you would never see is take a US copy or an India copy into Sri Lanka. It is Sri Lanka for Sri Lanka,” he emphasised.
+
+By working closely with domestic technical partners and utilising early lighthouse customers to lead the way, the technological solutions are being actively customised to fit the specific dynamics, sentiments and economic realities of the local market.
+
+This deep localisation effort is strongly supported by a highly capable and enthusiastic technological talent pool within the country. This is particularly evident in emerging regional tech hubs outside the capital.
+
+Tachil highlighted a recent event hosted for a specialised Salesforce developer community in Jaffna, which unexpectedly attracted an impressive 500 participants. This incredible turnout highlights a vibrant, decentralised start-up ecosystem that is extremely eager to build localised, world-class enterprise solutions. The software giant is actively investing in this specific demographic, deliberately opening up its core platforms for independent software vendors and local developers to seamlessly create applications tailored specifically to the local context.
+
+This deep reservoir of human capital presents a unique macroeconomic opportunity for the country. Just as emerging markets previously bypassed legacy telecommunication networks to jump directly to faster mobile infrastructure, the local market has the clear ability to leapfrog the older, clunky enterprise technologies and adopt an agile, AI-driven operational model.
+
+The local developers possess the agility to rapidly master these advanced platforms, significantly narrowing the historical technological gap between South Asia and more mature Western markets. In the long run, this capability extends far beyond the domestic economy; there is a clear, viable pathway for these locally developed solutions to be aggressively exported across the broader global market.
+
+Looking ahead, the long-term strategy for the local market remains deeply rooted in authentic relationship building. Operating effectively in this specific environment requires a nuanced understanding that business is fundamentally driven by personal trust and long-term mutual alignment.
+
+“I think for us, everything is built on trust. We don’t do bad business. We want to do business with good customers,” Tachil remarked.
+
+Rather than rushing aggressively to close immediate commercial deals, the primary focus is on establishing robust, resilient partnerships with local organisations and ensuring that technological deployments actively and tangibly uplift the domestic community.
+
+In the immediate short term, defined by Tachil as the next 12 to 15 months, the market will witness a highly decisive shift as current corporate AI experiments are securely transitioned into live, full-scale production environments. Simultaneously, an aggressive, concerted push will be made to safely migrate traditional companies away from highly vulnerable, isolated on-premise legacy systems toward secure, infinitely scalable cloud architectures.
+
+As the domestic digital ecosystem actively matures, supported by highly anticipated national regulatory milestones such as the eventual implementation of a sovereign digital ID, the foundation is rapidly being laid for a technological renaissance. This ongoing transformation promises to fundamentally redefine the operational capabilities and global competitiveness of the local enterprise landscape over the coming years.
