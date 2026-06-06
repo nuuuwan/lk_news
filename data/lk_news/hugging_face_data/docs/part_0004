@@ -224289,6 +224289,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-06-colombotelegraphcom-7f934ceb",
+    "num": "colombotelegraphcom-7f934ceb",
+    "date_str": "2026-06-06",
+    "description": "Equality Before The Law: A Call For Unity, Not Division",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/equality-before-the-law-a-call-for-unity-not-division/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1780745957.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-06-virakesarilk-de8ddd00",
     "num": "virakesarilk-de8ddd00",
     "date_str": "2026-06-06",
@@ -224583,5 +224594,27 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1780763160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-07c1f10f",
+    "num": "dailymirrorlk-07c1f10f",
+    "date_str": "2026-06-06",
+    "description": "Andreeva wins first Grand Slam title at French Open",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Andreeva-wins-first-Grand-Slam-title-at-French-Open/108-342199",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780767191.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-f0b7046d",
+    "num": "dailymirrorlk-f0b7046d",
+    "date_str": "2026-06-06",
+    "description": "Iran World Cup team heads to Mexico as US visa row erupts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-World-Cup-team-heads-to-Mexico-as-US-visa-row-erupts/108-342200",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780767803.0
   }
 ]

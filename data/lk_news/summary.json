@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-06 22:09:08",
-  "n_docs": 116775,
+  "time_updated": "2026-06-07 00:11:59",
+  "n_docs": 116778,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 116775,
+  "n_docs_with_text": 116778,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-06",
-  "dataset_size": 1819408623,
+  "dataset_size": 1819635760,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "ta",
-    "si",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-06-virakesarilk-f68c24ad",
-    "num": "virakesarilk-f68c24ad",
+    "doc_id": "2026-06-06-dailymirrorlk-f0b7046d",
+    "num": "dailymirrorlk-f0b7046d",
     "date_str": "2026-06-06",
-    "description": "CBL \u0b95\u0bc1\u0bb4\u0bc1\u0bae\u0ba4\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0bb0\u0bae\u0bcd\u0baf \u0b9a\u0ba9\u0ba4\u0bcd \u0b85\u0bae\u0bb0\u0bb5\u0bc0\u0bb0 \u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bae\u0b9a\u0bbf\u0b99\u0bcd\u0b95 \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/249033",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1780763160.0
+    "description": "Iran World Cup team heads to Mexico as US visa row erupts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-World-Cup-team-heads-to-Mexico-as-US-visa-row-erupts/108-342200",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780767803.0
   }
 }
