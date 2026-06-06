@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--06_08:53:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--06_11:03:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,647** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,685** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-06-dailymirrorlk-c64c9656",
-    "num": "dailymirrorlk-c64c9656",
+    "doc_id": "2026-06-06-dailymirrorlk-c50d5808",
+    "num": "dailymirrorlk-c50d5808",
     "date_str": "2026-06-06",
-    "description": "Gazette issued for establishment of Chartered Institute of media professionals",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gazette-issued-for-establishment-of-Chartered-Institute-of-media-professionals/108-342153",
+    "description": "Fever for 48 hours? See a doctor immediately, Health official urges",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fever-for-48-hours-See-a-doctor-immediately-Health-official-urges/108-342161",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780715502.0
+    "time_ut": 1780722261.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-06 | `dailymirrorlk-c50d5808` | Fever for 48 hours? See a doctor immediately, Health official urges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailymirrorlk-c50d5808)
+- 2026-06-06 | `tamilmirrorlk-9fdbb3a7` | யாழ் கோர விபத்தில் இளைஞன் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-tamilmirrorlk-9fdbb3a7)
+- 2026-06-06 | `dailymirrorlk-c5c4b572` | NASA reverses evacuation alert order for astronauts aboard space station | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailymirrorlk-c5c4b572)
+- 2026-06-06 | `tamilmirrorlk-7152c79b` | பல மாவட்டங்களில் இன்று மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-tamilmirrorlk-7152c79b)
 - 2026-06-06 | `dailymirrorlk-c64c9656` | Gazette issued for establishment of Chartered Institute of media professionals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailymirrorlk-c64c9656)
 - 2026-06-06 | `dailymirrorlk-57ef3d3f` | Sri Lanka calls for stronger international action on ocean conservation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailymirrorlk-57ef3d3f)
 - 2026-06-06 | `dailymirrorlk-62914151` | Buffy and Ted Lasso star Anthony Head dies at 72 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailymirrorlk-62914151)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-06-06 | `virakesarilk-741e158b` | முத்தரிப்புத்துறையில் அருவி ஆற்றின் கரை அரிப்பைத் தடுக்க விசேட தலையீட்டைக் கோருகிறார் ரவிகரன் எம்.பி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-virakesarilk-741e158b)
 - 2026-06-06 | `virakesarilk-e7b7d643` | மன்னார் மாவட்டத்தின் மூன்றாவது நீதிபதியாக சட்டத்தரணி அன்ரனி சர்மிலன் டயஸ் தெரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-virakesarilk-e7b7d643)
 - 2026-06-06 | `tamilmirrorlk-9f851409` | ’அரசாங்கத்தின் லட்சணத்தை மக்களிடம் கேளுங்கள்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-tamilmirrorlk-9f851409)
-- 2026-06-06 | `tamilmirrorlk-e50b75cb` | ’அரசாங்கத்தின் இரட்டை வேடம் அம்பலமாகியுள்ளது’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-tamilmirrorlk-e50b75cb)
-- 2026-06-06 | `tamilmirrorlk-8b4f4db3` | ’சுரேஷ் சலேவுக்குக் கடுமையான சித்திரவதை’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-tamilmirrorlk-8b4f4db3)
-- 2026-06-06 | `dailyftlk-de01d32c` | Cybercrime safe havens in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailyftlk-de01d32c)
-- 2026-06-06 | `tamilmirrorlk-c622fcef` | ’எங்களை அசைக்க முடியாது’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-tamilmirrorlk-c622fcef)
 
 ---
 
