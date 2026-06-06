@@ -224033,5 +224033,60 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1780735740.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-tamilmirrorlk-cd6fac40",
+    "num": "tamilmirrorlk-cd6fac40",
+    "date_str": "2026-06-06",
+    "description": "50\u0b86\u0bb5\u0ba4\u0bc1 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bb2\u0bc8\u0baf\u0b95 \u0bae\u0bc8\u0ba8\u0bcd\u0ba4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/50\u0b86\u0bb5\u0ba4\u0bc1-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0bae\u0bb2\u0bc8\u0baf\u0b95-\u0bae\u0bc8\u0ba8\u0bcd\u0ba4\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b9a\u0bbe\u0ba4\u0ba9\u0bc8/44-378179",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780737162.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-1a18e0b4",
+    "num": "dailymirrorlk-1a18e0b4",
+    "date_str": "2026-06-06",
+    "description": "Rough seas and strong winds expected across Sri Lankan waters",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rough-seas-and-strong-winds-expected-across-Sri-Lankan-waters/108-342183",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780737418.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-6fd6ec73",
+    "num": "dailymirrorlk-6fd6ec73",
+    "date_str": "2026-06-06",
+    "description": "Islandwide mosquito control drive set for June 08\u201310",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Islandwide-mosquito-control-drive-set-for-June-0810/108-342184",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780739141.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-30883476",
+    "num": "dailymirrorlk-30883476",
+    "date_str": "2026-06-06",
+    "description": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Canada-bans-Texas-cattle-over-flesh-eating-screwworm-outbreak-in-US/108-342185",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780740834.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-c659e618",
+    "num": "dailymirrorlk-c659e618",
+    "date_str": "2026-06-06",
+    "description": "India\u2019s \u2019Cockroach\u2019 youth movement founder arrives in New Delhi to protest Modi",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indias-Cockroach-youth-movement-founder-arrives-in-New-Delhi-to-protest-Modi/108-342186",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780742791.0
   }
 ]
