@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-06 11:03:00",
-  "n_docs": 116685,
+  "time_updated": "2026-06-06 12:50:45",
+  "n_docs": 116696,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 116685,
+  "n_docs_with_text": 116696,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-06",
-  "dataset_size": 1817784261,
+  "dataset_size": 1818124570,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-06-dailymirrorlk-c50d5808",
-    "num": "dailymirrorlk-c50d5808",
+    "doc_id": "2026-06-06-dailymirrorlk-65727aa4",
+    "num": "dailymirrorlk-65727aa4",
     "date_str": "2026-06-06",
-    "description": "Fever for 48 hours? See a doctor immediately, Health official urges",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fever-for-48-hours-See-a-doctor-immediately-Health-official-urges/108-342161",
+    "description": "Two more arrested over deadly Meegoda crash",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-more-arrested-over-deadly-Meegoda-crash/108-342179",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780722261.0
+    "time_ut": 1780730013.0
   }
 }

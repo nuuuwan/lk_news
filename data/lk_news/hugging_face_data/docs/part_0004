@@ -222540,6 +222540,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-62a45741",
+    "num": "dailymirrorlk-62a45741",
+    "date_str": "2026-06-05",
+    "description": "No reduction in vehicle imports: Customs data challenges Government expectations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-reduction-in-vehicle-imports-Customs-data-challenges-Government-expectations/108-342102",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780663771.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-05-virakesarilk-c0d39453",
     "num": "virakesarilk-c0d39453",
     "date_str": "2026-06-05",
@@ -222559,6 +222570,17 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780664227.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-dailymirrorlk-ed55a487",
+    "num": "dailymirrorlk-ed55a487",
+    "date_str": "2026-06-05",
+    "description": "Hellfire in Horana",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hellfire-in-Horana/108-342106",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780665755.0
   },
   {
     "doc_type": "lk_news",
@@ -223593,5 +223615,104 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780722261.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-7604a9db",
+    "num": "dailymirrorlk-7604a9db",
+    "date_str": "2026-06-06",
+    "description": "We spend on coils but ignore mosquito breeding sites\u2019 \u2013 Dr. Serasinghe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/We-spend-on-coils-but-ignore-mosquito-breeding-sites-Dr-Serasinghe/108-342170",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780724261.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-tamilmirrorlk-08a8fd0a",
+    "num": "tamilmirrorlk-08a8fd0a",
+    "date_str": "2026-06-06",
+    "description": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b8a\u0b9f\u0b95\u0b9a\u0bcd\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0b8a\u0b9f\u0b95\u0b9a\u0bcd\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-378169",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780724984.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-7c998dd6",
+    "num": "dailymirrorlk-7c998dd6",
+    "date_str": "2026-06-06",
+    "description": "New malaria parasite threat raises alarm in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-malaria-parasite-threat-raises-alarm-in-Sri-Lanka/108-342175",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780725894.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-33ed16b1",
+    "num": "dailymirrorlk-33ed16b1",
+    "date_str": "2026-06-06",
+    "description": "Students join Green Walk",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Students-join-Green-Walk/110-342176",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780726825.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-6cf980f6",
+    "num": "dailymirrorlk-6cf980f6",
+    "date_str": "2026-06-06",
+    "description": "Iran\u2019s football team granted visas to enter US for World Cup, officials say",
+    "url_metadata": "https://www.dailymirror.lk/international/Irans-football-team-granted-visas-to-enter-US-for-World-Cup-officials-say/107-342177",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780728564.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-tamilmirrorlk-a7b32237",
+    "num": "tamilmirrorlk-a7b32237",
+    "date_str": "2026-06-06",
+    "description": "FIFA : \u0b87\u0bb0\u0b9a\u0bbf\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd \u0baa\u0bcb\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0ba4\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/FIFA-\u0b87\u0bb0\u0b9a\u0bbf\u0b95\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd-\u0baa\u0bcb\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd-\u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bcd-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2-\u0ba4\u0b9f\u0bc8/50-378170",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780729105.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-tamilmirrorlk-b1723db1",
+    "num": "tamilmirrorlk-b1723db1",
+    "date_str": "2026-06-06",
+    "description": "\u0bb5\u0bbf\u0bb1\u0b95\u0bc1 \u0ba4\u0bc7\u0b9f\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bb5\u0bb0\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bbf\u0bb1\u0b95\u0bc1-\u0ba4\u0bc7\u0b9f\u0b9a\u0bcd-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1-\u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bb5\u0bb0\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/76-378171",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780729722.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-7caacd02",
+    "num": "dailymirrorlk-7caacd02",
+    "date_str": "2026-06-06",
+    "description": "Chinese Defence Attach\u00e9 meets Defence Secretary",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Chinese-Defence-Attach\u00e9-meets-Defence-Secretary/108-342178",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780729907.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-65727aa4",
+    "num": "dailymirrorlk-65727aa4",
+    "date_str": "2026-06-06",
+    "description": "Two more arrested over deadly Meegoda crash",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-more-arrested-over-deadly-Meegoda-crash/108-342179",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780730013.0
   }
 ]
