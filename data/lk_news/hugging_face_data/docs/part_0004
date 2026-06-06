@@ -224385,5 +224385,49 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1780749420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-e5c70ffe",
+    "num": "dailymirrorlk-e5c70ffe",
+    "date_str": "2026-06-06",
+    "description": "Strong wind advisory issued for several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Strong-wind-advisory-issued-for-several-areas/108-342193",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780751481.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-038897e7",
+    "num": "dailymirrorlk-038897e7",
+    "date_str": "2026-06-06",
+    "description": "CBL Group Chairman Ramya Sanath Amaraweera Wickramasingha passes away",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CBL-Group-Chairman-Ramya-Sanath-Amaraweera-Wickramasingha-passes-away/108-342194",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780755572.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-dailymirrorlk-cd23bd95",
+    "num": "dailymirrorlk-cd23bd95",
+    "date_str": "2026-06-06",
+    "description": "Sri Lanka Coast Guard felicitates founding Director General Daya Dharmapriya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Coast-Guard-felicitates-founding-Director-General-Daya-Dharmapriya/108-342195",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780755904.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-tamilmirrorlk-20a64a60",
+    "num": "tamilmirrorlk-20a64a60",
+    "date_str": "2026-06-06",
+    "description": "\u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bcb\u0bb0\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bcc\u0bbf\u0baf\u0bbe\u0ba9 \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0ba4\u0b95\u0bb5\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bcb\u0bb0\u0bcd-\u0b87\u0bb2\u0bcd\u0bb2\u0bae\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb5\u0bcc\u0bbf\u0baf\u0bbe\u0ba9-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf-\u0ba4\u0b95\u0bb5\u0bb2\u0bcd/175-378183",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780756588.0
   }
 ]
