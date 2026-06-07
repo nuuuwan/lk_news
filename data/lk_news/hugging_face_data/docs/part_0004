@@ -225881,5 +225881,71 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1780842240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-dailymirrorlk-d59b130e",
+    "num": "dailymirrorlk-d59b130e",
+    "date_str": "2026-06-07",
+    "description": "Govt. to revive 25 stalled health projects at cost of Rs. 76Bn",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-to-revive-25-stalled-health-projects-at-cost-of-Rs-76Bn/108-342224",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780844497.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-tamilmirrorlk-c7e2a67e",
+    "num": "tamilmirrorlk-c7e2a67e",
+    "date_str": "2026-06-07",
+    "description": "\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd 50 \u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95 \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0ba9\u0bbf\u0baf\u0bbe\u0bb0\u0bcd-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd-50-\u0bb5\u0bc0\u0ba4\u0bae\u0bbe\u0b95-\u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-378222",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780845676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-tamilmirrorlk-f770a79a",
+    "num": "tamilmirrorlk-f770a79a",
+    "date_str": "2026-06-07",
+    "description": "\u2019\u2019\u0baa\u0bbe\u0b9f\u0b95\u0bb0\u0bbf\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1 \u0b87\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd\u2019\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b95\u0bb0\u0bbf\u0ba9\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1-\u0b87\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd/175-378223",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780847044.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-tamilmirrorlk-01682eca",
+    "num": "tamilmirrorlk-01682eca",
+    "date_str": "2026-06-07",
+    "description": "\u0b9a\u0bb2\u0bc7  \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb2\u0bc7-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf/175-378224",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780848374.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-dailymirrorlk-ee1c6616",
+    "num": "dailymirrorlk-ee1c6616",
+    "date_str": "2026-06-07",
+    "description": "Suresh Sallay admitted to National Hospital",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suresh-Sallay-admitted-to-National-Hospital/108-342225",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780849315.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-tamilmirrorlk-789d4583",
+    "num": "tamilmirrorlk-789d4583",
+    "date_str": "2026-06-07",
+    "description": "\u0baa\u0bc2\u0b9c\u0bc8 \u0b85\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bca\u0bb2\u0bcd\u0bb2\u0bc8 : \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc2\u0b9c\u0bc8-\u0b85\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bca\u0bb2\u0bcd\u0bb2\u0bc8-\u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a-\u0b9a\u0baa\u0bc8-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-378226",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780849395.0
   }
 ]
