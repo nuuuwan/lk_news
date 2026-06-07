@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--07_13:11:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--07_14:48:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,837** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,874** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-07-tamilmirrorlk-be162c8a",
-    "num": "tamilmirrorlk-be162c8a",
+    "doc_id": "2026-06-07-virakesarilk-a6fc9c20",
+    "num": "virakesarilk-a6fc9c20",
     "date_str": "2026-06-07",
-    "description": "\u0b88\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bb4\u0bbf\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bbe?: \u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0baa\u0bb4\u0bbf\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bbe-\u0ba8\u0bbe\u0bae\u0bb2\u0bcd-\u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf/175-378202",
+    "description": "\u0b87\u0bb0\u0bc1\u0bb5\u0bc7\u0bb1\u0bc1 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 2 \u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0b9f\u0bcd\u0baa\u0b9f 4 \u0baa\u0bc7\u0bb0\u0bcd \u0ba8\u0bc0\u0bb0\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/249086",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1780816655.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1780823580.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-06-07 | `tamilmirrorlk-be162c8a` | ஈஸ்டர் தாக்குதல் பழிவாங்கலா?: நாமல் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-be162c8a)
-- 2026-06-07 | `tamilmirrorlk-20badd84` | டிமிக்கி காட்டும் சிலிண்டர் திருடன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-20badd84)
-- 2026-06-07 | `dailymirrorlk-4f4dbb50` | Suresh Salley being used as a scapegoat, says wife following CID visit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-4f4dbb50)
-- 2026-06-07 | `tamilmirrorlk-0f84d8b9` | ஓமந்தையில் ஒருவர் படுகொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-0f84d8b9)
-- 2026-06-07 | `tamilmirrorlk-47be1754` | கம்மன்பிலவுக்கு பொலிஸ் அறிவுரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-47be1754)
-- 2026-06-07 | `dailymirrorlk-76bea410` | White House AI policy adviser Krishnan to leave position | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-76bea410)
-- 2026-06-07 | `dailymirrorlk-eb307696` | Anthropic urges AI labs to pause development, warns humans risk losing control | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-eb307696)
-- 2026-06-07 | `dailymirrorlk-3921c634` | Reservoirs 63% full, water secured for Yala season: Irrigation Department | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-3921c634)
-- 2026-06-07 | `dailymirrorlk-1930c502` | Fishermen, naval community warned to stay ashore as seas turn dangerous | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-1930c502)
-- 2026-06-07 | `tamilmirrorlk-8b273fb2` | கார் மோதி இரு பெண்கள் பலி; சாரதி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-8b273fb2)
-- 2026-06-07 | `virakesarilk-18098c23` | தமிழர்கள் அனுபவித்த துன்பங்களை கத்தோலிக்க ஆயர் பேரவை ஒப்புக்கொள்ளத் தவறியிருக்கிறது - இலங்கைக்கான வத்திக்கான் தூதுவருக்கு தமிழ் சட்டத்தரணிகள் பேரவை கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-18098c23)
-- 2026-06-07 | `virakesarilk-35a43c43` | பெலவத்தையை உலுக்கிய உளவுத் தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-35a43c43)
-- 2026-06-07 | `tamilmirrorlk-9da39d82` | மனைவியின் மன்னா தாக்குதலில்: கணவன் கப்சிப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-9da39d82)
-- 2026-06-07 | `virakesarilk-d4681d12` | 39 நாடுகளுக்கான டொனால்ட் ட்ரம்பின் 'குடிவரவுத் தடை' சட்டவிரோதமானது - அமெரிக்க நீதிமன்றம் தீர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-d4681d12)
-- 2026-06-07 | `virakesarilk-eeb887ba` | 13ஐ நடைமுறைப்படுத்த இரட்டை வேடம் போடோம் ; மாகாணசபைத் தேர்தலை வலியுறுத்தி தேசிய குழு அமைக்கப்படும் - எதிர்க்கட்சித் தலைவர் சஜித் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-eeb887ba)
-- 2026-06-07 | `dailymirrorlk-bec70300` | SJB expels five Bulathsinhala Pradeshiya Sabha members over bribery allegations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-bec70300)
-- 2026-06-07 | `dailymirrorlk-73c81e4d` | US eyes Iranian assets for Gulf allies’ reconstruction, source says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-73c81e4d)
-- 2026-06-07 | `virakesarilk-4224db4a` | இறுக்கப்படும் கடிவாளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-4224db4a)
-- 2026-06-07 | `dailymirrorlk-3660fbc8` | Hit-and-run by drunk driver kills two women | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-3660fbc8)
-- 2026-06-07 | `virakesarilk-31cf37cc` | சித்திரவதைகளைத் தடுப்பதற்கான ஐ.நா. உபகுழுவின் பிரதிநிதிகள் 15 இல் வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-31cf37cc)
+- 2026-06-07 | `virakesarilk-a6fc9c20` | இருவேறு பகுதிகளில் 2 பெண்கள் உட்பட 4 பேர் நீரில் மூழ்கி உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-a6fc9c20)
+- 2026-06-07 | `tamilmirrorlk-fcc5dd45` | குடிகார யாசகர்களுக்கிடையே மோதல் : ஒருவர் வெட்டிக்கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-fcc5dd45)
+- 2026-06-07 | `virakesarilk-b44029bf` | சீப்பை ஒளித்து வைத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-b44029bf)
+- 2026-06-07 | `tamilmirrorlk-3a289c04` | யாசகர்கள்  கைகலப்பு: முதியவர் படுகொலை: இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-3a289c04)
+- 2026-06-07 | `virakesarilk-cfec64d8` | மலையகத்தின் சனத்தொகை வீழ்ச்சியும் பல்பரிமாண நெருக்கடிகளும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-cfec64d8)
+- 2026-06-07 | `dailymirrorlk-c0c60fd8` | Private buses to slash services by 50% over fare dispute | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-c0c60fd8)
+- 2026-06-07 | `tamilmirrorlk-b458ad82` | Facebook பார்ட்டி: இளம் பெண்களுடன் 28 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-b458ad82)
+- 2026-06-07 | `dailymirrorlk-d81a932c` | CAASL chief named Asia-Pacific Aviation Security chair | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-d81a932c)
+- 2026-06-07 | `virakesarilk-79d183ed` | கலைஞரான சங்கீதனை விடுவிக்குமாறு வலியுறுத்தி ஜனாதிபதி அநுரவுக்கு சிறிதரன் எம்.பி கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-79d183ed)
+- 2026-06-07 | `virakesarilk-d701044e` | யாழ். புங்குடுதீவு கடலில் காணாமல் போன கடற்தொழிலாளர்கள் பாதுகாப்பாக மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-d701044e)
+- 2026-06-07 | `virakesarilk-d3818229` | சர்வதேச நாணய நிதியத்தின் புதிய அங்கீகாரம் : இலங்கையின் பொருளாதார மீட்சிப் பயணத்திற்கு ஒரு பெரும் உத்வேகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-d3818229)
+- 2026-06-07 | `tamilmirrorlk-b0a388b6` | ’’என் கணவர் ஒரு பலிக்கடா; நிரபராதி!’’ –  கண்ணீர் மல்கும் மனைவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-b0a388b6)
+- 2026-06-07 | `virakesarilk-b85689b8` | ​கல்லடி வேலூரில் திடீர் தீ விபத்து ; பொதுமக்களின் உடனடிச் செயல்பாட்டால் தவிர்ந்த பெரும் சேதம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-b85689b8)
+- 2026-06-07 | `dailymirrorlk-b4f9a8af` | Suresh Sallay’s treatment under PTA is deeply troubling - Namal Rajapaksa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-b4f9a8af)
+- 2026-06-07 | `tamilmirrorlk-d66ff621` | தொழிலாளி மீது முகாமையாளர் தாக்குதல் ; இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-d66ff621)
+- 2026-06-07 | `virakesarilk-e01a61cc` | நீதிபதிகளின் விவகாரத்தை கையிலெடுக்கவுள்ள எதிரணிகள் - வயதெல்லை அதிகரிப்பு குறித்து மௌனம் காக்கும் அரசாங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-e01a61cc)
+- 2026-06-07 | `tamilmirrorlk-269fa195` | மனைவியை கொளுத்திய கணவன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-269fa195)
+- 2026-06-07 | `tamilmirrorlk-5227f82d` | வற் வரியை மாற்றியமைக்குமாறு நகை வியாபாரிகள் அவசர வேண்டுகோள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-5227f82d)
+- 2026-06-07 | `virakesarilk-a1ebc67e` | சலேவுக்கு அவசர மருத்துவ சிகிச்சை வழங்குவதற்கு இடமாற்றுங்கள்: சிஐடி பணிப்பாளருக்கு சட்டத்தரணி அவசர கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-a1ebc67e)
+- 2026-06-07 | `virakesarilk-20bcefe7` | சலே சாகும் வரையிலான போராட்டத்தில் உறுதியாக உள்ளார் - மனைவி தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-20bcefe7)
 
 ---
 
