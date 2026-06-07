@@ -1,0 +1,33 @@
+Anthropic urges AI labs to pause development, warns humans risk losing control
+
+Reuters - Anthropic is calling on major artificial intelligence labs to consider a coordinated and verifiable ​pause in development, warning that rapid advances in the technology could soon allow AI systems to improve themselves faster than society ‌can manage the risks.
+
+The Claude creator said AI's ability to complete tasks on its own has been doubling roughly every four months and it was headed for "recursive self-improvement", the point at which the technology can improve without human intervention.
+
+"If systems are capable of fully building their own successors, the ways we secure them, monitor them, and shape their behavior all grow much ​more important," the startup said in a lengthy blog post on Thursday, adding that a pause would allow society to "deal with its immense ​implications."
+
+"We are not there yet, and recursive self-improvement is not inevitable. But it could come sooner than most institutions are ⁠prepared for," Anthropic co-founder Jack Clark and Anthropic Institute lead Marina Favaro wrote in the post.
+
+Fears that advanced AI systems may get out of human control ​and cause societal harm have risen as the technology becomes increasingly capable. Anthropic's own Mythos model sent shockwaves through industries including banking and software earlier this year ​with its ability to find vulnerabilities in existing code.
+
+But regulation has been slow, especially in the U.S. where most leading AI labs are based. A Trump administration executive order earlier this week put the onus on the labs themselves, asking them to voluntarily submit their most capable models for government cybersecurity testing before public release.
+
+AI researchers have also urged a pause ​before but had little success. Elon Musk, who owns AI lab xAI, was among backers of a 2023 push by the non-profit Future of Life ​Institute to halt AI development for six months to allow time for safety guardrails.
+
+Anthropic has long positioned itself as a safety-focused AI lab. Earlier this year, it refused to let ‌the U.S. ⁠military use its models for domestic surveillance and fully autonomous weapons, prompting backlash from the government which put it on a national security blacklist, set to take effect later in 2026.
+
+Reuters reported on Friday the dispute was showing signs of easing across parts of the U.S. government.
+
+Still, Anthropic has continued to release increasingly powerful models and in February walked back a key safety pledge, saying that it would no longer hold back potentially dangerous AI if rivals were close to matching ​its capabilities.
+
+It was recently valued at $965 billion ​in a massive funding round and confidentially ⁠filed for a U.S. initial public offering on Monday, putting it ahead of rival OpenAI in both valuation and the race to secure crucial funding.
+
+Anthropic's Thursday post cautioned that unilateral or poorly coordinated slowdowns could backfire if less cautious ​actors continue advancing, potentially reducing overall safety.
+
+It said that a meaningful pause would require agreement among "multiple well-resourced labs" ​operating at the technological ⁠frontier, as well as rules on what conditions would trigger or lift such a pause and who would oversee it.
+
+"A unilateral pause by one lab, by contrast, is achievable immediately, but accomplishes much less: it would change who the front-runner is, but it would not create the wider deliberative process that is currently missing," the startup ⁠said.
+
+Its research arm, ​Anthropic Institute, plans to study systems needed to support a slowdown and in the coming ​months will convene policymakers, researchers, civil society groups and rival AI firms to discuss managing risks such as recursive self-improvement.
+
+OpenAI, xAI, Alphabet, Meta Platforms and France's Mistral did not immediately respond to requests ​for comment on whether they would join the call.

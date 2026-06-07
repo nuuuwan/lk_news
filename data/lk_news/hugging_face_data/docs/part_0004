@@ -224861,6 +224861,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-07-adalk-d790e18e",
+    "num": "adalk-d790e18e",
+    "date_str": "2026-06-07",
+    "description": "\u0dc6\u0dda\u0dc3\u0dca\u0db6\u0dd4\u0d9a\u0dca \u0dc3\u0dcf\u0daf\u0dba\u0d9a\u0dca \u0dc0\u0da7\u0dbd\u0dcf 75\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc6\u0dda\u0dc3\u0dca\u0db6\u0dd4\u0d9a\u0dca-\u0dc3\u0dcf\u0daf\u0dba\u0d9a\u0dca-\u0dc0\u0da7\u0dbd\u0dcf-75\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-422770",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780801239.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-07-dailymirrorlk-fb625359",
     "num": "dailymirrorlk-fb625359",
     "date_str": "2026-06-07",
@@ -225166,5 +225177,93 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780810663.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-dailymirrorlk-3921c634",
+    "num": "dailymirrorlk-3921c634",
+    "date_str": "2026-06-07",
+    "description": "Reservoirs 63% full, water secured for Yala season: Irrigation Department",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Reservoirs-63-full-water-secured-for-Yala-season-Irrigation-Department/108-342208",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780810976.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-dailymirrorlk-eb307696",
+    "num": "dailymirrorlk-eb307696",
+    "date_str": "2026-06-07",
+    "description": "Anthropic urges AI labs to pause development, warns humans risk losing control",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Anthropic-urges-AI-labs-to-pause-development-warns-humans-risk-losing-control/108-342209",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780811127.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-dailymirrorlk-76bea410",
+    "num": "dailymirrorlk-76bea410",
+    "date_str": "2026-06-07",
+    "description": "White House AI policy adviser Krishnan to leave position",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/White-House-AI-policy-adviser-Krishnan-to-leave-position/108-342210",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780812048.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-tamilmirrorlk-47be1754",
+    "num": "tamilmirrorlk-47be1754",
+    "date_str": "2026-06-07",
+    "description": "\u0b95\u0bae\u0bcd\u0bae\u0ba9\u0bcd\u0baa\u0bbf\u0bb2\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bc1\u0bb0\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bae\u0bcd\u0bae\u0ba9\u0bcd\u0baa\u0bbf\u0bb2\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bc1\u0bb0\u0bc8/175-378198",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780814476.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-tamilmirrorlk-0f84d8b9",
+    "num": "tamilmirrorlk-0f84d8b9",
+    "date_str": "2026-06-07",
+    "description": "\u0b93\u0bae\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0bae\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8/175-378199",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780815342.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-dailymirrorlk-4f4dbb50",
+    "num": "dailymirrorlk-4f4dbb50",
+    "date_str": "2026-06-07",
+    "description": "Suresh Salley being used as a scapegoat, says wife following CID visit",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suresh-Salley-being-used-as-a-scapegoat-says-wife-following-CID-visit/108-342211",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780816012.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-tamilmirrorlk-20badd84",
+    "num": "tamilmirrorlk-20badd84",
+    "date_str": "2026-06-07",
+    "description": "\u0b9f\u0bbf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bbf \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b9f\u0bbf\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bbf-\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b9a\u0bbf\u0bb2\u0bbf\u0ba3\u0bcd\u0b9f\u0bb0\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd/76-378201",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780816293.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-tamilmirrorlk-be162c8a",
+    "num": "tamilmirrorlk-be162c8a",
+    "date_str": "2026-06-07",
+    "description": "\u0b88\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0baa\u0bb4\u0bbf\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bbe?: \u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0baa\u0bb4\u0bbf\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bbe-\u0ba8\u0bbe\u0bae\u0bb2\u0bcd-\u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf/175-378202",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780816655.0
   }
 ]
