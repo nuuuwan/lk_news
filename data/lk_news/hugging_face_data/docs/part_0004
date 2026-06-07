@@ -219108,6 +219108,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-03-islandlk-03806512",
+    "num": "islandlk-03806512",
+    "date_str": "2026-06-03",
+    "description": "Another game of chicken",
+    "url_metadata": "http://island.lk/another-game-of-chicken/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780509180.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-03-islandlk-16a5e71c",
     "num": "islandlk-16a5e71c",
     "date_str": "2026-06-03",
@@ -222859,6 +222870,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-05-islandlk-dbedc0de",
+    "num": "islandlk-dbedc0de",
+    "date_str": "2026-06-05",
+    "description": "Ceylon Chamber expresses concern over new US labour-related tariffs and calls for urgent engagement",
+    "url_metadata": "http://island.lk/ceylon-chamber-expresses-concern-over-new-us-labour-related-tariffs-and-calls-for-urgent-engagement/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780678920.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-05-dailymirrorlk-c4578590",
     "num": "dailymirrorlk-c4578590",
     "date_str": "2026-06-05",
@@ -222867,6 +222889,17 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780678953.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-05-islandlk-48570c4c",
+    "num": "islandlk-48570c4c",
+    "date_str": "2026-06-05",
+    "description": "Rupee weakens sharply against dollar as energy cost concerns resurface",
+    "url_metadata": "http://island.lk/rupee-weakens-sharply-against-dollar-as-energy-cost-concerns-resurface/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780678980.0
   },
   {
     "doc_type": "lk_news",
@@ -223615,6 +223648,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1780720299.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-islandlk-9bcbbe6c",
+    "num": "islandlk-9bcbbe6c",
+    "date_str": "2026-06-06",
+    "description": "PEOTV secures media rights for FIFA World Cup",
+    "url_metadata": "http://island.lk/peotv-secures-media-rights-for-fifa-world-cup/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780720920.0
   },
   {
     "doc_type": "lk_news",
@@ -224476,6 +224520,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-06-islandlk-dcab47a6",
+    "num": "islandlk-dcab47a6",
+    "date_str": "2026-06-06",
+    "description": "International Meeting of Chief Justices and Senior Justices on",
+    "url_metadata": "http://island.lk/international-meeting-of-chief-justices-and-senior-justices-on/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780749960.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-06-virakesarilk-1d8955df",
     "num": "virakesarilk-1d8955df",
     "date_str": "2026-06-06",
@@ -224495,6 +224550,94 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780751481.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-islandlk-3e02ec93",
+    "num": "islandlk-3e02ec93",
+    "date_str": "2026-06-06",
+    "description": "Forty Years After the Kantale Tank Disaster, Sri Lanka Still Awaits a Dam Safety Regulator",
+    "url_metadata": "http://island.lk/forty-years-after-the-kantale-tank-disaster-sri-lanka-still-awaits-a-dam-safety-regulator/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780751880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-islandlk-4c004ca8",
+    "num": "islandlk-4c004ca8",
+    "date_str": "2026-06-06",
+    "description": "My Passion for Productivity",
+    "url_metadata": "http://island.lk/my-passion-for-productivity/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780751880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-islandlk-aa1cd285",
+    "num": "islandlk-aa1cd285",
+    "date_str": "2026-06-06",
+    "description": "The 2015 election and my entry to Parliament on the National List",
+    "url_metadata": "http://island.lk/the-2015-election-and-my-entry-to-parliament-on-the-national-list/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780751880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-islandlk-509be610",
+    "num": "islandlk-509be610",
+    "date_str": "2026-06-06",
+    "description": "XPeng G6 launched in Lanka, marking push into premium EV segment",
+    "url_metadata": "http://island.lk/xpeng-g6-launched-in-lanka-marking-push-into-premium-ev-segment/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780753260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-islandlk-5e0f727f",
+    "num": "islandlk-5e0f727f",
+    "date_str": "2026-06-06",
+    "description": "Aren\u2019t We All Cockroaches?",
+    "url_metadata": "http://island.lk/arent-we-all-cockroaches/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780753260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-islandlk-d15d349e",
+    "num": "islandlk-d15d349e",
+    "date_str": "2026-06-06",
+    "description": "Appointment to the National Salaries Commission and many others adding to already heavy work load",
+    "url_metadata": "http://island.lk/appointment-to-the-national-salaries-commission-and-many-others-adding-to-already-heavy-work-load/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780753260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-islandlk-d8545977",
+    "num": "islandlk-d8545977",
+    "date_str": "2026-06-06",
+    "description": "SLCGE presents proposal for apparel design hub to ministry",
+    "url_metadata": "http://island.lk/slcge-presents-proposal-for-apparel-design-hub-to-ministry/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780753260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-06-islandlk-2fd9ccc3",
+    "num": "islandlk-2fd9ccc3",
+    "date_str": "2026-06-06",
+    "description": "Entering MIT for my Ph.D program, coping with harsh Boston winter and breasting the tape",
+    "url_metadata": "http://island.lk/entering-mit-for-my-ph-d-program-coping-with-harsh-boston-winter-and-breasting-the-tape/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1780753320.0
   },
   {
     "doc_type": "lk_news",
@@ -224616,5 +224759,16 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780767803.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-tamilmirrorlk-40e8b91a",
+    "num": "tamilmirrorlk-40e8b91a",
+    "date_str": "2026-06-07",
+    "description": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bcb\u0bb0\u0bbf\u0ba9\u0bbe\u0bbe\u0bcd \u0ba8\u0b9f\u0bbf\u0b95\u0bbe\u0bcd \u0bb0\u0bb5\u0bbf \u0bae\u0bcb\u0b95\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba9\u0bcd\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0bcb\u0bb0\u0bbf\u0ba9\u0bbe\u0bbe\u0bcd-\u0ba8\u0b9f\u0bbf\u0b95\u0bbe\u0bcd-\u0bb0\u0bb5\u0bbf-\u0bae\u0bcb\u0b95\u0ba9\u0bcd/175-378185",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780786899.0
   }
 ]
