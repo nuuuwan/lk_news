@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--07_08:56:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--07_11:16:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,794** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,828** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-07-adalk-a7e62e2c",
-    "num": "adalk-a7e62e2c",
+    "doc_id": "2026-06-07-dailymirrorlk-1930c502",
+    "num": "dailymirrorlk-1930c502",
     "date_str": "2026-06-07",
-    "description": "\u0dc0\u0dd2\u0dba\u0dc5\u0dd2 \u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0dda \u0dc0\u0dd3 \u0dc0\u0d9c\u0dcf\u0dc0\u0da7 \u0da9\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd2\u0dba\u0dc5\u0dd2-\u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0dda-\u0dc0\u0dd3-\u0dc0\u0d9c\u0dcf\u0dc0\u0da7-\u0da9\u0dca\u200d\u0dbb\u0ddd\u0db1-\u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dba/11-422767",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1780797348.0
+    "description": "Fishermen, naval community warned to stay ashore as seas turn dangerous",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fishermen-naval-community-warned-to-stay-ashore-as-seas-turn-dangerous/108-342207",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780810663.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-06-07 | `adalk-a7e62e2c` | වියළි කලාපයේ වී වගාවට ඩ්‍රෝන තාක්ෂණය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-adalk-a7e62e2c)
-- 2026-06-07 | `tamilmirrorlk-40e8b91a` | மன்னிப்பு கோரினாா் நடிகா் ரவி மோகன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-40e8b91a)
-- 2026-06-06 | `dailymirrorlk-f0b7046d` | Iran World Cup team heads to Mexico as US visa row erupts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailymirrorlk-f0b7046d)
-- 2026-06-06 | `dailymirrorlk-07c1f10f` | Andreeva wins first Grand Slam title at French Open | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailymirrorlk-07c1f10f)
-- 2026-06-06 | `virakesarilk-f68c24ad` | CBL குழுமத் தலைவர் ரம்ய சனத் அமரவீர விக்கிரமசிங்க காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-virakesarilk-f68c24ad)
-- 2026-06-06 | `virakesarilk-ef3535d7` | நுரைச்சோலை தளுவ கடலில் மூழ்கி ஒரே குடும்பத்தைச் சேர்ந்த மூவர் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-virakesarilk-ef3535d7)
-- 2026-06-06 | `virakesarilk-bf29c3df` | ஹொரணை முதியோர் இல்லத் தீ விபத்து : உயிரிழப்பு 13 ஆக உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-virakesarilk-bf29c3df)
-- 2026-06-06 | `adalk-8e39de85` | උදයගේ ප්‍රකාශය අසත්‍යක් බව පොලීසිය කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-adalk-8e39de85)
-- 2026-06-06 | `tamilmirrorlk-010a9c20` | நீரில் மூழ்கி மூவர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-tamilmirrorlk-010a9c20)
-- 2026-06-06 | `dailymirrorlk-154ca7d0` | Three youths drown while bathing near Norochcholai Estuary | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailymirrorlk-154ca7d0)
-- 2026-06-06 | `dailymirrorlk-5abe2a24` | Police reject Gammanpila’s claims over Suresh Sallay’s treatment in CID custody | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailymirrorlk-5abe2a24)
-- 2026-06-06 | `tamilmirrorlk-20a64a60` | முதியோர் இல்லம் குறித்து வௌியான அதிர்ச்சி தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-tamilmirrorlk-20a64a60)
-- 2026-06-06 | `dailymirrorlk-cd23bd95` | Sri Lanka Coast Guard felicitates founding Director General Daya Dharmapriya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailymirrorlk-cd23bd95)
-- 2026-06-06 | `dailymirrorlk-038897e7` | CBL Group Chairman Ramya Sanath Amaraweera Wickramasingha passes away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-dailymirrorlk-038897e7)
-- 2026-06-06 | `islandlk-2fd9ccc3` | Entering MIT for my Ph.D program, coping with harsh Boston winter and breasting the tape | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-islandlk-2fd9ccc3)
-- 2026-06-06 | `islandlk-d8545977` | SLCGE presents proposal for apparel design hub to ministry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-islandlk-d8545977)
-- 2026-06-06 | `islandlk-d15d349e` | Appointment to the National Salaries Commission and many others adding to already heavy work load | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-islandlk-d15d349e)
-- 2026-06-06 | `islandlk-5e0f727f` | Aren’t We All Cockroaches? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-islandlk-5e0f727f)
-- 2026-06-06 | `islandlk-509be610` | XPeng G6 launched in Lanka, marking push into premium EV segment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-islandlk-509be610)
-- 2026-06-06 | `islandlk-aa1cd285` | The 2015 election and my entry to Parliament on the National List | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-06-islandlk-aa1cd285)
+- 2026-06-07 | `dailymirrorlk-1930c502` | Fishermen, naval community warned to stay ashore as seas turn dangerous | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-1930c502)
+- 2026-06-07 | `tamilmirrorlk-8b273fb2` | கார் மோதி இரு பெண்கள் பலி; சாரதி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-8b273fb2)
+- 2026-06-07 | `virakesarilk-18098c23` | தமிழர்கள் அனுபவித்த துன்பங்களை கத்தோலிக்க ஆயர் பேரவை ஒப்புக்கொள்ளத் தவறியிருக்கிறது - இலங்கைக்கான வத்திக்கான் தூதுவருக்கு தமிழ் சட்டத்தரணிகள் பேரவை கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-18098c23)
+- 2026-06-07 | `virakesarilk-35a43c43` | பெலவத்தையை உலுக்கிய உளவுத் தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-35a43c43)
+- 2026-06-07 | `tamilmirrorlk-9da39d82` | மனைவியின் மன்னா தாக்குதலில்: கணவன் கப்சிப் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-9da39d82)
+- 2026-06-07 | `virakesarilk-d4681d12` | 39 நாடுகளுக்கான டொனால்ட் ட்ரம்பின் 'குடிவரவுத் தடை' சட்டவிரோதமானது - அமெரிக்க நீதிமன்றம் தீர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-d4681d12)
+- 2026-06-07 | `virakesarilk-eeb887ba` | 13ஐ நடைமுறைப்படுத்த இரட்டை வேடம் போடோம் ; மாகாணசபைத் தேர்தலை வலியுறுத்தி தேசிய குழு அமைக்கப்படும் - எதிர்க்கட்சித் தலைவர் சஜித் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-eeb887ba)
+- 2026-06-07 | `dailymirrorlk-bec70300` | SJB expels five Bulathsinhala Pradeshiya Sabha members over bribery allegations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-bec70300)
+- 2026-06-07 | `dailymirrorlk-73c81e4d` | US eyes Iranian assets for Gulf allies’ reconstruction, source says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-73c81e4d)
+- 2026-06-07 | `virakesarilk-4224db4a` | இறுக்கப்படும் கடிவாளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-4224db4a)
+- 2026-06-07 | `dailymirrorlk-3660fbc8` | Hit-and-run by drunk driver kills two women | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-3660fbc8)
+- 2026-06-07 | `virakesarilk-31cf37cc` | சித்திரவதைகளைத் தடுப்பதற்கான ஐ.நா. உபகுழுவின் பிரதிநிதிகள் 15 இல் வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-31cf37cc)
+- 2026-06-07 | `virakesarilk-b3db0afa` | திலீப பீரிஸின் செயற்பாடுகள் சட்டமா அதிபர்  திணைக்களத்தை அவமதிக்கும் செயல் - சரத் வீரசேகர குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-b3db0afa)
+- 2026-06-07 | `virakesarilk-ff3b86d6` | முல்லைத்தீவில் ஆக்கிரமித்துள்ள தனியார் காணியை விடுவிக்க வலியுறுத்திய ரவிகரன் எம்.பி; மூன்று மாதத்திற்கு பிற்பாடு இணங்கிய பொலிஸார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-ff3b86d6)
+- 2026-06-07 | `dailymirrorlk-44cce02a` | Divisional Secretaries to boycott Monday meetings from tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-44cce02a)
+- 2026-06-07 | `virakesarilk-14a946ec` | பாடல் பாடிய இளைஞரை பயங்கரவாதி என கைது செய்ததை வன்மையாகக் கண்டிக்கிறோம் - சாணக்கியன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-14a946ec)
+- 2026-06-07 | `virakesarilk-2b098a45` | தர்மத்தைக் கட்டுப்படுத்த அரசாங்கத்திற்கு அதிகாரமில்லை  - ரணில் விக்கிரமசிங்க கடும் சாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-2b098a45)
+- 2026-06-07 | `virakesarilk-45f2b373` | ஈரான் சொத்துக்களை வளைக்க அமெரிக்கா திட்டமிட்டுள்ளதாக தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-45f2b373)
+- 2026-06-07 | `virakesarilk-635dee21` | பிரான்ஸ், ஐரோப்பிய ஒன்றியத்துடன்  நெருங்கிப் பணியாற்ற எதிர்பார்த்துள்ளோம் - வெளிவிவகார பிரதியமைச்சர் அருண் ஹேமசந்திர | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-635dee21)
+- 2026-06-07 | `virakesarilk-c2a9062d` | இந்தியப் பெருங்கடல் துறைமுகங்கள் மீதான அமெரிக்காவின் பார்வை -  கொழும்புத் துறைமுகத்திற்கு ஏன் முக்கியத்துவம்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-c2a9062d)
 
 ---
 
