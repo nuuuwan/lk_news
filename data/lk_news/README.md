@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--08_00:13:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--08_02:12:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,899** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,921** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-07-tamilmirrorlk-789d4583",
-    "num": "tamilmirrorlk-789d4583",
-    "date_str": "2026-06-07",
-    "description": "\u0baa\u0bc2\u0b9c\u0bc8 \u0b85\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bca\u0bb2\u0bcd\u0bb2\u0bc8 : \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc2\u0b9c\u0bc8-\u0b85\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bca\u0bb2\u0bcd\u0bb2\u0bc8-\u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a-\u0b9a\u0baa\u0bc8-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-378226",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1780849395.0
+    "doc_id": "2026-06-08-dailymirrorlk-1378819a",
+    "num": "dailymirrorlk-1378819a",
+    "date_str": "2026-06-08",
+    "description": "The US-Israel war on Iran:Crimes against Humanity  and roots of the Middle East conflict",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-US-Israel-war-on-IranCrimes-against-Humanity-and-roots-of-the-Middle-East-conflict/172-342248",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780863156.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-06-07 | `tamilmirrorlk-789d4583` | பூஜை அறையில் பாலியல் தொல்லை : பிரதேச சபை உறுப்பினர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-789d4583)
-- 2026-06-07 | `dailymirrorlk-ee1c6616` | Suresh Sallay admitted to National Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-ee1c6616)
-- 2026-06-07 | `tamilmirrorlk-01682eca` | சலே  வைத்தியசாலையில் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-01682eca)
-- 2026-06-07 | `tamilmirrorlk-f770a79a` | ’’பாடகரின் கைது இனிக்கலாம்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-f770a79a)
-- 2026-06-07 | `tamilmirrorlk-c7e2a67e` | தனியார் பேருந்து சேவைகள் 50 வீதமாக குறைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-c7e2a67e)
-- 2026-06-07 | `dailymirrorlk-d59b130e` | Govt. to revive 25 stalled health projects at cost of Rs. 76Bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-d59b130e)
-- 2026-06-07 | `tamilmirrorlk-907bc6a7` | மாயமான வன அதிகாரி கிணற்றில் இருந்து சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-907bc6a7)
-- 2026-06-07 | `tamilmirrorlk-412e7b4a` | பம்பலப்பிட்டியில் பதற்றம் ; பள்ளத்தில் விழுந்தது லொறி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-412e7b4a)
-- 2026-06-07 | `tamilmirrorlk-d12cb8ae` | இலங்கை வந்தார் யோகி பாபு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-d12cb8ae)
-- 2026-06-07 | `tamilmirrorlk-8ec7ee44` | திருச்சி கிழக்கில் களமிறங்குகிறாரா லாரன்ஸ்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-8ec7ee44)
-- 2026-06-07 | `dailymirrorlk-36689e33` | Wife arrested over stabbing of husband in Horana | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-36689e33)
-- 2026-06-07 | `adalk-0ef01985` | තද සුළං පිළිබඳ  අවවාදාත්මක නිවේදනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-adalk-0ef01985)
-- 2026-06-07 | `tamilmirrorlk-37e1c557` | ’’நாடே ஒன்றாக’’  : ஒரே நாளில் 979 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-37e1c557)
-- 2026-06-07 | `tamilmirrorlk-f9ff3698` | புத்தர் சிலையை தூக்கிய பிக்கு கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-f9ff3698)
-- 2026-06-07 | `dailymirrorlk-1cb5803e` | Heavy rain, strong winds forecast across several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-1cb5803e)
-- 2026-06-07 | `dailymirrorlk-aa5352ab` | “Miss Polski” beauty pageant arrive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-aa5352ab)
-- 2026-06-07 | `dailymirrorlk-9215aebe` | South Korea nominates Han Seong-sook as country’s first female prime minister in two decades | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-9215aebe)
-- 2026-06-07 | `dailymirrorlk-e0c0c1db` | Western Province DS offices recognised for President’s fund drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-e0c0c1db)
-- 2026-06-07 | `dailymirrorlk-0dbfe2fa` | Huge crowds throng Madrid streets for Pope’s open-air mass | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-0dbfe2fa)
-- 2026-06-07 | `tamilmirrorlk-aa86ff8c` | தாகத்தால் துடிதுடித்து இறந்த 49 பேரின் சடலங்களும் பொதுக் கல்லறையில்  அடக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-aa86ff8c)
+- 2026-06-08 | `dailymirrorlk-1378819a` | The US-Israel war on Iran:Crimes against Humanity  and roots of the Middle East conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-1378819a)
+- 2026-06-08 | `dailymirrorlk-95ca4c89` | Equality Before the Law:  A Call for Unity, Not Division | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-95ca4c89)
+- 2026-06-08 | `dailymirrorlk-c79bcdb3` | Crossover Ban:  Democracy, Discipline or Political Survival? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-c79bcdb3)
+- 2026-06-08 | `dailymirrorlk-23a073d0` | Time to fix our international airport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-23a073d0)
+- 2026-06-08 | `dailymirrorlk-547eabfe` | Inconveniences at  supermarkets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-547eabfe)
+- 2026-06-08 | `dailymirrorlk-1ef4def8` | Banking credit-to-deposit ratio breaches 70% as rapid lending sparks systemic risk warnings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-1ef4def8)
+- 2026-06-08 | `dailymirrorlk-d3bba7c3` | Borrowing costs rise as prime lending rate hits two-year high | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-d3bba7c3)
+- 2026-06-08 | `dailymirrorlk-85ae1f40` | Workers’ remittances hit five-month high | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-85ae1f40)
+- 2026-06-08 | `dailymirrorlk-c766dabe` | Foreign reserves rise by US$ 107mn in May | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-c766dabe)
+- 2026-06-08 | `dailymirrorlk-709a0bc7` | LB Finance surpasses Rs. 25bn pre-tax profit on exponential loan portfolio growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-709a0bc7)
+- 2026-06-08 | `dailymirrorlk-d0a786a0` | CBL Group Chairman Ramya Wickramasingha passes away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-d0a786a0)
+- 2026-06-08 | `dailymirrorlk-0226e0f5` | Home Lands and Mahela team up to make SL next global real estate destination | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-0226e0f5)
+- 2026-06-08 | `dailymirrorlk-c97d7c0b` | HNB Life introduces Privileged Protect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-c97d7c0b)
+- 2026-06-08 | `dailymirrorlk-e3165878` | Shangri-La Hambantota marks a decade | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-e3165878)
+- 2026-06-08 | `dailymirrorlk-36dd5c33` | University of London’s Goldsmiths partners with BCAS Campus | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-36dd5c33)
+- 2026-06-08 | `dailymirrorlk-b336287b` | INFRACON 2026 infrastructure and construction expo in July | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-b336287b)
+- 2026-06-08 | `dailymirrorlk-2aa1753e` | Jyoti-Hayleys sign contract for Mannar-Mullikulam transmission line project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-2aa1753e)
+- 2026-06-08 | `dailymirrorlk-2bd80b83` | Continental Cars launches Volkswagen Taigun and Virtus in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-2bd80b83)
+- 2026-06-07 | `dailymirrorlk-fc9e5ecc` | SDB bank records stable 1Q 2026 performance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-fc9e5ecc)
+- 2026-06-07 | `dailymirrorlk-d5dc6ece` | Commercial Bank extends operations to Port City Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-d5dc6ece)
 
 ---
 
