@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--08_02:12:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--08_04:07:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,921** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,945** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-08-dailymirrorlk-1378819a",
-    "num": "dailymirrorlk-1378819a",
+    "doc_id": "2026-06-08-dailyftlk-2a8e2316",
+    "num": "dailyftlk-2a8e2316",
     "date_str": "2026-06-08",
-    "description": "The US-Israel war on Iran:Crimes against Humanity  and roots of the Middle East conflict",
-    "url_metadata": "https://www.dailymirror.lk/opinion/The-US-Israel-war-on-IranCrimes-against-Humanity-and-roots-of-the-Middle-East-conflict/172-342248",
+    "description": "Integrated Capital Approach to sustainable community development",
+    "url_metadata": "https://www.ft.lk/columns/Integrated-Capital-Approach-to-sustainable-community-development/4-792995",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780863156.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780871282.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-08 | `dailyftlk-2a8e2316` | Integrated Capital Approach to sustainable community development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-2a8e2316)
+- 2026-06-08 | `dailyftlk-15733080` | Governing in an age of uncertainty | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-15733080)
 - 2026-06-08 | `dailymirrorlk-1378819a` | The US-Israel war on Iran:Crimes against Humanity  and roots of the Middle East conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-1378819a)
 - 2026-06-08 | `dailymirrorlk-95ca4c89` | Equality Before the Law:  A Call for Unity, Not Division | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-95ca4c89)
 - 2026-06-08 | `dailymirrorlk-c79bcdb3` | Crossover Ban:  Democracy, Discipline or Political Survival? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-c79bcdb3)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-06-08 | `dailymirrorlk-b336287b` | INFRACON 2026 infrastructure and construction expo in July | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-b336287b)
 - 2026-06-08 | `dailymirrorlk-2aa1753e` | Jyoti-Hayleys sign contract for Mannar-Mullikulam transmission line project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-2aa1753e)
 - 2026-06-08 | `dailymirrorlk-2bd80b83` | Continental Cars launches Volkswagen Taigun and Virtus in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-2bd80b83)
-- 2026-06-07 | `dailymirrorlk-fc9e5ecc` | SDB bank records stable 1Q 2026 performance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-fc9e5ecc)
-- 2026-06-07 | `dailymirrorlk-d5dc6ece` | Commercial Bank extends operations to Port City Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-d5dc6ece)
 
 ---
 

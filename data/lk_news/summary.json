@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-08 02:11:47",
-  "n_docs": 116921,
+  "time_updated": "2026-06-08 04:06:27",
+  "n_docs": 116945,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 116921,
+  "n_docs_with_text": 116945,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-08",
-  "dataset_size": 1821923298,
+  "dataset_size": 1822271384,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
+    "en",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-08-dailymirrorlk-1378819a",
-    "num": "dailymirrorlk-1378819a",
+    "doc_id": "2026-06-08-dailyftlk-2a8e2316",
+    "num": "dailyftlk-2a8e2316",
     "date_str": "2026-06-08",
-    "description": "The US-Israel war on Iran:Crimes against Humanity  and roots of the Middle East conflict",
-    "url_metadata": "https://www.dailymirror.lk/opinion/The-US-Israel-war-on-IranCrimes-against-Humanity-and-roots-of-the-Middle-East-conflict/172-342248",
+    "description": "Integrated Capital Approach to sustainable community development",
+    "url_metadata": "https://www.ft.lk/columns/Integrated-Capital-Approach-to-sustainable-community-development/4-792995",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780863156.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1780871282.0
   }
 }
