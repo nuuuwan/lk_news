@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--07_16:31:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--07_18:21:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,881** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,887** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-07-dailymirrorlk-9215aebe",
-    "num": "dailymirrorlk-9215aebe",
+    "doc_id": "2026-06-07-tamilmirrorlk-37e1c557",
+    "num": "tamilmirrorlk-37e1c557",
     "date_str": "2026-06-07",
-    "description": "South Korea nominates Han Seong-sook as country\u2019s first female prime minister in two decades",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/South-Korea-nominates-Han-Seong-sook-as-countrys-first-female-prime-minister-in-two-decades/108-342219",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780828738.0
+    "description": "\u2019\u2019\u0ba8\u0bbe\u0b9f\u0bc7 \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0b95\u2019\u2019  : \u0b92\u0bb0\u0bc7 \u0ba8\u0bbe\u0bb3\u0bbf\u0bb2\u0bcd 979 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bc7-\u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0b95-\u0b92\u0bb0\u0bc7-\u0ba8\u0bbe\u0bb3\u0bbf\u0bb2\u0bcd-979-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-378216",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780831321.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-07 | `tamilmirrorlk-37e1c557` | ’’நாடே ஒன்றாக’’  : ஒரே நாளில் 979 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-37e1c557)
+- 2026-06-07 | `tamilmirrorlk-f9ff3698` | புத்தர் சிலையை தூக்கிய பிக்கு கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-f9ff3698)
+- 2026-06-07 | `dailymirrorlk-1cb5803e` | Heavy rain, strong winds forecast across several areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-1cb5803e)
+- 2026-06-07 | `dailymirrorlk-aa5352ab` | “Miss Polski” beauty pageant arrive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-aa5352ab)
 - 2026-06-07 | `dailymirrorlk-9215aebe` | South Korea nominates Han Seong-sook as country’s first female prime minister in two decades | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-9215aebe)
 - 2026-06-07 | `dailymirrorlk-e0c0c1db` | Western Province DS offices recognised for President’s fund drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-e0c0c1db)
 - 2026-06-07 | `dailymirrorlk-0dbfe2fa` | Huge crowds throng Madrid streets for Pope’s open-air mass | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-0dbfe2fa)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-06-07 | `tamilmirrorlk-b458ad82` | Facebook பார்ட்டி: இளம் பெண்களுடன் 28 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-b458ad82)
 - 2026-06-07 | `dailymirrorlk-d81a932c` | CAASL chief named Asia-Pacific Aviation Security chair | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-dailymirrorlk-d81a932c)
 - 2026-06-07 | `virakesarilk-79d183ed` | கலைஞரான சங்கீதனை விடுவிக்குமாறு வலியுறுத்தி ஜனாதிபதி அநுரவுக்கு சிறிதரன் எம்.பி கடிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-79d183ed)
-- 2026-06-07 | `virakesarilk-d701044e` | யாழ். புங்குடுதீவு கடலில் காணாமல் போன கடற்தொழிலாளர்கள் பாதுகாப்பாக மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-d701044e)
-- 2026-06-07 | `virakesarilk-d3818229` | சர்வதேச நாணய நிதியத்தின் புதிய அங்கீகாரம் : இலங்கையின் பொருளாதார மீட்சிப் பயணத்திற்கு ஒரு பெரும் உத்வேகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-d3818229)
-- 2026-06-07 | `tamilmirrorlk-b0a388b6` | ’’என் கணவர் ஒரு பலிக்கடா; நிரபராதி!’’ –  கண்ணீர் மல்கும் மனைவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-tamilmirrorlk-b0a388b6)
-- 2026-06-07 | `virakesarilk-b85689b8` | ​கல்லடி வேலூரில் திடீர் தீ விபத்து ; பொதுமக்களின் உடனடிச் செயல்பாட்டால் தவிர்ந்த பெரும் சேதம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-07-virakesarilk-b85689b8)
 
 ---
 

@@ -224894,6 +224894,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-07-adalk-a622ba99",
+    "num": "adalk-a622ba99",
+    "date_str": "2026-06-07",
+    "description": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca \u0d89\u0dbb\u0dcf\u0db1\u0dba\u0dad\u0dca \u0dc3\u0da7\u0db1\u0dca \u0dc0\u0dd2\u0dbb\u0dcf\u0db8\u0dba \u0db6\u0dd2\u0db3 \u0daf\u0db8\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dad\u0dca-\u0d89\u0dbb\u0dcf\u0db1\u0dba\u0dad\u0dca-\u0dc3\u0da7\u0db1\u0dca-\u0dc0\u0dd2\u0dbb\u0dcf\u0db8\u0dba-\u0db6\u0dd2\u0db3-\u0daf\u0db8\u0dba\u0dd2/11-422771",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780802256.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-07-dailymirrorlk-fb625359",
     "num": "dailymirrorlk-fb625359",
     "date_str": "2026-06-07",
@@ -225488,6 +225499,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-07-tamilmirrorlk-b9938e79",
+    "num": "tamilmirrorlk-b9938e79",
+    "date_str": "2026-06-07",
+    "description": "\u0ba8\u0b95\u0bc8 \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b85\u0bb5\u0b9a\u0bb0 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0ba3\u0bbf\u0b95\u0bae\u0bcd/\u0ba8\u0b95\u0bc8-\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bcd-\u0b85\u0bb5\u0b9a\u0bb0-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcb\u0bb3\u0bcd/47-378203",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780819991.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-07-tamilmirrorlk-269fa195",
     "num": "tamilmirrorlk-269fa195",
     "date_str": "2026-06-07",
@@ -225749,5 +225771,49 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1780828738.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-dailymirrorlk-aa5352ab",
+    "num": "dailymirrorlk-aa5352ab",
+    "date_str": "2026-06-07",
+    "description": "\u201cMiss Polski\u201d beauty pageant arrive",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Miss-Polski-beauty-pageant-arrive/110-342220",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780830954.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-dailymirrorlk-1cb5803e",
+    "num": "dailymirrorlk-1cb5803e",
+    "date_str": "2026-06-07",
+    "description": "Heavy rain, strong winds forecast across several areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rain-strong-winds-forecast-across-several-areas/108-342221",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780831134.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-tamilmirrorlk-f9ff3698",
+    "num": "tamilmirrorlk-f9ff3698",
+    "date_str": "2026-06-07",
+    "description": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd \u0b9a\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0ba4\u0bc2\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd-\u0b9a\u0bbf\u0bb2\u0bc8\u0baf\u0bc8-\u0ba4\u0bc2\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0bc8\u0ba4\u0bc1/175-378215",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780831155.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-07-tamilmirrorlk-37e1c557",
+    "num": "tamilmirrorlk-37e1c557",
+    "date_str": "2026-06-07",
+    "description": "\u2019\u2019\u0ba8\u0bbe\u0b9f\u0bc7 \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0b95\u2019\u2019  : \u0b92\u0bb0\u0bc7 \u0ba8\u0bbe\u0bb3\u0bbf\u0bb2\u0bcd 979 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bc7-\u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0b95-\u0b92\u0bb0\u0bc7-\u0ba8\u0bbe\u0bb3\u0bbf\u0bb2\u0bcd-979-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-378216",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780831321.0
   }
 ]

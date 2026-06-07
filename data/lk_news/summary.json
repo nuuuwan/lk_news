@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-07 16:30:15",
-  "n_docs": 116881,
+  "time_updated": "2026-06-07 18:20:20",
+  "n_docs": 116887,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 116881,
+  "n_docs_with_text": 116887,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-07",
-  "dataset_size": 1821500929,
+  "dataset_size": 1821628929,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-07-dailymirrorlk-9215aebe",
-    "num": "dailymirrorlk-9215aebe",
+    "doc_id": "2026-06-07-tamilmirrorlk-37e1c557",
+    "num": "tamilmirrorlk-37e1c557",
     "date_str": "2026-06-07",
-    "description": "South Korea nominates Han Seong-sook as country\u2019s first female prime minister in two decades",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/South-Korea-nominates-Han-Seong-sook-as-countrys-first-female-prime-minister-in-two-decades/108-342219",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1780828738.0
+    "description": "\u2019\u2019\u0ba8\u0bbe\u0b9f\u0bc7 \u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0b95\u2019\u2019  : \u0b92\u0bb0\u0bc7 \u0ba8\u0bbe\u0bb3\u0bbf\u0bb2\u0bcd 979 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bc7-\u0b92\u0ba9\u0bcd\u0bb1\u0bbe\u0b95-\u0b92\u0bb0\u0bc7-\u0ba8\u0bbe\u0bb3\u0bbf\u0bb2\u0bcd-979-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-378216",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780831321.0
   }
 }
