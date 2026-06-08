@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--08_04:07:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--08_06:44:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**116,945** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**116,966** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-08-dailyftlk-2a8e2316",
-    "num": "dailyftlk-2a8e2316",
+    "doc_id": "2026-06-08-dailyftlk-b8b77016",
+    "num": "dailyftlk-b8b77016",
     "date_str": "2026-06-08",
-    "description": "Integrated Capital Approach to sustainable community development",
-    "url_metadata": "https://www.ft.lk/columns/Integrated-Capital-Approach-to-sustainable-community-development/4-792995",
+    "description": "Sri Lanka seeks deeper cooperation with France, EU as AFD marks 20 years of engagement",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-seeks-deeper-cooperation-with-France-EU-as-AFD-marks-20-years-of-engagement/34-793027",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1780871282.0
+    "time_ut": 1780876783.0
 }
 ```
 
@@ -41,6 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-08 | `dailyftlk-b8b77016` | Sri Lanka seeks deeper cooperation with France, EU as AFD marks 20 years of engagement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-b8b77016)
+- 2026-06-08 | `dailyftlk-d4febc36` | Home Lands and Mahela Jayawardene team up to make Sri Lanka next global real estate destination | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-d4febc36)
+- 2026-06-08 | `dailyftlk-c041d4fc` | Indian High Commissioner visits hybrid power project in Delft Island | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-c041d4fc)
+- 2026-06-08 | `dailyftlk-b6fb3eeb` | Sri Lanka participates in THAIFEX – Anuga Asia 2026 and Technical Exposure Program in Thailand | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-b6fb3eeb)
+- 2026-06-08 | `dailyftlk-03720e52` | Korea partners Sri Lanka  for ‘Anti-Corruption Assessment’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-03720e52)
+- 2026-06-08 | `dailyftlk-35f8c45b` | Former SIS Chief Sallay admitted to Colombo National Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-35f8c45b)
+- 2026-06-08 | `dailyftlk-a7674fef` | Sri Lanka failing to utilise returns  on women’s education boom: ADB study | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-a7674fef)
+- 2026-06-08 | `dailyftlk-d45e1d0f` | Unlocking Sri Lanka’s full economic potential by leveraging human capital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-d45e1d0f)
+- 2026-06-08 | `dailyftlk-713b9ad0` | World Ocean Day and the imperative of ocean governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-713b9ad0)
+- 2026-06-08 | `dailyftlk-07fc5532` | Cost accounting standards for Sri Lanka:  A timely measure taken by CMA Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-07fc5532)
 - 2026-06-08 | `dailyftlk-2a8e2316` | Integrated Capital Approach to sustainable community development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-2a8e2316)
 - 2026-06-08 | `dailyftlk-15733080` | Governing in an age of uncertainty | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailyftlk-15733080)
 - 2026-06-08 | `dailymirrorlk-1378819a` | The US-Israel war on Iran:Crimes against Humanity  and roots of the Middle East conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-1378819a)
@@ -51,16 +61,6 @@ A collection of lk_news documents.
 - 2026-06-08 | `dailymirrorlk-1ef4def8` | Banking credit-to-deposit ratio breaches 70% as rapid lending sparks systemic risk warnings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-1ef4def8)
 - 2026-06-08 | `dailymirrorlk-d3bba7c3` | Borrowing costs rise as prime lending rate hits two-year high | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-d3bba7c3)
 - 2026-06-08 | `dailymirrorlk-85ae1f40` | Workers’ remittances hit five-month high | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-85ae1f40)
-- 2026-06-08 | `dailymirrorlk-c766dabe` | Foreign reserves rise by US$ 107mn in May | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-c766dabe)
-- 2026-06-08 | `dailymirrorlk-709a0bc7` | LB Finance surpasses Rs. 25bn pre-tax profit on exponential loan portfolio growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-709a0bc7)
-- 2026-06-08 | `dailymirrorlk-d0a786a0` | CBL Group Chairman Ramya Wickramasingha passes away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-d0a786a0)
-- 2026-06-08 | `dailymirrorlk-0226e0f5` | Home Lands and Mahela team up to make SL next global real estate destination | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-0226e0f5)
-- 2026-06-08 | `dailymirrorlk-c97d7c0b` | HNB Life introduces Privileged Protect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-c97d7c0b)
-- 2026-06-08 | `dailymirrorlk-e3165878` | Shangri-La Hambantota marks a decade | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-e3165878)
-- 2026-06-08 | `dailymirrorlk-36dd5c33` | University of London’s Goldsmiths partners with BCAS Campus | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-36dd5c33)
-- 2026-06-08 | `dailymirrorlk-b336287b` | INFRACON 2026 infrastructure and construction expo in July | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-b336287b)
-- 2026-06-08 | `dailymirrorlk-2aa1753e` | Jyoti-Hayleys sign contract for Mannar-Mullikulam transmission line project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-2aa1753e)
-- 2026-06-08 | `dailymirrorlk-2bd80b83` | Continental Cars launches Volkswagen Taigun and Virtus in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-2bd80b83)
 
 ---
 

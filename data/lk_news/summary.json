@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-08 04:06:27",
-  "n_docs": 116945,
+  "time_updated": "2026-06-08 06:43:32",
+  "n_docs": 116966,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 116945,
+  "n_docs_with_text": 116966,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-08",
-  "dataset_size": 1822271384,
+  "dataset_size": 1822722624,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-08-dailyftlk-2a8e2316",
-    "num": "dailyftlk-2a8e2316",
+    "doc_id": "2026-06-08-dailyftlk-b8b77016",
+    "num": "dailyftlk-b8b77016",
     "date_str": "2026-06-08",
-    "description": "Integrated Capital Approach to sustainable community development",
-    "url_metadata": "https://www.ft.lk/columns/Integrated-Capital-Approach-to-sustainable-community-development/4-792995",
+    "description": "Sri Lanka seeks deeper cooperation with France, EU as AFD marks 20 years of engagement",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-seeks-deeper-cooperation-with-France-EU-as-AFD-marks-20-years-of-engagement/34-793027",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1780871282.0
+    "time_ut": 1780876783.0
   }
 }
