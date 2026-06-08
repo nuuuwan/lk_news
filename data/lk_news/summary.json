@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-08 17:25:09",
-  "n_docs": 117076,
+  "time_updated": "2026-06-08 19:17:23",
+  "n_docs": 117083,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 117076,
+  "n_docs_with_text": 117083,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-08",
-  "dataset_size": 1824026396,
+  "dataset_size": 1824599427,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-08-virakesarilk-1ba3f3b1",
-    "num": "virakesarilk-1ba3f3b1",
+    "doc_id": "2026-06-08-dailymirrorlk-8bb7c71c",
+    "num": "dailymirrorlk-8bb7c71c",
     "date_str": "2026-06-08",
-    "description": "\u0b87\u0bb0\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bb0\u0bcd - \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0ba9\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/249244",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1780918980.0
+    "description": "Women Parliamentarians review progress of probe into Anuradhapura child abuse case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Women-Parliamentarians-review-progress-of-probe-into-Anuradhapura-child-abuse-case/108-342315",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780924860.0
   }
 }

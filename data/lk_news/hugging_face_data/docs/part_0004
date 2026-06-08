@@ -227424,6 +227424,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-08-dailymirrorlk-1a5757cc",
+    "num": "dailymirrorlk-1a5757cc",
+    "date_str": "2026-06-08",
+    "description": "'Stories of the Sea'...",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Stories-of-the-Sea/110-342293",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780910223.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-08-virakesarilk-5e18009a",
     "num": "virakesarilk-5e18009a",
     "date_str": "2026-06-08",
@@ -227894,5 +227905,71 @@ ews",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1780918980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-08-adalk-08e64f72",
+    "num": "adalk-08e64f72",
+    "date_str": "2026-06-08",
+    "description": "\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4 \u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca \u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0dc0 \u0db6\u0dc3\u0dca \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0db0\u0dcf\u0dc0\u0db1\u0dba \u0d9a\u0dc5 \u0d85\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd2\u0dba\u0daf\u0dd4\u0dbb\u0dd4-\u0db6\u0dbd\u0db4\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca-\u0db1\u0ddc\u0db8\u0dd0\u0dad\u0dd2\u0dc0-\u0db6\u0dc3\u0dca-\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0db0\u0dcf\u0dc0\u0db1\u0dba-\u0d9a\u0dc5-\u0d85\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-422779",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780919154.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-08-adalk-91a747d3",
+    "num": "adalk-91a747d3",
+    "date_str": "2026-06-08",
+    "description": "\u0db8\u0dcf\u0db8\u0dcf\u0d9c\u0dda \u0db4\u0ddc\u0dbd\u0dd4 \u0db4\u0dc4\u0dbb\u0dd2\u0db1\u0dca \u0db6\u0dd1\u0dab\u0dcf \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dcf\u0db8\u0dcf\u0d9c\u0dda-\u0db4\u0ddc\u0dbd\u0dd4-\u0db4\u0dc4\u0dbb\u0dd2\u0db1\u0dca-\u0db6\u0dd1\u0dab\u0dcf-\u0db8\u0dbb\u0dd4\u0da7/11-422780",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780919610.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-08-tamilmirrorlk-dc7a0fd0",
+    "num": "tamilmirrorlk-dc7a0fd0",
+    "date_str": "2026-06-08",
+    "description": "\u0bae\u0bbe\u0ba3\u0bb5\u0bbf \u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd:SLFP \u0baa\u0bc2\u0b9a\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bbe\u0ba3\u0bb5\u0bbf-\u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd-SLFP-\u0baa\u0bc2\u0b9a\u0bbe\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-378257",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1780920587.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-08-dailymirrorlk-5260542e",
+    "num": "dailymirrorlk-5260542e",
+    "date_str": "2026-06-08",
+    "description": "CSE slides sharply as Middle East tensions trigger mroad-based selling",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-slides-sharply-as-Middle-East-tensions-trigger-mroad-based-selling/108-342310",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780923317.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-08-dailymirrorlk-cbf1149f",
+    "num": "dailymirrorlk-cbf1149f",
+    "date_str": "2026-06-08",
+    "description": "Three elephant corridors cleared to reduce human-elephant conflict",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-elephant-corridors-cleared-to-reduce-human-elephant-conflict/108-342314",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780924730.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-08-dailymirrorlk-8bb7c71c",
+    "num": "dailymirrorlk-8bb7c71c",
+    "date_str": "2026-06-08",
+    "description": "Women Parliamentarians review progress of probe into Anuradhapura child abuse case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Women-Parliamentarians-review-progress-of-probe-into-Anuradhapura-child-abuse-case/108-342315",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1780924860.0
   }
 ]
