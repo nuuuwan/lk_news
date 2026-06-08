@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--08_15:24:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--08_17:26:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**117,029** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**117,076** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-08-tamilmirrorlk-5adbc73e",
-    "num": "tamilmirrorlk-5adbc73e",
+    "doc_id": "2026-06-08-virakesarilk-1ba3f3b1",
+    "num": "virakesarilk-1ba3f3b1",
     "date_str": "2026-06-08",
-    "description": "\u0b9c\u0bbf\u0ba9\u0bcd\u0baa\u0bbf\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd \u0b95\u0bbf\u0bae\u0bcd \u0b9c\u0bbe\u0b99\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0bbf\u0ba9\u0bcd\u0baa\u0bbf\u0b99\u0bcd\u0b95\u0bc8-\u0bb5\u0bb0\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd-\u0b95\u0bbf\u0bae\u0bcd-\u0b9c\u0bbe\u0b99\u0bcd/50-378242",
+    "description": "\u0b87\u0bb0\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bb0\u0bcd - \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f \u0bb5\u0bbf\u0bae\u0bb0\u0bcd\u0b9a\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/249244",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1780912315.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1780918980.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-06-08 | `tamilmirrorlk-5adbc73e` | ஜின்பிங்கை வரவேற்றார் கிம் ஜாங் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-tamilmirrorlk-5adbc73e)
-- 2026-06-08 | `tamilmirrorlk-83115062` | ஜீன் ஆண்டி விரட்டியடிப்பு: சத்தியாக்கிரகத்தில் சலசலப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-tamilmirrorlk-83115062)
-- 2026-06-08 | `dailymirrorlk-5542b11c` | Kirsten revolution begins with Kamindu | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-5542b11c)
-- 2026-06-08 | `tamilmirrorlk-4b475873` | செய்திதாள்களில் உணவு பொதியிட தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-tamilmirrorlk-4b475873)
-- 2026-06-08 | `dailymirrorlk-74684038` | Three Sri Lankans held hostage in Ethiopia rescued | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-74684038)
-- 2026-06-08 | `dailymirrorlk-cfa86cf3` | China’s Xi Jinping arrives in North Korea for rare summit with Kim Jong Un | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-cfa86cf3)
-- 2026-06-08 | `dailymirrorlk-b4162d9e` | Sallay continues treatment at Colombo National Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-b4162d9e)
-- 2026-06-08 | `tamilmirrorlk-f68ba643` | ஆசிரியர் இடமாற்றத்தை கோரி ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-tamilmirrorlk-f68ba643)
-- 2026-06-08 | `dailymirrorlk-7e269d79` | Dengue surge alarms authorities as cases jump by up to 40% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-7e269d79)
-- 2026-06-08 | `dailymirrorlk-c46c63ec` | Ten dead after migrant boat capsizes near Malta, Italian coastguard says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-c46c63ec)
-- 2026-06-08 | `tamilmirrorlk-aeefa7ef` | புலிக்கு பாலூட்டும் அனுரகுமார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-tamilmirrorlk-aeefa7ef)
-- 2026-06-08 | `tamilmirrorlk-bbc9de07` | பிலிப்பைன்ஸை  நிலநடுக்கம்: 16 பேர் பலி, 200க்கும் மேற்பட்டோர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-tamilmirrorlk-bbc9de07)
-- 2026-06-08 | `tamilmirrorlk-930b0135` | ஈரானுக்கு எதிராக ஈரானியர்கள் எதிர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-tamilmirrorlk-930b0135)
-- 2026-06-08 | `dailymirrorlk-0e9719a5` | Death toll in Philippine quake rises to at least 15 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-0e9719a5)
-- 2026-06-08 | `dailymirrorlk-658438e2` | Against Sallay’s detention... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-658438e2)
-- 2026-06-08 | `tamilmirrorlk-045eb33b` | சுரேஷ் சல்லேயின் கைதுக்கு எதிர்ப்பு: கொழும்பில் எதிர்க்கட்சிகள்  போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-tamilmirrorlk-045eb33b)
-- 2026-06-08 | `tamilmirrorlk-20a43397` | கட்டிலில் உறங்கிய   மகள் வன்புணர்வு : தாய்க்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-tamilmirrorlk-20a43397)
-- 2026-06-08 | `dailymirrorlk-2d16e834` | Opposition protest over detention of Suresh Sallay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-2d16e834)
-- 2026-06-08 | `dailymirrorlk-57239db3` | Vehicle imports remain steady despite surcharge: Customs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-57239db3)
-- 2026-06-08 | `tamilmirrorlk-d8fe8596` | பாராளுமன்ற உரைபெயர்ப்பாளர்கள் சங்க புதிய நிர்வாகிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-tamilmirrorlk-d8fe8596)
+- 2026-06-08 | `virakesarilk-1ba3f3b1` | இரட்டையர் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-1ba3f3b1)
+- 2026-06-08 | `tamilmirrorlk-40a7b566` | சூடு ஆறுவதற்குள் தோண்டப்பட்ட சடலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-tamilmirrorlk-40a7b566)
+- 2026-06-08 | `virakesarilk-fe00fe2f` | கலால் வரி ஆணையாளருக்கு எதிராக ராஜகிரியவில் சமூக ஆர்வலர்கள் போராட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-fe00fe2f)
+- 2026-06-08 | `virakesarilk-e1d90d1b` | இலங்கையில் தடையை மீறி விற்கப்படும் மின்-சிகரெட்டுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-e1d90d1b)
+- 2026-06-08 | `virakesarilk-341d3ab5` | 25 கிராம் ஐஸ் போதைப்பொருளுடன் பெண் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-341d3ab5)
+- 2026-06-08 | `virakesarilk-cca203b9` | வல்வெட்டித்துறையில் கைது செய்யப்பட்ட சங்கீதனை விடுதலை செய்ய கோரி கவனயீர்ப்புப் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-cca203b9)
+- 2026-06-08 | `dailymirrorlk-a2724792` | Judiciary will decide on Sallay: Fr. Cyril Gamini | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-a2724792)
+- 2026-06-08 | `dailymirrorlk-e629071f` | ’This is a sin even god will not forgive’: Suresh Sallay’s mother | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-e629071f)
+- 2026-06-08 | `virakesarilk-b7fc72a9` | அநுராதபுரம் சிறுமி விவகாரம்: நீதிமன்ற உத்தரவுப்படி செயல்பட பெண் எம்.பி.க்கள் ஒன்றியம் அறிவுறுத்தல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-b7fc72a9)
+- 2026-06-08 | `virakesarilk-5c8177b3` | சுவிஸ் தூதுவர் - ஆறு.திருமுருகன் இடையே சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-5c8177b3)
+- 2026-06-08 | `virakesarilk-8b15a83d` | பயங்கரவாதத் தடைச் சட்டத்தினை பயன்படுத்தியதன் மூலம் மனித உரிமை முன்னேற்றத்தில் அரசு தகுதியிழந்துள்ளது - வல்வெட்டித்துறையில் தவிசாளர் நிரோஷ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-8b15a83d)
+- 2026-06-08 | `tamilmirrorlk-abb891f9` | 25 கிராம் ‘ஐஸ்’ஸூடன் பெண்  கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-tamilmirrorlk-abb891f9)
+- 2026-06-08 | `virakesarilk-8d920da4` | திறைசேரி ஹேக்கிங்கை விட சர்வதேச நாணய நிதியம் அறிக்கை மிகப்பெரியது -  சம்பிக்க ரணவக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-8d920da4)
+- 2026-06-08 | `tamilmirrorlk-7d007786` | நள்ளிரவில் உலாவும் மர்ம நிழல் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-tamilmirrorlk-7d007786)
+- 2026-06-08 | `virakesarilk-371ceaa6` | நடிகர் விதார்த் நடிக்கும் 'மூன்றாம் கண்' படத்தின் புரோமோ பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-371ceaa6)
+- 2026-06-08 | `dailymirrorlk-baa7f735` | ‘Jean Aunty’ chased away from Suresh Sallay’s protest at Fort | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-dailymirrorlk-baa7f735)
+- 2026-06-08 | `virakesarilk-69874263` | நடிகர் சசிகுமார் வெளியிட்ட 'பாரிஸ் கஃபே' படத்தின் டீசர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-69874263)
+- 2026-06-08 | `virakesarilk-e3b41bed` | மகள் மீது பாலியல் துஷ்பிரயோகம் ; சந்தேக நபருக்கும் உடந்தையாக செயற்பட்ட தாய்க்கும் விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-e3b41bed)
+- 2026-06-08 | `virakesarilk-0f0b7061` | சாதனை படைத்து வரும் நடிகர் சனத் நடிக்கும் 'ஹார்ட்டின்' படத்தின் புதிய பாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-0f0b7061)
+- 2026-06-08 | `virakesarilk-3b83b335` | அவுஸ்திரேலிய, நியூசிலாந்து பாராளுமன்றங்களில் அமைச்சர் விஜித ஹேரத்துக்கு விசேட வரவேற்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-08-virakesarilk-3b83b335)
 
 ---
 
