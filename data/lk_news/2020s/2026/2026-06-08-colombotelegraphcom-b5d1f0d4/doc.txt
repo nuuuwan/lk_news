@@ -1,0 +1,75 @@
+Cost Accounting Standards For Sri Lanka: A Timely Measure Taken By CMA Sri Lanka
+
+The Institute of Certified Management Accountants of Sri Lanka, known as CMA Sri Lanka, has taken another step forward in promoting cost accounting practices in the country by introducing a comprehensive set of standards to be adopted not only by cost accountants, but also by Sri Lankan private and public institutions.
+
+CMA Sri Lanka is a professional body incorporated in 2009 by an Act of Parliament. Since its inception, it has been providing professional qualifications to Sri Lankans wishing to acquire competency in management accounting, which includes cost accounting as well. Those who acquire this professional qualification are placed on a continuous professional development program through seminars, webinars, short-term training programs, etc. on issues of current importance. It is, therefore, a lifelong training process for management accountants.
+
+What was missing so far was a set of uniform standards to be followed by them. CMA Sri Lanka, which has been given explicit responsibility to issue and enforce management accounting standards in the country, has now filled that vacuum through its sub-unit, the Cost and Management Accounting Standards Board, set up in 2019 under the principal incorporation legislation.
+
+The Board is expected to create a structured approach for measuring manufacturing and service costs, while providing standardised guidance to Government ministries, State corporations, and private sector firms to achieve consistency in cost classification and assignment. The leadership for the compilation of the present set of standards has been provided by the distinguished finance academic, now retired, from the University of Sri Jayewardenepura, Dr. Mangala Fonseka.
+
+The proper costing of an activity, whether at the company level or the national level, is a prime requirement for assessing the usefulness of that activity. The standard method adopted has been to calculate costs in terms of financial numbers, that is, the actual financing costs involved in accomplishing that activity. These are direct expenses, and if the total expenses are less than the expected revenue, it is considered a worthwhile activity.
+
+However, from society’s point of view, there are hidden costs that are not reckoned in direct costing. In this scenario, whether such an activity contributes to society can be measured only by incorporating both direct and hidden costs into the costing structure.
+
+This latest national contribution by CMA Sri Lanka, through the issuance of cost accounting standards to be practiced by management accountants in assessing any activity coming within their purview, paves the way for expanding the existing financial cost-based costing structure. It also helps management accountants follow a set of standard procedures to ensure consistency, uniformity, and accuracy, thereby eliminating divergence in application.
+
+This is specifically important in assessing the costs of projects initiated by the Government because it ensures that taxpayers pay a fair price for contracted goods and services. In this regard, there are three core pillars of cost accounting practices.
+
+The first is measurement, which dictates how actual, standard, or historical costs are valued, such as using standard labour costs as against actual labour costs. Standard labour costs are those actually paid in monetary terms to procure labour services for an activity. However, actual labour costs differ from those monetary costs because they involve hidden or opportunity costs that society should bear.
+
+For instance, if child or forced labour is used for an activity, its cost is not limited to the money paid for it. If the use of such labour violates international laws, society will have to bear the consequences in the form of sanctions imposed by consuming countries against that practice. A recent example in this regard has been the imposition of an additional tariff of 12.5% on countries found to have used forced labour in producing goods that are exported to the US. Sri Lanka is one of the villains, according to the US Trade Representative, which conducted the study.
+
+The second is assignment, which determines the specific cost accounting period to which a cost belongs. This is important because it helps management ensure that expenses are recorded in the exact timeframe in which they are incurred or consumed, which is vital for correct financial reporting.
+
+There are several advantages to adhering to this principle. It matches costs with the specific revenues they generate. It also prevents seasonal expense spikes from artificially inflating product costs. Another advantage is that balance sheets will reflect the true timing of production. Management also gets an opportunity to compare financial performance across different periods. Finally, it helps identify whether budget deviations are permanent or simply due to timing differences.
+
+The third is allocation, which determines how indirect cost pools such as overheads are distributed to specific projects when several projects are undertaken simultaneously by an organisation. This prevents the usual inclination of a company to unfairly allocate overhead expenses to one project and overestimate its true costs.
+
+Adhering to this principle will help cost accountants ensure fair evaluation, pricing accuracy, resource optimisation, audit compliance, and budget discipline. This is vital in the pricing of electricity charges by a utility provider because non-adherence will place an unfair burden on consumers.
+
+With CMA Sri Lanka, the country has now joined the costing standards club. However, before it did so, India, the USA, Pakistan, Bangladesh, France, Greece, and Spain, to mention but a few, had introduced costing standards for practicing management accountants.
+
+Costing standards are necessary because they provide a predetermined baseline for measuring performance, controlling spending, and valuing inventory and output.
+
+Without costing standards, firms and governments must wait for historical data following the completion of an activity. However, with costing standards, businesses and governments can use uniform standards to measure efficiency, simplify bookkeeping, and manage exceptional events or outcomes that deviate from day-to-day transactions.
+
+As the President of CMA Sri Lanka, Prof. Lakshman R. Watawala, has mentioned in a special message to the compendium, “the importance of proper costing and the maintenance of cost records” is necessary to “improve efficiency, effectiveness, productivity and remove wastage and corruption” in organisations. When applied to business, such standard costing will make firms competitive in both local and global markets.
+
+He has recognised the technical support provided by the Institute of Cost Accountants of India in framing the cost standards for Sri Lanka. It appears to be the result of collaborative and knowledge-sharing initiatives undertaken by the two professional bodies for decades in areas relating to cost and management accounting.
+
+Like the Generally Accepted Accounting Principles issued under International Financial Reporting Standards, or GAAP/IFRS, a Generally Accepted Cost Accounting Principles framework, or GACAP, has been issued for cost accountants.
+
+The former is intended for the benefit of a company’s external stakeholders, while the latter is designed to guide internal management in decisions relating to pricing, budgeting, and efficiency. These principles are to be adopted voluntarily for segmented areas such as products, projects, processes, and activities, with a dual time orientation involving historical performance covering the first period as well as future developments involving the second period.
+
+The goal of these accounting principles is to ensure cost control, waste reduction, and accurate pricing. The framers of Sri Lanka’s cost accounting standards have used the GACAP issued by the Institute of Cost Accountants of India, the partner organisation of the Cost and Management Accounting Standards Board of Sri Lanka. Hence, the costing standards recommended for Sri Lanka’s management accountants have a global flavours.
+
+The guidebook containing the costing standards recommended for Sri Lankan management accountants reproduces, in summary form, the GACAP issued by the Indian institution. It covers several broad areas of costing. Hence, Sri Lankan management accountants have a source document to fall back on for clarification when they face situations involving professional judgment.
+
+The Cost Accounting Standards of Sri Lanka (CASSL) contain 22 costing standards. With new developments in industry, they may be further expanded, added to, deleted, revised, updated, or reduced in the future. Hence, they are not a fixed set of standards but rather a flexible framework capable of accommodating new developments.
+
+For instance, the present standards do not contain provisions relating to risks arising from climate risk-based activities, although these are a growing concern in business, public policy, and societal goals. Hence, a future edition of the costing standards may cover this vital area as well.
+
+The standards announced in the present edition have been broadly classified under cost classification, capacity determination, production and operation overheads, material costs, employee costs, utility costing, packing material costs, direct expenses, administrative overheads, repair and maintenance costs, service cost centre costing, pollution control costs, selling and distribution costs, depreciation and amortisation costs, interest and financing charges, joint costs, royalty and technical know-how fees, quality control, and manufacturing costs.
+
+While most of these cost categories are generally familiar to modern-day management accountants, a new treatment that has been added relates to pollution control costs.
+
+The pollution control costing standard offers principles and methods for the classification, measurement, and assignment of pollution control costs for determining the cost of a product or service so that a business can present and disclose them in cost statements.
+
+Since businesses may use different methods in doing so, the standard presents a uniform and consistent approach to facilitate inter-business and intra-business comparisons. For the guidance of management accountants, definitions of the main pollutants and forms of pollution faced by society today have been included as part of the standard.
+
+An important criterion recommended is that pollution control costs should cover both direct and indirect costs relating to pollution control activities. Direct costs include the costs of materials, consumables, spare parts, manpower, equipment usage, utilities, testing and certification resources, and any other identifiable costs incurred in controlling pollution.
+
+Indirect costs include resources common to various pollution control activities, such as registration and licensing fees and overheads used for pollution control. They should also include future remedial or disposal costs that are expected to be incurred with reasonable certainty as part of onerous contracts or constructive obligations.
+
+Legally enforceable costs, such as those arising from environmental damage, should be estimated and accounted for based on the volume of pollution generated during each period. The standards recommend that these costs be fully disclosed in costing statements.
+
+As mentioned above, the costing of activities should cover both historical costs and emerging future costs. Hence, its time span extends from the past into the future. A general tendency in business today is to consider only currently incurred costs when deciding on the suitability of a product or service. However, future costs may include unforeseen expenses arising from events that cannot be known with certainty today but may develop into costs because of environmental changes.
+
+I recall recommending, about a decade ago, to a leading three-wheeler importer in the country that the company should immediately commence work on a project to develop an electricity-driven small four-wheeler to replace existing three-wheelers, which are not environmentally friendly due to their high greenhouse gas emissions and noise levels. The company did not take this recommendation seriously, and today, as the whole world, including Sri Lanka, clamours for EVs, it has lost the market.
+
+Likewise, I have listened to several leading businessmen being interviewed on a popular YouTube channel. When asked about their future plans, they all expressed their intention to expand their respective businesses to other countries. None appeared to have considered the need to reorient their businesses to meet society’s emerging environmental goals. This is a serious omission on their part. If they fail to adapt to these emerging environmental expectations, it is unlikely that they will survive in a hostile market. I hope their management accountants study the present costing standards and guide them appropriately.
+
+The Cost and Management Accounting Standards Board of Sri Lanka, together with its parent body, CMA Sri Lanka, has accomplished an appreciable task by releasing costing standards to be followed by local organisations. I hope it will take effective action to ensure the successful implementation of these standards.
+
+*The writer, a former Deputy Governor of the Central Bank of Sri Lanka, can be reached at waw1949@gmail.com
