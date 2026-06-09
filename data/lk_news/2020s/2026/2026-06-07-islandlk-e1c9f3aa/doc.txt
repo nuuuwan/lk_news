@@ -1,0 +1,53 @@
+Power cuts are here! But we have a way out!
+
+The much-dreaded power cuts are already here though not declared as such. The tragedy is that the power cuts are not due to inadequate electricity supply, but the inability of the power and energy authorities to use the abundant solar and wind power installed without any financial or economic burden on the state. They ought to admit their lack of wisdom to be mindful of the rapid changes in the sector and the need to be equipped.
+
+Fuel Prices have been increased again up to the 2022 levels. Therefore another Electricity tariff hike is inevitable. Perhaps, the government may hold it back until September, when the next tariff revision is due. An appeal has been made to “prosumers” to switch off their solar PV system in the fear of grid stability being affected. While there is excess solar power, which they are unable to manage, even when the demand is below the installed capacity and high contribution of hydro, solar and wind. May 31 (Sunday) energy mix indicated substantial use of oil in CEB-owned power plants and those belonging to the Independent Power Producers (IPPs) . What is the rationale? One would believe that even the hydro reservoir water can be saved for use during the night, without curtailing solar and wind power. It will be said that the system is very complex and beyond the understanding of mere mortals like ordinary “prosumers”, who have added over 2300 MW to the grid, entirely at their expense and at rates well below the average cost of generation. (See Image 1)
+
+The fact that the growing need for storage batteries to optimise the utilisation of variable renewable energy (VRE) has been felt for the last decade or more, and nothing was done about it, is never mentioned in their laments.
+
+However, there is a glimmer of hope due to the initiatives taken by the Public Utilities Commission of Sri Lanka (PUCSL). An increase in the demand due to a general GDP growth will have to be met using renewable resources. It has been clearly noted that such alternatives must be developed while curtailing the use of oil and ensuring the uninterrupted power to the consumers.
+
+Recognising this need and the fact that fastest intervention is possible by promoting BESS (Battery Energy Storage Systems) to be added to all existing renewable energy sources, the PUCSL has initiated stakeholder consultation to determine the feed-in tariff payable for each type of BESS. A detailed methodology for determining the FIT has been circulated. The identified types of BESS discussed were as follows”
+
+b. Mini – Hydro-Local: mini hydro plants that at least use locally manufactured turbines
+
+d. Wind – Local: Wind plants that at least use locally manufactured turbine blades
+
+e. Biomass – Dendro – Biomass plants that use sustainably grown fuel wood
+
+f. Biomass – Agricultural/Industrial Waste; Biomass fired plants use byproducts, like paddy husk, sawdust, sugar cane bagasse, etc.
+
+b. Rooftop Solar PV with Battery Energy Storage System (BESS)
+
+c. Prosumers with behind the meter Battery Energy Storage System (BESS)
+
+We mentioned in an earlier article that the PUCSL proposed a scheme whereby we can get rid of use of oil for power generation in stages, commencing with elimination of the diesel use by 2027 and all imported oils by 2030.
+
+The PUCSL has been empowered by the new Electricity Act No 36 (as amended), which came into full force on 09 March, 2026, with responsibility for calculating and announcing all FIT schemes, both for purchase and sale of electricity to consumers.
+
+A well-represented stakeholder meeting was held recently, when the proposed methodology for determining the FIT of each type of BESS was given to them to provide further specific inputs. It is, therefore, realistic to expect such a FIT to be declared by the end of June, 2026.
+
+While this is a welcome and progressive step unlike the ad hoc process adopted hitherto. But the fact remains that the responsibility for the effective use of FIT to attract investors to add the BESS at different scales, lies with the one or more of the newly appointed companies to take over the functions of the former Ceylon Electricity Board (CEB).
+
+The current government has reportedly recognised the danger of overdependence on imported fossil fuels, which we have absolutely no control over. This is something we have been stressing for a long time. However, better late than never. As a matter of interest, we show the degree of fossil fuel dependence and its adverse impact on the economy. (See Graph 1)
+
+It is to be noted that earnings from our traditional exports of tea, rubber and coconuts fail to meet the ever-increasing cost of importing fossil fuels. Time was when earnings from these exports barely helped meet the cost of import of fuels which was back in 2010. The rupee cost of imports is shown in Billions to keep the data columns within the bounds of the chart. This is the factor which affects you and me directly.
+
+However, we earnestly urge the government to direct the electricity companies to take immediate action to prepare the grid which costs only a fraction of the values predicted by the CEB to institute their schemes which are not in line with the ground reality to accept the BESS system once the FIT is announced. Reasonable BESS and FIT will help attract investors with the assurance of short-term and long-term improvement, at no cost to the state.
+
+We proposed some time back of the opportunity for those “prosumers” using 300 units per month, for installing solar PV with adequately sized batteries, which is more economical than drawing power from the grid, and to gain the happy situation, to be insulated from the danger of power cuts and further increases in consumer tariff.
+
+The PUCSL intervention to declare a BESS tariff will add a great impetus to those who are willing to adopt the above proposal. They will be encouraged to increase the capacity of their installations as well as the battery capacity so that the excess can be exported to the grid during peak hours, when firm economic power is most needed. Such additional features would enhance their financial returns and would enable rapid elimination of the use of diesel during peak hours. In recent months with the depreciation of the rupee, coupled with the increase of costs of solar panels, inverters and batteries, our original analysis of financial viability of this interevention was facing some uncertainties. As such, we welcome this move by the PUCSL, whereby the consumers would have a steady revenue in addition to the savings on their monthly electricity bills. It is likely that the level of FIT and the permitted number of exports will be adequate to work with the increased costs, as shown. (See Table 1)
+
+It must be noted that the cost values are highly volatile ,and some variations are to be expected. FIT for export on energy is stated as 60% of the current peak time energy charge of Rs 106/kWh.
+
+This revolution is well within the means of the over 200,000 potential “Prosumers” who consume over 250 units per month. While they would fulfil their own goal of being immune to any power cuts as well as being insulated from future tariff increases, they would be serving the country by progressively eliminating the need for any fossil fuels for power generation. For example, if 50,000 of them add 10 kWh of battery capacity, the peak power demand can be reduced by 500 MW, thereby obviating the need for using the most expensive diesel during the peak period. Very special advantages can be derived by those also purchasing EVs instead of petrol and diesel vehicles. It will be possible to save on LPG, which costs Rs 4,700.00 per cylinder at present. Thus, the excuse for demanding ever increasing consumer tariff in the future will not be available. As such this move would help all consumers down to the lowest level of consumers.
+
+It is hoped that the energy authorities recognise this reality and support the PUCSL proposals by approving the BESS FIT system and directing all Utility companies to adopt the same and urgently initiate action to install the simple infrastructure additions to accept the BESS energy, as proposed. If they care to review this proposal having discarded biases and any other agendas, they, too, will benefit.
+
+The inescapable conclusion one can derive from the above is that the solution to the crisis is available from the consumers themselves in a manner that is attractive and profitabe to them. It would also be of major assistance for the Utility to manage the sector effectively and efficiently. In addition, all consumers will benefit by gradually weaning themselves away from the grid an use of oil for power generation. This would obviate any more demands for consumer tariff increases by the National System Operator. The PUCSL has taken an essential first step with its intention to declare a BESS FIT. It is up to the government to ensure that the Ministry and the Utility companies adopt the correct stance and make a commitment to ensure the success of this scheme as soon as possible.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

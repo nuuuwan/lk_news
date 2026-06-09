@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-09 04:17:13",
-  "n_docs": 117131,
+  "time_updated": "2026-06-09 06:39:35",
+  "n_docs": 117154,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 117131,
+  "n_docs_with_text": 117154,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-09",
-  "dataset_size": 1825557624,
+  "dataset_size": 1825789458,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-09-dailyftlk-54528b1b",
-    "num": "dailyftlk-54528b1b",
+    "doc_id": "2026-06-09-dailyftlk-4b4d6407",
+    "num": "dailyftlk-4b4d6407",
     "date_str": "2026-06-09",
-    "description": "Sri Lanka joins US-led forum on Indian Ocean ports and logistics",
-    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-joins-US-led-forum-on-Indian-Ocean-ports-and-logistics/34-793065",
+    "description": "Women MPs seek faster investigations, stronger safeguards in Anuradhapura child abuse case",
+    "url_metadata": "https://www.ft.lk/news/Women-MPs-seek-faster-investigations-stronger-safeguards-in-Anuradhapura-child-abuse-case/56-793084",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1780958356.0
+    "time_ut": 1780960924.0
   }
 }
