@@ -230292,5 +230292,38 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781020968.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-10-dailymirrorlk-5ed407e9",
+    "num": "dailymirrorlk-5ed407e9",
+    "date_str": "2026-06-10",
+    "description": "Dawn of agentic enterprise - How Sri Lanka can leapfrog with digital labour",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Dawn-of-agentic-enterprise-How-Sri-Lanka-can-leapfrog-with-digital-labour/273-342442",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781032211.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-10-dailymirrorlk-8e13c1d0",
+    "num": "dailymirrorlk-8e13c1d0",
+    "date_str": "2026-06-10",
+    "description": "BOC Bringing Banking Closer to Every Sri Lankan by Covering All 331 DSDs",
+    "url_metadata": "https://www.dailymirror.lk/business-news/BOC-Bringing-Banking-Closer-to-Every-Sri-Lankan-by-Covering-All-331-DSDs/273-342443",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781032695.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-10-dailymirrorlk-d3378e0b",
+    "num": "dailymirrorlk-d3378e0b",
+    "date_str": "2026-06-10",
+    "description": "ComBank offers exclusive financial solutions to Air Force",
+    "url_metadata": "https://www.dailymirror.lk/business-news/ComBank-offers-exclusive-financial-solutions-to-Air-Force/273-342444",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781033424.0
   }
 ]

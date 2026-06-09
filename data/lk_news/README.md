@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--09_23:20:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--10_01:07:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**117,294** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**117,297** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-09-tamilmirrorlk-15ee5755",
-    "num": "tamilmirrorlk-15ee5755",
-    "date_str": "2026-06-09",
-    "description": "\u0baa\u0b95\u0bb2\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0bb3\u0baa\u0bcd\u0baa\u0bcb\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0bc2\u0bae\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0b95\u0bb2\u0bbf\u0bb2\u0bc1\u0bae\u0bcd-\u0b87\u0bb0\u0bc1\u0bb3\u0baa\u0bcd\u0baa\u0bcb\u0b95\u0bc1\u0bae\u0bcd-\u0baa\u0bc2\u0bae\u0bbf/175-378326",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1781020968.0
+    "doc_id": "2026-06-10-dailymirrorlk-d3378e0b",
+    "num": "dailymirrorlk-d3378e0b",
+    "date_str": "2026-06-10",
+    "description": "ComBank offers exclusive financial solutions to Air Force",
+    "url_metadata": "https://www.dailymirror.lk/business-news/ComBank-offers-exclusive-financial-solutions-to-Air-Force/273-342444",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781033424.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-10 | `dailymirrorlk-d3378e0b` | ComBank offers exclusive financial solutions to Air Force | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-d3378e0b)
+- 2026-06-10 | `dailymirrorlk-8e13c1d0` | BOC Bringing Banking Closer to Every Sri Lankan by Covering All 331 DSDs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-8e13c1d0)
+- 2026-06-10 | `dailymirrorlk-5ed407e9` | Dawn of agentic enterprise - How Sri Lanka can leapfrog with digital labour | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-5ed407e9)
 - 2026-06-09 | `tamilmirrorlk-15ee5755` | பகலிலும் இருளப்போகும் பூமி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-09-tamilmirrorlk-15ee5755)
 - 2026-06-09 | `dailymirrorlk-aa45c544` | Carry out investigations, but don’t turn them political – Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-09-dailymirrorlk-aa45c544)
 - 2026-06-09 | `dailymirrorlk-5d4ca041` | EU plans to ban Russian soldiers from bloc in fresh sanctions on Moscow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-09-dailymirrorlk-5d4ca041)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-06-09 | `dailymirrorlk-11982107` | Lord’s pitch gets sanctioned by ICC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-09-dailymirrorlk-11982107)
 - 2026-06-09 | `dailymirrorlk-4a69d9f3` | Dengue surge as thousands of breeding sites found in major national inspection drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-09-dailymirrorlk-4a69d9f3)
 - 2026-06-09 | `dailymirrorlk-766b6c49` | Principals’ starting salaries revised; Promotion relief granted | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-09-dailymirrorlk-766b6c49)
-- 2026-06-09 | `dailymirrorlk-c0718dfd` | Extension of emergency approved by Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-09-dailymirrorlk-c0718dfd)
-- 2026-06-09 | `dailymirrorlk-8fb95716` | Lanka Sathosa to reduce prices of 18 essential food items from tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-09-dailymirrorlk-8fb95716)
-- 2026-06-09 | `dailymirrorlk-be744962` | 10-hour water cut in several Kalutara areas tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-09-dailymirrorlk-be744962)
 
 ---
 
