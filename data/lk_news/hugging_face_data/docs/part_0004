@@ -229844,6 +229844,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-09-adalk-dc02c20e",
+    "num": "adalk-dc02c20e",
+    "date_str": "2026-06-09",
+    "description": "\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dbb\u0ddd\u0daf \u0dbb\u0dae\u0dba\u0d9a\u0dca \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a \u0d9c\u0dd0\u0da7\u0dd3 \u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dbb\u0ddd\u0daf-\u0dbb\u0dae\u0dba\u0d9a\u0dca-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba\u0d9a-\u0d9c\u0dd0\u0da7\u0dd3-\u0daf\u0dd9\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca-\u0db8\u0dbb\u0dd4\u0da7/11-422798",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1780999041.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-09-dailymirrorlk-545b118f",
     "num": "dailymirrorlk-545b118f",
     "date_str": "2026-06-09",
@@ -229874,6 +229885,17 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1780999567.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-09-adalk-2aac68dc",
+    "num": "adalk-2aac68dc",
+    "date_str": "2026-06-09",
+    "description": "\u0d9c\u0ddd\u0da8\u0dcf\u0da7 \u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca \u0dad\u0dc4\u0db1\u0db8 \u0d86\u0db4\u0dd4\u0dc0\u0dcf\u0db8 \u0dc3\u0dbd\u0dda \u0d9c\u0dd0\u0db1 \u0d9d\u0ddd\u0dc2\u0dcf\u0dc0 \u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd4\u0dab\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9c\u0ddd\u0da8\u0dcf\u0da7-\u0dc0\u0dd2\u0daf\u0dd9\u0dc3\u0dca-\u0dad\u0dc4\u0db1\u0db8-\u0d86\u0db4\u0dd4\u0dc0\u0dcf\u0db8-\u0dc3\u0dbd\u0dda-\u0d9c\u0dd0\u0db1-\u0d9d\u0ddd\u0dc2\u0dcf\u0dc0-\u0dc0\u0dd0\u0da9\u0dd2\u0dc0\u0dd4\u0dab\u0dcf/11-422800",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781000144.0
   },
   {
     "doc_type": "lk_news",
@@ -229929,5 +229951,126 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781003805.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-09-dailymirrorlk-73bd602d",
+    "num": "dailymirrorlk-73bd602d",
+    "date_str": "2026-06-09",
+    "description": "Swiss town hosts Chaplin lookalikes",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Swiss-town-hosts-Chaplin-lookalikes/110-342423",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781004690.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-09-dailymirrorlk-d8c521d7",
+    "num": "dailymirrorlk-d8c521d7",
+    "date_str": "2026-06-09",
+    "description": "One-third of schools inspected flagged for dengue risk",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/One-third-of-schools-inspected-flagged-for-dengue-risk/108-342424",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781005413.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-09-tamilmirrorlk-8da95153",
+    "num": "tamilmirrorlk-8da95153",
+    "date_str": "2026-06-09",
+    "description": "\u0ba4\u0bae\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc2\u0bb0\u0bbf\u0baf\u0bb5\u0ba9\u0bcd\u0bb7\u0bbf\u0baf\u0bc8 \u0b85\u0bae\u0bc8\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb7\u0bbf\u0bb0\u0bbe\u0bb8\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0ba4\u0bae\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc2\u0bb0\u0bbf\u0baf\u0bb5\u0ba9\u0bcd\u0bb7\u0bbf\u0baf\u0bc8-\u0b85\u0bae\u0bc8\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0bb7\u0bbf\u0bb0\u0bbe\u0bb8\u0bcd/44-378304",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781006179.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-09-dailymirrorlk-7ae2a9b8",
+    "num": "dailymirrorlk-7ae2a9b8",
+    "date_str": "2026-06-09",
+    "description": "Permanent appointments for temporary staff recruited since 2018",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Permanent-appointments-for-temporary-staff-recruited-since-2018/108-342425",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781006690.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-09-tamilmirrorlk-8a028f20",
+    "num": "tamilmirrorlk-8a028f20",
+    "date_str": "2026-06-09",
+    "description": "\u0bb5\u0bc7\u0bb0\u0bcb\u0b9f\u0bc1 \u0b9a\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4 \u0bae\u0bb0\u0bae\u0bcd : \u0ba8\u0bc2\u0bb2\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf \u0b89\u0baf\u0bbf\u0bb0\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc7\u0bb0\u0bcb\u0b9f\u0bc1-\u0b9a\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4-\u0bae\u0bb0\u0bae\u0bcd-\u0ba8\u0bc2\u0bb2\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0baf-\u0b89\u0baf\u0bbf\u0bb0\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/50-378305",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781007291.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-09-tamilmirrorlk-4101122e",
+    "num": "tamilmirrorlk-4101122e",
+    "date_str": "2026-06-09",
+    "description": "\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bbe\u0ba4\u0bc1\u2026. \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bbe\u0ba4\u0bc1.. \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bbe\u0ba4\u0bc1\u2026",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bbe\u0ba4\u0bc1-\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bbe\u0ba4\u0bc1-\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bbe\u0ba4\u0bc1/175-378306",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781007403.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-09-tamilmirrorlk-6f1011e8",
+    "num": "tamilmirrorlk-6f1011e8",
+    "date_str": "2026-06-09",
+    "description": "\u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0baa\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc7\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf\u0baf \u0bb5\u0bbe\u0bb2\u0bbf\u0baa\u0bb0\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0baa\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1-\u0b9a\u0bc7\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0bae\u0bc2\u0bb4\u0bcd\u0b95\u0bbf\u0baf-\u0bb5\u0bbe\u0bb2\u0bbf\u0baa\u0bb0\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-378307",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781008060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-09-dailymirrorlk-be744962",
+    "num": "dailymirrorlk-be744962",
+    "date_str": "2026-06-09",
+    "description": "10-hour water cut in several Kalutara areas tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/10-hour-water-cut-in-several-Kalutara-areas-tomorrow/108-342426",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781010072.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-09-dailymirrorlk-8fb95716",
+    "num": "dailymirrorlk-8fb95716",
+    "date_str": "2026-06-09",
+    "description": "Lanka Sathosa to reduce prices of 18 essential food items from tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lanka-Sathosa-to-reduce-prices-of-18-essential-food-items-from-tomorrow/108-342427",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781010288.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-09-dailymirrorlk-c0718dfd",
+    "num": "dailymirrorlk-c0718dfd",
+    "date_str": "2026-06-09",
+    "description": "Extension of emergency approved by Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Extension-of-emergency-approved-by-Parliament/108-342428",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781010377.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-09-dailymirrorlk-766b6c49",
+    "num": "dailymirrorlk-766b6c49",
+    "date_str": "2026-06-09",
+    "description": "Principals\u2019 starting salaries revised; Promotion relief granted",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Principals-starting-salaries-revised-Promotion-relief-granted/108-342429",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781010556.0
   }
 ]
