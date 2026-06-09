@@ -1,0 +1,69 @@
+Apple unveils Siri AI makeover as Tim Cook bids farewell
+
+BBC - Apple has announced a significant overhaul of its digital assistant, unveiling Siri AI, which the company promised would offer a better artificial intelligence experience for users.
+
+The iPhone maker also announced on Monday a suite of changes to its trust and safety features that it said would help keep kids safer when using Apple products.
+
+The announcements were made at the company's annual Worldwide Developers Conference (WWDC), slated to be Tim Cook's last as CEO before he steps down in September after 15 years at the helm.
+
+Cook will be replaced by John Ternus, who has been a major presence at WWDC but did not speak at the company's main keynote address on Monday morning.
+
+Apple's introduction of Siri AI comes after criticism that the company has fallen behind fellow technology giants.
+
+The new version of Siri will work across other Apple products and apps, and will also feature a new app, similar to what OpenAI and Anthropic offer for their AI assistants.
+
+The company promised that Siri AI would draw from a user's past interactions with the app, an understanding of images, as well as broad-world knowledge and will serve as a more capable and conversational assistant than its current iteration.
+
+During his comments, the company's perpetually sunny senior vice president of Software Engineering, Craig Federighi, leveled an unusual public critique of "AI for the sake of AI without considering the people it's supposed to be able to serve."
+
+"We believe that truly helpful AI must be centered around you and your needs," Federighi said, adding that Apple's new Siri AI experience was designed with privacy in mind "at every step."
+
+Apple Intelligence already offers writing tools and image editing but the company has been slow to roll out its new and improved Siri.
+
+"Apple had to address its shortcomings in AI, and WWDC provided some answers," said Ben Wood, chief analyst at the industry analyst firm FDM CCS Insight. "The company must now prove that its privacy-led, integration-first approach can translate into a meaningfully better everyday experience, not just parity with rivals."
+
+"Whether it has succeeded or not will come down to user reaction when new capabilities are in their hands," Wood added.
+
+A beta version of Siri AI will be available later this year to supported devices set to English -- although not in the EU.
+
+"Over the past several months, EU regulators did not accept any of Apple's proposed solutions to bring Siri AI to the EU while safely supporting other virtual assistants," Apple said in a news release on Monday.
+
+Earlier this year, the company partnered with Google to roll out Apple Foundation Models that will be based on Google's Gemini models and cloud technology.
+
+Apple also outlined changes to its trust and safety initiatives as part of its rollout of iOS 27.
+
+The company will expand its "ask" feature which can enable parents to control whom their children can speak with, requiring parental approval before they can converse with an unknown person.
+
+Apple also said it will automatically censor any image sent to a known child's device if it's flagged by its system as potentially inappropriate for sexual or violent content.
+
+Federighi said Apple was providing "powerful, easy to use tools to manage what kids can see, who they talk to and when they have access."
+
+The company has come under fire from some child safety advocates for failing to do enough to protect kids.
+
+A small group of protesters gathered outside early Monday morning ahead of the keynote to critique Apple's approach to child safety in its App Store.
+
+Sarah Gardner of the HEAT Initiative, an advocacy group, chained herself to a tree in front of the Apple visitors centre as she demanded Apple remove all "nudification" technology from its App Store.
+
+Gardner also asked that Apple take down all child sexual abuse material, known as CSAM, from iCloud, saying that the company has made at least $177mn from sexually explicit AI deepfake apps.
+
+Apple has maintained that nudification apps are against their guidelines and that they have proactively rejected and removed many such apps.
+
+Earlier Monday, Sir Keir Starmer said in a speech that he was demanding that tech companies including Apple and Google block access to naked images on smartphones and other devices for anyone under 18 years old.
+
+Also notable was Tim Cook's last appearance at WWDC as CEO, a role he took over after Apple co-founder Steve Jobs stepped down for health reasons shortly before his death.
+
+Thousands of Apple employees and developers in the audience at Apple Park greeted him with a standing ovation.
+
+"I've loved hearing your stories and hearing how you're enriching the lives of so many people around the world," he told the developers in the audience before thanking members of the Apple staff.
+
+"Your imagination and ingenuity have inspired me for the last 15 years and I'm deeply grateful to have been on this journey with you."
+
+Cook called it the "honour of a lifetime" to serve as head of the company.
+
+His replacement, John Ternus, did not appear as part of the main keynote presentation but was seated in the front row next to Cook at a media briefing on the company's new Siri AI features.
+
+On Sunday evening, Ternus greeted attendees at a welcome reception that in some ways also acted as his coming-out party, analysts say.
+
+"WWDC 2026 gives Ternus a clear strategic runway: more personal devices, more contextual software, more intelligent services and a tighter link between silicon, hardware and AI," said Francisco Jeronimo, VP for data and analytics at the market intelligence firm IDC EMEA.
+
+"If Apple delivers the experience with the reliability, elegance and trust users expect, this could be remembered as the moment Siri and Apple Intelligence moved from the background of Apple's ecosystem to the centre of its future."
