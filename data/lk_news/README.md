@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--10_07:20:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--10_09:13:52-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**117,328** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**117,374** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-10-dailyftlk-6252b4cf",
-    "num": "dailyftlk-6252b4cf",
+    "doc_id": "2026-06-10-dailymirrorlk-f24abfdf",
+    "num": "dailymirrorlk-f24abfdf",
     "date_str": "2026-06-10",
-    "description": "Inland Revenue (Amendment) Act No. 11 of 2026: A comprehensive income tax reform",
-    "url_metadata": "https://www.ft.lk/columns/Inland-Revenue-Amendment-Act-No-11-of-2026-A-comprehensive-income-tax-reform/4-793095",
+    "description": "US-Iran strikes intensify after American patrol helicopter downed in Hormuz",
+    "url_metadata": "https://www.dailymirror.lk/international/US-Iran-strikes-intensify-after-American-patrol-helicopter-downed-in-Hormuz/107-342460",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1781050441.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781061531.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-06-10 | `dailyftlk-6252b4cf` | Inland Revenue (Amendment) Act No. 11 of 2026: A comprehensive income tax reform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-6252b4cf)
-- 2026-06-10 | `dailyftlk-69cdbf3a` | QR payments in Sri Lanka: How to break the ‘chicken and egg’ situation? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-69cdbf3a)
-- 2026-06-10 | `dailyftlk-c0c20614` | Navigating the intelligent tide:  How AI and Generative AI are reshaping maritime mobility in South Asia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-c0c20614)
-- 2026-06-10 | `tamilmirrorlk-2b2d296c` | ’மலசலத்துக்கும் கோட்டாவிடம் கேட்டு செல்பவரே சலே’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-2b2d296c)
-- 2026-06-10 | `tamilmirrorlk-481a954c` | நான் சொல்லுவதை கேளுங்கள்: ஜீவன் அறிவுரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-481a954c)
-- 2026-06-10 | `tamilmirrorlk-88dc536a` | ’பாடியதற்காக அல்ல:வார்த்தைகளால் சிக்கிக்கொண்டார்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-88dc536a)
-- 2026-06-10 | `tamilmirrorlk-503e92c2` | டித்வா அள்ளிய லயன்களுக்கு 10 பேர்ச் காணி: ரூ. 50 இலட்சம் நிதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-503e92c2)
-- 2026-06-10 | `tamilmirrorlk-ff039515` | ’LTTE யை ஊக்குவிக்க ஒருபோதும் இடமளியோம்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-ff039515)
-- 2026-06-10 | `tamilmirrorlk-5fd55ea4` | கோடீஸ்வரர்களை ஏமாற்றிய ’நைட் கிளப்’ பின்னணி அம்பலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-5fd55ea4)
-- 2026-06-10 | `dailymirrorlk-773156a0` | Can the Sri Lankan public sector be revived? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-773156a0)
-- 2026-06-10 | `dailymirrorlk-ffda6f5a` | Climate ambition alone won’t pay bills, Sri Lanka warned | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-ffda6f5a)
-- 2026-06-10 | `dailymirrorlk-bdd010cc` | Dimal Arandara appointed chairman of loss-making SriLankan Airlines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-bdd010cc)
-- 2026-06-10 | `dailymirrorlk-27708849` | Govt. seeks to fast-track industrial investment through environmental reforms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-27708849)
-- 2026-06-10 | `dailymirrorlk-26b56335` | Sri Lanka pushes labour reforms to strengthen worker protection | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-26b56335)
-- 2026-06-10 | `dailymirrorlk-8aeba034` | Hayleys obtains enjoining order against Wimal Weerawansa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-8aeba034)
-- 2026-06-10 | `dailymirrorlk-72b4cc5c` | Indices bounce back | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-72b4cc5c)
-- 2026-06-10 | `dailymirrorlk-2dd6100c` | Trading activity remains constrained | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-2dd6100c)
-- 2026-06-10 | `dailymirrorlk-e87ad7b0` | Hayleys Mobility launches all-new JAECOO J5 HEV in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-e87ad7b0)
-- 2026-06-10 | `dailymirrorlk-9504ce5b` | Siyapatha Finance appoints 2 board directors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-9504ce5b)
-- 2026-06-10 | `dailymirrorlk-d3378e0b` | ComBank offers exclusive financial solutions to Air Force | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-d3378e0b)
+- 2026-06-10 | `dailymirrorlk-f24abfdf` | US-Iran strikes intensify after American patrol helicopter downed in Hormuz | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-f24abfdf)
+- 2026-06-10 | `virakesarilk-9e97058a` | இயக்குநர் பாரதிராஜா காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-virakesarilk-9e97058a)
+- 2026-06-10 | `tamilmirrorlk-bfc98065` | ‘இயக்குநர் இமயம்’ பாரதிராஜா காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-bfc98065)
+- 2026-06-10 | `dailyftlk-9d0e0b58` | UAE and Sri Lanka: Strengthening relationships, enabling opportunities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-9d0e0b58)
+- 2026-06-10 | `dailyftlk-94fca87d` | BIZENIUS and RiskTAE announce senior strategic advisory appointment  of Dr. Gishan Illangakoo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-94fca87d)
+- 2026-06-10 | `dailyftlk-ebd3abfe` | Celeste steps into next era shifting to corporate governance and leadership appointment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-ebd3abfe)
+- 2026-06-10 | `dailyftlk-08b99ad3` | Embassy of Sri Lanka and VJSC Co. host tourism promotion event in Viet Nam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-08b99ad3)
+- 2026-06-10 | `dailyftlk-f4b0b92a` | Celebrating 25 years of strengthening Sri Lanka–Thailand business relations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-f4b0b92a)
+- 2026-06-10 | `dailyftlk-8c2be3ec` | UNP raises concerns over treatment of detained former intelligence chief Suresh Sallay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-8c2be3ec)
+- 2026-06-10 | `dailyftlk-2e48962f` | Govt. assures Sallay not being treated differently | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-2e48962f)
+- 2026-06-10 | `dailyftlk-6bd3cda2` | Sarana Gunawardena sentenced to 16-years imprisonment for corruption | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-6bd3cda2)
+- 2026-06-10 | `dailyftlk-9599f732` | Rs. 255 m road rehabilitation project launched on Ella–Namunukula–Passara route | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-9599f732)
+- 2026-06-10 | `dailyftlk-604832a8` | Cabinet nod to submit digital asset declaration rules for Parliament approval | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-604832a8)
+- 2026-06-10 | `dailyftlk-54310e92` | Cabinet approves Rs. 150 m  for 26 public sanitation projects under Clean Sri Lanka Program | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-54310e92)
+- 2026-06-10 | `dailyftlk-69d8a515` | Indian Naval Ship Sharda calls on Colombo today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-69d8a515)
+- 2026-06-10 | `dailyftlk-56a06c27` | Cabinet directs to prepare Bill to amend Customs Ordinance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-56a06c27)
+- 2026-06-10 | `dailyftlk-d3f6bb4a` | Cabinet directs Legal Draftsman to prepare Digital Economy Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailyftlk-d3f6bb4a)
+- 2026-06-10 | `dailymirrorlk-8ce64a69` | Trains to operate normally as strike called off | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-8ce64a69)
+- 2026-06-10 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-virakesarilk-3a015e4a)
+- 2026-06-10 | `tamilmirrorlk-6acbe340` | எபோலா தொற்றால் பலியானோர் எண்ணிக்கை 101 ஆக அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-6acbe340)
 
 ---
 

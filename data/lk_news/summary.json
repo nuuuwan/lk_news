@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-10 07:19:29",
-  "n_docs": 117328,
+  "time_updated": "2026-06-10 09:12:56",
+  "n_docs": 117374,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 117328,
+  "n_docs_with_text": 117374,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-10",
-  "dataset_size": 1828550307,
+  "dataset_size": 1828977073,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-10-dailyftlk-6252b4cf",
-    "num": "dailyftlk-6252b4cf",
+    "doc_id": "2026-06-10-dailymirrorlk-f24abfdf",
+    "num": "dailymirrorlk-f24abfdf",
     "date_str": "2026-06-10",
-    "description": "Inland Revenue (Amendment) Act No. 11 of 2026: A comprehensive income tax reform",
-    "url_metadata": "https://www.ft.lk/columns/Inland-Revenue-Amendment-Act-No-11-of-2026-A-comprehensive-income-tax-reform/4-793095",
+    "description": "US-Iran strikes intensify after American patrol helicopter downed in Hormuz",
+    "url_metadata": "https://www.dailymirror.lk/international/US-Iran-strikes-intensify-after-American-patrol-helicopter-downed-in-Hormuz/107-342460",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1781050441.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781061531.0
   }
 }
