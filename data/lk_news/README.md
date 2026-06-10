@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--10_17:06:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--10_19:01:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**117,445** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**117,454** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-10-dailymirrorlk-53ac1cb2",
-    "num": "dailymirrorlk-53ac1cb2",
+    "doc_id": "2026-06-10-tamilmirrorlk-f77de6a1",
+    "num": "tamilmirrorlk-f77de6a1",
     "date_str": "2026-06-10",
-    "description": "Rs. 200 mn allocated to boost women entrepreneurship under 2026 budget",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-200-mn-allocated-to-boost-women-entrepreneurship-under-2026-budget/108-342536",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781090519.0
+    "description": "\u2019\u20192 \u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0b95\u0bcd\u0b95\u0bc7 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u201d: \u0b85\u0bb4\u0bc1\u0ba4\u0bc1 \u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f \u0bb5\u0bbe\u0bb2\u0bbf\u0baa\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/2-\u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd-\u0b8e\u0ba9\u0b95\u0bcd\u0b95\u0bc7-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0b85\u0bb4\u0bc1\u0ba4\u0bc1-\u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f-\u0bb5\u0bbe\u0bb2\u0bbf\u0baa\u0bb0\u0bcd/175-378375",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781095846.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-10 | `tamilmirrorlk-f77de6a1` | ’’2 மனைவிகளும் எனக்கே வேண்டும்”: அழுது புரண்ட வாலிபர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-f77de6a1)
+- 2026-06-10 | `dailymirrorlk-f8e26da7` | Luxembourg-backed WEAIR Cargo Airline launched in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-f8e26da7)
+- 2026-06-10 | `dailymirrorlk-2df27fdc` | Shan Wijayalal remanded over alleged procurement irregularities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-2df27fdc)
+- 2026-06-10 | `tamilmirrorlk-0a645415` | டெஸ்ட் போட்டியை நிறுத்திய மாதவிடாய் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-0a645415)
+- 2026-06-10 | `dailymirrorlk-e3e3041f` | One student missing after three swept away by waves at Galle Face | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-e3e3041f)
+- 2026-06-10 | `dailymirrorlk-81aa3a80` | CAA imposes new maximum retail prices for bottled drinking water | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-81aa3a80)
+- 2026-06-10 | `dailymirrorlk-8d19afb1` | Tamil Nadu leaders mourn Bharathiraja’s demise; state to accord full honours | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-8d19afb1)
 - 2026-06-10 | `dailymirrorlk-53ac1cb2` | Rs. 200 mn allocated to boost women entrepreneurship under 2026 budget | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-53ac1cb2)
 - 2026-06-10 | `tamilmirrorlk-bdd7cbe5` | 100 பாடசாலைகளை மூடிய கரடிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-bdd7cbe5)
 - 2026-06-10 | `dailymirrorlk-262e7532` | Energy storage systems to be introduced to optimise renewable power use: PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-262e7532)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-06-10 | `dailymirrorlk-62d43a91` | What Do Sri Lankan Fans Think? Ranking the Top Contenders for the FIFA World Cup 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-62d43a91)
 - 2026-06-10 | `dailymirrorlk-39ce0b35` | Sri Lanka to inaugurate first boat launching ramp to boost marine industry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-39ce0b35)
 - 2026-06-10 | `tamilmirrorlk-f7577da3` | சலேவுக்கு விசேட மருத்துவக் குழு : சத்தியாக்கிரகம் கைவிடப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-f7577da3)
-- 2026-06-10 | `dailymirrorlk-a2b4e8ae` | Court orders five-member medical board to examine Suresh Sallay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-a2b4e8ae)
-- 2026-06-10 | `tamilmirrorlk-7c9061a2` | மீண்டெழுந்த பலூன் திருவிழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-7c9061a2)
-- 2026-06-10 | `dailymirrorlk-0cb8699a` | Satyagraha opposing detention of Suresh Sallay called off | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-0cb8699a)
-- 2026-06-10 | `adalk-6b426453` | ශාන් විජයලාල් රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-adalk-6b426453)
-- 2026-06-10 | `tamilmirrorlk-b252873d` | கசகஸ்தானில் மீண்டெழுந்த பலூன் திருவிழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-b252873d)
-- 2026-06-10 | `tamilmirrorlk-3019ff46` | பேராயர் கிரிலுக்கு எதிராக புதிய தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-3019ff46)
-- 2026-06-10 | `tamilmirrorlk-82bd5490` | விபத்தில் முதியவர் பலி ; சிசிடிவியால் சிக்கிய கொலையாளி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-82bd5490)
 
 ---
 
