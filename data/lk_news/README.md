@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--10_13:21:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--10_15:03:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**117,409** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**117,427** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-10-dailymirrorlk-e4b3b952",
-    "num": "dailymirrorlk-e4b3b952",
+    "doc_id": "2026-06-10-dailymirrorlk-0cb8699a",
+    "num": "dailymirrorlk-0cb8699a",
     "date_str": "2026-06-10",
-    "description": "Man arrested for stealing temple studio equipment",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-arrested-for-stealing-temple-studio-equipment/108-342509",
+    "description": "Satyagraha opposing detention of Suresh Sallay called off",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Satyagraha-opposing-detention-of-Suresh-Sallay-called-off/108-342520",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781077269.0
+    "time_ut": 1781083756.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-10 | `dailymirrorlk-0cb8699a` | Satyagraha opposing detention of Suresh Sallay called off | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-0cb8699a)
+- 2026-06-10 | `tamilmirrorlk-b252873d` | கசகஸ்தானில் மீண்டெழுந்த பலூன் திருவிழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-b252873d)
+- 2026-06-10 | `tamilmirrorlk-3019ff46` | பேராயர் கிரிலுக்கு எதிராக புதிய தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-3019ff46)
+- 2026-06-10 | `tamilmirrorlk-82bd5490` | விபத்தில் முதியவர் பலி ; சிசிடிவியால் சிக்கிய கொலையாளி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-82bd5490)
+- 2026-06-10 | `dailymirrorlk-f688b163` | BYD chairman says firm will be world’s biggest automaker in 5 years as shares slide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-f688b163)
+- 2026-06-10 | `dailymirrorlk-688fca1f` | 31,000 premises inspected in dengue drive; 1,864 found with larvae | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-688fca1f)
+- 2026-06-10 | `dailymirrorlk-69f05cbe` | Railway union warns of wider disruptions over ongoing 48-hour strike | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-69f05cbe)
+- 2026-06-10 | `tamilmirrorlk-473f4e6b` | ’’மனைவிக்கு சுகவீனம்’’ ; சார்ஜன்ட் பணிநீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-473f4e6b)
+- 2026-06-10 | `dailymirrorlk-90460b14` | Pakistani airstrikes kill at least 13 in Afghanistan, Taliban says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-90460b14)
+- 2026-06-10 | `tamilmirrorlk-19ab5d38` | வயிற்றில் ‘ஐஸ்’ வெடித்ததில் ஆள் அவுட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-19ab5d38)
+- 2026-06-10 | `tamilmirrorlk-233eea1b` | ’’பபுவா’’, ’’ஆமி சது’’ உட்பட 11 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-233eea1b)
+- 2026-06-10 | `tamilmirrorlk-58921f3c` | நாற்காலி கொள்முதல்: ஷான் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-58921f3c)
+- 2026-06-10 | `dailymirrorlk-9d01a9a9` | Bribery Commission arrests Shan Wijayalal over chair procurement scam | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-9d01a9a9)
+- 2026-06-10 | `dailymirrorlk-5bf2d1d4` | Keeping Dengue at bay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-5bf2d1d4)
 - 2026-06-10 | `dailymirrorlk-e4b3b952` | Man arrested for stealing temple studio equipment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-e4b3b952)
 - 2026-06-10 | `dailymirrorlk-66b83ee1` | Sri Lanka now second most peaceful in South Asia: Report | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-66b83ee1)
 - 2026-06-10 | `tamilmirrorlk-26d77715` | உலகளாவிய சவால்களை எதிர்கொள்ள   உரையாடல் அவசியம்: சீன வெளியுறவு அமைச்சர்  வலியுறுத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-26d77715)
 - 2026-06-10 | `dailymirrorlk-932a8b45` | Senior DIG seeks court order to prevent arrest over Easter Sunday probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-932a8b45)
 - 2026-06-10 | `dailymirrorlk-48740468` | Fishermen warned of rough seas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-48740468)
-- 2026-06-10 | `tamilmirrorlk-21803c04` | பாலஸ்தீன கைதிகள் மீது: நாய்களை பயன்படுத்தித் சித்திரவதை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-21803c04)
-- 2026-06-10 | `dailymirrorlk-74ce1a9a` | Air Canada pilot accused of flying for 17 years without proper licence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-74ce1a9a)
-- 2026-06-10 | `dailymirrorlk-7c7bf0db` | Twelve killed in mass shooting in Johannesburg, police say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-7c7bf0db)
-- 2026-06-10 | `dailymirrorlk-04ebc3d7` | Rupee strengthens against USD | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-04ebc3d7)
-- 2026-06-10 | `dailymirrorlk-4e5d8e6c` | Central Bank issues new rules on export earnings conversion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-4e5d8e6c)
-- 2026-06-10 | `dailymirrorlk-3a175144` | Some Opposition MPs are brainless: Speaker | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-3a175144)
-- 2026-06-10 | `dailymirrorlk-567e547c` | NASA taps US astronauts, Italian for Artemis mission with SpaceX, Blue Origin mooncraft | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-567e547c)
-- 2026-06-10 | `tamilmirrorlk-3346a4a7` | ’சிங்கப்பெண்’ அதிரடிப்படையைத் ஆரம்பித்து வைத்தார் CM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-3346a4a7)
-- 2026-06-10 | `adalk-8f30e86c` | අයිඩියල් අභියෝගය 10 වැනි අදියර සාර්ථකව නිමාව දකියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-adalk-8f30e86c)
-- 2026-06-10 | `dailymirrorlk-7dff48fd` | Speaker threatens to remove MP Sujeewa Senasinghe from chambers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-7dff48fd)
-- 2026-06-10 | `tamilmirrorlk-7a49a5fb` | பாரதிராஜாவுக்கு முழு அரசு மரியாதை  முதல்வர் விஜய் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-7a49a5fb)
-- 2026-06-10 | `dailymirrorlk-1dd3ab92` | Kuwait restricts domestic worker recruitment to 10 countries including Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-1dd3ab92)
-- 2026-06-10 | `dailymirrorlk-7bcff8b3` | President Anura congratulates Modi on becoming India’s longest-serving elected PM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-7bcff8b3)
-- 2026-06-10 | `tamilmirrorlk-7e9ed5ab` | சுதந்திரத்தின் குரல்வளை நெரிக்கப்படுகிறதா? : மௌனிக்கப்படும் ஜனநாயகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-tamilmirrorlk-7e9ed5ab)
-- 2026-06-10 | `dailymirrorlk-6dd4dc67` | Provincial Council elections will be held only after amending electoral system: Harini | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-dailymirrorlk-6dd4dc67)
+- 2026-06-10 | `adalk-23086561` | ඩී.එම්.ටී. වංචා ගැන COPA වාර්තාව නීතිපතිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-10-adalk-23086561)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-10 13:20:49",
-  "n_docs": 117409,
+  "time_updated": "2026-06-10 15:02:29",
+  "n_docs": 117427,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 117409,
+  "n_docs_with_text": 117427,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-10",
-  "dataset_size": 1829804459,
+  "dataset_size": 1830045744,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-10-dailymirrorlk-e4b3b952",
-    "num": "dailymirrorlk-e4b3b952",
+    "doc_id": "2026-06-10-dailymirrorlk-0cb8699a",
+    "num": "dailymirrorlk-0cb8699a",
     "date_str": "2026-06-10",
-    "description": "Man arrested for stealing temple studio equipment",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Man-arrested-for-stealing-temple-studio-equipment/108-342509",
+    "description": "Satyagraha opposing detention of Suresh Sallay called off",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Satyagraha-opposing-detention-of-Suresh-Sallay-called-off/108-342520",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781077269.0
+    "time_ut": 1781083756.0
   }
 }
