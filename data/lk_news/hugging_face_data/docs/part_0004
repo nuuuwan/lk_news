@@ -231428,6 +231428,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-10-dailymirrorlk-cf640088",
+    "num": "dailymirrorlk-cf640088",
+    "date_str": "2026-06-10",
+    "description": "ICC Women\u2019s T20 World Cup 2026 Schedule: Full Fixtures, Match Timings in Sri Lankan Time",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ICC-Womens-T20-World-Cup-2026-Schedule-Full-Fixtures-Match-Timings-in-Sri-Lankan-Time/108-342473",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781068439.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-10-virakesarilk-63e7a8c7",
     "num": "virakesarilk-63e7a8c7",
     "date_str": "2026-06-10",
@@ -232789,5 +232800,93 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781140132.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-11-dailymirrorlk-9212d28a",
+    "num": "dailymirrorlk-9212d28a",
+    "date_str": "2026-06-11",
+    "description": "Iran says it struck ships in Strait of Hormuz after US launches new strikes",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-says-it-struck-ships-in-Strait-of-Hormuz-after-US-launches-new-strikes/107-342575",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781140395.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-11-dailymirrorlk-cb338bd0",
+    "num": "dailymirrorlk-cb338bd0",
+    "date_str": "2026-06-11",
+    "description": "Heavy rain, strong winds forecast today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rain-strong-winds-forecast-today/108-342576",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781140683.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-11-dailyftlk-09e09988",
+    "num": "dailyftlk-09e09988",
+    "date_str": "2026-06-11",
+    "description": "Authorities probe $ 85 m fraud linked to bogus imports",
+    "url_metadata": "https://www.ft.lk/business/Authorities-probe-85-m-fraud-linked-to-bogus-imports/34-793171",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781140963.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-11-dailyftlk-b3eade22",
+    "num": "dailyftlk-b3eade22",
+    "date_str": "2026-06-11",
+    "description": "Sasakawa Trust unveils Rs. 3 b Nippon Office Building in Ward Place",
+    "url_metadata": "https://www.ft.lk/business/Sasakawa-Trust-unveils-Rs-3-b-Nippon-Office-Building-in-Ward-Place/34-793172",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781141018.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-11-dailyftlk-f5d6f5e0",
+    "num": "dailyftlk-f5d6f5e0",
+    "date_str": "2026-06-11",
+    "description": "Medicine price hike under review as rising costs threaten supply",
+    "url_metadata": "https://www.ft.lk/business/Medicine-price-hike-under-review-as-rising-costs-threaten-supply/34-793173",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781141078.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-11-dailyftlk-167a4a94",
+    "num": "dailyftlk-167a4a94",
+    "date_str": "2026-06-11",
+    "description": "CBSL Governor briefs MPs on monetary policy, exchange rate developments",
+    "url_metadata": "https://www.ft.lk/business/CBSL-Governor-briefs-MPs-on-monetary-policy-exchange-rate-developments/34-793174",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781141153.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-11-dailymirrorlk-992a68d0",
+    "num": "dailymirrorlk-992a68d0",
+    "date_str": "2026-06-11",
+    "description": "11-year-old boy dies after Galle Face drowning incident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/11-year-old-boy-dies-after-Galle-Face-drowning-incident/108-342577",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781141396.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-11-tamilmirrorlk-11bb5a94",
+    "num": "tamilmirrorlk-11bb5a94",
+    "date_str": "2026-06-11",
+    "description": "\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bbe\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bbe\u0b95\u0bbf\u0bb1\u0ba4\u0bc1-\u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe/44-378397",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781147760.0
   }
 ]

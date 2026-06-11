@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--11_06:42:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--11_08:54:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**117,521** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**117,530** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-11-dailymirrorlk-9de066b3",
-    "num": "dailymirrorlk-9de066b3",
+    "doc_id": "2026-06-11-tamilmirrorlk-11bb5a94",
+    "num": "tamilmirrorlk-11bb5a94",
     "date_str": "2026-06-11",
-    "description": "Iran announces closure of Strait of Hormuz after US attacks",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-announces-closure-of-Strait-of-Hormuz-after-US-attacks/108-342574",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781140132.0
+    "description": "\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bbe\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bbe\u0b95\u0bbf\u0bb1\u0ba4\u0bc1-\u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe/44-378397",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781147760.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-11 | `tamilmirrorlk-11bb5a94` | ஆரம்பமாகிறது கால்பந்தாட்டத் திருவிழா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-tamilmirrorlk-11bb5a94)
+- 2026-06-11 | `dailymirrorlk-992a68d0` | 11-year-old boy dies after Galle Face drowning incident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailymirrorlk-992a68d0)
+- 2026-06-11 | `dailyftlk-167a4a94` | CBSL Governor briefs MPs on monetary policy, exchange rate developments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailyftlk-167a4a94)
+- 2026-06-11 | `dailyftlk-f5d6f5e0` | Medicine price hike under review as rising costs threaten supply | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailyftlk-f5d6f5e0)
+- 2026-06-11 | `dailyftlk-b3eade22` | Sasakawa Trust unveils Rs. 3 b Nippon Office Building in Ward Place | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailyftlk-b3eade22)
+- 2026-06-11 | `dailyftlk-09e09988` | Authorities probe $ 85 m fraud linked to bogus imports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailyftlk-09e09988)
+- 2026-06-11 | `dailymirrorlk-cb338bd0` | Heavy rain, strong winds forecast today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailymirrorlk-cb338bd0)
+- 2026-06-11 | `dailymirrorlk-9212d28a` | Iran says it struck ships in Strait of Hormuz after US launches new strikes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailymirrorlk-9212d28a)
 - 2026-06-11 | `dailymirrorlk-9de066b3` | Iran announces closure of Strait of Hormuz after US attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailymirrorlk-9de066b3)
 - 2026-06-11 | `dailymirrorlk-919d5324` | Canada proposes teen social media ban - with workaround for tech firms | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailymirrorlk-919d5324)
 - 2026-06-11 | `dailyftlk-cc786cde` | Transforming a developing  nation into a developed one -Part I | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailyftlk-cc786cde)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-06-11 | `dailyftlk-13fa61cd` | Minister alleges ex-SIS Chief Sallay conspired to facilitate Easter attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailyftlk-13fa61cd)
 - 2026-06-11 | `dailyftlk-1b58648f` | Working Journalists Association urges withdrawal of proposed media regulator Bill | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailyftlk-1b58648f)
 - 2026-06-11 | `dailyftlk-91241dca` | Harsha questions return of ‘crisis era’ with forced export conversion rule | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailyftlk-91241dca)
-- 2026-06-11 | `dailyftlk-6be86e15` | Home Lands to unveil ‘Central Park Boulevard Port City Colombo’ with  largest-ever real estate launch in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailyftlk-6be86e15)
-- 2026-06-11 | `dailyftlk-c9b1055d` | Toyota Lanka expands in Kandy, drives new era  of after-sales excellence, reinforcing legacy of trust | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-dailyftlk-c9b1055d)
-- 2026-06-11 | `virakesarilk-1085a175` | ஸ்ரீ லங்கா டெலிகொம் நிர்வாகத்திற்கு எதிராக ஜூன் 19ல் பங்குதாரர்கள் போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-virakesarilk-1085a175)
-- 2026-06-11 | `virakesarilk-cdc33eb9` | காலி, மட்டக்களப்பு வைத்தியசாலைகளில் புற்றுநோய்க்கான கதிர்வீச்சு சிகிச்சை சேவைகள் ஸ்தம்பிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-virakesarilk-cdc33eb9)
-- 2026-06-11 | `virakesarilk-4637f60f` | கொக்கிளாயில் மீனவர் குடும்பங்களை நிரந்தரமாக குடியேற்ற அனுமதிக்க முடியாது – கஜேந்திரகுமார் பொன்னம்பலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-virakesarilk-4637f60f)
-- 2026-06-11 | `virakesarilk-1101423e` | 16.5 மில்லியன் ரூபா நாற்காலி கொள்வனவு மோசடி : முன்னாள் மாகாண சபை உறுப்பினருக்கு ஷான் விஜயலாலுக்கு 12 ஆம் திகதிவரை விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-virakesarilk-1101423e)
-- 2026-06-11 | `tamilmirrorlk-8a310e91` | சர்ச்சைக்குரிய விவகாரங்கள்: குற்றவாளிகள் தப்ப முடியாது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-tamilmirrorlk-8a310e91)
-- 2026-06-11 | `virakesarilk-27ab931f` | சட்டத்தின் முன் அனைவரும் சமம்; செல்வாக்கால் தப்ப முடியாது – அமைச்சர் சுனில் ஹந்துன்னெத்தி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-11-virakesarilk-27ab931f)
 
 ---
 
