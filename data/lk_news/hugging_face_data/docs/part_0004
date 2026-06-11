@@ -234846,5 +234846,82 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781194649.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-12-dailymirrorlk-66335d26",
+    "num": "dailymirrorlk-66335d26",
+    "date_str": "2026-06-12",
+    "description": "Celeste announces leadership appointment",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Celeste-announces-leadership-appointment/273-342667",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781203853.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-12-dailymirrorlk-cb39d347",
+    "num": "dailymirrorlk-cb39d347",
+    "date_str": "2026-06-12",
+    "description": "Fintrex Finance-KayJay Electronics launch CCTV loan facility",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Fintrex-Finance-KayJay-Electronics-launch-CCTV-loan-facility/273-342668",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781203919.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-12-dailymirrorlk-cb19c06d",
+    "num": "dailymirrorlk-cb19c06d",
+    "date_str": "2026-06-12",
+    "description": "New investments reinforce Colombo Port City\u2019s role as a catalyst for economic growth",
+    "url_metadata": "https://www.dailymirror.lk/business-news/New-investments-reinforce-Colombo-Port-Citys-role-as-a-catalyst-for-economic-growth/273-342669",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781204348.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-12-dailymirrorlk-6d7c608e",
+    "num": "dailymirrorlk-6d7c608e",
+    "date_str": "2026-06-12",
+    "description": "SDB Bank with IBM modernises digital banking infrastructure",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SDB-Bank-with-IBM-modernises-digital-banking-infrastructure/273-342670",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781204571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-12-dailymirrorlk-12809b59",
+    "num": "dailymirrorlk-12809b59",
+    "date_str": "2026-06-12",
+    "description": "SL-Thailand Business Council celebrates 25 years of strengthening biz relations",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SL-Thailand-Business-Council-celebrates-25-years-of-strengthening-biz-relations/273-342671",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781204771.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-12-dailymirrorlk-9636e9d4",
+    "num": "dailymirrorlk-9636e9d4",
+    "date_str": "2026-06-12",
+    "description": "David Pieris Automobiles opens SL\u2019s 1st GWM Flagship Experience Centre",
+    "url_metadata": "https://www.dailymirror.lk/business-news/David-Pieris-Automobiles-opens-SLs-1st-GWM-Flagship-Experience-Centre/273-342672",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781205104.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-12-dailymirrorlk-45d52dae",
+    "num": "dailymirrorlk-45d52dae",
+    "date_str": "2026-06-12",
+    "description": "Hayleys Solar completes GPV Lanka\u2019s 1.7MWp installation",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hayleys-Solar-completes-GPV-Lankas-1-7MWp-installation/273-342673",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781205333.0
   }
 ]

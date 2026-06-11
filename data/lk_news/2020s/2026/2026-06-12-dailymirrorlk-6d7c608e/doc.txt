@@ -1,0 +1,13 @@
+SDB Bank with IBM modernises digital banking infrastructure
+
+SDB Bank has collaborated with IBM and South Asian Technologies (SAT), an IBM business partner, to modernise its digital banking infrastructure and accelerate its transformation journey.
+
+By leveraging IBM’s enterprise infrastructure and automation solutions, SDB bank continues to demonstrate its ability to deliver secure and seamless banking experiences while improving agility and operational resilience.
+
+As customer expectations evolve and the financial services landscape becomes increasingly dynamic, SDB Bank embarked on an initiative to strengthen its core banking environment and build a more agile digital backbone. The bank sought to enhance its ability to rapidly introduce, customise and scale services thereby helping respond to customer needs more effectively while driving operational efficiency.
+
+“Our focus has always been on delivering dependable, customer-centric banking services. Working with IBM, we have upgraded our core infrastructure and built a flexible, future-ready, robust platform that enables us to respond more quickly to changing customer expectations and market demands. This initiative strengthens our ability to innovate, scale, and drive long-term growth,” said SDB Bank Chief Executive Officer Kapila Ariyaratne.
+
+As part of this transformation, SDB Bank has modernised its core banking foundation using IBM Power high-performance servers and IBM FlashSystem storage, creating a secure, resilient and scalable platform for mission-critical banking operations. In parallel, the bank has adopted IBM Cloud Pak for Business Automation as its strategic automation platform to streamline workflows, improve content management and automate key business processes across the enterprise.
+
+“Through this collaboration, SDB Bank has established a scalable, future ready digital foundation. This transformation demonstrates how IBM, together with partners like SAT, can help financial institutions unlock business value, drive productivity and innovate at scale using the latest AI and hybrid cloud solutions,” said IBM India and South Asia Vice President Technology Gaurav Agarwal.
