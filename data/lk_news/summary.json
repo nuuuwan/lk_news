@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-12 00:47:44",
-  "n_docs": 117715,
+  "time_updated": "2026-06-12 02:37:56",
+  "n_docs": 117745,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 117715,
+  "n_docs_with_text": 117745,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-12",
-  "dataset_size": 1835097299,
+  "dataset_size": 1835425502,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-12-dailymirrorlk-45d52dae",
-    "num": "dailymirrorlk-45d52dae",
+    "doc_id": "2026-06-12-dailymirrorlk-95155cde",
+    "num": "dailymirrorlk-95155cde",
     "date_str": "2026-06-12",
-    "description": "Hayleys Solar completes GPV Lanka\u2019s 1.7MWp installation",
-    "url_metadata": "https://www.dailymirror.lk/business-news/Hayleys-Solar-completes-GPV-Lankas-1-7MWp-installation/273-342673",
+    "description": "Govt. to launch export blueprint targeting  US$ 36bn revenue by 2030",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Govt-to-launch-export-blueprint-targeting-US-36bn-revenue-by-2030/245-342685",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781205333.0
+    "time_ut": 1781207491.0
   }
 }
