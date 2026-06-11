@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--12_02:38:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--12_04:22:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**117,745** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**117,752** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-12-dailymirrorlk-95155cde",
-    "num": "dailymirrorlk-95155cde",
+    "doc_id": "2026-06-12-tamilmirrorlk-7fe32730",
+    "num": "tamilmirrorlk-7fe32730",
     "date_str": "2026-06-12",
-    "description": "Govt. to launch export blueprint targeting  US$ 36bn revenue by 2030",
-    "url_metadata": "https://www.dailymirror.lk/business-main/Govt-to-launch-export-blueprint-targeting-US-36bn-revenue-by-2030/245-342685",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781207491.0
+    "description": "\u0b87\u0ba9\u0bb5\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bc0\u0ba4\u0bbf\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bcb\u0bb0 \u0b95\u0ba4\u0bcd\u0ba4\u0bcb\u0bb2\u0bbf\u0b95\u0bcd\u0b95 \u0b9a\u0baa\u0bc8 \u0ba4\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bc1 \u0b8f\u0ba9\u0bcd?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bb5\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0ba8\u0bc0\u0ba4\u0bbf\u0baf\u0bc8\u0b95\u0bcd-\u0b95\u0bcb\u0bb0-\u0b95\u0ba4\u0bcd\u0ba4\u0bcb\u0bb2\u0bbf\u0b95\u0bcd\u0b95-\u0b9a\u0baa\u0bc8-\u0ba4\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bc1-\u0b8f\u0ba9\u0bcd/175-378470",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781217447.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-12 | `tamilmirrorlk-7fe32730` | இனவழிப்பு நீதியைக் கோர கத்தோலிக்க சபை தயங்குவது ஏன்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-7fe32730)
+- 2026-06-12 | `dailymirrorlk-07462c91` | Easter attack: Who is telling the truth? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-07462c91)
+- 2026-06-12 | `dailymirrorlk-c83c48b0` | Whither peace efforts as Iran war escalates? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-c83c48b0)
+- 2026-06-12 | `dailymirrorlk-3ccc67d2` | Is the country ready for extreme weather effects? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-3ccc67d2)
+- 2026-06-12 | `tamilmirrorlk-87286e50` | சுரேஷ் சலே மீது மட்டும் பழிசுமத்துவது நியாயமற்றது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-87286e50)
+- 2026-06-12 | `tamilmirrorlk-79698ffa` | அரச வழக்குத் தொடுனர் அலுவலகம்: நிபுணர் குழு நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-79698ffa)
 - 2026-06-12 | `dailymirrorlk-95155cde` | Govt. to launch export blueprint targeting  US$ 36bn revenue by 2030 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-95155cde)
 - 2026-06-12 | `dailymirrorlk-24b4bdbf` | Tourism industry veteran Hiran Cooray expresses cautious optimism for winter amid bleak summer warnings | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-24b4bdbf)
 - 2026-06-12 | `dailymirrorlk-b844fca9` | Sri Lanka faces AI shake-up as 22.8% of jobs exposed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-b844fca9)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-06-12 | `dailymirrorlk-c84457ad` | 99x launches Xianix in Oslo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-c84457ad)
 - 2026-06-12 | `dailymirrorlk-45d52dae` | Hayleys Solar completes GPV Lanka’s 1.7MWp installation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-45d52dae)
 - 2026-06-12 | `dailymirrorlk-9636e9d4` | David Pieris Automobiles opens SL’s 1st GWM Flagship Experience Centre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-9636e9d4)
-- 2026-06-12 | `dailymirrorlk-12809b59` | SL-Thailand Business Council celebrates 25 years of strengthening biz relations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-12809b59)
-- 2026-06-12 | `dailymirrorlk-6d7c608e` | SDB Bank with IBM modernises digital banking infrastructure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-6d7c608e)
-- 2026-06-12 | `dailymirrorlk-cb19c06d` | New investments reinforce Colombo Port City’s role as a catalyst for economic growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-cb19c06d)
-- 2026-06-12 | `dailymirrorlk-cb39d347` | Fintrex Finance-KayJay Electronics launch CCTV loan facility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-cb39d347)
-- 2026-06-12 | `dailymirrorlk-66335d26` | Celeste announces leadership appointment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-66335d26)
-- 2026-06-12 | `virakesarilk-f03a700a` | சுரேஷ் சலே தாக்கல் செய்த மனு மீதான விசாரணை ஜூலை 10 ஆம் திகதிக்கு ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-virakesarilk-f03a700a)
 
 ---
 
