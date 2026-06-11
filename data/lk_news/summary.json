@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-11 04:23:23",
-  "n_docs": 117494,
+  "time_updated": "2026-06-11 06:41:58",
+  "n_docs": 117521,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 117494,
+  "n_docs_with_text": 117521,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-11",
-  "dataset_size": 1830995823,
+  "dataset_size": 1831645939,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-11-virakesarilk-1085a175",
-    "num": "virakesarilk-1085a175",
+    "doc_id": "2026-06-11-dailymirrorlk-9de066b3",
+    "num": "dailymirrorlk-9de066b3",
     "date_str": "2026-06-11",
-    "description": "\u0bb8\u0bcd\u0bb0\u0bc0 \u0bb2\u0b99\u0bcd\u0b95\u0bbe \u0b9f\u0bc6\u0bb2\u0bbf\u0b95\u0bca\u0bae\u0bcd \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0b9c\u0bc2\u0ba9\u0bcd 19\u0bb2\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/249512",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1781125560.0
+    "description": "Iran announces closure of Strait of Hormuz after US attacks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-announces-closure-of-Strait-of-Hormuz-after-US-attacks/108-342574",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781140132.0
   }
 }
