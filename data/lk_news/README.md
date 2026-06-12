@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--12_11:27:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--12_13:45:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**117,829** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**117,846** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-12-dailymirrorlk-2d533d35",
-    "num": "dailymirrorlk-2d533d35",
+    "doc_id": "2026-06-12-tamilmirrorlk-a6bf82f7",
+    "num": "tamilmirrorlk-a6bf82f7",
     "date_str": "2026-06-12",
-    "description": "\u2018Proposals on table, ball in Sri Lanka\u2019s court\u2019 \u2013 Envoy",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Proposals-on-table-ball-in-Sri-Lankas-court-Envoy/108-342739",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781243058.0
+    "description": "2026 \u0baa\u0bbf\u0b83\u0baa\u0bbe: \u0b85\u0bb0\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bbf\u0baf \u0b95\u0ba3\u0bcd\u0b95\u0bb5\u0bb0\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/2026-\u0baa\u0bbf\u0b83\u0baa\u0bbe-\u0b85\u0bb0\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bbf\u0baf-\u0b95\u0ba3\u0bcd\u0b95\u0bb5\u0bb0\u0bcd-\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd/46-378490",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781250802.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-12 | `tamilmirrorlk-a6bf82f7` | 2026 பிஃபா: அரங்கேறிய கண்கவர் காட்சிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-a6bf82f7)
+- 2026-06-12 | `tamilmirrorlk-448978e1` | பரிசோதனையின்   கோரம்: எதிர்காலத்தை இழந்த 15 வயது மாணவி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-448978e1)
+- 2026-06-12 | `dailymirrorlk-86de6bea` | Denied a US visa to watch the World Cup? Have a free TV, says Argentine company | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-86de6bea)
+- 2026-06-12 | `dailymirrorlk-f2522663` | Rupee weakens further against USD | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-f2522663)
+- 2026-06-12 | `tamilmirrorlk-231d9e69` | அந்த நினைவுகள் என்றும் அழியாது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-231d9e69)
+- 2026-06-12 | `dailymirrorlk-9f1006bd` | Ex-South Korean President Yoon Suk Yeol sentenced to 30 years in jail over Pyongyang drone plot | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-9f1006bd)
+- 2026-06-12 | `tamilmirrorlk-ce9ea8f2` | FIFA 2026: தொடக்க ஆட்டத்திலேயே மூன்று சிவப்பு அட்டைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-ce9ea8f2)
+- 2026-06-12 | `dailymirrorlk-999f9e4a` | Defence Ministry fast-tracks veteran welfare | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-999f9e4a)
+- 2026-06-12 | `dailymirrorlk-f77f1a04` | Ragama Hospital equipment restored, saving millions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-f77f1a04)
+- 2026-06-12 | `tamilmirrorlk-d6212f5a` | தாய்லாந்து இளவரசி பஜ்ரகிதியபா காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-d6212f5a)
+- 2026-06-12 | `dailymirrorlk-31a9c3e3` | Former Chief Minister Shan Wijayalal de Silva granted bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-31a9c3e3)
+- 2026-06-12 | `dailymirrorlk-7e596685` | Diplomats gather in Colombo for Hail and Farewell Reception 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-7e596685)
+- 2026-06-12 | `tamilmirrorlk-5790cbec` | 14 வயது மகளைக் கடித்த தாய் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-5790cbec)
+- 2026-06-12 | `dailymirrorlk-55e1bd81` | Commonwealth Lawyers’ Association backs BASL, opposes judicial retirement age amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-55e1bd81)
+- 2026-06-12 | `tamilmirrorlk-3a466c36` | அந்தோனியார் பெருவிழா: பவனியின் பயணப்பாதை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-3a466c36)
 - 2026-06-12 | `dailymirrorlk-2d533d35` | ‘Proposals on table, ball in Sri Lanka’s court’ – Envoy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-2d533d35)
 - 2026-06-12 | `dailymirrorlk-8fba3a2a` | Backlog of 1.1 million court cases in Sri Lanka : MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-8fba3a2a)
 - 2026-06-12 | `dailymirrorlk-aaaea5d3` | High blood pressure a major cause of serious diseases: Specialist | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-aaaea5d3)
+- 2026-06-12 | `adalk-4a880558` | ශ්‍රී ලන්කන් ප්‍රතිව්‍යුහගතකරණ කමිටු සභාපති ධුරය හාන්ස්ට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-adalk-4a880558)
 - 2026-06-12 | `dailymirrorlk-e363e5fd` | U.S. Navy Littoral combat ship USS Canberra arrives in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-e363e5fd)
-- 2026-06-12 | `tamilmirrorlk-2a1e6a6d` | ’ஹபீபி’: மீரா கதிரவனின்   படைப்பு வென்றதா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-2a1e6a6d)
-- 2026-06-12 | `dailymirrorlk-7d264a76` | Education reforms needed to reduce student stress, Experts warn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-7d264a76)
-- 2026-06-12 | `tamilmirrorlk-936f358c` | ஈரான் மீது இன்று இரவு கடுமையான தாக்குதல்:  டிரம்ப் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-936f358c)
-- 2026-06-12 | `tamilmirrorlk-b74a4ec3` | கரியடுப்பில் விழுந்த  நபர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-b74a4ec3)
-- 2026-06-12 | `tamilmirrorlk-d16847c0` | மின்னல் தாக்கியதால்  திரும்பிய  விமானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-d16847c0)
-- 2026-06-12 | `dailymirrorlk-f95d7929` | Officers accused of failing to stop Easter Attacks now investigating Sallay- President’s Counsel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-f95d7929)
-- 2026-06-12 | `dailymirrorlk-7d63638b` | Underworld turning to homemade guns as raids drain weapon supplies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-7d63638b)
-- 2026-06-12 | `dailymirrorlk-ed439085` | West Indies defeat Sri Lanka by seven wickets in T20 opener | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-ed439085)
-- 2026-06-12 | `dailymirrorlk-ef26689d` | SriLankan UL606 turns back to Colombo due to adverse weather | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-ef26689d)
-- 2026-06-12 | `dailymirrorlk-794bb3ae` | El Nino to hit Sri Lanka’s power generation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-794bb3ae)
-- 2026-06-12 | `dailymirrorlk-87e5c534` | Bollywood stars shine at BIA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-87e5c534)
-- 2026-06-12 | `dailymirrorlk-d7024c0d` | NCPA receives 287 complaints of children forced into begging in 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-d7024c0d)
-- 2026-06-12 | `dailymirrorlk-10915ed5` | Sri Lanka on brink of dengue epidemic | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-10915ed5)
-- 2026-06-12 | `dailymirrorlk-7b667f32` | Thai Princess Bajrakitiyabha dies after more than three years in coma | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-7b667f32)
-- 2026-06-12 | `dailymirrorlk-10b9a4dc` | Iran says no final decision made on deal that Trump hopes could be signed soon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-10b9a4dc)
-- 2026-06-12 | `dailymirrorlk-98eb294f` | Mexico defeats South Africa 2-0 in the World Cup’s opening match | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-98eb294f)
 
 ---
 
