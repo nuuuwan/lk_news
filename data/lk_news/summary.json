@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-12 19:28:01",
-  "n_docs": 117870,
+  "time_updated": "2026-06-12 21:16:58",
+  "n_docs": 117874,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 117870,
+  "n_docs_with_text": 117874,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-12",
-  "dataset_size": 1838052182,
+  "dataset_size": 1838124132,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-12-dailymirrorlk-4bf4ac0a",
-    "num": "dailymirrorlk-4bf4ac0a",
+    "doc_id": "2026-06-12-dailymirrorlk-b74c62d5",
+    "num": "dailymirrorlk-b74c62d5",
     "date_str": "2026-06-12",
-    "description": "Port City Colombo pitches Sri Lanka as South Asia gateway at high-level Dubai investment forum",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Port-City-Colombo-pitches-Sri-Lanka-as-South-Asia-gateway-at-high-level-Dubai-investment-forum/108-342765",
+    "description": "Empty seats at World Cup match renews concerns over ticket prices",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Empty-seats-at-World-Cup-match-renews-concerns-over-ticket-prices/108-342780",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781266742.0
+    "time_ut": 1781278895.0
   }
 }

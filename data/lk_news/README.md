@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--12_19:28:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--12_21:17:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**117,870** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**117,874** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-12-dailymirrorlk-4bf4ac0a",
-    "num": "dailymirrorlk-4bf4ac0a",
+    "doc_id": "2026-06-12-dailymirrorlk-b74c62d5",
+    "num": "dailymirrorlk-b74c62d5",
     "date_str": "2026-06-12",
-    "description": "Port City Colombo pitches Sri Lanka as South Asia gateway at high-level Dubai investment forum",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Port-City-Colombo-pitches-Sri-Lanka-as-South-Asia-gateway-at-high-level-Dubai-investment-forum/108-342765",
+    "description": "Empty seats at World Cup match renews concerns over ticket prices",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Empty-seats-at-World-Cup-match-renews-concerns-over-ticket-prices/108-342780",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781266742.0
+    "time_ut": 1781278895.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-12 | `dailymirrorlk-b74c62d5` | Empty seats at World Cup match renews concerns over ticket prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-b74c62d5)
+- 2026-06-12 | `dailymirrorlk-e19caeb3` | Online Safety Bill to be repealed this month | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-e19caeb3)
+- 2026-06-12 | `dailymirrorlk-f11a46ff` | Facebook and Instagram down for millions as users report issues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-f11a46ff)
+- 2026-06-12 | `dailymirrorlk-a2972435` | U.S.-Iran peace memorandum could be signed on Sunday in Geneva, source says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-a2972435)
 - 2026-06-12 | `dailymirrorlk-4bf4ac0a` | Port City Colombo pitches Sri Lanka as South Asia gateway at high-level Dubai investment forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-4bf4ac0a)
 - 2026-06-12 | `tamilmirrorlk-5309572e` | சொல்லிசைப்பாடகர் சங்கீத்ஷன் பிணையில் விடுதலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-5309572e)
 - 2026-06-12 | `dailymirrorlk-82eac8c7` | Sri Lanka among countries to benefit from ADB’s $4Bn crisis package | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-82eac8c7)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-06-12 | `dailymirrorlk-27402f4c` | Elon Musk Is About to Become the World’s First Trillionaire. What Does $1 Trillion Mean in Sri Lankan Rupees? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-27402f4c)
 - 2026-06-12 | `dailymirrorlk-70b4c2b3` | Colombo declared high-risk as special dengue control week announced | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-70b4c2b3)
 - 2026-06-12 | `tamilmirrorlk-54bd65a5` | Kfir C12 முதல் வான் சோதனை வெற்றி - வீடியோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-54bd65a5)
-- 2026-06-12 | `adalk-67776c4f` | පොහොර ආනයන වියදම සියයට 200කින් වැඩිවෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-adalk-67776c4f)
-- 2026-06-12 | `tamilmirrorlk-28ef61df` | உவர்மலை ஆலயத்தில்   கட்டுமானங்கள் அகற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-28ef61df)
-- 2026-06-12 | `tamilmirrorlk-fdd9f93c` | அது வேண்டாம்... அங்க போகவேண்டாம்.. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-fdd9f93c)
-- 2026-06-12 | `dailymirrorlk-1bb83097` | Sri Lanka on the brink of climate whiplash: Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-1bb83097)
 
 ---
 
