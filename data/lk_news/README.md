@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--12_23:16:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_00:58:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**117,878** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**117,880** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -52,15 +52,15 @@ A collection of lk_news documents.
 - 2026-06-12 | `dailymirrorlk-4bf4ac0a` | Port City Colombo pitches Sri Lanka as South Asia gateway at high-level Dubai investment forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-4bf4ac0a)
 - 2026-06-12 | `tamilmirrorlk-5309572e` | சொல்லிசைப்பாடகர் சங்கீத்ஷன் பிணையில் விடுதலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-5309572e)
 - 2026-06-12 | `dailymirrorlk-82eac8c7` | Sri Lanka among countries to benefit from ADB’s $4Bn crisis package | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-82eac8c7)
+- 2026-06-12 | `adalk-cfb602c7` | යුද්ධය අවසන් කරන්න තවමත් ගිවිසුමක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-adalk-cfb602c7)
 - 2026-06-12 | `dailymirrorlk-b51dcf51` | FIFA to support construction of international football stadium in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-b51dcf51)
 - 2026-06-12 | `tamilmirrorlk-18088263` | தந்தை வெட்டிக்கொலை: இருவருக்கு மரண தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-18088263)
+- 2026-06-12 | `adalk-70202821` | මොනරාගල රෝහලේදී මෘත දේහයන් දෙකක් මාරුවෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-adalk-70202821)
 - 2026-06-12 | `dailymirrorlk-c389875d` | Kane Williamson retires from international cricket | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-c389875d)
 - 2026-06-12 | `tamilmirrorlk-df42d07d` | வர்த்தகரிடம்  கோடி ரூபாய் கப்பம் கோரிய ஜோடி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-df42d07d)
 - 2026-06-12 | `adalk-62e61a2f` | උපදේශකයින් 26කට රු.මි. 38ක් ගෙව්වත් ලැබුණ දෙයක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-adalk-62e61a2f)
 - 2026-06-12 | `adalk-336122a8` | ජුනි 15 සිට 21 දක්වා කොළඹ  විශේෂ ඩෙංගු මර්දන සතියක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-adalk-336122a8)
 - 2026-06-12 | `dailymirrorlk-e6e91411` | Committee appointed to oversee SriLankan Airlines restructuring | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-e6e91411)
-- 2026-06-12 | `tamilmirrorlk-eaf46feb` | சிறுமி துஷ்பிரயோகம்:  இரத்தம் மாதிரி கொடுக்க உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-eaf46feb)
-- 2026-06-12 | `adalk-96d0dd49` | උතුරු කොරියාවට ඩ්‍රෝන යැවූ දකණු කොරියා ජනපතිට වසර 30ක සිරදඩුවමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-adalk-96d0dd49)
 
 ---
 
