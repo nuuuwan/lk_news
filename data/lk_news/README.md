@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--12_21:17:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--12_23:16:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**117,874** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**117,878** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-12-dailymirrorlk-b74c62d5",
-    "num": "dailymirrorlk-b74c62d5",
+    "doc_id": "2026-06-12-tamilmirrorlk-bfdf0316",
+    "num": "tamilmirrorlk-bfdf0316",
     "date_str": "2026-06-12",
-    "description": "Empty seats at World Cup match renews concerns over ticket prices",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Empty-seats-at-World-Cup-match-renews-concerns-over-ticket-prices/108-342780",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781278895.0
+    "description": "\u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bc8 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1-\u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bc8-\u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/76-378505",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781285168.0
 }
 ```
 
@@ -41,7 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-12 | `tamilmirrorlk-bfdf0316` | உடனடியாக மாற்று வீதியை பயன்படுத்துங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-bfdf0316)
+- 2026-06-12 | `tamilmirrorlk-b6444f5a` | பரீட்சைகள் தொடர்பில் கல்வி அமைச்சின் முக்கிய அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-b6444f5a)
+- 2026-06-12 | `dailymirrorlk-68c5335b` | CSE surges as peace deal optimism sparks broad-based rally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-68c5335b)
 - 2026-06-12 | `dailymirrorlk-b74c62d5` | Empty seats at World Cup match renews concerns over ticket prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-b74c62d5)
+- 2026-06-12 | `dailymirrorlk-14bdfda4` | Vesak celebrated at the White House | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-14bdfda4)
 - 2026-06-12 | `dailymirrorlk-e19caeb3` | Online Safety Bill to be repealed this month | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-e19caeb3)
 - 2026-06-12 | `dailymirrorlk-f11a46ff` | Facebook and Instagram down for millions as users report issues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-f11a46ff)
 - 2026-06-12 | `dailymirrorlk-a2972435` | U.S.-Iran peace memorandum could be signed on Sunday in Geneva, source says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-a2972435)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-06-12 | `dailymirrorlk-e6e91411` | Committee appointed to oversee SriLankan Airlines restructuring | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-e6e91411)
 - 2026-06-12 | `tamilmirrorlk-eaf46feb` | சிறுமி துஷ்பிரயோகம்:  இரத்தம் மாதிரி கொடுக்க உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-eaf46feb)
 - 2026-06-12 | `adalk-96d0dd49` | උතුරු කොරියාවට ඩ්‍රෝන යැවූ දකණු කොරියා ජනපතිට වසර 30ක සිරදඩුවමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-adalk-96d0dd49)
-- 2026-06-12 | `dailymirrorlk-e8b99f6e` | Attorney General withdraws move to call judge as witness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-e8b99f6e)
-- 2026-06-12 | `dailymirrorlk-27402f4c` | Elon Musk Is About to Become the World’s First Trillionaire. What Does $1 Trillion Mean in Sri Lankan Rupees? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-27402f4c)
-- 2026-06-12 | `dailymirrorlk-70b4c2b3` | Colombo declared high-risk as special dengue control week announced | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-70b4c2b3)
-- 2026-06-12 | `tamilmirrorlk-54bd65a5` | Kfir C12 முதல் வான் சோதனை வெற்றி - வீடியோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-54bd65a5)
 
 ---
 
