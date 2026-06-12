@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--12_09:00:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--12_11:27:16-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**117,803** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**117,829** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-12-adalk-81470171",
-    "num": "adalk-81470171",
+    "doc_id": "2026-06-12-dailymirrorlk-2d533d35",
+    "num": "dailymirrorlk-2d533d35",
     "date_str": "2026-06-12",
-    "description": "\u0d85\u0daf\u0dad\u0dca \u0db6\u0ddc\u0dc4\u0ddd \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0daf\u0dad\u0dca-\u0db6\u0ddc\u0dc4\u0ddd-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd\u0da7-\u0dc0\u0dd0\u0dc3\u0dd2/11-422836",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1781234374.0
+    "description": "\u2018Proposals on table, ball in Sri Lanka\u2019s court\u2019 \u2013 Envoy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Proposals-on-table-ball-in-Sri-Lankas-court-Envoy/108-342739",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781243058.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-06-12 | `adalk-81470171` | අදත් බොහෝ ප්‍රදේශවලට වැසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-adalk-81470171)
-- 2026-06-12 | `dailymirrorlk-2a99d50f` | Motor vehicle sale gains exempted from tax under new IRD amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-2a99d50f)
-- 2026-06-12 | `dailymirrorlk-54edfe32` | FIFA World Cup 2026 Results: Every Match from Group Stage to Final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-54edfe32)
-- 2026-06-12 | `adalk-e3fb0784` | ඉරානය සමග මූලික ගිවිසුම අවසන්, ප්‍රහාර නවත්වනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-adalk-e3fb0784)
-- 2026-06-12 | `dailymirrorlk-1b2fdc12` | FIFA World Cup 2026 Group Stage Tables: Live Standings, Rankings and Qualification Guide | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-1b2fdc12)
-- 2026-06-12 | `dailyftlk-1f5e0d35` | President seeks contingency plans as El Niño threat rises | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailyftlk-1f5e0d35)
-- 2026-06-12 | `dailyftlk-02ece8bf` | Sri Lanka pushes AI-driven labour transformation at ILO Conference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailyftlk-02ece8bf)
-- 2026-06-12 | `dailyftlk-9755679d` | Govt. considers desalinated seawater amid El Niño threat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailyftlk-9755679d)
-- 2026-06-12 | `dailyftlk-a086b317` | Cabinet approves new labour mobility agreement with Japan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailyftlk-a086b317)
-- 2026-06-12 | `dailyftlk-9568958b` | Plantation sector urged to prepare early for potential El Niño impacts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailyftlk-9568958b)
-- 2026-06-12 | `dailyftlk-50904fa8` | COYLE Chairman Suren Chandraratna drives momentum with focus on bridging generations and building futures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailyftlk-50904fa8)
-- 2026-06-12 | `dailymirrorlk-ee9b8124` | Elderly man dies in elephant attack | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-ee9b8124)
-- 2026-06-12 | `dailyftlk-ebb69296` | SAARC CCI seeks stronger South Asia–Yunnan economic ties | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailyftlk-ebb69296)
-- 2026-06-12 | `dailyftlk-11dd97ed` | National SME Revival Program by SLCSMI and NCCSL | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailyftlk-11dd97ed)
-- 2026-06-12 | `dailyftlk-711487b7` | Sri Lanka climbs 14 places to rank 67th in Global Peace Index 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailyftlk-711487b7)
-- 2026-06-12 | `dailyftlk-5efd7430` | Adamjee Lukmanjee Group  of Companies celebrates customers  at “Legacy of Trust - Customer Forum 2026” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailyftlk-5efd7430)
-- 2026-06-12 | `dailyftlk-13a9b193` | Indo-Lanka Chamber hosts dialogue on Sri Lanka’s investment future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailyftlk-13a9b193)
-- 2026-06-12 | `dailyftlk-2964ca6e` | Five insights from Nepal’s first billionaire | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailyftlk-2964ca6e)
-- 2026-06-12 | `dailyftlk-dfef920a` | Sri Lanka Resilience and Accountability Framework 2026: A legislated KPI Charter with mandatory legal consequences | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailyftlk-dfef920a)
-- 2026-06-12 | `dailymirrorlk-da536918` | Air testing confirms ’no hazard exists’ at Pentagon after lockdown incident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-da536918)
+- 2026-06-12 | `dailymirrorlk-2d533d35` | ‘Proposals on table, ball in Sri Lanka’s court’ – Envoy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-2d533d35)
+- 2026-06-12 | `dailymirrorlk-8fba3a2a` | Backlog of 1.1 million court cases in Sri Lanka : MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-8fba3a2a)
+- 2026-06-12 | `dailymirrorlk-aaaea5d3` | High blood pressure a major cause of serious diseases: Specialist | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-aaaea5d3)
+- 2026-06-12 | `dailymirrorlk-e363e5fd` | U.S. Navy Littoral combat ship USS Canberra arrives in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-e363e5fd)
+- 2026-06-12 | `tamilmirrorlk-2a1e6a6d` | ’ஹபீபி’: மீரா கதிரவனின்   படைப்பு வென்றதா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-2a1e6a6d)
+- 2026-06-12 | `dailymirrorlk-7d264a76` | Education reforms needed to reduce student stress, Experts warn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-7d264a76)
+- 2026-06-12 | `tamilmirrorlk-936f358c` | ஈரான் மீது இன்று இரவு கடுமையான தாக்குதல்:  டிரம்ப் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-936f358c)
+- 2026-06-12 | `tamilmirrorlk-b74a4ec3` | கரியடுப்பில் விழுந்த  நபர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-b74a4ec3)
+- 2026-06-12 | `tamilmirrorlk-d16847c0` | மின்னல் தாக்கியதால்  திரும்பிய  விமானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-tamilmirrorlk-d16847c0)
+- 2026-06-12 | `dailymirrorlk-f95d7929` | Officers accused of failing to stop Easter Attacks now investigating Sallay- President’s Counsel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-f95d7929)
+- 2026-06-12 | `dailymirrorlk-7d63638b` | Underworld turning to homemade guns as raids drain weapon supplies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-7d63638b)
+- 2026-06-12 | `dailymirrorlk-ed439085` | West Indies defeat Sri Lanka by seven wickets in T20 opener | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-ed439085)
+- 2026-06-12 | `dailymirrorlk-ef26689d` | SriLankan UL606 turns back to Colombo due to adverse weather | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-ef26689d)
+- 2026-06-12 | `dailymirrorlk-794bb3ae` | El Nino to hit Sri Lanka’s power generation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-794bb3ae)
+- 2026-06-12 | `dailymirrorlk-87e5c534` | Bollywood stars shine at BIA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-87e5c534)
+- 2026-06-12 | `dailymirrorlk-d7024c0d` | NCPA receives 287 complaints of children forced into begging in 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-d7024c0d)
+- 2026-06-12 | `dailymirrorlk-10915ed5` | Sri Lanka on brink of dengue epidemic | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-10915ed5)
+- 2026-06-12 | `dailymirrorlk-7b667f32` | Thai Princess Bajrakitiyabha dies after more than three years in coma | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-7b667f32)
+- 2026-06-12 | `dailymirrorlk-10b9a4dc` | Iran says no final decision made on deal that Trump hopes could be signed soon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-10b9a4dc)
+- 2026-06-12 | `dailymirrorlk-98eb294f` | Mexico defeats South Africa 2-0 in the World Cup’s opening match | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-12-dailymirrorlk-98eb294f)
 
 ---
 

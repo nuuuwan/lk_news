@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-12 08:59:39",
-  "n_docs": 117803,
+  "time_updated": "2026-06-12 11:26:20",
+  "n_docs": 117829,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 117803,
+  "n_docs_with_text": 117829,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-12",
-  "dataset_size": 1836851969,
+  "dataset_size": 1837164176,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "si",
-    "ta",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-12-adalk-81470171",
-    "num": "adalk-81470171",
+    "doc_id": "2026-06-12-dailymirrorlk-2d533d35",
+    "num": "dailymirrorlk-2d533d35",
     "date_str": "2026-06-12",
-    "description": "\u0d85\u0daf\u0dad\u0dca \u0db6\u0ddc\u0dc4\u0ddd \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd\u0da7 \u0dc0\u0dd0\u0dc3\u0dd2",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0daf\u0dad\u0dca-\u0db6\u0ddc\u0dc4\u0ddd-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dc0\u0dbd\u0da7-\u0dc0\u0dd0\u0dc3\u0dd2/11-422836",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1781234374.0
+    "description": "\u2018Proposals on table, ball in Sri Lanka\u2019s court\u2019 \u2013 Envoy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Proposals-on-table-ball-in-Sri-Lankas-court-Envoy/108-342739",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781243058.0
   }
 }
