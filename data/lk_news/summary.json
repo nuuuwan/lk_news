@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-12 17:32:49",
-  "n_docs": 117865,
+  "time_updated": "2026-06-12 19:28:01",
+  "n_docs": 117870,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 117865,
+  "n_docs_with_text": 117870,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-12",
-  "dataset_size": 1837900869,
+  "dataset_size": 1838052182,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-12-dailymirrorlk-b51dcf51",
-    "num": "dailymirrorlk-b51dcf51",
+    "doc_id": "2026-06-12-dailymirrorlk-4bf4ac0a",
+    "num": "dailymirrorlk-4bf4ac0a",
     "date_str": "2026-06-12",
-    "description": "FIFA to support construction of international football stadium in Sri Lanka",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/FIFA-to-support-construction-of-international-football-stadium-in-Sri-Lanka/108-342763",
+    "description": "Port City Colombo pitches Sri Lanka as South Asia gateway at high-level Dubai investment forum",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Port-City-Colombo-pitches-Sri-Lanka-as-South-Asia-gateway-at-high-level-Dubai-investment-forum/108-342765",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781263271.0
+    "time_ut": 1781266742.0
   }
 }
