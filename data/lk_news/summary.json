@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-13 19:04:07",
-  "n_docs": 117995,
+  "time_updated": "2026-06-13 20:28:25",
+  "n_docs": 118002,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 117995,
+  "n_docs_with_text": 118002,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-13",
-  "dataset_size": 1840010169,
+  "dataset_size": 1840055343,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "en",
     "ta",
-    "si",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-13-dailymirrorlk-7ee69f38",
-    "num": "dailymirrorlk-7ee69f38",
+    "doc_id": "2026-06-13-dailymirrorlk-4662d9b1",
+    "num": "dailymirrorlk-4662d9b1",
     "date_str": "2026-06-13",
-    "description": "Heavy showers forecast in several areas over next 36 hours",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-showers-forecast-in-several-areas-over-next-36-hours/108-342858",
+    "description": "Minor flood situation reported in Kuda Ganga sub-basin",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minor-flood-situation-reported-in-Kuda-Ganga-sub-basin/108-342864",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781353659.0
+    "time_ut": 1781362300.0
   }
 }

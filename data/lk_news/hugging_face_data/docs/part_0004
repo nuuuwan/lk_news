@@ -238003,5 +238003,82 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781353659.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-a54aefc3",
+    "num": "dailymirrorlk-a54aefc3",
+    "date_str": "2026-06-13",
+    "description": "Prime Minister meets UNICEF delegation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prime-Minister-meets-UNICEF-delegation/108-342859",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781355131.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-55d68802",
+    "num": "dailymirrorlk-55d68802",
+    "date_str": "2026-06-13",
+    "description": "Trump\u2019s name removed from Kennedy Center in predawn operation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trumps-name-removed-from-Kennedy-Center-in-predawn-operation/108-342860",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781356751.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-55a2d19a",
+    "num": "dailymirrorlk-55a2d19a",
+    "date_str": "2026-06-13",
+    "description": "Local organic ingredients to boost farmers and tourism: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Local-organic-ingredients-to-boost-farmers-and-tourism-PM/108-342861",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781358203.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-060bce3a",
+    "num": "dailymirrorlk-060bce3a",
+    "date_str": "2026-06-13",
+    "description": "Disabled university students to receive Rs. 5,000 allowance",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Disabled-university-students-to-receive-Rs-5-000-allowance/108-342862",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781359759.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-tamilmirrorlk-70daef40",
+    "num": "tamilmirrorlk-70daef40",
+    "date_str": "2026-06-13",
+    "description": "\u0bb5\u0bc0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bc1\u0bb1\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4 \u0bae\u0bb0\u0bae\u0bcd : \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bc0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd-\u0bae\u0bc7\u0bb2\u0bcd-\u0bae\u0bc1\u0bb1\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4-\u0bae\u0bb0\u0bae\u0bcd-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0ba9\u0bc1\u0bae\u0ba4\u0bbf/76-378519",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781361776.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-b03334ed",
+    "num": "dailymirrorlk-b03334ed",
+    "date_str": "2026-06-13",
+    "description": "Education will be protected in any crisis: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Education-will-be-protected-in-any-crisis-PM/108-342863",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781361992.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-4662d9b1",
+    "num": "dailymirrorlk-4662d9b1",
+    "date_str": "2026-06-13",
+    "description": "Minor flood situation reported in Kuda Ganga sub-basin",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minor-flood-situation-reported-in-Kuda-Ganga-sub-basin/108-342864",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781362300.0
   }
 ]
