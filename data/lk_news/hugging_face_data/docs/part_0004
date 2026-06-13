@@ -236785,6 +236785,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-12-adalk-e335936a",
+    "num": "adalk-e335936a",
+    "date_str": "2026-06-12",
+    "description": "\u0d9a\u0dda\u0db1\u0dca \u0dc0\u0dd2\u0dbd\u0dd2\u0dba\u0db8\u0dca\u0dc3\u0db1\u0dca \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db4\u0dd2\u0da7\u0dd2\u0dba\u0da7 \u0dc3\u0db8\u0dd4\u0daf\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/sports/\u0d9a\u0dda\u0db1\u0dca-\u0dc0\u0dd2\u0dbd\u0dd2\u0dba\u0db8\u0dca\u0dc3\u0db1\u0dca-\u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb-\u0db4\u0dd2\u0da7\u0dd2\u0dba\u0da7-\u0dc3\u0db8\u0dd4\u0daf\u0dd9\u0dba\u0dd2/9-422848",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781264462.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-12-islandlk-9962ae6c",
     "num": "islandlk-9962ae6c",
     "date_str": "2026-06-12",
@@ -237772,5 +237783,82 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781335491.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-10988ce8",
+    "num": "dailymirrorlk-10988ce8",
+    "date_str": "2026-06-13",
+    "description": "Song, dance and protests at World Cup",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Song-dance-and-protests-at-World-Cup/108-342839",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781335698.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-a5260981",
+    "num": "dailymirrorlk-a5260981",
+    "date_str": "2026-06-13",
+    "description": "No visas, Rugby players damned",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-visas-Rugby-players-damned/108-342842",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781336005.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-e7c4fdd4",
+    "num": "dailymirrorlk-e7c4fdd4",
+    "date_str": "2026-06-13",
+    "description": "Bangladesh cricketer Nayeem Hasan alleges police harassment in Chattogram",
+    "url_metadata": "https://www.dailymirror.lk/international/Bangladesh-cricketer-Nayeem-Hasan-alleges-police-harassment-in-Chattogram/107-342847",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781337270.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-8a92d23f",
+    "num": "dailymirrorlk-8a92d23f",
+    "date_str": "2026-06-13",
+    "description": "\u2018Not only money, even allegations end up in wrong accounts\u2019 \u2013 Namal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Not-only-money-even-allegations-end-up-in-wrong-accounts-Namal/108-342848",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781338650.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-fb699f13",
+    "num": "dailymirrorlk-fb699f13",
+    "date_str": "2026-06-13",
+    "description": "Move to abolish NWP Environment Authority?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Move-to-abolish-NWP-Environment-Authority/108-342849",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781340117.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-tamilmirrorlk-c402bae0",
+    "num": "tamilmirrorlk-c402bae0",
+    "date_str": "2026-06-13",
+    "description": "\u0b9a\u0bc1\u0bb0\u0bc7\u0bb7\u0bcd \u0b9a\u0bb2\u0bc7\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bb5\u0ba4\u0bc8? \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0bb0\u0bc7\u0bb7\u0bcd-\u0b9a\u0bb2\u0bc7\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bb5\u0ba4\u0bc8-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bbf\u0ba4\u0bae\u0bcd/175-378513",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781341217.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-tamilmirrorlk-77c21299",
+    "num": "tamilmirrorlk-77c21299",
+    "date_str": "2026-06-13",
+    "description": "\u0bae\u0bb1\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb1\u0bc1-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd-\u0bb5\u0bb0\u0bc1\u0bae\u0bcd-\u0bb5\u0bb0\u0bc8-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd/175-378514",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781341449.0
   }
 ]
