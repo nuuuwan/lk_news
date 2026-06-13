@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-13 14:52:54",
-  "n_docs": 117982,
+  "time_updated": "2026-06-13 16:36:10",
+  "n_docs": 117989,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 117982,
+  "n_docs_with_text": 117989,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-13",
-  "dataset_size": 1839808213,
+  "dataset_size": 1839915439,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-13-tamilmirrorlk-77c21299",
-    "num": "tamilmirrorlk-77c21299",
+    "doc_id": "2026-06-13-dailymirrorlk-917827df",
+    "num": "dailymirrorlk-917827df",
     "date_str": "2026-06-13",
-    "description": "\u0bae\u0bb1\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bc8 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bb1\u0bc1-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd-\u0bb5\u0bb0\u0bc1\u0bae\u0bcd-\u0bb5\u0bb0\u0bc8-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd/175-378514",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1781341449.0
+    "description": "Environmental protection needs public participation beyond laws: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Environmental-protection-needs-public-participation-beyond-laws-Minister/108-342854",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781347552.0
   }
 }

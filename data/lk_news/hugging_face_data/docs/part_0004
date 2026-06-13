@@ -237720,6 +237720,28 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-13-colombotelegraphcom-11cc7b6e",
+    "num": "colombotelegraphcom-11cc7b6e",
+    "date_str": "2026-06-13",
+    "description": "Colombo Port City: Rapid Progress, But Where Is the Foreign Investment?",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/colombo-port-city-rapid-progress-but-where-is-the-foreign-investment/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1781325460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-colombotelegraphcom-de0e9e18",
+    "num": "colombotelegraphcom-de0e9e18",
+    "date_str": "2026-06-13",
+    "description": "The Silence After The Bomb: Sri Lanka Looks Stable, It Is Not Safe",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/the-silence-after-the-bomb-sri-lanka-looks-stable-it-is-not-safe/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1781326058.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-13-dailymirrorlk-979090fc",
     "num": "dailymirrorlk-979090fc",
     "date_str": "2026-06-13",
@@ -237808,6 +237830,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-13-adalk-16f6dffc",
+    "num": "adalk-16f6dffc",
+    "date_str": "2026-06-13",
+    "description": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0dc4\u0dba\u0d9a \u0daf\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0dc5\u0dd2\u0db3\u0d9a\u0da7 \u0dc0\u0dd0\u0da7\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4-\u0dc4\u0dba\u0d9a-\u0daf\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0dc5\u0dd2\u0db3\u0d9a\u0da7-\u0dc0\u0dd0\u0da7\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/11-422849",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781336543.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-13-dailymirrorlk-e7c4fdd4",
     "num": "dailymirrorlk-e7c4fdd4",
     "date_str": "2026-06-13",
@@ -237860,5 +237893,49 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781341449.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-728fb646",
+    "num": "dailymirrorlk-728fb646",
+    "date_str": "2026-06-13",
+    "description": "First-ever orthodox bishop ordination ceremony held in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/First-ever-orthodox-bishop-ordination-ceremony-held-in-Sri-Lanka/108-342850",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781343968.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-a17bd275",
+    "num": "dailymirrorlk-a17bd275",
+    "date_str": "2026-06-13",
+    "description": "UAE to unlock billions of dollars for Iran: Reuters",
+    "url_metadata": "https://www.dailymirror.lk/international/UAE-to-unlock-billions-of-dollars-for-Iran-Reuters/107-342852",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781345853.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-40ce5031",
+    "num": "dailymirrorlk-40ce5031",
+    "date_str": "2026-06-13",
+    "description": "Joint Opposition seeks dialogue with CIABOC chief",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Joint-Opposition-seeks-dialogue-with-CIABOC-chief/108-342853",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781345886.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-dailymirrorlk-917827df",
+    "num": "dailymirrorlk-917827df",
+    "date_str": "2026-06-13",
+    "description": "Environmental protection needs public participation beyond laws: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Environmental-protection-needs-public-participation-beyond-laws-Minister/108-342854",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781347552.0
   }
 ]
