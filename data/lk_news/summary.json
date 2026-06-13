@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-13 16:36:10",
-  "n_docs": 117989,
+  "time_updated": "2026-06-13 19:04:07",
+  "n_docs": 117995,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 117989,
+  "n_docs_with_text": 117995,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-13",
-  "dataset_size": 1839915439,
+  "dataset_size": 1840010169,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "en",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-13-dailymirrorlk-917827df",
-    "num": "dailymirrorlk-917827df",
+    "doc_id": "2026-06-13-dailymirrorlk-7ee69f38",
+    "num": "dailymirrorlk-7ee69f38",
     "date_str": "2026-06-13",
-    "description": "Environmental protection needs public participation beyond laws: Minister",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Environmental-protection-needs-public-participation-beyond-laws-Minister/108-342854",
+    "description": "Heavy showers forecast in several areas over next 36 hours",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-showers-forecast-in-several-areas-over-next-36-hours/108-342858",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781347552.0
+    "time_ut": 1781353659.0
   }
 }
