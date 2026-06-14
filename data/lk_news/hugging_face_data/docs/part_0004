@@ -240155,5 +240155,71 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781469588.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailymirrorlk-50c50708",
+    "num": "dailymirrorlk-50c50708",
+    "date_str": "2026-06-15",
+    "description": "Easter Sunday Debacle: Not by Default,  But by Design  - The Damning 3-P Nexus",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Easter-Sunday-Debacle-Not-by-Default-But-by-Design-The-Damning-3-P-Nexus/172-342907",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781470405.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailymirrorlk-7663ef4e",
+    "num": "dailymirrorlk-7663ef4e",
+    "date_str": "2026-06-15",
+    "description": "Transparency, predictability key  to encouraging more  Australian investment - High Commissioner",
+    "url_metadata": "https://www.dailymirror.lk/hard-talk/Transparency-predictability-key-to-encouraging-more-Australian-investment-High-Commissioner/334-342908",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781471452.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-3a5ad85b",
+    "num": "dailyftlk-3a5ad85b",
+    "date_str": "2026-06-15",
+    "description": "What Sri Lanka needs most since Ditwah and Middle East war",
+    "url_metadata": "https://www.ft.lk/columns/What-Sri-Lanka-needs-most-since-Ditwah-and-Middle-East-war/4-793288",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781474050.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-f16e18fc",
+    "num": "dailyftlk-f16e18fc",
+    "date_str": "2026-06-15",
+    "description": "Easter is too sacred for political games",
+    "url_metadata": "https://www.ft.lk/columns/Easter-is-too-sacred-for-political-games/4-793289",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781474390.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-2b538052",
+    "num": "dailyftlk-2b538052",
+    "date_str": "2026-06-15",
+    "description": "Justice for the abused child shadowed  by secret meetings and screaming silence",
+    "url_metadata": "https://www.ft.lk/columns/Justice-for-the-abused-child-shadowed-by-secret-meetings-and-screaming-silence/4-793290",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781474743.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-eebf3bde",
+    "num": "dailyftlk-eebf3bde",
+    "date_str": "2026-06-15",
+    "description": "Primary dealers not subject to VAT on Financial Services",
+    "url_metadata": "https://www.ft.lk/opinion/Primary-dealers-not-subject-to-VAT-on-Financial-Services/14-793294",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781475716.0
   }
 ]

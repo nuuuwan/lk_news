@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-15 02:12:33",
-  "n_docs": 118191,
+  "time_updated": "2026-06-15 04:09:10",
+  "n_docs": 118197,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 118191,
+  "n_docs_with_text": 118197,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-15",
-  "dataset_size": 1843720570,
+  "dataset_size": 1844113526,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-15-dailymirrorlk-811d764c",
-    "num": "dailymirrorlk-811d764c",
+    "doc_id": "2026-06-15-dailyftlk-eebf3bde",
+    "num": "dailyftlk-eebf3bde",
     "date_str": "2026-06-15",
-    "description": "Rights in Custody: A Comparative Look at 1962 Coup Accused and Sallay",
-    "url_metadata": "https://www.dailymirror.lk/opinion/Rights-in-Custody-A-Comparative-Look-at-1962-Coup-Accused-and-Sallay/172-342906",
+    "description": "Primary dealers not subject to VAT on Financial Services",
+    "url_metadata": "https://www.ft.lk/opinion/Primary-dealers-not-subject-to-VAT-on-Financial-Services/14-793294",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781469588.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781475716.0
   }
 }
