@@ -238765,6 +238765,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-14-adalk-f3e8db47",
+    "num": "adalk-f3e8db47",
+    "date_str": "2026-06-14",
+    "description": "\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dba\u0dd220 \u0dad\u0dbb\u0d9c\u0dba \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 37\u0d9a\u0dd2\u0db1\u0dca \u0da2\u0dba \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/sports/\u0daf\u0dd9\u0dc0\u0dd0\u0db1\u0dd2-\u0dc0\u0dd2\u0dc3\u0dca\u0dc3\u0dba\u0dd220-\u0dad\u0dbb\u0d9c\u0dba-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0-\u0dbd\u0d9a\u0dd4\u0dab\u0dd4-37\u0d9a\u0dd2\u0db1\u0dca-\u0da2\u0dba-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/9-422854",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781411788.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-14-tamilmirrorlk-4ece1e01",
     "num": "tamilmirrorlk-4ece1e01",
     "date_str": "2026-06-14",
@@ -238817,5 +238828,104 @@ ews",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781415983.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-dailymirrorlk-a34fe357",
+    "num": "dailymirrorlk-a34fe357",
+    "date_str": "2026-06-14",
+    "description": "Funeral for Iran\u2019s late Supreme Leader Khamenei to begin July 4, burial set for July 9",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Funeral-for-Irans-late-Supreme-Leader-Khamenei-to-begin-July-4-burial-set-for-July-9/108-342875",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781416975.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-adalk-d4b59541",
+    "num": "adalk-d4b59541",
+    "date_str": "2026-06-14",
+    "description": "\u0db8\u0dd1\u0db1\u0dca \u0d94\u0dc6\u0dca\u0daf \u0dc0\u0dbb\u0dca\u0dbd\u0dca\u0da9\u0dca \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u200c\u0dba\u0dda \u0dbb\u0dd2\u0daf\u0dd3 \u0dc4\u0dcf \u0dbd\u0ddd\u0d9a\u0da9 \u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8\u0dca \u0daf\u0dd2\u0db1\u0dd6 \u0dc3\u0d82\u0da2\u0dd4\u0dbd",
+    "url_metadata": "https://www.ada.lk/sports/\u0db8\u0dd1\u0db1\u0dca-\u0d94\u0dc6\u0dca\u0daf-\u0dc0\u0dbb\u0dca\u0dbd\u0dca\u0da9\u0dca-\u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u200c\u0dba\u0dda-\u0dbb\u0dd2\u0daf\u0dd3-\u0dc4\u0dcf-\u0dbd\u0ddd\u0d9a\u0da9-\u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8\u0dca-\u0daf\u0dd2\u0db1\u0dd6-\u0dc3\u0d82\u0da2\u0dd4\u0dbd/9-422855",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781416996.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-tamilmirrorlk-d64304ff",
+    "num": "tamilmirrorlk-d64304ff",
+    "date_str": "2026-06-14",
+    "description": "\u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3 \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd : \u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0b9a\u0bcd \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3-\u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd-\u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1\u0b9a\u0bcd-\u0b9a\u0bbe\u0ba4\u0ba9\u0bc8/44-378533",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781417216.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-tamilmirrorlk-6072be1e",
+    "num": "tamilmirrorlk-6072be1e",
+    "date_str": "2026-06-14",
+    "description": "\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b85\u0bb2\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0baa\u0bb1\u0bbf\u0baa\u0bcb\u0ba9 \u0b87\u0bb3\u0bae\u0bcd\u0baa\u0bc6\u0ba3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8a\u0bb4\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b85\u0bb2\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0baa\u0bb1\u0bbf\u0baa\u0bcb\u0ba9-\u0b87\u0bb3\u0bae\u0bcd\u0baa\u0bc6\u0ba3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/50-378534",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781417801.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-tamilmirrorlk-9217c90e",
+    "num": "tamilmirrorlk-9217c90e",
+    "date_str": "2026-06-14",
+    "description": "6 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0b95\u0bbf\u0ba3\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/6-\u0bb5\u0baf\u0ba4\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd-\u0b95\u0bbf\u0ba3\u0bb1\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-378535",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781418401.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-dailymirrorlk-1e064e3b",
+    "num": "dailymirrorlk-1e064e3b",
+    "date_str": "2026-06-14",
+    "description": "Wild elephant, calf electrocuted in Okkampitiya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wild-elephant-calf-electrocuted-in-Okkampitiya/108-342876",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781419123.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-dailymirrorlk-88fa50d6",
+    "num": "dailymirrorlk-88fa50d6",
+    "date_str": "2026-06-14",
+    "description": "\u201cLTTE diaspora will not fund Government again, will not vote to bring it back,\u201d Says MP Archchuna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LTTE-diaspora-will-not-fund-Government-again-will-not-vote-to-bring-it-back-Says-MP-Archchuna/108-342877",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781420463.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-dailymirrorlk-08495fd7",
+    "num": "dailymirrorlk-08495fd7",
+    "date_str": "2026-06-14",
+    "description": "Heavy rain expected as El Ni\u00f1o conditions set to develop globally after February: Officials",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Heavy-rain-expected-as-El-Ni\u00f1o-conditions-set-to-develop-globally-after-February-Officials/108-342878",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781420835.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-tamilmirrorlk-53db5835",
+    "num": "tamilmirrorlk-53db5835",
+    "date_str": "2026-06-14",
+    "description": "\u201c\u0bae\u0bc7\u0ba9\u0bcd \u0b92\u0b83\u0baa\u0bcd \u0ba4 \u0bb5\u0bc7\u0bb0\u0bcd\u0bb2\u0bcd\u0b9f\u0bcd 2026\u201d",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc7\u0ba9\u0bcd-\u0b92\u0b83\u0baa\u0bcd-\u0ba4-\u0bb5\u0bc7\u0bb0\u0bcd\u0bb2\u0bcd\u0b9f\u0bcd-2026/175-378536",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781422239.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--14_11:21:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--14_13:25:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**118,069** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**118,079** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-14**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-14-tamilmirrorlk-640d4451",
-    "num": "tamilmirrorlk-640d4451",
+    "doc_id": "2026-06-14-tamilmirrorlk-53db5835",
+    "num": "tamilmirrorlk-53db5835",
     "date_str": "2026-06-14",
-    "description": "12 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95 \u0b85\u0bae\u0bb0\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0bb5\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/12-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95-\u0b85\u0bae\u0bb0\u0bbe\u0bae\u0bb2\u0bcd-\u0ba4\u0bb5\u0bae\u0bcd/175-378531",
+    "description": "\u201c\u0bae\u0bc7\u0ba9\u0bcd \u0b92\u0b83\u0baa\u0bcd \u0ba4 \u0bb5\u0bc7\u0bb0\u0bcd\u0bb2\u0bcd\u0b9f\u0bcd 2026\u201d",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc7\u0ba9\u0bcd-\u0b92\u0b83\u0baa\u0bcd-\u0ba4-\u0bb5\u0bc7\u0bb0\u0bcd\u0bb2\u0bcd\u0b9f\u0bcd-2026/175-378536",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1781415983.0
+    "time_ut": 1781422239.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-14 | `tamilmirrorlk-53db5835` | “மேன் ஒஃப் த வேர்ல்ட் 2026” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-tamilmirrorlk-53db5835)
+- 2026-06-14 | `dailymirrorlk-08495fd7` | Heavy rain expected as El Niño conditions set to develop globally after February: Officials | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-dailymirrorlk-08495fd7)
+- 2026-06-14 | `dailymirrorlk-88fa50d6` | “LTTE diaspora will not fund Government again, will not vote to bring it back,” Says MP Archchuna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-dailymirrorlk-88fa50d6)
+- 2026-06-14 | `dailymirrorlk-1e064e3b` | Wild elephant, calf electrocuted in Okkampitiya | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-dailymirrorlk-1e064e3b)
+- 2026-06-14 | `tamilmirrorlk-9217c90e` | 6 வயது சிறுவன் கிணற்றில் சடலமாக மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-tamilmirrorlk-9217c90e)
+- 2026-06-14 | `tamilmirrorlk-6072be1e` | ஊழியர்களின் அலட்சியத்தால் பறிபோன இளம்பெண் உயிர் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-tamilmirrorlk-6072be1e)
+- 2026-06-14 | `tamilmirrorlk-d64304ff` | உலகக் கிண்ண வரலாற்றில் : கத்தாரின் வரலாற்றுச் சாதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-tamilmirrorlk-d64304ff)
+- 2026-06-14 | `adalk-d4b59541` | මෑන් ඔෆ්ද වර්ල්ඩ් තරගාවලි‌යේ රිදී හා ලෝකඩ පදක්කම් දිනූ සංජුල | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-adalk-d4b59541)
+- 2026-06-14 | `dailymirrorlk-a34fe357` | Funeral for Iran’s late Supreme Leader Khamenei to begin July 4, burial set for July 9 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-dailymirrorlk-a34fe357)
 - 2026-06-14 | `tamilmirrorlk-640d4451` | 12 ஆண்டுகளாக அமராமல் தவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-tamilmirrorlk-640d4451)
 - 2026-06-14 | `dailymirrorlk-9bb3f150` | Scotland hang on for first World Cup win since 1990 with 1-0 victory over Haiti | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-dailymirrorlk-9bb3f150)
 - 2026-06-14 | `dailymirrorlk-f8b063c9` | Shanaka, Mishara star as Sri Lanka draw T20 series against West Indies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-dailymirrorlk-f8b063c9)
 - 2026-06-14 | `dailymirrorlk-72be3cf3` | CAA raids Kollupitiya supermarket over missing food labels | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-dailymirrorlk-72be3cf3)
 - 2026-06-14 | `tamilmirrorlk-4ece1e01` | வடிகாலுக்குள் சிக்கி பரபரப்பை ஏற்படுத்திய நபர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-tamilmirrorlk-4ece1e01)
+- 2026-06-14 | `adalk-f3e8db47` | දෙවැනි විස්සයි20 තරගය ලංකාව ලකුණු 37කින් ජය ගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-adalk-f3e8db47)
 - 2026-06-14 | `dailymirrorlk-64f34138` | High waves expected in several sea areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-dailymirrorlk-64f34138)
 - 2026-06-14 | `tamilmirrorlk-932ef780` | உக்குவளையில் சோகம்: லொறி மோதி முதியவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-tamilmirrorlk-932ef780)
 - 2026-06-14 | `dailymirrorlk-42182d97` | Rain and strong winds expected today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-dailymirrorlk-42182d97)
 - 2026-06-14 | `tamilmirrorlk-e9a11221` | பாலசந்திரனை   காப்பாற்றியிருப்பேன்: டக்ளஸ் உருக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-tamilmirrorlk-e9a11221)
 - 2026-06-14 | `dailymirrorlk-71447748` | Two wanted crime suspects deported from UAE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-dailymirrorlk-71447748)
-- 2026-06-14 | `dailymirrorlk-ae1aa160` | Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-dailymirrorlk-ae1aa160)
-- 2026-06-14 | `virakesarilk-0101f512` | தொலைபேசி கோபுர கேபிள்களை திருடிய இருவர் போதைப்பொருளுடன் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-virakesarilk-0101f512)
-- 2026-06-14 | `virakesarilk-9f7d9271` | ஆளும் தரப்பின் தேர்தல் மேடையில் ஏறியிருந்தால் சலே பாதுகாப்பு அமைச்சின் செயலாளராகியிருப்பார்: சாமர சம்பத் தெரிவிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-virakesarilk-9f7d9271)
-- 2026-06-14 | `virakesarilk-e0b88013` | மாகாண சபை தேர்தலுக்கு புதிய சட்டம் : 4 மாற்று வழிகளுடன் பாராளுமன்றத்தை நாடுகிறது தெரிவுக்குழு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-virakesarilk-e0b88013)
-- 2026-06-14 | `adalk-cb670bbd` | ඇමෙරිකානු යුද නැවක් කොළඹ වරායට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-adalk-cb670bbd)
-- 2026-06-14 | `adalk-5e54dd1c` | වධහිංසා වැළැක්වීම පිළිබඳ එක්සත් ජාතීන්ගේ අනුකමිටුව ලංකාවේ සංචාරයක | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-adalk-5e54dd1c)
-- 2026-06-14 | `tamilmirrorlk-9b48f095` | ’மோதர சதுர’, ’புளூமெண்டல் சங்க’ இருவரும் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-tamilmirrorlk-9b48f095)
-- 2026-06-14 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-virakesarilk-3a015e4a)
-- 2026-06-14 | `tamilmirrorlk-3ec76679` | அமெரிக்கா - ஈரான் இடையில் இன்று அமைதி ஒப்பந்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-tamilmirrorlk-3ec76679)
-- 2026-06-14 | `tamilmirrorlk-1fc84c97` | த.வெ.கவில் இணைந்தார் விஜயதரணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-14-tamilmirrorlk-1fc84c97)
 
 ---
 
