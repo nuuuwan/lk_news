@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-15 00:17:15",
-  "n_docs": 118163,
+  "time_updated": "2026-06-15 02:12:33",
+  "n_docs": 118191,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 118163,
+  "n_docs_with_text": 118191,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-06-14",
-  "dataset_size": 1842451001,
+  "date_str_max": "2026-06-15",
+  "dataset_size": 1843720570,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-14-dailymirrorlk-91b59669",
-    "num": "dailymirrorlk-91b59669",
-    "date_str": "2026-06-14",
-    "description": "Hamilton wins first grand prix for Ferrari as Antonelli retires",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hamilton-wins-first-grand-prix-for-Ferrari-as-Antonelli-retires/108-342884",
+    "doc_id": "2026-06-15-dailymirrorlk-811d764c",
+    "num": "dailymirrorlk-811d764c",
+    "date_str": "2026-06-15",
+    "description": "Rights in Custody: A Comparative Look at 1962 Coup Accused and Sallay",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Rights-in-Custody-A-Comparative-Look-at-1962-Coup-Accused-and-Sallay/172-342906",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781456190.0
+    "time_ut": 1781469588.0
   }
 }
