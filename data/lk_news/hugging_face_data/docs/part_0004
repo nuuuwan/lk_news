@@ -238655,6 +238655,17 @@ ews",
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-14-adalk-cb670bbd",
+    "num": "adalk-cb670bbd",
+    "date_str": "2026-06-14",
+    "description": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0dba\u0dd4\u0daf \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0d9a\u0ddc\u0dc5\u0db9 \u0dc0\u0dbb\u0dcf\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4-\u0dba\u0dd4\u0daf-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0d9a\u0ddc\u0dc5\u0db9-\u0dc0\u0dbb\u0dcf\u0dba\u0da7/10-422853",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781401558.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-14-virakesarilk-e0b88013",
     "num": "virakesarilk-e0b88013",
     "date_str": "2026-06-14",
@@ -238696,5 +238707,115 @@ ews",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781406724.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-dailymirrorlk-71447748",
+    "num": "dailymirrorlk-71447748",
+    "date_str": "2026-06-14",
+    "description": "Two wanted crime suspects deported from UAE",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-wanted-crime-suspects-deported-from-UAE/108-342868",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781407724.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-tamilmirrorlk-e9a11221",
+    "num": "tamilmirrorlk-e9a11221",
+    "date_str": "2026-06-14",
+    "description": "\u0baa\u0bbe\u0bb2\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bc8   \u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc7\u0ba9\u0bcd: \u0b9f\u0b95\u0bcd\u0bb3\u0bb8\u0bcd \u0b89\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb2\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bc8-\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc7\u0ba9\u0bcd-\u0b9f\u0b95\u0bcd\u0bb3\u0bb8\u0bcd-\u0b89\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-378527",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781408186.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-dailymirrorlk-42182d97",
+    "num": "dailymirrorlk-42182d97",
+    "date_str": "2026-06-14",
+    "description": "Rain and strong winds expected today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rain-and-strong-winds-expected-today/108-342869",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781409932.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-tamilmirrorlk-932ef780",
+    "num": "tamilmirrorlk-932ef780",
+    "date_str": "2026-06-14",
+    "description": "\u0b89\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bcb\u0b95\u0bae\u0bcd: \u0bb2\u0bca\u0bb1\u0bbf \u0bae\u0bcb\u0ba4\u0bbf \u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b89\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bcb\u0b95\u0bae\u0bcd-\u0bb2\u0bca\u0bb1\u0bbf-\u0bae\u0bcb\u0ba4\u0bbf-\u0bae\u0bc1\u0ba4\u0bbf\u0baf\u0bb5\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/76-378528",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781410281.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-dailymirrorlk-64f34138",
+    "num": "dailymirrorlk-64f34138",
+    "date_str": "2026-06-14",
+    "description": "High waves expected in several sea areas",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/High-waves-expected-in-several-sea-areas/108-342870",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781411516.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-tamilmirrorlk-4ece1e01",
+    "num": "tamilmirrorlk-4ece1e01",
+    "date_str": "2026-06-14",
+    "description": "\u0bb5\u0b9f\u0bbf\u0b95\u0bbe\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf \u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc8 \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0baa\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0b9f\u0bbf\u0b95\u0bbe\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf-\u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc8-\u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0ba8\u0baa\u0bb0\u0bcd/175-378529",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781411992.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-dailymirrorlk-72be3cf3",
+    "num": "dailymirrorlk-72be3cf3",
+    "date_str": "2026-06-14",
+    "description": "CAA raids Kollupitiya supermarket over missing food labels",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CAA-raids-Kollupitiya-supermarket-over-missing-food-labels/108-342872",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781412912.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-dailymirrorlk-f8b063c9",
+    "num": "dailymirrorlk-f8b063c9",
+    "date_str": "2026-06-14",
+    "description": "Shanaka, Mishara star as Sri Lanka draw T20 series against West Indies",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shanaka-Mishara-star-as-Sri-Lanka-draw-T20-series-against-West-Indies/108-342873",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781413405.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-dailymirrorlk-9bb3f150",
+    "num": "dailymirrorlk-9bb3f150",
+    "date_str": "2026-06-14",
+    "description": "Scotland hang on for first World Cup win since 1990 with 1-0 victory over Haiti",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Scotland-hang-on-for-first-World-Cup-win-since-1990-with-1-0-victory-over-Haiti/108-342874",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781413726.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-tamilmirrorlk-640d4451",
+    "num": "tamilmirrorlk-640d4451",
+    "date_str": "2026-06-14",
+    "description": "12 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95 \u0b85\u0bae\u0bb0\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0bb5\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/12-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95-\u0b85\u0bae\u0bb0\u0bbe\u0bae\u0bb2\u0bcd-\u0ba4\u0bb5\u0bae\u0bcd/175-378531",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781415983.0
   }
 ]
