@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--15_11:35:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--15_13:53:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**118,258** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**118,292** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-15-tamilmirrorlk-77fc4d7e",
-    "num": "tamilmirrorlk-77fc4d7e",
+    "doc_id": "2026-06-15-dailymirrorlk-4ab6c7ac",
+    "num": "dailymirrorlk-4ab6c7ac",
     "date_str": "2026-06-15",
-    "description": "\u0ba8\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b89\u0bb1\u0bb5\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0b89\u0bb1\u0bb5\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3\u0ba4\u0bcd-\u0ba4\u0b9f\u0bc8/50-378575",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1781502789.0
+    "description": "Four tourists arrested over incident inside Yala National Park",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-tourists-arrested-over-incident-inside-Yala-National-Park/108-342960",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781510376.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-06-15 | `tamilmirrorlk-77fc4d7e` | நெருங்கிய உறவுகளுக்குள் திருமணத் தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-77fc4d7e)
-- 2026-06-15 | `dailymirrorlk-1711188b` | Horror house publicity stunt goes wrong in Thoduwawa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-1711188b)
-- 2026-06-15 | `dailymirrorlk-72bdd00c` | Sri Lanka Navy launches publication on island’s seafaring glory | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-72bdd00c)
-- 2026-06-15 | `dailymirrorlk-3503e0f3` | Badulla Bar Association urges President not to increase retirement age of Superior Court Judges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-3503e0f3)
-- 2026-06-15 | `tamilmirrorlk-55bbc578` | பருவநிலை மாற்றத்தின் இரு முனைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-55bbc578)
-- 2026-06-15 | `dailymirrorlk-476ab67f` | No more paddy cultivation unless prices are increased, farmers warn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-476ab67f)
-- 2026-06-15 | `dailymirrorlk-959ff43f` | Man arrested with ornaments made of animal body parts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-959ff43f)
-- 2026-06-15 | `dailymirrorlk-0e656f2a` | Minister Lal Kantha owns two luxury houses in Colombo: Chamara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-0e656f2a)
-- 2026-06-15 | `dailymirrorlk-d595eb26` | El Niño puts Sri Lanka on alert, but severe impact unlikely | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-d595eb26)
-- 2026-06-15 | `dailymirrorlk-074698e3` | UK MP appeals for urgent review of deportation order against Lankan family | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-074698e3)
-- 2026-06-15 | `dailymirrorlk-2027d773` | Tree naming ceremony held in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-2027d773)
-- 2026-06-15 | `dailymirrorlk-87cea0e6` | Middle East crisis hits health sector; pharmaceutical prices set to rise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-87cea0e6)
-- 2026-06-15 | `dailymirrorlk-61699a94` | Treasury and CPC weigh options on fuel prices as Rs. 57 Bn fuel allocation nears exhaustion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-61699a94)
-- 2026-06-15 | `dailymirrorlk-ddc0fa54` | Sri Lanka’s economy will crash soon: Ranil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-ddc0fa54)
-- 2026-06-15 | `dailymirrorlk-718fa0a2` | Rs. 13.2 bn fraud systemic failure of institutional governance: Harsha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-718fa0a2)
-- 2026-06-15 | `dailymirrorlk-45a5389a` | IMF asks Central Bank to be vigilant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-45a5389a)
-- 2026-06-15 | `dailymirrorlk-1f8f08f0` | West Indies seal 2-1 T20I series win against Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-1f8f08f0)
-- 2026-06-15 | `dailymirrorlk-9af90e34` | 11 skydivers and pilot killed in US plane crash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-9af90e34)
-- 2026-06-15 | `tamilmirrorlk-4d0f5c5b` | தடைக்காலம் முடிவதற்கு முன்பே  சீறிய விசைப்படகுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-4d0f5c5b)
-- 2026-06-15 | `dailymirrorlk-eaf3d653` | Woman falls to death in Brazil after bungee cord not attached | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-eaf3d653)
+- 2026-06-15 | `dailymirrorlk-4ab6c7ac` | Four tourists arrested over incident inside Yala National Park | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-4ab6c7ac)
+- 2026-06-15 | `tamilmirrorlk-2753a942` | ஆற்றில் மிதந்துவந்த சடலம் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-2753a942)
+- 2026-06-15 | `tamilmirrorlk-397388d4` | மறையைக் கொன்று இறைச்சியாக்கி இருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-397388d4)
+- 2026-06-15 | `virakesarilk-f33788fa` | பேராதனை போதனா வைத்தியசாலையின் அவசர விபத்துப் பிரிவு நவீனமயமாக்கப்பட்டு திறந்து வைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-virakesarilk-f33788fa)
+- 2026-06-15 | `virakesarilk-f5f7be6a` | புளத்சிங்கள பகுதியில் மர்மமான முறையில் உயிரிழந்த தம்பதியினரின் சடலங்கள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-virakesarilk-f5f7be6a)
+- 2026-06-15 | `virakesarilk-dbe97681` | காணிகளை விடுவிக்குமாறு கோரி மயிலிட்டி மீள்குடியேற்ற அபிவிருத்திக் குழுவினர் வடக்கு ஆளுநரிடம் மனு கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-virakesarilk-dbe97681)
+- 2026-06-15 | `virakesarilk-d6058593` | தித்வா சூறாவளி காரணமாக நிலச்சரிவுக்குள்ளான மலையக ரயில் பாதையின் புனரமைப்புப் பணிகள் தீவிரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-virakesarilk-d6058593)
+- 2026-06-15 | `dailymirrorlk-79ff90e4` | Norwegian crown princess’s son found guilty of two counts of rape | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-79ff90e4)
+- 2026-06-15 | `virakesarilk-d24cc550` | அட்டன் - நுவரெலியா பிரதான வீதியில் மண்சரிவு அபாயம்; போக்குவரத்து ஒரு வழிப்பாதையாகக் மட்டுப்படுத்தப்பட்டது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-virakesarilk-d24cc550)
+- 2026-06-15 | `virakesarilk-2c5e8c8c` | ரூபாவின் பெறுமதி வலுவடைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-virakesarilk-2c5e8c8c)
+- 2026-06-15 | `virakesarilk-e4443347` | தேவாலயங்களுக்கு வழிபடச் சென்ற அப்பாவி மக்கள் அநியாயமாக கொல்லப்பட்டார்கள் ; சூத்திரதாரிகள் தண்டிக்கப்படவேண்டும் -  சண்முகம் குகதாசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-virakesarilk-e4443347)
+- 2026-06-15 | `dailymirrorlk-4c95e67d` | US, Iran dialogue humanity’s greatest strength: Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-4c95e67d)
+- 2026-06-15 | `virakesarilk-dc332a2b` | மாகாண சபைத் தேர்தலை நடத்தக் கோரி கண்டியில் சுவரொட்டி காட்சிப்படுத்தும் புதிய வேலைத்திட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-virakesarilk-dc332a2b)
+- 2026-06-15 | `dailymirrorlk-fc480fc5` | Sri Lankan Rupee strengthens against US Dollar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-fc480fc5)
+- 2026-06-15 | `virakesarilk-679129ba` | பிரேசிலில் 'பங்கி ஜம்பிங்' விளையாட்டின் போது ஏற்பட்ட விபரீதம்; இளம் பெண் உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-virakesarilk-679129ba)
+- 2026-06-15 | `virakesarilk-d6ac2769` | அமெரிக்காவில் சிறிய ரக விமானம் விபத்து: பாராசூட் சாகசத்திற்குச் சென்ற 11 பயணிகள் உட்பட 12 பேர் பரிதாபமாக உயிரிழப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-virakesarilk-d6ac2769)
+- 2026-06-15 | `dailymirrorlk-55a257a0` | Amber alert issued for rough seas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-55a257a0)
+- 2026-06-15 | `dailymirrorlk-e2bdf0b0` | Parents urged to stay alert as multiple diseases spread among children | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-e2bdf0b0)
+- 2026-06-15 | `tamilmirrorlk-5770b88f` | ஹக்கீமின் ‘மறதி’ மாயாஜாலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-5770b88f)
+- 2026-06-15 | `dailymirrorlk-9d73e249` | Trump celebrates 80th birthday with Iran deal and UFC cage fight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-9d73e249)
 
 ---
 
