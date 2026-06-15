@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--15_08:58:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--15_11:35:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**118,228** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**118,258** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-15**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-15-dailymirrorlk-3266b40a",
-    "num": "dailymirrorlk-3266b40a",
+    "doc_id": "2026-06-15-tamilmirrorlk-77fc4d7e",
+    "num": "tamilmirrorlk-77fc4d7e",
     "date_str": "2026-06-15",
-    "description": "Oil prices slide after Pakistan announces deal between US and Iran",
-    "url_metadata": "https://www.dailymirror.lk/international/Oil-prices-slide-after-Pakistan-announces-deal-between-US-and-Iran/107-342912",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781493621.0
+    "description": "\u0ba8\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b89\u0bb1\u0bb5\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc6\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0b89\u0bb1\u0bb5\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3\u0ba4\u0bcd-\u0ba4\u0b9f\u0bc8/50-378575",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781502789.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-06-15 | `dailymirrorlk-3266b40a` | Oil prices slide after Pakistan announces deal between US and Iran | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-3266b40a)
-- 2026-06-15 | `dailymirrorlk-7bf3a1a6` | Swiss voters reject 10 million population cap | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-7bf3a1a6)
-- 2026-06-15 | `dailymirrorlk-cd55c3ca` | US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-cd55c3ca)
-- 2026-06-15 | `adalk-3d81e876` | ඇමෙරිකාව හා ඉරානය සාම ගිවිසුමට එකඟ වෙයි, අත්සන් කිරිම සිකුරාදා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-adalk-3d81e876)
-- 2026-06-15 | `dailyftlk-bbd522c5` | SLBC UAE marks 35 years with landmark Investment Forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-bbd522c5)
-- 2026-06-15 | `dailyftlk-6b79b2e5` | Canadian Chamber of Commerce to host high-level dialogue on women’s development, economic empowerment and SMEs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-6b79b2e5)
-- 2026-06-15 | `dailyftlk-2be7e6a7` | Executive Masterclass with Gaurav Kumar on scaling globally in AI era | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-2be7e6a7)
-- 2026-06-15 | `dailyftlk-78f89a0c` | Over 5,000 dancers set Guinness World Record for largest Bharatanatyam lesson in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-78f89a0c)
-- 2026-06-15 | `tamilmirrorlk-3c33a51c` | லெபனான் மீது வான்வழி தாக்குதல்: இஸ்ரேலுக்கு ட்ரம்ப் கண்டனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-3c33a51c)
-- 2026-06-15 | `dailyftlk-1bb53e65` | World No Tobacco Day national ceremony today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-1bb53e65)
-- 2026-06-15 | `dailyftlk-4a74a47f` | Former MPs urge President to ensure rule of law in Suresh Sallay case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-4a74a47f)
-- 2026-06-15 | `dailyftlk-ac3a43e6` | Two crime and drug trafficking suspects arrested after deportation from UAE | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-ac3a43e6)
-- 2026-06-15 | `dailyftlk-127e5de0` | PM urges Sri Lanka to draw on Japan’s innovation experience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-127e5de0)
-- 2026-06-15 | `tamilmirrorlk-b64c0729` | ’இளைஞர்கள் தங்கள் கனவுகளுக்காக போராடுகிறார்கள்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-b64c0729)
-- 2026-06-15 | `dailyftlk-a178b40a` | MoU on Japan-Sri Lanka security and defence exchange | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-a178b40a)
-- 2026-06-15 | `tamilmirrorlk-6f0526af` | அ.தி.மு.கவிலிருந்து விலகினார் நடிகை கவுதமி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-6f0526af)
-- 2026-06-15 | `dailyftlk-5d942c0a` | ABC of errors and omissions: Compilation governance issues, yes, but no loss in CB | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-5d942c0a)
-- 2026-06-15 | `dailyftlk-704cf405` | Tax evasion as a criminal offence:  A blessing for taxpayers  and burden on tax officials | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-704cf405)
-- 2026-06-15 | `dailyftlk-eebf3bde` | Primary dealers not subject to VAT on Financial Services | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-eebf3bde)
-- 2026-06-15 | `dailyftlk-2b538052` | Justice for the abused child shadowed  by secret meetings and screaming silence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-2b538052)
+- 2026-06-15 | `tamilmirrorlk-77fc4d7e` | நெருங்கிய உறவுகளுக்குள் திருமணத் தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-77fc4d7e)
+- 2026-06-15 | `dailymirrorlk-1711188b` | Horror house publicity stunt goes wrong in Thoduwawa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-1711188b)
+- 2026-06-15 | `dailymirrorlk-72bdd00c` | Sri Lanka Navy launches publication on island’s seafaring glory | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-72bdd00c)
+- 2026-06-15 | `dailymirrorlk-3503e0f3` | Badulla Bar Association urges President not to increase retirement age of Superior Court Judges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-3503e0f3)
+- 2026-06-15 | `tamilmirrorlk-55bbc578` | பருவநிலை மாற்றத்தின் இரு முனைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-55bbc578)
+- 2026-06-15 | `dailymirrorlk-476ab67f` | No more paddy cultivation unless prices are increased, farmers warn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-476ab67f)
+- 2026-06-15 | `dailymirrorlk-959ff43f` | Man arrested with ornaments made of animal body parts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-959ff43f)
+- 2026-06-15 | `dailymirrorlk-0e656f2a` | Minister Lal Kantha owns two luxury houses in Colombo: Chamara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-0e656f2a)
+- 2026-06-15 | `dailymirrorlk-d595eb26` | El Niño puts Sri Lanka on alert, but severe impact unlikely | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-d595eb26)
+- 2026-06-15 | `dailymirrorlk-074698e3` | UK MP appeals for urgent review of deportation order against Lankan family | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-074698e3)
+- 2026-06-15 | `dailymirrorlk-2027d773` | Tree naming ceremony held in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-2027d773)
+- 2026-06-15 | `dailymirrorlk-87cea0e6` | Middle East crisis hits health sector; pharmaceutical prices set to rise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-87cea0e6)
+- 2026-06-15 | `dailymirrorlk-61699a94` | Treasury and CPC weigh options on fuel prices as Rs. 57 Bn fuel allocation nears exhaustion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-61699a94)
+- 2026-06-15 | `dailymirrorlk-ddc0fa54` | Sri Lanka’s economy will crash soon: Ranil | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-ddc0fa54)
+- 2026-06-15 | `dailymirrorlk-718fa0a2` | Rs. 13.2 bn fraud systemic failure of institutional governance: Harsha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-718fa0a2)
+- 2026-06-15 | `dailymirrorlk-45a5389a` | IMF asks Central Bank to be vigilant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-45a5389a)
+- 2026-06-15 | `dailymirrorlk-1f8f08f0` | West Indies seal 2-1 T20I series win against Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-1f8f08f0)
+- 2026-06-15 | `dailymirrorlk-9af90e34` | 11 skydivers and pilot killed in US plane crash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-9af90e34)
+- 2026-06-15 | `tamilmirrorlk-4d0f5c5b` | தடைக்காலம் முடிவதற்கு முன்பே  சீறிய விசைப்படகுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-4d0f5c5b)
+- 2026-06-15 | `dailymirrorlk-eaf3d653` | Woman falls to death in Brazil after bungee cord not attached | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-eaf3d653)
 
 ---
 
