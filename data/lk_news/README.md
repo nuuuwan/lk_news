@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--16_01:07:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--16_02:48:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**118,378** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**118,381** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-16-dailyftlk-b84a77c6",
-    "num": "dailyftlk-b84a77c6",
+    "doc_id": "2026-06-16-tamilmirrorlk-6b9677cd",
+    "num": "tamilmirrorlk-6b9677cd",
     "date_str": "2026-06-16",
-    "description": "Can Indian Ocean Dipole cushion  Sri Lanka from a strong El Ni\u00f1o?",
-    "url_metadata": "https://www.ft.lk/columns/Can-Indian-Ocean-Dipole-cushion-Sri-Lanka-from-a-strong-El-Ni\u00f1o/4-793335",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1781549893.0
+    "description": "\u0b9f\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bc8 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bc1\u0bb4\u0bc1\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0bc1\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bc8-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0baa\u0bc1\u0bb4\u0bc1\u0ba4\u0bbf\u0baa\u0bcd-\u0baa\u0bc1\u0baf\u0bb2\u0bcd/175-378622",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781557167.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-16 | `tamilmirrorlk-6b9677cd` | டில்லியை தாக்கிய புழுதிப் புயல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-tamilmirrorlk-6b9677cd)
 - 2026-06-16 | `dailyftlk-b84a77c6` | Can Indian Ocean Dipole cushion  Sri Lanka from a strong El Niño? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailyftlk-b84a77c6)
 - 2026-06-16 | `dailyftlk-725c6988` | Sri Lanka’s economic recovery requires more than stability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailyftlk-725c6988)
 - 2026-06-16 | `dailyftlk-a00305fa` | Debunking Economic Myths # 1: Central Bank has no role in exchange rate management | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailyftlk-a00305fa)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-06-15 | `tamilmirrorlk-0e869640` | பள்ளத்தாக்கில் பஸ் கவிழ்ந்ததில் 31 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-0e869640)
 - 2026-06-15 | `tamilmirrorlk-48153cd9` | ‘நாகினி’ மௌனி ராய், ஓரினச்சேர்க்கையாளரா ? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-48153cd9)
 - 2026-06-15 | `virakesarilk-b95c145b` | செம்மணி மனிதப் புதைகுழியில் இருந்து 10 எலும்புக்கூடுகள் மீட்பு: இரு சிறுவர்கள் மற்றும் கைக்குழந்தை அடையாளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-virakesarilk-b95c145b)
-- 2026-06-15 | `dailymirrorlk-50875b80` | Super Over drama! Sri Lanka A outlast India A after 265-tun tie | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailymirrorlk-50875b80)
 
 ---
 
