@@ -235043,6 +235043,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-11-islandlk-eb2cf187",
+    "num": "islandlk-eb2cf187",
+    "date_str": "2026-06-11",
+    "description": "Probes and politics",
+    "url_metadata": "http://island.lk/probes-and-politics-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781190540.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-11-tamilmirrorlk-fb241892",
     "num": "tamilmirrorlk-fb241892",
     "date_str": "2026-06-11",
@@ -238530,6 +238541,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-13-islandlk-22d8ab50",
+    "num": "islandlk-22d8ab50",
+    "date_str": "2026-06-13",
+    "description": "The Examiner at lunch: Nihal Jayawickrama, architect of justice",
+    "url_metadata": "http://island.lk/the-examiner-at-lunch-nihal-jayawickrama-architect-of-justice/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781362920.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-13-islandlk-ca49002a",
     "num": "islandlk-ca49002a",
     "date_str": "2026-06-13",
@@ -239652,6 +239674,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-14-islandlk-0e468285",
+    "num": "islandlk-0e468285",
+    "date_str": "2026-06-14",
+    "description": "ComBank targets Sri Lanka\u2019s global freelancers with \u2018ComBank GIG+\u2019 to formalise their forex earnings",
+    "url_metadata": "http://island.lk/combank-targets-sri-lankas-global-freelancers-with-combank-gig-to-formalise-their-forex-earnings/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781438700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-islandlk-c2b5b627",
+    "num": "islandlk-c2b5b627",
+    "date_str": "2026-06-14",
+    "description": "Sasakawa Centre opens, marking new architectural addition to Colombo skyline",
+    "url_metadata": "http://island.lk/sasakawa-centre-opens-marking-new-architectural-addition-to-colombo-skyline/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781438760.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-14-virakesarilk-10e8f8f0",
     "num": "virakesarilk-10e8f8f0",
     "date_str": "2026-06-14",
@@ -239784,6 +239828,61 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-14-islandlk-8351a1bb",
+    "num": "islandlk-8351a1bb",
+    "date_str": "2026-06-14",
+    "description": "Finagle Lanka recognises outstanding achievers",
+    "url_metadata": "http://island.lk/finagle-lanka-recognises-outstanding-achievers/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781444460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-islandlk-582075c7",
+    "num": "islandlk-582075c7",
+    "date_str": "2026-06-14",
+    "description": "SLCSMI and NCCSL announce key forum on \u2018SME Revival\u2019",
+    "url_metadata": "http://island.lk/slcsmi-and-nccsl-announce-key-forum-on-sme-revival/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781444520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-islandlk-326ee2e8",
+    "num": "islandlk-326ee2e8",
+    "date_str": "2026-06-14",
+    "description": "FIFA World Cup 2026 likely to become the most lucrative in football history",
+    "url_metadata": "http://island.lk/fifa-world-cup-2026-likely-to-become-the-most-lucrative-in-football-history/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781444580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-islandlk-6722f106",
+    "num": "islandlk-6722f106",
+    "date_str": "2026-06-14",
+    "description": "Payable to accelerate Sri Lanka\u2019s digital payments landscape following acquisition by Short Circuit",
+    "url_metadata": "http://island.lk/payable-to-accelerate-sri-lankas-digital-payments-landscape-following-acquisition-by-short-circuit/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781444640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-islandlk-9e0793c4",
+    "num": "islandlk-9e0793c4",
+    "date_str": "2026-06-14",
+    "description": "Sea Master opens new logistics centre in Wattala at a cost exceeding Rs. 500 million",
+    "url_metadata": "http://island.lk/sea-master-opens-new-logistics-centre-in-wattala-at-a-cost-exceeding-rs-500-million/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781444700.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-14-virakesarilk-fdac9e90",
     "num": "virakesarilk-fdac9e90",
     "date_str": "2026-06-14",
@@ -239913,6 +240012,28 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781456190.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-colombotelegraphcom-15c74f7c",
+    "num": "colombotelegraphcom-15c74f7c",
+    "date_str": "2026-06-14",
+    "description": "A Lifetime Of Academic Excellence: An Appreciation Of Professor Subramaniam Sotheeswaran",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/a-lifetime-of-academic-excellence-an-appreciation-of-professor-subramaniam-sotheeswaran/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1781457731.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-colombotelegraphcom-2c6e3a39",
+    "num": "colombotelegraphcom-2c6e3a39",
+    "date_str": "2026-06-14",
+    "description": "Kekirawe Sudassana & The Need For Dialogue",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/kekirawe-sudassana-the-need-for-dialogue/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1781458875.0
   },
   {
     "doc_type": "lk_news",
@@ -240221,5 +240342,148 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1781475716.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-704cf405",
+    "num": "dailyftlk-704cf405",
+    "date_str": "2026-06-15",
+    "description": "Tax evasion as a criminal offence:  A blessing for taxpayers  and burden on tax officials",
+    "url_metadata": "https://www.ft.lk/columns/Tax-evasion-as-a-criminal-offence-A-blessing-for-taxpayers-and-burden-on-tax-officials/4-793295",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781476980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-5d942c0a",
+    "num": "dailyftlk-5d942c0a",
+    "date_str": "2026-06-15",
+    "description": "ABC of errors and omissions: Compilation governance issues, yes, but no loss in CB",
+    "url_metadata": "https://www.ft.lk/columns/ABC-of-errors-and-omissions-Compilation-governance-issues-yes-but-no-loss-in-CB/4-793296",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781478708.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-tamilmirrorlk-6f0526af",
+    "num": "tamilmirrorlk-6f0526af",
+    "date_str": "2026-06-15",
+    "description": "\u0b85.\u0ba4\u0bbf.\u0bae\u0bc1.\u0b95\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0ba8\u0b9f\u0bbf\u0b95\u0bc8 \u0b95\u0bb5\u0bc1\u0ba4\u0bae\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85-\u0ba4\u0bbf-\u0bae\u0bc1-\u0b95\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0ba8\u0b9f\u0bbf\u0b95\u0bc8-\u0b95\u0bb5\u0bc1\u0ba4\u0bae\u0bbf/175-378563",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781479897.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-a178b40a",
+    "num": "dailyftlk-a178b40a",
+    "date_str": "2026-06-15",
+    "description": "MoU on Japan-Sri Lanka security and defence exchange",
+    "url_metadata": "https://www.ft.lk/news/MoU-on-Japan-Sri-Lanka-security-and-defence-exchange/56-793312",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781482937.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-tamilmirrorlk-b64c0729",
+    "num": "tamilmirrorlk-b64c0729",
+    "date_str": "2026-06-15",
+    "description": "\u2019\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0ba9\u0bb5\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0ba9\u0bb5\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/175-378564",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781483025.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-127e5de0",
+    "num": "dailyftlk-127e5de0",
+    "date_str": "2026-06-15",
+    "description": "PM urges Sri Lanka to draw on Japan\u2019s innovation experience",
+    "url_metadata": "https://www.ft.lk/news/PM-urges-Sri-Lanka-to-draw-on-Japan-s-innovation-experience/56-793313",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781483118.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-ac3a43e6",
+    "num": "dailyftlk-ac3a43e6",
+    "date_str": "2026-06-15",
+    "description": "Two crime and drug trafficking suspects arrested after deportation from UAE",
+    "url_metadata": "https://www.ft.lk/news/Two-crime-and-drug-trafficking-suspects-arrested-after-deportation-from-UAE/56-793314",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781483370.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-4a74a47f",
+    "num": "dailyftlk-4a74a47f",
+    "date_str": "2026-06-15",
+    "description": "Former MPs urge President to ensure rule of law in Suresh Sallay case",
+    "url_metadata": "https://www.ft.lk/news/Former-MPs-urge-President-to-ensure-rule-of-law-in-Suresh-Sallay-case/56-793315",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781483421.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-1bb53e65",
+    "num": "dailyftlk-1bb53e65",
+    "date_str": "2026-06-15",
+    "description": "World No Tobacco Day national ceremony today",
+    "url_metadata": "https://www.ft.lk/news/World-No-Tobacco-Day-national-ceremony-today/56-793316",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781483457.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-78f89a0c",
+    "num": "dailyftlk-78f89a0c",
+    "date_str": "2026-06-15",
+    "description": "Over 5,000 dancers set Guinness World Record for largest Bharatanatyam lesson in Colombo",
+    "url_metadata": "https://www.ft.lk/news/Over-5-000-dancers-set-Guinness-World-Record-for-largest-Bharatanatyam-lesson-in-Colombo/56-793317",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781483928.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-2be7e6a7",
+    "num": "dailyftlk-2be7e6a7",
+    "date_str": "2026-06-15",
+    "description": "Executive Masterclass with Gaurav Kumar on scaling globally in AI era",
+    "url_metadata": "https://www.ft.lk/business/Executive-Masterclass-with-Gaurav-Kumar-on-scaling-globally-in-AI-era/34-793328",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781485264.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-6b79b2e5",
+    "num": "dailyftlk-6b79b2e5",
+    "date_str": "2026-06-15",
+    "description": "Canadian Chamber of Commerce to host high-level dialogue on women\u2019s development, economic empowerment and SMEs",
+    "url_metadata": "https://www.ft.lk/business/Canadian-Chamber-of-Commerce-to-host-high-level-dialogue-on-women-s-development-economic-empowerment-and-SMEs/34-793329",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781485293.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-dailyftlk-bbd522c5",
+    "num": "dailyftlk-bbd522c5",
+    "date_str": "2026-06-15",
+    "description": "SLBC UAE marks 35 years with landmark Investment Forum",
+    "url_metadata": "https://www.ft.lk/business/SLBC-UAE-marks-35-years-with-landmark-Investment-Forum/34-793330",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781485413.0
   }
 ]
