@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-16 19:37:24",
-  "n_docs": 118508,
+  "time_updated": "2026-06-16 21:27:24",
+  "n_docs": 118518,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 118508,
+  "n_docs_with_text": 118518,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-16",
-  "dataset_size": 1847669171,
+  "dataset_size": 1847797367,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-16-dailymirrorlk-a88927bb",
-    "num": "dailymirrorlk-a88927bb",
+    "doc_id": "2026-06-16-tamilmirrorlk-d9975fcf",
+    "num": "tamilmirrorlk-d9975fcf",
     "date_str": "2026-06-16",
-    "description": "Former Atamasthanadhipathi gives blood sample for DNA testing",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Atamasthanadhipathi-gives-blood-sample-for-DNA-testing/108-343094",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781618526.0
+    "description": "\u0bae\u0bc0\u0b95\u0bca\u0b9f \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 : \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0b95\u0bca\u0b9f-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-378677",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781624730.0
   }
 }

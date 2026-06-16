@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--16_19:38:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--16_21:28:20-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**118,508** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**118,518** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-16-dailymirrorlk-a88927bb",
-    "num": "dailymirrorlk-a88927bb",
+    "doc_id": "2026-06-16-tamilmirrorlk-d9975fcf",
+    "num": "tamilmirrorlk-d9975fcf",
     "date_str": "2026-06-16",
-    "description": "Former Atamasthanadhipathi gives blood sample for DNA testing",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Atamasthanadhipathi-gives-blood-sample-for-DNA-testing/108-343094",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781618526.0
+    "description": "\u0bae\u0bc0\u0b95\u0bca\u0b9f \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 : \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0b95\u0bca\u0b9f-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-378677",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781624730.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-16 | `tamilmirrorlk-d9975fcf` | மீகொட விபத்து : சந்தேகநபரின் விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-tamilmirrorlk-d9975fcf)
+- 2026-06-16 | `dailymirrorlk-df5d8d93` | Over 40% of schools found with Dengue breeding sites | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-df5d8d93)
+- 2026-06-16 | `dailymirrorlk-47eadf03` | Namal thanks Nalinda for court reminder | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-47eadf03)
+- 2026-06-16 | `dailymirrorlk-dd99e9c4` | Rs. 14m Kendu leaves, beedi seized in Chilaw coast guard raid | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-dd99e9c4)
+- 2026-06-16 | `tamilmirrorlk-4f6dc0c5` | பொலிஸ் சேவைகள் இனி உங்கள் கைப்பேசியில்... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-tamilmirrorlk-4f6dc0c5)
+- 2026-06-16 | `tamilmirrorlk-18b227de` | “நீதிமன்றத்திற்கு செல்லாத நாட்களில், நாமல் பிரச்சாரத்தை தொடரலாம்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-tamilmirrorlk-18b227de)
+- 2026-06-16 | `tamilmirrorlk-eba5d47b` | “அனைத்து தகவல்களையும் சலே வெளிப்படுத்த வேண்டும்” | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-tamilmirrorlk-eba5d47b)
+- 2026-06-16 | `dailymirrorlk-c114a6fe` | Namal can continue campaigning when not attending court: Nalinda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-c114a6fe)
 - 2026-06-16 | `dailymirrorlk-a88927bb` | Former Atamasthanadhipathi gives blood sample for DNA testing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-a88927bb)
 - 2026-06-16 | `dailymirrorlk-d76b9e97` | Rs. 15Bn project launched to upgrade BIA Terminal 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-d76b9e97)
 - 2026-06-16 | `dailymirrorlk-f9eb096d` | Early rally fades as profit-taking leaves market mixed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-f9eb096d)
 - 2026-06-16 | `dailymirrorlk-e54755b7` | Only option left for Sallay is to reveal what he knows: Govt. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-e54755b7)
 - 2026-06-16 | `dailymirrorlk-95d9e744` | Dubai-based Indian expat dies after sudden on-field collapse during cricket match | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-95d9e744)
 - 2026-06-16 | `dailymirrorlk-6aa01f42` | “Some may feel law is moving in their direction”, says Govt spokesperson | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-6aa01f42)
+- 2026-06-16 | `adalk-de5171de` | කළාවැවේ පිටවාන ප්‍රථිසංස්කරණය කිරීමට වතුර අඩු කරන්න සූදානමක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-adalk-de5171de)
 - 2026-06-16 | `dailymirrorlk-e57daec4` | Health system could face severe strain if Dengue cases continue to rise: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-e57daec4)
 - 2026-06-16 | `tamilmirrorlk-7d02c9a4` | கள்ளக்காதலனுடன் மனைவி தீட்டிய கொடூரத் திட்டம் முறியடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-tamilmirrorlk-7d02c9a4)
 - 2026-06-16 | `dailymirrorlk-31b75954` | Sri Lanka preparing contingency plans for potential El Niño impact | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-31b75954)
 - 2026-06-16 | `tamilmirrorlk-940c783f` | ஹக்கலயில் பாரிய விபத்து: 4 வாகனங்கள் சேதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-tamilmirrorlk-940c783f)
 - 2026-06-16 | `tamilmirrorlk-47c29b34` | மோதலைத் தடுத்த முதியவரின் வீடு சேதம்: தாக்குதல் நடத்தியவர்கள் தலைமறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-tamilmirrorlk-47c29b34)
-- 2026-06-16 | `tamilmirrorlk-01108b3a` | யோஷிதவின் தீர்ப்பு ஜூலை 3-ல் அறிவிக்கப்படும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-tamilmirrorlk-01108b3a)
-- 2026-06-16 | `dailymirrorlk-371ee9f7` | UN Resident Coordinator meets NCW Chairperson in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-371ee9f7)
-- 2026-06-16 | `dailymirrorlk-9a8c1060` | Seat belt rule on expressways to be strictly enforced from June 20 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-9a8c1060)
-- 2026-06-16 | `dailymirrorlk-9b8276aa` | Appeal Court to rule on Yoshitha’s revision plea on July 3 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-9b8276aa)
-- 2026-06-16 | `tamilmirrorlk-baf71bd4` | சிறுவன் மீது கொடூர தாக்குதல் : வீடியோவால் சிக்கிய சந்தேக நபர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-tamilmirrorlk-baf71bd4)
-- 2026-06-16 | `tamilmirrorlk-1b63c47a` | சிறுவன் மீது கொடூர தாக்குதல் : வீடியோவால் சிக்கிய சந்தே கநபர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-tamilmirrorlk-1b63c47a)
-- 2026-06-16 | `dailymirrorlk-f5bdb3b2` | Five arrested in Pulmuddai over alleged Rs. 20 Mn ancient rock deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-f5bdb3b2)
-- 2026-06-16 | `dailymirrorlk-37a9abdb` | Fire at Karapitiya Hospital brought under control | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-37a9abdb)
-- 2026-06-16 | `adalk-e5afd6ff` | අත්අඩංගුවට ගැනීම වළක්වන්නැයි ගොඨාගෙන් පෙත්සමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-adalk-e5afd6ff)
 
 ---
 

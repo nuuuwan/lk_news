@@ -242182,6 +242182,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-15-islandlk-7118525c",
+    "num": "islandlk-7118525c",
+    "date_str": "2026-06-15",
+    "description": "NCCSL to host seminar on data protection & privacy",
+    "url_metadata": "http://island.lk/nccsl-to-host-seminar-on-data-protection-privacy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781545620.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-15-islandlk-6471fe39",
     "num": "islandlk-6471fe39",
     "date_str": "2026-06-15",
@@ -243579,6 +243590,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-16-adalk-de5171de",
+    "num": "adalk-de5171de",
+    "date_str": "2026-06-16",
+    "description": "\u0d9a\u0dc5\u0dcf\u0dc0\u0dd0\u0dc0\u0dda \u0db4\u0dd2\u0da7\u0dc0\u0dcf\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dae\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc0\u0dad\u0dd4\u0dbb \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dc5\u0dcf\u0dc0\u0dd0\u0dc0\u0dda-\u0db4\u0dd2\u0da7\u0dc0\u0dcf\u0db1-\u0db4\u0dca\u200d\u0dbb\u0dae\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab\u0dba-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0dc0\u0dad\u0dd4\u0dbb-\u0d85\u0da9\u0dd4-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca-\u0db1\u0dd1/11-422879",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781612454.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-16-dailymirrorlk-6aa01f42",
     "num": "dailymirrorlk-6aa01f42",
     "date_str": "2026-06-16",
@@ -243642,5 +243664,93 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781618526.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-c114a6fe",
+    "num": "dailymirrorlk-c114a6fe",
+    "date_str": "2026-06-16",
+    "description": "Namal can continue campaigning when not attending court: Nalinda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-can-continue-campaigning-when-not-attending-court-Nalinda/108-343095",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781619208.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-eba5d47b",
+    "num": "tamilmirrorlk-eba5d47b",
+    "date_str": "2026-06-16",
+    "description": "\u201c\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bb2\u0bc7 \u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u201d",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1-\u0ba4\u0b95\u0bb5\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0b9a\u0bb2\u0bc7-\u0bb5\u0bc6\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd/175-378673",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781620323.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-18b227de",
+    "num": "tamilmirrorlk-18b227de",
+    "date_str": "2026-06-16",
+    "description": "\u201c\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd, \u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bb2\u0bbe\u0bae\u0bcd\u201d",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4-\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbe\u0bae\u0bb2\u0bcd-\u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8-\u0ba4\u0bca\u0b9f\u0bb0\u0bb2\u0bbe\u0bae\u0bcd/175-378674",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781620864.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-4f6dc0c5",
+    "num": "tamilmirrorlk-4f6dc0c5",
+    "date_str": "2026-06-16",
+    "description": "\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bbf \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd...",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd-\u0b87\u0ba9\u0bbf-\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bc7\u0b9a\u0bbf\u0baf\u0bbf\u0bb2\u0bcd/175-378675",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781621460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-dd99e9c4",
+    "num": "dailymirrorlk-dd99e9c4",
+    "date_str": "2026-06-16",
+    "description": "Rs. 14m Kendu leaves, beedi seized in Chilaw coast guard raid",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-14m-Kendu-leaves-beedi-seized-in-Chilaw-coast-guard-raid/108-343096",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781621742.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-47eadf03",
+    "num": "dailymirrorlk-47eadf03",
+    "date_str": "2026-06-16",
+    "description": "Namal thanks Nalinda for court reminder",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-thanks-Nalinda-for-court-reminder/108-343097",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781621842.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-df5d8d93",
+    "num": "dailymirrorlk-df5d8d93",
+    "date_str": "2026-06-16",
+    "description": "Over 40% of schools found with Dengue breeding sites",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-40-of-schools-found-with-Dengue-breeding-sites/108-343098",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781622825.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-d9975fcf",
+    "num": "tamilmirrorlk-d9975fcf",
+    "date_str": "2026-06-16",
+    "description": "\u0bae\u0bc0\u0b95\u0bca\u0b9f \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 : \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0b95\u0bca\u0b9f-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-378677",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781624730.0
   }
 ]
