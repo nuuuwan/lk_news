@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--17_02:49:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--17_04:24:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**118,547** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**118,548** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-16-dailymirrorlk-e6acf097",
-    "num": "dailymirrorlk-e6acf097",
-    "date_str": "2026-06-16",
-    "description": "Sri Lanka shock New Zealand in Women\u2019s T20 World Cup thriller",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-shock-New-Zealand-in-Womens-T20-World-Cup-thriller/108-343100",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781628843.0
+    "doc_id": "2026-06-17-tamilmirrorlk-febe382d",
+    "num": "tamilmirrorlk-febe382d",
+    "date_str": "2026-06-17",
+    "description": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd \u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf-\u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0b9f\u0bae\u0bcd-\u0b95\u0bc8\u0baf\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-378682",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781645989.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-17 | `tamilmirrorlk-febe382d` | தேசிய ஏற்றுமதி அபிவிருத்தி திட்டம் ஜனாதிபதியிடம் கையளிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-febe382d)
 - 2026-06-16 | `dailymirrorlk-e6acf097` | Sri Lanka shock New Zealand in Women’s T20 World Cup thriller | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-e6acf097)
 - 2026-06-16 | `dailymirrorlk-48b858b6` | 25% of private bus fleet operated on kerosene; LPBOA Chairman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-48b858b6)
 - 2026-06-16 | `tamilmirrorlk-5bfd33fe` | சீனாவில் நிலநடுக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-tamilmirrorlk-5bfd33fe)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-06-16 | `virakesarilk-b4d35c8b` | செம்மணி புதைகுழி அகழ்வுப் பணிகளை பார்வையிட நீதி அமைச்சரின் தலைமையிலான விசேட குழு வெள்ளிக்கிழமை விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-virakesarilk-b4d35c8b)
 - 2026-06-16 | `dailymirrorlk-d76b9e97` | Rs. 15Bn project launched to upgrade BIA Terminal 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-d76b9e97)
 - 2026-06-16 | `dailymirrorlk-f9eb096d` | Early rally fades as profit-taking leaves market mixed | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-f9eb096d)
-- 2026-06-16 | `virakesarilk-f2ec9082` | செம்மணி புதைகுழி அகழாய்வில் மேலும் 6 என்புக்கூடுகள் அடையாளம்; ஏற்கனவே கண்டறியப்பட்ட 6 என்புக்கூடுகள் அகழ்ந்து எடுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-virakesarilk-f2ec9082)
 
 ---
 
