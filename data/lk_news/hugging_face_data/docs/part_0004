@@ -243425,6 +243425,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-16-adalk-e5afd6ff",
+    "num": "adalk-e5afd6ff",
+    "date_str": "2026-06-16",
+    "description": "\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc0\u0dc5\u0d9a\u0dca\u0dc0\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0d9c\u0ddc\u0da8\u0dcf\u0d9c\u0dd9\u0db1\u0dca \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7-\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0dc0\u0dc5\u0d9a\u0dca\u0dc0\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0d9c\u0ddc\u0da8\u0dcf\u0d9c\u0dd9\u0db1\u0dca-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8\u0d9a\u0dca/11-422878",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781603693.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-16-dailymirrorlk-37a9abdb",
     "num": "dailymirrorlk-37a9abdb",
     "date_str": "2026-06-16",
@@ -243452,6 +243463,17 @@
     "date_str": "2026-06-16",
     "description": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b95\u0bca\u0b9f\u0bc2\u0bb0 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd : \u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb\u0bb5\u0bbe\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7 \u0b95\u0ba8\u0baa\u0bb0\u0bcd",
     "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0b95\u0bca\u0b9f\u0bc2\u0bb0-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb\u0bb5\u0bbe\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7-\u0b95\u0ba8\u0baa\u0bb0\u0bcd/175-378654",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781605403.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-baf71bd4",
+    "num": "tamilmirrorlk-baf71bd4",
+    "date_str": "2026-06-16",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b95\u0bca\u0b9f\u0bc2\u0bb0 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd : \u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb\u0bb5\u0bbe\u0bb2\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0b95\u0bca\u0b9f\u0bc2\u0bb0-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb\u0bb5\u0bbe\u0bb2\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95-\u0ba8\u0baa\u0bb0\u0bcd/175-378654",
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781605403.0
@@ -243521,5 +243543,104 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781610894.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-31b75954",
+    "num": "dailymirrorlk-31b75954",
+    "date_str": "2026-06-16",
+    "description": "Sri Lanka preparing contingency plans for potential El Ni\u00f1o impact",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-preparing-contingency-plans-for-potential-El-Ni\u00f1o-impact/108-343078",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781611077.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-7d02c9a4",
+    "num": "tamilmirrorlk-7d02c9a4",
+    "date_str": "2026-06-16",
+    "description": "\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd \u0bae\u0ba9\u0bc8\u0bb5\u0bbf \u0ba4\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0bae\u0bc1\u0bb1\u0bbf\u0baf\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb3\u0bcd\u0bb3\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd-\u0bae\u0ba9\u0bc8\u0bb5\u0bbf-\u0ba4\u0bc0\u0b9f\u0bcd\u0b9f\u0bbf\u0baf-\u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0ba4\u0bcd-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0bae\u0bc1\u0bb1\u0bbf\u0baf\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-378659",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781611412.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-e57daec4",
+    "num": "dailymirrorlk-e57daec4",
+    "date_str": "2026-06-16",
+    "description": "Health system could face severe strain if Dengue cases continue to rise: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Health-system-could-face-severe-strain-if-Dengue-cases-continue-to-rise-Minister/108-343086",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781612271.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-6aa01f42",
+    "num": "dailymirrorlk-6aa01f42",
+    "date_str": "2026-06-16",
+    "description": "\u201cSome may feel law is moving in their direction\u201d, says Govt spokesperson",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Some-may-feel-law-is-moving-in-their-direction-says-Govt-spokesperson/108-343089",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781614132.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-95d9e744",
+    "num": "dailymirrorlk-95d9e744",
+    "date_str": "2026-06-16",
+    "description": "Dubai-based Indian expat dies after sudden on-field collapse during cricket match",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dubai-based-Indian-expat-dies-after-sudden-on-field-collapse-during-cricket-match/108-343090",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781615912.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-e54755b7",
+    "num": "dailymirrorlk-e54755b7",
+    "date_str": "2026-06-16",
+    "description": "Only option left for Sallay is to reveal what he knows: Govt.",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Only-option-left-for-Sallay-is-to-reveal-what-he-knows-Govt/108-343091",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781616885.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-f9eb096d",
+    "num": "dailymirrorlk-f9eb096d",
+    "date_str": "2026-06-16",
+    "description": "Early rally fades as profit-taking leaves market mixed",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Early-rally-fades-as-profit-taking-leaves-market-mixed/108-343092",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781617541.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-d76b9e97",
+    "num": "dailymirrorlk-d76b9e97",
+    "date_str": "2026-06-16",
+    "description": "Rs. 15Bn project launched to upgrade BIA Terminal 1",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rs-15Bn-project-launched-to-upgrade-BIA-Terminal-1/108-343093",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781617831.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-a88927bb",
+    "num": "dailymirrorlk-a88927bb",
+    "date_str": "2026-06-16",
+    "description": "Former Atamasthanadhipathi gives blood sample for DNA testing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Atamasthanadhipathi-gives-blood-sample-for-DNA-testing/108-343094",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781618526.0
   }
 ]
