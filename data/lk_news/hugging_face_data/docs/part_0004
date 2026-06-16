@@ -242952,6 +242952,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-b0a9fb72",
+    "num": "dailymirrorlk-b0a9fb72",
+    "date_str": "2026-06-16",
+    "description": "Sea turtle population under threat; Warn environmentalists",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sea-turtle-population-under-threat-Warn-environmentalists/108-343035",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781586828.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-16-dailymirrorlk-af286683",
     "num": "dailymirrorlk-af286683",
     "date_str": "2026-06-16",
@@ -243026,5 +243037,181 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781589726.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-df2e5852",
+    "num": "dailymirrorlk-df2e5852",
+    "date_str": "2026-06-16",
+    "description": "Magnitude 6.7 earthquake strikes near Indonesia\u2019s Palu",
+    "url_metadata": "https://www.dailymirror.lk/international/Magnitude-6-7-earthquake-strikes-near-Indonesias-Palu/107-343045",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781589904.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-0f9cce4f",
+    "num": "tamilmirrorlk-0f9cce4f",
+    "date_str": "2026-06-16",
+    "description": "\u0b95\u0ba9\u0ba4\u0bcd\u0ba4 \u0b87\u0ba4\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bb3\u0bae\u0bbf\u0bb1\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0b9c\u0bbf\u0ba4\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b95\u0ba9\u0ba4\u0bcd\u0ba4-\u0b87\u0ba4\u0baf\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bb3\u0bae\u0bbf\u0bb1\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0b85\u0b9c\u0bbf\u0ba4\u0bcd/54-378637",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781591129.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-8a192cb9",
+    "num": "tamilmirrorlk-8a192cb9",
+    "date_str": "2026-06-16",
+    "description": "\u0ba8\u0bbe\u0b9f\u0bc1 \u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd \u0b9f\u0bc6\u0bb2\u0bbf\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0b9f\u0bc1-\u0bae\u0bc1\u0bb4\u0bc1\u0bb5\u0ba4\u0bc1\u0bae\u0bcd-\u0b9f\u0bc6\u0bb2\u0bbf\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bcd-\u0b9a\u0bc6\u0baf\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0b9f\u0bc8/175-378638",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781591557.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-710bce2d",
+    "num": "tamilmirrorlk-710bce2d",
+    "date_str": "2026-06-16",
+    "description": "\u0b8a\u0b9f\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1  \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8a\u0b9f\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0bb1\u0bbf\u0bb5\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/175-378639",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781591565.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-4486d457",
+    "num": "dailymirrorlk-4486d457",
+    "date_str": "2026-06-16",
+    "description": "US gasoline slips below US$4 a gallon for first time since April",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-gasoline-slips-below-US-4-a-gallon-for-first-time-since-April/108-343053",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781591891.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-ff8e55bc",
+    "num": "tamilmirrorlk-ff8e55bc",
+    "date_str": "2026-06-16",
+    "description": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd  CHEC \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-CHEC-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b87\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-378640",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781591915.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-c6288ab9",
+    "num": "tamilmirrorlk-c6288ab9",
+    "date_str": "2026-06-16",
+    "description": "\u0ba8\u0bc1\u0bb0\u0bc8\u0b9a\u0bcd\u0b9a\u0bcb\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd  \u0ba8\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd \u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc1\u0bb0\u0bc8\u0b9a\u0bcd\u0b9a\u0bcb\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bb0\u0bbf-\u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd-\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8/46-378641",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781592302.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-e7ddc8c2",
+    "num": "dailymirrorlk-e7ddc8c2",
+    "date_str": "2026-06-16",
+    "description": "Bank of Japan raises interest rates to 31-year high",
+    "url_metadata": "https://www.dailymirror.lk/international/Bank-of-Japan-raises-interest-rates-to-31-year-high/107-343056",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781593840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-08edd66e",
+    "num": "dailymirrorlk-08edd66e",
+    "date_str": "2026-06-16",
+    "description": "Coal commission inspects Norochcholai power plant",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Coal-commission-inspects-Norochcholai-power-plant/108-343058",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781594343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-9a7485c4",
+    "num": "dailymirrorlk-9a7485c4",
+    "date_str": "2026-06-16",
+    "description": "Telegram blocked in India until June 22",
+    "url_metadata": "https://www.dailymirror.lk/international/Telegram-blocked-in-India-until-June-22/107-343059",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781594546.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-a5eac64a",
+    "num": "tamilmirrorlk-a5eac64a",
+    "date_str": "2026-06-16",
+    "description": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0ba9\u0bcd\u0b9f\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf-\u0b87\u0baf\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bbe\u0bb0\u0bcd\u0b9c\u0ba9\u0bcd\u0b9f\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-378643",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781595208.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-e9dfb11f",
+    "num": "dailymirrorlk-e9dfb11f",
+    "date_str": "2026-06-16",
+    "description": "SLAF concludes 5th Eagles\u2019 Quadrangle Cup at Sigiriya",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/SLAF-concludes-5th-Eagles-Quadrangle-Cup-at-Sigiriya/110-343060",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781595246.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-3dc7a66a",
+    "num": "tamilmirrorlk-3dc7a66a",
+    "date_str": "2026-06-16",
+    "description": "\u0b92\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbe\u0baf\u0bc8 \u0b85\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbf\u0baa\u0bb0\u0bc0\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd-\u0b95\u0bca\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbe\u0baf\u0bc8-\u0b85\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4-\u0bb5\u0bbf\u0baa\u0bb0\u0bc0\u0ba4\u0bae\u0bcd/175-378644",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781595652.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-d9651cbe",
+    "num": "tamilmirrorlk-d9651cbe",
+    "date_str": "2026-06-16",
+    "description": "\u0baa\u0ba4\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe: \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bc6\u0ba9  \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd \u0bae\u0ba9\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0baa\u0ba4\u0bb1\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe-\u0b95\u0bc8\u0ba4\u0bc1-\u0b9a\u0bc6\u0baf\u0bcd\u0baf-\u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bc6\u0ba9-\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bbf\u0bb2\u0bcd-\u0bae\u0ba9\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bb2\u0bcd/150-378645",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781595998.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-tamilmirrorlk-d8b026fc",
+    "num": "tamilmirrorlk-d8b026fc",
+    "date_str": "2026-06-16",
+    "description": "\u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bbf\u0baf \u0b95\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bb4\u0b95\u0bbf (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bc1-\u0b95\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bbf\u0ba9\u0bcd\u0ba9\u0bbf\u0baf-\u0b95\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0bb4\u0b95\u0bbf-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/50-378646",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781596118.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-1d4e2ec7",
+    "num": "dailymirrorlk-1d4e2ec7",
+    "date_str": "2026-06-16",
+    "description": "Gotabaya files writ petition to prevent arrest over Easter Sunday probes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gotabaya-files-writ-petition-to-prevent-arrest-over-Easter-Sunday-probes/108-343061",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781597438.0
   }
 ]

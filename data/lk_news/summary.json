@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-16 11:39:14",
-  "n_docs": 118452,
+  "time_updated": "2026-06-16 13:50:30",
+  "n_docs": 118469,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 118452,
+  "n_docs_with_text": 118469,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-16",
-  "dataset_size": 1846581423,
+  "dataset_size": 1847137647,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-16-dailymirrorlk-910d33f8",
-    "num": "dailymirrorlk-910d33f8",
+    "doc_id": "2026-06-16-dailymirrorlk-1d4e2ec7",
+    "num": "dailymirrorlk-1d4e2ec7",
     "date_str": "2026-06-16",
-    "description": "Experts urge responsible suicide reporting, warn on social media sharing",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Experts-urge-responsible-suicide-reporting-warn-on-social-media-sharing/108-343043",
+    "description": "Gotabaya files writ petition to prevent arrest over Easter Sunday probes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gotabaya-files-writ-petition-to-prevent-arrest-over-Easter-Sunday-probes/108-343061",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781589726.0
+    "time_ut": 1781597438.0
   }
 }
