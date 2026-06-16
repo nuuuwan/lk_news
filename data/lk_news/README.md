@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--16_04:26:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--16_06:53:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**118,383** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**118,402** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-16**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-16-virakesarilk-a91e8782",
-    "num": "virakesarilk-a91e8782",
+    "doc_id": "2026-06-16-dailyftlk-ca216b6c",
+    "num": "dailyftlk-ca216b6c",
     "date_str": "2026-06-16",
-    "description": "\u0baa\u0ba3\u0b9a\u0bcd \u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1: \u0baf\u0bcb\u0bb7\u0bbf\u0ba4\u0bcd\u0ba4 \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0bb3\u0bbe\u0baf\u0bcd\u0bb5\u0bc1 \u0bae\u0ba9\u0bc1 \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/250023",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1781563860.0
+    "description": "SLID launches Public Sector Forum to advance governance excellence in State-Owned Enterprises",
+    "url_metadata": "https://www.ft.lk/business/SLID-launches-Public-Sector-Forum-to-advance-governance-excellence-in-State-Owned-Enterprises/34-793378",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781569565.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-16 | `dailyftlk-ca216b6c` | SLID launches Public Sector Forum to advance governance excellence in State-Owned Enterprises | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailyftlk-ca216b6c)
+- 2026-06-16 | `dailyftlk-66bf6c29` | CID denies Sallay request for daily lawyer visits during hospitalisation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailyftlk-66bf6c29)
+- 2026-06-16 | `dailyftlk-108b9140` | Sajith welcomes reported US-Iran deal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailyftlk-108b9140)
+- 2026-06-16 | `dailyftlk-3dc05659` | Police warns foreigners about fake currency notes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailyftlk-3dc05659)
+- 2026-06-16 | `dailyftlk-8b52f93d` | Shehara De Silva headlines Sri Lanka’s presence at EY Entrepreneurial Winning Women 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailyftlk-8b52f93d)
+- 2026-06-16 | `dailyftlk-effe434a` | National virtual internship platform launches | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailyftlk-effe434a)
+- 2026-06-16 | `dailyftlk-52f287d5` | Alumex Expands Advanced Manufacturing Capabilities to Produce Best Global Brands of Aluminium Proprietary Systems with AI | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailyftlk-52f287d5)
+- 2026-06-16 | `dailyftlk-ba7fe2af` | Port City Colombo courts Gulf capital as South Asia gateway | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailyftlk-ba7fe2af)
 - 2026-06-16 | `virakesarilk-a91e8782` | பணச் சுத்திகரிப்பு வழக்கு: யோஷித்த ராஜபக்ஷவின் மீளாய்வு மனு இன்று விசாரணைக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-virakesarilk-a91e8782)
 - 2026-06-16 | `virakesarilk-8d434163` | குடிநீர் விலைக்கு கட்டுப்பாடு; எல் நினோவுக்கு முன்னெச்சரிக்கை – அமைச்சர் சுசில் ரணசிங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-virakesarilk-8d434163)
 - 2026-06-16 | `tamilmirrorlk-6b9677cd` | டில்லியை தாக்கிய புழுதிப் புயல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-tamilmirrorlk-6b9677cd)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-06-16 | `dailymirrorlk-aeb5da42` | Sea Street gold prices surge | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-aeb5da42)
 - 2026-06-16 | `dailymirrorlk-c2766f11` | Week begins in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-c2766f11)
 - 2026-06-16 | `dailymirrorlk-3bb9f585` | Buying momentum persists as global tensions ease | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-3bb9f585)
-- 2026-06-16 | `dailymirrorlk-28090a78` | Sierra Cables FY2025/26 revenue surpasses Rs.16bn and profit climbs 194% | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-28090a78)
-- 2026-06-16 | `dailymirrorlk-07e4f0b8` | Shehara De Silva headlines SL’s presence at EY annual conference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-07e4f0b8)
-- 2026-06-16 | `dailymirrorlk-4162a333` | Deepal Sri Lanka unveils S05 REEV; announces Changan’s NEVO Brand arrival | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-4162a333)
-- 2026-06-16 | `dailymirrorlk-ff7a46de` | Amana Bank expands to Balangoda with first SBC in Ratnapura District | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-ff7a46de)
-- 2026-06-16 | `dailymirrorlk-3797724b` | Port City Colombo Forum in Dubai positions Sri Lanka as South Asia’s gateway for UAE business expansion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-16-dailymirrorlk-3797724b)
-- 2026-06-15 | `dailyftlk-49e74b84` | What really happens when Rupee falls – and why Sri Lanka is asking the wrong question | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-dailyftlk-49e74b84)
-- 2026-06-15 | `virakesarilk-020f1484` | மாதுளனின் துல்லிய பந்துவீச்சால் சுப்பர் ஓவரில் இந்திய ஏ அணியை வீழ்த்தியது இலங்கை ஏ அணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-virakesarilk-020f1484)
-- 2026-06-15 | `tamilmirrorlk-0e869640` | பள்ளத்தாக்கில் பஸ் கவிழ்ந்ததில் 31 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-15-tamilmirrorlk-0e869640)
 
 ---
 

@@ -1,0 +1,57 @@
+Harmonising CBSL’s pragmatism with long-term structural freedom
+
+“The emergency measures of today have a way of becoming the permanent institutional arrangements of tomorrow, unless we actively dismantle them.” — Friedrich Hayek (Nobel Prize-winning Economist & Author of ‘The Road to Serfdom’)
+
+Parliament recently witnessed a fierce macroeconomic clash over the Central Bank of Sri Lanka’s (CBSL) latest Extraordinary Gazette, which accelerated the mandatory conversion of residual export proceeds by the 10th day of the following month. Main Opposition MP Dr. Harsha de Silva vehemently challenged the rationale, questioning whether Sri Lanka was declaring a psychological return to the “crisis era” of 2022–2024.
+
+Almost instantly, the financial markets responded: the Sri Lankan Rupee (LKR) strengthened sharply against the US Dollar, bouncing back to roughly Rs. 330. To the average observer, this creates a profound paradox. How can a policy be criticised as “draconian” and “anti-business” yet yield immediate, positive numerical results? The answer lies in a deep analytical blind spot that dominates public perception. My view is that the public is being forced to choose between two valid, yet seemingly contradictory, economic realities. In short, this article introduces a clear theoretical framework—”Macro-Structuralism vs. Micro-Pragmatism”—to establish new economic knowledge and elevate the conversation above routine political mudslinging.
+
+The Public Blind Spot: Why the Majority Misunderstands the Debate
+
+The fundamental reason the wider public struggles to comprehend this debate is that macroeconomic communication in Sri Lanka is routinely reduced to binary political theater. One side celebrates a strengthening rupee as an absolute victory; the other side decries capital controls as an absolute failure.
+
+In reality, the public fails to recognise that the CBSL and its critics are looking at two different halves of the exact same coin:
+
+· The CBSL operates in the immediate present, focusing on micro-market mechanics to prevent speculative currency hoarding.
+
+· The Opposition focuses on the future, prioritising structural reputation, investor predictability, and international market signals.
+
+Without an analytical framework that links these two perspectives, the public views the issue as a mere partisan disagreement, rather than a sophisticated technical trade-off between short-term stabilisation and long-term economic development.
+
+From a technical central banking perspective, the CBSL’s intervention was not only justified but textually necessary. As expectations of rising dollar demand grew—fuelled by discussions surrounding vehicle import liberalisations—exporters began acting as rational corporate agents. Anticipating a potential depreciation of the rupee, they held onto their foreign currency cushions.
+
+This behaviour, while commercially logical for individual firms, triggers a collective crisis: it starves the domestic market of dollar liquidity, creating an artificial shortage that forces the rupee down. When “moral suasion”—informal requests and agreements with commercial banks—fails to change corporate behaviour, the Central Bank must utilise its statutory power. By implementing a strict legal timeline, the CBSL shattered the speculative loop, forced hoarded liquidity back into the banking system, and protected the domestic economy from an inflationary currency shock.
+
+Conversely, Dr. Harsha de Silva’s critique carries significant weight when viewed through the lens of long-term investment attraction. His argument is built on Macro-Structuralism: the idea that a nation’s regulatory reputation dictates its future growth trajectory.
+
+In my view, forced conversion rules are indisputably crisis-management tools. When an economy enters a normalisation phase, continuing to deploy emergency administrative mandates signals to the global capital market that the domestic financial ecosystem remains fragile and unpredictable. If exporters feel their residual profits are subject to abrupt state appropriation, it introduces policy risk. The long-term danger is (i) capital flight (ii) businesses may under-invoice exports, (iii) delay legal repatriation, or shift their corporate headquarters to hyper-predictable regional hubs like Dubai or Singapore, structurally reducing Sri Lanka’s long-term foreign exchange inflows.
+
+To understand where Sri Lanka stands, we must look at how the rest of the world navigates this delicate balance (See Table 1):
+
+The global lesson is unambiguous: While administrative compulsion can serve as a temporary emergency buffer—a practice tolerated by the IMF during economic stabilisation phases—no nation has ever achieved sustainable, high-growth status by continuously dictating how private enterprises manage their residual revenue.
+
+This tension is not new; it mirrors the previous parliamentary friction regarding the abolition of the Simplified Value Added Tax (SVAT). Under pressure from the IMF to eliminate revenue leakages and tax evasion, the government dismantled SVAT. Dr. de Silva vigorously opposed this move at the time—a stance critics labelled as mere populism.
+
+However, I think that the structural link between the SVAT debate and the current export conversion mandate is undeniable. By abolishing SVAT, the state forced exporters to pay taxes on inputs upfront and wait indefinitely for bureaucratic refunds, locking up their domestic liquidity. Now, by tightening the conversion rule, the state is simultaneously restricting its foreign-currency liquidity. When a government squeezes a country’s primary engine of growth—its exporters—from both the domestic tax and foreign-exchange sides, it risks stalling the very development initiatives it aims to protect.
+
+The path to true, sustainable economic growth requires transitioning from regulatory coercion to institutional stability. The CBSL’s strict conversion directive should not be viewed as a permanent feature of Sri Lanka’s economic policy, but rather as temporary stabilising scaffolding.
+
+To balance immediate financial safety with long-term investor confidence, I think that the state must implement a benchmark-driven policy framework:
+
+· Conditional Sunset Clauses: The CBSL should formally tie the expiration of the mandatory 30-day conversion rule to clear, objective macroeconomic milestones—such as reaching six months of import reserve cover. This transforms a “draconian rule” into a predictable, transparent transitional mechanism.
+
+· Automated VAT Refund Bridges: To alleviate the cash-flow pressure caused by the removal of SVAT, the Ministry of Finance must implement an automated, digital tax-refund system that guarantees input refunds to compliant exporters within 14 days. If the state demands its dollars quickly, it must return its tax cash flows just as rapidly.
+
+· Incentive-Driven Retention (Moving from Force to Reward): Instead of using legal mandates to force dollar conversion, the financial system should use market rewards. Commercial banks must design competitive, inflation-adjusted, rupee-denominated investment products specifically tailored for exporters. To a business, money behaves like water—it flows where it is treated best. If the Central Bank manages the domestic currency competently so it holds its value, and commercial banks offer attractive, high-yielding rupee accounts that beat inflation, market players will choose to convert their dollars voluntarily to maximize their profits. When the rupee becomes a lucrative asset to hold, draconian administrative mandates naturally become obsolete.
+
+The ongoing debate in Parliament over the Central Bank of Sri Lanka’s (CBSL) sudden tightening of export proceeds conversion rules highlights a fundamental tension in national policy. While the main Opposition, represented by Dr. Harsha de Silva, warns that forced residual conversions mark a return to “crisis-era” draconian dictates that deter investors, the CBSL’s actions have curbed exchange-rate speculation and stabilised the rupee. This article argues that the general public is trapped in an unnecessary dichotomy because political discourse fails to separate Micro-Pragmatic FX liquidity management from Macro-Structural economic signalling. In my view, by transitioning from regulatory compulsion to institutionalised trust, Sri Lanka can balance short-term currency stability with long-term, export-led growth. This is our aspiration.
+
+Ultimately, a country cannot build a competitive, export-led economy on a foundation of legal mandates and constant regulatory interventions. While the Central Bank fulfilled its immediate duty by intervening to break a speculative cycle and defend the rupee, the Opposition’s warnings about investor psychology are valid.
+
+True economic modernisation requires recognising that short-term micro-pragmatism and long-term macro-structuralism are not mutually exclusive. By converting the current restrictive mandates into a transparent, transitional framework supported by aggressive tax digitization, Sri Lanka can move beyond reactionary crisis management. In my view, the ultimate goal of national economic planning must be to cultivate an environment in which local and international capital remains in the country, not because a Gazette mandates it, but because institutional trust demands it.
+
+(The writer, among many, served as the Special Advisor to the Office of the President of Namibia, from 2006 to 2012, and was a Senior Consultant with the UNDP for 20 years. He was a Senior Economist with the Central Bank of Sri Lanka (1972-1993). He can be reached via asoka.seneviratne@gmail.com)
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

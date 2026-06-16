@@ -237078,6 +237078,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-12-islandlk-7ccc2096",
+    "num": "islandlk-7ccc2096",
+    "date_str": "2026-06-12",
+    "description": "School dropouts",
+    "url_metadata": "http://island.lk/school-dropouts/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781284200.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-12-tamilmirrorlk-b6444f5a",
     "num": "tamilmirrorlk-b6444f5a",
     "date_str": "2026-06-12",
@@ -238574,6 +238585,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-13-islandlk-37c4a395",
+    "num": "islandlk-37c4a395",
+    "date_str": "2026-06-13",
+    "description": "The NPP\u2019s Constitutional Reforms: Purposes and Processes",
+    "url_metadata": "http://island.lk/the-npps-constitutional-reforms-purposes-and-processes/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781363880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-13-islandlk-d71f5096",
+    "num": "islandlk-d71f5096",
+    "date_str": "2026-06-13",
+    "description": "Inside Xi\u2019s Pyongyang Doctrine",
+    "url_metadata": "http://island.lk/inside-xis-pyongyang-doctrine/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781363880.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-13-adalk-dd1fc303",
     "num": "adalk-dd1fc303",
     "date_str": "2026-06-13",
@@ -239718,6 +239751,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-14-islandlk-dd3e68e6",
+    "num": "islandlk-dd3e68e6",
+    "date_str": "2026-06-14",
+    "description": "Sri Lanka lands a spot in elite Global Actuarial Boot Camp",
+    "url_metadata": "http://island.lk/sri-lanka-lands-a-spot-in-elite-global-actuarial-boot-camp/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781438820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-islandlk-894991d9",
+    "num": "islandlk-894991d9",
+    "date_str": "2026-06-14",
+    "description": "ADB delivers rapid support as Middle East impact spreads",
+    "url_metadata": "http://island.lk/adb-delivers-rapid-support-as-middle-east-impact-spreads/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781438880.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-14-virakesarilk-10e8f8f0",
     "num": "virakesarilk-10e8f8f0",
     "date_str": "2026-06-14",
@@ -239905,6 +239960,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-14-islandlk-4d1a538d",
+    "num": "islandlk-4d1a538d",
+    "date_str": "2026-06-14",
+    "description": "Research highlights need to empower tea smallholders for a climate-resilient future",
+    "url_metadata": "http://island.lk/research-highlights-need-to-empower-tea-smallholders-for-a-climate-resilient-future/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781444880.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-14-virakesarilk-fdac9e90",
     "num": "virakesarilk-fdac9e90",
     "date_str": "2026-06-14",
@@ -239990,6 +240056,17 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1781451050.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-14-islandlk-d3a24038",
+    "num": "islandlk-d3a24038",
+    "date_str": "2026-06-14",
+    "description": "Harmonising CBSL\u2019s pragmatism with long-term structural freedom",
+    "url_metadata": "http://island.lk/harmonising-cbsls-pragmatism-with-long-term-structural-freedom/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781452080.0
   },
   {
     "doc_type": "lk_news",
@@ -242061,6 +242138,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-15-islandlk-32ff605b",
+    "num": "islandlk-32ff605b",
+    "date_str": "2026-06-15",
+    "description": "\u201870s Pop Hits & Baila\u2019",
+    "url_metadata": "http://island.lk/70s-pop-hits-baila/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781545320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-islandlk-5d76d5bd",
+    "num": "islandlk-5d76d5bd",
+    "date_str": "2026-06-15",
+    "description": "Stock market benchmark index rises in the wake of M-E peace deal news",
+    "url_metadata": "http://island.lk/stock-market-benchmark-index-rises-in-the-wake-of-m-e-peace-deal-news/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781545620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-islandlk-6471fe39",
+    "num": "islandlk-6471fe39",
+    "date_str": "2026-06-15",
+    "description": "CanCham to launch dialogue on women\u2019s economic empowerment and SME growth",
+    "url_metadata": "http://island.lk/cancham-to-launch-dialogue-on-womens-economic-empowerment-and-sme-growth/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781545680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-islandlk-656fb571",
+    "num": "islandlk-656fb571",
+    "date_str": "2026-06-15",
+    "description": "GPPAC multistakeholder forum at RCSS highlights climate-disaster vulnerability and need for community-centred solutions in Sri Lanka",
+    "url_metadata": "http://island.lk/gppac-multistakeholder-forum-at-rcss-highlights-climate-disaster-vulnerability-and-need-for-community-centred-solutions-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781545740.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-15-virakesarilk-020f1484",
     "num": "virakesarilk-020f1484",
     "date_str": "2026-06-15",
@@ -242267,5 +242388,93 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1781563860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailyftlk-ba7fe2af",
+    "num": "dailyftlk-ba7fe2af",
+    "date_str": "2026-06-16",
+    "description": "Port City Colombo courts Gulf capital as South Asia gateway",
+    "url_metadata": "https://www.ft.lk/business/Port-City-Colombo-courts-Gulf-capital-as-South-Asia-gateway/34-793367",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781567448.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailyftlk-52f287d5",
+    "num": "dailyftlk-52f287d5",
+    "date_str": "2026-06-16",
+    "description": "Alumex Expands Advanced Manufacturing Capabilities to Produce Best Global Brands of Aluminium Proprietary Systems with AI",
+    "url_metadata": "https://www.ft.lk/business/Alumex-Expands-Advanced-Manufacturing-Capabilities-to-Produce-Best-Global-Brands-of-Aluminium-Proprietary-Systems-with-AI/34-793372",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781568438.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailyftlk-effe434a",
+    "num": "dailyftlk-effe434a",
+    "date_str": "2026-06-16",
+    "description": "National virtual internship platform launches",
+    "url_metadata": "https://www.ft.lk/business/National-virtual-internship-platform-launches/34-793373",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781568673.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailyftlk-8b52f93d",
+    "num": "dailyftlk-8b52f93d",
+    "date_str": "2026-06-16",
+    "description": "Shehara De Silva headlines Sri Lanka\u2019s presence at EY Entrepreneurial Winning Women 2026",
+    "url_metadata": "https://www.ft.lk/business/Shehara-De-Silva-headlines-Sri-Lanka-s-presence-at-EY-Entrepreneurial-Winning-Women-2026/34-793374",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781568865.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailyftlk-3dc05659",
+    "num": "dailyftlk-3dc05659",
+    "date_str": "2026-06-16",
+    "description": "Police warns foreigners about fake currency notes",
+    "url_metadata": "https://www.ft.lk/news/Police-warns-foreigners-about-fake-currency-notes/56-793375",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781568951.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailyftlk-108b9140",
+    "num": "dailyftlk-108b9140",
+    "date_str": "2026-06-16",
+    "description": "Sajith welcomes reported US-Iran deal",
+    "url_metadata": "https://www.ft.lk/news/Sajith-welcomes-reported-US-Iran-deal/56-793376",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781569040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailyftlk-66bf6c29",
+    "num": "dailyftlk-66bf6c29",
+    "date_str": "2026-06-16",
+    "description": "CID denies Sallay request for daily lawyer visits during hospitalisation",
+    "url_metadata": "https://www.ft.lk/news/CID-denies-Sallay-request-for-daily-lawyer-visits-during-hospitalisation/56-793377",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781569251.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailyftlk-ca216b6c",
+    "num": "dailyftlk-ca216b6c",
+    "date_str": "2026-06-16",
+    "description": "SLID launches Public Sector Forum to advance governance excellence in State-Owned Enterprises",
+    "url_metadata": "https://www.ft.lk/business/SLID-launches-Public-Sector-Forum-to-advance-governance-excellence-in-State-Owned-Enterprises/34-793378",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781569565.0
   }
 ]
