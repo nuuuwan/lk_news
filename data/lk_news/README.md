@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--18_02:34:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--18_04:21:55-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**118,751** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**118,752** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-18-virakesarilk-f0cae12e",
-    "num": "virakesarilk-f0cae12e",
+    "doc_id": "2026-06-18-tamilmirrorlk-29c1ef4b",
+    "num": "tamilmirrorlk-29c1ef4b",
     "date_str": "2026-06-18",
-    "description": "\u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd \u0bb0\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe, \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b85\u0ba3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b95\u0bc1\u0bb5\u0bbe\u0ba9 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf",
-    "url_metadata": "https://www.virakesari.lk/article/250223",
+    "description": "\u0baa\u0bc0\u0b83\u0baa\u0bbe \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0baa\u0bcb\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bcd\u0bb2\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9 \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc8\u0b9a\u0bcd \u0b9a\u0bae\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bca\u0b99\u0bcd\u0b95\u0bcb",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0baa\u0bc0\u0b83\u0baa\u0bbe-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0baa\u0bcb\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bcd\u0bb2\u0bc1\u0b9f\u0ba9\u0bbe\u0ba9-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc8\u0b9a\u0bcd-\u0b9a\u0bae\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0b95\u0bca\u0b99\u0bcd\u0b95\u0bcb/44-378737",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1781722800.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781723578.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-18 | `tamilmirrorlk-29c1ef4b` | பீஃபா உலகக் கிண்ணம்: போர்த்துக்கல்லுடனான போட்டியைச் சமப்படுத்திய கொங்கோ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-18-tamilmirrorlk-29c1ef4b)
 - 2026-06-18 | `virakesarilk-f0cae12e` | மகளிர் ரி20 உலகக் கிண்ணத்தில் இந்தியா, அவுஸ்திரேலியா அணிகளுக்கு இலகுவான வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-18-virakesarilk-f0cae12e)
 - 2026-06-17 | `virakesarilk-ae8e50ef` | ஏ அணிகள் மும்முனை ஒருநாள் தொடர் இறுதிப் போட்டியில் விளையாட இந்தியா தகுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-virakesarilk-ae8e50ef)
 - 2026-06-17 | `virakesarilk-a9fc56f4` | காங்கேசன்துறையில் தங்கம் கடத்தல் சந்தேகம்: 26 பயணிகள் தடுத்து நிறுத்தப்பட்டு விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-virakesarilk-a9fc56f4)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-06-17 | `dailymirrorlk-f215fddf` | Customs seize Rs. 250m smuggled goods | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-f215fddf)
 - 2026-06-17 | `dailymirrorlk-8503ab4a` | ’I’m the boss’, Trump tells G7 counterparts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-8503ab4a)
 - 2026-06-17 | `dailymirrorlk-d3d497d5` | India 'A' power into Tri-Series Final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-d3d497d5)
-- 2026-06-17 | `dailymirrorlk-cc086b50` | Profit-taking erases early gains as market ends mixed; banking sector leads activity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-cc086b50)
 
 ---
 
