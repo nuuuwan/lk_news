@@ -1,0 +1,45 @@
+Telegram challenges India ban over exam paper leak fears
+
+BBC - Telegram has taken the Indian government to court over its decision to temporarily ban the messaging platform days before millions of students retake a crucial medical entrance examination.
+
+The company challenged the decision on Wednesday, a day after officials blocked access to the app over concerns it had been used to distribute leaked exam papers.
+
+The government says the move will protect the integrity of the exam, which is due to be held again on Sunday after last month's test was cancelled over allegations of a paper leak.
+
+But Telegram CEO Pavel Durov has called the ban a "mistake", arguing it would punish millions of users while doing little to stop those responsible for the leaks.
+
+Lawyers for the company mentioned the matter before the Delhi High Court on Wednesday, legal website Live Law reported. The judge has agreed to hear the case later in the day.
+
+The development comes after Durov wrote a post on X criticising the ban and arguing that it would not "stop anything", as those responsible for the leak would have already moved to other apps.
+
+Calling Telegram a "force for good", he said the platform had "removed hundreds of channels sharing leaked exam materials and related scams in India" in recent weeks.
+
+He added that Telegram was making its "edited" label more prominent to help prevent backdating scams.
+
+The controversy stems from allegations that question papers for the National Eligibility-cum-Entrance Test (NEET) - India's largest medical entrance examination taken by millions of students each year - were leaked before the test was held last month.
+
+The case is being investigated by the Central Bureau of Investigation (CBI), and more than a dozen people have been arrested so far.
+
+The cancellation of the exam sparked protests across India, with students, activists and opposition leaders highlighting what they said were deep-rooted problems in the country's examination system.
+
+A retest is scheduled for Sunday and local media reports say Indian Air Force aircraft and helicopters will be used to transport examination papers.
+
+The National Testing Agency (NTA), which conducts NEET, has defended the ban on Telegram, saying it was imposed in response to the "organised use of the platform by cheating rackets to defraud candidates", although it acknowledged the "inconvenience" it would cause users who rely on it for "legitimate personal, educational, professional and informational purposes".
+
+Telegram has more than 150 million active users in India, according to the company, and many rely on the app not only for messaging but also to access educational content through large public groups and channels.
+
+The restriction was issued under a provision of India's IT law that allows the government to block access to online platforms in the interests of the country's "sovereignty and integrity".
+
+The move is the first such ban in India and has sparked debate over whether blocking a platform used by millions is an effective way to tackle examination fraud.
+
+Tech analyst Nikhil Pahwa said many businesses relied on Telegram communities to connect with customers.
+
+"Now for exams you're blocking a messaging platform nationwide. The same activity can happen on WhatsApp and Discord. Will you block that too?" he wrote on X.
+
+Opposition leader Mallikarjun Kharge, from the Congress party, said Prime Minister Narendra Modi should "first demand the resignation of his Education Minister Dharmendra Pradhan, who has blocked the future of millions of young people".
+
+Many users on social media said they depended on Telegram for free study material and could not afford to pay for more expensive alternatives.
+
+Some students supported the move, but said authorities should focus on those responsible for the leak.
+
+"This is a good step, but the main focus should be on the root cause. Those who indulge in leaking examination papers should be identified," one aspirant told news agency ANI.

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--17_13:45:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--17_16:15:11-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**118,665** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.8 GB**), from **2021-09-12** to **2026-06-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**118,678** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-17-tamilmirrorlk-d9e1e0e6",
-    "num": "tamilmirrorlk-d9e1e0e6",
+    "doc_id": "2026-06-17-virakesarilk-d4cbf669",
+    "num": "virakesarilk-d4cbf669",
     "date_str": "2026-06-17",
-    "description": "\u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bc7\u0b9f\u0bbf \u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8 : \u0b85\u0b95\u0bb4\u0bcd\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba4\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8-\u0ba4\u0bc7\u0b9f\u0bbf-\u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8-\u0b85\u0b95\u0bb4\u0bcd\u0bb5\u0bc1\u0baa\u0bcd-\u0baa\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-378701",
+    "description": "\u0baf\u0bcb\u0bb7\u0bbf\u0ba4\u0bcd\u0ba4 \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u200c\u0bb7\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0ba3\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/250193",
     "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1781681179.0
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781692860.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-17 | `virakesarilk-d4cbf669` | யோஷித்த ராஜபக்‌ஷவுக்குப் பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-virakesarilk-d4cbf669)
+- 2026-06-17 | `virakesarilk-35d03223` | சிரேஷ்ட பிரதிப் பொலிஸ்மா அதிபர் வருண ஜயசுந்தரவை கைது செய்யும் தீர்மானமில்லை - சட்டமா அதிபர் உறுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-virakesarilk-35d03223)
+- 2026-06-17 | `virakesarilk-548b1961` | போதைப்பொருள் சந்தேகநபரின் பெறுமதியான சொத்துக்கள் பறிமுதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-virakesarilk-548b1961)
+- 2026-06-17 | `tamilmirrorlk-28cd97b9` | சட்டவிரோத புத்தர் சிலை: மூவருக்கு அபராதம்; இருவருக்கு பிடியாணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-28cd97b9)
+- 2026-06-17 | `tamilmirrorlk-d7940e09` | பஷில் ராஜபக்ஷவை கைது செய்ய   உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-d7940e09)
+- 2026-06-17 | `tamilmirrorlk-1b52e72a` | கோட்டாவின் மனு மீதான விசாரணை ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-1b52e72a)
+- 2026-06-17 | `dailymirrorlk-e2563af2` | Gotabaya’s writ petition fixed for tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-e2563af2)
+- 2026-06-17 | `tamilmirrorlk-fdca5067` | லொறி மீது உர லொறி கவிழ்ந்ததில் இருவர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-fdca5067)
+- 2026-06-17 | `dailymirrorlk-407cffc2` | Telegram challenges India ban over exam paper leak fears | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-407cffc2)
+- 2026-06-17 | `dailymirrorlk-568473a2` | Foreign remittances up 32% in May | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-568473a2)
+- 2026-06-17 | `dailymirrorlk-b6e195df` | BCCI’s direct message to Vaibhav Sooryavanshi after fight with Sri Lankan players: ’Media watch...’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-b6e195df)
+- 2026-06-17 | `dailymirrorlk-d73a8769` | Rs. 1bn approved to upgrade school hostels | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-d73a8769)
 - 2026-06-17 | `tamilmirrorlk-d9e1e0e6` | புலிகளின் தங்கத்தை தேடி வேட்டை : அகழ்வுப் பணியில் ஏமாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-d9e1e0e6)
+- 2026-06-17 | `dailymirrorlk-9b592c86` | Blood donation drive... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-9b592c86)
 - 2026-06-17 | `tamilmirrorlk-dcbb7d3b` | மயானத்தில் ஒரு நள்ளிரவு: புதைக்குழியை தோண்டி தொவில் ஆடிய சூனியக்காரர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-dcbb7d3b)
 - 2026-06-17 | `dailymirrorlk-922c8e3b` | Lion cub viewing at Dehiwala zoo ends June 21 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-922c8e3b)
 - 2026-06-17 | `adalk-08193425` | 2026-06-17 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-adalk-08193425)
 - 2026-06-17 | `adalk-edd2cf22` | ශ්‍රී ලංකා තැපෑලට ස්ථිර උප තැපැල් ස්ථානාධිපතිවරුන් 192ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-adalk-edd2cf22)
 - 2026-06-17 | `tamilmirrorlk-b50547b1` | சலே மீது சி.ஐ.டி. சித்திரவதை: மனைவி மனோரி குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-b50547b1)
 - 2026-06-17 | `tamilmirrorlk-f54af213` | யோஷித்த ராஜபக்ஷ கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-f54af213)
-- 2026-06-17 | `dailymirrorlk-4b38e957` | CID admits to stripping, conducting deep invasive search on Suresh Sallay, reveals wife | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-4b38e957)
-- 2026-06-17 | `dailymirrorlk-ee35fa62` | Bribery Commission arrests Yoshitha over Navy probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-ee35fa62)
-- 2026-06-17 | `dailymirrorlk-202b8483` | Cardinal Malcolm Ranjith never had prior knowledge on Easter Sunday attacks: Fr. Cyril Gamini | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-202b8483)
-- 2026-06-17 | `dailymirrorlk-d876bd77` | Sri Lanka unveils NEDP 2026–2030 aiming for US$ 36 billion export target | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-d876bd77)
-- 2026-06-17 | `adalk-847cfe28` | ශ්‍රී ලංකාවේ ජාතික අපනයන සංවර්ධන සැලැස්ම දියත් වේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-adalk-847cfe28)
-- 2026-06-17 | `dailymirrorlk-d6c6d23d` | Serious shortage of essential and priority medicines in state hospitals – Health data shows | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-d6c6d23d)
-- 2026-06-17 | `dailymirrorlk-07ff8509` | Ministry introduces healthy school canteen guidelines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-07ff8509)
-- 2026-06-17 | `tamilmirrorlk-e60cd415` | கோட்டாவின் ரிட்மனு  இன்று விசாரணை: நீதியரசர் விலகினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-e60cd415)
-- 2026-06-17 | `dailymirrorlk-24e08e6c` | Sri Lanka loses Rs. 9.4bn in tobacco tax revenue amid shifting market trends - report | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-24e08e6c)
-- 2026-06-17 | `tamilmirrorlk-8ba05dc4` | தென்கிழக்கு  பல்கலைக்கழக முதுமானிகளுக்கு இந்தியாவில் வதிவிடப் பயிற்சி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-8ba05dc4)
-- 2026-06-17 | `dailymirrorlk-e07d7f8b` | Gotabaya’s writ petition to be heard today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-e07d7f8b)
-- 2026-06-17 | `dailymirrorlk-2bfd5546` | Department of War restores U.S. Pacific Command designation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-2bfd5546)
-- 2026-06-17 | `dailymirrorlk-54631363` | Iranian tankers exit U.S. blockade ahead of deal signing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-54631363)
 
 ---
 
