@@ -245900,6 +245900,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-17-adalk-3c935c61",
+    "num": "adalk-3c935c61",
+    "date_str": "2026-06-17",
+    "description": "\u0db8\u0dd4\u0daf\u0dbd\u0dca \u0db1\u0ddc\u0d9c\u0dd9\u0dc0\u0dd3\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0d9c\u0dbd\u0dca  \u0d85\u0d9f\u0dd4\u0dbb\u0dd4 \u0db1\u0dd0\u0dc0\u0d9a\u0dca \u0d9c\u0ddc\u0da9\u0db6\u0dd1\u0db8\u0d9a\u0dd2\u0db1\u0dca \u0dad\u0ddc\u0dbb\u0dc0 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0db1\u0ddc\u0d9c\u0dd9\u0dc0\u0dd3\u0db8-\u0db1\u0dd2\u0dc3\u0dcf-\u0d9c\u0dbd\u0dca--\u0d85\u0d9f\u0dd4\u0dbb\u0dd4-\u0db1\u0dd0\u0dc0\u0d9a\u0dca-\u0d9c\u0ddc\u0da9\u0db6\u0dd1\u0db8\u0d9a\u0dd2\u0db1\u0dca-\u0dad\u0ddc\u0dbb\u0dc0-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0dba\u0dba\u0dd2/11-422890",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781699977.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-17-tamilmirrorlk-51cecdfd",
     "num": "tamilmirrorlk-51cecdfd",
     "date_str": "2026-06-17",
@@ -246095,5 +246106,60 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781709237.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-tamilmirrorlk-2678dc11",
+    "num": "tamilmirrorlk-2678dc11",
+    "date_str": "2026-06-17",
+    "description": "\u0b93\u0ba4\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd \u0b9a\u0bc1\u0bb5\u0bbe\u0bae\u0bbf\u0ba8\u0bbe\u0ba4\u0ba9\u0bcd \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0ba4\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd-\u0b9a\u0bc1\u0bb5\u0bbe\u0bae\u0bbf\u0ba8\u0bbe\u0ba4\u0ba9\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb0\u0bc1\u0b95\u0bc8/175-378721",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781709859.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-tamilmirrorlk-1b1ec110",
+    "num": "tamilmirrorlk-1b1ec110",
+    "date_str": "2026-06-17",
+    "description": "\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf \u0ba4\u0bc7\u0bb5\u0ba4\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba8\u0bc0\u0ba4\u0bbf-\u0ba4\u0bc7\u0bb5\u0ba4\u0bc8/62-378722",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781710540.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-tamilmirrorlk-b43108d0",
+    "num": "tamilmirrorlk-b43108d0",
+    "date_str": "2026-06-17",
+    "description": "\u0ba8\u0bb5\u0bc0\u0ba9 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bca\u0b9f\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bb5\u0bc0\u0ba9-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0b9a\u0bcd\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bca\u0b9f\u0bbf/175-378723",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781711064.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-9229fcf1",
+    "num": "dailymirrorlk-9229fcf1",
+    "date_str": "2026-06-17",
+    "description": "DVT emerging as \u2018silent killer\u2019 among young due to sedentary lifestyles, doctors warn",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/DVT-emerging-as-silent-killer-among-young-due-to-sedentary-lifestyles-doctors-warn/108-343211",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781711812.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-d00f4684",
+    "num": "dailymirrorlk-d00f4684",
+    "date_str": "2026-06-17",
+    "description": "Trump threatens to resume bombing campaign if Iran does not \u2019\u2019behave\u2019\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-threatens-to-resume-bombing-campaign-if-Iran-does-not-behave/108-343212",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781712272.0
   }
 ]
