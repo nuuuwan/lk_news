@@ -245933,6 +245933,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-5cb05011",
+    "num": "virakesarilk-5cb05011",
+    "date_str": "2026-06-17",
+    "description": "\u0b9a\u0bb2\u0bc7\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bc7 \u0ba4\u0baa\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0baf\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf! - \u0b9a\u0bae\u0bc0\u0bb0 \u0baa\u0bc6\u0bb0\u0bc7\u0bb0\u0bbe",
+    "url_metadata": "https://www.virakesari.lk/article/250212",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781701320.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-17-dailymirrorlk-b90fdcb0",
     "num": "dailymirrorlk-b90fdcb0",
     "date_str": "2026-06-17",
@@ -245955,6 +245966,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-bb4c6ab7",
+    "num": "virakesarilk-bb4c6ab7",
+    "date_str": "2026-06-17",
+    "description": "\u0b95\u0bae\u0bcd\u0bae\u0ba9\u0bcd\u0baa\u0bbf\u0bb2 \u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0ba9 \u0ba8\u0bb2\u0bcd\u0bb2\u0bbf\u0ba3\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc0\u0bb0\u0bcd\u0b95\u0bc1\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd! \u2013 \u0b85\u0bb0\u0bc1\u0b9f\u0bcd\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8 \u0b9a\u0bbf\u0bb1\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0bae\u0bbf\u0ba9\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/250213",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781702220.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-17-dailymirrorlk-0f884007",
     "num": "dailymirrorlk-0f884007",
     "date_str": "2026-06-17",
@@ -245963,5 +245985,115 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781702862.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-cc086b50",
+    "num": "dailymirrorlk-cc086b50",
+    "date_str": "2026-06-17",
+    "description": "Profit-taking erases early gains as market ends mixed; banking sector leads activity",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Profit-taking-erases-early-gains-as-market-ends-mixed-banking-sector-leads-activity/108-343205",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781703356.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-d3d497d5",
+    "num": "dailymirrorlk-d3d497d5",
+    "date_str": "2026-06-17",
+    "description": "India 'A' power into Tri-Series Final",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-A-power-into-Tri-Series-Final/108-343206",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781704018.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-8503ab4a",
+    "num": "dailymirrorlk-8503ab4a",
+    "date_str": "2026-06-17",
+    "description": "\u2019I\u2019m the boss\u2019, Trump tells G7 counterparts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Im-the-boss-Trump-tells-G7-counterparts/108-343207",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781704294.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-f215fddf",
+    "num": "dailymirrorlk-f215fddf",
+    "date_str": "2026-06-17",
+    "description": "Customs seize Rs. 250m smuggled goods",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Customs-seize-Rs-250m-smuggled-goods/110-343208",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781704362.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-ab9f2073",
+    "num": "virakesarilk-ab9f2073",
+    "date_str": "2026-06-17",
+    "description": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8 \u2018\u0b95\u0ba9\u0bcd \u0b9a\u0bc8\u0b9f\u0bcd\u2019 \u0b87\u0bb0\u0b95\u0b9a\u0bbf\u0baf \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bcd \u0b9a\u0bc0\u0bb2\u0bcd : \u0ba8\u0bc0\u0ba4\u0bbf\u0bb5\u0bbe\u0ba9\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 \u0ba8\u0bc7\u0bb0\u0bbf\u0bb2\u0bcd \u0baa\u0bb0\u0bbf\u0b9a\u0bcb\u0ba4\u0ba9\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/250215",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781706540.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-7e1b52bb",
+    "num": "virakesarilk-7e1b52bb",
+    "date_str": "2026-06-17",
+    "description": "\u0baa\u0bca\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0bb1\u0bb2\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bb3\u0bc8\u0ba4\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc6\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd; \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0bb5\u0bb2\u0bbf\u0baf\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 - \u0b90.\u0ba8\u0bbe \u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0b89\u0baf\u0bb0\u0bcd\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0b95\u0bb0\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/250216",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781706780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-d601d201",
+    "num": "dailymirrorlk-d601d201",
+    "date_str": "2026-06-17",
+    "description": "Sathosa reduces prices of essential goods islandwide",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sathosa-reduces-prices-of-essential-goods-islandwide/108-343209",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781707301.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-b2a4d44b",
+    "num": "virakesarilk-b2a4d44b",
+    "date_str": "2026-06-17",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0bae\u0ba9\u0bbf\u0ba4 \u0baa\u0bc1\u0ba4\u0bc8\u0b95\u0bc1\u0bb4\u0bbf\u0baf\u0bbe\u0b95 \u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf \u0bae\u0ba9\u0bbf\u0ba4 \u0baa\u0bc1\u0ba4\u0bc8\u0b95\u0bc1\u0bb4\u0bbf \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0ba9\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/250217",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781707320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-7c364f18",
+    "num": "dailymirrorlk-7c364f18",
+    "date_str": "2026-06-17",
+    "description": "Iran sends tankers loaded with oil past US military blockade",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-sends-tankers-loaded-with-oil-past-US-military-blockade/108-343210",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781708126.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-tamilmirrorlk-347c1d23",
+    "num": "tamilmirrorlk-347c1d23",
+    "date_str": "2026-06-17",
+    "description": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bcd : \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3-\u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/76-378720",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781709237.0
   }
 ]

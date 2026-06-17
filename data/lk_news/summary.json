@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-17 19:06:54",
-  "n_docs": 118719,
+  "time_updated": "2026-06-17 20:54:23",
+  "n_docs": 118731,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 118719,
+  "n_docs_with_text": 118731,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-17",
-  "dataset_size": 1850551829,
+  "dataset_size": 1850931510,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-17-dailymirrorlk-0f884007",
-    "num": "dailymirrorlk-0f884007",
+    "doc_id": "2026-06-17-tamilmirrorlk-347c1d23",
+    "num": "tamilmirrorlk-347c1d23",
     "date_str": "2026-06-17",
-    "description": "Expressway seat belt rule: Grace period ends June 19",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Expressway-seat-belt-rule-Grace-period-ends-June-19/108-343204",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781702862.0
+    "description": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bcd : \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0ba3-\u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bbf\u0bb2\u0bcd-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd/76-378720",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781709237.0
   }
 }
