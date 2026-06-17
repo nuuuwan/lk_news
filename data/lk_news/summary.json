@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-18 00:40:43",
-  "n_docs": 118737,
+  "time_updated": "2026-06-18 02:33:47",
+  "n_docs": 118751,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 118737,
+  "n_docs_with_text": 118751,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-06-17",
-  "dataset_size": 1851178052,
+  "date_str_max": "2026-06-18",
+  "dataset_size": 1851297319,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-17-dailymirrorlk-d00f4684",
-    "num": "dailymirrorlk-d00f4684",
-    "date_str": "2026-06-17",
-    "description": "Trump threatens to resume bombing campaign if Iran does not \u2019\u2019behave\u2019\u2019",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-threatens-to-resume-bombing-campaign-if-Iran-does-not-behave/108-343212",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781712272.0
+    "doc_id": "2026-06-18-virakesarilk-f0cae12e",
+    "num": "virakesarilk-f0cae12e",
+    "date_str": "2026-06-18",
+    "description": "\u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd \u0bb0\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe, \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b85\u0ba3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b95\u0bc1\u0bb5\u0bbe\u0ba9 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/250223",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781722800.0
   }
 }

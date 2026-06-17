@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--18_00:41:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--18_02:34:44-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**118,737** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-17**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**118,751** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-18**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-17-dailymirrorlk-d00f4684",
-    "num": "dailymirrorlk-d00f4684",
-    "date_str": "2026-06-17",
-    "description": "Trump threatens to resume bombing campaign if Iran does not \u2019\u2019behave\u2019\u2019",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-threatens-to-resume-bombing-campaign-if-Iran-does-not-behave/108-343212",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781712272.0
+    "doc_id": "2026-06-18-virakesarilk-f0cae12e",
+    "num": "virakesarilk-f0cae12e",
+    "date_str": "2026-06-18",
+    "description": "\u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd \u0bb0\u0bbf20 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe, \u0b85\u0bb5\u0bc1\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0b85\u0ba3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb2\u0b95\u0bc1\u0bb5\u0bbe\u0ba9 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/250223",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781722800.0
 }
 ```
 
@@ -41,10 +41,15 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-18 | `virakesarilk-f0cae12e` | மகளிர் ரி20 உலகக் கிண்ணத்தில் இந்தியா, அவுஸ்திரேலியா அணிகளுக்கு இலகுவான வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-18-virakesarilk-f0cae12e)
+- 2026-06-17 | `virakesarilk-ae8e50ef` | ஏ அணிகள் மும்முனை ஒருநாள் தொடர் இறுதிப் போட்டியில் விளையாட இந்தியா தகுதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-virakesarilk-ae8e50ef)
+- 2026-06-17 | `virakesarilk-a9fc56f4` | காங்கேசன்துறையில் தங்கம் கடத்தல் சந்தேகம்: 26 பயணிகள் தடுத்து நிறுத்தப்பட்டு விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-virakesarilk-a9fc56f4)
 - 2026-06-17 | `dailymirrorlk-d00f4684` | Trump threatens to resume bombing campaign if Iran does not ’’behave’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-d00f4684)
 - 2026-06-17 | `dailymirrorlk-9229fcf1` | DVT emerging as ‘silent killer’ among young due to sedentary lifestyles, doctors warn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-9229fcf1)
+- 2026-06-17 | `virakesarilk-9d8cdba2` | ஒஸ்ட்ராவா கோல்டன் ஸ்பைக் சம்பியன்ஷிப்பிலும் அசத்தினார் ருமேஷ் தரங்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-virakesarilk-9d8cdba2)
 - 2026-06-17 | `tamilmirrorlk-b43108d0` | நவீன மாற்றங்களுக்கு பச்சைக்கொடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-b43108d0)
 - 2026-06-17 | `tamilmirrorlk-1b1ec110` | தடுப்பாட்டத்தில் நீதி தேவதை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-1b1ec110)
+- 2026-06-17 | `virakesarilk-15ba4096` | பிரதி அமைச்சர் சுந்தரலிங்கம் பிரதீப் தலைமையில் கேகாலை மாவட்ட பெருந்தோட்ட பாடசாலைகளின் அதிபர்களுடன் விசேட கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-virakesarilk-15ba4096)
 - 2026-06-17 | `tamilmirrorlk-2678dc11` | ஓதுவார் சுவாமிநாதன் இலங்கைக்கு வருகை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-2678dc11)
 - 2026-06-17 | `tamilmirrorlk-347c1d23` | திருமண நிகழ்வில் மோதல் : பொலிஸார் மீது தாக்குதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-tamilmirrorlk-347c1d23)
 - 2026-06-17 | `dailymirrorlk-7c364f18` | Iran sends tankers loaded with oil past US military blockade | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-7c364f18)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-06-17 | `dailymirrorlk-8503ab4a` | ’I’m the boss’, Trump tells G7 counterparts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-8503ab4a)
 - 2026-06-17 | `dailymirrorlk-d3d497d5` | India 'A' power into Tri-Series Final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-d3d497d5)
 - 2026-06-17 | `dailymirrorlk-cc086b50` | Profit-taking erases early gains as market ends mixed; banking sector leads activity | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-cc086b50)
-- 2026-06-17 | `dailymirrorlk-0f884007` | Expressway seat belt rule: Grace period ends June 19 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-0f884007)
-- 2026-06-17 | `virakesarilk-bb4c6ab7` | கம்மன்பில போன்றவர்களின் கருத்துக்கள் இன நல்லிணக்கத்தை சீர்குலைக்கும்! – அருட்தந்தை சிறில் காமினி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-virakesarilk-bb4c6ab7)
-- 2026-06-17 | `dailymirrorlk-c3864eb2` | Norway’s crown princess undergoes successful lung transplant, palace says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-c3864eb2)
-- 2026-06-17 | `dailymirrorlk-b90fdcb0` | First Xiaomi exclusive store opens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-dailymirrorlk-b90fdcb0)
-- 2026-06-17 | `virakesarilk-5cb05011` | சலேவுக்கு முன்பே தப்பிக்க முயலும் கோட்டாபய! - சமீர பெரேரா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-17-virakesarilk-5cb05011)
 
 ---
 
