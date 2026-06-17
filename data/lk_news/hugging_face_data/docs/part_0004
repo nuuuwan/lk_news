@@ -243326,6 +243326,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-16-adalk-5afd7ed6",
+    "num": "adalk-5afd7ed6",
+    "date_str": "2026-06-16",
+    "description": "BestWeb.LK 2026 \u0dc0\u0dd9\u0dad \u0db1\u0dd2\u0dbd \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc3\u0d82\u0daf\u0dda\u0dc1 \u0d85\u0db1\u0dd4\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba HUTCH",
+    "url_metadata": "https://www.ada.lk/business/BestWeb-LK-2026-\u0dc0\u0dd9\u0dad-\u0db1\u0dd2\u0dbd-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0dc3\u0d82\u0daf\u0dda\u0dc1-\u0d85\u0db1\u0dd4\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba-HUTCH/7-422876",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781598826.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-16-virakesarilk-964862c6",
     "num": "virakesarilk-964862c6",
     "date_str": "2026-06-16",
@@ -244239,6 +244250,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-711db7b5",
+    "num": "dailymirrorlk-711db7b5",
+    "date_str": "2026-06-16",
+    "description": "The US-Iran MoU and the fly in the ointment",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-US-Iran-MoU-and-the-fly-in-the-ointment/172-343102",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781629690.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-b7171055",
+    "num": "dailymirrorlk-b7171055",
+    "date_str": "2026-06-16",
+    "description": "Banks are facing serious challenges",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Banks-are-facing-serious-challenges/172-343103",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781629791.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-4aaa955a",
+    "num": "dailymirrorlk-4aaa955a",
+    "date_str": "2026-06-16",
+    "description": "More questions than answers in  Suresh Sallay\u2019s  detention",
+    "url_metadata": "https://www.dailymirror.lk/opinion/More-questions-than-answers-in-Suresh-Sallays-detention/172-343104",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781629924.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-16-dailymirrorlk-4bfdb64c",
     "num": "dailymirrorlk-4bfdb64c",
     "date_str": "2026-06-16",
@@ -245064,6 +245108,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-17-adalk-f6a77dd1",
+    "num": "adalk-f6a77dd1",
+    "date_str": "2026-06-17",
+    "description": "\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0da9\u0ddc\u0dbd\u0dbb\u0dca 80\u0db1\u0dca \u0db4\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0ddc\u0dbb\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-80\u0db1\u0dca-\u0db4\u0dc4\u0dc5\u0da7/11-422884",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781672903.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-17-tamilmirrorlk-9552810c",
     "num": "tamilmirrorlk-9552810c",
     "date_str": "2026-06-17",
@@ -245116,5 +245171,203 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781675251.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-e07d7f8b",
+    "num": "dailymirrorlk-e07d7f8b",
+    "date_str": "2026-06-17",
+    "description": "Gotabaya\u2019s writ petition to be heard today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gotabayas-writ-petition-to-be-heard-today/108-343146",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781675732.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-tamilmirrorlk-8ba05dc4",
+    "num": "tamilmirrorlk-8ba05dc4",
+    "date_str": "2026-06-17",
+    "description": "\u0ba4\u0bc6\u0ba9\u0bcd\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0bae\u0bc1\u0ba4\u0bc1\u0bae\u0bbe\u0ba9\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0ba4\u0bbf\u0bb5\u0bbf\u0b9f\u0baa\u0bcd \u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc6\u0ba9\u0bcd\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95-\u0bae\u0bc1\u0ba4\u0bc1\u0bae\u0bbe\u0ba9\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0bb5\u0ba4\u0bbf\u0bb5\u0bbf\u0b9f\u0baa\u0bcd-\u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf/175-378696",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781675840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-24e08e6c",
+    "num": "dailymirrorlk-24e08e6c",
+    "date_str": "2026-06-17",
+    "description": "Sri Lanka loses Rs. 9.4bn in tobacco tax revenue amid shifting market trends - report",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-loses-Rs-9-4bn-in-tobacco-tax-revenue-amid-shifting-market-trends-report/108-343149",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781676051.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-tamilmirrorlk-e60cd415",
+    "num": "tamilmirrorlk-e60cd415",
+    "date_str": "2026-06-17",
+    "description": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0bb0\u0bbf\u0b9f\u0bcd\u0bae\u0ba9\u0bc1  \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8: \u0ba8\u0bc0\u0ba4\u0bbf\u0baf\u0bb0\u0b9a\u0bb0\u0bcd \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0bb0\u0bbf\u0b9f\u0bcd\u0bae\u0ba9\u0bc1-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8-\u0ba8\u0bc0\u0ba4\u0bbf\u0baf\u0bb0\u0b9a\u0bb0\u0bcd-\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd/175-378697",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781676122.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-07ff8509",
+    "num": "dailymirrorlk-07ff8509",
+    "date_str": "2026-06-17",
+    "description": "Ministry introduces healthy school canteen guidelines",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ministry-introduces-healthy-school-canteen-guidelines/108-343150",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781676522.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-d6c6d23d",
+    "num": "dailymirrorlk-d6c6d23d",
+    "date_str": "2026-06-17",
+    "description": "Serious shortage of essential and priority medicines in state hospitals \u2013 Health data shows",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Serious-shortage-of-essential-and-priority-medicines-in-state-hospitals-Health-data-shows/108-343152",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781676801.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-adalk-847cfe28",
+    "num": "adalk-847cfe28",
+    "date_str": "2026-06-17",
+    "description": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d85\u0db4\u0db1\u0dba\u0db1 \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc3\u0dd0\u0dbd\u0dd0\u0dc3\u0dca\u0db8 \u0daf\u0dd2\u0dba\u0dad\u0dca \u0dc0\u0dda",
+    "url_metadata": "https://www.ada.lk/business/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1-\u0dc3\u0dd0\u0dbd\u0dd0\u0dc3\u0dca\u0db8-\u0daf\u0dd2\u0dba\u0dad\u0dca-\u0dc0\u0dda/7-422885",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781677156.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-d876bd77",
+    "num": "dailymirrorlk-d876bd77",
+    "date_str": "2026-06-17",
+    "description": "Sri Lanka unveils NEDP 2026\u20132030 aiming for US$ 36 billion export target",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-unveils-NEDP-20262030-aiming-for-US-36-billion-export-target/108-343158",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781677658.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-202b8483",
+    "num": "dailymirrorlk-202b8483",
+    "date_str": "2026-06-17",
+    "description": "Cardinal Malcolm Ranjith never had prior knowledge on Easter Sunday attacks: Fr. Cyril Gamini",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cardinal-Malcolm-Ranjith-never-had-prior-knowledge-on-Easter-Sunday-attacks-Fr-Cyril-Gamini/108-343162",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781677858.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-ee35fa62",
+    "num": "dailymirrorlk-ee35fa62",
+    "date_str": "2026-06-17",
+    "description": "Bribery Commission arrests Yoshitha over Navy probe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bribery-Commission-arrests-Yoshitha-over-Navy-probe/108-343163",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781678187.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-4b38e957",
+    "num": "dailymirrorlk-4b38e957",
+    "date_str": "2026-06-17",
+    "description": "CID admits to stripping, conducting deep invasive search on Suresh Sallay, reveals wife",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CID-admits-to-stripping-conducting-deep-invasive-search-on-Suresh-Sallay-reveals-wife/108-343165",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781678319.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-tamilmirrorlk-f54af213",
+    "num": "tamilmirrorlk-f54af213",
+    "date_str": "2026-06-17",
+    "description": "\u0baf\u0bcb\u0bb7\u0bbf\u0ba4\u0bcd\u0ba4 \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7 \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0baf\u0bcb\u0bb7\u0bbf\u0ba4\u0bcd\u0ba4-\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7-\u0b95\u0bc8\u0ba4\u0bc1/150-378698",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781678438.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-tamilmirrorlk-b50547b1",
+    "num": "tamilmirrorlk-b50547b1",
+    "date_str": "2026-06-17",
+    "description": "\u0b9a\u0bb2\u0bc7 \u0bae\u0bc0\u0ba4\u0bc1 \u0b9a\u0bbf.\u0b90.\u0b9f\u0bbf. \u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bb5\u0ba4\u0bc8: \u0bae\u0ba9\u0bc8\u0bb5\u0bbf \u0bae\u0ba9\u0bcb\u0bb0\u0bbf \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb2\u0bc7-\u0bae\u0bc0\u0ba4\u0bc1-\u0b9a\u0bbf-\u0b90-\u0b9f\u0bbf-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bb5\u0ba4\u0bc8-\u0bae\u0ba9\u0bc8\u0bb5\u0bbf-\u0bae\u0ba9\u0bcb\u0bb0\u0bbf-\u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/175-378699",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781679590.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-adalk-edd2cf22",
+    "num": "adalk-edd2cf22",
+    "date_str": "2026-06-17",
+    "description": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dad\u0dd0\u0db4\u0dd1\u0dbd\u0da7 \u0dc3\u0dca\u0dae\u0dd2\u0dbb \u0d8b\u0db4 \u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca 192\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf-\u0dad\u0dd0\u0db4\u0dd1\u0dbd\u0da7-\u0dc3\u0dca\u0dae\u0dd2\u0dbb-\u0d8b\u0db4-\u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2\u0dc0\u0dbb\u0dd4\u0db1\u0dca-192\u0d9a\u0dca/11-422886",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781679706.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-adalk-08193425",
+    "num": "adalk-08193425",
+    "date_str": "2026-06-17",
+    "description": "2026-06-17",
+    "url_metadata": "https://www.ada.lk/breaking_news/2026-06-17/11-422887",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781679814.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailymirrorlk-922c8e3b",
+    "num": "dailymirrorlk-922c8e3b",
+    "date_str": "2026-06-17",
+    "description": "Lion cub viewing at Dehiwala zoo ends June 21",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lion-cub-viewing-at-Dehiwala-zoo-ends-June-21/108-343171",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781680196.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-tamilmirrorlk-dcbb7d3b",
+    "num": "tamilmirrorlk-dcbb7d3b",
+    "date_str": "2026-06-17",
+    "description": "\u0bae\u0baf\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1: \u0baa\u0bc1\u0ba4\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bbf\u0baf\u0bc8 \u0ba4\u0bcb\u0ba3\u0bcd\u0b9f\u0bbf \u0ba4\u0bca\u0bb5\u0bbf\u0bb2\u0bcd \u0b86\u0b9f\u0bbf\u0baf \u0b9a\u0bc2\u0ba9\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0baf\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b92\u0bb0\u0bc1-\u0ba8\u0bb3\u0bcd\u0bb3\u0bbf\u0bb0\u0bb5\u0bc1-\u0baa\u0bc1\u0ba4\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bbf\u0baf\u0bc8-\u0ba4\u0bcb\u0ba3\u0bcd\u0b9f\u0bbf-\u0ba4\u0bca\u0bb5\u0bbf\u0bb2\u0bcd-\u0b86\u0b9f\u0bbf\u0baf-\u0b9a\u0bc2\u0ba9\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/175-378700",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781680246.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-tamilmirrorlk-d9e1e0e6",
+    "num": "tamilmirrorlk-d9e1e0e6",
+    "date_str": "2026-06-17",
+    "description": "\u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0ba4\u0bc7\u0b9f\u0bbf \u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8 : \u0b85\u0b95\u0bb4\u0bcd\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0bb2\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba4\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8-\u0ba4\u0bc7\u0b9f\u0bbf-\u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8-\u0b85\u0b95\u0bb4\u0bcd\u0bb5\u0bc1\u0baa\u0bcd-\u0baa\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b8f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-378701",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781681179.0
   }
 ]
