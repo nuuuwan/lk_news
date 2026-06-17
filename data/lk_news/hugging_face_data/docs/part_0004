@@ -238607,6 +238607,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-13-islandlk-897e82a7",
+    "num": "islandlk-897e82a7",
+    "date_str": "2026-06-13",
+    "description": "Forex rackets:Fish or cut bait",
+    "url_metadata": "http://island.lk/forex-racketsfish-or-cut-bait/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781363880.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-13-islandlk-d71f5096",
     "num": "islandlk-d71f5096",
     "date_str": "2026-06-13",
@@ -242160,6 +242171,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-15-islandlk-b836e647",
+    "num": "islandlk-b836e647",
+    "date_str": "2026-06-15",
+    "description": "New mediation law for smarter dispute resolution of civil and commercial disputes \u2013 I",
+    "url_metadata": "http://island.lk/new-mediation-law-for-smarter-dispute-resolution-of-civil-and-commercial-disputes-i/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781545020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-islandlk-e80c4c15",
+    "num": "islandlk-e80c4c15",
+    "date_str": "2026-06-15",
+    "description": "A Testament to the Sri Lankan family",
+    "url_metadata": "http://island.lk/a-testament-to-the-sri-lankan-family/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781545020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-islandlk-ee650c8b",
+    "num": "islandlk-ee650c8b",
+    "date_str": "2026-06-15",
+    "description": "City of Dreams \u2026Heartbeat of Colombo",
+    "url_metadata": "http://island.lk/city-of-dreams-heartbeat-of-colombo/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781545260.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-15-islandlk-32ff605b",
     "num": "islandlk-32ff605b",
     "date_str": "2026-06-15",
@@ -242168,6 +242212,28 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1781545320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-islandlk-b6c34ebc",
+    "num": "islandlk-b6c34ebc",
+    "date_str": "2026-06-15",
+    "description": "Development deficit getting in the way of SL joining RCEP \u2013 Trade Ministry Secretary",
+    "url_metadata": "http://island.lk/development-deficit-getting-in-the-way-of-sl-joining-rcep-trade-ministry-secretary/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781545500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-15-islandlk-ccab546b",
+    "num": "islandlk-ccab546b",
+    "date_str": "2026-06-15",
+    "description": "Pussalla Agri Ventures secures EU, USDA organic certs, paving way for high-value exports",
+    "url_metadata": "http://island.lk/pussalla-agri-ventures-secures-eu-usda-organic-certs-paving-way-for-high-value-exports/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781545560.0
   },
   {
     "doc_type": "lk_news",
@@ -243524,6 +243590,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-16-virakesarilk-b5558cca",
+    "num": "virakesarilk-b5558cca",
+    "date_str": "2026-06-16",
+    "description": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0bb5\u0b9f\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b9a\u0bc2\u0bb4\u0bb2\u0bcd \u0b8e\u0bb0\u0bbf\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd - \u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7 \u0bb5\u0bb2\u0bbf\u0baf\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/250083",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781606340.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-16-dailymirrorlk-371ee9f7",
     "num": "dailymirrorlk-371ee9f7",
     "date_str": "2026-06-16",
@@ -243650,6 +243727,17 @@
     "date_str": "2026-06-16",
     "description": "\u0b8e\u0bb2\u0bcd \u0ba8\u0bbf\u0ba9\u0bcb \u0b95\u0bbe\u0bb2\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0b89\u0ba3\u0bb5\u0bc1\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1, \u0ba8\u0bc0\u0bb0\u0bcd \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd, \u0b8e\u0bb0\u0bbf\u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b95\u0bb5\u0ba9\u0bae\u0bcd \u0b9a\u0bc6\u0bb2\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd - \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0bb9\u0bb0\u0bbf\u0ba3\u0bbf \u0b85\u0bae\u0bb0\u0b9a\u0bc2\u0bb0\u0bbf\u0baf",
     "url_metadata": "https://www.virakesari.lk/article/250095",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781611140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-virakesarilk-e5fa216f",
+    "num": "virakesarilk-e5fa216f",
+    "date_str": "2026-06-16",
+    "description": "\u0b88\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1\u0baa\u0bc7\u0bbe\u0ba4\u0bc1\u0bae\u0bcd \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8 - \u0bb9\u0bc6\u0b95\u0bcd\u0b9f\u0bb0\u0bcd \u0b85\u0baa\u0bcd\u0baa\u0bc1\u0bb9\u0bbe\u0bae\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/250100",
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1781611140.0
@@ -243920,6 +244008,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-16-islandlk-bfaaeab5",
+    "num": "islandlk-bfaaeab5",
+    "date_str": "2026-06-16",
+    "description": "Cabinet nod to accept increased Loan Grant provided by the Asian Development Bank under Policy Based Loan Facilities \u2013 2026",
+    "url_metadata": "http://island.lk/cabinet-nod-to-accept-increased-loan-grant-provided-by-the-asian-development-bank-under-policy-based-loan-facilities-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781619900.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-16-tamilmirrorlk-eba5d47b",
     "num": "tamilmirrorlk-eba5d47b",
     "date_str": "2026-06-16",
@@ -244030,6 +244129,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-16-islandlk-5efb693e",
+    "num": "islandlk-5efb693e",
+    "date_str": "2026-06-16",
+    "description": "DFCC Bank-Standard Chartered Bank Sri Lanka branch deal to be completed by July 31",
+    "url_metadata": "http://island.lk/dfcc-bank-standard-chartered-bank-sri-lanka-branch-deal-to-be-completed-by-july-31/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781624760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-islandlk-ac68aaba",
+    "num": "islandlk-ac68aaba",
+    "date_str": "2026-06-16",
+    "description": "ComBank pioneers state-of-the-art 3DS authentication for UnionPay cardholders",
+    "url_metadata": "http://island.lk/combank-pioneers-state-of-the-art-3ds-authentication-for-unionpay-cardholders/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781624880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-islandlk-7c82620c",
+    "num": "islandlk-7c82620c",
+    "date_str": "2026-06-16",
+    "description": "DFCC Bank expands everyday benefits for senior citizens through DFCC Garusaru",
+    "url_metadata": "http://island.lk/dfcc-bank-expands-everyday-benefits-for-senior-citizens-through-dfcc-garusaru/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781624940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-islandlk-922ff6ac",
+    "num": "islandlk-922ff6ac",
+    "date_str": "2026-06-16",
+    "description": "Sun Siyam & Studio Sixty7 win two international property awards Asia Pacific for design excellence across Sri Lanka and the Maldives",
+    "url_metadata": "http://island.lk/sun-siyam-studio-sixty7-win-two-international-property-awards-asia-pacific-for-design-excellence-across-sri-lanka-and-the-maldives/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781624940.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-16-tamilmirrorlk-c03b22df",
     "num": "tamilmirrorlk-c03b22df",
     "date_str": "2026-06-16",
@@ -244074,6 +244217,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-b93c660d",
+    "num": "dailymirrorlk-b93c660d",
+    "date_str": "2026-06-16",
+    "description": "Manufacturing, services return to growth path in May",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Manufacturing-services-return-to-growth-path-in-May/108-343121",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781632587.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-3fd3139e",
+    "num": "dailymirrorlk-3fd3139e",
+    "date_str": "2026-06-16",
+    "description": "Build stronger export engine for lasting recovery: CBSL Governor",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Build-stronger-export-engine-for-lasting-recovery-CBSL-Governor/108-343122",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781632624.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-16-dailymirrorlk-6c6d1316",
+    "num": "dailymirrorlk-6c6d1316",
+    "date_str": "2026-06-16",
+    "description": "Sri Lanka launches export roadmap targeting US$ 36bn by 2030",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-launches-export-roadmap-targeting-US-36bn-by-2030/108-343123",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781632832.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-17-tamilmirrorlk-febe382d",
     "num": "tamilmirrorlk-febe382d",
     "date_str": "2026-06-17",
@@ -244082,5 +244258,203 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781645989.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-d84c6491",
+    "num": "virakesarilk-d84c6491",
+    "date_str": "2026-06-17",
+    "description": "\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba8\u0bbe\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bbe\u0bb3\u0bcd \u0bb5\u0bb0\u0bbf \u0bb5\u0bbf\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0ba4\u0bbf\u0bb1\u0bc8\u0b9a\u0bc7\u0bb0\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0ba9\u0bcd \u0baa\u0baf\u0ba9\u0bc6\u0ba9\u0bcd\u0ba9 - \u0baa\u0bca\u0ba4\u0bc1\u0b9c\u0ba9 \u0baa\u0bc6\u0bb0\u0bae\u0bc1\u0ba9 \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf",
+    "url_metadata": "https://www.virakesari.lk/article/250121",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781652480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-aec9f89d",
+    "num": "virakesarilk-aec9f89d",
+    "date_str": "2026-06-17",
+    "description": "\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bbf\u0bb0\u0ba4\u0bbf\u0baf\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bc1\u0b9f\u0ba9\u0bcd \u0b9a\u0bc0\u0ba9 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b86\u0bb2\u0bcb\u0b9a\u0b95\u0bb0\u0bcd \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1;\u00a0\u0b87\u0bb0\u0bc1\u0ba4\u0bb0\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0b89\u0bb1\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/250122",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781652780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-83741448",
+    "num": "virakesarilk-83741448",
+    "date_str": "2026-06-17",
+    "description": "\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 5.5 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bca\u0bb2\u0bb0\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bbe\u0ba9 \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bc8 \u0b87\u0bb2\u0bb5\u0b9a\u0bae\u0bbe\u0b95 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0ba4\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+    "url_metadata": "https://www.virakesari.lk/article/250123",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781653260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-e2fddfde",
+    "num": "virakesarilk-e2fddfde",
+    "date_str": "2026-06-17",
+    "description": "\u0b9a\u0bc1\u0bb0\u0bc7\u0bb7\u0bcd \u0b9a\u0bb2\u0bc7 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8 \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bc1\u0b9f\u0bc8\u0baf\u0ba4\u0bbe? \u2013 \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1 \u0b85\u0bb5\u0bae\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0bc1\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b9a\u0bc1\u0b95\u0bc0\u0bb8\u0bcd\u0bb5\u0bb0 \u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0",
+    "url_metadata": "https://www.virakesari.lk/article/250124",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781653860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-7f624879",
+    "num": "virakesarilk-7f624879",
+    "date_str": "2026-06-17",
+    "description": "2030 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd 36 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bca\u0bb2\u0bb0\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bc1: \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0b95 \u0b85\u0bb1\u0bbf\u0bae\u0bc1\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/250125",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781654040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-4f0cf5df",
+    "num": "virakesarilk-4f0cf5df",
+    "date_str": "2026-06-17",
+    "description": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0bae\u0bc0\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0baf\u0bc7 \u0ba8\u0bc0\u0ba3\u0bcd\u0b9f\u0b95\u0bbe\u0bb2 \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc1 \u2013 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0b99\u0bcd\u0b95\u0bbf \u0b86\u0bb3\u0bc1\u0ba8\u0bb0\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/250126",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781654220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-ffc92f4d",
+    "num": "virakesarilk-ffc92f4d",
+    "date_str": "2026-06-17",
+    "description": "\u0ba4\u0bca\u0bb2\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0bae\u0bbf\u0b95\u0bcd\u0b95 \u0b95\u0bb2\u0bcd\u00a0\u0bb5\u0bbf\u0bb1\u0bcd\u0baa\u0ba9\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0bae\u0bc1\u0baf\u0ba9\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/250127",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781654340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-dc07dbc3",
+    "num": "virakesarilk-dc07dbc3",
+    "date_str": "2026-06-17",
+    "description": "\u0baf\u0bbe\u0bb4\u0bcd. \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb2\u0bbe\u0ba9 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bcd\u0bb1 \u0bae\u0bc0\u0bb3\u0bbe\u0baf\u0bcd\u0bb5\u0bc1\u0b95\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd!",
+    "url_metadata": "https://www.virakesari.lk/article/250128",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781654580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailyftlk-c188a3c3",
+    "num": "dailyftlk-c188a3c3",
+    "date_str": "2026-06-17",
+    "description": "Researchers warn alternative nicotine products gaining ground as cigarette consumption declines",
+    "url_metadata": "https://www.ft.lk/opinion/Researchers-warn-alternative-nicotine-products-gaining-ground-as-cigarette-consumption-declines/14-793389",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781655062.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-4c0b3e22",
+    "num": "virakesarilk-4c0b3e22",
+    "date_str": "2026-06-17",
+    "description": "\u0b95\u0bc1\u0b9a\u0bcd\u0b9a\u0bb5\u0bc6\u0bb3\u0bbf \u0baa\u0bb3\u0bcd\u0bb3\u0bb5\u0b95\u0bcd \u0b95\u0bc1\u0bb3 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0ba8\u0bc0\u0bb0\u0bcd \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0bbf\u0ba9\u0bc8 \u0ba4\u0bc0\u0bb0\u0bcd\u0bb5\u0bc1 \u2013 \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a \u0b9a\u0baa\u0bc8 \u0ba4\u0bb5\u0bbf\u0b9a\u0bbe\u0bb3\u0bb0\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/250129",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781655120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailyftlk-efd02c3c",
+    "num": "dailyftlk-efd02c3c",
+    "date_str": "2026-06-17",
+    "description": "Will the tobacco ban backfire?",
+    "url_metadata": "https://www.ft.lk/columns/Will-the-tobacco-ban-backfire/4-793390",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781655179.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-4295a147",
+    "num": "virakesarilk-4295a147",
+    "date_str": "2026-06-17",
+    "description": "\u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f \u0baa\u0baf\u0ba9\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b95\u0bbe\u0b9a\u0bcb\u0bb2\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/250130",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781655420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailyftlk-bf25f4d1",
+    "num": "dailyftlk-bf25f4d1",
+    "date_str": "2026-06-17",
+    "description": "Sri Lanka\u2019s uneven growth: Why Colombo thrives while the rest of the country struggles",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-s-uneven-growth-Why-Colombo-thrives-while-the-rest-of-the-country-struggles/14-793391",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781656104.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailyftlk-594a3a38",
+    "num": "dailyftlk-594a3a38",
+    "date_str": "2026-06-17",
+    "description": "Sri Lanka won\u2019t change until YOU change",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-won-t-change-until-YOU-change/4-793392",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781656488.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
+    "date_str": "2026-06-17",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/250132",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781656500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailyftlk-d9d4e740",
+    "num": "dailyftlk-d9d4e740",
+    "date_str": "2026-06-17",
+    "description": "Way forward for SME borrowers",
+    "url_metadata": "https://www.ft.lk/columns/Way-forward-for-SME-borrowers/4-793393",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781656940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailyftlk-a33b9ecf",
+    "num": "dailyftlk-a33b9ecf",
+    "date_str": "2026-06-17",
+    "description": "Tax by choice, not force:  Can Sri Lanka make the shift?",
+    "url_metadata": "https://www.ft.lk/columns/Tax-by-choice-not-force-Can-Sri-Lanka-make-the-shift/4-793395",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781657388.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-dailyftlk-36ecfb33",
+    "num": "dailyftlk-36ecfb33",
+    "date_str": "2026-06-17",
+    "description": "The AI decision Sri Lankan schools are taking in silence",
+    "url_metadata": "https://www.ft.lk/columns/The-AI-decision-Sri-Lankan-schools-are-taking-in-silence/4-793397",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781657907.0
   }
 ]
