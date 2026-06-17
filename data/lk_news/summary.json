@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-17 06:46:24",
-  "n_docs": 118582,
+  "time_updated": "2026-06-17 08:57:25",
+  "n_docs": 118611,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 118582,
+  "n_docs_with_text": 118611,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-17",
-  "dataset_size": 1848728681,
+  "dataset_size": 1849313046,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-17-dailyftlk-36ecfb33",
-    "num": "dailyftlk-36ecfb33",
+    "doc_id": "2026-06-17-dailymirrorlk-bca869bd",
+    "num": "dailymirrorlk-bca869bd",
     "date_str": "2026-06-17",
-    "description": "The AI decision Sri Lankan schools are taking in silence",
-    "url_metadata": "https://www.ft.lk/columns/The-AI-decision-Sri-Lankan-schools-are-taking-in-silence/4-793397",
+    "description": "Struggling Pizza Hut chain to be sold for $2.7bn",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Struggling-Pizza-Hut-chain-to-be-sold-for-2-7bn/108-343133",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1781657907.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781664607.0
   }
 }
