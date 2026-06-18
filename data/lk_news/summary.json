@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-18 22:56:58",
-  "n_docs": 118934,
+  "time_updated": "2026-06-19 00:39:03",
+  "n_docs": 118953,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 118934,
+  "n_docs_with_text": 118953,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-06-18",
-  "dataset_size": 1854051700,
+  "date_str_max": "2026-06-19",
+  "dataset_size": 1854607387,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-18-dailymirrorlk-f87b54d2",
-    "num": "dailymirrorlk-f87b54d2",
-    "date_str": "2026-06-18",
-    "description": "Mahayaya Vinita Thera no longer a monk, probe underway",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahayaya-Vinita-Thera-no-longer-a-monk-probe-underway/108-343319",
+    "doc_id": "2026-06-19-dailymirrorlk-9533cb54",
+    "num": "dailymirrorlk-9533cb54",
+    "date_str": "2026-06-19",
+    "description": "\u2018Two\u00a0leaves and a\u00a0bud\u2019 becoming\u00a0fiction as\u00a0climate\u00a0change\u00a0hits\u00a0tea: Dilmah Chief",
+    "url_metadata": "https://www.dailymirror.lk/business/Twoleaves-and-abud-becomingfiction-asclimatechangehitstea-Dilmah-Chief/215-343338",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781801588.0
+    "time_ut": 1781808303.0
   }
 }
