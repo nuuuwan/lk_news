@@ -1,0 +1,55 @@
+AI will create more jobs for humans, not replace them, Amazon founder Bezos says
+
+BBC - AI will lead to more need for workers rather than make people redundant, Amazon founder Jeff Bezos predicted during an appearance at a tech conference in Paris.
+
+Bezos pushed back against growing concerns that AI will replace large numbers of workers.
+
+Instead he argued that the tech will unlock new opportunities and increase demand for human labour.
+
+This is in contradiction to some other tech and political figures - including former UK prime minister Rishi Sunak, now an adviser to Microsoft and AI firm Anthropic, who recently said AI was having an impact on young people's job prospects.
+
+"I know there's a lot of concern that many people have, including many smart people, that AI is going to make humans redundant and so on," Bezos said.
+
+"I totally disagree with this point of view. And I think, in fact, AI is going to create a labour shortage."
+
+He painted an optimistic picture of AI's future role in society, suggesting that people are limited not by a lack of ambition, but by barriers that technology can help remove.
+
+Billionaire entrepreneur Bezos was speaking about his new AI venture Prometheus, which is focused on accelerating physical manufacturing - a sector which is becoming increasingly automated.
+
+The UK's Trades Union Congress has warned that AI technology could repeat "the disaster of deindustrialisation" as shareholders get richer while jobs are "degraded or displaced".
+
+But it adds that AI could have transformative potential if developed properly, and workers could benefit from its productivity gains.
+
+Bezos also used his appearance at Europe's largest tech expo VivaTech Paris to outline his long-term vision for space exploration.
+
+He described space as "supply constrained, not demand constrained", arguing that access to space remains the biggest obstacle to future development.
+
+The Moon, he said, offers a natural starting point for humanity's expansion beyond Earth because of its proximity and resources.
+
+"We're going to the Moon to stay, not just to visit," Bezos told the audience, adding that technologies such as electrolysis could eventually allow lunar resources to be used to refuel rockets and support a permanent presence beyond Earth.
+
+The discussion also turned to another Bezos venture, space travel company Blue Origin.
+
+It had a recent setback after an uncrewed New Glenn rocket exploded during a ground test at Cape Canaveral in Florida in May.
+
+"It was a gut punch for the whole team. But what we've learned since then is we got really lucky," Bezos said.
+
+No injuries were reported in the explosion, and Bezos noted several critical pieces of launch infrastructure survived the incident, including propellant and fuel systems that would have taken significantly longer to replace.
+
+On the same stage as Bezos, Blue Origin chief executive Dave Limp said reconstruction work at the launch site is already underway and the company expects launches to resume before the end of the year.
+
+Blue Origin is in the race to establish itself as a major player in commercial spaceflight and lunar exploration, competing with Elon Musk's SpaceX in the growing market for extraterrestrial infrastructure.
+
+Away from the main stage, Unitree's humanoid robot was the definite crowd-pleaser. Constant queues of visitors wanted to see the latest advances in the robotics field.
+
+This time the robot was teaming up with French neuro-AI company HABS, which showcased technology designed to allow humans to interact with machines using cognitive signals rather than speech.
+
+The robot responded to commands generated through brain activity, via a headband with an electroencephalogram (commonly known as an EEG) attached to it.
+
+The test uses small, metal probes called electrodes that touch the scalp.
+
+The demo offered a glimpse of how future humans and machines could work together in the future.
+
+It also reflected a broader trend running through this year's event: AI moving beyond chatbots and into the physical world.
+
+Humanoid robots are increasingly becoming a reality with companies racing to develop machines capable of working alongside humans in healthcare, manufacturing and hospitality.

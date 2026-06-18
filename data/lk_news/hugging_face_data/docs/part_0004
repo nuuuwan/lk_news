@@ -246494,6 +246494,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-17-islandlk-1277db79",
+    "num": "islandlk-1277db79",
+    "date_str": "2026-06-17",
+    "description": "The Ceylon Chamber of Commerce to hold 187th AGM",
+    "url_metadata": "http://island.lk/the-ceylon-chamber-of-commerce-to-hold-187th-agm/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781717460.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-17-islandlk-5500e2cf",
     "num": "islandlk-5500e2cf",
     "date_str": "2026-06-17",
@@ -247121,6 +247132,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-18-adalk-c780d2d0",
+    "num": "adalk-c780d2d0",
+    "date_str": "2026-06-18",
+    "description": "\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd2 \u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0dc0\u0dbd \u0d9c\u0db8\u0db1\u0dca \u0d9a\u0dbb\u0db1 \u0dc3\u0dd2\u0dba\u0dbd\u0dd4 \u0daf\u0dd9\u0db1\u0dcf\u0da7 \u0d86\u0dc3\u0db1\u0db4\u0da7\u0dd2 \u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db0\u0dd2\u0dc0\u0dda\u0d9c\u0dd2-\u0db8\u0dcf\u0dbb\u0dca\u0d9c-\u0dc0\u0dbd-\u0d9c\u0db8\u0db1\u0dca-\u0d9a\u0dbb\u0db1-\u0dc3\u0dd2\u0dba\u0dbd\u0dd4-\u0daf\u0dd9\u0db1\u0dcf\u0da7-\u0d86\u0dc3\u0db1\u0db4\u0da7\u0dd2-\u0d85\u0db1\u0dd2\u0dc0\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0dd2/11-422898",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781755058.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-adalk-2b912df1",
+    "num": "adalk-2b912df1",
+    "date_str": "2026-06-18",
+    "description": "\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0db4\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca-\u0db4\u0dc4\u0dc5\u0da7/11-422899",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781755548.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-18-adalk-e639f7f3",
     "num": "adalk-e639f7f3",
     "date_str": "2026-06-18",
@@ -247173,6 +247206,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781757617.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-adalk-5eebb67f",
+    "num": "adalk-5eebb67f",
+    "date_str": "2026-06-18",
+    "description": "\u0d87\u0db4\u0dbd\u0dca \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dc0\u0dbd \u0db8\u0dd2\u0dbd \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/technology/\u0d87\u0db4\u0dbd\u0dca-\u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dcf\u0daf\u0db1\u0dc0\u0dbd-\u0db8\u0dd2\u0dbd-\u0d89\u0dc4\u0dc5\u0da7/5-422901",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781757727.0
   },
   {
     "doc_type": "lk_news",
@@ -247470,5 +247514,126 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781769180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-6d2109c5",
+    "num": "dailymirrorlk-6d2109c5",
+    "date_str": "2026-06-18",
+    "description": "Trump says he will visit India as frosty relationship with Modi thaws",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-says-he-will-visit-India-as-frosty-relationship-with-Modi-thaws/108-343287",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781771137.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-b4e84a45",
+    "num": "dailymirrorlk-b4e84a45",
+    "date_str": "2026-06-18",
+    "description": "\u201cLet my houses stay where they are\u201d: Lalkantha tells critics to go to court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Let-my-houses-stay-where-they-are-Lalkantha-tells-critics-to-go-to-court/108-343288",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781772060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-3a80ccd7",
+    "num": "dailymirrorlk-3a80ccd7",
+    "date_str": "2026-06-18",
+    "description": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/AI-will-create-more-jobs-for-humans-not-replace-them-Amazon-founder-Bezos-says/108-343289",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781772209.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-tamilmirrorlk-8ddb6d27",
+    "num": "tamilmirrorlk-8ddb6d27",
+    "date_str": "2026-06-18",
+    "description": "\u0baa\u0bb1\u0bb5\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0baf\u0bcd\u0b9a\u0bcd\u0b9a\u0bb2\u0bbe\u0bb2\u0bcd \u0b86\u0baf\u0bbf\u0bb0\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baf\u0bbe\u0ba9\u0bc8\u0b9a\u0bcd \u0b9a\u0bc0\u0bb2\u0bcd \u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb1\u0bb5\u0bc8\u0b95\u0bcd-\u0b95\u0bbe\u0baf\u0bcd\u0b9a\u0bcd\u0b9a\u0bb2\u0bbe\u0bb2\u0bcd-\u0b86\u0baf\u0bbf\u0bb0\u0b95\u0bcd\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0baf\u0bbe\u0ba9\u0bc8\u0b9a\u0bcd-\u0b9a\u0bc0\u0bb2\u0bcd-\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bb3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/50-378761",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781772245.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-tamilmirrorlk-c97a78dc",
+    "num": "tamilmirrorlk-c97a78dc",
+    "date_str": "2026-06-18",
+    "description": "\u0b86\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd \u0baa\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0bb0\u0bc1\u0b95\u0bbf\u0bb2\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bcd \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0bb1\u0bcd\u0bb1\u0bc1\u0baa\u0bcd-\u0baa\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0b85\u0bb0\u0bc1\u0b95\u0bbf\u0bb2\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/175-378762",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781772541.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-tamilmirrorlk-7a0cd1cc",
+    "num": "tamilmirrorlk-7a0cd1cc",
+    "date_str": "2026-06-18",
+    "description": "\u0b95\u0bca\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1 \u0ba8\u0baa\u0bb0\u0bcd   \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bca\u0b95\u0bcd\u0b95\u0bc8\u0b95\u0bcd-\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd-\u0b9a\u0bc6\u0ba9\u0bcd\u0bb1-\u0ba8\u0baa\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-378763",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781773118.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-c14c8ffd",
+    "num": "dailymirrorlk-c14c8ffd",
+    "date_str": "2026-06-18",
+    "description": "Govt assures preschool teachers reforms will not threaten jobs",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-assures-preschool-teachers-reforms-will-not-threaten-jobs/108-343290",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781773354.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-10251536",
+    "num": "dailymirrorlk-10251536",
+    "date_str": "2026-06-18",
+    "description": "Middle East conflict puts global spotlight on Colombo Port, World Bank tells government",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Middle-East-conflict-puts-global-spotlight-on-Colombo-Port-World-Bank-tells-government/108-343291",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781773836.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-tamilmirrorlk-a58c498d",
+    "num": "tamilmirrorlk-a58c498d",
+    "date_str": "2026-06-18",
+    "description": "14 \u0bb5\u0baf\u0ba4\u0bc1 \u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf 17 \u0bb5\u0baf\u0ba4\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/14-\u0bb5\u0baf\u0ba4\u0bc1-\u0bae\u0bbe\u0ba3\u0bb5\u0bbf\u0baf\u0bc8\u0b95\u0bcd-\u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-17-\u0bb5\u0baf\u0ba4\u0bc1-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/76-378764",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781773948.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-a3ec2493",
+    "num": "dailymirrorlk-a3ec2493",
+    "date_str": "2026-06-18",
+    "description": "Parents urged to choose only registered preschools as quality drive gathers pace",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parents-urged-to-choose-only-registered-preschools-as-quality-drive-gathers-pace/108-343292",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781773986.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-f4c61f8d",
+    "num": "dailymirrorlk-f4c61f8d",
+    "date_str": "2026-06-18",
+    "description": "Rough seas, strong winds expected off southern and southeastern coast",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rough-seas-strong-winds-expected-off-southern-and-southeastern-coast/108-343293",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781774158.0
   }
 ]
