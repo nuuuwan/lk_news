@@ -1,0 +1,17 @@
+Visa introduces ‘Click to Pay’ in Sri Lanka
+
+Visa announced the launch of ‘Click to Pay’ in Sri Lanka, marking an important step in advancing secure, seamless, and frictionless digital commerce experience for consumers.
+
+‘Click to Pay’massively improves the online payment checkout experience by enabling Consumers to enjoy faster, more secure purchases without any friction, Merchants to improve payment success rates and customer conversions and Issuer-banks to drive higher card usage.
+
+As digital commerce continues to grow in Sri Lanka, consumers and businesses alike are placing greater value on payment experiences that are fast, intuitive, and secure.
+
+However,the important step in online payment experience -guest checkout across websites and apps - often remains cumbersome, relying on manual card entry, multiple form fields, and repeated authentication steps that slows down transactions and even leads to abandoned shopping carts or drop-offs - resulting in unpleasant consumer interactions and loss of business for merchants.
+
+With ‘Click to Pay’, consumers can get started with a simple, one-time setup when they first checkout on a participating merchant website or app. Using just their email address or mobile number, they can securely enroll their Visa card in a few quick steps. For subsequent purchases, shoppers can instantly access their saved card details, select their preferred card, and complete transactions in just a few clicks -without the need to re-enter card information each time. Existing authentication methods, such as one-time passwords, will continue to apply as required, ensuring each transaction remains secure.
+
+Security is central to Click to Pay. It is tokenised by design, meaning - sensitive card details are replaced with secure digital tokens at the back-end rather than being passed through the checkout flow. This makes the actual card number invisible, lowering fraud risk while strengthening payment performance.
+
+Avanthi Colombage, Country Manager, Sri Lanka and Maldives, Visa said, “With ‘Click to Pay’, Visa is helping enhance how consumers interact with seamless digital payments by making online checkouts simpler and safer. By embedding tokenization into the checkout experience, we are reducing the exposure of sensitive card details in the payment flow, empowering consumers to complete every online purchasesafely and without friction.
+
+This is a significant step that Visa is introducing to advance payment capabilities in Sri Lankain support of continued evolution of the country’s digital payments ecosystem.”
