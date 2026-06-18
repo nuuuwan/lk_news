@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--19_00:39:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--19_02:41:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**118,953** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**118,954** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-19-dailymirrorlk-9533cb54",
-    "num": "dailymirrorlk-9533cb54",
+    "doc_id": "2026-06-19-dailymirrorlk-666af8a4",
+    "num": "dailymirrorlk-666af8a4",
     "date_str": "2026-06-19",
-    "description": "\u2018Two\u00a0leaves and a\u00a0bud\u2019 becoming\u00a0fiction as\u00a0climate\u00a0change\u00a0hits\u00a0tea: Dilmah Chief",
-    "url_metadata": "https://www.dailymirror.lk/business/Twoleaves-and-abud-becomingfiction-asclimatechangehitstea-Dilmah-Chief/215-343338",
+    "description": "Wasim Akram Hails Sri Lanka as a World-Class Travel Destination",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wasim-Akram-Hails-Sri-Lanka-as-a-World-Class-Travel-Destination/108-343339",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781808303.0
+    "time_ut": 1781814649.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-19 | `dailymirrorlk-666af8a4` | Wasim Akram Hails Sri Lanka as a World-Class Travel Destination | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-666af8a4)
 - 2026-06-19 | `dailymirrorlk-9533cb54` | ‘Two leaves and a bud’ becoming fiction as climate change hits tea: Dilmah Chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-9533cb54)
 - 2026-06-19 | `dailymirrorlk-f98665df` | Iran war casts fresh shadow over Sri Lanka’s recovery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-f98665df)
 - 2026-06-19 | `dailymirrorlk-da1ee2c2` | Softlogic Life enters Bangladesh with US$ 1.9mn insurer acquisition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-da1ee2c2)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-06-18 | `dailymirrorlk-ef339cc4` | Prime Group partners with BNS | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-18-dailymirrorlk-ef339cc4)
 - 2026-06-18 | `dailymirrorlk-76058dca` | Cinnamon Grand Colombo invites to celebrate Father’s Day with heartfelt moments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-18-dailymirrorlk-76058dca)
 - 2026-06-18 | `dailymirrorlk-07c1e56e` | 25 Thai delegates to attend SL-Thailand Business Council silver jubilee celebrations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-18-dailymirrorlk-07c1e56e)
-- 2026-06-18 | `dailymirrorlk-f87b54d2` | Mahayaya Vinita Thera no longer a monk, probe underway | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-18-dailymirrorlk-f87b54d2)
 
 ---
 

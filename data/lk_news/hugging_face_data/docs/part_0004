@@ -248537,5 +248537,16 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781808303.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-666af8a4",
+    "num": "dailymirrorlk-666af8a4",
+    "date_str": "2026-06-19",
+    "description": "Wasim Akram Hails Sri Lanka as a World-Class Travel Destination",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wasim-Akram-Hails-Sri-Lanka-as-a-World-Class-Travel-Destination/108-343339",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781814649.0
   }
 ]
