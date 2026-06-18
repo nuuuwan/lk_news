@@ -244206,6 +244206,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-16-islandlk-2ba12451",
+    "num": "islandlk-2ba12451",
+    "date_str": "2026-06-16",
+    "description": "A new mediation law for smarter dispute resolution of civil and commercial disputes \u2013 II",
+    "url_metadata": "http://island.lk/a-new-mediation-law-for-smarter-dispute-resolution-of-civil-and-commercial-disputes-ii/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781625180.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-16-tamilmirrorlk-c03b22df",
     "num": "tamilmirrorlk-c03b22df",
     "date_str": "2026-06-16",
@@ -246296,6 +246307,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-17-islandlk-3aaf84c2",
+    "num": "islandlk-3aaf84c2",
+    "date_str": "2026-06-17",
+    "description": "Pimples \u2026",
+    "url_metadata": "http://island.lk/pimples/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781719020.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-17-virakesarilk-ae8e50ef",
     "num": "virakesarilk-ae8e50ef",
     "date_str": "2026-06-17",
@@ -246326,5 +246348,82 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781723578.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailyftlk-e25c4486",
+    "num": "dailyftlk-e25c4486",
+    "date_str": "2026-06-18",
+    "description": "Paucity of demanding home consumers and world-class suppliers stymying SL\u2019s global competitiveness",
+    "url_metadata": "https://www.ft.lk/columns/Paucity-of-demanding-home-consumers-and-world-class-suppliers-stymying-SL-s-global-competitiveness/4-793447",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781743844.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-3c32653d",
+    "num": "dailymirrorlk-3c32653d",
+    "date_str": "2026-06-18",
+    "description": "Medicine prices set to surge",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Medicine-prices-set-to-surge/108-343242",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781743871.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-b48b3cdf",
+    "num": "dailymirrorlk-b48b3cdf",
+    "date_str": "2026-06-18",
+    "description": "Daily vehicle import bill drops below USD 4Mn",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Daily-vehicle-import-bill-drops-below-USD-4Mn/108-343243",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781744047.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailyftlk-d40bffb9",
+    "num": "dailyftlk-d40bffb9",
+    "date_str": "2026-06-18",
+    "description": "Sri Lanka\u2019s crisis is not just about debt \u2013 it\u2019s about accountability",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-s-crisis-is-not-just-about-debt-it-s-about-accountability/14-793448",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781744057.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailyftlk-8992e562",
+    "num": "dailyftlk-8992e562",
+    "date_str": "2026-06-18",
+    "description": "Viet Nam\u2019s journey to economic and industrial powerhouse in Asia \u2014 A strategic reflection for Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Viet-Nam-s-journey-to-economic-and-industrial-powerhouse-in-Asia-A-strategic-reflection-for-Sri-Lanka/4-793449",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781744414.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-2750f126",
+    "num": "dailymirrorlk-2750f126",
+    "date_str": "2026-06-18",
+    "description": "US and Iran presidents sign ceasefire agreement, but Trump says he could still resume attacks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-and-Iran-presidents-sign-ceasefire-agreement-but-Trump-says-he-could-still-resume-attacks/108-343244",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781744804.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailyftlk-bffbb142",
+    "num": "dailyftlk-bffbb142",
+    "date_str": "2026-06-18",
+    "description": "Prajeeth\u2019s blueprint: The long game",
+    "url_metadata": "https://www.ft.lk/columns/Prajeeth-s-blueprint-The-long-game/4-793450",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781744858.0
   }
 ]
