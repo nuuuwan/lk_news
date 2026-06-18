@@ -247099,6 +247099,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-18-adalk-f1a03d54",
+    "num": "adalk-f1a03d54",
+    "date_str": "2026-06-18",
+    "description": "\u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2 \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda \u0dc4\u0dcf \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0d9c\u0dda \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dd2\u0dbb\u0dd2\u0db8\u0dd2-\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda-\u0dc4\u0dcf-\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0d9c\u0dda-\u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad-\u0d9a\u0dbb\u0dba\u0dd2/11-422896",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781753343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-adalk-6c9d35af",
+    "num": "adalk-6c9d35af",
+    "date_str": "2026-06-18",
+    "description": "\u0d9a\u0dbb\u0dd4\u0dab\u0dd4 14\u0d9a \u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0da7 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0dc4\u0dcf \u0d89\u0dbb\u0dcf\u0db1\u0dba \u0d85\u0dad\u0dca\u0dc3\u0db1\u0dca \u0dad\u0db6\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/international/\u0d9a\u0dbb\u0dd4\u0dab\u0dd4-14\u0d9a-\u0db8\u0dd6\u0dbd\u0dd2\u0d9a-\u0d9c\u0dd2\u0dc0\u0dd2\u0dc3\u0dd4\u0db8\u0da7-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0-\u0dc4\u0dcf-\u0d89\u0dbb\u0dcf\u0db1\u0dba-\u0d85\u0dad\u0dca\u0dc3\u0db1\u0dca-\u0dad\u0db6\u0dba\u0dd2/3-422897",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781754513.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-18-adalk-e639f7f3",
     "num": "adalk-e639f7f3",
     "date_str": "2026-06-18",
@@ -247272,5 +247294,181 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781761914.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-6db645ef",
+    "num": "dailymirrorlk-6db645ef",
+    "date_str": "2026-06-18",
+    "description": "Crop insurance expanded due to climate volatility and extreme weather risks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Crop-insurance-expanded-due-to-climate-volatility-and-extreme-weather-risks/108-343273",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781761949.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-13e89ddc",
+    "num": "dailymirrorlk-13e89ddc",
+    "date_str": "2026-06-18",
+    "description": "Nuwara Eliya police probe woman\u2019s body found near Teldeniya hospital",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nuwara-Eliya-police-probe-womans-body-found-near-Teldeniya-hospital/108-343274",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781762046.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-e1696d31",
+    "num": "dailymirrorlk-e1696d31",
+    "date_str": "2026-06-18",
+    "description": "Ukraine strikes key Moscow oil refinery for the second time in a week",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ukraine-strikes-key-Moscow-oil-refinery-for-the-second-time-in-a-week/108-343276",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781762451.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-c59cb7c9",
+    "num": "dailymirrorlk-c59cb7c9",
+    "date_str": "2026-06-18",
+    "description": "Pradeshiya Sabha Chairman deemed to have vacated post after losing budget - Supreme Court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pradeshiya-Sabha-Chairman-deemed-to-have-vacated-post-after-losing-budget-Supreme-Court/108-343277",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781763073.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-tamilmirrorlk-0427c3b2",
+    "num": "tamilmirrorlk-0427c3b2",
+    "date_str": "2026-06-18",
+    "description": "\u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd\u0b9f\u0bc8 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd \u0ba4\u0bb5\u0bb1\u0bc1\u0bae\u0bcd \u0ba4\u0bb5\u0bbf\u0b9a\u0bbe\u0bb3\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf \u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bbe\u0bb0\u0bcd:  \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0baa\u0b9f\u0bcd\u0b9c\u0bc6\u0b9f\u0bcd\u0b9f\u0bc8-\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc7\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd-\u0ba4\u0bb5\u0bb1\u0bc1\u0bae\u0bcd-\u0ba4\u0bb5\u0bbf\u0b9a\u0bbe\u0bb3\u0bb0\u0bcd-\u0baa\u0ba4\u0bb5\u0bbf-\u0b87\u0bb4\u0baa\u0bcd\u0baa\u0bbe\u0bb0\u0bcd-\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd-\u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1/150-378755",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781763716.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-acff90b9",
+    "num": "dailymirrorlk-acff90b9",
+    "date_str": "2026-06-18",
+    "description": "Devil\u2019s children have entered UNP working committee: Ravi K",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Devils-children-have-entered-UNP-working-committee-Ravi-K/108-343278",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781764075.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-tamilmirrorlk-9a826031",
+    "num": "tamilmirrorlk-9a826031",
+    "date_str": "2026-06-18",
+    "description": "\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0bbf\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bbf, \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf 4 \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd-\u0bb5\u0bbf\u0bb4\u0bc1\u0b99\u0bcd\u0b95\u0bbf-\u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-4-\u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bb0\u0bcd/175-378756",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781764926.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-tamilmirrorlk-910a65d4",
+    "num": "tamilmirrorlk-910a65d4",
+    "date_str": "2026-06-18",
+    "description": "9 \u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0b9a\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/9-\u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0b9a\u0bbf\u0baf\u0baa\u0bcd-\u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8\u0b95\u0bb3\u0bcd-\u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-378757",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781765440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-63cb60ce",
+    "num": "dailymirrorlk-63cb60ce",
+    "date_str": "2026-06-18",
+    "description": "Sugeeshwara Bandara arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sugeeshwara-Bandara-arrested/108-343281",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781766072.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-291571e8",
+    "num": "dailymirrorlk-291571e8",
+    "date_str": "2026-06-18",
+    "description": "Trump\u2019s new forced-labor tariffs strike Sri Lanka\u2019s fragile export recovery",
+    "url_metadata": "https://www.dailymirror.lk/news-features/Trumps-new-forced-labor-tariffs-strike-Sri-Lankas-fragile-export-recovery/131-343282",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781767013.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-tamilmirrorlk-34e7bca9",
+    "num": "tamilmirrorlk-34e7bca9",
+    "date_str": "2026-06-18",
+    "description": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf\u0bb5\u0bbf\u0ba9\u0bcd-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-378758",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781767016.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-75fd077b",
+    "num": "dailymirrorlk-75fd077b",
+    "date_str": "2026-06-18",
+    "description": "Cape Verde goalkeeper Vozinha\u2019s mother gets visa to attend World Cup",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cape-Verde-goalkeeper-Vozinhas-mother-gets-visa-to-attend-World-Cup/108-343283",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781767676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-bdbe42a4",
+    "num": "dailymirrorlk-bdbe42a4",
+    "date_str": "2026-06-18",
+    "description": "Bird flu kills more than 75% of baby seals on remote Australian island, study finds",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bird-flu-kills-more-than-75-of-baby-seals-on-remote-Australian-island-study-finds/108-343284",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781767944.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-e5d82eb4",
+    "num": "dailymirrorlk-e5d82eb4",
+    "date_str": "2026-06-18",
+    "description": "Trump and Iran\u2019s Pezeshkian sign initial deal to end war; Further talks planned",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-and-Irans-Pezeshkian-sign-initial-deal-to-end-war-Further-talks-planned/108-343285",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781768057.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-tamilmirrorlk-2d9eec66",
+    "num": "tamilmirrorlk-2d9eec66",
+    "date_str": "2026-06-18",
+    "description": "\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bcb\u0b95\u0bae\u0bcd : \u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bbf \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1-\u0b85\u0bb0\u0b9a-\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bcb\u0b95\u0bae\u0bcd-\u0b87\u0bb3\u0bb5\u0bb0\u0b9a\u0bbf-\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/50-378759",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781768220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-dailymirrorlk-514e08ea",
+    "num": "dailymirrorlk-514e08ea",
+    "date_str": "2026-06-18",
+    "description": "Health authorities urge public to eliminate mosquito breeding sites as cases climb",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Health-authorities-urge-public-to-eliminate-mosquito-breeding-sites-as-cases-climb/108-343286",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781769180.0
   }
 ]
