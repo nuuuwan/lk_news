@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-19 02:40:32",
-  "n_docs": 118954,
+  "time_updated": "2026-06-19 04:27:08",
+  "n_docs": 118963,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 118954,
+  "n_docs_with_text": 118963,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-19",
-  "dataset_size": 1854741096,
+  "dataset_size": 1854817153,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "ta",
     "si",
-    "en",
-    "ta"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-19-dailymirrorlk-666af8a4",
-    "num": "dailymirrorlk-666af8a4",
+    "doc_id": "2026-06-19-tamilmirrorlk-e0eff020",
+    "num": "tamilmirrorlk-e0eff020",
     "date_str": "2026-06-19",
-    "description": "Wasim Akram Hails Sri Lanka as a World-Class Travel Destination",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wasim-Akram-Hails-Sri-Lanka-as-a-World-Class-Travel-Destination/108-343339",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781814649.0
+    "description": "111 \u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0b95 \u0ba4\u0ba3\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/111-\u0ba8\u0bbe\u0b9f\u0bcd\u0b95\u0bb3\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0baa\u0ba4\u0bb1\u0bcd\u0bb1\u0bae\u0bcd-\u0bae\u0bc1\u0bb4\u0bc1\u0bae\u0bc8\u0baf\u0bbe\u0b95-\u0ba4\u0ba3\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1/50-378784",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781822750.0
   }
 }
