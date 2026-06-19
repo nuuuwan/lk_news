@@ -249673,6 +249673,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-19-adalk-e35ebb76",
+    "num": "adalk-e35ebb76",
+    "date_str": "2026-06-19",
+    "description": "14 \u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2 \u0daf\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4\u0da7 \u0dbd\u0dd2\u0d82\u0d9c\u0dd2\u0d9a \u0d85\u0dad\u0dc0\u0dbb \u0d9a\u0dc5 \u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/14-\u0dc4\u0dd0\u0dc0\u0dd0\u0dbb\u0dd2\u0daf\u0dd2-\u0daf\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dd4\u0da7-\u0dbd\u0dd2\u0d82\u0d9c\u0dd2\u0d9a-\u0d85\u0dad\u0dc0\u0dbb-\u0d9a\u0dc5-\u0dc0\u0ddb\u0daf\u0dca\u200d\u0dba\u0dc0\u0dbb\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-422922",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781858599.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-adalk-a1cd6897",
+    "num": "adalk-a1cd6897",
+    "date_str": "2026-06-19",
+    "description": "\u0db6\u0dd2\u0dbb\u0dd2\u0db3\u0da7 \u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0daf\u0db8\u0dcf \u0d9d\u0dcf\u0dad\u0db1\u0dba \u0d9a\u0dbb \u0dc3\u0dd0\u0d9f\u0dc0\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2 \u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf \u0db8\u0dcf\u0dbd\u0dd2\u0dad\u0dca\u0dad\u0dcf\u0dc0 \u0d9a\u0db3\u0dd4 \u0dc0\u0dd0\u0da7\u0dd2\u0dba\u0dda\u0daf\u0dd3 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dd2\u0dbb\u0dd2\u0db3\u0da7-\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0daf\u0db8\u0dcf-\u0d9d\u0dcf\u0dad\u0db1\u0dba-\u0d9a\u0dbb-\u0dc3\u0dd0\u0d9f\u0dc0\u0dd3-\u0dc3\u0dd2\u0da7\u0dd2-\u0dc3\u0dd0\u0db8\u0dd2\u0dba\u0dcf-\u0db8\u0dcf\u0dbd\u0dd2\u0dad\u0dca\u0dad\u0dcf\u0dc0-\u0d9a\u0db3\u0dd4-\u0dc0\u0dd0\u0da7\u0dd2\u0dba\u0dda\u0daf\u0dd3-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-422923",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781858960.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-19-dailymirrorlk-507e4963",
     "num": "dailymirrorlk-507e4963",
     "date_str": "2026-06-19",
@@ -249681,5 +249703,104 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781861312.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-dae15dd9",
+    "num": "dailymirrorlk-dae15dd9",
+    "date_str": "2026-06-19",
+    "description": "Print Expo 2026",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Print-Expo-2026/110-343404",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781862337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-495c0fad",
+    "num": "dailymirrorlk-495c0fad",
+    "date_str": "2026-06-19",
+    "description": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
+    "url_metadata": "https://www.dailymirror.lk/international/US-Iran-talks-postponed-as-Vance-pulls-out-of-Switzerland-trip/107-343405",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781863112.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-76642fb3",
+    "num": "dailymirrorlk-76642fb3",
+    "date_str": "2026-06-19",
+    "description": "Mid-year mega sale at BMICH",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Mid-year-mega-sale-at-BMICH/110-343406",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781864053.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-c916d23f",
+    "num": "dailymirrorlk-c916d23f",
+    "date_str": "2026-06-19",
+    "description": "\u2019The last ride\u2019: Trump takes final flight on old Air Force One",
+    "url_metadata": "https://www.dailymirror.lk/international/The-last-ride-Trump-takes-final-flight-on-old-Air-Force-One/107-343408",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781865604.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-7cb6d7d6",
+    "num": "dailymirrorlk-7cb6d7d6",
+    "date_str": "2026-06-19",
+    "description": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lebanon-says-Israeli-strikes-kill-18-as-Israel-says-four-soldiers-killed-by-Hezbollah/108-343409",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781865766.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-c293a8da",
+    "num": "dailymirrorlk-c293a8da",
+    "date_str": "2026-06-19",
+    "description": "Archchuna removes slipper-garlanded cut-out of himself",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Archchuna-removes-slipper-garlanded-cut-out-of-himself/108-343410",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781866431.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-1fca392c",
+    "num": "dailymirrorlk-1fca392c",
+    "date_str": "2026-06-19",
+    "description": "Over 40 arrested in Walana STF raid on massage centres",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-40-arrested-in-Walana-STF-raid-on-massage-centres/108-343411",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781867844.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-tamilmirrorlk-b6cfca06",
+    "num": "tamilmirrorlk-b6cfca06",
+    "date_str": "2026-06-19",
+    "description": "\u2019\u0b95\u0bc1\u0bb7\u0bcd\u2019\u0bb7\u0bc2\u0b9f\u0ba9\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4  \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0baa\u0baf\u0ba3\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0bb7\u0bcd-\u0bb7\u0bc2\u0b9f\u0ba9\u0bcd-\u0bb5\u0ba8\u0bcd\u0ba4-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8-\u0baa\u0baf\u0ba3\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-378795",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781868948.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-tamilmirrorlk-78880e26",
+    "num": "tamilmirrorlk-78880e26",
+    "date_str": "2026-06-19",
+    "description": "\u0baa\u0bbe\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc0\u0ba3\u0bcd\u0b9f\u0bbf \u0baa\u0bc6\u0ba3\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0bbe\u0bae\u0bcd\u0baa\u0bc1-\u0ba4\u0bc0\u0ba3\u0bcd\u0b9f\u0bbf-\u0baa\u0bc6\u0ba3\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/76-378796",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781869250.0
   }
 ]

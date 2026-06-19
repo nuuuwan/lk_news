@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--19_15:28:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--19_17:22:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,057** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,068** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-19-dailymirrorlk-507e4963",
-    "num": "dailymirrorlk-507e4963",
+    "doc_id": "2026-06-19-tamilmirrorlk-78880e26",
+    "num": "tamilmirrorlk-78880e26",
     "date_str": "2026-06-19",
-    "description": "Sri Lanka\u2019s Liberal Youth Movement joins global liberal youth federation",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-Liberal-Youth-Movement-joins-global-liberal-youth-federation/108-343403",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781861312.0
+    "description": "\u0baa\u0bbe\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc0\u0ba3\u0bcd\u0b9f\u0bbf \u0baa\u0bc6\u0ba3\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0bbe\u0bae\u0bcd\u0baa\u0bc1-\u0ba4\u0bc0\u0ba3\u0bcd\u0b9f\u0bbf-\u0baa\u0bc6\u0ba3\u0bcd-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\u0bb3\u0bbf-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/76-378796",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781869250.0
 }
 ```
 
@@ -41,7 +41,18 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-19 | `tamilmirrorlk-78880e26` | பாம்பு தீண்டி பெண் தொழிலாளி உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-tamilmirrorlk-78880e26)
+- 2026-06-19 | `tamilmirrorlk-b6cfca06` | ’குஷ்’ஷூடன் வந்த  இலங்கை பயணி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-tamilmirrorlk-b6cfca06)
+- 2026-06-19 | `dailymirrorlk-1fca392c` | Over 40 arrested in Walana STF raid on massage centres | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-1fca392c)
+- 2026-06-19 | `dailymirrorlk-c293a8da` | Archchuna removes slipper-garlanded cut-out of himself | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-c293a8da)
+- 2026-06-19 | `dailymirrorlk-7cb6d7d6` | Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-7cb6d7d6)
+- 2026-06-19 | `dailymirrorlk-c916d23f` | ’The last ride’: Trump takes final flight on old Air Force One | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-c916d23f)
+- 2026-06-19 | `dailymirrorlk-76642fb3` | Mid-year mega sale at BMICH | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-76642fb3)
+- 2026-06-19 | `dailymirrorlk-495c0fad` | US-Iran talks postponed as Vance pulls out of Switzerland trip | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-495c0fad)
+- 2026-06-19 | `dailymirrorlk-dae15dd9` | Print Expo 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-dae15dd9)
 - 2026-06-19 | `dailymirrorlk-507e4963` | Sri Lanka’s Liberal Youth Movement joins global liberal youth federation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-507e4963)
+- 2026-06-19 | `adalk-a1cd6897` | බිරිඳට පෙට්‍රල් දමා ඝාතනය කර සැඟවී සිටි සැමියා මාලිත්තාව කඳු වැටියේදී අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-adalk-a1cd6897)
+- 2026-06-19 | `adalk-e35ebb76` | 14 හැවැරිදි දරුවෙකුට ලිංගික අතවර කළ වෛද්‍යවරයෙක් අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-adalk-e35ebb76)
 - 2026-06-19 | `dailymirrorlk-6a582b64` | Sri Lankan Rupee appreciates further against US Dollar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-6a582b64)
 - 2026-06-19 | `dailymirrorlk-f1de7eb4` | Dengue cases rise to 44,480 with 28 deaths reported this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-f1de7eb4)
 - 2026-06-19 | `adalk-81444be5` | 2025දී සහල් ආනයනය සියයට 40කින් වැඩි වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-adalk-81444be5)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2026-06-19 | `tamilmirrorlk-0d2d9abf` | சா/த பெறுபேறுகள் இன்று வெளியாகும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-tamilmirrorlk-0d2d9abf)
 - 2026-06-19 | `dailymirrorlk-d7004899` | Ample world inventories may soften El Nino food supply shock | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-d7004899)
 - 2026-06-19 | `dailymirrorlk-20edd1e6` | New Directors appointed to 17 key healthcare institutions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-20edd1e6)
-- 2026-06-19 | `adalk-2d04d1b6` | වඩා ආරක්ෂිත හා වේගවත් අන්තර්ජාල ගෙවීම් ක්‍රමයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-adalk-2d04d1b6)
-- 2026-06-19 | `dailymirrorlk-79a6f728` | Fisheries Ministry aids cyclone-affected fishermen | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-79a6f728)
-- 2026-06-19 | `dailymirrorlk-a72f008d` | No vaccine, conflict, mistrust: Ebola’s return to DR Congo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-a72f008d)
-- 2026-06-19 | `dailymirrorlk-75d6d8bb` | Govt clarifies new import monitoring rules | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-75d6d8bb)
-- 2026-06-19 | `dailymirrorlk-4bb3a29c` | President’s Fund provides laptops to 14 university students | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-4bb3a29c)
-- 2026-06-19 | `tamilmirrorlk-d3064778` | காலணி மாலையைத் அகற்றிய அர்ச்சுனா (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-tamilmirrorlk-d3064778)
-- 2026-06-19 | `dailymirrorlk-ea5c17dc` | Sri Lanka tightens import remittance regulations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-ea5c17dc)
-- 2026-06-19 | `dailymirrorlk-bfe06bd5` | Sri Lanka could save billions by expanding EV use, says Energy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-bfe06bd5)
-- 2026-06-19 | `dailymirrorlk-e4a61331` | Sri Lanka welcomes US-Iran ceasefire agreement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-e4a61331)
-- 2026-06-19 | `dailymirrorlk-41db9c5e` | Kala Wewa renovation begins to stop water leaks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-41db9c5e)
-- 2026-06-19 | `dailymirrorlk-c78b2703` | Thirty-five killed as gunmen attack Niger’s biggest airport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-c78b2703)
 
 ---
 
