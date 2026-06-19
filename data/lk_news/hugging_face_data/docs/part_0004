@@ -250363,5 +250363,16 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781884723.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-1394b296",
+    "num": "dailymirrorlk-1394b296",
+    "date_str": "2026-06-19",
+    "description": "G.C.E. O/L examination results released online",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/G-C-E-OL-examination-results-released-online/108-343451",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781890491.0
   }
 ]

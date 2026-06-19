@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--19_22:38:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--20_00:28:48-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,119** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,120** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-19-dailymirrorlk-4f340aac",
-    "num": "dailymirrorlk-4f340aac",
+    "doc_id": "2026-06-19-dailymirrorlk-1394b296",
+    "num": "dailymirrorlk-1394b296",
     "date_str": "2026-06-19",
-    "description": "Fire destroys processed tea stock at Elpitiya tea factory",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fire-destroys-processed-tea-stock-at-Elpitiya-tea-factory/108-343424",
+    "description": "G.C.E. O/L examination results released online",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/G-C-E-OL-examination-results-released-online/108-343451",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781884723.0
+    "time_ut": 1781890491.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-19 | `dailymirrorlk-1394b296` | G.C.E. O/L examination results released online | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-1394b296)
 - 2026-06-19 | `dailymirrorlk-4f340aac` | Fire destroys processed tea stock at Elpitiya tea factory | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-4f340aac)
 - 2026-06-19 | `dailymirrorlk-9e6e6abd` | Italy cancels US visit after Trump says Meloni ‘Begged’ him for photo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-9e6e6abd)
 - 2026-06-19 | `virakesarilk-2584c6a7` | செம்மணி புதைகுழியில் மேலும் 3 என்புக்கூடுகள் அகழ்வு; புதிதாக 7 என்புக்கூடுகள் அடையாளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-2584c6a7)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-06-19 | `virakesarilk-97e3170f` | ஜனாதிபதியை சந்தித்தார் சர்வதேச கிரிக்கெட் கவுன்சிலின் தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-97e3170f)
 - 2026-06-19 | `virakesarilk-c18a5c33` | ஆண்டின் எஞ்சிய மாதங்களுக்குள் திட்டங்கள் அனைத்தும் நிறைவு செய்யப்படவேண்டும் ; அனைவரும் ஒருங்கிணைந்து பணிகளை முன்கொண்டு செல்லுங்கள் - வடக்கு ஆளுநர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-c18a5c33)
 - 2026-06-19 | `dailymirrorlk-5d9c3df7` | Israel, Hezbollah agree to ceasefire starting on Friday - US official | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-5d9c3df7)
-- 2026-06-19 | `virakesarilk-5bee33ff` | செம்மணி மனிதப் புதைகுழியை பார்வையிட்டார் நீதி அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-5bee33ff)
 
 ---
 
