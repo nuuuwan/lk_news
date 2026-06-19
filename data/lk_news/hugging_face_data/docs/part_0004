@@ -248067,6 +248067,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-18-tamilmirrorlk-eb164480",
+    "num": "tamilmirrorlk-eb164480",
+    "date_str": "2026-06-18",
+    "description": "\u0b88\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd: \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf  \u0bae\u0bc0\u0ba4\u0bbe\u0ba9 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb8\u0bcd\u0b9f\u0bb0\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf-\u0bae\u0bc0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-378767",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781783118.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-18-dailymirrorlk-2f9dbdaf",
     "num": "dailymirrorlk-2f9dbdaf",
     "date_str": "2026-06-18",
@@ -248870,6 +248881,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-c40efb12",
+    "num": "dailymirrorlk-c40efb12",
+    "date_str": "2026-06-19",
+    "description": "\u201cFinger on Trigger:\u201d US-Iran peace deal is Fragile",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Finger-on-Trigger-US-Iran-peace-deal-is-Fragile/172-343345",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781823877.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-19-virakesarilk-9b96cf50",
     "num": "virakesarilk-9b96cf50",
     "date_str": "2026-06-19",
@@ -248922,6 +248944,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1781828220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailyftlk-497fcc80",
+    "num": "dailyftlk-497fcc80",
+    "date_str": "2026-06-19",
+    "description": "Stop producing Master Plans:  Sri Lanka needs only a \u2018Friction-free ecosystem\u2019 for economic growth",
+    "url_metadata": "https://www.ft.lk/columns/Stop-producing-Master-Plans-Sri-Lanka-needs-only-a-Friction-free-ecosystem-for-economic-growth/4-793508",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781828370.0
   },
   {
     "doc_type": "lk_news",
@@ -249046,6 +249079,61 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-c4439e9c",
+    "num": "dailymirrorlk-c4439e9c",
+    "date_str": "2026-06-19",
+    "description": "Sri Lanka, India recognize urgency, but no result on implementation yet",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-India-recognize-urgency-but-no-result-on-implementation-yet/108-343346",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781833270.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-60378246",
+    "num": "dailymirrorlk-60378246",
+    "date_str": "2026-06-19",
+    "description": "Three types of cardiac stents withdrawn immediately due to safety concerns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-types-of-cardiac-stents-withdrawn-immediately-due-to-safety-concerns/108-343347",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781833627.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-a9d98d6e",
+    "num": "dailymirrorlk-a9d98d6e",
+    "date_str": "2026-06-19",
+    "description": "No price hike for vehicles already imported by May 15: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-price-hike-for-vehicles-already-imported-by-May-15-Deputy-Minister/108-343348",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781833845.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailyftlk-aaea3f0f",
+    "num": "dailyftlk-aaea3f0f",
+    "date_str": "2026-06-19",
+    "description": "Do higher taxes mean less work? What Sri Lanka\u2019s 2022 tax reform tells us",
+    "url_metadata": "https://www.ft.lk/opinion/Do-higher-taxes-mean-less-work-What-Sri-Lanka-s-2022-tax-reform-tells-us/14-793514",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781833941.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-1fdb3938",
+    "num": "dailymirrorlk-1fdb3938",
+    "date_str": "2026-06-19",
+    "description": "Over 1,200 killed in road accidents in less than six months",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-1-200-killed-in-road-accidents-in-less-than-six-months/108-343349",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781834036.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-19-dailyftlk-e97ee546",
     "num": "dailyftlk-e97ee546",
     "date_str": "2026-06-19",
@@ -249101,6 +249189,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-c5a84ffc",
+    "num": "dailymirrorlk-c5a84ffc",
+    "date_str": "2026-06-19",
+    "description": "US lifts naval blockade as Iran\u2019s supreme leader says Trump made deal \u2019out of desperation\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-lifts-naval-blockade-as-Irans-supreme-leader-says-Trump-made-deal-out-of-desperation/108-343351",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781837618.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-adalk-849e6876",
+    "num": "adalk-849e6876",
+    "date_str": "2026-06-19",
+    "description": "\u0d89\u0dbb\u0dcf\u0db1\u0dba\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2 \u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0d85\u0dc0\u0dc4\u0dd2\u0dbb\u0dba \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/international/\u0d89\u0dbb\u0dcf\u0db1\u0dba\u0da7-\u0d91\u0dbb\u0dd9\u0dc4\u0dd2-\u0db1\u0dcf\u0dc0\u0dd2\u0d9a-\u0d85\u0dc0\u0dc4\u0dd2\u0dbb\u0dba-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0-\u0d89\u0dc0\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/3-422912",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781837990.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-19-adalk-a4b28717",
     "num": "adalk-a4b28717",
     "date_str": "2026-06-19",
@@ -249120,5 +249230,203 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1781839020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-13b9e91c",
+    "num": "dailymirrorlk-13b9e91c",
+    "date_str": "2026-06-19",
+    "description": "World Cup Matchweek 2: Qualification Race Heats Up",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/World-Cup-Matchweek-2-Qualification-Race-Heats-Up/108-343352",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781839490.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-adalk-8b2ccaf0",
+    "num": "adalk-8b2ccaf0",
+    "date_str": "2026-06-19",
+    "description": "\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba \u0dc4\u0dcf \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0 \u0d85\u0dad\u0dbb \u0d87\u0dad\u0dd2\u0dc0\u0dd6 \u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca \u0d9c\u0dd0\u0db1 \u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba-\u0dc4\u0dcf-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0-\u0d85\u0dad\u0dbb-\u0d87\u0dad\u0dd2\u0dc0\u0dd6-\u0d8b\u0dab\u0dd4\u0dc3\u0dd4\u0db8\u0dca-\u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0d9a\u0dca-\u0d9c\u0dd0\u0db1-\u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0db1\u0dba\u0d9a\u0dca/11-422914",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781839832.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-9ea25c18",
+    "num": "dailymirrorlk-9ea25c18",
+    "date_str": "2026-06-19",
+    "description": "FIFA World Cup 2026: The First Round Is Complete. Here Are All the Stories That Matter.",
+    "url_metadata": "https://www.dailymirror.lk/recomended-news/FIFA-World-Cup-2026-The-First-Round-Is-Complete-Here-Are-All-the-Stories-That-Matter/277-343353",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781840364.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-81e1c6df",
+    "num": "dailymirrorlk-81e1c6df",
+    "date_str": "2026-06-19",
+    "description": "Investigation Board appointed over Kalpitiya Range incident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Investigation-Board-appointed-over-Kalpitiya-Range-incident/108-343354",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781841450.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-tamilmirrorlk-e2f1985d",
+    "num": "tamilmirrorlk-e2f1985d",
+    "date_str": "2026-06-19",
+    "description": "\u0b95\u0bb1\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf \u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd: \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8 \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb1\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf-\u0bb5\u0bbf\u0bb5\u0b95\u0bbe\u0bb0\u0bae\u0bcd-\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/175-378788",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781843203.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-a8df47f3",
+    "num": "dailymirrorlk-a8df47f3",
+    "date_str": "2026-06-19",
+    "description": "Andy Burnham\u2019s election to parliament sets up bid to oust UK PM Starmer",
+    "url_metadata": "https://www.dailymirror.lk/international/Andy-Burnhams-election-to-parliament-sets-up-bid-to-oust-UK-PM-Starmer/107-343366",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781843335.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-34fcc7cb",
+    "num": "dailymirrorlk-34fcc7cb",
+    "date_str": "2026-06-19",
+    "description": "Indonesia to halt free meal scheme during holidays",
+    "url_metadata": "https://www.dailymirror.lk/international/Indonesia-to-halt-free-meal-scheme-during-holidays/107-343370",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781843534.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-e98ac6f1",
+    "num": "dailymirrorlk-e98ac6f1",
+    "date_str": "2026-06-19",
+    "description": "Sleep on beach",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Sleep-on-beach/110-343372",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781843709.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-3a250842",
+    "num": "dailymirrorlk-3a250842",
+    "date_str": "2026-06-19",
+    "description": "Water Supply disrupted in Mahara and Gampaha until Saturday morning",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Water-Supply-disrupted-in-Mahara-and-Gampaha-until-Saturday-morning/108-343374",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781843895.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-tamilmirrorlk-d02d6cfb",
+    "num": "tamilmirrorlk-d02d6cfb",
+    "date_str": "2026-06-19",
+    "description": "2026  FIFA:  \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b8e\u0b9f\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0ba8\u0bbe\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/2026-FIFA-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0b8e\u0b9f\u0bcd\u0b9f\u0bbe\u0bae\u0bcd-\u0ba8\u0bbe\u0bb3\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf/44-378789",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781843921.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-b23d13e9",
+    "num": "dailymirrorlk-b23d13e9",
+    "date_str": "2026-06-19",
+    "description": "Direct Ahmedabad-Colombo flights to begin, boosting tourism and business travel",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Direct-Ahmedabad-Colombo-flights-to-begin-boosting-tourism-and-business-travel/108-343376",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781844317.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-tamilmirrorlk-6c8b9553",
+    "num": "tamilmirrorlk-6c8b9553",
+    "date_str": "2026-06-19",
+    "description": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bbe\u0b95\u0bbe\u0ba3 \u0bae\u0bc2\u0bb2\u0ba4\u0ba9\u0ba4\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0bae\u0bbe\u0b95\u0bbe\u0ba3-\u0bae\u0bc2\u0bb2\u0ba4\u0ba9\u0ba4\u0bcd-\u0ba4\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4-\u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd/76-378790",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781844769.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-456c38e1",
+    "num": "dailymirrorlk-456c38e1",
+    "date_str": "2026-06-19",
+    "description": "Shoe garland hung on MP Archuna\u2019s portrait in Jaffna",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Shoe-garland-hung-on-MP-Archunas-portrait-in-Jaffna/108-343377",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781844900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-tamilmirrorlk-12831299",
+    "num": "tamilmirrorlk-12831299",
+    "date_str": "2026-06-19",
+    "description": "\u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bc8\u0ba4\u0bcd \u0ba4\u0bc7\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bb0\u0bcd\u0bae\u0bae\u0bbe\u0ba9 \u0bae\u0bb0\u0ba3\u0bae\u0bcd: \u0b92\u0ba9\u0bcd\u0bb1\u0bb0\u0bc8 \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb2\u0bcd \u0b95\u0b9f\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bc8\u0ba4\u0bcd-\u0ba4\u0bc7\u0b9f\u0bc1\u0bae\u0bcd-\u0bae\u0bb0\u0bcd\u0bae\u0bae\u0bbe\u0ba9-\u0bae\u0bb0\u0ba3\u0bae\u0bcd-\u0b92\u0ba9\u0bcd\u0bb1\u0bb0\u0bc8-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bae\u0bc7\u0bb2\u0bcd-\u0b95\u0b9f\u0ba9\u0bcd/175-378791",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781845717.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-tamilmirrorlk-337d52ea",
+    "num": "tamilmirrorlk-337d52ea",
+    "date_str": "2026-06-19",
+    "description": "\u0b85\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc1\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b89\u0bb0\u0bc1\u0bb5\u0baa\u0bcd\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0bb2\u0ba3\u0bbf \u0bae\u0bbe\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0b85\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc1\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b89\u0bb0\u0bc1\u0bb5\u0baa\u0bcd\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1-\u0b95\u0bbe\u0bb2\u0ba3\u0bbf-\u0bae\u0bbe\u0bb2\u0bc8/71-378792",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781846058.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-2d6cbdbe",
+    "num": "dailymirrorlk-2d6cbdbe",
+    "date_str": "2026-06-19",
+    "description": "Switzerland says US-Iran talks planned for Friday are off",
+    "url_metadata": "https://www.dailymirror.lk/international/Switzerland-says-US-Iran-talks-planned-for-Friday-are-off/107-343378",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781846116.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-2f8b098e",
+    "num": "dailymirrorlk-2f8b098e",
+    "date_str": "2026-06-19",
+    "description": "Mexico beat South Korea 1-0, become first team to reach World Cup knockouts",
+    "url_metadata": "https://www.dailymirror.lk/international/Mexico-beat-South-Korea-1-0-become-first-team-to-reach-World-Cup-knockouts/107-343379",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781847276.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-c78b2703",
+    "num": "dailymirrorlk-c78b2703",
+    "date_str": "2026-06-19",
+    "description": "Thirty-five killed as gunmen attack Niger\u2019s biggest airport",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thirty-five-killed-as-gunmen-attack-Nigers-biggest-airport/108-343381",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781848236.0
   }
 ]

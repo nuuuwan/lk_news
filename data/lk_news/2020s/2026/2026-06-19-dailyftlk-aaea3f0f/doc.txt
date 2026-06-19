@@ -1,0 +1,61 @@
+Do higher taxes mean less work? What Sri Lanka’s 2022 tax reform tells us
+
+Sri Lanka’s new income tax reform was rolled out in January 2023 as an urgent step towards raising much-needed government revenue. The previous year, the country had defaulted on its debt for the first time in history, and international lenders insisted on fiscal reforms.
+
+But beyond the headlines about budgets and deficits, how did the reform affect ordinary people’s lives? Did higher taxes change the way Sri Lankans worked, how much they worked, or whether more people entered the labour force?
+
+These are the questions that researcher Kanishka Werawella set out to answer in his study, “Do Higher Taxes Reduce Work? A Difference-in-Differences Analysis of Sri Lanka’s 2022 Tax Reform”. The paper, written under the Macroeconomic Policy and Socioeconomic Rights Fellowship of the Neelan Tiruchelvam Trust, sheds light on the human side of tax policy. The results are sobering.
+
+At the heart of the reform, there was a sharp change: the monthly income tax exemption threshold was reduced from LKR250,000 to LKR100,000. Suddenly, thousands of middle-income workers who had never paid income tax found themselves liable.
+
+For the government, this was a way to widen the tax net and boost revenue. For households, it meant reduced income and difficult adjustments.
+
+Werawella’s research focuses not on abstract fiscal targets, but on the lived experience of workers and families. To see how behaviour changed, he compared groups affected by the tax to those who were not using a difference-in-differences analysis .
+
+The difference-in-differences method, a useful tool for data analysis, is a quasi-experimental approach that compares the changes in outcomes over time between a population enrolled in a programme (the treatment group) and a population that is not (the comparison group).
+
+The study uncovered a dual effect. Some formal sector employees who began paying taxes cut back on their working hours. On average, hours worked dropped by about 3–4% compared to unaffected workers. As Werawella explains, higher taxes often reduce the incentive to take on overtime or push harder at work, especially if the extra income will be significantly taxed away.
+
+Simultaneously, other members of the household stepped in. To make up for the lost income, spouses and young adults took on jobs, often in the informal sector. These jobs were typically precarious, lacking benefits, job security or legal protections.
+
+This coping strategy highlights how tax changes ripple beyond the individual taxpayer, affecting entire families and their decisions about work.
+
+One of Werawella’s key findings is that men and women responded differently to the reform.
+
+Men adjusted their labour supply more visibly, cutting hours or moving into different types of work. Women, however, showed little change. Not because they were unaffected, but because structural barriers tied their hands.
+
+Women often shoulder heavy unpaid care responsibilities at home, face restrictive cultural norms, and are overrepresented in jobs that offer little flexibility. As a result, they had fewer options to adjust their paid work in response to the new tax burden.
+
+This highlights the risk of deepening gender inequality. If men are able to shift strategies while women remain trapped by care work and limited job opportunities, the gap in true economic participation grows wider.
+
+Another worrying trend the study identifies is the movement from formal to informal employment. Faced with new tax obligations, some workers shifted into informal jobs, which currently remain outside the easily regulated tax structure.
+
+This might look like a rational choice for individuals. But it carries long-term risks: informal work is typically low-paid, unstable and without retirement or labour protections. A shift toward informality weakens the very base of the tax system while leaving workers more vulnerable.
+
+Werawella states that tax reform cannot be understood solely as a revenue measure. It has direct implications for socioeconomic rights, the right to decent work, fair income and equality of opportunity.
+
+Middle-income households saw their take-home pay shrink, forcing hard trade-offs. Some cut back hours, while others relied on secondary earners, often in unstable jobs. Women were left with little flexibility, reinforcing existing inequalities. Workers who shifted to informal jobs lost access to protections and entitlements, undermining the right to secure employment. And families under pressure sometimes relied on youth or young adults to work, at the expense of education or care responsibilities.
+
+In short, Werawella’s research shows how fiscal policy choices, if made without attention to social realities, can unintentionally harm the very groups already struggling.
+
+Based on his findings, Werawella lays out several recommendations for policymakers. He suggests that they consider labour market realities as tax changes cannot be designed in isolation from how people actually work, especially in an economy with high levels of informality.
+
+He espouses introducing support measures to soften the blow for vulnerable groups, pointing out that complementary policies such as childcare support, targeted cash transfers, or earned income credits could be helpful.
+
+He pushes for gender-sensitive approaches, where tax reforms are paired with broader changes that address unpaid care, workplace flexibility and social norms. Otherwise, women will remain disadvantaged.
+
+He also proposes investment in better data, as policymakers need disaggregated data on labour supply by gender, income and sector to understand the real-world effects of tax policy.
+
+Sri Lanka’s economic crisis has made fiscal reform unavoidable. The state urgently needs to rebuild its revenues to fund basic services and meet international obligations.
+
+But Werawella’s research is a reminder that how revenue is raised matters just as much as how much is raised. Policies that push workers into informal jobs, increase unpaid care burdens or deepen gender inequality may balance the books in the short term but weaken the economy and society in the long run.
+
+Reforms are not only about government revenue, but they also directly affect people’s socioeconomic rights.
+
+The lesson is clear: taxation must be paired with protection. Without safeguards, households will adopt coping strategies that undermine stability, equality and rights.
+
+If policymakers want to avoid repeating the mistakes of the past, they must design tax reforms that balance fiscal needs with social realities. That means listening to workers’ experiences, supporting families under strain and ensuring that reforms do not fall hardest on those with the least ability to adapt.
+
+For Sri Lanka, the challenge is not simply raising revenue. It is doing so in a way that upholds the dignity and rights of its people.
+
+(Kanishka Werawella authored the research paper “Do Higher Taxes Reduce Work? A Difference-in-Differences Analysis of Sri Lanka’s 2022 Tax Reform” under the Macroeconomic Policy and Socioeconomic Rights Fellowship of the Neelan Tiruchelvam Trust. The full compilation of research papers produced through this fellowship can be accessed here:  https://neelan.org/macroeconomic-_policy/)

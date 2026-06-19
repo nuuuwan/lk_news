@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--19_09:15:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--19_11:31:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,006** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,034** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-19-virakesarilk-6834b0c4",
-    "num": "virakesarilk-6834b0c4",
+    "doc_id": "2026-06-19-dailymirrorlk-c78b2703",
+    "num": "dailymirrorlk-c78b2703",
     "date_str": "2026-06-19",
-    "description": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0baa\u0bb2 \u0baa\u0b95\u0bc1\u0ba4\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0bae\u0bb4\u0bc8 \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0b87\u0b9f\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0bae\u0bb4\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
-    "url_metadata": "https://www.virakesari.lk/article/250337",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1781839020.0
+    "description": "Thirty-five killed as gunmen attack Niger\u2019s biggest airport",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thirty-five-killed-as-gunmen-attack-Nigers-biggest-airport/108-343381",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781848236.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-19 | `dailymirrorlk-c78b2703` | Thirty-five killed as gunmen attack Niger’s biggest airport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-c78b2703)
+- 2026-06-19 | `dailymirrorlk-2f8b098e` | Mexico beat South Korea 1-0, become first team to reach World Cup knockouts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-2f8b098e)
+- 2026-06-19 | `dailymirrorlk-2d6cbdbe` | Switzerland says US-Iran talks planned for Friday are off | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-2d6cbdbe)
+- 2026-06-19 | `tamilmirrorlk-337d52ea` | அர்ச்சுனாவின் உருவப்படத்திற்கு காலணி மாலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-tamilmirrorlk-337d52ea)
+- 2026-06-19 | `tamilmirrorlk-12831299` | காதலனைத் தேடும் மர்மமான மரணம்: ஒன்றரை கோடி ரூபாய்க்கும் மேல் கடன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-tamilmirrorlk-12831299)
+- 2026-06-19 | `dailymirrorlk-456c38e1` | Shoe garland hung on MP Archuna’s portrait in Jaffna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-456c38e1)
+- 2026-06-19 | `tamilmirrorlk-6c8b9553` | மத்திய மாகாண மூலதனத் தேவைகள் குறித்த கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-tamilmirrorlk-6c8b9553)
+- 2026-06-19 | `dailymirrorlk-b23d13e9` | Direct Ahmedabad-Colombo flights to begin, boosting tourism and business travel | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-b23d13e9)
+- 2026-06-19 | `tamilmirrorlk-d02d6cfb` | 2026  FIFA:  உலகக் கோப்பையின் எட்டாம் நாள் அதிரடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-tamilmirrorlk-d02d6cfb)
+- 2026-06-19 | `dailymirrorlk-3a250842` | Water Supply disrupted in Mahara and Gampaha until Saturday morning | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-3a250842)
+- 2026-06-19 | `dailymirrorlk-e98ac6f1` | Sleep on beach | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-e98ac6f1)
+- 2026-06-19 | `dailymirrorlk-34fcc7cb` | Indonesia to halt free meal scheme during holidays | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-34fcc7cb)
+- 2026-06-19 | `dailymirrorlk-a8df47f3` | Andy Burnham’s election to parliament sets up bid to oust UK PM Starmer | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-a8df47f3)
+- 2026-06-19 | `tamilmirrorlk-e2f1985d` | கற்பிட்டி விவகாரம்: சிறப்பு விசாரணை ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-tamilmirrorlk-e2f1985d)
+- 2026-06-19 | `dailymirrorlk-81e1c6df` | Investigation Board appointed over Kalpitiya Range incident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-81e1c6df)
+- 2026-06-19 | `dailymirrorlk-9ea25c18` | FIFA World Cup 2026: The First Round Is Complete. Here Are All the Stories That Matter. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-9ea25c18)
+- 2026-06-19 | `adalk-8b2ccaf0` | පොලීසිය හා ගුවන් හමුදාව අතර ඇතිවූ උණුසුම් තත්ත්වයක් ගැන විමර්ශනයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-adalk-8b2ccaf0)
+- 2026-06-19 | `dailymirrorlk-13b9e91c` | World Cup Matchweek 2: Qualification Race Heats Up | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-13b9e91c)
 - 2026-06-19 | `virakesarilk-6834b0c4` | நாட்டின் பல பகுதிகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-6834b0c4)
 - 2026-06-19 | `adalk-a4b28717` | නයිජර්හි විශාලම ගුවන් තොටුපොළට ප්‍රහාරයක් 35ක් මරුට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-adalk-a4b28717)
-- 2026-06-19 | `virakesarilk-237437c5` | கற்பிட்டி விமானப்படை துப்பாக்கிச் சூட்டுத் தள சம்பவம் பற்றி விசேட விசாரணை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-237437c5)
-- 2026-06-19 | `tamilmirrorlk-431a594a` | இன்று  இடியுடன் கூடிய மழை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-tamilmirrorlk-431a594a)
-- 2026-06-19 | `dailyftlk-f52c5717` | Concentric AI joins forces as Strategic Partner for 2nd Data Privacy and Protection Summit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailyftlk-f52c5717)
-- 2026-06-19 | `dailyftlk-57025f23` | Dialog advances enterprise risk governance to global ISO 31000 standards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailyftlk-57025f23)
-- 2026-06-19 | `dailyftlk-e97ee546` | Digital veterinary health monitoring supports “Aloka” during historic peace walk across Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailyftlk-e97ee546)
-- 2026-06-19 | `virakesarilk-1a3b6e86` | உலக சந்தையில் கச்சா எண்ணெய் விலை ஒரு வருடத்திற்கு முன்பு இருந்த அதே நிலையில் உள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-1a3b6e86)
-- 2026-06-19 | `dailyftlk-5934a517` | Solvency is for the State, prosperity is for the people | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailyftlk-5934a517)
-- 2026-06-19 | `dailyftlk-66c8159c` | Transformational climate adaptation in Sri Lanka needs better governance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailyftlk-66c8159c)
-- 2026-06-19 | `dailyftlk-4ae146e5` | Decent work for domestic workers can’t wait | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailyftlk-4ae146e5)
-- 2026-06-19 | `virakesarilk-7fb8ac49` | கரம் போர்ட் கொள்வனவு மோசடி விவகாரம் நளின் பெர்னாண்டோவின் மனு ஒத்திவைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-7fb8ac49)
-- 2026-06-19 | `virakesarilk-2501f01d` | வலிகாமம் வடக்கு பிரதேச செயலக அபிவிருத்தி கூட்டத்தில் கஜேந்திரகுமார், அர்ச்சுனா வாய்த்தர்க்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-2501f01d)
-- 2026-06-19 | `virakesarilk-1716b482` | வெங்கலச்செட்டிகுளம் பிரதேச செயலாளருக்கு பணித்தடை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-1716b482)
-- 2026-06-19 | `virakesarilk-04a4123f` | சிகையலங்கார நிலைய தாக்குதல் காணொளி வைரல்: சந்தேகநபர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-04a4123f)
-- 2026-06-19 | `virakesarilk-2bf1d1e3` | திருத்துவ கல்லூரிக்கு ரூ.3 பில்லியன் நன்கொடை; பழைய மாணவர் நஹில் விஜேசுரியவுக்கு அதிபர் நன்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-2bf1d1e3)
-- 2026-06-19 | `dailyftlk-968a9dfb` | Beyond the IMF: Why Sri Lanka needs a national vision, strong institutions and effective economic diplomacy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailyftlk-968a9dfb)
-- 2026-06-19 | `virakesarilk-081d640b` | இலங்கை அச்சக மற்றும் வர்த்தகக் கண்காட்சி இன்று ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-081d640b)
-- 2026-06-19 | `virakesarilk-d562ec7d` | மத்திய கிழக்கு போரால் கொழும்பு துறைமுகம் மீது உலகின் பார்வை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-d562ec7d)
-- 2026-06-19 | `virakesarilk-da71843b` | ஒப்பந்தப் பிரச்சினையால் காலதாமதமாகியுள்ள கள்ளப்பாடு: அளம்பில் கடற்கரைவீதியின் சீரமைப்பை துரிதப்படுத்துக; தீர்மானத்தை முன்மொழிந்தார் - ரவிகரன் எம்.பி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-da71843b)
 
 ---
 
