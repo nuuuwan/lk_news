@@ -242182,6 +242182,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-15-islandlk-9363287e",
+    "num": "islandlk-9363287e",
+    "date_str": "2026-06-15",
+    "description": "A deal that pours oil on troubled waters",
+    "url_metadata": "http://island.lk/a-deal-that-pours-oil-on-troubled-waters/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781544780.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-15-islandlk-b836e647",
     "num": "islandlk-b836e647",
     "date_str": "2026-06-15",
@@ -246637,6 +246648,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-17-islandlk-e98edced",
+    "num": "islandlk-e98edced",
+    "date_str": "2026-06-17",
+    "description": "\u2018The devil is in the details\u2019 in West Asian peace",
+    "url_metadata": "http://island.lk/the-devil-is-in-the-details-in-west-asian-peace/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781718360.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-17-dailymirrorlk-cf2245a8",
     "num": "dailymirrorlk-cf2245a8",
     "date_str": "2026-06-17",
@@ -246648,6 +246670,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-17-islandlk-9879fbe5",
+    "num": "islandlk-9879fbe5",
+    "date_str": "2026-06-17",
+    "description": "Top Model of the World 2026",
+    "url_metadata": "http://island.lk/top-model-of-the-world-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781718900.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-17-islandlk-3aaf84c2",
     "num": "islandlk-3aaf84c2",
     "date_str": "2026-06-17",
@@ -246656,6 +246689,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1781719020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-17-islandlk-9755c22e",
+    "num": "islandlk-9755c22e",
+    "date_str": "2026-06-17",
+    "description": "Sri Lanka\u2019s elephant paradox: Govt. counts tourism dollars while playing a dangerous numbers game: Expert",
+    "url_metadata": "http://island.lk/sri-lankas-elephant-paradox-govt-counts-tourism-dollars-while-playing-a-dangerous-numbers-game-expert/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781719200.0
   },
   {
     "doc_type": "lk_news",
@@ -248309,6 +248353,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-18-islandlk-30603279",
+    "num": "islandlk-30603279",
+    "date_str": "2026-06-18",
+    "description": "Wickramarachchi Opticians and Hearing Care celebrates 50 years of service in Sri Lanka",
+    "url_metadata": "http://island.lk/wickramarachchi-opticians-and-hearing-care-celebrates-50-years-of-service-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781796360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-islandlk-ab0b7d21",
+    "num": "islandlk-ab0b7d21",
+    "date_str": "2026-06-18",
+    "description": "Sri Lankan contingent heads to Cannes Young Lions competition",
+    "url_metadata": "http://island.lk/sri-lankan-contingent-heads-to-cannes-young-lions-competition/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781796420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-islandlk-c0ca1a64",
+    "num": "islandlk-c0ca1a64",
+    "date_str": "2026-06-18",
+    "description": "LAKARCADE appointed as national entity member of World Crafts Council",
+    "url_metadata": "http://island.lk/lakarcade-appointed-as-national-entity-member-of-world-crafts-council/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781796420.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-18-virakesarilk-ffef2476",
     "num": "virakesarilk-ffef2476",
     "date_str": "2026-06-18",
@@ -248350,6 +248427,50 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781798914.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-islandlk-150df3d5",
+    "num": "islandlk-150df3d5",
+    "date_str": "2026-06-18",
+    "description": "US-Iran peace accord lifts CSE sentiment; turnover hits Rs 3.1bn",
+    "url_metadata": "http://island.lk/us-iran-peace-accord-lifts-cse-sentiment-turnover-hits-rs-3-1bn/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781799480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-islandlk-45b7b15d",
+    "num": "islandlk-45b7b15d",
+    "date_str": "2026-06-18",
+    "description": "SLT-MOBITEL launches \u2018Lankakonect\u2019 app to support Sri Lankans overseas",
+    "url_metadata": "http://island.lk/slt-mobitel-launches-lankakonect-app-to-support-sri-lankans-overseas/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781799480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-islandlk-7780bc18",
+    "num": "islandlk-7780bc18",
+    "date_str": "2026-06-18",
+    "description": "IMC Education and Plymouth Marjon University launch BSc in Applied Psychology in Sri Lanka",
+    "url_metadata": "http://island.lk/imc-education-and-plymouth-marjon-university-launch-bsc-in-applied-psychology-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781799480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-18-islandlk-a392fa84",
+    "num": "islandlk-a392fa84",
+    "date_str": "2026-06-18",
+    "description": "AI Catalyst Symposium 2026 urges shift from ambition to execution",
+    "url_metadata": "http://island.lk/ai-catalyst-symposium-2026-urges-shift-from-ambition-to-execution/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781799480.0
   },
   {
     "doc_type": "lk_news",
@@ -248647,5 +248768,60 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781822750.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailyftlk-a47eb971",
+    "num": "dailyftlk-a47eb971",
+    "date_str": "2026-06-19",
+    "description": "Speaker endorses Rescue, Rehabilitation and Insolvency Bill",
+    "url_metadata": "https://www.ft.lk/news/Speaker-endorses-Rescue-Rehabilitation-and-Insolvency-Bill/56-793501",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781823180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailyftlk-2a3915e5",
+    "num": "dailyftlk-2a3915e5",
+    "date_str": "2026-06-19",
+    "description": "Probe launched into Police-Air Force standoff during Kalpitiya raid",
+    "url_metadata": "https://www.ft.lk/news/Probe-launched-into-Police-Air-Force-standoff-during-Kalpitiya-raid/56-793502",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781823196.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailyftlk-f6acd69a",
+    "num": "dailyftlk-f6acd69a",
+    "date_str": "2026-06-19",
+    "description": "Court postpones hearing  of Gotabaya Rajapaksa petition over Easter attacks probe",
+    "url_metadata": "https://www.ft.lk/news/Court-postpones-hearing-of-Gotabaya-Rajapaksa-petition-over-Easter-attacks-probe/56-793503",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781823259.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailyftlk-66c8159c",
+    "num": "dailyftlk-66c8159c",
+    "date_str": "2026-06-19",
+    "description": "Transformational climate adaptation in Sri Lanka needs better governance",
+    "url_metadata": "https://www.ft.lk/columns/Transformational-climate-adaptation-in-Sri-Lanka-needs-better-governance/4-793512",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781830104.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailyftlk-5934a517",
+    "num": "dailyftlk-5934a517",
+    "date_str": "2026-06-19",
+    "description": "Solvency is for the State, prosperity is for the people",
+    "url_metadata": "https://www.ft.lk/columns/Solvency-is-for-the-State-prosperity-is-for-the-people/4-793513",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1781830390.0
   }
 ]
