@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--19_13:44:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--19_15:28:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,050** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,057** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-19-tamilmirrorlk-0d2d9abf",
-    "num": "tamilmirrorlk-0d2d9abf",
+    "doc_id": "2026-06-19-dailymirrorlk-507e4963",
+    "num": "dailymirrorlk-507e4963",
     "date_str": "2026-06-19",
-    "description": "\u0b9a\u0bbe/\u0ba4 \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbe-\u0ba4-\u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd-\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd/175-378794",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1781856229.0
+    "description": "Sri Lanka\u2019s Liberal Youth Movement joins global liberal youth federation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-Liberal-Youth-Movement-joins-global-liberal-youth-federation/108-343403",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781861312.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-19 | `dailymirrorlk-507e4963` | Sri Lanka’s Liberal Youth Movement joins global liberal youth federation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-507e4963)
+- 2026-06-19 | `dailymirrorlk-6a582b64` | Sri Lankan Rupee appreciates further against US Dollar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-6a582b64)
+- 2026-06-19 | `dailymirrorlk-f1de7eb4` | Dengue cases rise to 44,480 with 28 deaths reported this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-f1de7eb4)
+- 2026-06-19 | `adalk-81444be5` | 2025දී සහල් ආනයනය සියයට 40කින් වැඩි වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-adalk-81444be5)
+- 2026-06-19 | `dailymirrorlk-0f17f2f4` | SJB has no issues with Dayasiri: MP | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-0f17f2f4)
+- 2026-06-19 | `dailymirrorlk-f2ac93c2` | Lanka Salt Company GM arrested over Rs. 14.3M corruption allegation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-f2ac93c2)
 - 2026-06-19 | `tamilmirrorlk-0d2d9abf` | சா/த பெறுபேறுகள் இன்று வெளியாகும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-tamilmirrorlk-0d2d9abf)
 - 2026-06-19 | `dailymirrorlk-d7004899` | Ample world inventories may soften El Nino food supply shock | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-d7004899)
 - 2026-06-19 | `dailymirrorlk-20edd1e6` | New Directors appointed to 17 key healthcare institutions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-20edd1e6)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-06-19 | `dailymirrorlk-e4a61331` | Sri Lanka welcomes US-Iran ceasefire agreement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-e4a61331)
 - 2026-06-19 | `dailymirrorlk-41db9c5e` | Kala Wewa renovation begins to stop water leaks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-41db9c5e)
 - 2026-06-19 | `dailymirrorlk-c78b2703` | Thirty-five killed as gunmen attack Niger’s biggest airport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-c78b2703)
-- 2026-06-19 | `dailymirrorlk-2f8b098e` | Mexico beat South Korea 1-0, become first team to reach World Cup knockouts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-2f8b098e)
-- 2026-06-19 | `dailymirrorlk-2d6cbdbe` | Switzerland says US-Iran talks planned for Friday are off | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-2d6cbdbe)
-- 2026-06-19 | `tamilmirrorlk-337d52ea` | அர்ச்சுனாவின் உருவப்படத்திற்கு காலணி மாலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-tamilmirrorlk-337d52ea)
-- 2026-06-19 | `tamilmirrorlk-12831299` | காதலனைத் தேடும் மர்மமான மரணம்: ஒன்றரை கோடி ரூபாய்க்கும் மேல் கடன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-tamilmirrorlk-12831299)
-- 2026-06-19 | `adalk-4299e6dc` | ආනයන ගෙවීම් සම්බන්ධ නව රෙගුලාසි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-adalk-4299e6dc)
-- 2026-06-19 | `dailymirrorlk-456c38e1` | Shoe garland hung on MP Archuna’s portrait in Jaffna | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-456c38e1)
 
 ---
 

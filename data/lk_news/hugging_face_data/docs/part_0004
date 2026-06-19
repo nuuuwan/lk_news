@@ -249409,6 +249409,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-19-adalk-6ba3e2f5",
+    "num": "adalk-6ba3e2f5",
+    "date_str": "2026-06-19",
+    "description": "\u0d89\u0dbb\u0dcf\u0db1 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0dbb\u0dcf\u0db1-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf-\u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf-\u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4\u0dba\u0dd2/11-422918",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781845700.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-19-tamilmirrorlk-12831299",
     "num": "tamilmirrorlk-12831299",
     "date_str": "2026-06-19",
@@ -249604,5 +249615,71 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781856229.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-f2ac93c2",
+    "num": "dailymirrorlk-f2ac93c2",
+    "date_str": "2026-06-19",
+    "description": "Lanka Salt Company GM arrested over Rs. 14.3M corruption allegation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lanka-Salt-Company-GM-arrested-over-Rs-14-3M-corruption-allegation/108-343396",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781856586.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-0f17f2f4",
+    "num": "dailymirrorlk-0f17f2f4",
+    "date_str": "2026-06-19",
+    "description": "SJB has no issues with Dayasiri: MP",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-has-no-issues-with-Dayasiri-MP/108-343398",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781857513.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-adalk-81444be5",
+    "num": "adalk-81444be5",
+    "date_str": "2026-06-19",
+    "description": "2025\u0daf\u0dd3 \u0dc3\u0dc4\u0dbd\u0dca \u0d86\u0db1\u0dba\u0db1\u0dba \u0dc3\u0dd2\u0dba\u0dba\u0da7 40\u0d9a\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/2025\u0daf\u0dd3-\u0dc3\u0dc4\u0dbd\u0dca-\u0d86\u0db1\u0dba\u0db1\u0dba-\u0dc3\u0dd2\u0dba\u0dba\u0da7-40\u0d9a\u0dd2\u0db1\u0dca-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd9\u0dbd\u0dcf/11-422921",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781857720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-f1de7eb4",
+    "num": "dailymirrorlk-f1de7eb4",
+    "date_str": "2026-06-19",
+    "description": "Dengue cases rise to 44,480 with 28 deaths reported this year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-cases-rise-to-44-480-with-28-deaths-reported-this-year/108-343399",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781858284.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-6a582b64",
+    "num": "dailymirrorlk-6a582b64",
+    "date_str": "2026-06-19",
+    "description": "Sri Lankan Rupee appreciates further against US Dollar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Rupee-appreciates-further-against-US-Dollar/108-343400",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781858517.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-507e4963",
+    "num": "dailymirrorlk-507e4963",
+    "date_str": "2026-06-19",
+    "description": "Sri Lanka\u2019s Liberal Youth Movement joins global liberal youth federation",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-Liberal-Youth-Movement-joins-global-liberal-youth-federation/108-343403",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781861312.0
   }
 ]
