@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--20_02:24:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--20_04:11:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,120** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-19**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,123** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-19-dailymirrorlk-1394b296",
-    "num": "dailymirrorlk-1394b296",
-    "date_str": "2026-06-19",
-    "description": "G.C.E. O/L examination results released online",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/G-C-E-OL-examination-results-released-online/108-343451",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781890491.0
+    "doc_id": "2026-06-20-tamilmirrorlk-575380c8",
+    "num": "tamilmirrorlk-575380c8",
+    "date_str": "2026-06-20",
+    "description": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0ba8\u0bc1\u0bb0\u0bb5\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b90.\u0b9a\u0bbf.\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9c\u0bc6\u0baf\u0bcd \u0bb7\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b85\u0ba8\u0bc1\u0bb0\u0bb5\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0b90-\u0b9a\u0bbf-\u0b9a\u0bbf-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd-\u0b9c\u0bc6\u0baf\u0bcd-\u0bb7\u0bbe/175-378841",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781906288.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-20 | `tamilmirrorlk-575380c8` | ஜனாதிபதி அநுரவை சந்தித்தார் ஐ.சி.சி தலைவர் ஜெய் ஷா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-tamilmirrorlk-575380c8)
+- 2026-06-20 | `tamilmirrorlk-471632b5` | சாதாரண தரப் பரீட்சை பெறுபேறுகள் வெளியாகின | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-tamilmirrorlk-471632b5)
+- 2026-06-20 | `dailymirrorlk-934fc042` | TPA raises land rights, resettlement issues with Australian High Commissioner | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailymirrorlk-934fc042)
 - 2026-06-19 | `dailymirrorlk-1394b296` | G.C.E. O/L examination results released online | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-1394b296)
 - 2026-06-19 | `dailymirrorlk-4f340aac` | Fire destroys processed tea stock at Elpitiya tea factory | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-4f340aac)
 - 2026-06-19 | `dailymirrorlk-9e6e6abd` | Italy cancels US visit after Trump says Meloni ‘Begged’ him for photo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-9e6e6abd)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-06-19 | `dailymirrorlk-5a7f3a0e` | Delayed peace deal weighs on CSE as profit-taking pulls indices lower | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-5a7f3a0e)
 - 2026-06-19 | `dailymirrorlk-2d879f54` | ICC Chairman meets Dissanayake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-2d879f54)
 - 2026-06-19 | `virakesarilk-e4b34514` | மதவாச்சி முதல் தலைமன்னார் வரை ரயில் சேவைக்கான பரீட்சார்த்த நடவடிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-e4b34514)
-- 2026-06-19 | `virakesarilk-97e3170f` | ஜனாதிபதியை சந்தித்தார் சர்வதேச கிரிக்கெட் கவுன்சிலின் தலைவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-97e3170f)
-- 2026-06-19 | `virakesarilk-c18a5c33` | ஆண்டின் எஞ்சிய மாதங்களுக்குள் திட்டங்கள் அனைத்தும் நிறைவு செய்யப்படவேண்டும் ; அனைவரும் ஒருங்கிணைந்து பணிகளை முன்கொண்டு செல்லுங்கள் - வடக்கு ஆளுநர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-virakesarilk-c18a5c33)
-- 2026-06-19 | `dailymirrorlk-5d9c3df7` | Israel, Hezbollah agree to ceasefire starting on Friday - US official | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-19-dailymirrorlk-5d9c3df7)
 
 ---
 

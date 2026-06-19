@@ -250374,5 +250374,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781890491.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-dailymirrorlk-934fc042",
+    "num": "dailymirrorlk-934fc042",
+    "date_str": "2026-06-20",
+    "description": "TPA raises land rights, resettlement issues with Australian High Commissioner",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/TPA-raises-land-rights-resettlement-issues-with-Australian-High-Commissioner/108-343457",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781903034.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-tamilmirrorlk-471632b5",
+    "num": "tamilmirrorlk-471632b5",
+    "date_str": "2026-06-20",
+    "description": "\u0b9a\u0bbe\u0ba4\u0bbe\u0bb0\u0ba3 \u0ba4\u0bb0\u0baa\u0bcd \u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8 \u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0b95\u0bbf\u0ba9",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbe\u0ba4\u0bbe\u0bb0\u0ba3-\u0ba4\u0bb0\u0baa\u0bcd-\u0baa\u0bb0\u0bc0\u0b9f\u0bcd\u0b9a\u0bc8-\u0baa\u0bc6\u0bb1\u0bc1\u0baa\u0bc7\u0bb1\u0bc1\u0b95\u0bb3\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bbe\u0b95\u0bbf\u0ba9/175-378840",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781903122.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-tamilmirrorlk-575380c8",
+    "num": "tamilmirrorlk-575380c8",
+    "date_str": "2026-06-20",
+    "description": "\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0b85\u0ba8\u0bc1\u0bb0\u0bb5\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u0b90.\u0b9a\u0bbf.\u0b9a\u0bbf \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd \u0b9c\u0bc6\u0baf\u0bcd \u0bb7\u0bbe",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0b85\u0ba8\u0bc1\u0bb0\u0bb5\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0b90-\u0b9a\u0bbf-\u0b9a\u0bbf-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd-\u0b9c\u0bc6\u0baf\u0bcd-\u0bb7\u0bbe/175-378841",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781906288.0
   }
 ]
