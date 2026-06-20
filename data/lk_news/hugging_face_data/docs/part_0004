@@ -251411,6 +251411,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-20-virakesarilk-091b7709",
+    "num": "virakesarilk-091b7709",
+    "date_str": "2026-06-20",
+    "description": "\u0bae\u0ba9\u0bbf\u0ba4 \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0b95\u0bb3\u0bcd \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1\u0bb5\u0bbf\u0ba9\u0bcd  \u0baa\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb2\u0bae\u0bcd \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/250508",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781956920.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-20-dailymirrorlk-112b98b2",
     "num": "dailymirrorlk-112b98b2",
     "date_str": "2026-06-20",
@@ -251485,6 +251496,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1781962140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-virakesarilk-46634b1e",
+    "num": "virakesarilk-46634b1e",
+    "date_str": "2026-06-20",
+    "description": "\u0b9a\u0bb2\u0bc7\u0baf\u0bbf\u0ba9\u0bcd \u0b89\u0ba3\u0bb5\u0bc1 \u0ba4\u0bb5\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b85\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bae\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1 -  \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0ba8\u0bb3\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9c\u0baf\u0ba4\u0bbf\u0bb8\u0bcd\u0bb8",
+    "url_metadata": "https://www.virakesari.lk/article/250531",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1781962320.0
   },
   {
     "doc_type": "lk_news",
@@ -251617,5 +251639,38 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1781966325.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-dailymirrorlk-53b00e3d",
+    "num": "dailymirrorlk-53b00e3d",
+    "date_str": "2026-06-20",
+    "description": "Three-month concession given for vehicles without seatbelts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-month-concession-given-for-vehicles-without-seatbelts/108-343502",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781967591.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-tamilmirrorlk-aa2ec81c",
+    "num": "tamilmirrorlk-aa2ec81c",
+    "date_str": "2026-06-20",
+    "description": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bb9\u0bcb\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd \u0ba8\u0bc0\u0bb0\u0bbf\u0ba3\u0bc8\u0baf\u0bc8 \u0bae\u0bc2\u0b9f\u0bbf\u0baf \u0b88\u0bb0\u0bbe\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0bb9\u0bcb\u0bb0\u0bcd\u0bae\u0bc1\u0bb8\u0bcd-\u0ba8\u0bc0\u0bb0\u0bbf\u0ba3\u0bc8\u0baf\u0bc8-\u0bae\u0bc2\u0b9f\u0bbf\u0baf-\u0b88\u0bb0\u0bbe\u0ba9\u0bcd/50-378850",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781969293.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-dailymirrorlk-93e39ebf",
+    "num": "dailymirrorlk-93e39ebf",
+    "date_str": "2026-06-20",
+    "description": "Fuel price relief possible by August or September if global prices remain stable: Bimal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-price-relief-possible-by-August-or-September-if-global-prices-remain-stable-Bimal/108-343503",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781970656.0
   }
 ]
