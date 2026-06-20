@@ -249948,6 +249948,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-19-adalk-30608593",
+    "num": "adalk-30608593",
+    "date_str": "2026-06-19",
+    "description": "2006\u0daf\u0dd3 \u0dbb\u0dd4.\u0db6\u0dd2. 151\u0d9a\u0dca \u0dc0\u0dd6 \u0dab\u0dba \u0db4\u0ddc\u0dbd\u0dd3 \u0d9c\u0dd9\u0dc0\u0dd3\u0db8 2025 \u0dc0\u0db1 \u0dc0\u0dd2\u0da7 \u0dbb\u0dd4.\u0db6\u0dd2. 2501\u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0dd9\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/2006\u0daf\u0dd3-\u0dbb\u0dd4-\u0db6\u0dd2--151\u0d9a\u0dca-\u0dc0\u0dd6-\u0dab\u0dba-\u0db4\u0ddc\u0dbd\u0dd3-\u0d9c\u0dd9\u0dc0\u0dd3\u0db8-2025-\u0dc0\u0db1-\u0dc0\u0dd2\u0da7-\u0dbb\u0dd4-\u0db6\u0dd2--2501\u0d9a\u0da7-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc0\u0dd9\u0dbd\u0dcf/11-422929",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781868011.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-19-adalk-6120ee88",
     "num": "adalk-6120ee88",
     "date_str": "2026-06-19",
@@ -250704,5 +250715,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781923872.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-dailymirrorlk-bb571da9",
+    "num": "dailymirrorlk-bb571da9",
+    "date_str": "2026-06-20",
+    "description": "Dominican national nabbed with Hashish worth over Rs. 375Mn",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dominican-national-nabbed-with-Hashish-worth-over-Rs-375Mn/108-343460",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781926112.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-dailymirrorlk-ce5dcd00",
+    "num": "dailymirrorlk-ce5dcd00",
+    "date_str": "2026-06-20",
+    "description": "Court dismisses Daya Group\u2019s writ application against People\u2019s Bank auction",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-dismisses-Daya-Groups-writ-application-against-Peoples-Bank-auction/108-343461",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781928638.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-dailymirrorlk-e6dbf377",
+    "num": "dailymirrorlk-e6dbf377",
+    "date_str": "2026-06-20",
+    "description": "Trump unveils Qatari luxury jet for Air Force One fleet",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-unveils-Qatari-luxury-jet-for-Air-Force-One-fleet/108-343462",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781931670.0
   }
 ]
