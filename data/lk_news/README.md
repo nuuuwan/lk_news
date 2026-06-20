@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--20_22:20:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--21_00:20:35-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,238** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,239** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-20-dailymirrorlk-93e39ebf",
-    "num": "dailymirrorlk-93e39ebf",
-    "date_str": "2026-06-20",
-    "description": "Fuel price relief possible by August or September if global prices remain stable: Bimal",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-price-relief-possible-by-August-or-September-if-global-prices-remain-stable-Bimal/108-343503",
+    "doc_id": "2026-06-21-dailymirrorlk-73533157",
+    "num": "dailymirrorlk-73533157",
+    "date_str": "2026-06-21",
+    "description": "Which teams have qualified for the FIFA World Cup 2026 knockouts, round of 32?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Which-teams-have-qualified-for-the-FIFA-World-Cup-2026-knockouts-round-of-32/108-343504",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781970656.0
+    "time_ut": 1781980847.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-21 | `dailymirrorlk-73533157` | Which teams have qualified for the FIFA World Cup 2026 knockouts, round of 32? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-dailymirrorlk-73533157)
 - 2026-06-20 | `dailymirrorlk-93e39ebf` | Fuel price relief possible by August or September if global prices remain stable: Bimal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailymirrorlk-93e39ebf)
 - 2026-06-20 | `tamilmirrorlk-aa2ec81c` | மீண்டும் ஹோர்முஸ் நீரிணையை மூடிய ஈரான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-tamilmirrorlk-aa2ec81c)
 - 2026-06-20 | `dailymirrorlk-53b00e3d` | Three-month concession given for vehicles without seatbelts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailymirrorlk-53b00e3d)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-06-20 | `virakesarilk-37bb4502` | மட்டக்களப்பு வெல்லாவெளி வயல் பகுதியில் காட்டுயானை உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-virakesarilk-37bb4502)
 - 2026-06-20 | `virakesarilk-45e879db` | தேசியக் கட்சிகளின் அலுவலகங்களாக மாறும் வடக்கு, கிழக்கு! - துரைரெட்னம் கவலை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-virakesarilk-45e879db)
 - 2026-06-20 | `dailymirrorlk-3f39bb81` | At least seven killed in twin roadside bombings in northwest Pakistan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailymirrorlk-3f39bb81)
-- 2026-06-20 | `dailymirrorlk-fb0b6859` | Seat belt law comes into force across Sri Lanka from today | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailymirrorlk-fb0b6859)
 
 ---
 

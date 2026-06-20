@@ -251672,5 +251672,16 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781970656.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-dailymirrorlk-73533157",
+    "num": "dailymirrorlk-73533157",
+    "date_str": "2026-06-21",
+    "description": "Which teams have qualified for the FIFA World Cup 2026 knockouts, round of 32?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Which-teams-have-qualified-for-the-FIFA-World-Cup-2026-knockouts-round-of-32/108-343504",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781980847.0
   }
 ]
