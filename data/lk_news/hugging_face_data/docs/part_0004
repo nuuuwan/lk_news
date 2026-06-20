@@ -249904,6 +249904,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-19-adalk-03d4d90d",
+    "num": "adalk-03d4d90d",
+    "date_str": "2026-06-19",
+    "description": "\u0dc4\u0dad\u0dca \u0d9a\u0ddd\u0da7\u0dd2 \u0db4\u0db1\u0dc3\u0dca \u0dbd\u0d9a\u0dca\u0dc2\u0dba\u0d9a \u0d9a\u0dd4\u0dc2\u0dca \u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dad\u0dca-\u0d9a\u0ddd\u0da7\u0dd2-\u0db4\u0db1\u0dc3\u0dca-\u0dbd\u0d9a\u0dca\u0dc2\u0dba\u0d9a-\u0d9a\u0dd4\u0dc2\u0dca-\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a\u0dd2\u0db1\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-422928",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781867048.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-19-virakesarilk-1ee7bbfe",
     "num": "virakesarilk-1ee7bbfe",
     "date_str": "2026-06-19",
@@ -250498,6 +250509,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-20-colombotelegraphcom-7114c04a",
+    "num": "colombotelegraphcom-7114c04a",
+    "date_str": "2026-06-20",
+    "description": "\u201cWe Are Such Stuff As Dreams Are Made On\u201d A Review Of The Anniyan (The Tempest) At The Dutch Fort, Jaffna",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/we-are-such-stuff-as-dreams-are-made-on-a-review-of-the-anniyan-the-tempest-at-the-dutch-fort-jaffna/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1781904590.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-colombotelegraphcom-be3a0e69",
+    "num": "colombotelegraphcom-be3a0e69",
+    "date_str": "2026-06-20",
+    "description": "World In Transition Viz-a-Viz Reshaping ME Landscape & Status Quo: What\u2019s At Stake",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/world-in-transition-viz-a-viz-reshaping-me-landscape-status-quo-whats-at-stake/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1781905415.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-20-tamilmirrorlk-575380c8",
     "num": "tamilmirrorlk-575380c8",
     "date_str": "2026-06-20",
@@ -250597,6 +250630,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-20-tamilmirrorlk-b169e650",
+    "num": "tamilmirrorlk-b169e650",
+    "date_str": "2026-06-20",
+    "description": "\u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bcd - \u0bb9\u0bbf\u0bb8\u0bcd\u0baa\u0bc1\u0bb2\u0bcd\u0bb2\u0bbe \u0b87\u0b9f\u0bc8\u0baf\u0bc7 \u0baa\u0bcb\u0bb0\u0bcd\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bcd-\u0bb9\u0bbf\u0bb8\u0bcd\u0baa\u0bc1\u0bb2\u0bcd\u0bb2\u0bbe-\u0b87\u0b9f\u0bc8\u0baf\u0bc7-\u0baa\u0bcb\u0bb0\u0bcd\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd/50-378842",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781915287.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-20-tamilmirrorlk-8e385393",
     "num": "tamilmirrorlk-8e385393",
     "date_str": "2026-06-20",
@@ -250605,5 +250649,60 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1781916612.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-adalk-39440aea",
+    "num": "adalk-39440aea",
+    "date_str": "2026-06-20",
+    "description": "\u0dc3\u0dcf\u0db4\u0dd9\u0dc5 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dcf\u0db4\u0dd9\u0dc5-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd-\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-422932",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781921498.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-dailymirrorlk-72f8872e",
+    "num": "dailymirrorlk-72f8872e",
+    "date_str": "2026-06-20",
+    "description": "Netanyahu actions may undermine Trump-Iran peace deal, US intelligence warns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Netanyahu-actions-may-undermine-Trump-Iran-peace-deal-US-intelligence-warns/108-343458",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781921504.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-adalk-e6ba5a5e",
+    "num": "adalk-e6ba5a5e",
+    "date_str": "2026-06-20",
+    "description": "\u0d9a\u0da7\u0dcf\u0dbb\u0dca \u0da9\u0dba\u0db8\u0db1\u0dca\u0da9\u0dca \u0dbd\u0dd3\u0d9c \u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda \u0dc4\u0dd9\u0dbd\u0dca\u0dbd \u0dc0\u0dd2\u0dc3\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0dbb\u0db1\u0dca \u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8\u0dad\u0dca \u0dbb\u0dd4\u0db8\u0dda\u0dc2\u0dca\u0da7",
+    "url_metadata": "https://www.ada.lk/sports/\u0d9a\u0da7\u0dcf\u0dbb\u0dca-\u0da9\u0dba\u0db8\u0db1\u0dca\u0da9\u0dca-\u0dbd\u0dd3\u0d9c-\u0dad\u0dbb\u0d9c\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dda-\u0dc4\u0dd9\u0dbd\u0dca\u0dbd-\u0dc0\u0dd2\u0dc3\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda-\u0dbb\u0db1\u0dca-\u0db4\u0daf\u0d9a\u0dca\u0d9a\u0db8\u0dad\u0dca-\u0dbb\u0dd4\u0db8\u0dda\u0dc2\u0dca\u0da7/9-422933",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781921772.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-tamilmirrorlk-f6f3209d",
+    "num": "tamilmirrorlk-f6f3209d",
+    "date_str": "2026-06-20",
+    "description": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bcb\u0bae\u0bcd: \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0bae\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbf\u0baf-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bcb\u0bae\u0bcd-\u0bb0\u0bb7\u0bcd\u0baf\u0bbe-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/50-378844",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781921992.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-dailymirrorlk-2a7ae2a7",
+    "num": "dailymirrorlk-2a7ae2a7",
+    "date_str": "2026-06-20",
+    "description": "Showers expected in several provinces",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Showers-expected-in-several-provinces/108-343459",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781923872.0
   }
 ]

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-20 06:44:15",
-  "n_docs": 119141,
+  "time_updated": "2026-06-20 08:59:45",
+  "n_docs": 119150,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 119141,
+  "n_docs_with_text": 119150,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-20",
-  "dataset_size": 1857558469,
+  "dataset_size": 1857867531,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-20-tamilmirrorlk-8e385393",
-    "num": "tamilmirrorlk-8e385393",
+    "doc_id": "2026-06-20-dailymirrorlk-2a7ae2a7",
+    "num": "dailymirrorlk-2a7ae2a7",
     "date_str": "2026-06-20",
-    "description": "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bb2\u0bc6\u0baa\u0ba9\u0bbe\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bcd \u0bb5\u0bbe\u0ba9\u0bcd\u0bb5\u0bb4\u0bbf \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd 18 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1-\u0bb2\u0bc6\u0baa\u0ba9\u0bbe\u0ba9\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bcd-\u0bb5\u0bbe\u0ba9\u0bcd\u0bb5\u0bb4\u0bbf-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd-18-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/50-378843",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1781916612.0
+    "description": "Showers expected in several provinces",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Showers-expected-in-several-provinces/108-343459",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781923872.0
   }
 }
