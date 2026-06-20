@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--20_13:10:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--20_14:54:57-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,157** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,191** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-20**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-20-dailymirrorlk-531240b6",
-    "num": "dailymirrorlk-531240b6",
+    "doc_id": "2026-06-20-dailymirrorlk-37007a3a",
+    "num": "dailymirrorlk-37007a3a",
     "date_str": "2026-06-20",
-    "description": "Over 225,000 students qualify for A/Ls",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-225-000-students-qualify-for-ALs/108-343479",
+    "description": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+    "url_metadata": "https://www.dailymirror.lk/international/Australia-confirms-first-case-of-H5N1-bird-flu-as-virus-reaches-every-continent/107-343492",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781934482.0
+    "time_ut": 1781946702.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-20 | `dailymirrorlk-37007a3a` | Australia confirms first case of H5N1 bird flu as virus reaches every continent | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailymirrorlk-37007a3a)
+- 2026-06-20 | `tamilmirrorlk-12e680cc` | நானுஓயா – பதுளை ரயில் பாதை திறப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-tamilmirrorlk-12e680cc)
+- 2026-06-20 | `tamilmirrorlk-6cd1b6af` | 11,790 மாணவர்கள் அனைத்து பாடங்களிலும் ’A’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-tamilmirrorlk-6cd1b6af)
 - 2026-06-20 | `dailymirrorlk-531240b6` | Over 225,000 students qualify for A/Ls | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailymirrorlk-531240b6)
 - 2026-06-20 | `dailymirrorlk-e6dbf377` | Trump unveils Qatari luxury jet for Air Force One fleet | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailymirrorlk-e6dbf377)
 - 2026-06-20 | `dailymirrorlk-ce5dcd00` | Court dismisses Daya Group’s writ application against People’s Bank auction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailymirrorlk-ce5dcd00)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-06-20 | `dailyftlk-a3e148c9` | DFCC relocates Ratnapura Branch to enhance accessibility and customer experience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailyftlk-a3e148c9)
 - 2026-06-20 | `dailyftlk-7d3456c4` | From protestation to pragmatism: NPP’s economic coming of age? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailyftlk-7d3456c4)
 - 2026-06-20 | `dailyftlk-974d8240` | Frauds at SriLankan Airlines | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailyftlk-974d8240)
-- 2026-06-20 | `dailyftlk-7684d303` | A great pillar of the business community bids farewell | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailyftlk-7684d303)
-- 2026-06-20 | `dailyftlk-4f28263a` | Forged in vision, bound by service: KDA Intake 1 at 45 years | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailyftlk-4f28263a)
-- 2026-06-20 | `tamilmirrorlk-575380c8` | ஜனாதிபதி அநுரவை சந்தித்தார் ஐ.சி.சி தலைவர் ஜெய் ஷா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-tamilmirrorlk-575380c8)
 
 ---
 

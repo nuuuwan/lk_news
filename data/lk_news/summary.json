@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-20 13:09:47",
-  "n_docs": 119157,
+  "time_updated": "2026-06-20 14:54:00",
+  "n_docs": 119191,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 119157,
+  "n_docs_with_text": 119191,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-20",
-  "dataset_size": 1858082228,
+  "dataset_size": 1858247939,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-20-dailymirrorlk-531240b6",
-    "num": "dailymirrorlk-531240b6",
+    "doc_id": "2026-06-20-dailymirrorlk-37007a3a",
+    "num": "dailymirrorlk-37007a3a",
     "date_str": "2026-06-20",
-    "description": "Over 225,000 students qualify for A/Ls",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-225-000-students-qualify-for-ALs/108-343479",
+    "description": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+    "url_metadata": "https://www.dailymirror.lk/international/Australia-confirms-first-case-of-H5N1-bird-flu-as-virus-reaches-every-continent/107-343492",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781934482.0
+    "time_ut": 1781946702.0
   }
 }

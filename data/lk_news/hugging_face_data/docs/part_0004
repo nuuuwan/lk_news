@@ -250300,6 +250300,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-6d291074",
+    "num": "dailymirrorlk-6d291074",
+    "date_str": "2026-06-19",
+    "description": "IMF urged not to insist on removal of subsidies on fuel",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/IMF-urged-not-to-insist-on-removal-of-subsidies-on-fuel/108-343417",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781877481.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-19-virakesarilk-7b52a470",
     "num": "virakesarilk-7b52a470",
     "date_str": "2026-06-19",
@@ -250308,6 +250319,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1781877600.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-74353a42",
+    "num": "dailymirrorlk-74353a42",
+    "date_str": "2026-06-19",
+    "description": "Principal, Vice Principal arrested over concealing sexual abuse of a schoolgirl by a schoolboy",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Principal-Vice-Principal-arrested-over-concealing-sexual-abuse-of-a-schoolgirl-by-a-schoolboy/108-343418",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781877789.0
   },
   {
     "doc_type": "lk_news",
@@ -250322,6 +250344,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-5f127b64",
+    "num": "dailymirrorlk-5f127b64",
+    "date_str": "2026-06-19",
+    "description": "Govt. to repeal PTA, introduce new law within two months: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-to-repeal-PTA-introduce-new-law-within-two-months-Minister/108-343419",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781878015.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-19-virakesarilk-c2e19fdc",
     "num": "virakesarilk-c2e19fdc",
     "date_str": "2026-06-19",
@@ -250330,6 +250363,39 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1781878380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-ce5dcd00",
+    "num": "dailymirrorlk-ce5dcd00",
+    "date_str": "2026-06-19",
+    "description": "Court dismisses Daya Group\u2019s writ application against People\u2019s Bank auction",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-dismisses-Daya-Groups-writ-application-against-Peoples-Bank-auction/108-343420",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781878838.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-52ab71d9",
+    "num": "dailymirrorlk-52ab71d9",
+    "date_str": "2026-06-19",
+    "description": "UNFPA facilitate mental health enhancement and psychosocial support for frontline responders of Ditwah",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UNFPA-facilitate-mental-health-enhancement-and-psychosocial-support-for-frontline-responders-of-Ditwah/108-343421",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781879566.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-c05835c5",
+    "num": "dailymirrorlk-c05835c5",
+    "date_str": "2026-06-19",
+    "description": "India ready for work once Sri Lanka green-lights project",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-ready-for-work-once-Sri-Lanka-green-lights-project/108-343422",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781879732.0
   },
   {
     "doc_type": "lk_news",
@@ -250484,6 +250550,281 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1781886420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-f270e013",
+    "num": "dailymirrorlk-f270e013",
+    "date_str": "2026-06-19",
+    "description": "Cake Date brings people together at The Shoppes at City of Dreams Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Cake-Date-brings-people-together-at-The-Shoppes-at-City-of-Dreams-Sri-Lanka/273-343425",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781888580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-7cbc2bbc",
+    "num": "dailymirrorlk-7cbc2bbc",
+    "date_str": "2026-06-19",
+    "description": "Ideal Motors concludes Habarana Abiyogaya 10",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ideal-Motors-concludes-Habarana-Abiyogaya-10/273-343426",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781888634.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-2ec79bbb",
+    "num": "dailymirrorlk-2ec79bbb",
+    "date_str": "2026-06-19",
+    "description": "Ceylinco Life\u2019s Family Savari 19 winners tour China",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ceylinco-Lifes-Family-Savari-19-winners-tour-China/273-343427",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781888705.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-7b144633",
+    "num": "dailymirrorlk-7b144633",
+    "date_str": "2026-06-19",
+    "description": "SLICGL continues long-term commitment to safer Sri Lankan roads",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SLICGL-continues-long-term-commitment-to-safer-Sri-Lankan-roads/273-343428",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781888746.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-563452be",
+    "num": "dailymirrorlk-563452be",
+    "date_str": "2026-06-19",
+    "description": "National Bartenders Competition 2026 advances to semi-finals",
+    "url_metadata": "https://www.dailymirror.lk/business-news/National-Bartenders-Competition-2026-advances-to-semi-finals/273-343429",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781888807.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-5c021146",
+    "num": "dailymirrorlk-5c021146",
+    "date_str": "2026-06-19",
+    "description": "Nations Trust Bank-WNPS renew partnership",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Nations-Trust-Bank-WNPS-renew-partnership/273-343430",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781888853.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-74deee2e",
+    "num": "dailymirrorlk-74deee2e",
+    "date_str": "2026-06-19",
+    "description": "Calico Colors launches EV initiative and carbon-free vision",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Calico-Colors-launches-EV-initiative-and-carbon-free-vision/273-343431",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781888936.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-c1c596cd",
+    "num": "dailymirrorlk-c1c596cd",
+    "date_str": "2026-06-19",
+    "description": "SIT named as SL\u2019s only HPE Gold networking partner",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SIT-named-as-SLs-only-HPE-Gold-networking-partner/273-343432",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889021.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-6eb7fc24",
+    "num": "dailymirrorlk-6eb7fc24",
+    "date_str": "2026-06-19",
+    "description": "NH Bentota Ceysands continues to elevate coastal hospitality under Anil Chavan\u2019s leadership",
+    "url_metadata": "https://www.dailymirror.lk/business-news/NH-Bentota-Ceysands-continues-to-elevate-coastal-hospitality-under-Anil-Chavans-leadership/273-343433",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889243.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-8f3e2273",
+    "num": "dailymirrorlk-8f3e2273",
+    "date_str": "2026-06-19",
+    "description": "MAS Bodyline leads third consecutive Sri Pada clean-up initiative",
+    "url_metadata": "https://www.dailymirror.lk/business-news/MAS-Bodyline-leads-third-consecutive-Sri-Pada-clean-up-initiative/273-343434",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889288.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-a523885a",
+    "num": "dailymirrorlk-a523885a",
+    "date_str": "2026-06-19",
+    "description": "HNB Life engages communities through Vesak season activities",
+    "url_metadata": "https://www.dailymirror.lk/business-news/HNB-Life-engages-communities-through-Vesak-season-activities/273-343435",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889342.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-1513f82e",
+    "num": "dailymirrorlk-1513f82e",
+    "date_str": "2026-06-19",
+    "description": "Varun Beverages Lanka celebrates World Environment Day 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Varun-Beverages-Lanka-celebrates-World-Environment-Day-2026/273-343436",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889394.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-785b3c9b",
+    "num": "dailymirrorlk-785b3c9b",
+    "date_str": "2026-06-19",
+    "description": "SLIIT, Most Loved Private Higher Education Brand in LMD Readers\u2019 Choice Ranking",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SLIIT-Most-Loved-Private-Higher-Education-Brand-in-LMD-Readers-Choice-Ranking/273-343437",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889434.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-0474f722",
+    "num": "dailymirrorlk-0474f722",
+    "date_str": "2026-06-19",
+    "description": "Ocean Lanka continues rainforest restoration journey",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ocean-Lanka-continues-rainforest-restoration-journey/273-343438",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889498.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-da08bb24",
+    "num": "dailymirrorlk-da08bb24",
+    "date_str": "2026-06-19",
+    "description": "Mixed sentiment persists as yields decline across board",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Mixed-sentiment-persists-as-yields-decline-across-board/273-343439",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889622.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-acde88f1",
+    "num": "dailymirrorlk-acde88f1",
+    "date_str": "2026-06-19",
+    "description": "ASPI closes in red",
+    "url_metadata": "https://www.dailymirror.lk/business-news/ASPI-closes-in-red/273-343440",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889670.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-87f4b494",
+    "num": "dailymirrorlk-87f4b494",
+    "date_str": "2026-06-19",
+    "description": "Sri Lanka\u2019s demographic shift demands economic rethink: Insurance industry",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lankas-demographic-shift-demands-economic-rethink-Insurance-industry/273-343441",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889730.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-604d125b",
+    "num": "dailymirrorlk-604d125b",
+    "date_str": "2026-06-19",
+    "description": "Weak overseas demand weighs on tea auction prices",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Weak-overseas-demand-weighs-on-tea-auction-prices/273-343442",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889741.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-61260c1e",
+    "num": "dailymirrorlk-61260c1e",
+    "date_str": "2026-06-19",
+    "description": "Sri Lanka promotes Colombo Port City as investment destination in Oman",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-promotes-Colombo-Port-City-as-investment-destination-in-Oman/273-343443",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889812.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-0c545d32",
+    "num": "dailymirrorlk-0c545d32",
+    "date_str": "2026-06-19",
+    "description": "Arjun Jeger of DC Group named in Campaign Asia\u2019s 40 Under 40",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Arjun-Jeger-of-DC-Group-named-in-Campaign-Asias-40-Under-40/273-343444",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889867.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-6d0cab98",
+    "num": "dailymirrorlk-6d0cab98",
+    "date_str": "2026-06-19",
+    "description": "CSE invites public onto trading floor",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CSE-invites-public-onto-trading-floor/273-343445",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889889.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-0b82c974",
+    "num": "dailymirrorlk-0b82c974",
+    "date_str": "2026-06-19",
+    "description": "CSE to recalibrate benchmark index in quarterly market reset",
+    "url_metadata": "https://www.dailymirror.lk/business-main/CSE-to-recalibrate-benchmark-index-in-quarterly-market-reset/245-343446",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781889983.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-96f9f887",
+    "num": "dailymirrorlk-96f9f887",
+    "date_str": "2026-06-19",
+    "description": "Public healthcare facing collapse while citizens face bankruptcy",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Public-healthcare-facing-collapse-while-citizens-face-bankruptcy/172-343448",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781890325.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-e629554a",
+    "num": "dailymirrorlk-e629554a",
+    "date_str": "2026-06-19",
+    "description": "Rainwater harvesting: A timely investment for Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Rainwater-harvesting-A-timely-investment-for-Sri-Lanka/172-343449",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781890386.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-19-dailymirrorlk-014ee829",
+    "num": "dailymirrorlk-014ee829",
+    "date_str": "2026-06-19",
+    "description": "Iran-US MoU: Peace or pause?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Iran-US-MoU-Peace-or-pause/172-343450",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781890486.0
   },
   {
     "doc_type": "lk_news",
@@ -250781,5 +251122,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781934482.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-tamilmirrorlk-6cd1b6af",
+    "num": "tamilmirrorlk-6cd1b6af",
+    "date_str": "2026-06-20",
+    "description": "11,790 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0baa\u0bbe\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u2019A\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/11-790-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1-\u0baa\u0bbe\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd-A/175-378846",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781939889.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-tamilmirrorlk-12e680cc",
+    "num": "tamilmirrorlk-12e680cc",
+    "date_str": "2026-06-20",
+    "description": "\u0ba8\u0bbe\u0ba9\u0bc1\u0b93\u0baf\u0bbe \u2013 \u0baa\u0ba4\u0bc1\u0bb3\u0bc8 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0ba4\u0bc8 \u0ba4\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba8\u0bbe\u0ba9\u0bc1\u0b93\u0baf\u0bbe-\u0baa\u0ba4\u0bc1\u0bb3\u0bc8-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bbe\u0ba4\u0bc8-\u0ba4\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1/76-378847",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1781942283.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-dailymirrorlk-37007a3a",
+    "num": "dailymirrorlk-37007a3a",
+    "date_str": "2026-06-20",
+    "description": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+    "url_metadata": "https://www.dailymirror.lk/international/Australia-confirms-first-case-of-H5N1-bird-flu-as-virus-reaches-every-continent/107-343492",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781946702.0
   }
 ]
