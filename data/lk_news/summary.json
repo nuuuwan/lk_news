@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-20 11:15:46",
-  "n_docs": 119154,
+  "time_updated": "2026-06-20 13:09:47",
+  "n_docs": 119157,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 119154,
+  "n_docs_with_text": 119157,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-20",
-  "dataset_size": 1858019346,
+  "dataset_size": 1858082228,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-20-dailymirrorlk-e6dbf377",
-    "num": "dailymirrorlk-e6dbf377",
+    "doc_id": "2026-06-20-dailymirrorlk-531240b6",
+    "num": "dailymirrorlk-531240b6",
     "date_str": "2026-06-20",
-    "description": "Trump unveils Qatari luxury jet for Air Force One fleet",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-unveils-Qatari-luxury-jet-for-Air-Force-One-fleet/108-343462",
+    "description": "Over 225,000 students qualify for A/Ls",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-225-000-students-qualify-for-ALs/108-343479",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781931670.0
+    "time_ut": 1781934482.0
   }
 }

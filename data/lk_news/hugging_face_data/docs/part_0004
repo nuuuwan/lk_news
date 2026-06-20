@@ -249805,6 +249805,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-19-adalk-bb478591",
+    "num": "adalk-bb478591",
+    "date_str": "2026-06-19",
+    "description": "\u0dc0\u0dcf\u0dc4\u0db1 \u0dc4\u0dcf \u0dbb\u0da2\u0dba\u0dda \u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca \u0dc0\u0dd2\u0d9a\u0dd2\u0dab\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0dbb\u0dd4.\u0d9a\u0ddd\u0da7\u0dd2  404\u0d9a\u0dca \u0dc4\u0ddc\u0dba\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dcf\u0dc4\u0db1-\u0dc4\u0dcf-\u0dbb\u0da2\u0dba\u0dda-\u0dc0\u0dad\u0dca\u0d9a\u0db8\u0dca-\u0dc0\u0dd2\u0d9a\u0dd2\u0dab\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0dbb\u0dd4-\u0d9a\u0ddd\u0da7\u0dd2--404\u0d9a\u0dca-\u0dc4\u0ddc\u0dba\u0dbd\u0dcf/11-422926",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781863073.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-19-dailymirrorlk-495c0fad",
     "num": "dailymirrorlk-495c0fad",
     "date_str": "2026-06-19",
@@ -250531,6 +250542,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-20-colombotelegraphcom-d56e6565",
+    "num": "colombotelegraphcom-d56e6565",
+    "date_str": "2026-06-20",
+    "description": "\u201cWe Are Such Stuff As Dreams Are Made On\u201d A Review Of The Anniyan (Multilingual The Tempest) At The Dutch Fort, Jaffna",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/we-are-such-stuff-as-dreams-are-made-on-a-review-of-the-anniyan-multilingual-the-tempest-at-the-dutch-fort-jaffna/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1781904590.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-20-colombotelegraphcom-be3a0e69",
     "num": "colombotelegraphcom-be3a0e69",
     "date_str": "2026-06-20",
@@ -250748,5 +250770,16 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1781931670.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-20-dailymirrorlk-531240b6",
+    "num": "dailymirrorlk-531240b6",
+    "date_str": "2026-06-20",
+    "description": "Over 225,000 students qualify for A/Ls",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-225-000-students-qualify-for-ALs/108-343479",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1781934482.0
   }
 ]
