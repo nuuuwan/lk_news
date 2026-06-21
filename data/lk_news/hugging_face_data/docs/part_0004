@@ -250949,6 +250949,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-20-colombotelegraphcom-75bc2eaa",
+    "num": "colombotelegraphcom-75bc2eaa",
+    "date_str": "2026-06-20",
+    "description": "World In Transition Vis-a-Vis Reshaping ME Landscape & Status Quo: What\u2019s At Stake",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/world-in-transition-vis-a-vis-reshaping-me-landscape-status-quo-whats-at-stake/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1781905415.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-20-colombotelegraphcom-be3a0e69",
     "num": "colombotelegraphcom-be3a0e69",
     "date_str": "2026-06-20",
@@ -252775,6 +252786,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-21-colombotelegraphcom-ca4f8805",
+    "num": "colombotelegraphcom-ca4f8805",
+    "date_str": "2026-06-21",
+    "description": "They Who Delivered Sallay To Anura Have The Greater Sin",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/they-who-delivered-sallay-to-anura-have-the-greater-sin/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1782047145.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-21-tamilmirrorlk-f39b6eda",
     "num": "tamilmirrorlk-f39b6eda",
     "date_str": "2026-06-21",
@@ -252852,6 +252874,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-21-dailymirrorlk-2058e32e",
+    "num": "dailymirrorlk-2058e32e",
+    "date_str": "2026-06-21",
+    "description": "Tourists raise concerns over payments allegedly collected by train guards",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tourists-raise-concerns-over-payments-allegedly-collected-by-train-guards/108-343522",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782058018.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-21-tamilmirrorlk-342740c7",
     "num": "tamilmirrorlk-342740c7",
     "date_str": "2026-06-21",
@@ -252871,5 +252904,49 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782059440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-dailymirrorlk-a47f1e1d",
+    "num": "dailymirrorlk-a47f1e1d",
+    "date_str": "2026-06-21",
+    "description": "Abans Finance doubles profit in 20th anniversary year",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Abans-Finance-doubles-profit-in-20th-anniversary-year/273-343525",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782063823.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-dailymirrorlk-e96ff210",
+    "num": "dailymirrorlk-e96ff210",
+    "date_str": "2026-06-21",
+    "description": "Singer unveils 1st Honor Experience Store at One Galle Face",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Singer-unveils-1st-Honor-Experience-Store-at-One-Galle-Face/273-343526",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782064149.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-dailymirrorlk-719266e2",
+    "num": "dailymirrorlk-719266e2",
+    "date_str": "2026-06-21",
+    "description": "Softlogic Life Insurance convenes Investor Forum 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Softlogic-Life-Insurance-convenes-Investor-Forum-2026/273-343527",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782064330.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-dailymirrorlk-8d1d94a2",
+    "num": "dailymirrorlk-8d1d94a2",
+    "date_str": "2026-06-21",
+    "description": "University of West London opens Sri Lanka Branch Campus",
+    "url_metadata": "https://www.dailymirror.lk/business-news/University-of-West-London-opens-Sri-Lanka-Branch-Campus/273-343529",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782065224.0
   }
 ]
