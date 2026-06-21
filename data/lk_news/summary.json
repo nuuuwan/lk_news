@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-21 06:49:11",
-  "n_docs": 119254,
+  "time_updated": "2026-06-21 08:58:18",
+  "n_docs": 119260,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 119254,
+  "n_docs_with_text": 119260,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-21",
-  "dataset_size": 1859470567,
+  "dataset_size": 1859778285,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "ta",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-21-colombotelegraphcom-cc27fd26",
-    "num": "colombotelegraphcom-cc27fd26",
+    "doc_id": "2026-06-21-dailymirrorlk-b2acd63c",
+    "num": "dailymirrorlk-b2acd63c",
     "date_str": "2026-06-21",
-    "description": "Jaffna As It Is & What Tamil Rule Will Be Like After PC Elections",
-    "url_metadata": "https://www.colombotelegraph.com/index.php/jaffna-as-it-is-what-tamil-rule-will-be-like-after-pc-elections/",
+    "description": "Alleged mastermind behind Rs. 21 Billion illegal Dollar transfer network arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Alleged-mastermind-behind-Rs-21-Billion-illegal-Dollar-transfer-network-arrested/108-343509",
     "lang": "en",
-    "newspaper_id": "colombotelegraphcom",
-    "time_ut": 1781982299.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782012323.0
   }
 }
