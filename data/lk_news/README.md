@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--21_08:59:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--21_11:40:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,260** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,268** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-21-dailymirrorlk-b2acd63c",
-    "num": "dailymirrorlk-b2acd63c",
+    "doc_id": "2026-06-21-tamilmirrorlk-122b845f",
+    "num": "tamilmirrorlk-122b845f",
     "date_str": "2026-06-21",
-    "description": "Alleged mastermind behind Rs. 21 Billion illegal Dollar transfer network arrested",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Alleged-mastermind-behind-Rs-21-Billion-illegal-Dollar-transfer-network-arrested/108-343509",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782012323.0
+    "description": "\u0ba4\u0b99\u0bcd\u0b95 \u0bae\u0bc1\u0bb2\u0bbe\u0bae\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf: \u0ba4\u0bc1\u0bae\u0bbf\u0ba8\u0bcd\u0ba4 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0b99\u0bcd\u0b95-\u0bae\u0bc1\u0bb2\u0bbe\u0bae\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf-\u0ba4\u0bc1\u0bae\u0bbf\u0ba8\u0bcd\u0ba4-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd/175-378862",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782018544.0
 }
 ```
 
@@ -41,8 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-21 | `tamilmirrorlk-122b845f` | தங்க முலாம் துப்பாக்கி: துமிந்த சந்தேகநபர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-122b845f)
+- 2026-06-21 | `tamilmirrorlk-cecca2a0` | எரிபொருள் விலை: மாத இறுதியில் தீர்மானம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-cecca2a0)
+- 2026-06-21 | `adalk-f9ccfc40` | රෝහල් පද්ධතියට අධි තාක්ෂණික නවීනතම CT ස්කෑන් යන්ත්‍ර 11 ක්. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-adalk-f9ccfc40)
+- 2026-06-21 | `tamilmirrorlk-3ae76799` | 10 வயது மாணவி துஷ்பிரயோகம்: அதிபருக்கு விளக்கமறியலில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-3ae76799)
+- 2026-06-21 | `tamilmirrorlk-3c58124e` | தெரணியகலையில் நால்வருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-3c58124e)
+- 2026-06-21 | `tamilmirrorlk-7b59c95a` | ரூ. 13.2 மில்லியன் பெறுமதியான சட்டவிரோத சிகரெட்டுகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-7b59c95a)
+- 2026-06-21 | `tamilmirrorlk-14643f53` | ரூ. 21 பில்லியன் பணமோசடி: பிரதான சூத்திரதாரி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-14643f53)
 - 2026-06-21 | `dailymirrorlk-b2acd63c` | Alleged mastermind behind Rs. 21 Billion illegal Dollar transfer network arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-dailymirrorlk-b2acd63c)
 - 2026-06-21 | `dailymirrorlk-b68f8c7e` | Police sound alarm over social media romance scams | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-dailymirrorlk-b68f8c7e)
+- 2026-06-21 | `adalk-5aa0d62b` | වංචනිකයන්ගෙන් ආරක්ෂාවීමට කාන්තාවන්ට පොලිසියෙන් දැනුම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-adalk-5aa0d62b)
 - 2026-06-21 | `dailymirrorlk-9ad892ed` | IMF team to visit Sri Lanka next week to review reform programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-dailymirrorlk-9ad892ed)
 - 2026-06-21 | `dailymirrorlk-693a43c3` | Iran negotiators, Vance head for Switzerland but Lebanon fighting continues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-dailymirrorlk-693a43c3)
 - 2026-06-21 | `adalk-3fc76186` | ඉරාන හා ඇමෙරිකා සෘජු සාකච්ඡා අද ස්විට්සර්ලන්තයේදී | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-adalk-3fc76186)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-06-20 | `dailymirrorlk-53b00e3d` | Three-month concession given for vehicles without seatbelts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailymirrorlk-53b00e3d)
 - 2026-06-20 | `adalk-6177f3e1` | හෝමූස් වෙත ළඟා වෙන්න එපා යැයි ඉරාන නාවික හමුදාව කියයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-adalk-6177f3e1)
 - 2026-06-20 | `adalk-c6b0b54b` | හෝමූස් සමුද්‍ර සන්ධිය වසා දමන බව ඉරානය පවසයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-adalk-c6b0b54b)
-- 2026-06-20 | `dailymirrorlk-a60789d6` | Pakistan cuts petrol price by Rs74 after US-Iran peace deal eases oil costs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailymirrorlk-a60789d6)
-- 2026-06-20 | `tamilmirrorlk-cf23df31` | QR முறை குறித்து இறுதி முடிவு இல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-tamilmirrorlk-cf23df31)
-- 2026-06-20 | `dailymirrorlk-b4154303` | Iran closes Strait of Hormuz over ceasefire violations - MEHR | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-dailymirrorlk-b4154303)
-- 2026-06-20 | `virakesarilk-79974079` | குண்டசாலை வராபிட்டியவில் இளம் பெண்ணின் மரணத்தில் மர்மம் : கணவர் வீட்டில் சடலம் மீட்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-virakesarilk-79974079)
-- 2026-06-20 | `virakesarilk-206d2cff` | தமிழக அமைச்சர் ஆதவ் அர்ஜுனாவுடன் மு.கா. தலைவர் ஹக்கீம் கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-virakesarilk-206d2cff)
-- 2026-06-20 | `virakesarilk-e06ecec6` | சூர்யா நடிக்கும் 'விஸ்வநாத் & சன்ஸ்' படத்தின் பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-virakesarilk-e06ecec6)
-- 2026-06-20 | `virakesarilk-be07bc16` | ரசிகர்களின் கவனத்தை ஈர்த்துள்ள நடிகர் வெற்றியின் 'பிளாக் கோல்ட் ' பட முன்னோட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-virakesarilk-be07bc16)
-- 2026-06-20 | `virakesarilk-6c6c4e8d` | நடிகர் சனந்த் நடிக்கும் 'ஹார்ட்டின்' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-20-virakesarilk-6c6c4e8d)
 
 ---
 
