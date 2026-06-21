@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-21 04:12:30",
-  "n_docs": 119239,
+  "time_updated": "2026-06-21 06:49:11",
+  "n_docs": 119254,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 119239,
+  "n_docs_with_text": 119254,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-21",
-  "dataset_size": 1859338550,
+  "dataset_size": 1859470567,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-21-dailymirrorlk-73533157",
-    "num": "dailymirrorlk-73533157",
+    "doc_id": "2026-06-21-colombotelegraphcom-cc27fd26",
+    "num": "colombotelegraphcom-cc27fd26",
     "date_str": "2026-06-21",
-    "description": "Which teams have qualified for the FIFA World Cup 2026 knockouts, round of 32?",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Which-teams-have-qualified-for-the-FIFA-World-Cup-2026-knockouts-round-of-32/108-343504",
+    "description": "Jaffna As It Is & What Tamil Rule Will Be Like After PC Elections",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/jaffna-as-it-is-what-tamil-rule-will-be-like-after-pc-elections/",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1781980847.0
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1781982299.0
   }
 }
