@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--21_15:24:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--21_16:58:12-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,282** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,283** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -42,6 +42,7 @@ A collection of lk_news documents.
 ## 🆕 20 Latest documents
 
 - 2026-06-21 | `tamilmirrorlk-95d74c41` | ரயில் மோதி தந்தை-மகன் பரிதாப பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-95d74c41)
+- 2026-06-21 | `dailymirrorlk-2facbf85` | Government must publish full fuel cost breakdown and prove subsidy claims – Namal Rajapaksa | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-dailymirrorlk-2facbf85)
 - 2026-06-21 | `tamilmirrorlk-b6e6ee64` | திருமணமான பெண் மர்மமான முறையில் உயிரிழப்பு: உறவினர்கள் சந்தேகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-b6e6ee64)
 - 2026-06-21 | `tamilmirrorlk-f4d2176a` | யாழில் 2,452 பேர் காணாமல் போயுள்ளனர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-f4d2176a)
 - 2026-06-21 | `tamilmirrorlk-8e783e07` | கைவரிசையை காட்டிய தாயும் மகளும்... (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-8e783e07)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-06-21 | `tamilmirrorlk-3ae76799` | 10 வயது மாணவி துஷ்பிரயோகம்: அதிபருக்கு விளக்கமறியலில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-3ae76799)
 - 2026-06-21 | `tamilmirrorlk-3c58124e` | தெரணியகலையில் நால்வருக்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-3c58124e)
 - 2026-06-21 | `tamilmirrorlk-7b59c95a` | ரூ. 13.2 மில்லியன் பெறுமதியான சட்டவிரோத சிகரெட்டுகள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-7b59c95a)
-- 2026-06-21 | `tamilmirrorlk-14643f53` | ரூ. 21 பில்லியன் பணமோசடி: பிரதான சூத்திரதாரி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-14643f53)
 
 ---
 
