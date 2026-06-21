@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-22 02:35:39",
-  "n_docs": 119375,
+  "time_updated": "2026-06-22 04:13:46",
+  "n_docs": 119388,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 119375,
+  "n_docs_with_text": 119388,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-22",
-  "dataset_size": 1861613791,
+  "dataset_size": 1862012631,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "ta",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-22-dailymirrorlk-da3ae4d7",
-    "num": "dailymirrorlk-da3ae4d7",
+    "doc_id": "2026-06-22-dailymirrorlk-63039336",
+    "num": "dailymirrorlk-63039336",
     "date_str": "2026-06-22",
-    "description": "Colombo Port transhipment growth accelerates as CWIT ramps up operations",
-    "url_metadata": "https://www.dailymirror.lk/business-main/Colombo-Port-transhipment-growth-accelerates-as-CWIT-ramps-up-operations/245-343537",
+    "description": "Entrepreneurship: The Spinal Cord of Economic Resurgence and the Solution to Unemployment",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Entrepreneurship-The-Spinal-Cord-of-Economic-Resurgence-and-the-Solution-to-Unemployment/172-343545",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782068421.0
+    "time_ut": 1782073681.0
   }
 }

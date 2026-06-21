@@ -253061,6 +253061,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-21-dailymirrorlk-85fe76c0",
+    "num": "dailymirrorlk-85fe76c0",
+    "date_str": "2026-06-21",
+    "description": "Mahindra Ideal Finance opens Kohuwela branch",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Mahindra-Ideal-Finance-opens-Kohuwela-branch/273-343523",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782063326.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-dailymirrorlk-1a569d72",
+    "num": "dailymirrorlk-1a569d72",
+    "date_str": "2026-06-21",
+    "description": "Prime Residencies commences The Golf construction",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Prime-Residencies-commences-The-Golf-construction/273-343524",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782063535.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-21-dailymirrorlk-a47f1e1d",
     "num": "dailymirrorlk-a47f1e1d",
     "date_str": "2026-06-21",
@@ -253105,6 +253127,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-21-dailymirrorlk-e4ea7c93",
+    "num": "dailymirrorlk-e4ea7c93",
+    "date_str": "2026-06-21",
+    "description": "Abans opens Sri Lanka\u2019s 1st Exclusive Xiaomi Store",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Abans-opens-Sri-Lankas-1st-Exclusive-Xiaomi-Store/273-343528",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782064851.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-21-virakesarilk-172ec4e9",
     "num": "virakesarilk-172ec4e9",
     "date_str": "2026-06-21",
@@ -253124,6 +253157,50 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782065224.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-dailymirrorlk-f6e5db6d",
+    "num": "dailymirrorlk-f6e5db6d",
+    "date_str": "2026-06-21",
+    "description": "New regulations tighten monitoring of import payments",
+    "url_metadata": "https://www.dailymirror.lk/business-news/New-regulations-tighten-monitoring-of-import-payments/273-343530",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782065370.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-dailymirrorlk-f23a2797",
+    "num": "dailymirrorlk-f23a2797",
+    "date_str": "2026-06-21",
+    "description": "SEC rejects Hela Apparel request to defer trading suspension",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SEC-rejects-Hela-Apparel-request-to-defer-trading-suspension/273-343531",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782065466.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-dailymirrorlk-5b94103e",
+    "num": "dailymirrorlk-5b94103e",
+    "date_str": "2026-06-21",
+    "description": "IMF team to visit Sri Lanka this week",
+    "url_metadata": "https://www.dailymirror.lk/business-news/IMF-team-to-visit-Sri-Lanka-this-week/273-343532",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782065643.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-tamilmirrorlk-50fad94c",
+    "num": "tamilmirrorlk-50fad94c",
+    "date_str": "2026-06-21",
+    "description": "\u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bb2\u0bae\u0bc0\u0ba9\u0bcd \u0baf\u0bae\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd \u0b85\u0b9a\u0bc1\u0bb0 \u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bb2\u0bae\u0bc0\u0ba9\u0bcd-\u0baf\u0bae\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd-\u0b85\u0b9a\u0bc1\u0bb0-\u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8/44-378900",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782066430.0
   },
   {
     "doc_type": "lk_news",
@@ -253179,5 +253256,71 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782068421.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-41163b13",
+    "num": "dailymirrorlk-41163b13",
+    "date_str": "2026-06-22",
+    "description": "Is Sri Lanka\u2019s investor-friendly environment at risk?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Is-Sri-Lankas-investor-friendly-environment-at-risk/172-343539",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782070412.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-eba008d8",
+    "num": "dailymirrorlk-eba008d8",
+    "date_str": "2026-06-22",
+    "description": "Father\u2019s Day, and the fate of many Lankan fathers",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Fathers-Day-and-the-fate-of-many-Lankan-fathers/172-343540",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782070715.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-8431f904",
+    "num": "dailymirrorlk-8431f904",
+    "date_str": "2026-06-22",
+    "description": "Restoring the Uva Railway as alternative to shutting it down",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Restoring-the-Uva-Railway-as-alternative-to-shutting-it-down/172-343541",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782071188.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-e6dbb85d",
+    "num": "dailymirrorlk-e6dbb85d",
+    "date_str": "2026-06-22",
+    "description": "The two faces of Dubai:  Glitzy high-rises, low-paid workers",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-two-faces-of-Dubai-Glitzy-high-rises-low-paid-workers/172-343543",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782072481.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-a499fa82",
+    "num": "dailymirrorlk-a499fa82",
+    "date_str": "2026-06-22",
+    "description": "Sacrificing Autonomy- Penny Wise, Pound Foolish: Maritime Security Cooperation with India",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Sacrificing-Autonomy-Penny-Wise-Pound-Foolish-Maritime-Security-Cooperation-with-India/172-343544",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782073088.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-63039336",
+    "num": "dailymirrorlk-63039336",
+    "date_str": "2026-06-22",
+    "description": "Entrepreneurship: The Spinal Cord of Economic Resurgence and the Solution to Unemployment",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Entrepreneurship-The-Spinal-Cord-of-Economic-Resurgence-and-the-Solution-to-Unemployment/172-343545",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782073681.0
   }
 ]
