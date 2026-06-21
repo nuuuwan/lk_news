@@ -252731,6 +252731,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-21-adalk-45d06e69",
+    "num": "adalk-45d06e69",
+    "date_str": "2026-06-21",
+    "description": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 \u0daf\u0dd9\u0d9a\u0d9a\u0da7 \u0d9a\u0dbd\u0dd2\u0db1\u0dca \u0dc3\u0dcf\u0db4\u0dd9\u0dc5 \u0dbd\u0dd2\u0dba\u0dcf A \u0dc3\u0dcf\u0db8\u0dcf\u0dbb\u0dca\u0dae \u0db1\u0db8\u0dba\u0db8 \u0d85\u0dbb\u0d9c\u0dd9\u0db1",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4-\u0daf\u0dd9\u0d9a\u0d9a\u0da7-\u0d9a\u0dbd\u0dd2\u0db1\u0dca-\u0dc3\u0dcf\u0db4\u0dd9\u0dc5-\u0dbd\u0dd2\u0dba\u0dcf-A-\u0dc3\u0dcf\u0db8\u0dcf\u0dbb\u0dca\u0dae-\u0db1\u0db8\u0dba\u0db8-\u0d85\u0dbb\u0d9c\u0dd9\u0db1/10-422941",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782045849.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-21-tamilmirrorlk-503275ff",
     "num": "tamilmirrorlk-503275ff",
     "date_str": "2026-06-21",
@@ -252750,5 +252761,16 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782046475.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-dailymirrorlk-6904488d",
+    "num": "dailymirrorlk-6904488d",
+    "date_str": "2026-06-21",
+    "description": "US and Iran begin talks on initial peace deal in Switzerland",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-and-Iran-begin-talks-on-initial-peace-deal-in-Switzerland/108-343520",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782052651.0
   }
 ]

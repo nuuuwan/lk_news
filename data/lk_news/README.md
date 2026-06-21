@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--21_18:38:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--21_20:46:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,336** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,338** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-21**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-21-dailymirrorlk-12909e82",
-    "num": "dailymirrorlk-12909e82",
+    "doc_id": "2026-06-21-dailymirrorlk-6904488d",
+    "num": "dailymirrorlk-6904488d",
     "date_str": "2026-06-21",
-    "description": "West Indies Women beat Sri Lanka by five wickets",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/West-Indies-Women-beat-Sri-Lanka-by-five-wickets/108-343519",
+    "description": "US and Iran begin talks on initial peace deal in Switzerland",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-and-Iran-begin-talks-on-initial-peace-deal-in-Switzerland/108-343520",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782046475.0
+    "time_ut": 1782052651.0
 }
 ```
 
@@ -41,8 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-21 | `dailymirrorlk-6904488d` | US and Iran begin talks on initial peace deal in Switzerland | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-dailymirrorlk-6904488d)
 - 2026-06-21 | `dailymirrorlk-12909e82` | West Indies Women beat Sri Lanka by five wickets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-dailymirrorlk-12909e82)
 - 2026-06-21 | `tamilmirrorlk-503275ff` | பிரான்ஸின் தேசிய இசை விழாவில் மதுபானங்களுக்குத் தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-503275ff)
+- 2026-06-21 | `adalk-45d06e69` | අවුරුදු දෙකකට කලින් සාපෙළ ලියා A සාමාර්ථ නමයම අරගෙන | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-adalk-45d06e69)
 - 2026-06-21 | `dailymirrorlk-a88ecbcb` | India A beat Sri Lanka A by 66 runs to win Tri-Nation A-Series | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-dailymirrorlk-a88ecbcb)
 - 2026-06-21 | `virakesarilk-676f78c6` | வெல்லம்பிட்டியவில் வெதுப்பகம் ஒன்றில் திடீர் தீ விபத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-virakesarilk-676f78c6)
 - 2026-06-21 | `virakesarilk-36684e39` | கலேவெலவில் யானைத் தந்தம், சிறுத்தைப்பற்கள் மற்றும் மான்கொம்புகளுடன் சந்தேக நபர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-virakesarilk-36684e39)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-06-21 | `virakesarilk-0c44d95c` | அமெ­ரிக்க-ஈரான் போரும் அணு ஆயு­தங்­களும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-virakesarilk-0c44d95c)
 - 2026-06-21 | `virakesarilk-5a783715` | நுவரெலியா சீதை அம்மன் ஆலயத்திற்கு இந்திய ஆன்மீகப் பயணிகள் 150 பேர் வருகை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-virakesarilk-5a783715)
 - 2026-06-21 | `virakesarilk-1a879f29` | அசாத்தியத்தை சாத்தியப்படுத்தல் : அமெரிக்க - ஈரானிய அமைதி உடன்படிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-virakesarilk-1a879f29)
-- 2026-06-21 | `tamilmirrorlk-e90c3024` | ஆரோக்கியமான எதிர்காலத்தை   யோகா மூலம் வரவேற்போம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-tamilmirrorlk-e90c3024)
-- 2026-06-21 | `virakesarilk-f98173c7` | கேள்விக்கு உள்ளாகும்  சுவிசின் எதிர்காலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-21-virakesarilk-f98173c7)
 
 ---
 
