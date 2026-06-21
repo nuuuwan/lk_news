@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-22 00:38:57",
-  "n_docs": 119354,
+  "time_updated": "2026-06-22 02:35:39",
+  "n_docs": 119375,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 119354,
+  "n_docs_with_text": 119375,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-06-21",
-  "dataset_size": 1861371575,
+  "date_str_max": "2026-06-22",
+  "dataset_size": 1861613791,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-21-dailymirrorlk-8d1d94a2",
-    "num": "dailymirrorlk-8d1d94a2",
-    "date_str": "2026-06-21",
-    "description": "University of West London opens Sri Lanka Branch Campus",
-    "url_metadata": "https://www.dailymirror.lk/business-news/University-of-West-London-opens-Sri-Lanka-Branch-Campus/273-343529",
+    "doc_id": "2026-06-22-dailymirrorlk-da3ae4d7",
+    "num": "dailymirrorlk-da3ae4d7",
+    "date_str": "2026-06-22",
+    "description": "Colombo Port transhipment growth accelerates as CWIT ramps up operations",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Colombo-Port-transhipment-growth-accelerates-as-CWIT-ramps-up-operations/245-343537",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782065224.0
+    "time_ut": 1782068421.0
   }
 }
