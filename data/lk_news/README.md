@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22_21:36:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22_23:21:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,500** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,503** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-22-dailymirrorlk-389c9d03",
-    "num": "dailymirrorlk-389c9d03",
+    "doc_id": "2026-06-22-dailymirrorlk-228683a5",
+    "num": "dailymirrorlk-228683a5",
     "date_str": "2026-06-22",
-    "description": "US Treasury eases sanctions, issues 60-day license for Iranian oil amid progress in peace talks",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-Treasury-eases-sanctions-issues-60-day-license-for-Iranian-oil-amid-progress-in-peace-talks/108-343604",
+    "description": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
+    "url_metadata": "https://www.dailymirror.lk/international/WhatsApp-to-be-led-by-Indian-start-up-founder-as-Will-Cathcart-steps-back/107-343608",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782142741.0
+    "time_ut": 1782145615.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-22 | `dailymirrorlk-228683a5` | WhatsApp to be led by Indian start-up founder as Will Cathcart steps back | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-228683a5)
+- 2026-06-22 | `dailymirrorlk-758904c5` | US Assistant Secretary of State meets President Dissanayake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-758904c5)
+- 2026-06-22 | `tamilmirrorlk-45987123` | மகளிடம் பாலியல் வன்கொடுமை; தந்தை மீது துப்பாக்கி சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-45987123)
 - 2026-06-22 | `dailymirrorlk-389c9d03` | US Treasury eases sanctions, issues 60-day license for Iranian oil amid progress in peace talks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-389c9d03)
 - 2026-06-22 | `tamilmirrorlk-50ae665d` | துப்பாக்கி வெடித்ததில் இராணுவ வீரர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-50ae665d)
 - 2026-06-22 | `dailymirrorlk-d836b126` | US provides Rs. 1.2 Billion satellite communications system to Sri Lanka Navy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-d836b126)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-06-22 | `adalk-7b30cdac` | දුම්රියේ අලුත් කර්මාන්තශාලාවට දොඹකර පහක් ගෙන්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-adalk-7b30cdac)
 - 2026-06-22 | `dailymirrorlk-fa94c0f2` | Pushpika de Silva crown removal case: Verdict scheduled for September 14 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-fa94c0f2)
 - 2026-06-22 | `dailymirrorlk-637282bd` | Pushpika de Silva crown removal case: Verdict scheduled for October 17 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-637282bd)
-- 2026-06-22 | `tamilmirrorlk-c7afbdd2` | படலையை தலையால் முட்டிய தந்தை : கதறி அழுத மகள் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-c7afbdd2)
-- 2026-06-22 | `dailymirrorlk-0dc78490` | One dead, 10 injured in multi-vehicle crash in Kegalle | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-0dc78490)
-- 2026-06-22 | `adalk-434ca514` | “සෞඛ්‍ය සම්පන්න පාසල් ආපනශාලා පිළිබඳ මාර්ගෝපදේශය’’ එළිදැක්වේ. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-adalk-434ca514)
 
 ---
 
