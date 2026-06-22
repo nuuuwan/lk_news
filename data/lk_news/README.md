@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22_23:21:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23_00:57:54-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,503** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,534** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-22-dailymirrorlk-228683a5",
-    "num": "dailymirrorlk-228683a5",
-    "date_str": "2026-06-22",
-    "description": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-    "url_metadata": "https://www.dailymirror.lk/international/WhatsApp-to-be-led-by-Indian-start-up-founder-as-Will-Cathcart-steps-back/107-343608",
+    "doc_id": "2026-06-23-dailyftlk-87c08398",
+    "num": "dailyftlk-87c08398",
+    "date_str": "2026-06-23",
+    "description": "Kunming Expo : A gateway to China for Sri Lankan exporters",
+    "url_metadata": "https://www.ft.lk/business/Kunming-Expo-A-gateway-to-China-for-Sri-Lankan-exporters/34-793664",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782145615.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782154829.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-23 | `dailyftlk-87c08398` | Kunming Expo : A gateway to China for Sri Lankan exporters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailyftlk-87c08398)
+- 2026-06-23 | `dailyftlk-db9e825c` | USJ’s Veenath Indrajith wins 2026 Saman Kelegama Memorial Research Grant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailyftlk-db9e825c)
+- 2026-06-22 | `dailyftlk-401c7bed` | Mandatory TIN registration for all individuals above 18: A legal requirement or public misconception? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-401c7bed)
+- 2026-06-22 | `dailyftlk-9e75b13b` | Sri Lanka’s export test: Can the NEDP deliver by 2030? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-9e75b13b)
+- 2026-06-22 | `tamilmirrorlk-a88979ea` | குளோஸேயின் சாதனையை முறியடித்து வரலாறு படைத்தார் மெஸ்ஸி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-a88979ea)
+- 2026-06-22 | `virakesarilk-045dabe6` | செம்மணி புதைகுழியில் மேலும் 13 என்புக்கூடுகள் மீட்பு; புதிதாக 7 என்புக்கூடுகள் அடையாளம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-045dabe6)
+- 2026-06-22 | `virakesarilk-5e4cf393` | இந்தியாவில் பயிற்சி மையத்தில் ஏற்பட்ட தீ விபத்தில் 15 மாணவர்கள் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-5e4cf393)
 - 2026-06-22 | `dailymirrorlk-228683a5` | WhatsApp to be led by Indian start-up founder as Will Cathcart steps back | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-228683a5)
 - 2026-06-22 | `dailymirrorlk-758904c5` | US Assistant Secretary of State meets President Dissanayake | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-758904c5)
 - 2026-06-22 | `tamilmirrorlk-45987123` | மகளிடம் பாலியல் வன்கொடுமை; தந்தை மீது துப்பாக்கி சூடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-45987123)
+- 2026-06-22 | `virakesarilk-a72b8250` | முதலாவது வெற்றியை சுவைத்தது எகிப்து, ஸ்பெய்ன் இலகுவான வெற்றி; உருகுவே 0 - காபோ வேர்டே 2, பெல்ஜியம் 0 - ஈரான் 0 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-a72b8250)
 - 2026-06-22 | `dailymirrorlk-389c9d03` | US Treasury eases sanctions, issues 60-day license for Iranian oil amid progress in peace talks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-389c9d03)
 - 2026-06-22 | `tamilmirrorlk-50ae665d` | துப்பாக்கி வெடித்ததில் இராணுவ வீரர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-50ae665d)
+- 2026-06-22 | `virakesarilk-44854e68` | பயங்கரவாதத் தடைச் சட்டத்திற்குப் பதிலாக ஒழுங்கமைக்கப்பட்ட குற்றங்களை தடுக்கும் சட்டம் - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-44854e68)
 - 2026-06-22 | `dailymirrorlk-d836b126` | US provides Rs. 1.2 Billion satellite communications system to Sri Lanka Navy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-d836b126)
 - 2026-06-22 | `dailymirrorlk-d158b987` | Ex-Wimbledon champion Vondrousova given four-year ban | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-d158b987)
 - 2026-06-22 | `tamilmirrorlk-b1fd6f3e` | அமெரிக்கா - இலங்கை உறவில் ஒரு மைல்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-b1fd6f3e)
+- 2026-06-22 | `virakesarilk-6fd962ff` | ​இந்திய கட்டடக்கலை பற்றிய புரிதலில் ஜேம்ஸ் பெர்குசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-6fd962ff)
 - 2026-06-22 | `dailymirrorlk-3a93e499` | Qatar says gas export terminal blast killed 13 as workers tried to resume operations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-3a93e499)
-- 2026-06-22 | `tamilmirrorlk-180c6d46` | எரிபொருள் நெருக்கடி: நிர்வாகத்திற்கு எதிராக ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-180c6d46)
-- 2026-06-22 | `virakesarilk-b119ac44` | குண்டுத்தாக்குதல்கள் சம்பவத்தில் பயனடைந்தவர்கள் குற்றவாளிகளாயின், ஏன் பேராயர் கர்தினால் மீது குற்றஞ்சாட்டவில்லை? - உதய கம்மன்பில கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-b119ac44)
-- 2026-06-22 | `virakesarilk-c7877425` | 2028இல் மேலதிகமாக 2.5 - 3.5 பில்லியன் டொலர் கடன் செலுத்த நேரிடும் ; நாட்டில் அந்நிய செலாவணி இருப்பு அதற்கு போதுமானதல்ல! - சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-c7877425)
-- 2026-06-22 | `virakesarilk-9f2e6050` | வரவு - செலவுத் திட்டத்தில் 11.5 ரூபா பில்லியன் ஒதுக்கப்பட்டும், நாட்டில் டெங்கு கட்டுக்கடங்காமல் அதிகரிப்பு ; ஒவ்வோர் உயிரிழப்புக்கும் அரசு பொறுப்பேற்கவேண்டும் - ரஞ்சன் செனவிரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-9f2e6050)
-- 2026-06-22 | `dailymirrorlk-fe942d38` | Three dead in Philippines high school shooting over bullying ’grudge’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-fe942d38)
-- 2026-06-22 | `dailymirrorlk-46099be6` | SC to hear appeal on Minister Wijepala’s parliamentary eligibility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-46099be6)
-- 2026-06-22 | `tamilmirrorlk-c370ba81` | செயற்கைக்கோள் தொடர்பாடல் கட்டமைப்பை வழங்கும் அமெரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-c370ba81)
-- 2026-06-22 | `tamilmirrorlk-a94810d1` | புஷ்பிகாவின் கிரீடம் பறிக்கப்பட்ட வழக்கு: ஒக்டோபர் 17 இறுதித் தீர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-a94810d1)
-- 2026-06-22 | `adalk-7b30cdac` | දුම්රියේ අලුත් කර්මාන්තශාලාවට දොඹකර පහක් ගෙන්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-adalk-7b30cdac)
-- 2026-06-22 | `dailymirrorlk-fa94c0f2` | Pushpika de Silva crown removal case: Verdict scheduled for September 14 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-fa94c0f2)
-- 2026-06-22 | `dailymirrorlk-637282bd` | Pushpika de Silva crown removal case: Verdict scheduled for October 17 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-637282bd)
+- 2026-06-22 | `virakesarilk-dad77ed3` | அமெரிக்க உதவி இராஜாங்கச் செயலாளர் போல் கபூர் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவை சந்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-dad77ed3)
 
 ---
 

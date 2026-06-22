@@ -1,0 +1,77 @@
+Mandatory TIN registration for all individuals above 18: A legal requirement or public misconception?
+
+Following the enactment of the Inland Revenue (Amendment) Act, No. 11 of 2026 by Parliament earlier this month, tax advisors, social media commentators, and various online platforms have been actively “educating” the public about “mandatory requirement” for every individual above the age of 18 to obtain a Tax Identification Number (TIN).
+
+This publicity campaign has generated considerable anxiety among members of the public. Many individuals frantically contacted me seeking clarification on whether such a legal obligation actually exists, while others sought assistance in obtaining TIN registration out of fear of possible legal consequences.
+
+Given the volume of inquiries and widespread public concern, I examined the official website of the Inland Revenue Department (IRD). Notably, I found no official announcement requiring all individuals above the age of 18 to obtain a TIN. Upon further inquiry into the origin of this widespread belief, it became apparent that the claim primarily stems from two sources:
+
+Gazette Extraordinary No. 2334/21 dated 31 May 2023, issued by then Minister of Finance, Ranil Wickremesinghe, purportedly under Section 102(3) of the Inland Revenue Act, No. 24 of 2017 (the Act) mandating all individual above 18 years to obtain TIN; and
+
+The recently enacted Inland Revenue (Amendment) Act, No. 11 of 2026, particularly the amendments introduced to Section 103 of the Act, mandating to obtain TIN for few activities.
+
+Every public official is legally obliged to act within the authority granted by Parliament. Any administrative action unsupported by or contrary to statutory authority is arbitrary and legally untenable.
+
+The provisions contained in PART-B of the said Gazette, which purportedly require every individual above the age of 18 to obtain a TIN, are not only impractical and unproductive but also legally questionable. The mere attainment of a particular age does not, by itself, create a tax liability or a statutory obligation to register with the IRD.
+
+The author has previously addressed this issue in two separate articles, which were published in the Daily FT:
+
+n“Requirement for Individuals Over 18 Years to Register with CGIR Not Valid” (2 January 2024); and
+
+n “Mass Registration of Individuals for Income Tax: A Misguided Approach” (21 October 2025).
+
+In both articles, the legal and practical shortcomings of imposing a blanket registration requirement on all adults were extensively examined.
+
+In my considered opinion, neither the Commissioner-General of Inland Revenue (CGIR) nor the Minister of Finance possesses legal authority under Section 102 of the Act to compel individuals to obtain a TIN solely on the basis of age. To understand the issue properly, it is necessary to read the relevant provisions of the Act collectively rather than in isolation.
+
+Who Must Register? Section 102(1) of the Inland Revenue Act provides:
+
+“Every person liable to furnish a return of income for a year of assessment ... shall register with the Commissioner-General ...”
+
+Accordingly, the statutory obligation to register arises only where a person is liable to furnish a return of income.
+
+“Every person chargeable with income tax under this Act shall furnish ... a tax return.”
+
+Thus, the requirement to submit a return applies only to persons who are chargeable with income tax.
+
+Who Is Chargeable with Income Tax? Section 2(1) (a) clarifies that income tax is imposed on “a person who has taxable income”.
+
+Therefore, the liability to register must ultimately be traced back to whether a person has taxable income and is consequently required to file a tax return.
+
+Accordingly, when the relevant provisions of the Act are read collectively rather than in isolation, it becomes abundantly clear that an individual is legally required to obtain TIN only if he or she has earned, or is reasonably expected to earn, an annual net income exceeding Rs. 1,800,000. On the contrary, imposing a mandatory TIN registration requirement solely on the basis of age finds no support in the Act. Such a requirement is ultra vires the statutory provisions and is inconsistent with both the letter and the spirit of the law.
+
+Even the Government of Ranil Wickremesinghe ultimately abandoned the implementation of the Gazette Notification that purported to require all individuals above the age of 18 to obtain a Taxpayer Identification Number (TIN) with effect from 1 January 2024. The measure was effectively dropped due to serious concerns regarding its legality, efficiency, and practical feasibility.
+
+It is therefore both absurd and naïve to expect that the present NPP Government—which came to power on a solemn pledge to uphold the rule of law, fairness, and good governance—would adopt and enforce the very same unlawful and inefficient measure that was introduced, but later abandoned, by the Wickremesinghe administration.
+
+New Amendment Act has effectively nullified the mandatory TIN requirement
+
+The amendment made to Section 103(6) of the Inland Revenue Act through the Amendment Act, No. 11 of 2026, has effectively rendered Part B of the said Gazette Notification obsolete. Part B purported to require every individual above the age of 18 to obtain a TIN.
+
+The amended provision now requires any person, regardless of age, to furnish a TIN certificate only when applying for specified services or undertaking designated transactions, such as opening a bank account, obtaining approval for a building plan, registering a motor vehicle, land, or business, renewing a vehicle license, transferring shares, or obtaining a credit card.
+
+Had Parliament intended the possession of TIN to be mandatory for every individual above the age of 18, there would have been no necessity to specifically identify particular services and transactions for which TIN is required. The selective identification of these services clearly indicates that the obligation to obtain TIN is linked to those specified transactions rather than to age alone.
+
+A useful comparison can be made with the National Identity Card (NIC). Since possession of an NIC is a collective legal requirement for every citizen above the prescribed age, the law does not separately identify specific occasions on which an NIC must be produced. The very fact that the amended law expressly specifies particular services and transactions requiring TIN demonstrates that Parliament did not intend to impose a blanket obligation on all individuals above 18 years of age to obtain one.
+
+Need for database does not justify mandatory TIN registration for all adults
+
+Some have argued that the requirement for all individuals above the age of 18 to obtain a TIN is not intended to impose or collect taxes from them directly. Rather, the objective is said to be the creation of a comprehensive database that would enable the IRD to cross-check information received from various sources and determine whether such individuals are liable for tax and, if so, whether they have complied with their tax obligations.
+
+There is no disagreement regarding the importance of maintaining an accurate and comprehensive database for tax administration purposes. However, the point of contention lies in the method adopted to create such a database.
+
+Requiring nearly 16 million individuals above the age of 18 to register with the IRD and obtain TIN is not only a colossal administrative undertaking but also an inefficient and impractical means of achieving the desired objective. It is akin to burning one’s hand while holding a spoon—an unnecessarily burdensome approach when simpler and more effective alternatives already exist. Expecting universal compliance from such a vast segment of the population is, at best, wishful thinking.
+
+Recognising the need for information sharing between Government institutions, Parliament amended Section 123 of the Act through the Amendment Act, No. 45 of 2022. Under Section 123(6), the Commissioner General of Elections is required, upon request by the CGIR, to provide updated information relating to registered voters, including their names, addresses, and NIC numbers.
+
+Accordingly, the CGIR already possesses a statutory mechanism to obtain the necessary details of virtually all adult citizens within a relatively short period of time. The required database can therefore be established through inter-agency information sharing, without compelling millions of individuals to undergo a separate registration process and without threatening ordinary citizens with fines, penalties, or potential criminal proceedings for non-compliance.
+
+In these circumstances, the objective of maintaining a comprehensive taxpayer database can be achieved more efficiently, economically, and lawfully through existing statutory mechanisms rather than by imposing a blanket TIN registration requirement on every individual above the age of 18.
+
+A careful reading of the Inland Revenue Act reveals that the obligation to register for a TIN originates from tax liability, not from the mere attainment of 18 years of age. Neither the Gazette Notification issued in 2023 nor the recent amendments introduced by the Inland Revenue (Amendment) Act, No. 11 of 2026 provide a sound legal basis for concluding that every individual above 18 years must obtain a TIN. On the contrary, the latest amendments indicate that Parliament has chosen a targeted approach by requiring TIN only in relation to specified transactions and services.
+
+The objective of strengthening tax administration and maintaining a comprehensive database is both legitimate and necessary. However, such objectives must be pursued within the framework established by Parliament and through efficient administrative mechanisms that already exist in law.
+
+Until Parliament expressly provides otherwise, the legal position remains clear: obtaining a TIN is not a collective obligation imposed on every individual based on the age, but a requirement that arises based on having taxable income as contemplated by the Inland Revenue Act.
+
+(The author is a Retired Deputy Commissioner General of theInland Revenue Department, and can be reached via [email protected])
