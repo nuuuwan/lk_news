@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23_02:58:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23_04:21:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,534** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,537** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-23-dailyftlk-87c08398",
-    "num": "dailyftlk-87c08398",
+    "doc_id": "2026-06-23-dailymirrorlk-8733fd24",
+    "num": "dailymirrorlk-8733fd24",
     "date_str": "2026-06-23",
-    "description": "Kunming Expo : A gateway to China for Sri Lankan exporters",
-    "url_metadata": "https://www.ft.lk/business/Kunming-Expo-A-gateway-to-China-for-Sri-Lankan-exporters/34-793664",
+    "description": "Messi sets World Cup scoring record as Argentina advances to knockout stage",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Messi-sets-World-Cup-scoring-record-as-Argentina-advances-to-knockout-stage/108-343634",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1782154829.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782158127.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-23 | `dailymirrorlk-8733fd24` | Messi sets World Cup scoring record as Argentina advances to knockout stage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-8733fd24)
+- 2026-06-23 | `dailymirrorlk-4173b13e` | FIFA World Cup 2026 Round of 32 Bracket and Schedule: Road to the Final Takes Shape | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-4173b13e)
 - 2026-06-23 | `dailyftlk-87c08398` | Kunming Expo : A gateway to China for Sri Lankan exporters | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailyftlk-87c08398)
 - 2026-06-23 | `dailyftlk-db9e825c` | USJ’s Veenath Indrajith wins 2026 Saman Kelegama Memorial Research Grant | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailyftlk-db9e825c)
 - 2026-06-22 | `dailyftlk-401c7bed` | Mandatory TIN registration for all individuals above 18: A legal requirement or public misconception? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-401c7bed)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-06-22 | `dailymirrorlk-d158b987` | Ex-Wimbledon champion Vondrousova given four-year ban | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-d158b987)
 - 2026-06-22 | `tamilmirrorlk-b1fd6f3e` | அமெரிக்கா - இலங்கை உறவில் ஒரு மைல்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-b1fd6f3e)
 - 2026-06-22 | `virakesarilk-6fd962ff` | ​இந்திய கட்டடக்கலை பற்றிய புரிதலில் ஜேம்ஸ் பெர்குசன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-6fd962ff)
-- 2026-06-22 | `dailymirrorlk-3a93e499` | Qatar says gas export terminal blast killed 13 as workers tried to resume operations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-3a93e499)
-- 2026-06-22 | `virakesarilk-dad77ed3` | அமெரிக்க உதவி இராஜாங்கச் செயலாளர் போல் கபூர் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவை சந்தார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-dad77ed3)
 
 ---
 
