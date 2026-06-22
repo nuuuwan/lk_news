@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22_18:00:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22_21:36:51-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,484** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,500** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-22-dailymirrorlk-637282bd",
-    "num": "dailymirrorlk-637282bd",
+    "doc_id": "2026-06-22-dailymirrorlk-389c9d03",
+    "num": "dailymirrorlk-389c9d03",
     "date_str": "2026-06-22",
-    "description": "Pushpika de Silva crown removal case: Verdict scheduled for October 17",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pushpika-de-Silva-crown-removal-case-Verdict-scheduled-for-October-17/108-343596",
+    "description": "US Treasury eases sanctions, issues 60-day license for Iranian oil amid progress in peace talks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-Treasury-eases-sanctions-issues-60-day-license-for-Iranian-oil-amid-progress-in-peace-talks/108-343604",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782129557.0
+    "time_ut": 1782142741.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-22 | `dailymirrorlk-389c9d03` | US Treasury eases sanctions, issues 60-day license for Iranian oil amid progress in peace talks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-389c9d03)
+- 2026-06-22 | `tamilmirrorlk-50ae665d` | துப்பாக்கி வெடித்ததில் இராணுவ வீரர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-50ae665d)
+- 2026-06-22 | `dailymirrorlk-d836b126` | US provides Rs. 1.2 Billion satellite communications system to Sri Lanka Navy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-d836b126)
+- 2026-06-22 | `dailymirrorlk-d158b987` | Ex-Wimbledon champion Vondrousova given four-year ban | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-d158b987)
+- 2026-06-22 | `tamilmirrorlk-b1fd6f3e` | அமெரிக்கா - இலங்கை உறவில் ஒரு மைல்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-b1fd6f3e)
+- 2026-06-22 | `dailymirrorlk-3a93e499` | Qatar says gas export terminal blast killed 13 as workers tried to resume operations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-3a93e499)
+- 2026-06-22 | `tamilmirrorlk-180c6d46` | எரிபொருள் நெருக்கடி: நிர்வாகத்திற்கு எதிராக ஆர்ப்பாட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-180c6d46)
+- 2026-06-22 | `virakesarilk-b119ac44` | குண்டுத்தாக்குதல்கள் சம்பவத்தில் பயனடைந்தவர்கள் குற்றவாளிகளாயின், ஏன் பேராயர் கர்தினால் மீது குற்றஞ்சாட்டவில்லை? - உதய கம்மன்பில கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-b119ac44)
+- 2026-06-22 | `virakesarilk-c7877425` | 2028இல் மேலதிகமாக 2.5 - 3.5 பில்லியன் டொலர் கடன் செலுத்த நேரிடும் ; நாட்டில் அந்நிய செலாவணி இருப்பு அதற்கு போதுமானதல்ல! - சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-c7877425)
+- 2026-06-22 | `virakesarilk-9f2e6050` | வரவு - செலவுத் திட்டத்தில் 11.5 ரூபா பில்லியன் ஒதுக்கப்பட்டும், நாட்டில் டெங்கு கட்டுக்கடங்காமல் அதிகரிப்பு ; ஒவ்வோர் உயிரிழப்புக்கும் அரசு பொறுப்பேற்கவேண்டும் - ரஞ்சன் செனவிரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-9f2e6050)
+- 2026-06-22 | `dailymirrorlk-fe942d38` | Three dead in Philippines high school shooting over bullying ’grudge’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-fe942d38)
+- 2026-06-22 | `dailymirrorlk-46099be6` | SC to hear appeal on Minister Wijepala’s parliamentary eligibility | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-46099be6)
+- 2026-06-22 | `tamilmirrorlk-c370ba81` | செயற்கைக்கோள் தொடர்பாடல் கட்டமைப்பை வழங்கும் அமெரிக்கா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-c370ba81)
+- 2026-06-22 | `tamilmirrorlk-a94810d1` | புஷ்பிகாவின் கிரீடம் பறிக்கப்பட்ட வழக்கு: ஒக்டோபர் 17 இறுதித் தீர்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-a94810d1)
+- 2026-06-22 | `adalk-7b30cdac` | දුම්රියේ අලුත් කර්මාන්තශාලාවට දොඹකර පහක් ගෙන්වයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-adalk-7b30cdac)
+- 2026-06-22 | `dailymirrorlk-fa94c0f2` | Pushpika de Silva crown removal case: Verdict scheduled for September 14 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-fa94c0f2)
 - 2026-06-22 | `dailymirrorlk-637282bd` | Pushpika de Silva crown removal case: Verdict scheduled for October 17 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-637282bd)
 - 2026-06-22 | `tamilmirrorlk-c7afbdd2` | படலையை தலையால் முட்டிய தந்தை : கதறி அழுத மகள் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-c7afbdd2)
 - 2026-06-22 | `dailymirrorlk-0dc78490` | One dead, 10 injured in multi-vehicle crash in Kegalle | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-0dc78490)
 - 2026-06-22 | `adalk-434ca514` | “සෞඛ්‍ය සම්පන්න පාසල් ආපනශාලා පිළිබඳ මාර්ගෝපදේශය’’ එළිදැක්වේ. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-adalk-434ca514)
-- 2026-06-22 | `tamilmirrorlk-ef08e678` | அந்த  அதிர்ஷ்டசாலி நீங்களா?:  லாட்டரியை சரிபாருங்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-ef08e678)
-- 2026-06-22 | `dailymirrorlk-804099a9` | Emotional Chamari takes blame for Sri Lanka loss at T20WC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-804099a9)
-- 2026-06-22 | `tamilmirrorlk-6b604037` | 5 வாகனங்கள் மோதியில் மூதாட்டி பலி; 12 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-6b604037)
-- 2026-06-22 | `adalk-c106904f` | දඬුවම කියන දේ යම්කිසි ප්‍රමාණයකට ක්‍රියාත්මක කරන්න අපට සිද්ධ වෙලා තියෙනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-adalk-c106904f)
-- 2026-06-22 | `dailymirrorlk-2c077696` | Delft, Nainativu and Analaitivu set for round-the-clock power | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-2c077696)
-- 2026-06-22 | `adalk-60815c6f` | ඇමෙරිකානු ආයෝජකයන්ට ලංකාවට එන්න ආරාධනා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-adalk-60815c6f)
-- 2026-06-22 | `adalk-c820fb4f` | රොසෙල් “Imperium 2026” අභිමානවත් ලෙස නිමාව දකියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-adalk-c820fb4f)
-- 2026-06-22 | `dailymirrorlk-e5b85de9` | PMD responds to Daily Mirror article on Sri Lanka Cricket | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-e5b85de9)
-- 2026-06-22 | `tamilmirrorlk-027ea89e` | பிரித்தானிய பிரதமர் பதவி விலகினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-027ea89e)
-- 2026-06-22 | `tamilmirrorlk-3d07d86b` | பாகன்களை பந்தாடிய யானை: மாமாவும் மருமகனும் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-3d07d86b)
-- 2026-06-22 | `dailymirrorlk-002bb6fb` | UK’s Starmer resigns as prime minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-002bb6fb)
-- 2026-06-22 | `tamilmirrorlk-c7f8c712` | நெளிந்து நெளிந்து நடந்த கைதி சிக்கினார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-c7f8c712)
-- 2026-06-22 | `dailymirrorlk-73cdb016` | Rupee edges lower against US Dollar | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-73cdb016)
-- 2026-06-22 | `dailymirrorlk-48395254` | Sri Lanka reaffirms neutral foreign policy in talks with senior US Official | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-48395254)
-- 2026-06-22 | `dailymirrorlk-2943361b` | Oil falls after US-Iran talks conclude in Switzerland | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-2943361b)
-- 2026-06-22 | `tamilmirrorlk-bf7fc038` | கனடா தூதரகம் அதிரடி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-bf7fc038)
 
 ---
 
