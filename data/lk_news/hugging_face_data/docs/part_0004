@@ -249662,6 +249662,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-19-adalk-cacd497e",
+    "num": "adalk-cacd497e",
+    "date_str": "2026-06-19",
+    "description": "\u0d91\u0db8\u0dd2\u0dbb\u0dda\u0da7\u0dca\u0dc3\u0dca \u0d9a\u0ddc\u0dc5\u0db9 \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca\u0dc0\u0dbd \u0dc0\u0dc3\u0dbb 40\u0d9a\u0dca \u0dc3\u0db1\u0dd2\u0da7\u0dd4\u0dc4\u0db1\u0dca \u0d9a\u0dbb\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/business/\u0d91\u0db8\u0dd2\u0dbb\u0dda\u0da7\u0dca\u0dc3\u0dca-\u0d9a\u0ddc\u0dc5\u0db9-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0dca\u0dc0\u0dbd-\u0dc0\u0dc3\u0dbb-40\u0d9a\u0dca-\u0dc3\u0db1\u0dd2\u0da7\u0dd4\u0dc4\u0db1\u0dca-\u0d9a\u0dbb\u0dbd\u0dcf/7-422920",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1781852739.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-19-virakesarilk-7ee4561f",
     "num": "virakesarilk-7ee4561f",
     "date_str": "2026-06-19",
@@ -254073,6 +254084,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-22-adalk-be5319e5",
+    "num": "adalk-be5319e5",
+    "date_str": "2026-06-22",
+    "description": "\u0dba\u0dcf\u0db4\u0db1\u0dba \u0daf\u0dd6\u0db4\u0dad\u0dca\u0dc0\u0dcf\u0dc3\u0dd3\u0db1\u0dca\u0da7 \u0d85\u0d9b\u0dab\u0dca\u0da9 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0dcf\u0db4\u0db1\u0dba-\u0daf\u0dd6\u0db4\u0dad\u0dca\u0dc0\u0dcf\u0dc3\u0dd3\u0db1\u0dca\u0da7-\u0d85\u0d9b\u0dab\u0dca\u0da9-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0dc3\u0dd0\u0db4\u0dba\u0dd4\u0db8\u0d9a\u0dca/11-422948",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782111086.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-22-dailymirrorlk-ecd5130d",
     "num": "dailymirrorlk-ecd5130d",
     "date_str": "2026-06-22",
@@ -254147,5 +254169,214 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782115160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-2943361b",
+    "num": "dailymirrorlk-2943361b",
+    "date_str": "2026-06-22",
+    "description": "Oil falls after US-Iran talks conclude in Switzerland",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Oil-falls-after-US-Iran-talks-conclude-in-Switzerland/108-343585",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782116192.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-48395254",
+    "num": "dailymirrorlk-48395254",
+    "date_str": "2026-06-22",
+    "description": "Sri Lanka reaffirms neutral foreign policy in talks with senior US Official",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-reaffirms-neutral-foreign-policy-in-talks-with-senior-US-Official/108-343586",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782116410.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-73cdb016",
+    "num": "dailymirrorlk-73cdb016",
+    "date_str": "2026-06-22",
+    "description": "Rupee edges lower against US Dollar",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rupee-edges-lower-against-US-Dollar/108-343589",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782117802.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-tamilmirrorlk-c7f8c712",
+    "num": "tamilmirrorlk-c7f8c712",
+    "date_str": "2026-06-22",
+    "description": "\u0ba8\u0bc6\u0bb3\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0bc6\u0bb3\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba8\u0b9f\u0ba8\u0bcd\u0ba4 \u0b95\u0bc8\u0ba4\u0bbf \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc6\u0bb3\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1-\u0ba8\u0bc6\u0bb3\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1-\u0ba8\u0b9f\u0ba8\u0bcd\u0ba4-\u0b95\u0bc8\u0ba4\u0bbf-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd/175-378921",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782117947.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-002bb6fb",
+    "num": "dailymirrorlk-002bb6fb",
+    "date_str": "2026-06-22",
+    "description": "UK\u2019s Starmer resigns as prime minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UKs-Starmer-resigns-as-prime-minister/108-343590",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782118325.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-tamilmirrorlk-3d07d86b",
+    "num": "tamilmirrorlk-3d07d86b",
+    "date_str": "2026-06-22",
+    "description": "\u0baa\u0bbe\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bbf\u0baf \u0baf\u0bbe\u0ba9\u0bc8: \u0bae\u0bbe\u0bae\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0bae\u0bb0\u0bc1\u0bae\u0b95\u0ba9\u0bc1\u0bae\u0bcd \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0bbe\u0b95\u0ba9\u0bcd\u0b95\u0bb3\u0bc8-\u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bbf\u0baf-\u0baf\u0bbe\u0ba9\u0bc8-\u0bae\u0bbe\u0bae\u0bbe\u0bb5\u0bc1\u0bae\u0bcd-\u0bae\u0bb0\u0bc1\u0bae\u0b95\u0ba9\u0bc1\u0bae\u0bcd-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/76-378923",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782120669.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-tamilmirrorlk-027ea89e",
+    "num": "tamilmirrorlk-027ea89e",
+    "date_str": "2026-06-22",
+    "description": "\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd \u0baa\u0ba4\u0bb5\u0bbf \u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd-\u0baa\u0ba4\u0bb5\u0bbf-\u0bb5\u0bbf\u0bb2\u0b95\u0bbf\u0ba9\u0bbe\u0bb0\u0bcd/50-378924",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782120703.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-e5b85de9",
+    "num": "dailymirrorlk-e5b85de9",
+    "date_str": "2026-06-22",
+    "description": "PMD responds to Daily Mirror article on Sri Lanka Cricket",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PMD-responds-to-Daily-Mirror-article-on-Sri-Lanka-Cricket/108-343591",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782120916.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-adalk-c820fb4f",
+    "num": "adalk-c820fb4f",
+    "date_str": "2026-06-22",
+    "description": "\u0dbb\u0ddc\u0dc3\u0dd9\u0dbd\u0dca \u201cImperium 2026\u201d \u0d85\u0db7\u0dd2\u0db8\u0dcf\u0db1\u0dc0\u0dad\u0dca \u0dbd\u0dd9\u0dc3 \u0db1\u0dd2\u0db8\u0dcf\u0dc0 \u0daf\u0d9a\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/\u0dbb\u0ddc\u0dc3\u0dd9\u0dbd\u0dca-\u201cImperium-2026\u201d-\u0d85\u0db7\u0dd2\u0db8\u0dcf\u0db1\u0dc0\u0dad\u0dca-\u0dbd\u0dd9\u0dc3-\u0db1\u0dd2\u0db8\u0dcf\u0dc0-\u0daf\u0d9a\u0dd2\u0dba\u0dd2/7-422949",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782121651.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-adalk-60815c6f",
+    "num": "adalk-60815c6f",
+    "date_str": "2026-06-22",
+    "description": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0d86\u0dba\u0ddd\u0da2\u0d9a\u0dba\u0db1\u0dca\u0da7 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7 \u0d91\u0db1\u0dca\u0db1 \u0d86\u0dbb\u0dcf\u0db0\u0db1\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4-\u0d86\u0dba\u0ddd\u0da2\u0d9a\u0dba\u0db1\u0dca\u0da7-\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0da7-\u0d91\u0db1\u0dca\u0db1-\u0d86\u0dbb\u0dcf\u0db0\u0db1\u0dcf/11-422950",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782121832.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-2c077696",
+    "num": "dailymirrorlk-2c077696",
+    "date_str": "2026-06-22",
+    "description": "Delft, Nainativu and Analaitivu set for round-the-clock power",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Delft-Nainativu-and-Analaitivu-set-for-round-the-clock-power/108-343592",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782121932.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-adalk-c106904f",
+    "num": "adalk-c106904f",
+    "date_str": "2026-06-22",
+    "description": "\u0daf\u0dac\u0dd4\u0dc0\u0db8 \u0d9a\u0dd2\u0dba\u0db1 \u0daf\u0dda \u0dba\u0db8\u0dca\u0d9a\u0dd2\u0dc3\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0da7 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0d85\u0db4\u0da7 \u0dc3\u0dd2\u0daf\u0dca\u0db0 \u0dc0\u0dd9\u0dbd\u0dcf \u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dac\u0dd4\u0dc0\u0db8-\u0d9a\u0dd2\u0dba\u0db1-\u0daf\u0dda-\u0dba\u0db8\u0dca\u0d9a\u0dd2\u0dc3\u0dd2-\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba\u0d9a\u0da7-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0d85\u0db4\u0da7-\u0dc3\u0dd2\u0daf\u0dca\u0db0-\u0dc0\u0dd9\u0dbd\u0dcf-\u0dad\u0dd2\u0dba\u0dd9\u0db1\u0dc0\u0dcf/11-422951",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782122536.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-tamilmirrorlk-6b604037",
+    "num": "tamilmirrorlk-6b604037",
+    "date_str": "2026-06-22",
+    "description": "5 \u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bcb\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0ba4\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf \u0baa\u0bb2\u0bbf; 12 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/5-\u0bb5\u0bbe\u0b95\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bcb\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bc2\u0ba4\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf-\u0baa\u0bb2\u0bbf-12-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-378926",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782122948.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-804099a9",
+    "num": "dailymirrorlk-804099a9",
+    "date_str": "2026-06-22",
+    "description": "Emotional Chamari takes blame for Sri Lanka loss at T20WC",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Emotional-Chamari-takes-blame-for-Sri-Lanka-loss-at-T20WC/108-343594",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782123818.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-tamilmirrorlk-ef08e678",
+    "num": "tamilmirrorlk-ef08e678",
+    "date_str": "2026-06-22",
+    "description": "\u0b85\u0ba8\u0bcd\u0ba4  \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0bb7\u0bcd\u0b9f\u0b9a\u0bbe\u0bb2\u0bbf \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bbe?:  \u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf\u0baf\u0bc8 \u0b9a\u0bb0\u0bbf\u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba8\u0bcd\u0ba4-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0bb7\u0bcd\u0b9f\u0b9a\u0bbe\u0bb2\u0bbf-\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bbe-\u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bbf\u0baf\u0bc8-\u0b9a\u0bb0\u0bbf\u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/50-378927",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782123891.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-adalk-434ca514",
+    "num": "adalk-434ca514",
+    "date_str": "2026-06-22",
+    "description": "\u201c\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0db8\u0dca\u0db4\u0db1\u0dca\u0db1 \u0db4\u0dcf\u0dc3\u0dbd\u0dca \u0d86\u0db4\u0db1\u0dc1\u0dcf\u0dbd\u0dcf \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0ddd\u0db4\u0daf\u0dda\u0dc1\u0dba\u2019\u2019 \u0d91\u0dc5\u0dd2\u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dda.",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u201c\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0dc3\u0db8\u0dca\u0db4\u0db1\u0dca\u0db1-\u0db4\u0dcf\u0dc3\u0dbd\u0dca-\u0d86\u0db4\u0db1\u0dc1\u0dcf\u0dbd\u0dcf-\u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3-\u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0ddd\u0db4\u0daf\u0dda\u0dc1\u0dba\u2019\u2019-\u0d91\u0dc5\u0dd2\u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dda-/11-422953",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782124234.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-0dc78490",
+    "num": "dailymirrorlk-0dc78490",
+    "date_str": "2026-06-22",
+    "description": "One dead, 10 injured in multi-vehicle crash in Kegalle",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/One-dead-10-injured-in-multi-vehicle-crash-in-Kegalle/108-343595",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782124425.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-tamilmirrorlk-c7afbdd2",
+    "num": "tamilmirrorlk-c7afbdd2",
+    "date_str": "2026-06-22",
+    "description": "\u0baa\u0b9f\u0bb2\u0bc8\u0baf\u0bc8 \u0ba4\u0bb2\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u0ba4\u0ba8\u0bcd\u0ba4\u0bc8 : \u0b95\u0ba4\u0bb1\u0bbf \u0b85\u0bb4\u0bc1\u0ba4 \u0bae\u0b95\u0bb3\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0baa\u0b9f\u0bb2\u0bc8\u0baf\u0bc8-\u0ba4\u0bb2\u0bc8\u0baf\u0bbe\u0bb2\u0bcd-\u0bae\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0baf-\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8-\u0b95\u0ba4\u0bb1\u0bbf-\u0b85\u0bb4\u0bc1\u0ba4-\u0bae\u0b95\u0bb3\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-378928",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782126442.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-637282bd",
+    "num": "dailymirrorlk-637282bd",
+    "date_str": "2026-06-22",
+    "description": "Pushpika de Silva crown removal case: Verdict scheduled for October 17",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pushpika-de-Silva-crown-removal-case-Verdict-scheduled-for-October-17/108-343596",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782129557.0
   }
 ]
