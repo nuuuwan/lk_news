@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22_08:59:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--22_11:46:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,420** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,450** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-22**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-22-virakesarilk-3a015e4a",
-    "num": "virakesarilk-3a015e4a",
+    "doc_id": "2026-06-22-tamilmirrorlk-c3534be9",
+    "num": "tamilmirrorlk-c3534be9",
     "date_str": "2026-06-22",
-    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/250650",
+    "description": "\u0b9a\u0bbe/\u0ba4  \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1: \u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bcb\u0bb0\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbe-\u0ba4-\u0b9a\u0bbe\u0ba4\u0ba9\u0bc8\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1-\u0bb5\u0bbf\u0ba3\u0bcd\u0ba3\u0baa\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bcb\u0bb0\u0bb2\u0bcd/175-378915",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1782089460.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782107703.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-06-22 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-3a015e4a)
-- 2026-06-22 | `virakesarilk-03b2bb32` | முன்னாள் நாடாளுமன்ற உறுப்பினர் சேனாதிராசா ஜெயானந்தமூர்த்தி காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-03b2bb32)
-- 2026-06-22 | `virakesarilk-96c15d8c` | லெபனானில் செயல்படும் ஆயுதக் குழுக்களை கட்டுப்படுத்த வேண்டும் - ஈரானுக்கு டிரம்ப் கடும் எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-96c15d8c)
-- 2026-06-22 | `dailyftlk-9e010939` | A new Mediation Law for smarter dispute resolution of civil and commercial disputes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-9e010939)
-- 2026-06-22 | `virakesarilk-3b602cb0` | வைத்தியசாலை வளாகத்தில் தன்னையும் பிள்ளைகளையும் கண்காணிக்கப்பட்டதாக சலேவின் மனைவி முறைப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-3b602cb0)
-- 2026-06-22 | `dailyftlk-e0763898` | How Sri Lanka can transform education, according to Prof. Gunapala Nanayakkara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-e0763898)
-- 2026-06-22 | `dailyftlk-3170efb4` | No turning back despite setbacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-3170efb4)
-- 2026-06-22 | `virakesarilk-c7392451` | எரிபொருள் விலை நன்மை ஆகஸ்ட் அல்லது செப்டம்பரில் மக்களுக்கு கிடைக்கலாம் – பிமல் ரத்நாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-c7392451)
-- 2026-06-22 | `virakesarilk-994ac489` | மட்டு நகரில் உணவகம் ஒன்றில் மோட்டார் சைக்கிள் திருடிய திருடனை 5 மணித்தியாலயத்தில் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-994ac489)
-- 2026-06-22 | `virakesarilk-8f50ddcf` | தென் ஆபிரிக்காவிடம் தோல்வி அடைந்த இந்தியாவுக்கு பின்னடைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-virakesarilk-8f50ddcf)
-- 2026-06-22 | `dailyftlk-1376c7c5` | Veepee Graphics Lanka participates at  Sri Lanka Print and Trade Fair Exhibition 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-1376c7c5)
-- 2026-06-22 | `dailyftlk-9198e345` | C.W. Mackie PLC appoints Mangala Perera as Group CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-9198e345)
-- 2026-06-22 | `dailyftlk-8d4329d9` | Sri Lanka can reach $ 36 b export goal: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-8d4329d9)
-- 2026-06-22 | `dailyftlk-cc9dd2af` | Over 2,000 participants celebrate 12th International Day of Yoga in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-cc9dd2af)
-- 2026-06-22 | `dailyftlk-0f411bdf` | JCI ASPAC held in Niigata, Japan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-0f411bdf)
-- 2026-06-22 | `dailyftlk-f3847205` | Mujibur accuses Govt. of using Middle East crisis to justify fuel price hikes despite adequate stocks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-f3847205)
-- 2026-06-22 | `dailyftlk-a44782f7` | Sri Lanka to chair Asia-Pacific aviation security body as Cabinet clears hosting regional summits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-a44782f7)
-- 2026-06-22 | `dailyftlk-dc5849d5` | Namal challenges Govt. to be transparent about fuel pricing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailyftlk-dc5849d5)
-- 2026-06-22 | `dailymirrorlk-63039336` | Entrepreneurship: The Spinal Cord of Economic Resurgence and the Solution to Unemployment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-63039336)
-- 2026-06-22 | `dailymirrorlk-a499fa82` | Sacrificing Autonomy- Penny Wise, Pound Foolish: Maritime Security Cooperation with India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-a499fa82)
+- 2026-06-22 | `tamilmirrorlk-c3534be9` | சா/த  சாதனையாளர்களுக்கு விருது: விண்ணப்பங்கள் கோரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-c3534be9)
+- 2026-06-22 | `tamilmirrorlk-0c3c1fb7` | காருக்குள் சடலம்:  திடுக்கிடும் பல தகவல்கள் அம்பலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-0c3c1fb7)
+- 2026-06-22 | `dailymirrorlk-2521a433` | Assistant Secretary of State Paul Kapur arrives in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-2521a433)
+- 2026-06-22 | `dailymirrorlk-8fa69626` | Global Sri Lankan Forum urges President to intervene over Suresh Sallay’s health and legal rights | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-8fa69626)
+- 2026-06-22 | `dailymirrorlk-8a06e29c` | School Principal arrested over sex abuse | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-8a06e29c)
+- 2026-06-22 | `dailymirrorlk-80d2ec69` | Safeguard existing apparel factories before producing fabrics from banana tree bark: Sajith | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-80d2ec69)
+- 2026-06-22 | `tamilmirrorlk-a53971af` | ஒட்டியப்பிறந்த இரட்டையர்கள்: AI அறுவைசிகிச்சை வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-a53971af)
+- 2026-06-22 | `dailymirrorlk-167611d0` | Russian State-Owned Companies Cleared to Bid for Sri Lanka Fuel Tenders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-167611d0)
+- 2026-06-22 | `dailymirrorlk-a467d67f` | CID probe sought over substandard medical equipment supplied to hospitals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-a467d67f)
+- 2026-06-22 | `dailymirrorlk-d6a891e1` | MSD recalls hospitals to withdraw colostomy bags, catheters from hospitals immediately | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-d6a891e1)
+- 2026-06-22 | `dailymirrorlk-a0969a8d` | Race to semis: Qualification scenarios at T20WC 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-a0969a8d)
+- 2026-06-22 | `dailymirrorlk-13f2e498` | Garbage piles near health ministry raise dengue concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-13f2e498)
+- 2026-06-22 | `dailymirrorlk-fe1b6da2` | Rs. 210Bn money trail: Mastermind detained, hunt on for accomplices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-fe1b6da2)
+- 2026-06-22 | `adalk-fdc17413` | පොසොන් සතිය 26 දා ඇරඹෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-adalk-fdc17413)
+- 2026-06-22 | `dailymirrorlk-fbe5af7d` | Japan quintuples foreigner visa fees in first price hike since 1978 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-fbe5af7d)
+- 2026-06-22 | `dailymirrorlk-a553b722` | First high-level US-Iran talks see key agreements after brief walkout | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-a553b722)
+- 2026-06-22 | `tamilmirrorlk-c1f1154c` | இசைக் கச்சேரிகளில் அவலம்:   டயப்பர் அணிவது எதற்காக தெரியுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-c1f1154c)
+- 2026-06-22 | `dailymirrorlk-7c5b7933` | Twins conjoined at head separated after 40 hours of AI-assisted surgery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-7c5b7933)
+- 2026-06-22 | `dailymirrorlk-55484d11` | Hold SLC elections or get blacklisted, ICC informs President AKD | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-dailymirrorlk-55484d11)
+- 2026-06-22 | `tamilmirrorlk-1bbd0091` | அல்உலாவிற்கு அருகே விண்வெளி சுற்றுலா மையம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-22-tamilmirrorlk-1bbd0091)
 
 ---
 
