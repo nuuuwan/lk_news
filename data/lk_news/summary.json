@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-23 22:37:39",
-  "n_docs": 119738,
+  "time_updated": "2026-06-24 00:31:35",
+  "n_docs": 119755,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 119738,
+  "n_docs_with_text": 119755,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-06-23",
-  "dataset_size": 1867345014,
+  "date_str_max": "2026-06-24",
+  "dataset_size": 1867885849,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-23-tamilmirrorlk-bc2b0e18",
-    "num": "tamilmirrorlk-bc2b0e18",
-    "date_str": "2026-06-23",
-    "description": "\u0b85\u0bb4\u0b95\u0bc8 \u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bc1\u0bb4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb4\u0b95\u0bc8-\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b95\u0bc1\u0bb4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/175-379007",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1782231570.0
+    "doc_id": "2026-06-24-dailymirrorlk-cba7e7f0",
+    "num": "dailymirrorlk-cba7e7f0",
+    "date_str": "2026-06-24",
+    "description": "Seylan Bank-Sathosa Motors offer leasing facility for Isuzu vehicles",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Seylan-Bank-Sathosa-Motors-offer-leasing-facility-for-Isuzu-vehicles/273-343728",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782240895.0
   }
 }

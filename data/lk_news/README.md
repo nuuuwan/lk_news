@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23_22:38:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--24_00:32:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,738** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,755** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-23-tamilmirrorlk-bc2b0e18",
-    "num": "tamilmirrorlk-bc2b0e18",
-    "date_str": "2026-06-23",
-    "description": "\u0b85\u0bb4\u0b95\u0bc8 \u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b95\u0bc1\u0bb4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb4\u0b95\u0bc8-\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b95\u0bc1\u0bb4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/175-379007",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1782231570.0
+    "doc_id": "2026-06-24-dailymirrorlk-cba7e7f0",
+    "num": "dailymirrorlk-cba7e7f0",
+    "date_str": "2026-06-24",
+    "description": "Seylan Bank-Sathosa Motors offer leasing facility for Isuzu vehicles",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Seylan-Bank-Sathosa-Motors-offer-leasing-facility-for-Isuzu-vehicles/273-343728",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782240895.0
 }
 ```
 
@@ -41,6 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-24 | `dailymirrorlk-cba7e7f0` | Seylan Bank-Sathosa Motors offer leasing facility for Isuzu vehicles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-cba7e7f0)
+- 2026-06-24 | `dailymirrorlk-b96f8d03` | D P Logistics renamed as David Pieris Logistics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-b96f8d03)
+- 2026-06-24 | `dailymirrorlk-907ab068` | Volt Charge establishes as largest EV charging network in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-907ab068)
+- 2026-06-24 | `dailymirrorlk-e824f152` | Rocell’s Imperium 2026 celebrates growth, innovation and excellence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-e824f152)
+- 2026-06-24 | `dailymirrorlk-a8fc3487` | LB Finance holds Trincomalee PayDigital campaign | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-a8fc3487)
+- 2026-06-23 | `dailymirrorlk-ab80bd33` | Sajith Silva appointed as Sarva Colombo CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-ab80bd33)
+- 2026-06-23 | `tamilmirrorlk-be7da3b5` | உலகக் கிண்ணம்: உயிர்ப்பில் இலங்கையின் அரையிறுதி வாய்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-tamilmirrorlk-be7da3b5)
+- 2026-06-23 | `dailymirrorlk-cedc296e` | SLT-Mobitel mCash enables GovPay for traffic fines and govt. payments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-cedc296e)
+- 2026-06-23 | `dailymirrorlk-ef0620fb` | People’s Bank opens Kotawila service centre | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-ef0620fb)
+- 2026-06-23 | `dailymirrorlk-e6881b74` | Regen Renewables hands over 45.63 kW rooftop solar PV system to CEB’s NSCC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-e6881b74)
+- 2026-06-23 | `virakesarilk-56426221` | அணித் தலைவியாக தோற்றுப் போனதாக கூறிய சமரி  அபார சதம் குவித்து ஆட்டநாயகி ஆனார், அயர்லாந்தை இலகுவாக வென்றது இலங்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-virakesarilk-56426221)
 - 2026-06-23 | `tamilmirrorlk-bc2b0e18` | அழகை ரசித்து குழியில் விழுந்த இளைஞர்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-tamilmirrorlk-bc2b0e18)
 - 2026-06-23 | `dailymirrorlk-d6da2528` | Cityscape over Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-d6da2528)
 - 2026-06-23 | `tamilmirrorlk-8a232c0b` | போதையில் பேருந்து செலுத்திய 13 பேர் சிக்கினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-tamilmirrorlk-8a232c0b)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2026-06-23 | `dailymirrorlk-a6e2c821` | When Power Tries to Write Its Own Legacy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-a6e2c821)
 - 2026-06-23 | `tamilmirrorlk-1603b6fd` | GIT பரீட்சைக்கான விண்ணப்பம் கோரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-tamilmirrorlk-1603b6fd)
 - 2026-06-23 | `dailymirrorlk-d620d5bd` | Light moment... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-d620d5bd)
-- 2026-06-23 | `virakesarilk-a4a2578b` | செம்மணி புதைகுழியில் மேலும் 19 என்புக்கூடுகள் மீட்பு; புதிய தடயங்கள் எதுவும் இல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-virakesarilk-a4a2578b)
-- 2026-06-23 | `virakesarilk-2e2ef992` | அமெரிக்க முதலீடுகள் இலங்கையின் உலகளாவிய இணைப்பை வலுப்படுத்துகின்றன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-virakesarilk-2e2ef992)
-- 2026-06-23 | `dailymirrorlk-4f288850` | Namal questions ‘Clean Sri Lanka’ programme amid rising dengue cases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-4f288850)
-- 2026-06-23 | `dailymirrorlk-a0ebf64d` | Sri Lanka assumes CASP-AP chairmanship for 2026-2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-a0ebf64d)
-- 2026-06-23 | `dailymirrorlk-b1cc63a4` | Applications for GIT examination 2026 open until July 16 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-b1cc63a4)
-- 2026-06-23 | `dailymirrorlk-ff64e3e7` | U.S. delivers $4 million satellite communication system to Sri Lanka Navy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-ff64e3e7)
-- 2026-06-23 | `virakesarilk-e1caf22c` | அரச உத்தியோகத்தர்கள், ஓய்வூதியதாரர்களின் பிரச்சினைகளுக்கு தீர்வு காண்பதற்கு ஆணைக்குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-virakesarilk-e1caf22c)
-- 2026-06-23 | `virakesarilk-a783f039` | கொழும்புத் துறைமுக கிழக்கு முனையம் மற்றும் தொழிலாளர் உரிமைகள் குறித்து அரசிடம் சஜித் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-virakesarilk-a783f039)
-- 2026-06-23 | `virakesarilk-eae47f07` | மாத்தளை மனிதப் புதைகுழி விசாரணைகளை மீள ஆரம்பியுங்கள் ; காணாமல்போனோர் குடும்ப ஒன்றியம் - மாத்தளை நீதவான் நீதிமன்றில் மனுத்தாக்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-virakesarilk-eae47f07)
-- 2026-06-23 | `virakesarilk-647e99bc` | இராணுவப் பாதுகாப்புக்குள் உள்ள குருந்தூர் மலையில் இருந்த திரிசூலத்தை திருடியது யார்? ; தமிழர் வழிபாட்டு அடையாளங்களை திருடுவதுதான் படையினர் பணியா? - ரவிகரன் சபையில் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-virakesarilk-647e99bc)
-- 2026-06-23 | `virakesarilk-eb005b2c` | நீதித்துறையின் மீதான நம்பிக்கையை சீர்குலைக்கவும், அதன் சுதந்திரத்திற்கு மரண அடி கொடுக்கவும் அரசு முயற்சிக்கிறது - சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-virakesarilk-eb005b2c)
 
 ---
 
