@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-24 00:31:35",
-  "n_docs": 119755,
+  "time_updated": "2026-06-24 02:35:03",
+  "n_docs": 119770,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 119755,
+  "n_docs_with_text": 119770,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-24",
-  "dataset_size": 1867885849,
+  "dataset_size": 1868135546,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-24-dailymirrorlk-cba7e7f0",
-    "num": "dailymirrorlk-cba7e7f0",
+    "doc_id": "2026-06-24-dailymirrorlk-1bb6adce",
+    "num": "dailymirrorlk-1bb6adce",
     "date_str": "2026-06-24",
-    "description": "Seylan Bank-Sathosa Motors offer leasing facility for Isuzu vehicles",
-    "url_metadata": "https://www.dailymirror.lk/business-news/Seylan-Bank-Sathosa-Motors-offer-leasing-facility-for-Isuzu-vehicles/273-343728",
+    "description": "British Prime Minister\u2019s resignation Sri Lanka\u2019s choice:  One-party rule,  or Internal Party democracy of political opposition",
+    "url_metadata": "https://www.dailymirror.lk/opinion/British-Prime-Ministers-resignation-Sri-Lankas-choice-One-party-rule-or-Internal-Party-democracy-of-political-opposition/172-343742",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782240895.0
+    "time_ut": 1782246061.0
   }
 }
