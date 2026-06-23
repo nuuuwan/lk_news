@@ -250542,6 +250542,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-19-islandlk-8620a25b",
+    "num": "islandlk-8620a25b",
+    "date_str": "2026-06-19",
+    "description": "Some suspects \u201cmore equal\u201d?",
+    "url_metadata": "http://island.lk/some-suspects-more-equal/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781882100.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-19-dailymirrorlk-9e6e6abd",
     "num": "dailymirrorlk-9e6e6abd",
     "date_str": "2026-06-19",
@@ -252929,6 +252940,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-21-islandlk-f05656d4",
+    "num": "islandlk-f05656d4",
+    "date_str": "2026-06-21",
+    "description": "University of West London opens Sri Lanka\u2019s first full UK university branch campus",
+    "url_metadata": "http://island.lk/university-of-west-london-opens-sri-lankas-first-full-uk-university-branch-campus/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782045300.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-21-dailymirrorlk-a88ecbcb",
     "num": "dailymirrorlk-a88ecbcb",
     "date_str": "2026-06-21",
@@ -253028,6 +253050,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-21-islandlk-eddbf2cf",
+    "num": "islandlk-eddbf2cf",
+    "date_str": "2026-06-21",
+    "description": "EU\u2019s new anti-greenwashing rules pose major challenge for Sri Lankan exporters",
+    "url_metadata": "http://island.lk/eus-new-anti-greenwashing-rules-pose-major-challenge-for-sri-lankan-exporters/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782046620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-islandlk-cf46ba17",
+    "num": "islandlk-cf46ba17",
+    "date_str": "2026-06-21",
+    "description": "Tales of Mystery and Suspense \u2013 episode 6",
+    "url_metadata": "http://island.lk/tales-of-mystery-and-suspense-episode-6/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782046980.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-21-colombotelegraphcom-ca4f8805",
     "num": "colombotelegraphcom-ca4f8805",
     "date_str": "2026-06-21",
@@ -253047,6 +253091,17 @@
     "lang": "en",
     "newspaper_id": "colombotelegraphcom",
     "time_ut": 1782047615.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-islandlk-6694866d",
+    "num": "islandlk-6694866d",
+    "date_str": "2026-06-21",
+    "description": "In the shadow of the Pacific: Decoding El Ni\u00f1o within a landscape of local scepticism",
+    "url_metadata": "http://island.lk/in-the-shadow-of-the-pacific-decoding-el-nino-within-a-landscape-of-local-scepticism/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782047940.0
   },
   {
     "doc_type": "lk_news",
@@ -253190,6 +253245,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782058150.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-21-islandlk-d32525cd",
+    "num": "islandlk-d32525cd",
+    "date_str": "2026-06-21",
+    "description": "Investing in ecosystems",
+    "url_metadata": "http://island.lk/investing-in-ecosystems/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782058440.0
   },
   {
     "doc_type": "lk_news",
@@ -254865,6 +254931,83 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-22-islandlk-73a68d5b",
+    "num": "islandlk-73a68d5b",
+    "date_str": "2026-06-22",
+    "description": "News of a road map to West Asian peace brings oil price relief",
+    "url_metadata": "http://island.lk/news-of-a-road-map-to-west-asian-peace-brings-oil-price-relief/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782146400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-islandlk-21a070f3",
+    "num": "islandlk-21a070f3",
+    "date_str": "2026-06-22",
+    "description": "TOS LANKA wins Gold Award at NCQP 2026",
+    "url_metadata": "http://island.lk/tos-lanka-wins-gold-award-at-ncqp-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782146520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-islandlk-9f47ec3c",
+    "num": "islandlk-9f47ec3c",
+    "date_str": "2026-06-22",
+    "description": "Amana Takaful concludes Rights Issue, raises over Rs. 1 billion",
+    "url_metadata": "http://island.lk/amana-takaful-concludes-rights-issue-raises-over-rs-1-billion/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782146580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-islandlk-6be3b80c",
+    "num": "islandlk-6be3b80c",
+    "date_str": "2026-06-22",
+    "description": "Sri Lanka-China relations \u201cBeyond Commerce\u201d: Peking University delegation conducts in-depth research on bilateral cooperation in Colombo",
+    "url_metadata": "http://island.lk/sri-lanka-china-relations-beyond-commerce-peking-university-delegation-conducts-in-depth-research-on-bilateral-cooperation-in-colombo/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782146940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-islandlk-420ca6f2",
+    "num": "islandlk-420ca6f2",
+    "date_str": "2026-06-22",
+    "description": "Back-to-back bookings signal demand",
+    "url_metadata": "http://island.lk/back-to-back-bookings-signal-demand/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782149160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-islandlk-8cc3c773",
+    "num": "islandlk-8cc3c773",
+    "date_str": "2026-06-22",
+    "description": "Celebrating 30 years \u2026 singing the blues",
+    "url_metadata": "http://island.lk/celebrating-30-years-singing-the-blues/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782149160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-colombotelegraphcom-bef59045",
+    "num": "colombotelegraphcom-bef59045",
+    "date_str": "2026-06-22",
+    "description": "Sri Lanka\u2019s Export Test: Can The NEDP Deliver By 2030?",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/sri-lankas-export-test-can-the-nedp-deliver-by-2030/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1782149486.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-22-virakesarilk-5e4cf393",
     "num": "virakesarilk-5e4cf393",
     "date_str": "2026-06-22",
@@ -254873,6 +255016,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1782149880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-colombotelegraphcom-ff9f5d09",
+    "num": "colombotelegraphcom-ff9f5d09",
+    "date_str": "2026-06-22",
+    "description": "Next Wave Of Currency Depreciation",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/next-wave-of-currency-depreciation/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1782150431.0
   },
   {
     "doc_type": "lk_news",
@@ -254961,5 +255115,71 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782158127.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-b9284a41",
+    "num": "dailymirrorlk-b9284a41",
+    "date_str": "2026-06-23",
+    "description": "MESSI MAKES HISTORY: Argentina Legend Breaks World Cup Goalscoring Record",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/MESSI-MAKES-HISTORY-Argentina-Legend-Breaks-World-Cup-Goalscoring-Record/108-343635",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782172945.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailyftlk-81b95df0",
+    "num": "dailyftlk-81b95df0",
+    "date_str": "2026-06-23",
+    "description": "SC grants leave to hear appeal on Public Security Minister\u2019s parliamentary eligibility",
+    "url_metadata": "https://www.ft.lk/news/SC-grants-leave-to-hear-appeal-on-Public-Security-Minister-s-parliamentary-eligibility/56-793681",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782174948.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailyftlk-61fcb74a",
+    "num": "dailyftlk-61fcb74a",
+    "date_str": "2026-06-23",
+    "description": "India to help Sri Lanka build countrywide disaster early warning system",
+    "url_metadata": "https://www.ft.lk/news/India-to-help-Sri-Lanka-build-countrywide-disaster-early-warning-system/56-793682",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782175028.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailyftlk-ae0fab71",
+    "num": "dailyftlk-ae0fab71",
+    "date_str": "2026-06-23",
+    "description": "Sri Lanka, Thailand eye FTA-led trade boost as Business Council marks 25 years",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Thailand-eye-FTA-led-trade-boost-as-Business-Council-marks-25-years/34-793683",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782176049.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailyftlk-548ba218",
+    "num": "dailyftlk-548ba218",
+    "date_str": "2026-06-23",
+    "description": "UK PM Starmer to resign",
+    "url_metadata": "https://www.ft.lk/news/UK-PM-Starmer-to-resign/56-793684",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782176288.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailyftlk-c743e27e",
+    "num": "dailyftlk-c743e27e",
+    "date_str": "2026-06-23",
+    "description": "Sri Lanka reaffirms neutrality in talks with visiting US official",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-reaffirms-neutrality-in-talks-with-visiting-US-official/56-793685",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782176373.0
   }
 ]

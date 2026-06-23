@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-23 04:20:26",
-  "n_docs": 119537,
+  "time_updated": "2026-06-23 06:38:26",
+  "n_docs": 119557,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 119537,
+  "n_docs_with_text": 119557,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-23",
-  "dataset_size": 1864855695,
+  "dataset_size": 1865001043,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "en",
-    "ta",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-23-dailymirrorlk-8733fd24",
-    "num": "dailymirrorlk-8733fd24",
+    "doc_id": "2026-06-23-dailyftlk-c743e27e",
+    "num": "dailyftlk-c743e27e",
     "date_str": "2026-06-23",
-    "description": "Messi sets World Cup scoring record as Argentina advances to knockout stage",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Messi-sets-World-Cup-scoring-record-as-Argentina-advances-to-knockout-stage/108-343634",
+    "description": "Sri Lanka reaffirms neutrality in talks with visiting US official",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-reaffirms-neutrality-in-talks-with-visiting-US-official/56-793685",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782158127.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782176373.0
   }
 }

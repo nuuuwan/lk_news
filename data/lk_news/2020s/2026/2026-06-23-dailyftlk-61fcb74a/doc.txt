@@ -1,0 +1,29 @@
+India to help Sri Lanka build countrywide disaster early warning system
+
+Proposed system will enable authorities to send emergency alerts and warnings directly to mobile phones even without active internet in areas likely to be affected by natural disasters
+
+Initiative to be implemented with Indian grant assistance involving DMC, Digital Economy Ministry
+
+Sri Lanka is set to deepen cooperation with India in disaster preparedness and response, with plans underway to establish a nationwide early warning and emergency response system capable of sending life-saving alerts directly to mobile phones across the country.
+
+The Daily FT learns that the initiative, which is expected to be implemented with Indian grant assistance, comes in the aftermath of Cyclone Ditwah and forms part of broader efforts by Sri Lanka to strengthen its disaster resilience and emergency management capabilities.
+
+Sources familiar with the discussions said the proposed system will enable the authorities to send emergency alerts and warnings directly to mobile phones in areas likely to be affected by natural disasters, including floods, landslides, cyclones and other extreme weather events. Importantly, the technology will be designed to deliver messages even when users do not have active internet or mobile data connections, significantly improving last-mile communication during emergencies.
+
+The Disaster Management Centre (DMC) is expected to serve as the focal point for the initiative, while the project will also involve the establishment of an appropriate legal and regulatory framework governing the operation of the warning system.
+
+The disaster preparedness project is one component of the $ 450 million assistance package announced by Indian External Affairs Minister Dr. S Jaishankar during his visit to Sri Lanka in December last year, as Prime Minister Narendra Modi’s special envoy following Cyclone Ditwah.
+
+This assistance package was structured around five pillars; physical connectivity infrastructure, health and education, housing and water, agriculture, and disaster preparedness and response, with the latter emerging as a priority area following the widespread damage caused by the cyclone.
+
+Initial technical discussions have already taken place, and Indian agencies have begun collaborating with Sri Lankan institutions on several components of the proposed system.
+
+As part of these efforts, a delegation led by Vinay Thakur from the Bhaskaracharya Institute for Space Applications and Geoinformatics visited Sri Lanka in March 2026. Working alongside the DMC, the Digital Economy Ministry and GovTech, the team developed a geospatial platform based on India’s PM Gati Shakti open-source framework.
+
+The platform is expected to support disaster impact assessments, whilst providing a common digital interface for whole-of-government coordination, planning, emergency response and mitigation efforts.
+
+In parallel, experts from the Centre for Development of Telematics, India’s premier telecommunications research and development institution, conducted a successful proof-of-concept demonstration of a mobile broadcast-based Early Warning System in collaboration with the Sri Lankan Government.
+
+A separate delegation of senior technical experts from the Geological Survey of India also visited Sri Lanka to explore cooperation in geotechnical sciences and landslide risk management. The delegation held discussions with officials from the DMC and the National Building Research Organisation (NBRO) on best practices relating to landslide monitoring, mitigation and early warning systems.
+
+The visits culminated in demonstrations of both the disaster damage impact assessment platform and the mobile broadcast Early Warning System, laying the groundwork for what could become Sri Lanka’s first fully integrated, countrywide disaster alert and response network.
