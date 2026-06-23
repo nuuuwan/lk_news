@@ -1,0 +1,39 @@
+Salesforce sees Sri Lanka’s growing economy as a prime space for AI -driven enterprise evolution
+
+As the Sri Lankan economy continues its upward trajectory, the business landscape stands at a critical juncture where technological adoption will dictate the next wave of corporate winners and losers.
+
+For global customer relationship management leader Salesforce, this evolving market presents a unique opportunity to empower both established conglomerates and emerging innovators. The company is strategically positioning itself to be a catalyst in this transformation, bringing advanced artificial intelligence and unified data solutions to the forefront of South Asian enterprises.
+
+During a recent media roundtable held in Mumbai, India, Salesforce India Chairperson and Chief Executive Officer Arundhati Bhattacharya articulated a clear vision for the region, noting that Sri Lanka represents an important new frontier for the company’s global mandate.
+
+Addressing the country’s economic momentum, she emphasised the critical need for robust technological infrastructure that can support businesses at varying stages of maturity.
+
+“So we think that with the Sri Lankan economy also being a growing economy, there is space for companies like us to ensure that not only do your legacy companies evolve, but also the newer startup companies that we have seen all across the globe have access to the right kind of technology in order to help themselves,” Bhattacharya noted.
+
+Drawing a parallel to Salesforce’s massive blueprint in neighbouring India, Bhattacharya highlighted the tech giant’s explosive scaling model as a foundation for its broader regional capabilities. The Indian market serves as a primary testament to the company’s continuous investment in regional talent and infrastructure, maintaining a robust momentum that underpins its South Asian operations.
+
+“From the time that I’ve been here, which is for the last six years, there has not been a single quarter when we have not hired,” she stated, reflecting an unyielding recruitment drive.
+
+This continuous talent acquisition has driven an unprecedented surge in headcount, turning the Indian operations into a powerhouse of global engineering and product development. The workforce expanded from a baseline of 2,500 employees in 2020 to more than 17,000 today. “So we have grown quite rapidly. And to that extent, yes, I am satisfied with the way the operations have grown in this country,” Bhattacharya added, showcasing a successful hyper-growth template that Salesforce aims to leverage as it deepens its footprint across South Asia.
+
+The foundation of this technological empowerment lies in rethinking how businesses manage and interpret their data. In an era where personalised service is paramount, disjointed information silos remain a significant hurdle. Bhattacharya explained that Salesforce’s core value proposition in new markets like Sri Lanka revolves around resolving this fragmentation to build a comprehensive view of the consumer.
+
+“We believe that we bring very relevant technology to anybody looking to create unique customer experiences,” she explained. “Because we provide the unification of the data regarding a customer. The Customer 360 golden record, so to speak, is what we create in our CRM. And over and above the customer record that we create, we create the sales opportunities, the service requirements, the marketing, the commerce, all of that is on top of that.”
+
+Bringing advanced capabilities like Agentic AI into the corporate mainstream requires a strategic shift in how business leaders approach innovation. Globally, there is often apprehension regarding the return on investment when deploying new artificial intelligence frameworks.
+
+This hesitation frequently leads companies to test the waters through isolated, small-scale pilot programmes. Bhattacharya strongly advised against this tentative approach, arguing that mere pilots often generate more questions than actionable insights because they do not operate within a full-fledged production environment.
+
+“Instead of doing a pilot, take one or two really important use cases. Use cases which you believe will actually move the dial. Try them out. And then see whether you want to try more,” Bhattacharya advised. She stressed that enterprises must focus their budgets on establishing the right foundational layers first—namely, a properly organised data layer and an automated workflow base. Only when these foundations are solid can the highly anticipated AI agents function effectively and deliver the efficiency and productivity gains that justify the capital expenditure.
+
+This pragmatic approach to technology integration is also driving Salesforce to rethink its own business models, particularly regarding how these sophisticated tools are monetised.
+
+Recognising that traditional software-as-a-service billing structures may not suit every enterprise—especially as AI consumption scales unpredictably—the company is adapting its go-to-market strategies.
+
+“The license-based model doesn’t work everywhere. So today we are also evolving on the pricing packages,” she said, acknowledging that a consumption-based model is sometimes more conducive to client needs than a standard per-seat license. This flexibility is crucial as businesses demand pricing that aligns directly with the actual value and usage of the AI tools they deploy.
+
+The conversation also shed light on how diverse industries are currently grappling with artificial intelligence. While developers and engineers openly embrace AI as a core component of their daily workflows, other professions remain cautious, often relegating AI to backend research or basic summarisation tasks rather than core content generation. Yet, the underlying truth across all sectors remains the same: the velocity of business is accelerating, and artificial intelligence is the engine driving that speed. Whether it is a financial institution tracking market disclosures or a media house analysing social media traction, data-driven automation is becoming indispensable.
+
+Ultimately, Salesforce’s strategy for South Asia, and specifically Sri Lanka, is rooted in the belief that speed and adaptability are the ultimate competitive advantages in the modern global market. By providing the tools to unify customer data and deploy targeted, use-case-driven AI, the company aims to elevate the operational capacity of the region’s businesses.
+
+As Bhattacharya aptly summarised, “Today the pace is becoming very, very important for us to understand. And the quicker we are able to improve on the pace, the better we will be positioned for being more competitive globally.” For Sri Lankan enterprises looking to secure their footing in a post-recovery economy, treating artificial intelligence as a core strategy rather than a fleeting experiment may very well be the defining factor of their future success.
