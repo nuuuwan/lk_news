@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23_18:57:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23_20:52:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,699** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,709** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-23**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-23-tamilmirrorlk-ccee38e4",
-    "num": "tamilmirrorlk-ccee38e4",
+    "doc_id": "2026-06-23-dailymirrorlk-a6e2c821",
+    "num": "dailymirrorlk-a6e2c821",
     "date_str": "2026-06-23",
-    "description": "\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe \u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0b9f\u0b99\u0bcd\u0b95\u0bc1 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0b9a\u0bbe-\u0b95\u0b9f\u0bcd\u0b9f\u0ba3\u0bae\u0bcd-\u0b90\u0ba8\u0bcd\u0ba4\u0bc1-\u0bae\u0b9f\u0b99\u0bcd\u0b95\u0bc1-\u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1/50-379001",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1782219934.0
+    "description": "When Power Tries to Write Its Own Legacy",
+    "url_metadata": "https://www.dailymirror.lk/opinion/When-Power-Tries-to-Write-Its-Own-Legacy/231-343716",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782227239.0
 }
 ```
 
@@ -41,6 +41,14 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-23 | `dailymirrorlk-a6e2c821` | When Power Tries to Write Its Own Legacy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-a6e2c821)
+- 2026-06-23 | `tamilmirrorlk-1603b6fd` | GIT பரீட்சைக்கான விண்ணப்பம் கோரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-tamilmirrorlk-1603b6fd)
+- 2026-06-23 | `dailymirrorlk-4f288850` | Namal questions ‘Clean Sri Lanka’ programme amid rising dengue cases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-4f288850)
+- 2026-06-23 | `dailymirrorlk-a0ebf64d` | Sri Lanka assumes CASP-AP chairmanship for 2026-2027 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-a0ebf64d)
+- 2026-06-23 | `dailymirrorlk-b1cc63a4` | Applications for GIT examination 2026 open until July 16 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-b1cc63a4)
+- 2026-06-23 | `dailymirrorlk-ff64e3e7` | U.S. delivers $4 million satellite communication system to Sri Lanka Navy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-ff64e3e7)
+- 2026-06-23 | `dailymirrorlk-973fb2a6` | Oil prices continue to slide as peace talks progress | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-973fb2a6)
+- 2026-06-23 | `tamilmirrorlk-81f37eec` | தேர்தல்களில் ’அழியாத மை’ நடைமுறை நீக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-tamilmirrorlk-81f37eec)
 - 2026-06-23 | `tamilmirrorlk-ccee38e4` | ஜப்பானில் விசா கட்டணம் ஐந்து மடங்கு உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-tamilmirrorlk-ccee38e4)
 - 2026-06-23 | `dailymirrorlk-ae2cb4fc` | Police inspector remanded over alleged Rs. 1 million bribery | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-ae2cb4fc)
 - 2026-06-23 | `dailymirrorlk-bca64785` | Parliament approves budget proposal to reduce VAT, SSCL threshold | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-bca64785)
@@ -53,14 +61,6 @@ A collection of lk_news documents.
 - 2026-06-23 | `tamilmirrorlk-22869eb8` | வீதிக்கு இறங்கிய விவசாயிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-tamilmirrorlk-22869eb8)
 - 2026-06-23 | `tamilmirrorlk-90ade98b` | பாடசாலை சிற்றுண்டிச்சாலைகளில் பல உணவுகளுக்குத் தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-tamilmirrorlk-90ade98b)
 - 2026-06-23 | `tamilmirrorlk-969e4aad` | தலைக்கனம் தலைகீழானது : பெண்ணுக்குக் கிடைத்த ’அதிர்ச்சி’ பாடம் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-tamilmirrorlk-969e4aad)
-- 2026-06-23 | `tamilmirrorlk-4f3866cc` | ஹீரோயினை பயமுறுத்திய சல்மான் கான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-tamilmirrorlk-4f3866cc)
-- 2026-06-23 | `dailymirrorlk-604c9997` | Processed meats, sugary snacks, soft drinks banned from school canteens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-604c9997)
-- 2026-06-23 | `dailymirrorlk-07fbe64a` | Woman injured in Wellawa shooting incident | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-07fbe64a)
-- 2026-06-23 | `adalk-c1839329` | සලේ වෙනමම කුටියකට දැම්මේ නෑ,  අවශ්‍ය ආහාර බටයක් මගින් ආමාශයට යනවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-adalk-c1839329)
-- 2026-06-23 | `dailymirrorlk-eebe09dd` | North Korea’s Kim doubles down on nuclear buildup | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-eebe09dd)
-- 2026-06-23 | `dailymirrorlk-528879d2` | UK considers forcing social media firms to prioritise trusted news | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-528879d2)
-- 2026-06-23 | `dailymirrorlk-8ca2aedf` | Cabinet approves measures to tackle illegal land grabbing in Eastern Province | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-dailymirrorlk-8ca2aedf)
-- 2026-06-23 | `adalk-13db00b2` | ප්‍රධාන දුම්රිය කොරිඩෝ තුනකට විදුලි දුම්රිය | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-23-adalk-13db00b2)
 
 ---
 
