@@ -256471,6 +256471,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-23-adalk-e2f1ba50",
+    "num": "adalk-e2f1ba50",
+    "date_str": "2026-06-23",
+    "description": "\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab\u0dc0\u0dbd\u0daf\u0dd3 \u0db1\u0ddc\u0db8\u0dd0\u0d9a\u0dd9\u0db1 \u0dad\u0dd3\u0db1\u0dca\u0dad \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0da1\u0db1\u0dca\u0daf \u0daf\u0dcf\u0dba\u0d9a\u0dba\u0dcf \u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0d85\u0dc0\u0dc3\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab\u0dc0\u0dbd\u0daf\u0dd3-\u0db1\u0ddc\u0db8\u0dd0\u0d9a\u0dd9\u0db1-\u0dad\u0dd3\u0db1\u0dca\u0dad-\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0da1\u0db1\u0dca\u0daf-\u0daf\u0dcf\u0dba\u0d9a\u0dba\u0dcf-\u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8-\u0d85\u0dc0\u0dc3\u0db1\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-422967",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782205904.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-23-tamilmirrorlk-33fe567d",
     "num": "tamilmirrorlk-33fe567d",
     "date_str": "2026-06-23",
@@ -256490,5 +256501,126 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1782206340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-8ca2aedf",
+    "num": "dailymirrorlk-8ca2aedf",
+    "date_str": "2026-06-23",
+    "description": "Cabinet approves measures to tackle illegal land grabbing in Eastern Province",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Cabinet-approves-measures-to-tackle-illegal-land-grabbing-in-Eastern-Province/108-343691",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782206761.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-528879d2",
+    "num": "dailymirrorlk-528879d2",
+    "date_str": "2026-06-23",
+    "description": "UK considers forcing social media firms to prioritise trusted news",
+    "url_metadata": "https://www.dailymirror.lk/international/UK-considers-forcing-social-media-firms-to-prioritise-trusted-news/107-343692",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782206900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-eebe09dd",
+    "num": "dailymirrorlk-eebe09dd",
+    "date_str": "2026-06-23",
+    "description": "North Korea\u2019s Kim doubles down on nuclear buildup",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/North-Koreas-Kim-doubles-down-on-nuclear-buildup/108-343695",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782207132.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-07fbe64a",
+    "num": "dailymirrorlk-07fbe64a",
+    "date_str": "2026-06-23",
+    "description": "Woman injured in Wellawa shooting incident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Woman-injured-in-Wellawa-shooting-incident/108-343698",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782207682.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-604c9997",
+    "num": "dailymirrorlk-604c9997",
+    "date_str": "2026-06-23",
+    "description": "Processed meats, sugary snacks, soft drinks banned from school canteens",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Processed-meats-sugary-snacks-soft-drinks-banned-from-school-canteens/108-343699",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782208712.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-tamilmirrorlk-4f3866cc",
+    "num": "tamilmirrorlk-4f3866cc",
+    "date_str": "2026-06-23",
+    "description": "\u0bb9\u0bc0\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bc8 \u0baa\u0baf\u0bae\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b9a\u0bb2\u0bcd\u0bae\u0bbe\u0ba9\u0bcd \u0b95\u0bbe\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0bb9\u0bc0\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bc8-\u0baa\u0baf\u0bae\u0bc1\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0b9a\u0bb2\u0bcd\u0bae\u0bbe\u0ba9\u0bcd-\u0b95\u0bbe\u0ba9\u0bcd/54-378982",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782209445.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-tamilmirrorlk-969e4aad",
+    "num": "tamilmirrorlk-969e4aad",
+    "date_str": "2026-06-23",
+    "description": "\u0ba4\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0ba9\u0bae\u0bcd \u0ba4\u0bb2\u0bc8\u0b95\u0bc0\u0bb4\u0bbe\u0ba9\u0ba4\u0bc1 : \u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bcd \u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4 \u2019\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u2019 \u0baa\u0bbe\u0b9f\u0bae\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0ba4\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0ba9\u0bae\u0bcd-\u0ba4\u0bb2\u0bc8\u0b95\u0bc0\u0bb4\u0bbe\u0ba9\u0ba4\u0bc1-\u0baa\u0bc6\u0ba3\u0bcd\u0ba3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bcd-\u0b95\u0bbf\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf-\u0baa\u0bbe\u0b9f\u0bae\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-378983",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782210161.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-tamilmirrorlk-90ade98b",
+    "num": "tamilmirrorlk-90ade98b",
+    "date_str": "2026-06-23",
+    "description": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0b9a\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bb2 \u0b89\u0ba3\u0bb5\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0b9f\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0b9a\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0baa\u0bb2-\u0b89\u0ba3\u0bb5\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bcd-\u0ba4\u0b9f\u0bc8/175-378984",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782210671.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-tamilmirrorlk-22869eb8",
+    "num": "tamilmirrorlk-22869eb8",
+    "date_str": "2026-06-23",
+    "description": "\u0bb5\u0bc0\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb1\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1/\u0bb5\u0bc0\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0bb1\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0bb5\u0bbf\u0bb5\u0b9a\u0bbe\u0baf\u0bbf\u0b95\u0bb3\u0bcd/73-378985",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782212129.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-tamilmirrorlk-a6654078",
+    "num": "tamilmirrorlk-a6654078",
+    "date_str": "2026-06-23",
+    "description": "\u0b95\u0b9a\u0bcd\u0b9a\u0bbe \u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd \u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9a\u0bcd\u0b9a\u0bbe-\u0b8e\u0ba3\u0bcd\u0ba3\u0bc6\u0baf\u0bcd-\u0bb5\u0bbf\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf/175-378986",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782212686.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-781ce8b3",
+    "num": "dailymirrorlk-781ce8b3",
+    "date_str": "2026-06-23",
+    "description": "PACAF Commander meets  Deputy Defence Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PACAF-Commander-meets-Deputy-Defence-Minister/108-343700",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782213137.0
   }
 ]
