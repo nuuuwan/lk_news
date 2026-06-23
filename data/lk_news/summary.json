@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-23 11:16:09",
-  "n_docs": 119611,
+  "time_updated": "2026-06-23 13:07:34",
+  "n_docs": 119646,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 119611,
+  "n_docs_with_text": 119646,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-23",
-  "dataset_size": 1865565926,
+  "dataset_size": 1866131615,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "si",
     "en",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-23-dailymirrorlk-a487820c",
-    "num": "dailymirrorlk-a487820c",
+    "doc_id": "2026-06-23-dailymirrorlk-ed055548",
+    "num": "dailymirrorlk-ed055548",
     "date_str": "2026-06-23",
-    "description": "Questions raised over halted Wolbachia dengue project",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Questions-raised-over-halted-Wolbachia-dengue-project/108-343667",
+    "description": "Congo says confirmed Ebola cases rise to 1,048, including 267 deaths",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Congo-says-confirmed-Ebola-cases-rise-to-1-048-including-267-deaths/108-343682",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782192656.0
+    "time_ut": 1782199414.0
   }
 }

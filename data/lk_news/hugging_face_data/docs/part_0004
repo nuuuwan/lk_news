@@ -255019,6 +255019,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-bc674aa2",
+    "num": "dailymirrorlk-bc674aa2",
+    "date_str": "2026-06-22",
+    "description": "Veepee Graphics Lanka opens high-tech  stall at Print & Trade Fair Exhibition",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Veepee-Graphics-Lanka-opens-high-tech-stall-at-Print-Trade-Fair-Exhibition/273-343610",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782149264.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-c2450834",
+    "num": "dailymirrorlk-c2450834",
+    "date_str": "2026-06-22",
+    "description": "Nepali billionaire shares insights on building successful businesses in demanding markets",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Nepali-billionaire-shares-insights-on-building-successful-businesses-in-demanding-markets/273-343611",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782149394.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-22-colombotelegraphcom-bef59045",
     "num": "colombotelegraphcom-bef59045",
     "date_str": "2026-06-22",
@@ -255027,6 +255049,17 @@
     "lang": "en",
     "newspaper_id": "colombotelegraphcom",
     "time_ut": 1782149486.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-3dfc4fa3",
+    "num": "dailymirrorlk-3dfc4fa3",
+    "date_str": "2026-06-22",
+    "description": "How Keells Nexus is bringing everyday rewards closer to Sri Lankan homes",
+    "url_metadata": "https://www.dailymirror.lk/business-news/How-Keells-Nexus-is-bringing-everyday-rewards-closer-to-Sri-Lankan-homes/273-343612",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782149532.0
   },
   {
     "doc_type": "lk_news",
@@ -255052,6 +255085,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-440b01cd",
+    "num": "dailymirrorlk-440b01cd",
+    "date_str": "2026-06-22",
+    "description": "Amana Takaful concludes rights issue, raises over Rs.1bn",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Amana-Takaful-concludes-rights-issue-raises-over-Rs-1bn/273-343615",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782149868.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-22-virakesarilk-5e4cf393",
     "num": "virakesarilk-5e4cf393",
     "date_str": "2026-06-22",
@@ -255063,6 +255107,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-cd34cef6",
+    "num": "dailymirrorlk-cd34cef6",
+    "date_str": "2026-06-22",
+    "description": "People\u2019s Bank launches 125th Cheque Deposit Kiosk",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Peoples-Bank-launches-125th-Cheque-Deposit-Kiosk/273-343616",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782149954.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-9cc2296d",
+    "num": "dailymirrorlk-9cc2296d",
+    "date_str": "2026-06-22",
+    "description": "Home Lands Group expands presence in Port City Colombo",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Home-Lands-Group-expands-presence-in-Port-City-Colombo/273-343617",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782150056.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-90f5779f",
+    "num": "dailymirrorlk-90f5779f",
+    "date_str": "2026-06-22",
+    "description": "Secondary market opens week on a subdued note",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Secondary-market-opens-week-on-a-subdued-note/273-343618",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782150335.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-2831aeed",
+    "num": "dailymirrorlk-2831aeed",
+    "date_str": "2026-06-22",
+    "description": "Indices close in red",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-in-red/273-343619",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782150425.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-22-colombotelegraphcom-ff9f5d09",
     "num": "colombotelegraphcom-ff9f5d09",
     "date_str": "2026-06-22",
@@ -255071,6 +255159,17 @@
     "lang": "en",
     "newspaper_id": "colombotelegraphcom",
     "time_ut": 1782150431.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-e1037a99",
+    "num": "dailymirrorlk-e1037a99",
+    "date_str": "2026-06-22",
+    "description": "USJ\u2019s Veenath Indrajith receives IPS research grant for study on used vehicle investments",
+    "url_metadata": "https://www.dailymirror.lk/business-news/USJs-Veenath-Indrajith-receives-IPS-research-grant-for-study-on-used-vehicle-investments/273-343620",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782150569.0
   },
   {
     "doc_type": "lk_news",
@@ -255096,6 +255195,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-8c678369",
+    "num": "dailymirrorlk-8c678369",
+    "date_str": "2026-06-22",
+    "description": "Three-wheelers, cars drive May vehicle registration surge",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Three-wheelers-cars-drive-May-vehicle-registration-surge/273-343623",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782150869.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-22-virakesarilk-045dabe6",
     "num": "virakesarilk-045dabe6",
     "date_str": "2026-06-22",
@@ -255115,6 +255225,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782150901.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-dailymirrorlk-4b410855",
+    "num": "dailymirrorlk-4b410855",
+    "date_str": "2026-06-22",
+    "description": "World Bank Group targets 1mn jobs for youth with US $ 3.2bn financing and private capital push",
+    "url_metadata": "https://www.dailymirror.lk/business-main/World-Bank-Group-targets-1mn-jobs-for-youth-with-US-3-2bn-financing-and-private-capital-push/245-343625",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782151101.0
   },
   {
     "doc_type": "lk_news",
@@ -255459,6 +255580,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-5407154b",
+    "num": "dailymirrorlk-5407154b",
+    "date_str": "2026-06-23",
+    "description": "PMD, SLC denies ICC Chief discussed SLC elections or blacklisting",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PMD-SLC-denies-ICC-Chief-discussed-SLC-elections-or-blacklisting/108-343636",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782185026.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-23-virakesarilk-2fc9417a",
     "num": "virakesarilk-2fc9417a",
     "date_str": "2026-06-23",
@@ -255569,6 +255701,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-23-adalk-b9d85c84",
+    "num": "adalk-b9d85c84",
+    "date_str": "2026-06-23",
+    "description": "\u0d85\u0db1\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0dc5\u0dd2\u0db3\u0d9a\u0da7 \u0dc0\u0dd0\u0da7\u0dd3 \u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca \u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0db1\u0dcf\u0dbb\u0d9a\u0dca\u0dc2\u0dd2\u0dad-\u0dc5\u0dd2\u0db3\u0d9a\u0da7-\u0dc0\u0dd0\u0da7\u0dd3-\u0daf\u0dd0\u0dbb\u0dd2\u0dba\u0d9a\u0dca-\u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7/11-422960",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782187446.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-23-tamilmirrorlk-31a74e62",
     "num": "tamilmirrorlk-31a74e62",
     "date_str": "2026-06-23",
@@ -255613,6 +255756,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-f659d121",
+    "num": "dailymirrorlk-f659d121",
+    "date_str": "2026-06-23",
+    "description": "New Buddhist centre",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/New-Buddhist-centre/110-343643",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782188520.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-23-virakesarilk-ccbf2ff1",
     "num": "virakesarilk-ccbf2ff1",
     "date_str": "2026-06-23",
@@ -255621,6 +255775,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1782188760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-adalk-d15dd30f",
+    "num": "adalk-d15dd30f",
+    "date_str": "2026-06-23",
+    "description": "\u0db8\u0dad\u0dca\u0d9a\u0dd4\u0da9\u0dd4 \u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca\u0d9a\u0dcf\u0dbb\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda \u0db8\u0ddd\u0da7\u0dbb\u0dca \u0dbb\u0dae\u0dba\u0da7 \u0dc4\u0dcf \u0db1\u0dd2\u0dc0\u0dc3\u0da7 \u0d9c\u0dd2\u0db1\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dad\u0dca\u0d9a\u0dd4\u0da9\u0dd4-\u0da2\u0dcf\u0dc0\u0dcf\u0dbb\u0db8\u0dca\u0d9a\u0dcf\u0dbb\u0dba\u0dd9\u0d9a\u0dd4\u0d9c\u0dda-\u0db8\u0ddd\u0da7\u0dbb\u0dca-\u0dbb\u0dae\u0dba\u0da7-\u0dc4\u0dcf-\u0db1\u0dd2\u0dc0\u0dc3\u0da7-\u0d9c\u0dd2\u0db1\u0dd2/11-422961",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782188907.0
   },
   {
     "doc_type": "lk_news",
@@ -255657,6 +255822,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-f04f37a6",
+    "num": "dailymirrorlk-f04f37a6",
+    "date_str": "2026-06-23",
+    "description": "Sri Lanka risks losing GSP+ over slow progress into PTA reforms: Joint opposition question",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-risks-losing-GSP-over-slow-progress-into-PTA-reforms-Joint-opposition-question/108-343655",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782189693.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-23-tamilmirrorlk-66a668e5",
     "num": "tamilmirrorlk-66a668e5",
     "date_str": "2026-06-23",
@@ -255665,6 +255841,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782190411.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-eb406272",
+    "num": "dailymirrorlk-eb406272",
+    "date_str": "2026-06-23",
+    "description": "24-hour water cut in several Colombo suburbs from June 24",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/24-hour-water-cut-in-several-Colombo-suburbs-from-June-24/108-343657",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782190564.0
   },
   {
     "doc_type": "lk_news",
@@ -255775,5 +255962,203 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782192656.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-f8280f4b",
+    "num": "dailymirrorlk-f8280f4b",
+    "date_str": "2026-06-23",
+    "description": "CSE extends decline as cautious sentiment and thin trading weigh on market activity",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CSE-extends-decline-as-cautious-sentiment-and-thin-trading-weigh-on-market-activity/108-343668",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782192856.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-tamilmirrorlk-83a4ecde",
+    "num": "tamilmirrorlk-83a4ecde",
+    "date_str": "2026-06-23",
+    "description": "\u0b9e\u0bbe\u0ba9\u0b9a\u0bbe\u0bb0 \u0ba4\u0bc7\u0bb0\u0bb0\u0bbf\u0ba9\u0bcd  \u0b9a\u0bbf\u0bb1\u0bc8\u0baf\u0bc8 \u0b89\u0bb1\u0bc1\u0ba4\u0bbf \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9e\u0bbe\u0ba9\u0b9a\u0bbe\u0bb0-\u0ba4\u0bc7\u0bb0\u0bb0\u0bbf\u0ba9\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc8\u0baf\u0bc8-\u0b89\u0bb1\u0bc1\u0ba4\u0bbf-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0ba4\u0bc1-\u0bae\u0bc7\u0bb2\u0bcd-\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd/175-378966",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782193338.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-tamilmirrorlk-c3bd826f",
+    "num": "tamilmirrorlk-c3bd826f",
+    "date_str": "2026-06-23",
+    "description": "\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bb2\u0b9f\u0bbf \u0b95\u0bcb\u0bb2\u0bcd\u0b9f\u0bcd \u0bb8\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd \u0b95\u0bb4\u0b95\u0bae\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bb2\u0b9f\u0bbf-\u0b95\u0bcb\u0bb2\u0bcd\u0b9f\u0bcd-\u0bb8\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd-\u0b95\u0bb4\u0b95\u0bae\u0bcd-\u0b9a\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd/44-378967",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782193622.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-69fe13ca",
+    "num": "dailymirrorlk-69fe13ca",
+    "date_str": "2026-06-23",
+    "description": "High Court upholds Gnanasara Thera\u2019s nine-month jail term",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/High-Court-upholds-Gnanasara-Theras-nine-month-jail-term/108-343670",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782193966.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-c1bcb2a2",
+    "num": "dailymirrorlk-c1bcb2a2",
+    "date_str": "2026-06-23",
+    "description": "2026 World Cup Golden Boot Race Heats Up",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/2026-World-Cup-Golden-Boot-Race-Heats-Up/108-343671",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782194098.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-8d65ad61",
+    "num": "dailymirrorlk-8d65ad61",
+    "date_str": "2026-06-23",
+    "description": "Iran leave note of thanks in LA locker room after draw with Belgium",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-leave-note-of-thanks-in-LA-locker-room-after-draw-with-Belgium/107-343672",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782194754.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-4d4e94cc",
+    "num": "dailymirrorlk-4d4e94cc",
+    "date_str": "2026-06-23",
+    "description": "Iran, US finalise agreement on release of $12b in frozen assets",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-US-finalise-agreement-on-release-of-12b-in-frozen-assets/107-343673",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782195106.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-8e190edf",
+    "num": "dailymirrorlk-8e190edf",
+    "date_str": "2026-06-23",
+    "description": "COPF approves VAT Amendment Bill with conditions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/COPF-approves-VAT-Amendment-Bill-with-conditions/108-343674",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782195228.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-47ba2096",
+    "num": "dailymirrorlk-47ba2096",
+    "date_str": "2026-06-23",
+    "description": "Armed robbers break into Rural Bank, steal stash of gold jewellery",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Armed-robbers-break-into-Rural-Bank-steal-stash-of-gold-jewellery/108-343675",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782195366.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-cf4c87f0",
+    "num": "dailymirrorlk-cf4c87f0",
+    "date_str": "2026-06-23",
+    "description": "Parliament suspended over court vacancies debate",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parliament-suspended-over-court-vacancies-debate/108-343676",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782195547.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-tamilmirrorlk-7354d303",
+    "num": "tamilmirrorlk-7354d303",
+    "date_str": "2026-06-23",
+    "description": "\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b9a\u0baa\u0bc8 \u0b85\u0bae\u0bb0\u0bcd\u0bb5\u0bc1 \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0b9a\u0baa\u0bc8-\u0b85\u0bae\u0bb0\u0bcd\u0bb5\u0bc1-\u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bcd/175-378971",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782196000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-a8187ec0",
+    "num": "dailymirrorlk-a8187ec0",
+    "date_str": "2026-06-23",
+    "description": "COPF questions discrimination of resident digital services providers",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/COPF-questions-discrimination-of-resident-digital-services-providers/108-343678",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782196170.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-a0b1ce1a",
+    "num": "dailymirrorlk-a0b1ce1a",
+    "date_str": "2026-06-23",
+    "description": "MPs try to grab mace",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/MPs-try-to-grab-mace/108-343679",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782196708.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-tamilmirrorlk-822ba8cf",
+    "num": "tamilmirrorlk-822ba8cf",
+    "date_str": "2026-06-23",
+    "description": "\u0b92\u0bb0\u0bc7 \u0ba8\u0bbe\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4 \u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb0\u0bc7-\u0ba8\u0bbe\u0bb3\u0bbf\u0bb2\u0bcd-\u0baa\u0bbf\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4-\u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf/175-378972",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782196951.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-tamilmirrorlk-5b20c21b",
+    "num": "tamilmirrorlk-5b20c21b",
+    "date_str": "2026-06-23",
+    "description": "\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb1 \u0b95\u0bbf\u0b9f\u0ba8\u0bcd\u0ba4 \u0b9a\u0b9f\u0bb2\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0bb1-\u0b95\u0bbf\u0b9f\u0ba8\u0bcd\u0ba4-\u0b9a\u0b9f\u0bb2\u0bae\u0bcd/76-378973",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782197356.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-tamilmirrorlk-075ede04",
+    "num": "tamilmirrorlk-075ede04",
+    "date_str": "2026-06-23",
+    "description": "\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbe\u0bb1\u0bbf\u0ba9\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb1\u0bbe\u0ba4 \u2018\u0bb2\u0bbe\u0bb0\u0bbf\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0bae\u0bbe\u0bb1\u0bbf\u0ba9\u0bbe\u0bb2\u0bc1\u0bae\u0bcd-\u0bae\u0bbe\u0bb1\u0bbe\u0ba4-\u0bb2\u0bbe\u0bb0\u0bbf/53-378974",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782197919.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-d10fdfc2",
+    "num": "dailymirrorlk-d10fdfc2",
+    "date_str": "2026-06-23",
+    "description": "Over 500 GN divisions in 14 districts declared high-risk dengue zones",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-500-GN-divisions-in-14-districts-declared-high-risk-dengue-zones/108-343681",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782199140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-dailymirrorlk-ed055548",
+    "num": "dailymirrorlk-ed055548",
+    "date_str": "2026-06-23",
+    "description": "Congo says confirmed Ebola cases rise to 1,048, including 267 deaths",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Congo-says-confirmed-Ebola-cases-rise-to-1-048-including-267-deaths/108-343682",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782199414.0
   }
 ]
