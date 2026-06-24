@@ -258209,6 +258209,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-24-adalk-e3fe2771",
+    "num": "adalk-e3fe2771",
+    "date_str": "2026-06-24",
+    "description": "\u0dbb\u0dd4. \u0d9a\u0ddd\u0da7\u0dd2 35\u0d9a \u0dc4\u0dc2\u0dd3\u0dc2\u0dca \u0dc3\u0db8\u0d9c \u0d9a\u0dd0\u0db1\u0da9\u0dcf \u0dc4\u0dd9\u0daf \u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba\u0dc0\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4--\u0d9a\u0ddd\u0da7\u0dd2-35\u0d9a-\u0dc4\u0dc2\u0dd3\u0dc2\u0dca-\u0dc3\u0db8\u0d9c-\u0d9a\u0dd0\u0db1\u0da9\u0dcf-\u0dc4\u0dd9\u0daf-\u0dc1\u0dd2\u0dc2\u0dca\u200d\u0dba\u0dc0\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-422974",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782278569.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-24-dailymirrorlk-9f566fc7",
     "num": "dailymirrorlk-9f566fc7",
     "date_str": "2026-06-24",
@@ -258228,5 +258239,93 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1782279061.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailymirrorlk-b3adbed4",
+    "num": "dailymirrorlk-b3adbed4",
+    "date_str": "2026-06-24",
+    "description": "Dengue nears 50,000 cases as islandwide control drive begins",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-nears-50-000-cases-as-islandwide-control-drive-begins/108-343764",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782279364.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-adalk-f30ae633",
+    "num": "adalk-f30ae633",
+    "date_str": "2026-06-24",
+    "description": "\u0db7\u0dde\u0dad \u0da0\u0dd2\u0d9a\u0dd2\u0dad\u0dca\u0dc3\u0d9a\u0dc0\u0dbb\u0dd2\u0dba \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0dda \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4 \u0db6\u0dd2\u0dbb\u0dd2\u0db3\u0dad\u0dca \u0dc3\u0db8\u0d9c \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db7\u0dde\u0dad-\u0da0\u0dd2\u0d9a\u0dd2\u0dad\u0dca\u0dc3\u0d9a\u0dc0\u0dbb\u0dd2\u0dba-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0dda-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4-\u0db6\u0dd2\u0dbb\u0dd2\u0db3\u0dad\u0dca-\u0dc3\u0db8\u0d9c-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-422976",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782279370.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-adalk-43102782",
+    "num": "adalk-43102782",
+    "date_str": "2026-06-24",
+    "description": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0dc4\u0dd9\u0dbd\u0dd2\u0d9a\u0ddc\u0db4\u0dca\u0da7\u0dbb\u0dca \u0db1\u0dd2\u0dbd \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db7\u0dcf\u0dbb \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4-\u0dc4\u0dd9\u0dbd\u0dd2\u0d9a\u0ddc\u0db4\u0dca\u0da7\u0dbb\u0dca-\u0db1\u0dd2\u0dbd-\u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca-\u0db7\u0dcf\u0dbb-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-422977",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782279598.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailymirrorlk-0d2d8fb5",
+    "num": "dailymirrorlk-0d2d8fb5",
+    "date_str": "2026-06-24",
+    "description": "24-hour water cut in several areas from tonight",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/24-hour-water-cut-in-several-areas-from-tonight/108-343775",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782280706.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailymirrorlk-e551d1d0",
+    "num": "dailymirrorlk-e551d1d0",
+    "date_str": "2026-06-24",
+    "description": "No decision to increase paddy purchasing price by PMB",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-decision-to-increase-paddy-purchasing-price-by-PMB/108-343779",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782281075.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-tamilmirrorlk-519ea9de",
+    "num": "tamilmirrorlk-519ea9de",
+    "date_str": "2026-06-24",
+    "description": "16 \u0bb5\u0baf\u0ba4\u0bc1 \u0bae\u0bbe\u0ba3\u0bb5\u0bbf \u0bb5\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8: \u0ba4\u0b9f\u0baf\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/16-\u0bb5\u0baf\u0ba4\u0bc1-\u0bae\u0bbe\u0ba3\u0bb5\u0bbf-\u0bb5\u0ba9\u0bcd\u0b95\u0bca\u0b9f\u0bc1\u0bae\u0bc8-\u0ba4\u0b9f\u0baf\u0bb5\u0bbf\u0baf\u0bb2\u0bcd-\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-379028",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782281265.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailymirrorlk-b7533745",
+    "num": "dailymirrorlk-b7533745",
+    "date_str": "2026-06-24",
+    "description": "Extreme heat forces school closures across Britain",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Extreme-heat-forces-school-closures-across-Britain/108-343787",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782283114.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailymirrorlk-c1610312",
+    "num": "dailymirrorlk-c1610312",
+    "date_str": "2026-06-24",
+    "description": "National Environment Amendment Bill unconditional: Opposition",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/National-Environment-Amendment-Bill-unconditional-Opposition/108-343793",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782285578.0
   }
 ]

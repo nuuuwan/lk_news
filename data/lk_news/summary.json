@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-24 11:11:30",
-  "n_docs": 119834,
+  "time_updated": "2026-06-24 13:03:53",
+  "n_docs": 119843,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 119834,
+  "n_docs_with_text": 119843,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-24",
-  "dataset_size": 1869043821,
+  "dataset_size": 1869301105,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-24-adalk-adddb044",
-    "num": "adalk-adddb044",
+    "doc_id": "2026-06-24-dailymirrorlk-c1610312",
+    "num": "dailymirrorlk-c1610312",
     "date_str": "2026-06-24",
-    "description": "\u0dbb\u0ddc\u0db1\u0dcf\u0dbd\u0dca\u0da9\u0ddd\u0d9c\u0dd9\u0db1\u0dca \u0dbd\u0ddd\u0d9a \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca",
-    "url_metadata": "https://www.ada.lk/sports/\u0dbb\u0ddc\u0db1\u0dcf\u0dbd\u0dca\u0da9\u0ddd\u0d9c\u0dd9\u0db1\u0dca-\u0dbd\u0ddd\u0d9a-\u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca/9-422975",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1782279061.0
+    "description": "National Environment Amendment Bill unconditional: Opposition",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/National-Environment-Amendment-Bill-unconditional-Opposition/108-343793",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782285578.0
   }
 }
