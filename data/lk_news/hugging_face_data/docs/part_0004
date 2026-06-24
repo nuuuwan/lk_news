@@ -251543,6 +251543,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-20-islandlk-fbae12e2",
+    "num": "islandlk-fbae12e2",
+    "date_str": "2026-06-20",
+    "description": "Fuel crisis: Beyond price debate",
+    "url_metadata": "http://island.lk/fuel-crisis-beyond-price-debate/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1781954340.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-20-islandlk-8154e457",
     "num": "islandlk-8154e457",
     "date_str": "2026-06-20",
@@ -254942,6 +254953,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-22-islandlk-ccd63b85",
+    "num": "islandlk-ccd63b85",
+    "date_str": "2026-06-22",
+    "description": "Sri Lanka worthy of being ranked as the world\u2019s top holiday spot \u2013 cricketing great Wasim Akram",
+    "url_metadata": "http://island.lk/sri-lanka-worthy-of-being-ranked-as-the-worlds-top-holiday-spot-cricketing-great-wasim-akram/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782146280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-islandlk-d9371f11",
+    "num": "islandlk-d9371f11",
+    "date_str": "2026-06-22",
+    "description": "Veenath Indrajith from the University of Sri Jayewardenepura wins the 2026 Saman Kelegama Memorial Research Grant",
+    "url_metadata": "http://island.lk/veenath-indrajith-from-the-university-of-sri-jayewardenepura-wins-the-2026-saman-kelegama-memorial-research-grant/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782146280.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-22-islandlk-73a68d5b",
     "num": "islandlk-73a68d5b",
     "date_str": "2026-06-22",
@@ -254983,6 +255016,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1782146940.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-islandlk-0c02835d",
+    "num": "islandlk-0c02835d",
+    "date_str": "2026-06-22",
+    "description": "The burden, and also strength, of the critical scholar in the Humanities",
+    "url_metadata": "http://island.lk/the-burden-and-also-strength-of-the-critical-scholar-in-the-humanities/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782148800.0
   },
   {
     "doc_type": "lk_news",
@@ -257241,6 +257285,61 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-23-islandlk-fd4ce532",
+    "num": "islandlk-fd4ce532",
+    "date_str": "2026-06-23",
+    "description": "Despite mid-session hiccups CSE\u2019s trading tempo picks-up",
+    "url_metadata": "http://island.lk/despite-mid-session-hiccups-cses-trading-tempo-picks-up/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782233280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-islandlk-1c24249c",
+    "num": "islandlk-1c24249c",
+    "date_str": "2026-06-23",
+    "description": "IDL reopens renovated MOH office, Kaduwela, in a gesture of community commitment",
+    "url_metadata": "http://island.lk/idl-reopens-renovated-moh-office-kaduwela-in-a-gesture-of-community-commitment/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782233400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-islandlk-a523885a",
+    "num": "islandlk-a523885a",
+    "date_str": "2026-06-23",
+    "description": "HNB Life engages communities through Vesak season activities",
+    "url_metadata": "http://island.lk/hnb-life-engages-communities-through-vesak-season-activities/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782233460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-islandlk-129418d4",
+    "num": "islandlk-129418d4",
+    "date_str": "2026-06-23",
+    "description": "Hayleys Mobility expands presence in Anuradhapura",
+    "url_metadata": "http://island.lk/hayleys-mobility-expands-presence-in-anuradhapura/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782233520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-islandlk-add621ca",
+    "num": "islandlk-add621ca",
+    "date_str": "2026-06-23",
+    "description": "Global GIS and University of Ruhuna enter into MoU for joint R&D, product commercialization, consulting",
+    "url_metadata": "http://island.lk/global-gis-and-university-of-ruhuna-enter-into-mou-for-joint-rd-product-commercialization-consulting/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782233580.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-23-virakesarilk-56426221",
     "num": "virakesarilk-56426221",
     "date_str": "2026-06-23",
@@ -257546,5 +257645,82 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782250953.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-tamilmirrorlk-135e04c3",
+    "num": "tamilmirrorlk-135e04c3",
+    "date_str": "2026-06-24",
+    "description": "\u2019\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd \u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0ba4\u0b99\u0bcd\u0b95\u0bae\u0bcd-\u0b87\u0bb0\u0bbe\u0ba3\u0bc1\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd-\u0b87\u0bb2\u0bcd\u0bb2\u0bc8/175-379010",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782255245.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-tamilmirrorlk-42631122",
+    "num": "tamilmirrorlk-42631122",
+    "date_str": "2026-06-24",
+    "description": "\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0ba4\u0bb5\u0bbf \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bbe?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0ba4\u0bb5\u0bbf-\u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bbe/175-379011",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782255526.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-faec0c8d",
+    "num": "dailyftlk-faec0c8d",
+    "date_str": "2026-06-24",
+    "description": "Parliament disrupted amid standoff after Govt. denied Opposition request to debate judicial issues",
+    "url_metadata": "https://www.ft.lk/news/Parliament-disrupted-amid-standoff-after-Govt-denied-Opposition-request-to-debate-judicial-issues/56-793701",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782260289.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-e60494aa",
+    "num": "dailyftlk-e60494aa",
+    "date_str": "2026-06-24",
+    "description": "Premadasa accuses Govt.  of undermining judiciary and democracy",
+    "url_metadata": "https://www.ft.lk/news/Premadasa-accuses-Govt-of-undermining-judiciary-and-democracy/56-793702",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782261095.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-169eb650",
+    "num": "dailyftlk-169eb650",
+    "date_str": "2026-06-24",
+    "description": "From vouchers to verification: Understanding new risk-based VAT refund system",
+    "url_metadata": "https://www.ft.lk/columns/From-vouchers-to-verification-Understanding-new-risk-based-VAT-refund-system/4-793703",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782262008.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-fbaba71c",
+    "num": "dailyftlk-fbaba71c",
+    "date_str": "2026-06-24",
+    "description": "Will lower oil prices become a lasting economic gain?",
+    "url_metadata": "https://www.ft.lk/columns/Will-lower-oil-prices-become-a-lasting-economic-gain/4-793704",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782262238.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-f239eb56",
+    "num": "dailyftlk-f239eb56",
+    "date_str": "2026-06-24",
+    "description": "Next wave of currency depreciation",
+    "url_metadata": "https://www.ft.lk/columns/Next-wave-of-currency-depreciation/4-793705",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782262455.0
   }
 ]

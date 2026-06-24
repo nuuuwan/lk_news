@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-24 04:14:44",
-  "n_docs": 119772,
+  "time_updated": "2026-06-24 06:42:04",
+  "n_docs": 119788,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 119772,
+  "n_docs_with_text": 119788,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-24",
-  "dataset_size": 1868272380,
+  "dataset_size": 1868393429,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "en",
-    "ta",
-    "si"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-24-dailymirrorlk-d4db48ea",
-    "num": "dailymirrorlk-d4db48ea",
+    "doc_id": "2026-06-24-dailyftlk-f239eb56",
+    "num": "dailyftlk-f239eb56",
     "date_str": "2026-06-24",
-    "description": "Athapaththu Century Powers Sri Lanka Past Ireland",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Athapaththu-Century-Powers-Sri-Lanka-Past-Ireland/108-343749",
+    "description": "Next wave of currency depreciation",
+    "url_metadata": "https://www.ft.lk/columns/Next-wave-of-currency-depreciation/4-793705",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782250953.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782262455.0
   }
 }

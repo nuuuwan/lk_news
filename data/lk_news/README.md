@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--24_04:15:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--24_06:43:01-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**119,772** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**119,788** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-24**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-24-dailymirrorlk-d4db48ea",
-    "num": "dailymirrorlk-d4db48ea",
+    "doc_id": "2026-06-24-dailyftlk-f239eb56",
+    "num": "dailyftlk-f239eb56",
     "date_str": "2026-06-24",
-    "description": "Athapaththu Century Powers Sri Lanka Past Ireland",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Athapaththu-Century-Powers-Sri-Lanka-Past-Ireland/108-343749",
+    "description": "Next wave of currency depreciation",
+    "url_metadata": "https://www.ft.lk/columns/Next-wave-of-currency-depreciation/4-793705",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782250953.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782262455.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-24 | `dailyftlk-f239eb56` | Next wave of currency depreciation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailyftlk-f239eb56)
+- 2026-06-24 | `dailyftlk-fbaba71c` | Will lower oil prices become a lasting economic gain? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailyftlk-fbaba71c)
+- 2026-06-24 | `dailyftlk-169eb650` | From vouchers to verification: Understanding new risk-based VAT refund system | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailyftlk-169eb650)
+- 2026-06-24 | `dailyftlk-e60494aa` | Premadasa accuses Govt.  of undermining judiciary and democracy | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailyftlk-e60494aa)
+- 2026-06-24 | `dailyftlk-faec0c8d` | Parliament disrupted amid standoff after Govt. denied Opposition request to debate judicial issues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailyftlk-faec0c8d)
+- 2026-06-24 | `tamilmirrorlk-42631122` | திருப்திக்கு பதவி உயர்வா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-tamilmirrorlk-42631122)
+- 2026-06-24 | `tamilmirrorlk-135e04c3` | ’தமிழர்களின் தங்கம் இராணுவத்திடம் இல்லை’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-tamilmirrorlk-135e04c3)
 - 2026-06-24 | `dailymirrorlk-d4db48ea` | Athapaththu Century Powers Sri Lanka Past Ireland | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-d4db48ea)
 - 2026-06-24 | `dailymirrorlk-fa36cdc3` | Cybercrime incident  had direct bearing  on EFF program - IMF Resident Representative | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-fa36cdc3)
 - 2026-06-24 | `dailymirrorlk-1bb6adce` | British Prime Minister’s resignation Sri Lanka’s choice:  One-party rule,  or Internal Party democracy of political opposition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-1bb6adce)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-06-24 | `dailymirrorlk-377d6eaa` | Yield curve remains broadly stable amid mixed market sentiment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-377d6eaa)
 - 2026-06-24 | `tamilmirrorlk-e55b25d6` | 6 உலகக் கிண்ணத் தொடர்களில் கோல் அடித்து ரொனால்டோ சாதனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-tamilmirrorlk-e55b25d6)
 - 2026-06-24 | `dailymirrorlk-80a8f9f2` | Sri Lanka Institute of Marketing launches SLIM DIGIS 2.6 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-80a8f9f2)
-- 2026-06-24 | `dailymirrorlk-4f16a13e` | Ronaldo becomes first player to score at six World Cups as Portugal thrash Uzbekistan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-4f16a13e)
-- 2026-06-24 | `dailymirrorlk-01a1a573` | SLICGL, SL’s No. 1 Most Loved General Insurance Brand for 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-01a1a573)
-- 2026-06-24 | `dailymirrorlk-36df4873` | Prime Lands commences Kaloora construction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-36df4873)
-- 2026-06-24 | `dailymirrorlk-78c4492f` | DFCC Bank relocates Ratnapura branch | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-78c4492f)
-- 2026-06-24 | `dailymirrorlk-cba7e7f0` | Seylan Bank-Sathosa Motors offer leasing facility for Isuzu vehicles | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-cba7e7f0)
-- 2026-06-24 | `dailymirrorlk-b96f8d03` | D P Logistics renamed as David Pieris Logistics | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-b96f8d03)
-- 2026-06-24 | `dailymirrorlk-907ab068` | Volt Charge establishes as largest EV charging network in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-24-dailymirrorlk-907ab068)
 
 ---
 
