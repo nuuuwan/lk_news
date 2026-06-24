@@ -256537,6 +256537,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-23-adalk-f3512058",
+    "num": "adalk-f3512058",
+    "date_str": "2026-06-23",
+    "description": "\u0d9a\u0dd8\u0dad\u0dd3\u0db8 \u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2\u0dba \u0db1\u0dd2\u0dc3\u0dcf \u0d94\u0dbb\u0d9a\u0dbd\u0dca \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca 21000\u0da7 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0d85\u0dc4\u0dd2\u0db8\u0dd2\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/technology/\u0d9a\u0dd8\u0dad\u0dd3\u0db8-\u0db6\u0dd4\u0daf\u0dca\u0db0\u0dd2\u0dba-\u0db1\u0dd2\u0dc3\u0dcf-\u0d94\u0dbb\u0d9a\u0dbd\u0dca-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0db1\u0dca-21000\u0da7-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0d85\u0dc4\u0dd2\u0db8\u0dd2\u0dc0\u0dd9\u0dba\u0dd2/5-422966",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782205624.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-23-dailymirrorlk-665b05b2",
     "num": "dailymirrorlk-665b05b2",
     "date_str": "2026-06-23",
@@ -256688,6 +256699,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1782208020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-adalk-6ee9efc2",
+    "num": "adalk-6ee9efc2",
+    "date_str": "2026-06-23",
+    "description": "\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0db4\u0dc5\u0dcf\u0dad\u0dca \u0d89\u0da9\u0db8\u0dca \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb-\u0db4\u0dc5\u0dcf\u0dad\u0dca-\u0d89\u0da9\u0db8\u0dca-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0dc0\u0dd2\u0dc1\u0dda\u0dc2-\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca/11-422971",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782208304.0
   },
   {
     "doc_type": "lk_news",
@@ -257637,6 +257659,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailymirrorlk-0bedc84a",
+    "num": "dailymirrorlk-0bedc84a",
+    "date_str": "2026-06-24",
+    "description": "Athapaththu century powers Sri Lanka past Ireland",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Athapaththu-century-powers-Sri-Lanka-past-Ireland/108-343749",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782250953.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-24-dailymirrorlk-d4db48ea",
     "num": "dailymirrorlk-d4db48ea",
     "date_str": "2026-06-24",
@@ -257722,5 +257755,236 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1782262455.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-a72c599e",
+    "num": "dailyftlk-a72c599e",
+    "date_str": "2026-06-24",
+    "description": "Can trade policy create better jobs?",
+    "url_metadata": "https://www.ft.lk/opinion/Can-trade-policy-create-better-jobs/14-793707",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782262716.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-16f45c54",
+    "num": "dailyftlk-16f45c54",
+    "date_str": "2026-06-24",
+    "description": "Pyramid schemes explained: How ordinary people are trapped by false promises",
+    "url_metadata": "https://www.ft.lk/columns/Pyramid-schemes-explained-How-ordinary-people-are-trapped-by-false-promises/4-793708",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782263112.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-9e6cc13d",
+    "num": "dailyftlk-9e6cc13d",
+    "date_str": "2026-06-24",
+    "description": "Special committee to tackle land encroachment and coastal degradation in East",
+    "url_metadata": "https://www.ft.lk/business/Special-committee-to-tackle-land-encroachment-and-coastal-degradation-in-East/34-793709",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782263191.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-fc620f5b",
+    "num": "dailyftlk-fc620f5b",
+    "date_str": "2026-06-24",
+    "description": "Cabinet approves Rs. 1.1 b Delhi ground handling contract for SriLankan Airlines",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-approves-Rs-1-1-b-Delhi-ground-handling-contract-for-SriLankan-Airlines/34-793710",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782263908.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-0de15184",
+    "num": "dailyftlk-0de15184",
+    "date_str": "2026-06-24",
+    "description": "Forbes and Walker companies secure Carbon Neutral Certification",
+    "url_metadata": "https://www.ft.lk/business/Forbes-and-Walker-companies-secure-Carbon-Neutral-Certification/34-793711",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782263921.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-3015d0f0",
+    "num": "dailyftlk-3015d0f0",
+    "date_str": "2026-06-24",
+    "description": "Cabinet clears procurement for Rs. 1 b aviation communications system upgrade",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-clears-procurement-for-Rs-1-b-aviation-communications-system-upgrade/34-793712",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782263934.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-545ac2a1",
+    "num": "dailyftlk-545ac2a1",
+    "date_str": "2026-06-24",
+    "description": "Chrysalis recognised for longstanding contribution to SME development",
+    "url_metadata": "https://www.ft.lk/business/Chrysalis-recognised-for-longstanding-contribution-to-SME-development/34-793713",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782263997.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-059bf43e",
+    "num": "dailyftlk-059bf43e",
+    "date_str": "2026-06-24",
+    "description": "EDB empowers export-ready SMEs at THAIFEX \u2013 ANUGA ASIA 2026",
+    "url_metadata": "https://www.ft.lk/business/EDB-empowers-export-ready-SMEs-at-THAIFEX-ANUGA-ASIA-2026/34-793714",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782264106.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-d9c26723",
+    "num": "dailyftlk-d9c26723",
+    "date_str": "2026-06-24",
+    "description": "\u201cPackaging is an Evergreen Industry\u201d \u2013 Masterwork Group\u2019s Maxen Liu",
+    "url_metadata": "https://www.ft.lk/business/Packaging-is-an-Evergreen-Industry-Masterwork-Group-s-Maxen-Liu/34-793715",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782264290.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-acde3929",
+    "num": "dailyftlk-acde3929",
+    "date_str": "2026-06-24",
+    "description": "Sri Lanka must sell value, not volume: Exporters",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-must-sell-value-not-volume-Exporters/34-793716",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782264442.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-c9ac85b2",
+    "num": "dailyftlk-c9ac85b2",
+    "date_str": "2026-06-24",
+    "description": "CSF and Max Planck Foundation support launch of SL Business and Human Rights Guidelines",
+    "url_metadata": "https://www.ft.lk/news/CSF-and-Max-Planck-Foundation-support-launch-of-SL-Business-and-Human-Rights-Guidelines/56-793717",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782264998.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-fc950f93",
+    "num": "dailyftlk-fc950f93",
+    "date_str": "2026-06-24",
+    "description": "Rotary Conference calls for empathy as core humanitarian skill",
+    "url_metadata": "https://www.ft.lk/news/Rotary-Conference-calls-for-empathy-as-core-humanitarian-skill/56-793718",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782266526.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-tamilmirrorlk-e372de7a",
+    "num": "tamilmirrorlk-e372de7a",
+    "date_str": "2026-06-24",
+    "description": "\u0b95\u0bbe\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b87\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0ba4\u0bcd \u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc8 \u0b89\u0b9f\u0bc8\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bb2\u0bcd \u0ba4\u0bbf\u0ba3\u0bb1\u0bbf\u0baf \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b95\u0bbe\u0ba9\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b87\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0ba4\u0bcd-\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc8-\u0b89\u0b9f\u0bc8\u0b95\u0bcd\u0b95-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0bae\u0bb2\u0bcd-\u0ba4\u0bbf\u0ba3\u0bb1\u0bbf\u0baf-\u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1/44-379017",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782267903.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-tamilmirrorlk-4520fa4f",
+    "num": "tamilmirrorlk-4520fa4f",
+    "date_str": "2026-06-24",
+    "description": "\u0baa\u0bc6\u0ba3\u0bcd \u0baa\u0bbf\u0b9a\u0bbf\u0baf\u0bcb\u0ba4\u0bc6\u0bb0\u0baa\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8: \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd  \u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd \u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0baa\u0bc6\u0ba3\u0bcd-\u0baa\u0bbf\u0b9a\u0bbf\u0baf\u0bcb\u0ba4\u0bc6\u0bb0\u0baa\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd-\u0baa\u0b9f\u0bc1\u0b95\u0bca\u0bb2\u0bc8-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0ba8\u0baa\u0bb0\u0bcd-\u0bae\u0ba9\u0bc8\u0bb5\u0bbf\u0baf\u0bc1\u0b9f\u0ba9\u0bcd-\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/150-379018",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782269320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-fcb7a6b3",
+    "num": "dailyftlk-fcb7a6b3",
+    "date_str": "2026-06-24",
+    "description": "Youth expect jobs that build lives, not just livelihoods from World Bank CPF 2026-2030",
+    "url_metadata": "https://www.ft.lk/news/Youth-expect-jobs-that-build-lives-not-just-livelihoods-from-World-Bank-CPF-2026-2030/56-793733",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782270152.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-623453b2",
+    "num": "dailyftlk-623453b2",
+    "date_str": "2026-06-24",
+    "description": "Cabinet approves next steps  for railway electrification program",
+    "url_metadata": "https://www.ft.lk/business/Cabinet-approves-next-steps-for-railway-electrification-program/34-793734",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782270205.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-3eb6a3c6",
+    "num": "dailyftlk-3eb6a3c6",
+    "date_str": "2026-06-24",
+    "description": "Lee Hedges revises payment terms  for Rs. 3.16 b Lanka Realty acquisition",
+    "url_metadata": "https://www.ft.lk/business/Lee-Hedges-revises-payment-terms-for-Rs-3-16-b-Lanka-Realty-acquisition/34-793735",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782270224.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-8f93cd34",
+    "num": "dailyftlk-8f93cd34",
+    "date_str": "2026-06-24",
+    "description": "Lee Hedges appoints Archie Warman as Chairman; Afzal Ahamed Marikar and Noel Joseph join Board",
+    "url_metadata": "https://www.ft.lk/business/Lee-Hedges-appoints-Archie-Warman-as-Chairman-Afzal-Ahamed-Marikar-and-Noel-Joseph-join-Board/34-793736",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782270280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailyftlk-c793a304",
+    "num": "dailyftlk-c793a304",
+    "date_str": "2026-06-24",
+    "description": "JAT executes strategic  Mirotone acquisition roadmap with Australian re-entry",
+    "url_metadata": "https://www.ft.lk/business/JAT-executes-strategic-Mirotone-acquisition-roadmap-with-Australian-re-entry/34-793737",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782270367.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-dailymirrorlk-d8a07eea",
+    "num": "dailymirrorlk-d8a07eea",
+    "date_str": "2026-06-24",
+    "description": "Main suspects arrested in Jaffna over female physiotherapist\u2019s body found in car",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Main-suspects-arrested-in-Jaffna-over-female-physiotherapists-body-found-in-car/108-343750",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782271034.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-tamilmirrorlk-18150e59",
+    "num": "tamilmirrorlk-18150e59",
+    "date_str": "2026-06-24",
+    "description": "35 \u0b95\u0bcb\u0b9f\u0bbf \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd \u2019\u0bb9\u0bb7\u0bbf\u0bb7\u0bcd\u2019 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1: \u0b95\u0ba9\u0bc7\u0b9f\u0bbf\u0baf \u0bae\u0bbe\u0ba3\u0bb5\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/35-\u0b95\u0bcb\u0b9f\u0bbf-\u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd-\u0bb9\u0bb7\u0bbf\u0bb7\u0bcd-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1-\u0b95\u0ba9\u0bc7\u0b9f\u0bbf\u0baf-\u0bae\u0bbe\u0ba3\u0bb5\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/175-379022",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782271371.0
   }
 ]
