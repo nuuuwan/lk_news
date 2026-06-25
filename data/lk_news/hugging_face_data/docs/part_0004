@@ -253259,6 +253259,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-21-islandlk-4e567f78",
+    "num": "islandlk-4e567f78",
+    "date_str": "2026-06-21",
+    "description": "Clear up fuel pricing confusion urgently",
+    "url_metadata": "http://island.lk/clear-up-fuel-pricing-confusion-urgently/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782058440.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-21-islandlk-d32525cd",
     "num": "islandlk-d32525cd",
     "date_str": "2026-06-21",
@@ -255041,6 +255052,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-22-islandlk-9ea1e6b6",
+    "num": "islandlk-9ea1e6b6",
+    "date_str": "2026-06-22",
+    "description": "Turning Promises into Justice",
+    "url_metadata": "http://island.lk/turning-promises-into-justice/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782148980.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-22-dailymirrorlk-4ad20741",
     "num": "dailymirrorlk-4ad20741",
     "date_str": "2026-06-22",
@@ -255093,6 +255115,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782149394.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-22-islandlk-b160bb6e",
+    "num": "islandlk-b160bb6e",
+    "date_str": "2026-06-22",
+    "description": "Forest cover loss threatens rare freshwater fish in Sinharaja streams",
+    "url_metadata": "http://island.lk/forest-cover-loss-threatens-rare-freshwater-fish-in-sinharaja-streams/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782149460.0
   },
   {
     "doc_type": "lk_news",
@@ -257329,6 +257362,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-23-islandlk-70cb1446",
+    "num": "islandlk-70cb1446",
+    "date_str": "2026-06-23",
+    "description": "Sri Lanka\u2019s tourism paradox: More visitors, less money",
+    "url_metadata": "http://island.lk/sri-lankas-tourism-paradox-more-visitors-less-money/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782233280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-islandlk-b279c33e",
+    "num": "islandlk-b279c33e",
+    "date_str": "2026-06-23",
+    "description": "Climate resilience now central to Sri Lanka\u2019s economic future, investors told",
+    "url_metadata": "http://island.lk/climate-resilience-now-central-to-sri-lankas-economic-future-investors-told/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782233280.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-23-islandlk-fd4ce532",
     "num": "islandlk-fd4ce532",
     "date_str": "2026-06-23",
@@ -257337,6 +257392,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1782233280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-islandlk-8fb8e691",
+    "num": "islandlk-8fb8e691",
+    "date_str": "2026-06-23",
+    "description": "Sri Lanka Insurance Corporation General Limited honoured",
+    "url_metadata": "http://island.lk/sri-lanka-insurance-corporation-general-limited-honoured/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782233340.0
   },
   {
     "doc_type": "lk_news",
@@ -257381,6 +257447,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1782233580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-23-islandlk-05c59c7c",
+    "num": "islandlk-05c59c7c",
+    "date_str": "2026-06-23",
+    "description": "US-Iran war, global exchange rates and Sri Lankan Rupee",
+    "url_metadata": "http://island.lk/us-iran-war-global-exchange-rates-and-sri-lankan-rupee/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782233820.0
   },
   {
     "doc_type": "lk_news",
@@ -259254,6 +259331,72 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-24-islandlk-6416f598",
+    "num": "islandlk-6416f598",
+    "date_str": "2026-06-24",
+    "description": "Big scene for award-nominated music producer",
+    "url_metadata": "http://island.lk/big-scene-for-award-nominated-music-producer/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782322140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-islandlk-492ef1f4",
+    "num": "islandlk-492ef1f4",
+    "date_str": "2026-06-24",
+    "description": "Fresh Aloe Vera juice \u2026",
+    "url_metadata": "http://island.lk/fresh-aloe-vera-juice/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782322320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-islandlk-838af27a",
+    "num": "islandlk-838af27a",
+    "date_str": "2026-06-24",
+    "description": "Ceylon Chamber announces revamped Best Corporate Citizen Sustainability Awards 2026",
+    "url_metadata": "http://island.lk/ceylon-chamber-announces-revamped-best-corporate-citizen-sustainability-awards-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782322560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-islandlk-348afb92",
+    "num": "islandlk-348afb92",
+    "date_str": "2026-06-24",
+    "description": "Dull stock trading day marked by dip in indices",
+    "url_metadata": "http://island.lk/dull-stock-trading-day-marked-by-dip-in-indices/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782322620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-islandlk-a4f890de",
+    "num": "islandlk-a4f890de",
+    "date_str": "2026-06-24",
+    "description": "Sri Lanka apparel exports climb nearly 8% in May, led by US demand",
+    "url_metadata": "http://island.lk/sri-lanka-apparel-exports-climb-nearly-8-in-may-led-by-us-demand/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782322680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-islandlk-26c4debd",
+    "num": "islandlk-26c4debd",
+    "date_str": "2026-06-24",
+    "description": "Uneven Ageing: Why Sri Lanka\u2019s districts face different retirement crises",
+    "url_metadata": "http://island.lk/uneven-ageing-why-sri-lankas-districts-face-different-retirement-crises/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782322800.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-24-tamilmirrorlk-44c9280a",
     "num": "tamilmirrorlk-44c9280a",
     "date_str": "2026-06-24",
@@ -259262,5 +259405,71 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782323221.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-dailyftlk-1087b218",
+    "num": "dailyftlk-1087b218",
+    "date_str": "2026-06-25",
+    "description": "Lucerne lessons for Lanka, Lebanon war; Easter massacre mastermind scenarios",
+    "url_metadata": "https://www.ft.lk/columns/Lucerne-lessons-for-Lanka-Lebanon-war-Easter-massacre-mastermind-scenarios/4-793751",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782344094.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-dailyftlk-78c166af",
+    "num": "dailyftlk-78c166af",
+    "date_str": "2026-06-25",
+    "description": "Methodist Church Sri Lanka Retired President Bishop issues open letter to Manohari Sallay",
+    "url_metadata": "https://www.ft.lk/opinion/Methodist-Church-Sri-Lanka-Retired-President-Bishop-issues-open-letter-to-Manohari-Sallay/14-793753",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782344978.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-dailyftlk-5bc4121f",
+    "num": "dailyftlk-5bc4121f",
+    "date_str": "2026-06-25",
+    "description": "Digital civil space and freedom of expression under threat",
+    "url_metadata": "https://www.ft.lk/opinion/Digital-civil-space-and-freedom-of-expression-under-threat/14-793754",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782345191.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-dailyftlk-42b1b573",
+    "num": "dailyftlk-42b1b573",
+    "date_str": "2026-06-25",
+    "description": "Repatriation of export proceeds into Sri Lanka and conversion \u2013 A practical perspective",
+    "url_metadata": "https://www.ft.lk/columns/Repatriation-of-export-proceeds-into-Sri-Lanka-and-conversion-A-practical-perspective/4-793764",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782347989.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-dailyftlk-a4bbc86b",
+    "num": "dailyftlk-a4bbc86b",
+    "date_str": "2026-06-25",
+    "description": "Market access, not aid is the foreign currency for Sri Lanka",
+    "url_metadata": "https://www.ft.lk/columns/Market-access-not-aid-is-the-foreign-currency-for-Sri-Lanka/4-793765",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782348160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-dailyftlk-78089643",
+    "num": "dailyftlk-78089643",
+    "date_str": "2026-06-25",
+    "description": "Beneficial Ownership rules should  strengthen governance, not burden business",
+    "url_metadata": "https://www.ft.lk/columns/Beneficial-Ownership-rules-should-strengthen-governance-not-burden-business/4-793766",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782348895.0
   }
 ]
