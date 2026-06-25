@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-26 00:41:19",
-  "n_docs": 120159,
+  "time_updated": "2026-06-26 02:28:03",
+  "n_docs": 120196,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 120159,
+  "n_docs_with_text": 120196,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-26",
-  "dataset_size": 1874210495,
+  "dataset_size": 1874448930,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-26-dailymirrorlk-815506b8",
-    "num": "dailymirrorlk-815506b8",
+    "doc_id": "2026-06-26-dailymirrorlk-9d2cfe5a",
+    "num": "dailymirrorlk-9d2cfe5a",
     "date_str": "2026-06-26",
-    "description": "Contract farming gains momentum as IFC backs local poultry sector",
-    "url_metadata": "https://www.dailymirror.lk/business/Contract-farming-gains-momentum-as-IFC-backs-local-poultry-sector/215-343954",
+    "description": "CCC outlines three-year plan to strengthen  Sri Lanka\u2019s competitiveness",
+    "url_metadata": "https://www.dailymirror.lk/business/CCC-outlines-three-year-plan-to-strengthen-Sri-Lankas-competitiveness/215-343955",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782414550.0
+    "time_ut": 1782414775.0
   }
 }
