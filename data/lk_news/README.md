@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_02:29:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_04:28:08-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,196** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,200** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-26-dailymirrorlk-9d2cfe5a",
-    "num": "dailymirrorlk-9d2cfe5a",
+    "doc_id": "2026-06-26-dailyftlk-408ce76e",
+    "num": "dailyftlk-408ce76e",
     "date_str": "2026-06-26",
-    "description": "CCC outlines three-year plan to strengthen  Sri Lanka\u2019s competitiveness",
-    "url_metadata": "https://www.dailymirror.lk/business/CCC-outlines-three-year-plan-to-strengthen-Sri-Lankas-competitiveness/215-343955",
+    "description": "Will Elon Musk\u2019s trillion-dollar leadership playbook survive the future?",
+    "url_metadata": "https://www.ft.lk/columns/Will-Elon-Musk-s-trillion-dollar-leadership-playbook-survive-the-future/4-793809",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782414775.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782425752.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-26 | `dailyftlk-408ce76e` | Will Elon Musk’s trillion-dollar leadership playbook survive the future? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-408ce76e)
+- 2026-06-26 | `dailyftlk-ef66da2b` | Peasants in revolt: A step towards a new mode of agriculture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-ef66da2b)
+- 2026-06-26 | `dailyftlk-e39d79bb` | Entrepreneurship for a greener future: Tackling environmental challenges and sustainability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-e39d79bb)
+- 2026-06-26 | `tamilmirrorlk-37677744` | சாதாரண தரப் பரீட்சை மறுபரிசீலனை விண்ணப்பங்களை ஒன்லைன் ஊடாக கோரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-tamilmirrorlk-37677744)
 - 2026-06-26 | `dailymirrorlk-9d2cfe5a` | CCC outlines three-year plan to strengthen  Sri Lanka’s competitiveness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-9d2cfe5a)
 - 2026-06-26 | `dailymirrorlk-815506b8` | Contract farming gains momentum as IFC backs local poultry sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-815506b8)
 - 2026-06-26 | `dailymirrorlk-fdd9be9a` | LVL Energy Fund fined by CSE for delayed market disclosures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-fdd9be9a)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-06-25 | `dailymirrorlk-1341293b` | Seylan Bank enables Google Pay for Mastercard cardholders in  Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-1341293b)
 - 2026-06-25 | `dailymirrorlk-22439bc3` | EDB opens applications for Manila market exposure programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-22439bc3)
 - 2026-06-25 | `dailymirrorlk-fb391f8d` | Redington-IBM host Innovation Forum Sri Lanka 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-fb391f8d)
-- 2026-06-25 | `dailymirrorlk-53f9ed1c` | Barista launches Tap Grab Go mobile app for customers on move | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-53f9ed1c)
-- 2026-06-25 | `dailymirrorlk-06d5e334` | DFCC Garusaru expands everyday benefits for senior citizens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-06d5e334)
-- 2026-06-25 | `dailymirrorlk-c846250d` | Prime Residencies forges ahead with Mon Vie construction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-c846250d)
-- 2026-06-25 | `dailymirrorlk-43bac65b` | Peking University delegates conduct in-depth research on bilateral cooperation in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-43bac65b)
 
 ---
 
