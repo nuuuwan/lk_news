@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--25_13:05:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--25_15:00:14-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,054** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,091** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-25-dailymirrorlk-b5706690",
-    "num": "dailymirrorlk-b5706690",
+    "doc_id": "2026-06-25-dailymirrorlk-b65f9ce9",
+    "num": "dailymirrorlk-b65f9ce9",
     "date_str": "2026-06-25",
-    "description": "Iran warns ships it\u2019s \u2018unacceptable and dangerous\u2019 to transit the Strait of Hormuz without their approval",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-warns-ships-its-unacceptable-and-dangerous-to-transit-the-Strait-of-Hormuz-without-their-approval/108-343888",
+    "description": "FIFA suspends Nepal over third-party interference",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/FIFA-suspends-Nepal-over-third-party-interference/108-343897",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782372138.0
+    "time_ut": 1782378860.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
-- 2026-06-25 | `dailymirrorlk-b5706690` | Iran warns ships it’s ‘unacceptable and dangerous’ to transit the Strait of Hormuz without their approval | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-b5706690)
-- 2026-06-25 | `tamilmirrorlk-605588c5` | இன்று கைதானவர்களின் கூடுதல் விபரங்கள் வெளியாகும்: ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-605588c5)
-- 2026-06-25 | `tamilmirrorlk-af30d2d9` | PTA தொடர்பில்: ஜனாதிபதி  அதிரடி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-af30d2d9)
-- 2026-06-25 | `dailymirrorlk-24be76f3` | More disclosures on today’s arrests to follow: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-24be76f3)
-- 2026-06-25 | `tamilmirrorlk-f5f141a2` | ஜூலை 1முதல் தனியார் பேருந்து கட்டண உயர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-f5f141a2)
-- 2026-06-25 | `tamilmirrorlk-fd4bbe4b` | முதல்வர் விஜய்: பொதுமக்களுடன் மாநகரப் பேருந்தில் பயணம் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-fd4bbe4b)
-- 2026-06-25 | `dailymirrorlk-f0559dfc` | Government does not accept that an individual can survive with Rs. 17,700 per month: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-f0559dfc)
-- 2026-06-25 | `dailymirrorlk-c9c57617` | Global Ebola risk ’remains low’: WHO Chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-c9c57617)
-- 2026-06-25 | `dailymirrorlk-cdb6314a` | Private bus operators seek fare hike from July 1 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-cdb6314a)
-- 2026-06-25 | `tamilmirrorlk-240baf14` | சர்வதேச சந்தையில் கச்சா எண்ணெய் விலை சரிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-240baf14)
-- 2026-06-25 | `dailymirrorlk-699584f7` | No decision on change of fuel prices: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-699584f7)
-- 2026-06-25 | `dailymirrorlk-7d17798a` | At least 32 dead, 700 injured after massive earthquakes slam Venezuela | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-7d17798a)
-- 2026-06-25 | `tamilmirrorlk-c4a96288` | `ஹரக் கட்டா’ லஞ்ச வழக்கு: சட்டத்தரணி ரகித ராஜபக்ஷ உள்ளிட்ட மூவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-c4a96288)
-- 2026-06-25 | `dailymirrorlk-f104cc6b` | Colombia’s leftwing candidate concedes election to Trump-endorsed millionaire | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-f104cc6b)
-- 2026-06-25 | `dailymirrorlk-543654d8` | Scandal behind claiming Ditwah disaster relief: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-543654d8)
-- 2026-06-25 | `virakesarilk-03de6be0` | அதிவேக நெடுஞ்சாலைகளில் ஆசன பட்டி அணியாத 400 பேருக்கு எதிராக சட்ட நடவடிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-03de6be0)
-- 2026-06-25 | `tamilmirrorlk-419056e1` | மஹிந்தவின் கடைசி மகனும் ஆஜர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-419056e1)
-- 2026-06-25 | `tamilmirrorlk-1a2a624d` | மஹிந்தவின் கடைசி மகளும் ஆஜர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-1a2a624d)
-- 2026-06-25 | `virakesarilk-42b698f1` | முன்னாள் நீதியமைச்சர் விஜயதாச ராஜபக்‌ஷவின் மகன் ரகித ராஜபக்‌ஷ கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-42b698f1)
-- 2026-06-25 | `tamilmirrorlk-c05354cb` | திரை மறைவில் உண்மைகள்: நாம் காண்பது எதை? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-c05354cb)
+- 2026-06-25 | `dailymirrorlk-b65f9ce9` | FIFA suspends Nepal over third-party interference | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-b65f9ce9)
+- 2026-06-25 | `virakesarilk-2a91e703` | டெங்கு நோய் அதிகமாக பரவும் மட்டக்களப்பு மாவட்டம் ; கல்லடியில் துப்புரவு, விழிப்புணர்வுப் பணிகள் தீவிரம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-2a91e703)
+- 2026-06-25 | `virakesarilk-9ef6407a` | நடிகர் வெற்றி நடிக்கும் 'லக்ஷ்மிகாந்தன் கொலை வழக்கு' படத்தின் இசை மற்றும் முன்னோட்டம் வெளியீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-9ef6407a)
+- 2026-06-25 | `virakesarilk-a0f06722` | அனந்தன் காடு - திரைப்பட விமர்சனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-a0f06722)
+- 2026-06-25 | `dailymirrorlk-a8158bca` | Media will not survive if they don’t come out of garbage pile: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-a8158bca)
+- 2026-06-25 | `virakesarilk-fad0037c` | மீண்டும் அறிமுக இயக்குநருடன் கரம் கோர்த்திருக்கும் விக்ரம் பிரபு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-fad0037c)
+- 2026-06-25 | `virakesarilk-c0628300` | நடிகர் ரியோ நடிக்கும் 'ராம் இன் லீலா' திரைப்படத்தின் முதல் பாடல் வெளியீடு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-c0628300)
+- 2026-06-25 | `dailymirrorlk-969e6fa6` | Oil price falls to levels not seen since before Iran war | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-969e6fa6)
+- 2026-06-25 | `virakesarilk-d404ad7c` | ஈரானின் மறைந்த உயர் தலைவர் அலி காமேனியின் இறுதிச்சடங்கு ஜூலை மாதத்தில்! ; இந்திய பிரதமருக்கு அழைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-d404ad7c)
+- 2026-06-25 | `dailymirrorlk-822ad9cc` | UN, WFP officials meet Defence Secretary to discuss disaster resilience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-822ad9cc)
+- 2026-06-25 | `dailymirrorlk-75c3778d` | IOC Launches Historic $140M Athlete Grant Programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-75c3778d)
+- 2026-06-25 | `tamilmirrorlk-27c38c95` | 3 தகாத உறவுகள்: ஒப்புக்கொண்ட பில் கேட்ஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-27c38c95)
+- 2026-06-25 | `virakesarilk-ff9faffe` | இலஞ்ச ஊழல் குற்றச்சாட்டில் கைது செய்யப்பட்ட சரித் அபேசிங்கவுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை – எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-ff9faffe)
+- 2026-06-25 | `dailymirrorlk-08c9b920` | Sri Lanka to receive four new cath labs worth Rs. 1.2Bn | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-08c9b920)
+- 2026-06-25 | `adalk-b1737244` | ශානි, රවී, රංග, දිලිප විපක්ෂයේ හතුරන් වෙලා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-adalk-b1737244)
+- 2026-06-25 | `virakesarilk-5926c752` | தேசிய போதைப்பொருள் ஒழிப்பு நடவடிக்கை: ஒரே நாளில் 827 கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-5926c752)
+- 2026-06-25 | `virakesarilk-f4bca16f` | Teen Arrested at BIA Over Rs.352M Hashish | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-f4bca16f)
+- 2026-06-25 | `dailymirrorlk-f311f46e` | PTA will be abolished in a few months: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-f311f46e)
+- 2026-06-25 | `tamilmirrorlk-eb0ba1b0` | பொசன் பௌர்ணமி   விசேட புகையிரத சேவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-eb0ba1b0)
+- 2026-06-25 | `tamilmirrorlk-7969dafc` | வெனிசுலாவில் நிலநடுக்கத்தில்: 32 பேர் பலி 700 பேர் காயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-7969dafc)
 
 ---
 
