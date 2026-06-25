@@ -261781,5 +261781,27 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782404166.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-fdd9be9a",
+    "num": "dailymirrorlk-fdd9be9a",
+    "date_str": "2026-06-26",
+    "description": "LVL Energy Fund fined by CSE for delayed market disclosures",
+    "url_metadata": "https://www.dailymirror.lk/business/LVL-Energy-Fund-fined-by-CSE-for-delayed-market-disclosures/215-343953",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782414421.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-815506b8",
+    "num": "dailymirrorlk-815506b8",
+    "date_str": "2026-06-26",
+    "description": "Contract farming gains momentum as IFC backs local poultry sector",
+    "url_metadata": "https://www.dailymirror.lk/business/Contract-farming-gains-momentum-as-IFC-backs-local-poultry-sector/215-343954",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782414550.0
   }
 ]

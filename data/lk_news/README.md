@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--25_22:42:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_00:41:59-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,157** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,159** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-25-dailymirrorlk-0a7405d1",
-    "num": "dailymirrorlk-0a7405d1",
-    "date_str": "2026-06-25",
-    "description": "Trade Ministry seeks closer collaboration with retailers, says Minister",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trade-Ministry-seeks-closer-collaboration-with-retailers-says-Minister/108-343928",
+    "doc_id": "2026-06-26-dailymirrorlk-815506b8",
+    "num": "dailymirrorlk-815506b8",
+    "date_str": "2026-06-26",
+    "description": "Contract farming gains momentum as IFC backs local poultry sector",
+    "url_metadata": "https://www.dailymirror.lk/business/Contract-farming-gains-momentum-as-IFC-backs-local-poultry-sector/215-343954",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782404166.0
+    "time_ut": 1782414550.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-26 | `dailymirrorlk-815506b8` | Contract farming gains momentum as IFC backs local poultry sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-815506b8)
+- 2026-06-26 | `dailymirrorlk-fdd9be9a` | LVL Energy Fund fined by CSE for delayed market disclosures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-fdd9be9a)
 - 2026-06-25 | `dailymirrorlk-0a7405d1` | Trade Ministry seeks closer collaboration with retailers, says Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-0a7405d1)
 - 2026-06-25 | `dailymirrorlk-b146e279` | Two fined Rs. 450,000 each for trading protected wildlife parts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-b146e279)
 - 2026-06-25 | `dailymirrorlk-6d41eb55` | Govt aims to complete national digital land database this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-6d41eb55)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-06-25 | `dailymirrorlk-014999af` | Rakitha Rajapaksa, Charith Abeysinghe remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-014999af)
 - 2026-06-25 | `virakesarilk-f015fb53` | யாழில் இளம் தவில் கலைஞர் உயிர் மாய்ப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-f015fb53)
 - 2026-06-25 | `virakesarilk-adc79c5c` | எரிபொருள் மானியம் வழங்கலை இடைநிறுத்த எவ்வித தீர்மானங்களும் இல்லை - வலுசக்தி அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-adc79c5c)
-- 2026-06-25 | `virakesarilk-956f8e23` | போதைப்பொருள் கடத்தலில் ஈடுபடுபவர்களுக்கு சிங்கப்பூரில் வழங்கும் தண்டனை வழங்கப்பட வேண்டும் - சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-956f8e23)
-- 2026-06-25 | `tamilmirrorlk-1abdfaca` | பெற்றோரின் கவனத்திற்கு ; கல்வி அமைச்சு அதிரடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-1abdfaca)
 
 ---
 
