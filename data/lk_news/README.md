@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--25_20:55:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--25_22:42:42-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,153** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,157** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-25**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-25-virakesarilk-b9ef0b95",
-    "num": "virakesarilk-b9ef0b95",
+    "doc_id": "2026-06-25-dailymirrorlk-0a7405d1",
+    "num": "dailymirrorlk-0a7405d1",
     "date_str": "2026-06-25",
-    "description": "\u0ba8\u0bc7\u0baa\u0bbe\u0bb3\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0bbe\u0b9f\u0bcd\u0b9f \u0b9a\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bc0\u0baa\u0bbe \u0b95\u0bbe\u0bb2\u0bb5\u0bb0\u0bc8\u0baf\u0bb1\u0bc8\u0baf\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf \u0ba4\u0b9f\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/251135",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1782400560.0
+    "description": "Trade Ministry seeks closer collaboration with retailers, says Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trade-Ministry-seeks-closer-collaboration-with-retailers-says-Minister/108-343928",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782404166.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-25 | `dailymirrorlk-0a7405d1` | Trade Ministry seeks closer collaboration with retailers, says Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-0a7405d1)
+- 2026-06-25 | `dailymirrorlk-b146e279` | Two fined Rs. 450,000 each for trading protected wildlife parts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-b146e279)
+- 2026-06-25 | `dailymirrorlk-6d41eb55` | Govt aims to complete national digital land database this year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-6d41eb55)
+- 2026-06-25 | `dailymirrorlk-086093ec` | Sri Lanka participates in UN public service forum 2026 in Georgia | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-086093ec)
 - 2026-06-25 | `virakesarilk-b9ef0b95` | நேபாளம் கால்பந்தாட்ட சங்கத்திற்கு பீபா காலவரையறையின்றி தடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-b9ef0b95)
 - 2026-06-25 | `virakesarilk-55d2c674` | இயன் முறை சிகிச்சையாளர் உடலமாக மீட்கப்பட்ட சம்பவம் கைதான மூவரையும் 48 மணிநேர தடுப்பு காவலில் விசாரணை செய்ய உத்தரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-55d2c674)
 - 2026-06-25 | `dailymirrorlk-cff5a22f` | People want cost of living answers, not arrest commentary: Namal | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-cff5a22f)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-06-25 | `virakesarilk-adc79c5c` | எரிபொருள் மானியம் வழங்கலை இடைநிறுத்த எவ்வித தீர்மானங்களும் இல்லை - வலுசக்தி அமைச்சர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-adc79c5c)
 - 2026-06-25 | `virakesarilk-956f8e23` | போதைப்பொருள் கடத்தலில் ஈடுபடுபவர்களுக்கு சிங்கப்பூரில் வழங்கும் தண்டனை வழங்கப்பட வேண்டும் - சஜித் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-956f8e23)
 - 2026-06-25 | `tamilmirrorlk-1abdfaca` | பெற்றோரின் கவனத்திற்கு ; கல்வி அமைச்சு அதிரடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-1abdfaca)
-- 2026-06-25 | `virakesarilk-8a07fff0` | வெனிசுவேலா சக்திவாய்ந்த இரட்டை நிலநடுக்கத்தில் 164 பேர் பலி,  971 பேர் காயம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-8a07fff0)
-- 2026-06-25 | `dailymirrorlk-ab761dd3` | President Dissanayake to visit France | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-ab761dd3)
-- 2026-06-25 | `tamilmirrorlk-377059d7` | பாதயாத்திரை செல்லும் ’சுப்ரமணியன்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-tamilmirrorlk-377059d7)
-- 2026-06-25 | `virakesarilk-981dfe53` | சாவகச்சேரி நகர சபை உப தவிசாளர் கிஷோரின் பதவி நீக்கத்திற்கு எதிராக போராட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-virakesarilk-981dfe53)
 
 ---
 

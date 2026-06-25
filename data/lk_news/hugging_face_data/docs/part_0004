@@ -261737,5 +261737,49 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1782400560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-dailymirrorlk-086093ec",
+    "num": "dailymirrorlk-086093ec",
+    "date_str": "2026-06-25",
+    "description": "Sri Lanka participates in UN public service forum 2026 in Georgia",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-participates-in-UN-public-service-forum-2026-in-Georgia/108-343925",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782401306.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-dailymirrorlk-6d41eb55",
+    "num": "dailymirrorlk-6d41eb55",
+    "date_str": "2026-06-25",
+    "description": "Govt aims to complete national digital land database this year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-aims-to-complete-national-digital-land-database-this-year/108-343926",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782402005.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-dailymirrorlk-b146e279",
+    "num": "dailymirrorlk-b146e279",
+    "date_str": "2026-06-25",
+    "description": "Two fined Rs. 450,000 each for trading protected wildlife parts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-fined-Rs-450-000-each-for-trading-protected-wildlife-parts/108-343927",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782403228.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-dailymirrorlk-0a7405d1",
+    "num": "dailymirrorlk-0a7405d1",
+    "date_str": "2026-06-25",
+    "description": "Trade Ministry seeks closer collaboration with retailers, says Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trade-Ministry-seeks-closer-collaboration-with-retailers-says-Minister/108-343928",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782404166.0
   }
 ]
