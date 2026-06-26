@@ -262851,6 +262851,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-26-adalk-5970283d",
+    "num": "adalk-5970283d",
+    "date_str": "2026-06-26",
+    "description": "\u0dc0\u0dd9\u0db1\u0dd2\u0dc3\u0dd2\u0dba\u0dd4\u0dbd\u0dcf \u0db7\u0dd6 \u0d9a\u0db8\u0dca\u0db4\u0db1\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dba \u0d9c\u0dd2\u0dba \u0d9c\u0dab\u0db1 235\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd9\u0db1\u0dd2\u0dc3\u0dd2\u0dba\u0dd4\u0dbd\u0dcf-\u0db7\u0dd6-\u0d9a\u0db8\u0dca\u0db4\u0db1\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0db8\u0dd2\u0dba-\u0d9c\u0dd2\u0dba-\u0d9c\u0dab\u0db1-235\u0d9a\u0dca-\u0daf\u0d9a\u0dca\u0dc0\u0dcf-\u0d89\u0dc4\u0dc5\u0da7/11-423011",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782455362.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-26-dailymirrorlk-6dfc4da2",
     "num": "dailymirrorlk-6dfc4da2",
     "date_str": "2026-06-26",
@@ -262911,6 +262922,17 @@
     "date_str": "2026-06-26",
     "description": "SJB suspends Horana Organiser Charith Abeysinghe following bribery arrest",
     "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-suspends-Horana-Organiser-Charith-Abeysinghe-following-bribery-arrest/108-343998",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782461361.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-d7b57c47",
+    "num": "dailymirrorlk-d7b57c47",
+    "date_str": "2026-06-26",
+    "description": "SJB suspends Horana Organiser Charith Abeysinghe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-suspends-Horana-Organiser-Charith-Abeysinghe/108-343998",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782461361.0
@@ -262980,5 +263002,60 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782465744.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-tamilmirrorlk-df7e4f9a",
+    "num": "tamilmirrorlk-df7e4f9a",
+    "date_str": "2026-06-26",
+    "description": "300 \u0b85\u0bb2\u0b95\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc7\u0bb2\u0bcd \u0b9a\u0bc2\u0bb0\u0bbf\u0baf \u0b9a\u0b95\u0bcd\u0ba4\u0bbf \u0bae\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf: \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/300-\u0b85\u0bb2\u0b95\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc7\u0bb2\u0bcd-\u0b9a\u0bc2\u0bb0\u0bbf\u0baf-\u0b9a\u0b95\u0bcd\u0ba4\u0bbf-\u0bae\u0bbf\u0ba9\u0bcd-\u0b89\u0bb1\u0bcd\u0baa\u0ba4\u0bcd\u0ba4\u0bbf-\u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0b95\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/175-379122",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782466052.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-31874c35",
+    "num": "dailymirrorlk-31874c35",
+    "date_str": "2026-06-26",
+    "description": "Govt will control solar power systems by next year: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-will-control-solar-power-systems-by-next-year-Minister/108-344004",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782467280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-adalk-00d3f5d4",
+    "num": "adalk-00d3f5d4",
+    "date_str": "2026-06-26",
+    "description": "\u0d85\u0dba\u0dd2.\u0da9\u0dd3.\u0d91\u0da0\u0dca. \u0dc0\u0dd9\u0dad \u0dbd\u0ddd\u0d9a \u0db8\u0da7\u0dca\u0da7\u0db8\u0dda \u0db4\u0dd2\u0dd2\u0dc5\u0dd2\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dba\u0dd2-\u0da9\u0dd3-\u0d91\u0da0\u0dca--\u0dc0\u0dd9\u0dad-\u0dbd\u0ddd\u0d9a-\u0db8\u0da7\u0dca\u0da7\u0db8\u0dda-\u0db4\u0dd2\u0dd2\u0dc5\u0dd2\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0d9a\u0dca/11-423012",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782467828.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-a3dd58ae",
+    "num": "dailymirrorlk-a3dd58ae",
+    "date_str": "2026-06-26",
+    "description": "Gnanasara Thera\u2019s case over alleged anti-Islam remarks fixed for July 31",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gnanasara-Theras-case-over-alleged-anti-Islam-remarks-fixed-for-July-31/108-344005",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782470420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-a84159a4",
+    "num": "dailymirrorlk-a84159a4",
+    "date_str": "2026-06-26",
+    "description": "ADB approves USD 57m for Sri Lanka rooftop solar aggregation project",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ADB-approves-USD-57m-for-Sri-Lanka-rooftop-solar-aggregation-project/108-344006",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782472084.0
   }
 ]
