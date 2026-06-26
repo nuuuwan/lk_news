@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-26 06:44:26",
-  "n_docs": 120223,
+  "time_updated": "2026-06-26 09:01:42",
+  "n_docs": 120227,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 120223,
+  "n_docs_with_text": 120227,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-26",
-  "dataset_size": 1875216061,
+  "dataset_size": 1875454130,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-26-dailyftlk-caeea65d",
-    "num": "dailyftlk-caeea65d",
+    "doc_id": "2026-06-26-dailymirrorlk-c3f3f74c",
+    "num": "dailymirrorlk-c3f3f74c",
     "date_str": "2026-06-26",
-    "description": "IMF delegation reviews  Sri Lanka Customs progress",
-    "url_metadata": "https://www.ft.lk/business/IMF-delegation-reviews-Sri-Lanka-Customs-progress/34-793833",
+    "description": "Malaysia deports alleged underworld gunman to Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Malaysia-deports-alleged-underworld-gunman-to-Sri-Lanka/108-343957",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1782430758.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782444176.0
   }
 }

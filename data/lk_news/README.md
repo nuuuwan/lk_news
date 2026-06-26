@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_06:45:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_09:02:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,223** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,227** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-26-dailyftlk-caeea65d",
-    "num": "dailyftlk-caeea65d",
+    "doc_id": "2026-06-26-dailymirrorlk-c3f3f74c",
+    "num": "dailymirrorlk-c3f3f74c",
     "date_str": "2026-06-26",
-    "description": "IMF delegation reviews  Sri Lanka Customs progress",
-    "url_metadata": "https://www.ft.lk/business/IMF-delegation-reviews-Sri-Lanka-Customs-progress/34-793833",
+    "description": "Malaysia deports alleged underworld gunman to Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Malaysia-deports-alleged-underworld-gunman-to-Sri-Lanka/108-343957",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1782430758.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782444176.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-26 | `dailymirrorlk-c3f3f74c` | Malaysia deports alleged underworld gunman to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-c3f3f74c)
+- 2026-06-26 | `dailymirrorlk-7ae291e9` | Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-7ae291e9)
+- 2026-06-26 | `adalk-b780c8ec` | කොළඹ හෙද විදුහලේ හෙද හෙදි 210 දෙනෙකු සේවයට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-adalk-b780c8ec)
 - 2026-06-26 | `dailyftlk-caeea65d` | IMF delegation reviews  Sri Lanka Customs progress | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-caeea65d)
 - 2026-06-26 | `dailyftlk-133be2f6` | NCQP 2026 showcases national excellence  with 2,000+ delegates and 450+ improvement teams | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-133be2f6)
 - 2026-06-26 | `dailyftlk-848e0983` | Three-decade journey: BOI Director General Renuka Weerakone bids farewell | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-848e0983)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-06-26 | `tamilmirrorlk-37677744` | சாதாரண தரப் பரீட்சை மறுபரிசீலனை விண்ணப்பங்களை ஒன்லைன் ஊடாக கோரல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-tamilmirrorlk-37677744)
 - 2026-06-26 | `dailymirrorlk-9d2cfe5a` | CCC outlines three-year plan to strengthen  Sri Lanka’s competitiveness | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-9d2cfe5a)
 - 2026-06-26 | `dailymirrorlk-815506b8` | Contract farming gains momentum as IFC backs local poultry sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-815506b8)
-- 2026-06-26 | `dailymirrorlk-fdd9be9a` | LVL Energy Fund fined by CSE for delayed market disclosures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-fdd9be9a)
-- 2026-06-26 | `dailymirrorlk-5b368b3e` | BOI DG Renuka Weerakone retires after 32 years of service | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-5b368b3e)
-- 2026-06-26 | `dailymirrorlk-27d600f1` | Arpico Insurance revises FY25 profit down 97% after actuarial adjustment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-27d600f1)
 
 ---
 

@@ -261399,6 +261399,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-25-adalk-021ca590",
+    "num": "adalk-021ca590",
+    "date_str": "2026-06-25",
+    "description": "\u0db7\u0dde\u0dad \u0da0\u0dd2\u0d9a\u0dd2\u0dad\u0dca\u0dc3\u0d9a\u0dc0\u0dbb\u0dd2\u0dba \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0dda \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca \u0db4\u0dd0\u0dba 48\u0d9a\u0dca \u0dbb\u0daf\u0dc0\u0dcf\u0d9c\u0dd9\u0db1 \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1 \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db7\u0dde\u0dad-\u0da0\u0dd2\u0d9a\u0dd2\u0dad\u0dca\u0dc3\u0d9a\u0dc0\u0dbb\u0dd2\u0dba-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0dda-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0db1\u0dca-\u0db4\u0dd0\u0dba-48\u0d9a\u0dca-\u0dbb\u0daf\u0dc0\u0dcf\u0d9c\u0dd9\u0db1-\u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1-\u0d9a\u0dbb\u0dba\u0dd2/11-423002",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782386334.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-25-dailymirrorlk-e7b3f348",
     "num": "dailymirrorlk-e7b3f348",
     "date_str": "2026-06-25",
@@ -262507,5 +262518,38 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1782430758.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-adalk-b780c8ec",
+    "num": "adalk-b780c8ec",
+    "date_str": "2026-06-26",
+    "description": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dc4\u0dd9\u0daf \u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dda \u0dc4\u0dd9\u0daf \u0dc4\u0dd9\u0daf\u0dd2 210 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4 \u0dc3\u0dda\u0dc0\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc5\u0db9-\u0dc4\u0dd9\u0daf-\u0dc0\u0dd2\u0daf\u0dd4\u0dc4\u0dbd\u0dda-\u0dc4\u0dd9\u0daf-\u0dc4\u0dd9\u0daf\u0dd2-210-\u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dd4-\u0dc3\u0dda\u0dc0\u0dba\u0da7/11-423003",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782440694.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-7ae291e9",
+    "num": "dailymirrorlk-7ae291e9",
+    "date_str": "2026-06-26",
+    "description": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+    "url_metadata": "https://www.dailymirror.lk/international/Rescuers-search-rubble-for-survivors-as-Venezuela-earthquakes-kill-at-least-235/107-343956",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782443922.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-c3f3f74c",
+    "num": "dailymirrorlk-c3f3f74c",
+    "date_str": "2026-06-26",
+    "description": "Malaysia deports alleged underworld gunman to Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Malaysia-deports-alleged-underworld-gunman-to-Sri-Lanka/108-343957",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782444176.0
   }
 ]
