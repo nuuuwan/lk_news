@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_22:31:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--27_00:27:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,320** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,321** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-26-dailymirrorlk-74afda97",
-    "num": "dailymirrorlk-74afda97",
+    "doc_id": "2026-06-26-dailymirrorlk-bffadcc8",
+    "num": "dailymirrorlk-bffadcc8",
     "date_str": "2026-06-26",
-    "description": "Small aircraft crashes into Beijing\u2019s tallest building",
-    "url_metadata": "https://www.dailymirror.lk/international/Small-aircraft-crashes-into-Beijings-tallest-building/107-344019",
+    "description": "Russia reports large-scale Ukrainian drone attack across 12 regions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Russia-reports-large-scale-Ukrainian-drone-attack-across-12-regions/108-344020",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782492423.0
+    "time_ut": 1782493194.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-26 | `dailymirrorlk-bffadcc8` | Russia reports large-scale Ukrainian drone attack across 12 regions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-bffadcc8)
 - 2026-06-26 | `dailymirrorlk-74afda97` | Small aircraft crashes into Beijing’s tallest building | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-74afda97)
 - 2026-06-26 | `tamilmirrorlk-ac99046e` | வெளிநாடுகளில் பதுங்கியிருக்கும் 232 பேருக்கு சிவப்பு அறிவித்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-tamilmirrorlk-ac99046e)
 - 2026-06-26 | `dailymirrorlk-434ef892` | Ireland stun world champions India for historic T20 win | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-434ef892)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-06-26 | `virakesarilk-7966927a` | மிகக் கொடூரமான கடந்த ஆட்சியில் கூட இத்தகைய ஜனநாயக விரோத செயல்கள் இடம்பெறவில்லை! - ஞா.கிசோர் பதவி நீக்கம் குறித்து தர்மலிங்கம் சித்தார்த்தன் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-7966927a)
 - 2026-06-26 | `virakesarilk-79d96956` | துருக்கியிடம் அமெரிக்காவும் ஈக்வடோரிடம் ஜேர்மனியும் அதிர்ச்சித் தோல்வி, 32 அணிகள் சுற்றில் ஜப்பான்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-79d96956)
 - 2026-06-26 | `virakesarilk-45009072` | சமாதானத்தை கட்டியெழுப்புவதில் உள்ளடக்கிய பொதுச் சேவையின் பங்கை எடுத்துக்காட்டிய ஐ.நா. சமாதானத்தை கட்டியெழுப்பும் வாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-45009072)
-- 2026-06-26 | `dailymirrorlk-cd87f5db` | Govt moves to speed up Jaffna land restitution process | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-cd87f5db)
 
 ---
 

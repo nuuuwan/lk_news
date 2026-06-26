@@ -263574,5 +263574,16 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782492423.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-bffadcc8",
+    "num": "dailymirrorlk-bffadcc8",
+    "date_str": "2026-06-26",
+    "description": "Russia reports large-scale Ukrainian drone attack across 12 regions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Russia-reports-large-scale-Ukrainian-drone-attack-across-12-regions/108-344020",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782493194.0
   }
 ]
