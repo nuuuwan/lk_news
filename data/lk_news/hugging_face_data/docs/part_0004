@@ -263104,6 +263104,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-26-adalk-ec657219",
+    "num": "adalk-ec657219",
+    "date_str": "2026-06-26",
+    "description": "\u0db7\u0dde\u0dad \u0da0\u0dd2\u0d9a\u0dd2\u0dad\u0dca\u0dc3\u0d9a\u0dc0\u0dbb\u0dd2\u0dba \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0dda \u0dc3\u0dd2\u0dc0\u0dca\u0daf\u0dd9\u0db1\u0dcf \u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db7\u0dde\u0dad-\u0da0\u0dd2\u0d9a\u0dd2\u0dad\u0dca\u0dc3\u0d9a\u0dc0\u0dbb\u0dd2\u0dba-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0dda-\u0dc3\u0dd2\u0dc0\u0dca\u0daf\u0dd9\u0db1\u0dcf-\u0dbb\u0dd2\u0db8\u0dcf\u0db1\u0dca\u0da9\u0dca/11-423014",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782468924.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-26-virakesarilk-cc508e4b",
     "num": "virakesarilk-cc508e4b",
     "date_str": "2026-06-26",
@@ -263431,5 +263442,60 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1782478440.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-5b003ae9",
+    "num": "dailymirrorlk-5b003ae9",
+    "date_str": "2026-06-26",
+    "description": "BASL denies making representation for arrested attorney Rakitha Rajapakshe",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BASL-denies-making-representation-for-arrested-attorney-Rakitha-Rajapakshe/108-344011",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782480043.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-tamilmirrorlk-9eefa3e7",
+    "num": "tamilmirrorlk-9eefa3e7",
+    "date_str": "2026-06-26",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc1 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba9\u0bcd\u0bb1\u0bc1-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4-\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1/175-379136",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782480923.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-tamilmirrorlk-f49c6b8d",
+    "num": "tamilmirrorlk-f49c6b8d",
+    "date_str": "2026-06-26",
+    "description": "\u0b95\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd : \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd-\u0b9a\u0b9f\u0bb2\u0bae\u0bbe\u0b95-\u0bae\u0bc0\u0b9f\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd/175-379137",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782481561.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-adcd459e",
+    "num": "dailymirrorlk-adcd459e",
+    "date_str": "2026-06-26",
+    "description": "Over 90 organised crime suspects still abroad: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-90-organised-crime-suspects-still-abroad-Minister/108-344012",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782482516.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-008e1408",
+    "num": "dailymirrorlk-008e1408",
+    "date_str": "2026-06-26",
+    "description": "Sri Lanka Cricket set for final strike",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Cricket-set-for-final-strike/108-344013",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782484096.0
   }
 ]

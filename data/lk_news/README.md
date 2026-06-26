@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_18:37:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_20:49:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,307** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,313** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-26-virakesarilk-5f19c7b2",
-    "num": "virakesarilk-5f19c7b2",
+    "doc_id": "2026-06-26-dailymirrorlk-008e1408",
+    "num": "dailymirrorlk-008e1408",
     "date_str": "2026-06-26",
-    "description": "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bae\u0bbe\u0ba3\u0bcd\u0b9f\u0bae\u0bbe\u0ba9 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0b99\u0bcd\u0b95\u0bc1\u00a0 \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bc1\u0bb1\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/251245",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1782478440.0
+    "description": "Sri Lanka Cricket set for final strike",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Cricket-set-for-final-strike/108-344013",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782484096.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-26 | `dailymirrorlk-008e1408` | Sri Lanka Cricket set for final strike | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-008e1408)
+- 2026-06-26 | `dailymirrorlk-adcd459e` | Over 90 organised crime suspects still abroad: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-adcd459e)
+- 2026-06-26 | `tamilmirrorlk-f49c6b8d` | காருக்குள் சடலமாக மீட்கப்பட்ட வைத்தியர் : நால்வருக்கும் விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-tamilmirrorlk-f49c6b8d)
+- 2026-06-26 | `tamilmirrorlk-9eefa3e7` | இன்று முதல் மக்களுக்கு சிறந்த வாய்ப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-tamilmirrorlk-9eefa3e7)
+- 2026-06-26 | `dailymirrorlk-5b003ae9` | BASL denies making representation for arrested attorney Rakitha Rajapakshe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-5b003ae9)
 - 2026-06-26 | `virakesarilk-5f19c7b2` | யாழ்ப்பாணத்தில் பிரமாண்டமான சர்வதேச விளையாட்டரங்கு  திட்டம் குறைக்கப்படவுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-5f19c7b2)
 - 2026-06-26 | `dailymirrorlk-272c3791` | SMEs urged to register for VAT voluntarily to boost growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-272c3791)
 - 2026-06-26 | `virakesarilk-fc0c3ab3` | எந்தவொரு பிரஜையும் ஆட்சியாளருக்குப் பயந்து வாழ வேண்டியதில்லை - ஜனாதிபதி அநுர குமார திசாநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-fc0c3ab3)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-06-26 | `virakesarilk-197c821e` | டெங்கு ஒழிப்பை முன்னிட்டு பொசன் தானசாலை நடத்துவோருக்கு புதிய விதிமுறைகள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-197c821e)
 - 2026-06-26 | `virakesarilk-9f5d1d92` | நடிகர் கருணாஸ் நடிக்கும் 'என்ன விலை' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-9f5d1d92)
 - 2026-06-26 | `virakesarilk-0b8c0d03` | நடிகர் ஏகன் நடிக்கும் 'ஹைக்கூ' படத்தின் படப்பிடிப்பு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-0b8c0d03)
-- 2026-06-26 | `virakesarilk-e6b493f7` | 'யோகி பாபு 300' படத்தின் அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-e6b493f7)
-- 2026-06-26 | `dailymirrorlk-ff0c5095` | Thailand–Sri Lanka Business Forum Charts New Pathways for Trade, Investment and Regional Growth | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-ff0c5095)
-- 2026-06-26 | `dailymirrorlk-71ae3dae` | Ajith Vs Asitha argument over Opposition Leader and sister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-71ae3dae)
-- 2026-06-26 | `virakesarilk-fcf5552f` | என் மீதான குற்றச்சாட்டுப் பத்திரத்தை வடக்கு ஆளுநர் வழங்கவில்லை ; நீதி கோரி நீதிமன்றம் செல்வேன் - ஞா.கிசோர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-fcf5552f)
-- 2026-06-26 | `dailymirrorlk-a84159a4` | ADB approves USD 57m for Sri Lanka rooftop solar aggregation project | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-a84159a4)
 
 ---
 
