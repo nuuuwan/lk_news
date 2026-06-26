@@ -263640,5 +263640,71 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1782505038.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailyftlk-3eafe246",
+    "num": "dailyftlk-3eafe246",
+    "date_str": "2026-06-27",
+    "description": "Iran prevails, Trump concedes and Israel fumes",
+    "url_metadata": "https://www.ft.lk/columns/Iran-prevails-Trump-concedes-and-Israel-fumes/4-793894",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782508110.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailyftlk-95c51a38",
+    "num": "dailyftlk-95c51a38",
+    "date_str": "2026-06-27",
+    "description": "Has Iran emerged stronger after the war? Assessing its regional power status",
+    "url_metadata": "https://www.ft.lk/columns/Has-Iran-emerged-stronger-after-the-war-Assessing-its-regional-power-status/4-793895",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782508725.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailyftlk-c4965d7e",
+    "num": "dailyftlk-c4965d7e",
+    "date_str": "2026-06-27",
+    "description": "Iran-US-Israel conflict: A Masterclass in modern geopolitics and geoeconomics",
+    "url_metadata": "https://www.ft.lk/columns/Iran-US-Israel-conflict-A-Masterclass-in-modern-geopolitics-and-geoeconomics/4-793896",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782509858.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailyftlk-809fd16d",
+    "num": "dailyftlk-809fd16d",
+    "date_str": "2026-06-27",
+    "description": "The slow train to the more sustainable fast track is back",
+    "url_metadata": "https://www.ft.lk/columns/The-slow-train-to-the-more-sustainable-fast-track-is-back/4-793897",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782510773.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-abf1f1d5",
+    "num": "dailymirrorlk-abf1f1d5",
+    "date_str": "2026-06-27",
+    "description": "Sri Lanka edge Scotland as Athapaththu keeps semi-final hopes alive",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-edge-Scotland-as-Athapaththu-keeps-semi-final-hopes-alive/108-344052",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782511013.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailyftlk-7f9f08ae",
+    "num": "dailyftlk-7f9f08ae",
+    "date_str": "2026-06-27",
+    "description": "UN Peacebuilding Week highlights role of inclusive public service in building peace",
+    "url_metadata": "https://www.ft.lk/news/UN-Peacebuilding-Week-highlights-role-of-inclusive-public-service-in-building-peace/56-793902",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782512930.0
   }
 ]
