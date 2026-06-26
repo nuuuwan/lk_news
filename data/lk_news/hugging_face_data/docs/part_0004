@@ -263585,5 +263585,60 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782493194.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-2c913850",
+    "num": "dailymirrorlk-2c913850",
+    "date_str": "2026-06-27",
+    "description": "Scotland set Sri Lanka 152 to keep semi-final hopes alive",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Scotland-set-Sri-Lanka-152-to-keep-semi-final-hopes-alive/108-344051",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782501393.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailyftlk-6248ddd0",
+    "num": "dailyftlk-6248ddd0",
+    "date_str": "2026-06-27",
+    "description": "Suresh Sallay\u2019s wife responds to Open Letter of Rev. Asiri Perera",
+    "url_metadata": "https://www.ft.lk/opinion/Suresh-Sallay-s-wife-responds-to-Open-Letter-of-Rev-Asiri-Perera/14-793880",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782501928.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-tamilmirrorlk-c38d2031",
+    "num": "tamilmirrorlk-c38d2031",
+    "date_str": "2026-06-27",
+    "description": "\u0ba4\u0bc6\u0b99\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0ba4\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bc8 03 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bca\u0bb2\u0bb0\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bbe\u0b95 \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc6\u0bb4\u0bc1\u0baa\u0bcd\u0baa \u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc6\u0b99\u0bcd\u0b95\u0bc1-\u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf\u0ba4\u0bcd-\u0ba4\u0bc1\u0bb1\u0bc8\u0baf\u0bc8-03-\u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd-\u0b9f\u0bca\u0bb2\u0bb0\u0bcd-\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\u0bae\u0bbe\u0b95-\u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc6\u0bb4\u0bc1\u0baa\u0bcd\u0baa-\u0b85\u0bb5\u0ba4\u0bbe\u0ba9\u0bae\u0bcd/175-379139",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782503571.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailyftlk-62046e37",
+    "num": "dailyftlk-62046e37",
+    "date_str": "2026-06-27",
+    "description": "Rakhitha Rajapakshe arrest: BASL denies making court representations for arrested lawyer",
+    "url_metadata": "https://www.ft.lk/news/Rakhitha-Rajapakshe-arrest-BASL-denies-making-court-representations-for-arrested-lawyer/56-793892",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782504939.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailyftlk-e3db642e",
+    "num": "dailyftlk-e3db642e",
+    "date_str": "2026-06-27",
+    "description": "SJB suspends Horana organiser after bribery arrest",
+    "url_metadata": "https://www.ft.lk/news/SJB-suspends-Horana-organiser-after-bribery-arrest/56-793893",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782505038.0
   }
 ]
