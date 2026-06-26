@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_20:49:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_22:31:58-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,313** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,320** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-26-dailymirrorlk-008e1408",
-    "num": "dailymirrorlk-008e1408",
+    "doc_id": "2026-06-26-dailymirrorlk-74afda97",
+    "num": "dailymirrorlk-74afda97",
     "date_str": "2026-06-26",
-    "description": "Sri Lanka Cricket set for final strike",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Cricket-set-for-final-strike/108-344013",
+    "description": "Small aircraft crashes into Beijing\u2019s tallest building",
+    "url_metadata": "https://www.dailymirror.lk/international/Small-aircraft-crashes-into-Beijings-tallest-building/107-344019",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782484096.0
+    "time_ut": 1782492423.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-26 | `dailymirrorlk-74afda97` | Small aircraft crashes into Beijing’s tallest building | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-74afda97)
+- 2026-06-26 | `tamilmirrorlk-ac99046e` | வெளிநாடுகளில் பதுங்கியிருக்கும் 232 பேருக்கு சிவப்பு அறிவித்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-tamilmirrorlk-ac99046e)
+- 2026-06-26 | `dailymirrorlk-434ef892` | Ireland stun world champions India for historic T20 win | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-434ef892)
+- 2026-06-26 | `dailymirrorlk-eece40c3` | Multi-vehicle collision on Southern Expressway triggers severe traffic congestion | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-eece40c3)
+- 2026-06-26 | `dailymirrorlk-6d3d1fb9` | Fuel price relief likely as global oil prices decline: Govt. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-6d3d1fb9)
+- 2026-06-26 | `dailymirrorlk-163fb867` | Sri Lanka still believe semis within reach at T20 World Cup | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-163fb867)
+- 2026-06-26 | `dailymirrorlk-032f942b` | Nuwanidu fights back after Jurel’s Century puts India A on top | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-032f942b)
 - 2026-06-26 | `dailymirrorlk-008e1408` | Sri Lanka Cricket set for final strike | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-008e1408)
 - 2026-06-26 | `dailymirrorlk-adcd459e` | Over 90 organised crime suspects still abroad: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-adcd459e)
 - 2026-06-26 | `tamilmirrorlk-f49c6b8d` | காருக்குள் சடலமாக மீட்கப்பட்ட வைத்தியர் : நால்வருக்கும் விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-tamilmirrorlk-f49c6b8d)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-06-26 | `virakesarilk-79d96956` | துருக்கியிடம் அமெரிக்காவும் ஈக்வடோரிடம் ஜேர்மனியும் அதிர்ச்சித் தோல்வி, 32 அணிகள் சுற்றில் ஜப்பான்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-79d96956)
 - 2026-06-26 | `virakesarilk-45009072` | சமாதானத்தை கட்டியெழுப்புவதில் உள்ளடக்கிய பொதுச் சேவையின் பங்கை எடுத்துக்காட்டிய ஐ.நா. சமாதானத்தை கட்டியெழுப்பும் வாரம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-45009072)
 - 2026-06-26 | `dailymirrorlk-cd87f5db` | Govt moves to speed up Jaffna land restitution process | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-cd87f5db)
-- 2026-06-26 | `virakesarilk-12cb99b5` | நல்வாழ்வுச் சுற்றுலா வளர்ச்சியில் இலங்கைக்கு முதலிடம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-12cb99b5)
-- 2026-06-26 | `virakesarilk-ed194179` | தெல்தெனியவில் வாகனத்துக்குள் பெண் சடலமாக மீட்கப்பட்ட விவகாரம் : நால்வருக்கு விளக்கமறியல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-ed194179)
-- 2026-06-26 | `virakesarilk-eb6b1b4d` | மத்திய வங்கி பிணைமுறி மோசடி வழக்கு: ரவி கருணாநாயக்க, அர்ஜுன மகேந்திரன் உட்பட 11 பேருக்கு எதிரான வழக்கு ஜூலை 22 ஆம் திகதிக்கு ஒத்திவைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-eb6b1b4d)
-- 2026-06-26 | `virakesarilk-e500d245` | அங்கீகாரம் - திரைப்பட விமர்சனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-e500d245)
-- 2026-06-26 | `virakesarilk-197c821e` | டெங்கு ஒழிப்பை முன்னிட்டு பொசன் தானசாலை நடத்துவோருக்கு புதிய விதிமுறைகள்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-197c821e)
-- 2026-06-26 | `virakesarilk-9f5d1d92` | நடிகர் கருணாஸ் நடிக்கும் 'என்ன விலை' படத்தின் ஃபர்ஸ்ட் லுக் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-9f5d1d92)
-- 2026-06-26 | `virakesarilk-0b8c0d03` | நடிகர் ஏகன் நடிக்கும் 'ஹைக்கூ' படத்தின் படப்பிடிப்பு நிறைவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-virakesarilk-0b8c0d03)
 
 ---
 

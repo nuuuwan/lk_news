@@ -263497,5 +263497,82 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782484096.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-032f942b",
+    "num": "dailymirrorlk-032f942b",
+    "date_str": "2026-06-26",
+    "description": "Nuwanidu fights back after Jurel\u2019s Century puts India A on top",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nuwanidu-fights-back-after-Jurels-Century-puts-India-A-on-top/108-344014",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782487736.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-163fb867",
+    "num": "dailymirrorlk-163fb867",
+    "date_str": "2026-06-26",
+    "description": "Sri Lanka still believe semis within reach at T20 World Cup",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-still-believe-semis-within-reach-at-T20-World-Cup/108-344015",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782488932.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-6d3d1fb9",
+    "num": "dailymirrorlk-6d3d1fb9",
+    "date_str": "2026-06-26",
+    "description": "Fuel price relief likely as global oil prices decline: Govt.",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-price-relief-likely-as-global-oil-prices-decline-Govt/108-344016",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782489931.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-eece40c3",
+    "num": "dailymirrorlk-eece40c3",
+    "date_str": "2026-06-26",
+    "description": "Multi-vehicle collision on Southern Expressway triggers severe traffic congestion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Multi-vehicle-collision-on-Southern-Expressway-triggers-severe-traffic-congestion/108-344017",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782492095.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-434ef892",
+    "num": "dailymirrorlk-434ef892",
+    "date_str": "2026-06-26",
+    "description": "Ireland stun world champions India for historic T20 win",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ireland-stun-world-champions-India-for-historic-T20-win/108-344018",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782492235.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-tamilmirrorlk-ac99046e",
+    "num": "tamilmirrorlk-ac99046e",
+    "date_str": "2026-06-26",
+    "description": "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd 232 \u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bc1\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-232-\u0baa\u0bc7\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bb2\u0bcd/175-379138",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782492240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-74afda97",
+    "num": "dailymirrorlk-74afda97",
+    "date_str": "2026-06-26",
+    "description": "Small aircraft crashes into Beijing\u2019s tallest building",
+    "url_metadata": "https://www.dailymirror.lk/international/Small-aircraft-crashes-into-Beijings-tallest-building/107-344019",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782492423.0
   }
 ]
