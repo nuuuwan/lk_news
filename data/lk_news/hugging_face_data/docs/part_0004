@@ -255052,6 +255052,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-22-islandlk-5d569ea7",
+    "num": "islandlk-5d569ea7",
+    "date_str": "2026-06-22",
+    "description": "FCID\u2019s big catch",
+    "url_metadata": "http://island.lk/fcids-big-catch/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782148740.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-22-islandlk-0c02835d",
     "num": "islandlk-0c02835d",
     "date_str": "2026-06-22",
@@ -259386,6 +259397,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-24-islandlk-0db16985",
+    "num": "islandlk-0db16985",
+    "date_str": "2026-06-24",
+    "description": "Role of identity in the making and breaking of West Asian peace",
+    "url_metadata": "http://island.lk/role-of-identity-in-the-making-and-breaking-of-west-asian-peace/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782321540.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-islandlk-c1b59cf2",
+    "num": "islandlk-c1b59cf2",
+    "date_str": "2026-06-24",
+    "description": "Central bankers live on Short End Street; Economic planners live on Long End Street",
+    "url_metadata": "http://island.lk/central-bankers-live-on-short-end-street-economic-planners-live-on-long-end-street/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782321960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-islandlk-c3e53e99",
+    "num": "islandlk-c3e53e99",
+    "date_str": "2026-06-24",
+    "description": "A Requiem for Keir Starmer rule",
+    "url_metadata": "http://island.lk/a-requiem-for-keir-starmer-rule/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782322020.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-24-islandlk-6416f598",
     "num": "islandlk-6416f598",
     "date_str": "2026-06-24",
@@ -259438,6 +259482,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1782322680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-24-islandlk-3beef956",
+    "num": "islandlk-3beef956",
+    "date_str": "2026-06-24",
+    "description": "\u2018First major legal reset on environmental protection in 38 years\u2019",
+    "url_metadata": "http://island.lk/first-major-legal-reset-on-environmental-protection-in-38-years/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782322740.0
   },
   {
     "doc_type": "lk_news",
@@ -261993,6 +262048,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-25-islandlk-de40ca9a",
+    "num": "islandlk-de40ca9a",
+    "date_str": "2026-06-25",
+    "description": "A Rising Man",
+    "url_metadata": "http://island.lk/a-rising-man/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782408780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-islandlk-b2a4209e",
+    "num": "islandlk-b2a4209e",
+    "date_str": "2026-06-25",
+    "description": "Sri Lanka Insurance Life in Anuradhapura to assist Poson pilgrims",
+    "url_metadata": "http://island.lk/sri-lanka-insurance-life-in-anuradhapura-to-assist-poson-pilgrims-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782408900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-islandlk-2964ca6e",
+    "num": "islandlk-2964ca6e",
+    "date_str": "2026-06-25",
+    "description": "Five insights from Nepal\u2019s first billionaire",
+    "url_metadata": "http://island.lk/five-insights-from-nepals-first-billionaire/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782408960.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-25-dailymirrorlk-43bac65b",
     "num": "dailymirrorlk-43bac65b",
     "date_str": "2026-06-25",
@@ -262012,6 +262100,50 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782410261.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-islandlk-62162acf",
+    "num": "islandlk-62162acf",
+    "date_str": "2026-06-25",
+    "description": "Agrithmics powers Goomera Estate digital transformation as landmark first for Sri Lanka\u2019s state-owned plantations",
+    "url_metadata": "http://island.lk/agrithmics-powers-goomera-estate-digital-transformation-as-landmark-first-for-sri-lankas-state-owned-plantations/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782410280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-islandlk-b8cc5359",
+    "num": "islandlk-b8cc5359",
+    "date_str": "2026-06-25",
+    "description": "HNB champions women entrepreneurs as Title Sponsor of CCWE Fashion Week",
+    "url_metadata": "http://island.lk/hnb-champions-women-entrepreneurs-as-title-sponsor-of-ccwe-fashion-week/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782410340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-islandlk-ba86dda3",
+    "num": "islandlk-ba86dda3",
+    "date_str": "2026-06-25",
+    "description": "KOKO and Aitken Spence Hotels open a new era for hotel payments in Sri Lanka",
+    "url_metadata": "http://island.lk/koko-and-aitken-spence-hotels-open-a-new-era-for-hotel-payments-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782410340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-islandlk-d087a785",
+    "num": "islandlk-d087a785",
+    "date_str": "2026-06-25",
+    "description": "Institutional investors, falling oil prices help boost stock trading",
+    "url_metadata": "http://island.lk/institutional-investors-falling-oil-prices-help-boost-stock-trading/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782410340.0
   },
   {
     "doc_type": "lk_news",
@@ -262254,5 +262386,126 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1782425752.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailyftlk-91201861",
+    "num": "dailyftlk-91201861",
+    "date_str": "2026-06-26",
+    "description": "Exterminators launches MACCP X mosquito intelligence platform",
+    "url_metadata": "https://www.ft.lk/business/Exterminators-launches-MACCP-X-mosquito-intelligence-platform/34-793823",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782428988.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailyftlk-753fadef",
+    "num": "dailyftlk-753fadef",
+    "date_str": "2026-06-26",
+    "description": "Investment Forum in Toronto highlights opportunities in Sri Lanka for Canadian investors",
+    "url_metadata": "https://www.ft.lk/business/Investment-Forum-in-Toronto-highlights-opportunities-in-Sri-Lanka-for-Canadian-investors/34-793824",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782429008.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailyftlk-86cff309",
+    "num": "dailyftlk-86cff309",
+    "date_str": "2026-06-26",
+    "description": "Future of finance and accounting  will be built on trust, innovation,  and opportunity: New CIMA President",
+    "url_metadata": "https://www.ft.lk/business/Future-of-finance-and-accounting-will-be-built-on-trust-innovation-and-opportunity-New-CIMA-President/34-793825",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782429105.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailyftlk-b22c4e9a",
+    "num": "dailyftlk-b22c4e9a",
+    "date_str": "2026-06-26",
+    "description": "Chemmani mass grave: Remains rise above 400 as Govt., Oppn. agree  on need for faster forensic probe",
+    "url_metadata": "https://www.ft.lk/news/Chemmani-mass-grave-Remains-rise-above-400-as-Govt-Oppn-agree-on-need-for-faster-forensic-probe/56-793826",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782429319.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailyftlk-384a87a7",
+    "num": "dailyftlk-384a87a7",
+    "date_str": "2026-06-26",
+    "description": "India, Pakistan hold backchannel talks in Colombo",
+    "url_metadata": "https://www.ft.lk/news/India-Pakistan-hold-backchannel-talks-in-Colombo/56-793827",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782429345.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailyftlk-d9f87ea2",
+    "num": "dailyftlk-d9f87ea2",
+    "date_str": "2026-06-26",
+    "description": "Sajith calls for Singapore-style punishments for drug traffickers",
+    "url_metadata": "https://www.ft.lk/news/Sajith-calls-for-Singapore-style-punishments-for-drug-traffickers/56-793828",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782429375.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailyftlk-050c0750",
+    "num": "dailyftlk-050c0750",
+    "date_str": "2026-06-26",
+    "description": "AKD vows to scrap PTA this year, replace with targeted organised crime law",
+    "url_metadata": "https://www.ft.lk/news/AKD-vows-to-scrap-PTA-this-year-replace-with-targeted-organised-crime-law/56-793829",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782429494.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailyftlk-78d070e0",
+    "num": "dailyftlk-78d070e0",
+    "date_str": "2026-06-26",
+    "description": "Handloom is industry  of future: Deputy Minister",
+    "url_metadata": "https://www.ft.lk/business/Handloom-is-industry-of-future-Deputy-Minister/34-793830",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782430224.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailyftlk-848e0983",
+    "num": "dailyftlk-848e0983",
+    "date_str": "2026-06-26",
+    "description": "Three-decade journey: BOI Director General Renuka Weerakone bids farewell",
+    "url_metadata": "https://www.ft.lk/business/Three-decade-journey-BOI-Director-General-Renuka-Weerakone-bids-farewell/34-793831",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782430373.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailyftlk-133be2f6",
+    "num": "dailyftlk-133be2f6",
+    "date_str": "2026-06-26",
+    "description": "NCQP 2026 showcases national excellence  with 2,000+ delegates and 450+ improvement teams",
+    "url_metadata": "https://www.ft.lk/business/NCQP-2026-showcases-national-excellence-with-2-000-delegates-and-450-improvement-teams/34-793832",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782430690.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailyftlk-caeea65d",
+    "num": "dailyftlk-caeea65d",
+    "date_str": "2026-06-26",
+    "description": "IMF delegation reviews  Sri Lanka Customs progress",
+    "url_metadata": "https://www.ft.lk/business/IMF-delegation-reviews-Sri-Lanka-Customs-progress/34-793833",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782430758.0
   }
 ]

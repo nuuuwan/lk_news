@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_04:28:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_06:45:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,200** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,223** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-26**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-26-dailyftlk-408ce76e",
-    "num": "dailyftlk-408ce76e",
+    "doc_id": "2026-06-26-dailyftlk-caeea65d",
+    "num": "dailyftlk-caeea65d",
     "date_str": "2026-06-26",
-    "description": "Will Elon Musk\u2019s trillion-dollar leadership playbook survive the future?",
-    "url_metadata": "https://www.ft.lk/columns/Will-Elon-Musk-s-trillion-dollar-leadership-playbook-survive-the-future/4-793809",
+    "description": "IMF delegation reviews  Sri Lanka Customs progress",
+    "url_metadata": "https://www.ft.lk/business/IMF-delegation-reviews-Sri-Lanka-Customs-progress/34-793833",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1782425752.0
+    "time_ut": 1782430758.0
 }
 ```
 
@@ -41,6 +41,17 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-26 | `dailyftlk-caeea65d` | IMF delegation reviews  Sri Lanka Customs progress | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-caeea65d)
+- 2026-06-26 | `dailyftlk-133be2f6` | NCQP 2026 showcases national excellence  with 2,000+ delegates and 450+ improvement teams | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-133be2f6)
+- 2026-06-26 | `dailyftlk-848e0983` | Three-decade journey: BOI Director General Renuka Weerakone bids farewell | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-848e0983)
+- 2026-06-26 | `dailyftlk-78d070e0` | Handloom is industry  of future: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-78d070e0)
+- 2026-06-26 | `dailyftlk-050c0750` | AKD vows to scrap PTA this year, replace with targeted organised crime law | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-050c0750)
+- 2026-06-26 | `dailyftlk-d9f87ea2` | Sajith calls for Singapore-style punishments for drug traffickers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-d9f87ea2)
+- 2026-06-26 | `dailyftlk-384a87a7` | India, Pakistan hold backchannel talks in Colombo | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-384a87a7)
+- 2026-06-26 | `dailyftlk-b22c4e9a` | Chemmani mass grave: Remains rise above 400 as Govt., Oppn. agree  on need for faster forensic probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-b22c4e9a)
+- 2026-06-26 | `dailyftlk-86cff309` | Future of finance and accounting  will be built on trust, innovation,  and opportunity: New CIMA President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-86cff309)
+- 2026-06-26 | `dailyftlk-753fadef` | Investment Forum in Toronto highlights opportunities in Sri Lanka for Canadian investors | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-753fadef)
+- 2026-06-26 | `dailyftlk-91201861` | Exterminators launches MACCP X mosquito intelligence platform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-91201861)
 - 2026-06-26 | `dailyftlk-408ce76e` | Will Elon Musk’s trillion-dollar leadership playbook survive the future? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-408ce76e)
 - 2026-06-26 | `dailyftlk-ef66da2b` | Peasants in revolt: A step towards a new mode of agriculture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-ef66da2b)
 - 2026-06-26 | `dailyftlk-e39d79bb` | Entrepreneurship for a greener future: Tackling environmental challenges and sustainability | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailyftlk-e39d79bb)
@@ -50,17 +61,6 @@ A collection of lk_news documents.
 - 2026-06-26 | `dailymirrorlk-fdd9be9a` | LVL Energy Fund fined by CSE for delayed market disclosures | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-fdd9be9a)
 - 2026-06-26 | `dailymirrorlk-5b368b3e` | BOI DG Renuka Weerakone retires after 32 years of service | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-5b368b3e)
 - 2026-06-26 | `dailymirrorlk-27d600f1` | Arpico Insurance revises FY25 profit down 97% after actuarial adjustment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-27d600f1)
-- 2026-06-26 | `dailymirrorlk-69c671c2` | Central Bank submits report to COPF on missing US$ 2.5 million | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-69c671c2)
-- 2026-06-26 | `dailymirrorlk-d0b926bd` | Mixed sentiment continues to prevail in the secondary market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-d0b926bd)
-- 2026-06-26 | `dailymirrorlk-821a32a1` | Indices close in green | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-821a32a1)
-- 2026-06-26 | `dailymirrorlk-09052354` | Lanka IOC to map green transition with EV charging facilities across all 273 retail outlets | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-09052354)
-- 2026-06-26 | `dailymirrorlk-c3c519c6` | Teejay navigates industry headwinds with financial strength and strategic focus | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-c3c519c6)
-- 2026-06-26 | `dailymirrorlk-129418d4` | Hayleys Mobility expands presence in Anuradhapura | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-129418d4)
-- 2026-06-26 | `dailymirrorlk-c12118a9` | AIA Sri Lanka unveils iSMART+ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-c12118a9)
-- 2026-06-26 | `dailymirrorlk-8cbc2f89` | Build Beyond 2026 Technology Summit Tokyo Cement inspires future-ready construction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-8cbc2f89)
-- 2026-06-25 | `dailymirrorlk-1341293b` | Seylan Bank enables Google Pay for Mastercard cardholders in  Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-1341293b)
-- 2026-06-25 | `dailymirrorlk-22439bc3` | EDB opens applications for Manila market exposure programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-22439bc3)
-- 2026-06-25 | `dailymirrorlk-fb391f8d` | Redington-IBM host Innovation Forum Sri Lanka 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-25-dailymirrorlk-fb391f8d)
 
 ---
 
