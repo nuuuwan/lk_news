@@ -262774,6 +262774,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-26-adalk-abf9fb18",
+    "num": "adalk-abf9fb18",
+    "date_str": "2026-06-26",
+    "description": "\u0db7\u0dde\u0dad \u0da0\u0dd2\u0d9a\u0dd2\u0dad\u0dca\u0dc3\u0d9a\u0dc0\u0dbb\u0dd2\u0dba \u0d9d\u0dcf\u0dad\u0db1\u0dba\u0dda \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0da7 \u0dc3\u0dc4\u0dcf\u0dba \u0daf\u0dd4\u0db1\u0dca \u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca \u0db4\u0dbb\u0dd2\u0d9a\u0dca\u0dc2\u0d9a \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db7\u0dde\u0dad-\u0da0\u0dd2\u0d9a\u0dd2\u0dad\u0dca\u0dc3\u0d9a\u0dc0\u0dbb\u0dd2\u0dba-\u0d9d\u0dcf\u0dad\u0db1\u0dba\u0dda-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0da7-\u0dc3\u0dc4\u0dcf\u0dba-\u0daf\u0dd4\u0db1\u0dca-\u0db4\u0ddc\u0dbd\u0dd2\u0dc3\u0dca-\u0db4\u0dbb\u0dd2\u0d9a\u0dca\u0dc2\u0d9a-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-423008",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782454261.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-26-tamilmirrorlk-04f08bdb",
     "num": "tamilmirrorlk-04f08bdb",
     "date_str": "2026-06-26",
@@ -262815,6 +262826,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782454953.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-adalk-cd1ce264",
+    "num": "adalk-cd1ce264",
+    "date_str": "2026-06-26",
+    "description": "\u0dc4\u0dd2\u0d9f \u0db6\u0daf\u0dd4 \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0dbb\u0dd4.\u0da7\u0dca\u200d\u0dbb\u0dd2. 2.1\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc4\u0dd2\u0d9f-\u0db6\u0daf\u0dd4-\u0d86\u0daf\u0dcf\u0dba\u0db8-\u0dbb\u0dd4-\u0da7\u0dca\u200d\u0dbb\u0dd2--2-1\u0dba\u0dd2/11-423010",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782455054.0
   },
   {
     "doc_type": "lk_news",
@@ -262870,5 +262892,93 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782459417.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-tamilmirrorlk-2aa4df64",
+    "num": "tamilmirrorlk-2aa4df64",
+    "date_str": "2026-06-26",
+    "description": "\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd \u0ba4\u0b9f\u0bc1\u0bae\u0bbe\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0ba3\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0baa\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bbf\u0bb2\u0bcd-\u0ba4\u0b9f\u0bc1\u0bae\u0bbe\u0bb1\u0bc1\u0bae\u0bcd-\u0b85\u0ba3\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0baa\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd/44-379118",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782461280.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-6be6eb30",
+    "num": "dailymirrorlk-6be6eb30",
+    "date_str": "2026-06-26",
+    "description": "SJB suspends Horana Organiser Charith Abeysinghe following bribery arrest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SJB-suspends-Horana-Organiser-Charith-Abeysinghe-following-bribery-arrest/108-343998",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782461361.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-e059da18",
+    "num": "dailymirrorlk-e059da18",
+    "date_str": "2026-06-26",
+    "description": "Dayasiri, Kumara Jayakody stage showdown in Parliament",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dayasiri-Kumara-Jayakody-stage-showdown-in-Parliament/108-343999",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782462458.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-84225691",
+    "num": "dailymirrorlk-84225691",
+    "date_str": "2026-06-26",
+    "description": "Large rooftop solar owners asked to disconnect from grid during Poson",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Large-rooftop-solar-owners-asked-to-disconnect-from-grid-during-Poson/108-344001",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782463599.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-d85d5385",
+    "num": "dailymirrorlk-d85d5385",
+    "date_str": "2026-06-26",
+    "description": "SLTB to receive 600 new buses by year-end",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLTB-to-receive-600-new-buses-by-year-end/108-344002",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782464273.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-tamilmirrorlk-eef3651d",
+    "num": "tamilmirrorlk-eef3651d",
+    "date_str": "2026-06-26",
+    "description": "\u0b90. \u0bae. \u0b9a \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf: \u0b85\u0baa\u0bc7\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bc8 \u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0bae-\u0b9a-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0b85\u0baa\u0bc7\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0bb5\u0bc8-\u0b87\u0b9f\u0bc8\u0ba8\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0ba4\u0bc1/175-379120",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782464813.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-tamilmirrorlk-3d61e242",
+    "num": "tamilmirrorlk-3d61e242",
+    "date_str": "2026-06-26",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd:  \u0b85\u0b9f\u0bcd\u0b9f\u0bae\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1;  \u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0ba4\u0bc1\u0bb7\u0bcd\u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd-\u0b85\u0b9f\u0bcd\u0b9f\u0bae\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0ba3\u0bcd\u0b95\u0bbe\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8/175-379121",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782465292.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-f089ad48",
+    "num": "dailymirrorlk-f089ad48",
+    "date_str": "2026-06-26",
+    "description": "King Charles III will not live at Buckingham Palace after refurbishment completion",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/King-Charles-III-will-not-live-at-Buckingham-Palace-after-refurbishment-completion/108-344003",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782465744.0
   }
 ]
