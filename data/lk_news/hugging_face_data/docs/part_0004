@@ -262554,6 +262554,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-26-adalk-a17d7308",
+    "num": "adalk-a17d7308",
+    "date_str": "2026-06-26",
+    "description": "\u0db4\u0daf\u0dca\u0db8\u0dda\u0d9c\u0dda \u0dc0\u0dd9\u0da9\u0dd2\u0d9a\u0dca\u0d9a\u0dbb\u0dd4\u0dad\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0daf\u0dca\u0db8\u0dda\u0d9c\u0dda-\u0dc0\u0dd9\u0da9\u0dd2\u0d9a\u0dca\u0d9a\u0dbb\u0dd4\u0dad\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-423004",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782440956.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-26-tamilmirrorlk-a5f2b9fa",
     "num": "tamilmirrorlk-a5f2b9fa",
     "date_str": "2026-06-26",
@@ -262598,6 +262609,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-de61d9a6",
+    "num": "dailymirrorlk-de61d9a6",
+    "date_str": "2026-06-26",
+    "description": "Chief Inspector arrested over death of female physiotherapist",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Chief-Inspector-arrested-over-death-of-female-physiotherapist/108-343960",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782446392.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-26-dailymirrorlk-59f06235",
     "num": "dailymirrorlk-59f06235",
     "date_str": "2026-06-26",
@@ -262628,6 +262650,28 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782448449.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-d3775067",
+    "num": "dailymirrorlk-d3775067",
+    "date_str": "2026-06-26",
+    "description": "Country loses US $ 1 billion in fraudulent transactions, certain banks involved",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Country-loses-US-1-billion-in-fraudulent-transactions-certain-banks-involved/108-343976",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782448636.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-ebfdad2e",
+    "num": "dailymirrorlk-ebfdad2e",
+    "date_str": "2026-06-26",
+    "description": "Afghanistan\u2019s Taliban government imposes smartphone ban on government officials",
+    "url_metadata": "https://www.dailymirror.lk/international/Afghanistans-Taliban-government-imposes-smartphone-ban-on-government-officials/107-343977",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782448987.0
   },
   {
     "doc_type": "lk_news",
@@ -262672,5 +262716,159 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782452492.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-adalk-d3eab385",
+    "num": "adalk-d3eab385",
+    "date_str": "2026-06-26",
+    "description": "\u0db6\u0dd0\u0da7\u0dbb\u0dd2 \u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d9c\u0db6\u0da9\u0dcf \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2 \u0dc4\u0dad\u0d9a\u0dca \u0d9a\u0ddc\u0dc5\u0db9 \u0dc0\u0dbb\u0dcf\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dd0\u0da7\u0dbb\u0dd2-\u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2-\u0d9c\u0db6\u0da9\u0dcf-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2-\u0dc4\u0dad\u0d9a\u0dca-\u0d9a\u0ddc\u0dc5\u0db9-\u0dc0\u0dbb\u0dcf\u0dba\u0da7/11-423005",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782453359.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-tamilmirrorlk-fcbf851a",
+    "num": "tamilmirrorlk-fcbf851a",
+    "date_str": "2026-06-26",
+    "description": "\u0b9a\u0bbf\u0ba9\u0bc8 \u0baf\u0bbe\u0ba9\u0bc8 \u0baa\u0bb2\u0bbf : \u0bae\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0ba9\u0bc8-\u0baf\u0bbe\u0ba9\u0bc8-\u0baa\u0bb2\u0bbf-\u0bae\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95\u0bae\u0bcd/175-379110",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782453733.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-adalk-015e5667",
+    "num": "adalk-015e5667",
+    "date_str": "2026-06-26",
+    "description": "\u0db8\u0dc3\u0dca\u0d9a\u0dca\u0d9c\u0dd9\u0db1\u0dca \u0da7\u0dca\u200d\u0dbb\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0db4\u0dad\u0dd2 \u0dbd\u0dda\u0db6\u0dbd\u0dba \u0d9c\u0dd0\u0dbd\u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/technology/\u0db8\u0dc3\u0dca\u0d9a\u0dca\u0d9c\u0dd9\u0db1\u0dca-\u0da7\u0dca\u200d\u0dbb\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0db4\u0dad\u0dd2-\u0dbd\u0dda\u0db6\u0dbd\u0dba-\u0d9c\u0dd0\u0dbd\u0dc0\u0dd9\u0dba\u0dd2/5-423006",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782453803.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-47310cea",
+    "num": "dailymirrorlk-47310cea",
+    "date_str": "2026-06-26",
+    "description": "Seven more battery energy storage systems arrive at Colombo Port",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Seven-more-battery-energy-storage-systems-arrive-at-Colombo-Port/108-343983",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782453985.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-adalk-135effd6",
+    "num": "adalk-135effd6",
+    "date_str": "2026-06-26",
+    "description": "\u0d91\u0da2\u0dcf \u0db1\u0dca\u200d\u0dba\u0dc2\u0dca\u0da7\u0dd2\u0d9a \u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0d9a\u0dba\u0dd2\u0db1\u0dca \u0d89\u0dbb\u0dcf\u0db1\u0dba\u0da7 \u0dba\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d91\u0da2\u0dcf-\u0db1\u0dca\u200d\u0dba\u0dc2\u0dca\u0da7\u0dd2\u0d9a-\u0dc0\u0dd2\u0db8\u0dbb\u0dca\u0dc1\u0d9a\u0dba\u0dd2\u0db1\u0dca-\u0d89\u0dbb\u0dcf\u0db1\u0dba\u0da7-\u0dba\u0db1\u0dc0\u0dcf/11-423007",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782454094.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-tamilmirrorlk-04f08bdb",
+    "num": "tamilmirrorlk-04f08bdb",
+    "date_str": "2026-06-26",
+    "description": "\u0bb5\u0bc6\u0ba9\u0bbf\u0b9a\u0bc1\u0bb2\u0bbe \u0ba8\u0bbf\u0bb2\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd: 235 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf; 4,300-\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0ba9\u0bbf\u0b9a\u0bc1\u0bb2\u0bbe-\u0ba8\u0bbf\u0bb2\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-235-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf-4-300-\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/50-379111",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782454412.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-beedf974",
+    "num": "dailymirrorlk-beedf974",
+    "date_str": "2026-06-26",
+    "description": "Anti-drug awareness march in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Anti-drug-awareness-march-in-Colombo/110-343988",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782454572.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-adalk-3f168607",
+    "num": "adalk-3f168607",
+    "date_str": "2026-06-26",
+    "description": "\u0daf\u0dd2\u0dad\u0dca\u0dc0\u0dcf \u0d85\u0dc0\u0dad\u0dd0\u0db1\u0dca\u0dc0\u0dd6\u0dc0\u0db1\u0dca \u0daf\u0dd9\u0db1\u0dca\u0db1 \u0daf\u0dd4\u0db1\u0dca \u0d86\u0db0\u0dcf\u0dbb \u0d8b\u0da9\u0db4\u0dc5\u0dcf\u0dad \u0db4\u0dca\u200d\u0dbb\u0dcf \u0dbd\u0dda\u0d9a\u0db8\u0dca\u0dc0\u0dbb\u0dd2\u0dba \u0d9c\u0db6\u0da9\u0dcf \u0d9a\u0dcf\u0db8\u0dbb\u0dc0\u0dbd \u0d9c\u0ddc\u0da9 \u0d9c\u0dc4\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0daf\u0dd2\u0dad\u0dca\u0dc0\u0dcf-\u0d85\u0dc0\u0dad\u0dd0\u0db1\u0dca\u0dc0\u0dd6\u0dc0\u0db1\u0dca-\u0daf\u0dd9\u0db1\u0dca\u0db1-\u0daf\u0dd4\u0db1\u0dca-\u0d86\u0db0\u0dcf\u0dbb-\u0d8b\u0da9\u0db4\u0dc5\u0dcf\u0dad-\u0db4\u0dca\u200d\u0dbb\u0dcf-\u0dbd\u0dda\u0d9a\u0db8\u0dca\u0dc0\u0dbb\u0dd2\u0dba-\u0d9c\u0db6\u0da9\u0dcf-\u0d9a\u0dcf\u0db8\u0dbb\u0dc0\u0dbd-\u0d9c\u0ddc\u0da9-\u0d9c\u0dc4\u0dbd\u0dcf/10-423009",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782454841.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-bc72d241",
+    "num": "dailymirrorlk-bc72d241",
+    "date_str": "2026-06-26",
+    "description": "President doesn't answer MPs\u2019 phone calls: Dayasiri",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-doesn-t-answer-MPs-phone-calls-Dayasiri/108-343990",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782454953.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-68f4bdb6",
+    "num": "dailymirrorlk-68f4bdb6",
+    "date_str": "2026-06-26",
+    "description": "Opposition MPs sign motion on judicial appointments delay",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Opposition-MPs-sign-motion-on-judicial-appointments-delay/108-343992",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782455177.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-6dfc4da2",
+    "num": "dailymirrorlk-6dfc4da2",
+    "date_str": "2026-06-26",
+    "description": "Warning over power bank fire risk on flights as summer holidays begin",
+    "url_metadata": "https://www.dailymirror.lk/international/Warning-over-power-bank-fire-risk-on-flights-as-summer-holidays-begin/107-343993",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782455846.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-c4797ae8",
+    "num": "dailymirrorlk-c4797ae8",
+    "date_str": "2026-06-26",
+    "description": "Saudi Aramco resumes oil loading at Ras Tanura after 4-month halt",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Saudi-Aramco-resumes-oil-loading-at-Ras-Tanura-after-4-month-halt/108-343995",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782457518.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-tamilmirrorlk-54662962",
+    "num": "tamilmirrorlk-54662962",
+    "date_str": "2026-06-26",
+    "description": "\u0bae\u0bb4\u0bc8 \u0b87\u0ba9\u0bcd\u0bb1\u0bbf \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bc6\u0ba9 \u0b95\u0bb2\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0bb0\u0bbe\u0bb5\u0ba3 \u0b8e\u0bb2\u0bcd\u0bb2 \u0ba8\u0bc0\u0bb0\u0bcd\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bae\u0bb4\u0bc8-\u0b87\u0ba9\u0bcd\u0bb1\u0bbf-\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bc6\u0ba9-\u0b95\u0bb2\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0bb0\u0bbe\u0bb5\u0ba3-\u0b8e\u0bb2\u0bcd\u0bb2-\u0ba8\u0bc0\u0bb0\u0bcd\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf/76-379112",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782457518.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-581d7583",
+    "num": "dailymirrorlk-581d7583",
+    "date_str": "2026-06-26",
+    "description": "Confiscated narcotics to be destroyed in Puttalam tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Confiscated-narcotics-to-be-destroyed-in-Puttalam-tomorrow/108-343997",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782459417.0
   }
 ]
