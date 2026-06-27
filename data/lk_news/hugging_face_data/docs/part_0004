@@ -263599,6 +263599,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-26-islandlk-0ea0537e",
+    "num": "islandlk-0ea0537e",
+    "date_str": "2026-06-26",
+    "description": "MullenLowe\u2019s Praveena Perera becomes first Sri Lankan woman named to Campaign APAC\u2019s 40 Under 40",
+    "url_metadata": "http://island.lk/mullenlowes-praveena-perera-becomes-first-sri-lankan-woman-named-to-campaign-apacs-40-under-40/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782486540.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-26-islandlk-7711ba3a",
     "num": "islandlk-7711ba3a",
     "date_str": "2026-06-26",
@@ -264663,5 +264674,27 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782551276.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-2e0e6719",
+    "num": "dailymirrorlk-2e0e6719",
+    "date_str": "2026-06-27",
+    "description": "Nearly 1,000 cancer patients at risk over CT Simulation delay",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Nearly-1-000-cancer-patients-at-risk-over-CT-Simulation-delay/108-344092",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782553253.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-5ae24ec8",
+    "num": "dailymirrorlk-5ae24ec8",
+    "date_str": "2026-06-27",
+    "description": "LAWASIA urges Sri Lanka to halt judicial retirement age amendment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAWASIA-urges-Sri-Lanka-to-halt-judicial-retirement-age-amendment/108-344093",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782556948.0
   }
 ]

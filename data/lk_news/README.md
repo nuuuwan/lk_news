@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--27_14:50:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--27_16:29:07-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,419** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,422** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-27-dailymirrorlk-c4ac48ed",
-    "num": "dailymirrorlk-c4ac48ed",
+    "doc_id": "2026-06-27-dailymirrorlk-5ae24ec8",
+    "num": "dailymirrorlk-5ae24ec8",
     "date_str": "2026-06-27",
-    "description": "Environment Ministry launches WhatsApp service for complaints",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Environment-Ministry-launches-WhatsApp-service-for-complaints/108-344091",
+    "description": "LAWASIA urges Sri Lanka to halt judicial retirement age amendment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAWASIA-urges-Sri-Lanka-to-halt-judicial-retirement-age-amendment/108-344093",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782551276.0
+    "time_ut": 1782556948.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-27 | `dailymirrorlk-5ae24ec8` | LAWASIA urges Sri Lanka to halt judicial retirement age amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-5ae24ec8)
+- 2026-06-27 | `dailymirrorlk-2e0e6719` | Nearly 1,000 cancer patients at risk over CT Simulation delay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-2e0e6719)
 - 2026-06-27 | `dailymirrorlk-c4ac48ed` | Environment Ministry launches WhatsApp service for complaints | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-c4ac48ed)
 - 2026-06-27 | `virakesarilk-6cd299a1` | போலி கடவுச்சீட்டு விவகாரம் : ஜனாதிபதி செயலக சிரேஷ்ட உதவிச் செயலாளருக்கு விளக்கமறியல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-6cd299a1)
 - 2026-06-27 | `virakesarilk-998c7239` | கே.பாக்யராஜின் உடலுக்கு தமிழக முதலமைச்சர் விஜய் அஞ்சலி! - இறுதிச் சடங்கில் அரச மரியாதை செலுத்தப்படும் என்றும் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-998c7239)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-06-27 | `dailymirrorlk-73e48662` | Sri Lanka is the world’s top trending wellness destination for 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-73e48662)
 - 2026-06-27 | `virakesarilk-112d52e8` | பீஜிங் நகரின் மிக உயரமான கட்டடத்தின் மீது சிறிய விமானம் மோதி விபத்து! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-112d52e8)
 - 2026-06-27 | `dailymirrorlk-eb44f81a` | Youth unemployment declines: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-eb44f81a)
-- 2026-06-27 | `dailymirrorlk-3db5b6f0` | Veteran Tamil filmmaker, writer K Bhagyaraj dies at 73 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-3db5b6f0)
-- 2026-06-27 | `virakesarilk-e8b932e9` | நீதிமன்ற வழக்குகள் நிறைவடைந்ததால் கைப்பற்றப்பட்ட பெருந்தொகை போதைப்பொருட்களை இன்று தீயிட்டு அழிக்க நடவடிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-e8b932e9)
 
 ---
 
