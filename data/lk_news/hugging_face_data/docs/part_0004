@@ -257472,6 +257472,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-23-islandlk-d5640f4f",
+    "num": "islandlk-d5640f4f",
+    "date_str": "2026-06-23",
+    "description": "Democratic rights crushed under a juggernaut",
+    "url_metadata": "http://island.lk/democratic-rights-crushed-under-a-juggernaut/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782233700.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-23-islandlk-05c59c7c",
     "num": "islandlk-05c59c7c",
     "date_str": "2026-06-23",
@@ -262092,6 +262103,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-25-islandlk-7fe3fb6d",
+    "num": "islandlk-7fe3fb6d",
+    "date_str": "2026-06-25",
+    "description": "Fairfirst celebrates 7 years of supporting the Sri Lanka Police K9 Unit",
+    "url_metadata": "http://island.lk/fairfirst-celebrates-7-years-of-supporting-the-sri-lanka-police-k9-unit/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782408960.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-25-dailymirrorlk-43bac65b",
     "num": "dailymirrorlk-43bac65b",
     "date_str": "2026-06-25",
@@ -262166,6 +262188,28 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782410384.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-islandlk-5b10b1d8",
+    "num": "islandlk-5b10b1d8",
+    "date_str": "2026-06-25",
+    "description": "Teejay Group navigates industry headwinds with financial strength and strategic focus",
+    "url_metadata": "http://island.lk/teejay-group-navigates-industry-headwinds-with-financial-strength-and-strategic-focus/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782410400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-25-islandlk-b8f7e805",
+    "num": "islandlk-b8f7e805",
+    "date_str": "2026-06-25",
+    "description": "Constituent Change in the S&P Sri Lanka 20 Index",
+    "url_metadata": "http://island.lk/constituent-change-in-the-sp-sri-lanka-20-index-5/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782410400.0
   },
   {
     "doc_type": "lk_news",
@@ -263500,6 +263544,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-26-islandlk-7711ba3a",
+    "num": "islandlk-7711ba3a",
+    "date_str": "2026-06-26",
+    "description": "Ceylon Chamber re-elects\u00a0Chairperson Krishan Balendra at 187th AGM",
+    "url_metadata": "http://island.lk/ceylon-chamber-re-elects-chairperson-krishan-balendra-at-187th-agm/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782487140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-islandlk-80b9a7c2",
+    "num": "islandlk-80b9a7c2",
+    "date_str": "2026-06-26",
+    "description": "\u2018Go Anywhere, Get Anything\u2019: Uber arrives in Sri Lanka\u2019s gem capital",
+    "url_metadata": "http://island.lk/go-anywhere-get-anything-uber-arrives-in-sri-lankas-gem-capital/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782487140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-islandlk-d08e8aea",
+    "num": "islandlk-d08e8aea",
+    "date_str": "2026-06-26",
+    "description": "Janashakthi Life breaks into Top Five Most Loved Life Insurance Brands in the industry",
+    "url_metadata": "http://island.lk/janashakthi-life-breaks-into-top-five-most-loved-life-insurance-brands-in-the-industry/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782487200.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-26-dailymirrorlk-032f942b",
     "num": "dailymirrorlk-032f942b",
     "date_str": "2026-06-26",
@@ -263706,5 +263783,16 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1782512930.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailyftlk-8b02536d",
+    "num": "dailyftlk-8b02536d",
+    "date_str": "2026-06-27",
+    "description": "SAARC SG Sarwar calls for renewed engagement to reignite SAARC",
+    "url_metadata": "https://www.ft.lk/news/SAARC-SG-Sarwar-calls-for-renewed-engagement-to-reignite-SAARC/56-793905",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782514842.0
   }
 ]

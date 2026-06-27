@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--27_04:21:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--27_06:45:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,332** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,340** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-27-dailyftlk-7f9f08ae",
-    "num": "dailyftlk-7f9f08ae",
+    "doc_id": "2026-06-27-dailyftlk-8b02536d",
+    "num": "dailyftlk-8b02536d",
     "date_str": "2026-06-27",
-    "description": "UN Peacebuilding Week highlights role of inclusive public service in building peace",
-    "url_metadata": "https://www.ft.lk/news/UN-Peacebuilding-Week-highlights-role-of-inclusive-public-service-in-building-peace/56-793902",
+    "description": "SAARC SG Sarwar calls for renewed engagement to reignite SAARC",
+    "url_metadata": "https://www.ft.lk/news/SAARC-SG-Sarwar-calls-for-renewed-engagement-to-reignite-SAARC/56-793905",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1782512930.0
+    "time_ut": 1782514842.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-27 | `dailyftlk-8b02536d` | SAARC SG Sarwar calls for renewed engagement to reignite SAARC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailyftlk-8b02536d)
 - 2026-06-27 | `dailyftlk-7f9f08ae` | UN Peacebuilding Week highlights role of inclusive public service in building peace | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailyftlk-7f9f08ae)
 - 2026-06-27 | `dailymirrorlk-abf1f1d5` | Sri Lanka edge Scotland as Athapaththu keeps semi-final hopes alive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-abf1f1d5)
 - 2026-06-27 | `dailyftlk-809fd16d` | The slow train to the more sustainable fast track is back | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailyftlk-809fd16d)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-06-26 | `dailymirrorlk-6d3d1fb9` | Fuel price relief likely as global oil prices decline: Govt. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-6d3d1fb9)
 - 2026-06-26 | `dailymirrorlk-163fb867` | Sri Lanka still believe semis within reach at T20 World Cup | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-163fb867)
 - 2026-06-26 | `dailymirrorlk-032f942b` | Nuwanidu fights back after Jurel’s Century puts India A on top | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-032f942b)
-- 2026-06-26 | `dailymirrorlk-008e1408` | Sri Lanka Cricket set for final strike | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-26-dailymirrorlk-008e1408)
 
 ---
 
