@@ -264160,6 +264160,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-27-adalk-25a3e1a7",
+    "num": "adalk-25a3e1a7",
+    "date_str": "2026-06-27",
+    "description": "\u0d9a\u0ddc\u0dc5\u0db9\u00a0\u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd \u0dbd\u0d82\u0d9c\u0db8 \u0db6\u0dc3\u0dca \u0dbb\u0dd2\u0dba \u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba \u0db8\u0d9c\u0dda \u0db4\u0dd9\u0dbb\u0dc5\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc5\u0db9\u00a0\u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd-\u0dbd\u0d82\u0d9c\u0db8-\u0db6\u0dc3\u0dca-\u0dbb\u0dd2\u0dba-\u0daf\u0dd4\u0db8\u0dca\u0dbb\u0dd2\u0dba-\u0db8\u0d9c\u0dda-\u0db4\u0dd9\u0dbb\u0dc5\u0dd9\u0dba\u0dd2/11-423016",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782528312.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-27-dailymirrorlk-cd06ef26",
     "num": "dailymirrorlk-cd06ef26",
     "date_str": "2026-06-27",
@@ -264171,6 +264182,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-27-adalk-6a54ce4c",
+    "num": "adalk-6a54ce4c",
+    "date_str": "2026-06-27",
+    "description": "\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0d89\u0dbb\u0dcf\u0db1\u0dba\u0da7 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/international/\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0d89\u0dbb\u0dcf\u0db1\u0dba\u0da7-\u0db4\u0dca\u200d\u0dbb\u0dc4\u0dcf\u0dbb\u0dba\u0d9a\u0dca/3-423017",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782530007.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-27-dailymirrorlk-aaa42b10",
     "num": "dailymirrorlk-aaa42b10",
     "date_str": "2026-06-27",
@@ -264179,5 +264201,93 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782530124.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-79eacfd0",
+    "num": "dailymirrorlk-79eacfd0",
+    "date_str": "2026-06-27",
+    "description": "Venezuela earthquakes kill 920 people as families desperate for news",
+    "url_metadata": "https://www.dailymirror.lk/international/Venezuela-earthquakes-kill-920-people-as-families-desperate-for-news/107-344058",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782531795.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-tamilmirrorlk-153dfc90",
+    "num": "tamilmirrorlk-153dfc90",
+    "date_str": "2026-06-27",
+    "description": "\u0baa\u0bc0\u0b83\u0baa\u0bbe \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc7\u0baf\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0baa\u0bc0\u0b83\u0baa\u0bbe-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc7\u0baf\u0bc8-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd/44-379144",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782531988.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-1f93c80a",
+    "num": "dailymirrorlk-1f93c80a",
+    "date_str": "2026-06-27",
+    "description": "Trump threatens 100% tariff on European nations over tech tax",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-threatens-100-tariff-on-European-nations-over-tech-tax/108-344059",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782533143.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-tamilmirrorlk-f31b60b1",
+    "num": "tamilmirrorlk-f31b60b1",
+    "date_str": "2026-06-27",
+    "description": "\u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc8 \u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4 \u0b9a\u0bc6\u0ba9\u0b95\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1-\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc8-\u0b89\u0baf\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0ba9\u0b95\u0bb2\u0bcd/44-379145",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782534519.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-107c2032",
+    "num": "dailymirrorlk-107c2032",
+    "date_str": "2026-06-27",
+    "description": "President\u2019s US$ 1 billion loss claim: COPF to inquire from Central Bank officials",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Presidents-US-1-billion-loss-claim-COPF-to-inquire-from-Central-Bank-officials/108-344060",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782534570.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-db788cde",
+    "num": "dailymirrorlk-db788cde",
+    "date_str": "2026-06-27",
+    "description": "Dembele\u2019s 32-minute Hat-Trick writes World Cup history",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dembeles-32-minute-Hat-Trick-writes-World-Cup-history/108-344061",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782534820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-tamilmirrorlk-a7162cb2",
+    "num": "tamilmirrorlk-a7162cb2",
+    "date_str": "2026-06-27",
+    "description": "42 \u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd 20 \u0b85\u0b9f\u0bbf \u0baa\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4 \u0b87.\u0baa\u0bcb.\u0b9a \u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/42-\u0baa\u0baf\u0ba3\u0bbf\u0b95\u0bb3\u0bc1\u0b9f\u0ba9\u0bcd-20-\u0b85\u0b9f\u0bbf-\u0baa\u0bb3\u0bcd\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0baa\u0bbe\u0baf\u0bcd\u0ba8\u0bcd\u0ba4-\u0b87-\u0baa\u0bcb-\u0b9a-\u0baa\u0bc7\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1/175-379146",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782535159.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-tamilmirrorlk-852819b1",
+    "num": "tamilmirrorlk-852819b1",
+    "date_str": "2026-06-27",
+    "description": "\u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0b9f\u0bbf\u0b95\u0bb0\u0bc1\u0bae\u0bbe\u0ba9 \u0baa\u0bbe\u0b95\u0bcd\u0baf\u0bb0\u0bbe\u0b9c\u0bcd \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0ba8\u0bb0\u0bc1\u0bae\u0bcd-\u0ba8\u0b9f\u0bbf\u0b95\u0bb0\u0bc1\u0bae\u0bbe\u0ba9-\u0baa\u0bbe\u0b95\u0bcd\u0baf\u0bb0\u0bbe\u0b9c\u0bcd-\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/175-379147",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782535473.0
   }
 ]
