@@ -264289,5 +264289,49 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782535473.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-47b3eecd",
+    "num": "dailymirrorlk-47b3eecd",
+    "date_str": "2026-06-27",
+    "description": "Hermi unveils 400km EVs",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Hermi-unveils-400km-EVs/110-344084",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782541030.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-3db5b6f0",
+    "num": "dailymirrorlk-3db5b6f0",
+    "date_str": "2026-06-27",
+    "description": "Veteran Tamil filmmaker, writer K Bhagyaraj dies at 73",
+    "url_metadata": "https://www.dailymirror.lk/international/Veteran-Tamil-filmmaker-writer-K-Bhagyaraj-dies-at-73/107-344085",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782542921.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-eb44f81a",
+    "num": "dailymirrorlk-eb44f81a",
+    "date_str": "2026-06-27",
+    "description": "Youth unemployment declines: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Youth-unemployment-declines-Deputy-Minister/108-344086",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782543016.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-73e48662",
+    "num": "dailymirrorlk-73e48662",
+    "date_str": "2026-06-27",
+    "description": "Sri Lanka is the world\u2019s top trending wellness destination for 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-is-the-worlds-top-trending-wellness-destination-for-2026/108-344087",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782543984.0
   }
 ]
