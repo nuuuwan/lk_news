@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--27_22:13:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--28_00:17:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,458** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,462** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-27-dailymirrorlk-41a2beee",
-    "num": "dailymirrorlk-41a2beee",
+    "doc_id": "2026-06-27-virakesarilk-b6c55b35",
+    "num": "virakesarilk-b6c55b35",
     "date_str": "2026-06-27",
-    "description": "Dr. Chandika Epitakaduwa elected new GMOA president",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dr-Chandika-Epitakaduwa-elected-new-GMOA-president/108-344102",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782578029.0
+    "description": "\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd 6.2 \u0bb0\u0bbf\u0b95\u0bcd\u0b9f\u0bb0\u0bcd \u0b85\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd; \u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf, \u0b95\u0bbe\u0bb7\u0bcd\u0bae\u0bc0\u0bb0\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0bb5\u0bc1 \u0b89\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/251345",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1782583140.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-27 | `virakesarilk-b6c55b35` | ஆப்கானிஸ்தானில் 6.2 ரிக்டர் அளவில் நிலநடுக்கம்; டெல்லி, காஷ்மீரிலும் அதிர்வு உணர்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-b6c55b35)
+- 2026-06-27 | `dailymirrorlk-dcf12510` | Sri Lanka out of Women’s T20 World Cup despite Ireland’s stunning victory over West Indies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-dcf12510)
+- 2026-06-27 | `dailymirrorlk-bd9e3df1` | Police tighten action against reckless driving to prevent fatal accidents | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-bd9e3df1)
 - 2026-06-27 | `dailymirrorlk-41a2beee` | Dr. Chandika Epitakaduwa elected new GMOA president | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-41a2beee)
 - 2026-06-27 | `dailymirrorlk-ca69e7e5` | Education Ministry ready to implement grade 6 reforms next year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-ca69e7e5)
 - 2026-06-27 | `dailymirrorlk-6d90f1d0` | One Health, One Pharmacy: Building a Stronger Pharmaceutical Profession for Sri Lanka’s Future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-6d90f1d0)
@@ -52,15 +55,12 @@ A collection of lk_news documents.
 - 2026-06-27 | `dailymirrorlk-82dd6da5` | More Poson dansals registered than Vesak; PHIs warn against plastic use | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-82dd6da5)
 - 2026-06-27 | `virakesarilk-0b1048d4` | குச்சவெளியில் டெங்கு சிரமதானப் பணிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-0b1048d4)
 - 2026-06-27 | `virakesarilk-4a8b6382` | ஊழல் மோசடிகளில் ஈடுபட்டவர்கள் மீது நடவடிக்கை எடுப்பது தவறா? - வவுனியா மாநகர மேயர் பதவி நீக்கம் குறித்து உறுப்பினர் கிருஸ்ணதாஸ் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-4a8b6382)
+- 2026-06-27 | `virakesarilk-5c4cefb6` | சித்திரவதைகளுக்கு எதிரான பிரகடனத்தை மீறியமைக்காக இலங்கைக்கு எதிராக நடவடிக்கை எடுங்கள் ; 9 சர்வதேச மனித உரிமைகள் அமைப்புக்கள் பிரகடனத்தின் உறுப்புநாடுகளிடம் கூட்டாக வேண்டுகோள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-5c4cefb6)
 - 2026-06-27 | `virakesarilk-372cda02` | பெண்களுக்கு எதிரான அனைத்து விதமான பாகுபாடுகளையும் ஒழிப்பதற்கான உபகுழுவின் உறுப்பினராக பேராசிரியர் ரங்கிதா டி சில்வா தெரிவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-372cda02)
 - 2026-06-27 | `tamilmirrorlk-2527b953` | விபத்தில் 16 வயது மாணவன் மரணம் : மற்றொருவர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-2527b953)
 - 2026-06-27 | `virakesarilk-bee918e7` | மோட்டார் சைக்கிள்கள் ஒன்றுடன் ஒன்று மோதியதில் மாணவன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-bee918e7)
 - 2026-06-27 | `virakesarilk-02193d29` | ஐ.நாவின் பெண்களுக்கு எதிரான பாகுபாடுகளை  ஒழிப்பதற்கான குழுவில் இலங்கைக்கு அங்கத்துவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-02193d29)
 - 2026-06-27 | `virakesarilk-239918c5` | நீரில் மூழ்கி உயிரிழக்கும் சம்பவங்கள் அதிகரிப்பு ; பாதுகாப்பு நடவடிக்கைகளை பின்பற்றுமாறு பொலிஸார் அறிவுறுத்தல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-239918c5)
-- 2026-06-27 | `dailymirrorlk-b5c85cc2` | Heavy rain expected over next 36 hours | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-b5c85cc2)
-- 2026-06-27 | `virakesarilk-69f2e2db` | நாட்டில் 50 பேரில் ஒருவர் போதைக்கு அடிமை - அமைச்சர் சரோஜா சாவித்திரி போல்ராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-69f2e2db)
-- 2026-06-27 | `virakesarilk-f8da8d83` | "எனக்கு ஏதேனும் நேர்ந்தால் ஜனாதிபதி, ரவி, ஷானி மற்றும் சில அதிகாரிகளுமே பொறுப்பு..." -  சுரேஷ் சலேவின் கடிதம் குறித்து மனைவி தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-f8da8d83)
-- 2026-06-27 | `virakesarilk-a19e9d1b` | நடிகர் அருள்நிதி நடிக்கும்' அருள்வான்' படத்தின்  அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-a19e9d1b)
 
 ---
 
