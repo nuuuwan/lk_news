@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-27 12:55:49",
-  "n_docs": 120389,
+  "time_updated": "2026-06-27 14:49:28",
+  "n_docs": 120419,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 120389,
+  "n_docs_with_text": 120419,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-27",
-  "dataset_size": 1878033386,
+  "dataset_size": 1878163397,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "ta",
-    "si",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-27-dailymirrorlk-73e48662",
-    "num": "dailymirrorlk-73e48662",
+    "doc_id": "2026-06-27-dailymirrorlk-c4ac48ed",
+    "num": "dailymirrorlk-c4ac48ed",
     "date_str": "2026-06-27",
-    "description": "Sri Lanka is the world\u2019s top trending wellness destination for 2026",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-is-the-worlds-top-trending-wellness-destination-for-2026/108-344087",
+    "description": "Environment Ministry launches WhatsApp service for complaints",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Environment-Ministry-launches-WhatsApp-service-for-complaints/108-344091",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782543984.0
+    "time_ut": 1782551276.0
   }
 }
