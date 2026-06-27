@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--27_20:22:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--27_22:13:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,431** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,458** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-27-tamilmirrorlk-0d4e6caa",
-    "num": "tamilmirrorlk-0d4e6caa",
+    "doc_id": "2026-06-27-dailymirrorlk-41a2beee",
+    "num": "dailymirrorlk-41a2beee",
     "date_str": "2026-06-27",
-    "description": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd  \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd \u0b85\u0ba9\u0bc1\u0ba4\u0bbe\u0baa\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd-\u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd-\u0b85\u0ba9\u0bc1\u0ba4\u0bbe\u0baa\u0bae\u0bcd/175-379157",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1782571182.0
+    "description": "Dr. Chandika Epitakaduwa elected new GMOA president",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dr-Chandika-Epitakaduwa-elected-new-GMOA-president/108-344102",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782578029.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-27 | `dailymirrorlk-41a2beee` | Dr. Chandika Epitakaduwa elected new GMOA president | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-41a2beee)
+- 2026-06-27 | `dailymirrorlk-ca69e7e5` | Education Ministry ready to implement grade 6 reforms next year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-ca69e7e5)
+- 2026-06-27 | `dailymirrorlk-6d90f1d0` | One Health, One Pharmacy: Building a Stronger Pharmaceutical Profession for Sri Lanka’s Future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-6d90f1d0)
+- 2026-06-27 | `dailymirrorlk-c87e1aeb` | Supreme Court conducts fully digital, paperless 735 Attorneys-at-Law oath ceremony | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-c87e1aeb)
+- 2026-06-27 | `dailymirrorlk-edd8d1a5` | 35 still hospitalised after Diyatalawa bus crash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-edd8d1a5)
+- 2026-06-27 | `tamilmirrorlk-e1390d8e` | இந்தியாவில் நிலநடுக்கம் : அலறியடித்து ஓடிய மக்கள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-e1390d8e)
+- 2026-06-27 | `tamilmirrorlk-6f8fff15` | துப்பாக்கியை பறித்த முன்னாள் புலி உறுப்பினர் மீது விசாரணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-6f8fff15)
 - 2026-06-27 | `tamilmirrorlk-0d4e6caa` | தமிழ்  ஊடகவியலாளர் ஒன்றியம் அனுதாபம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-0d4e6caa)
 - 2026-06-27 | `dailymirrorlk-82dd6da5` | More Poson dansals registered than Vesak; PHIs warn against plastic use | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-82dd6da5)
+- 2026-06-27 | `virakesarilk-0b1048d4` | குச்சவெளியில் டெங்கு சிரமதானப் பணிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-0b1048d4)
+- 2026-06-27 | `virakesarilk-4a8b6382` | ஊழல் மோசடிகளில் ஈடுபட்டவர்கள் மீது நடவடிக்கை எடுப்பது தவறா? - வவுனியா மாநகர மேயர் பதவி நீக்கம் குறித்து உறுப்பினர் கிருஸ்ணதாஸ் கேள்வி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-4a8b6382)
+- 2026-06-27 | `virakesarilk-372cda02` | பெண்களுக்கு எதிரான அனைத்து விதமான பாகுபாடுகளையும் ஒழிப்பதற்கான உபகுழுவின் உறுப்பினராக பேராசிரியர் ரங்கிதா டி சில்வா தெரிவு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-372cda02)
 - 2026-06-27 | `tamilmirrorlk-2527b953` | விபத்தில் 16 வயது மாணவன் மரணம் : மற்றொருவர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-2527b953)
+- 2026-06-27 | `virakesarilk-bee918e7` | மோட்டார் சைக்கிள்கள் ஒன்றுடன் ஒன்று மோதியதில் மாணவன் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-bee918e7)
+- 2026-06-27 | `virakesarilk-02193d29` | ஐ.நாவின் பெண்களுக்கு எதிரான பாகுபாடுகளை  ஒழிப்பதற்கான குழுவில் இலங்கைக்கு அங்கத்துவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-02193d29)
+- 2026-06-27 | `virakesarilk-239918c5` | நீரில் மூழ்கி உயிரிழக்கும் சம்பவங்கள் அதிகரிப்பு ; பாதுகாப்பு நடவடிக்கைகளை பின்பற்றுமாறு பொலிஸார் அறிவுறுத்தல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-239918c5)
 - 2026-06-27 | `dailymirrorlk-b5c85cc2` | Heavy rain expected over next 36 hours | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-b5c85cc2)
-- 2026-06-27 | `dailymirrorlk-77900e0e` | Presidential secretariat dengue drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-77900e0e)
-- 2026-06-27 | `dailymirrorlk-ccd66b87` | Iran says it struck US-linked targets in response to US attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-ccd66b87)
-- 2026-06-27 | `tamilmirrorlk-01a5c4ef` | பாக்யராஜ் உடலுக்கு அரசு மரியாதை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-01a5c4ef)
-- 2026-06-27 | `tamilmirrorlk-0e1dafb4` | எச்சரிக்கையுடன் இருக்குமாறு அறிவுறுத்தப்பட்டுள்ளது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-0e1dafb4)
-- 2026-06-27 | `dailymirrorlk-5ae24ec8` | LAWASIA urges Sri Lanka to halt judicial retirement age amendment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-5ae24ec8)
-- 2026-06-27 | `dailymirrorlk-2e0e6719` | Nearly 1,000 cancer patients at risk over CT Simulation delay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-2e0e6719)
-- 2026-06-27 | `dailymirrorlk-c4ac48ed` | Environment Ministry launches WhatsApp service for complaints | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-c4ac48ed)
-- 2026-06-27 | `virakesarilk-6cd299a1` | போலி கடவுச்சீட்டு விவகாரம் : ஜனாதிபதி செயலக சிரேஷ்ட உதவிச் செயலாளருக்கு விளக்கமறியல்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-6cd299a1)
-- 2026-06-27 | `virakesarilk-998c7239` | கே.பாக்யராஜின் உடலுக்கு தமிழக முதலமைச்சர் விஜய் அஞ்சலி! - இறுதிச் சடங்கில் அரச மரியாதை செலுத்தப்படும் என்றும் அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-998c7239)
-- 2026-06-27 | `virakesarilk-c3073111` | புதிய வைரஸ் காரணமாகவே டெங்கு பரவல் அதிகரித்துள்ளது - பிரதமர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-c3073111)
-- 2026-06-27 | `virakesarilk-2ac13bdd` | ஜனாதிபதி செயலக சிரேஷ்ட உதவி செயலாளர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-2ac13bdd)
-- 2026-06-27 | `dailymirrorlk-ddc85f19` | Suresh Sallay transferred to cardiology unit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-ddc85f19)
-- 2026-06-27 | `virakesarilk-5580f074` | சுரேஷ் சலே கொழும்பு தேசிய வைத்தியசாலையின் இதய சிகிச்சை பிரிவில் அனுமதி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-5580f074)
-- 2026-06-27 | `tamilmirrorlk-524eaf6f` | சுரேஷ் சலே இருதய பிரிவில் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-524eaf6f)
-- 2026-06-27 | `virakesarilk-f9fc4235` | நாட்டில் டெங்கு பரவல் தீவிரம் : இந்த ஆண்டில் 50,000க்கும் மேற்பட்டோர் பாதிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-f9fc4235)
-- 2026-06-27 | `virakesarilk-e6d95abe` | தெங்கு ஏற்றுமதித் துறையை 2 பில்லியன் டொலராக உயர்த்துவது குறித்து ஜனாதிபதி விசேட கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-e6d95abe)
+- 2026-06-27 | `virakesarilk-69f2e2db` | நாட்டில் 50 பேரில் ஒருவர் போதைக்கு அடிமை - அமைச்சர் சரோஜா சாவித்திரி போல்ராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-69f2e2db)
+- 2026-06-27 | `virakesarilk-f8da8d83` | "எனக்கு ஏதேனும் நேர்ந்தால் ஜனாதிபதி, ரவி, ஷானி மற்றும் சில அதிகாரிகளுமே பொறுப்பு..." -  சுரேஷ் சலேவின் கடிதம் குறித்து மனைவி தகவல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-f8da8d83)
+- 2026-06-27 | `virakesarilk-a19e9d1b` | நடிகர் அருள்நிதி நடிக்கும்' அருள்வான்' படத்தின்  அப்டேட் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-a19e9d1b)
 
 ---
 
