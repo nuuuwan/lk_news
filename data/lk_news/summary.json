@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-27 16:28:07",
-  "n_docs": 120422,
+  "time_updated": "2026-06-27 18:20:25",
+  "n_docs": 120427,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 120422,
+  "n_docs_with_text": 120427,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-27",
-  "dataset_size": 1878457133,
+  "dataset_size": 1878497328,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-27-dailymirrorlk-5ae24ec8",
-    "num": "dailymirrorlk-5ae24ec8",
+    "doc_id": "2026-06-27-dailymirrorlk-77900e0e",
+    "num": "dailymirrorlk-77900e0e",
     "date_str": "2026-06-27",
-    "description": "LAWASIA urges Sri Lanka to halt judicial retirement age amendment",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAWASIA-urges-Sri-Lanka-to-halt-judicial-retirement-age-amendment/108-344093",
+    "description": "Presidential secretariat dengue drive",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Presidential-secretariat-dengue-drive/110-344095",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782556948.0
+    "time_ut": 1782561508.0
   }
 }
