@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--27_18:21:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--27_20:22:10-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,427** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,431** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-27**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-27-dailymirrorlk-77900e0e",
-    "num": "dailymirrorlk-77900e0e",
+    "doc_id": "2026-06-27-tamilmirrorlk-0d4e6caa",
+    "num": "tamilmirrorlk-0d4e6caa",
     "date_str": "2026-06-27",
-    "description": "Presidential secretariat dengue drive",
-    "url_metadata": "https://www.dailymirror.lk/caption-story/Presidential-secretariat-dengue-drive/110-344095",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782561508.0
+    "description": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd  \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd \u0b85\u0ba9\u0bc1\u0ba4\u0bbe\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bae\u0bbf\u0bb4\u0bcd-\u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd-\u0b92\u0ba9\u0bcd\u0bb1\u0bbf\u0baf\u0bae\u0bcd-\u0b85\u0ba9\u0bc1\u0ba4\u0bbe\u0baa\u0bae\u0bcd/175-379157",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782571182.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-27 | `tamilmirrorlk-0d4e6caa` | தமிழ்  ஊடகவியலாளர் ஒன்றியம் அனுதாபம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-0d4e6caa)
+- 2026-06-27 | `dailymirrorlk-82dd6da5` | More Poson dansals registered than Vesak; PHIs warn against plastic use | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-82dd6da5)
+- 2026-06-27 | `tamilmirrorlk-2527b953` | விபத்தில் 16 வயது மாணவன் மரணம் : மற்றொருவர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-2527b953)
+- 2026-06-27 | `dailymirrorlk-b5c85cc2` | Heavy rain expected over next 36 hours | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-b5c85cc2)
 - 2026-06-27 | `dailymirrorlk-77900e0e` | Presidential secretariat dengue drive | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-77900e0e)
 - 2026-06-27 | `dailymirrorlk-ccd66b87` | Iran says it struck US-linked targets in response to US attacks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-ccd66b87)
 - 2026-06-27 | `tamilmirrorlk-01a5c4ef` | பாக்யராஜ் உடலுக்கு அரசு மரியாதை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-01a5c4ef)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-06-27 | `tamilmirrorlk-524eaf6f` | சுரேஷ் சலே இருதய பிரிவில் அனுமதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-524eaf6f)
 - 2026-06-27 | `virakesarilk-f9fc4235` | நாட்டில் டெங்கு பரவல் தீவிரம் : இந்த ஆண்டில் 50,000க்கும் மேற்பட்டோர் பாதிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-f9fc4235)
 - 2026-06-27 | `virakesarilk-e6d95abe` | தெங்கு ஏற்றுமதித் துறையை 2 பில்லியன் டொலராக உயர்த்துவது குறித்து ஜனாதிபதி விசேட கலந்துரையாடல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-e6d95abe)
-- 2026-06-27 | `virakesarilk-cf1264d7` | முதலீடு செய்யத் தயாராக இருப்பவர்களுக்கு  அரசாங்கம் அதிகபட்ச ஆதரவளிக்கும்  - ஜனாதிபதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-virakesarilk-cf1264d7)
-- 2026-06-27 | `dailymirrorlk-9e8af6ee` | Trade Ministry moves to speed up food import clearance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-dailymirrorlk-9e8af6ee)
-- 2026-06-27 | `tamilmirrorlk-0c17cb78` | பீஃபா உலகக் கிண்ணம்: புதிய வரலாறு படைத்தது அறிமுக அணி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-0c17cb78)
-- 2026-06-27 | `tamilmirrorlk-05c5929c` | இளம் தாயின் உயிரை பறித்த டெங்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-27-tamilmirrorlk-05c5929c)
 
 ---
 
