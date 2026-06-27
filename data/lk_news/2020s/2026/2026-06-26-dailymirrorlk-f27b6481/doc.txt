@@ -1,0 +1,23 @@
+CDS tightens dormant account rules to curb fraud risk
+
+CDS will classify accounts that have remained inactive for 3 years or more as ‘Non-Operative Client Accounts’
+
+Will require investors to complete a KYC update before trading can resume
+
+Phased implementation will kick off on June 30, with accounts that have remained dormant for at least 15 years
+
+The Colombo Stock Exchange (CSE) will begin restricting transactions on dormant securities accounts from next week, under a new investor protection framework, aimed at reducing fraud risks and strengthening oversight of long-inactive holdings.
+
+The Central Depository Systems (CDS), the custodian of electronically held securities traded on the CSE, will classify the accounts that have remained inactive for three years or more as ‘Non-Operative Client Accounts’, requiring the investors to complete a know your customer (KYC) update before trading can resume.
+
+The phased implementation will kick off on June 30, with the accounts that have remained dormant for at least 15 years.
+
+According to the CSE, the restrictions are intended to “protect the CDS account holders from fraud risks in dormant accounts”, under Rule 3.10, while ensuring the investors retain full ownership of their securities.
+
+The classification will not affect dividend payments, rights issues or other corporate action entitlements, nor will it result in the transfer, forfeiture or cancellation of securities held in the account.
+
+The investors may reactivate their accounts at any time through the CSE mobile application or CDS website by submitting the updated KYC information, with no deadline imposed for reactivation.
+
+The suspension programme will be rolled out in four stages, beginning with the accounts dormant for 15 years or more on June 30, followed by those inactive for 10 to 15 years on September 30, five to 10 years on December 31 and the accounts inactive for between three and five years on January 31, 2027.
+
+The framework mirrors the measures adopted by many securities depositories globally, where periodic KYC reviews and restrictions on inactive accounts form part of anti-fraud and investor protection safeguards, particularly as the securities holdings become increasingly digitised.

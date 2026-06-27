@@ -263159,6 +263159,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-26-adalk-877d1f2f",
+    "num": "adalk-877d1f2f",
+    "date_str": "2026-06-26",
+    "description": "\u0dc0\u0dc4\u0dc5 \u0db8\u0dad \u0dc3\u0dc0\u0dd2\u0d9a\u0dbb \u0d87\u0dad\u0dd2 \u0d92\u0d9a\u0d9a 300\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc3\u0dd6\u0dbb\u0dca\u0dba \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2 \u0dad\u0dd9\u0daf\u0dd2\u0db1\u0d9a\u0da7 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf \u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2 \u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dc4\u0dc5-\u0db8\u0dad-\u0dc3\u0dc0\u0dd2\u0d9a\u0dbb-\u0d87\u0dad\u0dd2-\u0d92\u0d9a\u0d9a-300\u0da7-\u0dc0\u0dd0\u0da9\u0dd2-\u0dc3\u0dd6\u0dbb\u0dca\u0dba-\u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2-\u0dad\u0dd9\u0daf\u0dd2\u0db1\u0d9a\u0da7-\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf-\u0dc0\u0dd2\u0dbb\u0dc4\u0dd2\u0dad-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd0\u0dba\u0dd2-\u0d89\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-423015",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782469368.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-26-virakesarilk-cc508e4b",
     "num": "virakesarilk-cc508e4b",
     "date_str": "2026-06-26",
@@ -263665,6 +263676,259 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-1268589f",
+    "num": "dailymirrorlk-1268589f",
+    "date_str": "2026-06-26",
+    "description": "Asiri Central Hospital performs first liver transplant marking new milestone in advanced healthcare",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Asiri-Central-Hospital-performs-first-liver-transplant-marking-new-milestone-in-advanced-healthcare/273-344021",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782493333.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-1d5fe30f",
+    "num": "dailymirrorlk-1d5fe30f",
+    "date_str": "2026-06-26",
+    "description": "Alliance Finance demonstrates compassionate finance",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Alliance-Finance-demonstrates-compassionate-finance/273-344022",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782493384.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-855f69ce",
+    "num": "dailymirrorlk-855f69ce",
+    "date_str": "2026-06-26",
+    "description": "HIP advances \u2018Save Ali Pancha\u2019 project",
+    "url_metadata": "https://www.dailymirror.lk/business-news/HIP-advances-Save-Ali-Pancha-project/273-344023",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782493452.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-b7356ae4",
+    "num": "dailymirrorlk-b7356ae4",
+    "date_str": "2026-06-26",
+    "description": "BeWAXed expands rapidly across Indian beauty market",
+    "url_metadata": "https://www.dailymirror.lk/business-news/BeWAXed-expands-rapidly-across-Indian-beauty-market/273-344024",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782493506.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-d7b28b9e",
+    "num": "dailymirrorlk-d7b28b9e",
+    "date_str": "2026-06-26",
+    "description": "SLIIT Business School\u2019s \u2018SoftSkills+ 2026\u2019 puts country\u2019s future leaders in the spotlight",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SLIIT-Business-Schools-SoftSkills-2026-puts-countrys-future-leaders-in-the-spotlight/273-344025",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782493545.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-535bfade",
+    "num": "dailymirrorlk-535bfade",
+    "date_str": "2026-06-26",
+    "description": "Sheraton Colombo brings flavours of Malaysia with \u2018Spice Trails of Malaysia\u2019",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sheraton-Colombo-brings-flavours-of-Malaysia-with-Spice-Trails-of-Malaysia/273-344026",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782493656.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-82e5ee99",
+    "num": "dailymirrorlk-82e5ee99",
+    "date_str": "2026-06-26",
+    "description": "CEAT Kelani honours long-serving employees and top performers",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CEAT-Kelani-honours-long-serving-employees-and-top-performers/273-344027",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782493741.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-8175409b",
+    "num": "dailymirrorlk-8175409b",
+    "date_str": "2026-06-26",
+    "description": "Spa Ceylon takes global honours at Marie Claire UK Hair Awards 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Spa-Ceylon-takes-global-honours-at-Marie-Claire-UK-Hair-Awards-2026/273-344028",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782493800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-9ec1be09",
+    "num": "dailymirrorlk-9ec1be09",
+    "date_str": "2026-06-26",
+    "description": "The world is listening this June. Does your organisation have something to say?",
+    "url_metadata": "https://www.dailymirror.lk/business-news/The-world-is-listening-this-June-Does-your-organisation-have-something-to-say/273-344029",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782493927.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-da464c03",
+    "num": "dailymirrorlk-da464c03",
+    "date_str": "2026-06-26",
+    "description": "Secondary market records limited activity with moderate trading volumes",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Secondary-market-records-limited-activity-with-moderate-trading-volumes/273-344030",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782494031.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-dd76ffb4",
+    "num": "dailymirrorlk-dd76ffb4",
+    "date_str": "2026-06-26",
+    "description": "Week ends in green",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Week-ends-in-green/273-344031",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782494076.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-fae340b2",
+    "num": "dailymirrorlk-fae340b2",
+    "date_str": "2026-06-26",
+    "description": "Colombo tea auction sees orthodox prices ease as unsold lots mount",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Colombo-tea-auction-sees-orthodox-prices-ease-as-unsold-lots-mount/273-344032",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782494144.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-a91dc8fd",
+    "num": "dailymirrorlk-a91dc8fd",
+    "date_str": "2026-06-26",
+    "description": "Authorities step up push to transform handloom sector into export growth driver",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Authorities-step-up-push-to-transform-handloom-sector-into-export-growth-driver/108-344033",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782494199.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-eab860cd",
+    "num": "dailymirrorlk-eab860cd",
+    "date_str": "2026-06-26",
+    "description": "Praveena Perera 1st Sri Lankan woman named to Campaign APAC\u2019s 40 Under 40",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Praveena-Perera-1st-Sri-Lankan-woman-named-to-Campaign-APACs-40-Under-40/273-344034",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782494302.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-24efa7ee",
+    "num": "dailymirrorlk-24efa7ee",
+    "date_str": "2026-06-26",
+    "description": "Notice",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Notice/273-344035",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782494313.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-ecd9ef9d",
+    "num": "dailymirrorlk-ecd9ef9d",
+    "date_str": "2026-06-26",
+    "description": "ADB approves financing for rooftop solar and virtual net metering to boost clean energy access in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/ADB-approves-financing-for-rooftop-solar-and-virtual-net-metering-to-boost-clean-energy-access-in-Sri-Lanka/273-344036",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782494357.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-3ed53199",
+    "num": "dailymirrorlk-3ed53199",
+    "date_str": "2026-06-26",
+    "description": "Sri Lanka\u2019s Dengue outbreak reaches epidemic level",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-Dengue-outbreak-reaches-epidemic-level/108-344037",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782494402.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-bd1a96b2",
+    "num": "dailymirrorlk-bd1a96b2",
+    "date_str": "2026-06-26",
+    "description": "Colombo Stock Exchange expands footprint with new Gampaha branch",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Colombo-Stock-Exchange-expands-footprint-with-new-Gampaha-branch/273-344038",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782494480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-f27b6481",
+    "num": "dailymirrorlk-f27b6481",
+    "date_str": "2026-06-26",
+    "description": "CDS tightens dormant account rules to curb fraud risk",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CDS-tightens-dormant-account-rules-to-curb-fraud-risk/108-344039",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782494563.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-9a1cb563",
+    "num": "dailymirrorlk-9a1cb563",
+    "date_str": "2026-06-26",
+    "description": "Economic growth is not the only measure of human development",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Economic-growth-is-not-the-only-measure-of-human-development/172-344041",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782494864.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-0977f6ac",
+    "num": "dailymirrorlk-0977f6ac",
+    "date_str": "2026-06-26",
+    "description": "A Zebra Crossing At Last --  Thank You, CMC",
+    "url_metadata": "https://www.dailymirror.lk/opinion/A-Zebra-Crossing-At-Last-Thank-You-CMC/172-344042",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782494911.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-5b5ffb91",
+    "num": "dailymirrorlk-5b5ffb91",
+    "date_str": "2026-06-26",
+    "description": "Bridging Independence And Harmony: The Case For An MPCC",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Bridging-Independence-And-Harmony-The-Case-For-An-MPCC/172-344043",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782495020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-196f6b14",
+    "num": "dailymirrorlk-196f6b14",
+    "date_str": "2026-06-26",
+    "description": "Constitutional-inconsistencies-relating-to-franchise: A response",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Constitutional-inconsistencies-relating-to-franchise-A-response/172-344044",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782495152.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-27-dailymirrorlk-2c913850",
     "num": "dailymirrorlk-2c913850",
     "date_str": "2026-06-27",
@@ -263698,6 +263962,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-27-tamilmirrorlk-45cc4be4",
+    "num": "tamilmirrorlk-45cc4be4",
+    "date_str": "2026-06-27",
+    "description": "\u2019\u0b9f\u0bca\u0bb2\u0bb0\u0bcd \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc7 \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9f\u0bca\u0bb2\u0bb0\u0bcd-\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0ba4\u0bcd\u0ba4\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0ba4\u0bc7-\u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-379140",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782504336.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-27-dailyftlk-62046e37",
     "num": "dailyftlk-62046e37",
     "date_str": "2026-06-27",
@@ -263717,6 +263992,39 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1782505038.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-tamilmirrorlk-a459a19e",
+    "num": "tamilmirrorlk-a459a19e",
+    "date_str": "2026-06-27",
+    "description": "\u0b90.\u0ba8\u0bbe. \u0b85\u0bae\u0bc8\u0ba4\u0bbf \u0baa\u0b9f\u0bc8 \u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95 \u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd 1,132 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f \u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd \u0b95\u0bc1\u0bb4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90-\u0ba8\u0bbe-\u0b85\u0bae\u0bc8\u0ba4\u0bbf-\u0baa\u0b9f\u0bc8-\u0baa\u0ba3\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95-\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd-1-132-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bca\u0ba3\u0bcd\u0b9f-\u0baa\u0b9f\u0bc8\u0baf\u0bbf\u0ba9\u0bb0\u0bcd-\u0b95\u0bc1\u0bb4\u0bc1/175-379141",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782505612.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-tamilmirrorlk-6aa2c88c",
+    "num": "tamilmirrorlk-6aa2c88c",
+    "date_str": "2026-06-27",
+    "description": "\u2019\u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba9\u0bcd\u2019 \u0baa\u0b9f\u0ba4\u0bcd \u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0bb0\u0b9a \u0baa\u0ba4\u0bb5\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9c\u0ba9\u0ba8\u0bbe\u0baf\u0b95\u0ba9\u0bcd-\u0baa\u0b9f\u0ba4\u0bcd-\u0ba4\u0baf\u0bbe\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b85\u0bb0\u0b9a-\u0baa\u0ba4\u0bb5\u0bbf/175-379142",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782506206.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-tamilmirrorlk-2553e153",
+    "num": "tamilmirrorlk-2553e153",
+    "date_str": "2026-06-27",
+    "description": "\u0bb5\u0bc6\u0ba9\u0bbf\u0b9a\u0bc1\u0bb2\u0bbe \u0ba8\u0bbf\u0bb2\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bcb\u0bb0\u0bcd 589 \u0b86\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc6\u0ba9\u0bbf\u0b9a\u0bc1\u0bb2\u0bbe-\u0ba8\u0bbf\u0bb2\u0ba8\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4\u0bcb\u0bb0\u0bcd-589-\u0b86\u0b95-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/50-379143",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782506942.0
   },
   {
     "doc_type": "lk_news",
@@ -263786,6 +264094,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailyftlk-fbbaf974",
+    "num": "dailyftlk-fbbaf974",
+    "date_str": "2026-06-27",
+    "description": "Indonesia\u2019s Golden Vision  2045 and lessons for  Sri Lanka\u2019s development journey",
+    "url_metadata": "https://www.ft.lk/news/Indonesia-s-Golden-Vision-2045-and-lessons-for-Sri-Lanka-s-development-journey/56-793903",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782514001.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailyftlk-5708b153",
+    "num": "dailyftlk-5708b153",
+    "date_str": "2026-06-27",
+    "description": "Veteran security expert Mahil Dole launches \u201cSecurity Beyond Enforcement\u201d book",
+    "url_metadata": "https://www.ft.lk/news/Veteran-security-expert-Mahil-Dole-launches-Security-Beyond-Enforcement-book/56-793904",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782514652.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-27-dailyftlk-8b02536d",
     "num": "dailyftlk-8b02536d",
     "date_str": "2026-06-27",
@@ -263794,5 +264124,60 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1782514842.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-94215255",
+    "num": "dailymirrorlk-94215255",
+    "date_str": "2026-06-27",
+    "description": "Jangoo puts West Indies in control",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jangoo-puts-West-Indies-in-control/108-344053",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782518200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-3a3b8d51",
+    "num": "dailymirrorlk-3a3b8d51",
+    "date_str": "2026-06-27",
+    "description": "40 injured as SLTB bus plunges into precipice near Diyatalawa",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/40-injured-as-SLTB-bus-plunges-into-precipice-near-Diyatalawa/108-344054",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782523403.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-6a30558b",
+    "num": "dailymirrorlk-6a30558b",
+    "date_str": "2026-06-27",
+    "description": "Senior Presidential Secretariat Official arrested over fake passport scam",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Senior-Presidential-Secretariat-Official-arrested-over-fake-passport-scam/108-344055",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782523624.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-cd06ef26",
+    "num": "dailymirrorlk-cd06ef26",
+    "date_str": "2026-06-27",
+    "description": "One in every 50 individuals addicted to drugs in Sri Lanka: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/One-in-every-50-individuals-addicted-to-drugs-in-Sri-Lanka-Minister/108-344056",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782528974.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-dailymirrorlk-aaa42b10",
+    "num": "dailymirrorlk-aaa42b10",
+    "date_str": "2026-06-27",
+    "description": "US conducts strikes on Iran after attack on cargo ship",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-conducts-strikes-on-Iran-after-attack-on-cargo-ship/108-344057",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782530124.0
   }
 ]

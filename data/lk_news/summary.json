@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-27 06:44:22",
-  "n_docs": 120340,
+  "time_updated": "2026-06-27 08:58:30",
+  "n_docs": 120375,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 120340,
+  "n_docs_with_text": 120375,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-27",
-  "dataset_size": 1877323358,
+  "dataset_size": 1877525274,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "en",
-    "si",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-27-dailyftlk-8b02536d",
-    "num": "dailyftlk-8b02536d",
+    "doc_id": "2026-06-27-dailymirrorlk-aaa42b10",
+    "num": "dailymirrorlk-aaa42b10",
     "date_str": "2026-06-27",
-    "description": "SAARC SG Sarwar calls for renewed engagement to reignite SAARC",
-    "url_metadata": "https://www.ft.lk/news/SAARC-SG-Sarwar-calls-for-renewed-engagement-to-reignite-SAARC/56-793905",
+    "description": "US conducts strikes on Iran after attack on cargo ship",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-conducts-strikes-on-Iran-after-attack-on-cargo-ship/108-344057",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1782514842.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782530124.0
   }
 }
