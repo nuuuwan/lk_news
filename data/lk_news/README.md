@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--28_20:23:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--28_22:15:00-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,594** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,596** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-28-dailymirrorlk-8936291d",
-    "num": "dailymirrorlk-8936291d",
+    "doc_id": "2026-06-28-dailymirrorlk-c5a63d29",
+    "num": "dailymirrorlk-c5a63d29",
     "date_str": "2026-06-28",
-    "description": "Yatiyantota Traffic Police OIC remanded over missing service firearm",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yatiyantota-Traffic-Police-OIC-remanded-over-missing-service-firearm/108-344138",
+    "description": "Ben Stokes: England captain to retire from international cricket after New Zealand series",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ben-Stokes-England-captain-to-retire-from-international-cricket-after-New-Zealand-series/108-344139",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782653391.0
+    "time_ut": 1782663373.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-28 | `dailymirrorlk-c5a63d29` | Ben Stokes: England captain to retire from international cricket after New Zealand series | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-c5a63d29)
+- 2026-06-28 | `tamilmirrorlk-a54e6041` | துப்பாக்கி மாயம்;  OIC க்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-a54e6041)
 - 2026-06-28 | `dailymirrorlk-8936291d` | Yatiyantota Traffic Police OIC remanded over missing service firearm | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-8936291d)
 - 2026-06-28 | `dailymirrorlk-3c62720a` | Uganda’s leading media outlets shut down by army chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-3c62720a)
 - 2026-06-28 | `dailymirrorlk-d582d57d` | Full match schedule & SLST kick-off times: INFOGRAPHIC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-d582d57d)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-06-28 | `virakesarilk-05ad51bd` | யட்டியாந்தோட்டை பொலிஸ் நிலைய போக்குவரத்துப் பிரிவு பொறுப்பதிகாரி கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-05ad51bd)
 - 2026-06-28 | `virakesarilk-ce75bb75` | இஸ்ரேலின் ஆயுதங்களும் அரபு நாடுகளும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-ce75bb75)
 - 2026-06-28 | `virakesarilk-5a21cd80` | வட்ஸ்-அப் சாம்­ராஜ்­யத்தின் புதிய மன்னர்: இந்­திய சந்­தையை நோக்கி நகரும் மெட்டா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-5a21cd80)
-- 2026-06-28 | `virakesarilk-321c7aa8` | சிறந்த ஆற்றல் மிக்க சமூகத்தைக் கட்டியெழுப்புவதில் உயர்கல்வியின் முன்னேற்றமும் தொடர்ச்சியான வளர்ச்சியும் மிக முக்கியமான பொறுப்புகளாகும் - பிரதமர் ஹரிணி அமரசூரிய | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-321c7aa8)
-- 2026-06-28 | `dailymirrorlk-ad4b5b7f` | France records 1,000 excess deaths during record-breaking heatwave | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-ad4b5b7f)
 
 ---
 
