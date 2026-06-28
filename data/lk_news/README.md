@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--28_18:18:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--28_20:23:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,587** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,594** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-28**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-28-tamilmirrorlk-089f947e",
-    "num": "tamilmirrorlk-089f947e",
+    "doc_id": "2026-06-28-dailymirrorlk-8936291d",
+    "num": "dailymirrorlk-8936291d",
     "date_str": "2026-06-28",
-    "description": "\u2018\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bbf\u0b9f\u0bae\u0bcd \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd-\u0bae\u0bbe-\u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bbf\u0b9f\u0bae\u0bcd-\u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-379213",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1782650209.0
+    "description": "Yatiyantota Traffic Police OIC remanded over missing service firearm",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yatiyantota-Traffic-Police-OIC-remanded-over-missing-service-firearm/108-344138",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782653391.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-28 | `dailymirrorlk-8936291d` | Yatiyantota Traffic Police OIC remanded over missing service firearm | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-8936291d)
+- 2026-06-28 | `dailymirrorlk-3c62720a` | Uganda’s leading media outlets shut down by army chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-3c62720a)
+- 2026-06-28 | `dailymirrorlk-d582d57d` | Full match schedule & SLST kick-off times: INFOGRAPHIC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-d582d57d)
+- 2026-06-28 | `dailymirrorlk-35c9bb22` | Patali claims current fuel import costs do not justify retail prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-35c9bb22)
+- 2026-06-28 | `tamilmirrorlk-543f71ed` | நாயை உதைத்த சந்தேக நபருக்கு பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-543f71ed)
+- 2026-06-28 | `dailymirrorlk-46d9a5ef` | Saudi Aramco helicopter crash in Ras Tanura kills all 14 on board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-46d9a5ef)
+- 2026-06-28 | `tamilmirrorlk-5f017af3` | FIFA 2026: சுற்று 32-க்கான அட்டவணையும் இறுதிப் போட்டிக்கான பயணமும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-5f017af3)
 - 2026-06-28 | `tamilmirrorlk-089f947e` | ‘பொலிஸ் மா அதிபரிடம் சொல்லுங்கள்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-089f947e)
 - 2026-06-28 | `virakesarilk-a4d1e993` | திருகோணமலை - முத்து நகர் விவசாயிகள் மனித உரிமைகள் ஆணைக்குழுவிடம் முறைப்பாடு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-a4d1e993)
 - 2026-06-28 | `virakesarilk-25ec4348` | மட்டக்களப்பில் உலகளாவிய திருக்குறள் மாநாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-25ec4348)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-06-28 | `virakesarilk-5a21cd80` | வட்ஸ்-அப் சாம்­ராஜ்­யத்தின் புதிய மன்னர்: இந்­திய சந்­தையை நோக்கி நகரும் மெட்டா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-5a21cd80)
 - 2026-06-28 | `virakesarilk-321c7aa8` | சிறந்த ஆற்றல் மிக்க சமூகத்தைக் கட்டியெழுப்புவதில் உயர்கல்வியின் முன்னேற்றமும் தொடர்ச்சியான வளர்ச்சியும் மிக முக்கியமான பொறுப்புகளாகும் - பிரதமர் ஹரிணி அமரசூரிய | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-321c7aa8)
 - 2026-06-28 | `dailymirrorlk-ad4b5b7f` | France records 1,000 excess deaths during record-breaking heatwave | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-ad4b5b7f)
-- 2026-06-28 | `virakesarilk-6801b050` | அரசியல்வாதிகளின் தவறுகளும் கண்மூடித்தனமான 'பக்தர்களும்' | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-6801b050)
-- 2026-06-28 | `virakesarilk-b4184854` | பேச்சில் உள்ள கவர்ச்சி நடைமுறையில் இல்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-b4184854)
-- 2026-06-28 | `virakesarilk-aceab98c` | கொழும்பு மாநகர சபை ஊழல் குற்றச்சாட்டு ;  விசாரணை ஆணைக்குழுவின் காலம் டிசம்பர் 31 வரை நீட்டிப்பு – அதிவிசேட வர்த்தமானி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-aceab98c)
-- 2026-06-28 | `tamilmirrorlk-5d3e35a0` | உயிரைப் பறிக்கக் காத்திருந்த மரக்கிளை (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-5d3e35a0)
-- 2026-06-28 | `tamilmirrorlk-2ca8702a` | மயங்கிவிழுந்த ஆசிரியை உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-2ca8702a)
-- 2026-06-28 | `tamilmirrorlk-f80a4a66` | கடந்த வாரம் இடம்பெற்ற முக்கிய  வழக்குகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-f80a4a66)
-- 2026-06-28 | `tamilmirrorlk-5a66712f` | வீராங்கனைகளை வன்புணர்ந்த பயிற்சியாளருக்கு  99 ஆண்டுகள் சிறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-5a66712f)
 
 ---
 

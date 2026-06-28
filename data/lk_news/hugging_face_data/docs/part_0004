@@ -266511,5 +266511,82 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782650209.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-tamilmirrorlk-5f017af3",
+    "num": "tamilmirrorlk-5f017af3",
+    "date_str": "2026-06-28",
+    "description": "FIFA 2026: \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1 32-\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0baa\u0baf\u0ba3\u0bae\u0bc1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/FIFA-2026-\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1-32-\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8\u0baf\u0bc1\u0bae\u0bcd-\u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0baa\u0bcd-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0baa\u0baf\u0ba3\u0bae\u0bc1\u0bae\u0bcd/175-379214",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782650843.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-dailymirrorlk-46d9a5ef",
+    "num": "dailymirrorlk-46d9a5ef",
+    "date_str": "2026-06-28",
+    "description": "Saudi Aramco helicopter crash in Ras Tanura kills all 14 on board",
+    "url_metadata": "https://www.dailymirror.lk/international/Saudi-Aramco-helicopter-crash-in-Ras-Tanura-kills-all-14-on-board/107-344133",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782651135.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-tamilmirrorlk-543f71ed",
+    "num": "tamilmirrorlk-543f71ed",
+    "date_str": "2026-06-28",
+    "description": "\u0ba8\u0bbe\u0baf\u0bc8 \u0b89\u0ba4\u0bc8\u0ba4\u0bcd\u0ba4 \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0baf\u0bc8-\u0b89\u0ba4\u0bc8\u0ba4\u0bcd\u0ba4-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95-\u0ba8\u0baa\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0ba3\u0bc8/175-379215",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782651534.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-dailymirrorlk-35c9bb22",
+    "num": "dailymirrorlk-35c9bb22",
+    "date_str": "2026-06-28",
+    "description": "Patali claims current fuel import costs do not justify retail prices",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Patali-claims-current-fuel-import-costs-do-not-justify-retail-prices/108-344134",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782651671.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-dailymirrorlk-d582d57d",
+    "num": "dailymirrorlk-d582d57d",
+    "date_str": "2026-06-28",
+    "description": "Full match schedule & SLST kick-off times: INFOGRAPHIC",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Full-match-schedule-SLST-kick-off-times-INFOGRAPHIC/108-344135",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782652312.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-dailymirrorlk-3c62720a",
+    "num": "dailymirrorlk-3c62720a",
+    "date_str": "2026-06-28",
+    "description": "Uganda\u2019s leading media outlets shut down by army chief",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ugandas-leading-media-outlets-shut-down-by-army-chief/108-344137",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782653031.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-dailymirrorlk-8936291d",
+    "num": "dailymirrorlk-8936291d",
+    "date_str": "2026-06-28",
+    "description": "Yatiyantota Traffic Police OIC remanded over missing service firearm",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yatiyantota-Traffic-Police-OIC-remanded-over-missing-service-firearm/108-344138",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782653391.0
   }
 ]
