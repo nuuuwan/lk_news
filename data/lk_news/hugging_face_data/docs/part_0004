@@ -265535,6 +265535,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-28-colombotelegraphcom-79261860",
+    "num": "colombotelegraphcom-79261860",
+    "date_str": "2026-06-28",
+    "description": "Constitutional Council Refuses To Disclose Names Of Nominees To Vacancy Arising In The RTI Commission",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/constitutional-council-refuses-to-disclose-names-of-nominees-to-vacancy-arising-in-the-rti-commission/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1782623379.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-28-tamilmirrorlk-7c2456fd",
     "num": "tamilmirrorlk-7c2456fd",
     "date_str": "2026-06-28",
@@ -266041,6 +266052,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-28-dailymirrorlk-58e0150c",
+    "num": "dailymirrorlk-58e0150c",
+    "date_str": "2026-06-28",
+    "description": "Kalubowila hospital unveils new cath lab on June 30",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kalubowila-hospital-unveils-new-cath-lab-on-June-30/108-344125",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782637842.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-28-tamilmirrorlk-e7e4e657",
     "num": "tamilmirrorlk-e7e4e657",
     "date_str": "2026-06-28",
@@ -266049,5 +266071,93 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782637941.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-dailymirrorlk-c3886969",
+    "num": "dailymirrorlk-c3886969",
+    "date_str": "2026-06-28",
+    "description": "Five nabbed at BIA with Rs. 72.2 mn in Hashish and Kush",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Five-nabbed-at-BIA-with-Rs-72-2-mn-in-Hashish-and-Kush/108-344126",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782638832.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-dailymirrorlk-652e8815",
+    "num": "dailymirrorlk-652e8815",
+    "date_str": "2026-06-28",
+    "description": "Reckless drivers to face direct legal action during Poson",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Reckless-drivers-to-face-direct-legal-action-during-Poson/108-344127",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782639027.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-dailymirrorlk-6b480310",
+    "num": "dailymirrorlk-6b480310",
+    "date_str": "2026-06-28",
+    "description": "Historic relics display opens for Poson",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Historic-relics-display-opens-for-Poson/110-344128",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782639324.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-tamilmirrorlk-780f03b9",
+    "num": "tamilmirrorlk-780f03b9",
+    "date_str": "2026-06-28",
+    "description": "\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0b87\u0bb0\u0bc1 \u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb0\u0ba3\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0b87\u0bb0\u0bc1-\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-379194",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782640950.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-dailymirrorlk-eb646d7f",
+    "num": "dailymirrorlk-eb646d7f",
+    "date_str": "2026-06-28",
+    "description": "National progress requires collective effort and shared commitment: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/National-progress-requires-collective-effort-and-shared-commitment-PM/108-344129",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782642895.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-dailymirrorlk-7b1c6a1a",
+    "num": "dailymirrorlk-7b1c6a1a",
+    "date_str": "2026-06-28",
+    "description": "Health experts reject PM\u2019s claims linking dengue surge to \u2018new strain\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Health-experts-reject-PMs-claims-linking-dengue-surge-to-new-strain/108-344130",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782643765.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-tamilmirrorlk-5a66712f",
+    "num": "tamilmirrorlk-5a66712f",
+    "date_str": "2026-06-28",
+    "description": "\u0bb5\u0bc0\u0bb0\u0bbe\u0b99\u0bcd\u0b95\u0ba9\u0bc8\u0b95\u0bb3\u0bc8 \u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1  99 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0bb1\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc0\u0bb0\u0bbe\u0b99\u0bcd\u0b95\u0ba9\u0bc8\u0b95\u0bb3\u0bc8-\u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4-\u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-99-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0b9a\u0bbf\u0bb1\u0bc8/175-379195",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782644035.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-tamilmirrorlk-f80a4a66",
+    "num": "tamilmirrorlk-f80a4a66",
+    "date_str": "2026-06-28",
+    "description": "\u0b95\u0b9f\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0bb0\u0bae\u0bcd \u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf  \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0ba8\u0bcd\u0ba4-\u0bb5\u0bbe\u0bb0\u0bae\u0bcd-\u0b87\u0b9f\u0bae\u0bcd\u0baa\u0bc6\u0bb1\u0bcd\u0bb1-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bcd/175-379196",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782644074.0
   }
 ]
