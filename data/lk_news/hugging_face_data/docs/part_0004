@@ -259419,6 +259419,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-24-islandlk-13f4315d",
+    "num": "islandlk-13f4315d",
+    "date_str": "2026-06-24",
+    "description": "Indelible ink and tainted records",
+    "url_metadata": "http://island.lk/indelible-ink-and-tainted-records/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782321540.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-24-islandlk-c1b59cf2",
     "num": "islandlk-c1b59cf2",
     "date_str": "2026-06-24",
@@ -263632,6 +263643,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-26-islandlk-2cd3b9e0",
+    "num": "islandlk-2cd3b9e0",
+    "date_str": "2026-06-26",
+    "description": "Month-end profit-takings drive stock trading; indices up",
+    "url_metadata": "http://island.lk/month-end-profit-takings-drive-stock-trading-indices-up/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782487200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-26-islandlk-84d0bffc",
+    "num": "islandlk-84d0bffc",
+    "date_str": "2026-06-26",
+    "description": "Sri Lanka Retailers\u2019 Association unveils strategic roadmap for the future at 9th AGM",
+    "url_metadata": "http://island.lk/sri-lanka-retailers-association-unveils-strategic-roadmap-for-the-future-at-9th-agm/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782487200.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-26-islandlk-d08e8aea",
     "num": "islandlk-d08e8aea",
     "date_str": "2026-06-26",
@@ -264688,6 +264721,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-27-islandlk-c3c3d035",
+    "num": "islandlk-c3c3d035",
+    "date_str": "2026-06-27",
+    "description": "Focus on developing the Coconut and Food & Beverage export industries into a USD 3 billion economy within the next two years",
+    "url_metadata": "http://island.lk/focus-on-developing-the-coconut-and-food-beverage-export-industries-into-a-usd-3-billion-economy-within-the-next-two-years/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782552300.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-27-dailymirrorlk-2e0e6719",
     "num": "dailymirrorlk-2e0e6719",
     "date_str": "2026-06-27",
@@ -264729,6 +264773,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1782557700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-adalk-6ed47d5d",
+    "num": "adalk-6ed47d5d",
+    "date_str": "2026-06-27",
+    "description": "\u0dc0\u0dd9\u0db1\u0dd2\u0dc3\u0dd2\u0dba\u0dd4\u0dbd\u0dcf \u0db7\u0dd6 \u0d9a\u0db8\u0dca\u0db4\u0dcf\u0dc0\u0dd9\u0db1\u0dca 920\u0d9a\u0dca \u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd9\u0db1\u0dd2\u0dc3\u0dd2\u0dba\u0dd4\u0dbd\u0dcf-\u0db7\u0dd6-\u0d9a\u0db8\u0dca\u0db4\u0dcf\u0dc0\u0dd9\u0db1\u0dca-920\u0d9a\u0dca-\u0da2\u0dd2\u0dc0\u0dd2\u0dad\u0d9a\u0dca\u0dc2\u0dba\u0da7/11-423020",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782557761.0
   },
   {
     "doc_type": "lk_news",
@@ -265095,6 +265150,83 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-27-islandlk-573ab1c3",
+    "num": "islandlk-573ab1c3",
+    "date_str": "2026-06-27",
+    "description": "Anawilundawa\u2019s mangrove revival: Where science, community and Wildlife Department converge",
+    "url_metadata": "http://island.lk/anawilundawas-mangrove-revival-where-science-community-and-wildlife-department-converge/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782576900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-islandlk-56f9b404",
+    "num": "islandlk-56f9b404",
+    "date_str": "2026-06-27",
+    "description": "Meat, morals, and the carbon footprint",
+    "url_metadata": "http://island.lk/meat-morals-and-the-carbon-footprint/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782576960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-islandlk-3b7b65ae",
+    "num": "islandlk-3b7b65ae",
+    "date_str": "2026-06-27",
+    "description": "Catholics, Black Magic, and Community",
+    "url_metadata": "http://island.lk/catholics-black-magic-and-community/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782577020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-islandlk-0bc4592f",
+    "num": "islandlk-0bc4592f",
+    "date_str": "2026-06-27",
+    "description": "A White Christmas in Nova Scotia",
+    "url_metadata": "http://island.lk/a-white-christmas-in-nova-scotia/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782577080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-islandlk-cd796df2",
+    "num": "islandlk-cd796df2",
+    "date_str": "2026-06-27",
+    "description": "HNB, KDU join hands to expand higher education financing opportunities",
+    "url_metadata": "http://island.lk/hnb-kdu-join-hands-to-expand-higher-education-financing-opportunities/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782577140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-islandlk-50e90a39",
+    "num": "islandlk-50e90a39",
+    "date_str": "2026-06-27",
+    "description": "People\u2019s Bank expands digital banking network with 125th cheque deposit kiosk",
+    "url_metadata": "http://island.lk/peoples-bank-expands-digital-banking-network-with-125th-cheque-deposit-kiosk/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782577200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-islandlk-5b5058c9",
+    "num": "islandlk-5b5058c9",
+    "date_str": "2026-06-27",
+    "description": "Union Assurance honours top performers at agency distribution awards 2025",
+    "url_metadata": "http://island.lk/union-assurance-honours-top-performers-at-agency-distribution-awards-2025/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782577200.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-27-dailymirrorlk-41a2beee",
     "num": "dailymirrorlk-41a2beee",
     "date_str": "2026-06-27",
@@ -265147,5 +265279,27 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782597623.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-adalk-9df60ec3",
+    "num": "adalk-9df60ec3",
+    "date_str": "2026-06-28",
+    "description": "\u0d9a\u0ddd\u0dc3\u0dca \u0d87\u0da7 \u0d87\u0dc4\u0dd2\u0daf\u0dd2\u0db1\u0dca\u0db1 \u0d9c\u0dd2\u0dba \u0db8\u0dc0\u0d9c\u0dda \u0dc4\u0dd2\u0dc3\u0da7 \u0d9a\u0ddc\u0dc3\u0dca \u0db4\u0ddc\u0d9a\u0dd4\u0dbb\u0d9a\u0dca \u0d9a\u0da9\u0dcf \u0dc0\u0dd0\u0da7\u0dd3 \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddd\u0dc3\u0dca-\u0d87\u0da7-\u0d87\u0dc4\u0dd2\u0daf\u0dd2\u0db1\u0dca\u0db1-\u0d9c\u0dd2\u0dba-\u0db8\u0dc0\u0d9c\u0dda-\u0dc4\u0dd2\u0dc3\u0da7-\u0d9a\u0ddc\u0dc3\u0dca-\u0db4\u0ddc\u0d9a\u0dd4\u0dbb\u0d9a\u0dca-\u0d9a\u0da9\u0dcf-\u0dc0\u0dd0\u0da7\u0dd3-\u0db8\u0dbb\u0dd4\u0da7/11-423021",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782615231.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-tamilmirrorlk-8b870d03",
+    "num": "tamilmirrorlk-8b870d03",
+    "date_str": "2026-06-28",
+    "description": "\u0bb5\u0bbf\u0bb1\u0bc1\u0bb5\u0bbf\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0b9a\u0bae\u0ba8\u0bbf\u0bb2\u0bc8; \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bbf\u0ba9 \u0b95\u0bca\u0bb2\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bbe, \u0baa\u0bcb\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0bb5\u0bbf\u0bb1\u0bc1\u0bb5\u0bbf\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0ba9-\u0b9a\u0bae\u0ba8\u0bbf\u0bb2\u0bc8-\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc1\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bbf\u0ba9-\u0b95\u0bca\u0bb2\u0bae\u0bcd\u0baa\u0bbf\u0baf\u0bbe-\u0baa\u0bcb\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb2\u0bcd/44-379178",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782615967.0
   }
 ]
