@@ -266481,6 +266481,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-28-adalk-9b92a8ba",
+    "num": "adalk-9b92a8ba",
+    "date_str": "2026-06-28",
+    "description": "\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a \u0d89\u0daf\u0dd2\u0d9a\u0dbb\u0db1 \u0dc3\u0dd2\u0db8\u0dd9\u0db1\u0dca\u0dad\u0dd2 \u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad \u0dc1\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0da7 \u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0da7\u0dd4\u0db1\u0dcf\u0dba\u0d9a-\u0d89\u0daf\u0dd2\u0d9a\u0dbb\u0db1-\u0dc3\u0dd2\u0db8\u0dd9\u0db1\u0dca\u0dad\u0dd2-\u0d9a\u0dbb\u0dca\u0db8\u0dcf\u0db1\u0dca\u0dad-\u0dc1\u0dcf\u0dbd\u0dcf\u0dc0\u0d9a\u0da7-\u0dc0\u0dd2\u0dbb\u0ddd\u0db0\u0dba\u0d9a\u0dca/11-423026",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782647518.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-28-adalk-be42e1e9",
     "num": "adalk-be42e1e9",
     "date_str": "2026-06-28",
@@ -266852,5 +266863,49 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782691827.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-dailymirrorlk-e3e00188",
+    "num": "dailymirrorlk-e3e00188",
+    "date_str": "2026-06-29",
+    "description": "Canada reach World Cup Last 16 after Eustaquio stoppage-time winner",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Canada-reach-World-Cup-Last-16-after-Eustaquio-stoppage-time-winner/108-344151",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782695684.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-adalk-dc5d7f50",
+    "num": "adalk-dc5d7f50",
+    "date_str": "2026-06-29",
+    "description": "\u0d8b\u0dad\u0dd4\u0db8\u0dca \u0db4\u0ddc\u0dc3\u0ddc\u0db1\u0dca \u0db4\u0ddc\u0dc4\u0ddc\u0dba \u0d85\u0daf\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/religion/\u0d8b\u0dad\u0dd4\u0db8\u0dca-\u0db4\u0ddc\u0dc3\u0ddc\u0db1\u0dca-\u0db4\u0ddc\u0dc4\u0ddc\u0dba-\u0d85\u0daf\u0dba\u0dd2/4-423028",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782701530.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-dailymirrorlk-df3b8aa0",
+    "num": "dailymirrorlk-df3b8aa0",
+    "date_str": "2026-06-29",
+    "description": "Semi-Final Line-Up Confirmed in Women\u2019s T20 World Cup 2026",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Semi-Final-Line-Up-Confirmed-in-Womens-T20-World-Cup-2026/108-344152",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782702098.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-tamilmirrorlk-287e66ac",
+    "num": "tamilmirrorlk-287e66ac",
+    "date_str": "2026-06-29",
+    "description": "\u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 \u0baa\u0bcb\u0bbe\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd 2 \u0b86\u0bb5\u0ba4\u0bc1 \u0ba8\u0bbe\u0bb3\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95-\u0baa\u0bcb\u0bbe\u0bcd-\u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0b99\u0bcd\u0b95\u0bb3\u0bcd-2-\u0b86\u0bb5\u0ba4\u0bc1-\u0ba8\u0bbe\u0bb3\u0bbe\u0b95\u0bb5\u0bc1\u0bae\u0bcd-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bc1/50-379219",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782702232.0
   }
 ]
