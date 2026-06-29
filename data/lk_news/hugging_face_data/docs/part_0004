@@ -267273,6 +267273,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-29-colombotelegraphcom-86a0ca90",
+    "num": "colombotelegraphcom-86a0ca90",
+    "date_str": "2026-06-29",
+    "description": "Water Should Be Just One Button Away",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/water-should-be-just-one-button-away/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1782715139.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-29-dailymirrorlk-694b6d04",
     "num": "dailymirrorlk-694b6d04",
     "date_str": "2026-06-29",
@@ -267666,5 +267677,38 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782733952.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-dailymirrorlk-a5e1ccfb",
+    "num": "dailymirrorlk-a5e1ccfb",
+    "date_str": "2026-06-29",
+    "description": "Gold price has crashed nearly Rs 50,000 from its peak. Will prices fall further?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gold-price-has-crashed-nearly-Rs-50-000-from-its-peak-Will-prices-fall-further/108-344175",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782734240.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-dailymirrorlk-8e56bbbe",
+    "num": "dailymirrorlk-8e56bbbe",
+    "date_str": "2026-06-29",
+    "description": "ICC confirms qualification pathway for cricket\u2019s LA28 Olympic return",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ICC-confirms-qualification-pathway-for-crickets-LA28-Olympic-return/108-344176",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782735283.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-tamilmirrorlk-71e01332",
+    "num": "tamilmirrorlk-71e01332",
+    "date_str": "2026-06-29",
+    "description": "\u2019\u0b85\u0bae\u0bb0\u0bc1\u0bae\u0bcd\u2019 \u0b9a\u0bc8\u0b95\u0bc8\u0baf\u0bc8 \u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0b95\u0bbe\u0ba4\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bae\u0bb0\u0bc1\u0bae\u0bcd-\u0b9a\u0bc8\u0b95\u0bc8\u0baf\u0bc8-\u0b95\u0bbe\u0ba4\u0bb2\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0b95\u0bbe\u0ba4\u0bb2\u0bbf/175-379265",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782735473.0
   }
 ]
