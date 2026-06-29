@@ -1,0 +1,131 @@
+Should Children Be Banned from Social Media? A Global Shift That Is Now Sri Lanka’s Question Too
+
+June 27 (Daily Mirror) - On June 15, 2026, British Prime Minister Keir Starmer stood before cameras and announced something that would have seemed extreme even five years ago. The United Kingdom, one of the most digitally connected societies on earth, was banning children under 16 from social media.
+
+TikTok, Instagram, YouTube, Snapchat, Facebook, and X would all be off-limits to anyone born after a certain date. “Social media is making our children unhappy and unsafe,” Starmer said. “As a parent, as much as a Prime Minister, I just can’t let that go on anymore.”
+
+The announcement was significant. But it was not, by any stretch, the first of its kind. Australia had already moved. France was close behind. Norway, Indonesia, and China had each found their own version of the same answer to the same question. And in Colombo, ministers were paying close attention.
+
+Sri Lanka is now actively exploring restrictions on children’s access to social media, a conversation that has moved from advocacy circles into cabinet-level discussions. The question facing policymakers here is one being asked in parliaments and ministries across the world: at what age, if any, should a child be allowed on social media, and what happens if society waits too long to decide?
+
+The speed at which governments have moved is striking. Just two years ago, the idea of outright banning children from social media was largely a talking point. Today it is becoming law in multiple countries, and the list keeps growing.
+
+What is notable about this list is not just its length, but its political diversity. These are not governments of one ideological stripe. They are liberal democracies and authoritarian states, rich countries and developing ones. And their reasoning, when stripped of its political colour, is broadly the same: children are accessing social media before they are old enough to manage the psychological weight of it.
+
+“The debate is no longer whether social media affects children. It is about how governments should respond to those effects, and how quickly.”
+
+Australia's model, which came into force on December 10, 2025 after parliament passed the Online Safety Amendment (Social Media Minimum Age) Act, has been treated as the benchmark other countries are referencing. It places the compliance burden on platforms, not parents. Snapchat, TikTok, and Instagram are legally obligated to take reasonable steps to keep under-16s off their services. Failure to do so carries financial penalties designed to actually sting, up to A$49.5 million per systemic breach.
+
+The UK has said it plans to follow this model closely, with implementation expected early next year. Starmer was direct about the tech companies: he said he would fight back if they resisted the move.
+
+Six months in, the picture looks considerably messier than the early headlines suggested. When the ban went live in December, reports described millions of teen accounts being shut down overnight. But a study published this week in The BMJ, which surveyed more than 400 young social media users before the restrictions took effect and again three months later, found something closer to the opposite. More than eight in ten young people covered by the ban were still accessing social media three months on, many through their own existing accounts and others by getting around the age checks entirely.
+
+The pattern was not uniform across age groups. There was little change in use among 12 and 13 year olds, a slight decrease among 14 and 15 year olds, and an actual increase in use among those aged 16 and older, the age at which the law was meant to allow. The researchers behind the study concluded that the months immediately after the law took effect were marked by limited implementation, incomplete compliance, and widespread circumvention.
+
+Australia's communications minister, Anika Wells, has not backed down in the face of this. In March, the government formally accused Facebook, TikTok, and YouTube of failing to meet their obligations under the law, and the eSafety Commission is now reportedly preparing legal action against several platforms. Wells put the responsibility squarely on the companies rather than the legislation itself. "Australia's world-leading social media laws are not failing. But big tech is failing to obey the laws," she said.
+
+On June 26, Prime Minister Anthony Albanese said the government's next step is to stress-test the law itself rather than walk away from it. "What we want to do is to make sure that the laws are as strong as possible and that they will withstand any legal challenges which are made," he told the Australian Broadcasting Corporation, adding that a key focus would be ensuring the eSafety Commission has enough power to actually do its job. Reddit, for its part, has launched a High Court challenge to the ban itself, a case still in preliminary hearings.
+
+This is the most important caution in the entire global debate, and it lands at an awkward moment for Sri Lanka, since the Australian model is the one most frequently cited as the template to follow. The lesson from Canberra is not that bans cannot work. It is that a ban without serious technical enforcement, real penalties that get enforced, and a regulator with teeth is closer to a public statement of intent than an actual barrier. Any Sri Lankan policy modelled on Australia's law will need to budget for the enforcement fight, not just the legislation, or it risks ending up with the same gap between the law on paper and what is actually happening on teenagers' phones.
+
+The picture shifted again on June 17, 2026, when G7 leaders closed their summit in France with a joint statement on protecting children online. It was a notable moment, not because it called for bans, but because it pointedly did not.
+
+The leaders described their commitment to a safe digital space for minors, defined as children and youth under 18, framing it as essential to their development, education, and well-being. The statement stressed that digital service providers carry the responsibility for designing platforms that are safe by default, age-appropriate, and privacy-preserving, rather than placing the entire burden on outright restriction.
+
+That list matters. It pulls in major economies well beyond the traditional G7 bloc, including two of Sri Lanka’s most significant regional and trade partners, India and South Korea, both of which have now publicly endorsed a design-first approach to child safety online.
+
+On the technical substance, the statement called for recommendation systems that elevate age-appropriate content and reduce risk exposure, alongside tools that give parents and children more control over their own data and experience. It also flagged a newer concern that barely existed in this conversation two years ago: conversational AI systems, which the leaders warned could undermine children’s wellbeing and safety if left unchecked, and which they said make it more urgent to build children’s critical skills for navigating digital spaces responsibly.
+
+The leaders further committed to continued cooperation against child sexual abuse material, non-consensual deepfake imagery, and extremist content, and to building a shared research base for understanding how digital platforms and AI affect young people.
+
+For Sri Lanka, the G7 statement offers a useful reference point precisely because it does not prescribe a ban. It lends international weight to the idea that platform design, not just age thresholds, is where governments can extract real accountability from technology companies, an idea closely aligned with the position Amnesty International and the young activists quoted later in this piece have been making. Whether Colombo’s eventual policy leans toward Australia’s enforcement model, the G7’s design standard, or some blend of the two will likely shape how effective it ultimately is.
+
+Sri Lanka’s Minister of Women and Child Affairs, Saroja Savithri Paulraj, announced in January 2026 that immediate steps would be taken to ban social media for children under 12. She noted that child psychiatrists had already submitted recommendations to the government, and that consultations with telecommunications companies and other stakeholders were planned before any formal policy was introduced.
+
+By May 2026, the scope had widened. Proposals on the table now include prohibiting children under five from accessing digital screens entirely, alongside the under-12 social media ban. The Deputy Minister of Digital Economy, Eranga Weeraratne, confirmed that ministerial-level discussions had begun.
+
+The conversation moved from ministerial discussion to the floor of parliament on June 24, 2026, when New Democratic Front MP and President's Counsel Faiszer Musthapha presented a Private Member's Bill called the Social Media Minimum Age Bill. The bill seeks to prohibit anyone under 16 from accessing social media services, a notably higher threshold than the under-12 figure the Ministry of Women and Child Affairs had been working with earlier in the year. Its stated objective is to introduce a legal minimum age for social media use to improve online safety for children and limit their exposure to harmful digital content.
+
+If passed, the bill would give Sri Lanka its first dedicated legal framework for a minimum social media age, putting it in the same bracket as Australia, the UK, France, and other countries already moving on this front. It is worth noting that a Private Member's Bill is not the same as a government bill: it still needs to clear procedural hurdles and parliamentary debate before it has any chance of becoming law, and it remains to be seen how it will be reconciled with the lower, under-12 threshold the government's own ministerial discussions have been built around. But its mere existence signals that the political appetite for legislating on this question, rather than simply discussing it, is now real.
+
+This is still, in large part, at the discussion stage. Any formal policy will require cabinet approval, a legislative framework, and a technical enforcement mechanism. Officials have said they are studying international models, with Australia's approach drawing the most attention. The government has also indicated that local telecom companies may be asked to play a role in implementing age verification.
+
+Sri Lanka's Online Safety Act, No. 9 of 2024, currently provides the only legislative instrument available to regulate online communication in the country. It was not designed with children's social media use specifically in mind, which is why advocates are pushing for a dedicated law.
+
+That broader legislative climate became a flashpoint again this week. On June 24, 2026, the Collective for Social Media Declaration (CSMD), a civil society group, issued a strong warning over a separate but related piece of legislation: the Chartered Institute of Media Professionals of Sri Lanka Bill, gazetted by the government earlier in June. The bill is not aimed at children specifically. It seeks to introduce professional registration standards for media workers. But CSMD argues its definition of “media professional” is broad enough to capture ordinary content creators on YouTube, Facebook, and TikTok, and that this creates a mechanism for political interference well beyond its stated purpose.
+
+The collective’s central worry is how the bill could interact with laws already on the books. Under its provisions, a content creator could have their professional registration revoked over an alleged ethical violation. Once stripped of that registration, the same content could then be targeted under the Online Safety Act on claims of spreading misinformation. CSMD’s convener, Sampath Samarakoon, said the combined effect of these overlapping laws risks creating a climate of self-censorship, where social media users restrain themselves out of fear of legal consequences rather than free judgment.
+
+This does not bear directly on the proposed restrictions for children, but it matters for the same reason the G7 statement matters: it shows that Sri Lanka’s approach to regulating digital space is being built across several fronts at once, not all of them focused on child protection, and not all of them welcomed by the people who would be most affected. Any child-safety law that eventually emerges will be implemented inside this same legal architecture, which is why civil society groups are watching the cumulative effect of these bills as closely as any single one of them.
+
+A 2018 UNICEF report on internet use among Sri Lankan youth found that 52.8% of young people accessed the internet, with the average age of first access being 13 years. Those numbers are likely considerably higher today, given the acceleration of smartphone adoption over the past eight years.
+
+The political momentum behind these bans is driven by a growing body of evidence, as well as high-profile incidents that have put the issue front and centre in public discourse in Sri Lanka.
+
+Officials and child psychiatrists have pointed to a cluster of overlapping concerns:
+
+Exposure to harmful, explicit, or age-inappropriate content circulating on mainstream platforms
+
+Cyberbullying and online harassment are particularly affecting girls in secondary school
+
+Mental health challenges linked to excessive use, including anxiety, disrupted sleep, and reduced self-esteem
+
+Risks of grooming, exploitation, and contact with adults with harmful intent
+
+Digital addiction driven by platform features specifically designed to keep users engaged as long as possible
+
+Psychiatrists from the Kelaniya University Psychiatry Unit and the Sri Lanka Journal of Psychiatry have published research arguing that the case for intervention is strong, and that waiting for harm to accumulate further before acting is the greater risk.
+
+Any honest accounting of this issue has to include the objections, because they are not trivial.
+
+Critics point out that children who are determined to use social media will simply use a VPN or create an account with a fake birth year, both of which take approximately five minutes. Australia has already acknowledged this problem and is working through how to address it. The effectiveness of a ban depends entirely on whether the platforms actually enforce it, and whether governments have the technical and legal authority to compel them to do so.
+
+There is also the question of what social media provides that critics of bans tend to undervalue. For many young people, particularly those from minority communities, LGBTQ+ youth, or children in rural areas with limited social infrastructure, online communities offer connection, support, and a sense of belonging that is genuinely hard to find elsewhere. A ban that removes access without offering alternatives does not automatically improve well-being.
+
+Amnesty International has called bans an ineffective quick fix that are out of step with the realities of a digital generation. The organisation argues that the most effective path is  protecting all social media users through better regulation, stronger data protection laws, and  better platform design. Specifically, it calls for restrictions on profiling-by-default, hyper-personalised recommendation systems, autoplay, infinite scroll, and other manipulative design features. The argument is that targeting architecture, not age, is where the real leverage lies.
+
+And enforcement raises civil liberties questions. Effective age verification systems generally require identity documentation, which raises its own concerns about data collection from minors and the creation of surveillance infrastructure that could be misused. These are not hypothetical risks.
+
+Finally, some researchers argue that the mental health crisis among young people predates the social media age and has multiple causes, including economic precarity, academic pressure, and family stress. Pinning it entirely on Instagram risks creating a policy that feels decisive but addresses only one thread in a much larger tangle.
+
+Perhaps the most striking gap in this debate, including in Sri Lanka, is how rarely the people most affected by it are asked to speak. In June 2026, Amnesty International gathered young activists from across the world to put that question directly to them. Their answers complicate the picture in ways that policymakers would do well to sit with.
+
+The following are the perspectives of young people gathered by Amnesty International in June 2026. Their words have been lightly paraphrased.
+
+We live in a world where young people are expected to handle economic crisis and political instability, but apparently not social media. Banning is the weakest solution, because prohibition does not ban the danger. It bans the opportunity. We do not ban books because they contain harmful ideas. We teach critical thinking instead.
+
+I publish videos on TikTok about human rights issues. Many of the people who follow me are under 16. A ban would make it impossible to reach them with that information. The real problem is algorithms that amplify hatred online. Regulate those, and you address the actual mechanism of harm.
+
+Nobody educated us on how to use these platforms. Policymakers need to do this with young people, not for them. Put young people in positions of leadership to say how these digital spaces should be designed. You cannot design something if you do not know what the people using it actually need.
+
+Social media gave me people to talk to from around the world, perspectives I could never have found in my own neighbourhood. If you exclude children from these spaces, you are not just removing risk. You are removing the opportunity to socialise, to exchange knowledge, to not feel alone. Governments keep saying we are the future. But we are here right now, and we need these spaces to be safe now.
+
+These voices do not invalidate the concerns driving the push for restrictions. But they do point to a real deficit in how the policy conversation is being conducted. Young people are telling policymakers they want safer platforms, not locked doors. Whether governments can deliver the former without resorting to the latter is the harder question, and the one that will define how this era of digital regulation is eventually judged.
+
+Sri Lanka is at an early enough stage that it has the opportunity to learn from what other countries have already tried and, in some cases, stumbled over.
+
+The Australian model, which places enforcement obligations on platforms rather than parents, is still worth studying closely on paper. When the burden falls primarily on families, it creates an unequal situation where more educated, more resourceful parents are better equipped to manage their children's digital lives, widening an existing gap. When platforms are legally required to build and maintain age-verification systems, the responsibility is placed where the commercial incentive to ignore it is strongest, at least in theory.
+
+But the law's rocky first six months is a genuine cautionary tale, not a footnote. A policy that looks good in a bill is not the same as a policy that changes what is happening on a teenager's phone. Any version of this Sri Lanka adopts will need a credible enforcement body from day one, not as an afterthought added once compliance gaps appear, along with realistic expectations that determined teenagers will find workarounds in the early going, regardless of how the law is written.
+
+Experts from the University of Sydney who have analysed the Australian law argue that the most significant benefit may not be the ban itself, but the cultural signal it sends: that children's wellbeing takes precedence over platform growth metrics. That shift in framing, from digital access as a default to digital access as something that should be age-appropriate, is arguably as important as the specific age threshold chosen, even allowing for how imperfectly the law has worked in practice so far.
+
+For Sri Lanka, a graduated approach might be the most practical. A hard restriction for children under 12, combined with stronger parental consent requirements and content controls for those between 12 and 16, would align broadly with where international consensus is moving while accounting for Sri Lanka's current enforcement capacity. The cybercrime bill for which Cabinet approval has already been granted could provide a legislative vehicle for these measures.
+
+Reduce children’s exposure to harmful content circulating on local and international platforms.
+
+Lower the incidence of cyberbullying that teachers and school counsellors say is increasingly affecting classroom dynamics.
+
+Create space for children to develop social skills in non-  algorithmically mediated environments.
+
+Support parents who currently feel outpaced by the platforms their children are using.
+
+And lay the groundwork for a longer-term digital education framework that prepares children to use these tools more safely when they are older.
+
+It is easy to frame this debate as being about social media, but it is really about something older and more fundamental: what children are entitled to be protected from, and by whom.
+
+Sri Lanka has historically had strong instincts around protecting children in physical spaces. School safety, child labour laws, restrictions on alcohol near schools: these are areas where the state has been willing to intervene. The argument being made by those pushing for social media restrictions is that the online world deserves the same level of considered, proactive protection, not because the internet is inherently harmful, but because the specific design of social media platforms, built for engagement above all else, creates conditions that children are not developmentally equipped to navigate.
+
+What is clear from watching this global moment unfold is that the countries moving fastest are not the ones waiting for perfect evidence or perfect enforcement mechanisms. They are the ones deciding that the cost of inaction is higher than the cost of an imperfect intervention, and then refining as they go.
+
+Sri Lanka does not need to copy Australia or the UK word-for-word. But the direction of travel is set, and the moment to get ahead of it, rather than respond to a crisis, is now.
