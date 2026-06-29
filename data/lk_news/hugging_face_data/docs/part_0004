@@ -262081,6 +262081,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-25-islandlk-29cc07f9",
+    "num": "islandlk-29cc07f9",
+    "date_str": "2026-06-25",
+    "description": "Falling oil prices and fallen heroes",
+    "url_metadata": "http://island.lk/falling-oil-prices-and-fallen-heroes/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782408660.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-25-islandlk-de40ca9a",
     "num": "islandlk-de40ca9a",
     "date_str": "2026-06-25",
@@ -265117,6 +265128,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-27-islandlk-4ce5f0e0",
+    "num": "islandlk-4ce5f0e0",
+    "date_str": "2026-06-27",
+    "description": "Mayors of Working Class Manchester and Melting Pot New York pose new challenges to Regressive Populism in Britain and America",
+    "url_metadata": "http://island.lk/mayors-of-working-class-manchester-and-melting-pot-new-york-pose-new-challenges-to-regressive-populism-in-britain-and-america/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782572880.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-27-dailymirrorlk-c87e1aeb",
     "num": "dailymirrorlk-c87e1aeb",
     "date_str": "2026-06-27",
@@ -265257,6 +265279,28 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782580220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-islandlk-561e8698",
+    "num": "islandlk-561e8698",
+    "date_str": "2026-06-27",
+    "description": "Colombia\u2019s Revenge Vote",
+    "url_metadata": "http://island.lk/colombias-revenge-vote/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782582780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-27-islandlk-3fca9ded",
+    "num": "islandlk-3fca9ded",
+    "date_str": "2026-06-27",
+    "description": "Politics, Taxation and the Need for Consensus",
+    "url_metadata": "http://island.lk/politics-taxation-and-the-need-for-consensus/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782582840.0
   },
   {
     "doc_type": "lk_news",
@@ -266536,6 +266580,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-2e99a7d5",
+    "num": "islandlk-2e99a7d5",
+    "date_str": "2026-06-28",
+    "description": "How the world changed after the Iran War",
+    "url_metadata": "http://island.lk/how-the-world-changed-after-the-iran-war/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782651420.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-28-tamilmirrorlk-543f71ed",
     "num": "tamilmirrorlk-543f71ed",
     "date_str": "2026-06-28",
@@ -266591,6 +266646,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-e1f2ec45",
+    "num": "islandlk-e1f2ec45",
+    "date_str": "2026-06-28",
+    "description": "ComBank Visa cardholders rewarded with FIFA World Cup Final journey",
+    "url_metadata": "http://island.lk/combank-visa-cardholders-rewarded-with-fifa-world-cup-final-journey/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782653820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-9849ac07",
+    "num": "islandlk-9849ac07",
+    "date_str": "2026-06-28",
+    "description": "PayMedia marks 12 years of powering Sri Lanka\u2019s Fintech future",
+    "url_metadata": "http://island.lk/paymedia-marks-12-years-of-powering-sri-lankas-fintech-future/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782653880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-c06bd4eb",
+    "num": "islandlk-c06bd4eb",
+    "date_str": "2026-06-28",
+    "description": "HNB Legacy Open returns for third edition",
+    "url_metadata": "http://island.lk/hnb-legacy-open-returns-for-third-edition/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782654060.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-28-tamilmirrorlk-a54e6041",
     "num": "tamilmirrorlk-a54e6041",
     "date_str": "2026-06-28",
@@ -266599,6 +266687,61 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782659968.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-c32177ef",
+    "num": "islandlk-c32177ef",
+    "date_str": "2026-06-28",
+    "description": "R.W. IEVERS (1850-1905), EXCEPTIONAL GOVERNMENT AGENT OF ANURADHAPURA (c. 1890).",
+    "url_metadata": "http://island.lk/r-w-ievers-1850-1905-exceptional-government-agent-of-anuradhapura-c-1890/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782661320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-0a09fc89",
+    "num": "islandlk-0a09fc89",
+    "date_str": "2026-06-28",
+    "description": "Sri Lanka Retailers\u2019 Association unveils future roadmap at 9th AGM",
+    "url_metadata": "http://island.lk/sri-lanka-retailers-association-unveils-future-roadmap-at-9th-agm/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782663120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-39447c4c",
+    "num": "islandlk-39447c4c",
+    "date_str": "2026-06-28",
+    "description": "Sri Lanka\u2019s BeWAXed makes bold foray into India\u2019s beauty market",
+    "url_metadata": "http://island.lk/sri-lankas-bewaxed-makes-bold-foray-into-indias-beauty-market/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782663120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-6090a970",
+    "num": "islandlk-6090a970",
+    "date_str": "2026-06-28",
+    "description": "Sampath Bank launches real-time USD payment solution for SLPA users",
+    "url_metadata": "http://island.lk/sampath-bank-launches-real-time-usd-payment-solution-for-slpa-users/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782663120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-6d2c6dab",
+    "num": "islandlk-6d2c6dab",
+    "date_str": "2026-06-28",
+    "description": "Janashakthi Life breaks into top five most loved life insurance brands",
+    "url_metadata": "http://island.lk/janashakthi-life-breaks-into-top-five-most-loved-life-insurance-brands/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782663120.0
   },
   {
     "doc_type": "lk_news",
@@ -266621,6 +266764,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782666200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-colombotelegraphcom-de610aba",
+    "num": "colombotelegraphcom-de610aba",
+    "date_str": "2026-06-28",
+    "description": "Public Confidence Cannot Be Built By Defending Controversial Appointments Alone",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/public-confidence-cannot-be-built-by-defending-controversial-appointments-alone/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1782669742.0
   },
   {
     "doc_type": "lk_news",
@@ -266654,5 +266808,49 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782671586.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-dailymirrorlk-082f79d4",
+    "num": "dailymirrorlk-082f79d4",
+    "date_str": "2026-06-29",
+    "description": "West Indies beat Sri Lanka in first Test",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/West-Indies-beat-Sri-Lanka-in-first-Test/108-344149",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782690112.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-dailymirrorlk-36fb6496",
+    "num": "dailymirrorlk-36fb6496",
+    "date_str": "2026-06-29",
+    "description": "Ireland seal historic T20 series win over India",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ireland-seal-historic-T20-series-win-over-India/108-344150",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782691383.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-tamilmirrorlk-d342d8a9",
+    "num": "tamilmirrorlk-d342d8a9",
+    "date_str": "2026-06-29",
+    "description": "\u0b9a\u0bb5\u0bc2\u0ba4\u0bbf \u0b85\u0bb0\u0bbe\u0bae\u0bcd\u0b95\u0bcb \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bb9\u0bc6\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0baa\u0bcd\u0b9f\u0bb0\u0bcd \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd 14 \u0baa\u0bc7\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb5\u0bc2\u0ba4\u0bbf-\u0b85\u0bb0\u0bbe\u0bae\u0bcd\u0b95\u0bcb-\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd-\u0bb9\u0bc6\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bca\u0baa\u0bcd\u0b9f\u0bb0\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-14-\u0baa\u0bc7\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/50-379217",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782691443.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-tamilmirrorlk-ecc1181c",
+    "num": "tamilmirrorlk-ecc1181c",
+    "date_str": "2026-06-29",
+    "description": "\u0bae\u0bcb\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0bb7\u0bb2\u0bcd\u0bb8\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b89\u0baf\u0bb0\u0bbf\u0baf \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bc6\u0bb7\u0bb2\u0bcd\u0bb8\u0bcd-\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd-\u0b89\u0baf\u0bb0\u0bbf\u0baf-\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1/175-379218",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782691827.0
   }
 ]

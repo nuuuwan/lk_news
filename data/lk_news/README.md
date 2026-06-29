@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--29_04:11:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--29_06:49:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,600** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,618** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-29**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-29-dailymirrorlk-5e6ce71f",
-    "num": "dailymirrorlk-5e6ce71f",
+    "doc_id": "2026-06-29-tamilmirrorlk-ecc1181c",
+    "num": "tamilmirrorlk-ecc1181c",
     "date_str": "2026-06-29",
-    "description": "Detention Rights: Sri Lanka and the United States",
-    "url_metadata": "https://www.dailymirror.lk/opinion/Detention-Rights-Sri-Lanka-and-the-United-States/172-344143",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782671586.0
+    "description": "\u0bae\u0bcb\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0bb7\u0bb2\u0bcd\u0bb8\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b89\u0baf\u0bb0\u0bbf\u0baf \u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0bc6\u0bb7\u0bb2\u0bcd\u0bb8\u0bcd-\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd-\u0b89\u0baf\u0bb0\u0bbf\u0baf-\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bc1/175-379218",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782691827.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-29 | `tamilmirrorlk-ecc1181c` | மோடிக்கு செஷல்ஸ் நாட்டின் உயரிய விருது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-29-tamilmirrorlk-ecc1181c)
+- 2026-06-29 | `tamilmirrorlk-d342d8a9` | சவூதி அராம்கோ நிறுவனத்தின் ஹெலிக்கொப்டர் விபத்தில் 14 பேர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-29-tamilmirrorlk-d342d8a9)
+- 2026-06-29 | `dailymirrorlk-36fb6496` | Ireland seal historic T20 series win over India | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-29-dailymirrorlk-36fb6496)
+- 2026-06-29 | `dailymirrorlk-082f79d4` | West Indies beat Sri Lanka in first Test | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-29-dailymirrorlk-082f79d4)
 - 2026-06-29 | `dailymirrorlk-5e6ce71f` | Detention Rights: Sri Lanka and the United States | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-29-dailymirrorlk-5e6ce71f)
 - 2026-06-28 | `dailymirrorlk-f42af368` | Are our political parties really interested in fighting corruption? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-f42af368)
 - 2026-06-28 | `dailymirrorlk-cf274652` | Clean the Blocked Canal Near Bandaranayakepura immediately! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-cf274652)
+- 2026-06-28 | `colombotelegraphcom-de610aba` | Public Confidence Cannot Be Built By Defending Controversial Appointments Alone | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-colombotelegraphcom-de610aba)
 - 2026-06-28 | `dailymirrorlk-e1d3394a` | Migrants in US on temporary status should seek permanent residence or leave, Homeland Secretary says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-e1d3394a)
 - 2026-06-28 | `dailymirrorlk-c5a63d29` | Ben Stokes: England captain to retire from international cricket after New Zealand series | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-c5a63d29)
+- 2026-06-28 | `islandlk-6d2c6dab` | Janashakthi Life breaks into top five most loved life insurance brands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-islandlk-6d2c6dab)
+- 2026-06-28 | `islandlk-6090a970` | Sampath Bank launches real-time USD payment solution for SLPA users | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-islandlk-6090a970)
+- 2026-06-28 | `islandlk-39447c4c` | Sri Lanka’s BeWAXed makes bold foray into India’s beauty market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-islandlk-39447c4c)
+- 2026-06-28 | `islandlk-0a09fc89` | Sri Lanka Retailers’ Association unveils future roadmap at 9th AGM | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-islandlk-0a09fc89)
+- 2026-06-28 | `islandlk-c32177ef` | R.W. IEVERS (1850-1905), EXCEPTIONAL GOVERNMENT AGENT OF ANURADHAPURA (c. 1890). | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-islandlk-c32177ef)
 - 2026-06-28 | `tamilmirrorlk-a54e6041` | துப்பாக்கி மாயம்;  OIC க்கு விளக்கமறியல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-a54e6041)
+- 2026-06-28 | `islandlk-c06bd4eb` | HNB Legacy Open returns for third edition | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-islandlk-c06bd4eb)
+- 2026-06-28 | `islandlk-9849ac07` | PayMedia marks 12 years of powering Sri Lanka’s Fintech future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-islandlk-9849ac07)
+- 2026-06-28 | `islandlk-e1f2ec45` | ComBank Visa cardholders rewarded with FIFA World Cup Final journey | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-islandlk-e1f2ec45)
 - 2026-06-28 | `dailymirrorlk-8936291d` | Yatiyantota Traffic Police OIC remanded over missing service firearm | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-8936291d)
-- 2026-06-28 | `dailymirrorlk-3c62720a` | Uganda’s leading media outlets shut down by army chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-3c62720a)
-- 2026-06-28 | `dailymirrorlk-d582d57d` | Full match schedule & SLST kick-off times: INFOGRAPHIC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-d582d57d)
-- 2026-06-28 | `dailymirrorlk-35c9bb22` | Patali claims current fuel import costs do not justify retail prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-35c9bb22)
-- 2026-06-28 | `tamilmirrorlk-543f71ed` | நாயை உதைத்த சந்தேக நபருக்கு பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-543f71ed)
-- 2026-06-28 | `dailymirrorlk-46d9a5ef` | Saudi Aramco helicopter crash in Ras Tanura kills all 14 on board | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-dailymirrorlk-46d9a5ef)
-- 2026-06-28 | `tamilmirrorlk-5f017af3` | FIFA 2026: சுற்று 32-க்கான அட்டவணையும் இறுதிப் போட்டிக்கான பயணமும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-5f017af3)
-- 2026-06-28 | `tamilmirrorlk-089f947e` | ‘பொலிஸ் மா அதிபரிடம் சொல்லுங்கள்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-089f947e)
-- 2026-06-28 | `virakesarilk-a4d1e993` | திருகோணமலை - முத்து நகர் விவசாயிகள் மனித உரிமைகள் ஆணைக்குழுவிடம் முறைப்பாடு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-a4d1e993)
-- 2026-06-28 | `virakesarilk-25ec4348` | மட்டக்களப்பில் உலகளாவிய திருக்குறள் மாநாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-25ec4348)
-- 2026-06-28 | `tamilmirrorlk-34d01ed8` | ‘கிளீன் ஸ்ரீலங்காவும் விசித்திர வைத்தியரும்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-34d01ed8)
-- 2026-06-28 | `virakesarilk-dbf68866` | காணிகளை விடுவிக்க வியுறுத்தி ஐந்தாவதுநாளாக தொடர் போராட்டத்தில் ஈடுபட்டுள்ள கேப்பாப்புலவு மக்கள்; ரவிகரன் எம்.பியும் பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-virakesarilk-dbf68866)
-- 2026-06-28 | `tamilmirrorlk-8d2c6b5d` | தேசிய அடையாள அட்டை இல்லாத முதியவர்களுக்கு விசேட  திட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-tamilmirrorlk-8d2c6b5d)
-- 2026-06-28 | `adalk-be42e1e9` | රුපියල් බිලියන 518ක ණය අරගෙන කරපු දෙයක් නෑ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-28-adalk-be42e1e9)
 
 ---
 
