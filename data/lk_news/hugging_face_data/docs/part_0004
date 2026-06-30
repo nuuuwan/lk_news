@@ -269462,6 +269462,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-30-colombotelegraphcom-bae6c686",
+    "num": "colombotelegraphcom-bae6c686",
+    "date_str": "2026-06-30",
+    "description": "Sacred Processions, Shameful Cruelty, Hollow Religiosity",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/sacred-processions-shameful-cruelty-hollow-religiosity/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1782799550.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-30-virakesarilk-a354a877",
     "num": "virakesarilk-a354a877",
     "date_str": "2026-06-30",
@@ -269715,6 +269726,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-b09abc21",
+    "num": "dailymirrorlk-b09abc21",
+    "date_str": "2026-06-30",
+    "description": "Indonesia's education minister sentenced to years in jail for corruption",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indonesia-s-education-minister-sentenced-to-years-in-jail-for-corruption/108-344253",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782812561.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-30-tamilmirrorlk-82882f52",
     "num": "tamilmirrorlk-82882f52",
     "date_str": "2026-06-30",
@@ -269866,5 +269888,49 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782817030.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-2d5f37a6",
+    "num": "dailymirrorlk-2d5f37a6",
+    "date_str": "2026-06-30",
+    "description": "Rotary car parking system introduced to Sri Lanka for the first time",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rotary-car-parking-system-introduced-to-Sri-Lanka-for-the-first-time/108-344267",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782818230.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-08feebd7",
+    "num": "dailymirrorlk-08feebd7",
+    "date_str": "2026-06-30",
+    "description": "Vice Admiral Damian Fernando appointed new Navy Commander",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vice-Admiral-Damian-Fernando-appointed-new-Navy-Commander/108-344268",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782819285.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-630edb3d",
+    "num": "dailymirrorlk-630edb3d",
+    "date_str": "2026-06-30",
+    "description": "IMF commends Sri Lanka\u2019s progress and reaffirms support for reform programme",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/IMF-commends-Sri-Lankas-progress-and-reaffirms-support-for-reform-programme/108-344269",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782820451.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-e8c63d4f",
+    "num": "dailymirrorlk-e8c63d4f",
+    "date_str": "2026-06-30",
+    "description": "Three school students drown after boat capsizes in Wanathawilluwa lagoon",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-school-students-drown-after-boat-capsizes-in-Wanathawilluwa-lagoon/108-344270",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782823201.0
   }
 ]

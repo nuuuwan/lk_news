@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-30 16:52:09",
-  "n_docs": 120892,
+  "time_updated": "2026-06-30 18:34:35",
+  "n_docs": 120898,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 120892,
+  "n_docs_with_text": 120898,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-30",
-  "dataset_size": 1886727894,
+  "dataset_size": 1886919236,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-30-dailymirrorlk-ac4fb4d9",
-    "num": "dailymirrorlk-ac4fb4d9",
+    "doc_id": "2026-06-30-dailymirrorlk-e8c63d4f",
+    "num": "dailymirrorlk-e8c63d4f",
     "date_str": "2026-06-30",
-    "description": "Penalty Shockwave at World Cup: Germany fall, Morocco stun Netherlands, Iran exit triggers US Political reaction",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Penalty-Shockwave-at-World-Cup-Germany-fall-Morocco-stun-Netherlands-Iran-exit-triggers-US-Political-reaction/108-344266",
+    "description": "Three school students drown after boat capsizes in Wanathawilluwa lagoon",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-school-students-drown-after-boat-capsizes-in-Wanathawilluwa-lagoon/108-344270",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782817030.0
+    "time_ut": 1782823201.0
   }
 }

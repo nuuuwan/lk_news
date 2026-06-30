@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--30_16:53:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--30_18:35:31-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,892** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,898** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-30-dailymirrorlk-ac4fb4d9",
-    "num": "dailymirrorlk-ac4fb4d9",
+    "doc_id": "2026-06-30-dailymirrorlk-e8c63d4f",
+    "num": "dailymirrorlk-e8c63d4f",
     "date_str": "2026-06-30",
-    "description": "Penalty Shockwave at World Cup: Germany fall, Morocco stun Netherlands, Iran exit triggers US Political reaction",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Penalty-Shockwave-at-World-Cup-Germany-fall-Morocco-stun-Netherlands-Iran-exit-triggers-US-Political-reaction/108-344266",
+    "description": "Three school students drown after boat capsizes in Wanathawilluwa lagoon",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-school-students-drown-after-boat-capsizes-in-Wanathawilluwa-lagoon/108-344270",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782817030.0
+    "time_ut": 1782823201.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-30 | `dailymirrorlk-e8c63d4f` | Three school students drown after boat capsizes in Wanathawilluwa lagoon | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-e8c63d4f)
+- 2026-06-30 | `dailymirrorlk-630edb3d` | IMF commends Sri Lanka’s progress and reaffirms support for reform programme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-630edb3d)
+- 2026-06-30 | `dailymirrorlk-08feebd7` | Vice Admiral Damian Fernando appointed new Navy Commander | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-08feebd7)
+- 2026-06-30 | `dailymirrorlk-2d5f37a6` | Rotary car parking system introduced to Sri Lanka for the first time | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-2d5f37a6)
 - 2026-06-30 | `dailymirrorlk-ac4fb4d9` | Penalty Shockwave at World Cup: Germany fall, Morocco stun Netherlands, Iran exit triggers US Political reaction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-ac4fb4d9)
 - 2026-06-30 | `dailymirrorlk-aeb72bcb` | Updated World Test Championship standings after West Indies’ record win over Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-aeb72bcb)
 - 2026-06-30 | `dailymirrorlk-2636cbf1` | Navy Commander awarded four-star rank | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-2636cbf1)
@@ -55,12 +59,8 @@ A collection of lk_news documents.
 - 2026-06-30 | `adalk-1df45ea9` | පොහොර මුදල් වංචාවක් ගැන චෝදනාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-adalk-1df45ea9)
 - 2026-06-30 | `tamilmirrorlk-9050fcaa` | ஹோகந்தரையில் அதிரடி வேட்டை : சொகுசு மோட்டார் சைக்கிள்கள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-tamilmirrorlk-9050fcaa)
 - 2026-06-30 | `tamilmirrorlk-82882f52` | NLB முன்னாள் தலைவர் சியாமளா கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-tamilmirrorlk-82882f52)
+- 2026-06-30 | `dailymirrorlk-b09abc21` | Indonesia's education minister sentenced to years in jail for corruption | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-b09abc21)
 - 2026-06-30 | `dailymirrorlk-7f2938ef` | Founder of Asian super-app Gojek sentenced to years in jail for corruption | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-7f2938ef)
-- 2026-06-30 | `tamilmirrorlk-533b6877` | ஊழியரைத் தாக்கிய பிரபல கொத்து உணவக உரிமையாளர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-tamilmirrorlk-533b6877)
-- 2026-06-30 | `dailymirrorlk-a5e433a5` | Pillayan remanded over Eastern Province murders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-a5e433a5)
-- 2026-06-30 | `dailymirrorlk-b508b1cb` | Former National Lotteries Board Chairperson Shyamila Perera arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-b508b1cb)
-- 2026-06-30 | `dailymirrorlk-a0748f9d` | Suspect arrested with five unregistered high-capacity motorbikes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-a0748f9d)
-- 2026-06-30 | `dailymirrorlk-eee079d5` | Navy Commander Kanchana Banagoda promoted to Admiral ahead of retirement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-eee079d5)
 
 ---
 
