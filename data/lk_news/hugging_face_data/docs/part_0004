@@ -269473,6 +269473,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-30-colombotelegraphcom-af30f2c4",
+    "num": "colombotelegraphcom-af30f2c4",
+    "date_str": "2026-06-30",
+    "description": "Will Esala Perahera 2026 Begin The End Of Elephant Cruelty In Sri Lanka?",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/will-esala-perahera-2026-begin-the-end-of-elephant-cruelty-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1782799550.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-30-colombotelegraphcom-bae6c686",
     "num": "colombotelegraphcom-bae6c686",
     "date_str": "2026-06-30",
@@ -270196,6 +270207,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782836622.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-colombotelegraphcom-1b801ae8",
+    "num": "colombotelegraphcom-1b801ae8",
+    "date_str": "2026-06-30",
+    "description": "The Rise Of Right-Wing Populism in Australia",
+    "url_metadata": "https://www.colombotelegraph.com/index.php/the-rise-of-right-wing-populism-in-australia/",
+    "lang": "en",
+    "newspaper_id": "colombotelegraphcom",
+    "time_ut": 1782839054.0
   },
   {
     "doc_type": "lk_news",
