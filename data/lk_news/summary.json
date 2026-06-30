@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-30 20:43:57",
-  "n_docs": 120912,
+  "time_updated": "2026-06-30 22:36:16",
+  "n_docs": 120920,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 120912,
+  "n_docs_with_text": 120920,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-30",
-  "dataset_size": 1886995734,
+  "dataset_size": 1887123683,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "si",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-30-dailymirrorlk-c773842e",
-    "num": "dailymirrorlk-c773842e",
+    "doc_id": "2026-06-30-tamilmirrorlk-8bcc2ffe",
+    "num": "tamilmirrorlk-8bcc2ffe",
     "date_str": "2026-06-30",
-    "description": "Human\u2013elephant conflict a major national challenge: Wildlife",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Humanelephant-conflict-a-major-national-challenge-Wildlife/108-344276",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782831429.0
+    "description": "\u2019\u2019\u0b8e\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0ba4\u0bb2\u0bc8 \u0b9a\u0bca\u0ba9\u0bcd\u0ba9\u0bbe\u0bb2\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b85\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u2019\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b8e\u0ba9\u0bcd-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b95\u0bbe\u0ba4\u0bb2\u0bc8-\u0b9a\u0bca\u0ba9\u0bcd\u0ba9\u0bbe\u0bb2\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1-\u0b85\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd/54-379309",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782836622.0
   }
 }

@@ -270086,5 +270086,93 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782831429.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-7fa249c7",
+    "num": "dailymirrorlk-7fa249c7",
+    "date_str": "2026-06-30",
+    "description": "Supreme Court rejects Trump bid to restrict birthright citizenship",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Supreme-Court-rejects-Trump-bid-to-restrict-birthright-citizenship/108-344277",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782833559.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-9fb6fe96",
+    "num": "dailymirrorlk-9fb6fe96",
+    "date_str": "2026-06-30",
+    "description": "Sri Lanka reaffirms climate commitment, targets 70% renewable energy by 2030",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-reaffirms-climate-commitment-targets-70-renewable-energy-by-2030/108-344278",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782834639.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-52f7b2c3",
+    "num": "tamilmirrorlk-52f7b2c3",
+    "date_str": "2026-06-30",
+    "description": "\u201c\u0b85\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0b86\u0b9a\u0bc8\u201d",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b85\u0ba4\u0bb1\u0bcd\u0b95\u0bc1-\u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd-\u0b86\u0b9a\u0bc8/54-379306",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782834731.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-1568d4d4",
+    "num": "tamilmirrorlk-1568d4d4",
+    "date_str": "2026-06-30",
+    "description": "\u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0baf\u0bc1\u0bb3\u0bcd \u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b86\u0baf\u0bc1\u0bb3\u0bcd-\u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8/175-379307",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782835120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-940d1a72",
+    "num": "dailymirrorlk-940d1a72",
+    "date_str": "2026-06-30",
+    "description": "Reckless drivers to face criminal prosecution, tougher penalties: Police",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Reckless-drivers-to-face-criminal-prosecution-tougher-penalties-Police/108-344279",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782835234.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-8f42737a",
+    "num": "dailymirrorlk-8f42737a",
+    "date_str": "2026-06-30",
+    "description": "New priority access card for disabled persons announced",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-priority-access-card-for-disabled-persons-announced/108-344280",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782835420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-df7248d5",
+    "num": "tamilmirrorlk-df7248d5",
+    "date_str": "2026-06-30",
+    "description": "\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bbf\u0ba9\u0bcd \u0bae\u0ba3\u0bcd\u0b9f\u0bc8\u0baf\u0bc8 \u0b89\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0baa\u0bb2 \u0ba8\u0b9f\u0bbf\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bbf\u0ba9\u0bcd-\u0bae\u0ba3\u0bcd\u0b9f\u0bc8\u0baf\u0bc8-\u0b89\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4-\u0baa\u0bbf\u0bb0\u0baa\u0bb2-\u0ba8\u0b9f\u0bbf\u0b95\u0bc8/54-379308",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782836025.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-8bcc2ffe",
+    "num": "tamilmirrorlk-8bcc2ffe",
+    "date_str": "2026-06-30",
+    "description": "\u2019\u2019\u0b8e\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b95\u0bbe\u0ba4\u0bb2\u0bc8 \u0b9a\u0bca\u0ba9\u0bcd\u0ba9\u0bbe\u0bb2\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1 \u0b85\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u2019\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b8e\u0ba9\u0bcd-\u0bae\u0bc1\u0ba4\u0bb2\u0bcd-\u0b95\u0bbe\u0ba4\u0bb2\u0bc8-\u0b9a\u0bca\u0ba9\u0bcd\u0ba9\u0bbe\u0bb2\u0bcd-\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bc1-\u0b85\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bcd/54-379309",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782836622.0
   }
 ]
