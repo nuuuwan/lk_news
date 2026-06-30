@@ -1,0 +1,43 @@
+Protecting children online: Copying Australia is not enough
+
+While these platforms offer opportunities for learning, creativity and social connection, they also expose children to cyberbullying, harmful content, misinformation, online predators and may create unhealthy patterns of screen use
+
+Children today are growing up in an online environment fundamentally different from the one their parents experienced. Social media platforms are designed to capture attention, encourage engagement, and keep users connected for as long as possible. While these platforms offer opportunities for learning, creativity and social connection, they also expose children to cyberbullying, harmful content, misinformation, online predators and may create unhealthy patterns of screen use.
+
+The presentation of a Private Member’s Bill by Opposition MP Faiszer Musthapha, seeking to restrict social media access for children under the age of 16, has reignited an important debate. The question is not whether children need stronger protection online. It is whether Sri Lanka is proposing the right solution and whether it has done the groundwork necessary to make such a solution effective.
+
+The Bill would empower ministers to require internet service providers and social media platforms to prevent access by children under 16 and impose restrictions on younger users. It also envisages controls on the amount of time children can spend on certain online services and even the times of day they may access them.
+
+At first glance, much of the language appears familiar because it is directly borrowed from Australia’s social media age restrictions, the first of their kind in the world. This includes the definition of an “age-restricted social media platform,” which is particularly broad and could potentially capture services with social media-like functionality beyond what most people would traditionally consider social media.
+
+However, Sri Lanka appears to have borrowed only part of the Australian model.
+
+Australia’s legislation not only provided a broad definition but also gave the responsible minister the power to specify which services should be excluded where doing so would minimise harm to young users. Those powers were subsequently used to exempt several services, including messaging platforms such as WhatsApp, from the restrictions. The Sri Lankan Bill adopts the broad language but not the accompanying safeguards, leaving significant uncertainty regarding which services would ultimately fall within its scope. In effect, Sri Lanka appears to have borrowed the definition without the mechanisms that make it workable.
+
+Protecting children online is an important policy objective. But good intentions do not automatically produce good laws. Australia did not simply pass a law; it also built the regulatory framework needed to implement it. If Sri Lanka intends to follow that path, it should do the same. It should begin with research, public consultation, and a clear assessment of risks before enacting laws that are meaningful and capable of being effectively implemented
+
+What is often overlooked in Sri Lanka’s policy debates is that legislation was only the first step in Australia’s approach. The social media restrictions were introduced as amendments to Australia’s existing Online Safety Act framework and were followed by detailed implementation rules clarifying which services would be covered and which would be exempt.
+
+To Australia’s credit, the process moved relatively quickly. The law was passed in late 2024 and the restrictions came into effect less than a year later. However, implementation was supported by a mature online safety regulatory framework, extensive consultation and ministerial powers to clarify exclusions and address practical challenges as they emerged.
+
+Even then, implementation has not been straightforward. Reports following the introduction of the restrictions indicated increases in downloads of lesser-known applications and VPN services as some young users sought ways around the rules. While these trends are said to have stabilised, the long-term efficacy of the policy remains uncertain.
+
+Australia’s experience demonstrates that passing legislation is easier than implementing it. It also shows that successful implementation requires more than a broadly drafted law. It requires regulatory clarity, stakeholder consultation, and institutions capable of adapting to unforeseen consequences.
+
+Rather than rushing to legislate, British policymakers have undertaken consultations, gathered evidence and assessed the risks posed by different online services before finalising a regulatory approach. Current proposals focus on platforms such as Instagram, TikTok, Snapchat, Facebook, X, and YouTube while explicitly excluding messaging services such as WhatsApp and Signal.
+
+Notably, the UK’s approach recognises that not all online services pose the same level of risk. Policymakers have focused on identifying specific features and functionalities such as livestreaming and public interaction that may expose young users to greater harm. Rules are expected to be finalised later this year, with implementation not anticipated until 2027.
+
+Over the past several years, Sri Lanka has developed a habit of borrowing legislative models from other jurisdictions before the necessary consultations, institutional preparation and public debate have taken place. The result is often years of amendments, implementation delays, and continued controversy.
+
+The Personal Data Protection Act, enacted in 2022, is yet to be fully operationalised. The Online Safety Act is already undergoing review and amendment following sustained criticism. In both cases, significant concerns emerged after enactment rather than before it.
+
+The proposed social media age restriction risks following a similar trajectory.
+
+Before introducing restrictions that could affect millions of children, parents, schools, internet providers and digital platforms, policymakers should answer several important questions. Which services would be covered? How would age be verified without creating new privacy risks? Would age verification require the collection of additional personal data? How would regulators address VPN use and other circumvention methods? And most importantly, what evidence exists regarding the extent and nature of harm experienced by Sri Lankan children online?
+
+Without answers to these questions, there is a risk that the debate becomes focused on importing a solution rather than addressing the real problem.
+
+Protecting children online is an important policy objective. But good intentions do not automatically produce good laws. Australia did not simply pass a law; it also built the regulatory framework needed to implement it. If Sri Lanka intends to follow that path, it should do the same. It should begin with research, public consultation, and a clear assessment of risks before enacting laws that are meaningful and capable of being effectively implemented.
+
+(The author is a researcher at LIRNEasia and holds a BSc in Business Economics with First Class Honours from the University of Sri Jayewardenepura. In addition to her academic background in economics, she is also an Attorney-at-Law, bringing interdisciplinary expertise to her research work.)

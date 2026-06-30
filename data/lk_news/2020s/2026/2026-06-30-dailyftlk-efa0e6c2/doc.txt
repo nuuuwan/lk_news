@@ -1,0 +1,67 @@
+Corporate restructuring: Mastering the tools, navigating the tax
+
+Corporate restructuring is simultaneously an art and a science. It is a discipline that demands both technical mastery and strategic judgment, the capacity to identify the right instrument for the right purpose, and the wisdom to deploy it with precision. For advisers, in-house counsel, and finance professionals operating in Sri Lanka’s evolving regulatory landscape, this dual competency has never been more consequential.
+
+The first imperative is command of the available tools. Corporate restructuring does not operate in a vacuum. It draws from a rich body of statute and practice; the Companies Act No. 07 of 2007, the Rescue, Rehabilitation and Insolvency (Corporate and Personal) Act, No. 12 of 2026, the Foreign Exchange Act, the Securities and Exchange Commission Act, and the Bills of Exchange Ordinance etc, each contributing a distinct set of instruments that the skilled practitioner must know with fluency.
+
+The Companies Act provides the broadest and most frequently deployed toolkit. At the capital structure level, a company may issue new shares, ordinary, preference, or redeemable , through a public or private placement, or conduct a rights issue to raise fresh equity from existing shareholders on a pro-rata basis. Share consolidations reduce the number of shares in issue by combining multiple shares into one unit, whilst share splits achieve the inverse, increasing liquidity by subdividing existing shares. Bonus issues capitalise retained earnings or reserves by issuing script shares to existing shareholders, restructuring the equity base without any cash movement.
+
+On the distribution side, the Act contemplates cash dividends, in-specie dividends (where assets rather than cash are transferred to shareholders ) and scrip dividends, where shareholders receive new shares in lieu of a cash payout. Each carries a distinct commercial rationale and a distinct tax profile.
+
+The Act also governs reductions of capital, a powerful mechanism enabling a company to return surplus capital to shareholders by coupling with share buyback, write off accumulated losses against stated capital, or simplify a complex capital structure. Undertaken by special resolution and, where required, court confirmation, a capital reduction can fundamentally reposition a company’s balance sheet. Share buybacks provide a related tool, enabling a company to repurchase its own shares from the market or from specific shareholders, concentrating ownership and returning value without a formal dividend.
+
+At the structural level, amalgamations under the Companies Act allow two or more companies to be fused into a single combined unit with assets, liabilities, and undertakings succeeded to by the amalgamated company  by operation of law.
+
+Schemes of arrangement, sanctioned by court, offer a flexible framework for reorganising shareholding, settling creditor claims, or restructuring group entities, provided the requisite statutory majorities and judicial approval are obtained.
+
+Beyond capital, the Act governs the conversion of a company’s legal form, from private to public, from a guarantee company to a share company, as well as the voluntary liquidation and striking off of entities that have served their structural purpose within a group.
+
+Rescue, Rehabilitation and Insolvency (Corporate and Personal) Act, No. 12 of 2026: Restructuring under stress
+
+Successful corporate restructuring is about more than just knowing the law; it is about using the right tools to solve the right problems. Whether you are navigating the Companies Act, managing financial distress under the new insolvency laws, or handling cross-border regulations, each step requires careful planning. Most importantly, tax considerations should never be an afterthought, they must be a part of the initial strategy to ensure the process adds real value rather than unnecessary costs
+
+The Rescue, Rehabilitation and Insolvency (Corporate and Personal) Act introduces a distinct and specialised set of tools for companies navigating financial distress.
+
+At the pre-insolvency end of the spectrum, the rescue procedure provides a court-sanctioned statutory moratorium, a suspension of creditor enforcement actions, during which a licensed insolvency practitioner is appointed to assess the viability of the business and formulate a rescue plan. The rescue plan itself is a remarkably flexible restructuring instrument: it may provide for the full or partial write-off of debt, the conversion of debt to equity, deferred or rescheduled payment arrangements, the disposal of non-core assets, operational downsizing, or any combination thereof, subject to approval by the prescribed majority of creditors.
+
+Where a company or individual is insolvent but retains underlying viability, the rehabilitation procedure offers a court-supervised framework for structured repayment and reorganisation, balancing creditor recovery with the preservation of the enterprise as a going concern.
+
+For companies beyond rehabilitation, corporate liquidation , whether voluntary or court-ordered, governs the orderly realisation of assets and the settlement of creditor claims in the statutory order of priority; within a group restructuring context, the deliberate liquidation of a redundant or loss-making subsidiary can itself constitute a purposeful restructuring step.
+
+Cutting across all of these procedures is a critical tax dimension: the Act amends Section 175(6) of the Inland Revenue Act to confer super-priority status on APIT obligations arising after the appointment of an insolvency practitioner, ranking such obligations ahead of secured and unsecured creditors alike, a provision that carries direct and material consequences for the design of any rescue or rehabilitation transaction.
+
+For listed companies, the Securities and Exchange Commission Act and the Listing Rules of the Colombo Stock Exchange introduce an additional layer of both constraint and opportunity. Initial public offerings and secondary listings are themselves restructuring events, transforming the shareholder structure and the governance architecture of an enterprise.
+
+Takeovers and mandatory offers, governed by the SEC’s Takeovers and Mergers Code, regulate the acquisition of controlling interests and trigger obligations that must be carefully navigated in any share-based restructuring. Rights issues by listed companies are subject to SEC oversight, as are share buybacks conducted through the exchange. The substantial acquisition of shares and the disclosure of material interests impose transparency obligations that shape the sequencing and structure of any group reorganisation involving a listed entity.
+
+Foreign Exchange Act No. 12 of 2017: Managing the cross-border dimension
+
+Where restructuring has an international dimension, whether through foreign shareholders, cross-border intra group transfers, offshore financing arrangements, or the repatriation of dividends, the Foreign Exchange Act becomes a central regulatory framework.
+
+Inward and outward remittances, the issuance of shares to non-residents, the grant of intragroup loans across borders, and the pledging of Sri Lankan assets to foreign lenders all require Central Bank approval or compliance with the relevant directions issued thereunder.
+
+A restructuring that overlooks  foreign exchange rules, whether at the design stage or in execution, risks regulatory non-compliance that can unwind an otherwise sound transaction.
+
+Less commonly considered in restructuring discussions, the Bills of Exchange Ordinance nonetheless plays a practical role in formalising intragroup financial arrangements. Promissory notes and bills of exchange are instruments frequently employed to document intra group loans, deferred consideration obligations, and vendor financing arrangements within a restructured group. Their proper execution, endorsement, and enforcement are governed by the Ordinance, and their characterisation has direct implications for stamp duty exposure and, in certain circumstances, withholding tax obligations on interest payments.
+
+Knowledge of the toolkit is only the starting point. The art lies in selecting and combining the appropriate instruments to suit a specific set of commercial, legal, and financial circumstances.
+
+A restructuring designed to separate a profitable subsidiary from a distressed holding entity demands a different configuration from one intended to consolidate group shareholding ahead of a capital markets transaction.
+
+A management buyout calls for different instruments than a cross-border intra group reorganisation. The skilled practitioner reads the circumstances, the commercial objective, the stakeholder map, the regulatory environment, the timeline, the exit horizon, and constructs a solution that is both legally coherent and commercially effective.
+
+If science and the art define the framework, it is the tax dimension that ultimately determines whether a restructuring succeeds or fails. Every instrument in the toolkit carries tax consequences.
+
+Capital reductions, amalgamations, and in-specie distributions each may or may not trigger income tax analysis, particularly around capital gains, and the application of transfer pricing rules to intragroup transactions.
+
+Stamp duty is attached to certain instruments. VAT implications arise where asset transfers are structured as going concern disposals or where in-specie distributions involve taxable supplies.
+
+Withholding tax obligations on dividends, interest, and royalties must be mapped against any applicable double tax treaties where cross-border elements exist.
+
+The Exchange Control dimension adds a further layer: the tax treatment of remittances and the characterisation of intragroup funding as debt or equity can differ significantly across regulatory frameworks.
+
+Failure to integrate tax planning from the earliest stage of restructuring design, not as an afterthought but as a foundational input, can transform a commercially sound transaction into a costly liability. Conversely, a well-structured, tax-efficient reorganisation creates genuine and durable value.
+
+In short, successful corporate restructuring is about more than just knowing the law; it is about using the right tools to solve the right problems. Whether you are navigating the Companies Act, managing financial distress under the new insolvency laws, or handling cross-border regulations, each step requires careful planning. Most importantly, tax considerations should never be an afterthought, they must be a part of the initial strategy to ensure the process adds real value rather than unnecessary costs. By balancing technical knowledge with practical, clear-headed decision-making, professionals can effectively guide companies through change and position them for long-term stability.
+
+(The author, an Attorney-at-Law (LLB), FCMA(UK), CGMA, FCMA, was awarded Tax Practice Leader of the Year 2024 (ASPAC) by International Tax Review (ITR) and was a top-four finalist for Tax Litigation and Disputes Practice Leader of the Year)

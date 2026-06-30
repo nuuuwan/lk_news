@@ -266712,6 +266712,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-8f0c40cf",
+    "num": "islandlk-8f0c40cf",
+    "date_str": "2026-06-28",
+    "description": "From Windrush to Brexit: Redrawing Britain\u2019s Migration Map",
+    "url_metadata": "http://island.lk/from-windrush-to-brexit-redrawing-britains-migration-map/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782659940.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-28-tamilmirrorlk-a54e6041",
     "num": "tamilmirrorlk-a54e6041",
     "date_str": "2026-06-28",
@@ -268054,6 +268065,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-29-islandlk-d78b208a",
+    "num": "islandlk-d78b208a",
+    "date_str": "2026-06-29",
+    "description": "Pure nostalgia magic",
+    "url_metadata": "http://island.lk/pure-nostalgia-magic/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782735600.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-29-virakesarilk-6ea0caaa",
     "num": "virakesarilk-6ea0caaa",
     "date_str": "2026-06-29",
@@ -268205,5 +268227,159 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782760922.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-914a6a57",
+    "num": "dailyftlk-914a6a57",
+    "date_str": "2026-06-30",
+    "description": "Thailand\u2013Sri Lanka Business Forum charts new pathways for trade, investment and regional growth",
+    "url_metadata": "https://www.ft.lk/business/ThailandSri-Lanka-Business-Forum-charts-new-pathways-for-trade-investment-and-regional-growth/34-793936",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782775797.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-0cea2a38",
+    "num": "dailyftlk-0cea2a38",
+    "date_str": "2026-06-30",
+    "description": "Renowned environmental architect Sunela to headline Dilmah Conservation\u2019s Grey2Green masterclass",
+    "url_metadata": "https://www.ft.lk/business/Renowned-environmental-architect-Sunela-to-headline-Dilmah-Conservation-s-Grey2Green-masterclass/34-793937",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782775881.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-a94628cd",
+    "num": "dailyftlk-a94628cd",
+    "date_str": "2026-06-30",
+    "description": "Dr. Rohantha Athukorala awarded Rotarian of the Year",
+    "url_metadata": "https://www.ft.lk/business/Dr-Rohantha-Athukorala-awarded-Rotarian-of-the-Year/34-793938",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782775954.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-b816b4e8",
+    "num": "dailyftlk-b816b4e8",
+    "date_str": "2026-06-30",
+    "description": "Sri Lanka joins EUROBIKE Frankfurt 2026",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-joins-EUROBIKE-Frankfurt-2026/34-793939",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782776022.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-ae050aeb",
+    "num": "dailyftlk-ae050aeb",
+    "date_str": "2026-06-30",
+    "description": "Poson lessons for leaders: Battling in BANI world",
+    "url_metadata": "https://www.ft.lk/columns/Poson-lessons-for-leaders-Battling-in-BANI-world/4-793950",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782777950.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-8deb35b8",
+    "num": "dailyftlk-8deb35b8",
+    "date_str": "2026-06-30",
+    "description": "Protecting children online: Copying Australia is not enough",
+    "url_metadata": "https://www.ft.lk/columns/Protecting-children-online-Copying-Australia-is-not-enough/4-793952",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782778424.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-b8f55776",
+    "num": "dailyftlk-b8f55776",
+    "date_str": "2026-06-30",
+    "description": "SriLankan cleared over UAE payment after probe traces cyber attack to recipient",
+    "url_metadata": "https://www.ft.lk/business/SriLankan-cleared-over-UAE-payment-after-probe-traces-cyber-attack-to-recipient/34-793954",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782778845.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-093b2964",
+    "num": "dailyftlk-093b2964",
+    "date_str": "2026-06-30",
+    "description": "CPC reduces Auto Diesel and Petrol 92 prices",
+    "url_metadata": "https://www.ft.lk/business/CPC-reduces-Auto-Diesel-and-Petrol-92-prices/34-793955",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782778982.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-95e0b0b9",
+    "num": "dailyftlk-95e0b0b9",
+    "date_str": "2026-06-30",
+    "description": "Ja\u2019pura Uni. publishes international case study on Port City Colombo",
+    "url_metadata": "https://www.ft.lk/business/Ja-pura-Uni-publishes-international-case-study-on-Port-City-Colombo/34-793956",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782779103.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-6b689d20",
+    "num": "dailyftlk-6b689d20",
+    "date_str": "2026-06-30",
+    "description": "Para-tariff phase-out starts in 2028 under Customs reform drive",
+    "url_metadata": "https://www.ft.lk/business/Para-tariff-phase-out-starts-in-2028-under-Customs-reform-drive/34-793957",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782779187.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-15b9b62b",
+    "num": "dailyftlk-15b9b62b",
+    "date_str": "2026-06-30",
+    "description": "Daree or The Cave by Bertram Nihal: Has it created a new genre to take Sinhala cinema to the world?",
+    "url_metadata": "https://www.ft.lk/columns/Daree-or-The-Cave-by-Bertram-Nihal-Has-it-created-a-new-genre-to-take-Sinhala-cinema-to-the-world/4-793958",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782779542.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-efa0e6c2",
+    "num": "dailyftlk-efa0e6c2",
+    "date_str": "2026-06-30",
+    "description": "Corporate restructuring: Mastering the tools, navigating the tax",
+    "url_metadata": "https://www.ft.lk/columns/Corporate-restructuring-Mastering-the-tools-navigating-the-tax/4-793959",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782779952.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-4d163d72",
+    "num": "dailyftlk-4d163d72",
+    "date_str": "2026-06-30",
+    "description": "The era of rubber-stamp Boards is over",
+    "url_metadata": "https://www.ft.lk/opinion/The-era-of-rubber-stamp-Boards-is-over/14-793960",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782780069.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailyftlk-d45ac980",
+    "num": "dailyftlk-d45ac980",
+    "date_str": "2026-06-30",
+    "description": "Impact of Land (Restrictions on Alienation) Act on property transactions in Sri Lanka: A legal and policy analysis",
+    "url_metadata": "https://www.ft.lk/columns/Impact-of-Land-Restrictions-on-Alienation-Act-on-property-transactions-in-Sri-Lanka-A-legal-and-policy-analysis/4-793961",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782780487.0
   }
 ]

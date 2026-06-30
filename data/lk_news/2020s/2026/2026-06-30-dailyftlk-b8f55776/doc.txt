@@ -1,0 +1,11 @@
+SriLankan cleared over UAE payment after probe traces cyber attack to recipient
+
+SriLankan Airlines has been cleared of any wrongdoing over a disputed payment to a Dubai-based service provider after investigations established that the funds had been successfully remitted and that the cyber attack originated at the recipient’s end, Ports and Aviation Deputy Minister Janitha Kodithuwakku said.
+
+Responding to questions on the incident, the Deputy Minister said the payment had been classified as successfully completed as the cyber compromise had occurred on the service provider’s side rather than within SriLankan Airlines’ systems.
+
+Earlier, SriLankan Airlines said it had been informed by a service provider in Dubai, United Arab Emirates, that a payment of AED 974,000 had not been received.
+
+Subsequent investigations found that the service provider’s email account had been compromised by a third party, which had altered the beneficiary bank account details. The attackers had also provided the requested supporting documentation through the established official communication channels, misleading SriLankan Airlines into believing it was dealing directly with the legitimate service provider.
+
+The national carrier maintained that the payment instructions had been manipulated only after the service provider’s email account had been compromised, resulting in the funds being transferred to the altered bank account.
