@@ -269462,6 +269462,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-30-adalk-757f4fa6",
+    "num": "adalk-757f4fa6",
+    "date_str": "2026-06-30",
+    "description": "\u0da0\u0dd3\u0db1\u0dba\u0dda \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0db4\u0dca\u200d\u0dbb \u0d9a\u0ddd\u0da7\u0dd2\u0db4\u0dad\u0dd2 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0da7 \u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0dd2\u0dbb \u0daf\u0da9\u0dd4\u0dc0\u0db8\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da0\u0dd3\u0db1\u0dba\u0dda-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0db4\u0dca\u200d\u0dbb-\u0d9a\u0ddd\u0da7\u0dd2\u0db4\u0dad\u0dd2-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dcf\u0dbb\u0dd2\u0d9a\u0dba\u0dd9\u0d9a\u0dd4\u0da7-\u0d87\u0db8\u0dd9\u0dbb\u0dd2\u0d9a\u0dcf\u0dc0\u0dd9\u0db1\u0dca-\u0dc3\u0dd2\u0dbb-\u0daf\u0da9\u0dd4\u0dc0\u0db8\u0dca/11-423044",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782799950.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-30-dailymirrorlk-674548df",
     "num": "dailymirrorlk-674548df",
     "date_str": "2026-06-30",
@@ -269525,5 +269536,115 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782803760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-f4574ff9",
+    "num": "dailymirrorlk-f4574ff9",
+    "date_str": "2026-06-30",
+    "description": "Bribery Commission issues notice on asset and liability declarations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bribery-Commission-issues-notice-on-asset-and-liability-declarations/108-344245",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782805983.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-1e4852a4",
+    "num": "tamilmirrorlk-1e4852a4",
+    "date_str": "2026-06-30",
+    "description": "\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bbf : \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bc1\u0bb3\u0bbf\u0bb0\u0bcd\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4 \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b9c\u0bc6\u0bb0\u0bcd\u0bae\u0ba9\u0bbf-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8-\u0b95\u0bc1\u0bb3\u0bbf\u0bb0\u0bcd\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/50-379285",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782807391.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-cf9e9598",
+    "num": "tamilmirrorlk-cf9e9598",
+    "date_str": "2026-06-30",
+    "description": "4.4 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0baa\u0bb4\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0ba4\u0bca\u0bb2\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/4-4-\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0baa\u0bb4\u0bae\u0bc8\u0baf\u0bbe\u0ba9-\u0ba4\u0bca\u0bb2\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd/53-379286",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782807392.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-0b54b00f",
+    "num": "tamilmirrorlk-0b54b00f",
+    "date_str": "2026-06-30",
+    "description": "\u0b85\u0ba9\u0bc1\u0bb0\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bbe\u0baf\u0bcd \u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1: \u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bbe\u0ba9\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba9\u0bc1\u0bb0\u0bb5\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbe\u0baf\u0bcd-\u0baa\u0bcb\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1-\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bbe\u0ba9\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0b9f\u0bb2\u0bcd/175-379287",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782808578.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-5a653f51",
+    "num": "tamilmirrorlk-5a653f51",
+    "date_str": "2026-06-30",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0 \u0ba8\u0bbf\u0bb2\u0bc8: IMF \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b85\u0bb1\u0bbf\u0bb5\u0bc1\u0bb0\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0-\u0ba8\u0bbf\u0bb2\u0bc8-IMF-\u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b85\u0bb1\u0bbf\u0bb5\u0bc1\u0bb0\u0bc8/175-379288",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782808677.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-746111f6",
+    "num": "dailymirrorlk-746111f6",
+    "date_str": "2026-06-30",
+    "description": "Mr. Kottu restaurant chain owner arrested over alleged assault of employee",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mr-Kottu-restaurant-chain-owner-arrested-over-alleged-assault-of-employee/108-344246",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782808942.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-cb908d05",
+    "num": "dailymirrorlk-cb908d05",
+    "date_str": "2026-06-30",
+    "description": "Sajith Premadasa urges science-based national preparedness for emerging climate risks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-Premadasa-urges-science-based-national-preparedness-for-emerging-climate-risks/108-344247",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782809224.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-07181a61",
+    "num": "dailymirrorlk-07181a61",
+    "date_str": "2026-06-30",
+    "description": "Sniper rifle and ammunition recovered in Damana Forest Reserve",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sniper-rifle-and-ammunition-recovered-in-Damana-Forest-Reserve/108-344248",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782809890.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-eee079d5",
+    "num": "dailymirrorlk-eee079d5",
+    "date_str": "2026-06-30",
+    "description": "Navy Commander Kanchana Banagoda promoted to Admiral ahead of retirement",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-Commander-Kanchana-Banagoda-promoted-to-Admiral-ahead-of-retirement/108-344249",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782810207.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-a0748f9d",
+    "num": "dailymirrorlk-a0748f9d",
+    "date_str": "2026-06-30",
+    "description": "Suspect arrested with five unregistered high-capacity motorbikes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suspect-arrested-with-five-unregistered-high-capacity-motorbikes/108-344250",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782810614.0
   }
 ]

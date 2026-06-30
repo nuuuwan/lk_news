@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-06-30 13:12:04",
-  "n_docs": 120861,
+  "time_updated": "2026-06-30 15:01:05",
+  "n_docs": 120872,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 120861,
+  "n_docs_with_text": 120872,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-06-30",
-  "dataset_size": 1886222812,
+  "dataset_size": 1886551309,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-30-tamilmirrorlk-bc5c462d",
-    "num": "tamilmirrorlk-bc5c462d",
+    "doc_id": "2026-06-30-dailymirrorlk-a0748f9d",
+    "num": "dailymirrorlk-a0748f9d",
     "date_str": "2026-06-30",
-    "description": "\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb5\u0bc7\u0b95\u0baa\u0bcd \u0baa\u0baf\u0ba3\u0bae\u0bcd: \u0b9a\u0bbf\u0b9a\u0bbf\u0b9f\u0bbf\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0ba9 \u0b9a\u0bcb\u0b95\u0bae\u0bcd",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0bb5\u0bc7\u0b95\u0baa\u0bcd-\u0baa\u0baf\u0ba3\u0bae\u0bcd-\u0b9a\u0bbf\u0b9a\u0bbf\u0b9f\u0bbf\u0bb5\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0ba9-\u0b9a\u0bcb\u0b95\u0bae\u0bcd/175-379284",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1782803760.0
+    "description": "Suspect arrested with five unregistered high-capacity motorbikes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suspect-arrested-with-five-unregistered-high-capacity-motorbikes/108-344250",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782810614.0
   }
 }
