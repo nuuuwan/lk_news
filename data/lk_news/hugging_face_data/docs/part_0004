@@ -264061,6 +264061,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-26-dailymirrorlk-ee9e1a0a",
+    "num": "dailymirrorlk-ee9e1a0a",
+    "date_str": "2026-06-26",
+    "description": "Why Countries Are Banning Children from Social Media and What It Means for Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/news-features/Why-Countries-Are-Banning-Children-from-Social-Media-and-What-It-Means-for-Sri-Lanka/131-344046",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782495492.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-27-dailymirrorlk-2c913850",
     "num": "dailymirrorlk-2c913850",
     "date_str": "2026-06-27",
@@ -270262,5 +270273,181 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782844443.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-7bbcee40",
+    "num": "dailymirrorlk-7bbcee40",
+    "date_str": "2026-07-01",
+    "description": "Dialog Introduces Motorola G35 5G\u00a0and\u00a0Motorola G57 5G",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Dialog-Introduces-Motorola-G35-5GandMotorola-G57-5G/273-344289",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782845952.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-65662e70",
+    "num": "dailymirrorlk-65662e70",
+    "date_str": "2026-07-01",
+    "description": "KPMG webinar on Corporate Restructuring Techniques",
+    "url_metadata": "https://www.dailymirror.lk/business-news/KPMG-webinar-on-Corporate-Restructuring-Techniques/273-344290",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782846120.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-7e6e4f47",
+    "num": "dailymirrorlk-7e6e4f47",
+    "date_str": "2026-07-01",
+    "description": "People\u2019s Leasing sets new benchmark in corporate reporting with AI-enabled 13th Integrated Annual Report",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Peoples-Leasing-sets-new-benchmark-in-corporate-reporting-with-AI-enabled-13th-Integrated-Annual-Report/273-344291",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782846228.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-b90ad837",
+    "num": "dailymirrorlk-b90ad837",
+    "date_str": "2026-07-01",
+    "description": "SL to position itself as a regional hub for artificial intelligence infrastructure",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SL-to-position-itself-as-a-regional-hub-for-artificial-intelligence-infrastructure/273-344292",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782846339.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-tamilmirrorlk-a3d96b13",
+    "num": "tamilmirrorlk-a3d96b13",
+    "date_str": "2026-07-01",
+    "description": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0ba4\u0bcd \u0ba4\u0bb3\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95 \u0b9f\u0bc7\u0bae\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb \u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0ba4\u0bcd-\u0ba4\u0bb3\u0baa\u0ba4\u0bbf\u0baf\u0bbe\u0b95-\u0b9f\u0bc7\u0bae\u0bbf\u0baf\u0ba9\u0bcd-\u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb-\u0ba8\u0bbf\u0baf\u0bae\u0ba9\u0bae\u0bcd/175-379312",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782846572.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-dd810768",
+    "num": "dailymirrorlk-dd810768",
+    "date_str": "2026-07-01",
+    "description": "Secondary market commences week on a quiet note",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Secondary-market-commences-week-on-a-quiet-note/273-344293",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782846741.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-2831aeed",
+    "num": "dailymirrorlk-2831aeed",
+    "date_str": "2026-07-01",
+    "description": "Indices close in red",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-in-red/273-344294",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782846837.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-1b6abbee",
+    "num": "dailymirrorlk-1b6abbee",
+    "date_str": "2026-07-01",
+    "description": "Food and energy costs push Sri Lanka inflation to 6.8% in June",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Food-and-energy-costs-push-Sri-Lanka-inflation-to-6-8-in-June/273-344295",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782846908.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-3db96d44",
+    "num": "dailymirrorlk-3db96d44",
+    "date_str": "2026-07-01",
+    "description": "Nordic investors channel US$ 35mn into Sri Lanka\u2019s MSME sector via LB Finance",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Nordic-investors-channel-US-35mn-into-Sri-Lankas-MSME-sector-via-LB-Finance/273-344296",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782846965.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-e47efe03",
+    "num": "dailymirrorlk-e47efe03",
+    "date_str": "2026-07-01",
+    "description": "Duminda Hulangamuwa takes helm at BOI",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Duminda-Hulangamuwa-takes-helm-at-BOI/273-344297",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782847260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-d9c0a953",
+    "num": "dailymirrorlk-d9c0a953",
+    "date_str": "2026-07-01",
+    "description": "Construction firms report strong project pipeline despite mounting cost pressures",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Construction-firms-report-strong-project-pipeline-despite-mounting-cost-pressures/273-344298",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782847343.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-abaafec0",
+    "num": "dailymirrorlk-abaafec0",
+    "date_str": "2026-07-01",
+    "description": "Sri Lanka weathers Middle East shock better than expected: IMF",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Sri-Lanka-weathers-Middle-East-shock-better-than-expected-IMF/245-344299",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782847558.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-10458708",
+    "num": "dailymirrorlk-10458708",
+    "date_str": "2026-07-01",
+    "description": "Dengue:  Prevention Cannot Be an  Afterthought",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Dengue-Prevention-Cannot-Be-an-Afterthought/172-344304",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782850698.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-e77f7459",
+    "num": "dailymirrorlk-e77f7459",
+    "date_str": "2026-07-01",
+    "description": "Politicians and the media - A love- hate relationship",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Politicians-and-the-media-A-love-hate-relationship/172-344305",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782850999.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-aa3b1ff0",
+    "num": "dailymirrorlk-aa3b1ff0",
+    "date_str": "2026-07-01",
+    "description": "How far does the political-underworld nexus extend in Sri Lanka?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/How-far-does-the-political-underworld-nexus-extend-in-Sri-Lanka/172-344307",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782852093.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-f4522af6",
+    "num": "dailymirrorlk-f4522af6",
+    "date_str": "2026-07-01",
+    "description": "The narrowing window:  Small-state agency in an age of multipolar scenario",
+    "url_metadata": "https://www.dailymirror.lk/opinion/The-narrowing-window-Small-state-agency-in-an-age-of-multipolar-scenario/172-344308",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782852760.0
   }
 ]
