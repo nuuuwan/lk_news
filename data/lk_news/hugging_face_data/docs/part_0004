@@ -258308,6 +258308,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-24-adalk-4ee9d092",
+    "num": "adalk-4ee9d092",
+    "date_str": "2026-06-24",
+    "description": "\u0db6\u0dca\u200d\u0dbb\u0dd0\u0db1\u0dca\u0da9\u0dd2\u0d9a\u0dca\u0dc3\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0dda \u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dd2\u0d9a \u0dc4\u0dcf \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf \u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb \u0dad\u0dc0\u0dad\u0dca \u0d85\u0daf\u0dd2\u0dba\u0dbb\u0d9a\u0dca \u0db1\u0dd2\u0db8\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/\u0db6\u0dca\u200d\u0dbb\u0dd0\u0db1\u0dca\u0da9\u0dd2\u0d9a\u0dca\u0dc3\u0dca-\u0dc3\u0db8\u0dd6\u0dc4\u0dba\u0dda-\u0d85\u0db0\u0dca\u200d\u0dba\u0dcf\u0db4\u0db1\u0dd2\u0d9a-\u0dc4\u0dcf-\u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf-\u0dc3\u0dad\u0dca\u0d9a\u0dcf\u0dbb-\u0dad\u0dc0\u0dad\u0dca-\u0d85\u0daf\u0dd2\u0dba\u0dbb\u0d9a\u0dca-\u0db1\u0dd2\u0db8\u0dba\u0dd2/7-422973",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782277236.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-24-dailymirrorlk-108e521c",
     "num": "dailymirrorlk-108e521c",
     "date_str": "2026-06-24",
@@ -263632,6 +263643,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-26-islandlk-adc111cc",
+    "num": "islandlk-adc111cc",
+    "date_str": "2026-06-26",
+    "description": "Justice, hypocrisy and politics",
+    "url_metadata": "http://island.lk/justice-hypocrisy-and-politics/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782486540.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-26-islandlk-7711ba3a",
     "num": "islandlk-7711ba3a",
     "date_str": "2026-06-26",
@@ -266657,6 +266679,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-74149e48",
+    "num": "islandlk-74149e48",
+    "date_str": "2026-06-28",
+    "description": "Seeing things as they truly are",
+    "url_metadata": "http://island.lk/seeing-things-as-they-truly-are/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782652260.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-28-dailymirrorlk-d582d57d",
     "num": "dailymirrorlk-d582d57d",
     "date_str": "2026-06-28",
@@ -266690,6 +266723,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-ffd3d3fd",
+    "num": "islandlk-ffd3d3fd",
+    "date_str": "2026-06-28",
+    "description": "Lanka Hospitals celebrates 2025 milestones at Pulse of Excellence Awards",
+    "url_metadata": "http://island.lk/lanka-hospitals-celebrates-2025-milestones-at-pulse-of-excellence-awards/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782653700.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-28-islandlk-e1f2ec45",
     "num": "islandlk-e1f2ec45",
     "date_str": "2026-06-28",
@@ -266709,6 +266753,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1782653880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-db6240a5",
+    "num": "islandlk-db6240a5",
+    "date_str": "2026-06-28",
+    "description": "Ceylon Green Life Plantation expands internationally with Malaysia greenhouse venture",
+    "url_metadata": "http://island.lk/ceylon-green-life-plantation-expands-internationally-with-malaysia-greenhouse-venture/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782654000.0
   },
   {
     "doc_type": "lk_news",
@@ -266753,6 +266808,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1782661320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-07dc1c09",
+    "num": "islandlk-07dc1c09",
+    "date_str": "2026-06-28",
+    "description": "Zydus, Sunshine launch US$20 million pharma plant in Horana to boost local drug manufacturing",
+    "url_metadata": "http://island.lk/zydus-sunshine-launch-us20-million-pharma-plant-in-horana-to-boost-local-drug-manufacturing/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782663120.0
   },
   {
     "doc_type": "lk_news",
@@ -268131,6 +268197,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-29-islandlk-0da892ef",
+    "num": "islandlk-0da892ef",
+    "date_str": "2026-06-29",
+    "description": "The US occupation of the Indian Ocean \u2018Zone of Peace\u2019",
+    "url_metadata": "http://island.lk/the-us-occupation-of-the-indian-ocean-zone-of-peace/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782735780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-islandlk-d81f2cf1",
+    "num": "islandlk-d81f2cf1",
+    "date_str": "2026-06-29",
+    "description": "Food Studio brings five culinary concepts to Colombo City Centre\u2019s Dining Gallery",
+    "url_metadata": "http://island.lk/food-studio-brings-five-culinary-concepts-to-colombo-city-centres-dining-gallery/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782735900.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-29-virakesarilk-6ea0caaa",
     "num": "virakesarilk-6ea0caaa",
     "date_str": "2026-06-29",
@@ -268161,6 +268249,28 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1782736080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-islandlk-f9f64469",
+    "num": "islandlk-f9f64469",
+    "date_str": "2026-06-29",
+    "description": "CDS to limit activity on Dormant Accounts until reactivation as part of investor protection measures",
+    "url_metadata": "http://island.lk/cds-to-limit-activity-on-dormant-accounts-until-reactivation-as-part-of-investor-protection-measures/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782738780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-islandlk-e4ba1f4b",
+    "num": "islandlk-e4ba1f4b",
+    "date_str": "2026-06-29",
+    "description": "Turning an ecological threat into opportunity: \u2018Hyacinthesis\u2019 Accelerator kicks off",
+    "url_metadata": "http://island.lk/turning-an-ecological-threat-into-opportunity-hyacinthesis-accelerator-kicks-off/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782738840.0
   },
   {
     "doc_type": "lk_news",
@@ -268205,6 +268315,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1782742320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-adalk-8f48ba69",
+    "num": "adalk-8f48ba69",
+    "date_str": "2026-06-29",
+    "description": "\u0dbb\u0dd4\u0d9a\u0dca\u0db8\u0db1\u0dca \u0d85\u0dc3\u0dd2\u0dad \u0dc3\u0db8\u0dd4\u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dd4\u0d9a\u0dca\u0db8\u0db1\u0dca-\u0d85\u0dc3\u0dd2\u0dad-\u0dc3\u0db8\u0dd4\u0d9c\u0db1\u0dd2\u0dba\u0dd2/11-423034",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782742351.0
   },
   {
     "doc_type": "lk_news",
@@ -268469,6 +268590,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782757188.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-dailymirrorlk-0dd13444",
+    "num": "dailymirrorlk-0dd13444",
+    "date_str": "2026-06-29",
+    "description": "Protecting consumers from financial scams",
+    "url_metadata": "https://www.dailymirror.lk/news-features/Protecting-consumers-from-financial-scams/131-344202",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782757519.0
   },
   {
     "doc_type": "lk_news",
@@ -268802,6 +268934,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-30-adalk-1fc137b5",
+    "num": "adalk-1fc137b5",
+    "date_str": "2026-06-30",
+    "description": "\u0db4\u0dd2\u0dc3\u0dca\u0dad\u0ddd\u0dbd \u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca \u0dc4\u0dcf \u0db4\u0dad\u0ddc\u0dbb\u0db8\u0dca 30\u0d9a\u0dca \u0dc3\u0db8\u0d9c \u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dd2\u0dc3\u0dca\u0dad\u0ddd\u0dbd-\u0d85\u0dc0\u0dd2\u0dba\u0d9a\u0dca-\u0dc4\u0dcf-\u0db4\u0dad\u0ddc\u0dbb\u0db8\u0dca-30\u0d9a\u0dca-\u0dc3\u0db8\u0d9c-\u0dc3\u0dd0\u0d9a\u0d9a\u0dbb\u0dd4\u0dc0\u0dd9\u0d9a\u0dca-\u0d85\u0dbd\u0dca\u0dbd\u0dba\u0dd2/11-423035",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782786075.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-adalk-1aed37bc",
+    "num": "adalk-1aed37bc",
+    "date_str": "2026-06-30",
+    "description": "\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0dc4\u0dcf \u0da9\u0dd3\u0dc3\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0db4\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0dc4\u0dcf-\u0da9\u0dd3\u0dc3\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0db4\u0dc4\u0dc5\u0da7/11-423036",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782786555.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-30-virakesarilk-753e0e43",
     "num": "virakesarilk-753e0e43",
     "date_str": "2026-06-30",
@@ -268887,5 +269041,192 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1782789720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-fa39dfe2",
+    "num": "dailymirrorlk-fa39dfe2",
+    "date_str": "2026-06-30",
+    "description": "Asset declaration deadline ends today; CIABOC warns of legal action",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Asset-declaration-deadline-ends-today-CIABOC-warns-of-legal-action/108-344214",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782791612.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-4b0db8a8",
+    "num": "dailymirrorlk-4b0db8a8",
+    "date_str": "2026-06-30",
+    "description": "Six people shot dead at centre for mothers and children in Germany",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Six-people-shot-dead-at-centre-for-mothers-and-children-in-Germany/108-344216",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782791762.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-b32388a1",
+    "num": "dailymirrorlk-b32388a1",
+    "date_str": "2026-06-30",
+    "description": "President attends Thanthirimale Aloka Pooja",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/President-attends-Thanthirimale-Aloka-Pooja/110-344218",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782792853.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-6618d3b0",
+    "num": "dailymirrorlk-6618d3b0",
+    "date_str": "2026-06-30",
+    "description": "Sri Lanka woos U.S. investments for Colombo Port development",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-woos-U-S-investments-for-Colombo-Port-development/108-344219",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782793004.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-95b26cd2",
+    "num": "dailymirrorlk-95b26cd2",
+    "date_str": "2026-06-30",
+    "description": "US and Iran negotiators head to Doha, but meeting uncertain",
+    "url_metadata": "https://www.dailymirror.lk/international/US-and-Iran-negotiators-head-to-Doha-but-meeting-uncertain/107-344221",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782793196.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-339f7422",
+    "num": "dailymirrorlk-339f7422",
+    "date_str": "2026-06-30",
+    "description": "Enhanced rains no cause for alarm: Met. Dept.",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Enhanced-rains-no-cause-for-alarm-Met-Dept/108-344223",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782793426.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-660c2ae5",
+    "num": "dailymirrorlk-660c2ae5",
+    "date_str": "2026-06-30",
+    "description": "CoPF member wants Central Bank, 13 commercial banks to be held to account",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CoPF-member-wants-Central-Bank-13-commercial-banks-to-be-held-to-account/108-344224",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782793700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-beba96b8",
+    "num": "tamilmirrorlk-beba96b8",
+    "date_str": "2026-06-30",
+    "description": "\u0baa\u0bc0\u0b83\u0baa\u0bbe \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd: \u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc8 \u0baa\u0bc6\u0ba9\u0bbe\u0bb2\u0bcd\u0b9f\u0bbf \u0ba4\u0bcd\u0bb0\u0bbf\u0bb2\u0bcd\u0bb2\u0bb0\u0bbf\u0bb2\u0bcd \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bca\u0bb0\u0bbe\u0b95\u0bcd\u0b95\u0bcb",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0baa\u0bc0\u0b83\u0baa\u0bbe-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0bae\u0bcd-\u0ba8\u0bc6\u0ba4\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc8-\u0baa\u0bc6\u0ba9\u0bbe\u0bb2\u0bcd\u0b9f\u0bbf-\u0ba4\u0bcd\u0bb0\u0bbf\u0bb2\u0bcd\u0bb2\u0bb0\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0bae\u0bca\u0bb0\u0bbe\u0b95\u0bcd\u0b95\u0bcb/44-379273",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782793924.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-b861e44c",
+    "num": "dailymirrorlk-b861e44c",
+    "date_str": "2026-06-30",
+    "description": "Two drown after boat capsizes in Loggal Oya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-drown-after-boat-capsizes-in-Loggal-Oya/108-344225",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782794111.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-1fcfca40",
+    "num": "dailymirrorlk-1fcfca40",
+    "date_str": "2026-06-30",
+    "description": "Oil stocks in US Strategic Petroleum Reserve fall by 5.5 million to lowest level since 1983",
+    "url_metadata": "https://www.dailymirror.lk/international/Oil-stocks-in-US-Strategic-Petroleum-Reserve-fall-by-5-5-million-to-lowest-level-since-1983/107-344226",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782794290.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-87ca41eb",
+    "num": "tamilmirrorlk-87ca41eb",
+    "date_str": "2026-06-30",
+    "description": "\u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bbe\u0ba9\u0bcd \u0b86\u0b9c\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb2\u0ba4\u0bcd\u0ba4-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bbe\u0ba9\u0bcd-\u0b86\u0b9c\u0bb0\u0bcd/175-379274",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782795093.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-359608f3",
+    "num": "dailymirrorlk-359608f3",
+    "date_str": "2026-06-30",
+    "description": "Water plant turns out to be illegal liquor factory; 18,575 bottles seized",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Water-plant-turns-out-to-be-illegal-liquor-factory-18-575-bottles-seized/108-344228",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782795150.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-4385a1a4",
+    "num": "tamilmirrorlk-4385a1a4",
+    "date_str": "2026-06-30",
+    "description": "\u0b9c\u0bc7\u0bb0\u0bcd\u0bae\u0ba9\u0bbf\u0baf\u0bc8 \u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd: \u0baa\u0bb0\u0bbe\u0b95\u0bc1\u0bb5\u0bc7\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b9c\u0bc7\u0bb0\u0bcd\u0bae\u0ba9\u0bbf\u0baf\u0bc8-\u0bb5\u0bc0\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0baa\u0bb0\u0bbe\u0b95\u0bc1\u0bb5\u0bc7\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bb5\u0bbf\u0b9f\u0bc1\u0bae\u0bc1\u0bb1\u0bc8/44-379275",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782795385.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-d9a1a63c",
+    "num": "tamilmirrorlk-d9a1a63c",
+    "date_str": "2026-06-30",
+    "description": "\u0baa\u0bca\u0b9a\u0bca\u0ba9\u0bcd \u0ba4\u0bbf\u0ba9 \u0bae\u0ba4 \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0b9a\u0bca\u0ba9\u0bcd-\u0ba4\u0bbf\u0ba9-\u0bae\u0ba4-\u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-\u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf-\u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bc1/46-379276",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782795736.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-bc443ef1",
+    "num": "tamilmirrorlk-bc443ef1",
+    "date_str": "2026-06-30",
+    "description": "\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bbe\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 5 \u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1  \u0baa\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bbe\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1-5-\u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1-\u0baa\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-379277",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782796281.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-tamilmirrorlk-761f69bc",
+    "num": "tamilmirrorlk-761f69bc",
+    "date_str": "2026-06-30",
+    "description": "\u0bb5\u0bbe\u0b95\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0b9f\u0bbf\u0baa\u0b9f\u0bcd\u0b9f\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bbe\u0b95\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b85\u0b9f\u0bbf\u0baa\u0b9f\u0bcd\u0b9f\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/76-379278",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782797277.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-adalk-ead01137",
+    "num": "adalk-ead01137",
+    "date_str": "2026-06-30",
+    "description": "\u0d9a\u0ddc\u0dc5\u0db9 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5 13 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc1\u0dcf\u0d9b\u0dcf\u0dc0 \u0d9c\u0db8\u0dca\u0db4\u0dc4 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0dc0\u0dda",
+    "url_metadata": "https://www.ada.lk/business/\u0d9a\u0ddc\u0dc5\u0db9-\u0d9a\u0ddc\u0da7\u0dc3\u0dca-\u0dc0\u0dd9\u0dc5\u0dd9\u0db3\u0db4\u0ddc\u0dc5-13-\u0dc0\u0dd0\u0db1\u0dd2-\u0dc1\u0dcf\u0d9b\u0dcf\u0dc0-\u0d9c\u0db8\u0dca\u0db4\u0dc4-\u0dc0\u0dd2\u0dc0\u0dd8\u0dad-\u0dc0\u0dda/7-423039",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782797287.0
   }
 ]
