@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--30_15:02:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--30_16:53:06-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**120,872** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**120,892** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-06-30**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-06-30-dailymirrorlk-a0748f9d",
-    "num": "dailymirrorlk-a0748f9d",
+    "doc_id": "2026-06-30-dailymirrorlk-ac4fb4d9",
+    "num": "dailymirrorlk-ac4fb4d9",
     "date_str": "2026-06-30",
-    "description": "Suspect arrested with five unregistered high-capacity motorbikes",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Suspect-arrested-with-five-unregistered-high-capacity-motorbikes/108-344250",
+    "description": "Penalty Shockwave at World Cup: Germany fall, Morocco stun Netherlands, Iran exit triggers US Political reaction",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Penalty-Shockwave-at-World-Cup-Germany-fall-Morocco-stun-Netherlands-Iran-exit-triggers-US-Political-reaction/108-344266",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782810614.0
+    "time_ut": 1782817030.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-30 | `dailymirrorlk-ac4fb4d9` | Penalty Shockwave at World Cup: Germany fall, Morocco stun Netherlands, Iran exit triggers US Political reaction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-ac4fb4d9)
+- 2026-06-30 | `dailymirrorlk-aeb72bcb` | Updated World Test Championship standings after West Indies’ record win over Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-aeb72bcb)
+- 2026-06-30 | `dailymirrorlk-2636cbf1` | Navy Commander awarded four-star rank | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-2636cbf1)
+- 2026-06-30 | `adalk-d1cff9fd` | විරාජ් වික්‍රමනායකට ඇප | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-adalk-d1cff9fd)
+- 2026-06-30 | `dailymirrorlk-19e4d785` | Mr. Kottu restaurant chain owner released on bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-19e4d785)
+- 2026-06-30 | `dailymirrorlk-66bd964f` | Private sector labour shortage forces industries to recruit foreign workers: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-66bd964f)
+- 2026-06-30 | `dailymirrorlk-d0beae4a` | Russia says it downed 419 Ukrainian drones overnight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-d0beae4a)
+- 2026-06-30 | `dailymirrorlk-502b8f32` | No reduction in school transport, three-wheeler fares | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-502b8f32)
+- 2026-06-30 | `dailymirrorlk-2f8cfe86` | When the Story Gets Away From You | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-2f8cfe86)
+- 2026-06-30 | `dailymirrorlk-8eb079b6` | Lal Kantha blocks camera while dodging questions on paddy procurement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-8eb079b6)
+- 2026-06-30 | `adalk-e365c987` | Mr. Kottu හිමිකරු විරාජ් වික්‍රමනායක අත්අඩංගුවට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-adalk-e365c987)
+- 2026-06-30 | `adalk-1df45ea9` | පොහොර මුදල් වංචාවක් ගැන චෝදනාවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-adalk-1df45ea9)
+- 2026-06-30 | `tamilmirrorlk-9050fcaa` | ஹோகந்தரையில் அதிரடி வேட்டை : சொகுசு மோட்டார் சைக்கிள்கள் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-tamilmirrorlk-9050fcaa)
+- 2026-06-30 | `tamilmirrorlk-82882f52` | NLB முன்னாள் தலைவர் சியாமளா கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-tamilmirrorlk-82882f52)
+- 2026-06-30 | `dailymirrorlk-7f2938ef` | Founder of Asian super-app Gojek sentenced to years in jail for corruption | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-7f2938ef)
+- 2026-06-30 | `tamilmirrorlk-533b6877` | ஊழியரைத் தாக்கிய பிரபல கொத்து உணவக உரிமையாளர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-tamilmirrorlk-533b6877)
+- 2026-06-30 | `dailymirrorlk-a5e433a5` | Pillayan remanded over Eastern Province murders | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-a5e433a5)
+- 2026-06-30 | `dailymirrorlk-b508b1cb` | Former National Lotteries Board Chairperson Shyamila Perera arrested | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-b508b1cb)
 - 2026-06-30 | `dailymirrorlk-a0748f9d` | Suspect arrested with five unregistered high-capacity motorbikes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-a0748f9d)
 - 2026-06-30 | `dailymirrorlk-eee079d5` | Navy Commander Kanchana Banagoda promoted to Admiral ahead of retirement | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-eee079d5)
-- 2026-06-30 | `dailymirrorlk-07181a61` | Sniper rifle and ammunition recovered in Damana Forest Reserve | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-07181a61)
-- 2026-06-30 | `dailymirrorlk-cb908d05` | Sajith Premadasa urges science-based national preparedness for emerging climate risks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-cb908d05)
-- 2026-06-30 | `dailymirrorlk-746111f6` | Mr. Kottu restaurant chain owner arrested over alleged assault of employee | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-746111f6)
-- 2026-06-30 | `tamilmirrorlk-5a653f51` | இலங்கையின் பொருளாதார நிலை: IMF முக்கிய அறிவுரை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-tamilmirrorlk-5a653f51)
-- 2026-06-30 | `tamilmirrorlk-0b54b00f` | அனுரவின் வாய் போன்றது: பிள்ளையான் கிண்டல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-tamilmirrorlk-0b54b00f)
-- 2026-06-30 | `tamilmirrorlk-cf9e9598` | 4.4 மில்லியன் ஆண்டுகள் பழமையான தொல்பொருள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-tamilmirrorlk-cf9e9598)
-- 2026-06-30 | `tamilmirrorlk-1e4852a4` | சுட்டெரிக்கும் ஜெர்மனி : மக்களை குளிர்வித்த பொலிஸார் (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-tamilmirrorlk-1e4852a4)
-- 2026-06-30 | `dailymirrorlk-f4574ff9` | Bribery Commission issues notice on asset and liability declarations | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-f4574ff9)
-- 2026-06-30 | `tamilmirrorlk-bc5c462d` | அதிகாலையில் அதிவேகப் பயணம்: சிசிடிவியில் பதிவான சோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-tamilmirrorlk-bc5c462d)
-- 2026-06-30 | `virakesarilk-1fa05dba` | இனப்படுகொலையின் வாயிலாக யாழ். சிந்துப்பாத்தி இந்து மயானம்! ்; சோமரத்ன ராஜபக்‌ஷ வெளியிடும் தகவல்கள் பன்னாட்டு விசாரணைக்கு உட்படுத்தப்படவேண்டும் - சிறிதரன் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-virakesarilk-1fa05dba)
-- 2026-06-30 | `dailymirrorlk-318f4e66` | Rs. 80,000 bill puts Aluthgama station in the dark | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-318f4e66)
-- 2026-06-30 | `tamilmirrorlk-595e4df2` | தண்ணீரில் தள்ளாடும் தண்ணீர்: ஆறு பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-tamilmirrorlk-595e4df2)
-- 2026-06-30 | `virakesarilk-31530386` | குடிநீர் விநியோகம் என்ற போர்வையில் இயங்கி வந்த மதுபான உற்பத்தி நிலையம் முற்றுகை ; 18,500க்கும் மேற்பட்ட மதுபான போத்தல்கள் கைப்பற்றல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-virakesarilk-31530386)
-- 2026-06-30 | `dailymirrorlk-674548df` | IMF concludes visit to Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-dailymirrorlk-674548df)
-- 2026-06-30 | `adalk-757f4fa6` | චීනයේ හිටපු ප්‍ර කෝටිපති ව්‍යාපාරිකයෙකුට ඇමෙරිකාවෙන් සිර දඩුවම් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-adalk-757f4fa6)
-- 2026-06-30 | `virakesarilk-a354a877` | பொசன் தினத்தில் நீர்வீழ்ச்சிகளைப் பார்க்கச் சென்ற குளியாப்பிட்டிய இளைஞர்கள் ; ஓட்டுநர் உரிமமின்றி தப்பியோடிய 3 பேர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-virakesarilk-a354a877)
-- 2026-06-30 | `adalk-a2bf4582` | පිල්ලෙයාන් යළි රිමාන්ඩ් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-adalk-a2bf4582)
-- 2026-06-30 | `adalk-1ee1768b` | ගිංගඟේ පාවූ මළ සිරුර හඳුනාගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-06-30-adalk-1ee1768b)
 
 ---
 
