@@ -1,0 +1,17 @@
+MiHCM achieves ISO/IEC 27701:2025 certification across Malaysia, Sri Lanka
+
+MiHCM, a leading enterprise HR and payroll technology company operating across 22+ countries in Asia, has achieved ISO/IEC 27701:2025 certification for its operations in Malaysia and Sri Lanka.
+
+The international privacy information management standard validates MiHCM’s commitment to privacy, data protection and the responsible handling of customer and employee information.
+
+ISO/IEC 27701:2025 is an internationally recognised extension to the ISO/IEC 27001 information security standard, establishing requirements and guidance for implementing and maintaining a Privacy Information Management System. Achieving this certification demonstrates that MiHCM has implemented structured, auditable controls for the processing of personal data across its operations.
+
+Data underpins the full range of services MiHCM delivers to enterprise clients across the region – from employee profiles and payroll records to attendance transactions, workflows and customer configurations. The organisation processes sensitive business and personal information on behalf of clients in 22+ countries, making robust data governance a strategic as well as operational priority.
+
+MiHCM Chief Technology Officer Shanmugarajah said, “ISO/IEC 27701:2025 certification marks a critical milestone for MiHCM. As an HR platform managing sensitive workforce data across South Asia and the Middle East, privacy governance isn’t a compliance checkbox; it’s foundational to customer trust. This certification validates our Privacy Information Management System: rigorous controls, transparent processes and accountability across data lifecycle. It also complements our ISO 27001 foundation and reinforces our commitment to responsible data stewardship in highly regulated markets. Our customers can now trust that their employee data is protected by industry-leading standards.”
+
+Shanmugarajah also noted that whilst many sound processes and controls were already in place across teams, a more formalised and consistent approach to governance was now being established. Beginning in June 2026, MiHCM will implement a comprehensive Data Governance Framework across the organisation, with ISO 27701 and privacy management forming one key component of a broader model.
+
+The Data Governance Framework will define how data is collected, processed, stored, shared, retained, archived and deleted across the organisation. It will establish clear roles and responsibilities around governance processes and approvals, operational controls, data handling standards, security and privacy controls, escalation and review mechanisms and standard operating procedures.
+
+To support the rollout, MiHCM will conduct a series of awareness, training and knowledge-sharing sessions to equip teams across engineering, infrastructure, HR, operations, support, customer success and business functions with the understanding and tools to handle data safely and responsibly.

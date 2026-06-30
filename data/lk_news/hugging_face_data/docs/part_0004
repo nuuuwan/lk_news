@@ -270166,6 +270166,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-27ac89fa",
+    "num": "dailymirrorlk-27ac89fa",
+    "date_str": "2026-06-30",
+    "description": "Lankadeepa shines at Asian Miracle Awards",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Lankadeepa-shined-at-Asian-Miracle-Awards/110-344281",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782836387.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-30-tamilmirrorlk-8bcc2ffe",
     "num": "tamilmirrorlk-8bcc2ffe",
     "date_str": "2026-06-30",
@@ -270174,5 +270185,82 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782836622.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-7100dc2b",
+    "num": "dailymirrorlk-7100dc2b",
+    "date_str": "2026-06-30",
+    "description": "Kelaniya Uni Finance Department celebrates 15th anniversary on CSE trading floor",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Kelaniya-Uni-Finance-Department-celebrates-15th-anniversary-on-CSE-trading-floor/273-344282",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782843501.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-4d7c91ef",
+    "num": "dailymirrorlk-4d7c91ef",
+    "date_str": "2026-06-30",
+    "description": "McLarens Lubricants shines at ExxonMobil SAO Awards 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/McLarens-Lubricants-shines-at-ExxonMobil-SAO-Awards-2026/273-344283",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782843658.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-c97e0f2b",
+    "num": "dailymirrorlk-c97e0f2b",
+    "date_str": "2026-06-30",
+    "description": "MiHCM achieves ISO/IEC 27701:2025 certification across Malaysia, Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/business-news/MiHCM-achieves-ISOIEC-277012025-certification-across-Malaysia-Sri-Lanka/273-344284",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782843814.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-157fbc74",
+    "num": "dailymirrorlk-157fbc74",
+    "date_str": "2026-06-30",
+    "description": "The Students Visa earns Navitas UK recognition",
+    "url_metadata": "https://www.dailymirror.lk/business-news/The-Students-Visa-earns-Navitas-UK-recognition/273-344285",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782843951.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-dailymirrorlk-cb915268",
+    "num": "dailymirrorlk-cb915268",
+    "date_str": "2026-06-30",
+    "description": "Sun Siyam and StudioSixty7 win Int\u2019l Property Awards Asia Pacific",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sun-Siyam-and-StudioSixty7-win-Intl-Property-Awards-Asia-Pacific/273-344286",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782844108.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-80d2e8b3",
+    "num": "dailymirrorlk-80d2e8b3",
+    "date_str": "2026-07-01",
+    "description": "People\u2019s Bank marks 65 years of banking excellence and national service",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Peoples-Bank-marks-65-years-of-banking-excellence-and-national-service/273-344287",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782844381.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-b42c37d0",
+    "num": "dailymirrorlk-b42c37d0",
+    "date_str": "2026-07-01",
+    "description": "EDB hosts regional exporters\u2019 networking forum in Chilaw",
+    "url_metadata": "https://www.dailymirror.lk/business-news/EDB-hosts-regional-exporters-networking-forum-in-Chilaw/273-344288",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782844443.0
   }
 ]
