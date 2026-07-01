@@ -272924,5 +272924,16 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782931964.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-2ceda592",
+    "num": "dailyftlk-2ceda592",
+    "date_str": "2026-07-02",
+    "description": "Backward Britain, advanced Sri Lanka, and the American Revolution",
+    "url_metadata": "https://www.ft.lk/columns/Backward-Britain-advanced-Sri-Lanka-and-the-American-Revolution/4-794054",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782937801.0
   }
 ]
