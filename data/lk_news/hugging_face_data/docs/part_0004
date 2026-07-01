@@ -272454,6 +272454,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-01-adalk-ca21674c",
+    "num": "adalk-ca21674c",
+    "date_str": "2026-07-01",
+    "description": "\u0dc3\u0dd3.\u0d85\u0dba\u0dd2.\u0da9\u0dd3. \u0dc0\u0dca\u200d\u0dba\u0dcf\u0da2 \u0dc4\u0dd0\u0db3\u0dd4\u0db1\u0dd4\u0db8\u0dca\u0db4\u0dad\u0d9a\u0dca \u0dc3\u0db8\u0d9c \u0d9a\u0dad\u0dbb\u0d9c\u0db8 \u0daf\u0dda\u0dc0\u0dcf\u0dbd\u0dba\u0d9a \u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd9\u0d9a\u0dca \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dd3-\u0d85\u0dba\u0dd2-\u0da9\u0dd3--\u0dc0\u0dca\u200d\u0dba\u0dcf\u0da2-\u0dc4\u0dd0\u0db3\u0dd4\u0db1\u0dd4\u0db8\u0dca\u0db4\u0dad\u0d9a\u0dca-\u0dc3\u0db8\u0d9c-\u0d9a\u0dad\u0dbb\u0d9c\u0db8-\u0daf\u0dda\u0dc0\u0dcf\u0dbd\u0dba\u0d9a-\u0dc3\u0dda\u0dc0\u0d9a\u0dba\u0dd9\u0d9a\u0dca-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-423068",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782908091.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-01-virakesarilk-7260de68",
     "num": "virakesarilk-7260de68",
     "date_str": "2026-07-01",
@@ -272495,5 +272506,115 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1782911040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-13238d2c",
+    "num": "dailymirrorlk-13238d2c",
+    "date_str": "2026-07-01",
+    "description": "Two Kelani Valley train services suspended due to lack of power set",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-Kelani-Valley-train-services-suspended-due-to-lack-of-power-set/108-344380",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782912091.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-a95aaa8b",
+    "num": "dailymirrorlk-a95aaa8b",
+    "date_str": "2026-07-01",
+    "description": "BIA set for Rs. 15bn terminal upgrade",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/BIA-set-for-Rs-15bn-terminal-upgrade/108-344381",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782912291.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-be5ebd21",
+    "num": "dailymirrorlk-be5ebd21",
+    "date_str": "2026-07-01",
+    "description": "Vice Admiral Damian Fernando assumes office as new Navy Commander",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vice-Admiral-Damian-Fernando-assumes-office-as-new-Navy-Commander/108-344382",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782912417.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-adalk-6d9d7089",
+    "num": "adalk-6d9d7089",
+    "date_str": "2026-07-01",
+    "description": "2026 \u0dba\u0dbd \u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda \u0dc0\u0dd3 \u0db8\u0dd2\u0dbd\u0daf\u0dd2 \u0d9c\u0dd0\u0db1\u0dd2\u0db8\u0da7 \u0dbb\u0dd4. \u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1 6000\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/2026-\u0dba\u0dbd-\u0d9a\u0db1\u0dca\u0db1\u0dba\u0dda-\u0dc0\u0dd3-\u0db8\u0dd2\u0dbd\u0daf\u0dd2-\u0d9c\u0dd0\u0db1\u0dd2\u0db8\u0da7-\u0dbb\u0dd4--\u0db8\u0dd2\u0dbd\u0dd2\u0dba\u0db1-6000\u0d9a\u0dca/11-423069",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782912503.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-627f89b9",
+    "num": "dailymirrorlk-627f89b9",
+    "date_str": "2026-07-01",
+    "description": "Newly appointed Navy Commander calls on Defence Secretary",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Newly-appointed-Navy-Commander-calls-on-Defence-Secretary/108-344383",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782912971.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-84a44c48",
+    "num": "dailymirrorlk-84a44c48",
+    "date_str": "2026-07-01",
+    "description": "Australia one win away from history! INFOGRAPHIC",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Australia-one-win-away-from-history-INFOGRAPHIC/108-344384",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782913377.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-f5414803",
+    "num": "dailymirrorlk-f5414803",
+    "date_str": "2026-07-01",
+    "description": "Passing out ceremony...",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Passing-out-ceremony/110-344385",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782913932.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-1fa7f7ce",
+    "num": "dailymirrorlk-1fa7f7ce",
+    "date_str": "2026-07-01",
+    "description": "Badulla Alugolla fire spreads over 20 acres",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Badulla-Alugolla-fire-spreads-over-20-acres/108-344386",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782915631.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-tamilmirrorlk-27d7e1a8",
+    "num": "tamilmirrorlk-27d7e1a8",
+    "date_str": "2026-07-01",
+    "description": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0b8e\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0ba9\u0baa\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf ; \u0b95\u0bb3\u0b9e\u0bcd\u0b9a\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbe\u0bb2\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0baa\u0ba4\u0bc1\u0bb3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0baa\u0bb1\u0bcd\u0bb1\u0bbf-\u0b8e\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bcd-\u0bb5\u0ba9\u0baa\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf-\u0b95\u0bb3\u0b9e\u0bcd\u0b9a\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbe\u0bb2\u0bcd-\u0b85\u0b9a\u0bcd\u0b9a\u0bae\u0bcd/76-379357",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782917172.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-d9337751",
+    "num": "dailymirrorlk-d9337751",
+    "date_str": "2026-07-01",
+    "description": "Three die in Mexico City World Cup celebrations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Three-die-in-Mexico-City-World-Cup-celebrations/108-344387",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782918071.0
   }
 ]
