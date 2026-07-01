@@ -271211,6 +271211,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-01-adalk-a95bcfe9",
+    "num": "adalk-a95bcfe9",
+    "date_str": "2026-07-01",
+    "description": "\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0db4\u0dca\u0da7\u0ddd\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0d9a\u0dca \u0d8b\u0db4\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0db4\u0dca\u0da7\u0ddd\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca\u0db4\u0dca-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dba\u0d9a\u0dca-\u0d8b\u0db4\u0dba\u0dba\u0dd2/11-423056",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782873190.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-01-tamilmirrorlk-5dc7448f",
     "num": "tamilmirrorlk-5dc7448f",
     "date_str": "2026-07-01",
@@ -271406,5 +271417,203 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782884373.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-207b810f",
+    "num": "dailymirrorlk-207b810f",
+    "date_str": "2026-07-01",
+    "description": "Labour shortage compels Sri Lankan firms to recruit foreign workers - Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Labour-shortage-compels-Sri-Lankan-firms-to-recruit-foreign-workers-Minister/108-344334",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782884516.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-c7b38b5b",
+    "num": "dailymirrorlk-c7b38b5b",
+    "date_str": "2026-07-01",
+    "description": "Agrarians reject Yala paddy prices, demand Rs. 140 per kg",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Agrarians-reject-Yala-paddy-prices-demand-Rs-140-per-kg/108-344336",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782884623.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-98186e8e",
+    "num": "dailymirrorlk-98186e8e",
+    "date_str": "2026-07-01",
+    "description": "PHIs raid tobacco betel dansala; suspect taken to Court",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/PHIs-raid-tobacco-betel-dansala-suspect-taken-to-Court/108-344338",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782884812.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-5af74f4f",
+    "num": "dailymirrorlk-5af74f4f",
+    "date_str": "2026-07-01",
+    "description": "Fmr. Energy Minister Kumara Jayakody grilled by Presidential Commission on coal deals",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fmr-Energy-Minister-Kumara-Jayakody-grilled-by-Presidential-Commission-on-coal-deals/108-344340",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782885060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-9dd05cea",
+    "num": "dailymirrorlk-9dd05cea",
+    "date_str": "2026-07-01",
+    "description": "Sri Lanka reaffirms commitment to sustainable environment at UNESCAP ministerial session",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-reaffirms-commitment-to-sustainable-environment-at-UNESCAP-ministerial-session/108-344341",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782885085.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-3f211768",
+    "num": "dailymirrorlk-3f211768",
+    "date_str": "2026-07-01",
+    "description": "Iran says it won\u2019t meet with U.S. envoys",
+    "url_metadata": "https://www.dailymirror.lk/international/Iran-says-it-wont-meet-with-U-S-envoys/107-344342",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782885161.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-f1611272",
+    "num": "dailymirrorlk-f1611272",
+    "date_str": "2026-07-01",
+    "description": "Qatar airways restores 35 weekly flights to Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Qatar-airways-restores-35-weekly-flights-to-Colombo/108-344344",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782885643.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-eb84ef7c",
+    "num": "dailymirrorlk-eb84ef7c",
+    "date_str": "2026-07-01",
+    "description": "UN subcommittee on prevention of torture concludes second visit to Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-subcommittee-on-prevention-of-torture-concludes-second-visit-to-Sri-Lanka/108-344349",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782886261.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-tamilmirrorlk-922495da",
+    "num": "tamilmirrorlk-922495da",
+    "date_str": "2026-07-01",
+    "description": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1 \u0b89\u0ba3\u0bb5\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd \u0ba4\u0bc0 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1 (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1-\u0b89\u0ba3\u0bb5\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0bbf\u0b9f\u0bc0\u0bb0\u0bcd-\u0ba4\u0bc0-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-379330",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782886505.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-adalk-ad6eb53b",
+    "num": "adalk-ad6eb53b",
+    "date_str": "2026-07-01",
+    "description": "\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4 81\u0d9a \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0d85\u0dba\u0dd2\u0dc3\u0dca \u0db1\u0dd2\u0dc3\u0dcf \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0daf\u0dd4-81\u0d9a-\u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf\u0dc0\u0d9a\u0dca-\u0d85\u0dba\u0dd2\u0dc3\u0dca-\u0db1\u0dd2\u0dc3\u0dcf-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-423059",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782886986.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-420d32f6",
+    "num": "dailymirrorlk-420d32f6",
+    "date_str": "2026-07-01",
+    "description": "ADB approves US$200Mn for Sri Lanka\u2019s Cyclone Ditwah recovery",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ADB-approves-US-200Mn-for-Sri-Lankas-Cyclone-Ditwah-recovery/108-344353",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782888010.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-86469c56",
+    "num": "dailymirrorlk-86469c56",
+    "date_str": "2026-07-01",
+    "description": "Venezuela earthquake aftermath",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Venezuela-earthquake-aftermath/110-344354",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782888390.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-895bddc0",
+    "num": "dailymirrorlk-895bddc0",
+    "date_str": "2026-07-01",
+    "description": "Dengue cases surpass 55,000 mark as June records highest monthly tally",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-cases-surpass-55-000-mark-as-June-records-highest-monthly-tally/108-344356",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782888514.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-c8b78890",
+    "num": "dailymirrorlk-c8b78890",
+    "date_str": "2026-07-01",
+    "description": "MLT annual transfers effective from August 1",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/MLT-annual-transfers-effective-from-August-1/108-344357",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782888660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-adalk-9fae9014",
+    "num": "adalk-9fae9014",
+    "date_str": "2026-07-01",
+    "description": "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0dc3\u0dc4 \u0d85\u0d9c\u0dca\u0db1\u0dd2\u0daf\u0dd2\u0d9c \u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda \u0d9c\u0dd1\u0dc3\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8 \u0db8\u0dad 2050\u0daf\u0dd3 \u0d9c\u0dd1\u0dc3\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8 \u0dc3\u0dd2\u0dba\u0dba\u0da7 65\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0d9a\u0dd4\u0dab\u0dd4-\u0dc3\u0dc4-\u0d85\u0d9c\u0dca\u0db1\u0dd2\u0daf\u0dd2\u0d9c-\u0d86\u0dc3\u0dd2\u0dba\u0dcf\u0dc0\u0dda-\u0d9c\u0dd1\u0dc3\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8-\u0db8\u0dad-2050\u0daf\u0dd3-\u0d9c\u0dd1\u0dc3\u0dca-\u0d89\u0dbd\u0dca\u0dbd\u0dd4\u0db8-\u0dc3\u0dd2\u0dba\u0dba\u0da7-65\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-423060",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782888932.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-132a75eb",
+    "num": "dailymirrorlk-132a75eb",
+    "date_str": "2026-07-01",
+    "description": "Sarana Gunawardena files appeal against 16 years jail sentence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sarana-Gunawardena-files-appeal-against-16-years-jail-sentence/108-344358",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782889499.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-18f5c980",
+    "num": "dailymirrorlk-18f5c980",
+    "date_str": "2026-07-01",
+    "description": "Sugeeshwara Bandara further remanded",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sugeeshwara-Bandara-further-remanded/108-344359",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782890022.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-tamilmirrorlk-7513507d",
+    "num": "tamilmirrorlk-7513507d",
+    "date_str": "2026-07-01",
+    "description": "\u0b9a\u0bc1\u0b9c\u0bc0\u0bb8\u0bcd\u0bb5\u0bb0 \u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0b9c\u0bc0\u0bb8\u0bcd\u0bb5\u0bb0-\u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0bb5\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-379332",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782891619.0
   }
 ]
