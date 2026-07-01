@@ -1,0 +1,107 @@
+A “less is more” policy framework for education in uncertain times
+
+Spending money on inputs like textbooks, learning materials, teacher training and infrastructure development will come to nothing unless standards, resources, and institutions align to deliver the expected outcomes of “learning for an uncertain world”
+
+Globally, teaching and learning methods show swings between cognitivists to constructivists approaches. The cognitivist approach emphasises structured knowledge acquisition through teacher instruction and assessment of the same. The constructivist approach emphasises students discovering knowledge and de-emphasises summative examinations
+
+President Anura Kumara Dissanayake recently directed the National Education Commission (NEC) to come up with a policy framework in one month. Judging by the track record of policy frameworks developed by NEC since its inception in 1991, it is inconceivable that they can deliver a usable document unless they rethink policy making with a less is more mindset.
+
+The most significant contribution of the first report of the NEC was to define National objectives of education, introduce the concept of competency-based learning, and identify five basic competencies as the foundation for reaching national goals. However, the five competencies have remained largely ornamental, and success at national examinations have continued to mark educational achievements in Sri Lanka.
+
+The reason for the ineffectiveness of the NEC is apparent from its latest policy framework for 2023-2033. It is a hefty document with 600+ plus ‘strategic’ actions organised along six sectors of education – Early childhood education, General education, Higher education, Technical and vocational education, non-formal education, and Piriven education. Each strategic action is a call for more inputs into each sector with the culminating demand for an incremental increase of public expenditure over the next 10 years on education from the current level of 2.1% to 4.5% of GDP.
+
+There is no prioritising or costing of activities or plans for making current expenditure more efficient. Difficult institutional reforms are rarely discussed. The President at the time did not formally accept the framework as required for its execution by the Ministry of Education. NEC could have made a better impact with fewer recommendations which are better targeted to policymaker requirements.
+
+The national curricular framework 2025 which is currently being implemented suffers from the same problems. The 2025 framework identifies five pillars of reforms but three of those concern inputs such as Curricula, Human resources and Infrastructure. The only structural feature is the administrative reform which is bundled with Infrastructure as one pillar. Funding or resources is not considered as a determining pillar.
+
+A useful way to understand any social structure is the “Rules, Resources and Actors and Institutions” triad. This triad is a simplified version derived from the structuration theory by Anthony Giddens where he posits that social life is produced and reproduced through the ongoing interaction between human agency (or actors and institutions) and social structures (rules and resources).
+
+In the case of education, the rules relate to standards or what should be taught and how and by who etc. We simplify actors and institutions pillar as the Institutions pillar, and resources pillar remains the same (See centre rectangle in Figure).
+
+The Figure illustrates how the INPUTS lead to the desired OUTCOMES with STRUCTURE intermediating in the process.
+
+Spending money on inputs like textbooks, learning materials, teacher training and infrastructure development will come to nothing unless standards, resources, and institutions align to deliver the expected outcomes of “learning for an uncertain world”.
+
+What should children learn in an uncertain world characterised by a rapidly changing global economic order, increasing influence of AI in our lives, and climate change?
+
+The set of three learning domains -knowledge, skills and attitudes – identified by Bloom and others in the 50s is a handy typology for a start. Though not widely used, a more useful typology is “subject competency - transversal competency” by UNESCO where transversal competency is defined as “competencies that are transferable and can be applied across disciplines, occupations, and life situations”. These competencies include “Critical and innovative thinking; Interpersonal skills; Intrapersonal skills; Global citizenship; Media and Information Literacy; and Other competencies”.
+
+Transversal competencies go beyond 21st century skills of “Critical thinking, Creativity, Collaboration, and Communication. But will the subject knowledge plus transversal competencies prescription hold true when humankind is grappling with what human intelligence means in relation to artificial intelligence and how we co-exist with AI?
+
+Interestingly, the new problems lead to the same Subject Knowledge + Transversal Skills prescription.
+
+In using AI, one needs to be able to ask the right questions and evaluate the responses. The intermediate steps of searching, finding, evaluating and synthesising the information are all done for you by AI. But you can’t ask the right question or evaluate the answer if you are an empty vessel without some knowledge, skills and attitudes or values. More so, if you are using Agentic AI where AI will execute the response if an execution is required.
+
+AI also poses the problem of oversupply. When there is so much to know and so many ways to do and feel, where do you begin to learn or be taught?
+
+Increasingly decision makers are choosing simplicity over complexity; less over more, gradual changes over systemic overhauls.
+
+Globally, teaching and learning methods show swings between cognitivists to constructivists approaches. The cognitivist approach emphasises structured knowledge acquisition through teacher instruction and assessment of the same. The constructivist approach emphasises students discovering knowledge and de-emphasises summative examinations.
+
+However, Finland’s education system which went fully constructivists replaced subjects –based on phenomena-based learning is beginning to show its weaknesses. The New Zealand Ministry of Education, unhappy with the results of assessments which were largely school based, made its national evaluation system more relevant and focused on foundational literacy and numeracy. Singapore has continued using written national examinations to evaluate core subjects but is making them smarter allowing students more flexibility.
+
+Now we are at a stage where it is accepted that a balance of cognitivist and constructivist approaches  is needed where effective constructivist learning is supported and preceded by a foundation of explicit teaching and guided practice rather than minimally guided discovery alone.
+
+For Sri Lanka too, a pragmatic mix of the cognitivist and constructivist approaches, with a focus on a few core subjects leaving time for students to achieve cross-cutting transversal competencies through structured learning experiences within the curriculum and in co-curricular and extra-curricular activities, would be appropriate.
+
+Although the importance of imparting 21st century skills or transversal skills continues to make headlines, nobody knows how to assess them, because it is hard to judge individual students for their ethical or social-emotional learning etc.  However, there is a growing international movement to assess schools not only for their students’ achievements in core subjects at national examinations, but also on the schools’ environment for developing their students’ hard to measure skills and attitudes.
+
+In an action research on holistic education carried out in the Ampara education zone in the 2017-2018 period, the author and a team led by a former minister for education in the Eastern Province successfully assessed a random sample of student outputs from all primary schools in the Ampara education zone to see if the students were indeed receiving a holistic education environment.
+
+Based on emerging international practices and my own experiences I propose two key reforms to simplify and gradually modernise our standards of education.
+
+1. Assess students for a few core subjects only, but assess them at a higher standard
+
+2. Assess schools for the environment they provide for transversal competencies
+
+For Sri Lanka, we are well positioned to simplify as we gradually modernise.
+
+Currently, each student may take only nine subjects and three subjects for their GCE O/L and GCE A/L examinations, respectively.   However, the Department of Examination of Sri Lanka offered 50+ and 60+ subjects, respectively, for the two exams. The shortcomings of these exam papers in relation to international standards are discussed elsewhere (NEREC, 2023, for example).
+
+Ongoing curricular reforms begun in 2025 have made the system more complex. If the proposed GCE O/L curriculum is implemented, the Department of Examinations will still have to offer will have to offer 24+ subjects for the national examination; national curriculum developers will have to deal with curricula, teacher guides and teacher training for 60 or more subjects/modules, and teachers will have to grade and report on subjects as well as well modules. There is much room to drastically cut-down subjects and/or modules offered, taking Singapore’s curriculum, for example.
+
+Current education system is free in name only. Considering the amount of money spent by parents to maintain the system, it is really a public-private partnership, but a highly inequitable one because the partnership works only for schools with well-to-do parents
+
+Current education system is free in name only. Considering the amount of money spent by parents to maintain the system, it is really a public-private partnership, but a highly inequitable one because the partnership works only for schools with well-to-do parents.
+
+While the Government provides basic school infrastructure and pays teacher salaries, additional facilities and resources for co-curricular or extracurricular work are all provided by parents and alumni. The over 300 so-called popular schools are popular because of additional resources brought in by well-to-do parents and alumni.
+
+Parents from all walks of life also spend money on private tuition. The current examination system with three major examinations – i.e. Grade 5 Scholarship Examination (G5SE), GEC O/L, and GCE (A/L) - have been offered continuously for decades with little change, except for a brief interlude of more practical subject matter oriented NCGE and HNCE alternatives of 1974-76. Society has settled into a comfort zone with increasing pass rates taken as performance indicators, but unaccounted for is the fact that the tuition industry and money paid by parents for tuition is driving these gains, and these gains may have little to do with learning for life’s challenges.
+
+It is unlikely that the Government will be able to produce hundreds of billions of rupees in additional funding to bring disadvantaged schools up to standard, on top of the current allocation of about Rs. 700 billion for all sectors of education. Funding from new sources must be raised, and here we can take a leaf from the Mahapola Scholarship Fund, the brainchild of Lalith Athulathmudali, where money is raised through a lottery. Ironically, the lottery buyers who ultimately pay for the Mahapola scholarships for the needy few are the needy all who comprise the majority of lottery ticket buyers.
+
+We need a new version of Mahapola to raise additional funds for education.
+
+One idea that is often floated is to repurpose professional qualifications such as medical veterinary, dental, and para medical degrees and even technical qualifications such as those provided by German Tech that are provided free of charge but are increasingly serving the human resource needs of developed countries at the expense of Sri Lanka’s tax paying public.
+
+Following two proposals for reforming resource allocation and modalities for implementation are topics that cannot be ignored any further and should be the subject of open and wide discussions.
+
+3. Prioritise resource allocation for under-served school children and national needs
+
+4. Monetise state or non-instate investments in high-demand professional education
+
+Even when additional resources are deployed, current institutional set up does not allow for efficient utilisation.
+
+While the Government provides basic school infrastructure and pays teacher salaries, additional facilities and resources for co-curricular or extracurricular work are all provided by parents and alumni. The over 300 so-called popular schools are popular because of additional resources brought in by well-to-do parents and alumni. Parents from all walks of life also spend money on private tuition
+
+The only official admission of the dysfunctional state of the institutions in the education sector is in the 2003 policy framework by the NEC (p.242), but an analysis of the existing structure shows why dysfunction is an inevitability.
+
+The education sector consists of the Ministry of Education (MoE); six statutory bodies – i.e. National Education Commission (NEC), National Institute of Education (NIE), University Grants Commission (UGC) and Tertiary and Vocational Education Commission (TVEC), and other vocational training providers; 19 teacher training colleges; five university faculties or departments offering degrees in education; many centers for continuing professional development of teachers; provincial departments of education and associated zonal and divisional offices with the capability to handle school administration matters. There is much overlap of responsibilities within and across these institutions.
+
+The MoE, for example, consists of 22 divisions, 22 divisions headed by an officer at additional secretary level, and 73 branches again with overlapping responsibility within MoE and across NEC and NIE.
+
+For example, curriculum development which was a function under the ministry has been taken over by NIE while subject wise departments continue to exist at MoE parallel to those at NIE. It is a waste of human resources and a recipe for cross-institutional conflicts and misadventures. The lack of trust and coordination between various entities resulting in the poor quality of outputs was made all too evident in the recent ‘modules’ debacle in the 2025 curricular reforms. On top of these existing redundancies there is now a proposal to establish a statutory body to certify teachers, when there are several branches at MoE that do teacher related matters.
+
+Restructuring is urgently needed, limiting the Ministry to policy formulation and monitoring and evaluation, as detailed in the gazette that describes the duties and functions of the minister. A directorate for general education should be constituted bringing together all human capital within and across the ministry serving executive functions of national importance. For this purpose, the Directorate for General Education should be headed by a director general with departments for curriculum development and publications, teacher professional development, and the existing department of examinations serving under the director general.
+
+The NIE should revert to its original national institute status awarding diplomas and degrees in education, and the institution should be required to compete with existing university faculties and departments for offering top-up degrees for diplomates from national colleges of education. If needed, the NIE can be renamed as National University for Education.
+
+All tertiary programs should be accredited by a Higher Education Commission, which would be a UGC with the expanded scope of serving all higher education seeking public, not just public institutions.
+
+Underlying this national super structure should be clusters of schools consisting of about 10 schools in a cluster, administrating/monitoring the education of all children from early childhood to age 18 in its jurisdiction. The MoE has been working long and hard on developing such a cluster system which is markedly different from previous such concepts.
+
+5. Restructure all education agencies with school clusters as the basic unit of general education
+
+6. Mandate the minister of education to annually report to Parliament on KPIs of education
+
+The six changes proposed here require further study and discussion but that should not take more than a few months if the right personnel are charged with responsibility and a sense of urgency.

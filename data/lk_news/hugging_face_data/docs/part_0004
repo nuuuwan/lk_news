@@ -272817,6 +272817,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-ba58c136",
+    "num": "dailymirrorlk-ba58c136",
+    "date_str": "2026-07-01",
+    "description": "Four die in Mexico City World Cup celebrations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Four-die-in-Mexico-City-World-Cup-celebrations/108-344387",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782918071.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-01-dailymirrorlk-d9337751",
     "num": "dailymirrorlk-d9337751",
     "date_str": "2026-07-01",
@@ -272935,5 +272946,60 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1782937801.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-d9bf6a23",
+    "num": "dailyftlk-d9bf6a23",
+    "date_str": "2026-07-02",
+    "description": "Beyond fighting corruption: What Sri Lanka can learn from Singapore\u2019s nation-building model",
+    "url_metadata": "https://www.ft.lk/columns/Beyond-fighting-corruption-What-Sri-Lanka-can-learn-from-Singapore-s-nation-building-model/4-794060",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782940003.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-tamilmirrorlk-a6ba85da",
+    "num": "tamilmirrorlk-a6ba85da",
+    "date_str": "2026-07-02",
+    "description": "\u0b89\u0baf\u0bb0\u0bcd \u0ba8\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0 \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9 \u0ba8\u0bbe\u0b9f\u0bbe\u0b95 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8 \u0bb5\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b89\u0bb2\u0b95 \u0bb5\u0b99\u0bcd\u0b95\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0baf\u0bb0\u0bcd-\u0ba8\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0-\u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9-\u0ba8\u0bbe\u0b9f\u0bbe\u0b95-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bc8-\u0bb5\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0b89\u0bb2\u0b95-\u0bb5\u0b99\u0bcd\u0b95\u0bbf/175-379361",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782942386.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-d5b3956c",
+    "num": "dailyftlk-d5b3956c",
+    "date_str": "2026-07-02",
+    "description": "A \u201cless is more\u201d policy framework for education in uncertain times",
+    "url_metadata": "https://www.ft.lk/columns/A-less-is-more-policy-framework-for-education-in-uncertain-times/4-794061",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782942613.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-f3d7849a",
+    "num": "dailyftlk-f3d7849a",
+    "date_str": "2026-07-02",
+    "description": "The search for the next hostel warden at Royal College",
+    "url_metadata": "https://www.ft.lk/columns/The-search-for-the-next-hostel-warden-at-Royal-College/4-794062",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782943232.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-609e25df",
+    "num": "dailyftlk-609e25df",
+    "date_str": "2026-07-02",
+    "description": "The lawyer they need, not the lawyer they want",
+    "url_metadata": "https://www.ft.lk/columns/The-lawyer-they-need-not-the-lawyer-they-want/4-794063",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782943283.0
   }
 ]
