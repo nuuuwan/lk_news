@@ -265183,6 +265183,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-27-islandlk-0e7d9ca9",
+    "num": "islandlk-0e7d9ca9",
+    "date_str": "2026-06-27",
+    "description": "Exchanging ginger for chillies?",
+    "url_metadata": "http://island.lk/exchanging-ginger-for-chillies/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782572940.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-27-dailymirrorlk-c87e1aeb",
     "num": "dailymirrorlk-c87e1aeb",
     "date_str": "2026-06-27",
@@ -268208,6 +268219,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-29-islandlk-d4dc6540",
+    "num": "islandlk-d4dc6540",
+    "date_str": "2026-06-29",
+    "description": "Sound of Home, Born in Toronto",
+    "url_metadata": "http://island.lk/sound-of-home-born-in-toronto/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782735540.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-29-islandlk-d78b208a",
     "num": "islandlk-d78b208a",
     "date_str": "2026-06-29",
@@ -268274,6 +268296,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-29-islandlk-0985915d",
+    "num": "islandlk-0985915d",
+    "date_str": "2026-06-29",
+    "description": "ADB approves financing to boost clean energy access in Sri Lanka",
+    "url_metadata": "http://island.lk/adb-approves-financing-to-boost-clean-energy-access-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782738660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-islandlk-aaf9c45f",
+    "num": "islandlk-aaf9c45f",
+    "date_str": "2026-06-29",
+    "description": "University of Sri Jayewardenepura publishes international case study on Port City Colombo\u2019s role in Sri Lanka\u2019s economic transformation",
+    "url_metadata": "http://island.lk/university-of-sri-jayewardenepura-publishes-international-case-study-on-port-city-colombos-role-in-sri-lankas-economic-transformation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782738660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-islandlk-69d5431c",
+    "num": "islandlk-69d5431c",
+    "date_str": "2026-06-29",
+    "description": "AAC representatives at FIA Extraordinary General Assembly in Macau",
+    "url_metadata": "http://island.lk/aac-representatives-at-fia-extraordinary-general-assembly-in-macau/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782738720.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-29-islandlk-f9f64469",
     "num": "islandlk-f9f64469",
     "date_str": "2026-06-29",
@@ -268304,6 +268359,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1782739200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-29-islandlk-3f15e123",
+    "num": "islandlk-3f15e123",
+    "date_str": "2026-06-29",
+    "description": "The Digital Menace: Safeguarding Sri Lanka\u2019s future generations \u2013 act now before it\u2019s too late",
+    "url_metadata": "http://island.lk/the-digital-menace-safeguarding-sri-lankas-future-generations-act-now-before-its-too-late/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782741120.0
   },
   {
     "doc_type": "lk_news",
@@ -270045,6 +270111,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-30-islandlk-b013bcb3",
+    "num": "islandlk-b013bcb3",
+    "date_str": "2026-06-30",
+    "description": "High value stocks snapped-up for less than market price",
+    "url_metadata": "http://island.lk/high-value-stocks-snapped-up-for-less-than-market-price/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782828000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-islandlk-6bfab4d3",
+    "num": "islandlk-6bfab4d3",
+    "date_str": "2026-06-30",
+    "description": "Singer unveils first HONOR Experience Store at One Galle Face",
+    "url_metadata": "http://island.lk/singer-unveils-first-honor-experience-store-at-one-galle-face/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782828060.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-islandlk-0da892ef",
+    "num": "islandlk-0da892ef",
+    "date_str": "2026-06-30",
+    "description": "The US occupation of the Indian Ocean \u2018Zone of Peace\u2019",
+    "url_metadata": "http://island.lk/the-us-occupation-of-the-indian-ocean-zone-of-peace-2/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782828120.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-30-adalk-d88a9b80",
     "num": "adalk-d88a9b80",
     "date_str": "2026-06-30",
@@ -270471,5 +270570,148 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782852760.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailyftlk-08583bb0",
+    "num": "dailyftlk-08583bb0",
+    "date_str": "2026-07-01",
+    "description": "Police bust illicit liquor factory disguised as bottled water business",
+    "url_metadata": "https://www.ft.lk/news/Police-bust-illicit-liquor-factory-disguised-as-bottled-water-business/56-794000",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782865710.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailyftlk-84736959",
+    "num": "dailyftlk-84736959",
+    "date_str": "2026-07-01",
+    "description": "CIABOC extends assets declaration deadline to 7 July",
+    "url_metadata": "https://www.ft.lk/news/CIABOC-extends-assets-declaration-deadline-to-7-July/56-794001",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782865732.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailyftlk-99090782",
+    "num": "dailyftlk-99090782",
+    "date_str": "2026-07-01",
+    "description": "BASL to conduct first public forum",
+    "url_metadata": "https://www.ft.lk/news/BASL-to-conduct-first-public-forum/56-794002",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782865749.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailyftlk-17f219f0",
+    "num": "dailyftlk-17f219f0",
+    "date_str": "2026-07-01",
+    "description": "Pillayan remanded till 13 July over Eastern Province murder probe",
+    "url_metadata": "https://www.ft.lk/news/Pillayan-remanded-till-13-July-over-Eastern-Province-murder-probe/56-794003",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782865812.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailyftlk-67bc956f",
+    "num": "dailyftlk-67bc956f",
+    "date_str": "2026-07-01",
+    "description": "IMF fiscal management: Barbs wrapped in velvet",
+    "url_metadata": "https://www.ft.lk/columns/IMF-fiscal-management-Barbs-wrapped-in-velvet/4-794004",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782866375.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailyftlk-3cd9f775",
+    "num": "dailyftlk-3cd9f775",
+    "date_str": "2026-07-01",
+    "description": "Lowering CBSL\u2019s inflation target from 5% to 2% is desirable for economic stability",
+    "url_metadata": "https://www.ft.lk/columns/Lowering-CBSL-s-inflation-target-from-5-to-2-is-desirable-for-economic-stability/4-794005",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782866697.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailyftlk-8bfd77b6",
+    "num": "dailyftlk-8bfd77b6",
+    "date_str": "2026-07-01",
+    "description": "Preparing Chartered Accountants for leadership and Boardroom excellence",
+    "url_metadata": "https://www.ft.lk/news/Preparing-Chartered-Accountants-for-leadership-and-Boardroom-excellence/56-794006",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782866917.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-f2f62bfe",
+    "num": "dailymirrorlk-f2f62bfe",
+    "date_str": "2026-07-01",
+    "description": "Inflation climbs further above target",
+    "url_metadata": "https://www.dailymirror.lk/top-story/Inflation-climbs-further-above-target/155-344310",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782866992.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-8ea73134",
+    "num": "dailymirrorlk-8ea73134",
+    "date_str": "2026-07-01",
+    "description": "Trump made more than $1bn from crypto in first year back in office",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-made-more-than-1bn-from-crypto-in-first-year-back-in-office/108-344311",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782867227.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailymirrorlk-f68dccad",
+    "num": "dailymirrorlk-f68dccad",
+    "date_str": "2026-07-01",
+    "description": "Strong winds and rough seas forecast around Sri Lanka during next 24 hours",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Strong-winds-and-rough-seas-forecast-around-Sri-Lanka-during-next-24-hours/108-344312",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782867434.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailyftlk-8dd29120",
+    "num": "dailyftlk-8dd29120",
+    "date_str": "2026-07-01",
+    "description": "Balancing import liberalisation and external stability: Why economic policy must put people first",
+    "url_metadata": "https://www.ft.lk/columns/Balancing-import-liberalisation-and-external-stability-Why-economic-policy-must-put-people-first/4-794007",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782867473.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailyftlk-1173b0fd",
+    "num": "dailyftlk-1173b0fd",
+    "date_str": "2026-07-01",
+    "description": "We had a plan to reduce fuel dependence. We cancelled it",
+    "url_metadata": "https://www.ft.lk/columns/We-had-a-plan-to-reduce-fuel-dependence-We-cancelled-it/4-794009",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782867932.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-dailyftlk-f2ea46c4",
+    "num": "dailyftlk-f2ea46c4",
+    "date_str": "2026-07-01",
+    "description": "State capture, then\u2026and now?",
+    "url_metadata": "https://www.ft.lk/columns/State-capture-thenand-now/4-794011",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782868328.0
   }
 ]

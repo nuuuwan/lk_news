@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-01 04:16:17",
-  "n_docs": 120947,
+  "time_updated": "2026-07-01 06:48:56",
+  "n_docs": 120969,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 120947,
+  "n_docs_with_text": 120969,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-01",
-  "dataset_size": 1887577772,
+  "dataset_size": 1887736593,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -32,18 +32,18 @@
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
     "si",
-    "en",
-    "ta"
+    "ta",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-01-dailymirrorlk-f4522af6",
-    "num": "dailymirrorlk-f4522af6",
+    "doc_id": "2026-07-01-dailyftlk-f2ea46c4",
+    "num": "dailyftlk-f2ea46c4",
     "date_str": "2026-07-01",
-    "description": "The narrowing window:  Small-state agency in an age of multipolar scenario",
-    "url_metadata": "https://www.dailymirror.lk/opinion/The-narrowing-window-Small-state-agency-in-an-age-of-multipolar-scenario/172-344308",
+    "description": "State capture, then\u2026and now?",
+    "url_metadata": "https://www.ft.lk/columns/State-capture-thenand-now/4-794011",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782852760.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782868328.0
   }
 }
