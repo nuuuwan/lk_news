@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--01_22:37:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--02_00:29:43-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**121,158** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-01**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**121,170** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-01-dailymirrorlk-7854668d",
-    "num": "dailymirrorlk-7854668d",
-    "date_str": "2026-07-01",
-    "description": "SLAF executes heroic CASEVAC mission",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/SLAF-executes-heroic-CASEVAC-mission/108-344392",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1782924853.0
+    "doc_id": "2026-07-02-tamilmirrorlk-b8a0ce55",
+    "num": "tamilmirrorlk-b8a0ce55",
+    "date_str": "2026-07-02",
+    "description": "\u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3 \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b9a\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1: \u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3-\u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd-\u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b9a\u0bcb\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0bae\u0bc1\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0ba4\u0bc1-\u0ba8\u0bbe\u0bb2\u0bcd\u0bb5\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-379360",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782931964.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-02 | `tamilmirrorlk-b8a0ce55` | உலகக் கிண்ண வெற்றிக் கொண்டாட்டம் சோகத்தில் முடிந்தது: நால்வர் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-tamilmirrorlk-b8a0ce55)
+- 2026-07-01 | `tamilmirrorlk-b596ee4b` | கடைசி நிமிடத்தில் கேன் அதிரடி: கொங்கோவை வீழ்த்தி இங்கிலாந்து மிரட்டல் வெற்றி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-01-tamilmirrorlk-b596ee4b)
+- 2026-07-01 | `virakesarilk-6dc69d77` | சோகத்தில் முடிந்த மெக்ஸிகோ சிட்டி உலகக் கிண்ண வெற்றிக் கொண்டாட்டம்: சன நெறிசலில் மூவர் மூச்சுத் திணறி பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-01-virakesarilk-6dc69d77)
 - 2026-07-01 | `dailymirrorlk-7854668d` | SLAF executes heroic CASEVAC mission | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-01-dailymirrorlk-7854668d)
 - 2026-07-01 | `tamilmirrorlk-6b2e9c94` | பௌர்ணமி ’ஏரி மீன்’ கனவு கலைந்தது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-01-tamilmirrorlk-6b2e9c94)
 - 2026-07-01 | `dailymirrorlk-f426150e` | CSE ends mixed after technical delay curtails trading session | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-01-dailymirrorlk-f426150e)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-07-01 | `virakesarilk-dda5663e` | 4 மேன்முறையீட்டு மனுக்களை தாக்கல் செய்தார் முன்னாள் பிரதி அமைச்சர் சரண குணவர்தன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-01-virakesarilk-dda5663e)
 - 2026-07-01 | `adalk-6d9d7089` | 2026 යල කන්නයේ වී මිලදි ගැනිමට රු. මිලියන 6000ක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-01-adalk-6d9d7089)
 - 2026-07-01 | `virakesarilk-b5e4e7be` | இலங்கை – கசகஸ்தான் விமான சேவை விரிவாக்கம் ; சுற்றுலா, வர்த்தகத்தை வலுப்படுத்த பேச்சுவார்த்தை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-01-virakesarilk-b5e4e7be)
-- 2026-07-01 | `virakesarilk-9367a8d7` | சலே புலனாய்வு அதிகாரி என்பதால் சூழ்நிலைகளைப் புரிந்துகொண்டு தீர்மானம் எடுத்துள்ளார் - அமைச்சரவை பேச்சாளர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-01-virakesarilk-9367a8d7)
-- 2026-07-01 | `virakesarilk-d2f26c54` | ஒவ்வொரு குடிமகனும் தனது மொழியில் அரசுடன் தொடர்புகொள்வதற்கான உரிமையை நடைமுறையில் உறுதிப்படுத்தவேண்டும் - ஹர்ஷன நாணயக்கார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-01-virakesarilk-d2f26c54)
-- 2026-07-01 | `virakesarilk-9492a3bd` | தலைமன்னாருக்கான புகையிரத சேவையை விரைவில் ஆரம்பிக்குமாறு வலியுறுத்துகிறோம் - புகையிரத நிலைய அதிபர் சங்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-01-virakesarilk-9492a3bd)
 
 ---
 
