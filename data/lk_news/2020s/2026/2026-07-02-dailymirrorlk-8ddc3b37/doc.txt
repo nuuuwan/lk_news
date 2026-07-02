@@ -1,0 +1,29 @@
+India tells WhatsApp to halt usernames rollout, justify feature or face action
+
+Reuters- India has ​asked WhatsApp to justify the implementation of a planned feature covering usernames and to freeze the rollout ‌in its biggest market, escalating a crackdown on messaging anonymity that began with Telegram, according to a government letter reviewed by Reuters.
+
+Earlier this week, Meta's (META.O), opens new tab WhatsApp said it had begun a phased global rollout, including in India, of the feature, which lets users reserve a unique username ​and eventually message others without sharing their phone numbers.
+
+The intervention is an escalation of India's policing of global tech ​platforms, coming weeks after it temporarily blocked Telegram and following years of run-ins with Elon Musk's ⁠X over content-takedown orders.
+
+The Telegram block was driven partly by the same anonymity concerns that the government has now raised ​with WhatsApp.
+
+The July 1 letter gave WhatsApp three days to respond and barred the rollout until its consultations with the government ​concluded.
+
+India is WhatsApp's biggest market with more than 500 million users, and the standoff forces the platform to weigh compliance against mounting concerns about expanding government control of social media.
+
+The scrutiny comes just a week after Meta named CRED founder Kunal Shah as WhatsApp's global head, a rare pick ​from an emerging market that underscored India's weight in the app's payments and business-messaging future.
+
+A WhatsApp spokesperson said the usernames ​feature was not yet live and would roll out slowly later this year, adding that users would still need a phone number to ‌register and ⁠that senders must know a person's exact username to message them.
+
+The company said it had built "multiple layers of defense against scams" into the feature, including limits on how many new people an account can contact and blocks on repeated attempts to guess a user's username.
+
+The government letter, addressed to WhatsApp's chief compliance officer in India, said the feature ​could materially increase online fraud, ​phishing, and impersonation attacks ⁠by allowing bad actors to contact victims without disclosing their phone numbers.
+
+The government has made similar arguments against Telegram. A June report from the home ministry, reviewed by Reuters, flagged the app's ​use in cyber fraud and warned that number-hiding tools made it harder to identify users.
+
+Telegram lost ​a legal challenge ⁠last month against the temporary ban.
+
+The letter to WhatsApp based its warning on India's IT law, under which platforms lose their shield from liability for users' content if they fail to observe the government's due-diligence rules.
+
+Digital rights groups said the WhatsApp directive had no ⁠clear legal ​footing. The Internet Freedom Foundation said no provision allows the government to ​clear or block a feature before its release, calling it an attempt by the government to decide "what a company may build and ship."
