@@ -266822,6 +266822,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-28-islandlk-98856973",
+    "num": "islandlk-98856973",
+    "date_str": "2026-06-28",
+    "description": "Farmers\u2019 protests",
+    "url_metadata": "http://island.lk/farmers-protests/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782659940.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-28-tamilmirrorlk-a54e6041",
     "num": "tamilmirrorlk-a54e6041",
     "date_str": "2026-06-28",
@@ -270243,6 +270254,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-30-islandlk-2db504f6",
+    "num": "islandlk-2db504f6",
+    "date_str": "2026-06-30",
+    "description": "JAT executes strategic Mirotone acquisition roadmap with Australian re-entry",
+    "url_metadata": "http://island.lk/jat-executes-strategic-mirotone-acquisition-roadmap-with-australian-re-entry/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782827880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-islandlk-8a887578",
+    "num": "islandlk-8a887578",
+    "date_str": "2026-06-30",
+    "description": "Mangrove restoration seen as creating jobs and promoting rural economic vibrancy",
+    "url_metadata": "http://island.lk/mangrove-restoration-seen-as-creating-jobs-and-promoting-rural-economic-vibrancy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782827880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-06-30-islandlk-da741da4",
+    "num": "islandlk-da741da4",
+    "date_str": "2026-06-30",
+    "description": "INFRACON 2026 to unite South Asia\u2019s infrastructure and construction industry in Colombo",
+    "url_metadata": "http://island.lk/infracon-2026-to-unite-south-asias-infrastructure-and-construction-industry-in-colombo/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782827940.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-30-islandlk-b013bcb3",
     "num": "islandlk-b013bcb3",
     "date_str": "2026-06-30",
@@ -272905,6 +272949,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-01-islandlk-49adb9e8",
+    "num": "islandlk-49adb9e8",
+    "date_str": "2026-07-01",
+    "description": "Delay in the commencement of trading on July 1, 2026",
+    "url_metadata": "http://island.lk/delay-in-the-commencement-of-trading-on-july-1-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782925620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-islandlk-83d205f5",
+    "num": "islandlk-83d205f5",
+    "date_str": "2026-07-01",
+    "description": "Hemas Holdings appoints Sabrina Esufally to Board of Directors",
+    "url_metadata": "http://island.lk/hemas-holdings-appoints-sabrina-esufally-to-board-of-directors/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782925620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-islandlk-e40c432d",
+    "num": "islandlk-e40c432d",
+    "date_str": "2026-07-01",
+    "description": "Mark and Comm backs Sri Lanka\u2019s National Public Relations Summit as Platinum Sponsor",
+    "url_metadata": "http://island.lk/mark-and-comm-backs-sri-lankas-national-public-relations-summit-as-platinum-sponsor/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782925620.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-01-virakesarilk-6dc69d77",
     "num": "virakesarilk-6dc69d77",
     "date_str": "2026-07-01",
@@ -273001,5 +273078,148 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1782943283.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-3a9bd0bf",
+    "num": "dailyftlk-3a9bd0bf",
+    "date_str": "2026-07-02",
+    "description": "SAWM - SL leads national dialogue on ethical AI in media",
+    "url_metadata": "https://www.ft.lk/news/SAWM-SL-leads-national-dialogue-on-ethical-AI-in-media/56-794085",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782946722.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-fce05f79",
+    "num": "dailyftlk-fce05f79",
+    "date_str": "2026-07-02",
+    "description": "Cabinet approves Kurunegala-to-Galewela phase of Central Expressway",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-approves-Kurunegala-to-Galewela-phase-of-Central-Expressway/56-794086",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782946736.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-42968804",
+    "num": "dailyftlk-42968804",
+    "date_str": "2026-07-02",
+    "description": "Temple City project around Gangaramaya fast-tracked to boost Colombo tourism",
+    "url_metadata": "https://www.ft.lk/news/Temple-City-project-around-Gangaramaya-fast-tracked-to-boost-Colombo-tourism/56-794087",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782946784.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-0499be45",
+    "num": "dailyftlk-0499be45",
+    "date_str": "2026-07-02",
+    "description": "State of Emergency to end this month: Govt.",
+    "url_metadata": "https://www.ft.lk/news/State-of-Emergency-to-end-this-month-Govt/56-794088",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782946842.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-f4ae7311",
+    "num": "dailyftlk-f4ae7311",
+    "date_str": "2026-07-02",
+    "description": "Cabinet allocates Rs. 6 b for Yala paddy purchases, clears urea imports for Maha season",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-allocates-Rs-6-b-for-Yala-paddy-purchases-clears-urea-imports-for-Maha-season/56-794089",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782946863.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-cfe712c4",
+    "num": "dailyftlk-cfe712c4",
+    "date_str": "2026-07-02",
+    "description": "Gota\u2019s ex-private secretary remanded until 8 July over salary probe",
+    "url_metadata": "https://www.ft.lk/news/Gota-s-ex-private-secretary-remanded-until-8-July-over-salary-probe/56-794090",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782946946.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-014acc93",
+    "num": "dailyftlk-014acc93",
+    "date_str": "2026-07-02",
+    "description": "Suresh Sallay suspends hunger strike while in CID custody",
+    "url_metadata": "https://www.ft.lk/news/Suresh-Sallay-suspends-hunger-strike-while-in-CID-custody/56-794091",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782946959.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-69bf565f",
+    "num": "dailyftlk-69bf565f",
+    "date_str": "2026-07-02",
+    "description": "Court orders Sallay to hand over laptop, phone passwords to CID",
+    "url_metadata": "https://www.ft.lk/news/Court-orders-Sallay-to-hand-over-laptop-phone-passwords-to-CID/56-794092",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782947036.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-1ae079d9",
+    "num": "dailyftlk-1ae079d9",
+    "date_str": "2026-07-02",
+    "description": "Dr. J.G.L.S. Jayawardena appointed Director General of BOI",
+    "url_metadata": "https://www.ft.lk/business/Dr-J-G-L-S-Jayawardena-appointed-Director-General-of-BOI/34-794094",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782947252.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-5d1110a4",
+    "num": "dailyftlk-5d1110a4",
+    "date_str": "2026-07-02",
+    "description": "New BOI Chairman vows to restore agency\u2019s authority, drive FDI growth",
+    "url_metadata": "https://www.ft.lk/business/New-BOI-Chairman-vows-to-restore-agency-s-authority-drive-FDI-growth/34-794095",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782947311.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-340a9620",
+    "num": "dailyftlk-340a9620",
+    "date_str": "2026-07-02",
+    "description": "Mistaken CDS account suspensions delay CSE market opening",
+    "url_metadata": "https://www.ft.lk/business/Mistaken-CDS-account-suspensions-delay-CSE-market-opening/34-794096",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782947326.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-277b994f",
+    "num": "dailyftlk-277b994f",
+    "date_str": "2026-07-02",
+    "description": "Govt. launches El Ni\u00f1o task force,orders two-week preparedness plans",
+    "url_metadata": "https://www.ft.lk/business/Govt-launches-El-Ni\u00f1o-task-force-orders-two-week-preparedness-plans/34-794097",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782947347.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailyftlk-a254f820",
+    "num": "dailyftlk-a254f820",
+    "date_str": "2026-07-02",
+    "description": "TEA calls for urgent support to lift tea smallholder productivity, exports",
+    "url_metadata": "https://www.ft.lk/business/TEA-calls-for-urgent-support-to-lift-tea-smallholder-productivity-exports/34-794098",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1782947394.0
   }
 ]
