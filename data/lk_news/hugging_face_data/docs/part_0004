@@ -274621,6 +274621,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-02-adalk-eb4f4dde",
+    "num": "adalk-eb4f4dde",
+    "date_str": "2026-07-02",
+    "description": "\u0db6\u0ddc\u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0dda\u0daf\u0dd3  \u2019Go Home AKD\u2019 \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0ddc\u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0dda\u0daf\u0dd3--\u2019Go-Home-AKD\u2019-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/11-423079",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782981267.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-02-virakesarilk-99a16afc",
     "num": "virakesarilk-99a16afc",
     "date_str": "2026-07-02",
@@ -274662,5 +274673,137 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1782983460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-c369040c",
+    "num": "dailymirrorlk-c369040c",
+    "date_str": "2026-07-02",
+    "description": "Withholding A/L results of Muslim candidates over hijab violated fundamental rights: HRCSL",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Withholding-AL-results-of-Muslim-candidates-over-hijab-violated-fundamental-rights-HRCSL/108-344508",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782983900.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-48017822",
+    "num": "dailymirrorlk-48017822",
+    "date_str": "2026-07-02",
+    "description": "Sajith Premadasa congratulates Communist Party of China on 105th anniversary",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-Premadasa-congratulates-Communist-Party-of-China-on-105th-anniversary/108-344509",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782985587.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-4912f796",
+    "num": "dailymirrorlk-4912f796",
+    "date_str": "2026-07-02",
+    "description": "Boy driving pickup truck crashes into group of Thai monks, killing 8",
+    "url_metadata": "https://www.dailymirror.lk/international/Boy-driving-pickup-truck-crashes-into-group-of-Thai-monks-killing-8/107-344510",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782987068.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-f5c697c2",
+    "num": "dailymirrorlk-f5c697c2",
+    "date_str": "2026-07-02",
+    "description": "Dengue outbreak shuts Colombo Visual and Performing Arts University",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-outbreak-shuts-Colombo-Visual-and-Performing-Arts-University/108-344511",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782987576.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-9c797c4b",
+    "num": "dailymirrorlk-9c797c4b",
+    "date_str": "2026-07-02",
+    "description": "India to tour Sri Lanka for two-test series in August",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/India-to-tour-Sri-Lanka-for-two-test-series-in-August/108-344512",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782987704.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-cac65586",
+    "num": "dailymirrorlk-cac65586",
+    "date_str": "2026-07-02",
+    "description": "Ven Narampanawe Ananda Thero appointed Chancellor of Kelaniya University",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ven-Narampanawe-Ananda-Thero-appointed-Chancellor-of-Kelaniya-University/108-344513",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782988189.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-adalk-df9432a7",
+    "num": "adalk-df9432a7",
+    "date_str": "2026-07-02",
+    "description": "\u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dba \u0db1\u0dc0 \u0d9a\u0dd4\u0dbd\u0db4\u0dad\u0dd2 \u0dbd\u0dd9\u0dc3 \u0db1\u0dcf\u0dbb\u0db8\u0dca\u0db4\u0db1\u0dcf\u0dc0\u0dda \u0d86\u0db1\u0db1\u0dca\u0daf \u0dc4\u0dd2\u0db8\u0dd2 \u0db4\u0dad\u0dca\u0d9a\u0dbb\u0dad\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dd0\u0dc5\u0dab\u0dd2\u0dba-\u0db1\u0dc0-\u0d9a\u0dd4\u0dbd\u0db4\u0dad\u0dd2-\u0dbd\u0dd9\u0dc3-\u0db1\u0dcf\u0dbb\u0db8\u0dca\u0db4\u0db1\u0dcf\u0dc0\u0dda-\u0d86\u0db1\u0db1\u0dca\u0daf-\u0dc4\u0dd2\u0db8\u0dd2-\u0db4\u0dad\u0dca\u0d9a\u0dbb\u0dad\u0dd2/11-423080",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782988313.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-406d0819",
+    "num": "dailymirrorlk-406d0819",
+    "date_str": "2026-07-02",
+    "description": "Indonesian couple publicly caned for kissing on TikTok",
+    "url_metadata": "https://www.dailymirror.lk/international/Indonesian-couple-publicly-caned-for-kissing-on-TikTok/107-344514",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782989069.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-adalk-64767dfa",
+    "num": "adalk-64767dfa",
+    "date_str": "2026-07-02",
+    "description": "\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1 \u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0da7 \u0d9a\u0dc5 \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dd6 \u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8 \u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0db6\u0dbd\u0d87\u0dab\u0dd2\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/picture_story/\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1-\u0dc4\u0db8\u0dd4\u0daf\u0dcf\u0dc0\u0da7-\u0d9a\u0dc5-\u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2-\u0dc0\u0dd6-\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8-\u0dbd\u0dcf\u0d82\u0d9a\u0dd2\u0d9a-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dc4\u0db8\u0dd4\u0daf\u0dcf-\u0db6\u0dbd\u0d87\u0dab\u0dd2\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/10-423082",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782989087.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-8a2c9e75",
+    "num": "dailymirrorlk-8a2c9e75",
+    "date_str": "2026-07-02",
+    "description": "Dinal Edirisinghe wins National Table Topics Speech Contest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dinal-Edirisinghe-wins-National-Table-Topics-Speech-Contest/108-344515",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782989254.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-dabfce0e",
+    "num": "dailymirrorlk-dabfce0e",
+    "date_str": "2026-07-02",
+    "description": "Colombo Divisional Secretariats introduce card payment facilities",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-Divisional-Secretariats-introduce-card-payment-facilities/108-344516",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782989459.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-adalk-5c63c0f7",
+    "num": "adalk-5c63c0f7",
+    "date_str": "2026-07-02",
+    "description": "\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda \u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0db4\u0dbb\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0d9a\u0da7\u0dca\u0da7\u0dbd \u0dc6\u0dcf\u0db8\u0dc3\u0dd2 \u0dc4\u0dbb\u0dc4\u0dcf \u0dbd\u0db6\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0daf\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0dda-\u0db8\u0dad\u0dca\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba-\u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab-\u0d9a\u0dbb\u0db1\u0dca\u0db1-\u0db4\u0dbb\u0dd2\u0d9a\u0dca\u0dc2\u0dab-\u0d9a\u0da7\u0dca\u0da7\u0dbd-\u0dc6\u0dcf\u0db8\u0dc3\u0dd2-\u0dc4\u0dbb\u0dc4\u0dcf-\u0dbd\u0db6\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0d9a\u0dca/11-423083",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782989931.0
   }
 ]
