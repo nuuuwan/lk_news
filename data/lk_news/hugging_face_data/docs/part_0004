@@ -273026,6 +273026,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-01-islandlk-68123d60",
+    "num": "islandlk-68123d60",
+    "date_str": "2026-07-01",
+    "description": "Sluggishness in market in the wake of slight interest rate hike",
+    "url_metadata": "http://island.lk/sluggishness-in-market-in-the-wake-of-slight-interest-rate-hike/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782925620.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-01-islandlk-83d205f5",
     "num": "islandlk-83d205f5",
     "date_str": "2026-07-01",
@@ -274962,6 +274973,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-02-adalk-e21f557b",
+    "num": "adalk-e21f557b",
+    "date_str": "2026-07-02",
+    "description": "\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0dbb\u0dae\u0dc0\u0dcf\u0dc4\u0db1 \u0d86\u0db1\u0dba\u0db1 \u0dc0\u0dd2\u0dba\u0daf\u0db8 \u0db8\u0dd4\u0dbd\u0dca \u0db8\u0dcf\u0dc3 \u0db4\u0dc4\u0dda\u0daf\u0dd3 \u0dc3\u0dd2\u0dba\u0dba\u0da7 828\u0d9a\u0dd2\u0db1\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a-\u0dbb\u0dae\u0dc0\u0dcf\u0dc4\u0db1-\u0d86\u0db1\u0dba\u0db1-\u0dc0\u0dd2\u0dba\u0daf\u0db8-\u0db8\u0dd4\u0dbd\u0dca-\u0db8\u0dcf\u0dc3-\u0db4\u0dc4\u0dda\u0daf\u0dd3-\u0dc3\u0dd2\u0dba\u0dba\u0da7-828\u0d9a\u0dd2\u0db1\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-423086",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782991812.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-02-virakesarilk-11b828bc",
     "num": "virakesarilk-11b828bc",
     "date_str": "2026-07-02",
@@ -275003,6 +275025,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782992244.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-adalk-e60d79e9",
+    "num": "adalk-e60d79e9",
+    "date_str": "2026-07-02",
+    "description": "\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8 \u0dc0\u0dd0\u0da9\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0daf\u0dd3\u0db8\u0db1\u0dcf\u0dc0 \u0dc4\u0dd9\u0da7 \u0db6\u0dd0\u0d82\u0d9a\u0dd4 \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca\u0dc0\u0dbd\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8-\u0dc0\u0dd0\u0da9\u0dd2\u0dc4\u0dd2\u0da7\u0dd2-\u0daf\u0dd3\u0db8\u0db1\u0dcf\u0dc0-\u0dc4\u0dd9\u0da7-\u0db6\u0dd0\u0d82\u0d9a\u0dd4-\u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca\u0dc0\u0dbd\u0da7/11-423087",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782992322.0
   },
   {
     "doc_type": "lk_news",
@@ -275113,5 +275146,60 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1782996229.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-e71f06fb",
+    "num": "dailymirrorlk-e71f06fb",
+    "date_str": "2026-07-02",
+    "description": "Gazette amends colour-coded labelling rules for sugary drinks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Gazette-amends-colour-coded-labelling-rules-for-sugary-drinks/108-344524",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782997087.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-aecc0398",
+    "num": "dailymirrorlk-aecc0398",
+    "date_str": "2026-07-02",
+    "description": "Canadian boy dies of rabies after waking to bat on his face",
+    "url_metadata": "https://www.dailymirror.lk/international/Canadian-boy-dies-of-rabies-after-waking-to-bat-on-his-face/107-344526",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782998044.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-f97ebae4",
+    "num": "dailymirrorlk-f97ebae4",
+    "date_str": "2026-07-02",
+    "description": "12-hour water cut in Colombo and suburbs on Saturday",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/12-hour-water-cut-in-Colombo-and-suburbs-on-Saturday/108-344528",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782998958.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-0e8203b4",
+    "num": "dailymirrorlk-0e8203b4",
+    "date_str": "2026-07-02",
+    "description": "Vehicle importers urges reforms to ease vehicle import process",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vehicle-importers-urges-reforms-to-ease-vehicle-import-process/108-344529",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783001981.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-ea800be7",
+    "num": "dailymirrorlk-ea800be7",
+    "date_str": "2026-07-02",
+    "description": "Historic locomotive move between Kandy and Peradeniya without tracks",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Historic-locomotive-move-between-Kandy-and-Peradeniya-without-tracks/108-344530",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783002581.0
   }
 ]
