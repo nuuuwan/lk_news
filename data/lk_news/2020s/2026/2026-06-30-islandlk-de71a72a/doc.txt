@@ -1,0 +1,67 @@
+Invisible financial empire – I
+
+Sunil works as a driver in Dubai. Every month, on payday, he sets aside a portion of his salary to send to his mother in Galle. For years he used his bank’s remittance service. Then, one evening, a friend at the labour camp told him something that changed his habits.
+
+“Don’t use the bank. I know someone. Your mother will get more rupees, and she’ll get it today.”
+
+Sunil hesitated, but the offer was hard to refuse. The bank’s exchange rate was lower than what his friend’s contact was offering. The transfer fee was smaller. And instead of waiting two or three working days, the money would be in his mother’s hands by evening.
+
+He agreed. He handed his friend’s contact a sum in UAE dirhams. He sent a one-line message to his mother with a code word. Within hours, a man on a motorcycle visited his mother’s home in Galle and handed her an envelope of rupees, more rupees than the bank would have given her, for the same dirhams.
+
+No bank was involved. No wire transfer crossed the Indian Ocean. No dollar, dirham, or rupee physically travelled from Dubai to Galle. And yet the money moved, instantly, reliably, and outside the view of any regulator.
+
+This is the world of Undiyal, known elsewhere as  Hawala, a financial system that predates modern banking by centuries, operates today across six continents, and quietly moves an estimated USD 100 billion to USD 300 billion every year, almost entirely beyond the reach of central banks, tax authorities, and financial intelligence units.
+
+Most Sri Lankans have heard the words Undiyal and  Hawala. Fewer understand how the system actually works, why it has survived for centuries, despite the rise of modern banking, or why it matters to every citizen, whether or not they have ever sent or received a single rupee through it.
+
+The Invisible Financial Empire, will take readers from the basic mechanics of underground value transfer to the sophisticated criminal networks, digital platforms, and policy battles that define this shadow economy today. We begin, in Part I, with the system’s history and mechanics. Parts II, III and IV will examine how dirty money is laundered through this and related channels, how technology has transformed illicit finance, and what all of this means for Sri Lanka’s economy and its people.
+
+Every important claim in this series is backed by evidence, from the International Monetary Fund, the Financial Action Task Force (FATF), the United Nations Office on Drugs and Crime (UNODC), Interpol, the Central Bank of Sri Lanka, and other research. Where something is allegation rather than established fact.
+
+Hawala , from the Arabic word for “transfer” or “trust”, emerged on the trade routes of South Asia and the Middle East more than a thousand years ago. Merchants travelling the Silk Road faced an obvious problem: carrying gold and silver across vast distances, through bandit-infested deserts and pirate-infested seas, was dangerous and impractical. The solution they devised was elegant. Only the broker’s word, we used to say “Word is the Deed” in our treasury dealing room and a running ledger of mutual debts between brokers, made the system work.
+
+This same basic structure exists today across the world, under different regional names. In Sri Lanka and among Tamil communities globally, it is called Undiyal. In Pakistan and India, the underlying instrument is called Hundi. In China, it is known as Fei-Chien (“flying money”). In Hong Kong, Hui Kuan. In Thailand, Pei Kwan. In Somalia,  Xawilaad. In the Philippines, Padala. In Colombia and parts of Latin America, the Black Market Peso Exchange. The US Financial Crimes Enforcement Network (FinCEN) groups all of these under a single technical term: Informal Value Transfer Systems (IVTS). (See Table 01)
+
+The system survived the rise of telegraphs, SWIFT transfers, and online banking for a simple reason: it consistently does several things that formal banking, in many developing economies, has struggled to do as well, offer better effective exchange rates, charge lower fees, settle faster, and ask no questions.
+
+How an Undiyal Transaction Actually Works: The Settlement Mechanism (See Figure 1)
+
+No SWIFT message. No correspondent bank. No regulator sees a thing, unless one of the brokers later moves the settlement funds through a formal account, where Sri Lanka’s Financial Transactions Reporting Act requires banks to flag and report suspicious activity to the Financial Intelligence Unit (FIU) of the Central Bank.
+
+For most of its history, Hawala depended on physical trust networks, extended families, ethnic and trading communities, and word-of-mouth reputation built over generations. That has changed dramatically in the past fifteen years.
+
+*  Encrypted messaging apps (WhatsApp, Telegram, Signal) to coordinate transactions and code words instantly across continents, replacing the slower telephone-and-courier model of earlier decades.
+
+*  Online payment platforms and digital wallets which can be used to move settlement funds in small, harder-to-detect increments.
+
+*  Internet-based forex trading platforms some entirely legitimate, others used as fronts to mix illicit settlement flows with apparently ordinary trading activity.
+
+*  Cryptocurrencies and stablecoins which allow brokers to settle balances between themselves across borders without touching the formal banking system at all.
+
+*  AI-assisted coordination increasingly used by larger networks to manage ledgers, detect law enforcement patterns, and optimise routing of funds across multiple jurisdictions.
+
+This digital layer has not replaced the old trust-based Hawala network, it has supercharged it, allowing brokers to settle obligations faster, across more jurisdictions, and with a thinner paper trail than ever before.
+
+It would be easy, and too simple, to assume that everyone using Undiyal or Hawala is engaged in something illicit. Not really always. The system serves both legitimate remittance needs and, separately, can be exploited for criminal purposes.
+
+Sri Lanka’s own experience between 2021 and 2022 is the clearest illustration of this dynamic anywhere in the world. When the Central Bank maintained an artificially fixed exchange rate while informal market rates ran far higher, formal worker remittances collapsed. Officially recorded remittances fell sharply through 2021 and into 2022, even though Sri Lankans working abroad had not stopped sending money home, they had simply stopped using the formal banking system to do it. The money was still flowing; it had simply gone underground, where the official statistics could no longer see it.
+
+The lesson is one we will return to throughout this series: informal systems do not grow primarily because people want to break the law. They grow because the formal system has made them inconvenient less competitive if not completely impossible.
+
+The numbers, where they can be estimated, are staggering, and it is worth pausing on exactly how they are estimated, since by definition these are flows that evade official measurement. (See Table 02)
+
+What this table also reveals is encouraging. Since the Central Bank of Sri Lanka abandoned its parallel, artificially fixed exchange rate regime after the 2022 crisis, official remittances have recovered sharply and repeatedly hit record highs. This is not a coincidence. It is the clearest available evidence for the central argument of this series: when the formal exchange rate is allowed to reflect market reality, much of the incentive to use Undiyal disappears.
+
+In Sri Lanka, transferring funds overseas through Undiyal is explicitly prohibited under Section 4(3) of the Foreign Exchange Act, and engaging in such transactions is a punishable offence under the Prevention of Money Laundering Act. Banks are required under the Financial Transactions Reporting Act to report suspicious transactions to the FIU, regardless of amount. Yet the system persists, not because the law is unclear, but because, as this section has shown, the underlying economics often still favour the informal channel.
+
+In Part II, “Dirty Money: How Criminal Networks Launder Billions Across the World”, we will examine the three-stage laundering process that converts criminal proceeds into apparently legitimate wealth, the shell companies and trade manipulation schemes that make it possible, and what this machinery costs Sri Lanka and the world.
+
+If informal systems like Hawala and Undiyal have survived for centuries despite the rise of modern banking, is the real problem the existence of these networks, or the incentives that keep ordinary people, like Sunil, choosing them over the formal financial system their own country has built?
+
+(The writer is a senior Chartered Accountant, professional banker, and prominent academic researcher, holding a PhD from Auckland University of Technology (AUT), New Zealand. He has an extensive publication record in peer-reviewed journals and is the author of “Doing Social Research” (Springer) and “Samaja Gaveshakaya.” The views and opinions expressed in this article are personal.)
+
+(The writer, a senior Chartered Accountant and professional banker, is Professor at SLIIT, Malabe.Views expressed in this article are personal.)
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
