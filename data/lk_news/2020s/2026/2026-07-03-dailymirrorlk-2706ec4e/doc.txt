@@ -1,0 +1,21 @@
+sixn.ai wins at Asia’s largest AI hackathon
+
+Sri Lankan agentic AI studio sixn.ai has secured a major international victory at SuperAI NEXT Hackathon 2026, in Singapore, finishing among the Top 5 teams overall and winning the Best Use of Stripe Award for its AI fashion companion Bloom.
+
+The achievement marks a significant milestone not only for sixn.ai but also for Sri Lanka’s growing presence in the global artificial intelligence landscape.
+
+Competing against 700 applicants, 80 teams and participants from 26 countries, sixn.ai was the only Sri Lankan company to secure a place in the overall Top 5 at one of Asia’s largest and most competitive AI events.
+
+SuperAI is widely regarded as Asia’s largest AI event, bringing together leading AI founders, researchers, investors, technology companies and innovators from around the world.
+
+The SuperAI NEXT Hackathon is one of the conference’s flagship competitions, providing a platform for emerging AI builders to develop and showcase cutting-edge solutions under intense time constraints.
+
+Securing a Top 5 finish among international participants places sixn.ai alongside some of the region’s most promising AI innovators and highlights Sri Lanka’s growing capabilities in the field of advanced artificial intelligence.
+
+Built within the hackathon’s intense 36-hour timeframe, Bloom is an AI-powered fashion companion that demonstrates how intelligent agents can understand user intent, coordinate tasks and deliver seamless commerce experiences, showcasing the practical potential of agentic AI.
+
+For sixn.ai, the recognition validates a broader vision: AI agents should do more than assist the users. They should understand business context, collaborate across workflows and execute complex tasks with meaningful autonomy.
+
+“The AI landscape has changed dramatically. Building quality AI products is no longer the biggest challenge,” said Sixn.ai founder Shivantha Meepage.
+
+“The real opportunity lies in understanding business context, identifying meaningful problems and applying AI where it can create measurable impact. At sixn.ai, our strength is combining deep business understanding with agentic AI to design systems that simplify complexity and deliver real outcomes. This recognition validates that approach.”

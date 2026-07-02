@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-03 00:21:19",
-  "n_docs": 121400,
+  "time_updated": "2026-07-03 02:18:55",
+  "n_docs": 121419,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 121400,
+  "n_docs_with_text": 121419,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-03",
-  "dataset_size": 1894795021,
+  "dataset_size": 1894861932,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
+    "ta",
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-03-dailymirrorlk-359f46cd",
-    "num": "dailymirrorlk-359f46cd",
+    "doc_id": "2026-07-03-dailymirrorlk-009e880c",
+    "num": "dailymirrorlk-009e880c",
     "date_str": "2026-07-03",
-    "description": "International Automobile Industry Awards 2026 AMW honoured as Sri Lanka\u2019s largest vehicle trading network",
-    "url_metadata": "https://www.dailymirror.lk/business/International-Automobile-Industry-Awards-2026-AMW-honoured-as-Sri-Lankas-largest-vehicle-trading-network/215-344534",
+    "description": "IFRS 17 to bring transparency to life insurance sector, push industry toward protection-led growth",
+    "url_metadata": "https://www.dailymirror.lk/business/IFRS-17-to-bring-transparency-to-life-insurance-sector-push-industry-toward-protection-led-growth/215-344553",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783018047.0
+    "time_ut": 1783024680.0
   }
 }
