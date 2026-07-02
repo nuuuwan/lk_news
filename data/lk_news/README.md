@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--02_20:37:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--02_22:29:17-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**121,377** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**121,399** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-02-dailymirrorlk-ea800be7",
-    "num": "dailymirrorlk-ea800be7",
+    "doc_id": "2026-07-02-dailymirrorlk-a856fa20",
+    "num": "dailymirrorlk-a856fa20",
     "date_str": "2026-07-02",
-    "description": "Historic locomotive move between Kandy and Peradeniya without tracks",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Historic-locomotive-move-between-Kandy-and-Peradeniya-without-tracks/108-344530",
+    "description": "70% of prison population linked to drug addiction, overcrowding concerns raised",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/70-of-prison-population-linked-to-drug-addiction-overcrowding-concerns-raised/108-344533",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783002581.0
+    "time_ut": 1783008714.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-02 | `dailymirrorlk-a856fa20` | 70% of prison population linked to drug addiction, overcrowding concerns raised | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-a856fa20)
+- 2026-07-02 | `virakesarilk-2ea67d99` | பீபா உலகக் கிண்ண 32 அணிகள் சுற்றில் நான்கு முக்கிய போட்டிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-2ea67d99)
+- 2026-07-02 | `dailymirrorlk-764f4d0d` | 225 awareness programmes conducted to protect schoolchildren from drug use | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-764f4d0d)
+- 2026-07-02 | `virakesarilk-8bc1eb7c` | இலங்கை ஏ அணி 288 - 5 விக். எதிர் இந்தியா ஏ அணி; சஹான் ஆராச்சிகே 83 ஆ.இ. | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-8bc1eb7c)
+- 2026-07-02 | `virakesarilk-985f0992` | இலங்கையுடன் ஆகஸ்டில் 2 டெஸ்ட்களில் விளையாட இந்திய அணி வருகை தருகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-985f0992)
+- 2026-07-02 | `dailymirrorlk-11bb8b13` | Visiting Pakistan Defence Secretary holds talks with Sri Lankan counterpart | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-11bb8b13)
 - 2026-07-02 | `dailymirrorlk-ea800be7` | Historic locomotive move between Kandy and Peradeniya without tracks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-ea800be7)
 - 2026-07-02 | `dailymirrorlk-0e8203b4` | Vehicle importers urges reforms to ease vehicle import process | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-0e8203b4)
+- 2026-07-02 | `virakesarilk-880ffc2a` | டெங்கு அதிகரிப்பால் மூடப்பட்ட கொழும்பு கட்புல அரங்கேற்றக் கலைகள் பல்கலைக்கழகம் - 30 மாணவர்கள் டெங்கு காய்ச்சலால் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-880ffc2a)
+- 2026-07-02 | `virakesarilk-290cc82f` | ரூபாவின் பெறுமதி நிலைத்திருக்க இலங்கை என்ன செய்யலாம்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-290cc82f)
+- 2026-07-02 | `virakesarilk-e82ffa76` | இலங்கையின் மீளெழுச்சித் திறனுக்கு சர்வதேச நாணய நிதியம் பாராட்டு : ஜனாதிபதியின் சீர்திருத்தத் திட்டத்துக்கும் ஆதரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-e82ffa76)
+- 2026-07-02 | `virakesarilk-7e461266` | டெங்கு கட்டுப்பாடு இல்லாததே தற்போதைய தீவிரத்துக்குக் காரணம் : ராஜித்த சேனாரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-7e461266)
+- 2026-07-02 | `virakesarilk-7801f8d5` | இலங்கை – ஜேர்மனி இடையே புதிய புரிந்துணர்வு ஒப்பந்தம் - சிறு மற்றும் நடுத்தர தொழில்களுக்கு ஐரோப்பிய சந்தை வாய்ப்புகள் விரிவாக்கம் ; பெண் தொழில்முனைவோருக்கும் சிறப்பு ஆதரவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-7801f8d5)
+- 2026-07-02 | `virakesarilk-371ffa4b` | திருகோணமலை ஸாஹிரா கல்லூரி மாணவிகளின் மத உரிமைகள்  முன்னாள் பரீட்சைகள் ஆணையாளர் நாயகத்தினால் மீறப்பட்டுள்ளன  - இலங்கை மனித உரிமைகள் ஆணைக்குழு சுட்டிக்காட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-371ffa4b)
 - 2026-07-02 | `dailymirrorlk-f97ebae4` | 12-hour water cut in Colombo and suburbs on Saturday | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-f97ebae4)
+- 2026-07-02 | `virakesarilk-b9f947a6` | 6 படுகொலைச் சம்பவங்கள் தொடர்பில் கைதான இனியபாரதிக்கு விளக்கமறியல் - பயங்கரவாத தடைச் சட்டத்திலிருந்தும் விடுவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-b9f947a6)
 - 2026-07-02 | `dailymirrorlk-aecc0398` | Canadian boy dies of rabies after waking to bat on his face | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-aecc0398)
 - 2026-07-02 | `dailymirrorlk-e71f06fb` | Gazette amends colour-coded labelling rules for sugary drinks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-e71f06fb)
 - 2026-07-02 | `dailymirrorlk-77bc0dc5` | CSE ends slightly lower as early gains fade amid selective buying and weak sentiment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-77bc0dc5)
-- 2026-07-02 | `virakesarilk-39ee96ea` | பொலிஸ் விசேட சோதனை :  பல்வேறு குற்றச்செயல்களுடன் தொடர்புடைய 652 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-39ee96ea)
-- 2026-07-02 | `virakesarilk-f410165e` | லோகேஷ் கனகராஜ் நடிக்கும் 'டிசி' படத்தின் வெளியீட்டுத் திகதி அறிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-f410165e)
-- 2026-07-02 | `virakesarilk-9ebca4b1` | அதர்வாவின் 'இதயம் முரளி' படத்திற்காக மூச்சு விடாமல் பாடிய தமன் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-9ebca4b1)
-- 2026-07-02 | `virakesarilk-7f63d837` | நடிகர் அஷ்ரஃப் நடிக்கும் 'போட்டோகிராபர் ' படத்தின் முன்னோட்டம் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-7f63d837)
-- 2026-07-02 | `virakesarilk-ae1724b8` | ரசிகர்களுக்கும், ஊடகத்தினருக்கும் நன்றி தெரிவித்த 'அங்கீகாரம்' படக் குழு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-ae1724b8)
-- 2026-07-02 | `virakesarilk-9bf0b438` | டக்ளஸ் தேவானந்தாவின் பெயர் சொல்லும் திட்டமாக தீவகத்திற்கான மீள்புதுப்பிக்கத்தக்க மின் உற்பத்தி திட்டம் அமைந்துள்ளது - ஈ.பி.டி.பி. பெருமிதம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-9bf0b438)
-- 2026-07-02 | `virakesarilk-2049c62d` | சட்டவாக்க செயன்முறையை மேம்படுத்தல் : பாராளுமன்றத்திற்கும், ஐக்கிய நாடுகள் சனத்தொகை நிதியத்திற்கும் இடையில் புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-2049c62d)
-- 2026-07-02 | `virakesarilk-b111f475` | மாகாண சபை தேர்தலை நடத்தினால் யார் ராஜா என்று தெரிந்துவிடும் -  அரசாங்கத்துக்கு சஜித் சவால் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-b111f475)
-- 2026-07-02 | `virakesarilk-1b33cb9c` | சீனா - இலங்கை பொதுவான எதிர்கால சமூகத்தை கட்டியெழுப்புவதற்கும் நாம் தயாராக உள்ளோம்  - சீனத் தூதுவர் கீ சென்ஹொங் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-1b33cb9c)
-- 2026-07-02 | `adalk-e60d79e9` | අස්වැසුම වැඩිහිටි දීමනාව හෙට බැංකු ගිණුම්වලට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-adalk-e60d79e9)
-- 2026-07-02 | `dailymirrorlk-25768ee7` | Commission launched to tackle public sector pay issues | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-25768ee7)
-- 2026-07-02 | `virakesarilk-7383da83` | சஜித் பிரேமதாசவும் ஊழல் குற்றச்சாட்டுகளிலிருந்து தப்பிக்க முடியாது - ஜனபலய கூட்டமைப்பு திட்டவட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-7383da83)
-- 2026-07-02 | `tamilmirrorlk-42e3361c` | 11 வயது சிறுவன் ஓட்டிவந்த வாகனம் மோதி 8 பிக்குகள் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-tamilmirrorlk-42e3361c)
-- 2026-07-02 | `virakesarilk-11b828bc` | சட்டவிரோத போதை மாத்திரைகளுடன் கற்பிட்டி கடற்பரப்பில் ஒருவர் கடற்படையினரால் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-11b828bc)
+- 2026-07-02 | `virakesarilk-b422613e` | பதிவு செய்யாத முதியோர் இல்லங்களுக்கு செப்டம்பர்  30 வரை அவகாசம் – தேசிய முதியோர் செயலகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-b422613e)
 
 ---
 
