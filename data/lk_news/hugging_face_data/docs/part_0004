@@ -275443,5 +275443,16 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783008714.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-359f46cd",
+    "num": "dailymirrorlk-359f46cd",
+    "date_str": "2026-07-03",
+    "description": "International Automobile Industry Awards 2026 AMW honoured as Sri Lanka\u2019s largest vehicle trading network",
+    "url_metadata": "https://www.dailymirror.lk/business/International-Automobile-Industry-Awards-2026-AMW-honoured-as-Sri-Lankas-largest-vehicle-trading-network/215-344534",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783018047.0
   }
 ]

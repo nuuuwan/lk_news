@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--02_22:29:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--03_00:22:15-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**121,399** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-02**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**121,400** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-02-dailymirrorlk-a856fa20",
-    "num": "dailymirrorlk-a856fa20",
-    "date_str": "2026-07-02",
-    "description": "70% of prison population linked to drug addiction, overcrowding concerns raised",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/70-of-prison-population-linked-to-drug-addiction-overcrowding-concerns-raised/108-344533",
+    "doc_id": "2026-07-03-dailymirrorlk-359f46cd",
+    "num": "dailymirrorlk-359f46cd",
+    "date_str": "2026-07-03",
+    "description": "International Automobile Industry Awards 2026 AMW honoured as Sri Lanka\u2019s largest vehicle trading network",
+    "url_metadata": "https://www.dailymirror.lk/business/International-Automobile-Industry-Awards-2026-AMW-honoured-as-Sri-Lankas-largest-vehicle-trading-network/215-344534",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783008714.0
+    "time_ut": 1783018047.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-03 | `dailymirrorlk-359f46cd` | International Automobile Industry Awards 2026 AMW honoured as Sri Lanka’s largest vehicle trading network | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-03-dailymirrorlk-359f46cd)
 - 2026-07-02 | `dailymirrorlk-a856fa20` | 70% of prison population linked to drug addiction, overcrowding concerns raised | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-a856fa20)
 - 2026-07-02 | `virakesarilk-2ea67d99` | பீபா உலகக் கிண்ண 32 அணிகள் சுற்றில் நான்கு முக்கிய போட்டிகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-2ea67d99)
 - 2026-07-02 | `dailymirrorlk-764f4d0d` | 225 awareness programmes conducted to protect schoolchildren from drug use | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-764f4d0d)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-07-02 | `dailymirrorlk-aecc0398` | Canadian boy dies of rabies after waking to bat on his face | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-aecc0398)
 - 2026-07-02 | `dailymirrorlk-e71f06fb` | Gazette amends colour-coded labelling rules for sugary drinks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-e71f06fb)
 - 2026-07-02 | `dailymirrorlk-77bc0dc5` | CSE ends slightly lower as early gains fade amid selective buying and weak sentiment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-dailymirrorlk-77bc0dc5)
-- 2026-07-02 | `virakesarilk-b422613e` | பதிவு செய்யாத முதியோர் இல்லங்களுக்கு செப்டம்பர்  30 வரை அவகாசம் – தேசிய முதியோர் செயலகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-02-virakesarilk-b422613e)
 
 ---
 
