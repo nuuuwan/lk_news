@@ -273532,6 +273532,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-02-adalk-759e7428",
+    "num": "adalk-759e7428",
+    "date_str": "2026-07-02",
+    "description": "\u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4 \u0d85\u0da9\u0dd4 \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1-\u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4-\u0d85\u0da9\u0dd4-\u0d9a\u0dbb\u0dba\u0dd2/11-423077",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1782959812.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-02-dailymirrorlk-cb55c94d",
     "num": "dailymirrorlk-cb55c94d",
     "date_str": "2026-07-02",
@@ -274475,5 +274486,181 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782977070.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-virakesarilk-425aace2",
+    "num": "virakesarilk-425aace2",
+    "date_str": "2026-07-02",
+    "description": "\u0ba8\u0bbf\u0bb2\u0b95\u0bcd\u0b95\u0bb0\u0bbf \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0ba4\u0bbf \u0bae\u0bcb\u0b9a\u0b9f\u0bbf \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0baa\u0bbe\u0ba9 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8 \u0b86\u0ba3\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1 :  \u0b9c\u0bc2\u0bb2\u0bc8 6 \u0bae\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0b95\u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bae\u0bbe\u0b95 \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/251818",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1782977400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-virakesarilk-9c01669a",
+    "num": "virakesarilk-9c01669a",
+    "date_str": "2026-07-02",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b8a\u0b9f\u0b95\u0bb5\u0bbf\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b9a\u0bc0\u0ba9\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0b8a\u0b9f\u0b95 \u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/251819",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1782978480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-virakesarilk-df554858",
+    "num": "virakesarilk-df554858",
+    "date_str": "2026-07-02",
+    "description": "\u0bae\u0bca\u0bb0\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb9\u0bc6\u0bb0\u0bcb\u0baf\u0bbf\u0ba9\u0bc1\u0b9f\u0ba9\u0bcd \u0baa\u0bc6\u0ba3\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/251815",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1782978720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-b78296c3",
+    "num": "dailymirrorlk-b78296c3",
+    "date_str": "2026-07-02",
+    "description": "Sri Lanka courts face over 1 million-case backlog",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-courts-face-over-1-million-case-backlog/108-344501",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782979034.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-virakesarilk-e2ff0228",
+    "num": "virakesarilk-e2ff0228",
+    "date_str": "2026-07-02",
+    "description": "\u0b8e\u0ba4\u0ba9\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b92\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8 \u0b8a\u0b9f\u0bbe\u0b95\u0bb5\u0bc7 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0ba8\u0bbf\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0bb0\u0b9a\u0bbe\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b85\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bc1\u0bb1\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0ba8\u0bbe\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1\u0bae\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba8\u0bbf\u0bb1\u0bcd\u0baa\u0bcb\u0bae\u0bcd - \u0b9a\u0b9c\u0bbf\u0ba4\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/251807",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1782979140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-dea437e4",
+    "num": "dailymirrorlk-dea437e4",
+    "date_str": "2026-07-02",
+    "description": "Labour Ministry launches probe into \u201cMr. Kottu\u201d chain after owner\u2019s arrest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Labour-Ministry-launches-probe-into-Mr-Kottu-chain-after-owners-arrest/108-344502",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782979156.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-d1a45be8",
+    "num": "dailymirrorlk-d1a45be8",
+    "date_str": "2026-07-02",
+    "description": "USA reach World Cup Last 16 as FIFA reports surge in Online Racist Abuse",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/USA-reach-World-Cup-Last-16-as-FIFA-reports-surge-in-Online-Racist-Abuse/108-344503",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782979307.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-virakesarilk-70165e4e",
+    "num": "virakesarilk-70165e4e",
+    "date_str": "2026-07-02",
+    "description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0bae\u0ba4\u0bc1\u0baa\u0bbe\u0ba9\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b95\u0bcb\u0b9f\u0bbe\u0bb5\u0bc1\u0b9f\u0ba9\u0bcd \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
+    "url_metadata": "https://www.virakesari.lk/article/251820",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1782980580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-tamilmirrorlk-ba79cbec",
+    "num": "tamilmirrorlk-ba79cbec",
+    "date_str": "2026-07-02",
+    "description": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bcb\u0b9f\u0bbf  \u0bb0\u0bbe\u0b95\u0bc1\u0bb2\u0ba9\u0bcd \u0baa\u0bc2\u0ba4\u0bb5\u0bc1\u0b9f\u0bb2\u0bcd \u0ba8\u0bbe\u0bb3\u0bc8 \u0ba4\u0b95\u0ba9\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bcb\u0b9f\u0bbf-\u0bb0\u0bbe\u0b95\u0bc1\u0bb2\u0ba9\u0bcd-\u0baa\u0bc2\u0ba4\u0bb5\u0bc1\u0b9f\u0bb2\u0bcd-\u0ba8\u0bbe\u0bb3\u0bc8-\u0ba4\u0b95\u0ba9\u0bae\u0bcd/175-379385",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1782980614.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-f4cecf7a",
+    "num": "dailymirrorlk-f4cecf7a",
+    "date_str": "2026-07-02",
+    "description": "Rise in teen accidents alarms health officials",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rise-in-teen-accidents-alarms-health-officials/108-344504",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782980733.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-691f85d8",
+    "num": "dailymirrorlk-691f85d8",
+    "date_str": "2026-07-02",
+    "description": "Next indirect US-Iran talks due after late supreme leader\u2019s funeral",
+    "url_metadata": "https://www.dailymirror.lk/international/Next-indirect-US-Iran-talks-due-after-late-supreme-leaders-funeral/107-344505",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782980990.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-04bf7129",
+    "num": "dailymirrorlk-04bf7129",
+    "date_str": "2026-07-02",
+    "description": "Senior DIG Waruna Jayasundara summoned by CID",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Senior-DIG-Waruna-Jayasundara-summoned-by-CID/108-344506",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782981119.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-virakesarilk-99a16afc",
+    "num": "virakesarilk-99a16afc",
+    "date_str": "2026-07-02",
+    "description": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0bb5\u0bb0\u0bc1\u0bae\u0bbe\u0ba9\u0bae\u0bcd\u00a01,570 \u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0ba9\u0bcd \u0b9f\u0bca\u0bb2\u0bb0\u0bbe\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1 : 18 \u0b9a\u0ba4\u0bb5\u0bc0\u0ba4 \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b8e\u0ba9\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0ba4\u0bbf \u0b85\u0baa\u0bbf\u0bb5\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b9a\u0baa\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/251822",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1782981480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-virakesarilk-bde15acc",
+    "num": "virakesarilk-bde15acc",
+    "date_str": "2026-07-02",
+    "description": "\u0b95\u0bc7\u0baa\u0bcd\u0baa\u0bbe\u0baa\u0bcd\u0baa\u0bc1\u0bb2\u0bb5\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bc2\u0bb0\u0bcd\u0bb5\u0bc0\u0b95 \u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0bb0\u0bbf \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd ; \u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb4\u0bae\u0bc8 \u0b86\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0bb4\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/251823",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1782982560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-dailymirrorlk-d3691354",
+    "num": "dailymirrorlk-d3691354",
+    "date_str": "2026-07-02",
+    "description": "Notice issued on FCID OIC over request to release electronic devices seized in Krrish investigations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Notice-issued-on-FCID-OIC-over-request-to-release-electronic-devices-seized-in-Krrish-investigations/108-344507",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1782982797.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-virakesarilk-3ebfae97",
+    "num": "virakesarilk-3ebfae97",
+    "date_str": "2026-07-02",
+    "description": "\u0b9a\u0bbf\u0bb0\u0bc7\u0bb7\u0bcd\u0b9f \u0baa\u0bbf\u0bb0\u0ba4\u0bbf \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bcd \u0bae\u0bbe \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0bb5\u0bb0\u0bc1\u0ba3 \u0b9c\u0baf\u0b9a\u0bc1\u0ba8\u0bcd\u0ba4\u0bb0 \u0b9a\u0bbf\u0b90\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bc2\u0bb2\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/251824",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1782983460.0
   }
 ]
