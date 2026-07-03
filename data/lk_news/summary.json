@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-03 04:10:47",
-  "n_docs": 121420,
+  "time_updated": "2026-07-03 06:40:13",
+  "n_docs": 121447,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 121420,
+  "n_docs_with_text": 121447,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-03",
-  "dataset_size": 1895007112,
+  "dataset_size": 1895148593,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-03-dailymirrorlk-009e880c",
-    "num": "dailymirrorlk-009e880c",
+    "doc_id": "2026-07-03-dailyftlk-945bbf99",
+    "num": "dailyftlk-945bbf99",
     "date_str": "2026-07-03",
-    "description": "IFRS 17 to bring transparency to life insurance sector, push industry toward protection-led growth",
-    "url_metadata": "https://www.dailymirror.lk/business/IFRS-17-to-bring-transparency-to-life-insurance-sector-push-industry-toward-protection-led-growth/215-344553",
+    "description": "Public donations require public accountability",
+    "url_metadata": "https://www.ft.lk/opinion/Public-donations-require-public-accountability/14-794130",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783024680.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783040252.0
   }
 }

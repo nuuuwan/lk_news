@@ -268483,6 +268483,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-29-islandlk-1e959e19",
+    "num": "islandlk-1e959e19",
+    "date_str": "2026-06-29",
+    "description": "Dengue on the rise",
+    "url_metadata": "http://island.lk/dengue-on-the-rise-3/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782744960.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-29-islandlk-cd37799a",
     "num": "islandlk-cd37799a",
     "date_str": "2026-06-29",
@@ -272993,6 +273004,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-01-islandlk-3de670a5",
+    "num": "islandlk-3de670a5",
+    "date_str": "2026-07-01",
+    "description": "Human welfare and the UN\u2019s continuing relevance",
+    "url_metadata": "http://island.lk/human-welfare-and-the-uns-continuing-relevance/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782923160.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-01-tamilmirrorlk-6b2e9c94",
     "num": "tamilmirrorlk-6b2e9c94",
     "date_str": "2026-07-01",
@@ -273001,6 +273023,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1782923177.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-islandlk-3fb89f7b",
+    "num": "islandlk-3fb89f7b",
+    "date_str": "2026-07-01",
+    "description": "Coconut Oil magic \u2026",
+    "url_metadata": "http://island.lk/coconut-oil-magic/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782924300.0
   },
   {
     "doc_type": "lk_news",
@@ -273056,6 +273089,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1782925620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-01-islandlk-b3b50d97",
+    "num": "islandlk-b3b50d97",
+    "date_str": "2026-07-01",
+    "description": "IMF says it relies on Sri Lanka\u2019s institutions \u2013 not its own investigations",
+    "url_metadata": "http://island.lk/imf-says-it-relies-on-sri-lankas-institutions-not-its-own-investigations/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782925680.0
   },
   {
     "doc_type": "lk_news",
@@ -275281,6 +275325,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-02-islandlk-ebbacd27",
+    "num": "islandlk-ebbacd27",
+    "date_str": "2026-07-02",
+    "description": "IT, Electrical and Electronics sectors key to achieving 7\u20138% economic growth in coming years -President",
+    "url_metadata": "http://island.lk/it-electrical-and-electronics-sectors-key-to-achieving-7-8-economic-growth-in-coming-years-president/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782998220.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-02-virakesarilk-b9f947a6",
     "num": "virakesarilk-b9f947a6",
     "date_str": "2026-07-02",
@@ -275336,6 +275391,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-02-islandlk-736c79d9",
+    "num": "islandlk-736c79d9",
+    "date_str": "2026-07-02",
+    "description": "Predictions of unpromising corporate results dampen stock trading",
+    "url_metadata": "http://island.lk/predictions-of-unpromising-corporate-results-dampen-stock-trading/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783000260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-islandlk-07713303",
+    "num": "islandlk-07713303",
+    "date_str": "2026-07-02",
+    "description": "BYD building Sri Lanka\u2019s EV ecosystem beyond the showroom",
+    "url_metadata": "http://island.lk/byd-building-sri-lankas-ev-ecosystem-beyond-the-showroom/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783000320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-islandlk-0e6a266b",
+    "num": "islandlk-0e6a266b",
+    "date_str": "2026-07-02",
+    "description": "\u2018Dialog Air Fibre powers a new era of Ultra Fast Home WiFi\u2019",
+    "url_metadata": "http://island.lk/dialog-air-fibre-powers-a-new-era-of-ultra-fast-home-wifi/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783000320.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-02-virakesarilk-e82ffa76",
     "num": "virakesarilk-e82ffa76",
     "date_str": "2026-07-02",
@@ -275347,6 +275435,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-02-islandlk-3bdb918f",
+    "num": "islandlk-3bdb918f",
+    "date_str": "2026-07-02",
+    "description": "Who will become Sri Lanka\u2019s most popular websites? BestWeb.LK 2026 opens Rate & Review",
+    "url_metadata": "http://island.lk/who-will-become-sri-lankas-most-popular-websites-bestweb-lk-2026-opens-rate-review/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783000920.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-02-virakesarilk-290cc82f",
     "num": "virakesarilk-290cc82f",
     "date_str": "2026-07-02",
@@ -275355,6 +275454,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1783000920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-02-islandlk-108b7f40",
+    "num": "islandlk-108b7f40",
+    "date_str": "2026-07-02",
+    "description": "\u2018The Mission to Extraordinary\u2019 marks the launch of SLIM DIGIS 2.6",
+    "url_metadata": "http://island.lk/the-mission-to-extraordinary-marks-the-launch-of-slim-digis-2-6/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783000980.0
   },
   {
     "doc_type": "lk_news",
@@ -275674,5 +275784,192 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783024680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-d3e3966e",
+    "num": "dailymirrorlk-d3e3966e",
+    "date_str": "2026-07-03",
+    "description": "UN fails Palestinian children  despite  strong  reports",
+    "url_metadata": "https://www.dailymirror.lk/opinion/UN-fails-Palestinian-children-despite-strong-reports/172-344556",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783033458.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-34f2f832",
+    "num": "dailyftlk-34f2f832",
+    "date_str": "2026-07-03",
+    "description": "Citizens\u2019 Struggle activists protest over cost of living, chant \u2018AKD Go Home\u2019",
+    "url_metadata": "https://www.ft.lk/news/Citizens-Struggle-activists-protest-over-cost-of-living-chant-AKD-Go-Home/56-794114",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783038168.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-b29572ba",
+    "num": "dailyftlk-b29572ba",
+    "date_str": "2026-07-03",
+    "description": "12-hour water cut to affect Colombo and suburbs tomorrow",
+    "url_metadata": "https://www.ft.lk/news/12-hour-water-cut-to-affect-Colombo-and-suburbs-tomorrow/56-794115",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783038181.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-d35a7e93",
+    "num": "dailyftlk-d35a7e93",
+    "date_str": "2026-07-03",
+    "description": "Salary and Pension Commission begins work",
+    "url_metadata": "https://www.ft.lk/news/Salary-and-Pension-Commission-begins-work/56-794116",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783038195.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-b1c9837d",
+    "num": "dailyftlk-b1c9837d",
+    "date_str": "2026-07-03",
+    "description": "Cabinet clears procurement of 535 utility vehicles for development projects",
+    "url_metadata": "https://www.ft.lk/news/Cabinet-clears-procurement-of-535-utility-vehicles-for-development-projects/56-794117",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783038215.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-d8719bb4",
+    "num": "dailyftlk-d8719bb4",
+    "date_str": "2026-07-03",
+    "description": "Ven. Narampanawe Ananda Thero appointed New Chancellor of University of Kelaniya",
+    "url_metadata": "https://www.ft.lk/news/Ven-Narampanawe-Ananda-Thero-appointed-New-Chancellor-of-University-of-Kelaniya/56-794118",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783038273.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-37d32481",
+    "num": "dailyftlk-37d32481",
+    "date_str": "2026-07-03",
+    "description": "Ex-Minister S.M. Chandrasena indicted on corruption charges",
+    "url_metadata": "https://www.ft.lk/news/Ex-Minister-S-M-Chandrasena-indicted-on-corruption-charges/56-794119",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783038335.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-6d02a52b",
+    "num": "dailyftlk-6d02a52b",
+    "date_str": "2026-07-03",
+    "description": "Criminal cases take over 10 years on average to conclude: Justice Kodagoda",
+    "url_metadata": "https://www.ft.lk/news/Criminal-cases-take-over-10-years-on-average-to-conclude-Justice-Kodagoda/56-794120",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783038418.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-85eab258",
+    "num": "dailyftlk-85eab258",
+    "date_str": "2026-07-03",
+    "description": "UN Subcommittee on Prevention of Torture concludes second visit to Sri Lanka",
+    "url_metadata": "https://www.ft.lk/news/UN-Subcommittee-on-Prevention-of-Torture-concludes-second-visit-to-Sri-Lanka/56-794121",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783038462.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-0758ddfc",
+    "num": "dailyftlk-0758ddfc",
+    "date_str": "2026-07-03",
+    "description": "President orders unified action plan to intensify fight against drugs",
+    "url_metadata": "https://www.ft.lk/news/President-orders-unified-action-plan-to-intensify-fight-against-drugs/56-794122",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783038533.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-20c5bd1e",
+    "num": "dailyftlk-20c5bd1e",
+    "date_str": "2026-07-03",
+    "description": "Dengue, governance and accountability",
+    "url_metadata": "https://www.ft.lk/columns/Dengue-governance-and-accountability/4-794123",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783038915.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-4dc6ef38",
+    "num": "dailyftlk-4dc6ef38",
+    "date_str": "2026-07-03",
+    "description": "The State wants our data, how will it protect it?",
+    "url_metadata": "https://www.ft.lk/columns/The-State-wants-our-data-how-will-it-protect-it/4-794125",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783039186.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-ec7816e1",
+    "num": "dailyftlk-ec7816e1",
+    "date_str": "2026-07-03",
+    "description": "Could El Ni\u00f1o become an FX risk for Sri Lanka?",
+    "url_metadata": "https://www.ft.lk/columns/Could-El-Ni\u00f1o-become-an-FX-risk-for-Sri-Lanka/4-794126",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783039434.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-1e1509c3",
+    "num": "dailyftlk-1e1509c3",
+    "date_str": "2026-07-03",
+    "description": "Decline of Pax Americana: Empire, republic and the lessons of Rome \u2013 Part I",
+    "url_metadata": "https://www.ft.lk/columns/Decline-of-Pax-Americana-Empire-republic-and-the-lessons-of-Rome-Part-I/4-794127",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783039679.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-480d6b89",
+    "num": "dailyftlk-480d6b89",
+    "date_str": "2026-07-03",
+    "description": "Uncle Sam at 250: The enduring land of opportunity",
+    "url_metadata": "https://www.ft.lk/columns/Uncle-Sam-at-250-The-enduring-land-of-opportunity/4-794128",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783039950.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-fab3dc62",
+    "num": "dailyftlk-fab3dc62",
+    "date_str": "2026-07-03",
+    "description": "A monetary policy shift is in the offing",
+    "url_metadata": "https://www.ft.lk/columns/A-monetary-policy-shift-is-in-the-offing/4-794129",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783040168.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailyftlk-945bbf99",
+    "num": "dailyftlk-945bbf99",
+    "date_str": "2026-07-03",
+    "description": "Public donations require public accountability",
+    "url_metadata": "https://www.ft.lk/opinion/Public-donations-require-public-accountability/14-794130",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783040252.0
   }
 ]

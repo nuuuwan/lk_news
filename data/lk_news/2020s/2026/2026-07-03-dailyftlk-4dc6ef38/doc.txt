@@ -1,0 +1,43 @@
+The State wants our data, how will it protect it?
+
+Almost every week, headlines somewhere in the world report another major cyberattack. Governments, banks, hospitals, insurance companies and multinational corporations have all fallen victim to hackers, exposing millions of confidential records. Recent breaches involving government agencies and financial institutions have shown that no organisation is completely immune to cyber threats.
+
+The recent ransomware attack on Sri Lanka's Pensions Department, which exposed hundreds of gigabytes of sensitive information due to outdated security measures, is a reminder that confidentiality depends not only on legal safeguards but also on strong cybersecurity, modern systems and effective supervision.
+
+Collecting information is only one part of the challenge. The systems that receive it must also be reliable. In practice, many have experienced online filing portals slowing down or even crashing when thousands of users attempt to upload information simultaneously. Such failures create frustration and sometimes leave users uncertain whether their submissions have been successfully received. If the State expects timely compliance, it must also provide the digital infrastructure and technical capacity needed to support it.
+
+Collecting information is relatively easy. Protecting it is far more difficult.
+
+That reality makes Sri Lanka's recent introduction of Beneficial Ownership reporting an opportunity for a much broader discussion—not about whether companies should disclose information, but about what happens after that information is collected.
+
+The requirement to disclose beneficial ownership stems from international standards developed by the Financial Action Task Force (FATF) to combat money laundering and terrorist financing. Following recommendations from the FATF and the International Monetary Fund (IMF), Sri Lanka amended the Companies Act in 2025 to establish a Beneficial Ownership Register maintained by the Registrar of Companies. Banks are also required under Know Your Customer (KYC) and Anti-Money Laundering (AML) rules to identify the real people who ultimately own or control companies opening bank accounts.
+
+Banking laws strictly prohibit the exposure of customer information, and the majority of banking professionals honour those obligations. Nevertheless, every sector has its occasional "black sheep," while cybercriminals are a greater threat.
+
+The purpose of Beneficial Ownership reporting is both practical and necessary. Criminals often hide behind layers of corporate structures to conceal illicit wealth, evade taxes, finance terrorism or engage in corruption. The reporting requirements are designed to answer one question: Who really owns or controls the company?
+
+To answer that question, companies must collect detailed information about their beneficial owners, including identity documents, tax identification numbers and details of ownership or control. Banks frequently collect similar information as part of their customer due diligence requirements.
+
+Once collected, however, this information does not remain in one place. It may be held by individual companies, the Registrar of Companies, banks, tax authorities, financial intelligence units, regulators and law enforcement agencies. Collectively, these institutions hold an ever-growing volume of highly sensitive personal and commercial information.
+
+Beneficial Ownership reporting illustrates a much wider issue. Every year, governments collect vast amounts of personal data, including tax records, banking information, passport and immigration records, biometric identifiers, land ownership records, company registers, beneficial ownership information and asset declarations.
+
+These databases are essential for modern government. They strengthen financial honesty, help combat crime and corruption, and support effective public administration. But every expansion in compulsory disclosure also increases the responsibility to safeguard the information delivered to public institutions.
+
+Citizens and businesses are therefore entitled to ask some simple questions. Who is authorised to access these databases? Is every access recorded through secure audit logs? Are independent cybersecurity audits carried out regularly? How long is personal information retained? Can data collected for one purpose later be used for another? What safeguards exist when officials with access leave public service? If confidential information is leaked or stolen, what remedies are available to those affected?
+
+These concerns extend beyond company registers. Public officials and media professionals also submit declarations of assets and liabilities detailing property, investments, bank accounts, and financial interests. Increasingly, these records are stored electronically.
+
+Sri Lanka has already recognised the importance of protecting personal information through the Personal Data Protection Act. The Act requires personal information to be collected lawfully, used only for legitimate purposes, protected against misuse, and retained only for as long as necessary. These principles should become standard practice across all public institutions that handle sensitive information.
+
+Sri Lanka has devoted considerable attention to collecting information. It is now time to give equal attention to governing and protecting it.
+
+A comprehensive national data governance framework could require regular cybersecurity audits of critical government databases, detailed audit logs recording access to sensitive information, mandatory notification of major data breaches, periodic reporting to Parliament on the security of key databases, clear legal limits on data retention, and stronger penalties for those who misuse confidential information.
+
+None of these measures weakens transparency. On the contrary, they strengthen it by building public trust.
+
+Transparency and privacy are not opposing values. They are the balancing pillars of good governance.
+
+As Sri Lanka continues to update its laws and expand digital public services, success should not be measured only by how much information the State collects. It should also be measured by how effectively that information is protected and governed.
+
+After all, if citizens are expected to trust the State with their data, the State must demonstrate that it is worthy of that trust.
