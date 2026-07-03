@@ -277390,5 +277390,82 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1783106559.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailyftlk-d5be0065",
+    "num": "dailyftlk-d5be0065",
+    "date_str": "2026-07-04",
+    "description": "Uber expands to Ratnapura",
+    "url_metadata": "https://www.ft.lk/business/Uber-expands-to-Ratnapura/34-794192",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783112151.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailyftlk-c54b4a9b",
+    "num": "dailyftlk-c54b4a9b",
+    "date_str": "2026-07-04",
+    "description": "SLT-MOBITEL unveils \u2018Lankakonect\u2019 app with Foreign Affairs Ministry",
+    "url_metadata": "https://www.ft.lk/business/SLT-MOBITEL-unveils-Lankakonect-app-with-Foreign-Affairs-Ministry/34-794193",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783112669.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailyftlk-8b25d6d3",
+    "num": "dailyftlk-8b25d6d3",
+    "date_str": "2026-07-04",
+    "description": "Huge response to Lanka Business TV\u2019s \u201cVyavasayaka\u201d Business and Investment Summit in Kalutara",
+    "url_metadata": "https://www.ft.lk/business/Huge-response-to-Lanka-Business-TV-s-Vyavasayaka-Business-and-Investment-Summit-in-Kalutara/34-794194",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783113101.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailyftlk-b737fe6f",
+    "num": "dailyftlk-b737fe6f",
+    "date_str": "2026-07-04",
+    "description": "INFRACON 2026 - Infrastructure and Construction Exhibition opens at BMICH",
+    "url_metadata": "https://www.ft.lk/business/INFRACON-2026-Infrastructure-and-Construction-Exhibition-opens-at-BMICH/34-794195",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783113676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailyftlk-c6d1b7d6",
+    "num": "dailyftlk-c6d1b7d6",
+    "date_str": "2026-07-04",
+    "description": "EDB hosts regional Exporters\u2019 Networking Forum in Chillaw",
+    "url_metadata": "https://www.ft.lk/business/EDB-hosts-regional-Exporters-Networking-Forum-in-Chillaw/34-794196",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783113775.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailyftlk-01236bb3",
+    "num": "dailyftlk-01236bb3",
+    "date_str": "2026-07-04",
+    "description": "Phoenix of South Asia: Sri Lanka\u2019s stunning return to upper-middle-income status under AKD",
+    "url_metadata": "https://www.ft.lk/columns/Phoenix-of-South-Asia-Sri-Lanka-s-stunning-return-to-upper-middle-income-status-under-AKD/4-794200",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783115767.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailyftlk-8262f009",
+    "num": "dailyftlk-8262f009",
+    "date_str": "2026-07-04",
+    "description": "KC and the Sunshine Band",
+    "url_metadata": "https://www.ft.lk/columns/KC-and-the-Sunshine-Band/4-794201",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783117496.0
   }
 ]
