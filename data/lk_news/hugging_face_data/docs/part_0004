@@ -276733,6 +276733,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-03-adalk-576b9c41",
+    "num": "adalk-576b9c41",
+    "date_str": "2026-07-03",
+    "description": "\u0dc0\u0dd3 \u0dc0\u0dda\u0dbd\u0db1 \u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb 50\u0d9a\u0dca \u0dc3\u0db8\u0dd6\u0db4\u0d9a\u0dcf\u0dbb \u0dc3\u0db8\u0dd2\u0dad\u0dd2 \u0dc0\u0dd9\u0dad",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd3-\u0dc0\u0dda\u0dbd\u0db1-\u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb-50\u0d9a\u0dca-\u0dc3\u0db8\u0dd6\u0db4\u0d9a\u0dcf\u0dbb-\u0dc3\u0db8\u0dd2\u0dad\u0dd2-\u0dc0\u0dd9\u0dad/11-423103",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783071790.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-adalk-5e3af356",
+    "num": "adalk-5e3af356",
+    "date_str": "2026-07-03",
+    "description": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7 \u0dc4\u0dd9\u0da7 \u0db4\u0dd0\u0dba 12\u0d9a\u0dca \u0dc0\u0dad\u0dd4\u0dbb \u0d9a\u0db4\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc5\u0db9-\u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1-\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7-\u0dc4\u0dd9\u0da7-\u0db4\u0dd0\u0dba-12\u0d9a\u0dca-\u0dc0\u0dad\u0dd4\u0dbb-\u0d9a\u0db4\u0dba\u0dd2/11-423104",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783072162.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-03-dailymirrorlk-4e0f87e9",
     "num": "dailymirrorlk-4e0f87e9",
     "date_str": "2026-07-03",
@@ -276862,5 +276884,49 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783082177.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-e6b6b130",
+    "num": "dailymirrorlk-e6b6b130",
+    "date_str": "2026-07-03",
+    "description": "Google hit with \u00a33.5bn fine following 8-year battle",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Google-hit-with-3-5bn-fine-following-8-year-battle/108-344620",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783085165.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-a9e9f358",
+    "num": "dailymirrorlk-a9e9f358",
+    "date_str": "2026-07-03",
+    "description": "Pakistan-Sri Lanka Armed Forces Defence Dialogue concludes in Colombo",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Pakistan-Sri-Lanka-Armed-Forces-Defence-Dialogue-concludes-in-Colombo/108-344621",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783088306.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-3e57a884",
+    "num": "dailymirrorlk-3e57a884",
+    "date_str": "2026-07-03",
+    "description": "Litro cuts domestic LP gas prices by up to Rs. 300",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Litro-cuts-domestic-LP-gas-prices-by-up-to-Rs-300/108-344622",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783089448.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-4f823cc1",
+    "num": "dailymirrorlk-4f823cc1",
+    "date_str": "2026-07-03",
+    "description": "Rail compartment transported by road",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Rail-compartment-transported-by-road/110-344623",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783090275.0
   }
 ]

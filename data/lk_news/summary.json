@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-03 18:27:44",
-  "n_docs": 121528,
+  "time_updated": "2026-07-03 20:32:06",
+  "n_docs": 121534,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 121528,
+  "n_docs_with_text": 121534,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-03",
-  "dataset_size": 1896338685,
+  "dataset_size": 1896435085,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-03-dailymirrorlk-eec8fd7a",
-    "num": "dailymirrorlk-eec8fd7a",
+    "doc_id": "2026-07-03-dailymirrorlk-4f823cc1",
+    "num": "dailymirrorlk-4f823cc1",
     "date_str": "2026-07-03",
-    "description": "Ponnambalam-led TNPA meets Tamil Nadu CM Vijay, submits demands",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ponnambalam-led-TNPA-meets-Tamil-Nadu-CM-Vijay-submits-demands/108-344618",
+    "description": "Rail compartment transported by road",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Rail-compartment-transported-by-road/110-344623",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783082177.0
+    "time_ut": 1783090275.0
   }
 }
