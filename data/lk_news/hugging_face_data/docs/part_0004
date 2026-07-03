@@ -276700,6 +276700,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-03-adalk-45bfcb83",
+    "num": "adalk-45bfcb83",
+    "date_str": "2026-07-03",
+    "description": "2025-26 \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0db1\u0dca\u0d9a\u0db1\u0dca \u0d85\u0dbd\u0dcf\u0db7\u0dba \u0dbb\u0dd4. \u0db6\u0dd2. 23.2",
+    "url_metadata": "https://www.ada.lk/breaking_news/2025-26-\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0db1\u0dca\u0d9a\u0db1\u0dca-\u0d85\u0dbd\u0dcf\u0db7\u0dba-\u0dbb\u0dd4--\u0db6\u0dd2--23-2/11-423101",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783069938.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-03-tamilmirrorlk-17c1434c",
     "num": "tamilmirrorlk-17c1434c",
     "date_str": "2026-07-03",
@@ -276708,5 +276719,38 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783069961.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-4e0f87e9",
+    "num": "dailymirrorlk-4e0f87e9",
+    "date_str": "2026-07-03",
+    "description": "Colombo Law Society urges President to abandon plan to extend judges\u2019 retirement age",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Colombo-Law-Society-urges-President-to-abandon-plan-to-extend-judges-retirement-age/108-344614",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783072969.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-31b402db",
+    "num": "dailymirrorlk-31b402db",
+    "date_str": "2026-07-03",
+    "description": "Rakitha, Chatith and Aruna further remanded",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rakitha-Chatith-and-Aruna-further-remanded/108-344615",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783075224.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-18c195dd",
+    "num": "dailymirrorlk-18c195dd",
+    "date_str": "2026-07-03",
+    "description": "Wasantha Karannagoda granted bail",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wasantha-Karannagoda-granted-bail/108-344616",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783076222.0
   }
 ]
