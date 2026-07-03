@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--03_22:18:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--04_00:19:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**121,541** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**121,543** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-03**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-03-dailymirrorlk-844dced2",
-    "num": "dailymirrorlk-844dced2",
+    "doc_id": "2026-07-03-tamilmirrorlk-9a09e79c",
+    "num": "tamilmirrorlk-9a09e79c",
     "date_str": "2026-07-03",
-    "description": "French heat wave death toll rises to 2025",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/French-heat-wave-death-toll-rises-to-2025/108-344632",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783096182.0
+    "description": "\u0bb2\u0bbe\u0b83\u0baa\u0bcd\u0bb8\u0bcd \u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1 \u0bb5\u0bbf\u0bb2\u0bc8 \u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb2\u0bbe\u0b83\u0baa\u0bcd\u0bb8\u0bcd-\u0b8e\u0bb0\u0bbf\u0bb5\u0bbe\u0baf\u0bc1-\u0bb5\u0bbf\u0bb2\u0bc8-\u0b95\u0bc1\u0bb1\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-379413",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783097433.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-03 | `tamilmirrorlk-9a09e79c` | லாஃப்ஸ் எரிவாயு விலை குறைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-03-tamilmirrorlk-9a09e79c)
+- 2026-07-03 | `tamilmirrorlk-48bb0988` | லிட்ரோ எரிவாயு விலை குறைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-03-tamilmirrorlk-48bb0988)
 - 2026-07-03 | `dailymirrorlk-844dced2` | French heat wave death toll rises to 2025 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-03-dailymirrorlk-844dced2)
 - 2026-07-03 | `dailymirrorlk-ccb222e3` | Reconstruction of damaged Kandy–Colombo railway line accelerated | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-03-dailymirrorlk-ccb222e3)
 - 2026-07-03 | `dailymirrorlk-944d8f89` | LAUGFS gas slashes domestic LP gas prices | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-03-dailymirrorlk-944d8f89)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-07-03 | `tamilmirrorlk-f5f38c16` | தமிழ்நாடு முதலமைச்சரைச் சந்தித்த தமிழ்த் தேசியப் பேரவை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-03-tamilmirrorlk-f5f38c16)
 - 2026-07-03 | `tamilmirrorlk-f7612e2b` | வசந்த கரன்னாகொடவுக்குப்  பிணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-03-tamilmirrorlk-f7612e2b)
 - 2026-07-03 | `dailymirrorlk-18c195dd` | Wasantha Karannagoda granted bail | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-03-dailymirrorlk-18c195dd)
-- 2026-07-03 | `dailymirrorlk-7aa0f3ff` | Rakitha, Charith and Aruna further remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-03-dailymirrorlk-7aa0f3ff)
-- 2026-07-03 | `dailymirrorlk-31b402db` | Rakitha, Chatith and Aruna further remanded | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-03-dailymirrorlk-31b402db)
 
 ---
 
