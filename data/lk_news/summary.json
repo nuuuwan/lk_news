@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-03 16:41:01",
-  "n_docs": 121518,
+  "time_updated": "2026-07-03 18:27:44",
+  "n_docs": 121528,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 121518,
+  "n_docs_with_text": 121528,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-03",
-  "dataset_size": 1896281906,
+  "dataset_size": 1896338685,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "en",
     "si",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-03-dailymirrorlk-18c195dd",
-    "num": "dailymirrorlk-18c195dd",
+    "doc_id": "2026-07-03-dailymirrorlk-eec8fd7a",
+    "num": "dailymirrorlk-eec8fd7a",
     "date_str": "2026-07-03",
-    "description": "Wasantha Karannagoda granted bail",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Wasantha-Karannagoda-granted-bail/108-344616",
+    "description": "Ponnambalam-led TNPA meets Tamil Nadu CM Vijay, submits demands",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ponnambalam-led-TNPA-meets-Tamil-Nadu-CM-Vijay-submits-demands/108-344618",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783076222.0
+    "time_ut": 1783082177.0
   }
 }
