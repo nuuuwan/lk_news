@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-03 09:01:35",
-  "n_docs": 121462,
+  "time_updated": "2026-07-03 11:09:40",
+  "n_docs": 121476,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 121462,
+  "n_docs_with_text": 121476,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-03",
-  "dataset_size": 1895523416,
+  "dataset_size": 1895733068,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
+    "si",
     "ta",
-    "en",
-    "si"
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-03-dailymirrorlk-9c638a6d",
-    "num": "dailymirrorlk-9c638a6d",
+    "doc_id": "2026-07-03-dailymirrorlk-3c7eb673",
+    "num": "dailymirrorlk-3c7eb673",
     "date_str": "2026-07-03",
-    "description": "Venezuela quake survivor pulled out alive after eight days",
-    "url_metadata": "https://www.dailymirror.lk/international/Venezuela-quake-survivor-pulled-out-alive-after-eight-days/107-344557",
+    "description": "Court puts off hearing of Rakitha Rajapaksa\u2019s case until 2 pm",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Court-puts-off-hearing-of-Rakitha-Rajapaksas-case-until-2-pm/108-344568",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783048267.0
+    "time_ut": 1783056024.0
   }
 }
