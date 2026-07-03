@@ -276733,6 +276733,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-f329db7d",
+    "num": "dailymirrorlk-f329db7d",
+    "date_str": "2026-07-03",
+    "description": "Opposition leaders meet Amarapura Mahanayake",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Opposition-leaders-meet-Amarapura-Mahanayake/110-344612",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783070837.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-03-adalk-576b9c41",
     "num": "adalk-576b9c41",
     "date_str": "2026-07-03",
@@ -276928,5 +276939,71 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783090275.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-8c538412",
+    "num": "dailymirrorlk-8c538412",
+    "date_str": "2026-07-03",
+    "description": "Early gains fade as profit-taking pushes CSE into negative territory",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Early-gains-fade-as-profit-taking-pushes-CSE-into-negative-territory/108-344624",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783091035.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-6ce54c92",
+    "num": "dailymirrorlk-6ce54c92",
+    "date_str": "2026-07-03",
+    "description": "CIABOC says Wijeyadasa Rajapakshe was in Dubai during alleged bribe transaction",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CIABOC-says-Wijeyadasa-Rajapakshe-was-in-Dubai-during-alleged-bribe-transaction/108-344625",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783092634.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-a510bb35",
+    "num": "dailymirrorlk-a510bb35",
+    "date_str": "2026-07-03",
+    "description": "Spa Association complains to IGP over alleged police action",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Spa-Association-complains-to-IGP-over-alleged-police-action/108-344629",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783094718.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-944d8f89",
+    "num": "dailymirrorlk-944d8f89",
+    "date_str": "2026-07-03",
+    "description": "LAUGFS gas slashes domestic LP gas prices",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LAUGFS-gas-slashes-domestic-LP-gas-prices/108-344630",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783095493.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-ccb222e3",
+    "num": "dailymirrorlk-ccb222e3",
+    "date_str": "2026-07-03",
+    "description": "Reconstruction of damaged Kandy\u2013Colombo railway line accelerated",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Reconstruction-of-damaged-KandyColombo-railway-line-accelerated/108-344631",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783095710.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-844dced2",
+    "num": "dailymirrorlk-844dced2",
+    "date_str": "2026-07-03",
+    "description": "French heat wave death toll rises to 2025",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/French-heat-wave-death-toll-rises-to-2025/108-344632",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783096182.0
   }
 ]
