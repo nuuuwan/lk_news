@@ -276293,6 +276293,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-03-adalk-95a8c691",
+    "num": "adalk-95a8c691",
+    "date_str": "2026-07-03",
+    "description": "\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba \u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0da7 \u0dad\u0dc0\u0dad\u0dca 2652\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dde\u0d9b\u0dca\u200d\u0dba-\u0dc3\u0dda\u0dc0\u0dcf\u0dc0\u0da7-\u0dad\u0dc0\u0dad\u0dca-2652\u0d9a\u0dca/11-423096",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783054432.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-03-virakesarilk-9d495e75",
     "num": "virakesarilk-9d495e75",
     "date_str": "2026-07-03",
@@ -276579,6 +276590,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-271926e9",
+    "num": "dailymirrorlk-271926e9",
+    "date_str": "2026-07-03",
+    "description": "INFRACON 2026 kicks off at BMICH",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/INFRACON-2026-kicks-off-at-BMICH/110-344597",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783062247.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-03-virakesarilk-6ca5b384",
     "num": "virakesarilk-6ca5b384",
     "date_str": "2026-07-03",
@@ -276598,5 +276620,93 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783062641.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-c9ad660b",
+    "num": "dailymirrorlk-c9ad660b",
+    "date_str": "2026-07-03",
+    "description": "Russia bombards Kyiv in deadliest strike this year, killing at least 30 people",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Russia-bombards-Kyiv-in-deadliest-strike-this-year-killing-at-least-30-people/108-344602",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783064429.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-5120ae3f",
+    "num": "dailymirrorlk-5120ae3f",
+    "date_str": "2026-07-03",
+    "description": "Vedda Chief wants permanent solution to human-elephant conflict",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vedda-Chief-wants-permanent-solution-to-human-elephant-conflict/108-344604",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783066011.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-adalk-bbbe0bea",
+    "num": "adalk-bbbe0bea",
+    "date_str": "2026-07-03",
+    "description": "\u0dba\u0ddd\u0dc2\u0dd2\u0dad\u0d9c\u0dda \u0db6\u0db3\u0dc0\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc0\u0dc3\u0db1\u0dca\u0dad \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dcf\u0d9c\u0ddc\u0da9 \u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0ddd\u0dc2\u0dd2\u0dad\u0d9c\u0dda-\u0db6\u0db3\u0dc0\u0dcf-\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7-\u0dc0\u0dc3\u0db1\u0dca\u0dad-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dcf\u0d9c\u0ddc\u0da9-\u0d85\u0dad\u0dca\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7/11-423097",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783066154.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-be9ff447",
+    "num": "dailymirrorlk-be9ff447",
+    "date_str": "2026-07-03",
+    "description": "Sri Pada off-season entry restricted to two routes; Pass made mandatory",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Pada-off-season-entry-restricted-to-two-routes-Pass-made-mandatory/108-344605",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783066262.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-7f4c8541",
+    "num": "dailymirrorlk-7f4c8541",
+    "date_str": "2026-07-03",
+    "description": "Private bus driver arrested following reckless road race in Kotavila",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Private-bus-driver-arrested-following-reckless-road-race-in-Kotavila/108-344606",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783066531.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-adalk-610d3d6a",
+    "num": "adalk-610d3d6a",
+    "date_str": "2026-07-03",
+    "description": "\u0dba\u0ddd\u0dc2\u0dd2\u0dad\u0d9c\u0dda \u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8 \u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dca\u200d\u0dbb\u0db7 \u0dc0\u0dd9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dba\u0ddd\u0dc2\u0dd2\u0dad\u0d9c\u0dda-\u0db4\u0dd9\u0dad\u0dca\u0dc3\u0db8-\u0db1\u0dd2\u0dc2\u0dca\u0db4\u0dca\u200d\u0dbb\u0db7-\u0dc0\u0dd9\u0dba\u0dd2/11-423098",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783066583.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-6d11f062",
+    "num": "dailymirrorlk-6d11f062",
+    "date_str": "2026-07-03",
+    "description": "Kelani Valley train services to resume from today",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kelani-Valley-train-services-to-resume-from-today/108-344608",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783068024.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-tamilmirrorlk-17c1434c",
+    "num": "tamilmirrorlk-17c1434c",
+    "date_str": "2026-07-03",
+    "description": "\u0bb5\u0b9a\u0ba8\u0bcd\u0ba4 \u0b95\u0bb0\u0ba9\u0bcd\u0ba9\u0bbe\u0b95\u0bca\u0b9f \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0b9a\u0ba8\u0bcd\u0ba4-\u0b95\u0bb0\u0ba9\u0bcd\u0ba9\u0bbe\u0b95\u0bca\u0b9f-\u0b95\u0bc8\u0ba4\u0bc1/175-379403",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783069961.0
   }
 ]
