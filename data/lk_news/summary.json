@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-03 06:40:13",
-  "n_docs": 121447,
+  "time_updated": "2026-07-03 09:01:35",
+  "n_docs": 121462,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 121447,
+  "n_docs_with_text": 121462,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-03",
-  "dataset_size": 1895148593,
+  "dataset_size": 1895523416,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "ta",
     "en",
-    "ta"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-03-dailyftlk-945bbf99",
-    "num": "dailyftlk-945bbf99",
+    "doc_id": "2026-07-03-dailymirrorlk-9c638a6d",
+    "num": "dailymirrorlk-9c638a6d",
     "date_str": "2026-07-03",
-    "description": "Public donations require public accountability",
-    "url_metadata": "https://www.ft.lk/opinion/Public-donations-require-public-accountability/14-794130",
+    "description": "Venezuela quake survivor pulled out alive after eight days",
+    "url_metadata": "https://www.dailymirror.lk/international/Venezuela-quake-survivor-pulled-out-alive-after-eight-days/107-344557",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1783040252.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783048267.0
   }
 }
