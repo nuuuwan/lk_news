@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-04 09:25:38",
-  "n_docs": 121602,
+  "time_updated": "2026-07-04 11:42:15",
+  "n_docs": 121640,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 121602,
+  "n_docs_with_text": 121640,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-04",
-  "dataset_size": 1897582516,
+  "dataset_size": 1897748543,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
+    "en",
     "ta",
-    "en"
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-04-dailymirrorlk-9167fb31",
-    "num": "dailymirrorlk-9167fb31",
+    "doc_id": "2026-07-04-dailymirrorlk-c3b338e5",
+    "num": "dailymirrorlk-c3b338e5",
     "date_str": "2026-07-04",
-    "description": "Port City secures US $ 300mn FDI commitment due to renewed investment drive",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Port-City-secures-US-300mn-FDI-commitment-due-to-renewed-investment-drive/108-344658",
+    "description": "Special talks on cooperative fuel station challenges",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-talks-on-cooperative-fuel-station-challenges/108-344673",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783136772.0
+    "time_ut": 1783139102.0
   }
 }
