@@ -270397,6 +270397,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-06-30-islandlk-9651cdad",
+    "num": "islandlk-9651cdad",
+    "date_str": "2026-06-30",
+    "description": "Fuel consumers\u2019 serious concerns",
+    "url_metadata": "http://island.lk/fuel-consumers-serious-concerns/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782830100.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-06-30-dailymirrorlk-cd63b7f6",
     "num": "dailymirrorlk-cd63b7f6",
     "date_str": "2026-06-30",
@@ -275413,6 +275424,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-02-islandlk-a9801553",
+    "num": "islandlk-a9801553",
+    "date_str": "2026-07-02",
+    "description": "Canada Day celebration highlights deepening Sri Lanka-Canada business ties",
+    "url_metadata": "http://island.lk/canada-day-celebration-highlights-deepening-sri-lanka-canada-business-ties/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783000260.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-02-islandlk-07713303",
     "num": "islandlk-07713303",
     "date_str": "2026-07-02",
@@ -277195,6 +277217,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-03-islandlk-2b707edc",
+    "num": "islandlk-2b707edc",
+    "date_str": "2026-07-03",
+    "description": "SLID welcomes FitsAir as a Gold Partner to advance strategic corporate collaboration",
+    "url_metadata": "http://island.lk/slid-welcomes-fitsair-as-a-gold-partner-to-advance-strategic-corporate-collaboration/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783094700.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-islandlk-545a134e",
+    "num": "islandlk-545a134e",
+    "date_str": "2026-07-03",
+    "description": "\u2018How to protect your wealth from rising inflation with Unit Trusts and diversification\u2019",
+    "url_metadata": "http://island.lk/how-to-protect-your-wealth-from-rising-inflation-with-unit-trusts-and-diversification/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783094700.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-03-dailymirrorlk-a510bb35",
     "num": "dailymirrorlk-a510bb35",
     "date_str": "2026-07-03",
@@ -277280,6 +277324,50 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783097433.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-islandlk-18fbbc5d",
+    "num": "islandlk-18fbbc5d",
+    "date_str": "2026-07-03",
+    "description": "Dr Nirmal De Silva elected President of St. Peter\u2019s College Old Boys\u2019 Union as the institution approaches its centenary",
+    "url_metadata": "http://island.lk/dr-nirmal-de-silva-elected-president-of-st-peters-college-old-boys-union-as-the-institution-approaches-its-centenary/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783097580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-islandlk-241e206b",
+    "num": "islandlk-241e206b",
+    "date_str": "2026-07-03",
+    "description": "GovTech Sri Lanka appoints Shevan Goonetilleke as Chief Executive Officer",
+    "url_metadata": "http://island.lk/govtech-sri-lanka-appoints-shevan-goonetilleke-as-chief-executive-officer/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783097580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-islandlk-517af04e",
+    "num": "islandlk-517af04e",
+    "date_str": "2026-07-03",
+    "description": "Expo Visa Services triumphs with five wins at SLASSCOM Ingenuity Awards 2026",
+    "url_metadata": "http://island.lk/expo-visa-services-triumphs-with-five-wins-at-slasscom-ingenuity-awards-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783097640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-03-islandlk-dcdf0e58",
+    "num": "islandlk-dcdf0e58",
+    "date_str": "2026-07-03",
+    "description": "Bourse moved to negative territory by interest rate and inflationary pressures",
+    "url_metadata": "http://island.lk/bourse-moved-to-negative-territory-by-interest-rate-and-inflationary-pressures/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783097640.0
   },
   {
     "doc_type": "lk_news",
@@ -277467,5 +277555,71 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1783117496.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailyftlk-4004be6d",
+    "num": "dailyftlk-4004be6d",
+    "date_str": "2026-07-04",
+    "description": "250th semiquincentennial celebration of the American Independence",
+    "url_metadata": "https://www.ft.lk/columns/250th-semiquincentennial-celebration-of-the-American-Independence/4-794202",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783118252.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailyftlk-66d93bcd",
+    "num": "dailyftlk-66d93bcd",
+    "date_str": "2026-07-04",
+    "description": "Decline of Pax Americana: Empire, republic and the lessons of Rome \u2013 Part II",
+    "url_metadata": "https://www.ft.lk/columns/Decline-of-Pax-Americana-Empire-republic-and-the-lessons-of-Rome-Part-II/4-794203",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783118755.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailyftlk-4aa5844d",
+    "num": "dailyftlk-4aa5844d",
+    "date_str": "2026-07-04",
+    "description": "The hidden social crisis  of a middle-income country",
+    "url_metadata": "https://www.ft.lk/columns/The-hidden-social-crisis-of-a-middle-income-country/4-794204",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783120165.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-virakesarilk-3ce14053",
+    "num": "virakesarilk-3ce14053",
+    "date_str": "2026-07-04",
+    "description": "\u0baf\u0bbe\u0bb4\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0bb5\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bb1\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9f\u0bae\u0bcd: \u0b85\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+    "url_metadata": "https://www.virakesari.lk/article/251996",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783123980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-virakesarilk-a34be47c",
+    "num": "virakesarilk-a34be47c",
+    "date_str": "2026-07-04",
+    "description": "\u0b89\u0baf\u0bb0\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bb2\u0baf \u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0b95\u0bcd \u0b95\u0bcb\u0bb0\u0bbf \u0bb5\u0bb2\u0bbf. \u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bbf\u0bb2\u0bcd 11\u0b86\u0bb5\u0ba4\u0bc1 \u0bb5\u0bbe\u0bb0\u0bae\u0bbe\u0b95 \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/251997",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783124340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-virakesarilk-3a015e4a",
+    "num": "virakesarilk-3a015e4a",
+    "date_str": "2026-07-04",
+    "description": "\u0b87\u0ba9\u0bcd\u0bb1\u0bc8\u0baf \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/251998",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783124880.0
   }
 ]
