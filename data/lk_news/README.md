@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--04_17:03:55-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--04_18:48:39-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**121,674** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**121,678** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-04-dailymirrorlk-243cff33",
-    "num": "dailymirrorlk-243cff33",
+    "doc_id": "2026-07-04-dailymirrorlk-dcd34062",
+    "num": "dailymirrorlk-dcd34062",
     "date_str": "2026-07-04",
-    "description": "Yevan David wins euro formula open rookie crown",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Yevan-David-wins-euro-formula-open-rookie-crown/108-344704",
+    "description": "Showers to occur at night across the island",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Showers-to-occur-at-night-across-the-island/108-344708",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783160664.0
+    "time_ut": 1783167644.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-04 | `dailymirrorlk-dcd34062` | Showers to occur at night across the island | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-dcd34062)
+- 2026-07-04 | `dailymirrorlk-78c018fd` | Local gold prices slightly down despite global rise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-78c018fd)
+- 2026-07-04 | `dailymirrorlk-99dbacb3` | Restaurant owners slash food prices after LP gas price cut | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-99dbacb3)
+- 2026-07-04 | `dailymirrorlk-a632486f` | National human-elephant coexistence plan launched | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-a632486f)
 - 2026-07-04 | `dailymirrorlk-243cff33` | Yevan David wins euro formula open rookie crown | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-243cff33)
 - 2026-07-04 | `dailymirrorlk-83611bc5` | Trump says US gave Iran ’a week off’ for funeral of Iran’ late supreme leader amid stalled talks | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-83611bc5)
 - 2026-07-04 | `virakesarilk-1d0eb46e` | உயர் நீதிமன்ற நீதிபதிகள் நியமனத் தாமதம் : ஜனாதிபதி அநுரவின் தர்க்கம் அரசியலமைப்பிற்கு முரணானது - பிரேம்நாத் சி தொலவத்த சுட்டிக்காட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-1d0eb46e)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-07-04 | `virakesarilk-88a8bb7f` | இலங்கை-பாகிஸ்தான் பொருளாதார   ஒத்துழைப்பை விரிவுபடுத்த இணக்கப்பாடு  பாகிஸ்தான் உயர்ஸ்தானிகருடன் அமைச்சர் சுனில் ஹந்துன்நெத்தி சந்திப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-88a8bb7f)
 - 2026-07-04 | `virakesarilk-c56d34a8` | தேசிய மகளிர் ஆணைக்குழுவின் பிரதிநிதிகள் பிரதமருடன் சந்திப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-c56d34a8)
 - 2026-07-04 | `virakesarilk-15f92101` | கேப்பாப்புலவு காணி மீட்பு மாபெரும் போராட்டம்: கட்சி பேதங்களை கடந்து ஆதரவளிக்க அழைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-15f92101)
-- 2026-07-04 | `virakesarilk-a7e8c296` | சீனாவுடனான ஒத்துழைப்பை வலுப்படுத்த இலங்கை ஆவலுடன் எதிர்பார்க்கிறது - சபாநாயகர் ஜகத் விக்ரமரத்ன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-a7e8c296)
-- 2026-07-04 | `dailymirrorlk-c79891cc` | Parents may soon be able to test children for drug use | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-c79891cc)
-- 2026-07-04 | `dailymirrorlk-ac1ad790` | Over 3,000 dengue cases reported within three days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-ac1ad790)
-- 2026-07-04 | `virakesarilk-2eb47373` | மனிதகுலத்தின் பகிரப்பட்ட எதிர்காலத்தை உருவாக்க ஒன்றிணைவோம் – சீனத் தூதுவர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-2eb47373)
 
 ---
 

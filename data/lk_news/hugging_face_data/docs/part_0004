@@ -278468,5 +278468,49 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783160664.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailymirrorlk-a632486f",
+    "num": "dailymirrorlk-a632486f",
+    "date_str": "2026-07-04",
+    "description": "National human-elephant coexistence plan launched",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/National-human-elephant-coexistence-plan-launched/108-344705",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783162132.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailymirrorlk-99dbacb3",
+    "num": "dailymirrorlk-99dbacb3",
+    "date_str": "2026-07-04",
+    "description": "Restaurant owners slash food prices after LP gas price cut",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Restaurant-owners-slash-food-prices-after-LP-gas-price-cut/108-344706",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783163038.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailymirrorlk-78c018fd",
+    "num": "dailymirrorlk-78c018fd",
+    "date_str": "2026-07-04",
+    "description": "Local gold prices slightly down despite global rise",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Local-gold-prices-slightly-down-despite-global-rise/108-344707",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783164062.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailymirrorlk-dcd34062",
+    "num": "dailymirrorlk-dcd34062",
+    "date_str": "2026-07-04",
+    "description": "Showers to occur at night across the island",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Showers-to-occur-at-night-across-the-island/108-344708",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783167644.0
   }
 ]
