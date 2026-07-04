@@ -278097,6 +278097,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-04-adalk-1c2b3c67",
+    "num": "adalk-1c2b3c67",
+    "date_str": "2026-07-04",
+    "description": "\u0da0\u0dcf\u0db8\u0dbb\u0da7\u0dba\u0dd2, \u0d91\u0dc3\u0dca.\u0d91\u0db8\u0dca\u0da7\u0dba\u0dd2 \u0dc0\u0dd9\u0db1 \u0daf\u0dda \u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3 \u0dc3\u0dd4\u0dc3\u0db1\u0dca\u0dad \u0d9a\u0dd2\u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da0\u0dcf\u0db8\u0dbb\u0da7\u0dba\u0dd2--\u0d91\u0dc3\u0dca-\u0d91\u0db8\u0dca\u0da7\u0dba\u0dd2-\u0dc0\u0dd9\u0db1-\u0daf\u0dda-\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3-\u0dc3\u0dd4\u0dc3\u0db1\u0dca\u0dad-\u0d9a\u0dd2\u0dba\u0dba\u0dd2/11-423108",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783140627.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-adalk-32d37337",
+    "num": "adalk-32d37337",
+    "date_str": "2026-07-04",
+    "description": "\u0dc3\u0dca\u0dc0\u0dcf\u0db8\u0dd2\u0dba\u0dcf\u0d9c\u0dda \u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db6\u0dd2\u0dbb\u0dd2\u0db3 \u0db8\u0dbb\u0dd4\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0dca\u0dc0\u0dcf\u0db8\u0dd2\u0dba\u0dcf\u0d9c\u0dda-\u0db4\u0dc4\u0dbb\u0daf\u0dd3\u0db8\u0dd9\u0db1\u0dca-\u0db6\u0dd2\u0dbb\u0dd2\u0db3-\u0db8\u0dbb\u0dd4\u0da7/11-423109",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783147061.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-04-dailymirrorlk-40cc0f2a",
     "num": "dailymirrorlk-40cc0f2a",
     "date_str": "2026-07-04",
@@ -278127,5 +278149,27 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783150014.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailymirrorlk-f6d64996",
+    "num": "dailymirrorlk-f6d64996",
+    "date_str": "2026-07-04",
+    "description": "Fisherman missing after boat overturns off Trincomalee",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fisherman-missing-after-boat-overturns-off-Trincomalee/108-344697",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783153994.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailymirrorlk-968c6f14",
+    "num": "dailymirrorlk-968c6f14",
+    "date_str": "2026-07-04",
+    "description": "Special dengue prevention operation in Western Province from tomorrow",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-dengue-prevention-operation-in-Western-Province-from-tomorrow/108-344699",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783157698.0
   }
 ]
