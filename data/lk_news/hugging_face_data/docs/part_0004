@@ -278094,5 +278094,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783139102.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailymirrorlk-40cc0f2a",
+    "num": "dailymirrorlk-40cc0f2a",
+    "date_str": "2026-07-04",
+    "description": "Sajith calls for amendment of Mosquito Breeding Act",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sajith-calls-for-amendment-of-Mosquito-Breeding-Act/108-344682",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783149199.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailymirrorlk-ac1ad790",
+    "num": "dailymirrorlk-ac1ad790",
+    "date_str": "2026-07-04",
+    "description": "Over 3,000 dengue cases reported within three days",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Over-3-000-dengue-cases-reported-within-three-days/108-344687",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783149824.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailymirrorlk-c79891cc",
+    "num": "dailymirrorlk-c79891cc",
+    "date_str": "2026-07-04",
+    "description": "Parents may soon be able to test children for drug use",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parents-may-soon-be-able-to-test-children-for-drug-use/108-344688",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783150014.0
   }
 ]

@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--04_11:43:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--04_13:23:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**121,640** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**121,643** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-04-dailymirrorlk-c3b338e5",
-    "num": "dailymirrorlk-c3b338e5",
+    "doc_id": "2026-07-04-dailymirrorlk-c79891cc",
+    "num": "dailymirrorlk-c79891cc",
     "date_str": "2026-07-04",
-    "description": "Special talks on cooperative fuel station challenges",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-talks-on-cooperative-fuel-station-challenges/108-344673",
+    "description": "Parents may soon be able to test children for drug use",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Parents-may-soon-be-able-to-test-children-for-drug-use/108-344688",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783139102.0
+    "time_ut": 1783150014.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-04 | `dailymirrorlk-c79891cc` | Parents may soon be able to test children for drug use | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-c79891cc)
+- 2026-07-04 | `dailymirrorlk-ac1ad790` | Over 3,000 dengue cases reported within three days | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-ac1ad790)
+- 2026-07-04 | `dailymirrorlk-40cc0f2a` | Sajith calls for amendment of Mosquito Breeding Act | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-40cc0f2a)
 - 2026-07-04 | `dailymirrorlk-c3b338e5` | Special talks on cooperative fuel station challenges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-c3b338e5)
 - 2026-07-04 | `dailymirrorlk-3a699690` | Applications for 2026 GCE O/L exam open until July 23 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-3a699690)
 - 2026-07-04 | `dailymirrorlk-b843bb07` | From Village Tanks to Modern Crises | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-b843bb07)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-07-04 | `dailymirrorlk-0c9a4109` | GovTech Sri Lanka appoints Shevan Goonetilleke as CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-0c9a4109)
 - 2026-07-04 | `dailymirrorlk-5145a3e2` | Trump, Netanyahu agree to meet in the US soon during phone call | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-5145a3e2)
 - 2026-07-04 | `dailymirrorlk-3b3cafcd` | INFRACON 2026 infrastructure and construction exhibition kicks off | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-3b3cafcd)
-- 2026-07-04 | `dailymirrorlk-a7d6e5ca` | Nation Lanka Finance to be wound up after failed rescue efforts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-a7d6e5ca)
-- 2026-07-04 | `dailymirrorlk-2de3f3d9` | Lower tea offerings spur stronger bidding at Colombo auction | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-2de3f3d9)
-- 2026-07-04 | `dailymirrorlk-40f12322` | Sri Lanka calls for Asia-Pacific cooperation on climate action and blue carbon financing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-40f12322)
 
 ---
 
