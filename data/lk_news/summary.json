@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-05 00:06:59",
-  "n_docs": 121704,
+  "time_updated": "2026-07-05 02:04:54",
+  "n_docs": 121705,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 121704,
+  "n_docs_with_text": 121705,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
-  "date_str_max": "2026-07-04",
-  "dataset_size": 1899092251,
+  "date_str_max": "2026-07-05",
+  "dataset_size": 1899222647,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
+    "en",
     "si",
-    "en"
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-04-dailymirrorlk-02fc96a9",
-    "num": "dailymirrorlk-02fc96a9",
-    "date_str": "2026-07-04",
-    "description": "Keiko Fujimori declared winner of Peru\u2019s presidential election weeks after vote",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Keiko-Fujimori-declared-winner-of-Perus-presidential-election-weeks-after-vote/108-344713",
+    "doc_id": "2026-07-05-dailymirrorlk-6e6aa6dd",
+    "num": "dailymirrorlk-6e6aa6dd",
+    "date_str": "2026-07-05",
+    "description": "Morocco reach FIFA World Cup 2026 Quarter-finals after ending Canada\u2019s historic run",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Morocco-reach-FIFA-World-Cup-2026-Quarter-finals-after-ending-Canadas-historic-run/108-344714",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783174875.0
+    "time_ut": 1783192617.0
   }
 }

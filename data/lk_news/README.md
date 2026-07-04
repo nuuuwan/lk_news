@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--05_00:07:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--05_02:05:50-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**121,704** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-04**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**121,705** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-04-dailymirrorlk-02fc96a9",
-    "num": "dailymirrorlk-02fc96a9",
-    "date_str": "2026-07-04",
-    "description": "Keiko Fujimori declared winner of Peru\u2019s presidential election weeks after vote",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Keiko-Fujimori-declared-winner-of-Perus-presidential-election-weeks-after-vote/108-344713",
+    "doc_id": "2026-07-05-dailymirrorlk-6e6aa6dd",
+    "num": "dailymirrorlk-6e6aa6dd",
+    "date_str": "2026-07-05",
+    "description": "Morocco reach FIFA World Cup 2026 Quarter-finals after ending Canada\u2019s historic run",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Morocco-reach-FIFA-World-Cup-2026-Quarter-finals-after-ending-Canadas-historic-run/108-344714",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783174875.0
+    "time_ut": 1783192617.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-05 | `dailymirrorlk-6e6aa6dd` | Morocco reach FIFA World Cup 2026 Quarter-finals after ending Canada’s historic run | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-dailymirrorlk-6e6aa6dd)
 - 2026-07-04 | `dailymirrorlk-02fc96a9` | Keiko Fujimori declared winner of Peru’s presidential election weeks after vote | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-02fc96a9)
 - 2026-07-04 | `dailymirrorlk-32b17acf` | Pope urges Europe to do more for migrants while visiting gateway island | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-32b17acf)
 - 2026-07-04 | `adalk-627e1f8b` | රුසියානු තෙල් පර්යන්තයට යුක්‍රේනයෙන් ඩ්‍රෝන ප්‍රහාරයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-adalk-627e1f8b)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-07-04 | `virakesarilk-53128871` | வசந்த கரன்னாகொடவின் கைது  குறுகிய அரசியல் பழிவாங்கல்  விமல் வீரவன்ச குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-53128871)
 - 2026-07-04 | `virakesarilk-7eeeccdc` | நடிகர் பாரி இளவழகன் நடிக்கும் 'அன்பே டயானா' படத்தினை விளம்பரப்படுத்தும் பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-7eeeccdc)
 - 2026-07-04 | `virakesarilk-1c61c036` | பத்துக்கும் மேற்பட்ட வேடங்களில் நடிக்கும் யோகி பாபு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-1c61c036)
-- 2026-07-04 | `virakesarilk-50bf88ae` | 'மக்கள் செல்வன்' விஜய் சேதுபதி வெளியிட்ட லியோ சிவகுமாரின் 'டெலிவரி பாய்' படத்தின் டீசர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-50bf88ae)
 
 ---
 
