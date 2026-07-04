@@ -277217,6 +277217,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-03-dailymirrorlk-5bb6a043",
+    "num": "dailymirrorlk-5bb6a043",
+    "date_str": "2026-07-03",
+    "description": "Beware of walking on roads while using phones! Police watchful!",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Beware-of-walking-on-roads-while-using-phones-Police-watchful/108-344628",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783093505.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-03-islandlk-2b707edc",
     "num": "islandlk-2b707edc",
     "date_str": "2026-07-03",
@@ -277621,5 +277632,49 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1783124880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-tamilmirrorlk-e0b27d45",
+    "num": "tamilmirrorlk-e0b27d45",
+    "date_str": "2026-07-04",
+    "description": "\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0baa\u0bcd\u0baa \u0b85\u0bb2\u0bc8: 3,700 \u0b87\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b90\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd-\u0bb5\u0bc6\u0baa\u0bcd\u0baa-\u0b85\u0bb2\u0bc8-3-700-\u0b87\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/50-379426",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783131892.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailymirrorlk-5145a3e2",
+    "num": "dailymirrorlk-5145a3e2",
+    "date_str": "2026-07-04",
+    "description": "Trump, Netanyahu agree to meet in the US soon during phone call",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-Netanyahu-agree-to-meet-in-the-US-soon-during-phone-call/108-344656",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783136657.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailymirrorlk-0c9a4109",
+    "num": "dailymirrorlk-0c9a4109",
+    "date_str": "2026-07-04",
+    "description": "GovTech Sri Lanka appoints Shevan Goonetilleke as CEO",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/GovTech-Sri-Lanka-appoints-Shevan-Goonetilleke-as-CEO/108-344657",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783136732.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-dailymirrorlk-9167fb31",
+    "num": "dailymirrorlk-9167fb31",
+    "date_str": "2026-07-04",
+    "description": "Port City secures US $ 300mn FDI commitment due to renewed investment drive",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Port-City-secures-US-300mn-FDI-commitment-due-to-renewed-investment-drive/108-344658",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783136772.0
   }
 ]
