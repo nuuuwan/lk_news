@@ -273015,6 +273015,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-01-islandlk-2a237c39",
+    "num": "islandlk-2a237c39",
+    "date_str": "2026-07-01",
+    "description": "Trump reined in",
+    "url_metadata": "http://island.lk/trump-reined-in/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1782923100.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-01-islandlk-3de670a5",
     "num": "islandlk-3de670a5",
     "date_str": "2026-07-01",
@@ -278427,6 +278438,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-5907f946",
+    "num": "islandlk-5907f946",
+    "date_str": "2026-07-04",
+    "description": "A new life in Saudi Arabia and Romance en route in Sri Lanka",
+    "url_metadata": "http://island.lk/a-new-life-in-saudi-arabia-and-romance-en-route-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783158720.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-10c7e0ed",
+    "num": "islandlk-10c7e0ed",
+    "date_str": "2026-07-04",
+    "description": "Central bank gold holdings are at a 50year high. What\u2019s behind the jump in\u00a0reserves?",
+    "url_metadata": "http://island.lk/central-bank-gold-holdings-are-at-a-50year-high-whats-behind-the-jump-in-reserves/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783158840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-f29975a7",
+    "num": "islandlk-f29975a7",
+    "date_str": "2026-07-04",
+    "description": "Closing shop \u2013 final duties before retiring after 37 years of service",
+    "url_metadata": "http://island.lk/closing-shop-final-duties-before-retiring-after-37-years-of-service/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783158840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-2c1f85af",
+    "num": "islandlk-2c1f85af",
+    "date_str": "2026-07-04",
+    "description": "Gotabaya\u2019s candidacy for 2020 presidential election",
+    "url_metadata": "http://island.lk/gotabayas-candidacy-for-2020-presidential-election/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783158900.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-04-dailymirrorlk-46096644",
     "num": "dailymirrorlk-46096644",
     "date_str": "2026-07-04",
@@ -278490,6 +278545,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783160664.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-965917af",
+    "num": "islandlk-965917af",
+    "date_str": "2026-07-04",
+    "description": "Pioneering the Introduction of Japanese-Style Management in Sri Lanka",
+    "url_metadata": "http://island.lk/pioneering-the-introduction-of-japanese-style-management-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783161600.0
   },
   {
     "doc_type": "lk_news",
@@ -278603,6 +278669,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-1d546d98",
+    "num": "islandlk-1d546d98",
+    "date_str": "2026-07-04",
+    "description": "Growing up as a Catholic boy in Hambantota",
+    "url_metadata": "http://island.lk/growing-up-as-a-catholic-boy-in-hambantota/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783165980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-628f3e21",
+    "num": "islandlk-628f3e21",
+    "date_str": "2026-07-04",
+    "description": "Eric J. De Silva",
+    "url_metadata": "http://island.lk/eric-j-de-silva/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783166040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-67019e31",
+    "num": "islandlk-67019e31",
+    "date_str": "2026-07-04",
+    "description": "Prof. Fazeeha Azmi becomes Lanka\u2019s first woman envoy to Iran",
+    "url_metadata": "http://island.lk/prof-fazeeha-azmi-becomes-lankas-first-woman-envoy-to-iran/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783166100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-ef09ff9b",
+    "num": "islandlk-ef09ff9b",
+    "date_str": "2026-07-04",
+    "description": "\u2018SpiderNail\u2019 geotechnical concept unveiled in Kandy to strengthen hill country resilience",
+    "url_metadata": "http://island.lk/spidernail-geotechnical-concept-unveiled-in-kandy-to-strengthen-hill-country-resilience/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783166100.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-04-virakesarilk-7eeeccdc",
     "num": "virakesarilk-7eeeccdc",
     "date_str": "2026-07-04",
@@ -278611,6 +278721,28 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1783166100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-f5d2cec5",
+    "num": "islandlk-f5d2cec5",
+    "date_str": "2026-07-04",
+    "description": "IChemC Annual Sessions 2026 inaugurated with focus on scientific excellence",
+    "url_metadata": "http://island.lk/ichemc-annual-sessions-2026-inaugurated-with-focus-on-scientific-excellence/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783166160.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-ffb217e8",
+    "num": "islandlk-ffb217e8",
+    "date_str": "2026-07-04",
+    "description": "CaFFE holds digital voter education programme in Jaffna",
+    "url_metadata": "http://island.lk/caffe-holds-digital-voter-education-programme-in-jaffna/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783166160.0
   },
   {
     "doc_type": "lk_news",
@@ -278658,6 +278790,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-16d201ff",
+    "num": "islandlk-16d201ff",
+    "date_str": "2026-07-04",
+    "description": "Royal clinch Western Province Hockey title in penalty shootout",
+    "url_metadata": "http://island.lk/royal-clinch-western-province-hockey-title-in-penalty-shootout/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783167600.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-04-dailymirrorlk-dcd34062",
     "num": "dailymirrorlk-dcd34062",
     "date_str": "2026-07-04",
@@ -278666,6 +278809,28 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783167644.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-48e0f70a",
+    "num": "islandlk-48e0f70a",
+    "date_str": "2026-07-04",
+    "description": "Stredge launches Reach High",
+    "url_metadata": "http://island.lk/stredge-launches-reach-high/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783167660.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-9b0be4f1",
+    "num": "islandlk-9b0be4f1",
+    "date_str": "2026-07-04",
+    "description": "AIA\u2019s first \u2018Dansala on a Train\u2019 takes the spirit of local hospitality onboard",
+    "url_metadata": "http://island.lk/aias-first-dansala-on-a-train-takes-the-spirit-of-local-hospitality-onboard/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783167660.0
   },
   {
     "doc_type": "lk_news",
@@ -278809,5 +278974,27 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783192617.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-5abe3c43",
+    "num": "tamilmirrorlk-5abe3c43",
+    "date_str": "2026-07-05",
+    "description": "\u0ba4.\u0bb5\u0bc6.\u0b95\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95 \u0ba4\u0bbf.\u0bae\u0bc1.\u0b95. \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc0\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4-\u0bb5\u0bc6-\u0b95\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0b95-\u0ba4\u0bbf-\u0bae\u0bc1-\u0b95-\u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bc0\u0b9f\u0bc1/175-379427",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783211219.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-b5f8de97",
+    "num": "tamilmirrorlk-b5f8de97",
+    "date_str": "2026-07-05",
+    "description": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0ba9\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 8,500 \u0bb0\u0bb7\u0bcd\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0ba9\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-8-500-\u0bb0\u0bb7\u0bcd\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/50-379428",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783212406.0
   }
 ]

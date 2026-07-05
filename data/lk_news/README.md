@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--05_04:02:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--05_06:31:34-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**121,705** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**121,722** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-05-dailymirrorlk-6e6aa6dd",
-    "num": "dailymirrorlk-6e6aa6dd",
+    "doc_id": "2026-07-05-tamilmirrorlk-b5f8de97",
+    "num": "tamilmirrorlk-b5f8de97",
     "date_str": "2026-07-05",
-    "description": "Morocco reach FIFA World Cup 2026 Quarter-finals after ending Canada\u2019s historic run",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Morocco-reach-FIFA-World-Cup-2026-Quarter-finals-after-ending-Canadas-historic-run/108-344714",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783192617.0
+    "description": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0ba9\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 8,500 \u0bb0\u0bb7\u0bcd\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0ba9\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-8-500-\u0bb0\u0bb7\u0bcd\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/50-379428",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783212406.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-05 | `tamilmirrorlk-b5f8de97` | உக்ரைனின் தாக்குதல்களில் 8,500 ரஷ்யர்கள் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-tamilmirrorlk-b5f8de97)
+- 2026-07-05 | `tamilmirrorlk-5abe3c43` | த.வெ.கவுக்கு எதிராக தி.மு.க. முறையீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-tamilmirrorlk-5abe3c43)
 - 2026-07-05 | `dailymirrorlk-6e6aa6dd` | Morocco reach FIFA World Cup 2026 Quarter-finals after ending Canada’s historic run | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-dailymirrorlk-6e6aa6dd)
 - 2026-07-04 | `dailymirrorlk-02fc96a9` | Keiko Fujimori declared winner of Peru’s presidential election weeks after vote | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-02fc96a9)
 - 2026-07-04 | `dailymirrorlk-32b17acf` | Pope urges Europe to do more for migrants while visiting gateway island | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-32b17acf)
@@ -54,13 +56,11 @@ A collection of lk_news documents.
 - 2026-07-04 | `virakesarilk-21947b69` | திருமங்களாய் சிவன் கோவில் தொல்லியல் தளத்தில் பிரதி அமைச்சர் அருண் ஹேமச்சந்திரா கள ஆய்வு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-21947b69)
 - 2026-07-04 | `virakesarilk-a84761ef` | புலிகளின் கறுப்புப் பணம் நாட்டுக்குள்  வருவதற்கு கதவு திறக்கப்பட்டுள்ளது - பணமோசடி தடுப்புச் சட்டத் திருத்தம் குறித்து விமல் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-a84761ef)
 - 2026-07-04 | `virakesarilk-0699372f` | மக்கள் கோரிக்கை விடுத்தால் மாத்திரமே  நாமலை வேட்பாளராகக் களமிறக்குவோம்   மஹிந்த ராஜபக்ஷ தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-0699372f)
+- 2026-07-04 | `islandlk-9b0be4f1` | AIA’s first ‘Dansala on a Train’ takes the spirit of local hospitality onboard | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-islandlk-9b0be4f1)
+- 2026-07-04 | `islandlk-48e0f70a` | Stredge launches Reach High | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-islandlk-48e0f70a)
 - 2026-07-04 | `dailymirrorlk-dcd34062` | Showers to occur at night across the island | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-dailymirrorlk-dcd34062)
+- 2026-07-04 | `islandlk-16d201ff` | Royal clinch Western Province Hockey title in penalty shootout | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-islandlk-16d201ff)
 - 2026-07-04 | `virakesarilk-5acc47aa` | நாடு முழுவதும் டெங்கு நோய் தீவிரம் ; சூழலை சுத்தமாக வைத்திருக்க முன்வருமாறு அஸ்கிரிய பீடத்தின் அனுநாயக்க தேரர் அழைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-5acc47aa)
-- 2026-07-04 | `virakesarilk-9081e35d` | மேல் மாகாணத்தில் விசேட டெங்கு ஒழிப்பு நடவடிக்கை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-9081e35d)
-- 2026-07-04 | `virakesarilk-d1c006af` | வடகிழக்கில் மாத்திரம் மாகாண சபைத் தேர்தலை  நடத்தி தனிச்சட்டம் உருவாக்க அரசாங்கம் சதி ; விமல் வீரவன்ச திட்டவட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-d1c006af)
-- 2026-07-04 | `virakesarilk-53128871` | வசந்த கரன்னாகொடவின் கைது  குறுகிய அரசியல் பழிவாங்கல்  விமல் வீரவன்ச குற்றச்சாட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-53128871)
-- 2026-07-04 | `virakesarilk-7eeeccdc` | நடிகர் பாரி இளவழகன் நடிக்கும் 'அன்பே டயானா' படத்தினை விளம்பரப்படுத்தும் பாடல் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-7eeeccdc)
-- 2026-07-04 | `virakesarilk-1c61c036` | பத்துக்கும் மேற்பட்ட வேடங்களில் நடிக்கும் யோகி பாபு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-04-virakesarilk-1c61c036)
 
 ---
 
