@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--05_11:05:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--05_12:54:09-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**121,761** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**121,765** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-05-virakesarilk-7b52effd",
-    "num": "virakesarilk-7b52effd",
+    "doc_id": "2026-07-05-tamilmirrorlk-4d4956d5",
+    "num": "tamilmirrorlk-4d4956d5",
     "date_str": "2026-07-05",
-    "description": "\u0b95\u0b9a\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1 \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe: \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b9a\u0bc0\u0bb0\u0bcd\u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bc1\u0b9f\u0ba9\u0bcd \u0b89\u0ba3\u0bb5\u0bc1 \u0bb5\u0bbf\u0bb1\u0bcd\u0bb1\u0bb5\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc8\u0ba4\u0bcd\u0ba4\u0ba3\u0bcd\u0b9f\u0ba9\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/252089",
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd \u0b95\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe-\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bcb\u0bb0\u0bbf\u0ba9\u0bcd-\u0b95\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1/175-379466",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1783229280.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783235871.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-05 | `tamilmirrorlk-4d4956d5` | இந்தியா செல்வோரின் கவனத்துக்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-tamilmirrorlk-4d4956d5)
+- 2026-07-05 | `tamilmirrorlk-8756bc5e` | ஹெட்போன்,  இயர்போன் அணிந்து சென்றால் சட்டம் பாயும் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-tamilmirrorlk-8756bc5e)
+- 2026-07-05 | `tamilmirrorlk-d27a0f84` | இப்படியும் மனிதர்களா? (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-tamilmirrorlk-d27a0f84)
 - 2026-07-05 | `virakesarilk-7b52effd` | கச்சத்தீவு திருவிழா: சுகாதார சீர்கேட்டுடன் உணவு விற்றவருக்கு சிறைத்தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-virakesarilk-7b52effd)
 - 2026-07-05 | `virakesarilk-81f6e6f2` | அட்டன் - நுவரெலியா பிரதான வீதியில் மண்சரிவு - ஒருவழிப் போக்குவரத்து முன்னெடுப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-virakesarilk-81f6e6f2)
 - 2026-07-05 | `virakesarilk-b64a418d` | இந்தியாவில் எத்தனோல் பெற்றோலால் சர்ச்சை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-virakesarilk-b64a418d)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-07-05 | `virakesarilk-eede322a` | கீரிமலை நகுலேஸ்வர ஆலயத்தில் 4 கிலோ வெள்ளி திருட்டு ; இருவர் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-virakesarilk-eede322a)
 - 2026-07-05 | `tamilmirrorlk-39602355` | தொடர் மழையினால்   ரயில் சேவைகள் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-tamilmirrorlk-39602355)
 - 2026-07-05 | `dailymirrorlk-a90def24` | Road access restricted in Riverston, Hatton–Nuwara Eliya road partially blocked: DMC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-dailymirrorlk-a90def24)
-- 2026-07-05 | `virakesarilk-b2465ec1` | மேற்கிந்தியத் தீவுகளுக்கு எதிரான 2ஆவது டெஸ்ட்: இரண்டாம் நாளன்று தினூஷ, குசல் பிரகாசிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-virakesarilk-b2465ec1)
-- 2026-07-05 | `dailymirrorlk-467213ac` | Train services remain suspended on Mannar, upcountry lines: DMC | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-dailymirrorlk-467213ac)
-- 2026-07-05 | `virakesarilk-420682f9` | தமிழர் பிரச்சினைகள் குறித்து ஒருங்கிணைந்து செயற்படவேண்டியது அவசியம் ; தமிழ்த்தேசியப் பேரவை - தொல்.திருமாவளவன் சந்திப்பில் இணக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-virakesarilk-420682f9)
 
 ---
 
