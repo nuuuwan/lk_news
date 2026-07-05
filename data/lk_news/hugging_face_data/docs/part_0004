@@ -278548,6 +278548,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-fa011af0",
+    "num": "islandlk-fa011af0",
+    "date_str": "2026-07-04",
+    "description": "From the Pathfinder Collection: A Soldier\u2019s Eye on Ceylon",
+    "url_metadata": "http://island.lk/from-the-pathfinder-collection-a-soldiers-eye-on-ceylon/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783161540.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-04-islandlk-965917af",
     "num": "islandlk-965917af",
     "date_str": "2026-07-04",
@@ -279604,6 +279615,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-f778e0dd",
+    "num": "tamilmirrorlk-f778e0dd",
+    "date_str": "2026-07-05",
+    "description": "\u2018\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u2019   \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f  \u0b95\u0bb5\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf-\u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f-\u0b95\u0bb5\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd-\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd/54-379471",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783241151.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-05-tamilmirrorlk-8f279dca",
     "num": "tamilmirrorlk-8f279dca",
     "date_str": "2026-07-05",
@@ -279612,5 +279634,148 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783242577.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-c511aa58",
+    "num": "dailymirrorlk-c511aa58",
+    "date_str": "2026-07-05",
+    "description": "Fuel station to be established on Delft Island for first time",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fuel-station-to-be-established-on-Delft-Island-for-first-time/108-344728",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783243074.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-20a8d1b4",
+    "num": "tamilmirrorlk-20a8d1b4",
+    "date_str": "2026-07-05",
+    "description": "\u0b95\u0bb3\u0bc8\u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0baf \u2019\u0baa\u0ba3\u0bbf\u0bb8\u0bcd\u2019 \u0b9a\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0b95\u0bb3\u0bc8\u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0baf-\u0baa\u0ba3\u0bbf\u0bb8\u0bcd-\u0b9a\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bc1\u0bae\u0bcd-\u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-379473",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783243140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-5cda4fa0",
+    "num": "dailymirrorlk-5cda4fa0",
+    "date_str": "2026-07-05",
+    "description": "Missing service weapon of Yatiyantota Traffic OIC recovered from Kelani River",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Missing-service-weapon-of-Yatiyantota-Traffic-OIC-recovered-from-Kelani-River/108-344729",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783243486.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-20dff0a1",
+    "num": "dailymirrorlk-20dff0a1",
+    "date_str": "2026-07-05",
+    "description": "75 drowning fatalities recorded so far this year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/75-drowning-fatalities-recorded-so-far-this-year/108-344730",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783243576.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-b5ce4987",
+    "num": "dailymirrorlk-b5ce4987",
+    "date_str": "2026-07-05",
+    "description": "16 injured in Negombo Prison clash; STF deployed to restore order",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/16-injured-in-Negombo-Prison-clash-STF-deployed-to-restore-order/108-344731",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783243828.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-76c202e1",
+    "num": "tamilmirrorlk-76c202e1",
+    "date_str": "2026-07-05",
+    "description": "\u0b8e\u0bae\u0bcd\u0baa\u0baf\u0bb0\u0bcd \u0b9f\u0bb5\u0bb0\u0bcd \u0b9a\u0bbe\u0b95\u0b9a \u0b9c\u0bcb\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0bae\u0bcd\u0baa\u0baf\u0bb0\u0bcd-\u0b9f\u0bb5\u0bb0\u0bcd-\u0b9a\u0bbe\u0b95\u0b9a-\u0b9c\u0bcb\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0bae\u0bc1\u0ba4\u0bcd\u0ba4-\u0bae\u0bb4\u0bc8/50-379475",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783244238.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-689dc5af",
+    "num": "tamilmirrorlk-689dc5af",
+    "date_str": "2026-07-05",
+    "description": "\u2019\u2019\u0bae\u0bbf\u0b95 \u0b85\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0ba9 \u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf, Bye\u2019\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0bae\u0bbf\u0b95-\u0b85\u0bb0\u0bc1\u0bb5\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0ba9-\u0b95\u0bc7\u0bb3\u0bcd\u0bb5\u0bbf-Bye/54-379476",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783244531.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-00f2b162",
+    "num": "tamilmirrorlk-00f2b162",
+    "date_str": "2026-07-05",
+    "description": "\u0ba8\u0bc0\u0bb0\u0bcd\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd \u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bcd: 16 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0bb0\u0bcd\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bcd-\u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd-16-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-379477",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783244671.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-bda6927c",
+    "num": "tamilmirrorlk-bda6927c",
+    "date_str": "2026-07-05",
+    "description": "\u0b95\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b9f\u0bc6\u0b99\u0bcd\u0b95\u0bc1 \u0ba8\u0bc1\u0bb3\u0bae\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0ba8\u0bc7\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0baf-\u0b9f\u0bc6\u0b99\u0bcd\u0b95\u0bc1-\u0ba8\u0bc1\u0bb3\u0bae\u0bcd\u0baa\u0bc1/175-379478",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783245274.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-076424e5",
+    "num": "dailymirrorlk-076424e5",
+    "date_str": "2026-07-05",
+    "description": "8 shot, including 4 children, in Coney Island, NYPD says",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/8-shot-including-4-children-in-Coney-Island-NYPD-says/108-344732",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783246517.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-d0ef5093",
+    "num": "tamilmirrorlk-d0ef5093",
+    "date_str": "2026-07-05",
+    "description": "\u2018\u0baa\u0bbf\u0bb0\u0bc6\u0b9e\u0bcd\u0b9a\u0bc1 \u0baa\u0bbf\u0bb0\u0bc8\u0bb8\u0bcd\u2019 \u0bb5\u0bb4\u0b99\u0bcd\u0b95 \u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4 \u0b95\u0ba3\u0bb5\u0bb0\u0bcd:  \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbf\u0bb0\u0bc6\u0b9e\u0bcd\u0b9a\u0bc1-\u0baa\u0bbf\u0bb0\u0bc8\u0bb8\u0bcd-\u0bb5\u0bb4\u0b99\u0bcd\u0b95-\u0bae\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4-\u0b95\u0ba3\u0bb5\u0bb0\u0bcd-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0ba4\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0b9f\u0bbf/175-379479",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783246655.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-6016dd46",
+    "num": "tamilmirrorlk-6016dd46",
+    "date_str": "2026-07-05",
+    "description": "\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bc8 \u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0bae\u0bbe\u0b95 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b93\u0b9f\u0bcd\u0b9f\u0bc1\u0ba8\u0bb0\u0bc8-\u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0bae\u0bbe\u0b95-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0baa\u0bca\u0bb2\u0bbf\u0bb8\u0bbe\u0bb0\u0bcd/175-379480",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783247434.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-167305c0",
+    "num": "dailymirrorlk-167305c0",
+    "date_str": "2026-07-05",
+    "description": "Update: Two prisoners killed, over 25 injured in Negombo Prison violence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Update-Two-prisoners-killed-over-25-injured-in-Negombo-Prison-violence/108-344733",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783248593.0
   }
 ]
