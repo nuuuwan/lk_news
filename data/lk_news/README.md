@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--05_16:43:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--05_18:34:02-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**121,793** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**121,795** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-05**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-05-dailymirrorlk-167305c0",
-    "num": "dailymirrorlk-167305c0",
+    "doc_id": "2026-07-05-tamilmirrorlk-b6c0dfc2",
+    "num": "tamilmirrorlk-b6c0dfc2",
     "date_str": "2026-07-05",
-    "description": "Update: Two prisoners killed, over 25 injured in Negombo Prison violence",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Update-Two-prisoners-killed-over-25-injured-in-Negombo-Prison-violence/108-344733",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783248593.0
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8: \u0b87\u0bb0\u0bc1 \u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8-\u0b87\u0bb0\u0bc1-\u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-379482",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783250262.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-05 | `tamilmirrorlk-b6c0dfc2` | சிறைச்சாலையில் வன்முறை: இரு கைதிகள் உயிரிழப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-tamilmirrorlk-b6c0dfc2)
 - 2026-07-05 | `dailymirrorlk-167305c0` | Update: Two prisoners killed, over 25 injured in Negombo Prison violence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-dailymirrorlk-167305c0)
 - 2026-07-05 | `tamilmirrorlk-6016dd46` | ஓட்டுநரை கொடூரமாக தாக்கிய பொலிஸார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-tamilmirrorlk-6016dd46)
 - 2026-07-05 | `tamilmirrorlk-d0ef5093` | ‘பிரெஞ்சு பிரைஸ்’ வழங்க மறுத்த கணவர்:  வழக்கு தள்ளுபடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-tamilmirrorlk-d0ef5093)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-07-05 | `dailymirrorlk-a12a3cdd` | Mexico return luxury watches gifted by YouTuber | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-dailymirrorlk-a12a3cdd)
 - 2026-07-05 | `tamilmirrorlk-042ad0a5` | அலி கமனேயியின் இறுதிச்சடங்கு: வாரிசுகள் பங்கேற்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-tamilmirrorlk-042ad0a5)
 - 2026-07-05 | `dailymirrorlk-9b7948b1` | Govt has ample funds to fast-track development projects: Minister Bimal Rathnayaka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-dailymirrorlk-9b7948b1)
-- 2026-07-05 | `dailymirrorlk-31fb243e` | Mahinda Rajapaksa confident Opposition can form new government | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-dailymirrorlk-31fb243e)
 
 ---
 
