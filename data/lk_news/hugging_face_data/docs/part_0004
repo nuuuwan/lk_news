@@ -279923,6 +279923,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-7d45f338",
+    "num": "dailymirrorlk-7d45f338",
+    "date_str": "2026-07-05",
+    "description": "Commonwealth Lawyers\u2019 Association urges Sri Lanka to withdraw proposed judicial retirement age amendment",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Commonwealth-Lawyers-Association-urges-Sri-Lanka-to-withdraw-proposed-judicial-retirement-age-amendment/108-344738",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783260409.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-05-dailymirrorlk-c009671d",
     "num": "dailymirrorlk-c009671d",
     "date_str": "2026-07-05",
@@ -280019,5 +280030,16 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783274296.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailymirrorlk-0e9c2b4b",
+    "num": "dailymirrorlk-0e9c2b4b",
+    "date_str": "2026-07-06",
+    "description": "Trump thanks Fifa after USA striker Balogun\u2019s ban suspended",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Trump-thanks-Fifa-after-USA-striker-Baloguns-ban-suspended/108-344760",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783278333.0
   }
 ]
