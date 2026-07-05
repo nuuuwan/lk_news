@@ -279901,6 +279901,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-8830ec4e",
+    "num": "dailymirrorlk-8830ec4e",
+    "date_str": "2026-07-05",
+    "description": "Babar back as captain as Pakistan name upcoming Test squads",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Babar-back-as-captain-as-Pakistan-name-upcoming-Test-squads/108-344736",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783259186.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-99ff1c41",
+    "num": "dailymirrorlk-99ff1c41",
+    "date_str": "2026-07-05",
+    "description": "Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-offers-to-help-end-Russia-Ukraine-war-in-Putin-call-Kremlin-says/107-344737",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783259340.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-c009671d",
+    "num": "dailymirrorlk-c009671d",
+    "date_str": "2026-07-05",
+    "description": "\u2019One shot can take them all out\u2019: Trump says Iran leaders are within reach",
+    "url_metadata": "https://www.dailymirror.lk/international/One-shot-can-take-them-all-out-Trump-says-Iran-leaders-are-within-reach/107-344739",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783260595.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-05-tamilmirrorlk-62a93dd4",
     "num": "tamilmirrorlk-62a93dd4",
     "date_str": "2026-07-05",
@@ -279975,5 +280008,16 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783273583.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-87bd4af7",
+    "num": "dailymirrorlk-87bd4af7",
+    "date_str": "2026-07-05",
+    "description": "SEVEN HEAVEN! Australia Crowned Women\u2019s T20 World Cup Champions",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/SEVEN-HEAVEN-Australia-Crowned-Womens-T20-World-Cup-Champions/108-344751",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783274296.0
   }
 ]
