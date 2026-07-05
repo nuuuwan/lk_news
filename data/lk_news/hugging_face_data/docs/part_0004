@@ -279054,6 +279054,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-05-adalk-a48660ac",
+    "num": "adalk-a48660ac",
+    "date_str": "2026-07-05",
+    "description": "\u0dbb\u0dda\u0d9c\u0dd4\u0dc0 \u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca \u0d89\u0dbd\u0d9a\u0dca\u0d9a \u0d85\u0db7\u0dd2\u0db7\u0dc0\u0dcf \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dda\u0d9c\u0dd4\u0dc0-\u0d86\u0daf\u0dcf\u0dba\u0db8\u0dca-\u0d89\u0dbd\u0d9a\u0dca\u0d9a-\u0d85\u0db7\u0dd2\u0db7\u0dc0\u0dcf-\u0dba\u0dba\u0dd2/11-423116",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783217300.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-05-tamilmirrorlk-ab8c4b0c",
     "num": "tamilmirrorlk-ab8c4b0c",
     "date_str": "2026-07-05",
@@ -279469,5 +279480,137 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783235871.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-1fbf8a00",
+    "num": "dailymirrorlk-1fbf8a00",
+    "date_str": "2026-07-05",
+    "description": "Trump gives campaign-style July 4 speech on National Mall for US 250th anniversary",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-gives-campaign-style-July-4-speech-on-National-Mall-for-US-250th-anniversary/107-344722",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783237193.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-4348fe92",
+    "num": "dailymirrorlk-4348fe92",
+    "date_str": "2026-07-05",
+    "description": "Three sons of Iran\u2019s slain leader Khamenei appear at funeral, not his successor",
+    "url_metadata": "https://www.dailymirror.lk/international/Three-sons-of-Irans-slain-leader-Khamenei-appear-at-funeral-not-his-successor/107-344723",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783237330.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-ee3f4550",
+    "num": "tamilmirrorlk-ee3f4550",
+    "date_str": "2026-07-05",
+    "description": "\u0bae\u0bbe\u0ba8\u0b95\u0bb0 \u0b9a\u0baa\u0bc8 \u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe? (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0bae\u0bbe\u0ba8\u0b95\u0bb0-\u0b9a\u0baa\u0bc8-\u0b89\u0b9f\u0ba9\u0b9f\u0bbf\u0baf\u0bbe\u0b95-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0b8e\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bbe-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-379467",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783238149.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-dcdf269e",
+    "num": "dailymirrorlk-dcdf269e",
+    "date_str": "2026-07-05",
+    "description": "National Commission on Women briefs Prime Minister on operational progress",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/National-Commission-on-Women-briefs-Prime-Minister-on-operational-progress/108-344724",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783238428.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-60c7acd6",
+    "num": "tamilmirrorlk-60c7acd6",
+    "date_str": "2026-07-05",
+    "description": "\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd \u0b89\u0b9a\u0bcd\u0b9a \u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd  \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd \u0ba4\u0bc2\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b88\u0bb0\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd-\u0b89\u0b9a\u0bcd\u0b9a-\u0ba4\u0bb2\u0bc8\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd-\u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0b9a\u0bcd-\u0b9a\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bcd-\u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd-\u0ba4\u0bc2\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bc1/175-379468",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783238591.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-9e654f0d",
+    "num": "tamilmirrorlk-9e654f0d",
+    "date_str": "2026-07-05",
+    "description": "\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4 \u0bae\u0bc0\u0ba9\u0bcd\u0baa\u0bbf\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f 27 \u0baa\u0bc7\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0b9f\u0bcd\u0b9f\u0bb5\u0bbf\u0bb0\u0bcb\u0ba4-\u0bae\u0bc0\u0ba9\u0bcd\u0baa\u0bbf\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0b88\u0b9f\u0bc1\u0baa\u0b9f\u0bcd\u0b9f-27-\u0baa\u0bc7\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-379469",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783239135.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-31fb243e",
+    "num": "dailymirrorlk-31fb243e",
+    "date_str": "2026-07-05",
+    "description": "Mahinda Rajapaksa confident Opposition can form new government",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mahinda-Rajapaksa-confident-Opposition-can-form-new-government/108-344725",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783239273.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-9b7948b1",
+    "num": "dailymirrorlk-9b7948b1",
+    "date_str": "2026-07-05",
+    "description": "Govt has ample funds to fast-track development projects: Minister Bimal Rathnayaka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Govt-has-ample-funds-to-fast-track-development-projects-Minister-Bimal-Rathnayaka/108-344726",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783239488.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-042ad0a5",
+    "num": "tamilmirrorlk-042ad0a5",
+    "date_str": "2026-07-05",
+    "description": "\u0b85\u0bb2\u0bbf \u0b95\u0bae\u0ba9\u0bc7\u0baf\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0b9a\u0bcd\u0b9a\u0b9f\u0b99\u0bcd\u0b95\u0bc1: \u0bb5\u0bbe\u0bb0\u0bbf\u0b9a\u0bc1\u0b95\u0bb3\u0bcd \u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b85\u0bb2\u0bbf-\u0b95\u0bae\u0ba9\u0bc7\u0baf\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0b9a\u0bcd\u0b9a\u0b9f\u0b99\u0bcd\u0b95\u0bc1-\u0bb5\u0bbe\u0bb0\u0bbf\u0b9a\u0bc1\u0b95\u0bb3\u0bcd-\u0baa\u0b99\u0bcd\u0b95\u0bc7\u0bb1\u0bcd\u0baa\u0bc1/50-379470",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783239515.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-a12a3cdd",
+    "num": "dailymirrorlk-a12a3cdd",
+    "date_str": "2026-07-05",
+    "description": "Mexico return luxury watches gifted by YouTuber",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mexico-return-luxury-watches-gifted-by-YouTuber/108-344727",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783239639.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-5244e086",
+    "num": "tamilmirrorlk-5244e086",
+    "date_str": "2026-07-05",
+    "description": "\u2018\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u2019   \u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0ba9 \u0b95\u0bb5\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf-\u0ba4\u0bbf\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0baf\u0bbe\u0ba9-\u0b95\u0bb5\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf\u0b95\u0bcd-\u0b95\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bcd/54-379471",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783241151.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-tamilmirrorlk-8f279dca",
+    "num": "tamilmirrorlk-8f279dca",
+    "date_str": "2026-07-05",
+    "description": "\u2018\u0b92\u0bb0\u0bc7 \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd \u0b85\u0bb4\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd\u2019: \u0b95\u0bbe\u0bae\u0bbf\u0ba9\u0bc7\u0baf\u0bbf\u0ba9\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0b9a\u0bcd \u0b9a\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bcd \u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b92\u0bb0\u0bc7-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1-\u0bb5\u0bc0\u0b9a\u0bcd\u0b9a\u0bbf\u0bb2\u0bcd-\u0b85\u0bb4\u0bbf\u0b95\u0bcd\u0b95-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd-\u0b95\u0bbe\u0bae\u0bbf\u0ba9\u0bc7\u0baf\u0bbf\u0ba9\u0bcd-\u0b87\u0bb1\u0bc1\u0ba4\u0bbf\u0b9a\u0bcd-\u0b9a\u0b9f\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bcd-\u0b9f\u0bbf\u0bb0\u0bae\u0bcd\u0baa\u0bcd/50-379472",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783242577.0
   }
 ]
