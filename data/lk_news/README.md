@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--06_17:18:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--06_19:03:27-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**121,994** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,009** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-06-dailymirrorlk-61b063b2",
-    "num": "dailymirrorlk-61b063b2",
+    "doc_id": "2026-07-06-dailymirrorlk-e611525a",
+    "num": "dailymirrorlk-e611525a",
     "date_str": "2026-07-06",
-    "description": "Actual dengue cases may exceed official count: GMOA",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Actual-dengue-cases-may-exceed-official-count-GMOA/108-344825",
+    "description": "Clash erupted between two rival groups involved in underworld, drugs: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Clash-erupted-between-two-rival-groups-involved-in-underworld-drugs-Minister/108-344840",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783337887.0
+    "time_ut": 1783342328.0
 }
 ```
 
@@ -41,6 +41,19 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-06 | `dailymirrorlk-e611525a` | Clash erupted between two rival groups involved in underworld, drugs: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-e611525a)
+- 2026-07-06 | `dailymirrorlk-7102118a` | SMB Finance PLC strengthens growth momentum following successful transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-7102118a)
+- 2026-07-06 | `dailymirrorlk-64937e07` | Committee appointed to probe Negombo prison violence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-64937e07)
+- 2026-07-06 | `dailymirrorlk-e728f067` | Demanding permanent appointments... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-e728f067)
+- 2026-07-06 | `adalk-7f10a88f` | බන්ධනාගාර ගැටුමේ වගකිම භාර ගන්නවා | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-adalk-7f10a88f)
+- 2026-07-06 | `dailymirrorlk-712d19b4` | Early market gains fade as selling pressure dominates trading | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-712d19b4)
+- 2026-07-06 | `dailymirrorlk-1b1c776d` | No casualties among foreign inmates in Negombo prison clash: Authorities | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-1b1c776d)
+- 2026-07-06 | `tamilmirrorlk-07d58688` | ரம்புட்டான் ஓட்டோ கவிழ்ந்ததில் மூவர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-tamilmirrorlk-07d58688)
+- 2026-07-06 | `dailymirrorlk-c8d7f944` | Government launches immediate measures to tackle human-elephant conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-c8d7f944)
+- 2026-07-06 | `dailymirrorlk-b401a108` | Govt eyes dengue vaccine, Wolbachia method to combat rising cases | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-b401a108)
+- 2026-07-06 | `dailymirrorlk-c3038c17` | IRD opens e-service portal for 2025/2026 income tax returns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-c3038c17)
+- 2026-07-06 | `tamilmirrorlk-67656b51` | நான் பொறுப்பேற்கிறேன்: நீதி அமைச்சர் ஹர்ஷன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-tamilmirrorlk-67656b51)
+- 2026-07-06 | `dailymirrorlk-90d5e848` | Justice Minister takes responsibility over Negombo prison clash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-90d5e848)
 - 2026-07-06 | `dailymirrorlk-61b063b2` | Actual dengue cases may exceed official count: GMOA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-61b063b2)
 - 2026-07-06 | `dailymirrorlk-f76235e7` | Immigration deputy controller nabbed over alleged fake passport issuance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-f76235e7)
 - 2026-07-06 | `tamilmirrorlk-c8938f11` | ’’இது ஒரு பழிவாங்கல் நடவடிக்கை’’ மஹிந்த ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-tamilmirrorlk-c8938f11)
@@ -48,19 +61,6 @@ A collection of lk_news documents.
 - 2026-07-06 | `tamilmirrorlk-6cdda7d5` | ’’எங்கள் பிள்ளைகள் எங்கே  என்று தெரியவில்லை’’ - கைதி ஒருவரின் உறவினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-tamilmirrorlk-6cdda7d5)
 - 2026-07-06 | `dailymirrorlk-a89bd28c` | Impeachment trial of Philippine Vice President Sara Duterte begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-a89bd28c)
 - 2026-07-06 | `tamilmirrorlk-c1227bb4` | என் மகனை என்னிடம் தாருங்கள்: தாய் உருக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-tamilmirrorlk-c1227bb4)
-- 2026-07-06 | `adalk-d6b3aa54` | ජාතික බදු සතිය අද සිට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-adalk-d6b3aa54)
-- 2026-07-06 | `tamilmirrorlk-750977f6` | சிறைச்சாலை மோதல்: உயிரிழந்த   அதிகாரிகளின் எண்ணிக்கை அதிகரிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-tamilmirrorlk-750977f6)
-- 2026-07-06 | `tamilmirrorlk-ea0070d0` | பாதாள உலகக் குழு உறுப்பினருக்கு கடவுச்சீட்டு வழங்கிய பிரதி கட்டுப்பாட்டாளர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-tamilmirrorlk-ea0070d0)
-- 2026-07-06 | `virakesarilk-de0b60f2` | நீர்கொழும்பு சிறைச்சாலை மோதல் குறித்து அறிக்கை கோருகிறது நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-de0b60f2)
-- 2026-07-06 | `virakesarilk-c2941454` | கடற்பரப்புகளில் காற்றின் வேகம் அதிகரிப்பதுடன் கடல் மிகவும் கொந்தளிப்பாகக் காணப்படும் - வளிமண்டலவியல் திணைக்களம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-c2941454)
-- 2026-07-06 | `virakesarilk-828c7ae0` | நீர்கொழும்பு சிறைச்சாலை மோதலுக்கு அரசாங்கமே முழுப் பொறுப்பையும் ஏற்க வேண்டும் - எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-828c7ae0)
-- 2026-07-06 | `dailymirrorlk-4943476b` | Inmates to be transferred following deadly Negombo Prison riot | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-4943476b)
-- 2026-07-06 | `dailymirrorlk-be41a7f9` | China test fires missile into Pacific, alarming regional powers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-be41a7f9)
-- 2026-07-06 | `adalk-c65ec095` | මිගමුව බන්ධනාගාර ගැටුම ගැන හොයන්න කමිටුවක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-adalk-c65ec095)
-- 2026-07-06 | `adalk-339f483d` | මිගමුව බන්ධනාගාර ගැටුවෙන් මිය ගිය ගණන 25ක් දක්වා ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-adalk-339f483d)
-- 2026-07-06 | `dailymirrorlk-a5632a90` | Hirunika’s appeal against abduction conviction to be heard on August 6 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-a5632a90)
-- 2026-07-06 | `tamilmirrorlk-c7377876` | சிறைச்சாலை மோதல்: உயிரிழப்பு 25 ஆக உயர்வு; 100-க்கும் மேற்பட்டோர் படுகாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-tamilmirrorlk-c7377876)
-- 2026-07-06 | `virakesarilk-8e2908a1` | நீர்கொழும்பு சிறைச்சாலை மோதல்: உயிரிழந்தவர்களின் எண்ணிக்கை 25 ஆக அதிகரிப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-8e2908a1)
 
 ---
 
