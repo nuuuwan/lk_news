@@ -281430,6 +281430,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-06-tamilmirrorlk-6643f557",
+    "num": "tamilmirrorlk-6643f557",
+    "date_str": "2026-07-06",
+    "description": "\u0b95\u0b9f\u0bcd\u0b9f\u0b9f\u0bae\u0bcd \u0b87\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd 6 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0b9f\u0bcd\u0b9f\u0b9f\u0bae\u0bcd-\u0b87\u0b9f\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1-\u0bb5\u0bbf\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4\u0ba4\u0bbf\u0bb2\u0bcd-6-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-379515",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783316577.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-06-virakesarilk-0ba48213",
     "num": "virakesarilk-0ba48213",
     "date_str": "2026-07-06",
@@ -281749,6 +281760,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailymirrorlk-d3d1f9ce",
+    "num": "dailymirrorlk-d3d1f9ce",
+    "date_str": "2026-07-06",
+    "description": "Death toll climbs to 25 in deadly Negombo Prison violence",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Death-toll-climbs-to-25-in-deadly-Negombo-Prison-violence/108-344813",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783323834.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-06-virakesarilk-8e2908a1",
     "num": "virakesarilk-8e2908a1",
     "date_str": "2026-07-06",
@@ -281760,6 +281782,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-06-tamilmirrorlk-c7377876",
+    "num": "tamilmirrorlk-c7377876",
+    "date_str": "2026-07-06",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bcb\u0ba4\u0bb2\u0bcd: \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1 25 \u0b86\u0b95 \u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1; 100-\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1-25-\u0b86\u0b95-\u0b89\u0baf\u0bb0\u0bcd\u0bb5\u0bc1-100-\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0bae\u0bc7\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd-\u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd/150-379539",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783324473.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailymirrorlk-a5632a90",
+    "num": "dailymirrorlk-a5632a90",
+    "date_str": "2026-07-06",
+    "description": "Hirunika\u2019s appeal against abduction conviction to be heard on August 6",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Hirunikas-appeal-against-abduction-conviction-to-be-heard-on-August-6/108-344814",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783325051.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-06-adalk-339f483d",
     "num": "adalk-339f483d",
     "date_str": "2026-07-06",
@@ -281768,6 +281812,39 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1783325563.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-adalk-c65ec095",
+    "num": "adalk-c65ec095",
+    "date_str": "2026-07-06",
+    "description": "\u0db8\u0dd2\u0d9c\u0db8\u0dd4\u0dc0 \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb \u0d9c\u0dd0\u0da7\u0dd4\u0db8 \u0d9c\u0dd0\u0db1 \u0dc4\u0ddc\u0dba\u0db1\u0dca\u0db1 \u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd2\u0d9c\u0db8\u0dd4\u0dc0-\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb-\u0d9c\u0dd0\u0da7\u0dd4\u0db8-\u0d9c\u0dd0\u0db1-\u0dc4\u0ddc\u0dba\u0db1\u0dca\u0db1-\u0d9a\u0db8\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca/11-423131",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783325798.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailymirrorlk-be41a7f9",
+    "num": "dailymirrorlk-be41a7f9",
+    "date_str": "2026-07-06",
+    "description": "China test fires missile into Pacific, alarming regional powers",
+    "url_metadata": "https://www.dailymirror.lk/international/China-test-fires-missile-into-Pacific-alarming-regional-powers/107-344816",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783327270.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailymirrorlk-4943476b",
+    "num": "dailymirrorlk-4943476b",
+    "date_str": "2026-07-06",
+    "description": "Inmates to be transferred following deadly Negombo Prison riot",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Inmates-to-be-transferred-following-deadly-Negombo-Prison-riot/108-344817",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783328364.0
   },
   {
     "doc_type": "lk_news",
@@ -281801,5 +281878,115 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1783330980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-tamilmirrorlk-ea0070d0",
+    "num": "tamilmirrorlk-ea0070d0",
+    "date_str": "2026-07-06",
+    "description": "\u0baa\u0bbe\u0ba4\u0bbe\u0bb3 \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bc1\u0bb4\u0bc1 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0b9f\u0bb5\u0bc1\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf \u0baa\u0bbf\u0bb0\u0ba4\u0bbf \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0ba4\u0bbe\u0bb3-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bc1\u0bb4\u0bc1-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b95\u0b9f\u0bb5\u0bc1\u0b9a\u0bcd\u0b9a\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bbf\u0baf-\u0baa\u0bbf\u0bb0\u0ba4\u0bbf-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb3\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-379542",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783333024.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-tamilmirrorlk-750977f6",
+    "num": "tamilmirrorlk-750977f6",
+    "date_str": "2026-07-06",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bcb\u0ba4\u0bb2\u0bcd: \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4   \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b8e\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-379543",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783333168.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-adalk-d6b3aa54",
+    "num": "adalk-d6b3aa54",
+    "date_str": "2026-07-06",
+    "description": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0db6\u0daf\u0dd4 \u0dc3\u0dad\u0dd2\u0dba \u0d85\u0daf \u0dc3\u0dd2\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0db6\u0daf\u0dd4-\u0dc3\u0dad\u0dd2\u0dba-\u0d85\u0daf-\u0dc3\u0dd2\u0da7/11-423132",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783333796.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-tamilmirrorlk-c1227bb4",
+    "num": "tamilmirrorlk-c1227bb4",
+    "date_str": "2026-07-06",
+    "description": "\u0b8e\u0ba9\u0bcd \u0bae\u0b95\u0ba9\u0bc8 \u0b8e\u0ba9\u0bcd\u0ba9\u0bbf\u0b9f\u0bae\u0bcd \u0ba4\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd: \u0ba4\u0bbe\u0baf\u0bcd \u0b89\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0ba9\u0bcd-\u0bae\u0b95\u0ba9\u0bc8-\u0b8e\u0ba9\u0bcd\u0ba9\u0bbf\u0b9f\u0bae\u0bcd-\u0ba4\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0ba4\u0bbe\u0baf\u0bcd-\u0b89\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd/175-379546",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783335281.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailymirrorlk-a89bd28c",
+    "num": "dailymirrorlk-a89bd28c",
+    "date_str": "2026-07-06",
+    "description": "Impeachment trial of Philippine Vice President Sara Duterte begins",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Impeachment-trial-of-Philippine-Vice-President-Sara-Duterte-begins/108-344822",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783335297.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-tamilmirrorlk-6cdda7d5",
+    "num": "tamilmirrorlk-6cdda7d5",
+    "date_str": "2026-07-06",
+    "description": "\u2019\u2019\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0b95\u0bb3\u0bcd \u0b8e\u0b99\u0bcd\u0b95\u0bc7  \u0b8e\u0ba9\u0bcd\u0bb1\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\u2019\u2019 - \u0b95\u0bc8\u0ba4\u0bbf \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd \u0b89\u0bb1\u0bb5\u0bbf\u0ba9\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0b95\u0bb3\u0bcd-\u0b8e\u0b99\u0bcd\u0b95\u0bc7-\u0b8e\u0ba9\u0bcd\u0bb1\u0bc1-\u0ba4\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8-\u0b95\u0bc8\u0ba4\u0bbf-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bbf\u0ba9\u0bcd-\u0b89\u0bb1\u0bb5\u0bbf\u0ba9\u0bb0\u0bcd/175-379547",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783335605.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailymirrorlk-6fbaa2b9",
+    "num": "dailymirrorlk-6fbaa2b9",
+    "date_str": "2026-07-06",
+    "description": "Time to taste seasonal fruits...",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Time-to-taste-seasonal-fruits/110-344823",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783335847.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-tamilmirrorlk-c8938f11",
+    "num": "tamilmirrorlk-c8938f11",
+    "date_str": "2026-07-06",
+    "description": "\u2019\u2019\u0b87\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \u0baa\u0bb4\u0bbf\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd \u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8\u2019\u2019 \u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4 \u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0ba4\u0bc1-\u0b92\u0bb0\u0bc1-\u0baa\u0bb4\u0bbf\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd-\u0ba8\u0b9f\u0bb5\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0bae\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4-\u0bb0\u0bbe\u0b9c\u0baa\u0b95\u0bcd\u0bb7/175-379548",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783335920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailymirrorlk-f76235e7",
+    "num": "dailymirrorlk-f76235e7",
+    "date_str": "2026-07-06",
+    "description": "Immigration deputy controller nabbed over alleged fake passport issuance",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Immigration-deputy-controller-nabbed-over-alleged-fake-passport-issuance/108-344824",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783336965.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailymirrorlk-61b063b2",
+    "num": "dailymirrorlk-61b063b2",
+    "date_str": "2026-07-06",
+    "description": "Actual dengue cases may exceed official count: GMOA",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Actual-dengue-cases-may-exceed-official-count-GMOA/108-344825",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783337887.0
   }
 ]
