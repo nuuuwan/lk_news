@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--06_19:03:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--06_20:54:41-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,009** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,014** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-06-dailymirrorlk-e611525a",
-    "num": "dailymirrorlk-e611525a",
+    "doc_id": "2026-07-06-dailymirrorlk-acd0c3d1",
+    "num": "dailymirrorlk-acd0c3d1",
     "date_str": "2026-07-06",
-    "description": "Clash erupted between two rival groups involved in underworld, drugs: Minister",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Clash-erupted-between-two-rival-groups-involved-in-underworld-drugs-Minister/108-344840",
+    "description": "Inmates\u2019 plan was to sabotage smooth functioning of prison operations: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Inmates-plan-was-to-sabotage-smooth-functioning-of-prison-operations-Minister/108-344845",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783342328.0
+    "time_ut": 1783350031.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-06 | `dailymirrorlk-acd0c3d1` | Inmates’ plan was to sabotage smooth functioning of prison operations: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-acd0c3d1)
+- 2026-07-06 | `dailymirrorlk-a47c75b8` | 2027 public and bank holidays gazetted | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-a47c75b8)
+- 2026-07-06 | `dailymirrorlk-6a35bbbd` | Narahenpita railway station reopens after renovation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-6a35bbbd)
+- 2026-07-06 | `dailymirrorlk-e5146a70` | Negombo prison clash: Inmates moved to Bogambara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-e5146a70)
+- 2026-07-06 | `dailymirrorlk-3ff58e34` | Three elephant corridors opened to address human-elephant conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-3ff58e34)
 - 2026-07-06 | `dailymirrorlk-e611525a` | Clash erupted between two rival groups involved in underworld, drugs: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-e611525a)
 - 2026-07-06 | `dailymirrorlk-7102118a` | SMB Finance PLC strengthens growth momentum following successful transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-7102118a)
 - 2026-07-06 | `dailymirrorlk-64937e07` | Committee appointed to probe Negombo prison violence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-64937e07)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-07-06 | `dailymirrorlk-90d5e848` | Justice Minister takes responsibility over Negombo prison clash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-90d5e848)
 - 2026-07-06 | `dailymirrorlk-61b063b2` | Actual dengue cases may exceed official count: GMOA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-61b063b2)
 - 2026-07-06 | `dailymirrorlk-f76235e7` | Immigration deputy controller nabbed over alleged fake passport issuance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-f76235e7)
-- 2026-07-06 | `tamilmirrorlk-c8938f11` | ’’இது ஒரு பழிவாங்கல் நடவடிக்கை’’ மஹிந்த ராஜபக்ஷ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-tamilmirrorlk-c8938f11)
-- 2026-07-06 | `dailymirrorlk-6fbaa2b9` | Time to taste seasonal fruits... | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-6fbaa2b9)
-- 2026-07-06 | `tamilmirrorlk-6cdda7d5` | ’’எங்கள் பிள்ளைகள் எங்கே  என்று தெரியவில்லை’’ - கைதி ஒருவரின் உறவினர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-tamilmirrorlk-6cdda7d5)
-- 2026-07-06 | `dailymirrorlk-a89bd28c` | Impeachment trial of Philippine Vice President Sara Duterte begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-a89bd28c)
-- 2026-07-06 | `tamilmirrorlk-c1227bb4` | என் மகனை என்னிடம் தாருங்கள்: தாய் உருக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-tamilmirrorlk-c1227bb4)
 
 ---
 
