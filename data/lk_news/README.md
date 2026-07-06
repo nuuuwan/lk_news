@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--07_02:24:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--07_04:13:30-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,051** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,052** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-06-dailyftlk-a7eea186",
-    "num": "dailyftlk-a7eea186",
-    "date_str": "2026-07-06",
-    "description": "Entrepreneurship: Nine provinces, one engine - The \u201cPraLe\u201d triangulation model",
-    "url_metadata": "https://www.ft.lk/columns/Entrepreneurship-Nine-provinces-one-engine-The-PraLe-triangulation-model/4-794271",
-    "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1783362048.0
+    "doc_id": "2026-07-07-tamilmirrorlk-6a958814",
+    "num": "tamilmirrorlk-6a958814",
+    "date_str": "2026-07-07",
+    "description": "\u0bae\u0bc6\u0bb0\u0bbf\u0ba9\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd \u0b87\u0bb1\u0bc1\u0ba4\u0bbf \u0ba8\u0bc7\u0bb0 \u0b95\u0bcb\u0bb2\u0bcd: \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0bb0\u0bca\u0ba9\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd \u0baa\u0bcb\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0bae\u0bc6\u0bb0\u0bbf\u0ba9\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd-\u0b87\u0bb1\u0bc1\u0ba4\u0bbf-\u0ba8\u0bc7\u0bb0-\u0b95\u0bcb\u0bb2\u0bcd-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0bb0\u0bca\u0ba9\u0bbe\u0bb2\u0bcd\u0b9f\u0bcb\u0bb5\u0bbf\u0ba9\u0bcd-\u0baa\u0bcb\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bcd/44-379560",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783372799.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-07 | `tamilmirrorlk-6a958814` | மெரினோவின் இறுதி நேர கோல்: வெளியேற்றப்பட்ட ரொனால்டோவின் போர்த்துக்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-tamilmirrorlk-6a958814)
 - 2026-07-06 | `dailyftlk-a7eea186` | Entrepreneurship: Nine provinces, one engine - The “PraLe” triangulation model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-a7eea186)
 - 2026-07-06 | `virakesarilk-f621860e` | ட்ரம்பின் செல்வாக்கும் பீபாவின் நிலைமாற்றமும் சர்ச்சையைத் தோற்றுவித்துள்ளது;  16 அணிகள் சுற்றில் அமெரிக்கா - பெல்ஜியம் மோதுகின்றன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-f621860e)
 - 2026-07-06 | `dailyftlk-7641ba34` | The fastest foreign exchange in Sri Lanka is not earning | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-7641ba34)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-07-06 | `virakesarilk-5b41c3cb` | கிராம மக்களின் ஆதரவுடன் மீண்டும் விகாரைக்கு அழைத்து வரப்பட்டார் இராஜாங்கனை சத்தாரதன தேரர் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-5b41c3cb)
 - 2026-07-06 | `dailymirrorlk-e5146a70` | Negombo prison clash: Inmates moved to Bogambara | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-e5146a70)
 - 2026-07-06 | `virakesarilk-325b8a6f` | ‘Dream Destination’ திட்டத்தில் நவீனமயமான நாராஹேன்பிட்டி புகையிரத நிலையம் திறந்து வைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-325b8a6f)
-- 2026-07-06 | `dailymirrorlk-3ff58e34` | Three elephant corridors opened to address human-elephant conflict | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-3ff58e34)
 
 ---
 
