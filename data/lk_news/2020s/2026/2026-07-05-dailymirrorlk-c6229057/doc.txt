@@ -1,0 +1,15 @@
+Seylan Bank launches Google Pay Integration for Seylan Cards
+
+Seylan Bank PLC recently announced a major advancement in Sri Lanka’s digital payments landscape through the integration of all Seylan Credit and Debit Cards with Google Pay, enabling customers to make seamless, secure, and contactless transactions directly from their Android devices.
+
+This latest development positions Seylan Bank at the forefront of Sri Lankan financial innovation, reinforcing the Bank’s commitment to enhancing customer convenience while driving the adoption of digital payment solutions across the country. The integration is supported by global payment networks Visa and Mastercard, further ensuring wider acceptance and reliability for local and international users.
+
+The service enables faster, safer, and more convenient transactions for Seylan Cardholders, replacing the need for physical cards. The solution, in line with Seylan Bank’s promise of delivering value on “heartfelt essentials”, is designed to support everyday purchases, from groceries and dining to festive shopping, while also allowing customers to focus on what truly matters.
+
+Speaking on the launch, Ruchith Liyanage, Head of Cards at Seylan Bank, stated “Seylan Bank continues to prioritise innovation that enhances customer experience. With the integration of Google Pay, we are enabling our Cardholders to embrace a smarter, more secure way of transacting. This is not just about convenience; it’s a revolution initiated to bring value into the lives of our Cardholders while simultaneously allowing them to enjoy the benefits of modern financial technology.”
+
+It is noteworthy that the solution leverages advanced tokenisation to secure every transaction. Rather than sharing actual card details, the solution replaces them with encrypted digital tokens, ensuring sensitive information is neither exposed to merchants nor stored on devices. The enrolment of each and everyCard is authenticated through one-time passwords and bank verification, delivering a service that unites global security standards with everyday ease and peace of mind. It is designed to support a wide range of daily transactions, from retail and dining to commuting and online payments.
+
+The integration underscores Seylan Bank’s broader strategy to promote cashless transactions, improve payment security, and deliver an effortless banking experience. By leveraging mobile technology, the Bank continues to support Sri Lanka’s transition towards a more digitally connected economy.
+
+Currently, the Google Pay functionality is available for Android users, with further enhancements expected as adoption grows. Seylan Bank invites all Seylan Credit and Debit Cardholders to activate Google Pay and enjoy exclusive offers, enhanced security, and a seamless payment experience.
