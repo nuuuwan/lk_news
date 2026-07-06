@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--06_06:48:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--06_09:03:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**121,847** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**121,889** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-06**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-06-dailyftlk-90150858",
-    "num": "dailyftlk-90150858",
+    "doc_id": "2026-07-06-dailymirrorlk-bc5c585f",
+    "num": "dailymirrorlk-bc5c585f",
     "date_str": "2026-07-06",
-    "description": "New Anthoney\u2019s Feeds shines at NCQP 2026",
-    "url_metadata": "https://www.ft.lk/business/New-Anthoney-s-Feeds-shines-at-NCQP-2026/34-794262",
+    "description": "QR code fuel issuance system to continue; no change to quota",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/QR-code-fuel-issuance-system-to-continue-no-change-to-quota/108-344777",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1783294674.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783308287.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-06 | `dailymirrorlk-bc5c585f` | QR code fuel issuance system to continue; no change to quota | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-bc5c585f)
+- 2026-07-06 | `virakesarilk-3a015e4a` | இன்றைய வானிலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-3a015e4a)
+- 2026-07-06 | `virakesarilk-d80c32a1` | சர்வதேச சந்தையில் மசகு எண்ணெய் விலை வீழ்ச்சி! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-d80c32a1)
+- 2026-07-06 | `virakesarilk-878f2acb` | விஜயதாசவின் வீட்டுக்குச் சென்ற ரணில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-878f2acb)
+- 2026-07-06 | `virakesarilk-33cae54f` | நாடளாவிய ரீதியில் 1,000 தொல்பொருள் தளங்களைப் பாதுகாக்கும் தேசிய வேலைத்திட்டமும் தொல்பொருள் இருவாரமும் நாளை ஆரம்பம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-33cae54f)
+- 2026-07-06 | `virakesarilk-2d05e779` | நீர்கொழும்பு சிறைச்சாலையில் கைதிகளுக்கிடையே மோதல்: விசாரணைகளுக்காக விசேட குழு நியமனம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-2d05e779)
+- 2026-07-06 | `adalk-751fd4b8` | හම්බන්තොට වරායෙන් රු. කෝටි 12 ක වරිපනම් බදු පැහැර හැරීමක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-adalk-751fd4b8)
+- 2026-07-06 | `dailymirrorlk-1813d997` | NTC launches islandwide inspections as revised bus fares take effect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-1813d997)
+- 2026-07-06 | `virakesarilk-56079d98` | புதிய பேருந்து கட்டணத் திருத்தம் இன்று முதல் அமுல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-56079d98)
+- 2026-07-06 | `virakesarilk-f7db888f` | சமகாலச் சமூகமும் போராளிகளின் வகிபாகமும் எனும் தலைப்பில் வவுனியாவில் நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-f7db888f)
+- 2026-07-06 | `dailymirrorlk-a33561be` | Delft road work begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-a33561be)
+- 2026-07-06 | `virakesarilk-0c401997` | இறக்காமத்தில் சுற்றுலா நீதிமன்றம்: கலந்துரையாடி நடவடிக்கை – அமைச்சர் ஹர்ஷண நாணயக்கார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-0c401997)
+- 2026-07-06 | `virakesarilk-22d1e080` | மருதங்கேணி தேவதுரவில் 11.2657 ஹெக்டயர் காணி சுவீகரிப்பு நடவடிக்கை; காணி அளவீட்டுக்கு பொது அறிவித்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-22d1e080)
+- 2026-07-06 | `dailymirrorlk-04422174` | Last turbines delivered for Mannar wind farm | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-04422174)
+- 2026-07-06 | `virakesarilk-997bc8c4` | மருந்துத் தட்டுப்பாட்டால் தனியார் சுகாதாரத் துறையும் பாதிப்பு – வைத்தியர் சமல் சஞ்சீவ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-997bc8c4)
+- 2026-07-06 | `virakesarilk-d8bbc724` | நெடுந்தீவில் புதிய எரிபொருள் நிரப்பு நிலையத்திற்கு அடிக்கல் நாட்டப்பட்டது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-d8bbc724)
+- 2026-07-06 | `virakesarilk-0a9f2c17` | உயர் பாதுகாப்பு வலய காணிகளை விடுவிக்கக் கோரி 3ஆவது வாரமாக போராட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-0a9f2c17)
+- 2026-07-06 | `virakesarilk-74e9b942` | ரூ.135.9 மில்லியனில் நெடுந்தீவு மாவலி–பெரியதுறை வீதி அபிவிருத்திப் பணி ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-74e9b942)
+- 2026-07-06 | `virakesarilk-0e988e22` | நீர்கொழும்பு சிறைக் கூரை இடிந்து விழுந்தது விபத்து; 4 பேர் வைத்தியசாலையில் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-virakesarilk-0e988e22)
 - 2026-07-06 | `dailyftlk-90150858` | New Anthoney’s Feeds shines at NCQP 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-90150858)
-- 2026-07-06 | `dailyftlk-932f07ba` | Atlas launches Sri Lanka’s first SLS certified water bottle, reinforcing its commitment to children’s safety | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-932f07ba)
-- 2026-07-06 | `dailyftlk-863cc90f` | Sri Lanka, Pakistan agree to boost trade, investment and entrepreneurship cooperation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-863cc90f)
-- 2026-07-06 | `dailyftlk-fbf86b27` | EDB bids farewell to BOI DG | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-fbf86b27)
-- 2026-07-06 | `dailyftlk-e99ef59f` | Vidusha Nathavitharana inspires IDL leadership with session on ‘Collective Leadership’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-e99ef59f)
-- 2026-07-06 | `dailyftlk-11a92fa7` | Celebrating 75 years of Colombo Plan | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-11a92fa7)
-- 2026-07-06 | `dailyftlk-6a7379ce` | Dayasiri says he has stepped away from Facebook | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-6a7379ce)
-- 2026-07-06 | `dailyftlk-81ec670c` | Two inmates killed, 35  injured in drugs-related  Negombo Prison clash | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-81ec670c)
-- 2026-07-06 | `tamilmirrorlk-7dd85bc8` | உலகக் கிண்ணத்திலிருந்து பிரேசில் அதிர்ச்சி வெளியேற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-tamilmirrorlk-7dd85bc8)
-- 2026-07-06 | `dailyftlk-c7af241e` | ABC of becoming an upper middle-income country: Risks outweigh benefits | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-c7af241e)
-- 2026-07-06 | `dailyftlk-8b7c853a` | Is Sri Lanka in a state of quagmire politically and financially? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-8b7c853a)
-- 2026-07-06 | `dailyftlk-9b2a3193` | Mahaweli Doctrine: Water as foreign policy in Sri Lanka’s national renaissance | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-9b2a3193)
-- 2026-07-06 | `dailyftlk-d1917d81` | China says stands ready to continue working alongside Sri Lanka, strengthen synergy of development strategies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-d1917d81)
-- 2026-07-06 | `dailymirrorlk-0e9c2b4b` | Trump thanks Fifa after USA striker Balogun’s ban suspended | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-0e9c2b4b)
-- 2026-07-06 | `dailymirrorlk-720b7cbe` | AWS to charge 18% VAT on unregistered Sri Lankan customers, but implementation date still pending | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-720b7cbe)
-- 2026-07-06 | `dailymirrorlk-bfdfeef0` | Central Bank pulls the plug on Nation Lanka Finance after failed rescue attempts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-bfdfeef0)
-- 2026-07-06 | `dailymirrorlk-cf77ed65` | Trade policy expert urges quality growth initiative with JICA assistance to boost exports | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailymirrorlk-cf77ed65)
-- 2026-07-05 | `dailymirrorlk-20b26a41` | PGP Glass exports fall 22% as furnace overhaul forces shift to home market | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-dailymirrorlk-20b26a41)
-- 2026-07-05 | `dailymirrorlk-87bd4af7` | SEVEN HEAVEN! Australia Crowned Women’s T20 World Cup Champions | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-dailymirrorlk-87bd4af7)
-- 2026-07-05 | `dailymirrorlk-0489dbd2` | Melwa powers WiNE Forum 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-05-dailymirrorlk-0489dbd2)
 
 ---
 
