@@ -282538,5 +282538,27 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1783356840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-7641ba34",
+    "num": "dailyftlk-7641ba34",
+    "date_str": "2026-07-06",
+    "description": "The fastest foreign exchange in Sri Lanka is not earning",
+    "url_metadata": "https://www.ft.lk/columns/The-fastest-foreign-exchange-in-Sri-Lanka-is-not-earning/4-794270",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783361347.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-a7eea186",
+    "num": "dailyftlk-a7eea186",
+    "date_str": "2026-07-06",
+    "description": "Entrepreneurship: Nine provinces, one engine - The \u201cPraLe\u201d triangulation model",
+    "url_metadata": "https://www.ft.lk/columns/Entrepreneurship-Nine-provinces-one-engine-The-PraLe-triangulation-model/4-794271",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783362048.0
   }
 ]
