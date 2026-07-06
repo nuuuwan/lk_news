@@ -275556,6 +275556,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-02-islandlk-55632397",
+    "num": "islandlk-55632397",
+    "date_str": "2026-07-02",
+    "description": "Emergency gone, much more to be done",
+    "url_metadata": "http://island.lk/emergency-gone-much-more-to-be-done/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783007160.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-02-virakesarilk-985f0992",
     "num": "virakesarilk-985f0992",
     "date_str": "2026-07-02",
@@ -278482,6 +278493,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-d7510a2e",
+    "num": "islandlk-d7510a2e",
+    "date_str": "2026-07-04",
+    "description": "The NPP\u2019s New Challenge: Balancing Easter Lawfare and Economic Welfare",
+    "url_metadata": "http://island.lk/the-npps-new-challenge-balancing-easter-lawfare-and-economic-welfare/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783158900.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-04-dailymirrorlk-46096644",
     "num": "dailymirrorlk-46096644",
     "date_str": "2026-07-04",
@@ -278886,6 +278908,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1783168260.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-f91401c7",
+    "num": "islandlk-f91401c7",
+    "date_str": "2026-07-04",
+    "description": "How decentralization and centralization worked within SL\u2019s university system",
+    "url_metadata": "http://island.lk/how-decentralization-and-centralization-worked-within-sls-university-system/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783168440.0
   },
   {
     "doc_type": "lk_news",
@@ -279527,6 +279560,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-49b32d94",
+    "num": "islandlk-49b32d94",
+    "date_str": "2026-07-05",
+    "description": "Will Sri Lanka Become a \u201d Digital Workspace\u201d for Chinese Cyber criminals?",
+    "url_metadata": "http://island.lk/will-sri-lanka-become-a-digital-workspace-for-chinese-cyber-criminals/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783237320.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-05-dailymirrorlk-4348fe92",
     "num": "dailymirrorlk-4348fe92",
     "date_str": "2026-07-05",
@@ -279879,6 +279923,61 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-5f4b9085",
+    "num": "islandlk-5f4b9085",
+    "date_str": "2026-07-05",
+    "description": "Sri Lanka Society of Hypertension to hold Hypertension Summit 2026",
+    "url_metadata": "http://island.lk/sri-lanka-society-of-hypertension-to-hold-hypertension-summit-2026/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783257360.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-ee35b5eb",
+    "num": "islandlk-ee35b5eb",
+    "date_str": "2026-07-05",
+    "description": "Seylan Bank launches Google Pay integration for Seylan Cards",
+    "url_metadata": "http://island.lk/seylan-bank-launches-google-pay-integration-for-seylan-cards/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783257420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-bf24b184",
+    "num": "islandlk-bf24b184",
+    "date_str": "2026-07-05",
+    "description": "DIMO expands RE portfolio with 18MW solar power addition in Galle",
+    "url_metadata": "http://island.lk/dimo-expands-re-portfolio-with-18mw-solar-power-addition-in-galle/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783257480.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-eb6b3023",
+    "num": "islandlk-eb6b3023",
+    "date_str": "2026-07-05",
+    "description": "JAT Astera Residencies: Luxury living with panoramic views in Thalawathugoda",
+    "url_metadata": "http://island.lk/jat-astera-residencies-luxury-living-with-panoramic-views-in-thalawathugoda/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783257540.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-46a2675d",
+    "num": "islandlk-46a2675d",
+    "date_str": "2026-07-05",
+    "description": "Adhitya Ayurveda takes traditional Sri Lankan Ayurveda expertise to South Korea",
+    "url_metadata": "http://island.lk/adhitya-ayurveda-takes-traditional-sri-lankan-ayurveda-expertise-to-south-korea/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783257720.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-05-adalk-92ed8253",
     "num": "adalk-92ed8253",
     "date_str": "2026-07-05",
@@ -279967,6 +280066,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-d6494c62",
+    "num": "islandlk-d6494c62",
+    "date_str": "2026-07-05",
+    "description": "IIHS marks 25 years with record graduation of over 650 healthcare professionals",
+    "url_metadata": "http://island.lk/iihs-marks-25-years-with-record-graduation-of-over-650-healthcare-professionals/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783265040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-74eafae1",
+    "num": "islandlk-74eafae1",
+    "date_str": "2026-07-05",
+    "description": "BOC Maldives marks 45 years",
+    "url_metadata": "http://island.lk/boc-maldives-marks-45-years/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783265100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-78b58adc",
+    "num": "islandlk-78b58adc",
+    "date_str": "2026-07-05",
+    "description": "The hidden social crisis of a middle-income country",
+    "url_metadata": "http://island.lk/the-hidden-social-crisis-of-a-middle-income-country/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783265880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-11d5cff3",
+    "num": "islandlk-11d5cff3",
+    "date_str": "2026-07-05",
+    "description": "Why SL needs a National Talent and International Mobility Strategy",
+    "url_metadata": "http://island.lk/why-sl-needs-a-national-talent-and-international-mobility-strategy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783266000.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-05-virakesarilk-fabf7d57",
     "num": "virakesarilk-fabf7d57",
     "date_str": "2026-07-05",
@@ -280033,6 +280176,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-05-dailymirrorlk-20b26a41",
+    "num": "dailymirrorlk-20b26a41",
+    "date_str": "2026-07-05",
+    "description": "PGP Glass exports fall 22% as furnace overhaul forces shift to home market",
+    "url_metadata": "https://www.dailymirror.lk/business-news/PGP-Glass-exports-fall-22-as-furnace-overhaul-forces-shift-to-home-market/273-344755",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783276124.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailymirrorlk-cf77ed65",
+    "num": "dailymirrorlk-cf77ed65",
+    "date_str": "2026-07-06",
+    "description": "Trade policy expert urges quality growth initiative with JICA assistance to boost exports",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Trade-policy-expert-urges-quality-growth-initiative-with-JICA-assistance-to-boost-exports/273-344756",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783276216.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailymirrorlk-bfdfeef0",
+    "num": "dailymirrorlk-bfdfeef0",
+    "date_str": "2026-07-06",
+    "description": "Central Bank pulls the plug on Nation Lanka Finance after failed rescue attempts",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Central-Bank-pulls-the-plug-on-Nation-Lanka-Finance-after-failed-rescue-attempts/273-344757",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783276777.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailymirrorlk-720b7cbe",
+    "num": "dailymirrorlk-720b7cbe",
+    "date_str": "2026-07-06",
+    "description": "AWS to charge 18% VAT on unregistered Sri Lankan customers, but implementation date still pending",
+    "url_metadata": "https://www.dailymirror.lk/business-news/AWS-to-charge-18-VAT-on-unregistered-Sri-Lankan-customers-but-implementation-date-still-pending/273-344759",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783278000.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-06-dailymirrorlk-0e9c2b4b",
     "num": "dailymirrorlk-0e9c2b4b",
     "date_str": "2026-07-06",
@@ -280041,5 +280228,148 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783278333.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-d1917d81",
+    "num": "dailyftlk-d1917d81",
+    "date_str": "2026-07-06",
+    "description": "China says stands ready to continue working alongside Sri Lanka, strengthen synergy of development strategies",
+    "url_metadata": "https://www.ft.lk/opinion/China-says-stands-ready-to-continue-working-alongside-Sri-Lanka-strengthen-synergy-of-development-strategies/14-794229",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783286746.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-9b2a3193",
+    "num": "dailyftlk-9b2a3193",
+    "date_str": "2026-07-06",
+    "description": "Mahaweli Doctrine: Water as foreign policy in Sri Lanka\u2019s national renaissance",
+    "url_metadata": "https://www.ft.lk/columns/Mahaweli-Doctrine-Water-as-foreign-policy-in-Sri-Lanka-s-national-renaissance/4-794231",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783289474.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-8b7c853a",
+    "num": "dailyftlk-8b7c853a",
+    "date_str": "2026-07-06",
+    "description": "Is Sri Lanka in a state of quagmire politically and financially?",
+    "url_metadata": "https://www.ft.lk/columns/Is-Sri-Lanka-in-a-state-of-quagmire-politically-and-financially/4-794232",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783289794.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-c7af241e",
+    "num": "dailyftlk-c7af241e",
+    "date_str": "2026-07-06",
+    "description": "ABC of becoming an upper middle-income country: Risks outweigh benefits",
+    "url_metadata": "https://www.ft.lk/columns/ABC-of-becoming-an-upper-middle-income-country-Risks-outweigh-benefits/4-794233",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783289982.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-tamilmirrorlk-7dd85bc8",
+    "num": "tamilmirrorlk-7dd85bc8",
+    "date_str": "2026-07-06",
+    "description": "\u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bbf\u0bb0\u0bc7\u0b9a\u0bbf\u0bb2\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1-\u0baa\u0bbf\u0bb0\u0bc7\u0b9a\u0bbf\u0bb2\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/44-379497",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783290457.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-81ec670c",
+    "num": "dailyftlk-81ec670c",
+    "date_str": "2026-07-06",
+    "description": "Two inmates killed, 35  injured in drugs-related  Negombo Prison clash",
+    "url_metadata": "https://www.ft.lk/news/Two-inmates-killed-35-injured-in-drugs-related-Negombo-Prison-clash/56-794255",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783293869.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-6a7379ce",
+    "num": "dailyftlk-6a7379ce",
+    "date_str": "2026-07-06",
+    "description": "Dayasiri says he has stepped away from Facebook",
+    "url_metadata": "https://www.ft.lk/news/Dayasiri-says-he-has-stepped-away-from-Facebook/56-794256",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783293962.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-11a92fa7",
+    "num": "dailyftlk-11a92fa7",
+    "date_str": "2026-07-06",
+    "description": "Celebrating 75 years of Colombo Plan",
+    "url_metadata": "https://www.ft.lk/news/Celebrating-75-years-of-Colombo-Plan/56-794257",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783294033.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-e99ef59f",
+    "num": "dailyftlk-e99ef59f",
+    "date_str": "2026-07-06",
+    "description": "Vidusha Nathavitharana inspires IDL leadership with session on \u2018Collective Leadership\u2019",
+    "url_metadata": "https://www.ft.lk/business/Vidusha-Nathavitharana-inspires-IDL-leadership-with-session-on-Collective-Leadership/34-794258",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783294128.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-fbf86b27",
+    "num": "dailyftlk-fbf86b27",
+    "date_str": "2026-07-06",
+    "description": "EDB bids farewell to BOI DG",
+    "url_metadata": "https://www.ft.lk/business/EDB-bids-farewell-to-BOI-DG/34-794259",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783294237.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-863cc90f",
+    "num": "dailyftlk-863cc90f",
+    "date_str": "2026-07-06",
+    "description": "Sri Lanka, Pakistan agree to boost trade, investment and entrepreneurship cooperation",
+    "url_metadata": "https://www.ft.lk/business/Sri-Lanka-Pakistan-agree-to-boost-trade-investment-and-entrepreneurship-cooperation/34-794260",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783294315.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-932f07ba",
+    "num": "dailyftlk-932f07ba",
+    "date_str": "2026-07-06",
+    "description": "Atlas launches Sri Lanka\u2019s first SLS certified water bottle, reinforcing its commitment to children\u2019s safety",
+    "url_metadata": "https://www.ft.lk/business/Atlas-launches-Sri-Lanka-s-first-SLS-certified-water-bottle-reinforcing-its-commitment-to-children-s-safety/34-794261",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783294469.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-dailyftlk-90150858",
+    "num": "dailyftlk-90150858",
+    "date_str": "2026-07-06",
+    "description": "New Anthoney\u2019s Feeds shines at NCQP 2026",
+    "url_metadata": "https://www.ft.lk/business/New-Anthoney-s-Feeds-shines-at-NCQP-2026/34-794262",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783294674.0
   }
 ]

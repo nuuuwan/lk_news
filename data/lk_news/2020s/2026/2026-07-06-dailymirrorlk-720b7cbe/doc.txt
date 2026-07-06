@@ -1,0 +1,17 @@
+AWS to charge 18% VAT on unregistered Sri Lankan customers, but implementation date still pending
+
+Amazon Web Services (AWS) has notified its Sri Lankan customers that it will begin charging 18 percent Value Added Tax (VAT) on invoices for AWS cloud services and AWS Marketplace purchases, unless customers are VAT-registered and have submitted a valid Tax Registration Number (TRN) to the company.
+
+In a notice sent to account holders with a registered Sri Lankan address, AWS said the charge stems from the introduction of VAT on Electronically Supplied Services (ESS) provided by non-resident suppliers to customers in Sri Lanka who are not VAT-registered.
+
+The company has asked customers to take action before July 31, 2026, though it has not yet confirmed the date from which the 18 percent charge will actually take effect on invoices, saying this will be communicated in a subsequent notice.
+
+Customers whose AWS accounts carry a Sri Lankan address but who are not actually based in the country are asked to update their Billing Address, and Contact Address where applicable, via the AWS Billing Console. Businesses that are VAT-registered in Sri Lanka have been asked to enter their TRN under Tax Settings and ensure their Business Legal Name and address are accurate, which AWS said would exempt them from the charge, subject to applicable tax rules.
+
+The move follows Sri Lanka’s Value Added Tax (Amendment) Act, No. 4 of 2025, which extended the 18 percent VAT regime to cross-border digital services supplied by non-resident persons through electronic platforms — a reform shaped in part by discussions with the International Monetary Fund during reviews of the country’s Extended Fund Facility programme. The government had initially planned to bring the tax into effect from October 1, 2025.
+
+That date has since slipped twice. The Cabinet first deferred implementation to April 1, 2026, following requests from industry for more preparation time. On March 31, 2026, the Inland Revenue Department announced a further postponement, this time to July 1, 2026, without specifying a reason for the delay. Non-resident digital service providers must register once they exceed Rs. 36 million in supplies over 12 months, or Rs. 9 million in a single quarter—thresholds that were reduced from the levels originally proposed.
+
+AWS is not the first global technology company to act on the new rules. Microsoft told its Sri Lankan partners and customers in March 2026 that all digital service invoices from its non-resident entities — covering Azure and related services — would carry 18 percent VAT, and asked customers to submit a valid Sri Lankan VAT ID by March 20, 2026, ahead of what was then a planned April 1 enforcement date. Invoices issued without a VAT ID on file would still carry the charge, but customers would lose the option to claim input tax credit later.
+
+Google has separately published country-by-country VAT guidance for Google Cloud customers, instructing account holders in various jurisdictions to submit their tax identification numbers so that the correct rate is reflected on invoices. Sri Lanka does not yet appear on that published list, though the same registration mechanism is expected to apply once the local digital services VAT takes effect. Streaming, advertising and SaaS platforms operating on similar non-resident billing models are likely to face the same obligation once the July 1 effective date is confirmed.
