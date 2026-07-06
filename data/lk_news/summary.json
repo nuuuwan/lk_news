@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-06 20:53:44",
-  "n_docs": 122014,
+  "time_updated": "2026-07-06 22:47:36",
+  "n_docs": 122044,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 122014,
+  "n_docs_with_text": 122044,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-06",
-  "dataset_size": 1904240523,
+  "dataset_size": 1904478879,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
-    "si"
+    "si",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-06-dailymirrorlk-acd0c3d1",
-    "num": "dailymirrorlk-acd0c3d1",
+    "doc_id": "2026-07-06-virakesarilk-83ccdfaf",
+    "num": "virakesarilk-83ccdfaf",
     "date_str": "2026-07-06",
-    "description": "Inmates\u2019 plan was to sabotage smooth functioning of prison operations: Minister",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Inmates-plan-was-to-sabotage-smooth-functioning-of-prison-operations-Minister/108-344845",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783350031.0
+    "description": "\u0ba8\u0bc0\u0bb0\u0bcd\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc8 \u0bb5\u0ba9\u0bcd\u0bae\u0bc1\u0bb1\u0bc8: CCD, CID \u0b87\u0ba3\u0bc8\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0bc0\u0bb5\u0bbf\u0bb0 \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/252290",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783356840.0
   }
 }
