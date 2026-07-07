@@ -284422,6 +284422,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-07-adalk-f22b8b0e",
+    "num": "adalk-f22b8b0e",
+    "date_str": "2026-07-07",
+    "description": "\u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0db8\u0ddc\u0dbb\u0da7\u0dd4\u0dc0 \u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba\u0dad\u0dca \u0dc0\u0dc3\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0db8\u0ddc\u0dbb\u0da7\u0dd4\u0dc0-\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba\u0dad\u0dca-\u0dc0\u0dc3\u0dba\u0dd2/11-423152",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783415600.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-07-virakesarilk-d2b6d7d6",
     "num": "virakesarilk-d2b6d7d6",
     "date_str": "2026-07-07",
@@ -284441,5 +284452,148 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783415681.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-adalk-21b30a75",
+    "num": "adalk-21b30a75",
+    "date_str": "2026-07-07",
+    "description": "\u0d85\u0d9a\u0dca\u0dc2\u0dd2 \u0dc3\u0dd0\u0dad\u0dca\u0d9a\u0db8\u0dca\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db4\u0dd9\u0db1\u0dd3\u0db8 \u0d85\u0dc4\u0dd2\u0db8\u0dd2 \u0dc0\u0dd6 \u0dad\u0dc0\u0dad\u0dca \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca 4\u0da7 \u0dc0\u0db1\u0dca\u0daf\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0d9a\u0dca\u0dc2\u0dd2-\u0dc3\u0dd0\u0dad\u0dca\u0d9a\u0db8\u0dca\u0dc0\u0dbd\u0dd2\u0db1\u0dca-\u0db4\u0dc3\u0dd4-\u0db4\u0dd9\u0db1\u0dd3\u0db8-\u0d85\u0dc4\u0dd2\u0db8\u0dd2-\u0dc0\u0dd6-\u0dad\u0dc0\u0dad\u0dca-\u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca-4\u0da7-\u0dc0\u0db1\u0dca\u0daf\u0dd2/11-423153",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783415966.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-4dc2a12f",
+    "num": "dailymirrorlk-4dc2a12f",
+    "date_str": "2026-07-07",
+    "description": "Namal\u2019s Krrish deal case fixed for trial",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namals-Krrish-deal-case-fixed-for-trial/108-344946",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783416665.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-adalk-677aceff",
+    "num": "adalk-677aceff",
+    "date_str": "2026-07-07",
+    "description": "\u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0db1\u0dd2\u0dc3\u0dcf \u0db8\u0dd3\u0d9c\u0db8\u0dd4\u0dc0 \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda 40\u0d9a\u0dca \u0db8\u0dd0\u0dbb\u0dd4\u0dab\u0dda \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0db1\u0dd2\u0dc3\u0dcf-\u0db8\u0dd3\u0d9c\u0db8\u0dd4\u0dc0-\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0dda-40\u0d9a\u0dca-\u0db8\u0dd0\u0dbb\u0dd4\u0dab\u0dda-\u0db1\u0dd1/11-423156",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783417195.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-18607ab7",
+    "num": "tamilmirrorlk-18607ab7",
+    "date_str": "2026-07-07",
+    "description": "\u0b9a\u0bc1\u0bb0\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bbe\u0ba4\u0bc8 \u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0baa\u0bcd \u0baa\u0ba3\u0bbf\u0baf\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1; \u0baa\u0bb2\u0bb0\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0b85\u0b9a\u0bcd\u0b9a\u0bae\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0b9a\u0bc1\u0bb0\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bbe\u0ba4\u0bc8-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bbe\u0ba9\u0baa\u0bcd-\u0baa\u0ba3\u0bbf\u0baf\u0bbf\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba8\u0bbf\u0bb2\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0bb5\u0bc1-\u0baa\u0bb2\u0bb0\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95-\u0b85\u0b9a\u0bcd\u0b9a\u0bae\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-379589",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783418134.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-53c8e2da",
+    "num": "tamilmirrorlk-53c8e2da",
+    "date_str": "2026-07-07",
+    "description": "\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc2\u0b9f\u0bcd \u0ba4\u0bb5\u0bbf\u0b9a\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 14 \u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0ba8\u0bcb\u0bb0\u0bcd\u0bb5\u0bc2\u0b9f\u0bcd-\u0ba4\u0bb5\u0bbf\u0b9a\u0bbe\u0bb3\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1-14-\u0b89\u0bb1\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bb0\u0bcd\u0b95\u0bb3\u0bcd-\u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1/76-379590",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783418527.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-f05ac7fb",
+    "num": "tamilmirrorlk-f05ac7fb",
+    "date_str": "2026-07-07",
+    "description": "\u2019\u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0ba3\u0bbf\u0baf\u0bae\u0bcd\u2019 \u0ba8\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1 \u0ba4\u0bb2\u0bc8\u0baf\u0bbf\u0b9f\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bae\u0ba3\u0bbf\u0baf\u0bae\u0bcd-\u0ba8\u0bbe\u0baf\u0bcd\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bca\u0bb0\u0bc1-\u0ba4\u0bb2\u0bc8\u0baf\u0bbf\u0b9f\u0bbf/175-379592",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783419858.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-09716815",
+    "num": "tamilmirrorlk-09716815",
+    "date_str": "2026-07-07",
+    "description": "\u0ba8\u0bbe\u0bae\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0b95\u0bbf\u0bb0\u0bbf\u0bb7\u0bcd \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1: \u0b9f\u0bcd\u0bb0\u0baf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bae\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9-\u0b95\u0bbf\u0bb0\u0bbf\u0bb7\u0bcd-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0b9f\u0bcd\u0bb0\u0baf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b92\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bc8\u0baa\u0bcd\u0baa\u0bc1/175-379593",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783420202.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-73754405",
+    "num": "dailymirrorlk-73754405",
+    "date_str": "2026-07-07",
+    "description": "Namal-led group launches \u201cA Team \u2013 Next Wave\u201d",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Namal-led-group-launches-A-Team-Next-Wave/108-344948",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783420633.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-fff79a90",
+    "num": "dailymirrorlk-fff79a90",
+    "date_str": "2026-07-07",
+    "description": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Zelensky-to-press-Nato-for-air-defence-systems-after-intense-Russian-strikes/108-344949",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783420895.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-a844870d",
+    "num": "dailymirrorlk-a844870d",
+    "date_str": "2026-07-07",
+    "description": "Prisons Dept. pays tribute to seven officers killed in Negombo Prison unrest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prisons-Dept-pays-tribute-to-seven-officers-killed-in-Negombo-Prison-unrest/108-344950",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783421157.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-ad47d3e7",
+    "num": "dailymirrorlk-ad47d3e7",
+    "date_str": "2026-07-07",
+    "description": "Thalatha calls for Harshana\u2019s resignation over Negombo prison clash",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Thalatha-calls-for-Harshanas-resignation-over-Negombo-prison-clash/108-344951",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783421337.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-108104a8",
+    "num": "dailymirrorlk-108104a8",
+    "date_str": "2026-07-07",
+    "description": "Kerawalapitiya industrial zone road left in disrepair despite strategic importance",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kerawalapitiya-industrial-zone-road-left-in-disrepair-despite-strategic-importance/108-344952",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783421719.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-f8d740d8",
+    "num": "dailymirrorlk-f8d740d8",
+    "date_str": "2026-07-07",
+    "description": "No prior intelligence received on Negombo Prison violence: Prisons Chief",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-prior-intelligence-received-on-Negombo-Prison-violence-Prisons-Chief/108-344953",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783421798.0
   }
 ]
