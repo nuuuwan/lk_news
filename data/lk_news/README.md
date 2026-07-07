@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--07_20:56:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--07_22:37:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,276** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,281** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-07-dailymirrorlk-ef44dea2",
-    "num": "dailymirrorlk-ef44dea2",
+    "doc_id": "2026-07-07-tamilmirrorlk-fa07024b",
+    "num": "tamilmirrorlk-fa07024b",
     "date_str": "2026-07-07",
-    "description": "Central Bank warns public against urgency-based online scams",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Central-Bank-warns-public-against-urgency-based-online-scams/108-344968",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783436596.0
+    "description": "\u0bae\u0bca\u0ba9\u0bbe\u0b95\u0bcd\u0b95\u0bcb \u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1 : \u0ba4\u0bc7\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0baa\u0bc6\u0ba3\u0bcd \u0b95\u0bc0\u0bb5\u0bcd \u0b85\u0bb0\u0bc1\u0b95\u0bc7 \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb2\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bca\u0ba9\u0bbe\u0b95\u0bcd\u0b95\u0bcb-\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0bb5\u0bc6\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0ba4\u0bc7\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0baa\u0bc6\u0ba3\u0bcd-\u0b95\u0bc0\u0bb5\u0bcd-\u0b85\u0bb0\u0bc1\u0b95\u0bc7-\u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb2\u0bc8/175-379615",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783441680.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-07 | `tamilmirrorlk-fa07024b` | மொனாக்கோ குண்டுவெடிப்பு : தேடப்பட்ட பெண் கீவ் அருகே சுட்டுக்கொலை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-tamilmirrorlk-fa07024b)
+- 2026-07-07 | `tamilmirrorlk-03758cae` | மணமக்களுடன் முதலிரவில் தாய் ; விசித்திரமான சடங்கு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-tamilmirrorlk-03758cae)
+- 2026-07-07 | `tamilmirrorlk-78d87daf` | 60 கைதிகள்‌ யாழ். சிறைக்கு மாற்றம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-tamilmirrorlk-78d87daf)
+- 2026-07-07 | `dailymirrorlk-abea79f3` | Woman suspected of Monaco bombing found shot dead near Kyiv | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailymirrorlk-abea79f3)
+- 2026-07-07 | `tamilmirrorlk-f21f963b` | சிறைச்சாலை மோதல் விவகாரம் : விசேட குழு நியமனம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-tamilmirrorlk-f21f963b)
 - 2026-07-07 | `dailymirrorlk-ef44dea2` | Central Bank warns public against urgency-based online scams | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailymirrorlk-ef44dea2)
 - 2026-07-07 | `virakesarilk-3fedfbdf` | இரண்டு கண்டங்களின் ஜாம்பவான்கள் மோதும் உலகக் கிண்ணப் போட்டி: ஆர்ஜன்டீனா எதிர் எகிப்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-virakesarilk-3fedfbdf)
 - 2026-07-07 | `dailymirrorlk-8a9aa1ec` | VIASL elects 2027 office bearers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailymirrorlk-8a9aa1ec)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-07-07 | `dailymirrorlk-7c61f6bf` | Committee appointed to probe Negombo prison unrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailymirrorlk-7c61f6bf)
 - 2026-07-07 | `dailymirrorlk-3e869b48` | CSE extends decline as cautious investors await earnings season | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailymirrorlk-3e869b48)
 - 2026-07-07 | `virakesarilk-7e488d08` | உயர் நீதிமன்ற நீதிபதிகளின் வயதெல்லை நீடிப்புக்கு பொதுஜன பெரமுன எதிர்ப்பு ; சஜித் தலைமையில் அனைத்துக் கட்சிக் கூட்டத்தைக் கூட்டுமாறு நாமல் கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-virakesarilk-7e488d08)
-- 2026-07-07 | `virakesarilk-261b8cee` | வடக்கு, கிழக்கில் தமிழ் மக்களின் காணிகளை தொல்லியல் திணைக்களம் பலவந்தமாக கையகப்படுத்தவில்லை – அமைச்சர் சந்தன அபேரத்ன திட்டவட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-virakesarilk-261b8cee)
-- 2026-07-07 | `dailymirrorlk-e0d51a69` | Minister visits injured prison officers and inmates at National Hospital | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailymirrorlk-e0d51a69)
-- 2026-07-07 | `virakesarilk-9ceb96d1` | சந்தையில் சமநிலையை ஏற்படுத்துவதே எங்களின் ஒரே தேவை - அமைச்சர் லால் காந்த | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-virakesarilk-9ceb96d1)
-- 2026-07-07 | `virakesarilk-626bea14` | விபத்துக்களைக் குறைக்க அனைத்துத் துறைகளையும்  உள்ளடக்கிய தொடர்ச்சியான கூட்டுத் திட்டம் அவசியம் - அமைச்சர் நளிந்த ஜயதிஸ்ஸ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-virakesarilk-626bea14)
-- 2026-07-07 | `virakesarilk-25329534` | கண் பார்வை பாதிக்கப்பட்ட மேலும் 4 பேருக்கு தலா ஒரு மில்லியன் ரூபா நட்டஈடு: அமைச்சரவை அங்கீகாரம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-virakesarilk-25329534)
 
 ---
 
