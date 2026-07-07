@@ -282626,5 +282626,203 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783372799.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-a9e2ce4f",
+    "num": "dailyftlk-a9e2ce4f",
+    "date_str": "2026-07-07",
+    "description": "Sajith blames President for Negombo Prison violence, demands independent probe",
+    "url_metadata": "https://www.ft.lk/news/Sajith-blames-President-for-Negombo-Prison-violence-demands-independent-probe/56-794300",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783379561.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-414581d8",
+    "num": "dailyftlk-414581d8",
+    "date_str": "2026-07-07",
+    "description": "Govt. failing to implement Ranil\u2019s growth plans, says Dinouk Colombage",
+    "url_metadata": "https://www.ft.lk/news/Govt-failing-to-implement-Ranil-s-growth-plans-says-Dinouk-Colombage/56-794301",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783379809.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-02d7970c",
+    "num": "dailyftlk-02d7970c",
+    "date_str": "2026-07-07",
+    "description": "UN Global Compact Network Sri Lanka powers sustainable business transformation",
+    "url_metadata": "https://www.ft.lk/business/UN-Global-Compact-Network-Sri-Lanka-powers-sustainable-business-transformation/34-794302",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783380283.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-3b63e901",
+    "num": "dailyftlk-3b63e901",
+    "date_str": "2026-07-07",
+    "description": "Ban on rice, paddy for animal feed lifted",
+    "url_metadata": "https://www.ft.lk/business/Ban-on-rice-paddy-for-animal-feed-lifted/34-794303",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783380308.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-cd01eef7",
+    "num": "dailyftlk-cd01eef7",
+    "date_str": "2026-07-07",
+    "description": "EDB says proposed 12.5% US tariff not new, hopeful of avoiding levy through trade pact",
+    "url_metadata": "https://www.ft.lk/business/EDB-says-proposed-12-5-US-tariff-not-new-hopeful-of-avoiding-levy-through-trade-pact/34-794304",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783380328.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-7a5ba0bc",
+    "num": "dailyftlk-7a5ba0bc",
+    "date_str": "2026-07-07",
+    "description": "New EFC Chair reaffirms commitment to national employment policies, responsible business initiatives",
+    "url_metadata": "https://www.ft.lk/business/New-EFC-Chair-reaffirms-commitment-to-national-employment-policies-responsible-business-initiatives/34-794305",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783380466.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-b5887e46",
+    "num": "dailyftlk-b5887e46",
+    "date_str": "2026-07-07",
+    "description": "Disciplining the judiciary",
+    "url_metadata": "https://www.ft.lk/columns/Disciplining-the-judiciary/4-794306",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783380859.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-b2ac0d80",
+    "num": "dailyftlk-b2ac0d80",
+    "date_str": "2026-07-07",
+    "description": "Biodigesters: A farm-gate answer to  Sri Lanka\u2019s food, energy and climate dilemma",
+    "url_metadata": "https://www.ft.lk/columns/Biodigesters-A-farm-gate-answer-to-Sri-Lanka-s-food-energy-and-climate-dilemma/4-794307",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783381245.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-5cba4ecc",
+    "num": "dailyftlk-5cba4ecc",
+    "date_str": "2026-07-07",
+    "description": "Debunking Economic Myths # 4 Why flexible inflation targeting at 5% suits Sri Lanka better than 2%? (Part II)",
+    "url_metadata": "https://www.ft.lk/columns/Debunking-Economic-Myths-4-Why-flexible-inflation-targeting-at-5-suits-Sri-Lanka-better-than-2-Part-II/4-794309",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783381619.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-e5e41588",
+    "num": "dailyftlk-e5e41588",
+    "date_str": "2026-07-07",
+    "description": "Right of Reply CPC responds to Verit\u00e9 Research opinion column on pricing",
+    "url_metadata": "https://www.ft.lk/opinion/Right-of-Reply-CPC-responds-to-Verit\u00e9-Research-opinion-column-on-pricing/14-794310",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783381676.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-6c8606fb",
+    "num": "dailyftlk-6c8606fb",
+    "date_str": "2026-07-07",
+    "description": "UK Trade Envoy visits The Body Shop in Sri Lanka, reinforcing ethical trade and bilateral ties",
+    "url_metadata": "https://www.ft.lk/business/UK-Trade-Envoy-visits-The-Body-Shop-in-Sri-Lanka-reinforcing-ethical-trade-and-bilateral-ties/34-794317",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783383055.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-3ceda616",
+    "num": "dailyftlk-3ceda616",
+    "date_str": "2026-07-07",
+    "description": "Melco Resorts and Entertainment brings global legacy of luxury hospitality to Sri Lanka through City of Dreams Sri Lanka",
+    "url_metadata": "https://www.ft.lk/business/Melco-Resorts-and-Entertainment-brings-global-legacy-of-luxury-hospitality-to-Sri-Lanka-through-City-of-Dreams-Sri-Lanka/34-794318",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783383375.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-8608a1fd",
+    "num": "dailyftlk-8608a1fd",
+    "date_str": "2026-07-07",
+    "description": "Canada marks 159th Confederation anniversary with focus on trade and Indo-Pacific cooperation",
+    "url_metadata": "https://www.ft.lk/business/Canada-marks-159th-Confederation-anniversary-with-focus-on-trade-and-Indo-Pacific-cooperation/34-794319",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783383818.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-09939da4",
+    "num": "dailyftlk-09939da4",
+    "date_str": "2026-07-07",
+    "description": "CBSL extends suspension of Perpetual Treasuries\u2019 business",
+    "url_metadata": "https://www.ft.lk/business/CBSL-extends-suspension-of-Perpetual-Treasuries-business/34-794320",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783383961.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-0c2ed518",
+    "num": "dailyftlk-0c2ed518",
+    "date_str": "2026-07-07",
+    "description": "CSE opens week in red",
+    "url_metadata": "https://www.ft.lk/business/CSE-opens-week-in-red/34-794321",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783383983.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailyftlk-0f7f54f8",
+    "num": "dailyftlk-0f7f54f8",
+    "date_str": "2026-07-07",
+    "description": "Bond market starts of slow; yields hold broadly steady",
+    "url_metadata": "https://www.ft.lk/business/Bond-market-starts-of-slow-yields-hold-broadly-steady/34-794322",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783384152.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-36d5f34a",
+    "num": "dailymirrorlk-36d5f34a",
+    "date_str": "2026-07-07",
+    "description": "Warehouse containing 4.2 million kg of sugar sealed in Peliyagoda",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Warehouse-containing-4-2-million-kg-of-sugar-sealed-in-Peliyagoda/108-344850",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783384543.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-36a3fbda",
+    "num": "dailymirrorlk-36a3fbda",
+    "date_str": "2026-07-07",
+    "description": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Super-Typhoon-Bavi-strikes-US-Pacific-islands-with-pummeling-winds/108-344851",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783385270.0
   }
 ]
