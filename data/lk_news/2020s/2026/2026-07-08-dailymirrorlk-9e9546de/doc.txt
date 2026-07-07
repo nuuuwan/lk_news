@@ -1,0 +1,25 @@
+QA’s pivotal role in shaping future of AI-driven innovation highlighted
+
+SLASSCOM successfully concluded SLASSCOM Quality Summit 2026, held under the theme ‘From Quality to Intelligence: QA’s Role in the AI Revolution’.
+
+The two-day virtual summit brought together global experts, technology leaders and quality engineering professionals to explore the rapidly evolving role of quality assurance (QA) in an increasingly artificial intelligence (AI)-driven world.
+
+The summit underscored how QA is moving beyond traditional testing functions to become a strategic discipline focused on trust, governance, intelligent automation and ethical AI adoption. This year’s discussions strongly reflected the industry’s growing need for QA professionals to play a central role in enabling responsible, reliable and scalable AI-powered innovation.
+
+The event commenced with opening remarks from SLASSCOM Chairperson Shehani Senevirathne, who highlighted the importance of equipping the quality engineering community to navigate the next phase of transformation driven by AI.
+
+Day one featured a series of high-impact technical sessions. René van Veldhuijzen of SQUERIST delivered a session titled ‘Shift Left, Shift Right, Stay Centered: Closing the Loop on Continuous Quality’, emphasising modern quality engineering practices and the importance of embedding quality throughout the software development lifecycle.
+
+Adding further depth to the discussion, 99x Architect Test Automation Ruwanthi Soysa presented ‘QA Strategies for Trustworthy AI Assisted Quality Engineering’, offering insights into building reliable AI-assisted testing frameworks with transparency and control.
+
+Meanwhile, Capgemini Senior Test Automation Architect Neelam Pal addressed governance and ethics through her session ‘Governance, Compliance and Ethical AI Assurance’, highlighting the critical importance of accountability and compliance in AI-enabled systems.
+
+A key highlight of the summit was the panel discussion ‘Human-in-the-Loop and The Evolving QA Workforce’, featuring industry leaders including Zone24x7 Head of Software Engineering Dhaminda Siriwardena, IFS Vice President Next Generation Architecture Rifki Razick and SoundHound AI Director Quality Assurance Harsha Navaratne, moderated by Pearson Lanka Senior Quality Assurance Engineer Yasassri Ratnayake.
+
+The panel explored how AI is reshaping workforce dynamics while reinforcing the continued importance of human expertise in quality engineering.
+
+The second day continued with equally impactful sessions. QA Roots founder Dr. Leonardo Lanni presented ‘Reverse Mutation Testing’, introducing innovative approaches to enhancing software reliability. This was followed by a leadership-focused session by Amazon Software Development Manager Dr. Chathuranga Manamendra, titled ‘Operationalising AI in Software Delivery: A Leadership Playbook for Shared Quality, Speed and Governance’, which explored the balance between innovation, governance and delivery speed.
+
+The summit concluded with an interactive virtual workshop on ‘Autonomous Testing’, led by 3Pillar Global Senior Quality Lead Manager Kailash Pathak, offering the participants practical insights into the emerging AI-driven testing methodologies.
+
+SLASSCOM Quality Summit 2026 successfully created a dynamic platform for knowledge exchange, collaboration and forward-looking dialogue on the future of quality engineering. As AI adoption continues to accelerate across industries, the summit reinforced the critical message that QA professionals would remain central to ensuring trust, reliability, governance and human-centred innovation in the evolving digital economy.

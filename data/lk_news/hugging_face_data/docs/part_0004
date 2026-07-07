@@ -285145,5 +285145,137 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783441680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-tamilmirrorlk-1e11c862",
+    "num": "tamilmirrorlk-1e11c862",
+    "date_str": "2026-07-08",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bcb\u0ba4\u0bb2\u0bcd: \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd \u0b87\u0ba9\u0bcd\u0bae\u0bc8\u0ba4\u0bbe\u0ba9\u0bcd \u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd-\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bb2\u0bc8\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0bcd-\u0b87\u0ba9\u0bcd\u0bae\u0bc8\u0ba4\u0bbe\u0ba9\u0bcd-\u0b95\u0bbe\u0bb0\u0ba3\u0bae\u0bcd/175-379616",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783453686.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-tamilmirrorlk-19a1f58b",
+    "num": "tamilmirrorlk-19a1f58b",
+    "date_str": "2026-07-08",
+    "description": "\u0ba8\u0bc0\u0bb0\u0bcd\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd: \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd \u0b9a\u0ba4\u0bbf \u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0bb0\u0bcd\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd-\u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd-\u0b9a\u0ba4\u0bbf-\u0b89\u0bb3\u0bcd\u0bb3\u0ba4\u0bbe/175-379617",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783453963.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-9e9546de",
+    "num": "dailymirrorlk-9e9546de",
+    "date_str": "2026-07-08",
+    "description": "QA\u2019s pivotal role in shaping future of AI-driven innovation highlighted",
+    "url_metadata": "https://www.dailymirror.lk/business-news/QAs-pivotal-role-in-shaping-future-of-AI-driven-innovation-highlighted/273-344970",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783455822.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-f0a777ed",
+    "num": "dailymirrorlk-f0a777ed",
+    "date_str": "2026-07-08",
+    "description": "Hayleys Solar commissions 90 kW solar power system at Colombo University",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hayleys-Solar-commissions-90-kW-solar-power-system-at-Colombo-University/273-344971",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783456499.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-bd9b3820",
+    "num": "dailymirrorlk-bd9b3820",
+    "date_str": "2026-07-08",
+    "description": "Power & Energy Expo Sri Lanka 2026 GoodWe concludes successful participation",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Power-Energy-Expo-Sri-Lanka-2026-GoodWe-concludes-successful-participation/273-344972",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783456594.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-d5a483c6",
+    "num": "dailymirrorlk-d5a483c6",
+    "date_str": "2026-07-08",
+    "description": "HNB General Insurance among SL\u2019s 50 Best Workplaces",
+    "url_metadata": "https://www.dailymirror.lk/business-news/HNB-General-Insurance-among-SLs-50-Best-Workplaces/273-344973",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783456830.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-b6624ae4",
+    "num": "dailymirrorlk-b6624ae4",
+    "date_str": "2026-07-08",
+    "description": "The Offices at Cinnamon Life receives SL\u2019s 1st GreenRE Gold Certification",
+    "url_metadata": "https://www.dailymirror.lk/business-news/The-Offices-at-Cinnamon-Life-receives-SLs-1st-GreenRE-Gold-Certification/273-344974",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783456927.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-86dfb7d7",
+    "num": "dailymirrorlk-86dfb7d7",
+    "date_str": "2026-07-08",
+    "description": "The Global Economics Awards People\u2019s Insurance, Best General Insurance Company of the Year 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/The-Global-Economics-Awards-Peoples-Insurance-Best-General-Insurance-Company-of-the-Year-2026/273-344975",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783457101.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-261cadce",
+    "num": "dailymirrorlk-261cadce",
+    "date_str": "2026-07-08",
+    "description": "Sri Lanka seeks to boost Thai investment through Bangkok Business Forum",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-Lanka-seeks-to-boost-Thai-investment-through-Bangkok-Business-Forum/273-344976",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783457186.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-31a60edc",
+    "num": "dailymirrorlk-31a60edc",
+    "date_str": "2026-07-08",
+    "description": "First Capital Holdings and First Capital Treasuries retain \u2018A+\u2019 rating with Stable Outlook",
+    "url_metadata": "https://www.dailymirror.lk/business-news/First-Capital-Holdings-and-First-Capital-Treasuries-retain-A-rating-with-Stable-Outlook/273-344977",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783457225.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-2eec82f9",
+    "num": "dailymirrorlk-2eec82f9",
+    "date_str": "2026-07-08",
+    "description": "Neglected Kerawalapitiya industrial road sparks concerns",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Neglected-Kerawalapitiya-industrial-road-sparks-concerns/273-344978",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783457268.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-581bef3d",
+    "num": "dailymirrorlk-581bef3d",
+    "date_str": "2026-07-08",
+    "description": "Exhibitor registration for Sri Lanka Expo 2027 open till 31 July",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Exhibitor-registration-for-Sri-Lanka-Expo-2027-open-till-31-July/273-344979",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783457307.0
   }
 ]
