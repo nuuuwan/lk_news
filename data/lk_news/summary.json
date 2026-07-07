@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-07 07:11:07",
-  "n_docs": 122070,
+  "time_updated": "2026-07-07 08:53:19",
+  "n_docs": 122091,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 122070,
+  "n_docs_with_text": 122091,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-07",
-  "dataset_size": 1905333914,
+  "dataset_size": 1905629488,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-07-dailymirrorlk-36a3fbda",
-    "num": "dailymirrorlk-36a3fbda",
+    "doc_id": "2026-07-07-dailymirrorlk-ab849280",
+    "num": "dailymirrorlk-ab849280",
     "date_str": "2026-07-07",
-    "description": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Super-Typhoon-Bavi-strikes-US-Pacific-islands-with-pummeling-winds/108-344851",
+    "description": "Ronaldo\u2019s World Cup career ends in tears",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ronaldos-World-Cup-career-ends-in-tears/108-344852",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783385270.0
+    "time_ut": 1783394181.0
   }
 }

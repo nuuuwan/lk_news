@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--07_07:12:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--07_08:54:03-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,070** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,091** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-07**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-07-dailymirrorlk-36a3fbda",
-    "num": "dailymirrorlk-36a3fbda",
+    "doc_id": "2026-07-07-dailymirrorlk-ab849280",
+    "num": "dailymirrorlk-ab849280",
     "date_str": "2026-07-07",
-    "description": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Super-Typhoon-Bavi-strikes-US-Pacific-islands-with-pummeling-winds/108-344851",
+    "description": "Ronaldo\u2019s World Cup career ends in tears",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ronaldos-World-Cup-career-ends-in-tears/108-344852",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783385270.0
+    "time_ut": 1783394181.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-07 | `dailymirrorlk-ab849280` | Ronaldo’s World Cup career ends in tears | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailymirrorlk-ab849280)
+- 2026-07-07 | `tamilmirrorlk-38e6f356` | உக்ரைனில் ரஷ்யா மீண்டும் தாக்குதல்: 21 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-tamilmirrorlk-38e6f356)
+- 2026-07-07 | `tamilmirrorlk-510bdf21` | அமெரிக்காவின் உலகக் கிண்ணக் கனவை சிதறடித்த பெல்ஜியம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-tamilmirrorlk-510bdf21)
+- 2026-07-07 | `adalk-710fff8e` | මුල් මාස පහ තුළ අපනයන ආදායම ඩොලර් බිලියන 7.3 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-adalk-710fff8e)
 - 2026-07-07 | `dailymirrorlk-36a3fbda` | Super Typhoon Bavi strikes US Pacific islands with pummeling winds | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailymirrorlk-36a3fbda)
 - 2026-07-07 | `dailymirrorlk-36d5f34a` | Warehouse containing 4.2 million kg of sugar sealed in Peliyagoda | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailymirrorlk-36d5f34a)
 - 2026-07-07 | `dailyftlk-0f7f54f8` | Bond market starts of slow; yields hold broadly steady | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailyftlk-0f7f54f8)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-07-07 | `dailyftlk-cd01eef7` | EDB says proposed 12.5% US tariff not new, hopeful of avoiding levy through trade pact | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailyftlk-cd01eef7)
 - 2026-07-07 | `dailyftlk-3b63e901` | Ban on rice, paddy for animal feed lifted | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailyftlk-3b63e901)
 - 2026-07-07 | `dailyftlk-02d7970c` | UN Global Compact Network Sri Lanka powers sustainable business transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailyftlk-02d7970c)
-- 2026-07-07 | `dailyftlk-414581d8` | Govt. failing to implement Ranil’s growth plans, says Dinouk Colombage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailyftlk-414581d8)
-- 2026-07-07 | `dailyftlk-a9e2ce4f` | Sajith blames President for Negombo Prison violence, demands independent probe | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-dailyftlk-a9e2ce4f)
-- 2026-07-07 | `tamilmirrorlk-6a958814` | மெரினோவின் இறுதி நேர கோல்: வெளியேற்றப்பட்ட ரொனால்டோவின் போர்த்துக்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-07-tamilmirrorlk-6a958814)
-- 2026-07-06 | `dailyftlk-a7eea186` | Entrepreneurship: Nine provinces, one engine - The “PraLe” triangulation model | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-06-dailyftlk-a7eea186)
 
 ---
 

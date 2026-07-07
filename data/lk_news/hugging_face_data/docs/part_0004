@@ -277294,6 +277294,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-03-islandlk-ac66f030",
+    "num": "islandlk-ac66f030",
+    "date_str": "2026-07-03",
+    "description": "Reward cops, probe Excise officers",
+    "url_metadata": "http://island.lk/reward-cops-probe-excise-officers/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783093620.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-03-islandlk-2b707edc",
     "num": "islandlk-2b707edc",
     "date_str": "2026-07-03",
@@ -280341,6 +280352,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-6e9b26fd",
+    "num": "islandlk-6e9b26fd",
+    "date_str": "2026-07-05",
+    "description": "Cargills Kist transforms wartime battlefield into thriving Kilinochchi agri-belt",
+    "url_metadata": "http://island.lk/cargills-kist-transforms-wartime-battlefield-into-thriving-kilinochchi-agri-belt/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783264860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-91746256",
+    "num": "islandlk-91746256",
+    "date_str": "2026-07-05",
+    "description": "People\u2019s Bank marks its 65th anniversary",
+    "url_metadata": "http://island.lk/peoples-bank-marks-its-65th-anniversary/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783264980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-d1d75c48",
+    "num": "islandlk-d1d75c48",
+    "date_str": "2026-07-05",
+    "description": "Sampath Bank recognised with three prestigious banking accolades at World Finance",
+    "url_metadata": "http://island.lk/sampath-bank-recognised-with-three-prestigious-banking-accolades-at-world-finance/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783264980.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-05-islandlk-d6494c62",
     "num": "islandlk-d6494c62",
     "date_str": "2026-07-05",
@@ -280363,6 +280407,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-0eaa8987",
+    "num": "islandlk-0eaa8987",
+    "date_str": "2026-07-05",
+    "description": "Recurring dengue epidemics: A commando operation needed",
+    "url_metadata": "http://island.lk/recurring-dengue-epidemics-a-commando-operation-needed/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783265520.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-6106a14d",
+    "num": "islandlk-6106a14d",
+    "date_str": "2026-07-05",
+    "description": "Household economic friction and hidden pressures on Sri Lanka\u2019s fixed-income middle class",
+    "url_metadata": "http://island.lk/household-economic-friction-and-hidden-pressures-on-sri-lankas-fixed-income-middle-class/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783265520.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-05-islandlk-78b58adc",
     "num": "islandlk-78b58adc",
     "date_str": "2026-07-05",
@@ -280382,6 +280448,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1783266000.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-6cdf9fd6",
+    "num": "islandlk-6cdf9fd6",
+    "date_str": "2026-07-05",
+    "description": "The CPC\u2019s decisive role in China\u2019s rise to economic superpower",
+    "url_metadata": "http://island.lk/the-cpcs-decisive-role-in-chinas-rise-to-economic-superpower/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783266180.0
   },
   {
     "doc_type": "lk_news",
@@ -282310,6 +282387,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-06-adalk-12a7ac2f",
+    "num": "adalk-12a7ac2f",
+    "date_str": "2026-07-06",
+    "description": "\u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0db8\u0daf\u0dd4\u0dbb\u0dd4 \u0db4\u0dcf\u0dbd\u0db1\u0dba\u0da7 \u0d91\u0db1\u0dca\u0db1\u0dad\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0db8\u0daf\u0dd4\u0dbb\u0dd4-\u0db4\u0dcf\u0dbd\u0db1\u0dba\u0da7-\u0d91\u0db1\u0dca\u0db1\u0dad\u0d9a\u0dca/11-423135",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783341604.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-06-dailymirrorlk-e728f067",
     "num": "dailymirrorlk-e728f067",
     "date_str": "2026-07-06",
@@ -282442,6 +282530,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-06-islandlk-e3b4a010",
+    "num": "islandlk-e3b4a010",
+    "date_str": "2026-07-06",
+    "description": "World scene for Sri Lankan Reggae",
+    "url_metadata": "http://island.lk/world-scene-for-sri-lankan-reggae/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783348680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-islandlk-332de21f",
+    "num": "islandlk-332de21f",
+    "date_str": "2026-07-06",
+    "description": "The night that went wrong \u2026",
+    "url_metadata": "http://island.lk/the-night-that-went-wrong/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783348740.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-06-dailymirrorlk-6a35bbbd",
     "num": "dailymirrorlk-6a35bbbd",
     "date_str": "2026-07-06",
@@ -282453,6 +282563,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-06-islandlk-fa6ade71",
+    "num": "islandlk-fa6ade71",
+    "date_str": "2026-07-06",
+    "description": "W\u00fcrth Lanka awarded Great Place to Work\u00ae certification",
+    "url_metadata": "http://island.lk/wurth-lanka-awarded-great-place-to-work-certification/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783349640.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-06-dailymirrorlk-a47c75b8",
     "num": "dailymirrorlk-a47c75b8",
     "date_str": "2026-07-06",
@@ -282461,6 +282582,39 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783349653.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-islandlk-a668b5fd",
+    "num": "islandlk-a668b5fd",
+    "date_str": "2026-07-06",
+    "description": "Declining trends among banking stocks snag early vibrant trading",
+    "url_metadata": "http://island.lk/declining-trends-among-banking-stocks-snag-early-vibrant-trading/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783349820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-islandlk-3e7d25c6",
+    "num": "islandlk-3e7d25c6",
+    "date_str": "2026-07-06",
+    "description": "Extension of the term of the Administrator appointed to Nation Lanka Finance",
+    "url_metadata": "http://island.lk/extension-of-the-term-of-the-administrator-appointed-to-nation-lanka-finance/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783349880.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-islandlk-88faa02a",
+    "num": "islandlk-88faa02a",
+    "date_str": "2026-07-06",
+    "description": "Hacked, scammed, and still waiting: What Sri Lanka\u2019s cybersecurity crisis looks like from the inside",
+    "url_metadata": "http://island.lk/hacked-scammed-and-still-waiting-what-sri-lankas-cybersecurity-crisis-looks-like-from-the-inside/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783349940.0
   },
   {
     "doc_type": "lk_news",
@@ -282615,6 +282769,39 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1783362048.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-fa7d2038",
+    "num": "tamilmirrorlk-fa7d2038",
+    "date_str": "2026-07-07",
+    "description": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd \u0ba4\u0bb2\u0bc8\u0ba8\u0b95\u0bb0\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0b9f\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd: 7 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd-\u0ba4\u0bb2\u0bc8\u0ba8\u0b95\u0bb0\u0bcd-\u0bae\u0bc0\u0ba4\u0bc1-\u0bb0\u0bb7\u0bcd\u0baf\u0bbe-\u0b9f\u0bcd\u0bb0\u0bcb\u0ba9\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-7-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/50-379557",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783362787.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-fb6afe7a",
+    "num": "tamilmirrorlk-fb6afe7a",
+    "date_str": "2026-07-07",
+    "description": "\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b86\u0ba4\u0bb0\u0bb5\u0bc1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1: \u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b86\u0ba4\u0bb0\u0bb5\u0bc1-\u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1-\u0b87\u0bb8\u0bcd\u0bb0\u0bc7\u0bb2\u0bcd-\u0baa\u0bbf\u0bb0\u0ba4\u0bae\u0bb0\u0bcd/50-379558",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783363127.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-3cf0d683",
+    "num": "tamilmirrorlk-3cf0d683",
+    "date_str": "2026-07-07",
+    "description": "\u2019\u0bb5\u0bb0\u0bbf \u0b9a\u0b95\u0bcd\u0ba4\u0bbf 2026\u2019 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bb0\u0bbf \u0bb5\u0bbe\u0bb0\u0bae\u0bcd \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb0\u0bbf-\u0b9a\u0b95\u0bcd\u0ba4\u0bbf-2026-\u0ba4\u0bc7\u0b9a\u0bbf\u0baf-\u0bb5\u0bb0\u0bbf-\u0bb5\u0bbe\u0bb0\u0bae\u0bcd-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/175-379559",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783363234.0
   },
   {
     "doc_type": "lk_news",
@@ -282824,5 +283011,49 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783385270.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-adalk-710fff8e",
+    "num": "adalk-710fff8e",
+    "date_str": "2026-07-07",
+    "description": "\u0db8\u0dd4\u0dbd\u0dca \u0db8\u0dcf\u0dc3 \u0db4\u0dc4 \u0dad\u0dd4\u0dc5 \u0d85\u0db4\u0db1\u0dba\u0db1 \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0da9\u0ddc\u0dbd\u0dbb\u0dca \u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1 7.3",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd4\u0dbd\u0dca-\u0db8\u0dcf\u0dc3-\u0db4\u0dc4-\u0dad\u0dd4\u0dc5-\u0d85\u0db4\u0db1\u0dba\u0db1-\u0d86\u0daf\u0dcf\u0dba\u0db8-\u0da9\u0ddc\u0dbd\u0dbb\u0dca-\u0db6\u0dd2\u0dbd\u0dd2\u0dba\u0db1-7-3/11-423136",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783389025.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-510bdf21",
+    "num": "tamilmirrorlk-510bdf21",
+    "date_str": "2026-07-07",
+    "description": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd \u0b89\u0bb2\u0b95\u0b95\u0bcd \u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0b95\u0bcd \u0b95\u0ba9\u0bb5\u0bc8 \u0b9a\u0bbf\u0ba4\u0bb1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4 \u0baa\u0bc6\u0bb2\u0bcd\u0b9c\u0bbf\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0ba9\u0bcd-\u0b89\u0bb2\u0b95\u0b95\u0bcd-\u0b95\u0bbf\u0ba3\u0bcd\u0ba3\u0b95\u0bcd-\u0b95\u0ba9\u0bb5\u0bc8-\u0b9a\u0bbf\u0ba4\u0bb1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4-\u0baa\u0bc6\u0bb2\u0bcd\u0b9c\u0bbf\u0baf\u0bae\u0bcd/44-379562",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783393092.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-38e6f356",
+    "num": "tamilmirrorlk-38e6f356",
+    "date_str": "2026-07-07",
+    "description": "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0bb2\u0bcd \u0bb0\u0bb7\u0bcd\u0baf\u0bbe \u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd: 21 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bbf\u0bb2\u0bcd-\u0bb0\u0bb7\u0bcd\u0baf\u0bbe-\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd-\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd-21-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/50-379563",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783393324.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-ab849280",
+    "num": "dailymirrorlk-ab849280",
+    "date_str": "2026-07-07",
+    "description": "Ronaldo\u2019s World Cup career ends in tears",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ronaldos-World-Cup-career-ends-in-tears/108-344852",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783394181.0
   }
 ]

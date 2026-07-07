@@ -1,0 +1,31 @@
+Hacked, scammed, and still waiting: What Sri Lanka’s cybersecurity crisis looks like from the inside
+
+Sri Lanka is in the middle of a digital transformation. Government services are moving online. Banks are pushing cashless transactions. The national QR-based fuel pass became, for a few weeks in early 2026, the country’s most debated piece of technology. But while the country has been racing toward a digital economy, a quieter and more damaging race has been running in the opposite direction.
+
+The online conversation tells the story. Over the past 90 days, cybersecurity-related content generated more than 20,000 results and nearly 146,000 engagements across social media and news platforms in Sri Lanka, according to an analysis conducted by Mark & Comm using Talkwalker social listening data. Unique authors numbered 7,800 people who actively chose to post, comment, or share on the subject. Compared with the previous quarter, results rose nearly 20,000 percent. That is not a gradual increase in awareness. It is a country reacting to events that arrived in quick succession and did not let up.
+
+Only 9.7 percent of the conversation was positive. Nearly half, at 47.6 percent, was negative.
+
+“The conversation reflected in this data goes beyond cyber threats themselves. It reveals how quickly security incidents can become reputation issues, public trust issues and, ultimately, business issues. Understanding these shifts in stakeholder perception is becoming increasingly important for organisations operating in a digital environment,” said Anjalie Munasinghe, Manager – PR & Social Intelligence, Mark & Comm.
+
+The Kaspersky Security Bulletin for 2025 placed Sri Lanka 20th globally for web-borne cyber threats, with 30.4 percent of internet users experiencing attacks during the year. It also recorded nearly 15 million local malware incidents during the same period, with over a third of users attacked through shared devices and removable drives. These are not sophisticated targeted attacks. They are the kind no national strategy can fix without basic digital hygiene at the ground level.
+
+SLCERT’s figures reinforce this. Reported incidents rose from 596 in 2019 to 4,347 in 2024. In 2025 alone, the agency received more than 12,650 complaints. By mid-May 2026, police had arrested 628 foreign nationals for activities ranging from immigration violations to organised online fraud, with suspects from China, India, Vietnam, Myanmar, the Philippines, and Cambodia. In the first three months of the year alone, arrests had already exceeded 50 percent of the total recorded throughout all of 2025.
+
+The reason Sri Lanka keeps appearing in these operations is not accidental. Criminal networks pushed out of Thailand and Cambodia by enforcement crackdowns there have been relocating here, drawn by reliable connectivity and, with some irony, a government policy actively promoting digital nomad tourism. Sri Lanka is no longer just a country where citizens are being defrauded. It is being used as a staging ground to target victims in other countries entirely.
+
+Digital infrastructure, foreign nationals, cyber fraud, national security, and artificial intelligence are all running thousands of percent higher in volume than the previous period. The AI thread is significant not because people are debating technology policy, but because AI is appearing as a weapon used against the public. Deepfake content misusing the identities of public figures to promote fraudulent investment schemes has become a recurring complaint, feeding directly into the news cycle.
+
+Social and news coverage increased at comparable rates, with social up 26.8 percent and news 25.6 percent.The issue is generating cross-platform attention driven by events rather than media amplification.
+
+The negative sentiment is the accumulated weight of several things happening at once.
+
+A major domestic bank disclosed an internal fraud that exceeded its entire annual profit, with irregularities apparently building for close to two years before action was taken. The central bank instructed licensed banks to review their controls, underlining the loss of confidence.
+
+Around the same time, the Ministry of Finance lost USD 2.5 million when a debt repayment intended for the Australian government was intercepted and redirected through a business email compromise. The Posts Department lost over USD 600,000 under almost identical circumstances shortly after. Both cases followed the same pattern: phishing emails exploiting human error rather than sophisticated technical breaches. The national carrier then dealt with a vendor payment fraud, with AED 974,500 diverted to a rogue account in Abu Dhabi, before warning the public about a malicious app circulating in the airline’s name, designed to drain bank accounts remotely.
+
+Extension of the term of the Administrator appointed to Nation Lanka Finance
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
