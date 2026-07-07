@@ -284477,6 +284477,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-07-adalk-70272705",
+    "num": "adalk-70272705",
+    "date_str": "2026-07-07",
+    "description": "\u0db8\u0dcf\u0dbb\u0dca\u0d9c \u0d85\u0d82\u0d9a \u0dad\u0dd4\u0db1\u0d9a\u0da7 \u0db6\u0dc3\u0dca \u0dbb\u0dae \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb \u0db4\u0ddc\u0d9a\u0dd4\u0dbb\u0dd4\u0d9a\u0dbb\u0dab \u0db1\u0dd2\u0dba\u0db8\u0dd4 \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dcf\u0dbb\u0dca\u0d9c-\u0d85\u0d82\u0d9a-\u0dad\u0dd4\u0db1\u0d9a\u0da7-\u0db6\u0dc3\u0dca-\u0dbb\u0dae-\u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb-\u0db4\u0ddc\u0d9a\u0dd4\u0dbb\u0dd4\u0d9a\u0dbb\u0dab-\u0db1\u0dd2\u0dba\u0db8\u0dd4-\u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0dba\u0d9a\u0dca/11-423155",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783416750.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-07-adalk-677aceff",
     "num": "adalk-677aceff",
     "date_str": "2026-07-07",
@@ -284529,6 +284540,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783420202.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-adalk-d3061fd8",
+    "num": "adalk-d3061fd8",
+    "date_str": "2026-07-07",
+    "description": "\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1 \u0dc4\u0dd2\u0da7\u0db4\u0dd4 \u0dc0\u0dda\u0d9c \u0db4\u0db1\u0dca\u0daf\u0dd4 \u0dba\u0dc0\u0db1 \u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a \u0dc2\u0dcf\u0db4\u0dd6\u0dbb\u0dca \u0dc3\u0dcf\u0daf\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca \u0daf\u0dd2\u0dc0\u0dd2 \u0dc3\u0dd0\u0dbb\u0dd2\u0dba \u0db1\u0dd2\u0db8\u0dcf \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/sports/\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1-\u0dc4\u0dd2\u0da7\u0db4\u0dd4-\u0dc0\u0dda\u0d9c-\u0db4\u0db1\u0dca\u0daf\u0dd4-\u0dba\u0dc0\u0db1-\u0d9a\u0dca\u200d\u0dbb\u0dd3\u0da9\u0d9a-\u0dc2\u0dcf\u0db4\u0dd6\u0dbb\u0dca-\u0dc3\u0dcf\u0daf\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca-\u0daf\u0dd2\u0dc0\u0dd2-\u0dc3\u0dd0\u0dbb\u0dd2\u0dba-\u0db1\u0dd2\u0db8\u0dcf-\u0d9a\u0dbb\u0dba\u0dd2/9-423157",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783420351.0
   },
   {
     "doc_type": "lk_news",
@@ -284595,5 +284617,104 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783421798.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-852dae92",
+    "num": "dailymirrorlk-852dae92",
+    "date_str": "2026-07-07",
+    "description": "Officer opened fire to prevent prison breach, says Acting Prisons Chief",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Officer-opened-fire-to-prevent-prison-breach-says-Acting-Prisons-Chief/108-344955",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783423141.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-68f95882",
+    "num": "tamilmirrorlk-68f95882",
+    "date_str": "2026-07-07",
+    "description": "\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0bb2\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd \u0b86\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd \u0ba4\u0bbf\u0ba9\u0bae\u0bcd: \u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a-\u0bb5\u0bb2\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1-\u0b95\u0bbe\u0ba3\u0bbe\u0bae\u0bb2\u0bcd-\u0b86\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bcd-\u0ba4\u0bbf\u0ba9\u0bae\u0bcd-\u0baf\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd-\u0bae\u0bbe\u0ba8\u0bbe\u0b9f\u0bc1/175-379595",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783423223.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-78511e1e",
+    "num": "tamilmirrorlk-78511e1e",
+    "date_str": "2026-07-07",
+    "description": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bae\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0baf-\u0b87\u0bb3\u0bc8\u0b9e\u0ba9\u0bcd/175-379596",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783423336.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-4aa11a74",
+    "num": "dailymirrorlk-4aa11a74",
+    "date_str": "2026-07-07",
+    "description": "Floral tribute to Edward Henry Pedris",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Floral-tribute-to-Edward-Henry-Pedris/110-344956",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783424726.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-9c3f0ec7",
+    "num": "dailymirrorlk-9c3f0ec7",
+    "date_str": "2026-07-07",
+    "description": "Train derails at Colombo Fort, disrupting rail services",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Train-derails-at-Colombo-Fort-disrupting-rail-services/108-344958",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783425916.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-9bcd04b7",
+    "num": "tamilmirrorlk-9bcd04b7",
+    "date_str": "2026-07-07",
+    "description": "\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0b9f\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b9a\u0b9f\u0bb2\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-379597",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783426163.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-88210acd",
+    "num": "tamilmirrorlk-88210acd",
+    "date_str": "2026-07-07",
+    "description": "\u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0b9f\u0bae\u0bcd \u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f\u0ba4\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0b9f\u0bae\u0bcd-\u0baa\u0bc1\u0bb0\u0ba3\u0bcd\u0b9f\u0ba4\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-379598",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783426705.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-tamilmirrorlk-ba979c24",
+    "num": "tamilmirrorlk-ba979c24",
+    "date_str": "2026-07-07",
+    "description": "\u2019\u2019\u0ba8\u0bbe\u0bae\u0bb2\u0bcd \u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bc1 \u0ba8\u0bbf\u0baf\u0bbe\u0baf\u0bae\u0bc7\u2019\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bbe\u0bae\u0bb2\u0bcd-\u0baa\u0bc1\u0bb2\u0bae\u0bcd\u0baa\u0bc1\u0bb5\u0ba4\u0bc1-\u0ba8\u0bbf\u0baf\u0bbe\u0baf\u0bae\u0bc7/175-379599",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783426980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-dailymirrorlk-8fc2ea3b",
+    "num": "dailymirrorlk-8fc2ea3b",
+    "date_str": "2026-07-07",
+    "description": "Indonesia, India announce long-range missile deal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indonesia-India-announce-long-range-missile-deal/108-344959",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783427406.0
   }
 ]

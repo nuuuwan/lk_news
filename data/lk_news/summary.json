@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-07 16:48:04",
-  "n_docs": 122231,
+  "time_updated": "2026-07-07 18:38:05",
+  "n_docs": 122242,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 122231,
+  "n_docs_with_text": 122242,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-07",
-  "dataset_size": 1907695337,
+  "dataset_size": 1907857770,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-07-dailymirrorlk-f8d740d8",
-    "num": "dailymirrorlk-f8d740d8",
+    "doc_id": "2026-07-07-dailymirrorlk-8fc2ea3b",
+    "num": "dailymirrorlk-8fc2ea3b",
     "date_str": "2026-07-07",
-    "description": "No prior intelligence received on Negombo Prison violence: Prisons Chief",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/No-prior-intelligence-received-on-Negombo-Prison-violence-Prisons-Chief/108-344953",
+    "description": "Indonesia, India announce long-range missile deal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indonesia-India-announce-long-range-missile-deal/108-344959",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783421798.0
+    "time_ut": 1783427406.0
   }
 }
