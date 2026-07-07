@@ -285277,5 +285277,126 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783457307.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-189fe0e1",
+    "num": "dailymirrorlk-189fe0e1",
+    "date_str": "2026-07-08",
+    "description": "SLID and SEC collaborate for stronger corporate leadership",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SLID-and-SEC-collaborate-for-stronger-corporate-leadership/273-344980",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783457557.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-37b58182",
+    "num": "dailymirrorlk-37b58182",
+    "date_str": "2026-07-08",
+    "description": "Oil palm deserves scientific assessment, not blanket condemnation: Professor",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Oil-palm-deserves-scientific-assessment-not-blanket-condemnation-Professor/273-344981",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783457692.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-61924e6f",
+    "num": "dailymirrorlk-61924e6f",
+    "date_str": "2026-07-08",
+    "description": "BELGOLUX-Sri Lanka Economic Forum explores economic partnerships with Belgium and Luxembourg",
+    "url_metadata": "https://www.dailymirror.lk/business-news/BELGOLUX-Sri-Lanka-Economic-Forum-explores-economic-partnerships-with-Belgium-and-Luxembourg/273-344982",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783457781.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-2831aeed",
+    "num": "dailymirrorlk-2831aeed",
+    "date_str": "2026-07-08",
+    "description": "Indices close in red",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Indices-close-in-red/273-344983",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783457862.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-26e90e43",
+    "num": "dailymirrorlk-26e90e43",
+    "date_str": "2026-07-08",
+    "description": "Yield curve unchanged, with foreign buying in 2030",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Yield-curve-unchanged-with-foreign-buying-in-2030/273-344984",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783458158.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-49e94a73",
+    "num": "dailymirrorlk-49e94a73",
+    "date_str": "2026-07-08",
+    "description": "Sanasa Life registration reinstated by insurance regulator after seven-month suspension",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sanasa-Life-registration-reinstated-by-insurance-regulator-after-seven-month-suspension/273-344985",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783458197.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-cc16041d",
+    "num": "dailymirrorlk-cc16041d",
+    "date_str": "2026-07-08",
+    "description": "Online marketplaces require clarity on VAT calculations",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Online-marketplaces-require-clarity-on-VAT-calculations/273-344986",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783458239.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-9fc43703",
+    "num": "dailymirrorlk-9fc43703",
+    "date_str": "2026-07-08",
+    "description": "Sheamalee Wickramasingha takes helm as CBL Chairperson",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sheamalee-Wickramasingha-takes-helm-as-CBL-Chairperson/273-344987",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783458632.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-2158b796",
+    "num": "dailymirrorlk-2158b796",
+    "date_str": "2026-07-08",
+    "description": "Former SEC chief slams banking sector and professionals over SME neglect",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Former-SEC-chief-slams-banking-sector-and-professionals-over-SME-neglect/273-344988",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783458753.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-1f47bb51",
+    "num": "dailymirrorlk-1f47bb51",
+    "date_str": "2026-07-08",
+    "description": "Digital VAT ambiguity could undermine Sri Lanka\u2019s investment appeal: EY warns",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Digital-VAT-ambiguity-could-undermine-Sri-Lankas-investment-appeal-EY-warns/245-344989",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783458966.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-466b3f90",
+    "num": "dailymirrorlk-466b3f90",
+    "date_str": "2026-07-08",
+    "description": "England hammer India in Record-Breaking T20 thrashing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/England-hammer-India-in-Record-Breaking-T20-thrashing/108-344992",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783461725.0
   }
 ]

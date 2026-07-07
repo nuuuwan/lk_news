@@ -1,0 +1,31 @@
+Digital VAT ambiguity could undermine Sri Lanka’s investment appeal: EY warns
+
+Says the issue is not whether digital services should be taxed, but whether businesses can clearly understand their obligations under the new regime
+
+Points out one of the biggest concerns is that the current wording could potentially bring a much wider range of businesses into the tax net than intended
+
+Sri Lanka’s proposed framework to tax digital services could inadvertently raise compliance costs for multinational companies and make the country a more complex market to serve unless authorities provide greater clarity on the new rules, tax experts at EY Sri Lanka have cautioned.
+
+As Sri Lanka moves to tax digital services provided from overseas, questions are emerging over whether the new framework provides sufficient certainty for multinational businesses operating across multiple jurisdictions.
+
+In a joint analysis, EY Sri Lanka Head of Tax Sulaiman Nishtar, Partner-Tax Shehani Paranavitane and Principal-Tax Shakthi Velauthapillai said the issue is not whether digital services should be taxed, but whether businesses can clearly understand their obligations under the new regime and comply with them without undue cost or uncertainty.
+
+“The more important question is whether the framework provides sufficient clarity for taxpayers to determine when they are within the scope of the rules, what their obligations are, and how they are expected to comply,” the experts noted.
+
+The analysis identifies several areas where businesses may struggle to interpret the proposed framework, including the definition of a digital service, the scope of an electronic platform, the basis on which VAT should be calculated and the point at which tax liability begins.
+
+According to EY, one of the biggest concerns is that the current wording could potentially bring a much wider range of businesses into the tax net than intended. While the framework appears designed to target online marketplaces and digital intermediaries, companies providing services through websites, applications and other digital interfaces could also find themselves subject to registration and reporting obligations.
+
+The analysts warned that multinational firms operating across numerous jurisdictions already face extensive indirect tax compliance requirements, and any uncertainty over Sri Lanka’s rules could add to administrative burdens and costs.
+
+“If Sri Lanka’s rules are perceived as unnecessarily broad, businesses may be required to undertake compliance obligations that are disproportionate to the revenue at stake. Ultimately, these additional compliance costs become part of the overall cost of doing business in Sri Lanka and may discourage investment into the market.”
+
+The analysis further noted uncertainty surrounding implementation. While the legislation appears to allow non-resident providers time to register after the Inland Revenue Department makes the registration process available, the practical registration mechanism has yet to be introduced. This raises questions over the treatment of transactions occurring before registration becomes possible.
+
+Beyond the legislation itself, EY stressed that the success of the new regime will depend on whether supporting systems are ready. The firm said digital tax frameworks rely on efficient online registration, filing and payment mechanisms that are accessible to businesses located outside the country.
+
+Sri Lanka’s move to tax the digital economy is consistent with international practice and reflects the need to protect the country’s revenue base as business activity increasingly shifts online. However, the EY experts argued that clear guidance on scope, registration and compliance obligations will be essential if the regime is to achieve its objectives without creating unintended consequences.
+
+“Tax is only one factor considered by multinational businesses when deciding how to operate in a particular market. Certainty is often just as important.”
+
+“A company can generally price for tax. What it struggles to price for is uncertainty”.
