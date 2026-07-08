@@ -1,0 +1,31 @@
+Sri Lanka ranks 83rd globally in Claude AI usage, new data shows
+
+Colombo, July 8 (Daily Mirror) - Anthropic, the company behind the Claude AI chatbot, tracks how people around the world use its models through what it calls the Anthropic Economic Index. The Index breaks down usage by country, by occupation, and by task type, using data pulled from Claude.ai conversations.
+
+According to this data, Sri Lanka sits at rank 83 out of 121 countries measured, with a usage index of 0.56x. In simple terms, that means Sri Lankans are using Claude at just over half the rate you'd expect for a country of its size and workforce.
+
+The Index lists the most frequent topics among Sri Lankan users. Homework help tops the list at 13.1% of conversations, which points to students being one of the largest user groups in the country. After that comes:
+
+-Self-presentation writing, such as CVs and personal bios, at 4.6%
+
+When the same data is grouped by occupation using O*NET-SOC codes (a standard US labor classification system), a clearer pattern shows up. Computer and Mathematical occupations account for the largest share of Claude conversations in Sri Lanka, at 29.6%.
+
+Educational Instruction and Library roles follow at 15.2%, with Arts, Design, Entertainment, and Sports occupations close behind at 13.4%. Office and Administrative Support sits at 8.0%, and Sales and Related roles make up 6.1%.
+
+The Anthropic Economic Index also groups conversations by the kind of task being done, rather than the user's job. Here's how that looks for Sri Lanka:
+
+Two groups stand out clearly: students and learners on one side, developers and content writers on the other. Coding and writing-related tasks combined make up close to half of all local Claude usage, which suggests the tool is becoming a working part of Sri Lanka's digital and tech sector, even as overall adoption in the country still lags behind the global average.
+
+The Usage Index compares a country's actual Claude usage against what would be expected based on the size of its working population. A score of 1.0x means usage matches that expectation exactly. A score above 1.0x means a country is using Claude more than its population size would predict, and a score below 1.0x means it is using Claude less.
+
+At rank 83 out of 121, Sri Lanka falls into the lower half of this scale, closer to the emerging end than the leading one.
+
+Based on where they land globally, countries are grouped into four bands:
+
+Sri Lanka ranks 83rd out of 121 countries tracked in the Anthropic Economic Index, with a usage index of 0.56x the expected rate.
+
+Homework help is the single most common use case, followed by web front-end development, CV and bio writing, and promotional or marketing copy.
+
+Computer and Mathematical occupations lead, followed by Educational Instruction and Library roles, and Arts, Design, and Entertainment occupations.
+
+Australia ranks first globally, with a Usage Index of 6.40x, followed by Singapore at 5.81x and Switzerland at 5.02x.

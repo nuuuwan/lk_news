@@ -287161,6 +287161,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-08-adalk-90bc8f5f",
+    "num": "adalk-90bc8f5f",
+    "date_str": "2026-07-08",
+    "description": "\u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0db8\u0dbb\u0dab 42\u0dba\u0dd2, \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca 63 385",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0db8\u0dbb\u0dab-42\u0dba\u0dd2--\u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca-63-385/11-423173",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783503745.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-08-tamilmirrorlk-80c2b450",
     "num": "tamilmirrorlk-80c2b450",
     "date_str": "2026-07-08",
@@ -287249,6 +287260,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-08-adalk-71bfed6b",
+    "num": "adalk-71bfed6b",
+    "date_str": "2026-07-08",
+    "description": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda \u0db4\u0dc0\u0dd4\u0dbd\u0dca \u0dbd\u0d9a\u0dca\u0dc2 16\u0d9a\u0dca \u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbd\u0d82\u0d9a\u0dcf\u0dc0\u0dda-\u0db4\u0dc0\u0dd4\u0dbd\u0dca-\u0dbd\u0d9a\u0dca\u0dc2-16\u0d9a\u0dca-\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8/11-423176",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783505741.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-08-adalk-2131a279",
     "num": "adalk-2131a279",
     "date_str": "2026-07-08",
@@ -287312,5 +287334,104 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783507920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-6fe20951",
+    "num": "dailymirrorlk-6fe20951",
+    "date_str": "2026-07-08",
+    "description": "2027 Budget to prioritise long-term solutions for drinking water issues",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/2027-Budget-to-prioritise-long-term-solutions-for-drinking-water-issues/108-345084",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783509732.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-0e33a5a4",
+    "num": "dailymirrorlk-0e33a5a4",
+    "date_str": "2026-07-08",
+    "description": "Sri Lanka ranks 83rd globally in Claude AI usage, new data shows",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-ranks-83rd-globally-in-Claude-AI-usage-new-data-shows/108-345085",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783510104.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-ee4f5255",
+    "num": "dailymirrorlk-ee4f5255",
+    "date_str": "2026-07-08",
+    "description": "Government must reconsider northern train service cuts ahead of the Nallur Kandaswamy Temple Festival \u2013 Cassilingam",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-must-reconsider-northern-train-service-cuts-ahead-of-the-Nallur-Kandaswamy-Temple-Festival-Cassilingam/108-345088",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783512127.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-117471d1",
+    "num": "dailymirrorlk-117471d1",
+    "date_str": "2026-07-08",
+    "description": "Housing aid programme planned for low-income families with unfinished homes",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Housing-aid-programme-planned-for-low-income-families-with-unfinished-homes/108-345089",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783512255.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-543ea3af",
+    "num": "dailymirrorlk-543ea3af",
+    "date_str": "2026-07-08",
+    "description": "Warm weather advisory issued for three districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Warm-weather-advisory-issued-for-three-districts/108-345090",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783512724.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-aff32844",
+    "num": "dailymirrorlk-aff32844",
+    "date_str": "2026-07-08",
+    "description": "Education institutions to strengthen inclusive education framework",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Education-institutions-to-strengthen-inclusive-education-framework/108-345091",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783513041.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-tamilmirrorlk-3faa5503",
+    "num": "tamilmirrorlk-3faa5503",
+    "date_str": "2026-07-08",
+    "description": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bae\u0bcd  \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: \u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bae\u0bcd-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0b9f\u0bc1\u0b95\u0bbe\u0baf\u0bae\u0bcd/175-379650",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783513557.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-5e03ce0a",
+    "num": "dailymirrorlk-5e03ce0a",
+    "date_str": "2026-07-08",
+    "description": "Kandy Esala Perahera to begin with \u2019Kap\u2019 planting ceremony on August 13",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kandy-Esala-Perahera-to-begin-with-Kap-planting-ceremony-on-August-13/108-345092",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783513904.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-tamilmirrorlk-9d95cd06",
+    "num": "tamilmirrorlk-9d95cd06",
+    "date_str": "2026-07-08",
+    "description": "13 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1: \u0b90.\u0b86\u0bb0\u0bcd.\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8: \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbe\u0bb2\u0bcd \u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/13-\u0bb5\u0baf\u0ba4\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0bb5\u0ba9\u0bcd\u0baa\u0bc1\u0ba3\u0bb0\u0bcd\u0bb5\u0bc1-\u0b90-\u0b86\u0bb0\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0ba3\u0bc8-\u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bbe\u0bb2\u0bcd-\u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1/175-379651",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783514228.0
   }
 ]
