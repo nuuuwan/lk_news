@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-08 14:39:56",
-  "n_docs": 122441,
+  "time_updated": "2026-07-08 16:27:20",
+  "n_docs": 122478,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 122441,
+  "n_docs_with_text": 122478,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-08",
-  "dataset_size": 1910732412,
+  "dataset_size": 1911203440,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
-    "ta"
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-08-tamilmirrorlk-09779cac",
-    "num": "tamilmirrorlk-09779cac",
+    "doc_id": "2026-07-08-dailymirrorlk-08715936",
+    "num": "dailymirrorlk-08715936",
     "date_str": "2026-07-08",
-    "description": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1: \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bcd-\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1/175-379645",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1783501220.0
+    "description": "Government committed to preparing children for technology-driven future: PM",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-committed-to-preparing-children-for-technology-driven-future-PM/108-345083",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783507920.0
   }
 }
