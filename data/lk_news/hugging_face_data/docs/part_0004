@@ -287708,5 +287708,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783526108.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-d2a7a203",
+    "num": "dailymirrorlk-d2a7a203",
+    "date_str": "2026-07-09",
+    "description": "West Indies penalised for slow over-rate in second test against Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/West-Indies-penalised-for-slow-over-rate-in-second-test-against-Sri-Lanka/108-345107",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783535810.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-22c07239",
+    "num": "tamilmirrorlk-22c07239",
+    "date_str": "2026-07-09",
+    "description": "\u2019\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd \u0b9a\u0bc2\u0b9f\u0bc1 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bc8\u0baa\u0bcd \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9a\u0bcd-\u0b9a\u0bc2\u0b9f\u0bc1-\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf-\u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bc8\u0baa\u0bcd-\u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-379673",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783537620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-16e53b37",
+    "num": "tamilmirrorlk-16e53b37",
+    "date_str": "2026-07-09",
+    "description": "\u2019\u0bae\u0bc1\u0ba4\u0bc1\u0b95\u0bc6\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba8\u0bc7\u0bb0\u0bbf\u0bb2\u0bcd \u0bb5\u0ba3\u0b99\u0bcd\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bc1\u0b95\u0bc6\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0ba8\u0bc7\u0bb0\u0bbf\u0bb2\u0bcd-\u0bb5\u0ba3\u0b99\u0bcd\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/175-379674",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783538055.0
   }
 ]
