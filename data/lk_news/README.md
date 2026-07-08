@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--09_02:15:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--09_04:07:56-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,517** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,519** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-09**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-09-tamilmirrorlk-16e53b37",
-    "num": "tamilmirrorlk-16e53b37",
+    "doc_id": "2026-07-09-dailyftlk-f6115172",
+    "num": "dailyftlk-f6115172",
     "date_str": "2026-07-09",
-    "description": "\u2019\u0bae\u0bc1\u0ba4\u0bc1\u0b95\u0bc6\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba8\u0bc7\u0bb0\u0bbf\u0bb2\u0bcd \u0bb5\u0ba3\u0b99\u0bcd\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba4\u0bc1\u0b95\u0bc6\u0bb2\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd-\u0ba8\u0bc7\u0bb0\u0bbf\u0bb2\u0bcd-\u0bb5\u0ba3\u0b99\u0bcd\u0b95\u0bbe\u0ba4\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd/175-379674",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1783538055.0
+    "description": "The crime was not the end: How Social Media can harm child abuse victims again",
+    "url_metadata": "https://www.ft.lk/columns/The-crime-was-not-the-end-How-Social-Media-can-harm-child-abuse-victims-again/4-794401",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783548874.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-09 | `dailyftlk-f6115172` | The crime was not the end: How Social Media can harm child abuse victims again | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-dailyftlk-f6115172)
+- 2026-07-09 | `dailyftlk-f9765fe6` | Understanding child sexual abuse and those who commit it | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-dailyftlk-f9765fe6)
 - 2026-07-09 | `tamilmirrorlk-16e53b37` | ’முதுகெலும்பு இருந்தால் நேரில் வணங்காதீர்கள்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-tamilmirrorlk-16e53b37)
 - 2026-07-09 | `tamilmirrorlk-22c07239` | ’துப்பாக்கிச் சூடு நடத்திய அதிகாரியைப் பாதுகாத்திடுங்கள்’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-tamilmirrorlk-22c07239)
 - 2026-07-09 | `dailymirrorlk-d2a7a203` | West Indies penalised for slow over-rate in second test against Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-dailymirrorlk-d2a7a203)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-07-08 | `dailymirrorlk-0089b4b0` | New Era Begins? West Indies build on historic series win over Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-0089b4b0)
 - 2026-07-08 | `dailymirrorlk-ff64a143` | German doctor jailed for killing 15 of his patients | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-ff64a143)
 - 2026-07-08 | `dailymirrorlk-d6ebe483` | Trump threatens to hit Iran ’hard again tonight’ after saying ceasefire ’is over’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-d6ebe483)
-- 2026-07-08 | `dailymirrorlk-1dbd1a5e` | 239 drivers, conductors test positive for drugs in Western Province | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-1dbd1a5e)
-- 2026-07-08 | `dailymirrorlk-e185b56a` | CSE declines further as geopolitical concerns weigh on investor sentiment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-e185b56a)
 
 ---
 
