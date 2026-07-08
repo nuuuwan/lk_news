@@ -278537,6 +278537,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-04-islandlk-829bbbda",
+    "num": "islandlk-829bbbda",
+    "date_str": "2026-07-04",
+    "description": "Income status: Reality and challenges",
+    "url_metadata": "http://island.lk/income-status-reality-and-challenges/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783158960.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-04-dailymirrorlk-46096644",
     "num": "dailymirrorlk-46096644",
     "date_str": "2026-07-04",
@@ -282585,6 +282596,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-06-islandlk-1abcf356",
+    "num": "islandlk-1abcf356",
+    "date_str": "2026-07-06",
+    "description": "Saudi Arabia deepens investment in Sri Lanka with USD 50 mn medical faculty",
+    "url_metadata": "http://island.lk/saudi-arabia-deepens-investment-in-sri-lanka-with-usd-50-mn-medical-faculty/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783349400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-islandlk-c85f91d2",
+    "num": "islandlk-c85f91d2",
+    "date_str": "2026-07-06",
+    "description": "Arpico Insurance welcomes finance professional Naresh Tillekeratne to Board",
+    "url_metadata": "http://island.lk/arpico-insurance-welcomes-finance-professional-naresh-tillekeratne-to-board/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783349460.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-islandlk-f773ef30",
+    "num": "islandlk-f773ef30",
+    "date_str": "2026-07-06",
+    "description": "EFC new Chair reaffirms commitment to national employment policies and responsible business initiatives",
+    "url_metadata": "http://island.lk/efc-new-chair-reaffirms-commitment-to-national-employment-policies-and-responsible-business-initiatives/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783349520.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-06-islandlk-fa6ade71",
     "num": "islandlk-fa6ade71",
     "date_str": "2026-07-06",
@@ -282651,6 +282695,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-06-islandlk-67ceae8e",
+    "num": "islandlk-67ceae8e",
+    "date_str": "2026-07-06",
+    "description": "Intelligence-led governance: the strategic path to a sovereign nation",
+    "url_metadata": "http://island.lk/intelligence-led-governance-the-strategic-path-to-a-sovereign-nation/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783350180.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-06-virakesarilk-e94abff7",
     "num": "virakesarilk-e94abff7",
     "date_str": "2026-07-06",
@@ -282692,6 +282747,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783352553.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-islandlk-22dcbc08",
+    "num": "islandlk-22dcbc08",
+    "date_str": "2026-07-06",
+    "description": "The perfect victim: How institutions respond",
+    "url_metadata": "http://island.lk/the-perfect-victim-how-institutions-respond/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783352700.0
   },
   {
     "doc_type": "lk_news",
@@ -285137,6 +285203,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-07-islandlk-2a2170c3",
+    "num": "islandlk-2a2170c3",
+    "date_str": "2026-07-07",
+    "description": "Empowering Sri Lanka\u2019s digital future: Cloud, customer, and competitive advantage with Salesforce",
+    "url_metadata": "http://island.lk/empowering-sri-lankas-digital-future-cloud-customer-and-competitive-advantage-with-salesforce/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783440960.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-islandlk-459f253d",
+    "num": "islandlk-459f253d",
+    "date_str": "2026-07-07",
+    "description": "Full-scale marketing for an industry never seen before in Sri Lanka",
+    "url_metadata": "http://island.lk/full-scale-marketing-for-an-industry-never-seen-before-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783441080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-islandlk-d48eed8f",
+    "num": "islandlk-d48eed8f",
+    "date_str": "2026-07-07",
+    "description": "CDB SMB Fair trailblazes in Kandy, showcasing the best of local business",
+    "url_metadata": "http://island.lk/cdb-smb-fair-trailblazes-in-kandy-showcasing-the-best-of-local-business/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783441380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-islandlk-dcd445b5",
+    "num": "islandlk-dcd445b5",
+    "date_str": "2026-07-07",
+    "description": "Companies with large market capitalization leaving much to be desired",
+    "url_metadata": "http://island.lk/companies-with-large-market-capitalization-leaving-much-to-be-desired/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783441380.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-07-tamilmirrorlk-fa07024b",
     "num": "tamilmirrorlk-fa07024b",
     "date_str": "2026-07-07",
@@ -285398,5 +285508,60 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783461725.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-f25deaf5",
+    "num": "dailymirrorlk-f25deaf5",
+    "date_str": "2026-07-08",
+    "description": "Djokovic wins five-set epic to set up Sinner semi-final",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Djokovic-wins-five-set-epic-to-set-up-Sinner-semi-final/108-344994",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783464180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-b8a58f91",
+    "num": "dailymirrorlk-b8a58f91",
+    "date_str": "2026-07-08",
+    "description": "Series Won! West Indies hold Sri Lanka to draw to end long drought",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Series-Won-West-Indies-hold-Sri-Lanka-to-draw-to-end-long-drought/108-344995",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783465845.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailyftlk-68c9412f",
+    "num": "dailyftlk-68c9412f",
+    "date_str": "2026-07-08",
+    "description": "Sajith blames Government over Negombo prison deaths, questions national security claims",
+    "url_metadata": "https://www.ft.lk/news/Sajith-blames-Government-over-Negombo-prison-deaths-questions-national-security-claims/56-794334",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783470918.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailyftlk-7852eba5",
+    "num": "dailyftlk-7852eba5",
+    "date_str": "2026-07-08",
+    "description": "No prior intelligence on Negombo Prison unrest; multiple investigations underway, says Prisons Chief",
+    "url_metadata": "https://www.ft.lk/news/No-prior-intelligence-on-Negombo-Prison-unrest-multiple-investigations-underway-says-Prisons-Chief/56-794335",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783471053.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailyftlk-b38dd6a5",
+    "num": "dailyftlk-b38dd6a5",
+    "date_str": "2026-07-08",
+    "description": "Preliminary probe links Negombo Prison bloodshed to rival drug groups",
+    "url_metadata": "https://www.ft.lk/news/Preliminary-probe-links-Negombo-Prison-bloodshed-to-rival-drug-groups/56-794336",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783471136.0
   }
 ]

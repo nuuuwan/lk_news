@@ -1,0 +1,35 @@
+Empowering Sri Lanka’s digital future: Cloud, customer, and competitive advantage with Salesforce
+
+Sri Lanka is at an interesting inflection point in its digital journey. From your experience in India and the region, what key lessons can Sri Lankan enterprises adopt to accelerate their own digital transformation?
+
+Sri Lanka is at a pivotal stage in its digital journey. Through the National Digital Economy Strategy 2030, the Government has articulated a clear vision to build a digitally empowered economy that is innovative, inclusive and globally competitive. The strategy positions digital transformation as a key driver of economic growth, service exports and productivity, creating a strong foundation for businesses to accelerate their own transformation journeys. We believe the real breakthrough happens when we stop using AI to simply do what humans do faster, and start using it to rethink how work gets done entirely.
+
+For Sri Lankan leaders, the goal should be Collective Agency. This means moving beyond “individual agency”, where an AI helps one employee, to a state where hundreds or thousands of agents are coordinated across the entire enterprise to perform complex tasks. To do this, you need a unified foundation of live, governed data. Don’t build from scratch with fragile integrations; build on a complete operating system that handles the complexity for you.
+
+You’ve been at the forefront of cloud adoption across industries. How can cloud-based solutions like Salesforce help Sri Lankan businesses—both large enterprises and SMEs—become more agile and competitive in global markets?
+
+Sri Lanka is at an exciting point in its digital transformation journey. With the Government setting a clear vision for a digitally enabled and globally competitive economy, businesses have an opportunity to embrace the next wave of innovation and position themselves for long-term growth.
+
+Cloud technology is a key enabler of that transformation. It gives organizations the flexibility to innovate faster, scale more efficiently, and respond quickly to changing customer and market demands. Whether you’re a large enterprise looking to modernize operations or an SME serving customers across Sri Lanka, cloud platforms help level the playing field by making advanced capabilities more accessible.
+
+At Salesforce, we’ve evolved from delivering applications for humans to delivering applications and agents that work alongside people. Through Agentforce, organizations can deploy trusted AI agents that help automate routine tasks, enhance customer experiences, and improve productivity across the business.
+
+What’s particularly exciting is that this opportunity is available to organizations at every stage of their digital journey. Businesses can build on their existing technology investments while introducing AI, automation, and unified data capabilities that drive greater agility and resilience. Rather than undertaking large-scale transformation projects, they can focus on delivering value incrementally and seeing measurable outcomes faster.
+
+For Sri Lankan businesses competing in an increasingly connected global economy, the ability to move quickly, serve customers intelligently, and scale efficiently will be a key differentiator. Cloud and AI technologies make that possible, helping organizations of all sizes unlock new opportunities for growth and innovation.
+
+Customer expectations are changing rapidly, even in smaller markets like Sri Lanka. What are the biggest shifts you see in customer engagement, and how can Salesforce enable businesses here to build deeper, more meaningful relationships with their customers?
+
+We are witnessing a fundamental shift in the very nature of service and engagement. As citizens become more accustomed to digital-first experiences through initiatives such as GovPay and broader digital government services, expectations are rising across every industry. Customers increasingly expect the same levels of convenience, speed and personalization from businesses that they experience in their interactions with public and digital services. The “search and wait” era is being replaced by the era of instant, autonomous resolution. In a vibrant, service-oriented economy like Sri Lanka, where the human touch and local context are paramount, this transformation offers a massive competitive advantage.
+
+Intelligent Service, Not Just Chatbots: Traditional chatbots often create friction because they can only follow predefined scripts. With Agentforce, businesses can deploy AI agents that go beyond answering questions—they can take action, resolve issues, and seamlessly hand off to human employees when needed, ensuring a more efficient and personalized customer experience.
+
+Trust and Personalization at Scale: In Sri Lanka, business is built on relationships and trust. Meaningful customer engagement requires AI to be grounded in accurate, unified business data. With Data Cloud, organizations can bring together customer information from across the business, enabling more relevant, personalized, and trusted interactions.
+
+CDB SMB Fair trailblazes in Kandy, showcasing the best of local business
+
+Full-scale marketing for an industry never seen before in Sri Lanka
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.

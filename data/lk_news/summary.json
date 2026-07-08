@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-08 04:09:40",
-  "n_docs": 122304,
+  "time_updated": "2026-07-08 06:22:33",
+  "n_docs": 122319,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 122304,
+  "n_docs_with_text": 122319,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-08",
-  "dataset_size": 1908877658,
+  "dataset_size": 1909014522,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
+    "en",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-08-dailymirrorlk-466b3f90",
-    "num": "dailymirrorlk-466b3f90",
+    "doc_id": "2026-07-08-dailyftlk-b38dd6a5",
+    "num": "dailyftlk-b38dd6a5",
     "date_str": "2026-07-08",
-    "description": "England hammer India in Record-Breaking T20 thrashing",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/England-hammer-India-in-Record-Breaking-T20-thrashing/108-344992",
+    "description": "Preliminary probe links Negombo Prison bloodshed to rival drug groups",
+    "url_metadata": "https://www.ft.lk/news/Preliminary-probe-links-Negombo-Prison-bloodshed-to-rival-drug-groups/56-794336",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783461725.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783471136.0
   }
 }

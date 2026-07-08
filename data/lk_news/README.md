@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--08_04:10:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--08_06:23:29-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,304** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,319** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-08-dailymirrorlk-466b3f90",
-    "num": "dailymirrorlk-466b3f90",
+    "doc_id": "2026-07-08-dailyftlk-b38dd6a5",
+    "num": "dailyftlk-b38dd6a5",
     "date_str": "2026-07-08",
-    "description": "England hammer India in Record-Breaking T20 thrashing",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/England-hammer-India-in-Record-Breaking-T20-thrashing/108-344992",
+    "description": "Preliminary probe links Negombo Prison bloodshed to rival drug groups",
+    "url_metadata": "https://www.ft.lk/news/Preliminary-probe-links-Negombo-Prison-bloodshed-to-rival-drug-groups/56-794336",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783461725.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783471136.0
 }
 ```
 
@@ -41,6 +41,11 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-08 | `dailyftlk-b38dd6a5` | Preliminary probe links Negombo Prison bloodshed to rival drug groups | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailyftlk-b38dd6a5)
+- 2026-07-08 | `dailyftlk-7852eba5` | No prior intelligence on Negombo Prison unrest; multiple investigations underway, says Prisons Chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailyftlk-7852eba5)
+- 2026-07-08 | `dailyftlk-68c9412f` | Sajith blames Government over Negombo prison deaths, questions national security claims | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailyftlk-68c9412f)
+- 2026-07-08 | `dailymirrorlk-b8a58f91` | Series Won! West Indies hold Sri Lanka to draw to end long drought | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-b8a58f91)
+- 2026-07-08 | `dailymirrorlk-f25deaf5` | Djokovic wins five-set epic to set up Sinner semi-final | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-f25deaf5)
 - 2026-07-08 | `dailymirrorlk-466b3f90` | England hammer India in Record-Breaking T20 thrashing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-466b3f90)
 - 2026-07-08 | `dailymirrorlk-1f47bb51` | Digital VAT ambiguity could undermine Sri Lanka’s investment appeal: EY warns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-1f47bb51)
 - 2026-07-08 | `dailymirrorlk-2158b796` | Former SEC chief slams banking sector and professionals over SME neglect | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-2158b796)
@@ -56,11 +61,6 @@ A collection of lk_news documents.
 - 2026-07-08 | `dailymirrorlk-2eec82f9` | Neglected Kerawalapitiya industrial road sparks concerns | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-2eec82f9)
 - 2026-07-08 | `dailymirrorlk-31a60edc` | First Capital Holdings and First Capital Treasuries retain ‘A+’ rating with Stable Outlook | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-31a60edc)
 - 2026-07-08 | `dailymirrorlk-261cadce` | Sri Lanka seeks to boost Thai investment through Bangkok Business Forum | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-261cadce)
-- 2026-07-08 | `dailymirrorlk-86dfb7d7` | The Global Economics Awards People’s Insurance, Best General Insurance Company of the Year 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-86dfb7d7)
-- 2026-07-08 | `dailymirrorlk-b6624ae4` | The Offices at Cinnamon Life receives SL’s 1st GreenRE Gold Certification | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-b6624ae4)
-- 2026-07-08 | `dailymirrorlk-d5a483c6` | HNB General Insurance among SL’s 50 Best Workplaces | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-d5a483c6)
-- 2026-07-08 | `dailymirrorlk-bd9b3820` | Power & Energy Expo Sri Lanka 2026 GoodWe concludes successful participation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-bd9b3820)
-- 2026-07-08 | `dailymirrorlk-f0a777ed` | Hayleys Solar commissions 90 kW solar power system at Colombo University | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-f0a777ed)
 
 ---
 
