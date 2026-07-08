@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--08_10:56:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--08_12:52:36-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,399** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,406** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-08-virakesarilk-5e4f1c40",
-    "num": "virakesarilk-5e4f1c40",
+    "doc_id": "2026-07-08-tamilmirrorlk-4591af59",
+    "num": "tamilmirrorlk-4591af59",
     "date_str": "2026-07-08",
-    "description": "\u0ba8\u0bc0\u0bb0\u0bcd\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bcb\u0ba4\u0bb2\u0bcd \u0b9a\u0bae\u0bcd\u0baa\u0bb5\u0bae\u0bcd ; \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0ba8\u0bcd\u0ba4 \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b89\u0b9f\u0bb2\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0bb5\u0bc6\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bc8 \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bbe\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0b9a\u0bcd \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba9",
-    "url_metadata": "https://www.virakesari.lk/article/252441",
+    "description": "\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf\u0bb5\u0bbf\u0ba9\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0baa\u0baf\u0bb5\u0bbf\u0ba9\u0bcd-\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0bb3\u0bb0\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-379637",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1783487280.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783494116.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-08 | `tamilmirrorlk-4591af59` | கோட்டாபயவின் செயலாளரின் விளக்கமறியல் நீடிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-tamilmirrorlk-4591af59)
+- 2026-07-08 | `tamilmirrorlk-76fffbbd` | நீர்கொழும்பு சிறைச்சாலை கலவரம்: துப்பாக்கிச் சூடு நியாயமானது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-tamilmirrorlk-76fffbbd)
+- 2026-07-08 | `tamilmirrorlk-86fb17be` | லஞ்ச வழக்கில் சீன முன்னாள் அதிகாரிக்கு மரண தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-tamilmirrorlk-86fb17be)
+- 2026-07-08 | `tamilmirrorlk-190d627e` | சிறுமியை கடத்தி 32 பேர் வன்புணர்வு :12 பேர் கைது   (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-tamilmirrorlk-190d627e)
+- 2026-07-08 | `tamilmirrorlk-559fe6e7` | பாகிஸ்தானில் போயிங் சரக்கு விமானம் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-tamilmirrorlk-559fe6e7)
+- 2026-07-08 | `tamilmirrorlk-0665e766` | அர்ஜென்டினா; சுவிட்சர்லாந்துடன் மோதல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-tamilmirrorlk-0665e766)
 - 2026-07-08 | `virakesarilk-5e4f1c40` | நீர்கொழும்பு சிறைச்சாலை மோதல் சம்பவம் ; உயிரிழந்த சிறைச்சாலை அதிகாரிகளின் உடல்களும் வெலிக்கடை சிறைசாலைக்கு கொண்டுச் செல்லப்பட்டன | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-virakesarilk-5e4f1c40)
 - 2026-07-08 | `dailymirrorlk-89fb56ff` | Remains of prison officers killed in clash brought to Welikada | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-89fb56ff)
 - 2026-07-08 | `virakesarilk-78cad0e7` | சம்பூர் படுகொலைச் சம்பவத்தின் 36வது ஆண்டு நினைவேந்தல் நிகழ்வு ! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-virakesarilk-78cad0e7)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-07-08 | `dailymirrorlk-33fbf013` | House Arrest Act soon to mitigate prison overcrowding: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-33fbf013)
 - 2026-07-08 | `dailymirrorlk-b20f69a2` | Iran target US military sites in Kuwait, Bahrain after earlier American strikes | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-b20f69a2)
 - 2026-07-08 | `virakesarilk-a811bd5c` | ஆர்பாட்டங்களில்   பங்குகொள்பவர்கள் அனைவரும்  உண்மையிலேயே விவசாயிகள்தானா என்ற சந்தேகம் எமக்கு ஏற்பட்டுள்ளது – ஜகத் மனுவர்ண! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-virakesarilk-a811bd5c)
-- 2026-07-08 | `dailymirrorlk-7d6b72cd` | Egypt were ‘cheated’ in World Cup loss to Argentina, coach Hassan says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-7d6b72cd)
-- 2026-07-08 | `tamilmirrorlk-c2abc233` | நுவரெலியாவில் பின்னால் கவிழ்ந்த பஸ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-tamilmirrorlk-c2abc233)
-- 2026-07-08 | `dailymirrorlk-6f43b689` | Colombo canals turn into garbage dumps despite SLLDC dengue prevention claims | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-6f43b689)
-- 2026-07-08 | `virakesarilk-131bf183` | பாதசாரி கடவையில் இரு வாகனங்கள் மோதித்தள்ளி ஒருவர் உயிரிழப்பு ; வவுனியா - புளியங்குளத்தில் சம்பவம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-virakesarilk-131bf183)
-- 2026-07-08 | `dailymirrorlk-df65fea8` | Government gazettes new Mahamodara Prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-df65fea8)
-- 2026-07-08 | `tamilmirrorlk-a29b46bc` | மாற்றப்பட்ட கைதி மர்மமான முறையில் மரணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-tamilmirrorlk-a29b46bc)
 
 ---
 
