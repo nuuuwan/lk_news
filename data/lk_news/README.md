@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--08_22:18:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--09_00:16:37-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,513** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,514** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-08**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -52,6 +52,7 @@ A collection of lk_news documents.
 - 2026-07-08 | `dailymirrorlk-5ab864f8` | Kitulgala jewellery shop owner fined Rs. 2.1 mn for illegal wildlife trade | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-5ab864f8)
 - 2026-07-08 | `tamilmirrorlk-e083987c` | நோயாளிகளை கொன்ற மருத்துவருக்கு ஆயுள் தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-tamilmirrorlk-e083987c)
 - 2026-07-08 | `tamilmirrorlk-371510c1` | ’’சரசவி திரியோ அபிமன்’’ திட்டம் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-tamilmirrorlk-371510c1)
+- 2026-07-08 | `dailymirrorlk-eb3a7053` | West Indies eye new era after historic Sri Lanka series win | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-eb3a7053)
 - 2026-07-08 | `dailymirrorlk-0089b4b0` | New Era Begins? West Indies build on historic series win over Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-0089b4b0)
 - 2026-07-08 | `dailymirrorlk-ff64a143` | German doctor jailed for killing 15 of his patients | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-ff64a143)
 - 2026-07-08 | `dailymirrorlk-d6ebe483` | Trump threatens to hit Iran ’hard again tonight’ after saying ceasefire ’is over’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-d6ebe483)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-07-08 | `tamilmirrorlk-736fb4d4` | 33 ஆண்டுகளுக்கு முந்தைய கொலை: 8 பேருக்கு மரண தண்டனை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-tamilmirrorlk-736fb4d4)
 - 2026-07-08 | `tamilmirrorlk-b506ce4f` | கொழும்பு காணிப் பதிவாளர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-tamilmirrorlk-b506ce4f)
 - 2026-07-08 | `dailymirrorlk-f8e85426` | Egypt want officials kicked out of World Cup | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-dailymirrorlk-f8e85426)
-- 2026-07-08 | `tamilmirrorlk-95a096df` | ‘கிராண்ட்பாஸ் லொக்கு நோனா’வின் சொத்துக்கள் முடக்கம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-08-tamilmirrorlk-95a096df)
 
 ---
 
