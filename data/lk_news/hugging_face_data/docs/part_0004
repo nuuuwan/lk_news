@@ -283938,6 +283938,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-07-adalk-9b05bdec",
+    "num": "adalk-9b05bdec",
+    "date_str": "2026-07-07",
+    "description": "\u0db8\u0dc4\u0da2\u0db1 \u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0 \u0d85\u0db7\u0dd2\u0db8\u0dcf\u0db1\u0dc0\u0dad\u0dca 65 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba \u0dc3\u0db8\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/\u0db8\u0dc4\u0da2\u0db1-\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0dc0-\u0d85\u0db7\u0dd2\u0db8\u0dcf\u0db1\u0dc0\u0dad\u0dca-65-\u0dc0\u0dd0\u0db1\u0dd2-\u0dc3\u0d82\u0dc0\u0dad\u0dca\u0dc3\u0dbb\u0dba-\u0dc3\u0db8\u0dbb\u0dba\u0dd2/7-423145",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783402546.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-07-dailymirrorlk-6509e0a6",
     "num": "dailymirrorlk-6509e0a6",
     "date_str": "2026-07-07",
@@ -285621,6 +285632,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-80b80010",
+    "num": "dailymirrorlk-80b80010",
+    "date_str": "2026-07-08",
+    "description": "Aftermath of Negombo Prison riots: Loved ones of inmates dismayed by tales of  shock, grief and uncertainty!",
+    "url_metadata": "https://www.dailymirror.lk/news-features/Aftermath-of-Negombo-Prison-riots-Loved-ones-of-inmates-dismayed-by-tales-of-shock-grief-and-uncertainty/131-344993",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783462318.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-08-dailymirrorlk-f25deaf5",
     "num": "dailymirrorlk-f25deaf5",
     "date_str": "2026-07-08",
@@ -286072,6 +286094,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-08-adalk-7c0b2db2",
+    "num": "adalk-7c0b2db2",
+    "date_str": "2026-07-08",
+    "description": "\u0dbd\u0ddd\u0d9a \u0dc1\u0dd6\u0dbb \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7 \u0d85\u0db1\u0dca\u0dad \u0db4\u0dbb\u0dcf\u0da2\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/sports/\u0dbd\u0ddd\u0d9a-\u0dc1\u0dd6\u0dbb-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0\u0da7-\u0d85\u0db1\u0dca\u0dad-\u0db4\u0dbb\u0dcf\u0da2\u0dba\u0d9a\u0dca/9-423161",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783479444.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-08-dailymirrorlk-a7cc20ed",
     "num": "dailymirrorlk-a7cc20ed",
     "date_str": "2026-07-08",
@@ -286457,6 +286490,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-4ce604be",
+    "num": "dailymirrorlk-4ce604be",
+    "date_str": "2026-07-08",
+    "description": "Ad hoc rice imports blamed for growing paddy marketing crisis",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ad-hoc-rice-imports-blamed-for-growing-paddy-marketing-crisis/108-345015",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783487845.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-48083f36",
+    "num": "dailymirrorlk-48083f36",
+    "date_str": "2026-07-08",
+    "description": "Employment barriers continue to limit workforce participation of persons with disabilities, says ChildFund",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Employment-barriers-continue-to-limit-workforce-participation-of-persons-with-disabilities-says-ChildFund/108-345016",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783488267.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-08-tamilmirrorlk-0665e766",
     "num": "tamilmirrorlk-0665e766",
     "date_str": "2026-07-08",
@@ -286465,6 +286520,83 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783488395.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-adalk-efd9b41b",
+    "num": "adalk-efd9b41b",
+    "date_str": "2026-07-08",
+    "description": "\u0db8\u0dc4 \u0db8\u0ddd\u0daf\u0dbb \u0db8\u0dcf\u0dad\u0dd8 \u0dbb\u0ddd\u0dc4\u0dbd\u0dda \u0db4\u0dd0\u0dbb\u0dab\u0dd2 \u0dbb\u0ddd\u0dc4\u0dbd\u0dca \u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0d9a\u0dca \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dc4-\u0db8\u0ddd\u0daf\u0dbb-\u0db8\u0dcf\u0dad\u0dd8-\u0dbb\u0ddd\u0dc4\u0dbd\u0dda-\u0db4\u0dd0\u0dbb\u0dab\u0dd2-\u0dbb\u0ddd\u0dc4\u0dbd\u0dca-\u0db4\u0daf\u0dca\u0db0\u0dad\u0dd2\u0dba-\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba\u0d9a\u0dca-\u0d9a\u0dbb\u0dba\u0dd2/11-423162",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783488476.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-7d445232",
+    "num": "dailymirrorlk-7d445232",
+    "date_str": "2026-07-08",
+    "description": "Health Ministry warns nursing officers of transfer scams",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Health-Ministry-warns-nursing-officers-of-transfer-scams/108-345017",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783488589.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-adalk-6fd86d87",
+    "num": "adalk-6fd86d87",
+    "date_str": "2026-07-08",
+    "description": "\u0db7\u0dcf\u0dab\u0dca\u0da9 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dba\u0d9a\u0dca \u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db7\u0dcf\u0dab\u0dca\u0da9-\u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dba\u0d9a\u0dca-\u0d85\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0db1\u0dca/11-423163",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783488904.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-dcefa35d",
+    "num": "dailymirrorlk-dcefa35d",
+    "date_str": "2026-07-08",
+    "description": "Dengue vaccine has 90% effectiveness against type 2 virus \u2013 Expert",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-vaccine-has-90-effectiveness-against-type-2-virus-Expert/108-345018",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783488967.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-3754054b",
+    "num": "dailymirrorlk-3754054b",
+    "date_str": "2026-07-08",
+    "description": "Locally made firearm to scare animals out in the market",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Locally-made-firearm-to-scare-animals-out-in-the-market/108-345019",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783489338.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-adalk-14c532dd",
+    "num": "adalk-14c532dd",
+    "date_str": "2026-07-08",
+    "description": "\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7\u0dd3\u0db1\u0dca \u0dbd\u0d9a\u0dca\u0dc2\u00a02\u0d9a\u0dca \u0dc3\u0dc0\u0dd2\u0db6\u0dbd \u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0dba\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d85\u0dc3\u0dca\u0dc0\u0dd0\u0dc3\u0dd4\u0db8-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dbd\u0dcf\u0db7\u0dd3\u0db1\u0dca-\u0dbd\u0d9a\u0dca\u0dc2\u00a02\u0d9a\u0dca-\u0dc3\u0dc0\u0dd2\u0db6\u0dbd-\u0d9c\u0dd0\u0db1\u0dca\u0dc0\u0dd3\u0db8\u0da7-\u0dba\u0dba\u0dd2/11-423164",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783489382.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-a6fb0e21",
+    "num": "dailymirrorlk-a6fb0e21",
+    "date_str": "2026-07-08",
+    "description": "Special police protection for 454 persons",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Special-police-protection-for-454-persons/108-345020",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783489760.0
   },
   {
     "doc_type": "lk_news",
@@ -286479,6 +286611,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-6f533560",
+    "num": "dailymirrorlk-6f533560",
+    "date_str": "2026-07-08",
+    "description": "Bus plunges into stream near Gregory Lake",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bus-plunges-into-stream-near-Gregory-Lake/108-345021",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783489849.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-08-tamilmirrorlk-190d627e",
     "num": "tamilmirrorlk-190d627e",
     "date_str": "2026-07-08",
@@ -286487,6 +286630,28 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783490202.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-60dfb3dc",
+    "num": "dailymirrorlk-60dfb3dc",
+    "date_str": "2026-07-08",
+    "description": "Dengue death toll rises to 42",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-death-toll-rises-to-42/108-345022",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783490265.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-54504701",
+    "num": "dailymirrorlk-54504701",
+    "date_str": "2026-07-08",
+    "description": "CPRP alleges torture of transferred Negombo Prison inmates",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CPRP-alleges-torture-of-transferred-Negombo-Prison-inmates/108-345023",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783490617.0
   },
   {
     "doc_type": "lk_news",
@@ -286501,6 +286666,61 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-4b018825",
+    "num": "dailymirrorlk-4b018825",
+    "date_str": "2026-07-08",
+    "description": "Prison officials seek Minister\u2019s protection for officer who opened fire",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Prison-officials-seek-Ministers-protection-for-officer-who-opened-fire/108-345025",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783491171.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-2fd59afa",
+    "num": "dailymirrorlk-2fd59afa",
+    "date_str": "2026-07-08",
+    "description": "Last respects to fallen officers...",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Last-respects-to-fallen-officers/110-345035",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783492452.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-3dec2827",
+    "num": "dailymirrorlk-3dec2827",
+    "date_str": "2026-07-08",
+    "description": "\u2018Silicon City\u2019 industrial park planned in Nattandiya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Silicon-City-industrial-park-planned-in-Nattandiya/108-345037",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783492569.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-66b3b59d",
+    "num": "dailymirrorlk-66b3b59d",
+    "date_str": "2026-07-08",
+    "description": "Tinea infections on the rise in Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tinea-infections-on-the-rise-in-Sri-Lanka/108-345039",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783492859.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-059148ca",
+    "num": "dailymirrorlk-059148ca",
+    "date_str": "2026-07-08",
+    "description": "Ultimate objective should be to make public transport free of charge: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ultimate-objective-should-be-to-make-public-transport-free-of-charge-Minister/108-345040",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783492881.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-08-tamilmirrorlk-76fffbbd",
     "num": "tamilmirrorlk-76fffbbd",
     "date_str": "2026-07-08",
@@ -286512,6 +286732,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-18f5c980",
+    "num": "dailymirrorlk-18f5c980",
+    "date_str": "2026-07-08",
+    "description": "Sugeeshwara Bandara further remanded",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sugeeshwara-Bandara-further-remanded/108-345041",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783493042.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-08-tamilmirrorlk-4591af59",
     "num": "tamilmirrorlk-4591af59",
     "date_str": "2026-07-08",
@@ -286520,5 +286751,159 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783494116.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-83e91715",
+    "num": "dailymirrorlk-83e91715",
+    "date_str": "2026-07-08",
+    "description": "Former Minister Jagath Pushpakumara arrested",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Minister-Jagath-Pushpakumara-arrested/108-345049",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783494367.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-adalk-964a492f",
+    "num": "adalk-964a492f",
+    "date_str": "2026-07-08",
+    "description": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0ddd 2027 \u0dc3\u0db3\u0dc4\u0dcf \u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2 \u0d9a\u0dcf\u0dbd\u0dba \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0d9a\u0dd9\u0dbb\u0dda",
+    "url_metadata": "https://www.ada.lk/business/\u0dc1\u0dca\u200d\u0dbb\u0dd3-\u0dbd\u0d82\u0d9a\u0dcf-\u0d91\u0d9a\u0dca\u0dc3\u0dca\u0db4\u0ddd-2027-\u0dc3\u0db3\u0dc4\u0dcf-\u0dbd\u0dd2\u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d82\u0da0\u0dd2-\u0d9a\u0dcf\u0dbd\u0dba-\u0daf\u0dd3\u0dbb\u0dca\u0d9d-\u0d9a\u0dd9\u0dbb\u0dda/7-423165",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783494503.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-67efcd7d",
+    "num": "dailymirrorlk-67efcd7d",
+    "date_str": "2026-07-08",
+    "description": "Adam Bobrow, the 'Voice of Table Tennis,' takes on Sri Lanka",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Adam-Bobrow-the-Voice-of-Table-Tennis-takes-on-Sri-Lanka/108-345051",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783494596.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-108a7b6b",
+    "num": "dailymirrorlk-108a7b6b",
+    "date_str": "2026-07-08",
+    "description": "Two transferred inmates die after Negombo Prison unrest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Two-transferred-inmates-die-after-Negombo-Prison-unrest/108-345055",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783495157.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-0731c7d0",
+    "num": "dailymirrorlk-0731c7d0",
+    "date_str": "2026-07-08",
+    "description": "US reinstates sanctions on Iranian oil sales after LNG, oil tanker attacks",
+    "url_metadata": "https://www.dailymirror.lk/international/US-reinstates-sanctions-on-Iranian-oil-sales-after-LNG-oil-tanker-attacks/107-345056",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783495588.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-56b41629",
+    "num": "dailymirrorlk-56b41629",
+    "date_str": "2026-07-08",
+    "description": "Stipulated fares for buses, three-wheelers, office and school vans: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Stipulated-fares-for-buses-three-wheelers-office-and-school-vans-Minister/108-345059",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783496640.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-tamilmirrorlk-3dd4bdd8",
+    "num": "tamilmirrorlk-3dd4bdd8",
+    "date_str": "2026-07-08",
+    "description": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd \u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd \u0b9c\u0b95\u0ba4\u0bcd \u0baa\u0bc1\u0bb7\u0bcd\u0baa\u0b95\u0bc1\u0bae\u0bbe\u0bb0  \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbe\u0bb3\u0bcd-\u0b85\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd-\u0b9c\u0b95\u0ba4\u0bcd-\u0baa\u0bc1\u0bb7\u0bcd\u0baa\u0b95\u0bc1\u0bae\u0bbe\u0bb0-\u0b95\u0bc8\u0ba4\u0bc1/175-379639",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783496877.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-tamilmirrorlk-9b61076e",
+    "num": "tamilmirrorlk-9b61076e",
+    "date_str": "2026-07-08",
+    "description": "\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf \u0bae\u0ba9\u0bbf\u0ba4\u0baa\u0bcd \u0baa\u0bc1\u0ba4\u0bc8\u0b95\u0bc1\u0bb4\u0bbf: \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bbe\u0bb5\u0bbf\u0b9f\u0bae\u0bcd \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8 \u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0ba3\u0bbf-\u0bae\u0ba9\u0bbf\u0ba4\u0baa\u0bcd-\u0baa\u0bc1\u0ba4\u0bc8\u0b95\u0bc1\u0bb4\u0bbf-\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0b95\u0bbe\u0bb5\u0bbf\u0b9f\u0bae\u0bcd-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8-\u0ba8\u0b9f\u0ba4\u0bcd\u0ba4\u0b95\u0bcd-\u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8/150-379640",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783497382.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-ead29321",
+    "num": "dailymirrorlk-ead29321",
+    "date_str": "2026-07-08",
+    "description": "AI-generated women on Facebook used to lure Sri Lankan users into scams, adult chats",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/AI-generated-women-on-Facebook-used-to-lure-Sri-Lankan-users-into-scams-adult-chats/108-345060",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783497556.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-tamilmirrorlk-a083c57e",
+    "num": "tamilmirrorlk-a083c57e",
+    "date_str": "2026-07-08",
+    "description": "\u0b87\u0b9f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b87\u0bb0\u0bc1 \u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0b9f\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd-\u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-\u0b87\u0bb0\u0bc1-\u0b95\u0bc8\u0ba4\u0bbf\u0b95\u0bb3\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bbf\u0bb4\u0baa\u0bcd\u0baa\u0bc1/175-379641",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783497654.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-319affe6",
+    "num": "dailymirrorlk-319affe6",
+    "date_str": "2026-07-08",
+    "description": "Several parties seek to intervene in Suresh Sallay\u2019s writ petition",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Several-parties-seek-to-intervene-in-Suresh-Sallays-writ-petition/108-345064",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783498462.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-dailymirrorlk-e583fccc",
+    "num": "dailymirrorlk-e583fccc",
+    "date_str": "2026-07-08",
+    "description": "CID completes probe into case against Ranil Wickremesinghe over London trip allegations",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CID-completes-probe-into-case-against-Ranil-Wickremesinghe-over-London-trip-allegations/108-345072",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783500278.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-tamilmirrorlk-799237af",
+    "num": "tamilmirrorlk-799237af",
+    "date_str": "2026-07-08",
+    "description": "\u2019\u2019\u0b95\u0b9a\u0bcd\u0b9a\u0bbe\u0ba9\u0bcd\u2019\u2019 \u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1: \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b87\u0baf\u0bb2\u0bcd\u0baa\u0bc1 \u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8 \u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1 (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/\u0b95\u0b9a\u0bcd\u0b9a\u0bbe\u0ba9\u0bcd-\u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1-\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b87\u0baf\u0bb2\u0bcd\u0baa\u0bc1-\u0bb5\u0bbe\u0bb4\u0bcd\u0b95\u0bcd\u0b95\u0bc8-\u0baa\u0bbe\u0ba4\u0bbf\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-379644",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783500669.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-tamilmirrorlk-09779cac",
+    "num": "tamilmirrorlk-09779cac",
+    "date_str": "2026-07-08",
+    "description": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1: \u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bcd \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb0\u0ba3\u0bbf\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0b9a\u0bbe\u0bb0\u0ba3\u0bc8\u0b95\u0bb3\u0bcd-\u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1/175-379645",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783501220.0
   }
 ]
