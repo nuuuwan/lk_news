@@ -289141,6 +289141,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-09-adalk-90a72742",
+    "num": "adalk-90a72742",
+    "date_str": "2026-07-09",
+    "description": "\u0da9\u0dd9\u0d82\u0d9c\u0dd4 \u0db8\u0dbb\u0dab 50\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1\u0dc0\u0dd9\u0dba\u0dd2 \u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca 65,000 \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da9\u0dd9\u0d82\u0d9c\u0dd4-\u0db8\u0dbb\u0dab-50\u0da7-\u0d86\u0dc3\u0db1\u0dca\u0db1\u0dc0\u0dd9\u0dba\u0dd2-\u0dbb\u0ddd\u0d9c\u0dd3\u0db1\u0dca-65-000-\u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dba\u0dd2/11-423186",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783580981.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-09-dailymirrorlk-f00b9d36",
     "num": "dailymirrorlk-f00b9d36",
     "date_str": "2026-07-09",
@@ -289226,5 +289237,126 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783588050.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-363ca4ee",
+    "num": "tamilmirrorlk-363ca4ee",
+    "date_str": "2026-07-09",
+    "description": "\u0bb5\u0bbf\u0ba9\u0bcd\u0b9a\u0bb0\u0bcd \u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baf\u0bbe\u0b95 \u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bae\u0bb2\u0bc8\u0baf\u0b95\u0bae\u0bcd/\u0bb5\u0bbf\u0ba9\u0bcd\u0b9a\u0bb0\u0bcd-\u0bb9\u0bcb\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd-\u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0b95\u0bc1\u0ba4\u0bbf-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf\u0baf\u0bbe\u0b95-\u0bae\u0bc0\u0b9f\u0bcd\u0baa\u0bc1/76-379701",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783588406.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-1fc80d92",
+    "num": "dailymirrorlk-1fc80d92",
+    "date_str": "2026-07-09",
+    "description": "China, Taiwan brace for Typhoon Bavi, possibly the most powerful storm in years",
+    "url_metadata": "https://www.dailymirror.lk/international/China-Taiwan-brace-for-Typhoon-Bavi-possibly-the-most-powerful-storm-in-years/107-345188",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783590084.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-3687ef03",
+    "num": "dailymirrorlk-3687ef03",
+    "date_str": "2026-07-09",
+    "description": "Heatwave linked to more than 5,000 deaths in Germany, RKI says",
+    "url_metadata": "https://www.dailymirror.lk/international/Heatwave-linked-to-more-than-5-000-deaths-in-Germany-RKI-says/107-345189",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783590192.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-19ea926b",
+    "num": "dailymirrorlk-19ea926b",
+    "date_str": "2026-07-09",
+    "description": "Eight Colombo PHIs contract Dengue",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Eight-Colombo-PHIs-contract-Dengue/108-345191",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783590612.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-793020c0",
+    "num": "dailymirrorlk-793020c0",
+    "date_str": "2026-07-09",
+    "description": "Refereeing chief denies bias claims in Argentina-Egypt game",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Refereeing-chief-denies-bias-claims-in-Argentina-Egypt-game/108-345192",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783592122.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-8023e62a",
+    "num": "dailymirrorlk-8023e62a",
+    "date_str": "2026-07-09",
+    "description": "Tilvin wins copyright case against Wimal",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Tilvin-wins-copyright-case-against-Wimal/108-345193",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783592182.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-bfced66c",
+    "num": "tamilmirrorlk-bfced66c",
+    "date_str": "2026-07-09",
+    "description": "\u2019\u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bc1 \u0b85\u0b9f\u0bcd\u0b9f\u0bc8\u2019\u0b95\u0bbe\u0ba3\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0baf\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0ba8\u0bcd\u0ba4\u0ba9\u0bc8-\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd/\u0b9a\u0bbf\u0bb5\u0baa\u0bcd\u0baa\u0bc1-\u0b85\u0b9f\u0bcd\u0b9f\u0bc8-\u0b95\u0bbe\u0ba3\u0bcd\u0baa\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0bb5\u0bc6\u0bb3\u0bbf\u0baf\u0bc7\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd-\u0ba8\u0bc0\u0ba4\u0bbf\u0baf\u0bae\u0bc8\u0b9a\u0bcd\u0b9a\u0bb0\u0bcd/62-379704",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783592320.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-47789eda",
+    "num": "tamilmirrorlk-47789eda",
+    "date_str": "2026-07-09",
+    "description": "\u0bb5\u0bc0\u0bb0\u0bb5\u0ba9\u0bcd\u0b9a\u0bb5\u0bbf\u0ba9\u0bcd: \u2019\u0ba8\u0bc6\u0ba4\u0bcd\u0ba4 \u0bb5\u0bc6\u0ba9\u0bc1\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f \u0b8e\u0ba4\u0bcd\u0ba4\u2019 \u0b89\u0baf\u0bb0\u0bcd \u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf \u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bc0\u0bb0\u0bb5\u0ba9\u0bcd\u0b9a\u0bb5\u0bbf\u0ba9\u0bcd-\u0ba8\u0bc6\u0ba4\u0bcd\u0ba4-\u0bb5\u0bc6\u0ba9\u0bc1\u0bb5\u0bc6\u0b9f\u0bcd\u0b9f-\u0b8e\u0ba4\u0bcd\u0ba4-\u0b89\u0baf\u0bb0\u0bcd-\u0ba8\u0bc0\u0ba4\u0bbf\u0bae\u0ba9\u0bcd\u0bb1\u0bae\u0bcd-\u0b85\u0ba4\u0bbf\u0bb0\u0b9f\u0bbf-\u0ba4\u0bc0\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1/175-379705",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783592859.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-adalk-8afc11f4",
+    "num": "adalk-8afc11f4",
+    "date_str": "2026-07-09",
+    "description": "2498\u0d9a\u0dca \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4\u0d9a\u0db8\u0dca \u0dbd\u0db6\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/2498\u0d9a\u0dca-\u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4-\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf-\u0dc3\u0db3\u0dc4\u0dcf-\u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4\u0d9a\u0db8\u0dca-\u0dbd\u0db6\u0dba\u0dd2/11-423187",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783593200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-a334ba01",
+    "num": "dailymirrorlk-a334ba01",
+    "date_str": "2026-07-09",
+    "description": "Mulgampola railway crossing to close for repairs from July 10 to 13",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mulgampola-railway-crossing-to-close-for-repairs-from-July-10-to-13/108-345194",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783594047.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-adalk-cacdcc68",
+    "num": "adalk-cacdcc68",
+    "date_str": "2026-07-09",
+    "description": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0d85\u0dba\u0dc0\u0dd0\u0dba\u0dd9\u0db1\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba\u0d9a\u0da7 \u0dc0\u0dd9\u0db1\u0db8\u0db8 \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc3\u0d82\u0da0\u0dd2\u0dad\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d89\u0daf\u0dd2\u0dbb\u0dd2-\u0d85\u0dba\u0dc0\u0dd0\u0dba\u0dd9\u0db1\u0dca-\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba\u0d9a\u0da7-\u0dc0\u0dd9\u0db1\u0db8\u0db8-\u0db8\u0dd4\u0daf\u0dbd\u0dca-\u0dc3\u0d82\u0da0\u0dd2\u0dad\u0dba\u0d9a\u0dca/11-423190",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783594218.0
   }
 ]
