@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--10_02:25:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--10_04:18:24-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,742** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,744** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-10-tamilmirrorlk-96f859de",
-    "num": "tamilmirrorlk-96f859de",
+    "doc_id": "2026-07-10-dailymirrorlk-7a837fc0",
+    "num": "dailymirrorlk-7a837fc0",
     "date_str": "2026-07-10",
-    "description": "\u0ba4\u0baf\u0bbe\u0b9a\u0bbf\u0bb1\u0bbf\u0baf\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b9a\u0ba4\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0baf\u0bbe\u0b9a\u0bbf\u0bb1\u0bbf\u0baf\u0bc8-\u0b95\u0bc8\u0ba4\u0bc1-\u0b9a\u0bc6\u0baf\u0bcd\u0baf-\u0b9a\u0ba4\u0bbf/175-379727",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1783627302.0
+    "description": "US-Iran war:  Stop second round, save the MoU",
+    "url_metadata": "https://www.dailymirror.lk/opinion/US-Iran-war-Stop-second-round-save-the-MoU/172-345237",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783636427.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-10 | `dailymirrorlk-7a837fc0` | US-Iran war:  Stop second round, save the MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-7a837fc0)
+- 2026-07-10 | `dailymirrorlk-fb23e988` | From Vulnerability to Opportunity: AI and the Future of Work in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-fb23e988)
 - 2026-07-10 | `tamilmirrorlk-96f859de` | தயாசிறியை கைது செய்ய சதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-96f859de)
 - 2026-07-10 | `tamilmirrorlk-19f81621` | ’காணிகளை விடுவிக்க முடியாது’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-19f81621)
 - 2026-07-10 | `tamilmirrorlk-e2193884` | ’ஆடையை கழற்றிக் காண்பிக்கவா’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-e2193884)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-07-09 | `dailymirrorlk-c645bae3` | LANKATILES sees high prospects both locally and overseas for new product | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-dailymirrorlk-c645bae3)
 - 2026-07-09 | `dailymirrorlk-289f10f8` | BOC empowers Dambana indigenous community through digital payments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-dailymirrorlk-289f10f8)
 - 2026-07-09 | `dailymirrorlk-e2c79938` | Scouts closes investment round at Rs.1.6bn valuation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-dailymirrorlk-e2c79938)
-- 2026-07-09 | `dailymirrorlk-97080b31` | People’s Leasing & Finance records stellar performance in FY 2025/26 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-dailymirrorlk-97080b31)
-- 2026-07-09 | `dailymirrorlk-8034ad74` | LCB Finance posts 55% growth in pre-tax profit | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-dailymirrorlk-8034ad74)
 
 ---
 
