@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-09 04:07:18",
-  "n_docs": 122519,
+  "time_updated": "2026-07-09 06:27:52",
+  "n_docs": 122536,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 122519,
+  "n_docs_with_text": 122536,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-09",
-  "dataset_size": 1912072962,
+  "dataset_size": 1912211540,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "si",
-    "en"
+    "en",
+    "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-09-dailyftlk-f6115172",
-    "num": "dailyftlk-f6115172",
+    "doc_id": "2026-07-09-dailymirrorlk-d709ca94",
+    "num": "dailymirrorlk-d709ca94",
     "date_str": "2026-07-09",
-    "description": "The crime was not the end: How Social Media can harm child abuse victims again",
-    "url_metadata": "https://www.ft.lk/columns/The-crime-was-not-the-end-How-Social-Media-can-harm-child-abuse-victims-again/4-794401",
+    "description": "Paralympic great Storey retires from GB competition",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Paralympic-great-Storey-retires-from-GB-competition/108-345109",
     "lang": "en",
-    "newspaper_id": "dailyftlk",
-    "time_ut": 1783548874.0
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783557556.0
   }
 }

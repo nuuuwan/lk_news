@@ -280429,6 +280429,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-05-islandlk-56e51b42",
+    "num": "islandlk-56e51b42",
+    "date_str": "2026-07-05",
+    "description": "Zimbabwe, here we come?",
+    "url_metadata": "http://island.lk/zimbabwe-here-we-come/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783265520.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-05-islandlk-6106a14d",
     "num": "islandlk-6106a14d",
     "date_str": "2026-07-05",
@@ -282593,6 +282604,17 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783348783.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-06-islandlk-05e48a7f",
+    "num": "islandlk-05e48a7f",
+    "date_str": "2026-07-06",
+    "description": "People\u2019s mandate and judicial legitimacy",
+    "url_metadata": "http://island.lk/peoples-mandate-and-judicial-legitimacy/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783348860.0
   },
   {
     "doc_type": "lk_news",
@@ -285324,6 +285346,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-07-islandlk-6a832b7d",
+    "num": "islandlk-6a832b7d",
+    "date_str": "2026-07-07",
+    "description": "Port City, key to transforming Sri Lanka into global services hub \u2013 PRASL forum",
+    "url_metadata": "http://island.lk/port-city-key-to-transforming-sri-lanka-into-global-services-hub-prasl-forum/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783441140.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-07-islandlk-d48eed8f",
     "num": "islandlk-d48eed8f",
     "date_str": "2026-07-07",
@@ -285354,6 +285387,28 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783441680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-islandlk-08093df5",
+    "num": "islandlk-08093df5",
+    "date_str": "2026-07-07",
+    "description": "Eric J. de Silva: consummate public servant and my life-long friend",
+    "url_metadata": "http://island.lk/eric-j-de-silva-consummate-public-servant-and-my-life-long-friend/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783441800.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-07-islandlk-03e5de51",
+    "num": "islandlk-03e5de51",
+    "date_str": "2026-07-07",
+    "description": "The new doctor\u2013patient relationship in the age of AI",
+    "url_metadata": "http://island.lk/the-new-doctor-patient-relationship-in-the-age-of-ai/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783442520.0
   },
   {
     "doc_type": "lk_news",
@@ -287711,6 +287766,83 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-08-islandlk-171aa222",
+    "num": "islandlk-171aa222",
+    "date_str": "2026-07-08",
+    "description": "Little beauty powerhouse \u2026",
+    "url_metadata": "http://island.lk/little-beauty-powerhouse/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783528500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-islandlk-26a02d6d",
+    "num": "islandlk-26a02d6d",
+    "date_str": "2026-07-08",
+    "description": "Renewed volatility in West Asia takes toll on stock trading",
+    "url_metadata": "http://island.lk/renewed-volatility-in-west-asia-takes-toll-on-stock-trading/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783528860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-islandlk-f5f84890",
+    "num": "islandlk-f5f84890",
+    "date_str": "2026-07-08",
+    "description": "Allianz Annual Awards 2026 celebrates \u2018rare, regal and remarkable excellence in Sri Lanka\u2019",
+    "url_metadata": "http://island.lk/allianz-annual-awards-2026-celebrates-rare-regal-and-remarkable-excellence-in-sri-lanka/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783529040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-islandlk-0f4e1d06",
+    "num": "islandlk-0f4e1d06",
+    "date_str": "2026-07-08",
+    "description": "Perituza conducts insightful AI workshop for Sri Lanka\u2019s PR and Ad agencies",
+    "url_metadata": "http://island.lk/perituza-conducts-insightful-ai-workshop-for-sri-lankas-pr-and-ad-agencies/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783529100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-islandlk-3b336f17",
+    "num": "islandlk-3b336f17",
+    "date_str": "2026-07-08",
+    "description": "A practical, value-driven solution for Sri Lankan bakers",
+    "url_metadata": "http://island.lk/a-practical-value-driven-solution-for-sri-lankan-bakers/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783529220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-islandlk-57e3343c",
+    "num": "islandlk-57e3343c",
+    "date_str": "2026-07-08",
+    "description": "HNB General Insurance becomes the only General Insurer named among Sri Lanka\u2019s 50 Best Workplaces\u2122 2026 by Great PlaceTo Work\u00ae",
+    "url_metadata": "http://island.lk/hnb-general-insurance-becomes-the-only-general-insurer-named-among-sri-lankas-50-best-workplaces-2026-by-great-placeto-work/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783529220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-islandlk-c8f324d9",
+    "num": "islandlk-c8f324d9",
+    "date_str": "2026-07-08",
+    "description": "Finch Foods showcases the finest of Sri Lanka at Bandaranaike International Airport",
+    "url_metadata": "http://island.lk/finch-foods-showcases-the-finest-of-sri-lanka-at-bandaranaike-international-airport/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783529340.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-09-dailymirrorlk-d2a7a203",
     "num": "dailymirrorlk-d2a7a203",
     "date_str": "2026-07-09",
@@ -287763,5 +287895,60 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1783548874.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailyftlk-10f6c39b",
+    "num": "dailyftlk-10f6c39b",
+    "date_str": "2026-07-09",
+    "description": "Aragalaya 4th Anniversary: \u2018Colour Revolution\u2019 or third post-Independence civic uprising?",
+    "url_metadata": "https://www.ft.lk/columns/Aragalaya-4th-Anniversary-Colour-Revolution-or-third-post-Independence-civic-uprising/4-794405",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783551759.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailyftlk-c79ba1a9",
+    "num": "dailyftlk-c79ba1a9",
+    "date_str": "2026-07-09",
+    "description": "Challenges in preventing tax crimes: From theory to practice",
+    "url_metadata": "https://www.ft.lk/columns/Challenges-in-preventing-tax-crimes-From-theory-to-practice/4-794406",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783553795.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-2a51c123",
+    "num": "dailymirrorlk-2a51c123",
+    "date_str": "2026-07-09",
+    "description": "World Cup Quarter-finals Set! Eight Teams, Four Blockbuster Battles",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/World-Cup-Quarter-finals-Set-Eight-Teams-Four-Blockbuster-Battles/108-345108",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783554115.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailyftlk-5a2504c5",
+    "num": "dailyftlk-5a2504c5",
+    "date_str": "2026-07-09",
+    "description": "Sri Lanka\u2019s grossly confusing foreign reserve numbers \u2013 Explained",
+    "url_metadata": "https://www.ft.lk/opinion/Sri-Lanka-s-grossly-confusing-foreign-reserve-numbers-Explained/14-794407",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783555234.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-d709ca94",
+    "num": "dailymirrorlk-d709ca94",
+    "date_str": "2026-07-09",
+    "description": "Paralympic great Storey retires from GB competition",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Paralympic-great-Storey-retires-from-GB-competition/108-345109",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783557556.0
   }
 ]
