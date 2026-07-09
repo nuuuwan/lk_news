@@ -290106,5 +290106,115 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783622879.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-2831aeed",
+    "num": "dailymirrorlk-2831aeed",
+    "date_str": "2026-07-10",
+    "description": "Indices close in red",
+    "url_metadata": "https://www.dailymirror.lk/business/Indices-close-in-red/215-345227",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783623183.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-c53b65fc",
+    "num": "dailymirrorlk-c53b65fc",
+    "date_str": "2026-07-10",
+    "description": "Yield curve edges slightly higher amid pre-auction selling pressure",
+    "url_metadata": "https://www.dailymirror.lk/business/Yield-curve-edges-slightly-higher-amid-pre-auction-selling-pressure/215-345228",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783623467.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-2986e3b0",
+    "num": "dailymirrorlk-2986e3b0",
+    "date_str": "2026-07-10",
+    "description": "Audit Service Commission\u2019s 63% staff vacancy raises questions over state audit capacity for SOEs",
+    "url_metadata": "https://www.dailymirror.lk/business/Audit-Service-Commissions-63-staff-vacancy-raises-questions-over-state-audit-capacity-for-SOEs/215-345229",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783623734.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-9320ade1",
+    "num": "dailymirrorlk-9320ade1",
+    "date_str": "2026-07-10",
+    "description": "Interim tourism promotional campaigns to kick off in August",
+    "url_metadata": "https://www.dailymirror.lk/business/Interim-tourism-promotional-campaigns-to-kick-off-in-August/215-345230",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783623911.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-67a9eb50",
+    "num": "dailymirrorlk-67a9eb50",
+    "date_str": "2026-07-10",
+    "description": "Shipping majors circle Sri Lankan ports amid regional expansion race",
+    "url_metadata": "https://www.dailymirror.lk/business/Shipping-majors-circle-Sri-Lankan-ports-amid-regional-expansion-race/215-345231",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783623999.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-9bddf862",
+    "num": "dailymirrorlk-9bddf862",
+    "date_str": "2026-07-10",
+    "description": "IMF warns fuel-importing economies risk inflation rebound",
+    "url_metadata": "https://www.dailymirror.lk/business/IMF-warns-fuel-importing-economies-risk-inflation-rebound/215-345232",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783624041.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-ba8df802",
+    "num": "dailymirrorlk-ba8df802",
+    "date_str": "2026-07-10",
+    "description": "ADB sees slower growth, higher inflation for  Sri Lanka through 2027",
+    "url_metadata": "https://www.dailymirror.lk/business/ADB-sees-slower-growth-higher-inflation-for-Sri-Lanka-through-2027/215-345233",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783624209.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-tamilmirrorlk-e2193884",
+    "num": "tamilmirrorlk-e2193884",
+    "date_str": "2026-07-10",
+    "description": "\u2019\u0b86\u0b9f\u0bc8\u0baf\u0bc8 \u0b95\u0bb4\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bbe\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b86\u0b9f\u0bc8\u0baf\u0bc8-\u0b95\u0bb4\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd-\u0b95\u0bbe\u0ba3\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bbe/175-379725",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783626238.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-tamilmirrorlk-19f81621",
+    "num": "tamilmirrorlk-19f81621",
+    "date_str": "2026-07-10",
+    "description": "\u2019\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bb3\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0ba3\u0bbf\u0b95\u0bb3\u0bc8-\u0bb5\u0bbf\u0b9f\u0bc1\u0bb5\u0bbf\u0b95\u0bcd\u0b95-\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bc1/175-379726",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783626888.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-tamilmirrorlk-96f859de",
+    "num": "tamilmirrorlk-96f859de",
+    "date_str": "2026-07-10",
+    "description": "\u0ba4\u0baf\u0bbe\u0b9a\u0bbf\u0bb1\u0bbf\u0baf\u0bc8 \u0b95\u0bc8\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd\u0baf \u0b9a\u0ba4\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0baf\u0bbe\u0b9a\u0bbf\u0bb1\u0bbf\u0baf\u0bc8-\u0b95\u0bc8\u0ba4\u0bc1-\u0b9a\u0bc6\u0baf\u0bcd\u0baf-\u0b9a\u0ba4\u0bbf/175-379727",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783627302.0
   }
 ]
