@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-09 13:00:03",
-  "n_docs": 122645,
+  "time_updated": "2026-07-09 15:01:39",
+  "n_docs": 122652,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 122645,
+  "n_docs_with_text": 122652,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-09",
-  "dataset_size": 1914060618,
+  "dataset_size": 1914354212,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "ta",
     "en",
+    "ta",
     "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-09-dailymirrorlk-690bdc95",
-    "num": "dailymirrorlk-690bdc95",
+    "doc_id": "2026-07-09-dailymirrorlk-11c2d897",
+    "num": "dailymirrorlk-11c2d897",
     "date_str": "2026-07-09",
-    "description": "Jaffna airport control tower upgraded with air situation display system",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-airport-control-tower-upgraded-with-air-situation-display-system/108-345182",
+    "description": "Amnesty International says Israel \u2018wiping out families\u2019 in Lebanon",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Amnesty-International-says-Israel-wiping-out-families-in-Lebanon/108-345187",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783581611.0
+    "time_ut": 1783588050.0
   }
 }

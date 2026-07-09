@@ -289020,6 +289020,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-800b2c81",
+    "num": "tamilmirrorlk-800b2c81",
+    "date_str": "2026-07-09",
+    "description": "\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0b95\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba4\u0bcd-\u0ba4\u0b95\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f\u0bc1\u0bae\u0bcd-\u0baa\u0ba3\u0bbf-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd/175-379693",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783577733.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-09-tamilmirrorlk-e96ca466",
     "num": "tamilmirrorlk-e96ca466",
     "date_str": "2026-07-09",
@@ -289072,6 +289083,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783578857.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-adalk-50aba109",
+    "num": "adalk-50aba109",
+    "date_str": "2026-07-09",
+    "description": "\u0d9a\u0ddc\u0dc5\u0db9 \u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba \u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0ddc\u0dc5\u0db9-\u0dc3\u0dbb\u0dc3\u0dc0\u0dd2\u0dba-\u0d94\u0db1\u0dca\u0dbd\u0dba\u0dd2\u0db1\u0dca-\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0da7/11-423185",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783578894.0
   },
   {
     "doc_type": "lk_news",
@@ -289149,5 +289171,60 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783581611.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-08f75d5f",
+    "num": "tamilmirrorlk-08f75d5f",
+    "date_str": "2026-07-09",
+    "description": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0bae\u0bcd: \u0ba8\u0bc0\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bca\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc6\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4 \u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf\u0b95\u0bcd\u0b95\u0bc1-\u0ba8\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4-\u0b95\u0bca\u0b9f\u0bc2\u0bb0\u0bae\u0bcd-\u0ba8\u0bc0\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0b95\u0b95\u0bcd-\u0b95\u0bca\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bc6\u0bb4\u0bc1\u0ba8\u0bcd\u0ba4-\u0baa\u0bca\u0ba4\u0bc1\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd/175-379698",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783583180.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-8fb503cf",
+    "num": "dailymirrorlk-8fb503cf",
+    "date_str": "2026-07-09",
+    "description": "UN praises Sri Lanka\u2019s green initiatives, opens doors for new climate financing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UN-praises-Sri-Lankas-green-initiatives-opens-doors-for-new-climate-financing/108-345184",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783585194.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-370bc455",
+    "num": "dailymirrorlk-370bc455",
+    "date_str": "2026-07-09",
+    "description": "India, Australia sign nuclear and defence pacts to bolster Indo-Pacific ties",
+    "url_metadata": "https://www.dailymirror.lk/international/India-Australia-sign-nuclear-and-defence-pacts-to-bolster-Indo-Pacific-ties/107-345185",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783585774.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-439371c7",
+    "num": "dailymirrorlk-439371c7",
+    "date_str": "2026-07-09",
+    "description": "Negombo Prison declared crime scene, no longer suitable for housing inmates",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Negombo-Prison-declared-crime-scene-no-longer-suitable-for-housing-inmates/108-345186",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783586533.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-11c2d897",
+    "num": "dailymirrorlk-11c2d897",
+    "date_str": "2026-07-09",
+    "description": "Amnesty International says Israel \u2018wiping out families\u2019 in Lebanon",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Amnesty-International-says-Israel-wiping-out-families-in-Lebanon/108-345187",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783588050.0
   }
 ]
