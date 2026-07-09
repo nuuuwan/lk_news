@@ -286853,6 +286853,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-08-adalk-482492c3",
+    "num": "adalk-482492c3",
+    "date_str": "2026-07-08",
+    "description": "\u0d91\u0db8\u0dd2\u0dbb\u0dda\u0da7\u0dca\u0dc3\u0dca A350 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dba\u0dcf\u0db1\u0dcf \u0d9a\u0ddc\u0dc5\u0db9 \u0dc3\u0dda\u0dc0\u0dcf \u0daf\u0dd9\u0d9c\u0dd4\u0dab \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/\u0d91\u0db8\u0dd2\u0dbb\u0dda\u0da7\u0dca\u0dc3\u0dca-A350-\u0d9c\u0dd4\u0dc0\u0db1\u0dca-\u0dba\u0dcf\u0db1\u0dcf-\u0d9a\u0ddc\u0dc5\u0db9-\u0dc3\u0dda\u0dc0\u0dcf-\u0daf\u0dd9\u0d9c\u0dd4\u0dab-\u0d9a\u0dbb\u0dba\u0dd2/7-423167",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783494679.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-08-dailymirrorlk-108a7b6b",
     "num": "dailymirrorlk-108a7b6b",
     "date_str": "2026-07-08",
@@ -288360,6 +288371,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-09-adalk-27751d9f",
+    "num": "adalk-27751d9f",
+    "date_str": "2026-07-09",
+    "description": "\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca \u0dc3\u0db8\u0d9c \u0db8\u0dd2\u0dc1\u0dca\u200d\u0dbb \u0d9a\u0dbb\u0db1 \u0da2\u0ddb\u0dc0 \u0d89\u0db1\u0dca\u0db0\u0db1 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0 \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0dbd\u0dca-\u0dc3\u0db8\u0d9c-\u0db8\u0dd2\u0dc1\u0dca\u200d\u0dbb-\u0d9a\u0dbb\u0db1-\u0da2\u0ddb\u0dc0-\u0d89\u0db1\u0dca\u0db0\u0db1-\u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba-\u0dc0\u0dd0\u0da9\u0dd2-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0dc0-\u0dad\u0dd3\u0dbb\u0dab\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/11-423182",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783563269.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-09-tamilmirrorlk-942caa02",
     "num": "tamilmirrorlk-942caa02",
     "date_str": "2026-07-09",
@@ -288885,5 +288907,247 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783574781.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-8e428ec9",
+    "num": "dailymirrorlk-8e428ec9",
+    "date_str": "2026-07-09",
+    "description": "CID probe underway as Excise security stickers found on counterfeit liquor bottles",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CID-probe-underway-as-Excise-security-stickers-found-on-counterfeit-liquor-bottles/108-345161",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783575087.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-adalk-d2b6c789",
+    "num": "adalk-d2b6c789",
+    "date_str": "2026-07-09",
+    "description": "Baby Cheramy \u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba \u0dc3\u0dd2\u0dba \u0d85\u0db1\u0db1\u0dca\u200d\u0dba\u0dad\u0dcf\u0dc0 \u0dbb\u0dd0\u0d9a \u0d9c\u0db1\u0dd2\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/business/Baby-Cheramy-\u0dc3\u0db1\u0dca\u0db1\u0dcf\u0db8\u0dba-\u0dc3\u0dd2\u0dba-\u0d85\u0db1\u0db1\u0dca\u200d\u0dba\u0dad\u0dcf\u0dc0-\u0dbb\u0dd0\u0d9a-\u0d9c\u0db1\u0dd2\u0dba\u0dd2/7-423183",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783575124.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-e79f7882",
+    "num": "dailymirrorlk-e79f7882",
+    "date_str": "2026-07-09",
+    "description": "New vehicle registrations to get priority in number plate printing",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-vehicle-registrations-to-get-priority-in-number-plate-printing/108-345163",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783575341.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-672188c6",
+    "num": "tamilmirrorlk-672188c6",
+    "date_str": "2026-07-09",
+    "description": "15 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bbe\u0bb2 \u0bb5\u0bc7\u0ba4\u0ba9\u0bc8: \u0ba8\u0bbf\u0bb2\u0bae\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bcd \u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd 35 \u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd (\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb)",
+    "url_metadata": "https://www.tamilmirror.lk/video/15-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bbe\u0bb2-\u0bb5\u0bc7\u0ba4\u0ba9\u0bc8-\u0ba8\u0bbf\u0bb2\u0bae\u0bbf\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bcd-\u0ba4\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-35-\u0b95\u0bc1\u0b9f\u0bc1\u0bae\u0bcd\u0baa\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb/52-379688",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783575566.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-8837ae27",
+    "num": "tamilmirrorlk-8837ae27",
+    "date_str": "2026-07-09",
+    "description": "\u2019\u2019\u0b86\u0b9f\u0bc8\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bb4\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bbe?\u2019\u2019: \u0b85\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc1\u0ba9\u0bbe \u0b86\u0bb5\u0bc7\u0b9a\u0baa\u0bcd \u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0b9a\u0bbf\u0ba4\u0bcd\u0ba4-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf/\u0b86\u0b9f\u0bc8\u0baf\u0bc8\u0b95\u0bcd-\u0b95\u0bb4\u0bb1\u0bcd\u0bb1\u0bbf\u0b95\u0bcd-\u0b95\u0bbe\u0ba3\u0bcd\u0baa\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bbe-\u0b85\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bc1\u0ba9\u0bbe-\u0b86\u0bb5\u0bc7\u0b9a\u0baa\u0bcd-\u0baa\u0bc7\u0b9a\u0bcd\u0b9a\u0bc1/150-379689",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783575577.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-b11e3a71",
+    "num": "dailymirrorlk-b11e3a71",
+    "date_str": "2026-07-09",
+    "description": "Iran launches retaliatory strikes on Gulf states as Trump warns US bombing could get \u2019much worse\u2019",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Iran-launches-retaliatory-strikes-on-Gulf-states-as-Trump-warns-US-bombing-could-get-much-worse/108-345165",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783575608.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-d4700ca5",
+    "num": "dailymirrorlk-d4700ca5",
+    "date_str": "2026-07-09",
+    "description": "LRT project will not be implemented?",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/LRT-project-will-not-be-implemented/108-345169",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783576162.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-0bc24980",
+    "num": "tamilmirrorlk-0bc24980",
+    "date_str": "2026-07-09",
+    "description": "\u0baa\u0bbe\u0bb0\u0bbf\u0bb8\u0bcd \u0b95\u0bc2\u0b9a\u0bcd\u0b9a\u0bc2\u0bb0\u0bcd \u0bb5\u0bc0\u0b95\u0bcd 2026: \u0b95\u0ba3\u0bcd\u0b95\u0bb5\u0bb0\u0bcd \u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0bb0\u0bbf\u0bb8\u0bcd-\u0b95\u0bc2\u0b9a\u0bcd\u0b9a\u0bc2\u0bb0\u0bcd-\u0bb5\u0bc0\u0b95\u0bcd-2026-\u0b95\u0ba3\u0bcd\u0b95\u0bb5\u0bb0\u0bcd-\u0baa\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bcd/175-379690",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783576493.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-bf7802a5",
+    "num": "tamilmirrorlk-bf7802a5",
+    "date_str": "2026-07-09",
+    "description": "\u0ba8\u0bc0\u0bb0\u0bcd\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8 \u0bae\u0bcb\u0ba4\u0bb2\u0bcd: \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bc0\u0bb0\u0bcd\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8-\u0bae\u0bcb\u0ba4\u0bb2\u0bcd-\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd-\u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/175-379691",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783577189.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-2f742141",
+    "num": "tamilmirrorlk-2f742141",
+    "date_str": "2026-07-09",
+    "description": "\u0b95\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0baa\u0bbf\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd \u0ba4\u0bca\u0bb2\u0bcd\u0bb2\u0bc8: OIC \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b9f\u0baa\u0bbf\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd-\u0baa\u0bbe\u0bb2\u0bbf\u0baf\u0bb2\u0bcd-\u0ba4\u0bca\u0bb2\u0bcd\u0bb2\u0bc8-OIC-\u0b95\u0bc8\u0ba4\u0bc1/175-379692",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783577680.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-e96ca466",
+    "num": "tamilmirrorlk-e96ca466",
+    "date_str": "2026-07-09",
+    "description": "\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0b95\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bbf \u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd: \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0ba4\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc1\u0bb0\u0bbf\u0bae\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba4\u0bcd-\u0ba4\u0b95\u0b9f\u0bc1\u0b95\u0bb3\u0bcd-\u0b85\u0b9a\u0bcd\u0b9a\u0bbf\u0b9f\u0bc1\u0bae\u0bcd-\u0baa\u0ba3\u0bbf-\u0b86\u0bb0\u0bae\u0bcd\u0baa\u0bae\u0bcd-\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0baa\u0ba4\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc1\u0bb0\u0bbf\u0bae\u0bc8/175-379693",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783577733.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-b5bfd47b",
+    "num": "dailymirrorlk-b5bfd47b",
+    "date_str": "2026-07-09",
+    "description": "Archchuna threatens to remove clothes after Govt MP questions his attire",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Archchuna-threatens-to-remove-clothes-after-Govt-MP-questions-his-attire/108-345173",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783577806.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-eb0cb3d6",
+    "num": "dailymirrorlk-eb0cb3d6",
+    "date_str": "2026-07-09",
+    "description": "Couple transforms AC train coach into \u2018honeymoon coupe\u2019, Indian Railways takes action",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Couple-transforms-AC-train-coach-into-honeymoon-coupe-Indian-Railways-takes-action/108-345174",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783578045.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-726f0256",
+    "num": "dailymirrorlk-726f0256",
+    "date_str": "2026-07-09",
+    "description": "House of underworld figure \u2019Thembili Lahiru\u2019 set ablaze in Middeniya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/House-of-underworld-figure-Thembili-Lahiru-set-ablaze-in-Middeniya/108-345175",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783578404.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-fc4d1693",
+    "num": "tamilmirrorlk-fc4d1693",
+    "date_str": "2026-07-09",
+    "description": "\u2019\u0ba4\u0bc6\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bbf \u0bb2\u0bb9\u0bbf\u0bb0\u0bc1\u2019\u0bb5\u0bbf\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bc1 \u0ba4\u0bc0\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc6\u0bae\u0bcd\u0baa\u0bbf\u0bb2\u0bbf-\u0bb2\u0bb9\u0bbf\u0bb0\u0bc1-\u0bb5\u0bbf\u0ba9\u0bcd-\u0bb5\u0bc0\u0b9f\u0bc1-\u0ba4\u0bc0\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0bc8/175-379694",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783578857.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-5f107fa1",
+    "num": "dailymirrorlk-5f107fa1",
+    "date_str": "2026-07-09",
+    "description": "Sri Lankan Rupee hits Rs. 340 against USD",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Rupee-hits-Rs-340-against-USD/108-345177",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783579291.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-f848b949",
+    "num": "tamilmirrorlk-f848b949",
+    "date_str": "2026-07-09",
+    "description": "\u0b87\u0bb2\u0b95\u0bc1 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd (LRT) \u0b95\u0bc8\u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bbe?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb2\u0b95\u0bc1-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-LRT-\u0b95\u0bc8\u0bb5\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bbe/175-379695",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783579393.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-981d8065",
+    "num": "tamilmirrorlk-981d8065",
+    "date_str": "2026-07-09",
+    "description": "32 \u0bb5\u0bc6\u0bb1\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbe\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f 13 \u0bb5\u0baf\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf \u0bae\u0bb0\u0ba3\u0bae\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/32-\u0bb5\u0bc6\u0bb1\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bb3\u0bbe\u0bb2\u0bcd-\u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbe\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f-13-\u0bb5\u0baf\u0ba4\u0bc1-\u0b9a\u0bbf\u0bb1\u0bc1\u0bae\u0bbf-\u0bae\u0bb0\u0ba3\u0bae\u0bcd/175-379696",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783579877.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-fba732bf",
+    "num": "tamilmirrorlk-fba732bf",
+    "date_str": "2026-07-09",
+    "description": "\u0ba4\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4 \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0b99\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b9f\u0ba9\u0bcd-\u0bb5\u0ba8\u0bcd\u0ba4-\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0ba4\u0bbf\u0baa\u0bb0\u0bcd-\u0b95\u0bc8\u0ba4\u0bc1/175-379697",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783579924.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-f00b9d36",
+    "num": "dailymirrorlk-f00b9d36",
+    "date_str": "2026-07-09",
+    "description": "Western Europe records its hottest June as heatwaves surge",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Western-Europe-records-its-hottest-June-as-heatwaves-surge/108-345180",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783581259.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-5f15a0bc",
+    "num": "dailymirrorlk-5f15a0bc",
+    "date_str": "2026-07-09",
+    "description": "Dengue death toll rises to 45; daily case count tops 1,200",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Dengue-death-toll-rises-to-45-daily-case-count-tops-1-200/108-345181",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783581355.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-690bdc95",
+    "num": "dailymirrorlk-690bdc95",
+    "date_str": "2026-07-09",
+    "description": "Jaffna airport control tower upgraded with air situation display system",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Jaffna-airport-control-tower-upgraded-with-air-situation-display-system/108-345182",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783581611.0
   }
 ]

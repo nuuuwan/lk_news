@@ -1,0 +1,11 @@
+Jaffna airport control tower upgraded with air situation display system
+
+Colombo, July 9 (Daily Mirror) - The Electronics & Air Navigation Engineering (E&ANE) Division of Airport & Aviation Services (Sri Lanka) (Private) Limited (AASL) has successfully implemented an Air Situation Display System at the Jaffna International Airport Control Tower, enhancing air traffic management capabilities.
+
+The newly introduced system addresses a long-standing operational requirement by improving air situation awareness and strengthening the ability of air traffic controllers to identify outbound aircraft approaching from the nearest Indian Flight Information Region.
+
+The upgrade is expected to improve operational safety, particularly during adverse weather conditions, by overcoming challenges faced by controllers in visually locating aircraft due to the limited height of the control tower.
+
+The system integrates multiple surveillance inputs, including radar data from the Bandaranaike International Airport (BIA) Radar, Pidurutalagala Radar, and Automatic Dependent Surveillance-Broadcast (ADS-B) data from CES/RMA via BIA, ensuring continuous, reliable and accurate aircraft tracking information.
+
+AASL said the enhanced surveillance capability will improve operational resilience and reduce safety risks by supporting air traffic controllers and flight crews in making faster and more informed decisions.
