@@ -289372,6 +289372,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-09-adalk-87d0340f",
+    "num": "adalk-87d0340f",
+    "date_str": "2026-07-09",
+    "description": "\u0d9a\u0dcf\u0dbb\u0dca\u0db8\u0dd2\u0d9a \u0dc4\u0dcf \u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd 25\u0d9a\u0dca \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0d9a\u0dbb\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dcf\u0dbb\u0dca\u0db8\u0dd2\u0d9a-\u0dc4\u0dcf-\u0dad\u0dcf\u0d9a\u0dca\u0dc2\u0dab\u0dd2\u0d9a-\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd-25\u0d9a\u0dca-\u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba-\u0d9a\u0dbb\u0dba\u0dd2/11-423191",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783594506.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-09-adalk-507bc49c",
     "num": "adalk-507bc49c",
     "date_str": "2026-07-09",
@@ -289380,6 +289391,17 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1783595213.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-adalk-579c92f4",
+    "num": "adalk-579c92f4",
+    "date_str": "2026-07-09",
+    "description": "\u0db8\u0dd3\u0d9c\u0db8\u0dd4\u0dc0 \u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba \u0d85\u0db4\u0dbb\u0dcf\u0db0 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0dd3\u0d9c\u0db8\u0dd4\u0dc0-\u0db6\u0db1\u0dca\u0db0\u0db1\u0dcf\u0d9c\u0dcf\u0dbb\u0dba-\u0d85\u0db4\u0dbb\u0dcf\u0db0-\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0d9a\u0dca/11-423193",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783595656.0
   },
   {
     "doc_type": "lk_news",
@@ -289457,5 +289479,104 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783600644.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-9e6a078c",
+    "num": "dailymirrorlk-9e6a078c",
+    "date_str": "2026-07-09",
+    "description": "New Chairman and members appointed to Public Service Commission",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/New-Chairman-and-members-appointed-to-Public-Service-Commission/108-345205",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783603054.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-f54775de",
+    "num": "dailymirrorlk-f54775de",
+    "date_str": "2026-07-09",
+    "description": "CEA urges responsible waste disposal at Kataragama Festival",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CEA-urges-responsible-waste-disposal-at-Kataragama-Festival/108-345206",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783603237.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-3db83a39",
+    "num": "dailymirrorlk-3db83a39",
+    "date_str": "2026-07-09",
+    "description": "Post-mortems reveal brutal killing of prison officers in Negombo Prison clash",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Post-mortems-reveal-brutal-killing-of-prison-officers-in-Negombo-Prison-clash/108-345207",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783603464.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-bf625abd",
+    "num": "dailymirrorlk-bf625abd",
+    "date_str": "2026-07-09",
+    "description": "Bonnie Tyler, known for hit song \u2018Total Eclipse of the Heart,\u2019 dies age 75",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Bonnie-Tyler-known-for-hit-song-Total-Eclipse-of-the-Heart-dies-age-75/108-345208",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783603714.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-tamilmirrorlk-49bc11a8",
+    "num": "tamilmirrorlk-49bc11a8",
+    "date_str": "2026-07-09",
+    "description": "\u0ba4\u0bc6\u0bb2\u0bcd\u0ba4\u0bc6\u0ba9\u0bbf\u0baf \u0b95\u0bca\u0bb2\u0bc8 \u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1 ;  \u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95 \u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0bc6\u0bb2\u0bcd\u0ba4\u0bc6\u0ba9\u0bbf\u0baf-\u0b95\u0bca\u0bb2\u0bc8-\u0bb5\u0bb4\u0b95\u0bcd\u0b95\u0bc1-\u0b9a\u0ba8\u0bcd\u0ba4\u0bc7\u0b95-\u0ba8\u0baa\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd-\u0ba8\u0bc0\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bc1/175-379724",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783605325.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-4602228c",
+    "num": "dailymirrorlk-4602228c",
+    "date_str": "2026-07-09",
+    "description": "Towards a Dengue-Free Colombo",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Towards-a-Dengue-Free-Colombo/110-345210",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783606036.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-e79827f5",
+    "num": "dailymirrorlk-e79827f5",
+    "date_str": "2026-07-09",
+    "description": "Navy seizes smuggled pharmaceuticals and cosmetics in Kalpitiya",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Navy-seizes-smuggled-pharmaceuticals-and-cosmetics-in-Kalpitiya/108-345211",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783606210.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-8248b111",
+    "num": "dailymirrorlk-8248b111",
+    "date_str": "2026-07-09",
+    "description": "Public Security Ministry Secretary fined Rs. 2,500 over 2023 road accident",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Public-Security-Ministry-Secretary-fined-Rs-2-500-over-2023-road-accident/108-345212",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783606357.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-dailymirrorlk-f575840d",
+    "num": "dailymirrorlk-f575840d",
+    "date_str": "2026-07-09",
+    "description": "2,498 qualify for South Korean jobs",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/2-498-qualify-for-South-Korean-jobs/108-345213",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783608728.0
   }
 ]
