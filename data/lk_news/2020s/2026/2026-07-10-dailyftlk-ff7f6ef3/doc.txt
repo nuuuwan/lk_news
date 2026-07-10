@@ -1,0 +1,81 @@
+Entrepreneur decoding body’s hidden language
+
+From Formula One to building tomorrow's healthcare, one signal at a time
+
+Having honed his skills in engineering high-performance systems for Formula One and advancing cutting-edge artificial intelligence and neuroscience research, Emil Hewage has built a career at the forefront of deep technology. The Sri Lankan-born entrepreneur and computational neuroscientist has worked with leading global organisations across engineering, consulting and healthcare innovation before founding BIOS in the UK, a company pioneering AI-driven neural interfaces to transform the treatment of chronic disease.
+
+Recognised as a Forbes 30 Under 30 honouree and named among MIT Technology Review's Innovators Under 35, Emil Hewage has earned international recognition for his contributions to deep-tech innovation. Drawing on experience spanning organisations such as McLaren, Siemens and McKinsey, he sat down with the Daily FT to discuss the future of bioelectronic medicine, the growing role of AI in healthcare, his involvement in health-focused urban innovation for smart cities, and why decoding the body's neural signals could become the next major frontier in precision medicine.
+
+Q: Your journey into health technology is deeply personal. How did your Sri Lankan roots and your family shape your decision to pursue neuroscience and precision healthcare?
+
+A: Although I was born and raised in the UK, Sri Lanka has always been a big part of my identity. Both my parents trained at the University of Peradeniya medical school before moving to the UK to work in the NHS, where my mother still serves in a senior role. They instilled in me the value of education and service from an early age.
+
+The biggest influence, however, was my maternal grandfather. A self-made entrepreneur from southern Sri Lanka, who had gone from serving tea, to building his own logistics firm, was diagnosed with diabetes and later came to live with us in the UK. During his final months, he shared the story of how he had built his business from nothing, and I realised that the entrepreneurial spirit I admired in the technology world, that I was experiencing with the people I was working with in London, had always existed in my own family.
+
+Watching him become critically ill was a turning point. Despite having brilliant doctors around him, including my mother, they simply didn't have the information they needed to treat him effectively. That left a lasting impression on me. That inspired me to develop a blood-sensing technology to help clinicians make better decisions, and, at just 16, I entered the medical technology field by joining a medical device company. That experience ultimately set me on the path to medical devices, neuroscience and, eventually, BIOS.
+
+Q: For readers who are unfamiliar with your field, how would you explain your work in the simplest possible terms?
+
+A: For the past 15 years, my business has been creating AI products that can be used in complex global industries, like healthcare, energy, and transport. Most of the AI products people see today are platforms, such as ChatGPT, that create images or interesting content. My specialism has been AI that can do very high-value, high-risk decision-making. I was more motivated by where the brain, the intelligence of an F1 car system can be used today to help with very basic, but very broad problems.
+
+Q: Can you give an example of your specialised area of high-value, high-risk decision-making AI?
+
+A: My first experience with AI and machine learning was in automotive around 2010–2011, working with McLaren Formula One.  Originally, we were using AI to make Formula One cars more competitive, helping experienced drivers achieve even greater performance from these incredibly sophisticated racing cars by providing them with enhanced control through intelligent systems.
+
+That work led me to collaborate with researchers at the University of Cambridge, Stanford University and Land Rover on applying AI to make decisions to control something as complex as a car. I was part of the team that developed one of the UK's first self-driving car technologies in 2013, one of the first commercial initiatives of AI,  just before Google launched its early efforts.
+
+This experience also made me pause and ask a bigger question: ‘What is the real problem that is worth solving with this technology?’ While the US were investing billions in a future of fully autonomous vehicles, I was more motivated by where the brain, the intelligence of this type of car system, can be used today to help with very basic, yet very broad problems.
+
+Q: What business problems are you ultimately trying to solve through such complex AI technology?
+
+A: After the 2012 London Olympics, the city had completely reworked its transport systems to cope with the event. But just a couple of years later, people managing the infrastructure told me they were facing "Olympics-sized" disruptions almost every month - whether it was a major concert, severe weather or another large-scale event. They simply didn't have enough time or data to make the right decisions.
+
+That led us to develop an AI-powered intelligence layer for infrastructure, enabling cities to respond in real-time. Rather than being controlled by big tech, it's owned and used by local authorities. Today, the technology is deployed in the UK, South Korea and California. On the UK's M25 motorway, for example, it helps predict exactly when maintenance is needed, reducing unnecessary road closures, saving millions each year, and improving emergency response. Our first commercial success was applying AI to make cities and national infrastructure safer, more efficient and more resilient.
+
+Q: You’ve been involved in Smart City and digital health projects in South Korea, California, and extensively in the UK and Europe. What lessons from those projects could be relevant for Sri Lanka, and where do you see the biggest opportunities here?
+
+A: The areas I work in, which are new industries, need AI infrastructure. The biggest lesson from working in emerging industries is to focus on areas where you can leapfrog rather than trying to catch up. Instead of competing in established sectors, countries like Sri Lanka have an opportunity to build new capabilities from the ground up. One example is brain health. Like many countries, Sri Lanka has a rapidly ageing population, yet globally there are only a handful of centres specialising in areas such as Alzheimer's, neurotechnology such as BOS, and precision brain care. As new treatments and technologies, including brain implants, become more widely available over the next two decades, demand for this expertise will grow significantly.
+
+The healthcare needs of an ageing population in Colombo are not very different from those in London. That presents Sri Lanka with an opportunity to invest early in these emerging fields and establish itself as a leader, rather than trying to compete in more mature industries.
+
+Q: How would precision healthcare level the playing field to make Colombo not very different from London in such a scenario?
+
+A: Brain medicine is incredibly complex for three reasons. Your body is complex, that's never going to change. Each case is different. As the population ages more, so does the problem of brain health. So that is the real problem we need to solve.
+
+The second challenge is that there simply aren't enough specialist doctors anywhere in the world. Whether you're in London or a remote town, expertise in areas like brain health is scarce. Today, most leading centres exist because they're attached to major academic institutions, but that's not how the next generation of care will be delivered. We'll need new technologies, including AI, to expand the capacity of medical teams.
+
+The third challenge is data. The brain is vastly more complex than the human genome and is constantly changing, making it one of the richest sources of information for truly personalised medicine. But that also means the data is incredibly sensitive. The value of data in creating the personal medicine for you is extremely high. It must be shared voluntarily, protected ethically and used responsibly.
+
+For Sri Lanka, this presents a unique opportunity. Building advanced AI-driven brain health capabilities requires investment, but not on the scale of entirely new industries. With a strong medical workforce, a concentrated population and less competition for specialist capacity than larger markets, Sri Lanka has the potential to build a world-class ecosystem in this emerging field. The value of data in creating the personal medicine for you is extremely high.
+
+Q: On the subject of smart cities… If Sri Lanka were building a new city or township today, what are the 03 things you would do differently - 03 things - to ensure that citizens live longer, healthier lives rather than simply creating a more technologically advanced city?
+
+A: Firstly you need to think about how you improve mobility, specific precision of healthcare, and then the inputs to the supply chain for that city, such as resilient energy, and fertiliser. All of these are small, yet high value things that if you forget them, you can waste a lot of time and money. If you get it right, you create a self-fulfilling, economic result.
+
+I have talked obviously about the medical version, where if you add just a very small, very high value precision medicine centre, you will bring a lot of activity to the area where the centre is. You'll also create jobs for the cafes and the equivalent (economies that will arise from such an ecosystem).
+
+If you think about mobility, you can provide the same kind of AI that is used for a self-driving car, and give it to the people who are managing the traffic, in all the junctions. So you bring new skills that make it easier for you to get to work, and people might be able to start new small businesses, for example, to have small electric scooter points because they can get the data to be more competitive. Or if you run a delivery business and you have us data, you might know a better way to serve your neighborhood. The only way to do that is to make that mobility technology cheap, and people can access it for their own personal or business needs.
+
+Q: Many people worry that AI is making healthcare less human. That's like the layman's debate. Do you see technology replacing human judgment or are they freeing healthcare professionals to focus more on the human side of care?
+
+A: That's a good question. I think AI is making the average level of healthcare hopefully more accessible and high quality. It will allow the people delivering that healthcare to have more capacity to interact with you as a person. So, in general wards, access to healthcare globally should improve, but obviously with new training, to trust the system, and still interact with the person.
+
+Q: Do you have any formal training in medicine? Or is it something you picked up along the way?
+
+A: I am definitely an engineer first. An engineer and a businessman with an academic background. But my PhD was in neuroscience and AI. I am trained in computational neuroscience, which is the function of the brain, the computing of the brain. Obviously, as part of that, you can learn a lot of the physiology, and then I have worked in a number of medical device companies, including Siemens Healthcare. But my job has always been in partnership with, then, a trained doctor or surgeon, so naturally, you pick it up.
+
+For me, it's exactly like, when I was in Mclarens in the team supporting Lewis Hamilton, where my job was to help find ways that he drives faster. I was working on algorithms that would process race data from the track, and give feedback in 10 minutes on how to improve your car. Now, when I work with a very famous surgeon in California, he is still the one driving the car. He's the one who has to perform an open hour surgery. My job is to make sure that my algorithm is giving him more control, more capability.
+
+A: These days, we are about 2,000 times more accurate than any human. For some of these surgical procedures, without our technology, it takes about six separate attempts to achieve the precision, and that takes about 6 months to one year. with our technology.
+
+Q: Organisations such as BIOS are working in areas that have traditionally been dominated by pharmaceutical companies. Do you see yourself as partners with big pharma, or as competitors or something in between?
+
+A: I think right now, BIOS’ primary partner is the health system. If our technology makes an existing pharmaceutical company's product more effective, they also become a partner to us. Some of the largest public, medical device and pharma companies, partner with us. But our primary partner is always going to be the patient and their health system, because our mission is ultimately whatever you need, that improves your health span. Our aim is to systematically make it easier for you to access that. It comes through the distribution, it comes through the hospitals, and then ultimately comes to you in your own home.  Lifespan without health span is not meaningful.
+
+Q: As AI becomes more integrated into healthcare, concerns around privacy and data ownership are growing. How can innovation be balanced with trust, and who should own our health data?
+
+A: Trust has to be built at the local level. My view is that we shouldn't rely solely on global technology companies to manage sensitive health data. Instead, governments, healthcare providers and local technology companies should work together to develop secure, affordable AI systems that serve their own communities. My priority is to make sure that we don't just rely on the big tech scalers, because you lose more than you win in the long run.
+
+That's the approach we've taken with our smart city technology, where the AI technology is deployed directly by local authorities rather than owned by big tech. I believe the same model should apply to healthcare. For example, the banks in this country are big companies. Not everybody owns those banks, but everyone relies on those banks.
+
+People need trusted local institutions that are accountable for how their data is used, with strong oversight from both the public and private sectors. The technology companies must earn that trust, but ultimately, the data should be used to benefit the communities it comes from.

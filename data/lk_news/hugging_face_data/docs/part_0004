@@ -282772,6 +282772,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-06-islandlk-09d6830a",
+    "num": "islandlk-09d6830a",
+    "date_str": "2026-07-06",
+    "description": "Soaring mercury and need for caution",
+    "url_metadata": "http://island.lk/soaring-mercury-and-need-for-caution/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783352580.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-06-islandlk-22dcbc08",
     "num": "islandlk-22dcbc08",
     "date_str": "2026-07-06",
@@ -287799,6 +287810,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-08-islandlk-706ee311",
+    "num": "islandlk-706ee311",
+    "date_str": "2026-07-08",
+    "description": "Polarizing rhetoric greets America on its epochal anniversary",
+    "url_metadata": "http://island.lk/polarizing-rhetoric-greets-america-on-its-epochal-anniversary/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783528200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-islandlk-a9809516",
+    "num": "islandlk-a9809516",
+    "date_str": "2026-07-08",
+    "description": "Beyond concrete: Sunela Jayewardene urges Sri Lanka to rediscover an ancient wisdom for a planet in peril",
+    "url_metadata": "http://island.lk/beyond-concrete-sunela-jayewardene-urges-sri-lanka-to-rediscover-an-ancient-wisdom-for-a-planet-in-peril/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783528320.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-08-islandlk-171aa222",
     "num": "islandlk-171aa222",
     "date_str": "2026-07-08",
@@ -287810,11 +287843,33 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-08-islandlk-5f008b71",
+    "num": "islandlk-5f008b71",
+    "date_str": "2026-07-08",
+    "description": "Colombia\u2019s \u201cback-to-back queen\u201d",
+    "url_metadata": "http://island.lk/colombias-back-to-back-queen/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783528560.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-08-islandlk-26a02d6d",
     "num": "islandlk-26a02d6d",
     "date_str": "2026-07-08",
     "description": "Renewed volatility in West Asia takes toll on stock trading",
     "url_metadata": "http://island.lk/renewed-volatility-in-west-asia-takes-toll-on-stock-trading/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783528860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-08-islandlk-4e6a525e",
+    "num": "islandlk-4e6a525e",
+    "date_str": "2026-07-08",
+    "description": "One-year delay over imported salt costs Sri Lanka USD 100 million in for-ex",
+    "url_metadata": "http://island.lk/one-year-delay-over-imported-salt-costs-sri-lanka-usd-100-million-in-for-ex/",
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1783528860.0
@@ -289911,6 +289966,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-09-islandlk-d0516a08",
+    "num": "islandlk-d0516a08",
+    "date_str": "2026-07-09",
+    "description": "THE TEA ACADEMY: A NATIONAL BLUEPRINT TO REINVENT CEYLON TEA FOR THE FUTURE",
+    "url_metadata": "http://island.lk/the-tea-academy-a-national-blueprint-to-reinvent-ceylon-tea-for-the-future/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783606860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-islandlk-441e5113",
+    "num": "islandlk-441e5113",
+    "date_str": "2026-07-09",
+    "description": "CDB and Hayleys Mobility partner to drive customer-friendly vehicle financing",
+    "url_metadata": "http://island.lk/cdb-and-hayleys-mobility-partner-to-drive-customer-friendly-vehicle-financing/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783607580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-islandlk-a2f6f382",
+    "num": "islandlk-a2f6f382",
+    "date_str": "2026-07-09",
+    "description": "SLT-MOBITEL \u2018Sadaham Sabendiyava\u2019 brings devotees closer to the spirit of Poson",
+    "url_metadata": "http://island.lk/slt-mobitel-sadaham-sabendiyava-brings-devotees-closer-to-the-spirit-of-poson/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783607580.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-islandlk-f51d890a",
+    "num": "islandlk-f51d890a",
+    "date_str": "2026-07-09",
+    "description": "Union Assurance Suwamaga brings free diabetes screening to thousands during Poson pilgrimage",
+    "url_metadata": "http://island.lk/union-assurance-suwamaga-brings-free-diabetes-screening-to-thousands-during-poson-pilgrimage/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783607640.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-09-dailymirrorlk-f575840d",
     "num": "dailymirrorlk-f575840d",
     "date_str": "2026-07-09",
@@ -289930,6 +290029,39 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1783609500.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-islandlk-501b85d7",
+    "num": "islandlk-501b85d7",
+    "date_str": "2026-07-09",
+    "description": "Mid-East tensions continue to weigh heavily on bourse",
+    "url_metadata": "http://island.lk/mid-east-tensions-continue-to-weigh-heavily-on-bourse/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783609560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-islandlk-5065489f",
+    "num": "islandlk-5065489f",
+    "date_str": "2026-07-09",
+    "description": "Emirates to double its A350 operations in Colombo from August",
+    "url_metadata": "http://island.lk/emirates-to-double-its-a350-operations-in-colombo-from-august/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783609620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-islandlk-7a4bd742",
+    "num": "islandlk-7a4bd742",
+    "date_str": "2026-07-09",
+    "description": "Pan Asia Bank strengthens national remittance framework with \u2018Remit Max\u2019",
+    "url_metadata": "http://island.lk/pan-asia-bank-strengthens-national-remittance-framework-with-remit-max/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783609620.0
   },
   {
     "doc_type": "lk_news",
@@ -289974,6 +290106,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1783614780.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-islandlk-3b5796ac",
+    "num": "islandlk-3b5796ac",
+    "date_str": "2026-07-09",
+    "description": "Devanesan Annan \u2013 in Memoriam",
+    "url_metadata": "http://island.lk/devanesan-annan-in-memoriam/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783615560.0
   },
   {
     "doc_type": "lk_news",
@@ -290238,5 +290381,82 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783636427.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-6337b34f",
+    "num": "dailyftlk-6337b34f",
+    "date_str": "2026-07-10",
+    "description": "UNFPA and Sri Lanka Parliament partner to build a more inclusive future",
+    "url_metadata": "https://www.ft.lk/news/UNFPA-and-Sri-Lanka-Parliament-partner-to-build-a-more-inclusive-future/56-794447",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783637354.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-87fdef4d",
+    "num": "dailyftlk-87fdef4d",
+    "date_str": "2026-07-10",
+    "description": "Import dependence and food security",
+    "url_metadata": "https://www.ft.lk/columns/Import-dependence-and-food-security/4-794453",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783643702.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-ff7f6ef3",
+    "num": "dailyftlk-ff7f6ef3",
+    "date_str": "2026-07-10",
+    "description": "Entrepreneur decoding body\u2019s hidden language",
+    "url_metadata": "https://www.ft.lk/opinion/Entrepreneur-decoding-body-s-hidden-language/14-794454",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783644007.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-9c60a2d9",
+    "num": "dailyftlk-9c60a2d9",
+    "date_str": "2026-07-10",
+    "description": "Future-ready boards take centre stage at Sri Lanka Corporate Director Summit 2026",
+    "url_metadata": "https://www.ft.lk/business/Future-ready-boards-take-centre-stage-at-Sri-Lanka-Corporate-Director-Summit-2026/34-794455",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783644080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-28c3aa75",
+    "num": "dailyftlk-28c3aa75",
+    "date_str": "2026-07-10",
+    "description": "TiE Colombo brings Stanford Seed Spark to help Sri Lankan startups go global",
+    "url_metadata": "https://www.ft.lk/business/TiE-Colombo-brings-Stanford-Seed-Spark-to-help-Sri-Lankan-startups-go-global/34-794456",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783644106.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-1cdb4f6c",
+    "num": "dailyftlk-1cdb4f6c",
+    "date_str": "2026-07-10",
+    "description": "SMEs\u2019 tax under-reporting locking them out of finance: Union Bank CEO",
+    "url_metadata": "https://www.ft.lk/business/SMEs-tax-under-reporting-locking-them-out-of-finance-Union-Bank-CEO/34-794457",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783644167.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-4f9a7805",
+    "num": "dailyftlk-4f9a7805",
+    "date_str": "2026-07-10",
+    "description": "An oasis for learning, discovery and innovation \u2013 Rice is sure to rise",
+    "url_metadata": "https://www.ft.lk/columns/An-oasis-for-learning-discovery-and-innovation-Rice-is-sure-to-rise/4-794458",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783644447.0
   }
 ]

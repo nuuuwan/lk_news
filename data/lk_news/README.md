@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--10_04:18:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--10_06:28:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,744** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,764** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-10-dailymirrorlk-7a837fc0",
-    "num": "dailymirrorlk-7a837fc0",
+    "doc_id": "2026-07-10-dailyftlk-4f9a7805",
+    "num": "dailyftlk-4f9a7805",
     "date_str": "2026-07-10",
-    "description": "US-Iran war:  Stop second round, save the MoU",
-    "url_metadata": "https://www.dailymirror.lk/opinion/US-Iran-war-Stop-second-round-save-the-MoU/172-345237",
+    "description": "An oasis for learning, discovery and innovation \u2013 Rice is sure to rise",
+    "url_metadata": "https://www.ft.lk/columns/An-oasis-for-learning-discovery-and-innovation-Rice-is-sure-to-rise/4-794458",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783636427.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783644447.0
 }
 ```
 
@@ -41,6 +41,13 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-10 | `dailyftlk-4f9a7805` | An oasis for learning, discovery and innovation – Rice is sure to rise | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailyftlk-4f9a7805)
+- 2026-07-10 | `dailyftlk-1cdb4f6c` | SMEs’ tax under-reporting locking them out of finance: Union Bank CEO | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailyftlk-1cdb4f6c)
+- 2026-07-10 | `dailyftlk-28c3aa75` | TiE Colombo brings Stanford Seed Spark to help Sri Lankan startups go global | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailyftlk-28c3aa75)
+- 2026-07-10 | `dailyftlk-9c60a2d9` | Future-ready boards take centre stage at Sri Lanka Corporate Director Summit 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailyftlk-9c60a2d9)
+- 2026-07-10 | `dailyftlk-ff7f6ef3` | Entrepreneur decoding body’s hidden language | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailyftlk-ff7f6ef3)
+- 2026-07-10 | `dailyftlk-87fdef4d` | Import dependence and food security | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailyftlk-87fdef4d)
+- 2026-07-10 | `dailyftlk-6337b34f` | UNFPA and Sri Lanka Parliament partner to build a more inclusive future | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailyftlk-6337b34f)
 - 2026-07-10 | `dailymirrorlk-7a837fc0` | US-Iran war:  Stop second round, save the MoU | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-7a837fc0)
 - 2026-07-10 | `dailymirrorlk-fb23e988` | From Vulnerability to Opportunity: AI and the Future of Work in Sri Lanka | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-fb23e988)
 - 2026-07-10 | `tamilmirrorlk-96f859de` | தயாசிறியை கைது செய்ய சதி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-96f859de)
@@ -54,13 +61,6 @@ A collection of lk_news documents.
 - 2026-07-10 | `dailymirrorlk-c53b65fc` | Yield curve edges slightly higher amid pre-auction selling pressure | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-c53b65fc)
 - 2026-07-10 | `dailymirrorlk-2831aeed` | Indices close in red | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-2831aeed)
 - 2026-07-10 | `dailymirrorlk-f43e2be0` | Bridging the corporate grind with human science: how positive psychology can reshape workplace resilience | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-f43e2be0)
-- 2026-07-10 | `dailymirrorlk-b13a1dc8` | SLID prioritises future ready boards with Sri Lanka Corporate Director Summit 2026 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-b13a1dc8)
-- 2026-07-10 | `dailymirrorlk-65d328b7` | Rupee hits Rs. 340 against USD | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-65d328b7)
-- 2026-07-09 | `virakesarilk-b2d17d27` | நியூஸிலாந்து லின்கன் பல்கலைக்கழக அணியிடம் இலங்கை அணி நிறைய கற்றுக்கொண்டது - கயனி திசாநாயக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-virakesarilk-b2d17d27)
-- 2026-07-09 | `virakesarilk-9cbdb78f` | கடைசி ஒருநாள்  போட்டியில்  சாமிக்க அபாரம், இந்தியா இளையோர் அணியை இலங்கை இளையோர் அணி வெற்றி கொண்டு தொடரையும் கைப்பற்றியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-virakesarilk-9cbdb78f)
-- 2026-07-09 | `dailymirrorlk-c645bae3` | LANKATILES sees high prospects both locally and overseas for new product | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-dailymirrorlk-c645bae3)
-- 2026-07-09 | `dailymirrorlk-289f10f8` | BOC empowers Dambana indigenous community through digital payments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-dailymirrorlk-289f10f8)
-- 2026-07-09 | `dailymirrorlk-e2c79938` | Scouts closes investment round at Rs.1.6bn valuation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-09-dailymirrorlk-e2c79938)
 
 ---
 
