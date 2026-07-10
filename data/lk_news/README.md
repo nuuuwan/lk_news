@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--10_17:15:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--10_18:48:18-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,839** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,845** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-10-dailymirrorlk-e4417e9b",
-    "num": "dailymirrorlk-e4417e9b",
+    "doc_id": "2026-07-10-tamilmirrorlk-acdfaab1",
+    "num": "tamilmirrorlk-acdfaab1",
     "date_str": "2026-07-10",
-    "description": "Mobile screening for HIV, STDs begins in Colombo, Gampaha",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mobile-screening-for-HIV-STDs-begins-in-Colombo-Gampaha/108-345310",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783683353.0
+    "description": "\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1 \u0bb5\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bbe\u0b95 \u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bae\u0bbe\u0ba9\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1-\u0bb5\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bbe\u0b95-\u0b9a\u0bc6\u0ba8\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0bca\u0ba3\u0bcd\u0b9f\u0bae\u0bbe\u0ba9\u0bcd/175-379789",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783686737.0
 }
 ```
 
@@ -41,10 +41,16 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-10 | `tamilmirrorlk-acdfaab1` | சிறப்பு விருந்தினராக செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-acdfaab1)
 - 2026-07-10 | `dailymirrorlk-e4417e9b` | Mobile screening for HIV, STDs begins in Colombo, Gampaha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-e4417e9b)
 - 2026-07-10 | `dailymirrorlk-616054cb` | CAASL commissions solar power system to meet 70% of power needs | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-616054cb)
+- 2026-07-10 | `adalk-6c915f98` | මැයි මාසයේ ඖෂධ හා නිෂ්පාදන ආනයන වියදම ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-adalk-6c915f98)
 - 2026-07-10 | `dailymirrorlk-593ddbb0` | UNFPA, Parliament of Sri Lanka sign MoU to strengthen evidence-based policymaking | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-593ddbb0)
+- 2026-07-10 | `adalk-3ad8ee0f` | දිත්වාට ලැබුණු සියලු මුදල් පරිත්‍යාග සුරක්ෂිතයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-adalk-3ad8ee0f)
+- 2026-07-10 | `adalk-f6f0d7f6` | ඒඩ්ස් හා හෙපටයිටිස් බී පරීක්ෂාවට ජංගම රුධිර පරීක්ෂණ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-adalk-f6f0d7f6)
 - 2026-07-10 | `tamilmirrorlk-fb620b02` | பொரளை-பேஸ்லைன் வீதி ரயில் கடவை மூடப்படுகிறது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-fb620b02)
+- 2026-07-10 | `tamilmirrorlk-56e74eb7` | மண்ணை அள்ளியவன் மாறிய கதை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-56e74eb7)
+- 2026-07-10 | `adalk-1d68e6c2` | අධිකරණ ඇමතිට එරෙහිව විශ්වාසභංගයක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-adalk-1d68e6c2)
 - 2026-07-10 | `dailymirrorlk-2ab09dc2` | Opposition to move no-faith motion against Justice Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-2ab09dc2)
 - 2026-07-10 | `dailymirrorlk-19f6246b` | Duminda Dissanayake re-produced as suspect over gold plated T56 rifle case | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-19f6246b)
 - 2026-07-10 | `tamilmirrorlk-40e8bf19` | பார்சலில் வந்த வாசனைச் சவர்க்காரம்; வியாபாரி கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-40e8bf19)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-07-10 | `dailymirrorlk-580acd0e` | Fake emergency loan scams on the rise; public urged to avoid suspicious links: SLCERT | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-580acd0e)
 - 2026-07-10 | `dailymirrorlk-73a22835` | Plans to register all shops under CAA for price regulation: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-73a22835)
 - 2026-07-10 | `dailymirrorlk-89c4fa74` | Wedding Show 2026 at BMICH | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-89c4fa74)
-- 2026-07-10 | `dailymirrorlk-7a621513` | Schools, universities in dengue hotspots should close for two weeks: Doctors’ union | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-7a621513)
-- 2026-07-10 | `dailymirrorlk-25cf7d1a` | Burnham set to be next PM as 322 Labour MPs back him in first nomination tally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-25cf7d1a)
-- 2026-07-10 | `tamilmirrorlk-a37b612f` | கல்லடிப் பாலத்தில் சோகம்: தன்னுயிரை மாய்க்க முயன்ற நபர் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-a37b612f)
-- 2026-07-10 | `tamilmirrorlk-0906e701` | 13 வயது சிறுமி உயிரிழப்பு; உறவினர்களிடம் சடலம் ஒப்படைப்பு (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-0906e701)
-- 2026-07-10 | `dailymirrorlk-1b6db910` | Avissawella hospital wins five 5S awards | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-1b6db910)
-- 2026-07-10 | `dailymirrorlk-6de70b90` | Court to consider intervention pleas in Suresh Sallay’s writ case on July 17 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-6de70b90)
 
 ---
 
