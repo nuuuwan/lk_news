@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--10_11:07:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--10_13:02:32-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,805** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,821** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-10-tamilmirrorlk-a8f9ef69",
-    "num": "tamilmirrorlk-a8f9ef69",
+    "doc_id": "2026-07-10-dailymirrorlk-25cf7d1a",
+    "num": "dailymirrorlk-25cf7d1a",
     "date_str": "2026-07-10",
-    "description": "\u0b9a\u0ba8\u0bcd\u0ba4\u0bcb\u0bb7\u0bc1\u0b9f\u0ba9\u0bcd \u0b95\u0bb0\u0bae\u0bcd \u0b95\u0bcb\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd \u2019\u0b9a\u0bc1\u0baa\u0bcd\u0bb0\u0bae\u0ba3\u0bbf\u0baf\u0baa\u0bc1\u0bb0\u0bae\u0bcd\u2019 \u0ba8\u0bbe\u0baf\u0b95\u0bbf",
-    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b9a\u0ba8\u0bcd\u0ba4\u0bcb\u0bb7\u0bc1\u0b9f\u0ba9\u0bcd-\u0b95\u0bb0\u0bae\u0bcd-\u0b95\u0bcb\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0b9a\u0bc1\u0baa\u0bcd\u0bb0\u0bae\u0ba3\u0bbf\u0baf\u0baa\u0bc1\u0bb0\u0bae\u0bcd-\u0ba8\u0bbe\u0baf\u0b95\u0bbf/54-379742",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1783660984.0
+    "description": "Burnham set to be next PM as 322 Labour MPs back him in first nomination tally",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Burnham-set-to-be-next-PM-as-322-Labour-MPs-back-him-in-first-nomination-tally/108-345283",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783668401.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-10 | `dailymirrorlk-25cf7d1a` | Burnham set to be next PM as 322 Labour MPs back him in first nomination tally | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-25cf7d1a)
+- 2026-07-10 | `tamilmirrorlk-a37b612f` | கல்லடிப் பாலத்தில் சோகம்: தன்னுயிரை மாய்க்க முயன்ற நபர் மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-a37b612f)
+- 2026-07-10 | `tamilmirrorlk-0906e701` | 13 வயது சிறுமி உயிரிழப்பு; உறவினர்களிடம் சடலம் ஒப்படைப்பு (வீடியோ) | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-0906e701)
+- 2026-07-10 | `dailymirrorlk-6de70b90` | Court to consider intervention pleas in Suresh Sallay’s writ case on July 17 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-6de70b90)
+- 2026-07-10 | `tamilmirrorlk-7d30073b` | டைனோசர் எலும்புக்கூடு: ரூ. 250 கோடிக்கு ஏலம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-7d30073b)
+- 2026-07-10 | `tamilmirrorlk-0efb0930` | சிறைச்சாலை மோதலின் போது காணாமல் போன துப்பாக்கி மீட்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-0efb0930)
+- 2026-07-10 | `adalk-46452f53` | මරියසෙල් ගුණතිලක සමුගනියි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-adalk-46452f53)
+- 2026-07-10 | `adalk-a9af520f` | සේවා වියුක්තිය පහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-adalk-a9af520f)
+- 2026-07-10 | `dailymirrorlk-8f462ea6` | CMC to offer free rabies vaccinations and pet services | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-8f462ea6)
+- 2026-07-10 | `dailymirrorlk-9c5d6c79` | BASL urges President to fill eight vacancies in Superior Courts without delay | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-9c5d6c79)
+- 2026-07-10 | `dailymirrorlk-07fcc121` | Israel shared intelligence with US of Iranian plot to assassinate Trump, sources say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-07fcc121)
+- 2026-07-10 | `tamilmirrorlk-40254cb3` | த.வெ.க. ஆட்சியைக் கவிழ்க்க 35 கோடி ரூபாய் பேரம்: தேடப்படும் சிங்கப்பூர் தொழிலதிபர் யார்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-40254cb3)
+- 2026-07-10 | `dailymirrorlk-d5f5bfdf` | Turn Galle Mahamodara Hospital into disease centre, not prison: Doctor | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-d5f5bfdf)
+- 2026-07-10 | `tamilmirrorlk-ce7d2d09` | டெங்கு அச்சுறுத்தல்: பாடசாலைகள், பல்கலைக்கழகங்களை மூட கோரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-ce7d2d09)
+- 2026-07-10 | `dailymirrorlk-d7814fec` | Tensions erupt in Indian state after 11-year-old raped and murdered | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-d7814fec)
 - 2026-07-10 | `tamilmirrorlk-a8f9ef69` | சந்தோஷுடன் கரம் கோர்த்தார் ’சுப்ரமணியபுரம்’ நாயகி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-a8f9ef69)
 - 2026-07-10 | `tamilmirrorlk-f33d08f2` | ’அரோஹரா’ கோஷம் முழங்க: முதல் நாளில் 10 ஆயிரம் அடியார்கள் பயணம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-f33d08f2)
 - 2026-07-10 | `dailymirrorlk-83dd821f` | Special Ayurvedic medicines developed to combat dengue virus: Ayurveda Medical Officers | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-83dd821f)
 - 2026-07-10 | `tamilmirrorlk-56257c22` | கதிர்காமம் நோக்கிய காட்டுவழிப் பாதயாத்திரை ’அரோகரா’ கோஷத்துடன் ஆரம்பம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-56257c22)
 - 2026-07-10 | `tamilmirrorlk-875fc371` | மார்பகங்களை பிடித்த : நகரசபை உறுப்பினர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-875fc371)
-- 2026-07-10 | `dailymirrorlk-dd73fc93` | Missing repeater firearm recovered at Negombo Prison | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-dd73fc93)
-- 2026-07-10 | `tamilmirrorlk-00511772` | ஆஸ்திரேலிய வங்கிக்குச் செலுத்தப்பட்ட 2.5 மில்லியன் டொலர் மாயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-00511772)
-- 2026-07-10 | `dailymirrorlk-2e453348` | 5,000 kidney patients stuck in surgery queue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-2e453348)
-- 2026-07-10 | `dailymirrorlk-4e91c227` | US$2.5 Mn loan repayment loss a definite cybercrime and theft: COPF chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-4e91c227)
-- 2026-07-10 | `tamilmirrorlk-64155c73` | சீனாவில் பாரிய தீ: 28 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-64155c73)
-- 2026-07-10 | `tamilmirrorlk-03c8b204` | பாடகி மரியசெல் குணதிலக்க காலமானார். | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-03c8b204)
-- 2026-07-10 | `dailymirrorlk-aeeb8373` | Intermittent rain, dense fog disrupt traffic in Central Hills | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-aeeb8373)
-- 2026-07-10 | `dailymirrorlk-1274dbee` | Factory fire kills at least 28 in China’s ’shoe capital’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-1274dbee)
-- 2026-07-10 | `dailymirrorlk-845f2193` | Iran says it hits U.S. military targets in Gulf, buries slain leader Khamenei | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-845f2193)
-- 2026-07-10 | `dailymirrorlk-8b7a7e88` | Veteran singer Mariazelle Goonetilleke passes away | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-8b7a7e88)
-- 2026-07-10 | `dailymirrorlk-72be9493` | France beat Morocco 2-0 to enter FIFA World Cup semi-finals | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-72be9493)
-- 2026-07-10 | `tamilmirrorlk-68ff5e9b` | பிரான்ஸை அரையிறுதிக்கு தூக்கி நிறுத்திய மப்பே | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-68ff5e9b)
-- 2026-07-10 | `dailyftlk-a14ba089` | 2027 Budget to strengthen public healthcare to reduce private treatment costs: President | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailyftlk-a14ba089)
-- 2026-07-10 | `dailyftlk-81b7eac8` | Global investment rises 6% to $ 1.6 t, but development gains remain uneven | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailyftlk-81b7eac8)
-- 2026-07-10 | `dailyftlk-f5d1d245` | CA Sri Lanka launches multi-pronged initiatives to power SME sector | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailyftlk-f5d1d245)
 
 ---
 
