@@ -291022,6 +291022,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-10-adalk-7ef09d7a",
+    "num": "adalk-7ef09d7a",
+    "date_str": "2026-07-10",
+    "description": "\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0dba \u0dbd\u0d9a\u0dca\u0dc2\u00a012\u0dba\u0dd2, \u0d86\u0daf\u0dcf\u0dba\u0db8 \u0da9\u0ddc.\u0db6\u0dd2. 1.5",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc3\u0d82\u0da0\u0dcf\u0dbb\u0d9a-\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd3\u0dba-\u0dbd\u0d9a\u0dca\u0dc2\u00a012\u0dba\u0dd2--\u0d86\u0daf\u0dcf\u0dba\u0db8-\u0da9\u0ddc-\u0db6\u0dd2--1-5/11-423202",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783664842.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-adalk-3ae5d029",
+    "num": "adalk-3ae5d029",
+    "date_str": "2026-07-10",
+    "description": "\u0dbb\u0da2\u0dba \u0dc0\u0dd3 \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dbd\u0db6\u0db1 \u0dc3\u0db3\u0dd4\u0daf\u0dcf \u0d85\u0dbb\u0db9\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0da2\u0dba-\u0dc0\u0dd3-\u0db8\u0dd2\u0dbd\u0daf\u0dd3-\u0d9c\u0dd0\u0db1\u0dd3\u0db8-\u0dbd\u0db6\u0db1-\u0dc3\u0db3\u0dd4\u0daf\u0dcf-\u0d85\u0dbb\u0db9\u0dba\u0dd2/11-423203",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783665162.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-10-tamilmirrorlk-0efb0930",
     "num": "tamilmirrorlk-0efb0930",
     "date_str": "2026-07-10",
@@ -291055,6 +291077,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-1b6db910",
+    "num": "dailymirrorlk-1b6db910",
+    "date_str": "2026-07-10",
+    "description": "Avissawella hospital wins five 5S awards",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Avissawella-hospital-wins-five-5S-awards/110-345282",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783667597.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-10-tamilmirrorlk-0906e701",
     "num": "tamilmirrorlk-0906e701",
     "date_str": "2026-07-10",
@@ -291085,5 +291118,126 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783668401.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-7a621513",
+    "num": "dailymirrorlk-7a621513",
+    "date_str": "2026-07-10",
+    "description": "Schools, universities in dengue hotspots should close for two weeks: Doctors\u2019 union",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Schools-universities-in-dengue-hotspots-should-close-for-two-weeks-Doctors-union/108-345284",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783671059.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-89c4fa74",
+    "num": "dailymirrorlk-89c4fa74",
+    "date_str": "2026-07-10",
+    "description": "Wedding Show 2026 at BMICH",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Wedding-Show-2026-at-BMICH/110-345285",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783671296.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-73a22835",
+    "num": "dailymirrorlk-73a22835",
+    "date_str": "2026-07-10",
+    "description": "Plans to register all shops under CAA for price regulation: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Plans-to-register-all-shops-under-CAA-for-price-regulation-Deputy-Minister/108-345286",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783671463.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-580acd0e",
+    "num": "dailymirrorlk-580acd0e",
+    "date_str": "2026-07-10",
+    "description": "Fake emergency loan scams on the rise; public urged to avoid suspicious links: SLCERT",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fake-emergency-loan-scams-on-the-rise-public-urged-to-avoid-suspicious-links-SLCERT/108-345291",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783672533.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-tamilmirrorlk-928e93ea",
+    "num": "tamilmirrorlk-928e93ea",
+    "date_str": "2026-07-10",
+    "description": "\u0baa\u0bcb\u0ba9\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0b9a\u0bcd \u0b9a\u0bca\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0b9a\u0bb5\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd: \u0bae\u0ba9\u0bc8\u0bb5\u0bbf \u0b95\u0ba4\u0bb1\u0bb2\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bc8\u0b95\u0bb3\u0bcd/\u0baa\u0bcb\u0ba9\u0bbf\u0bb2\u0bcd-\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0b95\u0bb3\u0bc8\u0b95\u0bcd-\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0b9a\u0bcd-\u0b9a\u0bca\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd-\u0b9a\u0bb5\u0baa\u0bcd\u0baa\u0bc6\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0bb2\u0bcd-\u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd-\u0bae\u0ba9\u0bc8\u0bb5\u0bbf-\u0b95\u0ba4\u0bb1\u0bb2\u0bcd/91-379753",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783672595.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-tamilmirrorlk-46857352",
+    "num": "tamilmirrorlk-46857352",
+    "date_str": "2026-07-10",
+    "description": "\u0ba8\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bbf\u0b9a\u0bc7\u0b9f \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba8\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bcd-\u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe\u0bb5\u0bc8-\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1-\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0bb5\u0bbf\u0b9a\u0bc7\u0b9f-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0b9a\u0bc7\u0bb5\u0bc8/175-379754",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783673733.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-41e196c5",
+    "num": "dailymirrorlk-41e196c5",
+    "date_str": "2026-07-10",
+    "description": "Lady Ridgeway Hospital launches special dengue mosquito control programme",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Lady-Ridgeway-Hospital-launches-special-dengue-mosquito-control-programme/108-345293",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783674025.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-tamilmirrorlk-d388c1e4",
+    "num": "tamilmirrorlk-d388c1e4",
+    "date_str": "2026-07-10",
+    "description": "\u0ba4\u0b99\u0bcd\u0b95 \u0bae\u0bc1\u0bb2\u0bbe\u0bae\u0bcd \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf:  \u0ba4\u0bc1\u0bae\u0bbf\u0ba8\u0bcd\u0ba4\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0bbf\u0ba3\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0ba4\u0b99\u0bcd\u0b95-\u0bae\u0bc1\u0bb2\u0bbe\u0bae\u0bcd-\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf-\u0ba4\u0bc1\u0bae\u0bbf\u0ba8\u0bcd\u0ba4\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc1-\u0baa\u0bbf\u0ba3\u0bc8/175-379756",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783674380.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-tamilmirrorlk-40e8bf19",
+    "num": "tamilmirrorlk-40e8bf19",
+    "date_str": "2026-07-10",
+    "description": "\u0baa\u0bbe\u0bb0\u0bcd\u0b9a\u0bb2\u0bbf\u0bb2\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4 \u0bb5\u0bbe\u0b9a\u0ba9\u0bc8\u0b9a\u0bcd \u0b9a\u0bb5\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bae\u0bcd; \u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf \u0b95\u0bc8\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd/\u0baa\u0bbe\u0bb0\u0bcd\u0b9a\u0bb2\u0bbf\u0bb2\u0bcd-\u0bb5\u0ba8\u0bcd\u0ba4-\u0bb5\u0bbe\u0b9a\u0ba9\u0bc8\u0b9a\u0bcd-\u0b9a\u0bb5\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bae\u0bcd-\u0bb5\u0bbf\u0baf\u0bbe\u0baa\u0bbe\u0bb0\u0bbf-\u0b95\u0bc8\u0ba4\u0bc1/71-379757",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783674475.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-19f6246b",
+    "num": "dailymirrorlk-19f6246b",
+    "date_str": "2026-07-10",
+    "description": "Duminda Dissanayake re-produced as suspect over gold plated T56 rifle case",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Duminda-Dissanayake-re-produced-as-suspect-over-gold-plated-T56-rifle-case/108-345294",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783674813.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-2ab09dc2",
+    "num": "dailymirrorlk-2ab09dc2",
+    "date_str": "2026-07-10",
+    "description": "Opposition to move no-faith motion against Justice Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Opposition-to-move-no-faith-motion-against-Justice-Minister/108-345295",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783674957.0
   }
 ]
