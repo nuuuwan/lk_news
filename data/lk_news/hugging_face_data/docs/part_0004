@@ -291055,6 +291055,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-10-adalk-88d6685c",
+    "num": "adalk-88d6685c",
+    "date_str": "2026-07-10",
+    "description": "\u0dc0\u0dd3 \u0d85\u0dbd\u0dd9\u0dc0\u0dd2 \u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda \u0dc3\u0db8\u0dc3\u0dca\u0dad \u0dab\u0dba \u0dbb\u0dd4. \u0d9a\u0ddd\u0da7\u0dd2 843",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dc0\u0dd3-\u0d85\u0dbd\u0dd9\u0dc0\u0dd2-\u0db8\u0dab\u0dca\u0da9\u0dbd\u0dba\u0dda-\u0dc3\u0db8\u0dc3\u0dca\u0dad-\u0dab\u0dba-\u0dbb\u0dd4--\u0d9a\u0ddd\u0da7\u0dd2-843/11-423204",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783665386.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-10-tamilmirrorlk-7d30073b",
     "num": "tamilmirrorlk-7d30073b",
     "date_str": "2026-07-10",
@@ -291242,6 +291253,50 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-476cf879",
+    "num": "dailymirrorlk-476cf879",
+    "date_str": "2026-07-10",
+    "description": "Spain wildfire kills several, with some victims found in vehicles",
+    "url_metadata": "https://www.dailymirror.lk/international/Spain-wildfire-kills-several-with-some-victims-found-in-vehicles/107-345297",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783676250.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-3ac1e289",
+    "num": "dailymirrorlk-3ac1e289",
+    "date_str": "2026-07-10",
+    "description": "Vijay\u2019s Jana Nayagan receives \u2018adults only\u2019 certificate",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijays-Jana-Nayagan-receives-adults-only-certificate/108-345299",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783676481.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-128f760f",
+    "num": "dailymirrorlk-128f760f",
+    "date_str": "2026-07-10",
+    "description": "Kelani Valley Railway crossing at Baseline Road to close for repairs",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kelani-Valley-Railway-crossing-at-Baseline-Road-to-close-for-repairs/108-345300",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783676766.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-a9c847f6",
+    "num": "dailymirrorlk-a9c847f6",
+    "date_str": "2026-07-10",
+    "description": "US and Iran halt attacks, mediators race to restore diplomacy after strikes",
+    "url_metadata": "https://www.dailymirror.lk/international/US-and-Iran-halt-attacks-mediators-race-to-restore-diplomacy-after-strikes/107-345301",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783677565.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-10-adalk-1d68e6c2",
     "num": "adalk-1d68e6c2",
     "date_str": "2026-07-10",
@@ -291264,6 +291319,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-44c1ab1d",
+    "num": "dailymirrorlk-44c1ab1d",
+    "date_str": "2026-07-10",
+    "description": "Mbappe makes history again!",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mbappe-makes-history-again/108-345303",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783678321.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-fa471b8c",
+    "num": "dailymirrorlk-fa471b8c",
+    "date_str": "2026-07-10",
+    "description": "New Navy Commander receives blessings in Kandy",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/New-Navy-Commander-receives-blessings-in-Kandy/110-345304",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783678404.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-10-tamilmirrorlk-fb620b02",
     "num": "tamilmirrorlk-fb620b02",
     "date_str": "2026-07-10",
@@ -291272,6 +291349,17 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783679190.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-tamilmirrorlk-2069ac00",
+    "num": "tamilmirrorlk-2069ac00",
+    "date_str": "2026-07-10",
+    "description": "\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0ba4\u0bcd \u0ba4\u0bb3\u0baa\u0ba4\u0bbf \u0b95\u0ba3\u0bcd\u0b9f\u0bbf \u0bae\u0b95\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0ba4\u0bc7\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd \u0b86\u0b9a\u0bbf \u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bc1\u0ba4\u0bbf\u0baf-\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8\u0ba4\u0bcd-\u0ba4\u0bb3\u0baa\u0ba4\u0bbf-\u0b95\u0ba3\u0bcd\u0b9f\u0bbf-\u0bae\u0b95\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95-\u0ba4\u0bc7\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0b9f\u0bae\u0bcd-\u0b86\u0b9a\u0bbf-\u0baa\u0bc6\u0bb1\u0bcd\u0bb1\u0bbe\u0bb0\u0bcd/46-379763",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783680181.0
   },
   {
     "doc_type": "lk_news",
@@ -291294,6 +291382,28 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1783680952.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-30089013",
+    "num": "dailymirrorlk-30089013",
+    "date_str": "2026-07-10",
+    "description": "England advised to avoid alcohol around matches",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/England-advised-to-avoid-alcohol-around-matches/108-345306",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783680986.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-adalk-b5b2d370",
+    "num": "adalk-b5b2d370",
+    "date_str": "2026-07-10",
+    "description": "\u0db4\u0ddc\u0dc4\u0ddc\u0dbb \u0dc3\u0dc4\u0db1\u0dcf\u0db0\u0dcf\u0dbb\u0dba \u0dbd\u0dd9\u0dc3 \u0dbb\u0dd4.\u0db6\u0dd2. 13.4\u0d9a\u0dca \u0d9c\u0dd9\u0dc0\u0dbd\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0ddc\u0dc4\u0ddc\u0dbb-\u0dc3\u0dc4\u0db1\u0dcf\u0db0\u0dcf\u0dbb\u0dba-\u0dbd\u0dd9\u0dc3-\u0dbb\u0dd4-\u0db6\u0dd2--13-4\u0d9a\u0dca-\u0d9c\u0dd9\u0dc0\u0dbd\u0dcf/11-423208",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783681168.0
   },
   {
     "doc_type": "lk_news",
@@ -291341,6 +291451,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-41609221",
+    "num": "dailymirrorlk-41609221",
+    "date_str": "2026-07-10",
+    "description": "Former Envoy commends Kenya\u2019s record foreign exchange reserves",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Former-Envoy-commends-Kenyas-record-foreign-exchange-reserves/108-345311",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783683763.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-b91dd470",
+    "num": "dailymirrorlk-b91dd470",
+    "date_str": "2026-07-10",
+    "description": "Future infrastructure development must be guided by research and innovation: Deputy Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Future-infrastructure-development-must-be-guided-by-research-and-innovation-Deputy-Minister/108-345312",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783684008.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-10-tamilmirrorlk-acdfaab1",
     "num": "tamilmirrorlk-acdfaab1",
     "date_str": "2026-07-10",
@@ -291349,5 +291481,49 @@
     "lang": "ta",
     "newspaper_id": "tamilmirrorlk",
     "time_ut": 1783686737.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-a02f0cf9",
+    "num": "dailymirrorlk-a02f0cf9",
+    "date_str": "2026-07-10",
+    "description": "HRCSL probes Negombo Prison violence, allegations of torture",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/HRCSL-probes-Negombo-Prison-violence-allegations-of-torture/108-345313",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783687347.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-7520f930",
+    "num": "dailymirrorlk-7520f930",
+    "date_str": "2026-07-10",
+    "description": "Sri Lanka\u2019s second-largest water supply project for 67,000 families begins",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-second-largest-water-supply-project-for-67-000-families-begins/108-345314",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783689393.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-ac005208",
+    "num": "dailymirrorlk-ac005208",
+    "date_str": "2026-07-10",
+    "description": "Negombo Prison violence: Eight prison officers posthumously promoted",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Negombo-Prison-violence-Eight-prison-officers-posthumously-promoted/108-345321",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783694935.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-4c0d1c68",
+    "num": "dailymirrorlk-4c0d1c68",
+    "date_str": "2026-07-10",
+    "description": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/East-Asia-braces-for-destructive-typhoon-as-landslides-kill-15-in-Philippines/108-345322",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783695072.0
   }
 ]
