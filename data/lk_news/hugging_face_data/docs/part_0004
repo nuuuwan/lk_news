@@ -289031,6 +289031,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-09-adalk-ac56a12d",
+    "num": "adalk-ac56a12d",
+    "date_str": "2026-07-09",
+    "description": "\u0db8\u0dd3\u0dbb\u0dd2\u0d9c\u0db8 \u0dbb\u0ddd\u0dc4\u0dbd\u0da7 \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0dc0\u0db1\u0dca\u0db1\u0da7 \u0db6\u0dca\u200d\u0dbb\u0dd0\u0db1\u0dca\u0da9\u0dd2\u0d9a\u0dca\u0dc3\u0dca \u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca ECG \u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/business/\u0db8\u0dd3\u0dbb\u0dd2\u0d9c\u0db8-\u0dbb\u0ddd\u0dc4\u0dbd\u0da7-\u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0dca-\u0dc0\u0db1\u0dca\u0db1\u0da7-\u0db6\u0dca\u200d\u0dbb\u0dd0\u0db1\u0dca\u0da9\u0dd2\u0d9a\u0dca\u0dc3\u0dca-\u0dc0\u0dd9\u0dad\u0dd2\u0db1\u0dca-ECG-\u0dba\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dba\u0d9a\u0dca/7-423184",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783575781.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-09-virakesarilk-673f63a7",
     "num": "virakesarilk-673f63a7",
     "date_str": "2026-07-09",
@@ -289457,6 +289468,17 @@
     "lang": "si",
     "newspaper_id": "adalk",
     "time_ut": 1783593200.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-09-adalk-72c23f0e",
+    "num": "adalk-72c23f0e",
+    "date_str": "2026-07-09",
+    "description": "\u0db1\u0dcf\u0dc0\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca \u0db1\u0dcf\u0dc0\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7 \u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db1\u0dcf\u0dc0\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba-\u0dc3\u0db7\u0dcf\u0db4\u0dad\u0dd2\u0d9c\u0dd9\u0db1\u0dca-\u0db1\u0dcf\u0dc0\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba-\u0db4\u0ddc\u0dbd\u0dd3\u0dc3\u0dd2\u0dba\u0da7-\u0da0\u0ddd\u0daf\u0db1\u0dcf\u0dc0\u0d9a\u0dca/11-423188",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783593611.0
   },
   {
     "doc_type": "lk_news",
@@ -290458,5 +290480,181 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1783644447.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-2685e7a1",
+    "num": "dailyftlk-2685e7a1",
+    "date_str": "2026-07-10",
+    "description": "Sri Lanka looks stable, that is exactly the danger",
+    "url_metadata": "https://www.ft.lk/columns/Sri-Lanka-looks-stable-that-is-exactly-the-danger/4-794459",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783644975.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-04e1b637",
+    "num": "dailyftlk-04e1b637",
+    "date_str": "2026-07-10",
+    "description": "Creating dynamic SME entrepreneur ecosystem for Sri Lanka is not rocket science",
+    "url_metadata": "https://www.ft.lk/columns/Creating-dynamic-SME-entrepreneur-ecosystem-for-Sri-Lanka-is-not-rocket-science/4-794461",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783645302.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-9c3b5778",
+    "num": "dailyftlk-9c3b5778",
+    "date_str": "2026-07-10",
+    "description": "Governance beyond politics: Is Sri Lanka focusing on the right priorities?",
+    "url_metadata": "https://www.ft.lk/columns/Governance-beyond-politics-Is-Sri-Lanka-focusing-on-the-right-priorities/4-794462",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783645753.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-adalk-8d45821b",
+    "num": "adalk-8d45821b",
+    "date_str": "2026-07-10",
+    "description": "\u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dba \u0d86\u0dc1\u0dca\u200d\u0dbb\u0dd2\u0dad \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf - \u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c \u0d9a\u0dc0\u0dbb\u0dda\u0daf?",
+    "url_metadata": "https://www.ada.lk/business/\u0db6\u0dbd\u0dc1\u0d9a\u0dca\u0dad\u0dd2-\u0d9a\u0dca\u0dc2\u0dda\u0dad\u0dca\u200d\u0dbb\u0dba-\u0d86\u0dc1\u0dca\u200d\u0dbb\u0dd2\u0dad-\u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf---\u0d85\u0db7\u0dd2\u0dba\u0ddd\u0d9c-\u0d9a\u0dc0\u0dbb\u0dda\u0daf-/7-423194",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783646637.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-72cee33c",
+    "num": "dailyftlk-72cee33c",
+    "date_str": "2026-07-10",
+    "description": "How football became the field where global powers perform",
+    "url_metadata": "https://www.ft.lk/columns/How-football-became-the-field-where-global-powers-perform/4-794463",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783648400.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-56a95f65",
+    "num": "dailyftlk-56a95f65",
+    "date_str": "2026-07-10",
+    "description": "Reply to the CPC\u2019s Right of Reply: A response  that responds to nothing",
+    "url_metadata": "https://www.ft.lk/opinion/Reply-to-the-CPC-s-Right-of-Reply-A-response-that-responds-to-nothing/14-794465",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783648517.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-3f113e00",
+    "num": "dailyftlk-3f113e00",
+    "date_str": "2026-07-10",
+    "description": "EFC refutes Columnist Dhanusha Gihan Pathirana",
+    "url_metadata": "https://www.ft.lk/opinion/EFC-refutes-Columnist-Dhanusha-Gihan-Pathirana/14-794466",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783648555.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-0698ca7c",
+    "num": "dailymirrorlk-0698ca7c",
+    "date_str": "2026-07-10",
+    "description": "Proper handwashing practices...",
+    "url_metadata": "https://www.dailymirror.lk/caption-story/Proper-handwashing-practices/110-345238",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783648633.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-3bf3a93c",
+    "num": "dailyftlk-3bf3a93c",
+    "date_str": "2026-07-10",
+    "description": "Litmus test for  effective enforcement  of laws and regulations",
+    "url_metadata": "https://www.ft.lk/columns/Litmus-test-for-effective-enforcement-of-laws-and-regulations/4-794467",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783648814.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-adalk-14a32d4b",
+    "num": "adalk-14a32d4b",
+    "date_str": "2026-07-10",
+    "description": "\u0dbd\u0ddd\u0d9a\u0dba\u0dda \u0db4\u0dca\u200d\u0dbb\u0dae\u0db8 \u0dc0\u0dad\u0dcf\u0dc0\u0da7 \u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba \u0dbb\u0ddd\u0dc4\u0dbd\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dca\u0db8\u0dd2\u0dad \u0dc3\u0dd0\u0dad\u0dca\u0d9a\u0db8\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/uncategorized/\u0dbd\u0ddd\u0d9a\u0dba\u0dda-\u0db4\u0dca\u200d\u0dbb\u0dae\u0db8-\u0dc0\u0dad\u0dcf\u0dc0\u0da7-\u0db4\u0dda\u0dbb\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba-\u0dbb\u0ddd\u0dc4\u0dbd\u0dd9\u0db1\u0dca-\u0dc0\u0dd2\u0dc3\u0dca\u0db8\u0dd2\u0dad-\u0dc3\u0dd0\u0dad\u0dca\u0d9a\u0db8\u0d9a\u0dca/1-423196",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783648953.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-c3a8540a",
+    "num": "dailyftlk-c3a8540a",
+    "date_str": "2026-07-10",
+    "description": "ETFB mandates electronic payments and returns",
+    "url_metadata": "https://www.ft.lk/business/ETFB-mandates-electronic-payments-and-returns/34-794487",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783650633.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-f5d1d245",
+    "num": "dailyftlk-f5d1d245",
+    "date_str": "2026-07-10",
+    "description": "CA Sri Lanka launches multi-pronged initiatives to power SME sector",
+    "url_metadata": "https://www.ft.lk/business/CA-Sri-Lanka-launches-multi-pronged-initiatives-to-power-SME-sector/34-794488",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783650710.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-81b7eac8",
+    "num": "dailyftlk-81b7eac8",
+    "date_str": "2026-07-10",
+    "description": "Global investment rises 6% to $ 1.6 t, but development gains remain uneven",
+    "url_metadata": "https://www.ft.lk/business/Global-investment-rises-6-to-1-6-t-but-development-gains-remain-uneven/34-794489",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783650771.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailyftlk-a14ba089",
+    "num": "dailyftlk-a14ba089",
+    "date_str": "2026-07-10",
+    "description": "2027 Budget to strengthen public healthcare to reduce private treatment costs: President",
+    "url_metadata": "https://www.ft.lk/business/2027-Budget-to-strengthen-public-healthcare-to-reduce-private-treatment-costs-President/34-794490",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783650848.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-72be9493",
+    "num": "dailymirrorlk-72be9493",
+    "date_str": "2026-07-10",
+    "description": "France beat Morocco 2-0 to enter FIFA World Cup semi-finals",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/France-beat-Morocco-2-0-to-enter-FIFA-World-Cup-semi-finals/108-345239",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783653041.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-8b7a7e88",
+    "num": "dailymirrorlk-8b7a7e88",
+    "date_str": "2026-07-10",
+    "description": "Veteran singer Mariazelle Goonetilleke passes away",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Veteran-singer-Mariazelle-Goonetilleke-passes-away/108-345240",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783653246.0
   }
 ]
