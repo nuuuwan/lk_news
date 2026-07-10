@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--10_22:31:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--11_00:26:28-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,891** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-10**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,895** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-10-virakesarilk-a057402c",
-    "num": "virakesarilk-a057402c",
-    "date_str": "2026-07-10",
-    "description": "\u0b95\u0bca\u0b95\u0bcd\u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0b9a\u0bcd\u0b9a\u0bcb\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bbe\u0bb5\u0bbf \u0b8a\u0b9f\u0bbe\u0b95 \u0b86\u0bb0\u0bc8\u0baf\u0bae\u0bcd\u0baa\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bcb\u0ba3\u0bbf\u0baf\u0bbf\u0bb2\u0bcd 150 \u0bb2\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0b95\u0b9a\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0b95\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0b92\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd \u0b95\u0bc8\u0ba4\u0bc1",
-    "url_metadata": "https://www.virakesari.lk/article/252785",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1783701180.0
+    "doc_id": "2026-07-11-dailymirrorlk-1cf36505",
+    "num": "dailymirrorlk-1cf36505",
+    "date_str": "2026-07-11",
+    "description": "ECB to face no action over Stokes retirement video",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/ECB-to-face-no-action-over-Stokes-retirement-video/108-345334",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783709031.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-11 | `dailymirrorlk-1cf36505` | ECB to face no action over Stokes retirement video | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-1cf36505)
+- 2026-07-10 | `dailymirrorlk-c7ea1fef` | Committee hands over report on reforming presidential pardon process | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-c7ea1fef)
+- 2026-07-10 | `dailymirrorlk-458669d3` | Trump says US agreed to Iran’s request to continue talks, but ceasefire is over | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-458669d3)
+- 2026-07-10 | `dailymirrorlk-f6fdeb97` | Man nearly sucked out of window mid-air on Ryanair plane, passengers say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-f6fdeb97)
 - 2026-07-10 | `virakesarilk-a057402c` | கொக்கட்டிச்சோலையில் இருந்து வாவி ஊடாக ஆரையம்பதிக்கு தோணியில் 150 லீற்றர் கசிப்பு கடத்திய ஒருவர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-virakesarilk-a057402c)
 - 2026-07-10 | `dailymirrorlk-a1de2e7c` | Ravi K slams CB response on NDB fraud, questions regulator’s oversight | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-a1de2e7c)
 - 2026-07-10 | `virakesarilk-65fea846` | ஸ்பெய்ன் - பெல்ஜியம் அணிகள் மோதும் உலகக் கிண்ண கால் இறுதிப் போட்டி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-virakesarilk-65fea846)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-07-10 | `virakesarilk-00803f48` | இலங்கை நுகர்வுப் பொருளாதாரத்திலிருந்து விடுபட்டு உற்பத்தி, ஏற்றுமதி நோக்கி பயணிக்குமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-virakesarilk-00803f48)
 - 2026-07-10 | `virakesarilk-a246e32d` | எனக்கு எனது ஜனம்தான் முக்கியம் - தமிழ்நாட்டின் முதலமைச்சர் ஜோசப் விஜய் கரூரில் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-virakesarilk-a246e32d)
 - 2026-07-10 | `dailymirrorlk-a02f0cf9` | HRCSL probes Negombo Prison violence, allegations of torture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-a02f0cf9)
-- 2026-07-10 | `tamilmirrorlk-acdfaab1` | சிறப்பு விருந்தினராக செந்தில் தொண்டமான் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-tamilmirrorlk-acdfaab1)
-- 2026-07-10 | `dailymirrorlk-b91dd470` | Future infrastructure development must be guided by research and innovation: Deputy Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-b91dd470)
-- 2026-07-10 | `dailymirrorlk-41609221` | Former Envoy commends Kenya’s record foreign exchange reserves | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-41609221)
-- 2026-07-10 | `dailymirrorlk-e4417e9b` | Mobile screening for HIV, STDs begins in Colombo, Gampaha | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-e4417e9b)
 
 ---
 
