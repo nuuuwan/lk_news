@@ -291902,6 +291902,138 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-749e1b8f",
+    "num": "dailymirrorlk-749e1b8f",
+    "date_str": "2026-07-11",
+    "description": "Why Does  Sri Lanka Continue to Require Mandatory Overseas Training for Specialist Certification?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Why-Does-Sri-Lanka-Continue-to-Require-Mandatory-Overseas-Training-for-Specialist-Certification/172-345335",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783712669.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-e1b5c5dd",
+    "num": "dailymirrorlk-e1b5c5dd",
+    "date_str": "2026-07-11",
+    "description": "Is murder more foul when committed by a woman?",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Is-murder-more-foul-when-committed-by-a-woman/172-345336",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783712878.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-92f4fb58",
+    "num": "dailymirrorlk-92f4fb58",
+    "date_str": "2026-07-11",
+    "description": "Uswatte Biscuits partners with Rumesh Tharanga Pathirage\u2019s Olympic journey",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Uswatte-Biscuits-partners-with-Rumesh-Tharanga-Pathirages-Olympic-journey/273-345338",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783713027.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-d4a6fb04",
+    "num": "dailymirrorlk-d4a6fb04",
+    "date_str": "2026-07-11",
+    "description": "Political chaos, mayhem in sports and the war in West Asia",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Political-chaos-mayhem-in-sports-and-the-war-in-West-Asia/172-345339",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783713099.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-049cd43c",
+    "num": "dailymirrorlk-049cd43c",
+    "date_str": "2026-07-11",
+    "description": "Nawaloka Hospitals Colombo launches Mobile Dengue Testing",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Nawaloka-Hospitals-Colombo-launches-Mobile-Dengue-Testing/273-345340",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783713334.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-f70b38a5",
+    "num": "dailymirrorlk-f70b38a5",
+    "date_str": "2026-07-11",
+    "description": "Finch Foods showcases finest of Sri Lanka at BIA",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Finch-Foods-showcases-finest-of-Sri-Lanka-at-BIA/273-345341",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783713422.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-979308b2",
+    "num": "dailymirrorlk-979308b2",
+    "date_str": "2026-07-11",
+    "description": "IDL reopens renovated Kaduwela MOH Office",
+    "url_metadata": "https://www.dailymirror.lk/business-news/IDL-reopens-renovated-Kaduwela-MOH-Office/273-345342",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783713560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-88b882d3",
+    "num": "dailymirrorlk-88b882d3",
+    "date_str": "2026-07-11",
+    "description": "Our prisons are in need  of urgent reforms and funding",
+    "url_metadata": "https://www.dailymirror.lk/opinion/Our-prisons-are-in-need-of-urgent-reforms-and-funding/172-345343",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783713794.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-3b68f1ec",
+    "num": "dailymirrorlk-3b68f1ec",
+    "date_str": "2026-07-11",
+    "description": "Sri Lanka\u2013Germany Business Council celebrates Members\u2019 Day 2026",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Sri-LankaGermany-Business-Council-celebrates-Members-Day-2026/273-345344",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783713995.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-d2007a1d",
+    "num": "dailymirrorlk-d2007a1d",
+    "date_str": "2026-07-11",
+    "description": "ISSO opens its first int\u2019l corporate location in London\u2019s Canary Wharf",
+    "url_metadata": "https://www.dailymirror.lk/business-news/ISSO-opens-its-first-intl-corporate-location-in-Londons-Canary-Wharf/273-345345",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783714220.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-0ef671ff",
+    "num": "dailymirrorlk-0ef671ff",
+    "date_str": "2026-07-11",
+    "description": "Aberdeen Holdings marks WED with group-wide sustainability initiatives",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Aberdeen-Holdings-marks-WED-with-group-wide-sustainability-initiatives/273-345346",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783714620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-fe5f333b",
+    "num": "dailymirrorlk-fe5f333b",
+    "date_str": "2026-07-11",
+    "description": "Avissawella Hospital bags 5 national 5S productivity awards",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Avissawella-Hospital-bags-5-national-5S-productivity-awards/273-345347",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783714797.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-11-dailyftlk-2bf23f71",
     "num": "dailyftlk-2bf23f71",
     "date_str": "2026-07-11",
@@ -291910,6 +292042,28 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1783714874.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-2aa10196",
+    "num": "dailymirrorlk-2aa10196",
+    "date_str": "2026-07-11",
+    "description": "Hayleys Plantations champions nature-positive climate action",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Hayleys-Plantations-champions-nature-positive-climate-action/273-345348",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783714902.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-b73a8cc7",
+    "num": "dailymirrorlk-b73a8cc7",
+    "date_str": "2026-07-11",
+    "description": "SAGT releases 7th consecutive sustainability report",
+    "url_metadata": "https://www.dailymirror.lk/business-news/SAGT-releases-7th-consecutive-sustainability-report/273-345349",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783715026.0
   },
   {
     "doc_type": "lk_news",
@@ -291924,6 +292078,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-e14f0710",
+    "num": "dailymirrorlk-e14f0710",
+    "date_str": "2026-07-11",
+    "description": "BOC marks a new era in digital payments with Flex Tap & Pay",
+    "url_metadata": "https://www.dailymirror.lk/business-news/BOC-marks-a-new-era-in-digital-payments-with-Flex-Tap-Pay/273-345350",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783715565.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-dd76ffb4",
+    "num": "dailymirrorlk-dd76ffb4",
+    "date_str": "2026-07-11",
+    "description": "Week ends in green",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Week-ends-in-green/273-345351",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783715650.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-11-dailyftlk-4078054c",
     "num": "dailyftlk-4078054c",
     "date_str": "2026-07-11",
@@ -291932,5 +292108,137 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1783715779.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-5e6d4bab",
+    "num": "dailymirrorlk-5e6d4bab",
+    "date_str": "2026-07-11",
+    "description": "Secondary market winds up week on a quiet note",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Secondary-market-winds-up-week-on-a-quiet-note/273-345352",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783715996.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-bda6de84",
+    "num": "dailymirrorlk-bda6de84",
+    "date_str": "2026-07-11",
+    "description": "Emirates to double A350 operations in Colombo from August",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Emirates-to-double-A350-operations-in-Colombo-from-August/273-345353",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783716045.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-0d806a36",
+    "num": "dailymirrorlk-0d806a36",
+    "date_str": "2026-07-11",
+    "description": "Ceylon Chamber expands export support with new pharmaceutical documentation service",
+    "url_metadata": "https://www.dailymirror.lk/business-news/Ceylon-Chamber-expands-export-support-with-new-pharmaceutical-documentation-service/273-345354",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783716091.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-34c41238",
+    "num": "dailymirrorlk-34c41238",
+    "date_str": "2026-07-11",
+    "description": "CA Sri Lanka launches multi-pronged initiative to power SME sector",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CA-Sri-Lanka-launches-multi-pronged-initiative-to-power-SME-sector/273-345355",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783716417.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-4400f429",
+    "num": "dailymirrorlk-4400f429",
+    "date_str": "2026-07-11",
+    "description": "CWIT scales up with region\u2019s tallest cranes",
+    "url_metadata": "https://www.dailymirror.lk/business-news/CWIT-scales-up-with-regions-tallest-cranes/273-345356",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783716498.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-0db056e7",
+    "num": "dailymirrorlk-0db056e7",
+    "date_str": "2026-07-11",
+    "description": "Authorities reassure 2.5mn tourist arrival target with US $ 3.5bn revenue goal",
+    "url_metadata": "https://www.dailymirror.lk/business-main/Authorities-reassure-2-5mn-tourist-arrival-target-with-US-3-5bn-revenue-goal/245-345357",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783716809.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailyftlk-82868ebd",
+    "num": "dailyftlk-82868ebd",
+    "date_str": "2026-07-11",
+    "description": "Sri Lanka participates at the WTO Open Day 2026",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-participates-at-the-WTO-Open-Day-2026/56-794520",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783717041.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailyftlk-3f0741df",
+    "num": "dailyftlk-3f0741df",
+    "date_str": "2026-07-11",
+    "description": "Belgium and Sri Lanka  explore science cooperation",
+    "url_metadata": "https://www.ft.lk/news/Belgium-and-Sri-Lanka-explore-science-cooperation/56-794521",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783717144.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailyftlk-d28f0432",
+    "num": "dailyftlk-d28f0432",
+    "date_str": "2026-07-11",
+    "description": "Sri Lanka underscores role of IP in  innovation and inclusive development at WIPO Assemblies",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-underscores-role-of-IP-in-innovation-and-inclusive-development-at-WIPO-Assemblies/56-794522",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783718152.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailyftlk-91b56c1b",
+    "num": "dailyftlk-91b56c1b",
+    "date_str": "2026-07-11",
+    "description": "Sri Lanka attends 9th\u00a0ESCAP Committee Session on Environment and Development",
+    "url_metadata": "https://www.ft.lk/news/Sri-Lanka-attends-9thESCAP-Committee-Session-on-Environment-and-Development/56-794523",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783718389.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-a9dfdde3",
+    "num": "dailymirrorlk-a9dfdde3",
+    "date_str": "2026-07-11",
+    "description": "Kenya\u2019s Wanyonyi breaks 1,000m world record",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kenyas-Wanyonyi-breaks-1-000m-world-record/108-345358",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783718785.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-e2420cec",
+    "num": "dailymirrorlk-e2420cec",
+    "date_str": "2026-07-11",
+    "description": "Merino strikes late again as Spain sink Belgium to reach World Cup Semi-finals",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Merino-strikes-late-again-as-Spain-sink-Belgium-to-reach-World-Cup-Semi-finals/108-345359",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783719686.0
   }
 ]
