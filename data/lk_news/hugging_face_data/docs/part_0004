@@ -291899,5 +291899,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783709031.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailyftlk-2bf23f71",
+    "num": "dailyftlk-2bf23f71",
+    "date_str": "2026-07-11",
+    "description": "Strategic foresight of our Kings:  Why is it eluding our modern leaders?",
+    "url_metadata": "https://www.ft.lk/columns/Strategic-foresight-of-our-Kings-Why-is-it-eluding-our-modern-leaders/4-794509",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783714874.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailyftlk-e569aae0",
+    "num": "dailyftlk-e569aae0",
+    "date_str": "2026-07-11",
+    "description": "Future of Asia and the Pacific depends on whether young people have reason to hope",
+    "url_metadata": "https://www.ft.lk/columns/Future-of-Asia-and-the-Pacific-depends-on-whether-young-people-have-reason-to-hope/4-794511",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783715548.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailyftlk-4078054c",
+    "num": "dailyftlk-4078054c",
+    "date_str": "2026-07-11",
+    "description": "Shanakiyan takes up status quo  of Colombo Port City in Parliament",
+    "url_metadata": "https://www.ft.lk/opinion/Shanakiyan-takes-up-status-quo-of-Colombo-Port-City-in-Parliament/14-794512",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783715779.0
   }
 ]

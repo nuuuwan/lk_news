@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--11_00:26:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--11_02:30:21-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,895** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,898** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-11-dailymirrorlk-1cf36505",
-    "num": "dailymirrorlk-1cf36505",
+    "doc_id": "2026-07-11-dailyftlk-4078054c",
+    "num": "dailyftlk-4078054c",
     "date_str": "2026-07-11",
-    "description": "ECB to face no action over Stokes retirement video",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/ECB-to-face-no-action-over-Stokes-retirement-video/108-345334",
+    "description": "Shanakiyan takes up status quo  of Colombo Port City in Parliament",
+    "url_metadata": "https://www.ft.lk/opinion/Shanakiyan-takes-up-status-quo-of-Colombo-Port-City-in-Parliament/14-794512",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783709031.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783715779.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-11 | `dailyftlk-4078054c` | Shanakiyan takes up status quo  of Colombo Port City in Parliament | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailyftlk-4078054c)
+- 2026-07-11 | `dailyftlk-e569aae0` | Future of Asia and the Pacific depends on whether young people have reason to hope | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailyftlk-e569aae0)
+- 2026-07-11 | `dailyftlk-2bf23f71` | Strategic foresight of our Kings:  Why is it eluding our modern leaders? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailyftlk-2bf23f71)
 - 2026-07-11 | `dailymirrorlk-1cf36505` | ECB to face no action over Stokes retirement video | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-1cf36505)
 - 2026-07-10 | `dailymirrorlk-c7ea1fef` | Committee hands over report on reforming presidential pardon process | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-c7ea1fef)
 - 2026-07-10 | `dailymirrorlk-458669d3` | Trump says US agreed to Iran’s request to continue talks, but ceasefire is over | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-458669d3)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-07-10 | `dailymirrorlk-7520f930` | Sri Lanka’s second-largest water supply project for 67,000 families begins | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-7520f930)
 - 2026-07-10 | `virakesarilk-224ac525` | சிறைச்சாலைகள் ஆணையாளர் நாயகம், வெலிக்கடை சிறைச்சாலையின் தலைமை சிறைச்சாலை அதிகாரிக்கு மனித உரிமைகள் ஆணைக்குழு அழைப்பாணை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-virakesarilk-224ac525)
 - 2026-07-10 | `virakesarilk-7de33184` | வடக்கில் இராணுவக் குறைப்பு மற்றும் பலாலி அபிவிருத்தி : சுற்றுலாத்துறையை வளர்க்க கஜேந்திரகுமார் யோசனை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-virakesarilk-7de33184)
-- 2026-07-10 | `virakesarilk-00803f48` | இலங்கை நுகர்வுப் பொருளாதாரத்திலிருந்து விடுபட்டு உற்பத்தி, ஏற்றுமதி நோக்கி பயணிக்குமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-virakesarilk-00803f48)
-- 2026-07-10 | `virakesarilk-a246e32d` | எனக்கு எனது ஜனம்தான் முக்கியம் - தமிழ்நாட்டின் முதலமைச்சர் ஜோசப் விஜய் கரூரில் தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-virakesarilk-a246e32d)
-- 2026-07-10 | `dailymirrorlk-a02f0cf9` | HRCSL probes Negombo Prison violence, allegations of torture | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-10-dailymirrorlk-a02f0cf9)
 
 ---
 

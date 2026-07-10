@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-11 00:25:29",
-  "n_docs": 122895,
+  "time_updated": "2026-07-11 02:29:21",
+  "n_docs": 122898,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 122895,
+  "n_docs_with_text": 122898,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-11",
-  "dataset_size": 1918812257,
+  "dataset_size": 1918865447,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-11-dailymirrorlk-1cf36505",
-    "num": "dailymirrorlk-1cf36505",
+    "doc_id": "2026-07-11-dailyftlk-4078054c",
+    "num": "dailyftlk-4078054c",
     "date_str": "2026-07-11",
-    "description": "ECB to face no action over Stokes retirement video",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/ECB-to-face-no-action-over-Stokes-retirement-video/108-345334",
+    "description": "Shanakiyan takes up status quo  of Colombo Port City in Parliament",
+    "url_metadata": "https://www.ft.lk/opinion/Shanakiyan-takes-up-status-quo-of-Colombo-Port-City-in-Parliament/14-794512",
     "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783709031.0
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783715779.0
   }
 }
