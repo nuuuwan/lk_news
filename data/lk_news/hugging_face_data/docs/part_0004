@@ -291239,5 +291239,49 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783674957.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-tamilmirrorlk-fb620b02",
+    "num": "tamilmirrorlk-fb620b02",
+    "date_str": "2026-07-10",
+    "description": "\u0baa\u0bca\u0bb0\u0bb3\u0bc8-\u0baa\u0bc7\u0bb8\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd \u0bb5\u0bc0\u0ba4\u0bbf \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bb5\u0bc8 \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bca\u0bb0\u0bb3\u0bc8-\u0baa\u0bc7\u0bb8\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd-\u0bb5\u0bc0\u0ba4\u0bbf-\u0bb0\u0baf\u0bbf\u0bb2\u0bcd-\u0b95\u0b9f\u0bb5\u0bc8-\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1/175-379762",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783679190.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-593ddbb0",
+    "num": "dailymirrorlk-593ddbb0",
+    "date_str": "2026-07-10",
+    "description": "UNFPA, Parliament of Sri Lanka sign MoU to strengthen evidence-based policymaking",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/UNFPA-Parliament-of-Sri-Lanka-sign-MoU-to-strengthen-evidence-based-policymaking/108-345307",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783681582.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-616054cb",
+    "num": "dailymirrorlk-616054cb",
+    "date_str": "2026-07-10",
+    "description": "CAASL commissions solar power system to meet 70% of power needs",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/CAASL-commissions-solar-power-system-to-meet-70-of-power-needs/108-345309",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783683006.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-e4417e9b",
+    "num": "dailymirrorlk-e4417e9b",
+    "date_str": "2026-07-10",
+    "description": "Mobile screening for HIV, STDs begins in Colombo, Gampaha",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Mobile-screening-for-HIV-STDs-begins-in-Colombo-Gampaha/108-345310",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783683353.0
   }
 ]
