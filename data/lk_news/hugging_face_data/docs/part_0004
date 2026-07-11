@@ -291847,6 +291847,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-fb8f4542",
+    "num": "dailymirrorlk-fb8f4542",
+    "date_str": "2026-07-10",
+    "description": "US $ 2.5Mn cybercrime: Was there any agency involved; CID urged to find",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/US-2-5Mn-cybercrime-Was-there-any-agency-involved-CID-urged-to-find/108-345318",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783693139.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-10-virakesarilk-b617e841",
     "num": "virakesarilk-b617e841",
     "date_str": "2026-07-10",
@@ -291855,6 +291866,17 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1783693620.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-10-dailymirrorlk-84f4193a",
+    "num": "dailymirrorlk-84f4193a",
+    "date_str": "2026-07-10",
+    "description": "Ban all tobacco product sales to those born after 2010- SLMA tells President",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ban-all-tobacco-product-sales-to-those-born-after-2010-SLMA-tells-President/108-345319",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783693881.0
   },
   {
     "doc_type": "lk_news",
@@ -292834,5 +292856,27 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783758973.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-b1d9f875",
+    "num": "dailymirrorlk-b1d9f875",
+    "date_str": "2026-07-11",
+    "description": "President\u2019s fund aids Bandarawela student with monthly scholarship",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Presidents-fund-aids-Bandarawela-student-with-monthly-scholarship/108-345399",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783763818.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-12af0e69",
+    "num": "dailymirrorlk-12af0e69",
+    "date_str": "2026-07-11",
+    "description": "Trump says US, Iran agree to continue talks but ceasefire over",
+    "url_metadata": "https://www.dailymirror.lk/international/Trump-says-US-Iran-agree-to-continue-talks-but-ceasefire-over/107-345401",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783765134.0
   }
 ]
