@@ -292683,6 +292683,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailyftlk-2f6c644b",
+    "num": "dailyftlk-2f6c644b",
+    "date_str": "2026-07-11",
+    "description": "Post-mortems reveal brutal assaults on officers killed in Negombo Prison violence",
+    "url_metadata": "https://www.ft.lk/news/Post-mortems-reveal-brutal-assaults-on-officers-killed-in-Negombo-Prison-violence/56-794529",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783742471.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-11-dailyftlk-eefd0608",
     "num": "dailyftlk-eefd0608",
     "date_str": "2026-07-11",
@@ -292801,5 +292812,27 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783752426.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-67475b7d",
+    "num": "dailymirrorlk-67475b7d",
+    "date_str": "2026-07-11",
+    "description": "Rough sea warning for Southern and Western waters",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rough-sea-warning-for-Southern-and-Western-waters/108-345373",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783753781.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-1320cd6a",
+    "num": "dailymirrorlk-1320cd6a",
+    "date_str": "2026-07-11",
+    "description": "All female inmates transferred from Negombo Prison after unrest",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/All-female-inmates-transferred-from-Negombo-Prison-after-unrest/108-345398",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783758973.0
   }
 ]
