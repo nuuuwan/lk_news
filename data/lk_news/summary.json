@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-11 22:28:34",
-  "n_docs": 123005,
+  "time_updated": "2026-07-12 00:30:57",
+  "n_docs": 123014,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 123005,
+  "n_docs_with_text": 123014,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-11",
-  "dataset_size": 1920506799,
+  "dataset_size": 1920529984,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "si",
     "en",
+    "si",
     "ta"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-11-dailymirrorlk-281954fb",
-    "num": "dailymirrorlk-281954fb",
+    "doc_id": "2026-07-11-tamilmirrorlk-cf25e70a",
+    "num": "tamilmirrorlk-cf25e70a",
     "date_str": "2026-07-11",
-    "description": "Police recover cache of weapons used in deadly Negombo Prison riot",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-recover-cache-of-weapons-used-in-deadly-Negombo-Prison-riot/108-345418",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783784179.0
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc6\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0ba4\u0bca\u0b9f\u0bb0\u0bc8\u0b95\u0bcd \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc6\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9-\u0ba4\u0bca\u0b9f\u0bb0\u0bc8\u0b95\u0bcd-\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf-\u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1/44-379801",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783792387.0
   }
 }

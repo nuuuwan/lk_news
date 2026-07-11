@@ -292881,6 +292881,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-11-adalk-4fbc3774",
+    "num": "adalk-4fbc3774",
+    "date_str": "2026-07-11",
+    "description": "\u0db4\u0dbb\u0dd2\u0db4\u0dca\u0db4\u0dd4 \u0d9a\u0dd2\u0dbd\u0ddd 1740\u0d9a\u0dca \u0dc0\u0dd2\u0db1\u0dcf\u0dc1 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db1\u0dd2\u0dba\u0ddd\u0d9c",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db4\u0dbb\u0dd2\u0db4\u0dca\u0db4\u0dd4-\u0d9a\u0dd2\u0dbd\u0ddd-1740\u0d9a\u0dca-\u0dc0\u0dd2\u0db1\u0dcf\u0dc1-\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7-\u0db1\u0dd2\u0dba\u0ddd\u0d9c/11-423215",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783764168.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-11-virakesarilk-1f3bdd24",
     "num": "virakesarilk-1f3bdd24",
     "date_str": "2026-07-11",
@@ -293101,6 +293112,39 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-6a8f125e",
+    "num": "dailymirrorlk-6a8f125e",
+    "date_str": "2026-07-11",
+    "description": "South Africa World Cup midfielder Adams dies aged 25",
+    "url_metadata": "https://www.dailymirror.lk/international/South-Africa-World-Cup-midfielder-Adams-dies-aged-25/107-345414",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783781918.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-483f755e",
+    "num": "dailymirrorlk-483f755e",
+    "date_str": "2026-07-11",
+    "description": "Minor court judges oppose proposed Constitutional amendment on judges\u2019 retirement age",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Minor-court-judges-oppose-proposed-Constitutional-amendment-on-judges-retirement-age/108-345415",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783782103.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-8fc85db6",
+    "num": "dailymirrorlk-8fc85db6",
+    "date_str": "2026-07-11",
+    "description": "Star Sports to air Lanka Premier League Season 6 from July 17",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Star-Sports-to-air-Lanka-Premier-League-Season-6-from-July-17/108-345416",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783783111.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-11-dailymirrorlk-281954fb",
     "num": "dailymirrorlk-281954fb",
     "date_str": "2026-07-11",
@@ -293109,5 +293153,60 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783784179.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-tamilmirrorlk-b0038267",
+    "num": "tamilmirrorlk-b0038267",
+    "date_str": "2026-07-11",
+    "description": "\u0b87\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0baf\u0bbf\u0bb2\u0bcd \u0b8e\u0bb8\u0bcd.\u0b9c\u0bbe\u0ba9\u0b95\u0bbf \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/cinema/\u0b87\u0b9a\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0baf\u0bbf\u0bb2\u0bcd-\u0b8e\u0bb8\u0bcd-\u0b9c\u0bbe\u0ba9\u0b95\u0bbf-\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/54-379800",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783785473.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-ecc764c3",
+    "num": "dailymirrorlk-ecc764c3",
+    "date_str": "2026-07-11",
+    "description": "Rise in online indirect fraud reported: SLCERT",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Rise-in-online-indirect-fraud-reported-SLCERT/108-345419",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783785570.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-45ecd101",
+    "num": "dailymirrorlk-45ecd101",
+    "date_str": "2026-07-11",
+    "description": "Project launched to upgrade three Mullaitivu sports grounds",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Project-launched-to-upgrade-three-Mullaitivu-sports-grounds/108-345420",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783786666.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-ee17a84b",
+    "num": "dailymirrorlk-ee17a84b",
+    "date_str": "2026-07-11",
+    "description": "Irrigation Department urges water conservation amid El Ni\u00f1o concerns",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Irrigation-Department-urges-water-conservation-amid-El-Ni\u00f1o-concerns/108-345421",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783787599.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-tamilmirrorlk-cf25e70a",
+    "num": "tamilmirrorlk-cf25e70a",
+    "date_str": "2026-07-11",
+    "description": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc6\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9 \u0ba4\u0bca\u0b9f\u0bb0\u0bc8\u0b95\u0bcd \u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9-\u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1/\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bc6\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9-\u0ba4\u0bca\u0b9f\u0bb0\u0bc8\u0b95\u0bcd-\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf-\u0b87\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1/44-379801",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783792387.0
   }
 ]
