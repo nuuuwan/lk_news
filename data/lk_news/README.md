@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--11_20:20:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--11_22:29:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,004** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,005** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-11-dailymirrorlk-ccfbb200",
-    "num": "dailymirrorlk-ccfbb200",
+    "doc_id": "2026-07-11-dailymirrorlk-281954fb",
+    "num": "dailymirrorlk-281954fb",
     "date_str": "2026-07-11",
-    "description": "Sri Lanka\u2019s disaster preparedness inadequate due to climate threats: DMC Chief",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-disaster-preparedness-inadequate-due-to-climate-threats-DMC-Chief/108-345413",
+    "description": "Police recover cache of weapons used in deadly Negombo Prison riot",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Police-recover-cache-of-weapons-used-in-deadly-Negombo-Prison-riot/108-345418",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783780264.0
+    "time_ut": 1783784179.0
 }
 ```
 
@@ -41,6 +41,7 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-11 | `dailymirrorlk-281954fb` | Police recover cache of weapons used in deadly Negombo Prison riot | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-281954fb)
 - 2026-07-11 | `dailymirrorlk-ccfbb200` | Sri Lanka’s disaster preparedness inadequate due to climate threats: DMC Chief | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-ccfbb200)
 - 2026-07-11 | `dailymirrorlk-72936582` | Special train services to be introduced for Nallur Festival – Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-72936582)
 - 2026-07-11 | `dailymirrorlk-8dbbebbd` | Asia’s future depends on hope, not birth rates: UNFPA | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-8dbbebbd)
@@ -60,7 +61,6 @@ A collection of lk_news documents.
 - 2026-07-11 | `tamilmirrorlk-e4a47785` | இளைஞர்களின் உயிரை பறித்த கோர விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-tamilmirrorlk-e4a47785)
 - 2026-07-11 | `dailymirrorlk-12af0e69` | Trump says US, Iran agree to continue talks but ceasefire over | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-12af0e69)
 - 2026-07-11 | `virakesarilk-8790570b` | உலகளாவிய நெருக்கடிகளுக்கு மத்தியில் உள்நாட்டுப் பொருளாதாரச் சீர்திருத்தங்கள் அவசியம் - பொருளாதார நிபுணர் தனநாத் பெர்னாண்டோ தெரிவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-virakesarilk-8790570b)
-- 2026-07-11 | `virakesarilk-1f3bdd24` | நீதி அமைச்சரை பதவி நீக்காமல் நீர்கொழும்பு சிறைச்சாலைச் சம்பவத்துக்கு நியாயமான விசாரணை சாத்தியமில்லை - பாராளுமன்ற உறுப்பினர் நளின் பண்டார | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-virakesarilk-1f3bdd24)
 
 ---
 
