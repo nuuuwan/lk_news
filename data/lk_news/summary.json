@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-11 06:29:02",
-  "n_docs": 122951,
+  "time_updated": "2026-07-11 08:57:24",
+  "n_docs": 122956,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 122951,
+  "n_docs_with_text": 122956,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-11",
-  "dataset_size": 1919408525,
+  "dataset_size": 1919806190,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-11-virakesarilk-cfa137ef",
-    "num": "virakesarilk-cfa137ef",
+    "doc_id": "2026-07-11-dailymirrorlk-d5b14750",
+    "num": "dailymirrorlk-d5b14750",
     "date_str": "2026-07-11",
-    "description": "\u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9f\u0bc6\u0b99\u0bcd\u0b95\u0bc1 \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd \u0b89\u0b9a\u0bcd\u0b9a\u0bae\u0bcd; \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0bc1 \u0bb5\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbf\u0b95 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bcd \u0b8e\u0ba9 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/252796",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1783731240.0
+    "description": "Kuwait fund to provide Rs. 2.1 bn for Rataviru pension scheme",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kuwait-fund-to-provide-Rs-2-1-bn-for-Rataviru-pension-scheme/108-345361",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783740205.0
   }
 }

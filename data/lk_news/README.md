@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--11_06:30:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--11_08:58:05-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,951** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,956** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-11-virakesarilk-cfa137ef",
-    "num": "virakesarilk-cfa137ef",
+    "doc_id": "2026-07-11-dailymirrorlk-d5b14750",
+    "num": "dailymirrorlk-d5b14750",
     "date_str": "2026-07-11",
-    "description": "\u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b9f\u0bc6\u0b99\u0bcd\u0b95\u0bc1 \u0b85\u0baa\u0bbe\u0baf\u0bae\u0bcd \u0b89\u0b9a\u0bcd\u0b9a\u0bae\u0bcd; \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b87\u0bb0\u0bc1 \u0bb5\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bbf\u0b95 \u0bae\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bae\u0bcd \u0b8e\u0ba9 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
-    "url_metadata": "https://www.virakesari.lk/article/252796",
-    "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1783731240.0
+    "description": "Kuwait fund to provide Rs. 2.1 bn for Rataviru pension scheme",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Kuwait-fund-to-provide-Rs-2-1-bn-for-Rataviru-pension-scheme/108-345361",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783740205.0
 }
 ```
 
@@ -41,6 +41,10 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-11 | `dailymirrorlk-d5b14750` | Kuwait fund to provide Rs. 2.1 bn for Rataviru pension scheme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-d5b14750)
+- 2026-07-11 | `dailymirrorlk-091b0850` | Government to allow rice for beer, animal feed and value-added products | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-091b0850)
+- 2026-07-11 | `adalk-08329949` | ආණ්ඩුව ජනතාව සමග යැයි විශ්වාසයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-adalk-08329949)
+- 2026-07-11 | `adalk-33bb8b55` | ජනපති පොදු සමාවට නව ක්‍රමයක් සකස් කිරීම සඳහා වූ වාර්තාව භාර දෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-adalk-33bb8b55)
 - 2026-07-11 | `virakesarilk-cfa137ef` | மேல் மாகாணத்தில் டெங்கு அபாயம் உச்சம்; அடுத்த இரு வாரங்கள் மிக முக்கியம் என எச்சரிக்கை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-virakesarilk-cfa137ef)
 - 2026-07-11 | `virakesarilk-792a4e81` | சுற்றுலா வளர்ச்சி வாய்ப்புகளை ஆராய ஆசிய தூதுவர்கள் மட்டக்களப்புக்கு விஜயம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-virakesarilk-792a4e81)
 - 2026-07-11 | `virakesarilk-399c7e07` | ஆடிப்பிறப்பு  தினத்தை பொது விடுமுறை தினமாக அறிவிக்க வேண்டும் - ஜெயச்சந்திரமூர்த்தி றஜீவன் முன்மொழிவு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-virakesarilk-399c7e07)
@@ -57,10 +61,6 @@ A collection of lk_news documents.
 - 2026-07-11 | `dailyftlk-d3636825` | Ceylon Chamber’s Commercial  Document Registration Division expands | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailyftlk-d3636825)
 - 2026-07-11 | `dailyftlk-c32c4fe3` | TruRout introduces Sri Lanka’s first zero-commission ride-hailing platform | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailyftlk-c32c4fe3)
 - 2026-07-11 | `dailyftlk-0759442c` | Dialog Enterprise, NCE renew strategic  partnership to accelerate digital transformation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailyftlk-0759442c)
-- 2026-07-11 | `dailymirrorlk-a9dfdde3` | Kenya’s Wanyonyi breaks 1,000m world record | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-a9dfdde3)
-- 2026-07-11 | `dailyftlk-91b56c1b` | Sri Lanka attends 9th ESCAP Committee Session on Environment and Development | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailyftlk-91b56c1b)
-- 2026-07-11 | `dailyftlk-d28f0432` | Sri Lanka underscores role of IP in  innovation and inclusive development at WIPO Assemblies | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailyftlk-d28f0432)
-- 2026-07-11 | `dailyftlk-3f0741df` | Belgium and Sri Lanka  explore science cooperation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailyftlk-3f0741df)
 
 ---
 
