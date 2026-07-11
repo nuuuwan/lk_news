@@ -1,0 +1,83 @@
+An Average Sri Lankan’s Entire Day of Electricity Usage Barely Runs an AC for 39 Minutes, Data Shows
+
+At 1 p.m. on a weekday in Colombo, thousands of people are standing under the same sun. But they are not experiencing the same heat. One person is sitting inside an air-conditioned office with tinted glass and a cardigan on, because the room is too cold. Another is directing traffic at a junction with no shade in sight. A mason is laying bricks on an exposed rooftop in Maharagama. A delivery rider is weaving through Galle Road traffic in a full-sleeved jacket meant to protect him from the road, not the heat. A schoolchild is walking home in a uniform that traps warmth against her skin.
+
+The temperature on the forecast is the same number for all of them. The experience of that number is not.
+
+For a growing number of Sri Lankan households, staying cool is no longer just a matter of comfort. It has become a question of what kind of house you live in, whether you can afford to buy an air conditioner in the first place, and whether you can afford to keep the electricity bill down after you do.
+
+It depends on whether your workplace has built-in cooling or your job simply does not allow you to step indoors at all.
+
+As temperatures across the island continue to climb, that gap is becoming harder to ignore.
+
+A recent analysis by Our World in Data, led by researcher Hannah Ritchie, looked at how far the average person’s daily household electricity use would actually stretch if it were spent entirely on running an air conditioner. The comparison is a simple one: a typical single-room air conditioner draws around 1,000 watt-hours in an hour of use. Set that against how much electricity the average person in a given country uses at home over an entire day, and a stark picture appears.
+
+In dozens of countries, the analysis found, the average person’s daily electricity budget would not cover even a single hour of air conditioning.
+
+Sri Lanka’s figure, in that same analysis, works out to about 39 minutes. A little more generous than India’s 44 minutes, but far less than what feels reasonable once temperatures push past 34 or 35 degrees in Colombo or Anuradhapura. Pakistan comes in at 37 minutes. Zimbabwe manages 25. In Nigeria, the daily electricity budget covers just 13 minutes. In Kenya, it’s 10. In South Sudan, only 4.
+
+None of these are figures anyone could survive an afternoon on. And that’s the point. The average person in most of these countries is not choosing to avoid air conditioning. Their electricity supply barely allows for the idea of it.
+
+Even something as basic as an electric fan is not guaranteed. Running a standard fan for a full day requires far less power than an air conditioner, yet the same research found that in the world’s most energy-poor countries, even that modest comfort is out of reach for hours at a stretch.
+
+Every Sri Lankan household with an air conditioner knows this exact negotiation, even if no one says it out loud.
+
+Owning an air conditioner in Sri Lanka is no longer as expensive as it once was. Running one is a different story. As of the current CEB tariff schedule, a single unit of electricity costs Rs. 87.18, inclusive of the 2.5% Social Security Contribution Levy. For a household running an AC unit for a few hours a day, that adds up fast.
+
+The Public Utilities Commission of Sri Lanka’s most recent tariff revision made the divide sharper. Domestic consumers using more than 180 units a month saw an 18% increase, while the roughly 95% of households using less than that each month saw no change at all.
+
+In effect, the households most likely to be running an air conditioner regularly, the ones crossing that 180-unit mark, are the ones absorbing the increase.
+
+Many families limit cooling to a single bedroom. Some only switch it on after midnight, when the CEB tariff and the day’s heat both start to ease. Others reserve it for an elderly parent or a young child, while everyone else makes do with a ceiling fan and an open window.
+
+For a large share of households, there is no AC to negotiate over in the first place. The choice was never made. It was never available.
+
+Construction workers. Street vendors. Three-wheel drivers. Traffic police standing at junctions for hours. Garbage collectors. Farmers working paddy fields at midday. Factory workers on shop floors with poor ventilation. Delivery riders. Security guards posted outside buildings they will never be allowed to cool down in.
+
+Many of these workers spend eight to ten hours outdoors, often with little or no shade. For them, heat is not weather. It is a condition of the job, one that shapes how much water they need to carry and how often they can afford to stop.
+
+Urban heat is its own separate problem. Concrete stores warmth through the day and releases it slowly after dark. Glass facades reflect heat onto the street instead of absorbing it. Tree cover in many parts of Colombo has thinned out over the years, taking natural shade with it.
+
+By the time evening arrives, roads and pavements in the city continue radiating heat long after the sun has set. Anyone who has stepped off an air-conditioned bus onto a Colombo pavement in the late afternoon has felt this shift immediately, the way the air itself seems to press in.
+
+Extreme heat is not simply unpleasant. Prolonged exposure can lead to dehydration, heat exhaustion, and, in severe cases, heat stroke, with older adults, young children, and people who work outdoors facing the greatest risk. Health researchers have also linked sustained heat exposure to disrupted sleep and higher rates of chronic illness, including cardiovascular and kidney disease. Access to a cooler environment, even for part of the day, measurably reduces those risks.
+
+This is more than a seasonal inconvenience in Sri Lanka. In March 2026, the Department of Meteorology recorded temperatures of 39°C in both Colombo and Anuradhapura, prompting an amber heat alert across several provinces.
+
+Meteorology officials note that the heat index, or how hot the body actually feels once humidity is factored in, typically runs two to three degrees above the recorded air temperature and can climb even higher under the right conditions. A thermometer reading of 32 to 34°C can translate into a felt temperature well past 38°C. The Department of Health has repeatedly urged people to avoid direct sun between 10 a.m. and 3 p.m., stay hydrated, and wear light, loose clothing.
+
+The reason humidity makes such a difference comes down to how the body cools itself in the first place. Sweat works like the body’s own air conditioner: it pulls heat away from the skin as it evaporates. In dry heat, sweat evaporates quickly, and the cooling effect kicks in fast. In a humid, coastal city like Colombo, the air is already saturated with moisture, so sweat struggles to evaporate at all.
+
+The body’s cooling system is effectively switched off even as it keeps working overtime, which is why a 32°C day with heavy humidity can feel closer to 39°C.
+
+Sustained exposure at the Department of Meteorology’s “Caution” and “Extreme Caution” levels tends to follow a fairly predictable progression. It usually starts with fatigue, simple tiredness from being out in the heat too long. Left unaddressed, that can turn into heat cramps, the painful muscle spasms that come from losing fluids and salts. At the far end sits heatstroke, a genuine medical emergency where the body’s cooling system fails outright. Health officials consistently recommend the same basic precautions to stay ahead of that progression: drink water regularly, wear light-coloured and loose-fitting clothing, and take breaks in the shade whenever possible.
+
+Heat also affects the ability to think, learn, and work. Studies on classrooms in warmer climates have found that student performance drops on hotter days. That has direct relevance for a country where school buildings are rarely designed with heat in mind.
+
+Rather than only asking how many households own an air conditioner, it may be more useful to ask different questions.
+
+Are schools built to stay cool without relying on machines? Do bus stops and train platforms offer enough shade for the people waiting under them? Are cities planting and protecting enough trees to slow down the urban heat building up in concrete and asphalt? Are outdoor workers given any real protection or scheduled breaks during the hottest hours of the day? Are new homes designed with airflow and shade in mind, or built purely to maximise floor space?
+
+Cooling should not have to depend entirely on a machine and a monthly electricity bill. Good design, in homes, schools, and workplaces, can lower indoor temperatures without adding to anyone’s power costs.
+
+How many minutes of air conditioning can the average Sri Lankan afford per day?
+
+Based on global electricity use data, the average Sri Lankan’s daily household electricity budget covers roughly 39 minutes of continuous air conditioning use, if that electricity were spent on nothing else.
+
+It’s rarely about the upfront cost of buying a unit anymore. The bigger barrier is the ongoing electricity cost of running it, especially under CEB’s tiered tariff structure, where usage above a certain threshold gets significantly more expensive.
+
+Outdoor workers face the highest exposure, including construction workers, three-wheel drivers, traffic police, street vendors, delivery riders, and farmers, many of whom spend eight to ten hours a day with little or no shade.
+
+Rising average temperatures combined with reduced urban tree cover and increased concrete surface area in cities like Colombo are making heat exposure more intense, particularly during the afternoon and early evening hours.
+
+Why does Sri Lanka’s heat feel worse than the temperature reading?
+
+Sri Lanka’s high humidity pushes up the heat index, or the “feels-like” temperature, often by two to three degrees above the actual air temperature. On days when Colombo records around 32 to 34°C, the heat index can climb past 38°C, which is the figure the Department of Meteorology and the Ministry of Health base their advisories on.
+
+The weather forecast gives Sri Lanka one number for the whole country. Heat has never been felt equally within it.
+
+For one household, relief is a press of a remote control. For another, it is a ceiling fan that never stops turning. For thousands of people working outdoors across the island every day, relief is simply waiting for the sun to go down.
+
+That may be the most uncomfortable truth in Sri Lanka’s rising temperatures, not that the heat is increasing, but that the ability to escape it was never shared equally to begin with.
+
+Data on electricity access and air conditioning referenced in this article is drawn from analysis published by Our World in Data (Hannah Ritchie, February 2026), based on International Energy Agency and UN World Population Prospects figures.
