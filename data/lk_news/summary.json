@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-11 16:20:21",
-  "n_docs": 122984,
+  "time_updated": "2026-07-11 18:12:19",
+  "n_docs": 122991,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 122984,
+  "n_docs_with_text": 122991,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-11",
-  "dataset_size": 1920146239,
+  "dataset_size": 1920209794,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -31,19 +31,19 @@
   "url_data": "https://github.com/nuuuwan/lk_news/tree/data/data/lk_news",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_news/refs/heads/data/data/lk_news/docs_by_month_and_lang.png",
   "langs": [
-    "en",
     "ta",
-    "si"
+    "si",
+    "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-11-dailymirrorlk-12af0e69",
-    "num": "dailymirrorlk-12af0e69",
+    "doc_id": "2026-07-11-dailymirrorlk-1b76d271",
+    "num": "dailymirrorlk-1b76d271",
     "date_str": "2026-07-11",
-    "description": "Trump says US, Iran agree to continue talks but ceasefire over",
-    "url_metadata": "https://www.dailymirror.lk/international/Trump-says-US-Iran-agree-to-continue-talks-but-ceasefire-over/107-345401",
+    "description": "Amber warm weather advisory issued for six districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Amber-warm-weather-advisory-issued-for-six-districts/108-345405",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783765134.0
+    "time_ut": 1783770865.0
   }
 }

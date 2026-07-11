@@ -292672,6 +292672,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-11-adalk-351fbeae",
+    "num": "adalk-351fbeae",
+    "date_str": "2026-07-11",
+    "description": "\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba \u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab \u0d92\u0d9a\u0d9a\u0dba\u0da7 \u0dbb\u0dd4.\u0db8\u0dd2. 250\u0d9a\u0dca \u0dc0\u0dd0\u0dba \u0d9a\u0dc5\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd\u0dba\u0d9a\u0dca \u0db1\u0dd1",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba-\u0dc0\u0dca\u200d\u0dba\u0dc0\u0dc3\u0dcf\u0dba-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab-\u0d92\u0d9a\u0d9a\u0dba\u0da7-\u0dbb\u0dd4-\u0db8\u0dd2--250\u0d9a\u0dca-\u0dc0\u0dd0\u0dba-\u0d9a\u0dc5\u0dad\u0dca-\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd\u0dba\u0d9a\u0dca-\u0db1\u0dd1/11-423214",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783740119.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-11-dailymirrorlk-d5b14750",
     "num": "dailymirrorlk-d5b14750",
     "date_str": "2026-07-11",
@@ -292878,5 +292889,71 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783765134.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-tamilmirrorlk-e4a47785",
+    "num": "tamilmirrorlk-e4a47785",
+    "date_str": "2026-07-11",
+    "description": "\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b89\u0baf\u0bbf\u0bb0\u0bc8 \u0baa\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4 \u0b95\u0bcb\u0bb0 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b87\u0bb3\u0bc8\u0b9e\u0bb0\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd-\u0b89\u0baf\u0bbf\u0bb0\u0bc8-\u0baa\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4-\u0b95\u0bcb\u0bb0-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1/175-379797",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783765385.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-96a1ee1d",
+    "num": "dailymirrorlk-96a1ee1d",
+    "date_str": "2026-07-11",
+    "description": "Indian police arrest dozens after violent protests over rape, murder of 11-year-old girl",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Indian-police-arrest-dozens-after-violent-protests-over-rape-murder-of-11-year-old-girl/108-345402",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783767326.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-tamilmirrorlk-cc3d5052",
+    "num": "tamilmirrorlk-cc3d5052",
+    "date_str": "2026-07-11",
+    "description": "\u0b89\u0bb2\u0b95\u0bc8\u0baf\u0bc7 \u0b86\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0b95\u0bbe\u0ba3 \u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u2019\u0b8e\u0bb2\u0bcd \u0ba8\u0bbf\u0ba9\u0bcb\u2019 - \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8 \u0b8e\u0ba9\u0bcd\u0ba9?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b89\u0bb2\u0b95\u0bc8\u0baf\u0bc7-\u0b86\u0b9f\u0bcd\u0b9f\u0bae\u0bcd-\u0b95\u0bbe\u0ba3-\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd-\u0b8e\u0bb2\u0bcd-\u0ba8\u0bbf\u0ba9\u0bcb-\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0ba8\u0bbf\u0bb2\u0bc8-\u0b8e\u0ba9\u0bcd\u0ba9/175-379798",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783767687.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-a0e7966f",
+    "num": "dailymirrorlk-a0e7966f",
+    "date_str": "2026-07-11",
+    "description": "Government has ensured national security since taking office: Deputy Defence Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Government-has-ensured-national-security-since-taking-office-Deputy-Defence-Minister/108-345403",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783770163.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-ae7b1acb",
+    "num": "dailymirrorlk-ae7b1acb",
+    "date_str": "2026-07-11",
+    "description": "Train reaches Kadugannawa for first time since Cyclone Ditwah",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Train-reaches-Kadugannawa-for-first-time-since-Cyclone-Ditwah/108-345404",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783770588.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-dailymirrorlk-1b76d271",
+    "num": "dailymirrorlk-1b76d271",
+    "date_str": "2026-07-11",
+    "description": "Amber warm weather advisory issued for six districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Amber-warm-weather-advisory-issued-for-six-districts/108-345405",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783770865.0
   }
 ]

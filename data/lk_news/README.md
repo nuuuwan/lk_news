@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--11_16:20:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--11_18:13:19-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**122,984** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**122,991** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-11**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-11-dailymirrorlk-12af0e69",
-    "num": "dailymirrorlk-12af0e69",
+    "doc_id": "2026-07-11-dailymirrorlk-1b76d271",
+    "num": "dailymirrorlk-1b76d271",
     "date_str": "2026-07-11",
-    "description": "Trump says US, Iran agree to continue talks but ceasefire over",
-    "url_metadata": "https://www.dailymirror.lk/international/Trump-says-US-Iran-agree-to-continue-talks-but-ceasefire-over/107-345401",
+    "description": "Amber warm weather advisory issued for six districts",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Amber-warm-weather-advisory-issued-for-six-districts/108-345405",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783765134.0
+    "time_ut": 1783770865.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-11 | `dailymirrorlk-1b76d271` | Amber warm weather advisory issued for six districts | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-1b76d271)
+- 2026-07-11 | `dailymirrorlk-ae7b1acb` | Train reaches Kadugannawa for first time since Cyclone Ditwah | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-ae7b1acb)
+- 2026-07-11 | `dailymirrorlk-a0e7966f` | Government has ensured national security since taking office: Deputy Defence Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-a0e7966f)
+- 2026-07-11 | `tamilmirrorlk-cc3d5052` | உலகையே ஆட்டம் காண வைக்கும் ’எல் நினோ’ - இலங்கையின் நிலை என்ன? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-tamilmirrorlk-cc3d5052)
+- 2026-07-11 | `dailymirrorlk-96a1ee1d` | Indian police arrest dozens after violent protests over rape, murder of 11-year-old girl | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-96a1ee1d)
+- 2026-07-11 | `tamilmirrorlk-e4a47785` | இளைஞர்களின் உயிரை பறித்த கோர விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-tamilmirrorlk-e4a47785)
 - 2026-07-11 | `dailymirrorlk-12af0e69` | Trump says US, Iran agree to continue talks but ceasefire over | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-12af0e69)
 - 2026-07-11 | `dailymirrorlk-b1d9f875` | President’s fund aids Bandarawela student with monthly scholarship | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-b1d9f875)
 - 2026-07-11 | `dailymirrorlk-1320cd6a` | All female inmates transferred from Negombo Prison after unrest | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-1320cd6a)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-07-11 | `dailymirrorlk-e0d2e111` | Twelve killed, 23 missing in one of Spain’s deadliest wildfires | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-e0d2e111)
 - 2026-07-11 | `dailymirrorlk-8df77c9a` | Rough seas, strong winds forecast in several coastal areas | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-8df77c9a)
 - 2026-07-11 | `dailyftlk-d97bc63c` | BASL writes to President over delays in appointing Judges | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailyftlk-d97bc63c)
-- 2026-07-11 | `dailyftlk-eefd0608` | HRCSL says no conclusions reached as probe ongoing into Negombo prison violence, torture and deaths | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailyftlk-eefd0608)
-- 2026-07-11 | `dailyftlk-2f6c644b` | Post-mortems reveal brutal assaults on officers killed in Negombo Prison violence | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailyftlk-2f6c644b)
-- 2026-07-11 | `dailymirrorlk-51456a9f` | New dinosaur species with neck as long as cricket pitch discovered in Thailand | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-51456a9f)
-- 2026-07-11 | `dailymirrorlk-536e5730` | US wants Iran to pledge to stop shooting at ships in Strait of Hormuz | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-536e5730)
-- 2026-07-11 | `dailymirrorlk-d5b14750` | Kuwait fund to provide Rs. 2.1 bn for Rataviru pension scheme | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-d5b14750)
-- 2026-07-11 | `dailymirrorlk-091b0850` | Government to allow rice for beer, animal feed and value-added products | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-11-dailymirrorlk-091b0850)
 
 ---
 
