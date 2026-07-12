@@ -287821,6 +287821,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-08-islandlk-d7b7722b",
+    "num": "islandlk-d7b7722b",
+    "date_str": "2026-07-08",
+    "description": "Waste of time and money",
+    "url_metadata": "http://island.lk/waste-of-time-and-money/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783528080.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-08-islandlk-706ee311",
     "num": "islandlk-706ee311",
     "date_str": "2026-07-08",
@@ -291968,6 +291979,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-10-islandlk-b8a55946",
+    "num": "islandlk-b8a55946",
+    "date_str": "2026-07-10",
+    "description": "Dialog recognised as Sri Lanka\u2019s Most Loved Service and Telecommunications Brand for third consecutive year",
+    "url_metadata": "http://island.lk/dialog-recognised-as-sri-lankas-most-loved-service-and-telecommunications-brand-for-third-consecutive-year/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783703820.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-10-islandlk-e3af5fa2",
     "num": "islandlk-e3af5fa2",
     "date_str": "2026-07-10",
@@ -293332,6 +293354,28 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-11-islandlk-c7f60d19",
+    "num": "islandlk-c7f60d19",
+    "date_str": "2026-07-11",
+    "description": "Joy of Gardening",
+    "url_metadata": "http://island.lk/joy-of-gardening/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783780560.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-islandlk-9e96213f",
+    "num": "islandlk-9e96213f",
+    "date_str": "2026-07-11",
+    "description": "Negombo: anatomy of a system unchanged",
+    "url_metadata": "http://island.lk/negombo-anatomy-of-a-system-unchanged/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783780740.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-11-dailymirrorlk-6a8f125e",
     "num": "dailymirrorlk-6a8f125e",
     "date_str": "2026-07-11",
@@ -293354,6 +293398,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-11-islandlk-b7ad8c38",
+    "num": "islandlk-b7ad8c38",
+    "date_str": "2026-07-11",
+    "description": "Working with Minister Richard Pathirana and President Chandrika Kumaratunga",
+    "url_metadata": "http://island.lk/working-with-minister-richard-pathirana-and-president-chandrika-kumaratunga/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783783080.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-11-dailymirrorlk-8fc85db6",
     "num": "dailymirrorlk-8fc85db6",
     "date_str": "2026-07-11",
@@ -293362,6 +293417,28 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783783111.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-islandlk-98ee985a",
+    "num": "islandlk-98ee985a",
+    "date_str": "2026-07-11",
+    "description": "More on Saudi Arabia: ARAMCO and beyond",
+    "url_metadata": "http://island.lk/more-on-saudi-arabia-aramco-and-beyond/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783783140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-islandlk-dac7904a",
+    "num": "islandlk-dac7904a",
+    "date_str": "2026-07-11",
+    "description": "IS THERE AN ALTERNATIVE TO OIL?",
+    "url_metadata": "http://island.lk/is-there-an-alternative-to-oil/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783783200.0
   },
   {
     "doc_type": "lk_news",
@@ -293428,6 +293505,28 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783786666.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-islandlk-8332e820",
+    "num": "islandlk-8332e820",
+    "date_str": "2026-07-11",
+    "description": "The Burnished Gourd and an Unexpected Travelling Companion",
+    "url_metadata": "http://island.lk/the-burnished-gourd-and-an-unexpected-travelling-companion/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783786860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-islandlk-cf253cae",
+    "num": "islandlk-cf253cae",
+    "date_str": "2026-07-11",
+    "description": "Building a Society Where Ability, Not Connections, Determines Opportunity",
+    "url_metadata": "http://island.lk/building-a-society-where-ability-not-connections-determines-opportunity/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783786920.0
   },
   {
     "doc_type": "lk_news",
