@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_20:16:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_22:05:33-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,159** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,162** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-12-dailymirrorlk-e37df6fe",
-    "num": "dailymirrorlk-e37df6fe",
+    "doc_id": "2026-07-12-tamilmirrorlk-1683a28b",
+    "num": "tamilmirrorlk-1683a28b",
     "date_str": "2026-07-12",
-    "description": "Schools allowed to relax uniform rules to protect students from dengue",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Schools-allowed-to-relax-uniform-rules-to-protect-students-from-dengue/108-345437",
-    "lang": "en",
-    "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783865714.0
+    "description": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0b9a\u0bc0\u0bb0\u0bc1\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0b9a\u0bc0\u0bb0\u0bc1\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-379840",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783873118.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-12 | `tamilmirrorlk-1683a28b` | பாடசாலை சீருடையில் மாற்றம்? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-1683a28b)
+- 2026-07-12 | `dailymirrorlk-7fb59f41` | Vijitha Herath extends condolences on passing of Qatar’s Father Amir | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-dailymirrorlk-7fb59f41)
+- 2026-07-12 | `dailymirrorlk-62e10bf4` | Ukraine’s Zelenskiy dismisses Prime Minister Svyrydenko after only a year | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-dailymirrorlk-62e10bf4)
 - 2026-07-12 | `dailymirrorlk-e37df6fe` | Schools allowed to relax uniform rules to protect students from dengue | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-dailymirrorlk-e37df6fe)
 - 2026-07-12 | `adalk-3628e3a4` | “මීරිගම වකුගඩු ගල් ඉවත් කිරීමේ ප්‍රතිකාර මධ්‍යස්ථානය”ජනතා අයිතියට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-adalk-3628e3a4)
 - 2026-07-12 | `virakesarilk-621352fa` | இராணுவ அதிகாரிகள் மீதான அரசியல் பழிவாங்கலுக்கு எதிராக ஒன்றிணைய வேண்டும் – சம்பிக்க ரணவக்க | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-621352fa)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-07-12 | `virakesarilk-46108b1e` | பொலிஸ் விசேட சோதனை நடவடிக்கை குற்றச்செயல்களுடன் தொடர்புடைய 30 பேர் உட்பட 640 சந்தேகநபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-46108b1e)
 - 2026-07-12 | `virakesarilk-4068e736` | இரத்தம் தோய்ந்த சிறை வன்­மு­றைகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-4068e736)
 - 2026-07-12 | `tamilmirrorlk-2805f9c6` | மோடியின் ’’குட்டித் தூக்கமும்’’: லக்சனின்’’ உறக்கச் சிக்கலும்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-2805f9c6)
-- 2026-07-12 | `tamilmirrorlk-d4b23a8d` | 30 நொடிகளில் 195 முத்தங்கள்: கின்னஸ் சாதனை படைத்த காதல் ஜோடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-d4b23a8d)
-- 2026-07-12 | `dailymirrorlk-da7fd5b6` | Viral World Cup bet: Norwegian swaps Instagram logo for British Airways after England win | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-dailymirrorlk-da7fd5b6)
-- 2026-07-12 | `virakesarilk-739c4011` | யாழ். வட்டுக்கோட்டையில் முதியவர் மீது தாக்குதல் நடத்தி பணக்கொள்ளை! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-739c4011)
 
 ---
 

@@ -294803,5 +294803,38 @@
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
     "time_ut": 1783865714.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-dailymirrorlk-62e10bf4",
+    "num": "dailymirrorlk-62e10bf4",
+    "date_str": "2026-07-12",
+    "description": "Ukraine\u2019s Zelenskiy dismisses Prime Minister Svyrydenko after only a year",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Ukraines-Zelenskiy-dismisses-Prime-Minister-Svyrydenko-after-only-a-year/108-345438",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783872088.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-dailymirrorlk-7fb59f41",
+    "num": "dailymirrorlk-7fb59f41",
+    "date_str": "2026-07-12",
+    "description": "Vijitha Herath extends condolences on passing of Qatar\u2019s Father Amir",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Vijitha-Herath-extends-condolences-on-passing-of-Qatars-Father-Amir/108-345439",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783872633.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-tamilmirrorlk-1683a28b",
+    "num": "tamilmirrorlk-1683a28b",
+    "date_str": "2026-07-12",
+    "description": "\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8 \u0b9a\u0bc0\u0bb0\u0bc1\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd?",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bbe\u0b9f\u0b9a\u0bbe\u0bb2\u0bc8-\u0b9a\u0bc0\u0bb0\u0bc1\u0b9f\u0bc8\u0baf\u0bbf\u0bb2\u0bcd-\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bae\u0bcd/175-379840",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783873118.0
   }
 ]
