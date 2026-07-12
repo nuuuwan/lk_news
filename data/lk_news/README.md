@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_10:51:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_12:53:22-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,084** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,090** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-12-virakesarilk-8e64827c",
-    "num": "virakesarilk-8e64827c",
+    "doc_id": "2026-07-12-tamilmirrorlk-4c8666fb",
+    "num": "tamilmirrorlk-4c8666fb",
     "date_str": "2026-07-12",
-    "description": "\u0b95\u0bc2\u0b95\u0bc1\u0bb3\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bae\u0bcd\u0b9a\u0bbe\u0bb5\u0bb3\u0bbf \u0b89\u0baf\u0bb0\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bbf \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0bb2\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb2\u0bc8; \u0b95\u0ba3\u0bb5\u0ba9\u0bcd \u0b95\u0bc8\u0ba4\u0bc1!",
-    "url_metadata": "https://www.virakesari.lk/article/252889",
+    "description": "\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd \u2018\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8 \u0b85\u0bae\u0bc0\u0bb0\u0bcd\u2019 \u0b85\u0bb2\u0bcd \u0ba4\u0bbe\u0ba9\u0bbf \u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd-\u0ba4\u0ba8\u0bcd\u0ba4\u0bc8-\u0b85\u0bae\u0bc0\u0bb0\u0bcd-\u0b85\u0bb2\u0bcd-\u0ba4\u0bbe\u0ba9\u0bbf-\u0b95\u0bbe\u0bb2\u0bae\u0bbe\u0ba9\u0bbe\u0bb0\u0bcd/50-379820",
     "lang": "ta",
-    "newspaper_id": "virakesarilk",
-    "time_ut": 1783833180.0
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783839530.0
 }
 ```
 
@@ -41,6 +41,12 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-12 | `tamilmirrorlk-4c8666fb` | கத்தாரின் ‘தந்தை அமீர்’ அல் தானி காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-4c8666fb)
+- 2026-07-12 | `dailymirrorlk-d5f47290` | Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-dailymirrorlk-d5f47290)
+- 2026-07-12 | `tamilmirrorlk-2d606a82` | பாலியல் துஷ்பிரயோகம்: பிரித்தானிய நடிகர்  விடுவிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-2d606a82)
+- 2026-07-12 | `tamilmirrorlk-ba629894` | ‘ஹட்டன் லீக்’: மைதானத்தில் கைகலப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-ba629894)
+- 2026-07-12 | `tamilmirrorlk-cedc3d9e` | மூத்த மகளை வன்புணர்ந்த சார்ஜன்ட் பணி இடைநிறுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-cedc3d9e)
+- 2026-07-12 | `tamilmirrorlk-f7827bae` | 15 வயது சிறுமியைத் கடத்தி   பாலியல் துஷ்பிரயோகம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-f7827bae)
 - 2026-07-12 | `virakesarilk-8e64827c` | கூகுள் நிறுவனத்தின் இந்திய வம்சாவளி உயர் அதிகாரி அமெரிக்காவில் சுட்டுக்கொலை; கணவன் கைது! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-8e64827c)
 - 2026-07-12 | `virakesarilk-fb5a2d77` | நம்பிக்கையில்லா பிரேரணையை  அரசாங்கமாக எதிர்கொள்வோம்  அமைச்சர் ஹர்ஷன நாணயக்கார அறிவிப்பு: பொறுப்பில் இருந்து விலகவில்லை எனவும் சுட்டிக்காட்டு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-fb5a2d77)
 - 2026-07-12 | `tamilmirrorlk-9c472631` | உலகக் கிண்ண த்ரில்லர்: சுவிட்சர்லாந்தை வீழ்த்தி அரையிறுதியில் ஆர்ஜென்டீனா | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-9c472631)
@@ -55,12 +61,6 @@ A collection of lk_news documents.
 - 2026-07-12 | `virakesarilk-eddb5def` | பாகிஸ்­தானை நெருங்க விடுமா இந்­தியா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-eddb5def)
 - 2026-07-12 | `virakesarilk-1e5b0340` | சாத்தியப்படாத வறுமை ஒழிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-1e5b0340)
 - 2026-07-12 | `dailymirrorlk-7b39f0da` | Urban trees key to building cooler, climate-resilient cities: Environment Ministry | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-dailymirrorlk-7b39f0da)
-- 2026-07-12 | `tamilmirrorlk-8ec261ee` | கானக் குயிலே காலமானாயா? வைரமுத்துவின் உருக்கமான இரங்கல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-8ec261ee)
-- 2026-07-12 | `dailymirrorlk-2c2514b9` | Rs. 500,000 only initial compensation for fallen prison officers: Spokesman | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-dailymirrorlk-2c2514b9)
-- 2026-07-12 | `tamilmirrorlk-33dc3fbc` | சி.பியின் மகன் அபீத ரத்நாயக்க அதிரடி ஆட்டம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-33dc3fbc)
-- 2026-07-12 | `virakesarilk-7745fdf0` | தீவி­ர­மாகப் போகும் அழுத்தம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-7745fdf0)
-- 2026-07-12 | `virakesarilk-4045ad76` | இரா. சம்பந்தனின் இரண்டாம் ஆண்டு நினைவஞ்சலி திருகோணமலையில் அனுஷ்டிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-4045ad76)
-- 2026-07-12 | `dailymirrorlk-5cb40825` | Toronto active shooter incident leaves 5 people injured, 2 dead, police say | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-dailymirrorlk-5cb40825)
 
 ---
 
