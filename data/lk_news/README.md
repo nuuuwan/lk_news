@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_16:17:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_18:06:53-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,132** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,135** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-12**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-12-tamilmirrorlk-2805f9c6",
-    "num": "tamilmirrorlk-2805f9c6",
+    "doc_id": "2026-07-12-dailymirrorlk-7b6e09ca",
+    "num": "dailymirrorlk-7b6e09ca",
     "date_str": "2026-07-12",
-    "description": "\u0bae\u0bcb\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u2019\u2019\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd \u0ba4\u0bc2\u0b95\u0bcd\u0b95\u0bae\u0bc1\u0bae\u0bcd\u2019\u2019: \u0bb2\u0b95\u0bcd\u0b9a\u0ba9\u0bbf\u0ba9\u0bcd\u2019\u2019 \u0b89\u0bb1\u0b95\u0bcd\u0b95\u0b9a\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bc1\u0bae\u0bcd\u2019\u2019",
-    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd-\u0ba4\u0bc2\u0b95\u0bcd\u0b95\u0bae\u0bc1\u0bae\u0bcd-\u0bb2\u0b95\u0bcd\u0b9a\u0ba9\u0bbf\u0ba9\u0bcd-\u0b89\u0bb1\u0b95\u0bcd\u0b95\u0b9a\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bc1\u0bae\u0bcd/175-379828",
-    "lang": "ta",
-    "newspaper_id": "tamilmirrorlk",
-    "time_ut": 1783851767.0
+    "description": "Sri Lanka ranked Asia\u2019s most traffic-congested country",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-ranked-Asias-most-traffic-congested-country/108-345436",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783858360.0
 }
 ```
 
@@ -41,6 +41,9 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-12 | `dailymirrorlk-7b6e09ca` | Sri Lanka ranked Asia’s most traffic-congested country | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-dailymirrorlk-7b6e09ca)
+- 2026-07-12 | `tamilmirrorlk-1390c73c` | பாடசாலை வளாகத்தில் தோன்றிய மர்ம அறை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-1390c73c)
+- 2026-07-12 | `tamilmirrorlk-daf41664` | 500 பாண்களால் உருவாக்கப்பட்ட உடை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-daf41664)
 - 2026-07-12 | `tamilmirrorlk-2805f9c6` | மோடியின் ’’குட்டித் தூக்கமும்’’: லக்சனின்’’ உறக்கச் சிக்கலும்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-2805f9c6)
 - 2026-07-12 | `tamilmirrorlk-d4b23a8d` | 30 நொடிகளில் 195 முத்தங்கள்: கின்னஸ் சாதனை படைத்த காதல் ஜோடி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-d4b23a8d)
 - 2026-07-12 | `dailymirrorlk-da7fd5b6` | Viral World Cup bet: Norwegian swaps Instagram logo for British Airways after England win | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-dailymirrorlk-da7fd5b6)
@@ -58,9 +61,6 @@ A collection of lk_news documents.
 - 2026-07-12 | `virakesarilk-4c0c1ee2` | 500,000 ரூபாவை மீறும் ரொக்கப் பரிவர்த்தனைகள் : வருமான வரிச் சலுகையை இழக்க நேரிடுமா? | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-4c0c1ee2)
 - 2026-07-12 | `virakesarilk-65d303a1` | அமெரிக்காவின் விளையாட்டு தர்மம் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-65d303a1)
 - 2026-07-12 | `virakesarilk-109a57ce` | திருகோணமலையில் வெளிநாட்டு தொழிலாளர்களின் பிள்ளைகளுக்கு கல்வி உதவித்தொகை வழங்கி வைப்பு! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-109a57ce)
-- 2026-07-12 | `tamilmirrorlk-ae2ac3fc` | ஹார்முஸ் நீரிணையை ஈரான் மீண்டும் மூடியது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-tamilmirrorlk-ae2ac3fc)
-- 2026-07-12 | `adalk-d5803089` | මධ්‍ය නිලධාරීන් 34 ක් අධිකාරියට පත් කෙරේ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-adalk-d5803089)
-- 2026-07-12 | `virakesarilk-0bd04b8f` | காணி விடுவிப்பு கோரி பலாலியில் 4வது வாரமாக தொடரும் போராட்டம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-12-virakesarilk-0bd04b8f)
 
 ---
 
