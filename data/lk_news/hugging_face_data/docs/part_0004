@@ -294300,6 +294300,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-12-adalk-d5803089",
+    "num": "adalk-d5803089",
+    "date_str": "2026-07-12",
+    "description": "\u0db8\u0db0\u0dca\u200d\u0dba \u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca 34 \u0d9a\u0dca \u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0db4\u0dad\u0dca \u0d9a\u0dd9\u0dbb\u0dda",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db8\u0db0\u0dca\u200d\u0dba-\u0db1\u0dd2\u0dbd\u0db0\u0dcf\u0dbb\u0dd3\u0db1\u0dca-34-\u0d9a\u0dca-\u0d85\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7-\u0db4\u0dad\u0dca-\u0d9a\u0dd9\u0dbb\u0dda/11-423222",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783843110.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-12-tamilmirrorlk-ae2ac3fc",
     "num": "tamilmirrorlk-ae2ac3fc",
     "date_str": "2026-07-12",
@@ -294407,5 +294418,93 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1783846020.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-tamilmirrorlk-b08e7be1",
+    "num": "tamilmirrorlk-b08e7be1",
+    "date_str": "2026-07-12",
+    "description": "\u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8\u0baf\u0bbf\u0ba9\u0bcd \u2019\u0bae\u0bc1\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0bae\u0bbe\u0ba3\u2019 \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1-\u0b95\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bc8\u0b95\u0bb3\u0bcd/\u0baa\u0bc7\u0bb0\u0bbe\u0ba4\u0ba9\u0bc8\u0baf\u0bbf\u0ba9\u0bcd-\u0bae\u0bc1\u0baa\u0bcd\u0baa\u0bb0\u0bbf\u0bae\u0bbe\u0ba3-\u0b9a\u0bbe\u0ba4\u0ba9\u0bc8/91-379824",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783846809.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-dailymirrorlk-6b8e2547",
+    "num": "dailymirrorlk-6b8e2547",
+    "date_str": "2026-07-12",
+    "description": "Budget 2027 to be presented on November 12",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Budget-2027-to-be-presented-on-November-12/108-345433",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783847025.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-adalk-81a8539a",
+    "num": "adalk-81a8539a",
+    "date_str": "2026-07-12",
+    "description": "\u0db6\u0ddd\u0d9c\u0db8\u0dca\u0db6\u0dbb \u0dba\u0dc5\u0dd2 \u0dc4\u0dd2\u0dbb \u0d9c\u0dd9\u0daf\u0dbb\u0d9a\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda \u0db8\u0dcf\u0dc3 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7\u0dba\u0dd2",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0db6\u0ddd\u0d9c\u0db8\u0dca\u0db6\u0dbb-\u0dba\u0dc5\u0dd2-\u0dc4\u0dd2\u0dbb-\u0d9c\u0dd9\u0daf\u0dbb\u0d9a\u0dca-\u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda-\u0db8\u0dcf\u0dc3-\u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0da7\u0dba\u0dd2/11-423223",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783847150.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-dailymirrorlk-4f19c79e",
+    "num": "dailymirrorlk-4f19c79e",
+    "date_str": "2026-07-12",
+    "description": "China evacuates nearly two million people as powerful typhoon makes landfall",
+    "url_metadata": "https://www.dailymirror.lk/international/China-evacuates-nearly-two-million-people-as-powerful-typhoon-makes-landfall/107-345434",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783847209.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-tamilmirrorlk-42682a8b",
+    "num": "tamilmirrorlk-42682a8b",
+    "date_str": "2026-07-12",
+    "description": "7 \u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95\u0ba4\u0bcd  \u0b95\u0ba3\u0bb5\u0ba9\u0bbf\u0ba9\u0bcd \u0b95\u0bbe\u0bb2\u0bcd \u0bb5\u0bbf\u0bb0\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd \u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bae\u0ba9\u0bc8\u0bb5\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/7-\u0b86\u0ba3\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95\u0ba4\u0bcd-\u0b95\u0ba3\u0bb5\u0ba9\u0bbf\u0ba9\u0bcd-\u0b95\u0bbe\u0bb2\u0bcd-\u0bb5\u0bbf\u0bb0\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u0b95\u0bcd-\u0b95\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bae\u0ba9\u0bc8\u0bb5\u0bbf/53-379826",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783848475.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-dailymirrorlk-da7fd5b6",
+    "num": "dailymirrorlk-da7fd5b6",
+    "date_str": "2026-07-12",
+    "description": "Viral World Cup bet: Norwegian swaps Instagram logo for British Airways after England win",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Viral-World-Cup-bet-Norwegian-swaps-Instagram-logo-for-British-Airways-after-England-win/108-345435",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783850295.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-tamilmirrorlk-d4b23a8d",
+    "num": "tamilmirrorlk-d4b23a8d",
+    "date_str": "2026-07-12",
+    "description": "30 \u0ba8\u0bca\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd 195 \u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd: \u0b95\u0bbf\u0ba9\u0bcd\u0ba9\u0bb8\u0bcd \u0b9a\u0bbe\u0ba4\u0ba9\u0bc8 \u0baa\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4 \u0b95\u0bbe\u0ba4\u0bb2\u0bcd \u0b9c\u0bcb\u0b9f\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0bb5\u0bbf\u0ba8\u0bcb\u0ba4-\u0b89\u0bb2\u0b95\u0bae\u0bcd/30-\u0ba8\u0bca\u0b9f\u0bbf\u0b95\u0bb3\u0bbf\u0bb2\u0bcd-195-\u0bae\u0bc1\u0ba4\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bcd-\u0b95\u0bbf\u0ba9\u0bcd\u0ba9\u0bb8\u0bcd-\u0b9a\u0bbe\u0ba4\u0ba9\u0bc8-\u0baa\u0b9f\u0bc8\u0ba4\u0bcd\u0ba4-\u0b95\u0bbe\u0ba4\u0bb2\u0bcd-\u0b9c\u0bcb\u0b9f\u0bbf/53-379827",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783850300.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-tamilmirrorlk-2805f9c6",
+    "num": "tamilmirrorlk-2805f9c6",
+    "date_str": "2026-07-12",
+    "description": "\u0bae\u0bcb\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u2019\u2019\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd \u0ba4\u0bc2\u0b95\u0bcd\u0b95\u0bae\u0bc1\u0bae\u0bcd\u2019\u2019: \u0bb2\u0b95\u0bcd\u0b9a\u0ba9\u0bbf\u0ba9\u0bcd\u2019\u2019 \u0b89\u0bb1\u0b95\u0bcd\u0b95\u0b9a\u0bcd \u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bc1\u0bae\u0bcd\u2019\u2019",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0bcb\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd-\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0ba4\u0bcd-\u0ba4\u0bc2\u0b95\u0bcd\u0b95\u0bae\u0bc1\u0bae\u0bcd-\u0bb2\u0b95\u0bcd\u0b9a\u0ba9\u0bbf\u0ba9\u0bcd-\u0b89\u0bb1\u0b95\u0bcd\u0b95\u0b9a\u0bcd-\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bc1\u0bae\u0bcd/175-379828",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783851767.0
   }
 ]
