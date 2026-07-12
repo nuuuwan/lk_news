@@ -2,15 +2,15 @@
   "doc_class_label": "lk_news",
   "doc_class_emoji": "\ud83d\udcc4",
   "doc_class_description": "A collection of lk_news documents.",
-  "time_updated": "2026-07-13 02:01:41",
-  "n_docs": 123180,
+  "time_updated": "2026-07-13 04:02:54",
+  "n_docs": 123191,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 123180,
+  "n_docs_with_text": 123191,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2021-09-12",
   "date_str_max": "2026-07-13",
-  "dataset_size": 1923528933,
+  "dataset_size": 1923911374,
   "url_source_list": [
     "https://www.virakesari.lk",
     "https://www.tamilmirror.lk",
@@ -37,13 +37,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-13-dailyftlk-fa422d15",
-    "num": "dailyftlk-fa422d15",
+    "doc_id": "2026-07-13-dailyftlk-4756841d",
+    "num": "dailyftlk-4756841d",
     "date_str": "2026-07-13",
-    "description": "AHRP at 25: Bringing HR to the corporate forefront",
-    "url_metadata": "https://www.ft.lk/columns/AHRP-at-25-Bringing-HR-to-the-corporate-forefront/4-794553",
+    "description": "President outlines funding, resettlement plans at District Secretaries\u2019 conference",
+    "url_metadata": "https://www.ft.lk/news/President-outlines-funding-resettlement-plans-at-District-Secretaries-conference/56-794577",
     "lang": "en",
     "newspaper_id": "dailyftlk",
-    "time_ut": 1783887487.0
+    "time_ut": 1783892211.0
   }
 }

@@ -295034,5 +295034,126 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1783887487.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailyftlk-f901c70c",
+    "num": "dailyftlk-f901c70c",
+    "date_str": "2026-07-13",
+    "description": "Effective trade  agreements: Why and how?",
+    "url_metadata": "https://www.ft.lk/columns/Effective-trade-agreements-Why-and-how/4-794554",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783887945.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailyftlk-def95aa7",
+    "num": "dailyftlk-def95aa7",
+    "date_str": "2026-07-13",
+    "description": "The invisible tax in our minds",
+    "url_metadata": "https://www.ft.lk/columns/The-invisible-tax-in-our-minds/4-794555",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783888301.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailyftlk-33c18128",
+    "num": "dailyftlk-33c18128",
+    "date_str": "2026-07-13",
+    "description": "The SSCL Vs VAT threshold revision \u2013 The logic of indirect tax reform",
+    "url_metadata": "https://www.ft.lk/columns/The-SSCL-Vs-VAT-threshold-revision-The-logic-of-indirect-tax-reform/4-794556",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783888556.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailyftlk-3ade396a",
+    "num": "dailyftlk-3ade396a",
+    "date_str": "2026-07-13",
+    "description": "Can Sri Lanka sustain its newly won upper-middle-income status?",
+    "url_metadata": "https://www.ft.lk/columns/Can-Sri-Lanka-sustain-its-newly-won-upper-middle-income-status/4-794558",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783888974.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailyftlk-d8a91a4e",
+    "num": "dailyftlk-d8a91a4e",
+    "date_str": "2026-07-13",
+    "description": "Venerable Ananda\u2019s forbidden love: A monk\u2019s journey through time",
+    "url_metadata": "https://www.ft.lk/columns/Venerable-Ananda-s-forbidden-love-A-monk-s-journey-through-time/4-794559",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783889416.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailyftlk-e7161976",
+    "num": "dailyftlk-e7161976",
+    "date_str": "2026-07-13",
+    "description": "SLIMFA MediaFest 2026 calls for trust-first journalism as AI reshapes news landscape",
+    "url_metadata": "https://www.ft.lk/front-page/SLIMFA-MediaFest-2026-calls-for-trust-first-journalism-as-AI-reshapes-news-landscape/44-794570",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783891447.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailyftlk-4f22db36",
+    "num": "dailyftlk-4f22db36",
+    "date_str": "2026-07-13",
+    "description": "Company, society registration fees increased",
+    "url_metadata": "https://www.ft.lk/business/Company-society-registration-fees-increased/34-794571",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783891531.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailyftlk-b21d70fa",
+    "num": "dailyftlk-b21d70fa",
+    "date_str": "2026-07-13",
+    "description": "AmCham Sri Lanka represents member interests at Washington Doorknock 2026, strengthening US\u2013Sri Lanka trade dialogue",
+    "url_metadata": "https://www.ft.lk/business/AmCham-Sri-Lanka-represents-member-interests-at-Washington-Doorknock-2026-strengthening-USSri-Lanka-trade-dialogue/34-794572",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783891632.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailyftlk-fe5c297e",
+    "num": "dailyftlk-fe5c297e",
+    "date_str": "2026-07-13",
+    "description": "Architect of modern Qatar Sheikh Hamad bin Khalifa Al Thani dies",
+    "url_metadata": "https://www.ft.lk/news/Architect-of-modern-Qatar-Sheikh-Hamad-bin-Khalifa-Al-Thani-dies/56-794575",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783892080.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailyftlk-531ce044",
+    "num": "dailyftlk-531ce044",
+    "date_str": "2026-07-13",
+    "description": "Six Tamil-speaking parties to unveil common political platform",
+    "url_metadata": "https://www.ft.lk/news/Six-Tamil-speaking-parties-to-unveil-common-political-platform/56-794576",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783892108.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailyftlk-4756841d",
+    "num": "dailyftlk-4756841d",
+    "date_str": "2026-07-13",
+    "description": "President outlines funding, resettlement plans at District Secretaries\u2019 conference",
+    "url_metadata": "https://www.ft.lk/news/President-outlines-funding-resettlement-plans-at-District-Secretaries-conference/56-794577",
+    "lang": "en",
+    "newspaper_id": "dailyftlk",
+    "time_ut": 1783892211.0
   }
 ]
