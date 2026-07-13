@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_18:37:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_20:45:23-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,348** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,350** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-13-dailymirrorlk-b348735f",
-    "num": "dailymirrorlk-b348735f",
+    "doc_id": "2026-07-13-dailymirrorlk-136e11cd",
+    "num": "dailymirrorlk-136e11cd",
     "date_str": "2026-07-13",
-    "description": "Warm weather advisory issued for several places tomorrow",
-    "url_metadata": "https://www.dailymirror.lk/breaking-news/Warm-weather-advisory-issued-for-several-places-tomorrow/108-345522",
+    "description": "Sri Lanka remains firmly committed to upholding international standards in nuclear safety, security: Minister",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-remains-firmly-committed-to-upholding-international-standards-in-nuclear-safety-security-Minister/108-345524",
     "lang": "en",
     "newspaper_id": "dailymirrorlk",
-    "time_ut": 1783947679.0
+    "time_ut": 1783955404.0
 }
 ```
 
@@ -41,6 +41,8 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-13 | `dailymirrorlk-136e11cd` | Sri Lanka remains firmly committed to upholding international standards in nuclear safety, security: Minister | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-136e11cd)
+- 2026-07-13 | `dailymirrorlk-1bc0f1cd` | Eye donation pledges surpass 2.3 million: Eye Donation Society | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-1bc0f1cd)
 - 2026-07-13 | `dailymirrorlk-b348735f` | Warm weather advisory issued for several places tomorrow | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-b348735f)
 - 2026-07-13 | `dailymirrorlk-5c654351` | CSE opens the week lower as retail selling and geopolitical concerns weigh on market sentiment | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-5c654351)
 - 2026-07-13 | `dailymirrorlk-62ed1787` | UK bans support for Iran’s Islamic Revolutionary Guard Corps | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-62ed1787)
@@ -59,8 +61,6 @@ A collection of lk_news documents.
 - 2026-07-13 | `virakesarilk-48b7626d` | தமிழ் பேசும் அரசியல் கட்சிகள் பொதுவான விடயங்களில் இணைந்து செயற்பட மூன்று முக்கிய விடயங்களில் இணக்கப்பாடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-48b7626d)
 - 2026-07-13 | `virakesarilk-784a5c35` | ஆற்றில் நீராடச் சென்ற மாணவனை காணவில்லை | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-784a5c35)
 - 2026-07-13 | `virakesarilk-bf1f8fbd` | கிளிநொச்சியில் நெல் கொள்வனவு: இன்று முதல் விவசாயிகளுக்கு படிவங்கள் விநியோகம்! | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-bf1f8fbd)
-- 2026-07-13 | `virakesarilk-abf62e56` | பொலிஸ் விசேட சோதனை நடவடிக்கை குற்றச்செயல்களுடன் தொடர்புடைய 12 பேர் உட்பட  523 சந்தேகநபர்கள் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-abf62e56)
-- 2026-07-13 | `virakesarilk-a684fff3` | மக்கள் செல்வன்' விஜய் சேதுபதி நடிக்கும் 'ட்ரெயின்' படத்தின் இசை மற்றும் டீசர் வெளியீடு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-a684fff3)
 
 ---
 
