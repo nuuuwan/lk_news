@@ -290164,6 +290164,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-09-islandlk-5df2ad41",
+    "num": "islandlk-5df2ad41",
+    "date_str": "2026-07-09",
+    "description": "Punishment in hellholes",
+    "url_metadata": "http://island.lk/punishment-in-hellholes/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783615500.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-09-islandlk-3b5796ac",
     "num": "islandlk-3b5796ac",
     "date_str": "2026-07-09",
@@ -293211,6 +293222,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-11-islandlk-77db6495",
+    "num": "islandlk-77db6495",
+    "date_str": "2026-07-11",
+    "description": "Prison riots and politics: NPP\u2019s biggest challenge and Sri Lanka\u2019s biggest opportunity",
+    "url_metadata": "http://island.lk/prison-riots-and-politics-npps-biggest-challenge-and-sri-lankas-biggest-opportunity/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783774200.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-11-virakesarilk-ddc350be",
     "num": "virakesarilk-ddc350be",
     "date_str": "2026-07-11",
@@ -293420,6 +293442,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-11-islandlk-4dc1f78a",
+    "num": "islandlk-4dc1f78a",
+    "date_str": "2026-07-11",
+    "description": "More on growing up in Hambantota as a Catholice child",
+    "url_metadata": "http://island.lk/more-on-growing-up-in-hambantota-as-a-catholice-child/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783783140.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-11-islandlk-98ee985a",
     "num": "islandlk-98ee985a",
     "date_str": "2026-07-11",
@@ -293428,6 +293461,17 @@
     "lang": "en",
     "newspaper_id": "islandlk",
     "time_ut": 1783783140.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-11-islandlk-be26801a",
+    "num": "islandlk-be26801a",
+    "date_str": "2026-07-11",
+    "description": "Quality Circles: the Long March and recognition at last",
+    "url_metadata": "http://island.lk/quality-circles-the-long-march-and-recognition-at-last/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783783200.0
   },
   {
     "doc_type": "lk_news",
@@ -294982,6 +295026,83 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-fe16dab5",
+    "num": "islandlk-fe16dab5",
+    "date_str": "2026-07-12",
+    "description": "Colombo Tea Auction faces scrutiny as smallholders raise concerns about dollar gains",
+    "url_metadata": "http://island.lk/colombo-tea-auction-faces-scrutiny-as-smallholders-raise-concerns-about-dollar-gains/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783876860.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-18172055",
+    "num": "islandlk-18172055",
+    "date_str": "2026-07-12",
+    "description": "Nations Trust Bank appoints new independent non-executive director to its board",
+    "url_metadata": "http://island.lk/nations-trust-bank-appoints-new-independent-non-executive-director-to-its-board/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783876920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-6a76d2b1",
+    "num": "islandlk-6a76d2b1",
+    "date_str": "2026-07-12",
+    "description": "LCB Finance posts 55% growth in pre-tax profit as assets approach Rs. 13 bn",
+    "url_metadata": "http://island.lk/lcb-finance-posts-55-growth-in-pre-tax-profit-as-assets-approach-rs-13-bn/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783876920.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-00b3cccd",
+    "num": "islandlk-00b3cccd",
+    "date_str": "2026-07-12",
+    "description": "CWIT propels Colombo Port to new heights with region\u2019s tallest electric cranes",
+    "url_metadata": "http://island.lk/cwit-propels-colombo-port-to-new-heights-with-regions-tallest-electric-cranes/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783876980.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-173a3f44",
+    "num": "islandlk-173a3f44",
+    "date_str": "2026-07-12",
+    "description": "Bank of Ceylon pioneers contactless payments with launch of \u2018BOC Flex \u2013 Tap & Pay\u2019",
+    "url_metadata": "http://island.lk/bank-of-ceylon-pioneers-contactless-payments-with-launch-of-boc-flex-tap-pay/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783877100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-dba5b8d6",
+    "num": "islandlk-dba5b8d6",
+    "date_str": "2026-07-12",
+    "description": "Ceylon Green Life Plantation launches Ceylon ECO Resort Project",
+    "url_metadata": "http://island.lk/ceylon-green-life-plantation-launches-ceylon-eco-resort-project/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783877100.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-12-islandlk-02bb62bc",
+    "num": "islandlk-02bb62bc",
+    "date_str": "2026-07-12",
+    "description": "Hero-Abans Auto celebrates excellence at national convention",
+    "url_metadata": "http://island.lk/hero-abans-auto-celebrates-excellence-at-national-convention/",
+    "lang": "en",
+    "newspaper_id": "islandlk",
+    "time_ut": 1783877160.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-13-virakesarilk-63b31114",
     "num": "virakesarilk-63b31114",
     "date_str": "2026-07-13",
@@ -295155,5 +295276,38 @@
     "lang": "en",
     "newspaper_id": "dailyftlk",
     "time_ut": 1783892211.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-virakesarilk-d7863787",
+    "num": "virakesarilk-d7863787",
+    "date_str": "2026-07-13",
+    "description": "\u0b95\u0bbe\u0bb2\u0ba8\u0bbf\u0bb2\u0bc8 \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0ba4\u0bcd\u0ba4\u0bbe\u0bb2\u0bcd \u0ba4\u0bbf\u0ba4\u0bcd\u0bb5\u0bbe \u0baa\u0bc1\u0baf\u0bb2\u0bcd \u0baa\u0bcb\u0ba9\u0bcd\u0bb1 \u0baa\u0bc7\u0bb0\u0bb4\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd \u2013 \u0b85\u0ba9\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0b95\u0bbe\u0bae\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0bae\u0bc8\u0baf\u0bae\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/252963",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783902420.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-virakesarilk-dd11931a",
+    "num": "virakesarilk-dd11931a",
+    "date_str": "2026-07-13",
+    "description": "\u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bb1\u0bbf\u0baf\u0bb2\u0bcd \u0b89\u0ba4\u0bcd\u0ba4\u0bb0\u0bb5\u0bc1\u0b95\u0bb3\u0bbe\u0bb2\u0bcd \u0b9a\u0bbf\u0bb1\u0bc8\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0ba8\u0bc6\u0bb0\u0bbf\u0b9a\u0bb2\u0bcd; \u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bb4\u0bbf\u0b95\u0bb3\u0bc8 \u0b86\u0bb0\u0bbe\u0baf\u0bc1\u0bae\u0bbe\u0bb1\u0bc1 \u0ba4\u0bbf\u0bb8\u0bcd\u0bb8 \u0b85\u0ba4\u0bcd\u0ba4\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0b95\u0bcb\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8",
+    "url_metadata": "https://www.virakesari.lk/article/252964",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783902840.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-virakesarilk-f60bfaf6",
+    "num": "virakesarilk-f60bfaf6",
+    "date_str": "2026-07-13",
+    "description": "\u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95 - \u0b88\u0bb0\u0bbe\u0ba9\u0bcd \u0bae\u0bcb\u0ba4\u0bb2\u0bcd \u0ba4\u0bc0\u0bb5\u0bbf\u0bb0\u0bae\u0bcd: \u0bb5\u0bb3\u0bc8\u0b95\u0bc1\u0b9f\u0bbe \u0b85\u0bae\u0bc6\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0bb3\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0ba4\u0bb2\u0bcd",
+    "url_metadata": "https://www.virakesari.lk/article/252965",
+    "lang": "ta",
+    "newspaper_id": "virakesarilk",
+    "time_ut": 1783903320.0
   }
 ]
