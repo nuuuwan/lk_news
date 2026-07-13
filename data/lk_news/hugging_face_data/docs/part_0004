@@ -80779,6 +80779,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-02-28-dailymirrorlk-b1215092",
+    "num": "dailymirrorlk-b1215092",
+    "date_str": "2026-02-28",
+    "description": "Breaking Down the Israel\u2013Iran Conflict: What We Know So Far - Day 135",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Breaking-Down-the-IsraelIran-Conflict-What-We-Know-So-Far-Day-135/108-334187",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1772302048.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-02-28-dailymirrorlk-efd6e11f",
     "num": "dailymirrorlk-efd6e11f",
     "date_str": "2026-02-28",
@@ -295697,6 +295708,17 @@
   },
   {
     "doc_type": "lk_news",
+    "doc_id": "2026-07-13-adalk-389a0a9b",
+    "num": "adalk-389a0a9b",
+    "date_str": "2026-07-13",
+    "description": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0 \u0d89\u0dc4\u0dc5\u0dd2\u0db1\u0dca\u0db8 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dbb \u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0da2\u0dcf\u0dad\u0dd2\u0d9a-\u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0dcf\u0dc0-\u0d89\u0dc4\u0dc5\u0dd2\u0db1\u0dca\u0db8-\u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4-\u0d9a\u0dbb-\u0dad\u0dd2\u0db6\u0dd9\u0db1\u0dc0\u0dcf/11-423229",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783914924.0
+  },
+  {
+    "doc_type": "lk_news",
     "doc_id": "2026-07-13-tamilmirrorlk-20506d3a",
     "num": "tamilmirrorlk-20506d3a",
     "date_str": "2026-07-13",
@@ -295892,5 +295914,137 @@
     "lang": "ta",
     "newspaper_id": "virakesarilk",
     "time_ut": 1783919820.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailymirrorlk-ea322292",
+    "num": "dailymirrorlk-ea322292",
+    "date_str": "2026-07-13",
+    "description": "Underground chamber found under the school turns out to be neighbour\u2019s garage",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Underground-chamber-found-under-the-school-turns-out-to-be-neighbours-garage/108-345494",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783920495.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailymirrorlk-df6d6273",
+    "num": "dailymirrorlk-df6d6273",
+    "date_str": "2026-07-13",
+    "description": "Israel sets October 27 election as Netanyahu faces crucial post-Gaza war test",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Israel-sets-October-27-election-as-Netanyahu-faces-crucial-post-Gaza-war-test/108-345495",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783920709.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailymirrorlk-1775d54f",
+    "num": "dailymirrorlk-1775d54f",
+    "date_str": "2026-07-13",
+    "description": "President AKD expresses condolences on death of Qatar\u2019s Father Emir",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/President-AKD-expresses-condolences-on-death-of-Qatars-Father-Emir/108-345496",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783920975.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-tamilmirrorlk-c3d11178",
+    "num": "tamilmirrorlk-c3d11178",
+    "date_str": "2026-07-13",
+    "description": "\u0bae\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc0 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1: 27 \u0baa\u0bc7\u0bb0\u0bcd \u0baa\u0bb2\u0bbf",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b89\u0bb2\u0b95-\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bae\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc2\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc0-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1-27-\u0baa\u0bc7\u0bb0\u0bcd-\u0baa\u0bb2\u0bbf/50-379856",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783921293.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-adalk-425d0495",
+    "num": "adalk-425d0495",
+    "date_str": "2026-07-13",
+    "description": "\u0dad\u0dd9\u0dbd\u0dca \u0db8\u0dd2\u0dbd \u0dba\u0dc5\u0dd2\u0dad\u0dca \u0d89\u0dc4\u0dc5\u0da7",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0dad\u0dd9\u0dbd\u0dca-\u0db8\u0dd2\u0dbd-\u0dba\u0dc5\u0dd2\u0dad\u0dca-\u0d89\u0dc4\u0dc5\u0da7/11-423230",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783921311.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailymirrorlk-83c49d0a",
+    "num": "dailymirrorlk-83c49d0a",
+    "date_str": "2026-07-13",
+    "description": "Oil jumps 4% as new military strikes threaten Hormuz shipments",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Oil-jumps-4-as-new-military-strikes-threaten-Hormuz-shipments/108-345497",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783921445.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-tamilmirrorlk-a58ac737",
+    "num": "tamilmirrorlk-a58ac737",
+    "date_str": "2026-07-13",
+    "description": "\u0b95\u0bb3\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0ba4\u0bc0 \u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0b95\u0bb3\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8-\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f-\u0b9a\u0bc6\u0baf\u0bb2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd-\u0ba4\u0bc0-\u0bb5\u0bbf\u0baa\u0ba4\u0bcd\u0ba4\u0bc1/175-379857",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783922370.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-tamilmirrorlk-a365454e",
+    "num": "tamilmirrorlk-a365454e",
+    "date_str": "2026-07-13",
+    "description": "\u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bc8 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 19 \u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bca\u0bb4\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bcd",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0bb5\u0bbf\u0bae\u0bbe\u0ba9-\u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bc8-\u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4-19-\u0bae\u0bc1\u0ba4\u0bb2\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1-\u0bae\u0bc1\u0ba9\u0bcd\u0bae\u0bca\u0bb4\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bcd/175-379858",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783923040.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailymirrorlk-6cd4a6c3",
+    "num": "dailymirrorlk-6cd4a6c3",
+    "date_str": "2026-07-13",
+    "description": "University of Visual and Performing Arts reopens",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/University-of-Visual-and-Performing-Arts-reopens/108-345498",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783923734.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailymirrorlk-8e45f9dc",
+    "num": "dailymirrorlk-8e45f9dc",
+    "date_str": "2026-07-13",
+    "description": "Fire reported at Kalutara District Secretariat",
+    "url_metadata": "https://www.dailymirror.lk/breaking-news/Fire-reported-at-Kalutara-District-Secretariat/108-345500",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783924404.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-dailymirrorlk-e7f73a90",
+    "num": "dailymirrorlk-e7f73a90",
+    "date_str": "2026-07-13",
+    "description": "Sam Neill, star of \u2018Jurassic Park,\u2019 has died, family says",
+    "url_metadata": "https://www.dailymirror.lk/international/Sam-Neill-star-of-Jurassic-Park-has-died-family-says/107-345501",
+    "lang": "en",
+    "newspaper_id": "dailymirrorlk",
+    "time_ut": 1783924544.0
+  },
+  {
+    "doc_type": "lk_news",
+    "doc_id": "2026-07-13-adalk-aea0826a",
+    "num": "adalk-aea0826a",
+    "date_str": "2026-07-13",
+    "description": "\u0d9a\u0dc5\u0dd4\u0dad\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0d9c\u0dd2\u0db1\u0dca\u0db1\u0d9a\u0dca",
+    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dc5\u0dd4\u0dad\u0dbb-\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda-\u0d9c\u0dd2\u0db1\u0dca\u0db1\u0d9a\u0dca/11-423232",
+    "lang": "si",
+    "newspaper_id": "adalk",
+    "time_ut": 1783925471.0
   }
 ]
