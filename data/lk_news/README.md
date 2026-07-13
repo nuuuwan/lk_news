@@ -1,12 +1,12 @@
 # 📄#SriLanka 🇱🇰 News `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_12:57:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_14:54:04-green)
 
 [https://github.com/nuuuwan/lk_news/tree/data/data/lk_news](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news)
 
 A collection of lk_news documents.
 
-- [**123,272** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
+- [**123,288** documents](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news) (**1.9 GB**), from **2021-09-12** to **2026-07-13**, scraped from [https://www.virakesari.lk](https://www.virakesari.lk), [https://www.tamilmirror.lk](https://www.tamilmirror.lk), [http://sinhala.adaderana.lk](http://sinhala.adaderana.lk), [https://www.ada.lk](https://www.ada.lk), [https://www.adaderana.lk](https://www.adaderana.lk), [https://www.ft.lk](https://www.ft.lk), [http://island.lk](http://island.lk), [https://www.dailymirror.lk](https://www.dailymirror.lk), [https://economynext.com](https://economynext.com), [https://www.lankadeepa.lk](https://www.lankadeepa.lk), [https://www.colombotelegraph.com](https://www.colombotelegraph.com), [https://www.bbc.com](https://www.bbc.com), [https://dbsjeyaraj.com](https://dbsjeyaraj.com), [https://www.newsfirst.lk](https://www.newsfirst.lk) & [https://english.newsfirst.lk](https://english.newsfirst.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
@@ -19,14 +19,14 @@ A collection of lk_news documents.
 ```json
 {
     "doc_type": "lk_news",
-    "doc_id": "2026-07-13-adalk-aea0826a",
-    "num": "adalk-aea0826a",
+    "doc_id": "2026-07-13-tamilmirrorlk-03eacd4c",
+    "num": "tamilmirrorlk-03eacd4c",
     "date_str": "2026-07-13",
-    "description": "\u0d9a\u0dc5\u0dd4\u0dad\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0dbd\u0dda\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda \u0d9c\u0dd2\u0db1\u0dca\u0db1\u0d9a\u0dca",
-    "url_metadata": "https://www.ada.lk/breaking_news/\u0d9a\u0dc5\u0dd4\u0dad\u0dbb-\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca-\u0dbd\u0dda\u0d9a\u0db8\u0dca-\u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dba\u0dda-\u0d9c\u0dd2\u0db1\u0dca\u0db1\u0d9a\u0dca/11-423232",
-    "lang": "si",
-    "newspaper_id": "adalk",
-    "time_ut": 1783925471.0
+    "description": "\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 \u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc1\u0ba4\u0bb5\u0bbf \u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1",
+    "url_metadata": "https://www.tamilmirror.lk/\u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0b95\u0bb3\u0bcd/\u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95-\u0bae\u0bbe\u0ba3\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9-\u0ba8\u0bbf\u0ba4\u0bbf\u0baf\u0bc1\u0ba4\u0bb5\u0bbf-\u0ba8\u0bbf\u0b95\u0bb4\u0bcd\u0bb5\u0bc1/175-379869",
+    "lang": "ta",
+    "newspaper_id": "tamilmirrorlk",
+    "time_ut": 1783933675.0
 }
 ```
 
@@ -41,26 +41,26 @@ A collection of lk_news documents.
 
 ## 🆕 20 Latest documents
 
+- 2026-07-13 | `tamilmirrorlk-03eacd4c` | பல்கலைக்கழக மாணவர்களுக்கான நிதியுதவி நிகழ்வு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-03eacd4c)
+- 2026-07-13 | `dailymirrorlk-51f05a15` | Women MPs push for 33% political representation | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-51f05a15)
+- 2026-07-13 | `dailymirrorlk-3200e52d` | Heavy rains and flash floods in Bangladesh leave 51 dead | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-3200e52d)
+- 2026-07-13 | `tamilmirrorlk-e84756ef` | சிவப்பு அறைக்குள்: 10 பெண்களுடன் 17 பேர் கைது | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-e84756ef)
+- 2026-07-13 | `tamilmirrorlk-d2e3ae18` | அதிகாரியைக் கொல்ல முன் அவரது பிறப்புறுப்பு சிதைப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-d2e3ae18)
+- 2026-07-13 | `tamilmirrorlk-c3a09202` | டெங்குத் தொற்றால் 68,672 பேர் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-c3a09202)
+- 2026-07-13 | `tamilmirrorlk-144bfd6c` | பிரபல ஹாலிவுட் நடிகர் சாம் நீல்   காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-144bfd6c)
+- 2026-07-13 | `dailymirrorlk-62b43bde` | Sri Lanka’s oldest woman passes away at 114 | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-62b43bde)
+- 2026-07-13 | `dailymirrorlk-991be562` | Europe recorded 10,000 excess deaths during late-June heatwave, data show | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-991be562)
+- 2026-07-13 | `tamilmirrorlk-c26d0989` | இலங்கையின் வயதான மூதாட்டி காலமானார் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-c26d0989)
+- 2026-07-13 | `tamilmirrorlk-562d313f` | கவச உடைகளை அணியுமாறு அறிவுறுத்தல் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-562d313f)
+- 2026-07-13 | `adalk-d79e4d2e` | කොමර්ෂල් බැංකුව, ෆයිනෑන්ස් ඒෂියා සම්මාන සමග බැබලෙයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-adalk-d79e4d2e)
+- 2026-07-13 | `tamilmirrorlk-ec35a651` | ’’ஐயாவுக்கு கிழக்கு மண்ணில் சிலை வைக்க இடமளியோம்’’ | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-ec35a651)
+- 2026-07-13 | `adalk-68fde28c` | රජය මගින් වී මිලදී ගැනීම අරඹයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-adalk-68fde28c)
+- 2026-07-13 | `adalk-17102d32` | කටාර් ඒමීර්ගේ අභාවයට ජනපති අනුර සොව පළ කරයි | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-adalk-17102d32)
 - 2026-07-13 | `adalk-aea0826a` | කළුතර දිස්ත්‍රික් ලේකම් කාර්යාලයේ ගින්නක් | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-adalk-aea0826a)
 - 2026-07-13 | `dailymirrorlk-e7f73a90` | Sam Neill, star of ‘Jurassic Park,’ has died, family says | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-e7f73a90)
 - 2026-07-13 | `dailymirrorlk-8e45f9dc` | Fire reported at Kalutara District Secretariat | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-8e45f9dc)
 - 2026-07-13 | `dailymirrorlk-6cd4a6c3` | University of Visual and Performing Arts reopens | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-6cd4a6c3)
 - 2026-07-13 | `tamilmirrorlk-a365454e` | விமான நிலையத்தை மேம்படுத்த 19 முதலீட்டு முன்மொழிவுகள் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-a365454e)
-- 2026-07-13 | `tamilmirrorlk-a58ac737` | களுத்துறை மாவட்ட செயலகத்தில் தீ விபத்து | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-a58ac737)
-- 2026-07-13 | `dailymirrorlk-83c49d0a` | Oil jumps 4% as new military strikes threaten Hormuz shipments | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-83c49d0a)
-- 2026-07-13 | `adalk-425d0495` | තෙල් මිල යළිත් ඉහළට | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-adalk-425d0495)
-- 2026-07-13 | `tamilmirrorlk-c3d11178` | மதுக்கூடத்தில் தீ விபத்து: 27 பேர் பலி | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-tamilmirrorlk-c3d11178)
-- 2026-07-13 | `dailymirrorlk-1775d54f` | President AKD expresses condolences on death of Qatar’s Father Emir | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-1775d54f)
-- 2026-07-13 | `dailymirrorlk-df6d6273` | Israel sets October 27 election as Netanyahu faces crucial post-Gaza war test | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-df6d6273)
-- 2026-07-13 | `dailymirrorlk-ea322292` | Underground chamber found under the school turns out to be neighbour’s garage | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-ea322292)
-- 2026-07-13 | `virakesarilk-56da911b` | பிறக்கும் குழந்தைகளின் எண்ணிக்கையில் வீழ்ச்சி ; முதியோர் எண்ணிக்கை அதிகரிப்பு - சரோஜா சாவித்திரி போல்ராஜ் | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-56da911b)
-- 2026-07-13 | `dailymirrorlk-5ccb62cc` | Coming two weeks extremely critical as Dengue cases surge, warns expert | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-5ccb62cc)
-- 2026-07-13 | `virakesarilk-c4bdf03d` | பங்களாதேஷில் கடும் மழை அனர்த்தம்: வெள்ளப் பெருக்கு, மண்சரிவில் 51 பேர் உயிரிழப்பு ; 10 இலட்சம் பேர் பாதிப்பு | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-virakesarilk-c4bdf03d)
-- 2026-07-13 | `dailymirrorlk-fe5d9337` | Ceylon Newspapers’ writ against arrests fixed for hearing | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-fe5d9337)
-- 2026-07-13 | `dailymirrorlk-84fb6f5a` | Police Sergeant arrested for raping own daughter | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-84fb6f5a)
-- 2026-07-13 | `dailymirrorlk-ae510531` | CMC faces political drama amid dengue outbreak | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-ae510531)
-- 2026-07-13 | `dailymirrorlk-77fc19a5` | Drug peddler gets 76 calls from customers while in police custody | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-77fc19a5)
-- 2026-07-13 | `dailymirrorlk-2ae064d3` | 19 investors eye Mattala Airport | [data](https://github.com/nuuuwan/lk_news/tree/data/data/lk_news/2020s/2026/2026-07-13-dailymirrorlk-2ae064d3)
 
 ---
 
